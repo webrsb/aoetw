@@ -294,16 +294,9 @@
     </div>
     <!-- /container -->
 
-<?php include("allbatt.php"); ?>
+<?php include( "allbatt.php"); ?>
 <?php include("foot.php"); ?>
 
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
 </body>
 
 </html>
