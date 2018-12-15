@@ -131,4 +131,10 @@
           <div class="thanks">感謝! 此頁面由Falcon6164協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;"></div>
-            <div style="margin-left: 60px;">維基百科上的<a href="https://en.wikipedia.org/wiki/Guglielmo_Embriaco">吉列爾莫‧安布裡科</div></div>  </div></div> <div class="row">  <div class="col-md-12">  </div></div>      </div>    <!-- /container --><?php include("allhero.php"); ?><?php include("foot.php"); ?></body></html>
+            <div style="margin-left: 60px;">維基百科上的<a href="https://en.wikipedia.org/wiki/Guglielmo_Embriaco">吉列爾莫‧安布裡科</div></div>  </div></div> <div class="row">  <div class="col-md-12">  </div></div>      </div>
+        <!-- /container -->
+        <?php include( "allhero.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+
+</html>
