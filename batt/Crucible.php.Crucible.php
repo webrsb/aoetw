@@ -103,7 +103,14 @@
                 "><a href="
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">帝王世紀第四章之一</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4
-                ">     N/A      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="A_Life_of_Revenge.php
+                ">       <a href=>N/A</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="A_Life_of_Revenge.php
                 ">復仇的人生</a>        </td>      </tr>        </table>     <div class="thanks
                 ">       感謝! 此頁面由裕暉，竺叡協助編輯     </div>  </div></div> <div class="row ">  <div class="col-md-12
-                ">  </div></div>      </div>    <!-- /container --><?php include("allbatt.php "); ?><?php include("foot.php "); ?></body></html>
+                ">  </div></div>      </div>    
+        <!-- /container -->
+        <?php include( "allbatt.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+  </body>
+
+</html>

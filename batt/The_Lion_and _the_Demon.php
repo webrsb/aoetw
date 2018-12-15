@@ -86,4 +86,11 @@
                 ">聖戰!</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4
                 ">        N/A        </td>      </tr>        </table>     <div class="thanks
                 ">       感謝! 此頁面由裕暉，竺叡，亞諭協助編輯     </div>  </div></div> <div class="row ">  <div class="col-md-12
-                ">  </div></div>      </div>    <!-- /container --><?php include("allbatt.php "); ?><?php include("foot.php "); ?></body></html>
+                ">  </div></div>      </div>    
+        <!-- /container -->
+        <?php include( "allbatt.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+  </body>
+
+</html>

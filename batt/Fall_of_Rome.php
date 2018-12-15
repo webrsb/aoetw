@@ -91,4 +91,11 @@
                 " width="50 " height="46 "></div><div style="margin-left: 60px;
                 ">維基百科上的李奧教皇<div style="margin-left: 10px; "><i><strong><a href="https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96
                 ">李奧教皇</a></strong></i></div></div> </div>  </div></div> <div class="row ">  <div class="col-md-12
-                ">  </div></div>      </div>    <!-- /container --><?php include("allbatt.php "); ?><?php include("foot.php "); ?></body></html>
+                ">  </div></div>      </div>    
+        <!-- /container -->
+        <?php include( "allbatt.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+  </body>
+
+</html>

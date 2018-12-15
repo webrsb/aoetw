@@ -84,4 +84,11 @@
                 ">耶路撒冷攻城戰</a></p>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="The_Lion_and_the_Demon.php
                 ">獅子與惡魔</a></p>        </td>      </tr>        </table>     <div class="thanks
                 ">       感謝! 此頁面由裕暉，竺叡，亞諭協助編輯     </div>  </div></div> <div class="row ">  <div class="col-md-12
-                ">  </div></div>      </div>    <!-- /container --><?php include("allbatt.php "); ?><?php include("foot.php "); ?></body></html>
+                ">  </div></div>      </div>    
+        <!-- /container -->
+        <?php include( "allbatt.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+  </body>
+
+</html>

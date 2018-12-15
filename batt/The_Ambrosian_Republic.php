@@ -103,4 +103,11 @@
                 ">于歸之喜</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="A_New_Duk_of_Milan.php
                 ">米蘭新公爵</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div>     <div class="row
                 ">  <div class="col-md-12
-                ">    </div>     </div>  </div></div>      </div>    <!-- /container --><?php include("allbatt.php "); ?><?php include("foot.php "); ?></body></html>
+                ">    </div>     </div>  </div></div>      </div>    
+        <!-- /container -->
+        <?php include( "allbatt.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+  </body>
+
+</html>

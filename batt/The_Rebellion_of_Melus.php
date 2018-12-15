@@ -92,4 +92,11 @@
                 ">       <a href=>抵達巴里</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="The_Great_Ride.php
                 ">四面楚歌</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，阿湖協助編輯     </div> <div class="row
                 ">  <div class="col-md-12
-                ">  </div></div>      </div>    <!-- /container --><?php include("allbatt.php "); ?><?php include("foot.php "); ?></body></html>
+                ">  </div></div>      </div>    
+        <!-- /container -->
+        <?php include( "allbatt.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+  </body>
+
+</html>

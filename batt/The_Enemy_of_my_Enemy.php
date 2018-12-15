@@ -89,4 +89,11 @@
                 ">下一關</td>       <td class="unit4 ">        <a href="The_Exile_of_the_Cid.php
                 ">席德的流亡歲月</a></p>        </td>      </tr>        </table>     <div class="thanks
                 ">       感謝! 此頁面由Wun，裕暉協助編輯     </div>  </div></div> <div class="row ">  <div class="col-md-12
-                ">  </div></div>      </div>    <!-- /container --><?php include("allbatt.php "); ?><?php include("foot.php "); ?></body></html>
+                ">  </div></div>      </div>    
+        <!-- /container -->
+        <?php include( "allbatt.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+  </body>
+
+</html>

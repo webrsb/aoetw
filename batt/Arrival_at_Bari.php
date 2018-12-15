@@ -93,4 +93,11 @@
                 ">       <a href=>N/A</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="The_Rebellion_of_Melus.php
                 ">邁勒斯叛變</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，阿虎協助編輯。     </div> <div class="row
                 ">  <div class="col-md-12
-                ">  </div></div>      </div>    <!-- /container --><?php include("allbatt.php "); ?><?php include("foot.php "); ?></body></html>
+                ">  </div></div>      </div>    
+        <!-- /container -->
+        <?php include( "allbatt.php"); ?>
+        <?php include( "foot.php"); ?>
+  </body>
+  </body>
+
+</html>
