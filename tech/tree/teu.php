@@ -97,7 +97,7 @@ and (max-device-width: 480px)  {
       <!-- Example row of columns -->
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
-          <h1>馬利-科技樹</h1>
+          <h1>條頓-科技樹</h1>
           <div class="hrn1"></div>
         </div>
         <?php include( "tree.php"); ?>
@@ -132,7 +132,7 @@ and (max-device-width: 480px)  {
             <div><a href="Man-at-Arms.php">裝甲步兵</a>
             </div> <i class="fas fa-arrow-down"></i> 
           </td>
-          <td class="t19 trm ">
+          <td class="t19 trm">
             <img class="gg" src="img/SpearmanIcon.jpg" alt="">
             <div><a href="Spearman.php">長槍兵</a>
             </div> <i class="fas fa-arrow-down"></i>
@@ -191,7 +191,7 @@ and (max-device-width: 480px)  {
             <div><a href="Champion.php">劍兵勇士</a>
             </div>
           </td>
-          <td class="t19 trm not">
+          <td class="t19 trm">
             <img class="gg" src="img/HalberdierIcon.jpg" alt="">
             <div><a href="Halberdier.php">戟兵</a>
             </div>
@@ -252,23 +252,23 @@ and (max-device-width: 480px)  {
             <td class="t15 trm not">
               <img class="gg" src="img/GenitourIcon.jpg"><a href="Genitour.php"><div>標槍騎兵</div></a>  <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t15 trm">
+            <td class="t15 trm not">
               <img class="gg" src="img/Thumb_Ring.png"><a href="Thumb_Ring.php"><div>拇指環</div></a>
             </td>
           </tr>
           <tr>
             <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a>
             </td>
-            <td class="t15 trm">
+            <td class="t15 trm not">
               <img class="gg" src="img/ArbalestIcon.jpg"><a href="Arbalest.php"><div>強弩兵</div></a>
             </td>
             <td class="t15 trm not">
               <img class="gg" src="img/Imperialskirmishericon.png"><a href="Imperial_Skirmisher.php"><div>帝王戰矛兵</div></a>
             </td>
-            <td class="t15 trm ">
+            <td class="t15 trm  not">
               <img class="gg" src="img/HeavyCavArcherIcon.jpg"><a href="Heavy_Cavalry_Archer.php"><div>重裝馬弓騎兵</div></a>
             </td>
-            <td class="t15 trm ">
+            <td class="t15 trm">
               <img class="gg" src="img/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php"><div>火槍兵</div></a>
             </td>
             <td class="t15 trm not">
@@ -306,7 +306,7 @@ and (max-device-width: 480px)  {
           <tr>
             <td style=" vertical-align: middle; " class="t5 trm ca"><a href="Castle_Age.php">城堡時代</a>
             </td>
-            <td class="t19 trm">
+            <td class="t19 trm not">
               <img class="gg" src="img/LightCavalryIcon.jpg">
               <div><a href="Light_Cavalry.php">輕騎兵</a>
               </div><i class="fas fa-arrow-down"></i>
@@ -316,7 +316,7 @@ and (max-device-width: 480px)  {
               <div><a href="Knight.php">騎士</a>
               </div><i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm">
+            <td class="t19 trm not">
               <img class="gg" src="img/CamelIcon.jpg">
               <div><a href="Camel.php">駱駝騎兵</a>
               </div><i class="fas fa-arrow-down"></i>
@@ -326,7 +326,7 @@ and (max-device-width: 480px)  {
               <div><a href="Battle_Elephant.php">矛象伕</a>
               </div><i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm">
+            <td class="t19 trm not">
               <img class="gg" src="img/Husbandry.jpg" alt="">
               <div><a href="Husbandry.php">畜牧培育</a>
               </div>
@@ -345,11 +345,11 @@ and (max-device-width: 480px)  {
               <div><a href="Cavalier.php">騎兵</a>
               </div> <i class="fas fa-arrow-down"></i>
               <br>
-              <img class="gg not" src="img/PaladinIcon.jpg">
-              <div><a href="Paladin.php" class="not">遊俠</a>
+              <img class="gg" src="img/PaladinIcon.jpg">
+              <div><a href="Paladin.php" class="">遊俠</a>
               </div>
             </td>
-            <td class="t19 trm">
+            <td class="t19 trm not">
               <img class="gg" src="img/HeavyCamelIcon.jpg">
               <div><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
               </div><i class="fas fa-arrow-down"></i>
@@ -380,7 +380,12 @@ and (max-device-width: 480px)  {
         <td class="t23 trm">
           <img class="gg" src="img/BatteringRamIcon.jpg" width="30" alt="">
           <div><a href="Battering_Ram.php">衝撞車</a>
-          </div><i class="fas fa-arrow-down">          </td>          <td class="t23 trm"><img class="gg" src="img/MangonelIcon.jpg" width="30" alt=""><div><a href="Mangonel.php">輕型投石車</a></div><i class="fas fa-arrow-down"></i>
+          </div><i class="fas fa-arrow-down"></i> 
+        </td>
+        <td class="t23 trm">
+          <img class="gg" src="img/MangonelIcon.jpg" width="30" alt="">
+          <div><a href="Mangonel.php">輕型投石車</a>
+          </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t23 trm">
           <img class="gg" src="img/ScorpionIcon.jpg" width="30" alt="">
@@ -410,11 +415,11 @@ and (max-device-width: 480px)  {
           <div><a href="Onager.php">中型投石車</a>
           </div><i class="fas fa-arrow-down"></i>
           <br>
-          <img class="gg " src="img/SiegeOnagerIcon.jpg" width="30" alt="">
+          <img class="gg" src="img/SiegeOnagerIcon.jpg" width="30" alt="">
           <div><a href="Siege Onager.php" class="">重型投石車</a>
           </div>
         </td>
-        <td class="t23 trm not">
+        <td class="t23 trm">
           <img class="gg" src="img/HeavyScorpionIcon.jpg" width="30" alt="">
           <div><a href="Heavy_Scorpion.php">重型弩砲</a>
           </div>
@@ -438,8 +443,8 @@ and (max-device-width: 480px)  {
       <td style=" vertical-align: middle; " class="t5 trm ca"><a href="Castle_Age.php">城堡時代</a>
       </td>
       <td class="t13 trm">
-        <img class="gg" src="img/GbetoIcon.png" width="30" alt="">
-        <div><a href="Gbeto.php">飛刀女獵手</a>
+        <img class="gg" src="img/Crusade_avatar.png" width="30" alt="">
+        <div><a href="Teutonic_Knight.php">條頓武士</a>
         </div>
       </td>
       <td class="t13 trm">
@@ -449,7 +454,7 @@ and (max-device-width: 480px)  {
       </td>
       <td class="t13 trm">
         <img class="gg" src="img/CastleAgeUnique.png" width="30" alt="">
-        <div><a href="Tigui.php">部落領袖</a>
+        <div><a href="Ironclad.php">鋼鐵甲</a>
         </div>
       </td>
       <td class="t13 trm"></td>
@@ -462,8 +467,8 @@ and (max-device-width: 480px)  {
       <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a>
       </td>
       <td class="t13 trm">
-        <img class="gg" src="img/GbetoIcon.png" width="30" alt="">
-        <div><a href="Gbeto.php">精銳飛刀女獵手</a>
+        <img class="gg" src="img/Crusade_avatar.png" width="30" alt="">
+        <div><a href="Teutonic_Knight.php">精銳條頓武士</a>
         </div>
       </td>
       <td class="t13 trm">
@@ -473,15 +478,15 @@ and (max-device-width: 480px)  {
       </td>
       <td class="t13 trm">
         <img class="gg" src="img/Unique-tech.jpg" width="30" alt="">
-        <div><a href="Farimba.php">剽悍精神</a>
+        <div><a href="Crenellations.php">垛口</a>
         </div>
       </td>
-      <td class="t13 trm ">
+      <td class="t13 trm">
         <img class="gg" src="img/Hoardings.jpg" width="30" alt="">
         <div><a href="Hoardings.php">外架式柵樓</a>
         </div>
       </td>
-      <td class="t13 trm">
+      <td class="t13 trm not">
         <img class="gg" src="img/Sappers.jpg" width="30" alt="">
         <div><a href="Sappers.php">坑道工兵</a>
         </div>
@@ -656,7 +661,7 @@ and (max-device-width: 480px)  {
       <tr>
         <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a>
         </td>
-        <td class="t23 trm not">
+        <td class="t23 trm">
           <img class="gg" src="img/Twomansaw.jpg" alt="">
           <div><a href="Two-Man_Saw.php">雙人鋸</a>
           </div>
@@ -692,7 +697,7 @@ and (max-device-width: 480px)  {
       <tr>
         <td style=" vertical-align: middle; " class="t5 trm ca"><a href="Castle_Age.php">城堡時代</a>
         </td>
-        <td class="t23 trm">
+        <td class="t23 trm not">
           <img class="gg" src="img/Goldshaftmining.jpg" alt="">
           <div><a href="Gold_Shaft_Mining.php">礦井採金</a>
           </div>
@@ -817,17 +822,17 @@ and (max-device-width: 480px)  {
       <tr>
         <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a>
         </td>
-        <td class="t10 trm not">
+        <td class="t10 trm">
           <img class="gg" src="img/FastFireShipIcon.jpg">
           <div><a href="Fast_Fire_Ship.php">快速火戰船</a>
           </div>
         </td>
-        <td class="t10 trm ">
+        <td class="t10 trm">
           <img class="gg" src="img/HeavyDemoShipIcon.jpg">
           <div><a href="Heavy_Demolition_Ship.php">重型神風船</a>
           </div>
         </td>
-        <td class="t10 trm ">
+        <td class="t10 trm">
           <img class="gg" src="img/GalleonAoE2.jpg">
           <div><a href="Galleon.php">重型弩炮戰船</a>
           </div>
@@ -847,7 +852,7 @@ and (max-device-width: 480px)  {
           <div><a href="Caravel.php">精銳卡拉維爾戰船</a>
           </div>
         </td>
-        <td class="t10 trm ">
+        <td class="t10 trm">
           <img class="gg" src="img/CannonGalleonIcon.jpg">
           <div><a href="Cannon_Galleon.php">火炮戰船</a>
           </div><i class="fas fa-arrow-down"></i>
@@ -856,7 +861,7 @@ and (max-device-width: 480px)  {
           <div><a href="Elite_Cannon_Galleon.php" class="not">精銳火炮戰船</a>
           </div>
         </td>
-        <td class="t10 trm">
+        <td class="t10 trm not">
           <img class="gg" style="margin: 2px;" src="img/Drydock.jpg" alt="">
           <div><a href="Dry_Dock.php">旱碼頭</a>
           </div>
@@ -951,7 +956,7 @@ and (max-device-width: 480px)  {
           <div><a href="Bracer.php">護腕</a>
           </div>
         </td>
-        <td class="t19 trm not">
+        <td class="t19 trm">
           <img class="gg" src="img/Blastfurnace.jpg" alt="">
           <div><a href="Blast_Furnace.php">鐵風爐</a>
           </div>
@@ -1062,7 +1067,7 @@ and (max-device-width: 480px)  {
           <div><a href="Atonement.php">贖罪</a>
           </div>
         </td>
-        <td class="t11 trm">
+        <td class="t11 trm not">
           <img class="gg" src="img/Herbalmedicine.png" width="30" alt="">
           <div><a href="Herbal_Medicine.php">草藥學</a>
           </div>
@@ -1093,7 +1098,7 @@ and (max-device-width: 480px)  {
           <div><a href="Faith.php">忠誠信仰</a>
           </div>
         </td>
-        <td class="t11 trm not">
+        <td class="t11 trm">
           <img class="gg" src="img/Illumination.jpg" width="30" alt="">
           <div><a href="Illumination.php not">啟發教化</a>
           </div>
@@ -1127,7 +1132,7 @@ and (max-device-width: 480px)  {
           <div><a href="Castle_Age.php">城堡時代</a>
           </div>
         </td>
-        <td class="t11 trm ">
+        <td class="t11 trm">
           <img class="gg" src="img/Masonry.jpg" alt="">
           <div><a href="Masonry.php">磚瓦技術</a>
           </div><i class="fas fa-arrow-down"></i>
@@ -1135,6 +1140,7 @@ and (max-device-width: 480px)  {
         <td class="t11 trm">
           <img class="gg" src="img/Fortified-wall-research.jpg" alt="">
           <div><a href="Fortified Wall.php">垛牆</a>
+          </div>
         </td>
         <td class="t11 trm">
           <img class="gg" src="img/Ballistics.jpg" alt="">
@@ -1159,6 +1165,7 @@ and (max-device-width: 480px)  {
         <td class="t11 trm">
           <img class="gg" src="img/Treadmillcrane.jpg" alt="">
           <div><a href="Treadmill Crane.php">滑輪起重機</a>
+          </div>
         </td>
         <td class="t11 trm"></td>
         <tr>
@@ -1166,7 +1173,7 @@ and (max-device-width: 480px)  {
             <div><a href="Imperial_Age.php">帝王時代</a>
             </div>
           </td>
-          <td class="t11 trm">
+          <td class="t11 trm not">
             <img class="gg" src="img/Architecture.jpg" alt="">
             <div><a href="Architecture.php">建築學</a>
             </div>
@@ -1176,11 +1183,11 @@ and (max-device-width: 480px)  {
             <div><a href="Chemistry.php">化學</a>
             </div><i class="fas fa-arrow-down"></i>
             <br>
-            <img class="gg not" src="img/Bombard-tower-research.jpg" alt="">
-            <div><a href="Bombard_Tower.php" class="not">火砲塔</a>
+            <img class="gg" src="img/Bombard-tower-research.jpg" alt="">
+            <div><a href="Bombard_Tower.php" class="">火砲塔</a>
             </div>
           </td>
-          <td class="t11 trm not">
+          <td class="t11 trm">
             <img class="gg" src="img/Siegeengineers.jpg" alt="">
             <div><a href="Siege_Engineers.php">攻城工程師</a>
             </div>
@@ -1190,7 +1197,7 @@ and (max-device-width: 480px)  {
             <div><a href="Keep.php">大型箭塔</a>
             </div>
           </td>
-          <td class="t11 trm not">
+          <td class="t11 trm">
             <img class="gg" src="img/Arrowlits.jpg" alt="">
             <div><a href="Arrowslits.php">箭狹槽</a>
             </div>
@@ -1205,6 +1212,7 @@ and (max-device-width: 480px)  {
     </div>
     </div>
     <!-- /container -->
+    <!-- <?php include( "tree.php"); ?> -->
   </body>
 
 </html>
