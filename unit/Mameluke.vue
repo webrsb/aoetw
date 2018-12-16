@@ -62,25 +62,25 @@
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Zealotry.php">狂熱舉動</a>(+30，<a href="Saracens.php">薩拉森</a> 限定)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -92,7 +92,7 @@
               <td class="tta1" style="width:10%">抵抗招降</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="faith.php">忠誠信仰</a>(+33%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -467,9 +467,9 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-              <br> <a href="Armor_Class_Cavalry.php">騎兵(+11)</a>
-              <br> <a href="Armor_Class_Camel.php">駱駝</a>
-              <br> <a href="Armor_Class_Unique_Unit.php">特殊兵種</a>
+              <br/> <a href="Armor_Class_Cavalry.php">騎兵(+11)</a>
+              <br/> <a href="Armor_Class_Camel.php">駱駝</a>
+              <br/> <a href="Armor_Class_Unique_Unit.php">特殊兵種</a>
             </td>
           </tr>
           <tr>

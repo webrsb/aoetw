@@ -52,7 +52,7 @@
                 " style="background:#ea6153; ">敵對</td>  </tr><tr>  <tr>    <td class="tc6
                 "><div class="p2 "></div>玩家7：</td>    <td class="tc6
                 ">梅勒斯（紅色）拜占庭 </td>    <td class="tc6 "><div class="p8 "></div>玩家8：</td>    <td class="tc6
-                ">反叛軍（橘色）哥德   </td>  </tr>  </tr>       </table><br>  <dl class="dl-horizontal
+                ">反叛軍（橘色）哥德   </td>  </tr>  </tr>       </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>邁克爾‧諾蒂卡斯</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol>     <li>邁克爾一定要活著。</li>    <li>帶邁克爾去見北方倫巴第鎮的酋長（披著斗篷的人）</li>    <li>帶邁克爾回去見梅勒斯。</li>    <li>帶邁克爾去布林迪西的教堂會見城主:一位僧侶長老。</li>    <li>帶邁克爾和他的兵馬回去見巴里的梅勒斯。</li>    <li>邁克爾和他的兵馬必須西逃尋求避難所。</li>    <li>帶邁克爾到諾曼城卡布亞會見那裡的國王並尋求幫助。</li>    <li>把沼澤地的聖物帶回來卡布亞教堂。</li>    <li>摧毀所有軍事和經濟建築，士兵和船艦來打敗叛軍。不要擔心巴里被摧毀，當叛亂被鎮壓後可以重建。    一旦巴里被重奪，叛軍被打敗，帶邁克爾去梅勒斯城堡的庭院。</li>    </ol></div><h2>次要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol>    <li>帶邁克爾去波坦察並找他們的首領需求幫助。</li>    <li>摧毀叛軍的營地（所有的塔，軍營和射箭場）並殺死巴里的達特斯（紅色騎士）。然後帶邁克爾回去見波坦察國王。</li><li>在有旗子標誌的地點建造一座塔來保衛倫巴第城不受叛軍攻擊。</li> </ol></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

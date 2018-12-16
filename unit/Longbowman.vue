@@ -10,8 +10,8 @@
         </div>
         <div class="col-md-8">
           <div class="n1">長弓手是<a href="Britons.php">不列顛人</a>的<a href="Unique_Unit.php">特殊單位</a>。徒步遠程單位，射程很遠。因此伴隨著低生命值。
-            <br>
-            <br>長弓手能夠在<a href="Imperial_Age.php">帝王時代</a>升級成精銳長弓手。</div>
+            <br/>
+            <br/>長弓手能夠在<a href="Imperial_Age.php">帝王時代</a>升級成精銳長弓手。</div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -60,22 +60,22 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊範圍</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Yeomen.php">義勇騎兵</a>(+1，<a href="Britons.php">不列顛</a>限定)</td>
             </tr>
             <tr>
@@ -87,9 +87,9 @@
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Paddedarcherarmor.jpg" width="30" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Leatherarcherarmor.jpg" width="30" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ringarcherarmor.jpg" width="30" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -354,7 +354,7 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-              <br><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+              <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
             </td>
           </tr>
           <tr>

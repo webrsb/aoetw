@@ -128,8 +128,8 @@
             </tr>
             <td class="unit3">適合文明</td>
             <td class="unit4">匈奴
-              <br>蒙古
-              <br>馬札爾</td>
+              <br/>蒙古
+              <br/>馬札爾</td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
@@ -144,7 +144,7 @@
             <tr>
               <td class="unit3">操控難易度</td>
               <td class="unit4">控經濟簡單
-                <br>控馬較難</td>
+                <br/>控馬較難</td>
             </tr>
             <tr>
               <td class="unit3">優點</td>

@@ -122,7 +122,7 @@
               class="gg" alt=""><a href="Imperial_Age.php">城堡時代</a>
             </li>
             <li><strong>起始資源：</strong>200木頭，200食物
-              <br>500黃金，500石頭</li>
+              <br/>500黃金，500石頭</li>
             <li><strong>人口上限：</strong>75</li>
           </ul>
         </div>

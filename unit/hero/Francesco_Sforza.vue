@@ -62,7 +62,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對火藥單位+12
-                <br>對標準建築+2</td>
+                <br/>對標準建築+2</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -80,7 +80,7 @@
               <tr>
                 <td class="unit3">防禦類型</td>
                 <td class="unit4">步兵(+12)
-                  <br>特殊單位</td>
+                  <br/>特殊單位</td>
               </tr>
               <tr>
                 <td class="unit3">速度</td>

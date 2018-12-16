@@ -53,7 +53,7 @@
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Infantry_Units.php">步兵</a>
 
-                <br><a href="heros.php">英雄</a>
+                <br/><a href="heros.php">英雄</a>
 
               </td>
             </tr>
@@ -77,11 +77,11 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_Monk.php">僧侶</a> +10
-                <br>對<a href="Armor_Class_Siege_Weapon.php">攻城武器</a> +5
-                <br>對<a href="Armor_Class_Cavalry.php">騎兵</a> +4
-                <br>對<a href="Armor_Class_building.php">建築</a> +3
-                <br>對<a href="Armor_Class_Camel.php">駱駝</a> +2
-                <br>對<a href="Armor_Class_Ship.php">船</a> +2</td>
+                <br/>對<a href="Armor_Class_Siege_Weapon.php">攻城武器</a> +5
+                <br/>對<a href="Armor_Class_Cavalry.php">騎兵</a> +4
+                <br/>對<a href="Armor_Class_building.php">建築</a> +3
+                <br/>對<a href="Armor_Class_Camel.php">駱駝</a> +2
+                <br/>對<a href="Armor_Class_Ship.php">船</a> +2</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -102,7 +102,7 @@
                     <td class="unit3">防禦類型</td>
                     <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
 
-                      <br><a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>
+                      <br/><a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>
 
                     </td>
                   </tr>

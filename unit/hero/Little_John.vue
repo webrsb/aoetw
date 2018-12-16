@@ -38,7 +38,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">步兵
-                <br>英雄</td>
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -60,10 +60,10 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對騎兵+15
-                <br>對戰象+15
-                <br>對駱駝+9
-                <br>對鷹勇士+1
-                <br>對標準建築+1</td>
+                <br/>對戰象+15
+                <br/>對駱駝+9
+                <br/>對鷹勇士+1
+                <br/>對標準建築+1</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -82,7 +82,7 @@
                 <tr>
                   <td class="unit3">防禦類型</td>
                   <td class="unit4">步兵
-                    <br>長槍兵</td>
+                    <br/>長槍兵</td>
                 </tr>
                 <tr>
                   <td class="unit3">跑速</a>

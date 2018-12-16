@@ -208,7 +208,7 @@ and (max-device-width: 480px)  {
             <div><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
 
             </div> <i class="fas fa-arrow-down"></i> 
-            <br>
+            <br/>
             <img class="gg" src="~assets/ChampionIcon.jpg" alt="">
             <div><a href="Champion.php">劍兵勇士</a>
 
@@ -403,7 +403,7 @@ and (max-device-width: 480px)  {
               <div><a href="Cavalier.php">騎兵</a>
 
               </div> 
-			  <i class="fas fa-arrow-down"></i><br><div class="not"><img class="gg" src="~assets/PaladinIcon.jpg"><div><a href="Paladin.php" class="">遊俠</a></div></div>
+			  <i class="fas fa-arrow-down"></i><br/><div class="not"><img class="gg" src="~assets/PaladinIcon.jpg"><div><a href="Paladin.php" class="">遊俠</a></div></div>
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/HeavyCamelIcon.jpg">
@@ -411,7 +411,7 @@ and (max-device-width: 480px)  {
 
               </div><i class="fas fa-arrow-down"></i>
 
-              <br>
+              <br/>
               <img class="gg" src="~assets/ImperialCamelIcon.jpg">
               <div><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
 
@@ -476,7 +476,7 @@ and (max-device-width: 480px)  {
 
           </div><i class="fas fa-arrow-down"></i>
 
-          <br>
+          <br/>
           <img class="gg not" src="~assets/SiegeRamIcon.jpg" width="30" alt="">
           <div><a href="Siege_Ram.php">重型衝撞車</a>
 
@@ -488,7 +488,7 @@ and (max-device-width: 480px)  {
 
           </div><i class="fas fa-arrow-down"></i>
 
-          <br>
+          <br/>
           <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt="">
           <div><a href="Siege Onager.php" class="">重型投石車</a>
 
@@ -1029,7 +1029,7 @@ and (max-device-width: 480px)  {
 
           </div><i class="fas fa-arrow-down"></i>
 
-          <br>
+          <br/>
           <img class="gg not" src="~assets/CannonGalleonIcon.jpg">
           <div><a href="Elite_Cannon_Galleon.php" class="not">精銳火炮戰船</a>
 
@@ -1427,7 +1427,7 @@ and (max-device-width: 480px)  {
 
             </div><i class="fas fa-arrow-down"></i>
 
-            <br>
+            <br/>
             <img class="gg not" src="~assets/Bombard-tower-research.jpg" alt="">
             <div><a href="Bombard_Tower.php" class="not">火砲塔</a>
 

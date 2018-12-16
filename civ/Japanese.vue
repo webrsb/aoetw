@@ -54,7 +54,7 @@
           <div class="n1">
             <em><a href="jap.php">日本科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>戰術概論</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -116,29 +116,29 @@
                   <td class="tta2"><span class="fas fa-check" style="color: #d9534f;"></span>
                    </td>     
                   <td class="tta3">
-                      日本海軍(敵對)<div class="p4"></div><br>
+                      日本海軍(敵對)<div class="p4"></div><br/>
                       日本侵略者(敵對)<div class="p6"></div></td>                    
               </tr>                    
               <tr>                        
                   <td class="tta1">征服者的戰役-京都(1582)</td>                        
                   <td class="tta2"><span class="fas fa-check" style="color: green;"></span></td>                        
                   <td class="tta3">
-                      玩家<div class="p5"></div><br>
-                      大阪(敵對)<div class="p2"></div><br>
-                      京都(敵對)<div class="p3"></div><br>
-                      織田信長(友軍)<div class="p4"></div><br>
+                      玩家<div class="p5"></div><br/>
+                      大阪(敵對)<div class="p2"></div><br/>
+                      京都(敵對)<div class="p3"></div><br/>
+                      織田信長(友軍)<div class="p4"></div><br/>
                       靜岡(敵對)<div class="p1"></div></td>                    
                 </tr>                    
               <tr>                        
                   <td class="tta1">征服者的戰役-礪波山(1183)</td>                        
                   <td class="tta2"><span class="fas fa-check" style="color: green;"></span></td>                        
-                  <td class="tta3"><div class="p1">玩家</div><br>
-                      木曾義仲(友軍)<div class="p6"></div><br>
-                      北条式(友軍)<div class="p4"></div><br>
-                      平式軍閥(敵對)<div class="p2"></div><br>
-                      京都(敵對)<div class="p5"></div><br>
-                      平家軍(敵對)<div class="p8"></div><br>
-                      平式守衛(敵對)<div class="p3"></div><br>
+                  <td class="tta3"><div class="p1">玩家</div><br/>
+                      木曾義仲(友軍)<div class="p6"></div><br/>
+                      北条式(友軍)<div class="p4"></div><br/>
+                      平式軍閥(敵對)<div class="p2"></div><br/>
+                      京都(敵對)<div class="p5"></div><br/>
+                      平家軍(敵對)<div class="p8"></div><br/>
+                      平式守衛(敵對)<div class="p3"></div><br/>
                       當地人(友軍)<div class="p7"></div></td>                    
                 </tr>                
                       
@@ -221,7 +221,7 @@
             </tr>      
             <tr>        
                 <td class="unit3">特殊技術</td>       
-                <td class="unit4"><img class="gg" src="~assets/CastleAgeUnique.png"><a href="Yasama.php">射箭孔</a><br>
+                <td class="unit4"><img class="gg" src="~assets/CastleAgeUnique.png"><a href="Yasama.php">射箭孔</a><br/>
                                   <img class="gg" src="~assets/Unique-tech.jpg">彈射器</td>      
             </tr>           
               </table>

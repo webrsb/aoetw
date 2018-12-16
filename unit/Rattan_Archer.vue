@@ -50,20 +50,20 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img src="~assets/Fletching.jpg" class="gg" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img src="~assets/Bodkinarrow.jpg" class="gg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img src="~assets/Bracer.jpg" class="gg" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img src="~assets/Chemistry.jpg" class="gg" alt=""><a href="Chemistry.php">化學</a>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊範圍</td>
               <td class="tta4">
                 <img src="~assets/Fletching.jpg" class="gg" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img src="~assets/Bodkinarrow.jpg" class="gg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img src="~assets/Bracer.jpg" class="gg" alt=""><a href="Bracer.php">護腕</a>(+1)</td>
             </tr>
             <tr>
@@ -76,16 +76,16 @@
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
                 <img src="~assets/Ballistics.jpg" class="gg" alt=""><a href="Ballistic.php">彈道學</a>(對移動目標命中率上升)
-                <br>
+                <br/>
                 <img src="~assets/Thumb_Ring.png" class="gg" alt=""><a href="Thumb _Ring.php">拇指環</a>(命中率提升到100%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img src="~assets/Paddedarcherarmor.jpg" class="gg" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img src="~assets/Leatherarcherarmor.jpg" class="gg" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img src="~assets/Ringarcherarmor.jpg" class="gg" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -252,7 +252,7 @@
             <tr>
               <td class="unit3">防禦類別</td>
               <td class="unit4"><a href="Armor_Class_Archer.php">弓兵</a>
-                <br><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+                <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

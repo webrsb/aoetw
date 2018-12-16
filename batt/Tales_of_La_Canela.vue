@@ -72,7 +72,7 @@
                   <td class="tc6">叛軍(綠色) 印加 敵對</td>
                 </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>法蘭西斯科.德.奧雷利亞納，2位西班牙征服者(HP75)，2位斥侯騎兵(HP265，ATK3+20)。</dd> <dt>大地之母單位:</dt> 
               <dd></dd>

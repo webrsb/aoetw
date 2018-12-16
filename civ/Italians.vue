@@ -58,7 +58,7 @@
           <div class="n1">
             <em><a href="ita.php">義大利科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -138,7 +138,7 @@
               <td class="unit3">特殊單位</td>
               <td class="unit4">
                 <img class="gg" src="~assets/New_Genoese_Crossbowman.png">熱那亞弩手
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CondottieroNewIcon.jpg">僱傭兵</td>
             </tr>
             <tr>
@@ -149,7 +149,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">巨盾
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">絲綢之路</td>
             </tr>
           </table>

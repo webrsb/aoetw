@@ -39,7 +39,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">平民<br>英雄</a>
+              <td class="unit4"><a href="">平民<br/>英雄</a>
               </td>
             </tr>
             <tr>

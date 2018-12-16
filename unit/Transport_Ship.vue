@@ -11,7 +11,7 @@
         <div class="col-md-8">
           <div class="n1">
             <p>運輸船可以在<a href="Dock.php">碼頭</a>中訓練。它可以運送任何單位，但也不能攻擊其他單位。運輸船使陸地單位可以在水面上移動，對於進行偷襲非常有效。
-              <br>它血量偏低，但它擁有較高的遠程防禦。但如果它沉沒了，你所有的駐軍都會死亡。因此，最好用<a href="Galley.php">戰船</a>或者是
+              <br/>它血量偏低，但它擁有較高的遠程防禦。但如果它沉沒了，你所有的駐軍都會死亡。因此，最好用<a href="Galley.php">戰船</a>或者是
               <a
               href="Fire_Ship.php">火戰船</a>等軍用船隻來保護運輸工具。</p>
             <p>一開始運輸船的載運量只有5，研發<a href="Careening.php">傾側維修術</a>和<a href="Dry_Dock.php">旱碼頭</a>後會分別增加到10和20的載運量。
@@ -57,7 +57,7 @@
               <td class="tta1" style="width:10%">護甲</td>
               <td class="tta4">
                 <img style="margin: 2px;" class="gg" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>(護甲+0/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Carrack.php">克拉克帆船</a>(護甲+1/+1，<a href="Portuguese.php">葡萄牙</a>限定)</td>
             </tr>
             <tr>
@@ -69,7 +69,7 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -87,7 +87,7 @@
               <td class="tta1" style="width:10%">運輸量</td>
               <td class="tta4">
                 <img style="margin: 2px;" class="gg" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>(+5)
-                <br>
+                <br/>
                 <img style="margin: 2px;" class="gg" src="~assets/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>(+10)</td>
             </tr>
           </table>

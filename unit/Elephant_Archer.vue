@@ -234,7 +234,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對石造建築+3/+4(精銳)
-                <br>對一般建築+3/+4(精銳)</td>
+                <br/>對一般建築+3/+4(精銳)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -267,10 +267,10 @@
             <tr>
               <td class="unit3">防禦類別</td>
               <td class="unit4">弓兵
-                <br>馬騎弓兵(精銳)
-                <br>騎兵
-                <br>戰象
-                <br>特殊單位</td>
+                <br/>馬騎弓兵(精銳)
+                <br/>騎兵
+                <br/>戰象
+                <br/>特殊單位</td>
             </tr>
             <tr>
               <td class="unit3">跑速</td>

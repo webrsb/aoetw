@@ -58,7 +58,7 @@
                   </div>
                </div>
             </div>
-            <br>
+            <br/>
             <!--
             <div class="col-md-4">
                <div class="nw">
@@ -151,7 +151,7 @@
                            <li><a href="Trade_Cog.php">哪一個單位</a>是遊戲中移動速度最快的單位？</li>
                            <li>獨輪推車<a href="Wheelbarrow.php">最佳研發時機</a>怎麼看？</li>
                         </ul>
-                        <br>                
+                        <br/>                
                         <p style="text-align: right;font-size: 15px;"><a href="http://tinyurl.com/y95wnoxq">我要投稿</a>&nbsp;                  <span style="text-align: right;font-size: 15px;"><a href="uknow.php">歷史存檔</a></span> 
                         </p>
                         </ul>

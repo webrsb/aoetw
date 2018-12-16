@@ -56,14 +56,14 @@
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>(+15%)
-                <br>
+                <br/>
                 <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Panokseon.php">板屋船</a>(+15%，<a href="Koreans.php">韓國</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -421,9 +421,9 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class_Ship.php">船</a>(+8/+11(精銳))
-                <br> <a href="Armor_Class_Turtle_Ship.php">龜甲船</a>(+1(精銳))
-                <br> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-                <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+                <br/> <a href="Armor_Class_Turtle_Ship.php">龜甲船</a>(+1(精銳))
+                <br/> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
+                <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

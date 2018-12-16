@@ -57,7 +57,7 @@
                   <td class="tc6">菲利普堡（紅色）拜占庭</td>
                 </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>3位村民、3位韃靼騎兵、1位憎侶。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

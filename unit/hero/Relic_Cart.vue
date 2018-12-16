@@ -36,7 +36,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">無<br></td>      </tr>      <tr>        <td class="unit3">出場</td>       <td class="unit4">被遺忘的帝國</td>      </tr>      <tr>        <td class="unit" colspan="2" style="background-color:#d01022;">       <div class="unititle2" style="color: #fff;">統計</div>       </td>      </tr>       <tr>        <td class="unit3">血量</td>       <td class="unit4">75</td>      </tr>      <tr>        <td class="unit3">跑速</td>       <td class="unit4">0.66</td>      </tr>      <tr>        <td class="unit3">視野</td>       <td class="unit4">1</td>      </tr> </table><div class="thanks">     </div> </div>    </div>
+              <td class="unit4"><a href="">無<br/></td>      </tr>      <tr>        <td class="unit3">出場</td>       <td class="unit4">被遺忘的帝國</td>      </tr>      <tr>        <td class="unit" colspan="2" style="background-color:#d01022;">       <div class="unititle2" style="color: #fff;">統計</div>       </td>      </tr>       <tr>        <td class="unit3">血量</td>       <td class="unit4">75</td>      </tr>      <tr>        <td class="unit3">跑速</td>       <td class="unit4">0.66</td>      </tr>      <tr>        <td class="unit3">視野</td>       <td class="unit4">1</td>      </tr> </table><div class="thanks">     </div> </div>    </div>
         
 </template>
 <script>

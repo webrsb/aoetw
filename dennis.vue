@@ -162,7 +162,7 @@
           <div class="col-md-12">
              <h4 style="margin-top:30px;"><strong>世界奇觀列表</strong></h4> 
             <div class="col-md-4">
-               <h3><span class="we">不列顛</span><br><strong><a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></strong></h3> 
+               <h3><span class="we">不列顛</span><br/><strong><a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></strong></h3> 
               <div class="wimg">
                 <img src="~assets/Wonderbritons.jpg" alt="">
               </div>
@@ -171,7 +171,7 @@
               <p>登場戰役：羅馬的衰落</p>
             </div>
             <div class="col-md-4">
-               <h3><span class="we">拜占庭</span><br><strong><a href="http://tinyurl.com/y9spbwty">聖索菲亞大教堂</a></strong></h3> 
+               <h3><span class="we">拜占庭</span><br/><strong><a href="http://tinyurl.com/y9spbwty">聖索菲亞大教堂</a></strong></h3> 
               <div class="wimg">
                 <img src="~assets/Wonderbyzantines.jpg" alt="">
               </div>

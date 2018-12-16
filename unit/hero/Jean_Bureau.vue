@@ -37,7 +37,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">攻城武器<br>火藥單位<br>英雄</a>
+              <td class="unit4"><a href="">攻城武器<br/>火藥單位<br/>英雄</a>
               </td>
             </tr>
             <tr>
@@ -60,9 +60,9 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對建築+80
-                <br>對船隻+40
-                <br>對石造建築+25
-                <br>對駱駝騎兵+1</td>
+                <br/>對船隻+40
+                <br/>對石造建築+25
+                <br/>對駱駝騎兵+1</td>
             </tr>
             <tr>
               <td class="unit3">開火速率</td>

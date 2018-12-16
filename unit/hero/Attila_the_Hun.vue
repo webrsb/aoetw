@@ -47,7 +47,7 @@
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
 
-                <br><a href="heros.php">英雄</a>
+                <br/><a href="heros.php">英雄</a>
 
               </td>
             </tr>
@@ -75,7 +75,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Wild_Boar.php">野豬</a> +40
-                <br>對<a href="Armor_Class_building.php">建築</a> +3</td>
+                <br/>對<a href="Armor_Class_building.php">建築</a> +3</td>
             </tr>
             <tr>
               <tr>

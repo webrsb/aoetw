@@ -54,7 +54,7 @@
           <div class="n1">
             <em><a href="inc.php">印加科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -111,7 +111,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4"><img src="~assets/Kamayukicon.png" class="gg" alt="">槍隊長
-                <br><img src="~assets/Slingericon.png" class="gg" alt="">投石手</td>
+                <br/><img src="~assets/Slingericon.png" class="gg" alt="">投石手</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -121,7 +121,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">安地斯彈弓
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">信使</td>
             </tr>
           </table>

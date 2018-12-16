@@ -68,18 +68,18 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -372,7 +372,7 @@
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
 
-                <br><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+                <br/><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
 
               </td>
             </tr>

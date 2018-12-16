@@ -32,7 +32,7 @@
                           href="Vikings.php">維京</a>。</div>
             </div>
           </div>
-          <br>
+          <br/>
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
@@ -44,7 +44,7 @@
                   href="Slavs.php">斯拉夫</a>、 <a href="Teutons.php">條頓</a>。</div>
             </div>
           </div>
-          <br>
+          <br/>
            <h3>受影響的單位</h3> 
           <div class="hrn1"></div>
           <div class="n1">

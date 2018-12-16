@@ -85,7 +85,7 @@
                 <td class="tta4">
                   <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
@@ -372,7 +372,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+125 vs <a href="Armor_class_standard_building.php">一般建築物</a>(每1個步兵進駐攻擊+10，最多+40)
-                <br>+40 vs <a href="Armor_Class_Siege_Weapon.php">攻城武器</a> 
+                <br/>+40 vs <a href="Armor_Class_Siege_Weapon.php">攻城武器</a> 
               </td>
             </tr>
             <tr>
@@ -395,7 +395,7 @@
               </td>
               <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
 
-                <br> <a href="Armor_Class_Ram.php">衝撞車</a>
+                <br/> <a href="Armor_Class_Ram.php">衝撞車</a>
 
               </td>
             </tr>

@@ -52,7 +52,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">騎兵
-                <br>英雄</a>
+                <br/>英雄</a>
               </td>
             </tr>
             <tr>
@@ -75,7 +75,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+15vs建築物
-                <br>+15vs石頭建築</td>
+                <br/>+15vs石頭建築</td>
             </tr>
             <tr>
               <td class="unit3">波及範圍</td>
@@ -99,9 +99,9 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4">
-                      <br>騎兵
-                      <br>戰象
-                      <br>特殊單位</td>
+                      <br/>騎兵
+                      <br/>戰象
+                      <br/>特殊單位</td>
                   </tr>
                   <tr>
                     <td class="unit3">跑速</a>

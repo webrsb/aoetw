@@ -65,7 +65,7 @@
                 <td class="tc6" colspan="3">雷諾的強盜 （紅色） 法蘭克</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>4位駱駝騎兵、3位村民、3位輕騎兵。</dd> <dt>大地之母單位：</dt> 
               <dd>無</dd>

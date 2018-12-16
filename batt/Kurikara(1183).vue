@@ -79,7 +79,7 @@
 </tr>
 </table>
   <div class="col-md-12">
-<br>
+<br/>
 <dl class="dl-horizontal">
    <dt>開場：</dt>
    <dd>騎兵x2，重裝馬弓騎兵x2，雙手劍兵x2，強弩兵x2，精銳日本武士x3，戟兵x2，貿易車x1。</dd>

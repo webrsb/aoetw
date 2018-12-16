@@ -56,10 +56,10 @@
                 ">敵對</td>  </tr><tr><tr>    <td class="tc6 "><div class="p6 "></div>玩家2：</td>    <td class="tc6
                 ">勃根地（紫色）法蘭克 </td>    <td class="tc6 "><div class="p3 "></div>玩家3：</td>    <td class="tc6
                 ">強盜（綠色）法蘭克 </td>  </tr><tr>  <td class="tc6 "><div class="p2 "></div>玩家6：</td>    <td class="tc6
-                ">英國（紅色） 不列顛 </td></tr></table><br><dl class="dl-horizontal ">   <dt>開場：</dt>   <dd>   <img class="gg "  src="~assets/Joanthemaidicon.png
-                " alt=" "><a href="Joan_the_Maid.php ">農家女貞德</a><br>   <img class="gg
+                ">英國（紅色） 不列顛 </td></tr></table><br/><dl class="dl-horizontal ">   <dt>開場：</dt>   <dd>   <img class="gg "  src="~assets/Joanthemaidicon.png
+                " alt=" "><a href="Joan_the_Maid.php ">農家女貞德</a><br/>   <img class="gg
                 "  src="~assets/Sieurbertrand.png " alt=" "><a href="Sieur_Bertrand.php
-                ">貝查德爵士</a><br>   <img class="gg "  src="~assets/Sieurdemetz.png " alt=" "><a href="Sieur_de_Metz.php
+                ">貝查德爵士</a><br/>   <img class="gg "  src="~assets/Sieurdemetz.png " alt=" "><a href="Sieur_de_Metz.php
                 ">梅茲爵士</a>   </dd>   <dt>大地之母單位：</dt>  <dd>  <img class="gg " src="~assets/TransportShipIcon.jpg " alt=" ">          <a href="Transport_Ship.php
                 ">運輸船*3</a></dd></dl><h3>主要任務</h3><div class="hrn1 "></div><div class="n1
                 "><ol>    <li>護衛貞德從法考勞爾的軍營到齊儂去。</li>    <li>一定要確保貞德的性命安全。</li></ol></div></div><h3>任務提示</h3><div class="hrn1 "></div><div class="n1

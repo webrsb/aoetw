@@ -52,14 +52,14 @@
                 "></div>玩家3：</td>    <td class="tc6 " width="35%
                 ">希臘村莊（綠色）拜占庭</td>    <tr>     </tr></tr><tr>    <td class="tc4 " colspan="4 " style="background:#2980b9;
                 ">敵對</td>  </tr><tr>    <td class="tc6 "><div class="p6 "></div>玩家2：</td>    <td class="tc6
-                ">土耳其人（紫色）土耳其 </td>     </tr><tr>      </tr></table><br><dl class="dl-horizontal ">   <dt>開場：</dt>   <dd>   <img class="gg " src="~assets/MangonelIcon.jpg
-                " alt=" ">        <a href="Mangonel.php ">輕型投石車</a>*7<br>   <img class="gg
+                ">土耳其人（紫色）土耳其 </td>     </tr><tr>      </tr></table><br/><dl class="dl-horizontal ">   <dt>開場：</dt>   <dd>   <img class="gg " src="~assets/MangonelIcon.jpg
+                " alt=" ">        <a href="Mangonel.php ">輕型投石車</a>*7<br/>   <img class="gg
                 " src="~assets/TransportShipIcon.jpg " alt=" ">          <a href="Transport_Ship.php
-                ">運輸船</a>*2<br>   <img class="gg " src="~assets/HeavyDemoShipIcon.jpg " alt=" ">        <a href="Heavy_Demolition_Ship.php
-                ">重型神風船</a>*6<br>   <img class="gg " src="~assets/VillagerMaleIcon.jpg " alt=" ">          <a href="Villager.php
-                ">村民</a>*12<br>   <img class="gg " src="~assets/FireShipIcon.jpg " alt=" ">        <a href="Fire_Ship.php
-                ">火戰船</a>*5<br>   <img class="gg " src="~assets/WarGalley.jpg " alt=" ">        <a href="War_Galley.php
-                ">弩砲戰船</a>*6<br>   <img class="gg " src="~assets/CannonGalleonIcon.jpg " alt=" ">        <a href="Cannon_Galleon.php
+                ">運輸船</a>*2<br/>   <img class="gg " src="~assets/HeavyDemoShipIcon.jpg " alt=" ">        <a href="Heavy_Demolition_Ship.php
+                ">重型神風船</a>*6<br/>   <img class="gg " src="~assets/VillagerMaleIcon.jpg " alt=" ">          <a href="Villager.php
+                ">村民</a>*12<br/>   <img class="gg " src="~assets/FireShipIcon.jpg " alt=" ">        <a href="Fire_Ship.php
+                ">火戰船</a>*5<br/>   <img class="gg " src="~assets/WarGalley.jpg " alt=" ">        <a href="War_Galley.php
+                ">弩砲戰船</a>*6<br/>   <img class="gg " src="~assets/CannonGalleonIcon.jpg " alt=" ">        <a href="Cannon_Galleon.php
                 ">火砲戰船</a>*5</dd>   <dt>出場英雄：</dt>    <dd>無</dd>   <dt>大地之母單位：</dt>  <dd>無</dd></dl><h3>主要任務</h3><div class="hrn1 "></div><div class="n1
                 "><ol>     <li>在土耳其軍艦的威脅下保護你的世界奇觀200年。</li>      </ol></div><h3>任務提示</h3><div class="hrn1 "></div><div class="n1
                 "><ul>  <li>不要用你所有的村民去建造世界奇觀，你需要一部份村民修建成強悍收集資源，造箭塔和船。</li>  <li>很難對抗土耳其的艦隊，不如集中防守。</li>  <li>希臘倒可以提供而外資源，如果你能保護他們。</li></ul></div><h3>斥侯</h3><div class="hrn1 "></div><div class="n1

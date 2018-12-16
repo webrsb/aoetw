@@ -55,7 +55,7 @@
                 " colspan="4 " style="background:#ea6153;
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2 "></div>玩家2：</td>    <td class="tc6
                 ">羅馬軍團(紅色)義大利  敵對 </td>    <td class="tc6 "><div class="p4 "></div>玩家4：</td>    <td class="tc6
-                ">馬吉斯將軍的營地(黃色)義大利  </td>  </tr>    </tr>     </table><br>  <dl class="dl-horizontal
+                ">馬吉斯將軍的營地(黃色)義大利  </td>  </tr>    </tr>     </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>阿拉里克，阿陶爾夫，蘇勒上尉，1位護衛長槍兵(HP75)1位輕騎兵(HP20)，3位重裝長槍兵，3位弓兵，2位馬騎弓兵，1台輕型投石車。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>第一章:徹查  玩家起始部隊:1位輕騎兵 (HP20)</li><li>1.詢問西北邊的村民，2.詢問西南邊的村民，3.返回向阿拉里克上報軍情</li><li>第二章:霍諾留斯的軍團</li><li>1.摧毀駐紮營的主帳篷，破壞敵營，2.準備好截擊靠近的軍團，3.取羅馬將軍首級，挫敵軍士氣。可選任務:帶阿陶爾夫到他東邊的營地</li><li>摧毀羅馬的防禦工事</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1
                 "><ul>  <li>你的斥侯受了傷，要讓他活著就要盡量避開戰鬥。</li><li>北邊的橋是咽喉要道，那裡一夫當關萬夫莫開。</li><li>阿陶爾夫帶了很多驍勇善戰手下，好好指揮他們。</li><li>阿拉里克無發升級至帝王時代。</li></ul></div><h2>斥侯</h2><div class="hrn1 "></div><div class="n1

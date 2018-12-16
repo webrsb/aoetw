@@ -43,7 +43,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">僧侶
-                <br>英雄</td>
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>

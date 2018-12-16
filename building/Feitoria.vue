@@ -175,8 +175,8 @@
             <tr>
               <td class="unit3">護甲類別</td>
               <td class="unit4">建築
-                <br>標準建築
-                <br>
+                <br/>標準建築
+                <br/>
               </td>
             </tr>
             <tr>

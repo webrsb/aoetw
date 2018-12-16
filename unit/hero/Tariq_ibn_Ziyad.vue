@@ -47,7 +47,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">騎兵<br>弓箭手<br>英雄</a>
+              <td class="unit4"><a href="">騎兵<br/>弓箭手<br/>英雄</a>
               </td>
             </tr>
             <tr>
@@ -112,7 +112,7 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4">弓箭手
-                      <br>騎兵</td>
+                      <br/>騎兵</td>
                   </tr>
                   <tr>
                     <td class="unit3">跑速</a>

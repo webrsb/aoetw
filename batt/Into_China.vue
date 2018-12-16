@@ -64,7 +64,7 @@
                 <td class="tc6">工程師 （藍色）中國</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>4位輕騎兵、6位馬騎弓兵。</dd> <dt>大地之母單位:</dt> 
               <dd>6位村民，6台火炮，1台輕型投石車，1台輕型衝撞車，1艘運輸船。</dd>

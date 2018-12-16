@@ -55,7 +55,7 @@
                 <td class="tc6">聖殿騎士（黃色）條頓 敵對</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>4位村民、1位輕騎兵、4位重裝駱駝騎兵、8位阿拉伯奴隸兵、6位神弓手。</dd> <dt>大地之母單位：</dt> 
               <dd>無</dd>

@@ -49,7 +49,7 @@
           <div class="n1">
             <em><a href="kor.php">韓國科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -128,7 +128,7 @@
               <td class="unit3">特殊單位</td>
               <td class="unit4">
                 <img class="gg" src="~assets/WarWagonIcon.jpg">馬戰車
-                <br>
+                <br/>
                 <img class="gg" src="~assets/TurtleShipIcon.jpg">龜甲船</td>
             </tr>
             <tr>
@@ -139,7 +139,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">板屋船
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">神機箭</td>
             </tr>
           </table>

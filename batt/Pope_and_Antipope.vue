@@ -58,7 +58,7 @@
                 <td class="tc6">河道衛兵（紫色）法蘭克</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>1位斥侯、2位騎士、8位重裝長槍兵、4位憎侶、1艘運輸船、3艘弩炮戰船。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

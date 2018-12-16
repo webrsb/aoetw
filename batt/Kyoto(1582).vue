@@ -73,7 +73,7 @@
 
 
  <div class="col-md-12">
-<br>
+<br/>
 <dl class="dl-horizontal">
    <dt>開場：</dt>
    <dd>日本武士x4(生命值低下)，火戰船x2。</dd>

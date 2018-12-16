@@ -68,7 +68,7 @@
               </tr>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>英雄:席德、騎士x6、重裝長槍兵x6、征服者x4、長劍兵x4、僧侶x2、弩砲x2。</dd> <dt>大地之母單位：</dt> 
               <dd>阿方索國王</dd>

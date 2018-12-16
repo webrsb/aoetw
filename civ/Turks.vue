@@ -65,7 +65,7 @@
           <div class="n1">
             <em><a href="tur.php">土耳其科技樹</a></em>
           </div>
-          <br>
+          <br/>
 <h3>趣事</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -119,7 +119,7 @@
       </tr>
       <tr>
         <td class="unit3">特殊技術</td>
-       <td class="unit4"> <img class="gg" src="~assets/CastleAgeUnique.png">采邑騎兵<br>
+       <td class="unit4"> <img class="gg" src="~assets/CastleAgeUnique.png">采邑騎兵<br/>
  <img class="gg" src="~assets/Unique-tech.jpg">火砲術</td>
       </tr>
          

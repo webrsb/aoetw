@@ -47,7 +47,7 @@
                 <td class="tc6">英格蘭（紅色） 不列顛</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>3位村民、1位斥侯</dd> <dt>大地之母單位：</dt> 
               <dd>大地之母單位:無</dd>

@@ -58,9 +58,9 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
-                <br>
+                <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Warwolf.php">戰狼</a>:巨型投石機有範圍傷害。<a href="Britons.php">不列顛</a>限定</td>
             </tr>
             <tr>
@@ -87,7 +87,7 @@
                   <td class="tta1" style="width:10%">招降抵抗</td>
                   <td class="tta4">
                     <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-                    <br>
+                    <br/>
                     <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                   </td>
                 </tr>
@@ -352,7 +352,7 @@
                       <tr>
                         <td class="unit3">命中率</td>
                         <td class="unit4">對建築:80%
-                          <br>對單位:15%</td>
+                          <br/>對單位:15%</td>
                       </tr>
                       <tr>
                         <tr>
@@ -363,17 +363,17 @@
                           <td class="unit3"><a href="">近防</a>
                           </td>
                           <td class="unit4">2(未組裝)
-                            <br>1(攻擊姿態)</td>
+                            <br/>1(攻擊姿態)</td>
                         </tr>
                         <tr>
                           <td class="unit3">遠防</td>
                           <td class="unit4">8(未組裝)
-                            <br>150(攻擊姿態)</td>
+                            <br/>150(攻擊姿態)</td>
                         </tr>
                         <tr>
                           <td class="unit3">防禦類型</td>
                           <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-                            <br><a href="Armor_Class_Ram.php">衝撞車</a>
+                            <br/><a href="Armor_Class_Ram.php">衝撞車</a>
                           </td>
                         </tr>
                         <tr>

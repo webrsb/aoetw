@@ -52,7 +52,7 @@
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Sanctity.jpg" alt=""><a href="Sanctity.php">聖潔虔誠</a>(+15)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
@@ -69,20 +69,20 @@
               <td class="tta1" style="width:10%">招降</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Redemption.jpg" alt=""><a href="Redemption.php">信仰救贖</a>:僧侶可招降大部分建築物和攻城單位。
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Atonement.jpg" alt=""><a href="Atonement.php">贖罪</a>:僧侶可招降對方的僧侶。
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Illumination.jpg" alt=""><a href="Illumination.php">啟發教化</a>:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Theocracy.png" alt=""><a href="Theocracy.php">神權統治</a>:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。
-                <br>
+                <br/>
                 <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Inquisition.php">異端審判</a>:僧侶招降速度變快(對單位時間-1，對建築物時間-7)，<a href="Spanish.php">西班牙</a>限定。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -351,7 +351,7 @@
             <tr>
               <td class="unit4">招降範圍</td>
               <td class="unit4">對一般單位:7
-                <br>對<a href="bulding.php">建築物</a>、<a href="Battering_Ram.php">衝撞車</a>、
+                <br/>對<a href="bulding.php">建築物</a>、<a href="Battering_Ram.php">衝撞車</a>、
                 <a
                 href="Trebuchet.php">巨型投石機</a>:0</tr>
             <tr>
@@ -370,8 +370,8 @@
             <tr>
               <td class="unit3">防禦類別</td>
               <td class="unit4"> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
-                <br> <a href="Armor_Class_Monk.php">僧侶</a>
-                <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+                <br/> <a href="Armor_Class_Monk.php">僧侶</a>
+                <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

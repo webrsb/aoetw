@@ -40,7 +40,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Monk.php">僧侶</a>
-                <br><a href="Heros.php">英雄</a>
+                <br/><a href="Heros.php">英雄</a>
               </td>
             </tr>
             <tr>
@@ -78,7 +78,7 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4">無
-                      <br>
+                      <br/>
                     </td>
                   </tr>
                   <tr>

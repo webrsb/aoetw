@@ -50,7 +50,7 @@
           <div class="n1">
             <em><a href="bur.php">緬甸科技樹</a></em>
           </div>
-          <br>
+          <br/>
            <h3>趣事</h3>
 
           <div class="hrn1"></div>
@@ -111,7 +111,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">象轎
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">曼尼普爾騎兵</td>
             </tr>
           </table>

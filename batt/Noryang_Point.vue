@@ -48,7 +48,7 @@
                 " >李舜臣（綠色）韓國</td>        <tr>     </tr></tr><tr>    <td class="tc4 " colspan="4 " style="background:#2980b9;
                 ">敵對</td>  </tr><tr>    <td class="tc6 "><div class="p4 "></div>玩家2：</td>    <td class="tc6
                 ">日本海軍（黃色）日本 </td>    <td class="tc6 "><div class="p6 "></div>玩家5：</td>    <td class="tc6
-                ">日本侵略者（紫色）日本 </td>  </tr><tr>      </tr></table><br><dl class="dl-horizontal
+                ">日本侵略者（紫色）日本 </td>  </tr><tr>      </tr></table><br/><dl class="dl-horizontal
                 ">   <dt>開場：</dt>   <dd>重型弩砲戰船x5，火戰船x2，火炮戰船x2，村民x18。</dd>   <dt>英雄：</dt>    <dd>李舜臣將軍(龜甲船)。</dd>   <dt>大地之母單位：</dt>  <dd>運輸船</dd></dl><h3>主要任務</h3><div class="hrn1 "></div><div class="n1
                 "><ol>     <li>防止日本人入侵韓國。</li>     <li>尋找李舜臣將軍並學習他的秘密武器。</li>    <li>使用龜甲船打敗日本海軍。</li>    <li>抵抗日本者侵略者，保衛韓國。</li></ol></div><h3>次要任務</h3><div class="hrn1 "></div><div class="n1
                 "><ol>  <li>防止日本人破壞韓國的世界奇觀。(可選項)</li></ol></div><h3>任務提示</h3><div class="hrn1 "></div><div class="n1

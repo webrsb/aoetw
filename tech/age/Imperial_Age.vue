@@ -241,14 +241,14 @@
             <tr>
               <td class="unit3">所需建築</td>
               <td class="unit4">下面任兩項：
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Monasteryicon.png" width="22" alt=""><a href="Monastery.php">修道院</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Universityicon.png" width="22" alt=""><a href="University.php">學院</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Siegeworkshopicon.png" width="22" alt=""><a href="Siege_Workshop.php">攻城器製造所</a>
-                <br>或是直接蓋一座
-                <br>
+                <br/>或是直接蓋一座
+                <br/>
                 <img class="gg" src="~assets/Castleicon.png" width="22" alt=""><a href="Castle.php">城堡</a> 
               </td>
             </tr>

@@ -79,20 +79,20 @@
                 alt=""> <a href="Light_Cavalry.php">輕騎兵</a>→
                 <img class="gg" src="~assets/HussarIcon.jpg"
                 alt=""> <a href="Hussar.php">匈牙利輕騎兵</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
-                <br>
+                <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Farimba.php">驃悍精神</a>：馬廄單位攻擊+5。<a href="Malians.php">馬利</a>限定
-                <br>
+                <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_Class_Building.php">建築</a>和
                 <a
                 href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+3。<a href="Burmese.php">緬甸</a>限定</td>
@@ -101,9 +101,9 @@
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -115,7 +115,7 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -123,7 +123,7 @@
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
-                <br>
+                <br/>
                 <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Chivalry.php">騎士精神</a>：馬廄工作速率快40%。<a href="Franks.php">法蘭克</a>限定</td>
             </tr>
           </table>
@@ -419,7 +419,7 @@
               <td class="unit3">視野</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt=""><a href="Castle_Age.php">城堡時代</a>:8
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代:</a>10</td>
             </tr>
             <tr>

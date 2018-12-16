@@ -51,7 +51,7 @@
                 ">亞得里亞堡（灰色）拜占庭  </td>    <td class="tc6 "><div class="p5 "></div>玩家5：</td>    <td class="tc6
                 ">第爾哈群（藍綠色）條頓  </td>  </tr>  <tr>    <td class="tc6 "><div class="p6 "></div>玩家6：</td>    <td class="tc6
                 ">底斯索隆尼卡（紫色）拜占庭  </td>    <td class="tc6 "><div class="p1 "></div>玩家7：</td>    <td class="tc6
-                ">東羅馬帝國（藍色）拜占庭  </td>  </tr>       </table><br>  <dl class="dl-horizontal
+                ">東羅馬帝國（藍色）拜占庭  </td>  </tr>       </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>12位韃靼騎兵、8位馬騎弓兵。</dd>  <dt>大地之母單位:</dt>   <dd>14隻獵狼，12位炸藥桶，5位韃靼騎兵，2位匈牙利輕騎兵。</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>掠奪這個羅馬的村落。</li>當你有足夠的資源去建立一個基地的時候，你就可以生產軍隊來對抗羅馬人。</li><li>訓練軍隊來剷平羅馬人的市鎮中心，以擊敗他們。</li>  </ol></div></div><h2>次要目標</h2><div class="hrn1 "></div><div class="n1
                 ">  <ul>    <li>給西徐亞的女戰士 6 個村民，以換取她們的支援。</li>  </ul></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

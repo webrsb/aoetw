@@ -61,13 +61,13 @@
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Arquebus.php">火繩槍</a>:可提升火藥單位對移動中目標命中率，<a href="Portuguese.php">葡萄牙</a>限定
-                <br>
+                <br/>
               </td>
               <tr>
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a>
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a> 
                 </td>
               </tr>
@@ -337,8 +337,8 @@
             <tr>
               <td class="unit3">裝甲類型</td>
               <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-                <br><a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-                <br><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+                <br/><a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
+                <br/><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

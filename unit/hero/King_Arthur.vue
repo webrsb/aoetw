@@ -112,7 +112,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">步兵
-                <br>英雄</td>
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -202,33 +202,33 @@
           <h3>其他作品內的亞瑟王形象</h3>
           <div class="hrn1"></div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.moegirl.org/阿尔托莉雅·潘德拉贡">Fate系列</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.moegirl.org/阿尔托莉雅·潘德拉贡">Fate系列</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/吾王满破.png" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>在Fate/Stay Night裡面首次登場，型月第一搖錢樹，作為saber階級現界於第四與第五次聖杯戰爭，Fate/GO裡面更有多達9種變體。</p>
           </div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/石中劍_(電影)">石中劍</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.wikipedia.org/wiki/石中劍_(電影)">石中劍</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/sword_in_the_stone_still.jpg" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>迪士尼製作的石中劍動畫電影，1963年發行，簡單敘述了亞瑟王傳說的故事，是迪士尼經典動畫之一</p>
           </div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修">反叛的魯路修</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修">反叛的魯路修</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/AV_CodeGeass_Lancelot17.jpg" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>雖然跟亞瑟王沒有直接關係，但是本作裡面的機動兵器大量採用了亞瑟王傳說，朱雀的座機為蘭斯洛特、亞妮的座機為莫德雷德等等。</p>
-            <br>
-            <br>
+            <br/>
+            <br/>
           </div>
         </div>
       </div>

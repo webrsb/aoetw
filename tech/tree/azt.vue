@@ -207,7 +207,7 @@ and (max-device-width: 480px)  {
             <div><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
 
             </div> <i class="fas fa-arrow-down"></i> 
-            <br>
+            <br/>
             <img class="gg" src="~assets/ChampionIcon.jpg" alt="">
             <div><a href="Champion.php">劍兵勇士</a>
 
@@ -404,7 +404,7 @@ and (max-device-width: 480px)  {
 
         </div> <i class="fas fa-arrow-down"></i>
 
-        <br>
+        <br/>
         <img class="gg" src="~assets/PaladinIcon.jpg">
         <div><a href="Paladin.php">遊俠</a>
 
@@ -416,7 +416,7 @@ and (max-device-width: 480px)  {
 
         </div><i class="fas fa-arrow-down"></i>
 
-        <br>
+        <br/>
         <img class="gg" src="~assets/ImperialCamelIcon.jpg">
         <div><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
 
@@ -475,7 +475,7 @@ and (max-device-width: 480px)  {
 
           </div><i class="fas fa-arrow-down"></i>
 
-          <br>
+          <br/>
           <img class="gg" src="~assets/SiegeRamIcon.jpg" width="30" alt="">
           <div><a href="Siege_Ram.php">重型衝撞車</a>
 
@@ -487,7 +487,7 @@ and (max-device-width: 480px)  {
 
           </div><i class="fas fa-arrow-down"></i>
 
-          <br>
+          <br/>
           <img class="gg" src="~assets/SiegeOnagerIcon.jpg" width="30" alt="">
           <div><a href="Siege Onager.php">重型投石車</a>
 
@@ -937,7 +937,7 @@ and (max-device-width: 480px)  {
 
           </div><i class="fas fa-arrow-down"></i>
 
-          <br>
+          <br/>
           <img class="gg" src="~assets/CannonGalleonIcon.jpg">
           <div><a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>
 
@@ -1328,7 +1328,7 @@ and (max-device-width: 480px)  {
 
             </div><i class="fas fa-arrow-down"></i>
 
-            <br>
+            <br/>
             <img class="gg not" src="~assets/Bombard-tower-research.jpg" alt="">
             <div><a href="Bombard_Tower.php" class="not">火砲塔</a>
 

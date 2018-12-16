@@ -136,8 +136,8 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">封建時代1375
-                <br>城堡時代2750/4000(升級)
-                <br>帝王時代2750/4000(升級)</td>
+                <br/>城堡時代2750/4000(升級)
+                <br/>帝王時代2750/4000(升級)</td>
             </tr>
             <tr>
               <td class="unit3">近戰護甲</td>
@@ -150,9 +150,9 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4">建築(+20)
-                <br>標準建築
-                <br>石造防禦
-                <br>城門和城牆</td>
+                <br/>標準建築
+                <br/>石造防禦
+                <br/>城門和城牆</td>
             </tr>
             <tr>
               <td class="unit3">視野</td>

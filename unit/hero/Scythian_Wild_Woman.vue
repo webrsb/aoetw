@@ -39,7 +39,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Infantry_Units.php">騎兵</a>
-                <br><a href="heros.php">英雄</a>
+                <br/><a href="heros.php">英雄</a>
               </td>
             </tr>
             <tr>

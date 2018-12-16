@@ -68,7 +68,7 @@
               </tr>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>西蒙，格雷米奧。HP:100 ATK:6+56 裝甲:0+2/1+2</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

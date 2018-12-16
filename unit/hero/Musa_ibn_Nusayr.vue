@@ -45,7 +45,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">騎兵<br>弓箭手<br>英雄</a>
+              <td class="unit4"><a href="">騎兵<br/>弓箭手<br/>英雄</a>
               </td>
             </tr>
             <tr>
@@ -68,8 +68,8 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+5對馬弓騎兵
-                <br>+1對衝撞車系
-                <br>+1對步兵</td>
+                <br/>+1對衝撞車系
+                <br/>+1對步兵</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -107,7 +107,7 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4">馬弓騎兵
-                      <br>特殊單位</td>
+                      <br/>特殊單位</td>
                   </tr>
                   <tr>
                     <td class="unit3">跑速</a>

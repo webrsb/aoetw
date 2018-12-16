@@ -69,7 +69,7 @@
                   <td class="tc6">敵對土著(藍綠色) 印加 敵對</td>
                 </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>法蘭西斯科.德.奧雷利亞納，貢薩洛.皮薩羅，戴利考拉(HP 65，ATK 5，裝甲0/2，射程 5)，7位西班牙征服者。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

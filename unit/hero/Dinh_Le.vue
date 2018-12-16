@@ -43,7 +43,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">騎兵<br><br>英雄</a>
+              <td class="unit4"><a href="">騎兵<br/><br/>英雄</a>
 
               </td>
             </tr>
@@ -81,7 +81,7 @@
                 <tr>
                   <td class="unit3">防禦類型</td>
                   <td class="unit4">騎兵
-                    <br>
+                    <br/>
                   </td>
                 </tr>
                 <tr>

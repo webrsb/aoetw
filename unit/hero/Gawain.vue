@@ -108,7 +108,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">騎兵
-                <br>英雄</td>
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -194,33 +194,33 @@
           <h3>其他作品內的高文爵士形象</h3>
           <div class="hrn1"></div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.moegirl.org/高文(Fate)">Fate系列</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.moegirl.org/高文(Fate)">Fate系列</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/高文满破.jpg" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>在Fate/EXTRA裡面初次登場，技能也跟白日有關，陽光燦爛的鄰家大哥哥形象。</p>
           </div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表">反叛的魯路修</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表">反叛的魯路修</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/Gawain.jpg" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>魯路修的座機，副駕駛為C.C.，第二季之後被解體，強子炮被拿去當斑鳩號的大砲。</p>
           </div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/高文爵士與綠騎士">高文與綠騎士</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.wikipedia.org/wiki/高文爵士與綠騎士">高文與綠騎士</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/GGK_93.jpg" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>14世紀的法國文學作品，描述高文與綠騎士的故事，敘事詩中表達到高文因為高潔的品格反而受害成為綠騎士的一員。</p>
-            <br>
-            <br>
+            <br/>
+            <br/>
           </div>
         </div>
       </div>

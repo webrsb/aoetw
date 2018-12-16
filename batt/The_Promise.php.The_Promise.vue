@@ -56,7 +56,7 @@
                   <td class="tc6">日耳曼人 （紅色）條頓</td>
                 </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>4位村民、3位蒙古突騎、1台輕型投石車</dd> <dt>大地之母單位:</dt> 
               <dd>8位哥德衛隊，1位憎侶。</dd>

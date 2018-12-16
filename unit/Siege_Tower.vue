@@ -79,7 +79,7 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -396,7 +396,7 @@
             <td class="unit3"><a href="Armor_class.php">防禦類型</a>
             </td>
             <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-              <br> <a href="Armor_Class_Ram.php">衝撞車</a>
+              <br/> <a href="Armor_Class_Ram.php">衝撞車</a>
             </td>
           </tr>
           <tr>

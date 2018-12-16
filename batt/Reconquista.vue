@@ -62,7 +62,7 @@
               <td class="tc6">約瑟夫（綠色）土耳其</td>
               <tr></tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>騎兵x6、村民x6、重裝駱駝騎兵x6、雙手劍兵x8、重裝長槍兵x4、</dd>
               <dd>弩砲戰船x3、重型火戰船X3、重型衝撞車X2、漁船X2。</dd> <dt>大地之母單位：</dt> 

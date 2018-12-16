@@ -58,7 +58,7 @@
               </tr>
               <tr></tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>英雄:席德。</dd> <dt>大地之母單位：</dt> 
               <dd>重裝長槍兵x6，駱駝騎兵x4，騎士x2，巨型投石車x1</dd>

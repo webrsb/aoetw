@@ -186,7 +186,7 @@ and (max-device-width: 480px)  {
             <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt="">
             <div><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
             </div> <i class="fas fa-arrow-down"></i> 
-            <br>
+            <br/>
             <img class="gg" src="~assets/ChampionIcon.jpg" alt="">
             <div><a href="Champion.php">劍兵勇士</a>
             </div>
@@ -344,7 +344,7 @@ and (max-device-width: 480px)  {
               <img class="gg" src="~assets/CavalierIcon.jpg">
               <div><a href="Cavalier.php">騎兵</a>
               </div> <i class="fas fa-arrow-down"></i>
-              <br>
+              <br/>
               <img class="gg not" src="~assets/PaladinIcon.jpg">
               <div><a href="Paladin.php" class="not">遊俠</a>
               </div>
@@ -353,7 +353,7 @@ and (max-device-width: 480px)  {
               <img class="gg" src="~assets/HeavyCamelIcon.jpg">
               <div><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
               </div><i class="fas fa-arrow-down"></i>
-              <br>
+              <br/>
               <img class="gg not" src="~assets/ImperialCamelIcon.jpg">
               <div><a href="Imperial_Camel.php" class="not">帝王駱駝騎兵</a>
               </div>
@@ -405,7 +405,7 @@ and (max-device-width: 480px)  {
           <img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt="">
           <div><a href="Capped_Ram.php">裝甲衝撞車</a>
           </div><i class="fas fa-arrow-down"></i>
-          <br>
+          <br/>
           <img class="gg" src="~assets/SiegeRamIcon.jpg" width="30" alt="">
           <div><a href="Siege_Ram.php">重型衝撞車</a>
           </div>
@@ -414,7 +414,7 @@ and (max-device-width: 480px)  {
           <img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt="">
           <div><a href="Onager.php">中型投石車</a>
           </div><i class="fas fa-arrow-down"></i>
-          <br>
+          <br/>
           <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt="">
           <div><a href="Siege Onager.php" class="">重型投石車</a>
           </div>
@@ -856,7 +856,7 @@ and (max-device-width: 480px)  {
           <img class="gg" src="~assets/CannonGalleonIcon.jpg">
           <div><a href="Cannon_Galleon.php">火炮戰船</a>
           </div><i class="fas fa-arrow-down"></i>
-          <br>
+          <br/>
           <img class="gg not" src="~assets/CannonGalleonIcon.jpg">
           <div><a href="Elite_Cannon_Galleon.php" class="not">精銳火炮戰船</a>
           </div>
@@ -1182,7 +1182,7 @@ and (max-device-width: 480px)  {
             <img class="gg" src="~assets/Chemistry.jpg" alt="">
             <div><a href="Chemistry.php">化學</a>
             </div><i class="fas fa-arrow-down"></i>
-            <br>
+            <br/>
             <img class="gg not" src="~assets/Bombard-tower-research.jpg" alt="">
             <div><a href="Bombard_Tower.php" class="not">火砲塔</a>
             </div>

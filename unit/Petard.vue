@@ -102,7 +102,7 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+40%。
-                <br>
+                <br/>
               </td>
             </tr>
             <tr>
@@ -110,7 +110,7 @@
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
@@ -233,9 +233,9 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+900對<a href="Armor_class_wall_and_gate.php">牆和門</a>
-                <br>+500對<a href="Armor_class_building.php">建築</a>
-                <br>+100對<a href="Armor_class_Castle.php">城堡</a>
-                <br>+60<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
+                <br/>+500對<a href="Armor_class_building.php">建築</a>
+                <br/>+100對<a href="Armor_class_Castle.php">城堡</a>
+                <br/>+60<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
               </td>
             </tr>
             <tr>

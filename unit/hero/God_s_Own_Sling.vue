@@ -44,7 +44,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">攻城單位<br>英雄</a>
+              <td class="unit4"><a href="">攻城單位<br/>英雄</a>
               </td>
             </tr>
             <tr>
@@ -59,12 +59,12 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">100(未組裝)
-                <br>300(組裝)</td>
+                <br/>300(組裝)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊</td>
               <td class="unit4">1(近戰，未組裝)
-                <br>200(遠程，組裝)</td>
+                <br/>200(遠程，組裝)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
@@ -73,7 +73,7 @@
             <tr>
               <td class="unit3">開火速率</td>
               <td class="unit4">1(未組裝)
-                <br>10(組裝)</td>
+                <br/>10(組裝)</td>
             </tr>
             <tr>
               <td class="unit3">開火間隔</td>
@@ -82,7 +82,7 @@
             <tr>
               <td class="unit3">射程範圍</td>
               <td class="unit4">16(未組裝)
-                <br>20(組裝)</td>
+                <br/>20(組裝)</td>
             </tr>
             <tr>
               <td class="unit3">最小射程</td>
@@ -91,7 +91,7 @@
             <tr>
               <td class="unit3">命中率</td>
               <td class="unit4">對建築80%
-                <br>對單位92%</td>
+                <br/>對單位92%</td>
             </tr>
             <tr>
               <td class="unit3">投射物速度</td>
@@ -109,17 +109,17 @@
               <tr>
                 <td class="unit3">防禦類型</td>
                 <td class="unit4">攻城單位(未組裝)
-                  <br>無(組裝)</td>
+                  <br/>無(組裝)</td>
               </tr>
               <tr>
                 <td class="unit3">速度</td>
                 <td class="unit4">0.8(未組裝)
-                  <br>0(組裝)</td>
+                  <br/>0(組裝)</td>
               </tr>
               <tr>
                 <td class="unit3">視野</td>
                 <td class="unit4">18(未組裝)
-                  <br>21(組裝)</td>
+                  <br/>21(組裝)</td>
               </tr>
           </table>
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>

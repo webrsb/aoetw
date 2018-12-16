@@ -49,7 +49,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">騎兵<br>英雄</a>
+              <td class="unit4"><a href="">騎兵<br/>英雄</a>
 
               </td>
             </tr>
@@ -73,7 +73,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+18對騎兵
-                <br>+9對船</td>
+                <br/>+9對船</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>

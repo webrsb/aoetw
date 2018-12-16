@@ -165,10 +165,10 @@
             </tr>
             <td class="unit3">適合文明</td>
             <td class="unit4">緬甸
-              <br>日本
-              <br>阿茲特克
-              <br>印加
-              <br>馬札爾</td>
+              <br/>日本
+              <br/>阿茲特克
+              <br/>印加
+              <br/>馬札爾</td>
             </tr>
             <tr>
               <td class="unit3">時代</td>

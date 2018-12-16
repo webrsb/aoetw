@@ -58,7 +58,7 @@
                 <td class="tc6">救傷團（橘色）條頓</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>12位村民、14位長槍兵、6位矛兵、4位馬騎弓兵、1台輕型投石車。</dd> <dt>大地之母單位：</dt> 
               <dd>無</dd>

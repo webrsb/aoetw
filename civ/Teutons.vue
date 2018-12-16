@@ -58,7 +58,7 @@
           <div class="n1">
             <em><a href="teu.php">條頓科技樹</a></em>
           </div>
-          <br>
+          <br/>
            <h3>更新日誌</h3>
 
           <div class="hrn1"></div>
@@ -147,7 +147,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">鋼鐵甲
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">垛口</td>
             </tr>
           </table>

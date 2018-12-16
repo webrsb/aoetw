@@ -64,7 +64,7 @@
                   <td class="tc6">西羅馬帝國（藍色）拜占庭</td>
                 </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>6位村民、3位斥侯。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

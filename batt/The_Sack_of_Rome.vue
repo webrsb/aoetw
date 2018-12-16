@@ -56,7 +56,7 @@
                 <td class="tc6" width="35%">守城將士(黃色)義大利 敵對</td>
                 <td class="tc6" width="15%" "><div class="p6
                 "></div>玩家6：</td>    <td class="tc6 " width="35%
-                ">帝國軍團(紫色)義大利  敵對 </td>   </tr>    </tr>     </table><br>  <dl class="dl-horizontal
+                ">帝國軍團(紫色)義大利  敵對 </td>   </tr>    </tr>     </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>8位騎士，8位哥德衛隊，1台輕型衝撞車。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>阿拉里克必須存活。</li><li>去東邊和阿陶爾夫的手下會面</li><li>阿拉里克要安全的到達北邊的村莊</li><li>帶阿拉里克到拉文納的海港</li><li>帶阿拉里克到拉文納的皇宮</li><li>帶阿拉里克的南部的義大利小鎮</li><li>摧毀薩魯斯的防禦工事</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1
                 "><ul>  <li>制定戰術，小心行事，多聽你手下的意見，最好走大道。</li><li>阿拉里克的上尉阿陶爾夫已經派了一些部隊和斥侯走在阿拉里克前面了，這些部隊有的在附近靜候命令，有的在港口備船等候。</li><li>據說薩魯斯的手下駐紮在拉文納外面，選擇一條安全通往港口的航線可以讓你避開惡戰。</li><li>薩魯斯在拉文納的海域有很多的戰船，所以你最好遠離拉文納，免遭襲擊。</li><li>哥德人只能升級至城堡時代。</li></ul></div><h2>斥侯</h2><div class="hrn1 "></div><div class="n1

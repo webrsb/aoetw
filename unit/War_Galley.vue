@@ -28,7 +28,7 @@
               href="Longboat.php">維京大戰船</a>、<a href="Turtle_Ship.php">龜甲船</a>是嚴重威脅，像是<a href="Trebuchet.php">巨型投石機</a>、
                 <a
                 href="Onager.php">中型投石車</a>、<a href="Bombard_Cannon.php">火砲</a>也會對艦隊造成毀滅性打擊。
-                  <br>另外，僧侶也是一大威脅，特別是沒有研發<a href="Faith.php">忠誠信仰</a>
+                  <br/>另外，僧侶也是一大威脅，特別是沒有研發<a href="Faith.php">忠誠信仰</a>
             </p>
           </div>
           <h3>更多數據</h3>
@@ -59,20 +59,20 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">射程</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)</td>
             </tr>
             <tr>
@@ -84,7 +84,7 @@
               <td class="tta1" style="width:10%">護甲</td>
               <td class="tta4">
                 <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>(護甲+0/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Carrack.php">克拉克帆船</a>(護甲+1/+1，<a href="Portuguese.php">葡萄牙</a>限定)</td>
             </tr>
             <tr>
@@ -96,7 +96,7 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -436,8 +436,8 @@
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+9對<a href="Armor_Class_Ship.php">船</a>
-                <br>+7對<a href="Armor_class_building.php">建築</a>
-                <br>+4對<a href="Armor_Class_Ram.php">衝撞車</a>
+                <br/>+7對<a href="Armor_class_building.php">建築</a>
+                <br/>+4對<a href="Armor_Class_Ram.php">衝撞車</a>
               </td>
             </tr>
             <tr>

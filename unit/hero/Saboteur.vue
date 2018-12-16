@@ -37,7 +37,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">自殺單位<br>攻成武器<br>英雄</a>
+              <td class="unit4"><a href="">自殺單位<br/>攻成武器<br/>英雄</a>
               </td>
             </tr>
             <tr>
@@ -64,7 +64,7 @@
             <tr>
               <td class="unit3">攻擊加城</td>
               <td class="unit4">對建築+500
-                <br>對石造建築+500</td>
+                <br/>對石造建築+500</td>
             </tr>
             <tr>
               <td class="unit3">濺射範圍</td>

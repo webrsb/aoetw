@@ -123,21 +123,21 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
@@ -145,7 +145,7 @@
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -158,7 +158,7 @@
               <td class="tta1">工作效率</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%，限單位)
-                <br>
+                <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" style="margin: 2px;" alt=""><a href="Perfusion.php">灌注士氣</a>(+100%，<a href="Goths.php">哥德</a>限定)</td>
             </tr>
             <tr>
@@ -289,11 +289,11 @@
               <td class="unit3">血量</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">1200
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1500
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">1800
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">2100</td>
             </tr>
             <tr>
@@ -304,29 +304,29 @@
               <td class="unit3">近防</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">0
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">7
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">8
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
 
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
+                <br/> <a href="img/Armor_class_standard_building.php">標準建築</a>
 
               </td>
             </tr>

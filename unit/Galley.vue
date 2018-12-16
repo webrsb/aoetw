@@ -16,7 +16,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>雖然戰船是一個相對弱小的海上單位，但是它如果數量夠多也能對敵人造成一定的傷害。當數量夠多的時候，他們能夠輕易地消滅敵人的漁船和其他弱小單位。</p>
-            <br>
+            <br/>
             <p>戰船在封建時代也是運輸船護航的主力，能夠提供防守、分散式火力。但他們最主要還是拿來保護己方漁船、攻擊敵方漁船。生產戰船也並非是沒用的，當你升級科技之後，它就會晉升到更強大的弩砲戰船</p>
           </div>
           <h3>更多數據</h3>
@@ -45,20 +45,20 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">射程</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)</td>
             </tr>
             <tr>
@@ -70,7 +70,7 @@
               <td class="tta1" style="width:10%">護甲</td>
               <td class="tta4">
                 <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>(護甲+0/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Carrack.php">克拉克帆船</a>(護甲+1/+1，<a href="Portuguese.php">葡萄牙</a>限定)</td>
             </tr>
             <tr>
@@ -82,7 +82,7 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -426,8 +426,8 @@
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+8對<a href="Armor_Class_Ship.php">船</a>
-                <br>+6對<a href="Armor_class_building.php">建築</a>
-                <br>+3對<a href="Armor_Class_Ram.php">衝撞車</a>
+                <br/>+6對<a href="Armor_class_building.php">建築</a>
+                <br/>+3對<a href="Armor_Class_Ram.php">衝撞車</a>
               </td>
             </tr>
             <tr>

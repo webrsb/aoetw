@@ -60,7 +60,7 @@
                 " colspan="4 " style="background:#ea6153;
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2 "></div>玩家2：</td>    <td class="tc6
                 ">亞馬遜族(紅色) 印加    </td>    <td class="tc6 "><div class="p7 "></div>玩家7：</td>    <td class="tc6
-                ">亞馬遜巡邏隊(灰色) 印加  </td>  </tr></table><br>  <dl class="dl-horizontal
+                ">亞馬遜巡邏隊(灰色) 印加  </td>  </tr></table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd> 法蘭西斯科.德.奧雷利亞納，2位劍兵勇士，4位火槍兵，3位西班牙征服者，2艘運輸船。</dd>  <dt>大地之母單位:</dt>   <dd> 無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>法蘭西斯科.德.奧雷利亞納必須活著。</li><li>把前方村莊的全體村民都殺死。</li><li>搜尋食物維持你的部隊。</li><li>到達河東岸的小島，說服亞馬遜族人讓你通過那。</li><li>A:破壞6處食物來源處(綠色和黃色的)。</li><li>B:善待6個食物來源處(綠色和黃色的)。</li>  </ol></div><h2>次要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>要想獲得食物，你可以找:</li><li>漁夫：點擊村民來談判，或者直接殺死村民掠奪食物。</li><li>聖壇: 點擊果樹叢表示要離開聖壇，點擊聖物表示要洗劫聖壇。</li><li>亞馬遜供給隊： 點擊村民或者酋長表示談判，</li><li>但直接殺死村民可以搶奪食物。一些供給者會給你特定的指示。</li><li>殺死北邊的美洲豹</li><li>帶一輛運輸船到貿易工廠來換100食物。(需要點擊貿易工廠)</li><li>幫牧羊人找回她的羊駝。</li><li>把貨物運送給南邊的礦工。</li><li>去往火山口，設法平息它。</li> </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

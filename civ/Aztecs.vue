@@ -57,7 +57,7 @@
           <div class="n1">
             <em><a href="azt.php">阿茲特克科技樹</a></em>
           </div>
-          <br>
+          <br/>
            <h3>更新日誌</h3>
 
           <div class="hrn1"></div>
@@ -133,7 +133,7 @@
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png"><a href="Atlatl.php">擲矛器</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg"><a href="img/Garland_Wars.php">榮冠戰爭</a>
 
               </td>

@@ -55,7 +55,7 @@
                 <td class="tc6">英格蘭（紅色） 不列顛</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>10位村民、4位裝甲步兵、2位騎士、6位弩兵</dd> <dt>大地之母單位：</dt> 
               <dd>無</dd>

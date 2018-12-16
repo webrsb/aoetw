@@ -44,7 +44,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-                <br>英雄</td>
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>

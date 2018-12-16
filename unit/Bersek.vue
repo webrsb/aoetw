@@ -71,14 +71,14 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Chieftains.php">酋長</a>:步兵對<a href="Armor_Class_Cavalry.php">騎兵</a>攻擊+5，對
                 <a
                 href="Armor_Class_Camel.php">駱駝騎兵</a>攻擊+4，<a href="Vikings.php">維京</a>限定。</td>
@@ -87,9 +87,9 @@
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -106,7 +106,7 @@
                 <td class="tta4">
                   <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
@@ -364,7 +364,7 @@
               <td class="unit3">血量</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>:61
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>:64/75(精銳)</td>
             </tr>
             <tr>
@@ -374,7 +374,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_Standard_Building.php">標準建築物</a>+2/+3(精銳)
-                <br>對<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>+2/+3(精銳)</td>
+                <br/>對<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>+2/+3(精銳)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -392,7 +392,7 @@
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_Class_Infantry.php">步兵</a>
 
-                <br> <a href="img/Armor_Class_Unique_Unit.php">特殊單位</a>
+                <br/> <a href="img/Armor_Class_Unique_Unit.php">特殊單位</a>
 
               </td>
             </tr>

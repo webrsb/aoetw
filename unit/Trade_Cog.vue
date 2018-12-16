@@ -25,7 +25,7 @@
             <p>貿易商旅較貿易車隊的移動速度更快（1.32：1），並且貿易商旅可以從<a href="Careening.php">傾側維修術</a>、
               <a
               href="Dry_Dock.php">旱碼頭</a>、<a href="Shipwright.php">造船匠</a>獲得提升（但這不會提高黃金的收益，因為貿易商旅會降低每次所獲得的黃金收益，但相對的會提升船的運行速度）。
-                <br>然而，相同距離的碼頭所產生的黃金比市場少了約25%，因此每個貿易車隊與貿易商旅的黃金獲得速度差不多。但是，由於貿易商旅通常都沿著海岸線行走，更容易發生遭遇敵人，所以通常大部分人還是會選擇使用貿易車隊。</p>
+                <br/>然而，相同距離的碼頭所產生的黃金比市場少了約25%，因此每個貿易車隊與貿易商旅的黃金獲得速度差不多。但是，由於貿易商旅通常都沿著海岸線行走，更容易發生遭遇敵人，所以通常大部分人還是會選擇使用貿易車隊。</p>
           </div>
           <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -58,14 +58,14 @@
               <td class="tta1" style="width:10%">護甲</td>
               <td class="tta4">
                 <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>(護甲+0/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Carrack.php">克拉克帆船</a>(護甲+1/+1，<a href="Portuguese.php">葡萄牙</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>(+15%)
-                <br>
+                <br/>
                 <img class="gg" style="margin: 2px;" img width="22" src="~assets/CaravanII.png"
                 alt=""><a href="Caravan.php">大商隊</a>(+50%)</td>
             </tr>
@@ -73,7 +73,7 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -86,7 +86,7 @@
               <td class="tta1" style="width:10%">造價減少</td>
               <td class="tta4">
                 <img style="margin: 2px;" class="gg" src="~assets/Shipwright.jpg" alt=""><a href="Shipwright.php">造船匠</a>(-20%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Silk_Road.php">絲綢之路</a>(-50%，<a href="Italians.php">義大利</a>限定)</td>
             </tr>
           </table>

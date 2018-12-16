@@ -206,7 +206,7 @@ $(document).ready(function(){
         <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a></td>
           <td class="t19 trm"><img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt=""><div><a href="Two-Handed_Swordsman.php">雙手劍兵</a></div>
             <i class="fas fa-arrow-down"></i>
-            <br>
+            <br/>
          <img class="gg" src="~assets/ChampionIcon.jpg" alt=""><div><a href="Champion.php">劍兵勇士</a></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><div><a href="Halberdier.php">戟兵</a></div></td>
 　　　　    <td class="t19 trm not"><img class="gg"  src="~assets/EliteEagleWarriorIcon.jpg" alt=""><div><a href="Eagle_Warrior.php">精銳鷹勇士</a></div></td>
@@ -293,8 +293,8 @@ $(document).ready(function(){
           <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a></td>
           <td class="t19 trm"><img class="gg" src="~assets/HussarIcon.jpg"><div><a href="Hussar.php">匈牙利輕騎兵</a></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/CavalierIcon.jpg"><div><a href="Cavalier.php">騎兵</a></div>
-            <i class="fas fa-arrow-down"></i><br><img class="gg not" src="~assets/PaladinIcon.jpg"><div><a href="Paladin.php" class="">遊俠</a></div></td>
-          <td class="t19 trm not"><img class="gg" src="~assets/HeavyCamelIcon.jpg"><div><a href="Heavy_Camel.php">重裝駱駝騎兵</a></div><i class="fas fa-arrow-down"></i><br><img class="gg not" src="~assets/ImperialCamelIcon.jpg"><div><a href="Imperial_Camel.php" class="not">帝王駱駝騎兵</a></div></td>
+            <i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/PaladinIcon.jpg"><div><a href="Paladin.php" class="">遊俠</a></div></td>
+          <td class="t19 trm not"><img class="gg" src="~assets/HeavyCamelIcon.jpg"><div><a href="Heavy_Camel.php">重裝駱駝騎兵</a></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/ImperialCamelIcon.jpg"><div><a href="Imperial_Camel.php" class="not">帝王駱駝騎兵</a></div></td>
           <td class="t19 trm not"><img class="gg" src="~assets/Battleelephanticon.png"><div><a href="Elite_Battle_Elephant.php">精銳矛象伕</a></div></td>
           <td class="t19 trm"></td>
         </tr>
@@ -320,8 +320,8 @@ $(document).ready(function(){
  </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a></td>
-           <td class="t23 trm"><img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt=""><div><a href="Capped_Ram.php">裝甲衝撞車</a></div><i class="fas fa-arrow-down"></i><br><img class="gg" src="~assets/SiegeRamIcon.jpg" width="30" alt=""><div><a href="Siege_Ram.php">重型衝撞車</a></div></td>
-          <td class="t23 trm"><img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt=""><div><a href="Onager.php">中型投石車</a></div><i class="fas fa-arrow-down"></i><br>
+           <td class="t23 trm"><img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt=""><div><a href="Capped_Ram.php">裝甲衝撞車</a></div><i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/SiegeRamIcon.jpg" width="30" alt=""><div><a href="Siege_Ram.php">重型衝撞車</a></div></td>
+          <td class="t23 trm"><img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt=""><div><a href="Onager.php">中型投石車</a></div><i class="fas fa-arrow-down"></i><br/>
             <img class="gg" src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><a href="Siege Onager.php" class="">重型投石車</a></div></td>
           <td class="t23 trm"><img class="gg" src="~assets/HeavyScorpionIcon.jpg" width="30" alt=""><div><a href="Heavy_Scorpion.php">重型弩砲</a></div></td>    
           <td class="t23 trm not"><img class="gg" src="~assets/BombardCannonIcon.jpg" width="30" alt=""><div><a href="Bombard_Cannon.php">火砲</a></div></td>     
@@ -575,7 +575,7 @@ $(document).ready(function(){
           <td class="t10 trm not"><img class="gg" src="~assets/LongboatIcon.jpg"><div><a href="LongBoat.php">精銳維京大戰船</a></div></td>
           <td class="t10 trm not"><img class="gg" src="~assets/TurtleShipIcon.jpg"><div><a href="Turtle_Ship.php">精銳龜甲船</a></div></td>
           <td class="t10 trm not"><img class="gg" src="~assets/CaravelIcon2.jpg"><div><a href="Caravel.php">精銳卡拉維爾戰船</a></div></td>
-          <td class="t10 trm"><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><a href="Cannon_Galleon.php">火炮戰船</a></div><i class="fas fa-arrow-down"></i><br><img class="gg not" src="~assets/CannonGalleonIcon.jpg"><div><a href="Elite_Cannon_Galleon.php" class="not">精銳火炮戰船</a></div></td>
+          <td class="t10 trm"><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><a href="Cannon_Galleon.php">火炮戰船</a></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/CannonGalleonIcon.jpg"><div><a href="Elite_Cannon_Galleon.php" class="not">精銳火炮戰船</a></div></td>
            <td class="t10 trm"><img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><div><a href="Dry_Dock.php">旱碼頭</a></div></td>
 
          
@@ -713,7 +713,7 @@ $(document).ready(function(){
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><div><a href="Imperial_Age.php">帝王時代</a></div></td>
         <td class="t11 trm not"><img class="gg" src="~assets/Architecture.jpg" alt=""><div><a href="Architecture.php">建築學</a></div></td>
-        <td class="t11 trm"><img class="gg" src="~assets/Chemistry.jpg" alt=""><div><a href="Chemistry.php">化學</a></div><i class="fas fa-arrow-down"></i><br><img class="gg not" src="~assets/Bombard-tower-research.jpg" alt=""><div><a href="Bombard_Tower.php" class="not">火砲塔</a></div></td>
+        <td class="t11 trm"><img class="gg" src="~assets/Chemistry.jpg" alt=""><div><a href="Chemistry.php">化學</a></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/Bombard-tower-research.jpg" alt=""><div><a href="Bombard_Tower.php" class="not">火砲塔</a></div></td>
         <td class="t11 trm"><img class="gg" src="~assets/Siegeengineers.jpg" alt=""><div><a href="Siege_Engineers.php">攻城工程師</a></div></td>
         <td class="t11 trm not"> <img class="gg" src="~assets/Keep-research.jpg" alt=""><div><a href="Keep.php">大型箭塔</a></div></td>
         <td class="t11 trm not"><img class="gg" src="~assets/Arrowlits.jpg" alt=""><div><a href="Arrowslits.php">箭狹槽</a></div></td>

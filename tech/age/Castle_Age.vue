@@ -293,16 +293,16 @@
             <tr>
               <td class="unit3">所需建築</td>
               <td class="unit4">下面任兩項：
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Acheryrangeicon.png" width="22" alt=""><a href="Archery_Range.php">射箭場</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Stableicon.png" width="22" alt=""><a href="Stable.php">馬廄</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Marketicon.png" width="22" alt=""><a href="Market.php">市集</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Blacksmithicon.png" width="22" alt=""><a href="Blacksmith.php">兵工廠</a> 
               </td>
             </tr>

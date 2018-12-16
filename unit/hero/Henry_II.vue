@@ -41,7 +41,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Infantry_Units.php">步兵</a>
-                <br><a href="heros.php">英雄</a>
+                <br/><a href="heros.php">英雄</a>
               </td>
             </tr>
             <tr>
@@ -68,7 +68,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a> +8
-                <br>對<a href="Armor_Class_standard_building.php">標準建築</a> +4</td>
+                <br/>對<a href="Armor_Class_standard_building.php">標準建築</a> +4</td>
             </tr>
             <tr>
               <tr>

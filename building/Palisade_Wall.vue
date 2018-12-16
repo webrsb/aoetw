@@ -182,8 +182,8 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
-                <br> <a href="img/Armor_class_wall_and_gate.php">城門和城牆</a>
+                <br/> <a href="img/Armor_class_standard_building.php">標準建築</a>
+                <br/> <a href="img/Armor_class_wall_and_gate.php">城門和城牆</a>
               </td>
             </tr>
             <tr>

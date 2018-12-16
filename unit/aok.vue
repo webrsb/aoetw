@@ -73,9 +73,9 @@
             <tr>
               <td class="unit3">擴充</td>
               <td class="unit4">征服者入侵
-                <br>失落的王朝
-                <br>非洲王國
-                <br>王者崛起</td>
+                <br/>失落的王朝
+                <br/>非洲王國
+                <br/>王者崛起</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>

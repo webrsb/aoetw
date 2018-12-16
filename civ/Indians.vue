@@ -55,7 +55,7 @@
           <div class="n1">
             <em><a href="ind.php">印度科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -127,7 +127,7 @@
               <td class="unit3">特殊單位</td>
               <td class="unit4">
                 <img class="gg" src="~assets/ElephantArcherIcon.jpg">象弓騎兵
-                <br>
+                <br/>
                 <img class="gg" src="~assets/ImperialCamelIcon.jpg">帝王駱駝騎兵</td>
             </tr>
             <tr>
@@ -138,7 +138,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">蘇丹
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">印度火槍</td>
             </tr>
           </table>

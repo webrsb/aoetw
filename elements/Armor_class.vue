@@ -12,7 +12,7 @@
         <div class="col-md-12">
           <div class="n1">
             <p>防禦類型屬於遊戲內隱藏的項目，讓防禦對應不同的攻擊加成。</p>
-            <br><strong>這篇條目包含防禦類型與遠防、近防</strong>
+            <br/><strong>這篇條目包含防禦類型與遠防、近防</strong>
 
           </div>
            <h3>防禦類型</h3>

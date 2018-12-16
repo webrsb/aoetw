@@ -38,7 +38,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">弓兵<br>英雄</a>
+              <td class="unit4"><a href="">弓兵<br/>英雄</a>
               </td>
             </tr>
             <tr>
@@ -57,7 +57,7 @@
             <tr>
               <td class="unit3">攻擊</td>
               <td class="unit4">14(遠程)
-                <br>0(近戰)</td>
+                <br/>0(近戰)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
@@ -95,7 +95,7 @@
               <tr>
                 <td class="unit3">防禦類型</td>
                 <td class="unit4">弓兵
-                  <br>特殊單位</td>
+                  <br/>特殊單位</td>
               </tr>
               <tr>
                 <td class="unit3">跑速</td>

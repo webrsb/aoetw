@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">城堡能夠在城堡時代建築，在遊戲中期及後期是非常重要的建築，提供強大的防禦和獨特的技術與單位。
-            <br>不能被招降、駐軍可達20人。
-            <br>弒君模式遊戲中，遊戲開始時，每位玩家都會在城鎮中心附近擁有一座城堡。
-            <br>不同的文明城堡的建築風格會有不同</div>
+            <br/>不能被招降、駐軍可達20人。
+            <br/>弒君模式遊戲中，遊戲開始時，每位玩家都會在城鎮中心附近擁有一座城堡。
+            <br/>不同的文明城堡的建築風格會有不同</div>
            <h3>可生產單位與可研發科技</h3>
 
           <div class="hrn1"></div>
@@ -204,37 +204,37 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Hoardings.jpg" width="30" alt=""><a href="Hoardings.php">外架式柵樓</a>(+1000)</td>
             </tr>
             <tr>
               <td class="tta1">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heatedshot.png" width="30" alt=""><a href="Heated_Shot.php">預熱射擊</a>(+4，僅對<a href="Naval_Vessels.php">船隻</a>)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Boiling_Oil.php">沸油</a>(+9僅對衝撞車系，<a href="Persians.php">波斯</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1">範圍</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Murderholes.jpg" width="30" alt=""><a href="Murder_Holes.php">垛孔</a>:消除最小射程
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Crenellations.php">垛口</a>(+3，<a href="Teutons.php">條頓</a>限定)</td>
             </tr>
             <tr>
@@ -251,14 +251,14 @@
               <td class="tta1">護甲</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+1/+1，+3建築護甲)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮暸望</a>(+4)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
@@ -270,14 +270,14 @@
               <td class="tta1">工作效率</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Kasbah.php">聚居堡壘</a>(+25%，<a href="Berbers.php">柏柏</a>與其同盟限定)</td>
             </tr>
             <tr>
               <td class="tta1">其他</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>:駐紮單位治療速度加快
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Crenellations.php">垛口</a>:駐紮步兵可增加箭數</td>
             </tr>
           </table>
@@ -367,7 +367,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">軍事
-                <br>防禦建築</td>
+                <br/>防禦建築</td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
@@ -453,9 +453,9 @@
               <td class="unit3">護甲分類</td>
               <td class="unit4"> <a href="img/Armor_class_building.php">建築（+8）</a>
 
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
+                <br/> <a href="img/Armor_class_standard_building.php">標準建築</a>
 
-                <br> <a href="img/Armor_class_Castle.php">城堡</a> 
+                <br/> <a href="img/Armor_class_Castle.php">城堡</a> 
               </td>
             </tr>
             <tr>

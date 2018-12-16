@@ -205,9 +205,9 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_class_building.php">建築</a>(+24)
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
-                <br> <a href="img/Armor_class_stone_defense.php">石造建築</a>
-                <br> <a href="img/Armor_class_wall_and_gate.php">牆與門</a> 
+                <br/> <a href="img/Armor_class_standard_building.php">標準建築</a>
+                <br/> <a href="img/Armor_class_stone_defense.php">石造建築</a>
+                <br/> <a href="img/Armor_class_wall_and_gate.php">牆與門</a> 
               </td>
             </tr>
             <tr>

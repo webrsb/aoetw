@@ -201,8 +201,8 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+5對船隻
-                <br>+5對建築物
-                <br>+1對駱駝單位</td>
+                <br/>+5對建築物
+                <br/>+1對駱駝單位</td>
             </tr>
             <tr>
               <td class="unit3">射速</td>

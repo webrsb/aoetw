@@ -64,7 +64,7 @@
                   <td class="tc6">耶路撒冷（藍色）拜占庭</td>
                 </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>1台貿易馬車(裝在桶裡的皇帝)、24位村民、12位重裝長槍兵、8位弩兵、6位遊俠。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

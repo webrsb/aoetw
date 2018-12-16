@@ -66,20 +66,20 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊範圍</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)</td>
             </tr>
             <tr>
@@ -96,11 +96,11 @@
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Paddedarcherarmor.jpg" width="30" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Leatherarcherarmor.jpg" width="30" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ringarcherarmor.jpg" width="30" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>(+1/+2)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Pavise.php">巨盾</a>(+1/+1，<a href="Italians.php">義大利</a>限定)</td>
             </tr>
             <tr>
@@ -312,9 +312,9 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">對<a href="Armor_Class_Cavalry.php">騎兵攻擊</a>+5/+7(精銳)
-              <br>對<a href="Armor_Class_War_Elephant.php">戰象</a>+5/+7(精銳)
-              <br>對<a href="Armor_Class_Camel.php">駱駝騎兵</a>+4/+6(精銳)
-              <br>對<a href="Armor_Class_Ship.php">船隻</a>+4/+5(精銳)</td>
+              <br/>對<a href="Armor_Class_War_Elephant.php">戰象</a>+5/+7(精銳)
+              <br/>對<a href="Armor_Class_Camel.php">駱駝騎兵</a>+4/+6(精銳)
+              <br/>對<a href="Armor_Class_Ship.php">船隻</a>+4/+5(精銳)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>
@@ -347,7 +347,7 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">弓兵</a>
-              <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+              <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
             </td>
           </tr>
           <tr>

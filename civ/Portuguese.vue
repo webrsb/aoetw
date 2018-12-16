@@ -51,7 +51,7 @@
           <div class="n1">
             <em><a href="por.php">葡萄牙科技樹</a></em>
           </div>
-          <br>
+          <br/>
 
 
           <h3>更新日誌</h3>
@@ -135,7 +135,7 @@
               <td class="unit3">特殊單位</td>
               <td class="unit4">
                 <img class="gg" src="~assets/OrganGunIcon.jpg">手風琴砲
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CaravelIcon2.jpg">卡拉維爾戰船</td>
             </tr>
             <tr>
@@ -151,7 +151,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">克拉克帆船
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">火繩槍</td>
             </tr>
           </table>

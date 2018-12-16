@@ -65,27 +65,27 @@
             <div class="n1">
               <div class="row">
                 <div class="col-md-4">
-                   <h4>天才少年Liereyy<br>民兵開局轉靶場<br>VS Viper</h4></h4>
+                   <h4>天才少年Liereyy<br/>民兵開局轉靶場<br/>VS Viper</h4></h4>
                   <iframe width="100%" src="https://www.youtube.com/embed/gZq5gpm-tFU?list=PLBSs8pc_eAe6Mf4GRRdY_WtarywcK7zXg"
                   frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>天才少年Liereyy<br>裝甲開局抓到<br>Viper塔攻</h4></h4>
+                   <h4>天才少年Liereyy<br/>裝甲開局抓到<br/>Viper塔攻</h4></h4>
                   <iframe width="100%" src="https://www.youtube.com/embed/ejtv5KkN2eo"
                   frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>天才少年Liereyy<br>裝甲開局轉靶場<br>vs Viper</h4></h4>
+                   <h4>天才少年Liereyy<br/>裝甲開局轉靶場<br/>vs Viper</h4></h4>
                   <iframe width="100%" src="https://www.youtube.com/embed/_z-Vv4fNNhE"
                   frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>MBL VS Tatho<br>雙方裝甲開局<br></h4></h4>
+                   <h4>MBL VS Tatho<br/>雙方裝甲開局<br/></h4></h4>
                   <iframe width="100%" src="https://www.youtube.com/embed/eDgcMrGK2AI?list=PLBSs8pc_eAe6Mf4GRRdY_WtarywcK7zXg"
                   frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>Liereyy VS Viper<br>雙方裝甲開局<br></h4></h4>
+                   <h4>Liereyy VS Viper<br/>雙方裝甲開局<br/></h4></h4>
                   <iframe width="100%" src="https://www.youtube.com/embed/VzTsqhYfqo0"
                   frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
@@ -114,8 +114,8 @@
             </tr>
             <td class="unit3">適合文明</td>
             <td class="unit4">匈奴
-              <br>蒙古
-              <br>馬札爾</td>
+              <br/>蒙古
+              <br/>馬札爾</td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
@@ -130,7 +130,7 @@
             <tr>
               <td class="unit3">操控難易度</td>
               <td class="unit4">控經濟簡單
-                <br>控馬較難</td>
+                <br/>控馬較難</td>
             </tr>
             <tr>
               <td class="unit3">優點</td>

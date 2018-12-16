@@ -108,7 +108,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">騎兵
-                <br>英雄</td>
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -195,33 +195,33 @@
           <h3>其他作品內的蘭斯洛特形象</h3>
           <div class="hrn1"></div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.moegirl.org/兰斯洛特(Fate)">Fate系列</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.moegirl.org/兰斯洛特(Fate)">Fate系列</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/27078218_p0.jpeg" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>在Fate/Zero裡面正式登場，戰鬥的理由只有一個：希望亞瑟王親手制裁他，由此靈魂才得安息。</p>
           </div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修">Code Geass</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修">Code Geass</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/Lancelot_-_Factsphere.png" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>朱雀的座機，堪稱全劇性能最詭異的一台機器，甚麼奇奇怪怪的武裝都有，性能甚至高到能抵抗第一騎士的Geass。</p>
           </div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://en.wikipedia.org/wiki/First_Knight">第一武士</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://en.wikipedia.org/wiki/First_Knight">第一武士</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/GereFK.GIF" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>Jerry Zucker執導的一部電影，1995年上映，由Richard Gere飾蘭斯洛特。</p>
-            <br>
-            <br>
+            <br/>
+            <br/>
           </div>
         </div>
       </div>

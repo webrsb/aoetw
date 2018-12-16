@@ -61,39 +61,39 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>:+30% HP，<a href="Chinese.php">中國</a>限定</td>
             </tr>
             <tr>
               <td class="tta1">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Arrowlits.jpg" alt=""><a href="Arrowslits.php">箭狹槽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heatedshot.png" width="30" alt=""><a href="Heated_Shot.php">預熱射擊</a>(+4，僅對船隻)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Yeomen.php">義勇騎兵</a>:徒步弓兵射程+1，箭塔攻擊+2，<a href="Britons.php">不列顛</a>限定
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Yasama.php">射箭孔</a>:箭塔可發射額外兩支箭，<a href="Japanese.php">日本</a>限定</td>
             </tr>
             <tr>
               <td class="tta1">範圍</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Murderholes.jpg" width="30" alt=""><a href="Murder_Holes.php">垛孔</a>:消除最小射程</td>
             </tr>
             <tr>
@@ -110,21 +110,21 @@
               <td class="tta1">護甲</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+1/+1，+3建築護甲)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮暸望</a>(+4)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -137,7 +137,7 @@
               <td class="tta1">其他</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>:駐紮單位治療速度加快
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Crenellations.php">垛口</a>:駐紮步兵可增加箭數</td>
             </tr>
           </table>
@@ -289,8 +289,8 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_Ship.php">船隻</a>+7
-                <br>對<a href="Armor_Class_Spearman.php">長槍兵</a>+2
-                <br>對<a href="Armor_Class_Camel.php">駱駝單位</a>+1</td>
+                <br/>對<a href="Armor_Class_Spearman.php">長槍兵</a>+2
+                <br/>對<a href="Armor_Class_Camel.php">駱駝單位</a>+1</td>
             </tr>
             <tr>
               <td class="unit3">射速</td>
@@ -324,8 +324,8 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_class_building.php">建築物</a>
-                <br> <a href="Armor_class_standard_building.php">標準建築</a>
-                <br> <a href="Armor_class_stone_defense.php">石造建築</a>
+                <br/> <a href="Armor_class_standard_building.php">標準建築</a>
+                <br/> <a href="Armor_class_stone_defense.php">石造建築</a>
               </td>
             </tr>
             <tr>

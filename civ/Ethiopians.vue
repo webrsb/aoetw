@@ -61,7 +61,7 @@
           <div class="n1">
             <em><a href="eth.php">衣索比亞科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -114,7 +114,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">皇族血脈
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg"><a href="Torsion_Engines.php">扭力彈射器</a>
               </td>
             </tr>

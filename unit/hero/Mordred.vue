@@ -108,7 +108,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">騎兵
-                <br>英雄</td>
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -192,34 +192,34 @@
           <h3>其他作品內的莫德雷德形象</h3>
           <div class="hrn1"></div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.moegirl.org/莫德雷德(Fate)">Fate系列</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.moegirl.org/莫德雷德(Fate)">Fate系列</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/莫德雷德三破.png" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>在Fate/Apocrypha裡面正式登場，一直在追逐亞瑟的背影，但是卻被冷落，由此對亞瑟特別的不滿。</p>
           </div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://en.wikipedia.org/wiki/Modred_the_Mystic">神秘者莫德雷德</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://en.wikipedia.org/wiki/Modred_the_Mystic">神秘者莫德雷德</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/Mordred1.jpg" alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>漫威角色之一，其能力是魔法，有超人的耐力，其能力來自於其主人Chthon，離開主人就失去了他的能力與理智。</p>
           </div>
           <div class="col-md-4">
-             <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87#%E3%80%8A%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87%EF%BC%9A%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%8B%E7%89%88%E6%9C%AC">抵抗組織-阿瓦隆</a></strong></span></h3> 
+             <h3><span class="we"><br/><strong><a href="https://zh.wikipedia.org/wiki/%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87#%E3%80%8A%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87%EF%BC%9A%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%8B%E7%89%88%E6%9C%AC">抵抗組織-阿瓦隆</a></strong></span></h3> 
             <div class="wimg">
               <img height="124px;" src="~assets/resistance-avalon-detail-playtonic-7.jpg"
               alt="">
             </div>
             <div class="hrn1"></div>
-            <br>
+            <br/>
             <p>在遊戲中扮演最終魔頭，在梅林認識到所有壞人的階段裡面，不會被梅林察覺到，可以做為隱藏的幕後黑手活動。</p>
-            <br>
-            <br>
+            <br/>
+            <br/>
           </div>
         </div>
       </div>

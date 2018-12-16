@@ -1,6 +1,4 @@
 <template>
-    <!-- Main jumbotron for a primary marketing message or call to action
-    -->
     <div class="container">
       <!-- Example row of columns -->
       <div class="row" style=" margin-top: 50px;">
@@ -29,7 +27,7 @@
             <ul>
               <li>柏柏可說是<a href="Cavalry_Archer.php">馬弓騎兵類</a>的剋星，特殊單位駱駝弓騎兵不但攻擊間隔低又對馬弓騎兵有攻擊加成，更不用說的是柏柏給予同盟的標槍騎兵升級成精銳後也是對馬弓騎兵有更多加成傷害。</li>
               <li>柏柏擁有2個同盟加成，給予標槍騎兵的使用、城堡時代特殊科技聚居堡壘(你和同盟城堡工作效率+25%)，所以在團隊上的加成僅次於<a href="Vietnamese.php">越南</a>(3個)。</li>
-              <li>柏柏雖然貴為馬弓騎兵剋星但是弓兵系統裡缺<a href="Arbalest.php" 勁弩兵></a>/ <a href="Parthian_Tactics.php">帕提亞戰術</a>。步兵系統則是欠缺
+              <li>柏柏雖然貴為馬弓騎兵剋星但是弓兵系統裡缺<a href="Arbalest.php">勁弩兵</a>/ <a href="Parthian_Tactics.php">帕提亞戰術</a>。步兵系統則是欠缺
                 <a
                 href="Halberdier.php">戟兵</a>/美洲獨有鷹勇士，因此在對抗騎兵上只能用自己最驕傲的駱駝了。</li>
               <li>柏柏雖然在馬廄單位訓練成本城堡時代便宜15%、帝王時代便宜20%(馬扎爾在哭)，但是沒有<a href="Paladin.php">遊俠</a>(聖騎士)、東南亞獨有
@@ -75,7 +73,7 @@
           <div class="n1">
             <em><a href="ber.php">柏柏科技樹</a></em>
           </div>
-          <br>
+          <br/>
            <h3>更新日誌</h3>
 
           <div class="hrn1"></div>
@@ -147,9 +145,11 @@
               <td class="unit3">特殊單位</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CamelArcherIcon.jpg">駱駝弓騎兵
-                <br>
+                <br/>
                 <p>
-                  <img class="gg" src="~assets/GenitourIcon.jpg">標槍騎兵</td>
+                  <img class="gg" src="~assets/GenitourIcon.jpg">標槍騎兵</p>
+                </td>
+                  
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -159,7 +159,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">聚居堡壘
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">馬格拉比駱駝</td>
             </tr>
           </table>

@@ -103,7 +103,7 @@
             </tr>
             <tr>
               <td class="unit3 treetd">美洲
-                <br>非洲</td>
+                <br/>非洲</td>
               <td class="unit4">
                 <div id="banner"> <a href="azt.php">阿茲特克</a>  <a href="may.php">馬雅</a>  <a href="inc.php">印加</a> 
                   <a

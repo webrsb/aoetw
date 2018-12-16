@@ -37,8 +37,8 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">騎兵
-                <br>火藥單位
-                <br>英雄</td>
+                <br/>火藥單位
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -60,7 +60,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+6對衝撞車
-                <br>+2對建築物</td>
+                <br/>+2對建築物</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -95,9 +95,9 @@
               <tr>
                 <td class="unit3">防禦類型</td>
                 <td class="unit4">弓兵
-                  <br>騎兵
-                  <br>火藥單位
-                  <br>特殊單位</td>
+                  <br/>騎兵
+                  <br/>火藥單位
+                  <br/>特殊單位</td>
               </tr>
               <tr>
                 <td class="unit3">跑速</a>

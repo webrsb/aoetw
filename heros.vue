@@ -43,8 +43,8 @@
               <td class="tunitc4">弓兵</td>
               <td class="tunitc6">強弩兵</td>
               <td class="tunitc6"><a href="The_Siege_of_Jerusalem.php">耶路撒冷攻城戰</a>
-                <br><a href="The_Lion_and_the_Demon.php">獅子與惡魔</a>
-                <br><a href="The_Emperor_Sleeping.php">沉睡的皇帝</a>
+                <br/><a href="The_Lion_and_the_Demon.php">獅子與惡魔</a>
+                <br/><a href="The_Emperor_Sleeping.php">沉睡的皇帝</a>
               </td>
             </tr>
             <tr>
@@ -108,7 +108,7 @@
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
               <td class="tunitc6"><a href="Brother_against_ Brother.php">兄弟鬩牆</a>
-                <br><a href="The_Exile_of_the_Cid.php">席德的流亡歲月</a>
+                <br/><a href="The_Exile_of_the_Cid.php">席德的流亡歲月</a>
               </td>
             </tr>
             <tr>
@@ -136,7 +136,7 @@
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">特殊</td>
               <td class="tunitc6"><a href="The_Burmese_Tigers.php">餓虎撲食</a>
-                <br><a href="The_Saxon_Revolt.php">撒克遜起義</a>
+                <br/><a href="The_Saxon_Revolt.php">撒克遜起義</a>
               </td>
             </tr>
             <tr>
@@ -180,7 +180,7 @@
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">遊俠</td>
               <td class="tunitc6"><a href="A_Perfect_Martyr.php">完美的烈士</a>
-                <br><a href="The_Saxon_Revolt.php">撒克遜起義</a>
+                <br/><a href="The_Saxon_Revolt.php">撒克遜起義</a>
               </td>
             </tr>
             <tr>
@@ -206,9 +206,9 @@
               <td class="tunitc4">動物</td>
               <td class="tunitc6">狼</td>
               <td class="tunitc6"><a href="The_Horde_Rides_West.php">遊牧民族的西遷</a>
-                <br><a href="Pax_Mongolia.php">蒙古治下的和平</a>
-                <br><a href="The_Great_Ride.php">偉大的騎士</a>
-                <br><a href="Honfoglalás(895).php">征服家園(895)</a>
+                <br/><a href="Pax_Mongolia.php">蒙古治下的和平</a>
+                <br/><a href="The_Great_Ride.php">偉大的騎士</a>
+                <br/><a href="Honfoglalás(895).php">征服家園(895)</a>
               </td>
             </tr>
             <tr>
@@ -236,9 +236,9 @@
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">特殊</td>
               <td class="tunitc6"><a href="The_Maid_of_Orleans.php">奧爾良的少女</a>
-                <br><a href="The_Cleansing_of_the_Loire.php">羅亞爾河大掃蕩</a>
-                <br><a href="The_Rising.php">叛變</a>
-                <br><a href="The_Siege_of _Paris.php">巴黎攻城戰</a>
+                <br/><a href="The_Cleansing_of_the_Loire.php">羅亞爾河大掃蕩</a>
+                <br/><a href="The_Rising.php">叛變</a>
+                <br/><a href="The_Siege_of _Paris.php">巴黎攻城戰</a>
               </td>
             </tr>
             <tr>
@@ -273,8 +273,8 @@
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">騎兵</td>
               <td class="tunitc6"><a href="A_Life_of_Revenge.php">復仇的人生</a>
-                <br><a href="Emperor_of_the_West.php">西域之君</a>
-                <br><a href="The_Sack_of_Rome.php">洗劫羅馬</a>
+                <br/><a href="Emperor_of_the_West.php">西域之君</a>
+                <br/><a href="The_Sack_of_Rome.php">洗劫羅馬</a>
               </td>
             </tr>
             <tr>
@@ -284,7 +284,7 @@
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
               <td class="tunitc6"><a href="The_Cleansing_of_the_Loire.php">羅亞爾河大掃蕩</a>
-                <br><a href="A_Perfect_Martyr.php.php">完美的烈士</a>
+                <br/><a href="A_Perfect_Martyr.php.php">完美的烈士</a>
               </td>
             </tr>
             <tr>
@@ -337,10 +337,10 @@
               <td class="tunitc4">動物</td>
               <td class="tunitc6">狼</td>
               <td class="tunitc6"><a href="Crucible.php">嚴酷的考驗</a>
-                <br><a href="La_Noche_Triste.php">悲傷之夜</a>
-                <br><a href="Vindlandsaga(1000).php">芬特蘭撒格(1000)</a>
-                <br><a href="The_Burmese_Tigers.php">餓虎撲食</a>
-                <br><a href="The_Triple_Alliance.php">三國同盟</a>
+                <br/><a href="La_Noche_Triste.php">悲傷之夜</a>
+                <br/><a href="Vindlandsaga(1000).php">芬特蘭撒格(1000)</a>
+                <br/><a href="The_Burmese_Tigers.php">餓虎撲食</a>
+                <br/><a href="The_Triple_Alliance.php">三國同盟</a>
               </td>
             </tr>
             <tr>
@@ -350,7 +350,7 @@
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">特殊</td>
               <td class="tunitc6"><a href="Lord_of _Arabia.php">阿拉伯之主</a>
-                <br><a href="The_Horns_of_Hattin.php">海丁的號角</a>
+                <br/><a href="The_Horns_of_Hattin.php">海丁的號角</a>
               </td>
             </tr>
             <tr>
@@ -360,7 +360,7 @@
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">遊俠</td>
               <td class="tunitc6"><a href="The_Lion_and_the_Demon.php">獅子與惡魔</a>
-                <br><a href="The_Emperor_Sleeping.php">沉睡的皇帝</a>
+                <br/><a href="The_Emperor_Sleeping.php">沉睡的皇帝</a>
               </td>
             </tr>
             <tr>
@@ -448,8 +448,8 @@
               <td class="tunitc4">馬騎弓兵</td>
               <td class="tunitc6">重裝馬騎弓兵</td>
               <td class="tunitc6"><a href="The_Horde_Rides_West.php">遊牧民族的西遷</a>
-                <br><a href="The_Promise.php">承諾</a>
-                <br><a href="Pax_Mongolia.php">蒙古治下的和平</a>
+                <br/><a href="The_Promise.php">承諾</a>
+                <br/><a href="Pax_Mongolia.php">蒙古治下的和平</a>
               </td>
             </tr>
             <tr>
@@ -475,7 +475,7 @@
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">哥德衛隊</td>
               <td class="tunitc6"><a href="All_Roads_Lead_to_a_Besieged_City.php">條條大路通圍城</a>
-                <br><a href="Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</a>
+                <br/><a href="Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</a>
               </td>
             </tr>
             <tr>
@@ -523,7 +523,7 @@
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">拜占庭聖騎兵</td>
                   <td class="tunitc6"><a href="Scourge_of_God.php">上帝之鞭</a>
-                    <br><a href="Fall_of_Rome.php">羅馬的衰落</a>
+                    <br/><a href="Fall_of_Rome.php">羅馬的衰落</a>
                   </td>
                 </tr>
                 <tr>
@@ -551,10 +551,10 @@
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">特殊</td>
                   <td class="tunitc6"><a href="Brother_against_ Brother.php">兄弟鬩牆</a>
-                    <br><a href="The_Enemy_of_my_Enemy.php">我敵人的敵人</a>
-                    <br><a href="Black_Guards.php">黑衛隊</a>
-                    <br><a href="King_of_Valencia.php">瓦倫西亞之主</a>
-                    <br><a href="Reconquista.php">勘查</a>
+                    <br/><a href="The_Enemy_of_my_Enemy.php">我敵人的敵人</a>
+                    <br/><a href="Black_Guards.php">黑衛隊</a>
+                    <br/><a href="King_of_Valencia.php">瓦倫西亞之主</a>
+                    <br/><a href="Reconquista.php">勘查</a>
                   </td>
                 </tr>
                 <tr>
@@ -591,7 +591,7 @@
                   <td class="tunitc4">國王</td>
                   <td class="tunitc6">國王</td>
                   <td class="tunitc6"><a href="Brother_against_ Brother.php">兄弟鬩牆</a>
-                    <br><a href="Black_Guards.php">黑衛隊</a>
+                    <br/><a href="Black_Guards.php">黑衛隊</a>
                   </td>
                 </tr>
                 <tr>
@@ -628,7 +628,7 @@
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">輕騎兵</td>
                   <td class="tunitc6"><a href="Bukhara(557).php">布哈拉(557)</a>
-                    <br><a href="Djeriba_Gold.php">傑爾巴島的黃金</a>
+                    <br/><a href="Djeriba_Gold.php">傑爾巴島的黃金</a>
                   </td>
                 </tr>
                 <tr>
@@ -638,7 +638,7 @@
                   <td class="tunitc4">步兵</td>
                   <td class="tunitc6">特殊</td>
                   <td class="tunitc6"><a href="The_Great_Ride.php">偉大的騎士</a>
-                    <br><a href="The_White_Elephant.php">白象化身</a>
+                    <br/><a href="The_White_Elephant.php">白象化身</a>
                   </td>
                 </tr>
                 <tr>
@@ -686,10 +686,10 @@
                       <td class="tunitc4">步兵</td>
                       <td class="tunitc6">傭兵</td>
                       <td class="tunitc6"><a href="An_End_and_a_Beginning.php">始兮終兮</a>
-                        <br><a href="O_Fortuna.php">命運女神</a>
-                        <br><a href="The_Hand_of_a_Daughter.php">于歸之喜</a>
-                        <br><a href="The_Ambrosian_Republic.php">安布羅共和國</a>
-                        <br><a href="A_New_Duk_of_Milan.php">米蘭新公爵</a>
+                        <br/><a href="O_Fortuna.php">命運女神</a>
+                        <br/><a href="The_Hand_of_a_Daughter.php">于歸之喜</a>
+                        <br/><a href="The_Ambrosian_Republic.php">安布羅共和國</a>
+                        <br/><a href="A_New_Duk_of_Milan.php">米蘭新公爵</a>
                       </td>
                     </tr>
                     <tr>
@@ -699,9 +699,9 @@
                       <td class="tunitc4">火藥單位、騎兵</td>
                       <td class="tunitc6">征服者</td>
                       <td class="tunitc6"><a href="Tales_of_La_Canela.php">黃金國的傳說</a>
-                        <br><a href="The_Split.php">分離告別</a>
-                        <br><a href="The_Amazones.php">亞馬遜族</a>
-                        <br><a href="The_Cannibals.php">食人族</a>
+                        <br/><a href="The_Split.php">分離告別</a>
+                        <br/><a href="The_Amazones.php">亞馬遜族</a>
+                        <br/><a href="The_Cannibals.php">食人族</a>
                       </td>
                     </tr>
                     <tr>
@@ -728,7 +728,7 @@
                       <td class="tunitc4">騎兵</td>
                       <td class="tunitc6">韃靼騎兵</td>
                       <td class="tunitc6"><a href="York(865).php">約克(865)</a>
-                        <br><a href="Honfoglalás(895).php">征服家園(895)</a>
+                        <br/><a href="Honfoglalás(895).php">征服家園(895)</a>
                       </td>
                     </tr>
                     <tr>
@@ -765,8 +765,8 @@
                       <td class="tunitc4">馬騎弓兵</td>
                       <td class="tunitc6">重裝馬騎弓兵</td>
                       <td class="tunitc6"><a href="A_Promising_Warrior.php">英雄出少年</a>
-                        <br><a href="The_Digvijaya.php">逐鹿迪格維傑之地</a>
-                        <br><a href="Battles_of_Tarain.php">塔蘭村之戰</a>
+                        <br/><a href="The_Digvijaya.php">逐鹿迪格維傑之地</a>
+                        <br/><a href="Battles_of_Tarain.php">塔蘭村之戰</a>
                       </td>
                     </tr>
                     <tr>
@@ -810,10 +810,10 @@
                       <td class="tunitc4">騎兵</td>
                       <td class="tunitc6">貴族鐵騎</td>
                       <td class="tunitc6"><a href="The_Dragon_Spreads_His_Wings.php">火龍展翅</a>
-                        <br><a href="The_Return_of_the_Dragon.php">龍之歸來</a>
-                        <br><a href="The_ Breath_of_the_Dragon.php">龍之喘息</a>
-                        <br><a href="The_Moon_Rises.php">撥雲見月</a>
-                        <br><a href="The_Night_Falls.php">暗夜降臨</a>
+                        <br/><a href="The_Return_of_the_Dragon.php">龍之歸來</a>
+                        <br/><a href="The_ Breath_of_the_Dragon.php">龍之喘息</a>
+                        <br/><a href="The_Moon_Rises.php">撥雲見月</a>
+                        <br/><a href="The_Night_Falls.php">暗夜降臨</a>
                       </td>
                     </tr>
                   </table>
@@ -1001,7 +1001,7 @@
                           <td class="tunitc4">馬騎弓兵</td>
                           <td class="tunitc6">標槍騎兵</td>
                           <td class="tunitc6"><a href="The_Battle_of_Guadalete.php">瓜達萊特之戰</a>
-                            <br><a href="Consolidation_and_Subjugation.php">攻城拔寨</a>
+                            <br/><a href="Consolidation_and_Subjugation.php">攻城拔寨</a>
                           </td>
                         </tr>
                         <tr>
@@ -1055,10 +1055,10 @@
                               <td class="tunitc4">騎兵</td>
                               <td class="tunitc6">精銳矛象伕</td>
                               <td class="tunitc6"><a href="The_Burmese_Tigers.php">餓虎撲食</a>
-                                <br><a href="The_Mandalay_Cobra.php">猛蛇出洞</a>
-                                <br><a href="The_Royal_Peacock.php">百鳥朝鳳</a>
-                                <br><a href="The_White_Elephant.php">白象化身</a>
-                                <br><a href="The_Old_Tiger.php">鳳凰涅槃</a>
+                                <br/><a href="The_Mandalay_Cobra.php">猛蛇出洞</a>
+                                <br/><a href="The_Royal_Peacock.php">百鳥朝鳳</a>
+                                <br/><a href="The_White_Elephant.php">白象化身</a>
+                                <br/><a href="The_Old_Tiger.php">鳳凰涅槃</a>
                               </td>
                             </tr>
                             <tr>
@@ -1084,7 +1084,7 @@
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">特殊</td>
                               <td class="tunitc6"><a href="Unconditional_Loyalty.php">班師勤王</a>
-                                <br><a href="The_Pasunda_Bubat_Tragedy.php">風雲變色</a>
+                                <br/><a href="The_Pasunda_Bubat_Tragedy.php">風雲變色</a>
                               </td>
                             </tr>
                             <tr>
@@ -1160,9 +1160,9 @@
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">特殊</td>
                               <td class="tunitc6"><a href="The_Pasunda_Bubat_Tragedy.php">風雲變色</a>
-                                <br><a href="The_Burmese_Tigers.php">餓虎撲食</a>
-                                <br><a href="The_Mandalay_Cobra.php">猛蛇出洞</a>
-                                <br><a href="The_White_Elephant.php">白象化身</a>
+                                <br/><a href="The_Burmese_Tigers.php">餓虎撲食</a>
+                                <br/><a href="The_Mandalay_Cobra.php">猛蛇出洞</a>
+                                <br/><a href="The_White_Elephant.php">白象化身</a>
                               </td>
                             </tr>
                             <tr>
@@ -1180,7 +1180,7 @@
                               <td class="tunitc4">馬騎弓兵</td>
                               <td class="tunitc6">象弓騎兵。</td>
                               <td class="tunitc6"><a href="The_Burmese_Tigers.php">餓虎撲食</a>
-                                <br><a href="The_Mandalay_Cobra.php">猛蛇出洞</a>
+                                <br/><a href="The_Mandalay_Cobra.php">猛蛇出洞</a>
                               </td>
                             </tr>
                             <tr>

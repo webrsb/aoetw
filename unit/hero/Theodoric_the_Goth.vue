@@ -63,7 +63,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_Archer.php">射手</a> +3
-                <br>對<a href="Armor_Class_building.php">建築</a> +2</td>
+                <br/>對<a href="Armor_Class_building.php">建築</a> +2</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -83,7 +83,7 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
-                      <br><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+                      <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
                     </td>
                   </tr>
                   <tr>

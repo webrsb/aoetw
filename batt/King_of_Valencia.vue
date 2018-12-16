@@ -63,7 +63,7 @@
               </tr>
               <tr></tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>英雄:席德。</dd> <dt>大地之母單位：</dt> 
               <dd>騎士x4、村民x8、駱駝騎兵x3、長劍兵x3、傳教士x2、矛兵x4。</dd>

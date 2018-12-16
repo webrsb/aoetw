@@ -51,7 +51,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4">攻城器
-                <br>英雄</td>
+                <br/>英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -65,12 +65,12 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">150 (組裝前）
-                <br>300 (組裝後)</td>
+                <br/>300 (組裝後)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊</td>
               <td class="unit4">1近戰 (組裝前)
-                <br>200遠程 (組裝後)</td>
+                <br/>200遠程 (組裝後)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
@@ -79,7 +79,7 @@
             <tr>
               <td class="unit3">攻擊速度</td>
               <td class="unit4">1 (組裝前)
-                <br>10 (組裝後)</td>
+                <br/>10 (組裝後)</td>
             </tr>
             <tr>
               <td class="unit3">開火間隔</a>
@@ -89,7 +89,7 @@
             <tr>
               <td class="unit3">射程</td>
               <td class="unit4">16 (組裝前)
-                <br>20 (組裝後)</td>
+                <br/>20 (組裝後)</td>
             </tr>
             <tr>
               <td class="unit3">最小射程</td>
@@ -98,7 +98,7 @@
             <tr>
               <td class="unit3">命中率</td>
               <td class="unit4">80%對建築物
-                <br>92%對單位</td>
+                <br/>92%對單位</td>
             </tr>
             <tr>
               <tr>
@@ -118,18 +118,18 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4">攻城器 (組裝前)
-                      <br>無 (組裝後)</td>
+                      <br/>無 (組裝後)</td>
                   </tr>
                   <tr>
                     <td class="unit3">跑速</a>
                     </td>
                     <td class="unit4">0.8 (組裝前)
-                      <br>0 (組裝後)</td>
+                      <br/>0 (組裝後)</td>
                   </tr>
                   <tr>
                     <td class="unit3">視野</td>
                     <td class="unit4">18 (組裝前)
-                      <br>21 (組裝後)</td>
+                      <br/>21 (組裝後)</td>
                   </tr>
           </table>
           <div class="thanks">感謝! 此頁面由Steven、眠協助編輯</div>

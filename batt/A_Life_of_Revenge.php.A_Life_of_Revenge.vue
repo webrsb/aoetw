@@ -60,7 +60,7 @@
                 <td class="tc6">泰依齊烏特人（黃色）蒙古 敵對</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>5位輕騎兵、2位駱駝騎兵、4位馬騎弓兵。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

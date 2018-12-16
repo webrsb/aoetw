@@ -86,52 +86,52 @@
             <div class="n1">
               <div class="row">
                 <div class="col-md-4">
-                   <h4>第三人稱講解:<br>台灣第一雲-韓國純塔</h4> 
+                   <h4>第三人稱講解:<br/>台灣第一雲-韓國純塔</h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/NvWDawdSDbc" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>經典戰術<br>條頓19P10人塔</h4> 
+                   <h4>經典戰術<br/>條頓19P10人塔</h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/pdcDViG6ghM" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>西班牙第一高手vs天才少年<br>馬來魔塔</h4> 
+                   <h4>西班牙第一高手vs天才少年<br/>馬來魔塔</h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/LSk5n6osCeY" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>越南第一高手Bact<br>擋高手塔攻 </h4> 
+                   <h4>越南第一高手Bact<br/>擋高手塔攻 </h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/7avjDSIPzZ0" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>超高手MBL韓國超極純塔<br>VS Daut</h4> 
+                   <h4>超高手MBL韓國超極純塔<br/>VS Daut</h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/tc30gSyj7Vo" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>中國超高大屌哥<br>西班牙純塔塔死Viper</h4> 
+                   <h4>中國超高大屌哥<br/>西班牙純塔塔死Viper</h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/eSsqrfMhArs" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>越南高手ACCM韓國純塔<br>vs 對方圍死</h4> 
+                   <h4>越南高手ACCM韓國純塔<br/>vs 對方圍死</h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/WQEPr5Yq_x0" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>天才少年反制阿根廷高手<br>Nicov8人塔全軍覆沒</h4> 
+                   <h4>天才少年反制阿根廷高手<br/>Nicov8人塔全軍覆沒</h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/gwJorR99Lqg" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>世界第一Viper vs lyx<br>馬來純塔</h4> 
+                   <h4>世界第一Viper vs lyx<br/>馬來純塔</h4> 
                   <iframe width="100%" src="https://www.youtube.com/embed/Rms_EGcwI88" frameborder="0"
                   allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-4">
-                   <h4>天才少年Liereyy<br>裝甲開局抓到<br>Viper塔攻</h4></h4>
+                   <h4>天才少年Liereyy<br/>裝甲開局抓到<br/>Viper塔攻</h4></h4>
                   <iframe width="100%" src="https://www.youtube.com/embed/ejtv5KkN2eo"
                   frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </div>
@@ -161,8 +161,8 @@
             </tr>
             <td class="unit3">適合文明</td>
             <td class="unit4">韓國
-              <br>西班牙
-              <br>馬來</td>
+              <br/>西班牙
+              <br/>馬來</td>
             </tr>
             <tr>
               <td class="unit3">時代</td>

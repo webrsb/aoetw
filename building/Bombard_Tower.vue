@@ -92,58 +92,58 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>:+30% HP，<a href="Chinese.php">中國</a>限定</td>
             </tr>
             <tr>
               <td class="tta1">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heatedshot.png" width="30" alt=""><a href="Heated_Shot.php">預熱射擊</a>(+125%，僅對船隻)
-                <br>
+                <br/>
               </td>
             </tr>
             <tr>
               <td class="tta1">範圍</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Murderholes.jpg" width="30" alt=""><a href="Murder_Holes.php">垛孔</a>:消除最小射程
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Artillery.php">砲兵</a>(+2，<a href="Turks.php">土耳其</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1">準確度</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:較易擊中移動目標
-                <br>　
+                <br/>　
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Arquebus.php">火繩槍</a>:火藥單位對移動目標的命中率提升，<a href="Portuguese.php">葡萄牙</a>限定</td>
             </tr>
             <tr>
               <td class="tta1">護甲</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+1/+1，+3建築護甲)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮暸望</a>(+4)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
@@ -151,7 +151,7 @@
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -361,7 +361,7 @@
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+40對<a href="Armor_Class_Ship.php">船隻</a>
 
-                <br>+1對<a href="Armor_Class_Camel.php">駱駝單位</a>
+                <br/>+1對<a href="Armor_Class_Camel.php">駱駝單位</a>
 
               </td>
             </tr>
@@ -397,11 +397,11 @@
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
 
-                <br> <a href="Armor_class_building.php">建築物</a>
+                <br/> <a href="Armor_class_building.php">建築物</a>
 
-                <br> <a href="Armor_class_standard_building.php">標準建築</a>
+                <br/> <a href="Armor_class_standard_building.php">標準建築</a>
 
-                <br> <a href="Armor_class_stone_defense.php">石造建築</a>
+                <br/> <a href="Armor_class_stone_defense.php">石造建築</a>
 
               </td>
             </tr>

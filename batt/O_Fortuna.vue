@@ -70,7 +70,7 @@
                 </tr>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>法蘭切斯科.斯福爾扎，10位義大利傭兵。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

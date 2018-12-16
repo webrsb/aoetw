@@ -84,22 +84,22 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Druzhina.php">王家侍從</a>:步兵單位有踐踏傷害，<a href="Slavs.php">斯拉夫</a>限定。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -115,7 +115,7 @@
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
@@ -123,7 +123,7 @@
                 <td class="tta1" style="width:10%">生產速度</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Perfusion.php">灌注士氣</a>:兵營工作速率加快2倍，<a href="Goths.php">哥德</a>限定。</td>
               </tr>
           </table>
@@ -428,11 +428,11 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+32 vs<a href="Armor_Class_Cavalry.php">騎兵</a>
-                <br>+28 vs<a href="Armor_Class_War_Elephant.php">戰象類</a>
-                <br>+26 vs<a href="Armor_Class_Camel.php">駱駝騎兵</a>
-                <br>+17 vs<a href="Armor_Class_Ship.php">船隻</a>
-                <br>+1 vs<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>
-                <br>+1 vs<a href="Armor_Class_Standard_Building.php">標準建築</a>
+                <br/>+28 vs<a href="Armor_Class_War_Elephant.php">戰象類</a>
+                <br/>+26 vs<a href="Armor_Class_Camel.php">駱駝騎兵</a>
+                <br/>+17 vs<a href="Armor_Class_Ship.php">船隻</a>
+                <br/>+1 vs<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>
+                <br/>+1 vs<a href="Armor_Class_Standard_Building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -451,7 +451,7 @@
               <td class="unit3"><a href="Armor_class.php">防禦類型</a>
               </td>
               <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
-                <br> <a href="Armor_Class_Spearman.php">長槍兵</a>
+                <br/> <a href="Armor_Class_Spearman.php">長槍兵</a>
               </td>
             </tr>
             <tr>

@@ -82,14 +82,14 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
-                <br>
+                <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Torsion Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">範圍</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對建築物攻擊加成+20%。
-                <br>
+                <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Artillery.php">砲兵</a>(+2，<a href="Turks.php">土耳其</a>限定)</td>
             </tr>
             <tr>
@@ -107,7 +107,7 @@
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -353,7 +353,7 @@
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Siege_Weapons.php">攻城武器</a>
 
-                <br><a href="Gunpowder_Unit.php">火藥單位</a>
+                <br/><a href="Gunpowder_Unit.php">火藥單位</a>
 
               </td>
             </tr>
@@ -410,11 +410,11 @@
               <div class="unititle2">數據</div>
               <td class="unit4">+200對<a href="Armor_class_building.php">建築</a>
 
-                <br>+40對<a href="Armor_class_stone_defense.php">石頭建築</a>
+                <br/>+40對<a href="Armor_class_stone_defense.php">石頭建築</a>
 
-                <br>+40對<a href="Armor_Class_Ship.php">船類</a>
+                <br/>+40對<a href="Armor_Class_Ship.php">船類</a>
 
-                <br>+20對<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
+                <br/>+20對<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
 
               </td>
             </tr>
@@ -464,7 +464,7 @@
               </td>
               <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
 
-                <br> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
+                <br/> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
 
               </td>
             </tr>

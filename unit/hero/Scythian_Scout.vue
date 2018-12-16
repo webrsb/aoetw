@@ -17,7 +17,7 @@
                 href="Bukhara(557).php">布哈拉</a>戰役中則是玩家一開始就能指揮的單位。在地圖編輯器中也可以使用他。</p>
             <p>在<a href="Sundjataa.php">松迪亞塔</a>戰役的<a href="Djeriba_Gold.php">傑爾巴島的黃金</a>這關中，玩家進入地圖南方的營地內時也可以取得八支斯基泰斥侯(被改名為馬里騎士)，他們有傑出的遠防和回血能力，是相當優秀的單位。</p>
             <p>他們在遊戲中使用<a href="Light_Cavalry.php">輕騎兵</a>的外型，由於他是一名英雄，因此不會被招降且會自動回血。</p>
-            <br>軼事錄
+            <br/>軼事錄
             <hr></hr>
             <p>雖然在遊戲中有同名的英雄單位可用，但在上帝之鞭這關中登場的斯基泰斥侯卻是以有1000滴血的一般<a href="Scout_Cavalry.php">斥侯</a>改名取代，原因不明。</p>
           </div>
@@ -45,7 +45,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-                <br><a href="heros.php">英雄</a>
+                <br/><a href="heros.php">英雄</a>
               </td>
             </tr>
             <tr>

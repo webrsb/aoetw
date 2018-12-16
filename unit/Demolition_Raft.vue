@@ -47,7 +47,7 @@
               <td class="tta1" style="width:10%">護甲</td>
               <td class="tta4">
                 <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>(護甲+0/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Carrack.php">克拉克帆船</a>(護甲+1/+1，<a href="Portuguese.php">葡萄牙</a>限定)</td>
             </tr>
             <tr>
@@ -60,7 +60,7 @@
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>

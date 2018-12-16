@@ -44,7 +44,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">騎兵<br>英雄</a>
+              <td class="unit4"><a href="">騎兵<br/>英雄</a>
 
               </td>
             </tr>
@@ -68,7 +68,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對建築物+10
-                <br>對石造建築+10</td>
+                <br/>對石造建築+10</td>
             </tr>
             <tr>
               <td class="unit3">建設範圍</td>
@@ -91,8 +91,8 @@
                 <tr>
                   <td class="unit3">防禦類型</td>
                   <td class="unit4">騎兵
-                    <br>戰象
-                    <br>特殊單位</td>
+                    <br/>戰象
+                    <br/>特殊單位</td>
                 </tr>
                 <tr>
                   <td class="unit3">跑速</td>

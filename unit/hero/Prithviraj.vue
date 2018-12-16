@@ -56,7 +56,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-                <br><a href="Archer_Units.php">射手</a>
+                <br/><a href="Archer_Units.php">射手</a>
               </td>
             </tr>
             <tr>
@@ -79,7 +79,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_building.php">建築</a> +10
-                <br>對<a href="Armor_Class_Spearman.php">槍兵</a> +6</td>
+                <br/>對<a href="Armor_Class_Spearman.php">槍兵</a> +6</td>
             </tr>
             <tr>
               <tr>
@@ -117,8 +117,8 @@
                     <tr>
                       <td class="unit3">防禦類型</td>
                       <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-                        <br><a href="Armor_Class_Cavalry.php">騎兵</a>
-                        <br><a href="Armor_Class_Cavalry_Archer.php">馬弓騎兵</a>
+                        <br/><a href="Armor_Class_Cavalry.php">騎兵</a>
+                        <br/><a href="Armor_Class_Cavalry_Archer.php">馬弓騎兵</a>
                       </td>
                     </tr>
                     <tr>

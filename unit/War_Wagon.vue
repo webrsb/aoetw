@@ -69,20 +69,20 @@
                 <td class="tta1" style="width:10%">攻擊力</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">攻擊範圍</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)</td>
               </tr>
               <tr>
@@ -94,16 +94,16 @@
                 <td class="tta1" style="width:10%">命中率</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
-                  <br>
+                  <br/>
                 </td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">防禦</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Paddedarcherarmor.jpg" width="30" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Leatherarcherarmor.jpg" width="30" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>(+1/+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Ringarcherarmor.jpg" width="30" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>(+1/+2)</td>
               </tr>
               <tr>
@@ -446,9 +446,9 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-              <br> <a href="Armor_Class_Cavalry_Archer.php">馬弓騎兵</a>
-              <br> <a href="Armor_Class_Cavalry.php">騎兵</a>
-              <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+              <br/> <a href="Armor_Class_Cavalry_Archer.php">馬弓騎兵</a>
+              <br/> <a href="Armor_Class_Cavalry.php">騎兵</a>
+              <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
             </td>
           </tr>
           <tr>

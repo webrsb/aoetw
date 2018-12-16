@@ -48,7 +48,7 @@
                   <td class="tc6">匈牙利（紫色）條頓</td>
                 </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>5位村民、8位輕騎兵、8位蒙古突騎、10位破壞者。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

@@ -60,7 +60,7 @@
                 <td class="tc6" width="35%">米蘭村莊(灰色) 義大利 敵對</td>
                 <td class="tc6" width="15%" "><div class="p2
                 "></div>玩家6：</td>    <td class="tc6 " width="35%
-                ">阿比亞泰格拉索(紅色) 法蘭克 </td>   </tr>  </tr>     </table><br>  <dl class="dl-horizontal
+                ">阿比亞泰格拉索(紅色) 法蘭克 </td>   </tr>  </tr>     </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>法蘭切斯科.斯福爾扎，1位弗朗切斯科.斯福爾扎，1位輕騎兵，4位騎士，5位重裝長槍兵，8位熱那亞弩手，3位村民。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>法蘭切斯科.斯福爾扎必須存活。</li><li>包圍米蘭直到他們斷絕食物。</li><li>尋找重要的攻擊點，然後切斷米蘭的供給資源。</li><li>要在威尼斯的進攻中堅持下來直到米蘭人投降。</li><li>帶斯福爾扎到米蘭城堡。</li>  </ol><h2>次要任務</h2><div class="hrn1 "></div><div class="n1
                 "><ol>  <li>摧毀保衛穀倉的塔，奪取米蘭穀倉。</li><li>摧毀貿易站和貿易車。</li><li>點擊克雷莫納城的靶場，花50金子買進火槍兵。</li><li>打敗阿比亞泰格拉索</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

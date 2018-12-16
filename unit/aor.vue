@@ -90,8 +90,8 @@
             <tr>
               <td class="unit3">開發商</td>
               <td class="unit4">Skybox Labs
-                <br>Forgotten
-                <br>Empires LLC</td>
+                <br/>Forgotten
+                <br/>Empires LLC</td>
             </tr>
             <tr>
               <td class="unit3">發行</td>
@@ -113,9 +113,9 @@
             <tr>
               <td class="unit3">擴充</td>
               <td class="unit4">帝王世紀
-                <br>征服者入侵
-                <br>失落的帝國
-                <br>非洲王國</td>
+                <br/>征服者入侵
+                <br/>失落的帝國
+                <br/>非洲王國</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>

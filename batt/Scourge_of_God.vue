@@ -48,7 +48,7 @@
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p3 "></div>玩家3：</td>    <td class="tc6
                 ">西徐亞人（綠色）蒙古 敵對 </td>    <td class="tc6 "><div class="p2 "></div>玩家4：</td>    <td class="tc6
                 ">波斯人（紅色）波斯   </td>  </tr>  <tr>    <td class="tc6 "><div class="p1 "></div>玩家5：</td>    <td class="tc6
-                ">西羅馬帝國（藍色）拜占庭  </td>  </tr>       </table><br>  <dl class="dl-horizontal
+                ">西羅馬帝國（藍色）拜占庭  </td>  </tr>       </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>阿提拉</dd>  <dt>大地之母單位:</dt>   <dd>12位村民(不同支線劇情的村民總和)</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>阿提拉必須存活下來。</li><li>阿提拉必須肯定貝里達已經被殺，然後才返回匈奴人的陣地。只有這樣匈奴人才能對抗敵人。</li><li>打敗剩下的 3 個敵人中的 2 個敵人 (西徐亞人、羅馬人，和波斯人)。</li>  </ol></div></div><h2>次要目標</h2><div class="hrn1 "></div><div class="n1
                 ">  <ul>    <li>從羅馬的要塞中救出匈奴人，並送他們到南方。</li>    <li>從羅馬的要塞中救出西徐亞的斥候兵。他答應一定會好好回報。</li>    <li>護送阿提拉到西面的西徐亞村落，以討論同盟的事宜。</li>    <li>只要送 10 匹馬到西徐亞人駐守的山寨去，西徐亞人就會為阿提拉提供士兵。</li>    <li>只要西徐亞人駐守的山寨有 10 匹馬，西徐亞人就會為阿提拉提供士兵。</li>  </ul></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

@@ -68,7 +68,7 @@
                 <td class="tc6">阿方索國王的軍隊（藍色）西班牙</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場：</dt> 
               <dd>英雄:席德。</dd> <dt>大地之母單位：</dt> 
               <dd>6位西班牙征服者，3位重裝長槍兵，6位憎侶。</dd>

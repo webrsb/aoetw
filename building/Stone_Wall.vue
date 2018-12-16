@@ -202,9 +202,9 @@
               <td class="unit3">血量</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="22" alt="">900
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" width="22" alt="">1800
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Imperial-age-research.jpg" width="22" alt="">1800</td>
             </tr>
             <tr>
@@ -218,9 +218,9 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_class_building.php">建築</a>(+16)
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
-                <br> <a href="img/Armor_class_stone_defense.php">石造建築</a>
-                <br> <a href="img/Armor_class_wall_and_gate.php">牆與門</a> 
+                <br/> <a href="img/Armor_class_standard_building.php">標準建築</a>
+                <br/> <a href="img/Armor_class_stone_defense.php">石造建築</a>
+                <br/> <a href="img/Armor_class_wall_and_gate.php">牆與門</a> 
               </td>
             </tr>
             <tr>

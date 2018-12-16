@@ -50,7 +50,7 @@
                 ">阿奎利亞（紅色）塞爾特 </td>    <td class="tc6 "><div class="p3 "></div>玩家3：</td>    <td class="tc6
                 ">米蘭（綠色）條頓   </td>  </tr>  <tr>    <td class="tc6 "><div class="p8 "></div>玩家4：</td>    <td class="tc6
                 ">佛羅蘭（橘色）法蘭克  </td>    <td class="tc6 "><div class="p6 "></div>玩家5：</td>    <td class="tc6
-                ">帕度亞（紫色）不列顛  </td>  </tr></table><br>  <dl class="dl-horizontal
+                ">帕度亞（紫色）不列顛  </td>  </tr></table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>7位村民、阿提拉、8位韃靼騎兵、12位重裝馬騎弓兵、4台巨型投石機。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>阿提拉必須存活下來。</li>打敗阿奎利亞、米蘭、佛羅蘭和帕度亞的話，你就可以和羅馬談判。</li><li>阿提拉必須與教皇李奧一世在羅馬的城門外會面。</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1
                 "><ul>  <li>不要攻擊羅馬的城市。它不是一個威脅，而你是需要一些人來投降。</li><li>如果你的對手試圖以取得聖器或世界奇觀的勝利，此時匈奴的特殊科技就非常有用。</li><li>如果你缺乏足夠的資源來防衛你的城鎮的話，那麼就不要把你所有的軍隊都派上戰場。</li><li>你要進攻時，確認有足夠而且已經升級的軍隊，因為你的敵人們會聯手來對付你。</li></ul></div><h2>斥侯</h2><div class="hrn1 "></div><div class="n1

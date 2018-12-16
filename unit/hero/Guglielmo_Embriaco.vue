@@ -38,7 +38,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Armor_Class_Archer.php">射手<br><a href="heros.php">英雄</a>
+              <td class="unit4"><a href="Armor_Class_Archer.php">射手<br/><a href="heros.php">英雄</a>
               </td>
             </tr>
             <tr>
@@ -62,11 +62,11 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_Cavalry.php">騎兵</a> +10
-                <br>對<a href="Armor_Class_War Elephant.php">戰象</a> +10
-                <br>對<a href="Armor_Class_Camel.php">駱駝</a> +7
-                <br>對<a href="Armor_Class_Ship.php">船</a> +7
-                <br>對<a href="Armor_Class_Standard_Building.php">標準建築</a> +2
-                <br>
+                <br/>對<a href="Armor_Class_War Elephant.php">戰象</a> +10
+                <br/>對<a href="Armor_Class_Camel.php">駱駝</a> +7
+                <br/>對<a href="Armor_Class_Ship.php">船</a> +7
+                <br/>對<a href="Armor_Class_Standard_Building.php">標準建築</a> +2
+                <br/>
               </td>
             </tr>
             <tr>
@@ -99,8 +99,8 @@
                 <tr>
                   <td class="unit3">防禦類型</td>
                   <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-                    <br><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-                    <br>
+                    <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+                    <br/>
                   </td>
                 </tr>
                 <tr>

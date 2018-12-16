@@ -35,7 +35,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Armor_Class_Infantry">步兵<br><a href="Heros.php">英雄</a>
+              <td class="unit4"><a href="Armor_Class_Infantry">步兵<br/><a href="Heros.php">英雄</a>
               </td>
             </tr>
             <tr>
@@ -58,8 +58,8 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_Unique_Unit.php">特殊單位</a> +5
-                <br>對<a href="Armor_Class__building.php">建築</a> +2
-                <br>
+                <br/>對<a href="Armor_Class__building.php">建築</a> +2
+                <br/>
               </td>
             </tr>
             <tr>
@@ -79,8 +79,8 @@
                 <tr>
                   <td class="unit3">防禦類型</td>
                   <td class="unit4"><a href="Armor_Class_Infantry">步兵</a>
-                    <br><a href="Armor_Class_Unique_Unit">特殊單位</a>
-                    <br>
+                    <br/><a href="Armor_Class_Unique_Unit">特殊單位</a>
+                    <br/>
                   </td>
                 </tr>
                 <tr>

@@ -284,9 +284,9 @@
               <td class="unit3">裝甲類型</td>
               <td class="unit4"><a href="Armor_Class:_Archer.php">射手</a>
 
-                <br> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
+                <br/> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
 
-                <br> <a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+                <br/> <a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
 
               </td>
             </tr>

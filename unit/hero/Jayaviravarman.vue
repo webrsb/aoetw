@@ -39,7 +39,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">步兵<br>英雄</a>
+              <td class="unit4"><a href="">步兵<br/>英雄</a>
               </td>
             </tr>
             <tr>
@@ -62,7 +62,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對鷹勇士+2
-                <br>對標準建築+1</td>
+                <br/>對標準建築+1</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -81,7 +81,7 @@
                 <tr>
                   <td class="unit3">防禦類型</td>
                   <td class="unit4">步兵
-                    <br>特殊單位</td>
+                    <br/>特殊單位</td>
                 </tr>
                 <tr>
                   <td class="unit3">跑速</td>

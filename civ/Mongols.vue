@@ -52,7 +52,7 @@
           <div class="n1">
             <em><a href="mon.php">蒙古科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -131,7 +131,7 @@
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">
                 <a href="Nomads.php">游牧</a>
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Unique-tech.jpg"><a href="Drill.php">鑿岩機</a>
               </td>
             </tr>

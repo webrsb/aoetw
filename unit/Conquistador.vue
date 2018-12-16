@@ -65,9 +65,9 @@
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Paddedarcherarmor.jpg" width="30" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Leatherarcherarmor.jpg" width="30" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ringarcherarmor.jpg" width="30" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -80,7 +80,7 @@
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -396,7 +396,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">對<a href="Armor_Class_Ram.php">衝撞車</a>攻擊+4/+6(精銳)
-              <br>對<a href="Armor_Class_Building.php">建築物</a>+2</td>
+              <br/>對<a href="Armor_Class_Building.php">建築物</a>+2</td>
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>
@@ -430,11 +430,11 @@
             <td class="unit3">防禦類別</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">弓兵</a>
 
-              <br> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
+              <br/> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
 
-              <br> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
+              <br/> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
 
-              <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+              <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
 
             </td>
           </tr>

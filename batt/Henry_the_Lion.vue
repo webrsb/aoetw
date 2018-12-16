@@ -53,7 +53,7 @@
                 "></div>玩家5：</td>  <td class="tc6 " width="35% ">猛獅亨利（橘色）條頓 </td></tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p1 "></div>玩家2：</td>    <td class="tc6
-                ">波蘭（藍色）哥德 </td>  </tr></table><br>  <dl class="dl-horizontal
+                ">波蘭（藍色）哥德 </td>  </tr></table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>1位輕騎兵、6位騎士、10位重裝長槍兵、6位弩兵。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol>    <li>擊敗波蘭，擊敗猛獅亨利。</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1
                 "><ul>  <li>巴代利亞和薩克森這兩個日耳曼國家，要「供養」 紅鬍子和雄獅享利的軍隊。所以要不惜代價去保衛無助的供養者。</li></ul><h2>芝麻小事</h2><div class="hrn1 "></div><div class="n1

@@ -65,28 +65,28 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -179,7 +179,7 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
-                <br> <a href="img/Armor_class_standard_building.php">標準建築</a>
+                <br/> <a href="img/Armor_class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -281,10 +281,10 @@
               <div class="hrn1"></div>
               <p>位於現今愛爾蘭南部城市卡瑟爾，最早建築於1100年，曾是芒斯特王國的重要據點，</p>
               <p>登場戰役：阿提拉6-羅馬的衰落、失落帝國的戰役-約克(865)</p>
-              <br>
-              <br>
-              <br>
-              <br>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
             </div>
             <div class="col-md-4">
                <h3><span class="we">中國</span><strong><a href="https://zh.wikipedia.org/wiki/天壇">天壇</a></strong></h3> 
@@ -312,8 +312,8 @@
               <div class="hrn1"></div>
               <p>位於現今義大利拉偉納城外，狄奧多里克本人建立於520年。當代國王陵墓唯一的留到今日的，且是純粹的哥德建築，並沒有使用羅馬或是拜占庭式的建築風格。</p>
               <p>登場戰役：無</p>
-              <br>
-              <br>
+              <br/>
+              <br/>
             </div>
             <div class="col-md-4">
                <h3><span class="we">日本</span><strong><a href="https://zh.wikipedia.org/wiki/東大寺">東大寺</a></strong></h3> 
@@ -341,10 +341,10 @@
               <div class="hrn1"></div>
               <p>位於現今伊拉克泰西封，可能於540年開始建造，古代世界最大的拱形建築，1888年毀於大水災。</p>
               <p>登場戰役：成吉思汗4-遊牧民族的西遷</p>
-              <br>
-              <br>
-              <br>
-              <br>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
             </div>
             <div class="col-md-4">
                <h3><span class="we">薩拉森</span><strong><a href="https://zh.wikipedia.org/wiki/薩邁拉大清真寺">薩邁拉大清真寺</a></strong></h3> 
@@ -401,8 +401,8 @@
               <div class="hrn1"></div>
               <p>位於現今義大利羅馬，建立於312年，嚴格說起來並不算是中世紀建築，而他至今保存完好，是所有羅馬現存凱旋門最新的一座。</p>
               <p>登場戰役：無</p>
-              <br>
-              <br>
+              <br/>
+              <br/>
             </div>
             <div class="col-md-4">
                <h3><span class="we">韓國</span><strong><a href="https://zh.wikipedia.org/wiki/皇龍寺">皇龍寺</a></strong></h3> 
@@ -414,7 +414,7 @@
               <p>登場戰役：征服者的戰役-洛陽點(1598)</p>
             </div>
             <div class="col-md-4">
-               <h3><span class="we">馬雅</span><br><strong><a href="https://baike.baidu.com/item/蒂卡尔">大美洲豹神廟</a></strong></h3> 
+               <h3><span class="we">馬雅</span><br/><strong><a href="https://baike.baidu.com/item/蒂卡尔">大美洲豹神廟</a></strong></h3> 
               <div class="wimg">
                 <img height="124px;" src="~assets/Wondermayan.jpg" alt="">
               </div>
@@ -430,8 +430,8 @@
               <div class="hrn1"></div>
               <p>位於現今西班牙賽維亞，修建於13世紀的穆瓦希德王朝，作用是以鐵鍊控制水路進出口，1755年大地震摧毀了河岸另一端的塔，於是僅僅剩下一座，現為博物館。</p>
               <p>登場戰役：席德5-瓦倫西亞之主、蒙特蘇馬4-悲傷之夜、征服者的戰役-勒班陀(1571)</p>
-              <br>
-              <br>
+              <br/>
+              <br/>
             </div>
             <div class="col-md-4">
                <h3><span class="we">印加</span><strong><a href="https://zh.wikipedia.org/wiki/馬丘比丘">馬丘比丘太陽神廟</a></strong></h3> 
@@ -459,8 +459,8 @@
               <div class="hrn1"></div>
               <p>位於現今義大利熱那亞，可能建造於5~6世紀，原是獻給熱那亞主教，後來獻給聖勞倫斯，此處在羅馬時代可能是個公墓。</p>
               <p>登場戰役：阿拉里克4-洗劫羅馬、失落帝國的戰役-塞普勒斯(1191)</p>
-              <br>
-              <br>
+              <br/>
+              <br/>
             </div>
             <div class="col-md-4">
                <h3><span class="we">馬札爾</span><strong><a href="https://zh.wikipedia.org/wiki/科文城堡">科文城堡</a></strong></h3> 
@@ -542,8 +542,8 @@
               <div class="hrn1"></div>
               <p>位於現今印度尼西亞爪哇島，根據卡拉桑銘文，建立於778年，整座的石造廟宇，是一座佛教建築，並不是印度教建築(常常被人誤認)。</p>
               <p>登場戰役：加查·馬達5-風雲變色、勃印曩5-鳳凰涅槃</p>
-              <br>
-              <br>
+              <br/>
+              <br/>
             </div>
             <div class="col-md-4">
                <h3><span class="we">越南</span><strong><a href="http://www.baohuasi.org/gnews/2013413/2013413280755.html">寧福寺</a></strong></h3> 

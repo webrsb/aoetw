@@ -64,7 +64,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對鷹勇士+8
-                <br>對標準建築+4</td>
+                <br/>對標準建築+4</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>

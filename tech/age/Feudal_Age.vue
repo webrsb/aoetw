@@ -190,15 +190,15 @@
             <tr>
               <td class="unit3">所需建築</td>
               <td class="unit4">下面任兩項：
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Barracks-logo.jpg" width="22" alt=""><a href="Barracks.php">軍營</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Millicon.png" width="22" alt=""><a href="Mill.php">磨坊</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Lumbercampicon.png" width="22" alt=""><a href="Lumber_Camp.php">伐木場</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Miningcampicon.png" width="22" alt=""><a href="Mining_Camp.php">採礦營地</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><a href="Dock.php">碼頭</a> 
               </td>
             </tr>

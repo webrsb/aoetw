@@ -104,20 +104,20 @@
                 <td class="tta1" style="width:20%">生命值</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
               </tr>
               <tr>
                 <td class="tta1">攻擊</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Tigui.php">部落領袖</a>:城鎮中心不須駐守就可放箭，<a href="Malians.php">馬利</a>限定</td>
               </tr>
               <tr>
@@ -129,14 +129,14 @@
                 <td class="tta1" style="width:20%">護甲</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
               </tr>
               <tr>
                 <td class="tta1">視野</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
               </tr>
               <tr>
@@ -148,7 +148,7 @@
                 <td class="tta1" style="width:10%">其它</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>:增加駐守單位回血速度
-                  <br>
+                  <br/>
                   <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Crenellations.php">剁口</a>:步兵駐守也可放箭，<a href="Teutons.php">條頓</a>限定</td>
               </tr>
             </table>
@@ -281,8 +281,8 @@
             <tr>
               <td class="unit3">功能</td>
               <td class="unit4">生產和強化村民
-                <br>收集資源
-                <br>朝代演進</td>
+                <br/>收集資源
+                <br/>朝代演進</td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
@@ -327,8 +327,8 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+5對<a href="Armor_Class_Ship.php">船隻</a>
-                <br>+5對<a href="Armor_class_building.php">建築物</a>
-                <br>+1對<a href="Armor_Class_Camel.php">駱駝單位</a>
+                <br/>+5對<a href="Armor_class_building.php">建築物</a>
+                <br/>+1對<a href="Armor_Class_Camel.php">駱駝單位</a>
               </td>
             </tr>
             <tr>
@@ -351,22 +351,22 @@
               <td class="unit3">近防</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">3
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">4
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">5
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">6</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">5
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">6
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">7
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">8</td>
             </tr>
             <tr>

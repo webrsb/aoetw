@@ -56,7 +56,7 @@
                   <td class="tc6">瓜利密 （黃色）波斯</td>
                 </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>4位輕騎兵、6位馬騎弓兵。</dd> <dt>大地之母單位:</dt> 
               <dd>5位村民、2台貿易車隊、1位書部台、2隻野狼、7位馬騎弓兵。</dd>

@@ -59,7 +59,7 @@
                 <td class="tc6" width="35%">法蘭西人（灰色）法蘭克</td>
               </tr>
             </table>
-            <br>
+            <br/>
             <dl class="dl-horizontal"> <dt>開場單位:</dt> 
               <dd>3位村民、12隻綿羊、1位斥侯、10位韃靼騎兵。</dd> <dt>大地之母單位:</dt> 
               <dd>無</dd>

@@ -46,7 +46,7 @@
           <div class="n1">
             <em><a href="sla.php">斯拉夫科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -124,7 +124,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png">東正教
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg">王家侍從</td>
             </tr>
           </table>

@@ -78,9 +78,9 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Siegeengineers.jpg" width="30" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對建築物攻擊+20%
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Double Crossbow.php">雙弩箭</a>:可發射雙弩</td>
             </tr>
             <tr>
@@ -92,9 +92,9 @@
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -426,7 +426,7 @@
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
 
-                <br> <a href="Siege_Weapons.php">攻城武器</a>
+                <br/> <a href="Siege_Weapons.php">攻城武器</a>
 
               </td>
             </tr>
@@ -483,9 +483,9 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4"><a href="Armor_Class_Ship.php">船</a>+8
-                <br> <a href="Armor_class_stone_defense.php">石頭建築</a>+3/+4(精銳)
-                <br> <a href="Armor_class_standard_building.php">標準建築</a>+3，+4(精銳)
-                <br> <a href="Armor_class_building.php">建築</a>+2/+4(精銳)</td>
+                <br/> <a href="Armor_class_stone_defense.php">石頭建築</a>+3/+4(精銳)
+                <br/> <a href="Armor_class_standard_building.php">標準建築</a>+3，+4(精銳)
+                <br/> <a href="Armor_class_building.php">建築</a>+2/+4(精銳)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊範圍</td>
@@ -522,9 +522,9 @@
             <tr>
               <td class="unit3">裝甲類型</td>
               <td class="unit4"><a href="Armor_Class_Cavalry.php">騎兵</a>(-2)
-                <br> <a href="Armor_Class_War_Elephant.php">戰象</a>(-2)
-                <br> <a href="Armor_Class_Siege_Weapon.php">攻城武器</a>(-2)
-                <br> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+                <br/> <a href="Armor_Class_War_Elephant.php">戰象</a>(-2)
+                <br/> <a href="Armor_Class_Siege_Weapon.php">攻城武器</a>(-2)
+                <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
 
               </td>
             </tr>

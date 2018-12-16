@@ -39,7 +39,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Archer_Units.php">射手</a>
-                <br><a href="heros.php">英雄</a>
+                <br/><a href="heros.php">英雄</a>
               </td>
             </tr>
             <tr>
@@ -95,7 +95,7 @@
                     <tr>
                       <td class="unit3">防禦類型</td>
                       <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-                        <br><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+                        <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
                       </td>
                     </tr>
                     <tr>

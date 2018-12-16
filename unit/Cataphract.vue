@@ -105,9 +105,9 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Logistica.php">後勤學</a>:拜占庭聖騎兵有踐踏傷害，對<a href="Armor_Class_Infantry.php">步兵</a>攻擊+6，
                 <a
                 href="Byzantines.php">拜占庭</a>限定</td>
@@ -116,9 +116,9 @@
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
@@ -131,7 +131,7 @@
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -419,7 +419,7 @@
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+9/+12(精銳)對<a href="Armor_Class_Infantry.php">步兵</a>
 
-                <br>+9/+10(精銳)對<a href="Armor_class_Condottiero.php">傭兵</a>
+                <br/>+9/+10(精銳)對<a href="Armor_class_Condottiero.php">傭兵</a>
 
               </td>
             </tr>
@@ -438,7 +438,7 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>(+12, +16(精銳))
-                <br><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+                <br/><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
 
               </td>
             </tr>

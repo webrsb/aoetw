@@ -89,7 +89,7 @@
               <td class="tta1" style="width:10%">護甲</td>
               <td class="tta4">
                 <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>(護甲+0/+1)
-                <br>
+                <br/>
               </td>
             </tr>
             <tr>
@@ -101,7 +101,7 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
@@ -433,13 +433,13 @@
             <tr>
               <td class="unit3">攻擊</td>
               <td class="unit4">3(遠攻)
-                <br>1(近戰)</td>
+                <br/>1(近戰)</td>
             </tr>
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+4對<a href="Armor_Class_Ship.php">船</a> 
-                <br>+3對<a href="Armor_Class_Turtle_Ship.php">龜甲船</a> 
-                <br>+3對<a href="Armor_class_building.php">建築</a>
+                <br/>+3對<a href="Armor_Class_Turtle_Ship.php">龜甲船</a> 
+                <br/>+3對<a href="Armor_class_building.php">建築</a>
               </td>
             </tr>
             <tr>

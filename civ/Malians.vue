@@ -53,7 +53,7 @@
           <div class="n1">
             <em><a href="mai.php">馬利科技樹</a></em>
           </div>
-          <br>
+          <br/>
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -123,7 +123,7 @@
               <td class="unit3">特殊技術</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CastleAgeUnique.png"><a href="Tigui.php">部落領袖</a>
-                <br>
+                <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg"><a href="Farimba.php">驃悍精神</a>
               </td>
             </tr>
