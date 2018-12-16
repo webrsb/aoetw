@@ -366,8 +366,6 @@
           <div class="col-md-12"></div>
         </div>
       </div>
-      <!-- /container -->
-      <div class="container">
         <!-- /container -->
         <?php include( "allciv.php"); ?>
           <?php include( "foot.php"); ?></body>

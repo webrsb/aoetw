@@ -612,5 +612,7 @@ and (max-device-width: 480px)  {
       ">大型箭塔</a></div></td>        <td class="t11 trm not "><img class="gg " src="img/Arrowlits.jpg " alt="
       "><div><a href="Arrowslits.php ">箭狹槽</a></div></td>        <td class="t11 trm
       "></td>        <td class="t11 trm "></td>        <td class="t11 trm
-      "></td>        </tr>    </table></div>  </div></div>    </div>    <!-- /container -->
-    <!-- <?php include( "tree.php"); ?> --></body></html>
+      "></td>        </tr>    </table></div>  </div></div>    </div>
+      <!-- /container -->
+    <!-- <?php include( "tree.php"); ?> -->
+    </body></html>
