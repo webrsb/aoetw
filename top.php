@@ -80,7 +80,6 @@
 </head>
 
 <body >
-<?php include("head.php"); ?>
 
     <div class="container">
         <!-- Example row of columns -->

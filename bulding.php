@@ -1,5 +1,4 @@
 <template>
-    <?php include( "head.php"); ?>
     <div class="container" style="margin-top:50px">
       <!-- Example row of columns -->
        <h1>建築</h1> 

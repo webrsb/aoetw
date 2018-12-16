@@ -1,19 +1,4 @@
-<html lang="zh-tw">
-  
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="favicon.ico">
-    <title>Aoetw</title>
-    <style>
-      body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }        .unit h3 {            text-align: center;        }        .unit a {            color: #fff;        }        .unititle {            text-align: center;            padding: 10px;        }        .unitcontent {            padding: 10px;        }.col-md-3{  margin-top: 10px;}
-    </style>
-  </head>
-  
-  <body>
-    <?php include( "head.php"); ?>
+<template>
     <div class="container" style="margin-top:50px">
       <!-- Example row of columns -->
        <h1>文明</h1>

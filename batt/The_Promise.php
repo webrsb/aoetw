@@ -1,5 +1,4 @@
 <template>
-    <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
     -->
     <div class="container">

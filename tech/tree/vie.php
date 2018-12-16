@@ -128,7 +128,6 @@ $(document).ready(function(){
 </head>
 
 <body onload="prettyPrint();" style=" font-family: "微軟正黑體";">
-<?php include("head.php"); ?>
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
