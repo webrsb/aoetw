@@ -100,7 +100,7 @@ and (max-device-width: 480px)  {
           <h1>法蘭克-科技樹</h1>
           <div class="hrn1"></div>
         </div>
-        <?php include( "tree.php"); ?>
+        <input type="hidden" value="tree">
         <div class="hrn1"></div>
         <div class="n1">
           <table class="table">

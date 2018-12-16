@@ -119,7 +119,7 @@ $(document).ready(function(){
 </div>
 
 
-  <?php include( "tree.php"); ?>
+  <input type="hidden" value="tree">
 
 <div class="hrn1"></div>
 <div class="n1">

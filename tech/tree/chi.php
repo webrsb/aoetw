@@ -100,7 +100,7 @@ and (max-device-width: 480px)  {
 
           <div class="hrn1"></div>
         </div>
-        <?php include( "tree.php"); ?>
+        <input type="hidden" value="tree">
         <div class="hrn1"></div>
         <div class="n1">
           <table class="table">
