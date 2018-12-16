@@ -328,23 +328,23 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/2018sa.png"><img  class="imgn" class="hg" width="250" src="~assets/2018sa.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/2018sa.png"><img  class="imgn hg" width="250" src="~assets/2018sa.png" alt=""></a> 
                 <p><em>一群飛鏢騎兵</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Arambai_darts.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Arambai_darts.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Arambai_darts.jpg"><img  class="imgn hg" width="250" src="~assets/Arambai_darts.jpg" alt=""></a> 
                 <p><em>飛鏢</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Arambai_attacking.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Arambai_attacking.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Arambai_attacking.jpg"><img  class="imgn hg" width="250" src="~assets/Arambai_attacking.jpg" alt=""></a> 
                 <p><em>飛鏢騎兵的攻擊方式是丟飛鏢</em>
 
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Meitei_horsemen.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Meitei_horsemen.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Meitei_horsemen.jpg"><img  class="imgn hg" width="250" src="~assets/Meitei_horsemen.jpg" alt=""></a> 
                   <p><em>騎在小馬上的曼尼普爾騎兵。</em>
 
                   </p>

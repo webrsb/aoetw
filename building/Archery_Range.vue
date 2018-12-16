@@ -329,7 +329,7 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/ARFeudalAgeDLC.png"><img class="imgn" class="hg" width="180" src="~assets/ARFeudalAgeDLC.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/ARFeudalAgeDLC.png"><img class="imgn hg" width="180" src="~assets/ARFeudalAgeDLC.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的射箭場(帝王世紀和征服者入侵資料片)。</em>
@@ -337,7 +337,7 @@
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/ARFeudalAgeHD.png"><img class="imgn" class="hg" width="200" src="~assets/ARFeudalAgeHD.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/ARFeudalAgeHD.png"><img class="imgn hg" width="200" src="~assets/ARFeudalAgeHD.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的射箭場(HD擴充資料片)。</em>
@@ -345,7 +345,7 @@
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Archeryrangeaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Archeryrangeaokaoc.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Archeryrangeaokaoc.png"><img class="imgn hg" width="200" src="~assets/Archeryrangeaokaoc.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的射箭場(帝王世紀和征服者入侵資料片)。</em>
@@ -355,7 +355,7 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Archery_ranges_hd.png"><img class="imgn" class="hg" width="200" src="~assets/Archery_ranges_hd.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Archery_ranges_hd.png"><img class="imgn hg" width="200" src="~assets/Archery_ranges_hd.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的射箭場(HD擴充資料片)。</em>
@@ -363,7 +363,7 @@
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Spritesheet_archery_range.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_archery_range.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Spritesheet_archery_range.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_archery_range.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>射箭場在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>

@@ -229,14 +229,14 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Outpostlosdarkage.png"><img class="imgn" class="hg" width="180" src="~assets/Outpostlosdarkage.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Outpostlosdarkage.png"><img class="imgn hg" width="180" src="~assets/Outpostlosdarkage.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>黑暗時代哨站的視野範圍。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Outpostlosfu.png"><img class="imgn" class="hg" width="180" src="~assets/Outpostlosfu.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Outpostlosfu.png"><img class="imgn hg" width="180" src="~assets/Outpostlosfu.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>帝王時代哨站的視野範圍(有研發<a href="Town_Patrol.php">城鎮巡邏</a>)。</em>

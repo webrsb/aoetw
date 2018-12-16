@@ -415,15 +415,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Fishingship.png"><img class="imgn" class="hg" src="~assets/Fishingship.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Fishingship.png"><img class="imgn hg" src="~assets/Fishingship.png" alt=""></a> 
               <p><em>一群漁船。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Fishingshipworking.png"><img class="imgn" class="hg" src="~assets/Fishingshipworking.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Fishingshipworking.png"><img class="imgn hg" src="~assets/Fishingshipworking.png" alt=""></a> 
               <p><em>工作中的漁船。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Fishingshipworkingtrap.png"><img class="imgn" class="hg" src="~assets/Fishingshipworkingtrap.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Fishingshipworkingtrap.png"><img class="imgn hg" src="~assets/Fishingshipworkingtrap.png" alt=""></a> 
               <p><em>收集漁網食物的漁船。</em>
               </p>
             </div>

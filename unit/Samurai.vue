@@ -359,14 +359,14 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Samurai_2014-12-03_00001.jpg"><img class="imgn" class="hg" width="180" src="~assets/Samurai_2014-12-03_00001.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Samurai_2014-12-03_00001.jpg"><img class="imgn hg" width="180" src="~assets/Samurai_2014-12-03_00001.jpg" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>一群日本武士。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Samurai_Beta.jpg"><img class="imgn" class="hg" width="180" src="~assets/Samurai_Beta.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Samurai_Beta.jpg"><img class="imgn hg" width="180" src="~assets/Samurai_Beta.jpg" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>日本武士。</em>

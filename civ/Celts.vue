@@ -135,21 +135,21 @@
         <div class="col-md-12">
            <h3>圖庫</h3> 
           <div class="col-md-4">
-            <div class="wimg"><a href="img/Woad.jpg"><img class="imgn" class="hg" src="~assets/Woad.jpg" alt=""></a>
+            <div class="wimg"><a href="img/Woad.jpg"><img class="imgn hg" src="~assets/Woad.jpg" alt=""></a>
 
             </div>
             <div class="hrn1"></div>
             <p>菘藍武士的3D模組。</p>
           </div>
           <div class="col-md-4">
-            <div class="wimg"><a href="img/Wondercelts.png"><img class="imgn" class="hg" src="~assets/Wondercelts.png" alt=""></a>
+            <div class="wimg"><a href="img/Wondercelts.png"><img class="imgn hg" src="~assets/Wondercelts.png" alt=""></a>
 
             </div>
             <div class="hrn1"></div>
             <p>賽爾特的世界奇觀：卡瑟爾岩。</p>
           </div>
           <div class="col-md-4">
-            <div class="wimg"><a href="img/Celts_in_III_century_BC.jpg"><img class="imgn" class="hg" src="~assets/Celts_in_III_century_BC.jpg" alt=""></a>
+            <div class="wimg"><a href="img/Celts_in_III_century_BC.jpg"><img class="imgn hg" src="~assets/Celts_in_III_century_BC.jpg" alt=""></a>
 
             </div>
             <div class="hrn1"></div>

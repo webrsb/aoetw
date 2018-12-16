@@ -515,12 +515,12 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Battle_Elephant_and_Elite.jpg"><img class="imgn" class="hg" src="~assets/Battle_Elephant_and_Elite.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Battle_Elephant_and_Elite.jpg"><img class="imgn hg" src="~assets/Battle_Elephant_and_Elite.jpg" alt=""></a> 
                 <p><em>矛象伕和精銳矛象伕。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Battle_Elephant_group.jpg"><img class="imgn" class="hg" src="~assets/Battle_Elephant_group.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Battle_Elephant_group.jpg"><img class="imgn hg" src="~assets/Battle_Elephant_group.jpg" alt=""></a> 
                 <p><em>一群矛象伕。</em>
 
                 </p>

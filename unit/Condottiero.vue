@@ -436,24 +436,24 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Condottiero_Group.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Condottiero_Group.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Condottiero_Group.jpg"><img  class="imgn hg" width="250" src="~assets/Condottiero_Group.jpg" alt=""></a> 
               <p><em>一群傭兵</em>
 
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/2.png"><img  class="imgn" class="hg" width="250" src="~assets/2.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/2.png"><img  class="imgn hg" width="250" src="~assets/2.png" alt=""></a> 
               <p><em>一群傭兵(4.4版本後)</em>
 
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Per.png"><img  class="imgn" class="hg" width="250" src="~assets/Per.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Per.png"><img  class="imgn hg" width="250" src="~assets/Per.png" alt=""></a> 
               <p><em>傭兵對沒有完整升級步兵的文明非常有價值，例如:波斯。</em>
 
               </p>
             </div>
           </div>
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Genoese_&_Condottiero.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Genoese_&_Condottiero.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Genoese_&_Condottiero.jpg"><img  class="imgn hg" width="250" src="~assets/Genoese_&_Condottiero.jpg" alt=""></a> 
               <p><em>義大利的兩個特殊單位:傭兵(左)和熱那亞努手(右)</em>
 
               </p>

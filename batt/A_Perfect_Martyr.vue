@@ -230,13 +230,13 @@
           <div
           class="col-md-12">
             <div class="col-md-6">
-              <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joanofarc6rock.png" alt="">
+              <img position="centered" class="imgn hg" width="500" src="~assets/Joanofarc6rock.png" alt="">
               <p class="text-center"><em>讓軍隊沿著地圖邊緣走到這邊準備攻擊勃根地人。</em>
 
               </p>
             </div>
             <div class="col-md-6">
-              <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joanofarc6Burgundy.png" alt="">
+              <img position="centered" class="imgn hg" width="500" src="~assets/Joanofarc6Burgundy.png" alt="">
               <p class="text-center"><em>破壞勃根地城鎮。</em>
 
               </p>
@@ -247,13 +247,13 @@
       <div
       class="col-md-12">
         <div class="col-md-6">
-          <img class="imgn" class="hg" src="~assets/Joanofarc6Shrewsbury.png" alt="">
+          <img class="imgn hg" src="~assets/Joanofarc6Shrewsbury.png" alt="">
           <p class="text-center"><em>舒茲伯利有大量的黃金跟石頭可以開採。</em>
 
           </p>
         </div>
         <div class="col-md-6">
-          <img class="imgn" class="hg" src="~assets/Joanofarc6Northwest.png" alt="">
+          <img class="imgn hg" src="~assets/Joanofarc6Northwest.png" alt="">
           <p class="text-center"><em>看到防禦箭塔就在附近蓋城堡跟軍事建築。</em>
 
           </p>
@@ -264,13 +264,13 @@
     <div
     class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joanofarc6lastmile.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/Joanofarc6lastmile.png" alt="">
         <p class="text-center"><em>在城門前蓋城堡往目標繼續挺進。</em>
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joanofarc6victory.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/Joanofarc6victory.png" alt="">
         <p class="text-center"><em>玩家可以直接擊敗不列顛人獲得勝利。</em>
 
         </p>

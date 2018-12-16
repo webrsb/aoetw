@@ -433,7 +433,7 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Berserk.png"><img class="imgn" class="hg" src="~assets/Berserk.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Berserk.png"><img class="imgn hg" src="~assets/Berserk.png" alt=""></a> 
               <p><em>一群狂戰士</em>
 
               </p>

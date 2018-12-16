@@ -145,7 +145,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/DarkAge.png"><img class="imgn" class="hg" src="~assets/DarkAge.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/DarkAge.png"><img class="imgn hg" src="~assets/DarkAge.png" alt=""></a> 
                 <p><em>每個文明在黑暗時代的樣子。</em>
 
                 </p>

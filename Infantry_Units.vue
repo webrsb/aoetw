@@ -964,14 +964,14 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Infantryunitsbarracks.png"><img class="imgn" class="hg" width="180" src="~assets/Infantryunitsbarracks.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Infantryunitsbarracks.png"><img class="imgn hg" width="180" src="~assets/Infantryunitsbarracks.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有軍營裡可訓練的步兵單位。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Infantryunitscastle.png"><img class="imgn" class="hg" width="200" src="~assets/Infantryunitscastle.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Infantryunitscastle.png"><img class="imgn hg" width="200" src="~assets/Infantryunitscastle.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有城堡裡可訓練的步兵單位。</em>

@@ -487,20 +487,20 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Fireline.png"><img class="imgn" class="hg" src="~assets/Fireline.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Fireline.png"><img class="imgn hg" src="~assets/Fireline.png" alt=""></a> 
                 <p><em>火戰船系列(火戰船在中間)。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Fireship.png"><img class="imgn" class="hg" src="~assets/Fireship.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Fireship.png"><img class="imgn hg" src="~assets/Fireship.png" alt=""></a> 
                 <p><em>一群火戰船。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/FireShipHD.png"><img class="imgn" class="hg" src="~assets/FireShipHD.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/FireShipHD.png"><img class="imgn hg" src="~assets/FireShipHD.png" alt=""></a> 
                 <p><em>各種火戰船(世紀帝國和征服者入侵資料片)。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/FireShipHD.png"><img class="imgn" class="hg" src="~assets/FireShipHD.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/FireShipHD.png"><img class="imgn hg" src="~assets/FireShipHD.png" alt=""></a> 
                   <p><em>各種火戰船(HD擴充資料片)。</em>
                   </p>
                 </div>

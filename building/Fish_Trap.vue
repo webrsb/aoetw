@@ -216,14 +216,14 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Fishtraps.png"><img class="imgn" class="hg" width="180" src="~assets/Fishtraps.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Fishtraps.png"><img class="imgn hg" width="180" src="~assets/Fishtraps.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>漁網應該盡可能地蓋靠近碼頭。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Spritesheet_fish_trap.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_fish_trap.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Spritesheet_fish_trap.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_fish_trap.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:185px" ;>
               <p><em>漁網的各種樣子(建造中/損壞/閒置動畫)。</em>

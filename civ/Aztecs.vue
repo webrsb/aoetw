@@ -77,7 +77,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wonderaztecs.png"><img class="imgn" class="hg" src="~assets/Wonderaztecs.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wonderaztecs.png"><img class="imgn hg" src="~assets/Wonderaztecs.png" alt=""></a> 
                 <p><em>大神殿</em>
 
                 </p>

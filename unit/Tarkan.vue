@@ -421,11 +421,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Tarkan.png"><img class="imgn" class="hg" src="~assets/Tarkan.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Tarkan.png"><img class="imgn hg" src="~assets/Tarkan.png" alt=""></a> 
               <p><em>一群韃靼騎兵。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/A_Tarkan.png"><img class="imgn" class="hg" src="~assets/A_Tarkan.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/A_Tarkan.png"><img class="imgn hg" src="~assets/A_Tarkan.png" alt=""></a> 
               <p><em>韃靼騎兵模組。</em>
               </p>
             </div>

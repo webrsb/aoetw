@@ -396,21 +396,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Uniqueaok.png"><img class="imgn" class="hg" width="180" src="~assets/Uniqueaok.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Uniqueaok.png"><img class="imgn hg" width="180" src="~assets/Uniqueaok.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有《世紀帝國 II HD: 帝王世紀》的特殊單位。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Uniqueaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Uniqueaoc.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Uniqueaoc.png"><img class="imgn hg" width="200" src="~assets/Uniqueaoc.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有《世紀帝國 II HD: 征服者入侵》的特殊單位。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Uniqueaof.png"><img class="imgn" class="hg" width="200" src="~assets/Uniqueaof.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Uniqueaof.png"><img class="imgn hg" width="200" src="~assets/Uniqueaof.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有《世紀帝國 II HD: 失落的帝國》的特殊單位。</em>
@@ -419,14 +419,14 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Uniqueaoa.png"><img class="imgn" class="hg" width="200" src="~assets/Uniqueaoa.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Uniqueaoa.png"><img class="imgn hg" width="200" src="~assets/Uniqueaoa.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有《世紀帝國 II HD: 非洲王朝》的特殊單位。</em>
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Uniqueaor.png"><img class="imgn" class="hg" width="200" src="~assets/Uniqueaor.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Uniqueaor.png"><img class="imgn hg" width="200" src="~assets/Uniqueaor.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>所有《世紀帝國 II HD: 王者崛起》的特殊單位。</em>

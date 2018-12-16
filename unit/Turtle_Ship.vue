@@ -461,20 +461,20 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Turtleshipgroup.png"><img class="imgn" class="hg" src="~assets/Turtleshipgroup.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Turtleshipgroup.png"><img class="imgn hg" src="~assets/Turtleshipgroup.png" alt=""></a> 
                 <p><em>一群龜甲船。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Turtle_ship.jpg"><img class="imgn" class="hg" src="~assets/Turtle_ship.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Turtle_ship.jpg"><img class="imgn hg" src="~assets/Turtle_ship.jpg" alt=""></a> 
                 <p><em>最初的龜甲船(1.0c版本之前)。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Turtleship.png"><img class="imgn" class="hg" src="~assets/Turtleship.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Turtleship.png"><img class="imgn hg" src="~assets/Turtleship.png" alt=""></a> 
                 <p><em>龜甲船美術圖。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Turtle_Ship_paint.jpg"><img class="imgn" class="hg" src="~assets/Turtle_Ship_paint.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Turtle_Ship_paint.jpg"><img class="imgn hg" src="~assets/Turtle_Ship_paint.jpg" alt=""></a> 
                   <p><em>16世紀的龜甲船。</em>
                   </p>
                 </div>

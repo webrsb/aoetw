@@ -257,29 +257,29 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Bram1.jpg"><img class="imgn" class="hg" src="~assets/Bram1.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Bram1.jpg"><img class="imgn hg" src="~assets/Bram1.jpg" alt=""></a> 
                   <p><em>衝撞車模型。</em>
 
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Batteringram.png"><img class="imgn" class="hg" src="~assets/Batteringram.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Batteringram.png"><img class="imgn hg" src="~assets/Batteringram.png" alt=""></a> 
                   <p><em>一群輕型衝撞車。</em>
 
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Ramline.png"><img class="imgn" class="hg" src="~assets/Ramline.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Ramline.png"><img class="imgn hg" src="~assets/Ramline.png" alt=""></a> 
                   <p><em>衝撞車系。</em>
 
                   </p>
                 </div>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Splashdamageram.png"><img class="imgn" class="hg" src="~assets/Splashdamageram.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Splashdamageram.png"><img class="imgn hg" src="~assets/Splashdamageram.png" alt=""></a> 
                   <p><em>各類型衝撞車與其傷害。</em>
 
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Batteringramgarrison.png"><img class="imgn" class="hg" src="~assets/Batteringramgarrison.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Batteringramgarrison.png"><img class="imgn hg" src="~assets/Batteringramgarrison.png" alt=""></a> 
                   <p><em>有單位駐紮的衝撞車。</em>
 
                   </p>

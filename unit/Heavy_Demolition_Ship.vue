@@ -460,20 +460,20 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Demoline.png"><img class="imgn" class="hg" src="~assets/Demoline.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Demoline.png"><img class="imgn hg" src="~assets/Demoline.png" alt=""></a> 
                 <p><em>神風船系列(重型神風船在右邊)。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Heavydemo.png"><img class="imgn" class="hg" src="~assets/Heavydemo.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Heavydemo.png"><img class="imgn hg" src="~assets/Heavydemo.png" alt=""></a> 
                 <p><em>一群重型神風船。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/HDemolitionShipHD.png"><img class="imgn" class="hg" src="~assets/HDemolitionShipHD.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/HDemolitionShipHD.png"><img class="imgn hg" src="~assets/HDemolitionShipHD.png" alt=""></a> 
                 <p><em>各種重型神風船(世紀帝國和征服者入侵資料片)。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/HDemolitionShipDLC.png"><img class="imgn" class="hg" src="~assets/HDemolitionShipDLC.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/HDemolitionShipDLC.png"><img class="imgn hg" src="~assets/HDemolitionShipDLC.png" alt=""></a> 
                   <p><em>各種重型神風船(HD擴充資料片)。</em>
                   </p>
                 </div>

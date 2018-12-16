@@ -274,7 +274,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Petard.png"><img class="imgn" class="hg" src="~assets/Petard.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Petard.png"><img class="imgn hg" src="~assets/Petard.png" alt=""></a> 
               <p><em>一群爆炸桶</em>
               </p>
             </div>

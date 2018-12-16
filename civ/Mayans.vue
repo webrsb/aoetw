@@ -79,7 +79,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wondermayans.png"><img class="imgn" class="hg" src="~assets/Wondermayans.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wondermayans.png"><img class="imgn hg" src="~assets/Wondermayans.png" alt=""></a> 
                 <p><em>大美洲豹神廟</em>
                 </p>
               </div>

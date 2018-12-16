@@ -483,15 +483,15 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Spearline.png"><img class="imgn" class="hg" src="~assets/Spearline.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Spearline.png"><img class="imgn hg" src="~assets/Spearline.png" alt=""></a> 
             <p><em>長槍兵系列</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Halberdier.png"><img class="imgn" class="hg" src="~assets/Halberdier.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Halberdier.png"><img class="imgn hg" src="~assets/Halberdier.png" alt=""></a> 
             <p><em>一群戟兵</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/162p0005r99962q1q805.jpg"><img class="imgn" class="hg" src="~assets/162p0005r99962q1q805.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/162p0005r99962q1q805.jpg"><img class="imgn hg" src="~assets/162p0005r99962q1q805.jpg" alt=""></a> 
             <p><em>歷史上的瑞士斧槍兵。</em>
             </p>
           </div>

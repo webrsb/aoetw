@@ -507,17 +507,17 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Caravel.png"><img class="imgn" class="hg" src="~assets/Caravel.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Caravel.png"><img class="imgn hg" src="~assets/Caravel.png" alt=""></a> 
                 <p><em>一群卡拉維爾戰船。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Caravel_vs_Longboats.jpg"><img class="imgn" class="hg" src="~assets/Caravel_vs_Longboats.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Caravel_vs_Longboats.jpg"><img class="imgn hg" src="~assets/Caravel_vs_Longboats.jpg" alt=""></a> 
                 <p><em>卡拉維爾戰船對維京大戰船。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Caravel_history.jpg"><img class="imgn" class="hg" src="~assets/Caravel_history.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Caravel_history.jpg"><img class="imgn hg" src="~assets/Caravel_history.jpg" alt=""></a> 
                 <p><em>卡拉維爾戰船美術圖。</em>
 
                 </p>

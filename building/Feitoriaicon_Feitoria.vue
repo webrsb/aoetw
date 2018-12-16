@@ -191,7 +191,7 @@
          <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Feitoria_-_Copie.png"><img class="imgn" class="hg" width="180" src="~assets/Feitoria_-_Copie.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Feitoria_-_Copie.png"><img class="imgn hg" width="180" src="~assets/Feitoria_-_Copie.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>遊戲中的港灣大商站。</em>

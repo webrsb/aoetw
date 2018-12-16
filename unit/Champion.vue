@@ -324,12 +324,12 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Militialine.png"><img  class="imgn" class="hg" width="250" src="~assets/Militialine.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Militialine.png"><img  class="imgn hg" width="250" src="~assets/Militialine.png" alt=""></a> 
                 <p><em>民兵系升級列表</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Champion.png"><img  class="imgn" class="hg" width="250" src="~assets/Champion.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Champion.png"><img  class="imgn hg" width="250" src="~assets/Champion.png" alt=""></a> 
                 <p><em>一群劍兵勇士</em>
 
                 </p>

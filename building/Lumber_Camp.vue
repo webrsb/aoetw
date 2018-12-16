@@ -257,21 +257,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Lumbercampaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Lumbercampaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Lumbercampaokaoc.png"><img class="imgn hg" width="180" src="~assets/Lumbercampaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有文明的伐木場(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Lumbercamps_hd.png"><img class="imgn" class="hg" width="200" src="~assets/Lumbercamps_hd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Lumbercamps_hd.png"><img class="imgn hg" width="200" src="~assets/Lumbercamps_hd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有文明的伐木場(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Lumbercamp.png"><img class="imgn" class="hg" width="200" src="~assets/Lumbercamp.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Lumbercamp.png"><img class="imgn hg" width="200" src="~assets/Lumbercamp.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>伐木場如果距離採集點太遠就應該重蓋一座以維持效率。</em>
@@ -280,7 +280,7 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Spritesheet_lumber_camp.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_lumber_camp.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Spritesheet_lumber_camp.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_lumber_camp.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>各文明(依大陸分)的伐木場和在一般地圖/下雪地圖的樣子。</em>

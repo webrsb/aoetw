@@ -432,12 +432,12 @@
 
       <div class="hrn1"></div>
       <div class="n1">
-        <div class="col-md-4"> <a href="img/Eagleline.png"><img class="imgn" class="hg" src="~assets/Eagleline.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Eagleline.png"><img class="imgn hg" src="~assets/Eagleline.png" alt=""></a> 
           <p><em>鷹勇士系列</em>
 
           </p>
         </div>
-        <div class="col-md-4"> <a href="img/Eaglescout.png"><img class="imgn" class="hg" src="~assets/Eaglescout.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Eaglescout.png"><img class="imgn hg" src="~assets/Eaglescout.png" alt=""></a> 
           <p><em>一群鷹斥侯</em>
 
           </p>

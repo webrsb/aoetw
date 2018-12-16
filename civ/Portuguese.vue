@@ -88,7 +88,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Portuguese_preview.png"><img class="imgn" class="hg" src="~assets/Portuguese_preview.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Portuguese_preview.png"><img class="imgn hg" src="~assets/Portuguese_preview.png" alt=""></a> 
                 <p><em>葡萄牙海軍</em>
                 </p>
               </div>

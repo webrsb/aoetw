@@ -308,15 +308,15 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="~assets/Scoutcavalry.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn hg" src="~assets/Scoutcavalry.png" alt=""></a> 
                 <p><em>一群斥侯。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="~assets/Scoutcavalryline.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""></a> 
                 <p><em>斥侯系，斥侯在最左邊。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="~assets/sc45.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn hg" src="~assets/sc45.jpg" alt=""></a> 
                 <p><em>一群封建的斥侯正在大開殺戒。</em>
                 </p>
               </div>

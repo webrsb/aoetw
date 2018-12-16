@@ -422,15 +422,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Knightline.png"><img class="imgn" class="hg" src="~assets/Knightline.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Knightline.png"><img class="imgn hg" src="~assets/Knightline.png" alt=""></a> 
               <p><em>騎士系。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Paladin.png"><img class="imgn" class="hg" src="~assets/Paladin.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Paladin.png"><img class="imgn hg" src="~assets/Paladin.png" alt=""></a> 
               <p><em>一群遊俠。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Aok_paladin.gif"><img class="imgn" class="hg" src="~assets/Aok_paladin.gif" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Aok_paladin.gif"><img class="imgn hg" src="~assets/Aok_paladin.gif" alt=""></a> 
               <p><em>遊俠模型。</em>
               </p>
             </div>

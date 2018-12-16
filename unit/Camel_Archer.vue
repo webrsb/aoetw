@@ -358,28 +358,28 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"><img  class="imgn" class="hg" width="250" src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"><img  class="imgn hg" width="250" src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png" alt=""></a> 
                 <p><em>一群駱駝弓騎兵</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Aoe2_CamelArcher_Preview.png"><img  class="imgn" class="hg" width="250" src="~assets/Aoe2_CamelArcher_Preview.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Aoe2_CamelArcher_Preview.png"><img  class="imgn hg" width="250" src="~assets/Aoe2_CamelArcher_Preview.png" alt=""></a> 
                 <p><em>以前的駱駝弓騎兵</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/AOE2_CamelArcher_WIP-1024x787.png"><img  class="imgn" class="hg" width="250" src="~assets/AOE2_CamelArcher_WIP-1024x787.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AOE2_CamelArcher_WIP-1024x787.png"><img  class="imgn hg" width="250" src="~assets/AOE2_CamelArcher_WIP-1024x787.png" alt=""></a> 
                 <p><em>駱駝弓騎兵3D圖</em>
 
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Camel_archery.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Camel_archery.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Camel_archery.jpg"><img  class="imgn hg" width="250" src="~assets/Camel_archery.jpg" alt=""></a> 
                   <p><em>一張畫著獵人騎在駱駝背上彎弓打獵的畫。</em>
 
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/1518454054853.jpg"><img  class="imgn" class="hg" width="250" src="~assets/1518454054853.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/1518454054853.jpg"><img  class="imgn hg" width="250" src="~assets/1518454054853.jpg" alt=""></a> 
                   <p><em>即使是重裝馬弓騎兵也無法與駱駝弓騎兵一搏。</em>
 
                   </p>

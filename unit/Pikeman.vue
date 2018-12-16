@@ -473,15 +473,15 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Spearline.png"><img class="imgn" class="hg" src="~assets/Spearline.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Spearline.png"><img class="imgn hg" src="~assets/Spearline.png" alt=""></a> 
             <p><em>重裝長槍兵系列</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Pikeman.png"><img class="imgn" class="hg" src="~assets/Pikeman.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Pikeman.png"><img class="imgn hg" src="~assets/Pikeman.png" alt=""></a> 
             <p><em>一群重裝長槍兵</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Pikeman_history.jpg"><img class="imgn" class="hg" src="~assets/Pikeman_history.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Pikeman_history.jpg"><img class="imgn hg" src="~assets/Pikeman_history.jpg" alt=""></a> 
             <p><em>真實的重裝長槍兵畫像</em>
             </p>
           </div>

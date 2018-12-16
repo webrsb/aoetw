@@ -494,20 +494,20 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Galleyline.png"><img class="imgn" class="hg" src="~assets/Galleyline.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Galleyline.png"><img class="imgn hg" src="~assets/Galleyline.png" alt=""></a> 
                 <p><em>戰船系列(重型弩炮戰船在最右邊的)。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Galleon.png"><img class="imgn" class="hg" src="~assets/Galleon.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Galleon.png"><img class="imgn hg" src="~assets/Galleon.png" alt=""></a> 
                 <p><em>一群重型弩炮戰船。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/GalleonHD.png"><img class="imgn" class="hg" src="~assets/GalleonHD.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/GalleonHD.png"><img class="imgn hg" src="~assets/GalleonHD.png" alt=""></a> 
                 <p><em>各種重型弩炮戰船(世紀帝國和征服者入侵資料片)。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/GalleonDLC.png"><img class="imgn" class="hg" src="~assets/GalleonDLC.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/GalleonDLC.png"><img class="imgn hg" src="~assets/GalleonDLC.png" alt=""></a> 
                   <p><em>各種重型弩炮戰船(HD擴充資料片)。</em>
                   </p>
                 </div>

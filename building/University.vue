@@ -172,21 +172,21 @@
                 <div class="hrn1"></div>
                 <div class="n1">
                   <div class="col-md-12">
-                    <div class="col-md-4"> <a href="img/Universityaokaoc.png"><img class="imgn" class="hg" src="~assets/Universityaokaoc.png" alt=""></a> 
+                    <div class="col-md-4"> <a href="img/Universityaokaoc.png"><img class="imgn hg" src="~assets/Universityaokaoc.png" alt=""></a> 
                       <p><em>帝王世紀的所有學院。</em>
                       </p>
                     </div>
-                    <div class="col-md-4"> <a href="img/University.png"><img class="imgn" class="hg" src="~assets/University.png" alt=""></a> 
+                    <div class="col-md-4"> <a href="img/University.png"><img class="imgn hg" src="~assets/University.png" alt=""></a> 
                       <p><em>在城堡時期的HD版學院。</em>
                       </p>
                     </div>
-                    <div class="col-md-4"> <a href="img/UniversityImperialAgeHD.png"><img class="imgn" class="hg" src="~assets/UniversityImperialAgeHD.png" alt=""></a> 
+                    <div class="col-md-4"> <a href="img/UniversityImperialAgeHD.png"><img class="imgn hg" src="~assets/UniversityImperialAgeHD.png" alt=""></a> 
                       <p><em>在帝王時代的征服者入侵前版本的學院。</em>
                       </p>
                     </div>
                   </div>
                   <div class="col-md-12">
-                    <div class="col-md-4"> <a href="img/UniversityImperialAgeDLC.png"><img class="imgn" class="hg" src="~assets/UniversityImperialAgeDLC.png" alt=""></a> 
+                    <div class="col-md-4"> <a href="img/UniversityImperialAgeDLC.png"><img class="imgn hg" src="~assets/UniversityImperialAgeDLC.png" alt=""></a> 
                       <p><em>在帝王時代HD後版本的學院。  </em>
                       </p>
                     </div>

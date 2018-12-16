@@ -576,17 +576,17 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Cannongalleon.png"><img class="imgn" class="hg" src="~assets/Cannongalleon.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Cannongalleon.png"><img class="imgn hg" src="~assets/Cannongalleon.png" alt=""></a> 
                 <p><em>一群火炮戰船。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/CGHD.png"><img class="imgn" class="hg" src="~assets/CGHD.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/CGHD.png"><img class="imgn hg" src="~assets/CGHD.png" alt=""></a> 
                 <p><em>各種火炮戰船(世紀帝國和征服者入侵資料片)。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/CGDLC.png"><img class="imgn" class="hg" src="~assets/CGDLC.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/CGDLC.png"><img class="imgn hg" src="~assets/CGDLC.png" alt=""></a> 
                 <p><em>各種火炮戰船(HD擴充資料片)。</em>
 
                 </p>

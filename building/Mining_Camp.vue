@@ -254,21 +254,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Miningcampaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Miningcampaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Miningcampaokaoc.png"><img class="imgn hg" width="180" src="~assets/Miningcampaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有文明的採礦營地(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Mining_camp_hd.png"><img class="imgn" class="hg" width="200" src="~assets/Mining_camp_hd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Mining_camp_hd.png"><img class="imgn hg" width="200" src="~assets/Mining_camp_hd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有文明的採礦營地(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Spritesheet_mining_camp.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_mining_camp.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Spritesheet_mining_camp.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_mining_camp.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:220px" ;>
             <p><em>各文明(依大陸分)的採礦營地和在一般地圖/下雪地圖的樣子。</em>

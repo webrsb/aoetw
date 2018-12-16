@@ -296,21 +296,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/StableFeudalAgeHD.png"><img class="imgn" class="hg" width="180" src="~assets/StableFeudalAgeHD.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/StableFeudalAgeHD.png"><img class="imgn hg" width="180" src="~assets/StableFeudalAgeHD.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的馬廄(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/StableFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/StableFeudalAgeDLC.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/StableFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/StableFeudalAgeDLC.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的馬廄(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Stableaok.png"><img class="imgn" class="hg" width="200" src="~assets/Stableaok.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Stableaok.png"><img class="imgn hg" width="200" src="~assets/Stableaok.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的馬廄(帝王世紀和征服者入侵資料片)。</em>
@@ -319,14 +319,14 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Stablehd.png"><img class="imgn" class="hg" width="200" src="~assets/Stablehd.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Stablehd.png"><img class="imgn hg" width="200" src="~assets/Stablehd.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的馬廄(HD擴充資料片)。</em>
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Spritesheet_stable.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_stable.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Spritesheet_stable.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_stable.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>馬廄在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>

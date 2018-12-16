@@ -410,11 +410,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Knightline.png"><img class="imgn" class="hg" src="~assets/Knightline.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Knightline.png"><img class="imgn hg" src="~assets/Knightline.png" alt=""></a> 
               <p><em>騎士系。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Knight.png"><img class="imgn" class="hg" src="~assets/Knight.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Knight.png"><img class="imgn hg" src="~assets/Knight.png" alt=""></a> 
               <p><em>一群騎士。</em>
               </p>
             </div>

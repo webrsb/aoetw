@@ -476,7 +476,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Conquistadorgroup.png"><img class="imgn" class="hg" src="~assets/Conquistadorgroup.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Conquistadorgroup.png"><img class="imgn hg" src="~assets/Conquistadorgroup.png" alt=""></a> 
               <p><em>一群征服者</em>
 
               </p>

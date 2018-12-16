@@ -373,11 +373,11 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Skirmishers_Line.png"><img class="imgn" class="hg" src="~assets/Skirmishers_Line.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Skirmishers_Line.png"><img class="imgn hg" src="~assets/Skirmishers_Line.png" alt=""></a> 
             <p><em>矛兵系</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Imperial_Skirmisher_group.jpg"><img class="imgn" class="hg" src="~assets/Imperial_Skirmisher_group.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Imperial_Skirmisher_group.jpg"><img class="imgn hg" src="~assets/Imperial_Skirmisher_group.jpg" alt=""></a> 
             <p><em>一群帝王戰矛兵</em>
             </p>
           </div>

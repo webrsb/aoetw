@@ -21,13 +21,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/More_mines.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/More_mines.png" alt="">
         <p class="text-center"><em>紅樹林裡有豐富礦產等著玩家去開採!</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Shallow.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/Shallow.png" alt="">
         <p class="text-center"><em>順著下方的淺灘走就能到達敵方城鎮。</em>
 
         </p>

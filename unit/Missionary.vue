@@ -391,11 +391,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Missionary.png"><img class="imgn" class="hg" src="~assets/Missionary.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Missionary.png"><img class="imgn hg" src="~assets/Missionary.png" alt=""></a> 
                 <p><em>一群傳教士</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Missionary1.png"><img class="imgn" class="hg" src="~assets/Missionary1.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Missionary1.png"><img class="imgn hg" src="~assets/Missionary1.png" alt=""></a> 
                 <p><em>傳教士美術畫</em>
                 </p>
               </div>

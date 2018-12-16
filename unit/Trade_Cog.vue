@@ -443,15 +443,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Tradecog.png"><img class="imgn" class="hg" src="~assets/Tradecog.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Tradecog.png"><img class="imgn hg" src="~assets/Tradecog.png" alt=""></a> 
               <p><em>一群貿易商旅。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/TradeCogHD.png"><img class="imgn" class="hg" src="~assets/TradeCogHD.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/TradeCogHD.png"><img class="imgn hg" src="~assets/TradeCogHD.png" alt=""></a> 
               <p><em>各種貿易商旅(世紀帝國和征服者入侵資料片)。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/TradeCogDLC.png"><img class="imgn" class="hg" src="~assets/TradeCogDLC.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/TradeCogDLC.png"><img class="imgn hg" src="~assets/TradeCogDLC.png" alt=""></a> 
               <p><em>各種貿易商旅(HD擴充資料片)。</em>
               </p>
             </div>

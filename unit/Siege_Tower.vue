@@ -301,11 +301,11 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Siegetower.png"><img class="imgn" class="hg" src="~assets/Siegetower.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Siegetower.png"><img class="imgn hg" src="~assets/Siegetower.png" alt=""></a> 
                   <p><em>一群攻城塔</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Siege_Tower_attacking.png"><img class="imgn" class="hg" src="~assets/Siege_Tower_attacking.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Siege_Tower_attacking.png"><img class="imgn hg" src="~assets/Siege_Tower_attacking.png" alt=""></a> 
                   <p><em>《世紀帝國II:失落的帝國》的攻城塔是可以射箭攻擊的</em>
                   </p>
                 </div>

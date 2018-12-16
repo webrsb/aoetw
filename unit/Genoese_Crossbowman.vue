@@ -386,25 +386,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Genoesecrossbowman.png"><img class="imgn" class="hg" src="~assets/Genoesecrossbowman.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Genoesecrossbowman.png"><img class="imgn hg" src="~assets/Genoesecrossbowman.png" alt=""></a> 
               <p><em>一群熱那亞弩手。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Genoese_Crossbowmen.png"><img class="imgn" class="hg" src="~assets/Genoese_Crossbowmen.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Genoese_Crossbowmen.png"><img class="imgn hg" src="~assets/Genoese_Crossbowmen.png" alt=""></a> 
               <p><em>一群戰鬥中的熱那亞弩手，請注意他們移動時背上會背著巨盾。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Genoese.png"><img class="imgn" class="hg" src="~assets/Genoese.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Genoese.png"><img class="imgn hg" src="~assets/Genoese.png" alt=""></a> 
               <p><em>Mod版(左)和零售版(右)的熱那亞弩手。</em>
               </p>
             </div>
           </div>
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Genoese_Crossbowman_real_life.jpg"><img class="imgn" class="hg" src="~assets/Genoese_Crossbowman_real_life.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Genoese_Crossbowman_real_life.jpg"><img class="imgn hg" src="~assets/Genoese_Crossbowman_real_life.jpg" alt=""></a> 
               <p><em>真實世界的熱那亞弩手(左邊的是<a href="Pavise.php">巨盾</a>)。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Genoese_&_Condottiero (1).jpg"><img class="imgn" class="hg" src="~assets/Genoese_&_Condottiero (1).jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Genoese_&_Condottiero (1).jpg"><img class="imgn hg" src="~assets/Genoese_&_Condottiero (1).jpg" alt=""></a> 
               <p><em>義大利的特殊單位:傭兵(左)和熱那亞弩手(右)。</em>
               </p>
             </div>

@@ -84,7 +84,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wondervikings.png"><img class="imgn" class="hg" src="~assets/Wondervikings.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wondervikings.png"><img class="imgn hg" src="~assets/Wondervikings.png" alt=""></a> 
                 <p><em>維京的世界奇觀</em>
                 </p>
               </div>

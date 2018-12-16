@@ -242,12 +242,12 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Bombardtoweraok.png"><img class="imgn" class="hg" src="~assets/Bombardtoweraok.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Bombardtoweraok.png"><img class="imgn hg" src="~assets/Bombardtoweraok.png" alt=""></a> 
                 <p><em>帝王世紀的所有火砲塔風格。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Bombardtowerhd.png"><img class="imgn" class="hg" src="~assets/Bombardtowerhd.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Bombardtowerhd.png"><img class="imgn hg" src="~assets/Bombardtowerhd.png" alt=""></a> 
                 <p><em>失落的帝國後所有火砲塔風格。</em>
 
                 </p>

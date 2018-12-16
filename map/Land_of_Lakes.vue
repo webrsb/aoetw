@@ -20,19 +20,19 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Land_of_lakes.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/Land_of_lakes.png" alt="">
         <p class="text-center"><em>1號玩家一開始的城鎮。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Land_of_lakes_1.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/Land_of_lakes_1.png" alt="">
         <p class="text-center"><em>連接兩個半島的狹窄通道。</em>
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Land_of_lakes_2.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/Land_of_lakes_2.png" alt="">
         <p class="text-center"><em>在地圖角落藏在森林深處的金礦。</em>
 
         </p>

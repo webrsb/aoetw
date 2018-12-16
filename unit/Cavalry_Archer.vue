@@ -555,12 +555,12 @@
 
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Cavarcherline.png"><img class="imgn" class="hg" src="~assets/Cavarcherline.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Cavarcherline.png"><img class="imgn hg" src="~assets/Cavarcherline.png" alt=""></a> 
             <p><em>馬弓騎兵系</em>
 
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Cavalryarcher.png"><img class="imgn" class="hg" src="~assets/Cavalryarcher.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Cavalryarcher.png"><img class="imgn hg" src="~assets/Cavalryarcher.png" alt=""></a> 
             <p><em>一群馬弓騎兵</em>
 
             </p>

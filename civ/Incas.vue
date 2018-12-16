@@ -72,7 +72,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Incas_town.png"><img class="imgn" class="hg" src="~assets/Incas_town.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Incas_town.png"><img class="imgn hg" src="~assets/Incas_town.png" alt=""></a> 
                 <p><em>官方版本的印加宣傳</em>
                 </p>
               </div>

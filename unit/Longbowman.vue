@@ -392,15 +392,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Longbowman.png"><img class="imgn" class="hg" src="~assets/Longbowman.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Longbowman.png"><img class="imgn hg" src="~assets/Longbowman.png" alt=""></a> 
               <p><em>一群長弓兵</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Longbowman_range.png"><img class="imgn" class="hg" src="~assets/Longbowman_range.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Longbowman_range.png"><img class="imgn hg" src="~assets/Longbowman_range.png" alt=""></a> 
               <p><em>與其他兵種的最大射程比較</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Longbowman_real_life.jpg"><img class="imgn" class="hg" src="~assets/Longbowman_real_life.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Longbowman_real_life.jpg"><img class="imgn hg" src="~assets/Longbowman_real_life.jpg" alt=""></a> 
               <p><em>現實的長弓兵，請注意他的箭袋在腰間</em>
               </p>
             </div>

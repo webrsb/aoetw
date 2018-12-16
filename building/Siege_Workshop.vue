@@ -289,21 +289,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Siegeworkshopaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Siegeworkshopaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Siegeworkshopaokaoc.png"><img class="imgn hg" width="180" src="~assets/Siegeworkshopaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有攻城器製造所(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Siege_workshops_hd.png"><img class="imgn" class="hg" width="200" src="~assets/Siege_workshops_hd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Siege_workshops_hd.png"><img class="imgn hg" width="200" src="~assets/Siege_workshops_hd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有攻城器製造所(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Spritesheet_siege_workshop.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_siege_workshop.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Spritesheet_siege_workshop.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_siege_workshop.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>各式攻城器製造所和駐紮單位時的樣子。</em>

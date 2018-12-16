@@ -139,7 +139,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Rattan_vs_Cavalry_Archers.png"><img class="imgn" class="hg" src="~assets/Rattan_vs_Cavalry_Archers.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Rattan_vs_Cavalry_Archers.png"><img class="imgn hg" src="~assets/Rattan_vs_Cavalry_Archers.png" alt=""></a> 
                 <p><em>一群正在作戰的藤甲弓兵。</em>
                 </p>
               </div>

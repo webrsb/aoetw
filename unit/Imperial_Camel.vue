@@ -390,24 +390,24 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/AOF35_Imperial_Camel.jpg"><img class="imgn" class="hg" width="250" src="~assets/AOF35_Imperial_Camel.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AOF35_Imperial_Camel.jpg"><img class="imgn hg" width="250" src="~assets/AOF35_Imperial_Camel.jpg" alt=""></a> 
                 <p><em>失落的帝國，3.5版本的帝王駱駝騎兵。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/AOF36_Imperial_Camel.jpg"><img class="imgn" class="hg" src="~assets/AOF36_Imperial_Camel.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AOF36_Imperial_Camel.jpg"><img class="imgn hg" src="~assets/AOF36_Imperial_Camel.jpg" alt=""></a> 
                 <p><em>3.6版本的帝王駱駝騎兵。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/D.png"><img class="imgn" class="hg" src="~assets/D.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/D.png"><img class="imgn hg" src="~assets/D.png" alt=""></a> 
                 <p><em>4.4版本的帝王駱駝騎兵。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Camelline.png"><img class="imgn" class="hg" src="~assets/Camelline.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Camelline.png"><img class="imgn hg" src="~assets/Camelline.png" alt=""></a> 
                   <p><em>駱駝騎兵、重裝駱駝騎兵與帝王駱駝騎兵。</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Indians_preview.png"><img class="imgn" class="hg" src="~assets/Indians_preview.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Indians_preview.png"><img class="imgn hg" src="~assets/Indians_preview.png" alt=""></a> 
                   <p><em>失落的帝國還沒釋出前的官方圖，可以看到帝王駱駝的最初樣子。</em>
                   </p>
                 </div>

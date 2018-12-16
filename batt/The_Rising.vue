@@ -185,12 +185,12 @@
             <div
             class="col-md-12">
               <div class="col-md-6">
-                <img position="centered" class="imgn" class="hg" width="500" src="~assets/s4.png" alt="">
+                <img position="centered" class="imgn hg" width="500" src="~assets/s4.png" alt="">
                 <p class="text-center"><em>走小道(斥侯所在處)可以暫時躲過不列顛禁衛軍。</em>
                 </p>
               </div>
               <div class="col-md-6">
-                <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joan4chalon.png" alt="">
+                <img position="centered" class="imgn hg" width="500" src="~assets/Joan4chalon.png" alt="">
                 <p class="text-center"><em>沙朗的城鎮中心陷落。</em>
                 </p>
               </div>
@@ -199,12 +199,12 @@
         <div
         class="col-md-12">
           <div class="col-md-6">
-            <img class="imgn" class="hg" src="~assets/Joan4forwardbase.png" alt="">
+            <img class="imgn hg" src="~assets/Joan4forwardbase.png" alt="">
             <p class="text-center"><em>建造軍事建築物和防禦基地。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img class="imgn" class="hg" src="~assets/Joan4troyes.png" alt="">
+            <img class="imgn hg" src="~assets/Joan4troyes.png" alt="">
             <p class="text-center"><em>特洛伊斯的城鎮中心陷落。</em>
             </p>
           </div>
@@ -213,7 +213,7 @@
       <div
       class="col-md-12">
         <div class="col-md-6">
-          <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joan4rheims.png"
+          <img position="centered" class="imgn hg" width="500" src="~assets/Joan4rheims.png"
           alt="">
           <p class="text-center"><em>為了勝利攻破城牆破壞城鎮中心!。</em>
           </p>

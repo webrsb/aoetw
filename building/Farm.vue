@@ -265,11 +265,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Farms.png"><img class="imgn" class="hg" src="~assets/Farms.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Farms.png"><img class="imgn hg" src="~assets/Farms.png" alt=""></a> 
                 <p><em>農田越整齊離磨坊越近效率越高。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Ricefarm.png"><img class="imgn" class="hg" src="~assets/Ricefarm.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Ricefarm.png"><img class="imgn hg" src="~assets/Ricefarm.png" alt=""></a> 
                 <p><em>當農田蓋在紅樹林上時，會自動變成水田。</em>
                 </p>
               </div>

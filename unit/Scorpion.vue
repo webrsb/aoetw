@@ -260,15 +260,15 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Scorpion.png"><img class="imgn" class="hg" src="~assets/Scorpion.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Scorpion.png"><img class="imgn hg" src="~assets/Scorpion.png" alt=""></a> 
                   <p><em>一群弩砲</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Scorpionline.png"><img class="imgn" class="hg" src="~assets/Scorpionline.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Scorpionline.png"><img class="imgn hg" src="~assets/Scorpionline.png" alt=""></a> 
                   <p><em>弩砲與重型努泡</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Scorpion_Ballista.jpg"><img class="imgn" class="hg" src="~assets/Scorpion_Ballista.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Scorpion_Ballista.jpg"><img class="imgn hg" src="~assets/Scorpion_Ballista.jpg" alt=""></a> 
                   <p><em>真實世界的弩炮</em>
                   </p>
                 </div>

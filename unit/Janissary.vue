@@ -365,15 +365,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Janissary.png"><img class="imgn" class="hg" src="~assets/Janissary.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Janissary.png"><img class="imgn hg" src="~assets/Janissary.png" alt=""></a> 
               <p><em>一群土耳其火槍兵</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/20060421130007janissry2.jpg"><img class="imgn" class="hg" src="~assets/20060421130007janissry2.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/20060421130007janissry2.jpg"><img class="imgn hg" src="~assets/20060421130007janissry2.jpg" alt=""></a> 
               <p><em>一群攻擊中的土耳其火槍兵</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Jan1.jpg"><img class="imgn" class="hg" src="~assets/Jan1.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Jan1.jpg"><img class="imgn hg" src="~assets/Jan1.jpg" alt=""></a> 
               <p><em>土耳其火槍兵初級軍官</em>
               </p>
             </div>

@@ -187,13 +187,13 @@
               <div
               class="col-md-12">
                 <div class="col-md-6">
-                  <img position="centered" class="imgn" class="hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%81%8B%E8%BC%B8%E8%88%B9.jpg"
+                  <img position="centered" class="imgn hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%81%8B%E8%BC%B8%E8%88%B9.jpg"
                   alt="">
                   <p class="text-center"><em>讓軍隊用運輸船渡河。</em>
                   </p>
                 </div>
                 <div class="col-md-6">
-                  <img position="centered" class="imgn" class="hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E8%B6%8A%E9%81%8E%E6%B7%BA%E7%81%98.jpg"
+                  <img position="centered" class="imgn hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E8%B6%8A%E9%81%8E%E6%B7%BA%E7%81%98.jpg"
                   alt="">
                   <p class="text-center"><em>越過淺灘朝霍士道夫前進。</em>
                   </p>
@@ -204,13 +204,13 @@
           <div
           class="col-md-12">
             <div class="col-md-6">
-              <img class="imgn" class="hg" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%9C%8D%E5%A3%AB%E9%81%93%E5%A4%AB.jpg"
+              <img class="imgn hg" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%9C%8D%E5%A3%AB%E9%81%93%E5%A4%AB.jpg"
               alt="">
               <p class="text-center"><em>摧毀霍士道夫的城鎮中心。</em>
               </p>
             </div>
             <div class="col-md-6">
-              <img class="imgn" class="hg" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%9C%8D%E5%A3%AB%E9%81%93%E5%A4%AB%E5%87%BA%E7%8F%BE.jpg"
+              <img class="imgn hg" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%9C%8D%E5%A3%AB%E9%81%93%E5%A4%AB%E5%87%BA%E7%8F%BE.jpg"
               alt="">
               <p class="text-center"><em>霍士道夫突然出現在基地內!</em>
               </p>
@@ -220,13 +220,13 @@
         <div
         class="col-md-12">
           <div class="col-md-6">
-            <img position="centered" class="imgn" class="hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E6%9C%80%E5%BE%8C%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%A0%A1.jpg"
+            <img position="centered" class="imgn hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E6%9C%80%E5%BE%8C%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%A0%A1.jpg"
             alt="">
             <p class="text-center"><em>對最後一座城堡做總攻擊。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img position="centered" class="imgn" class="hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E5%9F%8E%E5%A0%A1%E9%99%B7%E8%90%BD!.jpg"
+            <img position="centered" class="imgn hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E5%9F%8E%E5%A0%A1%E9%99%B7%E8%90%BD!.jpg"
             alt="">
             <p class="text-center"><em>勝利!。</em>
             </p>

@@ -86,7 +86,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/EastAsian.jpg"><img class="imgn" class="hg" src="~assets/EastAsian.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/EastAsian.jpg"><img class="imgn hg" src="~assets/EastAsian.jpg" alt=""></a> 
                 <p><em>東亞建築</em>
                 </p>
               </div>

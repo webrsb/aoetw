@@ -412,7 +412,7 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/DockDarkAge.png"><img class="imgn" class="hg" width="180" src="~assets/DockDarkAge.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/DockDarkAge.png"><img class="imgn hg" width="180" src="~assets/DockDarkAge.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有黑暗時代的碼頭。</em>
@@ -420,7 +420,7 @@
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/DockFeudalAgeHD.png"><img class="imgn" class="hg" width="200" src="~assets/DockFeudalAgeHD.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/DockFeudalAgeHD.png"><img class="imgn hg" width="200" src="~assets/DockFeudalAgeHD.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的碼頭(帝王世紀和征服者入侵資料片)。</em>
@@ -428,7 +428,7 @@
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/DockFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/DockFeudalAgeDLC.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/DockFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/DockFeudalAgeDLC.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有封建時代的碼頭(HD擴充資料片)。</em>
@@ -438,7 +438,7 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Dockaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Dockaokaoc.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Dockaokaoc.png"><img class="imgn hg" width="200" src="~assets/Dockaokaoc.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>所有城堡時代的碼頭(帝王世紀和征服者入侵資料片)。</em>
@@ -446,7 +446,7 @@
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Dockexpansions.png"><img class="imgn" class="hg" width="200" src="~assets/Dockexpansions.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Dockexpansions.png"><img class="imgn hg" width="200" src="~assets/Dockexpansions.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:220px" ;>
         <p><em>所有城堡時代的碼頭(HD擴充資料片)。</em>
@@ -454,7 +454,7 @@
         </p>
     </div>
     </div>
-    <div class="col-md-4"> <a href="img/Spritesheet_dock.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_dock.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Spritesheet_dock.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_dock.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>碼頭在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>

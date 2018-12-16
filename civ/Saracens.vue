@@ -79,7 +79,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/MidEastern.jpg"><img class="imgn" class="hg" src="~assets/MidEastern.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/MidEastern.jpg"><img class="imgn hg" src="~assets/MidEastern.jpg" alt=""></a> 
                 <p><em>薩拉森建築</em>
                 </p>
               </div>

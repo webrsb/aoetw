@@ -173,14 +173,14 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-6"> <a href="img/Monasteryaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Monasteryaokaoc.png" alt=""></a> 
+                <div class="col-md-6"> <a href="img/Monasteryaokaoc.png"><img class="imgn hg" width="200" src="~assets/Monasteryaokaoc.png" alt=""></a> 
                   <div
                   class="lightbox-caption" style="width:220px" ;>
                     <p><em>所有文明的修道院(帝王世紀和征服者入侵資料片)。</em>
                     </p>
                 </div>
               </div>
-              <div class="col-md-6"> <a href="img/Monasteries.png"><img class="imgn" class="hg" width="200" src="~assets/Monasteries.png" alt=""></a> 
+              <div class="col-md-6"> <a href="img/Monasteries.png"><img class="imgn hg" width="200" src="~assets/Monasteries.png" alt=""></a> 
                 <div
                 class="lightbox-caption" style="width:185px" ;>
                   <p><em>所有文明的修道院(HD擴充資料片)。</em>
@@ -189,14 +189,14 @@
             </div>
           </div>
           <div class="col-md-12">
-            <div class="col-md-6"> <a href="img/Mud_mosque.jpg"><img class="imgn" class="hg" width="200" src="~assets/Mud_mosque.jpg" alt=""></a> 
+            <div class="col-md-6"> <a href="img/Mud_mosque.jpg"><img class="imgn hg" width="200" src="~assets/Mud_mosque.jpg" alt=""></a> 
               <div
               class="lightbox-caption" style="width:185px" ;>
                 <p><em>真實生活中的非洲修道院:Larabanga清真寺。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-6"> <a href="img/Konark_sun_temple.jpg"><img class="imgn" class="hg" width="200" src="~assets/Konark_sun_temple.jpg" alt=""></a> 
+          <div class="col-md-6"> <a href="img/Konark_sun_temple.jpg"><img class="imgn hg" width="200" src="~assets/Konark_sun_temple.jpg" alt=""></a> 
             <div
             class="lightbox-caption" style="width:185px" ;>
               <p><em>科納克太陽神殿，遊戲中印度修道院的參考。</em>

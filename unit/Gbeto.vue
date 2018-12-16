@@ -367,11 +367,11 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png"><img class="imgn" class="hg" src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png"><img class="imgn hg" src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png" alt=""></a> 
               <p><em>一群飛刀女獵手</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Gbeto_Attacking.png"><img class="imgn" class="hg" src="~assets/Gbeto_Attacking.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Gbeto_Attacking.png"><img class="imgn hg" src="~assets/Gbeto_Attacking.png" alt=""></a> 
               <p><em>飛刀女獵手正攻擊敵人的軍營</em>
               </p>
             </div>

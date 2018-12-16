@@ -467,11 +467,11 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Spearline.png"><img class="imgn" class="hg" src="~assets/Spearline.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Spearline.png"><img class="imgn hg" src="~assets/Spearline.png" alt=""></a> 
             <p><em>長槍兵系列</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Spearman.png"><img class="imgn" class="hg" src="~assets/Spearman.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Spearman.png"><img class="imgn hg" src="~assets/Spearman.png" alt=""></a> 
             <p><em>一群長槍兵</em>
             </p>
           </div>

@@ -342,7 +342,7 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/BarracksDarkAge.png"><img class="imgn" class="hg" width="180" src="~assets/BarracksDarkAge.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/BarracksDarkAge.png"><img class="imgn hg" width="180" src="~assets/BarracksDarkAge.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有黑暗時代的軍營。</em>
@@ -350,7 +350,7 @@
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/BarracksFeudalAgeHD.png"><img class="imgn" class="hg" width="200" src="~assets/BarracksFeudalAgeHD.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/BarracksFeudalAgeHD.png"><img class="imgn hg" width="200" src="~assets/BarracksFeudalAgeHD.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的軍營(帝王世紀和征服者入侵資料片)。</em>
@@ -358,7 +358,7 @@
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Barracks_hd_feudal.png"><img class="imgn" class="hg" width="200" src="~assets/Barracks_hd_feudal.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Barracks_hd_feudal.png"><img class="imgn hg" width="200" src="~assets/Barracks_hd_feudal.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有封建時代的軍營(HD擴充資料片)。</em>
@@ -368,7 +368,7 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Barracksaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Barracksaokaoc.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Barracksaokaoc.png"><img class="imgn hg" width="200" src="~assets/Barracksaokaoc.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>所有城堡時代的軍營(帝王世紀和征服者入侵資料片)。</em>
@@ -376,7 +376,7 @@
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Barracks_hd.png"><img class="imgn" class="hg" width="200" src="~assets/Barracks_hd.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Barracks_hd.png"><img class="imgn hg" width="200" src="~assets/Barracks_hd.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:220px" ;>
         <p><em>所有城堡時代的軍營(HD擴充資料片)。</em>
@@ -384,7 +384,7 @@
         </p>
     </div>
     </div>
-    <div class="col-md-4"> <a href="img/Spritesheet_barracks.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_barracks.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Spritesheet_barracks.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_barracks.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>射箭場在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>

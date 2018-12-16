@@ -298,7 +298,7 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/MarketFeudalAgeHD.png"><img class="imgn" class="hg" width="180" src="~assets/MarketFeudalAgeHD.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/MarketFeudalAgeHD.png"><img class="imgn hg" width="180" src="~assets/MarketFeudalAgeHD.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的市集(帝王世紀和征服者入侵資料片)。</em>
@@ -306,7 +306,7 @@
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/MarketFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/MarketFeudalAgeDLC.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/MarketFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/MarketFeudalAgeDLC.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的市集(HD擴充資料片)。</em>
@@ -314,7 +314,7 @@
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Marketaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Marketaokaoc.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Marketaokaoc.png"><img class="imgn hg" width="200" src="~assets/Marketaokaoc.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的市集(帝王世紀和征服者入侵資料片)。</em>
@@ -324,7 +324,7 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Market.png"><img class="imgn" class="hg" width="200" src="~assets/Market.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Market.png"><img class="imgn hg" width="200" src="~assets/Market.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的市集(HD擴充資料片)。</em>
@@ -332,7 +332,7 @@
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/MarketImperialAgeHD.png"><img class="imgn" class="hg" width="200" src="~assets/MarketImperialAgeHD.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/MarketImperialAgeHD.png"><img class="imgn hg" width="200" src="~assets/MarketImperialAgeHD.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:220px" ;>
         <p><em>所有帝王時代的市集(帝王世紀和征服者入侵資料片)。</em>
@@ -340,7 +340,7 @@
         </p>
     </div>
     </div>
-    <div class="col-md-4"> <a href="img/MarketImperialAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/MarketImperialAgeDLC.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/MarketImperialAgeDLC.png"><img class="imgn hg" width="200" src="~assets/MarketImperialAgeDLC.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>所有帝王時代的市集(HD擴充資料片)。</em>
@@ -350,7 +350,7 @@
     </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Spritesheet_market.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_market.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Spritesheet_market.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_market.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>市集在封建/城堡/帝王時代在一般地圖/下雪地圖的樣子(港灣大商站是最後一個)。</em>

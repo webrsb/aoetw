@@ -91,12 +91,12 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/White_Castle,_arrow_slit.jpg"><img class="imgn" class="hg" src="~assets/White_Castle,_arrow_slit.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/White_Castle,_arrow_slit.jpg"><img class="imgn hg" src="~assets/White_Castle,_arrow_slit.jpg" alt=""></a> 
                 <p><em><a href="https://en.wikipedia.org/wiki/White_Castle,_Monmouthshire">威爾斯白堡</a>的箭狹槽。  </a></em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Arrow_slat_corfe_castle.jpg"><img class="imgn" class="hg" src="~assets/Arrow_slat_corfe_castle.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Arrow_slat_corfe_castle.jpg"><img class="imgn hg" src="~assets/Arrow_slat_corfe_castle.jpg" alt=""></a> 
                 <p><em>由內部看的箭狹槽，也就是弓箭手會站的位置。</em>
 
                 </p>

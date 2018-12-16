@@ -157,7 +157,7 @@
             <div class="col-md-12">  
             <div class="col-md-4">  
                 <a href="img/Wonderpersians.png">
-                <img class="imgn" class="hg" src="~assets/Wonderpersians.png" alt=""></a>  <p><em>波斯的世界奇觀</em></p>  </div>   </div>
+                <img class="imgn hg" src="~assets/Wonderpersians.png" alt=""></a>  <p><em>波斯的世界奇觀</em></p>  </div>   </div>
               </div>
               
               <h3>歷史</h3>

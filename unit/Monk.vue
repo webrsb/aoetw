@@ -216,15 +216,15 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/monks1.png"><img  class="imgn" class="hg" width="250" src="~assets/monks1.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/monks1.png"><img  class="imgn hg" width="250" src="~assets/monks1.png" alt=""></a> 
                   <p><em>Voobly模組內，亞洲國家獨特的僧侶外型。其實原型是<a href="Chand_Bhai.php">金德-伯勒達伊</a>。</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/monks2.png"><img  class="imgn" class="hg" width="250" src="~assets/monks2.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/monks2.png"><img  class="imgn hg" width="250" src="~assets/monks2.png" alt=""></a> 
                   <p><em>一般的僧侶。</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/monks3.png"><img  class="imgn" class="hg" width="250" src="~assets/monks3.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/monks3.png"><img  class="imgn hg" width="250" src="~assets/monks3.png" alt=""></a> 
                   <p><em>美洲國家的僧侶。</em>
                   </p>
                 </div>

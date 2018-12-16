@@ -291,11 +291,11 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Heavyscorpion.png"><img class="imgn" class="hg" src="~assets/Heavyscorpion.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Heavyscorpion.png"><img class="imgn hg" src="~assets/Heavyscorpion.png" alt=""></a> 
                   <p><em>一群重型弩砲</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Scorpionline.png"><img class="imgn" class="hg" src="~assets/Scorpionline.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Scorpionline.png"><img class="imgn hg" src="~assets/Scorpionline.png" alt=""></a> 
                   <p><em>弩砲與重型弩砲</em>
                   </p>
                 </div>

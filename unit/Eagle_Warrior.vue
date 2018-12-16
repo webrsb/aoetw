@@ -474,24 +474,24 @@
 
       <div class="hrn1"></div>
       <div class="n1">
-        <div class="col-md-4"> <a href="img/Eagleline.png"><img class="imgn" class="hg" src="~assets/Eagleline.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Eagleline.png"><img class="imgn hg" src="~assets/Eagleline.png" alt=""></a> 
           <p><em>鷹勇士系列</em>
 
           </p>
         </div>
-        <div class="col-md-4"> <a href="img/Eaglescout.png"><img class="imgn" class="hg" src="~assets/Eaglescout.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Eaglescout.png"><img class="imgn hg" src="~assets/Eaglescout.png" alt=""></a> 
           <p><em>一群鷹勇士(《世紀帝國II:征服者入侵》資料片)</em>
 
           </p>
         </div>
-        <div class="col-md-4"> <a href="img/Eaglewarrior.png"><img class="imgn" class="hg" src="~assets/Eaglewarrior.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Eaglewarrior.png"><img class="imgn hg" src="~assets/Eaglewarrior.png" alt=""></a> 
           <p><em>一群鷹勇士(《世紀帝國II:失落的帝國》資料片)</em>
 
           </p>
         </div>
       </div>
       <div class="col-md-12">
-        <div class="col-md-4"> <a href="img/Eagle_Warrior.jpg"><img class="imgn" class="hg" src="~assets/Eagle_Warrior.jpg" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Eagle_Warrior.jpg"><img class="imgn hg" src="~assets/Eagle_Warrior.jpg" alt=""></a> 
           <p><em>一名鷹勇士</em>
 
           </p>

@@ -225,14 +225,14 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Fortifiedwallaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Fortifiedwallaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Fortifiedwallaokaoc.png"><img class="imgn hg" width="180" src="~assets/Fortifiedwallaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有文明的垛牆(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Fortifiedwallhd.png"><img class="imgn" class="hg" width="180" src="~assets/Fortifiedwallhd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Fortifiedwallhd.png"><img class="imgn hg" width="180" src="~assets/Fortifiedwallhd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有文明的垛牆(HD資料片)。</em>

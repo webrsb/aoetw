@@ -165,7 +165,7 @@
             <li>最簡單的獲勝方法如下:讓優娣忒找到所有10名彎刀勇士，他們多分布在河邊。同時派薩繆爾攻擊極大汗東邊的營地，不要去碰地圖中央的營地(有城堡)，玩家會遭受嚴重的損失。東邊的營地有許多箭塔，有一個小孔可以跑進去，利用箭塔的最小射程限制並在血量低時撤退恢復。迂迴消耗塔的血量，把西邊第一個塔跟兵工廠還有東邊兩個塔拆掉後，打掉東邊城門清空道路。</li>
       <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/yodit-eastcamp.jpg" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/yodit-eastcamp.jpg" alt="">
         <p class="text-center"><em>極大汗東邊營地。</em>
 
         </p>
@@ -176,13 +176,13 @@
               
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/yodit-town center.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/yodit-town center.png" alt="">
         <p class="text-center"><em>接管村莊，然後就逃吧!</em>
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/yodit-flag.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/yodit-flag.png" alt="">
         <p class="text-center"><em>到達旗幟逃出阿克蘇姆國。</em>
 
         </p>
@@ -191,7 +191,7 @@
             <li>不用去管任何的守衛，只要不攻擊他們都不會有事。南邊的運輸船雖然讓到達地圖東南方的旗幟看起來很容易，但河流守衛的嚴密防守讓這個任務根本不可能實現，而且500黃金可以拿來做更多其他事。除非玩家在對付極大汗之餘有餘力剷平河流守衛，不然就是上岸時讓軍隊先上，然後優娣忒偷偷溜過河流守衛的視線到達旗幟處，或是對自己的閃躲技術有信心的可以試著用運輸船閃過箭塔跟弓兵攻擊在距離極大汗東邊營地的河對岸下船。</li>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/yodit-dock.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/yodit-dock.png" alt="">
         <p class="text-center"><em>南邊的碼頭跟運輸船。</em>
 
         </p>

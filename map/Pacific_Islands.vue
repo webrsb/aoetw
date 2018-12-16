@@ -22,13 +22,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Pacific_Islands_Mangroves.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/Pacific_Islands_Mangroves.png" alt="">
         <p class="text-center"><em>淺灘處有紅樹林可以砍伐。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Narrow_channel.png" alt="">
+        <img position="centered" class="imgn hg" width="500" src="~assets/Narrow_channel.png" alt="">
         <p class="text-center"><em>這些狹窄的河道是偷渡的好地方。</em>
 
         </p>

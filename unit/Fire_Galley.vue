@@ -457,15 +457,15 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Fireline.png"><img class="imgn" class="hg" src="~assets/Fireline.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Fireline.png"><img class="imgn hg" src="~assets/Fireline.png" alt=""></a> 
                 <p><em>火戰船系列(火蒙衝在最左邊)。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Firegalley (1).png"><img class="imgn" class="hg" src="~assets/Firegalley (1).png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Firegalley (1).png"><img class="imgn hg" src="~assets/Firegalley (1).png" alt=""></a> 
                 <p><em>一群火蒙衝。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Firegalley.png"><img class="imgn" class="hg" src="~assets/Firegalley.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Firegalley.png"><img class="imgn hg" src="~assets/Firegalley.png" alt=""></a> 
                 <p><em>各種火蒙衝(世紀帝國和征服者入侵資料片)。</em>
                 </p>
               </div>

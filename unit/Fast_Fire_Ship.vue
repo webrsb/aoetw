@@ -497,20 +497,20 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Fireline.png"><img class="imgn" class="hg" src="~assets/Fireline.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Fireline.png"><img class="imgn hg" src="~assets/Fireline.png" alt=""></a> 
                 <p><em>火戰船系列(快速火戰船在右邊)。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Fastfireship.png"><img class="imgn" class="hg" src="~assets/Fastfireship.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Fastfireship.png"><img class="imgn hg" src="~assets/Fastfireship.png" alt=""></a> 
                 <p><em>一群快速火戰船。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/FFireShipHD.png"><img class="imgn" class="hg" src="~assets/FFireShipHD.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/FFireShipHD.png"><img class="imgn hg" src="~assets/FFireShipHD.png" alt=""></a> 
                 <p><em>各種快速火戰船(世紀帝國和征服者入侵資料片)。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/FFireShipDLC.png"><img class="imgn" class="hg" src="~assets/FFireShipDLC.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/FFireShipDLC.png"><img class="imgn hg" src="~assets/FFireShipDLC.png" alt=""></a> 
                   <p><em>各種快速火戰船(HD擴充資料片)。</em>
                   </p>
                 </div>

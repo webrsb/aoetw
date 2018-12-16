@@ -439,11 +439,11 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Warelephant.png"><img class="imgn" class="hg" src="~assets/Warelephant.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Warelephant.png"><img class="imgn hg" src="~assets/Warelephant.png" alt=""></a> 
               <p><em>一群戰象</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Screenshot_2017-06-28_at_1.14.06_AM.png"><img class="imgn" class="hg" src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Screenshot_2017-06-28_at_1.14.06_AM.png"><img class="imgn hg" src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png" alt=""></a> 
               <p><em>一隻精銳戰象可以輕易地擊敗100個村民</em>
               </p>
             </div>

@@ -357,15 +357,15 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Jaguarwarrior.png"><img class="imgn" class="hg" src="~assets/Jaguarwarrior.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Jaguarwarrior.png"><img class="imgn hg" src="~assets/Jaguarwarrior.png" alt=""></a> 
               <p><em>一群豹勇士</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Url.jpg"><img class="imgn" class="hg" src="~assets/Url.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Url.jpg"><img class="imgn hg" src="~assets/Url.jpg" alt=""></a> 
               <p><em>豹勇士3D圖</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Jaguar_Warrior.jpg"><img class="imgn" class="hg" src="~assets/Jaguar_Warrior.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Jaguar_Warrior.jpg"><img class="imgn hg" src="~assets/Jaguar_Warrior.jpg" alt=""></a> 
               <p><em>豹勇士</em>
               </p>
             </div>

@@ -249,14 +249,14 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Stonewallaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Stonewallaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Stonewallaokaoc.png"><img class="imgn hg" width="180" src="~assets/Stonewallaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有文明的石牆(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Stonewallhd.png"><img class="imgn" class="hg" width="200" src="~assets/Stonewallhd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Stonewallhd.png"><img class="imgn hg" width="200" src="~assets/Stonewallhd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有文明的石牆(HD擴充資料片)。</em>

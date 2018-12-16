@@ -525,23 +525,23 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Longboat.png"><img class="imgn" class="hg" src="~assets/Longboat.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Longboat.png"><img class="imgn hg" src="~assets/Longboat.png" alt=""></a> 
                 <p><em>一群維京大戰船。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/915016_20030824_screen013.jpg"><img class="imgn" class="hg" src="~assets/915016_20030824_screen013.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/915016_20030824_screen013.jpg"><img class="imgn hg" src="~assets/915016_20030824_screen013.jpg" alt=""></a> 
                 <p><em>維京大戰船。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Vikings_Longboat.jpg"><img class="imgn" class="hg" src="~assets/Vikings_Longboat.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Vikings_Longboat.jpg"><img class="imgn hg" src="~assets/Vikings_Longboat.jpg" alt=""></a> 
                 <p><em>維京大戰船的畫。</em>
 
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/The_long_boat_Wallpaper_rrpb2.jpg"><img class="imgn" class="hg" src="~assets/The_long_boat_Wallpaper_rrpb2.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/The_long_boat_Wallpaper_rrpb2.jpg"><img class="imgn hg" src="~assets/The_long_boat_Wallpaper_rrpb2.jpg" alt=""></a> 
                   <p><em>維京大戰船的畫。</em>
 
                   </p>

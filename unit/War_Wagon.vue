@@ -486,15 +486,15 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Castle_besieged.jpg"><img class="imgn" class="hg" src="~assets/Castle_besieged.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Castle_besieged.jpg"><img class="imgn hg" src="~assets/Castle_besieged.jpg" alt=""></a> 
             <p><em>馬戰車因為有高遠程護甲，所以在大量馬戰車圍攻城堡時是十分有效且不怕城堡的攻擊。</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Aoe2_-_war_wagon_group.jpg"><img class="imgn" class="hg" src="~assets/Aoe2_-_war_wagon_group.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Aoe2_-_war_wagon_group.jpg"><img class="imgn hg" src="~assets/Aoe2_-_war_wagon_group.jpg" alt=""></a> 
             <p><em>一群馬戰車</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/E_korea1.jpg"><img class="imgn" class="hg" src="~assets/E_korea1.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/E_korea1.jpg"><img class="imgn hg" src="~assets/E_korea1.jpg" alt=""></a> 
             <p><em>馬戰車模組。</em>
             </p>
           </div>

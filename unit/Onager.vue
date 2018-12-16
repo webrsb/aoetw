@@ -246,11 +246,11 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Onager.png"><img class="imgn" class="hg" src="~assets/Onager.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Onager.png"><img class="imgn hg" src="~assets/Onager.png" alt=""></a> 
                   <p><em>中型投石車</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Mangonelline.png"><img class="imgn" class="hg" src="~assets/Mangonelline.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Mangonelline.png"><img class="imgn hg" src="~assets/Mangonelline.png" alt=""></a> 
                   <p><em>投石車系</em>
                   </p>
                 </div>

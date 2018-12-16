@@ -307,7 +307,7 @@
             <h3>圖庫</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <div class="col-md-4"> <a href="img/Gunpowder.png"><img class="imgn" class="hg" width="180" src="~assets/Gunpowder.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Gunpowder.png"><img class="imgn hg" width="180" src="~assets/Gunpowder.png" alt=""></a> 
                 <div
                 class="lightbox-caption" style="width:220px" ;>
                   <p><em>所有火藥單位(非洲王朝資料片)。</em>

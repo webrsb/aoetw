@@ -505,15 +505,15 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Saracenmamluk.png"><img class="imgn" class="hg" src="~assets/Saracenmamluk.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Saracenmamluk.png"><img class="imgn hg" src="~assets/Saracenmamluk.png" alt=""></a> 
             <p><em>奴隸兵</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Mameluke.png"><img class="imgn" class="hg" src="~assets/Mameluke.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Mameluke.png"><img class="imgn hg" src="~assets/Mameluke.png" alt=""></a> 
             <p><em>一群奴隸兵</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Mameluke_history.jpg"><img class="imgn" class="hg" src="~assets/Mameluke_history.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Mameluke_history.jpg"><img class="imgn hg" src="~assets/Mameluke_history.jpg" alt=""></a> 
             <p><em>歷史上的奴隸兵，注意他是騎著馬而非像遊戲中騎著駱駝。</em>
             </p>
           </div>

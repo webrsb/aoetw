@@ -60,11 +60,11 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/1024px-Bodiam_murder_holes.jpg"><img class="imgn" class="hg" src="~assets/1024px-Bodiam_murder_holes.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/1024px-Bodiam_murder_holes.jpg"><img class="imgn hg" src="~assets/1024px-Bodiam_murder_holes.jpg" alt=""></a> 
                   <p><em><a href="http://tinyurl.com/y8vlw8g3">博丁安堡</a>的垛孔(博丁安堡為遊戲中，不列顛、法蘭克等西歐建築城堡的原形)</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Machicolation_Of_Wejter_Tower.jpg"><img class="imgn" class="hg" src="~assets/Machicolation_Of_Wejter_Tower.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Machicolation_Of_Wejter_Tower.jpg"><img class="imgn hg" src="~assets/Machicolation_Of_Wejter_Tower.jpg" alt=""></a> 
                   <p><em>真正的垛孔(博丁安堡那個是Murder Holes)</em>
                   </p>
                 </div>

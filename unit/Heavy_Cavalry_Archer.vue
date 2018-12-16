@@ -533,11 +533,11 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Cavarcherline.png"><img class="imgn" class="hg" src="~assets/Cavarcherline.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Cavarcherline.png"><img class="imgn hg" src="~assets/Cavarcherline.png" alt=""></a> 
             <p><em>馬弓騎兵系</em>
             </p>
           </div>
-          <div class="col-md-4"> <a href="img/Heavycavalryarcher.png"><img class="imgn" class="hg" src="~assets/Heavycavalryarcher.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Heavycavalryarcher.png"><img class="imgn hg" src="~assets/Heavycavalryarcher.png" alt=""></a> 
             <p><em>一群重裝馬弓騎兵</em>
             </p>
           </div>

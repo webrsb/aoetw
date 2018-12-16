@@ -249,11 +249,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Militialine.png"><img  class="imgn" class="hg" width="250" src="~assets/Militialine.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Militialine.png"><img  class="imgn hg" width="250" src="~assets/Militialine.png" alt=""></a> 
                 <p><em>民兵升級列表</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Militia.png"><img  class="imgn" class="hg" width="250" src="~assets/Militia.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Militia.png"><img  class="imgn hg" width="250" src="~assets/Militia.png" alt=""></a> 
                 <p><em>一群民兵</em>
                 </p>
               </div>

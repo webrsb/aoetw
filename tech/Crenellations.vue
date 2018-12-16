@@ -42,7 +42,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Battlement_(PSF).jpg"><img class="imgn" class="hg" src="~assets/Battlement_(PSF).jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Battlement_(PSF).jpg"><img class="imgn hg" src="~assets/Battlement_(PSF).jpg" alt=""></a> 
                 <p><em>一個中古世紀的垛口，請注意圖中十字孔即為<a href="Arrowslits.php">箭狹槽</a></em>
 
                 </p>

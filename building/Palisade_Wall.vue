@@ -197,7 +197,7 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Palisadegold.png"><img class="imgn" class="hg" width="180" src="~assets/Palisadegold.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Palisadegold.png"><img class="imgn hg" width="180" src="~assets/Palisadegold.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>木牆可以在遊戲早期守護重要的資源。</em>

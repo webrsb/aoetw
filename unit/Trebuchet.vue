@@ -393,15 +393,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Trebpacked.png"><img class="imgn" class="hg" src="~assets/Trebpacked.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Trebpacked.png"><img class="imgn hg" src="~assets/Trebpacked.png" alt=""></a> 
               <p><em>普通的投石機</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/ Trebunpacket.png"><img class="imgn" class="hg" src="~assets/Trebunpacket.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/ Trebunpacket.png"><img class="imgn hg" src="~assets/Trebunpacket.png" alt=""></a> 
               <p><em>組裝好的投石機</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/ Trebdamaged.png"><img class="imgn" class="hg" src="~assets/Trebdamaged.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/ Trebdamaged.png"><img class="imgn hg" src="~assets/Trebdamaged.png" alt=""></a> 
               <p><em>巨型投石機受傷時會像建築物一樣起火</em>
               </p>
             </div>

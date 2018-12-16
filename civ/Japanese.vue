@@ -181,7 +181,7 @@
               <div class="hrn1"></div>
               <div class="n1"> 
                   <div class="col-md-12">  
-                      <div class="col-md-4">  <a href="img/Wonderjapanese.png"><img class="imgn" class="hg" src="~assets/Wonderjapanese.png" alt=""></a>  <p><em>日本的世界奇觀，東大寺。</em></p>  
+                      <div class="col-md-4">  <a href="img/Wonderjapanese.png"><img class="imgn hg" src="~assets/Wonderjapanese.png" alt=""></a>  <p><em>日本的世界奇觀，東大寺。</em></p>  
                       </div>   
                   </div>
               </div>

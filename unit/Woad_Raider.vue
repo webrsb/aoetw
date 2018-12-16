@@ -349,21 +349,21 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Woadraider.png"><img class="imgn" class="hg" width="180" src="~assets/Woadraider.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Woadraider.png"><img class="imgn hg" width="180" src="~assets/Woadraider.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>一群菘藍武士。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Elite_Woad_Raider.jpg"><img class="imgn" class="hg" width="200" src="~assets/Elite_Woad_Raider.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Elite_Woad_Raider.jpg"><img class="imgn hg" width="200" src="~assets/Elite_Woad_Raider.jpg" alt=""></a> 
             <div
             class="lightbox-caption" style="width:185px" ;>
               <p><em>精銳菘藍武士。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Woad.jpg"><img class="imgn" class="hg" width="200" src="~assets/Woad.jpg" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Woad.jpg"><img class="imgn hg" width="200" src="~assets/Woad.jpg" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>菘藍武士3D圖。</em>
@@ -371,14 +371,14 @@
         </div>
       </div>
       <div class="col-md-12">
-        <div class="col-md-4"> <a href="img/Woadraiders.png"><img class="imgn" class="hg" width="180" src="~assets/Woadraiders.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Woadraiders.png"><img class="imgn hg" width="180" src="~assets/Woadraiders.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:220px" ;>
             <p><em>歷史記載的菘藍武士手稿。</em>
             </p>
         </div>
       </div>
-      <div class="col-md-4"> <a href="img/Pictish_Warrior.jpg"><img class="imgn" class="hg" width="200" src="~assets/Pictish_Warrior.jpg" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Pictish_Warrior.jpg"><img class="imgn hg" width="200" src="~assets/Pictish_Warrior.jpg" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>畫家筆下的皮克特人可能是菘藍武士的發想。</em>

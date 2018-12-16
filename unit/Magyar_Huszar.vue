@@ -398,20 +398,20 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/AoF_Magyar_Huszar_All_Angles.jpg"><img class="imgn" class="hg" src="~assets/AoF_Magyar_Huszar_All_Angles.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AoF_Magyar_Huszar_All_Angles.jpg"><img class="imgn hg" src="~assets/AoF_Magyar_Huszar_All_Angles.jpg" alt=""></a> 
                 <p><em>一群馬札爾驃騎兵。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/A.png"><img class="imgn" class="hg" src="~assets/A.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/A.png"><img class="imgn hg" src="~assets/A.png" alt=""></a> 
                 <p><em>4.4版的馬札爾驃騎兵。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Maygar_Huszar_Old.png"><img class="imgn" class="hg" src="~assets/Maygar_Huszar_Old.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Maygar_Huszar_Old.png"><img class="imgn hg" src="~assets/Maygar_Huszar_Old.png" alt=""></a> 
                 <p><em>2.2版前的馬札爾驃騎兵。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Magyar_Huszar_Concept_Art.jpg"><img class="imgn" class="hg" src="~assets/Magyar_Huszar_Concept_Art.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Magyar_Huszar_Concept_Art.jpg"><img class="imgn hg" src="~assets/Magyar_Huszar_Concept_Art.jpg" alt=""></a> 
                   <p><em>真實世界的馬札爾驃騎兵的畫。</em>
                   </p>
                 </div>

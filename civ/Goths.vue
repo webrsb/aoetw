@@ -309,7 +309,7 @@
                 <div class="col-md-12">
                   <div class="col-md-4">
                     <a href="img/CentEuropean.jpg">
-                      <img class="imgn" class="hg" src="~assets/CentEuropean.jpg" alt=""></a>
+                      <img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""></a>
                     <p>
                       <em>哥德的建築風格</em></p>
                   </div>

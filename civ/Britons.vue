@@ -73,7 +73,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wonderbritons.png"><img  class="imgn" class="hg" width="250" src="~assets/Wonderbritons.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wonderbritons.png"><img  class="imgn hg" width="250" src="~assets/Wonderbritons.png" alt=""></a> 
                 <p><em>不列顛的<a href="Wonder.php">世界奇觀</a>-<a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></em>
 
                 </p>

@@ -422,23 +422,23 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/AOF36_Boyar.jpg"><img class="imgn" class="hg" src="~assets/AOF36_Boyar.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AOF36_Boyar.jpg"><img class="imgn hg" src="~assets/AOF36_Boyar.jpg" alt=""></a> 
                 <p><em>3.6版《世紀帝國II:失落的帝國》的貴族鐵騎。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/AOE2HDTF_Boyars_Ingame.jpg"><img class="imgn" class="hg" src="~assets/AOE2HDTF_Boyars_Ingame.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AOE2HDTF_Boyars_Ingame.jpg"><img class="imgn hg" src="~assets/AOE2HDTF_Boyars_Ingame.jpg" alt=""></a> 
                 <p><em>3.5版前的貴族鐵騎。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/AOF22_Boyar_Joan.jpg"><img class="imgn" class="hg" src="~assets/AOF22_Boyar_Joan.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AOF22_Boyar_Joan.jpg"><img class="imgn hg" src="~assets/AOF22_Boyar_Joan.jpg" alt=""></a> 
                 <p><em>《世紀帝國II:征服者入侵》時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em>
 
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Cataphract1.jpg"><img class="imgn" class="hg" src="~assets/Cataphract1.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Cataphract1.jpg"><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""></a> 
                   <p><em>在帝王世紀測試服的聖騎兵是用貴族鐵騎的模組。</em>
 
                   </p>

@@ -471,7 +471,7 @@
 
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Castleaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Castleaokaoc.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Castleaokaoc.png"><img class="imgn hg" width="180" src="~assets/Castleaokaoc.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有城堡(帝王世紀和征服者入侵資料片)。</em>
@@ -479,7 +479,7 @@
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Castlehd.png"><img class="imgn" class="hg" width="200" src="~assets/Castlehd.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Castlehd.png"><img class="imgn hg" width="200" src="~assets/Castlehd.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:220px" ;>
             <p><em>所有城堡(HD擴充資料片)。</em>
@@ -487,7 +487,7 @@
             </p>
         </div>
       </div>
-      <div class="col-md-4"> <a href="img/Spritesheet_castle.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_castle.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Spritesheet_castle.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_castle.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>城堡在一般地圖/下雪地圖和駐紮單位時的樣子。</em>

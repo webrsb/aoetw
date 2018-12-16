@@ -135,7 +135,7 @@
             <h3>圖庫</h3>
             <div class="hrn1"></div>
 
- <div class="col-md-4"> <a href="img/HouseDarkAge.png"><img class="imgn" class="hg" width="180" src="~assets/HouseDarkAge.png" alt=""></a> 
+ <div class="col-md-4"> <a href="img/HouseDarkAge.png"><img class="imgn hg" width="180" src="~assets/HouseDarkAge.png" alt=""></a> 
                 <div class="lightbox-caption" style="width:220px" ;>
                   <p><em>所有黑暗時代的房屋。</em>
                   </p>
@@ -143,7 +143,7 @@
             </div>
 
 
-            <div class="col-md-4"> <a href="img/HouseFedualAgeHD.png"><img class="imgn" class="hg" width="200" src="~assets/HouseFedualAgeHD.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/HouseFedualAgeHD.png"><img class="imgn hg" width="200" src="~assets/HouseFedualAgeHD.png" alt=""></a> 
               <div class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的房屋(帝王世紀和征服者入侵資料片)。</em>
                 </p>
@@ -151,7 +151,7 @@
           </div>
 
 
-          <div class="col-md-4"> <a href="img/HouseFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/HouseFeudalAgeDLC.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/HouseFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/HouseFeudalAgeDLC.png" alt=""></a> 
             <div class="lightbox-caption" style="width:185px" ;>
               <p><em>所有封建時代的房屋(HD擴充資料片)。</em>
               </p>
@@ -159,21 +159,21 @@
         </div>
 
             
-        <div class="col-md-4"> <a href="img/Houseaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Houseaokaoc.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Houseaokaoc.png"><img class="imgn hg" width="200" src="~assets/Houseaokaoc.png" alt=""></a> 
           <div class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的房屋(帝王世紀和征服者入侵資料片)。</em>
             </p>
         </div>
       </div>
 
-      <div class="col-md-4"> <a href="img/Househd.png"><img class="imgn" class="hg" width="200" src="~assets/Househd.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Househd.png"><img class="imgn hg" width="200" src="~assets/Househd.png" alt=""></a> 
         <div class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的房屋(HD擴充資料片)。</em>
           </p>
       </div>
     </div>
 
-    <div class="col-md-4"> <a href="img/Spritesheet_house.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_house.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Spritesheet_house.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_house.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>所有遊戲中的房屋類型。</em>

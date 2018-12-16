@@ -565,23 +565,23 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Ballista_Elephant_group.jpg"><img class="imgn" class="hg" src="~assets/Ballista_Elephant_group.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Ballista_Elephant_group.jpg"><img class="imgn hg" src="~assets/Ballista_Elephant_group.jpg" alt=""></a> 
               <p><em>一群弩炮象。</em>
 
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Ballista_destroying_trees.jpg"><img class="imgn" class="hg" src="~assets/Ballista_destroying_trees.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Ballista_destroying_trees.jpg"><img class="imgn hg" src="~assets/Ballista_destroying_trees.jpg" alt=""></a> 
               <p><em>弩炮象的攻擊可以砸倒樹木。</em>
 
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Balistaelehealed.jpg"><img class="imgn" class="hg" src="~assets/Balistaelehealed.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Balistaelehealed.jpg"><img class="imgn hg" src="~assets/Balistaelehealed.jpg" alt=""></a> 
               <p><em>弩炮象雖然屬於攻城單位，但可以被僧侶治療。</em>
 
               </p>
             </div>
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Khmer-vietnamese_battle.png"><img class="imgn" class="hg" src="~assets/Khmer-vietnamese_battle.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Khmer-vietnamese_battle.png"><img class="imgn hg" src="~assets/Khmer-vietnamese_battle.png" alt=""></a> 
                 <p><em>弩炮象正防止高棉人的基地被<a href="Rattan_Archer.php">藤甲弓兵</a>騷擾。</em>
 
                 </p>

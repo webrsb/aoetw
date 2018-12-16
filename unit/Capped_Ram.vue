@@ -256,17 +256,17 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Splashdamageram.png"><img class="imgn" class="hg" src="~assets/Splashdamageram.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Splashdamageram.png"><img class="imgn hg" src="~assets/Splashdamageram.png" alt=""></a> 
                 <p><em>各類型衝撞車與其傷害。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Cappedram.png"><img class="imgn" class="hg" src="~assets/Cappedram.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Cappedram.png"><img class="imgn hg" src="~assets/Cappedram.png" alt=""></a> 
                 <p><em>一群裝甲衝撞車。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Ramline.png"><img class="imgn" class="hg" src="~assets/Ramline.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Ramline.png"><img class="imgn hg" src="~assets/Ramline.png" alt=""></a> 
                 <p><em>衝撞車系。</em>
 
                 </p>
