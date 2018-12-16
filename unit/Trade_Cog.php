@@ -475,8 +475,9 @@
         </div>
       </div>
     </div>
-    <!-- /container -->
-    <?php include( "foot.php"); ?>
+          <!-- /container -->
+          <?php include( "allunit.php"); ?>
+          <?php include( "footn.php"); ?>
   </body>
 
 </html>

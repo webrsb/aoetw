@@ -40,7 +40,7 @@
           <div class="n1">下列的單位都是海軍單位
             <ul>
               <li>
-                <img class="gg" src="img/FishingShipIcon.jpg" alt=""><a href="Fishing%20Ship.php">漁船</a> 
+                <img class="gg" src="img/FishingShipIcon.jpg" alt=""><a href="Fishing_Ship.php">漁船</a> 
               </li>
               <li>
                 <img class="gg" src="img/TransportShipIcon.jpg" alt=""><a href="Transport_Ship.php">運輸船</a> 

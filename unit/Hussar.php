@@ -430,8 +430,9 @@
         </div>
         <div class="col-md-12"></div>
       </div>
-      <!-- /container -->
-      <?php include( "foot.php"); ?>
+    <!-- /container -->
+    <?php include( "allunit.php"); ?>
+    <?php include( "footn.php"); ?>
   </body>
 
 </html>
