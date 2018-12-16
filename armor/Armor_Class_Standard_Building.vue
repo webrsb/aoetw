@@ -268,13 +268,13 @@
   
   <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
   <ul>
-    <li><img class="gg"src="~assets/ArcherIcon.jpg" alt=""><a href="Archer.php">弓兵</a>→
-        <img class="gg"src="~assets/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>→
-        <img class="gg"src="~assets/ArbalestIcon.jpg" alt=""><a href="Arbalest.php">強弩兵</a></li>
+    <li><img class="gg" src="~assets/ArcherIcon.jpg" alt=""><a href="Archer.php">弓兵</a>→
+        <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>→
+        <img class="gg" src="~assets/ArbalestIcon.jpg" alt=""><a href="Arbalest.php">強弩兵</a></li>
       <li>
-        <img class="gg"src="~assets/SkirmisherIcon.jpg" alt=""><a href="Skirmisher.php">戰矛兵</a>→
-        <img class="gg"src="~assets/EliteSkirmisherIcon.jpg" alt=""><a href="Elite_Skirmisher.php">精銳戰矛兵</a>→
-        <img class="gg"src="~assets/Imperialskirmishericon.png" alt=""><a href="Imperial_Skirmisher.php">帝王戰矛兵</a> (帝王戰矛兵是<a href="Vietnamese.php">越南</a>及其同盟限定)</li>
+        <img class="gg" src="~assets/SkirmisherIcon.jpg" alt=""><a href="Skirmisher.php">戰矛兵</a>→
+        <img class="gg" src="~assets/EliteSkirmisherIcon.jpg" alt=""><a href="Elite_Skirmisher.php">精銳戰矛兵</a>→
+        <img class="gg" src="~assets/Imperialskirmishericon.png" alt=""><a href="Imperial_Skirmisher.php">帝王戰矛兵</a> (帝王戰矛兵是<a href="Vietnamese.php">越南</a>及其同盟限定)</li>
         
         <li><img class="gg" width="22" src="~assets/LongbowmanIcon.jpg" alt=""><a href="Longbowman.php">長弓兵</a>
             <img class="gg" width="22" src="~assets/LongbowmanIcon.jpg" alt=""><a href="Longbowman.php">精銳長弓兵</a>(<a href="Britons.php">不列顛</a>限定)
