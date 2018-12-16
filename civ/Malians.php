@@ -144,9 +144,10 @@
 </template>
 <script>
 export default {
-  layout: 'allciv.php"); ?>
-    <?php include( "foot.php"); ?>
-    <script src="js/Keywords.js"></script>
-  </body>
-
-</html>
+  layout: 'allciv',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

@@ -32,8 +32,10 @@
 </template>
 <script>
 export default {
-  layout: 'allen.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allen',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

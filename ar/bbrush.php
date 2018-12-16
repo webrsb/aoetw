@@ -144,8 +144,10 @@
 </template>
 <script>
 export default {
-  layout: 'allar.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allar',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

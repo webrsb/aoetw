@@ -93,8 +93,10 @@
 </template>
 <script>
 export default {
-  layout: 'alllarmor.php"); ?>
-            <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'alllarmor',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

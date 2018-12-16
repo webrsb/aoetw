@@ -152,8 +152,10 @@
 </template>
 <script>
 export default {
-  layout: 'allbatt.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allbatt',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

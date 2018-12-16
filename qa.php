@@ -267,7 +267,10 @@
 </template>
 <script>
 export default {
-  layout: 'foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'foot',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

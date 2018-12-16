@@ -123,8 +123,10 @@
 </template>
 <script>
 export default {
-  layout: 'alltech.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'alltech',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

@@ -189,8 +189,10 @@
 </template>
 <script>
 export default {
-  layout: 'alllarmor.php"); ?>
-          <?php include( "footn.php"); ?>
-  </body>
-
-</html>
+  layout: 'alllarmor',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

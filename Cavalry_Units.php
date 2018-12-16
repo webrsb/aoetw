@@ -887,8 +887,10 @@
 </template>
 <script>
 export default {
-  layout: 'allunit2.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allunit2',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

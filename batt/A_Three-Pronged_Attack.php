@@ -203,8 +203,10 @@
 </template>
 <script>
 export default {
-  layout: 'allbatt.php"); ?>
-    <?php include( "footn.php"); ?>
-  </body>
-
-</html>
+  layout: 'allbatt',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

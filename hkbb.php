@@ -224,8 +224,10 @@
 </template>
 <script>
 export default {
-  layout: 'allwide.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allwide',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

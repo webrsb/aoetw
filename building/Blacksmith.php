@@ -368,8 +368,10 @@
 </template>
 <script>
 export default {
-  layout: 'allbuilding.php"); ?>
-    <?php include( "footn.php"); ?>
-  </body>
-
-</html>
+  layout: 'allbuilding',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

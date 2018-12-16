@@ -127,8 +127,10 @@
 </template>
 <script>
 export default {
-  layout: 'allciv.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allciv',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

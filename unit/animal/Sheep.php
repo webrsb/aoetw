@@ -74,8 +74,10 @@
 </template>
 <script>
 export default {
-  layout: 'allanimal.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allanimal',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

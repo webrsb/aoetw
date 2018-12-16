@@ -507,8 +507,10 @@
 </template>
 <script>
 export default {
-  layout: 'allen.php"); ?>
-	<?php include( "footn.php"); ?>
-  </body>
-
-</html>
+  layout: 'allen',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

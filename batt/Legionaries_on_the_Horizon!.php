@@ -86,9 +86,10 @@
 </template>
 <script>
 export default {
-  layout: 'allbatt.php"); ?>
-        <?php include( "foot.php"); ?>
-  </body>
-  </body>
-
-</html>
+  layout: 'allbatt',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

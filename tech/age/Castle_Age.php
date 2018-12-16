@@ -351,8 +351,10 @@
 </template>
 <script>
 export default {
-  layout: 'allage.php"); ?>
-        <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allage',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

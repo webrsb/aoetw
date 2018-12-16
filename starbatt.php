@@ -126,7 +126,10 @@
 </template>
 <script>
 export default {
-  layout: 'allen.php"); ?>
-  </body>
-
-</html>
+  layout: 'allen',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

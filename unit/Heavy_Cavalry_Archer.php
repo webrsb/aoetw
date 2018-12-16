@@ -543,8 +543,10 @@
           </div>
         </div>
       </div>
-      <?php include( "allunit.php"); ?>
-      <?php include( "footn.php"); ?>
-  </body>
-
-</html>
+      <?php include( "allunit',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

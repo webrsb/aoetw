@@ -335,8 +335,10 @@
 </template>
 <script>
 export default {
-  layout: 'allunit.php"); ?>
-      <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allunit',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

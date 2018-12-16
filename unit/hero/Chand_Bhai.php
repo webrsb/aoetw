@@ -103,8 +103,10 @@
 </template>
 <script>
 export default {
-  layout: 'allhero.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allhero',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

@@ -731,7 +731,10 @@ $(document).ready(function(){
 </template>
 <script>
 export default {
-  layout: 'tree.php"); ?> -->
-</body>
-
-</html>
+  layout: 'tree',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

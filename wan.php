@@ -105,7 +105,10 @@
     </div>
     </div>
     <!-- /container -->
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+    <?php include( "foot',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

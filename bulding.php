@@ -153,7 +153,10 @@
 </template>
 <script>
 export default {
-  layout: 'footn.php"); ?>
-  </body>
-
-</html>
+  layout: 'footn',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

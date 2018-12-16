@@ -46,8 +46,10 @@
 </template>
 <script>
 export default {
-  layout: 'allmap.php"); ?>
-    <?php include( "foot.php"); ?>
-  </body>
-
-</html>
+  layout: 'allmap',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

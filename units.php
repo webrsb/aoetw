@@ -605,14 +605,10 @@
 </template>
 <script>
 export default {
-  layout: 'footn.php"); ?>
-	<script>
-	function uunit_click()
-	{
-		  window.location.href = "Unique_Unit.php";
-		  console.log("click");
-	}
-	</script>
-  </body>
-
-</html>
+  layout: 'footn',
+  components: {
+  }
+}
+</script>
+<style>
+</style>

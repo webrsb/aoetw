@@ -1469,7 +1469,10 @@ and (max-device-width: 480px)  {
 </template>
 <script>
 export default {
-  layout: 'tree.php"); ?> -->
-  </body>
-
-</html>
+  layout: 'tree',
+  components: {
+  }
+}
+</script>
+<style>
+</style>
