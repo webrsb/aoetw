@@ -1,3 +1,4 @@
+<template>
 <div class="container">
   <div class="row" style=" margin-top:20px;">
     <div class="col-md-12 keyword_on">
@@ -18,7 +19,7 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">東亞</td>
-          <td class="unit4"> <a href="Chinese.php">中國</a>。<a href="Japanese.php">日本</a>。<a href="Mongols.php">蒙古</a> 
+          <td class="unit4"> <a href="Chinese.php">中國</a>。<a href="Japanese.php">日本</a>。<a href="Mongols.php">蒙古</a> </td>
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">中東</td>
@@ -46,12 +47,11 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">東亞</td>
-          <td class="unit4"> <a href="Koreans.php">韓國</a> 
+          <td class="unit4"> <a href="Koreans.php">韓國</a> </td>
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">西歐</td>
-          <td class="unit4"> <a href="Spanish.php">西班牙</a> 
-          </td>
+          <td class="unit4"> <a href="Spanish.php">西班牙</a></td>
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">中歐</td>
@@ -72,7 +72,7 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">印度</td>
-          <td class="unit4"> <a href="Indians.php">印度</a> 
+          <td class="unit4"> <a href="Indians.php">印度</a> </td>
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">美洲</td>
@@ -98,7 +98,7 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">非洲</td>
-          <td class="unit4"> <a href="Ethiopians.php">衣索比亞</a>。<a href="Malians.php">馬利</a> 
+          <td class="unit4"> <a href="Ethiopians.php">衣索比亞</a>。<a href="Malians.php">馬利</a> </td>
         </tr>
         <tr>
           <td class="unit3" style="width: 15%;">中東</td>
@@ -121,9 +121,35 @@
           <td class="unit3" style="width: 15%;">東南亞</td>
           <td class="unit4"><a href="Burmese.php">緬甸</a>。<a href="Khmer.php">高棉</a>。<a href="Malay.php">馬來</a>。
             <a
-            href="Vietnamese.php">越南</a>
+            href="Vietnamese.php">越南</a></td>
         </tr>
       </table>
     </div>
   </div>
 </div>
+</template>
+
+<style>
+
+.unititle{
+          text-align: center;
+          padding: 10px;
+        }
+        .unitcontent{
+
+          padding: 10px;
+        }
+.unitc {
+          background: #5cb85c;
+        }
+   .unititle2{
+          text-align: center;
+          padding: 3px;
+        }
+.unitc a{
+   color: #fff;
+}
+.unit a{
+   color: #fff;
+}
+</style>

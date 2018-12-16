@@ -256,7 +256,7 @@
               </td>
               <td class="unit4"> <a href="The_Story_of_our_Founders.php">開疆闢土</a>。 <a href="Unconditional_Loyalty.php">班師勤王</a>。
                 <a
-                href="The_Oath_to_Unify_Nusantara.php">誓統南洋</a>。 <a href="Serving_the_New_King.php">輔佐新君</a>。 <a href="The_Pasunda_Bubat_Traged.php">風雲變色</a> 
+                href="The_Oath_to_Unify_Nusantara.php">誓統南洋</a>。 <a href="Serving_the_New_King.php">輔佐新君</a>。 <a href="The_Pasunda_Bubat_Traged.php">風雲變色</a> </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Suryavarman_Ia.php">蘇利耶跋摩一世</a>
@@ -264,7 +264,7 @@
               </td>
               <td class="unit4"> <a href="Usurpation.php">揭竿而起</a>  <a href="Quelling_the_Rebellion.php">席捲入荒</a>。
                 <a
-                href="A_Dangerous_Mission.php">九死一生</a>。 <a href="Challenging_a_Thalassocrac.php">滔天巨浪</a>。 <a href="Nirvanapada.php">千古偉業</a> 
+                href="A_Dangerous_Mission.php">九死一生</a>。 <a href="Challenging_a_Thalassocrac.php">滔天巨浪</a>。 <a href="Nirvanapada.php">千古偉業</a> </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Bayinnaunga.php">勃印曩</a>
@@ -284,13 +284,11 @@
                 href="The_Battle_at_Hanoi.php">圍困昇龍</a>。 <a href="Reaching_South.php">揮師南下</a>。 <a href="A_Three-Pronged_Attack.php">兵分三路</a>。
                   <a
                   href="The_Final_Fortress.php">決戰東都</a>
+                </td>
             </tr>
           </table>
         </div>
       </div>
     </div>
-    </div>
     <!-- /container -->
-  </body>
-
-</html>
+</template>

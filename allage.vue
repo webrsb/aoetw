@@ -11,6 +11,7 @@
                 <div class="unititle" style="color: #fff;">世紀帝國的時代</div>
               </td>
             </tr>
+            <tr>
             <td style="text-align: center;padding: 20px ">
               <img src="~assets/Dark-age-logo-small.jpg" style="margin-right: 5px;" alt=""><a href="Dark_Age.php">黑暗時代</a> ·
               <img src="~assets/Feudal-age-reseach.jpg"
@@ -26,8 +27,5 @@
         </div>
       </div>
     </div>
-    </div>
     <!-- /container -->
-  </body>
-
-</html>
+</template>

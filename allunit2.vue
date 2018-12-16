@@ -11,6 +11,7 @@
                 <div class="unititle" style="color: #fff;">世紀帝國的兵種分類</div>
               </td>
             </tr>
+            <tr>
             <td style="text-align: center;padding: 20px "><a href="Infantry_Units.php">步兵單位·</a><a href="Archer_Units.php">遠距離單位·</a>
 
               <a
@@ -23,8 +24,5 @@
         </div>
       </div>
     </div>
-    </div>
     <!-- /container -->
-  </body>
-
-</html>
+</template>

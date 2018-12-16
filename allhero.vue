@@ -144,8 +144,5 @@
         </div>
       </div>
     </div>
-    </div>
     <!-- /container -->
-  </body>
-
-</html>
+</template>
