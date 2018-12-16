@@ -22,7 +22,7 @@
                 <td class="tc2" width="15%">封建時代</td>
                 <td class="tc1" width="15%">起始資源:</td>
                 <td class="tc2">400木材，200食物
-                  <P>200黃金，100石頭</td>
+                  <p>200黃金，100石頭</td>
                 <td class="tc1" width="15%">人口上限:</td>
                 <td class="tc2" width="5%">200</td>
               </tr>

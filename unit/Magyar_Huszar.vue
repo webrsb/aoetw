@@ -13,9 +13,9 @@
             <p>馬札爾驃騎兵是<a href="Magyars.php">馬札爾</a>的特殊單位，能夠在<a href="Castle_Age.php">城堡時代</a>的
               <a
               href="Castle.php">城堡</a>中訓練。馬札爾驃騎兵是輕型快速的騎兵部隊對<a href="Siege_Weapons.php">攻城器單位</a>有加成傷害。</p>
-            <P>馬札爾驃騎兵雖貴為城堡兵但是在城堡時代時研發<a href="Mercenaries.php">雇傭兵</a>後即不需要黃金因此被稱為是垃圾兵，值得一提馬札爾驃騎兵跟騎士是差不多威力的。馬札爾驃騎兵可以在
+            <p>馬札爾驃騎兵雖貴為城堡兵但是在城堡時代時研發<a href="Mercenaries.php">雇傭兵</a>後即不需要黃金因此被稱為是垃圾兵，值得一提馬札爾驃騎兵跟騎士是差不多威力的。馬札爾驃騎兵可以在
               <a
-              href="Imperial_Age.php">帝王時代</a>升級為精銳馬札爾驃騎兵。</P>
+              href="Imperial_Age.php">帝王時代</a>升級為精銳馬札爾驃騎兵。</p>
           </div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>

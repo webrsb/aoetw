@@ -22,7 +22,7 @@
                 <td class="tc2" width="15%">帝王時代</td>
                 <td class="tc1" width="15%">起始資源:</td>
                 <td class="tc2">木頭:500食物:500，
-                  <P>黃金:600，石頭:600</td>
+                  <p>黃金:600，石頭:600</td>
                 <td class="tc1" width="15%">人口上限:</td>
                 <td class="tc2" width="5%">125</td>
               </tr>

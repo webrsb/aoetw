@@ -22,7 +22,7 @@
                 <td class="tc2" width="15%">帝王時代</td>
                 <td class="tc1" width="15%">起始資源:</td>
                 <td class="tc2">2400木材，1600食物
-                  <P>1200黃金，200石頭</td>
+                  <p>1200黃金，200石頭</td>
                 <td class="tc1" width="15%">人口上限:</td>
                 <td class="tc2" width="5%">125</td>
               </tr>
@@ -45,7 +45,7 @@
               <tr>
                 <td class="tc6" width="15%" "><div class="p1
                 "></div>玩家6：</td>  <td class="tc6 " width="35%
-                ">西羅馬帝國（藍色）拜占庭 <P>同盟 </td>    </tr>    <tr>     <td class="tc4 " colspan="4 " style="background:#ea6153;
+                ">西羅馬帝國（藍色）拜占庭 <p>同盟 </td>    </tr>    <tr>     <td class="tc4 " colspan="4 " style="background:#ea6153;
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2 "></div>玩家2：</td>    <td class="tc6
                 ">阿奎利亞（紅色）塞爾特 </td>    <td class="tc6 "><div class="p3 "></div>玩家3：</td>    <td class="tc6
                 ">米蘭（綠色）條頓   </td>  </tr>  <tr>    <td class="tc6 "><div class="p8 "></div>玩家4：</td>    <td class="tc6

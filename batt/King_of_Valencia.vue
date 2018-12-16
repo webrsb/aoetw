@@ -22,7 +22,7 @@
                 <td class="tc2" width="15%">城堡時代</td>
                 <td class="tc1" width="15%">起始資源:</td>
                 <td class="tc2">食物:300，
-                  <P>黃金:300，石頭:400</td>
+                  <p>黃金:300，石頭:400</td>
                 <td class="tc1" width="15%">人口上限:</td>
                 <td class="tc2" width="5%">75</td>
               </tr>

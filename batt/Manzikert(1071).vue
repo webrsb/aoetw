@@ -37,7 +37,7 @@
     <td class="tc1" width="15%">起始時代:</td>
     <td class="tc2" width="15%">城堡時代</td>
     <td class="tc1" width="15%">起始資源:</td>
-    <td class="tc2">木頭:500，食物:1000，<P>黃金:1000，石頭:0</td>
+    <td class="tc2">木頭:500，食物:1000，<p>黃金:1000，石頭:0</td>
     <td class="tc1" width="15%">人口上限:</td>
     <td class="tc2" width="5%">75</td>
   </tr>
