@@ -13,10 +13,10 @@
             <p>前置槍矛為阿拉伯打法之一，此打法給人壓迫異常，但實際上並不常見。</p>
             <ul>
               <li>
-                <img class="gg" src="img/SpearmanIcon.jpg" alt=""> <a href="Spearman.php">長槍兵→</a>:攻擊低、血量低但對肉馬傷害大。</li>
+                <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""> <a href="Spearman.php">長槍兵→</a>:攻擊低、血量低但對肉馬傷害大。</li>
               </li>
               <li>
-                <img class="gg" src="img/SkirmisherIcon.jpg" alt=""> <a href="Skirmisher.php">矛兵→</a>:矛兵：攻擊低、血量低，但量多仍可騷擾村民，並克制弓兵。</li>
+                <img class="gg" src="~assets/SkirmisherIcon.jpg" alt=""> <a href="Skirmisher.php">矛兵→</a>:矛兵：攻擊低、血量低，但量多仍可騷擾村民，並克制弓兵。</li>
             </ul>
           </div>
           <h3>概述</h3>
@@ -101,7 +101,7 @@
             </tr>
             <tr>
               <td colspan="2">
-                <div class="unititle"> <a href="Skirmisher.php"><img src="img/SkirmisherIcon.jpg" width="45" alt="">       </a>
+                <div class="unititle"> <a href="Skirmisher.php"><img src="~assets/SkirmisherIcon.jpg" width="45" alt="">       </a>
                 </div>
               </td>
             </tr>

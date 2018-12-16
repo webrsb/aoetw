@@ -38,7 +38,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Handcart.jpg" width="45" alt="">
+                  <img src="~assets/Handcart.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -55,19 +55,19 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Town-center-logo.jpg" alt=""><a href="Town_Center.php">城鎮中心</a>
+                <img class="gg" src="~assets/Town-center-logo.jpg" alt=""><a href="Town_Center.php">城鎮中心</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Wheelbarrow.jpg" alt=""><a href="Wheelbarrow.php">獨輪推車</a>
+                <img class="gg" src="~assets/Wheelbarrow.jpg" alt=""><a href="Wheelbarrow.php">獨輪推車</a>
               </td>
             </tr>
             <tr>

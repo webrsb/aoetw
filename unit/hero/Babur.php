@@ -38,7 +38,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/ImperialCamelIcon.jpg" width="80" alt="">
+                  <img src="~assets/ImperialCamelIcon.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -106,7 +106,7 @@
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的查希爾丁·穆罕默德·巴布爾
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E5%B0%94">查希爾丁·穆罕默德·巴布爾</a></strong></i>

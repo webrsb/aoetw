@@ -24,12 +24,12 @@
             <p>斯拉夫被稱為小塞爾特人，主要是因為同樣是步兵和攻城器文明但是斯拉夫給的文明加成比較划不來。首先是帝王時代給的王家侍從雖然可以使的斯拉夫劍勇成為遊戲中頂級步兵但因為時代過於遙遠和資源上的調配往往還沒研發就結束遊戲了，攻城器減免15%資源卻沒直接效益(因攻城器本身就很昂貴)，城堡時代的東正教讓他們僧侶有近防/遠防各+3護甲，但因為科技昂貴又要蓋城堡因此CP值上沒很高，特殊兵種貴族鐵騎本身是為了彌補沒有遊俠的斯拉夫也沒很特殊的加成，整體而言斯拉夫有強大步兵，弓箭卻很脆弱沒強弩兵/拇指環/護腕弓兵核心科技，騎兵也無駱駝和遊俠，僧侶雖然有東正教護甲但因前置條件太過嚴苛幾乎沒有實用性，更缺少忠誠信仰/異端邪說等關鍵科技也使的斯拉夫人本身蠻懼怕僧侶文明。</p>
             <h3>特殊單位</h3>
             <li>
-              <img class="gg" src="img/New_Boyar.png">貴族鐵騎:有強大防禦的騎士簡稱有馬的條頓武士</li>
+              <img class="gg" src="~assets/New_Boyar.png">貴族鐵騎:有強大防禦的騎士簡稱有馬的條頓武士</li>
             <h3>特殊科技</h3>
             <li>
-              <img class="gg" src="img/CastleAgeUnique.png">東正教:僧侶護甲各+3</li>
+              <img class="gg" src="~assets/CastleAgeUnique.png">東正教:僧侶護甲各+3</li>
             <li>
-              <img class="gg" src="img/Unique-tech.jpg">王家侍從:步兵單位會對周遭敵對單位造成傷害</li>
+              <img class="gg" src="~assets/Unique-tech.jpg">王家侍從:步兵單位會對周遭敵對單位造成傷害</li>
           </div>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
@@ -72,7 +72,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Slavs_Preview.jpg"><img class="imgn" class="hg" src="img/Slavs_Preview.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Slavs_Preview.jpg"><img class="imgn" class="hg" src="~assets/Slavs_Preview.jpg" alt=""></a> 
                 <p><em>宣傳圖</em>
                 </p>
               </div>
@@ -92,7 +92,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="300px;" src="img/Kizhi_church.jpg" alt="">
+                  <img width="300px;" src="~assets/Kizhi_church.jpg" alt="">
                   <p><em>基日島的木結構教堂</em>
                 </div>
                 </p>
@@ -114,7 +114,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/New_Boyar.png">貴族鐵騎</td>
+                <img class="gg" src="~assets/New_Boyar.png">貴族鐵騎</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -123,9 +123,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">東正教
+                <img class="gg" src="~assets/CastleAgeUnique.png">東正教
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">王家侍從</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">王家侍從</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

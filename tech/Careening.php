@@ -41,7 +41,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Careening.jpg" width="45" alt="">
+                  <img src="~assets/Careening.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -59,21 +59,21 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
+                <img class="gg" src="~assets/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">可升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>
+                <img class="gg" src="~assets/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>
 
               </td>
             </tr>

@@ -99,7 +99,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/BRA 4.jpg" width="" alt="">
+                  <img src="~assets/BRA 4.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -144,7 +144,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，竺叡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的倫巴第聯盟資訊
               <div style="margin-left: 10px;"><em><strong><a href="https://zh.wikipedia.org/wiki/%E4%BC%A6%E5%B7%B4%E7%AC%AC%E5%90%8C%E7%9B%9F">倫巴第聯盟</a></strong></em> 

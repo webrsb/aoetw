@@ -33,30 +33,30 @@
             <p>特殊單位</p>
             <ul>
               <li>
-                <img class="gg" src="img/CamelArcherIcon.jpg" alt=""><a href="Camel_Archer.php">駱駝弓騎兵</a>:移動快速，素質良好的駱駝射手，對於馬弓騎兵有額外的攻擊。</li>
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" alt=""><a href="Camel_Archer.php">駱駝弓騎兵</a>:移動快速，素質良好的駱駝射手，對於馬弓騎兵有額外的攻擊。</li>
               <li>
-                <img class="gg" src="img/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>:攻擊力高，移動快速的步兵。</li>
+                <img class="gg" src="~assets/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>:攻擊力高，移動快速的步兵。</li>
               <li>
-                <img class="gg" src="img/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>:遠程步兵，攻擊與移動都非常優秀。</li>
+                <img class="gg" src="~assets/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>:遠程步兵，攻擊與移動都非常優秀。</li>
               <li>
-                <img class="gg" src="img/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">手風琴砲</a>:少數在城堡時代就可訓練的火藥單位，對衝撞車系列有加成傷害。</li>
+                <img class="gg" src="~assets/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">手風琴砲</a>:少數在城堡時代就可訓練的火藥單位，對衝撞車系列有加成傷害。</li>
               <li>
-                <img class="gg" src="img/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>:有貫穿效果的戰船。</li>
+                <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>:有貫穿效果的戰船。</li>
             </ul>
           </div>
           <p>一般單位</p>
           <ul>
             <li>
-              <img class="gg" src="img/Siegetowericon.png" alt=""> <a href="Siege_Tower.php">攻城塔</a>:能運輸步兵與弩兵穿越城牆的攻城器具。</li>
+              <img class="gg" src="~assets/Siegetowericon.png" alt=""> <a href="Siege_Tower.php">攻城塔</a>:能運輸步兵與弩兵穿越城牆的攻城器具。</li>
             <li>
-              <img class="gg" src="img/FireGalleyIcon.jpg" alt=""> <a href="Fire_Galley.php">火蒙衝</a>:封建時代就能生產火戰船。</li>
+              <img class="gg" src="~assets/FireGalleyIcon.jpg" alt=""> <a href="Fire_Galley.php">火蒙衝</a>:封建時代就能生產火戰船。</li>
             <li>
-              <img class="gg" src="img/DemoRaftIcon.jpg" alt=""> <a href="Demolition_Raft.php">自爆伐</a>:封建時代就能生產的神風船。</li>
+              <img class="gg" src="~assets/DemoRaftIcon.jpg" alt=""> <a href="Demolition_Raft.php">自爆伐</a>:封建時代就能生產的神風船。</li>
           </ul>
           <p>建築</p>
           <ul>
             <li>
-              <img width="25px" src="img/Feitoriaicon.png" alt=""><a href="Feitoriaicon_Feitoria.php">港灣大商站</a>:帝王時代能建造，葡萄牙特殊建築，能緩慢生產資源。</li>
+              <img width="25px" src="~assets/Feitoriaicon.png" alt=""><a href="Feitoriaicon_Feitoria.php">港灣大商站</a>:帝王時代能建造，葡萄牙特殊建築，能緩慢生產資源。</li>
           </ul>
            <h3>科技</h3>
 
@@ -71,11 +71,11 @@
           <p>一般科技</p>
           <ul>
             <li>
-              <img class="gg" src="img/Arson.jpg" alt=""><a href="Arson.php">縱火</a>
+              <img class="gg" src="~assets/Arson.jpg" alt=""><a href="Arson.php">縱火</a>
 
             </li>
             <li>
-              <img class="gg" src="img/Arrowlits.jpg" alt=""><a href="Arrowslits.php">箭狹槽</a>
+              <img class="gg" src="~assets/Arrowlits.jpg" alt=""><a href="Arrowslits.php">箭狹槽</a>
 
             </li>
           </ul>
@@ -92,7 +92,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="400" src="img/9RkmbS.jpg" width="" alt="">
+                  <img width="400" src="~assets/9RkmbS.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

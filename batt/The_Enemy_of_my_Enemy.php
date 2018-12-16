@@ -59,7 +59,7 @@
                 ">此影片是，快速通關打法可以根據個人遊戲體驗斟酌使用</a></li> </ul></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">我敵人的敵人</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/EIC 2.jpg " width=" " alt="
+                ">我敵人的敵人</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/EIC 2.jpg " width=" " alt="
                 "></div>       </td>      </tr>      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle2 "><a href="
                 ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3 ">版本</td>       <td class="unit4

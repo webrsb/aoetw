@@ -49,37 +49,37 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Masonry.jpg" width="30" alt="">磚瓦技術(+10%)</p>
+                  <img src="~assets/Masonry.jpg" width="30" alt="">磚瓦技術(+10%)</p>
                 <p>
-                  <img src="img/Architecture.jpg" width="30" alt="">建築學(+10%)</p>
+                  <img src="~assets/Architecture.jpg" width="30" alt="">建築學(+10%)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1">護甲</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Masonry.jpg" width="30" alt="">磚瓦技術(+1/+1，+3建築護甲)</p>
+                  <img src="~assets/Masonry.jpg" width="30" alt="">磚瓦技術(+1/+1，+3建築護甲)</p>
                 <p>
-                  <img src="img/Architecture.jpg" width="30" alt="">建築學(+1/+1，+3建築護甲)</p>
+                  <img src="~assets/Architecture.jpg" width="30" alt="">建築學(+1/+1，+3建築護甲)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Townwatch.jpg" width="30" alt="">城鎮暸望(+4)</p>
+                  <img src="~assets/Townwatch.jpg" width="30" alt="">城鎮暸望(+4)</p>
                 <p>
-                  <img src="img/Townpatrol.jpg" width="30" alt="">城鎮巡邏(+4)</p>
+                  <img src="~assets/Townpatrol.jpg" width="30" alt="">城鎮巡邏(+4)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                 </p>
                 <p>
-                  <img src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a>
+                  <img src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a>
                 </p>
               </td>
             </tr>
@@ -87,7 +87,7 @@
               <td class="tta1">建造速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Treadmillcrane.jpg" width="30" alt="">滑輪起重機(+20%)</p>
+                  <img src="~assets/Treadmillcrane.jpg" width="30" alt="">滑輪起重機(+20%)</p>
               </td>
             </tr>
           </table>
@@ -110,7 +110,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Feitoriaicon.png" width="45" alt="">
+                  <img src="~assets/Feitoriaicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>

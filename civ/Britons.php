@@ -33,9 +33,9 @@
                  <h3>特殊科技</h3>
 
                 <p>
-                  <img class="gg" src="img/CastleAgeUnique.png">:<a href="Yeomen.php">義勇騎兵</a>:步行弓兵射程+1，箭塔攻擊+2</p>
+                  <img class="gg" src="~assets/CastleAgeUnique.png">:<a href="Yeomen.php">義勇騎兵</a>:步行弓兵射程+1，箭塔攻擊+2</p>
                 <p>
-                  <img class="gg" src="img/Unique-tech.jpg"><a href="Warwolf.php">戰狼</a>:投石機有面的殺傷力(意指攻擊範圍加大)</p>
+                  <img class="gg" src="~assets/Unique-tech.jpg"><a href="Warwolf.php">戰狼</a>:投石機有面的殺傷力(意指攻擊範圍加大)</p>
           </div>
            <h3>文明加成</h3>
 
@@ -73,7 +73,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wonderbritons.png"><img  class="imgn" class="hg" width="250" src="img/Wonderbritons.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wonderbritons.png"><img  class="imgn" class="hg" width="250" src="~assets/Wonderbritons.png" alt=""></a> 
                 <p><em>不列顛的<a href="Wonder.php">世界奇觀</a>-<a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></em>
 
                 </p>
@@ -91,7 +91,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Richard_coeur_de_lion.jpg" alt="">
+                  <img src="~assets/Richard_coeur_de_lion.jpg" alt="">
                   <p><em>獅心王理查一世</em>
 
                   </p>
@@ -114,7 +114,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/LongbowmanIcon.jpg">長弓兵</td>
+                <img class="gg" src="~assets/LongbowmanIcon.jpg">長弓兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -123,9 +123,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">義勇騎兵
+                <img class="gg" src="~assets/CastleAgeUnique.png">義勇騎兵
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">戰狼</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">戰狼</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

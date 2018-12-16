@@ -121,7 +121,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Suryavarman I-1.jpg" width="" alt="">
+                  <img src="~assets/Suryavarman I-1.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

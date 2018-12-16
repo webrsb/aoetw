@@ -100,7 +100,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/BRA 3.jpg" width="" alt="">
+                  <img src="~assets/BRA 3.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -145,7 +145,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，竺叡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上克列瑪圍城資訊(英文)
               <div style="margin-left: 10px;"><em><strong><a href="https://en.wikipedia.org/wiki/Siege_of_Crema">克列瑪圍城</a></strong></em> 

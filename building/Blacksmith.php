@@ -29,23 +29,23 @@
                    <h4><a href="Feudal_Age.php">封建時代</a></h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Paddedarcherarmor.jpg" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>
+                      <img class="gg" src="~assets/Paddedarcherarmor.jpg" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Fletching.jpg" alt=""><a href="Fletching.php">箭羽</a>
+                      <img class="gg" src="~assets/Fletching.jpg" alt=""><a href="Fletching.php">箭羽</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Forging.jpg" alt=""><a href="Forging.php">鍛造</a>
+                      <img class="gg" src="~assets/Forging.jpg" alt=""><a href="Forging.php">鍛造</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Scalebardingarmor.jpg" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>
+                      <img class="gg" src="~assets/Scalebardingarmor.jpg" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Scalemailarmor.jpg" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>
+                      <img class="gg" src="~assets/Scalemailarmor.jpg" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>
 
                     </li>
                   </ul>
@@ -56,23 +56,23 @@
                    <h4><a href="Castle_Age.php">城堡時代</a></h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Leatherarcherarmor.jpg" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>
+                      <img class="gg" src="~assets/Leatherarcherarmor.jpg" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
+                      <img class="gg" src="~assets/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Ironcasting.jpg" alt=""><a href="Iron_Casting.php">鑄造</a>
+                      <img class="gg" src="~assets/Ironcasting.jpg" alt=""><a href="Iron_Casting.php">鑄造</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Chainbardingarmor.jpg" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>
+                      <img class="gg" src="~assets/Chainbardingarmor.jpg" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Chainmailarmor.jpg" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>
+                      <img class="gg" src="~assets/Chainmailarmor.jpg" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>
 
                     </li>
                   </ul>
@@ -83,23 +83,23 @@
                    <h4><a href="Imperial_Age.php">帝王時代</a></h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Ringarcherarmor.jpg" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>
+                      <img class="gg" src="~assets/Ringarcherarmor.jpg" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Bracer.jpg" alt=""><a href="Bracer.php">護腕</a>
+                      <img class="gg" src="~assets/Bracer.jpg" alt=""><a href="Bracer.php">護腕</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Blastfurnace.jpg" alt=""><a href="Blast_Furnace.php">鐵風爐</a>
+                      <img class="gg" src="~assets/Blastfurnace.jpg" alt=""><a href="Blast_Furnace.php">鐵風爐</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Platebardingarmor.jpg" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>
+                      <img class="gg" src="~assets/Platebardingarmor.jpg" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Platemailarmor.jpg" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>
+                      <img class="gg" src="~assets/Platemailarmor.jpg" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>
 
                     </li>
                   </ul>
@@ -128,37 +128,37 @@
               <tr>
                 <td class="tta1" style="width:20%">生命值</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                  <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                   <br>
-                  <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                  <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:20%">護甲</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                  <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                   <br>
-                  <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                  <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
               </tr>
               <tr>
                 <td class="tta1">視野</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                  <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                   <br>
-                  <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                  <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
               </tr>
               <tr>
                 <td class="tta1">招降抵抗</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
                   <br>
-                  <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">建造速率</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                  <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
               </tr>
             </table>
              <h3>文明加成</h3>
@@ -214,7 +214,7 @@
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
-                  <img class="hg" width="200" src="img/BlacksmithFeudalAgeHD.png" alt="">
+                  <img class="hg" width="200" src="~assets/BlacksmithFeudalAgeHD.png" alt="">
                   <div class="lightbox-caption" style="width:185px" ;>
                     <p><em>所有文明封建時代的兵工廠(帝王世紀和征服者入侵資料片)。</em>
 
@@ -222,7 +222,7 @@
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <img class="hg" width="200" src="img/Blacksmithaokaoc.png" alt="">
+                  <img class="hg" width="200" src="~assets/Blacksmithaokaoc.png" alt="">
                   <div class="lightbox-caption" style="width:185px" ;>
                     <p><em>所有文明城堡時代的兵工廠(帝王世紀和征服者入侵資料片)。</em>
 
@@ -230,7 +230,7 @@
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <img class="hg" width="200" src="img/BlacksmithFeudalAgeDLC.png" alt="">
+                  <img class="hg" width="200" src="~assets/BlacksmithFeudalAgeDLC.png" alt="">
                   <div class="lightbox-caption" style="width:185px" ;>
                     <p><em>所有文明封建時代的兵工廠(HD擴充資料片)。</em>
 
@@ -238,7 +238,7 @@
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <img class="hg" width="200" src="img/Blacksmith_hd.png" alt="">
+                  <img class="hg" width="200" src="~assets/Blacksmith_hd.png" alt="">
                   <div class="lightbox-caption" style="width:185px" ;>
                     <p><em>所有文明城堡時代的兵工廠(HD擴充資料片)。</em>
 
@@ -261,7 +261,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Blacksmithicon.png" width="45" alt="">
+                  <img src="~assets/Blacksmithicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -319,29 +319,29 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1800
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1800
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2100
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2100
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">2100</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">2100</td>
             </tr>
             <tr>
               <td class="unit3">近防</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">8
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">8
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>

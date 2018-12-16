@@ -7,7 +7,7 @@
         <div class="col-md-12">
            <h1>Aoetw招募快樂夥伴</h1> 
           <div class="hrn1"></div>
-          <div class="spw"><em><img src="img/tola.jpg" width="50px;" alt="" style="margin-right:20px;">Aoetw嗷嗷待哺：歡迎加入我們。</em>
+          <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">Aoetw嗷嗷待哺：歡迎加入我們。</em>
           </div>
         </div>
         <div class="col-md-12">
@@ -26,7 +26,7 @@
           </div>
           <div class="col-md-6">
             <p>
-              <img class="imgn" style="border: solid 1px #000;" src="img/wa1.png" alt="">
+              <img class="imgn" style="border: solid 1px #000;" src="~assets/wa1.png" alt="">
             </p>
           </div>
           <h3>歷史組</h3>
@@ -40,7 +40,7 @@
           </div>
           <div class="col-md-6">
             <p>
-              <img style="border: solid 1px #000;" src="img/w2.png" alt="">
+              <img style="border: solid 1px #000;" src="~assets/w2.png" alt="">
             </p>
           </div>
           <h3>圖片組</h3>
@@ -54,7 +54,7 @@
           </div>
           <div class="col-md-6">
             <p>
-              <img style="border: solid 1px #000;" src="img/w3.png" alt="">
+              <img style="border: solid 1px #000;" src="~assets/w3.png" alt="">
             </p>
           </div>
           <h3>戰役組</h3>
@@ -66,7 +66,7 @@
           </div>
           <div class="col-md-6">
             <p>
-              <img style="border: solid 1px #000;" src="img/w4.png" alt="">
+              <img style="border: solid 1px #000;" src="~assets/w4.png" alt="">
             </p>
           </div>
           <h3>程式組</h3>

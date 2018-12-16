@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <div class="spw"><em><img src="img/Subotaiicon.png" width="50px;" alt="" style="margin-right:20px;">不要搞混了，<a href="Yodit.php">優娣忒</a>這個英雄的頁面在這邊。</em>
+            <div class="spw"><em><img src="~assets/Subotaiicon.png" width="50px;" alt="" style="margin-right:20px;">不要搞混了，<a href="Yodit.php">優娣忒</a>這個英雄的頁面在這邊。</em>
             </div>
             <div class="ien"><em>    傾國傾城的公主殿下優娣忒曾是阿克蘇姆王室未來的接班人。但是她的侄子出於忌妒，誣陷她偷竊了教堂的聖物。從此，她被趕出皇室，流亡國外。在玩家的見證下看這位沒落的公主是如何一步步奪回權力的寶座，成為一代女皇。優娣忒公主復仇的故事甚至還震撼了之後數百年的衣索比亞人。</em>
               <p
@@ -45,7 +45,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/Yodit.png" width="300px;" alt="">
+                <img src="~assets/Yodit.png" width="300px;" alt="">
                 <p>優娣忒戰役地圖</p>
               </div>
             </div>
@@ -66,7 +66,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Stela_aksum.jpg" width="300" alt="">
+                  <img src="~assets/Stela_aksum.jpg" width="300" alt="">
                   <p><em>阿克蘇姆王朝時留下的紀念碑(優娣忒戰役的代表圖像)</em>
                   </p>
                 </div>
@@ -97,7 +97,7 @@
           <div class="thanks">感謝! 此頁面由賜齡、裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             
           </div>

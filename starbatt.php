@@ -6,7 +6,7 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
           <h1>戰術技巧</h1>
-          <div class="spw"><em><img src="img/tola.jpg" width="50px;" alt="" style="margin-right:20px;">未完成頁面:這篇文章的作者還在偷懶，所以頁面還不是很完整。</em>
+          <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">未完成頁面:這篇文章的作者還在偷懶，所以頁面還不是很完整。</em>
           </div>
           <p>此頁面為戰術技巧研習營，教授入門升級，及基本戰術打法與控兵，不外乎多練習多熟悉。</p>
           <div class="col-md-3" style="border: solid 1px #ccc; padding: 10px; margin: 20px 0px;">

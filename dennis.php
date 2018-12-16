@@ -76,7 +76,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Wondericon.png" width="45px;" alt="">
+                  <img src="~assets/Wondericon.png" width="45px;" alt="">
                 </div>
               </td>
             </tr>
@@ -164,7 +164,7 @@
             <div class="col-md-4">
                <h3><span class="we">不列顛</span><br><strong><a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></strong></h3> 
               <div class="wimg">
-                <img src="img/Wonderbritons.jpg" alt="">
+                <img src="~assets/Wonderbritons.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於德國亞琛並由許多不同時期基督教建築藝術組合而成的主教座堂。建成於805年，為查理曼大帝的國王行宮。</p>
@@ -173,7 +173,7 @@
             <div class="col-md-4">
                <h3><span class="we">拜占庭</span><br><strong><a href="http://tinyurl.com/y9spbwty">聖索菲亞大教堂</a></strong></h3> 
               <div class="wimg">
-                <img src="img/Wonderbyzantines.jpg" alt="">
+                <img src="~assets/Wonderbyzantines.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今土耳其伊斯坦堡的宗教建築，有近一千五百年的漫長歷史，因其巨大的圓頂而聞名於世。奧斯曼土耳其人在1453年征服君士坦丁堡，蘇丹穆罕默德二世下令將大教堂轉變為清真寺。</p>

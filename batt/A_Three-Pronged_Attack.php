@@ -141,7 +141,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/(map)Le_Loi - 5.A_Three-Pronged_Attack.jpg" width="" alt="">
+                  <img src="~assets/(map)Le_Loi - 5.A_Three-Pronged_Attack.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

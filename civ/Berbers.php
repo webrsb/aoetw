@@ -48,15 +48,15 @@
 
             <ul>
               <p>
-                <img class="gg" src="img/CamelArcherIcon.jpg" alt="">駱駝弓騎兵:攻擊間隔低、對馬弓騎兵有攻擊加成。</p>
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="">駱駝弓騎兵:攻擊間隔低、對馬弓騎兵有攻擊加成。</p>
             </ul>
              <h3>特殊科技</h3>
 
             <ul>
               <p>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">聚居堡壘：你和同盟城堡工作效率+25%。</p>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">聚居堡壘：你和同盟城堡工作效率+25%。</p>
               <p>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">馬格拉比駱駝：駱駝單位會自動回血。</p>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">馬格拉比駱駝：駱駝單位會自動回血。</p>
             </ul>
           </div>
            <h3>文明加成</h3>
@@ -105,7 +105,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Berbers_preview.png"><img class="imgn" class="hg" src="img/Berbers_preview.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Berbers_preview.png"><img class="imgn" class="hg" src="~assets/Berbers_preview.png" alt=""></a> 
                 <p><em>官方預覽圖</em>
 
                 </p>
@@ -123,7 +123,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/BerberDepiction.jpg" width="300px;" alt="">
+                  <img src="~assets/BerberDepiction.jpg" width="300px;" alt="">
                   <p><em>柏柏的一個中世紀伊斯蘭教徒所描述騎駱駝</em>
 
                   </p>
@@ -146,10 +146,10 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/CamelArcherIcon.jpg">駱駝弓騎兵
+                <img class="gg" src="~assets/CamelArcherIcon.jpg">駱駝弓騎兵
                 <br>
                 <p>
-                  <img class="gg" src="img/GenitourIcon.jpg">標槍騎兵</td>
+                  <img class="gg" src="~assets/GenitourIcon.jpg">標槍騎兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -158,9 +158,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">聚居堡壘
+                <img class="gg" src="~assets/CastleAgeUnique.png">聚居堡壘
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">馬格拉比駱駝</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">馬格拉比駱駝</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

@@ -39,9 +39,9 @@
 <h3>開場</h3>
 <div class="hrn1"></div>
  <ul>
-   <li><img style="margin: 2px;" width="22" src="img/Elcidicon.png" alt="">紅衣艾立克</li>
-   <li><img style="margin: 2px;" width="22" src="img/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>X3</li>
-   <li><img style="margin: 2px;" width="22" src="img/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>X2</li>
+   <li><img style="margin: 2px;" width="22" src="~assets/Elcidicon.png" alt="">紅衣艾立克</li>
+   <li><img style="margin: 2px;" width="22" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>X3</li>
+   <li><img style="margin: 2px;" width="22" src="~assets/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>X2</li>
  </ul>
 
 
@@ -200,7 +200,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Vindlandsaga.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Vindlandsaga.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -246,7 +246,7 @@
        感謝! 此頁面由Dennis協助編輯
      </div>
      <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的紅衣艾立克
 <div style="margin-left: 10px;"><i><b><a href="http://tinyurl.com/ybpfxxqq">紅鬍子艾瑞克</a></b></i></div>
 </div>

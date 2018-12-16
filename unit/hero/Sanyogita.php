@@ -25,7 +25,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Sanyogitaicon.png" width="80" alt="">
+                  <img src="~assets/Sanyogitaicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -79,7 +79,7 @@
           <div class="thanks">感謝! 此頁面由Steven協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的姍優姬妲
               <div style="margin-left: 10px;"><i><strong><a href="https://tinyurl.com/ydhngkth">姍優姬妲</a></strong></i>

@@ -56,57 +56,57 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="El_Dorado.php">黃金國</a>(+40，<a href="Mayans.php">馬雅</a>限定)</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="El_Dorado.php">黃金國</a>(+40，<a href="Mayans.php">馬雅</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
+                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
                 <br>
-                <img class="gg" src="img/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
+                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
                 <br>
-                <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
+                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br>
-                <img class="gg" src="img/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
 
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Garland_Wars.php">榮冠戰爭</a>:步兵攻擊+4，<a href="Aztecs.php">阿茲特克</a>限定。</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Garland_Wars.php">榮冠戰爭</a>:步兵攻擊+4，<a href="Aztecs.php">阿茲特克</a>限定。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="img/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)
+                <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)
                 <br>
-                <img class="gg" src="img/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)
+                <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)
                 <br>
-                <img class="gg" src="img/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)
+                <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Couriers.php">信使</a>(+1/+2，<a href="Incas.php">印加</a>，從<a href="ak.php">非洲王朝</a>資料片開始)</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Couriers.php">信使</a>(+1/+2，<a href="Incas.php">印加</a>，從<a href="ak.php">非洲王朝</a>資料片開始)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Squires.jpg" width="30" alt=""><a href="Squires.php">護衛</a>(+10%)
+                <img class="gg" src="~assets/Squires.jpg" width="30" alt=""><a href="Squires.php">護衛</a>(+10%)
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg" alt=""><a href="Couriers.php">信使</a>(+10%，<a href="Incas.php">印加</a>限定，只在<a href="aof.php">失落的帝國</a>資料片有)</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt=""><a href="Couriers.php">信使</a>(+10%，<a href="Incas.php">印加</a>限定，只在<a href="aof.php">失落的帝國</a>資料片有)</td>
               <tr>
                 <td class="tta1" style="width:10%">視野</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Tracking.jpg" width="30" alt=""><a href="Tracking.php">追縱技術</a>(+2)</td>
+                  <img class="gg" src="~assets/Tracking.jpg" width="30" alt=""><a href="Tracking.php">追縱技術</a>(+2)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
                   <br>
-                  <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">生產速度</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
+                  <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
               </tr>
           </table>
            <h3>剋鷹勇士的單位</h3> 
@@ -121,8 +121,8 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/2HandedswordsmanIcon.jpg" alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
-                      <img class="gg" src="img/ChampionIcon.jpg"
+                      <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
+                      <img class="gg" src="~assets/ChampionIcon.jpg"
                       alt=""> <a href="Champion.php">劍兵勇士</a>
 
                     </li>
@@ -132,7 +132,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/LongswordsManIcon.jpg" alt=""> <a href="Long_Swordsman.php">長劍兵</a> 
+                      <img class="gg" src="~assets/LongswordsManIcon.jpg" alt=""> <a href="Long_Swordsman.php">長劍兵</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
@@ -140,8 +140,8 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/Crusade_avatar.png" alt=""> <a href="Teutonic_Knight.php">條頓武士</a>→
-                      <img class="gg" src="img/Crusade_avatar.png"
+                      <img class="gg" src="~assets/Crusade_avatar.png" alt=""> <a href="Teutonic_Knight.php">條頓武士</a>→
+                      <img class="gg" src="~assets/Crusade_avatar.png"
                       alt=""><a href="Teutonic_Knight.php">精銳條頓武士</a> 
                     </li>
                   </ul>
@@ -150,18 +150,18 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""> <a href="Woad_Raider.php">精銳菘藍武士</a> 
+                      <img class="gg" src="~assets/WBRSK.jpg" alt=""> <a href="Woad_Raider.php">精銳菘藍武士</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>
 
                       <br>
                       <li>
-                        <img class="gg" src="img/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">精銳哥德衛隊</a>
+                        <img class="gg" src="~assets/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">精銳哥德衛隊</a>
 
                       </li>
                       <li>
-                        <img class="gg" src="img/VBRSK.jpg" alt=""><a href="Berserk.php">精銳狂戰士</a>
+                        <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="Berserk.php">精銳狂戰士</a>
 
                       </li>
                   </ul>
@@ -172,41 +172,41 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/ManAtArmsIcon.jpg" alt="" width="22"> <a href="Man-at-Arms.php">裝甲步兵</a> 
+                      <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt="" width="22"> <a href="Man-at-Arms.php">裝甲步兵</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
+                      <img class="gg" src="~assets/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">哥德衛隊</a>
+                      <img class="gg" src="~assets/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">哥德衛隊</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>
+                      <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">精銳擲斧兵</a>
+                      <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">精銳擲斧兵</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">爪刀勇士</a>→
-                      <img class="gg" src="img/Karambitwarrioricon.png"
+                      <img class="gg" src="~assets/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">爪刀勇士</a>→
+                      <img class="gg" src="~assets/Karambitwarrioricon.png"
                       alt=""> <a href="Karambit_Warrior.php">精銳爪刀勇士</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>→
-                      <img class="gg" src="img/ShotelIcon.png"
+                      <img class="gg" src="~assets/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>→
+                      <img class="gg" src="~assets/ShotelIcon.png"
                       alt=""> <a href="Shotel_Warrior.php">精銳彎刀勇士</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">豹勇士</a>→
-                      <img class="gg" src="img/JaguarWarriorIcon.jpg"
+                      <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">豹勇士</a>→
+                      <img class="gg" src="~assets/JaguarWarriorIcon.jpg"
                       alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a>
 
                     </li>
@@ -216,20 +216,20 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/SpearmanIcon.jpg" alt=""> <a href="Spearman.php">長槍兵</a>→
-                      <img class="gg" src="img/PikemanIcon.jpg"
+                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""> <a href="Spearman.php">長槍兵</a>→
+                      <img class="gg" src="~assets/PikemanIcon.jpg"
                       alt=""> <a href="Pikeman.php">重裝長槍兵</a>→
-                      <img class="gg" src="img/HalberdierIcon.jpg"
+                      <img class="gg" src="~assets/HalberdierIcon.jpg"
                       alt=""> <a href="Halberdier.php">戟兵</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>
+                      <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>→
-                      <img class="gg" src="img/GbetoIcon.png"
+                      <img class="gg" src="~assets/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>→
+                      <img class="gg" src="~assets/GbetoIcon.png"
                       alt=""> <a href="Gbeto.php">精銳飛刀女獵手</a> 
                     </li>
                   </ul>
@@ -289,7 +289,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="img/EagleScoutIcon.jpg" width="45" alt="">
+                <img src="~assets/EagleScoutIcon.jpg" width="45" alt="">
               </div>
             </td>
           </tr>
@@ -319,14 +319,14 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="img/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
+              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
 
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img class="gg" src="img/Barracks-logo.jpg" alt=""><a href="Barracks.php">軍營</a>
+              <img class="gg" src="~assets/Barracks-logo.jpg" alt=""><a href="Barracks.php">軍營</a>
 
             </td>
           </tr>
@@ -410,14 +410,14 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="img/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a>
+              <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a>
 
             </td>
           </tr>
           <tr>
             <td class="unit3">升級成本</td>
             <td class="unit4">
-              <img class="gg" src="img/Elite-eagle-warrior-researc.jpg" alt="">300肉200金</td>
+              <img class="gg" src="~assets/Elite-eagle-warrior-researc.jpg" alt="">300肉200金</td>
           </tr>
           <tr>
             <td class="unit3">升級時間</td>
@@ -432,12 +432,12 @@
 
       <div class="hrn1"></div>
       <div class="n1">
-        <div class="col-md-4"> <a href="img/Eagleline.png"><img class="imgn" class="hg" src="img/Eagleline.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Eagleline.png"><img class="imgn" class="hg" src="~assets/Eagleline.png" alt=""></a> 
           <p><em>鷹勇士系列</em>
 
           </p>
         </div>
-        <div class="col-md-4"> <a href="img/Eaglescout.png"><img class="imgn" class="hg" src="img/Eaglescout.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Eaglescout.png"><img class="imgn" class="hg" src="~assets/Eaglescout.png" alt=""></a> 
           <p><em>一群鷹斥侯</em>
 
           </p>

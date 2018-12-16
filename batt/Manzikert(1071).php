@@ -199,7 +199,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Manzikert.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Manzikert.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -244,7 +244,7 @@
        感謝! 此頁面由Wun，裕暉協助編輯
      </div>
   <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的曼奇克托戰役
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E6%9B%BC%E9%BD%90%E5%88%BB%E5%B0%94%E7%89%B9%E6%88%98%E5%BD%B9">曼奇克托</a></b></i></div>
 </div>

@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Ghostlake.gif" width="300" alt="">
+          <img src="~assets/Ghostlake.gif" width="300" alt="">
            <h4>鬼湖地圖，中間白色區域甚麼都沒有。</h4> 
         </div>
       </div>

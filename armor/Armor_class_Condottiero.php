@@ -27,7 +27,7 @@
           <div class="n1">
             <ul>
               <li>
-                <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""> <a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</ul>
+                <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""> <a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</ul>
           </div>
            <h3>剋傭兵系的單位與建築</h3>
 
@@ -39,12 +39,12 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">精銳聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
+                  <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="Cataphract.php">精銳聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
                 <li>
-                  <img class="gg" src="img/Slinger_Icon.jpg" alt=""><a href="Slinger.php">投石手</a> (<a href="Incas.php">印加</a>限定)</li>
+                  <img class="gg" src="~assets/Slinger_Icon.jpg" alt=""><a href="Slinger.php">投石手</a> (<a href="Incas.php">印加</a>限定)</li>
                 <li>
-                  <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">豹勇士</a>→
-                  <img class="gg" src="img/JaguarWarriorIcon.jpg"
+                  <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">豹勇士</a>→
+                  <img class="gg" src="~assets/JaguarWarriorIcon.jpg"
                   alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a> (<a href="Aztecs.php">阿茲特克</a>限定)</li>
               </ul>
               <div style="margin:12px 0px;"><strong>+9攻擊</strong>
@@ -52,21 +52,21 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
+                  <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
               </ul>
               <div style="margin:12px 0px;"><strong>+2攻擊</strong>
 
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
+                  <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
               </ul>
               <div style="margin:12px 0px;"><strong>+1攻擊</strong>
 
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
+                  <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
               </ul>
             </div>
           </div>

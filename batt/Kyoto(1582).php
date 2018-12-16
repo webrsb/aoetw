@@ -208,7 +208,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Kyoto.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Kyoto.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -255,7 +255,7 @@
      </div>
 
  <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的京都戰役
 <div style="margin-left: 10px;"><em><strong><a href="http://tinyurl.com/ybt66856">山崎之戰</a></strong></em></div>
 </div>

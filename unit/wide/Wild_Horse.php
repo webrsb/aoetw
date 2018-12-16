@@ -30,7 +30,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Horse-icon-aoe2.jpg" width="80" alt="">
+                  <img src="~assets/Horse-icon-aoe2.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>

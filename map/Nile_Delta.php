@@ -22,7 +22,7 @@
             
         </div>
         <div class="col-md-4">
-          <img src="img/Nile.png" width="300" alt="">
+          <img src="~assets/Nile.png" width="300" alt="">
            <h4>兩人的尼羅河三角洲地圖</h4> 
         </div>
       </div>

@@ -13,7 +13,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unitc">
-                <div class="unititle"><a href=""><img src="img/KingsIcon.png">帝王時代</a>
+                <div class="unititle"><a href=""><img src="~assets/KingsIcon.png">帝王時代</a>
                 </div>
               </td>
             </tr>
@@ -63,7 +63,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unitc">
-                <div class="unititle"><a href=""> <img src="img/ConquerorsIcon.png">征服者入侵</a>
+                <div class="unititle"><a href=""> <img src="~assets/ConquerorsIcon.png">征服者入侵</a>
                 </div>
               </td>
             </tr>
@@ -97,7 +97,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unitc">
-                <div class="unititle"><a href=""><img src="img/ForgottenIcon.png">被遺忘的王朝</a>
+                <div class="unititle"><a href=""><img src="~assets/ForgottenIcon.png">被遺忘的王朝</a>
                 </div>
               </td>
             </tr>
@@ -131,7 +131,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unitc">
-                <div class="unititle"><a href=""><img src="img/AfricanIcon.png">非洲王國</a>
+                <div class="unititle"><a href=""><img src="~assets/AfricanIcon.png">非洲王國</a>
                 </div>
               </td>
             </tr>
@@ -161,7 +161,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unitc">
-                <div class="unititle"><a href=""><img src="img/RajaIcon.png">王者崛起</a>
+                <div class="unititle"><a href=""><img src="~assets/RajaIcon.png">王者崛起</a>
                 </div>
               </td>
             </tr>

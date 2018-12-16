@@ -28,7 +28,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="200" src="img/Shepherd.png" alt="">
+                <img class="hg" width="200" src="~assets/Shepherd.png" alt="">
                 <p><em>村民正在把乳牛趕回城鎮中心。</em>
 
                 </p>
@@ -48,7 +48,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Iconcow.png" width="80" alt="">
+                  <img src="~assets/Iconcow.png" width="80" alt="">
                 </div>
               </td>
             </tr>

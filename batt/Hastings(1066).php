@@ -195,7 +195,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Hasting.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Hasting.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -244,7 +244,7 @@
 <div class="row">
   <div class="col-md-12">
      <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的此關戰役與人物資訊
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%BB%91%E6%96%AF%E5%BB%B7%E6%96%AF%E6%88%98%E5%BD%B9">哈斯汀斯戰役</a></b></i></div>
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E7%A6%8F%E6%A1%A5%E6%88%98%E5%BD%B9">斯坦福橋戰役</a></b></i></div>

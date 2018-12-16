@@ -21,7 +21,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-5">
-                <img class="hg" width="280" src="img/Constablerichemont.png" alt="">
+                <img class="hg" width="280" src="~assets/Constablerichemont.png" alt="">
                 <p><em>在戰役編輯器中的聖殿騎士團首領。</em>
                 </p>
               </div>
@@ -39,7 +39,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Masterofthetemplaricon.png" width="80" alt="">
+                  <img src="~assets/Masterofthetemplaricon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

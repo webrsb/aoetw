@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Salt_Marsh_1.png" width="300" alt="">
+          <img src="~assets/Salt_Marsh_1.png" width="300" alt="">
            <h4>四人的鹽沼地地圖</h4> 
         </div>
       </div>

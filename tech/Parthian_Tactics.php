@@ -60,8 +60,8 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/CavalryArcherIcon.jpg" alt=""> <a href="Cavalry_Archer.php">馬弓騎兵</a>→
-                <img class="gg" src="img/HeavyCavArcherIcon.jpg"
+                <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt=""> <a href="Cavalry_Archer.php">馬弓騎兵</a>→
+                <img class="gg" src="~assets/HeavyCavArcherIcon.jpg"
                 alt=""> <a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>
               </td>
               <td class="tta2">+1/+2</td>
@@ -69,8 +69,8 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/MangudaiIcon.jpg" alt=""><a href="Mangudai.php">蒙古突騎</a>→
-                <img class="gg" src="img/MangudaiIcon.jpg"
+                <img class="gg" src="~assets/MangudaiIcon.jpg" alt=""><a href="Mangudai.php">蒙古突騎</a>→
+                <img class="gg" src="~assets/MangudaiIcon.jpg"
                 alt=""><a href="Mangudai.php">精銳蒙古突騎</a>
               </td>
               <td class="tta2">+1/+2</td>
@@ -78,8 +78,8 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>→
-                <img class="gg" src="img/ElephantArcherIcon.jpg"
+                <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>→
+                <img class="gg" src="~assets/ElephantArcherIcon.jpg"
                 alt=""><a href="Elephant_Archer.php">精銳象弓騎兵</a>
               </td>
               <td class="tta2">+1/+2</td>
@@ -87,8 +87,8 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/CamelArcherIcon.jpg" alt=""><a href="Camel_Archer.php">駱駝弓騎兵</a>→
-                <img class="gg" src="img/CamelArcherIcon.jpg"
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" alt=""><a href="Camel_Archer.php">駱駝弓騎兵</a>→
+                <img class="gg" src="~assets/CamelArcherIcon.jpg"
                 alt=""> <a href="Camel_Archer.php">精銳駱駝弓騎兵</a>
               </td>
               <td class="tta2">+1/+2</td>
@@ -126,7 +126,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Parthian-Tactics.jpg" width="45" alt="">
+                  <img src="~assets/Parthian-Tactics.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -143,13 +143,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Archery-range-logo.jpg" alt=""><a href="Archery_Range.php">射箭場</a>
+                <img class="gg" src="~assets/Archery-range-logo.jpg" alt=""><a href="Archery_Range.php">射箭場</a>
               </td>
             </tr>
             <tr>

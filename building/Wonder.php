@@ -64,41 +64,41 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                 <br>
-                <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">其它</td>
               <td class="tta4">
-                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Atheism.php">無神論</a>(遺跡和世界奇觀的勝利時間延長100年，間諜/叛徒花費-50%)</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Atheism.php">無神論</a>(遺跡和世界奇觀的勝利時間延長100年，間諜/叛徒花費-50%)</td>
             </tr>
           </table>
         </div>
@@ -112,7 +112,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Wondericon.png" width="45px;" alt="">
+                  <img src="~assets/Wondericon.png" width="45px;" alt="">
                 </div>
               </td>
             </tr>
@@ -258,7 +258,7 @@
             <div class="col-md-4">
                <h3><span class="we">不列顛</span><strong><a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wonderbritons.jpg" alt="">
+                <img height="124px;" src="~assets/Wonderbritons.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於德國亞琛並由許多不同時期基督教建築藝術組合而成的主教座堂。建成於805年，為查理曼大帝的國王行宮。</p>
@@ -267,7 +267,7 @@
             <div class="col-md-4">
                <h3><span class="we">拜占庭</span><strong><a href="http://tinyurl.com/y9spbwty">聖索菲亞大教堂</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wonderbyzantines.jpg" alt="">
+                <img height="124px;" src="~assets/Wonderbyzantines.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今土耳其伊斯坦堡的宗教建築，有近一千五百年的漫長歷史，因其巨大的圓頂而聞名於世。奧斯曼土耳其人在1453年征服君士坦丁堡，蘇丹穆罕默德二世下令將大教堂轉變為清真寺。</p>
@@ -276,7 +276,7 @@
             <div class="col-md-4">
                <h3><span class="we">賽爾特</span><strong><a href="https://zh.wikipedia.org/wiki/卡瑟爾岩">卡瑟爾岩</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/ROCK_OF_CASHEL_AOE2.gif" alt="">
+                <img height="124px;" src="~assets/ROCK_OF_CASHEL_AOE2.gif" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今愛爾蘭南部城市卡瑟爾，最早建築於1100年，曾是芒斯特王國的重要據點，</p>
@@ -289,7 +289,7 @@
             <div class="col-md-4">
                <h3><span class="we">中國</span><strong><a href="https://zh.wikipedia.org/wiki/天壇">天壇</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderchineseaoeII.jpg" alt="">
+                <img height="124px;" src="~assets/WonderchineseaoeII.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今中國北京，古代皇帝的祈福場所，明清時期最高階地祭祀場所，只有皇帝才能使用，遊戲內的世界奇觀為天壇內的祈年殿。</p>
@@ -298,7 +298,7 @@
             <div class="col-md-4">
                <h3><span class="we">法蘭克</span><strong><a href="https://zh.wikipedia.org/wiki/沙特爾主教座堂">沙特爾主教座堂</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wonderfranks.jpg" alt="">
+                <img height="124px;" src="~assets/Wonderfranks.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今法國巴黎西南70公里的沙特爾市，最初的模樣與現今不同，今天看到的教堂是在1220年完工，據說此地保存著聖母瑪利亞生下耶穌時穿的聖衣。</p>
@@ -307,7 +307,7 @@
             <div class="col-md-4">
                <h3><span class="we">哥德</span><strong><a href="https://zh.wikipedia.org/wiki/狄奧多里克陵墓">狄奧多里克陵墓</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wondergoths.jpg" alt="">
+                <img height="124px;" src="~assets/Wondergoths.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今義大利拉偉納城外，狄奧多里克本人建立於520年。當代國王陵墓唯一的留到今日的，且是純粹的哥德建築，並沒有使用羅馬或是拜占庭式的建築風格。</p>
@@ -318,7 +318,7 @@
             <div class="col-md-4">
                <h3><span class="we">日本</span><strong><a href="https://zh.wikipedia.org/wiki/東大寺">東大寺</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderjapaneseaoeII.jpg" alt="">
+                <img height="124px;" src="~assets/WonderjapaneseaoeII.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今日本奈良，由聖武天皇於728年建立，內有奈良大佛，總共有260萬人跟東大寺的建立有關(建築工、捐獻物資等等)，而大佛則幾乎使用當時整個日本的銅器。現今的東大寺為1709年重建，而現在的東大寺只有以前的70%大小。</p>
@@ -327,7 +327,7 @@
             <div class="col-md-4">
                <h3><span class="we">蒙古</span><strong>成吉思汗金帳</strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wondermongols.jpg" alt="">
+                <img height="124px;" src="~assets/Wondermongols.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>這是唯一一個完全沒有原型的世界奇觀，唯一知道的就是這個世界奇觀是成吉思汗的主帳篷。</p>
@@ -336,7 +336,7 @@
             <div class="col-md-4">
                <h3><span class="we">波斯</span><strong><a href="https://zh.wikipedia.org/wiki/塔克基思拉宮">塔克基思拉宮</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderpersianaoeII.jpg" alt="">
+                <img height="124px;" src="~assets/WonderpersianaoeII.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今伊拉克泰西封，可能於540年開始建造，古代世界最大的拱形建築，1888年毀於大水災。</p>
@@ -349,7 +349,7 @@
             <div class="col-md-4">
                <h3><span class="we">薩拉森</span><strong><a href="https://zh.wikipedia.org/wiki/薩邁拉大清真寺">薩邁拉大清真寺</a></strong></h3> 
               <div class="wimg">
-                <img src="img/Wondersaracens.jpg" height="124px;" alt="">
+                <img src="~assets/Wondersaracens.jpg" height="124px;" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今伊拉克薩邁拉，848年由阿拔斯王朝哈里發穆塔瓦基勒下令興建，852年完工，遊戲內的塔狀物只是清真寺的宣禮塔(用來提醒信徒每日五次朝拜)，真正的清真寺有多大可見一斑。</p>
@@ -358,7 +358,7 @@
             <div class="col-md-4">
                <h3><span class="we">條頓</span><strong><a href="https://zh.wikipedia.org/wiki/瑪麗亞拉赫修道院">瑪麗亞拉赫修道院</a></strong></h3> 
               <div class="wimg">
-                <img src="img/Wonderteutons.jpg" height="124px;" alt="">
+                <img src="~assets/Wonderteutons.jpg" height="124px;" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今德國萊茵蘭-普法爾茨州，阿夫利赫姆修道院的修士建立於1093年，12世紀開始變成學術中心，瑪麗亞這個名字是在1862年，耶穌會的修士加上去的。</p>
@@ -367,7 +367,7 @@
             <div class="col-md-4">
                <h3><span class="we">土耳其</span><strong><a href="https://zh.wikipedia.org/wiki/塞利米耶清真寺">塞利米耶清真寺</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wonderturks.jpg" height="124px;" alt="">
+                <img height="124px;" src="~assets/Wonderturks.jpg" height="124px;" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今土耳其埃迪爾內，鄂圖曼帝國時期的清真寺，1575年完工，1913年遭到保加利亞大砲直接擊中頂端，但是只有輕微損傷，土耳其國父阿塔圖爾克下令不得修復，讓後代時刻以此為鑑。</p>
@@ -376,7 +376,7 @@
             <div class="col-md-4">
                <h3><span class="we">維京</span><strong><a href="https://zh.wikipedia.org/wiki/博爾貢木板教堂">博爾貢木板教堂</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WondervikingsaoeII.jpg" height="124px;"
+                <img height="124px;" src="~assets/WondervikingsaoeII.jpg" height="124px;"
                 alt="">
               </div>
               <div class="hrn1"></div>
@@ -386,7 +386,7 @@
             <div class="col-md-4">
                <h3><span class="we">阿茲特克</span><strong><a href="https://baike.baidu.com/item/特诺奇蒂特兰大金字塔">特诺奇蒂特兰大金字塔</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/GREAT_PYRAMID_OF_TENOCHTITLAN_AOE2.gif"
+                <img height="124px;" src="~assets/GREAT_PYRAMID_OF_TENOCHTITLAN_AOE2.gif"
                 alt="">
               </div>
               <div class="hrn1"></div>
@@ -396,7 +396,7 @@
             <div class="col-md-4">
                <h3><span class="we">匈奴</span><strong><a href="https://zh.wikipedia.org/wiki/君士坦丁凱旋門">君士坦丁凱旋門</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wonderhuns.jpg" alt="">
+                <img height="124px;" src="~assets/Wonderhuns.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今義大利羅馬，建立於312年，嚴格說起來並不算是中世紀建築，而他至今保存完好，是所有羅馬現存凱旋門最新的一座。</p>
@@ -407,7 +407,7 @@
             <div class="col-md-4">
                <h3><span class="we">韓國</span><strong><a href="https://zh.wikipedia.org/wiki/皇龍寺">皇龍寺</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wonderkorean.jpg" alt="">
+                <img height="124px;" src="~assets/Wonderkorean.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今南韓慶州市，553年由新羅真興王下令修建，費時16年，1238年蒙古人入侵被毀，韓國歷史上最大規模的佛寺。</p>
@@ -416,7 +416,7 @@
             <div class="col-md-4">
                <h3><span class="we">馬雅</span><br><strong><a href="https://baike.baidu.com/item/蒂卡尔">大美洲豹神廟</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wondermayan.jpg" alt="">
+                <img height="124px;" src="~assets/Wondermayan.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今瓜地馬拉的叢林中，蒂卡爾早在2世紀就有人類活動，而大美洲豹則是當地的神廟，傾斜70度角的高聳神廟與哥德式建築有幾分相似，因而得名叢林大教堂。</p>
@@ -425,7 +425,7 @@
             <div class="col-md-4">
                <h3><span class="we">西班牙</span><strong><a href="https://zh.wikipedia.org/wiki/黃金塔">黃金塔</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderspanishaoeII.jpg" alt="">
+                <img height="124px;" src="~assets/WonderspanishaoeII.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今西班牙賽維亞，修建於13世紀的穆瓦希德王朝，作用是以鐵鍊控制水路進出口，1755年大地震摧毀了河岸另一端的塔，於是僅僅剩下一座，現為博物館。</p>
@@ -436,7 +436,7 @@
             <div class="col-md-4">
                <h3><span class="we">印加</span><strong><a href="https://zh.wikipedia.org/wiki/馬丘比丘">馬丘比丘太陽神廟</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderincasaoeII.jpg" alt="">
+                <img height="124px;" src="~assets/WonderincasaoeII.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今祕魯馬丘比丘，可能由印加統治者帕查庫蒂於1440年興建，馬丘比丘最驚奇的是，所有建築都是石材堆砌而成，沒有使用任何金屬，且據估計最高峰時期僅僅有750人居住。</p>
@@ -445,7 +445,7 @@
             <div class="col-md-4">
                <h3><span class="we">印度</span><strong><a href="https://en.wikipedia.org/wiki/Gol_Gumbaz">果爾。古姆巴斯</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderindiansaoeII.jpg" alt="">
+                <img height="124px;" src="~assets/WonderindiansaoeII.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今印度比賈布爾，穆罕默德·阿迪爾·沙阿王的陵墓，建立於1656年，名字是"圓形的屋頂"的意思，其上的圓頂跟建築本身高度幾乎相同。</p>
@@ -454,7 +454,7 @@
             <div class="col-md-4">
                <h3><span class="we">義大利</span><strong><a href="https://zh.wikipedia.org/wiki/圣老楞佐主教座堂_(热那亚)">聖勞倫斯大教堂</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wonderitalians.jpg" alt="">
+                <img height="124px;" src="~assets/Wonderitalians.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今義大利熱那亞，可能建造於5~6世紀，原是獻給熱那亞主教，後來獻給聖勞倫斯，此處在羅馬時代可能是個公墓。</p>
@@ -465,7 +465,7 @@
             <div class="col-md-4">
                <h3><span class="we">馬札爾</span><strong><a href="https://zh.wikipedia.org/wiki/科文城堡">科文城堡</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wondermagyars.jpg" alt="">
+                <img height="124px;" src="~assets/Wondermagyars.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今羅馬尼亞胡內多阿拉，建於1446年，歐洲最大城堡之一，被選為羅馬尼亞七大奇蹟。城堡共有三個大區：騎士大廳、飯廳與環形走廊。</p>
@@ -474,7 +474,7 @@
             <div class="col-md-4">
                <h3><span class="we">斯拉夫</span><strong><a href="https://zh.wikipedia.org/wiki/基日島的木結構教堂">基日島的木結構教堂</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Wonderslavs.jpg" alt="">
+                <img height="124px;" src="~assets/Wonderslavs.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今俄羅斯基日島，修建於17世紀，完全由木頭打造，全教堂沒有使用任何一根釘子，主堂共有22個圓頂結構，代禱堂則有8個。</p>
@@ -483,7 +483,7 @@
             <div class="col-md-4">
                <h3><span class="we">柏柏</span><strong><a href="https://en.wikipedia.org/wiki/Hassan_Tower">哈桑塔</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderBerbers.png" alt="">
+                <img height="124px;" src="~assets/WonderBerbers.png" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今摩洛哥拉巴特，1195年開始建造，原本是一座大清真寺的尖塔，並且其有望成為最大的清真寺尖塔，但是由於建造者蘇丹·阿布·優素福·雅各布·曼蘇爾逝世，工程於1199年停擺。</p>
@@ -492,7 +492,7 @@
             <div class="col-md-4">
                <h3><span class="we">衣索比亞</span><strong><a href="https://en.wikipedia.org/wiki/Biete_Amanuel">比埃特阿曼紐爾</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderEthiopians.png" alt="">
+                <img height="124px;" src="~assets/WonderEthiopians.png" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今衣索匹亞拉利貝拉，是阿克蘇姆帝國時期的建築物，阿克蘇姆帝國從330年開始就成為基督教國家，建築物本身一直是個基督教堂，整座教堂是一塊岩石鑿出來的。</p>
@@ -501,7 +501,7 @@
             <div class="col-md-4">
                <h3><span class="we">馬利</span><strong><a href="https://zh.wikipedia.org/wiki/傑內大清真寺">傑內大清真寺</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderMalians.png" alt="">
+                <img height="124px;" src="~assets/WonderMalians.png" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今馬里傑內市巴尼河的氾濫平原上，是一座巨型的土坯建築(意思是只有土)，傑內大清真寺最早可追溯至13世紀，但是當時的模樣並沒有確切紀錄，現在的傑內大清真寺是1907年建造的。</p>
@@ -510,7 +510,7 @@
             <div class="col-md-4">
                <h3><span class="we">葡萄牙</span><strong><a href="https://zh.wikipedia.org/wiki/貝倫塔">貝倫塔</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/WonderPortuguese.png" alt="">
+                <img height="124px;" src="~assets/WonderPortuguese.png" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今葡萄牙里斯本的貝倫區，建立於1514年至1520年間，用來紀念達伽馬成功航海世界一周以及防禦位於貝倫區的港口，建築本身大量使用了摩爾人和阿拉伯人的藝術元素。</p>
@@ -519,7 +519,7 @@
             <div class="col-md-4">
                <h3><span class="we">緬甸</span><strong><a href="https://en.wikipedia.org/wiki/Shwezigon_Pagoda">瑞西貢佛塔</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/ShwezigonPagoda.png" alt="">
+                <img height="124px;" src="~assets/ShwezigonPagoda.png" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今緬甸蒲甘娘烏，建立於1059年，蒲甘內最古老的寺廟，建立者阿奴律陀王把佛陀舍利放在白大象上，讓大象走啊走的，停留的地方就蓋了這座佛塔。</p>
@@ -528,7 +528,7 @@
             <div class="col-md-4">
                <h3><span class="we">高棉</span><strong><a href="https://zh.wikipedia.org/wiki/吳哥窟">吳哥窟</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Angkorwataoe2irl.png" alt="">
+                <img height="124px;" src="~assets/Angkorwataoe2irl.png" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今柬埔寨西北部，蘇利耶跋摩二世於13世紀動用全國之力花費35年修成，世界上最大的廟宇，整座廟宇是石材建造，整個廟宇隱藏在叢林裡，樹根滿布，非常具有神祕氣息。</p>
@@ -537,7 +537,7 @@
             <div class="col-md-4">
                <h3><span class="we">馬來</span><strong><a href="https://en.wikipedia.org/wiki/Kalasan">卡拉桑</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/KalasanAOE2.jpg" alt="">
+                <img height="124px;" src="~assets/KalasanAOE2.jpg" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今印度尼西亞爪哇島，根據卡拉桑銘文，建立於778年，整座的石造廟宇，是一座佛教建築，並不是印度教建築(常常被人誤認)。</p>
@@ -548,7 +548,7 @@
             <div class="col-md-4">
                <h3><span class="we">越南</span><strong><a href="http://www.baohuasi.org/gnews/2013413/2013413280755.html">寧福寺</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Butthapaoe2irl.png" alt="">
+                <img height="124px;" src="~assets/Butthapaoe2irl.png" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今越南順成縣隴江，13世紀建成，供奉千手千眼觀音，越南最有名的寶塔，總共有十幢建築物，遊戲內只有顯示出一幢。</p>
@@ -557,7 +557,7 @@
             <div class="col-md-4">
                <h3><span class="we">印度(拉惹的崛起版本)</span><strong><a href="https://zh.wikipedia.org/wiki/布里哈迪希瓦拉神廟">布里哈迪希瓦拉神廟</a></strong></h3> 
               <div class="wimg">
-                <img height="124px;" src="img/Brihadeeswarartempleaoe2irl.png" alt="">
+                <img height="124px;" src="~assets/Brihadeeswarartempleaoe2irl.png" alt="">
               </div>
               <div class="hrn1"></div>
               <p>位於現今印度泰米爾納德邦，建立於1000年左右，印度最高的神廟，供奉濕婆神，主殿內供奉有印度現存最大的石雕林伽(各位男性，就是你胯下那根)。</p>

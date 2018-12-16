@@ -30,16 +30,16 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/Rattanarchericon.png" alt="">藤甲弓兵:重裝弓箭手，遠防極高。</li>
+                <img class="gg" src="~assets/Rattanarchericon.png" alt="">藤甲弓兵:重裝弓箭手，遠防極高。</li>
               <li>
-                  <img class="gg" src="img/Imperialskirmishericon.png" alt="">帝王戰矛兵</li>
+                  <img class="gg" src="~assets/Imperialskirmishericon.png" alt="">帝王戰矛兵</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">恰特拉傘：矛象伕血量+50。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">恰特拉傘：矛象伕血量+50。</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">紙幣：花800食物200黃金換取盟友與自己各收到500黃金。</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">紙幣：花800食物200黃金換取盟友與自己各收到500黃金。</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -110,9 +110,9 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/Rattanarchericon.png">藤甲弓兵
+                <img class="gg" src="~assets/Rattanarchericon.png">藤甲弓兵
                 <br>
-                  <img class="gg" src="img/Imperialskirmishericon.png">帝王戰矛兵</td>
+                  <img class="gg" src="~assets/Imperialskirmishericon.png">帝王戰矛兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -121,15 +121,15 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">恰特拉傘
+                <img class="gg" src="~assets/CastleAgeUnique.png">恰特拉傘
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">紙幣</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">紙幣</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的陳興道
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%99%B3%E8%88%88%E9%81%93">陳興道</a></b></i>

@@ -59,7 +59,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Joan4map.png" width="" alt="">
+                  <img src="~assets/Joan4map.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -113,7 +113,7 @@
           <h3>開場設定</h3>
           <ul>
             <li><strong>起始時代：</strong>
-              <img class="gg" src="img/Castle-age-reseach.jpg"
+              <img class="gg" src="~assets/Castle-age-reseach.jpg"
               class="gg" alt=""><a href="Imperial_Age.php">城堡時代</a>
             </li>
             <li><strong>起始資源：</strong>200木頭，200食物
@@ -125,25 +125,25 @@
           <h3>起始單位</h3>
           <ul>
             <li>
-              <img class="gg" src="img/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
+              <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
             </li>
             <li>
-              <img class="gg" src="img/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯</a>*2</li>
+              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯</a>*2</li>
             <li>
-              <img class="gg" src="img/KnightIcon.jpg" alt=""> <a href="Knight.php">騎士</a>*6</li>
+              <img class="gg" src="~assets/KnightIcon.jpg" alt=""> <a href="Knight.php">騎士</a>*6</li>
             <li>
-              <img class="gg" src="img/ManAtArmsIcon.jpg" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>*4</li>
+              <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>*4</li>
             <li>
-              <img class="gg" src="img/CrossbowmanIcon.jpg" alt=""> <a href="Crossbowman.php">弩兵</a>*4</li>
+              <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""> <a href="Crossbowman.php">弩兵</a>*4</li>
             <li>
-              <img class="gg" src="img/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a>*2</li>
+              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a>*2</li>
           </ul>
         </div>
         <div class="col-md-4">
           <h3>大地之母</h3>
           <ul>
             <li>
-              <img class="gg" src="img/VillagerMaleIcon.jpg" alt=""> <a href="Villager.php">村民</a>*6</li>
+              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""> <a href="Villager.php">村民</a>*6</li>
           </ul>
         </div>
       </div>
@@ -185,12 +185,12 @@
             <div
             class="col-md-12">
               <div class="col-md-6">
-                <img position="centered" class="imgn" class="hg" width="500" src="img/s4.png" alt="">
+                <img position="centered" class="imgn" class="hg" width="500" src="~assets/s4.png" alt="">
                 <p class="text-center"><em>走小道(斥侯所在處)可以暫時躲過不列顛禁衛軍。</em>
                 </p>
               </div>
               <div class="col-md-6">
-                <img position="centered" class="imgn" class="hg" width="500" src="img/Joan4chalon.png" alt="">
+                <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joan4chalon.png" alt="">
                 <p class="text-center"><em>沙朗的城鎮中心陷落。</em>
                 </p>
               </div>
@@ -199,12 +199,12 @@
         <div
         class="col-md-12">
           <div class="col-md-6">
-            <img class="imgn" class="hg" src="img/Joan4forwardbase.png" alt="">
+            <img class="imgn" class="hg" src="~assets/Joan4forwardbase.png" alt="">
             <p class="text-center"><em>建造軍事建築物和防禦基地。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img class="imgn" class="hg" src="img/Joan4troyes.png" alt="">
+            <img class="imgn" class="hg" src="~assets/Joan4troyes.png" alt="">
             <p class="text-center"><em>特洛伊斯的城鎮中心陷落。</em>
             </p>
           </div>
@@ -213,7 +213,7 @@
       <div
       class="col-md-12">
         <div class="col-md-6">
-          <img position="centered" class="imgn" class="hg" width="500" src="img/Joan4rheims.png"
+          <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joan4rheims.png"
           alt="">
           <p class="text-center"><em>為了勝利攻破城牆破壞城鎮中心!。</em>
           </p>

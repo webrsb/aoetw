@@ -24,8 +24,8 @@
           <div class="n1">下列的單位都是龜甲船單位
             <ul>
               <li>
-                <img class="gg" src="img/TurtleShipIcon.jpg" alt=""><a href="Turtle_Ship.php">龜甲船→</a> 
-                <img class="gg" src="img/TurtleShipIcon.jpg"
+                <img class="gg" src="~assets/TurtleShipIcon.jpg" alt=""><a href="Turtle_Ship.php">龜甲船→</a> 
+                <img class="gg" src="~assets/TurtleShipIcon.jpg"
                 alt=""><a href="Turtle_Ship.php">精銳龜甲船</a>(1)(<a href="Koreans.php">韓國</a>限定)</li>
             </ul>
           </div>
@@ -39,7 +39,7 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/FastFireShipIcon.jpg" alt=""><a href="Fast_Fire_Ship.php">快速火戰船</a> 
+                  <img class="gg" src="~assets/FastFireShipIcon.jpg" alt=""><a href="Fast_Fire_Ship.php">快速火戰船</a> 
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+2攻擊</strong>
@@ -47,7 +47,7 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/FireShipIcon.jpg" width="22" alt=""><a href="Fire_Ship.php">火戰船</a> 
+                  <img class="gg" src="~assets/FireShipIcon.jpg" width="22" alt=""><a href="Fire_Ship.php">火戰船</a> 
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+1攻擊</strong>
@@ -55,7 +55,7 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/FireGalleyIcon.jpg" alt=""><a href="Fire_Galley.php">火蒙衝</a> 
+                  <img class="gg" src="~assets/FireGalleyIcon.jpg" alt=""><a href="Fire_Galley.php">火蒙衝</a> 
                 </li>
               </ul>
             </div>

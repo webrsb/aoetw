@@ -34,7 +34,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/BledaIcon.png" width="80" alt="">
+                  <img src="~assets/BledaIcon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -107,7 +107,7 @@
           <div class="thanks">感謝! 此頁面由Falcon6164協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的匈奴王阿提拉
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89">匈奴王阿提拉</a></strong></i>

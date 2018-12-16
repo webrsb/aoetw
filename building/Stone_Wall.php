@@ -80,12 +80,12 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>:+30% HP，<a href="Chinese.php">中國</a>限定</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>:+30% HP，<a href="Chinese.php">中國</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
@@ -147,7 +147,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Stonewallicon.png" width="45" alt="">
+                  <img src="~assets/Stonewallicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -201,11 +201,11 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="22" alt="">900
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="22" alt="">900
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="22" alt="">1800
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="22" alt="">1800
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="22" alt="">1800</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="22" alt="">1800</td>
             </tr>
             <tr>
               <td class="unit3">近防</td>
@@ -230,13 +230,13 @@
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img class="gg" src="img/Stonewallicon.png" width="22" alt=""><a href="Fortified_Wall.php">垛牆</a>
+                <img class="gg" src="~assets/Stonewallicon.png" width="22" alt=""><a href="Fortified_Wall.php">垛牆</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級成本</td>
               <td class="unit4">
-                <img class="gg" src="img/Fortified-wall-research.jpg" alt="">200食物100木材</td>
+                <img class="gg" src="~assets/Fortified-wall-research.jpg" alt="">200食物100木材</td>
             </tr>
             <tr>
               <td class="unit3">升級時間</td>
@@ -249,14 +249,14 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Stonewallaokaoc.png"><img class="imgn" class="hg" width="180" src="img/Stonewallaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Stonewallaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Stonewallaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有文明的石牆(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Stonewallhd.png"><img class="imgn" class="hg" width="200" src="img/Stonewallhd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Stonewallhd.png"><img class="imgn" class="hg" width="200" src="~assets/Stonewallhd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有文明的石牆(HD擴充資料片)。</em>

@@ -28,7 +28,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/PopeleoIcon.png" width="80" alt="">
+                  <img src="~assets/PopeleoIcon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -93,7 +93,7 @@
           <div class="thanks">感謝! 此頁面由Falcon6164協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的教宗利奧一世
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96">教宗良一世</a></strong></i>

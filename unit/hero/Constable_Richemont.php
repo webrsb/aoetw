@@ -23,7 +23,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="250" src="img/Constablerichemont.png" alt="">
+                <img class="hg" width="250" src="~assets/Constablerichemont.png" alt="">
                 <p><em>戰役編輯器中的康斯塔伯理察蒙。</em>
 
                 </p>
@@ -43,7 +43,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Constablerichemonticon.png" width="80" alt="">
+                  <img src="~assets/Constablerichemonticon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

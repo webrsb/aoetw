@@ -62,7 +62,7 @@
                 "> <ul>  <li>水藍色的AI阿拉里克有個中型衝撞車在地圖北端當作佔位單位。在原版的失落帝國戰役中，玩家開始時有個弓兵作為佔位單位，他會駐守在剛剛提到的中型衝撞車裡面。</li><li>在玩家用運輸船躲避拉文納的時候，偶爾會有所有敵人突然消失，然後玩家直接勝利的情形，這可能起因於一個bug(失落帝國非正式MOD限定)</li><li>失落帝國MOD裡面的大地之母是薩拉森，而HD版本是哥德，這導致了戰船外觀上的差異(薩拉森(中東)-彎刀；哥特人(中歐)-十字架)。</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">西域之君</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/Alaric 3.jpg " width="
+                ">西域之君</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 3.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3

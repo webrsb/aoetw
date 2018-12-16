@@ -22,7 +22,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Budapest_Preview.jpg" width="300" alt="">
+          <img src="~assets/Budapest_Preview.jpg" width="300" alt="">
            <h4>標準布達佩斯地圖</h4> 
         </div>
       </div>

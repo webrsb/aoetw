@@ -20,41 +20,41 @@
          <div class="row">
             <div class="col-md-12">
                <div class="col-md-12">
-                  <p> <span style="text-align: center; color:#dc3545;"><a href="https://discord.gg/ymNuMVg"><img width="100" src="img/discord.png" alt=""> Discord語音聊天群</a>，歡迎各位前來約戰、聊天與發問問題。          
+                  <p> <span style="text-align: center; color:#dc3545;"><a href="https://discord.gg/ymNuMVg"><img width="100" src="~assets/discord.png" alt=""> Discord語音聊天群</a>，歡迎各位前來約戰、聊天與發問問題。          
                </div>
                <div class="col-md-12" style="text-align: right;font-size: 25px;">已有758篇條目</div>
                <div class="row">
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="civ.php">文明</a></h3>
-                     <a href="civ.php"><img width="100" src="img/u1.jpg" alt="..." class="img-circle"></a>            
+                     <a href="civ.php"><img width="100" src="~assets/u1.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="units.php">單位</a></h3>
-                     <a href="units.php"><img width="100" src="img/u2.jpg" alt="..." class="img-circle"></a>            
+                     <a href="units.php"><img width="100" src="~assets/u2.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="tech.php">科技</a></h3>
-                     <a href="tech.php"><img width="100" src="img/u3.jpg" alt="..." class="img-circle"></a>            
+                     <a href="tech.php"><img width="100" src="~assets/u3.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="bulding.php">建築</a></h3>
-                     <a href="bulding.php"><img width="100" src="img/u4.jpg" alt="..." class="img-circle"></a>            
+                     <a href="bulding.php"><img width="100" src="~assets/u4.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="batt.php">戰役</a></h3>
-                     <a href="batt.php"><img width="100" src="img/u5.jpg" alt="..." class="img-circle"></a>            
+                     <a href="batt.php"><img width="100" src="~assets/u5.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="starbatt.php">戰術技巧</a></h3>
-                     <a href="starbatt.php"><img width="100" src="img/u6.jpg" alt="..." class="img-circle"></a>            
+                     <a href="starbatt.php"><img width="100" src="~assets/u6.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="talk.php">討論區</a></h3>
-                     <a href="talk.php"><img width="100" src="img/u7.jpg" alt="..." class="img-circle"></a>            
+                     <a href="talk.php"><img width="100" src="~assets/u7.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
                      <h3><a href="hkbb.php">工作人員</a></h3>
-                     <a href="hkbb.php"><img width="100" src="img/u8.jpg" alt="..." class="img-circle"></a>            
+                     <a href="hkbb.php"><img width="100" src="~assets/u8.jpg" alt="..." class="img-circle"></a>            
                   </div>
                </div>
             </div>
@@ -66,19 +66,19 @@
                   <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
                      <div class="carousel-inner">
                         <div class="carousel-item active">
-                           <img class="d-block" src="img/q1.jpg" alt="歡度佳節">                  
+                           <img class="d-block" src="~assets/q1.jpg" alt="歡度佳節">                  
                            <div class="carousel-caption">                    歡度佳節                  </div>
                         </div>
                         <div class="carousel-item">
-                           <img class="d-block" src="img/q2.jpg" alt="繁華的非洲小鎮">                  
+                           <img class="d-block" src="~assets/q2.jpg" alt="繁華的非洲小鎮">                  
                            <div class="carousel-caption">                    繁華的非洲小鎮                  </div>
                         </div>
                         <div class="carousel-item">
-                           <img class="d-block" src="img/q3.jpg" alt="蘇格蘭鄉村">                  
+                           <img class="d-block" src="~assets/q3.jpg" alt="蘇格蘭鄉村">                  
                            <div class="carousel-caption">                    蘇格蘭鄉村                  </div>
                         </div>
                         <div class="carousel-item">
-                           <img class="d-block" src="img/q4.jpg" alt="維京小鎮(白佑揚提供)">                  
+                           <img class="d-block" src="~assets/q4.jpg" alt="維京小鎮(白佑揚提供)">                  
                            <div class="carousel-caption">                    維京小鎮(白佑揚提供)                  </div>
                         </div>
                      </div>
@@ -118,11 +118,11 @@
                <div class="nw">
                   <h4 style="margin-top:30px;"><strong>遊戲版本</strong></h4>
                   <ul>
-                     <li><img class="gg" src="img/KingsIcon.png" alt=""><a href="aok.php">帝王世紀</a></li>
-                     <li><img class="gg" src="img/ConquerorsIcon.png" alt=""><a href="aoc.php">征服者入侵</a></li>
-                     <li><img class="gg" src="img/ForgottenIcon.png" alt=""><a href="aof.php">失落的帝國</a></li>
-                     <li><img class="gg" src="img/AfricanIcon.png" alt=""><a href="ak.php">非洲王朝</a></li>
-                     <li><img class="gg" src="img/RajaIcon.png" alt=""><a href="aor.php">王者崛起</a></li>
+                     <li><img class="gg" src="~assets/KingsIcon.png" alt=""><a href="aok.php">帝王世紀</a></li>
+                     <li><img class="gg" src="~assets/ConquerorsIcon.png" alt=""><a href="aoc.php">征服者入侵</a></li>
+                     <li><img class="gg" src="~assets/ForgottenIcon.png" alt=""><a href="aof.php">失落的帝國</a></li>
+                     <li><img class="gg" src="~assets/AfricanIcon.png" alt=""><a href="ak.php">非洲王朝</a></li>
+                     <li><img class="gg" src="~assets/RajaIcon.png" alt=""><a href="aor.php">王者崛起</a></li>
                   </ul>
                </div>
             </div>
@@ -157,7 +157,7 @@
                         </ul>
                      </div>
                      <div class="col-md-4">
-                        <img src="img/MansaMusa.jpg" style="float: right;" width="200" alt="">
+                        <img src="~assets/MansaMusa.jpg" style="float: right;" width="200" alt="">
                      </div>
                   </div>
                </div>

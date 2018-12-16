@@ -31,14 +31,14 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/WarElephantIcon.jpg" alt="">戰象:笨重緩慢，但是戰鬥力近乎恐怖的騎兵</li>
+                <img class="gg" src="~assets/WarElephantIcon.jpg" alt="">戰象:笨重緩慢，但是戰鬥力近乎恐怖的騎兵</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">沸油：城堡對於衝撞車系的傷害+9</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">沸油：城堡對於衝撞車系的傷害+9</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">帝王時代：象伕：戰象的移動速度+30%</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">帝王時代：象伕：戰象的移動速度+30%</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -157,7 +157,7 @@
             <div class="col-md-12">  
             <div class="col-md-4">  
                 <a href="img/Wonderpersians.png">
-                <img class="imgn" class="hg" src="img/Wonderpersians.png" alt=""></a>  <p><em>波斯的世界奇觀</em></p>  </div>   </div>
+                <img class="imgn" class="hg" src="~assets/Wonderpersians.png" alt=""></a>  <p><em>波斯的世界奇觀</em></p>  </div>   </div>
               </div>
               
               <h3>歷史</h3>
@@ -171,7 +171,7 @@
               </tr>      
               <tr>       
                   <td colspan="2" ><div class="unititle">       
-                  <img src="img/per.jpg" width="300px;" alt="">       
+                  <img src="~assets/per.jpg" width="300px;" alt="">       
                   <p><em>古波斯帝國廢墟</em></p>       
                   </div>       
                   </td>      
@@ -190,7 +190,7 @@
               </tr>      
               <tr>        
                   <td class="unit3">特殊單位</td>       
-                  <td class="unit4"><img class="gg" src="img/WarElephantIcon.jpg">戰象</td>      
+                  <td class="unit4"><img class="gg" src="~assets/WarElephantIcon.jpg">戰象</td>      
               </tr>      
               <tr>        
                   <td class="unit3">首選戰略</td>       
@@ -198,8 +198,8 @@
               </tr>      
               <tr>        
                   <td class="unit3">特殊技術</td>       
-                  <td class="unit4"><img class="gg" src="img/CastleAgeUnique.png">沸油
-                               <br> <img class="gg" src="img/Unique-tech.jpg">象伕</td>      
+                  <td class="unit4"><img class="gg" src="~assets/CastleAgeUnique.png">沸油
+                               <br> <img class="gg" src="~assets/Unique-tech.jpg">象伕</td>      
               </tr>           
           </table>
           </div>

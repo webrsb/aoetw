@@ -20,57 +20,57 @@
             <h4><strong>單位平衡</strong></h4>削弱
             <ul>
               <li>
-                <img src="img/CondottieroNewIcon.jpg" class="gg" alt="">傭兵將擁有獨特裝甲，將只會減少 火槍單位的反步兵傷害，不包含其他的反步兵傷害</li>
+                <img src="~assets/CondottieroNewIcon.jpg" class="gg" alt="">傭兵將擁有獨特裝甲，將只會減少 火槍單位的反步兵傷害，不包含其他的反步兵傷害</li>
               <li>
-                <img src="img/CondottieroNewIcon.jpg" class="gg" alt="">傭兵減少1穿刺裝甲(原始 1)</li>
+                <img src="~assets/CondottieroNewIcon.jpg" class="gg" alt="">傭兵減少1穿刺裝甲(原始 1)</li>
               <li>
-                <img src="img/CondottieroNewIcon.jpg" class="gg" alt="">傭兵減少1攻擊力(原始 10)</li>
+                <img src="~assets/CondottieroNewIcon.jpg" class="gg" alt="">傭兵減少1攻擊力(原始 10)</li>
               <li>
-                <img src="img/Elitebattleelephanticon.png" class="gg" alt="">精銳矛象伕升級花費從 800F 500G 提升至 1200F 900G</li>
+                <img src="~assets/Elitebattleelephanticon.png" class="gg" alt="">精銳矛象伕升級花費從 800F 500G 提升至 1200F 900G</li>
               <li>
-                <img src="img/Elitebattleelephanticon.png" class="gg" alt="">精銳矛象伕升級時間從 80秒 提升至 100秒</li>
+                <img src="~assets/Elitebattleelephanticon.png" class="gg" alt="">精銳矛象伕升級時間從 80秒 提升至 100秒</li>
               <li>
-                <img class="gg" src="img/Karambitwarrioricon.png" alt="">精銳爪刀勇士 減少 1攻擊力(原始 8)</li>
+                <img class="gg" src="~assets/Karambitwarrioricon.png" alt="">精銳爪刀勇士 減少 1攻擊力(原始 8)</li>
               <li>
-                <img src="img/Elitebattleelephanticon.png" class="gg" alt="">矛象伕(包含精銳)攻擊波及範圍從 0.5 變成 0.4</li>
+                <img src="~assets/Elitebattleelephanticon.png" class="gg" alt="">矛象伕(包含精銳)攻擊波及範圍從 0.5 變成 0.4</li>
               <li>
-                <img class="gg" src="img/CamelArcherIcon.jpg" alt="">駱駝弓騎兵(包含精銳)生命值減少 5 (60/65>55/60)</li>
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="">駱駝弓騎兵(包含精銳)生命值減少 5 (60/65>55/60)</li>
               <li>
-                <img class="gg" src="img/CamelArcherIcon.jpg" alt="">駱駝弓騎兵(包含精銳) -2裝甲 vs. 駱駝 (2 變成 0)</li>
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="">駱駝弓騎兵(包含精銳) -2裝甲 vs. 駱駝 (2 變成 0)</li>
               <li>
-                <img class="gg" src="img/CamelArcherIcon.jpg" alt="">駱駝弓騎兵(包含精銳) -2裝甲 vs. 反馬弓騎兵傷害 (2 變成0)</li>
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="">駱駝弓騎兵(包含精銳) -2裝甲 vs. 反馬弓騎兵傷害 (2 變成0)</li>
               <li>
-                <img class="gg" src="img/CamelArcherIcon.jpg" alt="">駱駝弓騎兵(包含精銳) -2 攻擊 vs. 衝撞車 (2 變成0)</li>
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="">駱駝弓騎兵(包含精銳) -2 攻擊 vs. 衝撞車 (2 變成0)</li>
               <li>
-                <img src="img/CastleAgeUnique.png" class="gg" alt="">象轎從200F 300W，提升至400F 300W</li>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt="">象轎從200F 300W，提升至400F 300W</li>
               <li>
-                <img src="img/CastleAgeUnique.png" class="gg" alt="">象轎+1/+2 裝甲變成 +1/+1</li>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt="">象轎+1/+2 裝甲變成 +1/+1</li>
               <li>
-                <img class="gg" src="img/Arambaiicon.png" alt="">飛鏢騎兵(包含精銳)速度從 1.35 下降至 1.3</li>
+                <img class="gg" src="~assets/Arambaiicon.png" alt="">飛鏢騎兵(包含精銳)速度從 1.35 下降至 1.3</li>
               <li>
-                <img class="gg" src="img/Arambaiicon.png" alt="">飛鏢騎兵(包含精銳)攻擊 -1</li>
+                <img class="gg" src="~assets/Arambaiicon.png" alt="">飛鏢騎兵(包含精銳)攻擊 -1</li>
               <li>
-                <img class="gg" src="img/Arambaiicon.png" alt="">精銳飛鏢騎兵 -2 裝甲 Vs. 反馬弓騎兵傷害 (2 降至 0)</li>
+                <img class="gg" src="~assets/Arambaiicon.png" alt="">精銳飛鏢騎兵 -2 裝甲 Vs. 反馬弓騎兵傷害 (2 降至 0)</li>
               <li>
-                <img class="gg" src="img/EliteEagleWarriorIcon.jpg" alt="">精銳鷹勇士訓練時間從 32秒提升至 35秒</li>
+                <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="">精銳鷹勇士訓練時間從 32秒提升至 35秒</li>
               <li>
-                <img class="gg" src="img/EliteEagleWarriorIcon.jpg" alt="">精銳鷹勇士移動速度從 1.2 下降至 1.15</li>
+                <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="">精銳鷹勇士移動速度從 1.2 下降至 1.15</li>
               <li>
-                <img class="gg" src="img/CamelIcon.jpg" alt="">反駱駝傷害將增加給所有反騎兵單位(除了駱駝)</li>
+                <img class="gg" src="~assets/CamelIcon.jpg" alt="">反駱駝傷害將增加給所有反騎兵單位(除了駱駝)</li>
               <li>
-                <img class="gg" src="img/Goldshaftmining.jpg" alt="">馬利失去礦井採金</li>
+                <img class="gg" src="~assets/Goldshaftmining.jpg" alt="">馬利失去礦井採金</li>
             </ul>增強
             <ul>
               <li>
-                <img src="img/CastleAgeUnique.png" class="gg" alt="">恰特拉傘從 +30HP 提升至 +50HP</li>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt="">恰特拉傘從 +30HP 提升至 +50HP</li>
               <li>
-                <img width="22px" src="img/Farmicon.png" alt="" class="gg">斯拉夫的農田優勢現在會正確的運作在手推車與輪軸技術研發後</li>
+                <img width="22px" src="~assets/Farmicon.png" alt="" class="gg">斯拉夫的農田優勢現在會正確的運作在手推車與輪軸技術研發後</li>
               <li>
-                <img src="img/Elitebattleelephanticon.png" class="gg" alt="">馬來矛象伕從 25% 便宜提升至 30%</li>
+                <img src="~assets/Elitebattleelephanticon.png" class="gg" alt="">馬來矛象伕從 25% 便宜提升至 30%</li>
               <li>
-                <img src="img/Unique-tech.jpg" class="gg" alt="">火繩槍增加了火炮與火炮塔投射速度 從 0 增至 0.2</li>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt="">火繩槍增加了火炮與火炮塔投射速度 從 0 增至 0.2</li>
               <li>
-                <img class="gg" src="img/OrganGunIcon.jpg" alt="">風琴砲增加 +1 散射傷害(從1 增至 2)</li>
+                <img class="gg" src="~assets/OrganGunIcon.jpg" alt="">風琴砲增加 +1 散射傷害(從1 增至 2)</li>
             </ul>
           </div>
           <div class="hrn1"></div>

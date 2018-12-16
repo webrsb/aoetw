@@ -46,7 +46,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/2. Jeanne la Pucelle.jpg" width="300px;" alt="">
+                <img src="~assets/2. Jeanne la Pucelle.jpg" width="300px;" alt="">
                 <p>聖女貞德戰役地圖</p>
               </div>
             </div>
@@ -71,7 +71,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Ingres_coronation_charles_vii.jpg" width="300" alt="">
+                  <img src="~assets/Ingres_coronation_charles_vii.jpg" width="300" alt="">
                   <p><em>本系列主角 聖女貞德</em>
                   </p>
                 </div>
@@ -102,7 +102,7 @@
           <div class="thanks">感謝! 此頁面由裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的聖女貞德
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B7">聖女貞德</a></b></i>

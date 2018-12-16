@@ -29,7 +29,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Khosrauicon.png" width="80" alt="">
+                  <img src="~assets/Khosrauicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

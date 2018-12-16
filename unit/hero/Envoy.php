@@ -27,7 +27,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Envoyicon.png" width="80" alt="">
+                  <img src="~assets/Envoyicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

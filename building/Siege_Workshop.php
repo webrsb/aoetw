@@ -21,16 +21,16 @@
                  <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/BatteringRamIcon.jpg" width="30" alt=""><a href="Battering_Ram.php">衝撞車</a>
+                    <img class="gg" src="~assets/BatteringRamIcon.jpg" width="30" alt=""><a href="Battering_Ram.php">衝撞車</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/MangonelIcon.jpg" width="30" alt=""><a href="Mangonel.php">輕型投石車</a>
+                    <img class="gg" src="~assets/MangonelIcon.jpg" width="30" alt=""><a href="Mangonel.php">輕型投石車</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/ScorpionIcon.jpg" width="30" alt=""><a href="Scorpion.php">弩砲</a>
+                    <img class="gg" src="~assets/ScorpionIcon.jpg" width="30" alt=""><a href="Scorpion.php">弩砲</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Siegetowericon.png" width="30" alt=""><a href="Siege_Tower.php">攻城塔</a>
+                    <img class="gg" src="~assets/Siegetowericon.png" width="30" alt=""><a href="Siege_Tower.php">攻城塔</a>
                   </li>
                 </ul>
               </div>
@@ -40,22 +40,22 @@
                  <h4><a href="Imperial_Age.php"></a>帝王時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/CappedRamIcon.jpg" width="30" alt=""><a href="Capped_Ram.php">裝甲衝撞車</a>
+                    <img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt=""><a href="Capped_Ram.php">裝甲衝撞車</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/SiegeRamIcon.jpg" width="30" alt=""><a href="Siege_Ram.php">重型衝撞車</a>
+                    <img class="gg" src="~assets/SiegeRamIcon.jpg" width="30" alt=""><a href="Siege_Ram.php">重型衝撞車</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/OnagerIcon.jpg" width="30" alt=""><a href="Onager.php">中型投石車</a>
+                    <img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt=""><a href="Onager.php">中型投石車</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/SiegeOnagerIcon.jpg" width="30" alt=""><a href="Siege Onager.php">重型投石車</a>
+                    <img class="gg" src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><a href="Siege Onager.php">重型投石車</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/HeavyScorpionIcon.jpg" width="30" alt=""><a href="Heavy_Scorpion.php">重型弩砲</a>
+                    <img class="gg" src="~assets/HeavyScorpionIcon.jpg" width="30" alt=""><a href="Heavy_Scorpion.php">重型弩砲</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/BombardCannonIcon.jpg" width="30" alt=""><a href="Bombard_Cannon.php">火砲</a>
+                    <img class="gg" src="~assets/BombardCannonIcon.jpg" width="30" alt=""><a href="Bombard_Cannon.php">火砲</a>
                   </li>
                 </ul>
               </div>
@@ -86,36 +86,36 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                 <br>
-                <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
@@ -195,7 +195,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Siegeworkshopicon.png" width="45" alt="">
+                  <img src="~assets/Siegeworkshopicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -250,9 +250,9 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">1800
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">1800
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">2100</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">2100</td>
             </tr>
             <tr>
               <td class="unit3">駐軍</td>
@@ -261,16 +261,16 @@
             <tr>
               <td class="unit3">近防</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
@@ -289,21 +289,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Siegeworkshopaokaoc.png"><img class="imgn" class="hg" width="180" src="img/Siegeworkshopaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Siegeworkshopaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Siegeworkshopaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有攻城器製造所(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Siege_workshops_hd.png"><img class="imgn" class="hg" width="200" src="img/Siege_workshops_hd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Siege_workshops_hd.png"><img class="imgn" class="hg" width="200" src="~assets/Siege_workshops_hd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有攻城器製造所(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Spritesheet_siege_workshop.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_siege_workshop.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Spritesheet_siege_workshop.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_siege_workshop.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>各式攻城器製造所和駐紮單位時的樣子。</em>

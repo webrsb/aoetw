@@ -21,13 +21,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Fight.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Fight.png" alt="">
         <p class="text-center"><em>在索科特拉島上玩家非常靠近，隨時會發生戰鬥。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Town_Center.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Town_Center.png" alt="">
         <p class="text-center"><em>一開局資源都在城鎮旁，玩家要盡快利用這些資源組織軍隊擊敗敵人。巨石外的海洋則完全沒有資源。</em>
 
         </p>
@@ -35,7 +35,7 @@
       </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Socotra.png" width="300" alt="">
+          <img src="~assets/Socotra.png" width="300" alt="">
            <h4>兩人的索科特拉島地圖</h4> 
         </div>
       </div>

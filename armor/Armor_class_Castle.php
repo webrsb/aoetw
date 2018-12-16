@@ -22,7 +22,7 @@
           <div class="n1">
             <ul>
               <li>
-                <img width="25px" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
+                <img width="25px" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
 
               </li>
             </ul>
@@ -36,7 +36,7 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/PetardIcon.jpg" alt=""><a href="Petard.php">爆炸桶</a>
+                  <img class="gg" src="~assets/PetardIcon.jpg" alt=""><a href="Petard.php">爆炸桶</a>
 
                 </li>
               </ul>
@@ -45,8 +45,8 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/TarkanIcon.jpg" alt=""><a href="Tarkan.php">韃靼騎兵</a>→
-                  <img class="gg" src="img/TarkanIcon.jpg"
+                  <img class="gg" src="~assets/TarkanIcon.jpg" alt=""><a href="Tarkan.php">韃靼騎兵</a>→
+                  <img class="gg" src="~assets/TarkanIcon.jpg"
                   alt=""><a href="Tarkan.php">精銳韃靼騎兵</a>(<a href="Huns.php">匈奴</a>限定)</li>
               </ul>
             </div>

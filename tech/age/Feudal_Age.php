@@ -19,25 +19,25 @@
           <div class="n1"><strong>民用建築</strong>
             <ul>
               <li>
-                <img class="gg" src="img/Blacksmithicon.png" width="22" alt=""><a href="Blacksmith.php">兵工廠</a>:研究升級軍事科技。</li>
+                <img class="gg" src="~assets/Blacksmithicon.png" width="22" alt=""><a href="Blacksmith.php">兵工廠</a>:研究升級軍事科技。</li>
               <li>
-                <img class="gg" src="img/Fishtrapicon.png" width="22" alt=""><a href="Fish_Trap.php">漁網</a>:水上食物來源。</li>
+                <img class="gg" src="~assets/Fishtrapicon.png" width="22" alt=""><a href="Fish_Trap.php">漁網</a>:水上食物來源。</li>
               <li>
-                <img class="gg" src="img/Marketicon.png" width="22" alt=""><a href="Market.php">市集</a>：可供貿易和交換資源。</li>
+                <img class="gg" src="~assets/Marketicon.png" width="22" alt=""><a href="Market.php">市集</a>：可供貿易和交換資源。</li>
             </ul><strong>軍事建築</strong>
             <ul>
               <li>
-                <img class="gg" src="img/Archery-range-logo.jpg" width="22" alt=""><a href="Archery_Range.php">射箭場</a>:訓練和升級弓兵單位。</li>
+                <img class="gg" src="~assets/Archery-range-logo.jpg" width="22" alt=""><a href="Archery_Range.php">射箭場</a>:訓練和升級弓兵單位。</li>
               <li>
-                <img class="gg" src="img/Stableicon.png" width="22" alt=""><a href="Stable.php">馬廄</a>：訓練和升級騎兵單位。</li>
+                <img class="gg" src="~assets/Stableicon.png" width="22" alt=""><a href="Stable.php">馬廄</a>：訓練和升級騎兵單位。</li>
             </ul><strong>防禦建築</strong>
             <ul>
               <li>
-                <img class="gg" src="img/Watchtowericon.png" width="22" alt=""><a href="Watch_Tower.php">瞭望箭塔</a>:防禦敵人的塔。</li>
+                <img class="gg" src="~assets/Watchtowericon.png" width="22" alt=""><a href="Watch_Tower.php">瞭望箭塔</a>:防禦敵人的塔。</li>
               <li>
-                <img class="gg" src="img/Stonewallicon.png" width="22" alt=""><a href="Stone_Wall.php">城牆</a>：可抵禦敵人攻擊。</li>
+                <img class="gg" src="~assets/Stonewallicon.png" width="22" alt=""><a href="Stone_Wall.php">城牆</a>：可抵禦敵人攻擊。</li>
               <li>
-                <img class="gg" src="img/Gateicon.png" width="22" alt=""><a href="Gateicon_Gate.php">城門</a>：可與城牆蓋在一起，讓友方單位通過。</li>
+                <img class="gg" src="~assets/Gateicon.png" width="22" alt=""><a href="Gateicon_Gate.php">城門</a>：可與城牆蓋在一起，讓友方單位通過。</li>
             </ul>
           </div>
           <h3>可生產單位</h3>
@@ -46,87 +46,87 @@
             <h4>普通單位</h4><strong>碼頭</strong>
             <ul>
               <li>
-                <img class="gg" src="img/TradeCogIcon.jpg" width="22" alt=""><a href="Trade_Cog.php">貿易商旅</a>:海上貿易單位。</li>
+                <img class="gg" src="~assets/TradeCogIcon.jpg" width="22" alt=""><a href="Trade_Cog.php">貿易商旅</a>:海上貿易單位。</li>
             </ul><strong>市集</strong>
             <ul>
               <li>
-                <img class="gg" src="img/TradeCartIcon.jpg" width="22" alt=""><a href="Trade_Cart.php">貿易馬車</a>:路上貿易單位。</li>
+                <img class="gg" src="~assets/TradeCartIcon.jpg" width="22" alt=""><a href="Trade_Cart.php">貿易馬車</a>:路上貿易單位。</li>
             </ul>
             <h4>軍事單位</h4><strong>軍營</strong>
             <ul>
               <li>
-                <img class="gg" src="img/ManAtArmsIcon.jpg" width="22" alt=""><a href="Man-at-Arms.php">裝甲步兵</a>：劍兵單位。</li>
+                <img class="gg" src="~assets/ManAtArmsIcon.jpg" width="22" alt=""><a href="Man-at-Arms.php">裝甲步兵</a>：劍兵單位。</li>
               <li>
-                <img class="gg" src="img/SpearmanIcon.jpg" width="22" alt=""><a href="Spearman.php">長槍兵</a>：反騎兵單位。</li>
+                <img class="gg" src="~assets/SpearmanIcon.jpg" width="22" alt=""><a href="Spearman.php">長槍兵</a>：反騎兵單位。</li>
               <li>
-                <img class="gg" src="img/EagleScoutIcon.jpg" width="22" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>：偵查單位。</li>
+                <img class="gg" src="~assets/EagleScoutIcon.jpg" width="22" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>：偵查單位。</li>
             </ul><strong>射箭場</strong>
             <ul>
               <li>
-                <img class="gg" src="img/ArcherIcon.jpg" width="22" alt=""><a href="Archer.php">弓兵</a>：弓兵單位。</li>
+                <img class="gg" src="~assets/ArcherIcon.jpg" width="22" alt=""><a href="Archer.php">弓兵</a>：弓兵單位。</li>
               <li>
-                <img class="gg" src="img/SkirmisherIcon.jpg" width="22" alt=""><a href="Skirmisher.php">矛兵</a>：反弓兵單位。</li>
+                <img class="gg" src="~assets/SkirmisherIcon.jpg" width="22" alt=""><a href="Skirmisher.php">矛兵</a>：反弓兵單位。</li>
             </ul><strong>馬廄</strong>
             <ul>
               <li>
-                <img class="gg" src="img/ScoutCavalryIcon.jpg" width="22" alt=""><a href="Scout_Cavalry.php">斥侯騎兵</a>：騎馬偵查單位</li>
+                <img class="gg" src="~assets/ScoutCavalryIcon.jpg" width="22" alt=""><a href="Scout_Cavalry.php">斥侯騎兵</a>：騎馬偵查單位</li>
             </ul><strong>碼頭</strong>
             <ul>
               <li>
-                <img class="gg" src="img/Galley.jpg" width="22" alt=""><a href="Galley.php">戰船</a>：基本戰船。</li>
+                <img class="gg" src="~assets/Galley.jpg" width="22" alt=""><a href="Galley.php">戰船</a>：基本戰船。</li>
               <li>
-                <img class="gg" src="img/FireGalleyIcon.jpg" width="22" alt=""><a href="Fire_Galley.php">火蒙衝</a>：反戰船單位。</li>
+                <img class="gg" src="~assets/FireGalleyIcon.jpg" width="22" alt=""><a href="Fire_Galley.php">火蒙衝</a>：反戰船單位。</li>
               <li>
-                <img class="gg" src="img/DemoRaftIcon.jpg" width="22" alt=""><a href="Demolition_Raft.php">自爆筏</a>：反火戰船的自殺單位。</li>
+                <img class="gg" src="~assets/DemoRaftIcon.jpg" width="22" alt=""><a href="Demolition_Raft.php">自爆筏</a>：反火戰船的自殺單位。</li>
             </ul>
             <h3>可研發科技</h3>
             <div class="hrn1"></div>
             <div class="n1"><strong>城鎮中心</strong>
               <ul>
                 <li>
-                  <img class="gg" src="img/Townwatch.jpg" width="22" alt=""><a href="Town_Watch.php">城鎮瞭望</a>：建築視野+4。</li>
+                  <img class="gg" src="~assets/Townwatch.jpg" width="22" alt=""><a href="Town_Watch.php">城鎮瞭望</a>：建築視野+4。</li>
                 <li>
-                  <img class="gg" src="img/Wheelbarrow.jpg" width="22" alt=""><a href="Wheelbarrow.php">獨輪推車</a>：村民更有效率村民速度快10%，每趟可攜帶資源量+25%。</li>
+                  <img class="gg" src="~assets/Wheelbarrow.jpg" width="22" alt=""><a href="Wheelbarrow.php">獨輪推車</a>：村民更有效率村民速度快10%，每趟可攜帶資源量+25%。</li>
               </ul><strong>磨坊</strong>
               <ul>
                 <li>
-                  <img class="gg" src="img/Horsecollar.jpg" width="22" alt=""><a href="Horse_Collar.php">馬軛</a>：農田產量+75。</li>
+                  <img class="gg" src="~assets/Horsecollar.jpg" width="22" alt=""><a href="Horse_Collar.php">馬軛</a>：農田產量+75。</li>
               </ul><strong>伐木場</strong>
               <ul>
                 <li>
-                  <img class="gg" src="img/Doublebitaxe.jpg" width="22" alt=""><a href="Double-Bit_Axe.php">雙刃斧</a>：村民伐木速度快20%。</li>
+                  <img class="gg" src="~assets/Doublebitaxe.jpg" width="22" alt=""><a href="Double-Bit_Axe.php">雙刃斧</a>：村民伐木速度快20%。</li>
               </ul><strong>採礦營地</strong>
               <ul>
                 <li>
-                  <img class="gg" src="img/Stonemining.jpg" width="22" alt=""><a href="Stone_Mining.php">採石技術</a>：村民採石速度快15%。</li>
+                  <img class="gg" src="~assets/Stonemining.jpg" width="22" alt=""><a href="Stone_Mining.php">採石技術</a>：村民採石速度快15%。</li>
                 <li>
-                  <img class="gg" src="img/Goldmining.jpg" width="22" alt=""><a href="Gold_Mining.php">採金技術</a>：村民採金速度快15%。</li>
+                  <img class="gg" src="~assets/Goldmining.jpg" width="22" alt=""><a href="Gold_Mining.php">採金技術</a>：村民採金速度快15%。</li>
               </ul><strong>市集</strong>
               <ul>
                 <li>
-                  <img class="gg" src="img/Cartography.jpg" width="22" alt=""><a href="Cartography.php">製圖法</a>：可看到所有同盟的視野。</li>
+                  <img class="gg" src="~assets/Cartography.jpg" width="22" alt=""><a href="Cartography.php">製圖法</a>：可看到所有同盟的視野。</li>
                 <li>
-                  <img class="gg" src="img/Coinage.jpg" width="22" alt=""><a href="Coinage.php">鑄幣術</a>：進貢費用減少至20%。</li>
+                  <img class="gg" src="~assets/Coinage.jpg" width="22" alt=""><a href="Coinage.php">鑄幣術</a>：進貢費用減少至20%。</li>
               </ul> <strong>軍營</strong>
               <ul>
                 <li>
-                  <img class="gg" src="img/Tracking.jpg" width="22" alt=""><a href="Tracking.php">追蹤技術</a>：步兵+2視野。</li>
+                  <img class="gg" src="~assets/Tracking.jpg" width="22" alt=""><a href="Tracking.php">追蹤技術</a>：步兵+2視野。</li>
               </ul> <strong>馬廄</strong>
               <ul>
                 <li>
-                  <img class="gg" src="img/Bloodlines.png" width="22" alt=""><a href="Bloodlines.php">品種</a>：騎兵部隊生命值+20。</li>
+                  <img class="gg" src="~assets/Bloodlines.png" width="22" alt=""><a href="Bloodlines.php">品種</a>：騎兵部隊生命值+20。</li>
               </ul><strong>兵工廠</strong>
               <ul>
                 <li>
-                  <img class="gg" src="img/Scalemailarmor.jpg" width="22" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>：步兵護甲+1/+1。</li>
+                  <img class="gg" src="~assets/Scalemailarmor.jpg" width="22" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>：步兵護甲+1/+1。</li>
                 <li>
-                  <img class="gg" src="img/Fletching.jpg" width="22" alt=""><a href="Fletching.php">箭羽</a>：弓兵、馬騎弓兵、戰船、城堡和箭塔的攻擊+1、範圍+1。</li>
+                  <img class="gg" src="~assets/Fletching.jpg" width="22" alt=""><a href="Fletching.php">箭羽</a>：弓兵、馬騎弓兵、戰船、城堡和箭塔的攻擊+1、範圍+1。</li>
                 <li>
-                  <img class="gg" src="img/Paddedarcherarmor.jpg" width="22" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>：弓兵和馬騎弓兵護甲+1/+1。</li>
+                  <img class="gg" src="~assets/Paddedarcherarmor.jpg" width="22" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>：弓兵和馬騎弓兵護甲+1/+1。</li>
                 <li>
-                  <img class="gg" src="img/Forging.jpg" width="22" alt=""><a href="Forging.php">鍛造</a>:步兵騎兵攻擊+1。</li>
+                  <img class="gg" src="~assets/Forging.jpg" width="22" alt=""><a href="Forging.php">鍛造</a>:步兵騎兵攻擊+1。</li>
                 <li>
-                  <img class="gg" src="img/Scalebardingarmor.jpg" width="22" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>：騎兵護甲+1/+1。</li>
+                  <img class="gg" src="~assets/Scalebardingarmor.jpg" width="22" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>：騎兵護甲+1/+1。</li>
               </ul><strong></strong>
               <h3>文明加成</h3>
               <div class="hrn1"></div>
@@ -166,7 +166,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Feudal-age-reseach.jpg" width="45" alt="">
+                  <img src="~assets/Feudal-age-reseach.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -178,34 +178,34 @@
             <tr>
               <td class="unit3">上一個</td>
               <td class="unit4">
-                <img class="gg" src="img/Dark-age-logo-small.jpg" width="22" alt=""><a href="Dark_Age.php">黑暗時代</a>
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="22" alt=""><a href="Dark_Age.php">黑暗時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">下一個</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="22" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="22" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">所需建築</td>
               <td class="unit4">下面任兩項：
                 <br>
-                <img class="gg" src="img/Barracks-logo.jpg" width="22" alt=""><a href="Barracks.php">軍營</a>
+                <img class="gg" src="~assets/Barracks-logo.jpg" width="22" alt=""><a href="Barracks.php">軍營</a>
                 <br>
-                <img class="gg" src="img/Millicon.png" width="22" alt=""><a href="Mill.php">磨坊</a>
+                <img class="gg" src="~assets/Millicon.png" width="22" alt=""><a href="Mill.php">磨坊</a>
                 <br>
-                <img class="gg" src="img/Lumbercampicon.png" width="22" alt=""><a href="Lumber_Camp.php">伐木場</a>
+                <img class="gg" src="~assets/Lumbercampicon.png" width="22" alt=""><a href="Lumber_Camp.php">伐木場</a>
                 <br>
-                <img class="gg" src="img/Miningcampicon.png" width="22" alt=""><a href="Mining_Camp.php">採礦營地</a>
+                <img class="gg" src="~assets/Miningcampicon.png" width="22" alt=""><a href="Mining_Camp.php">採礦營地</a>
                 <br>
-                <img class="gg" src="img/Dockicon.png" width="22" alt=""><a href="Dock.php">碼頭</a> 
+                <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><a href="Dock.php">碼頭</a> 
               </td>
             </tr>
             <tr>
               <td class="unit3">研究於</td>
               <td class="unit4">
-                <img class="gg" src="img/Towncentericon.png" width="22" alt=""><a href="Town_Watch.php">城鎮中心</a>
+                <img class="gg" src="~assets/Towncentericon.png" width="22" alt=""><a href="Town_Watch.php">城鎮中心</a>
               </td>
             </tr>
             <tr>
@@ -229,7 +229,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Civilizationfeudalage.png"><img class="imgn" class="hg" src="img/Civilizationfeudalage.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Civilizationfeudalage.png"><img class="imgn" class="hg" src="~assets/Civilizationfeudalage.png" alt=""></a> 
                 <p><em>文明在封建時代的樣子。</em>
                 </p>
               </div>

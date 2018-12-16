@@ -34,28 +34,28 @@
                    <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/MonkIcon.jpg" width="30" alt=""><a href="Monk.php">僧侶</a>
+                      <img class="gg" src="~assets/MonkIcon.jpg" width="30" alt=""><a href="Monk.php">僧侶</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/MissionaryIcon.jpg" width="30" alt=""><a href="Missionary.php">傳教士</a>
+                      <img class="gg" src="~assets/MissionaryIcon.jpg" width="30" alt=""><a href="Missionary.php">傳教士</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Redemption.jpg" width="30" alt=""><a href="Redemption.php">信仰救贖</a>
+                      <img class="gg" src="~assets/Redemption.jpg" width="30" alt=""><a href="Redemption.php">信仰救贖</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Atonement.jpg" width="30" alt=""><a href="Atonement.php">贖罪</a>
+                      <img class="gg" src="~assets/Atonement.jpg" width="30" alt=""><a href="Atonement.php">贖罪</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>
+                      <img class="gg" src="~assets/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a>
+                      <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Sanctity.jpg" width="30" alt=""><a href="Sanctity.php">聖潔虔誠</a>
+                      <img class="gg" src="~assets/Sanctity.jpg" width="30" alt=""><a href="Sanctity.php">聖潔虔誠</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Fervor.jpg" width="30" alt=""><a href="Fervor.php">宗教狂熱</a>
+                      <img class="gg" src="~assets/Fervor.jpg" width="30" alt=""><a href="Fervor.php">宗教狂熱</a>
                     </li>
                   </ul>
                 </div>
@@ -65,16 +65,16 @@
                    <h4><a href="Imperial_Age.php"></a>帝王時代</h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                      <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Illumination.jpg" width="30" alt=""><a href="Illumination.php">啟發教化</a>
+                      <img class="gg" src="~assets/Illumination.jpg" width="30" alt=""><a href="Illumination.php">啟發教化</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Blockprinting.jpg" width="30" alt=""><a href="Block_Printing.php">雕版印刷術</a>
+                      <img class="gg" src="~assets/Blockprinting.jpg" width="30" alt=""><a href="Block_Printing.php">雕版印刷術</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Theocracy.png" width="30" alt=""><a href="Theocracy.php">神權統治</a>
+                      <img class="gg" src="~assets/Theocracy.png" width="30" alt=""><a href="Theocracy.php">神權統治</a>
                     </li>
                   </ul>
                 </div>
@@ -105,36 +105,36 @@
               <tr>
                 <td class="tta1" style="width:20%">生命值</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                  <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                   <br>
-                  <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                  <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:20%">護甲</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                  <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                   <br>
-                  <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                  <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
               </tr>
               <tr>
                 <td class="tta1">視野</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                  <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                   <br>
-                  <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                  <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
               </tr>
               <tr>
                 <td class="tta1">招降抵抗</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                   <br>
-                  <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">建造速率</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                  <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
               </tr>
             </table>
             <h3>文明加成</h3>
@@ -173,14 +173,14 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-6"> <a href="img/Monasteryaokaoc.png"><img class="imgn" class="hg" width="200" src="img/Monasteryaokaoc.png" alt=""></a> 
+                <div class="col-md-6"> <a href="img/Monasteryaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Monasteryaokaoc.png" alt=""></a> 
                   <div
                   class="lightbox-caption" style="width:220px" ;>
                     <p><em>所有文明的修道院(帝王世紀和征服者入侵資料片)。</em>
                     </p>
                 </div>
               </div>
-              <div class="col-md-6"> <a href="img/Monasteries.png"><img class="imgn" class="hg" width="200" src="img/Monasteries.png" alt=""></a> 
+              <div class="col-md-6"> <a href="img/Monasteries.png"><img class="imgn" class="hg" width="200" src="~assets/Monasteries.png" alt=""></a> 
                 <div
                 class="lightbox-caption" style="width:185px" ;>
                   <p><em>所有文明的修道院(HD擴充資料片)。</em>
@@ -189,14 +189,14 @@
             </div>
           </div>
           <div class="col-md-12">
-            <div class="col-md-6"> <a href="img/Mud_mosque.jpg"><img class="imgn" class="hg" width="200" src="img/Mud_mosque.jpg" alt=""></a> 
+            <div class="col-md-6"> <a href="img/Mud_mosque.jpg"><img class="imgn" class="hg" width="200" src="~assets/Mud_mosque.jpg" alt=""></a> 
               <div
               class="lightbox-caption" style="width:185px" ;>
                 <p><em>真實生活中的非洲修道院:Larabanga清真寺。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-6"> <a href="img/Konark_sun_temple.jpg"><img class="imgn" class="hg" width="200" src="img/Konark_sun_temple.jpg" alt=""></a> 
+          <div class="col-md-6"> <a href="img/Konark_sun_temple.jpg"><img class="imgn" class="hg" width="200" src="~assets/Konark_sun_temple.jpg" alt=""></a> 
             <div
             class="lightbox-caption" style="width:185px" ;>
               <p><em>科納克太陽神殿，遊戲中印度修道院的參考。</em>
@@ -218,7 +218,7 @@
         <tr>
           <td colspan="2">
             <div class="unititle">
-              <img src="img/Monasteryicon.png" width="45" alt="">
+              <img src="~assets/Monasteryicon.png" width="45" alt="">
             </div>
           </td>
         </tr>
@@ -285,16 +285,16 @@
         <tr>
           <td class="unit3">近防</td>
           <td class="unit4">
-            <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+            <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
             <br>
-            <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+            <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
         </tr>
         <tr>
           <td class="unit3">遠防</td>
           <td class="unit4">
-            <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+            <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
             <br>
-            <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+            <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
         </tr>
         <tr>
           <td class="unit3">護甲分類</td>

@@ -28,7 +28,7 @@
 
     
     <ul>
-      <li>起始時代:<img src="img/Feudal-age-reseach.jpg" class="gg" alt="">封建時代</li>
+      <li>起始時代:<img src="~assets/Feudal-age-reseach.jpg" class="gg" alt="">封建時代</li>
       <li>起始資源:木頭:0，食物:0，黃金:0，石頭:0</li>
       <li>人口上限:/</li>
       <li>開場擁有單位:
@@ -191,7 +191,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Bari.3.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Bari.3.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>

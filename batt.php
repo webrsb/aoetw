@@ -25,7 +25,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a1.jpg" width="45" alt="">
+                      <img src="~assets/a1.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -84,7 +84,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a2.jpg" width="45" alt="">
+                      <img src="~assets/a2.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -138,7 +138,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a5.jpg" width="45" alt="">
+                      <img src="~assets/a5.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -192,7 +192,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a4.jpg" width="45" alt="">
+                      <img src="~assets/a4.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -246,7 +246,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a3.jpg" width="45" alt="">
+                      <img src="~assets/a3.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -303,7 +303,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a6.jpg" width="45" alt="">
+                      <img src="~assets/a6.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -357,7 +357,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a7.jpg" width="45" alt="">
+                      <img src="~assets/a7.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -411,7 +411,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a8.jpg" width="45" alt="">
+                      <img src="~assets/a8.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -465,7 +465,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a9.jpg" width="45" alt="">
+                      <img src="~assets/a9.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -534,7 +534,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a10.jpg" width="45" alt="">
+                      <img src="~assets/a10.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -576,7 +576,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a11.jpg" width="45" alt="">
+                      <img src="~assets/a11.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -624,7 +624,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a12.jpg" width="45" alt="">
+                      <img src="~assets/a12.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -660,7 +660,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a13.jpg" width="45" alt="">
+                      <img src="~assets/a13.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -708,7 +708,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a14.jpg" width="45" alt="">
+                      <img src="~assets/a14.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -750,7 +750,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a15.jpg" width="45" alt="">
+                      <img src="~assets/a15.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -792,7 +792,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a16.jpg" width="45" alt="">
+                      <img src="~assets/a16.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -867,7 +867,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a17.jpg" width="45" alt="">
+                      <img src="~assets/a17.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -915,7 +915,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a18.jpg" width="45" alt="">
+                      <img src="~assets/a18.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -963,7 +963,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a19.jpg" width="45" alt="">
+                      <img src="~assets/a19.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -1011,7 +1011,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a20.jpg" width="45" alt="">
+                      <img src="~assets/a20.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -1062,7 +1062,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a21.jpg" width="45" alt="">
+                      <img src="~assets/a21.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -1110,7 +1110,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a22.jpg" width="45" alt="">
+                      <img src="~assets/a22.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -1158,7 +1158,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a23.jpg" width="45" alt="">
+                      <img src="~assets/a23.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>
@@ -1206,7 +1206,7 @@
                 <tr>
                   <td>
                     <div class="unititle">
-                      <img src="img/a24.jpg" width="45" alt="">
+                      <img src="~assets/a24.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>

@@ -23,10 +23,10 @@
           <div class="n1">
             <ul>
               <div class="unititle">
-                <img src="img/Royal Janissary.png" width="250" alt="">
+                <img src="~assets/Royal Janissary.png" width="250" alt="">
                 <p>火槍兵與皇家衛兵
                   <div class="unititle">
-                    <img src="img/KKK_night.jpg" width="250" alt="">
+                    <img src="~assets/KKK_night.jpg" width="250" alt="">
                 </p>KU Klux Klan(3K黨)</ul>
             </div>
             <div class="hrn1"></div>
@@ -43,7 +43,7 @@
                 <tr>
                   <td colspan="2">
                     <div class="unititle">
-                      <img src="img/Royal Janissary.jpg" width="45" alt="">
+                      <img src="~assets/Royal Janissary.jpg" width="45" alt="">
                     </div>
                   </td>
                 </tr>

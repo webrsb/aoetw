@@ -31,7 +31,7 @@
              <h3><em><a href="aok.php">帝王世紀</a></em></h3> 
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/LongbowmanIcon.jpg" alt=""><a href="Longbowman.php">長弓兵</a>
+                <img class="gg" src="~assets/LongbowmanIcon.jpg" alt=""><a href="Longbowman.php">長弓兵</a>
               </td>
               <td class="tunitc4"><a href="Britons.php">不列顛</a>
               </td>
@@ -39,7 +39,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>
+                <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>
               </td>
               <td class="tunitc4"><a href="Byzantines.php">拜占庭</a>
               </td>
@@ -47,7 +47,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
+                <img class="gg" src="~assets/WBRSK.jpg" alt=""><a href="Woad_Raider.php">菘藍武士</a>
               </td>
               <td class="tunitc4"><a href="Celts.php">賽爾特</a>
               </td>
@@ -55,7 +55,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/ChuKoNuIcon.jpg" alt=""><a href="Chu_Ko_Nu.php">連弩兵</a>
+                <img class="gg" src="~assets/ChuKoNuIcon.jpg" alt=""><a href="Chu_Ko_Nu.php">連弩兵</a>
               </td>
               <td class="tunitc4"><a href="Chinese.php">中國</a>
               </td>
@@ -63,7 +63,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>
+                <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>
               </td>
               <td class="tunitc4"><a href="Franks.php">法蘭克</a>
               </td>
@@ -71,7 +71,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">哥德衛隊</a>
+                <img class="gg" src="~assets/HuskarlIcon.jpg" alt=""><a href="Huskarl.php">哥德衛隊</a>
               </td>
               <td class="tunitc4"><a href="Goths.php">哥德</a>
               </td>
@@ -79,7 +79,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>
+                <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>
               </td>
               <td class="tunitc4"><a href="Japanese.php">日本</a>
               </td>
@@ -87,7 +87,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/MangudaiIcon.jpg" alt=""><a href="Mangudai.php">蒙古突騎</a>
+                <img class="gg" src="~assets/MangudaiIcon.jpg" alt=""><a href="Mangudai.php">蒙古突騎</a>
               </td>
               <td class="tunitc4"><a href="Mongols.php">蒙古</a>
               </td>
@@ -95,7 +95,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/WarElephantIcon.jpg" alt=""><a href="War_Elephant.php">戰象</a>
+                <img class="gg" src="~assets/WarElephantIcon.jpg" alt=""><a href="War_Elephant.php">戰象</a>
               </td>
               <td class="tunitc4"><a href="Persians.php">波斯</a>
               </td>
@@ -103,7 +103,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>
+                <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>
               </td>
               <td class="tunitc4"><a href="Saracens.php">薩拉森</a>
               </td>
@@ -111,7 +111,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Crusade_avatar.png" alt=""><a href="Teutonic_Knight.php">條頓武士</a>
+                <img class="gg" src="~assets/Crusade_avatar.png" alt=""><a href="Teutonic_Knight.php">條頓武士</a>
               </td>
               <td class="tunitc4"><a href="Teutons.php">條頓</a>
               </td>
@@ -119,7 +119,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/JanissaryIcon.jpg" alt=""><a href="Janissary.php">土耳其火槍兵</a>
+                <img class="gg" src="~assets/JanissaryIcon.jpg" alt=""><a href="Janissary.php">土耳其火槍兵</a>
               </td>
               <td class="tunitc4"><a href="Turks.php">土耳其</a>
               </td>
@@ -127,7 +127,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>
+                <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>
               </td>
               <td class="tunitc4"><a href="Vikings.php">維京</a>
               </td>
@@ -135,7 +135,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/LongboatIcon.jpg" alt=""><a href="Caravel.php">維京大戰船</a>
+                <img class="gg" src="~assets/LongboatIcon.jpg" alt=""><a href="Caravel.php">維京大戰船</a>
               </td>
               <td class="tunitc4"><a href="Vikings.php">維京</a>
               </td>
@@ -155,7 +155,7 @@
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3> 
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">豹勇士</a>
+                <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">豹勇士</a>
               </td>
               <td class="tunitc4"><a href="Aztecs.php">阿茲特克</a>
               </td>
@@ -163,7 +163,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/TarkanIcon.jpg" alt=""><a href="Tarkan.php">韃靼騎兵</a>
+                <img class="gg" src="~assets/TarkanIcon.jpg" alt=""><a href="Tarkan.php">韃靼騎兵</a>
               </td>
               <td class="tunitc4"><a href="Huns.php">匈奴</a>
               </td>
@@ -171,7 +171,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/WarWagonIcon.jpg" alt=""><a href="War_Wagon.php">馬戰車</a>
+                <img class="gg" src="~assets/WarWagonIcon.jpg" alt=""><a href="War_Wagon.php">馬戰車</a>
               </td>
               <td class="tunitc4"><a href="Koreans.php">韓國</a>
               </td>
@@ -179,7 +179,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/TurtleShipIcon.jpg" alt=""><a href="Turtle_Ship.php">龜甲船</a>
+                <img class="gg" src="~assets/TurtleShipIcon.jpg" alt=""><a href="Turtle_Ship.php">龜甲船</a>
               </td>
               <td class="tunitc4"><a href="Koreans.php">韓國</a>
               </td>
@@ -187,7 +187,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">羽毛箭射手</a>
+                <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">羽毛箭射手</a>
               </td>
               <td class="tunitc4"><a href="Mayans.php">馬雅</a>
               </td>
@@ -195,7 +195,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/ConquistadorIcon.jpg" alt=""><a href="Conquistador.php">征服者</a>
+                <img class="gg" src="~assets/ConquistadorIcon.jpg" alt=""><a href="Conquistador.php">征服者</a>
               </td>
               <td class="tunitc4"><a href="Spanish.php">西班牙</a>
               </td>
@@ -203,7 +203,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/MissionaryIcon.jpg" alt=""><a href="Missionary.php">傳教士</a>
+                <img class="gg" src="~assets/MissionaryIcon.jpg" alt=""><a href="Missionary.php">傳教士</a>
               </td>
               <td class="tunitc4"><a href="Spanish.php">西班牙</a>
               </td>
@@ -223,7 +223,7 @@
              <h3><em><a href="aof.php">失落的帝國</a></em></h3> 
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>
+                <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>
               </td>
               <td class="tunitc4"><a href="Incas.php">印加</a>
               </td>
@@ -231,7 +231,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>
+                <img class="gg" src="~assets/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>
               </td>
               <td class="tunitc4"><a href="Incas.php">印加</a>
               </td>
@@ -239,7 +239,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>
+                <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>
               </td>
               <td class="tunitc4"><a href="Indians.php">印度</a>
               </td>
@@ -247,7 +247,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/ImperialCamelIcon.jpg" alt=""><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
+                <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt=""><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
               </td>
               <td class="tunitc4"><a href="Indians.php">印度</a>
               </td>
@@ -255,7 +255,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>
+                <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>
               </td>
               <td class="tunitc4"><a href="Italians.php">義大利</a>
               </td>
@@ -263,7 +263,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""><a href="Condottiero.php">傭兵</a>
+                <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""><a href="Condottiero.php">傭兵</a>
               </td>
               <td class="tunitc4"><a href="Italians.php">義大利</a>
               </td>
@@ -271,7 +271,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Magyar_Huszar_icon.jpg" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>
+                <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>
               </td>
               <td class="tunitc4"><a href="Magyars.php">馬扎爾</a>
               </td>
@@ -279,7 +279,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/New_Boyar.png" alt=""><a href="Boyar.php">貴族鐵騎</a>
+                <img class="gg" src="~assets/New_Boyar.png" alt=""><a href="Boyar.php">貴族鐵騎</a>
               </td>
               <td class="tunitc4"><a href="Slavs.php">斯拉夫</a>
               </td>
@@ -295,7 +295,7 @@
              <h3><em><a href="ak.php">非洲王朝</a></em></h3> 
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/CamelArcherIcon.jpg" alt=""><a href="Camel_Archer.php">駱駝弓騎兵</a>
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" alt=""><a href="Camel_Archer.php">駱駝弓騎兵</a>
               </td>
               <td class="tunitc4"><a href="Berbers.php">柏柏</a>
               </td>
@@ -303,7 +303,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/GenitourIcon.jpg" alt=""><a href="GenitourIcon.php">標槍騎兵</a>
+                <img class="gg" src="~assets/GenitourIcon.jpg" alt=""><a href="GenitourIcon.php">標槍騎兵</a>
               </td>
               <td class="tunitc4"><a href="Berbers.php">柏柏</a>
               </td>
@@ -311,7 +311,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>
+                <img class="gg" src="~assets/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>
               </td>
               <td class="tunitc4"><a href="Ethiopians.php">衣索比亞</a>
               </td>
@@ -319,7 +319,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>
+                <img class="gg" src="~assets/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>
               </td>
               <td class="tunitc4"><a href="Malians.php">馬利</a>
               </td>
@@ -327,7 +327,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">手風琴砲</a>
+                <img class="gg" src="~assets/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">手風琴砲</a>
               </td>
               <td class="tunitc4"><a href="Portuguese.php">葡萄牙</a>
               </td>
@@ -335,7 +335,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>
+                <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>
               </td>
               <td class="tunitc4"><a href="Portuguese.php">葡萄牙</a>
               </td>
@@ -351,7 +351,7 @@
              <h3><em><a href="aor.php">王者崛起</a></em></h3> 
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Arambaiicon.png" alt=""><a href="Arambai.php">飛鏢騎兵</a>
+                <img class="gg" src="~assets/Arambaiicon.png" alt=""><a href="Arambai.php">飛鏢騎兵</a>
               </td>
               <td class="tunitc4"><a href="Burmese.php">緬甸</a>
               </td>
@@ -359,7 +359,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Ballistaelephanticon.png" alt=""><a href="Ballista_Elephant.php">弩砲象</a>
+                <img class="gg" src="~assets/Ballistaelephanticon.png" alt=""><a href="Ballista_Elephant.php">弩砲象</a>
               </td>
               <td class="tunitc4"><a href="Khmer.php">高棉</a>
               </td>
@@ -367,7 +367,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">爪刀勇士</a>
+                <img class="gg" src="~assets/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">爪刀勇士</a>
               </td>
               <td class="tunitc4"><a href="Malay.php">馬來</a>
               </td>
@@ -375,7 +375,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Rattanarchericon.png" alt=""><a href="Rattan_Archer.php">藤甲弓兵</a>
+                <img class="gg" src="~assets/Rattanarchericon.png" alt=""><a href="Rattan_Archer.php">藤甲弓兵</a>
               </td>
               <td class="tunitc4"><a href="Vietnamese.php">越南</a>
               </td>
@@ -383,7 +383,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Imperialskirmishericon.png" alt=""><a href="Imperial_Skirmisher.php">帝王戰茅兵</a>
+                <img class="gg" src="~assets/Imperialskirmishericon.png" alt=""><a href="Imperial_Skirmisher.php">帝王戰茅兵</a>
               </td>
               <td class="tunitc4"><a href="Vietnamese.php">越南</a>
               </td>
@@ -396,21 +396,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Uniqueaok.png"><img class="imgn" class="hg" width="180" src="img/Uniqueaok.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Uniqueaok.png"><img class="imgn" class="hg" width="180" src="~assets/Uniqueaok.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有《世紀帝國 II HD: 帝王世紀》的特殊單位。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Uniqueaoc.png"><img class="imgn" class="hg" width="200" src="img/Uniqueaoc.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Uniqueaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Uniqueaoc.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有《世紀帝國 II HD: 征服者入侵》的特殊單位。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Uniqueaof.png"><img class="imgn" class="hg" width="200" src="img/Uniqueaof.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Uniqueaof.png"><img class="imgn" class="hg" width="200" src="~assets/Uniqueaof.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有《世紀帝國 II HD: 失落的帝國》的特殊單位。</em>
@@ -419,14 +419,14 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Uniqueaoa.png"><img class="imgn" class="hg" width="200" src="img/Uniqueaoa.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Uniqueaoa.png"><img class="imgn" class="hg" width="200" src="~assets/Uniqueaoa.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有《世紀帝國 II HD: 非洲王朝》的特殊單位。</em>
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Uniqueaor.png"><img class="imgn" class="hg" width="200" src="img/Uniqueaor.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Uniqueaor.png"><img class="imgn" class="hg" width="200" src="~assets/Uniqueaor.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>所有《世紀帝國 II HD: 王者崛起》的特殊單位。</em>

@@ -22,13 +22,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Pacific_Islands_Mangroves.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Pacific_Islands_Mangroves.png" alt="">
         <p class="text-center"><em>淺灘處有紅樹林可以砍伐。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Narrow_channel.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Narrow_channel.png" alt="">
         <p class="text-center"><em>這些狹窄的河道是偷渡的好地方。</em>
 
         </p>
@@ -36,7 +36,7 @@
       </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Pacific_Islands.png" width="300" alt="">
+          <img src="~assets/Pacific_Islands.png" width="300" alt="">
            <h4>兩人的太平洋群島地圖</h4> 
         </div>
       </div>

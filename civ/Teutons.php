@@ -31,14 +31,14 @@
             </ul>
             <h3>特殊單位</h3>
             <ul>
-              <li><img class="gg" src="img/Crusade_avatar.png">條頓武士:厚重緩慢，但是戰鬥力近乎恐怖的步兵，對建築物有加成</li>
+              <li><img class="gg" src="~assets/Crusade_avatar.png">條頓武士:厚重緩慢，但是戰鬥力近乎恐怖的步兵，對建築物有加成</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
             <li>
-              <img class="gg" src="img/CastleAgeUnique.png" alt="">鋼鐵甲：給予攻城單位+4的近防</li>
+              <img class="gg" src="~assets/CastleAgeUnique.png" alt="">鋼鐵甲：給予攻城單位+4的近防</li>
             <li>
-              <img class="gg" src="img/Unique-tech.jpg" alt="">垛口：城堡攻擊距離+3、且步兵可以射箭</li>
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="">垛口：城堡攻擊距離+3、且步兵可以射箭</li>
               </ul>
           </div>
           <h3>文明加成</h3>
@@ -114,7 +114,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/steng.png" width="300px;" alt="">
+                  <img src="~assets/steng.png" width="300px;" alt="">
                   <p><em>神聖羅馬帝國國旗</em>
                   </p>
                 </div>
@@ -137,7 +137,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/Crusade_avatar.png">條頓武士</td>
+                <img class="gg" src="~assets/Crusade_avatar.png">條頓武士</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -146,9 +146,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">鋼鐵甲
+                <img class="gg" src="~assets/CastleAgeUnique.png">鋼鐵甲
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">垛口</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">垛口</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

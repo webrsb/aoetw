@@ -37,7 +37,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Heavyplow.jpg" width="45" alt="">
+                  <img src="~assets/Heavyplow.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -54,25 +54,25 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Mill-icon.jpg" alt=""><a href="Mill.php">磨坊</a>
+                <img class="gg" src="~assets/Mill-icon.jpg" alt=""><a href="Mill.php">磨坊</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Horsecollar.jpg" width="22" alt=""><a href="Horse_Collar.php">馬軛</a>
+                <img class="gg" src="~assets/Horsecollar.jpg" width="22" alt=""><a href="Horse_Collar.php">馬軛</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Croprotation.jpg" width="22" alt=""><a href="Crop_Rotation.php">輪耕</a>
+                <img class="gg" src="~assets/Croprotation.jpg" width="22" alt=""><a href="Crop_Rotation.php">輪耕</a>
               </td>
             </tr>
             <tr>

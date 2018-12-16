@@ -53,38 +53,38 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)</p>
+                  <img src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)</p>
                 <p>
-                  <img src="img/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)</p>
+                  <img src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)</p>
                 <p>
-                  <img src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</p>
+                  <img src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</p>
                 <p>
-                  <img src="img/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>(步兵+2攻擊vs建築)</p>
+                  <img src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>(步兵+2攻擊vs建築)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)</p>
+                  <img src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)</p>
                 <p>
-                  <img src="img/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)</p>
+                  <img src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)</p>
                 <p>
-                  <img src="img/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)</p>
+                  <img src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Squires.jpg" width="30" alt=""><a href="Squires.php">護衛</a>(+10%)</p>
+                  <img src="~assets/Squires.jpg" width="30" alt=""><a href="Squires.php">護衛</a>(+10%)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">視野</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Tracking.jpg" width="30" alt=""><a href="Tracking.php">追縱技術</a>(+2)</p>
+                  <img src="~assets/Tracking.jpg" width="30" alt=""><a href="Tracking.php">追縱技術</a>(+2)</p>
               </td>
             </tr>
           </table>
@@ -100,7 +100,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/ChampionIcon.jpg" width="80" alt="">
+                  <img src="~assets/ChampionIcon.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -167,7 +167,7 @@
           <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的亞瑟王
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/亚瑟王">亞瑟王</a></strong></i>
@@ -204,7 +204,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://zh.moegirl.org/阿尔托莉雅·潘德拉贡">Fate系列</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/吾王满破.png" alt="">
+              <img height="124px;" src="~assets/吾王满破.png" alt="">
             </div>
             <div class="hrn1"></div>
             <br>
@@ -213,7 +213,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/石中劍_(電影)">石中劍</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/sword_in_the_stone_still.jpg" alt="">
+              <img height="124px;" src="~assets/sword_in_the_stone_still.jpg" alt="">
             </div>
             <div class="hrn1"></div>
             <br>
@@ -222,7 +222,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修">反叛的魯路修</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/AV_CodeGeass_Lancelot17.jpg" alt="">
+              <img height="124px;" src="~assets/AV_CodeGeass_Lancelot17.jpg" alt="">
             </div>
             <div class="hrn1"></div>
             <br>

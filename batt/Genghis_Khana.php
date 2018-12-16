@@ -41,7 +41,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/4.Genghis_Khan.jpg" width="300px;" alt="">
+                <img src="~assets/4.Genghis_Khan.jpg" width="300px;" alt="">
                 <p>成吉思汗戰役地圖</p>
               </div>
             </div>
@@ -65,7 +65,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Genghis_Khan.jpg" width="300" alt="">
+                  <img src="~assets/Genghis_Khan.jpg" width="300" alt="">
                   <p><em>本系列主角 成吉思汗</em>
                   </p>
                 </div>
@@ -96,7 +96,7 @@
           <div class="thanks">感謝! 此頁面由裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的成吉思汗
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97">成吉思汗</a></b></i>

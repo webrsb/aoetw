@@ -108,7 +108,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ArcherIcon.jpg"><a href="Archer.php">弓兵</a>
+                  <img class="gg" src="~assets/ArcherIcon.jpg"><a href="Archer.php">弓兵</a>
 
                 </td>
                 <td class="tta3">30</td>
@@ -123,7 +123,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CrossbowmanIcon.jpg"><a href="Crossbowman.php">弩兵</a>
+                  <img class="gg" src="~assets/CrossbowmanIcon.jpg"><a href="Crossbowman.php">弩兵</a>
 
                 </td>
                 <td class="tta3">35</td>
@@ -138,7 +138,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ArbalestIcon.jpg"><a href="Arbalest.php">強弩兵</a>
+                  <img class="gg" src="~assets/ArbalestIcon.jpg"><a href="Arbalest.php">強弩兵</a>
 
                 </td>
                 <td class="tta3">40</td>
@@ -153,7 +153,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/SkirmisherIcon.jpg"><a href="Skirmisher.php">矛兵</a>
+                  <img class="gg" src="~assets/SkirmisherIcon.jpg"><a href="Skirmisher.php">矛兵</a>
 
                 </td>
                 <td class="tta3">30</td>
@@ -168,7 +168,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/EliteSkirmisherIcon.jpg"><a href="Elite_Skirmisher.php">戰矛兵</a>
+                  <img class="gg" src="~assets/EliteSkirmisherIcon.jpg"><a href="Elite_Skirmisher.php">戰矛兵</a>
 
                 </td>
                 <td class="tta3">35</td>
@@ -183,7 +183,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/Imperialskirmishericon.png"><a href="Imperial_Skirmisher.php">帝王戰矛兵</a>
+                  <img class="gg" src="~assets/Imperialskirmishericon.png"><a href="Imperial_Skirmisher.php">帝王戰矛兵</a>
 
                 </td>
                 <td class="tta3">35</td>
@@ -198,7 +198,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CavalryArcherIcon.jpg"><a href="Cavalry_Archer.php">馬弓騎兵</a>
+                  <img class="gg" src="~assets/CavalryArcherIcon.jpg"><a href="Cavalry_Archer.php">馬弓騎兵</a>
 
                 </td>
                 <td class="tta3">50</td>
@@ -222,7 +222,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/HeavyCavArcherIcon.jpg"><a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>
+                  <img class="gg" src="~assets/HeavyCavArcherIcon.jpg"><a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>
 
                 </td>
                 <td class="tta3">60</td>
@@ -246,7 +246,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php">火槍兵</a>
+                  <img class="gg" src="~assets/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php">火槍兵</a>
 
                 </td>
                 <td class="tta3">35</td>
@@ -270,7 +270,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/Slinger_Icon.jpg"><a href="Slinger.php">投石手</a>
+                  <img class="gg" src="~assets/Slinger_Icon.jpg"><a href="Slinger.php">投石手</a>
 
                 </td>
                 <td class="tta3">40</td>
@@ -294,7 +294,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/GenitourIcon.jpg"><a href="Genitour.php">標槍騎兵</a>
+                  <img class="gg" src="~assets/GenitourIcon.jpg"><a href="Genitour.php">標槍騎兵</a>
 
                 </td>
                 <td class="tta3">50</td>
@@ -318,7 +318,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/GenitourIcon.jpg"><a href="Genitour.php">精銳標槍騎兵</a>
+                  <img class="gg" src="~assets/GenitourIcon.jpg"><a href="Genitour.php">精銳標槍騎兵</a>
 
                 </td>
                 <td class="tta3">55</td>
@@ -342,7 +342,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/LongbowmanIcon.jpg"><a href="Longbowman.php">長弓兵</a>
+                  <img class="gg" width="22" src="~assets/LongbowmanIcon.jpg"><a href="Longbowman.php">長弓兵</a>
 
                 </td>
                 <td class="tta3">35</td>
@@ -366,7 +366,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/LongbowmanIcon.jpg"><a href="Longbowman.php">精銳長弓兵</a>
+                  <img class="gg" width="22" src="~assets/LongbowmanIcon.jpg"><a href="Longbowman.php">精銳長弓兵</a>
 
                 </td>
                 <td class="tta3">40</td>
@@ -390,7 +390,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ChuKoNuIcon.jpg"><a href="Chu_Ko_Nu.php">連弩兵</a>
+                  <img class="gg" src="~assets/ChuKoNuIcon.jpg"><a href="Chu_Ko_Nu.php">連弩兵</a>
 
                 </td>
                 <td class="tta3">45</td>
@@ -414,7 +414,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ChuKoNuIcon.jpg"><a href="Chu_Ko_Nu.php">精銳連弩兵</a>
+                  <img class="gg" src="~assets/ChuKoNuIcon.jpg"><a href="Chu_Ko_Nu.php">精銳連弩兵</a>
 
                 </td>
                 <td class="tta3">50</td>
@@ -438,7 +438,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/MangudaiIcon.jpg"><a href="Mangudai.php">蒙古突騎</a>
+                  <img class="gg" width="22" src="~assets/MangudaiIcon.jpg"><a href="Mangudai.php">蒙古突騎</a>
 
                 </td>
                 <td class="tta3">60</td>
@@ -462,7 +462,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/MangudaiIcon.jpg"><a href="Mangudai.php">精銳蒙古突騎</a>
+                  <img class="gg" width="22" src="~assets/MangudaiIcon.jpg"><a href="Mangudai.php">精銳蒙古突騎</a>
 
                 </td>
                 <td class="tta3">60</td>
@@ -486,7 +486,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/JanissaryIcon.jpg"><a href="Janissary.php">土耳其火槍兵</a>
+                  <img class="gg" src="~assets/JanissaryIcon.jpg"><a href="Janissary.php">土耳其火槍兵</a>
 
                 </td>
                 <td class="tta3">35</td>
@@ -510,7 +510,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/JanissaryIcon.jpg"><a href="Janissary.php">精銳土耳其火槍兵</a>
+                  <img class="gg" src="~assets/JanissaryIcon.jpg"><a href="Janissary.php">精銳土耳其火槍兵</a>
 
                 </td>
                 <td class="tta3">40</td>
@@ -534,7 +534,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/WarWagonIcon.jpg"><a href="War_Wagon.php">馬戰車</a>
+                  <img class="gg" src="~assets/WarWagonIcon.jpg"><a href="War_Wagon.php">馬戰車</a>
 
                 </td>
                 <td class="tta3">150</td>
@@ -558,7 +558,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/WarWagonIcon.jpg"><a href="War_Wagon.php">精銳馬戰車</a>
+                  <img class="gg" src="~assets/WarWagonIcon.jpg"><a href="War_Wagon.php">精銳馬戰車</a>
 
                 </td>
                 <td class="tta3">200</td>
@@ -582,7 +582,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/PlumedArcherIcon.jpg"><a href="Plumed_Archer.php">羽毛箭射手</a>
+                  <img class="gg" src="~assets/PlumedArcherIcon.jpg"><a href="Plumed_Archer.php">羽毛箭射手</a>
 
                 </td>
                 <td class="tta3">50</td>
@@ -606,7 +606,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/PlumedArcherIcon.jpg"><a href="Plumed_Archer.php">精銳羽毛箭射手</a>
+                  <img class="gg" src="~assets/PlumedArcherIcon.jpg"><a href="Plumed_Archer.php">精銳羽毛箭射手</a>
 
                 </td>
                 <td class="tta3">50</td>
@@ -630,7 +630,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ConquistadorIcon.jpg"><a href="Conquistador.php">征服者</a>
+                  <img class="gg" src="~assets/ConquistadorIcon.jpg"><a href="Conquistador.php">征服者</a>
 
                 </td>
                 <td class="tta3">55</td>
@@ -654,7 +654,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ConquistadorIcon.jpg"><a href="Conquistador.php">精銳征服者</a>
+                  <img class="gg" src="~assets/ConquistadorIcon.jpg"><a href="Conquistador.php">精銳征服者</a>
 
                 </td>
                 <td class="tta3">70</td>
@@ -678,7 +678,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ElephantArcherIcon.jpg"><a href="Elephant_Archer.php">象弓騎兵</a>
+                  <img class="gg" src="~assets/ElephantArcherIcon.jpg"><a href="Elephant_Archer.php">象弓騎兵</a>
 
                 </td>
                 <td class="tta3">280</td>
@@ -702,7 +702,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ElephantArcherIcon.jpg"><a href="Elephant_Archer.php">精銳象弓騎兵</a>
+                  <img class="gg" src="~assets/ElephantArcherIcon.jpg"><a href="Elephant_Archer.php">精銳象弓騎兵</a>
 
                 </td>
                 <td class="tta3">330</td>
@@ -726,7 +726,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/New_Genoese_Crossbowman.png"><a href="Genoese_Crossbowman.php">熱那亞弩手</a>
+                  <img class="gg" src="~assets/New_Genoese_Crossbowman.png"><a href="Genoese_Crossbowman.php">熱那亞弩手</a>
 
                 </td>
                 <td class="tta3">45</td>
@@ -750,7 +750,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/New_Genoese_Crossbowman.png"><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>
+                  <img class="gg" src="~assets/New_Genoese_Crossbowman.png"><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>
 
                 </td>
                 <td class="tta3">50</td>
@@ -774,7 +774,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CamelArcherIcon.jpg"><a href="Camel_Archer.php">駱駝弓騎兵</a>
+                  <img class="gg" src="~assets/CamelArcherIcon.jpg"><a href="Camel_Archer.php">駱駝弓騎兵</a>
 
                 </td>
                 <td class="tta3">60</td>
@@ -798,7 +798,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CamelArcherIcon.jpg"><a href="Camel_Archer.php">精銳駱駝弓騎兵</a>
+                  <img class="gg" src="~assets/CamelArcherIcon.jpg"><a href="Camel_Archer.php">精銳駱駝弓騎兵</a>
 
                 </td>
                 <td class="tta3">65</td>
@@ -822,7 +822,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/Arambaiicon.png"><a href="Arambai.php">飛鏢騎兵</a>
+                  <img class="gg" src="~assets/Arambaiicon.png"><a href="Arambai.php">飛鏢騎兵</a>
 
                 </td>
                 <td class="tta3">60</td>
@@ -846,7 +846,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/Arambaiicon.png"><a href="Arambai.php">精銳飛鏢騎兵</a>
+                  <img class="gg" src="~assets/Arambaiicon.png"><a href="Arambai.php">精銳飛鏢騎兵</a>
 
                 </td>
                 <td class="tta3">65</td>
@@ -870,7 +870,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/Rattanarchericon.png"><a href="Rattan_Archer.php">藤甲弓兵</a>
+                  <img class="gg" src="~assets/Rattanarchericon.png"><a href="Rattan_Archer.php">藤甲弓兵</a>
 
                 </td>
                 <td class="tta3">35</td>
@@ -894,7 +894,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/Rattanarchericon.png"><a href="Rattan_Archer.php">精銳藤甲弓兵</a>
+                  <img class="gg" src="~assets/Rattanarchericon.png"><a href="Rattan_Archer.php">精銳藤甲弓兵</a>
 
                 </td>
                 <td class="tta3">40</td>
@@ -930,7 +930,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Thumb_Ring.png" alt=""><a href="Thumb _Ring.php">拇指環</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Thumb_Ring.png" alt=""><a href="Thumb _Ring.php">拇指環</a>
 
                 </td>
                 <td class="tunitc4">城堡</td>
@@ -939,7 +939,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Parthian-Tactics.jpg" alt=""><a href="Parthian_Tactics.php">帕提亞戰術</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Parthian-Tactics.jpg" alt=""><a href="Parthian_Tactics.php">帕提亞戰術</a>
 
                 </td>
                 <td class="tunitc4">帝王</td>
@@ -948,7 +948,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Ballistics.jpg" alt=""><a href="Ballistics.php">彈道學</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Ballistics.jpg" alt=""><a href="Ballistics.php">彈道學</a>
 
                 </td>
                 <td class="tunitc4">城堡</td>
@@ -957,7 +957,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
 
                 </td>
                 <td class="tunitc4">帝王</td>
@@ -966,7 +966,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Paddedarcherarmor.jpg" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Paddedarcherarmor.jpg" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>
 
                 </td>
                 <td class="tunitc4">封建</td>
@@ -975,7 +975,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Leatherarcherarmor.jpg"
+                  <img class="gg" style="margin: 2px;" src="~assets/Leatherarcherarmor.jpg"
                   alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>
 
                 </td>
@@ -985,7 +985,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Ringarcherarmor.jpg" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Ringarcherarmor.jpg" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>
 
                 </td>
                 <td class="tunitc4">帝王</td>
@@ -994,7 +994,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Fletching.jpg" alt=""><a href="Fletching.php">箭羽</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Fletching.jpg" alt=""><a href="Fletching.php">箭羽</a>
 
                 </td>
                 <td class="tunitc4">封建</td>
@@ -1003,7 +1003,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
 
                 </td>
                 <td class="tunitc4">城堡</td>
@@ -1012,7 +1012,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Bracer.jpg" alt=""><a href="Bracer.php">護腕</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Bracer.jpg" alt=""><a href="Bracer.php">護腕</a>
 
                 </td>
                 <td class="tunitc4">帝王</td>
@@ -1033,7 +1033,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Aztecs.php">阿茲特克</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Aztecs.php">阿茲特克</a>
 
                 </td>
                 <td class="tunitc4"><a href="Atlatl.php">擲矛器</a>
@@ -1044,7 +1044,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Berbers.php">柏柏</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Berbers.php">柏柏</a>
 
                 </td>
                 <td class="tunitc4"><a href="Kasbah.php">聚居堡壘</a>
@@ -1055,7 +1055,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Britons.php">不列顛</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Britons.php">不列顛</a>
 
                 </td>
                 <td class="tunitc4"><a href="Yeomen.php">義勇騎兵</a>
@@ -1066,7 +1066,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Incas.php">印加</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Incas.php">印加</a>
 
                 </td>
                 <td class="tunitc4"><a href="Andean_Sling.php">安地斯彈弓</a>
@@ -1077,7 +1077,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Italians.php">義大利</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Italians.php">義大利</a>
 
                 </td>
                 <td class="tunitc4"><a href="Pavise.php">巨盾</a>
@@ -1088,7 +1088,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Mayans.php">瑪雅</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Mayans.php">瑪雅</a>
 
                 </td>
                 <td class="tunitc4"><a href="Obsidian_Arrows.php">黑曜石之箭</a>
@@ -1099,7 +1099,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Turks.php">土耳其</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Turks.php">土耳其</a>
 
                 </td>
                 <td class="tunitc4"><a href="Sipahi.php">采邑騎兵</a>
@@ -1110,7 +1110,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Berbers.php">柏柏</a> 
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Berbers.php">柏柏</a> 
                   <td class="tunitc4"><a href="Maghrabi_Camels.php">馬格拉比駱駝</a>
 
                   </td>
@@ -1119,7 +1119,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Burmese.php ">緬甸</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Burmese.php ">緬甸</a>
 
                 </td>
                 <td class="tunitc4"><a href="Manipur.php">曼尼普爾騎兵</a>
@@ -1130,7 +1130,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Chinese.php">中國</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Chinese.php">中國</a>
 
                 </td>
                 <td class="tunitc4"><a href="">火箭術</a>
@@ -1141,7 +1141,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Indians.php">印度</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Indians.php">印度</a>
 
                 </td>
                 <td class="tunitc4"><a href="Shatagni.php">印度火槍</a>
@@ -1152,7 +1152,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Magyars.php">馬札爾</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Magyars.php">馬札爾</a>
 
                 </td>
                 <td class="tunitc4"><a href="Recurve_Bow.php">反曲弓</a>
@@ -1163,7 +1163,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Portuguese.php">葡萄牙</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Portuguese.php">葡萄牙</a>
 
                 </td>
                 <td class="tunitc4"><a href="Arquebus.php">火繩槍</a>

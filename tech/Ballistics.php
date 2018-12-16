@@ -64,7 +64,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Ballistics.jpg" width="45" alt="">
+                  <img src="~assets/Ballistics.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -82,14 +82,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" class="gg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><a href="Castle_Age.php">城堡時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
+                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
 
               </td>
             </tr>

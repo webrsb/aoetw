@@ -21,7 +21,7 @@
             
         </div>
         <div class="col-md-4">
-          <img src="img/Valley_Preview.jpg" width="300" alt="">
+          <img src="~assets/Valley_Preview.jpg" width="300" alt="">
            <h4>兩人的峽谷地圖</h4> 
         </div>
       </div>

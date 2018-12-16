@@ -33,39 +33,39 @@
           <div class="n1">
             <ul>
               <li>
-                <img class="gg" src="img/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>
+                <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>
 
               </li>
               <li>
-                <img class="gg" src="img/CondottieroNewIcon.jpg" alt=""><a href="Condottiero.php">傭兵</a>
+                <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""><a href="Condottiero.php">傭兵</a>
 
               </li>
               <li>
-                <img class="gg" src="img/ImperialCamelIcon.jpg" alt=""><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
+                <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt=""><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
 
               </li>
               <li>
-                <img class="gg" src="img/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>
+                <img class="gg" src="~assets/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>
 
               </li>
               <li>
-                <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>
+                <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>
 
               </li>
               <li>
-                <img class="gg" src="img/New_Genoese_Crossbowman.png" alt="" width="22"><a href="Genoese_Crossbowman.php">熱那亞弩手</a>
+                <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt="" width="22"><a href="Genoese_Crossbowman.php">熱那亞弩手</a>
 
               </li>
               <li>
-                <img class="gg" src="img/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>
+                <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>
 
               </li>
               <li>
-                <img class="gg" src="img/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>
+                <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>
 
               </li>
               <li>
-                <img class="gg" src="img/New_Boyar.png" alt=""><a href="Boyar.php">貴族鐵騎</a>
+                <img class="gg" src="~assets/New_Boyar.png" alt=""><a href="Boyar.php">貴族鐵騎</a>
 
               </li>
             </ul>
@@ -93,7 +93,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/AOFE_logo.jpg" width="" alt="">
+                  <img src="~assets/AOFE_logo.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

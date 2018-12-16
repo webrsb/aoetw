@@ -30,7 +30,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Imgres-3.jpg" width="300" alt="">
+          <img src="~assets/Imgres-3.jpg" width="300" alt="">
            <h4>一個標準沿海地圖</h4> 
         </div>
       </div>

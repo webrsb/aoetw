@@ -29,7 +29,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="200" src="img/Aoe2_goat.png" alt="">
+                <img class="hg" width="200" src="~assets/Aoe2_goat.png" alt="">
                 <p><em>世紀帝國 II的山羊。</em>
                 </p>
               </div>
@@ -47,7 +47,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Aoe2_goat_icon.png" width="80" alt="">
+                  <img src="~assets/Aoe2_goat_icon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

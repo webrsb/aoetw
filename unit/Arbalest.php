@@ -116,7 +116,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/ArbalestIcon.jpg" width="45" alt="">
+                  <img src="~assets/ArbalestIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -233,7 +233,7 @@
             <tr>
               <td class="unit3">從升級</td>
               <td class="unit4">
-                <img class="gg" src="img/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>
+                <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>
 
               </td>
             </tr>

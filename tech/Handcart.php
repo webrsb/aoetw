@@ -60,7 +60,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Handcart.jpg" width="45" alt="">
+                  <img src="~assets/Handcart.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -86,7 +86,7 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img src="img/Wheelbarrow.jpg" alt="">獨輪推車</a>
+                <img src="~assets/Wheelbarrow.jpg" alt="">獨輪推車</a>
               </td>
             </tr>
             <tr>

@@ -27,14 +27,14 @@
             <h3>特殊單位</h3>
             <ul>
               <p>
-                <img class="gg" src="img/PlumedArcherIcon.jpg" alt="">羽毛箭射手:重裝快速弓兵，對步兵有攻擊加成。</p>
+                <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt="">羽毛箭射手:重裝快速弓兵，對步兵有攻擊加成。</p>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <p>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">黑曜石之箭：弓兵、弩兵、勁弩兵對建築物攻擊+6。</p>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">黑曜石之箭：弓兵、弩兵、勁弩兵對建築物攻擊+6。</p>
               <p>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">黃金國：鷹勇士血量+40。</p>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">黃金國：鷹勇士血量+40。</p>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -79,7 +79,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wondermayans.png"><img class="imgn" class="hg" src="img/Wondermayans.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wondermayans.png"><img class="imgn" class="hg" src="~assets/Wondermayans.png" alt=""></a> 
                 <p><em>大美洲豹神廟</em>
                 </p>
               </div>
@@ -99,7 +99,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Quetzalcoatl_statue.jpg" width="300px;" alt="">
+                  <img src="~assets/Quetzalcoatl_statue.jpg" width="300px;" alt="">
                   <p><em>羽蛇神</em>
                   </p>
                 </div>
@@ -121,7 +121,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/PlumedArcherIcon.jpg">羽毛箭射手</td>
+                <img class="gg" src="~assets/PlumedArcherIcon.jpg">羽毛箭射手</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -130,9 +130,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">黑曜石之箭
+                <img class="gg" src="~assets/CastleAgeUnique.png">黑曜石之箭
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">黃金國</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">黃金國</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

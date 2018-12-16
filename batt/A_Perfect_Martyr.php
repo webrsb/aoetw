@@ -60,7 +60,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Joan6map.png" width="" alt="">
+                  <img src="~assets/Joan6map.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -113,7 +113,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，亞諭協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的完美的烈士
               <div style="margin-left: 10px;"><i><strong><a href="http://tinyurl.com/ybatc4lg">卡斯蒂隆戰役</a></strong></i>
@@ -133,7 +133,7 @@
           <ul>
             <li><strong>起始時代：</strong>
 
-              <img class="gg" src="img/Castle-age-reseach.jpg"
+              <img class="gg" src="~assets/Castle-age-reseach.jpg"
               class="gg" alt=""><a href="Imperial_Age.php">城堡時代</a>
 
             </li>
@@ -146,11 +146,11 @@
 
           <ul>
             <li>
-              <img class="gg" src="img/Guyjosselyneicon.png" alt=""><a href="Guy_Josselyne.php">蓋佐斯爾立</a>
+              <img class="gg" src="~assets/Guyjosselyneicon.png" alt=""><a href="Guy_Josselyne.php">蓋佐斯爾立</a>
 
             </li>
             <li>
-              <img class="gg" src="img/TradeCartIcon.jpg" alt=""><a href="Trade_Cart.php">貿易車隊</a>*1</li>
+              <img class="gg" src="~assets/TradeCartIcon.jpg" alt=""><a href="Trade_Cart.php">貿易車隊</a>*1</li>
           </ul>
         </div>
         <div class="col-md-4">
@@ -158,34 +158,34 @@
 
           <ul>
             <li>
-              <img class="gg" src="img/Lahire.png" alt=""><a href="La_Hire.php">拉海爾</a>
+              <img class="gg" src="~assets/Lahire.png" alt=""><a href="La_Hire.php">拉海爾</a>
 
             </li>
             <li>
-              <img class="gg" src="img/Constablerichemonticon.png" alt=""><a href="Constable_Richemont.php">康斯塔伯理察蒙</a>
+              <img class="gg" src="~assets/Constablerichemonticon.png" alt=""><a href="Constable_Richemont.php">康斯塔伯理察蒙</a>
 
             </li>
             <li>
-              <img class="gg" src="img/Jeanbureauicon.png" alt=""><a href="Jean_Bureau.php">約翰布荷</a>
+              <img class="gg" src="~assets/Jeanbureauicon.png" alt=""><a href="Jean_Bureau.php">約翰布荷</a>
 
             </li>
             <li>
-              <img class="gg" src="img/ArbalestIcon.jpg" alt=""><a href="Arbalest.php">強弩兵</a>*16</li>
+              <img class="gg" src="~assets/ArbalestIcon.jpg" alt=""><a href="Arbalest.php">強弩兵</a>*16</li>
             <li>
-              <img class="gg" src="img/ChampionIcon.jpg" alt=""><a href="Champion.php">劍兵勇士</a>*8</li>
+              <img class="gg" src="~assets/ChampionIcon.jpg" alt=""><a href="Champion.php">劍兵勇士</a>*8</li>
             <li>
-              <img class="gg" src="img/HussarIcon.jpg" alt=""><a href="Hussar.php">匈牙利輕騎兵</a>*8</li>
+              <img class="gg" src="~assets/HussarIcon.jpg" alt=""><a href="Hussar.php">匈牙利輕騎兵</a>*8</li>
             <li>
-              <img class="gg" src="img/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>*8</li>
+              <img class="gg" src="~assets/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>*8</li>
             <li>
-              <img class="gg" src="img/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>*6</li>
+              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>*6</li>
             <li>
-              <img class="gg" src="img/PaladinIcon.jpg" alt=""><a href="Paladin.php">遊俠</a>*6</li>
+              <img class="gg" src="~assets/PaladinIcon.jpg" alt=""><a href="Paladin.php">遊俠</a>*6</li>
             <li>
-              <img class="gg" src="img/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a>*6</li>
+              <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a>*6</li>
             <li>
-              <img class="gg" src="img/TrebuchetPackedIcon.jpg" alt=""><a href="Trebuchet.php">巨型投石機</a>*2</li>
-            <dd><strong>*困難模式為1台<img class="gg" src="img/TrebuchetPackedIcon.jpg" alt=""><a href="Trebuchet.php">巨型投石機</a>和3台<img class="gg" src="img/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a>。</strong>
+              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""><a href="Trebuchet.php">巨型投石機</a>*2</li>
+            <dd><strong>*困難模式為1台<img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""><a href="Trebuchet.php">巨型投石機</a>和3台<img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a>。</strong>
 
             </dd>
           </ul>
@@ -230,13 +230,13 @@
           <div
           class="col-md-12">
             <div class="col-md-6">
-              <img position="centered" class="imgn" class="hg" width="500" src="img/Joanofarc6rock.png" alt="">
+              <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joanofarc6rock.png" alt="">
               <p class="text-center"><em>讓軍隊沿著地圖邊緣走到這邊準備攻擊勃根地人。</em>
 
               </p>
             </div>
             <div class="col-md-6">
-              <img position="centered" class="imgn" class="hg" width="500" src="img/Joanofarc6Burgundy.png" alt="">
+              <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joanofarc6Burgundy.png" alt="">
               <p class="text-center"><em>破壞勃根地城鎮。</em>
 
               </p>
@@ -247,13 +247,13 @@
       <div
       class="col-md-12">
         <div class="col-md-6">
-          <img class="imgn" class="hg" src="img/Joanofarc6Shrewsbury.png" alt="">
+          <img class="imgn" class="hg" src="~assets/Joanofarc6Shrewsbury.png" alt="">
           <p class="text-center"><em>舒茲伯利有大量的黃金跟石頭可以開採。</em>
 
           </p>
         </div>
         <div class="col-md-6">
-          <img class="imgn" class="hg" src="img/Joanofarc6Northwest.png" alt="">
+          <img class="imgn" class="hg" src="~assets/Joanofarc6Northwest.png" alt="">
           <p class="text-center"><em>看到防禦箭塔就在附近蓋城堡跟軍事建築。</em>
 
           </p>
@@ -264,13 +264,13 @@
     <div
     class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Joanofarc6lastmile.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joanofarc6lastmile.png" alt="">
         <p class="text-center"><em>在城門前蓋城堡往目標繼續挺進。</em>
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Joanofarc6victory.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Joanofarc6victory.png" alt="">
         <p class="text-center"><em>玩家可以直接擊敗不列顛人獲得勝利。</em>
 
         </p>

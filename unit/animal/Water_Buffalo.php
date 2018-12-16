@@ -25,7 +25,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="200" src="img/AOE2WaterBuffalo.png" alt="">
+                <img class="hg" width="200" src="~assets/AOE2WaterBuffalo.png" alt="">
                 <p><em>世紀帝國 II的水牛。</em>
                 </p>
               </div>
@@ -43,7 +43,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/AOE2IconBuffalo.png" width="80" alt="">
+                  <img src="~assets/AOE2IconBuffalo.png" width="80" alt="">
                 </div>
               </td>
             </tr>

@@ -33,26 +33,26 @@
             <p>特殊單位</p>
             <ul>
               <li>
-                <img class="gg" src="img/Arambaiicon.png" alt=""><a href="Arambai.php">飛鏢騎兵</a>:緬甸的特殊單位，能夠在城堡時代的城堡中訓練。飛鏢騎兵是馬弓騎兵部隊破壞力極高但命中低，對衝撞車系列有加成傷害。</li>
+                <img class="gg" src="~assets/Arambaiicon.png" alt=""><a href="Arambai.php">飛鏢騎兵</a>:緬甸的特殊單位，能夠在城堡時代的城堡中訓練。飛鏢騎兵是馬弓騎兵部隊破壞力極高但命中低，對衝撞車系列有加成傷害。</li>
               <li>
-                <img class="gg" src="img/Ballistaelephanticon.png" alt=""><a href="Ballista_Elephant.php">弩砲象</a>:高棉的特殊單位，能夠在城堡時代的城堡中訓練。弩砲象這是一種混合型單位是由騎兵加攻城武器混合型單位，攻擊模式類似弩砲，弩砲象是可以伐木的。</li>
+                <img class="gg" src="~assets/Ballistaelephanticon.png" alt=""><a href="Ballista_Elephant.php">弩砲象</a>:高棉的特殊單位，能夠在城堡時代的城堡中訓練。弩砲象這是一種混合型單位是由騎兵加攻城武器混合型單位，攻擊模式類似弩砲，弩砲象是可以伐木的。</li>
               <li>
-                <img class="gg" src="img/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">爪刀勇士</a>:為馬來的特殊單位。是遊戲裡只佔半個人口的的單位，便宜/快速的單位，缺點是過於脆弱。</li>
+                <img class="gg" src="~assets/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">爪刀勇士</a>:為馬來的特殊單位。是遊戲裡只佔半個人口的的單位，便宜/快速的單位，缺點是過於脆弱。</li>
               <li>
-                <img class="gg" src="img/Rattanarchericon.png" alt=""><a href="Rattan_Archer.php">藤甲弓兵</a>:越南的特殊單位，是個有非常高遠程護甲的弓兵。</li>
+                <img class="gg" src="~assets/Rattanarchericon.png" alt=""><a href="Rattan_Archer.php">藤甲弓兵</a>:越南的特殊單位，是個有非常高遠程護甲的弓兵。</li>
               <li>
-                <img class="gg" src="img/Imperialskirmishericon.png" alt=""><a href="Imperial_Skirmisher.php">帝王戰茅兵</a>:帝王戰矛兵是越南第二個特殊單位，可以在射箭場訓練，是戰矛兵的升級，是一個反弓箭手的遠程單位。</li>
+                <img class="gg" src="~assets/Imperialskirmishericon.png" alt=""><a href="Imperial_Skirmisher.php">帝王戰茅兵</a>:帝王戰矛兵是越南第二個特殊單位，可以在射箭場訓練，是戰矛兵的升級，是一個反弓箭手的遠程單位。</li>
             </ul>
           </div>
           <p>一般單位</p>
           <ul>
             <li>
-              <img class="gg" src="img/Battleelephanticon.png" alt=""><a href="Battle_Elephant.php">茅象伕</a>:東南亞特殊單位，城堡時代兵種，可訓練於馬廄，與波斯戰像相似但攻擊範圍較小，他們移動緩慢容易受到範圍傷害的單位攻擊，也容易被僧侶招降。</li>
+              <img class="gg" src="~assets/Battleelephanticon.png" alt=""><a href="Battle_Elephant.php">茅象伕</a>:東南亞特殊單位，城堡時代兵種，可訓練於馬廄，與波斯戰像相似但攻擊範圍較小，他們移動緩慢容易受到範圍傷害的單位攻擊，也容易被僧侶招降。</li>
           </ul>
           <p>建築</p>
           <ul>
             <li>
-              <img width="25px" src="img/Dockicon.png" alt=""><a href="">海港</a>:馬來人進入城堡時代研發完科技"海上霸主"可以建造的特殊軍事經濟復合式建築物。海港比碼頭有更多的生命值和視野，而且能以箭矢攻擊來犯的敵方單位。</li>
+              <img width="25px" src="~assets/Dockicon.png" alt=""><a href="">海港</a>:馬來人進入城堡時代研發完科技"海上霸主"可以建造的特殊軍事經濟復合式建築物。海港比碼頭有更多的生命值和視野，而且能以箭矢攻擊來犯的敵方單位。</li>
           </ul>
            <h3>戰役</h3>
 
@@ -78,7 +78,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="400" src="img/001-105.jpg" width="" alt="">
+                  <img width="400" src="~assets/001-105.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

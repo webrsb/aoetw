@@ -35,7 +35,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/VMDL.jpg" width="80" alt="">
+                  <img src="~assets/VMDL.jpg" width="80" alt="">
                 </div>
           </table>
           <div class="thanks"></div>

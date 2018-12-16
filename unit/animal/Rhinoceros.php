@@ -25,7 +25,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="200" src="img/AOE2Rhinoceros.png" alt="">
+                <img class="hg" width="200" src="~assets/AOE2Rhinoceros.png" alt="">
                 <p><em>世紀帝國II的犀牛。</em>
                 </p>
               </div>
@@ -43,7 +43,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/AOE2IconRhino.png" width="80" alt="">
+                  <img src="~assets/AOE2IconRhino.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -64,7 +64,7 @@
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的犀牛
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E7%8A%80%E7%89%9B">犀牛</a></b></i>

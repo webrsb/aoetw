@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Yucatán.png" width="300" alt="">
+          <img src="~assets/Yucatán.png" width="300" alt="">
            <h4>標準猶加敦地圖</h4> 
         </div>
       </div>

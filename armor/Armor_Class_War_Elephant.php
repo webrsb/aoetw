@@ -24,22 +24,22 @@
           <div class="n1">下列的單位都是戰象系單位
             <ul>
               <li>
-                <img class="gg" src="img/Battleelephanticon.png" alt=""><a href="Battle_Elephant.php">矛象伕</a>→
-                <img class="gg" src="img/Battleelephanticon.png"
+                <img class="gg" src="~assets/Battleelephanticon.png" alt=""><a href="Battle_Elephant.php">矛象伕</a>→
+                <img class="gg" src="~assets/Battleelephanticon.png"
                 alt=""><a href="Battle_Elephant.php">精銳矛象伕</a>
 
               </li>
               <li>
-                <img class="gg" src="img/WarElephantIcon.jpg" width="22" alt=""><a href="War_Elephant.php">波斯戰象</a>→
-                <img class="gg" src="img/WarElephantIcon.jpg"
+                <img class="gg" src="~assets/WarElephantIcon.jpg" width="22" alt=""><a href="War_Elephant.php">波斯戰象</a>→
+                <img class="gg" src="~assets/WarElephantIcon.jpg"
                 width="22" alt=""><a href="War_Elephant.php">精銳波斯戰象</a>(<a href="Persians.php">波斯</a>限定)</li>
               <li>
-                <img class="gg" src="img/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>→
-                <img class="gg" src="img/ElephantArcherIcon.jpg"
+                <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>→
+                <img class="gg" src="~assets/ElephantArcherIcon.jpg"
                 alt=""><a href="Elephant_Archer.php">精銳象弓騎兵</a>(<a href="Indians.php">印度</a>限定)</li>
               <li>
-                <img class="gg" src="img/Ballistaelephanticon.png" alt=""><a href="Ballista_Elephant.php">弩炮象</a>(-2)→
-                <img class="gg" src="img/Ballistaelephanticon.png"
+                <img class="gg" src="~assets/Ballistaelephanticon.png" alt=""><a href="Ballista_Elephant.php">弩炮象</a>(-2)→
+                <img class="gg" src="~assets/Ballistaelephanticon.png"
                 alt=""><a href="Ballista_Elephant.php">精銳弩炮象</a>(-2)(<a href="Khmer.php">高棉</a>限定)</li>
             </ul>
           </div>
@@ -55,7 +55,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
+                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
 
                     </li>
                   </ul>
@@ -64,7 +64,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
+                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
 
                     </li>
                   </ul>
@@ -73,8 +73,8 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>→
-                      <img class="gg" src="img/Kamayuk_Icon.jpg"
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>→
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg"
                       alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
@@ -82,7 +82,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
+                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
 
                     </li>
                   </ul>
@@ -93,7 +93,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/HeavyScorpionIcon.jpg" alt=""><a href="HeavyScorpion.php">重型弩炮</a>
+                      <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><a href="HeavyScorpion.php">重型弩炮</a>
 
                     </li>
                   </ul>
@@ -102,14 +102,14 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
 
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                 </div>
               </div>

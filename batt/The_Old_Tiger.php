@@ -128,7 +128,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/(map)Bayinnaung_5.The_Old_Tiger.jpg" width="" alt="">
+                  <img src="~assets/(map)Bayinnaung_5.The_Old_Tiger.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

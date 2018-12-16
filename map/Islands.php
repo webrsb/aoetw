@@ -23,7 +23,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/AoEII_Islands.png" width="300" alt="">
+          <img src="~assets/AoEII_Islands.png" width="300" alt="">
            <h4>一個標準島嶼地圖</h4> 
         </div>
       </div>

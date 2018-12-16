@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Mongolia-_AoEII_4-player.png" width="300" alt="">
+          <img src="~assets/Mongolia-_AoEII_4-player.png" width="300" alt="">
            <h4>四人遊玩的蒙古高原地圖</h4> 
         </div>
       </div>

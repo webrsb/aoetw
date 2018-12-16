@@ -126,7 +126,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Razzia1.jpg" width="" alt="">
+                  <img src="~assets/Razzia1.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -171,7 +171,7 @@
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的阿基坦公爵奧多·杜多(英文版)
               <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Odo_the_Great">Odo_the_Great</a></b></i>
@@ -180,7 +180,7 @@
           </div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的歷代阿基坦公爵
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%9F%BA%E5%9D%A6%E5%85%AC%E7%88%B5">阿基坦公爵</a></b></i>

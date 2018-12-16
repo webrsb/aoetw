@@ -29,7 +29,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Buibiicon.png" width="80" alt="">
+                  <img src="~assets/Buibiicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -83,7 +83,7 @@
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的裴備
               <div style="margin-left: 10px;"><i><strong><a href="https://vi.wikipedia.org/wiki/Bùi_Bị">裴備</a></strong></i>

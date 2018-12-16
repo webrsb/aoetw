@@ -36,8 +36,8 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Williamtheconqueroricon.png" width="80" alt="">
-                  <img src="img/Williamtheconqueroricona.jpg" width="80" alt="">
+                  <img src="~assets/Williamtheconqueroricon.png" width="80" alt="">
+                  <img src="~assets/Williamtheconqueroricona.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -99,7 +99,7 @@
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的征服者威廉
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%E4%B8%80%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)">威廉一世 (英格蘭)</a></strong></i>

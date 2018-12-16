@@ -22,7 +22,7 @@
             
         </div>
         <div class="col-md-4">
-          <img src="img/Bog_Islands.png" width="300" alt="">
+          <img src="~assets/Bog_Islands.png" width="300" alt="">
            <h4>兩人的沼澤地圖</h4> 
         </div>
       </div>

@@ -36,7 +36,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Tariqibnziyadicon.png" width="80" alt="">
+                  <img src="~assets/Tariqibnziyadicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -127,7 +127,7 @@
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的塔里克·伊本·齊亞德
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E5%A1%94%E9%87%8C%E5%85%8B%C2%B7%E4%BC%8A%E6%9C%AC%C2%B7%E9%BD%8A%E4%BA%9E%E5%BE%B7">塔里克·伊本·齊亞德</a></strong></i>

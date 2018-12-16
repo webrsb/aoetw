@@ -67,7 +67,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Platemailarmor.jpg" width="45" alt="">
+                  <img src="~assets/Platemailarmor.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -84,19 +84,19 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Blacksmithicon.png" alt=""><a href="Blacksmith.php">兵工廠</a>
+                <img class="gg" src="~assets/Blacksmithicon.png" alt=""><a href="Blacksmith.php">兵工廠</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Chainmailarmor.jpg" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>
+                <img class="gg" src="~assets/Chainmailarmor.jpg" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>
               </td>
             </tr>
             <tr>

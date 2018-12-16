@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Rivers_minimap.jpg" width="300" alt="">
+          <img src="~assets/Rivers_minimap.jpg" width="300" alt="">
            <h4>兩人的河流地圖</h4> 
         </div>
       </div>

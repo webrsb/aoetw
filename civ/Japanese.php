@@ -29,14 +29,14 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/SMURI.jpg" alt="">日本武士:攻擊速度極快的步兵，對於所有文明的特殊單位傷害+10、12(精銳)</li>
+                <img class="gg" src="~assets/SMURI.jpg" alt="">日本武士:攻擊速度極快的步兵，對於所有文明的特殊單位傷害+10、12(精銳)</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt=""><a href="Yasama.php">射箭孔</a>：塔可以多射兩支箭</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt=""><a href="Yasama.php">射箭孔</a>：塔可以多射兩支箭</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">帝王時代：彈射器：投石機拆裝速度四倍，且攻擊速率快33%</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">帝王時代：彈射器：投石機拆裝速度四倍，且攻擊速率快33%</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -181,7 +181,7 @@
               <div class="hrn1"></div>
               <div class="n1"> 
                   <div class="col-md-12">  
-                      <div class="col-md-4">  <a href="img/Wonderjapanese.png"><img class="imgn" class="hg" src="img/Wonderjapanese.png" alt=""></a>  <p><em>日本的世界奇觀，東大寺。</em></p>  
+                      <div class="col-md-4">  <a href="img/Wonderjapanese.png"><img class="imgn" class="hg" src="~assets/Wonderjapanese.png" alt=""></a>  <p><em>日本的世界奇觀，東大寺。</em></p>  
                       </div>   
                   </div>
               </div>
@@ -195,7 +195,7 @@
             </tr>      
             <tr>       
                 <td colspan="2" ><div class="unititle">
-                <img src="img/Himeji_Castle_repainted_3.jpg" width="300px;" alt="">       
+                <img src="~assets/Himeji_Castle_repainted_3.jpg" width="300px;" alt="">       
                     <p><em>最具日本象徵意義的姬路城</em></p>     </div>       
             </td>      
             </tr>      
@@ -213,7 +213,7 @@
             </tr>      
             <tr>        
                 <td class="unit3">特殊單位</td>       
-                <td class="unit4"><img class="gg" src="img/SMURI.jpg">日本武士</td>      
+                <td class="unit4"><img class="gg" src="~assets/SMURI.jpg">日本武士</td>      
             </tr>      
             <tr>        
                 <td class="unit3">首選戰略</td>       
@@ -221,8 +221,8 @@
             </tr>      
             <tr>        
                 <td class="unit3">特殊技術</td>       
-                <td class="unit4"><img class="gg" src="img/CastleAgeUnique.png"><a href="Yasama.php">射箭孔</a><br>
-                                  <img class="gg" src="img/Unique-tech.jpg">彈射器</td>      
+                <td class="unit4"><img class="gg" src="~assets/CastleAgeUnique.png"><a href="Yasama.php">射箭孔</a><br>
+                                  <img class="gg" src="~assets/Unique-tech.jpg">彈射器</td>      
             </tr>           
               </table>
               <div class="thanks">       感謝! 此頁面由Dennis協助編輯</div>  

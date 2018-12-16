@@ -39,7 +39,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Unique-tech.jpg" width="45" alt="">
+                  <img src="~assets/Unique-tech.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>

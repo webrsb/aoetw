@@ -46,36 +46,36 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                 <br>
-                <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
@@ -138,7 +138,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Outposticon.png" width="45" alt="">
+                  <img src="~assets/Outposticon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -214,13 +214,13 @@
             <tr>
               <td class="unit3">視野</td>
               <td class="unit4">
-                <img src="img/Dark-age-logo-small.jpg" width="22" alt="">6
+                <img src="~assets/Dark-age-logo-small.jpg" width="22" alt="">6
                 <br>
-                <img src="img/Feudal-age-reseach.jpg" width="22" alt="">8
+                <img src="~assets/Feudal-age-reseach.jpg" width="22" alt="">8
                 <br>
-                <img src="img/Castle-age-reseach.jpg" width="22" alt="">10
+                <img src="~assets/Castle-age-reseach.jpg" width="22" alt="">10
                 <br>
-                <img src="img/Imperial-age-research.jpg" width="22" alt="">12</td>
+                <img src="~assets/Imperial-age-research.jpg" width="22" alt="">12</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
@@ -229,14 +229,14 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Outpostlosdarkage.png"><img class="imgn" class="hg" width="180" src="img/Outpostlosdarkage.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Outpostlosdarkage.png"><img class="imgn" class="hg" width="180" src="~assets/Outpostlosdarkage.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>黑暗時代哨站的視野範圍。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Outpostlosfu.png"><img class="imgn" class="hg" width="180" src="img/Outpostlosfu.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Outpostlosfu.png"><img class="imgn" class="hg" width="180" src="~assets/Outpostlosfu.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>帝王時代哨站的視野範圍(有研發<a href="Town_Patrol.php">城鎮巡邏</a>)。</em>

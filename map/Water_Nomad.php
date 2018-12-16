@@ -23,7 +23,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Water_Nomad_-_8_players.png" width="300" alt="">
+          <img src="~assets/Water_Nomad_-_8_players.png" width="300" alt="">
            <h4>一個標準水上游牧地圖</h4> 
         </div>
       </div>

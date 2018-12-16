@@ -9,7 +9,7 @@
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
-          <div class="spw"><em><img src="img/Archersoftheeyesicon.png" width="50px;" alt="" style="margin-right:20px;">注意~不要與<a href="Rate_of_Fire.php">射速</a>搞混了。</em>
+          <div class="spw"><em><img src="~assets/Archersoftheeyesicon.png" width="50px;" alt="" style="margin-right:20px;">注意~不要與<a href="Rate_of_Fire.php">射速</a>搞混了。</em>
           </div>
           <div class="n1">
             <div class="col-md-8">
@@ -20,7 +20,7 @@
             </div>
             <div class="col-md-4">
               <div class="col-md-12" style="text-align: center;">
-                <img src="img/Cav_archer_frame_delay.png" alt="">
+                <img src="~assets/Cav_archer_frame_delay.png" alt="">
               </div>
               <div class="col-md-12" style="margin-top: 5px;">當馬弓騎兵實施拉打的時候，他必須轉身並有一個準備動作，就是開火間隔。</div>
             </div>

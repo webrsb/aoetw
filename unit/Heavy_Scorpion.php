@@ -89,42 +89,42 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Furor_Celtica.php">賽爾特狂暴</a>(+40%，<a href="Celts.php">賽爾特</a>限定)</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Furor_Celtica.php">賽爾特狂暴</a>(+40%，<a href="Celts.php">賽爾特</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
+                <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
                 <br>
-                <img class="gg" src="img/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
+                <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Rocketry.php">火箭術</a>(+4)
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Rocketry.php">火箭術</a>(+4)
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Torsion Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Torsion Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Double_Crossbow.php">雙弩箭</a>:額外增加一個投射物。<a href="Khmer.php">高棉</a>限定</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Double_Crossbow.php">雙弩箭</a>:額外增加一個投射物。<a href="Khmer.php">高棉</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">範圍</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對建築物攻擊加成+20%。</td>
+                <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對建築物攻擊加成+20%。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Ironclad.php">鋼鐵甲</a>(+4/+0，<a href="Teutons.php">條頓</a>限定)</td>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Ironclad.php">鋼鐵甲</a>(+4/+0，<a href="Teutons.php">條頓</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Drill.php">演習</a>(+50%，<a href="Mongols.php">蒙古</a>)</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Drill.php">演習</a>(+50%，<a href="Mongols.php">蒙古</a>)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
           </table>
@@ -138,32 +138,32 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/SiegeRamIcon.jpg" alt=""><a href="Siege_Ram.php">重型衝撞車</a> 
+                      <img class="gg" src="~assets/SiegeRamIcon.jpg" alt=""><a href="Siege_Ram.php">重型衝撞車</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+60攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/PetardIcon.jpg" alt=""><a href="Petard.php">爆炸桶</a> 
+                      <img class="gg" src="~assets/PetardIcon.jpg" alt=""><a href="Petard.php">爆炸桶</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+50攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/CappedRamIcon.jpg" width="22" alt=""><a href="Capped_Ram.php">裝甲衝撞車</a> 
+                      <img class="gg" src="~assets/CappedRamIcon.jpg" width="22" alt=""><a href="Capped_Ram.php">裝甲衝撞車</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/BatteringRamIcon.jpg" alt=""><a href="Battering_Ram.php">輕形衝撞車</a> 
+                      <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""><a href="Battering_Ram.php">輕形衝撞車</a> 
                     </li>
                     <li>
-                      <img src="img/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
-                      <img src="img/CannonGalleonIcon.jpg"
+                      <img src="~assets/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
+                      <img src="~assets/CannonGalleonIcon.jpg"
                       alt=""><a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a> 
                     </li>
                   </ul>
@@ -171,7 +171,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a> 
+                      <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a> 
                     </li>
                   </ul>
                 </div>
@@ -180,10 +180,10 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/MangonelIcon.jpg" alt=""><a href="Mangonel.php">輕形投石車</a>→
-                      <img class="gg" src="img/OnagerIcon.jpg"
+                      <img class="gg" src="~assets/MangonelIcon.jpg" alt=""><a href="Mangonel.php">輕形投石車</a>→
+                      <img class="gg" src="~assets/OnagerIcon.jpg"
                       alt=""><a href="Onager.php">中型投石車</a>→
-                      <img class="gg" src="img/SiegeOnagerIcon.jpg"
+                      <img class="gg" src="~assets/SiegeOnagerIcon.jpg"
                       alt=""><a href="Siege_Onager.php">重型投石車</a> 
                     </li>
                   </ul>
@@ -191,29 +191,29 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
+                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/MangudaiIcon.jpg" width="22" alt=""><a href="Mangudai.php">精銳蒙古突騎</a>(<a href="Mongols.php">蒙古</a>限定)</li>
+                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><a href="Mangudai.php">精銳蒙古突騎</a>(<a href="Mongols.php">蒙古</a>限定)</li>
                     <li>
-                      <img class="gg" src="img/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
+                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>→
-                      <img class="gg" src="img/EagleWarriorIcon.jpg"
+                      <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>→
+                      <img class="gg" src="~assets/EagleWarriorIcon.jpg"
                       alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/MangudaiIcon.jpg" width="22" alt=""><a href="Mangudai.php">蒙古突騎</a>(<a href="Mongols.php">蒙古</a>限定)</li>
+                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><a href="Mangudai.php">蒙古突騎</a>(<a href="Mongols.php">蒙古</a>限定)</li>
                   </ul>
                 </div>
               </div>
@@ -291,11 +291,11 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Heavyscorpion.png"><img class="imgn" class="hg" src="img/Heavyscorpion.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Heavyscorpion.png"><img class="imgn" class="hg" src="~assets/Heavyscorpion.png" alt=""></a> 
                   <p><em>一群重型弩砲</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Scorpionline.png"><img class="imgn" class="hg" src="img/Scorpionline.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Scorpionline.png"><img class="imgn" class="hg" src="~assets/Scorpionline.png" alt=""></a> 
                   <p><em>弩砲與重型弩砲</em>
                   </p>
                 </div>
@@ -321,7 +321,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/HeavyScorpionIcon.jpg" width="45" alt="">
+                  <img src="~assets/HeavyScorpionIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -337,13 +337,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" width="25px" src="img/Siegeworkshopicon.png" alt=""><a href="Siege_Workshop.php">攻城武器製造所</a>
+                <img class="gg" width="25px" src="~assets/Siegeworkshopicon.png" alt=""><a href="Siege_Workshop.php">攻城武器製造所</a>
               </td>
             </tr>
             <tr>
@@ -437,7 +437,7 @@
             <tr>
               <td class="unit3">從升級</td>
               <td class="unit4">
-                <img class="gg" src="img/ScorpionIcon.jpg" alt=""> <a href="Scorpion.php">弩砲</a>
+                <img class="gg" src="~assets/ScorpionIcon.jpg" alt=""> <a href="Scorpion.php">弩砲</a>
               </td>
             </tr>
           </table>

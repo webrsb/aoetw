@@ -13,7 +13,7 @@
             <p>斥侯俗稱肉馬，封建肉馬開局為制式封快的戰術之一，其特點為機動性高好上手，打法靈活，也對控經濟要求不高，為世界上不管是新手還是頂尖玩家都愛用的打法之一。適合所有除了南美以外的文明</p>
             <ul>
               <li>
-                <img src="img/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯→</a>:封建時代機動最強的兵種，攻擊、遠防高、殺村民快，克制矛兵與少量弓兵。可研發血統使其血量達65HP，更是無視一切。</li>
+                <img src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯→</a>:封建時代機動最強的兵種，攻擊、遠防高、殺村民快，克制矛兵與少量弓兵。可研發血統使其血量達65HP，更是無視一切。</li>
               </li>
             </ul>
           </div>
@@ -116,7 +116,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/ScoutCavalryIcon.jpg" width="45" alt="">
+                  <img src="~assets/ScoutCavalryIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>

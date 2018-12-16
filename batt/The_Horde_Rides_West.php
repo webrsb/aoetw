@@ -100,7 +100,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/The_horde_rides_west.png" width="" alt="">
+                  <img src="~assets/The_horde_rides_west.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -145,7 +145,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，竺叡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上蒙古入侵俄羅斯，花剌子模的戰役資訊
               <div style="margin-left: 10px;"><em><strong><a href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E5%BE%81%E6%9C%8D%E8%8A%B1%E5%89%8C%E5%AD%90%E6%A8%A1">蒙古征服花剌子模</a></strong></em>、<em><strong><a href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E5%BE%81%E6%9C%8D%E4%BF%84%E7%BD%97%E6%96%AF">蒙古征服俄羅斯</a></strong></em> 

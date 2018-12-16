@@ -26,16 +26,16 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img src="img/Kamayukicon.png" class="gg" alt="">槍隊長：反騎兵步兵。近戰射程一格的槍隊長(城堡兵)</li>
+                <img src="~assets/Kamayukicon.png" class="gg" alt="">槍隊長：反騎兵步兵。近戰射程一格的槍隊長(城堡兵)</li>
               <li>
-                <img src="img/Slingericon.png" class="gg" alt="">投石手：反步兵弓箭手。對步兵傷害+10(射箭場生產)</li>
+                <img src="~assets/Slingericon.png" class="gg" alt="">投石手：反步兵弓箭手。對步兵傷害+10(射箭場生產)</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png">安地斯彈弓:取消矛兵和投石手的最小射程。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png">安地斯彈弓:取消矛兵和投石手的最小射程。</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg">信使:槍隊長、投石手和鷹勇士的護甲+1/+2。</li>
+                <img class="gg" src="~assets/Unique-tech.jpg">信使:槍隊長、投石手和鷹勇士的護甲+1/+2。</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -72,7 +72,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Incas_town.png"><img class="imgn" class="hg" src="img/Incas_town.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Incas_town.png"><img class="imgn" class="hg" src="~assets/Incas_town.png" alt=""></a> 
                 <p><em>官方版本的印加宣傳</em>
                 </p>
               </div>
@@ -89,7 +89,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="300px;" src="img/incascover.jpg" alt="">
+                  <img width="300px;" src="~assets/incascover.jpg" alt="">
                   <p><em>印加人最著名的城市之一馬丘比丘遺址，海拔2430米，與守護神羊駝</em>
                 </div>
                 </p>
@@ -110,8 +110,8 @@
             </tr>
             <tr>
               <td class="unit3">特殊單位</td>
-              <td class="unit4"><img src="img/Kamayukicon.png" class="gg" alt="">槍隊長
-                <br><img src="img/Slingericon.png" class="gg" alt="">投石手</td>
+              <td class="unit4"><img src="~assets/Kamayukicon.png" class="gg" alt="">槍隊長
+                <br><img src="~assets/Slingericon.png" class="gg" alt="">投石手</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -120,9 +120,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">安地斯彈弓
+                <img class="gg" src="~assets/CastleAgeUnique.png">安地斯彈弓
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">信使</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">信使</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由apencilbox協助編輯</div>

@@ -50,7 +50,7 @@
                 <p>希臘之火是東羅馬帝國所利用的一種可以在水上燃燒的液態燃燒劑，為早期熱兵器，主要應用於海戰中，「希臘之火」或「羅馬火」只是阿拉伯人對這種恐怖武器的稱呼，東羅馬自己則稱之為「海洋之火」、「流動之火」、「液體火焰」、「人造之火」和「防備之火」等等。</p>
               </div>
               <div class="col-md-6">
-                <img src="img/Greekfire-madridskylitzes1.jpg" width="300px;" alt="">
+                <img src="~assets/Greekfire-madridskylitzes1.jpg" width="300px;" alt="">
               </div>
               <div class="col-md-12">
                 <p>根據文獻記載，希臘之火多次為東羅馬帝國的軍事勝利作出頗大的貢獻，一些學者和歷史學家認為它是東羅馬帝國能持續千年之久的原因之一，希臘之火的配方現已失傳，成份至今仍是一個謎團，而據當時受希臘之火所傷的十字軍所記述：「每當敵人用希臘之火攻擊我們，所做的事只有屈膝下跪，祈求上天的拯救。」那段引文足以說明希臘之火的威力</p>
@@ -69,7 +69,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/CastleAgeUnique.png" width="45" alt="">
+                  <img src="~assets/CastleAgeUnique.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -87,13 +87,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
               </td>
             </tr>
             <tr>
@@ -128,7 +128,7 @@
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的希臘之火
               <div style="margin-left: 10px;"><i><strong><a href="http://tinyurl.com/yaawj4q2">希臘火</a></strong></i>

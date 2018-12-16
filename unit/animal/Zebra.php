@@ -28,13 +28,13 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="250" src="img/Zebrahunt.png" alt="">
+                <img class="hg" width="250" src="~assets/Zebrahunt.png" alt="">
                 <p><em>世紀帝國II中村民正狩獵斑馬群。</em>
 
                 </p>
               </div>
               <div class="col-md-4">
-                <img class="hg" width="200" src="img/AOE2Zebra.png" alt="">
+                <img class="hg" width="200" src="~assets/AOE2Zebra.png" alt="">
                 <p><em>世紀帝國II的斑馬。</em>
 
                 </p>
@@ -54,7 +54,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Zebraicon.png" width="80" alt="">
+                  <img src="~assets/Zebraicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

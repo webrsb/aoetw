@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <div class="spw"><em><img src="img/Subotaiicon.png" width="50px;" alt="" style="margin-right:20px;">不要搞混了，<a href="Gajah_Mada.php">加查馬達</a>這個英雄的頁面在這邊。</em>
+            <div class="spw"><em><img src="~assets/Subotaiicon.png" width="50px;" alt="" style="margin-right:20px;">不要搞混了，<a href="Gajah_Mada.php">加查馬達</a>這個英雄的頁面在這邊。</em>
             </div>
             <div class="ien"><em>    在爪哇島上，一顆新星冉冉升起。加查.馬達，作為滿者伯夷的攝政王，決心要建立一個統治這片大海上數千島嶼的龐大帝國。他能否既效忠於王室，又實現自己的野心抱負？</em>
               <p
@@ -45,7 +45,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/21.Gajah Mada.jpg" width="300px;" alt="">
+                <img src="~assets/21.Gajah Mada.jpg" width="300px;" alt="">
                 <p>加查馬達戰役地圖</p>
               </div>
             </div>
@@ -69,7 +69,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Gajah Mada.jpg" width="300" alt="">
+                  <img src="~assets/Gajah Mada.jpg" width="300" alt="">
                   <p><em>本系列主角 加查馬達像</em>
                   </p>
                 </div>
@@ -100,7 +100,7 @@
           <div class="thanks">感謝! 此頁面由亞諭、裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的加查.馬達
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%9F%A5%C2%B7%E9%A6%AC%E9%81%94">加查.馬達</a></b></i>

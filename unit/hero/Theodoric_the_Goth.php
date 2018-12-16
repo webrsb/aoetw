@@ -29,7 +29,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/HuscarlIcon.png" width="80" alt="">
+                  <img src="~assets/HuscarlIcon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -99,7 +99,7 @@
           <div class="thanks">感謝! 此頁面由Falcon6164協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的哥德人狄奧多利克
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E7%8B%84%E5%A5%A7%E5%A4%9A%E9%87%8C%E5%85%8B%E5%A4%A7%E5%B8%9D">狄奧多里克大帝</a></strong></i>

@@ -25,7 +25,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Gold_Rush.jpg" width="300" alt="">
+          <img src="~assets/Gold_Rush.jpg" width="300" alt="">
            <h4>一個兩人的淘金潮地圖</h4> 
         </div>
       </div>

@@ -14,7 +14,7 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d2660e;">
                 <div style="color: #fff;text-align: center; padding: 2px;">
-                  <img src="img/KingsIcon.png" style="margin-right: 3px;" alt="">帝王世紀</div>
+                  <img src="~assets/KingsIcon.png" style="margin-right: 3px;" alt="">帝王世紀</div>
               </td>
             </tr>
             <tr>
@@ -57,7 +57,7 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d2660e;">
                 <div style="color: #fff;text-align: center; padding: 2px;">
-                  <img src="img/ConquerorsIcon.png" style="margin-right: 3px;" alt="">征服者入侵</div>
+                  <img src="~assets/ConquerorsIcon.png" style="margin-right: 3px;" alt="">征服者入侵</div>
               </td>
             </tr>
             <tr>
@@ -77,7 +77,7 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d2660e;">
                 <div style="color: #fff;text-align: center; padding: 2px;">
-                  <img src="img/ForgottenIcon.png" style="margin-right: 3px;" alt="">失落的王朝</div>
+                  <img src="~assets/ForgottenIcon.png" style="margin-right: 3px;" alt="">失落的王朝</div>
               </td>
             </tr>
             <tr>
@@ -97,7 +97,7 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d2660e;">
                 <div style="color: #fff;text-align: center; padding: 2px;">
-                  <img src="img/AfricanIcon.png" style="margin-right: 3px;" alt="">非洲王國</div>
+                  <img src="~assets/AfricanIcon.png" style="margin-right: 3px;" alt="">非洲王國</div>
               </td>
             </tr>
             <tr>
@@ -123,7 +123,7 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d2660e;">
                 <div style="color: #fff;text-align: center; padding: 2px;">
-                  <img src="img/RajaIcon.png" style="margin-right: 3px;" alt="">王者崛起</div>
+                  <img src="~assets/RajaIcon.png" style="margin-right: 3px;" alt="">王者崛起</div>
               </td>
             </tr>
             <tr>

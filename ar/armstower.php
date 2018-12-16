@@ -14,9 +14,9 @@
             <p>裝甲塔是遊戲內一種非常兇猛的戰術，顧名思義就是上封建後利用裝甲步兵掩護村民蓋塔，癱瘓其經濟，其特點是高風險但高報酬，在一般阿拉伯單挑中非常熱門。</p>
             <ul>
               <li>
-                <img src="img/ManAtArmsIcon.jpg" width="25" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>:封建初期近戰王者，不怕少量斥侯與槍兵，但比較怕弓兵，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。</li>
+                <img src="~assets/ManAtArmsIcon.jpg" width="25" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>:封建初期近戰王者，不怕少量斥侯與槍兵，但比較怕弓兵，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。</li>
               <li>
-                <img width="25px" src="img/Watchtowericon.png" alt=""><a href="Guard_Tower.php">暸望箭塔</a>:遊戲說明箭塔為防禦建築，其實為非常兇猛的進攻手段，射程高達8，可以輕易封鎖任何資源點，駐紮村民後也不怕封建時代任何兵種，唯獨如果缺乏保護很容易被村民拆掉，可以養成在箭塔底下蓋牆的好習慣。</a>
+                <img width="25px" src="~assets/Watchtowericon.png" alt=""><a href="Guard_Tower.php">暸望箭塔</a>:遊戲說明箭塔為防禦建築，其實為非常兇猛的進攻手段，射程高達8，可以輕易封鎖任何資源點，駐紮村民後也不怕封建時代任何兵種，唯獨如果缺乏保護很容易被村民拆掉，可以養成在箭塔底下蓋牆的好習慣。</a>
               </li>
             </ul>
           </div>
@@ -151,8 +151,8 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="45px" src="img/ManAtArmsIcon.jpg" alt="">
-                  <img width="45px" src="img/Watchtowericon.png" alt="">
+                  <img width="45px" src="~assets/ManAtArmsIcon.jpg" alt="">
+                  <img width="45px" src="~assets/Watchtowericon.png" alt="">
                 </div>
               </td>
             </tr>

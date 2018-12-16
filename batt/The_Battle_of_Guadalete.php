@@ -138,7 +138,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/The_Battle_of_Guadalete1.jpg" width="" alt="">
+                  <img src="~assets/The_Battle_of_Guadalete1.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -184,7 +184,7 @@
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的羅德里克
               <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Roderic">羅德里克(英文版)</a></b></i>
@@ -193,7 +193,7 @@
           </div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/baike.jpg" width="50" height="46">
+              <img src="~assets/baike.jpg" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">百度百科上的瓜達萊特之戰
               <div style="margin-left: 10px;"><i><b><a href="https://baike.baidu.com/item/%E7%93%9C%E8%BE%BE%E8%8E%B1%E7%89%B9%E6%88%98%E5%BD%B9">瓜達萊特之戰(簡體版)</a></b></i>

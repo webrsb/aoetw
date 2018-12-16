@@ -91,12 +91,12 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/White_Castle,_arrow_slit.jpg"><img class="imgn" class="hg" src="img/White_Castle,_arrow_slit.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/White_Castle,_arrow_slit.jpg"><img class="imgn" class="hg" src="~assets/White_Castle,_arrow_slit.jpg" alt=""></a> 
                 <p><em><a href="https://en.wikipedia.org/wiki/White_Castle,_Monmouthshire">威爾斯白堡</a>的箭狹槽。  </a></em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Arrow_slat_corfe_castle.jpg"><img class="imgn" class="hg" src="img/Arrow_slat_corfe_castle.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Arrow_slat_corfe_castle.jpg"><img class="imgn" class="hg" src="~assets/Arrow_slat_corfe_castle.jpg" alt=""></a> 
                 <p><em>由內部看的箭狹槽，也就是弓箭手會站的位置。</em>
 
                 </p>
@@ -116,7 +116,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Arrowlits.jpg" width="45" alt="">
+                  <img src="~assets/Arrowlits.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -134,14 +134,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
+                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
 
               </td>
             </tr>

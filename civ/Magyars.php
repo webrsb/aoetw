@@ -30,14 +30,14 @@
             <h3>特殊單位</h3>
             <ul>
               <p>
-                <img class="gg" src="img/Magyar_Huszar_icon.jpg" alt="">馬札爾驃騎兵:便宜的輕騎兵，對攻城器有加成。</p>
+                <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" alt="">馬札爾驃騎兵:便宜的輕騎兵，對攻城器有加成。</p>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <p>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">雇傭兵：生產馬札爾驃騎兵時不需要黃金。</p>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">雇傭兵：生產馬札爾驃騎兵時不需要黃金。</p>
               <p>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">反曲弓：馬弓騎兵攻擊與距離額外+1。</p>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">反曲弓：馬弓騎兵攻擊與距離額外+1。</p>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -69,7 +69,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Maygars_preview.png"><img class="imgn" class="hg" src="img/Maygars_preview.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Maygars_preview.png"><img class="imgn" class="hg" src="~assets/Maygars_preview.png" alt=""></a> 
                 <p><em>官方釋出的馬扎爾文明</em>
                 </p>
               </div>
@@ -87,7 +87,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Flag1.png" width="300px;" alt="">
+                  <img src="~assets/Flag1.png" width="300px;" alt="">
                   <p><em>匈牙利黑軍旗幟</em>
                   </p>
                 </div>
@@ -110,7 +110,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/Magyar_Huszar_icon.jpg">馬札爾驃騎兵</td>
+                <img class="gg" src="~assets/Magyar_Huszar_icon.jpg">馬札爾驃騎兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -119,9 +119,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">雇傭兵
+                <img class="gg" src="~assets/CastleAgeUnique.png">雇傭兵
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">反曲弓</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">反曲弓</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

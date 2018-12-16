@@ -6,7 +6,7 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
           <h1>僧侶</h1>
-                   <div class="dc"><em><img src="img/Vladdraculaicon.png" width="50px;" alt="" style="margin-right:20px;">這條目相當完整，是一篇<a href="ue.php">優異條目</a><img src="img/u1.png" style="margin-left: 15px;" width="25px;" alt="" style="margin-right:10px;"></em>
+                   <div class="dc"><em><img src="~assets/Vladdraculaicon.png" width="50px;" alt="" style="margin-right:20px;">這條目相當完整，是一篇<a href="ue.php">優異條目</a><img src="~assets/u1.png" style="margin-left: 15px;" width="25px;" alt="" style="margin-right:10px;"></em>
           </div>
           <div class="hrn1"></div>
         </div>
@@ -31,37 +31,37 @@
               <div class="col-md-12"> <a href="Castle_Age.php">城堡時代</a> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Redemption.jpg" alt=""><a href="Redemption.php">信仰救贖</a>:僧侶可招降大部分建築物和攻城單位。</li>
+                    <img class="gg" src="~assets/Redemption.jpg" alt=""><a href="Redemption.php">信仰救贖</a>:僧侶可招降大部分建築物和攻城單位。</li>
                   <li>
-                    <img class="gg" src="img/Atonement.jpg" alt=""><a href="Atonement.php">贖罪</a>:僧侶可招降對方的僧侶。</li>
+                    <img class="gg" src="~assets/Atonement.jpg" alt=""><a href="Atonement.php">贖罪</a>:僧侶可招降對方的僧侶。</li>
                   <li>
-                    <img class="gg" src="img/Herbalmedicine.png" alt=""><a href="Herbal_Medicine.php">草藥學:駐紮單位自身治療速度變為4倍。</a>
+                    <img class="gg" src="~assets/Herbalmedicine.png" alt=""><a href="Herbal_Medicine.php">草藥學:駐紮單位自身治療速度變為4倍。</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Heresy.png" alt=""><a href="Heresy.php">異端邪說</a>:被招降的單位/建築物立即死亡/毀壞)。</li>
+                    <img class="gg" src="~assets/Heresy.png" alt=""><a href="Heresy.php">異端邪說</a>:被招降的單位/建築物立即死亡/毀壞)。</li>
                   <li>
-                    <img class="gg" src="img/Sanctity.jpg" alt=""><a href="Sanctity.php">聖潔虔誠</a>:僧侶+15 HP。</li>
+                    <img class="gg" src="~assets/Sanctity.jpg" alt=""><a href="Sanctity.php">聖潔虔誠</a>:僧侶+15 HP。</li>
                   <li>
-                    <img class="gg" src="img/Fervor.jpg" alt=""><a href="Fervor.php">宗教狂熱</a>:僧侶移動速度+15%。</li>
+                    <img class="gg" src="~assets/Fervor.jpg" alt=""><a href="Fervor.php">宗教狂熱</a>:僧侶移動速度+15%。</li>
                   <li>
-                    <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Inquisition.php">異端審判:僧侶招降速度變快(對單位時間-1，對建築物時間-7)(西班牙限定)</a>
+                    <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Inquisition.php">異端審判:僧侶招降速度變快(對單位時間-1，對建築物時間-7)(西班牙限定)</a>
                   </li>
                   <li>
-                    <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Madrasah.php">穆斯林學墊</a>:僧侶死亡時返還33黃金。(薩拉森限定)</li>
+                    <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Madrasah.php">穆斯林學墊</a>:僧侶死亡時返還33黃金。(薩拉森限定)</li>
                   <li>
-                    <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Orthodoxy.php">東正教</a>:僧侶護甲+3/+3。(斯拉夫限定)</li>
+                    <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Orthodoxy.php">東正教</a>:僧侶護甲+3/+3。(斯拉夫限定)</li>
                 </ul>
               </div>
               <div class="col-md-12"> <a href="Imperial_Age.php">帝王時代</a> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>:單位對僧侶(傳教士)的招降更具抵抗力。</li>
+                    <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>:單位對僧侶(傳教士)的招降更具抵抗力。</li>
                   <li>
-                    <img class="gg" src="img/Illumination.jpg" alt=""><a href="Illumination.php">啟發教化</a>:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。</li>
+                    <img class="gg" src="~assets/Illumination.jpg" alt=""><a href="Illumination.php">啟發教化</a>:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。</li>
                   <li>
-                    <img class="gg" src="img/Blockprinting.jpg" alt=""><a href="Block_Printing.php">雕版印刷術</a>:僧侶(傳教士)的招降範圍+3。</li>
+                    <img class="gg" src="~assets/Blockprinting.jpg" alt=""><a href="Block_Printing.php">雕版印刷術</a>:僧侶(傳教士)的招降範圍+3。</li>
                   <li>
-                    <img class="gg" src="img/Theocracy.png" alt=""><a href="Theocracy.php">神權統治</a>:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。</li>
+                    <img class="gg" src="~assets/Theocracy.png" alt=""><a href="Theocracy.php">神權統治</a>:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。</li>
               </ul>
               </div>
               <h3><a href="Relic.php">遺跡</a> </h3>
@@ -123,25 +123,25 @@
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="img/HussarIcon.jpg" alt=""><a href="Hussar.php">匈牙利清騎兵</a> 
+                    <img class="gg" src="~assets/HussarIcon.jpg" alt=""><a href="Hussar.php">匈牙利清騎兵</a> 
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong>
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="img/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
+                    <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
                   </li>
                   <li>
-                    <img class="gg" src="img/LightCavalryIcon.jpg" alt=""><a href="Light_Cavalry.php">輕騎兵</a> 
+                    <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><a href="Light_Cavalry.php">輕騎兵</a> 
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong>
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="img/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯→</a> 
-                    <img class="gg" src="img/EagleWarriorIcon.jpg"
+                    <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯→</a> 
+                    <img class="gg" src="~assets/EagleWarriorIcon.jpg"
                     alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
                   </li>
                 </ul>
@@ -149,7 +149,7 @@
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" style="margin: 2px;" src="img/ScoutCavalryIcon.jpg" alt=""><a href="Scout_Cavalry.php">斥侯</a> 
+                    <img class="gg" style="margin: 2px;" src="~assets/ScoutCavalryIcon.jpg" alt=""><a href="Scout_Cavalry.php">斥侯</a> 
                   </li>
                 </ul>
               </div>
@@ -216,15 +216,15 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/monks1.png"><img  class="imgn" class="hg" width="250" src="img/monks1.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/monks1.png"><img  class="imgn" class="hg" width="250" src="~assets/monks1.png" alt=""></a> 
                   <p><em>Voobly模組內，亞洲國家獨特的僧侶外型。其實原型是<a href="Chand_Bhai.php">金德-伯勒達伊</a>。</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/monks2.png"><img  class="imgn" class="hg" width="250" src="img/monks2.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/monks2.png"><img  class="imgn" class="hg" width="250" src="~assets/monks2.png" alt=""></a> 
                   <p><em>一般的僧侶。</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/monks3.png"><img  class="imgn" class="hg" width="250" src="img/monks3.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/monks3.png"><img  class="imgn" class="hg" width="250" src="~assets/monks3.png" alt=""></a> 
                   <p><em>美洲國家的僧侶。</em>
                   </p>
                 </div>
@@ -243,8 +243,8 @@
               <tr>
                 <td colspan="2">
                   <div class="unititle">
-                    <img src="img/MonkIcon.jpg" width="45" style="margin-right: 10px;" alt="">
-                    <img src="img/MonkIcon2.jpg" width="45" alt="">
+                    <img src="~assets/MonkIcon.jpg" width="45" style="margin-right: 10px;" alt="">
+                    <img src="~assets/MonkIcon2.jpg" width="45" alt="">
                     <p><em>一般國家的僧侶與美洲僧侶</em>
                     </p>
                   </div>

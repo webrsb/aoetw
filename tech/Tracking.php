@@ -36,7 +36,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/MilitiaIcon.jpg"><a href="Militia.php">民兵</a>
+                <img class="gg" src="~assets/MilitiaIcon.jpg"><a href="Militia.php">民兵</a>
               </td>
               <td class="tta2">4</td>
               <td class="tta3">6</td>
@@ -44,7 +44,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/ManAtArmsIcon.jpg"><a href="Man-at-Arms.php">裝甲步兵</a>
+                <img class="gg" src="~assets/ManAtArmsIcon.jpg"><a href="Man-at-Arms.php">裝甲步兵</a>
               </td>
               <td class="tta2">4</td>
               <td class="tta3">6</td>
@@ -52,7 +52,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/LongswordsManIcon.jpg"><a href="Long_Swordsman.php">長劍兵</a>
+                <img class="gg" src="~assets/LongswordsManIcon.jpg"><a href="Long_Swordsman.php">長劍兵</a>
               </td>
               <td class="tta2">4</td>
               <td class="tta3">6</td>
@@ -60,7 +60,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/2HandedswordsmanIcon.jpg"><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
+                <img class="gg" src="~assets/2HandedswordsmanIcon.jpg"><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
               </td>
               <td class="tta2">5</td>
               <td class="tta3">7</td>
@@ -68,7 +68,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/ChampionIcon.jpg"><a href="Champion.php">劍兵勇士</a>
+                <img class="gg" src="~assets/ChampionIcon.jpg"><a href="Champion.php">劍兵勇士</a>
               </td>
               <td class="tta2">5</td>
               <td class="tta3">7</td>
@@ -76,7 +76,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/SpearmanIcon.jpg"><a href="Spearman.php">長槍兵</a>
+                <img class="gg" src="~assets/SpearmanIcon.jpg"><a href="Spearman.php">長槍兵</a>
               </td>
               <td class="tta2">4</td>
               <td class="tta3">6</td>
@@ -84,7 +84,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/PikemanIcon.jpg"><a href="Pikeman.php">重裝長槍兵</a>
+                <img class="gg" src="~assets/PikemanIcon.jpg"><a href="Pikeman.php">重裝長槍兵</a>
               </td>
               <td class="tta2">4</td>
               <td class="tta3">6</td>
@@ -92,7 +92,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/HalberdierIcon.jpg"><a href="Halberdier.php">戟兵</a>
+                <img class="gg" src="~assets/HalberdierIcon.jpg"><a href="Halberdier.php">戟兵</a>
               </td>
               <td class="tta2">4</td>
               <td class="tta3">6</td>
@@ -100,7 +100,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/EagleScoutIcon.jpg"><a href="Eagle_Scout.php">鷹斥侯</a>
+                <img class="gg" src="~assets/EagleScoutIcon.jpg"><a href="Eagle_Scout.php">鷹斥侯</a>
               </td>
               <td class="tta2">6</td>
               <td class="tta3">8</td>
@@ -108,7 +108,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/EagleWarriorIcon.jpg"><a href="Eagle_Warrior.php">鷹勇士</a>
+                <img class="gg" src="~assets/EagleWarriorIcon.jpg"><a href="Eagle_Warrior.php">鷹勇士</a>
               </td>
               <td class="tta2">6</td>
               <td class="tta3">8</td>
@@ -116,7 +116,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/EliteEagleWarriorIcon.jpg"><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
+                <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg"><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
               </td>
               <td class="tta2">6</td>
               <td class="tta3">8</td>
@@ -124,7 +124,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/WBRSK.jpg"><a href="Woad_Raider.php">菘藍武士(精銳)</a>
+                <img class="gg" src="~assets/WBRSK.jpg"><a href="Woad_Raider.php">菘藍武士(精銳)</a>
               </td>
               <td class="tta2">3，5</td>
               <td class="tta3">5，7</td>
@@ -132,7 +132,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/TAXEM.jpg"><a href="Throwing_Axeman.php">擲斧兵(精銳)</a>
+                <img class="gg" src="~assets/TAXEM.jpg"><a href="Throwing_Axeman.php">擲斧兵(精銳)</a>
               </td>
               <td class="tta2">5，6</td>
               <td class="tta3">7，8</td>
@@ -140,7 +140,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/HuskarlIcon.jpg"><a href="Huskarl.php">哥德衛隊(精銳)</a>
+                <img class="gg" src="~assets/HuskarlIcon.jpg"><a href="Huskarl.php">哥德衛隊(精銳)</a>
               </td>
               <td class="tta2">3，5</td>
               <td class="tta3">5，7</td>
@@ -148,7 +148,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/SMURI.jpg"><a href="Samurai.php">日本武士(精銳</a>
+                <img class="gg" src="~assets/SMURI.jpg"><a href="Samurai.php">日本武士(精銳</a>
               </td>
               <td class="tta2">4，5</td>
               <td class="tta3">6，7</td>
@@ -156,7 +156,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Crusade_avatar.png"><a href="Teutonic_Knight.php">條頓武士(精銳)</a>
+                <img class="gg" src="~assets/Crusade_avatar.png"><a href="Teutonic_Knight.php">條頓武士(精銳)</a>
               </td>
               <td class="tta2">3，5</td>
               <td class="tta3">5，7</td>
@@ -164,7 +164,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/VBRSK.jpg"><a href="Bersek.php">狂戰士(精銳)</a>
+                <img class="gg" src="~assets/VBRSK.jpg"><a href="Bersek.php">狂戰士(精銳)</a>
               </td>
               <td class="tta2">3，5</td>
               <td class="tta3">5，7</td>
@@ -172,7 +172,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/JaguarWarriorIcon.jpg"><a href="Jaguar_Warrior.php">豹勇士(精銳)</a>
+                <img class="gg" src="~assets/JaguarWarriorIcon.jpg"><a href="Jaguar_Warrior.php">豹勇士(精銳)</a>
               </td>
               <td class="tta2">3，5</td>
               <td class="tta3">5，7</td>
@@ -180,7 +180,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Kamayuk_Icon.jpg"><a href="Kamayuk.php">槍隊長(精銳)</a>
+                <img class="gg" src="~assets/Kamayuk_Icon.jpg"><a href="Kamayuk.php">槍隊長(精銳)</a>
               </td>
               <td class="tta2">4，5</td>
               <td class="tta3">6，7</td>
@@ -188,7 +188,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/CondottieroNewIcon.jpg"><a href="Condottiero.php">傭兵</a>
+                <img class="gg" src="~assets/CondottieroNewIcon.jpg"><a href="Condottiero.php">傭兵</a>
               </td>
               <td class="tta2">6</td>
               <td class="tta3">8</td>
@@ -196,7 +196,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/ShotelIcon.png"><a href="Karambit_Warrior.php">彎刀勇士(精銳)</a>
+                <img class="gg" src="~assets/ShotelIcon.png"><a href="Karambit_Warrior.php">彎刀勇士(精銳)</a>
               </td>
               <td class="tta2">3，3</td>
               <td class="tta3">5，5</td>
@@ -204,7 +204,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/GbetoIcon.png"><a href="Gbeto.php">飛刀女獵手(精銳)</a>
+                <img class="gg" src="~assets/GbetoIcon.png"><a href="Gbeto.php">飛刀女獵手(精銳)</a>
               </td>
               <td class="tta2">6，7</td>
               <td class="tta3">8，9</td>
@@ -212,7 +212,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Karambitwarrioricon.png"><a href="Shotel_Warrior.php">爪刀勇士(精銳)</a>
+                <img class="gg" src="~assets/Karambitwarrioricon.png"><a href="Shotel_Warrior.php">爪刀勇士(精銳)</a>
               </td>
               <td class="tta2">3，3</td>
               <td class="tta3">5，5</td>
@@ -264,7 +264,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Tracking.jpg" width="45" alt="">
+                  <img src="~assets/Tracking.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -281,13 +281,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Barracks-logo.jpg" alt=""><a href="Barracks.php">軍營</a>
+                <img class="gg" src="~assets/Barracks-logo.jpg" alt=""><a href="Barracks.php">軍營</a>
               </td>
             </tr>
             <tr>

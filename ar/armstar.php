@@ -14,7 +14,7 @@
             <p>裝甲開局為阿拉伯打法之一，裝甲步兵血多攻擊高，在封建初期無任何對手，直到對方弓兵出來前，都非常具有威脅性。</p>
             <ul>
               <li>
-                <img src="img/ManAtArmsIcon.jpg" width="25" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>:封建初期近戰王者，不怕少量斥侯與槍兵，但比較怕弓兵，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。</li>
+                <img src="~assets/ManAtArmsIcon.jpg" width="25" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>:封建初期近戰王者，不怕少量斥侯與槍兵，但比較怕弓兵，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。</li>
             </ul>
           </div>
            <h3>概述</h3>
@@ -103,7 +103,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/ManAtArmsIcon.jpg" width="45" alt="">
+                  <img src="~assets/ManAtArmsIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>

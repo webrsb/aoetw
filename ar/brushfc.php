@@ -14,7 +14,7 @@
             <p>黑快搶城也稱為三棒棒直城，為阿拉伯的打法之一，其特點是利用民兵爭取時間，達到快速的上城堡，利用優勢的時代兵種取得優勢的打法。</p>
             <ul>
               <li>
-                <img src="img/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵→</a>:黑暗時代唯一可以訓練的軍事單位，可有效牽制敵軍，甚至擊殺對方村民。</li>
+                <img src="~assets/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵→</a>:黑暗時代唯一可以訓練的軍事單位，可有效牽制敵軍，甚至擊殺對方村民。</li>
               </li>
             </ul>
           </div>
@@ -139,7 +139,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵</a>
+                  <img src="~assets/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵</a>
 
                 </div>
               </td>

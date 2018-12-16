@@ -25,7 +25,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="200" src="img/LlamaII.png" alt="">
+                <img class="hg" width="200" src="~assets/LlamaII.png" alt="">
                 <p><em>世紀帝國 II的羊駝。</em>
                 </p>
               </div>
@@ -43,7 +43,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/LlamaII_icon.png" width="80" alt="">
+                  <img src="~assets/LlamaII_icon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

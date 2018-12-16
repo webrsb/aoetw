@@ -39,11 +39,11 @@
                    <h4>黑暗時代</h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/FishingShipIcon.jpg"><a href="Fishing_Ship.php">漁船</a>
+                      <img class="gg" src="~assets/FishingShipIcon.jpg"><a href="Fishing_Ship.php">漁船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/TransportShipIcon.jpg"><a href="Transport_Ship.php">運輸船</a>
+                      <img class="gg" src="~assets/TransportShipIcon.jpg"><a href="Transport_Ship.php">運輸船</a>
 
                     </li>
                   </ul>
@@ -54,19 +54,19 @@
                    <h4>封建時代</h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/FireGalleyIcon.jpg"><a href="Fire_Galley.php">火蒙衝</a>
+                      <img class="gg" src="~assets/FireGalleyIcon.jpg"><a href="Fire_Galley.php">火蒙衝</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/TradeCogIcon.jpg"><a href="Trade_Cog.php">貿易商旅</a>
+                      <img class="gg" src="~assets/TradeCogIcon.jpg"><a href="Trade_Cog.php">貿易商旅</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/DemoRaftIcon.jpg"><a href="Demolition_Raft.php">自爆筏</a>
+                      <img class="gg" src="~assets/DemoRaftIcon.jpg"><a href="Demolition_Raft.php">自爆筏</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/Galley.jpg"><a href="Galley.php">戰船</a>
+                      <img class="gg" src="~assets/Galley.jpg"><a href="Galley.php">戰船</a>
 
                     </li>
                   </ul>
@@ -77,35 +77,35 @@
                    <h4>城堡時代</h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/FireShipIcon.jpg"><a href="Fire_Ship.php">火戰船</a>
+                      <img class="gg" src="~assets/FireShipIcon.jpg"><a href="Fire_Ship.php">火戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/DemoShipIcon.jpg"><a href="Demolition_Ship.php">神風船</a>
+                      <img class="gg" src="~assets/DemoShipIcon.jpg"><a href="Demolition_Ship.php">神風船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/WarGalley.jpg"><a href="War_Galley.php">弩炮戰船</a>
+                      <img class="gg" src="~assets/WarGalley.jpg"><a href="War_Galley.php">弩炮戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/LongboatIcon.jpg"><a href="LongBoat.php">維京大戰船</a>
+                      <img class="gg" src="~assets/LongboatIcon.jpg"><a href="LongBoat.php">維京大戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">龜甲船</a>
+                      <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">龜甲船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/CaravelIcon2.jpg"><a href="Caravel.php">卡拉維爾戰船</a>
+                      <img class="gg" src="~assets/CaravelIcon2.jpg"><a href="Caravel.php">卡拉維爾戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" style="margin: 2px;" src="img/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>
+                      <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>
 
                     </li>
                     <li>
-                      <img class="gg" style="margin: 2px;" src="img/Gillnetsicon.jpg" alt=""><a href="Gillnets.php">流刺網</a>
+                      <img class="gg" style="margin: 2px;" src="~assets/Gillnetsicon.jpg" alt=""><a href="Gillnets.php">流刺網</a>
 
                     </li>
                   </ul>
@@ -116,43 +116,43 @@
                    <h4>帝王時代</h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/FastFireShipIcon.jpg"><a href="Fast_Fire_Ship.php">快速火戰船</a>
+                      <img class="gg" src="~assets/FastFireShipIcon.jpg"><a href="Fast_Fire_Ship.php">快速火戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/CannonGalleonIcon.jpg"><a href="Cannon_Galleon.php">火炮戰船</a>
+                      <img class="gg" src="~assets/CannonGalleonIcon.jpg"><a href="Cannon_Galleon.php">火炮戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/CannonGalleonIcon.jpg"><a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>
+                      <img class="gg" src="~assets/CannonGalleonIcon.jpg"><a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/HeavyDemoShipIcon.jpg"><a href="Heavy_Demolition_Ship.php">重型神風船</a>
+                      <img class="gg" src="~assets/HeavyDemoShipIcon.jpg"><a href="Heavy_Demolition_Ship.php">重型神風船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/GalleonAoE2.jpg"><a href="Galleon.php">重型弩炮戰船</a>
+                      <img class="gg" src="~assets/GalleonAoE2.jpg"><a href="Galleon.php">重型弩炮戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/LongboatIcon.jpg"><a href="LongBoat.php">精銳維京大戰船</a>
+                      <img class="gg" src="~assets/LongboatIcon.jpg"><a href="LongBoat.php">精銳維京大戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">精銳龜甲船</a>
+                      <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">精銳龜甲船</a>
 
                     </li>
                     <li>
-                      <img class="gg" src="img/CaravelIcon2.jpg"><a href="Caravel.php">精銳卡拉維爾戰船</a>
+                      <img class="gg" src="~assets/CaravelIcon2.jpg"><a href="Caravel.php">精銳卡拉維爾戰船</a>
 
                     </li>
                     <li>
-                      <img class="gg" style="margin: 2px;" src="img/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>
+                      <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>
 
                     </li>
                     <li>
-                      <img class="gg" style="margin: 2px;" src="img/Shipwright.jpg" alt=""><a href="Shipwright.php">造船匠</a>
+                      <img class="gg" style="margin: 2px;" src="~assets/Shipwright.jpg" alt=""><a href="Shipwright.php">造船匠</a>
 
                     </li>
                   </ul>
@@ -185,42 +185,42 @@
               <tr>
                 <td class="tta1" style="width:20%">生命值</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                  <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                   <br>
-                  <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                  <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:20%">護甲</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                  <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                   <br>
-                  <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                  <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
               </tr>
               <tr>
                 <td class="tta1">視野</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                  <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                   <br>
-                  <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                  <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
               </tr>
               <tr>
                 <td class="tta1">招降抵抗</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
                   <br>
-                  <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">建造速度</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                  <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
               </tr>
               <tr>
                 <td class="tta1">工作效率</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Shipwright.jpg" width="30" alt=""><a href="Shipwright.php">造船匠</a>:船隻木頭花費-20%，單位生產速度+35%</td>
+                  <img class="gg" src="~assets/Shipwright.jpg" width="30" alt=""><a href="Shipwright.php">造船匠</a>:船隻木頭花費-20%，單位生產速度+35%</td>
               </tr>
               <tr>
                 <td class="tta1">其他</td>
@@ -307,7 +307,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Dockicon.png" width="45" alt="">
+                  <img src="~assets/Dockicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -373,24 +373,24 @@
             <tr>
               <td class="unit3">近防</td>
               <td class="unit4">
-                <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt="">0
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">0
                 <br>
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
-                <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt="">7
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">7
                 <br>
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">8
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">8
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
@@ -412,7 +412,7 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/DockDarkAge.png"><img class="imgn" class="hg" width="180" src="img/DockDarkAge.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/DockDarkAge.png"><img class="imgn" class="hg" width="180" src="~assets/DockDarkAge.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有黑暗時代的碼頭。</em>
@@ -420,7 +420,7 @@
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/DockFeudalAgeHD.png"><img class="imgn" class="hg" width="200" src="img/DockFeudalAgeHD.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/DockFeudalAgeHD.png"><img class="imgn" class="hg" width="200" src="~assets/DockFeudalAgeHD.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的碼頭(帝王世紀和征服者入侵資料片)。</em>
@@ -428,7 +428,7 @@
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/DockFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="img/DockFeudalAgeDLC.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/DockFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/DockFeudalAgeDLC.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有封建時代的碼頭(HD擴充資料片)。</em>
@@ -438,7 +438,7 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Dockaokaoc.png"><img class="imgn" class="hg" width="200" src="img/Dockaokaoc.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Dockaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Dockaokaoc.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>所有城堡時代的碼頭(帝王世紀和征服者入侵資料片)。</em>
@@ -446,7 +446,7 @@
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Dockexpansions.png"><img class="imgn" class="hg" width="200" src="img/Dockexpansions.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Dockexpansions.png"><img class="imgn" class="hg" width="200" src="~assets/Dockexpansions.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:220px" ;>
         <p><em>所有城堡時代的碼頭(HD擴充資料片)。</em>
@@ -454,7 +454,7 @@
         </p>
     </div>
     </div>
-    <div class="col-md-4"> <a href="img/Spritesheet_dock.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_dock.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Spritesheet_dock.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_dock.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>碼頭在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>

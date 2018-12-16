@@ -24,11 +24,11 @@
                  <h4><a href="Feudal_Age.php">封建時代</a></h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/TradeCartIcon.jpg">貿易車隊
+                    <img class="gg" src="~assets/TradeCartIcon.jpg">貿易車隊
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Cartography.jpg">製圖法
+                    <img class="gg" src="~assets/Cartography.jpg">製圖法
 
                   </li>
 
@@ -40,11 +40,11 @@
                  <h4><a href="Castle_Age.php">城堡時代</a></h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/CaravanII.png">大商隊
+                    <img class="gg" src="~assets/CaravanII.png">大商隊
 
                   </li>
                                     <li>
-                    <img class="gg" src="img/Coinage.jpg">鑄幣術
+                    <img class="gg" src="~assets/Coinage.jpg">鑄幣術
 
                   </li>
 
@@ -56,11 +56,11 @@
                  <h4><a href="Imperial_Age.php">帝王時代</a></h4> 
                 <ul>
                                     <li>
-                    <img class="gg" src="img/Banking.jpg">銀行制度
+                    <img class="gg" src="~assets/Banking.jpg">銀行制度
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Guilds.jpg">行會制度
+                    <img class="gg" src="~assets/Guilds.jpg">行會制度
 
                   </li>
                 </ul>
@@ -93,42 +93,42 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                 <br>
-                <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
             <tr>
               <td class="tta1">其他</td>
               <td class="tta4">
-                <img class="gg" src="img/Guilds.jpg"><a href="Guildsavailable.php">行會制度</a>:在市場交易課稅減至15%</td>
+                <img class="gg" src="~assets/Guilds.jpg"><a href="Guildsavailable.php">行會制度</a>:在市場交易課稅減至15%</td>
             </tr>
           </table>
            <h3>文明加成</h3>
@@ -194,7 +194,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Marketicon.png" width="45" alt="">
+                  <img src="~assets/Marketicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -254,29 +254,29 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1800
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1800
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2100
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2100
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">2100</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">2100</td>
             </tr>
             <tr>
               <td class="unit3">近防</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">8
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">8
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
@@ -298,7 +298,7 @@
 
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/MarketFeudalAgeHD.png"><img class="imgn" class="hg" width="180" src="img/MarketFeudalAgeHD.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/MarketFeudalAgeHD.png"><img class="imgn" class="hg" width="180" src="~assets/MarketFeudalAgeHD.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的市集(帝王世紀和征服者入侵資料片)。</em>
@@ -306,7 +306,7 @@
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/MarketFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="img/MarketFeudalAgeDLC.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/MarketFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/MarketFeudalAgeDLC.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的市集(HD擴充資料片)。</em>
@@ -314,7 +314,7 @@
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Marketaokaoc.png"><img class="imgn" class="hg" width="200" src="img/Marketaokaoc.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Marketaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Marketaokaoc.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的市集(帝王世紀和征服者入侵資料片)。</em>
@@ -324,7 +324,7 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Market.png"><img class="imgn" class="hg" width="200" src="img/Market.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Market.png"><img class="imgn" class="hg" width="200" src="~assets/Market.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的市集(HD擴充資料片)。</em>
@@ -332,7 +332,7 @@
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/MarketImperialAgeHD.png"><img class="imgn" class="hg" width="200" src="img/MarketImperialAgeHD.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/MarketImperialAgeHD.png"><img class="imgn" class="hg" width="200" src="~assets/MarketImperialAgeHD.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:220px" ;>
         <p><em>所有帝王時代的市集(帝王世紀和征服者入侵資料片)。</em>
@@ -340,7 +340,7 @@
         </p>
     </div>
     </div>
-    <div class="col-md-4"> <a href="img/MarketImperialAgeDLC.png"><img class="imgn" class="hg" width="200" src="img/MarketImperialAgeDLC.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/MarketImperialAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/MarketImperialAgeDLC.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>所有帝王時代的市集(HD擴充資料片)。</em>
@@ -350,7 +350,7 @@
     </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Spritesheet_market.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_market.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Spritesheet_market.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_market.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>市集在封建/城堡/帝王時代在一般地圖/下雪地圖的樣子(港灣大商站是最後一個)。</em>

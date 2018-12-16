@@ -51,11 +51,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Howdah_of_the_Golconda_Sultanate,_Qutb_Shahi_dynasty.png"><img class="imgn" class="hg" src="img/Howdah_of_the_Golconda_Sultanate,_Qutb_Shahi_dynasty.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Howdah_of_the_Golconda_Sultanate,_Qutb_Shahi_dynasty.png"><img class="imgn" class="hg" src="~assets/Howdah_of_the_Golconda_Sultanate,_Qutb_Shahi_dynasty.png" alt=""></a> 
                 <p><em>沙希王朝(Qutb_Shahi_dynasty)的象轎。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg"><img class="imgn" class="hg" src="img/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg"><img class="imgn" class="hg" src="~assets/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg" alt=""></a> 
                 <p><em><a href="http://tinyurl.com/y9lkr244">卡那提克戰爭</a>中被廣泛使用。</em>
                 </p>
               </div>
@@ -73,7 +73,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/CastleAgeUnique.png" width="45" alt="">
+                  <img src="~assets/CastleAgeUnique.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -91,13 +91,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
               </td>
             </tr>
             <tr>

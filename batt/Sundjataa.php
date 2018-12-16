@@ -45,7 +45,7 @@
   </ol>
 </div>
 <div class="col-md-6">
-  <img src="img/18.Sundjata.jpg" width="300px;" alt="">
+  <img src="~assets/18.Sundjata.jpg" width="300px;" alt="">
   <p>松迪亞塔戰役地圖</p>
 </div>
 </div>
@@ -72,7 +72,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Sundiata-Keita-218x300.jpg" width="300" alt="">
+       <td colspan="2" ><div class="unititle"><img src="~assets/Sundiata-Keita-218x300.jpg" width="300" alt="">
 <p><em>本系列主角 松迪亞塔</em></p>
        </div>
        </td>
@@ -105,7 +105,7 @@
        感謝! 此頁面由熊協助編輯
      </div>
 <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的松迪亞塔
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E6%9D%BE%E8%BF%AA%E4%BA%9A%E5%A1%94">松迪亞塔</a></b></i></div>
 </div>

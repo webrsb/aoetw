@@ -21,7 +21,7 @@
                  <h4><a href="Feudal_Age.php"></a>封建時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Doublebitaxe.jpg" alt=""><a href="Double-Bit_Axe.php">雙刃斧</a>
+                    <img class="gg" src="~assets/Doublebitaxe.jpg" alt=""><a href="Double-Bit_Axe.php">雙刃斧</a>
                   </li>
                 </ul>
               </div>
@@ -31,7 +31,7 @@
                  <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Bowsaw.jpg" alt=""><a href="Bow_Saw.php">弓鋸</a>
+                    <img class="gg" src="~assets/Bowsaw.jpg" alt=""><a href="Bow_Saw.php">弓鋸</a>
                   </li>
                 </ul>
               </div>
@@ -41,7 +41,7 @@
                  <h4><a href="Imperial_Age.php"></a>帝王時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Twomansaw.jpg" alt=""><a href="Two-Man_Saw.php">雙人鋸</a>
+                    <img class="gg" src="~assets/Twomansaw.jpg" alt=""><a href="Two-Man_Saw.php">雙人鋸</a>
                   </li>
                 </ul>
               </div>
@@ -72,36 +72,36 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                 <br>
-                <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
@@ -160,7 +160,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Lumbercampicon.png" width="45" alt="">
+                  <img src="~assets/Lumbercampicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -210,35 +210,35 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">
-                <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt="">600
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">600
                 <br>
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">800
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">800
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">1000
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">1000
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">1000</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">1000</td>
             </tr>
             <tr>
               <td class="unit3">近防</td>
               <td class="unit4">
-                <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt="">0
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">0
                 <br>
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
-                <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt="">7
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">7
                 <br>
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">8
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">8
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
@@ -257,21 +257,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Lumbercampaokaoc.png"><img class="imgn" class="hg" width="180" src="img/Lumbercampaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Lumbercampaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Lumbercampaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有文明的伐木場(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Lumbercamps_hd.png"><img class="imgn" class="hg" width="200" src="img/Lumbercamps_hd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Lumbercamps_hd.png"><img class="imgn" class="hg" width="200" src="~assets/Lumbercamps_hd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有文明的伐木場(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Lumbercamp.png"><img class="imgn" class="hg" width="200" src="img/Lumbercamp.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Lumbercamp.png"><img class="imgn" class="hg" width="200" src="~assets/Lumbercamp.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>伐木場如果距離採集點太遠就應該重蓋一座以維持效率。</em>
@@ -280,7 +280,7 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Spritesheet_lumber_camp.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_lumber_camp.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Spritesheet_lumber_camp.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_lumber_camp.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>各文明(依大陸分)的伐木場和在一般地圖/下雪地圖的樣子。</em>

@@ -50,57 +50,57 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯</a>→
-                <img class="gg" src="img/LightCavalryIcon.jpg"
+                <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯</a>→
+                <img class="gg" src="~assets/LightCavalryIcon.jpg"
                 alt=""> <a href="Light_Cavalry.php">輕騎兵</a>→
-                <img class="gg" src="img/HussarIcon.jpg"
+                <img class="gg" src="~assets/HussarIcon.jpg"
                 alt=""> <a href="Hussar.php">匈牙利輕騎兵</a>
                 <br>
-                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
+                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
                 <br>
-                <img class="gg" src="img/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
+                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
                 <br>
-                <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
+                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Farimba.php">驃悍精神</a>：馬廄單位攻擊+5。<a href="Malians.php">馬利</a>限定
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Farimba.php">驃悍精神</a>：馬廄單位攻擊+5。<a href="Malians.php">馬利</a>限定
                 <br>
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_Class_Building.php">建築</a>和
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:騎兵對<a href="Armor_Class_Building.php">建築</a>和
                 <a
                 href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+3。<a href="Burmese.php">緬甸</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="img/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
+                <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
                 <br>
-                <img class="gg" src="img/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
+                <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
                 <br>
-                <img class="gg" src="img/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
+                <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
+                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
                 <br>
-                <img class="gg" src="img/CastleAgeUnique.png" alt=""><a href="Chivalry.php">騎士精神</a>：馬廄工作速率快40%。</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt=""><a href="Chivalry.php">騎士精神</a>：馬廄工作速率快40%。</td>
             </tr>
           </table>
           <h3>文明加成</h3>
@@ -182,7 +182,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/ScoutCavalryIcon.jpg" width="45" alt="">
+                  <img src="~assets/ScoutCavalryIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -203,13 +203,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt=""><a href="Feudal_Age.php">封建時代</a>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt=""><a href="Feudal_Age.php">封建時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" width="25px" src="img/Stableicon.png" alt=""><a href="Stable.php">馬廄</a>
+                <img class="gg" width="25px" src="~assets/Stableicon.png" alt=""><a href="Stable.php">馬廄</a>
               </td>
             </tr>
             <tr>
@@ -265,20 +265,20 @@
               <td class="unit3"><a href="">跑速</a>
               </td>
               <td class="unit4">
-                <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt=""><a href="Dark_Age.php">黑暗時代</a>:1.2
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt=""><a href="Dark_Age.php">黑暗時代</a>:1.2
                 <br>
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt=""><a href="Feudal_Age.php">封建時代</a>之後:1.55</td>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt=""><a href="Feudal_Age.php">封建時代</a>之後:1.55</td>
             </tr>
             <tr>
               <td class="unit3">視野</td>
               <td class="unit4">
-                <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt=""><a href="Dark_Age.php">黑暗時代</a>:4
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt=""><a href="Dark_Age.php">黑暗時代</a>:4
                 <br>
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt=""><a href="Feudal_Age.php">封建時代</a>:6
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt=""><a href="Feudal_Age.php">封建時代</a>:6
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt=""><a href="Castle_Age.php">城堡時代</a>:8
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt=""><a href="Castle_Age.php">城堡時代</a>:8
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>:10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>:10</td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
@@ -288,13 +288,13 @@
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img class="gg" src="img/LightCavalryIcon.jpg" alt=""><a href="Light_Cavalry.php">輕騎兵</a>
+                <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><a href="Light_Cavalry.php">輕騎兵</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級成本</td>
               <td class="unit4">
-                <img class="gg" src="img/Light-cavalry-research.jpg" alt="">150食物50黃金</td>
+                <img class="gg" src="~assets/Light-cavalry-research.jpg" alt="">150食物50黃金</td>
             </tr>
             <tr>
               <td class="unit3">升級時間</td>
@@ -308,15 +308,15 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="img/Scoutcavalry.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="~assets/Scoutcavalry.png" alt=""></a> 
                 <p><em>一群斥侯。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="img/Scoutcavalryline.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="~assets/Scoutcavalryline.png" alt=""></a> 
                 <p><em>斥侯系，斥侯在最左邊。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="img/sc45.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/sc45.jpg"><img class="imgn" class="hg" src="~assets/sc45.jpg" alt=""></a> 
                 <p><em>一群封建的斥侯正在大開殺戒。</em>
                 </p>
               </div>

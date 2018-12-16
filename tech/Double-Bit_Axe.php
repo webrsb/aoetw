@@ -37,7 +37,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Doublebitaxe.jpg" width="45" alt="">
+                  <img src="~assets/Doublebitaxe.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -55,21 +55,21 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Lumbercampicon.png" alt=""><a href="Lumber_Camp.php">伐木場</a>
+                <img class="gg" src="~assets/Lumbercampicon.png" alt=""><a href="Lumber_Camp.php">伐木場</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Bowsaw.jpg" alt=""><a href="Bow_Saw.php">弓鋸</a>
+                <img class="gg" src="~assets/Bowsaw.jpg" alt=""><a href="Bow_Saw.php">弓鋸</a>
 
               </td>
             </tr>

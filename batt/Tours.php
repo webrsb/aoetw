@@ -131,7 +131,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Tours.jpg" width="" alt="">
+                  <img src="~assets/Tours.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -175,7 +175,7 @@
           <div class="thanks">感謝! 此頁面由Wun，裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科鐵鎚查理與圖爾之戰
               <div style="margin-left: 10px;"><em><strong><a href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%C2%B7%E9%A9%AC%E7%89%B9">鐵鎚查理</a></strong></em>、<em><strong><a href="https://zh.wikipedia.org/wiki/%E5%9C%96%E7%88%BE%E6%88%B0%E5%BD%B9">圖爾戰役</a></strong></em>

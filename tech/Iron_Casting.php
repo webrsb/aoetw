@@ -41,7 +41,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Ironcasting.jpg" width="45" alt="">
+                  <img src="~assets/Ironcasting.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -68,13 +68,13 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Forging.jpg" alt=""><a href="Forging.php">鑄造</a>
+                <img class="gg" src="~assets/Forging.jpg" alt=""><a href="Forging.php">鑄造</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Blastfurnace.jpg" alt=""><a href="Blast_Furnace.php">鼓風爐</a>
+                <img class="gg" src="~assets/Blastfurnace.jpg" alt=""><a href="Blast_Furnace.php">鼓風爐</a>
               </td>
             </tr>
             <tr>

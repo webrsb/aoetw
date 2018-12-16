@@ -60,7 +60,7 @@
                 "。字面上應為：緬甸之虎。因為緬軍在德彬瑞蒂大王的指揮下開始一系列的擴張，是以翻譯組取其勇猛之意將之譯為餓虎撲食。</li></ul></div></div></div>  </div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">餓虎撲食</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/(map)Bayinnaung_1.The_Burmese_Tigers.jpg
+                ">餓虎撲食</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/(map)Bayinnaung_1.The_Burmese_Tigers.jpg
                 " width=" " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3

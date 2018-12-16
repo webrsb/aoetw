@@ -14,7 +14,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Hawk.png" alt="">
+          <img src="~assets/Hawk.png" alt="">
         </div>
       </div>
     </div>

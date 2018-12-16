@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Migration.jpg" width="300" alt="">
+          <img src="~assets/Migration.jpg" width="300" alt="">
            <h4>一個標準移民地圖</h4> 
         </div>
       </div>

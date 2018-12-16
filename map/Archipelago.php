@@ -35,7 +35,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Imgres-1424918802.jpg" width="300" alt="">
+          <img src="~assets/Imgres-1424918802.jpg" width="300" alt="">
            <h4>一個標準群島地圖</h4> 
         </div>
       </div>

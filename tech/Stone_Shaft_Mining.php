@@ -63,7 +63,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Stone_Shaft_Mining.jpg" width="45" alt="">
+                  <img src="~assets/Stone_Shaft_Mining.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -80,13 +80,13 @@
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Miningcampicon.png" alt=""><a href="Mining_Camp.php">採礦營地</a>
+                <img class="gg" src="~assets/Miningcampicon.png" alt=""><a href="Mining_Camp.php">採礦營地</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Stonemining.jpg" alt=""><a href="Stone_Mining.php">採石技術</a>
+                <img class="gg" src="~assets/Stonemining.jpg" alt=""><a href="Stone_Mining.php">採石技術</a>
               </td>
             </tr>
             <tr>

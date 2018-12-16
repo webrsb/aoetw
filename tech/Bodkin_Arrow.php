@@ -43,7 +43,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Bodkinarrow.jpg" width="45" alt="">
+                  <img src="~assets/Bodkinarrow.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -73,14 +73,14 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Fletching.jpg" alt=""><a href="Fletching.php">箭羽</a>
+                <img class="gg" src="~assets/Fletching.jpg" alt=""><a href="Fletching.php">箭羽</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Bracer.jpg" alt=""><a href="Bracer.php">護腕</a>
+                <img class="gg" src="~assets/Bracer.jpg" alt=""><a href="Bracer.php">護腕</a>
 
               </td>
             </tr>

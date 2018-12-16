@@ -31,7 +31,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/MonkIcon.jpg" width="80" alt="">
+                  <img src="~assets/MonkIcon.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -89,7 +89,7 @@
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的主教
               <div style="margin-left: 10px;"><i><strong><a href="https://tinyurl.com/y9ekga5t">主教</a></strong></i>

@@ -20,7 +20,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Cenotes.png" width="300" alt="">
+          <img src="~assets/Cenotes.png" width="300" alt="">
            <h4>標準岩坑池地圖</h4> 
         </div>
       </div>

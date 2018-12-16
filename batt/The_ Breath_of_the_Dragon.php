@@ -94,7 +94,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Draculaa3.png" width="" alt="">
+                  <img src="~assets/Draculaa3.png" width="" alt="">
                 </div>
               </td>
             </tr>

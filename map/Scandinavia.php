@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Scandinavia.jpg" width="300" alt="">
+          <img src="~assets/Scandinavia.jpg" width="300" alt="">
            <h4>沒結冰的斯堪地維亞地圖</h4> 
         </div>
       </div>

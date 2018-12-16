@@ -11,7 +11,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <div class="spw"><em><img src="img/tola.jpg" width="50px;" alt="" style="margin-right:20px;">本條目把學院內的火炮塔科技與建築的火炮塔寫在一起了！</em>
+            <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">本條目把學院內的火炮塔科技與建築的火炮塔寫在一起了！</em>
 
             </div>
             <p>火砲塔於可於<a href="Imperial_Age.php">帝王時代</a>在<a href="University.php">學院</a>研發。火砲塔具有非常高的攻擊力；但是投射的速度極慢。</p>
@@ -91,79 +91,79 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)
                 <br>
-                <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>:+30% HP，<a href="Chinese.php">中國</a>限定</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>:+30% HP，<a href="Chinese.php">中國</a>限定</td>
             </tr>
             <tr>
               <td class="tta1">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
+                <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
                 <br>
-                <img class="gg" src="img/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+                <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
                 <br>
-                <img class="gg" src="img/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
+                <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
                 <br>
-                <img class="gg" src="img/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
+                <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br>
-                <img class="gg" src="img/Heatedshot.png" width="30" alt=""><a href="Heated_Shot.php">預熱射擊</a>(+125%，僅對船隻)
+                <img class="gg" src="~assets/Heatedshot.png" width="30" alt=""><a href="Heated_Shot.php">預熱射擊</a>(+125%，僅對船隻)
                 <br>
               </td>
             </tr>
             <tr>
               <td class="tta1">範圍</td>
               <td class="tta4">
-                <img class="gg" src="img/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
+                <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
                 <br>
-                <img class="gg" src="img/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+                <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
                 <br>
-                <img class="gg" src="img/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
+                <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
                 <br>
-                <img class="gg" src="img/Murderholes.jpg" width="30" alt=""><a href="Murder_Holes.php">垛孔</a>:消除最小射程
+                <img class="gg" src="~assets/Murderholes.jpg" width="30" alt=""><a href="Murder_Holes.php">垛孔</a>:消除最小射程
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Artillery.php">砲兵</a>(+2，<a href="Turks.php">土耳其</a>限定)</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Artillery.php">砲兵</a>(+2，<a href="Turks.php">土耳其</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1">準確度</td>
               <td class="tta4">
-                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:較易擊中移動目標
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:較易擊中移動目標
                 <br>　
-                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Arquebus.php">火繩槍</a>:火藥單位對移動目標的命中率提升，<a href="Portuguese.php">葡萄牙</a>限定</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Arquebus.php">火繩槍</a>:火藥單位對移動目標的命中率提升，<a href="Portuguese.php">葡萄牙</a>限定</td>
             </tr>
             <tr>
               <td class="tta1">護甲</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+1/+1，+3建築護甲)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮暸望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮暸望</a>(+4)
                 <br>
-                <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">抗招降能力</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1">建造速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%)</td>
             </tr>
             <tr>
               <td class="tta1">其他</td>
               <td class="tta4">
-                <img class="gg" src="img/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>:駐紮單位治療速度加快</td>
+                <img class="gg" src="~assets/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>:駐紮單位治療速度加快</td>
             </tr>
           </table>
            <h3>文明加成</h3>
@@ -242,12 +242,12 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Bombardtoweraok.png"><img class="imgn" class="hg" src="img/Bombardtoweraok.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Bombardtoweraok.png"><img class="imgn" class="hg" src="~assets/Bombardtoweraok.png" alt=""></a> 
                 <p><em>帝王世紀的所有火砲塔風格。</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Bombardtowerhd.png"><img class="imgn" class="hg" src="img/Bombardtowerhd.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Bombardtowerhd.png"><img class="imgn" class="hg" src="~assets/Bombardtowerhd.png" alt=""></a> 
                 <p><em>失落的帝國後所有火砲塔風格。</em>
 
                 </p>
@@ -271,7 +271,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Bombard-tower-research.jpg" width="45" alt="">
+                  <img src="~assets/Bombard-tower-research.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -287,14 +287,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Universityicon.png" class="gg" alt=""><a href="University.php">學院</a>
+                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="University.php">學院</a>
 
               </td>
             </tr>

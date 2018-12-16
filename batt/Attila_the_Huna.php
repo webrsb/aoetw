@@ -58,7 +58,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/6. AOC Attila.jpg" width="300px;" alt="">
+                <img src="~assets/6. AOC Attila.jpg" width="300px;" alt="">
                 <p>阿提拉戰役地圖</p>
               </div>
             </div>
@@ -83,7 +83,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Brogi,_Carlo_(1850-1925).jpg" width="300" alt="">
+                  <img src="~assets/Brogi,_Carlo_(1850-1925).jpg" width="300" alt="">
                   <p><em>本系列主角 阿提拉</em>
 
                   </p>
@@ -115,7 +115,7 @@
           <div class="thanks">感謝! 此頁面由裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的阿提拉
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89">阿提拉</a></b></i>

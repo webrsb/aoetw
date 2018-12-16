@@ -178,7 +178,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/SUN 1.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/SUN 1.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -225,7 +225,7 @@
        感謝! 此頁面由熊，天翔協助編輯
      </div>
           <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的馬里帝國
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E9%87%8C%E5%B8%9D%E5%9B%BD">馬里帝國</a></b></i></div>
 </div>

@@ -85,7 +85,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Bracer.jpg" width="45" alt="">
+                  <img src="~assets/Bracer.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -115,7 +115,7 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
+                <img class="gg" src="~assets/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
 
               </td>
             </tr>

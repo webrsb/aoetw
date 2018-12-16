@@ -25,7 +25,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Reliccarticon.jpg" width="80" alt="">
+                  <img src="~assets/Reliccarticon.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>

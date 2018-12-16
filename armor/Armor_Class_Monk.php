@@ -24,10 +24,10 @@
           <div class="n1">下列的單位都是僧侶單位
             <ul>
               <li>
-                <img class="gg" style="margin: 2px;" src="img/MonkIcon.jpg" alt=""><a href="Monk.php">僧侶</a> 
+                <img class="gg" style="margin: 2px;" src="~assets/MonkIcon.jpg" alt=""><a href="Monk.php">僧侶</a> 
               </li>
               <li>
-                <img class="gg" style="margin: 2px;" src="img/MissionaryIcon.jpg" alt=""><a href="Missionary.php">傳教士</a>(<a href="Spanish.php">西班牙</a>限定)</li>
+                <img class="gg" style="margin: 2px;" src="~assets/MissionaryIcon.jpg" alt=""><a href="Missionary.php">傳教士</a>(<a href="Spanish.php">西班牙</a>限定)</li>
             </ul>
           </div>
            <h3>剋僧侶單位的單位</h3>
@@ -40,7 +40,7 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/HussarIcon.jpg" alt=""><a href="Hussar.php">匈牙利輕騎兵</a> 
+                  <img class="gg" src="~assets/HussarIcon.jpg" alt=""><a href="Hussar.php">匈牙利輕騎兵</a> 
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+10攻擊</strong>
@@ -48,10 +48,10 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
+                  <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
                 </li>
                 <li>
-                  <img class="gg" src="img/LightCavalryIcon.jpg" alt=""><a href="Light_Cavalry.php">輕騎兵</a> 
+                  <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><a href="Light_Cavalry.php">輕騎兵</a> 
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+8攻擊</strong>
@@ -59,8 +59,8 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>→
-                  <img class="gg" src="img/EagleWarriorIcon.jpg"
+                  <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>→
+                  <img class="gg" src="~assets/EagleWarriorIcon.jpg"
                   alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
                 </li>
               </ul>
@@ -69,7 +69,7 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="img/ScoutCavalryIcon.jpg" alt=""><a href="Scout_Cavalry.php">斥侯騎兵</a> 
+                  <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""><a href="Scout_Cavalry.php">斥侯騎兵</a> 
                 </li>
               </ul>
             </div>

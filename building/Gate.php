@@ -41,14 +41,14 @@
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
                 <p>
-                  <img src="img/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>(+30% HP/中國限定)</p>
+                  <img src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>(+30% HP/中國限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Faith.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%工作效率)</p>
+                  <img src="~assets/Faith.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%工作效率)</p>
               </td>
             </tr>
           </table>
@@ -83,7 +83,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Palisadegateicon.png" width="45" alt="">
+                  <img src="~assets/Palisadegateicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>

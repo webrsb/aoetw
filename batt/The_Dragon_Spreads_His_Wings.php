@@ -123,7 +123,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Draculaa1.png" width="" alt="">
+                  <img src="~assets/Draculaa1.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -176,7 +176,7 @@
             <div class="col-md-12">
               <div class="wiki" style="margin-top: 5px;">
                 <div style="float: left;">
-                  <img src="img/Wikipedia-logo.png" width="50" height="46">
+                  <img src="~assets/Wikipedia-logo.png" width="50" height="46">
                 </div>
                 <div style="margin-left: 60px;">維基百科上的瓦拉幾亞統治者
                   <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Vladislav_II_of_Wallachia">瓦拉幾亞統治者</a></b></i>

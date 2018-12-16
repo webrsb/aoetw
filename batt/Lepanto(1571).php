@@ -192,7 +192,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Lepanto.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Lepanto.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -236,7 +236,7 @@
      <div class="thanks">
        感謝! 此頁面由Wun，裕暉協助編輯
      <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的勒班陀海戰
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%8B%92%E7%8F%AD%E9%99%80%E6%88%B0%E5%BD%B9">勒班陀</a></b></i></div>
 </div>

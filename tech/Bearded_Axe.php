@@ -53,7 +53,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Unique-tech.jpg" width="45" alt="">
+                  <img src="~assets/Unique-tech.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -73,14 +73,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
 
               </td>
             </tr>
@@ -118,7 +118,7 @@
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的弗朗奇斯卡
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%A5%87%E6%96%AF%E5%8D%A1">弗朗奇斯卡</a></b></i>

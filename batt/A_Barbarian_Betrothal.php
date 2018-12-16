@@ -134,7 +134,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Attila.4.jpg" width="" alt="">
+                  <img src="~assets/Attila.4.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

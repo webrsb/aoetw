@@ -41,10 +41,10 @@
 
 
 <h3>特殊單位</h3>
-<ul><p><img class="gg" src="img/JanissaryIcon.jpg"  alt="">土耳其火槍兵:更強大火力更遠射程的火槍兵。</p></ul>
+<ul><p><img class="gg" src="~assets/JanissaryIcon.jpg"  alt="">土耳其火槍兵:更強大火力更遠射程的火槍兵。</p></ul>
 <h3>特殊科技</h3>
-<ul><p><img class="gg" src="img/CastleAgeUnique.png"  alt="">采邑騎兵：馬弓騎兵系血量+20。</p>
-<p><img class="gg" src="img/Unique-tech.jpg"  alt="">火砲術：火砲、火砲塔、火砲戰船攻擊距離+2。</p></ul>
+<ul><p><img class="gg" src="~assets/CastleAgeUnique.png"  alt="">采邑騎兵：馬弓騎兵系血量+20。</p>
+<p><img class="gg" src="~assets/Unique-tech.jpg"  alt="">火砲術：火砲、火砲塔、火砲戰船攻擊距離+2。</p></ul>
 
 </div>
 
@@ -90,7 +90,7 @@
       </tr>
       <tr>
        <td colspan="2" ><div class="unititle">
-       <img src="img/Gentile_Bellini.jpg" width="300px;" alt="">
+       <img src="~assets/Gentile_Bellini.jpg" width="300px;" alt="">
        <p><em>穆罕默德二世，也被稱為征服者穆罕默德，滅亡東羅馬帝國的蘇丹</em></p>
        </div>
        </td>
@@ -110,7 +110,7 @@
       </tr>
       <tr>
         <td class="unit3">特殊單位</td>
-       <td class="unit4"><img class="gg" src="img/JanissaryIcon.jpg">土耳其火槍兵</td>
+       <td class="unit4"><img class="gg" src="~assets/JanissaryIcon.jpg">土耳其火槍兵</td>
        
       </tr>
       <tr>
@@ -119,8 +119,8 @@
       </tr>
       <tr>
         <td class="unit3">特殊技術</td>
-       <td class="unit4"> <img class="gg" src="img/CastleAgeUnique.png">采邑騎兵<br>
- <img class="gg" src="img/Unique-tech.jpg">火砲術</td>
+       <td class="unit4"> <img class="gg" src="~assets/CastleAgeUnique.png">采邑騎兵<br>
+ <img class="gg" src="~assets/Unique-tech.jpg">火砲術</td>
       </tr>
          
 
@@ -129,7 +129,7 @@
        感謝! 此頁面由熊協助編輯
 </div>
 <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的鄂圖曼帝國
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9B%BD">鄂圖曼帝國</a></b></i></div>
 </div>

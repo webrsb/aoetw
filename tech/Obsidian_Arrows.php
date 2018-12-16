@@ -64,7 +64,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/CastleAgeUnique.png" width="45" alt="">
+                  <img src="~assets/CastleAgeUnique.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -84,14 +84,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
 
               </td>
             </tr>

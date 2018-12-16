@@ -20,30 +20,30 @@
           <div class="n1">
             <ul>
               <li>
-                <img src="img/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
+                <img src="~assets/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
                 alt=""><strong>沿岸魚群</strong>:200食物，通常在岸邊就可以找到，所以可以透過村民收集，漁船也可以，但收集食物的速度比深海魚慢些。</li>
               <li>
-                <img src="img/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
+                <img src="~assets/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
                 alt=""><strong>鯛魚</strong>:225食物，遊戲中常見的魚，多數出現在沿海地圖。</li>
               <li>
-                <img src="img/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
+                <img src="~assets/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
                 alt=""><strong>金槍魚</strong>:225食物</li>
               <li>
-                <img src="img/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
+                <img src="~assets/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
                 alt=""><strong>鮭魚</strong>:225食物，深海魚類。</li>
               <li>
-                <img src="img/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
+                <img src="~assets/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
                 alt=""><strong>鱸魚</strong>:200食物，遊戲中最稀少的魚類，在大陸、尼羅河三角洲與鹽沼地出現。</li>
               <li>
-                <img src="img/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
+                <img src="~assets/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
                 alt=""><strong>劍魚</strong>:225食物</li>
               <li>
-                <img src="img/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
+                <img src="~assets/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
                 alt=""><strong>馬林魚</strong>:350食物，最多食物來源的魚類，通常都遠離陸地。</li>
               <li>
-                <img src="img/Dolphin.png" width="22" style="margin-right: 5px;" alt=""><strong>海豚</strong>:350食物，失落的王朝登場，原本在帝王世紀就會登場，但為了爭議，被取消了。</li>
+                <img src="~assets/Dolphin.png" width="22" style="margin-right: 5px;" alt=""><strong>海豚</strong>:350食物，失落的王朝登場，原本在帝王世紀就會登場，但為了爭議，被取消了。</li>
               <li>
-                <img src="img/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
+                <img src="~assets/FishAOEIIicon.png" width="22" style="margin-right: 5px;"
                 alt=""><strong>箱龜</strong>:200食物，與沿岸魚群一樣，於岸邊可以捕獲，村民可以採收，通常出現在亞洲地圖上。</li>
             </ul>
           </div>
@@ -61,7 +61,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <img src="img/Shore_Fish_AoEII.jpg" alt="">
+              <img src="~assets/Shore_Fish_AoEII.jpg" alt="">
               <p>一群村民正在捕魚</p>
             </div>
           </div>
@@ -77,7 +77,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/FishAOEIIicon.png" width="80" alt="">
+                  <img src="~assets/FishAOEIIicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

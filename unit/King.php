@@ -44,7 +44,7 @@
           <div class="n1">
             <ul>
               <div class="unititle">
-                <img src="img/AllKing.png" width="250" alt="">
+                <img src="~assets/AllKing.png" width="250" alt="">
                 <p>國王們</ul>
             </div>
             <div class="hrn1"></div>
@@ -61,22 +61,22 @@
               <tr>
                 <td colspan="2">
                   <div class="unititle">
-                    <img src="img/KingA.png" width="45" alt="">
+                    <img src="~assets/KingA.png" width="45" alt="">
                   </div>
                   <div class="unititle">
-                    <img src="img/KingB.png" width="45" alt="">
+                    <img src="~assets/KingB.png" width="45" alt="">
                   </div>
                   <div class="unititle">
-                    <img src="img/KingC.png" width="45" alt="">
+                    <img src="~assets/KingC.png" width="45" alt="">
                   </div>
                   <div class="unititle">
-                    <img src="img/KingD.png" width="45" alt="">
+                    <img src="~assets/KingD.png" width="45" alt="">
                   </div>
                   <div class="unititle">
-                    <img src="img/KingE.png" width="45" alt="">
+                    <img src="~assets/KingE.png" width="45" alt="">
                   </div>
                   <div class="unititle">
-                    <img src="img/Kingsoutheastasian.png" width="45" alt="">
+                    <img src="~assets/Kingsoutheastasian.png" width="45" alt="">
                   </div>
                 </td>
               </tr>

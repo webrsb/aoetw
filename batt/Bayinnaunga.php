@@ -42,7 +42,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/Bayinnaung Campaign.jpg" width="300px;" alt="">
+                <img src="~assets/Bayinnaung Campaign.jpg" width="300px;" alt="">
                 <p>勃印曩戰役地圖</p>
               </div>
             </div>
@@ -75,7 +75,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Bayinnaung.jpg" width="300" alt="">
+                  <img src="~assets/Bayinnaung.jpg" width="300" alt="">
                   <p><em>本系列主角 勃印曩像</em>
 
                   </p>
@@ -107,7 +107,7 @@
           <div class="thanks">感謝! 此頁面由亞諭、裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上勃印曩的資訊
               <div style="margin-left: 10px;"><em><strong><a href="https://zh.wikipedia.org/wiki/%E5%8B%83%E5%8D%B0%E6%9B%A9">勃印曩</a></strong></em>

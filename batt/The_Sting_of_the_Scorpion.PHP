@@ -163,7 +163,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/SUN 2.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/SUN 2.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -210,7 +210,7 @@
        感謝! 此頁面由熊，天翔協助編輯
      </div>
      <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/baike.jpg" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/baike.jpg" width="50" height="46"></div>
 <div style="margin-left: 60px;">百度百科上的非洲長篇英雄史詩介紹
 <div style="margin-left: 10px;"><i><b><a href="https://baike.baidu.com/item/%E6%9D%BE%E8%BF%AA%E4%BA%9A%E5%A1%94/19723576">松迪亞塔(非洲長篇英雄史詩)</a></b></i></div>
 </div>

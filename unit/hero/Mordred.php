@@ -58,29 +58,29 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)</p>
+                  <img src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)</p>
                 <p>
-                  <img src="img/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)</p>
+                  <img src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)</p>
                 <p>
-                  <img src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</p>
+                  <img src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)</p>
+                  <img src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)</p>
                 <p>
-                  <img src="img/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)</p>
+                  <img src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)</p>
                 <p>
-                  <img src="img/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</p>
+                  <img src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</p>
+                  <img src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</p>
               </td>
             </tr>
           </table>
@@ -96,7 +96,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Paladinicon.jpg" width="80" alt="">
+                  <img src="~assets/Paladinicon.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -159,7 +159,7 @@
           <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的莫德雷德
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/莫德雷德">莫德雷德</a></strong></i>
@@ -194,7 +194,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://zh.moegirl.org/莫德雷德(Fate)">Fate系列</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/莫德雷德三破.png" alt="">
+              <img height="124px;" src="~assets/莫德雷德三破.png" alt="">
             </div>
             <div class="hrn1"></div>
             <br>
@@ -203,7 +203,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://en.wikipedia.org/wiki/Modred_the_Mystic">神秘者莫德雷德</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/Mordred1.jpg" alt="">
+              <img height="124px;" src="~assets/Mordred1.jpg" alt="">
             </div>
             <div class="hrn1"></div>
             <br>
@@ -212,7 +212,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87#%E3%80%8A%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87%EF%BC%9A%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%8B%E7%89%88%E6%9C%AC">抵抗組織-阿瓦隆</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/resistance-avalon-detail-playtonic-7.jpg"
+              <img height="124px;" src="~assets/resistance-avalon-detail-playtonic-7.jpg"
               alt="">
             </div>
             <div class="hrn1"></div>

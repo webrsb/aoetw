@@ -89,7 +89,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Wallacelc4map.png" width="" alt="">
+                  <img src="~assets/Wallacelc4map.png" width="" alt="">
                 </div>
               </td>
             </tr>

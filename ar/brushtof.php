@@ -14,7 +14,7 @@
             <p>黑快轉封也稱為28p黑跳封，為國際上最熱門的打法之一，其優點是經濟比傳統22p上封建更好，打法也更靈活，可看情勢轉任何兵種，缺點是需要非常大的控制力，不好上手。</p>
             <ul>
               <li>
-                <img src="img/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵→</a>:黑暗時代唯一可以訓練的軍事單位，可有效牽制敵軍，甚至擊殺對方村民。</li>
+                <img src="~assets/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵→</a>:黑暗時代唯一可以訓練的軍事單位，可有效牽制敵軍，甚至擊殺對方村民。</li>
               </li>
             </ul>
           </div>
@@ -101,7 +101,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/MilitiaIcon.jpg" width="45" alt=""> <a href="Militia.php"></a>
+                  <img src="~assets/MilitiaIcon.jpg" width="45" alt=""> <a href="Militia.php"></a>
 
                 </div>
               </td>

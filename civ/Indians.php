@@ -28,16 +28,16 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/ElephantArcherIcon.jpg" alt="">象弓騎兵:超重裝馬弓騎兵，對馬建築物/城牆有攻擊加成。</p>
+                <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt="">象弓騎兵:超重裝馬弓騎兵，對馬建築物/城牆有攻擊加成。</p>
                 <p>
-                  <img class="gg" src="img/ImperialCamelIcon.jpg" alt="">帝王駱駝騎兵:更強大的駱駝騎兵，對建築物攻加成。</li>
+                  <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt="">帝王駱駝騎兵:更強大的駱駝騎兵，對建築物攻加成。</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">蘇丹：黃金收入的效率一律+10%。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">蘇丹：黃金收入的效率一律+10%。</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">印度火槍：火槍兵攻擊距離+1。</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">印度火槍：火槍兵攻擊距離+1。</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -102,7 +102,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Fictional_flag_of_the_Mughal_Empire.png" width="300px;"
+                  <img src="~assets/Fictional_flag_of_the_Mughal_Empire.png" width="300px;"
                   alt="">
                   <p><em>蒙兀兒汗國國旗</em>
                   </p>
@@ -126,9 +126,9 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/ElephantArcherIcon.jpg">象弓騎兵
+                <img class="gg" src="~assets/ElephantArcherIcon.jpg">象弓騎兵
                 <br>
-                <img class="gg" src="img/ImperialCamelIcon.jpg">帝王駱駝騎兵</td>
+                <img class="gg" src="~assets/ImperialCamelIcon.jpg">帝王駱駝騎兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -137,9 +137,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">蘇丹
+                <img class="gg" src="~assets/CastleAgeUnique.png">蘇丹
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">印度火槍</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">印度火槍</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

@@ -29,14 +29,14 @@
             <h3>特殊單位</h3>
             <ul>
               <p>
-                <img class="gg" src="img/Karambitwarrioricon.png" alt="">爪刀勇士:只占半個人口的輕裝步兵，人海戰術的代表之一。</p>
+                <img class="gg" src="~assets/Karambitwarrioricon.png" alt="">爪刀勇士:只占半個人口的輕裝步兵，人海戰術的代表之一。</p>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <p>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">海上霸主：碼頭升級成可射箭、更堅固的海港，簡稱海上城堡。</p>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">海上霸主：碼頭升級成可射箭、更堅固的海港，簡稱海上城堡。</p>
               <p>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">強制徵兵：民兵系列不需要黃金。</p>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">強制徵兵：民兵系列不需要黃金。</p>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -80,7 +80,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Kalasan.jpg" width="300px;" alt="">
+                  <img src="~assets/Kalasan.jpg" width="300px;" alt="">
                   <p><em>馬來的世界奇觀是爪哇最古老的佛教寺廟</em>
                   </p>
                 </div>
@@ -103,7 +103,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/Karambitwarrioricon.png">爪刀勇士</td>
+                <img class="gg" src="~assets/Karambitwarrioricon.png">爪刀勇士</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -112,9 +112,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">海上霸主
+                <img class="gg" src="~assets/CastleAgeUnique.png">海上霸主
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">強制徵兵</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">強制徵兵</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

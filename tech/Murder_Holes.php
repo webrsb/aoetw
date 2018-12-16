@@ -60,11 +60,11 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/1024px-Bodiam_murder_holes.jpg"><img class="imgn" class="hg" src="img/1024px-Bodiam_murder_holes.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/1024px-Bodiam_murder_holes.jpg"><img class="imgn" class="hg" src="~assets/1024px-Bodiam_murder_holes.jpg" alt=""></a> 
                   <p><em><a href="http://tinyurl.com/y8vlw8g3">博丁安堡</a>的垛孔(博丁安堡為遊戲中，不列顛、法蘭克等西歐建築城堡的原形)</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Machicolation_Of_Wejter_Tower.jpg"><img class="imgn" class="hg" src="img/Machicolation_Of_Wejter_Tower.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Machicolation_Of_Wejter_Tower.jpg"><img class="imgn" class="hg" src="~assets/Machicolation_Of_Wejter_Tower.jpg" alt=""></a> 
                   <p><em>真正的垛孔(博丁安堡那個是Murder Holes)</em>
                   </p>
                 </div>
@@ -82,7 +82,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Murderholes.jpg" width="45" alt="">
+                  <img src="~assets/Murderholes.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -98,13 +98,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" class="gg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
+                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
               </td>
             </tr>
             <tr>

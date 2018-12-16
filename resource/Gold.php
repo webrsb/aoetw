@@ -12,7 +12,7 @@
           <p>黃金是四種主要資源之一，黃金用於大多數的單位訓練和升級，並且隨著遊戲進行會越來越珍貴。通常主要是由村民採集黃金，但也可以利用別的手段來獲得。</p>
         </div>
         <div class="col-md-2">
-          <img src="img/Gold_aoe2.png" alt="">
+          <img src="~assets/Gold_aoe2.png" alt="">
         </div>
         <div class="col-md-12">
           <h3>採集</h3>

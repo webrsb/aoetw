@@ -26,7 +26,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-5">
-                <img class="hg" width="250" src="img/Constablerichemont.png" alt="">
+                <img class="hg" width="250" src="~assets/Constablerichemont.png" alt="">
                 <p><em>戰役編輯器中的沙底隆的雷諾。</em>
                 </p>
               </div>
@@ -44,7 +44,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Reynalddechatillonicon.png" width="80" alt="">
+                  <img src="~assets/Reynalddechatillonicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

@@ -35,18 +35,18 @@
               <td class="tta1" style="width:20%">農田產量</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Horsecollar.jpg" width="30" alt=""><a href="Horsecollar.php">馬軛</a>+75</p>
+                  <img class="gg" src="~assets/Horsecollar.jpg" width="30" alt=""><a href="Horsecollar.php">馬軛</a>+75</p>
                 <p>
-                  <img class="gg" src="img/Heavyplow.jpg" width="30" alt=""><a href="Heavyplow.php">重犁</a>+125</p>
+                  <img class="gg" src="~assets/Heavyplow.jpg" width="30" alt=""><a href="Heavyplow.php">重犁</a>+125</p>
                 <p>
-                  <img class="gg" src="img/Croprotation.jpg" width="30" alt=""><a href="Croprotation.php">輪耕</a>+175</p>
+                  <img class="gg" src="~assets/Croprotation.jpg" width="30" alt=""><a href="Croprotation.php">輪耕</a>+175</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">建築速度</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">滑輪起重機</a>+20%</p>
+                  <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">滑輪起重機</a>+20%</p>
               </td>
             </tr>
           </table>
@@ -61,7 +61,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Farmicon.png" width="45" alt="">
+                  <img src="~assets/Farmicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -154,39 +154,39 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
-                <img src="img/Horsecollar.jpg" width="30"
+                <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
+                <img src="~assets/Horsecollar.jpg" width="30"
                 alt="" class="gg"><a href="Horsecollar.php">馬軛</a>+75)</td>
               <td class="tta2">250</td>
               <td class="tta3">4.17</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
-                <img src="img/Heavyplow.jpg" width="30" alt=""
+                <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
+                <img src="~assets/Heavyplow.jpg" width="30" alt=""
                 class="gg"><a href="Heavyplow.php">重犁</a>+125)</td>
               <td class="tta2">375</td>
               <td class="tta3">6.25</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
-                <img src="img/Croprotation.jpg" width="30"
+                <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
+                <img src="~assets/Croprotation.jpg" width="30"
                 alt="" class="gg"><a href="Croprotation.php">輪耕</a>+175)</td>
               <td class="tta2">550</td>
               <td class="tta3">9.17</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/FishingShipIcon.jpg" width="30" alt=""><a href="Fishing_Ship.php">漁船</a>
+                <img class="gg" src="~assets/FishingShipIcon.jpg" width="30" alt=""><a href="Fishing_Ship.php">漁船</a>
               </td>
               <td class="tta2">715</td>
               <td class="tta3">7.15</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/FishingShipIcon.jpg" width="30" alt=""><a href="Fishing_Ship.php">漁船</a>+
-                <img class="gg" src="img/Fishtrapicon.png"
+                <img class="gg" src="~assets/FishingShipIcon.jpg" width="30" alt=""><a href="Fishing_Ship.php">漁船</a>+
+                <img class="gg" src="~assets/Fishtrapicon.png"
                 width="30" alt=""><a href="Fish_Trap.php">漁網</a>
               </td>
               <td class="tta2">715</td>
@@ -265,11 +265,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Farms.png"><img class="imgn" class="hg" src="img/Farms.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Farms.png"><img class="imgn" class="hg" src="~assets/Farms.png" alt=""></a> 
                 <p><em>農田越整齊離磨坊越近效率越高。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Ricefarm.png"><img class="imgn" class="hg" src="img/Ricefarm.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Ricefarm.png"><img class="imgn" class="hg" src="~assets/Ricefarm.png" alt=""></a> 
                 <p><em>當農田蓋在紅樹林上時，會自動變成水田。</em>
                 </p>
               </div>

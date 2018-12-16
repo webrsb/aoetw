@@ -33,14 +33,14 @@
                 <strong>特殊單位</strong></h3>
               <ul>
                 <li>
-                  <img class="gg" src="img/HuskarlIcon.jpg" alt="">哥德衛隊:快速的步兵，且有異常高的遠程護甲，基本上克制所有弓箭系。碰到高攻擊近戰單位會顯得吃力。</li></ul>
+                  <img class="gg" src="~assets/HuskarlIcon.jpg" alt="">哥德衛隊:快速的步兵，且有異常高的遠程護甲，基本上克制所有弓箭系。碰到高攻擊近戰單位會顯得吃力。</li></ul>
               <h3>
                 <strong>特殊科技</strong></h3>
               <ul>
                 <li>
-                  <img class="gg" src="img/CastleAgeUnique.png" alt="">無政府狀態：軍營可以生產哥德衛隊。</li>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" alt="">無政府狀態：軍營可以生產哥德衛隊。</li>
                 <li>
-                  <img class="gg" src="img/Unique-tech.jpg" alt="">帝王時代：灌注士氣：軍營生產單位速度快100%。</li></ul>
+                  <img class="gg" src="~assets/Unique-tech.jpg" alt="">帝王時代：灌注士氣：軍營生產單位速度快100%。</li></ul>
             </div>
             <h3>
               <strong>文明加成</strong></h3>
@@ -309,7 +309,7 @@
                 <div class="col-md-12">
                   <div class="col-md-4">
                     <a href="img/CentEuropean.jpg">
-                      <img class="imgn" class="hg" src="img/CentEuropean.jpg" alt=""></a>
+                      <img class="imgn" class="hg" src="~assets/CentEuropean.jpg" alt=""></a>
                     <p>
                       <em>哥德的建築風格</em></p>
                   </div>
@@ -328,7 +328,7 @@
               <tr>
                 <td colspan="2">
                   <div class="unititle">
-                    <img src="img/92000230.jpg" width="300px;" alt="">
+                    <img src="~assets/92000230.jpg" width="300px;" alt="">
                     <p>
                       <em>硬幣上的人為狄奧多里克大帝，東哥德王國建立者。</em></p>
                   </div>
@@ -349,16 +349,16 @@
               <tr>
                 <td class="unit3">特殊單位</td>
                 <td class="unit4">
-                  <img class="gg" src="img/HuskarlIcon.jpg">哥德衛隊</td></tr>
+                  <img class="gg" src="~assets/HuskarlIcon.jpg">哥德衛隊</td></tr>
               <tr>
                 <td class="unit3">首選戰略</td>
                 <td class="unit4">大後期戰爭，封建快攻，城堡快攻</td></tr>
               <tr>
                 <td class="unit3">特殊技術</td>
                 <td class="unit4">
-                  <img class="gg" src="img/CastleAgeUnique.png">無政府狀態
+                  <img class="gg" src="~assets/CastleAgeUnique.png">無政府狀態
                   <br>
-                  <img class="gg" src="img/Unique-tech.jpg">灌注士氣</td></tr>
+                  <img class="gg" src="~assets/Unique-tech.jpg">灌注士氣</td></tr>
             </table>
             <div class="thanks">感謝! 此頁面由Dennis協助編輯</div></div>
         </div>

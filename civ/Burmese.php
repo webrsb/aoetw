@@ -26,13 +26,13 @@
              <h3>特殊單位</h3>
 
             <p>
-              <img class="gg" src="img/Arambaiicon.png" width="" alt="">飛鏢騎兵:命中率不高，但殺傷力強大的馬騎弓兵單位，適合集群攻擊。</p>
+              <img class="gg" src="~assets/Arambaiicon.png" width="" alt="">飛鏢騎兵:命中率不高，但殺傷力強大的馬騎弓兵單位，適合集群攻擊。</p>
              <h3>特殊科技</h3>
 
             <p>
-              <img class="gg" src="img/CastleAgeUnique.png" alt="">象轎:矛象伕的近戰防禦 +1，遠距離防禦 +1。</p>
+              <img class="gg" src="~assets/CastleAgeUnique.png" alt="">象轎:矛象伕的近戰防禦 +1，遠距離防禦 +1。</p>
             <p>
-              <img class="gg" src="img/Unique-tech.jpg" alt="">曼尼普爾騎兵:騎兵與飛鏢騎兵對建築攻擊力+6。</p>
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="">曼尼普爾騎兵:騎兵與飛鏢騎兵對建築攻擊力+6。</p>
           </div>
            <h3>文明加成</h3>
 
@@ -76,7 +76,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/bum.JPG" width="250" alt="">
+                  <img src="~assets/bum.JPG" width="250" alt="">
                   <p><em>仰光大金寺</em>
 
                   </p>
@@ -101,7 +101,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/Arambaiicon.png">飛鏢騎兵</td>
+                <img class="gg" src="~assets/Arambaiicon.png">飛鏢騎兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -110,9 +110,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">象轎
+                <img class="gg" src="~assets/CastleAgeUnique.png">象轎
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">曼尼普爾騎兵</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">曼尼普爾騎兵</td>
             </tr>
           </table>
           <div class="thanks">此頁面由阿幹協助編輯</div>

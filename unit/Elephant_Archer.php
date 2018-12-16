@@ -53,74 +53,74 @@
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</p>
+                  <img src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)</p>
+                  <img src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)</p>
                 <p>
-                  <img src="img/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)</p>
+                  <img src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)</p>
                 <p>
-                  <img src="img/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)</p>
+                  <img src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)</p>
                 <p>
-                  <img src="img/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)</p>
+                  <img src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)</p>
                 <p>
-                  <img src="img/Parthian-Tactics.jpg" width="30" alt=""><a href="Parthian_Tactics.php">帕提亞戰術</a>(+2對長槍兵)</p>
+                  <img src="~assets/Parthian-Tactics.jpg" width="30" alt=""><a href="Parthian_Tactics.php">帕提亞戰術</a>(+2對長槍兵)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊範圍</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)</p>
+                  <img src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)</p>
                 <p>
-                  <img src="img/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)</p>
+                  <img src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)</p>
                 <p>
-                  <img src="img/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)</p>
+                  <img src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</p>
+                  <img src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>(對移動目標命中率上升)</p>
+                  <img src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>(對移動目標命中率上升)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Paddedarcherarmor.jpg" width="30" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)</p>
+                  <img src="~assets/Paddedarcherarmor.jpg" width="30" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)</p>
                 <p>
-                  <img src="img/Leatherarcherarmor.jpg" width="30" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>(+1/+1)</p>
+                  <img src="~assets/Leatherarcherarmor.jpg" width="30" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>(+1/+1)</p>
                 <p>
-                  <img src="img/Ringarcherarmor.jpg" width="30" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>(+1/+2)</p>
+                  <img src="~assets/Ringarcherarmor.jpg" width="30" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>(+1/+2)</p>
                 <p>
-                  <img src="img/Parthian-Tactics.jpg" width="30" alt=""><a href="Parthian_Tactics.php">帕提亞戰術</a>(+1/+2)</p>
+                  <img src="~assets/Parthian-Tactics.jpg" width="30" alt=""><a href="Parthian_Tactics.php">帕提亞戰術</a>(+1/+2)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</p>
+                  <img src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
 
                 </p>
               </td>
@@ -129,7 +129,7 @@
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</p>
+                  <img src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</p>
               </td>
             </tr>
           </table>
@@ -172,7 +172,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/ElephantArcherIcon.jpg" width="45" alt="">
+                  <img src="~assets/ElephantArcherIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -290,7 +290,7 @@
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img src="img/ElephantArcherIcon.jpg" alt="">精銳象弓騎兵</td>
+                <img src="~assets/ElephantArcherIcon.jpg" alt="">精銳象弓騎兵</td>
             </tr>
             <tr>
               <td class="unit3">升級成本</td>

@@ -80,7 +80,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Shipwright.jpg" width="45" alt="">
+                  <img src="~assets/Shipwright.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -97,13 +97,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Castle_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Castle_Age.php">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
+                <img class="gg" src="~assets/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
               </td>
             </tr>
             <tr>

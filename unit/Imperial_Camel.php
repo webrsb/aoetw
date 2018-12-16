@@ -48,43 +48,43 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
+                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
                 <br>
-                <img class="gg" src="img/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
+                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
                 <br>
-                <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</td>
+                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="img/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
+                <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
                 <br>
-                <img class="gg" src="img/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
+                <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
                 <br>
-                <img class="gg" src="img/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
+                <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
+                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
             </tr>
           </table>
           <h3>剋帝王駱駝騎兵的單位與建築</h3> 
@@ -97,33 +97,33 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
+                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
+                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
+                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong>
                     <li>
-                      <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
-                      <img class="gg" src="img/ImperialCamelIcon.jpg"
+                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
+                      <img class="gg" src="~assets/ImperialCamelIcon.jpg"
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </div>
                 </div>
@@ -133,15 +133,15 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                     <li>
-                      <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
+                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
                     </li>
                     
                   </ul>
@@ -149,65 +149,65 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
+                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
                     </li>
                   </ul>
                     <div style="margin:12px 0px;"><strong>+1攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="img/Town-center-logo.jpg" alt=""><a href="Town_Center.php">城鎮中心</a> 
+                      <img class="gg" src="~assets/Town-center-logo.jpg" alt=""><a href="Town_Center.php">城鎮中心</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/Watchtowericon.png" alt=""><a href="Watch_Tower.php">瞭望箭塔</a>→
-                      <img class="gg" src="img/Watchtowericon.png"
+                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Watch_Tower.php">瞭望箭塔</a>→
+                      <img class="gg" src="~assets/Watchtowericon.png"
                   width="22" alt=""> <a href="Guard_Tower.php">防禦箭塔</a>→
-                      <img class="gg" src="img/Watchtowericon.png"
+                      <img class="gg" src="~assets/Watchtowericon.png"
                   alt=""> <a href="Keep.php">大型箭塔</a> 
                     </li>
                     <li>
-                      <img class="gg" src="img/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a> 
+                      <img class="gg" src="~assets/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a> 
                     </li>
                   </ul>
                 </div>
               </div>
             </div>以下技術可讓以下單位對帝王駱駝騎兵有額外攻擊力
             <div class="n1">
-              <img class="gg" src="img/CastleAgeUnique.png" width="22" alt=""> <a href="Chieftains.php">酋長</a> 
+              <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""> <a href="Chieftains.php">酋長</a> 
               <div width="22" style="margin:12px 0px;"><strong>+2攻擊</strong>(<a href="Vikings.php">維京</a>限定)</div>
               <ul>
                 <li>
-                  <img class="gg" src="img/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>→
-                  <img class="gg" src="img/ManAtArmsIcon.jpg"
+                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>→
+                  <img class="gg" src="~assets/ManAtArmsIcon.jpg"
                   width="22" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>→
-                  <img class="gg" src="img/LongswordsManIcon.jpg"
+                  <img class="gg" src="~assets/LongswordsManIcon.jpg"
                   alt=""> <a href="Long_Swordsman.php">長劍兵</a>→
-                  <img class="gg" src="img/2HandedswordsmanIcon.jpg"
+                  <img class="gg" src="~assets/2HandedswordsmanIcon.jpg"
                   alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
-                  <img class="gg" src="img/ChampionIcon.jpg"
+                  <img class="gg" src="~assets/ChampionIcon.jpg"
                   alt=""> <a href="Champion.php">劍兵勇士</a> 
                 </li>
                 <li>
-                  <img class="gg" src="img/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>→
-                  <img class="gg" src="img/PikemanIcon.jpg"
+                  <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>→
+                  <img class="gg" src="~assets/PikemanIcon.jpg"
                   alt=""> <a href="Pikeman.php">重裝長槍兵</a> 
                 </li>
                 <li>
-                  <img class="gg" src="img/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>→
-                  <img class="gg" src="img/VBRSK.jpg" alt=""> <a href="Berserk.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
+                  <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>→
+                  <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Berserk.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
               </ul>
             </div>
           </div>
@@ -260,7 +260,7 @@
           <div class="n1"><strong>駱駝為何剋馬？：</strong>
             <p>世紀帝國中的設定，駱駝打馬單位是有加成的，其實是有原因的。中國有句俗語：瘦死的駱駝比馬大，駱駝天生體積比馬還要大，馬看到龐然大物會害怕是正常。其次是駱駝身上有反芻動物特有的味道，馬一聞到那味道便不受控制。</p>
             <img
-            class="img-responsive" class="imgn" src="img/camelhorse.jpg" alt="">
+            class="img-responsive" class="imgn" src="~assets/camelhorse.jpg" alt="">
               <p>駱駝的確比馬大很多</p>
           </div>
         </div>
@@ -275,7 +275,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/ImperialCamelIcon.jpg" width="45" alt="">
+                  <img src="~assets/ImperialCamelIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -297,13 +297,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" class="gg" src="img/Stable-logo.jpg" alt=""><a href="Stable.php">馬廄</a>
+                <img class="gg" class="gg" src="~assets/Stable-logo.jpg" alt=""><a href="Stable.php">馬廄</a>
               </td>
             </tr>
             <tr>
@@ -380,7 +380,7 @@
               <tr>
                 <td class="unit3">從升級</td>
                 <td class="unit4">
-                  <img class="gg" src="img/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
+                  <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
                 </td>
               </tr>
           </table>
@@ -390,28 +390,28 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/AOF35_Imperial_Camel.jpg"><img class="imgn" class="hg" width="250" src="img/AOF35_Imperial_Camel.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AOF35_Imperial_Camel.jpg"><img class="imgn" class="hg" width="250" src="~assets/AOF35_Imperial_Camel.jpg" alt=""></a> 
                 <p><em>失落的帝國，3.5版本的帝王駱駝騎兵。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/AOF36_Imperial_Camel.jpg"><img class="imgn" class="hg" src="img/AOF36_Imperial_Camel.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/AOF36_Imperial_Camel.jpg"><img class="imgn" class="hg" src="~assets/AOF36_Imperial_Camel.jpg" alt=""></a> 
                 <p><em>3.6版本的帝王駱駝騎兵。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/D.png"><img class="imgn" class="hg" src="img/D.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/D.png"><img class="imgn" class="hg" src="~assets/D.png" alt=""></a> 
                 <p><em>4.4版本的帝王駱駝騎兵。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Camelline.png"><img class="imgn" class="hg" src="img/Camelline.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Camelline.png"><img class="imgn" class="hg" src="~assets/Camelline.png" alt=""></a> 
                   <p><em>駱駝騎兵、重裝駱駝騎兵與帝王駱駝騎兵。</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Indians_preview.png"><img class="imgn" class="hg" src="img/Indians_preview.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Indians_preview.png"><img class="imgn" class="hg" src="~assets/Indians_preview.png" alt=""></a> 
                   <p><em>失落的帝國還沒釋出前的官方圖，可以看到帝王駱駝的最初樣子。</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Imperial_Camel_AoFE.jpg"><img class="imgn"  class="hg" src="img/Imperial_Camel_AoFE.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Imperial_Camel_AoFE.jpg"><img class="imgn"  class="hg" src="~assets/Imperial_Camel_AoFE.jpg" alt=""></a> 
                   <p><em>3.6版本的帝王駱駝騎兵。</em>
                   </p>
                 </div>

@@ -9,13 +9,13 @@
 
           <div class="hrn1"></div>
         </div>
-        <div class="spw"><em><img src="img/Cuauhtemocicon.png" width="50px;" alt="" style="margin-right:20px;">動物保護協會長-蘇打泡表示：此頁面沒有包含座騎單位，座騎單位請看：<a href="Cavalry_Units.php">騎兵</a>。</em>
+        <div class="spw"><em><img src="~assets/Cuauhtemocicon.png" width="50px;" alt="" style="margin-right:20px;">動物保護協會長-蘇打泡表示：此頁面沒有包含座騎單位，座騎單位請看：<a href="Cavalry_Units.php">騎兵</a>。</em>
 
         </div>
         <div class="col-md-8">野生動物是遊戲中出現的野外動物，牠們有的可以提供食物，是遊戲初期獲取食物的一大來源。而有些是對人類不友善的動物，牠們會主動攻擊我方單位（除了僧侶、斥侯、鷹勇士、國王與攻城武器）。</div>
         <div
         class="col-md-4">
-          <img src="img/okd.jpg" width="300px;" alt="">
+          <img src="~assets/okd.jpg" width="300px;" alt="">
           <p>在非洲王國出現的野生動物。</p>
       </div>
       <div class="col-md-12">

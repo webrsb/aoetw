@@ -11,7 +11,7 @@
         <div class="col-md-8">
           <div class="n1">
             <p>
-              <img src="img/Cobracar_00.png" width="120" alt="">眼鏡蛇汽車（以前稱為謝爾比眼鏡蛇）是世紀帝國二的一個作弊單元。 這是一個AC眼鏡蛇，可以在目標上發射子彈。它也可以在場景編輯器中找到。 眼鏡蛇車的行為非常像快速發射的火槍兵，而不是在戰鬥中使用爆炸性武
+              <img src="~assets/Cobracar_00.png" width="120" alt="">眼鏡蛇汽車（以前稱為謝爾比眼鏡蛇）是世紀帝國二的一個作弊單元。 這是一個AC眼鏡蛇，可以在目標上發射子彈。它也可以在場景編輯器中找到。 眼鏡蛇車的行為非常像快速發射的火槍兵，而不是在戰鬥中使用爆炸性武
               器，但是，眼鏡蛇車會造成範圍性傷害！
               <p>眼鏡蛇擁有傲人的10攻擊範圍，可以輕鬆虐殺任何其他遊戲中的遠程攻擊者 ，也可輕鬆擊垮來襲敵軍，就算擁有駐軍人員或英國長弓手的城 堡可以超出它。儘管如此，由於它的高生命值，裝甲和傷害輸出，眼鏡蛇汽
                 車很容易擊退弓兵的軍隊。
@@ -43,10 +43,10 @@
           <div class="n1">
             <ul>
               <div class="unititle">
-                <img src="img/Cobracar8.png" width="250" alt="">
+                <img src="~assets/Cobracar8.png" width="250" alt="">
                 <p>一群眼鏡蛇車
                   <div class="unititle">
-                    <img src="img/AC_427_Cobra_vl_blue.jpg" width="250" alt="">
+                    <img src="~assets/AC_427_Cobra_vl_blue.jpg" width="250" alt="">
                     <p>AC 眼鏡蛇車</ul>
             </div>
             <div class="hrn1"></div>
@@ -64,7 +64,7 @@
                 <tr>
                   <td colspan="2">
                     <div class="unititle">
-                      <img src="img/Cobracaricon.png" width="45" alt="">
+                      <img src="~assets/Cobracaricon.png" width="45" alt="">
                     </div>
                   </td>
                 </tr>

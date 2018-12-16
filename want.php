@@ -6,7 +6,7 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
           <div style="text-align: center;">
-            <img src="img/want.jpg" alt="">
+            <img src="~assets/want.jpg" alt="">
           </div>
           <div class="col-md-12">
              <h1>Aoetw緣起</h1> 

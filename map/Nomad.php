@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Images-0.jpg" width="300" alt="">
+          <img src="~assets/Images-0.jpg" width="300" alt="">
            <h4>標準游牧地圖</h4> 
         </div>
       </div>

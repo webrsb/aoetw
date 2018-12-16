@@ -28,7 +28,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Vladdraculaicon.png" width="80" alt="">
+                  <img src="~assets/Vladdraculaicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

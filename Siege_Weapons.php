@@ -30,33 +30,33 @@
             <p>攻城器可分為兩類，專門破壞建築物的和擅於對付步兵和弓兵的。</p> <strong>對建築物</strong>
             <ul>
               <li>
-                <img class="gg" src="img/BatteringRamIcon.jpg" alt=""> <a href="Battering_Ram.php">輕型衝撞車</a>
+                <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""> <a href="Battering_Ram.php">輕型衝撞車</a>
               </li>
               <li>
-                <img class="gg" src="img/BombardCannonIcon.jpg" alt=""> <a href="Bombard_Cannon.php">火砲</a>
+                <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""> <a href="Bombard_Cannon.php">火砲</a>
               </li>
               <li>
-                <img class="gg" src="img/PetardIcon.jpg" alt=""> <a href="Petard.php">爆炸桶</a>
+                <img class="gg" src="~assets/PetardIcon.jpg" alt=""> <a href="Petard.php">爆炸桶</a>
               </li>
               <li>
-                <img class="gg" src="img/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">投石機</a>
+                <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">投石機</a>
               </li>
             </ul> <strong>對單位</strong> 
             <ul>
               <li>
-                <img class="gg" src="img/MangonelIcon.jpg" alt=""> <a href="Mangonel.php">投石車</a>
+                <img class="gg" src="~assets/MangonelIcon.jpg" alt=""> <a href="Mangonel.php">投石車</a>
               </li>
               <li>
-                <img class="gg" src="img/ScorpionIcon.jpg" alt=""> <a href="Scorpion.php">弩砲</a>
+                <img class="gg" src="~assets/ScorpionIcon.jpg" alt=""> <a href="Scorpion.php">弩砲</a>
               </li>
               <li>
-                <img class="gg" src="img/BombardCannonIcon.jpg" alt=""> <a href="Bombard_Cannon.php">火砲</a>
+                <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""> <a href="Bombard_Cannon.php">火砲</a>
               </li>
               <li>
-                <img class="gg" src="img/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">手風琴砲</a>
+                <img class="gg" src="~assets/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">手風琴砲</a>
               </li>
 			  <li>
-                <img class="gg" src="img/Ballistaelephanticon.png" alt=""><a href="Organ_Gun.php">弩砲象</a>
+                <img class="gg" src="~assets/Ballistaelephanticon.png" alt=""><a href="Organ_Gun.php">弩砲象</a>
               </li>
             </ul>
             <ul>
@@ -113,7 +113,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/BatteringRamIcon.jpg"><a href="Battering_Ram.php">輕型衝撞車</a>
+                  <img class="gg" src="~assets/BatteringRamIcon.jpg"><a href="Battering_Ram.php">輕型衝撞車</a>
                 </td>
                 <td class="tta3">175</td>
                 <!--生命值!-->
@@ -132,7 +132,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CappedRamIcon.jpg"><a href="Capped_Ram.php">裝甲衝撞車</a>
+                  <img class="gg" src="~assets/CappedRamIcon.jpg"><a href="Capped_Ram.php">裝甲衝撞車</a>
                 </td>
                 <td class="tta3">200</td>
                 <!--生命值!-->
@@ -151,7 +151,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/SiegeRamIcon.jpg"><a href="Siege_Ram.php">重型衝撞車</a>
+                  <img class="gg" src="~assets/SiegeRamIcon.jpg"><a href="Siege_Ram.php">重型衝撞車</a>
                 </td>
                 <td class="tta3">270</td>
                 <!--生命值!-->
@@ -170,7 +170,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/MangonelIcon.jpg"><a href="Mangonel.php">輕型投石車</a>
+                  <img class="gg" src="~assets/MangonelIcon.jpg"><a href="Mangonel.php">輕型投石車</a>
                 </td>
                 <td class="tta3">50</td>
                 <!--生命值!-->
@@ -189,7 +189,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/OnagerIcon.jpg"><a href="Onager.php">中型投石車</a>
+                  <img class="gg" src="~assets/OnagerIcon.jpg"><a href="Onager.php">中型投石車</a>
                 </td>
                 <td class="tta3">60</td>
                 <!--生命值!-->
@@ -208,7 +208,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/SiegeOnagerIcon.jpg"><a href="Siege_Onager.php">重型投石車</a>
+                  <img class="gg" src="~assets/SiegeOnagerIcon.jpg"><a href="Siege_Onager.php">重型投石車</a>
                 </td>
                 <td class="tta3">70</td>
                 <!--生命值!-->
@@ -227,7 +227,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ScorpionIcon.jpg"><a href="Scorpion.php">弩炮</a>
+                  <img class="gg" src="~assets/ScorpionIcon.jpg"><a href="Scorpion.php">弩炮</a>
                 </td>
                 <td class="tta3">40</td>
                 <!--生命值!-->
@@ -246,7 +246,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/HeavyScorpionIcon.jpg"><a href="Heavy_Scorpion.php">重型弩炮</a>
+                  <img class="gg" src="~assets/HeavyScorpionIcon.jpg"><a href="Heavy_Scorpion.php">重型弩炮</a>
                 </td>
                 <td class="tta3">50</td>
                 <!--生命值!-->
@@ -265,7 +265,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/Siegetowericon.png"><a href="Siege_Tower.php">攻城塔</a>
+                  <img class="gg" src="~assets/Siegetowericon.png"><a href="Siege_Tower.php">攻城塔</a>
                 </td>
                 <td class="tta3">220</td>
                 <!--生命值!-->
@@ -284,7 +284,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/BombardCannonIcon.jpg"><a href="Bombard_Cannon.php">火炮</a>
+                  <img class="gg" src="~assets/BombardCannonIcon.jpg"><a href="Bombard_Cannon.php">火炮</a>
                 </td>
                 <td class="tta3">80</td>
                 <!--生命值!-->
@@ -303,7 +303,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/PetardIcon.jpg"><a href="Petard.php">爆炸桶</a>
+                  <img class="gg" src="~assets/PetardIcon.jpg"><a href="Petard.php">爆炸桶</a>
                 </td>
                 <td class="tta3">50</td>
                 <!--生命值!-->
@@ -322,7 +322,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/TrebuchetPackedIcon.jpg"><a href="Trebuchet.php">巨型投石機(拆裝)</a>
+                  <img class="gg" src="~assets/TrebuchetPackedIcon.jpg"><a href="Trebuchet.php">巨型投石機(拆裝)</a>
                 </td>
                 <td class="tta3">150</td>
                 <!--生命值!-->
@@ -341,7 +341,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/TrebuchetUnpackedIcon.jpg"><a href="Trebuchet.php">巨型投石機(組裝)</a>
+                  <img class="gg" width="22" src="~assets/TrebuchetUnpackedIcon.jpg"><a href="Trebuchet.php">巨型投石機(組裝)</a>
                 </td>
                 <td class="tta3">150</td>
                 <!--生命值!-->
@@ -360,7 +360,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/OrganGunIcon.jpg"><a href="Organ_Gun.php">風琴炮</a>
+                  <img class="gg" width="22" src="~assets/OrganGunIcon.jpg"><a href="Organ_Gun.php">風琴炮</a>
                 </td>
                 <td class="tta3">60</td>
                 <!--生命值!-->
@@ -379,7 +379,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/OrganGunIcon.jpg"><a href="Organ_Gun.php">精銳風琴炮</a>
+                  <img class="gg" width="22" src="~assets/OrganGunIcon.jpg"><a href="Organ_Gun.php">精銳風琴炮</a>
                 </td>
                 <td class="tta3">70</td>
                 <!--生命值!-->
@@ -398,7 +398,7 @@
               </tr>
 			  <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/Ballistaelephanticon.png"><a href="Organ_Gun.php">弩砲象</a>
+                  <img class="gg" width="22" src="~assets/Ballistaelephanticon.png"><a href="Organ_Gun.php">弩砲象</a>
                 </td>
                 <td class="tta3">250</td>
                 <!--生命值!-->
@@ -417,7 +417,7 @@
               </tr>
 			  <tr>
                 <td class="tta1">
-                  <img class="gg" width="22" src="img/Ballistaelephanticon.png"><a href="Organ_Gun.php">精銳弩砲象</a>
+                  <img class="gg" width="22" src="~assets/Ballistaelephanticon.png"><a href="Organ_Gun.php">精銳弩砲象</a>
                 </td>
                 <td class="tta3">290</td>
                 <!--生命值!-->
@@ -448,7 +448,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>
+                  <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">500F 600W</td>
@@ -456,7 +456,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
+                  <img class="gg" src="~assets/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">300F 200G</td>
@@ -464,7 +464,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Heresy.png" alt=""><a href="Heresy.php">異端邪說</a>
+                  <img class="gg" src="~assets/Heresy.png" alt=""><a href="Heresy.php">異端邪說</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">1000G</td>
@@ -472,7 +472,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">750F 1000G</td>
@@ -480,7 +480,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Conscription.jpg" alt=""><a href="Conscription.php">徵兵制度</a>
+                  <img class="gg" src="~assets/Conscription.jpg" alt=""><a href="Conscription.php">徵兵制度</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">150F 150G</td>
@@ -499,7 +499,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Berbers.php">柏柏</a>
+                    <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Berbers.php">柏柏</a>
                   </td>
                   <td class="tunitc4"><a href="Kasbah.php">聚居堡壘</a>
                   </td>
@@ -508,7 +508,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Teutons.php">條頓</a>
+                    <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Teutons.php">條頓</a>
                   </td>
                   <td class="tunitc4"><a href="Ironclad.php">鋼鐵甲</a>
                   </td>
@@ -517,7 +517,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Britons.php">不列顛</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Britons.php">不列顛</a>
                   </td>
                   <td class="tunitc4"><a href="Warwolf.php">戰狼</a>
                   </td>
@@ -526,7 +526,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Celts.php">賽爾特</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Celts.php">賽爾特</a>
                   </td>
                   <td class="tunitc4"><a href="Furor_Celtica.php">賽爾特狂暴</a>
                   </td>
@@ -535,7 +535,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Chinese.php">中國</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Chinese.php">中國</a>
                   </td>
                   <td class="tunitc4"><a href="Rocketry.php">火箭術</a>
                   </td>
@@ -544,7 +544,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Ethiopians.php">衣索比亞</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Ethiopians.php">衣索比亞</a>
                   </td>
                   <td class="tunitc4"><a href="Torsion Engines.php">扭力彈射器</a>
                   </td>
@@ -553,7 +553,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Japanese.php">日本</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Japanese.php">日本</a>
                   </td>
                   <td class="tunitc4"><a href="Kataparuto.php">彈射器</a>
                   </td>
@@ -562,7 +562,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Koreans.php">韓國</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Koreans.php">韓國</a>
                   </td>
                   <td class="tunitc4"><a href="Shinkichon.php">神機箭</a>
                   </td>
@@ -571,7 +571,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Mongols.php">蒙古</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Mongols.php">蒙古</a>
                   </td>
                   <td class="tunitc4"><a href="Drill.php">演習</a>
                   </td>
@@ -580,7 +580,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Saracens.php">薩拉森</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Saracens.php">薩拉森</a>
                   </td>
                   <td class="tunitc4"><a href="Arquebus.php">火繩槍</a>
                   </td>
@@ -589,7 +589,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Turks.php">土耳其</a>
+                    <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Turks.php">土耳其</a>
                   </td>
                   <td class="tunitc4"><a href="Artillery.php">砲兵</a>
                   </td>
@@ -603,14 +603,14 @@
               <h3>圖庫</h3>
               <div class="hrn1"></div>
               <div class="n1">
-                <div class="col-md-4"> <a href="img/Siegeunitssiegeworkshop.png"><img class="imgn" class="hg" width="180" src="img/Siegeunitssiegeworkshop.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Siegeunitssiegeworkshop.png"><img class="imgn" class="hg" width="180" src="~assets/Siegeunitssiegeworkshop.png" alt=""></a> 
                   <div
                   class="lightbox-caption" style="width:220px" ;>
                     <p><em>所有攻城器製造所可訓練的攻城器單位。</em>
                     </p>
                 </div>
               </div>
-              <div class="col-md-4"> <a href="img/Siegeunitscastle.png"><img class="imgn" class="hg" width="200" src="img/Siegeunitscastle.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Siegeunitscastle.png"><img class="imgn" class="hg" width="200" src="~assets/Siegeunitscastle.png" alt=""></a> 
                 <div
                 class="lightbox-caption" style="width:220px" ;>
                   <p><em>所有城堡可訓練的攻城器單位。</em>

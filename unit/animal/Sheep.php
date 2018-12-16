@@ -45,7 +45,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Aoe2_sheep_icon.png" width="80" alt="">
+                  <img src="~assets/Aoe2_sheep_icon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

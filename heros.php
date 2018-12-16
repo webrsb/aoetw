@@ -21,7 +21,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Aethelfirthicon.png" alt=""><a href="Aethelfirth.php">埃特爾</a>
+                <img class="gg" src="~assets/Aethelfirthicon.png" alt=""><a href="Aethelfirth.php">埃特爾</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">松藍武士</td>
@@ -30,7 +30,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/MonkIcon.jpg" alt=""><a href="Archbishop.php">大主教</a>
+                <img class="gg" src="~assets/MonkIcon.jpg" alt=""><a href="Archbishop.php">大主教</a>
               </td>
               <td class="tunitc4">僧侶</td>
               <td class="tunitc6">僧侶</td>
@@ -38,7 +38,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Archersoftheeyesicon.png" alt=""><a href="Archers_of_the_Eyes.php">神弓手</a>
+                <img class="gg" src="~assets/Archersoftheeyesicon.png" alt=""><a href="Archers_of_the_Eyes.php">神弓手</a>
               </td>
               <td class="tunitc4">弓兵</td>
               <td class="tunitc6">強弩兵</td>
@@ -49,7 +49,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Badneighboricon.png" alt=""><a href="Bad_Neighbor.php">壞鄰居</a>
+                <img class="gg" src="~assets/Badneighboricon.png" alt=""><a href="Bad_Neighbor.php">壞鄰居</a>
               </td>
               <td class="tunitc4">攻城武器</td>
               <td class="tunitc6">巨型投石機</td>
@@ -58,7 +58,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Belisariusicon.png" alt=""><a href="Belisarius.php">貝利沙魯實</a>
+                <img class="gg" src="~assets/Belisariusicon.png" alt=""><a href="Belisarius.php">貝利沙魯實</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">拜占庭聖騎兵</td>
@@ -67,7 +67,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Charlemagneicon.png" alt=""><a href="Charlemagne.php">查理曼大帝</a>
+                <img class="gg" src="~assets/Charlemagneicon.png" alt=""><a href="Charlemagne.php">查理曼大帝</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">擲斧兵</td>
@@ -76,7 +76,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Charlesmartelicon.png" alt=""><a href="Charles_Martel.php">鐵鎚查理</a>
+                <img class="gg" src="~assets/Charlesmartelicon.png" alt=""><a href="Charles_Martel.php">鐵鎚查理</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">擲斧兵</td>
@@ -85,7 +85,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Constablerichemonticon.png" alt=""><a href="Constable_Richemont.php">康斯塔伯理察蒙</a>
+                <img class="gg" src="~assets/Constablerichemonticon.png" alt=""><a href="Constable_Richemont.php">康斯塔伯理察蒙</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">特殊</td>
@@ -94,7 +94,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Dukedalencon.png" alt=""><a href="Duke_D'Alençon.php">阿朗松公爵</a>
+                <img class="gg" src="~assets/Dukedalencon.png" alt=""><a href="Duke_D'Alençon.php">阿朗松公爵</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">特殊</td>
@@ -103,7 +103,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Elcidicon.png" alt=""><a href="El_Cid.php">熙德</a>
+                <img class="gg" src="~assets/Elcidicon.png" alt=""><a href="El_Cid.php">熙德</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
@@ -113,7 +113,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Emperorinabarrelicon.png" alt=""><a href="Emperor_in_a_Barrel.php">裝在桶裡的皇帝</a>
+                <img class="gg" src="~assets/Emperorinabarrelicon.png" alt=""><a href="Emperor_in_a_Barrel.php">裝在桶裡的皇帝</a>
               </td>
               <td class="tunitc4">村民</td>
               <td class="tunitc6">貿易馬車</td>
@@ -122,7 +122,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Elcidicon.png" alt=""><a href="Erik_the_Red.php">紅衣艾立克</a>
+                <img class="gg" src="~assets/Elcidicon.png" alt=""><a href="Erik_the_Red.php">紅衣艾立克</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">狂戰士</td>
@@ -131,7 +131,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Constablerichemonticon.png" alt=""><a href="Frankish_Paladin.php">法蘭克聖騎士</a>
+                <img class="gg" src="~assets/Constablerichemonticon.png" alt=""><a href="Frankish_Paladin.php">法蘭克聖騎士</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">特殊</td>
@@ -141,7 +141,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/MonkIcon.jpg" alt=""><a href="Friar_Tuck.php">塔克修士</a>
+                <img class="gg" src="~assets/MonkIcon.jpg" alt=""><a href="Friar_Tuck.php">塔克修士</a>
               </td>
               <td class="tunitc4">僧侶</td>
               <td class="tunitc6">僧侶</td>
@@ -149,7 +149,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Constablerichemonticon.png" alt=""><a href="Gawain.php">高文爵士</a>
+                <img class="gg" src="~assets/Constablerichemonticon.png" alt=""><a href="Gawain.php">高文爵士</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">騎兵</td>
@@ -157,7 +157,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Genghiskhanicon.png" alt=""><a href="Genghis_Khan.php">成吉思汗</a>
+                <img class="gg" src="~assets/Genghiskhanicon.png" alt=""><a href="Genghis_Khan.php">成吉思汗</a>
               </td>
               <td class="tunitc4">馬騎弓兵</td>
               <td class="tunitc6">蒙古突騎</td>
@@ -166,7 +166,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Badneighboricon.png" alt=""><a href="God's_Own_Sling.php">神之弓</a>
+                <img class="gg" src="~assets/Badneighboricon.png" alt=""><a href="God's_Own_Sling.php">神之弓</a>
               </td>
               <td class="tunitc4">攻城單位</td>
               <td class="tunitc6">巨型投石機</td>
@@ -175,7 +175,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Guyjosselyneicon.png" alt=""><a href="Guy_Josselyne.php">蓋佐斯爾立</a>
+                <img class="gg" src="~assets/Guyjosselyneicon.png" alt=""><a href="Guy_Josselyne.php">蓋佐斯爾立</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">遊俠</td>
@@ -185,7 +185,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/MonkIcon.jpg" alt=""><a href="Harold_Haardraade.php">哈拉爾-哈德拉達</a>
+                <img class="gg" src="~assets/MonkIcon.jpg" alt=""><a href="Harold_Haardraade.php">哈拉爾-哈德拉達</a>
               </td>
               <td class="tunitc4">僧侶</td>
               <td class="tunitc6">僧侶</td>
@@ -193,7 +193,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/VBRSK.jpg" alt=""><a href="Hrolf_the_Ganger.php">首領荷夫</a>
+                <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="Hrolf_the_Ganger.php">首領荷夫</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">狂戰士</td>
@@ -201,7 +201,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Wolf-icon-aoe2.jpg" alt=""><a href="Hunting_Wolf.php">獵狼</a>
+                <img class="gg" src="~assets/Wolf-icon-aoe2.jpg" alt=""><a href="Hunting_Wolf.php">獵狼</a>
               </td>
               <td class="tunitc4">動物</td>
               <td class="tunitc6">狼</td>
@@ -213,7 +213,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Jeanbureauicon.png" alt=""><a href="Jean_Bureau.php">約翰布荷</a>
+                <img class="gg" src="~assets/Jeanbureauicon.png" alt=""><a href="Jean_Bureau.php">約翰布荷</a>
               </td>
               <td class="tunitc4">攻城單位</td>
               <td class="tunitc6">火炮</td>
@@ -222,7 +222,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Jeandelorrain.png" alt=""><a href="Jean_de_Lorrain.php">洛林的約翰</a>
+                <img class="gg" src="~assets/Jeandelorrain.png" alt=""><a href="Jean_de_Lorrain.php">洛林的約翰</a>
               </td>
               <td class="tunitc4">攻城單位</td>
               <td class="tunitc6">火炮</td>
@@ -231,7 +231,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
+                <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
               </td>
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">特殊</td>
@@ -243,7 +243,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Joanthemaidicon.png" alt=""><a href="Joan_the_Maid.php">農家女貞德</a>
+                <img class="gg" src="~assets/Joanthemaidicon.png" alt=""><a href="Joan_the_Maid.php">農家女貞德</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">特殊</td>
@@ -252,7 +252,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/ChampionIcon.jpg" alt=""><a href="King_Arthur.php">亞瑟王</a>
+                <img class="gg" src="~assets/ChampionIcon.jpg" alt=""><a href="King_Arthur.php">亞瑟王</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
@@ -260,7 +260,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/SMURI.jpg" alt=""><a href="Kitabatake.php">北畠將軍</a>
+                <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Kitabatake.php">北畠將軍</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">日本武士</td>
@@ -268,7 +268,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Kushlukicon.png" alt=""><a href="Kushluk.php">屈出律</a>
+                <img class="gg" src="~assets/Kushlukicon.png" alt=""><a href="Kushluk.php">屈出律</a>
               </td>
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">騎兵</td>
@@ -279,7 +279,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Lahire.png" alt=""><a href="La_Hire.php">拉海爾</a>
+                <img class="gg" src="~assets/Lahire.png" alt=""><a href="La_Hire.php">拉海爾</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
@@ -289,7 +289,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/PaladinIcon.jpg" alt=""><a href="Lancelot.php">藍斯洛特</a>
+                <img class="gg" src="~assets/PaladinIcon.jpg" alt=""><a href="Lancelot.php">藍斯洛特</a>
               </td>
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">遊俠</td>
@@ -297,7 +297,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Lorddegravilleicon.png" alt=""><a href="Lord_de_Graville.php">格拉維爾領主</a>
+                <img class="gg" src="~assets/Lorddegravilleicon.png" alt=""><a href="Lord_de_Graville.php">格拉維爾領主</a>
               </td>
               <td class="tunitc4">弓兵</td>
               <td class="tunitc6">強弩兵</td>
@@ -306,7 +306,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Masterofthetemplaricon.png" alt=""><a href="Master_of_the_Templar.php">聖殿騎士團首領</a>
+                <img class="gg" src="~assets/Masterofthetemplaricon.png" alt=""><a href="Master_of_the_Templar.php">聖殿騎士團首領</a>
               </td>
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">特殊</td>
@@ -315,7 +315,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Minamotoicon.png" alt=""><a href="Minamoto.php">源氏</a>
+                <img class="gg" src="~assets/Minamotoicon.png" alt=""><a href="Minamoto.php">源氏</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">日本武士</td>
@@ -324,7 +324,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/PaladinIcon.jpg" alt=""><a href="Mordred.php">莫德雷德</a>
+                <img class="gg" src="~assets/PaladinIcon.jpg" alt=""><a href="Mordred.php">莫德雷德</a>
               </td>
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">遊俠</td>
@@ -332,7 +332,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Wolf_hero1.png" alt=""><a href="Ornlu_the_Wolf.php">灰狼歐魯</a>
+                <img class="gg" src="~assets/Wolf_hero1.png" alt=""><a href="Ornlu_the_Wolf.php">灰狼歐魯</a>
               </td>
               <td class="tunitc4">動物</td>
               <td class="tunitc6">狼</td>
@@ -345,7 +345,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Reynalddechatillonicon.png" alt=""><a href="Reynald_de_Chatillon.php">沙底隆的雷諾</a>
+                <img class="gg" src="~assets/Reynalddechatillonicon.png" alt=""><a href="Reynald_de_Chatillon.php">沙底隆的雷諾</a>
               </td>
               <td class="tunitc4">騎士</td>
               <td class="tunitc6">特殊</td>
@@ -355,7 +355,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Richardthelionhearticon.png" alt=""><a href="Richard_the_Lionheart.php">獅心王查理</a>
+                <img class="gg" src="~assets/Richardthelionhearticon.png" alt=""><a href="Richard_the_Lionheart.php">獅心王查理</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">遊俠</td>
@@ -365,7 +365,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/LongbowmanIcon.jpg" alt=""><a href="Robin_Hood.php">羅賓漢</a>
+                <img class="gg" src="~assets/LongbowmanIcon.jpg" alt=""><a href="Robin_Hood.php">羅賓漢</a>
               </td>
               <td class="tunitc4">弓兵</td>
               <td class="tunitc6">長弓兵</td>
@@ -373,7 +373,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/KnightIcon.jpg" alt=""><a href="Roland.php">羅蘭</a>
+                <img class="gg" src="~assets/KnightIcon.jpg" alt=""><a href="Roland.php">羅蘭</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">騎士</td>
@@ -381,7 +381,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/PetardIcon.jpg" alt=""><a href="Saboteur.php">破壞者</a>
+                <img class="gg" src="~assets/PetardIcon.jpg" alt=""><a href="Saboteur.php">破壞者</a>
               </td>
               <td class="tunitc4">攻城武器</td>
               <td class="tunitc6">爆炸桶</td>
@@ -390,7 +390,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Shahicon.png" alt=""><a href="Shah.php">沙赫</a>
+                <img class="gg" src="~assets/Shahicon.png" alt=""><a href="Shah.php">沙赫</a>
               </td>
               <td class="tunitc4">國王</td>
               <td class="tunitc6">國王</td>
@@ -399,7 +399,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Sheriffofnottinghamicon.png" alt=""><a href="Sheriff_of_Nottingham.php">諾丁漢治安官</a>
+                <img class="gg" src="~assets/Sheriffofnottinghamicon.png" alt=""><a href="Sheriff_of_Nottingham.php">諾丁漢治安官</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">長劍兵</td>
@@ -407,7 +407,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/ChampionIcon.jpg" alt=""><a href="Siegfried.php">齊格非</a>
+                <img class="gg" src="~assets/ChampionIcon.jpg" alt=""><a href="Siegfried.php">齊格非</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
@@ -416,7 +416,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Sieurbertrand.png" alt=""><a href="Sieur_Bertrand.php">貝查德爵士</a>
+                <img class="gg" src="~assets/Sieurbertrand.png" alt=""><a href="Sieur_Bertrand.php">貝查德爵士</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">騎士</td>
@@ -425,7 +425,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Sieurdemetz.png" alt=""><a href="Sieur_de_Metz.php">梅茲爵士</a>
+                <img class="gg" src="~assets/Sieurdemetz.png" alt=""><a href="Sieur_de_Metz.php">梅茲爵士</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">騎士</td>
@@ -434,7 +434,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Sirjohnfastolf.png" alt=""><a href="Sir_John_Fastolf.php">約翰霍士道夫爵士</a>
+                <img class="gg" src="~assets/Sirjohnfastolf.png" alt=""><a href="Sir_John_Fastolf.php">約翰霍士道夫爵士</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">特殊</td>
@@ -443,7 +443,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Subotaiicon.png" alt=""><a href="Subotai.php">速不臺</a>
+                <img class="gg" src="~assets/Subotaiicon.png" alt=""><a href="Subotai.php">速不臺</a>
               </td>
               <td class="tunitc4">馬騎弓兵</td>
               <td class="tunitc6">重裝馬騎弓兵</td>
@@ -454,7 +454,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Tamerlaneicon.png" alt=""><a href="Tamerlane.php">帖木兒</a>
+                <img class="gg" src="~assets/Tamerlaneicon.png" alt=""><a href="Tamerlane.php">帖木兒</a>
               </td>
               <td class="tunitc4">馬騎弓兵</td>
               <td class="tunitc6">蒙古突騎</td>
@@ -462,7 +462,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Constablerichemonticon.png" alt=""><a href="The_Black_Prince.php">黑親王</a>
+                <img class="gg" src="~assets/Constablerichemonticon.png" alt=""><a href="The_Black_Prince.php">黑親王</a>
               </td>
               <td class="tunitc4">騎兵</td>
               <td class="tunitc6">騎兵。</td>
@@ -470,7 +470,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Theodericthegothicon.png" alt=""><a href="Theodoric_the_Goth.php">哥德人狄奧多利克</a>
+                <img class="gg" src="~assets/Theodericthegothicon.png" alt=""><a href="Theodoric_the_Goth.php">哥德人狄奧多利克</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">哥德衛隊</td>
@@ -480,7 +480,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="img/Williamtheconqueroricon.png" alt=""><a href="William_Wallace.php">威廉華勒斯</a>
+                <img class="gg" src="~assets/Williamtheconqueroricon.png" alt=""><a href="William_Wallace.php">威廉華勒斯</a>
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
@@ -501,7 +501,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Admiral_Yi_Sun_Shin.png" alt=""><a href="Admiral_Yi_Sun-Shin.php">李舜臣將軍</a>
+                    <img class="gg" src="~assets/Admiral_Yi_Sun_Shin.png" alt=""><a href="Admiral_Yi_Sun-Shin.php">李舜臣將軍</a>
                   </td>
                   <td class="tunitc4">戰船</td>
                   <td class="tunitc6">龜甲船</td>
@@ -510,7 +510,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Hero_2_Icon.png" alt=""><a href="Alexander_Nevski.php">亞歷山大·涅夫斯基</a>
+                    <img class="gg" src="~assets/Hero_2_Icon.png" alt=""><a href="Alexander_Nevski.php">亞歷山大·涅夫斯基</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">騎兵</td>
@@ -518,7 +518,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Attila_the_Hun.png" alt=""><a href="Attila_the_Hun.php">匈奴王阿提拉</a>
+                    <img class="gg" src="~assets/Attila_the_Hun.png" alt=""><a href="Attila_the_Hun.php">匈奴王阿提拉</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">拜占庭聖騎兵</td>
@@ -528,7 +528,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/BledaIcon.png" alt=""><a href="Bleda_the_Hun.php">匈奴王貝里達</a>
+                    <img class="gg" src="~assets/BledaIcon.png" alt=""><a href="Bleda_the_Hun.php">匈奴王貝里達</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">蒙古突騎</td>
@@ -537,7 +537,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Elcidicon.png" alt=""><a href="El_Cid_Campeador.php">羅德里高-迪亞茲-熙德</a>
+                    <img class="gg" src="~assets/Elcidicon.png" alt=""><a href="El_Cid_Campeador.php">羅德里高-迪亞茲-熙德</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">蒙古突騎</td>
@@ -546,7 +546,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Tabinshwehtiicon.png" alt=""><a href="Longbowman.php">德彬瑞蒂</a>
+                    <img class="gg" src="~assets/Tabinshwehtiicon.png" alt=""><a href="Longbowman.php">德彬瑞蒂</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">特殊</td>
@@ -559,7 +559,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Elcidicon.png" alt=""><a href="Harald_Hardraade.php">哈囉德哈左德</a>
+                    <img class="gg" src="~assets/Elcidicon.png" alt=""><a href="Harald_Hardraade.php">哈囉德哈左德</a>
                   </td>
                   <td class="tunitc4">步兵</td>
                   <td class="tunitc6">狂戰士</td>
@@ -568,7 +568,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Henryvicon.png" alt=""><a href="Henry_V.php">亨利五世</a>
+                    <img class="gg" src="~assets/Henryvicon.png" alt=""><a href="Henry_V.php">亨利五世</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">遊俠</td>
@@ -577,7 +577,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Imamicon.png" alt=""><a href="Imam.php">伊滿</a>
+                    <img class="gg" src="~assets/Imamicon.png" alt=""><a href="Imam.php">伊滿</a>
                   </td>
                   <td class="tunitc4">僧侶</td>
                   <td class="tunitc6">特殊</td>
@@ -586,7 +586,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Kingalfonsoicon.png" alt=""><a href="King_Alfonso.php">阿方索國王</a>
+                    <img class="gg" src="~assets/Kingalfonsoicon.png" alt=""><a href="King_Alfonso.php">阿方索國王</a>
                   </td>
                   <td class="tunitc4">國王</td>
                   <td class="tunitc6">國王</td>
@@ -596,7 +596,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Kingsanchoicon.png" alt=""><a href="King_Sancho.php">桑喬國王</a>
+                    <img class="gg" src="~assets/Kingsanchoicon.png" alt=""><a href="King_Sancho.php">桑喬國王</a>
                   </td>
                   <td class="tunitc4">國王</td>
                   <td class="tunitc6">國王</td>
@@ -605,7 +605,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Minamotoicon.png" alt=""><a href="Nobunaga.php">織田信長</a>
+                    <img class="gg" src="~assets/Minamotoicon.png" alt=""><a href="Nobunaga.php">織田信長</a>
                   </td>
                   <td class="tunitc4">步兵</td>
                   <td class="tunitc6">日本武士</td>
@@ -614,7 +614,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Popeleoicon.png" alt=""><a href="Pope_Leo_I.php">教宗利奧一世</a>
+                    <img class="gg" src="~assets/Popeleoicon.png" alt=""><a href="Pope_Leo_I.php">教宗利奧一世</a>
                   </td>
                   <td class="tunitc4">僧侶</td>
                   <td class="tunitc6">僧侶</td>
@@ -623,7 +623,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/LightCavalryIcon.jpg" alt=""><a href="Scythian_Scout.php">斯基泰斥侯</a>
+                    <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><a href="Scythian_Scout.php">斯基泰斥侯</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">輕騎兵</td>
@@ -633,7 +633,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Scythianwildwomanicon.png" alt=""><a href="Scythian_Wild_Woman.php">斯基泰的野女人</a>
+                    <img class="gg" src="~assets/Scythianwildwomanicon.png" alt=""><a href="Scythian_Wild_Woman.php">斯基泰的野女人</a>
                   </td>
                   <td class="tunitc4">步兵</td>
                   <td class="tunitc6">特殊</td>
@@ -643,7 +643,7 @@
                 </tr>
                 <tr>
                   <td class="tunitc6">
-                    <img class="gg" src="img/Williamtheconqueroricon.png" alt=""><a href="William_the_Conqueror.php">征服者威廉</a>
+                    <img class="gg" src="~assets/Williamtheconqueroricon.png" alt=""><a href="William_the_Conqueror.php">征服者威廉</a>
                   </td>
                   <td class="tunitc4">騎兵</td>
                   <td class="tunitc6">特殊</td>
@@ -664,7 +664,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Chandbhaiicon.png" alt=""><a href="Chand_Bhai.php">金德-伯勒達伊</a>
+                        <img class="gg" src="~assets/Chandbhaiicon.png" alt=""><a href="Chand_Bhai.php">金德-伯勒達伊</a>
                       </td>
                       <td class="tunitc4">僧侶</td>
                       <td class="tunitc6">特殊</td>
@@ -673,7 +673,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Cuauhtemocicon.png" alt=""><a href="Cuauhtemoc.php">庫奧赫特莫克</a>
+                        <img class="gg" src="~assets/Cuauhtemocicon.png" alt=""><a href="Cuauhtemoc.php">庫奧赫特莫克</a>
                       </td>
                       <td class="tunitc4">步兵</td>
                       <td class="tunitc6">精銳鷹勇士</td>
@@ -681,7 +681,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Francescosforzaicon.png" alt=""><a href="Francesco_Sforza.php">法蘭切斯科-斯福爾札</a>
+                        <img class="gg" src="~assets/Francescosforzaicon.png" alt=""><a href="Francesco_Sforza.php">法蘭切斯科-斯福爾札</a>
                       </td>
                       <td class="tunitc4">步兵</td>
                       <td class="tunitc6">傭兵</td>
@@ -694,7 +694,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Franciscodeorellanaicon.png" alt=""><a href="Francisco_de_Orellana.php">法蘭切斯科-德-奧雷亞納</a>
+                        <img class="gg" src="~assets/Franciscodeorellanaicon.png" alt=""><a href="Francisco_de_Orellana.php">法蘭切斯科-德-奧雷亞納</a>
                       </td>
                       <td class="tunitc4">火藥單位、騎兵</td>
                       <td class="tunitc6">征服者</td>
@@ -706,7 +706,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Frederickbarbarossaicon.png" alt=""><a href="Fredrick_Barbarossa.php">腓特烈一世</a>
+                        <img class="gg" src="~assets/Frederickbarbarossaicon.png" alt=""><a href="Fredrick_Barbarossa.php">腓特烈一世</a>
                       </td>
                       <td class="tunitc4">步兵</td>
                       <td class="tunitc6">條頓武士</td>
@@ -714,7 +714,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Gonzalopizarroicon.png" alt=""><a href="Gonzalo_Pizarro.php">岡薩洛-皮薩羅</a>
+                        <img class="gg" src="~assets/Gonzalopizarroicon.png" alt=""><a href="Gonzalo_Pizarro.php">岡薩洛-皮薩羅</a>
                       </td>
                       <td class="tunitc4">火藥單位、騎兵</td>
                       <td class="tunitc6">征服者</td>
@@ -723,7 +723,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Jarlicon.png" alt=""><a href="Jarl.php">雅爾</a>
+                        <img class="gg" src="~assets/Jarlicon.png" alt=""><a href="Jarl.php">雅爾</a>
                       </td>
                       <td class="tunitc4">騎兵</td>
                       <td class="tunitc6">韃靼騎兵</td>
@@ -733,7 +733,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Khosrauicon.png" alt=""><a href="Khosrau.php">霍斯勞</a>
+                        <img class="gg" src="~assets/Khosrauicon.png" alt=""><a href="Khosrau.php">霍斯勞</a>
                       </td>
                       <td class="tunitc4">馬騎弓兵</td>
                       <td class="tunitc6">象弓騎兵</td>
@@ -742,7 +742,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Osmanicon.png" alt=""><a href="Osman.php">奧斯曼</a>
+                        <img class="gg" src="~assets/Osmanicon.png" alt=""><a href="Osman.php">奧斯曼</a>
                       </td>
                       <td class="tunitc4">馬騎弓兵</td>
                       <td class="tunitc6">重裝馬騎弓兵</td>
@@ -751,7 +751,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Prithviicon.png" alt=""><a href="Prithvi.php">布里斯比</a>
+                        <img class="gg" src="~assets/Prithviicon.png" alt=""><a href="Prithvi.php">布里斯比</a>
                       </td>
                       <td class="tunitc4">弓兵</td>
                       <td class="tunitc6">弩兵</td>
@@ -760,7 +760,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Prithviicon.png" alt=""><a href="Prithviraj.php">布里斯比羅吉</a>
+                        <img class="gg" src="~assets/Prithviicon.png" alt=""><a href="Prithviraj.php">布里斯比羅吉</a>
                       </td>
                       <td class="tunitc4">馬騎弓兵</td>
                       <td class="tunitc6">重裝馬騎弓兵</td>
@@ -771,7 +771,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Queenicon.png" alt=""><a href="Queen.php">皇后</a>
+                        <img class="gg" src="~assets/Queenicon.png" alt=""><a href="Queen.php">皇后</a>
                       </td>
                       <td class="tunitc4">村民</td>
                       <td class="tunitc6">特殊</td>
@@ -779,7 +779,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Saladinicon.png" alt=""><a href="Saladin.php">薩拉丁</a>
+                        <img class="gg" src="~assets/Saladinicon.png" alt=""><a href="Saladin.php">薩拉丁</a>
                       </td>
                       <td class="tunitc4">騎兵</td>
                       <td class="tunitc6">奴隸兵</td>
@@ -787,7 +787,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Sanyogitaicon.png" alt=""><a href="Sanyogita.php">姍優姬妲</a>
+                        <img class="gg" src="~assets/Sanyogitaicon.png" alt=""><a href="Sanyogita.php">姍優姬妲</a>
                       </td>
                       <td class="tunitc4">村民</td>
                       <td class="tunitc6">特殊</td>
@@ -796,7 +796,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Savaranicon.png" alt=""><a href="Savaran.php">貴族首領</a>
+                        <img class="gg" src="~assets/Savaranicon.png" alt=""><a href="Savaran.php">貴族首領</a>
                       </td>
                       <td class="tunitc4">騎兵</td>
                       <td class="tunitc6">拜占庭聖騎兵</td>
@@ -805,7 +805,7 @@
                     </tr>
                     <tr>
                       <td class="tunitc6">
-                        <img class="gg" src="img/Vladdraculaicon.png" alt=""><a href="Vlad_Dracula.php">佛列德-德古拉</a>
+                        <img class="gg" src="~assets/Vladdraculaicon.png" alt=""><a href="Vlad_Dracula.php">佛列德-德古拉</a>
                       </td>
                       <td class="tunitc4">騎兵</td>
                       <td class="tunitc6">貴族鐵騎</td>
@@ -830,7 +830,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/WarElephantIcon.jpg" alt=""><a href="Abraha_Elephant.php">阿伯哈拉戰象</a>
+                            <img class="gg" src="~assets/WarElephantIcon.jpg" alt=""><a href="Abraha_Elephant.php">阿伯哈拉戰象</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">戰象</td>
@@ -838,7 +838,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/ImperialCamelIcon.jpg" alt=""><a href="Babur.php">巴卑爾</a>
+                            <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt=""><a href="Babur.php">巴卑爾</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">帝王駱駝騎兵</td>
@@ -846,7 +846,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Dagnajanicon.png" alt=""><a href="Dagnajan.php">達納罕</a>
+                            <img class="gg" src="~assets/Dagnajanicon.png" alt=""><a href="Dagnajan.php">達納罕</a>
                           </td>
                           <td class="tunitc4">馬騎弓兵</td>
                           <td class="tunitc6">特殊</td>
@@ -855,7 +855,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Envoyicon.png" alt=""><a href="Envoy.php">使者</a>
+                            <img class="gg" src="~assets/Envoyicon.png" alt=""><a href="Envoy.php">使者</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">輕騎兵</td>
@@ -863,7 +863,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Gidajanicon.png" alt=""><a href="Gidajan.php">極大汗</a>
+                            <img class="gg" src="~assets/Gidajanicon.png" alt=""><a href="Gidajan.php">極大汗</a>
                           </td>
                           <td class="tunitc4">步兵</td>
                           <td class="tunitc6">特殊</td>
@@ -872,7 +872,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/New_Genoese_Crossbowman.png" alt=""><a href="Guglielmo_Embriaco.php">吉列爾莫-安布裡科</a>
+                            <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Guglielmo_Embriaco.php">吉列爾莫-安布裡科</a>
                           </td>
                           <td class="tunitc4">步兵</td>
                           <td class="tunitc6">熱那亞弩手</td>
@@ -880,7 +880,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/2HandedswordsmanIcon.jpg" alt=""><a href="Henry_II.php">亨利二世</a>
+                            <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt=""><a href="Henry_II.php">亨利二世</a>
                           </td>
                           <td class="tunitc4">步兵</td>
                           <td class="tunitc6">雙手劍兵</td>
@@ -888,7 +888,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Slingericon.png" alt=""><a href="Huayan_Capac.php">華伊納-卡派克</a>
+                            <img class="gg" src="~assets/Slingericon.png" alt=""><a href="Huayan_Capac.php">華伊納-卡派克</a>
                           </td>
                           <td class="tunitc4">弓兵</td>
                           <td class="tunitc6">投石手</td>
@@ -896,7 +896,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/JaguarWarriorIcon.jpg" alt=""><a href="Itzcoatl.php">伊茲柯阿特爾</a>
+                            <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""><a href="Itzcoatl.php">伊茲柯阿特爾</a>
                           </td>
                           <td class="tunitc4">步兵</td>
                           <td class="tunitc6">豹勇士</td>
@@ -904,7 +904,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/SpearmanIcon.jpg" alt=""><a href="Little_John.php">小約翰</a>
+                            <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Little_John.php">小約翰</a>
                           </td>
                           <td class="tunitc4">步兵</td>
                           <td class="tunitc6">長槍兵</td>
@@ -912,7 +912,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Magyar_Huszar_icon.png" alt=""><a href="Miklos_Toldi.php">米克羅斯-陶笛</a>
+                            <img class="gg" src="~assets/Magyar_Huszar_icon.png" alt=""><a href="Miklos_Toldi.php">米克羅斯-陶笛</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">馬札爾驃騎兵</td>
@@ -920,7 +920,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Musaibnnusayricon.png" alt=""><a href="Musa_ibn_Nusayr.php">穆薩-伊本-奴薩爾</a>
+                            <img class="gg" src="~assets/Musaibnnusayricon.png" alt=""><a href="Musa_ibn_Nusayr.php">穆薩-伊本-奴薩爾</a>
                           </td>
                           <td class="tunitc4">馬騎弓兵</td>
                           <td class="tunitc6">駱駝弓騎兵</td>
@@ -929,7 +929,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/JanissaryIcon.jpg" alt=""><a href="Mustafa_Pasha.php">穆斯塔法帕夏</a>
+                            <img class="gg" src="~assets/JanissaryIcon.jpg" alt=""><a href="Mustafa_Pasha.php">穆斯塔法帕夏</a>
                           </td>
                           <td class="tunitc4">火藥單位</td>
                           <td class="tunitc6">土耳其火槍兵</td>
@@ -937,7 +937,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/PlumedArcherIcon.jpg" alt=""><a href="Pacal_II.php">巴加爾二世</a>
+                            <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="Pacal_II.php">巴加爾二世</a>
                           </td>
                           <td class="tunitc4">弓兵</td>
                           <td class="tunitc6">羽毛箭射手</td>
@@ -945,7 +945,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Kamayuk_Icon.jpg" alt=""><a href="Pachacuti.php">帕查庫特克</a>
+                            <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Pachacuti.php">帕查庫特克</a>
                           </td>
                           <td class="tunitc4">步兵</td>
                           <td class="tunitc6">槍隊長</td>
@@ -953,7 +953,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Yoditicon.png" alt=""><a href="Princess_Yodit.php">優娣忒公主</a>
+                            <img class="gg" src="~assets/Yoditicon.png" alt=""><a href="Princess_Yodit.php">優娣忒公主</a>
                           </td>
                           <td class="tunitc4">村民</td>
                           <td class="tunitc6">特殊</td>
@@ -962,7 +962,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Richarddeclareicon.png" alt=""><a href="Richard_de_Clare.php">克雷爾的理查伯爵</a>
+                            <img class="gg" src="~assets/Richarddeclareicon.png" alt=""><a href="Richard_de_Clare.php">克雷爾的理查伯爵</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">輕騎兵</td>
@@ -970,7 +970,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/ChuKoNuIcon.jpg" alt=""><a href="Su_Dingfang.php">蘇定方</a>
+                            <img class="gg" src="~assets/ChuKoNuIcon.jpg" alt=""><a href="Su_Dingfang.php">蘇定方</a>
                           </td>
                           <td class="tunitc4">弓兵</td>
                           <td class="tunitc6">中國連弩兵</td>
@@ -978,7 +978,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Sumanguruicon.png" alt=""><a href="Sumanguru.php">蘇曼古魯</a>
+                            <img class="gg" src="~assets/Sumanguruicon.png" alt=""><a href="Sumanguru.php">蘇曼古魯</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">拜占庭聖騎兵</td>
@@ -987,7 +987,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Sundjataicon.png" alt=""><a href="Sundjata.php">松迪亞塔</a>
+                            <img class="gg" src="~assets/Sundjataicon.png" alt=""><a href="Sundjata.php">松迪亞塔</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">輕騎兵</td>
@@ -996,7 +996,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Tariqibnziyadicon.png" alt=""><a href="Tariq_ibn_Ziyad.php">塔里克-伊本-齊亞德</a>
+                            <img class="gg" src="~assets/Tariqibnziyadicon.png" alt=""><a href="Tariq_ibn_Ziyad.php">塔里克-伊本-齊亞德</a>
                           </td>
                           <td class="tunitc4">馬騎弓兵</td>
                           <td class="tunitc6">標槍騎兵</td>
@@ -1006,7 +1006,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Magyar_Huszar_icon.jpg" alt=""><a href="Tristan.php">崔斯坦</a>
+                            <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" alt=""><a href="Tristan.php">崔斯坦</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">馬札爾驃騎兵</td>
@@ -1014,7 +1014,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Yekunoamlakicon.png" alt=""><a href="Yekuno_Amlak.php">亞庫諾-阿姆拉克</a>
+                            <img class="gg" src="~assets/Yekunoamlakicon.png" alt=""><a href="Yekuno_Amlak.php">亞庫諾-阿姆拉克</a>
                           </td>
                           <td class="tunitc4">步兵</td>
                           <td class="tunitc6">彎刀勇士</td>
@@ -1022,7 +1022,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/Yoditicon.png" alt=""><a href="Yodit.php">優娣忒</a>
+                            <img class="gg" src="~assets/Yoditicon.png" alt=""><a href="Yodit.php">優娣忒</a>
                           </td>
                           <td class="tunitc4">步兵</td>
                           <td class="tunitc6">飛鏢女獵手</td>
@@ -1030,7 +1030,7 @@
                         </tr>
                         <tr>
                           <td class="tunitc6">
-                            <img class="gg" src="img/HussarIcon.jpg" alt=""><a href="Zawisza_the_Black.php">茲瓦斯艾黑騎士</a>
+                            <img class="gg" src="~assets/HussarIcon.jpg" alt=""><a href="Zawisza_the_Black.php">茲瓦斯艾黑騎士</a>
                           </td>
                           <td class="tunitc4">騎兵</td>
                           <td class="tunitc6">匈牙利輕騎兵</td>
@@ -1050,7 +1050,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Bayinnaungicon.png" alt=""><a href="Bayinnaung.php">勃印曩</a>
+                                <img class="gg" src="~assets/Bayinnaungicon.png" alt=""><a href="Bayinnaung.php">勃印曩</a>
                               </td>
                               <td class="tunitc4">騎兵</td>
                               <td class="tunitc6">精銳矛象伕</td>
@@ -1063,7 +1063,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Buibiicon.png" alt=""><a href="Bui_Bi.php">?</a>
+                                <img class="gg" src="~assets/Buibiicon.png" alt=""><a href="Bui_Bi.php">?</a>
                               </td>
                               <td class="tunitc4">僧侶</td>
                               <td class="tunitc6">特殊</td>
@@ -1071,7 +1071,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Dinhleicon.png" alt=""><a href="Dinh_Le.php">丁禮</a>
+                                <img class="gg" src="~assets/Dinhleicon.png" alt=""><a href="Dinh_Le.php">丁禮</a>
                               </td>
                               <td class="tunitc4">騎兵</td>
                               <td class="tunitc6">遊俠</td>
@@ -1079,7 +1079,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Gajahmadaicon.png" alt=""><a href="Gajah_Mada.php">加查-馬達</a>
+                                <img class="gg" src="~assets/Gajahmadaicon.png" alt=""><a href="Gajah_Mada.php">加查-馬達</a>
                               </td>
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">特殊</td>
@@ -1089,7 +1089,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/KingC.png" alt=""><a href="Jayanegara.php">賈亞納加拉</a>
+                                <img class="gg" src="~assets/KingC.png" alt=""><a href="Jayanegara.php">賈亞納加拉</a>
                               </td>
                               <td class="tunitc4">國王</td>
                               <td class="tunitc6">國王</td>
@@ -1097,7 +1097,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Jayaviravarmanicon.png" alt=""><a href="Jayaviravarman.php">闍耶羅跋摩</a>
+                                <img class="gg" src="~assets/Jayaviravarmanicon.png" alt=""><a href="Jayaviravarman.php">闍耶羅跋摩</a>
                               </td>
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">爪刀勇士</td>
@@ -1105,7 +1105,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Lelaiicon.png" alt=""><a href="Le_Lai.php">黎來</a>
+                                <img class="gg" src="~assets/Lelaiicon.png" alt=""><a href="Le_Lai.php">黎來</a>
                               </td>
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">雙手劍兵</td>
@@ -1113,7 +1113,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Lelaiicon.png" alt=""><a href="Le_Lai.php">黎來</a>
+                                <img class="gg" src="~assets/Lelaiicon.png" alt=""><a href="Le_Lai.php">黎來</a>
                               </td>
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">劍兵勇士</td>
@@ -1122,7 +1122,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Leloiicon.png" alt=""><a href="Le_Loi.php">黎利</a>
+                                <img class="gg" src="~assets/Leloiicon.png" alt=""><a href="Le_Loi.php">黎利</a>
                               </td>
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">劍兵勇士</td>
@@ -1130,7 +1130,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Letrienicon.png" alt=""><a href="Le_Trien.php">李篆</a>
+                                <img class="gg" src="~assets/Letrienicon.png" alt=""><a href="Le_Trien.php">李篆</a>
                               </td>
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">劍兵勇士</td>
@@ -1138,7 +1138,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Luunhanchuicon.png" alt=""><a href="Luu_Nhan_Chu.php">劉仁澍</a>
+                                <img class="gg" src="~assets/Luunhanchuicon.png" alt=""><a href="Luu_Nhan_Chu.php">劉仁澍</a>
                               </td>
                               <td class="tunitc4">弓兵</td>
                               <td class="tunitc6">強弩兵。</td>
@@ -1146,7 +1146,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Radenwijayaicon.png" alt=""><a href="Raden_Wijaya.php">羅登-韋查耶</a>
+                                <img class="gg" src="~assets/Radenwijayaicon.png" alt=""><a href="Raden_Wijaya.php">羅登-韋查耶</a>
                               </td>
                               <td class="tunitc4">馬騎弓兵</td>
                               <td class="tunitc6">象弓騎兵</td>
@@ -1155,7 +1155,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Sundaroyalfightericon.png" alt=""><a href="Sunda_Royal_Fighter.php">巽他皇家侍衛</a>
+                                <img class="gg" src="~assets/Sundaroyalfightericon.png" alt=""><a href="Sunda_Royal_Fighter.php">巽他皇家侍衛</a>
                               </td>
                               <td class="tunitc4">步兵</td>
                               <td class="tunitc6">特殊</td>
@@ -1167,7 +1167,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Suryavarmaniicon.png" alt=""><a href="Suryavarman_I.php">蘇利耶跋摩一世</a>
+                                <img class="gg" src="~assets/Suryavarmaniicon.png" alt=""><a href="Suryavarman_I.php">蘇利耶跋摩一世</a>
                               </td>
                               <td class="tunitc4">騎兵</td>
                               <td class="tunitc6">精銳矛象伕</td>
@@ -1175,7 +1175,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Tabinshwehtiicon.png" alt=""><a href="Tabinshwehti.php">德彬瑞蒂</a>
+                                <img class="gg" src="~assets/Tabinshwehtiicon.png" alt=""><a href="Tabinshwehti.php">德彬瑞蒂</a>
                               </td>
                               <td class="tunitc4">馬騎弓兵</td>
                               <td class="tunitc6">象弓騎兵。</td>
@@ -1185,7 +1185,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Udayadityavarmaniicon.png" alt=""><a href="Udayadityavarman_I.php">優陀耶迭多跋摩一世</a>
+                                <img class="gg" src="~assets/Udayadityavarmaniicon.png" alt=""><a href="Udayadityavarman_I.php">優陀耶迭多跋摩一世</a>
                               </td>
                               <td class="tunitc4">國王</td>
                               <td class="tunitc6">國王</td>
@@ -1193,7 +1193,7 @@
                             </tr>
                             <tr>
                               <td class="tunitc6">
-                                <img class="gg" src="img/Wangtongicon.png" alt=""><a href="Wang_Tong.php">王通</a>
+                                <img class="gg" src="~assets/Wangtongicon.png" alt=""><a href="Wang_Tong.php">王通</a>
                               </td>
                               <td class="tunitc4">騎兵</td>
                               <td class="tunitc6">拜占庭聖騎兵</td>

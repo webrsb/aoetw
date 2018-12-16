@@ -64,7 +64,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/BRA 1.jpg" width="" alt="">
+                  <img src="~assets/BRA 1.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -118,7 +118,7 @@
           <h3>開場設定</h3>
           <ul>
             <li><strong>起始時代：</strong>
-              <img class="gg" src="img/Castle-age-reseach.jpg"
+              <img class="gg" src="~assets/Castle-age-reseach.jpg"
               class="gg" alt=""><a href="Imperial_Age.php">城堡時代</a>
             </li>
             <li><strong>起始資源：</strong>200木頭，200食物
@@ -130,15 +130,15 @@
           <h3>起始單位</h3>
           <ul>
             <li>
-              <img class="gg" src="img/VillagerMaleIcon.jpg" alt=""> <a href="Villager.php">村民</a> 6</li>
+              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""> <a href="Villager.php">村民</a> 6</li>
             <li>
-              <img class="gg" src="img/LightCavalryIcon.jpg" alt=""> <a href="Light_Cavalry.php">輕騎兵</a> 1</li>
+              <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""> <a href="Light_Cavalry.php">輕騎兵</a> 1</li>
             <li>
-              <img class="gg" src="img/KnightIcon.jpg" alt=""> <a href="Knight.php">騎士</a> 3</li>
+              <img class="gg" src="~assets/KnightIcon.jpg" alt=""> <a href="Knight.php">騎士</a> 3</li>
             <li>
-              <img class="gg" src="img/ManAtArmsIcon.jpg" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a> 3</li>
+              <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a> 3</li>
             <li>
-              <img class="gg" src="img/MangonelIcon.jpg" alt=""> <a href="Mangonel.php">輕型投石車</a> 1</li>
+              <img class="gg" src="~assets/MangonelIcon.jpg" alt=""> <a href="Mangonel.php">輕型投石車</a> 1</li>
           </ul>
         </div>
         <div class="col-md-4">

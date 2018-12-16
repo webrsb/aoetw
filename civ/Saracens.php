@@ -30,14 +30,14 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/Saracenmamluk_icon.png" alt="">馬木留克（奴隸兵）:中距離遠程攻擊的駱駝騎兵，對騎兵類攻擊有極大加成。</li>
+                <img class="gg" src="~assets/Saracenmamluk_icon.png" alt="">馬木留克（奴隸兵）:中距離遠程攻擊的駱駝騎兵，對騎兵類攻擊有極大加成。</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">穆斯林學墊：僧侶被殺害後會返回33%資源。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">穆斯林學墊：僧侶被殺害後會返回33%資源。</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">狂熱舉動：駱駝騎兵/馬木留克血量+30。</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">狂熱舉動：駱駝騎兵/馬木留克血量+30。</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -79,7 +79,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/MidEastern.jpg"><img class="imgn" class="hg" src="img/MidEastern.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/MidEastern.jpg"><img class="imgn" class="hg" src="~assets/MidEastern.jpg" alt=""></a> 
                 <p><em>薩拉森建築</em>
                 </p>
               </div>
@@ -102,7 +102,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Coat_of_arms_of_Egypt.png" width="300px;" alt="">
+                  <img src="~assets/Coat_of_arms_of_Egypt.png" width="300px;" alt="">
                   <p><em>埃及國徽薩拉丁之鷹</em>
                   </p>
                 </div>
@@ -125,7 +125,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/Saracenmamluk_icon.png">馬木留克</td>
+                <img class="gg" src="~assets/Saracenmamluk_icon.png">馬木留克</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -134,15 +134,15 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">穆斯林學墊
+                <img class="gg" src="~assets/CastleAgeUnique.png">穆斯林學墊
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">狂熱舉動</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">狂熱舉動</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的阿音札魯特戰役
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%9F%B3%E6%9C%AD%E9%B2%81%E7%89%B9%E6%88%98%E5%BD%B9">阿音札魯特戰役</a></b></i>

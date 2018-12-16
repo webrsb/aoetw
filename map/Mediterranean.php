@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/AoEII_Mediterranean2.png" width="300" alt="">
+          <img src="~assets/AoEII_Mediterranean2.png" width="300" alt="">
            <h4>一個標準地中海地圖</h4> 
         </div>
       </div>

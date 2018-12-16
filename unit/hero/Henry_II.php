@@ -29,7 +29,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/2HandedswordsmanIcon.jpg" width="80" alt="">
+                  <img src="~assets/2HandedswordsmanIcon.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -94,7 +94,7 @@
           <div class="thanks">感謝! 此頁面由Falcon6164協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的亨利二世
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%8C%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)">亨利二世</a></strong></i>

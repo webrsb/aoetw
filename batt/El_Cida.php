@@ -48,7 +48,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/7. El Cid.jpg" width="300px;" alt="">
+                <img src="~assets/7. El Cid.jpg" width="300px;" alt="">
                 <p>席德戰役地圖</p>
               </div>
             </div>
@@ -73,7 +73,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/EIC-HERO.jpg" width="300" alt="">
+                  <img src="~assets/EIC-HERO.jpg" width="300" alt="">
                   <p><em>本系列主角 席德</em>
 
                   </p>
@@ -105,7 +105,7 @@
           <div class="thanks">感謝! 此頁面由Wun，裕暉協助編輯。</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的席德
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/zh-tw/%E7%86%99%E5%BE%B7">席德</a></b></i>

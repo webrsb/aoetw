@@ -90,7 +90,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Bloodlines.png" width="45" alt="">
+                  <img src="~assets/Bloodlines.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -108,14 +108,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" width="25px" src="img/Stableicon.png" alt=""><a href="Stable.php">馬廄</a>
+                <img class="gg" width="25px" src="~assets/Stableicon.png" alt=""><a href="Stable.php">馬廄</a>
 
               </td>
             </tr>

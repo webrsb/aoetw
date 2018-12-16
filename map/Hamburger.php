@@ -22,13 +22,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Wood_line.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Wood_line.png" alt="">
         <p class="text-center"><em>中間的樹林是雙方玩家最初的防線。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Resources.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Resources.png" alt="">
         <p class="text-center"><em>地圖外圍會有由金，石頭和木頭組成的小塊區域等玩家去發掘。</em>
 
         </p>
@@ -36,7 +36,7 @@
       </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Hamburger.png" width="300" alt="">
+          <img src="~assets/Hamburger.png" width="300" alt="">
            <h4>兩人的漢堡包地圖</h4> 
         </div>
       </div>

@@ -26,7 +26,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="250" src="img/Haraldhardraadebattle.png" alt="">
+                <img class="hg" width="250" src="~assets/Haraldhardraadebattle.png" alt="">
                 <p><em>一群與劍兵勇士戰鬥中的哈羅德哈左德(左邊)，可看到丟出去的斧頭。</em>
                 </p>
               </div>
@@ -44,7 +44,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Elcidicon.png" width="80" alt="">
+                  <img src="~assets/Elcidicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

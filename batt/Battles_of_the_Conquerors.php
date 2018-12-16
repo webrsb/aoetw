@@ -46,7 +46,7 @@
                   </ol>
                 </div>
                 <div class="col-md-6">
-                  <img src="img/9. Battles of the Conquerors.jpg" width="300px;" alt="">
+                  <img src="~assets/9. Battles of the Conquerors.jpg" width="300px;" alt="">
                   <p>征服者的戰役地圖</p>
                 </div>
               </div>
@@ -76,7 +76,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/BOC 1571.jpg" width="300" alt="">
+                  <img src="~assets/BOC 1571.jpg" width="300" alt="">
                   <p><em>《勒班陀戰役》，H·萊特，倫敦格林尼治國家航海博物館，此畫作描繪神聖同盟的基督教海軍於勒班陀戰役擊敗奧斯曼帝國海軍</em>
 
                   </p>

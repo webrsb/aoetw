@@ -93,7 +93,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Architecture.jpg" width="45" alt="">
+                  <img src="~assets/Architecture.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -109,21 +109,21 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
+                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">前置升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Masonry.jpg" alt=""><a href="Masonry.php">磚瓦技術</a>
+                <img class="gg" src="~assets/Masonry.jpg" alt=""><a href="Masonry.php">磚瓦技術</a>
 
               </td>
             </tr>

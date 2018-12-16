@@ -23,13 +23,13 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="200" src="img/Constablerichemont.png" alt="">
+                <img class="hg" width="200" src="~assets/Constablerichemont.png" alt="">
                 <p><em>戰役編輯器中的阿朗松公爵。</em>
 
                 </p>
               </div>
               <div class="col-md-5">
-                <img class="hg" width="220" src="img/Dukeandjoan.png" alt="">
+                <img class="hg" width="220" src="~assets/Dukeandjoan.png" alt="">
                 <p><em>阿朗松公爵(左上)一開始在戰役"奧爾良的少女"和貞德的軍隊匯合。</em>
 
                 </p>
@@ -49,7 +49,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Dukedalencon.png" width="80" alt="">
+                  <img src="~assets/Dukedalencon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

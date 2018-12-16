@@ -78,7 +78,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/FishingShipIcon.jpg"><a href="Fishing_Ship.php">漁船</a>
+                  <img class="gg" src="~assets/FishingShipIcon.jpg"><a href="Fishing_Ship.php">漁船</a>
                 </td>
                 <td class="tta3">60</td>
                 <!--生命值!-->
@@ -97,7 +97,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/TransportShipIcon.jpg"><a href="Transport_Ship.php">運輸船</a>
+                  <img class="gg" src="~assets/TransportShipIcon.jpg"><a href="Transport_Ship.php">運輸船</a>
                 </td>
                 <td class="tta3">100</td>
                 <!--生命值!-->
@@ -116,7 +116,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/TradeCogIcon.jpg"><a href="Trade_Cog.php">貿易商旅</a>
+                  <img class="gg" src="~assets/TradeCogIcon.jpg"><a href="Trade_Cog.php">貿易商旅</a>
                 </td>
                 <td class="tta3">80</td>
                 <!--生命值!-->
@@ -135,7 +135,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/Galley.jpg"><a href="Galley.php">戰船</a>
+                  <img class="gg" src="~assets/Galley.jpg"><a href="Galley.php">戰船</a>
                 </td>
                 <td class="tta3">120</td>
                 <!--生命值!-->
@@ -154,7 +154,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/WarGalley.jpg"><a href="War_Galley.php">弩炮戰船</a>
+                  <img class="gg" src="~assets/WarGalley.jpg"><a href="War_Galley.php">弩炮戰船</a>
                 </td>
                 <td class="tta3">135</td>
                 <!--生命值!-->
@@ -173,7 +173,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/GalleonAoE2.jpg"><a href="Galleon.php">重型弩炮戰船</a>
+                  <img class="gg" src="~assets/GalleonAoE2.jpg"><a href="Galleon.php">重型弩炮戰船</a>
                 </td>
                 <td class="tta3">165</td>
                 <!--生命值!-->
@@ -192,7 +192,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/FireGalleyIcon.jpg"><a href="Fire_Galley.php">火蒙衝</a>
+                  <img class="gg" src="~assets/FireGalleyIcon.jpg"><a href="Fire_Galley.php">火蒙衝</a>
                 </td>
                 <td class="tta3">100</td>
                 <!--生命值!-->
@@ -211,7 +211,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/FireShipIcon.jpg"><a href="Fire_Ship.php">火戰船</a>
+                  <img class="gg" src="~assets/FireShipIcon.jpg"><a href="Fire_Ship.php">火戰船</a>
                 </td>
                 <td class="tta3">120</td>
                 <!--生命值!-->
@@ -230,7 +230,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/FastFireShipIcon.jpg"><a href="Fast_Fire_Ship.php">快速火戰船</a>
+                  <img class="gg" src="~assets/FastFireShipIcon.jpg"><a href="Fast_Fire_Ship.php">快速火戰船</a>
                 </td>
                 <td class="tta3">140</td>
                 <!--生命值!-->
@@ -249,7 +249,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/DemoRaftIcon.jpg"><a href="Demolition_Raft.php">自爆筏</a>
+                  <img class="gg" src="~assets/DemoRaftIcon.jpg"><a href="Demolition_Raft.php">自爆筏</a>
                 </td>
                 <td class="tta3">45</td>
                 <!--生命值!-->
@@ -268,7 +268,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/DemoShipIcon.jpg"><a href="Demolition_Ship.php">神風船</a>
+                  <img class="gg" src="~assets/DemoShipIcon.jpg"><a href="Demolition_Ship.php">神風船</a>
                 </td>
                 <td class="tta3">60</td>
                 <!--生命值!-->
@@ -287,7 +287,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/HeavyDemoShipIcon.jpg"><a href="Heavy_Demolition_Ship.php">重型神風船</a>
+                  <img class="gg" src="~assets/HeavyDemoShipIcon.jpg"><a href="Heavy_Demolition_Ship.php">重型神風船</a>
                 </td>
                 <td class="tta3">70</td>
                 <!--生命值!-->
@@ -306,7 +306,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CannonGalleonIcon.jpg"><a href="Cannon_Galleon.php">火炮戰船</a>
+                  <img class="gg" src="~assets/CannonGalleonIcon.jpg"><a href="Cannon_Galleon.php">火炮戰船</a>
                 </td>
                 <td class="tta3">120</td>
                 <!--生命值!-->
@@ -325,7 +325,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CannonGalleonIcon.jpg"><a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>
+                  <img class="gg" src="~assets/CannonGalleonIcon.jpg"><a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>
                 </td>
                 <td class="tta3">150</td>
                 <!--生命值!-->
@@ -344,7 +344,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/LongboatIcon.jpg"><a href="LongBoat.php">維京大戰船</a>
+                  <img class="gg" src="~assets/LongboatIcon.jpg"><a href="LongBoat.php">維京大戰船</a>
                 </td>
                 <td class="tta3">130</td>
                 <!--生命值!-->
@@ -363,7 +363,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/LongboatIcon.jpg"><a href="LongBoat.php">精銳維京大戰船</a>
+                  <img class="gg" src="~assets/LongboatIcon.jpg"><a href="LongBoat.php">精銳維京大戰船</a>
                 </td>
                 <td class="tta3">160</td>
                 <!--生命值!-->
@@ -382,7 +382,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">龜甲船</a>
+                  <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">龜甲船</a>
                 </td>
                 <td class="tta3">200</td>
                 <!--生命值!-->
@@ -401,7 +401,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">精銳龜甲船</a>
+                  <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">精銳龜甲船</a>
                 </td>
                 <td class="tta3">300</td>
                 <!--生命值!-->
@@ -420,7 +420,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CaravelIcon2.jpg"><a href="Caravel.php">卡拉維爾戰船</a>
+                  <img class="gg" src="~assets/CaravelIcon2.jpg"><a href="Caravel.php">卡拉維爾戰船</a>
                 </td>
                 <td class="tta3">130</td>
                 <!--生命值!-->
@@ -439,7 +439,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CaravelIcon2.jpg"><a href="Caravel.php">精銳卡拉維爾戰船</a>
+                  <img class="gg" src="~assets/CaravelIcon2.jpg"><a href="Caravel.php">精銳卡拉維爾戰船</a>
                 </td>
                 <td class="tta3">150</td>
                 <!--生命值!-->
@@ -470,7 +470,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">250F 150G</td>
@@ -478,7 +478,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Gillnetsicon.jpg" alt=""><a href="Gillnets.php">流刺網</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Gillnetsicon.jpg" alt=""><a href="Gillnets.php">流刺網</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">150F 200G</td>
@@ -486,7 +486,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">600F 400G</td>
@@ -494,7 +494,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Shipwright.jpg" alt=""><a href="Shipwright.php">造船匠</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Shipwright.jpg" alt=""><a href="Shipwright.php">造船匠</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">1000F 300G</td>
@@ -502,7 +502,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Fletching.jpg" alt=""><a href="Fletching.php">箭羽</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Fletching.jpg" alt=""><a href="Fletching.php">箭羽</a>
                 </td>
                 <td class="tunitc4">封建</td>
                 <td class="tunitc5">100F 50G</td>
@@ -510,7 +510,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">200F 100G</td>
@@ -518,7 +518,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Bracer.jpg" alt=""><a href="Bracer.php">護腕</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Bracer.jpg" alt=""><a href="Bracer.php">護腕</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">300F 200G</td>
@@ -526,7 +526,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Ballistics.jpg" alt=""><a href="Ballistic.php">彈道學</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Ballistics.jpg" alt=""><a href="Ballistic.php">彈道學</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">300W 175G</td>
@@ -534,7 +534,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">300F 200G</td>
@@ -542,7 +542,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Heresy.png" alt=""><a href="Heresy.php">異端邪說</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Heresy.png" alt=""><a href="Heresy.php">異端邪說</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">1000G</td>
@@ -550,7 +550,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">750F 1000G</td>
@@ -570,7 +570,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Byzantines.php">拜占庭</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Byzantines.php">拜占庭</a>
                 </td>
                 <td class="tunitc4"><a href="Greek_Fire.php">希臘之火</a>
                 </td>
@@ -579,7 +579,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Indians.php">印度</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Indians.php">印度</a>
                 </td>
                 <td class="tunitc4"><a href="Sultans.php">蘇丹</a>
                 </td>
@@ -588,7 +588,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Italians.php">義大利</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Italians.php">義大利</a>
                 </td>
                 <td class="tunitc4"><a href="Silk_Road.php">絲綢之路</a>
                 </td>
@@ -597,7 +597,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Koreans.php">韓國</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Koreans.php">韓國</a>
                 </td>
                 <td class="tunitc4"><a href="Panokseon.php">板屋船</a>
                 </td>
@@ -606,7 +606,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Portuguese.php">葡萄牙</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="Portuguese.php">葡萄牙</a>
                 </td>
                 <td class="tunitc4"><a href="Carrack.php">克拉克帆船</a>
                 </td>
@@ -615,7 +615,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Portuguese.php">葡萄牙</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Portuguese.php">葡萄牙</a>
                 </td>
                 <td class="tunitc4"><a href="Arquebus.php">火繩槍</a>
                 </td>
@@ -624,7 +624,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="img/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Turks.php">土耳其</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="Turks.php">土耳其</a>
                 </td>
                 <td class="tunitc4"><a href="Artillery.php">砲兵</a>
                 </td>
@@ -638,21 +638,21 @@
             <h3>圖庫</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <div class="col-md-4"> <a href="img/Vesselcivilian.png"><img class="imgn" class="hg" width="180" src="img/Vesselcivilian.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Vesselcivilian.png"><img class="imgn" class="hg" width="180" src="~assets/Vesselcivilian.png" alt=""></a> 
                 <div
                 class="lightbox-caption" style="width:220px" ;>
                   <p><em>所有平民船隻。</em>
                   </p>
               </div>
             </div>
-            <div class="col-md-4"> <a href="img/Vesselmilitary.png"><img class="imgn" class="hg" width="200" src="img/Vesselmilitary.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Vesselmilitary.png"><img class="imgn" class="hg" width="200" src="~assets/Vesselmilitary.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有一般的戰鬥船艦。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Vesselunique.png"><img class="imgn" class="hg" width="200" src="img/Vesselunique.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Vesselunique.png"><img class="imgn" class="hg" width="200" src="~assets/Vesselunique.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:185px" ;>
               <p><em>所有特殊單位船艦。</em>
@@ -661,14 +661,14 @@
         </div>
       </div>
       <div class="col-md-12">
-        <div class="col-md-4"> <a href="img/Sailsaokaoc.png"><img class="imgn" class="hg" width="200" src="img/Sailsaokaoc.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Sailsaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Sailsaokaoc.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>不同旗幟的船隻(以戰船為例)(帝王世紀和征服者入侵資料片)。</em>
             </p>
         </div>
       </div>
-      <div class="col-md-4"> <a href="img/Sailshd.png"><img class="imgn" class="hg" width="200" src="img/Sailshd.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Sailshd.png"><img class="imgn" class="hg" width="200" src="~assets/Sailshd.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>不同旗幟的船隻(以戰船為例)(HD擴充資料片)。</em>

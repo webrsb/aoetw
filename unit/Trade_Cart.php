@@ -40,7 +40,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/TradeCartIcon.jpg" width="45" alt="">
+                  <img src="~assets/TradeCartIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>

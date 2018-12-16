@@ -31,7 +31,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Constantinople01.jpg" alt="">
+                  <img src="~assets/Constantinople01.jpg" alt="">
                 </div>
               </td>
             </tr>
@@ -51,7 +51,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/CataphractIcon.jpg">聖騎兵</td>
+                <img class="gg" src="~assets/CataphractIcon.jpg">聖騎兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -60,9 +60,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">希臘之火
+                <img class="gg" src="~assets/CastleAgeUnique.png">希臘之火
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">後勤學</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">後勤學</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
@@ -72,12 +72,12 @@
 
       <div class="hrn1"></div>
       <div class="n1">
-        <p><img class="gg" src="img/CataphractIcon.jpg">聖騎兵:對步兵單位有強大的傷害力
+        <p><img class="gg" src="~assets/CataphractIcon.jpg">聖騎兵:對步兵單位有強大的傷害力
            <h3>特殊科技</h3>
 
           <div class="hrn1"></div>
-          <p><img class="gg" src="img/CastleAgeUnique.png">希臘之火:火戰船射程+1</p>
-          <p><img class="gg" src="img/Unique-tech.jpg">後勤學後勤學:聖騎兵會對周遭單位造成傷害</p>
+          <p><img class="gg" src="~assets/CastleAgeUnique.png">希臘之火:火戰船射程+1</p>
+          <p><img class="gg" src="~assets/Unique-tech.jpg">後勤學後勤學:聖騎兵會對周遭單位造成傷害</p>
            <h3>對戰評價</h3>
 
           <div class="hrn1"></div>
@@ -151,22 +151,22 @@
         </ul>
         <br>
         <div class="col-md-12">
-          <div class="col-md-3"> <a href="img/Dome_of_the_Rock_(Saladin).png"><img class="imgn" class="hg" src="img/Dome_of_the_Rock_(Saladin).png" alt=""></a> 
+          <div class="col-md-3"> <a href="img/Dome_of_the_Rock_(Saladin).png"><img class="imgn" class="hg" src="~assets/Dome_of_the_Rock_(Saladin).png" alt=""></a> 
             <p><em>岩石圓頂，出現在薩拉丁的第四關及巴巴羅薩的最後一關</em>
 
             </p>
           </div>
-          <div class="col-md-3"> <a href="img/Tyre.png"><img class="imgn" class="hg" src="img/Tyre.png" alt=""></a> 
+          <div class="col-md-3"> <a href="img/Tyre.png"><img class="imgn" class="hg" src="~assets/Tyre.png" alt=""></a> 
             <p><em>十字軍城市泰爾</em>
 
             </p>
           </div>
-          <div class="col-md-3"> <a href="img/Constantinople.png"><img class="imgn" class="hg" src="img/Constantinople.png" alt=""></a> 
+          <div class="col-md-3"> <a href="img/Constantinople.png"><img class="imgn" class="hg" src="~assets/Constantinople.png" alt=""></a> 
             <p><em>聞名於世的君士坦丁堡</em>
 
             </p>
           </div>
-          <div class="col-md-3"> <a href="img/Venice.png"><img class="imgn" class="hg" src="img/Venice.png" alt=""></a> 
+          <div class="col-md-3"> <a href="img/Venice.png"><img class="imgn" class="hg" src="~assets/Venice.png" alt=""></a> 
             <p><em>意大利的城邦威尼斯</em>
 
             </p>
@@ -195,7 +195,7 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-12">
-          <div class="col-md-4"> <a href="img/MidEastern.jpg"><img class="imgn" class="hg" src="img/MidEastern.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="img/MidEastern.jpg"><img class="imgn" class="hg" src="~assets/MidEastern.jpg" alt=""></a> 
             <p><em>拜占庭的中東式建築。</em>
 
             </p>

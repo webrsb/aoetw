@@ -28,7 +28,7 @@
               </p>
               <p>在高手對戰中，時常看見果樹叢的磨坊有兩種蓋法，一種是空一格蓋，緊貼著果樹叢蓋，其原因是緊貼著蓋採集效率雖高，但面對對方黑暗<a href="Militia.php">民兵</a>快攻比較不好圍，而空一格的蓋法將輕輕鬆鬆擋住民兵的快攻。</p>
               <p>
-                <img width="400px;" src="img/millf.png" alt="">
+                <img width="400px;" src="~assets/millf.png" alt="">
               </p>
             </div>
             <h3>可訓練的單位與技術</h3>
@@ -39,7 +39,7 @@
                    <h4><a href="Feudal_Age.php">封建時代</a></h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Horsecollar.jpg" alt=""><a href="Horse_Collar.php">馬軛</a>
+                      <img class="gg" src="~assets/Horsecollar.jpg" alt=""><a href="Horse_Collar.php">馬軛</a>
                     </li>
                   </ul>
                 </div>
@@ -49,7 +49,7 @@
                    <h4><a href="Castle_Age.php">城堡時代</a></h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Heavyplow.jpg" alt=""><a href="Heavy_Plow.php">重犁</a>
+                      <img class="gg" src="~assets/Heavyplow.jpg" alt=""><a href="Heavy_Plow.php">重犁</a>
                     </li>
                   </ul>
                 </div>
@@ -59,7 +59,7 @@
                    <h4><a href="Imperial_Age.php">帝王時代</a></h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Croprotation.jpg" alt=""><a href="Crop_Rotation.php">輪耕</a>
+                      <img class="gg" src="~assets/Croprotation.jpg" alt=""><a href="Crop_Rotation.php">輪耕</a>
                     </li>
                   </ul>
                 </div>
@@ -90,36 +90,36 @@
               <tr>
                 <td class="tta1" style="width:20%">生命值</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                  <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                   <br>
-                  <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                  <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:20%">護甲</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                  <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                   <br>
-                  <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                  <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
               </tr>
               <tr>
                 <td class="tta1">視野</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                  <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                   <br>
-                  <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                  <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
               </tr>
               <tr>
                 <td class="tta1">招降抵抗</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                   <br>
-                  <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">建造速率</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                  <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
               </tr>
             </table>
             <h3>文明加成</h3>
@@ -194,7 +194,7 @@
               <tr>
                 <td colspan="2">
                   <div class="unititle">
-                    <img src="img/Millicon.png" width="45" alt="">
+                    <img src="~assets/Millicon.png" width="45" alt="">
                   </div>
                 </td>
               </tr>
@@ -249,35 +249,35 @@
               <tr>
                 <td class="unit3">血量</td>
                 <td class="unit4">
-                  <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt="">600
+                  <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">600
                   <br>
-                  <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">800
+                  <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">800
                   <br>
-                  <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">1000
+                  <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">1000
                   <br>
-                  <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">100</td>
+                  <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">100</td>
               </tr>
               <tr>
                 <td class="unit3">近防</td>
                 <td class="unit4">
-                  <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt="">0
+                  <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">0
                   <br>
-                  <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1
+                  <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1
                   <br>
-                  <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+                  <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
                   <br>
-                  <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+                  <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
               </tr>
               <tr>
                 <td class="unit3">遠防</td>
                 <td class="unit4">
-                  <img class="gg" src="img/Dark-age-logo-small.jpg" width="30" alt="">7
+                  <img class="gg" src="~assets/Dark-age-logo-small.jpg" width="30" alt="">7
                   <br>
-                  <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">8
+                  <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">8
                   <br>
-                  <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+                  <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
                   <br>
-                  <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+                  <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
               </tr>
               <tr>
                 <td class="unit3">護甲分類</td>
@@ -297,21 +297,21 @@
              <h3>圖庫</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <div class="col-md-4"> <a href="img/MillDarkAge.png"><img class="imgn" class="hg" width="180" src="img/MillDarkAge.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/MillDarkAge.png"><img class="imgn" class="hg" width="180" src="~assets/MillDarkAge.png" alt=""></a> 
                 <div
                 class="lightbox-caption" style="width:220px" ;>
                   <p><em>所有黑暗時代的磨坊。</em>
                   </p>
               </div>
             </div>
-            <div class="col-md-4"> <a href="img/MillFeudalAgeHD.png"><img class="imgn" class="hg" width="200" src="img/MillFeudalAgeHD.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/MillFeudalAgeHD.png"><img class="imgn" class="hg" width="200" src="~assets/MillFeudalAgeHD.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的磨坊(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/MillFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="img/MillFeudalAgeDLC.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/MillFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/MillFeudalAgeDLC.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:185px" ;>
               <p><em>所有封建時代的磨坊(HD擴充資料片)。</em>
@@ -320,21 +320,21 @@
         </div>
       </div>
       <div class="col-md-12">
-        <div class="col-md-4"> <a href="img/Millaokaoc.png"><img class="imgn" class="hg" width="200" src="img/Millaokaoc.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Millaokaoc.png"><img class="imgn" class="hg" width="200" src="~assets/Millaokaoc.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的磨坊(帝王世紀和征服者入侵資料片)。</em>
             </p>
         </div>
       </div>
-      <div class="col-md-4"> <a href="img/Mills_hd.png"><img class="imgn" class="hg" width="200" src="img/Mills_hd.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Mills_hd.png"><img class="imgn" class="hg" width="200" src="~assets/Mills_hd.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的磨坊(HD擴充資料片)。</em>
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Nashtifan_windmills.jpg"><img class="imgn" class="hg" width="200" src="img/Nashtifan_windmills.jpg" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Nashtifan_windmills.jpg"><img class="imgn" class="hg" width="200" src="~assets/Nashtifan_windmills.jpg" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>伊朗Nashtifan風車磨坊，這是印度磨坊建築的模板。</em>

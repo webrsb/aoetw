@@ -90,7 +90,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Siege_of_jerusalem.png" width="" alt="">
+                  <img src="~assets/Siege_of_jerusalem.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -135,7 +135,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，亞諭協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/HIW-logo.png" width="100" height="46">
+              <img src="~assets/HIW-logo.png" width="100" height="46">
             </div>
             <div style="margin-left: 60px;">知識大圖解上的耶路撒冷攻城戰
               <div style="margin-left: 10px;"><em><strong><a href="http://tinyurl.com/y9v7avxf">耶路撒冷圍城</a></strong></em>

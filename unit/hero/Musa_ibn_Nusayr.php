@@ -34,7 +34,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Musaibnnusayricon.png" width="80" alt="">
+                  <img src="~assets/Musaibnnusayricon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -122,7 +122,7 @@
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的穆薩-伊本-奴薩爾
               <div style="margin-left: 10px;"><i><strong><a href="https://en.wikipedia.org/wiki/Musa_bin_Nusayr">穆薩-伊本-奴薩爾(英文版)</a></strong></i>

@@ -110,7 +110,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/BRA 6.jpg" width="" alt="">
+                  <img src="~assets/BRA 6.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

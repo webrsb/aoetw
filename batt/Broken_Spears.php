@@ -21,25 +21,25 @@
              <h3>基本資訊</h3> 
             <ul>
               <li>起始時代:
-                <img src="img/Imperial-age-research.jpg" class="gg" alt="">帝王時代</li>
+                <img src="~assets/Imperial-age-research.jpg" class="gg" alt="">帝王時代</li>
               <li>起始資源:木頭:2000，食物:500，黃金:500，石頭:600</li>
               <li>人口上限:75</li>
               <li>開場擁有單位:
                 <ul>
                   <li>
-                    <img src="img/VillagerMaleIcon.jpg" class="gg" alt="">村民14個</li>
+                    <img src="~assets/VillagerMaleIcon.jpg" class="gg" alt="">村民14個</li>
                   <li>
-                    <img src="img/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士12個</li>
+                    <img src="~assets/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士12個</li>
                   <li>
-                    <img src="img/JaguarWarriorIcon.jpg" class="gg" alt="">豹勇士8個</li>
+                    <img src="~assets/JaguarWarriorIcon.jpg" class="gg" alt="">豹勇士8個</li>
                   <li>
-                    <img src="img/MonkIcon2.jpg" class="gg" alt="">僧侶2個</li>
+                    <img src="~assets/MonkIcon2.jpg" class="gg" alt="">僧侶2個</li>
                 </ul>
               </li>
               <li>大地之母單位:
                 <ul>
                   <li>
-                    <img src="img/TurtleShipIcon.jpg" class="gg" alt="">精銳龜甲船3個</li>
+                    <img src="~assets/TurtleShipIcon.jpg" class="gg" alt="">精銳龜甲船3個</li>
                 </ul>
               </li>
             </ul>
@@ -137,7 +137,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/蒙特蘇馬六.png" width="" alt="">
+                  <img src="~assets/蒙特蘇馬六.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -194,7 +194,7 @@
             <div class="col-md-12">
               <div class="wiki" style="margin-top: 5px;">
                 <div style="float: left;">
-                  <img src="img/Wikipedia-logo.png" width="50" height="46">
+                  <img src="~assets/Wikipedia-logo.png" width="50" height="46">
                 </div>
                 <div style="margin-left: 60px;">維基百科上的特諾奇提特蘭
                   <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E7%89%B9%E8%AB%BE%E5%A5%87%E6%8F%90%E7%89%B9%E8%98%AD">特諾奇提特蘭</a></b></i>

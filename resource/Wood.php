@@ -12,7 +12,7 @@
           <p>石礦是四種主要資源之一，通常主要是由村民採集木材，但也可以利用別的手段來獲得。</p>
         </div>
         <div class="col-md-2">
-          <img src="img/Gold_aoe2.png" alt="">
+          <img src="~assets/Gold_aoe2.png" alt="">
         </div>
         <div class="col-md-12">
           <h3>採集</h3>

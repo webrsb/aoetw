@@ -40,7 +40,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/3.Saladin.jpg" width="300px;" alt="">
+                <img src="~assets/3.Saladin.jpg" width="300px;" alt="">
                 <p>薩拉丁戰役地圖</p>
               </div>
             </div>
@@ -66,7 +66,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Saladin.jpg" width="300" alt="">
+                  <img src="~assets/Saladin.jpg" width="300" alt="">
                   <p><em>本系列主角 薩拉丁</em>
                   </p>
                 </div>
@@ -97,7 +97,7 @@
           <div class="thanks">感謝! 此頁面由裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的薩拉丁
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E8%90%A8%E6%8B%89%E4%B8%81">薩拉丁</a></b></i>

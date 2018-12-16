@@ -30,7 +30,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Rm_arena.gif" width="300" alt="">
+          <img src="~assets/Rm_arena.gif" width="300" alt="">
            <h4>一個標準圍城地圖</h4> 
         </div>
       </div>

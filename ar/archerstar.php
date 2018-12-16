@@ -14,7 +14,7 @@
             <p>小弓，即封建的弓兵，小弓開局是阿拉伯非常經典的戰術，因為不花食物，可以迅速連接城堡，而小弓的輸出攻擊也非常可怕。只是現今矛兵縱橫的時代，純小弓不再這麼常見，多少都會配置點矛兵，甚至以矛兵為主小弓為輔。</p>
             <ul>
               <li>
-                <img src="img/ArcherIcon.jpg" alt=""> <a href="Archer.php">弓兵→</a>:俗稱小弓，封建時代能有效擊殺對方村民的兵種之一，與斥侯相比，更不怕木牆。</li>
+                <img src="~assets/ArcherIcon.jpg" alt=""> <a href="Archer.php">弓兵→</a>:俗稱小弓，封建時代能有效擊殺對方村民的兵種之一，與斥侯相比，更不怕木牆。</li>
               </li>
             </ul>
           </div>
@@ -108,7 +108,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="45" src="img/ArcherIcon.jpg" alt=""> <a href="Archer.php"></a>
+                  <img width="45" src="~assets/ArcherIcon.jpg" alt=""> <a href="Archer.php"></a>
 
                 </div>
               </td>

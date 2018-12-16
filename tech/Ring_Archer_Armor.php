@@ -90,7 +90,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Ringarcherarmor.jpg" width="45" alt="">
+                  <img src="~assets/Ringarcherarmor.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -117,7 +117,7 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Leatherarcherarmor.jpg" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>
+                <img class="gg" src="~assets/Leatherarcherarmor.jpg" alt=""><a href="Leather_Archer_Armor.php">弓兵皮甲</a>
               </td>
             </tr>
             <tr>

@@ -25,7 +25,7 @@
             <div
             class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="250" src="img/Wonderbritons.png" alt="">
+                <img class="hg" width="250" src="~assets/Wonderbritons.png" alt="">
                 <p><em>亞琛大教堂:由查理曼大帝（Charlemagne）建造，成為"世界帝國II"中不列顛人的世界奇觀。。</em>
 
                 </p>
@@ -45,7 +45,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="img/Charlemagneicon.png" width="80" alt="">
+                <img src="~assets/Charlemagneicon.png" width="80" alt="">
               </div>
             </td>
           </tr>

@@ -93,7 +93,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Horns_of_hattin.png" width="" alt="">
+                  <img src="~assets/Horns_of_hattin.png" width="" alt="">
                 </div>
               </td>
             </tr>

@@ -35,7 +35,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/Montezumaacampaign.png" width="300px;" alt="">
+                <img src="~assets/Montezumaacampaign.png" width="300px;" alt="">
                 <p>蒙特蘇馬戰役地圖</p>
               </div>
               <h3>芝麻小事</h3>
@@ -71,7 +71,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Montezuma_and_cortez.jpg" width="300" alt="">
+                  <img src="~assets/Montezuma_and_cortez.jpg" width="300" alt="">
                   <p><em>本系列主角 蒙特蘇馬和庫奧赫特莫克</em>
                   </p>
                 </div>
@@ -98,7 +98,7 @@
           <div class="thanks">感謝! 此頁面由賜齡，裕暉協助編輯。</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的蒙特蘇馬
               <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Montezuma">蒙特蘇馬</a></b></i>

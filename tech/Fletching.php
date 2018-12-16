@@ -41,7 +41,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Fletching.jpg" width="45" alt="">
+                  <img src="~assets/Fletching.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -68,7 +68,7 @@
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Bodkinarrow.jpg" width="45" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
+                <img class="gg" src="~assets/Bodkinarrow.jpg" width="45" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
               </td>
             </tr>
             <tr>

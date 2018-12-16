@@ -25,7 +25,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Imgres-0.jpg" width="300" alt="">
+          <img src="~assets/Imgres-0.jpg" width="300" alt="">
            <h4>一個標準阿拉伯地圖</h4> 
         </div>
       </div>

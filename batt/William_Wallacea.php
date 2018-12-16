@@ -40,7 +40,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/w1.jpg" width="300px;" alt="">
+                <img src="~assets/w1.jpg" width="300px;" alt="">
                 <p>威廉華勒斯戰役地圖</p>
               </div>
             </div>
@@ -66,7 +66,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/w2.jpg" width="300" alt="">
+                  <img src="~assets/w2.jpg" width="300" alt="">
                   <p><em>本系列主角 威廉華勒斯</em>
                   </p>
                 </div>
@@ -97,7 +97,7 @@
           <div class="thanks">感謝! 此頁面由裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的威廉華勒斯
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%8F%AF%E8%90%8A%E5%A3%AB">威廉華勒斯</a></b></i>

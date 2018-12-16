@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Team_Islands.jpg" width="300" alt="">
+          <img src="~assets/Team_Islands.jpg" width="300" alt="">
            <h4>一張標準的團隊群島地圖</h4> 
         </div>
       </div>

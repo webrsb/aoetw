@@ -39,7 +39,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/14. El Dorado.jpg" width="300px;" alt="">
+                <img src="~assets/14. El Dorado.jpg" width="300px;" alt="">
                 <p>黃金國戰役地圖</p>
               </div>
             </div>
@@ -64,7 +64,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Francisco de Orellana.jpg" width="300" alt="">
+                  <img src="~assets/Francisco de Orellana.jpg" width="300" alt="">
                   <p><em>本系列主角 法蘭西斯科·德·奧雷亞納紀念雕像於瓜亞基爾-厄瓜多</em>
                   </p>
                 </div>
@@ -95,7 +95,7 @@
           <div class="thanks">感謝! 此頁面由裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的法蘭西斯科·德·奧雷亞納
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%E7%A7%91%C2%B7%E5%BE%B7%C2%B7%E5%A5%A7%E9%9B%B7%E4%BA%9E%E7%B4%8D">法蘭西斯科·德·奧雷亞納</a></b></i>

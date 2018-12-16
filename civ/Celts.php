@@ -30,7 +30,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Royal_Banner_of_Scotland.png" alt="">
+                  <img src="~assets/Royal_Banner_of_Scotland.png" alt="">
                   <p><em>蘇格蘭國旗</em>
 
                   </p>
@@ -55,7 +55,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/WBRSK.jpg">菘藍武士</td>
+                <img class="gg" src="~assets/WBRSK.jpg">菘藍武士</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -64,9 +64,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">堡壘
+                <img class="gg" src="~assets/CastleAgeUnique.png">堡壘
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">賽爾特狂暴</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">賽爾特狂暴</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
@@ -90,13 +90,13 @@
            </ul>
              <h3>特殊單位</h3>
 <ul>
-  <li><img class="gg" src="img/WBRSK.jpg" alt="">菘藍武士:快速又具破壞力的步兵</li>
+  <li><img class="gg" src="~assets/WBRSK.jpg" alt="">菘藍武士:快速又具破壞力的步兵</li>
 </ul>
       
              <h3>特殊科技</h3>
 <ul>
-  <li><img class="gg" src="img/CastleAgeUnique.png">堡壘:城堡和箭塔攻擊速度+20%</li>
-  <li><img class="gg" src="img/Unique-tech.jpg">賽爾特狂暴:攻城器製造所的單位血量+40%</li>
+  <li><img class="gg" src="~assets/CastleAgeUnique.png">堡壘:城堡和箭塔攻擊速度+20%</li>
+  <li><img class="gg" src="~assets/Unique-tech.jpg">賽爾特狂暴:攻城器製造所的單位血量+40%</li>
 </ul>
 
           </div>
@@ -135,21 +135,21 @@
         <div class="col-md-12">
            <h3>圖庫</h3> 
           <div class="col-md-4">
-            <div class="wimg"><a href="img/Woad.jpg"><img class="imgn" class="hg" src="img/Woad.jpg" alt=""></a>
+            <div class="wimg"><a href="img/Woad.jpg"><img class="imgn" class="hg" src="~assets/Woad.jpg" alt=""></a>
 
             </div>
             <div class="hrn1"></div>
             <p>菘藍武士的3D模組。</p>
           </div>
           <div class="col-md-4">
-            <div class="wimg"><a href="img/Wondercelts.png"><img class="imgn" class="hg" src="img/Wondercelts.png" alt=""></a>
+            <div class="wimg"><a href="img/Wondercelts.png"><img class="imgn" class="hg" src="~assets/Wondercelts.png" alt=""></a>
 
             </div>
             <div class="hrn1"></div>
             <p>賽爾特的世界奇觀：卡瑟爾岩。</p>
           </div>
           <div class="col-md-4">
-            <div class="wimg"><a href="img/Celts_in_III_century_BC.jpg"><img class="imgn" class="hg" src="img/Celts_in_III_century_BC.jpg" alt=""></a>
+            <div class="wimg"><a href="img/Celts_in_III_century_BC.jpg"><img class="imgn" class="hg" src="~assets/Celts_in_III_century_BC.jpg" alt=""></a>
 
             </div>
             <div class="hrn1"></div>

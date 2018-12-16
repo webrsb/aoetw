@@ -39,7 +39,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/Draculaa.png" width="300px;" alt="">
+                <img src="~assets/Draculaa.png" width="300px;" alt="">
                 <p>德古拉戰役地圖</p>
               </div>
             </div>
@@ -55,7 +55,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Vlad_Tepes_002.jpg" width="300" alt="">
+                  <img src="~assets/Vlad_Tepes_002.jpg" width="300" alt="">
                   <p><em>本系列主角 弗拉德德古拉三世</em>
 
                   </p>
@@ -83,7 +83,7 @@
           <div class="thanks">感謝! 此頁面由賜齡，裕暉協助編輯。</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的弗拉德三世
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96">弗拉德三世</a></b></i>

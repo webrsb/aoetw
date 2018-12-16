@@ -21,13 +21,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Towns.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Towns.png" alt="">
         <p class="text-center"><em>塞倫蓋提平原十分開闊，玩家要確實圍家是一件不容易的事。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Rock_pillars.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Rock_pillars.png" alt="">
         <p class="text-center"><em>塞倫蓋提平原上有一些巨大的岩柱，跟旁邊的矮樹木形成強烈對比。</em>
 
         </p>
@@ -35,7 +35,7 @@
       </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Serengeti.png" width="300" alt="">
+          <img src="~assets/Serengeti.png" width="300" alt="">
            <h4>兩人的塞倫蓋提平原地圖</h4> 
         </div>
       </div>

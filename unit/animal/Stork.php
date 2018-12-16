@@ -32,7 +32,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Stork.png" width="80" alt="">
+                  <img src="~assets/Stork.png" width="80" alt="">
                 </div>
               </td>
             </tr>

@@ -20,13 +20,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Steppe-deer.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Steppe-deer.png" alt="">
         <p class="text-center"><em>乾草原中間有很多可捕獵的鹿群。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Steppe-1.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Steppe-1.png" alt="">
         <p class="text-center"><em>樹林成群環繞在地圖周圍。</em>
 
         </p>
@@ -34,7 +34,7 @@
       </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Steppe-mini-map.png" width="300" alt="">
+          <img src="~assets/Steppe-mini-map.png" width="300" alt="">
            <h4>乾草原地圖</h4> 
         </div>
       </div>

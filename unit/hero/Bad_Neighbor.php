@@ -39,7 +39,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/TrebuchetPackedIcon.jpg" width="80" alt="">
+                  <img src="~assets/TrebuchetPackedIcon.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>

@@ -59,7 +59,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/BRA 5.jpg" width="" alt="">
+                  <img src="~assets/BRA 5.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -111,7 +111,7 @@
           <ul>
             <li><strong>起始時代：</strong>
 
-              <img class="gg" src="img/Imperial-age-research.jpg"
+              <img class="gg" src="~assets/Imperial-age-research.jpg"
               class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
 
             </li>
@@ -124,21 +124,21 @@
 
           <ul>
             <li>
-              <img class="gg" src="img/PikemanIcon.jpg" alt=""> <a href="Pikeman.php">重裝長槍兵</a> 24</li>
+              <img class="gg" src="~assets/PikemanIcon.jpg" alt=""> <a href="Pikeman.php">重裝長槍兵</a> 24</li>
             <li>
-              <img class="gg" src="img/Crusade_avatar.png" alt=""><a href="Teutonic_Knight.php">條頓武士</a> 14</li>
+              <img class="gg" src="~assets/Crusade_avatar.png" alt=""><a href="Teutonic_Knight.php">條頓武士</a> 14</li>
             <li>
-              <img class="gg" src="img/PaladinIcon.jpg" alt=""> <a href="Paladin.php">遊俠</a> 12</li>
+              <img class="gg" src="~assets/PaladinIcon.jpg" alt=""> <a href="Paladin.php">遊俠</a> 12</li>
             <li>
-              <img class="gg" src="img/CrossbowmanIcon.jpg" alt=""> <a href="Crossbowman.php">弩兵</a> 10</li>
+              <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""> <a href="Crossbowman.php">弩兵</a> 10</li>
             <li>
-              <img class="gg" src="img/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a> 3</li>
+              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a> 3</li>
             <li>
-              <img class="gg" src="img/SiegeOnagerIcon.jpg" alt=""> <a href="Siege_Onager.php">重型投石車</a>中型投石車</a>2</li>
+              <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt=""> <a href="Siege_Onager.php">重型投石車</a>中型投石車</a>2</li>
             <li>
-              <img class="gg" src="img/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">投石機</a> 3</li>
+              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">投石機</a> 3</li>
             <li>
-              <img class="gg" src="img/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯</a> 2</li>
+              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯</a> 2</li>
           </ul>
         </div>
         <div class="col-md-4">
@@ -146,17 +146,17 @@
 
           <ul>
             <li>
-              <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a> 6</li>
+              <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a> 6</li>
             <li>
-              <img class="gg" src="img/HeavyCavArcherIcon.jpg" alt=""> <a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a> 4</li>
+              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt=""> <a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a> 4</li>
             <li>
-              <img class="gg" src="img/TransportShipIcon.jpg" alt=""> <a href="Transport_Ship.php">運輸船</a> 4</li>
+              <img class="gg" src="~assets/TransportShipIcon.jpg" alt=""> <a href="Transport_Ship.php">運輸船</a> 4</li>
             <li>
-              <img class="gg" src="img/SiegeOnagerIcon.jpg" alt=""> <a href="Siege_Onager.php">重型投石車</a>中型投石車</a>4</li>
+              <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt=""> <a href="Siege_Onager.php">重型投石車</a>中型投石車</a>4</li>
             <li>
-              <img class="gg" src="img/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a> 2</li>
+              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a> 2</li>
             <li>
-              <img class="gg" src="img/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">投石機</a> 1</li>
+              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">投石機</a> 1</li>
           </ul>
         </div>
       </div>

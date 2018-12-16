@@ -20,19 +20,19 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Golden_Pit_1.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Golden_Pit_1.png" alt="">
         <p class="text-center"><em>金礦股邊緣是沙地的斜坡。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Golden_Pit_2.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Golden_Pit_2.png" alt="">
         <p class="text-center"><em>玩家時常為了中央豐富金礦而大打出手。</em>
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Golden_Pit_3.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Golden_Pit_3.png" alt="">
         <p class="text-center"><em>兩方相遇在森林中大打出手。</em>
 
         </p>
@@ -40,7 +40,7 @@
       </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Land_of_lakes_mini_map.png" width="300" alt="">
+          <img src="~assets/Land_of_lakes_mini_map.png" width="300" alt="">
            <h4>標準百湖之城地圖</h4> 
         </div>
       </div>

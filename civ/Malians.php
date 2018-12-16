@@ -31,12 +31,12 @@
                 href="Light_Cavalry.php">輕騎兵</a>。但也缺乏一些重要科技，如護腕(帝王時代+1射程)與鼓風爐(近戰+2攻擊)，並且是遊戲中唯一有重型投石車卻沒有<a href="Siege_Engineers.php">攻城工程師</a>的文明，但無傷大雅，他仍是一個很有威脅性的文明。</p>
              <h3>特殊單位</h3>
             <p>
-              <img class="gg" src="img/GbetoIcon.png"><a href="Gbeto.php">飛刀女獵手</a>:具有遠程攻擊的步兵單位，攻擊高速度快，但血很少。</p>
+              <img class="gg" src="~assets/GbetoIcon.png"><a href="Gbeto.php">飛刀女獵手</a>:具有遠程攻擊的步兵單位，攻擊高速度快，但血很少。</p>
             <h3>特殊科技</h3>
             <p>
-              <img class="gg" src="img/CastleAgeUnique.png"><a href="Tigui.php">部落領袖</a>:城鎮中心無須駐紮即可放箭。</p>
+              <img class="gg" src="~assets/CastleAgeUnique.png"><a href="Tigui.php">部落領袖</a>:城鎮中心無須駐紮即可放箭。</p>
             <p>
-              <img class="gg" src="img/Unique-tech.jpg"><a href="Farimba.php">驃悍精神</a>:所有騎兵額外獲得+5攻擊。</p>
+              <img class="gg" src="~assets/Unique-tech.jpg"><a href="Farimba.php">驃悍精神</a>:所有騎兵額外獲得+5攻擊。</p>
           </div>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
@@ -68,7 +68,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wondermalians.png"><img class="imgn" class="hg" src="img/Wondermalians.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wondermalians.png"><img class="imgn" class="hg" src="~assets/Wondermalians.png" alt=""></a> 
                 <p><em>馬利的世界奇觀，傑內大清真寺</em>
                 </p>
               </div>
@@ -90,7 +90,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/MansaMusa.jpg" width="300px;" alt="">
+                  <img src="~assets/MansaMusa.jpg" width="300px;" alt="">
                   <p><em>一幅1375年地圖描繪舉著黃金的曼薩·穆薩</em>
                   </p>
                 </div>
@@ -112,7 +112,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/GbetoIcon.png"><a href="Gbeto.php">飛刀女獵手</a>
+                <img class="gg" src="~assets/GbetoIcon.png"><a href="Gbeto.php">飛刀女獵手</a>
               </td>
             </tr>
             <tr>
@@ -122,16 +122,16 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png"><a href="Tigui.php">部落領袖</a>
+                <img class="gg" src="~assets/CastleAgeUnique.png"><a href="Tigui.php">部落領袖</a>
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg"><a href="Farimba.php">驃悍精神</a>
+                <img class="gg" src="~assets/Unique-tech.jpg"><a href="Farimba.php">驃悍精神</a>
               </td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由可愛a眠協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的馬利</div>
             <div style="margin-left: 10px;"><i><strong><a href="http://tinyurl.com/yccvwqw6">馬利帝國</a></strong></i>

@@ -57,7 +57,7 @@
                 "><ul>  <li>利用你輕騎兵的視野以避免不必要的衝突。</li></ul></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">阿拉伯騎士</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/An_arabian_knight.png
+                ">阿拉伯騎士</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/An_arabian_knight.png
                 " width=" " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3

@@ -21,7 +21,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-5">
-                <img class="hg" width="250" src="img/Joan1start.png" alt="">
+                <img class="hg" width="250" src="~assets/Joan1start.png" alt="">
                 <p><em>護送聖女貞德到支農的貝查德爵士。</em>
                 </p>
               </div>
@@ -39,7 +39,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Sieurbertrand.png" width="80" alt="">
+                  <img src="~assets/Sieurbertrand.png" width="80" alt="">
                 </div>
               </td>
             </tr>

@@ -112,7 +112,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Into_china.png" width="" alt="">
+                  <img src="~assets/Into_china.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -157,7 +157,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，竺叡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上蒙古入侵中國戰役
               <div style="margin-left: 10px;"><em><strong><a href="https://zh.wikipedia.org/wiki/%E8%92%99%E9%87%91%E6%88%B0%E7%88%AD">蒙金戰爭</a></strong></em>、<em><strong><a href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E6%BB%85%E8%A5%BF%E5%A4%8F%E4%B9%8B%E6%88%B0">蒙古滅西夏之戰</a></strong></em>

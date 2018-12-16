@@ -30,16 +30,16 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/New_Genoese_Crossbowman.png" alt="">熱那亞弩手:反騎兵弓兵，對騎兵有攻擊加成但射程比一般弓兵短。</li>
+                <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt="">熱那亞弩手:反騎兵弓兵，對騎兵有攻擊加成但射程比一般弓兵短。</li>
               <li>
-                <img class="gg" src="img/CondottieroNewIcon.jpg">僱傭兵:義大利的第二種特殊單位，能夠在帝王時代的兵營中訓練。任何與義大利同盟的國家都能生產。</li>
+                <img class="gg" src="~assets/CondottieroNewIcon.jpg">僱傭兵:義大利的第二種特殊單位，能夠在帝王時代的兵營中訓練。任何與義大利同盟的國家都能生產。</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">巨盾：弓兵近防/遠防+1。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">巨盾：弓兵近防/遠防+1。</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">絲綢之路：貿易單位便宜50%。</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">絲綢之路：貿易單位便宜50%。</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -96,7 +96,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Italian_city.png"><img class="imgn" class="hg" src="img/Italian_city.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Italian_city.png"><img class="imgn" class="hg" src="~assets/Italian_city.png" alt=""></a> 
                 <p><em>宣傳圖</em>
                 </p>
               </div>
@@ -114,7 +114,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Cattedrale_san_lorenzo_genova.jpg" width="300px;" alt="">
+                  <img src="~assets/Cattedrale_san_lorenzo_genova.jpg" width="300px;" alt="">
                   <p><em>聖老楞佐主教座堂(Cattedrale di San Lorenzo)是天主教中世紀的教堂，也是熱那亞最重要的禮拜場所。羅馬化的哥德式建築的一個生動的例子，它可能建立在公元5世紀或6世紀，卻在17世紀完成。</em>
                   </p>
                 </div>
@@ -137,9 +137,9 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/New_Genoese_Crossbowman.png">熱那亞弩手
+                <img class="gg" src="~assets/New_Genoese_Crossbowman.png">熱那亞弩手
                 <br>
-                <img class="gg" src="img/CondottieroNewIcon.jpg">僱傭兵</td>
+                <img class="gg" src="~assets/CondottieroNewIcon.jpg">僱傭兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -148,9 +148,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">巨盾
+                <img class="gg" src="~assets/CastleAgeUnique.png">巨盾
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">絲綢之路</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">絲綢之路</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

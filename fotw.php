@@ -3,7 +3,7 @@
       <!-- Example row of columns -->
       <div class="row" style=" margin-top: 50px;">
         <h1>臺港知名玩家</h1>
-        <div class="spw"><em><img src="img/tola.jpg" width="50px;" alt="" style="margin-right:20px;">持續更新頁面：任何意見，歡迎到<a href="talk.php">討論區</a>參與討論</em>
+        <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">持續更新頁面：任何意見，歡迎到<a href="talk.php">討論區</a>參與討論</em>
         </div>
         <div class="hrn1"></div>
         <div class="n1">
@@ -73,7 +73,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>鳳凰蘇</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>鳳凰蘇</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -81,7 +81,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>雨沛</strong>&nbsp;<img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>雨沛</strong>&nbsp;<img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -89,7 +89,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>丹布倫</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>丹布倫</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -97,7 +97,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>阿維子</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>阿維子</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -105,7 +105,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>Ada</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>Ada</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -113,7 +113,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>lala</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>lala</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -121,7 +121,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>這我一定吉</strong><img src="img/law-512.pngn" width="45" alt=""></h4>
+                <h4><strong>這我一定吉</strong><img src="~assets/law-512.pngn" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -337,7 +337,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>Yoshi_Lum</strong><img src="img/tork.png" width="45" alt=""></h4>
+                <h4><strong>Yoshi_Lum</strong><img src="~assets/tork.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -345,7 +345,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>Jack</strong><img src="img/tor.png" width="45" alt=""></h4>
+                <h4><strong>Jack</strong><img src="~assets/tor.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -353,7 +353,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>tung</strong><img src="img/tork.png" width="45" alt=""></h4>
+                <h4><strong>tung</strong><img src="~assets/tork.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -369,7 +369,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>hungki824</strong><img src="img/tork.png" width="45" alt=""></h4>
+                <h4><strong>hungki824</strong><img src="~assets/tork.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -681,7 +681,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>Candy</strong><img src="img/love.png" width="45" alt=""><img src="img/194394.svg" width="45" alt=""></h4>
+                <h4><strong>Candy</strong><img src="~assets/love.png" width="45" alt=""><img src="~assets/194394.svg" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -689,7 +689,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>Nakiki</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>Nakiki</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -697,7 +697,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>張筑</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>張筑</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -705,7 +705,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>沐沐</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>沐沐</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -713,7 +713,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>特級砂糖</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>特級砂糖</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -721,7 +721,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>雪雪</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>雪雪</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -729,7 +729,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>Munzo</strong><img src="img/love.png" width="45" alt=""></h4>
+                <h4><strong>Munzo</strong><img src="~assets/love.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -866,7 +866,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>okduck</strong><img src="img/tor.png" width="45" alt=""></h4>
+                <h4><strong>okduck</strong><img src="~assets/tor.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -874,7 +874,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>rayray</strong><img src="img/tor.png" width="45" alt=""></h4>
+                <h4><strong>rayray</strong><img src="~assets/tor.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>
@@ -1010,7 +1010,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>長安</strong><img src="img/tor.png" width="45" alt=""></h4>
+                <h4><strong>長安</strong><img src="~assets/tor.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>

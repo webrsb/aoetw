@@ -64,7 +64,7 @@
                 "> <ul>  <li>哥德人在HD版本裡面，會在東方的森林裡面有一隻馬作為佔位單位。    最初版本是沒有的，所以在原版本裡，哥德人在把村莊交給玩家後就會被擊敗。</li><li>2012年最初版本內，西北的橋跟HD版本不同。</li><li>戰役內玩家被要求殺死貝利薩留，這在歷史中沒有發生，  他們兩個根本不可能碰面，阿拉里克死於410年，而貝利薩留生於505年左右</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">羅馬軍團隨時殺到!</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/Alaric 2.jpg " width="
+                ">羅馬軍團隨時殺到!</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 2.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
@@ -78,7 +78,7 @@
                 ">條條大路通圍城</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="Emperor_of_the_West.php
                 ">西域之君</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div>     <div class="row
                 ">  <div class="col-md-12 ">    </div>     <div class="wiki " style="margin-top: 5px;
-                "><div style="float: left; "><img src="img/Wikipedia-logo.png " width="50 " height="46
+                "><div style="float: left; "><img src="~assets/Wikipedia-logo.png " width="50 " height="46
                 "></div><div style="margin-left: 60px; ">維基百科上的弗拉維烏斯·奧古斯都·霍諾留<div style="margin-left: 10px;
                 "><i><b><a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%8B%89%E7%B6%AD%E7%83%8F%E6%96%AF%C2%B7%E5%A5%A7%E5%8F%A4%E6%96%AF%E9%83%BD%C2%B7%E9%9C%8D%E8%AB%BE%E7%95%99
                 ">弗拉維烏斯·奧古斯都·霍諾留</a></b></i></div></div>  </div></div>      </div>    

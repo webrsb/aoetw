@@ -31,7 +31,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Tamerlaneicon.png" width="80" alt="">
+                  <img src="~assets/Tamerlaneicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -121,7 +121,7 @@
           <div class="thanks">感謝! 此頁面由Falcon6164協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的帖木兒
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E5%B8%96%E6%9C%A8%E5%84%BF">帖木兒</a></strong></i>

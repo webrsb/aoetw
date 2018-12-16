@@ -37,7 +37,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Continental.jpg" width="300" alt="">
+          <img src="~assets/Continental.jpg" width="300" alt="">
            <h4>一個標準大陸地圖</h4> 
         </div>
       </div>

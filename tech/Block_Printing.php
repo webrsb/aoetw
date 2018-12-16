@@ -87,7 +87,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Blockprinting.jpg" width="45" alt="">
+                  <img src="~assets/Blockprinting.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -105,14 +105,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Monasteryicon.png" alt=""><a href="Monastery.php">修道院</a>
+                <img class="gg" src="~assets/Monasteryicon.png" alt=""><a href="Monastery.php">修道院</a>
 
               </td>
             </tr>

@@ -58,7 +58,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Chainmailarmor.jpg" width="45" alt="">
+                  <img src="~assets/Chainmailarmor.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -87,7 +87,7 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img src="img/Scalemailarmor.jpg" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>
+                <img src="~assets/Scalemailarmor.jpg" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>
 
               </td>
             </tr>

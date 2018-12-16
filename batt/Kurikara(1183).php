@@ -215,7 +215,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Kurikara.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Kurikara.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -263,7 +263,7 @@
      </div>
 
       <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的礪波山之戰
 <div style="margin-left: 10px;"><em><strong><a href="http://tinyurl.com/y799952u">俱利伽羅峠之戰</a></strong></em></div>
 </div>

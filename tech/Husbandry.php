@@ -90,7 +90,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Husbandry.jpg" width="45" alt="">
+                  <img src="~assets/Husbandry.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -107,13 +107,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Stableicon.png" alt=""><a href="Stable.php">馬厩</a>
+                <img class="gg" src="~assets/Stableicon.png" alt=""><a href="Stable.php">馬厩</a>
               </td>
             </tr>
             <tr>
@@ -144,7 +144,7 @@
           <div class="thanks">感謝! 此頁面由yaukmd協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的畜牧培育
               <div style="margin-left: 10px;"><i><b><a href="http://tinyurl.com/yc2drw3u">畜牧業</a></b></i>

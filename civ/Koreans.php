@@ -20,16 +20,16 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/WarWagonIcon.jpg" alt="">馬戰車:韓國特殊單位，重裝的馬弓騎兵單位。</li>
+                <img class="gg" src="~assets/WarWagonIcon.jpg" alt="">馬戰車:韓國特殊單位，重裝的馬弓騎兵單位。</li>
               <li>
-                <img class="gg" src="img/TurtleShipIcon.jpg" alt="">龜甲船:慢的鐵製槳帆戰船用於摧毀近距離敵艦。</li>
+                <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="">龜甲船:慢的鐵製槳帆戰船用於摧毀近距離敵艦。</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">板屋船:龜甲船移動速度快15%。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">板屋船:龜甲船移動速度快15%。</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">神機箭:投石車+1攻擊距離。</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">神機箭:投石車+1攻擊距離。</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -86,7 +86,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/EastAsian.jpg"><img class="imgn" class="hg" src="img/EastAsian.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/EastAsian.jpg"><img class="imgn" class="hg" src="~assets/EastAsian.jpg" alt=""></a> 
                 <p><em>東亞建築</em>
                 </p>
               </div>
@@ -104,7 +104,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Wangkun.jpg" width="250" alt="">
+                  <img src="~assets/Wangkun.jpg" width="250" alt="">
                   <p><em>韓國皇帝 - 王建</em>
                   </p>
                 </div>
@@ -127,9 +127,9 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/WarWagonIcon.jpg">馬戰車
+                <img class="gg" src="~assets/WarWagonIcon.jpg">馬戰車
                 <br>
-                <img class="gg" src="img/TurtleShipIcon.jpg">龜甲船</td>
+                <img class="gg" src="~assets/TurtleShipIcon.jpg">龜甲船</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -138,9 +138,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">板屋船
+                <img class="gg" src="~assets/CastleAgeUnique.png">板屋船
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">神機箭</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">神機箭</td>
             </tr>
           </table>
           <div class="thanks">此頁面由阿幹協助編輯</div>

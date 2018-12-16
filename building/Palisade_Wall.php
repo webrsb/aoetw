@@ -50,12 +50,12 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>:+30% HP，<a href="Chinese.php">中國</a>限定</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Great_Wall.php">長城</a>:+30% HP，<a href="Chinese.php">中國</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">工作速率</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%工作效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%工作效率)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
@@ -114,7 +114,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Palisadewallicon.png" width="45" alt="">
+                  <img src="~assets/Palisadewallicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -197,7 +197,7 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Palisadegold.png"><img class="imgn" class="hg" width="180" src="img/Palisadegold.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Palisadegold.png"><img class="imgn" class="hg" width="180" src="~assets/Palisadegold.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>木牆可以在遊戲早期守護重要的資源。</em>

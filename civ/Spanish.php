@@ -28,14 +28,14 @@
             <p>西班牙是相當著名的塔攻文明，靠著其建造快30%的文明特色，塔攻非常具有威脅性。詳見:塔攻。</p>
             <h3>特殊單位</h3>
             <li>
-              <img class="gg" src="img/ConquistadorIcon.jpg" alt="">征服者:命中率較低，但殺傷力強大的火槍單位，適合集群攻擊。</li>
+              <img class="gg" src="~assets/ConquistadorIcon.jpg" alt="">征服者:命中率較低，但殺傷力強大的火槍單位，適合集群攻擊。</li>
             <li>
-              <img class="gg" src="img/MissionaryIcon.jpg" alt="">傳教士:移動速度較快研發科技後生命值較高，但招降距離較短且無法拾取遺跡的僧侶單位。</li>
+              <img class="gg" src="~assets/MissionaryIcon.jpg" alt="">傳教士:移動速度較快研發科技後生命值較高，但招降距離較短且無法拾取遺跡的僧侶單位。</li>
             <h3>特殊科技</h3>
             <li>
-              <img class="gg" src="img/CastleAgeUnique.png" alt="">異端審判:加快僧侶招降速度。</li>
+              <img class="gg" src="~assets/CastleAgeUnique.png" alt="">異端審判:加快僧侶招降速度。</li>
             <li>
-              <img class="gg" src="img/Unique-tech.jpg" alt="">霸權:村民具有超強作戰能力。</li>
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="">霸權:村民具有超強作戰能力。</li>
           </div>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
@@ -83,7 +83,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wonderspanish.png"><img class="imgn" class="hg" src="img/Wonderspanish.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wonderspanish.png"><img class="imgn" class="hg" src="~assets/Wonderspanish.png" alt=""></a> 
                 <p><em>黃金塔</em>
                 </p>
               </div>
@@ -103,7 +103,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Elcid.jpg" width="250" alt="">
+                  <img src="~assets/Elcid.jpg" width="250" alt="">
                   <p><em>西班牙民族英雄-席德</em>
                   </p>
                 </div>
@@ -125,10 +125,10 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/ConquistadorIcon.jpg">征服者
+                <img class="gg" src="~assets/ConquistadorIcon.jpg">征服者
                 <br>
                 <p>
-                  <img class="gg" src="img/MissionaryIcon.jpg">傳教士</td>
+                  <img class="gg" src="~assets/MissionaryIcon.jpg">傳教士</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -137,9 +137,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">異端審判
+                <img class="gg" src="~assets/CastleAgeUnique.png">異端審判
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">霸權</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">霸權</td>
             </tr>
           </table>
           <div class="thanks">此頁面由阿幹協助編輯</div>

@@ -186,7 +186,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/SUN 4.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/SUN 4.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>
@@ -233,7 +233,7 @@
        感謝! 此頁面由熊，天翔協助編輯
      </div>
      <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的基里納戰役(英文版)
 <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Battle_of_Kirina">Battle of Kirina</a></b></i></div>
 </div>

@@ -26,15 +26,15 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/MangudaiIcon.jpg"><a href="Mangudai.php">蒙古突騎</a>:射速非常快且剋攻城武器的馬弓騎兵</p>
+                <img class="gg" src="~assets/MangudaiIcon.jpg"><a href="Mangudai.php">蒙古突騎</a>:射速非常快且剋攻城武器的馬弓騎兵</p>
               </li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png"><a href="Nomads.php">游牧</a>:房子被拆後，人口不會減少</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png"><a href="Nomads.php">游牧</a>:房子被拆後，人口不會減少</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg"><a href="Drill.php">演習</a>:使得攻城武器+50%移動速度</li>
+                <img class="gg" src="~assets/Unique-tech.jpg"><a href="Drill.php">演習</a>:使得攻城武器+50%移動速度</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -74,7 +74,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wondermongols.png"><img class="imgn" class="hg" src="img/Wondermongols.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wondermongols.png"><img class="imgn" class="hg" src="~assets/Wondermongols.png" alt=""></a> 
                 <p><em>成吉思汗的大帳棚</em>
                 </p>
               </div>
@@ -97,7 +97,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="250px;" src="img/YuanEmperor.jpg" alt="">
+                  <img width="250px;" src="~assets/YuanEmperor.jpg" alt="">
                   <p><em>忽必烈是蒙古帝國最偉大的君主</em>
                   </p>
                 </div>
@@ -119,7 +119,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/MangudaiIcon.jpg"><a href="Mangudai.php">蒙古突騎</a>
+                <img class="gg" src="~assets/MangudaiIcon.jpg"><a href="Mangudai.php">蒙古突騎</a>
               </td>
             </tr>
             <tr>
@@ -129,10 +129,10 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">
+                <img class="gg" src="~assets/CastleAgeUnique.png">
                 <a href="Nomads.php">游牧</a>
                   <br>
-                  <img class="gg" src="img/Unique-tech.jpg"><a href="Drill.php">鑿岩機</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg"><a href="Drill.php">鑿岩機</a>
               </td>
             </tr>
           </table>

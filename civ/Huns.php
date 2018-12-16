@@ -32,14 +32,14 @@
             <h3>特殊單位</h3>
             <ul>
               <p>
-                <img class="gg" src="img/TarkanIcon.jpg" alt="">韃靼騎兵:中型騎兵，對建築物有加成/也能拿來打弓。</p>
+                <img class="gg" src="~assets/TarkanIcon.jpg" alt="">韃靼騎兵:中型騎兵，對建築物有加成/也能拿來打弓。</p>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <p>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">掠奪者：馬場可生產韃靼騎兵。</p>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">掠奪者：馬場可生產韃靼騎兵。</p>
               <p>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">無神論：聖物/世界奇觀勝利時間+100年、研發間諜便宜50%。</p>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">無神論：聖物/世界奇觀勝利時間+100年、研發間諜便宜50%。</p>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -89,7 +89,7 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Wonderhuns.png"><img class="imgn" class="hg" src="img/Wonderhuns.png" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Wonderhuns.png"><img class="imgn" class="hg" src="~assets/Wonderhuns.png" alt=""></a> 
                   <p><em>匈奴的世界奇觀</em>
                   </p>
                 </div>
@@ -113,7 +113,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/20160304006161.jpg" width="300px;" alt="">
+                  <img src="~assets/20160304006161.jpg" width="300px;" alt="">
                   <p><em>游牧民族匈奴</em>
                   </p>
                 </div>
@@ -135,7 +135,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/TarkanIcon.jpg">韃靼騎兵</td>
+                <img class="gg" src="~assets/TarkanIcon.jpg">韃靼騎兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -144,9 +144,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">掠奪者
+                <img class="gg" src="~assets/CastleAgeUnique.png">掠奪者
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">無神論</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">無神論</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

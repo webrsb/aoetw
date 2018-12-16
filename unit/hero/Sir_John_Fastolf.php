@@ -20,7 +20,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-5">
-                <img class="hg" width="280" src="img/Fastolfattack.png" alt="">
+                <img class="hg" width="280" src="~assets/Fastolfattack.png" alt="">
                 <p><em>在戰役"羅亞爾河大掃蕩"中約翰霍士道夫爵士攻擊玩家城鎮並被長槍兵圍繞著(磨坊旁邊)。</em>
                 </p>
               </div>
@@ -38,7 +38,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Sirjohnfastolf.png" width="80" alt="">
+                  <img src="~assets/Sirjohnfastolf.png" width="80" alt="">
                 </div>
               </td>
             </tr>

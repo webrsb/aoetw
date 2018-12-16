@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-12">
           <div class="spw">
-            <img style="margin-right:5px;" src="img/Reynalddechatillonicon.png" alt=""><em>沙底隆的雷諾：沒什麼好說的</em>
+            <img style="margin-right:5px;" src="~assets/Reynalddechatillonicon.png" alt=""><em>沙底隆的雷諾：沒什麼好說的</em>
           </div>
         </div>
         <div class="col-md-12">

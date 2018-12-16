@@ -137,34 +137,34 @@
                  <h4><a href="Dark_Age.php"></a>黑暗時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Houseicon.png" width="30" alt=""><a href="House.php">房屋</a>
+                    <img class="gg" src="~assets/Houseicon.png" width="30" alt=""><a href="House.php">房屋</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Millicon.png" width="30" alt=""><a href="Mill.php">磨坊</a>
+                    <img class="gg" src="~assets/Millicon.png" width="30" alt=""><a href="Mill.php">磨坊</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php  Farm.phpp">農田</a>
+                    <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php  Farm.phpp">農田</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Miningcampicon.png" width="30" alt=""><a href="Mining_Camp.php">採礦營地</a>
+                    <img class="gg" src="~assets/Miningcampicon.png" width="30" alt=""><a href="Mining_Camp.php">採礦營地</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Lumbercampicon.png" width="30" alt=""><a href="Lumber_Camp.php">伐木場</a>
+                    <img class="gg" src="~assets/Lumbercampicon.png" width="30" alt=""><a href="Lumber_Camp.php">伐木場</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Dockicon.png" width="30" alt=""><a href="Dock.php">碼頭</a>
+                    <img class="gg" src="~assets/Dockicon.png" width="30" alt=""><a href="Dock.php">碼頭</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Barracks-logo.jpg" width="30" alt=""><a href="Barracks.phpp">軍營</a>
+                    <img class="gg" src="~assets/Barracks-logo.jpg" width="30" alt=""><a href="Barracks.phpp">軍營</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Outposticon.png" width="30" alt=""><a href="Outpost.php">哨站</a>
+                    <img class="gg" src="~assets/Outposticon.png" width="30" alt=""><a href="Outpost.php">哨站</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Palisadewallicon.png" width="30" alt=""><a href="Palisade_Wall.php">木牆</a>
+                    <img class="gg" src="~assets/Palisadewallicon.png" width="30" alt=""><a href="Palisade_Wall.php">木牆</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Palisadegateicon.png" width="30" alt=""><a href="Palisade_Gate.php">木門</a>
+                    <img class="gg" src="~assets/Palisadegateicon.png" width="30" alt=""><a href="Palisade_Gate.php">木門</a>
                   </li>
                 </ul>
               </div>
@@ -174,25 +174,25 @@
                  <h4><a href="Feudal_Age.php"></a>封建時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Acheryrangeicon.png" width="30" alt=""><a href="Archery_Range.php">射箭場</a>
+                    <img class="gg" src="~assets/Acheryrangeicon.png" width="30" alt=""><a href="Archery_Range.php">射箭場</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Stableicon.png" width="30" alt=""><a href="Stable.php">馬廄</a>
+                    <img class="gg" src="~assets/Stableicon.png" width="30" alt=""><a href="Stable.php">馬廄</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Blacksmithicon.png" width="30" alt=""><a href="Blacksmith.php">兵工廠</a>
+                    <img class="gg" src="~assets/Blacksmithicon.png" width="30" alt=""><a href="Blacksmith.php">兵工廠</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Marketicon.png" width="30" alt=""><a href="Market.php">市場</a>
+                    <img class="gg" src="~assets/Marketicon.png" width="30" alt=""><a href="Market.php">市場</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Watchtowericon.png" width="30" alt=""><a href="Watch_Tower.php">瞭望箭塔</a>
+                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><a href="Watch_Tower.php">瞭望箭塔</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Stonewallicon.png" width="30" alt=""><a href="Stone_Wall.php">石牆</a>
+                    <img class="gg" src="~assets/Stonewallicon.png" width="30" alt=""><a href="Stone_Wall.php">石牆</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Gateicon.png" width="30" alt=""><a href="Gateicon_Gate.php">城門</a>
+                    <img class="gg" src="~assets/Gateicon.png" width="30" alt=""><a href="Gateicon_Gate.php">城門</a>
                   </li>
                 </ul>
               </div>
@@ -202,28 +202,28 @@
                  <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Castleicon.png" width="30" alt=""><a href="Castle.php">城堡</a>
+                    <img class="gg" src="~assets/Castleicon.png" width="30" alt=""><a href="Castle.php">城堡</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Siegeworkshopicon.png" width="30" alt=""><a href="Siege_Workshop.php">攻城武器製造所</a>
+                    <img class="gg" src="~assets/Siegeworkshopicon.png" width="30" alt=""><a href="Siege_Workshop.php">攻城武器製造所</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Watchtowericon.png" width="30" alt=""><a href="Guard_Tower.php">防禦箭塔</a>
+                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><a href="Guard_Tower.php">防禦箭塔</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Stonewallicon.png" width="30" alt=""><a href="Fortified_Wall.php">垛牆</a>
+                    <img class="gg" src="~assets/Stonewallicon.png" width="30" alt=""><a href="Fortified_Wall.php">垛牆</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Monasteryicon.png" width="30" alt=""><a href="Monastery.php">修道院</a>
+                    <img class="gg" src="~assets/Monasteryicon.png" width="30" alt=""><a href="Monastery.php">修道院</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Universityicon.png" width="30" alt=""><a href="University.php">學院</a>
+                    <img class="gg" src="~assets/Universityicon.png" width="30" alt=""><a href="University.php">學院</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Towncentericon.png" width="30" alt=""><a href="Town_Center.php">城鎮中心</a>
+                    <img class="gg" src="~assets/Towncentericon.png" width="30" alt=""><a href="Town_Center.php">城鎮中心</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Dockicon.png" width="30" alt=""><a href="Harbor.php">海港</a>(馬來限定)</li>
+                    <img class="gg" src="~assets/Dockicon.png" width="30" alt=""><a href="Harbor.php">海港</a>(馬來限定)</li>
                 </ul>
               </div>
             </div>
@@ -232,16 +232,16 @@
                  <h4><a href="Imperial_Age.php"></a>帝王時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Wondericon.png" width="30" alt=""><a href="Wonder.php">世界奇觀</a>
+                    <img class="gg" src="~assets/Wondericon.png" width="30" alt=""><a href="Wonder.php">世界奇觀</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Watchtowericon.png" width="30" alt=""><a href="Keep.php">大型箭塔</a>
+                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><a href="Keep.php">大型箭塔</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Bombardtowericon.png" width="30" alt=""><a href="Bombard_Tower.php">火炮塔</a>
+                    <img class="gg" src="~assets/Bombardtowericon.png" width="30" alt=""><a href="Bombard_Tower.php">火炮塔</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Feitoriaicon.png" width="30" alt=""><a href="Feitoriaicon_Feitoria.php">港灣大商站</a>(葡萄牙限定)</li>
+                    <img class="gg" src="~assets/Feitoriaicon.png" width="30" alt=""><a href="Feitoriaicon_Feitoria.php">港灣大商站</a>(葡萄牙限定)</li>
                 </ul>
               </div>
             </div>
@@ -303,11 +303,11 @@
               <td class="tta1" style="width:10%">攜帶能力</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Wheelbarrow.jpg" width="30" alt=""><a href="Wheelbarrow.php">獨輪推車</a>(+3)</p>
+                  <img class="gg" src="~assets/Wheelbarrow.jpg" width="30" alt=""><a href="Wheelbarrow.php">獨輪推車</a>(+3)</p>
                 <p>
-                  <img class="gg" src="img/Handcart.jpg" width="30" alt=""><a href="Hand_Cart.php">手推車</a>(+7)</p>
+                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><a href="Hand_Cart.php">手推車</a>(+7)</p>
                 <p>
-                  <img class="gg" src="img/Heavyplow.jpg" width="30" alt=""><a href="Heavy_Plow.php">重犁</a>(+1)(食物限定)</p>
+                  <img class="gg" src="~assets/Heavyplow.jpg" width="30" alt=""><a href="Heavy_Plow.php">重犁</a>(+1)(食物限定)</p>
               </td>
             </tr>
             <tr>
@@ -315,88 +315,88 @@
               <td class="tta4">
                 <li>木材:</li>
                 <p>
-                  <img class="gg" src="img/Doublebitaxe.jpg" width="30" alt=""><a href="Double-Bit_Axe.php">雙刃斧</a>(+20%)</p>
+                  <img class="gg" src="~assets/Doublebitaxe.jpg" width="30" alt=""><a href="Double-Bit_Axe.php">雙刃斧</a>(+20%)</p>
                 <p>
-                  <img class="gg" src="img/Bowsaw.jpg" width="30" alt=""><a href="Bow_Saw.php">弓鋸</a>(+20%)</p>
+                  <img class="gg" src="~assets/Bowsaw.jpg" width="30" alt=""><a href="Bow_Saw.php">弓鋸</a>(+20%)</p>
                 <p>
-                  <img class="gg" src="img/Twomansaw.jpg" width="30" alt=""><a href="Two-Man_Saw.php">雙人鋸</a>(+10%)</p>
+                  <img class="gg" src="~assets/Twomansaw.jpg" width="30" alt=""><a href="Two-Man_Saw.php">雙人鋸</a>(+10%)</p>
                 <li>石頭:</li>
                 <p>
-                  <img class="gg" src="img/Stonemining.jpg" width="30" alt=""><a href="Stone_Mining.php">採石技術</a>(+15%)</p>
+                  <img class="gg" src="~assets/Stonemining.jpg" width="30" alt=""><a href="Stone_Mining.php">採石技術</a>(+15%)</p>
                 <p>
-                  <img class="gg" src="img/Stone_Shaft_Mining.jpg" width="30" alt=""><a href="Stone_Shaft_Mining.php">礦井採石</a>(+15%)</p>
+                  <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" width="30" alt=""><a href="Stone_Shaft_Mining.php">礦井採石</a>(+15%)</p>
                 <li>黃金:</li>
                 <p>
-                  <img class="gg" src="img/Goldmining.jpg" width="30" alt=""><a href="Gold Mining.php">採金技術</a>(+15%)</p>
+                  <img class="gg" src="~assets/Goldmining.jpg" width="30" alt=""><a href="Gold Mining.php">採金技術</a>(+15%)</p>
                 <p>
-                  <img class="gg" src="img/Goldshaftmining.jpg" width="30" alt=""><a href="Gold_Shaft_Mining.php">礦井採金</a>(+15%)</p>
+                  <img class="gg" src="~assets/Goldshaftmining.jpg" width="30" alt=""><a href="Gold_Shaft_Mining.php">礦井採金</a>(+15%)</p>
                 <p>
-                  <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="Sultans.php">蘇丹</a>(+10%，<a href="Indians.php">印度</a>限定)</p>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Sultans.php">蘇丹</a>(+10%，<a href="Indians.php">印度</a>限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Loom.jpg" width="30" alt=""><a href="Loom.php">織布技術</a>(+15)</p>
+                  <img class="gg" src="~assets/Loom.jpg" width="30" alt=""><a href="Loom.php">織布技術</a>(+15)</p>
                 <p>
-                  <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Supremacy.php">霸權</a>(+40，<a href="Spanish.php">西班牙</a>限定)</p>
+                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Supremacy.php">霸權</a>(+40，<a href="Spanish.php">西班牙</a>限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Sappers.jpg" width="30" alt=""><a href="Sappers.php">坑道工兵</a>(攻擊建築物和防禦工事造成的傷害+15)</p>
+                  <img class="gg" src="~assets/Sappers.jpg" width="30" alt=""><a href="Sappers.php">坑道工兵</a>(攻擊建築物和防禦工事造成的傷害+15)</p>
                 <p>
-                  <img class="gg" src="img/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="img/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Supremacy.php">霸權</a>(+6，<a href="Spanish.php">西班牙</a>限定)</p>
+                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Supremacy.php">霸權</a>(+6，<a href="Spanish.php">西班牙</a>限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Loom.jpg" width="30" alt=""><a href="Loom.php">織布技術</a>(+1/+2)</p>
+                  <img class="gg" src="~assets/Loom.jpg" width="30" alt=""><a href="Loom.php">織布技術</a>(+1/+2)</p>
                 <p>
-                  <img class="gg" src="img/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="img/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="img/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Supremacy.php">霸權</a>(+2/+2，<a href="Spanish.php">西班牙</a>限定)</p>
+                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Supremacy.php">霸權</a>(+2/+2，<a href="Spanish.php">西班牙</a>限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Wheelbarrow.jpg" width="30" alt=""><a href="Wheelbarrow.php">獨輪推車</a>(+10%)</p>
+                  <img class="gg" src="~assets/Wheelbarrow.jpg" width="30" alt=""><a href="Wheelbarrow.php">獨輪推車</a>(+10%)</p>
                 <p>
-                  <img class="gg" src="img/Handcart.jpg" width="30" alt=""><a href="Hand_Cart.php">手推車</a>(+10%)</p>
+                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><a href="Hand_Cart.php">手推車</a>(+10%)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                 </p>
                 <p>
-                  <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a>
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a>
                 </p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">其他</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill Crane.php">滑輪起重機</a>(建築速度加快30%)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill Crane.php">滑輪起重機</a>(建築速度加快30%)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
@@ -474,11 +474,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Villagerfemale.png"><img class="imgn" class="hg" src="img/Villagerfemale.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Villagerfemale.png"><img class="imgn" class="hg" src="~assets/Villagerfemale.png" alt=""></a> 
                 <p><em>女村民</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Villagermale.png"><img class="imgn" class="hg" src="img/Villagermale.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Villagermale.png"><img class="imgn" class="hg" src="~assets/Villagermale.png" alt=""></a> 
                 <p><em>男村民</em>
                 </p>
               </div>
@@ -495,7 +495,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/VillagerMaleIcon.jpg" width="45" alt="">
+                  <img src="~assets/VillagerMaleIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>

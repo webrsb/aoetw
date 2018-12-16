@@ -9,7 +9,7 @@
 
           <div class="hrn1"></div>
         </div>
-        <div class="spw"><em><img src="img/tola.jpg" width="50px;" alt="" style="margin-right:20px;">怎麼說呢：此頁面含有大量個人觀點。</em>
+        <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">怎麼說呢：此頁面含有大量個人觀點。</em>
 
         </div>
         <div class="col-md-12">

@@ -85,7 +85,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Goldshaftmining.jpg" width="45" alt="">
+                  <img src="~assets/Goldshaftmining.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -102,19 +102,19 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Miningcampicon.png" alt=""><a href="Mining_Camp.php">採礦營地</a>
+                <img class="gg" src="~assets/Miningcampicon.png" alt=""><a href="Mining_Camp.php">採礦營地</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Goldmining.jpg" alt=""><a href="Gold_Mining.php">採金技術</a>
+                <img class="gg" src="~assets/Goldmining.jpg" alt=""><a href="Gold_Mining.php">採金技術</a>
               </td>
             </tr>
             <tr>

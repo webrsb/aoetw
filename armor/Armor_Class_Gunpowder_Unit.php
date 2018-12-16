@@ -24,36 +24,36 @@
           <div class="n1">下列的單位都是火藥系單位
             <ul>
               <li>
-                <img class="gg" style="margin: 2px;" src="img/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>
+                <img class="gg" style="margin: 2px;" src="~assets/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>
 
               </li>
               <li>
-                <img class="gg" style="margin: 2px;" src="img/Bombardtowericon.png" alt=""><a href="Bombard_Cannon.php">火炮</a>
+                <img class="gg" style="margin: 2px;" src="~assets/Bombardtowericon.png" alt=""><a href="Bombard_Cannon.php">火炮</a>
 
               </li>
               <li>
-                <img class="gg" src="img/JanissaryIcon.jpg" alt=""> <a href="Janissary.php">土耳其火槍兵</a>→
-                <img class="gg" src="img/JanissaryIcon.jpg"
+                <img class="gg" src="~assets/JanissaryIcon.jpg" alt=""> <a href="Janissary.php">土耳其火槍兵</a>→
+                <img class="gg" src="~assets/JanissaryIcon.jpg"
                 alt=""> <a href="Janissary.php">精銳土耳其火槍兵</a>(<a href="Turks.php">土耳其</a>限定)</li>
               <li>
-                <img class="gg" src="img/ConquistadorIcon.jpg" alt=""> <a href="Conquistador.php">征服者</a>→
-                <img class="gg" src="img/ConquistadorIcon.jpg"
+                <img class="gg" src="~assets/ConquistadorIcon.jpg" alt=""> <a href="Conquistador.php">征服者</a>→
+                <img class="gg" src="~assets/ConquistadorIcon.jpg"
                 alt=""> <a href="Conquistador.php">精銳征服者</a>(<a href="Spanish.php">西班牙</a>限定)</li>
               <li>
-                <img class="gg" src="img/OrganGunIcon.jpg" alt=""> <a href="OrganGunIcon.php">風琴炮</a>→
-                <img class="gg" src="img/OrganGunIcon.jpg"
+                <img class="gg" src="~assets/OrganGunIcon.jpg" alt=""> <a href="OrganGunIcon.php">風琴炮</a>→
+                <img class="gg" src="~assets/OrganGunIcon.jpg"
                 alt=""> <a href="OrganGunIcon.php">精銳風琴炮</a>(<a href="Portugese.php">葡萄牙</a>限定)</li>
               <li>
-                <img class="gg" src="img/CannonGalleonIcon.jpg" alt=""> <a href="Cannon_Galleon.php">火炮戰船</a>→
-                <img class="gg" src="img/CannonGalleonIcon.jpg"
+                <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""> <a href="Cannon_Galleon.php">火炮戰船</a>→
+                <img class="gg" src="~assets/CannonGalleonIcon.jpg"
                 alt=""> <a href="Cannon_Galleon.php">精銳火炮戰船</a> 
               </li>
               <li>
-                <img class="gg" src="img/TurtleShipIcon.jpg" alt=""> <a href="Turtleship.php">龜甲船</a>→
-                <img class="gg" src="img/TurtleShipIcon.jpg"
+                <img class="gg" src="~assets/TurtleShipIcon.jpg" alt=""> <a href="Turtleship.php">龜甲船</a>→
+                <img class="gg" src="~assets/TurtleShipIcon.jpg"
                 alt=""> <a href="Turtleship.php">精銳龜甲船</a>(<a href="Koreans.php">韓國</a>限定)</li>
               <li>
-                <img class="gg" style="margin: 2px;" src="img/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a>
+                <img class="gg" style="margin: 2px;" src="~assets/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a>
 
               </li>
             </ul>
@@ -68,7 +68,7 @@
               </div>
               <ul>
                 <li>
-                  <img class="gg" style="margin: 2px;" src="img/CondottieroNewIcon.jpg"
+                  <img class="gg" style="margin: 2px;" src="~assets/CondottieroNewIcon.jpg"
                   alt=""><a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</li>
               </ul>
             </div>

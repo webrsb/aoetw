@@ -58,7 +58,7 @@
                 "> <ul><li> 阿提拉必須擊敗意大利北部的米蘭，帕度亞，阿奎利亞和佛羅蘭等城市。 他們每個人都會建立一個世界奇觀（帕度亞則會建造兩個，第二次會在佛羅蘭城市裡），玩家必須在時間耗盡之前破壞世界奇觀。 作為匈奴人，無神論技術對延長倒數計時非常有用。 在摧毀了某個特定城市的世界奇觀之後，他們會在你摧毀城鎮中心時投降。<li>一旦所有的敵軍被擊敗，阿提拉就必須親自前往西羅馬帝國的城市與李奧教皇談一談。</li><li>這種戰役是西羅馬帝國唯一一次是阿提拉的盟友，阿提拉不需要打敗他們以贏得勝利。米蘭的城市名稱是錯誤的，因為當時米蘭不在哥德或倫巴第人的控制之下，所以把它命名為Mediolanum更為正確。</li><li>而遊戲中的不列顛人，塞爾特人，法蘭克人和條頓人作為敵對文明的使用更加不正確。(尤其阿奎利亞人後來逃難建立威尼斯共和國)，義大利文明直到2013年HD版失落帝國資料片才登場。這可能是因為開發者想讓玩家可以面對各種各樣的敵方單位，並看到不同的世界奇觀，以避免戰役冗餘無聊。</li></ul></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">羅馬的衰落</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/Attila.6.jpg " width="
+                ">羅馬的衰落</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Attila.6.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
@@ -71,7 +71,7 @@
                 ">征服者第一章之六</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="Catalaunian_Fields.php
                 ">卡塔隆尼亞平原</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4
                 ">        <a href=>N/A</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，竺叡，賜齡協助編輯     </div>     <div class="wiki
-                " style="margin-top: 5px; "><div style="float: left; "><img src="img/Wikipedia-logo.png
+                " style="margin-top: 5px; "><div style="float: left; "><img src="~assets/Wikipedia-logo.png
                 " width="50 " height="46 "></div><div style="margin-left: 60px;
                 ">維基百科上的李奧教皇<div style="margin-left: 10px; "><i><strong><a href="https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96
                 ">李奧教皇</a></strong></i></div></div> </div>  </div></div> <div class="row ">  <div class="col-md-12

@@ -83,40 +83,40 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img src="img/Unique-tech.jpg" class="gg" alt=""><a href="Manipur Cavalry.php">曼尼普爾騎兵</a>:對<a href="Armor_Class_Standard_Building.php">標準建築</a>和
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Manipur Cavalry.php">曼尼普爾騎兵</a>:對<a href="Armor_Class_Standard_Building.php">標準建築</a>和
                 <a
                 href="Armor_Class_Building.php">建築物</a>攻擊+3，<a href="Burmese.php">緬甸</a>限定。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img src="img/Ballistics.jpg" class="gg" alt=""><a href="Ballistics.php">彈道學</a>:可提升弓兵、馬騎弓兵、戰船、城堡、箭塔、特殊騎乘對移動中目標命中率</td>
+                <img src="~assets/Ballistics.jpg" class="gg" alt=""><a href="Ballistics.php">彈道學</a>:可提升弓兵、馬騎弓兵、戰船、城堡、箭塔、特殊騎乘對移動中目標命中率</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img src="img/Paddedarcherarmor.jpg" class="gg" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)</td>
+                <img src="~assets/Paddedarcherarmor.jpg" class="gg" alt=""><a href="Padded_Archer_Armor.php">弓兵布甲</a>(+1/+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img src="img/Husbandry.jpg" class="gg" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img src="~assets/Husbandry.jpg" class="gg" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
-                <img src="img/Faith.jpg" class="gg" alt=""><a href="Faith.php">忠誠信仰</a> 
+                <img src="~assets/Faith.jpg" class="gg" alt=""><a href="Faith.php">忠誠信仰</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
-                <img src="img/Conscription.jpg" class="gg" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
+                <img src="~assets/Conscription.jpg" class="gg" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
             </tr>
           </table>
            <h3>文明加成</h3>
@@ -183,7 +183,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Arambaiicon.png" width="45" alt="">
+                  <img src="~assets/Arambaiicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -207,14 +207,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
 
               </td>
             </tr>
@@ -308,12 +308,12 @@
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img class="gg" src="img/Arambaiicon.png" alt="">飛鏢騎兵</td>
+                <img class="gg" src="~assets/Arambaiicon.png" alt="">飛鏢騎兵</td>
             </tr>
             <tr>
               <td class="unit3">升級成本</td>
               <td class="unit4">
-                <img class="gg" src="img/Elite-unique-research.jpg" alt="">1100食物675黃金</td>
+                <img class="gg" src="~assets/Elite-unique-research.jpg" alt="">1100食物675黃金</td>
             </tr>
             <tr>
               <td class="unit3">升級時間</td>
@@ -328,23 +328,23 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/2018sa.png"><img  class="imgn" class="hg" width="250" src="img/2018sa.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/2018sa.png"><img  class="imgn" class="hg" width="250" src="~assets/2018sa.png" alt=""></a> 
                 <p><em>一群飛鏢騎兵</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Arambai_darts.jpg"><img  class="imgn" class="hg" width="250" src="img/Arambai_darts.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Arambai_darts.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Arambai_darts.jpg" alt=""></a> 
                 <p><em>飛鏢</em>
 
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Arambai_attacking.jpg"><img  class="imgn" class="hg" width="250" src="img/Arambai_attacking.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Arambai_attacking.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Arambai_attacking.jpg" alt=""></a> 
                 <p><em>飛鏢騎兵的攻擊方式是丟飛鏢</em>
 
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Meitei_horsemen.jpg"><img  class="imgn" class="hg" width="250" src="img/Meitei_horsemen.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="img/Meitei_horsemen.jpg"><img  class="imgn" class="hg" width="250" src="~assets/Meitei_horsemen.jpg" alt=""></a> 
                   <p><em>騎在小馬上的曼尼普爾騎兵。</em>
 
                   </p>

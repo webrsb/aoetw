@@ -14,7 +14,7 @@
             <p>老鷹開局為阿拉伯打法之一，為封建出鷹斥侯，而鷹斥侯除了比較怕裝甲步兵外，其弱點較小，過度封建後將給對方極大的壓力。</p>
             <ul>
               <li>
-                <img src="img/EagleScoutIcon.jpg" width="30px" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>：速度快，不怕槍兵、矛兵、斥侯與少量弓兵，上城堡後威力倍增。</li>
+                <img src="~assets/EagleScoutIcon.jpg" width="30px" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>：速度快，不怕槍兵、矛兵、斥侯與少量弓兵，上城堡後威力倍增。</li>
               </li>
             </ul>
           </div>
@@ -104,7 +104,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="45px" src="img/EagleScoutIcon.jpg" alt="">
+                  <img width="45px" src="~assets/EagleScoutIcon.jpg" alt="">
                 </div>
               </td>
             </tr>

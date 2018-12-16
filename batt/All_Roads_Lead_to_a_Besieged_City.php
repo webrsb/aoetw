@@ -68,7 +68,7 @@
                 "> <ul>  <li>戰役裡的阿拉里克一世其實是從地圖編輯器裡面的哥德人狄奧多利克改名而來。</li><li>原版非官方的失落帝國版本裡，玩家在地圖最北方會有一個強弩兵，用來防止玩家過早被擊敗。(就像成吉思汗戰役第一關嚴酷的考驗一樣)。</li><li>戰役名稱來源於名言:條條大路通羅馬。</li><li>這個戰役的歷史背景是遊戲中最早的。</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">條條大路通圍城</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/Alaric 1.jpg " width="
+                ">條條大路通圍城</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 1.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3

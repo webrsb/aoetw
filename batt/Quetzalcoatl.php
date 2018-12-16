@@ -19,16 +19,16 @@
             <h3>基本資訊</h3> 
             <ul>
               <li>起始時代:
-                <img src="img/Imperial-age-research.jpg" class="gg" alt="">帝王時代(難度:標準)；
-                <img src="img/Castle-age-reseach.jpg" class="gg" alt="">城堡時代(難度:中、難)</li>
+                <img src="~assets/Imperial-age-research.jpg" class="gg" alt="">帝王時代(難度:標準)；
+                <img src="~assets/Castle-age-reseach.jpg" class="gg" alt="">城堡時代(難度:中、難)</li>
               <li>起始資源:木頭:200，食物:200，黃金:200，石頭:200</li>
               <li>人口上限:75</li>
               <li>開場擁有單位:
                 <ul>
                   <li>
-                    <img src="img/VillagerMaleIcon.jpg" class="gg" alt="">村民6個</li>
+                    <img src="~assets/VillagerMaleIcon.jpg" class="gg" alt="">村民6個</li>
                   <li>
-                    <img src="img/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士1個</li>
+                    <img src="~assets/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士1個</li>
                 </ul>
               </li>
               <li>大地之母單位:無</li>
@@ -121,7 +121,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/蒙特蘇馬三.png" width="" alt="">
+                  <img src="~assets/蒙特蘇馬三.png" width="" alt="">
                 </div>
               </td>
             </tr>

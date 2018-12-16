@@ -23,12 +23,12 @@
             </div>
             <ul>
               <li>
-                <img src="img/Prithviicon.png" width="22" alt="">布里斯比羅吉(<a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>)</li>
+                <img src="~assets/Prithviicon.png" width="22" alt="">布里斯比羅吉(<a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>)</li>
               <li>
-                <img src="img/Prithviicon.png" width="22" alt=""><a href="Prithvi.php"> 布里斯比</a>(<a href="Crossbowman.php">弩兵)</a>
+                <img src="~assets/Prithviicon.png" width="22" alt=""><a href="Prithvi.php"> 布里斯比</a>(<a href="Crossbowman.php">弩兵)</a>
               </li>
               <li>
-                <img src="img/Sheriffofnottinghamicon.png" width="22" alt="">布里斯比羅吉(<a href="Long_Swordsman.php">長劍兵</a>)</li>
+                <img src="~assets/Sheriffofnottinghamicon.png" width="22" alt="">布里斯比羅吉(<a href="Long_Swordsman.php">長劍兵</a>)</li>
             </ul>
             <p>在整個戰役中，主要都是以重裝馬弓騎兵的形象出現。</p>
           </div>
@@ -44,7 +44,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Prithviicon.png" width="80" alt="">
+                  <img src="~assets/Prithviicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -134,7 +134,7 @@
           <div class="thanks">感謝! 此頁面由Falcon6164協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的布里斯比羅吉
               <div style="margin-left: 10px;"><i><strong><a href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan">布里陀毗羅闍三世</a></strong></i>

@@ -76,7 +76,7 @@
                 "> <ul>  <li>此關是成吉思汗本人唯一出現在劇情的關卡。</li><li>本頁面保留原版翻譯的部落名稱，HD版目前漢化名稱比較:加拉凱台→西遼，克里依特→克烈，泰依齊烏特→泰赤烏，烏依古爾→回鶻(ㄏㄨˊ)，紐曼→乃蠻，安吉特拉→弘吉刺。</li><li>此關是唯一原始外交狀態沒有(敵對)的關卡。</li><li>在取得初始的輕騎兵、馬騎弓兵之前，玩家擁有一名弓箭手，在靠近克里依特人的樹林中，避免玩家因為沒有單位而自動輸掉遊戲。</li><li>你可以把同盟部落的外交關係改為中立，然後一一招降他們的單位，如此一來便不用施恩給這些部落以換取他們的部隊。這招在對付泰依齊烏特與紐曼時特別有用。</li><li>試圖招降加拉凱台四散在地圖上的部隊也可以補充你的軍力，然而這有點困難、需要一點運氣。</li><li>雖然克里依特人顯示為土耳其人、烏依古爾人則是蒙古人，但事實上是相反的。克里依特 實際上像其他部族一樣是蒙古部落，而烏依古爾人/安吉特拉人則是突厥人。</li><li>在比較舊的版本中（直到1.0c或1.0e)成吉思汗有機會被他的部隊留在可控制範圍內，讓他可以被玩家操作，這樣一來任務就無比簡單了。</li><li>歷史上，成吉思汗是乞顏部人的一員。</li></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">嚴酷的考驗</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/Crucible.png " width="
+                ">嚴酷的考驗</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Crucible.png " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3

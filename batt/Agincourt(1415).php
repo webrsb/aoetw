@@ -142,7 +142,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Agincour.jpg" width="" alt="">
+                  <img src="~assets/Agincour.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -189,7 +189,7 @@
             <div class="col-md-12">
               <div class="wiki" style="margin-top: 5px;">
                 <div style="float: left;">
-                  <img src="img/Wikipedia-logo.png" width="50" height="46">
+                  <img src="~assets/Wikipedia-logo.png" width="50" height="46">
                 </div>
                 <div style="margin-left: 60px;">維基百科的亞琴哥特戰役與亨利五世
                   <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%91%E5%BA%93%E5%B0%94%E6%88%98%E5%BD%B9">亞琴哥特</a></b></i>

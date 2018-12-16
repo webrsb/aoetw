@@ -25,7 +25,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="200" src="img/Ostrichhunt.png" alt="">
+                <img class="hg" width="200" src="~assets/Ostrichhunt.png" alt="">
                 <p><em>村民正在獵捕鴕鳥。</em>
                 </p>
               </div>
@@ -43,7 +43,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Ostrich.png" width="80" alt="">
+                  <img src="~assets/Ostrich.png" width="80" alt="">
                 </div>
               </td>
             </tr>

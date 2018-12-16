@@ -12,7 +12,7 @@
           <div class="n1">
             <p>科摩多巨蜥是一種食肉動物，牠會主動攻擊玩家的單位。由王者崛起引入，牠是世界上最大的蜥蜴物種，存在於東南亞地區。科摩多巨蜥是幾種會攻擊玩家的動物之一，牠身上沒有食物來源，牠打的贏沒有織布技術的村民。</p>
             <img
-            src="img/KomodoPair.png" alt="">
+            src="~assets/KomodoPair.png" alt="">
           </div>
         </div>
         <div class="col-md-4">
@@ -26,7 +26,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/KomodoIcon.png" width="80" alt="">
+                  <img src="~assets/KomodoIcon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -47,7 +47,7 @@
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的科摩多巨蜥
               <div style="margin-left: 10px;"><i><b><a href="http://tinyurl.com/ybolosnk">科摩多巨蜥</a></b></i>

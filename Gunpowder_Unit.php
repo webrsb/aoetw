@@ -50,7 +50,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php">火槍兵</a>
+                  <img class="gg" src="~assets/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php">火槍兵</a>
                 </td>
                 <td class="tta3">35</td>
                 <!--生命值!-->
@@ -71,7 +71,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/BombardCannonIcon.jpg"><a href="Bombard_Cannon.php">火炮</a>
+                  <img class="gg" src="~assets/BombardCannonIcon.jpg"><a href="Bombard_Cannon.php">火炮</a>
                 </td>
                 <td class="tta3">80</td>
                 <!--生命值!-->
@@ -92,7 +92,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CannonGalleonIcon.jpg"><a href="Cannon_Galleon.php">火炮戰船</a>
+                  <img class="gg" src="~assets/CannonGalleonIcon.jpg"><a href="Cannon_Galleon.php">火炮戰船</a>
                 </td>
                 <td class="tta3">120</td>
                 <!--生命值!-->
@@ -113,7 +113,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CannonGalleonIcon.jpg"><a href="Cannon_Galleon.php">精銳火炮戰船</a>
+                  <img class="gg" src="~assets/CannonGalleonIcon.jpg"><a href="Cannon_Galleon.php">精銳火炮戰船</a>
                 </td>
                 <td class="tta3">150</td>
                 <!--生命值!-->
@@ -134,7 +134,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">龜甲船</a>
+                  <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">龜甲船</a>
                 </td>
                 <td class="tta3">200</td>
                 <!--生命值!-->
@@ -155,7 +155,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">精銳龜甲船</a>
+                  <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">精銳龜甲船</a>
                 </td>
                 <td class="tta3">300</td>
                 <!--生命值!-->
@@ -176,7 +176,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/JanissaryIcon.jpg"><a href="Janissary.php">土耳其火槍兵</a>
+                  <img class="gg" src="~assets/JanissaryIcon.jpg"><a href="Janissary.php">土耳其火槍兵</a>
                 </td>
                 <td class="tta3">35</td>
                 <!--生命值!-->
@@ -197,7 +197,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/JanissaryIcon.jpg"><a href="Janissary.php">精銳土耳其火槍兵</a>
+                  <img class="gg" src="~assets/JanissaryIcon.jpg"><a href="Janissary.php">精銳土耳其火槍兵</a>
                 </td>
                 <td class="tta3">40</td>
                 <!--生命值!-->
@@ -218,7 +218,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ConquistadorIcon.jpg"><a href="Conquistador.php">征服者</a>
+                  <img class="gg" src="~assets/ConquistadorIcon.jpg"><a href="Conquistador.php">征服者</a>
                 </td>
                 <td class="tta3">55</td>
                 <!--生命值!-->
@@ -239,7 +239,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ConquistadorIcon.jpg"><a href="Conquistador.php">精銳征服者</a>
+                  <img class="gg" src="~assets/ConquistadorIcon.jpg"><a href="Conquistador.php">精銳征服者</a>
                 </td>
                 <td class="tta3">70</td>
                 <!--生命值!-->
@@ -260,7 +260,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/OrganGunIcon.jpg"><a href="Organ_Gun.php">風琴炮</a>
+                  <img class="gg" src="~assets/OrganGunIcon.jpg"><a href="Organ_Gun.php">風琴炮</a>
                 </td>
                 <td class="tta3">60</td>
                 <!--生命值!-->
@@ -281,7 +281,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/OrganGunIcon.jpg"><a href="Organ_Gun.php">精銳風琴炮</a>
+                  <img class="gg" src="~assets/OrganGunIcon.jpg"><a href="Organ_Gun.php">精銳風琴炮</a>
                 </td>
                 <td class="tta3">70</td>
                 <!--生命值!-->
@@ -307,7 +307,7 @@
             <h3>圖庫</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <div class="col-md-4"> <a href="img/Gunpowder.png"><img class="imgn" class="hg" width="180" src="img/Gunpowder.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Gunpowder.png"><img class="imgn" class="hg" width="180" src="~assets/Gunpowder.png" alt=""></a> 
                 <div
                 class="lightbox-caption" style="width:220px" ;>
                   <p><em>所有火藥單位(非洲王朝資料片)。</em>

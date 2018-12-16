@@ -15,7 +15,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
-                <div class="unititle2"><a href=""><img src="img/KingsIcon.png" style="margin-right:5px">帝王時代</a>
+                <div class="unititle2"><a href=""><img src="~assets/KingsIcon.png" style="margin-right:5px">帝王時代</a>
 
                 </div>
               </td>
@@ -77,7 +77,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
-                <div class="unititle2"><a href=""><img src="img/ConquerorsIcon.png" style="margin-right:5px">征服者戰役</a>
+                <div class="unititle2"><a href=""><img src="~assets/ConquerorsIcon.png" style="margin-right:5px">征服者戰役</a>
 
                 </div>
               </td>
@@ -128,7 +128,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
-                <div class="unititle2"><a href=""><img src="img/ForgottenIcon.png" style="margin-right:5px">失落帝國戰役</a>
+                <div class="unititle2"><a href=""><img src="~assets/ForgottenIcon.png" style="margin-right:5px">失落帝國戰役</a>
 
                 </div>
               </td>
@@ -202,7 +202,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
-                <div class="unititle2"><a href=""><img src="img/AfricanIcon.png" style="margin-right:5px">非洲王國戰役</a>
+                <div class="unititle2"><a href=""><img src="~assets/AfricanIcon.png" style="margin-right:5px">非洲王國戰役</a>
 
                 </div>
               </td>
@@ -245,7 +245,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
-                <div class="unititle2"><a href=""><img src="img/RajaIcon.png" style="margin-right:5px">王者崛起戰役</a>
+                <div class="unititle2"><a href=""><img src="~assets/RajaIcon.png" style="margin-right:5px">王者崛起戰役</a>
 
                 </div>
               </td>

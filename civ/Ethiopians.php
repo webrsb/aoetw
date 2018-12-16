@@ -28,14 +28,14 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/ShotelIcon.png" alt="">彎刀勇士:快速、高攻擊、生產速度快但脆弱的步兵</li>
+                <img class="gg" src="~assets/ShotelIcon.png" alt="">彎刀勇士:快速、高攻擊、生產速度快但脆弱的步兵</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">皇族血脈：彎刀勇士生產時間減半，從8秒減為4秒。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">皇族血脈：彎刀勇士生產時間減半，從8秒減為4秒。</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">帝王時代：<a href="Torsion_Engines.php">扭力彈射器</a>：攻城單位的攻擊範圍增加。</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">帝王時代：<a href="Torsion_Engines.php">扭力彈射器</a>：攻城單位的攻擊範圍增加。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
@@ -82,7 +82,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/1516604132876.jpg" width="300px;" alt="">
+                  <img src="~assets/1516604132876.jpg" width="300px;" alt="">
                   <p><em>衣索比亞石頭教堂</em>
                   </p>
                 </div>
@@ -104,7 +104,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/ShotelIcon.png">彎刀勇士</td>
+                <img class="gg" src="~assets/ShotelIcon.png">彎刀勇士</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -113,9 +113,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">皇族血脈
+                <img class="gg" src="~assets/CastleAgeUnique.png">皇族血脈
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg"><a href="Torsion_Engines.php">扭力彈射器</a>
+                <img class="gg" src="~assets/Unique-tech.jpg"><a href="Torsion_Engines.php">扭力彈射器</a>
               </td>
             </tr>
           </table>

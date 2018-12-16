@@ -24,17 +24,17 @@
             <p>葡萄牙較不擅長能夠快速移動的騎兵民族，但優良的特殊科技使得在面對步兵系民族的時候擁有不錯的效果。</p>
             <h3>特殊單位</h3>
             <li>
-              <img class="gg" src="img/OrganGunIcon.jpg" alt="">手風琴砲:可射出一排子彈的攻城武器，擅於掃射大量敵軍。</li>
+              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="">手風琴砲:可射出一排子彈的攻城武器，擅於掃射大量敵軍。</li>
             <li>
-              <img class="gg" src="img/CaravelIcon2.jpg" alt="">卡拉維爾戰船:葡萄牙特色槳帆戰船，擅於攻擊敵軍大群艦隊，因為每一砲都能打擊多艘敵船。</li>
+              <img class="gg" src="~assets/CaravelIcon2.jpg" alt="">卡拉維爾戰船:葡萄牙特色槳帆戰船，擅於攻擊敵軍大群艦隊，因為每一砲都能打擊多艘敵船。</li>
             <h3>特殊建築</h3>
             <li>
-              <img class="gg" src="img/Feitoriaicon.png" alt="">港灣大商站:經濟建築，不需要村民能自動產生資源的建築。需要占用20人口。</li>
+              <img class="gg" src="~assets/Feitoriaicon.png" alt="">港灣大商站:經濟建築，不需要村民能自動產生資源的建築。需要占用20人口。</li>
             <h3>特殊科技</h3>
             <li>
-              <img class="gg" src="img/CastleAgeUnique.png" alt="">克拉克帆船:船的盔甲與遠距裝甲值分別 +1。</li>
+              <img class="gg" src="~assets/CastleAgeUnique.png" alt="">克拉克帆船:船的盔甲與遠距裝甲值分別 +1。</li>
             <li>
-              <img class="gg" src="img/Unique-tech.jpg" alt="">火繩槍:火藥單位均受益於彈道學，使火藥單位針對移動中的單位也有較好的命中率。</li>
+              <img class="gg" src="~assets/Unique-tech.jpg" alt="">火繩槍:火藥單位均受益於彈道學，使火藥單位針對移動中的單位也有較好的命中率。</li>
           </div>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
@@ -88,7 +88,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Portuguese_preview.png"><img class="imgn" class="hg" src="img/Portuguese_preview.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Portuguese_preview.png"><img class="imgn" class="hg" src="~assets/Portuguese_preview.png" alt=""></a> 
                 <p><em>葡萄牙海軍</em>
                 </p>
               </div>
@@ -112,7 +112,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Belem.JPG" width="250" alt="">
+                  <img src="~assets/Belem.JPG" width="250" alt="">
                   <p><em>位於葡萄牙里斯本的-貝倫塔</em>
                   </p>
                 </div>
@@ -134,14 +134,14 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/OrganGunIcon.jpg">手風琴砲
+                <img class="gg" src="~assets/OrganGunIcon.jpg">手風琴砲
                 <br>
-                <img class="gg" src="img/CaravelIcon2.jpg">卡拉維爾戰船</td>
+                <img class="gg" src="~assets/CaravelIcon2.jpg">卡拉維爾戰船</td>
             </tr>
             <tr>
               <td class="unit3">特殊建築</td>
               <td class="unit4">
-                <img class="gg" src="img/Feitoriaicon.png">港灣大商站</td>
+                <img class="gg" src="~assets/Feitoriaicon.png">港灣大商站</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -150,9 +150,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">克拉克帆船
+                <img class="gg" src="~assets/CastleAgeUnique.png">克拉克帆船
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">火繩槍</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">火繩槍</td>
             </tr>
           </table>
           <div class="thanks">此頁面由阿幹協助編輯</div>

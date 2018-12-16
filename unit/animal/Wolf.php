@@ -15,7 +15,7 @@
             <p><a href="Ornlu_the_Wolf">灰狼歐魯</a>是狼的英雄，有20個攻擊與400的生命值。</p>
             <p>遊戲難易度會影響狼的視野，最簡單的是遊戲是6，中等與困難的是12。</p>
             <p>馬扎爾的村民可以一擊殺狼。</p>
-            <img src="img/AoE2_wolf.png" alt="">
+            <img src="~assets/AoE2_wolf.png" alt="">
           </div>
         </div>
         <div class="col-md-4">
@@ -29,7 +29,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Wolf-icon-aoe2.jpg" width="80" alt="">
+                  <img src="~assets/Wolf-icon-aoe2.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -50,7 +50,7 @@
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的狼
               <div style="margin-left: 10px;"><i><b><a href="http://tinyurl.com/y9thg6vb">狼</a></b></i>

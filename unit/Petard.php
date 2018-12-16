@@ -35,42 +35,42 @@
           <div class="col-md-6">
             <div class="n1"> <strong>沒有研究攻城工程師</strong>
               <ul>括號內為研發磚瓦技術與建築學後
-                <li><a href="Town_Center.php"><img class="gg" src="img/Towncentericon.png" alt="">城鎮中心</a>:5(6)</li>
+                <li><a href="Town_Center.php"><img class="gg" src="~assets/Towncentericon.png" alt="">城鎮中心</a>:5(6)</li>
                 <li>
-                  <img class="gg" src="img/Stonewallicon.png" alt=""><a href="Stone_Wall.php">石牆</a>:2</li>
+                  <img class="gg" src="~assets/Stonewallicon.png" alt=""><a href="Stone_Wall.php">石牆</a>:2</li>
                 <li>
-                  <img class="gg" src="img/Stonewallicon.png" alt=""><a href="Fortified_Wall.php">垛牆</a>:2</li>
+                  <img class="gg" src="~assets/Stonewallicon.png" alt=""><a href="Fortified_Wall.php">垛牆</a>:2</li>
                 <li>
-                  <img class="gg" src="img/Watchtowericon.png" alt=""><a href="Watch_Tower.php">暸望箭塔</a>:2(3)</li>
+                  <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Watch_Tower.php">暸望箭塔</a>:2(3)</li>
                 <li>
-                  <img class="gg" src="img/Watchtowericon.png" alt=""><a href="Guard_Tower.php">防禦箭塔</a>:3(4)</li>
+                  <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Guard_Tower.php">防禦箭塔</a>:3(4)</li>
                 <li>
-                  <img class="gg" src="img/Watchtowericon.png" alt=""><a href="Keep.php">大型箭塔</a>:5(6)</li>
+                  <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Keep.php">大型箭塔</a>:5(6)</li>
                 <li>
-                  <img class="gg" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>:8(12)</li>
+                  <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>:8(12)</li>
                 <li>
-                  <img class="gg" src="img/Wondericon.png" alt=""><a href="Wonder.php">世界奇觀</a>:10(12)</li>
+                  <img class="gg" src="~assets/Wondericon.png" alt=""><a href="Wonder.php">世界奇觀</a>:10(12)</li>
               </ul>
             </div>
           </div>
           <div class="col-md-6">
             <div class="n1"> <strong>研究攻城工程師</strong>
               <ul>括號內為研發磚瓦技術與建築學後
-                <li><a href="Town_Center.php"><img class="gg" src="img/Towncentericon.png" alt="">城鎮中心</a>:4(5)</li>
+                <li><a href="Town_Center.php"><img class="gg" src="~assets/Towncentericon.png" alt="">城鎮中心</a>:4(5)</li>
                 <li>
-                  <img class="gg" src="img/Stonewallicon.png" alt=""><a href="Stone_Wall.php">石牆</a>:2</li>
+                  <img class="gg" src="~assets/Stonewallicon.png" alt=""><a href="Stone_Wall.php">石牆</a>:2</li>
                 <li>
-                  <img class="gg" src="img/Stonewallicon.png" alt=""><a href="Fortified_Wall.php">垛牆</a>:2(3)</li>
+                  <img class="gg" src="~assets/Stonewallicon.png" alt=""><a href="Fortified_Wall.php">垛牆</a>:2(3)</li>
                 <li>
-                  <img class="gg" src="img/Watchtowericon.png" alt=""><a href="Watch_Tower.php">暸望箭塔</a>:2</li>
+                  <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Watch_Tower.php">暸望箭塔</a>:2</li>
                 <li>
-                  <img class="gg" src="img/Watchtowericon.png" alt=""><a href="Guard_Tower.php">防禦箭塔</a>:3</li>
+                  <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Guard_Tower.php">防禦箭塔</a>:3</li>
                 <li>
-                  <img class="gg" src="img/Watchtowericon.png" alt=""><a href="Keep.php">大型箭塔</a>:4</li>
+                  <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Keep.php">大型箭塔</a>:4</li>
                 <li>
-                  <img class="gg" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>:7(9)</li>
+                  <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>:7(9)</li>
                 <li>
-                  <img class="gg" src="img/Wondericon.png" alt=""><a href="Wonder.php">世界奇觀</a>:7(9)</li>
+                  <img class="gg" src="~assets/Wondericon.png" alt=""><a href="Wonder.php">世界奇觀</a>:7(9)</li>
               </ul>
             </div>
           </div>
@@ -101,7 +101,7 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+40%。
+                <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+40%。
                 <br>
               </td>
             </tr>
@@ -109,15 +109,15 @@
               <tr>
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                   <br>
-                  <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">生產速度</td>
                 <td class="tta4">
-                  <img class="gg" src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
+                  <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
               </tr>
           </table>
           <h3>文明加成</h3>
@@ -169,7 +169,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/PetardIcon.jpg" width="45" alt="">
+                  <img src="~assets/PetardIcon.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -189,13 +189,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
               </td>
             </tr>
             <tr>
@@ -274,7 +274,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Petard.png"><img class="imgn" class="hg" src="img/Petard.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Petard.png"><img class="imgn" class="hg" src="~assets/Petard.png" alt=""></a> 
               <p><em>一群爆炸桶</em>
               </p>
             </div>

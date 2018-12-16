@@ -19,7 +19,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Screenshot_2017-08-01_at_9.12.23_AM.png" width="300" alt="">
+          <img src="~assets/Screenshot_2017-08-01_at_9.12.23_AM.png" width="300" alt="">
            <h4>倫巴地地圖</h4> 
         </div>
       </div>

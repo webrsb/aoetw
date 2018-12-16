@@ -99,7 +99,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Lord_of_arabia.png" width="" alt="">
+                  <img src="~assets/Lord_of_arabia.png" width="" alt="">
                 </div>
               </td>
             </tr>

@@ -63,7 +63,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Scalebardingarmor.jpg" width="45" alt="">
+                  <img src="~assets/Scalebardingarmor.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -90,7 +90,7 @@
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Chainbardingarmor.jpg" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>
+                <img class="gg" src="~assets/Chainbardingarmor.jpg" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>
               </td>
             </tr>
             <tr>

@@ -98,7 +98,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Wallacelc7map.png" width="" alt="">
+                  <img src="~assets/Wallacelc7map.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -132,7 +132,7 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="Forge_an_Alliance.php">締結同盟</td>      </tr>      <tr>        <td class="unit3">下一關</td>       <td class="unit4">       N/A        </td>      </tr>  </table>     <div class="thanks">       感謝! 此頁面由裕暉，亞諭協助編輯     </div><div class="wiki" style="margin-top: 5px;"><div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div><div style="margin-left: 60px;">維基百科上的福爾克之役<div style="margin-left: 10px;"><em><strong><a href="http://tinyurl.com/ydyhnwd4">史特靈橋之役</a>
+              <td class="unit4"> <a href="Forge_an_Alliance.php">締結同盟</td>      </tr>      <tr>        <td class="unit3">下一關</td>       <td class="unit4">       N/A        </td>      </tr>  </table>     <div class="thanks">       感謝! 此頁面由裕暉，亞諭協助編輯     </div><div class="wiki" style="margin-top: 5px;"><div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div><div style="margin-left: 60px;">維基百科上的福爾克之役<div style="margin-left: 10px;"><em><strong><a href="http://tinyurl.com/ydyhnwd4">史特靈橋之役</a>
                 </strong>
                 </em>
         </div>

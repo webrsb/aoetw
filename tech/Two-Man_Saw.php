@@ -66,7 +66,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Twomansaw.jpg" width="45" alt="">
+                  <img src="~assets/Twomansaw.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -83,19 +83,19 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Feudal_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Feudal_Age.php">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Lumbercampicon.png" alt=""><a href="Lumber_Camp.php">伐木場</a>
+                <img class="gg" src="~assets/Lumbercampicon.png" alt=""><a href="Lumber_Camp.php">伐木場</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Bowsaw.jpg" alt=""><a href="Bow_Saw.php">弓鋸</a>
+                <img class="gg" src="~assets/Bowsaw.jpg" alt=""><a href="Bow_Saw.php">弓鋸</a>
               </td>
             </tr>
             <tr>

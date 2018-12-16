@@ -21,13 +21,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Sheeps_and_Goats.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Sheeps_and_Goats.png" alt="">
         <p class="text-center"><em>地圖上有許多綿羊跟鹿群可供獵食。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Mines.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Mines.png" alt="">
         <p class="text-center"><em>金礦跟石礦的數量不多，玩家要謹慎使用。</em>
 
         </p>
@@ -35,7 +35,7 @@
       </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Mountain_Pass.png" width="300" alt="">
+          <img src="~assets/Mountain_Pass.png" width="300" alt="">
            <h4>兩人的雪山地地圖</h4> 
         </div>
       </div>

@@ -21,7 +21,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="250" src="img/Constablerichemont.png" alt="">
+                <img class="hg" width="250" src="~assets/Constablerichemont.png" alt="">
                 <p><em>戰役編輯器中的羅德里高-迪亞茲-熙德。</em>
                 </p>
               </div>
@@ -39,7 +39,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Elcidicon.png" width="80" alt="">
+                  <img src="~assets/Elcidicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

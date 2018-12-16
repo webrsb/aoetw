@@ -23,15 +23,15 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/VBRSK.jpg" width="22" alt="">狂戰士:擅於對付部分騎兵與步兵的特殊步兵</li>
-              <li><img class="gg" src="img/LongboatIcon.jpg" width="22" alt="">維京大戰船</li>
+                <img class="gg" src="~assets/VBRSK.jpg" width="22" alt="">狂戰士:擅於對付部分騎兵與步兵的特殊步兵</li>
+              <li><img class="gg" src="~assets/LongboatIcon.jpg" width="22" alt="">維京大戰船</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">酋長:步兵對騎兵有+5攻擊</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">酋長:步兵對騎兵有+5攻擊</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">狂戰士幫:狂戰士自我療傷速度加快</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">狂戰士幫:狂戰士自我療傷速度加快</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -84,7 +84,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wondervikings.png"><img class="imgn" class="hg" src="img/Wondervikings.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wondervikings.png"><img class="imgn" class="hg" src="~assets/Wondervikings.png" alt=""></a> 
                 <p><em>維京的世界奇觀</em>
                 </p>
               </div>
@@ -104,7 +104,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/vikingrking.jpg" width="300px" alt="">
+                  <img src="~assets/vikingrking.jpg" width="300px" alt="">
                   <p><em>著名的丹麥國王 - 克努特</em>
                   </p>
                 </div>
@@ -127,8 +127,8 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/VBRSK.jpg">狂戰士
-                <br><img class="gg" src="img/LongboatIcon.jpg" width="22" alt="">維京大戰船精銳維京大戰船
+                <img class="gg" src="~assets/VBRSK.jpg">狂戰士
+                <br><img class="gg" src="~assets/LongboatIcon.jpg" width="22" alt="">維京大戰船精銳維京大戰船
               </td>
             </tr>
             <tr>
@@ -138,9 +138,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">酋長
+                <img class="gg" src="~assets/CastleAgeUnique.png">酋長
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">狂戰士幫</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">狂戰士幫</td>
             </tr>
           </table>
           <div class="thanks">此頁面由阿幹協助編輯</div>

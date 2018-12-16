@@ -32,14 +32,14 @@
             <h3>特殊單位</h3>
             <ul>
               <li>
-                <img class="gg" src="img/TAXEM.jpg" alt="">擲斧兵:遠程步兵，對建築物攻擊有加成。</li>
+                <img class="gg" src="~assets/TAXEM.jpg" alt="">擲斧兵:遠程步兵，對建築物攻擊有加成。</li>
             </ul>
             <h3>特殊科技</h3>
             <ul>
               <li>
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">騎士精神：馬廄工作效率+40%。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">騎士精神：馬廄工作效率+40%。</li>
               <li>
-                <img class="gg" src="img/Unique-tech.jpg" alt="">倒鉤斧：擲斧兵攻擊距離+1。</li>
+                <img class="gg" src="~assets/Unique-tech.jpg" alt="">倒鉤斧：擲斧兵攻擊距離+1。</li>
             </ul>
           </div>
           <h3>文明加成</h3>
@@ -76,7 +76,7 @@
               <li>精銳擲斧兵成本-100黃金。</li>
               <li>果樹叢的村民工作效率+25%></li>
               <li>引入特殊科技：
-                <img class="gg" src="img/CastleAgeUnique.png" alt="">騎士精神：馬廄工作效率+40%。</li>
+                <img class="gg" src="~assets/CastleAgeUnique.png" alt="">騎士精神：馬廄工作效率+40%。</li>
             </ul>
             <h3><em><a href="ak.php">非洲王國</a></em></h3>
             <ul>
@@ -97,7 +97,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Dürer_karl_der_grosse.jpg" width="300px;" alt="">
+                  <img src="~assets/Dürer_karl_der_grosse.jpg" width="300px;" alt="">
                   <p><em>西歐公認的第一位皇帝查理曼大帝</em>
                   </p>
                 </div>
@@ -120,7 +120,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/TAXEM.jpg">擲斧兵</td>
+                <img class="gg" src="~assets/TAXEM.jpg">擲斧兵</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -129,9 +129,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">騎士精神
+                <img class="gg" src="~assets/CastleAgeUnique.png">騎士精神
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">倒鉤斧</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">倒鉤斧</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>

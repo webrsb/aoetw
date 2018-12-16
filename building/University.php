@@ -30,25 +30,25 @@
                    <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Masonry.jpg" alt=""><a href="Masonry.php">磚瓦技術</a>
+                      <img class="gg" src="~assets/Masonry.jpg" alt=""><a href="Masonry.php">磚瓦技術</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Fortified-wall-research.jpg" alt=""><a href="Fortified Wall.php">垛牆</a>
+                      <img class="gg" src="~assets/Fortified-wall-research.jpg" alt=""><a href="Fortified Wall.php">垛牆</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Ballistics.jpg" alt=""><a href="Ballistics.php">彈道學</a>
+                      <img class="gg" src="~assets/Ballistics.jpg" alt=""><a href="Ballistics.php">彈道學</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Guard-tower-research.jpg" alt=""><a href="Guard Tower.php">防禦箭塔</a>
+                      <img class="gg" src="~assets/Guard-tower-research.jpg" alt=""><a href="Guard Tower.php">防禦箭塔</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Heatedshot.png" alt=""><a href="Heated Shot.php">預熱射擊</a>
+                      <img class="gg" src="~assets/Heatedshot.png" alt=""><a href="Heated Shot.php">預熱射擊</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Murderholes.jpg" alt=""><a href="Murder Holes.php">垛孔</a>
+                      <img class="gg" src="~assets/Murderholes.jpg" alt=""><a href="Murder Holes.php">垛孔</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Treadmillcrane.jpg" alt=""><a href="Treadmill Crane.php">滑輪起重機</a>
+                      <img class="gg" src="~assets/Treadmillcrane.jpg" alt=""><a href="Treadmill Crane.php">滑輪起重機</a>
                     </li>
                   </ul>
                 </div>
@@ -58,22 +58,22 @@
                    <h4><a href="Imperial_Age.php"></a>帝王時代</h4> 
                   <ul>
                     <li>
-                      <img class="gg" src="img/Architecture.jpg" alt=""><a href="Architecture.php">建築學</a>
+                      <img class="gg" src="~assets/Architecture.jpg" alt=""><a href="Architecture.php">建築學</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
+                      <img class="gg" src="~assets/Chemistry.jpg" alt=""><a href="Chemistry.php">化學</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>
+                      <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Keep-research.jpg" alt=""><a href="Keep.php">大型箭塔</a>
+                      <img class="gg" src="~assets/Keep-research.jpg" alt=""><a href="Keep.php">大型箭塔</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Arrowlits.jpg" alt=""><a href="Arrowslits.php">箭狹槽</a>
+                      <img class="gg" src="~assets/Arrowlits.jpg" alt=""><a href="Arrowslits.php">箭狹槽</a>
                     </li>
                     <li>
-                      <img class="gg" src="img/Bombard-tower-research.jpg" alt=""><a href="Bombard_Tower.php">火砲塔</a>
+                      <img class="gg" src="~assets/Bombard-tower-research.jpg" alt=""><a href="Bombard_Tower.php">火砲塔</a>
                     </li>
                   </ul>
                 </div>
@@ -103,36 +103,36 @@
                 <tr>
                   <td class="tta1" style="width:20%">生命值</td>
                   <td class="tta4">
-                    <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                    <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                     <br>
-                    <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                    <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
                 </tr>
                 <tr>
                   <td class="tta1" style="width:20%">護甲</td>
                   <td class="tta4">
-                    <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                    <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                     <br>
-                    <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                    <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
                 </tr>
                 <tr>
                   <td class="tta1">視野</td>
                   <td class="tta4">
-                    <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                    <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                     <br>
-                    <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                    <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
                 </tr>
                 <tr>
                   <td class="tta1">招降抵抗</td>
                   <td class="tta4">
-                    <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                    <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                     <br>
-                    <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                    <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                   </td>
                 </tr>
                 <tr>
                   <td class="tta1" style="width:10%">建造速率</td>
                   <td class="tta4">
-                    <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                    <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
                 </tr>
               </table>
               <div class="col-md-12">
@@ -172,21 +172,21 @@
                 <div class="hrn1"></div>
                 <div class="n1">
                   <div class="col-md-12">
-                    <div class="col-md-4"> <a href="img/Universityaokaoc.png"><img class="imgn" class="hg" src="img/Universityaokaoc.png" alt=""></a> 
+                    <div class="col-md-4"> <a href="img/Universityaokaoc.png"><img class="imgn" class="hg" src="~assets/Universityaokaoc.png" alt=""></a> 
                       <p><em>帝王世紀的所有學院。</em>
                       </p>
                     </div>
-                    <div class="col-md-4"> <a href="img/University.png"><img class="imgn" class="hg" src="img/University.png" alt=""></a> 
+                    <div class="col-md-4"> <a href="img/University.png"><img class="imgn" class="hg" src="~assets/University.png" alt=""></a> 
                       <p><em>在城堡時期的HD版學院。</em>
                       </p>
                     </div>
-                    <div class="col-md-4"> <a href="img/UniversityImperialAgeHD.png"><img class="imgn" class="hg" src="img/UniversityImperialAgeHD.png" alt=""></a> 
+                    <div class="col-md-4"> <a href="img/UniversityImperialAgeHD.png"><img class="imgn" class="hg" src="~assets/UniversityImperialAgeHD.png" alt=""></a> 
                       <p><em>在帝王時代的征服者入侵前版本的學院。</em>
                       </p>
                     </div>
                   </div>
                   <div class="col-md-12">
-                    <div class="col-md-4"> <a href="img/UniversityImperialAgeDLC.png"><img class="imgn" class="hg" src="img/UniversityImperialAgeDLC.png" alt=""></a> 
+                    <div class="col-md-4"> <a href="img/UniversityImperialAgeDLC.png"><img class="imgn" class="hg" src="~assets/UniversityImperialAgeDLC.png" alt=""></a> 
                       <p><em>在帝王時代HD後版本的學院。  </em>
                       </p>
                     </div>
@@ -207,7 +207,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Universityicon.png" width="45" alt="">
+                  <img src="~assets/Universityicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -267,16 +267,16 @@
             <tr>
               <td class="unit3">近防</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>

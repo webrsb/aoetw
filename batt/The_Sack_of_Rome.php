@@ -66,7 +66,7 @@
                 "(名稱就叫OUTLW的弓兵)會在玩家接受信使時，直接在旁邊生成，然後攻擊信使。但是他們很弱，可以一刀就殺死。而這些不法之徒原本是被設計成會隨機生成在貿易路線旁，用來攻擊村民跟貿易車隊的，但後來設計失敗了。</li><li>阿陶爾夫在414年跟加拉·普拉西提阿結婚，在阿拉里克死後繼承了西哥德王位。</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">洗劫羅馬</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/Alaric 4.jpg " width="
+                ">洗劫羅馬</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 4.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3

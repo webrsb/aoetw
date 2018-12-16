@@ -54,7 +54,7 @@
               <h3>開場設定</h3>
               <ul>
                 <li><strong>起始時代：</strong>
-                  <img class="gg" src="img/Imperial-age-research.jpg"
+                  <img class="gg" src="~assets/Imperial-age-research.jpg"
                   alt=""><a href="Imperial_Age.php">帝王時代</a>
                 </li>
                 <li><strong>起始資源：</strong>無</li>
@@ -65,43 +65,43 @@
               <h3>起始單位</h3>
               <ul>
                 <li>
-                  <img class="gg" src="img/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
+                  <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
                 </li>
                 <li>
-                  <img class="gg" src="img/Lorddegravilleicon.png" alt=""><a href="Lord_de_Graville.php">格拉維爾領主</a>
+                  <img class="gg" src="~assets/Lorddegravilleicon.png" alt=""><a href="Lord_de_Graville.php">格拉維爾領主</a>
                 </li>
                 <li>
-                  <img class="gg" src="img/Jeandelorrain.png" alt=""><a href="Jean_de_Lorrain.php">洛林的約翰</a>
+                  <img class="gg" src="~assets/Jeandelorrain.png" alt=""><a href="Jean_de_Lorrain.php">洛林的約翰</a>
                 </li>
                 <li>
-                  <img class="gg" src="img/LightCavalryIcon.jpg" alt=""><a href="Light_Cavalry.php">輕騎兵</a>*1</li>
+                  <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><a href="Light_Cavalry.php">輕騎兵</a>*1</li>
                 <li>
-                  <img class="gg" src="img/CavalierIcon.jpg" alt=""><a href="Cavalier.php">騎兵</a>*4</li>
+                  <img class="gg" src="~assets/CavalierIcon.jpg" alt=""><a href="Cavalier.php">騎兵</a>*4</li>
                 <li>
-                  <img class="gg" src="img/PaladinIcon.jpg" alt=""><a href="Paladin.php">遊俠</a>*6</li>
+                  <img class="gg" src="~assets/PaladinIcon.jpg" alt=""><a href="Paladin.php">遊俠</a>*6</li>
                 <li>
-                  <img class="gg" src="img/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>*18</li>
+                  <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>*18</li>
                 <li>
-                  <img class="gg" src="img/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>*20</li>
+                  <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>*20</li>
                 <li>
-                  <img class="gg" src="img/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a>*4</li>
+                  <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a>*4</li>
                 <li>
-                  <img class="gg" src="img/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">巨型投石機</a>*2</li>
+                  <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">巨型投石機</a>*2</li>
               </ul>
             </div>
             <div class="col-md-4">
               <h3>大地之母</h3>
               <ul>
                 <li>
-                  <img class="gg" src="img/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>*10</li>
+                  <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>*10</li>
                 <li>
-                  <img class="gg" src="img/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>*16</li>
+                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>*16</li>
                 <li>
-                  <img class="gg" src="img/KnightIcon.jpg" alt=""><a href="Knight.php">騎士</a>*2</li>
+                  <img class="gg" src="~assets/KnightIcon.jpg" alt=""><a href="Knight.php">騎士</a>*2</li>
                 <li>
-                  <img class="gg" src="img/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>*2</li>
+                  <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>*2</li>
                 <li>
-                  <img class="gg" src="img/HeavyScorpionIcon.jpg" alt=""><a href="Heavy_Scorpion.php">重裝弩砲</a>*2</li>
+                  <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><a href="Heavy_Scorpion.php">重裝弩砲</a>*2</li>
               </ul>
             </div>
           </div>
@@ -142,7 +142,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Joan5map.png" width="" alt="">
+                  <img src="~assets/Joan5map.png" width="" alt="">
                 </div>
               </td>
             </tr>

@@ -36,7 +36,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Paddedarcherarmor.jpg" width="45" alt="">
+                  <img src="~assets/Paddedarcherarmor.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -62,7 +62,7 @@
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
-              <td class="unit4"><a href="Leather_Archer_Armor.php"><img class="gg" src="img/Leatherarcherarmor.jpg" width="45" alt="">弓兵皮甲</a>
+              <td class="unit4"><a href="Leather_Archer_Armor.php"><img class="gg" src="~assets/Leatherarcherarmor.jpg" width="45" alt="">弓兵皮甲</a>
               </td>
             </tr>
             <tr>

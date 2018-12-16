@@ -27,32 +27,32 @@
 
             <ul>
               <li>
-                <img class="gg" src="img/Houseicon.png" width="22" alt=""><a href="House.php">房屋</a>:提供人口空間</li>
+                <img class="gg" src="~assets/Houseicon.png" width="22" alt=""><a href="House.php">房屋</a>:提供人口空間</li>
               <li>
-                <img class="gg" src="img/Millicon.png" width="22" alt=""><a href="Mill.php">磨坊</a>：讓村民收集食物的收集點</li>
+                <img class="gg" src="~assets/Millicon.png" width="22" alt=""><a href="Mill.php">磨坊</a>：讓村民收集食物的收集點</li>
               <li>
-                <img class="gg" src="img/Farmicon.png" width="22" alt=""><a href="Farm.php">農田</a>：提供食物</li>
+                <img class="gg" src="~assets/Farmicon.png" width="22" alt=""><a href="Farm.php">農田</a>：提供食物</li>
               <li>
-                <img class="gg" src="img/Lumbercampicon.png" width="22" alt=""><a href="Lumber_Camp.php">伐木場</a>:讓村民收集木材的收集點</li>
+                <img class="gg" src="~assets/Lumbercampicon.png" width="22" alt=""><a href="Lumber_Camp.php">伐木場</a>:讓村民收集木材的收集點</li>
               <li>
-                <img class="gg" src="img/Miningcampicon.png" width="22" alt=""><a href="Mining_Camp.php">採礦營地</a>:讓村民收集礦石的收集點</li>
+                <img class="gg" src="~assets/Miningcampicon.png" width="22" alt=""><a href="Mining_Camp.php">採礦營地</a>:讓村民收集礦石的收集點</li>
               <li>
-                <img class="gg" src="img/Dockicon.png" width="22" alt=""><a href="Dock.php">碼頭</a>:訓練和升級船隻</li>
+                <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><a href="Dock.php">碼頭</a>:訓練和升級船隻</li>
                <h4>1.碼頭演進到封建時代後就屬於軍事建築物。</h4> 
             </ul><strong>軍事建築</strong>
 
             <ul>
               <li>
-                <img class="gg" src="img/Barracks-logo.jpg" width="22" alt=""><a href="Barracks.php"></a>軍營:訓練和升級步兵單位</li>
+                <img class="gg" src="~assets/Barracks-logo.jpg" width="22" alt=""><a href="Barracks.php"></a>軍營:訓練和升級步兵單位</li>
             </ul><strong>防禦建築</strong>
 
             <ul>
               <li>
-                <img class="gg" src="img/Outposticon.png" width="22" alt=""><a href="Outpost.php">哨站</a>:簡單的箭塔，提醒敵人來犯</li>
+                <img class="gg" src="~assets/Outposticon.png" width="22" alt=""><a href="Outpost.php">哨站</a>:簡單的箭塔，提醒敵人來犯</li>
               <li>
-                <img class="gg" src="img/Palisadewallicon.png" width="22" alt=""><a href="Palisade_Wall.php">木牆</a>：阻擋敵人一小段時間</li>
+                <img class="gg" src="~assets/Palisadewallicon.png" width="22" alt=""><a href="Palisade_Wall.php">木牆</a>：阻擋敵人一小段時間</li>
               <li>
-                <img class="gg" src="img/Palisadegateicon.png" width="22" alt=""><a href="Palisade_Gate.php">木門</a>：可與木牆蓋在一起，讓友方單位通過</li>
+                <img class="gg" src="~assets/Palisadegateicon.png" width="22" alt=""><a href="Palisade_Gate.php">木門</a>：可與木牆蓋在一起，讓友方單位通過</li>
             </ul>
           </div>
            <h3>可生產單位</h3>
@@ -63,21 +63,21 @@
             <p>城鎮中心</p>
             <ul>
               <li>
-                <img class="gg" src="img/VillagerMaleIcon.jpg" width="22" alt=""><a href="Villager.php">村民</a>：建造建築物和收集食物。</li>
+                <img class="gg" src="~assets/VillagerMaleIcon.jpg" width="22" alt=""><a href="Villager.php">村民</a>：建造建築物和收集食物。</li>
             </ul>
             <p>碼頭</p>
             <ul>
               <li>
-                <img class="gg" src="img/FishingShipIcon.jpg" width="22" alt=""><a href="Fishing_Ship.php">漁船</a>：從魚群收集食物。</li>
+                <img class="gg" src="~assets/FishingShipIcon.jpg" width="22" alt=""><a href="Fishing_Ship.php">漁船</a>：從魚群收集食物。</li>
               <li>
-                <img class="gg" src="img/TransportShipIcon.jpg" width="22" alt=""><a href="Transport_Ship.php">運輸船</a>：運載單位。</li>
+                <img class="gg" src="~assets/TransportShipIcon.jpg" width="22" alt=""><a href="Transport_Ship.php">運輸船</a>：運載單位。</li>
                <h4>1.在<a href="aok.php">帝王世紀</a>和<a href="aoc.php">征服者入侵</a>資料片中，運輸船要在封建時代才能訓練而不是黑暗時代。</h4> 
             </ul> <strong>軍事單位</strong>
 
             <p>軍營</p>
             <ul>
               <li>
-                <img class="gg" src="img/MilitiaIcon.jpg" width="22" alt=""><a href="Militia.php">民兵</a>：基本步兵單位。</li>
+                <img class="gg" src="~assets/MilitiaIcon.jpg" width="22" alt=""><a href="Militia.php">民兵</a>：基本步兵單位。</li>
             </ul>
              <h3>可研發科技</h3>
 
@@ -86,7 +86,7 @@
               <p>城鎮中心</p>
               <ul>
                 <li>
-                  <img class="gg" src="img/Loom.jpg" width="22" alt=""><a href="Loom.php">織布技術</a>：增加村民生命值。</li>
+                  <img class="gg" src="~assets/Loom.jpg" width="22" alt=""><a href="Loom.php">織布技術</a>：增加村民生命值。</li>
               </ul>
                <h3>策略</h3>
 
@@ -117,7 +117,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Dark-age-logo-small.jpg" width="45" alt="">
+                  <img src="~assets/Dark-age-logo-small.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -129,7 +129,7 @@
             <tr>
               <td class="unit3">下一個</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="22" alt=""><a href="Feudal_Age.php">封建時代</a>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="22" alt=""><a href="Feudal_Age.php">封建時代</a>
 
               </td>
             </tr>
@@ -145,7 +145,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/DarkAge.png"><img class="imgn" class="hg" src="img/DarkAge.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/DarkAge.png"><img class="imgn" class="hg" src="~assets/DarkAge.png" alt=""></a> 
                 <p><em>每個文明在黑暗時代的樣子。</em>
 
                 </p>

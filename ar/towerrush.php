@@ -13,7 +13,7 @@
             <p>純塔為世紀帝國非常經典的戰術之一，也叫做塔攻，之所以叫做純塔，顧名思義為只有村民去插塔，不出其他兵種，省下建造軍營或其他軍事單位的成本與時間。取而代之的是更多的村民與更多的塔給予對手壓迫。</p>
             <ul>
               <li>
-                <img src="img/Watchtowericon.png" alt=""> <a href="Watch_Tower.php">暸望箭塔→</a>:射程極遠，只要建起來即可封住大多的資源，駐紮村民後基本不怕任何兵種。</li>
+                <img src="~assets/Watchtowericon.png" alt=""> <a href="Watch_Tower.php">暸望箭塔→</a>:射程極遠，只要建起來即可封住大多的資源，駐紮村民後基本不怕任何兵種。</li>
               </li>
             </ul>
           </div>
@@ -149,7 +149,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Watchtowericon.png" width="45" alt="">
+                  <img src="~assets/Watchtowericon.png" width="45" alt="">
                 </div>
               </td>
             </tr>

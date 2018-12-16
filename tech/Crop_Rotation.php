@@ -68,7 +68,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Croprotation.jpg" width="45" alt="">
+                  <img src="~assets/Croprotation.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -86,21 +86,21 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Feudal_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Feudal_Age.php">帝王時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Mill-icon.jpg" alt=""><a href="Mill.php">磨坊</a>
+                <img class="gg" src="~assets/Mill-icon.jpg" alt=""><a href="Mill.php">磨坊</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img src="img/Heavyplow.jpg" width="22" alt=""><a href="Heavy_Plow.php">重犁</a>
+                <img src="~assets/Heavyplow.jpg" width="22" alt=""><a href="Heavy_Plow.php">重犁</a>
 
               </td>
             </tr>

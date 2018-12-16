@@ -140,7 +140,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/(map)Bayinnaung_4.The_White_Elephant.jpg" width="" alt="">
+                  <img src="~assets/(map)Bayinnaung_4.The_White_Elephant.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

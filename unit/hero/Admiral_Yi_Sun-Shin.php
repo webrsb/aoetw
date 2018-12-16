@@ -71,7 +71,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Admiral_Yi_Sun_Shin.png" width="80" alt="">
+                  <img src="~assets/Admiral_Yi_Sun_Shin.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -155,7 +155,7 @@
           <div class="thanks">感謝! 此頁面由阿幹協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的李舜臣
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%88%9C%E8%87%A3_(%E6%9C%9D%E9%AE%AE)">李舜臣</a></strong></i>

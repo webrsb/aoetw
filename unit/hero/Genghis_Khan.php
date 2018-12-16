@@ -39,7 +39,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Genghiskhanicon.png" width="80" alt="">
+                  <img src="~assets/Genghiskhanicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -121,7 +121,7 @@
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的成吉思汗
               <div style="margin-left: 10px;"><i><strong><a href="http://tinyurl.com/yb7q4ekl">成吉思汗</a></strong></i>

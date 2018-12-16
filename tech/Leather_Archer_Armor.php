@@ -67,7 +67,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Leatherarcherarmor.jpg" width="45" alt="">
+                  <img src="~assets/Leatherarcherarmor.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -94,13 +94,13 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Paddedarcherarmor.jpg" alt=""><a href="Leather_Archer_Armor.php">弓兵布甲</a>
+                <img class="gg" src="~assets/Paddedarcherarmor.jpg" alt=""><a href="Leather_Archer_Armor.php">弓兵布甲</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Ringarcherarmor.jpg" width="45" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>
+                <img class="gg" src="~assets/Ringarcherarmor.jpg" width="45" alt=""><a href="Ring_Archer_Armor.php">弓兵環甲</a>
               </td>
             </tr>
             <tr>

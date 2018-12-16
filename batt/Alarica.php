@@ -42,7 +42,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/10. Alaric.jpg" width="300px;" alt="">
+                <img src="~assets/10. Alaric.jpg" width="300px;" alt="">
                 <p>阿拉里克戰役地圖</p>
               </div>
             </div>
@@ -69,7 +69,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Alaric.jpg" width="300" alt="">
+                  <img src="~assets/Alaric.jpg" width="300" alt="">
                   <p><em>本系列主角 阿拉里克</em>
 
                   </p>
@@ -101,7 +101,7 @@
           <div class="thanks">感謝! 此頁面由裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的阿拉里克
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%8B%89%E9%87%8C%E5%85%8B%E4%B8%80%E4%B8%96">阿拉里克</a></b></i>

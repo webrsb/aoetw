@@ -28,7 +28,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Frederickbarbarossaicon.png" width="80" alt="">
+                  <img src="~assets/Frederickbarbarossaicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

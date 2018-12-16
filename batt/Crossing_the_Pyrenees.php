@@ -148,7 +148,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Crossing_the_Pyrenees1.jpg" width="" alt="">
+                  <img src="~assets/Crossing_the_Pyrenees1.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -196,7 +196,7 @@
           <div class="thanks">感謝! 此頁面由熊協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的阿卜杜勒·拉赫曼·迦菲奇
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%9C%E6%9D%9C%E5%8B%92%C2%B7%E6%8B%89%E8%B5%AB%E6%9B%BC_(%E5%AE%89%E8%BE%BE%E5%8D%A2%E8%A5%BF%E4%BA%9A)">阿卜杜勒·拉赫曼·迦菲奇</a></b></i>
@@ -206,7 +206,7 @@
           </div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的阿卜杜勒·拉赫曼·迦菲奇(英文版)
               <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Abdul_Rahman_Al_Ghafiqi">Abdul Rahman Al Ghafiqi</a></b></i>

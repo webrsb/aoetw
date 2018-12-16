@@ -60,7 +60,7 @@
                 "></div><ul>  <li >    <a >朝鮮王國武科出身，少年時期主要擔任王國北部對女真的防禦，後來被提拔調往海防。他改進了龜甲船，讓朝鮮水軍的戰力有所提升。 後來豐臣秀吉入侵朝鮮，朝鮮王國幾乎覆亡之際他仍頑強抗戰，數次伏擊日軍的運補船隊。甚至一度被構陷入獄。在大明介入之後，他與明將鄧子龍一同在露梁海擊潰日本海軍，但雙雄都在戰鬥中犧牲。</a></li> </ul></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle "><a href="
-                ">洛陽點(1598)(露梁海戰)</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="img/Noryang.jpg " width="
+                ">洛陽點(1598)(露梁海戰)</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Noryang.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
@@ -73,7 +73,7 @@
                 ">征服者戰役第4章之8</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="Kyoto(1582).php
                 ">京都(1582)</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4
                 ">       <a href=>N/A</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由Wun，裕暉協助編輯     </div>  <div class="wiki
-                " style="margin-top: 5px; "><div style="float: left; "><img src="img/Wikipedia-logo.png
+                " style="margin-top: 5px; "><div style="float: left; "><img src="~assets/Wikipedia-logo.png
                 " width="50 " height="46 "></div><div style="margin-left: 60px;
                 ">維基百科上的李舜臣與露梁海戰資訊<div style="margin-left: 10px; "><em><strong><a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%88%9C%E8%87%A3_(%E6%9C%9D%E9%AE%AE)
                 ">李舜臣</a></strong></em>  <em><strong><a href="https://zh.wikipedia.org/wiki/%E9%9C%B2%E6%A2%81%E6%B5%B7%E6%88%B0

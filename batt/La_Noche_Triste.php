@@ -19,33 +19,33 @@
             <h3>基本資訊</h3> 
             <ul>
               <li>起始時代:
-                <img src="img/Imperial-age-research.jpg" class="gg" alt="">帝王時代</li>
+                <img src="~assets/Imperial-age-research.jpg" class="gg" alt="">帝王時代</li>
               <li>起始資源:木頭:900，食物:900，黃金:900，石頭:600</li>
               <li>人口上限:75</li>
               <li>開場擁有單位:
                 <ul>
                   <li>
-                    <img src="img/JaguarWarriorIcon.jpg" class="gg" alt="">豹勇士1個</li>
+                    <img src="~assets/JaguarWarriorIcon.jpg" class="gg" alt="">豹勇士1個</li>
                 </ul>
               </li>
               <li>大地之母單位:
                 <ul>
                   <li>
-                    <img src="img/MonkIcon2.jpg" class="gg" alt="">僧侶3個</li>
+                    <img src="~assets/MonkIcon2.jpg" class="gg" alt="">僧侶3個</li>
                   <li>
-                    <img src="img/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士22個</li>
+                    <img src="~assets/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士22個</li>
                   <li>
-                    <img src="img/JaguarWarriorIcon.jpg" class="gg" alt="">豹勇士8個</li>
+                    <img src="~assets/JaguarWarriorIcon.jpg" class="gg" alt="">豹勇士8個</li>
                   <li>
-                    <img src="img/PikemanIcon.jpg" class="gg" alt="">重裝長槍兵5個</li>
+                    <img src="~assets/PikemanIcon.jpg" class="gg" alt="">重裝長槍兵5個</li>
                   <li>
-                    <img src="img/EliteSkirmisherIcon.jpg" class="gg" alt="">戰矛兵13個</li>
+                    <img src="~assets/EliteSkirmisherIcon.jpg" class="gg" alt="">戰矛兵13個</li>
                   <li>
-                    <img src="img/OnagerIcon.jpg" class="gg" alt="">中型投石車1個</li>
+                    <img src="~assets/OnagerIcon.jpg" class="gg" alt="">中型投石車1個</li>
                   <li>
-                    <img src="img/TransportShipIcon.jpg" class="gg" alt="">運輸船7個</li>
+                    <img src="~assets/TransportShipIcon.jpg" class="gg" alt="">運輸船7個</li>
                   <li>
-                    <img src="img/FastFireShipIcon.jpg" class="gg" alt="">快速火戰船2個</li>
+                    <img src="~assets/FastFireShipIcon.jpg" class="gg" alt="">快速火戰船2個</li>
                 </ul>
               </li>
             </ul>
@@ -142,7 +142,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/蒙特蘇馬四.png" width="" alt="">
+                  <img src="~assets/蒙特蘇馬四.png" width="" alt="">
                 </div>
               </td>
             </tr>

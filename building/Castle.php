@@ -22,15 +22,15 @@
                  <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Elite-unique-research.jpg" width="30" alt=""><a href="Unique_Unit.php">特殊單位</a>
+                    <img class="gg" src="~assets/Elite-unique-research.jpg" width="30" alt=""><a href="Unique_Unit.php">特殊單位</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/PetardIcon.jpg" width="30" alt=""><a href="Petard.php">爆炸桶</a>
+                    <img class="gg" src="~assets/PetardIcon.jpg" width="30" alt=""><a href="Petard.php">爆炸桶</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="untech.php">城堡特殊科技</a>
+                    <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="untech.php">城堡特殊科技</a>
 
                   </li>
                 </ul>
@@ -41,31 +41,31 @@
                  <h4><a href="Imperial_Age.php"></a>帝王時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/Elite-unique-research.jpg" width="30" alt=""><a href="Unique_Unit.php">精銳特殊單位</a>
+                    <img class="gg" src="~assets/Elite-unique-research.jpg" width="30" alt=""><a href="Unique_Unit.php">精銳特殊單位</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/TrebuchetPackedIcon.jpg" width="30" alt=""><a href="Trebuchet.php">巨型投石機</a>
+                    <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" width="30" alt=""><a href="Trebuchet.php">巨型投石機</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="untech.php">帝王特殊科技</a>
+                    <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="untech.php">帝王特殊科技</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Hoardings.jpg" width="30" alt=""><a href="Hoardings.php">外架式柵樓</a>
+                    <img class="gg" src="~assets/Hoardings.jpg" width="30" alt=""><a href="Hoardings.php">外架式柵樓</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Sappers.jpg" width="30" alt=""><a href="Sappers.php">坑道工兵</a>
+                    <img class="gg" src="~assets/Sappers.jpg" width="30" alt=""><a href="Sappers.php">坑道工兵</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>
+                    <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>
 
                   </li>
                   <li>
-                    <img class="gg" src="img/Spiestreason.jpg" width="30" alt=""><a href="Spies.php">間諜</a>
+                    <img class="gg" src="~assets/Spiestreason.jpg" width="30" alt=""><a href="Spies.php">間諜</a>
 
                   </li>
                 </ul>
@@ -131,7 +131,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/VillagerMaleIcon.jpg" width="30" alt=""><a href="Villager.php">村民</a>
+                  <img class="gg" src="~assets/VillagerMaleIcon.jpg" width="30" alt=""><a href="Villager.php">村民</a>
 
                 </td>
                 <td class="tta2">20</td>
@@ -139,7 +139,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ArcherIcon.jpg" width="30" alt=""><a href="Archer.php">弓兵</a>
+                  <img class="gg" src="~assets/ArcherIcon.jpg" width="30" alt=""><a href="Archer.php">弓兵</a>
 
                 </td>
                 <td class="tta2">20</td>
@@ -147,7 +147,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/CrossbowmanIcon.jpg" width="30" alt=""><a href="Crossbowma.php">弩兵</a>
+                  <img class="gg" src="~assets/CrossbowmanIcon.jpg" width="30" alt=""><a href="Crossbowma.php">弩兵</a>
 
                 </td>
                 <td class="tta2">20</td>
@@ -155,9 +155,9 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/ArbalestIcon.jpg" width="30" alt=""><a href="Arbalest.php">強弩兵</a>
+                  <img class="gg" src="~assets/ArbalestIcon.jpg" width="30" alt=""><a href="Arbalest.php">強弩兵</a>
 
-                  <img class="gg" src="img/CavalryArcherIcon.jpg"
+                  <img class="gg" src="~assets/CavalryArcherIcon.jpg"
                   width="30" alt=""><a href="Cavalry_Archer.php">馬弓騎兵</a>
 
                 </td>
@@ -166,7 +166,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="img/HandCannoneerIcon.jpg" width="30" alt=""><a href="Hand_Cannoneer.php">火槍手</a>
+                  <img class="gg" src="~assets/HandCannoneerIcon.jpg" width="30" alt=""><a href="Hand_Cannoneer.php">火槍手</a>
 
                 </td>
                 <td class="tta2">18</td>
@@ -203,82 +203,82 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)
                 <br>
-                <img class="gg" src="img/Hoardings.jpg" width="30" alt=""><a href="Hoardings.php">外架式柵樓</a>(+1000)</td>
+                <img class="gg" src="~assets/Hoardings.jpg" width="30" alt=""><a href="Hoardings.php">外架式柵樓</a>(+1000)</td>
             </tr>
             <tr>
               <td class="tta1">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="img/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
+                <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
                 <br>
-                <img class="gg" src="img/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+                <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
                 <br>
-                <img class="gg" src="img/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
+                <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
                 <br>
-                <img class="gg" src="img/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
+                <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br>
-                <img class="gg" src="img/Heatedshot.png" width="30" alt=""><a href="Heated_Shot.php">預熱射擊</a>(+4，僅對<a href="Naval_Vessels.php">船隻</a>)
+                <img class="gg" src="~assets/Heatedshot.png" width="30" alt=""><a href="Heated_Shot.php">預熱射擊</a>(+4，僅對<a href="Naval_Vessels.php">船隻</a>)
                 <br>
-                <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="Boiling_Oil.php">沸油</a>(+9僅對衝撞車系，<a href="Persians.php">波斯</a>限定)</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Boiling_Oil.php">沸油</a>(+9僅對衝撞車系，<a href="Persians.php">波斯</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1">範圍</td>
               <td class="tta4">
-                <img class="gg" src="img/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
+                <img class="gg" src="~assets/Fletching.jpg" width="30" alt=""><a href="Fletching.php">箭羽</a>(+1)
                 <br>
-                <img class="gg" src="img/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+                <img class="gg" src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
                 <br>
-                <img class="gg" src="img/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
+                <img class="gg" src="~assets/Bracer.jpg" width="30" alt=""><a href="Bracer.php">護腕</a>(+1)
                 <br>
-                <img class="gg" src="img/Murderholes.jpg" width="30" alt=""><a href="Murder_Holes.php">垛孔</a>:消除最小射程
+                <img class="gg" src="~assets/Murderholes.jpg" width="30" alt=""><a href="Murder_Holes.php">垛孔</a>:消除最小射程
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg" width="30" alt=""><a href="Crenellations.php">垛口</a>(+3，<a href="Teutons.php">條頓</a>限定)</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Crenellations.php">垛口</a>(+3，<a href="Teutons.php">條頓</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1">射箭頻率</td>
               <td class="tta4">
-                <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="Stronghold.php">堡壘</a>(+25%，<a href="Celts.php">賽爾特</a>限定)</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Stronghold.php">堡壘</a>(+25%，<a href="Celts.php">賽爾特</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1">準確度</td>
               <td class="tta4">
-                <img class="gg" src="img/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:較易擊中移動目標</td>
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:較易擊中移動目標</td>
             </tr>
             <tr>
               <td class="tta1">護甲</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+1/+1，+3建築護甲)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮暸望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮暸望</a>(+4)
                 <br>
-                <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">建造速度</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%)</td>
             </tr>
             <tr>
               <td class="tta1">工作效率</td>
               <td class="tta4">
-                <img class="gg" src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
+                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
                 <br>
-                <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="Kasbah.php">聚居堡壘</a>(+25%，<a href="Berbers.php">柏柏</a>與其同盟限定)</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Kasbah.php">聚居堡壘</a>(+25%，<a href="Berbers.php">柏柏</a>與其同盟限定)</td>
             </tr>
             <tr>
               <td class="tta1">其他</td>
               <td class="tta4">
-                <img class="gg" src="img/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>:駐紮單位治療速度加快
+                <img class="gg" src="~assets/Herbalmedicine.png" width="30" alt=""><a href="Herbal_Medicine.php">草藥學</a>:駐紮單位治療速度加快
                 <br>
-                <img class="gg" src="img/CastleAgeUnique.png" width="30" alt=""><a href="Crenellations.php">垛口</a>:駐紮步兵可增加箭數</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="Crenellations.php">垛口</a>:駐紮步兵可增加箭數</td>
             </tr>
           </table>
            <h3>更新日誌</h3>
@@ -353,7 +353,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Castleicon.png" width="45" alt="">
+                  <img src="~assets/Castleicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -471,7 +471,7 @@
 
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Castleaokaoc.png"><img class="imgn" class="hg" width="180" src="img/Castleaokaoc.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Castleaokaoc.png"><img class="imgn" class="hg" width="180" src="~assets/Castleaokaoc.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有城堡(帝王世紀和征服者入侵資料片)。</em>
@@ -479,7 +479,7 @@
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Castlehd.png"><img class="imgn" class="hg" width="200" src="img/Castlehd.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Castlehd.png"><img class="imgn" class="hg" width="200" src="~assets/Castlehd.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:220px" ;>
             <p><em>所有城堡(HD擴充資料片)。</em>
@@ -487,7 +487,7 @@
             </p>
         </div>
       </div>
-      <div class="col-md-4"> <a href="img/Spritesheet_castle.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_castle.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Spritesheet_castle.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_castle.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>城堡在一般地圖/下雪地圖和駐紮單位時的樣子。</em>

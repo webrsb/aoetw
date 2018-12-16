@@ -63,7 +63,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Guilds.jpg" width="45" alt="">
+                  <img src="~assets/Guilds.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>

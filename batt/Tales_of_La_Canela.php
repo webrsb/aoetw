@@ -162,7 +162,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/EI 1.jpg" width="" alt="">
+                  <img src="~assets/EI 1.jpg" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -207,7 +207,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，Dennis協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的貢薩洛.皮薩羅(英文)
               <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Gonzalo_Pizarro">貢薩洛.皮薩羅</a></b></i>

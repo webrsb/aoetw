@@ -33,14 +33,14 @@
               <h3>特殊單位</h3>
               <ul>
                 <li>
-                  <img class="gg" src="img/Ballistaelephanticon.png" alt="">弩砲象:背負攻城武器的大象，弩砲發射時可破壞樹木。</li>
+                  <img class="gg" src="~assets/Ballistaelephanticon.png" alt="">弩砲象:背負攻城武器的大象，弩砲發射時可破壞樹木。</li>
               </ul>
               <h3>特殊科技</h3>
               <ul>
                 <li>
-                  <img class="gg" src="img/CastleAgeUnique.png" alt="">象牙劍:矛象伕攻擊力+3。</li>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" alt="">象牙劍:矛象伕攻擊力+3。</li>
                 <li>
-                  <img class="gg" src="img/Unique-tech.jpg" alt="">雙弩箭:弩砲象和弩砲發射雙箭(第二發的傷害比起第一發較低)。</li>
+                  <img class="gg" src="~assets/Unique-tech.jpg" alt="">雙弩箭:弩砲象和弩砲發射雙箭(第二發的傷害比起第一發較低)。</li>
               </ul>
             </div>
             <h3>文明加成</h3>
@@ -73,7 +73,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wonderkhmer.png"><img class="imgn" class="hg" src="img/Wonderkhmer.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wonderkhmer.png"><img class="imgn" class="hg" src="~assets/Wonderkhmer.png" alt=""></a> 
                 <p><em>高棉世界奇觀，吳哥窟</em>
                 </p>
               </div>
@@ -93,7 +93,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Angkor.jpeg" width="250" alt="">
+                  <img src="~assets/Angkor.jpeg" width="250" alt="">
                   <p><em>輝煌的建築-吳哥窟</em>
                   </p>
                 </div>
@@ -115,7 +115,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/Ballistaelephanticon.png">弩砲象</td>
+                <img class="gg" src="~assets/Ballistaelephanticon.png">弩砲象</td>
             </tr>
             <tr>
               <td class="unit3">首選戰略</td>
@@ -124,9 +124,9 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png">象牙劍
+                <img class="gg" src="~assets/CastleAgeUnique.png">象牙劍
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg">雙弩箭</td>
+                <img class="gg" src="~assets/Unique-tech.jpg">雙弩箭</td>
             </tr>
           </table>
           <div class="thanks">此頁面由阿幹協助編輯</div>

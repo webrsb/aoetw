@@ -19,29 +19,29 @@
             <h3>基本資訊</h3> 
             <ul>
               <li>起始時代:
-                <img src="img/Imperial-age-research.jpg" class="gg" alt="">帝王時代</li>
+                <img src="~assets/Imperial-age-research.jpg" class="gg" alt="">帝王時代</li>
               <li>起始資源:木頭:500，食物:1000，黃金:1000，石頭:400</li>
               <li>人口上限:150</li>
               <li>開場擁有單位:
                 <ul>
                   <li>
-                    <img src="img/VillagerMaleIcon.jpg" class="gg" alt="">村民4個</li>
+                    <img src="~assets/VillagerMaleIcon.jpg" class="gg" alt="">村民4個</li>
                   <li>
-                    <img src="img/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士15個</li>
+                    <img src="~assets/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士15個</li>
                   <li>
-                    <img src="img/JaguarWarriorIcon.jpg" class="gg" alt="">豹勇士11個</li>
+                    <img src="~assets/JaguarWarriorIcon.jpg" class="gg" alt="">豹勇士11個</li>
                   <li>
-                    <img src="img/ArbalestIcon.jpg" class="gg" alt="">強弩兵10個</li>
+                    <img src="~assets/ArbalestIcon.jpg" class="gg" alt="">強弩兵10個</li>
                   <li>
-                    <img src="img/WarGalley.jpg" class="gg" alt="">弩炮戰船4個</li>
+                    <img src="~assets/WarGalley.jpg" class="gg" alt="">弩炮戰船4個</li>
                   <li>
-                    <img src="img/FireShipIcon.jpg" class="gg" alt="">火戰船2個</li>
+                    <img src="~assets/FireShipIcon.jpg" class="gg" alt="">火戰船2個</li>
                 </ul>
               </li>
               <li>大地之母單位:
                 <ul>
                   <li>
-                    <img src="img/TradeCartIcon.jpg" class="gg" alt="">貿易馬車9個</li>
+                    <img src="~assets/TradeCartIcon.jpg" class="gg" alt="">貿易馬車9個</li>
                 </ul>
               </li>
             </ul>
@@ -122,7 +122,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/蒙特蘇馬五.png" width="" alt="">
+                  <img src="~assets/蒙特蘇馬五.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -176,7 +176,7 @@
             <div class="col-md-12">
               <div class="wiki" style="margin-top: 5px;">
                 <div style="float: left;">
-                  <img src="img/Wikipedia-logo.png" width="50" height="46">
+                  <img src="~assets/Wikipedia-logo.png" width="50" height="46">
                 </div>
                 <div style="margin-left: 60px;">維基百科上的奧通巴戰役
                   <div style="margin-left: 10px;"><i><b><a href="https://www.itsfun.com.tw/%E5%A5%A7%E5%9C%96%E5%B7%B4%E6%88%B0%E5%BD%B9/wiki-7606157-2066827">奧通巴戰役</a></b></i>

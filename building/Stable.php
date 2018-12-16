@@ -19,10 +19,10 @@
                  <h4><a href="Feudal_Age.php"></a>封建時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/ScoutCavalryIcon.jpg"><a href="Scout_Cavalry.php">斥候</a>
+                    <img class="gg" src="~assets/ScoutCavalryIcon.jpg"><a href="Scout_Cavalry.php">斥候</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Bloodlines.png" alt=""><a href="Bloodlines.php">品種</a>
+                    <img class="gg" src="~assets/Bloodlines.png" alt=""><a href="Bloodlines.php">品種</a>
                   </li>
                 </ul>
               </div>
@@ -32,19 +32,19 @@
                  <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/LightCavalryIcon.jpg"><a href="Light_Cavalry.php">輕騎兵</a>
+                    <img class="gg" src="~assets/LightCavalryIcon.jpg"><a href="Light_Cavalry.php">輕騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/KnightIcon.jpg"><a href="Knight.php">騎士</a>
+                    <img class="gg" src="~assets/KnightIcon.jpg"><a href="Knight.php">騎士</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/CamelIcon.jpg"><a href="Camel.php">駱駝騎兵</a>
+                    <img class="gg" src="~assets/CamelIcon.jpg"><a href="Camel.php">駱駝騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Battleelephanticon.png"><a href="Battle_Elephant.php">矛象伕</a>
+                    <img class="gg" src="~assets/Battleelephanticon.png"><a href="Battle_Elephant.php">矛象伕</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Husbandry.jpg" alt=""><a href="Husbandry.php">畜牧培育</a>
+                    <img class="gg" src="~assets/Husbandry.jpg" alt=""><a href="Husbandry.php">畜牧培育</a>
                   </li>
                 </ul>
               </div>
@@ -54,22 +54,22 @@
                  <h4><a href="Imperial_Age.php"></a>帝王時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="img/HussarIcon.jpg"><a href="Hussar.php">匈牙利輕騎兵</a>
+                    <img class="gg" src="~assets/HussarIcon.jpg"><a href="Hussar.php">匈牙利輕騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/CavalierIcon.jpg"><a href="Cavalier.php">騎兵</a>
+                    <img class="gg" src="~assets/CavalierIcon.jpg"><a href="Cavalier.php">騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/PaladinIcon.jpg"><a href="Paladin.php">遊俠</a>
+                    <img class="gg" src="~assets/PaladinIcon.jpg"><a href="Paladin.php">遊俠</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/HeavyCamelIcon.jpg"><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
+                    <img class="gg" src="~assets/HeavyCamelIcon.jpg"><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/ImperialCamelIcon.jpg"><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
+                    <img class="gg" src="~assets/ImperialCamelIcon.jpg"><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="img/Battleelephanticon.png"><a href="Elite_Battle_Elephant.php">精銳矛象伕</a>
+                    <img class="gg" src="~assets/Battleelephanticon.png"><a href="Elite_Battle_Elephant.php">精銳矛象伕</a>
                   </li>
                 </ul>
               </div>
@@ -100,48 +100,48 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="img/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br>
-                <img class="gg" src="img/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="img/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
                 <br>
-                <img class="gg" src="img/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="img/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
                 <br>
-                <img class="gg" src="img/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="img/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
             <tr>
               <td class="tta1">工作效率</td>
               <td class="tta4">
-                <img class="gg" src="img/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
+                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
                 <br>
-                <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Chivalry.php">騎士精神</a>:馬廄工作速率快40%，<a href="Franks.php">法蘭克</a>限定</td>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Chivalry.php">騎士精神</a>:馬廄工作速率快40%，<a href="Franks.php">法蘭克</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">其他</td>
               <td class="tta4">
-                <img src="img/CastleAgeUnique.png" class="gg" alt=""><a href="Marauders.php">掠奪者</a>:<a href="Tarkan.php">韃靼騎兵</a>可在馬廄訓練，
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Marauders.php">掠奪者</a>:<a href="Tarkan.php">韃靼騎兵</a>可在馬廄訓練，
                 <a
                 href="Huns.php">匈奴</a>限定</td>
             </tr>
@@ -196,7 +196,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Stableicon.png" width="45" alt="">
+                  <img src="~assets/Stableicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -251,11 +251,11 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1500
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1500
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">1800
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">1800
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">2100</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">2100</td>
             </tr>
             <tr>
               <td class="unit3">可駐守單位</td>
@@ -264,20 +264,20 @@
             <tr>
               <td class="unit3">近防</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">1
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">1
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">2
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">2
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">3</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">3</td>
             </tr>
             <tr>
               <td class="unit3">遠防</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" width="30" alt="">8
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt="">8
                 <br>
-                <img class="gg" src="img/Castle-age-reseach.jpg" width="30" alt="">9
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt="">9
                 <br>
-                <img class="gg" src="img/Imperial-age-research.jpg" width="30" alt="">10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt="">10</td>
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
@@ -296,21 +296,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/StableFeudalAgeHD.png"><img class="imgn" class="hg" width="180" src="img/StableFeudalAgeHD.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/StableFeudalAgeHD.png"><img class="imgn" class="hg" width="180" src="~assets/StableFeudalAgeHD.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的馬廄(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/StableFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="img/StableFeudalAgeDLC.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/StableFeudalAgeDLC.png"><img class="imgn" class="hg" width="200" src="~assets/StableFeudalAgeDLC.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的馬廄(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Stableaok.png"><img class="imgn" class="hg" width="200" src="img/Stableaok.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Stableaok.png"><img class="imgn" class="hg" width="200" src="~assets/Stableaok.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的馬廄(帝王世紀和征服者入侵資料片)。</em>
@@ -319,14 +319,14 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Stablehd.png"><img class="imgn" class="hg" width="200" src="img/Stablehd.png" alt=""></a> 
+      <div class="col-md-4"> <a href="img/Stablehd.png"><img class="imgn" class="hg" width="200" src="~assets/Stablehd.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的馬廄(HD擴充資料片)。</em>
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Spritesheet_stable.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_stable.png" alt=""></a> 
+    <div class="col-md-4"> <a href="img/Spritesheet_stable.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_stable.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>馬廄在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>

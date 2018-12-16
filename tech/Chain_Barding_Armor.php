@@ -67,7 +67,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Chainbardingarmor.jpg" width="45" alt="">
+                  <img src="~assets/Chainbardingarmor.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -97,14 +97,14 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="img/Scalebardingarmor.jpg" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>
+                <img class="gg" src="~assets/Scalebardingarmor.jpg" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Platebardingarmor.jpg" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>
+                <img class="gg" src="~assets/Platebardingarmor.jpg" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>
 
               </td>
             </tr>

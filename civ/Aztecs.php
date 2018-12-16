@@ -34,11 +34,11 @@
                 href="Galleon.php">重型弩砲戰船</a>的文明。因此必須依靠 <a href="Demolition_Ship.php">神風船</a>與<a href="Fire_Ship.php">火戰船</a>來打海戰。</p>
              <h3>特殊單位</h3>
 
-            <p><img class="gg" src="img/JaguarWarriorIcon.jpg"><a href="Jaguar_Warrior.php">豹勇士</a>:反步兵的步兵</p>
+            <p><img class="gg" src="~assets/JaguarWarriorIcon.jpg"><a href="Jaguar_Warrior.php">豹勇士</a>:反步兵的步兵</p>
              <h3>特殊科技</h3>
 
-            <p><img class="gg" src="img/CastleAgeUnique.png"><a href="Atlatl.php">擲矛器</a>:矛兵額外獲得+1攻擊，+1射程</p>
-            <p><img class="gg" src="img/Unique-tech.jpg"><a href="Garland_Wars.php">榮冠戰爭</a>:所有步兵額外獲得+4攻擊</p>
+            <p><img class="gg" src="~assets/CastleAgeUnique.png"><a href="Atlatl.php">擲矛器</a>:矛兵額外獲得+1攻擊，+1射程</p>
+            <p><img class="gg" src="~assets/Unique-tech.jpg"><a href="Garland_Wars.php">榮冠戰爭</a>:所有步兵額外獲得+4攻擊</p>
           </div>
            <h3>文明加成</h3>
 
@@ -77,7 +77,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Wonderaztecs.png"><img class="imgn" class="hg" src="img/Wonderaztecs.png" alt=""></a> 
+              <div class="col-md-4"> <a href="img/Wonderaztecs.png"><img class="imgn" class="hg" src="~assets/Wonderaztecs.png" alt=""></a> 
                 <p><em>大神殿</em>
 
                 </p>
@@ -97,7 +97,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/330px-Jal-ixco.jpg" width="300px" alt="">
+                  <img src="~assets/330px-Jal-ixco.jpg" width="300px" alt="">
                   <p><em>西班牙征服者跟在1522年征服哈利斯科</em>
 
                   </p>
@@ -120,7 +120,7 @@
             <tr>
               <td class="unit3">特殊單位</td>
               <td class="unit4">
-                <img class="gg" src="img/JaguarWarriorIcon.jpg"><a href="Jaguar_Warrior.php">豹勇士</a>
+                <img class="gg" src="~assets/JaguarWarriorIcon.jpg"><a href="Jaguar_Warrior.php">豹勇士</a>
 
               </td>
             </tr>
@@ -131,10 +131,10 @@
             <tr>
               <td class="unit3">特殊技術</td>
               <td class="unit4">
-                <img class="gg" src="img/CastleAgeUnique.png"><a href="Atlatl.php">擲矛器</a>
+                <img class="gg" src="~assets/CastleAgeUnique.png"><a href="Atlatl.php">擲矛器</a>
 
                 <br>
-                <img class="gg" src="img/Unique-tech.jpg"><a href="img/Garland_Wars.php">榮冠戰爭</a>
+                <img class="gg" src="~assets/Unique-tech.jpg"><a href="img/Garland_Wars.php">榮冠戰爭</a>
 
               </td>
             </tr>

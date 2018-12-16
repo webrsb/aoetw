@@ -26,7 +26,7 @@
           <div class="n1">
             <ul>
               <div class="unititle">
-                <img src="img/Furiousthemonkeyboy.png" width="250" alt="">
+                <img src="~assets/Furiousthemonkeyboy.png" width="250" alt="">
                 <p>一群狂猴</ul>
             </div>
             <div class="hrn1"></div>
@@ -43,7 +43,7 @@
               <tr>
                 <td colspan="2">
                   <div class="unititle">
-                    <img src="img/Furiousthemonkeyboyicon.png" width="45" alt="">
+                    <img src="~assets/Furiousthemonkeyboyicon.png" width="45" alt="">
                   </div>
                 </td>
               </tr>

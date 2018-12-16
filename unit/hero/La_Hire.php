@@ -22,7 +22,7 @@
             <div
             class="col-md-12">
               <div class="col-md-4">
-                <img class="hg" width="250" src="img/Joan3army.png" alt="">
+                <img class="hg" width="250" src="~assets/Joan3army.png" alt="">
                 <p><em>在聖女貞德戰役"羅亞爾河大掃蕩"中一開始的拉海爾和一小群軍隊。</em>
                 </p>
               </div>
@@ -40,7 +40,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="img/Lahire.png" width="80" alt="">
+                <img src="~assets/Lahire.png" width="80" alt="">
               </div>
             </td>
           </tr>

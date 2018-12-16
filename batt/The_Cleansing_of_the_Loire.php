@@ -49,7 +49,7 @@
               <h3>開場設定</h3>
               <ul>
                 <li><strong>起始時代：</strong>
-                  <img class="gg" src="img/Feudal-age-reseach.jpg"
+                  <img class="gg" src="~assets/Feudal-age-reseach.jpg"
                   width="30" alt=""><a href="Feudal_Age.php">封建時代</a>
                 </li>
                 <li><strong>起始資源：</strong>500食物，700木頭，50黃金，150石頭</li>
@@ -60,31 +60,31 @@
               <h3>起始單位</h3>
               <ul>
                 <li>
-                  <img class="gg" src="img/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
+                  <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
                 </li>
                 <li>
-                  <img class="gg" src="img/Lahire.png" alt=""><a href="La_Hire.php">拉海爾</a>
+                  <img class="gg" src="~assets/Lahire.png" alt=""><a href="La_Hire.php">拉海爾</a>
                 </li>
                 <li>
-                  <img class="gg" src="img/ScoutCavalryIcon.jpg" alt=""><a href="Scout_Cavalry.php">斥侯</a>
+                  <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""><a href="Scout_Cavalry.php">斥侯</a>
                 </li>
                 <li>
-                  <img class="gg" src="img/KnightIcon.jpg" alt=""><a href="Knight.php">騎士</a>*4</li>
+                  <img class="gg" src="~assets/KnightIcon.jpg" alt=""><a href="Knight.php">騎士</a>*4</li>
                 <li>
-                  <img class="gg" src="img/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>*4</li>
+                  <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>*4</li>
                 <li>
-                  <img class="gg" src="img/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>*12</li>
+                  <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>*12</li>
                 <li>
-                  <img class="gg" src="img/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>*4</li>
+                  <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>*4</li>
               </ul>
             </div>
             <div class="col-md-4">
               <h3>大地之母</h3>
               <ul>
                 <li>
-                  <img class="gg" src="img/TransportShipIcon.jpg" alt=""><a href="Transport_Ship.php">運輸船</a>*2</li>
+                  <img class="gg" src="~assets/TransportShipIcon.jpg" alt=""><a href="Transport_Ship.php">運輸船</a>*2</li>
                 <li>
-                  <img class="gg" src="img/DemoShipIcon.jpg" alt=""><a href="Demolition_Ship.php">神風船</a>*2</li>
+                  <img class="gg" src="~assets/DemoShipIcon.jpg" alt=""><a href="Demolition_Ship.php">神風船</a>*2</li>
               </ul>
             </div>
           </div>
@@ -107,7 +107,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Joan3map.png" width="" alt="">
+                  <img src="~assets/Joan3map.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -154,7 +154,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，亞諭協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的羅亞爾河大掃蕩
               <div style="margin-left: 10px;"><i><strong><a href="http://tinyurl.com/ycbrmndr">羅亞爾河戰役</a></strong></i>
@@ -187,13 +187,13 @@
               <div
               class="col-md-12">
                 <div class="col-md-6">
-                  <img position="centered" class="imgn" class="hg" width="500" src="img/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%81%8B%E8%BC%B8%E8%88%B9.jpg"
+                  <img position="centered" class="imgn" class="hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%81%8B%E8%BC%B8%E8%88%B9.jpg"
                   alt="">
                   <p class="text-center"><em>讓軍隊用運輸船渡河。</em>
                   </p>
                 </div>
                 <div class="col-md-6">
-                  <img position="centered" class="imgn" class="hg" width="500" src="img/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E8%B6%8A%E9%81%8E%E6%B7%BA%E7%81%98.jpg"
+                  <img position="centered" class="imgn" class="hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E8%B6%8A%E9%81%8E%E6%B7%BA%E7%81%98.jpg"
                   alt="">
                   <p class="text-center"><em>越過淺灘朝霍士道夫前進。</em>
                   </p>
@@ -204,13 +204,13 @@
           <div
           class="col-md-12">
             <div class="col-md-6">
-              <img class="imgn" class="hg" src="img/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%9C%8D%E5%A3%AB%E9%81%93%E5%A4%AB.jpg"
+              <img class="imgn" class="hg" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%9C%8D%E5%A3%AB%E9%81%93%E5%A4%AB.jpg"
               alt="">
               <p class="text-center"><em>摧毀霍士道夫的城鎮中心。</em>
               </p>
             </div>
             <div class="col-md-6">
-              <img class="imgn" class="hg" src="img/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%9C%8D%E5%A3%AB%E9%81%93%E5%A4%AB%E5%87%BA%E7%8F%BE.jpg"
+              <img class="imgn" class="hg" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E9%9C%8D%E5%A3%AB%E9%81%93%E5%A4%AB%E5%87%BA%E7%8F%BE.jpg"
               alt="">
               <p class="text-center"><em>霍士道夫突然出現在基地內!</em>
               </p>
@@ -220,13 +220,13 @@
         <div
         class="col-md-12">
           <div class="col-md-6">
-            <img position="centered" class="imgn" class="hg" width="500" src="img/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E6%9C%80%E5%BE%8C%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%A0%A1.jpg"
+            <img position="centered" class="imgn" class="hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E6%9C%80%E5%BE%8C%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%A0%A1.jpg"
             alt="">
             <p class="text-center"><em>對最後一座城堡做總攻擊。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img position="centered" class="imgn" class="hg" width="500" src="img/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E5%9F%8E%E5%A0%A1%E9%99%B7%E8%90%BD!.jpg"
+            <img position="centered" class="imgn" class="hg" width="500" src="~assets/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B72%E5%9F%8E%E5%A0%A1%E9%99%B7%E8%90%BD!.jpg"
             alt="">
             <p class="text-center"><em>勝利!。</em>
             </p>

@@ -19,7 +19,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Screen_Shot_2017-12-18_at_12.26.59_PM.png" width="300" alt="">
+          <img src="~assets/Screen_Shot_2017-12-18_at_12.26.59_PM.png" width="300" alt="">
            <h4>兩人遊玩的藏身之處地圖</h4> 
         </div>
       </div>

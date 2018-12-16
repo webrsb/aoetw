@@ -52,7 +52,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Unique-tech.jpg" width="45" alt="">
+                  <img src="~assets/Unique-tech.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -70,13 +70,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
               </td>
             </tr>
             <tr>
@@ -115,14 +115,14 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-4"> <a href="img/Splashdamageram.png"><img class="imgn" class="hg" width="180" src="img/Splashdamageram.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Splashdamageram.png"><img class="imgn" class="hg" width="180" src="~assets/Splashdamageram.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>衝撞車的攻擊擴散範圍(沒有扭力彈射器)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Splashdamageramtorsion.png"><img class="imgn" class="hg" width="180" src="img/Splashdamageramtorsion.png" alt=""></a> 
+        <div class="col-md-4"> <a href="img/Splashdamageramtorsion.png"><img class="imgn" class="hg" width="180" src="~assets/Splashdamageramtorsion.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:220px" ;>
             <p><em>衝撞車的攻擊擴散範圍(有扭力彈射器)。</em>

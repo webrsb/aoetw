@@ -22,13 +22,13 @@
           </div>
             <div class="col-md-12">
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Mangrove.png" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Mangrove.png" alt="">
         <p class="text-center"><em>中間的紅樹林區有金礦和石礦可開採。</em> 
 
         </p>
       </div>
       <div class="col-md-6">
-        <img position="centered" class="imgn" class="hg" width="500" src="img/Channels.jpg" alt="">
+        <img position="centered" class="imgn" class="hg" width="500" src="~assets/Channels.jpg" alt="">
         <p class="text-center"><em>城鎮旁的峽灣。</em>
 
         </p>
@@ -36,7 +36,7 @@
       </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Sandbank.png" width="300" alt="">
+          <img src="~assets/Sandbank.png" width="300" alt="">
            <h4>兩人的沙洲地圖</h4> 
         </div>
       </div>

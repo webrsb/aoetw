@@ -39,7 +39,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/24.le-loi.jpg" width="300px;" alt="">
+                <img src="~assets/24.le-loi.jpg" width="300px;" alt="">
                 <p>黎利戰役地圖</p>
               </div>
             </div>
@@ -64,7 +64,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/le-loi.jpg" width="300" alt="">
+                  <img src="~assets/le-loi.jpg" width="300" alt="">
                   <p><em>本系列主角 黎利畫像</em>
                   </p>
                 </div>
@@ -95,7 +95,7 @@
           <div class="thanks">感謝! 此頁面由亞諭、裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上黎利資訊
               <div style="margin-left: 10px;"><em><strong><a href="https://zh.wikipedia.org/wiki/%E9%BB%8E%E5%88%A9">黎利</a></strong></em> 

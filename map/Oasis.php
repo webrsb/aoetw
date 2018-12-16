@@ -20,7 +20,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <img src="img/Oasis.png" width="300" alt="">
+          <img src="~assets/Oasis.png" width="300" alt="">
            <h4>綠洲地圖，可看見森林的分布很不平均。</h4> 
         </div>
       </div>

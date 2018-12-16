@@ -18,13 +18,13 @@
             <h3>基本資訊</h3> 
             <ul>
               <li>起始時代:
-                <img src="img/Feudal-age-reseach.jpg" class="gg" alt="">封建時代</li>
+                <img src="~assets/Feudal-age-reseach.jpg" class="gg" alt="">封建時代</li>
               <li>起始資源:木頭:2000，食物:1000，黃金:1000，石頭:500</li>
               <li>人口上限:75</li>
               <li>開場擁有單位:
                 <ul>
                   <li>
-                    <img src="img/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士4個</li>
+                    <img src="~assets/EagleWarriorIcon.jpg" class="gg" alt="">鷹勇士4個</li>
                 </ul>
               </li>
               <li>大地之母單位:無</li>
@@ -127,7 +127,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/蒙特蘇馬二.png" width="" alt="">
+                  <img src="~assets/蒙特蘇馬二.png" width="" alt="">
                 </div>
               </td>
             </tr>

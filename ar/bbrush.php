@@ -14,7 +14,7 @@
             <p>黑暗爆民兵為阿拉伯打法之一，實戰上並不見，比賽中更是少見，但可搭配緬甸或西班牙這種強勢城堡兵文明，從黑暗過度直接到城堡，出城堡兵取得優勢。或是一般文明直接爆騎士也可以。</p>
             <ul>
               <li>
-                <img src="img/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵</a>：黑暗時代唯一可以訓練的軍事單位，控制得宜可擊殺村民。</li>
+                <img src="~assets/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵</a>：黑暗時代唯一可以訓練的軍事單位，控制得宜可擊殺村民。</li>
               </li>
             </ul>
           </div>
@@ -95,7 +95,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img width="45" src="img/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵</a>
+                  <img width="45" src="~assets/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵</a>
 
                 </div>
               </td>

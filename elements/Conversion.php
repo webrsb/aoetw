@@ -30,17 +30,17 @@
             <p>修道院有幾項科技可以提高招降的機會</p>
             <ul>
               <li>
-                <img class="gg" src="img/Redemption.jpg" alt=""><a href="Redemption.php">信仰救贖</a>:僧侶可招降大部分建築物和攻城單位。</li>
+                <img class="gg" src="~assets/Redemption.jpg" alt=""><a href="Redemption.php">信仰救贖</a>:僧侶可招降大部分建築物和攻城單位。</li>
               <li>
-                <img class="gg" src="img/Atonement.jpg" alt=""><a href="Atonement.php">贖罪</a>:僧侶可招降對方的僧侶。</li>
+                <img class="gg" src="~assets/Atonement.jpg" alt=""><a href="Atonement.php">贖罪</a>:僧侶可招降對方的僧侶。</li>
               <li>
-                <img class="gg" src="img/Fervor.jpg" alt=""><a href="Fervor.php">宗教狂熱</a>:僧侶移動速度+15%。</li>
+                <img class="gg" src="~assets/Fervor.jpg" alt=""><a href="Fervor.php">宗教狂熱</a>:僧侶移動速度+15%。</li>
               <li>
-                <img class="gg" src="img/Illumination.jpg" alt=""><a href="Illumination.php">啟發教化</a>:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)</li>
+                <img class="gg" src="~assets/Illumination.jpg" alt=""><a href="Illumination.php">啟發教化</a>:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)</li>
               <li>
-                <img class="gg" src="img/Blockprinting.jpg" alt=""><a href="Block_Printing.php">雕版印刷術</a>:僧侶(傳教士)的招降範圍+3。</li>
+                <img class="gg" src="~assets/Blockprinting.jpg" alt=""><a href="Block_Printing.php">雕版印刷術</a>:僧侶(傳教士)的招降範圍+3。</li>
               <li>
-                <img class="gg" src="img/Theocracy.png" alt=""><a href="Theocracy.php">神權統治</a>:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。</li>
+                <img class="gg" src="~assets/Theocracy.png" alt=""><a href="Theocracy.php">神權統治</a>:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。</li>
             </ul>
           </div>
            <h3>招降原理</h3>
@@ -60,25 +60,25 @@
                 10以下的單位都能被招降，但有忠誠信仰的斥侯跟鷹勇被招降的機率很低。如果他們還跟條頓同盟，他們不只有很高的機率達到最大CI，而且在被招降前隨機存活1-2個CI。</p>單位
               <ul>
                 <li>
-                  <img class="gg" src="img/EagleScoutIcon.jpg" alt=""> <a href="Eagle_Scout.php">鷹斥侯→</a> 
-                  <img class="gg" src="img/EagleWarriorIcon.jpg"
+                  <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""> <a href="Eagle_Scout.php">鷹斥侯→</a> 
+                  <img class="gg" src="~assets/EagleWarriorIcon.jpg"
                   alt=""> <a href="Eagle_Warrior.php">鷹勇士→</a> 
-                  <img class="gg" src="img/EliteEagleWarriorIcon.jpg"
+                  <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""> <a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
 
                 </li>
                 <li>
-                  <img class="gg" src="img/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯→</a> 
-                  <img class="gg" src="img/LightCavalryIcon.jpg"
+                  <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯→</a> 
+                  <img class="gg" src="~assets/LightCavalryIcon.jpg"
                   alt=""> <a href="Light_Cavalry.php">輕騎兵→</a> 
-                  <img class="gg" src="img/HussarIcon.jpg"
+                  <img class="gg" src="~assets/HussarIcon.jpg"
                   alt=""> <a href="Hussar.php">匈牙利輕騎兵</a>
 
                 </li>
               </ul>科技
               <ul>
                 <li>
-                  <img class="gg" src="img/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>：增加2~4個CI，跟增加兩個level，也就是說需要6～10個CI才有法力。</li>
+                  <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>：增加2~4個CI，跟增加兩個level，也就是說需要6～10個CI才有法力。</li>
               </ul>團隊加分
               <ul>
                 <li>條頓的同盟加分增加了1~2個CI，跟增加3個level。</li>

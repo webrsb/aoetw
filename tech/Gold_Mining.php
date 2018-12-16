@@ -36,7 +36,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Goldmining.jpg" width="45" alt="">
+                  <img src="~assets/Goldmining.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -53,19 +53,19 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="img/Miningcampicon.png" alt=""><a href="Mining_Camp.php">採礦營地</a>
+                <img class="gg" src="~assets/Miningcampicon.png" alt=""><a href="Mining_Camp.php">採礦營地</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Goldshaftmining.jpg" alt=""><a href="Gold_Shaft_Mining.php">礦井採金</a>
+                <img class="gg" src="~assets/Goldshaftmining.jpg" alt=""><a href="Gold_Shaft_Mining.php">礦井採金</a>
               </td>
             </tr>
             <tr>

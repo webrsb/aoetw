@@ -45,7 +45,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/CastleAgeUnique.png" width="45" alt="">
+                  <img src="~assets/CastleAgeUnique.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -65,14 +65,14 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="img/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
 
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="img/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
 
               </td>
             </tr>
@@ -110,7 +110,7 @@
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的安地斯彈弓
               <div style="margin-left: 10px;"><i><strong><a href="https://goo.gl/rn8pfX">機弦</a></strong></i>

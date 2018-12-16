@@ -27,7 +27,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Magyar_Huszar_icon.jpg" width="80" alt="">
+                  <img src="~assets/Magyar_Huszar_icon.jpg" width="80" alt="">
                 </div>
               </td>
             </tr>

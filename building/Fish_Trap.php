@@ -52,39 +52,39 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
-                <img class="gg" src="img/Horsecollar.jpg"
+                <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
+                <img class="gg" src="~assets/Horsecollar.jpg"
                 width="30" alt=""><a href="Horsecollar.php">馬軛</a>+75)</td>
               <td class="tta2">250</td>
               <td class="tta3">4.17</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
-                <img class="gg" src="img/Heavyplow.jpg" width="30"
+                <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
+                <img class="gg" src="~assets/Heavyplow.jpg" width="30"
                 alt=""><a href="Heavyplow.php">重犁</a>+125)</td>
               <td class="tta2">375</td>
               <td class="tta3">6.25</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
-                <img class="gg" src="img/Croprotation.jpg"
+                <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php">農田</a>(研發
+                <img class="gg" src="~assets/Croprotation.jpg"
                 width="30" alt=""><a href="Croprotation.php">輪耕</a>+175)</td>
               <td class="tta2">550</td>
               <td class="tta3">9.17</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/FishingShipIcon.jpg" width="30" alt=""><a href="Fishing_Ship.php">漁船</a>
+                <img class="gg" src="~assets/FishingShipIcon.jpg" width="30" alt=""><a href="Fishing_Ship.php">漁船</a>
               </td>
               <td class="tta2">715</td>
               <td class="tta3">7.15</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="img/FishingShipIcon.jpg" width="30" alt=""><a href="Fishing_Ship.php">漁船</a>+
-                <img class="gg" src="img/Fishtrapicon.png"
+                <img class="gg" src="~assets/FishingShipIcon.jpg" width="30" alt=""><a href="Fishing_Ship.php">漁船</a>+
+                <img class="gg" src="~assets/Fishtrapicon.png"
                 width="30" alt=""><a href="Fish_Trap.php">漁網</a>
               </td>
               <td class="tta2">715</td>
@@ -141,7 +141,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Fishtrapicon.png" width="45" alt="">
+                  <img src="~assets/Fishtrapicon.png" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -216,14 +216,14 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Fishtraps.png"><img class="imgn" class="hg" width="180" src="img/Fishtraps.png" alt=""></a> 
+            <div class="col-md-4"> <a href="img/Fishtraps.png"><img class="imgn" class="hg" width="180" src="~assets/Fishtraps.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>漁網應該盡可能地蓋靠近碼頭。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Spritesheet_fish_trap.png"><img class="imgn" class="hg" width="200" src="img/Spritesheet_fish_trap.png" alt=""></a> 
+          <div class="col-md-4"> <a href="img/Spritesheet_fish_trap.png"><img class="imgn" class="hg" width="200" src="~assets/Spritesheet_fish_trap.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:185px" ;>
               <p><em>漁網的各種樣子(建造中/損壞/閒置動畫)。</em>

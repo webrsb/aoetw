@@ -43,7 +43,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="img/22.Suryavarman I.jpg" width="300px;" alt="">
+                <img src="~assets/22.Suryavarman I.jpg" width="300px;" alt="">
                 <p>蘇利耶跋摩一世戰役地圖</p>
               </div>
             </div>
@@ -67,7 +67,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Suryavarman I.jpg" width="300" alt="">
+                  <img src="~assets/Suryavarman I.jpg" width="300" alt="">
                   <p><em>本系列主角 蘇利耶跋摩一世像</em>
                   </p>
                 </div>
@@ -98,7 +98,7 @@
           <div class="thanks">感謝! 此頁面由亞諭、裕暉協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的蘇利耶跋摩一世
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E8%98%87%E5%88%A9%E8%80%B6%E8%B7%8B%E6%91%A9%E4%B8%80%E4%B8%96">蘇利耶跋摩一世</a></b></i>

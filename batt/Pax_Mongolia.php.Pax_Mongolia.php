@@ -90,7 +90,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Pax_mongolia.png" width="" alt="">
+                  <img src="~assets/Pax_mongolia.png" width="" alt="">
                 </div>
               </td>
             </tr>
@@ -135,7 +135,7 @@
           <div class="thanks">感謝! 此頁面由裕暉，竺叡協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上蒂薩河之戰資訊
               <div style="margin-left: 10px;"><em><strong><a href="https://zh.wikipedia.org/wiki/%E8%92%82%E8%90%A8%E6%B2%B3%E4%B9%8B%E6%88%98">蒂薩河之戰</a></strong></em> 

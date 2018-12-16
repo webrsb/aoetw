@@ -42,7 +42,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Forging.jpg" width="45" alt="">
+                  <img src="~assets/Forging.jpg" width="45" alt="">
                 </div>
               </td>
             </tr>
@@ -69,7 +69,7 @@
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
-                <img class="gg" src="img/Ironcasting.jpg" alt=""><a href="Iron_Casting.php">鑄造</a>
+                <img class="gg" src="~assets/Ironcasting.jpg" alt=""><a href="Iron_Casting.php">鑄造</a>
               </td>
             </tr>
             <tr>

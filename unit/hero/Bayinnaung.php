@@ -33,7 +33,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Bayinnaungicon.png" width="80" alt="">
+                  <img src="~assets/Bayinnaungicon.png" width="80" alt="">
                 </div>
               </td>
             </tr>

@@ -58,29 +58,29 @@
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)</p>
+                  <img src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)</p>
                 <p>
-                  <img src="img/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)</p>
+                  <img src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)</p>
                 <p>
-                  <img src="img/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</p>
+                  <img src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)</p>
+                  <img src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)</p>
                 <p>
-                  <img src="img/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)</p>
+                  <img src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)</p>
                 <p>
-                  <img src="img/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</p>
+                  <img src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <p>
-                  <img src="img/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</p>
+                  <img src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</p>
               </td>
             </tr>
           </table>
@@ -96,7 +96,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Constablerichemonticon.png" width="80" alt="">
+                  <img src="~assets/Constablerichemonticon.png" width="80" alt="">
                 </div>
               </td>
             </tr>
@@ -159,7 +159,7 @@
           <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;">
-              <img src="img/Wikipedia-logo.png" width="50" height="46">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46">
             </div>
             <div style="margin-left: 60px;">維基百科上的高文爵士
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/高文_(亞瑟王傳說)">高文爵士</a></strong></i>
@@ -196,7 +196,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://zh.moegirl.org/高文(Fate)">Fate系列</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/高文满破.jpg" alt="">
+              <img height="124px;" src="~assets/高文满破.jpg" alt="">
             </div>
             <div class="hrn1"></div>
             <br>
@@ -205,7 +205,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表">反叛的魯路修</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/Gawain.jpg" alt="">
+              <img height="124px;" src="~assets/Gawain.jpg" alt="">
             </div>
             <div class="hrn1"></div>
             <br>
@@ -214,7 +214,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br><strong><a href="https://zh.wikipedia.org/wiki/高文爵士與綠騎士">高文與綠騎士</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="img/GGK_93.jpg" alt="">
+              <img height="124px;" src="~assets/GGK_93.jpg" alt="">
             </div>
             <div class="hrn1"></div>
             <br>
