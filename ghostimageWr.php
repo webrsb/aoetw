@@ -1,31 +1,4 @@
-<!doctype html>
-<html lang="zh-tw">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <title>第一屆世紀帝國盜圖大賽</title>
-    <style type="text/css">
-    h3{
-      font-weight: bold;
-    }
-    .col-md-12{
-      margin-top: 80px; }
-    }
-    .em{
-    font-size: 18px;
-    color: #dc3545;
-    font-weight: bold;
-    }
-    </style>
-
-
-    
-  </head>
-  <body>
+<template>
     
   <div class="container">
     <div class="d-flex justify-content-center">

@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-tw">
-  
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="favicon.ico">
-    <title>Aoetw</title>
-    <style>body { padding-top: 0px; font-family: "微軟正黑體"; background-color: #f5f5f5; font-size: 18px; }</style></head>
-  
-  <body>
+<template>
     <?php include( "head.php"); ?>
       <div class="container">
         <!-- Example row of columns -->

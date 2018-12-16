@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-tw">
-  
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="favicon.ico">
-    <title>Aoetw</title>
-    <style>
-      body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }    .tit{        margin: 20px auto 20px auto;        background: url(img/title1.jpg);         width:100%;         height: 284px;         text-align: center;        color: aliceblue;        padding-top: 50px;    }    .tt{        font-size: 45px;        font-weight: bold;    }    .tt2{        font-size: 30px;        font-weight: bold;        margin-right: 530px;    }.ww{}
-    </style>
-  </head>
-  
-  <body>
+<template>
     <?php include( "head.php"); ?>
     <!-- Main jumbotron for a primary marketing message or call to action
     -->
