@@ -465,7 +465,7 @@
                   </tr>
                   <tr>
                     <td class="tunitc6">
-                      <img class="gg" src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Teutons.php">條頓</a>
+                      <img class="gg" src="~assets/CastleAgeUnique.png" alt=""><a href="Teutons.php">條頓</a>
 
                     </td>
                     <td class="tunitc4"><a href="Ironclad.php">鋼鐵甲</a>

@@ -76,7 +76,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="~assets/bum.JPG" width="250" alt="">
+                  <img src="~assets/bum.jpg" width="250" alt="">
                   <p><em>仰光大金寺</em>
 
                   </p>

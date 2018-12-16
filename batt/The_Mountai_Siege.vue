@@ -123,7 +123,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="~assets/(map)Le_Loi - 2.The_Mountain_Siege.JPG" width="" alt="">
+                  <img src="~assets/(map)Le_Loi - 2.The_Mountain_Siege.jpg" width="" alt="">
                 </div>
               </td>
             </tr>

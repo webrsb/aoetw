@@ -76,7 +76,7 @@
           <div class="col-md-4">
              <h3><span class="we"><br/><strong><a href="https://zh.wikipedia.org/wiki/信長之野望系列">信長之野望系列</a></strong></span></h3> 
             <div class="wimg">
-              <img height="124px;" src="~assets/0001539476.JPG" alt="">
+              <img height="124px;" src="~assets/0001539476.jpg" alt="">
             </div>
             <div class="hrn1"></div>
             <br/>

@@ -193,7 +193,7 @@
             </tr>
             <tr>
               <td>
-                <h4><strong>泡泡俠</strong>&nbsp;<img src="https://p2.bahamut.com.tw/HOME/creationCover/91/0003928791_B.PNG" width="45" alt=""></h4>
+                <h4><strong>泡泡俠</strong>&nbsp;<img src="https://p2.bahamut.com.tw/HOME/creationCover/91/0003928791_B.png" width="45" alt=""></h4>
               </td>
             </tr>
             <tr>

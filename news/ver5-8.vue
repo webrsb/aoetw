@@ -67,7 +67,7 @@
             </ul>其他
             <ul>
               <li>
-                <img src="~assets/" class="gg" alt="">在沙漠且破裂的地形上的建築，被攻擊傷害+20%(<a href="https://www.youtube.com/watch?v=x7LWDiKiPy4">影片說明</a>)</li>
+                在沙漠且破裂的地形上的建築，被攻擊傷害+20%(<a href="https://www.youtube.com/watch?v=x7LWDiKiPy4">影片說明</a>)</li>
             </ul>
           </div>
         </div>

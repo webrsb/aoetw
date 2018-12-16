@@ -112,7 +112,7 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="~assets/Belem.JPG" width="250" alt="">
+                  <img src="~assets/Belem.jpg" width="250" alt="">
                   <p><em>位於葡萄牙里斯本的-貝倫塔</em>
                   </p>
                 </div>
