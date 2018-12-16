@@ -153,8 +153,11 @@
             </div>
           </div>
         </div>
-        <!-- /container -->
-        <?php include( "allbatt.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allbatt.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
 

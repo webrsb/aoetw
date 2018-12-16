@@ -133,8 +133,11 @@
         </div>
       </div>
     </div>
-    <!-- /container -->
-    <?php include( "allciv.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'allciv.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
 

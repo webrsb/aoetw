@@ -228,8 +228,11 @@
     </div>
     </div>
     </div>
-    <!-- /container -->
-    <?php include( "allhero.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'allhero.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
 

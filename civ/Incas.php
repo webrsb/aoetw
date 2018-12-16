@@ -128,8 +128,11 @@
           <div class="thanks">感謝! 此頁面由apencilbox協助編輯</div>
         </div>
       </div>
-      <!-- /container -->
-      <?php include( "allciv.php"); ?>
+      
+</template>
+<script>
+export default {
+  layout: 'allciv.php"); ?>
       <?php include( "foot.php"); ?>
   </body>
 

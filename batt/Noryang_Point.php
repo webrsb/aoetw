@@ -78,8 +78,11 @@
                 ">維基百科上的李舜臣與露梁海戰資訊<div style="margin-left: 10px; "><em><strong><a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%88%9C%E8%87%A3_(%E6%9C%9D%E9%AE%AE)
                 ">李舜臣</a></strong></em>  <em><strong><a href="https://zh.wikipedia.org/wiki/%E9%9C%B2%E6%A2%81%E6%B5%B7%E6%88%B0
                 ">露梁海戰</a></strong></em>  </div></div></div>    </div>    
-        <!-- /container -->
-        <?php include( "allbatt.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allbatt.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
   </body>

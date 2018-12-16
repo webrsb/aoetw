@@ -726,8 +726,11 @@ $(document).ready(function(){
 
 
     </div>
-<!-- /container -->
-    <!-- <?php include( "tree.php"); ?> -->
+
+</template>
+<script>
+export default {
+  layout: 'tree.php"); ?> -->
 </body>
 
 </html>

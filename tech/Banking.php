@@ -129,8 +129,11 @@
         </div>
       </div>
     </div>
-    <!-- /container -->
-    <?php include( "alltech.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'alltech.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
 

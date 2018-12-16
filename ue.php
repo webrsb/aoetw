@@ -21,8 +21,11 @@
       <div class="hrn1"></div>
     </div>
     </div>
-    <!-- /container -->
-    <?php include( "allwide.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'allwide.php"); ?>
     <?php include( "foot.php"); ?>
     <!-- Bootstrap core JavaScript==================================================-
     ->    <!-- Placed at the end of the document so the pages load faster -->

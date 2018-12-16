@@ -236,8 +236,11 @@
       <div class="col-md-12"></div>
     </div>
     </div>
-    <!-- /container -->
-    <?php include( "allbuilding.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'allbuilding.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
 

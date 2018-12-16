@@ -153,8 +153,11 @@
             </div>
           </div>
         </div>
-        <!-- /container -->
-        <?php include( "allage.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allage.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
 

@@ -33,8 +33,11 @@
             <p>宗教上的重要人物的物品或遺體遺骨，在敬奉（veneration）之氣氛下被作為實體的紀念物小心保存。聖髑是佛教、印度教、巫覡宗敎等許多宗教的一些類型的重要方面。拉丁語reliquiae意為"remains"（剩餘物，遺體遺骨）。聖髑盒（reliquary）是保有一個或數個聖髑的朝聖地（shrine）。</p>
           </div>
         </div>
-        <!-- /container -->
-        <?php include( "allen.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allen.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
 

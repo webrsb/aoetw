@@ -68,8 +68,11 @@
         </div>
       </div>
     </div>
-    <!-- /container -->
-    <?php include( "allen.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'allen.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
 

@@ -22,8 +22,11 @@
         </div>
       </div>
     </div>
-    <!-- /container -->
-    <?php include( "footn.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'footn.php"); ?>
   </body>
 
 </html>

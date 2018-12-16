@@ -982,8 +982,11 @@
     </div>
     </div>
     </div>
-    <!-- /container -->
-    <?php include( "allunit2.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'allunit2.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
 

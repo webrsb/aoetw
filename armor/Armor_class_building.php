@@ -582,8 +582,11 @@
               alt=""><a href="Mameluke.php">精銳奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
           </ul>
         </div>
-        <!-- /container -->
-        <?php include( "alllarmor.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'alllarmor.php"); ?>
         <?php include( "footn.php"); ?>
   </body>
 

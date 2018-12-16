@@ -263,8 +263,11 @@
       <p>此頁面感謝qaws68（伊森）整理<a href="https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html">AOE常見問題</a>完成</p>
     </blockquote>
     </div>
-    <!-- /container -->
-    <?php include( "foot.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'foot.php"); ?>
   </body>
 
 </html>

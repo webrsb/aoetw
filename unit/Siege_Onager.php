@@ -441,8 +441,11 @@
           <div class="thanks">感謝! 此頁面由JuneRain六月雨協助編輯</div>
         </div>
       </div>
-      <!-- /container -->
-      <?php include( "allunit.php"); ?>
+      
+</template>
+<script>
+export default {
+  layout: 'allunit.php"); ?>
       <?php include( "footn.php"); ?>
   </body>
 

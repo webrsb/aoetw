@@ -170,8 +170,11 @@
                 </li>
               </ul>
             </div>
-            <!-- /container -->
-            <?php include( "alllarmor.php"); ?>
+            
+</template>
+<script>
+export default {
+  layout: 'alllarmor.php"); ?>
             <?php include( "footn.php"); ?>
             <!-- Bootstrap core JavaScript==================================================-
             ->            <!-- Placed at the end of the document so the pages load faster -->

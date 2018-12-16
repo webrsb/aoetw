@@ -123,8 +123,11 @@
         </div>
       </div>
     </div>
-    <!-- /container -->
-    <?php include( "foot.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'foot.php"); ?>
   </body>
 
 </html>

@@ -166,8 +166,11 @@
           </div>
           <div class="thanks">此頁面由眠編輯，並感謝Ethan Lee協助</div>
         </div>
-        <!-- /container -->
-        <?php include( "allen.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allen.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
 

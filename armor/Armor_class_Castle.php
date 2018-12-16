@@ -50,8 +50,11 @@
                   alt=""><a href="Tarkan.php">精銳韃靼騎兵</a>(<a href="Huns.php">匈奴</a>限定)</li>
               </ul>
             </div>
-            <!-- /container -->
-            <?php include( "alllarmor.php"); ?>
+            
+</template>
+<script>
+export default {
+  layout: 'alllarmor.php"); ?>
             <?php include( "footn.php"); ?>
             <!-- Bootstrap core JavaScript==================================================-
             ->            <!-- Placed at the end of the document so the pages load faster -->

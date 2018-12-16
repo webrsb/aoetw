@@ -145,8 +145,11 @@
           </table>
           <div class="thanks">感謝! 此頁面由賜齡，裕暉協助編輯</div>
         </div>
-        <!-- /container -->
-        <?php include( "allbatt.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allbatt.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
 

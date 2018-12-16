@@ -67,8 +67,11 @@
                   <img class="gg" src="img/TarkanIcon.jpg" alt=""><a href="Tarkan.php">韃靼騎兵</a>(<a href="Huns.php">匈奴</a>限定)</li>
               </ul>
             </div>
-            <!-- /container -->
-            <?php include( "alllarmor.php"); ?>
+            
+</template>
+<script>
+export default {
+  layout: 'alllarmor.php"); ?>
             <?php include( "foot.php"); ?>
             <!-- Bootstrap core JavaScript==================================================-
             ->            <!-- Placed at the end of the document so the pages load faster -->

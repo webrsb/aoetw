@@ -294,10 +294,11 @@
  </ul>
     
 </div>
-    <!-- /container -->
-
-
-<?php include("alllarmor.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'alllarmor.php"); ?>
 <?php include("footn.php"); ?>
 
 

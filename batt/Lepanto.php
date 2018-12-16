@@ -87,8 +87,11 @@
                 " width="50 " height="46 "></div><div style="margin-left: 60px;
                 ">維基百科上的勒班陀海戰<div style="margin-left: 10px; "><i><b><a href="https://zh.wikipedia.org/wiki/%E5%8B%92%E7%8F%AD%E9%99%80%E6%88%B0%E5%BD%B9
                 ">勒班陀</a></b></i></div></div></div></div>    </div>    
-        <!-- /container -->
-        <?php include( "allbatt.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allbatt.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
   </body>

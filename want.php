@@ -53,8 +53,11 @@
             <div>所有參與者，將答謝於首頁，謝謝你。</div>
           </div>
         </div>
-        <!-- /container -->
-        <?php include( "foot.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'foot.php"); ?>
   </body>
 
 </html>

@@ -74,8 +74,11 @@
                 ">至靈山魂</a></p>        </td>      </tr>        </table>     <div class="thanks
                 ">       感謝! 此頁面由亞諭、裕暉協助編輯     </div>  </div></div> <div class="row ">  <div class="col-md-12
                 ">  </div></div>      </div>    
-        <!-- /container -->
-        <?php include( "allbatt.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allbatt.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
   </body>

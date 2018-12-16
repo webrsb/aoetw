@@ -524,8 +524,11 @@
             </div>
           </div>
         </div>
-        <!-- /container -->
-        <?php include( "allunit.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allunit.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
 

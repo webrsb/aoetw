@@ -613,6 +613,9 @@ and (max-device-width: 480px)  {
       "><div><a href="Arrowslits.php ">箭狹槽</a></div></td>        <td class="t11 trm
       "></td>        <td class="t11 trm "></td>        <td class="t11 trm
       "></td>        </tr>    </table></div>  </div></div>    </div>
-      <!-- /container -->
-    <!-- <?php include( "tree.php"); ?> -->
+      
+</template>
+<script>
+export default {
+  layout: 'tree.php"); ?> -->
     </body></html>

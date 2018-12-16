@@ -76,8 +76,11 @@
                 " width="50 " height="46 "></div><div style="margin-left: 60px;
                 ">維基百科上獅子亨利資訊<div style="margin-left: 10px; "><em><strong><a href="https://zh.wikipedia.org/wiki/%E7%8B%AE%E5%AD%90%E4%BA%A8%E5%88%A9
                 ">獅子亨利</a></strong></em>  </div>  </div>    </div>    </div>    
-        <!-- /container -->
-        <?php include( "allbatt.php"); ?>
+        
+</template>
+<script>
+export default {
+  layout: 'allbatt.php"); ?>
         <?php include( "foot.php"); ?>
   </body>
   </body>

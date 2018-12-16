@@ -1210,8 +1210,11 @@ and (max-device-width: 480px)  {
     </div>
     </div>
     </div>
-    <!-- /container -->
-    <!-- <?php include( "tree.php"); ?> -->
+    
+</template>
+<script>
+export default {
+  layout: 'tree.php"); ?> -->
   </body>
 
 </html>

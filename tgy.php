@@ -73,8 +73,11 @@
               <p>預計報名時間：即日起~台灣時間2018年3月4日(日)24時止。</p>
             </div>
           </div>
-          <!-- /container -->
-          <?php include( "foot.php"); ?>
+          
+</template>
+<script>
+export default {
+  layout: 'foot.php"); ?>
           <!-- Bootstrap core JavaScript==================================================-
           ->            <!-- Placed at the end of the document so the pages load faster -->
           <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->

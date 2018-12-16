@@ -28,8 +28,11 @@
         </div>
       </div>
     </div>
-    <!-- /container -->
-    <?php include( "allmap.php"); ?>
+    
+</template>
+<script>
+export default {
+  layout: 'allmap.php"); ?>
     <?php include( "foot.php"); ?>
   </body>
 
