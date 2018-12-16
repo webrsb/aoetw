@@ -244,4 +244,10 @@
               <div class="thanks">       感謝! 此頁面由Dennis協助編輯</div>  
           </div>
         </div>    
-      </div>    <!-- /container --><?php include("allciv.php"); ?><?php include("foot.php"); ?></body></html>
+      </div>
+    <!-- /container -->
+    <?php include( "allciv.php"); ?>
+    <?php include( "foot.php"); ?>
+  </body>
+
+</html>
