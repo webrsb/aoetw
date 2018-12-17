@@ -1,31 +1,19 @@
 <template>
-      <script>
-		window.dataLayer = window.dataLayer || [];      
-		function gtag(){dataLayer.push(arguments);}      gtag('js', new Date());
-		gtag('config', 'UA-111706873-1');
-		$( document ).ready(function() {		
-			$('.carousel').carousel({		  
-				interval: 4000		
-			});      
-		});
-      </script>
-      <!-- Main jumbotron for a primary marketing message or call to
-         action -->
-      <div class="tit">
-         <p class="tt2">Aoetw</p>
-         <span class="tt">完整、準確的世紀帝國百科全書</sapn>         
-      </div>
-      </div>    
-      <div class="container" style=" margin-bottom: 30px; ">
+  <section>
+    <div class="tit">
+       <p class="tt2">Aoetw</p>
+       <span class="tt">完整、準確的世紀帝國百科全書  </span>
+    </div>
+     <div class="container" style=" margin-bottom: 30px; ">
          <div class="row">
             <div class="col-md-12">
                <div class="col-md-12">
-                  <p> <span style="text-align: center; color:#dc3545;"><a href="https://discord.gg/ymNuMVg"><img width="100" src="~assets/discord.png" alt=""> Discord語音聊天群</a>，歡迎各位前來約戰、聊天與發問問題。          
+                 <p> <span style="text-align: center; color:#dc3545;"><a href="https://discord.gg/ymNuMVg"><img width="100" src="~assets/discord.png" alt=""> Discord語音聊天群</a>，歡迎各位前來約戰、聊天與發問問題。</span>   </p>  
                </div>
                <div class="col-md-12" style="text-align: right;font-size: 25px;">已有758篇條目</div>
                <div class="row">
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="civ.php">文明</a></h3>
+                     <h3><a href="/civ">文明</a></h3>
                      <a href="civ.php"><img width="100" src="~assets/u1.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
@@ -58,39 +46,11 @@
                   </div>
                </div>
             </div>
-            <br/>
-            <!--
-            <div class="col-md-4">
-               <div class="nw">
-                  <h4 style="margin-top:30px;"><strong>精選圖片</strong></h4>
-                  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                     <div class="carousel-inner">
-                        <div class="carousel-item active">
-                           <img class="d-block" src="~assets/q1.jpg" alt="歡度佳節">                  
-                           <div class="carousel-caption">                    歡度佳節                  </div>
-                        </div>
-                        <div class="carousel-item">
-                           <img class="d-block" src="~assets/q2.jpg" alt="繁華的非洲小鎮">                  
-                           <div class="carousel-caption">                    繁華的非洲小鎮                  </div>
-                        </div>
-                        <div class="carousel-item">
-                           <img class="d-block" src="~assets/q3.jpg" alt="蘇格蘭鄉村">                  
-                           <div class="carousel-caption">                    蘇格蘭鄉村                  </div>
-                        </div>
-                        <div class="carousel-item">
-                           <img class="d-block" src="~assets/q4.jpg" alt="維京小鎮(白佑揚提供)">                  
-                           <div class="carousel-caption">                    維京小鎮(白佑揚提供)                  </div>
-                        </div>
-                     </div>
-                  </div>
-                  <p style="text-align: right;font-size: 15px;"><a href="uknow.php">歷史圖片</a> <a href="uknow.php">投稿圖片</a></p>
-               </div>
-            </div>
-            !-->
+            <br>
          </div>
       </div>
       <div class="container">
-         <div class="row" style="margin-top: 0px;        border-top: 1px solid #c7c7c7;" class="nw">
+         <div class="row nw" style="margin-top: 0px;        border-top: 1px solid #c7c7c7;">
             <div class="col-md-2 ititle2">
                <div class="nw">
                   <h4 style="margin-top:30px;"><strong>特色條目</strong></h4>
@@ -138,7 +98,7 @@
                </div>
             </div>
          </div>
-         <div class="row" style="margin-top: 0px;        border-top: 1px solid #c7c7c7;" class="nw">
+         <div class="row nw" style="margin-top: 0px;        border-top: 1px solid #c7c7c7;">
             <div class="col-md-8 ititle3">
                <div class="nw">
                   <h4 style="margin-top:30px;text-align: left;"><strong>你知道嗎？</strong></h4>
@@ -151,7 +111,7 @@
                            <li><a href="Trade_Cog.php">哪一個單位</a>是遊戲中移動速度最快的單位？</li>
                            <li>獨輪推車<a href="Wheelbarrow.php">最佳研發時機</a>怎麼看？</li>
                         </ul>
-                        <br/>                
+                        <br>                
                         <p style="text-align: right;font-size: 15px;"><a href="http://tinyurl.com/y95wnoxq">我要投稿</a>&nbsp;                  <span style="text-align: right;font-size: 15px;"><a href="uknow.php">歷史存檔</a></span> 
                         </p>
                         </ul>
@@ -173,14 +133,34 @@
             </div>
          </div>
       </div>
-      
+  </section>
 </template>
+
 <script>
 export default {
-  layout: 'footn',
   components: {
   }
 }
 </script>
+
 <style>
+.tit {
+    background: url(~assets/title3.jpg);
+    width: 100%;
+    height: 284px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 50px;
+}
+
+.tt2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 530px;
+}
+
+.tt {
+    font-size: 45px;
+    font-weight: bold;
+}
 </style>

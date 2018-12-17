@@ -1,86 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-tw">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="favicon.ico">
-
-    <title>Aoetw</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="http://getbootstrap.com/assets/css/docs.min.css" rel="stylesheet">
-    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-
-
-    <!-- Custom styles for this template -->
-    <link href="jumbotron.css" rel="stylesheet">
-    <style>
-        body {
-        padding-top: 0px;
-        font-family: "微軟正黑體";
-        background-color: #f5f5f5;
-        font-size: 18px;
-        }
-    .tit{
-        margin: 20px auto 20px auto;
-        background: url(img/title3.jpg); 
-        width:100%; 
-        height: 284px; 
-        text-align: center;
-        color: aliceblue;
-        padding-top: 50px;
-    }
-    .tt{
-        font-size: 45px;
-        font-weight: bold;
-    }
-    .tt2{
-        font-size: 30px;
-        font-weight: bold;
-        margin-right: 530px;
-    }
-.wimg{
-  width:300px ;
-  height: 250px;
-
-
-}
-.we{
-  font-size: 20px;
-}
-.unititle,.unititle2{
-  color: #fff;
-}
-.tor img{
-  margin-right: 5px;
-  width: 22px;
-  padding-bottom: 2px;
-
-
-}
-
-    </style>
-
-
-</head>
-
-<body >
-
+<template>
     <div class="container">
         <!-- Example row of columns -->
 
@@ -493,4 +411,22 @@ export default {
 }
 </script>
 <style>
+    .tit{
+        margin: 20px auto 20px auto;
+        background: url(img/title3.jpg); 
+        width:100%; 
+        height: 284px; 
+        text-align: center;
+        color: aliceblue;
+        padding-top: 50px;
+    }
+    .tt{
+        font-size: 45px;
+        font-weight: bold;
+    }
+    .tt2{
+        font-size: 30px;
+        font-weight: bold;
+        margin-right: 530px;
+    }
 </style>

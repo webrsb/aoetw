@@ -1,5 +1,5 @@
 <template>
-    <div class="container" style="margin-top:50px">
+ <div class="container" style="margin-top:50px">
       <!-- Example row of columns -->
        <h1>文明</h1>
        <h3></h3>
@@ -21,7 +21,7 @@
               <td>
                 <div class="unitcontent">西歐
                   <ul>
-                    <li><a href="Britons.php">不列顛</a>
+                    <li><a href="/civ/Britons">不列顛</a>
                     </li>
                     <li><a href="Celts.php">賽爾特</a>
                     </li>
@@ -185,14 +185,17 @@
         </div>
         <hr>
       </div>
-      
+  </div>
 </template>
+
 <script>
 export default {
-  layout: 'foot',
   components: {
   }
 }
 </script>
+
 <style>
+
+
 </style>
