@@ -69,6 +69,7 @@
                   <td>
                     <div class="unitcontent"> <a href="The_Battle_of_Falkirk.php">福爾克之役</a> 
                     </div>
+                  </td>
                 </tr>
               </table>
             </div>
@@ -1249,7 +1250,9 @@
               </table>
             </div>
           </div>
-          
+        </div>
+      </div>         
+    </div> 
 </template>
 <script>
 export default {
