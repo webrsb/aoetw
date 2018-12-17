@@ -477,6 +477,7 @@
 						</div>
 					</div>
 				</ul>
+				  </div>
               </td>
             </tr>
             <tr>
@@ -601,7 +602,7 @@
       </div>
       <hr>
     </div>
-    
+  </div>
 </template>
 <script>
 export default {
