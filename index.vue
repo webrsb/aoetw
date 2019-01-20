@@ -13,36 +13,36 @@
                <div class="col-md-12" style="text-align: right;font-size: 25px;">已有758篇條目</div>
                <div class="row">
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="/civ">文明</a></h3>
-                     <a href="civ.php"><img width="100" src="~assets/u1.jpg" alt="..." class="img-circle"></a>            
+                     <h3><a href="civs">文明</a></h3>
+                     <a href="civs"><img width="100" src="~assets/u1.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="units.php">單位</a></h3>
-                     <a href="units.php"><img width="100" src="~assets/u2.jpg" alt="..." class="img-circle"></a>            
+                     <h3><a href="units">單位</a></h3>
+                     <a href="units"><img width="100" src="~assets/u2.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="tech.php">科技</a></h3>
-                     <a href="tech.php"><img width="100" src="~assets/u3.jpg" alt="..." class="img-circle"></a>            
+                     <h3><a href="techs">科技</a></h3>
+                     <a href="techs"><img width="100" src="~assets/u3.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="bulding.php">建築</a></h3>
-                     <a href="bulding.php"><img width="100" src="~assets/u4.jpg" alt="..." class="img-circle"></a>            
+                     <h3><a href="bulding">建築</a></h3>
+                     <a href="bulding"><img width="100" src="~assets/u4.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="batt.php">戰役</a></h3>
-                     <a href="batt.php"><img width="100" src="~assets/u5.jpg" alt="..." class="img-circle"></a>            
+                     <h3><a href="batt">戰役</a></h3>
+                     <a href="batt"><img width="100" src="~assets/u5.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="starbatt.php">戰術技巧</a></h3>
-                     <a href="starbatt.php"><img width="100" src="~assets/u6.jpg" alt="..." class="img-circle"></a>            
+                     <h3><a href="ar">戰術技巧</a></h3>
+                     <a href="ar"><img width="100" src="~assets/u6.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="talk.php">討論區</a></h3>
-                     <a href="talk.php"><img width="100" src="~assets/u7.jpg" alt="..." class="img-circle"></a>            
+                     <h3><a href="talk">討論區</a></h3>
+                     <a href="talk"><img width="100" src="~assets/u7.jpg" alt="..." class="img-circle"></a>            
                   </div>
                   <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-                     <h3><a href="hkbb.php">工作人員</a></h3>
-                     <a href="hkbb.php"><img width="100" src="~assets/u8.jpg" alt="..." class="img-circle"></a>            
+                     <h3><a href="hkbb">工作人員</a></h3>
+                     <a href="hkbb"><img width="100" src="~assets/u8.jpg" alt="..." class="img-circle"></a>            
                   </div>
                </div>
             </div>
