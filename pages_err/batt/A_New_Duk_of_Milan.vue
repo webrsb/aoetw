@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>米蘭新公爵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,11 +14,9 @@
               <p>這次戰役非常困難，因為玩家必須要在持續不斷的攻擊中建立防禦基地，並要出去控制周邊地區。一旦完成那部分，玩家必須擊敗強大而意外的來自新陣營的攻擊，然後戰勝城市，贏下這次戰役與系列。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -31,7 +28,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">

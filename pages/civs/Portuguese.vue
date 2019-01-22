@@ -52,12 +52,9 @@
             <em><a href="por.php">葡萄牙科技樹</a></em>
           </div>
           <br/>
-
-
           <h3>更新日誌</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <h3><em><a href="ak.php">非洲王國</a></em></h3>
 <ul>
     <li>手風琴砲有1的擴散傷害</li>
@@ -74,7 +71,6 @@
     <li>手風琴砲增加+1散射傷害(從1增至2)</li>
 </ul>
 </div>
-
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">

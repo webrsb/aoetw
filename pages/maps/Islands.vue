@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>島嶼</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           
            <h3>說明</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>玩家在島嶼上一開始自己占據一座島，島上可能有鹿及一些綿羊，並可能出現三種不同的地形:沙漠，草原和美洲叢林，每種地形會有溫帶森林，棕櫚樹或熱帶叢林等不同的樹種。此外還有些無人居住的小島，島上可能蘊藏豐富的黃金和石礦。

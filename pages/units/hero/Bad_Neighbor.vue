@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>壞鄰居</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -16,7 +15,6 @@
               href="http://tinyurl.com/yd7zm48f">阿卡圍城戰</a>的投石機（神之弓也是）。雖然壞鄰居以投石機的外表出現，但是他有幾個特點。當他組裝後，他像其他的英雄單位一樣無法被招降且會自動回血，防禦仍是2/8，與一般的投石機(1/150)不同。壞鄰居在未組裝時血量會掉一半(300->150)，並且失去所有英雄單位該有的能力，此外他還會擁有1的近戰攻擊力（雖然你永遠用不到，因為在未組裝的狀態下令壞鄰居攻擊會使他開始組裝）。</p>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -32,7 +30,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">壞鄰居</a>
-
                 </div>
               </td>
             </tr>

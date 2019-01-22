@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>黑快搶城</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -19,43 +18,36 @@
             </ul>
           </div>
            <h3>概述</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>黑快搶城為直城的一種變體，目的在於安全且快速的上城堡，以優勢兵種贏得比賽。打法為在黑暗時代出3隻甚至更多的民兵去干擾對手，以擊殺村民，浪費對方控制力為目的，如果對方兵力出來也盡可能的拖延時間，讓自己有更多的時間去圍家與升級。</p>
             <p>優秀的玩家，都可以17分左右上城堡，甚至16分，但一般高手區並不常見，因為此種打法太容易被制式的封快打法給消滅，除非地形真的很好。</p><strong><span class="glyphicon glyphicon-plus" aria-hidden="true" style=" color: #3c763d; margin-right: 5px; "></span>什麼時候該打黑快搶城</strong>
-
             <ul>
               <li>完美地形：要打黑快搶城，不只要地形好，好還要更好，因為守不好很容易被秒殺。</li>
               <li>優勢文明：很多文明只要上了城堡就能展現出巨大優勢，如經濟優勢的維京，軍事優勢的不列顛，都很適合。另外匈奴便宜的馬弓優勢，一向都是此打法的首選。南美文明的鷹勇士也是相同道理。</li>
             </ul><strong><span class="glyphicon glyphicon-plus" aria-hidden="true" style=" color: #3c763d; margin-right: 5px; "></span>什麼時候不該打黑快搶城</strong>
-
             <ul>
               <p>空曠地圖，黃金、樹木不好防守時。</p>
             </ul>
           </div>
            <h3>反制</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
               <div class="col-md-12">
                 <p>如果發現對方非常晚上封建，那就是搶城堡的打法，不用說立刻派三名村民前置箭塔，家裡開始挖石頭，給對方壓力，配合兵力與箭塔想辦法打進去，壓制對方村民，盡可能的多殺村民，如果都斥侯發現圍的很死，可能打不進去，也可以自己開始圍家，跟他拼城堡時代。</p>
                 <p> <strong><em> 一般來說，搶城還是直城的打法都非常怕裝甲塔。</em></strong>
-
                 </p>
               </div>
             </div>
           </div>
            <h3>流程</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
               <div class="col-md-12"> <em><p style="padding: 0px 10px;">流程只是大概，沒有一定，每場地形地物都不同，重要的還是找到最適合自己的流程與打法!</p></em> 
               </div>
               <div class="col-md-6"> <strong>村民升級流程</strong>
-
                 <ul>
                   <li>2~7p:6人採集羊肉</li>
                   <li>8~11p:4人伐木</li>
@@ -72,7 +64,6 @@
                 </ul>
               </div>
               <div class="col-md-6"> <strong>升級後流程</strong>
-
                 <ul>
                   <li>看地形好壞，務必在對方黑快或封快前圍死自己家</li>
                   <li>民兵請多爭取時間，可以的話殺到對方村民更好</li>
@@ -132,7 +123,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle"><a href="">黑快搶城</a>
-
                 </div>
               </td>
             </tr>
@@ -140,14 +130,12 @@
               <td colspan="2">
                 <div class="unititle">
                   <img src="~assets/MilitiaIcon.jpg" alt=""> <a href="Militia.php">民兵</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle2"><a href="">戰術介紹</a>
-
                 </div>
               </td>
             </tr>

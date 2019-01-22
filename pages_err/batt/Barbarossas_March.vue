@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>紅鬍子的行軍</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,17 +13,14 @@
             <p>紅鬍子的行軍為巴巴羅薩戰役的第五關劇情關卡。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>遊戲者</h3>
-
             <ul>
               <li>
                 <div class="p2" style="float: left;"></div><strong>遊戲者(條頓人)</strong>：遊戲者本身，將從北方開始。</li>
             </ul>
              <h3>同盟</h3>
-
             <ul>
               <li>
                 <div class="p1" style="float: left;"></div><strong>君士坦丁堡(拜占庭)</strong>：君士坦丁堡位於地圖上的中北部，三面環海，他們有龐大的艦隊和一些拜占庭聖騎兵、弩砲與長槍兵。如果你接近君士坦丁堡的大門時，他們將會改變他們的外交力場，並且攻擊你。但你將你的單位接近聖索非亞大教堂(世界奇觀)旁邊時，他們會立刻和你同盟，並且給你全部的海軍。</li>
@@ -38,7 +34,6 @@
                 <div class="p8" style="float: left;"></div><strong>救傷團(條頓)</strong>：救傷團在東南部有一個設防的城鎮。少數騎士、弩兵和條頓武士保護。</li>
             </ul>
              <h3>敵人</h3>
-
             <ul>
               <li>
                 <div class="p3" style="float: left;"></div><strong>薩拉森海軍(薩拉森)</strong>：薩拉森海軍在陸地上有幾個哨站，一座城堡與幾隻駱駝，有一大群海軍在海面上巡邏。</li>
@@ -102,18 +97,14 @@
         </div>
       </div>
        <h2>戰役說明</h2>
-
       <div class="hrn1"></div>
       <div class="col-md-12">
         <div class="col-md-4">
            <h3>開場設定</h3>
-
           <ul>
             <li><strong>起始時代：</strong>
-
               <img class="gg" src="~assets/Imperial-age-research.jpg"
               class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
             </li>
             <li><strong>起始資源：</strong>無</li>
             <li><strong>人口上限：</strong>72</li>
@@ -121,7 +112,6 @@
         </div>
         <div class="col-md-4">
            <h3>起始單位</h3>
-
           <ul>
             <li>
               <img class="gg" src="~assets/PikemanIcon.jpg" alt=""> <a href="Pikeman.php">重裝長槍兵</a> 24</li>
@@ -143,7 +133,6 @@
         </div>
         <div class="col-md-4">
            <h3>大地之母</h3>
-
           <ul>
             <li>
               <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a> 6</li>
@@ -161,7 +150,6 @@
         </div>
       </div>
        <h2>主要任務</h2>
-
       <div class="hrn1"></div>
       <div class="n1">
         <ol>
@@ -170,7 +158,6 @@
         </ol>
       </div>
        <h2>任務提示</h2>
-
       <div class="hrn1"></div>
       <div class="n1">
         <ul>
@@ -180,7 +167,6 @@
           <li>重建在戰爭中受到重創的軍容。別急著前進，先小心偵察並看好你的攻城武器和僧侶。</li>
         </ul>
          <h2>概述</h2>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

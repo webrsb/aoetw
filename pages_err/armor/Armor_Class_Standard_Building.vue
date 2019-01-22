@@ -1,11 +1,8 @@
 <template>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
-
     <div class="container">
         <!-- Example row of columns -->
-
 <div class="row" style=" margin-top: 50px;">
   <div class="col-md-12">
 <h1>標準建築裝甲</h1>
@@ -16,11 +13,7 @@
 </div>
   <div class="col-md-12">
 <div class="n1">
-
-
 <p>標準建築裝甲是一個防禦裝甲類別，所有在這個系列的建築<strong>(不包括世界奇觀)</strong>都會被對建築裝甲的有攻擊加成的兵種或科技有額外的傷害。</p>
-
-
 </div>
 <h3>標準建築單位</h3>
 <div class="hrn1"></div>
@@ -66,13 +59,11 @@
     <li><img width="25px" src="~assets/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a></li>
     <li><img width="25px" src="~assets/Feitoriaicon.png" alt=""><a href="">港灣大商站</a>(<a href="Portyguese.php">葡萄牙</a>限定)</li>
     <li><img width="25px" src="~assets/Dockicon.png" alt=""><a href="">巨港</a>(<a href="Malians.php">馬來</a>限定)</li>
-
 </ul>
 </div>
 </div>
 </div>
 </div>
-
 <h3>剋標準建築單位的單位與建築</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -206,7 +197,6 @@
  
   <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
    <ul>
-
      <li><img class="gg" src="~assets/ArcherIcon.jpg" alt=""><a href="Archer.php">弓兵</a>→
         <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>→
         <img class="gg" src="~assets/ArbalestIcon.jpg" alt=""><a href="Arbalest.php">強弩兵</a></li>

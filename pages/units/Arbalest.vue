@@ -60,16 +60,13 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aok.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>訓練時間為27秒。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>訓練增加到35秒。</li>
               <li>對<a href="Armor_Class_Spearman.php">槍兵系</a>的攻擊+3。</li>
@@ -77,25 +74,21 @@
               <li>不列顛人引進<a href="Yeomen.php">義勇騎兵</a>。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li><a href="Yeomen.php">義勇騎兵</a>移到了城堡時代。</li>
               <li><a href="Obsidian_Arrows.php"></a>馬雅新增科技黑曜石之箭。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li>義大利人可研發<a href="Pavise.php">巨盾</a>。</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li><a href="Indians.php">印度</a>:5.5版後強弩兵從印度的科技樹移除。</li>
               <li><a href="ver5-8.php">5.8版</a>後高棉有了強弩兵。</li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -128,7 +121,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">射手</a>
-
               </td>
             </tr>
             <tr>
@@ -138,13 +130,11 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4"><a href="Archery_Range.php">射箭場</a>
-
               </td>
             </tr>
             <tr>
@@ -203,7 +193,6 @@
             </tr>
             <tr>
               <td class="unit3"><a href="">近防</a>
-
               </td>
               <td class="unit4">0</td>
             </tr>
@@ -217,7 +206,6 @@
             </tr>
             <tr>
               <td class="unit3"><a href="">跑速</a>
-
               </td>
               <td class="unit4">0.96</td>
             </tr>
@@ -234,7 +222,6 @@
               <td class="unit3">從升級</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>
-
               </td>
             </tr>
           </table>

@@ -14,7 +14,6 @@
             <br/>弒君模式遊戲中，遊戲開始時，每位玩家都會在城鎮中心附近擁有一座城堡。
             <br/>不同的文明城堡的建築風格會有不同</div>
            <h3>可生產單位與可研發科技</h3>
-
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-6">
@@ -23,15 +22,12 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Elite-unique-research.jpg" width="30" alt=""><a href="Unique_Unit.php">特殊單位</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/PetardIcon.jpg" width="30" alt=""><a href="Petard.php">爆炸桶</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="untech.php">城堡特殊科技</a>
-
                   </li>
                 </ul>
               </div>
@@ -42,38 +38,30 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Elite-unique-research.jpg" width="30" alt=""><a href="Unique_Unit.php">精銳特殊單位</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" width="30" alt=""><a href="Trebuchet.php">巨型投石機</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="untech.php">帝王特殊科技</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/Hoardings.jpg" width="30" alt=""><a href="Hoardings.php">外架式柵樓</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/Sappers.jpg" width="30" alt=""><a href="Sappers.php">坑道工兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/Spiestreason.jpg" width="30" alt=""><a href="Spies.php">間諜</a>
-
                   </li>
                 </ul>
               </div>
             </div>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -91,7 +79,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -100,7 +87,6 @@
             </ul>
           </div>
            <h3>戰術和建築位置</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -118,7 +104,6 @@
             </ul>
           </div>
            <h3>箭數</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>城堡可以根據駐紮單位來提升射箭數量，沒有任何駐紮時可以射出4支箭。每支箭造成11傷害(根據被傷害單位遠程護甲減少)。</p>
@@ -132,7 +117,6 @@
               <tr>
                 <td class="tta1">
                   <img class="gg" src="~assets/VillagerMaleIcon.jpg" width="30" alt=""><a href="Villager.php">村民</a>
-
                 </td>
                 <td class="tta2">20</td>
                 <td class="tta3">13(額外9)</td>
@@ -140,7 +124,6 @@
               <tr>
                 <td class="tta1">
                   <img class="gg" src="~assets/ArcherIcon.jpg" width="30" alt=""><a href="Archer.php">弓兵</a>
-
                 </td>
                 <td class="tta2">20</td>
                 <td class="tta3">11(額外7)</td>
@@ -148,7 +131,6 @@
               <tr>
                 <td class="tta1">
                   <img class="gg" src="~assets/CrossbowmanIcon.jpg" width="30" alt=""><a href="Crossbowma.php">弩兵</a>
-
                 </td>
                 <td class="tta2">20</td>
                 <td class="tta3">14(額外10)</td>
@@ -156,10 +138,8 @@
               <tr>
                 <td class="tta1">
                   <img class="gg" src="~assets/ArbalestIcon.jpg" width="30" alt=""><a href="Arbalest.php">強弩兵</a>
-
                   <img class="gg" src="~assets/CavalryArcherIcon.jpg"
                   width="30" alt=""><a href="Cavalry_Archer.php">馬弓騎兵</a>
-
                 </td>
                 <td class="tta2">20</td>
                 <td class="tta3">16(額外12)</td>
@@ -167,14 +147,12 @@
               <tr>
                 <td class="tta1">
                   <img class="gg" src="~assets/HandCannoneerIcon.jpg" width="30" alt=""><a href="Hand_Cannoneer.php">火槍手</a>
-
                 </td>
                 <td class="tta2">18</td>
                 <td class="tta3">19(額外15)</td>
               </tr>
             </table>條頓的特殊技術：<strong><a href="Crenellations.php">垛口</a></strong>，讓步兵駐紮也有增加箭數效果，同種類的步兵駐紮滿20人可以增加7支箭。</div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -282,22 +260,18 @@
             </tr>
           </table>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aok.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>城堡視野+10。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>引入<a href="Herbal_Medicine.php">草藥學</a>。</li>
               <li><a href="Teutons.php">條頓</a>:引入<a href="Crenellations.php">垛口</a>。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>城堡現在有11的視野範圍。</li>
               <li><a href="Chemistry.php">化學</a>現在會加成城堡的攻擊。</li>
@@ -335,7 +309,6 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="ien"><em>"第一座城堡出現於公元9世紀的歐洲，是對當地主要堡壘的改善。城堡在戰術上是防禦性的，但也具有戰略上的攻擊性。因為如果有防禦妥當它們是難以奪取的。它們也提供了一個安全的基地，武裝部隊可以透過這個基地擴大對地方的控制。一位領主都有他們專屬的武裝部隊效忠於他。十世紀到十一世紀時城堡遍布歐洲，以應付來自北部和東部的軟弱的中央政權和野蠻人的襲擊。國王花費了中世紀的剩餘時間試圖奪回當地領主手中的城堡控制權。十五世紀的火炮發展終於讓城堡變得不再是那麼無堅不摧。"</em>
-
               <p
               style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
             </div>
@@ -346,7 +319,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="Castle.php">城堡</a>
-
                 </div>
               </td>
             </tr>
@@ -360,7 +332,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">概要</a>
-
                 </div>
               </td>
             </tr>
@@ -376,7 +347,6 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
@@ -386,7 +356,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -397,7 +366,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -452,9 +420,7 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"> <a href="img/Armor_class_building.php">建築（+8）</a>
-
                 <br/> <a href="img/Armor_class_standard_building.php">標準建築</a>
-
                 <br/> <a href="img/Armor_class_Castle.php">城堡</a> 
               </td>
             </tr>
@@ -468,14 +434,12 @@
       </div>
       <div class="col-md-12">
          <h3>圖庫</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4"> <a href="img/Castleaokaoc.png"><img class="imgn hg" width="180" src="~assets/Castleaokaoc.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有城堡(帝王世紀和征服者入侵資料片)。</em>
-
               </p>
           </div>
         </div>
@@ -483,7 +447,6 @@
           <div
           class="lightbox-caption" style="width:220px" ;>
             <p><em>所有城堡(HD擴充資料片)。</em>
-
             </p>
         </div>
       </div>
@@ -491,7 +454,6 @@
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>城堡在一般地圖/下雪地圖和駐紮單位時的樣子。</em>
-
           </p>
       </div>
     </div>

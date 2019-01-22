@@ -260,13 +260,6 @@
             </div>
           </div>
         </div>
-
-
-
-
-
-
-
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
@@ -387,8 +380,6 @@
           <div class="thanks">感謝! 此頁面由眠協助編輯</div>
         </div>
       </div>
-
-
     </div>
     
 </template>

@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>演習</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -16,7 +15,6 @@
               href="Castle.php">城堡</a>研發。研發後<a href="Siege_Workshop.php">攻城器製造所</a>的單位移動速度快50%。</p>
           </div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -33,7 +31,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>蒙古人獲得巨大成功的秘訣之一是他們在戰鬥中的偉大紀律，當時很多的軍隊擁有復雜的等級制度和傳統結構，蒙古人則是在平原和狩獵場進行了無數小時的訓練沙場技巧。蒙古軍隊極快的移動速度和突擊讓經常跟他們戰鬥的有精良重裝甲的軍隊也摸不著頭緒。</p>
@@ -44,7 +41,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">演習</a>
-
                 </div>
               </td>
             </tr>
@@ -58,28 +54,24 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Mongols.php">蒙古</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -89,7 +81,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -104,7 +95,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

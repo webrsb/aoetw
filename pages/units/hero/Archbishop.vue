@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>大主教</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -24,7 +23,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">大主教</a>
-
                 </div>
               </td>
             </tr>
@@ -93,7 +91,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的主教
               <div style="margin-left: 10px;"><i><strong><a href="https://tinyurl.com/y9ekga5t">主教</a></strong></i>
-
               </div>
             </div>
           </div>

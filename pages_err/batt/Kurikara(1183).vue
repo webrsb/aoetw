@@ -1,11 +1,8 @@
 <template>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
-
     <div class="container">
         <!-- Example row of columns -->
-
 <div class="row" style=" margin-top: 50px;">
   <div class="col-md-12">
 <h1><strong>礪波山(1183)</strong></h1>
@@ -13,13 +10,9 @@
 </div>
   <div class="col-md-8">
 <div class="n1">
-
 <p>
 礪波山(1183)是失落帝國的戰役之一，描述1183年日本源平合戰期間的俱利伽羅峠之戰，以及木曾義仲的上洛(進軍京都)。
 </p>
-
-
-
 </div>
 <h2>玩家</h2>
 <div class="hrn1"></div>
@@ -35,7 +28,6 @@
     <td class="tc2" width="5%">200</td>
   </tr>
 </table>
-
 <h3>AI</h3>
 <table class="table-bordered" width="100%">
   <tr>
@@ -45,11 +37,9 @@
     <td class="tc6"><div class="p1"></div>玩家1：</td>
     <td class="tc6" colspan="3">日本（藍色）</td>
   </tr>
-
 <tr>
      <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
   </tr>
-
 <tr>
     <td class="tc6" width="15%""><div class="p6"></div>玩家2：</td>
     <td class="tc6" width="35%">木曾義仲（紫色）日本</td>
@@ -60,7 +50,6 @@
     <td class="tc6" width="15%"><div class="p7"></div>玩家8：</td>
     <td class="tc6" width="35%" >當地人（灰色）日本 </td>  
 </tr>
-
 <tr>
     <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
   </tr>
@@ -75,7 +64,6 @@
     <td class="tc6">平家軍（橘色）日本 </td>
     <td class="tc6"><div class="p3"></div>玩家7：</td>
     <td class="tc6">平氏守衛（綠色）日本 </td>
-
 </tr>
 </table>
   <div class="col-md-12">
@@ -86,9 +74,7 @@
    <dt>大地之母單位：</dt>
   <dd>無。</dd>
 </dl>
-
 </div>
-
 <h3>主要任務</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -100,7 +86,6 @@
     <li>血洗京都，要把平氏家族的所有軍營，所有防禦工事和負隅頑抗的守城者都殺死，帶他們的主公平清盛的人頭回來覆命！</li>
 </ol>
 </div>
-
 <h3>次要任務</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -111,11 +96,9 @@
     <li>帶兩台投石機至北条氏的皇宮以換取他們的同盟。</li>
 </ol>
 </div>
-
 <h3>任務提示</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>通往礪波山地區的關隘大道上已布滿了平家軍，你最好直奔城池而去。</li>
   <li>平氏軍隊並不知道糧草已經被送往城邦了，但是他們很快會發起瘋狂的進攻。</li>
@@ -127,7 +110,6 @@
 <h3>斥侯</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>源賴朝已經往礪波山(紫色)派遣了一支援軍(藍色)，以協防這片兵家必爭之地，礪波山城高牆聳立，是源賴朝的領地，目前由他的堂弟木曾義仲駐守。</li>
   <li>北条氏(黃色)在東邊有一座城池，由他們的首領北条時政所掌管。北条時政痛恨平家，只希望在破解礪波山之圍之後加入源氏勢力。</li>
@@ -137,11 +119,8 @@
   <li>平家軍的首領是一幫兇殘的武將(紅色)，尤其是他們的主公平清盛本人。擒賊擒王，想要取勝，你得想方設法幹掉敵人那些帶頭的武將。</li>
 </ul>
 </div>
-
 <h3>攻略</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>遊戲一開始有十幾個軍事單位與必須保護的貿易車，帶領他們以最快速度進入木曾義仲的城寨，若碰到敵軍則盡量以騎兵引誘，其他單位砍殺的方式解決，能夠減少傷亡。</li>
   <li>木曾義仲的城寨裡面有不少軍隊，而礦藏都在城外，把軍隊部署在外面以保護你的村民。</li>
@@ -158,11 +137,8 @@
   <li>京都的防守非常厚實，善用投石機。</li>
   <li>海軍無法傷到京都，注意投資的量。</li>
 </ul>
-
 <h3>遊戲內細節</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>遊戲中的"燈塔"看起來就是韓國的世界奇觀。</li>
   <li>除了京都之外的敵方勢力都不能進入帝王時代。</li>
@@ -174,11 +150,8 @@
   <li>北条通常從他們基地的南方出兵，而那裏是最沒有效率的。</li>
   <li>地圖上的狼全都是恐狼。</li>
 </ul>
-
 <h3>歷史</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>這場戰役描寫的其實不只是俱利伽羅峠之戰一役而已，而是從那次戰役一直到攻陷京都。</li>
   <li>俱利伽羅峠指的是越中國與加賀國的邊境關口，是個險要的斷崖。</li>
@@ -198,12 +171,6 @@
   <li>源家的勢力在1333年與鎌倉幕府一起進入了歷史，前北条家也滅亡(後北条就是戰國有名的北条早雲，世紀帝國II日本AI的常用名稱)。</li>
   <li>源平合戰最終導致日本真正進入數百年的幕府時代，也可以算是封建時代的開端。</li>
 </ul>
-
-
-
-
-
-
 </div>
   </div>
   <div class="col-md-4">
@@ -255,13 +222,10 @@
         </td>
       </tr>
       
-
   </table>
-
      <div class="thanks">
        感謝! 此頁面由Dennis協助編輯
      </div>
-
       <div class="wiki" style="margin-top: 5px;">
 <div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的礪波山之戰
@@ -270,17 +234,10 @@
   </div>
   </div>
 </div>
-
  <div class="row">
   <div class="col-md-12">
-
-
-
   </div>
 </div>  
-
-
-
     </div>
     
 </template>

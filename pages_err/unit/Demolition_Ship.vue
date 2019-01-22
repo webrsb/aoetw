@@ -25,7 +25,6 @@
             <p>神風船也可以成為處理敵方海岸線基礎設施的絕佳工具，因為它們可以迅速取下敵方的碼頭，而不必犧牲其他可以支援拆碼頭的海軍船隻。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -65,7 +64,6 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -82,14 +80,12 @@
             </tr>
           </table>
            <h3>剋神風船的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對神風船的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -100,7 +96,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+17攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -108,7 +103,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+16攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -116,7 +110,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -126,7 +119,6 @@
                       <img src="~assets/LongboatIcon.jpg" alt=""><a href="Longboat.php">精銳維京大戰船</a>(<a href="Vikings.php">維京</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -134,7 +126,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -158,7 +149,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -170,7 +160,6 @@
                       alt=""><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a href="Khmer.php">高棉</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -180,14 +169,12 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -197,7 +184,6 @@
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -207,7 +193,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -217,7 +202,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -225,7 +209,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -241,7 +224,6 @@
               <div class="col-md-4">
                 <img src="~assets/Heatedshot.png" width="22" alt=""><a href="Heated_Shot.php">預熱射擊</a> 
                 <div style="margin:12px 0px;"><strong>+13攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -249,7 +231,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -259,7 +240,6 @@
               </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -267,7 +247,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -305,38 +284,32 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aok.php">世紀帝國</a></em></h3>
-
             <ul>
               <li>神風船有50的HP。</li>
               <li><a href="Shipwright.php">造船匠</a>減少20%船隻木材成本。</li>
               <li><a href="Vikings.php">維京</a>:神風船訓練的費用減少20%。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>1.0版本<a href="Shipwright.php">造船匠</a>還可減少35%的船隻訓練時間。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
               <li><a href="Aztecs.php">阿茲特克</a>:無法訓練神風船。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>神風船現在有60的HP。</li>
               <li><a href="Vikings.php">維京</a>:神風船訓練的費用在城堡/帝王減少15%/20%。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王朝</a></em></h3>
-
             <ul>
               <li>引入<a href="Demolition_Raft.php">自爆筏</a>。</li>
               <li><a href="Aztecs.php">阿茲特克</a>:在4.8版本後將神風船加入阿茲特克的科技樹。</li>
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>沒有發展海軍的傳統文明在面臨海戰時有一種簡單的權宜之計。他們裝載了一艘裝滿可燃物和一名骨架船員的船。 隨後，將這艘船直接向敵艦撞去並引燃船上的火藥。如果做得好，神風船就會猛烈地燃燒並爆炸，並讓鄰近的敵艦也著火。裝有易燃索具和設備並且用瀝青密封的木製船隻很容易有火災和爆炸的危險（一旦裝上火藥）。一艘神風船的威力強大，只用一艘船換來的戰略價值遠比預期的更多。神風船也可用於摧毀岸邊建築物。</p>
@@ -347,7 +320,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">神風船</a>
-
                 </div>
               </td>
             </tr>
@@ -361,14 +333,12 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">自殺單位</a>、<a href="Naval_Vessels.php">船</a>
-
               </td>
             </tr>
             <tr>
@@ -379,14 +349,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
-
               </td>
             </tr>
             <tr>
@@ -396,7 +364,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -411,7 +378,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -426,7 +392,6 @@
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+220對<a href="Armor_class_building.php">建築</a>
-
               </td>
             </tr>
             <tr>
@@ -462,14 +427,12 @@
               <td class="unit3">從升級</td>
               <td class="unit4">
                 <img class="gg" src="~assets/DemoRaftIcon.jpg" alt=""><a href="Demolition_Raft.php">自爆筏</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
                 <img class="gg" src="~assets/HeavyDemoShipIcon.jpg" alt=""><a href="Heavy_Demolition_Ship.php">重型神風船</a>
-
               </td>
             </tr>
             <tr>
@@ -486,29 +449,24 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Demoline.png"><img class="imgn hg" src="~assets/Demoline.png" alt=""></a> 
                 <p><em>神風船系列(神風船在中間)。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Demoship.png"><img class="imgn hg" src="~assets/Demoship.png" alt=""></a> 
                 <p><em>一群神風船。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/DemolitionShipHD.png"><img class="imgn hg" src="~assets/DemolitionShipHD.png" alt=""></a> 
                 <p><em>各種神風船(世紀帝國和征服者入侵資料片)。</em>
-
                 </p>
               </div>
               <div class="col-md-12">
                 <div class="col-md-4"> <a href="img/DemolitionShipDLC.png"><img class="imgn hg" src="~assets/DemolitionShipDLC.png" alt=""></a> 
                   <p><em>各種神風船(HD擴充資料片)。</em>
-
                   </p>
                 </div>
               </div>

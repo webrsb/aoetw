@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>薩瓦蘭重騎兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -21,7 +20,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">薩瓦蘭重騎兵</a>
-
                 </div>
               </td>
             </tr>
@@ -40,7 +38,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">騎兵<br/>英雄</a>
-
               </td>
             </tr>
             <tr>

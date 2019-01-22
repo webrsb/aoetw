@@ -30,7 +30,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">弓鋸</a>
-
                 </div>
               </td>
             </tr>
@@ -44,7 +43,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -56,28 +54,24 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Lumbercampicon.png" alt=""><a href="Lumber_Camp.php">伐木場</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Doublebitaxe.jpg" alt=""><a href="Double-Bit_Axe.php">雙刃斧</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">次一升級</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Twomansaw.jpg" alt=""><a href="Two-Man_Saw.php">雙人鋸</a>
-
               </td>
             </tr>
             <tr>
@@ -87,7 +81,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -102,7 +95,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

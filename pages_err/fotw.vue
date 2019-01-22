@@ -767,7 +767,6 @@
             <tr>
               <td>日本黑森林玩家，steam經歷很久，但實力捉摸不定，上過2k也下過16+，愛開pk。</td>
             </tr>
-
             <tr>
               <td>
                 <h4><strong>Tai-wei</strong></h4>

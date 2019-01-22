@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>黑暗時代</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -21,10 +20,8 @@
             <p>斥侯騎兵/鷹斥侯在到達<a href="Feudal_Age.php">封建時代</a>前都無法訓練。如果最初的城鎮中心被摧毀了，可以重蓋一個新的。</p>
           </div>
            <h3>可建造建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1"><strong>民用建築</strong>
-
             <ul>
               <li>
                 <img class="gg" src="~assets/Houseicon.png" width="22" alt=""><a href="House.php">房屋</a>:提供人口空間</li>
@@ -40,12 +37,10 @@
                 <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><a href="Dock.php">碼頭</a>:訓練和升級船隻</li>
                <h4>1.碼頭演進到封建時代後就屬於軍事建築物。</h4> 
             </ul><strong>軍事建築</strong>
-
             <ul>
               <li>
                 <img class="gg" src="~assets/Barracks-logo.jpg" width="22" alt=""><a href="Barracks.php"></a>軍營:訓練和升級步兵單位</li>
             </ul><strong>防禦建築</strong>
-
             <ul>
               <li>
                 <img class="gg" src="~assets/Outposticon.png" width="22" alt=""><a href="Outpost.php">哨站</a>:簡單的箭塔，提醒敵人來犯</li>
@@ -56,10 +51,8 @@
             </ul>
           </div>
            <h3>可生產單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1"><strong>一般單位</strong>
-
             <p>城鎮中心</p>
             <ul>
               <li>
@@ -73,14 +66,12 @@
                 <img class="gg" src="~assets/TransportShipIcon.jpg" width="22" alt=""><a href="Transport_Ship.php">運輸船</a>：運載單位。</li>
                <h4>1.在<a href="aok.php">帝王世紀</a>和<a href="aoc.php">征服者入侵</a>資料片中，運輸船要在封建時代才能訓練而不是黑暗時代。</h4> 
             </ul> <strong>軍事單位</strong>
-
             <p>軍營</p>
             <ul>
               <li>
                 <img class="gg" src="~assets/MilitiaIcon.jpg" width="22" alt=""><a href="Militia.php">民兵</a>：基本步兵單位。</li>
             </ul>
              <h3>可研發科技</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <p>城鎮中心</p>
@@ -89,7 +80,6 @@
                   <img class="gg" src="~assets/Loom.jpg" width="22" alt=""><a href="Loom.php">織布技術</a>：增加村民生命值。</li>
               </ul>
                <h3>策略</h3>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ul>
@@ -100,7 +90,6 @@
               </div>
             </div>
              <h3>歷史</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <p>西羅馬帝國在西元五世紀滅亡之後，西歐陷入了一個充滿野蠻，沒有法律和經濟退縮的漫長時期-黑暗時代。羅馬人的基礎設施，包括公共工程，法院，執法，教育，書面記錄，造幣和貿易，基本上已經消失。萊茵河和多瑙河以北的日耳曼侵略者取代了以當地強大戰士組成的部落政治結構。之後經濟逐漸復甦的主要因素有三個：出現擁有大範圍領地的傑出領袖，保守和傳播殘存教育的基督教會（羅馬和愛爾蘭的基督教教會），和以農業為基礎振興起來的經濟（特別是羊毛和布交易）。</p>
@@ -130,7 +119,6 @@
               <td class="unit3">下一個</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="22" alt=""><a href="Feudal_Age.php">封建時代</a>
-
               </td>
             </tr>
           </table>
@@ -141,13 +129,11 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/DarkAge.png"><img class="imgn hg" src="~assets/DarkAge.png" alt=""></a> 
                 <p><em>每個文明在黑暗時代的樣子。</em>
-
                 </p>
               </div>
             </div>

@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>箭狹槽</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -60,11 +59,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li>城堡時代可以研發箭狹槽。</li>
               <li>所有文明都有箭狹槽。</li>
@@ -79,7 +76,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">箭狹槽發明於公元前214-212圍攻錫拉丘茲期間，發明人是阿基米德。"這個狹縫是一個手掌寬的寬度和一個人身高的高度"防守者藉由這個細縫由內而外射出箭矢，或是弩砲。儘管在希臘羅馬時代就有記載，但在城堡時期並沒有出現這個防禦措施。直到12世紀末再次被人們想起並且使用在軍事建築中。英格蘭的
             <a
@@ -87,18 +83,15 @@
               <a
               href="Richard_the_Lionheart.php">獅心王查理</a>在法國的<a href="https://en.wikipedia.org/wiki/Château_Gaillard">Château Gaillard</a>都有使用。箭狹槽被定位於保護城牆的一部分，而不是整座城堡。到了13世紀在城堡使用箭狹槽的防禦工事已經很常見了。</div>
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/White_Castle,_arrow_slit.jpg"><img class="imgn hg" src="~assets/White_Castle,_arrow_slit.jpg" alt=""></a> 
                 <p><em><a href="https://en.wikipedia.org/wiki/White_Castle,_Monmouthshire">威爾斯白堡</a>的箭狹槽。  </a></em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Arrow_slat_corfe_castle.jpg"><img class="imgn hg" src="~assets/Arrow_slat_corfe_castle.jpg" alt=""></a> 
                 <p><em>由內部看的箭狹槽，也就是弓箭手會站的位置。</em>
-
                 </p>
               </div>
             </div>
@@ -109,7 +102,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">箭狹槽</a>
-
                 </div>
               </td>
             </tr>
@@ -123,7 +115,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -135,14 +126,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
-
               </td>
             </tr>
             <tr>
@@ -152,7 +141,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -167,7 +155,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

@@ -37,29 +37,24 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>成本為100F/100G。</li>
               <li>需要60秒研發的時間。</li>
               <li></li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>免費且立即完成。</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li>5.7版本後建立市場後，立即完成。</li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -67,7 +62,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>大約在15,000至10,000年前，出現了使用線條和簡單符號的原始地圖，文字產生以後，和符號一起標註於地圖之上。</p>
@@ -79,7 +73,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">製圖學</a>
-
                 </div>
               </td>
             </tr>
@@ -93,7 +86,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -103,13 +95,11 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="Feudal_Age.php">封建時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4"><a href="Market.php">市集</a>
-
               </td>
             </tr>
             <tr>
@@ -119,7 +109,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -134,7 +123,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

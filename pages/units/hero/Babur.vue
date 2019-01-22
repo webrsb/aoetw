@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>巴卑爾</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,13 +13,11 @@
             <p>巴卑爾，全名查希爾丁·穆罕默德·巴布爾，1483年2月14日~1530年12月26日，蒙兀兒帝國的開國君主。名字「巴布爾」在波斯語中意思是「老虎」。</p>
           </div>
            <h3>介紹</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>巴卑爾是一位騎兵英雄，只有在地圖編輯器中登場，外型是帝王駱駝騎兵，他是一個英雄單位不能被招降，且會自己回血，且擁有等同駱駝騎兵的各式升級。</p>
           </div>
            <h3>芝麻小事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <LI>巴布爾是成吉思汗（母系）和帖木兒（父系）的後裔，卽巴魯剌思氏。是突厥化蒙古人。母語為察合台語，曾以察合台文為自己立傳，名為巴布爾回憶錄。「蒙兀兒」即是波斯語的「蒙古」。巴布爾生於中亞的費爾干納谷地。</LI>
@@ -31,7 +28,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">希爾丁·穆罕默德·巴布爾</a>
-
                 </div>
               </td>
             </tr>
@@ -50,7 +46,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">騎兵<br/>英雄</a>
-
               </td>
             </tr>
             <tr>
@@ -110,7 +105,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的查希爾丁·穆罕默德·巴布爾
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E5%B0%94">查希爾丁·穆罕默德·巴布爾</a></strong></i>
-
               </div>
             </div>
           </div>

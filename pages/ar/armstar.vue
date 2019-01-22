@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>裝甲開局</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -18,20 +17,17 @@
             </ul>
           </div>
            <h3>概述</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>裝甲開局非常靈活，上封建可以轉弓兵或斥侯。流程為一般升級22p，點封建後出三隻民兵騷擾對方經濟。可擋對方前置與對方的黑快，運氣好可以抓到對方蓋建築村民，甚至殺到對方村民，有騷擾到的話，即使不死村也會經濟大亂。而上封建後如果民兵沒有耗損太多，可以升級裝甲步兵，搭配後續的弓兵或斥侯進行更進一步的攻擊。</p>
           </div>
            <h3>流程</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
               <div class="col-md-12"> <em><p style="padding: 0px 10px;">流程只是大概，沒有一定，每場地形地物都不同，重要的還是找到最適合自己的流程與打法!</p></em> 
               </div>
               <div class="col-md-6"> <strong>村民升級流程</strong>
-
                 <ul>
                   <li>2~7p:6人採集羊肉</li>
                   <li>8~11p:4人伐木</li>
@@ -47,7 +43,6 @@
                 </ul>
               </div>
               <div class="col-md-6"> <strong>升級後流程</strong>
-
                 <ul>
                   <li>點封建後立刻出三隻民兵</li>
                   <li>出發鬧對方經濟</li>

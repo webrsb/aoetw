@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>阿拉里克</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           <div class="n1">
             <div class="ien"><em>公元4世紀的那場匈奴入侵給這位可怕的哥德王所帶來的創傷改變了他的一生，年幼的他從戰火紛飛的故土逃離出來，終其一生都在尋找另一個能重建家園的地方，這位敬愛的國王能為他的子民在破敗的羅馬帝國疆域上打下自己的江山嗎?</em>
-
               <p
               style="text-align: right;margin-top: 10px;">-遊戲中對於阿拉里克戰役的介紹</p>
             </div>
@@ -20,13 +18,11 @@
               一般認為，他是西哥德王國的締造者。阿拉里克一世生於多瑙河三角洲中的一個小島上。在他年輕時代，西哥德人在匈人的逼迫下向西大規模遷徙。羅馬帝國皇帝狄奧多西一世為安撫西哥德人，將他們安置於帝國邊境，同時利用他們戍邊。阿拉里克本人即是作為這種輔助軍隊的首領，於394年第一次為史冊所記載。而當狄奧多西一世於395年去世後，西哥德人即斷絕了他們與羅馬的脆弱的同盟關係，推舉阿拉里克為國王。</p>
           </div>
            <h3>英雄</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>阿拉里克在戰役的前2關為哥德衛隊步兵的型態，第3關為騎兵型態</p>
           </div>
            <h3>關卡</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
@@ -47,7 +43,6 @@
               </div>
             </div>
              <h3>芝麻小事</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <p>阿拉里克戰役的其他資訊</p>
@@ -71,7 +66,6 @@
                 <div class="unititle">
                   <img src="~assets/Alaric.jpg" width="300" alt="">
                   <p><em>本系列主角 阿拉里克</em>
-
                   </p>
                 </div>
               </td>
@@ -105,7 +99,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的阿拉里克
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%8B%89%E9%87%8C%E5%85%8B%E4%B8%80%E4%B8%96">阿拉里克</a></b></i>
-
               </div>
             </div>
           </div>

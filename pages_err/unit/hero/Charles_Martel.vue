@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>鐵鎚查理</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,7 +14,6 @@
             <p>儘管鐵鎚查理在《世紀帝國 II HD: 帝王世紀》以劍兵勇士的形貌出現，但他只能在戰役編輯器中找到。</p>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>鐵鎚查理（Charles Martel）是公元8世紀法國的墨洛溫（Merovingian）統治者。 他在713年爬到上層位置，並在718年成為國王。鐵鎚查理是一位瘋狂的管理者，發展了第一種封建主義形式，並且常常被認為是第一個發展真正的法蘭克福貨幣體系。他在法國建立了第一個高度集中的專制統治，但是後來又把他的帝國分為兩部分。後來在查理曼大帝的統治下又短暫統一，不過之後又分裂直到法國軍隊強行征服這個地區。"Martel"在拉丁語裡是表示錘子的意思;
@@ -27,7 +25,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">鐵鎚查理</a>
-
                 </div>
               </td>
             </tr>
@@ -46,7 +43,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">步兵<br/>英雄</a>
-
               </td>
             </tr>
             <tr>

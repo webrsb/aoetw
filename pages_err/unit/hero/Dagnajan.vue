@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>達納罕</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -22,7 +21,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">達納罕</a>
-
                 </div>
               </td>
             </tr>
@@ -41,7 +39,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">弓兵<br/>騎兵<br/>英雄</a>
-
               </td>
             </tr>
             <tr>

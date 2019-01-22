@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>希臘之火</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,7 +13,6 @@
             <p>希臘之火是拜占庭的特殊科技，可於城堡時代在城堡研發。研發後火戰船射程+1。</p>
           </div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -49,7 +47,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">希臘之火</a>
-
                 </div>
               </td>
             </tr>
@@ -63,7 +60,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -87,7 +83,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -102,7 +97,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>
@@ -118,7 +112,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的希臘之火
               <div style="margin-left: 10px;"><i><b><a href="http://tinyurl.com/yaawj4q2">希臘火</a></b></i>
-
               </div>
             </div>
           </div>

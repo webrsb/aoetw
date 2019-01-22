@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>世紀帝國II：失落的帝國</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,10 +14,8 @@
               Empires》發展而來。現由「Forgotten Empires」團隊持續開發，溫哥華的Skybox Labs提供支援。《失落的帝國》中引入五個新文明，分別為：義大利人、印度人、斯拉夫人、馬札爾人、印加人、七場新戰役、新單位、新科技、新遊戲模式及新地圖，並改善了人工智慧和遊戲細節。開發團隊並於2015年秋季推出第三個官方擴充資料片─《非洲王國》，於2016年年底推出第四個官方擴充資料片─《王者崛起》</p>
           </div>
            <h2>新增元素</h2>
-
           <div class="hrn1"></div>
            <h3>文明</h3>
-
           <div class="n1">
             <ul>
               <li>馬扎爾：馬札爾是現在匈牙利的主體民族，因此常被稱之匈牙利人。他最早被認為是源自於突厥人，在九世紀中有支突厥人貴族進入了中歐。特殊兵種是馬札爾驃騎兵。</li>
@@ -29,55 +26,43 @@
             </ul>
           </div>
            <h3>單位</h3>
-
           <div class="n1">
             <ul>
               <li>
                 <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>
-
               </li>
               <li>
                 <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""><a href="Condottiero.php">傭兵</a>
-
               </li>
               <li>
                 <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt=""><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
-
               </li>
               <li>
                 <img class="gg" src="~assets/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>
-
               </li>
               <li>
                 <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>
-
               </li>
               <li>
                 <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt="" width="22"><a href="Genoese_Crossbowman.php">熱那亞弩手</a>
-
               </li>
               <li>
                 <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt=""><a href="Elephant_Archer.php">象弓騎兵</a>
-
               </li>
               <li>
                 <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>
-
               </li>
               <li>
                 <img class="gg" src="~assets/New_Boyar.png" alt=""><a href="Boyar.php">貴族鐵騎</a>
-
               </li>
             </ul>
           </div>
            <h3>科技</h3>
-
           <div class="n1">
             <ul>
               <li>每個文明皆新增城堡時代能研發的特殊科技。</li>
             </ul>
             <p> <em>主要文章: <a href="untech.php">特殊科技</a></em>
-
             </p>
           </div>
         </div>
@@ -86,7 +71,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#ad7b35">
                 <div class="unititle"><a href="">世紀帝國II：失落的帝國</a>
-
                 </div>
               </td>
             </tr>
@@ -137,11 +121,9 @@
         </div>
         <div class="col-md-12">
            <h3>戰役</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p> <em>主要文章: <a href="batt.php">戰役</a></em>
-
             </p>
             <p>包含七個主戰役</p>
             <ul>
@@ -155,7 +137,6 @@
             </ul>
           </div>
            <h3>平衡更動</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p><strong>種族平衡</strong> 

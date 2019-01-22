@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>蠻族的婚約</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,11 +13,9 @@
             <p>蠻族的婚約為阿提拉戰役的第四關劇情關卡。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -31,7 +28,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">
@@ -70,7 +66,6 @@
               <dd>無</dd>
             </dl>
              <h2>主要任務</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
@@ -81,7 +76,6 @@
             </div>
           </div>
            <h2>次要目標</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -90,7 +84,6 @@
             </ul>
           </div>
            <h2>任務提示</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -99,7 +92,6 @@
             </ul>
           </div>
            <h2>斥侯</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -110,7 +102,6 @@
               <li>斥候也報告，西羅馬帝國派出阿哀契烏斯的軍隊去支援高盧。雖然羅馬人在這個地區沒有城鎮，但他們的軍團和拜占庭聖騎兵，能夠隨時迎擊敵人。</li>
             </ul>
              <h2>芝麻小事</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -127,7 +118,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">蠻族的婚約</a>
-
                 </div>
               </td>
             </tr>
@@ -141,7 +131,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -156,12 +145,10 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="">匈奴人</a>
-
               </td>
             </tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
-
               </div>
             </td>
             </tr>

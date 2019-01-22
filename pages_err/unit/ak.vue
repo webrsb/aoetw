@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>世紀帝國II：非洲王國</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,10 +14,8 @@
             <p>非洲王國於2015年11月5日發布。</p>
           </div>
            <h2>新增元素</h2>
-
           <div class="hrn1"></div>
            <h3>文明</h3>
-
           <div class="n1">
             <ul>
               <li><strong>柏柏:</strong>位於北非的部落，擁有強大的海軍與騎兵，準備來一場史詩般的戰爭征服伊比亞半島，獲取異教徒的財富，抵擋那些逐漸團結的伊比利亞半島上的王國。</li>
@@ -28,7 +25,6 @@
             </ul>
           </div>
            <h3>單位</h3>
-
           <div class="n1">
             <p>特殊單位</p>
             <ul>
@@ -59,24 +55,20 @@
               <img width="25px" src="~assets/Feitoriaicon.png" alt=""><a href="Feitoriaicon_Feitoria.php">港灣大商站</a>:帝王時代能建造，葡萄牙特殊建築，能緩慢生產資源。</li>
           </ul>
            <h3>科技</h3>
-
           <div class="n1">
             <ul>
               <li>每個文明皆新增城堡時代能研發的特殊科技。</li>
             </ul>
             <p> <em>主要文章: <a href="untech.php">特殊科技</a></em>
-
             </p>
           </div>
           <p>一般科技</p>
           <ul>
             <li>
               <img class="gg" src="~assets/Arson.jpg" alt=""><a href="Arson.php">縱火</a>
-
             </li>
             <li>
               <img class="gg" src="~assets/Arrowlits.jpg" alt=""><a href="Arrowslits.php">箭狹槽</a>
-
             </li>
           </ul>
         </div>
@@ -85,7 +77,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#8a6d3b">
                 <div class="unititle"><a href="">世紀帝國II：非洲王國</a>
-
                 </div>
               </td>
             </tr>
@@ -136,34 +127,26 @@
         </div>
         <div class="col-md-12">
            <h3>戰役</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p> <em>主要文章: <a href="batt.php">戰役</a></em>
-
             </p>
             <p>包含四個主戰役</p>
             <ul>
               <li><a href="Tariq_ibn_Ziyada.php">塔里克．伊本．齊亞德</a>
-
               </li>
               <li><a href="Sundjataa.php">松迪亞塔</a>
-
               </li>
               <li><a href="Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</a>
-
               </li>
               <li><a href="Yodita.php">遊娣特</a>
-
               </li>
             </ul>
           </div>
            <h3>平衡更動</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p><strong>種族平衡</strong>
-
             </p>法蘭克
             <ul>
               <li>騎士血量+20% 可影響斥候、輕騎兵</li>
@@ -221,7 +204,6 @@
               <li>銀冠（酋長）攻擊從 +4 改為 +5</li>
             </ul>
             <p><strong>一般平衡</strong>
-
             </p>
             <ul>
               <li>防禦箭塔、大型箭塔：基礎攻擊力都+1(現在為7、8)</li>
@@ -254,7 +236,6 @@
               <li>漁網建造時間從60秒改為40秒</li>
             </ul>
             <p><strong>科技變動</strong>
-
             </p>
             <ul>
               <li>追蹤技術：成本減至50食物</li>

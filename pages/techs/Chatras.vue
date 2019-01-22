@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>恰特拉傘</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -16,7 +15,6 @@
               href="Castle.php">城堡</a>研發。研發後<a href="Ballista_Elephant.php">矛象伕</a>+50 HP。</p>
           </div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -35,11 +33,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li>最初恰特拉傘給予<a href="Ballista_Elephant.php">矛象伕</a>+30 HP，5.7改版後增加為+50 HP。</li>
             </ul>
@@ -50,7 +46,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">恰特拉傘</a>
-
                 </div>
               </td>
             </tr>
@@ -64,28 +59,24 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Vietnamese.php">越南</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -95,7 +86,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -110,7 +100,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

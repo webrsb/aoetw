@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>老鷹開局</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -19,14 +18,12 @@
             </ul>
           </div>
            <h3>概述</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>老鷹開局為南美三國的專屬打法，流程為上封建後雙軍營出老鷹，適時的搭配矛兵或槍兵為輔，達到騷擾敵人的效果。</p>
             <p>且鷹斥侯需求的食物低，在經濟調配上能非常快速的上城堡（甚至可以用市集搶城堡），升級為鷹勇士。</p>
           </div>
            <h3>反制</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
@@ -36,14 +33,12 @@
               </div>
             </div>
              <h3>流程</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <div class="row">
                 <div class="col-md-12"> <em><p style="padding: 0px 10px;">流程只是大概，沒有一定，每場地形地物都不同，重要的還是找到最適合自己的流程與打法!</p></em> 
                 </div>
                 <div class="col-md-6"> <strong>村民升級流程</strong>
-
                   <ul>
                     <li>2~7p:6人採集羊肉</li>
                     <li>8~11p:4人伐木</li>
@@ -56,7 +51,6 @@
                   </ul>
                 </div>
                 <div class="col-md-6"> <strong>升級後流程</strong>
-
                   <ul>
                     <li>點封後起雙軍營</li>
                     <li>出老鷹防守並適時的打回去</li>
@@ -97,7 +91,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle"><a href="">老鷹開局</a>
-
                 </div>
               </td>
             </tr>
@@ -111,7 +104,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle2"><a href="">戰術介紹</a>
-
                 </div>
               </td>
             </tr>

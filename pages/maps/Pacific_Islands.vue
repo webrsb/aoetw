@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>太平洋群島</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           
            <h3>說明</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>太平洋群島具有兩棲地形，其中陸地單位和海軍單位都可加入戰場。玩家將從他們自己的沙洲開始，或者在團隊比賽中與隊友分享。太平洋群島四周都有淺灘可供陸上或海上單位通行。神風船在某些淺灘處使用得當的話可以對敵方造成巨量傷害。太平洋群島可說是巨大版的沼澤，不同的是陸地面積更多淺灘更少，敵人可以從某些狹窄的地方偷渡到你的島上。太平洋群島上的資源也比其他地圖相對來的少。</p>
@@ -24,13 +22,11 @@
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/Pacific_Islands_Mangroves.png" alt="">
         <p class="text-center"><em>淺灘處有紅樹林可以砍伐。</em> 
-
         </p>
       </div>
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/Narrow_channel.png" alt="">
         <p class="text-center"><em>這些狹窄的河道是偷渡的好地方。</em>
-
         </p>
       </div>
       </div>

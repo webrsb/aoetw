@@ -95,8 +95,6 @@
                         <a
                         href="Eagle_Warrior.php">鷹勇士</a>或<a href="Scout_Cavalry.php">斥侯</a>隨意進你的陣地。</p>
             </div>
-
-
             
             <h3>控僧技巧</h3>
             <div class="hrn1"></div>
@@ -232,7 +230,6 @@
             </div>
          
    </div>
-
           <div class="col-md-4">
             <table class="table-bordered" width="100%">
               <tr>
@@ -325,12 +322,9 @@
             </table>
             <div class="thanks">感謝! 此頁面由賜齡、眠協助編輯</div>
           </div>
-
-
         </div>
 </div>
 </div>
-
       
 </template>
 <script>

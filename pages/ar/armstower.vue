@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>裝甲塔</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -21,11 +20,9 @@
             </ul>
           </div>
            <h3>概述</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>裝甲塔在現今的打法中非常盛行，靠著其兇猛的威力，讓敵人喘不過氣來。國際上的高手Nicov更是裝甲塔的代表。</p><strong><span class="glyphicon glyphicon-plus" aria-hidden="true" style=" color: #3c763d; margin-right: 5px; "></span>什麼時候該打裝甲塔</strong>
-
             <p>
               <ol>
                 <li>對方地形差:如對方黃金石頭木頭靠外，地形不好圍，直接給對方壓力。</li>
@@ -34,28 +31,24 @@
                 <li>對方想直城:對方想圍死直接上城堡，就強行進攻阻止對方。</li>
               </ol>
             </p><strong><span class="glyphicon glyphicon-plus" aria-hidden="true" style=" color: #3c763d; margin-right: 5px; "></span>什麼時候不該打裝甲塔</strong>
-
             <p>
               <ol>
                 <li>對方地形好:如對方黃金石頭木頭都在裡面，你都封不到。</li>
                 <li>自己失誤時:裝甲塔很吃升級，如果升級不好還是換別的打法好。</li>
               </ol>
             </p><strong><span class="glyphicon glyphicon-plus" aria-hidden="true" style=" color: #3c763d; margin-right: 5px; "></span>裝甲塔第一隻塔蓋哪裡</strong>
-
             <ul>
               <p>蓋哪裡都可以，主要以建立根據地，可以繼續連環塔下去為主。通常對方是馬國，如馬札爾、蒙古，建議可以蓋在果樹區。如果對方打弓就先封金為主，但最重要的還是哪邊地形好封就插哪。</p>
               <p>一般來說，果樹與田往往比樹木、黃金重要。</p>
             </ul>
           </div>
            <h3>流程</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
               <div class="col-md-12"> <em><p style="padding: 0px 10px;">流程只是大概，沒有一定，每場地形地物都不同，重要的還是找到最適合自己的流程與打法!</p></em> 
               </div>
               <div class="col-md-6"> <strong>村民升級流程</strong>
-
                 <ul>
                   <li>2~7p:6人採集羊肉</li>
                   <li>8~11p:4人伐木</li>
@@ -69,7 +62,6 @@
                 </ul>
               </div>
               <div class="col-md-6"> <strong>升級後流程</strong>
-
                 <ul>
                   <li>點封建後開始出3~4民兵，通常21p打3裝甲，22p打4裝甲</li>
                   <li>如沒有趕鹿，可考慮1~2種田，3~4村民出發敵人家</li>
@@ -144,7 +136,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle"><a href="">裝甲塔</a>
-
                 </div>
               </td>
             </tr>
@@ -159,7 +150,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle2"><a href="">戰術介紹</a>
-
                 </div>
               </td>
             </tr>

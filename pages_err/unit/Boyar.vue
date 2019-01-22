@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>貴族鐵騎</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -16,7 +15,6 @@
               href="Castle.php">城堡</a>中訓練。貴族鐵騎是擁有極高近防裝甲而且攻擊力高的重裝騎兵單位。貴族鐵騎可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳貴族鐵騎。</p>
           </div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -31,7 +29,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -51,7 +48,6 @@
                 href="Mameluke.php">奴隸兵</a>、<a href="Camel.php">駱駝騎兵</a>、<a href="Monk.php">僧侶</a>、<a href="War_Elephant.php">戰象</a>、
                   <a
                   href="Samurai.php">日本武士</a>、防禦建築、<a href="Archer_Units.php">弓兵單位</a>
-
               </td>
             </tr>
             <tr class="tta">
@@ -100,25 +96,20 @@
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+32攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+22攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -127,12 +118,10 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
@@ -141,7 +130,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -152,7 +140,6 @@
                       <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -161,39 +148,33 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -201,7 +182,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -240,7 +220,6 @@
             </div>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -250,22 +229,18 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>貴族鐵騎移動速度為1.35。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li>4.8版後貴族鐵騎移動速度增加為1.4。</li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -276,7 +251,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">波雅爾英文寫作boyar或bolyar,是封建時代保加利亞帝國、莫斯科大公國、基輔羅斯、 瓦拉幾亞和摩爾多瓦的一個僅次於大公的貴族頭銜。由10-17世紀，在保加利亞、俄國和羅馬尼亞演變為表示僅次於沙皇的親王王子，加在姓氏前面是「采邑貴族」，在芬蘭寫作
             Pajari 以顯示和「食邑貴族」的區別。</div>
@@ -303,27 +277,23 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Slavs.php">斯拉夫</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -371,9 +341,7 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
-
                 <br/><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -411,36 +379,30 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的貴族鐵騎
               <div style="margin-left: 10px;"><i><b><a href="http://tinyurl.com/ybpqjkuk">波雅爾</a></b></i>
-
               </div>
             </div>
           </div>
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/AOF36_Boyar.jpg"><img class="imgn hg" src="~assets/AOF36_Boyar.jpg" alt=""></a> 
                 <p><em>3.6版《世紀帝國II:失落的帝國》的貴族鐵騎。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/AOE2HDTF_Boyars_Ingame.jpg"><img class="imgn hg" src="~assets/AOE2HDTF_Boyars_Ingame.jpg" alt=""></a> 
                 <p><em>3.5版前的貴族鐵騎。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/AOF22_Boyar_Joan.jpg"><img class="imgn hg" src="~assets/AOF22_Boyar_Joan.jpg" alt=""></a> 
                 <p><em>《世紀帝國II:征服者入侵》時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em>
-
                 </p>
               </div>
               <div class="col-md-12">
                 <div class="col-md-4"> <a href="img/Cataphract1.jpg"><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""></a> 
                   <p><em>在帝王世紀測試服的聖騎兵是用貴族鐵騎的模組。</em>
-
                   </p>
                 </div>
               </div>

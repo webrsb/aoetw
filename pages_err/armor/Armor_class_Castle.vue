@@ -10,7 +10,6 @@
         </div>
         <div class="col-md-12">
           <div class="spw"><em>這篇文章是將有關於城堡的裝甲。而關於城堡請參見<a href="Castle.php">城堡</a></em>
-
           </div>
         </div>
         <div class="col-md-12">
@@ -23,7 +22,6 @@
             <ul>
               <li>
                 <img width="25px" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
-
               </li>
             </ul>
           </div>
@@ -32,16 +30,13 @@
           <div class="n1">以下單位擁有對城堡的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div style="margin:12px 0px;"><strong>+100攻擊</strong>
-
               </div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/PetardIcon.jpg" alt=""><a href="Petard.php">爆炸桶</a>
-
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
               </div>
               <ul>
                 <li>

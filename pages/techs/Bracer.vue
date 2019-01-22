@@ -67,7 +67,6 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="ien"><em>“護腕是一個佩戴在弓箭手前手上的硬皮護具，這樣不僅可以支撐手腕在多次的拉弓下不會覺得非常疲累，並保護手臂內側免受箭羽的磨擦。如果沒有護腕保護，手臂可能在多次拉弓下會肌肉斷裂，削弱弓箭手的戰鬥力以致最後脫離戰鬥狀態，對於弓箭手而言，護腕是一個重要的改進。“</em>
-
               <p
               style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
             </div>
@@ -78,7 +77,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">護腕</a>
-
                 </div>
               </td>
             </tr>
@@ -92,7 +90,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -103,20 +100,17 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4"><a href="Blacksmith.php">兵工廠</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Bodkinarrow.jpg" alt=""><a href="Bodkin_Arrow.php">錐狀箭頭</a>
-
               </td>
             </tr>
             <tr>
@@ -126,7 +120,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -141,7 +134,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>賽爾特</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -23,7 +22,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#e6992c;">
                 <div class="unititle"><a href="">賽爾特</a>
-
                 </div>
               </td>
             </tr>
@@ -32,7 +30,6 @@
                 <div class="unititle">
                   <img src="~assets/Royal_Banner_of_Scotland.png" alt="">
                   <p><em>蘇格蘭國旗</em>
-
                   </p>
                 </div>
               </td>
@@ -40,7 +37,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#e6992c;">
                 <div class="unititle2"><a href="">概要</a>
-
                 </div>
               </td>
             </tr>
@@ -75,7 +71,6 @@
       <div class="row">
         <div class="col-md-12">
            <h3>遊戲概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -98,10 +93,8 @@
   <li><img class="gg" src="~assets/CastleAgeUnique.png">堡壘:城堡和箭塔攻擊速度+20%</li>
   <li><img class="gg" src="~assets/Unique-tech.jpg">賽爾特狂暴:攻城器製造所的單位血量+40%</li>
 </ul>
-
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -112,8 +105,6 @@
               <li><strong>團隊加分</strong>:攻城器製造所工作效率提升20%</li>
             </ul>
           </div>
-
-
           <h3>科技樹</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -121,11 +112,9 @@
           </div>
           <br/>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>賽爾特狂暴給予攻城武器40%的生命值加成，而非50%了</li>
               <li>加入城堡時代特殊科技：堡壘:城堡和箭塔攻擊速度+20%</li>
@@ -136,21 +125,18 @@
            <h3>圖庫</h3> 
           <div class="col-md-4">
             <div class="wimg"><a href="img/Woad.jpg"><img class="imgn hg" src="~assets/Woad.jpg" alt=""></a>
-
             </div>
             <div class="hrn1"></div>
             <p>菘藍武士的3D模組。</p>
           </div>
           <div class="col-md-4">
             <div class="wimg"><a href="img/Wondercelts.png"><img class="imgn hg" src="~assets/Wondercelts.png" alt=""></a>
-
             </div>
             <div class="hrn1"></div>
             <p>賽爾特的世界奇觀：卡瑟爾岩。</p>
           </div>
           <div class="col-md-4">
             <div class="wimg"><a href="img/Celts_in_III_century_BC.jpg"><img class="imgn hg" src="~assets/Celts_in_III_century_BC.jpg" alt=""></a>
-
             </div>
             <div class="hrn1"></div>
             <p>西元3世紀時賽爾特人的擴張情況。</p>

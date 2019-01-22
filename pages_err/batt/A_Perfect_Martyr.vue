@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>完美的烈士</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,7 +13,6 @@
             <p>完美的烈士為聖女貞德戰役的第六關劇情關卡，此關法軍與英軍於卡斯提農決戰，是英法百年戰爭的最後一場戰役，發生在加斯科涅的多爾多尼河畔卡斯提農（今卡斯提農拉巴泰爾），法軍取得了決定性的勝利，自此英格蘭王國失去除加萊和海峽群島外的全部法國領土。</p>
           </div>
            <h2>遊戲者</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="hrn1"></div>
@@ -53,7 +51,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">完美的烈士</a>
-
                 </div>
               </td>
             </tr>
@@ -67,32 +64,27 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">版本</td>
               <td class="unit4"><a href="aok.php">帝王世紀</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">戰役</td>
               <td class="unit4"><a href="Joan_of_Arc.php">聖女貞德</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Franks.php">法蘭克</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">戰役關卡編號</a>
-
                 </div>
               </td>
             </tr>
@@ -117,25 +109,20 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的完美的烈士
               <div style="margin-left: 10px;"><i><strong><a href="http://tinyurl.com/ybatc4lg">卡斯蒂隆戰役</a></strong></i>
-
               </div>
             </div>
           </div>
         </div>
       </div>
        <h2>戰役說明</h2>
-
       <div class="hrn1"></div>
       <div class="col-md-12">
         <div class="col-md-4">
            <h3>開場設定</h3>
-
           <ul>
             <li><strong>起始時代：</strong>
-
               <img class="gg" src="~assets/Castle-age-reseach.jpg"
               class="gg" alt=""><a href="Imperial_Age.php">城堡時代</a>
-
             </li>
             <li><strong>起始資源：</strong>無</li>
             <li><strong>人口上限：</strong>75</li>
@@ -143,11 +130,9 @@
         </div>
         <div class="col-md-4">
            <h3>起始單位</h3>
-
           <ul>
             <li>
               <img class="gg" src="~assets/Guyjosselyneicon.png" alt=""><a href="Guy_Josselyne.php">蓋佐斯爾立</a>
-
             </li>
             <li>
               <img class="gg" src="~assets/TradeCartIcon.jpg" alt=""><a href="Trade_Cart.php">貿易車隊</a>*1</li>
@@ -155,19 +140,15 @@
         </div>
         <div class="col-md-4">
            <h3>大地之母</h3>
-
           <ul>
             <li>
               <img class="gg" src="~assets/Lahire.png" alt=""><a href="La_Hire.php">拉海爾</a>
-
             </li>
             <li>
               <img class="gg" src="~assets/Constablerichemonticon.png" alt=""><a href="Constable_Richemont.php">康斯塔伯理察蒙</a>
-
             </li>
             <li>
               <img class="gg" src="~assets/Jeanbureauicon.png" alt=""><a href="Jean_Bureau.php">約翰布荷</a>
-
             </li>
             <li>
               <img class="gg" src="~assets/ArbalestIcon.jpg" alt=""><a href="Arbalest.php">強弩兵</a>*16</li>
@@ -186,13 +167,11 @@
             <li>
               <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""><a href="Trebuchet.php">巨型投石機</a>*2</li>
             <dd><strong>*困難模式為1台<img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""><a href="Trebuchet.php">巨型投石機</a>和3台<img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a>。</strong>
-
             </dd>
           </ul>
         </div>
       </div>
        <h3>主要任務</h3>
-
       <div class="hrn1"></div>
       <div class="n1">
         <ol>
@@ -202,7 +181,6 @@
         </ol>
       </div>
        <h3>任務提示</h3>
-
       <div class="hrn1"></div>
       <div class="n1">
         <ul>
@@ -210,7 +188,6 @@
           <li>長弓兵固然實力堅強，但火砲的威力更是驚人。你可以將火砲和攻城武器設為「不還擊」狀態，以免誤傷你自己的軍隊。</li>
         </ul>
          <h3>芝麻小事</h3>
-
         <div class="hrn1"></div>
         <ul>
           <li>此關是整場戰役的故事旁白—蓋佐斯爾立所出現的唯一場景，也是玩家唯一無法使用貞德的關卡。</li>
@@ -221,7 +198,6 @@
         </ul>
       </div>
        <h2>概述</h2>
-
       <div class="hrn1"></div>
       <div class="n1">
         <ul>
@@ -232,13 +208,11 @@
             <div class="col-md-6">
               <img position="centered" class="imgn hg" width="500" src="~assets/Joanofarc6rock.png" alt="">
               <p class="text-center"><em>讓軍隊沿著地圖邊緣走到這邊準備攻擊勃根地人。</em>
-
               </p>
             </div>
             <div class="col-md-6">
               <img position="centered" class="imgn hg" width="500" src="~assets/Joanofarc6Burgundy.png" alt="">
               <p class="text-center"><em>破壞勃根地城鎮。</em>
-
               </p>
             </div>
       </div>
@@ -249,13 +223,11 @@
         <div class="col-md-6">
           <img class="imgn hg" src="~assets/Joanofarc6Shrewsbury.png" alt="">
           <p class="text-center"><em>舒茲伯利有大量的黃金跟石頭可以開採。</em>
-
           </p>
         </div>
         <div class="col-md-6">
           <img class="imgn hg" src="~assets/Joanofarc6Northwest.png" alt="">
           <p class="text-center"><em>看到防禦箭塔就在附近蓋城堡跟軍事建築。</em>
-
           </p>
         </div>
     </div>
@@ -266,13 +238,11 @@
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/Joanofarc6lastmile.png" alt="">
         <p class="text-center"><em>在城門前蓋城堡往目標繼續挺進。</em>
-
         </p>
       </div>
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/Joanofarc6victory.png" alt="">
         <p class="text-center"><em>玩家可以直接擊敗不列顛人獲得勝利。</em>
-
         </p>
       </div>
       </div>

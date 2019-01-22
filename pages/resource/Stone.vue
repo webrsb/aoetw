@@ -38,7 +38,6 @@
                   <li><a href="Stone_Shaft_Mining.php">礦井採石</a></li>
                   
               </ul>
-
           </div>
           <h3>相關文明加成</h3>
           <div class="hrn1"></div>

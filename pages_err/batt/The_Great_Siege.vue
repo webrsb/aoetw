@@ -1,11 +1,8 @@
 <template>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
-
     <div class="container">
         <!-- Example row of columns -->
-
 <div class="row" style=" margin-top: 50px;">
   <div class="col-md-12">
 <h1><strong>四面楚歌</strong></h1>
@@ -13,19 +10,14 @@
 </div>
   <div class="col-md-8">
 <div class="n1">
-
 <p>四面楚歌是巴里戰役的第三關，也是最後一關。 歷史來源自諾曼人在1068-1071年對巴里的圍城。 
 一支龐大的諾曼軍隊正在入侵拜占庭的巴里堡壘。</p>
 <p>歷史上本次戰役由諾曼人取得決定性勝利，拜占庭被迫從義大利南岸撤軍。</p>
-
-
-
 </div>
 <h2>玩家</h2>
 <div class="hrn1"></div>
 <div class="n1">
 <h3>基本資訊</h3>
-
     
     <ul>
       <li>起始時代:<img src="~assets/Feudal-age-reseach.jpg" class="gg" alt="">封建時代</li>
@@ -38,7 +30,6 @@
       </li>
       <li>大地之母單位:無</li>
   </ul>
-
 <h3>AI</h3>
 <table class="table-bordered" width="100%">
   <tr>
@@ -57,7 +48,6 @@
     <td class="tc6"><div class="p2"></div>玩家3：</td>
     <td class="tc6">巴里（紅色)拜占庭 </td>
 </tr>
-
 <tr>
     <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
   </tr>
@@ -70,9 +60,7 @@
     <td class="tc6"><div class="p4"></div>玩家6：</td>
     <td class="tc6">諾曼人(黃色) 法蘭克</td>
 </tr>
-
 </table>
-
     
 <h3>主要任務</h3>
 <div class="hrn1"></div>
@@ -98,17 +86,14 @@
     <li>駛向自由！</li>
 </ol>
 </div>
-
 <h3>次要任務</h3>
 <div class="hrn1"></div>
 <div class="n1">
 <ol>
    <li>-摧毀在諾曼防線內深藏的修道院。</li>
-
 <h3>任務提示</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>注意保衛軍防要塞，利用對抗兵種和海拔來圍殲敵人。諾曼人數量一定多於你所以你得設法取勝。</li>
     <li>小心很多在村郊和諾曼營地巡邏散步的諾曼人。</li>
@@ -121,7 +106,6 @@
 <h3>斥侯</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>您的斥侯回報:安德里亞斯‧諾蒂卡斯正和巴里的郡守斯蒂芬諾斯‧派特拉諾斯一起。</li>
   <li>巴里城（紫色）是一個位於亞得里亞海岸熙攘的港口城市。但現在被諾曼大軍圍攻。</li>
@@ -130,7 +114,6 @@
 <li>亞得里亞海是從巴里出逃的好路線，但巴里外面的水域有幾艘諾曼船艦把守著。</li>
     </ul>
 </div>
-
 <h3>攻略</h3>
 <div class="hrn1"></div>
 <ul>
@@ -168,17 +151,13 @@
 前往港口駛出巴里。在與魯加斯。普羅科皮烏斯對話後，讓安德里亞斯進入運輸船並駛向指定地點。 
 有一些戰艦將在船後出現，它們被摧毀才能結束遊戲。引誘他們移動到沙洲。
 這時陷阱將被觸發，摧毀任何鄰近沙洲的船隻。要注意被摧毀的船隻包括玩家的，所以盡可能不要靠近沙洲。</li>
-
-
 </ul>
-
 <h3>細節</h3>
 <div class="hrn1"></div>
 <ul>
   <li>城市西南部有座教堂名稱為:紀念偉大的傑高</li>
   <li>往諾曼人教堂的北部路上，有位英雄叫555國王，但對劇情本身無影響與幫助</li>
 </ul>
-
 </div>
 </div>
   </div>

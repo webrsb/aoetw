@@ -1,11 +1,8 @@
 <template>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
-
     <div class="container">
         <!-- Example row of columns -->
-
 <div class="row" style=" margin-top: 50px;">
   <div class="col-md-12">
 <h1><strong>京都(1582)</strong></h1>
@@ -13,13 +10,9 @@
 </div>
   <div class="col-md-8">
 <div class="n1">
-
 <p>
 京都(1582)是征服者的戰役之一，描述1582年日本的本能寺之變與其後的中國大返還(山崎之戰)。
 </p>
-
-
-
 </div>
 <h2>玩家</h2>
 <div class="hrn1"></div>
@@ -35,7 +28,6 @@
     <td class="tc2" width="5%">75</td>
   </tr>
 </table>
-
 <h3>AI</h3>
 <table class="table-bordered" width="100%">
   <tr>
@@ -45,17 +37,13 @@
     <td class="tc6"><div class="p5"></div>玩家1：</td>
     <td class="tc6" colspan="4">日本（青綠色）</td>
   </tr>
-
 <tr>
      <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
   </tr>
-
 <tr>
     <td class="tc6" width="15%""><div class="p4"></div>玩家4：</td>
     <td class="tc6" width="35%">織田信長（黃色）日本</td>
   </tr>
-
-
 <tr>
     <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
   </tr>
@@ -70,8 +58,6 @@
     <td class="tc6">兵庫（藍色）日本 </td>
 </tr>
 </table>
-
-
  <div class="col-md-12">
 <br/>
 <dl class="dl-horizontal">
@@ -81,10 +67,6 @@
   <dd>火炮x4。</dd>
 </dl>
 </div>
-
-
-
-
 <h3>主要任務</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -94,7 +76,6 @@
     <li>摧毀京都的三座城堡作為他們謀害織田信長陛下的報復。</li>
 </ol>
 </div>
-
 <h3>次要任務</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -102,11 +83,9 @@
     <li>無。</li>
 </ol>
 </div>
-
 <h3>任務提示</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>京都的武士和織田信長陛下在一起，他們不會自己逃走，因為他們試圖保護織田信長。</li>
   <li>打敗大阪的駐軍並在此建立自己的城鎮，不要隨便摧毀建築，否則當你攻陷大阪還得重建許多建築。</li>
@@ -117,7 +96,6 @@
 <h3>斥侯</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>羽柴秀吉的部隊(青綠色)在織田信常陛下的運輸船上，當你進入大阪，你需要迅速壓制抵抗，並建立一個基地。</li>
   <li>有三個敵人。大阪(紅色)有城牆和城堡，但是部隊很少。</li>
@@ -125,11 +103,8 @@
   <li>京都(綠色)是你最危險的敵人，城市防禦良好，還有大量的長矛兵、騎士和日本武士保護城堡，如果給他們機會，他們還會建造海軍。</li>
 </ul>
 </div>
-
 <h3>攻略</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>雖然遊戲讓你保護信長，但信長不死遊戲無法進行，盡你所能地多殺死幾個敵人吧。</li>
   <li>進入大阪的時候不要摧毀城市，只要把城門打破，靠近城鎮中心就好。</li>
@@ -143,11 +118,8 @@
   <li>善用你的投石機，火炮被毀了之後他們是最有效的。</li>
   <li>大量投石機加上重型弩砲可以輕鬆的贏下戰鬥。</li>
 </ul>
-
 <h3>遊戲內細節</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>除了織田信長之外，遊戲裡面沒有出現任何歷史人物。</li>
   <li>遊戲開始的時，所有織田信長的單位生命值是滿的，開始後幾秒會變成一半以下。</li>
@@ -165,11 +137,8 @@
   <li>敵人可以用遺跡勝利，玩家也可以。</li>
   <li>本關無法建造奇觀。</li>
 </ul>
-
 <h3>歷史</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>這場戰役描寫由本能寺之變(織田信長之死)到羽柴秀吉擊敗明智光秀為止的事蹟，日本史稱中國大返還以及山崎之戰，。</li>
   <li>遊戲內的地圖跟當時的戰場一點都不相似，估計是為了讓玩家可以發揮日本的海軍優勢。</li>
@@ -189,14 +158,7 @@
   <li>歷史上的明智光秀在敗退後死於荒郊野外，被狩獵落難武士的農民殺死(當時殺死敵將並帶回人頭有重賞)。</li>
   <li>而羽柴秀吉後來改名豐臣秀吉，進而統一日本。</li>
   <li>豐臣秀吉後來進攻朝朝鮮，也就是遊戲內的洛陽點(1598)戰役。</li>
-
 </ul>
-
-
-
-
-
-
 </div>
   </div>
   <div class="col-md-4">
@@ -247,34 +209,22 @@
         </td>
       </tr>
       
-
   </table>
-
      <div class="thanks">
        感謝! 此頁面由Dennis協助編輯
      </div>
-
  <div class="wiki" style="margin-top: 5px;">
 <div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div>
 <div style="margin-left: 60px;">維基百科上的京都戰役
 <div style="margin-left: 10px;"><em><strong><a href="http://tinyurl.com/ybt66856">山崎之戰</a></strong></em></div>
 </div>
   </div>
-
-
   </div>
 </div>
-
  <div class="row">
   <div class="col-md-12">
-
-
-
   </div>
 </div>  
-
-
-
     </div>
     
 </template>

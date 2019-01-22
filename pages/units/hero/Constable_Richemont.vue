@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>康斯塔伯理察蒙</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -18,14 +17,12 @@
           <div></div>
           <div></div>
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
                 <img class="hg" width="250" src="~assets/Constablerichemont.png" alt="">
                 <p><em>戰役編輯器中的康斯塔伯理察蒙。</em>
-
                 </p>
               </div>
             </div>
@@ -36,7 +33,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">康斯塔伯理察蒙</a>
-
                 </div>
               </td>
             </tr>
@@ -55,7 +51,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">騎兵<br/>英雄</a>
-
               </td>
             </tr>
             <tr>

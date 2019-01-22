@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>丁禮</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,7 +14,6 @@
               。</p>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>他的原型來自於越南歷史上的知名人物丁禮，他也是梨利的姪子。他既勇猛、狡詐又武功高強。他在年輕時曾擔任<a href="Le_Loi.php">黎利</a>的護衛。他和梨來在黎利發起藍山起義後不久就率先加入，他同時也是梨利最信賴的人之一。1427年，
@@ -27,7 +25,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">丁禮</a>
-
                 </div>
               </td>
             </tr>
@@ -46,7 +43,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">騎兵<br/>英雄</a>
-
               </td>
             </tr>
             <tr>
@@ -96,7 +92,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的丁禮
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E4%B8%81%E7%A6%AE">丁禮</a></strong></i>
-
               </div>
             </div>
           </div>

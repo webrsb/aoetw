@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>狂戰士幫</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,7 +13,6 @@
             <p>狂戰士幫是維京的特殊科技，可於帝王時代在城堡研發。研發後狂戰士回血速度提升(每分鐘20HP變為每分鐘40HP)。</p>
           </div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -29,22 +27,18 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>成本為500F/850G。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>成本從500F/850G變為850F/400G。</li>
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>狂戰士，berserk 此字的由來意指「披熊皮者」，由ber"熊" 與 serk "衣衫" 組成。後來意思轉變，成為具有異常力量，在發怒時，可以進入出神的狂暴狀態，可以不著鎧甲就迎向敵人進行戰鬥的勇士。</p>

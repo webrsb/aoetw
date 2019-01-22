@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>條條大路通圍城</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,11 +13,9 @@
             <p>條條大路通圍城為阿拉里克戰役的第一關劇情關卡，在這關故事中，哥德國王阿拉里克開始了他對羅馬的攻擊。在整個過程中，他將有機會招募到哥特難民加入他的軍隊，獲得對河流與貿易路線的控制，並最終切斷羅馬的供應。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -30,7 +27,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">

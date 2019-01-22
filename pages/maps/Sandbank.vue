@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>沙洲</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           
            <h3>說明</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>沙洲具有兩棲地形，其中陸地單位和海軍單位都可加入戰場。玩家將從他們自己的沙洲開始，或者在團隊比賽中與隊友分享。每個沙洲沒有固定的形狀，而且有長而狹窄的峽灣向外延伸。沙洲被寬闊的河道及紅樹林群隔開，必須把部隊送到沙洲上然經由運輸船才能到達敵人的島嶼。沿著沙洲邊緣有淺灘，陸地單位可以穿過這些淺灘，而更深的水域只有海上單位能通過。</p>
@@ -24,13 +22,11 @@
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/Mangrove.png" alt="">
         <p class="text-center"><em>中間的紅樹林區有金礦和石礦可開採。</em> 
-
         </p>
       </div>
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/Channels.jpg" alt="">
         <p class="text-center"><em>城鎮旁的峽灣。</em>
-
         </p>
       </div>
       </div>

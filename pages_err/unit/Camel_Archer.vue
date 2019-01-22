@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>駱駝弓騎兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -16,7 +15,6 @@
               href="Castle_Age.php">城堡時代</a>的<a href="Castle.php">城堡</a>中訓練。是個對<a href="Cavalry_Archer.php">馬弓騎兵</a>有攻擊加成的騎馬射手。</p>
             <p>駱駝弓騎兵可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳駱駝弓騎兵。</div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -40,7 +38,6 @@
             </ul>
           </div>
            <h3>與蒙古突騎的比較</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -54,7 +51,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -133,7 +129,6 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -152,7 +147,6 @@
             </tr>
           </table>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -165,11 +159,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="ak.php">非洲王朝</a></em></h3>
-
             <ul>
               <li>駱駝弓騎兵對<a href="Armor_Class_Infantry.php">步兵單位</a>攻擊+1。</li>
               <li>駱駝弓騎兵有60HP(精銳是65)，對<a href="Armor_Class_Camel.php">反駱駝騎兵</a>和<a href="Armor_Class_Cavalry_Archer.php">反馬弓騎兵</a>攻擊都+2護甲，對
@@ -178,7 +170,6 @@
               <li><a href="Berbers.php">柏柏</a>:最初不能研發<a href="Ring_Archer_Armor.php">弓兵環甲</a>。4.8改版後可以研發了</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li>5.3改版後不再對<a href="Armor_Class_Infantry.php">步兵單位</a>有攻擊加成。</li>
               <li>5.7改版後駱駝弓騎兵現在有55HP(精銳是60)。移除對<a href="Armor_Class_Camel.php">反駱駝騎兵</a>和
@@ -187,7 +178,6 @@
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -196,7 +186,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>歷史上，柏柏爾人是聞名的沙漠掠奪者。他們騎駱駝是因為他們非常適合在沙漠上快速移動。在騎駱駝時使用弓將極大地幫助突襲。</p>
@@ -224,27 +213,23 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>、 <a href="Archer_Units.php">弓兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Berbers.php">柏柏</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -313,11 +298,9 @@
             <tr>
               <td class="unit3">防禦類別</td>
               <td class="unit4"><a href="Armor_Class:_Archer.php">射手</a>
-
                 <br/> <a href="Armor_Class:_Cavalry_Archer.php">馬弓騎兵</a>(0)
                 <br/> <a href="Armor_Class_Camel.php">駱駝騎兵</a>(0)
                 <br/> <a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -331,7 +314,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位演變</a>
-
                 </div>
               </td>
             </tr>
@@ -354,34 +336,28 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"><img  class="imgn hg" width="250" src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png" alt=""></a> 
                 <p><em>一群駱駝弓騎兵</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Aoe2_CamelArcher_Preview.png"><img  class="imgn hg" width="250" src="~assets/Aoe2_CamelArcher_Preview.png" alt=""></a> 
                 <p><em>以前的駱駝弓騎兵</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/AOE2_CamelArcher_WIP-1024x787.png"><img  class="imgn hg" width="250" src="~assets/AOE2_CamelArcher_WIP-1024x787.png" alt=""></a> 
                 <p><em>駱駝弓騎兵3D圖</em>
-
                 </p>
               </div>
               <div class="col-md-12">
                 <div class="col-md-4"> <a href="img/Camel_archery.jpg"><img  class="imgn hg" width="250" src="~assets/Camel_archery.jpg" alt=""></a> 
                   <p><em>一張畫著獵人騎在駱駝背上彎弓打獵的畫。</em>
-
                   </p>
                 </div>
                 <div class="col-md-4"> <a href="img/1518454054853.jpg"><img  class="imgn hg" width="250" src="~assets/1518454054853.jpg" alt=""></a> 
                   <p><em>即使是重裝馬弓騎兵也無法與駱駝弓騎兵一搏。</em>
-
                   </p>
                 </div>
               </div>

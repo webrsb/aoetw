@@ -18,7 +18,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#c12420;">
                     <div class="unititle"><a href="William_Wallacea.php">威廉華勒斯</a>
-
                     </div>
                   </td>
                 </tr>
@@ -78,7 +77,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#c12420;">
                     <div class="unititle"><a href="Joan_of_Arc.php">聖女貞德</a>
-
                     </div>
                   </td>
                 </tr>
@@ -132,7 +130,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#c12420;">
                     <div class="unititle"><a href="Saladina.php">薩拉丁</a>
-
                     </div>
                   </td>
                 </tr>
@@ -186,7 +183,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#c12420;">
                     <div class="unititle"><a href="Genghis_Khana.php">成吉思汗</a>
-
                     </div>
                   </td>
                 </tr>
@@ -240,7 +236,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#c12420;">
                     <div class="unititle"><a href="Barbarossaa.php">巴巴羅薩</a>
-
                     </div>
                   </td>
                 </tr>
@@ -297,7 +292,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#2a22a7;">
                     <div class="unititle"><a href="Attila_the_Huna.php">阿提拉</a>
-
                     </div>
                   </td>
                 </tr>
@@ -351,7 +345,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#2a22a7;">
                     <div class="unititle"><a href="El_Cida.php">席德</a>
-
                     </div>
                   </td>
                 </tr>
@@ -405,7 +398,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#2a22a7;">
                     <div class="unititle"><a href="Montezumaa.php">蒙特蘇馬</a>
-
                     </div>
                   </td>
                 </tr>
@@ -459,7 +451,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#2a22a7;">
                     <div class="unititle"><a href="Battles_of_the_Conquerors.php">征服者的戰役</a>
-
                     </div>
                   </td>
                 </tr>
@@ -528,7 +519,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#28a745;">
                     <div class="unititle"><a href="Alarica.php">阿拉里克</a>
-
                     </div>
                   </td>
                 </tr>
@@ -570,7 +560,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#28a745;">
                     <div class="unititle"><a href="Draculaa.php">德古拉</a>
-
                     </div>
                   </td>
                 </tr>
@@ -618,7 +607,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#28a745;">
                     <div class="unititle"><a href="Baria.php">巴里</a>
-
                     </div>
                   </td>
                 </tr>
@@ -654,7 +642,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#28a745;">
                     <div class="unititle"><a href="Sforzaa.phpp">斯福爾札</a>
-
                     </div>
                   </td>
                 </tr>
@@ -702,7 +689,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#28a745;">
                     <div class="unititle"><a href="El_Dorado.php">黃金國</a>
-
                     </div>
                   </td>
                 </tr>
@@ -744,7 +730,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#28a745;">
                     <div class="unititle"><a href="Prithviraja.php">布里斯比羅吉</a>
-
                     </div>
                   </td>
                 </tr>
@@ -786,7 +771,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#28a745;">
                     <div class="unititle"><a href="Battles_of_the_Forgotten.php">失落帝國的戰役</a>
-
                     </div>
                   </td>
                 </tr>
@@ -861,7 +845,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#8a6d3b;">
                     <div class="unititle"><a href="Tariq_ibn_Ziyada.php">塔里克．伊本．齊亞德</a>
-
                     </div>
                   </td>
                 </tr>
@@ -909,7 +892,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#8a6d3b;">
                     <div class="unititle"><a href="Sundjataa.php">松迪亞塔</a>
-
                     </div>
                   </td>
                 </tr>
@@ -957,7 +939,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#8a6d3b;">
                     <div class="unititle"><a href="Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</a>
-
                     </div>
                   </td>
                 </tr>
@@ -1005,7 +986,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#8a6d3b;">
                     <div class="unititle"><a href="Yodita.php">遊娣特</a>
-
                     </div>
                   </td>
                 </tr>
@@ -1056,7 +1036,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#5f8ebd;">
                     <div class="unititle"><a href="Gajah_Madaa.php">加查·馬達</a>
-
                     </div>
                   </td>
                 </tr>
@@ -1104,7 +1083,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#5f8ebd;">
                     <div class="unititle"><a href="Suryavarman_Ia.php">蘇利耶跋摩一世</a>
-
                     </div>
                   </td>
                 </tr>
@@ -1152,7 +1130,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#5f8ebd;">
                     <div class="unititle"><a href="Bayinnaunga.php">勃印曩</a>
-
                     </div>
                   </td>
                 </tr>
@@ -1200,7 +1177,6 @@
                 <tr>
                   <td class="unit" style=" background-color:#5f8ebd;">
                     <div class="unititle"><a href="Lê_Lợia.php">黎利</a>
-
                     </div>
                   </td>
                 </tr>

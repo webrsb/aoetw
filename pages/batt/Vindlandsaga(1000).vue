@@ -1,11 +1,8 @@
 <template>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
-
     <div class="container">
         <!-- Example row of columns -->
-
 <div class="row" style=" margin-top: 50px;">
   <div class="col-md-12">
 <h1><strong>芬特蘭撒格(1000)</strong></h1>
@@ -13,13 +10,9 @@
 </div>
   <div class="col-md-8">
 <div class="n1">
-
 <p>
 芬特蘭撒格(1000)是征服者的戰役之一，描述維京人紅衣艾立克前往新大陸並且拓展殖民地的故事。
 </p>
-
-
-
 </div>
 <h2>玩家</h2>
 <div class="hrn1"></div>
@@ -35,7 +28,6 @@
     <td class="tc2" width="5%">75</td>
   </tr>
 </table>
-
 <h3>開場</h3>
 <div class="hrn1"></div>
  <ul>
@@ -43,10 +35,6 @@
    <li><img style="margin: 2px;" width="22" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>X3</li>
    <li><img style="margin: 2px;" width="22" src="~assets/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>X2</li>
  </ul>
-
-
-
-
 <h3>AI</h3>
 <table class="table-bordered" width="100%">
   <tr>
@@ -56,16 +44,12 @@
     <td class="tc6"><div class="p2"></div>玩家1：</td>
     <td class="tc6" colspan="3">維京（紅色）</td>
   </tr>
-
 <tr>
      <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
   </tr>
-
 <tr>
     <td class="tc6">無</td>
   </tr>
-
-
 <tr>
     <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
   </tr>
@@ -80,10 +64,6 @@
     <td class="tc6">斯格林斯（紫色）賽爾特</td>
 </tr>
 </table>
-
-
-
-
 <h3>主要任務</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -93,7 +73,6 @@
     <li>在這個新的世界裡，維京必須建造一個城鎮中心，一個市場，和12個房子。</li>
 </ol>
 </div>
-
 <h3>次要任務</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -101,11 +80,9 @@
     <li>無。</li>
 </ol>
 </div>
-
 <h3>任務提示</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>挪威的資源很快就會用盡，你必須殖民別的大陸，來維持維京民族的繁榮。</li>
   <li>由吟詩人提及一個遙不可及的海洋。</li>
@@ -115,7 +92,6 @@
 <h3>斥侯</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>紅衣艾立克統治的維京人(紅色)只有少量建築與少數狂戰士的保護他們免受惡狼的傷害，儘管戰士還沒有人來騷擾你，但是格陵蘭的維京人可能襲擊你的海岸。</li>
   <li>不列顛(藍色)雖然正規作戰還不行，但是奇襲還是很有經驗的。</li>
@@ -123,11 +99,8 @@
   <li>一種野人(紫色)傳說也住在新大陸上。</li>
 </ul>
 </div>
-
 <h3>攻略</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>開始時的地方有許多野味，你可以狩獵，但是要用狂戰士保護你的村民不受野狼傷害。</li>
   <li>挪威(開始的地區)是沒有黃金的，你必須盡快到別的島嶼去搶資源。</li>
@@ -145,13 +118,9 @@
   <li>斯格林斯只有步兵，城堡是最好的防禦，或是城鎮中心也可以。</li>
   <li>不需要跟斯格林斯硬碰硬，石牆圍起來，蓋好該蓋的建築即可獲勝。</li>
   <li>若是玩中等模式，可以直接帶著紅衣艾立克跟幾個村民，從格陵蘭島跟海蟲的夾縫中通過格陵蘭，抵達新大陸之後用開始時的石頭建造城堡，然後就可以輕鬆獲勝(不需要擊敗格陵蘭)。</li>
-
 </ul>
-
 <h3>遊戲內細節</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>很神奇的，遊戲沒有把冰島畫出來。</li>
   <li>格陵蘭島的草其實長在島的南端，所以遊戲中北方有一堆樹木是不合史實的。</li>
@@ -165,11 +134,8 @@
   <li>大多數玩家不知道為甚麼斯格林斯永遠不會被擊敗，那是因為在地圖左下有個孤島，上面有一個叫做Lonely Hermit的菘藍武士，殺死他後就可以擊敗斯格林斯。</li>
   <li>如果你聽的是中文語音，那你就可以享受那神奇的艾立克口音。</li>
 </ul>
-
 <h3>歷史</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>這場戰役的英文名稱Vindlandsaga，正是取自新大陸的名稱Vindland。</li>
   <li>這場戰役描寫的是紅衣艾立克(又名紅鬍子、紅魔、紅髮)拓展格陵蘭與其子萊夫-艾瑞克森開發新大陸的故事。</li>
@@ -183,12 +149,6 @@
   <li>有些人認為萊夫-艾瑞克森是真正第一個發現新大陸的人，而非哥倫布。</li>
   <li>當時的維京人是以基督教為主。</li>
 </ul>
-
-
-
-
-
-
 </div>
   </div>
   <div class="col-md-4">
@@ -239,9 +199,7 @@
         </td>
       </tr>
       
-
   </table>
-
      <div class="thanks">
        感謝! 此頁面由Dennis協助編輯
      </div>
@@ -253,17 +211,10 @@
 </div>
   </div>
 </div>
-
  <div class="row">
   <div class="col-md-12">
-
-
-
   </div>
 </div>  
-
-
-
     </div>
     
 </template>

@@ -62,7 +62,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">旱碼頭</a>
-
                 </div>
               </td>
             </tr>
@@ -76,7 +75,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -88,21 +86,18 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">前置升級</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>
-
               </td>
             </tr>
             <tr>
@@ -112,7 +107,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -127,7 +121,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

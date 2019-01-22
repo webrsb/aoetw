@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>阿伯哈拉戰象</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,13 +13,11 @@
             <p>阿伯拉哈（？－553年），是非洲王國地圖編輯器中的一位英雄單位。歷史上，是西元500年代的南阿拉比亞國的國王，他是該國歷史文獻上在位最長的君主，曾大力擴充軍力，並於在位期間攻打聖城麥加，不過因為所屬軍隊多染天花惡疾，未能攻下麥加。</p>
           </div>
            <h3>介紹</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>阿伯拉哈外表是戰象，因為他入侵麥加時使用了數百隻戰象。像其他騎兵部隊一樣，他受到所有影響騎兵升級的科技加乘。也和其他英雄一樣，不能被招降且能自己回血。而且他是全遊戲近戰單挑最強的單位。</p>
           </div>
            <h3>芝麻小事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -33,7 +30,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">阿伯哈拉戰象</a>
-
                 </div>
               </td>
             </tr>

@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>駱駝騎兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -46,14 +45,12 @@
             </div>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>在城堡時代騎兵為主力的兵種時，出駱駝騎兵則可以與之抗衡，相較於長槍兵只能在家裡防守，駱駝騎兵的跑速比騎士快則可以追擊騎士，但對於步兵與弓兵類型的兵種則相對弱勢，此外也相當怕僧侶。</p>
             <p>如果對手只出騎士，該國又沒有駱駝，駱駝將會給予對手極大的壓力。另外駱駝搭配僧侶也非常適合打擊令人聞風色變的西班牙征服者與緬甸飛鏢騎兵。值得一提的是，駱駝跑得比大多的馬還要快，這代表對方騎士無法在你家橫行。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -115,7 +112,6 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -140,41 +136,33 @@
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+26攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -183,7 +171,6 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -194,23 +181,19 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -218,7 +201,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -226,7 +208,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -273,7 +254,6 @@
             </div>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -284,7 +264,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -297,11 +276,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>駱駝有5的攻擊。</li>
               <li>駱駝對騎兵+10攻擊。</li>
@@ -312,7 +289,6 @@
               <li></li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>駱駝訓練時間減為22秒。</li>
               <li>移動速度增加到1.45。</li>
@@ -322,21 +298,18 @@
               <li><a href="Saracens.php">薩拉森</a>:引入<a href="Zealotry.php">狂熱舉動</a>。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>駱駝攻擊增加為6。</li>
               <li>對<a href="Armor_Class_Cavalry.php">騎兵</a>有+9攻擊。</li>
               <li>升級到重裝駱駝需要105秒。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li>駱駝不再受到<a href="Armor_Class_Ship.php">船艦護甲</a>的影響，他們正式有自己的防禦類型：<a href="Armor_Class_Camel.php">駱駝</a>護甲。但駱駝仍然對船隻有+5的攻擊。反騎兵攻擊仍然不影響駱駝。</li>
               <li><a href="Berbers.php">柏柏</a>:駱駝騎兵從城堡時代便宜20％，在4.8更新後變成城堡/帝王各便宜15%/20％。</li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -349,10 +322,8 @@
             </ul>
           </div>
            <h3>豆知識</h3>
-
           <div class="hrn1"></div>
           <div class="n1"><strong>駱駝為何剋馬？：</strong>
-
             <p>世紀帝國中的設定，駱駝打馬單位是有加成的，其實是有原因的。中國有句俗語：瘦死的駱駝比馬大，駱駝天生體積比馬還要大，馬看到龐然大物會害怕是正常。其次是駱駝身上有反芻動物特有的味道，馬一聞到那味道便不受控制。</p>
             <img
             class="imgn" src="~assets/camelhorse.jpg" alt="">
@@ -364,7 +335,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">駱駝騎兵</a>
-
                 </div>
               </td>
             </tr>
@@ -378,14 +348,12 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-
               </td>
             </tr>
             <tr>
@@ -396,14 +364,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" class="gg" src="~assets/Stable-logo.jpg" alt=""><a href="Stable.php">馬廄</a>
-
               </td>
             </tr>
             <tr>
@@ -440,11 +406,8 @@
               <td class="unit3">攻擊加成</td>
               <div class="unititle2">數據</div>
               <td class="unit4">+9對<a href="Armor_Class_Cavalry.php">騎兵類</a>
-
                 <br/>+5對<a href="Armor_Class_Camel.php">駱駝類</a>
-
                 <br/>+5對<a href="Armor_Class_Ship.php">船類</a>
-
               </td>
             </tr>
             <tr>
@@ -454,7 +417,6 @@
               </tr>
               <tr>
                 <td class="unit3"><a href="">近防</a>
-
                 </td>
                 <td class="unit4">0</td>
               </tr>
@@ -465,12 +427,10 @@
               <tr>
                 <td class="unit3">防禦類型</td>
                 <td class="unit4"><a href="Armor_Class_Camel.php">駱駝</a>
-
                 </td>
               </tr>
               <tr>
                 <td class="unit3"><a href="">跑速</a>
-
                 </td>
                 <td class="unit4">1.45</td>
               </tr>
@@ -487,7 +447,6 @@
                 <td class="unit3">升級到</td>
                 <td class="unit4">
                   <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
-
                 </td>
               </tr>
               <tr>
@@ -504,18 +463,15 @@
       </div>
       <div class="col-md-12">
          <h3>圖庫</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4"> <a href="img/Camelline.png"><img class="imgn hg" src="~assets/Camelline.png" alt=""></a> 
               <p><em>駱駝系。</em>
-
               </p>
             </div>
             <div class="col-md-4"> <a href="img/Camel.png"><img class="imgn hg" src="~assets/Camel.png" alt=""></a> 
               <p><em>一群駱駝騎兵。</em>
-
               </p>
             </div>
           </div>

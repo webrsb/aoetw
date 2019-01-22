@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>阿朗松公爵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -18,20 +17,17 @@
           <div></div>
           <div></div>
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
                 <img class="hg" width="200" src="~assets/Constablerichemont.png" alt="">
                 <p><em>戰役編輯器中的阿朗松公爵。</em>
-
                 </p>
               </div>
               <div class="col-md-5">
                 <img class="hg" width="220" src="~assets/Dukeandjoan.png" alt="">
                 <p><em>阿朗松公爵(左上)一開始在戰役"奧爾良的少女"和貞德的軍隊匯合。</em>
-
                 </p>
               </div>
             </div>
@@ -42,7 +38,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">阿朗松公爵</a>
-
                 </div>
               </td>
             </tr>
@@ -61,7 +56,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">騎兵<br/>英雄</a>
-
               </td>
             </tr>
             <tr>
@@ -112,7 +106,6 @@
             <div style="float: left;"></div>
             <div style="margin-left: 60px;">維基百科上的阿朗松公爵
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%E4%BA%8C%E4%B8%96_(%E9%98%BF%E6%9C%97%E6%9D%BE%E5%85%AC%E7%88%B5)">阿朗松公爵</a></strong></i>
-
               </div>
             </div>
           </div>

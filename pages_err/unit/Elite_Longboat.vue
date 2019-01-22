@@ -29,7 +29,6 @@
             <p>複數數量的維京大戰船非常適合岸邊轟炸，用箭雨把敵方插成蜂窩。維京大戰船也適合護衛如運輸船和火炮戰船完成他們的任務。由於維京人缺乏<a href="Fire_Ship.php">火戰船</a>，他們的海軍應該圍繞在維京大戰船上，因為維京大戰船訓練速度快、移動快、搭配其他船艦，就可有效應付海上的任何情況。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -96,21 +95,18 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
             </tr>
           </table>
            <h3>剋維京大戰船的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對維京大戰船的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -121,7 +117,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+17攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -129,7 +124,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+16攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -137,7 +131,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -147,7 +140,6 @@
                       <img src="~assets/LongboatIcon.jpg" alt=""><a href="Longboat.php">精銳維京大戰船</a>(<a href="Vikings.php">維京</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -155,7 +147,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -179,7 +170,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -191,7 +181,6 @@
                       alt=""><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a href="Khmer.php">高棉</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -201,14 +190,12 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -218,7 +205,6 @@
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -228,7 +214,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -238,7 +223,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -246,7 +230,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -262,7 +245,6 @@
               <div class="col-md-4">
                 <img src="~assets/Heatedshot.png" width="22" alt=""><a href="Heated_Shot.php">預熱射擊</a> 
                 <div style="margin:12px 0px;"><strong>+13攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -270,7 +252,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -280,7 +261,6 @@
               </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -288,7 +268,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -316,37 +295,31 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aok.php">世紀帝國</a></em></h3>
-
             <ul>
               <li>維京大戰船訓練時間為36秒，成本為100木50金。</li>
               <li>訓練維京大戰船需要先建造城堡。</li>
               <li><a href="Vikings.php">維京</a>:維京大戰船成本便宜20%。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>維京大戰船現在訓練時間為25秒。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
               <li><a href="Vikings.php">維京</a>:維京大戰船現在在城堡/帝王成本分別便宜15%/20%。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>維京大戰船現在的成本為90木50金。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王朝</a></em></h3>
-
             <ul>
               <li>訓練維京大戰船不再需要先建造城堡。</li>
               <li>維京大戰船現在的成本為100木50金。</li>
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="ien">
@@ -359,7 +332,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">維京大戰船</a>
-
                 </div>
               </td>
             </tr>
@@ -373,34 +345,29 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Naval_Vessels.php">船</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Vikings.php">維京</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
-
               </td>
             </tr>
             <tr>
@@ -410,28 +377,24 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
               <td class="unit4">84木42金</td>
             </tr>
             <tr>
               <td class="unit3">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
               <td class="unit4">80木40金</td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -446,11 +409,8 @@
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+9，+11(精銳)對<a href="Armor_Class_Ship.php">船</a>
-
                 <br/>+7，+8(精銳)對<a href="Armor_class_building.php">建築</a>
-
                 <br/>+4對<a href="Armor_Class_Ram.php">衝撞車</a>
-
               </td>
             </tr>
             <tr>
@@ -484,9 +444,7 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class_Ship.php">船</a>
-
                 <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -521,29 +479,24 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Longboat.png"><img class="imgn hg" src="~assets/Longboat.png" alt=""></a> 
                 <p><em>一群維京大戰船。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/915016_20030824_screen013.jpg"><img class="imgn hg" src="~assets/915016_20030824_screen013.jpg" alt=""></a> 
                 <p><em>維京大戰船。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Vikings_Longboat.jpg"><img class="imgn hg" src="~assets/Vikings_Longboat.jpg" alt=""></a> 
                 <p><em>維京大戰船的畫。</em>
-
                 </p>
               </div>
               <div class="col-md-12">
                 <div class="col-md-4"> <a href="img/The_long_boat_Wallpaper_rrpb2.jpg"><img class="imgn hg" src="~assets/The_long_boat_Wallpaper_rrpb2.jpg" alt=""></a> 
                   <p><em>維京大戰船的畫。</em>
-
                   </p>
                 </div>
               </div>

@@ -15,7 +15,6 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 5%;"> <a href="Infantry_Units.php">步兵單位</a>
-
             </td>
             <td class="unit3"> <a href="Militia.php">民兵</a>。 <a href="Man-at-Arms.php">裝甲步兵</a>。 <a href="Long_Swordsman.php">長劍兵</a>。
               <a
@@ -27,7 +26,6 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 5%;"><a href="Archer_Units.php">遠距離單位</a>
-
             </td>
             <td class="unit3"> <a href="Archer.php">弓兵</a>。 <a href="Crossbowman.php">弩兵</a>。 <a href="Arbalest.php">強弩兵</a>。
               <br/> <a href="Skirmisher.php">矛兵</a>。 <a href="Elite_Skirmisher.php">戰矛兵</a>。
@@ -39,7 +37,6 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 5%;"><a href="Cavalry_Units.php">騎兵單位</a>
-
             </td>
             <td class="unit3"> <a href="Scout_Cavalry.php">斥候</a>。 <a href="Light_Cavalry.php">輕騎兵</a>。
               <a
@@ -51,7 +48,6 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 5%;"><a href="Siege_Weapons.php">攻城武器單位</a>
-
             </td>
             <td class="unit3"> <a href="Battering_Ram.php">輕型衝撞車</a>。 <a href="Capped_Ram.php">裝甲衝撞車</a>。
               <a
@@ -63,7 +59,6 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 5%;"> <a href="Naval_Vessels.php">船艦單位</a>
-
             </td>
             <td class="unit3"> <a href="Galley.php">戰船</a>。 <a href="War_Galley.php">弩砲戰船</a>。 <a href="Galleon.php">重型弩砲戰船</a>。
               <br/> <a href="Fire_Galley.php">火蒙衝</a>。 <a href="Fire_Ship.php">火戰船</a>。 <a href="Fast_Fire_Ship.php">快速火戰船</a>。
@@ -78,84 +73,48 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 5%;"><a href="Unique_Unit.php">特殊單位</a>
-
             </td>
             <td class="unit3">
               <div class="col-md-12">
                 <div class="col-md-4"> <a href="Longbowman.php">長弓兵</a>
-
                   <br/> <a href="Cataphract.php">聖騎兵</a>
-
                   <br/> <a href="Woad_Raider.php">菘藍武士</a>
-
                   <br/> <a href="Chu_Ko_Nu.php">連弩兵</a>
-
                   <br/> <a href="Throwing_Axeman.php">擲斧兵</a>
-
                   <br/> <a href="Huskarl.php">哥德衛隊</a>
-
                   <br/> <a href="Samurai.php">日本武士</a>
-
                   <br/> <a href="Mangudai.php">蒙古突騎</a>
-
                   <br/> <a href="War_Elephant.php">波斯戰象</a>
-
                   <br/> <a href="Mameluke.php">奴隸兵</a>
-
                   <br/> <a href="Teutonic_Knight.php">條頓武士</a>
-
                   <br/> <a href="Janissary.php">土耳其火槍兵</a>
-
                   <br/> <a href="Berserk.php">狂戰士</a> 
                 </div>
                 <div class="col-md-4"> <a href="Jaguar_Warrior.php">豹勇士</a>
-
                   <br/> <a href="Tarkan.php">韃靼騎兵</a>
-
                   <br/> <a href="War_Wagon.php">馬戰車</a>
-
                   <br/> <a href="Turtle_Ship.php">龜甲船</a>
-
                   <br/> <a href="Plumed_Archer.php">羽毛箭射手</a>
-
                   <br/> <a href="Conquistador.php">征服者</a>
-
                   <br/> <a href="Missionary.php">傳教士</a>
-
                   <br/> <a href="Kamayuk.php">槍隊長</a>
-
                   <br/> <a href="Slinger.php">投石手</a>
-
                   <br/> <a href="Elephant_Archer.php">象弓騎兵</a>
-
                   <br/> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>
-
                   <br/> <a href="Genoese_Crossbowman.php">熱那亞弩手</a>
-
                   <br/> <a href="Condottiero.php">傭兵</a> 
                 </div>
                 <div class="col-md-4"> <a href="Magyar_Huszar.php">馬札爾驃騎兵</a>
-
                   <br/> <a href="Boyar.php">貴族鐵騎</a>
-
                   <br/> <a href="Camel_Archer.php">駱駝弓騎兵</a>
-
                   <br/> <a href="Shotel_Warrior.php">彎刀勇士</a>
-
                   <br/> <a href="Gbeto.php">飛刀女獵手</a>
-
                   <br/> <a href="Organ_Gun.php">手風琴砲</a>
-
                   <br/> <a href="Caravel.php">卡拉維爾戰船</a>
-
                   <br/> <a href="Arambai.php">飛鏢騎兵</a>
-
                   <br/> <a href="Ballista_Elephant.php">弩砲象</a>
-
                   <br/> <a href="Karambit_Warrior.php">爪刀勇士</a>
-
                   <br/> <a href="Rattan_Archer.php">藤甲弓兵</a>
-
                   <br/> <a href="Imperial_Skirmisher.php">帝王戰矛兵</a> 
                 </div>
               </div>

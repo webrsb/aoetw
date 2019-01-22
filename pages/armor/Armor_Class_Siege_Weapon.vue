@@ -6,12 +6,10 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>攻城單位</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
           <div class="spw"><em>這篇文章是將有關於攻城單位裝甲的。而關於攻城單位這個兵種的請參見<a href="Siege_Weapons.php">攻城單位</a></em>
-
           </div>
         </div>
         <div class="col-md-12">
@@ -19,7 +17,6 @@
             <p>攻城單位裝甲是一個防禦裝甲類別，所有在這個系列的兵種都會被剋攻城裝甲的兵種有額外的傷害。</p>
           </div>
            <h3>攻城單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1">下列的單位都是攻城單位
             <ul>
@@ -62,14 +59,12 @@
             </ul>
           </div>
            <h3>剋攻城單位的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對攻城單位的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+65攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -77,7 +72,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+60攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -85,7 +79,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+50攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -93,7 +86,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -106,7 +98,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -116,7 +107,6 @@
                 </div>
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -128,14 +118,12 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -147,7 +135,6 @@
                       <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>

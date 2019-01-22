@@ -20,7 +20,6 @@
               style="margin-right: 5px;" width="22" alt=""><a href="Castle_Age.php">城堡時代</a> ·
               <img style="margin-right: 5px;" src="~assets/Imperial-age-research.jpg"
               alt=""><a href="Imperial_Age.php">帝王時代</a>
-
             </td>
             </tr>
           </table>

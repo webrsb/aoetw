@@ -6,31 +6,26 @@
         <tr>
           <td class="unit" colspan="2" style=" background-color:#274a7d;">
             <div class="unititle" style="color: #fff;"><a href="tech.php">世紀帝國的科技</a>
-
             </div>
           </td>
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Barracks.php">兵營</a>
-
           </td>
           <td class="unit3"> <a href="Tracking.php">追縱技術</a>。 <a href="Squires.php">護衛</a>。 <a href="Arson.php">縱火</a>。</td>
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"><a href="Archery_Range.php">射箭場</a>
-
           </td>
           <td class="unit3"> <a href="Thumb_Ring.php">拇指環</a>。 <a href="Parthian_Tactics.php">帕提亞戰術</a>。</td>
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"><a href="Stable.php">馬廄</a>
-
           </td>
           <td class="unit3"> <a href="Bloodlines.php">品種</a>。 <a href="Husbandry.php">畜牧培育</a>。</td>
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"><a href="Town_Center.php">城鎮中心</a>
-
           </td>
           <td class="unit3"> <a href="Loom.php">織布技術</a>。 <a href="Wheelbarrow.php">獨輪推車</a>。 <a href="Hand_Cart.php">手推車</a>。
             <a
@@ -38,7 +33,6 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Monastery.php">修道院</a>
-
           </td>
           <td class="unit3"> <a href="Redemption.php">信仰救贖</a>。 <a href="Atonement.php">贖罪</a>。 <a href="Herbal_Medicine.php">草藥學</a>。
             <br/> <a href="Heresy.php">異端邪說</a>。 <a href="Sanctity.php">聖潔虔誠</a>。 <a href="Fervor.php">宗教狂熱</a>。
@@ -48,7 +42,6 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Market.php">市集</a>
-
           </td>
           <td class="unit3"> <a href="Cartography.php">製圖法</a>。 <a href="Caravan.php">大商隊</a>。 <a href="Coinage.php">鑄幣術</a>。
             <a
@@ -56,7 +49,6 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Castle.php">城堡</a>
-
           </td>
           <td class="unit3"> <a href="Spies.php">間諜</a>/<a href="Spies.php">叛徒</a>。 <a href="Hoardings.php">外架式柵樓</a>。
             <a
@@ -64,7 +56,6 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Dock.php">碼頭</a>
-
           </td>
           <td class="unit3"> <a href="Careening.php">傾側維修術</a>。 <a href="Dry_Dock.php">旱碼頭</a>。 <a href="Shipwright.php">造船匠</a>。
             <a
@@ -72,7 +63,6 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="University.php">學院</a>
-
           </td>
           <td class="unit3"> <a href="Masonry.php">磚瓦技術</a>。 <a href="Fortified_Wall.php">垛牆</a>。
             <a
@@ -87,7 +77,6 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Blacksmith.php">兵工廠</a>
-
           </td>
           <td class="unit3"> <a href="Padded_Archer_Armor.php">弓兵布甲</a>。 <a href="Leather_Archer_Armor.php">弓兵皮甲</a>。
             <a
@@ -96,7 +85,6 @@
               <a
               href="Bracer.php">護腕</a>
                 <br/> <a href="Forging.php">鍛造</a>。 <a href="Iron_Casting.php">鑄造</a>。 <a href="Blast_Furnace.php">鼓風爐</a>
-
                 <br/> <a href="Scale_Barding_Armor.php">騎兵鱗甲</a>。 <a href="Chain_Barding_Armor.php">騎兵鎖甲</a>。
                 <a
                 href="Plate_Barding_Armor.php">騎兵板甲</a>
@@ -107,26 +95,22 @@
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Mining_Camp.php">採礦營地</a>
-
           </td>
           <td class="unit3"> <a href="Gold_Mining.php">採金技術</a>。 <a href="Stone_Mining.php">採石技術</a>。
             <br/> <a href="Gold_Shaft_Mining.php">礦井採金</a>。 <a href="Stone_Shaft_Mining.php">礦井採石</a>。</td>
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Lumber_Camp.php">伐木場</a>
-
           </td>
           <td class="unit3"> <a href="Double-Bit_Axe.php">雙刃斧</a>。 <a href="Bow_Saw.php">弓鋸</a>。 <a href="Two-Man_Saw.php">雙人鋸</a>。</td>
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"> <a href="Mill.php">磨坊</a>
-
           </td>
           <td class="unit3"> <a href="Horse_Collar.php">馬軛</a>。 <a href="Heavy_Plow.php">重犁</a>。 <a href="Crop_Rotation.php">輪耕</a>。</td>
         </tr>
         <tr>
           <td class="unit3" style="width: 5%;"><a href="unitech.php">特殊科技</a>
-
             <br/>(城堡/帝王)</td>
           <td class="unit3">
             <div class="col-md-12">

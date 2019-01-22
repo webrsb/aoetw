@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>彈道學</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -31,22 +30,18 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li><a href="Spanish.php">西班牙</a>:火炮戰船受彈道學影響。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li><a href="Spanish.php">西班牙</a>:即使沒有研發彈道學火炮戰船的攻擊自身有彈道學。</li>
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>隨著中世紀的發展，導彈武器變得越來越重要，最終導致火器和大砲的發展。在這些創新武器之前，有長弓，弩弓和各種投擲石塊，矛和箭的攻城武器。人類研究了這些導彈在飛行中如何行進並努力提高砲彈的速度和準確性。這就是彈道學，研究飛行中的投射物運動。這一經歷使得之後的整個世代都在做武器，裝甲，圍牆，攻擊和防御之間的軍備競賽。。</p>
@@ -57,7 +52,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">彈道學</a>
-
                 </div>
               </td>
             </tr>
@@ -71,7 +65,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -83,14 +76,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
-
               </td>
             </tr>
             <tr>
@@ -100,7 +91,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -115,7 +105,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

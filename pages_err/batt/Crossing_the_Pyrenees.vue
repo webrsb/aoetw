@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>穿越庇里牛斯山脈</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,11 +14,9 @@
               <p>穿越庇里牛斯山脈為塔里克．伊本．齊亞德戰役的第四關劇情關卡，此關描述阿卜杜勒·拉赫曼·迦菲奇10年前打輸法蘭克人他想進行報復，要到達法蘭克人的土地他必須翻越庇里牛斯山脈。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -31,7 +28,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">
@@ -71,19 +67,16 @@
                 </tr>
             </table>
              <h3>開場</h3>
-
             <li>英雄 - 阿卜杜勒·拉赫曼·迦菲奇x1。</li>
             <li>軍事單位 - 精銳駱駝弓騎兵x10、精銳標槍騎兵x10、重裝馬弓騎兵x10、重裝駱駝騎兵x10、翼騎兵(匈牙利輕騎兵)x10、騎兵x5、戟兵x15、戰矛兵x5、劍兵勇士x10、勁驽兵x5、精銳哥德衛隊x5。</li>
             <li>經濟單位 - 貿易車隊x3。</li>
              <h2>主要任務</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
                 <li>阿卜杜勒·拉赫曼·迦菲奇和15個部下和至少一個補給車必須到達庇里牛斯山北部的倭馬亞營地。</li>
               </ol>
                <h2>次要任務</h2>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ol>
@@ -91,7 +84,6 @@
               </div>
             </div>
              <h2>任務提示</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -102,7 +94,6 @@
                 <li>在地圖的大部分地域，山脈的峭壁能為你提供庇護，然而高陡的窄道也十分險峻，並伴隨著嚴酷的山風。在此拖延太久，單位就會開始因為寒冷而受到傷害。</li>
               </ul>
                <h2>斥候</h2>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ul>
@@ -116,7 +107,6 @@
                   </li>
                 </ul>
                  <h2>細節</h2>
-
                 <div class="hrn1"></div>
                 <div class="n1">
                   <ul>
@@ -141,7 +131,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">穿越庇里牛斯山脈</a>
-
                 </div>
               </td>
             </tr>
@@ -155,7 +144,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -170,12 +158,10 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="">柏柏</a>
-
               </td>
             </tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
-
               </div>
             </td>
             </tr>
@@ -200,7 +186,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的阿卜杜勒·拉赫曼·迦菲奇
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%9C%E6%9D%9C%E5%8B%92%C2%B7%E6%8B%89%E8%B5%AB%E6%9B%BC_(%E5%AE%89%E8%BE%BE%E5%8D%A2%E8%A5%BF%E4%BA%9A)">阿卜杜勒·拉赫曼·迦菲奇</a></b></i>
-
               </div>
             </div>
           </div>
@@ -210,7 +195,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的阿卜杜勒·拉赫曼·迦菲奇(英文版)
               <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Abdul_Rahman_Al_Ghafiqi">Abdul Rahman Al Ghafiqi</a></b></i>
-
               </div>
             </div>
           </div>

@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>高原</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           
            <h3>說明</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>高原是一張有許多懸崖，森林茂密，有一或多條河流穿過的地圖。當許多玩家加入遊玩時，地圖通常會有多條河流，但也不是沒有四人遊戲只出現一條河流的情況出現。

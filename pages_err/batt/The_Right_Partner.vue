@@ -167,7 +167,6 @@
             <li>這場玩家須完成五個任務即可獲勝，玩法類似成吉思汗戰役的第一關<a href="Crucible.php">嚴酷的考驗</a>。開局玩家在南邊及北邊各有一個營地，玩家重心應該放在南邊的營地，北邊營地只有兩名村民、三艘漁船及一些軍隊，盡量利用北邊採集金礦跟石礦，漁船捕魚，南邊營地則砍樹打獵種田，磨坊下方的池塘有很多鴕鳥斑馬及大象，但也要小心有獅子鱷魚攻擊村民。兩台貿易馬車到右邊的貝賈市集進行貿易，並盡快晉升到城堡時代建造城鎮中心爆經濟。海盜(青色)及入侵者(灰色)開局不久後就會攻擊北方營地，北邊的營地很快就會陷落，但也不要灰心，在南方營地建造由弩兵、重裝長槍兵、戰矛兵及僧侶組成的混合部隊就能抵擋入侵者的攻擊。</li>
             
             <li>入侵者的部隊由裝甲步兵、弓兵、矛兵，馬弓騎兵，神弓手及駱駝弓騎兵組成。而且部隊會從地圖的三個地方直接產生，分別是西方諾帕夏城後面的旗幟；北方被綁架的示巴女王旁邊以及東南方一個小池塘周圍有敵對的貝賈部落部隊及一些野生動物處。玩家如果有石礦的話可以在這些地方圍牆並在牆後建造城堡或箭塔駐守1~2名弩兵就可以避免他們騷擾玩家城鎮。</li>
-
       <div class="col-md-12">
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/Invader_spot_1.png" alt="">
@@ -201,19 +200,16 @@
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/The_queen.png" alt="">
         <p class="text-center"><em>救出女王!</em>
-
         </p>
       </div>
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/The_pirate.png" alt="">
         <p class="text-center"><em>毀掉海盜的碼頭!</em>
-
         </p>
       </div>
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/CastleFight.png" alt="">
         <p class="text-center"><em>如果直接在城門前起城堡會直接變為敵對狀態喔!</em>
-
         </p>
       </div>
       </div>

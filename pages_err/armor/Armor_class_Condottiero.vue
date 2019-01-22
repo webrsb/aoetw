@@ -6,12 +6,10 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>傭兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
           <div class="spw"><em>這篇文章是將有關於傭兵護甲。而關於傭兵這個兵種的請參見<a href="Condottiero.php">傭兵</a></em>
-
           </div>
         </div>
         <div class="col-md-12">
@@ -22,7 +20,6 @@
               href="Cataphract.php">聖騎兵</a>有減傷效果，因此在5.7版特地新增傭兵護甲這個分類，強調傭兵反火藥單位的特性同時其它對步兵有加成的單位對傭兵也有一樣的攻擊加成</p>
           </div>
            <h3>傭兵</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -30,12 +27,10 @@
                 <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""> <a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</ul>
           </div>
            <h3>剋傭兵系的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對傭兵系的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
               </div>
               <ul>
                 <li>
@@ -48,21 +43,18 @@
                   alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a> (<a href="Aztecs.php">阿茲特克</a>限定)</li>
               </ul>
               <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
               </div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
               </ul>
               <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
               </div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
               </ul>
               <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
               </div>
               <ul>
                 <li>

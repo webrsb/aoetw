@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>征服者</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -16,7 +15,6 @@
               href="Castle_Age.php">城堡時代</a>的<a href="Castle.php">城堡</a>中訓練。是個高裝甲且騎馬的火藥單位。</p>
             <p>征服者可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳征服者。</div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -28,7 +26,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -79,7 +76,6 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -91,43 +87,35 @@
             </tr>
           </table>
            <h3>剋征服者的單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對征服者的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+32攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+30攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""> <a href="Cannon_Galleon.php">火砲戰船</a>→
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg"
                       alt=""> <a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+22攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -136,12 +124,10 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
@@ -150,7 +136,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -161,7 +146,6 @@
                       <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -175,39 +159,33 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/HuskarlIcon.jpg" alt=""> <a href="Huskarl.php">哥德衛隊</a>(<a href="Goths.php">哥德</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -218,7 +196,6 @@
                       <img class="gg" src="~assets/Imperialskirmishericon.png" alt=""> <a href="Imperial_Skirmisher.php">帝王戰矛兵</a>(<a href="Vietnamese.php">越南</a>和同盟限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -231,12 +208,10 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/SkirmisherIcon.jpg" alt=""> <a href="Skirmisher.php">矛兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
@@ -277,7 +252,6 @@
               class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -292,7 +266,6 @@
           </div>
         </div>
          <h3>文明加成</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -300,7 +273,6 @@
           </ul>
         </div>
          <h3>團隊加成</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -311,7 +283,6 @@
           </ul>
         </div>
          <h3>歷史</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <p>征服新世界的西班牙冒險家們被稱為征服者。這些人是一群貴族的子弟和尋找冒險和戰利品的幸運士兵。大多數是沒有工作的士兵。他們抵達新大陸，在武器上擁有巨大的技術優勢，當地人無法抵抗劍，火槍的攻擊。馬對第一次遇到牠的當地人來說也都讓他們感到特別恐怖。騎乘的人被認為是某種新生物，半人半四腳的野獸。由於歐洲疾病在當地部落間蔓延，並有時與當地部落結盟攻打其他部落，征服者的小軍隊相對輕鬆地征服了兩個偉大的美國文明，阿茲特克人和印加人。</p>
@@ -340,27 +311,23 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>、<a href="Gunpowder_Unit.php">火藥單位</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4"><a href="Spanish.php">西班牙</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
-
             </td>
           </tr>
           <tr>
@@ -429,13 +396,9 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">弓兵</a>
-
               <br/> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
-
               <br/> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-
               <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-
             </td>
           </tr>
           <tr>
@@ -449,7 +412,6 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
               <div class="unititle2"><a href="">單位演變</a>
-
               </div>
             </td>
           </tr>
@@ -472,13 +434,11 @@
       </div>
       <div class="col-md-12">
          <h3>圖庫</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4"> <a href="img/Conquistadorgroup.png"><img class="imgn hg" src="~assets/Conquistadorgroup.png" alt=""></a> 
               <p><em>一群征服者</em>
-
               </p>
             </div>
           </div>

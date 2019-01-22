@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>攻擊</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
@@ -14,7 +13,6 @@
             <p>一個單位的攻擊力是對對手單位造成的傷害。裝備可以根據各個遊戲不同的裝甲分類系統對其他單位類型造成額外傷害。這個攻擊獎勵不取決於目標單位的護甲，但是護甲仍然會從目標單位接受的傷害量中減去。</p>
           </div>
            <h3>概要</h3>
-
           <div class="hrn1"></div>
           <div class="col-md-12">
             <div class="n1">
@@ -53,7 +51,6 @@
             </ul>
           </div>
            <h3>瑣事</h3>
-
           <div class="hrn1"></div>
           <div class="col-md-12">
             <div class="n1">

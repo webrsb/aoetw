@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>阿拉伯騎士</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,11 +13,9 @@
             <p>阿拉伯騎士為沙拉丁戰役的第一關劇情關卡，此關描述沙拉丁率領軍隊逐出在埃及的法國十字軍。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -30,7 +27,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">

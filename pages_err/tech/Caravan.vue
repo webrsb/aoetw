@@ -52,7 +52,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">大商隊</a>
-
                 </div>
               </td>
             </tr>
@@ -66,7 +65,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -76,19 +74,16 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4"><a href="Market.php">市集</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">前置科技</td>
               <td class="unit4"><a href="Cartography.php">製圖學</a>
-
               </td>
             </tr>
             <tr>
@@ -98,7 +93,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -113,7 +107,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

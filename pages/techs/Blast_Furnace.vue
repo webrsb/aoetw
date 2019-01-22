@@ -55,7 +55,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>薩拉森人和後來的日本人通過一遍又一遍地折疊鐵和敲擊它的過程製造了第一批優質鋼。此大量重複的過程消除了金屬中非常高百分比的雜質並形成鋼。薩拉森人和日本人以他們劍的鋒利和力量而聞名。創新者學會瞭如何通過鼓風爐加速煉鋼的過程。當鐵礦石被熔煉時，通過將氧氣吹入爐內，混合物的溫度升高讓更多的雜質被燒掉。最後的結果就是鋼鐵，這是一種有用的武器材料，因為它可以讓武器更尖銳並且不會像鐵一樣容易斷裂。</p>
@@ -66,7 +65,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">鼓風爐</a>
-
                 </div>
               </td>
             </tr>
@@ -80,7 +78,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -91,20 +88,17 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4"><a href="Blacksmith.php">兵工廠</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Ironcasting.jpg" alt=""><a href="Iron_Casting.php">鑄造</a>
-
               </td>
             </tr>
             <tr>
@@ -114,7 +108,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -129,7 +122,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

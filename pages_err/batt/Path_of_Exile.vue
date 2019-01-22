@@ -167,7 +167,6 @@
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/yodit-eastcamp.jpg" alt="">
         <p class="text-center"><em>極大汗東邊營地。</em>
-
         </p>
       </div>
       </div>
@@ -178,13 +177,11 @@
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/yodit-town center.png" alt="">
         <p class="text-center"><em>接管村莊，然後就逃吧!</em>
-
         </p>
       </div>
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/yodit-flag.png" alt="">
         <p class="text-center"><em>到達旗幟逃出阿克蘇姆國。</em>
-
         </p>
       </div>
       </div>
@@ -193,7 +190,6 @@
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/yodit-dock.png" alt="">
         <p class="text-center"><em>南邊的碼頭跟運輸船。</em>
-
         </p>
       </div>
       </div>

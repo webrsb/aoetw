@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>席德</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           <div class="n1">
             <div class="ien"><em>西班牙被北方的基督王國，和南方的摩爾王國分成兩個部分。在卡西提爾和羅德里高之間的貧瘠邊境迪亞茲，有一個名叫席德的人，他是有名的偉大將軍，同時也是勇猛的十字軍。由於席德在士兵與村民之間很受到歡迎，讓卡西堤爾的國王對他產生猜疑而把它流放。席德此時必須加入他以前的敵人，也就是摩爾人的陣營，與他曾經熱愛過的卡西堤爾作對。不過，在非洲有個極大的威脅正要渡海而來，就是那裡的狂暴的遊牧騎士，希望能夠掠奪沒有能力抵抗的摩爾人。</em>
-
               <p
               style="text-align: right;margin-top: 10px;">-遊戲中對於席德役的介紹</p>
             </div>
@@ -24,13 +22,11 @@
               席德於1099年因為戰傷惡化而逝世，穆斯林再次兵臨瓦倫西亞，但這次席德再也沒辦法守護卡斯提爾。</p>
           </div>
            <h3>英雄</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>席德在遊戲戰役中為劍兵勇士的型態，在獲得馬匹後則會進階為騎士英雄，能在地圖編輯器中找到他，他不會被招降，能夠自動恢復HP。</p>
           </div>
            <h3>關卡</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
@@ -53,7 +49,6 @@
               </div>
             </div>
              <h3>芝麻小事</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <p>席德的其他資訊</p>
@@ -75,7 +70,6 @@
                 <div class="unititle">
                   <img src="~assets/EIC-HERO.jpg" width="300" alt="">
                   <p><em>本系列主角 席德</em>
-
                   </p>
                 </div>
               </td>
@@ -109,7 +103,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的席德
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/zh-tw/%E7%86%99%E5%BE%B7">席德</a></b></i>
-
               </div>
             </div>
           </div>

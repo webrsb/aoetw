@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>建築學</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -64,22 +63,18 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>成本為200木/300石。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>1.0C版後，成本為300肉/200木。</li>
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">建築，通常指的是對那些為人類活動提供空間的、或者說擁有內部空間的構造物進行規劃、設計、施工而後使用的行為過程的全體或一部分。「建築」除了可指具體的構造物外，也著重在指創造建造物的行為（過程、技術）等。通常在表示具體建造物時，稱之為「建築物」，但在漢語中兩者常被混同使用。建築經常被人們認為是一種文化的符號，也被當成是一種藝術作品。歷史上許多重要的文明都有其獨特的代表性建築成就。</div>
         </div>
@@ -110,21 +105,18 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">前置升級</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Masonry.jpg" alt=""><a href="Masonry.php">磚瓦技術</a>
-
               </td>
             </tr>
             <tr>

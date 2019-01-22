@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>紅樹林</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           
            <h3>說明</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>玩家的基地周圍除了鹿、水牛及犀牛外都被紅樹林包圍著，只要順著淺灘就能抵達敵方營地。地圖上的礦產非常多，但都被紅樹林圍住，需要更多伐木工或中型投石車開路才能得到這些礦產。</p>
@@ -23,13 +21,11 @@
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/More_mines.png" alt="">
         <p class="text-center"><em>紅樹林裡有豐富礦產等著玩家去開採!</em> 
-
         </p>
       </div>
       <div class="col-md-6">
         <img position="centered" class="imgn hg" width="500" src="~assets/Shallow.png" alt="">
         <p class="text-center"><em>順著下方的淺灘走就能到達敵方城鎮。</em>
-
         </p>
       </div>
       </div>

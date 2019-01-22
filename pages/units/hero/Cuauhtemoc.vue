@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>庫奧赫特莫克</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -20,7 +19,6 @@
               <a
               href="Jaguar_Warrior.php">豹勇士</a>就是庫奧赫特莫克，這也是他唯一一次實際出現在遊戲中。儘管他是過場動畫中的旁白，他在遊戲中仍然只是一名「豹勇士」，就算陣亡也不會因此任務失敗。</p>
              <h3>歷史</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <p>庫奧赫特莫克是阿茲特克的末代領袖，在1520-1521年間領導阿茲特克人民保衛特諾奇蒂特蘭，他是前任統治者蒙特蘇馬二世的姪子，娶了他的一名女兒。他最終被埃爾南·科爾特斯率領的西班牙征服者們捕獲，受刑求而最終被絞死。</p>
@@ -33,7 +31,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">庫奧赫特莫克</a>
-
                 </div>
               </td>
             </tr>
@@ -52,9 +49,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Infantry_Units.php">步兵</a>
-
                 <br/><a href="heros.php">英雄</a>
-
               </td>
             </tr>
             <tr>
@@ -101,9 +96,7 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
-
                       <br/><a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>
-
                     </td>
                   </tr>
                   <tr>
@@ -123,7 +116,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的庫奧赫特莫克
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E5%BA%93%E7%93%A6%E8%B5%AB%E7%89%B9%E8%8E%AB%E5%85%8B">庫奧赫特莫克</a></strong></i>
-
               </div>
             </div>
           </div>

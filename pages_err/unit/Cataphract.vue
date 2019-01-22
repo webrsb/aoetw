@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>聖騎兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,7 +13,6 @@
             <a
             href="Imperial_Age.php">帝王時代</a>升級成精銳聖騎兵。</div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -30,12 +28,10 @@
             </ul>
           </div>
            <h3>反制</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
               <li><strong><a href="Halberdier.php">戟兵</a>:</strong>
-
               </li>
               <p>雖然戟兵打聖騎兵乍聽之下很不切實際，但他仍是對抗聖騎兵的適當選擇，因為戟兵是便宜又可以大量生產的，雖然聖騎兵對各種<a href="Infantry_Units.php">步兵</a>都有誇張的傷害加成，並且很容易在一對一中獲勝。一名戟兵只能承受聖騎兵的三刀攻擊，而缺乏
                 <a
@@ -44,7 +40,6 @@
             </ul>
             <ul>
               <li><strong>重騎兵:</strong>
-
               </li>
               <p>如果有足夠的食物和黃金，重騎兵可能是反制聖騎兵最好的策略之一。就算有<a href="Logistica.php">踐踏</a>傷害，
                 <a
@@ -57,7 +52,6 @@
             </ul>
             <ul>
               <li><strong><a href="Archer_Units.php">遠程單位</a>:</strong>
-
               </li>
               <p>除了駱駝之外，聖騎兵是遠防最弱的騎兵單位。所以用常理判斷，聖騎兵相當害怕弓箭手。</p>
               <p><a href="Arbalest.php">強弩兵</a>、<a href="Heavy_Scorpion.php">重型弩砲</a>與
@@ -67,13 +61,11 @@
             </ul>
             <ul>
               <li><strong><a href="Monk.php">僧侶</a>:</strong>
-
               </li>
               <p>由於聖騎兵的成本相當高，所以很有可能成為敵方僧侶的首要目標。</p>
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -93,7 +85,6 @@
               <td class="tta4"><a href="War_Elephant.php">戰象</a>、大量<a href="Archer_Units.php">弓兵單位</a>、
                 <a
                 href="Boyar.php">貴族鐵騎</a>、<a href="Knight.php">騎士</a>
-
               </td>
             </tr>
             <tr class="tta">
@@ -130,7 +121,6 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -148,25 +138,20 @@
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+32攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+22攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -175,12 +160,10 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
@@ -189,7 +172,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -200,7 +182,6 @@
                       <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -209,39 +190,33 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -249,7 +224,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -288,7 +262,6 @@
             </div>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -300,31 +273,25 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>訓練時間為23秒。</li>
               <li>攻擊速度為2.03。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>訓練時間為20秒。</li>
               <li>攻擊速度增加為1.83(精銳為1.73)。</li>
               <li>聖騎兵獲得+12(精銳+16)的<a href="Armor_Class_Cavalry.php">反騎兵加成防禦</a>。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>
-
               </li>
               <li>拜占庭引入：<a href="Logistica.php">後勤學。</a>
-
               </li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -334,7 +301,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>鐵甲騎兵為許多帝國與民族當成精銳騎兵或突襲戰力，最初用於突破步兵陣列的衝鋒。他們據信出現在上古到中古許多西方歷史學家的編年著作中，通常與歐洲封建時期的騎士與聖騎士相提並論，此乃與東羅馬帝國接觸的結果。</p>
@@ -362,27 +328,23 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Byzantines.php">拜占庭</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -418,9 +380,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+9/+12(精銳)對<a href="Armor_Class_Infantry.php">步兵</a>
-
                 <br/>+9/+10(精銳)對<a href="Armor_class_Condottiero.php">傭兵</a>
-
               </td>
             </tr>
             <tr>
@@ -439,7 +399,6 @@
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>(+12, +16(精銳))
                 <br/><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
-
               </td>
             </tr>
             <tr>
@@ -476,30 +435,25 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的聖騎兵
               <div style="margin-left: 10px;"><i><strong><a href="http://tinyurl.com/y7abrovp">全覆裝甲騎兵</a></strong></i>
-
               </div>
             </div>
           </div>
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Cataphract.png"><img class="imgn hg" src="~assets/Cataphract.png" alt=""></a> 
                 <p><em>一群聖騎兵</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"><img class="imgn hg" src="~assets/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png" alt=""></a> 
                 <p><em>聖騎兵模組</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"><img class="imgn hg" src="~assets/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg" alt=""></a> 
                 <p><em>現實生活中的聖騎兵。</em>
-
                 </p>
               </div>
             </div>

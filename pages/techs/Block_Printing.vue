@@ -54,22 +54,18 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li><a href="Incas.php">印加</a>:不能研發雕版印刷術。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王朝</a></em></h3>
-
             <ul>
               <li><a href="Incas.php">印加</a>:可以研發雕版印刷術了。</li>
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>中國古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用雕版印刷術留下紀錄。</p>
@@ -80,7 +76,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">雕版印刷術</a>
-
                 </div>
               </td>
             </tr>
@@ -94,7 +89,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -106,14 +100,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Monasteryicon.png" alt=""><a href="Monastery.php">修道院</a>
-
               </td>
             </tr>
             <tr>
@@ -123,7 +115,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -134,7 +125,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

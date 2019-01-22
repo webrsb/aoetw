@@ -9,32 +9,27 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#274a7d;">
                 <div class="unititle"><a href="">世紀帝國戰役</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
                 <div class="unititle2"><a href=""><img src="~assets/KingsIcon.png" style="margin-right:5px">帝王時代</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="William_Wallacea.php">威廉華勒斯</a>
-
               </td>
               <td class="unit4"> <a href="Marching_and_Fighting.php">行軍與戰鬥</a>。 <a href="Feeding_the_Army.php">供養軍隊</a>。
                 <a
                 href="Training_the_Troops.php">訓練軍隊</a>。 <a href="Research_and_Technology.php">研發與科技</a>。 <a href="The_Battle_of_Stirling.php">斯特林之役</a>。
                   <a
                   href="Forge_an_Alliance.php">締結同盟</a>。 <a href="The_Battle_of_Falkirk.php">福爾克之役</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Joan_of_Arc.php">聖女貞德</a>
-
               </td>
               <td class="unit4"> <a href="An_Unlikely_Messiah.php">一個不大可能的彌賽亞</a>。 <a href="The_Maid_of_Orleans.php">奧爾良的少女</a>。
                 <a
@@ -44,7 +39,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Saladina.php">沙拉丁</a>
-
               </td>
               <td class="unit4"> <a href="An_Arabian_Knight.php">阿拉伯騎士</a>。 <a href="Lord_of_Arabia.php">阿拉伯之主</a>。
                 <a
@@ -55,7 +49,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Genghis_Khana.php">成吉思汗</a>
-
               </td>
               <td class="unit4"> <a href="Crucible.php">嚴酷的考驗</a>。 <a href="A_Life_of_Revenge.php">復仇的人生</a>。
                 <a
@@ -66,7 +59,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Barbarossaa.php">巴巴羅薩</a>
-
               </td>
               <td class="unit4"> <a href="Holy_Roman_Emperor.php">神聖羅馬皇帝</a>。 <a href="Henry_the_Lion.php">猛獅亨利</a>。
                 <a
@@ -78,13 +70,11 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
                 <div class="unititle2"><a href=""><img src="~assets/ConquerorsIcon.png" style="margin-right:5px">征服者戰役</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Attila_the_Huna.php">阿提拉</a>
-
               </td>
               <td class="unit4"> <a href="Scourge_of_God.php">上帝之鞭</a>。 <a href="The_Great_Ride.php">偉大的騎士</a>。
                 <a
@@ -95,7 +85,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="El_Cida.php">席德</a>
-
               </td>
               <td class="unit4"> <a href="Brother_against_Brother.php">兄弟鬩牆</a>。 <a href="The_Enemy_of_my_Enemy.php">我敵人的敵人</a>。
                 <a
@@ -106,7 +95,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Montezumaa.php">蒙特蘇馬</a>
-
               </td>
               <td class="unit4"> <a href="Reign_of_Blood.php">血親統治</a>。 <a href="The_Triple_Alliance.php">三國同盟</a>。
                 <a
@@ -117,7 +105,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Battles_of_the_Conquerors.php">征服者的戰役</a>
-
               </td>
               <td class="unit4"> <a href="Tours(732).php">都爾(732)</a>。 <a href="Vindlandsaga(1000).php">芬特蘭撒格(1000)</a>。
                 <a
@@ -129,13 +116,11 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
                 <div class="unititle2"><a href=""><img src="~assets/ForgottenIcon.png" style="margin-right:5px">失落帝國戰役</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Alarica.php">阿拉里克</a>
-
               </td>
               <td class="unit4"> <a href="All_Roads_Lead_to_a_Besieged_City.php">條條大路通圍城</a>。 <a href="Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</a>。
                 <a
@@ -144,7 +129,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Draculaa.php">德古拉</a>
-
               </td>
               <td class="unit4"> <a href="The_Dragon_Spreads_His_Wings.php">火龍展翅</a>。 <a href="The_Return_of_the_Dragon.php">龍之歸來</a>。
                 <a
@@ -153,7 +137,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Baria .php">巴里</a>
-
               </td>
               <td class="unit4"> <a href="Arrival_at_Bari.php">抵達巴里</a>。 <a href="The_Rebellion_of_Melus.php">邁勒斯叛變</a>。
                 <a
@@ -162,7 +145,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Sforzaa.php">斯福爾札</a>
-
               </td>
               <td class="unit4"> <a href="An_End_and_a_Beginning.php">始兮終兮</a>。 <a href="O_Fortuna.php">命運女神</a>。
                 <a
@@ -171,7 +153,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="El_Dorado.php">黃金國</a>
-
               </td>
               <td class="unit4"> <a href="Tales_of_La_Canela.php">黃金國的傳說</a>。 <a href="The_Split.php">分離告別</a>。
                 <a
@@ -180,7 +161,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Prithviraja.php">布里斯比羅吉</a>
-
               </td>
               <td class="unit4"> <a href="A_Promising_Warrior.php">英雄出少年</a>。 <a href="The_Digvijaya.php">逐鹿迪格維傑之地</a>。
                 <a
@@ -189,7 +169,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Battles_of_the_Forgotten.php">失落帝國的戰役</a>
-
               </td>
               <td class="unit4"> <a href="Bukhara(557).php">布哈拉(557)</a>。 <a href="Dos_Pilas(648).php">雙柱城(648)</a>。
                 <a
@@ -203,13 +182,11 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
                 <div class="unititle2"><a href=""><img src="~assets/AfricanIcon.png" style="margin-right:5px">非洲王國戰役</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Tariq_ibn_Ziyadaa .php">塔里克．伊本．齊亞德</a>
-
               </td>
               <td class="unit4"> <a href="The_Battle_of_Guadalete.php">瓜達萊特之戰</a>。 <a href="Consolidation_and_Subjugation.php">攻城拔寨</a>。
                 <a
@@ -218,7 +195,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Sundjataa.php">松迪亞塔</a>
-
               </td>
               <td class="unit4"> <a href="Hunted.php">擒獲</a>。 <a href="The_Sting_of_the_Scorpion.php">蠍螫</a>。
                 <a
@@ -227,7 +203,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</a>
-
               </td>
               <td class="unit4"> <a href="The_Old_World.php">舊世界非洲雄獅</a>。 <a href="Lion_of_Africa.php">非洲雄獅</a>。
                 <a
@@ -236,7 +211,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Yodita.php">遊娣特</a>
-
               </td>
               <td class="unit4"> <a href="Path_of_Exile.php">流亡之路</a>。 <a href="The_Right_Partner.php">最佳搭檔</a>。
                 <a
@@ -246,13 +220,11 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3a73c7;">
                 <div class="unititle2"><a href=""><img src="~assets/RajaIcon.png" style="margin-right:5px">王者崛起戰役</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Gajah_Madaa.php">加查·馬達</a>
-
               </td>
               <td class="unit4"> <a href="The_Story_of_our_Founders.php">開疆闢土</a>。 <a href="Unconditional_Loyalty.php">班師勤王</a>。
                 <a
@@ -260,7 +232,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Suryavarman_Ia.php">蘇利耶跋摩一世</a>
-
               </td>
               <td class="unit4"> <a href="Usurpation.php">揭竿而起</a>  <a href="Quelling_the_Rebellion.php">席捲入荒</a>。
                 <a
@@ -268,7 +239,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Bayinnaunga.php">勃印曩</a>
-
               </td>
               <td class="unit4"> <a href="The_Burmese_Tigers.php">餓虎撲食</a>。 <a href="The_Mandalay_Cobra.php">猛蛇出洞</a>。
                 <a
@@ -277,7 +247,6 @@
             </tr>
             <tr>
               <td class="unit3" style="width: 15%;"><a href="Lê_Lợia.php">黎利</a>
-
               </td>
               <td class="unit4"> <a href="The_Dai_Viet_Uprising.php">大越義軍</a>。 <a href="The_Mountain_Siege.php">至靈山魂</a>。
                 <a

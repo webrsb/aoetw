@@ -1,11 +1,8 @@
 <template>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
-
     <div class="container">
         <!-- Example row of columns -->
-
 <div class="row" style=" margin-top: 50px;">
   <div class="col-md-12">
 <h1><strong>
@@ -14,7 +11,6 @@
 </div>
   <div class="col-md-8">
 <div class="n1">
-
 <p>
 勒班陀戰役（英語：Battle of Lepanto，1571年10月7日），或譯勒潘陀海戰，是以西班牙帝國、威尼斯共和國為主力的神聖同盟（Holy League）艦隊與鄂圖曼帝國海軍在希臘愛奧尼亞海帕特拉斯灣展開的一場海戰。神聖同盟艦隊在海戰中取得決定性勝利。鄂圖曼帝國海軍自勒班陀的海軍港口出發向西，與自西西里墨西拿出發向東航行的神聖同盟艦隊遭遇。 神聖同盟（Holy League）是由教宗庇護五世主導成立的聯盟，包括許多歐洲天主教海洋國家。在西班牙國王腓力二世和威尼斯共和國的一致同意下，神聖同盟艦隊由西班牙國王腓力二世同父異母的弟弟，奧地利的唐胡安統領。
 <br/>
@@ -23,10 +19,6 @@
 <p>
 為了抵抗鄂圖曼帝國在16世紀的擴張，哈布斯堡王朝與其基督教同盟聯手抵禦鄂圖曼大軍。而勒班陀海戰就是發生於1571年的地中海，是一系列衝突的高峰。 由唐璜率領的天主教海軍最終將鄂圖曼艦隊給擊潰，扭轉了兩方原有的情勢。而此戰役也因為廣泛的運用火器而影響了之後的海戰風貌。至此，西班牙無敵艦隊誕生，不過鄂圖曼很快的重組艦隊，讓天主教聯盟也不敢貿然於地中海再啟戰端。
 </p>
-
-
-
-
 </div>
 <h2>玩家</h2>
 <div class="hrn1"></div>
@@ -42,7 +34,6 @@
     <td class="tc2" width="5%">100</td>
   </tr>
 </table>
-
 <h3>AI</h3>
 <table class="table-bordered" width="100%">
   <tr>
@@ -52,20 +43,16 @@
     <td class="tc6"><div class="p2"></div>玩家1：</td>
     <td class="tc6" colspan="3">西班牙（紅色）</td>
   </tr>
-
 <tr>
      <td class="tc4" colspan="4" style="background: #ffd700;">中立</td>
   </tr>
-
 <tr>
     <td class="tc6" width="15%""><div class="p3"></div>玩家3：</td>
     <td class="tc6" width="35%">希臘村莊（綠色）拜占庭</td>  
   <tr>
    
-
   </tr>
 </tr>
-
 <tr>
     <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
   </tr>
@@ -77,10 +64,8 @@
 <tr>
    
    
-
 </tr>
 </table>
-
 <br/>
 <dl class="dl-horizontal">
    <dt>開場：</dt>
@@ -90,9 +75,6 @@
    <dt>大地之母單位：</dt>
   <dd>無</dd>
 </dl>
-
-
-
 <h3>主要任務</h3>
 <div class="hrn1"></div>
 <div class="n1">
@@ -102,13 +84,9 @@
    
 </ol>
 </div>
-
-
-
 <h3>任務提示</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>不要用你所有的村民去建造世界奇觀，你需要一部份村民修建成強悍收集資源，造箭塔和船。</li>
   <li>很難對抗土耳其的艦隊，不如集中防守。</li>
@@ -118,18 +96,14 @@
 <h3>斥侯</h3>
 <div class="hrn1"></div>
 <div class="n1">
-
 <ul>
   <li>西班牙和義大利艦隊放棄大海，轉而在海邊建造世界奇觀。</li>
   <li>你必須抵抗來自土耳其的軍艦和運輸船進攻。土耳其人擁有各種軍艦，包括火炮船，快速的反擊可以延緩土耳其前進的速度。</li>
   <li>希臘村莊夾在戰爭中堅，但如果用正確手段，可以讓他們加入進來。</li>
   
 </div>
-
 <h3>攻略</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>建造世界奇觀，並守護她200年。</li>
   <li>防守世界奇觀，海上陸上都需要有大量軍隊防守。</li>
@@ -140,11 +114,8 @@
   <li>對方島嶼防守嚴密不利於主動進攻，海軍數量對方也很龐大，建議玩家還是著重在防守即可。</li>
   
 </ul>
-
 <h3>遊戲內細節</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li>一開始可以先將村民進行分組 不用全部都在蓋世界奇觀，分成建造防禦建塔、物資採集。</li>
   <li>當你世界奇觀蓋完，對方會有大量的海軍，陸軍進行攻擊，尤其是上方城鎮中心，那邊防禦偏弱對方容易從那上岸攻擊。</li>
@@ -155,8 +126,6 @@
 </ul>
 <h3>芝麻小事</h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li >
     <a >繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位
@@ -166,8 +135,6 @@
 </ul>
 <h3>英雄:奧地利的唐璜(1547-1578) </h3>
 <div class="hrn1"></div>
-
-
 <ul>
   <li >
     <a >
@@ -175,12 +142,6 @@
 </li>
   
 </ul>
-
-
-
-
-
-
 </div>
   </div>
   <div class="col-md-4">
@@ -230,9 +191,7 @@
         </td>
       </tr>
       
-
   </table>
-
      <div class="thanks">
        感謝! 此頁面由Wun，裕暉協助編輯
      <div class="wiki" style="margin-top: 5px;">
@@ -241,10 +200,7 @@
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%8B%92%E7%8F%AD%E9%99%80%E6%88%B0%E5%BD%B9">勒班陀</a></b></i></div>
 </div>
 </div>
-
 </div>
-
-
     </div>
     
 </template>

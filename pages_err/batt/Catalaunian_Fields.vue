@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>卡塔隆尼亞平原</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,11 +13,9 @@
             <p>卡塔隆尼亞平原為阿提拉戰役的第五關劇情關卡，此關原型為公元451年6月20日，發生在當今法國的香檳沙隆地區（Châlons-en-Champagne），羅馬將軍埃提烏斯和西哥特國王狄奧多里克一世的聯軍與由阿提拉率領的匈人聯軍作戰。這次戰役是西羅馬帝國最後一次大型的軍事行動，亦是埃提烏斯軍事生涯上的頂峰。戰役雖以西羅馬帝國聯軍勝利告終，但狄奧多里克一世卻於此戰陣亡，而此役後阿提拉亦離開了高盧並將目標再指向義大利本土。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -31,7 +28,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">
@@ -65,7 +61,6 @@
               <dd>無</dd>
             </dl>
              <h2>主要任務</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
@@ -74,7 +69,6 @@
             </div>
           </div>
            <h2>任務提示</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -82,7 +76,6 @@
             </ul>
           </div>
            <h2>斥侯</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -92,7 +85,6 @@
               <li>在你的敵軍中，以羅馬人最為危險。他們的步兵、拜占庭聖騎兵和攻城武器，一開如就會試圖攻擊在匈奴人側翼的東哥德人。西哥德人有訓練出哥德衛隊和一些騎兵，而奄蔡人的軍隊主要就由長槍兵和弓兵組成。</li>
             </ul>
              <h2>芝麻小事</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -113,7 +105,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">卡塔隆尼亞平原</a>
-
                 </div>
               </td>
             </tr>
@@ -127,7 +118,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -142,12 +132,10 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="">匈奴人</a>
-
               </td>
             </tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
-
               </div>
             </td>
             </tr>
@@ -172,7 +160,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的卡塔隆尼亞平原戰役
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E6%B2%99%E9%9A%86%E6%88%98%E5%BD%B9">卡塔隆尼亞平原戰役</a></strong></i>
-
               </div>
             </div>
           </div>

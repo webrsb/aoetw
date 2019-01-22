@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>滔天巨浪</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,11 +14,9 @@
               <p>滔天巨浪為蘇利耶跋摩一世戰役的第四關劇情關卡，此關描述蘇利耶跋摩一世登基後，與印度盟友征服鄰近海上強權的經過。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -32,7 +29,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">
@@ -66,13 +62,11 @@
                 </tr>
             </table>
              <h3>開場</h3>
-
             <p>。 軍事單位 - 輕騎兵x12、矛象伕x4、弩砲象x1、長劍兵x13、重裝長槍兵x16、馬弓騎兵x8、輕型投石車x1、僧侶x1</p>。 經濟單位
             - 村民x5
             <p>。 海軍單位 - 漁船x2、運輸船x1、弩砲戰船x4、重裝爆破船x1 、火戰船x2</div>
           <div>
              <h2>主要任務</h2>
-
             <div class="n1">
               <ol>
                 <li>打敗單馬令王國。</li>
@@ -80,7 +74,6 @@
                 <li>援助朱羅盟軍，不要讓他們被殲滅。</li>
             </div>
              <h2>任務提示</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -91,7 +84,6 @@
                 <li>要隨時注意海上的戰況以及突發事件，如果援軍遲遲不來，前線陣地也很難堅守。</li>
               </ul>
                <h2>斥候</h2>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ul>
@@ -101,7 +93,6 @@
                   <li>參佛齊(藍色)是地圖南邊的一個海上帝國。他們由象兵、弓箭手和投石車堅守陣地、牢不可破，不畏任何來自路上的進攻。同時他們還有令人聞風喪膽的海軍和固若金湯的碼頭，自古以來稱霸南洋未逢敵手。</li>
                 </ul>
                  <h2>細節</h2>
-
                 <div class="hrn1"></div>
                 <div class="n1">
                   <ul>
@@ -122,7 +113,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;        ">
                 <div class="unititle"><a href="The_White_Elephant">滔天巨浪</a>
-
                 </div>
               </td>
             </tr>
@@ -136,7 +126,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -151,12 +140,10 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="">高棉人</a>
-
               </td>
             </tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
-
               </div>
             </td>
             </tr>
@@ -167,13 +154,11 @@
             <tr>
               <td class="unit3">上一關</td>
               <td class="unit4"> <a href="A_Dangerous_Mission.php">九死一生</a>
-
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
               <td class="unit4"> <a href="Nirvanapada.php">千古偉業</a>
-
                 </p>
               </td>
             </tr>

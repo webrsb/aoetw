@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>德古拉</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           <div class="n1">
             <div class="ien"><em>15世紀中期的戰亂歷史鑄造了這位瓦拉幾亞統治者傳奇的一生。    在與日漸壯大的奧斯曼帝國的鬥爭中他死守陣地豪不退讓，    他血腥而殘忍的手段更讓他成為東歐最可怕的人。    他手下對他的忠誠和他對鮮血的渴望可以一直把土耳其人抵禦在國門之外嗎?</em>
-
               <p
               style="text-align: right;margin-top: 10px;">-遊戲中對於德古拉戰役的介紹</p>
             </div>
@@ -22,7 +20,6 @@
               由於他會把敵人用木樁刺穿插在戰場上的名聲，他也被稱為“Vlad the Impaler”或弗拉德·埃佩什在羅馬尼亞語。</p>
           </div>
            <h3>關卡</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
@@ -57,7 +54,6 @@
                 <div class="unititle">
                   <img src="~assets/Vlad_Tepes_002.jpg" width="300" alt="">
                   <p><em>本系列主角 弗拉德德古拉三世</em>
-
                   </p>
                 </div>
               </td>
@@ -87,7 +83,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的弗拉德三世
               <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96">弗拉德三世</a></b></i>
-
               </div>
             </div>
           </div>

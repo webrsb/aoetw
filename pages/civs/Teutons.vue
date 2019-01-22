@@ -60,7 +60,6 @@
           </div>
           <br/>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
@@ -88,8 +87,6 @@
               <li>4.8版本後條頓武士移動速度為0.7</li>
             </ul>
           </div>
-
-
           <h3>趣事</h3>
           <div class="hrn1"></div>
           <div class="n1">

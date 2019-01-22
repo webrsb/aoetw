@@ -166,17 +166,13 @@
       </div>
     </div>
     </div>
-
     <div class="row zo">
       <div class="col-md-12"> <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapseExample2-5"
         aria-expanded="false" aria-controls="collapseExample">2-5.遊戲內無法輸入中文</a> 
         <div class="collapse" id="collapseExample2-5">
           <div class="well">
-
             <p>win+空白或是ctrl+空白鍵可切換輸入法   <a href="https://www.ptt.cc/bbs/Windows/M.1438952591.A.AE7.html">詳細解法</a></p>
     
-
-
             <p>遊戲內請參考下圖設定</p>
             <img src="https://i.imgur.com/NSGNtfQ.jpg"
             alt="">
@@ -255,9 +251,6 @@
       </div>
     </div>
     </div>
-
-
-
     <hr>
     <blockquote>
       <p>此頁面感謝qaws68（伊森）整理<a href="https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html">AOE常見問題</a>完成</p>

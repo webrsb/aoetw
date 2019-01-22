@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>精銳矛象伕</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -16,31 +15,26 @@
               <a
               href="Khmer.php">高棉</a>、<a href="Vietnamese.php">越南</a>、<a href="Malay.php">馬來</a>、<a href="Burmese.php">緬甸</a>。</p>
             <p><em>矛象伕影片介紹</em>
-
             </p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/rFOxQh-Rl7I"
             frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>矛象伕的優勢是血量多與遠防較高，機動性雖不如騎兵優勢但坦度卻是其優點，在團戰中可以發揮其優點。對於東南亞文明來說矛象伕是個不錯的選擇</p>
             <ul>
               <li><a href="Burmese.php">緬甸</a>
-
               </li>緬甸特殊科技<a href="Howdah.php">象轎</a>給予矛象伕+1/+1的裝甲，使他們更為耐打，且緬甸的騎兵科技全滿。如果和有研發
               <a
               href="Manipur_Cavalry.php">曼尼普爾騎兵</a>的<a href="Arambai.php">飛鏢騎兵</a>或騎兵配合，將成為一種可怕的組合。</ul>
             <ul>
               <li><a href="Khmer.php">高棉</a>
-
               </li>高棉的矛象伕移動速度快15%，使得他們更不怕<a href="Monk.php">僧侶</a>，且城堡時代的特殊科技<a href="Tusk Swords.php">象牙劍</a>就可以讓矛象伕攻擊+3，攻擊達到了17，而且兵工廠和馬廄有全騎兵升級科技。絕對是所有大象中近戰威力最強的，不過高棉沒有
               <a
               href="Faith.php">忠誠信仰</a>和<a href="Heresy.php">異端邪說</a>，這讓高棉的矛象伕容易被僧侶招走。</ul>
             <ul>
               <li><a href="Malay.php">馬來</a>
-
               </li>馬來大象便宜30%，讓他們成為城堡時代就可以大量生產大象，配合馬來的<a href="Crossbowman.php">弩兵</a>與
               <a
               href="Monk.php">僧侶</a>可以給敵人很大的壓力，但馬來既沒有<a href="Bloodlines.php.php">品種</a>也沒有<a href="Chain_Barding_Armor.php">騎兵鎖甲</a>，不過因為造價便宜，而且馬來有
@@ -48,7 +42,6 @@
                 href="Faith.php">忠誠信仰</a>和<a href="Heresy.php">異端邪說</a>，後期用矛象伕海也是一個不錯的打法。</ul>
             <ul>
               <li><a href="Vietnamese.php">越南</a>
-
               </li>越南是血量最多的矛象伕，雖然缺乏<a href="Blast_Furnace.php">鼓風爐</a>，但有血統、防禦也全滿，可以充當肉盾來保護越南優秀的弓箭手。不過越南的矛象伕走的非常慢，因為沒有
               <a
               href="Husbandry.php.php">畜牧培育</a>。</ul>
@@ -57,7 +50,6 @@
               href="Huns.php">匈奴</a>、<a href="Persians.php">波斯</a>和<a href="Spanish.php">西班牙</a>等遊俠國家，而會改選東南亞文明。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -69,7 +61,6 @@
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4">近戰單位、<a href="building.php">建築物</a>
-
               </td>
             </tr>
             <tr>
@@ -127,7 +118,6 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -147,34 +137,27 @@
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+60攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+47攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+30攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+28攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -183,7 +166,6 @@
                       alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -192,7 +174,6 @@
                       alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -202,7 +183,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+14攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -211,7 +191,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -220,43 +199,35 @@
                       <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
-
                     </li>
                     <li>
                       <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><a href="HeavyScorpion.php">重型弩炮</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/ScorpionIcon.jpg" alt=""><a href="Scorpion.php">弩炮</a>
-
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -264,7 +235,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -303,7 +273,6 @@
             </div>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -314,7 +283,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -326,11 +294,9 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li><a href="Malay.php">馬來</a>:精銳矛象伕最初便宜20%，5.3版後便宜25%，5.7版後便宜30%。</li>
               <li>最初精銳矛象伕的擴散攻擊是0.5，5.7版本後變成0.4。</li>
@@ -340,7 +306,6 @@
             </ul>
           </div>
            <h3>豆知識</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -352,7 +317,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>戰象是經人類馴服和訓練後用於作戰用途的大象。在戰場上主要用於衝散敵軍的陣列、踐踏敵人以及利用高聳的象背向敵方施放投射兵器。士兵也可騎在象背上，形成象兵。戰象通常是雄性，因為公象相對母象更加強健而兇猛。</p>
@@ -381,33 +345,26 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Burmese.php">緬甸</a>
-
                 <br/> <a href="Khmer.php">高棉</a>
-
                 <br/> <a href="Vietnamese.php">越南</a>
-
                 <br/> <a href="Malay.php">馬來</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" class="gg" src="~assets/Stable-logo.jpg" alt=""><a href="Stable.php">馬廄</a>
-
               </td>
             </tr>
             <tr>
@@ -443,14 +400,11 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+10對<a href="Armor_class_stone_defense.php">石材建築類</a>
-
                 <br/>+10對<a href="Armor_Class_Building.php">建築類</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3"><a href="Area_of_Effect.php">擴散範圍</a>
-
               </td>
               <td class="unit4">0.4</td>
             </tr>
@@ -460,7 +414,6 @@
             </tr>
             <tr>
               <td class="unit3"><a href="Armor_class.php">近防</a>
-
               </td>
               <td class="unit4">1</td>
             </tr>
@@ -470,17 +423,13 @@
             </tr>
             <tr>
               <td class="unit3"><a href="Armor_class.php">裝甲類型</a>
-
               </td>
               <td class="unit4"><a href="Armor_Class_Cavalry.php">騎兵</a>
-
                 <br/><a href="Armor_Class_War_Elephant.php">戰象</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3"><a href="">跑速</a>
-
               </td>
               <td class="unit4">0.85</td>
             </tr>
@@ -497,7 +446,6 @@
               <td class="unit3">從升級</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Battleelephanticon.png" width="45" alt=""><a href="Battle_Elephant.php">矛象伕</a>
-
               </td>
             </tr>
           </table>
@@ -505,18 +453,15 @@
       </div>
       <div class="col-md-12">
          <h3>圖庫</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4"> <a href="img/Battle_Elephant_and_Elite.jpg"><img class="imgn hg" src="~assets/Battle_Elephant_and_Elite.jpg" alt=""></a> 
               <p><em>矛象伕和精銳矛象伕。</em>
-
               </p>
             </div>
             <div class="col-md-4"> <a href="img/Elitebattleelephant.png"><img class="imgn hg" src="~assets/Elitebattleelephant.png" alt=""></a> 
               <p><em>一群精銳矛象伕。</em>
-
               </p>
             </div>
           </div>

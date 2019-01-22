@@ -6,13 +6,11 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>招降</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
           <div class="n1">招降可轉換對方單位的控制權，需要使用僧侶或傳教士，非常耗費控制力但效果強大。</div>
            <h3>概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>招降敵方的單位需要信仰，招降成功後信仰就會歸零，並重新緩慢的回復，如果信仰不足是不能招降的。</p>
@@ -23,7 +21,6 @@
             </p>
           </div>
            <h3>策略</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>西班牙透過研發<a href="Inquisition.php">異端審判</a>可以更快的招降敵人，而條頓與他的朋友則是更難被招降。</p>
@@ -44,7 +41,6 @@
             </ul>
           </div>
            <h3>招降原理</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>僧侶在招降時有所謂的招降間隔（僧侶搖一下手等於一個間隔），稱為（CI），一個CI大概等於遊戲內的1秒。一旦僧侶開始招降時就是第一個CI的開始，而1～3的CI是沒有招降能力的，只能說是熱身，到了第4個CI之後，每一個CI僧侶有28％的機率招降成功，所以僧侶保證在第10個CI會成功招降。建築物則是從第15個CI開始，並保證在25CI時招降成功。</p>
@@ -53,7 +49,6 @@
               <li>西班牙的特殊科技<a href="Inquisition.php">異端審判</a>減少一個最小CI，也就是說第三下即有法力。</li>
             </ul>
              <h3>抗招降</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <p>所有單位一開始是level 0，除了斥侯跟鷹勇士起始是level 8。建築物起始是level 3。從level 2開始，每個CI會有(28/n)%的機率招降成功，n是level值。單位不一定要到最大CI值才會被招降。從起始的最大CI開始，招降機率從0.28/n到10/n。level
@@ -65,7 +60,6 @@
                   alt=""> <a href="Eagle_Warrior.php">鷹勇士→</a> 
                   <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""> <a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
-
                 </li>
                 <li>
                   <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯→</a> 
@@ -73,7 +67,6 @@
                   alt=""> <a href="Light_Cavalry.php">輕騎兵→</a> 
                   <img class="gg" src="~assets/HussarIcon.jpg"
                   alt=""> <a href="Hussar.php">匈牙利輕騎兵</a>
-
                 </li>
               </ul>科技
               <ul>

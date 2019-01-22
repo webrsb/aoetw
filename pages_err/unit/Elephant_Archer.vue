@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>象弓騎兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,7 +13,6 @@
             <p>象弓騎兵是資料片中印度的特殊單位，能夠在<a href="Castle_Age.php">城堡時代</a>的<a href="Castle.php">城堡</a>中訓練。是個速度慢但有重裝甲和高生命值的騎象射手。</p>
             <p>象弓騎兵可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳象弓騎兵。</div>
            <h3>戰術要點</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -27,7 +25,6 @@
             </ul>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -121,7 +118,6 @@
               <td class="tta4">
                 <p>
                   <img src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 </p>
               </td>
             </tr>
@@ -134,7 +130,6 @@
             </tr>
           </table>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -146,17 +141,14 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li><a href="ver-5.8">5.8版</a>後，象弓騎兵對弓兵防禦類型 -2 → 0，對反弓兵防禦類型0 → -2</li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p></p>
@@ -192,13 +184,11 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4"><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -283,7 +273,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位演變</a>
-
                 </div>
               </td>
             </tr>

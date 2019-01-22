@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>世紀帝國II：王者崛起</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,10 +14,8 @@
             <p>拉惹為南亞、東南亞以及印度等地對國王、君主或酋長的稱呼。</p>
           </div>
            <h2>新增元素</h2>
-
           <div class="hrn1"></div>
            <h3>文明</h3>
-
           <div class="n1">
             <ul>
               <li><strong>緬甸:</strong>登上權力顛峰，掀起詭譎的叛亂，恢復緬甸君主的輝煌。</li>
@@ -28,7 +25,6 @@
             </ul>
           </div>
            <h3>單位</h3>
-
           <div class="n1">
             <p>特殊單位</p>
             <ul>
@@ -55,10 +51,8 @@
               <img width="25px" src="~assets/Dockicon.png" alt=""><a href="">海港</a>:馬來人進入城堡時代研發完科技"海上霸主"可以建造的特殊軍事經濟復合式建築物。海港比碼頭有更多的生命值和視野，而且能以箭矢攻擊來犯的敵方單位。</li>
           </ul>
            <h3>戰役</h3>
-
           <ul>
             <li><a href="Gajah_Madaa.php">加查·馬達</a>
-
             </li>
             <li><a href="Suryavarman_I.php">蘇利耶跋摩一世</a>:西元十一世紀初，高棉王國四分五裂、強敵環伺。只有蘇利耶跋摩王子有能力與魄力一一打敗各路勁敵光復高棉。然而打江山易，守江山難。蘇利耶跋摩能否擴大基業，吞併強鄰。開創屬於自己的千秋霸業呢？</li>
             <li><a href="Bayinnaunga.php">勃印曩</a>:曾經有一位拉闍想把四分五裂的國家重新統一起來，但由於有內奸背叛，他未竟的使命要由他最忠誠的侍衛來完成。有沒有可能，讓一位將領繼承王位，並建立起東南亞歷史上最大的國家？</li>
@@ -71,7 +65,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#356a98">
                 <div class="unititle"><a href="">世紀帝國II：王者崛起</a>
-
                 </div>
               </td>
             </tr>
@@ -122,17 +115,13 @@
         </div>
         <div class="col-md-12">
            <h3>平衡更動</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p><strong>種族平衡</strong>
-
             </p>
             <p><strong>一般平衡</strong>
-
             </p>
             <p><strong>科技變動</strong>
-
             </p>
           </div>
         </div>

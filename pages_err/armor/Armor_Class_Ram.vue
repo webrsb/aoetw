@@ -6,12 +6,10 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>衝撞車裝甲</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
           <div class="spw"><em>這篇文章是將有關於衝撞車裝甲的。</em>
-
           </div>
         </div>
         <div class="col-md-12">
@@ -19,7 +17,6 @@
             <p>衝撞車裝甲是一個防禦裝甲類別，所有在這個系列的兵種都會被剋衝撞車的兵種有額外的傷害。</p>
           </div>
            <h3>衝撞車單位</h3>
-
           <div class="hrn1"></div>
           <div class="n1">下列的單位都是衝撞車單位
             <ul>
@@ -38,21 +35,18 @@
             </ul>
           </div>
            <h3>剋衝撞車單位的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對衝撞車單位的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/ConquistadorIcon.jpg" alt=""><a href="Conquistador.php">精銳征服者</a>(<a href="Spanish.php">西班牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -72,7 +66,6 @@
                       alt=""><a href="Caravel.php">精銳卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -86,7 +79,6 @@
                 </div>
                 <div class="col-md-4">
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -101,7 +93,6 @@
                       <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -119,13 +110,11 @@
             </div>
           </div>
            <h3>技術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""><a href="Boiling_Oil.php">沸油</a>(<a href="Persians.php">波斯</a>限定)
             <div
             style="margin:12px 0px;"><strong>+9攻擊</strong>
-
           </div>
           <ul>
             <li>

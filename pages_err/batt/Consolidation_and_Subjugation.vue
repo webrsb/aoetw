@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>攻城拔寨</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,11 +14,9 @@
               <p>攻城拔寨為塔里克．伊本．齊亞德戰役的第二關劇情關卡，此關描述塔里克．伊本．齊亞德，率領奧米亞哈里發國軍隊在奪取伊比利亞半島南部的科爾多巴城後，位於北方的西哥特王國的中心托萊多城。從這裡，他們必須透過奪取塞維亞、梅里達、塔拉韋拉、瓜達拉哈拉這4個城中的3個來證明自己的統治地位。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -32,7 +29,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">
@@ -80,12 +76,10 @@
                 </tr>
             </table>
              <h3>開場</h3>
-
             <li>英雄 - 塔里克．伊本．齊亞德x1。</li>
             <li>軍事單位 - 精銳駱駝弓騎兵x5、精銳標槍騎兵x5、重裝馬弓騎兵x10、重裝駱駝騎兵x10、翼騎兵(匈牙利輕騎兵)x10、騎兵x2、重型衝撞車x2。</li>
             <li>大地之母單位 - 運輸船x1。</li>
              <h2>主要任務</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
@@ -94,7 +88,6 @@
                 <li>攻陷4個敵軍城池之中的至少3個，塞維亞、梅里達、塔拉韋拉、瓜達拉哈拉。</li>
               </ol>
                <h2>次要任務</h2>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ol>
@@ -104,7 +97,6 @@
               </div>
             </div>
              <h2>任務提示</h2>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -115,7 +107,6 @@
                 <li>塔里克．伊本．齊亞德無法到達帝王時代。另外塔里克．伊本．齊亞德的造船者沒有同他一起參加這次遠征，所以無法建造碼頭或者船艦。</li>
               </ul>
                <h2>斥候</h2>
-
               <div class="hrn1"></div>
               <div class="n1">
                 <ul>
@@ -130,7 +121,6 @@
                   </li>
                 </ul>
                  <h2>細節</h2>
-
                 <div class="hrn1"></div>
                 <div class="n1">
                   <ul>
@@ -152,7 +142,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">攻城拔寨</a>
-
                 </div>
               </td>
             </tr>
@@ -166,7 +155,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -181,12 +169,10 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="">柏柏</a>
-
               </td>
             </tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
-
               </div>
             </td>
             </tr>
@@ -211,7 +197,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的穆薩·伊本·奴薩爾(穆薩·本·努薩依爾)
               <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Musa_bin_Nusayr">穆薩·伊本·奴薩爾(穆薩·本·努薩依爾)(英文版)</a></b></i>
-
               </div>
             </div>
           </div>

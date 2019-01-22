@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>嚴酷的考驗</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,11 +14,9 @@
               <p>嚴酷的考驗為成吉思汗戰役的第一關劇情關卡，此關描述成吉思汗統一蒙古部族的故事。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -31,7 +28,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
             <table class="table-bordered" width="100%">

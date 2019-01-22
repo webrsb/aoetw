@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>裝甲衝撞車</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -23,7 +22,6 @@
             </ul>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>裝甲衝撞車必須到了帝王時代才能研發，它的行走速度依舊還是緩慢的，但其防禦能力與傷害都有不少的提升，而且僅需要支付300食物，就可以將輕型衝撞車升級為裝甲衝撞車。</p>
@@ -31,7 +29,6 @@
             <p>在遊戲中，所有文明皆可以研發裝甲衝撞車，若想將它的殺傷力再提高一個檔次，建議可以在學院裡面研發攻城工程師，使傷害再提高20%。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -82,21 +79,18 @@
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                   <br/>
                   <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
                 </td>
               </tr>
           </table>
            <h3>剋裝甲衝撞車的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對裝甲衝撞車的額外傷害，按造傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+65攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -104,7 +98,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+60攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -112,7 +105,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+50攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -120,7 +112,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -133,7 +124,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -143,7 +133,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -155,14 +144,12 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -174,7 +161,6 @@
                       <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -190,7 +176,6 @@
             </div>
           </div>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -202,7 +187,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -212,16 +196,13 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>升級到<a href="Siege_Ram.php">重型衝撞車</a>成本為1000F/800G。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>步兵、弓兵可以駐紮在衝撞車裡面。</li>
               <li>升級到<a href="Siege_Ram.php">重型衝撞車</a>為1000F。</li>
@@ -229,17 +210,14 @@
               <li>蒙古：<a href="Drill.php">演習</a>引進。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>現在村民可以駐紮在衝撞車裡面。</li>
               <li><a href="Celts.php">賽爾特</a>:<a href="Furor_Celtica.php">賽爾特狂暴</a>衝撞車多40%的HP。</li>
               <li><a href="Teutons.php">條頓</a>新科技：<a href="Ironclad.php">鋼鐵甲</a>
-
               </li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -252,29 +230,24 @@
             </ul>
           </div>
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Splashdamageram.png"><img class="imgn hg" src="~assets/Splashdamageram.png" alt=""></a> 
                 <p><em>各類型衝撞車與其傷害。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Cappedram.png"><img class="imgn hg" src="~assets/Cappedram.png" alt=""></a> 
                 <p><em>一群裝甲衝撞車。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Ramline.png"><img class="imgn hg" src="~assets/Ramline.png" alt=""></a> 
                 <p><em>衝撞車系。</em>
-
                 </p>
               </div>
             </div>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>衝車、或稱撞車，屬於古代攻城器械，在四輪車上安裝撞木，前裹鐵皮，以衝撞的力量破壞城牆或城門的攻城主要兵器。</p>
@@ -304,7 +277,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Siege_Weapons.php">攻城器</a>
-
               </td>
             </tr>
             <tr>
@@ -315,14 +287,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Siege-workshop-logo.jpg" alt=""><a href="Siege_Workshop.php">攻城器製造所</a>
-
               </td>
             </tr>
             <tr>
@@ -370,7 +340,6 @@
             </tr>
             <tr>
               <td class="unit3"><a href="Armor_class.php">近防</a>
-
               </td>
               <td class="unit4">-3</td>
             </tr>
@@ -380,10 +349,8 @@
             </tr>
             <tr>
               <td class="unit3"><a href="Armor_class.php">防禦類型</a>
-
               </td>
               <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-
                 <br/> <a href="Armor_Class_Ram.php">衝撞車</a>(+1)</td>
             </tr>
             <tr>
@@ -407,14 +374,12 @@
               <td class="unit3">從升級</td>
               <td class="unit4">
                 <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""><a href="Battering_Ram.php">輕型衝撞車</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
                 <img class="gg" src="~assets/SiegeRamIcon.jpg" alt=""><a href="Siege_Ram.php">重型衝撞車</a>
-
               </td>
             </tr>
             <tr>

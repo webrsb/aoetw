@@ -6,18 +6,15 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>火砲塔</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
           <div class="n1">
             <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">本條目把學院內的火炮塔科技與建築的火炮塔寫在一起了！</em>
-
             </div>
             <p>火砲塔於可於<a href="Imperial_Age.php">帝王時代</a>在<a href="University.php">學院</a>研發。火砲塔具有非常高的攻擊力；但是投射的速度極慢。</p>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>火炮塔是防禦基地的重要選擇之一。火砲塔對於玩家防禦重裝敵人的攻擊非常有用。 如果玩家選擇龜縮基地爆經濟的話，除了幾個箭塔和城堡外，穿插一些火砲塔可以創建更強大的防禦工事。</p>
@@ -66,7 +63,6 @@
             </div>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -150,7 +146,6 @@
               <td class="tta1">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -167,7 +162,6 @@
             </tr>
           </table>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -180,7 +174,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -189,42 +182,35 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
             <ul>
               <li>火砲塔是近戰傷害。</li>
               <li>火砲塔對駱駝有+7的額外攻擊，因為它們與船共享一個防禦類型。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>火砲塔現在造成遠防傷害。儘管在很多情況下這沒有太大的區別，但是現在<a href="Siege_Ram.php">衝撞車</a>變得不怕火砲塔，因此這一點非常重要。</li>
               <li>土耳其新科技：<a href="Artillery.php">砲兵</a>:火炮塔射程+2。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>中國新科技：<a href="Great_Wall.php">長城</a>。</li>
               <li>韓國蓋火砲塔速度快33％。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
             <ul>
               <li><a href="Camel.php">駱駝</a>被移出<a href="Armor_Class_Ship.php">船類</a>的防禦，因此火砲塔對駱駝只有+1額外攻擊。</li>
               <li>葡萄牙的<a href="Arquebus.php">火繩槍</a>：火砲塔射彈速度+0.5。</li>
             </ul>
              <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
             <ul>
               <li>5.2版葡萄牙的<a href="Arquebus.php">火繩槍</a>：火砲塔射彈速度+0.5被刪除。</li>
               <li>5.7版葡萄牙的<a href="Arquebus.php">火繩槍</a>：火砲塔射彈速度+0.2。</li>
             </ul>
           </div>
            <h3>趣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -238,24 +224,20 @@
             </ul>
           </div>
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Bombardtoweraok.png"><img class="imgn hg" src="~assets/Bombardtoweraok.png" alt=""></a> 
                 <p><em>帝王世紀的所有火砲塔風格。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/Bombardtowerhd.png"><img class="imgn hg" src="~assets/Bombardtowerhd.png" alt=""></a> 
                 <p><em>失落的帝國後所有火砲塔風格。</em>
-
                 </p>
               </div>
             </div>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">到了中世紀末，大砲等火藥單位的出現改變了軍事防禦，使得城堡變得非常脆弱，它們高聳垂直的城牆，容易變成大砲狙擊的目標，而軍事工程師們開始構想建造如何不易被大砲攻擊的建築，他們在重要的渡口與其他戰略地點，於建築中安裝了大砲，以增加防禦。</div>
@@ -288,14 +270,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="University.php">學院</a>
-
               </td>
             </tr>
             <tr>
@@ -309,7 +289,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">研發成本</a>
-
                 </div>
               </td>
             </tr>
@@ -360,9 +339,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+40對<a href="Armor_Class_Ship.php">船隻</a>
-
                 <br/>+1對<a href="Armor_Class_Camel.php">駱駝單位</a>
-
               </td>
             </tr>
             <tr>
@@ -396,13 +373,9 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-
                 <br/> <a href="Armor_class_building.php">建築物</a>
-
                 <br/> <a href="Armor_class_standard_building.php">標準建築</a>
-
                 <br/> <a href="Armor_class_stone_defense.php">石造建築</a>
-
               </td>
             </tr>
             <tr>
@@ -412,7 +385,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

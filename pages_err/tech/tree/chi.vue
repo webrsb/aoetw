@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>中國-科技樹</h1>
-
           <div class="hrn1"></div>
         </div>
         <input type="hidden" value="tree">
@@ -17,18 +16,15 @@
               <td class="trm" colspan="6" style="border-top: none;"> <a href="Barracks.php"><img class="ng" src="~assets/Barracks-logo.jpg" alt=""></a> 
                 <div
                 id="軍營"><a href="Barracks.php">軍營</a>
-
         </div>
         </td>
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm dr"><a href="Dark_Age.php">黑暗時代</a>
-
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/MilitiaIcon.jpg" alt="">
             <div><a href="Militia.php">民兵</a>
-
             </div> <i class="fas fa-arrow-down"></i> 
           </td>
           <td class="t19 trm"></td>
@@ -38,106 +34,84 @@
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm fe"><a href="Feudal_Age.php">封建時代</a>
-
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/ManAtArmsIcon.jpg" width="22" alt="">
             <div><a href="Man-at-Arms.php">裝甲步兵</a>
-
             </div> <i class="fas fa-arrow-down"></i> 
           </td>
           <td class="t19 trm ">
             <img class="gg" src="~assets/SpearmanIcon.jpg" alt="">
             <div><a href="Spearman.php">長槍兵</a>
-
             </div> <i class="fas fa-arrow-down"></i>
-
           </td>
           <td class="t19 trm not">
             <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="">
             <div><a href="Eagle_Scout.php">鷹斥侯</a>
-
             </div> <i class="fas fa-arrow-down"></i>
-
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/Tracking.jpg" alt="">
             <div><a href="Tracking.php">追縱技術</a>
-
             </div>
           </td>
           <td class="t19 trm"></td>
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm ca"><a href="Castle_Age.php">城堡時代</a>
-
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="">
             <div><a href="Long_Swordsman.php">長劍兵</a>
-
             </div> <i class="fas fa-arrow-down"></i>
-
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/PikemanIcon.jpg" alt="">
             <div><a href="Pikeman.php">重裝長槍兵</a>
-
             </div> <i class="fas fa-arrow-down"></i>
-
           </td>
           <!--<i class="fas fa-times"></i>-->
           <td class="t19 trm not">
             <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="">
             <div><a href="Eagle_Warrior.php">鷹勇士</a>
-
             </div> <i class="fas fa-arrow-down"></i>
-
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/Squires.jpg" alt="">
             <div><a href="Squires.php">護衛</a>
-
             </div>
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/Arson.jpg" alt="">
             <div><a href="Arson.php">縱火</a>
-
             </div>
           </td>
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a>
-
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt="">
             <div><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
-
             </div> <i class="fas fa-arrow-down"></i> 
             <br/>
             <img class="gg" src="~assets/ChampionIcon.jpg" alt="">
             <div><a href="Champion.php">劍兵勇士</a>
-
             </div>
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/HalberdierIcon.jpg" alt="">
             <div><a href="Halberdier.php">戟兵</a>
-
             </div>
           </td>　　　　
           <td class="t19 trm not">
             <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="">
             <div><a href="Eagle_Warrior.php">精銳鷹勇士</a>
-
             </div>
           </td>　　　　　
           <td class="t19 trm not">
             <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="">
             <div><a href="Condottiero.php">傭兵</a>
-
             </div>
           </td>
           <td class="t19 trm"></td>
@@ -147,23 +121,19 @@
           <tr>
             <td class="trm" style="border-top: none;" colspan="7"> <a href="Archery_Range.php"><img class="ng" src="~assets/Acheryrangeicon.png" alt=""></a> 
               <div><a id="射箭場" href="Archery_Range.php">射箭場</a>
-
               </div>
             </td>
           </tr>
           <tr>
             <td style=" vertical-align: middle; " class="t5 trm fe"><a href="Feudal_Age.php">封建時代</a>
-
             </td>
             <td class="t19 trm">
               <img class="gg" src="~assets/ArcherIcon.jpg"><a href="Archer.php">                <div><a href="Archer.php">弓兵</a>
-
       </div> <i class="fas fa-arrow-down"></i> 
       </td>
       <td class="t15 trm">
         <img class="gg" src="~assets/SkirmisherIcon.jpg">
         <div><a href="Skirmisher.php">矛兵</a>
-
         </div> <i class="fas fa-arrow-down"></i> 
       </td>
       <td class="t15 trm"></td>
@@ -173,11 +143,9 @@
       </tr>
       <tr>
         <td style=" vertical-align: middle; " class="t5 trm ca"><a href="Castle_Age.php">城堡時代</a>
-
         </td>
         <td class="t15 trm">
           <img class="gg" src="~assets/CrossbowmanIcon.jpg"><a href="Crossbowman.php">            <div>弩兵</div></a><i class="fas fa-arrow-down"></i>
-
         </td>
         <td class="t15 trm">
           <img class="gg" src="~assets/EliteSkirmisherIcon.jpg"><a href="Elite_Skirmisher.php"><div>戰矛兵</div></a><i class="fas fa-arrow-down"></i> 
@@ -187,44 +155,34 @@
         </td>
         <td class="t15 trm not">
           <img class="gg" src="~assets/Slingericon.png"><a href="Slinger.php"><div>投石手</div></a>
-
         </td>
         <td class="t15 trm not">
           <img class="gg" src="~assets/GenitourIcon.jpg"><a href="Genitour.php"><div>標槍騎兵</div></a>  <i class="fas fa-arrow-down"></i>
-
         </td>
         <td class="t15 trm">
           <img class="gg" src="~assets/Thumb_Ring.png"><a href="Thumb_Ring.php"><div>拇指環</div></a>
-
         </td>
       </tr>
       <tr>
         <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a>
-
         </td>
         <td class="t15 trm">
           <img class="gg" src="~assets/ArbalestIcon.jpg"><a href="Arbalest.php"><div>強弩兵</a>
-
         </td>
         <td class="t15 trm ">
           <img class="gg" src="~assets/Imperialskirmishericon.png"><a href="Imperial_Skirmisher.php"><div>帝王戰矛兵</a>
-
         </td>
         <td class="t15 trm ">
           <img class="gg" src="~assets/HeavyCavArcherIcon.jpg"><a href="Heavy_Cavalry_Archer.php"><div>重裝馬弓騎兵</a>
-
         </td>
         <td class="t15 trm not">
           <img class="gg" src="~assets/HandCannoneerIcon.jpg"><a href="Hand_Cannoneer.php"><div>火槍兵</a>
-
         </td>
         <td class="t15 trm not">
           <img class="gg" src="~assets/GenitourIcon.jpg"><a href="Genitour.php"><div>精銳標槍騎兵</a>
-
         </td>
         <td class="t15 trm not">
           <img class="gg" src="~assets/Parthian-Tactics.jpg"><a href="Parthian_Tactics.php"><div>帕提亞戰術</a>
-
         </td>
       </tr>
       </table>
@@ -561,13 +519,11 @@
       "><div><a href="Siege_Engineers.php ">攻城工程師</a></td>        <td class="t11 trm <img class="gg"
       src="~assets/Keep-research.jpg" alt="">
         <div><a href="Keep.php">大型箭塔</a>
-
         </div>
         </td>
         <td class="t11 trm">
           <img class="gg" src="~assets/Arrowlits.jpg" alt="">
           <div><a href="Arrowslits.php">箭狹槽</a>
-
           </div>
         </td>
         <td class="t11 trm"></td>

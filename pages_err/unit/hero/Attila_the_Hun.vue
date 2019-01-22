@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>匈奴王阿提拉</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -27,7 +26,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">匈奴王阿提拉</a>
-
                 </div>
               </td>
             </tr>
@@ -46,9 +44,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-
                 <br/><a href="heros.php">英雄</a>
-
               </td>
             </tr>
             <tr>
@@ -91,7 +87,6 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
-
                     </td>
                   </tr>
                   <tr>
@@ -111,7 +106,6 @@
             </div>
             <div style="margin-left: 60px;">維基百科上的匈奴王阿提拉
               <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89">匈奴王阿提拉</a></strong></i>
-
               </div>
             </div>
           </div>

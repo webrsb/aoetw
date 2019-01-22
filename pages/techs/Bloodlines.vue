@@ -74,7 +74,6 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="ien"><em>"中世紀的勇士們需要不同類型的馬匹進行長時間的移動，偵察，打獵，或讓士兵騎乘。馬匹配種使得不同馬匹的品種逐漸演變，以滿足各式各樣的需求。居住在大草原上的文明通常擅於馬匹配種，而在中東和亞洲，類似的方法用於繁殖賽跑用的駱駝，或培養耐力好的駱駝作為長途貿易旅行載運貨品及人員使用。"</em>
-
               <p
               style="text-align: right;margin-top: 10px;">-《世紀帝國II:征服者入侵》手稿。</p>
             </div>
@@ -97,7 +96,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
@@ -109,14 +107,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><a href="Feudal_Age.php">封建時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
                 <img class="gg" width="25px" src="~assets/Stableicon.png" alt=""><a href="Stable.php">馬廄</a>
-
               </td>
             </tr>
             <tr>

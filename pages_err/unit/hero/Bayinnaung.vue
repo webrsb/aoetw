@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>勃印曩</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -15,7 +14,6 @@
             <p>在遊戲中的外貌是精銳矛象伕，不過有更高的HP和攻擊。勃印曩不能被招降而且會自行回血。</p>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <p>勃印曩1517年－1581年），《明史》稱之為莽應龍，緬甸東籲王朝的統治者之一，<a href="Tabinshwehti.php">德彬瑞蒂</a>的繼承者。1551年至1581年在位。1551年勃印曩打敗自己的弟弟東吁王明康，即位於東吁，兩年後滅亡了孟族政權，建都於漢達瓦底。勃印曩在緬甸廣泛受到崇敬，被冠以「大帝」的尊稱。在位期間，將撣邦、寮國與蘭納併入緬甸領土。曾編制律書法典，統一度量衡，發展冶鐵、煉銅等手工業，對當時經濟文化有發展，但因征戰頻繁，人民遭受深重災難。1581年，他去世於下緬甸地區的漢達瓦底，當時緬甸的首都。</p>
           <div></div>
@@ -26,7 +24,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
                 <div class="unititle"><a href="">勃印曩</a>
-
                 </div>
               </td>
             </tr>
@@ -45,7 +42,6 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="">騎兵<br/>英雄</a>
-
               </td>
             </tr>
             <tr>

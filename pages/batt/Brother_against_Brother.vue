@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1><strong>兄弟鬩牆</strong></h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,11 +13,9 @@
             <p>兄弟鬩牆是席德戰役的第一個場景。</p>
           </div>
            <h2>玩家</h2>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3>基本資訊</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
@@ -30,7 +27,6 @@
               </tr>
             </table>
              <h3>AI</h3>
-
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="tc4" colspan="4" style="background: #ea6153;">玩家本身</td>
@@ -74,7 +70,6 @@
               <dd>6位西班牙征服者，3位重裝長槍兵，6位憎侶。</dd>
             </dl>
              <h3>主要任務</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
@@ -84,7 +79,6 @@
               </ol>
             </div>
              <h3>任務提示</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -94,7 +88,6 @@
               </ul>
             </div>
              <h3>斥侯</h3>
-
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -105,7 +98,6 @@
               </ul>
             </div>
              <h3>攻略</h3>
-
             <div class="hrn1"></div>
             <ul>
               <li>你開始只控制席德，以他的冠軍形式，並且必須戰勝雙手劍士。之後，在城堡旁可以獲得馬匹，返回決鬥場擊敗騎士。很快，你會收到來自桑喬國王的資源，村民和一支軍隊。</li>
@@ -116,7 +108,6 @@
               <li>當你準備入侵時，使用攻城器具和騎士摧毀防禦性建築和軍事建築，並使用征服者來瞄准軍隊單位。一旦拆下城堡，阿方索國王就會變成你的控制權。讓他遠離戰鬥，因為如果他死了，你會輸。一旦他安全了，就把他和席德送到你開始的地圖的東邊角落。</li>
             </ul>
              <h3>遊戲內細節</h3>
-
             <div class="hrn1"></div>
             <ul>
               <li>如果席德試圖從比賽中跑出（離開比賽地區太遠），桑喬國王會說席德是一個懦夫，改變對敵人的外交立場和攻擊他。在這種情況下，由於不能再建立一個基地，所以這種情況不能以正常方式獲得勝利。</li>
@@ -127,7 +118,6 @@
               <li>如果玩家的士兵長時間站在農奴的農田上，會有三個警告告訴你離開。如果士兵繼續存在，農奴會宣布你是敵人。（但是他們不會去攻擊。）席德本人必須親自到農奴那裡去，他們會為他們“苛刻的話”道歉並加入你們。</li>
             </ul>
              <h3>歷史</h3>
-
             <div class="hrn1"></div>
             <ul>
               <li>羅德里戈·迪亞茲·德·維瓦爾生於比瓦爾地區的貴族家庭。羅德里戈由於英勇善戰，贏得摩爾人的尊敬，稱他為El Cid（Al-Sayyid，阿拉伯語對男子的尊稱），中文翻譯為：「
@@ -142,7 +132,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle"><a href="">兄弟鬩牆</a>
-
                 </div>
               </td>
             </tr>
@@ -156,7 +145,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">情景信息</a>
-
                 </div>
               </td>
             </tr>
@@ -171,13 +159,11 @@
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Japanese.php">西班牙</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
                 <div class="unititle2"><a href="">戰役關卡編號</a>
-
                 </div>
               </td>
             </tr>

@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>黑快轉封</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -19,17 +18,14 @@
             </ul>
           </div>
            <h3>概述</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>黑快搶封顧名思義就是黑暗時派三個民兵前去騷擾對手，而經濟配置到28p（含3民兵）跳封建，既達到黑暗提早攻擊的效果，又可以正常上封建與對方決戰。</p>
             <p>黑快搶封是比賽中非常常見的打法，其打法雖然沒裝甲塔這麼有威脅性，但威力也不小，且攻擊時間點更早，可以有效防止對方大圍家。操控得宜在黑暗時代就可以打死對方村民，就算沒殺到對方村民，也有可能讓對方手忙腳亂，經濟失調，運氣好甚至可以抓到對方蓋軍事建築的村民。上封建後轉裝甲步兵，依照對方配兵轉兵，不過通常是配弓兵或茅兵，因為黑快轉封的經濟較好，可以很快的雙弓箭場加一個兵工廠，並且升級一級箭，靠著一級箭的優勢很容易打殘對方。</p>
             <p>國際上的高手Liereey憑藉著其優秀的控兵，非常擅長此打法。</p><strong><span class="glyphicon glyphicon-plus" aria-hidden="true" style=" color: #3c763d; margin-right: 5px; "></span>什麼時候該打黑快轉封</strong>
-
             <p>你想打就打，黑快轉封跟肉馬開局一樣，非常穩健，而弱點又比肉馬開局少。</p>
           </div>
            <h3>反制</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
@@ -39,14 +35,12 @@
             </div>
           </div>
            <h3>流程</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
               <div class="col-md-12"> <em><p style="padding: 0px 10px;">流程只是大概，沒有一定，每場地形地物都不同，重要的還是找到最適合自己的流程與打法!</p></em> 
               </div>
               <div class="col-md-6"> <strong>村民升級流程</strong>
-
                 <ul>
                   <li>2~7p:6人採集羊肉</li>
                   <li>8~11p:4人伐木</li>
@@ -60,12 +54,10 @@
                   <li>持續生村民總數達28p點封建</li>
                   <li>視情況打法挖金1～4人（轉茅兵4人，轉弓兵4人）</li>
                   <li><strong><em>一定要趕鹿</em></strong>
-
                   </li>
                 </ul>
               </div>
               <div class="col-md-6"> <strong>升級後流程</strong>
-
                 <ul>
                   <li>黑暗民兵非常重要，沒控好這個戰術就失敗了</li>
                   <li>如果上封建後民兵還夠多，可以轉裝甲步兵</li>
@@ -94,7 +86,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle"><a href="">黑快轉封</a>
-
                 </div>
               </td>
             </tr>
@@ -102,14 +93,12 @@
               <td colspan="2">
                 <div class="unititle">
                   <img src="~assets/MilitiaIcon.jpg" width="45" alt=""> <a href="Militia.php"></a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#5cb85c;">
                 <div class="unititle2"><a href="">戰術介紹</a>
-
                 </div>
               </td>
             </tr>

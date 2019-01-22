@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1><strong>無政府狀態</strong></h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -16,7 +15,6 @@
               href="Castle.php">城堡</a>研發，研發後玩家可以在<a href="Barracks.php">軍營</a>生產<a href="Huskarl.php">哥德衛隊</a>。</p>
           </div>
            <h3><strong>戰術要點</strong></h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -35,7 +33,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>哥德的部落體係對於一個似乎總是在移動、在這裡作戰並在那裡定居的社會來說效果很好，但在這兩種情況下永遠都不會長久。他們的靈活性意味著他們可以突然出現而沒有任何警告，並且也消失得很快。他們的軍隊從來都不是擁有最好的裝備，因為他們缺乏任何永久性的行業，但是如果有傳言說只要聽到哥德人在行動時，沒有人聽到這個消息後會感到自身現在很安全的。</p>
@@ -46,7 +43,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle"><a href="">無政府狀態</a>
-
                 </div>
               </td>
             </tr>
@@ -60,28 +56,24 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">科技介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
               <td class="unit4"><a href="Goths.php">哥德</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
-
               </td>
             </tr>
             <tr>
@@ -91,7 +83,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -106,7 +97,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
                 <div class="unititle2"><a href="">影響</a>
-
                 </div>
               </td>
             </tr>

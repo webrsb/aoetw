@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>馬弓騎兵</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -17,7 +16,6 @@
             <p>除了<a href="Aztecs.php">阿茲特克</a>、<a href="Incas.php">印加</a>與<a href="Mayans.php">馬雅</a>外，所以文明都可以使用。</p>
           </div>
            <h3>戰術</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>馬弓騎兵是遊戲中最好的騷擾者之一。但玩家必須做出適當操作，與敵人保持最佳距離。且馬弓騎兵並不便宜，如果要使用大量的馬弓，必須要有強大的經濟。馬弓對付大部分的步兵與慢速移動的單位非常有效果。</p>
@@ -28,7 +26,6 @@
                 href="Recurve Bow.php">反曲弓</a>技術，可以使射程與攻擊額外+1，土耳其人通過 <a href="Sipahi.php">采邑騎士</a>血量+20、<a href="Saracens.php">薩拉森</a>人則是對建築物攻擊+4。</p>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -121,7 +118,6 @@
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -138,16 +134,13 @@
             <div class="row">
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+32攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+30攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -157,16 +150,13 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+22攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+18攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -175,7 +165,6 @@
                     alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -183,7 +172,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+12攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -192,14 +180,12 @@
                     <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/HuskarlIcon.jpg" alt=""> <a href="Huskarl.php">精銳哥德衛隊</a>(<a href="Goths.php">哥德</a>限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -211,7 +197,6 @@
               </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -220,7 +205,6 @@
                     <img class="gg" src="~assets/Imperialskirmishericon.png" alt=""> <a href="Imperial_Skirmisher.php">帝王戰矛兵</a>(<a href="Vietnamese.php">越南</a>和同盟限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -229,7 +213,6 @@
                     <img class="gg" src="~assets/GenitourIcon.jpg" alt=""> <a href="Genitour.php">精銳標槍騎兵</a>(<a href="Berbers.php">柏柏</a>和同盟限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -241,14 +224,12 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -260,7 +241,6 @@
                     <img class="gg" src="~assets/GenitourIcon.jpg" alt=""> <a href="Genitour.php">標槍騎兵</a>(<a href="Berbers.php">柏柏</a>和同盟限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -300,7 +280,6 @@
               </ul>團隊加成:<a href="Persians.php">波斯</a>在團隊加成裡，給予以下單位+2額外攻擊vs<a href="Archer_Units.php">射手單位</a>:
               <div
               style="margin:12px 0px;"><strong>+2攻擊</strong>
-
             </div>
             <ul>
               <li>
@@ -313,7 +292,6 @@
           </div>
         </div>
          <h3>文明加成</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -330,7 +308,6 @@
           </ul>
         </div>
          <h3>團隊加成</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -344,17 +321,14 @@
           </ul>
         </div>
          <h3>更新日誌</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
            <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
-
           <ul>
             <li>成本為40木材70黃金。</li>
             <li>移動速度為1.43，射程3。</li>
           </ul>
            <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
           <ul>
             <li>移動速度為1.4，射程為4。</li>
             <li>對<a href="Spearman.php">長槍兵</a>攻擊+2。</li>
@@ -362,12 +336,10 @@
             <li>引入<a href="Thumb_Ring.php">拇指環</a>。</li>
             <li>引入<a href="Heresy.php">異端邪說</a>。</li>
             <li>引入<a href="Parthian_Tactics.php">帕提亞戰術</a>
-
             </li>
             <li><a href="Huns.php">匈奴</a>:馬弓騎兵於城堡/帝王時代便宜25%/30％。。</li>
           </ul>
            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
           <ul>
             <li>成本減為40木材65黃金。</li>
             <li><a href="Huns.php">匈奴</a>:馬弓騎兵於城堡/帝王時代便宜15%/25％。</li>
@@ -375,20 +347,17 @@
             <li><a href="Turks.php">土耳其</a>:引進特殊科技<a href="Sipahi.php">采邑騎兵</a>P。</li>
           </ul>
            <h3><em><a href="ak.php">非洲王國</a></em></h3>
-
           <ul>
             <li>馬弓騎兵成本再次減到40木材60黃金。</li>
             <li><a href="Franks.php">法蘭克</a>:馬弓騎兵多20％的HP。</li>
             <li><a href="Huns.php">匈奴</a>:現在馬弓騎兵於城堡/帝王時代便宜10%/20％。</li>
           </ul>
            <h3><em><a href="aor.php">王者崛起</a></em></h3>
-
           <ul>
             <li><a href="Magyars.php">馬扎爾</a>:5.5版本後特殊科技<a href="Recurve_Bow.php">反曲弓</a>給予馬弓騎兵+1射程和+1攻擊。</li>
           </ul>
         </div>
          <h3>歷史</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <p>“馬弓騎兵起源於遠古時代的亞洲大平原，並在整個中世紀的這個地區成為大部分軍隊的主力，征服了亞洲大部分地區，中東以及歐洲大部分地區的蒙古軍隊
@@ -400,7 +369,6 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
               <div class="unititle"><a href="">馬弓騎兵</a>
-
               </div>
             </td>
           </tr>
@@ -414,14 +382,12 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
               <div class="unititle2"><a href="">單位介紹</a>
-
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4"><a href="Archer_Units.php">射手</a>、 <a href="Cavalry_Units.php">騎兵</a>
-
             </td>
           </tr>
           <tr>
@@ -432,14 +398,12 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Archery-range-logo.jpg" alt=""><a href="Archery_Range.php">射箭場</a>
-
             </td>
           </tr>
           <tr>
@@ -475,7 +439,6 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">+2對<a href="Armor_Class_Spearman.php">槍兵類</a>
-
             </td>
           </tr>
           <tr>
@@ -509,16 +472,12 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-
               <br/> <a href="Armor_Class_Cavalry.php">騎兵</a>
-
               <br/> <a href="Armor_Class_Cavalry_Archer.php">馬弓騎兵</a>
-
             </td>
           </tr>
           <tr>
             <td class="unit3"><a href="">跑速</a>
-
             </td>
             <td class="unit4">1.4</td>
           </tr>
@@ -535,7 +494,6 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt=""><a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>
-
             </td>
           </tr>
           <tr>
@@ -552,17 +510,14 @@
       </div>
       <div class="col-md-12">
          <h3>圖庫</h3>
-
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4"> <a href="img/Cavarcherline.png"><img class="imgn hg" src="~assets/Cavarcherline.png" alt=""></a> 
             <p><em>馬弓騎兵系</em>
-
             </p>
           </div>
           <div class="col-md-4"> <a href="img/Cavalryarcher.png"><img class="imgn hg" src="~assets/Cavalryarcher.png" alt=""></a> 
             <p><em>一群馬弓騎兵</em>
-
             </p>
           </div>
         </div>

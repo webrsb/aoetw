@@ -51,7 +51,6 @@
             </div>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -101,7 +100,6 @@
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -118,14 +116,12 @@
             </tr>
           </table>
            <h3>剋精銳火炮戰船的單位與建築</h3>
-
           <div class="hrn1"></div>
           <div class="n1">以下單位擁有對精銳火炮戰船的額外傷害，按照傷殺力排列。
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -136,7 +132,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+17攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -144,7 +139,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+16攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -152,7 +146,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -162,7 +155,6 @@
                       <img src="~assets/LongboatIcon.jpg" alt=""><a href="Longboat.php">精銳維京大戰船</a>(<a href="Vikings.php">維京</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -173,7 +165,6 @@
                       alt=""><a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -197,7 +188,6 @@
                 </div>
                 <div class="col-md-6">
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -209,7 +199,6 @@
                       alt=""><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a href="Khmer.php">高棉</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -219,14 +208,12 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
                       <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -236,7 +223,6 @@
                       <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -246,7 +232,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -256,7 +241,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -264,7 +248,6 @@
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
-
                   </div>
                   <ul>
                     <li>
@@ -280,7 +263,6 @@
               <div class="col-md-4">
                 <img src="~assets/Heatedshot.png" width="22" alt=""><a href="Heated_Shot.php">預熱射擊</a> 
                 <div style="margin:12px 0px;"><strong>+13攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -288,7 +270,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -298,7 +279,6 @@
               </div>
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -306,7 +286,6 @@
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong>
-
                 </div>
                 <ul>
                   <li>
@@ -345,18 +324,15 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aok.php">世紀帝國</a></em></h3>
-
             <ul>
               <li><a href="Shipwright.php">造船匠</a>減少20%船隻木材成本。</li>
               <li><a href="Britons.php">不列顛</a>:不能訓練精銳火炮戰船。</li>
               <li><a href="Turks.php">土耳其</a>:精銳火炮戰船有150HP，然後因為bug讓精銳火炮戰船沒有吃到火藥單位HP+50%的文明加成。</li>
             </ul>
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>1.0版本<a href="Shipwright.php">造船匠</a>還可減少35%的船隻訓練時間。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
@@ -364,20 +340,17 @@
               <li><a href="Turks.php">土耳其</a>:引進<a href="Artillery.php">砲兵</a>，精銳火炮戰船現在HP+25%。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li><a href="Italians.php">義大利</a>:精銳火炮戰船便宜15%。</li>
               <li><a href="Mongols.php">蒙古</a>:精銳火炮戰船從科技樹移除。</li>
               <li><a href="Spanish.php">西班牙</a>:精銳火炮戰船自身有彈道學(不須研發彈道學)而砲彈速度變為7格/秒(~3.6倍快)。</li>
             </ul>
              <h3><em><a href="ak.php">非洲王朝</a></em></h3>
-
             <ul>
               <li><a href="Italians.php">義大利</a>:4.8版本後精銳火炮戰船現在便宜20%。</li>
             </ul>
           </div>
            <h3>豆知識</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -391,7 +364,6 @@
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>大砲在十四世紀首次被裝在船上。這些大砲被安裝在船尾或船頭可以朝前面或後面的敵人發射。小型武器被安裝在軌道上，用於對付敵方船員。第一艘為戰鬥裝載大砲而建造的船出現在1406年。在船上有效地安裝大量大砲需要很多年才能解決。它需要新的設計來彌補船側的槍支的重量。解決方案的設計必須讓槍支能夠安全地射擊和重新裝填。粉末的儲存和取用也需要安全程序。真正能上戰場的火炮戰船直到中世紀晚期才出現。</p>
@@ -402,7 +374,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">精銳火炮戰船</a>
-
                 </div>
               </td>
             </tr>
@@ -416,14 +387,12 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">單位介紹</a>
-
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Gunpowder_Unit.php">火藥單位</a>、<a href="Naval_Vessels.php">船</a>
-
               </td>
             </tr>
             <tr>
@@ -434,14 +403,12 @@
               <td class="unit3">時代</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
                 <img class="gg" src="~assets/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
-
               </td>
             </tr>
             <tr>
@@ -451,7 +418,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -466,7 +432,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -481,15 +446,10 @@
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+275對<a href="Armor_class_building.php">建築</a>
-
                 <br/>+40對<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-
                 <br/>+15對<a href="Armor_Class_Infantry.php">步兵</a>
-
                 <br/>+15對<a href="Armor_Class_Archer.php">弓兵</a>
-
                 <br/>+15對<a href="Armor_Class_Cavalry.php">騎兵</a>
-
               </td>
             </tr>
             <tr>
@@ -527,9 +487,7 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><a href="Armor_Class_Ship.php">船</a>
-
                 <br/> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-
               </td>
             </tr>
             <tr>
@@ -549,7 +507,6 @@
               <td class="unit3">從升級</td>
               <td class="unit4">
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火炮戰船</a>
-
               </td>
             </tr>
           </table>
@@ -557,23 +514,19 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4"> <a href="img/Cannongalleon.png"><img class="imgn hg" src="~assets/Cannongalleon.png" alt=""></a> 
                 <p><em>一群精銳火炮戰船。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/CGHD.png"><img class="imgn hg" src="~assets/CGHD.png" alt=""></a> 
                 <p><em>各種精銳火炮戰船(世紀帝國和征服者入侵資料片)。</em>
-
                 </p>
               </div>
               <div class="col-md-4"> <a href="img/CGDLC.png"><img class="imgn hg" src="~assets/CGDLC.png" alt=""></a> 
                 <p><em>各種精銳火炮戰船(HD擴充資料片)。</em>
-
                 </p>
               </div>
             </div>

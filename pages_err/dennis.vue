@@ -4,7 +4,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>世界奇觀</h1>
-
         </div>
         <div class="hrn1"></div>
         <div class="col-md-8">
@@ -16,7 +15,6 @@
               appearance. They cannot be converted.</p>
           </div>
            <h3>概要</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>Wonders only serve as a victory condition, and as such they must be used
@@ -43,7 +41,6 @@
               bulkiest building in the game.</p>
           </div>
            <h3>瑣事</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -96,13 +93,11 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="">封建時代</a>
-
               </td>
             </tr>
             <tr>
               <td class="unit3">需要建設</td>
               <td class="unit4"><a href="Barracks.php">軍營</a>
-
               </td>
             </tr>
             <tr>

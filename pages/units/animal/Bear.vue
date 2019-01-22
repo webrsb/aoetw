@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>熊</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="n1"></div>
@@ -18,7 +17,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#b086b5;">
                 <div class="unititle"><a href="">熊</a>
-
                 </div>
               </td>
             </tr>

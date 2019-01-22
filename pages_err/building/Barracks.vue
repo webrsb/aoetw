@@ -6,7 +6,6 @@
       <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>軍營</h1>
-
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
@@ -14,7 +13,6 @@
             <a
             href="Khmer.php">高棉</a>除外)。</div>
            <h3>可訓練的單位與技術</h3>
-
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-3">
@@ -22,7 +20,6 @@
                  <h4><a href="Dark_Age.php"></a>黑暗時代</h4> 
                 <li>
                   <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>
-
                 </li>
               </div>
             </div>
@@ -32,15 +29,12 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/ManAtArmsIcon.jpg" width="22" alt=""><a href="Man-at-Arms.php">裝甲步兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/Tracking.jpg" alt=""><a href="Tracking.php">追縱技術</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>(南美文明限定)</li>
@@ -53,21 +47,17 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/LongswordsManIcon.jpg" alt=""><a href="Long_Swordsman.php">長劍兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a>(南美文明限定)</li>
                   <li>
                     <img class="gg" src="~assets/Squires.jpg" alt=""><a href="Squires.php">護衛</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/Arson.jpg" alt=""><a href="Arson.php">縱火</a>
-
                   </li>
                 </ul>
               </div>
@@ -78,15 +68,12 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt=""><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/ChampionIcon.jpg" alt=""><a href="Champion.php">劍兵勇士</a>
-
                   </li>
                   <li>
                     <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
-
                   </li>　　　　
                   <li>
                     <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">精銳鷹勇士</a>(南美文明限定)</li>　　　　　
@@ -97,7 +84,6 @@
             </div>
           </div>
            <h3>更多數據</h3>
-
           <div class="hrn1"></div>
           <div class="n1"></div>
           <table class="table-bordered" width="100%">
@@ -144,7 +130,6 @@
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
-
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -170,7 +155,6 @@
             </tr>
           </table>
            <h3>文明加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -183,7 +167,6 @@
             </ul>
           </div>
            <h3>團隊加成</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -193,30 +176,25 @@
             </ul>
           </div>
            <h3>更新日誌</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
-
             <ul>
               <li>引入<a href="Halberdier.php">戟兵</a>。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
               <li><a href="Goths.php">哥德</a>:引入<a href="Anarchy.php">無政府狀態</a>和<a href="Perfusion.php">灌注士氣</a>。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
-
             <ul>
               <li>引入<a href="Eagle_Scout.php">鷹斥侯</a>(南美文明限定)，可在<a href="Castle_Age.php">城堡時代</a>訓練。</li>
             </ul>
              <h3><em><a href="aok.php">非洲王朝</a></em></h3>
-
             <ul>
               <li>引入<a href="Eagle_Scout.php">鷹斥侯</a>現在可在<a href="Feudal_Age.php">封建時代</a>訓練。</li>
               <li>引入<a href="Arson.php">縱火</a>。</li>
             </ul>
           </div>
            <h3>歷史</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <p>士兵在軍營裡鑽探和製造武器。在中世紀後期，軍營被併入城堡系統中。它也成為專業士兵居住的地方，幫助防禦城堡或維持周圍鄉村的秩序。</p>
@@ -227,7 +205,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle"><a href="">軍營</a>
-
                 </div>
               </td>
             </tr>
@@ -241,7 +218,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">概要</a>
-
                 </div>
               </td>
             </tr>
@@ -256,7 +232,6 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4"><a href="Dark_Age.php">黑暗時代</a>
-
               </td>
             </tr>
             <tr>
@@ -266,7 +241,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">成本</a>
-
                 </div>
               </td>
             </tr>
@@ -277,7 +251,6 @@
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
                 <div class="unititle2"><a href="">數據</a>
-
                 </div>
               </td>
             </tr>
@@ -325,9 +298,7 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="img/Armor_class_building.php">建築</a>
-
                 <br/> <a href="img/Armor_class_standard_building.php">標準建築</a>
-
               </td>
             </tr>
             <tr>
@@ -339,14 +310,12 @@
         </div>
         <div class="col-md-12">
            <h3>圖庫</h3>
-
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4"> <a href="img/BarracksDarkAge.png"><img class="imgn hg" width="180" src="~assets/BarracksDarkAge.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有黑暗時代的軍營。</em>
-
                 </p>
             </div>
           </div>
@@ -354,7 +323,6 @@
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的軍營(帝王世紀和征服者入侵資料片)。</em>
-
               </p>
           </div>
         </div>
@@ -362,7 +330,6 @@
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有封建時代的軍營(HD擴充資料片)。</em>
-
             </p>
         </div>
       </div>
@@ -372,7 +339,6 @@
         <div
         class="lightbox-caption" style="width:185px" ;>
           <p><em>所有城堡時代的軍營(帝王世紀和征服者入侵資料片)。</em>
-
           </p>
       </div>
     </div>
@@ -380,7 +346,6 @@
       <div
       class="lightbox-caption" style="width:220px" ;>
         <p><em>所有城堡時代的軍營(HD擴充資料片)。</em>
-
         </p>
     </div>
     </div>
@@ -388,7 +353,6 @@
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>射箭場在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>
-
         </p>
     </div>
     </div>
