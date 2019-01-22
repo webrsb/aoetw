@@ -268,7 +268,7 @@
                 <li>速度</li>
               </p>
               <p>對於建築物來說，第一個村民將會每分鐘修復750點生命值，而任何額外的村民將會增加375點/分鐘（只有一半的速度）。無論建築類型，升級或原始生命值如何，這都是一樣的。
-                <li><a href="Treadmill Crane.php">滑輪起重機</a>
+                <li><a href="Treadmill_Crane.php">滑輪起重機</a>
                 </li>不影響修理速度。
                 <p>在大多數情況下，新建築的建築速度要快於修復工程，儘管成本較高（例如更換損壞的牆體部分），但建造新建築的速度可能會更快。
                   <p>攻城武器和船艦的修理速度是建築物速度的25％，所以第一個村民是187.5 HP /分鐘，任何額外的村民將加上93.75 HP /分鐘。</p>
@@ -364,11 +364,11 @@
                 <p>
                   <img class="gg" src="~assets/Loom.jpg" width="30" alt=""><a href="Loom.php">織布技術</a>(+1/+2)</p>
                 <p>
-                  <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>(+1/+1，<a href="Incas.php">印加</a>限定)</p>
                 <p>
-                  <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2，<a href="Incas.php">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate_Mail_Armor.php">步兵板甲</a>(+1/+2，<a href="Incas.php">印加</a>限定)</p>
                 <p>
                   <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Supremacy.php">霸權</a>(+2/+2，<a href="Spanish.php">西班牙</a>限定)</p>
               </td>
@@ -396,7 +396,7 @@
             <tr>
               <td class="tta1" style="width:10%">其他</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill Crane.php">滑輪起重機</a>(建築速度加快30%)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">滑輪起重機</a>(建築速度加快30%)</td>
             </tr>
           </table>
           <h3>文明加成</h3>

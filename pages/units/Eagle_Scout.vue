@@ -75,11 +75,11 @@
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)
+                <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)
+                <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)
+                <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate_Mail_Armor.php">步兵板甲</a>(+1/+2)
                 <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Couriers.php">信使</a>(+1/+2，<a href="Incas.php">印加</a>，從<a href="ak.php">非洲王朝</a>資料片開始)</td>
             </tr>

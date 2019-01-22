@@ -86,7 +86,7 @@
               <li><a href="Incas.php">印加</a>：城堡便宜15％。</li>
               <li><a href="Koreans.php">韓國</a>：建築速度提高了33％ 。</li>
               <li><a href="Spanish.php">西班牙</a>：建築速度提高了30％。</li>
-              <li><a href="Teutons.php">條頓</a>：<a href="Murder Holes.php">垛孔</a>免費。</li>
+              <li><a href="Teutons.php">條頓</a>：<a href="Murder_Holes.php">垛孔</a>免費。</li>
               <li><a href="Vietnamese.php">越南</a>：<a href="Conscription.php">徵兵制度</a>免費。</li>
             </ul>
           </div>

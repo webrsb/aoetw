@@ -215,7 +215,7 @@
               </td>
               <td class="tunitc4"><a href="Nomads.php">游牧</a>
               </td>
-              <td class="tunitc5">300W</td>
+              <td class="tunitc5">300W 150G</td>
               <td class="tunitc6">居住房舍被摧毀人口上限不會下降(城鎮中心城堡不適用)。</td>
             </tr>
             <tr>

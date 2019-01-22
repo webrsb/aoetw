@@ -31,7 +31,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="BersBers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速霸權的研究時間(快25%)。</li>
+              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速霸權的研究時間(快25%)。</li>
             </ul>
           </div>
           <h3>歷史</h3>

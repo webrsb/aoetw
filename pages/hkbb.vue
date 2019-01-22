@@ -216,6 +216,22 @@
             <tr>
               <td>負責網站的爬蟲程式，讓編輯者省下相當多的工。</td>
             </tr>
+              <tr>
+              <td>
+                <h4><strong>Damody</strong></h4>
+              </td>
+            </tr>
+            <tr>
+              <td>優化整個網站架構，並寫了搜尋，對aoetw貢獻巨大</td>
+            </tr>
+            <tr>
+              <td>
+                <h4><strong>小蛇中二病</strong></h4>
+              </td>
+            </tr>
+            <tr>
+              <td>於2018年底加入，用獨特的寫法完成了一些有趣的條目。嘲諷語音、回血、駐軍等等</td>
+            </tr>
           </table>
         </div>
       </div>

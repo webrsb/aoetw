@@ -66,11 +66,11 @@
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)</p>
+                  <img src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>(+1/+1)</p>
                 <p>
-                  <img src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)</p>
+                  <img src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>(+1/+1)</p>
                 <p>
-                  <img src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate Mail Armor.php">步兵板甲</a>(+1/+2)</p>
+                  <img src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate_Mail_Armor.php">步兵板甲</a>(+1/+2)</p>
               </td>
             </tr>
             <tr>

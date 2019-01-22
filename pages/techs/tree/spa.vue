@@ -324,7 +324,7 @@
           </div><i class="fas fa-arrow-down"></i>
           <br/>
           <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt="">
-          <div><a href="Siege Onager.php" class="">重型投石車</a>
+          <div><a href="Siege_Onager.php" class="">重型投石車</a>
           </div>
         </td>
         <td class="t23 trm not">
@@ -814,7 +814,7 @@
         </td>
         <td class="t19 trm">
           <img class="gg" src="~assets/Scalemailarmor.jpg" alt="">
-          <div><a href="Scale Mail Armor.php">步兵鱗甲</a>
+          <div><a href="Scale_Mail_Armor.php">步兵鱗甲</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
       </tr>
@@ -845,7 +845,7 @@
         </td>
         <td class="t19 trm">
           <img class="gg" src="~assets/Chainmailarmor.jpg" alt="">
-          <div><a href="Chain Mail Armor.php">步兵鎖甲</a>
+          <div><a href="Chain_Mail_Armor.php">步兵鎖甲</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
       </tr>
@@ -876,7 +876,7 @@
         </td>
         <td class="t19 trm">
           <img class="gg" src="~assets/Platemailarmor.jpg" alt="">
-          <div><a href="Plate Mail Armor.php">步兵板甲</a>
+          <div><a href="Plate_Mail_Armor.php">步兵板甲</a>
           </div>
         </td>
       </tr>
@@ -894,12 +894,12 @@
         </td>
         <td class="t23 trm">
           <img class="gg" src="~assets/Cartography.jpg">
-          <div><a href="Cartographyavailable.php">製圖學</a>
+          <div><a href="Cartography.php">製圖學</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t23 trm">
           <img class="gg" src="~assets/TradeCartIcon.jpg">
-          <div><a href="Tradecartavailable.php">貿易車隊</a>
+          <div><a href="Trade_Cart.php">貿易車隊</a>
           </div>
         </td>
         <td class="t23 trm"></td>
@@ -912,12 +912,12 @@
         </td>
         <td class="t23 trm">
           <img class="gg" src="~assets/CaravanII.png">
-          <div><a href="Caravanavailable.php">大商隊</a>
+          <div><a href="Caravan.php">大商隊</a>
           </div>
         </td>
         <td class="t23 trm">
           <img class="gg" src="~assets/Coinage.jpg">
-          <div><a href="Coinageavailable.php">鑄幣術</a>
+          <div><a href="Coinage.php">鑄幣術</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t23 trm"></td>
@@ -930,12 +930,12 @@
         </td>
         <td class="t23 trm">
           <img class="gg" src="~assets/Guilds.jpg">
-          <div><a href="Guildsavailable.php">行會制度</a>
+          <div><a href="Guilds.php">行會制度</a>
           </div>
         </td>
         <td class="t23 trm">
           <img class="gg" src="~assets/Banking.jpg">
-          <div><a href="Bankingavailable.php">銀行制度</a>
+          <div><a href="Banking.php">銀行制度</a>
           </div>
         </td>
         <td class="t23 trm"></td>
@@ -1047,7 +1047,7 @@
         </td>
         <td class="t11 trm">
           <img class="gg" src="~assets/Fortified-wall-research.jpg" alt="">
-          <div><a href="Fortified Wall.php">垛牆</a>
+          <div><a href="Fortified_Wall.php">垛牆</a>
           </div>
         </td>
         <td class="t11 trm">
@@ -1057,22 +1057,22 @@
         </td>
         <td class="t11 trm">
           <img class="gg" src="~assets/Guard-tower-research.jpg" alt="">
-          <div><a href="Guard Tower.php">防禦箭塔</a>
+          <div><a href="Guard_Tower.php">防禦箭塔</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t11 trm not">
           <img class="gg" src="~assets/Heatedshot.png" alt="">
-          <div><a href="Heated Shot.php">預熱射擊</a>
+          <div><a href="Heated_Shot.php">預熱射擊</a>
           </div>
         </td>
         <td class="t11 trm">
           <img class="gg" src="~assets/Murderholes.jpg" alt="">
-          <div><a href="Murder Holes.php">垛孔</a>
+          <div><a href="Murder_Holes.php">垛孔</a>
           </div>
         </td>
         <td class="t11 trm not">
           <img class="gg" src="~assets/Treadmillcrane.jpg" alt="">
-          <div><a href="Treadmill Crane.php">滑輪起重機</a>
+          <div><a href="Treadmill_Crane.php">滑輪起重機</a>
           </div>
         </td>
         <td class="t11 trm"></td>

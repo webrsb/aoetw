@@ -193,7 +193,7 @@
           <td style=" vertical-align: middle; " class="t5 trm im"><a href="Imperial_Age.php">帝王時代</a></td>
            <td class="t23 trm"><img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt=""><div><a href="Capped_Ram.php">裝甲衝撞車</a></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/SiegeRamIcon.jpg" width="30" alt=""><div><a href="Siege_Ram.php">重型衝撞車</a></div></td>
           <td class="t23 trm"><img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt=""><div><a href="Onager.php">中型投石車</a></div><i class="fas fa-arrow-down"></i><br/>
-            <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><a href="Siege Onager.php" class="">重型投石車</a></div></td>
+            <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><a href="Siege_Onager.php" class="">重型投石車</a></div></td>
           <td class="t23 trm"><img class="gg" src="~assets/HeavyScorpionIcon.jpg" width="30" alt=""><div><a href="Heavy_Scorpion.php">重型弩砲</a></div></td>    
           <td class="t23 trm not"><img class="gg" src="~assets/BombardCannonIcon.jpg" width="30" alt=""><div><a href="Bombard_Cannon.php">火砲</a></div></td>     
         </tr>
@@ -470,7 +470,7 @@
           <td class="t19 trm"><img class="gg" src="~assets/Fletching.jpg" alt=""><div><a href="Fletching.php">箭羽</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm"><img class="gg" src="~assets/Forging.jpg" alt=""><div><a href="Forging.php">鍛造</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm "><img class="gg" src="~assets/Scalebardingarmor.jpg" alt=""><div><a href="Scale_Barding_Armor.php">騎兵鱗甲</a></div><i class="fas fa-arrow-down"></i></td>
-          <td class="t19 trm"><img class="gg" src="~assets/Scalemailarmor.jpg" alt=""><div><a href="Scale Mail Armor.php">步兵鱗甲</a></div><i class="fas fa-arrow-down"></i></td>
+          <td class="t19 trm"><img class="gg" src="~assets/Scalemailarmor.jpg" alt=""><div><a href="Scale_Mail_Armor.php">步兵鱗甲</a></div><i class="fas fa-arrow-down"></i></td>
      </tr>
         <tr>
             <td style=" vertical-align: middle; " class="t5 trm ca"><div><a href="Castle_Age.php">城堡時代</a></div></td>
@@ -479,7 +479,7 @@
           <td class="t19 trm"><img class="gg" src="~assets/Bodkinarrow.jpg" alt=""><div><a href="Bodkin_Arrow.php">錐狀箭頭</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm"><img class="gg" src="~assets/Ironcasting.jpg" alt=""><div><a href="Iron_Casting.php">鑄造</a></div><i class="fas fa-arrow-down"></i></td>
           <td class="t19 trm "><img class="gg" src="~assets/Chainbardingarmor.jpg" alt=""><div><a href="Chain_Barding_Armor.php">騎兵鎖甲</a></div><i class="fas fa-arrow-down"></i></td>
-          <td class="t19 trm"><img class="gg" src="~assets/Chainmailarmor.jpg" alt=""><div><a href="Chain Mail Armor.php">步兵鎖甲</a></div><i class="fas fa-arrow-down"></i></td>
+          <td class="t19 trm"><img class="gg" src="~assets/Chainmailarmor.jpg" alt=""><div><a href="Chain_Mail_Armor.php">步兵鎖甲</a></div><i class="fas fa-arrow-down"></i></td>
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><div><a href="Imperial_Age.php">帝王時代</a></div></td>
@@ -487,7 +487,7 @@
           <td class="t19 trm"><img class="gg" src="~assets/Bracer.jpg" alt=""><div><a href="Bracer.php">護腕</a></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/Blastfurnace.jpg" alt=""><div><a href="Blast_Furnace.php">鐵風爐</a></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/Platebardingarmor.jpg" alt=""><div><a href="Plate_Barding_Armor.php">騎兵板甲</a></div></td>
-          <td class="t19 trm not"><img class="gg" src="~assets/Platemailarmor.jpg" alt=""><div><a href="Plate Mail Armor.php">步兵板甲</a></div></td>
+          <td class="t19 trm not"><img class="gg" src="~assets/Platemailarmor.jpg" alt=""><div><a href="Plate_Mail_Armor.php">步兵板甲</a></div></td>
         </tr>
     </table>
 
@@ -502,24 +502,24 @@
     <td style=" vertical-align: middle; " class="t5 trm fe"><a href="Feudal_Age.php">封建時代</a></td>           
         
        
-         <td class="t23 trm"><img class="gg" src="~assets/Cartography.jpg"><div><a href="Cartographyavailable.php">製圖學</a></div><i class="fas fa-arrow-down"></i></td>
-         <td class="t23 trm"><img class="gg" src="~assets/TradeCartIcon.jpg"><div><a href="Tradecartavailable.php">貿易車隊</a></div></td>  
+         <td class="t23 trm"><img class="gg" src="~assets/Cartography.jpg"><div><a href="Cartography.php">製圖學</a></div><i class="fas fa-arrow-down"></i></td>
+         <td class="t23 trm"><img class="gg" src="~assets/TradeCartIcon.jpg"><div><a href="Trade_Cart.php">貿易車隊</a></div></td>  
         <td class="t23 trm"></td>
           <td class="t23 trm"></td> 
      </tr>
         <tr>
             <td style=" vertical-align: middle; " class="t5 trm ca"><div><a href="Castle_Age.php">城堡時代</a></div></td>
 
-         <td class="t23 trm"><img class="gg" src="~assets/CaravanII.png"><div><a href="Caravanavailable.php">大商隊</a></div></td>
-         <td class="t23 trm"><img class="gg" src="~assets/Coinage.jpg"><div><a href="Coinageavailable.php">鑄幣術</a></div><i class="fas fa-arrow-down"></i></td>
+         <td class="t23 trm"><img class="gg" src="~assets/CaravanII.png"><div><a href="Caravan.php">大商隊</a></div></td>
+         <td class="t23 trm"><img class="gg" src="~assets/Coinage.jpg"><div><a href="Coinage.php">鑄幣術</a></div><i class="fas fa-arrow-down"></i></td>
          <td class="t23 trm"></td> 
          <td class="t23 trm"></td>
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><div><a href="Imperial_Age.php">帝王時代</a></div></td>
 
-            <td class="t23 trm not"><img class="gg" src="~assets/Guilds.jpg"><div><a href="Guildsavailable.php">行會制度</a></div></td>
-            <td class="t23 trm"><img class="gg" src="~assets/Banking.jpg"><div><a href="Bankingavailable.php">銀行制度</a></div></td>
+            <td class="t23 trm not"><img class="gg" src="~assets/Guilds.jpg"><div><a href="Guilds.php">行會制度</a></div></td>
+            <td class="t23 trm"><img class="gg" src="~assets/Banking.jpg"><div><a href="Banking.php">銀行制度</a></div></td>
             <td class="t23 trm"></td> 
             <td class="t23 trm"></td>
         </tr>
@@ -573,12 +573,12 @@
         <tr>
          <td style=" vertical-align: middle; " class="t5 trm ca"><div><a href="Castle_Age.php">城堡時代</a></div></td>
          <td class="t11 trm"><img class="gg" src="~assets/Masonry.jpg" alt=""><div><a href="Masonry.php">磚瓦技術</a></div><i class="fas fa-arrow-down"></i></td>
-         <td class="t11 trm not"><img class="gg" src="~assets/Fortified-wall-research.jpg" alt=""><div><a href="Fortified Wall.php">垛牆</a></div></td>
+         <td class="t11 trm not"><img class="gg" src="~assets/Fortified-wall-research.jpg" alt=""><div><a href="Fortified_Wall.php">垛牆</a></div></td>
          <td class="t11 trm"><img class="gg" src="~assets/Ballistics.jpg" alt=""><div><a href="Ballistics.php">彈道學</a></div></td>
-         <td class="t11 trm not"><img class="gg" src="~assets/Guard-tower-research.jpg" alt=""><div><a href="Guard Tower.php">防禦箭塔</a></div><i class="fas fa-arrow-down"></i></td>
-         <td class="t11 trm"><img class="gg" src="~assets/Heatedshot.png" alt=""><div><a href="Heated Shot.php">預熱射擊</a></div></td>
-         <td class="t11 trm"><img class="gg" src="~assets/Murderholes.jpg" alt=""><div><a href="Murder Holes.php">垛孔</a></div></td>
-        <td class="t11 trm"><img class="gg" src="~assets/Treadmillcrane.jpg" alt=""><div><a href="Treadmill Crane.php">滑輪起重機</a></div></td>
+         <td class="t11 trm not"><img class="gg" src="~assets/Guard-tower-research.jpg" alt=""><div><a href="Guard_Tower.php">防禦箭塔</a></div><i class="fas fa-arrow-down"></i></td>
+         <td class="t11 trm"><img class="gg" src="~assets/Heatedshot.png" alt=""><div><a href="Heated_Shot.php">預熱射擊</a></div></td>
+         <td class="t11 trm"><img class="gg" src="~assets/Murderholes.jpg" alt=""><div><a href="Murder_Holes.php">垛孔</a></div></td>
+        <td class="t11 trm"><img class="gg" src="~assets/Treadmillcrane.jpg" alt=""><div><a href="Treadmill_Crane.php">滑輪起重機</a></div></td>
          <td class="t11 trm"></td>
 
         <tr>

@@ -128,7 +128,7 @@
             <tr>
               <td class="tta1">其他</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Guilds.jpg"><a href="Guildsavailable.php">行會制度</a>:在市場交易課稅減至15%</td>
+                <img class="gg" src="~assets/Guilds.jpg"><a href="Guilds.php">行會制度</a>:在市場交易課稅減至15%</td>
             </tr>
           </table>
            <h3>文明加成</h3>
@@ -166,7 +166,7 @@
              <h3><em><a href="aoc.php">征服者入侵</a></em></h3> 
             <ul>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
-              <li>引入<a href="Caravanavailable.php">大商隊</a>。</li>
+              <li>引入<a href="Caravan.php">大商隊</a>。</li>
             </ul>
              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
 

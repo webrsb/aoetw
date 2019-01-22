@@ -70,7 +70,7 @@
             <tr>
               <td class="unit3">升級所需科技</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Scalemailarmor.jpg" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>
+                <img class="gg" src="~assets/Scalemailarmor.jpg" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>
 
               </td>
             </tr>

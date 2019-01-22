@@ -18,7 +18,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>哥德衛隊具有優異的攻擊力和速度，但最大的優勢是他們的遠程護甲。當研發了<a href="Plate Mail Armor.php">步兵板甲</a>(遠防+2)後，對箭矢的傷害幾乎免疫，這讓他們成為弓兵殺手。一群哥德衛隊可以最小損傷摧毀一座城堡。哥德衛隊適合用來對付弓箭手，但是他們也是相當全面的單位，可以處理大多數的威脅，因為他們幾乎免疫炮火。他們的弱點包括
+              <li>哥德衛隊具有優異的攻擊力和速度，但最大的優勢是他們的遠程護甲。當研發了<a href="Plate_Mail_Armor.php">步兵板甲</a>(遠防+2)後，對箭矢的傷害幾乎免疫，這讓他們成為弓兵殺手。一群哥德衛隊可以最小損傷摧毀一座城堡。哥德衛隊適合用來對付弓箭手，但是他們也是相當全面的單位，可以處理大多數的威脅，因為他們幾乎免疫炮火。他們的弱點包括
                 <a
                 href="Knight.php">騎士</a>，還有速度比他們快的弓箭手(如<a href="Cavalry_Archer.php">馬弓騎兵</a>、<a href="Mangudai.php">蒙古突騎</a>、
                   <a
@@ -80,9 +80,9 @@
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale Mail Armor.php">步兵鱗甲</a>(+1/+1)
+                <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain Mail Armor.php">步兵鎖甲</a>(+1/+1)
+                <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>(+1/+1)
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
