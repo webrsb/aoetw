@@ -139,7 +139,7 @@
               <li><a href="Burmese.php">緬甸</a>：研發<a href="Faith.php">忠誠信仰</a>便宜50%。</li>
               <li><a href="">拜占庭</a>：在封建/城堡/帝王時代，市集增加20%/30%/40%的血量。<a href="Town_Watch.php">城鎮瞭望</a>免費。</li>
               <li><a href="Chinese.php">中國</a>：對市集有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。</li>
-              <li><a href="Khmer.php">高棉</a>：蓋市集前不需要先蓋<a href="Millicon.php">磨坊</a>。</li>
+              <li><a href="Khmer.php">高棉</a>：蓋市集前不需要先蓋<a href="Mill.php">磨坊</a>。</li>
               <li><a href="Malians.php">馬利</a>：市集便宜15%。</li>
               <li><a href="Saracens.php">薩拉森</a>：市集貿易成本只需要5%，並在建造市集時木材花費-43%(約莫是75木材)。</li>
               <li><a href="Spanish.php">西班牙</a>：市集建築速度快30%。</li>

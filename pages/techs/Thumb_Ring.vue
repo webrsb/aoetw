@@ -164,7 +164,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="">不列顛</a>：研發快20%。</li>
+              <li><a href="Britons.php">不列顛</a>：研發快20%。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
