@@ -83,7 +83,7 @@
                     <img class="gg" src="~assets/WarGalley.jpg"><a href="War_Galley.php">弩炮戰船</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/LongboatIcon.jpg"><a href="LongBoat.php">維京大戰船</a>
+                    <img class="gg" src="~assets/LongboatIcon.jpg"><a href="Longboat.php">維京大戰船</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">龜甲船</a>
@@ -120,7 +120,7 @@
                     <img class="gg" src="~assets/GalleonAoE2.jpg"><a href="Galleon.php">重型弩炮戰船</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/LongboatIcon.jpg"><a href="LongBoat.php">精銳維京大戰船</a>
+                    <img class="gg" src="~assets/LongboatIcon.jpg"><a href="Longboat.php">精銳維京大戰船</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="Turtle_Ship.php">精銳龜甲船</a>

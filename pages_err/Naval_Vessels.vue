@@ -344,7 +344,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/LongboatIcon.jpg"><a href="LongBoat.php">維京大戰船</a>
+                  <img class="gg" src="~assets/LongboatIcon.jpg"><a href="Longboat.php">維京大戰船</a>
                 </td>
                 <td class="tta3">130</td>
                 <!--生命值!-->
@@ -363,7 +363,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/LongboatIcon.jpg"><a href="LongBoat.php">精銳維京大戰船</a>
+                  <img class="gg" src="~assets/LongboatIcon.jpg"><a href="Longboat.php">精銳維京大戰船</a>
                 </td>
                 <td class="tta3">160</td>
                 <!--生命值!-->

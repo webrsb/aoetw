@@ -586,7 +586,7 @@
         </td>
         <td class="t23 trm">
           <img class="gg" src="~assets/Goldmining.jpg" alt="">
-          <div><a href="Gold Mining.php">採金技術</a>
+          <div><a href="Gold_Mining.php">採金技術</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t23 trm">
@@ -696,7 +696,7 @@
         </td>
         <td class="t10 trm not">
           <img class="gg" src="~assets/LongboatIcon.jpg">
-          <div><a href="LongBoat.php">維京大戰船</a>
+          <div><a href="Longboat.php">維京大戰船</a>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t10 trm not">
@@ -742,7 +742,7 @@
         </td>
         <td class="t10 trm not">
           <img class="gg" src="~assets/LongboatIcon.jpg">
-          <div><a href="LongBoat.php">精銳維京大戰船</a>
+          <div><a href="Longboat.php">精銳維京大戰船</a>
           </div>
         </td>
         <td class="t10 trm not">
