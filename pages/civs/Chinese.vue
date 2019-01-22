@@ -49,6 +49,11 @@
                <li>神風船多了50%生命值</li>
                <p><strong>團隊加分:</strong>農田可生產食物+45</p>
             </ul>
+          </div>
+		    <h3>科技樹</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <em><a href="chi.php">中國科技樹</a></em>
          </div>
          <h3>戰術概論</h3>
          <div class="hrn1"></div>
@@ -269,7 +274,6 @@
                </ul>
             </div>
          </div>
-      </div>
       <div class="col-md-4">
          <table class="table-bordered" width="100%">
             <tr>
@@ -284,13 +288,16 @@
                      <p><em>中國萬里長城</em></p>
                   </div>
                </td>
+            </tr>      
+            <tr>
+                <td class="unit" colspan="2" style=" background-color:#e6992c;">
+                  <div class="unititle2">概要</div>
+                </td>
             </tr>
             <tr>
-               <td class="unit" colspan="2" style=" background-color:#e6992c;">
-                     風格
-               </td>
-               <td class="unit4">東亞</td>      
-            </tr>
+                <td class="unit3">建築風格</td>
+                <td class="unit4">東亞</td>
+            </tr>  
             <tr>
               <td class="unit3">分類文明</td>
               <td class="unit4">弓兵</td>
@@ -311,6 +318,7 @@
             </tr>           
          </table>
          <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
+      </div>
       </div>
     </div>
 </template>

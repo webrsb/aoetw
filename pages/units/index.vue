@@ -408,71 +408,60 @@
 					<div class="row">
 						<div class="col-sm-3">
 							<ul class="multi-column-dropdown">
-								<a class="dropdown-item" href="#">帝王世紀</a>
-								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="#">長弓兵</a>
-								<a class="dropdown-item" href="#">聖騎兵</a>
-								<a class="dropdown-item" href="#">菘藍武士</a>
-								<a class="dropdown-item" href="#">連弩兵</a>
-								<a class="dropdown-item" href="#">擲斧兵</a>
-								<a class="dropdown-item" href="#">日本武士</a>
-								<a class="dropdown-item" href="#">蒙古突騎</a>
-								<a class="dropdown-item" href="#">波斯戰象</a>
-								<a class="dropdown-item" href="#">奴隸兵</a>
-								<a class="dropdown-item" href="#">條頓武士</a>
-								<a class="dropdown-item" href="#">土耳其火槍兵</a>
-								<a class="dropdown-item" href="#">狂戰士</a>
-								<a class="dropdown-item" href="#">維京大戰船</a>
-							</ul>
-						</div>
-						<div class="col-sm-2">
-							<ul class="multi-column-dropdown">
-								<a class="dropdown-item" href="#">征服者入侵</a>
-								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="#">豹勇士</a>
-								<a class="dropdown-item" href="#">韃靼騎兵</a>
-								<a class="dropdown-item" href="#">馬戰車</a>
-								<a class="dropdown-item" href="#">龜甲船</a>
-								<a class="dropdown-item" href="#">羽毛箭射手</a>
-								<a class="dropdown-item" href="#">征服者</a>
-								<a class="dropdown-item" href="#">傳教士</a>
-							</ul>
-						</div>
-						<div class="col-sm-3">
-							<ul class="multi-column-dropdown">
-								<a class="dropdown-item" href="#">失落的帝國</a>
-								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="#">槍隊長</a>
-								<a class="dropdown-item" href="#">投石手</a>
-								<a class="dropdown-item" href="#">象弓騎兵</a>
-								<a class="dropdown-item" href="#">帝王駱駝騎兵</a>
-								<a class="dropdown-item" href="#">熱那亞弩手</a>
-								<a class="dropdown-item" href="#">僱傭兵</a>
-								<a class="dropdown-item" href="#">馬札爾驃騎兵</a>
-								<a class="dropdown-item" href="#">貴族鐵騎</a>
-							</ul>
-						</div>
-						<div class="col-sm-2">
-							<ul class="multi-column-dropdown">
-								<a class="dropdown-item" href="#">非洲王朝</a>
-								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="#">駱駝弓騎兵</a>
-								<a class="dropdown-item" href="#">標槍騎兵</a>
-								<a class="dropdown-item" href="#">彎刀勇士</a>
-								<a class="dropdown-item" href="#">飛刀女獵手</a>
-								<a class="dropdown-item" href="#">手風琴砲</a>
-								<a class="dropdown-item" href="#">卡拉維爾戰船</a>
-							</ul>
-						</div>
-						<div class="col-sm-2">
-							<ul class="multi-column-dropdown">
-								<a class="dropdown-item" href="#">王者崛起</a>
-								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="#">飛鏢騎兵</a>
-								<a class="dropdown-item" href="#">弩砲象</a>
-								<a class="dropdown-item" href="#">爪刀勇士</a>
-								<a class="dropdown-item" href="#">藤甲弓兵</a>
-								<a class="dropdown-item" href="#">帝王戰茅兵</a>
+                <a class="dropdown-item" href="aok.php">帝王世紀</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="Longbowman.php">長弓兵</a>
+                <a class="dropdown-item" href="Cataphract.php">聖騎兵</a>
+                <a class="dropdown-item" href="Woad_Raider.php">菘藍武士</a>
+                <a class="dropdown-item" href="Chu_Ko_Nu.php">連弩兵</a>
+                <a class="dropdown-item" href="Throwing_Axeman.php">擲斧兵</a>
+                <a class="dropdown-item" href="Samurai.php">日本武士</a>
+                <a class="dropdown-item" href="Mangudai.php">蒙古突騎</a>
+                <a class="dropdown-item" href="War_Elephant.php">波斯戰象</a>
+                <a class="dropdown-item" href="Mameluke.php">奴隸兵</a>
+                <a class="dropdown-item" href="Teutonic_Knight.php">條頓武士</a>
+                <a class="dropdown-item" href="Janissary.php">土耳其火槍兵</a>
+                <a class="dropdown-item" href="Huskarl.php">哥德衛隊</a>
+                <a class="dropdown-item" href="Longboat.php">維京大戰船</a>
+                <a class="dropdown-item" href="Berserk.php">狂戰士</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="aoc.php">征服者入侵</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="Jaguar_Warrior.php">豹勇士</a>
+                <a class="dropdown-item" href="War_Wagon.php">馬戰車</a>
+                <a class="dropdown-item" href="Plumed_Archer.php">羽毛箭射手</a>
+                <a class="dropdown-item" href="Conquistador.php">征服者</a>
+                <a class="dropdown-item" href="Turtle_Ship.php">龜甲船</a>
+                <a class="dropdown-item" href="Missionary.php">傳教士</a>
+                <a class="dropdown-item" href="Tarkan.php">韃靼騎兵</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="aof.php">失落的帝國</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="Kamayuk.php">槍隊長</a>
+                <a class="dropdown-item" href="Slinger.php">投石手</a>
+                <a class="dropdown-item" href="Elephant_Archer.php">象弓騎兵</a>
+                <a class="dropdown-item" href="Imperial_Camel.php">帝王駱駝騎兵</a>
+                <a class="dropdown-item" href="Genoese_Crossbowman.php">熱那亞弩手</a>
+                <a class="dropdown-item" href="Condottiero.php">僱傭兵</a>
+                <a class="dropdown-item" href="Magyar_Huszar.php">馬札爾驃騎兵</a>
+                <a class="dropdown-item" href="Boyar.php">貴族鐵騎</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="ak.php">非洲王朝</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="Camel_Archer.php">駱駝弓騎兵</a>
+                <a class="dropdown-item" href="Genitour.php">標槍騎兵</a>
+                <a class="dropdown-item" href="Shotel_Warrior.php">彎刀勇士</a>
+                <a class="dropdown-item" href="Gbeto.php">飛刀女獵手</a>
+                <a class="dropdown-item" href="Organ_Gun.php">手風琴砲</a>
+                <a class="dropdown-item" href="Caravel.php">卡拉維爾戰船</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="aor.php">王者崛起</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="Arambai.php">飛鏢騎兵</a>
+                <a class="dropdown-item" href="Ballista_Elephant.php">弩砲象</a>
+                <a class="dropdown-item" href="Karambit_Warrior.php">爪刀勇士</a>
+                <a class="dropdown-item" href="Rattan_Archer.php">藤甲弓兵</a>
+                <a class="dropdown-item" href="Imperial_Skirmisher.php">帝王戰茅兵</a>
 							</ul>
 						</div>
 					</div>
