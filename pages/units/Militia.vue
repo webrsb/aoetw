@@ -349,7 +349,7 @@
             </li>
             <li>
               <a href="Goths.php">哥德</a>：民兵從封建時代開始便宜35％並對<a
-                href="Armor_class_building.php
+                href="Armor_Class_Building.php"
                 >建築物</a
               >攻擊+1。研發 <a href="Perfusion.php">灌注士氣</a>後研發<a
                 href="Tracking.php"

@@ -99,12 +99,12 @@
             <li><strong>團隊加分:</strong>軍營生產速度快20%</li>
           </ul>
         </div>
-            <h3>科技樹</h3>
-              <div class="hrn1"></div>
-              <div class="n1">
-                <em><a href="got.php">哥德科技樹</a></em>
-              </div>
-              <br>
+        <h3>科技樹</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <em><a href="got.php">哥德科技樹</a></em>
+        </div>
+        <br />
 
         <h3>
           <strong>戰術概論</strong>

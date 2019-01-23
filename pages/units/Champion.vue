@@ -107,7 +107,8 @@
             <td class="tta4">
               <a href="Skirmisher.php">矛兵</a>、<a href="Villager.php">戟兵</a
               >、<a href="Scout_Cavalry.php">駱駝騎兵</a>、
-              <a href="Eagle_Scout.php">鷹勇士</a>、<a href="Armor_class_building.php
+              <a href="Eagle_Scout.php">鷹勇士</a>、<a
+                href="Armor_Class_Building.php"
                 >建築物</a
               >、<a href="Spearman.php">輕騎兵</a>、
               <a href="Huskarl.php">哥德衛隊</a>、<a href="Battering_Ram.php"

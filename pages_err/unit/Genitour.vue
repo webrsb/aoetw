@@ -318,7 +318,7 @@
             <li><a href="Franks.php">法蘭克</a>：多20%的血量。</li>
             <li><a href="Huns.php">匈奴</a>：標槍騎兵的血量在城堡/帝王時代各便宜10%/20%。</li>
             <li><a href="Mongols.php">蒙古</a>：標槍騎兵發射速度快25%。</li>
-            <li><a href="Saracens.php">薩拉森</a>：標槍騎兵<a href="Armor_class_building.php>建築</a>攻擊+3。</li>
+            <li><a href="Saracens.php">薩拉森</a>：標槍騎兵<a href="Armor_class_building.php">建築</a>攻擊+3。</li>
             <li><a href="Spanish.php">西班牙</a>：升級 <a href="Blacksmith.php">兵工廠</a>科技不用黃金。</li>
             <li><a href="Vietnamese.php">越南</a>：標槍騎兵的血量在城堡/帝王時代各增加15%/20%的血量。</li>
           </ul>

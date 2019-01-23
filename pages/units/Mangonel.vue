@@ -62,7 +62,9 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="Armor_class_building.php>建築物</a>、<a href="Villager.php">村民</a
+              <a href="Armor_Class_Building.php">建築物</a>、<a
+                href="Villager.php"
+                >村民</a
               >、<a href="Archer_Units.php">弓兵</a>、
               <a href="Scorpion.php">弩炮</a>、<a href="Battering_Ram.php"
                 >輕型衝撞車</a

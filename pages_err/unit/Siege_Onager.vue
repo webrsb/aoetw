@@ -68,7 +68,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Armor_class_building.php>建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、群聚的單位。</td>
+              <td class="tta4"><a href="Armor_class_building.php">建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、群聚的單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>

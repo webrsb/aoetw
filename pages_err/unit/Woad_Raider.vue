@@ -35,7 +35,7 @@
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><a href="Skirmisher.php">矛兵</a>、<a href="Halberdier.php">戟兵</a>、<a href="Eagle_Warrior.php">鷹勇士</a>、
                 <a
-                href="Siege_Weapons.php">攻城武器</a>、<a href="Armor_class_building.php>建築物</a>、<a href="Light_Cavalry.php">輕騎兵</a>和
+                href="Siege_Weapons.php">攻城武器</a>、<a href="Armor_class_building.php">建築物</a>、<a href="Light_Cavalry.php">輕騎兵</a>和
                   <a
                   href="Huskarl.php">哥德衛隊</a>。</td>
             </tr>

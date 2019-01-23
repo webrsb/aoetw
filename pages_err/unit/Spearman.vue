@@ -256,7 +256,7 @@
               <li><a href="Celts.php">賽爾特人</a>：長槍兵移動加快15％。</li>
               <li><a href="Chinese.php">中國</a>：有利於長槍兵的技術在封建/城堡/帝王時代便宜10％/ 15％/ 20％。</li>
               <li><a href="Ethiopians.php">衣索比亞</a>:免費升級重裝長槍兵。</li>
-              <li><a href="Goths.php">哥德</a>：長槍兵便宜35％而且對<a href="Armor_class_building.php>建築物</a>攻擊+1。研發
+              <li><a href="Goths.php">哥德</a>：長槍兵便宜35％而且對<a href="Armor_class_building.php">建築物</a>攻擊+1。研發
                 <a
                 href="Perfusion.php">灌注士氣</a>後研發<a href="Tracking.php">追縱技術</a>、<a href="Squires.php">護衛</a>、
                   <a

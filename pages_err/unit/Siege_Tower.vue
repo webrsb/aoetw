@@ -272,7 +272,7 @@
             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
             <ul>
               <li>攻城塔成本為300W/160G。</li>
-              <li>攻城塔有6的射程(最小射程1)6的攻擊(對<a href="Armor_class_building.php>建築物</a>+6)，射速為4，命中率為90％。</li>
+              <li>攻城塔有6的射程(最小射程1)6的攻擊(對<a href="Armor_class_building.php">建築物</a>+6)，射速為4，命中率為90％。</li>
               <li>移動速度0.6。</li>
             </ul>
             <h3><em><a href="ak.php">非洲王國</a></em></h3>
