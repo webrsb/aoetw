@@ -36,25 +36,23 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：哥德人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p3
-                "></div>玩家3：</td>  <td class="tc6 " width="35% ">阿陶爾夫的部隊(綠色)哥德 </td>   <td class="tc6 " width="15%
+                <td class="tc6" width="15%" "><div class="p3">玩家3：</div></td>  <td class="tc6 " width="35% ">阿陶爾夫的部隊(綠色)哥德 </td>   <td class="tc6 " width="15%
                 "">
-                  <div class="p7"></div>玩家5：</td>
+                  <div class="p7">玩家5：</div></td>
                 <td class="tc6" width="35%">平民(灰色)義大利</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p6
-                "></div>玩家6：</td>  <td class="tc6 " width="35% ">哥德人(紫色)哥德 </td> </tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p6">玩家6：</div></td>  <td class="tc6 " width="35% ">哥德人(紫色)哥德 </td> </tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
-                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2 "></div>玩家2：</td>    <td class="tc6
-                ">羅馬軍團(紅色)義大利  敵對 </td>    <td class="tc6 "><div class="p4 "></div>玩家4：</td>    <td class="tc6
+                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2">玩家2：</div></td>    <td class="tc6
+                ">羅馬軍團(紅色)義大利  敵對 </td>    <td class="tc6 "><div class="p4">玩家4：</div></td>    <td class="tc6
                 ">馬吉斯將軍的營地(黃色)義大利  </td>  </tr>    </tr>     </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>阿拉里克，阿陶爾夫，蘇勒上尉，1位護衛長槍兵(HP75)1位輕騎兵(HP20)，3位重裝長槍兵，3位弓兵，2位馬騎弓兵，1台輕型投石車。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>第一章:徹查  玩家起始部隊:1位輕騎兵 (HP20)</li><li>1.詢問西北邊的村民，2.詢問西南邊的村民，3.返回向阿拉里克上報軍情</li><li>第二章:霍諾留斯的軍團</li><li>1.摧毀駐紮營的主帳篷，破壞敵營，2.準備好截擊靠近的軍團，3.取羅馬將軍首級，挫敵軍士氣。可選任務:帶阿陶爾夫到他東邊的營地</li><li>摧毀羅馬的防禦工事</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

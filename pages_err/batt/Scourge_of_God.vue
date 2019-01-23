@@ -35,19 +35,18 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p4"></div>玩家1：</td>
+                  <div class="p4">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：匈奴人（黃色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p6
-                "></div>玩家2：</td>  <td class="tc6 " width="35%
+                <td class="tc6" width="15%" "><div class="p6">玩家2：</div></td>  <td class="tc6 " width="35%
                 ">貝里達的匈奴人（紫色）匈奴 </td>    </tr>    <tr>     <td class="tc4 " colspan="4 " style="background:#ea6153;
-                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p3 "></div>玩家3：</td>    <td class="tc6
-                ">西徐亞人（綠色）蒙古 敵對 </td>    <td class="tc6 "><div class="p2 "></div>玩家4：</td>    <td class="tc6
-                ">波斯人（紅色）波斯   </td>  </tr>  <tr>    <td class="tc6 "><div class="p1 "></div>玩家5：</td>    <td class="tc6
+                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p3">玩家3：</div></td>    <td class="tc6
+                ">西徐亞人（綠色）蒙古 敵對 </td>    <td class="tc6 "><div class="p2">玩家4：</div></td>    <td class="tc6
+                ">波斯人（紅色）波斯   </td>  </tr>  <tr>    <td class="tc6 "><div class="p1">玩家5：</div></td>    <td class="tc6
                 ">西羅馬帝國（藍色）拜占庭  </td>  </tr>       </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>阿提拉</dd>  <dt>大地之母單位:</dt>   <dd>12位村民(不同支線劇情的村民總和)</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>阿提拉必須存活下來。</li><li>阿提拉必須肯定貝里達已經被殺，然後才返回匈奴人的陣地。只有這樣匈奴人才能對抗敵人。</li><li>打敗剩下的 3 個敵人中的 2 個敵人 (西徐亞人、羅馬人，和波斯人)。</li>  </ol></div></div><h2>次要目標</h2><div class="hrn1 "></div><div class="n1

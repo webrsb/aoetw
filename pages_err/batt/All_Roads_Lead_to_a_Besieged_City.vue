@@ -35,25 +35,23 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：哥德人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p3
-                "></div>玩家3：</td>  <td class="tc6 " width="35% ">義大利人(綠色)義大利 </td>   <td class="tc6 " width="15% "">
-                  <div class="p6"></div>玩家4：</td>
+                <td class="tc6" width="15%" "><div class="p3">玩家3：</div></td>  <td class="tc6 " width="35% ">義大利人(綠色)義大利 </td>   <td class="tc6 " width="15% "">
+                  <div class="p6">玩家4：</div></td>
                 <td class="tc6" width="35%">哥德人(紫色)哥德</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p7
-                "></div>玩家6：</td>  <td class="tc6 " width="35% ">哥德難民(灰色) 哥德 </td> </tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p7">玩家6：</div></td>  <td class="tc6 " width="35% ">哥德難民(灰色) 哥德 </td> </tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
-                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2 "></div>玩家2：</td>    <td class="tc6
-                ">羅馬(紅色)義大利  敵對 </td>    <td class="tc6 "><div class="p4 "></div>玩家5：</td>    <td class="tc6
-                ">羅馬軍團(黃色)拜占庭   </td>  </tr>  <tr>    <td class="tc6 "><div class="p1 "></div>玩家5：</td>    <td class="tc6
+                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2">玩家2：</div></td>    <td class="tc6
+                ">羅馬(紅色)義大利  敵對 </td>    <td class="tc6 "><div class="p4">玩家5：</div></td>    <td class="tc6
+                ">羅馬軍團(黃色)拜占庭   </td>  </tr>  <tr>    <td class="tc6 "><div class="p1">玩家5：</div></td>    <td class="tc6
                 ">西羅馬帝國（藍色）拜占庭  </td>  </tr>       </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>阿拉里克，1位西徐亞斥侯，2位護衛長槍兵(HP75)9位輕騎兵，9位重裝長槍兵，16位長劍兵，11位弓兵，11位哥德衛隊。</dd>  <dt>大地之母單位:</dt>   <dd>9位輕騎兵，2位騎士，4位韃靼騎兵，14位長劍兵，3位裝甲步兵，3位長槍兵，1位重裝長槍兵，2位護衛長槍兵(HP75)，13位哥德衛隊，8位弓兵，10位弩兵</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>阿拉里克必須存活。</li><li>摧毀三座防禦箭塔，控制河道。</li><li>讓阿拉里克到南邊的哥德營地去。</li><li>攻佔北邊的市場，這樣就能切斷羅馬最後的貿易線了。</li><li>迎擊羅馬軍團，不要讓他們破壞貿易站市場。</li>  </ol></div></div><h2>次要目標</h2><div class="hrn1 "></div><div class="n1

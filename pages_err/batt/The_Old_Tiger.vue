@@ -36,7 +36,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家1：</td>
+                  <div class="p3">玩家1：</div></td>
                 <td class="tc6" colspan="3">緬甸人（綠色）</td>
               </tr>
               <tr>
@@ -44,10 +44,10 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家7：</td>
+                  <div class="p3">玩家7：</div></td>
                 <td class="tc6">勃印曩（綠色）緬甸</td>
                 <td class="tc6">
-                  <div class="p2"></div>玩家2：</td>
+                  <div class="p2">玩家2：</div></td>
                 <td class="tc6">妙烏城（紅色）緬甸</td>
               </tr>
               <tr>
@@ -56,18 +56,18 @@
               <tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p4"></div>玩家3：</td>
+                    <div class="p4">玩家3：</div></td>
                   <td class="tc6">若開邦（黃色）馬來</td>
                   <td class="tc6">
-                    <div class="p4"></div>玩家3：</td>
+                    <div class="p4">玩家3：</div></td>
                   <td class="tc6">若開邦（黃色）馬來</td>
                 </tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p4"></div>玩家5：</td>
+                    <div class="p4">玩家5：</div></td>
                   <td class="tc6">若開邦（黃色）越南</td>
                   <td class="tc6">
-                    <div class="p6"></div>玩家6：</td>
+                    <div class="p6">玩家6：</div></td>
                   <td class="tc6">葡萄牙人（紫色）葡萄牙</td>
                 </tr>
             </table>

@@ -21,7 +21,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p1"></div>玩家1：</td>
+                <div class="p1">玩家1：</div></td>
               <td class="tc6" colspan="3">法蘭克人（藍色）</td>
             </tr>
             <tr>
@@ -30,15 +30,15 @@
             <tr>
               <tr>
                 <td class="tc6">
-                  <div class="p6"></div>玩家2：</td>
+                  <div class="p6">玩家2：</div></td>
                 <td class="tc6">勃根地（紫色）法蘭克</td>
                 <td class="tc6">
-                  <div class="p2"></div>玩家3：</td>
+                  <div class="p2">玩家3：</div></td>
                 <td class="tc6">英國（紅色） 不列顛</td>
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p8"></div>玩家4：</td>
+                  <div class="p8">玩家4：</div></td>
                 <td class="tc6">霍士道夫的軍隊（橘色）敵對</td>
               </tr>
           </table>

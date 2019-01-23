@@ -36,22 +36,21 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p4"></div>玩家1：</td>
+                  <div class="p4">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：匈奴人（黃色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p2
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">東哥德人（紅色）哥德 </td> </tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p2">玩家2：</div></td>  <td class="tc6 " width="35% ">東哥德人（紅色）哥德 </td> </tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
-                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p1 "></div>玩家3：</td>    <td class="tc6
-                ">西羅馬帝國（藍色）拜占庭 </td>    <td class="tc6 "><div class="p3 "></div>玩家4：</td>    <td class="tc6
-                ">西哥德人（綠色）哥德 </td>  </tr>  <tr>    <td class="tc6 "><div class="p5 "></div>玩家5：</td>    <td class="tc6
+                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p1">玩家3：</div></td>    <td class="tc6
+                ">西羅馬帝國（藍色）拜占庭 </td>    <td class="tc6 "><div class="p3">玩家4：</div></td>    <td class="tc6
+                ">西哥德人（綠色）哥德 </td>  </tr>  <tr>    <td class="tc6 "><div class="p5">玩家5：</div></td>    <td class="tc6
                 ">奄蔡人（藍綠色）維京</td>  </tr> <tr><td class="tc4 " colspan="4 " style="background:#ea6153;
                 ">中立</td></tr><tr>   <td class="tc6 " width="15% "">
-                  <div class="p7"></div>玩家6：</td>
+                  <div class="p7">玩家6：</div></td>
                 <td class="tc6" width="35%">法蘭西人（灰色）法蘭克</td>
               </tr>
             </table>

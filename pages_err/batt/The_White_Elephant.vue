@@ -37,7 +37,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家1：</td>
+                  <div class="p3">玩家1：</div></td>
                 <td class="tc6" colspan="3">緬甸人（綠色）</td>
               </tr>
               <tr>
@@ -45,7 +45,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家2：</td>
+                  <div class="p2">玩家2：</div></td>
                 <td class="tc6">泰族山區 高棉</td>
               </tr>
               <tr>
@@ -54,18 +54,18 @@
               <tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p1"></div>玩家2：</td>
+                    <div class="p1">玩家2：</div></td>
                   <td class="tc6">阿瑜陀耶國（藍色）高棉</td>
                   <td class="tc6">
-                    <div class="p4"></div>玩家4：</td>
+                    <div class="p4">玩家4：</div></td>
                   <td class="tc6">蘭納國（黃色）高棉</td>
                 </tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p5"></div>玩家5：</td>
+                    <div class="p5">玩家5：</div></td>
                   <td class="tc6">瀾滄王國（水藍）高棉</td>
                   <td class="tc6">
-                    <div class="p6"></div>玩家6：</td>
+                    <div class="p6">玩家6：</div></td>
                   <td class="tc6">山區部落（紫色）馬來</td>
                 </tr>
                 <tr>
@@ -73,7 +73,7 @@
                 </tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p8"></div>玩家7：</td>
+                    <div class="p8">玩家7：</div></td>
                   <td class="tc6">婆羅門納茲靈教（橘色）緬甸</td>
             </table>
             <h3>開場</h3>

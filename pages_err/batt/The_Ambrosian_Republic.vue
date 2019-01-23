@@ -38,32 +38,28 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：義大利人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p2
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">帕維亞(紅色) 義大利 </td>   <td class="tc6 " width="15% "">
-                  <div class="p4"></div>玩家4：</td>
+                <td class="tc6" width="15%" "><div class="p2">玩家2：</div></td>  <td class="tc6 " width="35% ">帕維亞(紅色) 義大利 </td>   <td class="tc6 " width="15% "">
+                  <div class="p4">玩家4：</div></td>
                 <td class="tc6" width="35%">克雷其納城(黃色) 義大利</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p8
-                "></div>玩家7：</td>  <td class="tc6 " width="35% ">當地人(橘色) 義大利  </td>   </tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p8">玩家7：</div></td>  <td class="tc6 " width="35% ">當地人(橘色) 義大利  </td>   </tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 " width="15% "">
-                  <div class="p3"></div>玩家3：</td>
+                  <div class="p3">玩家3：</div></td>
                 <td class="tc6" width="35%">比阿琴薩城(綠色) 義大利 敵對</td>
-                <td class="tc6" width="15%" "><div class="p5
-                "></div>玩家5：</td>    <td class="tc6 " width="35%
+                <td class="tc6" width="15%" "><div class="p5">玩家5：</div></td>    <td class="tc6 " width="35%
                 ">卡拉法吉歐(水藍色) 義大利 敵對 </td>   </tr>  <tr>    <td class="tc6 " width="15% "">
-                  <div class="p6"></div>玩家6：</td>
+                  <div class="p6">玩家6：</div></td>
                 <td class="tc6" width="35%">威尼斯人(紫色) 義大利 敵對</td>
-                <td class="tc6" width="15%" "><div class="p7
-                "></div>玩家8：</td>    <td class="tc6 " width="35%
+                <td class="tc6" width="15%" "><div class="p7">玩家8：</div></td>    <td class="tc6 " width="35%
                 ">反抗軍(灰色) 義大利  敵對 </td>   </tr>  </tr>     </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>法蘭切斯科.斯福爾扎，12位義大利傭兵，6位火槍兵。</dd>  <dt>大地之母單位:</dt>   <dd>24位義大利傭兵</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>法蘭切斯科.斯福爾扎必須存活。</li><li>帶斯福爾扎去帕維亞的城堡。</li><li>圍攻比阿琴薩城，摧毀4座塔。</li><li>摧毀3座威尼斯城堡：莫茲扎尼卡，瓦伊拉泰和特雷維格里奧。</li><li>摧毀威尼斯海軍。</li><li>摧毀卡拉法吉歐的城堡</li><li>帶斯福爾扎去去往佈雷西亞城（卡拉法吉歐東北方）道路上的火炬處。</li>  </ol><h2>次要任務</h2><div class="hrn1 "></div><div class="n1

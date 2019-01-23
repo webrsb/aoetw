@@ -34,21 +34,20 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家1：</td>
+                  <div class="p2">玩家1：</div></td>
                 <td class="tc6" colspan="3">西班牙（紅色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p4
-                "></div>玩家2：</td>    <td class="tc6 " width="35% ">托雷多（黃色）薩拉森</td>    <td class="tc6 " width="15%
-                "><div class="p5 "></div>玩家3：</td>    <td class="tc6 " width="35%
-                " >蒙達米特（藍綠）薩拉森  </td>        <tr>    <td class="tc6 " width="15% "><div class="p6 "></div>玩家6：</td>    <td class="tc6
+                <td class="tc6" width="15%" "><div class="p4">玩家2：</div></td>    <td class="tc6 " width="35% ">托雷多（黃色）薩拉森</td>    <td class="tc6 " width="15%
+                "><div class="p5">玩家3：</div></td>    <td class="tc6 " width="35%
+                " >蒙達米特（藍綠）薩拉森  </td>        <tr>    <td class="tc6 " width="15% "><div class="p6">玩家6：</div></td>    <td class="tc6
                 " width="35% " >回教長老伊滿（紫色）薩拉森  </td>  </tr></tr><tr>    <td class="tc4
                 " colspan="4 " style="background:#2980b9; ">敵對</td>  </tr><tr>    <td class="tc6
-                "><div class="p8 "></div>玩家5：</td>    <td class="tc6
-                ">西班牙的叛亂軍（橘色）西班牙 </td>    <td class="tc6 "><div class="p3 "></div>玩家6：</td>    <td class="tc6
+                "><div class="p8">玩家5：</div></td>    <td class="tc6
+                ">西班牙的叛亂軍（橘色）西班牙 </td>    <td class="tc6 "><div class="p3">玩家6：</div></td>    <td class="tc6
                 ">摩爾人的反叛軍（綠色）薩拉森 </td>  </tr><tr>      </tr></table><br/><dl class="dl-horizontal
                 ">   <dt>開場：</dt>   <dd>長劍兵x10，騎士x10，弓箭手x8，村民x4，輕騎兵x3，英雄:席德。</dd>   <dt>大地之母單位：</dt>  <dd>運輸船x1</dd></dl><h3>主要任務</h3><div class="hrn1 "></div><div class="n1
                 "><ol>     <li>席德必須活著。</li>    <li>找到停止托爾多叛亂的方法</li>    <li>席德必須與回教長老伊滿會面，因為他知道如何結束在托雷多的動亂。</li>    <li>從叛亂的領袖們手裡，找回這 4 件聖器，並把衪們送回到回教長老伊滿手上。</li></ol></div><h3>任務提示</h3><div class="hrn1 "></div><div class="n1

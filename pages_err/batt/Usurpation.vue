@@ -37,7 +37,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家1：</td>
+                  <div class="p3">玩家1：</div></td>
                 <td class="tc6" colspan="3">高棉人（水藍）</td>
               </tr>
               <tr>
@@ -45,7 +45,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p7"></div>玩家5：</td>
+                  <div class="p7">玩家5：</div></td>
                 <td class="tc6">當地百姓（灰色）高棉</td>
               </tr>
               <tr>
@@ -54,15 +54,15 @@
               <tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p2"></div>玩家2：</td>
+                    <div class="p2">玩家2：</div></td>
                   <td class="tc6">優陀耶迭多跋摩的軍隊（紅色）高棉</td>
                   <td class="tc6">
-                    <div class="p8"></div>玩家3：</td>
+                    <div class="p8">玩家3：</div></td>
                   <td class="tc6">吳哥城（橘色）高棉</td>
                 </tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p4"></div>玩家5：</td>
+                    <div class="p4">玩家5：</div></td>
                   <td class="tc6">優陀耶迭多跋摩一世（黃色）高棉</td>
                 </tr>
             </table>

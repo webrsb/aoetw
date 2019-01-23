@@ -37,7 +37,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p5"></div>玩家1：</td>
+                  <div class="p5">玩家1：</div></td>
                 <td class="tc6" colspan="3">高棉人（水藍）</td>
               </tr>
               <tr>
@@ -45,7 +45,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家2：</td>
+                  <div class="p3">玩家2：</div></td>
                 <td class="tc6">朱羅大軍（綠色）印度</td>
               </tr>
               <tr>
@@ -54,10 +54,10 @@
               <tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p8"></div>玩家3：</td>
+                    <div class="p8">玩家3：</div></td>
                   <td class="tc6">單馬令王國（橘色）馬來</td>
                   <td class="tc6">
-                    <div class="p1"></div>玩家4：</td>
+                    <div class="p1">玩家4：</div></td>
                   <td class="tc6">參佛齊帝國（藍色）馬來</td>
                 </tr>
             </table>

@@ -36,7 +36,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p8"></div>玩家1：</td>
+                  <div class="p8">玩家1：</div></td>
                 <td class="tc6" colspan="3">蒙古人（橘色）</td>
               </tr>
               <tr>
@@ -44,15 +44,15 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家2：</td>
+                  <div class="p2">玩家2：</div></td>
                 <td class="tc6">加拉凱台（紅色）蒙古</td>
                 <td class="tc6">
-                  <div class="p3"></div>玩家3：</td>
+                  <div class="p3">玩家3：</div></td>
                 <td class="tc6">屈出律 （綠色）蒙古</td>
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p4"></div>玩家4：</td>
+                  <div class="p4">玩家4：</div></td>
                 <td class="tc6">泰依齊烏特人（黃色）蒙古 敵對</td>
               </tr>
             </table>

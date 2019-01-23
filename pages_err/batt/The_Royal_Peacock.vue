@@ -36,7 +36,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家1：</td>
+                  <div class="p3">玩家1：</div></td>
                 <td class="tc6" colspan="3">緬甸人（綠色）</td>
               </tr>
               <tr>
@@ -44,7 +44,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家2：</td>
+                  <div class="p2">玩家2：</div></td>
                 <td class="tc6">白古城（紅色）緬甸</td>
               </tr>
               <tr>
@@ -52,7 +52,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家3：</td>
+                  <div class="p2">玩家3：</div></td>
                 <td class="tc6">斯彌蕭圖（紅色）緬甸</td>
               </tr>
               <tr>
@@ -61,15 +61,15 @@
               <tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p1"></div>玩家4：</td>
+                    <div class="p1">玩家4：</div></td>
                   <td class="tc6">卑謬總督（藍色）高棉</td>
                   <td class="tc6">
-                    <div class="p8"></div>玩家5：</td>
+                    <div class="p8">玩家5：</div></td>
                   <td class="tc6">斯彌陶（橘色）緬甸</td>
                 </tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p4"></div>玩家6：</td>
+                    <div class="p4">玩家6：</div></td>
                   <td class="tc6">須伽帝（黃色）緬甸</td>
             </table>
             <h3>開場</h3>

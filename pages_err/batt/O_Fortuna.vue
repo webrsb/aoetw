@@ -36,17 +36,16 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：義大利人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p4
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">米蘭公國(黃色) 義大利  </td>   <td class="tc6 " width="15%
+                <td class="tc6" width="15%" "><div class="p4">玩家2：</div></td>  <td class="tc6 " width="35% ">米蘭公國(黃色) 義大利  </td>   <td class="tc6 " width="15%
                 "">
-                  <div class="p5"></div>玩家3：</td>
+                  <div class="p5">玩家3：</div></td>
                 <td class="tc6" width="35%">馬拉泰斯塔僱傭軍團(水藍色) 條頓</td>
               </tr>
               <tr>
@@ -54,18 +53,16 @@
               </tr>
               <tr>
                 <tr>
-                  <td class="tc6" width="15%" "><div class="p2
-                  "></div>玩家4：</td>    <td class="tc6 " width="35% ">佛羅倫薩人(紅色) 義大利 中立   </td> <td class="tc6 " width="15%
+                  <td class="tc6" width="15%" "><div class="p2">玩家4：</div></td>    <td class="tc6 " width="35% ">佛羅倫薩人(紅色) 義大利 中立   </td> <td class="tc6 " width="15%
                   "">
-                    <div class="p6"></div>玩家5：</td>
+                    <div class="p6">玩家5：</div></td>
                   <td class="tc6" width="35%">威尼斯(紫色) 義大利 中立</td>
                 </tr>
                 <tr>
-                  <td class="tc6" width="15%" "><div class="p8
-                  "></div>玩家6：</td>    <td class="tc6 " width="35%
+                  <td class="tc6" width="15%" "><div class="p8">玩家6：</div></td>    <td class="tc6 " width="35%
                   ">卡馬尼奧拉僱傭軍團(橘色) 西班牙  中立</td> </tr>    <tr>     <td class="tc4 " colspan="4 " style="background:#ea6153;
                   ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 " width="15% "">
-                    <div class="p7"></div>玩家7：</td>
+                    <div class="p7">玩家7：</div></td>
                   <td class="tc6" width="35%">土匪(灰色) 義大利 敵對</td>
                 </tr>
               </tr>

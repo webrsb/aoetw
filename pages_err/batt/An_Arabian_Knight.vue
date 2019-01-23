@@ -35,18 +35,17 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家1：</td>
+                  <div class="p3">玩家1：</div></td>
                 <td class="tc6" colspan="3">薩拉森人（綠色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p2
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">埃及人（紅色）薩拉森 </td></tr>  <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p2">玩家2：</div></td>  <td class="tc6 " width="35% ">埃及人（紅色）薩拉森 </td></tr>  <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153; ">敵對</td>  </tr><tr>    <td class="tc6
-                "><div class="p1 "></div>玩家3：</td>    <td class="tc6
-                ">西法蘭克人（藍色）法蘭克 </td>    <td class="tc6 "><div class="p5 "></div>玩家4：</td>    <td class="tc6
+                "><div class="p1">玩家3：</div></td>    <td class="tc6
+                ">西法蘭克人（藍色）法蘭克 </td>    <td class="tc6 "><div class="p5">玩家4：</div></td>    <td class="tc6
                 ">東法蘭克人（藍綠色）法蘭克 </td>  </tr></table><br/><dl class="dl-horizontal
                 ">   <dt>開場：</dt>   <dd>16位輕騎兵、12位駱駝騎兵、2位阿拉伯奴隸兵、12位裝甲步兵、2台重型弩砲。</dd>   <dt>大地之母單位：</dt>  <dd>2位駱駝騎兵、6位馬弓騎兵，1艘火炮戰船，1台重型衝撞車</dd></dl>  <h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol>    <li>讓你的士兵到開羅的清真寺。</li>    <li>打敗在開羅的西法蘭克人。</li>    <li>要打敗開羅的西法蘭克人，可先破壞他們的城鎮中心。</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

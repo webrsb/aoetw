@@ -37,20 +37,19 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家1：</td>
+                  <div class="p3">玩家1：</div></td>
                 <td class="tc6" colspan="3">緬甸人（綠色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p5
-                "></div>玩家5：</td>  <td class="tc6 " width="35% ">葡萄牙人（水藍）葡萄牙 </td></tr> <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p5">玩家5：</div></td>  <td class="tc6 " width="35% ">葡萄牙人（水藍）葡萄牙 </td></tr> <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153; ">敵對</td>  </tr><tr><tr>    <td class="tc6
-                "><div class="p1 "></div>玩家2：</td>    <td class="tc6
-                ">卑謬國（藍色）印度 </td>    <td class="tc6 "><div class="p2 "></div>玩家3：</td>    <td class="tc6
-                ">白古國（紅色）高棉 </td>  </tr><tr>  <td class="tc6 "><div class="p4 "></div>玩家4：</td>    <td class="tc6
-                ">撣族人（黃色）中國 </td>    <td class="tc6 "><div class="p2 "></div>玩家6：</td>    <td class="tc6
+                "><div class="p1">玩家2：</div></td>    <td class="tc6
+                ">卑謬國（藍色）印度 </td>    <td class="tc6 "><div class="p2">玩家3：</div></td>    <td class="tc6
+                ">白古國（紅色）高棉 </td>  </tr><tr>  <td class="tc6 "><div class="p4">玩家4：</div></td>    <td class="tc6
+                ">撣族人（黃色）中國 </td>    <td class="tc6 "><div class="p2">玩家6：</div></td>    <td class="tc6
                 ">白古國（紅色）高棉 </td></tr></table><h3>開場</h3><p> 。 英雄 - 勃印曩x1、德彬瑞蒂國王x1、卑謬總督x1<p> 。 軍事單位 - 矛象伕x5、飛鏢騎兵x5<p> 。 經濟單位 - 村民x4。</p><p> 。 大地之母單位 - <p>東吁勇士x12、飛鏢騎兵x7、僧侶x2、中型投石車x1、巨型投石機x1</p>  <h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol>    <li>殺死白古國王多迦耶畢(形象為東南亞國王)</li>    <li>攻下卑謬國的紀念碑</li>  </ol><h2>次要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol>    <li>在五分鐘內殺死多迦耶畢</li></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

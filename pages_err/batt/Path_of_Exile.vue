@@ -20,7 +20,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p3"></div>玩家1：</td>
+                <div class="p3">玩家1：</div></td>
               <td class="tc6" colspan="3">衣索比亞（綠色）</td>
             </tr>
             <tr>
@@ -28,7 +28,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4"></div>玩家2：</td>
+                <div class="p4">玩家2：</div></td>
               <td class="tc6">阿克蘇姆(黃色)衣索比亞</td>
                 
             </tr>
@@ -38,18 +38,18 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2"></div>玩家3：</td>
+                <div class="p2">玩家3：</div></td>
               <td class="tc6">極大汗(紅色)衣索比亞</td>
              <td class="tc6">
-                <div class="p5"></div>玩家4：</td>
+                <div class="p5">玩家4：</div></td>
               <td class="tc6">山中守衛(淡藍色)衣索比亞</td>
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p6"></div>玩家5：</td>
+                <div class="p6">玩家5：</div></td>
               <td class="tc6">河流守衛(紫色)薩拉森</td>
               <td class="tc6">
-                <div class="p8"></div>玩家6：</td>
+                <div class="p8">玩家6：</div></td>
               <td class="tc6">林中守衛(橘色)衣索比亞</td>
             </tr>
             

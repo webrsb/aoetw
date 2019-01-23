@@ -40,30 +40,27 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：義大利人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p8
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">卡馬尼奧拉的營地(橘色) 義大利  </td>   <td class="tc6 " width="15%
+                <td class="tc6" width="15%" "><div class="p8">玩家2：</div></td>  <td class="tc6 " width="35% ">卡馬尼奧拉的營地(橘色) 義大利  </td>   <td class="tc6 " width="15%
                 "">
-                  <div class="p1"></div>玩家4：</td>
+                  <div class="p1">玩家4：</div></td>
                 <td class="tc6" width="35%">斯福爾扎的間諜(藍色) 義大利</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p4
-                "></div>玩家5：</td>  <td class="tc6 " width="35% ">米蘭公國(黃色) 義大利  </td> </tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p4">玩家5：</div></td>  <td class="tc6 " width="35% ">米蘭公國(黃色) 義大利  </td> </tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 " width="15% "">
-                  <div class="p8"></div>玩家3：</td>
+                  <div class="p8">玩家3：</div></td>
                 <td class="tc6" width="35%">卡馬尼奧拉的衛軍(橘色) 西班牙 敵對</td>
-                <td class="tc6" width="15%" "><div class="p6
-                "></div>玩家6：</td>    <td class="tc6 " width="35%
+                <td class="tc6" width="15%" "><div class="p6">玩家6：</div></td>    <td class="tc6 " width="35%
                 ">威尼斯海軍(紫色) 拜占庭  敵對 </td>   </tr>  <tr>    <td class="tc6 " width="15% "">
-                  <div class="p6"></div>玩家7：</td>
+                  <div class="p6">玩家7：</div></td>
                 <td class="tc6" width="35%">威尼斯主艦隊(紫色) 義大利 敵對</td>
               </tr>
               </tr>

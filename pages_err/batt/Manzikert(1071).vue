@@ -39,26 +39,26 @@
      <td class="tc4" colspan="4" style="background: #ea6153;">玩家本身</td>
   </tr>
   <tr>
-    <td class="tc6"><div class="p6"></div>玩家1：</td>
+    <td class="tc6"><div class="p6">玩家1：</div></td>
     <td class="tc6" colspan="3">土耳其（紫色）</td>
   </tr>
 <tr>
     <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
   </tr>
 <tr>
-    <td class="tc6"><div class="p2"></div>玩家2：</td>
+    <td class="tc6"><div class="p2">玩家2：</div></td>
     <td class="tc6">卡帕多細亞（紅色）拜占庭 </td>
-    <td class="tc6"><div class="p3"></div>玩家3：</td>
+    <td class="tc6"><div class="p3">玩家3：</div></td>
     <td class="tc6">西迪亞（綠色）拜占庭 </td>
      </tr>
      <tr>
-  <td class="tc6"><div class="p4"></div>玩家4：</td>
+  <td class="tc6"><div class="p4">玩家4：</div></td>
     <td class="tc6">格雷西亞（黃色）拜占庭 </td>
-     <td class="tc6"><div class="p1"></div>玩家5：</td>
+     <td class="tc6"><div class="p1">玩家5：</div></td>
     <td class="tc6">拜占庭軍隊（藍色）拜占庭</td>
     </tr>
 <tr>
-    <td class="tc6"><div class="p5"></div>玩家5：</td>
+    <td class="tc6"><div class="p5">玩家5：</div></td>
     <td class="tc6">薩拉森人（水藍色）薩拉森</td>
 </tr>
 </tr>

@@ -35,22 +35,21 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p4"></div>玩家1：</td>
+                  <div class="p4">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：匈奴人（黃色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p8
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">西徐亞人（橘色）蒙古 </td>    </tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p8">玩家2：</div></td>  <td class="tc6 " width="35% ">西徐亞人（橘色）蒙古 </td>    </tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
-                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2 "></div>玩家2：</td>    <td class="tc6
-                ">索非亞（紅色）法蘭克 </td>    <td class="tc6 "><div class="p3 "></div>玩家3：</td>    <td class="tc6
-                ">奈沙（綠色）哥德   </td>  </tr>  <tr>    <td class="tc6 "><div class="p7 "></div>玩家4：</td>    <td class="tc6
-                ">亞得里亞堡（灰色）拜占庭  </td>    <td class="tc6 "><div class="p5 "></div>玩家5：</td>    <td class="tc6
-                ">第爾哈群（藍綠色）條頓  </td>  </tr>  <tr>    <td class="tc6 "><div class="p6 "></div>玩家6：</td>    <td class="tc6
-                ">底斯索隆尼卡（紫色）拜占庭  </td>    <td class="tc6 "><div class="p1 "></div>玩家7：</td>    <td class="tc6
+                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p2">玩家2：</div></td>    <td class="tc6
+                ">索非亞（紅色）法蘭克 </td>    <td class="tc6 "><div class="p3">玩家3：</div></td>    <td class="tc6
+                ">奈沙（綠色）哥德   </td>  </tr>  <tr>    <td class="tc6 "><div class="p7">玩家4：</div></td>    <td class="tc6
+                ">亞得里亞堡（灰色）拜占庭  </td>    <td class="tc6 "><div class="p5">玩家5：</div></td>    <td class="tc6
+                ">第爾哈群（藍綠色）條頓  </td>  </tr>  <tr>    <td class="tc6 "><div class="p6">玩家6：</div></td>    <td class="tc6
+                ">底斯索隆尼卡（紫色）拜占庭  </td>    <td class="tc6 "><div class="p1">玩家7：</div></td>    <td class="tc6
                 ">東羅馬帝國（藍色）拜占庭  </td>  </tr>       </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>12位韃靼騎兵、8位馬騎弓兵。</dd>  <dt>大地之母單位:</dt>   <dd>14隻獵狼，12位炸藥桶，5位韃靼騎兵，2位匈牙利輕騎兵。</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>掠奪這個羅馬的村落。</li>當你有足夠的資源去建立一個基地的時候，你就可以生產軍隊來對抗羅馬人。</li><li>訓練軍隊來剷平羅馬人的市鎮中心，以擊敗他們。</li>  </ol></div></div><h2>次要目標</h2><div class="hrn1 "></div><div class="n1

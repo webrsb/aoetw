@@ -38,27 +38,27 @@
      <td class="tc4" colspan="4" style="background: #ea6153;">玩家本身</td>
   </tr>
   <tr>
-    <td class="tc6"><div class="p1"></div>玩家1：</td>
+    <td class="tc6"><div class="p1">玩家1：</div></td>
     <td class="tc6" colspan="3">法蘭克（藍色）</td>
   </tr>
 <tr>
      <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
   </tr>
 <tr>
-    <td class="tc6" width="15%"><div class="p5"></div>玩家2：</td>
+    <td class="tc6" width="15%"><div class="p5">玩家2：</div></td>
     <td class="tc6" width="35%">哈拉爾.哈德拉達(水藍色)維京</td>
   </tr>
 <tr>
     <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
   </tr>
 <tr>
-    <td class="tc6"><div class="p2"></div>玩家3：</td>
+    <td class="tc6"><div class="p2">玩家3：</div></td>
     <td class="tc6">撒克遜海軍（紅色）哥德  </td>
-    <td class="tc6"><div class="p8"></div>玩家4：</td>
+    <td class="tc6"><div class="p8">玩家4：</div></td>
     <td class="tc6">撒克遜人哈樂德 （橘色）哥德</td>
   
      </tr>
-<tr><td class="tc6"><div class="p4"></div>玩家5：</td>
+<tr><td class="tc6"><div class="p4">玩家5：</div></td>
     <td class="tc6">哈樂德的偷襲部隊（黃色）哥德  </td>
 <tr>
  

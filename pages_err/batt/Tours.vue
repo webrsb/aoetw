@@ -37,7 +37,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家1：</td>
+                  <div class="p2">玩家1：</div></td>
                 <td class="tc6" colspan="3">法蘭克（紅色）</td>
               </tr>
               </tr>
@@ -46,10 +46,10 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p4"></div>玩家2：</td>
+                  <div class="p4">玩家2：</div></td>
                 <td class="tc6">柏柏人（黃色）土耳其</td>
                 <td class="tc6">
-                  <div class="p3"></div>玩家3：</td>
+                  <div class="p3">玩家3：</div></td>
                 <td class="tc6">摩爾人（綠色）薩拉森</td>
               </tr>
               <tr></tr>

@@ -37,23 +37,20 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p4"></div>玩家1：</td>
+                  <div class="p4">玩家1：</div></td>
                 <td class="tc6" colspan="3">越南人（黃色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p3
-                "></div>玩家3：</td>  <td class="tc6 " width="35% ">大越百姓（綠色）越南 </td></tr>
-<tr><td class="tc6 "><div class="p2
-                "></div>玩家4：</td>    <td class="tc6 ">鄭家莊（紅色）越南 </td>  <td class="tc6 "><div class="p8
-                "></div>玩家5：</td>    <td class="tc6 ">阮家莊（橘色）越南 </td></tr> <tr>     <td class="tc4 " colspan="4
+                <td class="tc6" width="15%" "><div class="p3">玩家3：</div></td>  <td class="tc6 " width="35% ">大越百姓（綠色）越南 </td></tr>
+<tr><td class="tc6 "><div class="p2">玩家4：</div></td>    <td class="tc6 ">鄭家莊（紅色）越南 </td>  <td class="tc6 "><div class="p8">玩家5：</div></td>    <td class="tc6 ">阮家莊（橘色）越南 </td></tr> <tr>     <td class="tc4 " colspan="4
                 " style="background:#ea6153; ">敵對</td>  </tr><tr><tr>    <td class="tc6
-                "><div class="p1 "></div>玩家2：</td>    <td class="tc6
-                ">明朝軍隊（藍色）中國 </td>    <td class="tc6 "><div class="p6 "></div>玩家6：</td>    <td class="tc6
-                ">馬來海盜（紫色）馬來 </td>  </tr><tr>  <td class="tc6 "><div class="p5 "></div>玩家7：</td>    <td class="tc6
-                ">明朝巡邏隊（水藍）中國 </td>    <td class="tc6 "><div class="p1 "></div>玩家8：</td>    <td class="tc6
+                "><div class="p1">玩家2：</div></td>    <td class="tc6
+                ">明朝軍隊（藍色）中國 </td>    <td class="tc6 "><div class="p6">玩家6：</div></td>    <td class="tc6
+                ">馬來海盜（紫色）馬來 </td>  </tr><tr>  <td class="tc6 "><div class="p5">玩家7：</div></td>    <td class="tc6
+                ">明朝巡邏隊（水藍）中國 </td>    <td class="tc6 "><div class="p1">玩家8：</div></td>    <td class="tc6
                 ">明朝軍隊（藍色）中國 </td></tr></table><h3>開場</h3><p> 。 英雄 - 黎利x1、<p> 。 軍事單位 - 斥候騎兵x1、矛象伕x3、藤甲弓兵x4、弓兵x4、長槍兵x4<p> 。 經濟單位 - 村民x7。</p><p> 。 大地之母單位 - 水牛x4</p>  <h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol>    <li>摧毀地圖上標記的五座村莊裡的明朝箭塔，這樣就可以解救那裏的大越村民。</li>    <li>鄭家莊和阮家莊是兩個勢力強大的大越家族，他們會支持你的義軍，傾全力抵禦明朝軍隊。不過他們同時也需要你的幫助，若是他們之中有一家落入敵手的話，你也會宣告失敗。</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1
                 "><ul>  <li>由於你現在只有一支以游擊為主的起義軍，你的人口上限為100，也無法升級到帝王時代。</li><li>你一開始沒有城鎮中心，所以在安營紮寨之前最好觀察周圍的資源和環境來選擇一個比較好的地點作為大本營。</li><li>明朝在這片地區住紮了大量軍營，你最好不要去以卵擊石。</li><li>大越的特殊單位藤甲弓手很擅長對抗明軍的諸葛弩手。</li><li>當你進入敵佔區的時候要小心謹慎，提防被散佈四處的明軍巡邏隊發現。</li></ul></div><h2>斥侯</h2><div class="hrn1 "></div><div class="n1

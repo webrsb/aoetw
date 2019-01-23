@@ -35,24 +35,19 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：拜占庭 （藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p2
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">巴里（紅色）薩拉森 </td>    <td class="tc6 "><div class="p4
-                "></div>玩家3：</td>    <td class="tc6 ">拜占庭帝國（黃色）拜占庭   </td></tr>
-<tr><td class="tc6 "><div class="p8
-                "></div>玩家5：</td>    <td class="tc6 ">路易士大帝（橘色）法蘭克   </td>    <td class="tc6 "><div class="p5
-                "></div>玩家7：</td>    <td class="tc6 ">奧里亞（水藍色）義大利   </td> </tr>
-<tr><td class="tc6 "><div class="p7
-                "></div>玩家8：</td>    <td class="tc6 ">巴倫第人（灰色）哥德   </td>    <tr>     <td class="tc4 " colspan="4
+                <td class="tc6" width="15%" "><div class="p2">玩家2：</div></td>  <td class="tc6 " width="35% ">巴里（紅色）薩拉森 </td>    <td class="tc6 "><div class="p4">玩家3：</div></td>    <td class="tc6 ">拜占庭帝國（黃色）拜占庭   </td></tr>
+<tr><td class="tc6 "><div class="p8">玩家5：</div></td>    <td class="tc6 ">路易士大帝（橘色）法蘭克   </td>    <td class="tc6 "><div class="p5">玩家7：</div></td>    <td class="tc6 ">奧里亞（水藍色）義大利   </td> </tr>
+<tr><td class="tc6 "><div class="p7">玩家8：</div></td>    <td class="tc6 ">巴倫第人（灰色）哥德   </td>    <tr>     <td class="tc4 " colspan="4
                 " style="background:#ea6153; ">敵對</td>  </tr><tr>  <tr>    <td class="tc6
-                "><div class="p3 "></div>玩家4：</td>    <td class="tc6
-                ">巴里王朝（綠色）薩拉森 </td>    <td class="tc6 "><div class="p6 "></div>玩家6：</td>    <td class="tc6
+                "><div class="p3">玩家4：</div></td>    <td class="tc6
+                ">巴里王朝（綠色）薩拉森 </td>    <td class="tc6 "><div class="p6">玩家6：</div></td>    <td class="tc6
                 ">馬泰拉（紫色）義大利   </td>  </tr>  </tr>       </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>帕尼奧斯.諾蒂卡斯，2位戟兵</dd>  <dt>大地之母單位:</dt>   <dd>10位拜占庭聖騎兵，10位雙手劍兵，3位戟兵，5位強弩兵，5位重裝馬騎弓兵，1台攻城塔，1台重型衝撞車，10艘戰船，5艘火戰船，5艘精銳維京大戰船。</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>帕尼奧斯必須存活下來。</li> <li>調出所有在路易士二世營地的拜占庭單位並按編隊部署，因為路易士（橘色騎士）想對單位發表講話。當所有將士集合待命後，點擊路易士二世（橙色的騎士）。</li><li>帶領信使（只是信使）到馬泰拉的城門開出招降的條件。如果馬泰拉人看見其他的軍隊，他們會認為你在發動進攻。</li>    <li>洗劫馬泰拉，摧毀他們除房屋之外所有的建築。</li>    <li>帶帕尼奧斯到路易士那兒，路易士就在馬泰拉毀壞的城門外等待。選擇國王與他談話。</li>    <li>走馬泰拉東邊的路前往奧裡亞。殺死所有城裡的敵軍解放奧裡亞。</li>　　<li>突襲西南的村莊，殺死你看見的每一個阿拉伯騎兵。搜查整個區域並清理所有道路。一旦你殺死所有人，回去向奧裡亞國王覆命。</li>　　<li>帶帕尼奧斯回到路易士的營地，向奧裡亞國王覆命以及接受新的任務。</li>　　<li>航至巴里港口，摧毀所有的碼頭，船艦和塔，切斷敵人所有的供給。儘量不要損失運輸船，因為你日後會需要他們。一旦做完，回到路易士那裡。</li>　　<li>去奧裡亞城堡，那裡有工兵在等待你</li>　　<li>帶工兵去城牆的薄弱點那裡。</li>　　<li>帕尼奧斯的人破壞了巴里的城牆。巴里人是基督徒所以對你不敵對，但是你必須打敗駐城的阿拉伯軍隊，方能征服巴里(攻佔酋長國巴里)</li>　　<li>帶路易士去巴里城堡。 注意: 既然城已淪陷，碼頭港口也任由我們進出了。</li>　　<li>帶帕尼奧斯去面見東部拜占庭營地的將軍。</li>　　<li>摧毀鎮守巴里城的五座城堡，讓拜占庭能吞併這座城池。</li>  </ol></div></div><h2>次要目標</h2><div class="hrn1 "></div><div class="n1

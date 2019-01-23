@@ -37,7 +37,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p4"></div>玩家1：</td>
+                  <div class="p4">玩家1：</div></td>
                 <td class="tc6" colspan="3">越南人（黃色）</td>
               </tr>
               <tr>
@@ -45,10 +45,10 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家3：</td>
+                  <div class="p3">玩家3：</div></td>
                 <td class="tc6">黎來將軍（綠色）越南</td>
                 <td class="tc6">
-                  <div class="p8"></div>玩家5：</td>
+                  <div class="p8">玩家5：</div></td>
                 <td class="tc6">大越義軍（橘色）越南</td>
               </tr>
               <tr>
@@ -57,10 +57,10 @@
               <tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p1"></div>玩家2：</td>
+                    <div class="p1">玩家2：</div></td>
                   <td class="tc6">明朝軍隊（藍色）中國</td>
                   <td class="tc6">
-                    <div class="p5"></div>玩家4：</td>
+                    <div class="p5">玩家4：</div></td>
                   <td class="tc6">明朝軍隊（水藍）中國</td>
                 </tr>
             </table>

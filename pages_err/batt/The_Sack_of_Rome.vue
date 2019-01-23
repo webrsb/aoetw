@@ -35,27 +35,24 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：哥德人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p2
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">羅馬(紅色)義大利 </td>   <td class="tc6 " width="15% "">
-                  <div class="p3"></div>玩家3：</td>
+                <td class="tc6" width="15%" "><div class="p2">玩家2：</div></td>  <td class="tc6 " width="35% ">羅馬(紅色)義大利 </td>   <td class="tc6 " width="15% "">
+                  <div class="p3">玩家3：</div></td>
                 <td class="tc6" width="35%">哥德人(綠色) 哥德</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p5
-                "></div>玩家5：</td>  <td class="tc6 " width="35% ">阿陶爾夫(水藍色) 哥德 </td> </tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p5">玩家5：</div></td>  <td class="tc6 " width="35% ">阿陶爾夫(水藍色) 哥德 </td> </tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 " width="15% "">
-                  <div class="p4"></div>玩家4：</td>
+                  <div class="p4">玩家4：</div></td>
                 <td class="tc6" width="35%">守城將士(黃色)義大利 敵對</td>
-                <td class="tc6" width="15%" "><div class="p6
-                "></div>玩家6：</td>    <td class="tc6 " width="35%
+                <td class="tc6" width="15%" "><div class="p6">玩家6：</div></td>    <td class="tc6 " width="35%
                 ">帝國軍團(紫色)義大利  敵對 </td>   </tr>    </tr>     </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>8位騎士，8位哥德衛隊，1台輕型衝撞車。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>阿拉里克必須存活。</li><li>去東邊和阿陶爾夫的手下會面</li><li>阿拉里克要安全的到達北邊的村莊</li><li>帶阿拉里克到拉文納的海港</li><li>帶阿拉里克到拉文納的皇宮</li><li>帶阿拉里克的南部的義大利小鎮</li><li>摧毀薩魯斯的防禦工事</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

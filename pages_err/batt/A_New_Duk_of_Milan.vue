@@ -36,26 +36,23 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：義大利人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p6
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">威尼斯人(紫色) 義大利 </td></tr>     <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p6">玩家2：</div></td>  <td class="tc6 " width="35% ">威尼斯人(紫色) 義大利 </td></tr>     <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
                 ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 " width="15% "">
-                  <div class="p4"></div>玩家3：</td>
+                  <div class="p4">玩家3：</div></td>
                 <td class="tc6" width="35%">米蘭城(黃色) 義大利 敵對</td>
-                <td class="tc6" width="15%" "><div class="p3
-                "></div>玩家4：</td>    <td class="tc6 " width="35% ">米蘭軍隊(綠色) 義大利 敵對 </td>   </tr>  <tr>    <td class="tc6
+                <td class="tc6" width="15%" "><div class="p3">玩家4：</div></td>    <td class="tc6 " width="35% ">米蘭軍隊(綠色) 義大利 敵對 </td>   </tr>  <tr>    <td class="tc6
                 " width="15% "">
-                  <div class="p7"></div>玩家5：</td>
+                  <div class="p7">玩家5：</div></td>
                 <td class="tc6" width="35%">米蘭村莊(灰色) 義大利 敵對</td>
-                <td class="tc6" width="15%" "><div class="p2
-                "></div>玩家6：</td>    <td class="tc6 " width="35%
+                <td class="tc6" width="15%" "><div class="p2">玩家6：</div></td>    <td class="tc6 " width="35%
                 ">阿比亞泰格拉索(紅色) 法蘭克 </td>   </tr>  </tr>     </table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>法蘭切斯科.斯福爾扎，1位弗朗切斯科.斯福爾扎，1位輕騎兵，4位騎士，5位重裝長槍兵，8位熱那亞弩手，3位村民。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol><li>法蘭切斯科.斯福爾扎必須存活。</li><li>包圍米蘭直到他們斷絕食物。</li><li>尋找重要的攻擊點，然後切斷米蘭的供給資源。</li><li>要在威尼斯的進攻中堅持下來直到米蘭人投降。</li><li>帶斯福爾扎到米蘭城堡。</li>  </ol><h2>次要任務</h2><div class="hrn1 "></div><div class="n1

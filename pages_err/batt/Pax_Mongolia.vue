@@ -35,7 +35,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p8"></div>玩家1：</td>
+                  <div class="p8">玩家1：</div></td>
                 <td class="tc6" colspan="3">蒙古人（橘色）</td>
               </tr>
               <tr>
@@ -44,7 +44,7 @@
               <tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p6"></div>玩家2：</td>
+                    <div class="p6">玩家2：</div></td>
                   <td class="tc6">匈牙利（紫色）條頓</td>
                 </tr>
             </table>

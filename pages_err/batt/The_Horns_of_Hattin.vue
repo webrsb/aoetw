@@ -35,7 +35,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p3"></div>玩家1：</td>
+                  <div class="p3">玩家1：</div></td>
                 <td class="tc6" colspan="3">薩拉森人（綠色）</td>
               </tr>
               <tr>
@@ -43,18 +43,18 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家2：</td>
+                  <div class="p2">玩家2：</div></td>
                 <td class="tc6">英國 （紅色）不列顛</td>
                 <td class="tc6">
-                  <div class="p1"></div>玩家3：</td>
+                  <div class="p1">玩家3：</div></td>
                 <td class="tc6">耶路撒冷（藍色）拜占庭</td>
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p4"></div>玩家4：</td>
+                  <div class="p4">玩家4：</div></td>
                 <td class="tc6">聖殿騎士（黃色）條頓 敵對</td>
                 <td class="tc6">
-                  <div class="p8"></div>玩家5：</td>
+                  <div class="p8">玩家5：</div></td>
                 <td class="tc6">救傷團（橘色）條頓</td>
               </tr>
             </table>

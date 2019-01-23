@@ -21,7 +21,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p2"></div>玩家1：</td>
+                <div class="p2">玩家1：</div></td>
               <td class="tc6" colspan="3">馬札爾（紅色）</td>
             </tr>
             <tr>
@@ -29,15 +29,15 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p4"></div>玩家2：</td>
+                <div class="p4">玩家2：</div></td>
               <td class="tc6">川西凡尼亞土著(黃色)土耳其</td>
               <td class="tc6">
-                <div class="p7"></div>玩家3：</td>
+                <div class="p7">玩家3：</div></td>
               <td class="tc6">瓦拉幾亞土著(灰色)馬札爾</td>
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p8"></div>玩家4：</td>
+                <div class="p8">玩家4：</div></td>
               <td class="tc6">摩爾達維亞(橙色)斯拉夫</td>
             </tr>
             <tr>
@@ -45,7 +45,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p3"></div>玩家5：</td>
+                <div class="p3">玩家5：</div></td>
               <td class="tc6">匈牙利(綠色)馬札爾</td>
             </tr>
             <tr>
@@ -53,7 +53,7 @@
             </tr>
             <tr>
               <td class="tc6">
-                <div class="p6"></div>玩家6：</td>
+                <div class="p6">玩家6：</div></td>
               <td class="tc6">奧特曼帝國(紫色)土耳其</td>
             </tr>
             <tr>

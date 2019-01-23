@@ -37,30 +37,27 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：義大利人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p2
-                "></div>玩家2：</td>  <td class="tc6 " width="35% ">村莊(紅色) 義大利  </td>   <td class="tc6 " width="15% "">
-                  <div class="p4"></div>玩家4：</td>
+                <td class="tc6" width="15%" "><div class="p2">玩家2：</div></td>  <td class="tc6 " width="35% ">村莊(紅色) 義大利  </td>   <td class="tc6 " width="15% "">
+                  <div class="p4">玩家4：</div></td>
                 <td class="tc6" width="35%">約翰尼斯將軍(黃色) 法蘭克</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p5
-                "></div>玩家5：</td>  <td class="tc6 " width="35% ">伯恩托摩將軍(水藍色) 義大利  </td>   <td class="tc6 " width="15%
+                <td class="tc6" width="15%" "><div class="p5">玩家5：</div></td>  <td class="tc6 " width="35% ">伯恩托摩將軍(水藍色) 義大利  </td>   <td class="tc6 " width="15%
                 "">
-                  <div class="p6"></div>玩家6：</td>
+                  <div class="p6">玩家6：</div></td>
                 <td class="tc6" width="35%">路易蓋希將軍(紫色) 義大利</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p7
-                "></div>玩家7：</td>  <td class="tc6 " width="35% ">馬爾塞洛將軍(灰色) 義大利  </td>   <td class="tc6 " width="15%
+                <td class="tc6" width="15%" "><div class="p7">玩家7：</div></td>  <td class="tc6 " width="35% ">馬爾塞洛將軍(灰色) 義大利  </td>   <td class="tc6 " width="15%
                 "">
-                  <div class="p8"></div>玩家8：</td>
+                  <div class="p8">玩家8：</div></td>
                 <td class="tc6" width="35%">吉他諾將軍(橘色) 義大利</td>
               </tr>
               <tr>
@@ -68,8 +65,7 @@
               </tr>
               <tr>
                 <tr>
-                  <td class="tc6" width="15%" "><div class="p3
-                  "></div>玩家3：</td>    <td class="tc6 " width="35%
+                  <td class="tc6" width="15%" "><div class="p3">玩家3：</div></td>    <td class="tc6 " width="35%
                   ">突襲者(綠色) 法蘭克  敵對 </td>   </tr>    </tr>     </table><br/>  <dl class="dl-horizontal
                   ">  <dt>開場單位:</dt>  <dd>法蘭切斯科.斯福爾扎，10位義大利傭兵。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                   ">  <ol><li>說服所有將軍再次加入。</li><li>殺死約翰尼斯的營地西邊的匪首然後帶回殺死他的證據。</li><li>找一個僧侶然後帶他去伯恩托摩的堡壘，僧侶必須活下去。</li><li>找到5輛廢棄的貨物車，把能用的輪子帶回給路易蓋希。</li><li>給吉他諾的馬帶回乾淨的水。</li><li>找到6堆乾草給馬爾塞洛的馬。</li><li>摧毀西邊的卡馬尼奧拉城堡。</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

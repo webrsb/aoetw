@@ -37,7 +37,7 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家1：</td>
+                  <div class="p2">玩家1：</div></td>
                 <td class="tc6" colspan="3">馬來人（紅色）</td>
               </tr>
               <tr>
@@ -45,18 +45,18 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p5"></div>玩家5：</td>
+                  <div class="p5">玩家5：</div></td>
                 <td class="tc6">滿者伯夷移民（淺藍）馬來</td>
                 <td class="tc6">
-                  <div class="p6"></div>玩家6：</td>
+                  <div class="p6">玩家6：</div></td>
                 <td class="tc6">滿者伯夷移民（紫色）馬來</td>
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p7"></div>玩家7：</td>
+                  <div class="p7">玩家7：</div></td>
                 <td class="tc6">滿者伯夷移民（灰色）馬來</td>
                 <td class="tc6">
-                  <div class="p8"></div>玩家8：</td>
+                  <div class="p8">玩家8：</div></td>
                 <td class="tc6">滿者伯夷移民（橘色）馬來</td>
               </tr>
               <tr>
@@ -65,15 +65,15 @@
               <tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p4"></div>玩家2：</td>
+                    <div class="p4">玩家2：</div></td>
                   <td class="tc6">巽他王國（黃色）馬來</td>
                   <td class="tc6">
-                    <div class="p3"></div>玩家3：</td>
+                    <div class="p3">玩家3：</div></td>
                   <td class="tc6">達爾馬斯拉亞國（綠色）高棉</td>
                 </tr>
                 <tr>
                   <td class="tc6">
-                    <div class="p1"></div>玩家4：</td>
+                    <div class="p1">玩家4：</div></td>
                   <td class="tc6">淡馬錫（藍色）馬來</td>
                 </tr>
             </table>

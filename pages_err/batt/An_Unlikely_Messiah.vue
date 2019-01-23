@@ -37,20 +37,19 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p1"></div>玩家1：</td>
+                  <div class="p1">玩家1：</div></td>
                 <td class="tc6" colspan="3">法蘭克人（藍色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p8
-                "></div>玩家4：</td>  <td class="tc6 " width="35% ">齊儂（橘色）法蘭克 </td>    <td class="tc6 " width="15%
-                "><div class="p4 "></div>玩家5：</td>  <td class="tc6 " width="35%
+                <td class="tc6" width="15%" "><div class="p8">玩家4：</div></td>  <td class="tc6 " width="35% ">齊儂（橘色）法蘭克 </td>    <td class="tc6 " width="15%
+                "><div class="p4">玩家5：</div></td>  <td class="tc6 " width="35%
                 " >法國的軍隊（黃色）法蘭克 </td></tr>  <tr>     <td class="tc4 " colspan="4 " style="background:#ea6153;
-                ">敵對</td>  </tr><tr><tr>    <td class="tc6 "><div class="p6 "></div>玩家2：</td>    <td class="tc6
-                ">勃根地（紫色）法蘭克 </td>    <td class="tc6 "><div class="p3 "></div>玩家3：</td>    <td class="tc6
-                ">強盜（綠色）法蘭克 </td>  </tr><tr>  <td class="tc6 "><div class="p2 "></div>玩家6：</td>    <td class="tc6
+                ">敵對</td>  </tr><tr><tr>    <td class="tc6 "><div class="p6">玩家2：</div></td>    <td class="tc6
+                ">勃根地（紫色）法蘭克 </td>    <td class="tc6 "><div class="p3">玩家3：</div></td>    <td class="tc6
+                ">強盜（綠色）法蘭克 </td>  </tr><tr>  <td class="tc6 "><div class="p2">玩家6：</div></td>    <td class="tc6
                 ">英國（紅色） 不列顛 </td></tr></table><br/><dl class="dl-horizontal ">   <dt>開場：</dt>   <dd>   <img class="gg "  src="~assets/Joanthemaidicon.png
                 " alt=" "><a href="Joan_the_Maid.php ">農家女貞德</a><br/>   <img class="gg
                 "  src="~assets/Sieurbertrand.png " alt=" "><a href="Sieur_Bertrand.php

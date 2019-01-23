@@ -36,23 +36,21 @@
               </tr>
               <tr>
                 <td class="tc6">
-                  <div class="p2"></div>玩家1：</td>
+                  <div class="p2">玩家1：</div></td>
                 <td class="tc6" colspan="3">玩家1：條頓人（紅色）</td>
               </tr>
               <tr>
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p3
-                "></div>玩家3：</td>  <td class="tc6 " width="35% ">巴伐利亞（綠色）條頓  </td>  <td class="tc6 " width="15% "">
-                  <div class="p4"></div>玩家4：</td>
+                <td class="tc6" width="15%" "><div class="p3">玩家3：</div></td>  <td class="tc6 " width="35% ">巴伐利亞（綠色）條頓  </td>  <td class="tc6 " width="15% "">
+                  <div class="p4">玩家4：</div></td>
                 <td class="tc6" width="35%">薩克森（黃色）條頓</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p8
-                "></div>玩家5：</td>  <td class="tc6 " width="35% ">猛獅亨利（橘色）條頓 </td></tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%" "><div class="p8">玩家5：</div></td>  <td class="tc6 " width="35% ">猛獅亨利（橘色）條頓 </td></tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
-                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p1 "></div>玩家2：</td>    <td class="tc6
+                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p1">玩家2：</div></td>    <td class="tc6
                 ">波蘭（藍色）哥德 </td>  </tr></table><br/>  <dl class="dl-horizontal
                 ">  <dt>開場單位:</dt>  <dd>1位輕騎兵、6位騎士、10位重裝長槍兵、6位弩兵。</dd>  <dt>大地之母單位:</dt>   <dd>無</dd></dl><h2>主要任務</h2><div class="hrn1 "></div><div class="n1
                 ">  <ol>    <li>擊敗波蘭，擊敗猛獅亨利。</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1

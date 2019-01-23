@@ -40,14 +40,14 @@
      <td class="tc4" colspan="4" style="background: #ea6153;">玩家本身</td>
   </tr>
   <tr>
-    <td class="tc6"><div class="p2"></div>玩家1：</td>
+    <td class="tc6"><div class="p2">玩家1：</div></td>
     <td class="tc6" colspan="3">西班牙（紅色）</td>
   </tr>
 <tr>
      <td class="tc4" colspan="4" style="background: #ffd700;">中立</td>
   </tr>
 <tr>
-    <td class="tc6" width="15%""><div class="p3"></div>玩家3：</td>
+    <td class="tc6" width="15%""><div class="p3">玩家3：</div></td>
     <td class="tc6" width="35%">希臘村莊（綠色）拜占庭</td>  
   <tr>
    
@@ -57,7 +57,7 @@
     <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
   </tr>
 <tr>
-    <td class="tc6"><div class="p6"></div>玩家2：</td>
+    <td class="tc6"><div class="p6">玩家2：</div></td>
     <td class="tc6">土耳其人（紫色）土耳其 </td>
    
   </tr>
