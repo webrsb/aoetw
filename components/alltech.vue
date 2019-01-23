@@ -152,7 +152,7 @@
                       <a
                       href="Malay.php">馬來</a>)
                         <br/> <a href="Tigui.php">部落領袖</a>/<a href="Farimba.php">驃悍精神</a>(<a href="Malians.php">馬利</a>)
-                        <br/> <a href="Obsidian_Arrows.php">黑曜石之箭</a>/<a href="El_Dorado.php">黃金國</a>(
+                        <br/> <a href="Obsidian_Arrows.php">黑曜石之箭</a>/<a href="El_Doradoa.php">黃金國</a>(
                         <a
                         href="Mayans.php">馬雅</a>)</div>
               <div class="col-md-4"> <a href="Nomads.php">游牧</a>/<a href="Drill.php">演習</a>(<a href="Mongols.php">蒙古</a>)

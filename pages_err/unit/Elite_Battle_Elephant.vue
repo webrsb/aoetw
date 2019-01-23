@@ -37,14 +37,14 @@
               <li><a href="Malay.php">馬來</a>
               </li>馬來大象便宜30%，讓他們成為城堡時代就可以大量生產大象，配合馬來的<a href="Crossbowman.php">弩兵</a>與
               <a
-              href="Monk.php">僧侶</a>可以給敵人很大的壓力，但馬來既沒有<a href="Bloodlines.php.php">品種</a>也沒有<a href="Chain_Barding_Armor.php">騎兵鎖甲</a>，不過因為造價便宜，而且馬來有
+              href="Monk.php">僧侶</a>可以給敵人很大的壓力，但馬來既沒有<a href="Bloodlines.php">品種</a>也沒有<a href="Chain_Barding_Armor.php">騎兵鎖甲</a>，不過因為造價便宜，而且馬來有
                 <a
                 href="Faith.php">忠誠信仰</a>和<a href="Heresy.php">異端邪說</a>，後期用矛象伕海也是一個不錯的打法。</ul>
             <ul>
               <li><a href="Vietnamese.php">越南</a>
               </li>越南是血量最多的矛象伕，雖然缺乏<a href="Blast_Furnace.php">鼓風爐</a>，但有血統、防禦也全滿，可以充當肉盾來保護越南優秀的弓箭手。不過越南的矛象伕走的非常慢，因為沒有
               <a
-              href="Husbandry.php.php">畜牧培育</a>。</ul>
+              href="Husbandry.php">畜牧培育</a>。</ul>
             <p>一般來說，在單挑的遊戲中，玩家較不會出矛象伕。但在團戰比賽中，矛象伕就是非常好用的兵種，在黃金無虞下，其功能取代了<a href="Paladin.php">遊俠</a>。在東南亞有象的國家出現後，世界頂尖高手團戰，自選文明時已不再只會出現
               <a
               href="Huns.php">匈奴</a>、<a href="Persians.php">波斯</a>和<a href="Spanish.php">西班牙</a>等遊俠國家，而會改選東南亞文明。</p>
@@ -79,7 +79,7 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)
                 <br/>
                 <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Chatras.php">恰特拉傘</a>(+50，<a href="Vietnamese.php">越南</a>限定)</td>
             </tr>
@@ -112,7 +112,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>

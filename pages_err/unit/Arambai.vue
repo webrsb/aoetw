@@ -38,7 +38,7 @@
                   href="Skirmisher.php">矛兵系列</a>的傷害沒法提高，另外因為要非常近距離才能達到傷害的飛鏢騎兵也懼怕<a href="Monk.php">僧侶</a>，雖然帝王時代有
                     <a
                     href="Faith.php">忠誠信仰</a>但在未研發時<a href="Monk.php">僧侶</a>是一個蠻剋制飛鏢騎兵的單位。</li>
-              <li>研發<a href="Manipur Cavalry.php">曼尼普爾騎兵</a>後原本已經對建築有破壞力的飛鏢騎兵在破壞建築上會更加快速。</li>
+              <li>研發<a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>後原本已經對建築有破壞力的飛鏢騎兵在破壞建築上會更加快速。</li>
               <li>飛鏢騎兵在駐紮在<a href="Castle.php">城堡</a>裡時，只需要12隻就可以射出城堡可射出箭量最大值21箭，因此在防禦時或者囤量時可以駐紮在城堡。</li>
               <li><a href="Berbers.php">柏柏</a>可說是飛鏢騎兵的克制文明，首先<a href="Camel_Archer.php">駱駝弓騎兵</a>本身對馬弓騎兵有加成再加上跑速跟射速又相當的優質因此飛鏢騎兵優勢不大，再者跟
                 <a
@@ -80,12 +80,12 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Manipur Cavalry.php">曼尼普爾騎兵</a>:對<a href="Armor_Class_Standard_Building.php">標準建築</a>和
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Manipur_Cavalry.php">曼尼普爾騎兵</a>:對<a href="Armor_Class_Standard_Building.php">標準建築</a>和
                 <a
                 href="Armor_Class_Building.php">建築物</a>攻擊+3，<a href="Burmese.php">緬甸</a>限定。</td>
             </tr>
@@ -102,7 +102,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img src="~assets/Husbandry.jpg" class="gg" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img src="~assets/Husbandry.jpg" class="gg" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
@@ -129,7 +129,7 @@
             <ul>
               <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高飛鏢騎兵的生產速度和加速
                 <a
-                href="Manipur Cavalry.php">曼尼普爾騎兵</a>及<a href="Conscription.php">徵兵制度</a>的研發時間(快25%)</li>
+                href="Manipur_Cavalry.php">曼尼普爾騎兵</a>及<a href="Conscription.php">徵兵制度</a>的研發時間(快25%)</li>
               <li><a href="Huns.php">匈奴</a>：<a href="Bloodlines.php">品種</a>與<a href="Husbandry.php">畜牧技術</a>研發快20%。</li>
               <li><a href="Malians.php">馬利</a>：研發<a href="Ballistics.php">彈道學</a>速度快80%。</li>
               <li><a href="Teutons.php">條頓</a>：飛鏢騎兵更不容易被招降。</li>

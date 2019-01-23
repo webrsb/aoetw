@@ -11,7 +11,7 @@
         <div class="col-md-8">
           <div class="n1">
             </p>鑄幣術研發後會將<a href="Tribute.php">進貢費</a>從30%->20%。如果玩家打算將資源送給盟友，或是降低交換資源的虧損，那這項科技會相當有用處。</p>
-            </p><a href="Banking.php.php">銀行制度</a>是這項科技的下一個升級。</div>
+            </p><a href="Banking.php">銀行制度</a>是這項科技的下一個升級。</div>
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">

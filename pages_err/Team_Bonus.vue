@@ -55,7 +55,7 @@
                 <li>馬廄效率快20％。</li>
               </ul><strong>印度：</strong>
               <ul>
-                <li>駱駝對建築物有+6攻擊。</li>
+                <li>駱駝對建築物有+5攻擊。</li>
               </ul><strong>印加：</strong>
               <ul>
                 <li>建造農田快50％。</li>
@@ -81,7 +81,7 @@
                 <li>碼頭擁有100％的視野。</li>
               </ul><strong>馬利：</strong>
               <ul>
-                <li>學院研究速度快50％。</li>
+                <li>學院研究速度快80％。</li>
               </ul><strong>馬雅：</strong>
               <ul>
                 <li>城牆便宜50％。石牆-2石 木牆-1木</li>

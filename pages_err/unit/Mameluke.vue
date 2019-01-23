@@ -63,7 +63,7 @@
               <td class="tta4">
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Zealotry.php">狂熱舉動</a>(+30，<a href="Saracens.php">薩拉森</a> 限定)
                 <br/>
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
@@ -86,12 +86,12 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">抵抗招降</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="faith.php">忠誠信仰</a>(+33%)
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>(+33%)
                 <br/>
                 <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
               </td>
@@ -312,7 +312,7 @@
             <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高奴隸兵的生產速度還有加快
               <a
               href="Conscription.php">徵兵制度</a>和<a href="Zealotry.php">狂熱舉動</a>的研究時間(+25%)。</li>
-            <li><a href="Huns.php">匈奴</a>：研發<a href="Bloodlines.php.php">品種</a>和<a href="Husbandry.php.php">畜牧培育</a>的速度快20%。</li>
+            <li><a href="Huns.php">匈奴</a>：研發<a href="Bloodlines.php">品種</a>和<a href="Husbandry.php">畜牧培育</a>的速度快20%。</li>
             <li><a href="Indians.php">印度</a>：奴隸兵對<a href="bulding.php">建築物</a>攻擊力+5。</li>
             <li><a href="Teutons.php">條頓</a>：奴隸兵更不容易被招降。</li>
           </ul>
@@ -332,7 +332,7 @@
             <li>奴隸兵對反<a href="Armor_Class_Cavalry.php">騎兵</a>攻擊會承受額外11點傷害。另外他們也增加新的防禦類型:
               <a
               href="Naval_Vessels.php">船</a>，所以他們也會受到反<a href="Armor_Class_Ship.php">船艦</a>攻擊的額外傷害。</li>
-            <li>引進<a href="Bloodlines.php.php">品種</a>。</li>
+            <li>引進<a href="Bloodlines.php">品種</a>。</li>
             <li>引進<a href="Heresy.php">異端邪說</a>。</li>
             <li>引進<a href="Zealotry.php">狂熱舉動</a>。</li>
           </ul>

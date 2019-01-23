@@ -649,7 +649,7 @@
                 >馬雅</a
               >
             </td>
-            <td class="tunitc4"><a href="El_Dorado.php">黃金國</a></td>
+            <td class="tunitc4"><a href="El_Doradoa.php">黃金國</a></td>
             <td class="tunitc5">750F 450G</td>
             <td class="tunitc6">鷹勇士+40 HP。</td>
           </tr>

@@ -76,7 +76,7 @@
                 <img class="gg" src="~assets/HussarIcon.jpg"
                 alt=""> <a href="Hussar.php">匈牙利輕騎兵</a>
                 <br/>
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
@@ -101,7 +101,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">轉換防禦</td>

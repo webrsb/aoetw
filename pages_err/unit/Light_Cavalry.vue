@@ -109,7 +109,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
@@ -287,7 +287,7 @@
             <ul>
               <li>輕騎兵獲得對僧侶+10的額外攻擊。</li>
               <li>引入<a href="Heresy.php">異端邪說</a>。</li>
-              <li>引入<a href="Bloodlines.php.php">品種</a>。</li>
+              <li>引入<a href="Bloodlines.php">品種</a>。</li>
             </ul>
             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
             <ul>

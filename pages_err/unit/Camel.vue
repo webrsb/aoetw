@@ -79,7 +79,7 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)
                 <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Zealotry.php">狂熱舉動</a>(+30，<a href="Saracens.php">薩拉森</a>限定)</td>
             </tr>
@@ -106,7 +106,7 @@
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>

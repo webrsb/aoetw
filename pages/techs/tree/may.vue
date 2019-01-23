@@ -500,7 +500,7 @@
             </td>
             <td class="t13 trm">
               <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt="" />
-              <div><a href="El_Dorado.php">黃金國</a></div>
+              <div><a href="El_Doradoa.php">黃金國</a></div>
             </td>
             <td class="t13 trm ">
               <img class="gg" src="~assets/Hoardings.jpg" width="30" alt="" />

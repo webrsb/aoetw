@@ -152,7 +152,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3" style="width: 15%;"><a href="El_Dorado.php">黃金國</a>
+              <td class="unit3" style="width: 15%;"><a href="El_Doradoa.php">黃金國</a>
               </td>
               <td class="unit4"> <a href="Tales_of_La_Canela.php">黃金國的傳說</a>。 <a href="The_Split.php">分離告別</a>。
                 <a

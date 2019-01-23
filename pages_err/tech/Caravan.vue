@@ -13,7 +13,7 @@
             </p>大商隊可以在<a href="Castle_Age.php">城堡時代</a>時研究於<a href="Market.php">市集</a>，前置科技為
             <a
             href="Cartography.php">製圖學</a>。</p>
-              </p>研究之後可以使<a href="Trade_Cart.php">貿易車隊</a>和<a href="Trade_Cog.php.php">貿易商旅</a>的移動速度增加50%，變相的加速了黃金的獲取速度。</p>
+              </p>研究之後可以使<a href="Trade_Cart.php">貿易車隊</a>和<a href="Trade_Cog.php">貿易商旅</a>的移動速度增加50%，變相的加速了黃金的獲取速度。</p>
               </p>研發大商隊是遊戲後期加速黃金收集速度的好方法，當然增加移動速度也使得被攻擊導致陣亡的機率大大降低。</p>
           </div>
            <h3>可研發文明</h3> 
@@ -112,7 +112,7 @@
             </tr>
             <tr>
               <td class="unit3">影響</td>
-              <td class="unit4">增加<a href="Trade_Cart.php">貿易車隊</a>和<a href="Trade_Cog.php.php">貿易商旅</a>50%的移動速度。</td>
+              <td class="unit4">增加<a href="Trade_Cart.php">貿易車隊</a>和<a href="Trade_Cog.php">貿易商旅</a>50%的移動速度。</td>
             </tr>
           </table>
         </div>

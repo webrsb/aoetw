@@ -64,7 +64,7 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php.php">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
@@ -89,12 +89,12 @@
               <td class="tta4">
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Mahouts.php">象伕</a>(+30%，<a href="Persians.php">波斯</a> 限定)
                 <br/>
-                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">抵抗招降</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="faith.php">忠誠信仰</a>(+33%)</td>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>(+33%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生產速度</td>
@@ -259,7 +259,7 @@
               <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高戰象的生產速度還有加快
                 <a
                 href="Conscription.php">徵兵制度</a>和<a href="Mahouts.phpp">象伕</a>的研究時間(+25%)。</li>
-              <li><a href="Huns.php">匈奴</a>：研發<a href="Bloodlines.php.php">品種</a>和<a href="Husbandry.php.php">畜牧培育</a>的速度快20%。</li>
+              <li><a href="Huns.php">匈奴</a>：研發<a href="Bloodlines.php">品種</a>和<a href="Husbandry.php">畜牧培育</a>的速度快20%。</li>
               <li><a href="Teutons.php">條頓</a>：戰象更不容易被招降。</li>
             </ul>
           </div>
@@ -272,8 +272,8 @@
             </ul>
             <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
             <ul>
-              <li>引進<a href="Bloodlines.php.php">品種</a>。</li>
-              <li>引進<a href="Husbandry.php.php">畜牧培育</a>。</li>
+              <li>引進<a href="Bloodlines.php">品種</a>。</li>
+              <li>引進<a href="Husbandry.php">畜牧培育</a>。</li>
             </ul>
             <h3><em><a href="aor.php">王者崛起</a></em></h3>
             <ul>

@@ -349,7 +349,7 @@
               <a
               href="Conscription.php">徵兵制度</a>的研究時間(快25%)。</li>
             <li><a href="Britons.php">不列顛</a>：研究<a href="Thumb_Ring.php">拇指環</a>和<a href="Parthian_Tactics.php">帕提亞戰術</a>快20%。</li>
-            <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php.php">畜牧培育</a>和
+            <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php">畜牧培育</a>和
               <a
               href="Bloodlines.php">品種</a>速度快20%。</li>
             <li><a href="Teutons.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>速度快80%。</li>

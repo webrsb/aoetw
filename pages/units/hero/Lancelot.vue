@@ -117,7 +117,7 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Husbandry.jpg" width="30" alt="" /><a
-                  href="Husbandry.php.php"
+                  href="Husbandry.php"
                   >畜牧培育</a
                 >(+10%)
               </p>

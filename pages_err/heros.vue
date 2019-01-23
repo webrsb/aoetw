@@ -284,7 +284,7 @@
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
               <td class="tunitc6"><a href="The_Cleansing_of_the_Loire.php">羅亞爾河大掃蕩</a>
-                <br/><a href="A_Perfect_Martyr.php.php">完美的烈士</a>
+                <br/><a href="A_Perfect_Martyr.php">完美的烈士</a>
               </td>
             </tr>
             <tr>

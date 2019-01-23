@@ -106,7 +106,7 @@
             <td class="tta1" style="width:10%">生命值</td>
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="El_Dorado.php"
+                href="El_Doradoa.php"
                 >黃金國</a
               >(+40，<a href="Mayans.php">馬雅</a>限定)
             </td>
