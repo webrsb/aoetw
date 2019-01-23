@@ -160,7 +160,7 @@
             <td class="t15 trm not">
               <img class="gg" src="~assets/GenitourIcon.jpg"><a href="Genitour.php"><div>標槍騎兵</div></a>  <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t15 trm">
+            <td class="t15 trm not">
               <img class="gg" src="~assets/Thumb_Ring.png"><a href="Thumb_Ring.php"><div>拇指環</div></a>
             </td>
           </tr>
