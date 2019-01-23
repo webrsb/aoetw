@@ -45,9 +45,11 @@
               <tr>
                 <td class="tc6" width="15%" "><div class="p6
                 "></div>玩家2：</td>  <td class="tc6 " width="35% ">巴里（紫色）義大利 </td>    <td class="tc6 "><div class="p4
-                "></div>玩家3：</td>    <td class="tc6 ">拜占庭帝國（黃色）拜占庭   </td></tr> <td class="tc6 "><div class="p3
+                "></div>玩家3：</td>    <td class="tc6 ">拜占庭帝國（黃色）拜占庭   </td></tr>
+<tr><td class="tc6 "><div class="p3
                 "></div>玩家4：</td>    <td class="tc6 ">友好的倫巴第人（綠色）哥德   </td>    <td class="tc6 "><div class="p5
-                "></div>玩家5：</td>    <td class="tc6 ">當地的義大利人（水藍）義大利   </td> </tr>    <td class="tc6 "><div class="p7
+                "></div>玩家5：</td>    <td class="tc6 ">當地的義大利人（水藍）義大利   </td> </tr>
+<tr><td class="tc6 "><div class="p7
                 "></div>玩家6：</td>    <td class="tc6 ">諾曼人（灰色）法蘭克   </td>    <tr>     <td class="tc4 " colspan="4
                 " style="background:#ea6153; ">敵對</td>  </tr><tr>  <tr>    <td class="tc6
                 "><div class="p2 "></div>玩家7：</td>    <td class="tc6
@@ -69,7 +71,8 @@
                 ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3 ">版本</td>       <td class="unit4
                 ">失落的帝國</td>      </tr>      <tr>        <td class="unit3 ">戰役</td>       <td class="unit4
                 ">巴里</td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><a href="
-                ">拜占庭人</a></td>      </tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
+                ">拜占庭人</a></td>      </tr>
+<tr><td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle2 "><a href="
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">失落的帝國第三章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4

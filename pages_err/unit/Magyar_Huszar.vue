@@ -349,7 +349,7 @@
                   <td class="unit3">攻擊速度</td>
                   <td class="unit4">1.83</td>
                 </tr>
-                <td class="unit3">近防</td>
+<tr><td class="unit3">近防</td>
                 <td class="unit4">0</td>
             </tr>
             <tr>

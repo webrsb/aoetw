@@ -112,7 +112,6 @@
             <ul>
               <li>典型的圍城打援關卡，等到黎利的大軍抵達便能發起主要攻勢。</li>
               <li>琴彭(?-?)明代茶隆關太守，堅守黎利長達七個月，糧盡無援而不支城破，戰死茶隆關。</li>
-              </li>
           </div>
         </div>
         <div class="col-md-4">
@@ -150,7 +149,7 @@
               <td class="unit4"><a href="">越南人</a>
               </td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
               </div>
             </td>

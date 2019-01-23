@@ -105,7 +105,6 @@
 <li>北邊的美瑪(綠色)是蘇曼古魯的諸侯，但是只要機會合適可能會背叛它。他們訓練騎士、劍兵和攻城武器。</li>
 <li>和美瑪類似，南邊的法克裡(黃色)也不滿於索索的霸權，他們也想尋機揭竿起義。他們有一支由弩兵、輕騎士和投石機組成的軍隊。</li>
 <li>在河對岸西邊就是索索人(紅色)。索索人擁有堅固的防禦工事和強大的駱駝騎兵、長槍兵、彎刀勇士和攻城武器兵組成的軍隊。</li>
-</li>
 </ul>
 <h2>攻略</h2>
 <div class="hrn1"></div>
@@ -177,7 +176,7 @@
         <td class="unit3">文明</td>
        <td class="unit4"><a href="">馬利</a></td>
       </tr>
-        <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
        <div class="unititle2"><a href="">戰役關卡編號</a></div>
        </td>
       </tr>

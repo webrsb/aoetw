@@ -75,7 +75,6 @@
               <li>突擊外圍的農田以切斷耶路撒冷的糧食供應。</li>
               <li>在攻擊這個城市之前，有兩個基本騎士精神的守則必須要遵守。</li>
               <li>巨型投石機可以在一定距離之外擊毀箭塔。</li>
-              </li>
             </ul>
           </div>
         </div>
@@ -113,7 +112,7 @@
               <td class="unit4"><a href="">薩拉森人</a>
               </td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
               </div>
             </td>

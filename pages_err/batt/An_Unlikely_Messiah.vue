@@ -69,7 +69,8 @@
                 ">版本</td>       <td class="unit4 ">帝王世紀</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 "><a href="Joan_of_Arc.php
                 ">聖女貞德</a></td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><a href="
-                ">法蘭克人</a></td>      </tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
+                ">法蘭克人</a></td>      </tr>
+<tr><td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle2 "><a href="
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">帝王世紀第二章之一</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>       <td class="unit4

@@ -150,7 +150,7 @@
               <td class="unit4"><a href="">高棉人</a>
               </td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="Quelling_the_Rebellion">戰役關卡編號</a>
               </div>
             </td>

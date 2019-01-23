@@ -193,7 +193,6 @@
         </p>
       </div>
       </div>
-          </ul>
         
 </template>
 <script>

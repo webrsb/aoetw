@@ -78,7 +78,6 @@
               <li>在這個事件裡，最好防衛就是要作出最好的攻擊。在底比里亞斯湖裡並沒有太多的魚，只有以農業來支撐你的經濟。
                 <li>就像得到其他遺跡一樣，你的敵軍會把真十字架的碎片守衛在修道院裡面。小心聖殿聖騎和救傷團-他們是你最危險的對手。</li>
                 <li>注意：在沙漠當中連小石頭都很少見得到。所以你只能依靠強大的軍隊，而不是城牆或箭塔。</li>
-              </li>
             </ul>
           </div>
         </div>
@@ -116,7 +115,7 @@
               <td class="unit4"><a href="">薩拉森人</a>
               </td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
               </div>
             </td>

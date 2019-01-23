@@ -39,8 +39,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Archer_Units.php">射手</a>
-                <br/><a href="heros.php">英雄</a>
-              </td>
+                <br/><a href="heros.php">英雄</a></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -65,8 +64,7 @@
                 <td class="unit4">2.03</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="Frame_delay.php">開火間隔</a>
-                </td>
+                <td class="unit3"><a href="Frame_delay.php">開火間隔</a></td>
                 <td class="unit4">5</td>
               </tr>
               <tr>
@@ -95,12 +93,10 @@
                     <tr>
                       <td class="unit3">防禦類型</td>
                       <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-                        <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-                      </td>
+                        <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a></td>
                     </tr>
                     <tr>
-                      <td class="unit3">跑速</a>
-                      </td>
+                      <td class="unit3">跑速</td>
                       <td class="unit4">0.96</td>
                     </tr>
                     <tr>

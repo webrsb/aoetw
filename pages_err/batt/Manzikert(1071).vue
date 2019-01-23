@@ -180,7 +180,7 @@
         <td class="unit3">文明</td>
        <td class="unit4"><a href="Japanese.php">土耳其</a></td>
       </tr>
-        <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
        <div class="unititle2"><a href="">戰役關卡編號</a></div>
        </td>
       </tr>

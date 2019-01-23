@@ -65,7 +65,8 @@
                 ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3 ">版本</td>       <td class="unit4
                 ">征服者入侵</td>      </tr>      <tr>        <td class="unit3 ">戰役</td>       <td class="unit4
                 ">席德</td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><a href="Japanese.php
-                ">西班牙</a></td>      </tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
+                ">西班牙</a></td>      </tr>
+<tr><td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle2 "><a href="
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">征服者戰役第二章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="Brother_against_

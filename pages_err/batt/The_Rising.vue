@@ -219,7 +219,6 @@
           </p>
         </div>
     </div>
-    </ul>
     </div>
     </div>
     <div class="row">

@@ -232,7 +232,6 @@
             </p>
           </div>
       </div>
-      </ul>
     </div>
     </div>
     </div>

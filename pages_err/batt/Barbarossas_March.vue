@@ -75,7 +75,7 @@
               <td class="unit3">文明</td>
               <td class="unit4">條頓人</td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2">戰役關卡編號</div>
             </td>
             </tr>

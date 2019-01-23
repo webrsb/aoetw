@@ -150,10 +150,9 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Japanese.php">法蘭克</a>
-              </td>
+              <td class="unit4"><a href="Japanese.php">法蘭克</a></td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2">戰役關卡編號</div>
             </td>
             </tr>
@@ -163,13 +162,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4">N/A</a>
-              </td>
+              <td class="unit4">N/A</td>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="Vindlandsaga(1000).php">芬特蘭撒格(1000)</a> 
-              </td>
+              <td class="unit4"> <a href="Vindlandsaga(1000).php">芬特蘭撒格(1000)</a></td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由Wun，裕暉協助編輯</div>

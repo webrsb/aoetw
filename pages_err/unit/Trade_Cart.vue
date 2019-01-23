@@ -52,8 +52,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Villager.php">村民</a>
-              </td>
+              <td class="unit4"><a href="Villager.php">村民</a></td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
@@ -61,13 +60,11 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="Feudal_Age.php">封建時代</a>
-              </td>
+              <td class="unit4"><a href="Feudal_Age.php">封建時代</a></td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
-              <td class="unit4"><a href="Market.php">市集</a>
-              </td>
+              <td class="unit4"><a href="Market.php">市集</a></td>
             </tr>
             <tr>
               <td class="unit3">訓練時間</td>
@@ -98,13 +95,11 @@
               <td class="unit4">70</td>
               <tr></tr>
               <tr>
-                <td class="unit3"><a href="">近防</a>
-                </td>
+                <td class="unit3"><a href="">近防</a></td>
                 <td class="unit4">0</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="">遠防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">跑速</a>
-                </td>
+                <td class="unit3"><a href="">遠防</a></td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">跑速</td>
                 <td class="unit4">1</td>
               </tr>
               <tr>

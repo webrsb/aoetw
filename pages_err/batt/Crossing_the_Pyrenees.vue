@@ -104,7 +104,6 @@
                     <p>西哥德人(紫色)徘徊在庇里牛斯山的東邊，基地在一座俯視要道的堡壘之中。他們多樣化的軍隊是由步兵、遠程單位和輕騎兵組成，會對任何通過此路的軍隊進行勇敢的反抗。</p>
                     <p>巴斯克人(綠色)對西邊的庇里牛斯山非常熟悉。他們是輕步兵、槍兵和輕騎兵組成的軍隊會造成一定的威脅，但他們對地形的熟悉使得他們成為比他們裝備更好的軍隊致命威脅。</p>
                   </li>
-                  </li>
                 </ul>
                  <h2>細節</h2>
                 <div class="hrn1"></div>
@@ -160,7 +159,7 @@
               <td class="unit4"><a href="">柏柏</a>
               </td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
               </div>
             </td>

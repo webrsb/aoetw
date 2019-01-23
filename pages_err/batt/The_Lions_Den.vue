@@ -83,7 +83,6 @@
 <li>庫姆比薩萊赫是加尼斯帝國前首都，它坐落在我們基地的河對岸。陸地只有一條路通往那裡，所以你也可以考慮通過水路運送軍隊登陸對岸。庫姆比薩萊赫城十分堅固，他們擁有一支未嘗敗績的強大步兵團。</li>
 <li>在我們基地的西邊有很多資源，它們分佈在主陸地和周圍的小島上。</li>
 <li>蘇曼古魯(橘色)佔據了堅固的庫姆比城，他身邊有重兵把守，不會輕易束手就擒。</li>
-</li>
 </ul>
 <h2>攻略</h2>
 <div class="hrn1"></div>
@@ -154,7 +153,7 @@
         <td class="unit3">文明</td>
        <td class="unit4"><a href="">馬利</a></td>
       </tr>
-        <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
        <div class="unititle2"><a href="">戰役關卡編號</a></div>
        </td>
       </tr>

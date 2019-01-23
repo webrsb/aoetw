@@ -57,7 +57,7 @@
                   <div class="p4"></div>玩家4：</td>
                 <td class="tc6">黑衛隊海軍（黃色）土耳其</td>
               </tr>
-              <td class="tc6">
+<tr><td class="tc6">
                 <div class="p3"></div>玩家5：</td>
               <td class="tc6">約瑟夫（綠色）土耳其</td>
               <tr></tr>
@@ -163,7 +163,7 @@
               <td class="unit4"><a href="Japanese.php">西班牙</a>
               </td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
               </div>
             </td>
@@ -172,7 +172,7 @@
               <td class="unit3">章節</td>
               <td class="unit4">征服者戰役第二章之六</td>
             </tr>
-            <td class="unit3">上一關</td>
+<tr><td class="unit3">上一關</td>
             <td class="unit4"> <a href="King_of_Valencia.php">瓦倫西亞之主</a> 
               </tr>
               <tr>

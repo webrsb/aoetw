@@ -48,18 +48,16 @@
                 </div>
               </td>
             </tr>
-            <td class="unit3">文明</td>
+<tr><td class="unit3">文明</td>
             <td class="unit4">日本</td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4">帝王時代</a>
-              </td>
+              <td class="unit4">帝王時代</td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
-              <td class="unit4">城堡</a>
-              </td>
+              <td class="unit4">城堡</td>
             </tr>
             <tr>
               <td class="unit3">研發時間</td>

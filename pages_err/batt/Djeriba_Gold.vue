@@ -106,7 +106,6 @@
 <li>宏偉的傑內城控制著尼日河兩岸的地域。他十分堅固，可以經受各種攻城進攻。</li>
 <li>幾個村莊(水藍色)分佈在這一帶，有一些有資源礦產，另一些則困禁了那些忠誠於松迪亞塔的曼丁哥村民。</li>
 <li>兩個挖礦營地(紅色)坐落於西方和東方，他們出產珍貴的黃金和鹽。黃金在這一帶並不多見，所以這些礦產和貿易將是主要的收入來源。</li>
-</li>
 </ul>
 <h2>攻略</h2>
 <div class="hrn1"></div>
@@ -179,7 +178,7 @@
         <td class="unit3">文明</td>
        <td class="unit4"><a href="">馬利</a></td>
       </tr>
-        <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
        <div class="unititle2"><a href="">戰役關卡編號</a></div>
        </td>
       </tr>

@@ -57,7 +57,7 @@
     <td class="tc6"><div class="p3"></div>玩家5：</td>
     <td class="tc6">諾曼人(綠色) 法蘭克</td>
     </tr>
-    <td class="tc6"><div class="p4"></div>玩家6：</td>
+<tr><td class="tc6"><div class="p4"></div>玩家6：</td>
     <td class="tc6">諾曼人(黃色) 法蘭克</td>
 </tr>
 </table>

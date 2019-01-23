@@ -59,7 +59,7 @@
                   <div class="p8"></div>玩家4：</td>
                 <td class="tc6">撒克遜人哈樂德 （橘色）哥德</td>
               </tr>
-              <td class="tc6">
+<tr><td class="tc6">
                 <div class="p4"></div>玩家5：</td>
               <td class="tc6">哈樂德的偷襲部隊（黃色）哥德</td>
               <tr></tr>

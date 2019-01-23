@@ -39,8 +39,7 @@
             <tr>
               <td class="unit3">類型</td>
               <td class="unit4"><a href="Infantry_Units.php">騎兵</a>
-                <br/><a href="heros.php">英雄</a>
-              </td>
+                <br/><a href="heros.php">英雄</a></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -78,8 +77,7 @@
                   <td class="unit4"><a href="Armor_Class_Cavalry.php">騎兵</a> (+1)</td>
                 </tr>
                 <tr>
-                  <td class="unit3">跑速</a>
-                  </td>
+                  <td class="unit3">跑速</td>
                   <td class="unit4">0.9</td>
                 </tr>
                 <tr>

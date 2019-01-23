@@ -34,8 +34,7 @@
                   <td>所屬陣營與顏色</td>
                 </tr>
                 <tr>
-                  <td class="tta1">露梁海戰<a href="Kyoto(1582).php">(洛陽點)</a>
-                  </td>
+                  <td class="tta1">露梁海戰<a href="Kyoto(1582).php">(洛陽點)</a></td>
                   <td class="tta2">探索前否,探索後可控制</td>
                   <td class="tta3">電腦,玩家
                     <div class="p1"></div>
@@ -76,8 +75,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Naval_Vessels.php">海軍<br/>英雄</a>
-              </td>
+              <td class="unit4"><a href="Naval_Vessels.php">海軍<br/>英雄</a></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -94,8 +92,7 @@
             </tr>
             <tr>
               <tr>
-                <td class="unit3"><a href="Area_of_Effect.php">爆炸半徑</a>
-                </td>
+                <td class="unit3"><a href="Area_of_Effect.php">爆炸半徑</a></td>
                 <td class="unit4">0.5</td>
               </tr>
               <tr>
@@ -135,8 +132,7 @@
                         <td class="unit4">船</td>
                       </tr>
                       <tr>
-                        <td class="unit3">跑速</a>
-                        </td>
+                        <td class="unit3">跑速</td>
                         <td class="unit4">0.9</td>
                       </tr>
                       <tr>

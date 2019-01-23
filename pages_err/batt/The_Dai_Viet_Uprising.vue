@@ -45,7 +45,8 @@
               </tr>
               <tr>
                 <td class="tc6" width="15%" "><div class="p3
-                "></div>玩家3：</td>  <td class="tc6 " width="35% ">大越百姓（綠色）越南 </td></tr><td class="tc6 "><div class="p2
+                "></div>玩家3：</td>  <td class="tc6 " width="35% ">大越百姓（綠色）越南 </td></tr>
+<tr><td class="tc6 "><div class="p2
                 "></div>玩家4：</td>    <td class="tc6 ">鄭家莊（紅色）越南 </td>  <td class="tc6 "><div class="p8
                 "></div>玩家5：</td>    <td class="tc6 ">阮家莊（橘色）越南 </td></tr> <tr>     <td class="tc4 " colspan="4
                 " style="background:#ea6153; ">敵對</td>  </tr><tr><tr>    <td class="tc6
@@ -66,7 +67,8 @@
                 ">版本</td>       <td class="unit4 ">王者崛起</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 "><a href="Lê_Lợia.php
                 ">黎利</a></td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><a href="
-                ">越南人</a></td>      </tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
+                ">越南人</a></td>      </tr>
+<tr><td class="unit " colspan="2 " style=" background-color:#375d96;
                 ">       <div class="unititle2 "><a href="
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">王者崛起第四章之一</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4

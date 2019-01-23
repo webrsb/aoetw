@@ -98,7 +98,6 @@
                   <li>三個阿基塔尼亞城(紫色)在柏柏軍營附近，他們提供給法蘭克人軍備補給，但是卻守衛薄弱發動快速的突襲的話他們就崩潰了。</li>
                   <li>波爾多城(藍色)在加龍河口附近，有著出色的堡壘和強大的陸軍，他們的海軍徘徊在比斯開海灣，隨即待命擊退敵軍弩砲戰船(槳帆戰船)。</li>
                   <li>法蘭克軍隊(紅色)是目前為止你最危險的敵人，他們無數堡壘覆蓋整個城池，他們精良的聖騎士(遊俠)、擲斧手、劍兵和其他配合單位將會是對光榮的柏柏騎兵一次真正的考驗。</li>
-                  </li>
                 </ul>
                 <h2>細節</h2>
                 <div class="hrn1"></div>
@@ -149,7 +148,7 @@
               <td class="unit4"><a href="">柏柏</a>
               </td>
             </tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><a href="">戰役關卡編號</a>
               </div>
             </td>

@@ -68,7 +68,7 @@
                 </div>
               </td>
             </tr>
-            <td class="unit3">文明</td>
+<tr><td class="unit3">文明</td>
             <td class="unit4">請看介紹</td>
             </tr>
             <tr>

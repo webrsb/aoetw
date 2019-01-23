@@ -111,7 +111,7 @@
               <td class="unit3">steam版本</td>
               <td class="unit4">2015年11月5日</td>
             </tr>
-            <td class="unit" colspan="2" style="background-color:#8a6d3b;">
+<tr><td class="unit" colspan="2" style="background-color:#8a6d3b;">
               <div class="unititle2" style="color: #fff;">前作與擴充</div>
             </td>
             </tr>

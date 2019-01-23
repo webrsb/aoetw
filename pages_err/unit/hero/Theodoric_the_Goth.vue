@@ -40,8 +40,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Infantry_Units.php">步兵</a>
-              </td>
+              <td class="unit4"><a href="Infantry_Units.php">步兵</a></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -83,12 +82,10 @@
                   <tr>
                     <td class="unit3">防禦類型</td>
                     <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
-                      <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
-                    </td>
+                      <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a></td>
                   </tr>
                   <tr>
-                    <td class="unit3">跑速</a>
-                    </td>
+                    <td class="unit3">跑速</td>
                     <td class="unit4">0.9</td>
                   </tr>
                   <tr>

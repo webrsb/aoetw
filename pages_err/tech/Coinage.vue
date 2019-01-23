@@ -57,7 +57,7 @@
                 </div>
               </td>
             </tr>
-            <td class="unit3">文明</td>
+<tr><td class="unit3">文明</td>
             <td class="unit4">所有文明</td>
             </tr>
             <tr>
