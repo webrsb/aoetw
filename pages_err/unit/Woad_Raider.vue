@@ -35,7 +35,7 @@
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><a href="Skirmisher.php">矛兵</a>、<a href="Halberdier.php">戟兵</a>、<a href="Eagle_Warrior.php">鷹勇士</a>、
                 <a
-                href="Siege_Weapons.php">攻城武器</a>、<a href="building.php">建築物</a>、<a href="Light_Cavalry.php">輕騎兵</a>和
+                href="Siege_Weapons.php">攻城武器</a>、<a href="Armor_class_building.php>建築物</a>、<a href="Light_Cavalry.php">輕騎兵</a>和
                   <a
                   href="Huskarl.php">哥德衛隊</a>。</td>
             </tr>
@@ -45,7 +45,7 @@
                 <a
                 href="Hand_Cannoneer.php">火槍兵</a>、<a href="Conquistador.php">西班牙征服者</a>、<a href="Slinger.php">投石手</a>、重型
                   <a
-                  href="Cavalry_Units.php">騎兵</a>、<a href="Samurai.php">日本武士</a>、<a href="Bersek.php">狂戰士</a>、
+                  href="Cavalry_Units.php">騎兵</a>、<a href="Samurai.php">日本武士</a>、<a href="Berserk.php">狂戰士</a>、
                     <a
                     href="Teutonic_Knight.php">條頓武士</a>、<a href="Boyar.php">貴族鐵騎</a>。</td>
             </tr>
@@ -63,7 +63,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a> 
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_Class_standard_building.php">標準建築</a> 
               </td>
             </tr>
             <tr>
@@ -293,7 +293,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="Armor_class_standard_building.php">標準建築</a>+2/+3(精銳)
+              <td class="unit4">對<a href="Armor_Class_standard_building.php">標準建築</a>+2/+3(精銳)
                 <br/>對<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>+2/+3(精銳)</td>
             </tr>
             <tr>
@@ -310,8 +310,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="img/Armor_Class_Infantry.php">步兵</a>
-                <br/> <a href="img/Armor_Class_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
+                <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

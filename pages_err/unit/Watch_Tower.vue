@@ -313,7 +313,7 @@
               <td class="unit4">7</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">近防</a>
+              <td class="unit3">近防
               </td>
               <td class="unit4">1</td>
             </tr>
@@ -323,9 +323,9 @@
             </tr>
             <tr>
               <td class="unit3">防禦類型</td>
-              <td class="unit4"><a href="Armor_class_building.php">建築物</a>
-                <br/> <a href="Armor_class_standard_building.php">標準建築</a>
-                <br/> <a href="Armor_class_stone_defense.php">石造建築</a>
+              <td class="unit4"><a href="Armor_Class_Building.php">建築物</a>
+                <br/> <a href="Armor_Class_standard_building.php">標準建築</a>
+                <br/> <a href="Armor_Class_stone_defense.php">石造建築</a>
               </td>
             </tr>
             <tr>

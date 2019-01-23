@@ -18,8 +18,8 @@
               href="Archery_Range.php"
               >射箭場</a
             ><a href="Archer.php">弓兵系</a>對
-            <a href="Armor_class_standard_building.php">標準建築</a>和<a
-              href="Armor_class_stone_defense.php"
+            <a href="Armor_Class_standard_building.php">標準建築</a>和<a
+              href="Armor_Class_stone_defense.php"
               >石造建築</a
             >攻擊+6。
           </p>

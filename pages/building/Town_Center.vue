@@ -220,7 +220,7 @@
                   src="~assets/Ballistics.jpg"
                   width="30"
                   alt=""
-                /><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
+                /><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
               </td>
             </tr>
             <tr>
@@ -531,7 +531,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +5對<a href="Armor_Class_Ship.php">船隻</a> <br />+5對<a
-                href="Armor_class_building.php"
+                href="Armor_Class_Building.php"
                 >建築物</a
               >
               <br />+1對<a href="Armor_Class_Camel.php">駱駝單位</a>

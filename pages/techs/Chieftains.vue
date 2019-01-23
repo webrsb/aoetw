@@ -51,7 +51,7 @@
           <ul>
             <li>研發酋長需要700肉400金。</li>
             <li>
-              酋長給<a href="Bersek.php">狂戰士</a>對<a
+              酋長給<a href="Berserk.php">狂戰士</a>對<a
                 href="Armor_Class_Cavalry.php"
                 >騎兵類</a
               >攻擊+4。
@@ -64,7 +64,7 @@
           <ul>
             <li>研發酋長現在需要400肉300金。</li>
             <li>
-              酋長現在給<a href="Bersek.php">狂戰士</a>對<a
+              酋長現在給<a href="Berserk.php">狂戰士</a>對<a
                 href="Armor_Class_Cavalry.php"
                 >騎兵類</a
               >攻擊+5。

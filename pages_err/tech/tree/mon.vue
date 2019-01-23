@@ -350,7 +350,7 @@
       ">城堡時代</a></td>                  <td class="t23 trm "><img class="gg " src="~assets/Goldshaftmining.jpg " alt="
       "><div><a href="Gold_Shaft_Mining.php ">礦井採金</a></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t23 trm "><img class="gg " src="~assets/Stone_Shaft_Mining.jpg " alt="
-      "><div><a href="Stone_Shaft_Mining.phpp ">礦井採石</a></div></td>         <td class="t23 trm
+      "><div><a href="Stone_Shaft_Mining.php ">礦井採石</a></div></td>         <td class="t23 trm
       "></td>         <td class="t23 trm "></td>         </tr>    </table>   <table class="table
       " style="margin-top:50px; ">         <tr>            <td class="trm " colspan="10
       " style="border-top: none; ">                <a href="Dock.php "><img class="ng

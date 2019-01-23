@@ -108,7 +108,7 @@
                     <img class="gg" src="~assets/Wondericon.png" alt=""><a href="Wonder.php">世界奇觀</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Feitoriaicon.png" alt=""><a href="Feitoriaicon_Feitoria.php">港灣大商站</a>(<a href="Portyguese.php">葡萄牙</a>限定)</li>
+                    <img class="gg" src="~assets/Feitoriaicon.png" alt=""><a href="Feitoriaicon_Feitoria.php">港灣大商站</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
                   <li>
                     <img class="gg" src="~assets/Dockicon.png" alt=""><a href="Harbor.php">巨港</a>(<a href="Malay.php">馬來</a>限定)</li>
                 </ul>

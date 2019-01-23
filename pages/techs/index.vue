@@ -55,7 +55,7 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">150F 50G</td>
             <td class="tunitc6">
-              步兵+2攻擊vs<a href="Armor_class_standard_building.php"
+              步兵+2攻擊vs<a href="Armor_Class_standard_building.php"
                 >標準建築</a
               >
             </td>

@@ -68,7 +68,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、群聚的單位。</td>
+              <td class="tta4"><a href="Armor_class_building.php>建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、群聚的單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -95,7 +95,7 @@
                 <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br/>
-                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Torsion Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Torsion_Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">範圍</td>
@@ -235,7 +235,7 @@
             <h3>更新日誌</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+              <h3><em><a href="aok.php">帝王世紀</a></em></h3>
               <ul>
                 <li>移動速度為0.5。</li>
               </ul>
@@ -403,7 +403,7 @@
               <td class="unit4">8</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Armor_class.php">防禦類型</a>
+              <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
               </td>
               <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
               </td>

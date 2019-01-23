@@ -48,7 +48,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4"><a href="Pikeman.php">重裝長槍兵</a>、<a href="Kamayuk.php">槍隊長</a>、<a href="Bersek.php">狂戰士</a>、
+              <td class="tta4"><a href="Pikeman.php">重裝長槍兵</a>、<a href="Kamayuk.php">槍隊長</a>、<a href="Berserk.php">狂戰士</a>、
                 <a
                 href="Genoese_Crossbowman.php">熱那亞弩手</a>
               </td>

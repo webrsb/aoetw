@@ -51,7 +51,7 @@
             <td class="tta4">
               <a href="Skirmisher.php">矛兵</a>、<a href="Villager.php">戟兵</a
               >、<a href="Scout_Cavalry.php">駱駝騎兵</a>、
-              <a href="Eagle_Scout.php">鷹勇士</a>、<a href="building.php"
+              <a href="Eagle_Scout.php">鷹勇士</a>、<a href="Armor_class_building.php
                 >建築物</a
               >、<a href="Spearman.php">輕騎兵</a>。
             </td>
@@ -101,7 +101,7 @@
               <img class="gg" src="~assets/Arson.jpg" width="30" alt="" /><a
                 href="Arson.php"
                 >縱火</a
-              >:步兵+2攻擊vs<a href="Armor_class_standard_building.php"
+              >:步兵+2攻擊vs<a href="Armor_Class_standard_building.php"
                 >標準建築</a
               >
               <br />
@@ -439,7 +439,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aoe.php">帝王世紀</a></em>
+            <em><a href="aok.php">帝王世紀</a></em>
           </h3>
           <ul>
             <li>雙手劍兵現在攻擊有11。</li>

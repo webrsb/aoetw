@@ -171,7 +171,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/VBRSK.jpg"><a href="Bersek.php">狂戰士(精銳)</a>
+                <img class="gg" src="~assets/VBRSK.jpg"><a href="Berserk.php">狂戰士(精銳)</a>
               </td>
               <td class="tta2">1.05，1.05</td>
               <td class="tta3">1.155，1.155</td>

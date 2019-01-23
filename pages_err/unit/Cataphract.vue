@@ -76,7 +76,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Skirmisher.php">矛兵系列</a>、<a href="Skirmisher.php">矛兵系列</a>、
+              <td class="tta4"><a href="Skirmisher.php">矛兵系列</a>、
                 <a
                 href="Infantry_Units.php">步兵系列</a>、<a href="Siege_Weapons.php">攻城武器</a>、<a href="Light_Cavalry.php">輕騎兵</a>。</td>
             </tr>
@@ -275,7 +275,7 @@
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>訓練時間為23秒。</li>
               <li>攻擊速度為2.03。</li>
@@ -380,7 +380,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+9/+12(精銳)對<a href="Armor_Class_Infantry.php">步兵</a>
-                <br/>+9/+10(精銳)對<a href="Armor_class_Condottiero.php">傭兵</a>
+                <br/>+9/+10(精銳)對<a href="Armor_Class_Condottiero.php">傭兵</a>
               </td>
             </tr>
             <tr>
@@ -397,8 +397,8 @@
             </tr>
             <tr>
               <td class="unit3">防禦類型</td>
-              <td class="unit4"><a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>(+12, +16(精銳))
-                <br/><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="Armor_Class_Cavalry_Archer.php">騎兵</a>(+12, +16(精銳))
+                <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

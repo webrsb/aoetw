@@ -85,7 +85,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>和<a href="Trebuchet.php">投石機</a>。</td>
+              <td class="tta4"><a href="Armor_class_building.php>建築物</a>和<a href="Trebuchet.php">投石機</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -232,9 +232,9 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">+900對<a href="Armor_class_wall_and_gate.php">牆和門</a>
-                <br/>+500對<a href="Armor_class_building.php">建築</a>
-                <br/>+100對<a href="Armor_class_Castle.php">城堡</a>
+              <td class="unit4">+900對<a href="Armor_Class_wall_and_gate.php">牆和門</a>
+                <br/>+500對<a href="Armor_Class_Building.php">建築</a>
+                <br/>+100對<a href="Armor_Class_Castle.php">城堡</a>
                 <br/>+60<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
               </td>
             </tr>
@@ -244,7 +244,7 @@
               <td class="unit4">0.5</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Armor_class.php">近防</a>
+              <td class="unit3"><a href="Armor_Class.php">近防</a>
               </td>
               <td class="unit4">0</td>
             </tr>
@@ -257,7 +257,7 @@
               <td class="unit4">無</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速
               </td>
               <td class="unit4">0.8</td>
             </tr>

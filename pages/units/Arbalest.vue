@@ -265,7 +265,7 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">近防</a></td>
+            <td class="unit3">近防</td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -277,7 +277,7 @@
             <td class="unit4">射手</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">跑速</a></td>
+            <td class="unit3">跑速</td>
             <td class="unit4">0.96</td>
           </tr>
           <tr>

@@ -68,7 +68,7 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="building.php">建築物</a>和<a href="Trebuchet.php"
+              <a href="Armor_class_building.php>建築物</a>和<a href="Trebuchet.php"
                 >投石機</a
               >。
             </td>
@@ -348,7 +348,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <h3>
-              <em><a href="aoe.php">帝王世紀</a></em>
+              <em><a href="aok.php">帝王世紀</a></em>
             </h3>
             <ul>
               <li>
@@ -538,7 +538,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +125 vs
-              <a href="Armor_class_standard_building.php">一般建築物</a
+              <a href="Armor_Class_standard_building.php">一般建築物</a
               >(每1個步兵進駐攻擊+10，最多+40) <br />+40 vs
               <a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
             </td>
@@ -548,7 +548,7 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">近防</a></td>
+            <td class="unit3"><a href="Armor_Class.php">近防</a></td>
             <td class="unit4">-3</td>
           </tr>
           <tr>
@@ -556,7 +556,7 @@
             <td class="unit4">180</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">防禦類型</a></td>
+            <td class="unit3"><a href="Armor_Class.php">防禦類型</a></td>
             <td class="unit4">
               <a href="Armor_Class_Siege_Weapon.php">攻城武器</a> <br />
               <a href="Armor_Class_Ram.php">衝撞車</a>
@@ -567,7 +567,7 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">跑速</a></td>
+            <td class="unit3">跑速</td>
             <td class="unit4">0.5</td>
           </tr>
           <tr>

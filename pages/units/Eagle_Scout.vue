@@ -108,7 +108,7 @@
               <img class="gg" src="~assets/Arson.jpg" width="30" alt="" /><a
                 href="Arson.php"
                 >縱火</a
-              >:步兵+2攻擊vs<a href="Armor_class_standard_building.php"
+              >:步兵+2攻擊vs<a href="Armor_Class_standard_building.php"
                 >標準建築</a
               >
               <br />
@@ -539,7 +539,7 @@
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">防禦類型</a></td>
+            <td class="unit3"><a href="Armor_Class.php">防禦類型</a></td>
             <td class="unit4">
               <a href="Armor_Class_Infantry.php"> 步兵</a> <br />
               <a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>

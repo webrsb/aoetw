@@ -1071,7 +1071,7 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Eithopians.php">衣索比亞</a>
+                /><a href="Ethiopians.php">衣索比亞</a>
               </td>
               <td class="tunitc4"><a href="Royal_Heirs.php">皇族血脈</a></td>
               <td class="tunitc5">300F 300G</td>
@@ -1221,7 +1221,7 @@
               <td class="tunitc4"><a href="Berserkergang.php">狂戰士幫</a></td>
               <td class="tunitc5">450F 400G</td>
               <td class="tunitc6">
-                <a href="Bersek.php">狂戰士</a>回血速度提升(每分鐘回20
+                <a href="Berserk.php">狂戰士</a>回血速度提升(每分鐘回20
                 HP變每分鐘回40 HP)。
               </td>
             </tr>

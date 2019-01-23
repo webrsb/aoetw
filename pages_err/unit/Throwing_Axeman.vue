@@ -70,7 +70,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a> 
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_Class_standard_building.php">標準建築</a> 
               </td>
             </tr>
             <tr>
@@ -325,7 +325,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="Armor_class_standard_building.php">標準建築                         </a>+1/+2(精銳)
+              <td class="unit4">對<a href="Armor_Class_standard_building.php">標準建築                         </a>+1/+2(精銳)
                 <br/>對<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>+1/+2(精銳)</td>
             </tr>
             <tr>
@@ -359,8 +359,8 @@
               </tr>
               <tr>
                 <td class="unit3">護甲分類</td>
-                <td class="unit4"><a href="img/Armor_Class_Infantry.php">步兵</a>
-                  <br/> <a href="img/Armor_Class_Unique_Unit.php">特殊單位</a>
+                <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
+                  <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
                 </td>
               </tr>
               <tr>

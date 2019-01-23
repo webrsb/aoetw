@@ -41,7 +41,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>，群聚單位。</td>
+              <td class="tta4"><a href="Armor_class_building.php>建築物</a>，群聚單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -325,7 +325,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">+250對<a href="Armor_class_standard_building.php">一般建築物</a>
+              <td class="unit4">+250對<a href="Armor_Class_standard_building.php">一般建築物</a>
               </td>
             </tr>
             <tr>
@@ -360,7 +360,7 @@
                           <td class="unit4">3.5</td>
                         </tr>
                         <tr>
-                          <td class="unit3"><a href="">近防</a>
+                          <td class="unit3">近防
                           </td>
                           <td class="unit4">2(未組裝)
                             <br/>1(攻擊姿態)</td>
@@ -377,7 +377,7 @@
                           </td>
                         </tr>
                         <tr>
-                          <td class="unit3"><a href="">跑速</a>
+                          <td class="unit3">跑速
                           </td>
                           <td class="unit4">0.8</td>
                         </tr>

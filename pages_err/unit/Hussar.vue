@@ -382,11 +382,11 @@
               <td class="unit4">0</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Armor_class.php"></a>遠防</td>
+              <td class="unit3"><a href="Armor_Class.php"></a>遠防</td>
               <td class="unit4">2</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Armor_class.php">防禦類型</a>
+              <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
               </td>
               <td class="unit4"> <a href="Armor_Class_Cavalry_Archer.php">騎兵</a>
               </td>

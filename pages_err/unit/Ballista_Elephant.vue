@@ -30,7 +30,7 @@
                 href="Armor_Class_Siege_Weapon.php">攻城武器</a>、<a href="Armor_Class_Unique_Unit.php">特殊單位</a>)又負的裝甲值(騎兵(-2)、戰象(-2)、攻城武器(-2)，因此很多單位都可剋制弩砲象。</li>
               <li>弩砲象在很多情況下都是屬於攻城支援單位，主要是他們血多且擁有移動速度，量多時弩砲象是具有非強常大的戰鬥力的又因為<a href="Khmer.php">高棉</a>得帝王時代特殊科技
                 <a
-                href="Double Crossbow.php">雙弩箭</a>使得弩砲象更具破壞力。</li>
+                href="Double_Crossbow.php">雙弩箭</a>使得弩砲象更具破壞力。</li>
               <li>弩砲象少量時優勢幾乎跟<a href="Scorpion.php">弩砲</a>差不多，但在量大時弩砲象就是很強大，弩砲象最大問題就在量產這問題上跟大部分城堡兵問題一樣。</li>
               <li>高棉這文明沒有<a href="Heresy.php">異端邪說</a>、<a href="Faith.php">忠誠信仰</a>，因此僧侶對弩砲象傷害力也是不錯的</li>
               <li>死鬥時，弩砲象非常好用，因為量多，但是非常懼怕<a href="Mangonel.php">投石車</a>。（因為對方投石車也會跟你一樣多）</li>
@@ -78,7 +78,7 @@
                 <br/>
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)
                 <br/>
-                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Double Crossbow.php">雙弩箭</a>:可發射雙弩</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Double_Crossbow.php">雙弩箭</a>:可發射雙弩</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊距離</td>
@@ -291,8 +291,8 @@
                       <img class="gg" src="~assets/ChuKoNuIcon.jpg"
                       alt=""> <a href="Chu_Ko_Nu.php">精銳連弩兵</a>(<a href="Chinese.php">中國</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Bersek.php">狂戰士</a>→
-                      <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Bersek.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
+                      <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Berserk.php">狂戰士</a>→
+                      <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Berserk.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
                     <li>
                       <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""> <a href="Jaguar_Warrior.php">豹勇士</a>→
                       <img class="gg" src="~assets/JaguarWarriorIcon.jpg"
@@ -336,7 +336,7 @@
             <ul>
               <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高弩炮象的生產速度還有加速
                 <a
-                href="Conscription.php">徵兵制度</a>和<a href="Double Crossbow.php">雙弩箭</a>的研究時間(快25%)</li>
+                href="Conscription.php">徵兵制度</a>和<a href="Double_Crossbow.php">雙弩箭</a>的研究時間(快25%)</li>
               <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php">畜牧培育</a>和
                 <a
                 href="Bloodlines.php">品種</a>速度快20%。</li>
@@ -443,9 +443,9 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4"><a href="Armor_Class_Ship.php">船</a>+8
-                <br/> <a href="Armor_class_stone_defense.php">石頭建築</a>+3/+4(精銳)
-                <br/> <a href="Armor_class_standard_building.php">標準建築</a>+3，+4(精銳)
-                <br/> <a href="Armor_class_building.php">建築</a>+2/+4(精銳)</td>
+                <br/> <a href="Armor_Class_stone_defense.php">石頭建築</a>+3/+4(精銳)
+                <br/> <a href="Armor_Class_standard_building.php">標準建築</a>+3，+4(精銳)
+                <br/> <a href="Armor_Class_Building.php">建築</a>+2/+4(精銳)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊範圍</td>

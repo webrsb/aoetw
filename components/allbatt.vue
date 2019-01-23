@@ -136,7 +136,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3" style="width: 15%;"><a href="Baria .php">巴里</a>
+              <td class="unit3" style="width: 15%;"><a href="Baria.php">巴里</a>
               </td>
               <td class="unit4"> <a href="Arrival_at_Bari.php">抵達巴里</a>。 <a href="The_Rebellion_of_Melus.php">邁勒斯叛變</a>。
                 <a
@@ -186,7 +186,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3" style="width: 15%;"><a href="Tariq_ibn_Ziyadaa .php">塔里克．伊本．齊亞德</a>
+              <td class="unit3" style="width: 15%;"><a href="Tariq_ibn_Ziyadaa.php">塔里克．伊本．齊亞德</a>
               </td>
               <td class="unit4"> <a href="The_Battle_of_Guadalete.php">瓜達萊特之戰</a>。 <a href="Consolidation_and_Subjugation.php">攻城拔寨</a>。
                 <a

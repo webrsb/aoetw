@@ -217,8 +217,8 @@
                       <img class="gg" src="~assets/ChuKoNuIcon.jpg"
                       alt=""> <a href="Chu_Ko_Nu.php">精銳連弩兵</a>(<a href="Chinese.php">中國</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Bersek.php">狂戰士</a>→
-                      <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Bersek.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
+                      <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Berserk.php">狂戰士</a>→
+                      <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Berserk.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
                     <li>
                       <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""> <a href="Jaguar_Warrior.php">豹勇士</a>→
                       <img class="gg" src="~assets/JaguarWarriorIcon.jpg"

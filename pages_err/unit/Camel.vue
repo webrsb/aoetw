@@ -278,7 +278,7 @@
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>駱駝有5的攻擊。</li>
               <li>駱駝對騎兵+10攻擊。</li>
@@ -416,7 +416,7 @@
                 <td class="unit4">2.03</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="">近防</a>
+                <td class="unit3">近防
                 </td>
                 <td class="unit4">0</td>
               </tr>
@@ -430,7 +430,7 @@
                 </td>
               </tr>
               <tr>
-                <td class="unit3"><a href="">跑速</a>
+                <td class="unit3">跑速
                 </td>
                 <td class="unit4">1.45</td>
               </tr>

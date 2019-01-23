@@ -54,7 +54,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a>
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_Class_standard_building.php">標準建築</a>
                 <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Garland_Wars.php">榮冠戰爭</a>:步兵攻擊+4，<a href="Aztecs.php">阿茲特克</a>限定。
                 <br/>
@@ -256,7 +256,7 @@
               <li><a href="Celts.php">賽爾特人</a>：長槍兵移動加快15％。</li>
               <li><a href="Chinese.php">中國</a>：有利於長槍兵的技術在封建/城堡/帝王時代便宜10％/ 15％/ 20％。</li>
               <li><a href="Ethiopians.php">衣索比亞</a>:免費升級重裝長槍兵。</li>
-              <li><a href="Goths.php">哥德</a>：長槍兵便宜35％而且對<a href="building.php">建築物</a>攻擊+1。研發
+              <li><a href="Goths.php">哥德</a>：長槍兵便宜35％而且對<a href="Armor_class_building.php>建築物</a>攻擊+1。研發
                 <a
                 href="Perfusion.php">灌注士氣</a>後研發<a href="Tracking.php">追縱技術</a>、<a href="Squires.php">護衛</a>、
                   <a

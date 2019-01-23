@@ -184,7 +184,7 @@
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>火砲塔是近戰傷害。</li>
               <li>火砲塔對駱駝有+7的額外攻擊，因為它們與船共享一個防禦類型。</li>
@@ -373,9 +373,9 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-                <br/> <a href="Armor_class_building.php">建築物</a>
-                <br/> <a href="Armor_class_standard_building.php">標準建築</a>
-                <br/> <a href="Armor_class_stone_defense.php">石造建築</a>
+                <br/> <a href="Armor_Class_Building.php">建築物</a>
+                <br/> <a href="Armor_Class_standard_building.php">標準建築</a>
+                <br/> <a href="Armor_Class_stone_defense.php">石造建築</a>
               </td>
             </tr>
             <tr>

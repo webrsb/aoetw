@@ -358,7 +358,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">+12對<a href="Armor_class_stone_defense.php">石材建築類</a>
+              <td class="unit4">+12對<a href="Armor_Class_stone_defense.php">石材建築類</a>
                 <br/>+10對<a href="Armor_Class_Castle.php">城堡</a>
                 <br/>+8/+10(精銳)對<a href="Armor_Class_Building.php">建築類</a>
                 <br/>+8/+10(精銳)對<a href="Armor_Class_Wall_and_Gate.php">城牆和城門</a>
@@ -369,7 +369,7 @@
               <td class="unit4">2.13</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">近防</a>
+              <td class="unit3">近防
               </td>
               <td class="unit4">1</td>
             </tr>
@@ -384,7 +384,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速
               </td>
               <td class="unit4">1.35</td>
             </tr>

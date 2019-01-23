@@ -82,7 +82,7 @@
                 HP。</li>
               <li><a href="Huns.php">匈奴</a>：巨型投石機命中率+30%。</li>
               <li><a href="Slavs.php">斯拉夫</a>：攻城器製造所的單位便宜15%。</li>
-              <li><a href="Spanish.php">西班牙</a>:<a href="Cannon_Galleon .php">火炮戰船</a>有
+              <li><a href="Spanish.php">西班牙</a>:<a href="Cannon_Galleon.php">火炮戰船</a>有
                 <a
                 href="Ballistics.php">彈道學</a>加成。</li>
             </ul>
@@ -546,7 +546,7 @@
                   <td class="tunitc6">
                     <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Ethiopians.php">衣索比亞</a>
                   </td>
-                  <td class="tunitc4"><a href="Torsion Engines.php">扭力彈射器</a>
+                  <td class="tunitc4"><a href="Torsion_Engines.php">扭力彈射器</a>
                   </td>
                   <td class="tunitc5">1000F 600G</td>
                   <td class="tunitc6">攻城器製造所的單位傷害範圍增加(輕型衝撞車和攻城塔除外)。</td>

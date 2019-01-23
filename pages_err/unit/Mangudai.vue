@@ -118,14 +118,14 @@
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</td>
+                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+18%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>:增加命中率至100%
+                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>:增加命中率至100%
                 <br/>
-                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升</td>
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -352,7 +352,7 @@
             <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php">畜牧培育</a>和
               <a
               href="Bloodlines.php">品種</a>速度快20%。</li>
-            <li><a href="Teutons.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>速度快80%。</li>
+            <li><a href="Teutons.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistics.php">彈道學</a>速度快80%。</li>
             <li><a href="Teutons.php">條頓</a>：蒙古突騎更不容易被招降。</li>
           </ul>
         </div>

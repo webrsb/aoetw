@@ -104,7 +104,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="Armor_Class_building.php">建築</a> +10 <br />對<a
+              對<a href="Armor_Class_Building.php">建築</a> +10 <br />對<a
                 href="Armor_Class_Spearman.php"
                 >槍兵</a
               >

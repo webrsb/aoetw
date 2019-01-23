@@ -289,7 +289,7 @@
          <tr>
             <td class="trm" colspan="5" style="border-top: none;">
                 <a href="Mill.php"><img class="ng" src="~assets/Lumbercampicon.png" alt=""></a>
-                <div><a href="Mill.php">伐木場</a></div>
+                <div><a href="Lumber_Camp.php">伐木場</a></div>
             </td>
         </tr>
    <tr>
@@ -336,7 +336,7 @@
           <td style=" vertical-align: middle; " class="t5 trm ca"><a href="Castle_Age.php">城堡時代</a></td>
          
          <td class="t23 trm"><img class="gg" src="~assets/Goldshaftmining.jpg" alt=""><div><a href="Gold_Shaft_Mining.php">礦井採金</a></div></td>
-         <td class="t23 trm not"><img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt=""><div><a href="Stone_Shaft_Mining.phpp">礦井採石</a></div></td>
+         <td class="t23 trm not"><img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt=""><div><a href="Stone_Shaft_Mining.php">礦井採石</a></div></td>
          <td class="t23 trm"></td>
          <td class="t23 trm"></td> 
         </tr>

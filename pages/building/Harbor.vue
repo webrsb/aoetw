@@ -333,7 +333,7 @@
                 src="~assets/Ballistics.jpg"
                 width="30"
                 alt=""
-              /><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
+              /><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
             </td>
           </tr>
           <tr>
@@ -511,9 +511,9 @@
           <tr>
             <td class="unit3">護甲類別</td>
             <td class="unit4">
-              <a href="Armor_class_building.php">建築物</a> <br />
-              <a href="Armor_class_standard_building.php">標準建築</a> <br />
-              <a href="Armor_class_stone_defense.php">石造建築</a>
+              <a href="Armor_Class_Building.php">建築物</a> <br />
+              <a href="Armor_Class_standard_building.php">標準建築</a> <br />
+              <a href="Armor_Class_stone_defense.php">石造建築</a>
             </td>
           </tr>
           <tr>

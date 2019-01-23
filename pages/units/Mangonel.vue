@@ -62,7 +62,7 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="building.php">建築物</a>、<a href="Villager.php">村民</a
+              <a href="Armor_class_building.php>建築物</a>、<a href="Villager.php">村民</a
               >、<a href="Archer_Units.php">弓兵</a>、
               <a href="Scorpion.php">弩炮</a>、<a href="Battering_Ram.php"
                 >輕型衝撞車</a
@@ -109,7 +109,7 @@
               >(+1)
               <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="Torsion Engines.php"
+                href="Torsion_Engines.php"
                 >扭力彈射器</a
               >：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php"
                 >衣索比亞</a
@@ -362,7 +362,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <h3>
-              <em><a href="aoe.php">帝王世紀</a></em>
+              <em><a href="aok.php">帝王世紀</a></em>
             </h3>
             <ul>
               <li>移動速度為0.5。</li>
@@ -567,7 +567,7 @@
             <td class="unit4">3.5</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">近防</a></td>
+            <td class="unit3"><a href="Armor_Class.php">近防</a></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -575,7 +575,7 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">防禦類型</a></td>
+            <td class="unit3"><a href="Armor_Class.php">防禦類型</a></td>
             <td class="unit4">
               <a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
             </td>

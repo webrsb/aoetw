@@ -258,7 +258,7 @@
             <ul>
               <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高戰象的生產速度還有加快
                 <a
-                href="Conscription.php">徵兵制度</a>和<a href="Mahouts.phpp">象伕</a>的研究時間(+25%)。</li>
+                href="Conscription.php">徵兵制度</a>和<a href="Mahouts.php">象伕</a>的研究時間(+25%)。</li>
               <li><a href="Huns.php">匈奴</a>：研發<a href="Bloodlines.php">品種</a>和<a href="Husbandry.php">畜牧培育</a>的速度快20%。</li>
               <li><a href="Teutons.php">條頓</a>：戰象更不容易被招降。</li>
             </ul>
@@ -288,7 +288,7 @@
               <li>最高級的精銳戰象擁有24的攻擊力，是除了攻城武器與火藥單位外最高的。</li>
               <li>這頭大象聽得懂人話，不需要象夫！</li>
               <li>比上述更神奇，這頭大象還有信仰，還會改宗其他宗教，聽得懂僧侶的教誨。</li>
-              <li>歷史上的波斯帝國，在遊戲戰役的<a href="Genghis_Khan.php">成吉思汗</a>，<a href="Barbarossa .php">巴巴羅薩</a>，以及
+              <li>歷史上的波斯帝國，在遊戲戰役的<a href="Genghis_Khan.php">成吉思汗</a>，<a href="Barbarossa.php">巴巴羅薩</a>，以及
                 <a
                 href="Saladin.php">沙拉丁</a>所處的時代，皆沒有使用戰象部隊。(然而遊戲裡有，請睜隻眼閉隻眼)</li>
               <li>世紀帝國II內建的歷史頁面介紹到:波斯人從印度人手上取得戰象，然而遊戲內的3D模組似乎是隻非洲象(它們都有一對超大的耳朵！)。</li>
@@ -375,7 +375,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="bulding.php">建築物</a>+7/+10(精銳)
-                <br/>對<a href="Armor_class_stone_defense.php">石造防禦建築</a>+7/+10(精銳)</td>
+                <br/>對<a href="Armor_Class_stone_defense.php">石造防禦建築</a>+7/+10(精銳)</td>
             </tr>
             <tr>
               <td class="unit3">濺涉傷害範圍</td>
@@ -399,9 +399,9 @@
             </tr>
             <tr>
               <td class="unit3">裝甲類型</td>
-              <td class="unit4"><a href="Armor_Class:_War_Elephant.php">戰象</a>
-                <br/> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
-                <br/> <a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="Armor_Class_War_Elephant.php">戰象</a>
+                <br/> <a href="Armor_Class_Cavalry_Archer.php">騎兵</a>
+                <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

@@ -70,14 +70,14 @@
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Thumb_Ring.png" class="gg" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</td>
+                  <img src="~assets/Thumb_Ring.png" class="gg" alt=""><a href="Thumb_Ring.php">拇指環</a>(+18%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img src="~assets/Ballistics.jpg" class="gg" alt=""><a href="Ballistic.php">彈道學</a>(對移動目標命中率上升)
+                <img src="~assets/Ballistics.jpg" class="gg" alt=""><a href="Ballistics.php">彈道學</a>(對移動目標命中率上升)
                 <br/>
-                <img src="~assets/Thumb_Ring.png" class="gg" alt=""><a href="Thumb _Ring.php">拇指環</a>(命中率提升到100%)</td>
+                <img src="~assets/Thumb_Ring.png" class="gg" alt=""><a href="Thumb_Ring.php">拇指環</a>(命中率提升到100%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>

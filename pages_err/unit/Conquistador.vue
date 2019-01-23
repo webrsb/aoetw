@@ -40,7 +40,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4"><a href="Kamayuk.php">槍隊長</a>、<a href="Bersek.php">狂戰士</a>、<a href="Genoese_Crossbowman.php">熱那亞弩手</a>、
+              <td class="tta4"><a href="Kamayuk.php">槍隊長</a>、<a href="Berserk.php">狂戰士</a>、<a href="Genoese_Crossbowman.php">熱那亞弩手</a>、
                 <a
                 href="Huskarl.php">哥德衛隊</a>、<a href="Condottiero.php">傭兵</a>、<a href="Mameluke.php">奴隸兵</a>、
                   <a
@@ -396,7 +396,7 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4"><a href="Armor_Class_Archer.php">弓兵</a>
-              <br/> <a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
+              <br/> <a href="Armor_Class_Cavalry_Archer.php">騎兵</a>
               <br/> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
               <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
             </td>

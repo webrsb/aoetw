@@ -108,9 +108,9 @@
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
                 <br/>
-                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>:命中率提升到100%</td>
+                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>:命中率提升到100%</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -318,7 +318,7 @@
             <li><a href="Franks.php">法蘭克</a>：多20%的血量。</li>
             <li><a href="Huns.php">匈奴</a>：標槍騎兵的血量在城堡/帝王時代各便宜10%/20%。</li>
             <li><a href="Mongols.php">蒙古</a>：標槍騎兵發射速度快25%。</li>
-            <li><a href="Saracens.php">薩拉森</a>：標槍騎兵<a href="building.php">建築</a>攻擊+3。</li>
+            <li><a href="Saracens.php">薩拉森</a>：標槍騎兵<a href="Armor_class_building.php>建築</a>攻擊+3。</li>
             <li><a href="Spanish.php">西班牙</a>：升級 <a href="Blacksmith.php">兵工廠</a>科技不用黃金。</li>
             <li><a href="Vietnamese.php">越南</a>：標槍騎兵的血量在城堡/帝王時代各增加15%/20%的血量。</li>
           </ul>
@@ -490,7 +490,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速
               </td>
               <td class="unit4">1.35</td>
             </tr>

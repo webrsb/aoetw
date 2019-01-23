@@ -64,7 +64,7 @@
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:較易擊中移動目標</td>
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:較易擊中移動目標</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">護甲</td>
@@ -303,7 +303,7 @@
           <div class="n1">
             <ul>
               <li><a href="Japanese.php">日本</a>：戰船擁有+50%的視野距離。</li>
-              <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>、<a href="Ballistic.php">彈道學</a>的速度提高80%</li>
+              <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>、<a href="Ballistics.php">彈道學</a>的速度提高80%</li>
               <li><a href="Teutons.php">條頓</a>：戰船對招降的抵抗力更強。</li>
             </ul>
           </div>
@@ -426,7 +426,7 @@
             <tr>
               <td class="unit3">傷害加成</td>
               <td class="unit4">+8對<a href="Armor_Class_Ship.php">船</a>
-                <br/>+6對<a href="Armor_class_building.php">建築</a>
+                <br/>+6對<a href="Armor_Class_Building.php">建築</a>
                 <br/>+3對<a href="Armor_Class_Ram.php">衝撞車</a>
               </td>
             </tr>

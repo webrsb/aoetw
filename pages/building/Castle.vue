@@ -433,7 +433,7 @@
                 src="~assets/Ballistics.jpg"
                 width="30"
                 alt=""
-              /><a href="Ballistic.php">彈道學</a>:較易擊中移動目標
+              /><a href="Ballistics.php">彈道學</a>:較易擊中移動目標
             </td>
           </tr>
           <tr>
@@ -704,8 +704,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="Armor_class_building.php">建築（+8）</a> <br />
-              <a href="Armor_class_standard_building.php">標準建築</a>
+              <a href="Armor_Class_Building.php">建築（+8）</a> <br />
+              <a href="Armor_Class_standard_building.php">標準建築</a>
               <br />
               <a href="img/Armor_class_Castle.php">城堡</a>
             </td>

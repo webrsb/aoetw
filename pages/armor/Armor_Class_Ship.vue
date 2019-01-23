@@ -78,7 +78,7 @@
             </li>
             <li>
               <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" /><a
-                href="Demolition_Raft .php"
+                href="Demolition_Raft.php"
                 >自爆筏</a
               >(1)→
               <img
@@ -94,7 +94,7 @@
             </li>
             <li>
               <img src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                href="Cannon_Galleon .php"
+                href="Cannon_Galleon.php"
                 >火炮戰船</a
               >→ <img src="~assets/CannonGalleonIcon.jpg" alt="" /><a
                 href="Elite_Cannon_Galleon.php"

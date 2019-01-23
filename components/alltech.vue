@@ -127,7 +127,7 @@
                     <a
                     href="Celts.php">賽爾特</a>)
                       <br/> <a href="Great_Wall.php">長城</a>/<a href="Rocketry.php">火箭術</a>(<a href="Chinese.php">中國</a>)
-                      <br/> <a href="Royal_Heirs.php">皇族血脈</a>/<a href="Torsion Engines.php">扭力彈射器</a>(
+                      <br/> <a href="Royal_Heirs.php">皇族血脈</a>/<a href="Torsion_Engines.php">扭力彈射器</a>(
                       <a
                       href="Ethiopians.php">衣索比亞</a>)
                         <br/> <a href="Chivalry.php">騎士精神</a>/<a href="Bearded_Axe.php">倒鉤斧</a>(<a href="Franks.php">法蘭克</a>)
@@ -141,14 +141,14 @@
                   <br/> <a href="Sultans.php">蘇丹</a>/<a href="Shatagni.php">印度火槍</a>(<a href="Indians.php">印度</a>)
                   <br/> <a href="Pavise.php">巨盾</a>/<a href="Silk_Road.php">絲綢之路</a>(<a href="Italians.php">義大利</a>)
                   <br/> <a href="Yasama.php">射箭孔</a>/<a href="Kataparuto.php">彈射器</a>(<a href="Japanese.php">日本</a>)
-                  <br/> <a href="Tusk Swords.php">象牙劍</a>/<a href="Double_Crossbow.php">雙弩箭</a>(
+                  <br/> <a href="Tusk_Swords.php">象牙劍</a>/<a href="Double_Crossbow.php">雙弩箭</a>(
                   <a
                   href="Khmer.php">高棉</a>)
                     <br/> <a href="Panokseon.php">板屋船</a>/<a href="Shinkichon.php">神機箭</a>(<a href="Koreans.php">韓國</a>)
                     <br/> <a href="Mercenaries.php">雇傭兵</a>/<a href="Recurve_Bow.php">反曲弓</a>(
                     <a
                     href="Magyars.php">馬扎爾</a>)
-                      <br/> <a href="Thalassocracy.phpp">海上霸主</a>/<a href="Forced_Levy.php">強制徵兵</a>(
+                      <br/> <a href="Thalassocracy.php">海上霸主</a>/<a href="Forced_Levy.php">強制徵兵</a>(
                       <a
                       href="Malay.php">馬來</a>)
                         <br/> <a href="Tigui.php">部落領袖</a>/<a href="Farimba.php">驃悍精神</a>(<a href="Malians.php">馬利</a>)
@@ -156,7 +156,7 @@
                         <a
                         href="Mayans.php">馬雅</a>)</div>
               <div class="col-md-4"> <a href="Nomads.php">游牧</a>/<a href="Drill.php">演習</a>(<a href="Mongols.php">蒙古</a>)
-                <br/> <a href="Boiling_Oil.php">沸油</a>/<a href="Mahouts.phpp">象伕</a>(<a href="Persians.php">波斯</a>)
+                <br/> <a href="Boiling_Oil.php">沸油</a>/<a href="Mahouts.php">象伕</a>(<a href="Persians.php">波斯</a>)
                 <br/> <a href="Carrack.php">克拉克帆船</a>/<a href="Arquebus.php">火繩槍</a>(<a href="Portuguese.php">葡萄牙</a>)
                 <br/> <a href="Madrasah.php">穆斯林學墊</a>/<a href="Zealotry.php">狂熱舉動</a>(<a href="Saracens.php">薩拉森</a>)
                 <br/> <a href="Orthodoxy.php">東正教</a>/<a href="Druzhina.php">王家侍從</a>(<a href="Slavs.php">斯拉夫</a>)

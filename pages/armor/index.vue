@@ -58,7 +58,7 @@
               href="Armor_Class_Cavalry.php"
               >騎兵</a
             >，但他的騎兵裝甲值是12，這代表他比其他
-            <a href="Cavalry_Unit.php">騎兵</a>更不怕反騎兵的攻擊。另一方面，<a
+            <a href="Cavalry_Units.php">騎兵</a>更不怕反騎兵的攻擊。另一方面，<a
               href="Ballista_Elephant.php"
               >弩砲象</a
             >的<a href="Armor_Class_Cavalry.php">騎兵防禦</a
@@ -92,13 +92,13 @@
             <div class="col-md-6">
               建築類
               <ul>
-                <li><a href="Armor_class_building.php">建築</a></li>
+                <li><a href="Armor_Class_Building.php">建築</a></li>
                 <li>
-                  <a href="Armor_class_standard_building.php">標準建築</a>
+                  <a href="Armor_Class_standard_building.php">標準建築</a>
                 </li>
-                <li><a href="Armor_class_stone_defense.php">石頭建築</a></li>
-                <li><a href="Armor_class_wall_and_gate.php">牆與門</a></li>
-                <li><a href="Armor_class_Castle.php">城堡</a></li>
+                <li><a href="Armor_Class_stone_defense.php">石頭建築</a></li>
+                <li><a href="Armor_Class_wall_and_gate.php">牆與門</a></li>
+                <li><a href="Armor_Class_Castle.php">城堡</a></li>
               </ul>
             </div>
           </div>

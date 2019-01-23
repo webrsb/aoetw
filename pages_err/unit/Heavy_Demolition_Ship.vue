@@ -414,7 +414,7 @@
             </tr>
             <tr>
               <td class="unit3">傷害加成</td>
-              <td class="unit4">+280對<a href="Armor_class_building.php">建築</a>
+              <td class="unit4">+280對<a href="Armor_Class_Building.php">建築</a>
               </td>
             </tr>
             <tr>

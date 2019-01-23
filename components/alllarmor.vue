@@ -20,9 +20,9 @@
                     <a
                     href="Armor_Class_Ship.php">船</a>· <a href="Armor_Class_Turtle_Ship.php">龜甲船</a>· <a href="Armor_Class_Unique_Unit.php">特殊單位</a>·
                       <a
-                      href="Armor_class_building.php">建築</a>· <a href="Armor_class_standard_building.php">標準建築</a>· <a href="Armor_class_stone_defense.php">石頭建築</a>·
+                      href="Armor_Class_Building.php">建築</a>· <a href="Armor_Class_standard_building.php">標準建築</a>· <a href="Armor_Class_stone_defense.php">石頭建築</a>·
                         <a
-                        href="Armor_class_wall_and_gate.php">牆與門</a>· <a href="Armor_class_Castle.php">城堡</a> 
+                        href="Armor_Class_wall_and_gate.php">牆與門</a>· <a href="Armor_Class_Castle.php">城堡</a> 
             </td>
           </tr>
         </table>

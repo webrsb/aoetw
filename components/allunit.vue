@@ -62,10 +62,10 @@
             </td>
             <td class="unit3"> <a href="Galley.php">戰船</a>。 <a href="War_Galley.php">弩砲戰船</a>。 <a href="Galleon.php">重型弩砲戰船</a>。
               <br/> <a href="Fire_Galley.php">火蒙衝</a>。 <a href="Fire_Ship.php">火戰船</a>。 <a href="Fast_Fire_Ship.php">快速火戰船</a>。
-              <br/> <a href="Demolition_Raft .php">自爆筏</a>。 <a href="Demolition_Ship.php">神風船</a>。
+              <br/> <a href="Demolition_Raft.php">自爆筏</a>。 <a href="Demolition_Ship.php">神風船</a>。
               <a
               href="Heavy_Demolition_Ship.php">重型神風船</a>。
-                <br/> <a href="Cannon_Galleon .php">火炮戰船</a>。 <a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>。
+                <br/> <a href="Cannon_Galleon.php">火炮戰船</a>。 <a href="Elite_Cannon_Galleon.php">精銳火炮戰船</a>。
                 <br/> <a href="Longboat.php">維京大戰船</a>。 <a href="Turtle_Ship.php">龜甲船</a>。
                 <a
                 href="Caravel.php">卡拉維爾戰船</a>

@@ -13,7 +13,7 @@
             <p>畜牧培育於 <a href="Castle_Age.php">城堡時代</a>在<a href="Stable.php">馬厩</a>研發。研發後所有騎乘單位移速+10％。</p>
             <p>一般來說打帶跑單位如:<a href="Cavalry_Archer.php">馬弓騎兵</a>、<a href="Conquistador.php">征服者</a>或
               <a
-              href="Arambai.php">飛鏢騎兵</a>等，都需要優先研發此科技。相對的，如對方是打帶跑單位，而你的<a href="Cavalry_Unit.php">騎兵單位</a>就必須研發畜牧培育，以免被風箏。</p>
+              href="Arambai.php">飛鏢騎兵</a>等，都需要優先研發此科技。相對的，如對方是打帶跑單位，而你的<a href="Cavalry_Units.php">騎兵單位</a>就必須研發畜牧培育，以免被風箏。</p>
           </div>
            <h3>可研發文明</h3> 
           <div class="hrn1"></div>

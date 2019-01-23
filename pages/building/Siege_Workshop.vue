@@ -308,7 +308,7 @@
               >(1000食物，600黃金)→攻城器製造所單位傷害範圍變大
             </li>
             <li>
-              <a href="Khmer.php">高棉</a>：<a href="Double Crossbow.php"
+              <a href="Khmer.php">高棉</a>：<a href="Double_Crossbow.php"
                 >雙弩箭</a
               >(700食物，400黃金)→弩砲象與弩砲發射雙箭(第二發傷害比第一發低)。
             </li>
@@ -467,8 +467,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="Armor_class_building.php">建築</a> <br />
-              <a href="Armor_class_standard_building.php">標準建築</a>
+              <a href="Armor_Class_Building.php">建築</a> <br />
+              <a href="Armor_Class_standard_building.php">標準建築</a>
             </td>
           </tr>
           <tr>

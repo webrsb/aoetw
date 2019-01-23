@@ -97,7 +97,7 @@
               <img class="gg" src="~assets/Arson.jpg" width="30" alt="" /><a
                 href="Arson.php"
                 >縱火</a
-              >:步兵+2攻擊vs<a href="Armor_class_standard_building.php"
+              >:步兵+2攻擊vs<a href="Armor_Class_standard_building.php"
                 >標準建築</a
               >
               <br />
@@ -435,7 +435,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aoe.php">帝王世紀</a></em>
+            <em><a href="aok.php">帝王世紀</a></em>
           </h3>
           <ul>
             <li>長劍兵現在有55HP。</li>
@@ -639,7 +639,7 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">近防</a></td>
+            <td class="unit3">近防</td>
             <td class="unit4">0</td>
           </tr>
           <tr>

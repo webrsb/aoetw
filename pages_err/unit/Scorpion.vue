@@ -41,7 +41,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="building.php">建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、移動緩慢的單位。</td>
+              <td class="tta4"><a href="Armor_class_building.php>建築物</a>、<a href="Villager.php">村民</a>、<a href="Archer_Units.php">弓兵</a>、移動緩慢的單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -70,7 +70,7 @@
                 <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Rocketry.php">火箭術</a>(+4)
                 <br/>
-                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Torsion Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Torsion_Engines.php">扭力彈射器</a>：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php">衣索比亞</a>限定
                 <br/>
                 <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Double_Crossbow.php">雙弩箭</a>:額外增加一個投射物。<a href="Khmer.php">高棉</a>限定</td>
             </tr>
@@ -213,7 +213,7 @@
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+            <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>弩砲有5的射程。</li>
               <li>弩砲有6的遠防</li>
@@ -349,7 +349,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">+6 vs<a href="Armor_Class_War_Elephant.php">戰象</a>
-                <br/>+2 vs<a href="Armor_class_building.php">建築</a>
+                <br/>+2 vs<a href="Armor_Class_Building.php">建築</a>
                 <br/>+1 vs<a href="Armor_Class_Ram.php">衝撞車</a>
               </td>
             </tr>
@@ -379,7 +379,7 @@
               <td class="unit4">6</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Armor_class.php">近防</a>
+              <td class="unit3"><a href="Armor_Class.php">近防</a>
               </td>
               <td class="unit4">0</td>
             </tr>
@@ -388,7 +388,7 @@
               <td class="unit4">7</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Armor_class.php">防禦類型</a>
+              <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
               </td>
               <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
               </td>

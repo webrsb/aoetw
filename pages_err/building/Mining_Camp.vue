@@ -20,7 +20,7 @@
           <div class="row">
             <div class="col-md-6">
               <div class="n1">
-                 <h4><a href="Feudal_Age.phpp"></a>封建時代</h4> 
+                 <h4><a href="Feudal_Age.php"></a>封建時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Goldmining.jpg" alt=""><a href="Gold_Mining.php">採金技術</a>
@@ -39,7 +39,7 @@
                     <img class="gg" src="~assets/Goldshaftmining.jpg" alt=""><a href="Gold_Shaft_Mining.php">礦井採金</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt=""><a href="Stone_Shaft_Mining.phpp">礦井採石</a>
+                    <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt=""><a href="Stone_Shaft_Mining.php">礦井採石</a>
                   </li>
                 </ul>
               </div>
@@ -239,8 +239,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="Armor_class_building.php">建築</a>
-                <br/> <a href="Armor_class_standard_building.php">標準建築</a>
+              <td class="unit4"><a href="Armor_Class_Building.php">建築</a>
+                <br/> <a href="Armor_Class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>

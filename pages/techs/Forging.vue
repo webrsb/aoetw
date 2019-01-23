@@ -15,7 +15,7 @@
               href="Blacksmith.php"
               >兵工廠</a
             >研發，可讓 <a href="Infantry_Units.php">步兵</a>、<a
-              href="Cavalry_Unit.php"
+              href="Cavalry_Units.php"
               >騎兵</a
             >攻擊+1。
           </p>

@@ -84,7 +84,7 @@
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
                 <br/>
                 <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>:命中率提升到100%</td>
             </tr>
@@ -213,7 +213,7 @@
               <img class="gg" src="~assets/Chemistry.jpg" width="30"
               alt=""><a href="Chemistry.php">化學</a>和
               <img class="gg" src="~assets/Ballistics.jpg"
-              width="30" alt=""><a href="Ballistic.php">彈道學</a>研究快80%。</li>
+              width="30" alt=""><a href="Ballistics.php">彈道學</a>研究快80%。</li>
             <li><a href="Saracens.php">薩拉森</a>：投石手對<a href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+1。</li>
             <li><a href="Teutons.php">條頓</a>：投石手更不容易被招降。</li>
           </ul>
@@ -322,7 +322,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">+10對<a href="Armor_Class_Infantry.php">步兵</a>
-              <br/>+10對<a href="Armor_class_Condottiero.php">傭兵</a>
+              <br/>+10對<a href="Armor_Class_Condottiero.php">傭兵</a>
               <br/>+3對 <a href="Armor_Class_Ram.php">衝撞車</a>
               <br/>+1對<a href="Armor_Class_Spearman.php">槍兵</a>
             </td>
@@ -352,7 +352,7 @@
             <td class="unit4">5.5</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">近防</a>
+            <td class="unit3">近防
             </td>
             <td class="unit4">0</td>
           </tr>
@@ -367,7 +367,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">跑速</a>
+            <td class="unit3">跑速
             </td>
             <td class="unit4">0.96</td>
           </tr>

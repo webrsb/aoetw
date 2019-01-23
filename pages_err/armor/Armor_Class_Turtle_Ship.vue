@@ -9,7 +9,7 @@
           <div class="hrn1"></div>
         </div>
         <div class="col-md-12">
-          <div class="spw"><em>這篇文章是將有關於龜甲船裝甲的。而關於龜甲船請參見<a href="Turtleship.php">龜甲船</a></em>
+          <div class="spw"><em>這篇文章是將有關於龜甲船裝甲的。而關於龜甲船請參見<a href="Turtle_ship.php">龜甲船</a></em>
           </div>
         </div>
         <div class="col-md-12">

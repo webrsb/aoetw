@@ -106,7 +106,7 @@
             </li>
             <h4>
               1.<a href="Harbor.php">巨港</a>也是軍事和民生建築，需先研發<a
-                href="Thalassocracy.phpp"
+                href="Thalassocracy.php"
                 >海上霸主</a
               >。
             </h4>

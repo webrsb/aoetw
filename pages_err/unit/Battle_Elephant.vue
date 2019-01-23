@@ -32,7 +32,7 @@
               href="Manipur_Cavalry.php">曼尼普爾騎兵</a>的<a href="Arambai.php">飛鏢騎兵</a>或騎兵配合，將成為一種可怕的組合。</ul>
             <ul>
               <li><a href="Khmer.php">高棉</a>
-              </li>高棉的矛象伕移動速度快15%，使得他們更不怕<a href="Monk.php">僧侶</a>，且城堡時代的特殊科技<a href="Tusk Swords.php">象牙劍</a>就可以讓矛象伕攻擊+3，攻擊達到了17，絕對是所有大象中近戰威力最強的，不過高棉沒有
+              </li>高棉的矛象伕移動速度快15%，使得他們更不怕<a href="Monk.php">僧侶</a>，且城堡時代的特殊科技<a href="Tusk_Swords.php">象牙劍</a>就可以讓矛象伕攻擊+3，攻擊達到了17，絕對是所有大象中近戰威力最強的，不過高棉沒有
               <a
               href="Faith.php">忠誠信仰</a>和<a href="Heresy.php">異端邪說</a>。</ul>
             <ul>
@@ -62,7 +62,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">近戰單位、<a href="building.php">建築物</a>
+              <td class="tta4">近戰單位、<a href="Armor_class_building.php>建築物</a>
               </td>
             </tr>
             <tr>
@@ -98,7 +98,7 @@
                 <a
                 href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+3。<a href="Burmese.php">緬甸</a>限定
                   <br/>
-                  <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Tusk Swords.php">象牙劍</a>(+3。<a href="Khmer.php">高棉</a>限定 )</td>
+                  <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Tusk_Swords.php">象牙劍</a>(+3。<a href="Khmer.php">高棉</a>限定 )</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -401,7 +401,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">+7對<a href="Armor_class_stone_defense.php">石材建築類</a>
+              <td class="unit4">+7對<a href="Armor_Class_stone_defense.php">石材建築類</a>
                 <br/>+7對<a href="Armor_Class_Building.php">建築類</a>
               </td>
             </tr>
@@ -414,7 +414,7 @@
               <td class="unit4">2.03</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Armor_class.php">近防</a>
+              <td class="unit3"><a href="Armor_Class.php">近防</a>
               </td>
               <td class="unit4">1</td>
             </tr>
@@ -423,7 +423,7 @@
               <td class="unit4">2</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Armor_class.php">裝甲類型</a>
+              <td class="unit3"><a href="Armor_Class.php">裝甲類型</a>
               </td>
               <td class="unit4"><a href="Armor_Class_Cavalry.php">騎兵</a>
                 <br/><a href="Armor_Class_War_Elephant.php">戰象</a>

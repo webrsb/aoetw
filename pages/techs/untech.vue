@@ -200,7 +200,7 @@
                 >高棉</a
               >
             </td>
-            <td class="tunitc4"><a href="Tusk Swords.php">象牙劍</a></td>
+            <td class="tunitc4"><a href="Tusk_Swords.php">象牙劍</a></td>
             <td class="tunitc5">200W 300G</td>
             <td class="tunitc6">矛象伕攻擊+3。</td>
           </tr>
@@ -233,7 +233,7 @@
                 >馬來</a
               >
             </td>
-            <td class="tunitc4"><a href="Thalassocracy.phpp">海上霸主</a></td>
+            <td class="tunitc4"><a href="Thalassocracy.php">海上霸主</a></td>
             <td class="tunitc5">300F 300G</td>
             <td class="tunitc6">碼頭升級成海港。</td>
           </tr>
@@ -444,8 +444,8 @@
             <td class="tunitc6">
               <a href="Cavalry_Units.php">騎兵單位</a>和<a href="Arambai.php"
                 >飛鏢騎兵</a
-              >對 <a href="Armor_class_building.php">建築物</a>和<a
-                href="Armor_class_standard_building.php"
+              >對 <a href="Armor_Class_Building.php">建築物</a>和<a
+                href="Armor_Class_standard_building.php"
                 >標準建築</a
               >攻擊+3。
             </td>
@@ -501,7 +501,7 @@
               >
             </td>
             <td class="tunitc4">
-              <a href="Torsion Engines.php">扭力彈射器</a>
+              <a href="Torsion_Engines.php">扭力彈射器</a>
             </td>
             <td class="tunitc5">1000F 600G</td>
             <td class="tunitc6">
@@ -671,7 +671,7 @@
                 >波斯</a
               >
             </td>
-            <td class="tunitc4"><a href="Mahouts.phpp">象伕</a></td>
+            <td class="tunitc4"><a href="Mahouts.php">象伕</a></td>
             <td class="tunitc5">300F 300G</td>
             <td class="tunitc6">戰象移動速度+30%。</td>
           </tr>

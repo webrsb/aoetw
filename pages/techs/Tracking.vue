@@ -216,7 +216,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/VBRSK.jpg" /><a href="Bersek.php"
+              <img class="gg" src="~assets/VBRSK.jpg" /><a href="Berserk.php"
                 >狂戰士(精銳)</a
               >
             </td>

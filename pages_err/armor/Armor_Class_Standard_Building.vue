@@ -57,7 +57,7 @@
     <li><img width="25px" src="~assets/Watchtowericon.png" alt=""><a href="Guard_Tower.php">防禦箭塔</a></li>
     <li><img width="25px" src="~assets/Watchtowericon.png" alt=""><a href="Keep.php">大型箭塔</a></li>
     <li><img width="25px" src="~assets/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a></li>
-    <li><img width="25px" src="~assets/Feitoriaicon.png" alt=""><a href="">港灣大商站</a>(<a href="Portyguese.php">葡萄牙</a>限定)</li>
+    <li><img width="25px" src="~assets/Feitoriaicon.png" alt=""><a href="">港灣大商站</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
     <li><img width="25px" src="~assets/Dockicon.png" alt=""><a href="">巨港</a>(<a href="Malians.php">馬來</a>限定)</li>
 </ul>
 </div>
@@ -124,7 +124,7 @@
         <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>→
         <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a></li>
      <li><img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a>(<a href="Franks.php">法蘭克</a>限定)</li>
-     <li><img class="gg" src="~assets/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Eithopians.php">衣索比亞</a>限定)</li>
+     <li><img class="gg" src="~assets/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Ethiopians.php">衣索比亞</a>限定)</li>
      <li><img class="gg" src="~assets/Karambitwarrioricon.png" alt=""><a href="Karambit_Warrior.php">精銳爪刀勇士</a>(<a href="Malay.php">馬來</a>限定)</li>
     </ul>
     </div>
@@ -183,7 +183,7 @@
      </li>
      <li><img class="gg"  src="~assets/CondottieroNewIcon.jpg" alt=""><a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</li>
      <li><img class="gg" src="~assets/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">彎刀勇士</a>→
-        <img class="gg" src="~assets/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Eithopians.php">衣索比亞</a>限定)
+        <img class="gg" src="~assets/ShotelIcon.png" alt=""><a href="Shotel_Warrior.php">精銳彎刀勇士</a>(<a href="Ethiopians.php">衣索比亞</a>限定)
      </li>
      <li><img class="gg" src="~assets/GbetoIcon.png" alt=""><a href="Gbeto.php">飛刀女獵手</a>→
         <img class="gg" src="~assets/GbetoIcon.png" alt=""><a href="Gbeto.php">精銳飛刀女獵手</a>(<a href="Malians.php">馬利</a>限定)

@@ -303,7 +303,7 @@
             </tr>
             <tr>
               <td class="tunitc6">
-                <img class="gg" src="~assets/GenitourIcon.jpg" alt=""><a href="GenitourIcon.php">標槍騎兵</a>
+                <img class="gg" src="~assets/GenitourIcon.jpg" alt=""><a href="Genitour.php">標槍騎兵</a>
               </td>
               <td class="tunitc4"><a href="Berbers.php">柏柏</a>
               </td>

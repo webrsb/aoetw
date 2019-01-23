@@ -48,7 +48,7 @@
                 href="Galley.php">戰船</a>開火速率快20%。</li>
               <li><a href="Spanish.php">西班牙</a>:<a href="Cannon_Galleon.php">火炮戰船</a>有
                 <a
-                href="Ballistic.php">彈道學</a>加成。</li>
+                href="Ballistics.php">彈道學</a>加成。</li>
               <li><a href="Vikings.php">維京</a>:<a href="Galley.php">戰船</a>在封建/城堡/帝王造價便宜15%/15%/20%。</li>
             </ul>
           </div>
@@ -526,7 +526,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Ballistics.jpg" alt=""><a href="Ballistic.php">彈道學</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Ballistics.jpg" alt=""><a href="Ballistics.php">彈道學</a>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">300W 175G</td>

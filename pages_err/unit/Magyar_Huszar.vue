@@ -54,7 +54,7 @@
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4"><a href="Boyar.php">貴族鐵騎</a>、<a href="Spearman.php">重裝長槍兵</a>、<a href="Kamayuk.php">槍隊長</a>、
                 <a
-                href="Bersek.php">狂戰士</a>、<a href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Teutonic_Knight.php">條頓武士</a>、
+                href="Berserk.php">狂戰士</a>、<a href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Teutonic_Knight.php">條頓武士</a>、
                   <a
                   href="Mameluke.php">奴隸兵</a>、<a href="Camel.php">駱駝騎兵</a>、<a href="Eagle_Warrior.php">鷹勇士</a>、
                     <a
@@ -358,8 +358,8 @@
             </tr>
             <tr>
               <td class="unit3">裝甲類型</td>
-              <td class="unit4"><a href="Armor_Class:_Cavalry_Archer.php">騎兵</a>
-                <br/><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="Armor_Class_Cavalry_Archer.php">騎兵</a>
+                <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

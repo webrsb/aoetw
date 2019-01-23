@@ -120,7 +120,7 @@
                   <td class="unit4">0.25</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="">近防</a>
+                  <td class="unit3">近防
                   </td>
                   <td class="unit4">10</td>
                 </tr>
@@ -129,13 +129,13 @@
                   <td class="unit4">10</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="Armor_class.php">防禦類型</a>
+                  <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
                   </td>
                   <td class="unit4">攻城武器(+50)
                     <td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="">跑速</a>
+                  <td class="unit3">跑速
                   </td>
                   <td class="unit4">4.5</td>
                 </tr>

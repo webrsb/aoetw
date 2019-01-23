@@ -143,7 +143,7 @@
                     <img class="gg" src="~assets/Millicon.png" width="30" alt=""><a href="Mill.php">磨坊</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php  Farm.phpp">農田</a>
+                    <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="Farm.php  Farm.php">農田</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Miningcampicon.png" width="30" alt=""><a href="Mining_Camp.php">採礦營地</a>
@@ -155,7 +155,7 @@
                     <img class="gg" src="~assets/Dockicon.png" width="30" alt=""><a href="Dock.php">碼頭</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Barracks-logo.jpg" width="30" alt=""><a href="Barracks.phpp">軍營</a>
+                    <img class="gg" src="~assets/Barracks-logo.jpg" width="30" alt=""><a href="Barracks.php">軍營</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Outposticon.png" width="30" alt=""><a href="Outpost.php">哨站</a>
@@ -435,7 +435,7 @@
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+            <h3><em><a href="aok.php">帝王世紀</a></em></h3>
             <ul>
               <li>村民對箭塔、牆與城堡有+3的攻擊。</li>
               <li>土耳其的村民挖金速度快15％。</li>

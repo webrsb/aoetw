@@ -93,7 +93,7 @@
                 >攻城武器</a
               >
               +5 <br />對<a href="Armor_Class_Cavalry.php">騎兵</a> +4
-              <br />對<a href="Armor_Class_building.php">建築</a> +3 <br />對<a
+              <br />對<a href="Armor_Class_Building.php">建築</a> +3 <br />對<a
                 href="Armor_Class_Camel.php"
                 >駱駝</a
               >

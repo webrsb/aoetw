@@ -314,7 +314,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Malians.php">馬利</a>：研究<a href="Ballistic.php">彈道學</a>的速度提高80%</li>
+              <li><a href="Malians.php">馬利</a>：研究<a href="Ballistics.php">彈道學</a>的速度提高80%</li>
               <li><a href="Teutons.php">條頓</a>：快速火戰船對招降的抵抗力更強。</li>
             </ul>
           </div>
@@ -342,7 +342,7 @@
             <ul>
               <li>火快速戰船現在有9的遠防並對反船隻攻擊有額外+9護甲。</li>
               <li>引入<a href="Fire_Galley.php">火蒙衝</a>。</li>
-              <li>4.8版本後快速火戰船會受到<a href="Ballistic.php">彈道學</a>的影響。</li>
+              <li>4.8版本後快速火戰船會受到<a href="Ballistics.php">彈道學</a>的影響。</li>
             </ul>
             <h3><em><a href="aor.php">王者崛起</a></em></h3>
             <ul>
@@ -439,7 +439,7 @@
               <td class="unit3">傷害加成</td>
               <td class="unit4">+4對<a href="Armor_Class_Ship.php">船</a> 
                 <br/>+3對<a href="Armor_Class_Turtle_Ship.php">龜甲船</a> 
-                <br/>+3對<a href="Armor_class_building.php">建築</a>
+                <br/>+3對<a href="Armor_Class_Building.php">建築</a>
               </td>
             </tr>
             <tr>

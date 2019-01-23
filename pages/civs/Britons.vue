@@ -90,7 +90,7 @@
             <em><a href="aof.php">失落的帝國</a></em>
           </h3>
           <ul>
-            <li>獲得<a href="Cannon_Galleon .php">火砲戰船</a>。</li>
+            <li>獲得<a href="Cannon_Galleon.php">火砲戰船</a>。</li>
             <li><a href="Longbowman.php">長弓兵</a>訓練時間減少到17秒。</li>
             <li>獲得<a href="Heavy_Scorpion.php">重型弩砲</a>。</li>
             <li>

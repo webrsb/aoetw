@@ -104,7 +104,7 @@
               <td width="19%">遠距單位</td>
               <td width="9%"><a href="Hit_points.php">生命值</a></td>
               <td width="9%"><a href="Attack.php">攻擊</a></td>
-              <td width="9%"><a href="Armor_class.php">防禦</a></td>
+              <td width="9%"><a href="Armor_Class.php">防禦</a></td>
               <td width="9%">射程</td>
               <td width="9%"><a href="Rate_of_Fire.php">射速</a></td>
               <td width="9%">命中率</td>
@@ -1013,7 +1013,7 @@
                   style="margin: 2px;"
                   src="~assets/Thumb_Ring.png"
                   alt=""
-                /><a href="Thumb _Ring.php">拇指環</a>
+                /><a href="Thumb_Ring.php">拇指環</a>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">300F 250W</td>

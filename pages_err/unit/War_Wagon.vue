@@ -88,12 +88,12 @@
               <tr>
                 <td class="tta1" style="width:10%">開火速度</td>
                 <td class="tta4">
-                  <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+11%)</td>
+                  <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+11%)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">命中率</td>
                 <td class="tta4">
-                  <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
+                  <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
                   <br/>
                 </td>
               </tr>
@@ -309,9 +309,9 @@
             <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高馬戰車的生產速度還有加速
               <a
               href="Conscription.php">徵兵制度</a>的研究時間(快25%)</li>
-            <li><a href="Teutons.php">不列顛</a>：研究<a href="Thumb _Ring.php">拇指環</a>速度快20%。</li>
+            <li><a href="Teutons.php">不列顛</a>：研究<a href="Thumb_Ring.php">拇指環</a>速度快20%。</li>
             <li><a href="Teutons.php">匈奴</a>：研發<a href="Husbandry.php">畜牧培育</a>速度快20%。</li>
-            <li><a href="Teutons.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>速度快80%。</li>
+            <li><a href="Teutons.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistics.php">彈道學</a>速度快80%。</li>
             <li><a href="Teutons.php">條頓</a>：馬戰車更不容易被招降。</li>
           </ul>
         </div>
@@ -413,7 +413,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對<a href="Armor_class_stone_defense.php">石造防禦建築</a>攻擊+5</td>
+            <td class="unit4">對<a href="Armor_Class_stone_defense.php">石造防禦建築</a>攻擊+5</td>
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>

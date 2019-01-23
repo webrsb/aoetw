@@ -38,7 +38,7 @@
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4"><a href="Pikeman.php">重裝長槍兵</a>、<a href="Teutonic_Knight.php">條頓武士</a>、
                 <a
-                href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Bersek.php">狂戰士</a>。</td>
+                href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a href="Berserk.php">狂戰士</a>。</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -341,7 +341,7 @@
               <td class="unit4">+18對<a href="Armor_Class_Cavalry.php">騎兵類</a>
                 <br/>+9對<a href="Armor_Class_Camel.php">駱駝類</a>
                 <br/>+9對<a href="Armor_Class_Ship.php">船類</a>
-                <br/>+6對<a href="Armor_class_building.php">建築</a>
+                <br/>+6對<a href="Armor_Class_Building.php">建築</a>
               </td>
             </tr>
             <tr>
@@ -350,7 +350,7 @@
                 <td class="unit4">2.03</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="">近防</a>
+                <td class="unit3">近防
                 </td>
                 <td class="unit4">0</td>
               </tr>
@@ -364,7 +364,7 @@
                 </td>
               </tr>
               <tr>
-                <td class="unit3"><a href="">跑速</a>
+                <td class="unit3">跑速
                 </td>
                 <td class="unit4">1.45</td>
               </tr>

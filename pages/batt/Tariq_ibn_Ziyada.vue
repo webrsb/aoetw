@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是說關於塔里克．伊本．齊亞德戰役。而關於英雄的塔里克．伊本．齊亞德這個單位請參見<a
-              href="Tariq_ibn_Ziyad .php"
+              href="Tariq_ibn_Ziyad.php"
               >塔里克．伊本．齊亞德(英雄)</a
             ></em
           >

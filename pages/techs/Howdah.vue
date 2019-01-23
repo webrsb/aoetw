@@ -39,7 +39,7 @@
                 href="Manipur_Cavalry.php"
                 >曼尼普爾騎兵</a
               >則讓矛象伕的每次攻擊能對
-              <a href="Armor_class_building.php">建築物</a>有更多傷害。
+              <a href="Armor_Class_Building.php">建築物</a>有更多傷害。
             </li>
           </ul>
         </div>

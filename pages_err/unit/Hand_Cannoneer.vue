@@ -203,8 +203,8 @@
         <div class="n1">
           <ul>
             <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速<a href="Conscription.php">徵兵制度</a>的研究時間(快25%)</li>
-            <li><a href="Britons.php">不列顛</a>：火槍兵生產快20%。研發<a href="Thumb _Ring.php">拇指環</a>速度快20%。</li>
-            <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>快80%。</li>
+            <li><a href="Britons.php">不列顛</a>：火槍兵生產快20%。研發<a href="Thumb_Ring.php">拇指環</a>速度快20%。</li>
+            <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistics.php">彈道學</a>快80%。</li>
             <li><a href="Teutons.php">條頓</a>：火槍兵更不容易被招降。</li>
             <li><a href="Turks.php">土耳其</a>:火槍兵訓練速度快20％。</li>
           </ul>
@@ -212,7 +212,7 @@
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+          <h3><em><a href="aok.php">帝王世紀</a></em></h3>
           <ul>
             <li>訓練火槍兵前還有一個火槍兵的科技需要研發。</li>
             <li>擁有55％的命中率。</li>
@@ -349,7 +349,7 @@
             <td class="unit4">5.5</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">近防</a>
+            <td class="unit3">近防
             </td>
             <td class="unit4">1</td>
           </tr>
@@ -358,14 +358,14 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">防禦類型</a>
+            <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
             </td>
             <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
               <br/> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
             </td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">跑速</a>
+            <td class="unit3">跑速
             </td>
             <td class="unit4">0.96</td>
           </tr>

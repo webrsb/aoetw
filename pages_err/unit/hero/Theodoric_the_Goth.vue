@@ -62,7 +62,7 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <td class="unit4">對<a href="Armor_Class_Archer.php">射手</a> +3
-                <br/>對<a href="Armor_Class_building.php">建築</a> +2</td>
+                <br/>對<a href="Armor_Class_Building.php">建築</a> +2</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>

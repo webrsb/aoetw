@@ -428,7 +428,7 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">近防</a></td>
+            <td class="unit3"><a href="Armor_Class.php">近防</a></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -436,11 +436,11 @@
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php"></a>防禦類型</td>
+            <td class="unit3"><a href="Armor_Class.php"></a>防禦類型</td>
             <td class="unit4"><a href="Armor_Class_Cavalry.php">騎兵</a></td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">跑速</a></td>
+            <td class="unit3">跑速</td>
             <td class="unit4">
               <img
                 class="gg"

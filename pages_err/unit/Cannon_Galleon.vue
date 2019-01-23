@@ -20,7 +20,7 @@
               href="Fire_Ship.php">火戰船</a>。</p>
             <p>當火炮戰船在執行岸邊轟炸城堡和箭塔時，火炮戰船身邊應該要有<a href="War_Galley.php">弩炮戰船</a>和<a href="Fire_Ship.php">火戰船</a>做護衛保護。</p>
             <p>一般來說，火炮戰船主要用來清理敵方海岸線的建築物，偶爾騷擾範圍內的地面單位。他們不應該用來對付敵方的船隻，而且如果海上威脅沒有完全消失的話，他們很容易就會被消滅。</p>
-            <p>西班牙的火炮戰船比其他文明的射速要快(每秒飛行7格而不是每秒飛行1.39格)，而且有<a href="Ballistic.php">彈道學</a>加成可以更容易擊中移動目標。</p>
+            <p>西班牙的火炮戰船比其他文明的射速要快(每秒飛行7格而不是每秒飛行1.39格)，而且有<a href="Ballistics.php">彈道學</a>加成可以更容易擊中移動目標。</p>
           </div>
            <h3>文明可訓練與否</h3> 
           <div class="hrn1"></div>
@@ -445,7 +445,7 @@
             </tr>
             <tr>
               <td class="unit3">傷害加成</td>
-              <td class="unit4">+200對<a href="Armor_class_building.php">建築</a>
+              <td class="unit4">+200對<a href="Armor_Class_Building.php">建築</a>
                 <br/>+40對<a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
                 <br/>+15對<a href="Armor_Class_Infantry.php">步兵</a>
                 <br/>+15對<a href="Armor_Class_Archer.php">弓兵</a>

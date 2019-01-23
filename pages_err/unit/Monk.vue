@@ -175,7 +175,7 @@
             <h3>更新日誌</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+              <h3><em><a href="aok.php">帝王世紀</a></em></h3>
               <ul>
                 <li><a href="Fervor.php">宗教狂熱</a>影響所有僧侶。</li>
                 <li>拜占庭僧侶治療速度快200%。</li>

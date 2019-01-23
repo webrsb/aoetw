@@ -42,7 +42,7 @@
                 <a
                 href="Conquistador.php">征服者</a>、<a href="Slinger.php">投石手</a>、<a href="Boyar.php">貴族鐵騎</a>、
                   <a
-                  href="Cataphract.php">聖騎兵</a>、<a href="Samurai.php">日本武士</a>、<a href="Bersek.php">狂戰士</a>、
+                  href="Cataphract.php">聖騎兵</a>、<a href="Samurai.php">日本武士</a>、<a href="Berserk.php">狂戰士</a>、
                     <a
                     href="Teutonic_Knight.php">條頓武士</a>。</td>
             </tr>
@@ -60,7 +60,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_class_standard_building.php">標準建築</a> 
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_Class_standard_building.php">標準建築</a> 
               </td>
             </tr>
             <tr>
@@ -296,7 +296,7 @@
               <td class="unit4">2.03</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="">近防</a>
+              <td class="unit3">近防
               </td>
               <td class="unit4">0/1(精英)</td>
             </tr>

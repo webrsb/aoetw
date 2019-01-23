@@ -14,8 +14,8 @@
             坑道工兵可於<a href="Castle_Age.php">帝王時代</a>的<a
               href="Castle.php"
               >城堡</a
-            >研發。可讓村民對 <a href="Armor_class_building.php">建築物</a>和<a
-              href="Armor_class_stone_defense.php"
+            >研發。可讓村民對 <a href="Armor_Class_Building.php">建築物</a>和<a
+              href="Armor_Class_stone_defense.php"
               >石造建築</a
             >攻擊力+15，讓村民能輕易摧毀敵對建築。不過很多玩家覺得坑道工兵不須研發因為村民應該主要是收集資源和蓋建築。不過對於被敵人圍住的資源，或者要摧毀位於玩家資源附近的敵方
             <a href="Mining_Camp.php">採礦營地</a>或<a href="Lumber_Camp.php"

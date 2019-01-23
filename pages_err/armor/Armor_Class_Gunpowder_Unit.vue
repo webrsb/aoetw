@@ -35,18 +35,18 @@
                 <img class="gg" src="~assets/ConquistadorIcon.jpg"
                 alt=""> <a href="Conquistador.php">精銳征服者</a>(<a href="Spanish.php">西班牙</a>限定)</li>
               <li>
-                <img class="gg" src="~assets/OrganGunIcon.jpg" alt=""> <a href="OrganGunIcon.php">風琴炮</a>→
+                <img class="gg" src="~assets/OrganGunIcon.jpg" alt=""> <a href="OrganGun.php">風琴炮</a>→
                 <img class="gg" src="~assets/OrganGunIcon.jpg"
-                alt=""> <a href="OrganGunIcon.php">精銳風琴炮</a>(<a href="Portugese.php">葡萄牙</a>限定)</li>
+                alt=""> <a href="OrganGun.php">精銳風琴炮</a>(<a href="Portugese.php">葡萄牙</a>限定)</li>
               <li>
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""> <a href="Cannon_Galleon.php">火炮戰船</a>→
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg"
                 alt=""> <a href="Cannon_Galleon.php">精銳火炮戰船</a> 
               </li>
               <li>
-                <img class="gg" src="~assets/TurtleShipIcon.jpg" alt=""> <a href="Turtleship.php">龜甲船</a>→
+                <img class="gg" src="~assets/TurtleShipIcon.jpg" alt=""> <a href="Turtle_ship.php">龜甲船</a>→
                 <img class="gg" src="~assets/TurtleShipIcon.jpg"
-                alt=""> <a href="Turtleship.php">精銳龜甲船</a>(<a href="Koreans.php">韓國</a>限定)</li>
+                alt=""> <a href="Turtle_ship.php">精銳龜甲船</a>(<a href="Koreans.php">韓國</a>限定)</li>
               <li>
                 <img class="gg" style="margin: 2px;" src="~assets/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a>
               </li>

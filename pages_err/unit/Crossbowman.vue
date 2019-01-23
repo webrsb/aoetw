@@ -83,14 +83,14 @@
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+18%)</td>
+                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+18%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
                 <br/>
-                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>:命中率提升到100%</td>
+                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>:命中率提升到100%</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -235,9 +235,9 @@
               <div class="n1">
                 <ul>
                   <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速<a href="Conscription.php">徵兵制度</a>的研究時間(快25%)</li>
-                  <li><a href="Britons.php">不列顛</a>：弩兵生產和升級快20%。研發<a href="Thumb _Ring.php">拇指環</a>速度快20%。</li>
+                  <li><a href="Britons.php">不列顛</a>：弩兵生產和升級快20%。研發<a href="Thumb_Ring.php">拇指環</a>速度快20%。</li>
                   <li><a href="Magyars.php">馬扎爾</a>：弩兵<a href="">視野</a>+2。</li>
-                  <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistic.php">彈道學</a>快80%。</li>
+                  <li><a href="Malians.php">馬利</a>：研究<a href="Chemistry.php">化學</a>和<a href="Ballistics.php">彈道學</a>快80%。</li>
                   <li><a href="Saracens.php">薩拉森</a>：弩兵對<a href="Armor_Class_Standard_Building.php">標準建築</a>攻擊+1。</li>
                   <li><a href="Teutons.php">條頓</a>：弩兵更不容易被招降。</li>
                 </ul>

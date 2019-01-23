@@ -102,7 +102,7 @@
                   <td class="unit4">5.5</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="">近防</a>
+                  <td class="unit3">近防
                   </td>
                   <td class="unit4">2</td>
                 </tr>
@@ -111,12 +111,12 @@
                   <td class="unit4">0</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="Armor_class.php">防禦類型</a>
+                  <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
                   </td>
                   <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>、 <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a> 、特殊單位</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="">跑速</a>
+                  <td class="unit3">跑速
                   </td>
                   <td class="unit4">0.96</td>
                 </tr>

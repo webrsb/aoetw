@@ -18,8 +18,8 @@
               href="Cavalry_Units.php"
               >騎兵單位</a
             >和<a href="Arambai.php">飛鏢騎兵</a>對
-            <a href="Armor_class_building.php">建築物</a>和<a
-              href="Armor_class_standard_building.php"
+            <a href="Armor_Class_Building.php">建築物</a>和<a
+              href="Armor_Class_standard_building.php"
               >標準建築</a
             >+3攻擊。
           </p>
@@ -56,10 +56,10 @@
           </h3>
           <ul>
             <li>
-              曼尼普爾騎兵一開始只對<a href="Armor_class_building.php">建築物</a
-              >攻擊+6。5.3改版後對<a href="Armor_class_building.php">建築物</a
+              曼尼普爾騎兵一開始只對<a href="Armor_Class_Building.php">建築物</a
+              >攻擊+6。5.3改版後對<a href="Armor_Class_Building.php">建築物</a
               >和
-              <a href="Armor_class_standard_building.php">標準建築</a
+              <a href="Armor_Class_standard_building.php">標準建築</a
               >都有加成，這讓建築學不能完全抵消曼尼普爾騎兵的效果。
             </li>
           </ul>

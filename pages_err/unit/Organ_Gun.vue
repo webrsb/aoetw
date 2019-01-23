@@ -338,7 +338,7 @@
               <td class="unit3">裝甲類型</td>
               <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
                 <br/><a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-                <br/><a href="Armor_Class:_Unique_Unit.php">特殊單位</a>
+                <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
               </td>
             </tr>
             <tr>

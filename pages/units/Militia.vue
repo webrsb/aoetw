@@ -76,7 +76,7 @@
               <img class="gg" src="~assets/Arson.jpg" width="30" alt="" /><a
                 href="Arson.php"
                 >縱火</a
-              >:步兵+2攻擊vs<a href="Armor_class_standard_building.php"
+              >:步兵+2攻擊vs<a href="Armor_Class_standard_building.php"
                 >標準建築</a
               >
               <br />
@@ -349,7 +349,7 @@
             </li>
             <li>
               <a href="Goths.php">哥德</a>：民兵從封建時代開始便宜35％並對<a
-                href="building.php"
+                href="Armor_class_building.php
                 >建築物</a
               >攻擊+1。研發 <a href="Perfusion.php">灌注士氣</a>後研發<a
                 href="Tracking.php"
@@ -415,7 +415,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aoe.php">帝王世紀</a></em>
+            <em><a href="aok.php">帝王世紀</a></em>
           </h3>
           <ul>
             <li>民兵遠防是0。</li>
@@ -597,7 +597,7 @@
             <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a></td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">跑速</a></td>
+            <td class="unit3">跑速</td>
             <td class="unit4">0.9</td>
           </tr>
           <tr>

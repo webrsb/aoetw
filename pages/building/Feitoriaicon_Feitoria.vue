@@ -227,8 +227,8 @@
           <tr>
             <td class="unit3">護甲類別</td>
             <td class="unit4">
-              <a href="Armor_class_building.php">建築物</a> <br />
-              <a href="Armor_class_standard_building.php">標準建築</a>
+              <a href="Armor_Class_Building.php">建築物</a> <br />
+              <a href="Armor_Class_standard_building.php">標準建築</a>
             </td>
           </tr>
           <tr>

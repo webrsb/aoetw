@@ -84,7 +84,7 @@
                 <td class="unit4">0.9</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="">近防</a>
+                <td class="unit3">近防
                 </td>
                 <td class="unit4">99</td>
               </tr>
@@ -93,13 +93,13 @@
                 <td class="unit4">99</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="Armor_class.php">防禦類型</a>
+                <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
                 </td>
                 <td class="unit4">無
                   <td>
               </tr>
               <tr>
-                <td class="unit3"><a href="">跑速</a>
+                <td class="unit3">跑速
                 </td>
                 <td class="unit4">0.99</td>
               </tr>

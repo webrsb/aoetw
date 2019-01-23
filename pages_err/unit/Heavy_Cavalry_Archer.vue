@@ -120,14 +120,14 @@
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>(+11%)</td>
+                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>(+11%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
                 <br/>
-                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb _Ring.php">拇指環</a>:命中率提升到100%</td>
+                <img class="gg" src="~assets/Thumb_Ring.png" width="30" alt=""><a href="Thumb_Ring.php">拇指環</a>:命中率提升到100%</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -353,7 +353,7 @@
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <h3><em><a href="aoe.php">帝王世紀</a></em></h3>
+          <h3><em><a href="aok.php">帝王世紀</a></em></h3>
           <ul>
             <li>成本為40木材70黃金。</li>
             <li>移動速度為1.43，射程3。</li>
@@ -490,7 +490,7 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">近防</a>
+            <td class="unit3">近防
             </td>
             <td class="unit4">1</td>
           </tr>
@@ -507,7 +507,7 @@
           </tr>
           <tr>
             <tr>
-              <td class="unit3"><a href="">跑速</a>
+              <td class="unit3">跑速
               </td>
               <td class="unit4">1.4</td>
             </tr>

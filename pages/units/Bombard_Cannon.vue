@@ -75,7 +75,7 @@
         <div class="n1">
           <p>
             火砲是非常強大的兵種，他可以摧毀大部分的建築，射程只輸給條頓城堡、韓國箭塔與土耳其<a
-              href="Cannon_Galleon .php"
+              href="Cannon_Galleon.php"
               >火砲戰船</a
             >。一群火砲可以瞬間摧毀一個
             <a href="Town_Center.php">城鎮中心</a>，但務必給予充分的保護。除了<a
@@ -102,7 +102,7 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="building.php">建築物</a>、<a href="Scorpion.php">弩炮</a
+              <a href="Armor_class_building.php>建築物</a>、<a href="Scorpion.php">弩炮</a
               >、<a href="Archer_Units.php">弓兵</a>、
               <a href="Mangonel.php">投石車</a>、<a href="Trebuchet.php"
                 >巨型投石機</a
@@ -132,7 +132,7 @@
               >:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
               <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="Torsion Engines.php"
+                href="Torsion_Engines.php"
                 >扭力彈射器</a
               >：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php"
                 >衣索比亞</a
@@ -399,7 +399,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aoe.php">帝王世紀</a></em>
+            <em><a href="aok.php">帝王世紀</a></em>
           </h3>
           <ul>
             <li>火砲必須先研發科技才可以訓練。</li>
@@ -597,8 +597,8 @@
             <td class="unit3">攻擊加成</td>
             <div class="unititle2">數據</div>
             <td class="unit4">
-              +200對<a href="Armor_class_building.php">建築</a> <br />+40對<a
-                href="Armor_class_stone_defense.php"
+              +200對<a href="Armor_Class_Building.php">建築</a> <br />+40對<a
+                href="Armor_Class_stone_defense.php"
                 >石頭建築</a
               >
               <br />+40對<a href="Armor_Class_Ship.php">船類</a> <br />+20對<a
@@ -636,7 +636,7 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">近防</a></td>
+            <td class="unit3"><a href="Armor_Class.php">近防</a></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
@@ -644,14 +644,14 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">防禦類型</a></td>
+            <td class="unit3"><a href="Armor_Class.php">防禦類型</a></td>
             <td class="unit4">
               <a href="Armor_Class_Siege_Weapon.php">攻城武器</a> <br />
               <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
             </td>
           </tr>
           <tr>
-            <td class="unit3"><a href="">跑速</a></td>
+            <td class="unit3">跑速</td>
             <td class="unit4">0.7</td>
           </tr>
           <tr>

@@ -63,7 +63,7 @@
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistic.php">彈道學</a>:對移動目標命中率上升(只影響《世紀帝國II:失落的帝國》的攻城塔)</td>
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升(只影響《世紀帝國II:失落的帝國》的攻城塔)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -260,7 +260,7 @@
           <div class="n1">
             <ul>
               <li><a href="Celts.php">賽爾特</a>：攻城塔訓練速度快20%。</li>
-              <li><a href="Malians.php">馬利</a>：研發<a href="Ballistic.php">彈道學</a>，<a href="Chemistry.php">化學</a>和
+              <li><a href="Malians.php">馬利</a>：研發<a href="Ballistics.php">彈道學</a>，<a href="Chemistry.php">化學</a>和
                 <a
                 href="Siege_Engineers.php">攻城工程師</a>的速度快80%。</li><strong>(這些科技只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)</strong> 
               <li><a href="Teutons.php">條頓</a>：攻城塔對僧侶的招降有較好的抗性。</li>
@@ -272,7 +272,7 @@
             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
             <ul>
               <li>攻城塔成本為300W/160G。</li>
-              <li>攻城塔有6的射程(最小射程1)6的攻擊(對<a href="building.php">建築物</a>+6)，射速為4，命中率為90％。</li>
+              <li>攻城塔有6的射程(最小射程1)6的攻擊(對<a href="Armor_class_building.php>建築物</a>+6)，射速為4，命中率為90％。</li>
               <li>移動速度0.6。</li>
             </ul>
             <h3><em><a href="ak.php">非洲王國</a></em></h3>
@@ -384,7 +384,7 @@
             <td class="unit4">220</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">近防</a>
+            <td class="unit3"><a href="Armor_Class.php">近防</a>
             </td>
             <td class="unit4">-2</td>
           </tr>
@@ -393,7 +393,7 @@
             <td class="unit4">100</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_class.php">防禦類型</a>
+            <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
             </td>
             <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
               <br/> <a href="Armor_Class_Ram.php">衝撞車</a>
