@@ -106,8 +106,7 @@
 <script>
 export default {
   layout: 'allhero',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>

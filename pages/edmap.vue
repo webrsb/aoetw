@@ -91,8 +91,7 @@
 <script>
 export default {
   layout: 'allwide',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>

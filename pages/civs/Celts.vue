@@ -150,8 +150,7 @@
 <script>
 export default {
   layout: 'allciv',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>

@@ -67,9 +67,9 @@
                <div class="nw">
                   <h4 style="margin-top:30px;"><strong>每周精選</strong></h4>
                   <ul>
-                     <li><a href="Persians.php">波斯</a></li>
-                     <li><a href="Villager.php">村民</a></li>
-                     <li><a href="Castle.php">城堡</a></li>
+                     <li><a href="Taunts.php">嘲諷語音</a></li>
+                     <li><a href="Regeneration.php">回血</a></li>
+                     <li><a href="Garrison.php">駐軍</a></li>
                      <li><a href="Wonder.php">世界奇觀</a></li>
                   </ul>
                </div>
@@ -138,29 +138,28 @@
 
 <script>
 export default {
-  components: {
-  }
+  components: {}
 }
 </script>
 
 <style>
 .tit {
-    background: url(~assets/title3.jpg);
-    width: 100%;
-    height: 284px;
-    text-align: center;
-    color: aliceblue;
-    padding-top: 50px;
+  background: url(~assets/title3.jpg);
+  width: 100%;
+  height: 284px;
+  text-align: center;
+  color: aliceblue;
+  padding-top: 50px;
 }
 
 .tt2 {
-    font-size: 30px;
-    font-weight: bold;
-    margin-right: 530px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-right: 530px;
 }
 
 .tt {
-    font-size: 45px;
-    font-weight: bold;
+  font-size: 45px;
+  font-weight: bold;
 }
 </style>

@@ -221,8 +221,7 @@
 <script>
 export default {
   layout: 'allbatt',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>

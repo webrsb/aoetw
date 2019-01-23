@@ -177,8 +177,7 @@
 <script>
 export default {
   layout: 'allar',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>

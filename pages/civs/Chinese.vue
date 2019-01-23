@@ -323,10 +323,10 @@
     </div>
 </template>
 <script>
-   export default {
-     layout: 'allciv',
-     components: {
-     }
-   }
+export default {
+  layout: 'allciv',
+  components: {}
+}
 </script>
-<style></style>
+<style>
+</style>

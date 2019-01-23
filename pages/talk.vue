@@ -27,8 +27,7 @@
 <script>
 export default {
   layout: 'footn',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>

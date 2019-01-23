@@ -102,8 +102,7 @@
 <script>
 export default {
   layout: 'alltech',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>

@@ -534,8 +534,7 @@
 <script>
 export default {
   layout: 'tree',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>

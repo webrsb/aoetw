@@ -412,8 +412,7 @@
 <script>
 export default {
   layout: 'allunit',
-  components: {
-  }
+  components: {}
 }
 </script>
 <style>
