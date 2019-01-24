@@ -8,7 +8,7 @@
         <h1>印加-科技樹</h1>
         <div class="hrn1"></div>
       </div>
-      <input type="hidden" value="tree" />
+      <tree />
       <div class="hrn1"></div>
       <div class="n1">
         <table class="table">
@@ -1257,9 +1257,12 @@
   </div>
 </template>
 <script>
+import tree from '~/components/alltree'
 export default {
   layout: 'tree',
-  components: {}
+  components: {
+    tree
+  }
 }
 </script>
 <style></style>

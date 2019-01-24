@@ -8,7 +8,7 @@
         <h1>柏柏-科技樹</h1>
         <div class="hrn1"></div>
       </div>
-      <input type="hidden" value="tree" />
+      <tree />
       <div class="hrn1"></div>
       <div class="n1">
         <table class="table">
@@ -303,7 +303,7 @@
               <div><a href="Cavalier.php">騎兵</a></div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
-                src="~assets/paladinicon.jpg"
+                src="~assets/paladinIcon.jpg"
               />
               <div><a href="Paladin.php" class="">遊俠</a></div>
             </td>
@@ -1278,9 +1278,12 @@
   </div>
 </template>
 <script>
+import tree from '~/components/alltree'
 export default {
   layout: 'tree',
-  components: {}
+  components: {
+    tree
+  }
 }
 </script>
 <style></style>
