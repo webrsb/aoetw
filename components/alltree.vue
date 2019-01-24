@@ -16,16 +16,16 @@
         <div id="list" v-show="show" class="row">
             <div class="des col-md-3">
             <ul class="ult">
-                <li><a href="#軍營">軍營</a> </li>
-                <li><a href="#射箭場">射箭場</a> </li>
-                <li><a href="#馬廄">馬廄</a> </li>
-                <li><a href="#攻城器製造所">攻城器製造所</a> </li>
-                <li><a href="#城堡">城堡</a> </li>
-                <li><a href="#碼頭">碼頭</a> </li>
-                <li><a href="#兵工廠">兵工廠</a> </li>
-                <li><a href="#市集">市集</a> </li>
-                <li><a href="#修道院">修道院</a> </li>
-                <li><a href="#學院">學院</a> </li>
+                <li><nuxt-link to="#軍營">軍營</nuxt-link></li>
+                <li><nuxt-link to="#射箭場">射箭場</nuxt-link></li>
+                <li><nuxt-link to="#馬廄">馬廄</nuxt-link></li>
+                <li><nuxt-link to="#攻城器製造所">攻城器製造所</nuxt-link></li>
+                <li><nuxt-link to="#城堡">城堡</nuxt-link></li>
+                <li><nuxt-link to="#碼頭">碼頭</nuxt-link></li>
+                <li><nuxt-link to="#兵工廠">兵工廠</nuxt-link></li>
+                <li><nuxt-link to="#市集">市集</nuxt-link></li>
+                <li><nuxt-link to="#修道院">修道院</nuxt-link></li>
+                <li><nuxt-link to="#學院">學院</nuxt-link></li>
             </ul>
             </div>
             <div class="des col-md-9">
