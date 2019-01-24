@@ -18,6 +18,7 @@ jobs:
 
     steps:
       - checkout
+      - run: sudo apt install rsync
 
       # Download and cache dependencies
       - restore_cache:
@@ -25,7 +26,11 @@ jobs:
           - v1-dependencies-{{ checksum "package.json" }}
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
+      - restore_cache:
+          keys:
+          - v1-last_dist-
 
+      - run: mv $(pwd)/dist_cache old_dist_cache || mkdir old_dist_cache
       - run: yarn install
       - save_cache:
           paths:
@@ -34,30 +39,20 @@ jobs:
       - run:
           command: |
             yarn run generate
-      - restore_cache:
-          keys:
-          - v1-last_dist-
-      - run: mv $(pwd)/dist_cache old_dist_cache || mkdir old_dist_cache
       - run: mv $(pwd)/dist dist_cache
       - save_cache:
           paths:
             - dist_cache
           key: v1-last_dist-{{ .BuildNum }}
-  deploy:
-    steps:
-      - run: sudo apt install rsync
-      - run: rsync -rvcm --compare-dest=../old_dist_cache/ dist_cache/ dist/
       - deploy:
           command: |
+            rsync -rvcm --compare-dest=../old_dist_cache/ dist_cache/ dist/
             node .circleci/deploy.js
 workflows:
   version: 2
   build-and-deploy:
     jobs:
-      - build
-      - deploy:
-          requires:
-            - build
+      - build:
           filters:
             tags:
               only: /^v.*/
