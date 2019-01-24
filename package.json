@@ -1,6 +1,6 @@
 {
   "name": "aoetw",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "完整、準確的世紀帝國百科全書",
   "author": "leeci",
   "private": true,
@@ -24,6 +24,7 @@
     "eslint-config-prettier": "^3.1.0",
     "eslint-plugin-prettier": "2.6.2",
     "nodemon": "^1.11.0",
-    "prettier": "1.16.1"
+    "prettier": "1.16.1",
+    "ftp-deploy": "^2.3.0"
   }
 }
