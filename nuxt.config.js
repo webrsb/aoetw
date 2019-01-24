@@ -58,6 +58,7 @@ module.exports = {
     /*
     ** You can extend webpack config here
     */
+    quiet: false
   },
   router: {
     base: "/next"
