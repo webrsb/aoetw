@@ -48,11 +48,3 @@ jobs:
           command: |
             rsync -rvcm --compare-dest=../old_dist_cache/ dist_cache/ dist/
             node .circleci/deploy.js
-workflows:
-  version: 2
-  build-and-deploy:
-    jobs:
-      - build:
-          filters:
-            tags:
-              only: /^v.*/
