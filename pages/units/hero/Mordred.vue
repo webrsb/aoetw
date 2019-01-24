@@ -135,7 +135,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/paladinicon.jpg" width="80" alt="" />
+                <img src="~assets/PaladinIcon.jpg" width="80" alt="" />
               </div>
             </td>
           </tr>

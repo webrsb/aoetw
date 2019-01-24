@@ -303,7 +303,7 @@
               <div><a href="Cavalier.php">騎兵</a></div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg not"
-                src="~assets/paladinIcon.jpg"
+                src="~assets/PaladinIcon.jpg"
               />
               <div><a href="Paladin.php" class="">遊俠</a></div>
             </td>

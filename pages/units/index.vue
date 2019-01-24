@@ -258,7 +258,7 @@
                 <a href="Knight.php">騎士</a>→
                 <img class="gg" src="~assets/CavalierIcon.jpg" alt="" />
                 <a href="Cavalier.php">騎兵</a>→
-                <img class="gg" src="~assets/paladinicon.jpg" alt="" />
+                <img class="gg" src="~assets/PaladinIcon.jpg" alt="" />
                 <a href="Paladin.php">遊俠</a>
               </div>
             </td>

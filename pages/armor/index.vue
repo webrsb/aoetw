@@ -296,7 +296,7 @@
                     /><a href="Ballista_Elephant.php">精銳弩砲象</a>（7）
                   </li>
                   <li>
-                    <img class="gg" src="~assets/paladinicon.jpg" alt="" /><a
+                    <img class="gg" src="~assets/PaladinIcon.jpg" alt="" /><a
                       href="Paladin.php"
                       >遊俠</a
                     >（7）

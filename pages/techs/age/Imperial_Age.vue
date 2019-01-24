@@ -202,7 +202,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/paladinicon.jpg"
+                src="~assets/PaladinIcon.jpg"
                 width="22"
                 alt=""
               /><a href="Paladin.php">遊俠</a>：重裝騎兵單位。
