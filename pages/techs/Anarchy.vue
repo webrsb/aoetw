@@ -5,7 +5,7 @@
     <!-- Example row of columns -->
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
-        <h1><strong>無政府狀態</strong></h1>
+        <h1>無政府狀態</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -19,7 +19,7 @@
             >生產<a href="Huskarl.php">哥德衛隊</a>。
           </p>
         </div>
-        <h3><strong>戰術要點</strong></h3>
+        <h3>戰術要點</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -42,7 +42,7 @@
             </li>
           </ul>
         </div>
-        <h3><strong>文明加成</strong></h3>
+        <h3>文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

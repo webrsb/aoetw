@@ -5,8 +5,8 @@
     <!-- Example row of columns -->
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
-        <h1></h1>
-        <div class="hrn1">宗教狂熱</div>
+        <h1>宗教狂熱</h1>
+        <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
