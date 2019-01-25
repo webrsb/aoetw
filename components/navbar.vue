@@ -19,14 +19,20 @@
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">
         <b-nav-form>
-          <b-form-input size="sm" class="mr-sm-2" type="text" placeholder="請輸入關鍵字"/>
-          <b-button size="sm" class="my-2 my-sm-0" type="submit">搜尋</b-button>
+          <header_search />
         </b-nav-form>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
 </template>
-
+<script>
+import header_search from "~/components/header_search.vue"
+export default {
+  components: {
+    header_search
+  }
+}
+</script>
 <style>
     .hrn1{
     margin-top: 10px;
