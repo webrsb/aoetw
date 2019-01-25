@@ -11,7 +11,7 @@
           <div class="unititle">
             <slot v-if="$slots.name" name="image" />
             <p v-if="$slots.name">
-              <em><slot name="caption" /></em>
+              <em><slot name="caption"/></em>
             </p>
           </div>
         </td>
@@ -50,9 +50,7 @@
 </template>
 <script>
 export default {
-  mounted () {
-  }
+  mounted() {}
 }
 </script>
-<style>
-</style>
+<style></style>

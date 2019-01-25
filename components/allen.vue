@@ -9,9 +9,12 @@
             </td>
           </tr>
           <tr>
-            <td style="text-align: center;padding: 20px "> <a href="Hit_points.php">血量</a>· <a href="Attack.php">攻擊</a>· <a href="Rate_of_Fire.php">射速</a>·
-              <a
-              href="Frame_delay.php">開火間隔</a>· <a href="Armor_Class.php">防禦類型</a>· <a href="Area_of_Effect.php">擴散範圍</a> 
+            <td style="text-align: center;padding: 20px ">
+              <a href="Hit_points.php">血量</a>· <a href="Attack.php">攻擊</a>·
+              <a href="Rate_of_Fire.php">射速</a>·
+              <a href="Frame_delay.php">開火間隔</a>·
+              <a href="Armor_Class.php">防禦類型</a>·
+              <a href="Area_of_Effect.php">擴散範圍</a>
             </td>
           </tr>
         </table>

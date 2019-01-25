@@ -1,16 +1,16 @@
 <template>
   <div>
-    <navbar/>
-    <nuxt/>
-    <allar/>
-    <credit/>
+    <navbar />
+    <nuxt />
+    <allar />
+    <credit />
   </div>
 </template>
 
 <script>
-import navbar from "~/components/navbar.vue"
-import allar from "~/components/allar.vue"
-import credit from "~/components/credit.vue"
+import navbar from '~/components/navbar.vue'
+import allar from '~/components/allar.vue'
+import credit from '~/components/credit.vue'
 
 export default {
   components: {
@@ -21,5 +21,4 @@ export default {
 }
 </script>
 
-<style>
-</style>
+<style></style>

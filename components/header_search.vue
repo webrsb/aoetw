@@ -1,12 +1,18 @@
 <template>
-  <b-form-input size="sm" class="mr-sm-2" id="algolia" type="text" placeholder="請輸入關鍵字搜尋"/>
+  <b-form-input
+    size="sm"
+    class="mr-sm-2"
+    id="algolia"
+    type="text"
+    placeholder="請輸入關鍵字搜尋"
+  />
 </template>
 
 <script>
 let scriptInjected = false
 let callbacks = []
-let onScriptLoaded = (cb) => callbacks.push(cb)
-let scriptLoaded = () => callbacks.forEach((cb) => cb())
+let onScriptLoaded = cb => callbacks.push(cb)
+let scriptLoaded = () => callbacks.forEach(cb => cb())
 export default {
   mounted() {
     onScriptLoaded(() => this.addInstantSearch())
@@ -14,14 +20,20 @@ export default {
     // Load JS
     const script = document.createElement('script')
     script.setAttribute('type', 'text/javascript')
-    script.setAttribute('src', '//cdn.jsdelivr.net/docsearch.js/2/docsearch.min.js')
+    script.setAttribute(
+      'src',
+      '//cdn.jsdelivr.net/docsearch.js/2/docsearch.min.js'
+    )
     document.getElementsByTagName('body')[0].appendChild(script)
     script.onload = scriptLoaded
     // Load CSS
     var link = document.createElement('link')
     link.setAttribute('rel', 'stylesheet')
     link.setAttribute('type', 'text/css')
-    link.setAttribute('href', 'https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.css')
+    link.setAttribute(
+      'href',
+      'https://cdn.jsdelivr.net/docsearch.js/2/docsearch.min.css'
+    )
     document.getElementsByTagName('body')[0].appendChild(link)
     scriptInjected = true
   },

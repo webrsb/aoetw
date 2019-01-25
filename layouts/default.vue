@@ -1,21 +1,21 @@
 <template>
   <div>
-    <navbar/>
-    <nuxt/>
-    <credit/>
+    <navbar />
+    <nuxt />
+    <credit />
   </div>
 </template>
 
 <script>
-import navbar from "~/components/navbar.vue"
-import credit from "~/components/credit.vue"
+import navbar from '~/components/navbar.vue'
+import credit from '~/components/credit.vue'
 
 export default {
-    components: {
-      navbar,
-      credit
-    }
-};
+  components: {
+    navbar,
+    credit
+  }
+}
 </script>
 
 <style>
@@ -25,5 +25,4 @@ export default {
   box-sizing: border-box;
   margin: 0;
 }
-
 </style>
