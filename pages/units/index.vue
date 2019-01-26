@@ -1,7 +1,7 @@
 <template>
   <!-- Main jumbotron for a primary marketing message or call to action
     -->
-  <div class="container" style="margin-top:50px">
+  <div class="container padtop">
     <!-- Example row of columns -->
     <h1>單位</h1>
     <h3></h3>

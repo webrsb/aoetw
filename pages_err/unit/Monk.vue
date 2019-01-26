@@ -3,7 +3,7 @@
     -->
     <div class="container">
       <!-- Example row of columns -->
-      <div class="row" style=" margin-top: 50px;">
+      <div class="row padtop">
         <div class="col-md-12">
           <h1>僧侶</h1>
                    <div class="dc"><em><img src="~assets/Vladdraculaicon.png" width="50px;" alt="" style="margin-right:20px;">這條目相當完整，是一篇<a href="ue.php">優異條目</a><img src="~assets/u1.png" style="margin-left: 15px;" width="25px;" alt="" style="margin-right:10px;"></em>

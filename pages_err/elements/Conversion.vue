@@ -3,7 +3,7 @@
     -->
     <div class="container">
       <!-- Example row of columns -->
-      <div class="row" style=" margin-top: 50px;">
+      <div class="row padtop">
         <div class="col-md-12">
            <h1>招降</h1>
           <div class="hrn1"></div>
@@ -18,7 +18,6 @@
               <a
               href="Sanctity.php">聖潔虔誠</a>來改善。</p>
             <p>透過招降，可以獲得自己文明沒有的單位，例如南美文明可以有騎兵或火砲。招降也可以突破人口最大限制。</p>
-            </p>
           </div>
            <h3>策略</h3>
           <div class="hrn1"></div>

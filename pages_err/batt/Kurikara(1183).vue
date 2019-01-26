@@ -3,7 +3,7 @@
   
     <div class="container">
         <!-- Example row of columns -->
-<div class="row" style=" margin-top: 50px;">
+<div class="row padtop">
   <div class="col-md-12">
 <h1><strong>礪波山(1183)</strong></h1>
 <div class="hrn1"></div>

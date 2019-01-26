@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="row" style=" margin-top: 50px;">
+    <div class="row padtop">
       <div class="col-md-12">
         <h1>不列顛</h1>
         <div class="hrn1"></div>

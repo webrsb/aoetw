@@ -1,7 +1,7 @@
 <template>
     <div class="container">
       <!-- Example row of columns -->
-      <div class="row" style=" margin-top: 50px;">
+      <div class="row padtop">
         <h1>臺港知名玩家</h1>
         <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">持續更新頁面：任何意見，歡迎到<a href="talk.php">討論區</a>參與討論</em>
         </div>

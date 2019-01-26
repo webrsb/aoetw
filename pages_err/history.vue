@@ -3,7 +3,7 @@
   
     <div class="container">
         <!-- Example row of columns -->
-<div class="row" style=" margin-top: 50px;">
+<div class="row padtop">
   <div class="col-md-12">
 <h1>歷年比賽結果</h1>
 <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">持續更新頁面：此頁面持續更新，歡迎到<a href="talk.php">討論區</a>參與討論</em></div>
