@@ -226,7 +226,7 @@
               </td>
               <td class="tunitc4">攻城單位</td>
               <td class="tunitc6">火炮</td>
-              <td class="tunitc6"><nuxt-link to="/The_Siege_of _Paris.php">巴黎攻城戰</nuxt-link>
+              <td class="tunitc6"><nuxt-link to="/The_Siege_of_Paris.php">巴黎攻城戰</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -238,7 +238,7 @@
               <td class="tunitc6"><nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link>
                 <br/><nuxt-link to="/batt/The_Cleansing_of_the_Loire">羅亞爾河大掃蕩</nuxt-link>
                 <br/><nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
-                <br/><nuxt-link to="/The_Siege_of _Paris.php">巴黎攻城戰</nuxt-link>
+                <br/><nuxt-link to="/The_Siege_of_Paris.php">巴黎攻城戰</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -301,7 +301,7 @@
               </td>
               <td class="tunitc4">弓兵</td>
               <td class="tunitc6">強弩兵</td>
-              <td class="tunitc6"><nuxt-link to="/The_Siege_of _Paris.php">巴黎攻城戰</nuxt-link>
+              <td class="tunitc6"><nuxt-link to="/The_Siege_of_Paris.php">巴黎攻城戰</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -484,7 +484,7 @@
               </td>
               <td class="tunitc4">步兵</td>
               <td class="tunitc6">劍兵勇士</td>
-              <td class="tunitc6"><nuxt-link to="/The_Battle_of _Falkirk.php">福爾克之役</nuxt-link>
+              <td class="tunitc6"><nuxt-link to="/The_Battle_of_Falkirk.php">福爾克之役</nuxt-link>
               </td>
             </tr>
           </table>

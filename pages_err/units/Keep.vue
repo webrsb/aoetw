@@ -62,7 +62,7 @@
             </tr>
             <tr>
               <td class="tta1">劣勢(不易對抗)</td>
-              <td class="tta4"><nuxt-link to="/Siege_Weapon_Unit.php">攻城武器</nuxt-link>，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，
+              <td class="tta4"><nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，
                 <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link>，<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>。</td>
             </tr>
             <tr class="tta">
@@ -345,7 +345,7 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-                <br/> <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <br/> <nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>
                 <br/> <nuxt-link to="/armor/Armor_Class_stone_defense">石造建築</nuxt-link>
               </td>
             </tr>

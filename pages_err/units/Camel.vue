@@ -29,7 +29,7 @@
                  <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可訓練</span></strong></h4>  <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、 <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
                 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、 <nuxt-link to="/civs/Goths">哥德</nuxt-link>、 <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
                   <nuxt-link to="/civs/Incas">印加</nuxt-link>、 <nuxt-link to="/civs/Italians">義大利</nuxt-link>、 <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
-                    <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、 <nuxt-link to="/Magyar.php">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+                    <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、 <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
                       <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、 <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、 <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
                         <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、 <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、 <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
                           <nuxt-link to="/civs/Vikings">維京</nuxt-link>。</div>
@@ -157,7 +157,7 @@
                     <li>
                       <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
                   </div>

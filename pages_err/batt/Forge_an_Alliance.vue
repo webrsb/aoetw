@@ -129,7 +129,7 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <nuxt-link to="/The_Battle_of _Stirling.php">斯特林之役</td>      </tr>      <tr>        <td class="unit3">下一關</td>       <td class="unit4">        <nuxt-link to="/The_Battle_of _Falkirk.php">福爾克之役</nuxt-link>
+              <td class="unit4"> <nuxt-link to="/The_Battle_of_Stirling.php">斯特林之役</td>      </tr>      <tr>        <td class="unit3">下一關</td>       <td class="unit4">        <nuxt-link to="/The_Battle_of_Falkirk.php">福爾克之役</nuxt-link>
                 </p>
               </td>
             </tr>

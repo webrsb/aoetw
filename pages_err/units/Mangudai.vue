@@ -16,8 +16,8 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>蒙古突騎非常適合攻擊<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link to="/units/Villager">村民</nuxt-link>與<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>等移動緩慢的單位，也能夠用於突襲徒步弓兵。此外對
-              <nuxt-link to="/Siege_Weapon_Unit.php">攻城器</nuxt-link>加成讓蒙古突騎能以中距離射程殲滅<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>，使得<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>更難接近防禦工事。雖然蒙古突騎擁有對
-                <nuxt-link to="/Siege_Weapon_Unit.php">攻城器</nuxt-link>加成，但蒙古突騎仍然不適合與<nuxt-link to="/units/Mangonel">投石車</nuxt-link>或是<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>正面交鋒。除此之外也要避免
+              <nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link>加成讓蒙古突騎能以中距離射程殲滅<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>，使得<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>更難接近防禦工事。雖然蒙古突騎擁有對
+                <nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link>加成，但蒙古突騎仍然不適合與<nuxt-link to="/units/Mangonel">投石車</nuxt-link>或是<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>正面交鋒。除此之外也要避免
                   <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>及<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>接近，他們對蒙古突騎擁有大量的加成傷害。規模龐大的<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>與
                     <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>組合能夠完全壓制蒙古突騎，讓蒙古突騎迴避這個陣容才是上策。</p>
           </div>
@@ -179,7 +179,7 @@
                     <li>
                       <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                   </div>

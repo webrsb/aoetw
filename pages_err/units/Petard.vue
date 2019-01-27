@@ -82,7 +82,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>和<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
+              <td class="tta4"><nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>和<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -239,7 +239,7 @@
               <td class="unit4">0.5</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link>
               </td>
               <td class="unit4">0</td>
             </tr>

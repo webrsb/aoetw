@@ -56,7 +56,7 @@
                   to="/units/Mangonel"
                   >投石車</nuxt-link
                 >等
-                <nuxt-link to="/Siege_Weapon_Unit.php">攻城武器</nuxt-link
+                <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
                 >的破壞。
               </li>
             </div>
@@ -483,7 +483,7 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
               <br />
-              <nuxt-link to="/Armor_Class_standard_building.php"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
             </td>

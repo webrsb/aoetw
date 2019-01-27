@@ -181,7 +181,7 @@
                     <li>
                       <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+14攻擊</strong>
                   </div>
@@ -433,7 +433,7 @@
               <td class="unit3">攻擊加成</td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>+8
                 <br/> <nuxt-link to="/armor/Armor_Class_stone_defense">石頭建築</nuxt-link>+3/+4(精銳)
-                <br/> <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>+3，+4(精銳)
+                <br/> <nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>+3，+4(精銳)
                 <br/> <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>+2/+4(精銳)</td>
             </tr>
             <tr>

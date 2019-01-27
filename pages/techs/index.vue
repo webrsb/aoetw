@@ -59,7 +59,7 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">150F 50G</td>
             <td class="tunitc6">
-              步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php"
+              步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -173,7 +173,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Handcart.jpg" alt="" /><nuxt-link
-                to="/Hand_Cart.php"
+                to="/techs/Handcart"
                 >手推車</nuxt-link
               >
             </td>

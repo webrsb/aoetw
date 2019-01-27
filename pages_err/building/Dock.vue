@@ -18,7 +18,7 @@
             <ul>
               <li>碼頭是經濟和海戰的發展重點，因為碼頭能生產各種船隻，同時也是<nuxt-link to="/units/Fire_Ship">漁船</nuxt-link>、<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link>的基地。依據地圖的種類來建築、發展。</li>
               <li>當像是在群島的地圖中，碼頭就是一定要的，因為大部分的交戰都是在海上發生。建議在黑暗時代至少建造一個（最好是兩個）碼頭，以便通過生產漁船來提高經濟效益。</li>
-              <li>在<nuxt-link to="/Coasal.php">沿海</nuxt-link>、<nuxt-link to="/maps/Baltic">波羅的海</nuxt-link>、<nuxt-link to="/maps/Continental">大陸</nuxt-link>那類型的地圖上，雖然有一部分的水體，但是文明之間並沒有被水體隔開，在許多的情況下碼頭的影響力有限，但還是對經濟有一定的幫助，但海軍就只能用來支援陸上部隊、清除敵方沿海建築物，對遊戲勝敗影響較小。</li>
+              <li>在<nuxt-link to="/maps/Coastal">沿海</nuxt-link>、<nuxt-link to="/maps/Baltic">波羅的海</nuxt-link>、<nuxt-link to="/maps/Continental">大陸</nuxt-link>那類型的地圖上，雖然有一部分的水體，但是文明之間並沒有被水體隔開，在許多的情況下碼頭的影響力有限，但還是對經濟有一定的幫助，但海軍就只能用來支援陸上部隊、清除敵方沿海建築物，對遊戲勝敗影響較小。</li>
               <li>在<nuxt-link to="/Rivers">河流</nuxt-link>、<nuxt-link to="/maps/Highland">高地</nuxt-link>或其他以河流或湖泊為特徵的地圖，碼頭可以成為防禦性結構的一部分，因為河流和湖泊能提供地面部隊防護。在這種狀況下，使用海俊部隊能夠更有效的讓防禦性建築靠近水邊，在這種地圖上的淺灘是陸地部隊可以穿過河流的唯一窄點。</li>
               <li>通常在碼頭附近蓋暸望箭塔和城堡是很有幫助的，因為這些建築能有效的保護碼頭避免敵船的攻擊，還可以將碼頭放在海灣中，因為這會使敵方海軍難以攻擊碼頭。也可以為碼頭提供很好的保護。</li>
             </ul>
@@ -349,7 +349,7 @@
             <tr>
               <td class="unit3">護甲分類</td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-                <br/> <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <br/> <nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>
               </td>
             </tr>
             <tr>

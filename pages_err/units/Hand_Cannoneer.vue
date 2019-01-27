@@ -30,7 +30,7 @@
               <div class="n1">
                  <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可訓練</span></strong></h4>  <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、 <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
                 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、 <nuxt-link to="/civs/Chinese">中國</nuxt-link>、 <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
-                  <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、 <nuxt-link to="/civs/Incas">印加</nuxt-link>、 <nuxt-link to="/Magyar.php">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+                  <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、 <nuxt-link to="/civs/Incas">印加</nuxt-link>、 <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
                     <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、 <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、 <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
                       <nuxt-link to="/civs/Vikings">維京</nuxt-link>。</div>
             </div>
@@ -346,7 +346,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
             </td>
             <td class="unit4"><nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
               <br/> <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit">火藥單位</nuxt-link>

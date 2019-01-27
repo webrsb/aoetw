@@ -21,7 +21,7 @@
                  <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可訓練</span></strong></h4>  <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、 <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、 <nuxt-link to="/civs/Chinese">中國</nuxt-link>、 <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
                   <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、 <nuxt-link to="/civs/Goths">哥德</nuxt-link>、 <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、 <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-                    <nuxt-link to="/civs/Japanese">日本</nuxt-link>、 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、 <nuxt-link to="/Magyar.php">馬札爾</nuxt-link>、
+                    <nuxt-link to="/civs/Japanese">日本</nuxt-link>、 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、 <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
                       <nuxt-link to="/civs/Malians">馬利</nuxt-link>、 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、 <nuxt-link to="/civs/Persians">波斯</nuxt-link>、 <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
                         <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、 <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。</div>
             </div>
@@ -42,7 +42,7 @@
                 <nuxt-link to="/units/Mangonel">投石車</nuxt-link>對於馬弓騎兵是相當可怕的，另外 <nuxt-link to="/units/Camel">駱駝</nuxt-link>與 <nuxt-link to="/Camel_units/Archer">駱駝射手</nuxt-link>也可以輕易地解決馬弓騎兵。</p>
             <p>馬弓騎兵最強悍的文明絕對是<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>、<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>、
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>與<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>。蒙古人擁有絕佳的射速。匈奴人則是有便宜的<nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>，薩拉森人對建築有+4的攻擊，而馬札爾人在帝王時代透過
-                <nuxt-link to="/Recurve Bow.php">反曲弓</nuxt-link>科技，讓馬弓騎兵射程與攻擊額外+1。<nuxt-link to="/civs/Turks">土耳其人</nuxt-link>通過 <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>血量+20。</p>
+                <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>科技，讓馬弓騎兵射程與攻擊額外+1。<nuxt-link to="/civs/Turks">土耳其人</nuxt-link>通過 <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>血量+20。</p>
           </div>
           <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -178,7 +178,7 @@
                   <li>
                     <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""> <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                     <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                    alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                    alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                 </div>

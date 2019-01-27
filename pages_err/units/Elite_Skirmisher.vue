@@ -367,17 +367,17 @@
               <td class="unit4">7</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link>
               </td>
               <td class="unit4">0</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">遠防</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link>
               </td>
               <td class="unit4">4</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
               </td>
               <td class="unit4"> <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
               </td>

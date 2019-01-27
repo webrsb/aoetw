@@ -28,7 +28,7 @@
               <nuxt-link to="/armor/Armor_Class_Turtle_Ship">龜甲船</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Unique_Unit">特殊單位</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>·
-              <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_stone_defense">石頭建築</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_wall_and_gate">牆與門</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Castle">城堡</nuxt-link>

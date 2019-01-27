@@ -258,7 +258,7 @@
           <tr>
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/Siege_Weapon_Unit.php">攻城單位</nuxt-link
+              <nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
               >、<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>、
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/War_unitsanimal/Elephant"
@@ -545,7 +545,7 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
               <br />
-              <nuxt-link to="/Armor_Class_standard_building.php"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
               <br />

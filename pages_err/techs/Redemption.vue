@@ -14,7 +14,7 @@
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link to="/units/Missionary">傳教士</nuxt-link>招降攻城單位和大部分的敵方單位。</p>
             <p>所有建築物包含<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>都不能從遠處直接招降，僧侶和傳教士必須站在他們身邊才能進行招降，其他攻城武器(
               <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>和<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>)皆可從遠處直接招降</p>
-            <p>配上此科技後，僧侶搭配<nuxt-link to="/Crossbowma.php">弩兵</nuxt-link>將顯得相當難纏，因為僧侶可以處理弩兵懼怕的投石車，唯獨需先研發
+            <p>配上此科技後，僧侶搭配<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>將顯得相當難纏，因為僧侶可以處理弩兵懼怕的投石車，唯獨需先研發
               <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>，以免被投石車一發打死。</p>
           </div>
            <h3>文明可研發與否</h3> 

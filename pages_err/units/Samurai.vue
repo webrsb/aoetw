@@ -57,7 +57,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link> 
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link> 
               </td>
             </tr>
             <tr>
@@ -296,7 +296,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>+2/+3(精銳)
+              <td class="unit4">對<nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>+2/+3(精銳)
                 <br/>對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior">鷹勇士</nuxt-link>+2/+3(精銳)
                 <br/>對<nuxt-link to="/armor/Armor_Class_Unique_Unit">特殊單位</nuxt-link>+10/+12(精銳)</td>
             </tr>

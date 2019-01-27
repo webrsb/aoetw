@@ -22,7 +22,7 @@
         <div class="n1">
           <p>
             裝甲步兵，在封建時代對地人的打擊和干擾方面非常好用。由於速度較慢，對弓箭手尤其弱。可以訓練一些矛兵來對付弓箭手。而著名的<nuxt-link
-              to="/mantower.php"
+              to="/ar/armstower"
               >裝甲塔戰術</nuxt-link
             >更是讓新手聞風喪膽。裝甲步兵是打得贏斥候的。
           </p>
@@ -102,7 +102,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php"
+              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -559,7 +559,7 @@
               裝甲步兵的英文Man-at-Arms，其實名稱並不正確，因為Man-at-Arms是中古時代的重型騎兵。
             </li>
             <li>
-              馬來的民兵系再研發<nuxt-link to="/Forced Levy.php"
+              馬來的民兵系再研發<nuxt-link to="/techs/Forced_Levy"
                 >強制徵兵</nuxt-link
               >後不用黃金。
             </li>

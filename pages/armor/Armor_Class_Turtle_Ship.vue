@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於龜甲船裝甲的。而關於龜甲船請參見<nuxt-link
-              to="/Turtle_ship.php"
+              to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
             ></em
           >

@@ -39,7 +39,7 @@
               <div class="n1">
                  <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可訓練</span></strong></h4>  <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、 <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
                 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、 <nuxt-link to="/civs/Goths">哥德</nuxt-link>、 <nuxt-link to="/civs/Indians">印度</nuxt-link>、 <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-                  <nuxt-link to="/civs/Japanese">日本</nuxt-link>、 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、 <nuxt-link to="/Magyar.php">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+                  <nuxt-link to="/civs/Japanese">日本</nuxt-link>、 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、 <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
                     <nuxt-link to="/civs/Malians">馬利</nuxt-link>、 <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
                       <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。</div>
             </div>
@@ -65,7 +65,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>和<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
+              <td class="tta4"><nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>和<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -348,7 +348,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">+200 vs <nuxt-link to="/Armor_Class_standard_building.php">一般建築物</nuxt-link>(每1個步兵進駐攻擊+10，最多+40)
+              <td class="unit4">+200 vs <nuxt-link to="/armor/Armor_Class_standard_building">一般建築物</nuxt-link>(每1個步兵進駐攻擊+10，最多+40)
                 <br/>+65 vs <nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link> 
             </tr>
             <tr>
@@ -368,7 +368,7 @@
               <td class="unit4">195</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
               </td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link>
                 <br/> <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>(+2)</td>

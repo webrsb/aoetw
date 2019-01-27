@@ -63,7 +63,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link> 
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link> 
               </td>
             </tr>
             <tr>
@@ -297,7 +297,7 @@
               <td class="unit4">0/1(精銳)</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
               </td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
                 <br/> <nuxt-link to="/armor/Armor_Class_Unique_Unit">特殊單位</nuxt-link>

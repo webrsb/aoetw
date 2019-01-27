@@ -270,7 +270,7 @@
             <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
               <li>攻城塔成本為300W/160G。</li>
-              <li>攻城塔有6的射程(最小射程1)6的攻擊(對<nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>+6)，射速為4，命中率為90％。</li>
+              <li>攻城塔有6的射程(最小射程1)6的攻擊(對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>+6)，射速為4，命中率為90％。</li>
               <li>移動速度0.6。</li>
             </ul>
             <h3><em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em></h3>
@@ -380,7 +380,7 @@
             <td class="unit4">220</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link>
             </td>
             <td class="unit4">-2</td>
           </tr>
@@ -389,7 +389,7 @@
             <td class="unit4">100</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
             </td>
             <td class="unit4"><nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link>
               <br/> <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>

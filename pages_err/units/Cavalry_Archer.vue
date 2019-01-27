@@ -20,7 +20,7 @@
             <p>馬弓騎兵是遊戲中最好的騷擾者之一。但玩家必須做出適當操作，與敵人保持最佳距離。且馬弓騎兵並不便宜，如果要使用大量的馬弓，必須要有強大的經濟。馬弓對付大部分的步兵與慢速移動的單位非常有效果。</p>
             <p> <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、 <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>與<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>是絕佳的使用馬弓騎兵的國家。雖然其他文明也可以使用，但都不如這些國家。蒙古有非常出色的攻擊速度，匈奴有非常便宜的造價，可以把省下來的資源用於別的兵種，如騎兵。馬札爾、土耳其與薩拉森人則是在帝王時期可以展現出強大的威力。馬札爾通過
-                <nuxt-link to="/Recurve Bow.php">反曲弓</nuxt-link>技術，可以使射程與攻擊額外+1，土耳其人通過 <nuxt-link to="/techs/Sipahi">采邑騎士</nuxt-link>血量+20、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>人則是對建築物攻擊+4。</p>
+                <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>技術，可以使射程與攻擊額外+1，土耳其人通過 <nuxt-link to="/techs/Sipahi">采邑騎士</nuxt-link>血量+20、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>人則是對建築物攻擊+4。</p>
           </div>
            <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -156,7 +156,7 @@
                   <li>
                     <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""> <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                     <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                    alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                    alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                 </div>

@@ -11,7 +11,7 @@
         <div class="col-md-8">
           <div class="n1">
             <p>村民訓練於<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>的<nuxt-link to="/Town_Center">城鎮中心</nuxt-link>，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現</p>
-            <p>所有文明開始時都有三位村民，除了<nuxt-link to="/civs/Chinese">中國人</nuxt-link>和<nuxt-link to="/.php">瑪雅人</nuxt-link>(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。</p>
+            <p>所有文明開始時都有三位村民，除了<nuxt-link to="/civs/Chinese">中國人</nuxt-link>和<nuxt-link to="/civs/Mayans/">瑪雅人</nuxt-link>(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。</p>
             <p><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>的特殊科技<nuxt-link to="/techs/Supremacy">霸權</nuxt-link>，能夠讓村民具有戰鬥力。</div>
           <h3>任務與單位名稱</h3>
           <div class="hrn1"></div>
@@ -301,7 +301,7 @@
                 <p>
                   <img class="gg" src="~assets/Wheelbarrow.jpg" width="30" alt=""><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>(+3)</p>
                 <p>
-                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><nuxt-link to="/Hand_Cart.php">手推車</nuxt-link>(+7)</p>
+                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><nuxt-link to="/techs/Handcart">手推車</nuxt-link>(+7)</p>
                 <p>
                   <img class="gg" src="~assets/Heavyplow.jpg" width="30" alt=""><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>(+1)(食物限定)</p>
               </td>
@@ -375,7 +375,7 @@
                 <p>
                   <img class="gg" src="~assets/Wheelbarrow.jpg" width="30" alt=""><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>(+10%)</p>
                 <p>
-                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><nuxt-link to="/Hand_Cart.php">手推車</nuxt-link>(+10%)</p>
+                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><nuxt-link to="/techs/Handcart">手推車</nuxt-link>(+10%)</p>
               </td>
             </tr>
             <tr>

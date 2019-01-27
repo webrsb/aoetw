@@ -19,7 +19,7 @@
             <div class="col-md-12">
               <div class="n1">
                  <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可訓練</span></strong></h4>  <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
-                <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、 <nuxt-link to="/Magyar.php">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Persians">波斯</nuxt-link>、 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+                <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、 <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Persians">波斯</nuxt-link>、 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
                   <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。</div>
             </div>
           </div>
@@ -247,7 +247,7 @@
                   <li>
                     <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                     <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                    alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                    alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                 </div>

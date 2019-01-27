@@ -14,8 +14,8 @@
             步兵單位是遊戲中四類軍事單位之一，另外三種分別是<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
-            >、<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link>與
-            <nuxt-link to="/Siege_Weapon_Unit.php">攻城武器單位</nuxt-link>。
+            >、<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link>與
+            <nuxt-link to="/units/Siege_Weapons">攻城武器單位</nuxt-link>。
           </p>
         </div>
         <h3>概要</h3>

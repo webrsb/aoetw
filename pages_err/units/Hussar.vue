@@ -20,7 +20,7 @@
                  <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可訓練</span></strong></h4>  <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
                 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、 <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、 <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
                   <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、 <nuxt-link to="/civs/Indians">印度</nuxt-link>、 <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-                    <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、 <nuxt-link to="/Magyar.php">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、 <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+                    <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、 <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、 <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
                       <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、 <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>。</div>
             </div>
           </div>
@@ -133,7 +133,7 @@
                     <li>
                       <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                   </div>
@@ -373,11 +373,11 @@
               <td class="unit4">0</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php"></nuxt-link>遠防</td>
+              <td class="unit3"><nuxt-link to="/armor"></nuxt-link>遠防</td>
               <td class="unit4">2</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
               </td>
               <td class="unit4"> <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
               </td>

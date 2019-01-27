@@ -47,7 +47,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/Magyar.php">馬札爾</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
@@ -183,7 +183,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php"
+              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -651,7 +651,7 @@
           <ul>
             <li>民兵系兵是遊戲內唯一，三階以上升級的單位。</li>
             <li>
-              馬來的民兵系在研發<nuxt-link to="/Forced Levy.php"
+              馬來的民兵系在研發<nuxt-link to="/techs/Forced_Levy"
                 >強制徵兵</nuxt-link
               >後不用黃金。
             </li>

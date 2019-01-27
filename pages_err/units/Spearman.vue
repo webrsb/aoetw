@@ -52,7 +52,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>
                 <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link>:步兵攻擊+4，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定。
                 <br/>
@@ -253,7 +253,7 @@
               <li><nuxt-link to="/civs/Celts">賽爾特人</nuxt-link>：長槍兵移動加快15％。</li>
               <li><nuxt-link to="/civs/Chinese">中國</nuxt-link>：有利於長槍兵的技術在封建/城堡/帝王時代便宜10％/ 15％/ 20％。</li>
               <li><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>:免費升級重裝長槍兵。</li>
-              <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>：長槍兵便宜35％而且對<nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>攻擊+1。研發
+              <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>：長槍兵便宜35％而且對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>攻擊+1。研發
                 <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>後研發<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
                   <nuxt-link to="/techs/Arson">縱火</nuxt-link>和升級重裝長槍兵的速度快100%。</li>
               <li><nuxt-link to="/civs/Japanese">日本</nuxt-link>：長槍兵攻擊速度快33％。</li>

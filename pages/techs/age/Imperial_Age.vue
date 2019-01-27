@@ -393,7 +393,7 @@
                 src="~assets/TurtleShipIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Turtle_ship.php">精銳龜甲船</nuxt-link
+              /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
               >：：可發射砲彈的重裝戰船。(限<nuxt-link to="/civs/Koreans"
                 >韓國</nuxt-link
               >)

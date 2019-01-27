@@ -70,7 +70,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>
                 <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link>:步兵攻擊+4，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定。
                 <br/>
@@ -212,7 +212,7 @@
               <li><nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>：<nuxt-link to="/techs/Forging">鍛造</nuxt-link>、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
                 <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>免費。</li>
               <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：傭兵+3遠程護甲。</li>
-              <li><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：傭兵<nuxt-link to="/gold.php">黃金</nuxt-link>花費便宜15%。</li>
+              <li><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：傭兵<nuxt-link to="/resource/Gold">黃金</nuxt-link>花費便宜15%。</li>
               <li><nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>免費。</li>
               <li><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：兵工廠科技升級不用黃金。</li>
               <li><nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>免費。</li>

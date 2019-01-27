@@ -307,7 +307,7 @@
                     />
                     <nuxt-link to="/Imperial_units/Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link
+                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link
                     >限定)
                   </li>
                 </ul>

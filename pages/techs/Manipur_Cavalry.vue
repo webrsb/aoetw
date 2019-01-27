@@ -20,7 +20,7 @@
               >騎兵單位</nuxt-link
             >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>對
             <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-            >和<nuxt-link to="/Armor_Class_standard_building.php"
+            >和<nuxt-link to="/armor/Armor_Class_standard_building"
               >標準建築</nuxt-link
             >+3攻擊。
           </p>
@@ -64,7 +64,7 @@
               >攻擊+6。5.3改版後對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >和
-              <nuxt-link to="/Armor_Class_standard_building.php"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >都有加成，這讓建築學不能完全抵消曼尼普爾騎兵的效果。
             </li>

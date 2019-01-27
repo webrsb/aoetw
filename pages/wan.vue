@@ -55,7 +55,7 @@
         <div class="col-md-6">
           <p>
             對歷史人文有興趣，去查資料後補充在頁面。例如緬甸的特殊科技<nuxt-link
-              to="/Manipur.php"
+              to="/techs/Manipur_Cavalry"
               >曼尼普爾騎兵</nuxt-link
             >，實際上是位於現在的
             <nuxt-link to="/civs/Indians">印度</nuxt-link>，且與<nuxt-link

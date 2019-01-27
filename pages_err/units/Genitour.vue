@@ -169,7 +169,7 @@
                   <li>
                     <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""> <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                     <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                    alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                    alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                 </div>
@@ -313,7 +313,7 @@
             <li><nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：多20%的血量。</li>
             <li><nuxt-link to="/civs/Huns">匈奴</nuxt-link>：標槍騎兵的血量在城堡/帝王時代各便宜10%/20%。</li>
             <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：標槍騎兵發射速度快25%。</li>
-            <li><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：標槍騎兵<nuxt-link to="/Armor_class_building.php">建築</nuxt-link>攻擊+3。</li>
+            <li><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：標槍騎兵<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>攻擊+3。</li>
             <li><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：升級 <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>科技不用黃金。</li>
             <li><nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：標槍騎兵的血量在城堡/帝王時代各增加15%/20%的血量。</li>
           </ul>

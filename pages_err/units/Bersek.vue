@@ -63,7 +63,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>
                 <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Chieftains">酋長</nuxt-link>:步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>攻擊+5，對
                 <nuxt-link to="/armor/Armor_Class_Camel">駱駝騎兵</nuxt-link>攻擊+4，<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定。</td>

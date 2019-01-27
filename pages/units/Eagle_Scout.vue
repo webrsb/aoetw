@@ -122,7 +122,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php"
+              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -610,7 +610,7 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <nuxt-link to="/armor">防禦類型</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry"> 步兵</nuxt-link>

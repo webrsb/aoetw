@@ -62,13 +62,13 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link> 
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">範圍</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/Bearded Axe.php">倒鉤斧</nuxt-link>(+1)</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
@@ -185,7 +185,7 @@
           <div class="n1">
             <ul>
               <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠提高擲斧兵的生產速度還有加速
-                <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>、<nuxt-link to="/Bearded Axe.php">倒鉤斧</nuxt-link>科技研究時間(快25%)。</li>
+                <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>、<nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link>科技研究時間(快25%)。</li>
               <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
                 <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。</li>
               <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>：擲斧兵更不容易被招降。</li>
@@ -315,7 +315,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<nuxt-link to="/Armor_Class_standard_building.php">標準建築                         </nuxt-link>+1/+2(精銳)
+              <td class="unit4">對<nuxt-link to="/armor/Armor_Class_standard_building">標準建築                         </nuxt-link>+1/+2(精銳)
                 <br/>對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior">鷹勇士</nuxt-link>+1/+2(精銳)</td>
             </tr>
             <tr>

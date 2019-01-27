@@ -53,7 +53,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">近戰單位、<nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>
+              <td class="tta4">近戰單位、<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -161,7 +161,7 @@
                     <li>
                       <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
+                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                   </div>
@@ -401,7 +401,7 @@
               <td class="unit4">2.03</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link>
               </td>
               <td class="unit4">1</td>
             </tr>
@@ -410,7 +410,7 @@
               <td class="unit4">3</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">裝甲類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link>
               </td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
                 <br/><nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link>

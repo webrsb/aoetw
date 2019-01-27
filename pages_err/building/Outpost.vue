@@ -207,7 +207,7 @@
             <tr>
               <td class="unit3">防禦類型</td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
-                <br/> <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <br/> <nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>
               </td>
             </tr>
             <tr>

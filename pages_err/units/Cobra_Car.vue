@@ -129,7 +129,7 @@
                   <td class="unit4">10</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+                  <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
                   </td>
                   <td class="unit4">攻城武器(+50)
                     <td>

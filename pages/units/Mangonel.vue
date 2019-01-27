@@ -624,7 +624,7 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+              <nuxt-link to="/armor">近防</nuxt-link>
             </td>
             <td class="unit4">0</td>
           </tr>
@@ -634,7 +634,7 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <nuxt-link to="/armor">防禦類型</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"

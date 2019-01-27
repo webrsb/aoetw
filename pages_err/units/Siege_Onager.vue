@@ -28,7 +28,7 @@
                  <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可訓練</span></strong></h4>  <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、 <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、 <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、 <nuxt-link to="/civs/Chinese">中國</nuxt-link>、 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、 <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
                   <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、 <nuxt-link to="/civs/Incas">印加</nuxt-link>、 <nuxt-link to="/civs/Indians">印度</nuxt-link>、 <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-                    <nuxt-link to="/civs/Japanese">日本</nuxt-link>、 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、 <nuxt-link to="/Magyar.php">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+                    <nuxt-link to="/civs/Japanese">日本</nuxt-link>、 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、 <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、 <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
                       <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、 <nuxt-link to="/civs/Persians">波斯</nuxt-link>、 <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
                         <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、 <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、 <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
                           <nuxt-link to="/civs/Vikings">維京</nuxt-link>。</div>
@@ -56,7 +56,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>、<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、群聚的單位。</td>
+              <td class="tta4"><nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>、<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、群聚的單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -389,7 +389,7 @@
               <td class="unit4">8</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
               </td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link>
               </td>

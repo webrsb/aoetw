@@ -585,7 +585,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +125 vs
-              <nuxt-link to="/Armor_Class_standard_building.php"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >一般建築物</nuxt-link
               >(每1個步兵進駐攻擊+10，最多+40) <br />+40 vs
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
@@ -599,7 +599,7 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+              <nuxt-link to="/armor">近防</nuxt-link>
             </td>
             <td class="unit4">-3</td>
           </tr>
@@ -609,7 +609,7 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <nuxt-link to="/armor">防禦類型</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"

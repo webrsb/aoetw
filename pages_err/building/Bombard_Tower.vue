@@ -360,7 +360,7 @@
               <td class="unit3">護甲分類</td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Gunpowder_Unit">火藥單位</nuxt-link>
                 <br/> <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
-                <br/> <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <br/> <nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>
                 <br/> <nuxt-link to="/armor/Armor_Class_stone_defense">石造建築</nuxt-link>
               </td>
             </tr>

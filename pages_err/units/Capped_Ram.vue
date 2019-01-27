@@ -39,7 +39,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>和<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
+              <td class="tta4"><nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>和<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -324,7 +324,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">+150 vs <nuxt-link to="/Armor_Class_standard_building.php">一般建築物</nuxt-link>(每1個步兵進駐攻擊+10，最多+40)
+              <td class="unit4">+150 vs <nuxt-link to="/armor/Armor_Class_standard_building">一般建築物</nuxt-link>(每1個步兵進駐攻擊+10，最多+40)
                 <br/>+50 vs <nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link> 
             </tr>
             <tr>
@@ -336,7 +336,7 @@
               <td class="unit4">5</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link>
               </td>
               <td class="unit4">-3</td>
             </tr>
@@ -345,7 +345,7 @@
               <td class="unit4">190</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
               </td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link>
                 <br/> <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>(+1)</td>

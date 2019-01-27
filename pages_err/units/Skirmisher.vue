@@ -17,7 +17,7 @@
           <div class="n1">
             <p>除了對付弓箭手外，矛兵顯得非常虛弱，他們攻擊、射速都低還有最小射程，對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>及
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>難以有效的進行傷害，但非常克制<nuxt-link to="/units/Archer_Units">弓箭手單位</nuxt-link>。</p>
-            <p>由於矛兵生產不用黃金，所以是一個<nuxt-link to="/Trash_Unit.php">垃圾兵單位</nuxt-link>，在缺少<nuxt-link to="/gold.php">黃金</nuxt-link>時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。在阿拉伯單挑時矛兵甚至比弓兵還來的好用。</p>
+            <p>由於矛兵生產不用黃金，所以是一個<nuxt-link to="/Trash_Unit.php">垃圾兵單位</nuxt-link>，在缺少<nuxt-link to="/resource/Gold">黃金</nuxt-link>時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。在阿拉伯單挑時矛兵甚至比弓兵還來的好用。</p>
             <p>矛兵對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link>有額外的傷害，雙方數量少時，槍兵將獲勝，但數量一多起來，矛兵將克制槍兵。</p>
           </div>
           <h3>更多數據</h3>
@@ -366,17 +366,17 @@
               <td class="unit4">7</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link>
               </td>
               <td class="unit4">0</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">遠防</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link>
               </td>
               <td class="unit4">3</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
               </td>
               <td class="unit4"> <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
               </td>

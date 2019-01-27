@@ -18,8 +18,8 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>長槍兵在攻擊騎兵部隊非常有用。不過只有少量時，就顯得相當薄弱。</p>
-            <p>長槍兵非常怕<nuxt-link to="/Crossbowma.php">弩兵</nuxt-link>外，也相當懼怕<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>，因為兩者除了是遠程單位外，還額外有+3對長槍兵的攻擊加成。</p>
-            <p>他們是<nuxt-link to="/Siege_Weapon_Unit.php">攻城武器</nuxt-link>的完美輔助，因為他們可以保護攻城武器免受敵方近戰騎兵的傷害。雖然它們可能缺乏進攻力量，但它們可以作為炮灰鋪路讓部隊向前進攻。</p>
+            <p>長槍兵非常怕<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>外，也相當懼怕<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>，因為兩者除了是遠程單位外，還額外有+3對長槍兵的攻擊加成。</p>
+            <p>他們是<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>的完美輔助，因為他們可以保護攻城武器免受敵方近戰騎兵的傷害。雖然它們可能缺乏進攻力量，但它們可以作為炮灰鋪路讓部隊向前進攻。</p>
           </div>
           <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -53,7 +53,7 @@
                 <br/>
                 <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><nuxt-link to="/techs/Arson">縱火</nuxt-link>:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building">標準建築</nuxt-link>
                 <br/>
                 <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link>:步兵攻擊+4，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定。
                 <br/>
@@ -253,7 +253,7 @@
               <li><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：重裝長槍兵便宜25％。</li>
               <li><nuxt-link to="/civs/Celts">賽爾特人</nuxt-link>：重裝長槍兵移動加快15％。</li>
               <li><nuxt-link to="/civs/Chinese">中國</nuxt-link>：有利於重裝長槍兵的技術在城堡/帝王時代便宜 15％/ 20％。</li>
-              <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>：重裝長槍兵便宜35％而且對<nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>攻擊+1。研發
+              <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>：重裝長槍兵便宜35％而且對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>攻擊+1。研發
                 <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>後研發<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
                   <nuxt-link to="/techs/Arson">縱火</nuxt-link>和升級戟兵的速度快100%。</li>
               <li><nuxt-link to="/civs/Japanese">日本</nuxt-link>：重裝長槍兵攻擊速度快33％。</li>
@@ -418,7 +418,7 @@
               <td class="unit4">0</td>
             </tr>
             <tr>
-              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+              <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link>
               </td>
               <td class="unit4"><nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
                 <br/> <nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link>

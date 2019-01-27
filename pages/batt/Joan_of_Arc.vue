@@ -61,7 +61,7 @@
                 </li>
                 <li><nuxt-link to="/batt/The_Rising">叛變</nuxt-link></li>
                 <li>
-                  <nuxt-link to="/The_Siege_of _Paris.php"
+                  <nuxt-link to="/The_Siege_of_Paris.php"
                     >巴黎攻城戰</nuxt-link
                   >
                 </li>

@@ -30,7 +30,7 @@
           <p>
             <nuxt-link to="/civs/Malay">馬來人</nuxt-link
             >的情況是特別有趣的，因為他們的獨特技術之一是<nuxt-link
-              to="/Forced Levy.php"
+              to="/techs/Forced_Levy"
               >強制徵兵</nuxt-link
             >，使得劍兵系列不用耗費黃金訓練，使得這些部隊成為後期“垃圾戰爭”中一個可行的策略，輕鬆擊敗其他垃圾單位（
             <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>，<nuxt-link
@@ -115,7 +115,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php"
+              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -584,7 +584,7 @@
           <ul>
             <li>民兵系兵是遊戲內唯一，三階以上升級的單位。</li>
             <li>
-              馬來的民兵系在研發<nuxt-link to="/Forced Levy.php"
+              馬來的民兵系在研發<nuxt-link to="/techs/Forced_Levy"
                 >強制徵兵</nuxt-link
               >後不用黃金。
             </li>

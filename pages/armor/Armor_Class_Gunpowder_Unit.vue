@@ -76,9 +76,9 @@
             </li>
             <li>
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
-              <nuxt-link to="/Turtle_ship.php">龜甲船</nuxt-link>→
+              <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>→
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
-              <nuxt-link to="/Turtle_ship.php">精銳龜甲船</nuxt-link>(<nuxt-link
+              <nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>(<nuxt-link
                 to="/civs/Koreans"
                 >韓國</nuxt-link
               >限定)

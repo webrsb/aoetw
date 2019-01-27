@@ -60,7 +60,7 @@
                 <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
                 <br/>
                 <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>:射箭場弓兵單位對<nuxt-link to="/armor/Armor_Class_Standard_Building">標準建築</nuxt-link>和
-                <nuxt-link to="/Armor_Class_Stone_Defence.php">石造建築</nuxt-link>攻擊+6，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定</td>
+                <nuxt-link to="/armor/Armor_Class_stone_defense">石造建築</nuxt-link>攻擊+6，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊範圍</td>
@@ -256,7 +256,7 @@
                 <ul>
                   <li><nuxt-link to="/civs/Italians">義大利</nuxt-link>:<nuxt-link to="/techs/Pavise">巨盾</nuxt-link>現在會加成弩兵。</li>
                   <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:<nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>現在給弩兵對
-                    <nuxt-link to="/armor/Armor_Class_Standard_Building">標準建築</nuxt-link>攻擊+6。4.8版後增加對<nuxt-link to="/Armor_Class_Stone_Defence.php">石造建築</nuxt-link>攻擊+6</li>
+                    <nuxt-link to="/armor/Armor_Class_Standard_Building">標準建築</nuxt-link>攻擊+6。4.8版後增加對<nuxt-link to="/armor/Armor_Class_stone_defense">石造建築</nuxt-link>攻擊+6</li>
                 </ul>
               </div>
                <h3>趣事</h3>

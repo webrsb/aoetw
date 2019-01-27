@@ -109,7 +109,7 @@
                 <nuxt-link to="/elements/Attack">攻擊</nuxt-link>
               </td>
               <td width="9%">
-                <nuxt-link to="/Armor_Class.php">防禦</nuxt-link>
+                <nuxt-link to="/armor">防禦</nuxt-link>
               </td>
               <td width="9%">射程</td>
               <td width="9%">
@@ -1317,7 +1317,7 @@
                 /><nuxt-link to="/civs/Burmese ">緬甸</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/Manipur.php">曼尼普爾騎兵</nuxt-link>
+                <nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link>
               </td>
               <td class="tunitc5">650F 400G</td>
               <td class="tunitc6">騎兵和飛鏢騎兵對建築物攻擊+3。</td>

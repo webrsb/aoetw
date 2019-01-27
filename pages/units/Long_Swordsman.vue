@@ -113,7 +113,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php"
+              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -580,7 +580,7 @@
           <ul>
             <li>民兵系兵是遊戲內唯一，三階以上升級的單位。</li>
             <li>
-              馬來的民兵系在研發<nuxt-link to="/Forced Levy.php"
+              馬來的民兵系在研發<nuxt-link to="/techs/Forced_Levy"
                 >強制徵兵</nuxt-link
               >後不用黃金。
             </li>

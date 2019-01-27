@@ -14,7 +14,7 @@
               <nuxt-link to="/elements/Attack">攻擊</nuxt-link>·
               <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>·
               <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>·
-              <nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>·
+              <nuxt-link to="/armor">防禦類型</nuxt-link>·
               <nuxt-link to="/elements/Area_of_Effect">擴散範圍</nuxt-link>
             </td>
           </tr>
