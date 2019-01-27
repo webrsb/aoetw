@@ -161,7 +161,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle"><a href="#">血親統治</a></div>
+              <div class="unititle"><nuxt-link to="#">血親統治</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -173,7 +173,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="#">情景信息</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">情景信息</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -186,7 +188,9 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Aztecs">阿茲特克</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">玩家顏色</td>
@@ -194,7 +198,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="#">戰役關卡編號</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">戰役關卡編號</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -208,7 +214,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <a href="/batt/The_Triple_Alliance">三國同盟</a>
+              <nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link>
             </td>
           </tr>
         </table>

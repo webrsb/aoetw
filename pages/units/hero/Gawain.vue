@@ -46,21 +46,23 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="/building/bulding">建築物</a>，<a
-                href="/units/Skirmisher"
-                >矛兵</a
-              >，大部分近戰單位， <a href="/units/Bombard_Cannon">火炮</a>。
+              <nuxt-link to="/building/bulding">建築物</nuxt-link>，<nuxt-link
+                to="/units/Skirmisher"
+                >矛兵</nuxt-link
+              >，大部分近戰單位，
+              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <a href="/units/Spearman">槍兵</a>系，<a href="/units/Kamayuk"
-                >槍隊長</a
-              >，<a href="/units/Mameluke">奴隸兵</a>，
-              <a href="/units/Camel">駱駝騎兵</a>，<a
-                href="/Genoese_units/Crossbowman"
-                >熱那亞弩手</a
+              <nuxt-link to="/units/Spearman">槍兵</nuxt-link>系，<nuxt-link
+                to="/units/Kamayuk"
+                >槍隊長</nuxt-link
+              >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>，
+              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
+                to="/Genoese_units/Crossbowman"
+                >熱那亞弩手</nuxt-link
               >
             </td>
           </tr>
@@ -73,22 +75,24 @@
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
               <p>
-                <img src="~assets/Forging.jpg" width="30" alt="" /><a
-                  href="/techs/Forging"
-                  >鍛造</a
+                <img src="~assets/Forging.jpg" width="30" alt="" /><nuxt-link
+                  to="/techs/Forging"
+                  >鍛造</nuxt-link
                 >(+1)
               </p>
               <p>
-                <img src="~assets/Ironcasting.jpg" width="30" alt="" /><a
-                  href="/techs/Iron_Casting"
-                  >鑄造</a
-                >(+1)
+                <img
+                  src="~assets/Ironcasting.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
               </p>
               <p>
-                <img src="~assets/Blastfurnace.jpg" width="30" alt="" /><a
-                  href="/techs/Blast_Furnace"
-                  >鼓風爐</a
-                >(+2)
+                <img
+                  src="~assets/Blastfurnace.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               </p>
             </td>
           </tr>
@@ -96,21 +100,27 @@
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
               <p>
-                <img src="~assets/Scalebardingarmor.jpg" width="30" alt="" /><a
-                  href="/techs/Scale_Barding_Armor"
-                  >騎兵鱗甲</a
+                <img
+                  src="~assets/Scalebardingarmor.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
                 >(+1/+1)
               </p>
               <p>
-                <img src="~assets/Chainbardingarmor.jpg" width="30" alt="" /><a
-                  href="/techs/Chain_Barding_Armor"
-                  >騎兵鎖甲</a
+                <img
+                  src="~assets/Chainbardingarmor.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
                 >(+1/+1)
               </p>
               <p>
-                <img src="~assets/Platebardingarmor.jpg" width="30" alt="" /><a
-                  href="/techs/Plate_Barding_Armor"
-                  >騎兵板甲</a
+                <img
+                  src="~assets/Platebardingarmor.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
                 >(+1/+2)
               </p>
             </td>
@@ -119,9 +129,9 @@
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
               <p>
-                <img src="~assets/Husbandry.jpg" width="30" alt="" /><a
-                  href="/techs/Husbandry"
-                  >畜牧培育</a
+                <img src="~assets/Husbandry.jpg" width="30" alt="" /><nuxt-link
+                  to="/techs/Husbandry"
+                  >畜牧培育</nuxt-link
                 >(+10%)
               </p>
             </td>
@@ -132,7 +142,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">高文爵士</a></div>
+              <div class="unititle"><nuxt-link to="#">高文爵士</nuxt-link></div>
             </td>
           </tr>
           <tr>

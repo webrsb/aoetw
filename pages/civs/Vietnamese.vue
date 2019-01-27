@@ -95,18 +95,18 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/vie">越南科技樹</a></em>
+          <em><nuxt-link to="/tree/vie">越南科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/ver-5.8">5.8版</a
+              <nuxt-link to="/ver-5.8">5.8版</nuxt-link
               >後，越南射箭場單位血量加成原本+10%/+15%/+20% → 皆 +20%
             </li>
           </ul>
@@ -198,7 +198,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E9%99%B3%E8%88%88%E9%81%93"
+                    href="https://zh.wikipedia.org/wiki/%E9%99%B3%E8%88%88%E9%81%93"
                     >陳興道</a
                   ></b
                 ></i

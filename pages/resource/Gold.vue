@@ -53,9 +53,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/resource/Food">食物</a></li>
-            <li><a href="/resource/Wood">木材</a></li>
-            <li><a href="/resource/Stone">石礦</a></li>
+            <li><nuxt-link to="/resource/Food">食物</nuxt-link></li>
+            <li><nuxt-link to="/resource/Wood">木材</nuxt-link></li>
+            <li><nuxt-link to="/resource/Stone">石礦</nuxt-link></li>
           </ul>
         </div>
       </div>

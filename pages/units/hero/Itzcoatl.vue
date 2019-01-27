@@ -12,16 +12,17 @@
         <div class="n1">
           <p>
             <strong>伊茲柯阿特爾</strong>是一名可在《世紀帝國II HD：
-            非洲王朝》的地圖編輯器中使用的<a href="/units/Infantry_Units"
-              >步兵</a
+            非洲王朝》的地圖編輯器中使用的<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
             >
-            <a href="/units/hero">英雄</a
+            <nuxt-link to="/units/hero">英雄</nuxt-link
             >。他的原型是特諾奇提特蘭的第四代統治者，在位時間為1427/1428年到1440年，此時正是墨西加人推翻特帕內克人，並最終建立
-            <a href="/civs/Aztecs">阿茲特克</a
+            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
             >帝國的時期。作為一個英雄單位，他無法被招降且會自動回血。
           </p>
           <p>
-            在遊戲中，伊茲柯阿特爾以<a href="/units/Jaguar_Warrior">豹勇士</a
+            在遊戲中，伊茲柯阿特爾以<nuxt-link to="/units/Jaguar_Warrior"
+              >豹勇士</nuxt-link
             >的外表登場，但是能力更強。和其他步兵單位一樣，伊茲柯阿特爾會受到所有影響步兵的升級及加成影響。
           </p>
         </div>
@@ -30,7 +31,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">伊茲柯阿特爾</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">伊茲柯阿特爾</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -48,10 +51,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="/units/Infantry_Units">步兵</a> <br /><a
-                href="/units/hero"
-                >英雄</a
-              >
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -78,12 +79,12 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="/armor/Armor_Class_Infantry">步兵</a> +15 <br />對<a
-                href="/armor/Armor_Class_Eagle_Warrior"
-                >鷹勇士</a
+              對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link> +15
+              <br />對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >
-              +2 <br />對<a href="/Armor_Class_standard_building.php"
-                >標準建築</a
+              +2 <br />對<nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
               >
               +4
             </td>
@@ -102,9 +103,9 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <a href="/armor/Armor_Class_Infantry">步兵</a> <br /><a
-                href="/armor/Armor_Class_Unique_Unit"
-                >特殊單位</a
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
               >
             </td>
           </tr>
@@ -129,7 +130,7 @@
               <i
                 ><strong
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%85%B9%E7%A7%91%E7%93%A6%E7%89%B9%E5%B0%94"
+                    href="https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%85%B9%E7%A7%91%E7%93%A6%E7%89%B9%E5%B0%94"
                     >伊茲柯阿特爾</a
                   ></strong
                 ></i

@@ -11,12 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鑄造可於<a href="/techsage/Castle_Age">城堡時代</a>在<a
-              href="/building/Blacksmith"
-              >兵工廠</a
-            >研發，可讓 <a href="/units/Infantry_Units">步兵</a>、<a
-              href="/units/Cavalry_Units"
-              >騎兵</a
+            鑄造可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>研發，可讓
+            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
             >攻擊+1。
           </p>
         </div>
@@ -25,16 +24,22 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：該科技在城堡/帝王時代花費便宜15%/20%。
             </li>
             <li>
-              <a href="/civs/Incas">印加</a>：同樣使<a href="/units/Villager"
-                >村民</a
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>：同樣使<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
               >獲得+1攻擊。
             </li>
-            <li><a href="/civs/Magyars">馬扎爾</a>：該科技免費。</li>
-            <li><a href="/civs/Spanish">西班牙</a>：研發該科技不需要黃金。</li>
+            <li>
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：該科技免費。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：研發該科技不需要黃金。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -49,7 +54,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">鑄造</a></div>
+              <div class="unititle"><nuxt-link to="#">鑄造</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -61,7 +66,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -70,27 +77,31 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
-            <td class="unit4"><a href="/building/Blacksmith">兵工廠</a></td>
+            <td class="unit4">
+              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Forging.jpg" alt="" /><a
-                href="/techs/Forging"
-                >鑄造</a
+              <img class="gg" src="~assets/Forging.jpg" alt="" /><nuxt-link
+                to="/techs/Forging"
+                >鑄造</nuxt-link
               >
             </td>
           </tr>
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><a
-                href="/techs/Blast_Furnace"
-                >鼓風爐</a
+              <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><nuxt-link
+                to="/techs/Blast_Furnace"
+                >鼓風爐</nuxt-link
               >
             </td>
           </tr>
@@ -100,7 +111,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -113,7 +124,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

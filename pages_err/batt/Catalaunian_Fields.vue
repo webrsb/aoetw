@@ -103,7 +103,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">卡塔隆尼亞平原</a>
+                <div class="unititle"><nuxt-link to="#">卡塔隆尼亞平原</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -116,7 +116,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -130,11 +130,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="#">匈奴人</a>
+              <td class="unit4"><nuxt-link to="#">匈奴人</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="#">戰役關卡編號</a>
+              <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>
@@ -144,11 +144,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/batt/A_Barbarian_Betrothal">蠻族的婚約</a> 
+              <td class="unit4"> <nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/Fall_of_Rome">羅馬的衰落</a> 
+              <td class="unit4"> <nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link> 
               </td>
             </tr>
           </table>

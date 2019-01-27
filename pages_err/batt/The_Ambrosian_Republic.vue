@@ -68,21 +68,21 @@
                 ">  <ul>    <li>法蘭切斯科.斯福爾扎的意大利僱傭兵駐紮在西北邊，他們收到命令要征服加入威尼斯的叛軍基地。</li><li>帕維亞（紅色）是沿路上的第一個勢力 他們對你保持中立，但可以被和平招安。</li><li>克雷莫納城（黃色）在南邊且是你唯一的堅定不移的盟友。你可以從那裡購買意大利傭兵但也必須保護他們不受威尼斯的攻擊。</li><li>當地人（橘色）雖然友好但也有敵對的反叛軍（灰色）。</li><li>比阿琴薩城（綠色）位於帕維亞的東南方且對你敵對，但他只有一小支守備軍。一旦防禦被攻破，他很容易就淪陷了。</li><li>卡拉法吉歐（青綠色）位於北方，擁有一支強大的守備軍，而且可能有威尼斯軍隊的直接支持。</li><li>東邊的威尼斯（紫色）城堡有中等規模的守備軍，流言說他們貯藏了很多武器和盔甲。</li></ul><h2>戰術</h2><div class="hrn1 "></div><div class="n1
                 "> <ul><li>開始時，法蘭切斯科-斯福爾札在西部帶領傭兵和火槍兵，  斯福爾札必須前往帕維亞城堡遊說他們效忠。  然後，玩家將控制南門的火炮，他們將開始轟炸比阿琴薩。  玩家要通過摧毀4個比阿琴薩的瞭望箭塔來重新征服他們。</li><li>在整個遊戲過程中，玩家必須隨時駐守五個單位在帕維亞的城堡中，以維持他們的忠誠度，並使用他們的攻城器製造所，點擊該建築將花費200黃金產生一個火炮。否則，帕維亞將反抗玩家。</li><li>一旦玩家重新征服了比阿琴薩，玩家可以使用進入馬廄(有標記)，點擊該建築可以消耗100黃金產生一個騎士。此時，玩家將準備圍剿威尼斯控制的特雷維格里奧，瓦伊拉泰和莫茲紮尼卡，以摧毀他們的城堡。另外，玩家可以選擇摧毀他們的鐵匠鋪以獲得一些鐵匠鋪技術。</li><li>然後，玩家將訪問克雷莫納，以使用射箭場，點擊該建築將花費50黃金產生一個火槍兵。</li><li>此時，玩家還可以使用他們的軍營和射箭場，點擊兩個建築將分別產生長劍兵(每人40黃金)和熱那亞弩手(每人30黃金)。</li><li>在三座威尼斯城堡全部被毀後，威尼斯海軍上將安德里亞-奎裡尼將帶來一隊弩砲戰船和火炮戰船來圍攻克雷莫納，殲滅他們，保護克雷莫納。雖然玩家不能建立海軍，但可以通過駐紮熱那亞弩手在克雷莫納的箭塔輕鬆防守。</li><li>擊敗威尼斯海軍後，玩家要摧毀卡拉法吉歐的城堡。他們的防守非常好，在這次戰役中是最強大的敵人。一旦玩家進入該城市，將會有來自城市東北部的威尼斯救援隊伍，包括劍兵勇士，傭兵和火槍兵。</li><li>當卡拉法吉歐城堡被摧毀時，他們會投降，並且斯福爾札必須到卡拉法吉歐東北部的火炬手那裏以前往布雷西亞，才能贏得戰役。</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="/
-                ">安布羅共和國</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Sforza 4.jpg " width="
+                ">       <div class="unititle "><nuxt-link to="/
+                ">安布羅共和國</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Sforza 4.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><nuxt-link to="/ ">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">失落的帝國</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">斯福爾札</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href="/ ">義大利人</a></td>      </tr>
+                ">文明</td>       <td class="unit4 "><nuxt-link to="/ ">義大利人</nuxt-link></td>      </tr>
 <tr><td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/
-                ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
-                ">失落帝國第四章之四</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="/batt/The_Hand_of_a_Daughter
-                ">于歸之喜</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/batt/A_New_Duk_of_Milan
-                ">米蘭新公爵</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div>     <div class="row
+                "><nuxt-link to="/
+                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
+                ">失落帝國第四章之四</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <nuxt-link to="/batt/The_Hand_of_a_Daughter
+                ">于歸之喜</nuxt-link>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <nuxt-link to="/batt/A_New_Duk_of_Milan
+                ">米蘭新公爵</nuxt-link>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div>     <div class="row
                 ">  <div class="col-md-12
                 ">    </div>     </div>  </div></div>      </div>    
         

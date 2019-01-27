@@ -43,33 +43,36 @@
         <div class="n1">
           <ul>
             <li>
-              <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                href="/units/Eagle_Scout"
-                >鷹斥侯</a
+              <img
+                class="gg"
+                src="~assets/EagleScoutIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>
+            </li>
+            <li>
+              <img
+                class="gg"
+                src="~assets/CondottieroNewIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
+            </li>
+            <li>
+              <img
+                class="gg"
+                src="~assets/ImperialCamelIcon.jpg"
+                alt=""
+              /><nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>
+            </li>
+            <li>
+              <img class="gg" src="~assets/Slingericon.png" alt="" /><nuxt-link
+                to="/units/Slinger"
+                >投石手</nuxt-link
               >
             </li>
             <li>
-              <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" /><a
-                href="/units/Condottiero"
-                >傭兵</a
-              >
-            </li>
-            <li>
-              <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt="" /><a
-                href="/Imperial_units/Camel"
-                >帝王駱駝騎兵</a
-              >
-            </li>
-            <li>
-              <img class="gg" src="~assets/Slingericon.png" alt="" /><a
-                href="/units/Slinger"
-                >投石手</a
-              >
-            </li>
-            <li>
-              <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><a
-                href="/units/Kamayuk"
-                >槍隊長</a
+              <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><nuxt-link
+                to="/units/Kamayuk"
+                >槍隊長</nuxt-link
               >
             </li>
             <li>
@@ -78,13 +81,16 @@
                 src="~assets/New_Genoese_Crossbowman.png"
                 alt=""
                 width="22"
-              /><a href="/Genoese_units/Crossbowman">熱那亞弩手</a>
+              /><nuxt-link to="/Genoese_units/Crossbowman"
+                >熱那亞弩手</nuxt-link
+              >
             </li>
             <li>
-              <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt="" /><a
-                href="/Elephant_units/Archer"
-                >象弓騎兵</a
-              >
+              <img
+                class="gg"
+                src="~assets/ElephantArcherIcon.jpg"
+                alt=""
+              /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>
             </li>
             <li>
               <img
@@ -92,12 +98,12 @@
                 src="~assets/Magyar_Huszar_icon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>
+              /><nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/New_Boyar.png" alt="" /><a
-                href="/units/Boyar"
-                >貴族鐵騎</a
+              <img class="gg" src="~assets/New_Boyar.png" alt="" /><nuxt-link
+                to="/units/Boyar"
+                >貴族鐵騎</nuxt-link
               >
             </li>
           </ul>
@@ -108,7 +114,9 @@
             <li>每個文明皆新增城堡時代能研發的特殊科技。</li>
           </ul>
           <p>
-            <em>主要文章: <a href="/techs/untech">特殊科技</a></em>
+            <em
+              >主要文章: <nuxt-link to="/techs/untech">特殊科技</nuxt-link></em
+            >
           </p>
         </div>
       </div>
@@ -116,7 +124,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#ad7b35">
-              <div class="unititle"><a href="#">世紀帝國II：失落的帝國</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">世紀帝國II：失落的帝國</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -168,7 +178,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <a href="/batt/">戰役</a></em>
+            <em>主要文章: <nuxt-link to="/batt/">戰役</nuxt-link></em>
           </p>
           <p>包含七個主戰役</p>
           <ul>

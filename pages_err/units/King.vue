@@ -54,7 +54,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                  <div class="unititle"><a href="#">國王</a>
+                  <div class="unititle"><nuxt-link to="#">國王</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -87,7 +87,7 @@
               </tr>
               <tr>
                 <td class="unit3">類型</td>
-                <td class="unit4"><a href="/units/Gunpowder_Unit">平民</a></td>
+                <td class="unit4"><nuxt-link to="/units/Gunpowder_Unit">平民</nuxt-link></td>
               </tr>
               <tr>
                 <td class="unit3">資料片</td>
@@ -99,7 +99,7 @@
                 </td>
               </tr>
               <tr>
-                <td class="unit3"><a href="/elements/Hit_points">血量</a></td>
+                <td class="unit3"><nuxt-link to="/elements/Hit_points">血量</nuxt-link></td>
                 <td class="unit4">75</td>
               </tr>
               <tr>
@@ -111,14 +111,14 @@
                 <td class="unit4">0</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="/Armor_Class.php">防禦類型</a></td>
-                <td class="unit4">無</a>、</tr>
+                <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link></td>
+                <td class="unit4">無</nuxt-link>、</tr>
               <tr>
-                <td class="unit3"><a href="#">跑速</td>
+                <td class="unit3"><nuxt-link to="#">跑速</td>
                 <td class="unit4">1.32</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="/los.php">視野</a></td>
+                <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
                 <td class="unit4">6</td>
               </tr>
               <tr>

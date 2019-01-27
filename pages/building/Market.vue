@@ -25,7 +25,7 @@
         <div class="row">
           <div class="col-md-4">
             <div class="n1">
-              <h4><a href="/techsage/Feudal_Age">封建時代</a></h4>
+              <h4><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link></h4>
               <ul>
                 <li>
                   <img class="gg" src="~assets/TradeCartIcon.jpg" />貿易車隊
@@ -36,7 +36,7 @@
           </div>
           <div class="col-md-4">
             <div class="n1">
-              <h4><a href="/techsage/Castle_Age">城堡時代</a></h4>
+              <h4><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link></h4>
               <ul>
                 <li><img class="gg" src="~assets/CaravanII.png" />大商隊</li>
                 <li><img class="gg" src="~assets/Coinage.jpg" />鑄幣術</li>
@@ -45,7 +45,9 @@
           </div>
           <div class="col-md-4">
             <div class="n1">
-              <h4><a href="/techsage/Imperial_Age">帝王時代</a></h4>
+              <h4>
+                <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              </h4>
               <ul>
                 <li><img class="gg" src="~assets/Banking.jpg" />銀行制度</li>
                 <li><img class="gg" src="~assets/Guilds.jpg" />行會制度</li>
@@ -78,25 +80,30 @@
           <tr>
             <td class="tta1" style="width:20%">生命值</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="/techs/Masonry"
-                >磚瓦技術</a
-              >(+10%)
+              <img
+                class="gg"
+                src="~assets/Masonry.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
               <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Architecture">建築學</a>(+10%)
+              /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:20%">護甲</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="/techs/Masonry"
-                >磚瓦技術</a
+              <img
+                class="gg"
+                src="~assets/Masonry.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >(護甲+1/+1，+3建築護甲)
               <br />
               <img
@@ -104,37 +111,44 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)
+              /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
+              >(護甲+1/+1，+3建築護甲)
             </td>
           </tr>
           <tr>
             <td class="tta1">視野</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Townwatch.jpg" width="30" alt="" /><a
-                href="/techs/Town_Watch"
-                >城鎮瞭望</a
-              >(+4)
+              <img
+                class="gg"
+                src="~assets/Townwatch.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
+              /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
             </td>
           </tr>
           <tr>
             <td class="tta1">招降抵抗</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                href="/techs/Faith"
-                >忠誠信仰</a
-              >
+              <img
+                class="gg"
+                src="~assets/Faith.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
               <br />
-              <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="/techs/Heresy"
-                >異端邪說</a
-              >
+              <img
+                class="gg"
+                src="~assets/Heresy.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -145,14 +159,16 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)
+              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              >(+20%建造效率)
             </td>
           </tr>
           <tr>
             <td class="tta1">其他</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Guilds.jpg" /><a href="/techs/Guilds"
-                >行會制度</a
+              <img class="gg" src="~assets/Guilds.jpg" /><nuxt-link
+                to="/techs/Guilds"
+                >行會制度</nuxt-link
               >:在市場交易課稅減至15%
             </td>
           </tr>
@@ -163,33 +179,39 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Burmese">緬甸</a>：研發<a href="/techs/Faith"
-                >忠誠信仰</a
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研發<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
               >便宜50%。
             </li>
             <li>
-              <a href="#">拜占庭</a
-              >：在封建/城堡/帝王時代，市集增加20%/30%/40%的血量。<a
-                href="/techs/Town_Watch"
-                >城鎮瞭望</a
+              <nuxt-link to="#">拜占庭</nuxt-link
+              >：在封建/城堡/帝王時代，市集增加20%/30%/40%的血量。<nuxt-link
+                to="/techs/Town_Watch"
+                >城鎮瞭望</nuxt-link
               >免費。
             </li>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：對市集有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
-              <a href="/civs/Khmer">高棉</a>：蓋市集前不需要先蓋<a
-                href="/building/Mill"
-                >磨坊</a
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >：蓋市集前不需要先蓋<nuxt-link to="/building/Mill"
+                >磨坊</nuxt-link
               >。
             </li>
-            <li><a href="/civs/Malians">馬利</a>：市集便宜15%。</li>
             <li>
-              <a href="/civs/Saracens">薩拉森</a
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：市集便宜15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >：市集貿易成本只需要5%，並在建造市集時木材花費-43%(約莫是75木材)。
             </li>
-            <li><a href="/civs/Spanish">西班牙</a>：市集建築速度快30%。</li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：市集建築速度快30%。
+            </li>
           </ul>
         </div>
         <h3>團隊加成</h3>
@@ -197,10 +219,12 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry"
-                >磚瓦技術</a
-              >，<a href="/techs/Architecture">建築學</a>和
-              <a href="/techs/Treadmill_Crane">滑輪起重機</a>的速度快80％。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
+                to="/techs/Masonry"
+                >磚瓦技術</nuxt-link
+              >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
+              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+              >的速度快80％。
             </li>
           </ul>
         </div>
@@ -208,25 +232,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>市集在每個時代都是2100HP。</li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
-            <li>引入<a href="/techs/Caravan">大商隊</a>。</li>
+            <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
+            <li>引入<nuxt-link to="/techs/Caravan">大商隊</nuxt-link>。</li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>市集在封建/城堡/帝王的HP分別是1800/2100/2100。</li>
             <li>
-              <a href="/civs/Saracens">薩拉森</a
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >市集的木材花費-43%(約莫是75木材)。
             </li>
           </ul>
@@ -243,7 +267,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="#">市集</a></div>
+              <div class="unititle"><nuxt-link to="#">市集</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -255,7 +279,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -268,11 +292,15 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Feudal_Age">封建時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">需要建設</td>
-            <td class="unit4"><a href="/building/Mill">磨坊</a></td>
+            <td class="unit4">
+              <nuxt-link to="/building/Mill">磨坊</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -280,7 +308,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -289,7 +317,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">數據</a></div>
+              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -374,8 +402,11 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="/armor/Armor_Class_Building">建築</a> <br />
-              <a href="/Armor_Class_standard_building.php">標準建築</a>
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
+              <br />
+              <nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -391,37 +422,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a href="/img/MarketFeudalAgeHD.png"
+            <nuxt-link to="/img/MarketFeudalAgeHD.png"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/MarketFeudalAgeHD.png"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a href="/img/MarketFeudalAgeDLC.png"
+            <nuxt-link to="/img/MarketFeudalAgeDLC.png"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/MarketFeudalAgeDLC.png"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的市集(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a href="/img/Marketaokaoc.png"
+            <nuxt-link to="/img/Marketaokaoc.png"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Marketaokaoc.png"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px" ;>
               <p><em>所有城堡時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
@@ -429,33 +460,33 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <a href="/img/Market.png"
+            <nuxt-link to="/img/Market.png"
               ><img class="imgn hg" width="200" src="~assets/Market.png" alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px" ;>
               <p><em>所有城堡時代的市集(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a href="/img/MarketImperialAgeHD.png"
+            <nuxt-link to="/img/MarketImperialAgeHD.png"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/MarketImperialAgeHD.png"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px" ;>
               <p><em>所有帝王時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a href="/img/MarketImperialAgeDLC.png"
+            <nuxt-link to="/img/MarketImperialAgeDLC.png"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/MarketImperialAgeDLC.png"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px" ;>
               <p><em>所有帝王時代的市集(HD擴充資料片)。</em></p>
             </div>
@@ -463,13 +494,13 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <a href="/img/Spritesheet_market.png"
+            <nuxt-link to="/img/Spritesheet_market.png"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_market.png"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px" ;>
               <p>
                 <em

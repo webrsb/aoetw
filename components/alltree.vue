@@ -56,13 +56,13 @@
               <td class="unit3 treetd">亞洲</td>
               <td class="unit4">
                 <div id="banner">
-                  <a href="/tree/chi">中國</a> <a href="/tree/jap">日本</a>
-                  <a href="/tree/mon">蒙古</a> <a href="/tree/kor">韓國</a>
-                  <a href="/tree/ind">印度</a> <a href="/tree/byz">拜占庭</a>
-                  <a href="/tree/pre">波斯</a> <a href="/tree/ber">柏柏</a>
-                  <a href="/tree/sar">薩拉森</a> <a href="/tree/tur">土耳其</a>
-                  <a href="/tree/bur">緬甸</a> <a href="/tree/khm">高棉</a>
-                  <a href="/tree/mal">馬來</a> <a href="/tree/vie">越南</a>
+                  <nuxt-link to="/tree/chi">中國</nuxt-link> <nuxt-link to="/tree/jap">日本</nuxt-link>
+                  <nuxt-link to="/tree/mon">蒙古</nuxt-link> <nuxt-link to="/tree/kor">韓國</nuxt-link>
+                  <nuxt-link to="/tree/ind">印度</nuxt-link> <nuxt-link to="/tree/byz">拜占庭</nuxt-link>
+                  <nuxt-link to="/tree/pre">波斯</nuxt-link> <nuxt-link to="/tree/ber">柏柏</nuxt-link>
+                  <nuxt-link to="/tree/sar">薩拉森</nuxt-link> <nuxt-link to="/tree/tur">土耳其</nuxt-link>
+                  <nuxt-link to="/tree/bur">緬甸</nuxt-link> <nuxt-link to="/tree/khm">高棉</nuxt-link>
+                  <nuxt-link to="/tree/mal">馬來</nuxt-link> <nuxt-link to="/tree/vie">越南</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -70,12 +70,12 @@
               <td class="unit3 treetd">歐洲</td>
               <td class="unit4">
                 <div id="banner">
-                  <a href="/tree/bri">不列顛</a> <a href="/tree/cel">賽爾特</a>
-                  <a href="/tree/fra"> 法蘭克</a> <a href="/tree/spa">西班牙</a>
-                  <a href="/tree/got">哥德</a> <a href="/tree/teu">條頓</a>
-                  <a href="/tree/vik">維京</a> <a href="/tree/hun">匈奴</a>
-                  <a href="/tree/ita">義大利</a> <a href="/tree/mag">馬札爾</a>
-                  <a href="/tree/sla">斯拉夫</a> <a href="/tree/por">葡萄牙</a>
+                  <nuxt-link to="/tree/bri">不列顛</nuxt-link> <nuxt-link to="/tree/cel">賽爾特</nuxt-link>
+                  <nuxt-link to="/tree/fra"> 法蘭克</nuxt-link> <nuxt-link to="/tree/spa">西班牙</nuxt-link>
+                  <nuxt-link to="/tree/got">哥德</nuxt-link> <nuxt-link to="/tree/teu">條頓</nuxt-link>
+                  <nuxt-link to="/tree/vik">維京</nuxt-link> <nuxt-link to="/tree/hun">匈奴</nuxt-link>
+                  <nuxt-link to="/tree/ita">義大利</nuxt-link> <nuxt-link to="/tree/mag">馬札爾</nuxt-link>
+                  <nuxt-link to="/tree/sla">斯拉夫</nuxt-link> <nuxt-link to="/tree/por">葡萄牙</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -86,9 +86,9 @@
               </td>
               <td class="unit4">
                 <div id="banner">
-                  <a href="/tree/azt">阿茲特克</a> <a href="/tree/may">馬雅</a>
-                  <a href="/tree/inc">印加</a> <a href="/tree/eth">衣索比亞</a>
-                  <a href="/tree/mai">馬利</a>
+                  <nuxt-link to="/tree/azt">阿茲特克</nuxt-link> <nuxt-link to="/tree/may">馬雅</nuxt-link>
+                  <nuxt-link to="/tree/inc">印加</nuxt-link> <nuxt-link to="/tree/eth">衣索比亞</nuxt-link>
+                  <nuxt-link to="/tree/mai">馬利</nuxt-link>
                 </div>
               </td>
             </tr>

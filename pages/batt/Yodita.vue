@@ -17,7 +17,7 @@
                 width="50px;"
                 alt=""
                 style="margin-right:20px;"
-              />不要搞混了，<a href="/units/hero/Yodit">優娣忒</a
+              />不要搞混了，<nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link
               >這個英雄的頁面在這邊。</em
             >
           </div>
@@ -47,11 +47,19 @@
             </div>
             <div class="col-md-6">
               <ol>
-                <li><a href="/batt/Path_of_Exile">流亡之路</a></li>
-                <li><a href="/batt/The_Right_Partner">最佳搭檔</a></li>
-                <li><a href="/A_Fallen-Crown.php">摔落的皇冠</a></li>
-                <li><a href="/Broken_Stelae.php">毀壞的石碑</a></li>
-                <li><a href="/Welcome_Home.php">重回故里</a></li>
+                <li>
+                  <nuxt-link to="/batt/Path_of_Exile">流亡之路</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/A_Fallen-Crown.php">摔落的皇冠</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/Broken_Stelae.php">毀壞的石碑</nuxt-link>
+                </li>
+                <li><nuxt-link to="/Welcome_Home.php">重回故里</nuxt-link></li>
               </ol>
             </div>
             <div class="col-md-6">

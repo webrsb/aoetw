@@ -46,7 +46,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d">
-              <div class="unititle"><a href="#">世紀帝國II：征服者入侵</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">世紀帝國II：征服者入侵</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -98,7 +100,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <a href="/batt/">戰役</a></em>
+            <em>主要文章: <nuxt-link to="/batt/">戰役</nuxt-link></em>
           </p>
           <p>
             除了原有的帝王世紀戰役：威廉華勒斯（教學戰役）、聖女貞德、沙拉丁、成吉思汗和巴巴羅薩，資料片也有新的征服者入侵戰役:阿提拉(匈奴)，席德(西班牙/薩拉森)，蒙特蘇馬(阿茲特克)，征服者入侵的戰役，但事實上部分戰役與史實有明顯差異。

@@ -16,7 +16,8 @@
               width="50px;"
               alt=""
               style="margin-right:20px;"
-            />注意~不要與<a href="/elements/Rate_of_Fire">射速</a>搞混了。</em
+            />注意~不要與<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+            >搞混了。</em
           >
         </div>
         <div class="n1">

@@ -10,17 +10,16 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>傳教士是<a href="/games/aoc">征服者入侵</a>中 <a href="/civs/Spanish">西班牙</a>的第二種特殊單位，可以在
-              <a
-              href="/building/Monastery">修道院</a>進行訓練。但不像 <a href="/units/Monk">僧侶</a>，它無法撿<a href="/Relic">遺跡</a>。</p>
+            <p>傳教士是<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>中 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>的第二種特殊單位，可以在
+              <nuxt-link to="/building/Monastery">修道院</nuxt-link>進行訓練。但不像 <nuxt-link to="/units/Monk">僧侶</nuxt-link>，它無法撿<nuxt-link to="/Relic">遺跡</nuxt-link>。</p>
           </div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>與僧侶一樣，傳教士能夠治療單位以及招降敵方單位，但是不能拾取<a href="/Relic">遺跡</a>，且治療速度只有僧侶的一半（每0.8秒1
-              HP而不是0.4秒）。它可以移動得相當快，使它幾乎可以從<a href="/units/Knight">騎士</a>以外幾乎所有的敵方單位攻擊下逃走。在騎士中搭配幾個傳教士可以在勢均力敵的戰鬥中大大提高獲勝的機會。傳教士也能招降被擊敗的敵人的單位和建築物。他們受到所有修道院科技的影響。然而，儘管他們在移動速度方面比僧侶有優勢，但傳教士招降範圍只有7，遠不敵僧侶的9。</p>
+            <p>與僧侶一樣，傳教士能夠治療單位以及招降敵方單位，但是不能拾取<nuxt-link to="/Relic">遺跡</nuxt-link>，且治療速度只有僧侶的一半（每0.8秒1
+              HP而不是0.4秒）。它可以移動得相當快，使它幾乎可以從<nuxt-link to="/units/Knight">騎士</nuxt-link>以外幾乎所有的敵方單位攻擊下逃走。在騎士中搭配幾個傳教士可以在勢均力敵的戰鬥中大大提高獲勝的機會。傳教士也能招降被擊敗的敵人的單位和建築物。他們受到所有修道院科技的影響。然而，儘管他們在移動速度方面比僧侶有優勢，但傳教士招降範圍只有7，遠不敵僧侶的9。</p>
             <p>僧侶和傳教士的成本都一樣，使在他們之間的選擇主要是戰術上的問題。在大多數方面，傳教士的表現通常優於僧侶。但僧侶的進攻能力，無論是醫治友軍，招降敵人或逃避反擊都有更好的表現。傳教士在防守上的表現則差得多，而且治療速度也較慢，所以對於必須在城牆後面反擊的情況，僧侶的表現會更好。</p>
-            <p>對於西班牙人來說，西班牙傳教士給西班牙人更多的戰術靈活性，特別是在進攻和後期遊戲<a href="/Relic">遺跡</a>已被收集完的時候。</p>
+            <p>對於西班牙人來說，西班牙傳教士給西班牙人更多的戰術靈活性，特別是在進攻和後期遊戲<nuxt-link to="/Relic">遺跡</nuxt-link>已被收集完的時候。</p>
           </div>
           <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -33,15 +32,13 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">緩慢且沒有射程的單位、可以招降的<a href="/building/bulding">建築物</a>、<a href="/units/Knight">騎士</a>。</td>
+              <td class="tta4">緩慢且沒有射程的單位、可以招降的<nuxt-link to="/building/bulding">建築物</nuxt-link>、<nuxt-link to="/units/Knight">騎士</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4"><a href="/units/Archer_Units">弓兵</a>、<a href="/units/Eagle_Warrior">鷹勇士</a>、
-                <a
-                href="/units/Light_Cavalry">輕騎兵</a>、<a href="/units/Camel">駱駝騎兵</a>、<a href="/units/Halberdier">戟兵</a>、
-                  <a
-                  href="/Genoese_units/Crossbowman">熱那亞弩手</a>、箭塔、<a href="/building/Castle">城堡</a>。</td>
+              <td class="tta4"><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
+                <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、
+                  <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link>、箭塔、<nuxt-link to="/building/Castle">城堡</nuxt-link>。</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -51,39 +48,39 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Sanctity.jpg" alt=""><a href="/techs/Sanctity">聖潔虔誠</a>(+15)
+                <img class="gg" src="~assets/Sanctity.jpg" alt=""><nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>(+15)
                 <br/>
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="/techs/Bloodlines">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">範圍</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Blockprinting.jpg" alt=""><a href="/techs/Block_Printing">雕版印刷術</a>(+3)</td>
+                <img class="gg" src="~assets/Blockprinting.jpg" alt=""><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link>(+3)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Fervor.jpg" alt=""><a href="/techs/Fervor">宗教狂熱</a>(+15%)</td>
+                <img class="gg" src="~assets/Fervor.jpg" alt=""><nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link>(+15%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Redemption.jpg" alt=""><a href="/techs/Redemption">信仰救贖</a>:僧侶可招降大部分建築物和攻城單位。
+                <img class="gg" src="~assets/Redemption.jpg" alt=""><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>:僧侶可招降大部分建築物和攻城單位。
                 <br/>
-                <img class="gg" src="~assets/Atonement.jpg" alt=""><a href="/techs/Atonement">贖罪</a>:僧侶可招降對方的僧侶。
+                <img class="gg" src="~assets/Atonement.jpg" alt=""><nuxt-link to="/techs/Atonement">贖罪</nuxt-link>:僧侶可招降對方的僧侶。
                 <br/>
-                <img class="gg" src="~assets/Illumination.jpg" alt=""><a href="/techs/Illumination">啟發教化</a>:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
+                <img class="gg" src="~assets/Illumination.jpg" alt=""><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
                 <br/>
-                <img class="gg" src="~assets/Theocracy.png" alt=""><a href="/techs/Theocracy">神權統治</a>:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。
+                <img class="gg" src="~assets/Theocracy.png" alt=""><nuxt-link to="/techs/Theocracy">神權統治</nuxt-link>:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。
                 <br/>
-                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="/techs/Inquisition">異端審判</a>:僧侶招降速度變快(對單位時間-1，對建築物時間-7)，<a href="/civs/Spanish">西班牙</a>限定。</td>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link>:僧侶招降速度變快(對單位時間-1，對建築物時間-7)，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link> 
               </td>
             </tr>
           </table>
@@ -97,55 +94,55 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="/units/Halberdier">戟兵</a>
+                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+22攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="/units/Pikeman">重裝長槍兵</a>
+                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="/Heavy_units/Camel">重裝駱駝騎兵</a>→
+                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <a href="/Imperial_units/Camel">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="/indians.php">印度</a>限定)</li>
+                      alt=""> <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>(帝王駱駝騎兵是<nuxt-link to="/indians.php">印度</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="/units/Spearman">長槍兵</a>
+                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                     </li>
                     <li>
-                      <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="/units/Cannon_Galleon">火砲戰船</a>→
+                      <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg"
-                      alt=""> <a href="/Elite_units/Cannon_Galleon">精銳火砲戰船</a> 
+                      alt=""> <nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+14攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="/units/Mameluke">精銳奴隸兵</a>(<a href="/civs/Saracens">薩拉森</a>限定)</li>
+                      <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link>(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="/units/Kamayuk">精銳槍隊長</a>(<a href="/civs/Incas">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link>(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/HussarIcon.jpg" alt=""><a href="/Hustree/sar">匈牙利輕騎兵</a> 
+                      <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="/units/Samurai">精銳日本武士</a>(<a href="/civs/Japanese">日本</a>限定)</li>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><nuxt-link to="/units/Samurai">精銳日本武士</nuxt-link>(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
@@ -153,83 +150,83 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="/units/Eagle_Warrior">鷹勇士</a> 
+                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><a href="/units/Light_Cavalry">輕騎兵</a> 
+                      <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="/units/Samurai">日本武士</a>(<a href="/civs/Japanese">日本</a>限定)</li>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><nuxt-link to="/units/Samurai">日本武士</nuxt-link>(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="/units/Camel">駱駝騎兵</a>
+                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="/units/Mameluke">奴隸兵</a>(<a href="/civs/Saracens">薩拉森</a>限定)</li>
+                      <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="/units/Kamayuk">槍隊長</a>(<a href="/civs/Incas">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="/units/Eagle_Scout">鷹斥侯</a> 
+                      <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="/Genoese_units/Crossbowman">精銳熱那亞弩手</a>(<a href="/civs/Italians">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><nuxt-link to="/Genoese_units/Crossbowman">精銳熱那亞弩手</nuxt-link>(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""><a href="/units/Scout_Cavalry">斥侯騎兵</a> 
+                      <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""><nuxt-link to="/units/Scout_Cavalry">斥侯騎兵</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="/Genoese_units/Crossbowman">熱那亞弩手</a>(<a href="/civs/Italians">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link>(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)</li>
                   </ul>
                 </div>
               </div>
             </div>以下技術可給以下單位對傳教士有額外攻擊:
             <div class="n1">
-              <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""> <a href="/techs/Chieftains">酋長</a> 
-              <div width="22" style="margin:12px 0px;"><strong>+5攻擊</strong>(<a href="/civs/Vikings">維京</a>限定)</div>
+              <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""> <nuxt-link to="/techs/Chieftains">酋長</nuxt-link> 
+              <div width="22" style="margin:12px 0px;"><strong>+5攻擊</strong>(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)</div>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="/units/Militia">民兵</a>→
+                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><nuxt-link to="/units/Militia">民兵</nuxt-link>→
                   <img class="gg" src="~assets/ManAtArmsIcon.jpg"
-                  width="22" alt=""> <a href="/units/Man-at-Arms">裝甲步兵</a>→
+                  width="22" alt=""> <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>→
                   <img class="gg" src="~assets/LongswordsManIcon.jpg"
-                  alt=""> <a href="/units/Long_Swordsman">長劍兵</a>→
+                  alt=""> <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                   <img class="gg" src="~assets/2HandedswordsmanIcon.jpg"
-                  alt=""> <a href="/units/Two-Handed_Swordsman">雙手劍兵</a>→
+                  alt=""> <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>→
                   <img class="gg" src="~assets/ChampionIcon.jpg"
-                  alt=""> <a href="/units/Champion">劍兵勇士</a> 
+                  alt=""> <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link> 
                 </li>
                 <li>
-                  <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="/units/Spearman">長槍兵</a>→
+                  <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>→
                   <img class="gg" src="~assets/PikemanIcon.jpg"
-                  alt=""> <a href="/units/Pikeman">重裝長槍兵</a> 
+                  alt=""> <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link> 
                 </li>
                 <li>
-                  <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="/units/Berserk">狂戰士</a>→
-                  <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="/units/Berserk">精銳狂戰士</a>(<a href="/civs/Vikings">維京</a>限定)</li>
+                  <img class="gg" src="~assets/VBRSK.jpg" alt=""><nuxt-link to="/units/Berserk">狂戰士</nuxt-link>→
+                  <img class="gg" src="~assets/VBRSK.jpg" alt=""> <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link>(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)</li>
                 <li>
-                  <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""> <a href="/units/Condottiero">傭兵</a>(如果和<a href="/civs/Italians">義大利</a>同盟的話)</li>
+                  <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""> <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>(如果和<nuxt-link to="/civs/Italians">義大利</nuxt-link>同盟的話)</li>
               </ul>
             </div>
           </div>
@@ -237,22 +234,22 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Byzantines">拜占庭</a>：傳教士治療速度提高50％。</li>
-              <li><a href="/civs/Teutons">條頓</a>：傳教士對敵方的招降更有抵抗力。</li>
+              <li><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：傳教士治療速度提高50％。</li>
+              <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>：傳教士對敵方的招降更有抵抗力。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
+            <h3><em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em></h3>
             <ul>
               <li>訓練傳教士需要先建造城堡。</li>
             </ul>
-            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
+            <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
-              <li>傳教士現在會受到<a href="/techs/Bloodlines">品種</a>和<a href="/techs/Fervor">宗教狂熱加成影響。</a>。</li>
+              <li>傳教士現在會受到<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>和<nuxt-link to="/techs/Fervor">宗教狂熱加成影響。</nuxt-link>。</li>
             </ul>
-            <h3><em><a href="/games/ak">非洲王朝</a></em></h3>
+            <h3><em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em></h3>
             <ul>
               <li>訓練傳教士不再需要先建造城堡。</li>
             </ul>
@@ -262,12 +259,10 @@
           <div class="n1">
             <ul>
               <li>傳教士是唯一在修道院訓練的特殊單位，同時也讓修道院成為唯一可訓練一種特殊單位的建築物。</li>
-              <li>傳教士是少數幾個單位同時沒有近防和遠防。其他的有<a href="/units/Slinger">投石手</a>、<a href="/units/Condottiero">傭兵</a>、
-                <a
-                href="/Imperial_units/Camel">帝王駱駝騎兵</a>和<a href="/units/Imperial_Skirmisher">帝王戰矛兵</a>。</li>
-              <li>傳教士是少數幾個特殊單位沒有精銳升級的。其他的有<a href="/units/Slinger">投石手</a>、<a href="/units/Condottiero">傭兵</a>、
-                <a
-                href="/Imperial_units/Camel">帝王駱駝騎兵</a>和<a href="/units/Imperial_Skirmisher">帝王戰矛兵</a>
+              <li>傳教士是少數幾個單位同時沒有近防和遠防。其他的有<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
+                <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>和<nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link>。</li>
+              <li>傳教士是少數幾個特殊單位沒有精銳升級的。其他的有<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
+                <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>和<nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link>
               </li>
               <li>與僧侶不同的是，傳教士的名字在歷史上是正確的，因為傳教士的定義是“一個宗教使團派出的人，特別是被派去在外國宣傳基督教的人”，傳教士在遊戲中的的主要目的就是招降敵方單位(向他們傳教，阿門)。</li>
             </ul>
@@ -282,7 +277,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><a href="#">傳教士</a>
+                <div class="unititle"><nuxt-link to="#">傳教士</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -295,29 +290,29 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="#">單位介紹</a>
+                <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="/units/Monk">僧侶</a>、 <a href="/units/Cavalry_Units">騎兵</a>、 醫護人員</td>
+              <td class="unit4"><nuxt-link to="/units/Monk">僧侶</nuxt-link>、 <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、 醫護人員</td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Spanish">西班牙</a>
+              <td class="unit4"><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Monasteryicon.png" alt=""><a href="/building/Monastery">修道院</a>
+                <img class="gg" src="~assets/Monasteryicon.png" alt=""><nuxt-link to="/building/Monastery">修道院</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -326,7 +321,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="#">成本</a>
+                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -336,7 +331,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="#">數據</a>
+                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -351,9 +346,8 @@
             <tr>
               <td class="unit4">招降範圍</td>
               <td class="unit4">對一般單位:7
-                <br/>對<a href="/building/bulding">建築物</a>、<a href="/units/Battering_Ram">衝撞車</a>、
-                <a
-                href="/units/Trebuchet">巨型投石機</a>:0</tr>
+                <br/>對<nuxt-link to="/building/bulding">建築物</nuxt-link>、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>、
+                <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>:0</tr>
             <tr>
               <td class="unit4">治療範圍</td>
               <td class="unit4">4</td>
@@ -369,9 +363,9 @@
             </tr>
             <tr>
               <td class="unit3">防禦類別</td>
-              <td class="unit4"> <a href="/armor/Armor_Class_Cavalry_Archer">騎兵</a>
-                <br/> <a href="/armor/Armor_Class_Monk">僧侶</a>
-                <br/> <a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>
+              <td class="unit4"> <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
+                <br/> <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>
+                <br/> <nuxt-link to="/armor/Armor_Class_Unique_Unit">特殊單位</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -391,11 +385,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="/img/Missionary.png"><img class="imgn hg" src="~assets/Missionary.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Missionary.png"><img class="imgn hg" src="~assets/Missionary.png" alt=""></nuxt-link> 
                 <p><em>一群傳教士</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="/img/Missionary1.png"><img class="imgn hg" src="~assets/Missionary1.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Missionary1.png"><img class="imgn hg" src="~assets/Missionary1.png" alt=""></nuxt-link> 
                 <p><em>傳教士美術畫</em>
                 </p>
               </div>

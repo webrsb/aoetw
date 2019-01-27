@@ -50,50 +50,50 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="/techs/Great_Wall">長城</a>:+30% HP，<a href="/civs/Chinese">中國</a>限定</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><nuxt-link to="/techs/Great_Wall">長城</nuxt-link>:+30% HP，<nuxt-link to="/civs/Chinese">中國</nuxt-link>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">工作速率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%工作效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link>(+20%工作效率)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Byzantines">拜占庭</a>：木牆在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。</li>
-              <li><a href="/civs/Chinese">中國</a>：對木牆有利的技術在城堡/帝王時代價格便宜15％/20％。</li>
-              <li><a href="/civs/Koreans">韓國</a>：木牆建築速度快33%</li>
-              <li><a href="/civs/Spanish">西班牙</a>：木牆建築速度快30%。</li>
+              <li><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：木牆在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。</li>
+              <li><nuxt-link to="/civs/Chinese">中國</nuxt-link>：對木牆有利的技術在城堡/帝王時代價格便宜15％/20％。</li>
+              <li><nuxt-link to="/civs/Koreans">韓國</nuxt-link>：木牆建築速度快33%</li>
+              <li><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：木牆建築速度快30%。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Malians">馬利</a>：研究<a href="/techs/Treadmill_Crane">踏輪起重機</a>的速度提高80%。</li>
-              <li><a href="/civs/Mayans">馬雅</a>：木牆便宜50%</li>
+              <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link>的速度提高80%。</li>
+              <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：木牆便宜50%</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="/games/aok">帝王世紀</a></em></h3> 
+            <h3><em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em></h3> 
             <ul>
               <li>木牆需要5秒建築時間。</li>
               <li>木牆有2的遠程護甲。</li>
             </ul>
-            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3> 
+            <h3><em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em></h3> 
             <ul>
               <li>木牆現在有5的遠程護甲。</li>
             </ul>
-            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
+            <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
               <li>木牆需要5秒建築時間。</li>
-              <li>引入<a href="/Palisade_building/Gate">木門</a>。</li>
-              <li><a href="/civs/Chinese">中國</a>:引入<a href="/techs/Great_Wall">長城</a>。</li>
-              <li><a href="/civs/Koreans">韓國</a>:木牆建造速度快33%</li>
+              <li>引入<nuxt-link to="/Palisade_building/Gate">木門</nuxt-link>。</li>
+              <li><nuxt-link to="/civs/Chinese">中國</nuxt-link>:引入<nuxt-link to="/techs/Great_Wall">長城</nuxt-link>。</li>
+              <li><nuxt-link to="/civs/Koreans">韓國</nuxt-link>:木牆建造速度快33%</li>
             </ul>
           </div>
           <h3>歷史</h3>
@@ -107,7 +107,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><a href="#">木牆</a>
+                <div class="unititle"><nuxt-link to="#">木牆</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -120,7 +120,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="#">概要</a>
+                <div class="unititle2"><nuxt-link to="#">概要</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -134,7 +134,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="/techsage/Dark_Age">黑暗時代</a>
+              <td class="unit4"><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -147,7 +147,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="#">成本</a>
+                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -157,7 +157,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="#">數據</a>
+                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -181,9 +181,9 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="/armor/Armor_Class_Building">建築</a>
-                <br/> <a href="/Armor_Class_standard_building.php">標準建築</a>
-                <br/> <a href="/armor/Armor_Class_wall_and_gate">城門和城牆</a>
+              <td class="unit4"><nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
+                <br/> <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
+                <br/> <nuxt-link to="/armor/Armor_Class_wall_and_gate">城門和城牆</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -197,7 +197,7 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="/img/Palisadegold.png"><img class="imgn hg" width="180" src="~assets/Palisadegold.png" alt=""></a> 
+            <div class="col-md-4"> <nuxt-link to="/img/Palisadegold.png"><img class="imgn hg" width="180" src="~assets/Palisadegold.png" alt=""></nuxt-link> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>木牆可以在遊戲早期守護重要的資源。</em>

@@ -130,117 +130,147 @@
     <h3>科技樹</h3>
     <div class="hrn1"></div>
     <div class="n1">
-      <em><a href="/tree/byz">拜占庭科技樹</a></em>
+      <em><nuxt-link to="/tree/byz">拜占庭科技樹</nuxt-link></em>
     </div>
     <br />
     <h3>戰役</h3>
     <div class="hrn1"></div>
     <div class="n1">
       <p>
-        拜占庭在戰役中扮演相當重要的角色，尤其在<a href="/batt/Attila_the_Huna"
-          >阿提拉</a
-        >，而在帝王世紀的戰役中，在 <a href="/batt/Barbarossaa">巴巴羅薩</a>與<a
-          href="/batt/Saladina"
-          >薩拉丁</a
-        >也頻繁的出現，耶路撒冷就是拜占庭文明。薩拉丁第五關<a href="/batt/Jihad"
-          >聖戰</a
+        拜占庭在戰役中扮演相當重要的角色，尤其在<nuxt-link
+          to="/batt/Attila_the_Huna"
+          >阿提拉</nuxt-link
+        >，而在帝王世紀的戰役中，在
+        <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>與<nuxt-link
+          to="/batt/Saladina"
+          >薩拉丁</nuxt-link
+        >也頻繁的出現，耶路撒冷就是拜占庭文明。薩拉丁第五關<nuxt-link
+          to="/batt/Jihad"
+          >聖戰</nuxt-link
         >的十字軍泰爾，以及巴巴羅薩戰役第四關
-        <a href="/batt/The_Lombard_League">倫巴聯盟</a
+        <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link
         >中的威尼斯(實際上應該是義大利人)等等..不是扮演原本就是拜占庭帝國的耶路撒冷或是君士坦丁堡，就是代替當時的義大利城市，熱那亞和威尼斯。
       </p>
       <p>
-        隨著西羅馬帝國與東羅馬帝國分裂，拜占庭在征服者入侵的戰役中也沒有缺席，在<a
-          href="/batt/Attila_the_Huna"
-          >阿提拉戰役</a
+        隨著西羅馬帝國與東羅馬帝國分裂，拜占庭在征服者入侵的戰役中也沒有缺席，在<nuxt-link
+          to="/batt/Attila_the_Huna"
+          >阿提拉戰役</nuxt-link
         >中扮演西羅馬帝國與東羅馬帝國，或是一些羅馬的城市如底斯索隆尼卡、菲利普堡、亞得里亞堡等等。
       </p>
       <p>
-        而在失落的帝國戰役中，拜占庭在<a href="/batt/Alarica">阿拉里克</a
+        而在失落的帝國戰役中，拜占庭在<nuxt-link to="/batt/Alarica"
+          >阿拉里克</nuxt-link
         >也有少量的出現，如西羅馬帝國，因為有了義大利文明的出現，以前由拜占庭扮演的義大利城邦，現在則準確的由義大利取代，
       </p>
       <p>以下詳細列出拜占庭出現的戰役</p>
-      <a href="/batt/Saladina">薩拉丁</a>
+      <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
       <ul>
-        <li><a href="/batt/The_Horns_of_Hattin">海丁的號角</a>:耶路撒冷</li>
         <li>
-          <a href="/batt/The_Siege_of_Jerusalem">耶路撒冷攻城戰</a>:耶路撒冷
+          <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link
+          >:耶路撒冷
         </li>
-        <li><a href="/batt/Jihad">聖戰!</a>:泰爾</li>
         <li>
-          <a href="/batt/The_Lion_and_the_Demon">獅子與惡魔</a
+          <nuxt-link to="/batt/The_Siege_of_Jerusalem">耶路撒冷攻城戰</nuxt-link
+          >:耶路撒冷
+        </li>
+        <li><nuxt-link to="/batt/Jihad">聖戰!</nuxt-link>:泰爾</li>
+        <li>
+          <nuxt-link to="/batt/The_Lion_and_the_Demon">獅子與惡魔</nuxt-link
           >:耶路撒冷、熱那亞人。
         </li>
       </ul>
-      <a href="/batt/Barbarossaa">巴巴羅薩</a>
+      <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
       <ul>
-        <li><a href="/batt/The_Lombard_League">倫巴聯盟</a>:威尼斯</li>
-        <li><a href="/batt/The_Emperor_Sleeping">沉睡的皇帝</a>:耶路撒冷</li>
-        <li><a href="/batt/Barbarossas_March">紅鬍子的行軍</a>:加利波利</li>
-      </ul>
-      <a href="/batt/Attila_the_Huna">阿提拉</a>
-      <ul>
-        <li><a href="/batt/Scourge_of_God">上帝之鞭</a>:西羅馬帝國</li>
         <li>
-          <a href="/batt/The_Great_Ride">偉大的騎士</a
+          <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>:威尼斯
+        </li>
+        <li>
+          <nuxt-link to="/batt/The_Emperor_Sleeping">沉睡的皇帝</nuxt-link
+          >:耶路撒冷
+        </li>
+        <li>
+          <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link
+          >:加利波利
+        </li>
+      </ul>
+      <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
+      <ul>
+        <li>
+          <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>:西羅馬帝國
+        </li>
+        <li>
+          <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link
           >:東羅馬帝國、亞得里亞堡、底斯索隆尼卡
         </li>
         <li>
-          <a href="/batt/Walls_of_Constantinople">君士坦丁堡的城牆</a
+          <nuxt-link to="/batt/Walls_of_Constantinople"
+            >君士坦丁堡的城牆</nuxt-link
           >:君士坦丁堡、菲利普堡
         </li>
-        <li><a href="/batt/A_Barbarian_Betrothal">蠻族的婚約</a>:西羅馬帝國</li>
         <li>
-          <a href="/batt/Catalaunian_Fields">卡塔隆尼亞平原</a>:西羅馬帝國
+          <nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link
+          >:西羅馬帝國
         </li>
-        <li><a href="/batt/Fall_of_Rome">羅馬的衰落</a>:西羅馬帝國</li>
+        <li>
+          <nuxt-link to="/batt/Catalaunian_Fields">卡塔隆尼亞平原</nuxt-link
+          >:西羅馬帝國
+        </li>
+        <li>
+          <nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link>:西羅馬帝國
+        </li>
       </ul>
-      <a href="/batt/Attila_the_Huna">征服者戰役</a>
+      <nuxt-link to="/batt/Attila_the_Huna">征服者戰役</nuxt-link>
       <ul>
         <li>
-          <a href="/batt/Manzikert(1071)">曼奇克托(1071)</a
+          <nuxt-link to="/batt/Manzikert(1071)">曼奇克托(1071)</nuxt-link
           >卡帕多細亞、西迪亞、格雷西亞、拜占庭軍隊
         </li>
-        <li><a href="/batt/Lepanto(1571)">勒班陀(1571)</a>:希臘村莊</li>
+        <li>
+          <nuxt-link to="/batt/Lepanto(1571)">勒班陀(1571)</nuxt-link>:希臘村莊
+        </li>
       </ul>
-      <a href="/batt/Alarica">阿拉里克</a>
+      <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
       <ul>
         <li>
-          <a href="/batt/All_Roads_Lead_to_a_Besieged_City">條條大路通圍城</a
+          <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
+            >條條大路通圍城</nuxt-link
           >羅馬軍團、西羅馬帝國
         </li>
         <li>
-          <a href="/batt/The_Rebellion_of_Melus">梅勒斯叛變</a
+          <nuxt-link to="/batt/The_Rebellion_of_Melus">梅勒斯叛變</nuxt-link
           >:拜占庭帝國、梅勒斯
         </li>
-        <li><a href="/batt/Arrival_at_Bari">抵達巴里</a>:拜占庭帝國</li>
+        <li>
+          <nuxt-link to="/batt/Arrival_at_Bari">抵達巴里</nuxt-link>:拜占庭帝國
+        </li>
       </ul>
       <br />
       <div class="col-md-12">
         <div class="col-md-3">
-          <a href="/img/Dome_of_the_Rock_(Saladin).png"
+          <nuxt-link to="/img/Dome_of_the_Rock_(Saladin).png"
             ><img
               class="imgn hg"
               src="~assets/Dome_of_the_Rock_(Saladin).png"
               alt=""
-          /></a>
+          /></nuxt-link>
           <p><em>岩石圓頂，出現在薩拉丁的第四關及巴巴羅薩的最後一關</em></p>
         </div>
         <div class="col-md-3">
-          <a href="/img/Tyre.png"
+          <nuxt-link to="/img/Tyre.png"
             ><img class="imgn hg" src="~assets/Tyre.png" alt=""
-          /></a>
+          /></nuxt-link>
           <p><em>十字軍城市泰爾</em></p>
         </div>
         <div class="col-md-3">
-          <a href="/img/Constantinople.png"
+          <nuxt-link to="/img/Constantinople.png"
             ><img class="imgn hg" src="~assets/Constantinople.png" alt=""
-          /></a>
+          /></nuxt-link>
           <p><em>聞名於世的君士坦丁堡</em></p>
         </div>
         <div class="col-md-3">
-          <a href="/img/Venice.png"
+          <nuxt-link to="/img/Venice.png"
             ><img class="imgn hg" src="~assets/Venice.png" alt=""
-          /></a>
+          /></nuxt-link>
           <p><em>意大利的城邦威尼斯</em></p>
         </div>
       </div>
@@ -269,9 +299,9 @@
     <div class="n1">
       <div class="col-md-12">
         <div class="col-md-4">
-          <a href="/img/MidEastern.jpg"
+          <nuxt-link to="/img/MidEastern.jpg"
             ><img class="imgn hg" src="~assets/MidEastern.jpg" alt=""
-          /></a>
+          /></nuxt-link>
           <p><em>拜占庭的中東式建築。</em></p>
         </div>
       </div>

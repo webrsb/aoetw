@@ -20,7 +20,7 @@
           </p>
           <p>資源方面，請牢記一定是8羊2豬3或4條鹿，3塊黃金與2塊石頭。</p>
           <h3>優勢文明</h3>
-          <p>請見<a href="/civs/bestciv">文明優勢</a></p>
+          <p>請見<nuxt-link to="/civs/bestciv">文明優勢</nuxt-link></p>
         </div>
       </div>
       <div class="col-md-4">

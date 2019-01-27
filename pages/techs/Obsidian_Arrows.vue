@@ -11,16 +11,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            黑曜石之箭是<a href="/civs/Mayans">馬雅</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/building/Archery_Range"
-              >射箭場</a
-            ><a href="/units/Archer">弓兵系</a>對
-            <a href="/Armor_Class_standard_building.php">標準建築</a>和<a
-              href="/armor/Armor_Class_stone_defense"
-              >石造建築</a
+            黑曜石之箭是<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/building/Archery_Range"
+              >射箭場</nuxt-link
+            ><nuxt-link to="/units/Archer">弓兵系</nuxt-link>對
+            <nuxt-link to="/Armor_Class_standard_building.php"
+              >標準建築</nuxt-link
+            >和<nuxt-link to="/armor/Armor_Class_stone_defense"
+              >石造建築</nuxt-link
             >攻擊+6。
           </p>
         </div>
@@ -29,21 +31,22 @@
         <div class="n1">
           <ul>
             <li>
-              弓兵通常需要搭配<a href="/units/Siege_Weapons"></a
+              弓兵通常需要搭配<nuxt-link to="/units/Siege_Weapons"></nuxt-link
               >攻城武器才能有效破壞建築物因為弓兵的傷害低而且建築物有護甲。另外瑪雅的科技樹十分有限，也沒有騎兵單位，而馬雅又相當倚賴弓箭手，使得破壞建築對馬雅是個頭痛的問題。
             </li>
             <li>
               。有了黑曜石之箭的馬雅弓兵可對建築物造成大量傷害，還可以在安全距離同時對建築射擊而不必圍繞著它。
             </li>
             <li>
-              <a href="/building/Blacksmith">兵工廠</a
-              >科技因為比較便宜仍然要優先研發，另外黑曜石之箭沒有加成到<a
-                href="/Plumed_units/Archer"
-                >羽毛箭射手</a
+              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >科技因為比較便宜仍然要優先研發，另外黑曜石之箭沒有加成到<nuxt-link
+                to="/Plumed_units/Archer"
+                >羽毛箭射手</nuxt-link
               >。如果盟友有
-              <a href="/civs/Saracens">薩拉森</a
-              >的話弓箭手對建築物的總體攻擊會是+8(薩拉森<a href="/Team_Bonus"
-                >團隊加成</a
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+              >的話弓箭手對建築物的總體攻擊會是+8(薩拉森<nuxt-link
+                to="/Team_Bonus"
+                >團隊加成</nuxt-link
               >:弓兵對建築物+2攻擊)。
             </li>
           </ul>
@@ -53,8 +56,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速黑曜石之箭的研究時間(快25%)。
             </li>
           </ul>
@@ -63,13 +67,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>黑曜石之箭讓弓兵對建築物攻擊+1。</li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王朝</a></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>
@@ -82,7 +86,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">黑曜石之箭</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">黑曜石之箭</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -94,28 +100,31 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Mayans">馬雅</a></td>
+            <td class="unit4"><nuxt-link to="/civs/Mayans">馬雅</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -125,7 +134,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -138,7 +147,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

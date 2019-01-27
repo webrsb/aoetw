@@ -36,30 +36,43 @@
         <div class="n1">
           <p>可加速收集石礦速度的科技:</p>
           <ul>
-            <li><a href="/Hand_Cart.php">獨輪推車</a></li>
-            <li><a href="/techs/Wheelbarrow">手推車</a></li>
-            <li><a href="/techs/Stone_Mining">採石技術</a></li>
-            <li><a href="/techs/Stone_Shaft_Mining">礦井採石</a></li>
+            <li><nuxt-link to="/Hand_Cart.php">獨輪推車</nuxt-link></li>
+            <li><nuxt-link to="/techs/Wheelbarrow">手推車</nuxt-link></li>
+            <li><nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link></li>
+            <li>
+              <nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>
+            </li>
           </ul>
         </div>
         <h3>相關文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Aztecs">阿茲特克</a>:村民資源攜帶量+5。</li>
-            <li><a href="/civs/Franks">法蘭克</a>:城堡造價便宜25%。</li>
-            <li><a href="/civs/Incas">印加</a>:建築石材花費減少15%。</li>
-            <li><a href="/civs/Koreans">韓國</a>:石礦採集速度快20%。</li>
-            <li><a href="/civs/Mayans">瑪雅</a>:自然資源存量+15%。</li>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >:村民資源攜帶量+5。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>:城堡造價便宜25%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>:建築石材花費減少15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:石礦採集速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">瑪雅</nuxt-link>:自然資源存量+15%。
+            </li>
           </ul>
         </div>
         <h3>參見</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/resource/Food">食物</a></li>
-            <li><a href="/resource/Wood">木材</a></li>
-            <li><a href="/resource/Gold">黃金</a></li>
+            <li><nuxt-link to="/resource/Food">食物</nuxt-link></li>
+            <li><nuxt-link to="/resource/Wood">木材</nuxt-link></li>
+            <li><nuxt-link to="/resource/Gold">黃金</nuxt-link></li>
           </ul>
         </div>
       </div>

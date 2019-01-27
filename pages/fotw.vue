@@ -10,15 +10,17 @@
             width="50px;"
             alt=""
             style="margin-right:20px;"
-          />持續更新頁面：任何意見，歡迎到<a href="/talk">討論區</a>參與討論</em
+          />持續更新頁面：任何意見，歡迎到<nuxt-link to="/talk"
+            >討論區</nuxt-link
+          >參與討論</em
         >
       </div>
       <div class="hrn1"></div>
       <div class="n1">
         <p>
-          本頁面主要介紹活躍於臺灣、香港Steam上的知名玩家，接地氣，如果要看世界級的高手請到：<a
-            href="/top"
-            >世界知名玩家</a
+          本頁面主要介紹活躍於臺灣、香港Steam上的知名玩家，接地氣，如果要看世界級的高手請到：<nuxt-link
+            to="/top"
+            >世界知名玩家</nuxt-link
           >
         </p>
         <p>
@@ -152,7 +154,7 @@
           <tr>
             <td>
               台灣知名女插畫家，會開插畫直播，<a
-                href="/https://www.facebook.com/DanbulunII/"
+                href="https://www.facebook.com/DanbulunII/"
                 >粉絲專頁</a
               >，網路上擁有廣大粉絲，也是世紀愛好者，常常愛用塔攻，值得一提的是她用繪圖版打世紀。
             </td>
@@ -181,7 +183,7 @@
           <tr>
             <td>
               旅澳女玩家，一個年輕辣媽，愛打無海牧地，實力還不錯，會開直播，<a
-                href="/https://www.twitch.tv/ada_lee"
+                href="https://www.twitch.tv/ada_lee"
                 >直播網址</a
               >。
             </td>
@@ -361,7 +363,7 @@
           <tr>
             <td>
               經典國王被投石機砸死。(<a
-                href="/https://www.youtube.com/watch?v=xuur0nGnfB0"
+                href="https://www.youtube.com/watch?v=xuur0nGnfB0"
                 >影片</a
               >)
             </td>
@@ -587,7 +589,7 @@
           <tr>
             <td>
               布丁，臺灣知名老玩家，成名的早，單挑團戰都打的不錯，匈奴的搶城戰術更是所有玩家的惡夢，在ptt有多篇<a
-                href="/https://pttweb.tw/aoe/m-1497345471-a-f71.html"
+                href="https://pttweb.tw/aoe/m-1497345471-a-f71.html"
                 >精湛教學</a
               >。
             </td>

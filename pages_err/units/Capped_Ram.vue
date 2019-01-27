@@ -15,9 +15,9 @@
             <ul>
               <li>駐紮步兵數量0→移動速度0.5</li>
               <li>駐紮步兵數量1→移動速度0.55</li>
-              <li>駐紮步兵數量2→移動速度0.6(<a href="/units/Siege_Ram">重型衝撞車</a>、<a href="/War_unitsanimal/Elephant">戰象</a>移動速度0.6)</li>
-              <li>駐紮步兵數量3→移動速度0.65(<a href="/units/Scorpion">弩砲</a>移動速度0.65)</li>
-              <li>駐紮步兵數量4→移動速度0.7(<a href="/units/Monk">僧侶</a>移動速度0.7)</li>
+              <li>駐紮步兵數量2→移動速度0.6(<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>、<nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link>移動速度0.6)</li>
+              <li>駐紮步兵數量3→移動速度0.65(<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>移動速度0.65)</li>
+              <li>駐紮步兵數量4→移動速度0.7(<nuxt-link to="/units/Monk">僧侶</nuxt-link>移動速度0.7)</li>
               <li>駐紮步兵數量5→移動速度0.75</li>
             </ul>
           </div>
@@ -39,13 +39,12 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="/Armor_class_building.php">建築物</a>和<a href="/units/Trebuchet">投石機</a>。</td>
+              <td class="tta4"><nuxt-link to="/Armor_class_building.php">建築物</nuxt-link>和<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4"><a href="/units/Mangudai">蒙古突騎</a>、<a href="/units/Mangonel">投石車</a>、近戰單位特別是
-                <a
-                href="/units/Magyar_Huszar">馬札爾驃騎兵</a>。</td>
+              <td class="tta4"><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、近戰單位特別是
+                <nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>。</td>
             </tr>
             <tr class="tta">
               <td class="" colspan="2" style="text-align: center;">
@@ -55,32 +54,31 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Furor_Celtica">賽爾特狂暴</a>:攻城器製造所的單位+40% HP。<a href="/civs/Celts">賽爾特</a>限定</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link>:攻城器製造所的單位+40% HP。<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="/techs/Siege_Engineers">攻城工程師</a>:對<a href="/armor/Armor_Class_Building">建築物</a>攻擊加成+20%。
+                <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>攻擊加成+20%。
                 <br/>
-                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Torsion_Engines">扭力彈射器</a>:攻城器製造所的單位傷害範圍增加(輕型衝撞車和攻城塔除外)，
-                <a
-                href="/civs/Ethiopians">衣索比亞</a>限定</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link>:攻城器製造所的單位傷害範圍增加(輕型衝撞車和攻城塔除外)，
+                <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="/techs/Ironclad">鋼鐵甲</a>:攻城武器近戰護甲+4，<a href="/civs/Teutons">條頓</a>限定</td>
+                <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link>:攻城武器近戰護甲+4，<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Drill">演習</a>:攻城器製造所的單位移動速度+50%，<a href="/civs/Mongols">蒙古</a>限定</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Drill">演習</nuxt-link>:攻城器製造所的單位移動速度+50%，<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定</td>
               <tr>
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
-                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                   <br/>
-                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link> 
                 </td>
               </tr>
           </table>
@@ -94,40 +92,40 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/SiegeRamIcon.jpg" alt=""><a href="/units/Siege_Ram">重型衝撞車</a> 
+                      <img class="gg" src="~assets/SiegeRamIcon.jpg" alt=""><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+60攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/PetardIcon.jpg" alt=""><a href="/units/Petard">爆炸桶</a> 
+                      <img class="gg" src="~assets/PetardIcon.jpg" alt=""><nuxt-link to="/units/Petard">爆炸桶</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+50攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CappedRamIcon.jpg" width="22" alt=""><a href="/units/Capped_Ram">裝甲衝撞車</a> 
+                      <img class="gg" src="~assets/CappedRamIcon.jpg" width="22" alt=""><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""><a href="/units/Battering_Ram">輕形衝撞車</a> 
+                      <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""><nuxt-link to="/units/Battering_Ram">輕形衝撞車</nuxt-link> 
                     </li>
                     <li>
-                      <img src="~assets/CannonGalleonIcon.jpg" alt=""><a href="/units/Cannon_Galleon">火砲戰船</a>→
+                      <img src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                       <img src="~assets/CannonGalleonIcon.jpg"
-                      alt=""><a href="/Elite_units/Cannon_Galleon">精銳火砲戰船</a> 
+                      alt=""><nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="/units/Bombard_Cannon">火砲</a> 
+                      <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link> 
                     </li>
                   </ul>
                 </div>
@@ -136,40 +134,40 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/MangonelIcon.jpg" alt=""><a href="/units/Mangonel">輕形投石車</a>→
+                      <img class="gg" src="~assets/MangonelIcon.jpg" alt=""><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
                       <img class="gg" src="~assets/OnagerIcon.jpg"
-                      alt=""><a href="/units/Onager">中型投石車</a>→
+                      alt=""><nuxt-link to="/units/Onager">中型投石車</nuxt-link>→
                       <img class="gg" src="~assets/SiegeOnagerIcon.jpg"
-                      alt=""><a href="/Siege_units/Onager">重型投石車</a> 
+                      alt=""><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="/units/Magyar_Huszar">精銳馬札爾驃騎兵</a>(<a href="/civs/Magyars">馬札爾</a>限定)</li>
+                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><nuxt-link to="/units/Magyar_Huszar">精銳馬札爾驃騎兵</nuxt-link>(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><a href="/units/Mangudai">精銳蒙古突騎</a>(<a href="/civs/Mongols">蒙古</a>限定)</li>
+                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link>(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>(<a href="/civs/Magyars">馬札爾</a>限定)</li>
+                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="/units/Eagle_Scout">鷹斥侯</a>→
+                      <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
                       <img class="gg" src="~assets/EagleWarriorIcon.jpg"
-                      alt=""><a href="/units/Eagle_Warrior">鷹勇士</a> 
+                      alt=""><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><a href="/units/Mangudai">蒙古突騎</a>(<a href="/civs/Mongols">蒙古</a>限定)</li>
+                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)</li>
                   </ul>
                 </div>
               </div>
@@ -179,41 +177,41 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Aztecs">阿茲特克</a>：裝甲衝撞車訓練速度快15%。</li>
-              <li><a href="/civs/Celts">賽爾特</a>：裝甲衝撞車攻擊速度快20%</li>
-              <li><a href="/civs/Chinese">中國</a>：對裝甲衝撞車有利的科技在帝王時代便宜20%。</li>
-              <li><a href="/civs/Portuguese">葡萄牙</a>：裝甲衝撞車黃金花費減少15%。</li>
-              <li><a href="/civs/Slavs">斯拉夫</a>：裝甲衝撞車成本減少15%。</li>
+              <li><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：裝甲衝撞車訓練速度快15%。</li>
+              <li><nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：裝甲衝撞車攻擊速度快20%</li>
+              <li><nuxt-link to="/civs/Chinese">中國</nuxt-link>：對裝甲衝撞車有利的科技在帝王時代便宜20%。</li>
+              <li><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：裝甲衝撞車黃金花費減少15%。</li>
+              <li><nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：裝甲衝撞車成本減少15%。</li>
             </ul>
           </div>
            <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Celts">賽爾特</a>：攻城器製造所單位生產速度快20%。</li>
-              <li><a href="/civs/Malians">馬利</a>：研發<a href="/techs/Siege_Engineers">攻城工程師</a>的速度快80%。</li>
-              <li><a href="/civs/Celts">條頓</a>：其軍事單位對僧侶的招降有較好的抗性。</li>
+              <li><nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：攻城器製造所單位生產速度快20%。</li>
+              <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>的速度快80%。</li>
+              <li><nuxt-link to="/civs/Celts">條頓</nuxt-link>：其軍事單位對僧侶的招降有較好的抗性。</li>
             </ul>
           </div>
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
+             <h3><em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em></h3>
             <ul>
-              <li>升級到<a href="/units/Siege_Ram">重型衝撞車</a>成本為1000F/800G。</li>
+              <li>升級到<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>成本為1000F/800G。</li>
             </ul>
-             <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
+             <h3><em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em></h3>
             <ul>
               <li>步兵、弓兵可以駐紮在衝撞車裡面。</li>
-              <li>升級到<a href="/units/Siege_Ram">重型衝撞車</a>為1000F。</li>
-              <li><a href="/civs/Celts">賽爾特</a>:<a href="/techs/Furor_Celtica">賽爾特狂暴</a>給予衝撞車多50%的HP。</li>
-              <li>蒙古：<a href="/techs/Drill">演習</a>引進。</li>
+              <li>升級到<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>為1000F。</li>
+              <li><nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link>給予衝撞車多50%的HP。</li>
+              <li>蒙古：<nuxt-link to="/techs/Drill">演習</nuxt-link>引進。</li>
             </ul>
-             <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
+             <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
               <li>現在村民可以駐紮在衝撞車裡面。</li>
-              <li><a href="/civs/Celts">賽爾特</a>:<a href="/techs/Furor_Celtica">賽爾特狂暴</a>衝撞車多40%的HP。</li>
-              <li><a href="/civs/Teutons">條頓</a>新科技：<a href="/techs/Ironclad">鋼鐵甲</a>
+              <li><nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link>衝撞車多40%的HP。</li>
+              <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>新科技：<nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link>
               </li>
             </ul>
           </div>
@@ -222,9 +220,8 @@
           <div class="n1">
             <ul>
               <li>駐紮單位：世紀帝國二初期，衝撞車是沒辦法被駐紮的，到了征服者入侵位資料片之後，衝撞車才可以駐軍(步兵、徒步弓兵，不包含村民，僧侶、國王、炸藥桶)，而到了失落的帝國才能讓村民駐軍衝撞車。另外有國外的網友在實驗衝撞車單位時，發現了一有趣的現象，長弓兵駐軍的衝撞車會跟馬路三寶或酒罪人士一樣，不斷的失控去卡別台衝撞車。(
-                <a
-                href="/https://www.youtube.com/watch?v=aPK2RnpEgPA">見實驗影片</a>)。</li>
-              <li><a href="#">移動速度</a>：步兵駐軍後的衝撞車移動速度比弓兵駐軍的衝撞車快，簡單來說，只有步兵駐軍才能堤升衝撞車的移動速度，且任何種類的步兵駐紮衝撞車後的速度都是一樣的。</li>
+                <a href="https://www.youtube.com/watch?v=aPK2RnpEgPA">見實驗影片</a>)。</li>
+              <li><nuxt-link to="#">移動速度</nuxt-link>：步兵駐軍後的衝撞車移動速度比弓兵駐軍的衝撞車快，簡單來說，只有步兵駐軍才能堤升衝撞車的移動速度，且任何種類的步兵駐紮衝撞車後的速度都是一樣的。</li>
               <li>攻擊2，是陸上最弱的攻擊。</li>
               <li>防禦-3，是所有單位近防最低的。</li>
             </ul>
@@ -233,15 +230,15 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="/img/Splashdamageram.png"><img class="imgn hg" src="~assets/Splashdamageram.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Splashdamageram.png"><img class="imgn hg" src="~assets/Splashdamageram.png" alt=""></nuxt-link> 
                 <p><em>各類型衝撞車與其傷害。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="/img/Cappedram.png"><img class="imgn hg" src="~assets/Cappedram.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Cappedram.png"><img class="imgn hg" src="~assets/Cappedram.png" alt=""></nuxt-link> 
                 <p><em>一群裝甲衝撞車。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="/img/Ramline.png"><img class="imgn hg" src="~assets/Ramline.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Ramline.png"><img class="imgn hg" src="~assets/Ramline.png" alt=""></nuxt-link> 
                 <p><em>衝撞車系。</em>
                 </p>
               </div>
@@ -276,7 +273,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="/units/Siege_Weapons">攻城器</a>
+              <td class="unit4"><nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -286,13 +283,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="/techsage/Imperial_Age">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Siege-workshop-logo.jpg" alt=""><a href="/building/Siege_Workshop">攻城器製造所</a>
+                <img class="gg" src="~assets/Siege-workshop-logo.jpg" alt=""><nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -327,8 +324,8 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">+150 vs <a href="/Armor_Class_standard_building.php">一般建築物</a>(每1個步兵進駐攻擊+10，最多+40)
-                <br/>+50 vs <a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a> 
+              <td class="unit4">+150 vs <nuxt-link to="/Armor_Class_standard_building.php">一般建築物</nuxt-link>(每1個步兵進駐攻擊+10，最多+40)
+                <br/>+50 vs <nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link> 
             </tr>
             <tr>
               <td class="unit3">傷害半徑</td>
@@ -339,7 +336,7 @@
               <td class="unit4">5</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="/Armor_Class.php">近防</a>
+              <td class="unit3"><nuxt-link to="/Armor_Class.php">近防</nuxt-link>
               </td>
               <td class="unit4">-3</td>
             </tr>
@@ -348,10 +345,10 @@
               <td class="unit4">190</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="/Armor_Class.php">防禦類型</a>
+              <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
               </td>
-              <td class="unit4"><a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a>
-                <br/> <a href="/armor/Armor_Class_Ram">衝撞車</a>(+1)</td>
+              <td class="unit4"><nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link>
+                <br/> <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>(+1)</td>
             </tr>
             <tr>
               <td class="unit3">駐軍數量</td>
@@ -373,13 +370,13 @@
             <tr>
               <td class="unit3">從升級</td>
               <td class="unit4">
-                <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""><a href="/units/Battering_Ram">輕型衝撞車</a>
+                <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img class="gg" src="~assets/SiegeRamIcon.jpg" alt=""><a href="/units/Siege_Ram">重型衝撞車</a>
+                <img class="gg" src="~assets/SiegeRamIcon.jpg" alt=""><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>
               </td>
             </tr>
             <tr>

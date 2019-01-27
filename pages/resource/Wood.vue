@@ -36,38 +36,64 @@
         <div class="n1">
           <p>可加速收集石礦速度的科技:</p>
           <ul>
-            <li><a href="/techs/Double-Bit_Axe">雙刃斧</a></li>
-            <li><a href="/techs/Bow_Saw">弓鋸</a></li>
-            <li><a href="/techs/Two-Man_Saw">雙人鋸</a></li>
+            <li><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link></li>
+            <li><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link></li>
+            <li><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link></li>
           </ul>
         </div>
         <h3>相關文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Aztecs">阿茲特克</a>:村民資源攜帶量+5。</li>
-            <li><a href="/civs/Aztecs">賽爾特</a>:村民伐木速度快15%。</li>
-            <li><a href="/civs/Franks">條頓</a>:農田成本便宜33%。</li>
-            <li><a href="/civs/Incas">維京</a>:碼頭成本減少15%。(團隊加成)</li>
-            <li><a href="/civs/Koreans">波斯</a>:遊戲一開始多50木材。</li>
-            <li><a href="/civs/Mayans">薩拉森</a>:市場建造只要100木材。</li>
             <li>
-              <a href="/civs/Mayans">日本</a
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >:村民資源攜帶量+5。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Aztecs">賽爾特</nuxt-link
+              >:村民伐木速度快15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">條頓</nuxt-link>:農田成本便宜33%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Incas">維京</nuxt-link
+              >:碼頭成本減少15%。(團隊加成)
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">波斯</nuxt-link
+              >:遊戲一開始多50木材。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">薩拉森</nuxt-link
+              >:市場建造只要100木材。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">日本</nuxt-link
               >:伐木場、採礦營地、磨坊建造成本減少50%。
             </li>
-            <li><a href="/civs/Franks">馬來</a>:漁網成本便宜33%。</li>
-            <li><a href="/civs/Franks">緬甸</a>:伐木場科技免費研發。</li>
-            <li><a href="/civs/Mayans">馬雅</a>:自然資源存量+15%。</li>
-            <li><a href="/civs/Franks">馬利</a>:建築成本便宜15%。(農田除外)</li>
+            <li>
+              <nuxt-link to="/civs/Franks">馬來</nuxt-link>:漁網成本便宜33%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">緬甸</nuxt-link>:伐木場科技免費研發。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:自然資源存量+15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">馬利</nuxt-link
+              >:建築成本便宜15%。(農田除外)
+            </li>
           </ul>
         </div>
         <h3>參見</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/resource/Food">食物</a></li>
-            <li><a href="/resource/Wood">木材</a></li>
-            <li><a href="/resource/Gold">黃金</a></li>
+            <li><nuxt-link to="/resource/Food">食物</nuxt-link></li>
+            <li><nuxt-link to="/resource/Wood">木材</nuxt-link></li>
+            <li><nuxt-link to="/resource/Gold">黃金</nuxt-link></li>
           </ul>
         </div>
       </div>

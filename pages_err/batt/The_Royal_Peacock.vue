@@ -132,7 +132,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">百鳥朝鳳</a>
+                <div class="unititle"><nuxt-link to="#">百鳥朝鳳</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -145,7 +145,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -159,11 +159,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="#">緬甸人</a>
+              <td class="unit4"><nuxt-link to="#">緬甸人</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="#">戰役關卡編號</a>
+              <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>
@@ -173,12 +173,12 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/batt/The_Mandalay_Cobra">猛蛇出洞</a>
+              <td class="unit4"> <nuxt-link to="/batt/The_Mandalay_Cobra">猛蛇出洞</nuxt-link>
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/The_White_Elephant">白象化身</a> 
+              <td class="unit4"> <nuxt-link to="/batt/The_White_Elephant">白象化身</nuxt-link> 
               </td>
             </tr>
           </table>

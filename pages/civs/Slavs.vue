@@ -63,7 +63,7 @@
         <div class="n1">
           <ul>
             <li>農民工作效率提升15%</li>
-            <li><a href="/techs/Tracking"></a>追蹤技術免費</li>
+            <li><nuxt-link to="/techs/Tracking"></nuxt-link>追蹤技術免費</li>
             <li>攻城器製造所單位便宜15%</li>
             <li><strong>團隊加分</strong>:軍事建築提供+5人口</li>
           </ul>
@@ -71,20 +71,20 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/sla">斯拉夫科技樹</a></em>
+          <em><nuxt-link to="/tree/sla">斯拉夫科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>種田效率增加為1.31而不是1.18。實際種田效率現在正確為+15％</li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>貴族鐵騎的速度從1.35增加到1.4。</li>
@@ -106,9 +106,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Slavs_Preview.jpg"
+              <nuxt-link to="/img/Slavs_Preview.jpg"
                 ><img class="imgn hg" src="~assets/Slavs_Preview.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>宣傳圖</em></p>
             </div>
           </div>

@@ -43,27 +43,33 @@
           <p>特殊單位</p>
           <ul>
             <li>
-              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><a
-                href="/units/Arambai"
-                >飛鏢騎兵</a
+              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+                to="/units/Arambai"
+                >飛鏢騎兵</nuxt-link
               >:緬甸的特殊單位，能夠在城堡時代的城堡中訓練。飛鏢騎兵是馬弓騎兵部隊破壞力極高但命中低，對衝撞車系列有加成傷害。
             </li>
             <li>
-              <img class="gg" src="~assets/Ballistaelephanticon.png" alt="" /><a
-                href="/Ballista_unitsanimal/Elephant"
-                >弩砲象</a
+              <img
+                class="gg"
+                src="~assets/Ballistaelephanticon.png"
+                alt=""
+              /><nuxt-link to="/Ballista_unitsanimal/Elephant">弩砲象</nuxt-link
               >:高棉的特殊單位，能夠在城堡時代的城堡中訓練。弩砲象這是一種混合型單位是由騎兵加攻城武器混合型單位，攻擊模式類似弩砲，弩砲象是可以伐木的。
             </li>
             <li>
-              <img class="gg" src="~assets/Karambitwarrioricon.png" alt="" /><a
-                href="/units/Karambit_Warrior"
-                >爪刀勇士</a
+              <img
+                class="gg"
+                src="~assets/Karambitwarrioricon.png"
+                alt=""
+              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
               >:為馬來的特殊單位。是遊戲裡只佔半個人口的的單位，便宜/快速的單位，缺點是過於脆弱。
             </li>
             <li>
-              <img class="gg" src="~assets/Rattanarchericon.png" alt="" /><a
-                href="/Rattan_units/Archer"
-                >藤甲弓兵</a
+              <img
+                class="gg"
+                src="~assets/Rattanarchericon.png"
+                alt=""
+              /><nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link
               >:越南的特殊單位，是個有非常高遠程護甲的弓兵。
             </li>
             <li>
@@ -71,7 +77,7 @@
                 class="gg"
                 src="~assets/Imperialskirmishericon.png"
                 alt=""
-              /><a href="/units/Imperial_Skirmisher">帝王戰茅兵</a
+              /><nuxt-link to="/units/Imperial_Skirmisher">帝王戰茅兵</nuxt-link
               >:帝王戰矛兵是越南第二個特殊單位，可以在射箭場訓練，是戰矛兵的升級，是一個反弓箭手的遠程單位。
             </li>
           </ul>
@@ -79,33 +85,36 @@
         <p>一般單位</p>
         <ul>
           <li>
-            <img class="gg" src="~assets/Battleelephanticon.png" alt="" /><a
-              href="/units/Battle_Elephant"
-              >茅象伕</a
+            <img
+              class="gg"
+              src="~assets/Battleelephanticon.png"
+              alt=""
+            /><nuxt-link to="/units/Battle_Elephant">茅象伕</nuxt-link
             >:東南亞特殊單位，城堡時代兵種，可訓練於馬廄，與波斯戰像相似但攻擊範圍較小，他們移動緩慢容易受到範圍傷害的單位攻擊，也容易被僧侶招降。
           </li>
         </ul>
         <p>建築</p>
         <ul>
           <li>
-            <img width="25px" src="~assets/Dockicon.png" alt="" /><a href="#"
-              >海港</a
+            <img width="25px" src="~assets/Dockicon.png" alt="" /><nuxt-link
+              to="#"
+              >海港</nuxt-link
             >:馬來人進入城堡時代研發完科技"海上霸主"可以建造的特殊軍事經濟復合式建築物。海港比碼頭有更多的生命值和視野，而且能以箭矢攻擊來犯的敵方單位。
           </li>
         </ul>
         <h3>戰役</h3>
         <ul>
-          <li><a href="/batt/Gajah_Madaa">加查·馬達</a></li>
+          <li><nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link></li>
           <li>
-            <a href="/units/hero/Suryavarman_I">蘇利耶跋摩一世</a
+            <nuxt-link to="/units/hero/Suryavarman_I">蘇利耶跋摩一世</nuxt-link
             >:西元十一世紀初，高棉王國四分五裂、強敵環伺。只有蘇利耶跋摩王子有能力與魄力一一打敗各路勁敵光復高棉。然而打江山易，守江山難。蘇利耶跋摩能否擴大基業，吞併強鄰。開創屬於自己的千秋霸業呢？
           </li>
           <li>
-            <a href="/batt/Bayinnaunga">勃印曩</a
+            <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link
             >:曾經有一位拉闍想把四分五裂的國家重新統一起來，但由於有內奸背叛，他未竟的使命要由他最忠誠的侍衛來完成。有沒有可能，讓一位將領繼承王位，並建立起東南亞歷史上最大的國家？
           </li>
           <li>
-            <a href="/Le_Loi.php">黎利</a
+            <nuxt-link to="/Le_Loi.php">黎利</nuxt-link
             >:當大越陷於內亂紛爭之際，明朝趁虛而入佔據了整片地區。而今，想要重獲獨立自由，就要依靠一個人
             －
             一位名叫黎利的有志貴族青年。他能否平息內鬥，抵抗明朝大軍並帶領大越再次獨立？
@@ -116,7 +125,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#356a98">
-              <div class="unititle"><a href="#">世紀帝國II：王者崛起</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">世紀帝國II：王者崛起</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>

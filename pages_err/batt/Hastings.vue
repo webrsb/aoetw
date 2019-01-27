@@ -131,7 +131,7 @@
             <h3>征服者威廉(1028-1087) </h3>
             <div class="hrn1"></div>
             <ul>
-              <li> <a>隨著諾曼地公國在威廉的治理下勢力漸強，法王的猜疑也漸深。這導致了威廉開始尋求新的發展區域。所以他決定侵入英格蘭。 由於當時盎格魯英格蘭的君王無後，所以具有繼承權的是諾曼地的威廉以及威塞克斯的哈羅德，威廉則聲稱哈羅德早已放棄，故在哈羅德即位後率大軍渡過海峽。而威廉在黑斯汀斯取得決定性勝利，成為英格蘭國王，是為諾曼王朝。英格蘭重新與歐洲大陸開始接觸，受到中世紀的文化洗禮。</a>
+              <li> <a>隨著諾曼地公國在威廉的治理下勢力漸強，法王的猜疑也漸深。這導致了威廉開始尋求新的發展區域。所以他決定侵入英格蘭。 由於當時盎格魯英格蘭的君王無後，所以具有繼承權的是諾曼地的威廉以及威塞克斯的哈羅德，威廉則聲稱哈羅德早已放棄，故在哈羅德即位後率大軍渡過海峽。而威廉在黑斯汀斯取得決定性勝利，成為英格蘭國王，是為諾曼王朝。英格蘭重新與歐洲大陸開始接觸，受到中世紀的文化洗禮。</nuxt-link>
               </li>
             </ul>
           </div>
@@ -140,7 +140,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#"> 哈斯汀斯(1066)赫斯廷斯</a>
+                <div class="unititle"><nuxt-link to="#"> 哈斯汀斯(1066)赫斯廷斯</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -153,7 +153,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -167,12 +167,12 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Japanese">法蘭克</a>
+              <td class="unit4"><nuxt-link to="/civs/Japanese">法蘭克</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">戰役關卡編號</a>
+                <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
                 </div>
               </td>
             </tr>

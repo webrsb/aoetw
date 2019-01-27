@@ -11,12 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            霸權是<a href="/civs/Spanish">西班牙</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後給<a
-              href="/units/Villager"
-              >村民</a
+            霸權是<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後給<nuxt-link to="/units/Villager">村民</nuxt-link
             >+6攻擊、護甲+2/+2、HP+40。
           </p>
         </div>
@@ -25,10 +25,10 @@
         <div class="n1">
           <ul>
             <li>
-              霸權不僅提高村民生命值，也給攻擊和護甲，讓他們能防衛<a
-                href="/units/Infantry_Units"
-              ></a
-              >步兵和<a href="/units/Light_Cavalry">輕騎兵</a
+              霸權不僅提高村民生命值，也給攻擊和護甲，讓他們能防衛<nuxt-link
+                to="/units/Infantry_Units"
+              ></nuxt-link
+              >步兵和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >的攻擊，也讓他們在前線修復或建造城堡、箭塔和城牆時能存活得更久。
             </li>
             <li>
@@ -38,11 +38,12 @@
               在帝王時代早期，用村民作戰的優勢在於它立即提供了一支龐大的軍隊。但是，這會削弱玩家的經濟，所以他們應該衡量是否冒著失去很多村民的風險做進攻。無論如何，在帝王時代末期，村民們再也不能和敵方軍隊抗衡了。
             </li>
             <li>
-              霸權通常被用來對付僧侶，主要是因為村民有足夠的力量殺死僧侶，而招降村民的舉動實際上跟招降<a
-                href="/units/Conquistador"
-                >征服者</a
+              霸權通常被用來對付僧侶，主要是因為村民有足夠的力量殺死僧侶，而招降村民的舉動實際上跟招降<nuxt-link
+                to="/units/Conquistador"
+                >征服者</nuxt-link
               >和
-              <a href="/units/Paladin">遊俠</a>等貴重單位比起來沒有什麼價值。
+              <nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >等貴重單位比起來沒有什麼價值。
             </li>
             <li>
               霸權也與西班牙文明加成+
@@ -55,8 +56,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速霸權的研究時間(快25%)。
             </li>
           </ul>
@@ -73,7 +75,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">霸權</a></div>
+              <div class="unititle"><nuxt-link to="#">霸權</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -85,12 +87,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Spanish">西班牙</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -99,15 +105,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -117,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -130,7 +136,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

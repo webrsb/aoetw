@@ -11,8 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            採金技術是<a href="/techsage/Feudal_Age">封建時代</a
-            ><a href="/building/Mining_Camp">採礦營地</a
+            採金技術是<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            ><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
             >的科技，研發後可使村民收集金礦的速度增快15%。
           </p>
         </div>
@@ -21,10 +21,12 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >:科技在封建/城堡/帝王時代各便宜10%/15%/20%。
             </li>
-            <li><a href="/civs/Malians">馬利</a>:採金技術免費。</li>
+            <li>
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>:採金技術免費。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -39,7 +41,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">採金技術</a></div>
+              <div class="unititle"><nuxt-link to="#">採金技術</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -51,7 +53,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -61,28 +65,31 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="/techsage/Feudal_Age"
-                >封建時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Feudal-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Miningcampicon.png" alt="" /><a
-                href="/building/Mining_Camp"
-                >採礦營地</a
-              >
+              <img
+                class="gg"
+                src="~assets/Miningcampicon.png"
+                alt=""
+              /><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Goldshaftmining.jpg" alt="" /><a
-                href="/techs/Gold_Shaft_Mining"
-                >礦井採金</a
-              >
+              <img
+                class="gg"
+                src="~assets/Goldshaftmining.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -91,7 +98,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -104,7 +111,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

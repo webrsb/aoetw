@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            傾側維修術於<a href="/techsage/Castle_Age">城堡時代</a>在<a
-              href="/building/Dock"
-              >碼頭</a
+            傾側維修術於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >研發。研發後船隻遠程裝甲+1，運輸船運輸量+5(總共可載10個單位)。
-            <a href="/Dry_building/Dock">旱碼頭</a>是更進一步的科技。
+            <nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link
+            >是更進一步的科技。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -23,12 +23,15 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：傾側維修術在城堡/帝王時代成本便宜15%/20%。
             </li>
-            <li><a href="/civs/Italians">義大利</a>：傾側維修術便宜50%。</li>
             <li>
-              <a href="/civs/Persians">波斯</a
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >：傾側維修術便宜50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：傾側維修術在城堡/帝王時代研究速度快15%/20%。
             </li>
           </ul>
@@ -45,7 +48,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">傾側維修術</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">傾側維修術</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -57,7 +62,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -67,27 +74,28 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Dockicon.png" alt="" /><a
-                href="/building/Dock"
-                >碼頭</a
+              <img class="gg" src="~assets/Dockicon.png" alt="" /><nuxt-link
+                to="/building/Dock"
+                >碼頭</nuxt-link
               >
             </td>
           </tr>
           <tr>
             <td class="unit3">可升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Drydock.jpg" alt="" /><a
-                href="/Dry_building/Dock"
-                >旱碼頭</a
+              <img class="gg" src="~assets/Drydock.jpg" alt="" /><nuxt-link
+                to="/Dry_building/Dock"
+                >旱碼頭</nuxt-link
               >
             </td>
           </tr>
@@ -97,7 +105,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -110,7 +118,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

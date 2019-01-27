@@ -120,7 +120,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="/Quelling_the_Rebellion">猛蛇出洞</a>
+                <div class="unititle"><nuxt-link to="/Quelling_the_Rebellion">猛蛇出洞</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -133,7 +133,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -147,11 +147,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="#">高棉人</a>
+              <td class="unit4"><nuxt-link to="#">高棉人</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="/Quelling_the_Rebellion">戰役關卡編號</a>
+              <div class="unititle2"><nuxt-link to="/Quelling_the_Rebellion">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>
@@ -161,12 +161,12 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/Usurpation">揭竿而起</a>
+              <td class="unit4"> <nuxt-link to="/Usurpation">揭竿而起</nuxt-link>
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/A_Dangerous_Mission">九死一生</a>
+              <td class="unit4"> <nuxt-link to="/batt/A_Dangerous_Mission">九死一生</nuxt-link>
                 </p>
               </td>
             </tr>

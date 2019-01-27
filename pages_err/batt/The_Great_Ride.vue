@@ -58,21 +58,21 @@
                 ">  <ul>    <li>阿提拉的匈奴人 (黃色) 以幾個騎兵入侵東羅馬帝國，但沒有帶同任何的村民。他們預料只會受到來自這裡村落的抵抗。不料，羅馬軍隊 (藍色) 的駐防陣地就在東面。</li><li>在你有充份的準備之前，不要輕易對它發動攻擊。其他的村莊可能有食物、木材、黃金、石頭、村民，或軍隊，你可利用這些資源來對抗羅馬。</li></ul><h2>芝麻小事</h2><div class="hrn1 "></div><div class="n1
                 "> <ul><li>任務的第一部分就是單純的騎馬：用韃靼騎兵燒毀索非亞的市鎮中心之前，建議先用馬騎弓兵把大部分的村民殺光。接下來，策馬前往Naissus，把對付索非亞的擄掠故技重施。</li><li>地圖的西南方是第爾哈群，他們有五個長槍兵，還有一架投石車在木牆內。摧毀一部分的木牆引出投石車、用韃靼騎兵殲滅之，運用你的馬騎弓兵去對付那些長槍兵。之後，小心翼翼地用馬騎弓兵在石牆周遭逡巡，直到你可以看到城堡。</li><li>如果控制得宜，馬騎弓兵不會被城堡射傷，還可以讓韃靼騎兵有機會接近城堡下方。不過這僅適用於是在標準、簡單兩個難度，由於電腦沒有研發城垛射孔，韃靼騎兵只要花點時間就能無損地摧毀城堡，而玩家也可以小憩片刻。</li><li>當城堡終於被摧毀後，帶領你的人前往南方的底斯索隆尼卡，並讓他們在城市邊緣停下來。在這裡會建議小心控制單位，因為對方那些即將投降的村民很可能會死於你勇猛的騎兵之下。</li><li>獲得村民後，加上你在前幾個村莊所得到的資源，你很快地可以建立一個基地。雖然羅馬人也在建設他們的基地、訓練他們的軍隊，不過並不如玩家快速、也沒有玩家聰明。所以玩家可以後來居上，樂勝羅馬人。派遣你現有的單位進入亞得里亞堡屠殺那裡的礦工，你就能得到財富。</li><li>當你訓練好一批數量足夠的騎士與馬騎弓兵時，就朝西羅馬帝國進軍。在城門周遭建立你的城堡，讓它漸漸削弱對方的防禦，你也可以用騎士吸引對方的軍隊。最後，你便能輕鬆地攻下西羅馬帝國的要塞。</li></ul></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="/
-                ">偉大的騎士</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Attila.2.jpg " width="
+                ">       <div class="unititle "><nuxt-link to="/
+                ">偉大的騎士</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Attila.2.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><nuxt-link to="/ ">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">征服者入侵</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">阿提拉</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href="/ ">匈奴人</a></td>      </tr>
+                ">文明</td>       <td class="unit4 "><nuxt-link to="/ ">匈奴人</nuxt-link></td>      </tr>
 <tr><td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/
-                ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
-                ">征服者第一章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="/batt/Scourge_of_God
-                ">上帝之鞭</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/batt/Walls_of_Constantinople
-                ">君士坦丁堡的城牆</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，竺叡協助編輯     </div> <div class="row
+                "><nuxt-link to="/
+                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
+                ">征服者第一章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <nuxt-link to="/batt/Scourge_of_God
+                ">上帝之鞭</nuxt-link>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <nuxt-link to="/batt/Walls_of_Constantinople
+                ">君士坦丁堡的城牆</nuxt-link>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，竺叡協助編輯     </div> <div class="row
                 ">  <div class="col-md-12
                 ">  </div></div>      </div>    
         

@@ -10,11 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><strong>哥德人狄奧多利克</strong>是《世紀帝國II》中的一名<a href="/units/Infantry_Units">步兵</a>
-              <a
-              href="/units/hero">英雄</a>，只能在地圖編輯器中使用。實際上他在<a href="/batt/All_Roads_Lead_to_a_Besieged_City">條條大路通圍城</a>和
-                <a
-                href="/Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</a>這兩關中出現，不過名稱被改為<a href="/batt/Alarica">阿拉里克</a>。</p>
+            <p><strong>哥德人狄奧多利克</strong>是《世紀帝國II》中的一名<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+              <nuxt-link to="/units/hero">英雄</nuxt-link>，只能在地圖編輯器中使用。實際上他在<nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City">條條大路通圍城</nuxt-link>和
+                <nuxt-link to="/Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</nuxt-link>這兩關中出現，不過名稱被改為<nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>。</p>
             <p>他在遊戲中使用哥德衛隊的外型。作為一個英雄單位，他無法被招降且會自動回血(征服者入侵資料片以後)。</p>
           </div>
         </div>
@@ -22,7 +20,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="#">哥德人狄奧多利克</a>
+                <div class="unititle"><nuxt-link to="#">哥德人狄奧多利克</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -40,7 +38,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="/units/Infantry_Units">步兵</a></td>
+              <td class="unit4"><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -61,8 +59,8 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="/armor/Armor_Class_Archer">射手</a> +3
-                <br/>對<a href="/armor/Armor_Class_Building">建築</a> +2</td>
+              <td class="unit4">對<nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> +3
+                <br/>對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link> +2</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -81,8 +79,8 @@
                   </tr>
                   <tr>
                     <td class="unit3">防禦類型</td>
-                    <td class="unit4"><a href="/armor/Armor_Class_Infantry">步兵</a>
-                      <br/><a href="/armor/Armor_Class_Unique_Unit">特殊單位</a></td>
+                    <td class="unit4"><nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+                      <br/><nuxt-link to="/armor/Armor_Class_Unique_Unit">特殊單位</nuxt-link></td>
                   </tr>
                   <tr>
                     <td class="unit3">跑速</td>

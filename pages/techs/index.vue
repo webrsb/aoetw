@@ -10,13 +10,15 @@
           S=石頭
         </p>
         <p>
-          各國特殊科技銀冠、金冠請見:<a href="/techs/untech">特殊科技總攬</a>
+          各國特殊科技銀冠、金冠請見:<nuxt-link to="/techs/untech"
+            >特殊科技總攬</nuxt-link
+          >
         </p>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
-        <h3><a href="/building/Barracks">軍營</a></h3>
+        <h3><nuxt-link to="/building/Barracks">軍營</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -27,9 +29,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Tracking.jpg" alt="" /><a
-                href="/techs/Tracking"
-                >追縱技術</a
+              <img class="gg" src="~assets/Tracking.jpg" alt="" /><nuxt-link
+                to="/techs/Tracking"
+                >追縱技術</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -38,9 +40,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Squires.jpg" alt="" /><a
-                href="/techs/Squires"
-                >護衛</a
+              <img class="gg" src="~assets/Squires.jpg" alt="" /><nuxt-link
+                to="/techs/Squires"
+                >護衛</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -49,22 +51,22 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Arson.jpg" alt="" /><a
-                href="/techs/Arson"
-                >縱火</a
+              <img class="gg" src="~assets/Arson.jpg" alt="" /><nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">150F 50G</td>
             <td class="tunitc6">
-              步兵+2攻擊vs<a href="/Armor_Class_standard_building.php"
-                >標準建築</a
+              步兵+2攻擊vs<nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
               >
             </td>
           </tr>
         </table>
 
-        <h3><a href="/building/Archery_Range">射箭場</a></h3>
+        <h3><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -75,9 +77,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Thumb_Ring.png" alt="" /><a
-                href="/techs/Thumb_Ring"
-                >拇指環</a
+              <img class="gg" src="~assets/Thumb_Ring.png" alt="" /><nuxt-link
+                to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -88,20 +90,23 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Parthian-Tactics.jpg" alt="" /><a
-                href="/techs/Parthian_Tactics"
-                >帕提亞戰術</a
-              >
+              <img
+                class="gg"
+                src="~assets/Parthian-Tactics.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">200F 250G</td>
             <td class="tunitc6">
-              馬騎弓兵護甲+1/+2，對<a href="/units/Pikeman">長槍兵</a>攻擊+4。
+              馬騎弓兵護甲+1/+2，對<nuxt-link to="/units/Pikeman"
+                >長槍兵</nuxt-link
+              >攻擊+4。
             </td>
           </tr>
         </table>
 
-        <h3><a href="/building/Stable">馬廄</a></h3>
+        <h3><nuxt-link to="/building/Stable">馬廄</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -112,9 +117,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Bloodlines.png" alt="" /><a
-                href="/techs/Bloodlines"
-                >品種</a
+              <img class="gg" src="~assets/Bloodlines.png" alt="" /><nuxt-link
+                to="/techs/Bloodlines"
+                >品種</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -123,9 +128,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Husbandry.jpg" alt="" /><a
-                href="/techs/Husbandry"
-                >畜牧培育</a
+              <img class="gg" src="~assets/Husbandry.jpg" alt="" /><nuxt-link
+                to="/techs/Husbandry"
+                >畜牧培育</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -134,7 +139,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Town_Center">城鎮中心</a></h3>
+        <h3><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -145,9 +150,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Loom.jpg" alt="" /><a
-                href="/techs/Loom"
-                >織布技術</a
+              <img class="gg" src="~assets/Loom.jpg" alt="" /><nuxt-link
+                to="/techs/Loom"
+                >織布技術</nuxt-link
               >
             </td>
             <td class="tunitc4">黑暗</td>
@@ -156,9 +161,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Wheelbarrow.jpg" alt="" /><a
-                href="/techs/Wheelbarrow"
-                >獨輪推車</a
+              <img class="gg" src="~assets/Wheelbarrow.jpg" alt="" /><nuxt-link
+                to="/techs/Wheelbarrow"
+                >獨輪推車</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -167,9 +172,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Handcart.jpg" alt="" /><a
-                href="/Hand_Cart.php"
-                >手推車</a
+              <img class="gg" src="~assets/Handcart.jpg" alt="" /><nuxt-link
+                to="/Hand_Cart.php"
+                >手推車</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -178,9 +183,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Townwatch.jpg" alt="" /><a
-                href="/techs/Town_Watch"
-                >城鎮暸望</a
+              <img class="gg" src="~assets/Townwatch.jpg" alt="" /><nuxt-link
+                to="/techs/Town_Watch"
+                >城鎮暸望</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -189,9 +194,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Townpatrol.jpg" alt="" /><a
-                href="/techs/Town_Patrol"
-                >城鎮巡邏</a
+              <img class="gg" src="~assets/Townpatrol.jpg" alt="" /><nuxt-link
+                to="/techs/Town_Patrol"
+                >城鎮巡邏</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -200,7 +205,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Monastery">修道院</a></h3>
+        <h3><nuxt-link to="/building/Monastery">修道院</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -211,9 +216,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Redemption.jpg" alt="" /><a
-                href="/techs/Redemption"
-                >信仰救贖</a
+              <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
+                to="/techs/Redemption"
+                >信仰救贖</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -222,9 +227,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Atonement.jpg" alt="" /><a
-                href="/techs/Atonement"
-                >贖罪</a
+              <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
+                to="/techs/Atonement"
+                >贖罪</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -233,10 +238,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Herbalmedicine.png" alt="" /><a
-                href="/techs/Herbal_Medicine"
-                >草藥學</a
-              >
+              <img
+                class="gg"
+                src="~assets/Herbalmedicine.png"
+                alt=""
+              /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">350G</td>
@@ -244,9 +250,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Heresy.png" alt="" /><a
-                href="/techs/Heresy"
-                >異端邪說</a
+              <img class="gg" src="~assets/Heresy.png" alt="" /><nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -255,9 +261,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Sanctity.jpg" alt="" /><a
-                href="/techs/Sanctity"
-                >聖潔虔誠</a
+              <img class="gg" src="~assets/Sanctity.jpg" alt="" /><nuxt-link
+                to="/techs/Sanctity"
+                >聖潔虔誠</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -266,9 +272,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Fervor.jpg" alt="" /><a
-                href="/techs/Fervor"
-                >宗教狂熱</a
+              <img class="gg" src="~assets/Fervor.jpg" alt="" /><nuxt-link
+                to="/techs/Fervor"
+                >宗教狂熱</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -277,9 +283,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Faith.jpg" alt="" /><a
-                href="/techs/Faith"
-                >忠誠信仰</a
+              <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -288,9 +294,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Illumination.jpg" alt="" /><a
-                href="/techs/Illumination"
-                >啟發教化</a
+              <img class="gg" src="~assets/Illumination.jpg" alt="" /><nuxt-link
+                to="/techs/Illumination"
+                >啟發教化</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -301,10 +307,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Blockprinting.jpg" alt="" /><a
-                href="/techs/Block_Printing"
-                >雕版印刷術</a
-              >
+              <img
+                class="gg"
+                src="~assets/Blockprinting.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">200G</td>
@@ -312,9 +319,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Theocracy.png" alt="" /><a
-                href="/techs/Theocracy"
-                >神權統治</a
+              <img class="gg" src="~assets/Theocracy.png" alt="" /><nuxt-link
+                to="/techs/Theocracy"
+                >神權統治</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -325,7 +332,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Market">市集</a></h3>
+        <h3><nuxt-link to="/building/Market">市集</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -336,9 +343,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Cartography.jpg" alt="" /><a
-                href="/techs/Cartography"
-                >製圖法</a
+              <img class="gg" src="~assets/Cartography.jpg" alt="" /><nuxt-link
+                to="/techs/Cartography"
+                >製圖法</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -347,25 +354,25 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/CaravanII.png" alt="" /><a
-                href="/techs/Caravan"
-                >大商隊</a
+              <img class="gg" src="~assets/CaravanII.png" alt="" /><nuxt-link
+                to="/techs/Caravan"
+                >大商隊</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 200G</td>
             <td class="tunitc6">
-              <a href="/units/Trade_Cart">貿易馬車</a>和<a
-                href="/units/Trade_Cog"
-                >貿易商旅</a
+              <nuxt-link to="/units/Trade_Cart">貿易馬車</nuxt-link>和<nuxt-link
+                to="/units/Trade_Cog"
+                >貿易商旅</nuxt-link
               >的移動速度快50%。
             </td>
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Coinage.jpg" alt="" /><a
-                href="/techs/Coinage"
-                >鑄幣術</a
+              <img class="gg" src="~assets/Coinage.jpg" alt="" /><nuxt-link
+                to="/techs/Coinage"
+                >鑄幣術</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -374,9 +381,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Banking.jpg" alt="" /><a
-                href="/techs/Banking"
-                >銀行制度</a
+              <img class="gg" src="~assets/Banking.jpg" alt="" /><nuxt-link
+                to="/techs/Banking"
+                >銀行制度</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -385,9 +392,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Guilds.jpg" alt="" /><a
-                href="/techs/Guilds"
-                >行會制度</a
+              <img class="gg" src="~assets/Guilds.jpg" alt="" /><nuxt-link
+                to="/techs/Guilds"
+                >行會制度</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -396,7 +403,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Castle">城堡</a></h3>
+        <h3><nuxt-link to="/building/Castle">城堡</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -407,9 +414,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Spiestreason.jpg" alt="" /><a
-                href="/techs/Spies"
-                >間諜</a
+              <img class="gg" src="~assets/Spiestreason.jpg" alt="" /><nuxt-link
+                to="/techs/Spies"
+                >間諜</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -418,9 +425,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Spiestreason.jpg" alt="" /><a
-                href="/techs/Spies"
-                >叛徒</a
+              <img class="gg" src="~assets/Spiestreason.jpg" alt="" /><nuxt-link
+                to="/techs/Spies"
+                >叛徒</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -431,9 +438,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Hoardings.jpg" alt="" /><a
-                href="/techs/Hoardings"
-                >外架式柵樓</a
+              <img class="gg" src="~assets/Hoardings.jpg" alt="" /><nuxt-link
+                to="/techs/Hoardings"
+                >外架式柵樓</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -442,9 +449,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Sappers.jpg" alt="" /><a
-                href="/techs/Sappers"
-                >坑道工兵</a
+              <img class="gg" src="~assets/Sappers.jpg" alt="" /><nuxt-link
+                to="/techs/Sappers"
+                >坑道工兵</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -453,9 +460,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Conscription.jpg" alt="" /><a
-                href="/techs/Conscription"
-                >徵兵制度</a
+              <img class="gg" src="~assets/Conscription.jpg" alt="" /><nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -464,7 +471,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Dock">碼頭</a></h3>
+        <h3><nuxt-link to="/building/Dock">碼頭</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -475,9 +482,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Careening.jpg" alt="" /><a
-                href="/techs/Careening"
-                >傾側維修術</a
+              <img class="gg" src="~assets/Careening.jpg" alt="" /><nuxt-link
+                to="/techs/Careening"
+                >傾側維修術</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -486,9 +493,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Drydock.jpg" alt="" /><a
-                href="/Dry_building/Dock"
-                >旱碼頭</a
+              <img class="gg" src="~assets/Drydock.jpg" alt="" /><nuxt-link
+                to="/Dry_building/Dock"
+                >旱碼頭</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -497,9 +504,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Shipwright.jpg" alt="" /><a
-                href="/techs/Shipwright"
-                >造船匠</a
+              <img class="gg" src="~assets/Shipwright.jpg" alt="" /><nuxt-link
+                to="/techs/Shipwright"
+                >造船匠</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -508,9 +515,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Gillnetsicon.jpg" alt="" /><a
-                href="/techs/Gillnets"
-                >流刺網</a
+              <img class="gg" src="~assets/Gillnetsicon.jpg" alt="" /><nuxt-link
+                to="/techs/Gillnets"
+                >流刺網</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -519,7 +526,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/University">學院</a></h3>
+        <h3><nuxt-link to="/building/University">學院</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -530,9 +537,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Masonry.jpg" alt="" /><a
-                href="/techs/Masonry"
-                >磚瓦技術</a
+              <img class="gg" src="~assets/Masonry.jpg" alt="" /><nuxt-link
+                to="/techs/Masonry"
+                >磚瓦技術</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -541,10 +548,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Stonewallicon.png" alt="" /><a
-                href="/building/Fortified_Wall"
-                >垛牆</a
-              >
+              <img
+                class="gg"
+                src="~assets/Stonewallicon.png"
+                alt=""
+              /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 100W</td>
@@ -554,9 +562,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Ballistics.jpg" alt="" /><a
-                href="/techs/Ballistics"
-                >彈道學</a
+              <img class="gg" src="~assets/Ballistics.jpg" alt="" /><nuxt-link
+                to="/techs/Ballistics"
+                >彈道學</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -567,10 +575,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                href="/units/Guard_Tower"
-                >防禦箭塔</a
-              >
+              <img
+                class="gg"
+                src="~assets/Watchtowericon.png"
+                alt=""
+              /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">100F 250W</td>
@@ -578,9 +587,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Heatedshot.png" alt="" /><a
-                href="/techs/Heated_Shot"
-                >預熱射擊</a
+              <img class="gg" src="~assets/Heatedshot.png" alt="" /><nuxt-link
+                to="/techs/Heated_Shot"
+                >預熱射擊</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -589,9 +598,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Murderholes.jpg" alt="" /><a
-                href="/techs/Murder_Holes"
-                >垛孔</a
+              <img class="gg" src="~assets/Murderholes.jpg" alt="" /><nuxt-link
+                to="/techs/Murder_Holes"
+                >垛孔</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -600,10 +609,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Treadmillcrane.jpg" alt="" /><a
-                href="/techs/Treadmill_Crane"
-                >踏輪起重機</a
-              >
+              <img
+                class="gg"
+                src="~assets/Treadmillcrane.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">300F 200W</td>
@@ -611,9 +621,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Architecture.jpg" alt="" /><a
-                href="/techs/Architecture"
-                >建築學</a
+              <img class="gg" src="~assets/Architecture.jpg" alt="" /><nuxt-link
+                to="/techs/Architecture"
+                >建築學</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -622,9 +632,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Chemistry.jpg" alt="" /><a
-                href="/techs/Chemistry"
-                >化學</a
+              <img class="gg" src="~assets/Chemistry.jpg" alt="" /><nuxt-link
+                to="/techs/Chemistry"
+                >化學</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -635,10 +645,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                href="/techs/Siege_Engineers"
-                >攻城工程師</a
-              >
+              <img
+                class="gg"
+                src="~assets/Siegeengineers.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">500F 600W</td>
@@ -648,10 +659,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                href="/units/Keep"
-                >大型箭塔</a
-              >
+              <img
+                class="gg"
+                src="~assets/Watchtowericon.png"
+                alt=""
+              /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">500F 350W</td>
@@ -659,9 +671,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><a
-                href="/techs/Arrowslits"
-                >箭狹槽</a
+              <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><nuxt-link
+                to="/techs/Arrowslits"
+                >箭狹槽</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -674,7 +686,7 @@
                 class="gg"
                 src="~assets/Bombard-tower-research.jpg"
                 alt=""
-              /><a href="/building/Bombard_Tower">火炮塔</a>
+              /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">800F 400W</td>
@@ -682,7 +694,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Blacksmith">兵工廠</a></h3>
+        <h3><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -693,10 +705,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Paddedarcherarmor.jpg" alt="" /><a
-                href="/techs/Padded_Archer_Armor"
-                >弓兵布甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Paddedarcherarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link>
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">100F</td>
@@ -704,10 +717,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Leatherarcherarmor.jpg" alt="" /><a
-                href="/techs/Leather_Archer_Armor"
-                >弓兵皮甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Leatherarcherarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">150F 150G</td>
@@ -715,10 +729,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Ringarcherarmor.jpg" alt="" /><a
-                href="/techs/Ring_Archer_Armor"
-                >弓兵環甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Ringarcherarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">250F 250G</td>
@@ -726,9 +741,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Fletching.jpg" alt="" /><a
-                href="/techs/Fletching"
-                >箭羽</a
+              <img class="gg" src="~assets/Fletching.jpg" alt="" /><nuxt-link
+                to="/techs/Fletching"
+                >箭羽</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -739,9 +754,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Bodkinarrow.jpg" alt="" /><a
-                href="/techs/Bodkin_Arrow"
-                >錐狀箭頭</a
+              <img class="gg" src="~assets/Bodkinarrow.jpg" alt="" /><nuxt-link
+                to="/techs/Bodkin_Arrow"
+                >錐狀箭頭</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -752,9 +767,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Bracer.jpg" alt="" /><a
-                href="/techs/Bracer"
-                >護腕</a
+              <img class="gg" src="~assets/Bracer.jpg" alt="" /><nuxt-link
+                to="/techs/Bracer"
+                >護腕</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -765,9 +780,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Forging.jpg" alt="" /><a
-                href="/techs/Forging"
-                >鍛造</a
+              <img class="gg" src="~assets/Forging.jpg" alt="" /><nuxt-link
+                to="/techs/Forging"
+                >鍛造</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -776,9 +791,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><a
-                href="/techs/Iron_Casting"
-                >鑄造</a
+              <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><nuxt-link
+                to="/techs/Iron_Casting"
+                >鑄造</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -787,9 +802,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><a
-                href="/techs/Blast_Furnace"
-                >鼓風爐</a
+              <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><nuxt-link
+                to="/techs/Blast_Furnace"
+                >鼓風爐</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -798,10 +813,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Scalebardingarmor.jpg" alt="" /><a
-                href="/techs/Scale_Barding_Armor"
-                >騎兵鱗甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Scalebardingarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link>
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">150F</td>
@@ -809,10 +825,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Chainbardingarmor.jpg" alt="" /><a
-                href="/techs/Chain_Barding_Armor"
-                >騎兵鎖甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Chainbardingarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">250F 150G</td>
@@ -820,10 +837,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Platebardingarmor.jpg" alt="" /><a
-                href="/techs/Plate_Barding_Armor"
-                >騎兵板甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Platebardingarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">350F 200G</td>
@@ -831,10 +849,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Scalemailarmor.jpg" alt="" /><a
-                href="/techs/Scale_Mail_Armor"
-                >步兵鱗甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Scalemailarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link>
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">100F</td>
@@ -842,10 +861,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Chainmailarmor.jpg" alt="" /><a
-                href="/techs/Chain_Mail_Armor"
-                >步兵鎖甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Chainmailarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 100G</td>
@@ -853,10 +873,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Platemailarmor.jpg" alt="" /><a
-                href="/techs/Plate_Mail_Armor"
-                >步兵板甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Platemailarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">300F 150G</td>
@@ -864,7 +885,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Mining_Camp">採礦營地</a></h3>
+        <h3><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -875,9 +896,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Goldmining.jpg" alt="" /><a
-                href="/techs/Gold_Mining"
-                >採金技術</a
+              <img class="gg" src="~assets/Goldmining.jpg" alt="" /><nuxt-link
+                to="/techs/Gold_Mining"
+                >採金技術</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -886,9 +907,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Stonemining.jpg" alt="" /><a
-                href="/techs/Stone_Mining"
-                >採石技術</a
+              <img class="gg" src="~assets/Stonemining.jpg" alt="" /><nuxt-link
+                to="/techs/Stone_Mining"
+                >採石技術</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -897,10 +918,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Goldshaftmining.jpg" alt="" /><a
-                href="/techs/Gold_Shaft_Mining"
-                >礦井採金</a
-              >
+              <img
+                class="gg"
+                src="~assets/Goldshaftmining.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 150W</td>
@@ -908,10 +930,11 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt="" /><a
-                href="/techs/Stone_Shaft_Mining"
-                >礦井採石</a
-              >
+              <img
+                class="gg"
+                src="~assets/Stone_Shaft_Mining.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 150W</td>
@@ -919,7 +942,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Lumber_Camp">伐木場</a></h3>
+        <h3><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -930,9 +953,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Doublebitaxe.jpg" alt="" /><a
-                href="/techs/Double-Bit_Axe"
-                >雙刃斧</a
+              <img class="gg" src="~assets/Doublebitaxe.jpg" alt="" /><nuxt-link
+                to="/techs/Double-Bit_Axe"
+                >雙刃斧</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -941,9 +964,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Bowsaw.jpg" alt="" /><a
-                href="/techs/Bow_Saw"
-                >弓鋸</a
+              <img class="gg" src="~assets/Bowsaw.jpg" alt="" /><nuxt-link
+                to="/techs/Bow_Saw"
+                >弓鋸</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -952,9 +975,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Twomansaw.jpg" alt="" /><a
-                href="/techs/Two-Man_Saw"
-                >雙人鋸</a
+              <img class="gg" src="~assets/Twomansaw.jpg" alt="" /><nuxt-link
+                to="/techs/Two-Man_Saw"
+                >雙人鋸</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>
@@ -963,7 +986,7 @@
           </tr>
         </table>
 
-        <h3><a href="/building/Mill">磨坊</a></h3>
+        <h3><nuxt-link to="/building/Mill">磨坊</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -974,9 +997,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Horsecollar.jpg" alt="" /><a
-                href="/techs/Horse_Collar"
-                >馬軛</a
+              <img class="gg" src="~assets/Horsecollar.jpg" alt="" /><nuxt-link
+                to="/techs/Horse_Collar"
+                >馬軛</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -985,9 +1008,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Heavyplow.jpg" alt="" /><a
-                href="/techs/Heavy_Plow"
-                >重犁</a
+              <img class="gg" src="~assets/Heavyplow.jpg" alt="" /><nuxt-link
+                to="/techs/Heavy_Plow"
+                >重犁</nuxt-link
               >
             </td>
             <td class="tunitc4">城堡</td>
@@ -996,9 +1019,9 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Croprotation.jpg" alt="" /><a
-                href="/techs/Crop_Rotation"
-                >輪耕</a
+              <img class="gg" src="~assets/Croprotation.jpg" alt="" /><nuxt-link
+                to="/techs/Crop_Rotation"
+                >輪耕</nuxt-link
               >
             </td>
             <td class="tunitc4">帝王</td>

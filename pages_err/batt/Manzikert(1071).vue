@@ -135,7 +135,7 @@
   <li >
     <a >
      通常翻譯為曼茲科特 舊版的中文翻譯為曼奇克托。
-</a>
+</nuxt-link>
 </li>
  
 </ul>
@@ -145,7 +145,7 @@
   <li >
     <a >
 11世紀初，龐大的阿拉伯帝國開始土崩瓦解；14世紀初，土耳其奧斯曼帝國開始在小亞細亞半島崛起。在此一衰一興的兩個帝國之間，西亞曾出現一個承上啟下、對世界歷史產生過一定影響的帝國——塞爾柱土耳其帝國 。
-突厥人六世紀時崛起於漠北高原。七世紀時，突厥汗國被唐帝國征服，大批西突厥人西逃。當時，拜占廷帝國與薩刪波斯連年血戰，爭奪小亞，直殺得兩敗俱傷。後來阿拉伯帝國崛起，征服了波斯，但小亞一直在拜占廷帝國統治下，成為抵抗阿拉伯征服狂潮的堅不可摧的前沿陣地。</a>
+突厥人六世紀時崛起於漠北高原。七世紀時，突厥汗國被唐帝國征服，大批西突厥人西逃。當時，拜占廷帝國與薩刪波斯連年血戰，爭奪小亞，直殺得兩敗俱傷。後來阿拉伯帝國崛起，征服了波斯，但小亞一直在拜占廷帝國統治下，成為抵抗阿拉伯征服狂潮的堅不可摧的前沿陣地。</nuxt-link>
 </li>
   
 </ul>
@@ -156,7 +156,7 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="#"> 曼奇克托(1071)</a></div>
+       <div class="unititle"><nuxt-link to="#"> 曼奇克托(1071)</nuxt-link></div>
        </td>
       </tr>
       <tr>
@@ -165,7 +165,7 @@
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="#">情景信息</a></div>
+       <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link></div>
        </td>
       </tr>
       <tr>
@@ -178,10 +178,10 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="/civs/Japanese">土耳其</a></td>
+       <td class="unit4"><nuxt-link to="/civs/Japanese">土耳其</nuxt-link></td>
       </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="#">戰役關卡編號</a></div>
+       <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link></div>
        </td>
       </tr>
        <tr>

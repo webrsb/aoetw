@@ -50,7 +50,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">完美的烈士</a>
+                <div class="unititle"><nuxt-link to="#">完美的烈士</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -63,42 +63,42 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">版本</td>
-              <td class="unit4"><a href="/games/aok">帝王世紀</a>
+              <td class="unit4"><nuxt-link to="/games/aok">帝王世紀</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">戰役</td>
-              <td class="unit4"><a href="/batt/Joan_of_Arc">聖女貞德</a>
+              <td class="unit4"><nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Franks">法蘭克</a>
+              <td class="unit4"><nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">戰役關卡編號</a>
+                <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">章節</td>
-              <td class="unit4"><a href="/games/aok">帝王世紀</a>第二章之六</td>
+              <td class="unit4"><nuxt-link to="/games/aok">帝王世紀</nuxt-link>第二章之六</td>
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/batt/The_Siege_of_Paris">巴黎攻城戰</a> 
+              <td class="unit4"> <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href=>N/A</a> 
+              <td class="unit4"> <a href=>N/A</nuxt-link> 
               </td>
             </tr>
           </table>
@@ -122,7 +122,7 @@
           <ul>
             <li><strong>起始時代：</strong>
               <img class="gg" src="~assets/Castle-age-reseach.jpg"
-              class="gg" alt=""><a href="/techsage/Imperial_Age">城堡時代</a>
+              class="gg" alt=""><nuxt-link to="/techsage/Imperial_Age">城堡時代</nuxt-link>
             </li>
             <li><strong>起始資源：</strong>無</li>
             <li><strong>人口上限：</strong>75</li>
@@ -132,41 +132,41 @@
            <h3>起始單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/Guyjosselyneicon.png" alt=""><a href="/units/hero/Guy_Josselyne">蓋佐斯爾立</a>
+              <img class="gg" src="~assets/Guyjosselyneicon.png" alt=""><nuxt-link to="/units/hero/Guy_Josselyne">蓋佐斯爾立</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/TradeCartIcon.jpg" alt=""><a href="/units/Trade_Cart">貿易車隊</a>*1</li>
+              <img class="gg" src="~assets/TradeCartIcon.jpg" alt=""><nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>*1</li>
           </ul>
         </div>
         <div class="col-md-4">
            <h3>大地之母</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/Lahire.png" alt=""><a href="/units/hero/La_Hire">拉海爾</a>
+              <img class="gg" src="~assets/Lahire.png" alt=""><nuxt-link to="/units/hero/La_Hire">拉海爾</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/Constablerichemonticon.png" alt=""><a href="/units/hero/Constable_Richemont">康斯塔伯理察蒙</a>
+              <img class="gg" src="~assets/Constablerichemonticon.png" alt=""><nuxt-link to="/units/hero/Constable_Richemont">康斯塔伯理察蒙</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/Jeanbureauicon.png" alt=""><a href="/units/hero/Jean_Bureau">約翰布荷</a>
+              <img class="gg" src="~assets/Jeanbureauicon.png" alt=""><nuxt-link to="/units/hero/Jean_Bureau">約翰布荷</nuxt-link>
             </li>
             <li>
-              <img class="gg" src="~assets/ArbalestIcon.jpg" alt=""><a href="/units/Arbalest">強弩兵</a>*16</li>
+              <img class="gg" src="~assets/ArbalestIcon.jpg" alt=""><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>*16</li>
             <li>
-              <img class="gg" src="~assets/ChampionIcon.jpg" alt=""><a href="/units/Champion">劍兵勇士</a>*8</li>
+              <img class="gg" src="~assets/ChampionIcon.jpg" alt=""><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>*8</li>
             <li>
-              <img class="gg" src="~assets/HussarIcon.jpg" alt=""><a href="/Hustree/sar">匈牙利輕騎兵</a>*8</li>
+              <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>*8</li>
             <li>
-              <img class="gg" src="~assets/HandCannoneerIcon.jpg" alt=""><a href="/units/Hand_Cannoneer">火槍兵</a>*8</li>
+              <img class="gg" src="~assets/HandCannoneerIcon.jpg" alt=""><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>*8</li>
             <li>
-              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="/units/Villager">村民</a>*6</li>
+              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><nuxt-link to="/units/Villager">村民</nuxt-link>*6</li>
             <li>
-              <img class="gg" src="~assets/PaladinIcon.jpg" alt=""><a href="/units/Paladin">遊俠</a>*6</li>
+              <img class="gg" src="~assets/PaladinIcon.jpg" alt=""><nuxt-link to="/units/Paladin">遊俠</nuxt-link>*6</li>
             <li>
-              <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="/units/Bombard_Cannon">火砲</a>*6</li>
+              <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>*6</li>
             <li>
-              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""><a href="/units/Trebuchet">巨型投石機</a>*2</li>
-            <dd><strong>*困難模式為1台<img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""><a href="/units/Trebuchet">巨型投石機</a>和3台<img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="/units/Bombard_Cannon">火砲</a>。</strong>
+              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>*2</li>
+            <dd><strong>*困難模式為1台<img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>和3台<img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。</strong>
             </dd>
           </ul>
         </div>

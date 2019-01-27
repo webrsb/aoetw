@@ -154,7 +154,7 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="#">傑爾巴島的黃金</a></div>
+       <div class="unititle"><nuxt-link to="#">傑爾巴島的黃金</nuxt-link></div>
        </td>
       </tr>
       <tr>
@@ -163,7 +163,7 @@
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="#">情景信息</a></div>
+       <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link></div>
        </td>
       </tr>
       <tr>
@@ -176,10 +176,10 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="#">馬利</a></td>
+       <td class="unit4"><nuxt-link to="#">馬利</nuxt-link></td>
       </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="#">戰役關卡編號</a></div>
+       <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link></div>
        </td>
       </tr>
        <tr>
@@ -189,12 +189,12 @@
        <tr>
         <td class="unit3">上一關</td>
         <td class="unit4">
-       <a href="/batt/The_Sting_of_the_Scorpion">馬利戰役(蠍螫)</a>
+       <nuxt-link to="/batt/The_Sting_of_the_Scorpion">馬利戰役(蠍螫)</nuxt-link>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
        <td class="unit4">
-        <a href="/batt/Blood_on_the_River_Bank">血濺河灘</a>
+        <nuxt-link to="/batt/Blood_on_the_River_Bank">血濺河灘</nuxt-link>
         </td>
       </tr>
       

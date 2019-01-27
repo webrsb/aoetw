@@ -11,18 +11,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="/units/hero/Emperor_in_a_Barrel">裝在桶裡的皇帝</a
+            <nuxt-link to="/units/hero/Emperor_in_a_Barrel"
+              >裝在桶裡的皇帝</nuxt-link
             >是一個在巴巴羅薩戰役最後一關：沈睡的皇帝中登場的英雄單位。在遊戲中以載著桶子
-            <a href="/units/Trade_Cart">貿易車隊</a
+            <nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
             >的外表出現，桶中裝著腓特烈巴巴羅薩的屍體。十字軍的目標就是將皇帝帶回被穆斯林所佔領的耶路撒冷並將他在圓頂清真寺入葬。作為一個英雄單位，他無法被招降且可以自動回血（在征服者入侵資料片之後）。
           </p>
           <p>
-            <a href="/units/hero/Emperor_in_a_Barrel">裝在桶裡的皇帝</a
-            >跟正常的貿易車隊一樣，可以用來貿易。不過<a
-              href="/units/hero/Emperor_in_a_Barrel"
-              >裝在桶裡的皇帝</a
+            <nuxt-link to="/units/hero/Emperor_in_a_Barrel"
+              >裝在桶裡的皇帝</nuxt-link
+            >跟正常的貿易車隊一樣，可以用來貿易。不過<nuxt-link
+              to="/units/hero/Emperor_in_a_Barrel"
+              >裝在桶裡的皇帝</nuxt-link
             >的外觀和一般貿易車隊相反，也就是車上有錢的時候車是空的，車上沒錢的時候車是滿的。另外，
-            <a href="/techs/Caravan">大商隊</a>不會對裝在桶裡的皇帝有影響。
+            <nuxt-link to="/techs/Caravan">大商隊</nuxt-link
+            >不會對裝在桶裡的皇帝有影響。
           </p>
         </div>
       </div>
@@ -30,7 +33,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">裝在桶裡的皇帝</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">裝在桶裡的皇帝</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>

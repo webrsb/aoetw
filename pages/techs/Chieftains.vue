@@ -11,13 +11,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            酋長是<a href="/civs/Vikings">維京</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在城堡研發。研發後 <a href="/units/Infantry_Units">步兵</a>對<a
-              href="/armor/Armor_Class_Cavalry"
-              >騎兵類</a
-            >+5攻擊，對<a href="/armor/Armor_Class_Camel">駱駝騎兵類</a>+4攻擊。
+            酋長是<nuxt-link to="/civs/Vikings">維京</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在城堡研發。研發後
+            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>對<nuxt-link
+              to="/armor/Armor_Class_Cavalry"
+              >騎兵類</nuxt-link
+            >+5攻擊，對<nuxt-link to="/armor/Armor_Class_Camel"
+              >駱駝騎兵類</nuxt-link
+            >+4攻擊。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -25,9 +28,9 @@
         <div class="n1">
           <ul>
             <li>
-              除了<a href="/Teutonic_units/Knight">條頓武士</a
+              除了<nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
               >，狂戰士是遊戲中最耐打的步兵。研發酋長讓狂戰士也能對抗騎兵；然而使用
-              <a href="/units/Pikeman">重裝長槍兵</a
+              <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >對付騎兵還是更有效益。另外弓箭手對狂戰士來說仍舊是個威脅。
             </li>
           </ul>
@@ -37,8 +40,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速酋長的研究時間(快25%)。
             </li>
           </ul>
@@ -47,45 +51,43 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>研發酋長需要700肉400金。</li>
             <li>
-              酋長給<a href="/units/Berserk">狂戰士</a>對<a
-                href="/armor/Armor_Class_Cavalry"
-                >騎兵類</a
+              酋長給<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
               >攻擊+4。
             </li>
             <li>酋長只會影響狂戰士。</li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>研發酋長現在需要400肉300金。</li>
             <li>
-              酋長現在給<a href="/units/Berserk">狂戰士</a>對<a
-                href="/armor/Armor_Class_Cavalry"
-                >騎兵類</a
+              酋長現在給<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
               >攻擊+5。
             </li>
             <li>4.8改版後酋長會影響所有步兵單位。</li>
             <li>
-              4.8b改版後酋長現在會給所有步兵單位對<a
-                href="/armor/Armor_Class_Camel"
-                >駱駝騎兵類</a
+              4.8b改版後酋長現在會給所有步兵單位對<nuxt-link
+                to="/armor/Armor_Class_Camel"
+                >駱駝騎兵類</nuxt-link
               >攻擊+2。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              5.7改版後酋長現在會給所有步兵單位對<a
-                href="/armor/Armor_Class_Camel"
-                >駱駝騎兵類</a
+              5.7改版後酋長現在會給所有步兵單位對<nuxt-link
+                to="/armor/Armor_Class_Camel"
+                >駱駝騎兵類</nuxt-link
               >攻擊+<strong>4</strong>。
             </li>
           </ul>
@@ -95,9 +97,10 @@
         <div class="n1">
           <ul>
             <li>
-              酋長在<a href="/games/ak">《世紀帝國II:非洲王國》</a
-              >時因為bug而沒有給所有步兵單位對<a href="/armor/Armor_Class_Camel"
-                >駱駝騎兵類</a
+              酋長在<nuxt-link to="/games/ak">《世紀帝國II:非洲王國》</nuxt-link
+              >時因為bug而沒有給所有步兵單位對<nuxt-link
+                to="/armor/Armor_Class_Camel"
+                >駱駝騎兵類</nuxt-link
               >攻擊+2。之後在4.8b改版後修正。
             </li>
           </ul>
@@ -107,7 +110,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">酋長</a></div>
+              <div class="unititle"><nuxt-link to="#">酋長</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -119,20 +122,25 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Vikings">維京</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -143,7 +151,7 @@
                 src="~assets/Castleicon.png"
                 width="45"
                 alt=""
-              /><a href="/building/Castle">城堡</a>
+              /><nuxt-link to="/building/Castle">城堡</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -152,7 +160,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -165,7 +173,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

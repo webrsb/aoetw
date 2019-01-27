@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            義勇騎兵是<a href="/civs/Britons">不列顛</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
+            義勇騎兵是<nuxt-link to="/civs/Britons">不列顛</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
             >在
-            <a href="/building/Castle">城堡</a
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後徒步弓兵射程+1，箭塔攻擊+2。(團隊加成)
           </p>
         </div>
@@ -24,9 +24,9 @@
         <div class="n1">
           <ul>
             <li>
-              義勇騎兵結合不列顛的文明加成可讓不列顛的徒步弓兵在遊戲中有最遠的攻擊距離，讓長弓兵更適合長距離作戰。義勇騎兵也讓箭塔在有<a
-                href="/techs/Arrowslits"
-                >箭狹槽</a
+              義勇騎兵結合不列顛的文明加成可讓不列顛的徒步弓兵在遊戲中有最遠的攻擊距離，讓長弓兵更適合長距離作戰。義勇騎兵也讓箭塔在有<nuxt-link
+                to="/techs/Arrowslits"
+                >箭狹槽</nuxt-link
               >加成後對小規模攻擊更具殺傷力。
             </li>
           </ul>
@@ -36,8 +36,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速義勇騎兵的研究時間(快25%)。
             </li>
           </ul>
@@ -46,20 +47,20 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>義勇騎兵只能在帝王時代研發。</li>
             <li>義勇騎兵只會影響箭塔的第一次攻擊。</li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>義勇騎兵可在城堡時代研發。</li>
           </ul>
           <h3>
-            <em><a href="/games/aok">非洲王朝</a></em>
+            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>4.8改版後義勇騎兵會影響箭塔的第二次攻擊。</li>
@@ -82,7 +83,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">義勇騎兵</a></div>
+              <div class="unititle"><nuxt-link to="#">義勇騎兵</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -94,28 +95,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Britons">不列顛</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -125,7 +131,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -138,7 +144,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

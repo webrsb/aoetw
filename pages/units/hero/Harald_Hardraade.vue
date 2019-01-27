@@ -55,7 +55,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">哈羅德哈左德</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">哈羅德哈左德</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -73,7 +75,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="#">步兵<br />英雄</a>
+              <nuxt-link to="#">步兵<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>

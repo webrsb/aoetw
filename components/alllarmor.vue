@@ -12,26 +12,26 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <a href="/armor/Armor_Class_Infantry">步兵</a>·
-              <a href="/armor/Armor_Class_Spearman">槍兵</a>·
-              <a href="/armor/Armor_Class_Eagle_Warrior">鷹勇士</a>·
-              <a href="/armor/Armor_Class_Archer">射手</a>·
-              <a href="/armor/Armor_Class_Cavalry_Archer">馬弓騎兵</a>·
-              <a href="/armor/Armor_Class_Cavalry_Archer">騎兵</a>·
-              <a href="/armor/Armor_Class_Camel">駱駝</a>·
-              <a href="/armor/Armor_Class_War_Elephant">戰象</a>·
-              <a href="/armor/Armor_Class_Gunpowder_Unit">火藥單位</a>·
-              <a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a>· <br />
-              <a href="/armor/Armor_Class_Ram">衝撞車</a>·
-              <a href="/armor/Armor_Class_Monk">僧侶</a>·
-              <a href="/armor/Armor_Class_Ship">船</a>·
-              <a href="/armor/Armor_Class_Turtle_Ship">龜甲船</a>·
-              <a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>·
-              <a href="/armor/Armor_Class_Building">建築</a>·
-              <a href="/Armor_Class_standard_building.php">標準建築</a>·
-              <a href="/armor/Armor_Class_stone_defense">石頭建築</a>·
-              <a href="/armor/Armor_Class_wall_and_gate">牆與門</a>·
-              <a href="/armor/Armor_Class_Castle">城堡</a>
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Eagle_Warrior">鷹勇士</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">馬弓騎兵</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit">火藥單位</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link>· <br />
+              <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Turtle_Ship">龜甲船</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Unique_Unit">特殊單位</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>·
+              <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_stone_defense">石頭建築</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_wall_and_gate">牆與門</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Castle">城堡</nuxt-link>
             </td>
           </tr>
         </table>

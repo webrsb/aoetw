@@ -11,9 +11,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="/building/Blacksmith">兵工廠</a> 是一個在世紀帝國II到達<a
-              href="/techsage/Feudal_Age"
-              >封建時代</a
+            <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
+            是一個在世紀帝國II到達<nuxt-link to="/techsage/Feudal_Age"
+              >封建時代</nuxt-link
             >後能建造的建築。兵工廠可研發科技強化軍事單位和部分防禦建築的攻擊和防禦。
           </p>
         </div>
@@ -32,38 +32,49 @@
           <div class="row">
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="/techsage/Feudal_Age">封建時代</a></h4>
+                <h4>
+                  <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                </h4>
                 <ul>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Paddedarcherarmor.jpg"
                       alt=""
-                    /><a href="/techs/Padded_Archer_Armor">弓兵布甲</a>
-                  </li>
-                  <li>
-                    <img class="gg" src="~assets/Fletching.jpg" alt="" /><a
-                      href="/techs/Fletching"
-                      >箭羽</a
+                    /><nuxt-link to="/techs/Padded_Archer_Armor"
+                      >弓兵布甲</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Forging.jpg" alt="" /><a
-                      href="/techs/Forging"
-                      >鍛造</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Fletching.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Forging.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Scalebardingarmor.jpg"
                       alt=""
-                    /><a href="/techs/Scale_Barding_Armor">騎兵鱗甲</a>
+                    /><nuxt-link to="/techs/Scale_Barding_Armor"
+                      >騎兵鱗甲</nuxt-link
+                    >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Scalemailarmor.jpg" alt="" /><a
-                      href="/techs/Scale_Mail_Armor"
-                      >步兵鱗甲</a
+                    <img
+                      class="gg"
+                      src="~assets/Scalemailarmor.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Scale_Mail_Armor"
+                      >步兵鱗甲</nuxt-link
                     >
                   </li>
                 </ul>
@@ -71,38 +82,49 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="/techsage/Castle_Age">城堡時代</a></h4>
+                <h4>
+                  <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                </h4>
                 <ul>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Leatherarcherarmor.jpg"
                       alt=""
-                    /><a href="/techs/Leather_Archer_Armor">弓兵皮甲</a>
-                  </li>
-                  <li>
-                    <img class="gg" src="~assets/Bodkinarrow.jpg" alt="" /><a
-                      href="/techs/Bodkin_Arrow"
-                      >錐狀箭頭</a
+                    /><nuxt-link to="/techs/Leather_Archer_Armor"
+                      >弓兵皮甲</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><a
-                      href="/techs/Iron_Casting"
-                      >鑄造</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Bodkinarrow.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Ironcasting.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Chainbardingarmor.jpg"
                       alt=""
-                    /><a href="/techs/Chain_Barding_Armor">騎兵鎖甲</a>
+                    /><nuxt-link to="/techs/Chain_Barding_Armor"
+                      >騎兵鎖甲</nuxt-link
+                    >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Chainmailarmor.jpg" alt="" /><a
-                      href="/techs/Chain_Mail_Armor"
-                      >步兵鎖甲</a
+                    <img
+                      class="gg"
+                      src="~assets/Chainmailarmor.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Chain_Mail_Armor"
+                      >步兵鎖甲</nuxt-link
                     >
                   </li>
                 </ul>
@@ -110,38 +132,48 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="/techsage/Imperial_Age">帝王時代</a></h4>
+                <h4>
+                  <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                </h4>
                 <ul>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Ringarcherarmor.jpg"
                       alt=""
-                    /><a href="/techs/Ring_Archer_Armor">弓兵環甲</a>
-                  </li>
-                  <li>
-                    <img class="gg" src="~assets/Bracer.jpg" alt="" /><a
-                      href="/techs/Bracer"
-                      >護腕</a
+                    /><nuxt-link to="/techs/Ring_Archer_Armor"
+                      >弓兵環甲</nuxt-link
                     >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><a
-                      href="/techs/Blast_Furnace"
-                      >鐵風爐</a
+                    <img class="gg" src="~assets/Bracer.jpg" alt="" /><nuxt-link
+                      to="/techs/Bracer"
+                      >護腕</nuxt-link
                     >
+                  </li>
+                  <li>
+                    <img
+                      class="gg"
+                      src="~assets/Blastfurnace.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Blast_Furnace">鐵風爐</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Platebardingarmor.jpg"
                       alt=""
-                    /><a href="/techs/Plate_Barding_Armor">騎兵板甲</a>
+                    /><nuxt-link to="/techs/Plate_Barding_Armor"
+                      >騎兵板甲</nuxt-link
+                    >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Platemailarmor.jpg" alt="" /><a
-                      href="/techs/Plate_Mail_Armor"
-                      >步兵板甲</a
+                    <img
+                      class="gg"
+                      src="~assets/Platemailarmor.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Plate_Mail_Armor"
+                      >步兵板甲</nuxt-link
                     >
                   </li>
                 </ul>
@@ -170,25 +202,30 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="/techs/Masonry"
-                  >磚瓦技術</a
-                >(+10%)
+                <img
+                  class="gg"
+                  src="~assets/Masonry.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Architecture">建築學</a>(+10%)
+                /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="/techs/Masonry"
-                  >磚瓦技術</a
+                <img
+                  class="gg"
+                  src="~assets/Masonry.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                 >(護甲+1/+1，+3建築護甲)
                 <br />
                 <img
@@ -196,7 +233,7 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Architecture">建築學</a
+                /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
                 >(護甲+1/+1，+3建築護甲)
               </td>
             </tr>
@@ -208,28 +245,32 @@
                   src="~assets/Townwatch.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
+                /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Townpatrol.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
+                /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
               </td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                  href="/techs/Faith"
-                  >忠誠信仰</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/Faith.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                 <br />
-                <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                  href="/techs/Heresy"
-                  >異端邪說</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/Heresy.png"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -240,7 +281,8 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)
+                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                >(+20%建造效率)
               </td>
             </tr>
           </table>
@@ -250,30 +292,37 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="/civs/Burmese">緬甸</a>：研發<a href="/techs/Faith"
-                  >忠誠信仰</a
+                <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研發<nuxt-link
+                  to="/techs/Faith"
+                  >忠誠信仰</nuxt-link
                 >便宜50%。
               </li>
               <li>
-                <a href="/civs/Byzantines">拜占庭</a
-                >：在封建/城堡/帝王時代，兵工廠增加20%/30%40%的血量。<a
-                  href="/techs/Town_Watch"
-                  >城鎮瞭望</a
+                <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+                >：在封建/城堡/帝王時代，兵工廠增加20%/30%40%的血量。<nuxt-link
+                  to="/techs/Town_Watch"
+                  >城鎮瞭望</nuxt-link
                 >免費。
               </li>
               <li>
-                <a href="/civs/Chinese">中國</a
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link
                 >：兵工廠的技術在封建/城堡/帝王時代分別便宜10%/15%/20%
               </li>
-              <li><a href="/civs/Malians">馬利</a>：兵工廠建築花費便宜15%</li>
               <li>
-                <a href="/civs/Persians">波斯</a>：研發<a
-                  href="/techs/Town_Watch"
-                  >城鎮暸望</a
-                >和<a href="/techs/Town_Patrol">城鎮巡邏</a
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link
+                >：兵工廠建築花費便宜15%
+              </li>
+              <li>
+                <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研發<nuxt-link
+                  to="/techs/Town_Watch"
+                  >城鎮暸望</nuxt-link
+                >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
                 >的速度在封建/城堡/帝王快10%/15%/20%。
               </li>
-              <li><a href="/civs/Spanish">西班牙</a>：兵工廠建造速度快30%</li>
+              <li>
+                <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+                >：兵工廠建造速度快30%
+              </li>
             </ul>
           </div>
           <h3>團隊加成</h3>
@@ -281,10 +330,12 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry"
-                  >磚瓦技術</a
-                >，<a href="/techs/Architecture">建築學</a>和
-                <a href="/techs/Treadmill_Crane">滑輪起重機</a>的速度快80％。
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
+                  to="/techs/Masonry"
+                  >磚瓦技術</nuxt-link
+                >，<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
+                <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >的速度快80％。
               </li>
             </ul>
           </div>
@@ -292,19 +343,19 @@
           <div class="hrn1"></div>
           <div class="n1">
             <h3>
-              <em><a href="/games/aok">帝王世紀</a></em>
+              <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
             </h3>
             <ul>
               <li>兵工廠在每個時代都是2100HP。</li>
             </ul>
             <h3>
-              <em><a href="/games/aoc">征服者入侵</a></em>
+              <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
             </h3>
             <ul>
-              <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
+              <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             </ul>
             <h3>
-              <em><a href="/games/aof">失落的帝國</a></em>
+              <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
             </h3>
             <ul>
               <li>兵工廠在封建/城堡/帝王的HP分別是1800/2100/2100。</li>
@@ -382,7 +433,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="#">兵工廠</a></div>
+              <div class="unititle"><nuxt-link to="#">兵工廠</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -394,7 +445,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -407,7 +458,9 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Feudal_Age">封建時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -419,7 +472,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -428,7 +481,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">數據</a></div>
+              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -513,8 +566,11 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="/armor/Armor_Class_Building">建築</a> <br />
-              <a href="/Armor_Class_standard_building.php">標準建築</a>
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
+              <br />
+              <nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
+              >
             </td>
           </tr>
           <tr></tr>

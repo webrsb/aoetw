@@ -116,7 +116,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">火龍展翅</a>
+                <div class="unititle"><a to="#">火龍展翅</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -129,7 +129,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -143,7 +143,7 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Turks">土耳其</a>
+              <td class="unit4"><nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -153,7 +153,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">戰役關卡編號</a>
+                <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -167,7 +167,7 @@
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/The_Return_of_the_Dragon">龍之歸來</a> 
+              <td class="unit4"> <nuxt-link to="/batt/The_Return_of_the_Dragon">龍之歸來</nuxt-link> 
               </td>
             </tr>
           </table>
@@ -179,7 +179,7 @@
                   <img src="~assets/Wikipedia-logo.png" width="50" height="46">
                 </div>
                 <div style="margin-left: 60px;">維基百科上的瓦拉幾亞統治者
-                  <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Vladislav_II_of_Wallachia">瓦拉幾亞統治者</a></b></i>
+                  <div style="margin-left: 10px;"><i><b><a href="https://en.wikipedia.org/wiki/Vladislav_II_of_Wallachia">瓦拉幾亞統治者</aa></b></i>
                   </div>
                 </div>
                 <div style="margin-left: 60px;">維基百科上的弗拉迪斯拉夫二世

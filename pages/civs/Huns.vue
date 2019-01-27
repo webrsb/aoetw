@@ -92,7 +92,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/hun">匈奴科技樹</a></em>
+          <em><nuxt-link to="/tree/hun">匈奴科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -121,7 +121,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>韃靼騎兵獲得+10hp。</li>
@@ -130,7 +130,7 @@
             <li>掠奪者可在馬廄生產韃靼騎兵。</li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>
@@ -143,9 +143,9 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a href="/img/Wonderhuns.jpg"
+                <nuxt-link to="/img/Wonderhuns.jpg"
                   ><img class="imgn hg" src="~assets/Wonderhuns.jpg" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>匈奴的世界奇觀</em></p>
               </div>
             </div>

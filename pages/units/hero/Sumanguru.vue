@@ -14,7 +14,8 @@
             蘇曼古魯是個騎兵英雄，在"非洲王朝"資料片中的地圖編輯器中出現。他是以被描繪成民族史詩中的邪惡巫師之王的西非統治者SoumaoroKanté為模板。
           </p>
           <p>
-            在遊戲中蘇曼古魯的外型是<a href="/units/Cataphract">拜占庭聖騎兵</a
+            在遊戲中蘇曼古魯的外型是<nuxt-link to="/units/Cataphract"
+              >拜占庭聖騎兵</nuxt-link
             >。會受到所有騎兵科技加成的影響。他不能被招降而且會自行回血。
           </p>
         </div>
@@ -25,7 +26,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">蘇曼古魯</a></div>
+              <div class="unititle"><nuxt-link to="#">蘇曼古魯</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -43,7 +44,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="#">騎兵<br />英雄</a>
+              <nuxt-link to="#">騎兵<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>

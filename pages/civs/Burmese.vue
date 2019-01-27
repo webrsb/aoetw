@@ -2,6 +2,7 @@
   <!-- Main jumbotron for a primary marketing message or call to action
     -->
   <div class="container">
+    aa
     <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
@@ -74,7 +75,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/bur">緬甸科技樹</a></em>
+          <em><a to="/tree/bur">緬甸科技樹</a></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -98,7 +99,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="#">緬甸</a></div>
+              <div class="unititle"><nuxt-link to="#">緬甸</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -111,7 +112,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>

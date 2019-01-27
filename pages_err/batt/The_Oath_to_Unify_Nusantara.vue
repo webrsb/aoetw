@@ -129,7 +129,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="/A_Dangerous_Mission">誓統南洋</a>
+                <div class="unititle"><nuxt-link to="/A_Dangerous_Mission">誓統南洋</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -142,7 +142,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -156,11 +156,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="#">馬來人</a>
+              <td class="unit4"><nuxt-link to="#">馬來人</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="/The_Oath_to_Unify_Nusantara">戰役關卡編號</a>
+              <div class="unititle2"><nuxt-link to="/The_Oath_to_Unify_Nusantara">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>
@@ -170,12 +170,12 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/Unconditional_Loyalty">班師勤王</a>
+              <td class="unit4"> <nuxt-link to="/Unconditional_Loyalty">班師勤王</nuxt-link>
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/Serving_the_New_King">輔佐新君</a>
+              <td class="unit4"> <nuxt-link to="/batt/Serving_the_New_King">輔佐新君</nuxt-link>
                 </p>
               </td>
             </tr>

@@ -11,9 +11,9 @@
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是說關於英雄:成吉思汗這個單位。而關於成吉思汗戰役請見<a
-              href="/batt/Genghis_Khana"
-              >成吉思汗(戰役)</a
+            >這篇文章是說關於英雄:成吉思汗這個單位。而關於成吉思汗戰役請見<nuxt-link
+              to="/batt/Genghis_Khana"
+              >成吉思汗(戰役)</nuxt-link
             ></em
           >
         </div>
@@ -46,7 +46,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">成吉思汗</a></div>
+              <div class="unititle"><nuxt-link to="#">成吉思汗</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -64,7 +64,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="#">騎兵<br />弓箭手<br />英雄</a>
+              <nuxt-link to="#">騎兵<br />弓箭手<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>

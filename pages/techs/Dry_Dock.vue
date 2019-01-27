@@ -11,14 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            旱碼頭是於帝王時代在<a href="/building/Dock">碼頭</a>研發。研發後<a
-              href="/units/Naval_Vessels"
-              >所有船隻</a
+            旱碼頭是於帝王時代在<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Naval_Vessels"
+              >所有船隻</nuxt-link
             >速度增加15％，
-            <a href="/units/Transport_Ship">運輸船</a
-            >的容量增加10（共乘載20人）。旱碼頭不會提高<a
-              href="/units/Trade_Cog"
-              >貿易商旅</a
+            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >的容量增加10（共乘載20人）。旱碼頭不會提高<nuxt-link
+              to="/units/Trade_Cog"
+              >貿易商旅</nuxt-link
             >的效率，雖然它們的速度仍舊會增加，但是為了彌補這種影響，每趟賺取的黃金會較少，因此總收益率保持不變。
           </p>
         </div>
@@ -38,32 +38,34 @@
                   ></strong
                 >
               </h4>
-              <a href="/civs/Berbers">柏柏</a>、
-              <a href="/civs/Byzantines">拜占庭</a>、
-              <a href="/civs/Chinese">中國</a>、
-              <a href="/civs/Ethiopians">衣索比亞</a>、
-              <a href="/civs/Huns">匈奴</a>、 <a href="/civs/Incas">印加</a>、
-              <a href="/civs/Indians">印度</a>、
-              <a href="/civs/Italians">義大利</a>、
-              <a href="/civs/Japanese">日本</a>、
-              <a href="/civs/Koreans">韓國</a>、
-              <a href="/civs/Magyars">馬扎爾</a>、
-              <a href="/civs/Malay">馬來</a>、 <a href="/civs/Malay">馬利</a>、
-              <a href="/civs/Mayans">馬雅</a>、
-              <a href="/civs/Persians">波斯</a>、
-              <a href="/civs/Portuguese">葡萄牙</a>、
-              <a href="/civs/Saracens">薩拉森</a>、
-              <a href="/civs/Spanish">西班牙</a>、
-              <a href="/civs/Turks">土耳其</a>、
-              <a href="/civs/Vietnamese">越南</a>、
-              <a href="/civs/Vikings">維京</a>。
-              <a href="/civs/Khmer">高棉</a>、
-              <a href="/civs/Slavs">斯拉夫</a>、
-              <a href="/civs/Aztecs">阿茲特克</a>、
-              <a href="/civs/Britons">不列顛</a>、
-              <a href="/civs/Burmese">緬甸</a>、
-              <a href="/civs/Celts">賽爾特</a>、
-              <a href="/civs/Franks">法蘭克</a>。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>。
             </div>
           </div>
         </div>
@@ -81,9 +83,9 @@
                   ></strong
                 >
               </h4>
-              <a href="/civs/Goths">哥德</a>、
-              <a href="/civs/Mongols">蒙古</a>、
-              <a href="/civs/Teutons">條頓</a>。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
             </div>
           </div>
         </div>
@@ -92,12 +94,15 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：傾側維修術在帝王時代成本便宜20%。
             </li>
-            <li><a href="/civs/Italians">義大利</a>：傾側維修術便宜50%。</li>
             <li>
-              <a href="/civs/Persians">波斯</a
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >：傾側維修術便宜50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：傾側維修術在帝王時代研究速度快20%。
             </li>
           </ul>
@@ -114,7 +119,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">旱碼頭</a></div>
+              <div class="unititle"><nuxt-link to="#">旱碼頭</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -126,7 +131,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -140,24 +147,24 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Dockicon.png" alt="" /><a
-                href="/building/Dock"
-                >碼頭</a
+              <img class="gg" src="~assets/Dockicon.png" alt="" /><nuxt-link
+                to="/building/Dock"
+                >碼頭</nuxt-link
               >
             </td>
           </tr>
           <tr>
             <td class="unit3">前置升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Careening.jpg" alt="" /><a
-                href="/techs/Careening"
-                >傾側維修術</a
+              <img class="gg" src="~assets/Careening.jpg" alt="" /><nuxt-link
+                to="/techs/Careening"
+                >傾側維修術</nuxt-link
               >
             </td>
           </tr>
@@ -167,7 +174,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -180,7 +187,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

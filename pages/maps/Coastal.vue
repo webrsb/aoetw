@@ -21,11 +21,11 @@
 
           <h3>優勢文明</h3>
           <p>
-            <a href="/civs/Byzantines">拜占庭</a>、
-            <a href="/civs/Italians">義大利</a>、
-            <a href="/civs/Japanese">日本</a>、
-            <a href="/civs/Spanish">西班牙</a>、
-            <a href="/civs/Vikings">維京</a>。
+            <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+            <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+            <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+            <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
           </p>
         </div>
       </div>

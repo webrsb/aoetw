@@ -55,25 +55,30 @@
           <tr>
             <td class="tta1" style="width:20%">生命值</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="/techs/Masonry"
-                >磚瓦技術</a
-              >(+10%)
+              <img
+                class="gg"
+                src="~assets/Masonry.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
               <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Architecture">建築學</a>(+10%)
+              /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:20%">護甲</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="/techs/Masonry"
-                >磚瓦技術</a
+              <img
+                class="gg"
+                src="~assets/Masonry.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >(護甲+1/+1，+3建築護甲)
               <br />
               <img
@@ -81,37 +86,44 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)
+              /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
+              >(護甲+1/+1，+3建築護甲)
             </td>
           </tr>
           <tr>
             <td class="tta1">視野</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Townwatch.jpg" width="30" alt="" /><a
-                href="/techs/Town_Watch"
-                >城鎮瞭望</a
-              >(+4)
+              <img
+                class="gg"
+                src="~assets/Townwatch.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
+              /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
             </td>
           </tr>
           <tr>
             <td class="tta1">招降抵抗</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                href="/techs/Faith"
-                >忠誠信仰</a
-              >
+              <img
+                class="gg"
+                src="~assets/Faith.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
               <br />
-              <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="/techs/Heresy"
-                >異端邪說</a
-              >
+              <img
+                class="gg"
+                src="~assets/Heresy.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -122,7 +134,8 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)
+              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              >(+20%建造效率)
             </td>
           </tr>
         </table>
@@ -132,10 +145,12 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry"
-                >磚瓦技術</a
-              >、<a href="/techs/Architecture">建築學</a>和
-              <a href="/techs/Treadmill_Crane">踏輪起重機</a>團隊速度提高80%。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
+                to="/techs/Masonry"
+                >磚瓦技術</nuxt-link
+              >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
+              <nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              >團隊速度提高80%。
             </li>
           </ul>
         </div>
@@ -143,7 +158,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/ak">非洲王朝</a></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>港灣大商站建造花費250木材和250黃金</li>
@@ -159,7 +174,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="#">港灣大商站</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">港灣大商站</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -171,16 +188,20 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Portuguese">葡萄牙</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Imperial_Age">帝王時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -192,7 +213,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -205,7 +226,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">數據</a></div>
+              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -227,8 +248,11 @@
           <tr>
             <td class="unit3">護甲類別</td>
             <td class="unit4">
-              <a href="/armor/Armor_Class_Building">建築物</a> <br />
-              <a href="/Armor_Class_standard_building.php">標準建築</a>
+              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
+              <br />
+              <nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -245,13 +269,13 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a href="/img/Feitoria_-_Copie.png"
+          <nuxt-link to="/img/Feitoria_-_Copie.png"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/Feitoria_-_Copie.png"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px" ;>
             <p><em>遊戲中的港灣大商站。</em></p>
           </div>

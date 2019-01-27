@@ -11,9 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            城鎮瞭望可於<a href="/techsage/Feudal_Age">封建時代</a>在<a
-              href="/building/Town_Center"
-              >城鎮中心</a
+            城鎮瞭望可於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >研發。研發後建築物視野+4。
           </p>
         </div>
@@ -21,14 +20,17 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Byzantines">拜占庭</a>：該科技免費。</li>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：該科技免費。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
             </li>
             <li>
-              <a href="/civs/Persians">波斯</a>：研究<a href="/techs/Town_Watch"
-                >城鎮瞭望</a
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研究<nuxt-link
+                to="/techs/Town_Watch"
+                >城鎮瞭望</nuxt-link
               >的時間在封建/城堡/帝王時代快10%/15%/20%。
             </li>
           </ul>
@@ -37,20 +39,21 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Byzantines">拜占庭</a
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
               >:跟其他文明一樣需要研發城鎮瞭望。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Byzantines">拜占庭</a>:1.0c改版後免費獲得城鎮瞭望。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >:1.0c改版後免費獲得城鎮瞭望。
             </li>
           </ul>
         </div>
@@ -66,7 +69,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">城鎮瞭望</a></div>
+              <div class="unititle"><nuxt-link to="#">城鎮瞭望</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -78,7 +81,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -88,27 +93,29 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="/techsage/Feudal_Age"
-                >封建時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Feudal-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Town-center-logo.jpg" alt="" /><a
-                href="/building/Town_Center"
-                >城鎮中心</a
-              >
+              <img
+                class="gg"
+                src="~assets/Town-center-logo.jpg"
+                alt=""
+              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">可升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Townpatrol.jpg" alt="" /><a
-                href="/techs/Town_Patrol"
-                >城鎮巡邏</a
+              <img class="gg" src="~assets/Townpatrol.jpg" alt="" /><nuxt-link
+                to="/techs/Town_Patrol"
+                >城鎮巡邏</nuxt-link
               >
             </td>
           </tr>
@@ -118,7 +125,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -127,7 +134,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

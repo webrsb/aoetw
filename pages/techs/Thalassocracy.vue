@@ -11,13 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            海上霸主是<a href="/civs/Malay">馬來</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後讓<a
-              href="/building/Dock"
-              >碼頭</a
-            >升級成有攻擊能力的<a href="/building/Harbor">海港</a>。
+            海上霸主是<nuxt-link to="/civs/Malay">馬來</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後讓<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >升級成有攻擊能力的<nuxt-link to="/building/Harbor">海港</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,7 +27,7 @@
           <ul>
             <li>
               海上地圖海的控制權是非常重要的，海上霸主能把碼頭升級成海港，海港比碼頭大，但有攻擊能力能保衛周邊海岸安全，同時對船隻有+9攻擊，可有效摧毀敵方船隻(尤其對方用
-              <a href="/units/Transport_Ship">運輸船</a
+              <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >搶灘時)。海港也可作為進攻手段，蓋在敵方海岸可有效阻止敵方生產單位和捕魚。所以海上霸主能盡早研發就盡早。
             </li>
           </ul>
@@ -36,8 +37,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速海上霸主的研究時間(快25%)。
             </li>
           </ul>
@@ -54,7 +56,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">海上霸主</a></div>
+              <div class="unititle"><nuxt-link to="#">海上霸主</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -66,28 +68,31 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Malay">馬來</a></td>
+            <td class="unit4"><nuxt-link to="/civs/Malay">馬來</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -97,7 +102,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -110,7 +115,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -26,7 +26,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">金德-伯勒達伊</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">金德-伯勒達伊</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -44,7 +46,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="#">僧侶<br />英雄</a>
+              <nuxt-link to="#">僧侶<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>

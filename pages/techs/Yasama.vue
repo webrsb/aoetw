@@ -11,10 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            射箭孔是<a href="/civs/Japanese">日本</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後箭塔多射兩支箭。
+            射箭孔是<nuxt-link to="/civs/Japanese">日本</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後箭塔多射兩支箭。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -22,11 +24,11 @@
         <div class="n1">
           <ul>
             <li>
-              射箭孔讓日本的箭塔宛如小型城堡。是一個用於防守上很好的技術。結合日本的另一個可讓<a
-                href="/units/Trebuchet"
-                >巨型投石機</a
+              射箭孔讓日本的箭塔宛如小型城堡。是一個用於防守上很好的技術。結合日本的另一個可讓<nuxt-link
+                to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
               >快速拆解和組裝特殊科技
-              <a href="/techs/Kataparuto">彈射器</a
+              <nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
               >，可以創造一個強大的防禦組合。
               巨型投石機在城堡的保護下是一個很好的防禦工具，但是再加幾個箭塔防禦會更強。雖然它們還遠不及城堡那樣的火力強大。
             </li>
@@ -37,8 +39,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速射箭孔的研究時間(快25%)。
             </li>
           </ul>
@@ -47,14 +50,14 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>射箭孔的成本為300肉400木。</li>
             <li>射箭孔讓箭塔能額外射3支箭。</li>
           </ul>
           <h3>
-            <em><a href="/games/aok">非洲王朝</a></em>
+            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>射箭孔現在的成本為300肉300木。</li>
@@ -65,9 +68,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            Yasama是日本城堡中箭頭的名字。 順便提一下，Arrowslits是<a
-              href="/games/aok"
-              >非洲王朝</a
+            Yasama是日本城堡中箭頭的名字。 順便提一下，Arrowslits是<nuxt-link
+              to="/games/aok"
+              >非洲王朝</nuxt-link
             >引入的一項獨立技術的名稱。
           </p>
         </div>
@@ -76,7 +79,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">射箭孔</a></div>
+              <div class="unititle"><nuxt-link to="#">射箭孔</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -88,28 +91,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Japanese">日本</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -119,7 +127,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -132,7 +140,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -31,12 +31,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            貿易商旅較貿易車隊的移動速度更快（1.32：1），並且貿易商旅可以從<a
-              href="/techs/Careening"
-              >傾側維修術</a
-            >、 <a href="/Dry_building/Dock">旱碼頭</a>、<a
-              href="/techs/Shipwright"
-              >造船匠</a
+            貿易商旅較貿易車隊的移動速度更快（1.32：1），並且貿易商旅可以從<nuxt-link
+              to="/techs/Careening"
+              >傾側維修術</nuxt-link
+            >、
+            <nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link>、<nuxt-link
+              to="/techs/Shipwright"
+              >造船匠</nuxt-link
             >獲得提升（但這不會提高黃金的收益，因為貿易商旅會降低每次所獲得的黃金收益，但相對的會提升船的運行速度）。
             <br />然而，相同距離的碼頭所產生的黃金比市場少了約25%，因此每個貿易車隊與貿易商旅的黃金獲得速度差不多。但是，由於貿易商旅通常都沿著海岸線行走，更容易發生遭遇敵人，所以通常大部分人還是會選擇使用貿易車隊。
           </p>
@@ -71,8 +72,9 @@
                 src="~assets/CastleAgeUnique.png"
                 style="margin: 2px;"
                 alt=""
-              /><a href="/techs/Sultans">蘇丹</a>(+10%，<a href="/civs/Indians"
-                >印度</a
+              /><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link>(+10%，<nuxt-link
+                to="/civs/Indians"
+                >印度</nuxt-link
               >限定)
             </td>
           </tr>
@@ -84,16 +86,16 @@
                 style="margin: 2px;"
                 src="~assets/Careening.jpg"
                 alt=""
-              /><a href="/techs/Careening">傾側維修術</a>(護甲+0/+1)
+              /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
+              >(護甲+0/+1)
               <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 style="margin: 2px;"
                 alt=""
-              /><a href="/techs/Carrack">克拉克帆船</a>(護甲+1/+1，<a
-                href="/civs/Portuguese"
-                >葡萄牙</a
+              /><nuxt-link to="/techs/Carrack">克拉克帆船</nuxt-link
+              >(護甲+1/+1，<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >限定)
             </td>
           </tr>
@@ -105,7 +107,7 @@
                 style="margin: 2px;"
                 src="~assets/Drydock.jpg"
                 alt=""
-              /><a href="/Dry_building/Dock">旱碼頭</a>(+15%)
+              /><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link>(+15%)
               <br />
               <img
                 class="gg"
@@ -114,21 +116,25 @@
                 width="22"
                 src="~assets/CaravanII.png"
                 alt=""
-              /><a href="/techs/Caravan">大商隊</a>(+50%)
+              /><nuxt-link to="/techs/Caravan">大商隊</nuxt-link>(+50%)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">抗招降能力</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Faith.jpg" width="22" alt="" /><a
-                href="/techs/Faith"
-                >忠誠信仰</a
-              >
+              <img
+                class="gg"
+                src="~assets/Faith.jpg"
+                width="22"
+                alt=""
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
               <br />
-              <img class="gg" src="~assets/Heresy.png" width="22" alt="" /><a
-                href="/techs/Heresy"
-                >異端邪說</a
-              >
+              <img
+                class="gg"
+                src="~assets/Heresy.png"
+                width="22"
+                alt=""
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -139,7 +145,7 @@
                 class="gg"
                 src="~assets/Shipwright.jpg"
                 alt=""
-              /><a href="/techs/Shipwright">造船匠</a>(+54%)
+              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(+54%)
             </td>
           </tr>
           <tr>
@@ -150,17 +156,15 @@
                 class="gg"
                 src="~assets/Shipwright.jpg"
                 alt=""
-              /><a href="/techs/Shipwright">造船匠</a>(-20%)
+              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>(-20%)
               <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 style="margin: 2px;"
                 alt=""
-              /><a href="/techs/Silk_Road">絲綢之路</a>(-50%，<a
-                href="/civs/Italians"
-                >義大利</a
-              >限定)
+              /><nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link
+              >(-50%，<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
             </td>
           </tr>
         </table>
@@ -179,78 +183,82 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><a href="/building/Bombard_Tower">火炮塔</a>
+                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/BombardCannonIcon.jpg"
                       alt=""
-                    /><a href="/units/Bombard_Cannon">火砲</a>
+                    /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+17攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HalberdierIcon.jpg" alt="" /><a
-                      href="/units/Halberdier"
-                      >戟兵</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/HalberdierIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+16攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/PikemanIcon.jpg" alt="" /><a
-                      href="/units/Pikeman"
-                      >重裝長槍兵</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/PikemanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/GalleonAoE2.jpg" alt="" /><a
-                      href="/units/Galleon"
-                      >重型弩炮戰船</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/GalleonAoE2.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
                   </li>
                   <li>
-                    <img src="~assets/LongboatIcon.jpg" alt="" /><a
-                      href="/units/Longboat"
-                      >精銳維京大戰船</a
-                    >(<a href="/civs/Vikings">維京</a>限定)
+                    <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
+                      to="/units/Longboat"
+                      >精銳維京大戰船</nuxt-link
+                    >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                      href="/units/Keep"
-                      >大型箭塔</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Watchtowericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" /><a
-                      href="/units/Spearman"
-                      >長槍兵</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/SpearmanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <a href="/Heavy_units/Camel">重裝駱駝騎兵</a>→
+                    <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <a href="/Imperial units/Camel">帝王駱駝騎兵</a>(後者<a
-                      href="/civs/Indians"
-                      >印度</a
-                    >限定)
+                    <nuxt-link to="/Imperial units/Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                   <li>
                     <img
@@ -258,19 +266,22 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><a href="/War_units/Galley">弩炮戰船</a>
+                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/LongboatIcon.jpg" alt="" /><a
-                      href="/units/Longboat"
-                      >維京大戰船</a
-                    >(<a href="/civs/Vikings">維京</a>限定)
+                    <img
+                      class="gg"
+                      src="~assets/LongboatIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
+                    >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                      href="/units/Guard_Tower"
-                      >防禦箭塔</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Watchtowericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -278,8 +289,9 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><a href="/building/Dock">海港</a>(<a href="/civs/Malay"
-                      >馬來</a
+                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
+                      to="/civs/Malay"
+                      >馬來</nuxt-link
                     >限定)
                   </li>
                 </ul>
@@ -288,9 +300,9 @@
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Galley.jpg" alt="" /><a
-                      href="/units/Galley"
-                      >戰船</a
+                    <img class="gg" src="~assets/Galley.jpg" alt="" /><nuxt-link
+                      to="/units/Galley"
+                      >戰船</nuxt-link
                     >
                   </li>
                   <li>
@@ -298,58 +310,64 @@
                       class="gg"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><a href="/Ballista_unitsanimal/Elephant">弩炮象</a>→
+                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
+                      >弩炮象</nuxt-link
+                    >→
                     <img
                       class="gg"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><a href="/Ballista_unitsanimal/Elephant">精銳弩炮象</a>(<a
-                      href="/civs/Khmer"
-                      >高棉</a
-                    >限定)
+                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
+                      >精銳弩炮象</nuxt-link
+                    >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><a
-                      href="/units/Caravel"
-                      >精銳卡拉維爾戰船</a
-                    >(<a href="/civs/Portuguese">葡萄牙</a>限定)
+                    <img
+                      class="gg"
+                      src="~assets/CaravelIcon2.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+                    >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                      href="/units/Watch_Tower"
-                      >瞭望箭塔</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Watchtowericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><a
-                      href="/units/Caravel"
-                      >卡拉維爾戰船</a
-                    >(<a href="/civs/Portuguese">葡萄牙</a>限定)
+                    <img
+                      class="gg"
+                      src="~assets/CaravelIcon2.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link
+                    >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/CamelIcon.jpg" alt="" /><a
-                      href="/units/Camel"
-                      >駱駝騎兵</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/CamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><a href="/Genoese_units/Crossbowman">精銳熱那亞弩手</a>(<a
-                      href="/civs/Italians"
-                      >義大利</a
-                    >限定)
+                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                      >精銳熱那亞弩手</nuxt-link
+                    >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -359,32 +377,34 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><a href="/Genoese_units/Crossbowman">熱那亞弩手</a>(<a
-                      href="/civs/Italians"
-                      >義大利</a
-                    >限定)
+                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                      >熱那亞弩手</nuxt-link
+                    >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/FastFireShipIcon.jpg"
                       alt=""
-                    /><a href="/units/Fast_Fire_Ship">快速火戰船</a>
+                    /><nuxt-link to="/units/Fast_Fire_Ship"
+                      >快速火戰船</nuxt-link
+                    >
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" /><a
-                      href="/units/Fire_Galley"
-                      >火蒙衝</a
-                    >→
+                    <img
+                      class="gg"
+                      src="~assets/FireGalleyIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/FireShipIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="/units/Fire_Ship">火戰船</a>
+                    /><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
@@ -394,7 +414,9 @@
                       class="gg"
                       src="~assets/EliteEagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
+                    /><nuxt-link to="/Elite_units/Eagle_Warrior"
+                      >精銳鷹勇士</nuxt-link
+                    >
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
@@ -404,7 +426,7 @@
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="/units/Eagle_Warrior">鷹勇士</a>
+                    /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -415,26 +437,28 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img src="~assets/Heatedshot.png" width="22" alt="" /><a
-                href="/techs/Heated_Shot"
-                >預熱射擊</a
+              <img src="~assets/Heatedshot.png" width="22" alt="" /><nuxt-link
+                to="/techs/Heated_Shot"
+                >預熱射擊</nuxt-link
               >
               <div style="margin:12px 0px;"><strong>+13攻擊</strong></div>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                    href="/units/Keep"
-                    >大型箭塔</a
-                  >
+                  <img
+                    class="gg"
+                    src="~assets/Watchtowericon.png"
+                    alt=""
+                  /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+11攻擊</strong></div>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                    href="/units/Guard_Tower"
-                    >防禦箭塔</a
-                  >
+                  <img
+                    class="gg"
+                    src="~assets/Watchtowericon.png"
+                    alt=""
+                  /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -442,10 +466,11 @@
               <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                    href="/units/Watch_Tower"
-                    >瞭望箭塔</a
-                  >
+                  <img
+                    class="gg"
+                    src="~assets/Watchtowericon.png"
+                    alt=""
+                  /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -456,7 +481,7 @@
                     src="~assets/Castleicon.png"
                     width="22"
                     alt=""
-                  /><a href="/building/Castle">城堡</a>
+                  /><nuxt-link to="/building/Castle">城堡</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -464,8 +489,9 @@
                     src="~assets/Dockicon.png"
                     width="22"
                     alt=""
-                  /><a href="/building/Harbor">海港</a>(<a href="/civs/Malay"
-                    >馬來</a
+                  /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link
+                    to="/civs/Malay"
+                    >馬來</nuxt-link
                   >限定)
                 </li>
               </ul>
@@ -477,36 +503,43 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：貿易商旅的移動速度提高10％。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+              >：貿易商旅的移動速度提高10％。
             </li>
             <li>
-              <a href="/civs/Byzantines">緬甸</a>：研究<a href="/techs/Faith"
-                >忠誠信仰</a
+              <nuxt-link to="/civs/Byzantines">緬甸</nuxt-link>：研究<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
               >便宜50％。
             </li>
-            <li><a href="/civs/Celts">賽爾特</a>：在視野內的動物不會被轉化</li>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              >：在視野內的動物不會被轉化
+            </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：有利於貿易商旅的科技在城堡/帝王便宜15/20％
             </li>
             <li>
-              <a href="/civs/Italians">義大利</a>：研究<a
-                href="/techs/Careening"
-                >傾側維修術</a
-              >， <a href="/Dry building/Dock">旱碼頭</a>和<a
-                href="/techs/Shipwright"
-                >造船匠</a
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
+                to="/techs/Careening"
+                >傾側維修術</nuxt-link
+              >，
+              <nuxt-link to="/Dry building/Dock">旱碼頭</nuxt-link>和<nuxt-link
+                to="/techs/Shipwright"
+                >造船匠</nuxt-link
               >便宜50％。
             </li>
             <li>
-              <a href="/civs/Persians">波斯</a
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：貿易商旅訓練的速度在封建/城堡/帝王提高10/15/20%，
-              <a href="/techs/Careening">傾側維修術</a
+              <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
               >的研究速度在城堡/帝王提高15/20％。研究
-              <a href="/Dry building/Dock">旱碼頭</a>的速度快20％。
+              <nuxt-link to="/Dry building/Dock">旱碼頭</nuxt-link
+              >的速度快20％。
             </li>
             <li>
-              <a href="/civs/Portuguese">葡萄牙</a
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：貿易商旅訓練減少15%黃金，貿易商旅+10％HP。
             </li>
           </ul>
@@ -516,10 +549,11 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Spanish">西班牙</a>：貿易商旅可以產生多25%的黃金
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：貿易商旅可以產生多25%的黃金
             </li>
             <li>
-              <a href="/civs/Teutons">條頓</a
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：隊伍中的貿易商旅對招降的抵抗力更強。
             </li>
           </ul>
@@ -528,40 +562,43 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">世紀帝國</a></em>
+            <em><nuxt-link to="/games/aok">世紀帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li><a href="/techs/Shipwright">造船匠</a>減少20%船隻木材成本。</li>
+            <li>
+              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              >減少20%船隻木材成本。
+            </li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              1.0版本<a href="/techs/Shipwright">造船匠</a
+              1.0版本<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
               >還可減少35%的船隻訓練時間。
             </li>
-            <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
-            <li>引入<a href="/techs/Caravan">大商隊</a>。</li>
+            <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
+            <li>引入<nuxt-link to="/techs/Caravan">大商隊</nuxt-link>。</li>
             <li>
-              團隊有<a href="/civs/Spanish">西班牙</a
+              團隊有<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >人時貿易商旅多產生33%黃金。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>貿易商旅多產生10%黃金。</li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王朝</a></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>貿易商旅現在多產生30%黃金。</li>
             <li>貿易商旅的碰撞半徑減小，減少在貿易路徑上的碰撞機率。</li>
             <li>
-              4.8版本後團隊有<a href="/civs/Spanish">西班牙</a
+              4.8版本後團隊有<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >人時貿易商旅多產生25%黃金。
             </li>
           </ul>
@@ -571,11 +608,11 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>的貿易商旅當研發<a
-                href="/Dry_building/Dock"
-                >旱碼頭</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+              >的貿易商旅當研發<nuxt-link to="/Dry_building/Dock"
+                >旱碼頭</nuxt-link
               >和
-              <a href="/techs/Caravan">大商隊</a
+              <nuxt-link to="/techs/Caravan">大商隊</nuxt-link
               >會是遊戲中最快的單位，移動速度達2.0547！
             </li>
           </ul>
@@ -592,7 +629,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="#">貿易商旅</a></div>
+              <div class="unititle"><nuxt-link to="#">貿易商旅</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -604,12 +641,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">單位介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">單位介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">民用、<a href="/units/Naval_Vessels">船</a></td>
+            <td class="unit4">
+              民用、<nuxt-link to="/units/Naval_Vessels">船</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -618,18 +659,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="/techsage/Feudal_Age"
-                >封建時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Feudal-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Dockicon.png" alt="" /><a
-                href="/building/Dock"
-                >碼頭</a
+              <img class="gg" src="~assets/Dockicon.png" alt="" /><nuxt-link
+                to="/building/Dock"
+                >碼頭</nuxt-link
               >
             </td>
           </tr>
@@ -639,7 +681,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -652,7 +694,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">數據</a></div>
+              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -669,7 +711,9 @@
           </tr>
           <tr>
             <td class="unit3">防禦類型</td>
-            <td class="unit4"><a href="/armor/Armor_Class_Ship">船</a></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
@@ -692,7 +736,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E6%88%8E%E5%85%8B%E8%88%B9"
+                    href="https://zh.wikipedia.org/wiki/%E6%88%8E%E5%85%8B%E8%88%B9"
                     >戎克船</a
                   ></b
                 ></i
@@ -708,21 +752,21 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <a href="/img/Tradecog.png"
+            <nuxt-link to="/img/Tradecog.png"
               ><img class="imgn hg" src="~assets/Tradecog.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>一群貿易商旅。</em></p>
           </div>
           <div class="col-md-4">
-            <a href="/img/TradeCogHD.png"
+            <nuxt-link to="/img/TradeCogHD.png"
               ><img class="imgn hg" src="~assets/TradeCogHD.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>各種貿易商旅(世紀帝國和征服者入侵資料片)。</em></p>
           </div>
           <div class="col-md-4">
-            <a href="/img/TradeCogDLC.png"
+            <nuxt-link to="/img/TradeCogDLC.png"
               ><img class="imgn hg" src="~assets/TradeCogDLC.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>各種貿易商旅(HD擴充資料片)。</em></p>
           </div>
         </div>

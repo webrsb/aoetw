@@ -48,7 +48,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#b086b5;">
-              <div class="unititle"><a href="#">羊</a></div>
+              <div class="unititle"><nuxt-link to="#">羊</nuxt-link></div>
             </td>
           </tr>
           <tr>

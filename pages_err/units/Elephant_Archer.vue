@@ -10,8 +10,8 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>象弓騎兵是資料片中印度的特殊單位，能夠在<a href="/techsage/Castle_Age">城堡時代</a>的<a href="/building/Castle">城堡</a>中訓練。是個速度慢但有重裝甲和高生命值的騎象射手。</p>
-            <p>象弓騎兵可以在<a href="/techsage/Imperial_Age">帝王時代</a>升級為精銳象弓騎兵。</div>
+            <p>象弓騎兵是資料片中印度的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。是個速度慢但有重裝甲和高生命值的騎象射手。</p>
+            <p>象弓騎兵可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳象弓騎兵。</div>
            <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -50,74 +50,74 @@
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Bloodlines.png" width="30" alt=""><a href="/techs/Bloodlines">品種</a>(+20)</p>
+                  <img src="~assets/Bloodlines.png" width="30" alt=""><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Fletching.jpg" width="30" alt=""><a href="/techs/Fletching">箭羽</a>(+1)</p>
+                  <img src="~assets/Fletching.jpg" width="30" alt=""><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)</p>
                 <p>
-                  <img src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)</p>
+                  <img src="~assets/Bodkinarrow.jpg" width="30" alt=""><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)</p>
                 <p>
-                  <img src="~assets/Bracer.jpg" width="30" alt=""><a href="/techs/Bracer">護腕</a>(+1)</p>
+                  <img src="~assets/Bracer.jpg" width="30" alt=""><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)</p>
                 <p>
-                  <img src="~assets/Chemistry.jpg" width="30" alt=""><a href="/techs/Chemistry">化學</a>(+1)</p>
+                  <img src="~assets/Chemistry.jpg" width="30" alt=""><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)</p>
                 <p>
-                  <img src="~assets/Parthian-Tactics.jpg" width="30" alt=""><a href="/techs/Parthian_Tactics">帕提亞戰術</a>(+2對長槍兵)</p>
+                  <img src="~assets/Parthian-Tactics.jpg" width="30" alt=""><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>(+2對長槍兵)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊範圍</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Fletching.jpg" width="30" alt=""><a href="/techs/Fletching">箭羽</a>(+1)</p>
+                  <img src="~assets/Fletching.jpg" width="30" alt=""><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)</p>
                 <p>
-                  <img src="~assets/Bodkinarrow.jpg" width="30" alt=""><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)</p>
+                  <img src="~assets/Bodkinarrow.jpg" width="30" alt=""><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)</p>
                 <p>
-                  <img src="~assets/Bracer.jpg" width="30" alt=""><a href="/techs/Bracer">護腕</a>(+1)</p>
+                  <img src="~assets/Bracer.jpg" width="30" alt=""><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Thumb_Ring.png" width="30" alt=""><a href="/techs/Thumb_Ring">拇指環</a>(+18%)</p>
+                  <img src="~assets/Thumb_Ring.png" width="30" alt=""><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>(+18%)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Ballistics.jpg" width="30" alt=""><a href="/techs/Ballistics">彈道學</a>(對移動目標命中率上升)</p>
+                  <img src="~assets/Ballistics.jpg" width="30" alt=""><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>(對移動目標命中率上升)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Paddedarcherarmor.jpg" width="30" alt=""><a href="/techs/Padded_Archer_Armor">弓兵布甲</a>(+1/+1)</p>
+                  <img src="~assets/Paddedarcherarmor.jpg" width="30" alt=""><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link>(+1/+1)</p>
                 <p>
-                  <img src="~assets/Leatherarcherarmor.jpg" width="30" alt=""><a href="/techs/Leather_Archer_Armor">弓兵皮甲</a>(+1/+1)</p>
+                  <img src="~assets/Leatherarcherarmor.jpg" width="30" alt=""><nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link>(+1/+1)</p>
                 <p>
-                  <img src="~assets/Ringarcherarmor.jpg" width="30" alt=""><a href="/techs/Ring_Archer_Armor">弓兵環甲</a>(+1/+2)</p>
+                  <img src="~assets/Ringarcherarmor.jpg" width="30" alt=""><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>(+1/+2)</p>
                 <p>
-                  <img src="~assets/Parthian-Tactics.jpg" width="30" alt=""><a href="/techs/Parthian_Tactics">帕提亞戰術</a>(+1/+2)</p>
+                  <img src="~assets/Parthian-Tactics.jpg" width="30" alt=""><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>(+1/+2)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Husbandry.jpg" width="30" alt=""><a href="/techs/Husbandry">畜牧培育</a>(+10%)</p>
+                  <img src="~assets/Husbandry.jpg" width="30" alt=""><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
+                  <img src="~assets/Faith.jpg" width="30" alt=""><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                 </p>
               </td>
             </tr>
@@ -125,7 +125,7 @@
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Conscription.jpg" width="30" alt=""><a href="/techs/Conscription">徵兵制度</a>(+33%)</p>
+                  <img src="~assets/Conscription.jpg" width="30" alt=""><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)</p>
               </td>
             </tr>
           </table>
@@ -133,19 +133,19 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠提高象弓騎兵的生產速度還有加速徵兵技術的研究時間(快25%)</li>
-              <li><a href="/civs/Britons">不列顛</a>：研究拇指環和帕提亞戰術速度快20%。</li>
-              <li><a href="/civs/Huns">匈奴</a>：研究品種和畜牧培育速度快80%。</li>
-              <li><a href="/civs/Malians">馬利</a>：研究化學和彈道學速度快80%。</li>
-              <li><a href="/civs/Teutons">條頓</a>：象弓騎兵更不容易被招降。</li>
+              <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠提高象弓騎兵的生產速度還有加速徵兵技術的研究時間(快25%)</li>
+              <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>：研究拇指環和帕提亞戰術速度快20%。</li>
+              <li><nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研究品種和畜牧培育速度快80%。</li>
+              <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究化學和彈道學速度快80%。</li>
+              <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>：象弓騎兵更不容易被招降。</li>
             </ul>
           </div>
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="/games/aor">王者崛起</a></em></h3>
+             <h3><em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em></h3>
             <ul>
-              <li><a href="/ver-5.8">5.8版</a>後，象弓騎兵對弓兵防禦類型 -2 → 0，對反弓兵防禦類型0 → -2</li>
+              <li><nuxt-link to="/ver-5.8">5.8版</nuxt-link>後，象弓騎兵對弓兵防禦類型 -2 → 0，對反弓兵防禦類型0 → -2</li>
             </ul>
           </div>
            <h3>趣事</h3>
@@ -183,12 +183,12 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a>
+              <td class="unit4"><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
-              <td class="unit4"><a href="/building/Castle">城堡</a>
+              <td class="unit4"><nuxt-link to="/building/Castle">城堡</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -272,7 +272,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="#">單位演變</a>
+                <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
                 </div>
               </td>
             </tr>

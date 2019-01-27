@@ -95,7 +95,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/tur">土耳其科技樹</a></em>
+          <em><nuxt-link to="/tree/tur">土耳其科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -122,7 +122,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="#">土耳其</a></div>
+              <div class="unititle"><nuxt-link to="#">土耳其</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -139,7 +139,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -182,7 +182,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9B%BD"
+                    href="https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9B%BD"
                     >鄂圖曼帝國</a
                   ></b
                 ></i

@@ -11,9 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            步兵鱗甲可於<a href="/techsage/Feudal_Age">封建時代</a>在<a
-              href="/building/Blacksmith"
-              >兵工廠</a
+            步兵鱗甲可於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓步兵護甲+1/+1。
           </p>
         </div>
@@ -22,11 +21,13 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
             </li>
             <li>
-              <a href="/civs/Incas">印加</a>：<a href="/units/Villager">村民</a
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>：<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
               >也獲得+1/+1護甲
             </li>
           </ul>
@@ -43,7 +44,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">步兵鱗甲</a></div>
+              <div class="unititle"><nuxt-link to="#">步兵鱗甲</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -55,7 +56,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -65,28 +68,31 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="/techsage/Feudal_Age"
-                >封建時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Feudal-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Blacksmithicon.png" alt="" /><a
-                href="/building/Blacksmith"
-                >兵工廠</a
-              >
+              <img
+                class="gg"
+                src="~assets/Blacksmithicon.png"
+                alt=""
+              /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Chainmailarmor.jpg" alt="" /><a
-                href="/techs/Chain_Mail_Armor"
-                >步兵鎖甲</a
-              >
+              <img
+                class="gg"
+                src="~assets/Chainmailarmor.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -95,7 +101,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -104,7 +110,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

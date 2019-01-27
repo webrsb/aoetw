@@ -82,7 +82,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">斯特林之役</a>
+                <div class="unititle"><nuxt-link to="#">斯特林之役</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -95,7 +95,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -109,11 +109,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="#">塞爾特人</a>
+              <td class="unit4"><nuxt-link to="#">塞爾特人</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="#">戰役關卡編號</a>
+              <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>
@@ -123,7 +123,7 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/batt/Research_and_Technology">研發與科技</td>      </tr>      <tr>        <td class="unit3">下一關</td>       <td class="unit4">        <a href="/batt/Forge_an_Alliance">締結同盟</a> 
+              <td class="unit4"> <nuxt-link to="/batt/Research_and_Technology">研發與科技</td>      </tr>      <tr>        <td class="unit3">下一關</td>       <td class="unit4">        <nuxt-link to="/batt/Forge_an_Alliance">締結同盟</nuxt-link> 
               </td>
             </tr>
           </table>

@@ -11,12 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            象牙劍是<a href="/civs/Khmer">高棉</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Battle_Elephant"
-              >矛象伕</a
+            象牙劍是<nuxt-link to="/civs/Khmer">高棉</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Battle_Elephant"
+              >矛象伕</nuxt-link
             >+3攻擊。
           </p>
         </div>
@@ -25,16 +26,17 @@
         <div class="n1">
           <ul>
             <li>
-              高棉的大象在象牙劍的加乘下變得除了有速度且更具殺傷力。高棉的還有全滿的<a
-                href="/building/Blacksmith"
-                >兵工廠</a
-              >科技、 <a href="/techs/Bloodlines">血統</a>和<a
-                href="/techs/Husbandry"
-                >畜牧培育</a
+              高棉的大象在象牙劍的加乘下變得除了有速度且更具殺傷力。高棉的還有全滿的<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技、
+              <nuxt-link to="/techs/Bloodlines">血統</nuxt-link>和<nuxt-link
+                to="/techs/Husbandry"
+                >畜牧培育</nuxt-link
               >可以加在大象身上。如果玩家在初期想以矛象伕作為城堡時代的主要單位，象牙劍也許可以比鍛造技術優先研發。但在一般情況下應該將其看作一項兵工廠技術並在
-              <a href="/techs/Iron_Casting">鑄造</a>和<a
-                href="/techs/Blast_Furnace"
-                >鼓風爐</a
+              <nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和<nuxt-link
+                to="/techs/Blast_Furnace"
+                >鼓風爐</nuxt-link
               >研發後再研發象牙劍。
             </li>
           </ul>
@@ -44,8 +46,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速象牙劍的研究時間(快25%)。
             </li>
           </ul>
@@ -63,7 +66,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">象牙劍</a></div>
+              <div class="unititle"><nuxt-link to="#">象牙劍</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -75,28 +78,31 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Khmer">高棉</a></td>
+            <td class="unit4"><nuxt-link to="/civs/Khmer">高棉</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -106,7 +112,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -119,7 +125,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

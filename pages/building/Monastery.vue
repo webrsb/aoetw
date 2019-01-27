@@ -11,12 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="/building/Monastery">修道院</a
-            >是城堡時代可以蓋的建築。修道院可訓練<a href="/units/Monk">僧侶</a
-            >和 <a href="/units/Missionary">傳教士</a>與強化他們。<a
-              href="/Relic"
-              >遺跡</a
-            >
+            <nuxt-link to="/building/Monastery">修道院</nuxt-link
+            >是城堡時代可以蓋的建築。修道院可訓練<nuxt-link to="/units/Monk"
+              >僧侶</nuxt-link
+            >和
+            <nuxt-link to="/units/Missionary">傳教士</nuxt-link
+            >與強化他們。<nuxt-link to="/Relic">遺跡</nuxt-link>
             可放入修道院生產黃金。該注意的，修道院不能被招降。
           </p>
         </div>
@@ -25,16 +25,18 @@
         <div class="n1">
           <p>
             修道院為僧侶/傳教士的生產建築。由於僧侶生產很慢，但又很重要，往往用僧侶當作主力的玩家會建造至少兩座修道院。如果玩家打算在城堡時代使用僧侶快攻，他們必須有至少三個以上的修道院因為僧侶的生產速度真的很慢，移動也慢。而且必須同時研究
-            <a href="/techs/Sanctity">聖潔虔誠</a>和<a href="/techs/Fervor"
-              >宗教狂熱</a
+            <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>和<nuxt-link
+              to="/techs/Fervor"
+              >宗教狂熱</nuxt-link
             >
             才能使進攻更有效。
           </p>
           <p>
-            修道院的一些技術也有助於對付敵方僧侶或部隊（<a href="/techs/Faith"
-              >忠誠信仰</a
-            >，<a href="/techs/Heresy">異端邪說</a>和
-            <a href="/techs/Herbal_Medicine">草藥學</a
+            修道院的一些技術也有助於對付敵方僧侶或部隊（<nuxt-link
+              to="/techs/Faith"
+              >忠誠信仰</nuxt-link
+            >，<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>和
+            <nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
             >），所以即使玩家不使用僧侶也建議蓋修道院。
           </p>
           <p>
@@ -51,7 +53,9 @@
           <div class="row">
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4>
+                <h4>
+                  <nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代
+                </h4>
                 <ul>
                   <li>
                     <img
@@ -59,7 +63,7 @@
                       src="~assets/MonkIcon.jpg"
                       width="30"
                       alt=""
-                    /><a href="/units/Monk">僧侶</a>
+                    /><nuxt-link to="/units/Monk">僧侶</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -67,7 +71,7 @@
                       src="~assets/MissionaryIcon.jpg"
                       width="30"
                       alt=""
-                    /><a href="/units/Missionary">傳教士</a>
+                    /><nuxt-link to="/units/Missionary">傳教士</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -75,7 +79,7 @@
                       src="~assets/Redemption.jpg"
                       width="30"
                       alt=""
-                    /><a href="/techs/Redemption">信仰救贖</a>
+                    /><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -83,7 +87,7 @@
                       src="~assets/Atonement.jpg"
                       width="30"
                       alt=""
-                    /><a href="/techs/Atonement">贖罪</a>
+                    /><nuxt-link to="/techs/Atonement">贖罪</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -91,7 +95,7 @@
                       src="~assets/Herbalmedicine.png"
                       width="30"
                       alt=""
-                    /><a href="/techs/Herbal_Medicine">草藥學</a>
+                    /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -99,7 +103,7 @@
                       src="~assets/Heresy.png"
                       width="30"
                       alt=""
-                    /><a href="/techs/Heresy">異端邪說</a>
+                    /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -107,7 +111,7 @@
                       src="~assets/Sanctity.jpg"
                       width="30"
                       alt=""
-                    /><a href="/techs/Sanctity">聖潔虔誠</a>
+                    /><nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -115,14 +119,16 @@
                       src="~assets/Fervor.jpg"
                       width="30"
                       alt=""
-                    /><a href="/techs/Fervor">宗教狂熱</a>
+                    /><nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="/techsage/Imperial_Age"></a>帝王時代</h4>
+                <h4>
+                  <nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代
+                </h4>
                 <ul>
                   <li>
                     <img
@@ -130,7 +136,7 @@
                       src="~assets/Faith.jpg"
                       width="30"
                       alt=""
-                    /><a href="/techs/Faith">忠誠信仰</a>
+                    /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -138,7 +144,7 @@
                       src="~assets/Illumination.jpg"
                       width="30"
                       alt=""
-                    /><a href="/techs/Illumination">啟發教化</a>
+                    /><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -146,7 +152,9 @@
                       src="~assets/Blockprinting.jpg"
                       width="30"
                       alt=""
-                    /><a href="/techs/Block_Printing">雕版印刷術</a>
+                    /><nuxt-link to="/techs/Block_Printing"
+                      >雕版印刷術</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -154,7 +162,7 @@
                       src="~assets/Theocracy.png"
                       width="30"
                       alt=""
-                    /><a href="/techs/Theocracy">神權統治</a>
+                    /><nuxt-link to="/techs/Theocracy">神權統治</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -185,25 +193,30 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="/techs/Masonry"
-                  >磚瓦技術</a
-                >(+10%)
+                <img
+                  class="gg"
+                  src="~assets/Masonry.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Architecture">建築學</a>(+10%)
+                /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="/techs/Masonry"
-                  >磚瓦技術</a
+                <img
+                  class="gg"
+                  src="~assets/Masonry.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                 >(護甲+1/+1，+3建築護甲)
                 <br />
                 <img
@@ -211,7 +224,7 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Architecture">建築學</a
+                /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
                 >(護甲+1/+1，+3建築護甲)
               </td>
             </tr>
@@ -223,28 +236,32 @@
                   src="~assets/Townwatch.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
+                /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Townpatrol.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
+                /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
               </td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                  href="/techs/Faith"
-                  >忠誠信仰</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/Faith.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                 <br />
-                <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                  href="/techs/Heresy"
-                  >異端邪說</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/Heresy.png"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -255,7 +272,8 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)
+                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                >(+20%建造效率)
               </td>
             </tr>
           </table>
@@ -265,31 +283,38 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="/civs/Burmese">緬甸</a>：研發<a href="/techs/Faith"
-                  >忠誠信仰</a
+                <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研發<nuxt-link
+                  to="/techs/Faith"
+                  >忠誠信仰</nuxt-link
                 >便宜50%。
               </li>
               <li>
-                <a href="/civs/Byzantines">拜占庭</a
-                >：在封建/城堡/帝王時代，修道院增加20%/30%40%的血量。<a
-                  href="/techs/Town_Watch"
+                <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+                >：在封建/城堡/帝王時代，修道院增加20%/30%40%的血量。<nuxt-link
+                  to="/techs/Town_Watch"
                 >
-                  城鎮瞭望</a
+                  城鎮瞭望</nuxt-link
                 >免費。
               </li>
               <li>
-                <a href="/civs/Chinese">中國</a
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link
                 >：修道院的技術在城堡/帝王時代分別便宜15%/20%
               </li>
-              <li><a href="/civs/Malians">馬利</a>：修道院建築花費便宜15%</li>
               <li>
-                <a href="/civs/Persians">波斯</a>：研究<a
-                  href="/techs/Town_Watch"
-                  >城鎮瞭望</a
-                >和<a href="/techs/Town_Patrol">城鎮巡邏</a
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link
+                >：修道院建築花費便宜15%
+              </li>
+              <li>
+                <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研究<nuxt-link
+                  to="/techs/Town_Watch"
+                  >城鎮瞭望</nuxt-link
+                >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
                 >科技時間在封建/城堡/帝王時代快10%/15%/20%
               </li>
-              <li><a href="/civs/Spanish">西班牙</a>：修道院建造速度快30%</li>
+              <li>
+                <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+                >：修道院建造速度快30%
+              </li>
             </ul>
           </div>
           <h3>團隊加成</h3>
@@ -297,14 +322,16 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="/civs/Aztecs">阿茲特克</a>：遺跡產生的黃金增加33%
+                <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+                >：遺跡產生的黃金增加33%
               </li>
               <li>
-                <a href="/civs/Malians">馬利</a>：研發<a
-                  href="/techs/Town_Watch"
-                  >磚瓦技術</a
-                >、<a href="/techs/Town_Watch"> 建築學</a>、
-                <a href="/techs/Town_Watch">滑輪起重機</a>科技的時間加快80%
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
+                  to="/techs/Town_Watch"
+                  >磚瓦技術</nuxt-link
+                >、<nuxt-link to="/techs/Town_Watch"> 建築學</nuxt-link>、
+                <nuxt-link to="/techs/Town_Watch">滑輪起重機</nuxt-link
+                >科技的時間加快80%
               </li>
             </ul>
           </div>
@@ -313,9 +340,16 @@
           <div class="n1">
             <h3><em>征服者入侵</em></h3>
             <ul>
-              <li><a href="/techs/Heresy">異端邪說</a>首次出現。</li>
-              <li><a href="/techs/Herbal_Medicine">草藥學</a>首次出現。</li>
-              <li><a href="/techs/Theocracy">神權統治</a>首次出現。</li>
+              <li>
+                <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>首次出現。
+              </li>
+              <li>
+                <nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+                >首次出現。
+              </li>
+              <li>
+                <nuxt-link to="/techs/Theocracy">神權統治</nuxt-link>首次出現。
+              </li>
             </ul>
           </div>
           <h3>圖庫</h3>
@@ -323,25 +357,25 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
-                <a href="/img/Monasteryaokaoc.png"
+                <nuxt-link to="/img/Monasteryaokaoc.png"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Monasteryaokaoc.png"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:220px" ;>
                   <p><em>所有文明的修道院(帝王世紀和征服者入侵資料片)。</em></p>
                 </div>
               </div>
               <div class="col-md-6">
-                <a href="/img/Monasteries.png"
+                <nuxt-link to="/img/Monasteries.png"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Monasteries.png"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:185px" ;>
                   <p><em>所有文明的修道院(HD擴充資料片)。</em></p>
                 </div>
@@ -349,25 +383,25 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-6">
-                <a href="/img/Mud_mosque.jpg"
+                <nuxt-link to="/img/Mud_mosque.jpg"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Mud_mosque.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:185px" ;>
                   <p><em>真實生活中的非洲修道院:Larabanga清真寺。</em></p>
                 </div>
               </div>
               <div class="col-md-6">
-                <a href="/img/Konark_sun_temple.jpg"
+                <nuxt-link to="/img/Konark_sun_temple.jpg"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Konark_sun_temple.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:185px" ;>
                   <p><em>科納克太陽神殿，遊戲中印度修道院的參考。</em></p>
                 </div>
@@ -380,7 +414,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="#">修道院</a></div>
+              <div class="unititle"><nuxt-link to="#">修道院</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -392,7 +426,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -405,7 +439,9 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -417,7 +453,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -426,7 +462,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">數據</a></div>
+              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -484,8 +520,11 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="/armor/Armor_Class_Building">建築</a> <br />
-              <a href="/Armor_Class_standard_building.php">標準建築</a>
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
+              <br />
+              <nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
+              >
             </td>
           </tr>
           <tr>

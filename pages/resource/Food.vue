@@ -16,27 +16,27 @@
           </p>
           <p>透過下列方法可採集食物：</p>
           <ul>
-            <li><a href="#A">狩獵</a></li>
-            <li><a href="#B">採集漿果叢</a></li>
-            <li><a href="#C"> 建立農田</a></li>
-            <li><a href="#D">捕魚</a></li>
-            <li><a href="#E">設置漁網</a></li>
+            <li><nuxt-link to="#A">狩獵</nuxt-link></li>
+            <li><nuxt-link to="#B">採集漿果叢</nuxt-link></li>
+            <li><nuxt-link to="#C"> 建立農田</nuxt-link></li>
+            <li><nuxt-link to="#D">捕魚</nuxt-link></li>
+            <li><nuxt-link to="#E">設置漁網</nuxt-link></li>
           </ul>
         </div>
 
         <h3>世紀帝國2中，有4種與食物採集（或交易）相關的建築</h3>
         <div class="col-md-12" style="">
-          狩獵、<a href="/building/Farm">農田</a>收集：<a
-            href="/building/Town_Center"
-            >城鎮中心</a
-          >、<a href="/building/Mill">磨坊</a
+          狩獵、<nuxt-link to="/building/Farm">農田</nuxt-link>收集：<nuxt-link
+            to="/building/Town_Center"
+            >城鎮中心</nuxt-link
+          >、<nuxt-link to="/building/Mill">磨坊</nuxt-link
           >（沿海魚群若是由村民採集，也是於城鎮中心或磨坊儲存資源）
         </div>
         <div class="col-md-12" style="">
-          魚類收集：<a href="/building/Dock">碼頭</a>
+          魚類收集：<nuxt-link to="/building/Dock">碼頭</nuxt-link>
         </div>
         <div class="col-md-12" style="">
-          資源買賣：<a href="/building/Market">市集</a>
+          資源買賣：<nuxt-link to="/building/Market">市集</nuxt-link>
         </div>
       </div>
 
@@ -85,9 +85,10 @@
                 bgcolor="#E0E0E0"
               >
                 <span class="unititle"
-                  >玩家經過即可收編操控，可移動至<a href="/building/Town_Center"
-                    >城鎮中心</a
-                  >或<a href="/building/Mill">磨坊</a
+                  >玩家經過即可收編操控，可移動至<nuxt-link
+                    to="/building/Town_Center"
+                    >城鎮中心</nuxt-link
+                  >或<nuxt-link to="/building/Mill">磨坊</nuxt-link
                   >旁以便村民採集資源。遊戲早期階段可用來偵察，缺點是移動緩慢及被敵人偷走的可能性。</span
                 >
               </td>
@@ -103,9 +104,9 @@
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
-                  >玩家經過即可收編操控，遊戲早期階段可用來偵察，缺點是移動緩慢及被敵人偷走的可能性。該動物於<a
-                    href="/games/ak"
-                    >非洲王朝</a
+                  >玩家經過即可收編操控，遊戲早期階段可用來偵察，缺點是移動緩慢及被敵人偷走的可能性。該動物於<nuxt-link
+                    to="/games/ak"
+                    >非洲王朝</nuxt-link
                   >版本中新增，主要出沒在非洲地圖。</span
                 >
               </td>
@@ -155,11 +156,12 @@
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
-                  >玩家經過即可收編操控，可移動至<a href="/building/Town_Center"
-                    >城鎮中心</a
-                  >或<a href="/building/Mill">磨坊</a
-                  >旁以便村民採集資源。該動物於<a href="/games/aoc"
-                    >征服者入侵</a
+                  >玩家經過即可收編操控，可移動至<nuxt-link
+                    to="/building/Town_Center"
+                    >城鎮中心</nuxt-link
+                  >或<nuxt-link to="/building/Mill">磨坊</nuxt-link
+                  >旁以便村民採集資源。該動物於<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
                   >版本中新增。</span
                 >
               </td>
@@ -256,9 +258,9 @@
                 bgcolor="#E0E0E0"
               >
                 <span class="unititle"
-                  >玩家經過即可收編操控，移動速度只有0.65（其他可收編動物為0.7）。該動物於<a
-                    href="/games/aof"
-                    >失落的帝國</a
+                  >玩家經過即可收編操控，移動速度只有0.65（其他可收編動物為0.7）。該動物於<nuxt-link
+                    to="/games/aof"
+                    >失落的帝國</nuxt-link
                   >版本中新增。</span
                 >
               </td>
@@ -279,9 +281,9 @@
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
-                  >玩家經過即可收編操控，主要出沒在東南亞地圖。該動物於<a
-                    href="/games/aor"
-                    >王者崛起</a
+                  >玩家經過即可收編操控，主要出沒在東南亞地圖。該動物於<nuxt-link
+                    to="/games/aor"
+                    >王者崛起</nuxt-link
                   >版本中新增。</span
                 >
               </td>
@@ -330,7 +332,8 @@
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
-                  >可使用斥侯將鹿趕至<a href="/building/Town_Center">城鎮中心</a
+                  >可使用斥侯將鹿趕至<nuxt-link to="/building/Town_Center"
+                    >城鎮中心</nuxt-link
                   >或磨坊旁，村民攻擊2次即可殺死，建議兩位村民同時打獵，以避免鹿反向逃跑。</span
                 >
               </td>
@@ -360,9 +363,9 @@
                 bgcolor="#E0E0E0"
               >
                 <span class="unititle"
-                  >村民攻擊2次可殺死，建議兩位村民同時打獵，該動物於<a
-                    href="/games/ak"
-                    >非洲王朝</a
+                  >村民攻擊2次可殺死，建議兩位村民同時打獵，該動物於<nuxt-link
+                    to="/games/ak"
+                    >非洲王朝</nuxt-link
                   >版本中新增，主要出沒在非洲地圖。</span
                 >
               </td>
@@ -423,9 +426,9 @@
                 bgcolor="#E0E0E0"
               >
                 <span class="unititle"
-                  >村民攻擊2次可殺死，建議兩位村民同時打獵，該動物於<a
-                    href="/games/ak"
-                    >非洲王朝</a
+                  >村民攻擊2次可殺死，建議兩位村民同時打獵，該動物於<nuxt-link
+                    to="/games/ak"
+                    >非洲王朝</nuxt-link
                   >版本中新增，主要出沒在非洲地圖。</span
                 >
               </td>
@@ -446,10 +449,10 @@
               </td>
               <td style="border: 1px solid #495057;" rowspan="4">
                 <span class="unititle"
-                  >受攻擊後會反擊，須由多位村民合力殺死。建議可先使用一位村民（或斥侯）引誘回<a
-                    href="/building/Town_Center"
-                    >城鎮中心</a
-                  >或<a href="/building/Mill">磨坊</a
+                  >受攻擊後會反擊，須由多位村民合力殺死。建議可先使用一位村民（或斥侯）引誘回<nuxt-link
+                    to="/building/Town_Center"
+                    >城鎮中心</nuxt-link
+                  >或<nuxt-link to="/building/Mill">磨坊</nuxt-link
                   >，再使用多位村民合力擊殺採食。</span
                 >
               </td>
@@ -487,9 +490,9 @@
               </td>
               <td style="border: 1px solid #495057;" rowspan="4">
                 <span class="unititle"
-                  >受攻擊後會反擊，須由多位村民合力殺死。它比野豬提供更多的食物，該動物於<a
-                    href="/games/ak"
-                    >非洲王朝</a
+                  >受攻擊後會反擊，須由多位村民合力殺死。它比野豬提供更多的食物，該動物於<nuxt-link
+                    to="/games/ak"
+                    >非洲王朝</nuxt-link
                   >版本中新增，主要出沒在非洲或印度的地圖。</span
                 >
               </td>
@@ -513,9 +516,9 @@
                 bgcolor="#E0E0E0"
               >
                 <span class="unititle"
-                  >受攻擊後會反擊，須由多位村民合力殺死。該動物於<a
-                    href="/games/aor"
-                    >王者崛起</a
+                  >受攻擊後會反擊，須由多位村民合力殺死。該動物於<nuxt-link
+                    to="/games/aor"
+                    >王者崛起</nuxt-link
                   >版本中新增，主要出沒在東南亞地圖。</span
                 >
               </td>
@@ -542,7 +545,7 @@
             </tr>
             <tr>
               <td colspan="6">
-                <a href="#UP"><p align="right">（UP）</p></a>
+                <nuxt-link to="#UP"><p align="right">（UP）</p></nuxt-link>
               </td>
             </tr>
           </table>
@@ -590,7 +593,8 @@
                 bgcolor="#E0E0E0"
               >
                 <p class="unititle">
-                  一般在<a href="/building/Town_Center">城鎮中心</a
+                  一般在<nuxt-link to="/building/Town_Center"
+                    >城鎮中心</nuxt-link
                   >附近可以找到。在大多數地圖中，地圖會有數個漿果灌木叢。<br />
                   因採集上速度較慢，剛開始會建議先狩獵動物獲取食物。
                 </p>
@@ -613,7 +617,8 @@
                 >最大收穫量：125食物
               </td>
               <td style="border: 1px solid #495057;" colspan="4">
-                <span class="unititle"></span>在<a href="/games/ak">非洲王朝</a
+                <span class="unititle"></span>在<nuxt-link to="/games/ak"
+                  >非洲王朝</nuxt-link
                 >版本中，新增了水果灌木叢。
               </td>
             </tr>
@@ -627,14 +632,15 @@
                 <ul>
                   文明加成：
                   <li>
-                    <a href="/civs/Aztecs">阿茲特克</a>：採集者可攜帶+5食物
+                    <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+                    >：採集者可攜帶+5食物
                   </li>
                   <li>
-                    <a href="/civs/Franks">法蘭克</a
+                    <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
                     >：採集者的工作速度提高了25%（失落的帝國版本中）
                   </li>
                   <li>
-                    <a href="/civs/Mayans">瑪雅</a
+                    <nuxt-link to="/civs/Mayans">瑪雅</nuxt-link
                     >：自然資源存量+15%（征服者入侵版本中+20%）
                   </li>
                 </ul>
@@ -642,7 +648,7 @@
             </tr>
             <tr>
               <td colspan="6">
-                <a href="#UP"><p align="right">（UP）</p></a>
+                <nuxt-link to="#UP"><p align="right">（UP）</p></nuxt-link>
               </td>
             </tr>
           </table>
@@ -692,17 +698,18 @@
               >
                 <p class="unititle">
                   <br />
-                  <a href="/building/Farm">農田</a
+                  <nuxt-link to="/building/Farm">農田</nuxt-link
                   >可以提供穩定的食物，放置位置由玩家決定，所以易於收集且安全。<br />
-                  建造後所擁有的食物是固定的，但通過<a href="/building/Mill"
-                    >磨坊</a
+                  建造後所擁有的食物是固定的，但通過<nuxt-link
+                    to="/building/Mill"
+                    >磨坊</nuxt-link
                   >研發技術，可以增加農田食物產量。<br />
                 </p>
               </td>
             </tr>
             <tr>
               <td colspan="6">
-                <a href="#UP"><p align="right">（UP）</p></a>
+                <nuxt-link to="#UP"><p align="right">（UP）</p></nuxt-link>
               </td>
             </tr>
           </table>
@@ -751,16 +758,16 @@
               >
                 <p class="unititle">
                   <br />
-                  村民可以在沿岸捕魚（資源僅能收進城鎮中心及磨坊，無法收進碼頭），<a
-                    href="/building/Dock"
-                    >碼頭</a
-                  >所生產之<a href="/units/Fishing_Ship">漁船</a
+                  村民可以在沿岸捕魚（資源僅能收進城鎮中心及磨坊，無法收進碼頭），<nuxt-link
+                    to="/building/Dock"
+                    >碼頭</nuxt-link
+                  >所生產之<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
                   >可以在海上捕魚。<br />
-                  黑暗時代即可建造<a href="/building/Dock">碼頭</a
+                  黑暗時代即可建造<nuxt-link to="/building/Dock">碼頭</nuxt-link
                   >生產漁船，消耗75木材。<br />
-                  在<a href="/games/aof">失落的帝國</a>版本中，新增了<a
-                    href="/techs/Gillnets"
-                    >流刺網</a
+                  在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                  >版本中，新增了<nuxt-link to="/techs/Gillnets"
+                    >流刺網</nuxt-link
                   >技術，研發後漁船的工作速度提高25%。
                 </p>
                 <p class="unititle">
@@ -789,19 +796,19 @@
                     捕魚方面優勢文明：
                   </p>
                   <li>
-                    <a href="/civs/Italians">義大利</a
+                    <nuxt-link to="/civs/Italians">義大利</nuxt-link
                     >：建造漁船僅需64木頭（比其他文明少11木頭）
                   </li>
                   <li>
-                    <a href="/civs/Indians">印度</a
+                    <nuxt-link to="/civs/Indians">印度</nuxt-link
                     >：村民捕魚工作效率+15%、漁獲攜帶量+15
                   </li>
                   <li>
-                    <a href="/civs/Japanese">日本</a
+                    <nuxt-link to="/civs/Japanese">日本</nuxt-link
                     >：漁船生命值+100%（遠程裝甲+2），工作速度於黑暗時代+5%、封建時代+10%、城堡時代+15%、帝王時代+20%（互不疊加）
                   </li>
                   <li>
-                    <a href="/civs/Malay">馬來</a
+                    <nuxt-link to="/civs/Malay">馬來</nuxt-link
                     >：團隊加分--碼頭視野+100%、漁網成本便宜33%、漁網食物量無限
                   </li>
                 </ul>
@@ -809,7 +816,7 @@
             </tr>
             <tr>
               <td colspan="6">
-                <a href="#UP"><p align="right">（UP）</p></a>
+                <nuxt-link to="#UP"><p align="right">（UP）</p></nuxt-link>
               </td>
             </tr>
           </table>
@@ -858,35 +865,35 @@
               >
                 <p class="unititle">
                   <br />
-                  一旦海洋魚類食物耗盡，玩家必須建造一個新的魚類陷阱--<a
-                    href="/building/Fish_Trap"
-                    >漁網</a
+                  一旦海洋魚類食物耗盡，玩家必須建造一個新的魚類陷阱--<nuxt-link
+                    to="/building/Fish_Trap"
+                    >漁網</nuxt-link
                   >，以獲取食物。<br />
-                  在<a href="/games/aof">失落的帝國</a>版本中，新增了<a
-                    href="/techs/Gillnets"
-                    >流刺網</a
+                  在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                  >版本中，新增了<nuxt-link to="/techs/Gillnets"
+                    >流刺網</nuxt-link
                   >技術，研發後漁船的工作速度提高25%。
                 </p>
                 <ul>
                   <p class="unititle">文明加成：</p>
                   <li>
-                    <a href="/civs/Japanese">日本</a>：更高的<a
-                      href="/units/Fishing_Ship"
-                      >漁船</a
+                    <nuxt-link to="/civs/Japanese">日本</nuxt-link
+                    >：更高的<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
                     >工作速度，使得日本的漁網遠比農田更有效率。
                   </li>
                   <li>
-                    <a href="/civs/Malay">馬來</a>：建置<a
-                      href="/building/Fish_Trap"
-                      >漁網</a
-                    >只需消耗67木頭（僅比建立<a href="/building/Farm">農田</a
+                    <nuxt-link to="/civs/Malay">馬來</nuxt-link>：建置<nuxt-link
+                      to="/building/Fish_Trap"
+                      >漁網</nuxt-link
+                    >只需消耗67木頭（僅比建立<nuxt-link to="/building/Farm"
+                      >農田</nuxt-link
                     >多7木頭），且提供無限的魚類食物，在遊戲後期中是非常不錯的食物來源。
                   </li>
                 </ul>
               </td>
             </tr>
             <td colspan="6">
-              <a href="#UP"><p align="right">（UP）</p></a>
+              <nuxt-link to="#UP"><p align="right">（UP）</p></nuxt-link>
             </td>
           </table>
 
@@ -896,7 +903,7 @@
               <td colspan="4" style="border: 1px solid #FFFFFF;">
                 <p align="left">
                   部份圖片及遊戲資訊來源：<a
-                    href="/https://ageofempires.fandom.com/wiki/Food"
+                    href="https://ageofempires.fandom.com/wiki/Food"
                     target="_blank"
                     >Aoe英文wiki</a
                   >

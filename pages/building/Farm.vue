@@ -17,23 +17,21 @@
         <div class="n1">
           <ul>
             <li>
-              每塊農田只由一位村民耕種與採集食物。農田不會阻擋友軍或是敵軍的移動路徑，敵方村民也可在滑鼠點擊農田後直接接管農田。農田在<a
-                href="/building/Mill"
-                >磨坊</a
+              每塊農田只由一位村民耕種與採集食物。農田不會阻擋友軍或是敵軍的移動路徑，敵方村民也可在滑鼠點擊農田後直接接管農田。農田在<nuxt-link
+                to="/building/Mill"
+                >磨坊</nuxt-link
               >點擊自動排隊後會自動翻新
             </li>
             <li>
-              農田應該散佈在<a href="/building/Town_Center">城鎮中心</a>跟<a
-                href="/building/Mill"
-                >磨坊</a
+              農田應該散佈在<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >跟<nuxt-link to="/building/Mill">磨坊</nuxt-link
               >的周圍讓村民有最短的工作距離(通常是兩塊田的距離)。村民在農田上的走動通常在農田左側，所以一開始把農田放在城鎮中心和磨坊的右邊可以減少村民回程放食物的時間。
             </li>
             <li>
-              若在科技(<a href="/techs/Horse_Collar">馬軛</a>、<a
-                href="/techs/Heavy_Plow"
-                >重犁</a
-              >、
-              <a href="/techs/Crop_Rotation">輪耕</a
+              若在科技(<nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link
+              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、
+              <nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
               >)升級完前農田就被建好，那農田是吃不到加成的，要升級完後再蓋才有完整加成。
             </li>
             <li>
@@ -59,7 +57,7 @@
                   src="~assets/Horsecollar.jpg"
                   width="30"
                   alt=""
-                /><a href="/Horsecollar.php">馬軛</a>+75
+                /><nuxt-link to="/Horsecollar.php">馬軛</nuxt-link>+75
               </p>
               <p>
                 <img
@@ -67,7 +65,7 @@
                   src="~assets/Heavyplow.jpg"
                   width="30"
                   alt=""
-                /><a href="/Heavyplow.php">重犁</a>+125
+                /><nuxt-link to="/Heavyplow.php">重犁</nuxt-link>+125
               </p>
               <p>
                 <img
@@ -75,7 +73,7 @@
                   src="~assets/Croprotation.jpg"
                   width="30"
                   alt=""
-                /><a href="/Croprotation.php">輪耕</a>+175
+                /><nuxt-link to="/Croprotation.php">輪耕</nuxt-link>+175
               </p>
             </td>
           </tr>
@@ -88,7 +86,8 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Treadmill_Crane">滑輪起重機</a>+20%
+                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >+20%
               </p>
             </td>
           </tr>
@@ -123,11 +122,15 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Dark_Age">黑暗時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">需要建設</td>
-            <td class="unit4"><a href="/building/Mill">磨坊</a></td>
+            <td class="unit4">
+              <nuxt-link to="/building/Mill">磨坊</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -166,8 +169,11 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="/armor/Armor_Class_Building">建築</a> <br />
-              <a href="/Armor_Class_standard_building.php">標準建築</a>
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
+              <br />
+              <nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -199,46 +205,54 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/Farmicon.png" width="30" alt="" /><a
-                href="/building/Farm"
-                >農田</a
-              >(研發
+              <img
+                class="gg"
+                src="~assets/Farmicon.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/building/Farm">農田</nuxt-link>(研發
               <img
                 src="~assets/Horsecollar.jpg"
                 width="30"
                 alt=""
                 class="gg"
-              /><a href="/Horsecollar.php">馬軛</a>+75)
+              /><nuxt-link to="/Horsecollar.php">馬軛</nuxt-link>+75)
             </td>
             <td class="tta2">250</td>
             <td class="tta3">4.17</td>
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/Farmicon.png" width="30" alt="" /><a
-                href="/building/Farm"
-                >農田</a
-              >(研發
-              <img src="~assets/Heavyplow.jpg" width="30" alt="" class="gg" /><a
-                href="/Heavyplow.php"
-                >重犁</a
-              >+125)
+              <img
+                class="gg"
+                src="~assets/Farmicon.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/building/Farm">農田</nuxt-link>(研發
+              <img
+                src="~assets/Heavyplow.jpg"
+                width="30"
+                alt=""
+                class="gg"
+              /><nuxt-link to="/Heavyplow.php">重犁</nuxt-link>+125)
             </td>
             <td class="tta2">375</td>
             <td class="tta3">6.25</td>
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/Farmicon.png" width="30" alt="" /><a
-                href="/building/Farm"
-                >農田</a
-              >(研發
+              <img
+                class="gg"
+                src="~assets/Farmicon.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/building/Farm">農田</nuxt-link>(研發
               <img
                 src="~assets/Croprotation.jpg"
                 width="30"
                 alt=""
                 class="gg"
-              /><a href="/Croprotation.php">輪耕</a>+175)
+              /><nuxt-link to="/Croprotation.php">輪耕</nuxt-link>+175)
             </td>
             <td class="tta2">550</td>
             <td class="tta3">9.17</td>
@@ -250,7 +264,7 @@
                 src="~assets/FishingShipIcon.jpg"
                 width="30"
                 alt=""
-              /><a href="/units/Fishing_Ship">漁船</a>
+              /><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>
             </td>
             <td class="tta2">715</td>
             <td class="tta3">7.15</td>
@@ -262,13 +276,13 @@
                 src="~assets/FishingShipIcon.jpg"
                 width="30"
                 alt=""
-              /><a href="/units/Fishing_Ship">漁船</a>+
+              /><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>+
               <img
                 class="gg"
                 src="~assets/Fishtrapicon.png"
                 width="30"
                 alt=""
-              /><a href="/building/Fish_Trap">漁網</a>
+              /><nuxt-link to="/building/Fish_Trap">漁網</nuxt-link>
             </td>
             <td class="tta2">715</td>
             <td class="tta3">4.09</td>
@@ -280,35 +294,54 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Byzantines">拜占庭</a
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
               >：在黑暗/封建/城堡/帝國時代，農場擁有+ 10％/ + 20％/ + 30％/ +
               40％HP。
             </li>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：農田的技術在封建/城堡/帝國時代便宜10％/ 15％/ 20％。
             </li>
             <li>
-              <a href="/civs/Franks">法蘭克</a>：<a href="/techs/Horse_Collar"
-                >馬軛</a
-              >、<a href="/techs/Heavy_Plow">重犁</a>、
-              <a href="/techs/Crop_Rotation">輪耕</a>免費。
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：<nuxt-link
+                to="/techs/Horse_Collar"
+                >馬軛</nuxt-link
+              >、<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>、
+              <nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>免費。
             </li>
-            <li><a href="/civs/Japanese">日本</a>：磨坊便宜50％。</li>
-            <li><a href="/civs/Khmer">高棉</a>：農田不需要磨坊。</li>
-            <li><a href="/civs/Mayans">馬雅</a>：農田裡的食物多15％。</li>
-            <li><a href="/civs/Slavs">斯拉夫</a>：農民工作速度提高15％</li>
-            <li><a href="/civs/Spanish">西班牙</a>：農田建成速度快30%。</li>
-            <li><a href="/civs/Teutons">條頓</a>：農田便宜33%。</li>
+            <li>
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>：磨坊便宜50％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：農田不需要磨坊。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+              >：農田裡的食物多15％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+              >：農民工作速度提高15％
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：農田建成速度快30%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：農田便宜33%。
+            </li>
           </ul>
         </div>
         <h3>團隊加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Chinese">中國</a>：農田提供+45食物。</li>
             <li>
-              <a href="/civs/Incas">印加</a>：農田的團隊建造速度提高100%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：農田提供+45食物。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Incas">印加</nuxt-link
+              >：農田的團隊建造速度提高100%。
             </li>
           </ul>
         </div>
@@ -316,7 +349,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>
@@ -325,32 +358,37 @@
             <li>尚未開始建造的農田是無敵狀態，即使被攻擊也不會消失</li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li><a href="/civs/Mayans">馬雅</a>：農田的食物多20％。</li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：農田的食物多20％。
+            </li>
             <li>尚未開始建造的農田被敵人打到一下，立即消失</li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li><a href="/civs/Mayans">馬雅</a>：農田的食物多15％。</li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：農田的食物多15％。
+            </li>
             <li>尚未建造好農田不能再被敵方村民採集</li>
             <li>
               農田不受擴散攻擊範圍影響，也就是衝撞車或投石車攻擊目標即使不是農田，但擴散攻擊無法傷害到農田
             </li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Malians">馬利</a>：在4.8版本後，農田不再便宜15％。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >：在4.8版本後，農田不再便宜15％。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>蓋在紅樹林上的水田，與一般農田無異。</li>
@@ -371,7 +409,7 @@
               >延伸閱讀：<a href="http://tinyurl.com/y7jwme3m"
                 >中古世紀歐洲農業發展</a
               >、<a
-                href="/http://fishleong666.blogspot.tw/2016/02/blog-post_27.html"
+                href="http://fishleong666.blogspot.tw/2016/02/blog-post_27.html"
                 >歐洲中世紀農業革命</a
               ></em
             >
@@ -385,15 +423,15 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Farms.png"
+              <nuxt-link to="/img/Farms.png"
                 ><img class="imgn hg" src="~assets/Farms.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>農田越整齊離磨坊越近效率越高。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="/img/Ricefarm.png"
+              <nuxt-link to="/img/Ricefarm.png"
                 ><img class="imgn hg" src="~assets/Ricefarm.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>當農田蓋在紅樹林上時，會自動變成水田。</em></p>
             </div>
           </div>

@@ -11,12 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            演習是<a href="/civs/Mongols">蒙古</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/building/Siege_Workshop"
-              >攻城器製造所</a
+            演習是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/building/Siege_Workshop"
+              >攻城器製造所</nuxt-link
             >的單位移動速度快50%。
           </p>
         </div>
@@ -25,11 +26,11 @@
         <div class="n1">
           <ul>
             <li>
-              演習可加快攻城器的移動速度，讓蒙古軍隊成為遊戲中最敏捷的軍隊之一。而載滿<a
-                href="/units/Infantry_Units"
-                >步兵</a
+              演習可加快攻城器的移動速度，讓蒙古軍隊成為遊戲中最敏捷的軍隊之一。而載滿<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵</nuxt-link
               >的蒙古衝撞車可以移動得像輕型
-              <a href="/units/Cavalry_Units">騎兵</a>一樣地快速。
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>一樣地快速。
             </li>
           </ul>
         </div>
@@ -38,8 +39,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速演習的研究時間(快25%)。
             </li>
           </ul>
@@ -56,7 +58,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">演習</a></div>
+              <div class="unititle"><nuxt-link to="#">演習</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -68,12 +70,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Mongols">蒙古</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -82,15 +88,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -100,7 +106,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -113,7 +119,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

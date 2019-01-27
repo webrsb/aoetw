@@ -16,7 +16,7 @@
           <ul>
             <li>
               <img src="~assets/ManAtArmsIcon.jpg" width="25" alt="" />
-              <a href="/units/Man-at-Arms">裝甲步兵</a
+              <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
               >:封建初期近戰王者，不怕少量斥侯與槍兵，但比較怕弓兵，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。
             </li>
           </ul>

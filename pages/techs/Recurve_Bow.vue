@@ -11,12 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            反曲弓是<a href="/civs/Magyars">馬扎爾</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/Cavalry_units/Archer"
-              >馬弓騎兵</a
+            反曲弓是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/Cavalry_units/Archer"
+              >馬弓騎兵</nuxt-link
             >射程和攻擊各+1。
           </p>
         </div>
@@ -25,19 +26,20 @@
         <div class="n1">
           <ul>
             <li>
-              有反曲弓加成的馬弓騎兵擁有和<a href="/units/Arbalest">強弩兵</a
+              有反曲弓加成的馬弓騎兵擁有和<nuxt-link to="/units/Arbalest"
+                >強弩兵</nuxt-link
               >一樣的射程，讓他們能更好地執行打帶跑。反曲弓可以看做是一種
-              <a href="/building/Blacksmith">兵工廠</a>的升級，但還是優先研發<a
-                href="/techs/Fletching"
-                >箭羽</a
-              >、<a href="/techs/Bodkin_Arrow">錐狀箭頭</a>和
-              <a href="/techs/Bracer">護腕</a
+              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >的升級，但還是優先研發<nuxt-link to="/techs/Fletching"
+                >箭羽</nuxt-link
+              >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>和
+              <nuxt-link to="/techs/Bracer">護腕</nuxt-link
               >因為這三樣不僅有加成所有範圍單位、有加攻擊力、最重要是花費比反曲弓便宜。
             </li>
             <li>
-              反曲弓讓馬札爾的馬騎弓兵可以與<a href="/civs/Turks">土耳其</a>和<a
-                href="/civs/Mongols"
-                >蒙古</a
+              反曲弓讓馬札爾的馬騎弓兵可以與<nuxt-link to="/civs/Turks"
+                >土耳其</nuxt-link
+              >和<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
               >的並列遊戲中最佳的馬騎弓兵。
             </li>
           </ul>
@@ -47,8 +49,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速反曲弓的研究時間(快25%)。
             </li>
           </ul>
@@ -57,13 +60,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>反曲弓只讓馬弓騎兵攻擊+1。</li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>5.5改版後反曲弓會讓馬弓騎兵攻擊和射程都+1。</li>
@@ -74,7 +77,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">反曲弓</a></div>
+              <div class="unititle"><nuxt-link to="#">反曲弓</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -86,12 +89,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Magyars">馬扎爾</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -100,15 +107,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -118,7 +125,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -131,7 +138,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

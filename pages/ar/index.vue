@@ -82,16 +82,16 @@
                 <div class="col-md-6">
                   阿拉伯：
                   <ul>
-                    <li><a href="/ar/armstower">裝甲塔</a></li>
-                    <li><a href="/ar/scrush">肉馬開局</a></li>
-                    <li><a href="/ar/archerstar">小弓開局</a></li>
-                    <li><a href="/ar/armstar">裝甲開局</a></li>
-                    <li><a href="/ar/brushtof">黑快轉封</a></li>
-                    <li><a href="/ar/brushfc">黑快搶城</a></li>
-                    <li><a href="/ar/towerrush">純塔攻</a></li>
-                    <li><a href="/ar/eglerush">老鷹開局</a></li>
-                    <li><a href="/ar/fontrush">前置槍矛</a></li>
-                    <li><a href="/ar/bbrush">黑暗爆民兵</a></li>
+                    <li><nuxt-link to="/ar/armstower">裝甲塔</nuxt-link></li>
+                    <li><nuxt-link to="/ar/scrush">肉馬開局</nuxt-link></li>
+                    <li><nuxt-link to="/ar/archerstar">小弓開局</nuxt-link></li>
+                    <li><nuxt-link to="/ar/armstar">裝甲開局</nuxt-link></li>
+                    <li><nuxt-link to="/ar/brushtof">黑快轉封</nuxt-link></li>
+                    <li><nuxt-link to="/ar/brushfc">黑快搶城</nuxt-link></li>
+                    <li><nuxt-link to="/ar/towerrush">純塔攻</nuxt-link></li>
+                    <li><nuxt-link to="/ar/eglerush">老鷹開局</nuxt-link></li>
+                    <li><nuxt-link to="/ar/fontrush">前置槍矛</nuxt-link></li>
+                    <li><nuxt-link to="/ar/bbrush">黑暗爆民兵</nuxt-link></li>
                   </ul>
                 </div>
                 <div class="col-md-12">

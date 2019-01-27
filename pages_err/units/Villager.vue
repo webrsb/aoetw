@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>村民訓練於<a href="/techsage/Dark_Age">黑暗時代</a>的<a href="/Town_Center">城鎮中心</a>，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現</p>
-            <p>所有文明開始時都有三位村民，除了<a href="/civs/Chinese">中國人</a>和<a href="/.php">瑪雅人</a>(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。</p>
-            <p><a href="/civs/Spanish">西班牙</a>的特殊科技<a href="/techs/Supremacy">霸權</a>，能夠讓村民具有戰鬥力。</div>
+            <p>村民訓練於<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>的<nuxt-link to="/Town_Center">城鎮中心</nuxt-link>，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現</p>
+            <p>所有文明開始時都有三位村民，除了<nuxt-link to="/civs/Chinese">中國人</nuxt-link>和<nuxt-link to="/.php">瑪雅人</nuxt-link>(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。</p>
+            <p><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>的特殊科技<nuxt-link to="/techs/Supremacy">霸權</nuxt-link>，能夠讓村民具有戰鬥力。</div>
           <h3>任務與單位名稱</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -124,8 +124,7 @@
 			
           </table>
           <p>請注意，農田的實際收集率將由於需要在農田四處走動而降低。步行時間是村民在技術上來說屬於閒置，並不收集資源的時間。考慮步行時間在內，農夫的平均收集率約是0.3003食物/秒（研發科技
-            <a
-            href="/techs/Wheelbarrow">獨輪推車</a>將增加13.6%的效率，約為0.34）。同時考慮到農夫需要額外的步行時間才能到達農田的聚集點（和背面），他們的淨糧食產量實際上更低(可參考測試一)。</p>
+            <nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>將增加13.6%的效率，約為0.34）。同時考慮到農夫需要額外的步行時間才能到達農田的聚集點（和背面），他們的淨糧食產量實際上更低(可參考測試一)。</p>
           <p>測試一：無獨輪、以TC旁最佳蓋法一圈8田為方法，村從TC放出來第一格田自己走到定點，48秒後回TC放肉(走回TC的時間不在48S內)共採肉94，速率0.24</p>
           <p>註1：獨輪推車對於伐木、採礦增加的效率約只有3%，遠低於農夫的效果</p>
           <p>註2：相較近場村民捕魚的0.426，漁船近海捕魚為0.280，漁船深海捕魚為0.487，漁船魚簍為0.206</p>
@@ -134,127 +133,125 @@
           <div class="row">
             <div class="col-md-3">
               <div class="n1">
-                 <h4><a href="/techsage/Dark_Age"></a>黑暗時代</h4> 
+                 <h4><nuxt-link to="/techsage/Dark_Age"></nuxt-link>黑暗時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Houseicon.png" width="30" alt=""><a href="/building/House">房屋</a>
+                    <img class="gg" src="~assets/Houseicon.png" width="30" alt=""><nuxt-link to="/building/House">房屋</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Millicon.png" width="30" alt=""><a href="/building/Mill">磨坊</a>
+                    <img class="gg" src="~assets/Millicon.png" width="30" alt=""><nuxt-link to="/building/Mill">磨坊</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><a href="/building/Farm  building/Farm">農田</a>
+                    <img class="gg" src="~assets/Farmicon.png" width="30" alt=""><nuxt-link to="/building/Farm  building/Farm">農田</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Miningcampicon.png" width="30" alt=""><a href="/building/Mining_Camp">採礦營地</a>
+                    <img class="gg" src="~assets/Miningcampicon.png" width="30" alt=""><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Lumbercampicon.png" width="30" alt=""><a href="/building/Lumber_Camp">伐木場</a>
+                    <img class="gg" src="~assets/Lumbercampicon.png" width="30" alt=""><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Dockicon.png" width="30" alt=""><a href="/building/Dock">碼頭</a>
+                    <img class="gg" src="~assets/Dockicon.png" width="30" alt=""><nuxt-link to="/building/Dock">碼頭</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Barracks-logo.jpg" width="30" alt=""><a href="/building/Barracks">軍營</a>
+                    <img class="gg" src="~assets/Barracks-logo.jpg" width="30" alt=""><nuxt-link to="/building/Barracks">軍營</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Outposticon.png" width="30" alt=""><a href="/building/Outpost">哨站</a>
+                    <img class="gg" src="~assets/Outposticon.png" width="30" alt=""><nuxt-link to="/building/Outpost">哨站</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Palisadewallicon.png" width="30" alt=""><a href="/building/Palisade_Wall">木牆</a>
+                    <img class="gg" src="~assets/Palisadewallicon.png" width="30" alt=""><nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Palisadegateicon.png" width="30" alt=""><a href="/Palisade_building/Gate">木門</a>
+                    <img class="gg" src="~assets/Palisadegateicon.png" width="30" alt=""><nuxt-link to="/Palisade_building/Gate">木門</nuxt-link>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><a href="/techsage/Feudal_Age"></a>封建時代</h4> 
+                 <h4><nuxt-link to="/techsage/Feudal_Age"></nuxt-link>封建時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Acheryrangeicon.png" width="30" alt=""><a href="/building/Archery_Range">射箭場</a>
+                    <img class="gg" src="~assets/Acheryrangeicon.png" width="30" alt=""><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Stableicon.png" width="30" alt=""><a href="/building/Stable">馬廄</a>
+                    <img class="gg" src="~assets/Stableicon.png" width="30" alt=""><nuxt-link to="/building/Stable">馬廄</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Blacksmithicon.png" width="30" alt=""><a href="/building/Blacksmith">兵工廠</a>
+                    <img class="gg" src="~assets/Blacksmithicon.png" width="30" alt=""><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Marketicon.png" width="30" alt=""><a href="/building/Market">市場</a>
+                    <img class="gg" src="~assets/Marketicon.png" width="30" alt=""><nuxt-link to="/building/Market">市場</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><a href="/units/Watch_Tower">瞭望箭塔</a>
+                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Stonewallicon.png" width="30" alt=""><a href="/building/Stone_Wall">石牆</a>
+                    <img class="gg" src="~assets/Stonewallicon.png" width="30" alt=""><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Gateicon.png" width="30" alt=""><a href="/building/Gateicon_Gate">城門</a>
+                    <img class="gg" src="~assets/Gateicon.png" width="30" alt=""><nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4> 
+                 <h4><nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Castleicon.png" width="30" alt=""><a href="/building/Castle">城堡</a>
+                    <img class="gg" src="~assets/Castleicon.png" width="30" alt=""><nuxt-link to="/building/Castle">城堡</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Siegeworkshopicon.png" width="30" alt=""><a href="/building/Siege_Workshop">攻城武器製造所</a>
+                    <img class="gg" src="~assets/Siegeworkshopicon.png" width="30" alt=""><nuxt-link to="/building/Siege_Workshop">攻城武器製造所</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><a href="/units/Guard_Tower">防禦箭塔</a>
+                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Stonewallicon.png" width="30" alt=""><a href="/building/Fortified_Wall">垛牆</a>
+                    <img class="gg" src="~assets/Stonewallicon.png" width="30" alt=""><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Monasteryicon.png" width="30" alt=""><a href="/building/Monastery">修道院</a>
+                    <img class="gg" src="~assets/Monasteryicon.png" width="30" alt=""><nuxt-link to="/building/Monastery">修道院</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Universityicon.png" width="30" alt=""><a href="/building/University">學院</a>
+                    <img class="gg" src="~assets/Universityicon.png" width="30" alt=""><nuxt-link to="/building/University">學院</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Towncentericon.png" width="30" alt=""><a href="/building/Town_Center">城鎮中心</a>
+                    <img class="gg" src="~assets/Towncentericon.png" width="30" alt=""><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Dockicon.png" width="30" alt=""><a href="/building/Harbor">海港</a>(馬來限定)</li>
+                    <img class="gg" src="~assets/Dockicon.png" width="30" alt=""><nuxt-link to="/building/Harbor">海港</nuxt-link>(馬來限定)</li>
                 </ul>
               </div>
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><a href="/techsage/Imperial_Age"></a>帝王時代</h4> 
+                 <h4><nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Wondericon.png" width="30" alt=""><a href="/building/Wonder">世界奇觀</a>
+                    <img class="gg" src="~assets/Wondericon.png" width="30" alt=""><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><a href="/units/Keep">大型箭塔</a>
+                    <img class="gg" src="~assets/Watchtowericon.png" width="30" alt=""><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Bombardtowericon.png" width="30" alt=""><a href="/building/Bombard_Tower">火炮塔</a>
+                    <img class="gg" src="~assets/Bombardtowericon.png" width="30" alt=""><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Feitoriaicon.png" width="30" alt=""><a href="/building/Feitoriaicon_Feitoria">港灣大商站</a>(葡萄牙限定)</li>
+                    <img class="gg" src="~assets/Feitoriaicon.png" width="30" alt=""><nuxt-link to="/building/Feitoriaicon_Feitoria">港灣大商站</nuxt-link>(葡萄牙限定)</li>
                 </ul>
               </div>
             </div>
           </div>
           <p>更多村民可以更快地建造建築物。如果t是一個村民建造一個建築物所需的時間，n是村民使用的數量，那麼建築時間將是3t/(n+2)。這意味著第一位村民的建築速度是其他額外村民的三倍。所以，若要建造多個建築物，讓村民分散建築更有效率，除非要快速建造一座關鍵建築（如
-            <a
-            href="/building/Castle">城堡</a>或<a href="/building/Town_Center">城鎮中心</a>）。</p>
+            <nuxt-link to="/building/Castle">城堡</nuxt-link>或<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>）。</p>
           <h3>修復</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <p>村民可以修理建築物，攻城武器和船隻。這樣做可以節省資源。但是修復建築物可能會比建造一個新建築慢得多。村民可以從兩格遠的地方修理單位 - 這主要是為了修復船隻，也可以修理一個完全被圍牆包圍的建築，例如
-              <a
-              href="/units/Watch_Tower">箭塔</a>。</p>
+              <nuxt-link to="/units/Watch_Tower">箭塔</nuxt-link>。</p>
             <ul>
               <p>
                 <li>成本</li>
@@ -268,7 +265,7 @@
                 <li>速度</li>
               </p>
               <p>對於建築物來說，第一個村民將會每分鐘修復750點生命值，而任何額外的村民將會增加375點/分鐘（只有一半的速度）。無論建築類型，升級或原始生命值如何，這都是一樣的。
-                <li><a href="/techs/Treadmill_Crane">滑輪起重機</a>
+                <li><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>
                 </li>不影響修理速度。
                 <p>在大多數情況下，新建築的建築速度要快於修復工程，儘管成本較高（例如更換損壞的牆體部分），但建造新建築的速度可能會更快。
                   <p>攻城武器和船艦的修理速度是建築物速度的25％，所以第一個村民是187.5 HP /分鐘，任何額外的村民將加上93.75 HP /分鐘。</p>
@@ -285,9 +282,8 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">大多數<a href="/building/bulding">建築物</a>，<a href="/units/Skirmisher">矛兵</a>，<a href="/units/Battering_Ram">衝撞車</a>系，
-                <a
-                href="/units/Spearman">長槍兵</a>，<a href="/units/Trebuchet">投石機</a>。</td>
+              <td class="tta4">大多數<nuxt-link to="/building/bulding">建築物</nuxt-link>，<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>，<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>系，
+                <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>，<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -295,7 +291,7 @@
             </tr>
             <tr class="tta">
               <td class="tta4" colspan="2" style="text-align: center;">
-                <div class="unititle2"><a href="#">升級</a>
+                <div class="unititle2"><nuxt-link to="#">升級</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -303,11 +299,11 @@
               <td class="tta1" style="width:10%">攜帶能力</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="~assets/Wheelbarrow.jpg" width="30" alt=""><a href="/techs/Wheelbarrow">獨輪推車</a>(+3)</p>
+                  <img class="gg" src="~assets/Wheelbarrow.jpg" width="30" alt=""><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>(+3)</p>
                 <p>
-                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><a href="/Hand_Cart.php">手推車</a>(+7)</p>
+                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><nuxt-link to="/Hand_Cart.php">手推車</nuxt-link>(+7)</p>
                 <p>
-                  <img class="gg" src="~assets/Heavyplow.jpg" width="30" alt=""><a href="/techs/Heavy_Plow">重犁</a>(+1)(食物限定)</p>
+                  <img class="gg" src="~assets/Heavyplow.jpg" width="30" alt=""><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>(+1)(食物限定)</p>
               </td>
             </tr>
             <tr>
@@ -315,144 +311,144 @@
               <td class="tta4">
                 <li>木材:</li>
                 <p>
-                  <img class="gg" src="~assets/Doublebitaxe.jpg" width="30" alt=""><a href="/techs/Double-Bit_Axe">雙刃斧</a>(+20%)</p>
+                  <img class="gg" src="~assets/Doublebitaxe.jpg" width="30" alt=""><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>(+20%)</p>
                 <p>
-                  <img class="gg" src="~assets/Bowsaw.jpg" width="30" alt=""><a href="/techs/Bow_Saw">弓鋸</a>(+20%)</p>
+                  <img class="gg" src="~assets/Bowsaw.jpg" width="30" alt=""><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link>(+20%)</p>
                 <p>
-                  <img class="gg" src="~assets/Twomansaw.jpg" width="30" alt=""><a href="/techs/Two-Man_Saw">雙人鋸</a>(+10%)</p>
+                  <img class="gg" src="~assets/Twomansaw.jpg" width="30" alt=""><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link>(+10%)</p>
                 <li>石頭:</li>
                 <p>
-                  <img class="gg" src="~assets/Stonemining.jpg" width="30" alt=""><a href="/techs/Stone_Mining">採石技術</a>(+15%)</p>
+                  <img class="gg" src="~assets/Stonemining.jpg" width="30" alt=""><nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link>(+15%)</p>
                 <p>
-                  <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" width="30" alt=""><a href="/techs/Stone_Shaft_Mining">礦井採石</a>(+15%)</p>
+                  <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" width="30" alt=""><nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>(+15%)</p>
                 <li>黃金:</li>
                 <p>
-                  <img class="gg" src="~assets/Goldmining.jpg" width="30" alt=""><a href="/techs/Gold_Mining">採金技術</a>(+15%)</p>
+                  <img class="gg" src="~assets/Goldmining.jpg" width="30" alt=""><nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link>(+15%)</p>
                 <p>
-                  <img class="gg" src="~assets/Goldshaftmining.jpg" width="30" alt=""><a href="/techs/Gold_Shaft_Mining">礦井採金</a>(+15%)</p>
+                  <img class="gg" src="~assets/Goldshaftmining.jpg" width="30" alt=""><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>(+15%)</p>
                 <p>
-                  <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><a href="/techs/Sultans">蘇丹</a>(+10%，<a href="/civs/Indians">印度</a>限定)</p>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" width="30" alt=""><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link>(+10%，<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="~assets/Loom.jpg" width="30" alt=""><a href="/techs/Loom">織布技術</a>(+15)</p>
+                  <img class="gg" src="~assets/Loom.jpg" width="30" alt=""><nuxt-link to="/techs/Loom">織布技術</nuxt-link>(+15)</p>
                 <p>
-                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Supremacy">霸權</a>(+40，<a href="/civs/Spanish">西班牙</a>限定)</p>
+                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Supremacy">霸權</nuxt-link>(+40，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="~assets/Sappers.jpg" width="30" alt=""><a href="/techs/Sappers">坑道工兵</a>(攻擊建築物和防禦工事造成的傷害+15)</p>
+                  <img class="gg" src="~assets/Sappers.jpg" width="30" alt=""><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>(攻擊建築物和防禦工事造成的傷害+15)</p>
                 <p>
-                  <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="/techs/Forging">鍛造</a>(+1，<a href="/civs/Incas">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</p>
                 <p>
-                  <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="/techs/Iron_Casting">鑄造</a>(+1，<a href="/civs/Incas">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</p>
                 <p>
-                  <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="/techs/Blast_Furnace">鼓風爐</a>(+1，<a href="/civs/Incas">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</p>
                 <p>
-                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Supremacy">霸權</a>(+6，<a href="/civs/Spanish">西班牙</a>限定)</p>
+                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Supremacy">霸權</nuxt-link>(+6，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="~assets/Loom.jpg" width="30" alt=""><a href="/techs/Loom">織布技術</a>(+1/+2)</p>
+                  <img class="gg" src="~assets/Loom.jpg" width="30" alt=""><nuxt-link to="/techs/Loom">織布技術</nuxt-link>(+1/+2)</p>
                 <p>
-                  <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="/techs/Scale_Mail_Armor">步兵鱗甲</a>(+1/+1，<a href="/civs/Incas">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link>(+1/+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</p>
                 <p>
-                  <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="/techs/Chain_Mail_Armor">步兵鎖甲</a>(+1/+1，<a href="/civs/Incas">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link>(+1/+1，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</p>
                 <p>
-                  <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="/techs/Plate_Mail_Armor">步兵板甲</a>(+1/+2，<a href="/civs/Incas">印加</a>限定)</p>
+                  <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><nuxt-link to="/techs/Plate_Mail_Armor">步兵板甲</nuxt-link>(+1/+2，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</p>
                 <p>
-                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Supremacy">霸權</a>(+2/+2，<a href="/civs/Spanish">西班牙</a>限定)</p>
+                  <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Supremacy">霸權</nuxt-link>(+2/+2，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="~assets/Wheelbarrow.jpg" width="30" alt=""><a href="/techs/Wheelbarrow">獨輪推車</a>(+10%)</p>
+                  <img class="gg" src="~assets/Wheelbarrow.jpg" width="30" alt=""><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>(+10%)</p>
                 <p>
-                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><a href="/Hand_Cart.php">手推車</a>(+10%)</p>
+                  <img class="gg" src="~assets/Handcart.jpg" width="30" alt=""><nuxt-link to="/Hand_Cart.php">手推車</nuxt-link>(+10%)</p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
                 <p>
-                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                 </p>
                 <p>
-                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a>
+                  <img class="gg" src="~assets/Heresy.png" width="30" alt=""><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
                 </p>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">其他</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="/techs/Treadmill_Crane">滑輪起重機</a>(建築速度加快30%)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>(建築速度加快30%)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Aztecs">阿茲特克</a>：村民攜帶+5。</li>
-              <li><a href="/civs/Berbers">柏柏爾</a>：村民移動速度提高了10％。</li>
-              <li><a href="/civs/Britons">不列顛</a>：牧羊人工作速度提高了25％。</li>
-              <li><a href="/civs/Celts">賽爾特</a>：伐木工工作速度提高15％。即使其他玩家的單位在旁邊，村民也可以取得其他玩家的牲畜。</li>
-              <li><a href="/civs/Chinese">中國</a>：開始有6村民，但少200食物和50木材。。</li>
-              <li><a href="/civs/Franks">法蘭克</a>：漿果收集員工作速度提高了25％。</li>
-              <li><a href="/civs/Goths">哥德</a>：獵人攻擊野豬和野生大象時+5傷害，可多攜帶15食物。</li>
-              <li><a href="/civs/Indians">印度</a>：在黑暗/封建/城堡/帝王時代，村民便宜5％/ 10％/ 15％/ 20％。漁夫收集速度提高15％，且可多攜帶15食物。。</li>
-              <li><a href="/civs/Khmer">高棉</a>：村民可以駐守在房屋內。。</li>
-              <li><a href="/civs/Koreans">韓國</a>：村民視線+3。礦工收集石頭快20％。建築速度快25％ 。</li>
-              <li><a href="/civs/Magyars">馬札爾</a>：村民一擊殺死猛獸。</li>
-              <li><a href="/civs/Mayans">瑪雅</a>：開始多1村民，但是少50食物。自然資源可收集時間延長15%。</li>
-              <li><a href="/civs/Mongols">蒙古</a>：獵人收集速度提高50％。</li>
-              <li><a href="/civs/Persians">波斯</a>：在封建/城堡/帝王時代，村民的創造速度提高了10％/ 15％/ 20％。</li>
-              <li><a href="/civs/Slavs">斯拉夫</a>：農夫收集速度提高15%。</li>
-              <li><a href="/civs/Spanish">西班牙</a>：建築速度提高30%</li>
-              <li><a href="/civs/Turks">土耳其</a>：礦工收集黃金速度提高20%。</li>
-              <li><a href="/civs/Vikings">維京</a>：免費獨輪推車與手推車。</li>
-              <li><a href="/civs/Incas">印加</a>：村民攻擊與防禦隨著兵工廠升級。</li>
+              <li><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：村民攜帶+5。</li>
+              <li><nuxt-link to="/civs/Berbers">柏柏爾</nuxt-link>：村民移動速度提高了10％。</li>
+              <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>：牧羊人工作速度提高了25％。</li>
+              <li><nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：伐木工工作速度提高15％。即使其他玩家的單位在旁邊，村民也可以取得其他玩家的牲畜。</li>
+              <li><nuxt-link to="/civs/Chinese">中國</nuxt-link>：開始有6村民，但少200食物和50木材。。</li>
+              <li><nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：漿果收集員工作速度提高了25％。</li>
+              <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>：獵人攻擊野豬和野生大象時+5傷害，可多攜帶15食物。</li>
+              <li><nuxt-link to="/civs/Indians">印度</nuxt-link>：在黑暗/封建/城堡/帝王時代，村民便宜5％/ 10％/ 15％/ 20％。漁夫收集速度提高15％，且可多攜帶15食物。。</li>
+              <li><nuxt-link to="/civs/Khmer">高棉</nuxt-link>：村民可以駐守在房屋內。。</li>
+              <li><nuxt-link to="/civs/Koreans">韓國</nuxt-link>：村民視線+3。礦工收集石頭快20％。建築速度快25％ 。</li>
+              <li><nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>：村民一擊殺死猛獸。</li>
+              <li><nuxt-link to="/civs/Mayans">瑪雅</nuxt-link>：開始多1村民，但是少50食物。自然資源可收集時間延長15%。</li>
+              <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：獵人收集速度提高50％。</li>
+              <li><nuxt-link to="/civs/Persians">波斯</nuxt-link>：在封建/城堡/帝王時代，村民的創造速度提高了10％/ 15％/ 20％。</li>
+              <li><nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：農夫收集速度提高15%。</li>
+              <li><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：建築速度提高30%</li>
+              <li><nuxt-link to="/civs/Turks">土耳其</nuxt-link>：礦工收集黃金速度提高20%。</li>
+              <li><nuxt-link to="/civs/Vikings">維京</nuxt-link>：免費獨輪推車與手推車。</li>
+              <li><nuxt-link to="/civs/Incas">印加</nuxt-link>：村民攻擊與防禦隨著兵工廠升級。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Britons">印加</a>：農田建造速度加快50%。</li>
-              <li><a href="/civs/Malians">條頓</a>：村民更不容易被招降。</li>
+              <li><nuxt-link to="/civs/Britons">印加</nuxt-link>：農田建造速度加快50%。</li>
+              <li><nuxt-link to="/civs/Malians">條頓</nuxt-link>：村民更不容易被招降。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
+            <h3><em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em></h3>
             <ul>
               <li>村民對箭塔、牆與城堡有+3的攻擊。</li>
               <li>土耳其的村民挖金速度快15％。</li>
             </ul>
-            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
+            <h3><em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em></h3>
             <ul>
               <li>村民對箭塔、牆與城堡有+6的攻擊。</li>
               <li>韓國村民最初有+2視野，1.0c後變成+3視野。</li>
               <li>馬雅人有20％的資源額外採集量。</li>
             </ul>
-            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
+            <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
               <li>村民現在可以駐進衝撞車。</li>
               <li>馬雅村民有15％的額外資源採集量。</li>
               <li>韓國村民蓋箭塔與城堡快25％。</li>
             </ul>
-            <h3><em><a href="/games/ak">非洲王國</a></em></h3>
+            <h3><em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em></h3>
             <ul>
               <li>土耳其村民採金快20。</li>
             </ul>
@@ -462,9 +458,8 @@
           <div class="n1">
             <ul>
               <li>村民是遊戲中唯一有分男女的單位。</li>
-              <li>村民是遊戲中三個有多種3D模組的單位之一，村民有兩個3D模組(男與女)，另兩個是<a href="/units/Monk">僧侶</a>(正常與撿拾遺跡)和
-                <a
-                href="/units/Trade_Cart">貿易車隊</a>(正常與有貨物)。</li>
+              <li>村民是遊戲中三個有多種3D模組的單位之一，村民有兩個3D模組(男與女)，另兩個是<nuxt-link to="/units/Monk">僧侶</nuxt-link>(正常與撿拾遺跡)和
+                <nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>(正常與有貨物)。</li>
               <li>男性和女性村民在戰鬥與收集時使用不同的武器。男村民使用匕首而女村民使用刀。</li>
               <li>女性村民是遊戲中僅有的兩個常規女性單位之一，另一個是飛刀女獵手。</li>
               <li>村民只有25個基本生命值，是所有單位中最低的。</li>
@@ -474,11 +469,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="/img/Villagerfemale.png"><img class="imgn hg" src="~assets/Villagerfemale.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Villagerfemale.png"><img class="imgn hg" src="~assets/Villagerfemale.png" alt=""></nuxt-link> 
                 <p><em>女村民</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="/img/Villagermale.png"><img class="imgn hg" src="~assets/Villagermale.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Villagermale.png"><img class="imgn hg" src="~assets/Villagermale.png" alt=""></nuxt-link> 
                 <p><em>男村民</em>
                 </p>
               </div>
@@ -506,7 +501,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="#">村民</a>
+              <td class="unit4"><nuxt-link to="#">村民</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -515,12 +510,12 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="/techsage/Imperial_Age">黑暗時代</a>
+              <td class="unit4"><nuxt-link to="/techsage/Imperial_Age">黑暗時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
-              <td class="unit4"><a href="/building/Town_Center">城鎮中心</a>
+              <td class="unit4"><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
               </td>
             </tr>
             <tr>

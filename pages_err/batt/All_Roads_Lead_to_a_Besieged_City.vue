@@ -61,21 +61,21 @@
                 "> <ul><li>玩家扮演阿拉里克，營地在東邊。在這次戰役中，玩家不應該嘗試進入羅馬，太危險了，只要在羅馬城外圍完成任務就好。第一個任務就是摧毀河岸南邊的三座羅馬箭塔。</li><li>玩家可以在河岸的東邊搜索到一些難民(大地之母單位)來為玩家奮戰，玩家偶爾會在地圖上遇見羅馬軍團，而北方有一支難民被羅馬軍團挾持。</li><li>一座箭塔就在河岸東邊，但是另外兩個卻在西邊，玩家必須走北方來穿越河流(不走橋，走橋南端的一座小島)。路上，跟箭塔不同地方，玩家會遭遇到羅馬的修道院，摧毀它會得到僧侶。玩家摧毀兩座箭塔前會遭到羅馬軍團的抵抗。在失落的帝國原版MOD裡面，  摧毀三座箭塔之後，玩家必須把阿拉里克帶到河岸西邊的碼頭。</li><li>摧毀三座箭塔後，阿拉里克必須會見南方的哥德士兵，然後玩家就會獲得他們全部。玩家必須打倒在哥德營地前的所有羅馬軍團。之後，玩家必須把阿拉里克帶到哥德營地西北方的市集，然後市集就會被哥德控制。羅馬軍團會開始攻擊市集，打倒他們後，戰役即勝利。</li></ul><h2>趣事</h2><div class="hrn1 "></div><div class="n1
                 "> <ul>  <li>戰役裡的阿拉里克一世其實是從地圖編輯器裡面的哥德人狄奧多利克改名而來。</li><li>原版非官方的失落帝國版本裡，玩家在地圖最北方會有一個強弩兵，用來防止玩家過早被擊敗。(就像成吉思汗戰役第一關嚴酷的考驗一樣)。</li><li>戰役名稱來源於名言:條條大路通羅馬。</li><li>這個戰役的歷史背景是遊戲中最早的。</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="/
-                ">條條大路通圍城</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 1.jpg " width="
+                ">       <div class="unititle "><nuxt-link to="/
+                ">條條大路通圍城</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 1.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><nuxt-link to="/ ">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">失落的帝國</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">阿拉里克</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href="/ ">哥德人</a></td>      </tr>
+                ">文明</td>       <td class="unit4 "><nuxt-link to="/ ">哥德人</nuxt-link></td>      </tr>
 <tr><td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/
-                ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
+                "><nuxt-link to="/
+                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">失落帝國第一章之一</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4
-                ">       <a href=>N/A</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/Legionaries_on_the_Horizon!.php
-                ">羅馬軍團隨時殺到</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div> <div class="row
+                ">       <a href=>N/A</nuxt-link>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <nuxt-link to="/Legionaries_on_the_Horizon!.php
+                ">羅馬軍團隨時殺到</nuxt-link>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div> <div class="row
                 ">  <div class="col-md-12
                 ">  </div></div>      </div>    
         

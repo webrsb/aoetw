@@ -11,9 +11,9 @@
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是說關於英雄:塔里克·伊本·齊亞德這個遊戲單位。而關於塔里克·伊本·齊亞德請見<a
-              href="/batt/Tariq_ibn_Ziyada"
-              >塔里克·伊本·齊亞德(戰役)</a
+            >這篇文章是說關於英雄:塔里克·伊本·齊亞德這個遊戲單位。而關於塔里克·伊本·齊亞德請見<nuxt-link
+              to="/batt/Tariq_ibn_Ziyada"
+              >塔里克·伊本·齊亞德(戰役)</nuxt-link
             ></em
           >
         </div>
@@ -41,7 +41,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">塔里克·伊本·齊亞德</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">塔里克·伊本·齊亞德</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -59,7 +61,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="#">騎兵<br />弓箭手<br />英雄</a>
+              <nuxt-link to="#">騎兵<br />弓箭手<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -143,7 +145,7 @@
               <i
                 ><strong
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E5%A1%94%E9%87%8C%E5%85%8B%C2%B7%E4%BC%8A%E6%9C%AC%C2%B7%E9%BD%8A%E4%BA%9E%E5%BE%B7"
+                    href="https://zh.wikipedia.org/wiki/%E5%A1%94%E9%87%8C%E5%85%8B%C2%B7%E4%BC%8A%E6%9C%AC%C2%B7%E9%BD%8A%E4%BA%9E%E5%BE%B7"
                     >塔里克·伊本·齊亞德</a
                   ></strong
                 ></i

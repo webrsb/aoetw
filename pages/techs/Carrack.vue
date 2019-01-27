@@ -11,12 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            克拉克帆船是<a href="/civs/Portuguese">葡萄牙</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Naval_Vessels"
-              >船隻</a
+            克拉克帆船是<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
             >護甲+1/+1。
           </p>
         </div>
@@ -26,7 +26,7 @@
           <ul>
             <li>
               葡萄牙人因為他們的文明加成(船隻生命值+10%)使他們的船是遊戲中數一數二的。在開放海圖上水戰是家常便飯的事，克拉克帆船可有效幫助葡萄牙玩家提升艦隊實力。然而考慮到黃金成本
-              <a href="/techs/Careening">傾側維修術</a
+              <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
               >還是得優先研發的，克拉克帆船搭配傾側維修術讓葡萄牙的艦隊得到實質性的提升，使得葡萄牙海軍在遊戲中可以更彈性的面對各種戰況。
             </li>
           </ul>
@@ -36,8 +36,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速克拉克帆船的研究時間(快25%)。
             </li>
           </ul>
@@ -47,7 +48,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">克拉克帆船</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">克拉克帆船</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -59,28 +62,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Portuguese">葡萄牙</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -90,7 +98,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -103,7 +111,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

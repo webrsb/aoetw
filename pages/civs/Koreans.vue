@@ -73,14 +73,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/kor">韓國科技樹</a></em>
+          <em><nuxt-link to="/tree/kor">韓國科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>龜甲船便宜-10%(100w/180g)。</li>
@@ -90,7 +90,7 @@
             <li>團隊加分改為，投石車最短射程縮小。</li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>龜甲船不再需要城堡。</li>
@@ -100,7 +100,7 @@
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>現在蓋垛牆也很快了。</li>
@@ -126,9 +126,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/EastAsian.jpg"
+              <nuxt-link to="/img/EastAsian.jpg"
                 ><img class="imgn hg" src="~assets/EastAsian.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>東亞建築</em></p>
             </div>
           </div>
@@ -138,7 +138,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="#">韓國</a></div>
+              <div class="unititle"><nuxt-link to="#">韓國</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -151,7 +151,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -10,34 +10,32 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>希臘之火是<a href="/civs/Byzantines">拜占庭</a>的特殊科技，可於<a href="/techsage/Castle_Age">城堡時代</a>在
-              <a
-              href="/building/Castle">城堡</a>研發。研發後<a href="/units/Fire_Ship">火戰船</a>射程+1。</p>
+            <p>希臘之火是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>的特殊科技，可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在
+              <nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>射程+1。</p>
           </div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>希臘之火可讓拜占庭的<a href="/units/Fire_Ship">火戰船</a>擁有+40%更遠的開火距離(一般為2.49)。這不僅讓火戰船能更有效地摧毀
-                <a
-                href="/units/Galleon">重型弩炮戰船</a>，同時也能夷平那些<a href="/units/Cannon_Galleon">火炮戰船</a>不能應付的沿岸基礎設施。希臘之火也讓火戰船在淺灘上對陸地單位的攻擊更加致命。</li>
+              <li>希臘之火可讓拜占庭的<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>擁有+40%更遠的開火距離(一般為2.49)。這不僅讓火戰船能更有效地摧毀
+                <nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>，同時也能夷平那些<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>不能應付的沿岸基礎設施。希臘之火也讓火戰船在淺灘上對陸地單位的攻擊更加致命。</li>
             </ul>
           </div>
           <h3>團隊加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠加速希臘之火的研究時間(快25%)。</li>
+              <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠加速希臘之火的研究時間(快25%)。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
+            <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
               <li>希臘之火成本為：250F/450G。</li>
             </ul>
-            <h3><em><a href="/games/ak">非洲王朝</a></em></h3>
+            <h3><em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em></h3>
             <ul>
               <li>4.8改版後希臘之火成本改為：250F/300G。</li>
             </ul>
@@ -62,7 +60,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="#">希臘之火</a>
+                <div class="unititle"><nuxt-link to="#">希臘之火</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -75,25 +73,25 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">科技介紹</a>
+                <div class="unititle2"><nuxt-link to="#">科技介紹</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Byzantines">拜占庭</a>
+              <td class="unit4"><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="/building/Castle">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" alt=""><nuxt-link to="/building/Castle">城堡</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -102,7 +100,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">成本</a>
+                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -116,7 +114,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">影響</a>
+                <div class="unititle2"><nuxt-link to="#">影響</nuxt-link>
                 </div>
               </td>
             </tr>

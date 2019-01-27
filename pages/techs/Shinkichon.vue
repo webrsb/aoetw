@@ -11,14 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            神機箭是<a href="/civs/Koreans">韓國</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Mangonel"
-              >輕型投石車</a
-            >、<a href="/units/Onager">中型投石車</a>和
-            <a href="/Siege_units/Onager">重型投石車</a>射程+1。
+            神機箭是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
+            >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>和
+            <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>射程+1。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,11 +26,11 @@
         <div class="n1">
           <ul>
             <li>
-              如果韓國玩家在戰場上使用投石車那研發神機箭可以讓他們的攻擊範圍勝過幾乎所有的弓兵及大部分的攻程單位。同時他們不會再被<a
-                href="/units/Galleon"
-                >重型弩炮戰船</a
+              如果韓國玩家在戰場上使用投石車那研發神機箭可以讓他們的攻擊範圍勝過幾乎所有的弓兵及大部分的攻程單位。同時他們不會再被<nuxt-link
+                to="/units/Galleon"
+                >重型弩炮戰船</nuxt-link
               >射爽爽，這在某些海島地圖上非常有價制。研發
-              <a href="/techs/Siege_Engineers">攻城工程師</a
+              <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >後的韓國投石車是遊戲中最可怕的攻城武器之一。
             </li>
           </ul>
@@ -40,8 +40,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速神機箭的研究時間(快25%)。
             </li>
           </ul>
@@ -50,7 +51,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>神機箭給投石車系攻擊距離+2。</li>
@@ -69,7 +70,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">神機箭</a></div>
+              <div class="unititle"><nuxt-link to="#">神機箭</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -81,12 +82,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Koreans">韓國</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -95,15 +100,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -113,7 +118,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -126,7 +131,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

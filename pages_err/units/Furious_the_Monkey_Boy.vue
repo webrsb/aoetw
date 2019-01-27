@@ -36,7 +36,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                  <div class="unititle"><a href="#">狂猴</a>
+                  <div class="unititle"><nuxt-link to="#">狂猴</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -54,7 +54,7 @@
               </tr>
               <tr>
                 <td class="unit3">類型</td>
-                <td class="unit4"><a href="/units/Gunpowder_Unit">平民</a>
+                <td class="unit4"><nuxt-link to="/units/Gunpowder_Unit">平民</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -76,7 +76,7 @@
               </tr>
               <tr>
                 <td class="unit3">攻擊加成</td>
-                <td>+999對 <a href="/building/bulding">建築</a>
+                <td>+999對 <nuxt-link to="/building/bulding">建築</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -93,7 +93,7 @@
                 <td class="unit4">99</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="/Armor_Class.php">防禦類型</a>
+                <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
                 </td>
                 <td class="unit4">無
                   <td>
@@ -104,7 +104,7 @@
                 <td class="unit4">0.99</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="/los.php">視野</a>
+                <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link>
                 </td>
                 <td class="unit4">12</td>
               </tr>

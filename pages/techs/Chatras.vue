@@ -11,12 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            恰特拉傘是<a href="/civs/Vietnamese">越南</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/Ballista_unitsanimal/Elephant"
-              >矛象伕</a
+            恰特拉傘是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/Ballista_unitsanimal/Elephant"
+              >矛象伕</nuxt-link
             >+50 HP。
           </p>
         </div>
@@ -25,15 +26,19 @@
         <div class="n1">
           <ul>
             <li>
-              恰特拉傘讓<a href="/Ballista_unitsanimal/Elephant">矛象伕</a
-              >變得更坦，可以充當越南<a href="/units/Archer_Units"></a
+              恰特拉傘讓<nuxt-link to="/Ballista_unitsanimal/Elephant"
+                >矛象伕</nuxt-link
+              >變得更坦，可以充當越南<nuxt-link
+                to="/units/Archer_Units"
+              ></nuxt-link
               >弓兵的肉盾。一個全升級有
-              <a href="/techs/Bloodlines">血統</a
-              >和恰特拉傘的精銳矛象伕有350HP，僅輸給<a
-                href="/War_unitsanimal/Elephant"
-                >波斯戰象</a
+              <nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+              >和恰特拉傘的精銳矛象伕有350HP，僅輸給<nuxt-link
+                to="/War_unitsanimal/Elephant"
+                >波斯戰象</nuxt-link
               >（620HP），並與
-              <a href="/Elephant_units/Archer">象弓騎兵</a>（350HP）並列。
+              <nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link
+              >（350HP）並列。
             </li>
           </ul>
         </div>
@@ -42,8 +47,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速恰特拉傘的研究時間(快25%)。
             </li>
           </ul>
@@ -52,11 +58,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              最初恰特拉傘給予<a href="/Ballista_unitsanimal/Elephant">矛象伕</a
+              最初恰特拉傘給予<nuxt-link to="/Ballista_unitsanimal/Elephant"
+                >矛象伕</nuxt-link
               >+30 HP，5.7改版後增加為+50 HP。
             </li>
           </ul>
@@ -66,7 +73,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">恰特拉傘</a></div>
+              <div class="unititle"><nuxt-link to="#">恰特拉傘</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -78,28 +85,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Vietnamese">越南</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -109,7 +121,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -122,7 +134,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

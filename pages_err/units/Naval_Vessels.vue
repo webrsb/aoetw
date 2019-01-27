@@ -17,39 +17,35 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>所有海軍船隻移動速度都很快，擁有高遠程裝甲和高HP。 因此，幾乎所有的船隻都能夠在海岸線上與陸上單位作戰，他們可以對近戰單位打帶跑；對遠程單位使用遠程攻擊並且具備良好的抗炮火能力。但是攻城武器和僧侶是他們的弱點。船隻對建築物都有攻擊加成，這使得他們是相當好清除海岸線的突襲單位，但是防禦性建築也對船隻有額外傷害加成，所以只有能從安全距離轟炸時才去攻擊這些建築。</p>
-            <p>所有的船隻都在碼頭訓練，並花費木材和黃金。黑暗時代的<a href="/units/Fishing_Ship">漁船</a>和<a href="/units/Transport_Ship">運輸船</a>只花費木材。</p>
+            <p>所有的船隻都在碼頭訓練，並花費木材和黃金。黑暗時代的<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>和<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>只花費木材。</p>
           </div>
           <h3>海軍文明</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p><a href="/civs/Berbers">柏柏</a>、<a href="/civs/Byzantines">拜占庭</a>、<a href="/civs/Koreans">韓國</a>、
-              <a
-              href="/civs/Malay">馬來</a>、<a href="/civs/Portuguese">葡萄牙</a>、<a href="/civs/Saracens">薩拉森</a>、
-                <a
-                href="/civs/Spanish">西班牙</a>和<a href="/civs/Vikings">維京</a>是最好的海軍文明。</p>
-            <p><a href="/civs/Byzantines">拜占庭</a>和<a href="/civs/Spanish">西班牙</a>是唯二有全船隻和碼頭相關科技的文明。</p>
+            <p><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+                <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>和<nuxt-link to="/civs/Vikings">維京</nuxt-link>是最好的海軍文明。</p>
+            <p><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>是唯二有全船隻和碼頭相關科技的文明。</p>
           </div>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <p>以下列出海軍有加成的文明</p>
             <ul>
-              <li><a href="/civs/Berbers">柏柏</a>：船隻移動速度快10%。</li>
-              <li><a href="/civs/Byzantines">拜占庭</a>：<a href="/units/Fire_Ship">火戰船</a>開火速率快20%。</li>
-              <li><a href="/civs/Chinese">中國</a>：<a href="/units/Demolition_Ship">神風船</a>+50%
+              <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：船隻移動速度快10%。</li>
+              <li><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>開火速率快20%。</li>
+              <li><nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>+50%
                 HP。</li>
-              <li><a href="/civs/Italians">義大利</a>：碼頭科技便宜50%；漁船便宜20%。</li>
-              <li><a href="/civs/Japanese">日本</a>:漁船生命值加倍、+2遠程護甲、工作速率在黑暗/封建/城堡/帝王+5%/+10%/+15%/+20%。</li>
-              <li><a href="/civs/Malay">馬來</a>：漁船造價便宜33%。</li>
-              <li><a href="/civs/Persians">波斯</a>：碼頭有雙倍生命值並且在封建/城堡/帝王得工作速度+10%/+15%/+20%。</li>
-              <li><a href="/civs/Portuguese">葡萄牙</a>：船隻HP+10%。</li>
-              <li><a href="/civs/Saracens">薩拉森</a>：<a href="/units/Transport_Ship">運輸船</a>生命值加倍以及多5的載運量；
-                <a
-                href="/units/Galley">戰船</a>開火速率快20%。</li>
-              <li><a href="/civs/Spanish">西班牙</a>:<a href="/units/Cannon_Galleon">火炮戰船</a>有
-                <a
-                href="/techs/Ballistics">彈道學</a>加成。</li>
-              <li><a href="/civs/Vikings">維京</a>:<a href="/units/Galley">戰船</a>在封建/城堡/帝王造價便宜15%/15%/20%。</li>
+              <li><nuxt-link to="/civs/Italians">義大利</nuxt-link>：碼頭科技便宜50%；漁船便宜20%。</li>
+              <li><nuxt-link to="/civs/Japanese">日本</nuxt-link>:漁船生命值加倍、+2遠程護甲、工作速率在黑暗/封建/城堡/帝王+5%/+10%/+15%/+20%。</li>
+              <li><nuxt-link to="/civs/Malay">馬來</nuxt-link>：漁船造價便宜33%。</li>
+              <li><nuxt-link to="/civs/Persians">波斯</nuxt-link>：碼頭有雙倍生命值並且在封建/城堡/帝王得工作速度+10%/+15%/+20%。</li>
+              <li><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：船隻HP+10%。</li>
+              <li><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>生命值加倍以及多5的載運量；
+                <nuxt-link to="/units/Galley">戰船</nuxt-link>開火速率快20%。</li>
+              <li><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>有
+                <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。</li>
+              <li><nuxt-link to="/civs/Vikings">維京</nuxt-link>:<nuxt-link to="/units/Galley">戰船</nuxt-link>在封建/城堡/帝王造價便宜15%/15%/20%。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
@@ -57,9 +53,9 @@
           <div class="n1">
             <p>以下列出海軍的團隊加成</p>
             <ul>
-              <li><a href="/civs/Japanese">日本</a>：<a href="/units/Galley">戰船</a>視野+50%。</li>
-              <li><a href="/civs/Khmer">高棉</a>：<a href="/units/Trade_Cog">貿易商旅</a>每趟黃金多50%。</li>
-              <li><a href="/civs/Koreans">韓國</a>：碼頭便宜15%。</li>
+              <li><nuxt-link to="/civs/Japanese">日本</nuxt-link>：<nuxt-link to="/units/Galley">戰船</nuxt-link>視野+50%。</li>
+              <li><nuxt-link to="/civs/Khmer">高棉</nuxt-link>：<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link>每趟黃金多50%。</li>
+              <li><nuxt-link to="/civs/Koreans">韓國</nuxt-link>：碼頭便宜15%。</li>
             </ul>
           </div>
           <h3>海軍單位</h3>
@@ -78,7 +74,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/FishingShipIcon.jpg"><a href="/units/Fishing_Ship">漁船</a>
+                  <img class="gg" src="~assets/FishingShipIcon.jpg"><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>
                 </td>
                 <td class="tta3">60</td>
                 <!--生命值!-->
@@ -97,7 +93,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/TransportShipIcon.jpg"><a href="/units/Transport_Ship">運輸船</a>
+                  <img class="gg" src="~assets/TransportShipIcon.jpg"><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>
                 </td>
                 <td class="tta3">100</td>
                 <!--生命值!-->
@@ -116,7 +112,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/TradeCogIcon.jpg"><a href="/units/Trade_Cog">貿易商旅</a>
+                  <img class="gg" src="~assets/TradeCogIcon.jpg"><nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link>
                 </td>
                 <td class="tta3">80</td>
                 <!--生命值!-->
@@ -135,7 +131,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/Galley.jpg"><a href="/units/Galley">戰船</a>
+                  <img class="gg" src="~assets/Galley.jpg"><nuxt-link to="/units/Galley">戰船</nuxt-link>
                 </td>
                 <td class="tta3">120</td>
                 <!--生命值!-->
@@ -154,7 +150,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/WarGalley.jpg"><a href="/War_units/Galley">弩炮戰船</a>
+                  <img class="gg" src="~assets/WarGalley.jpg"><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
                 </td>
                 <td class="tta3">135</td>
                 <!--生命值!-->
@@ -173,7 +169,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/GalleonAoE2.jpg"><a href="/units/Galleon">重型弩炮戰船</a>
+                  <img class="gg" src="~assets/GalleonAoE2.jpg"><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
                 </td>
                 <td class="tta3">165</td>
                 <!--生命值!-->
@@ -192,7 +188,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/FireGalleyIcon.jpg"><a href="/units/Fire_Galley">火蒙衝</a>
+                  <img class="gg" src="~assets/FireGalleyIcon.jpg"><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>
                 </td>
                 <td class="tta3">100</td>
                 <!--生命值!-->
@@ -211,7 +207,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/FireShipIcon.jpg"><a href="/units/Fire_Ship">火戰船</a>
+                  <img class="gg" src="~assets/FireShipIcon.jpg"><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>
                 </td>
                 <td class="tta3">120</td>
                 <!--生命值!-->
@@ -230,7 +226,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/FastFireShipIcon.jpg"><a href="/units/Fast_Fire_Ship">快速火戰船</a>
+                  <img class="gg" src="~assets/FastFireShipIcon.jpg"><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
                 </td>
                 <td class="tta3">140</td>
                 <!--生命值!-->
@@ -249,7 +245,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/DemoRaftIcon.jpg"><a href="/units/Demolition_Raft">自爆筏</a>
+                  <img class="gg" src="~assets/DemoRaftIcon.jpg"><nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link>
                 </td>
                 <td class="tta3">45</td>
                 <!--生命值!-->
@@ -268,7 +264,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/DemoShipIcon.jpg"><a href="/units/Demolition_Ship">神風船</a>
+                  <img class="gg" src="~assets/DemoShipIcon.jpg"><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>
                 </td>
                 <td class="tta3">60</td>
                 <!--生命值!-->
@@ -287,7 +283,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/HeavyDemoShipIcon.jpg"><a href="/Heavy_units/Demolition_Ship">重型神風船</a>
+                  <img class="gg" src="~assets/HeavyDemoShipIcon.jpg"><nuxt-link to="/Heavy_units/Demolition_Ship">重型神風船</nuxt-link>
                 </td>
                 <td class="tta3">70</td>
                 <!--生命值!-->
@@ -306,7 +302,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/CannonGalleonIcon.jpg"><a href="/units/Cannon_Galleon">火炮戰船</a>
+                  <img class="gg" src="~assets/CannonGalleonIcon.jpg"><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>
                 </td>
                 <td class="tta3">120</td>
                 <!--生命值!-->
@@ -325,7 +321,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/CannonGalleonIcon.jpg"><a href="/Elite_units/Cannon_Galleon">精銳火炮戰船</a>
+                  <img class="gg" src="~assets/CannonGalleonIcon.jpg"><nuxt-link to="/Elite_units/Cannon_Galleon">精銳火炮戰船</nuxt-link>
                 </td>
                 <td class="tta3">150</td>
                 <!--生命值!-->
@@ -344,7 +340,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/LongboatIcon.jpg"><a href="/units/Longboat">維京大戰船</a>
+                  <img class="gg" src="~assets/LongboatIcon.jpg"><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
                 </td>
                 <td class="tta3">130</td>
                 <!--生命值!-->
@@ -363,7 +359,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/LongboatIcon.jpg"><a href="/units/Longboat">精銳維京大戰船</a>
+                  <img class="gg" src="~assets/LongboatIcon.jpg"><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link>
                 </td>
                 <td class="tta3">160</td>
                 <!--生命值!-->
@@ -382,7 +378,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="/units/Turtle_Ship">龜甲船</a>
+                  <img class="gg" src="~assets/TurtleShipIcon.jpg"><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>
                 </td>
                 <td class="tta3">200</td>
                 <!--生命值!-->
@@ -401,7 +397,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/TurtleShipIcon.jpg"><a href="/units/Turtle_Ship">精銳龜甲船</a>
+                  <img class="gg" src="~assets/TurtleShipIcon.jpg"><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>
                 </td>
                 <td class="tta3">300</td>
                 <!--生命值!-->
@@ -420,7 +416,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/CaravelIcon2.jpg"><a href="/units/Caravel">卡拉維爾戰船</a>
+                  <img class="gg" src="~assets/CaravelIcon2.jpg"><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>
                 </td>
                 <td class="tta3">130</td>
                 <!--生命值!-->
@@ -439,7 +435,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  <img class="gg" src="~assets/CaravelIcon2.jpg"><a href="/units/Caravel">精銳卡拉維爾戰船</a>
+                  <img class="gg" src="~assets/CaravelIcon2.jpg"><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link>
                 </td>
                 <td class="tta3">150</td>
                 <!--生命值!-->
@@ -470,7 +466,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="/techs/Careening">傾側維修術</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">250F 150G</td>
@@ -478,7 +474,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Gillnetsicon.jpg" alt=""><a href="/techs/Gillnets">流刺網</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Gillnetsicon.jpg" alt=""><nuxt-link to="/techs/Gillnets">流刺網</nuxt-link>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">150F 200G</td>
@@ -486,7 +482,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><a href="/Dry_building/Dock">旱碼頭</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">600F 400G</td>
@@ -494,7 +490,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Shipwright.jpg" alt=""><a href="/techs/Shipwright">造船匠</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Shipwright.jpg" alt=""><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">1000F 300G</td>
@@ -502,7 +498,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Fletching.jpg" alt=""><a href="/techs/Fletching">箭羽</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Fletching.jpg" alt=""><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>
                 </td>
                 <td class="tunitc4">封建</td>
                 <td class="tunitc5">100F 50G</td>
@@ -510,7 +506,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Bodkinarrow.jpg" alt=""><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Bodkinarrow.jpg" alt=""><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">200F 100G</td>
@@ -518,7 +514,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Bracer.jpg" alt=""><a href="/techs/Bracer">護腕</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Bracer.jpg" alt=""><nuxt-link to="/techs/Bracer">護腕</nuxt-link>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">300F 200G</td>
@@ -526,7 +522,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Ballistics.jpg" alt=""><a href="/techs/Ballistics">彈道學</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Ballistics.jpg" alt=""><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">300W 175G</td>
@@ -534,7 +530,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Chemistry.jpg" alt=""><a href="/techs/Chemistry">化學</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Chemistry.jpg" alt=""><nuxt-link to="/techs/Chemistry">化學</nuxt-link>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">300F 200G</td>
@@ -542,7 +538,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Heresy.png" alt=""><a href="/techs/Heresy">異端邪說</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Heresy.png" alt=""><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
                 </td>
                 <td class="tunitc4">城堡</td>
                 <td class="tunitc5">1000G</td>
@@ -550,7 +546,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" style="margin: 2px;" src="~assets/Faith.jpg" alt=""><a href="/techs/Faith">忠誠信仰</a>
+                  <img class="gg" style="margin: 2px;" src="~assets/Faith.jpg" alt=""><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                 </td>
                 <td class="tunitc4">帝王</td>
                 <td class="tunitc5">750F 1000G</td>
@@ -570,63 +566,63 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="/civs/Byzantines">拜占庭</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
                 </td>
-                <td class="tunitc4"><a href="/techs/Greek_Fire">希臘之火</a>
+                <td class="tunitc4"><nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link>
                 </td>
                 <td class="tunitc5">250F 300G</td>
                 <td class="tunitc6">火戰船+1攻擊範圍。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="/civs/Indians">印度</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><nuxt-link to="/civs/Indians">印度</nuxt-link>
                 </td>
-                <td class="tunitc4"><a href="/techs/Sultans">蘇丹</a>
+                <td class="tunitc4"><nuxt-link to="/techs/Sultans">蘇丹</nuxt-link>
                 </td>
                 <td class="tunitc5">400F 400W</td>
                 <td class="tunitc6">挖金速度+10%；貿易黃金+10%；遺跡產金快10%。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="/civs/Italians">義大利</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><nuxt-link to="/civs/Italians">義大利</nuxt-link>
                 </td>
-                <td class="tunitc4"><a href="/techs/Silk_Road">絲綢之路</a>
+                <td class="tunitc4"><nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link>
                 </td>
                 <td class="tunitc5">500F 250G</td>
                 <td class="tunitc6">貿易馬車和貿易商旅造價減半。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="/civs/Koreans">韓國</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><nuxt-link to="/civs/Koreans">韓國</nuxt-link>
                 </td>
-                <td class="tunitc4"><a href="/techs/Panokseon">板屋船</a>
+                <td class="tunitc4"><nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>
                 </td>
                 <td class="tunitc5">300W 300F</td>
                 <td class="tunitc6">龜甲船移動快15%。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><a href="/civs/Portuguese">葡萄牙</a>
+                  <img class="gg" src="~assets/CastleAgeUnique.png" style="margin: 2px;" alt=""><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
                 </td>
-                <td class="tunitc4"><a href="/techs/Carrack">克拉克帆船</a>
+                <td class="tunitc4"><nuxt-link to="/techs/Carrack">克拉克帆船</nuxt-link>
                 </td>
                 <td class="tunitc5">200W 300G</td>
                 <td class="tunitc6">船隻護甲+1/+1。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="/civs/Portuguese">葡萄牙</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
                 </td>
-                <td class="tunitc4"><a href="/techs/Arquebus">火繩槍</a>
+                <td class="tunitc4"><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>
                 </td>
                 <td class="tunitc5">700F 400G</td>
                 <td class="tunitc6">火藥單位對移動目標的命中率提升。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><a href="/civs/Turks">土耳其</a>
+                  <img class="gg" src="~assets/Unique-tech.jpg" style="margin: 2px;" alt=""><nuxt-link to="/civs/Turks">土耳其</nuxt-link>
                 </td>
-                <td class="tunitc4"><a href="/techs/Artillery">砲兵</a>
+                <td class="tunitc4"><nuxt-link to="/techs/Artillery">砲兵</nuxt-link>
                 </td>
                 <td class="tunitc5">500G 450S</td>
                 <td class="tunitc6">火炮塔、火炮戰船和火炮射程+2。</td>
@@ -638,21 +634,21 @@
             <h3>圖庫</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <div class="col-md-4"> <a href="/img/Vesselcivilian.png"><img class="imgn hg" width="180" src="~assets/Vesselcivilian.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Vesselcivilian.png"><img class="imgn hg" width="180" src="~assets/Vesselcivilian.png" alt=""></nuxt-link> 
                 <div
                 class="lightbox-caption" style="width:220px" ;>
                   <p><em>所有平民船隻。</em>
                   </p>
               </div>
             </div>
-            <div class="col-md-4"> <a href="/img/Vesselmilitary.png"><img class="imgn hg" width="200" src="~assets/Vesselmilitary.png" alt=""></a> 
+            <div class="col-md-4"> <nuxt-link to="/img/Vesselmilitary.png"><img class="imgn hg" width="200" src="~assets/Vesselmilitary.png" alt=""></nuxt-link> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有一般的戰鬥船艦。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="/img/Vesselunique.png"><img class="imgn hg" width="200" src="~assets/Vesselunique.png" alt=""></a> 
+          <div class="col-md-4"> <nuxt-link to="/img/Vesselunique.png"><img class="imgn hg" width="200" src="~assets/Vesselunique.png" alt=""></nuxt-link> 
             <div
             class="lightbox-caption" style="width:185px" ;>
               <p><em>所有特殊單位船艦。</em>
@@ -661,14 +657,14 @@
         </div>
       </div>
       <div class="col-md-12">
-        <div class="col-md-4"> <a href="/img/Sailsaokaoc.png"><img class="imgn hg" width="200" src="~assets/Sailsaokaoc.png" alt=""></a> 
+        <div class="col-md-4"> <nuxt-link to="/img/Sailsaokaoc.png"><img class="imgn hg" width="200" src="~assets/Sailsaokaoc.png" alt=""></nuxt-link> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>不同旗幟的船隻(以戰船為例)(帝王世紀和征服者入侵資料片)。</em>
             </p>
         </div>
       </div>
-      <div class="col-md-4"> <a href="/img/Sailshd.png"><img class="imgn hg" width="200" src="~assets/Sailshd.png" alt=""></a> 
+      <div class="col-md-4"> <nuxt-link to="/img/Sailshd.png"><img class="imgn hg" width="200" src="~assets/Sailshd.png" alt=""></nuxt-link> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>不同旗幟的船隻(以戰船為例)(HD擴充資料片)。</em>

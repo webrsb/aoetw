@@ -11,12 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            黃金國是<a href="/civs/Mayans">馬雅</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Eagle_Warrior"
-              >鷹勇士</a
+            黃金國是<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >HP+40。
           </p>
         </div>
@@ -28,19 +28,20 @@
               乍看之下黃金國給鷹勇士多餘的生命值好像沒有甚麼價值，但一定要研究該技術的優點請看以下描述:
             </p>
             <li>
-              馬雅人沒有<a href="/units/Knight">騎士</a
+              馬雅人沒有<nuxt-link to="/units/Knight">騎士</nuxt-link
               >，這大大降低他們前線步兵的生存能力，也讓他們的弓箭手身陷險境。
             </li>
             <li>
-              鷹勇士可說是馬雅人的騎兵，而且在一定程度上擔當<a
-                href="/units/Light_Cavalry"
-              ></a
-              >輕騎兵、<a href="/units/Knight">騎士</a>、甚至
-              <a href="/units/Camel">駱駝騎兵</a
+              鷹勇士可說是馬雅人的騎兵，而且在一定程度上擔當<nuxt-link
+                to="/units/Light_Cavalry"
+              ></nuxt-link
+              >輕騎兵、<nuxt-link to="/units/Knight">騎士</nuxt-link>、甚至
+              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
               >的功能(有遼闊視野，對騎兵有些微攻擊加成)。
             </li>
             <li>
-              絕大多數的<a href="/units/Infantry_Units">步兵單位</a
+              絕大多數的<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
               >對鷹勇士都有攻擊加成。而且在單挑戰鬥中能相當輕易地擊敗鷹勇士。
             </li>
             <li>
@@ -53,8 +54,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速黃金國的研究時間(快25%)。
             </li>
           </ul>
@@ -72,7 +74,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">黃金國</a></div>
+              <div class="unititle"><nuxt-link to="#">黃金國</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -84,12 +86,14 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Mayans">馬雅</a></td>
+            <td class="unit4"><nuxt-link to="/civs/Mayans">馬雅</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -98,15 +102,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -116,7 +120,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -129,7 +133,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

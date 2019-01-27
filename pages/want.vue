@@ -16,10 +16,10 @@
             <p>目前我已經完成三個頁面，可以參考</p>
             <ul>
               <li>
-                <a target="blank" href="/units/Archer">兵種數據（弓兵）</a>
+                <nuxt-link to="/units/Archer">兵種數據（弓兵）</nuxt-link>
               </li>
-              <li><a target="blank" href="/units">所有兵種目錄頁面</a></li>
-              <li><a target="blank" href="/qa">常見問題</a></li>
+              <li><nuxt-link to="/units">所有兵種目錄頁面</nuxt-link></li>
+              <li><nuxt-link to="/qa">常見問題</nuxt-link></li>
             </ul>
           </div>
           <h1>網站架構</h1>
@@ -29,16 +29,16 @@
             <ul>
               <li>
                 <strong>數據資料庫</strong>：翻譯<a
-                  href="/http://ageofempires.wikia.com/wiki/Age_of_Empires_Series_Wiki"
+                  href="http://ageofempires.wikia.com/wiki/Age_of_Empires_Series_Wiki"
                   >英文維基</a
                 >的數據，所有兵種建築科技的數據，估計可能上百頁，這是最需要人力的。
               </li>
               <li>
                 <strong>常見問題</strong>：這我已經參考伊森寫的<a
-                  href="/https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html"
+                  href="https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html"
                   >常見問題</a
                 >所整理，日後可不斷更新。目前架構已經完成，
-                <a href="/qa">前往頁面</a>。
+                <nuxt-link to="/qa">前往頁面</nuxt-link>。
               </li>
               <li><strong>記錄檔區</strong>：收集世界各國好手記錄</li>
               <li><strong>戰術討論區</strong>：將會收錄ptt世紀版的高手文章</li>
@@ -73,7 +73,7 @@
           <div class="hrn1"></div>
           <div>
             直接寫mail到：netssno@gmail.com或私訊<a
-              href="/https://www.facebook.com/cheapAOE"
+              href="https://www.facebook.com/cheapAOE"
               >粉絲團</a
             >
           </div>

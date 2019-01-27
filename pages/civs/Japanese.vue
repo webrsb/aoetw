@@ -37,7 +37,7 @@
               特殊單位日本武士歸類為步兵，對所有文明的特殊單位傷害有加成。
             </li>
             <li>
-              城堡時代特殊科技<a href="/techs/Yasama">射箭孔</a
+              城堡時代特殊科技<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
               >，搭配箭狹槽使用，讓日本箭塔堪稱最強火力。帝王時代的特殊科技為彈射器，這個科技則減少了投石機的拆裝時間，讓投石機更具機動性。
             </li>
           </ul>
@@ -54,9 +54,11 @@
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/CastleAgeUnique.png" alt="" /><a
-                href="/techs/Yasama"
-                >射箭孔</a
+              <img
+                class="gg"
+                src="~assets/CastleAgeUnique.png"
+                alt=""
+              /><nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
               >：塔可以多射兩支箭
             </li>
             <li>
@@ -85,7 +87,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/jap">日本科技樹</a></em>
+          <em><nuxt-link to="/tree/jap">日本科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>戰術概論</h3>
@@ -264,24 +266,24 @@
           <div class="hrn1"></div>
           <div class="n1">
             <h3>
-              <em><a href="/games/aoc">征服者入侵</a></em>
+              <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
             </h3>
             <ul>
               <li>步兵從封建時代攻擊速度快25%。</li>
             </ul>
             <h3>
-              <em><a href="/games/aof">失落的帝國</a></em>
+              <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
             </h3>
             <ul>
               <li>現在有了品種。</li>
               <li>能夠研發礦井採金。</li>
             </ul>
             <h3>
-              <em><a href="/games/ak">非洲王國</a></em>
+              <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
             </h3>
             <ul>
               <li>
-                <a href="/techs/Yasama">射箭孔</a
+                <nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
                 >成本從400w/300f降低為300w/300f。
               </li>
               <li>現在有了踏輪起重機。</li>
@@ -304,9 +306,9 @@
                 綜觀日本歷史，騎兵真正主宰戰場的例子少之又少，這或許是為甚麼遊戲中的日本騎兵相對貧弱。
               </li>
               <li>
-                日本是個新生島嶼，鐵礦產量不如歐洲各國，這讓日本在中世紀時期大量地使用弓箭來進行防禦，這就是特殊科技<a
-                  href="/techs/Yasama"
-                  >射箭孔</a
+                日本是個新生島嶼，鐵礦產量不如歐洲各國，這讓日本在中世紀時期大量地使用弓箭來進行防禦，這就是特殊科技<nuxt-link
+                  to="/techs/Yasama"
+                  >射箭孔</nuxt-link
                 >的由來，也能解釋為甚麼日本有完美的射箭場。
               </li>
               <li>
@@ -323,9 +325,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Wonderjapanese.png"
+              <nuxt-link to="/img/Wonderjapanese.png"
                 ><img class="imgn hg" src="~assets/Wonderjapanese.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>日本的世界奇觀，東大寺。</em></p>
             </div>
           </div>
@@ -377,9 +379,9 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><a
-                href="/techs/Yasama"
-                >射箭孔</a
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Yasama"
+                >射箭孔</nuxt-link
               ><br />
               <img class="gg" src="~assets/Unique-tech.jpg" />彈射器
             </td>

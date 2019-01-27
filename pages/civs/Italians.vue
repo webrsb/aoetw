@@ -97,14 +97,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/ita">義大利科技樹</a></em>
+          <em><nuxt-link to="/tree/ita">義大利科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>研發時代成本便宜15%(而不是10%)</li>
@@ -115,7 +115,7 @@
             <li>巨盾成本從550f/300g變成300f/150g。</li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>火藥單位成本-20%，不是15％。</li>
@@ -123,7 +123,10 @@
             <li>僱傭兵訓練時間從11秒增加到16秒。</li>
             <li>熱那亞弩手成本從50w、50g降低到45w、45g。</li>
             <li>矛兵不再受益於巨盾。</li>
-            <li><a href="/news/ver5-8">5.8版</a>後，魚船花費60W → 64W。</li>
+            <li>
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，魚船花費60W →
+              64W。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -150,9 +153,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Italian_city.png"
+              <nuxt-link to="/img/Italian_city.png"
                 ><img class="imgn hg" src="~assets/Italian_city.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>宣傳圖</em></p>
             </div>
           </div>
@@ -162,7 +165,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="#">義大利</a></div>
+              <div class="unititle"><nuxt-link to="#">義大利</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -184,7 +187,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>

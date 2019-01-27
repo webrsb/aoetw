@@ -11,12 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            巨盾是<a href="/civs/Italians">義大利</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後徒步<a
-              href="/units/Archer_Units"
-              >弓兵</a
+            巨盾是<nuxt-link to="/civs/Italians">義大利</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >護甲+1/+1。
           </p>
         </div>
@@ -25,26 +25,27 @@
         <div class="n1">
           <ul>
             <li>
-              如果玩家依賴弓箭手和<a href="/Genoese_units/Crossbowman"
-                >熱那亞弩手</a
+              如果玩家依賴弓箭手和<nuxt-link to="/Genoese_units/Crossbowman"
+                >熱那亞弩手</nuxt-link
               >做為進攻/防守的選擇，那麼巨盾要盡早研發。
             </li>
             <li>
-              一開始巨盾的護甲加成只有加在熱那亞努手身上，後來在<a
-                href="/games/ak"
-                >非洲王朝</a
+              一開始巨盾的護甲加成只有加在熱那亞努手身上，後來在<nuxt-link
+                to="/games/ak"
+                >非洲王朝</nuxt-link
               >資料片中才改成所有徒步弓兵都有加乘。
             </li>
             <li>
-              研發巨盾與否取決於資料片版本，如果是<a href="/games/aof"
-                >失落的王國</a
+              研發巨盾與否取決於資料片版本，如果是<nuxt-link to="/games/aof"
+                >失落的王國</nuxt-link
               >版本，巨盾花費太貴玩家應該優先升級其他科技或是演進至帝王時代。
             </li>
             <li>
-              在非洲王池資料片中巨盾的花費減低而且<a href="/units/Crossbowman"
-                >弩兵</a
+              在非洲王池資料片中巨盾的花費減低而且<nuxt-link
+                to="/units/Crossbowman"
+                >弩兵</nuxt-link
               >吃的到加成。所以在某些情況下可以早點研發巨盾科技；然而
-              <a href="/techs/Leather_Archer_Armor">弓兵皮甲</a
+              <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
               >還是應該比巨盾先研發因為比較便宜。
             </li>
           </ul>
@@ -54,8 +55,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速巨盾的研究時間(快25%)。
             </li>
           </ul>
@@ -64,24 +66,26 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的王國</a></em>
+            <em><nuxt-link to="/games/aof">失落的王國</nuxt-link></em>
           </h3>
           <ul>
             <li>巨盾成本為550肉300金。</li>
             <li>
-              巨盾只影響<a href="/Genoese_units/Crossbowman">熱那亞弩手</a>。
+              巨盾只影響<nuxt-link to="/Genoese_units/Crossbowman"
+                >熱那亞弩手</nuxt-link
+              >。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aok">非洲王朝</a></em>
+            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>巨盾現在成本為300肉150金。</li>
             <li>
-              巨盾現在會影響不只<a href="/Genoese_units/Crossbowman"
-                >熱那亞弩手</a
-              >以外的所有徒步<a href="/units/Archer_Units">弓兵</a>(包括
-              <a href="/units/Skirmisher">矛兵</a>)。
+              巨盾現在會影響不只<nuxt-link to="/Genoese_units/Crossbowman"
+                >熱那亞弩手</nuxt-link
+              >以外的所有徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >(包括 <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>)。
             </li>
             <li>4.8改版後巨盾不再影響矛兵了。</li>
           </ul>
@@ -105,7 +109,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">巨盾</a></div>
+              <div class="unititle"><nuxt-link to="#">巨盾</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -117,28 +121,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Italians">義大利</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -148,7 +157,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -161,7 +170,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

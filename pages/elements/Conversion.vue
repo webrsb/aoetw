@@ -19,10 +19,10 @@
             招降敵方的單位需要信仰，招降成功後信仰就會歸零，並重新緩慢的回復，如果信仰不足是不能招降的。
           </p>
           <p>
-            一般來說只有普通單位可以被招降，英雄、建築物與僧侶不能被招降，但一些文明可以透過研發<a
-              href="/techs/Redemption"
-              >信仰救贖</a
-            >或是 <a href="/techs/Sanctity">聖潔虔誠</a>來改善。
+            一般來說只有普通單位可以被招降，英雄、建築物與僧侶不能被招降，但一些文明可以透過研發<nuxt-link
+              to="/techs/Redemption"
+              >信仰救贖</nuxt-link
+            >或是 <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>來改善。
           </p>
           <p>
             透過招降，可以獲得自己文明沒有的單位，例如南美文明可以有騎兵或火砲。招降也可以突破人口最大限制。
@@ -32,45 +32,47 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            西班牙透過研發<a href="/techs/Inquisition">異端審判</a
+            西班牙透過研發<nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
             >可以更快的招降敵人，而條頓與他的朋友則是更難被招降。
           </p>
           <p>修道院有幾項科技可以提高招降的機會</p>
           <ul>
             <li>
-              <img class="gg" src="~assets/Redemption.jpg" alt="" /><a
-                href="/techs/Redemption"
-                >信仰救贖</a
+              <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
+                to="/techs/Redemption"
+                >信仰救贖</nuxt-link
               >:僧侶可招降大部分建築物和攻城單位。
             </li>
             <li>
-              <img class="gg" src="~assets/Atonement.jpg" alt="" /><a
-                href="/techs/Atonement"
-                >贖罪</a
+              <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
+                to="/techs/Atonement"
+                >贖罪</nuxt-link
               >:僧侶可招降對方的僧侶。
             </li>
             <li>
-              <img class="gg" src="~assets/Fervor.jpg" alt="" /><a
-                href="/techs/Fervor"
-                >宗教狂熱</a
+              <img class="gg" src="~assets/Fervor.jpg" alt="" /><nuxt-link
+                to="/techs/Fervor"
+                >宗教狂熱</nuxt-link
               >:僧侶移動速度+15%。
             </li>
             <li>
-              <img class="gg" src="~assets/Illumination.jpg" alt="" /><a
-                href="/techs/Illumination"
-                >啟發教化</a
+              <img class="gg" src="~assets/Illumination.jpg" alt="" /><nuxt-link
+                to="/techs/Illumination"
+                >啟發教化</nuxt-link
               >:僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)
             </li>
             <li>
-              <img class="gg" src="~assets/Blockprinting.jpg" alt="" /><a
-                href="/techs/Block_Printing"
-                >雕版印刷術</a
+              <img
+                class="gg"
+                src="~assets/Blockprinting.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
               >:僧侶(傳教士)的招降範圍+3。
             </li>
             <li>
-              <img class="gg" src="~assets/Theocracy.png" alt="" /><a
-                href="/techs/Theocracy"
-                >神權統治</a
+              <img class="gg" src="~assets/Theocracy.png" alt="" /><nuxt-link
+                to="/techs/Theocracy"
+                >神權統治</nuxt-link
               >:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。
             </li>
           </ul>
@@ -86,7 +88,8 @@
               換句話說僧侶需要4～10個CI來招降一個單位，需要15～25個CI來招降一棟建築物。
             </li>
             <li>
-              西班牙的特殊科技<a href="/techs/Inquisition">異端審判</a
+              西班牙的特殊科技<nuxt-link to="/techs/Inquisition"
+                >異端審判</nuxt-link
               >減少一個最小CI，也就是說第三下即有法力。
             </li>
           </ul>
@@ -103,31 +106,33 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
-                <a href="/units/Eagle_Scout">鷹斥侯→</a>
+                <nuxt-link to="/units/Eagle_Scout">鷹斥侯→</nuxt-link>
                 <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" />
-                <a href="/units/Eagle_Warrior">鷹勇士→</a>
+                <nuxt-link to="/units/Eagle_Warrior">鷹勇士→</nuxt-link>
                 <img
                   class="gg"
                   src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""
                 />
-                <a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
+                <nuxt-link to="/Elite_units/Eagle_Warrior"
+                  >精銳鷹勇士</nuxt-link
+                >
               </li>
               <li>
                 <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-                <a href="/units/Scout_Cavalry">斥侯→</a>
+                <nuxt-link to="/units/Scout_Cavalry">斥侯→</nuxt-link>
                 <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
-                <a href="/units/Light_Cavalry">輕騎兵→</a>
+                <nuxt-link to="/units/Light_Cavalry">輕騎兵→</nuxt-link>
                 <img class="gg" src="~assets/HussarIcon.jpg" alt="" />
-                <a href="/Hustree/sar">匈牙利輕騎兵</a>
+                <nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>
               </li>
             </ul>
             科技
             <ul>
               <li>
-                <img class="gg" src="~assets/Faith.jpg" alt="" /><a
-                  href="/techs/Faith"
-                  >忠誠信仰</a
+                <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+                  to="/techs/Faith"
+                  >忠誠信仰</nuxt-link
                 >：增加2~4個CI，跟增加兩個level，也就是說需要6～10個CI才有法力。
               </li>
             </ul>

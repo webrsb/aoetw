@@ -11,9 +11,9 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於城堡的裝甲。而關於城堡請參見<a
-              href="/building/Castle"
-              >城堡</a
+            >這篇文章是將有關於城堡的裝甲。而關於城堡請參見<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
             ></em
           >
         </div>
@@ -29,9 +29,9 @@
         <div class="n1">
           <ul>
             <li>
-              <img width="25px" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img width="25px" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </li>
           </ul>
@@ -44,22 +44,23 @@
             <div style="margin:12px 0px;"><strong>+100攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                  href="/units/Petard"
-                  >爆炸桶</a
+                <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Petard"
+                  >爆炸桶</nuxt-link
                 >
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="/units/Tarkan"
-                  >韃靼騎兵</a
-                >→ <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="/units/Tarkan"
-                  >精銳韃靼騎兵</a
-                >(<a href="/civs/Huns">匈奴</a>限定)
+                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Tarkan"
+                  >韃靼騎兵</nuxt-link
+                >→
+                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Tarkan"
+                  >精銳韃靼騎兵</nuxt-link
+                >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
               </li>
             </ul>
           </div>

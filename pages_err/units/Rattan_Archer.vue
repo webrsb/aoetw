@@ -10,10 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>藤甲弓兵是<a href="/games/aor">拉惹的崛起</a>資料片中越南的特殊單位，能夠在<a href="/techsage/Castle_Age">城堡時代</a>的
-              <a
-              href="/building/Castle">城堡</a>中訓練。是個有非常高遠程護甲的弓兵。</p>
-            <p>藤甲弓兵可以在<a href="/techsage/Imperial_Age">帝王時代</a>升級為精銳藤甲弓兵。</div>
+            <p>藤甲弓兵是<nuxt-link to="/games/aor">拉惹的崛起</nuxt-link>資料片中越南的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+              <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。是個有非常高遠程護甲的弓兵。</p>
+            <p>藤甲弓兵可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳藤甲弓兵。</div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -49,83 +48,83 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img src="~assets/Fletching.jpg" class="gg" alt=""><a href="/techs/Fletching">箭羽</a>(+1)
+                <img src="~assets/Fletching.jpg" class="gg" alt=""><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
                 <br/>
-                <img src="~assets/Bodkinarrow.jpg" class="gg" alt=""><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
+                <img src="~assets/Bodkinarrow.jpg" class="gg" alt=""><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
                 <br/>
-                <img src="~assets/Bracer.jpg" class="gg" alt=""><a href="/techs/Bracer">護腕</a>(+1)
+                <img src="~assets/Bracer.jpg" class="gg" alt=""><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
                 <br/>
-                <img src="~assets/Chemistry.jpg" class="gg" alt=""><a href="/techs/Chemistry">化學</a>(+1)</td>
+                <img src="~assets/Chemistry.jpg" class="gg" alt=""><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊範圍</td>
               <td class="tta4">
-                <img src="~assets/Fletching.jpg" class="gg" alt=""><a href="/techs/Fletching">箭羽</a>(+1)
+                <img src="~assets/Fletching.jpg" class="gg" alt=""><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
                 <br/>
-                <img src="~assets/Bodkinarrow.jpg" class="gg" alt=""><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
+                <img src="~assets/Bodkinarrow.jpg" class="gg" alt=""><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
                 <br/>
-                <img src="~assets/Bracer.jpg" class="gg" alt=""><a href="/techs/Bracer">護腕</a>(+1)</td>
+                <img src="~assets/Bracer.jpg" class="gg" alt=""><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">開火速度</td>
               <td class="tta4">
                 <p>
-                  <img src="~assets/Thumb_Ring.png" class="gg" alt=""><a href="/techs/Thumb_Ring">拇指環</a>(+18%)</td>
+                  <img src="~assets/Thumb_Ring.png" class="gg" alt=""><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>(+18%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img src="~assets/Ballistics.jpg" class="gg" alt=""><a href="/techs/Ballistics">彈道學</a>(對移動目標命中率上升)
+                <img src="~assets/Ballistics.jpg" class="gg" alt=""><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>(對移動目標命中率上升)
                 <br/>
-                <img src="~assets/Thumb_Ring.png" class="gg" alt=""><a href="/techs/Thumb_Ring">拇指環</a>(命中率提升到100%)</td>
+                <img src="~assets/Thumb_Ring.png" class="gg" alt=""><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>(命中率提升到100%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img src="~assets/Paddedarcherarmor.jpg" class="gg" alt=""><a href="/techs/Padded_Archer_Armor">弓兵布甲</a>(+1/+1)
+                <img src="~assets/Paddedarcherarmor.jpg" class="gg" alt=""><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link>(+1/+1)
                 <br/>
-                <img src="~assets/Leatherarcherarmor.jpg" class="gg" alt=""><a href="/techs/Leather_Archer_Armor">弓兵皮甲</a>(+1/+1)
+                <img src="~assets/Leatherarcherarmor.jpg" class="gg" alt=""><nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link>(+1/+1)
                 <br/>
-                <img src="~assets/Ringarcherarmor.jpg" class="gg" alt=""><a href="/techs/Ring_Archer_Armor">弓兵環甲</a>(+1/+2)</td>
+                <img src="~assets/Ringarcherarmor.jpg" class="gg" alt=""><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>(+1/+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
-                <img src="~assets/Faith.jpg" class="gg" alt=""><a href="/techs/Faith">忠誠信仰</a> 
+                <img src="~assets/Faith.jpg" class="gg" alt=""><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
-                <img src="~assets/Conscription.jpg" class="gg" alt=""><a href="/techs/Conscription">徵兵制度</a>(+33%)</td>
+                <img src="~assets/Conscription.jpg" class="gg" alt=""><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Vietnamese">越南</a>：徵兵制度免費。</li>
+              <li><nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：徵兵制度免費。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠提高藤甲弓兵的生產速度還有加速徵兵技術的研究時間(快25%)</li>
-              <li><a href="/civs/Britons">不列顛</a>：拇指環研發速度快20%。</li>
-              <li><a href="/civs/Magyars">馬札爾</a>：藤甲弓兵視野+2。</li>
-              <li><a href="/civs/Malians">馬利</a>：研究化學和彈道學速度快80%。</li>
-              <li><a href="/civs/Saracens">薩拉森</a>：藤甲弓兵對建築物攻擊+1。</li>
-              <li><a href="/civs/Teutons">條頓</a>：藤甲弓兵更不容易被招降。</li>
+              <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠提高藤甲弓兵的生產速度還有加速徵兵技術的研究時間(快25%)</li>
+              <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>：拇指環研發速度快20%。</li>
+              <li><nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>：藤甲弓兵視野+2。</li>
+              <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究化學和彈道學速度快80%。</li>
+              <li><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：藤甲弓兵對建築物攻擊+1。</li>
+              <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>：藤甲弓兵更不容易被招降。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="/games/aor">王者崛起</a></em></h3>
+            <h3><em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em></h3>
             <ul>
               <li>5.3版後，藤甲弓兵對步兵+1的加成被取消了。</li>
-              <li><a href="/ver-5.8">5.8版</a>後，藤甲弓兵/精銳 血量 35/40 → 40/45。</li>
+              <li><nuxt-link to="/ver-5.8">5.8版</nuxt-link>後，藤甲弓兵/精銳 血量 35/40 → 40/45。</li>
             </ul>
           </div>
           <h3>趣事</h3>
@@ -139,7 +138,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="/img/Rattan_vs_Cavalry_Archers.png"><img class="imgn hg" src="~assets/Rattan_vs_Cavalry_Archers.png" alt=""></a> 
+              <div class="col-md-4"> <nuxt-link to="/img/Rattan_vs_Cavalry_Archers.png"><img class="imgn hg" src="~assets/Rattan_vs_Cavalry_Archers.png" alt=""></nuxt-link> 
                 <p><em>一群正在作戰的藤甲弓兵。</em>
                 </p>
               </div>
@@ -179,12 +178,12 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
-              <td class="unit4"><a href="/building/Castle">城堡</a>
+              <td class="unit4"><nuxt-link to="/building/Castle">城堡</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -251,8 +250,8 @@
             </tr>
             <tr>
               <td class="unit3">防禦類別</td>
-              <td class="unit4"><a href="/armor/Armor_Class_Archer">弓兵</a>
-                <br/><a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>
+              <td class="unit4"><nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link>
+                <br/><nuxt-link to="/armor/Armor_Class_Unique_Unit">特殊單位</nuxt-link>
               </td>
             </tr>
             <tr>

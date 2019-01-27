@@ -18,11 +18,11 @@
 
           <h3>優勢文明</h3>
           <p>
-            <a href="/civs/Aztecs">阿茲特克</a>、
-            <a href="/civs/Byzantines">拜占庭</a>、
-            <a href="/civs/Mayans">馬雅</a>、
-            <a href="/civs/Saracens">薩拉森</a>、
-            <a href="/civs/Spanish">西班牙</a>。
+            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+            <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+            <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+            <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>。
           </p>
         </div>
       </div>

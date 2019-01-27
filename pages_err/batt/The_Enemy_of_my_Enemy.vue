@@ -57,21 +57,21 @@
                 "></div><ul>  <li>不用太擔心對方軍隊的數量和戰力，但對方會出攻城器具，如有威脅需要提前打掉。</li>  <li>在進入敵營時，可以針對軍營、馬場、弓箭場進行破壞阻斷敵軍生產軍隊，或者派遣大量騎士 駐守在軍營附近，就近消滅。</li>  <li>拿到運輸船後，可以讓她到 河道彎道下方(敵軍磨坊附近)等待，以方便接應 拿完城堡後的僧侶。</li>  <li>如果使用3隻僧侶補席德坦城堡傷害，須注意席德血量，可以利用巡邏讓席德可以損血狀況緩和。</li>  <li>因為資源有限，大部分黃金掌握在敵軍手上，所以建議有策略性地拿取遺跡，不建議派大軍前往(大軍隊形成會有點慢)。</li>  <li>如果想節省僧侶的製造黃金，可以生產一隻僧侶，之後提升修道院科技，利用一隻僧侶去招降敵軍僧侶。</li>  </ul><h3>快速破關</h3><div class="hrn1 "></div><ul>  <li >    <a href="https://www.youtube.com/watch?v=3Wl48txTsXk
                 ">此影片是，快速通關打法可以根據個人遊戲體驗斟酌使用</a></li> </ul></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="/
-                ">我敵人的敵人</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/EIC 2.jpg " width=" " alt="
+                ">       <div class="unititle "><nuxt-link to="/
+                ">我敵人的敵人</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/EIC 2.jpg " width=" " alt="
                 "></div>       </td>      </tr>      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle2 "><a href="/
-                ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3 ">版本</td>       <td class="unit4
+                ">       <div class="unititle2 "><nuxt-link to="/
+                ">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3 ">版本</td>       <td class="unit4
                 ">征服者入侵</td>      </tr>      <tr>        <td class="unit3 ">戰役</td>       <td class="unit4
-                ">席德</td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><a href="/civs/Japanese
-                ">西班牙</a></td>      </tr>
+                ">席德</td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><nuxt-link to="/civs/Japanese
+                ">西班牙</nuxt-link></td>      </tr>
 <tr><td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle2 "><a href="/
-                ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
-                ">征服者戰役第二章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="/Brother_against_
-                Brother.php ">兄弟鬩牆</a></p>      </tr>      <tr>        <td class="unit3
-                ">下一關</td>       <td class="unit4 ">        <a href="/batt/The_Exile_of_the_Cid
-                ">席德的流亡歲月</a></p>        </td>      </tr>        </table>     <div class="thanks
+                ">       <div class="unititle2 "><nuxt-link to="/
+                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
+                ">征服者戰役第二章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <nuxt-link to="/Brother_against_
+                Brother.php ">兄弟鬩牆</nuxt-link></p>      </tr>      <tr>        <td class="unit3
+                ">下一關</td>       <td class="unit4 ">        <nuxt-link to="/batt/The_Exile_of_the_Cid
+                ">席德的流亡歲月</nuxt-link></p>        </td>      </tr>        </table>     <div class="thanks
                 ">       感謝! 此頁面由Wun，裕暉協助編輯     </div>  </div></div> <div class="row ">  <div class="col-md-12
                 ">  </div></div>      </div>    
         

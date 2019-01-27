@@ -11,14 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            間諜可於<a href="/techsage/Imperial_Age">帝王時代</a>的<a
-              href="/building/Castle"
-              >城堡</a
+            間諜可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後可讓玩家看到敵方視野。間諜是遊戲中唯一的成本變動科技，它的花費取決於所有敵方(包括中立玩家)的
-            <a href="/units/Villager">村民</a>、<a href="/units/Trade_Cart"
-              >貿易馬車</a
-            >、<a href="/units/Fishing_Ship">漁船</a>和
-            <a href="/units/Transport_Ship">運輸船</a
+            <nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
+              to="/units/Trade_Cart"
+              >貿易馬車</nuxt-link
+            >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>和
+            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >的數量。每個上述單位需花費200黃金，花費最低200黃金最高30000黃金。
           </p>
           <p>
@@ -38,9 +38,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Chinese">中國</a>：間諜科技便宜20%。</li>
             <li>
-              <a href="/civs/Huns">匈奴</a>：<a href="/techs/Atheism">無神論</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：間諜科技便宜20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+                to="/techs/Atheism"
+                >無神論</nuxt-link
               >研發後間諜科技便宜50%。
             </li>
           </ul>
@@ -58,7 +62,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">間諜</a></div>
+              <div class="unititle"><nuxt-link to="#">間諜</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -70,7 +74,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -84,15 +90,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -102,7 +108,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -111,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

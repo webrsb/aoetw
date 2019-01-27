@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            製圖學可以研究於<a href="/building/Market">市集</a
+            製圖學可以研究於<nuxt-link to="/building/Market">市集</nuxt-link
             >。功能是看到盟友的視野。
           </p>
           <p>
@@ -54,9 +54,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Portuguese">葡萄牙</a>：在<a
-                href="/techsage/Dark_Age"
-                >黑暗時代</a
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：在<nuxt-link
+                to="/techsage/Dark_Age"
+                >黑暗時代</nuxt-link
               >時及擁有免費的製圖學。
             </li>
           </ul>
@@ -65,7 +65,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>成本為100F/100G。</li>
@@ -73,13 +73,13 @@
             <li></li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>免費且立即完成。</li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>5.7版本後建立市場後，立即完成。</li>
@@ -109,7 +109,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">製圖學</a></div>
+              <div class="unititle"><nuxt-link to="#">製圖學</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -121,7 +121,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -130,11 +132,15 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Feudal_Age">封建時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
-            <td class="unit4"><a href="/building/Market">市集</a></td>
+            <td class="unit4">
+              <nuxt-link to="/building/Market">市集</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
@@ -142,7 +148,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -155,7 +161,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

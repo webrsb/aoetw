@@ -11,13 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>布里斯比</strong>是《世紀帝國II：被遺忘的帝國》中的一名<a
-              href="/units/Archer_Units"
-              >射手</a
+            <strong>布里斯比</strong
+            >是《世紀帝國II：被遺忘的帝國》中的一名<nuxt-link
+              to="/units/Archer_Units"
+              >射手</nuxt-link
             >
-            <a href="/units/hero">英雄</a>，在敘述他本身的戰役，<a
-              href="/Prithviraja.php"
-              >布里斯比羅吉</a
+            <nuxt-link to="/units/hero">英雄</nuxt-link
+            >，在敘述他本身的戰役，<nuxt-link to="/Prithviraja.php"
+              >布里斯比羅吉</nuxt-link
             >的幾個關卡中出現，也可在地圖編輯器中使用。
           </p>
           <p>
@@ -29,7 +30,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">布里斯比</a></div>
+              <div class="unititle"><nuxt-link to="#">布里斯比</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -47,9 +48,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="/units/Archer_Units">射手</a> <br /><a href="/units/hero"
-                >英雄</a
-              >
+              <nuxt-link to="/units/Archer_Units">射手</nuxt-link>
+              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -72,7 +72,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="/armor/Armor_Class_Spearman">槍兵</a> +3
+              對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link> +3
             </td>
           </tr>
           <tr></tr>
@@ -81,7 +81,9 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="/elements/Frame_delay">開火間隔</a></td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -109,7 +111,9 @@
           </tr>
           <tr>
             <td class="unit3">防禦類型</td>
-            <td class="unit4"><a href="/armor/Armor_Class_Archer">射手</a></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>

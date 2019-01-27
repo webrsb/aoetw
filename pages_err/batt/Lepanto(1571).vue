@@ -129,7 +129,7 @@
 <ul>
   <li >
     <a >繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位
-。</a>
+。</nuxt-link>
 </li>
  
 </ul>
@@ -138,7 +138,7 @@
 <ul>
   <li >
     <a >
-作為一個有軍政才華的人，唐璜並沒有得到什麼機運。他是神聖羅馬皇帝的私生子，兄長西班牙國王菲力二世對他始終提防。若不是鄂圖曼海軍進犯地中海，也許他根本不會有在歷史留名的機會。 唐璜在勒班陀擔任神聖聯盟的指揮官，並出色地擊退了為數龐大的鄂圖曼艦隊。隨後他更出任尼德蘭總督。但正準備大展身手時恰逢尼德蘭起義，他努力想要調停矛盾，但荷蘭人的暴動依然不可收拾，逼迫他參與戰鬥。而他在一場戰鬥中感染傷寒，憂鬱離世。</a>
+作為一個有軍政才華的人，唐璜並沒有得到什麼機運。他是神聖羅馬皇帝的私生子，兄長西班牙國王菲力二世對他始終提防。若不是鄂圖曼海軍進犯地中海，也許他根本不會有在歷史留名的機會。 唐璜在勒班陀擔任神聖聯盟的指揮官，並出色地擊退了為數龐大的鄂圖曼艦隊。隨後他更出任尼德蘭總督。但正準備大展身手時恰逢尼德蘭起義，他努力想要調停矛盾，但荷蘭人的暴動依然不可收拾，逼迫他參與戰鬥。而他在一場戰鬥中感染傷寒，憂鬱離世。</nuxt-link>
 </li>
   
 </ul>
@@ -149,7 +149,7 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="#">勒班陀(1571)</a></div>
+       <div class="unititle"><nuxt-link to="#">勒班陀(1571)</nuxt-link></div>
        </td>
       </tr>
       <tr>
@@ -158,7 +158,7 @@
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="#">情景信息</a></div>
+       <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link></div>
        </td>
       </tr>
       <tr>
@@ -171,10 +171,10 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="/civs/Japanese">西班牙</a></td>
+       <td class="unit4"><nuxt-link to="/civs/Japanese">西班牙</nuxt-link></td>
       </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="#">戰役關卡編號</a></div>
+       <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link></div>
        </td>
       </tr>
        <tr>

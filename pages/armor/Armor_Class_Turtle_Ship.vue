@@ -11,9 +11,9 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於龜甲船裝甲的。而關於龜甲船請參見<a
-              href="/Turtle_ship.php"
-              >龜甲船</a
+            >這篇文章是將有關於龜甲船裝甲的。而關於龜甲船請參見<nuxt-link
+              to="/Turtle_ship.php"
+              >龜甲船</nuxt-link
             ></em
           >
         </div>
@@ -30,14 +30,17 @@
           下列的單位都是龜甲船單位
           <ul>
             <li>
-              <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" /><a
-                href="/units/Turtle_Ship"
-                >龜甲船→</a
-              >
-              <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" /><a
-                href="/units/Turtle_Ship"
-                >精銳龜甲船</a
-              >(1)(<a href="/civs/Koreans">韓國</a>限定)
+              <img
+                class="gg"
+                src="~assets/TurtleShipIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Turtle_Ship">龜甲船→</nuxt-link>
+              <img
+                class="gg"
+                src="~assets/TurtleShipIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
+              >(1)(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
             </li>
           </ul>
         </div>
@@ -49,10 +52,11 @@
             <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/FastFireShipIcon.jpg" alt="" /><a
-                  href="/units/Fast_Fire_Ship"
-                  >快速火戰船</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/FastFireShipIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
@@ -63,16 +67,17 @@
                   src="~assets/FireShipIcon.jpg"
                   width="22"
                   alt=""
-                /><a href="/units/Fire_Ship">火戰船</a>
+                /><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" /><a
-                  href="/units/Fire_Galley"
-                  >火蒙衝</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/FireGalleyIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>
               </li>
             </ul>
           </div>

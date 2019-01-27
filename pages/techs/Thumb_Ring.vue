@@ -11,12 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            拇指環於<a href="/techsage/Castle_Age">城堡時代</a>在<a
-              href="/Archery_Range"
-              >射箭場</a
-            >研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技<a
-              href="/techs/Ballistics"
-              >彈道學</a
+            拇指環於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/Archery_Range">射箭場</nuxt-link
+            >研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技<nuxt-link
+              to="/techs/Ballistics"
+              >彈道學</nuxt-link
             >則是針對移動目標。
           </p>
         </div>
@@ -33,26 +32,28 @@
                   ></strong
                 >
               </h4>
-              <a href="/civs/Berbers">柏柏</a>、
-              <a href="/civs/Byzantines">拜占庭</a>、
-              <a href="/civs/Chinese">中國</a>、
-              <a href="/civs/Ethiopians">衣索比亞</a>、
-              <a href="/civs/Huns">匈奴</a>、 <a href="/civs/Incas">印加</a>、
-              <a href="/civs/Indians">印度</a>、
-              <a href="/civs/Italians">義大利</a>、
-              <a href="/civs/Japanese">日本</a>、
-              <a href="/civs/Koreans">韓國</a>、
-              <a href="/civs/Magyars">馬扎爾</a>、
-              <a href="/civs/Malay">馬來</a>、 <a href="/civs/Malay">馬利</a>、
-              <a href="/civs/Mayans">馬雅</a>、
-              <a href="/civs/Mongols">蒙古</a>、
-              <a href="/civs/Persians">波斯</a>、
-              <a href="/civs/Portuguese">葡萄牙</a>、
-              <a href="/civs/Saracens">薩拉森</a>、
-              <a href="/civs/Spanish">西班牙</a>、
-              <a href="/civs/Turks">土耳其</a>、
-              <a href="/civs/Vietnamese">越南</a>、
-              <a href="/civs/Vikings">維京</a>。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -68,14 +69,15 @@
                   ></strong
                 >
               </h4>
-              <a href="/civs/Aztecs">阿茲特克</a>、
-              <a href="/civs/Britons">不列顛</a>、
-              <a href="/civs/Burmese">緬甸</a>、
-              <a href="/civs/Celts">賽爾特</a>、
-              <a href="/civs/Franks">法蘭克</a>、
-              <a href="/civs/Goths">哥德</a>、 <a href="/civs/Khmer">高棉</a>、
-              <a href="/civs/Slavs">斯拉夫</a>、
-              <a href="/civs/Teutons">條頓</a>。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
             </div>
           </div>
         </div>
@@ -93,9 +95,10 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/units/Archer">弓兵</a>、<a href="/units/Crossbowman"
-                >弩兵</a
-              >、<a href="/units/Arbalest">強弩兵</a>
+              <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
+                to="/units/Crossbowman"
+                >弩兵</nuxt-link
+              >、<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">
@@ -104,11 +107,11 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/units/Skirmisher">矛兵</a>、<a
-                href="/units/Elite_Skirmisher"
-                >戰矛兵</a
+              <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
+                to="/units/Elite_Skirmisher"
+                >戰矛兵</nuxt-link
               >、
-              <a href="/units/Imperial_Skirmisher">帝王戰矛兵</a>
+              <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link>
             </td>
             <td class="tta2">
               <i class="fas fa-times" style="color: #d9534f;"></i>
@@ -119,9 +122,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/Cavalry_units/Archer">馬弓騎兵</a>、<a
-                href="/Heavy_Cavalry_units/Archer"
-                >重裝馬弓騎兵</a
+              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/Heavy_Cavalry_units/Archer"
+                >重裝馬弓騎兵</nuxt-link
               >
             </td>
             <td class="tta2">+11%</td>
@@ -131,8 +134,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/units/Chu_Ko_Nu">連弩兵</a>、<a href="/units/Chu_Ko_Nu"
-                >精銳連弩兵</a
+              <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>、<nuxt-link
+                to="/units/Chu_Ko_Nu"
+                >精銳連弩兵</nuxt-link
               >
             </td>
             <td class="tta2">+25%</td>
@@ -142,8 +146,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/units/Mangudai">蒙古突騎</a>、<a href="/units/Mangudai"
-                >精銳蒙古突騎</a
+              <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
+                to="/units/Mangudai"
+                >精銳蒙古突騎</nuxt-link
               >
             </td>
             <td class="tta2">+18%</td>
@@ -153,8 +158,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/units/War_Wagon">馬戰車</a>、<a href="/units/War_Wagon"
-                >精銳馬戰車</a
+              <nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link>、<nuxt-link
+                to="/units/War_Wagon"
+                >精銳馬戰車</nuxt-link
               >
             </td>
             <td class="tta2">+11%</td>
@@ -164,55 +170,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/Plumed_units/Archer">羽毛箭射手</a>、<a
-                href="/Plumed_units/Archer"
-                >精銳羽毛箭射手</a
-              >
-            </td>
-            <td class="tta2">+18%</td>
-            <td class="tta3">
-              <i class="fas fa-check" style="color: green;"></i>
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1"><a href="/units/Slinger">投石手</a></td>
-            <td class="tta2">
-              <i class="fas fa-times" style="color: #d9534f;"></i>
-            </td>
-            <td class="tta3">
-              <i class="fas fa-check" style="color: green;"></i>
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1">
-              <a href="/Ballista_unitsanimal/Elephant">弩砲象</a>、<a
-                href="/Ballista_unitsanimal/Elephant"
-                >精銳弩砲象</a
-              >
-            </td>
-            <td class="tta2">+18%</td>
-            <td class="tta3">
-              <i class="fas fa-times" style="color: #d9534f;"></i>
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1">
-              <a href="/Genoese_units/Crossbowman">熱那亞弩手</a>、<a
-                href="/Genoese_units/Crossbowman"
-                >精銳熱那亞弩手</a
-              >
-            </td>
-            <td class="tta2">+18%</td>
-            <td class="tta3">
-              <i class="fas fa-times" style="color: #d9534f;"></i>
-            </td>
-          </tr>
-          <tr>
-            <td class="tta1">
-              <a href="/Camel_units/Archer">駱駝弓箭手</a>、<a
-                href="/Camel_units/Archer"
-                >精銳駱駝弓箭手</a
-              >
+              <nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+              >、<nuxt-link to="/Plumed_units/Archer">精銳羽毛箭射手</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">
@@ -221,9 +180,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/units/Genitour">標槍騎兵</a>、<a href="/units/Genitour"
-                >精銳標槍騎兵</a
-              >
+              <nuxt-link to="/units/Slinger">投石手</nuxt-link>
             </td>
             <td class="tta2">
               <i class="fas fa-times" style="color: #d9534f;"></i>
@@ -234,10 +191,56 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="/Rattan_units/Archer">藤甲弓兵</a>、<a
-                href="/Rattan_units/Archer"
-                >精銳藤甲弓兵</a
+              <nuxt-link to="/Ballista_unitsanimal/Elephant">弩砲象</nuxt-link
+              >、<nuxt-link to="/Ballista_unitsanimal/Elephant"
+                >精銳弩砲象</nuxt-link
               >
+            </td>
+            <td class="tta2">+18%</td>
+            <td class="tta3">
+              <i class="fas fa-times" style="color: #d9534f;"></i>
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1">
+              <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link
+              >、<nuxt-link to="/Genoese_units/Crossbowman"
+                >精銳熱那亞弩手</nuxt-link
+              >
+            </td>
+            <td class="tta2">+18%</td>
+            <td class="tta3">
+              <i class="fas fa-times" style="color: #d9534f;"></i>
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1">
+              <nuxt-link to="/Camel_units/Archer">駱駝弓箭手</nuxt-link
+              >、<nuxt-link to="/Camel_units/Archer">精銳駱駝弓箭手</nuxt-link>
+            </td>
+            <td class="tta2">+18%</td>
+            <td class="tta3">
+              <i class="fas fa-check" style="color: green;"></i>
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1">
+              <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>、<nuxt-link
+                to="/units/Genitour"
+                >精銳標槍騎兵</nuxt-link
+              >
+            </td>
+            <td class="tta2">
+              <i class="fas fa-times" style="color: #d9534f;"></i>
+            </td>
+            <td class="tta3">
+              <i class="fas fa-check" style="color: green;"></i>
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1">
+              <nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link
+              >、<nuxt-link to="/Rattan_units/Archer">精銳藤甲弓兵</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">
@@ -251,7 +254,7 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：科技在城堡/帝王時代各便宜15%/20%。
             </li>
           </ul>
@@ -260,31 +263,33 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Britons">不列顛</a>：研發快20%。</li>
+            <li>
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：研發快20%。
+            </li>
           </ul>
         </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Incas">印加</a>:科技樹沒有<a
-                href="/techs/Thumb_Ring"
-                >拇指環</a
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>:科技樹沒有<nuxt-link
+                to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
               >。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王朝</a></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Incas">印加</a>:科技樹可以研發<a
-                href="/techs/Thumb_Ring"
-                >拇指環</a
+              <nuxt-link to="/civs/Incas">印加</nuxt-link
+              >:科技樹可以研發<nuxt-link to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
               >了。
             </li>
           </ul>
@@ -306,7 +311,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">拇指環</a></div>
+              <div class="unititle"><nuxt-link to="#">拇指環</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -318,7 +323,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -328,19 +335,21 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Archery-range-logo.jpg" alt="" /><a
-                href="/building/Archery_Range"
-                >射箭場</a
-              >
+              <img
+                class="gg"
+                src="~assets/Archery-range-logo.jpg"
+                alt=""
+              /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -349,7 +358,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -362,7 +371,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

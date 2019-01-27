@@ -26,7 +26,7 @@
           </p>
           <h3>優勢文明</h3>
           <div class="hrn1"></div>
-          <p>請見<a href="/civs/bestciv">文明優勢</a></p>
+          <p>請見<nuxt-link to="/civs/bestciv">文明優勢</nuxt-link></p>
         </div>
       </div>
       <div class="col-md-4">

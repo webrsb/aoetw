@@ -12,15 +12,16 @@
         <div class="n1">
           <p>
             <strong>亨利五世</strong>是一名可在《世紀帝國II
-            ：征服者入侵》的地圖編輯器中使用的<a href="/units/Cavalry_Units"
-              >騎兵</a
+            ：征服者入侵》的地圖編輯器中使用的<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
             >
-            <a href="/units/hero">英雄</a
-            >。他的原型是同名的英格蘭的國王亨利五世，最著名的事蹟是在<a
-              href="/Agincourt.php"
-              >亞琴哥特</a
+            <nuxt-link to="/units/hero">英雄</nuxt-link
+            >。他的原型是同名的英格蘭的國王亨利五世，最著名的事蹟是在<nuxt-link
+              to="/Agincourt.php"
+              >亞琴哥特</nuxt-link
             >之戰的勝利，使他幾乎成功征服法國。他在遊戲中以
-            <a href="/units/Paladin">遊俠</a
+            <nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >的外表登場。作為一個英雄單位，他無法被招降且會自動回血。
           </p>
           <p>
@@ -32,7 +33,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">亨利五世</a></div>
+              <div class="unititle"><nuxt-link to="#">亨利五世</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -50,10 +51,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="/units/Cavalry_Units">騎兵</a> <br /><a
-                href="/units/hero"
-                >英雄</a
-              >
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
+              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -90,7 +89,9 @@
           </tr>
           <tr>
             <td class="unit3">防禦類型</td>
-            <td class="unit4"><a href="/armor/Armor_Class_Cavalry">騎兵</a></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
@@ -113,7 +114,7 @@
               <i
                 ><strong
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%94%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
+                    href="https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%94%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
                     >亨利五世</a
                   ></strong
                 ></i

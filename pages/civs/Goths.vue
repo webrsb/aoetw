@@ -102,7 +102,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/got">哥德科技樹</a></em>
+          <em><nuxt-link to="/tree/got">哥德科技樹</nuxt-link></em>
         </div>
         <br />
 
@@ -491,9 +491,9 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a href="/img/CentEuropean.jpg">
+                <nuxt-link to="/img/CentEuropean.jpg">
                   <img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
-                /></a>
+                /></nuxt-link>
 
                 <p>
                   <em>哥德的建築風格</em>
@@ -508,7 +508,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
               <div class="unititle">
-                <a href="#">哥德</a>
+                <nuxt-link to="#">哥德</nuxt-link>
               </div>
             </td>
           </tr>
@@ -525,7 +525,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
               <div class="unititle2">
-                <a href="#">概要</a>
+                <nuxt-link to="#">概要</nuxt-link>
               </div>
             </td>
           </tr>

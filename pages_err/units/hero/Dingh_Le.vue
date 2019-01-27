@@ -10,21 +10,20 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><strong>丁禮</strong>是《王者崛起》中的一名騎兵英雄。他只能在戰役編輯器中使用，並擁有<a href="/units/Paladin">遊俠</a>的外觀。由於他屬於英雄單位，因此不能被招降且會回血
+            <p><strong>丁禮</strong>是《王者崛起》中的一名騎兵英雄。他只能在戰役編輯器中使用，並擁有<nuxt-link to="/units/Paladin">遊俠</nuxt-link>的外觀。由於他屬於英雄單位，因此不能被招降且會回血
               。</p>
           </div>
            <h3>歷史</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>他的原型來自於越南歷史上的知名人物丁禮，他也是梨利的姪子。他既勇猛、狡詐又武功高強。他在年輕時曾擔任<a href="/units/hero/Le_Loi">黎利</a>的護衛。他和梨來在黎利發起藍山起義後不久就率先加入，他同時也是梨利最信賴的人之一。1427年，
-              <a
-              href="/units/hero/Wang_Tong">王通</a>出擊藍山軍的將領黎阮，丁禮率兵五百人前去救援。因兵少，在途中遭到王通夾擊，丁禮被俘，後被斬首。</div>
+            <p>他的原型來自於越南歷史上的知名人物丁禮，他也是梨利的姪子。他既勇猛、狡詐又武功高強。他在年輕時曾擔任<nuxt-link to="/units/hero/Le_Loi">黎利</nuxt-link>的護衛。他和梨來在黎利發起藍山起義後不久就率先加入，他同時也是梨利最信賴的人之一。1427年，
+              <nuxt-link to="/units/hero/Wang_Tong">王通</nuxt-link>出擊藍山軍的將領黎阮，丁禮率兵五百人前去救援。因兵少，在途中遭到王通夾擊，丁禮被俘，後被斬首。</div>
         </div>
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="#">丁禮</a>
+                <div class="unititle"><nuxt-link to="#">丁禮</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -42,7 +41,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="#">騎兵<br/>英雄</a>
+              <td class="unit4"><nuxt-link to="#">騎兵<br/>英雄</nuxt-link>
               </td>
             </tr>
             <tr>

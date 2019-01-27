@@ -12,9 +12,9 @@
         <div class="n1">
           <div class="spw">
             <em
-              >這篇文章是將有關威廉華勒斯這個的英雄單位。關於威廉華勒斯戰役請參見<a
-                href="/batt/William_Wallacea"
-                >威廉華勒斯戰役</a
+              >這篇文章是將有關威廉華勒斯這個的英雄單位。關於威廉華勒斯戰役請參見<nuxt-link
+                to="/batt/William_Wallacea"
+                >威廉華勒斯戰役</nuxt-link
               ></em
             >
           </div>
@@ -33,7 +33,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">威廉華勒斯</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">威廉華勒斯</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>

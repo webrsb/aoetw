@@ -18,17 +18,18 @@
 
           <h3>優勢文明</h3>
           <p>
-            <a href="/civs/Byzantines">拜占庭</a>、
-            <a href="/civs/Incas">印加</a>、
-            <a href="/civs/Italians">義大利</a>、
-            <a href="/civs/Japanese">日本</a>、
-            <a href="/civs/Koreans">韓國</a>、 <a href="/civs/Malay">馬來</a>、
-            <a href="/civs/Persians">波斯</a>、
-            <a href="/civs/Portuguese">葡萄牙</a>、
-            <a href="/civs/Spanish">西班牙</a>、
-            <a href="/civs/Teutons">條頓</a>、
-            <a href="/civs/Turks">土耳其</a>、
-            <a href="/civs/Vikings">維京</a>。
+            <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+            <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+            <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+            <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+            <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+            <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+            <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+            <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+            <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+            <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+            <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
           </p>
         </div>
       </div>

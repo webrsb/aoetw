@@ -21,13 +21,12 @@
           </p>
 
           <p>
-            在陸地和海上都強盛的文明在這張地圖上會表現很好，例如<a
-              href="/civs/Spanish"
-              >西班牙人</a
-            >和<a href="/civs/Koreans">韓國人</a>。海軍文明如<a
-              href="/civs/Malay"
-              >馬來人</a
-            >和<a href="/civs/Vikings">維京人</a>也是很好的選擇。
+            在陸地和海上都強盛的文明在這張地圖上會表現很好，例如<nuxt-link
+              to="/civs/Spanish"
+              >西班牙人</nuxt-link
+            >和<nuxt-link to="/civs/Koreans">韓國人</nuxt-link
+            >。海軍文明如<nuxt-link to="/civs/Malay">馬來人</nuxt-link
+            >和<nuxt-link to="/civs/Vikings">維京人</nuxt-link>也是很好的選擇。
           </p>
         </div>
       </div>

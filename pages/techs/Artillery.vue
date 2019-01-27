@@ -11,14 +11,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            砲兵是<a href="/civs/Turks">土耳其</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/building/Bombard_Tower"
-              >火炮塔</a
-            >、<a href="/units/Bombard_Cannon">火炮</a>；
-            <a href="/units/Cannon_Galleon">火炮戰船</a>射程+2。
+            砲兵是<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/building/Bombard_Tower"
+              >火炮塔</nuxt-link
+            >、<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>；
+            <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>射程+2。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,11 +27,11 @@
         <div class="n1">
           <ul>
             <li>
-              砲兵讓土耳其火炮塔的攻擊距離可打到敵隊火炮。土耳其的<a
-                href="/Elite_units/Cannon_Galleon"
-                >精銳火炮戰船</a
+              砲兵讓土耳其火炮塔的攻擊距離可打到敵隊火炮。土耳其的<nuxt-link
+                to="/Elite_units/Cannon_Galleon"
+                >精銳火炮戰船</nuxt-link
               >有遊戲中最遠的射程(與有
-              <a href="/techs/Siege_Engineers">攻城工程師</a
+              <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >的巨型投機並列)土耳其的火炮在攻城上有更遠的攻擊距離。
             </li>
           </ul>
@@ -40,8 +41,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速砲兵的研究時間(快25%)。
             </li>
           </ul>
@@ -64,7 +66,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">砲兵</a></div>
+              <div class="unititle"><nuxt-link to="#">砲兵</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -76,12 +78,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Turks">土耳其</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -90,15 +96,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -108,7 +114,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -121,7 +127,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -11,9 +11,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            壞鄰居是一個在薩拉丁戰役最終關：<a
-              href="/batt/The_Lion_and_the_Demon"
-              >獅子與惡魔</a
+            壞鄰居是一個在薩拉丁戰役最終關：<nuxt-link
+              to="/batt/The_Lion_and_the_Demon"
+              >獅子與惡魔</nuxt-link
             >登場的英雄單位。壞鄰居的原型是一台參與了
             <a href="http://tinyurl.com/yd7zm48f">阿卡圍城戰</a
             >的投石機（神之弓也是）。雖然壞鄰居以投石機的外表出現，但是他有幾個特點。當他組裝後，他像其他的英雄單位一樣無法被招降且會自動回血，防禦仍是2/8，與一般的投石機(1/150)不同。壞鄰居在未組裝時血量會掉一半(300->150)，並且失去所有英雄單位該有的能力，此外他還會擁有1的近戰攻擊力（雖然你永遠用不到，因為在未組裝的狀態下令壞鄰居攻擊會使他開始組裝）。
@@ -27,10 +27,13 @@
               雖然壞鄰居的確有在<a href="http://tinyurl.com/yd7zm48f"
                 >阿卡圍城戰</a
               >中被使用，但在史實中他是由腓力二世所擁有，而不是
-              <a href="/units/hero/Richard_the_Lionheart">獅心王理查</a>。
+              <nuxt-link to="/units/hero/Richard_the_Lionheart"
+                >獅心王理查</nuxt-link
+              >。
             </li>
             <li>
-              壞鄰居和<a href="/units/hero/God_s_Own_Sling">神之弓</a
+              壞鄰居和<nuxt-link to="/units/hero/God_s_Own_Sling"
+                >神之弓</nuxt-link
               >長達20的射程在遊戲中無人能及。
             </li>
           </ul>
@@ -40,7 +43,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">壞鄰居</a></div>
+              <div class="unititle"><nuxt-link to="#">壞鄰居</nuxt-link></div>
             </td>
           </tr>
           <tr>

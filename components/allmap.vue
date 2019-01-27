@@ -13,46 +13,31 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <a href="/maps/Arabia">阿拉伯</a>。<a href="/maps/Archipelago">群島</a
-              >。<a href="/maps/Baltic">波羅的海</a>。
-              <a href="/maps/Black_Forest">黑森林</a>。<a href="/maps/Coastal"
-                >沿海</a
-              >。<a href="/maps/Continental">大陸</a>。
-              <a href="/maps/Fortress">堡壘</a>。<a href="/maps/Gold_Rush">淘金潮</a
-              >。<a href="/maps/Highland">高原</a>。
-              <a href="/maps/Islands">島嶼</a>。<a href="/maps/Mediterranean"
-                >地中海</a
-              >。<a href="/maps/Migration">移民</a>。
-              <a href="/maps/Rivers">河流</a>。<a href="/Team_/maps/Islands"
-                >團隊群島</a
-              >。><a href="/maps/Arena">圍城</a>。
-              <a href="/maps/Ghost_Lake">鬼湖</a>。<a href="/maps/Mongolia"
-                >蒙古高原</a
-              >。<a href="/maps/Nomad">游牧</a>。<a href="/maps/Oasis">綠洲</a>。
-              <a href="/maps/Salt_Marsh">鹽沼地</a>。<a href="/maps/Scandinavia"
-                >斯堪地維亞</a
-              >。<a href="/Yucatan.php">猶加敦</a>。
-              <a href="/maps/Acropolis">雅典衛城</a>。<a href="/maps/Budapest"
-                >布達佩斯</a
-              >。<a href="/maps/Cenotes">岩坑池</a>。
-              <a href="/maps/Land_of_Lakes">百湖之城</a>。<a href="/maps/Golden_Pit"
-                >金礦谷</a
-              >。<a href="/maps/Hideout">藏身之處</a>。
-              <a href="/maps/Lombardia">倫巴地</a>。<a href="/maps/Steppe">乾草原</a
-              >。<a href="/maps/Valley">峽谷</a>。<a href="/maps/Megarandom"
-                >超級隨機</a
-              >。 <a href="/maps/Hamburger">漢堡包</a>。<a href="/maps/Kilimanjaro"
-                >吉力馬札羅山</a
-              >。<a href="/maps/Mountain_Pass">雪山地</a>。
-              <a href="/maps/Nile_Delta">尼羅河三角洲</a>。<a href="/maps/Serengeti"
-                >塞倫蓋提平原</a
-              >。<a href="/maps/Socotra">索科特拉島</a>。
-              <a href="/maps/Bog_Islands">沼澤</a>。<a href="/maps/Mangrove_Jungle"
-                >紅樹林</a
-              >。<a href="/Pacific_/maps/Islands">太平洋群島</a>。
-              <a href="/maps/Sandbank">沙洲</a>。<a href="/Water_/maps/Nomad"
-                >水上游牧</a
-              >。
+              <nuxt-link to="/maps/Arabia">阿拉伯</nuxt-link>。<nuxt-link to="/maps/Archipelago">群島</nuxt-link>。<nuxt-link to="/maps/Baltic">波羅的海</nuxt-link>。
+              <nuxt-link to="/maps/Black_Forest">黑森林</nuxt-link>。<nuxt-link to="/maps/Coastal"
+                >沿海</nuxt-link>。<nuxt-link to="/maps/Continental">大陸</nuxt-link>。
+              <nuxt-link to="/maps/Fortress">堡壘</nuxt-link>。<nuxt-link to="/maps/Gold_Rush">淘金潮</nuxt-link>。<nuxt-link to="/maps/Highland">高原</nuxt-link>。
+              <nuxt-link to="/maps/Islands">島嶼</nuxt-link>。<nuxt-link to="/maps/Mediterranean"
+                >地中海</nuxt-link>。<nuxt-link to="/maps/Migration">移民</nuxt-link>。
+              <nuxt-link to="/maps/Rivers">河流</nuxt-link>。<nuxt-link to="/Team_/maps/Islands"
+                >團隊群島</nuxt-link>。><nuxt-link to="/maps/Arena">圍城</nuxt-link>。
+              <nuxt-link to="/maps/Ghost_Lake">鬼湖</nuxt-link>。<nuxt-link to="/maps/Mongolia"
+                >蒙古高原</nuxt-link>。<nuxt-link to="/maps/Nomad">游牧</nuxt-link>。<nuxt-link to="/maps/Oasis">綠洲</nuxt-link>。
+              <nuxt-link to="/maps/Salt_Marsh">鹽沼地</nuxt-link>。<nuxt-link to="/maps/Scandinavia"
+                >斯堪地維亞</nuxt-link>。<nuxt-link to="/Yucatan.php">猶加敦</nuxt-link>。
+              <nuxt-link to="/maps/Acropolis">雅典衛城</nuxt-link>。<nuxt-link to="/maps/Budapest"
+                >布達佩斯</nuxt-link>。<nuxt-link to="/maps/Cenotes">岩坑池</nuxt-link>。
+              <nuxt-link to="/maps/Land_of_Lakes">百湖之城</nuxt-link>。<nuxt-link to="/maps/Golden_Pit"
+                >金礦谷</nuxt-link>。<nuxt-link to="/maps/Hideout">藏身之處</nuxt-link>。
+              <nuxt-link to="/maps/Lombardia">倫巴地</nuxt-link>。<nuxt-link to="/maps/Steppe">乾草原</nuxt-link>。<nuxt-link to="/maps/Valley">峽谷</nuxt-link>。<nuxt-link to="/maps/Megarandom"
+                >超級隨機</nuxt-link>。 <nuxt-link to="/maps/Hamburger">漢堡包</nuxt-link>。<nuxt-link to="/maps/Kilimanjaro"
+                >吉力馬札羅山</nuxt-link>。<nuxt-link to="/maps/Mountain_Pass">雪山地</nuxt-link>。
+              <nuxt-link to="/maps/Nile_Delta">尼羅河三角洲</nuxt-link>。<nuxt-link to="/maps/Serengeti"
+                >塞倫蓋提平原</nuxt-link>。<nuxt-link to="/maps/Socotra">索科特拉島</nuxt-link>。
+              <nuxt-link to="/maps/Bog_Islands">沼澤</nuxt-link>。<nuxt-link to="/maps/Mangrove_Jungle"
+                >紅樹林</nuxt-link>。<nuxt-link to="/Pacific_/maps/Islands">太平洋群島</nuxt-link>。
+              <nuxt-link to="/maps/Sandbank">沙洲</nuxt-link>。<nuxt-link to="/Water_/maps/Nomad"
+                >水上游牧</nuxt-link>。
             </td>
           </tr>
         </table>

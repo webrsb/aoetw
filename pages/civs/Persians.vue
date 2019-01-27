@@ -86,7 +86,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/pre">波斯科技樹</a></em>
+          <em><nuxt-link to="/tree/pre">波斯科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>戰術概論</h3>
@@ -316,9 +316,9 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a href="/img/Wonderpersians.png">
+                <nuxt-link to="/img/Wonderpersians.png">
                   <img class="imgn hg" src="~assets/Wonderpersians.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>波斯的世界奇觀</em></p>
               </div>
             </div>

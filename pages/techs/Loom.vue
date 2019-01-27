@@ -11,10 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            織布技術可於<a href="/techsage/Dark_Age">黑暗時代</a>在<a
-              href="/building/Town_Center"
-              >城鎮中心</a
-            >
+            織布技術可於<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link
+            >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             研發。可讓村民+15 HP，+1/+2護甲，總共是40 HP 和+1/+2護甲。
           </p>
           <p>
@@ -32,11 +30,11 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
             </li>
             <li>
-              <a href="/civs/Persians">波斯</a
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：該科技在封建/城堡/帝王時代研究速度快10%/15%/20%。
             </li>
           </ul>
@@ -45,26 +43,27 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>織布技術給村民護甲+1/+1。</li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>1.0c改版後織布技術現在給村民護甲+1/+2。</li>
             <li>
-              <a href="/civs/Aztecs">阿茲特克</a>:1.0c改版後織布技術免費。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >:1.0c改版後織布技術免費。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Aztecs">阿茲特克</a
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
               >:織布技術不再免費，不過開局黃金量+50。
             </li>
           </ul>
@@ -73,9 +72,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            織布技術是除了<a href="/building/Monastery">修道院</a
-            >的科技之外唯二只需要黃金的科技，另一個技術是<a href="/techs/Spies"
-              >間諜</a
+            織布技術是除了<nuxt-link to="/building/Monastery">修道院</nuxt-link
+            >的科技之外唯二只需要黃金的科技，另一個技術是<nuxt-link
+              to="/techs/Spies"
+              >間諜</nuxt-link
             >。
           </p>
         </div>
@@ -91,7 +91,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">織布技術</a></div>
+              <div class="unititle"><nuxt-link to="#">織布技術</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -103,7 +103,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -113,19 +115,21 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Dark-age-logo-small.jpg" alt="" /><a
-                href="/techsage/Dark_Age"
-                >黑暗時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Dark-age-logo-small.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Town-center-logo.jpg" alt="" /><a
-                href="/building/Town_Center"
-                >城鎮中心</a
-              >
+              <img
+                class="gg"
+                src="~assets/Town-center-logo.jpg"
+                alt=""
+              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -134,7 +138,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -143,7 +147,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

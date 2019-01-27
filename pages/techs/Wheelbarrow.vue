@@ -11,9 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            獨輪推車可於<a href="/techsage/Feudal_Age">封建時代</a>在<a
-              href="/building/Town_Center"
-              >城鎮中心</a
+            獨輪推車可於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >研發。研發後村民移動速度快10%，每趟可攜帶資源量+25%(從10增加為13，所以實際是30%)。
           </p>
           <p>
@@ -26,14 +25,16 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
             </li>
             <li>
-              <a href="/civs/Persians">波斯</a
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：研究該科技的時間在封建/城堡/帝王時代快10%/15%/20%。
             </li>
-            <li><a href="/civs/Vikings">維京</a>：該科技免費。</li>
+            <li>
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>：該科技免費。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -48,7 +49,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">獨輪推車</a></div>
+              <div class="unititle"><nuxt-link to="#">獨輪推車</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -60,7 +61,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -70,27 +73,29 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="/techsage/Feudal_Age"
-                >封建時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Feudal-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Town-center-logo.jpg" alt="" /><a
-                href="/building/Town_Center"
-                >城鎮中心</a
-              >
+              <img
+                class="gg"
+                src="~assets/Town-center-logo.jpg"
+                alt=""
+              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">可升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Handcart.jpg" alt="" /><a
-                href="/Hand_Cart.php"
-                >手推車</a
+              <img class="gg" src="~assets/Handcart.jpg" alt="" /><nuxt-link
+                to="/Hand_Cart.php"
+                >手推車</nuxt-link
               >
             </td>
           </tr>
@@ -100,7 +105,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -113,7 +118,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

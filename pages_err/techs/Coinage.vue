@@ -10,23 +10,23 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            </p>鑄幣術研發後會將<a href="/Tribute.php">進貢費</a>從30%->20%。如果玩家打算將資源送給盟友，或是降低交換資源的虧損，那這項科技會相當有用處。</p>
-            </p><a href="/techs/Banking">銀行制度</a>是這項科技的下一個升級。</div>
+            </p>鑄幣術研發後會將<nuxt-link to="/Tribute.php">進貢費</nuxt-link>從30%->20%。如果玩家打算將資源送給盟友，或是降低交換資源的虧損，那這項科技會相當有用處。</p>
+            </p><nuxt-link to="/techs/Banking">銀行制度</nuxt-link>是這項科技的下一個升級。</div>
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
+             <h3><em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em></h3>
             <ul>
               <li>成本為150F/50G</li>
               <li>需要50秒的研發時間</li>
               <li>封建時代就可以研發</li>
             </ul>
-             <h3><em><a href="/games/ak">非洲王國</a></em></h3>
+             <h3><em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em></h3>
             <ul>
               <li>成本為200F/100G</li>
               <li>需要70秒研發</li>
             </ul>
-             <h3><em><a href="/games/aor">王者崛起</a></em></h3>
+             <h3><em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em></h3>
             <ul>
               <li>5.8版後，城堡時代才能研發</li>
             </ul>
@@ -40,7 +40,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="#">鑄幣術</a>
+                <div class="unititle"><nuxt-link to="#">鑄幣術</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -53,7 +53,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">科技介紹</a>
+                <div class="unititle2"><nuxt-link to="#">科技介紹</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -63,12 +63,12 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
-              <td class="unit4"><a href="/building/Market">市集</a>
+              <td class="unit4"><nuxt-link to="/building/Market">市集</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -77,7 +77,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">成本</a>
+                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -91,7 +91,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">影響</a>
+                <div class="unititle2"><nuxt-link to="#">影響</nuxt-link>
                 </div>
               </td>
             </tr>

@@ -15,9 +15,9 @@
           </p>
           <p>在遊戲中王通的外貌是拜占庭聖騎兵，不能被招降而且會自行回血。</p>
           <p>
-            王通為中國明朝的將領，曾跟隨明成祖北伐。明宣宗宣德二年，<a
-              href="/units/hero/Le_Loi"
-              >黎利</a
+            王通為中國明朝的將領，曾跟隨明成祖北伐。明宣宗宣德二年，<nuxt-link
+              to="/units/hero/Le_Loi"
+              >黎利</nuxt-link
             >攻打清化。王通以銳兵五千人出其不意偷襲獲勝，斬殺萬餘人。黎利恐懼欲撤軍，而明軍諸將請求乘勝追擊。王通猶豫三日不出擊，此時黎利恢復元氣，開始四處進攻，並分兵占領昌江、諒江。王通均不出兵進攻。此時，黎利求和，王通將其求和書呈獻給明宣宗。當時恰逢柳升中伏全軍覆沒，沐晟部隊在抵達水尾縣後無法前進。王通更加害怕，於是急忙將黎利的求和書和謝罪表一同上呈朝廷。同年十月，王通率領官吏軍民出城，與黎利立壇結盟，雙方約定撤兵。王通送給黎利錦羅綢緞，黎利也回贈貴重財寶為謝。
           </p>
           <p>
@@ -29,7 +29,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">王通</a></div>
+              <div class="unititle"><nuxt-link to="#">王通</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -47,7 +47,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="#">騎兵<br />英雄</a>
+              <nuxt-link to="#">騎兵<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>

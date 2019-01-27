@@ -64,41 +64,41 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(護甲+1/+1，+3建築護甲)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                 <br/>
-                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link>(+20%建造效率)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">其它</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Atheism">無神論</a>(遺跡和世界奇觀的勝利時間延長100年，間諜/叛徒花費-50%)</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><nuxt-link to="/techs/Atheism">無神論</nuxt-link>(遺跡和世界奇觀的勝利時間延長100年，間諜/叛徒花費-50%)</td>
             </tr>
           </table>
         </div>
@@ -131,7 +131,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="/techsage/Imperial_Age">帝王時代</a>
+              <td class="unit4"><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -178,8 +178,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="/armor/Armor_Class_Building">建築</a>
-                <br/> <a href="/Armor_Class_standard_building.php">標準建築</a>
+              <td class="unit4"><nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
+                <br/> <nuxt-link to="/Armor_Class_standard_building.php">標準建築</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -195,31 +195,30 @@
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
-                <li><a href="/civs/Byzantines">拜占庭</a>：世界奇觀的生命值+40%。</li>
-                <li><a href="/civs/Chinese">中國</a>：在帝王時代，對世界奇觀有加成的科技價格便宜20％。</li>
-                <li><a href="/civs/Incas">印加</a>：世界奇觀成本減少15%石頭。</li>
-                <li><a href="/civs/Malians">馬利</a>：世界奇觀成本減少15%木材。</li>
+                <li><nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：世界奇觀的生命值+40%。</li>
+                <li><nuxt-link to="/civs/Chinese">中國</nuxt-link>：在帝王時代，對世界奇觀有加成的科技價格便宜20％。</li>
+                <li><nuxt-link to="/civs/Incas">印加</nuxt-link>：世界奇觀成本減少15%石頭。</li>
+                <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：世界奇觀成本減少15%木材。</li>
               </ul>
             </div>
             <h3>團隊加成</h3>
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
-                <li><a href="/civs/Malians">馬利</a>：研究<a href="/techs/Treadmill_Crane">踏輪起重機</a>，
-                  <a
-                  href="/techs/Architecture">建築學</a>和<a href="/techs/Treadmill_Crane">踏輪起重機</a>科技的團隊速度提高80%。</li>
+                <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link>，
+                  <nuxt-link to="/techs/Architecture">建築學</nuxt-link>和<nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link>科技的團隊速度提高80%。</li>
               </ul>
             </div>
             <h3>更新日誌</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
+              <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
               <ul>
-                <li><a href="/civs/Indians">印度</a>的世界奇觀是Gol Gumbaz。</li>
+                <li><nuxt-link to="/civs/Indians">印度</nuxt-link>的世界奇觀是Gol Gumbaz。</li>
               </ul>
-              <h3><em><a href="/games/aof">王者崛起</a></em></h3>
+              <h3><em><nuxt-link to="/games/aof">王者崛起</nuxt-link></em></h3>
               <ul>
-                <li><a href="/civs/Indians">印度</a>現在的世界奇觀是布里哈迪希瓦拉神廟，Gol Gumbaz還是可以在戰役編輯器中找到。</li>
+                <li><nuxt-link to="/civs/Indians">印度</nuxt-link>現在的世界奇觀是布里哈迪希瓦拉神廟，Gol Gumbaz還是可以在戰役編輯器中找到。</li>
               </ul>
             </div>
             <h3>趣事</h3>

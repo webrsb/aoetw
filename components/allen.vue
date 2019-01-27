@@ -10,12 +10,12 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <a href="/elements/Hit_points">血量</a>· 
-              <a href="/elements/Attack">攻擊</a>·
-              <a href="/elements/Rate_of_Fire">射速</a>·
-              <a href="/elements/Frame_delay">開火間隔</a>·
-              <a href="/Armor_Class.php">防禦類型</a>·
-              <a href="/elements/Area_of_Effect">擴散範圍</a>
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>· 
+              <nuxt-link to="/elements/Attack">攻擊</nuxt-link>·
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>·
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>·
+              <nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>·
+              <nuxt-link to="/elements/Area_of_Effect">擴散範圍</nuxt-link>
             </td>
           </tr>
         </table>

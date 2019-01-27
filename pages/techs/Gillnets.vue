@@ -11,14 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            流刺網於<a href="/techsage/Castle_Age">城堡時代</a>在<a
-              href="/building/Dock"
-              >碼頭</a
-            >
+            流刺網於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Dock">碼頭</nuxt-link>
             研發。研發後
-            <a href="/units/Fishing_Ship">漁船</a
-            >工作速度+25%。這讓漁船捕魚和從<a href="/building/Fish_Trap">漁網</a
-            >收集食物速度加快，建造<a href="/building/Fish_Trap">漁網</a
+            <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+            >工作速度+25%。這讓漁船捕魚和從<nuxt-link to="/building/Fish_Trap"
+              >漁網</nuxt-link
+            >收集食物速度加快，建造<nuxt-link to="/building/Fish_Trap"
+              >漁網</nuxt-link
             >的速度也加快。
           </p>
         </div>
@@ -27,12 +27,14 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：流刺網在城堡/帝王時代各便宜15%/20%。
             </li>
-            <li><a href="/civs/Italians">義大利</a>：流刺網便宜50%。</li>
             <li>
-              <a href="/civs/Persians">波斯</a
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：流刺網便宜50%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >：流刺網在城堡/帝王時代研究速度快15%/20%。
             </li>
           </ul>
@@ -49,7 +51,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">流刺網</a></div>
+              <div class="unititle"><nuxt-link to="#">流刺網</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -61,7 +63,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -71,18 +75,19 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Dockicon.png" alt="" /><a
-                href="/building/Dock"
-                >碼頭</a
+              <img class="gg" src="~assets/Dockicon.png" alt="" /><nuxt-link
+                to="/building/Dock"
+                >碼頭</nuxt-link
               >
             </td>
           </tr>
@@ -92,7 +97,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -105,7 +110,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

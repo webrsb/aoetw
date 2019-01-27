@@ -11,13 +11,10 @@
         <div class="col-md-8">
           <div class="n1">
             <p><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89"><strong>匈奴王阿提拉</strong></a>是
-              <a
-              href="/civs/Huns">匈奴人</a>自434年至453年間的統治者。在《世紀帝國II：征服者入侵》的阿提拉戰役中正是描寫從他崛起到死亡之間的故事。</p>單位特性
-            <hr></hr>阿提拉是一名<a href="/units/Cavalry_Units">騎兵</a><a href="/units/hero">英雄</a>，他以
-            <a
-            href="/units/Cataphract">拜占庭聖騎兵</a>的外型出現在<a href="/batt/Scourge_of_God">上帝之鞭</a>和<a href="/batt/Fall_of_Rome">羅馬的衰落</a>這兩關戰役中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與
-              <a
-              href="/units/hero/Pope_Leo_I">教宗利奧一世</a>會面才能獲勝。作為英雄，他無法被招降而且會自動回血。
+              <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>自434年至453年間的統治者。在《世紀帝國II：征服者入侵》的阿提拉戰役中正是描寫從他崛起到死亡之間的故事。</p>單位特性
+            <hr></hr>阿提拉是一名<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link><nuxt-link to="/units/hero">英雄</nuxt-link>，他以
+            <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>的外型出現在<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>和<nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link>這兩關戰役中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與
+              <nuxt-link to="/units/hero/Pope_Leo_I">教宗利奧一世</nuxt-link>會面才能獲勝。作為英雄，他無法被招降而且會自動回血。
                 <p>
           </div>
         </div>
@@ -25,7 +22,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="#">匈奴王阿提拉</a>
+                <div class="unititle"><nuxt-link to="#">匈奴王阿提拉</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -43,8 +40,8 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="/units/Cavalry_Units">騎兵</a>
-                <br/><a href="/units/hero">英雄</td>
+              <td class="unit4"><nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
+                <br/><nuxt-link to="/units/hero">英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -69,8 +66,8 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="/Wild_Boar.php">野豬</a> +40
-                <br/>對<a href="/armor/Armor_Class_Building">建築</a> +3</td>
+              <td class="unit4">對<nuxt-link to="/Wild_Boar.php">野豬</nuxt-link> +40
+                <br/>對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link> +3</td>
             </tr>
             <tr>
               <tr>
@@ -85,7 +82,7 @@
                   </tr>
                   <tr>
                     <td class="unit3">防禦類型</td>
-                    <td class="unit4"><a href="/armor/Armor_Class_Infantry">步兵</a></td>
+                    <td class="unit4"><nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link></td>
                   </tr>
                   <tr>
                     <td class="unit3">跑速</td>

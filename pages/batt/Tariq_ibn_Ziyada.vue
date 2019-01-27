@@ -11,17 +11,17 @@
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是說關於塔里克．伊本．齊亞德戰役。而關於英雄的塔里克．伊本．齊亞德這個單位請參見<a
-              href="/units/hero/Tariq_ibn_Ziyad"
-              >塔里克．伊本．齊亞德(英雄)</a
+            >這篇文章是說關於塔里克．伊本．齊亞德戰役。而關於英雄的塔里克．伊本．齊亞德這個單位請參見<nuxt-link
+              to="/units/hero/Tariq_ibn_Ziyad"
+              >塔里克．伊本．齊亞德(英雄)</nuxt-link
             ></em
           >
         </div>
         <div class="n1">
           <div class="ien">
             <em>
-              8世紀初，塔里克·伊本·齊亞德準備帶領<a href="/civs/Berbers"
-                >柏柏人</a
+              8世紀初，塔里克·伊本·齊亞德準備帶領<nuxt-link to="/civs/Berbers"
+                >柏柏人</nuxt-link
               >和阿拉伯人的軍隊橫渡伊比利亞，為了無盡的功名和榮華富貴，他們的威力是否足以戰勝西哥特人的恐怖步兵，戰火是否能燒到庇里牛斯山另一頭的梅羅文加王朝嗎？他們的成功，或失敗，在於你的手。
             </em>
             <p style="text-align: right;margin-top: 10px;">
@@ -36,8 +36,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            塔里克·伊本·齊亞德在遊戲戰役中為<a href="/units/Genitour"
-              >標槍騎兵</a
+            塔里克·伊本·齊亞德在遊戲戰役中為<nuxt-link to="/units/Genitour"
+              >標槍騎兵</nuxt-link
             >的型態，是馬弓騎兵英雄，能在地圖編輯器中找到他，他不會被招降，能夠自動恢復HP。
           </p>
         </div>
@@ -53,16 +53,24 @@
             <div class="col-md-6">
               <ol>
                 <li>
-                  <a href="/batt/The_Battle_of_Guadalete">瓜達萊特之戰</a>
+                  <nuxt-link to="/batt/The_Battle_of_Guadalete"
+                    >瓜達萊特之戰</nuxt-link
+                  >
                 </li>
                 <li>
-                  <a href="/batt/Consolidation_and_Subjugation">攻城拔寨</a>
+                  <nuxt-link to="/batt/Consolidation_and_Subjugation"
+                    >攻城拔寨</nuxt-link
+                  >
                 </li>
-                <li><a href="/batt/Divide_and_Conquer">縱橫捭闔</a></li>
                 <li>
-                  <a href="/batt/Crossing_the_Pyrenees">穿越庇里牛斯山脈</a>
+                  <nuxt-link to="/batt/Divide_and_Conquer">縱橫捭闔</nuxt-link>
                 </li>
-                <li><a href="/batt/Razzia">突襲</a></li>
+                <li>
+                  <nuxt-link to="/batt/Crossing_the_Pyrenees"
+                    >穿越庇里牛斯山脈</nuxt-link
+                  >
+                </li>
+                <li><nuxt-link to="/batt/Razzia">突襲</nuxt-link></li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -133,7 +141,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E5%A1%94%E9%87%8C%E5%85%8B%C2%B7%E4%BC%8A%E6%9C%AC%C2%B7%E9%BD%8A%E4%BA%9E%E5%BE%B7"
+                    href="https://zh.wikipedia.org/wiki/%E5%A1%94%E9%87%8C%E5%85%8B%C2%B7%E4%BC%8A%E6%9C%AC%C2%B7%E9%BD%8A%E4%BA%9E%E5%BE%B7"
                     >塔里克·伊本·齊亞德</a
                   ></b
                 ></i

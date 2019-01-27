@@ -22,39 +22,41 @@
         <div class="n1">
           <p>
             蒙古人最大的優勢在於
-            <a href="/Cavalry_units/Archer">馬弓騎兵</a>與攻城武器，除沒有
-            <a href="/units/Halberdier">戟兵</a>，他們還有完整的步兵科技，而除了
-            <a href="/units/Bombard_Cannon">火炮</a
-            >之外，他們也有所有的攻城武器。這意味著蒙古人在遊戲中可以使用成群的馬弓騎兵與<a
-              href="/units/Champion"
-              >劍兵勇士</a
+            <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+            >與攻城武器，除沒有
+            <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+            >，他們還有完整的步兵科技，而除了
+            <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+            >之外，他們也有所有的攻城武器。這意味著蒙古人在遊戲中可以使用成群的馬弓騎兵與<nuxt-link
+              to="/units/Champion"
+              >劍兵勇士</nuxt-link
             >和
-            <a href="/units/Siege_Ram">重型衝撞車</a
+            <nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
             >。蒙古突騎也是相當致命兵種。總體來說，蒙古人擅長游擊與迅速的破壞，然而他們的防守也有些欠缺。因為他們的箭塔只能升級一次，以及不能蓋火炮塔。但蒙古人也有
-            <a href="/units/Camel">駱駝</a
+            <nuxt-link to="/units/Camel">駱駝</nuxt-link
             >，是除了中國人與非洲中東文明外，唯二有駱駝的。
           </p>
           <h3>特殊單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/MangudaiIcon.jpg" /><a
-                href="/units/Mangudai"
-                >蒙古突騎</a
+              <img class="gg" src="~assets/MangudaiIcon.jpg" /><nuxt-link
+                to="/units/Mangudai"
+                >蒙古突騎</nuxt-link
               >:射速非常快且剋攻城武器的馬弓騎兵
             </li>
           </ul>
           <h3>特殊科技</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><a
-                href="/techs/Nomads"
-                >游牧</a
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Nomads"
+                >游牧</nuxt-link
               >:房子被拆後，人口不會減少
             </li>
             <li>
-              <img class="gg" src="~assets/Unique-tech.jpg" /><a
-                href="/techs/Drill"
-                >演習</a
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Drill"
+                >演習</nuxt-link
               >:使得攻城武器+50%移動速度
             </li>
           </ul>
@@ -63,30 +65,33 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/Cavalry_units/Archer">馬弓騎兵</a>射速+20%</li>
             <li>
-              <a href="/units/Light_Cavalry"
-                >輕騎兵與 <a href="/Hustree/sar">匈牙利輕騎兵</a></a
+              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>射速+20%
+            </li>
+            <li>
+              <nuxt-link to="/units/Light_Cavalry"
+                >輕騎兵與
+                <nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link></nuxt-link
               >+30%HP
             </li>
             <li>打獵的效率提高+50%</li>
             <li>
               <strong>團隊加分:</strong
-              ><a href="/units/Scout_Cavalry">斥候</a>+2視野
+              ><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>+2視野
             </li>
           </ul>
         </div>
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/mon">蒙古科技樹</a></em>
+          <em><nuxt-link to="/tree/mon">蒙古科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>精銳火砲戰船被拔除。</li>
@@ -106,9 +111,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Wondermongols.png"
+              <nuxt-link to="/img/Wondermongols.png"
                 ><img class="imgn hg" src="~assets/Wondermongols.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>成吉思汗的大帳棚</em></p>
             </div>
           </div>
@@ -155,9 +160,9 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/MangudaiIcon.jpg" /><a
-                href="/units/Mangudai"
-                >蒙古突騎</a
+              <img class="gg" src="~assets/MangudaiIcon.jpg" /><nuxt-link
+                to="/units/Mangudai"
+                >蒙古突騎</nuxt-link
               >
             </td>
           </tr>
@@ -169,11 +174,11 @@
             <td class="unit3">特殊技術</td>
             <td class="unit4">
               <img class="gg" src="~assets/CastleAgeUnique.png" />
-              <a href="/techs/Nomads">游牧</a>
+              <nuxt-link to="/techs/Nomads">游牧</nuxt-link>
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><a
-                href="/techs/Drill"
-                >鑿岩機</a
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Drill"
+                >鑿岩機</nuxt-link
               >
             </td>
           </tr>

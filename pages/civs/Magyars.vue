@@ -86,7 +86,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/mag">馬札爾科技樹</a></em>
+          <em><nuxt-link to="/tree/mag">馬札爾科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -107,9 +107,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Maygars_preview.png"
+              <nuxt-link to="/img/Maygars_preview.png"
                 ><img class="imgn hg" src="~assets/Maygars_preview.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>官方釋出的馬扎爾文明</em></p>
             </div>
           </div>
@@ -119,7 +119,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="#">馬扎爾</a></div>
+              <div class="unititle"><nuxt-link to="#">馬扎爾</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -132,7 +132,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>

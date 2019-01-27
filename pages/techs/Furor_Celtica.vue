@@ -11,12 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            賽爾特狂暴是<a href="/civs/Celts">賽爾特</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/building/Siege_Workshop"
-              >攻城器製造所</a
+            賽爾特狂暴是<nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/building/Siege_Workshop"
+              >攻城器製造所</nuxt-link
             >的單位+40% HP。
           </p>
         </div>
@@ -25,7 +26,8 @@
         <div class="n1">
           <ul>
             <li>
-              賽爾特狂暴讓賽爾特人的<a href="/units/Siege_Weapons">攻城武器</a
+              賽爾特狂暴讓賽爾特人的<nuxt-link to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
               >更難被摧毀。搭配他們的文明加成(攻城武器開火速度快20%)和團隊加成(攻城器製造所工作速率快15%)，讓賽爾特攻城武器是遊戲中最為人所懼怕的
             </li>
           </ul>
@@ -35,8 +37,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速賽爾特狂暴的研究時間(快25%)。
             </li>
           </ul>
@@ -45,13 +48,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>賽爾特狂暴讓所有攻城器製造所的單位+50% HP。</li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>+50% HP改為+40% HP。</li>
@@ -69,7 +72,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">賽爾特狂暴</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">賽爾特狂暴</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -81,12 +86,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Celts">賽爾特</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -95,15 +104,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -113,7 +122,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -126,7 +135,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

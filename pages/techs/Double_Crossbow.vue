@@ -11,13 +11,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            雙弩箭是<a href="/civs/Khmer">高棉</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/Ballista_unitsanimal/Elephant"
-              >弩炮象</a
-            >和<a href="/units/Scorpion">弩炮</a>一次發射兩個投射物。
+            雙弩箭是<nuxt-link to="/civs/Khmer">高棉</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/Ballista_unitsanimal/Elephant"
+              >弩炮象</nuxt-link
+            >和<nuxt-link to="/units/Scorpion">弩炮</nuxt-link
+            >一次發射兩個投射物。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -25,21 +27,22 @@
         <div class="n1">
           <ul>
             <li>
-              雙弩箭增強了弩炮象和高棉無可挑剔的弩炮(團隊加成:弩炮射程+1還有<a
-                href="/techs/Siege_Engineers"
-                >攻城工程師</a
+              雙弩箭增強了弩炮象和高棉無可挑剔的弩炮(團隊加成:弩炮射程+1還有<nuxt-link
+                to="/techs/Siege_Engineers"
+                >攻城工程師</nuxt-link
               >的加成)對大規模
-              <a href="/units/Infantry_Units">步兵</a>的殺傷力。
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>的殺傷力。
             </li>
             <li>
               第二個投射物有一個輕微的錐形擴展，造成的傷害比第一個投射物小一點。
             </li>
             <li>
-              大量有雙弩箭的弩炮象和弩炮可以摧毀大面積區域，這讓高棉的弩炮水平與<a
-                href="/civs/Ethiopians"
-                >衣索比亞</a
-              >、 <a href="/civs/Celts">賽爾特</a>、和<a href="/civs/Chinese"
-                >中國</a
+              大量有雙弩箭的弩炮象和弩炮可以摧毀大面積區域，這讓高棉的弩炮水平與<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
+              >、 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、和<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
               >的弩炮可以平起平坐。
             </li>
           </ul>
@@ -49,8 +52,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速雙弩箭的研究時間(快25%)。
             </li>
           </ul>
@@ -67,7 +71,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">雙弩箭</a></div>
+              <div class="unititle"><nuxt-link to="#">雙弩箭</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -79,12 +83,14 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Khmer">高棉</a></td>
+            <td class="unit4"><nuxt-link to="/civs/Khmer">高棉</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -93,15 +99,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -111,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -124,7 +130,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

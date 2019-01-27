@@ -20,7 +20,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="n1">
-              <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4>
+              <h4><nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代</h4>
               <ul>
                 <li>
                   <img
@@ -28,7 +28,7 @@
                     src="~assets/Elite-unique-research.jpg"
                     width="30"
                     alt=""
-                  /><a href="/units/Unique_Unit">特殊單位</a>
+                  /><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -36,7 +36,7 @@
                     src="~assets/PetardIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="/units/Petard">爆炸桶</a>
+                  /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -44,14 +44,16 @@
                     src="~assets/CastleAgeUnique.png"
                     width="30"
                     alt=""
-                  /><a href="/techs/untech">城堡特殊科技</a>
+                  /><nuxt-link to="/techs/untech">城堡特殊科技</nuxt-link>
                 </li>
               </ul>
             </div>
           </div>
           <div class="col-md-6">
             <div class="n1">
-              <h4><a href="/techsage/Imperial_Age"></a>帝王時代</h4>
+              <h4>
+                <nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代
+              </h4>
               <ul>
                 <li>
                   <img
@@ -59,7 +61,7 @@
                     src="~assets/Elite-unique-research.jpg"
                     width="30"
                     alt=""
-                  /><a href="/units/Unique_Unit">精銳特殊單位</a>
+                  /><nuxt-link to="/units/Unique_Unit">精銳特殊單位</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -67,7 +69,7 @@
                     src="~assets/TrebuchetPackedIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="/units/Trebuchet">巨型投石機</a>
+                  /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -75,7 +77,7 @@
                     src="~assets/Unique-tech.jpg"
                     width="30"
                     alt=""
-                  /><a href="/techs/untech">帝王特殊科技</a>
+                  /><nuxt-link to="/techs/untech">帝王特殊科技</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -83,7 +85,7 @@
                     src="~assets/Hoardings.jpg"
                     width="30"
                     alt=""
-                  /><a href="/techs/Hoardings">外架式柵樓</a>
+                  /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -91,7 +93,7 @@
                     src="~assets/Sappers.jpg"
                     width="30"
                     alt=""
-                  /><a href="/techs/Sappers">坑道工兵</a>
+                  /><nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -99,7 +101,7 @@
                     src="~assets/Conscription.jpg"
                     width="30"
                     alt=""
-                  /><a href="/techs/Conscription">徵兵制度</a>
+                  /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -107,7 +109,7 @@
                     src="~assets/Spiestreason.jpg"
                     width="30"
                     alt=""
-                  /><a href="/techs/Spies">間諜</a>
+                  /><nuxt-link to="/techs/Spies">間諜</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -117,30 +119,45 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Aztecs">阿茲特克</a>：城堡生產速度提高15％。</li>
             <li>
-              <a href="/civs/Burmese">緬甸</a>：研究<a
-                href="/techs/Herbal_Medicine"
-                >草藥學</a
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >：城堡生產速度提高15％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研究<nuxt-link
+                to="/techs/Herbal_Medicine"
+                >草藥學</nuxt-link
               >便宜50％。
             </li>
             <li>
-              <a href="/civs/Byzantines">拜占庭</a>：黑暗/封建/城堡/帝國時代的
-              城堡HP分別增加10%/20%/30%/40%。
-              <a href="/techs/Town_Watch">城鎮暸望</a>免費。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >：黑暗/封建/城堡/帝國時代的 城堡HP分別增加10%/20%/30%/40%。
+              <nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>免費。
             </li>
-            <li><a href="/civs/Franks">法蘭克</a>：城堡便宜25％。</li>
-            <li><a href="/civs/Incas">印加</a>：城堡便宜15％。</li>
-            <li><a href="/civs/Koreans">韓國</a>：建築速度提高了33％ 。</li>
-            <li><a href="/civs/Spanish">西班牙</a>：建築速度提高了30％。</li>
             <li>
-              <a href="/civs/Teutons">條頓</a>：<a href="/techs/Murder_Holes"
-                >垛孔</a
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：城堡便宜25％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>：城堡便宜15％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：建築速度提高了33％
+              。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：建築速度提高了30％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：<nuxt-link
+                to="/techs/Murder_Holes"
+                >垛孔</nuxt-link
               >免費。
             </li>
             <li>
-              <a href="/civs/Vietnamese">越南</a>：<a href="/techs/Conscription"
-                >徵兵制度</a
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >免費。
             </li>
           </ul>
@@ -150,13 +167,15 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >可提高城堡的工作效率25%。
             </li>
             <li>
-              <a href="/civs/Malians">馬利</a>：<a href="/building/University"
-                >學院</a
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：<nuxt-link
+                to="/building/University"
+                >學院</nuxt-link
               >裡對城堡有加成的科技研發速度快80%。
             </li>
           </ul>
@@ -167,7 +186,7 @@
           <ul>
             <li>
               城堡位置有時攸關整場勝負，請謹慎思考，一般來說如果是生產較慢速的城堡兵如不列顛長弓兵與土耳其火槍兵，城堡可蓋前線，如果是快速移動的部隊則盡可能蓋自己家防守，如：馬雅羽毛箭射手、
-              <a href="/units/Conquistador">西班牙征服者</a
+              <nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
               >、緬甸飛鏢騎兵。中國高手大屌哥就曾因為城堡蓋錯位置，輸了整場比賽。當然影響建築位置的原因很多，這只是其中一點。
             </li>
             <li>
@@ -216,7 +235,7 @@
                   src="~assets/VillagerMaleIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="/units/Villager">村民</a>
+                /><nuxt-link to="/units/Villager">村民</nuxt-link>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">13(額外9)</td>
@@ -228,7 +247,7 @@
                   src="~assets/ArcherIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="/units/Archer">弓兵</a>
+                /><nuxt-link to="/units/Archer">弓兵</nuxt-link>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">11(額外7)</td>
@@ -240,7 +259,7 @@
                   src="~assets/CrossbowmanIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="/Crossbowma.php">弩兵</a>
+                /><nuxt-link to="/Crossbowma.php">弩兵</nuxt-link>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">14(額外10)</td>
@@ -252,13 +271,13 @@
                   src="~assets/ArbalestIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="/units/Arbalest">強弩兵</a>
+                /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
                 <img
                   class="gg"
                   src="~assets/CavalryArcherIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="/Cavalry_units/Archer">馬弓騎兵</a>
+                /><nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">16(額外12)</td>
@@ -270,7 +289,7 @@
                   src="~assets/HandCannoneerIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="/units/Hand_Cannoneer">火槍手</a>
+                /><nuxt-link to="/units/Hand_Cannoneer">火槍手</nuxt-link>
               </td>
               <td class="tta2">18</td>
               <td class="tta3">19(額外15)</td>
@@ -278,7 +297,7 @@
           </table>
 
           條頓的特殊技術：<strong
-            ><a href="/techs/Crenellations">垛口</a></strong
+            ><nuxt-link to="/techs/Crenellations">垛口</nuxt-link></strong
           >，讓步兵駐紮也有增加箭數效果，同種類的步兵駐紮滿20人可以增加7支箭。
         </div>
         <h3>更多數據</h3>
@@ -293,22 +312,21 @@
           <tr>
             <td class="tta1">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="/units/Naval_Vessels">船隻</a>，<a
-                href="/units/Archer_Units"
-                >弓兵系</a
-              >， <a href="/units/Monk">僧侶</a>，虛弱的近戰單位。
+              <nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>，<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵系</nuxt-link
+              >， <nuxt-link to="/units/Monk">僧侶</nuxt-link>，虛弱的近戰單位。
             </td>
           </tr>
           <tr>
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
-              <a href="/Siege_Weapon_Unit.php">攻城武器</a>，<a
-                href="/units/Tarkan"
-                >韃靼騎兵</a
-              >， <a href="/units/Huskarl">哥德衛隊</a>，<a
-                href="/War_unitsanimal/Elephant"
-                >戰象</a
-              >，<a href="/units/Cannon_Galleon">火炮戰船</a>。
+              <nuxt-link to="/Siege_Weapon_Unit.php">攻城武器</nuxt-link
+              >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，
+              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
+                to="/War_unitsanimal/Elephant"
+                >戰象</nuxt-link
+              >，<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -319,106 +337,116 @@
           <tr>
             <td class="tta1" style="width:20%">生命值</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="/techs/Masonry"
-                >磚瓦技術</a
-              >(+10%)
+              <img
+                class="gg"
+                src="~assets/Masonry.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
               <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Architecture">建築學</a>(+10%)
+              /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
               <br />
-              <img class="gg" src="~assets/Hoardings.jpg" width="30" alt="" /><a
-                href="/techs/Hoardings"
-                >外架式柵樓</a
-              >(+1000)
+              <img
+                class="gg"
+                src="~assets/Hoardings.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>(+1000)
             </td>
           </tr>
           <tr>
             <td class="tta1">攻擊力</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Fletching.jpg" width="30" alt="" /><a
-                href="/techs/Fletching"
-                >箭羽</a
-              >(+1)
+              <img
+                class="gg"
+                src="~assets/Fletching.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
               <br />
-              <img class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><a
-                href="/techs/Bracer"
-                >護腕</a
-              >(+1)
+              <img
+                class="gg"
+                src="~assets/Bracer.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
               <br />
-              <img class="gg" src="~assets/Chemistry.jpg" width="30" alt="" /><a
-                href="/techs/Chemistry"
-                >化學</a
-              >(+1)
+              <img
+                class="gg"
+                src="~assets/Chemistry.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Heatedshot.png"
                 width="30"
                 alt=""
-              /><a href="/techs/Heated_Shot">預熱射擊</a>(+4，僅對<a
-                href="/units/Naval_Vessels"
-                >船隻</a
-              >)
+              /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+              >(+4，僅對<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>)
               <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="/techs/Boiling_Oil">沸油</a>(+9僅對衝撞車系，<a
-                href="/civs/Persians"
-                >波斯</a
+              /><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link
+              >(+9僅對衝撞車系，<nuxt-link to="/civs/Persians">波斯</nuxt-link
               >限定)
             </td>
           </tr>
           <tr>
             <td class="tta1">範圍</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Fletching.jpg" width="30" alt="" /><a
-                href="/techs/Fletching"
-                >箭羽</a
-              >(+1)
+              <img
+                class="gg"
+                src="~assets/Fletching.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
+              /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
               <br />
-              <img class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><a
-                href="/techs/Bracer"
-                >護腕</a
-              >(+1)
+              <img
+                class="gg"
+                src="~assets/Bracer.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Murderholes.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Murder_Holes">垛孔</a>:消除最小射程
+              /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
+              >:消除最小射程
               <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Crenellations">垛口</a>(+3，<a
-                href="/civs/Teutons"
-                >條頓</a
-              >限定)
+              /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              >(+3，<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -429,9 +457,8 @@
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="/techs/Stronghold">堡壘</a>(+25%，<a href="/civs/Celts"
-                >賽爾特</a
-              >限定)
+              /><nuxt-link to="/techs/Stronghold">堡壘</nuxt-link
+              >(+25%，<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -442,15 +469,19 @@
                 src="~assets/Ballistics.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Ballistics">彈道學</a>:較易擊中移動目標
+              /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
+              >:較易擊中移動目標
             </td>
           </tr>
           <tr>
             <td class="tta1">護甲</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="/techs/Masonry"
-                >磚瓦技術</a
+              <img
+                class="gg"
+                src="~assets/Masonry.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >(+1/+1，+3建築護甲)
               <br />
               <img
@@ -458,23 +489,26 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Architecture">建築學</a>(+1/+1，+3建築護甲)
+              /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
+              >(+1/+1，+3建築護甲)
             </td>
           </tr>
           <tr>
             <td class="tta1">視野</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Townwatch.jpg" width="30" alt="" /><a
-                href="/techs/Town_Watch"
-                >城鎮暸望</a
-              >(+4)
+              <img
+                class="gg"
+                src="~assets/Townwatch.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Town_Watch">城鎮巡邏</a>(+4)
+              /><nuxt-link to="/techs/Town_Watch">城鎮巡邏</nuxt-link>(+4)
             </td>
           </tr>
           <tr>
@@ -485,7 +519,8 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%)
+              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              >(+20%)
             </td>
           </tr>
           <tr>
@@ -496,16 +531,15 @@
                 src="~assets/Conscription.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Conscription">徵兵制度</a>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="/techs/Kasbah">聚居堡壘</a>(+25%，<a
-                href="/civs/Berbers"
-                >柏柏</a
+              /><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link
+              >(+25%，<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >與其同盟限定)
             </td>
           </tr>
@@ -517,14 +551,16 @@
                 src="~assets/Herbalmedicine.png"
                 width="30"
                 alt=""
-              /><a href="/techs/Herbal_Medicine">草藥學</a>:駐紮單位治療速度加快
+              /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+              >:駐紮單位治療速度加快
               <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="/techs/Crenellations">垛口</a>:駐紮步兵可增加箭數
+              /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
+              >:駐紮步兵可增加箭數
             </td>
           </tr>
         </table>
@@ -533,38 +569,47 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>城堡視野+10。</li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>引入<a href="/techs/Herbal_Medicine">草藥學</a>。</li>
             <li>
-              <a href="/civs/Teutons">條頓</a>:引入<a
-                href="/techs/Crenellations"
-                >垛口</a
+              引入<nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:引入<nuxt-link
+                to="/techs/Crenellations"
+                >垛口</nuxt-link
               >。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>城堡現在有11的視野範圍。</li>
-            <li><a href="/techs/Chemistry">化學</a>現在會加成城堡的攻擊。</li>
             <li>
-              <a href="/civs/Celts">塞爾特</a>:引入<a href="/techs/Stronghold"
-                >堡壘</a
+              <nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >現在會加成城堡的攻擊。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
+                to="/techs/Stronghold"
+                >堡壘</nuxt-link
               >。
             </li>
-            <li><a href="/civs/Koreans">韓國</a>:城堡建造速度快33%。</li>
             <li>
-              <a href="/civs/Persians">波斯</a>:引入<a href="/techs/Boiling_Oil"
-                >熱油</a
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:城堡建造速度快33%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>:引入<nuxt-link
+                to="/techs/Boiling_Oil"
+                >熱油</nuxt-link
               >。
             </li>
           </ul>
@@ -617,7 +662,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="/building/Castle">城堡</a></div>
+              <div class="unititle">
+                <nuxt-link to="/building/Castle">城堡</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -629,7 +676,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -642,7 +689,9 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -650,7 +699,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -659,7 +708,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">數據</a></div>
+              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -681,7 +730,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="/armor/Armor_Class_Spearman">長槍兵</a>+2
+              對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link>+2
             </td>
           </tr>
           <tr>
@@ -715,10 +764,13 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="/armor/Armor_Class_Building">建築（+8）</a> <br />
-              <a href="/Armor_Class_standard_building.php">標準建築</a>
+              <nuxt-link to="/armor/Armor_Class_Building">建築（+8）</nuxt-link>
               <br />
-              <a href="/img/Armor_class_building/Castle">城堡</a>
+              <nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
+              >
+              <br />
+              <nuxt-link to="/img/Armor_class_building/Castle">城堡</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -735,33 +787,33 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a href="/img/Castleaokaoc.png"
+          <nuxt-link to="/img/Castleaokaoc.png"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/Castleaokaoc.png"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px" ;>
             <p><em>所有城堡(帝王世紀和征服者入侵資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <a href="/img/Castlehd.png"
+          <nuxt-link to="/img/Castlehd.png"
             ><img class="imgn hg" width="200" src="~assets/Castlehd.png" alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px" ;>
             <p><em>所有城堡(HD擴充資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <a href="/img/Spritesheet_castle.png"
+          <nuxt-link to="/img/Spritesheet_castle.png"
             ><img
               class="imgn hg"
               width="200"
               src="~assets/Spritesheet_castle.png"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:185px" ;>
             <p><em>城堡在一般地圖/下雪地圖和駐紮單位時的樣子。</em></p>
           </div>

@@ -11,8 +11,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="/building/Town_Center">城鎮中心</a>
-            是一個在世紀帝國II到達<a href="/techsage/Castle_Age">城堡時代</a
+            <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
+            是一個在世紀帝國II到達<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
             >後能建造的建築，玩家間俗稱為TC。它能訓練村民、加速村民採集資源的速率、還是資源收集站，同時也支援5個人口上限。在世紀帝國中可說是最重要的建築物也不為過。
           </p>
           <p>
@@ -47,26 +48,26 @@
           <div class="row">
             <div class="col-md-4">
               <div class="n1">
-                <h4><a href="/techsage/Dark_Age">黑暗時代</a></h4>
+                <h4><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link></h4>
                 <ul>
                   <li>
                     <img
                       class="gg"
                       src="~assets/VillagerMaleIcon.jpg"
                       alt=""
-                    /><a href="/units/Villager">村民</a>
+                    /><nuxt-link to="/units/Villager">村民</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Feudal-age-reseach.jpg"
                       alt=""
-                    /><a href="/techsage/Feudal_Age">封建時代</a>
+                    /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Loom.jpg" alt="" /><a
-                      href="/techs/Loom"
-                      >織布技術</a
+                    <img class="gg" src="~assets/Loom.jpg" alt="" /><nuxt-link
+                      to="/techs/Loom"
+                      >織布技術</nuxt-link
                     >
                   </li>
                 </ul>
@@ -74,52 +75,62 @@
             </div>
             <div class="col-md-4">
               <div class="n1">
-                <h4><a href="/techsage/Feudal_Age">封建時代</a></h4>
+                <h4>
+                  <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                </h4>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Townwatch.jpg" alt="" /><a
-                      href="/techs/Town_Watch"
-                      >城鎮瞭望</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Townwatch.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Castle-age-reseach.jpg"
                       alt=""
-                    /><a href="/techsage/Castle_Age">城堡時代</a>
+                    /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Wheelbarrow.jpg" alt="" /><a
-                      href="/techs/Wheelbarrow"
-                      >獨輪推車</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Wheelbarrow.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-md-4">
               <div class="n1">
-                <h4><a href="/techsage/Castle_Age">城堡時代</a></h4>
+                <h4>
+                  <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                </h4>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Townpatrol.jpg" alt="" /><a
-                      href="/techs/Town_Patrol"
-                      >城鎮巡邏</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Townpatrol.jpg"
+                      alt=""
+                    /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Imperial-age-research.jpg"
                       alt=""
-                    /><a href="/techsage/Imperial_Age">帝王時代</a>
+                    /><nuxt-link to="/techsage/Imperial_Age"
+                      >帝王時代</nuxt-link
+                    >
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Handcart.jpg" alt="" /><a
-                      href="/Hand_Cart.php"
-                      >手推車</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/Handcart.jpg"
+                      alt=""
+                    /><nuxt-link to="/Hand_Cart.php">手推車</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -141,13 +152,11 @@
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4">
-                射程較遠的範圍單位、<a href="/units/Tarkan">韃靼騎兵</a>、<a
-                  href="/units/Huskarl"
-                  >哥德衛隊</a
-                >、 <a href="/War_unitsanimal/Elephant">戰象</a>和<a
-                  href="/units/Battering_Ram"
-                  >衝撞車</a
-                >。
+                射程較遠的範圍單位、<nuxt-link to="/units/Tarkan"
+                  >韃靼騎兵</nuxt-link
+                >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、
+                <nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link
+                >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>。
               </td>
             </tr>
             <tr class="tta">
@@ -158,17 +167,19 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="/techs/Masonry"
-                  >磚瓦技術</a
-                >(+10%)
+                <img
+                  class="gg"
+                  src="~assets/Masonry.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Architecture">建築學</a>(+10%)
+                /><nuxt-link to="/techs/Architecture">建築學</nuxt-link>(+10%)
               </td>
             </tr>
             <tr>
@@ -179,34 +190,38 @@
                   src="~assets/Fletching.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Fletching">箭羽</a>(+1)
+                /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Bodkinarrow.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
+                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>(+1)
                 <br />
-                <img class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><a
-                  href="/techs/Bracer"
-                  >護腕</a
-                >(+1)
+                <img
+                  class="gg"
+                  src="~assets/Bracer.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Chemistry.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Chemistry">化學</a>(+1)
+                /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
                 <br />
                 <img
                   class="gg"
                   src="~assets/CastleAgeUnique.png"
                   width="30"
                   alt=""
-                /><a href="/techs/Tigui">部落領袖</a
-                >:城鎮中心不須駐守就可放箭，<a href="/civs/Malians">馬利</a>限定
+                /><nuxt-link to="/techs/Tigui">部落領袖</nuxt-link
+                >:城鎮中心不須駐守就可放箭，<nuxt-link to="/civs/Malians"
+                  >馬利</nuxt-link
+                >限定
               </td>
             </tr>
             <tr>
@@ -217,15 +232,19 @@
                   src="~assets/Ballistics.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Ballistics">彈道學</a>:對移動目標命中率上升
+                /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
+                >:對移動目標命中率上升
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="/techs/Masonry"
-                  >磚瓦技術</a
+                <img
+                  class="gg"
+                  src="~assets/Masonry.jpg"
+                  width="30"
+                  alt=""
+                /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                 >(護甲+1/+1，+3建築護甲)
                 <br />
                 <img
@@ -233,7 +252,7 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Architecture">建築學</a
+                /><nuxt-link to="/techs/Architecture">建築學</nuxt-link
                 >(護甲+1/+1，+3建築護甲)
               </td>
             </tr>
@@ -245,14 +264,14 @@
                   src="~assets/Townwatch.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
+                /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Townpatrol.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
+                /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
               </td>
             </tr>
             <tr>
@@ -263,7 +282,8 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%工作效率)
+                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                >(+20%工作效率)
               </td>
             </tr>
             <tr>
@@ -274,7 +294,7 @@
                   src="~assets/Herbalmedicine.png"
                   width="30"
                   alt=""
-                /><a href="/techs/Herbal_Medicine">草藥學</a
+                /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
                 >:增加駐守單位回血速度
                 <br />
                 <img
@@ -282,9 +302,9 @@
                   src="~assets/Unique-tech.jpg"
                   width="30"
                   alt=""
-                /><a href="/techs/Crenellations">剁口</a>:步兵駐守也可放箭，<a
-                  href="/civs/Teutons"
-                  >條頓</a
+                /><nuxt-link to="/techs/Crenellations">剁口</nuxt-link
+                >:步兵駐守也可放箭，<nuxt-link to="/civs/Teutons"
+                  >條頓</nuxt-link
                 >限定
               </td>
             </tr>
@@ -295,27 +315,37 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="/civs/Britons">不列顛</a>：城鎮中心的木頭花費-50%
+                <nuxt-link to="/civs/Britons">不列顛</nuxt-link
+                >：城鎮中心的木頭花費-50%
               </li>
               <li>
-                <a href="/civs/Byzantines">拜占庭</a
+                <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
                 >：在黑暗/封建/城堡/帝王時代，城鎮中心增加10%/20%/30%40%的血量。城鎮瞭望科技免費。
               </li>
               <li>
-                <a href="/civs/Chinese">中國</a
+                <nuxt-link to="/civs/Chinese">中國</nuxt-link
                 >：任何技術(除了時代演進外)在封建/城堡/帝王時代分別便宜10%/15%/20%。城鎮中心可支援10人口且視野+5。
               </li>
-              <li><a href="/civs/Incas">印加</a>：城鎮中心石頭造價便宜15%</li>
-              <li><a href="/civs/Malians">馬利</a>：城鎮中心木材造價便宜15%</li>
               <li>
-                <a href="/civs/Persians">波斯</a>：城鎮中心生命值+100%
+                <nuxt-link to="/civs/Incas">印加</nuxt-link
+                >：城鎮中心石頭造價便宜15%
+              </li>
+              <li>
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link
+                >：城鎮中心木材造價便宜15%
+              </li>
+              <li>
+                <nuxt-link to="/civs/Persians">波斯</nuxt-link
+                >：城鎮中心生命值+100%
                 HP，在封建/城堡/帝王時代的工作效率分別加快10%/15%/20%。
               </li>
               <li>
-                <a href="/civs/Spanish">西班牙</a>：城鎮中心的建造速度快30%。
+                <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+                >：城鎮中心的建造速度快30%。
               </li>
               <li>
-                <a href="/civs/Teutons">條頓</a>：城鎮中心可駐紮25個單位。
+                <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+                >：城鎮中心可駐紮25個單位。
               </li>
             </ul>
           </div>
@@ -324,7 +354,8 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="/civs/Malians">馬利</a>：團隊學院科技研發速度快80%
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link
+                >：團隊學院科技研發速度快80%
               </li>
             </ul>
           </div>
@@ -333,40 +364,52 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li><a href="/civs/Teutons">條頓</a>:城鎮中心+2攻擊跟+5射程。</li>
-          </ul>
-          <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
-          </h3>
-          <ul>
-            <li><a href="/civs/Teutons">條頓</a>:城鎮中心+2攻擊跟+5視野。</li>
-          </ul>
-          <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
-          </h3>
-          <ul>
-            <li>城鎮中心的攻擊可受<a href="/techs/Chemistry">化學</a>加成。</li>
-            <li><a href="/civs/Chinese">中國</a>:城鎮中心視野+5(從條頓移除)</li>
             <li>
-              <a href="/civs/Teutons">條頓</a
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >:城鎮中心+2攻擊跟+5射程。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >:城鎮中心+2攻擊跟+5視野。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              城鎮中心的攻擊可受<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >加成。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >:城鎮中心視野+5(從條頓移除)
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >:城鎮中心可以駐守25單位；+2攻擊跟+5視野被移除。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王朝</a></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/units/Camel">駱駝騎兵</a>從<a
-                href="/armor/Armor_Class_Ship"
-                >船艦護甲</a
+              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>從<nuxt-link
+                to="/armor/Armor_Class_Ship"
+                >船艦護甲</nuxt-link
               >分類移除，所以
-              <a href="/building/Town_Center">城鎮中心</a
-              >對他們的攻擊加乘沒有了，現在<a href="/building/Town_Center"
-                >城鎮中心</a
+              <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >對他們的攻擊加乘沒有了，現在<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
               >對他們攻擊+1。
             </li>
           </ul>
@@ -383,75 +426,75 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/TCDarkAge.png"
+              <nuxt-link to="/img/TCDarkAge.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCDarkAge.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>黑暗時代的城鎮中心。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="/img/TCFeudalAgeHD.png"
+              <nuxt-link to="/img/TCFeudalAgeHD.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCFeudalAgeHD.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有封建時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="/img/TCFeudalAgeDLC.png"
+              <nuxt-link to="/img/TCFeudalAgeDLC.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCFeudalAgeDLC.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有封建時代的城鎮中心(HD 擴充版)。</em></p>
             </div>
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Towncenteraokaoc.png"
+              <nuxt-link to="/img/Towncenteraokaoc.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Towncenteraokaoc.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有城堡時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="/img/Towncenteraoe2expansions.png"
+              <nuxt-link to="/img/Towncenteraoe2expansions.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Towncenteraoe2expansions.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有城堡時代的城鎮中心(HD 擴充版)。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="/img/TCImperialAgeHD.png"
+              <nuxt-link to="/img/TCImperialAgeHD.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCImperialAgeHD.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有帝王時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="/img/TCImperialAgeDLC.png"
+              <nuxt-link to="/img/TCImperialAgeDLC.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCImperialAgeDLC.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有帝王時代的城鎮中心(HD 擴充版)。</em></p>
             </div>
           </div>
@@ -461,7 +504,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="#">城鎮中心</a></div>
+              <div class="unititle"><nuxt-link to="#">城鎮中心</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -473,7 +516,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -486,7 +529,9 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
+            <td class="unit4">
+              <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -498,7 +543,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -511,7 +556,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="#">數據</a></div>
+              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -537,11 +582,13 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +5對<a href="/armor/Armor_Class_Ship">船隻</a> <br />+5對<a
-                href="/armor/Armor_Class_Building"
-                >建築物</a
+              +5對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>
+              <br />+5對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
               >
-              <br />+1對<a href="/armor/Armor_Class_Camel">駱駝單位</a>
+              <br />+1對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝單位</nuxt-link
+              >
             </td>
           </tr>
           <tr>

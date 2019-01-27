@@ -11,9 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬軛可於<a href="/techsage/Feudal_Age">封建時代</a>的<a
-              href="/building/Mill"
-              >磨坊</a
+            馬軛可於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
             >研發。可讓新種植的農田產量增加75食物(總共250食物)。重犁是更進一步的科技。
           </p>
           <p>
@@ -25,10 +24,12 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
             </li>
-            <li><a href="/civs/Franks">法蘭克</a>：該科技免費。</li>
+            <li>
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：該科技免費。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -44,7 +45,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">馬軛</a></div>
+              <div class="unititle"><nuxt-link to="#">馬軛</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -56,7 +57,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -66,27 +69,28 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="/techsage/Feudal_Age"
-                >封建時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Feudal-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Mill-icon.jpg" alt="" /><a
-                href="/building/Mill"
-                >磨坊</a
+              <img class="gg" src="~assets/Mill-icon.jpg" alt="" /><nuxt-link
+                to="/building/Mill"
+                >磨坊</nuxt-link
               >
             </td>
           </tr>
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Heavyplow.jpg" alt="" /><a
-                href="/techs/Heavy_Plow"
-                >重犁</a
+              <img class="gg" src="~assets/Heavyplow.jpg" alt="" /><nuxt-link
+                to="/techs/Heavy_Plow"
+                >重犁</nuxt-link
               >
             </td>
           </tr>
@@ -96,7 +100,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -109,7 +113,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

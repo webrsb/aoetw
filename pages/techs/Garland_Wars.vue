@@ -11,10 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            榮冠戰爭是阿茲特克的特殊科技，可於<a href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在<a href="/building/Castle">城堡</a>研發。研發後
-            <a href="/units/Infantry_Units">步兵</a>攻擊+4。
+            榮冠戰爭是阿茲特克的特殊科技，可於<nuxt-link
+              to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
+            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>攻擊+4。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -22,14 +23,14 @@
         <div class="n1">
           <ul>
             <li>
-              榮冠戰爭的研發可讓<a href="/units/Eagle_Warrior">鷹勇士</a>和<a
-                href="/units/Jaguar_Warrior"
-                >豹勇士</a
+              榮冠戰爭的研發可讓<nuxt-link to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >和<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
               >替代騎兵成為阿茲的軍隊核心。與
-              <a href="/units/Spearman">長槍兵</a
-              >搭配讓他們成為一支非常的危險部隊。即使<a
-                href="/Teutonic_units/Knight"
-                >條頓武士</a
+              <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+              >搭配讓他們成為一支非常的危險部隊。即使<nuxt-link
+                to="/Teutonic_units/Knight"
+                >條頓武士</nuxt-link
               >與他們碰頭也會陷入苦戰，因為在大規模的戰鬥中，豹戰士能夠擊敗他們。
             </li>
           </ul>
@@ -39,8 +40,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速榮冠戰爭的研究時間(快25%)。
             </li>
           </ul>
@@ -57,7 +59,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">榮冠戰爭</a></div>
+              <div class="unititle"><nuxt-link to="#">榮冠戰爭</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -69,12 +71,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Aztecs">阿茲特克</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -83,15 +89,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -101,7 +107,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -114,7 +120,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

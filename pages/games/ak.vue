@@ -26,9 +26,9 @@
               >位於北非的部落，擁有強大的海軍與騎兵，準備來一場史詩般的戰爭征服伊比亞半島，獲取異教徒的財富，抵擋那些逐漸團結的伊比利亞半島上的王國。
             </li>
             <li>
-              <strong>馬利:</strong>跟隨偉大的<a
-                href="/units/hero/Musa_ibn_Nusayr"
-                >曼薩·穆薩</a
+              <strong>馬利:</strong>跟隨偉大的<nuxt-link
+                to="/units/hero/Musa_ibn_Nusayr"
+                >曼薩·穆薩</nuxt-link
               >，成為西非最偉大的國王，征服周圍的王國，獲取更大的財富，牢牢控制該地區的貿易路線，你能擊敗其他那些曾經與你敵對的人嗎?
             </li>
             <li>
@@ -47,33 +47,35 @@
           <p>特殊單位</p>
           <ul>
             <li>
-              <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" /><a
-                href="/Camel_units/Archer"
-                >駱駝弓騎兵</a
+              <img
+                class="gg"
+                src="~assets/CamelArcherIcon.jpg"
+                alt=""
+              /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
               >:移動快速，素質良好的駱駝射手，對於馬弓騎兵有額外的攻擊。
             </li>
             <li>
-              <img class="gg" src="~assets/ShotelIcon.png" alt="" /><a
-                href="/units/Shotel_Warrior"
-                >彎刀勇士</a
+              <img class="gg" src="~assets/ShotelIcon.png" alt="" /><nuxt-link
+                to="/units/Shotel_Warrior"
+                >彎刀勇士</nuxt-link
               >:攻擊力高，移動快速的步兵。
             </li>
             <li>
-              <img class="gg" src="~assets/GbetoIcon.png" alt="" /><a
-                href="/units/Gbeto"
-                >飛刀女獵手</a
+              <img class="gg" src="~assets/GbetoIcon.png" alt="" /><nuxt-link
+                to="/units/Gbeto"
+                >飛刀女獵手</nuxt-link
               >:遠程步兵，攻擊與移動都非常優秀。
             </li>
             <li>
-              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><a
-                href="/units/Organ_Gun"
-                >手風琴砲</a
+              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+                to="/units/Organ_Gun"
+                >手風琴砲</nuxt-link
               >:少數在城堡時代就可訓練的火藥單位，對衝撞車系列有加成傷害。
             </li>
             <li>
-              <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><a
-                href="/units/Caravel"
-                >卡拉維爾戰船</a
+              <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+                to="/units/Caravel"
+                >卡拉維爾戰船</nuxt-link
               >:有貫穿效果的戰船。
             </li>
           </ul>
@@ -82,25 +84,26 @@
         <ul>
           <li>
             <img class="gg" src="~assets/Siegetowericon.png" alt="" />
-            <a href="/units/Siege_Tower">攻城塔</a
+            <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
             >:能運輸步兵與弩兵穿越城牆的攻城器具。
           </li>
           <li>
             <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" />
-            <a href="/units/Fire_Galley">火蒙衝</a>:封建時代就能生產火戰船。
+            <nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
+            >:封建時代就能生產火戰船。
           </li>
           <li>
             <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" />
-            <a href="/units/Demolition_Raft">自爆伐</a
+            <nuxt-link to="/units/Demolition_Raft">自爆伐</nuxt-link
             >:封建時代就能生產的神風船。
           </li>
         </ul>
         <p>建築</p>
         <ul>
           <li>
-            <img width="25px" src="~assets/Feitoriaicon.png" alt="" /><a
-              href="/building/Feitoriaicon_Feitoria"
-              >港灣大商站</a
+            <img width="25px" src="~assets/Feitoriaicon.png" alt="" /><nuxt-link
+              to="/building/Feitoriaicon_Feitoria"
+              >港灣大商站</nuxt-link
             >:帝王時代能建造，葡萄牙特殊建築，能緩慢生產資源。
           </li>
         </ul>
@@ -110,21 +113,23 @@
             <li>每個文明皆新增城堡時代能研發的特殊科技。</li>
           </ul>
           <p>
-            <em>主要文章: <a href="/techs/untech">特殊科技</a></em>
+            <em
+              >主要文章: <nuxt-link to="/techs/untech">特殊科技</nuxt-link></em
+            >
           </p>
         </div>
         <p>一般科技</p>
         <ul>
           <li>
-            <img class="gg" src="~assets/Arson.jpg" alt="" /><a
-              href="/techs/Arson"
-              >縱火</a
+            <img class="gg" src="~assets/Arson.jpg" alt="" /><nuxt-link
+              to="/techs/Arson"
+              >縱火</nuxt-link
             >
           </li>
           <li>
-            <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><a
-              href="/techs/Arrowslits"
-              >箭狹槽</a
+            <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><nuxt-link
+              to="/techs/Arrowslits"
+              >箭狹槽</nuxt-link
             >
           </li>
         </ul>
@@ -133,7 +138,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#8a6d3b">
-              <div class="unititle"><a href="#">世紀帝國II：非洲王國</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">世紀帝國II：非洲王國</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -185,16 +192,22 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <a href="/batt/">戰役</a></em>
+            <em>主要文章: <nuxt-link to="/batt/">戰役</nuxt-link></em>
           </p>
           <p>包含四個主戰役</p>
           <ul>
-            <li><a href="/batt/Tariq_ibn_Ziyada">塔里克．伊本．齊亞德</a></li>
-            <li><a href="/batt/Sundjataa">松迪亞塔</a></li>
             <li>
-              <a href="/Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</a>
+              <nuxt-link to="/batt/Tariq_ibn_Ziyada"
+                >塔里克．伊本．齊亞德</nuxt-link
+              >
             </li>
-            <li><a href="/batt/Yodita">遊娣特</a></li>
+            <li><nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link></li>
+            <li>
+              <nuxt-link to="/Francisco_de_Almeidaa.php"
+                >法蘭西斯科．阿爾梅達</nuxt-link
+              >
+            </li>
+            <li><nuxt-link to="/batt/Yodita">遊娣特</nuxt-link></li>
           </ul>
         </div>
         <h3>平衡更動</h3>

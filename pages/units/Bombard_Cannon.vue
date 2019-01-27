@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火砲是<a href="/units/Gunpowder_Unit">火藥</a>與<a
-              href="/units/Siege_Weapons"
-              >攻城武器</a
+            火砲是<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
+            >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >單位，帝王時代研發
-            <a href="/techs/Chemistry">化學</a>後可以在攻城武器製造場生產。
+            <nuxt-link to="/techs/Chemistry">化學</nuxt-link
+            >後可以在攻城武器製造場生產。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -34,24 +34,25 @@
                   ></strong
                 >
               </h4>
-              <a href="/civs/Byzantines">拜占庭</a>、
-              <a href="/civs/Berbers">柏柏</a>、
-              <a href="/civs/Spanish">西班牙</a>、
-              <a href="/civs/Ethiopians">衣索比亞</a>、
-              <a href="/civs/Indians">印度</a>、
-              <a href="/civs/Persians">波斯</a>、
-              <a href="/civs/Turks">土耳其</a>、
-              <a href="/civs/Malians">馬利</a>、
-              <a href="/civs/Saracens">薩拉森</a>、
-              <a href="/civs/Italians">義大利</a>、
-              <a href="/civs/Koreans">韓國</a>、
-              <a href="/civs/Goths">哥德</a>、 <a href="/civs/Khmer">高棉</a>、
-              <a href="/civs/Portuguese">葡萄牙</a>、
-              <a href="/civs/Malay">馬來</a>、
-              <a href="/civs/Vietnamese">越南</a>、
-              <a href="/civs/Franks">法蘭克</a>、
-              <a href="/civs/Burmese">緬甸</a>、
-              <a href="/civs/Teutons">條頓</a>。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
               <h4>
                 <strong
                   ><span
@@ -63,16 +64,19 @@
                   ></strong
                 >
               </h4>
-              <a href="/civs/Chinese">中國</a>、<a href="/civs/Mongols">蒙古</a
-              >、 <a href="/civs/Celts">賽爾特</a>、
-              <a href="/civs/Huns">匈奴</a>、
-              <a href="/civs/Magyars">馬扎爾</a>、
-              <a href="/civs/Slavs">斯拉夫</a>、
-              <a href="/civs/Aztecs">阿茲特克</a>、
-              <a href="/civs/Incas">印加</a>、 <a href="/civs/Mayans">馬雅</a>、
-              <a href="/civs/Japanese">日本</a>、
-              <a href="/civs/Britons">不列顛</a>、
-              <a href="/civs/Vikings">維京</a>。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+                to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >、 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -80,20 +84,21 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            火砲是非常強大的兵種，他可以摧毀大部分的建築，射程只輸給條頓城堡、韓國箭塔與土耳其<a
-              href="/units/Cannon_Galleon"
-              >火砲戰船</a
+            火砲是非常強大的兵種，他可以摧毀大部分的建築，射程只輸給條頓城堡、韓國箭塔與土耳其<nuxt-link
+              to="/units/Cannon_Galleon"
+              >火砲戰船</nuxt-link
             >。一群火砲可以瞬間摧毀一個
-            <a href="/building/Town_Center">城鎮中心</a
-            >，但務必給予充分的保護。除了<a href="/units/Siege_Weapons"
-              >攻城武器</a
+            <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >，但務必給予充分的保護。除了<nuxt-link to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
             >的功用外，也可以拿來對付重型弩砲與投石車，更可以有效打擊對方遠距離部隊與船隻。但對騎士等近戰類的則是沒有抵抗能力。需注意的火砲擁有
-            <a href="/elements/Area_of_Effect">擴散傷害</a
+            <nuxt-link to="/elements/Area_of_Effect">擴散傷害</nuxt-link
             >，必須小心不要砸到友軍了。
           </p>
           <p>
-            雖然火砲是遊戲中最昂貴的兵種之一，但火砲比<a href="/units/Trebuchet"
-              >投石機</a
+            雖然火砲是遊戲中最昂貴的兵種之一，但火砲比<nuxt-link
+              to="/units/Trebuchet"
+              >投石機</nuxt-link
             >更具操作性與機動性，因為他不需要組裝。
           </p>
         </div>
@@ -109,22 +114,22 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="/armor/Armor_Class_Building">建築物</a>、<a
-                href="/units/Scorpion"
-                >弩炮</a
-              >、<a href="/units/Archer_Units">弓兵</a>、
-              <a href="/units/Mangonel">投石車</a>、<a href="/units/Trebuchet"
-                >巨型投石機</a
+              <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >、<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >、 <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
+                to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
               >。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              近戰<a href="/units/Cavalry_Units">騎兵單位</a>、<a
-                href="/units/Magyar_Huszar"
-                >馬札爾驃騎兵</a
-              >、 <a href="/units/Condottiero">傭兵</a>。
+              近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+              >、<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>、
+              <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -135,65 +140,75 @@
           <tr>
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                href="/techs/Siege_Engineers"
-                >攻城工程師</a
-              >:對<a href="/armor/Armor_Class_Building">建築物</a>攻擊加成+20%。
+              <img
+                class="gg"
+                src="~assets/Siegeengineers.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。
               <br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="/techs/Torsion_Engines"
-                >扭力彈射器</a
-              >：攻城器製造所的單位傷害範圍增加。<a href="/civs/Ethiopians"
-                >衣索比亞</a
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Torsion_Engines"
+                >扭力彈射器</nuxt-link
+              >：攻城器製造所的單位傷害範圍增加。<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
               >限定
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">範圍</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                href="/techs/Siege_Engineers"
-                >攻城工程師</a
+              <img
+                class="gg"
+                src="~assets/Siegeengineers.jpg"
+                alt=""
+              /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對建築物攻擊加成+20%。
               <br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="/techs/Artillery"
-                >砲兵</a
-              >(+2，<a href="/civs/Turks">土耳其</a>限定)
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Artillery"
+                >砲兵</nuxt-link
+              >(+2，<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">命中率</td>
             <td class="tta4">
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="/techs/Arquebus"
-                >火繩槍</a
-              >:火藥單位對移動目標的命中率提升。<a href="/civs/Portuguese"
-                >葡萄牙</a
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Arquebus"
+                >火繩槍</nuxt-link
+              >:火藥單位對移動目標的命中率提升。<nuxt-link to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
               >限定
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
-              <img src="~assets/CastleAgeUnique.png" class="gg" alt="" /><a
-                href="/techs/Ironclad"
-                >鋼鐵甲</a
-              >(+4/+0，<a href="/civs/Teutons">條頓</a>限定)
+              <img
+                src="~assets/CastleAgeUnique.png"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link
+              >(+4/+0，<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Faith.jpg" alt="" /><a
-                href="/techs/Faith"
-                >忠誠信仰</a
+              <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="/techs/Heresy"
-                >異端邪說</a
-              >
+              <img
+                class="gg"
+                src="~assets/Heresy.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
             </td>
           </tr>
         </table>
@@ -208,19 +223,21 @@
                 <div style="margin:12px 0px;"><strong>+65攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/SiegeRamIcon.jpg" alt="" /><a
-                      href="/units/Siege_Ram"
-                      >重型衝撞車</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/SiegeRamIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+60攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                      href="/units/Petard"
-                      >爆炸桶</a
-                    >
+                    <img
+                      class="gg"
+                      src="~assets/PetardIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+50攻擊</strong></div>
@@ -231,7 +248,7 @@
                       src="~assets/CappedRamIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="/units/Capped_Ram">裝甲衝撞車</a>
+                    /><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+40攻擊</strong></div>
@@ -241,15 +258,18 @@
                       class="gg"
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
-                    /><a href="/units/Battering_Ram">輕形衝撞車</a>
+                    /><nuxt-link to="/units/Battering_Ram"
+                      >輕形衝撞車</nuxt-link
+                    >
                   </li>
                   <li>
-                    <img src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                      href="/units/Cannon_Galleon"
-                      >火砲戰船</a
-                    >→ <img src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                      href="/Elite_units/Cannon_Galleon"
-                      >精銳火砲戰船</a
+                    <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
+                      to="/units/Cannon_Galleon"
+                      >火砲戰船</nuxt-link
+                    >→
+                    <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
+                      to="/Elite_units/Cannon_Galleon"
+                      >精銳火砲戰船</nuxt-link
                     >
                   </li>
                 </ul>
@@ -260,24 +280,27 @@
                       class="gg"
                       src="~assets/BombardCannonIcon.jpg"
                       alt=""
-                    /><a href="/units/Bombard_Cannon">火砲</a>
+                    /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><a
-                      href="/units/Mangonel"
-                      >輕形投石車</a
-                    >→ <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><a
-                      href="/units/Onager"
-                      >中型投石車</a
-                    >→
+                    <img
+                      class="gg"
+                      src="~assets/MangonelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    <img
+                      class="gg"
+                      src="~assets/OnagerIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Onager">中型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><a href="/Siege_units/Onager">重型投石車</a>
+                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -290,9 +313,8 @@
                       style="margin: 2px;"
                       src="~assets/CondottieroNewIcon.jpg"
                       alt=""
-                    /><a href="/units/Condottiero">傭兵</a>(<a
-                      href="/civs/Italians"
-                      >義大利</a
+                    /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+                    >(<nuxt-link to="/civs/Italians">義大利</nuxt-link
                     >和同盟限定)
                   </li>
                 </ul>
@@ -304,10 +326,9 @@
                       src="~assets/Magyar_Huszar_icon.jpg"
                       width="22"
                       alt=""
-                    /><a href="/units/Magyar_Huszar">精銳馬札爾驃騎兵</a>(<a
-                      href="/civs/Magyars"
-                      >馬札爾</a
-                    >限定)
+                    /><nuxt-link to="/units/Magyar_Huszar"
+                      >精銳馬札爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -317,7 +338,9 @@
                       class="gg"
                       src="~assets/EliteEagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
+                    /><nuxt-link to="/Elite_units/Eagle_Warrior"
+                      >精銳鷹勇士</nuxt-link
+                    >
                   </li>
                   <li>
                     <img
@@ -325,10 +348,8 @@
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="/units/Mangudai">精銳蒙古突騎</a>(<a
-                      href="/civs/Mongols"
-                      >蒙古</a
-                    >限定)
+                    /><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
+                    >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
                   </li>
                   <li>
                     <img
@@ -336,24 +357,24 @@
                       src="~assets/Magyar_Huszar_icon.jpg"
                       width="22"
                       alt=""
-                    /><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>(<a
-                      href="/civs/Magyars"
-                      >馬札爾</a
-                    >限定)
+                    /><nuxt-link to="/units/Magyar_Huszar"
+                      >馬札爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                      href="/units/Eagle_Scout"
-                      >鷹斥侯</a
-                    >→
+                    <img
+                      class="gg"
+                      src="~assets/EagleScoutIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="/units/Eagle_Warrior">鷹勇士</a>
+                    /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -361,10 +382,8 @@
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="/units/Mangudai">蒙古突騎</a>(<a
-                      href="/civs/Mongols"
-                      >蒙古</a
-                    >限定)
+                    /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+                    >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -375,13 +394,20 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Italians">義大利</a>：火砲便宜20%。</li>
             <li>
-              <a href="/civs/Portuguese">葡萄牙</a>：火炮的黃金成本減少了15%。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：火砲便宜20%。
             </li>
-            <li><a href="/civs/Spanish">西班牙</a>：火炮射速快15%的速度。</li>
             <li>
-              <a href="/civs/Turks">土耳其</a>:火炮擁有+ 25%的HP，化學是免費的。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：火炮的黃金成本減少了15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：火炮射速快15%的速度。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:火炮擁有+
+              25%的HP，化學是免費的。
             </li>
           </ul>
         </div>
@@ -389,19 +415,24 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Celts">賽爾特</a>：火砲訓練速度快20%。</li>
             <li>
-              <a href="/civs/Malians">馬利</a>：研發<a href="/techs/Chemistry"
-                >化學</a
-              >和<a href="/techs/Siege_Engineers">攻城工程師</a>的速度快80%。
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              >：火砲訓練速度快20%。
             </li>
             <li>
-              <a href="/civs/Teutons">條頓</a>：火砲對僧侶的招降有較好的抗性。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
+                to="/techs/Chemistry"
+                >化學</nuxt-link
+              >和<nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
+              >的速度快80%。
             </li>
             <li>
-              <a href="/civs/Turks">土耳其</a>：火砲HP+25%。<a
-                href="/techs/Chemistry"
-                >化學</a
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：火砲對僧侶的招降有較好的抗性。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >：火砲HP+25%。<nuxt-link to="/techs/Chemistry">化學</nuxt-link
               >免費
             </li>
           </ul>
@@ -410,69 +441,90 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>火砲必須先研發科技才可以訓練。</li>
             <li>火砲有50 HP。</li>
-            <li><a href="/civs/Turks">土耳其</a>：火砲擁有+ 50%的HP。</li>
+            <li>
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：火砲擁有+
+              50%的HP。
+            </li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>不需研發火砲科技，研發化學後即可訓練。</li>
             <li>火砲現在有80 HP。</li>
             <li>
-              火砲對<a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a
+              火砲對<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                >攻城武器</nuxt-link
               >獲得+20的額外傷害。
             </li>
             <li>砲彈的射彈速度更快。</li>
-            <li>引進<a href="/techs/Heresy">異端邪說</a>。</li>
+            <li>引進<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>
-              <a href="/civs/Turks">土耳其</a>：火砲現在擁有HP+25％。引進<a
-                href="/techs/Artillery"
-                >砲兵</a
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >：火砲現在擁有HP+25％。引進<nuxt-link to="/techs/Artillery"
+                >砲兵</nuxt-link
               >
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Teutons">條頓</a>：引進<a href="/techs/Ironclad"
-                >鋼鐵甲</a
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：引進<nuxt-link
+                to="/techs/Ironclad"
+                >鋼鐵甲</nuxt-link
               >
             </li>
-            <li><a href="/civs/Italians">義大利</a>:火砲便宜15%。</li>
+            <li>
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>:火砲便宜15%。
+            </li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
-          </h3>
-          <ul>
-            <li><a href="/techs/Arquebus">火繩槍</a>讓砲彈速度+0.5。</li>
-            <li><a href="/civs/Italians">義大利</a>：4.8版本後火砲便宜20%。</li>
-          </ul>
-          <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/techs/Arquebus">火繩槍</a>對火藥單位的影響減低到75%。
+              <nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>讓砲彈速度+0.5。
             </li>
             <li>
-              5.2版本<a href="/techs/Arquebus">火繩槍</a>對火炮的影響被移除。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >：4.8版本後火砲便宜20%。
             </li>
-            <li>5.7版本<a href="/techs/Arquebus">火繩槍</a>讓砲彈速度+0.2。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
+              >對火藥單位的影響減低到75%。
+            </li>
+            <li>
+              5.2版本<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
+              >對火炮的影響被移除。
+            </li>
+            <li>
+              5.7版本<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
+              >讓砲彈速度+0.2。
+            </li>
           </ul>
         </div>
         <h3>英雄</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/units/hero/Jean_de_Lorrain">洛林的約翰</a></li>
-            <li><a href="/units/hero/Jean_Bureau">約翰布荷</a></li>
+            <li>
+              <nuxt-link to="/units/hero/Jean_de_Lorrain">洛林的約翰</nuxt-link>
+            </li>
+            <li>
+              <nuxt-link to="/units/hero/Jean_Bureau">約翰布荷</nuxt-link>
+            </li>
           </ul>
           <h3>趣事</h3>
           <div class="hrn1"></div>
@@ -480,11 +532,11 @@
             <ul>
               <li>火藥貴為中國三大發明，卻沒有火砲，因為遊戲平衡的關係。</li>
               <li>
-                在<a href="/units/Siege_Tower">攻城塔</a
+                在<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
                 >出現前，火砲是最貴的單位。
               </li>
               <li>
-                在<a href="/units/Siege_Tower">攻城塔</a
+                在<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
                 >出現前，火砲是唯一不用升級的攻城器單位。
               </li>
             </ul>
@@ -507,13 +559,13 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a href="/img/Bombardcannon.png"
+                <nuxt-link to="/img/Bombardcannon.png"
                   ><img
                     class="imgn hg"
                     width="250"
                     src="~assets/Bombardcannon.png"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>火砲</em></p>
               </div>
             </div>
@@ -543,10 +595,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="/units/Siege_Weapons">攻城武器</a> <br /><a
-                href="/units/Gunpowder_Unit"
-                >火藥單位</a
-              >
+              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>
+              <br /><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -561,7 +611,7 @@
                 src="~assets/Imperial-age-research.jpg"
                 width="30"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -572,7 +622,9 @@
                 width="25px"
                 src="~assets/Siegeworkshopicon.png"
                 alt=""
-              /><a href="/building/Siege_Workshop">攻城武器製造所</a>
+              /><nuxt-link to="/building/Siege_Workshop"
+                >攻城武器製造所</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -609,17 +661,21 @@
             <td class="unit3">攻擊加成</td>
             <div class="unititle2">數據</div>
             <td class="unit4">
-              +200對<a href="/armor/Armor_Class_Building">建築</a> <br />+40對<a
-                href="/armor/Armor_Class_stone_defense"
-                >石頭建築</a
+              +200對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
+              <br />+40對<nuxt-link to="/armor/Armor_Class_stone_defense"
+                >石頭建築</nuxt-link
               >
-              <br />+40對<a href="/armor/Armor_Class_Ship">船類</a>
-              <br />+20對<a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a>
+              <br />+40對<nuxt-link to="/armor/Armor_Class_Ship"
+                >船類</nuxt-link
+              >
+              <br />+20對<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                >攻城武器</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">
-              <a href="/elements/Area_of_Effect">擴散範圍</a>
+              <nuxt-link to="/elements/Area_of_Effect">擴散範圍</nuxt-link>
             </td>
             <td class="unit4">0.5</td>
           </tr>
@@ -648,7 +704,9 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="/Armor_Class.php">近防</a></td>
+            <td class="unit3">
+              <nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+            </td>
             <td class="unit4">2</td>
           </tr>
           <tr>
@@ -656,10 +714,17 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="/Armor_Class.php">防禦類型</a></td>
+            <td class="unit3">
+              <nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
+            </td>
             <td class="unit4">
-              <a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a> <br />
-              <a href="/armor/Armor_Class_Gunpowder_Unit">火藥單位</a>
+              <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                >攻城武器</nuxt-link
+              >
+              <br />
+              <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -678,9 +743,9 @@
           <tr>
             <td class="unit3">需要</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Chemistry.jpg" alt="" /><a
-                href="/techs/Chemistry"
-                >化學</a
+              <img class="gg" src="~assets/Chemistry.jpg" alt="" /><nuxt-link
+                to="/techs/Chemistry"
+                >化學</nuxt-link
               >
             </td>
           </tr>

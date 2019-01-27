@@ -90,7 +90,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">倫巴聯盟</a>
+                <div class="unititle"><nuxt-link to="#">倫巴聯盟</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -103,7 +103,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -117,11 +117,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="#">條頓人</a>
+              <td class="unit4"><nuxt-link to="#">條頓人</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="#">戰役關卡編號</a>
+              <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>
@@ -131,11 +131,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/batt/Pope_and_Antipope">教皇與僭稱教皇</a> 
+              <td class="unit4"> <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/Barbarossas_March">紅鬍子的行軍</a> 
+              <td class="unit4"> <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link> 
               </td>
             </tr>
           </table>

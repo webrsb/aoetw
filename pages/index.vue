@@ -22,84 +22,84 @@
           </div>
           <div class="row">
             <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-              <h3><a href="/civs">文明</a></h3>
-              <a href="/civs"
+              <h3><nuxt-link to="/civs">文明</nuxt-link></h3>
+              <nuxt-link to="/civs"
                 ><img
                   width="100"
                   src="~assets/u1.jpg"
                   alt="..."
                   class="img-circle"
-              /></a>
+              /></nuxt-link>
             </div>
             <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-              <h3><a href="/units">單位</a></h3>
-              <a href="/units"
+              <h3><nuxt-link to="/units">單位</nuxt-link></h3>
+              <nuxt-link to="/units"
                 ><img
                   width="100"
                   src="~assets/u2.jpg"
                   alt="..."
                   class="img-circle"
-              /></a>
+              /></nuxt-link>
             </div>
             <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-              <h3><a href="/techs">科技</a></h3>
-              <a href="/techs"
+              <h3><nuxt-link to="/techs">科技</nuxt-link></h3>
+              <nuxt-link to="/techs"
                 ><img
                   width="100"
                   src="~assets/u3.jpg"
                   alt="..."
                   class="img-circle"
-              /></a>
+              /></nuxt-link>
             </div>
             <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-              <h3><a href="/bulding">建築</a></h3>
-              <a href="/bulding"
+              <h3><nuxt-link to="/bulding">建築</nuxt-link></h3>
+              <nuxt-link to="/bulding"
                 ><img
                   width="100"
                   src="~assets/u4.jpg"
                   alt="..."
                   class="img-circle"
-              /></a>
+              /></nuxt-link>
             </div>
             <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-              <h3><a href="/batt">戰役</a></h3>
-              <a href="/batt"
+              <h3><nuxt-link to="/batt">戰役</nuxt-link></h3>
+              <nuxt-link to="/batt"
                 ><img
                   width="100"
                   src="~assets/u5.jpg"
                   alt="..."
                   class="img-circle"
-              /></a>
+              /></nuxt-link>
             </div>
             <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-              <h3><a href="/ar">戰術技巧</a></h3>
-              <a href="/ar"
+              <h3><nuxt-link to="/ar">戰術技巧</nuxt-link></h3>
+              <nuxt-link to="/ar"
                 ><img
                   width="100"
                   src="~assets/u6.jpg"
                   alt="..."
                   class="img-circle"
-              /></a>
+              /></nuxt-link>
             </div>
             <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-              <h3><a href="/talk">討論區</a></h3>
-              <a href="/talk"
+              <h3><nuxt-link to="/talk">討論區</nuxt-link></h3>
+              <nuxt-link to="/talk"
                 ><img
                   width="100"
                   src="~assets/u7.jpg"
                   alt="..."
                   class="img-circle"
-              /></a>
+              /></nuxt-link>
             </div>
             <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
-              <h3><a href="/hkbb">工作人員</a></h3>
-              <a href="/hkbb"
+              <h3><nuxt-link to="/hkbb">工作人員</nuxt-link></h3>
+              <nuxt-link to="/hkbb"
                 ><img
                   width="100"
                   src="~assets/u8.jpg"
                   alt="..."
                   class="img-circle"
-              /></a>
+              /></nuxt-link>
             </div>
           </div>
         </div>
@@ -115,11 +115,11 @@
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>特色條目</strong></h4>
             <ul>
-              <li><a href="/top">世界知名玩家</a></li>
-              <li><a href="/fotw">台港知名玩家</a></li>
-              <li><a href="/history">歷屆大賽結果</a></li>
-              <li><a href="/civs/bestciv">文明強弱分析</a></li>
-              <li><a href="/maps/">地圖列表</a></li>
+              <li><nuxt-link to="/top">世界知名玩家</nuxt-link></li>
+              <li><nuxt-link to="/fotw">台港知名玩家</nuxt-link></li>
+              <li><nuxt-link to="/history">歷屆大賽結果</nuxt-link></li>
+              <li><nuxt-link to="/civs/bestciv">文明強弱分析</nuxt-link></li>
+              <li><nuxt-link to="/maps/">地圖列表</nuxt-link></li>
             </ul>
           </div>
         </div>
@@ -127,10 +127,10 @@
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>每周精選</strong></h4>
             <ul>
-              <li><a href="/Taunts.php">嘲諷語音</a></li>
-              <li><a href="/Regeneration.php">回血</a></li>
-              <li><a href="/Garrison.php">駐軍</a></li>
-              <li><a href="/building/Wonder">世界奇觀</a></li>
+              <li><nuxt-link to="/Taunts.php">嘲諷語音</nuxt-link></li>
+              <li><nuxt-link to="/Regeneration.php">回血</nuxt-link></li>
+              <li><nuxt-link to="/Garrison.php">駐軍</nuxt-link></li>
+              <li><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link></li>
             </ul>
           </div>
         </div>
@@ -139,33 +139,36 @@
             <h4 style="margin-top:30px;"><strong>遊戲版本</strong></h4>
             <ul>
               <li>
-                <img class="gg" src="~assets/KingsIcon.png" alt="" /><a
-                  href="/games/aok"
-                  >帝王世紀</a
+                <img class="gg" src="~assets/KingsIcon.png" alt="" /><nuxt-link
+                  to="/games/aok"
+                  >帝王世紀</nuxt-link
                 >
               </li>
               <li>
-                <img class="gg" src="~assets/ConquerorsIcon.png" alt="" /><a
-                  href="/games/aoc"
-                  >征服者入侵</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/ConquerorsIcon.png"
+                  alt=""
+                /><nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
               </li>
               <li>
-                <img class="gg" src="~assets/ForgottenIcon.png" alt="" /><a
-                  href="/games/aof"
-                  >失落的帝國</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/ForgottenIcon.png"
+                  alt=""
+                /><nuxt-link to="/games/aof">失落的帝國</nuxt-link>
               </li>
               <li>
-                <img class="gg" src="~assets/AfricanIcon.png" alt="" /><a
-                  href="/games/ak"
-                  >非洲王朝</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/AfricanIcon.png"
+                  alt=""
+                /><nuxt-link to="/games/ak">非洲王朝</nuxt-link>
               </li>
               <li>
-                <img class="gg" src="~assets/RajaIcon.png" alt="" /><a
-                  href="/games/aor"
-                  >王者崛起</a
+                <img class="gg" src="~assets/RajaIcon.png" alt="" /><nuxt-link
+                  to="/games/aor"
+                  >王者崛起</nuxt-link
                 >
               </li>
             </ul>
@@ -175,13 +178,19 @@
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>最新消息</strong></h4>
             <ul>
-              <li>各文明的<a href="/tree/vie">科技樹</a>完成拉！</li>
               <li>
-                2018年9月7日:5.8改版上線，<a href="/news/ver5-8">改版內容</a>
+                各文明的<nuxt-link to="/tree/vie">科技樹</nuxt-link>完成拉！
+              </li>
+              <li>
+                2018年9月7日:5.8改版上線，<nuxt-link to="/news/ver5-8"
+                  >改版內容</nuxt-link
+                >
               </li>
               <li>新增<a href="http://aoetw.com/save/">記錄檔上傳區</a></li>
               <li>
-                2018年1月25日:5.7改版上線，<a href="/news/ver5-7">改版內容</a>
+                2018年1月25日:5.7改版上線，<nuxt-link to="/news/ver5-7"
+                  >改版內容</nuxt-link
+                >
               </li>
             </ul>
           </div>
@@ -200,23 +209,24 @@
               <div class="col-md-8">
                 <ul style="text-align:left;">
                   <li>
-                    <a href="/civs/Persians">哪一個文明</a
+                    <nuxt-link to="/civs/Persians">哪一個文明</nuxt-link
                     >是遊戲內最怕打垃圾兵消耗的文明？
                   </li>
                   <li>
-                    <a href="/civs/Slavs">哪一個文明</a
+                    <nuxt-link to="/civs/Slavs">哪一個文明</nuxt-link
                     >先出現在三代，後來才在二代擴充？
                   </li>
                   <li>
-                    <a href="/units/Gbeto">哪一個單位</a
+                    <nuxt-link to="/units/Gbeto">哪一個單位</nuxt-link
                     >血量全遊戲最少，卻擁有傲人的攻擊？
                   </li>
                   <li>
-                    <a href="/units/Trade_Cog">哪一個單位</a
+                    <nuxt-link to="/units/Trade_Cog">哪一個單位</nuxt-link
                     >是遊戲中移動速度最快的單位？
                   </li>
                   <li>
-                    獨輪推車<a href="/techs/Wheelbarrow">最佳研發時機</a
+                    獨輪推車<nuxt-link to="/techs/Wheelbarrow"
+                      >最佳研發時機</nuxt-link
                     >怎麼看？
                   </li>
                 </ul>
@@ -224,7 +234,7 @@
                 <p style="text-align: right;font-size: 15px;">
                   <a href="http://tinyurl.com/y95wnoxq">我要投稿</a>&nbsp;
                   <span style="text-align: right;font-size: 15px;"
-                    ><a href="/uknow">歷史存檔</a></span
+                    ><nuxt-link to="/uknow">歷史存檔</nuxt-link></span
                   >
                 </p>
               </div>
@@ -249,7 +259,7 @@
               Aoetw的成長依靠您的參與，無論是創建新條目、編輯現有條目，或者為條目增加插圖，您都可以為Aoetw作出貢獻。
             </p>
             <p style="text-align: right;font-size: 15px;">
-              <a href="/wan">加入Aoetw</a>
+              <nuxt-link to="/wan">加入Aoetw</nuxt-link>
             </p>
           </div>
         </div>

@@ -59,21 +59,21 @@
                 "> <ul><li>開始時玩家擁有在地圖西邊的阿拉里克與他的軍隊，正要前往東邊的老百姓港口去會見阿陶爾夫的軍隊。路上收集一些大地之母軍隊，你也會碰到薩魯斯(特殊騎兵表示)與其軍隊的襲擊。小支來襲及阿拉里克的部隊是很好處理的，但是大部隊會一直站在主要幹道的地方，玩家應該走進森林以避開他們。</li><li>玩家會在港口收到一些士兵，用運輸船帶著所有士兵，在弩炮戰船跟火戰船伴隨之下護送阿拉里克到拉文納南邊的港口。玩家應該盡量避開拉文納，因為駐守在拉文納海岸的薩魯斯大軍根本不可能擊敗。玩家還是會被薩魯斯的瞭望箭塔攻擊到，但那可以很快地避開。東邊有一些大地之母的傭兵對無聊的生活感到厭倦，並準備好加入阿拉里克。</li><li>目的地港口實際上由薩魯斯控制，玩家將不得不擊敗那裡的部隊。阿拉里克知道羅馬皇帝不在港口，他將不得不前往拉文納和皇帝見面。然而，當他到達城門(被上鎖)的時候，有一些薩魯斯的部隊追捕他。阿拉里克得知皇帝再次背叛了他。玩家必須把他帶到西部的老百姓村莊。</li><li>意大利老百姓村莊將被玩家接管，從而成為玩家的基地。城鎮西邊的士兵在玩家接管村莊之後，會立刻開始跟薩魯斯士兵交戰。玩家應該開始生產部隊，好用來摧毀薩魯斯的堡壘以擊敗他。同時，薩魯斯會再次從西方侵入玩家村莊，因此玩家最好在那裡建立防禦工事。</li><li>這個戰役的石頭稀少，只有玩家的村莊有。</li><li>玩家村莊內的黃金也很稀少，但可以在西北方的村莊找到，位於薩魯斯堡壘以北的某個地方，如果不准備和他們戰鬥的話，玩家應該避開薩魯斯的大支巡邏部隊。玩家還可以在薩魯斯的港口與他的市集進行貿易，或者在薩魯斯的港口建立碼頭，並與海上的老百姓碼頭進行貿易。記得要摧毀所有薩魯斯的軍事建築和碼頭，以防止他在那裡建立軍隊或海軍。</li></ul><h2>趣事</h2><div class="hrn1 "></div><div class="n1
                 "> <ul>  <li>水藍色的AI阿拉里克有個中型衝撞車在地圖北端當作佔位單位。在原版的失落帝國戰役中，玩家開始時有個弓兵作為佔位單位，他會駐守在剛剛提到的中型衝撞車裡面。</li><li>在玩家用運輸船躲避拉文納的時候，偶爾會有所有敵人突然消失，然後玩家直接勝利的情形，這可能起因於一個bug(失落帝國非正式MOD限定)</li><li>失落帝國MOD裡面的大地之母是薩拉森，而HD版本是哥德，這導致了戰船外觀上的差異(薩拉森(中東)-彎刀；哥特人(中歐)-十字架)。</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="/
-                ">西域之君</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 3.jpg " width="
+                ">       <div class="unititle "><nuxt-link to="/
+                ">西域之君</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 3.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><nuxt-link to="/ ">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">失落的帝國</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">阿拉里克</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href="/ ">哥德人</a></td>      </tr>
+                ">文明</td>       <td class="unit4 "><nuxt-link to="/ ">哥德人</nuxt-link></td>      </tr>
 <tr><td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/
-                ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
-                ">失落帝國第一章之三</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="/Legionaries_on_the_Horizon!.php
-                ">羅馬軍團隨時殺到</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/batt/The_Sack_of_Rome
-                ">洗劫羅馬</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div>     <div class="row
+                "><nuxt-link to="/
+                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
+                ">失落帝國第一章之三</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <nuxt-link to="/Legionaries_on_the_Horizon!.php
+                ">羅馬軍團隨時殺到</nuxt-link>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <nuxt-link to="/batt/The_Sack_of_Rome
+                ">洗劫羅馬</nuxt-link>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div>     <div class="row
                 ">  <div class="col-md-12
                 ">    </div>     </div>  </div></div>      </div>    
         

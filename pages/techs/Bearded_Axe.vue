@@ -11,12 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            倒鉤斧是<a href="/civs/Franks">法蘭克</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Throwing_Axeman"
-              >擲斧兵</a
+            倒鉤斧是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Throwing_Axeman"
+              >擲斧兵</nuxt-link
             >攻擊範圍+1。
           </p>
         </div>
@@ -25,14 +26,14 @@
         <div class="n1">
           <ul>
             <li>
-              雖然攻擊範圍+1看起來微不足道，倒鉤斧可以讓擲斧兵在遠程戰鬥中更加彈性化，因為法蘭克人無法訓練<a
-                href="/units/Arbalest"
-              ></a
+              雖然攻擊範圍+1看起來微不足道，倒鉤斧可以讓擲斧兵在遠程戰鬥中更加彈性化，因為法蘭克人無法訓練<nuxt-link
+                to="/units/Arbalest"
+              ></nuxt-link
               >強弩兵，弓兵的科技樹也很差。 特別是在暴民和“stand
-              ground”模式下，擲斧兵可以更容易地消滅<a
-                href="/units/Infantry_Units"
-                >步兵</a
-              >甚至 <a href="/units/Cavalry_Units">騎兵</a>。
+              ground”模式下，擲斧兵可以更容易地消滅<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >甚至 <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>。
             </li>
           </ul>
         </div>
@@ -41,8 +42,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速倒鉤斧的研究時間(快25%)。
             </li>
           </ul>
@@ -60,7 +62,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">倒鉤斧</a></div>
+              <div class="unititle"><nuxt-link to="#">倒鉤斧</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -72,12 +74,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Franks">法蘭克</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -86,15 +92,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -104,7 +110,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -117,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -137,7 +143,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%A5%87%E6%96%AF%E5%8D%A1"
+                    href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%A5%87%E6%96%AF%E5%8D%A1"
                     >弗朗奇斯卡</a
                   ></b
                 ></i

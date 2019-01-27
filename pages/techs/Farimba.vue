@@ -11,15 +11,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            驃悍精神是<a href="/civs/Malians">馬利</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/building/Stable"
-              >馬廄</a
-            >單位(<a href="/units/Knight">騎士</a>、
-            <a href="/units/Camel">駱駝騎兵</a>、<a href="/units/Light_Cavalry"
-              >輕騎兵</a
+            驃悍精神是<nuxt-link to="/civs/Malians">馬利</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/building/Stable">馬廄</nuxt-link
+            >單位(<nuxt-link to="/units/Knight">騎士</nuxt-link>、
+            <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              to="/units/Light_Cavalry"
+              >輕騎兵</nuxt-link
             >)攻擊+5。
           </p>
         </div>
@@ -28,23 +29,24 @@
         <div class="n1">
           <ul>
             <li>
-              剽悍精神讓馬利的<a href="/units/Cavalry_Units">騎兵單位</a
-              >是遊戲中最具威力的之一。他們的<a href="/Heavy_units/Camel"
-                >重裝駱駝騎兵</a
+              剽悍精神讓馬利的<nuxt-link to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >是遊戲中最具威力的之一。他們的<nuxt-link to="/Heavy_units/Camel"
+                >重裝駱駝騎兵</nuxt-link
               >可以獲得遊戲中最多的14攻擊，比
-              <a href="/Imperial_units/Camel">帝王駱駝騎兵</a
-              >還多。馬利的騎兵也是遊戲中攻擊排名非特殊騎兵第二(攻擊力19)和全遊戲第三，僅次於<a
-                href="/Elite_units/Battle_Elephant"
-                >精銳矛象伕</a
-              >和 <a href="/War_unitsanimal/Elephant">波斯戰象</a>。
+              <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link
+              >還多。馬利的騎兵也是遊戲中攻擊排名非特殊騎兵第二(攻擊力19)和全遊戲第三，僅次於<nuxt-link
+                to="/Elite_units/Battle_Elephant"
+                >精銳矛象伕</nuxt-link
+              >和
+              <nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link>。
             </li>
             <li>
-              如果搭配<a href="/units/Archer_Units">弓兵單位</a>、<a
-                href="/units/Slinger"
-                >投石手</a
-              >或 <a href="/units/Champion">劍兵勇士</a>對抗<a
-                href="/units/Halberdier"
-                >戟兵</a
+              如果搭配<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>或
+              <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>對抗<nuxt-link
+                to="/units/Halberdier"
+                >戟兵</nuxt-link
               >，馬利軍隊在戰場上可說見神殺神，佛擋殺佛。
             </li>
           </ul>
@@ -54,8 +56,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速驃悍精神的研究時間(快25%)。
             </li>
           </ul>
@@ -72,7 +75,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">驃悍精神</a></div>
+              <div class="unititle"><nuxt-link to="#">驃悍精神</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -84,12 +87,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Malians">馬利</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -98,15 +105,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -116,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -129,7 +136,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

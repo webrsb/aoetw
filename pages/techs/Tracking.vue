@@ -11,10 +11,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            追縱技術於<a href="/techsage/Feudal_Age">封建時代</a>在<a
-              href="/building/Barracks"
-              >軍營</a
-            >研發。研發後所有的 <a href="/units/Infantry_Units">步兵</a>視野+2。
+            追縱技術於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
+            >研發。研發後所有的
+            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>視野+2。
           </p>
         </div>
         <h3>戰術</h3>
@@ -41,9 +41,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/MilitiaIcon.jpg" /><a
-                href="/units/Militia"
-                >民兵</a
+              <img class="gg" src="~assets/MilitiaIcon.jpg" /><nuxt-link
+                to="/units/Militia"
+                >民兵</nuxt-link
               >
             </td>
             <td class="tta2">4</td>
@@ -52,9 +52,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/ManAtArmsIcon.jpg" /><a
-                href="/units/Man-at-Arms"
-                >裝甲步兵</a
+              <img class="gg" src="~assets/ManAtArmsIcon.jpg" /><nuxt-link
+                to="/units/Man-at-Arms"
+                >裝甲步兵</nuxt-link
               >
             </td>
             <td class="tta2">4</td>
@@ -63,9 +63,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/LongswordsManIcon.jpg" /><a
-                href="/units/Long_Swordsman"
-                >長劍兵</a
+              <img class="gg" src="~assets/LongswordsManIcon.jpg" /><nuxt-link
+                to="/units/Long_Swordsman"
+                >長劍兵</nuxt-link
               >
             </td>
             <td class="tta2">4</td>
@@ -74,9 +74,20 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" /><a
-                href="/units/Two-Handed_Swordsman"
-                >雙手劍兵</a
+              <img
+                class="gg"
+                src="~assets/2HandedswordsmanIcon.jpg"
+              /><nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>
+            </td>
+            <td class="tta2">5</td>
+            <td class="tta3">7</td>
+            <td class="tta4">+96%</td>
+          </tr>
+          <tr>
+            <td class="tta1">
+              <img class="gg" src="~assets/ChampionIcon.jpg" /><nuxt-link
+                to="/units/Champion"
+                >劍兵勇士</nuxt-link
               >
             </td>
             <td class="tta2">5</td>
@@ -85,20 +96,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/ChampionIcon.jpg" /><a
-                href="/units/Champion"
-                >劍兵勇士</a
-              >
-            </td>
-            <td class="tta2">5</td>
-            <td class="tta3">7</td>
-            <td class="tta4">+96%</td>
-          </tr>
-          <tr>
-            <td class="tta1">
-              <img class="gg" src="~assets/SpearmanIcon.jpg" /><a
-                href="/units/Spearman"
-                >長槍兵</a
+              <img class="gg" src="~assets/SpearmanIcon.jpg" /><nuxt-link
+                to="/units/Spearman"
+                >長槍兵</nuxt-link
               >
             </td>
             <td class="tta2">4</td>
@@ -107,9 +107,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/PikemanIcon.jpg" /><a
-                href="/units/Pikeman"
-                >重裝長槍兵</a
+              <img class="gg" src="~assets/PikemanIcon.jpg" /><nuxt-link
+                to="/units/Pikeman"
+                >重裝長槍兵</nuxt-link
               >
             </td>
             <td class="tta2">4</td>
@@ -118,9 +118,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/HalberdierIcon.jpg" /><a
-                href="/units/Halberdier"
-                >戟兵</a
+              <img class="gg" src="~assets/HalberdierIcon.jpg" /><nuxt-link
+                to="/units/Halberdier"
+                >戟兵</nuxt-link
               >
             </td>
             <td class="tta2">4</td>
@@ -129,9 +129,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/EagleScoutIcon.jpg" /><a
-                href="/units/Eagle_Scout"
-                >鷹斥侯</a
+              <img class="gg" src="~assets/EagleScoutIcon.jpg" /><nuxt-link
+                to="/units/Eagle_Scout"
+                >鷹斥侯</nuxt-link
               >
             </td>
             <td class="tta2">6</td>
@@ -140,9 +140,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/EagleWarriorIcon.jpg" /><a
-                href="/units/Eagle_Warrior"
-                >鷹勇士</a
+              <img class="gg" src="~assets/EagleWarriorIcon.jpg" /><nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >
             </td>
             <td class="tta2">6</td>
@@ -151,9 +151,11 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" /><a
-                href="/Elite_units/Eagle_Warrior"
-                >精銳鷹勇士</a
+              <img
+                class="gg"
+                src="~assets/EliteEagleWarriorIcon.jpg"
+              /><nuxt-link to="/Elite_units/Eagle_Warrior"
+                >精銳鷹勇士</nuxt-link
               >
             </td>
             <td class="tta2">6</td>
@@ -162,9 +164,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/WBRSK.jpg" /><a
-                href="/units/Woad_Raider"
-                >菘藍武士(精銳)</a
+              <img class="gg" src="~assets/WBRSK.jpg" /><nuxt-link
+                to="/units/Woad_Raider"
+                >菘藍武士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">3，5</td>
@@ -173,9 +175,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/TAXEM.jpg" /><a
-                href="/units/Throwing_Axeman"
-                >擲斧兵(精銳)</a
+              <img class="gg" src="~assets/TAXEM.jpg" /><nuxt-link
+                to="/units/Throwing_Axeman"
+                >擲斧兵(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">5，6</td>
@@ -184,9 +186,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/HuskarlIcon.jpg" /><a
-                href="/units/Huskarl"
-                >哥德衛隊(精銳)</a
+              <img class="gg" src="~assets/HuskarlIcon.jpg" /><nuxt-link
+                to="/units/Huskarl"
+                >哥德衛隊(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">3，5</td>
@@ -195,8 +197,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/SMURI.jpg" /><a href="/units/Samurai"
-                >日本武士(精銳</a
+              <img class="gg" src="~assets/SMURI.jpg" /><nuxt-link
+                to="/units/Samurai"
+                >日本武士(精銳</nuxt-link
               >
             </td>
             <td class="tta2">4，5</td>
@@ -205,9 +208,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/Crusade_avatar.png" /><a
-                href="/Teutonic_units/Knight"
-                >條頓武士(精銳)</a
+              <img class="gg" src="~assets/Crusade_avatar.png" /><nuxt-link
+                to="/Teutonic_units/Knight"
+                >條頓武士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">3，5</td>
@@ -216,8 +219,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/VBRSK.jpg" /><a href="/units/Berserk"
-                >狂戰士(精銳)</a
+              <img class="gg" src="~assets/VBRSK.jpg" /><nuxt-link
+                to="/units/Berserk"
+                >狂戰士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">3，5</td>
@@ -226,9 +230,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/JaguarWarriorIcon.jpg" /><a
-                href="/units/Jaguar_Warrior"
-                >豹勇士(精銳)</a
+              <img class="gg" src="~assets/JaguarWarriorIcon.jpg" /><nuxt-link
+                to="/units/Jaguar_Warrior"
+                >豹勇士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">3，5</td>
@@ -237,9 +241,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/Kamayuk_Icon.jpg" /><a
-                href="/units/Kamayuk"
-                >槍隊長(精銳)</a
+              <img class="gg" src="~assets/Kamayuk_Icon.jpg" /><nuxt-link
+                to="/units/Kamayuk"
+                >槍隊長(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">4，5</td>
@@ -248,9 +252,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/CondottieroNewIcon.jpg" /><a
-                href="/units/Condottiero"
-                >傭兵</a
+              <img class="gg" src="~assets/CondottieroNewIcon.jpg" /><nuxt-link
+                to="/units/Condottiero"
+                >傭兵</nuxt-link
               >
             </td>
             <td class="tta2">6</td>
@@ -259,9 +263,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/ShotelIcon.png" /><a
-                href="/units/Karambit_Warrior"
-                >彎刀勇士(精銳)</a
+              <img class="gg" src="~assets/ShotelIcon.png" /><nuxt-link
+                to="/units/Karambit_Warrior"
+                >彎刀勇士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">3，3</td>
@@ -270,9 +274,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/GbetoIcon.png" /><a
-                href="/units/Gbeto"
-                >飛刀女獵手(精銳)</a
+              <img class="gg" src="~assets/GbetoIcon.png" /><nuxt-link
+                to="/units/Gbeto"
+                >飛刀女獵手(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">6，7</td>
@@ -281,9 +285,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/Karambitwarrioricon.png" /><a
-                href="/units/Shotel_Warrior"
-                >爪刀勇士(精銳)</a
+              <img class="gg" src="~assets/Karambitwarrioricon.png" /><nuxt-link
+                to="/units/Shotel_Warrior"
+                >爪刀勇士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">3，3</td>
@@ -297,35 +301,41 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：科技在封建/城堡/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
-              <a href="/civs/Goths">哥德</a>：<a href="/techs/Perfusion"
-                >灌注士氣</a
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：<nuxt-link
+                to="/techs/Perfusion"
+                >灌注士氣</nuxt-link
               >讓追蹤技術研發快100%
             </li>
-            <li><a href="/civs/Slavs">斯拉夫</a>：追蹤技術免費。</li>
+            <li>
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：追蹤技術免費。
+            </li>
           </ul>
         </div>
         <h3>團隊加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Goths">哥德</a>：研發追蹤技術速度快20%。</li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >：研發追蹤技術速度快20%。
+            </li>
           </ul>
         </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>追蹤技術需要花費75肉。</li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王朝</a></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>追蹤技術需要花費50肉。</li>
@@ -343,7 +353,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">追蹤技術</a></div>
+              <div class="unititle"><nuxt-link to="#">追蹤技術</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -355,7 +365,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -365,19 +377,21 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="/techsage/Feudal_Age"
-                >封建時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Feudal-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Barracks-logo.jpg" alt="" /><a
-                href="/building/Barracks"
-                >軍營</a
-              >
+              <img
+                class="gg"
+                src="~assets/Barracks-logo.jpg"
+                alt=""
+              /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -386,7 +400,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -395,7 +409,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -11,13 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            無政府狀態是<a href="/civs/Goths">哥德</a>可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發，研發後玩家可以在<a
-              href="/building/Barracks"
-              >軍營</a
-            >生產<a href="/units/Huskarl">哥德衛隊</a>。
+            無政府狀態是<nuxt-link to="/civs/Goths">哥德</nuxt-link
+            >可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發，研發後玩家可以在<nuxt-link to="/building/Barracks"
+              >軍營</nuxt-link
+            >生產<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -28,17 +27,19 @@
               由於哥德的各種文明加成與特殊技術，帝王時代在軍營生產哥德衛隊將比城堡快得多，城堡為16秒，而軍營為5.5秒。
             </li>
             <li>
-              哥德軍營的高速生產在城堡時代並不明顯，且對於城堡時代來說，450食物與250黃金算是一筆高消費(相當於11個<a
-                href="/units/Long_Swordsman"
-                >長劍兵</a
+              哥德軍營的高速生產在城堡時代並不明顯，且對於城堡時代來說，450食物與250黃金算是一筆高消費(相當於11個<nuxt-link
+                to="/units/Long_Swordsman"
+                >長劍兵</nuxt-link
               >以上)，所以其實可以等到帝王時代，資源有餘裕的時候再行研發。
             </li>
             <li>
-              研發這個科技，代表你可以將城堡投入生產<a href="/units/Trebuchet"
-                >投石機</a
+              研發這個科技，代表你可以將城堡投入生產<nuxt-link
+                to="/units/Trebuchet"
+                >投石機</nuxt-link
               >，這比其他依賴城堡生產的特殊單位更有優勢(比方
-              <a href="/civs/Mayans">馬雅</a>的<a href="/Plumed_units/Archer"
-                >羽毛箭射手</a
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>的<nuxt-link
+                to="/Plumed_units/Archer"
+                >羽毛箭射手</nuxt-link
               >)。
             </li>
           </ul>
@@ -48,7 +49,7 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >：柏柏的特殊技術聚居堡壘可以增加無政府狀態的研發速度(+25%)。
             </li>
           </ul>
@@ -65,7 +66,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">無政府狀態</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">無政府狀態</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -77,28 +80,31 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Goths">哥德</a></td>
+            <td class="unit4"><nuxt-link to="/civs/Goths">哥德</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -108,7 +114,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -121,7 +127,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

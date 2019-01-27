@@ -104,7 +104,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="/The_Final_Fortress">決戰東都</a>
+                <div class="unititle"><nuxt-link to="/The_Final_Fortress">決戰東都</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -130,11 +130,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="#">越南人</a>
+              <td class="unit4"><nuxt-link to="#">越南人</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="#">戰役關卡編號</a>
+              <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>
@@ -144,12 +144,12 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/batt/A_Three-Pronged_Attack">兵分三路</a>
+              <td class="unit4"> <nuxt-link to="/batt/A_Three-Pronged_Attack">兵分三路</nuxt-link>
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href=>N/A</a>
+              <td class="unit4"> <a href=>N/A</nuxt-link>
                 </p>
               </td>
             </tr>

@@ -11,9 +11,9 @@
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是說關於松迪亞塔戰役。而關於英雄的松迪亞塔這個單位請參見<a
-              href="/units/hero/Sundjata"
-              >松迪亞塔(英雄)</a
+            >這篇文章是說關於松迪亞塔戰役。而關於英雄的松迪亞塔這個單位請參見<nuxt-link
+              to="/units/hero/Sundjata"
+              >松迪亞塔(英雄)</nuxt-link
             ></em
           >
         </div>
@@ -123,7 +123,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E6%9D%BE%E8%BF%AA%E4%BA%9A%E5%A1%94"
+                    href="https://zh.wikipedia.org/wiki/%E6%9D%BE%E8%BF%AA%E4%BA%9A%E5%A1%94"
                     >松迪亞塔</a
                   ></b
                 ></i

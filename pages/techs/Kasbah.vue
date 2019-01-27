@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            聚居堡壘是<a href="/civs/Berbers">柏柏</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
+            聚居堡壘是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
             >在
-            <a href="/building/Castle">城堡</a
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後跟柏柏同盟的文明的城堡工作速率快25%。(團隊加成)
           </p>
         </div>
@@ -25,20 +25,21 @@
           <ul>
             <li>
               聚居堡壘是柏柏玩家在上城堡時代後最需要研發的科技，因為它可以受益整個柏柏玩家同盟，加速城堡特殊單位生產速度。即使柏柏玩家或同盟不生產特殊單位，能更快速生產
-              <a href="/units/Petard">爆炸桶</a>和<a href="/units/Trebuchet"
-                >巨型投石機</a
+              <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>和<nuxt-link
+                to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
               >也是一大利多。尤其適合那些喜歡在敵對基地旁壓城堡的玩家，讓他們能更快更有效的攻擊對方。
             </li>
             <li>
               另外一個有趣的點是如果同盟中有兩個以上的柏柏玩家研發聚居堡壘效果是會疊加的。這讓生產大量的巨型投石機、爆炸桶和特殊單位變得相當有效率。甚至可讓研發
-              <a href="/techs/Royal_Heirs">皇族血脈</a>的<a
-                href="/units/Shotel_Warrior"
-                >彎刀勇士</a
-              >生產速度再疊加。同樣地聚居堡壘也能搭配<a href="/civs/Turks"
-                >土耳其</a
+              <nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link
+              >的<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
+              >生產速度再疊加。同樣地聚居堡壘也能搭配<nuxt-link to="/civs/Turks"
+                >土耳其</nuxt-link
               >的團隊加成(火藥單位訓練速度加快20%)，讓能生產城堡火藥單位的文明生產速度加快(如
-              <a href="/civs/Spanish">西班牙</a>、<a href="/civs/Portuguese"
-                >葡萄牙</a
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
               >)
             </li>
           </ul>
@@ -48,8 +49,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速聚居堡壘的研究時間(快25%)。
             </li>
           </ul>
@@ -81,23 +83,26 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Berbers">柏柏</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>

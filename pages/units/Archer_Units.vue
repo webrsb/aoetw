@@ -102,21 +102,29 @@
           <table class="table-bordered" width="100%">
             <tr class="tta">
               <td width="19%">遠距單位</td>
-              <td width="9%"><a href="/elements/Hit_points">生命值</a></td>
-              <td width="9%"><a href="/elements/Attack">攻擊</a></td>
-              <td width="9%"><a href="/Armor_Class.php">防禦</a></td>
+              <td width="9%">
+                <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+              </td>
+              <td width="9%">
+                <nuxt-link to="/elements/Attack">攻擊</nuxt-link>
+              </td>
+              <td width="9%">
+                <nuxt-link to="/Armor_Class.php">防禦</nuxt-link>
+              </td>
               <td width="9%">射程</td>
-              <td width="9%"><a href="/elements/Rate_of_Fire">射速</a></td>
+              <td width="9%">
+                <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+              </td>
               <td width="9%">命中率</td>
-              <td width="9%"><a href="/los.php">視野</a></td>
+              <td width="9%"><nuxt-link to="/los.php">視野</nuxt-link></td>
               <td width="9%">速度</td>
               <td width="9%">開火 <br />間隔</td>
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ArcherIcon.jpg" /><a
-                  href="/units/Archer"
-                  >弓兵</a
+                <img class="gg" src="~assets/ArcherIcon.jpg" /><nuxt-link
+                  to="/units/Archer"
+                  >弓兵</nuxt-link
                 >
               </td>
               <td class="tta3">30</td>
@@ -131,9 +139,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CrossbowmanIcon.jpg" /><a
-                  href="/units/Crossbowman"
-                  >弩兵</a
+                <img class="gg" src="~assets/CrossbowmanIcon.jpg" /><nuxt-link
+                  to="/units/Crossbowman"
+                  >弩兵</nuxt-link
                 >
               </td>
               <td class="tta3">35</td>
@@ -148,9 +156,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ArbalestIcon.jpg" /><a
-                  href="/units/Arbalest"
-                  >強弩兵</a
+                <img class="gg" src="~assets/ArbalestIcon.jpg" /><nuxt-link
+                  to="/units/Arbalest"
+                  >強弩兵</nuxt-link
                 >
               </td>
               <td class="tta3">40</td>
@@ -165,9 +173,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/SkirmisherIcon.jpg" /><a
-                  href="/units/Skirmisher"
-                  >矛兵</a
+                <img class="gg" src="~assets/SkirmisherIcon.jpg" /><nuxt-link
+                  to="/units/Skirmisher"
+                  >矛兵</nuxt-link
                 >
               </td>
               <td class="tta3">30</td>
@@ -182,10 +190,10 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/EliteSkirmisherIcon.jpg" /><a
-                  href="/units/Elite_Skirmisher"
-                  >戰矛兵</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/EliteSkirmisherIcon.jpg"
+                /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
               </td>
               <td class="tta3">35</td>
               <td class="tta3">3</td>
@@ -199,9 +207,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/Imperialskirmishericon.png" /><a
-                  href="/units/Imperial_Skirmisher"
-                  >帝王戰矛兵</a
+                <img
+                  class="gg"
+                  src="~assets/Imperialskirmishericon.png"
+                /><nuxt-link to="/units/Imperial_Skirmisher"
+                  >帝王戰矛兵</nuxt-link
                 >
               </td>
               <td class="tta3">35</td>
@@ -216,9 +226,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CavalryArcherIcon.jpg" /><a
-                  href="/Cavalry_units/Archer"
-                  >馬弓騎兵</a
+                <img class="gg" src="~assets/CavalryArcherIcon.jpg" /><nuxt-link
+                  to="/Cavalry_units/Archer"
+                  >馬弓騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">50</td>
@@ -242,9 +252,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" /><a
-                  href="/Heavy_Cavalry_units/Archer"
-                  >重裝馬弓騎兵</a
+                <img
+                  class="gg"
+                  src="~assets/HeavyCavArcherIcon.jpg"
+                /><nuxt-link to="/Heavy_Cavalry_units/Archer"
+                  >重裝馬弓騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">60</td>
@@ -268,9 +280,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><a
-                  href="/units/Hand_Cannoneer"
-                  >火槍兵</a
+                <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><nuxt-link
+                  to="/units/Hand_Cannoneer"
+                  >火槍兵</nuxt-link
                 >
               </td>
               <td class="tta3">35</td>
@@ -294,9 +306,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/Slinger_Icon.jpg" /><a
-                  href="/units/Slinger"
-                  >投石手</a
+                <img class="gg" src="~assets/Slinger_Icon.jpg" /><nuxt-link
+                  to="/units/Slinger"
+                  >投石手</nuxt-link
                 >
               </td>
               <td class="tta3">40</td>
@@ -320,9 +332,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/GenitourIcon.jpg" /><a
-                  href="/units/Genitour"
-                  >標槍騎兵</a
+                <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+                  to="/units/Genitour"
+                  >標槍騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">50</td>
@@ -346,9 +358,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/GenitourIcon.jpg" /><a
-                  href="/units/Genitour"
-                  >精銳標槍騎兵</a
+                <img class="gg" src="~assets/GenitourIcon.jpg" /><nuxt-link
+                  to="/units/Genitour"
+                  >精銳標槍騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">55</td>
@@ -372,10 +384,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" width="22" src="~assets/LongbowmanIcon.jpg" /><a
-                  href="/units/Longbowman"
-                  >長弓兵</a
-                >
+                <img
+                  class="gg"
+                  width="22"
+                  src="~assets/LongbowmanIcon.jpg"
+                /><nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>
               </td>
               <td class="tta3">35</td>
               <!--生命值!-->
@@ -398,10 +411,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" width="22" src="~assets/LongbowmanIcon.jpg" /><a
-                  href="/units/Longbowman"
-                  >精銳長弓兵</a
-                >
+                <img
+                  class="gg"
+                  width="22"
+                  src="~assets/LongbowmanIcon.jpg"
+                /><nuxt-link to="/units/Longbowman">精銳長弓兵</nuxt-link>
               </td>
               <td class="tta3">40</td>
               <!--生命值!-->
@@ -424,9 +438,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ChuKoNuIcon.jpg" /><a
-                  href="/units/Chu_Ko_Nu"
-                  >連弩兵</a
+                <img class="gg" src="~assets/ChuKoNuIcon.jpg" /><nuxt-link
+                  to="/units/Chu_Ko_Nu"
+                  >連弩兵</nuxt-link
                 >
               </td>
               <td class="tta3">45</td>
@@ -450,9 +464,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ChuKoNuIcon.jpg" /><a
-                  href="/units/Chu_Ko_Nu"
-                  >精銳連弩兵</a
+                <img class="gg" src="~assets/ChuKoNuIcon.jpg" /><nuxt-link
+                  to="/units/Chu_Ko_Nu"
+                  >精銳連弩兵</nuxt-link
                 >
               </td>
               <td class="tta3">50</td>
@@ -476,10 +490,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" width="22" src="~assets/MangudaiIcon.jpg" /><a
-                  href="/units/Mangudai"
-                  >蒙古突騎</a
-                >
+                <img
+                  class="gg"
+                  width="22"
+                  src="~assets/MangudaiIcon.jpg"
+                /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->
@@ -502,10 +517,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" width="22" src="~assets/MangudaiIcon.jpg" /><a
-                  href="/units/Mangudai"
-                  >精銳蒙古突騎</a
-                >
+                <img
+                  class="gg"
+                  width="22"
+                  src="~assets/MangudaiIcon.jpg"
+                /><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link>
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->
@@ -528,9 +544,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/JanissaryIcon.jpg" /><a
-                  href="/units/Janissary"
-                  >土耳其火槍兵</a
+                <img class="gg" src="~assets/JanissaryIcon.jpg" /><nuxt-link
+                  to="/units/Janissary"
+                  >土耳其火槍兵</nuxt-link
                 >
               </td>
               <td class="tta3">35</td>
@@ -554,9 +570,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/JanissaryIcon.jpg" /><a
-                  href="/units/Janissary"
-                  >精銳土耳其火槍兵</a
+                <img class="gg" src="~assets/JanissaryIcon.jpg" /><nuxt-link
+                  to="/units/Janissary"
+                  >精銳土耳其火槍兵</nuxt-link
                 >
               </td>
               <td class="tta3">40</td>
@@ -580,9 +596,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/WarWagonIcon.jpg" /><a
-                  href="/units/War_Wagon"
-                  >馬戰車</a
+                <img class="gg" src="~assets/WarWagonIcon.jpg" /><nuxt-link
+                  to="/units/War_Wagon"
+                  >馬戰車</nuxt-link
                 >
               </td>
               <td class="tta3">150</td>
@@ -606,9 +622,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/WarWagonIcon.jpg" /><a
-                  href="/units/War_Wagon"
-                  >精銳馬戰車</a
+                <img class="gg" src="~assets/WarWagonIcon.jpg" /><nuxt-link
+                  to="/units/War_Wagon"
+                  >精銳馬戰車</nuxt-link
                 >
               </td>
               <td class="tta3">200</td>
@@ -632,9 +648,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/PlumedArcherIcon.jpg" /><a
-                  href="/Plumed_units/Archer"
-                  >羽毛箭射手</a
+                <img class="gg" src="~assets/PlumedArcherIcon.jpg" /><nuxt-link
+                  to="/Plumed_units/Archer"
+                  >羽毛箭射手</nuxt-link
                 >
               </td>
               <td class="tta3">50</td>
@@ -658,9 +674,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/PlumedArcherIcon.jpg" /><a
-                  href="/Plumed_units/Archer"
-                  >精銳羽毛箭射手</a
+                <img class="gg" src="~assets/PlumedArcherIcon.jpg" /><nuxt-link
+                  to="/Plumed_units/Archer"
+                  >精銳羽毛箭射手</nuxt-link
                 >
               </td>
               <td class="tta3">50</td>
@@ -684,9 +700,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><a
-                  href="/units/Conquistador"
-                  >征服者</a
+                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><nuxt-link
+                  to="/units/Conquistador"
+                  >征服者</nuxt-link
                 >
               </td>
               <td class="tta3">55</td>
@@ -710,9 +726,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><a
-                  href="/units/Conquistador"
-                  >精銳征服者</a
+                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><nuxt-link
+                  to="/units/Conquistador"
+                  >精銳征服者</nuxt-link
                 >
               </td>
               <td class="tta3">70</td>
@@ -736,10 +752,10 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ElephantArcherIcon.jpg" /><a
-                  href="/Elephant_units/Archer"
-                  >象弓騎兵</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/ElephantArcherIcon.jpg"
+                /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>
               </td>
               <td class="tta3">280</td>
               <!--生命值!-->
@@ -762,9 +778,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ElephantArcherIcon.jpg" /><a
-                  href="/Elephant_units/Archer"
-                  >精銳象弓騎兵</a
+                <img
+                  class="gg"
+                  src="~assets/ElephantArcherIcon.jpg"
+                /><nuxt-link to="/Elephant_units/Archer"
+                  >精銳象弓騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">330</td>
@@ -788,9 +806,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/New_Genoese_Crossbowman.png" /><a
-                  href="/Genoese_units/Crossbowman"
-                  >熱那亞弩手</a
+                <img
+                  class="gg"
+                  src="~assets/New_Genoese_Crossbowman.png"
+                /><nuxt-link to="/Genoese_units/Crossbowman"
+                  >熱那亞弩手</nuxt-link
                 >
               </td>
               <td class="tta3">45</td>
@@ -814,9 +834,11 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/New_Genoese_Crossbowman.png" /><a
-                  href="/Genoese_units/Crossbowman"
-                  >精銳熱那亞弩手</a
+                <img
+                  class="gg"
+                  src="~assets/New_Genoese_Crossbowman.png"
+                /><nuxt-link to="/Genoese_units/Crossbowman"
+                  >精銳熱那亞弩手</nuxt-link
                 >
               </td>
               <td class="tta3">50</td>
@@ -840,9 +862,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CamelArcherIcon.jpg" /><a
-                  href="/Camel_units/Archer"
-                  >駱駝弓騎兵</a
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" /><nuxt-link
+                  to="/Camel_units/Archer"
+                  >駱駝弓騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">60</td>
@@ -866,9 +888,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CamelArcherIcon.jpg" /><a
-                  href="/Camel_units/Archer"
-                  >精銳駱駝弓騎兵</a
+                <img class="gg" src="~assets/CamelArcherIcon.jpg" /><nuxt-link
+                  to="/Camel_units/Archer"
+                  >精銳駱駝弓騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">65</td>
@@ -892,9 +914,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/Arambaiicon.png" /><a
-                  href="/units/Arambai"
-                  >飛鏢騎兵</a
+                <img class="gg" src="~assets/Arambaiicon.png" /><nuxt-link
+                  to="/units/Arambai"
+                  >飛鏢騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">60</td>
@@ -918,9 +940,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/Arambaiicon.png" /><a
-                  href="/units/Arambai"
-                  >精銳飛鏢騎兵</a
+                <img class="gg" src="~assets/Arambaiicon.png" /><nuxt-link
+                  to="/units/Arambai"
+                  >精銳飛鏢騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">65</td>
@@ -944,9 +966,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/Rattanarchericon.png" /><a
-                  href="/Rattan_units/Archer"
-                  >藤甲弓兵</a
+                <img class="gg" src="~assets/Rattanarchericon.png" /><nuxt-link
+                  to="/Rattan_units/Archer"
+                  >藤甲弓兵</nuxt-link
                 >
               </td>
               <td class="tta3">35</td>
@@ -970,9 +992,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/Rattanarchericon.png" /><a
-                  href="/Rattan_units/Archer"
-                  >精銳藤甲弓兵</a
+                <img class="gg" src="~assets/Rattanarchericon.png" /><nuxt-link
+                  to="/Rattan_units/Archer"
+                  >精銳藤甲弓兵</nuxt-link
                 >
               </td>
               <td class="tta3">40</td>
@@ -1013,7 +1035,7 @@
                   style="margin: 2px;"
                   src="~assets/Thumb_Ring.png"
                   alt=""
-                /><a href="/techs/Thumb_Ring">拇指環</a>
+                /><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">300F 250W</td>
@@ -1028,7 +1050,7 @@
                   style="margin: 2px;"
                   src="~assets/Parthian-Tactics.jpg"
                   alt=""
-                /><a href="/techs/Parthian_Tactics">帕提亞戰術</a>
+                /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">200F 250G</td>
@@ -1041,7 +1063,7 @@
                   style="margin: 2px;"
                   src="~assets/Ballistics.jpg"
                   alt=""
-                /><a href="/techs/Ballistics">彈道學</a>
+                /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">300W 175G</td>
@@ -1056,7 +1078,7 @@
                   style="margin: 2px;"
                   src="~assets/Chemistry.jpg"
                   alt=""
-                /><a href="/techs/Chemistry">化學</a>
+                /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">300F 200G</td>
@@ -1071,7 +1093,9 @@
                   style="margin: 2px;"
                   src="~assets/Paddedarcherarmor.jpg"
                   alt=""
-                /><a href="/techs/Padded_Archer_Armor">弓兵布甲</a>
+                /><nuxt-link to="/techs/Padded_Archer_Armor"
+                  >弓兵布甲</nuxt-link
+                >
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">100F</td>
@@ -1084,7 +1108,9 @@
                   style="margin: 2px;"
                   src="~assets/Leatherarcherarmor.jpg"
                   alt=""
-                /><a href="/techs/Leather_Archer_Armor">弓兵皮甲</a>
+                /><nuxt-link to="/techs/Leather_Archer_Armor"
+                  >弓兵皮甲</nuxt-link
+                >
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">150F 150G</td>
@@ -1097,7 +1123,7 @@
                   style="margin: 2px;"
                   src="~assets/Ringarcherarmor.jpg"
                   alt=""
-                /><a href="/techs/Ring_Archer_Armor">弓兵環甲</a>
+                /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">250F 250G</td>
@@ -1110,7 +1136,7 @@
                   style="margin: 2px;"
                   src="~assets/Fletching.jpg"
                   alt=""
-                /><a href="/techs/Fletching">箭羽</a>
+                /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">100F 50G</td>
@@ -1125,7 +1151,7 @@
                   style="margin: 2px;"
                   src="~assets/Bodkinarrow.jpg"
                   alt=""
-                /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>
+                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">200F 100G</td>
@@ -1140,7 +1166,7 @@
                   style="margin: 2px;"
                   src="~assets/Bracer.jpg"
                   alt=""
-                /><a href="/techs/Bracer">護腕</a>
+                /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">300F 200G</td>
@@ -1167,9 +1193,11 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Aztecs">阿茲特克</a>
+                /><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/techs/Atlatl">擲矛器</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link>
+              </td>
               <td class="tunitc5">450F 350G</td>
               <td class="tunitc6">矛兵和標槍騎兵+1攻擊和+1攻擊範圍。</td>
             </tr>
@@ -1180,9 +1208,11 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Berbers">柏柏</a>
+                /><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/techs/Kasbah">聚居堡壘</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>
+              </td>
               <td class="tunitc5">250F 250G</td>
               <td class="tunitc6">團隊的城堡工作效率快25%</td>
             </tr>
@@ -1193,9 +1223,11 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Britons">不列顛</a>
+                /><nuxt-link to="/civs/Britons">不列顛</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/techs/Yeomen">義勇騎兵</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>
+              </td>
               <td class="tunitc5">750W 450G</td>
               <td class="tunitc6">徒步弓兵射程+1，箭塔攻擊+2。</td>
             </tr>
@@ -1206,10 +1238,10 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Incas">印加</a>
+                /><nuxt-link to="/civs/Incas">印加</nuxt-link>
               </td>
               <td class="tunitc4">
-                <a href="/techs/Andean_Sling">安地斯彈弓</a>
+                <nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link>
               </td>
               <td class="tunitc5">200F 300G</td>
               <td class="tunitc6">矛兵和投石手取消最小射程。</td>
@@ -1221,9 +1253,11 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Italians">義大利</a>
+                /><nuxt-link to="/civs/Italians">義大利</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/techs/Pavise">巨盾</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Pavise">巨盾</nuxt-link>
+              </td>
               <td class="tunitc5">300F 150G</td>
               <td class="tunitc6">徒步弓兵護甲+1/+1。</td>
             </tr>
@@ -1234,10 +1268,10 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Mayans">瑪雅</a>
+                /><nuxt-link to="/civs/Mayans">瑪雅</nuxt-link>
               </td>
               <td class="tunitc4">
-                <a href="/techs/Obsidian_Arrows">黑曜石之箭</a>
+                <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>
               </td>
               <td class="tunitc5">300F 300G</td>
               <td class="tunitc6">射箭場弓兵單位對建築物和石造建築攻擊+6。</td>
@@ -1249,9 +1283,11 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Turks">土耳其</a>
+                /><nuxt-link to="/civs/Turks">土耳其</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/techs/Sipahi">采邑騎兵</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>
+              </td>
               <td class="tunitc5">350F 150G</td>
               <td class="tunitc6">馬騎弓兵+20 HP。</td>
             </tr>
@@ -1262,11 +1298,11 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Berbers">柏柏</a>
+                /><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
               </td>
 
               <td class="tunitc4">
-                <a href="/techs/Maghrabi_Camels">馬格拉比駱駝</a>
+                <nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link>
               </td>
               <td class="tunitc5">700F 300G</td>
               <td class="tunitc6">駱駝部隊獲得回血能力(每分鐘回15 HP)。</td>
@@ -1278,9 +1314,11 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Burmese ">緬甸</a>
+                /><nuxt-link to="/civs/Burmese ">緬甸</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/Manipur.php">曼尼普爾騎兵</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/Manipur.php">曼尼普爾騎兵</nuxt-link>
+              </td>
               <td class="tunitc5">650F 400G</td>
               <td class="tunitc6">騎兵和飛鏢騎兵對建築物攻擊+3。</td>
             </tr>
@@ -1291,9 +1329,9 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Chinese">中國</a>
+                /><nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="#">火箭術</a></td>
+              <td class="tunitc4"><nuxt-link to="#">火箭術</nuxt-link></td>
               <td class="tunitc5">750W 750G</td>
               <td class="tunitc6">中國連弩兵攻擊+2，弩炮攻擊+4。</td>
             </tr>
@@ -1304,9 +1342,11 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Indians">印度</a>
+                /><nuxt-link to="/civs/Indians">印度</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/techs/Shatagni">印度火槍</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Shatagni">印度火槍</nuxt-link>
+              </td>
               <td class="tunitc5">500F 300G</td>
               <td class="tunitc6">火槍兵射程+1。</td>
             </tr>
@@ -1317,9 +1357,11 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Magyars">馬札爾</a>
+                /><nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/techs/Recurve_Bow">反曲弓</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>
+              </td>
               <td class="tunitc5">600W 400G</td>
               <td class="tunitc6">馬騎弓兵攻擊和射程都+1。</td>
             </tr>
@@ -1330,12 +1372,14 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="/civs/Portuguese">葡萄牙</a>
+                /><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
               </td>
-              <td class="tunitc4"><a href="/techs/Arquebus">火繩槍</a></td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>
+              </td>
               <td class="tunitc5">700F 400G</td>
               <td class="tunitc6">
-                <a href="/units/Gunpowder_Unit">火藥單位</a
+                <nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
                 >對移動目標的命中率提升。
               </td>
             </tr>

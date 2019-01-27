@@ -16,7 +16,7 @@
           <ul>
             <li>
               <img src="~assets/MilitiaIcon.jpg" alt="" />
-              <a href="/units/Militia">民兵</a
+              <nuxt-link to="/units/Militia">民兵</nuxt-link
               >：黑暗時代唯一可以訓練的軍事單位，控制得宜可擊殺村民。
             </li>
           </ul>
@@ -103,20 +103,24 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle"><a href="#">黑暗爆民兵</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">黑暗爆民兵</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
                 <img width="45" src="~assets/MilitiaIcon.jpg" alt="" />
-                <a href="/units/Militia">民兵</a>
+                <nuxt-link to="/units/Militia">民兵</nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle2"><a href="#">戰術介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">戰術介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>

@@ -11,19 +11,22 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            斥候騎兵或稱斥候，在封建時代有血量優勢與速度而使得他格外具有威脅性，是克制<a
-              href="/units/Archer_Units"
-              >遠程兵種</a
+            斥候騎兵或稱斥候，在封建時代有血量優勢與速度而使得他格外具有威脅性，是克制<nuxt-link
+              to="/units/Archer_Units"
+              >遠程兵種</nuxt-link
             >及有效擾亂對方
-            <a href="/units/Villager">村民</a
-            >的明智選擇。對抵抗僧侶招降較佳與對<a href="/armor/Armor_Class_Monk"
-              >僧侶類</a
+            <nuxt-link to="/units/Villager">村民</nuxt-link
+            >的明智選擇。對抵抗僧侶招降較佳與對<nuxt-link
+              to="/armor/Armor_Class_Monk"
+              >僧侶類</nuxt-link
             >有+6攻擊加成。
           </p>
           <p>
             <strong>不可生產文明：</strong>
-            <a href="/civs/Aztecs">阿茲特克</a>、<a href="/civs/Incas">印加</a
-            >、 <a href="/civs/Mayans">馬雅</a>。
+            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+              to="/civs/Incas"
+              >印加</nuxt-link
+            >、 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>。
           </p>
         </div>
         <h3>戰術</h3>
@@ -33,9 +36,9 @@
             斥候是輕騎兵兵種，可訓練於馬廄，非美洲文明國家皆可以生產，且玩家於一開始皆可獲得一隻斥侯。在封建時代即可生產，並且獲得+2攻擊，+2視野和+0.35的速度，利用其速度優勢可以有效的攻擊村民與遠程兵種。
           </p>
           <p>
-            <a href="/civs/Magyars">馬扎爾</a>的斥侯更是異常的兇猛，打法請見：<a
-              href="/ar/scrush"
-              >肉馬開局</a
+            <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            >的斥侯更是異常的兇猛，打法請見：<nuxt-link to="/ar/scrush"
+              >肉馬開局</nuxt-link
             >。
           </p>
         </div>
@@ -51,20 +54,21 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="/units/Skirmisher">矛兵系列</a>、<a
-                href="/units/Villager"
-                >村民</a
-              >、<a href="/units/Siege_Weapons">攻城器單位</a>、
-              <a href="/units/Archer">弓兵</a>、<a href="/units/Monk">僧侶</a>。
+              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>、<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >、<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link>、
+              <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <a href="/units/Infantry_Units">步兵單位</a>、<a
-                href="/units/Cavalry_Units"
-                >騎兵單位</a
-              >。
+              <nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -76,53 +80,59 @@
             <td class="tta1" style="width:10%">生命值</td>
             <td class="tta4">
               <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-              <a href="/units/Scout_Cavalry">斥侯</a>→
+              <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>→
               <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
-              <a href="/units/Light_Cavalry">輕騎兵</a>→
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
               <img class="gg" src="~assets/HussarIcon.jpg" alt="" />
-              <a href="/Hustree/sar">匈牙利輕騎兵</a>
+              <nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>
               <br />
               <img
                 class="gg"
                 src="~assets/Bloodlines.png"
                 width="30"
                 alt=""
-              /><a href="/techs/Bloodlines">品種</a>(+20)
+              /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Forging.jpg" width="30" alt="" /><a
-                href="/techs/Forging"
-                >鍛造</a
-              >(+1)
+              <img
+                class="gg"
+                src="~assets/Forging.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Ironcasting.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Iron_Casting">鑄造</a>(+1)
+              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Blastfurnace.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Blast_Furnace">鼓風爐</a>(+2)
+              /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
               <br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="/techs/Farimba"
-                >驃悍精神</a
-              >：馬廄單位攻擊+5。<a href="/civs/Malians">馬利</a>限定
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Farimba"
+                >驃悍精神</nuxt-link
+              >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >限定
               <br />
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</a
-              >:騎兵對<a href="/armor/Armor_Class_Building">建築</a>和
-              <a href="/armor/Armor_Class_Standard_Building">標準建築</a
-              >攻擊+3。<a href="/civs/Burmese">緬甸</a>限定
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Manipur_Cavalry"
+                >曼尼普爾騎兵</nuxt-link
+              >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築</nuxt-link
+              >和
+              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+                >標準建築</nuxt-link
+              >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
             </td>
           </tr>
           <tr>
@@ -133,44 +143,51 @@
                 src="~assets/Scalebardingarmor.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Scale_Barding_Armor">騎兵鱗甲</a>(+1/+1)
+              /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
+              >(+1/+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Chain_Barding_Armor">騎兵鎖甲</a>(+1/+1)
+              /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+              >(+1/+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Platebardingarmor.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Plate_Barding_Armor">騎兵板甲</a>(+1/+2)
+              /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              >(+1/+2)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Husbandry.jpg" width="30" alt="" /><a
-                href="/techs/Husbandry"
-                >畜牧培育</a
-              >(+10%)
+              <img
+                class="gg"
+                src="~assets/Husbandry.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
-              <img class="gg" src="~assets/Faith.jpg" alt="" /><a
-                href="/techs/Faith"
-                >忠誠信仰</a
+              <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="/techs/Heresy"
-                >異端邪說</a
-              >
+              <img
+                class="gg"
+                src="~assets/Heresy.png"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -181,11 +198,13 @@
                 src="~assets/Conscription.jpg"
                 width="30"
                 alt=""
-              /><a href="/techs/Conscription">徵兵制度</a>(+33%)
+              /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
               <br />
-              <img class="gg" src="~assets/CastleAgeUnique.png" alt="" /><a
-                href="/techs/Chivalry"
-                >騎士精神</a
+              <img
+                class="gg"
+                src="~assets/CastleAgeUnique.png"
+                alt=""
+              /><nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
               >：馬廄工作速率快40%。
             </td>
           </tr>
@@ -196,51 +215,56 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >：城堡/帝王時代各便宜15/20%。(4.8版本前是都20%)
             </li>
             <li>
-              <a href="/civs/Burmese">緬甸</a>：<a href="/techs/Faith"
-                >忠誠信仰</a
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
               >便宜50%。
             </li>
             <li>
-              <a href="/civs/Celts">賽爾特</a
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
               >：只要在一個賽爾特單位的視野下，羊群不會被牽走
             </li>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：科技研發在封建/城堡/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
-              <a href="/civs/Franks">法蘭克</a
-              >：斥侯血量多20%(在非洲王朝資料片上線後)，研發<a
-                href="/techs/Chivalry"
-                >騎士精神</a
-              >後 <a href="/techs/Husbandry">畜牧培育</a>研發速度快40%
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+              >：斥侯血量多20%(在非洲王朝資料片上線後)，研發<nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
+              >後
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發速度快40%
             </li>
             <li>
-              <a href="/civs/Magyars">馬扎爾</a>：免費<a href="/techs/Forging"
-                >鍛造</a
-              >、<a href="/techs/Iron_Casting">鑄鐵</a>、
-              <a href="/techs/Blast_Furnace">鼓風爐</a>科技，<a
-                href="/units/Scout_Cavalry"
-                >斥侯</a
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
+                to="/techs/Forging"
+                >鍛造</nuxt-link
+              >、<nuxt-link to="/techs/Iron_Casting">鑄鐵</nuxt-link>、
+              <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
+              >科技，<nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link
               >生產便宜15%
             </li>
             <li>
-              <a href="/civs/Spanish">西班牙</a>：<a href="/building/Blacksmith"
-                >兵工廠</a
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
               >升級科技免黃金
             </li>
             <li>
-              <a href="/civs/Turks">土耳其</a>：<a href="/units/Light_Cavalry"
-                >輕騎兵</a
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
               >免費升級。
             </li>
             <li>
-              <a href="/civs/Vietnamese">越南</a>：<a href="/techs/Conscription"
-                >徵兵制度</a
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
               >免費。
             </li>
           </ul>
@@ -250,27 +274,32 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
-              >能夠加速<a href="/techs/Conscription">徵兵制度</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
-              <a href="/civs/Huns">匈奴</a>：<a href="/units/Scout_Cavalry"
-                >斥侯</a
-              >生產和升級效率快20%， <a href="/techs/Bloodlines">品種</a>與<a
-                href="/techs/Husbandry"
-                >畜牧培育</a
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥侯</nuxt-link
+              >生產和升級效率快20%，
+              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>與<nuxt-link
+                to="/techs/Husbandry"
+                >畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>
-              <a href="/civs/Mongols">蒙古</a>：<a href="/units/Scout_Cavalry"
-                >斥侯</a
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥侯</nuxt-link
               >+2視野。
             </li>
             <li>
-              <a href="/civs/Teutons">條頓</a>：<a href="/units/Scout_Cavalry"
-                >斥侯</a
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥侯</nuxt-link
               >對僧侶的抗招降能力更強。
             </li>
           </ul>
@@ -279,53 +308,58 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/units/Scout_Cavalry">斥侯</a>獲得對僧侶+6的額外攻擊。
+              <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link
+              >獲得對僧侶+6的額外攻擊。
             </li>
-            <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
-            <li>引入<a href="/techs/Bloodlines">品種</a>。</li>
+            <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
+            <li>引入<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>。</li>
           </ul>
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Franks">法蘭克</a>引入<a href="/techs/Chivalry"
-                >騎士精神</a
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>引入<nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
               >
             </li>
             <li>
-              <a href="/civs/Magyars">馬札爾</a>:<a href="/units/Scout_Cavalry"
-                >斥侯</a
+              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>:<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥侯</nuxt-link
               >便宜10%。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>的<a href="/units/Scout_Cavalry"
-                >斥侯</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥侯</nuxt-link
               >最初從城堡時代便宜20%，4.8版本後，變成城堡/帝王各便宜15/20%。
             </li>
             <li>
-              <a href="/civs/Franks">法蘭克人</a>的<a
-                href="/units/Scout_Cavalry"
-                >斥侯</a
+              <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>的<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥侯</nuxt-link
               >受益於文明加成有+20%HP。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Magyars">馬札爾</a>:<a href="/units/Scout_Cavalry"
-                >斥侯</a
+              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>:<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥侯</nuxt-link
               >現在便宜15%。
             </li>
           </ul>
@@ -368,7 +402,9 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><a href="/units/Cavalry_Units">騎兵</a></td>
+            <td class="unit4">
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -382,7 +418,7 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><a href="/techsage/Feudal_Age">封建時代</a>
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -393,7 +429,7 @@
                 width="25px"
                 src="~assets/Stableicon.png"
                 alt=""
-              /><a href="/building/Stable">馬廄</a>
+              /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -425,7 +461,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +6對<a href="/armor/Armor_Class_Monk">僧侶</a>
+              +6對<nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -433,7 +469,9 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="/Armor_Class.php">近防</a></td>
+            <td class="unit3">
+              <nuxt-link to="/Armor_Class.php">近防</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -441,8 +479,12 @@
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="/Armor_Class.php"></a>防禦類型</td>
-            <td class="unit4"><a href="/armor/Armor_Class_Cavalry">騎兵</a></td>
+            <td class="unit3">
+              <nuxt-link to="/Armor_Class.php"></nuxt-link>防禦類型
+            </td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
@@ -452,14 +494,15 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              /><a href="/techsage/Dark_Age">黑暗時代</a>:1.2
+              /><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>:1.2
               <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><a href="/techsage/Feudal_Age">封建時代</a>之後:1.55
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+              >之後:1.55
             </td>
           </tr>
           <tr>
@@ -470,28 +513,28 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              /><a href="/techsage/Dark_Age">黑暗時代</a>:4
+              /><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>:4
               <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><a href="/techsage/Feudal_Age">封建時代</a>:6
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>:6
               <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><a href="/techsage/Castle_Age">城堡時代</a>:8
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>:8
               <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 width="30"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>:10
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>:10
             </td>
           </tr>
           <tr>
@@ -502,10 +545,11 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" /><a
-                href="/units/Light_Cavalry"
-                >輕騎兵</a
-              >
+              <img
+                class="gg"
+                src="~assets/LightCavalryIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -532,21 +576,21 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/sc45.jpg"
+              <nuxt-link to="/img/sc45.jpg"
                 ><img class="imgn hg" src="~assets/Scoutcavalry.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>一群斥侯。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="/img/sc45.jpg"
+              <nuxt-link to="/img/sc45.jpg"
                 ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>斥侯系，斥侯在最左邊。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="/img/sc45.jpg"
+              <nuxt-link to="/img/sc45.jpg"
                 ><img class="imgn hg" src="~assets/sc45.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>一群封建的斥侯正在大開殺戒。</em></p>
             </div>
           </div>

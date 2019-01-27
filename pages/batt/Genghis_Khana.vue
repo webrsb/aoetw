@@ -11,9 +11,9 @@
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是說關於成吉思汗戰役。而關於英雄的成吉思汗這個單位請參見<a
-              href="/units/hero/Genghis_Khan"
-              >成吉思汗(英雄)</a
+            >這篇文章是說關於成吉思汗戰役。而關於英雄的成吉思汗這個單位請參見<nuxt-link
+              to="/units/hero/Genghis_Khan"
+              >成吉思汗(英雄)</nuxt-link
             ></em
           >
         </div>
@@ -122,7 +122,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97"
+                    href="https://zh.wikipedia.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97"
                     >成吉思汗</a
                   ></b
                 ></i

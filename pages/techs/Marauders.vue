@@ -11,13 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            掠奪者是<a href="/civs/Huns">匈奴</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Tarkan"
-              >韃靼騎兵</a
-            >可在<a href="/building/Stable">馬廄</a
+            掠奪者是<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
+            >可在<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >訓練。因為馬廄比城堡便宜，可在短時間內生產大量的韃靼騎兵。
           </p>
         </div>
@@ -35,8 +35,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速掠奪者的研究時間(快25%)。
             </li>
           </ul>
@@ -45,13 +46,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>掠奪者成本需要500肉200金。</li>
           </ul>
           <h3>
-            <em><a href="/games/aok">非洲王朝</a></em>
+            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>掠奪者成本現在需要300木200金。</li>
@@ -62,7 +63,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">掠奪者</a></div>
+              <div class="unititle"><nuxt-link to="#">掠奪者</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -74,28 +75,31 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Huns">匈奴</a></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -105,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -118,7 +122,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

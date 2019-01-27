@@ -30,15 +30,15 @@
               </div>
               <div class="col-md-6">
                 <ol>
-                  <li><a href="/batt/Usurpation">揭竿而起</a>
+                  <li><nuxt-link to="/batt/Usurpation">揭竿而起</nuxt-link>
                   </li>
-                  <li><a href="/batt/Quelling_the_Rebellion">席捲入荒</a>
+                  <li><nuxt-link to="/batt/Quelling_the_Rebellion">席捲入荒</nuxt-link>
                   </li>
-                  <li><a href="/batt/A_Dangerous_Mission">九死一生</a>
+                  <li><nuxt-link to="/batt/A_Dangerous_Mission">九死一生</nuxt-link>
                   </li>
-                  <li><a href="/batt/Challenging_a_Thalassocrac">滔天巨浪</a>
+                  <li><nuxt-link to="/batt/Challenging_a_Thalassocrac">滔天巨浪</nuxt-link>
                   </li>
-                  <li><a href="/batt/Nirvanapada">千古偉業</a>
+                  <li><nuxt-link to="/batt/Nirvanapada">千古偉業</nuxt-link>
                   </li>
                 </ol>
               </div>

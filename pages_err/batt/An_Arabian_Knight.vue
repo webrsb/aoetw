@@ -51,21 +51,21 @@
                 ">  <ol>    <li>讓你的士兵到開羅的清真寺。</li>    <li>打敗在開羅的西法蘭克人。</li>    <li>要打敗開羅的西法蘭克人，可先破壞他們的城鎮中心。</li>  </ol></div></div><h2>任務提示</h2><div class="hrn1 "></div><div class="n1
                 "><ul>  <li>利用你輕騎兵的視野以避免不必要的衝突。</li></ul></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="/
-                ">阿拉伯騎士</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/An_arabian_knight.png
+                ">       <div class="unititle "><nuxt-link to="/
+                ">阿拉伯騎士</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/An_arabian_knight.png
                 " width=" " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><nuxt-link to="/ ">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">帝王世紀</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">沙拉丁</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href="/ ">薩拉森人</a></td>      </tr>
+                ">文明</td>       <td class="unit4 "><nuxt-link to="/ ">薩拉森人</nuxt-link></td>      </tr>
 <tr><td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="/
-                ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
+                "><nuxt-link to="/
+                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">帝王世紀第三章之一</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4
-                ">      N/A      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/batt/Lord_of_Arabia
-                ">阿拉伯之主</a>        </td>      </tr>        </table>     <div class="thanks
+                ">      N/A      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <nuxt-link to="/batt/Lord_of_Arabia
+                ">阿拉伯之主</nuxt-link>        </td>      </tr>        </table>     <div class="thanks
                 ">       感謝! 此頁面由裕暉，亞諭協助編輯     </div>  </div></div> <div class="row ">  <div class="col-md-12
                 ">  </div></div>      </div>    
         

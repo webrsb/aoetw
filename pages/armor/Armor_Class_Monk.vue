@@ -11,9 +11,9 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於僧侶單位的裝甲。而關於僧侶這個兵種的請參見<a
-              href="/units/Monk"
-              >僧侶</a
+            >這篇文章是將有關於僧侶單位的裝甲。而關於僧侶這個兵種的請參見<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
             ></em
           >
         </div>
@@ -35,7 +35,7 @@
                 style="margin: 2px;"
                 src="~assets/MonkIcon.jpg"
                 alt=""
-              /><a href="/units/Monk">僧侶</a>
+              /><nuxt-link to="/units/Monk">僧侶</nuxt-link>
             </li>
             <li>
               <img
@@ -43,8 +43,9 @@
                 style="margin: 2px;"
                 src="~assets/MissionaryIcon.jpg"
                 alt=""
-              /><a href="/units/Missionary">傳教士</a>(<a href="/civs/Spanish"
-                >西班牙</a
+              /><nuxt-link to="/units/Missionary">傳教士</nuxt-link>(<nuxt-link
+                to="/civs/Spanish"
+                >西班牙</nuxt-link
               >限定)
             </li>
           </ul>
@@ -57,9 +58,9 @@
             <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><a
-                  href="/Hustree/sar"
-                  >匈牙利輕騎兵</a
+                <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
+                  to="/Hustree/sar"
+                  >匈牙利輕騎兵</nuxt-link
                 >
               </li>
             </ul>
@@ -70,35 +71,41 @@
                   class="gg"
                   src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""
-                /><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
+                /><nuxt-link to="/Elite_units/Eagle_Warrior"
+                  >精銳鷹勇士</nuxt-link
+                >
               </li>
               <li>
-                <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" /><a
-                  href="/units/Light_Cavalry"
-                  >輕騎兵</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/LightCavalryIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                  href="/units/Eagle_Scout"
-                  >鷹斥侯</a
-                >→
-                <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" /><a
-                  href="/units/Eagle_Warrior"
-                  >鷹勇士</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/EagleScoutIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                <img
+                  class="gg"
+                  src="~assets/EagleWarriorIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" /><a
-                  href="/units/Scout_Cavalry"
-                  >斥侯騎兵</a
-                >
+                <img
+                  class="gg"
+                  src="~assets/ScoutCavalryIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Scout_Cavalry">斥侯騎兵</nuxt-link>
               </li>
             </ul>
           </div>

@@ -12,15 +12,17 @@
         <div class="n1">
           <p>
             <strong>塔克修士</strong
-            >是一名可在《世紀帝國II：帝王世紀》的地圖編輯器中使用的<a
-              href="/units/hero"
-              >英雄</a
-            >。他的原型是 <a href="/Britions.php">英國</a>民間故事中<a
-              href="/units/hero/Robin_Hood"
-              >羅賓漢</a
-            >的一名夥伴，遊戲內他以<a href="/units/Monk">僧侶</a
+            >是一名可在《世紀帝國II：帝王世紀》的地圖編輯器中使用的<nuxt-link
+              to="/units/hero"
+              >英雄</nuxt-link
+            >。他的原型是
+            <nuxt-link to="/Britions.php">英國</nuxt-link>民間故事中<nuxt-link
+              to="/units/hero/Robin_Hood"
+              >羅賓漢</nuxt-link
+            >的一名夥伴，遊戲內他以<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >英雄的樣貌登場，無法被招降並會自動回血。如果他拿起了
-            <a href="/Relic">遺跡</a>，會因遊戲錯誤導致他變回一般的僧侶。
+            <nuxt-link to="/Relic">遺跡</nuxt-link
+            >，會因遊戲錯誤導致他變回一般的僧侶。
           </p>
           <p>
             和其他僧侶單位一樣，塔克修士會受到所有影響僧侶的升級及加成影響。
@@ -31,7 +33,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">塔克修士</a></div>
+              <div class="unititle"><nuxt-link to="#">塔克修士</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -46,7 +48,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><a href="/units/Monk">僧侶</a></td>
+            <td class="unit4"><nuxt-link to="/units/Monk">僧侶</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">出場</td>

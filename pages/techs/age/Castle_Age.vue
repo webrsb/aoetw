@@ -11,13 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            城堡時代是遊戲內第三個時代，來到城堡時代後，能夠生產強大的<a
-              href="/units/Siege_Weapons"
-              >攻城武器</a
-            >、<a href="/units/Monk">僧侶</a>、
-            <a href="/units/Unique_Unit">特殊單位</a>與建造<a
-              href="/building/Castle"
-              >城堡</a
+            城堡時代是遊戲內第三個時代，來到城堡時代後，能夠生產強大的<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、
+            <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >與建造<nuxt-link to="/building/Castle">城堡</nuxt-link
             >，更強大的軍事兵種的搭配，劇烈的戰鬥將不可避免，而各文明不同的特性也將發揮出來，展現自己獨特的打法與策略。
           </p>
           <p>
@@ -35,10 +34,8 @@
                 src="~assets/Monasteryicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Monastery">修道院</a>:生產<a
-                href="/units/Monk"
-                >僧侶</a
-              >
+              /><nuxt-link to="/building/Monastery">修道院</nuxt-link
+              >:生產<nuxt-link to="/units/Monk">僧侶</nuxt-link>
             </li>
             <li>
               <img
@@ -46,7 +43,8 @@
                 src="~assets/Universityicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/University">學院</a>：研究更強大的科技
+              /><nuxt-link to="/building/University">學院</nuxt-link
+              >：研究更強大的科技
             </li>
             <li>
               <img
@@ -54,10 +52,8 @@
                 src="~assets/Towncentericon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Town_Center">城鎮中心</a>：生產更多的<a
-                href="/units/Villager"
-                >村民</a
-              >
+              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >：生產更多的<nuxt-link to="/units/Villager">村民</nuxt-link>
             </li>
           </ul>
           <strong>軍事建築</strong>
@@ -68,9 +64,9 @@
                 src="~assets/Castleicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Castle">城堡</a>:強大的防禦建築與生產<a
-                href="/units/Unique_Unit"
-                >特殊兵種</a
+              /><nuxt-link to="/building/Castle">城堡</nuxt-link
+              >:強大的防禦建築與生產<nuxt-link to="/units/Unique_Unit"
+                >特殊兵種</nuxt-link
               >
             </li>
             <li>
@@ -79,7 +75,8 @@
                 src="~assets/Siegeworkshopicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Siege_Workshop">攻城武器製造所</a
+              /><nuxt-link to="/building/Siege_Workshop"
+                >攻城武器製造所</nuxt-link
               >：生產攻城武器
             </li>
           </ul>
@@ -91,7 +88,8 @@
                 src="~assets/Watchtowericon.png"
                 width="22"
                 alt=""
-              /><a href="/units/Watch_Tower">防禦箭塔</a>:防禦敵人的塔
+              /><nuxt-link to="/units/Watch_Tower">防禦箭塔</nuxt-link
+              >:防禦敵人的塔
             </li>
             <li>
               <img
@@ -99,18 +97,24 @@
                 src="~assets/Stonewallicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Fortified_Wall">垛牆</a>：更厚實的城牆
+              /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link
+              >：更厚實的城牆
             </li>
             <li>
-              <img class="gg" src="~assets/Dockicon.png" width="22" alt="" /><a
-                href="/building/Harbor"
-                >巨港</a
-              >：更強大可攻擊的港口（限<a href="/civs/Malay">馬來</a>）
+              <img
+                class="gg"
+                src="~assets/Dockicon.png"
+                width="22"
+                alt=""
+              /><nuxt-link to="/building/Harbor">巨港</nuxt-link
+              >：更強大可攻擊的港口（限<nuxt-link to="/civs/Malay"
+                >馬來</nuxt-link
+              >）
             </li>
             <h4>
-              1.<a href="/building/Harbor">巨港</a
-              >也是軍事和民生建築，需先研發<a href="/techs/Thalassocracy"
-                >海上霸主</a
+              1.<nuxt-link to="/building/Harbor">巨港</nuxt-link
+              >也是軍事和民生建築，需先研發<nuxt-link to="/techs/Thalassocracy"
+                >海上霸主</nuxt-link
               >。
             </h4>
           </ul>
@@ -118,12 +122,17 @@
         <h3>可生產單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <strong><a href="/building/Monastery">修道院</a></strong>
+          <strong
+            ><nuxt-link to="/building/Monastery">修道院</nuxt-link></strong
+          >
           <ul>
             <li>
-              <img class="gg" src="~assets/MonkIcon.jpg" width="22" alt="" /><a
-                href="/units/Monk"
-                >僧侶</a
+              <img
+                class="gg"
+                src="~assets/MonkIcon.jpg"
+                width="22"
+                alt=""
+              /><nuxt-link to="/units/Monk">僧侶</nuxt-link
               >：用於治療部隊，招降敵人與收集遺跡。
             </li>
             <li>
@@ -132,12 +141,13 @@
                 src="~assets/MissionaryIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Missionary">傳教士</a
-              >：用於治療部隊，招降敵人。(<a href="/civs/Spanish">西班牙</a
+              /><nuxt-link to="/units/Missionary">傳教士</nuxt-link
+              >：用於治療部隊，招降敵人。(<nuxt-link to="/civs/Spanish"
+                >西班牙</nuxt-link
               >限定）
             </li>
           </ul>
-          <strong><a href="/building/Barracks">軍營</a></strong>
+          <strong><nuxt-link to="/building/Barracks">軍營</nuxt-link></strong>
           <ul>
             <li>
               <img
@@ -145,7 +155,7 @@
                 src="~assets/LongswordsManIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Long_Swordsman">長劍兵</a>：劍兵。
+              /><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>：劍兵。
             </li>
             <li>
               <img
@@ -153,7 +163,8 @@
                 src="~assets/PikemanIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Pikeman">重裝長槍兵</a>：反騎兵單位。
+              /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >：反騎兵單位。
             </li>
             <li>
               <img
@@ -161,11 +172,13 @@
                 src="~assets/EagleWarriorIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Eagle_Warrior">鷹勇士</a
+              /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >：偵查部隊，對弓箭手、僧侶特別厲害。
             </li>
           </ul>
-          <strong><a href="/building/Archery_Range">射箭場</a></strong>
+          <strong
+            ><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link></strong
+          >
           <ul>
             <li>
               <img
@@ -173,7 +186,8 @@
                 src="~assets/CrossbowmanIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Crossbowman">弩兵</a>：遠距離部隊。
+              /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+              >：遠距離部隊。
             </li>
             <li>
               <img
@@ -181,7 +195,8 @@
                 src="~assets/EliteSkirmisherIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Elite_Skirmisher">戰矛兵</a>：反弓箭手。
+              /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >：反弓箭手。
             </li>
             <li>
               <img
@@ -189,7 +204,7 @@
                 src="~assets/CavalryArcherIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/Cavalry_units/Archer">馬弓騎兵</a
+              /><nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
               >：移動迅速的遠距離單位。
             </li>
             <li>
@@ -198,10 +213,8 @@
                 src="~assets/Slinger_Icon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Slinger">投石手</a>：反步兵單位（<a
-                href="/civs/Incas"
-                >印加</a
-              >限定）
+              /><nuxt-link to="/units/Slinger">投石手</nuxt-link
+              >：反步兵單位（<nuxt-link to="/civs/Incas">印加</nuxt-link>限定）
             </li>
             <li>
               <img
@@ -209,19 +222,20 @@
                 src="~assets/GenitourIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Genitour">標槍騎兵</a>：反弓箭手。（<a
-                href="/civs/Berbers"
-                >柏柏</a
+              /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >：反弓箭手。（<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >和同盟限定）
             </li>
           </ul>
-          <strong><a href="/building/Stable">馬廄</a></strong>
+          <strong><nuxt-link to="/building/Stable">馬廄</nuxt-link></strong>
           <ul>
             <li>
-              <img class="gg" src="~assets/CamelIcon.jpg" width="22" alt="" /><a
-                href="/units/Camel"
-                >駱駝騎兵</a
-              >：反騎兵單位。
+              <img
+                class="gg"
+                src="~assets/CamelIcon.jpg"
+                width="22"
+                alt=""
+              /><nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>：反騎兵單位。
             </li>
             <li>
               <img
@@ -229,7 +243,7 @@
                 src="~assets/KnightIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Knight">騎士</a>：重騎兵單位。
+              /><nuxt-link to="/units/Knight">騎士</nuxt-link>：重騎兵單位。
             </li>
             <li>
               <img
@@ -237,7 +251,8 @@
                 src="~assets/LightCavalryIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Light_Cavalry">輕騎兵</a>：快速的偵查單位。
+              /><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >：快速的偵查單位。
             </li>
             <li>
               <img
@@ -245,10 +260,11 @@
                 src="~assets/Battleelephanticon.png"
                 width="22"
                 alt=""
-              /><a href="/units/Battle_Elephant">矛象伕</a>：重騎兵單位。
+              /><nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              >：重騎兵單位。
             </li>
           </ul>
-          <strong><a href="/building/Castle">城堡</a></strong>
+          <strong><nuxt-link to="/building/Castle">城堡</nuxt-link></strong>
           <ul>
             <li>
               <img
@@ -256,7 +272,7 @@
                 src="~assets/Elite-unique-research.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Unique_Unit">特殊單位</a
+              /><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
               >：每個文明都有一種特殊單位
             </li>
             <li>
@@ -265,10 +281,15 @@
                 src="~assets/PetardIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Petard">爆炸桶</a>：自殺性的攻城單位。
+              /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >：自殺性的攻城單位。
             </li>
           </ul>
-          <strong><a href="/building/Siege_Workshop">攻城武器製造所</a></strong>
+          <strong
+            ><nuxt-link to="/building/Siege_Workshop"
+              >攻城武器製造所</nuxt-link
+            ></strong
+          >
           <ul>
             <li>
               <img
@@ -276,7 +297,7 @@
                 src="~assets/BatteringRamIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Battering_Ram">輕型衝重車</a
+              /><nuxt-link to="/units/Battering_Ram">輕型衝重車</nuxt-link
               >：對建築物有強大的殺傷力。
             </li>
             <li>
@@ -285,7 +306,7 @@
                 src="~assets/MangonelIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Mangonel">輕型投石車</a
+              /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
               >：可有效打擊對方遠程部隊。
             </li>
             <li>
@@ -294,7 +315,8 @@
                 src="~assets/ScorpionIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Scorpion">弩砲</a>：可大規模擊殺步兵。
+              /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link
+              >：可大規模擊殺步兵。
             </li>
             <li>
               <img
@@ -302,15 +324,19 @@
                 src="~assets/Siegetowericon.png"
                 width="22"
                 alt=""
-              /><a href="/units/Siege_Tower">攻城塔</a>：可以送步兵越過城牆。
+              /><nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
+              >：可以送步兵越過城牆。
             </li>
           </ul>
-          <strong><a href="/building/Dock">碼頭</a></strong>
+          <strong><nuxt-link to="/building/Dock">碼頭</nuxt-link></strong>
           <ul>
             <li>
-              <img class="gg" src="~assets/WarGalley.jpg" width="22" alt="" /><a
-                href="/War_units/Galley"
-                >弩砲戰船</a
+              <img
+                class="gg"
+                src="~assets/WarGalley.jpg"
+                width="22"
+                alt=""
+              /><nuxt-link to="/War_units/Galley">弩砲戰船</nuxt-link
               >：普通遠程戰船。
             </li>
             <li>
@@ -319,7 +345,8 @@
                 src="~assets/FireShipIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Fire_Ship">火戰船</a>：反戰船單位。
+              /><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+              >：反戰船單位。
             </li>
             <li>
               <img
@@ -327,7 +354,7 @@
                 src="~assets/DemoShipIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Demolition_Ship">神風船</a
+              /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
               >：反火戰船的自殺單位。
             </li>
             <li>
@@ -336,9 +363,8 @@
                 src="~assets/LongboatIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Longboat">維京大戰船</a>：可發射多發箭矢。(<a
-                href="/civs/Vikings"
-                >維京</a
+              /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
+              >：可發射多發箭矢。(<nuxt-link to="/civs/Vikings">維京</nuxt-link
               >限定）
             </li>
             <li>
@@ -347,9 +373,9 @@
                 src="~assets/TurtleShipIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Turtle_Ship">龜甲船</a>：發射大砲的重甲船。（<a
-                href="/civs/Koreans"
-                >韓國</a
+              /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
+              >：發射大砲的重甲船。（<nuxt-link to="/civs/Koreans"
+                >韓國</nuxt-link
               >限定）
             </li>
             <li>
@@ -358,16 +384,20 @@
                 src="~assets/CaravelIcon2.jpg"
                 width="22"
                 alt=""
-              /><a href="/units/Caravel">卡拉維爾戰船</a>：可貫穿敵人。（<a
-                href="/civs/Portuguese"
-                >葡萄牙</a
+              /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link
+              >：可貫穿敵人。（<nuxt-link to="/civs/Portuguese"
+                >葡萄牙</nuxt-link
               >限定）
             </li>
           </ul>
           <h3>可研發科技</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <strong><a href="/building/Town_Center">城鎮中心</a></strong>
+            <strong
+              ><nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              ></strong
+            >
             <ul>
               <li>
                 <img
@@ -375,7 +405,8 @@
                   src="~assets/Townpatrol.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Town_Patrol">城鎮巡邏</a>：增加建築視野。
+                /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
+                >：增加建築視野。
               </li>
               <li>
                 <img
@@ -383,12 +414,13 @@
                   src="~assets/Handcart.jpg"
                   width="22"
                   alt=""
-                /><a href="/Hand_Cart.php">手推車</a>：<a href="/units/Villager"
-                  >村民</a
+                /><nuxt-link to="/Hand_Cart.php">手推車</nuxt-link>：<nuxt-link
+                  to="/units/Villager"
+                  >村民</nuxt-link
                 >更有效率。
               </li>
             </ul>
-            <strong><a href="/building/Mill">磨坊</a></strong>
+            <strong><nuxt-link to="/building/Mill">磨坊</nuxt-link></strong>
             <ul>
               <li>
                 <img
@@ -396,20 +428,29 @@
                   src="~assets/Heavyplow.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Heavy_Plow">重犁</a
+                /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link
                 >：農夫攜帶量增加，農田更多產量。
               </li>
             </ul>
-            <strong><a href="/building/Lumber_Camp">伐木場</a></strong>
+            <strong
+              ><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link></strong
+            >
             <ul>
               <li>
-                <img class="gg" src="~assets/BowSaw.png" width="22" alt="" /><a
-                  href="/techs/Bow_Saw"
-                  >弓鋸</a
+                <img
+                  class="gg"
+                  src="~assets/BowSaw.png"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link
                 >：更有效率的伐木。
               </li>
             </ul>
-            <strong><a href="/building/Mining_Camp">採礦營地</a></strong>
+            <strong
+              ><nuxt-link to="/building/Mining_Camp"
+                >採礦營地</nuxt-link
+              ></strong
+            >
             <ul>
               <li>
                 <img
@@ -417,7 +458,7 @@
                   src="~assets/Goldshaftmining.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Gold_Shaft_Mining">礦井採金</a
+                /><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link
                 >：更有效率的採金。
               </li>
               <li>
@@ -426,16 +467,19 @@
                   src="~assets/Stone_Shaft_Mining.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Stone_Shaft_Mining">礦井採石</a
+                /><nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link
                 >：更有效率的採石。
               </li>
             </ul>
-            <strong><a href="/building/Market">市集</a></strong>
+            <strong><nuxt-link to="/building/Market">市集</nuxt-link></strong>
             <ul>
               <li>
-                <img class="gg" src="~assets/Banking.jpg" width="22" alt="" /><a
-                  href="/techs/Banking"
-                  >銀行制度</a
+                <img
+                  class="gg"
+                  src="~assets/Banking.jpg"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/techs/Banking">銀行制度</nuxt-link
                 >：進貢不用手續費。
               </li>
               <li>
@@ -444,10 +488,11 @@
                   src="~assets/CaravanII.png"
                   width="22"
                   alt=""
-                /><a href="/techs/Caravan">大商隊</a>：更快的貿易速度。
+                /><nuxt-link to="/techs/Caravan">大商隊</nuxt-link
+                >：更快的貿易速度。
               </li>
             </ul>
-            <strong><a href="/building/Dock">碼頭</a></strong>
+            <strong><nuxt-link to="/building/Dock">碼頭</nuxt-link></strong>
             <ul>
               <li>
                 <img
@@ -455,7 +500,8 @@
                   src="~assets/Gillnetsicon.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Gillnets">流刺網</a>：提高漁船的捕魚效率。
+                /><nuxt-link to="/techs/Gillnets">流刺網</nuxt-link
+                >：提高漁船的捕魚效率。
               </li>
               <li>
                 <img
@@ -463,16 +509,21 @@
                   src="~assets/Careening.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Careening">傾側維修術</a
+                /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
                 >:增加船隻的護甲和運輸船的運載量。
               </li>
             </ul>
-            <strong><a href="/building/University">學院</a></strong>
+            <strong
+              ><nuxt-link to="/building/University">學院</nuxt-link></strong
+            >
             <ul>
               <li>
-                <img class="gg" src="~assets/Masonry.jpg" width="22" alt="" /><a
-                  href="/techs/Masonry"
-                  >磚瓦技術</a
+                <img
+                  class="gg"
+                  src="~assets/Masonry.jpg"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
                 >：提高建築物防禦與生命值。
               </li>
               <li>
@@ -481,7 +532,8 @@
                   src="~assets/Ballistics.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Ballistics">彈道學</a>：提高弓箭手的準確度。
+                /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
+                >：提高弓箭手的準確度。
               </li>
               <li>
                 <img
@@ -489,7 +541,7 @@
                   src="~assets/Heatedshot.png"
                   width="22"
                   alt=""
-                /><a href="/techs/Heated_Shot">預熱射擊</a
+                /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
                 >：增加城堡和箭塔對船隻的攻擊。
               </li>
               <li>
@@ -498,7 +550,7 @@
                   src="~assets/Murderholes.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Murder_Holes">垛孔</a
+                /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
                 >：移除城堡和箭塔的最小射程限制。
               </li>
               <li>
@@ -507,26 +559,36 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Treadmill_Crane">踏輪起重機</a
+                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
                 >：村民建築速度加快。
               </li>
             </ul>
-            <strong><a href="/building/Barracks">軍營</a></strong>
+            <strong><nuxt-link to="/building/Barracks">軍營</nuxt-link></strong>
             <ul>
               <li>
-                <img class="gg" src="~assets/Squires.jpg" width="22" alt="" /><a
-                  href="/techs/Squires"
-                  >護衛技術</a
+                <img
+                  class="gg"
+                  src="~assets/Squires.jpg"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/techs/Squires">護衛技術</nuxt-link
                 >：步兵擁有更快的移動速度。
               </li>
               <li>
-                <img class="gg" src="~assets/Arson.jpg" width="22" alt="" /><a
-                  href="/techs/Arson"
-                  >縱火</a
+                <img
+                  class="gg"
+                  src="~assets/Arson.jpg"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/techs/Arson">縱火</nuxt-link
                 >：步兵對建築攻擊增加。
               </li>
             </ul>
-            <strong><a href="/building/Archery_Range">射箭場</a></strong>
+            <strong
+              ><nuxt-link to="/building/Archery_Range"
+                >射箭場</nuxt-link
+              ></strong
+            >
             <ul>
               <li>
                 <img
@@ -534,11 +596,11 @@
                   src="~assets/Thumb_Ring.png"
                   width="22"
                   alt=""
-                /><a href="/techs/Thumb_Ring">拇指環</a
+                /><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
                 >：弓箭手有更快的射擊速度和命中率。
               </li>
             </ul>
-            <strong><a href="/building/Stable">馬廄</a></strong>
+            <strong><nuxt-link to="/building/Stable">馬廄</nuxt-link></strong>
             <ul>
               <li>
                 <img
@@ -546,10 +608,13 @@
                   src="~assets/Husbandry.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Husbandry"></a>畜牧培育：增加騎兵移動速度。
+                /><nuxt-link to="/techs/Husbandry"></nuxt-link
+                >畜牧培育：增加騎兵移動速度。
               </li>
             </ul>
-            <strong><a href="/building/Blacksmith">兵工廠</a></strong>
+            <strong
+              ><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link></strong
+            >
             <ul>
               <li>
                 <img
@@ -557,7 +622,7 @@
                   src="~assets/Ironcasting.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Iron_Casting">鑄造</a
+                /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link
                 >：增加步兵和騎兵的近戰攻擊。
               </li>
               <li>
@@ -566,7 +631,8 @@
                   src="~assets/Chainmailarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Chain_Mail_Armor">步兵鎖甲</a>：增加步兵防禦。
+                /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
+                >：增加步兵防禦。
               </li>
               <li>
                 <img
@@ -574,7 +640,7 @@
                   src="~assets/Bodkinarrow.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a
+                /><nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link
                 >：弓箭手增加攻擊與射程。
               </li>
               <li>
@@ -583,7 +649,8 @@
                   src="~assets/Leatherarcherarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Leather_Archer_Armor">弓兵皮甲</a
+                /><nuxt-link to="/techs/Leather_Archer_Armor"
+                  >弓兵皮甲</nuxt-link
                 >：增加弓箭手防禦。
               </li>
               <li>
@@ -592,11 +659,11 @@
                   src="~assets/Chainbardingarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Chain_Barding_Armor">騎兵鎖甲</a
+                /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
                 >：增加騎兵防禦。
               </li>
             </ul>
-            <strong><a href="/building/Castle">城堡</a></strong>
+            <strong><nuxt-link to="/building/Castle">城堡</nuxt-link></strong>
             <ul>
               <li>
                 <img
@@ -604,11 +671,13 @@
                   src="~assets/CastleAgeUnique.png"
                   width="22"
                   alt=""
-                /><a href="/techs/untech">特殊科技</a
+                /><nuxt-link to="/techs/untech">特殊科技</nuxt-link
                 >：各文明城堡時代獨特的科技。
               </li>
             </ul>
-            <strong><a href="/building/Monastery">修道院</a></strong>
+            <strong
+              ><nuxt-link to="/building/Monastery">修道院</nuxt-link></strong
+            >
             <ul>
               <li>
                 <img
@@ -616,13 +685,16 @@
                   src="~assets/Redemption.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Redemption">信仰救贖</a
+                /><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link
                 >：可以招降建築與攻城器。
               </li>
               <li>
-                <img class="gg" src="~assets/Fervor.jpg" width="22" alt="" /><a
-                  href="/techs/Fervor"
-                  >宗教狂熱</a
+                <img
+                  class="gg"
+                  src="~assets/Fervor.jpg"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link
                 >：僧侶移動變快。
               </li>
               <li>
@@ -631,7 +703,8 @@
                   src="~assets/Sanctity.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Sanctity">聖潔虔誠</a>：增加僧侶生命值。
+                /><nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link
+                >：增加僧侶生命值。
               </li>
               <li>
                 <img
@@ -639,12 +712,16 @@
                   src="~assets/Atonement.jpg"
                   width="22"
                   alt=""
-                /><a href="/techs/Atonement">贖罪</a>：可以招降對方僧侶。
+                /><nuxt-link to="/techs/Atonement">贖罪</nuxt-link
+                >：可以招降對方僧侶。
               </li>
               <li>
-                <img class="gg" src="~assets/Heresy.png" width="22" alt="" /><a
-                  href="/techs/Heresy"
-                  >異端邪說</a
+                <img
+                  class="gg"
+                  src="~assets/Heresy.png"
+                  width="22"
+                  alt=""
+                /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
                 >：被招降的單位立即死亡。
               </li>
               <li>
@@ -653,7 +730,7 @@
                   src="~assets/Herbalmedicine.png"
                   width="22"
                   alt=""
-                /><a href="/techs/Herbal_Medicine">草藥學</a
+                /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
                 >：駐紮的軍隊回復加快。
               </li>
             </ul>
@@ -662,19 +739,24 @@
             <div class="n1">
               <ul>
                 <li>
-                  <a href="/civs/Ethiopians">衣索比亞</a
+                  <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
                   >：到城堡時代可獲得100金、100肉。
                 </li>
                 <li>
-                  <a href="/civs/Italians">義大利</a
+                  <nuxt-link to="/civs/Italians">義大利</nuxt-link
                   >：研發城堡時代成本減少15％。
                 </li>
                 <li>
-                  <a href="/civs/Khmer">高棉</a>：升級城堡時代不需要前置建築。
+                  <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+                  >：升級城堡時代不需要前置建築。
                 </li>
-                <li><a href="/civs/Malay">馬來</a>：研究城堡時代速度快80。</li>
                 <li>
-                  <a href="/civs/Persians">波斯</a>：研究城堡時代速度快10％。
+                  <nuxt-link to="/civs/Malay">馬來</nuxt-link
+                  >：研究城堡時代速度快80。
+                </li>
+                <li>
+                  <nuxt-link to="/civs/Persians">波斯</nuxt-link
+                  >：研究城堡時代速度快10％。
                 </li>
               </ul>
             </div>
@@ -723,7 +805,7 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="22"
                 alt=""
-              /><a href="/techsage/Feudal_Age">封建時代</a>
+              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -734,7 +816,7 @@
                 src="~assets/Imperial-age-research.jpg"
                 width="22"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -747,28 +829,28 @@
                 src="~assets/Acheryrangeicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Archery_Range">射箭場</a>
+              /><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
               <br />
               <img
                 class="gg"
                 src="~assets/Stableicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Stable">馬廄</a>
+              /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
               <br />
               <img
                 class="gg"
                 src="~assets/Marketicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Market">市集</a>
+              /><nuxt-link to="/building/Market">市集</nuxt-link>
               <br />
               <img
                 class="gg"
                 src="~assets/Blacksmithicon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Blacksmith">兵工廠</a>
+              /><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -779,7 +861,7 @@
                 src="~assets/Towncentericon.png"
                 width="22"
                 alt=""
-              /><a href="/building/Town_Center">城鎮中心</a>
+              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -813,9 +895,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Civcastle.png"
+              <nuxt-link to="/img/Civcastle.png"
                 ><img class="imgn hg" src="~assets/Civcastle.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>文明在城堡時代的樣子。</em></p>
             </div>
           </div>

@@ -42,19 +42,24 @@
             <div class="col-md-6">
               <ol>
                 <li>
-                  <a href="/batt/The_Boiling_Lake">火龍展翅</a> &nbsp;&nbsp;
+                  <nuxt-link to="/batt/The_Boiling_Lake">火龍展翅</nuxt-link>
+                  &nbsp;&nbsp;
                 </li>
                 <li>
-                  <a href="/batt/The_Boiling_Lake">龍之歸來</a>&nbsp;&nbsp;
+                  <nuxt-link to="/batt/The_Boiling_Lake">龍之歸來</nuxt-link
+                  >&nbsp;&nbsp;
                 </li>
                 <li>
-                  <a href="/batt/The_Boiling_Lake">龍之喘息</a>&nbsp;&nbsp;
+                  <nuxt-link to="/batt/The_Boiling_Lake">龍之喘息</nuxt-link
+                  >&nbsp;&nbsp;
                 </li>
                 <li>
-                  <a href="/batt/The_Boiling_Lake">撥雲見月</a> &nbsp;&nbsp;
+                  <nuxt-link to="/batt/The_Boiling_Lake">撥雲見月</nuxt-link>
+                  &nbsp;&nbsp;
                 </li>
                 <li>
-                  <a href="/batt/The_Boiling_Lake">暗夜降臨</a>&nbsp;&nbsp;
+                  <nuxt-link to="/batt/The_Boiling_Lake">暗夜降臨</nuxt-link
+                  >&nbsp;&nbsp;
                 </li>
               </ol>
             </div>
@@ -110,7 +115,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96"
+                    href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96"
                     >弗拉德三世</a
                   ></b
                 ></i

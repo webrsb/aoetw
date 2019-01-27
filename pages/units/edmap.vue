@@ -8,81 +8,85 @@
         <h1>地圖編輯器的單位</h1>
         <div class="hrn1"></div>
         <p>
-          許多單位只有出現在<a href="/batt/">戰役</a
+          許多單位只有出現在<nuxt-link to="/batt/">戰役</nuxt-link
           >或是地圖編輯器中，以下將列出地圖編輯器的單位。
         </p>
-        <p>當然這裡不會列出英雄，英雄請到<a href="/units/hero">英雄列表</a></p>
+        <p>
+          當然這裡不會列出英雄，英雄請到<nuxt-link to="/units/hero"
+            >英雄列表</nuxt-link
+          >
+        </p>
       </div>
     </div>
     <h3>列表</h3>
     <div class="hrn1"></div>
     <ul>
       <li>
-        <a href="/units/hero/Genitourcheap">馬勇士</a>
+        <nuxt-link to="/units/hero/Genitourcheap">馬勇士</nuxt-link>
       </li>
       <li>
-        <a href="/Royal_units/Janissary">皇家衛兵</a>
+        <nuxt-link to="/Royal_units/Janissary">皇家衛兵</nuxt-link>
       </li>
       <li>
-        <a href="/units/King">國王</a>
+        <nuxt-link to="/units/King">國王</nuxt-link>
       </li>
       <li>
-        <a href="/units/Cobra_Car">眼鏡蛇車</a>
+        <nuxt-link to="/units/Cobra_Car">眼鏡蛇車</nuxt-link>
       </li>
       <li>
-        <a href="/units/Furious_the_Monkey_Boy">狂猴</a>
+        <nuxt-link to="/units/Furious_the_Monkey_Boy">狂猴</nuxt-link>
       </li>
       <li>
-        <a href="/units/hero/Penguin">企鵝</a>
+        <nuxt-link to="/units/hero/Penguin">企鵝</nuxt-link>
       </li>
-      <li><a href="/units/hero/VMDL">VMD</a>L</li>
+      <li><nuxt-link to="/units/hero/VMDL">VMD</nuxt-link>L</li>
       <li>
-        <a href="/units/hero/Heavy_Swordsman">重劍兵</a>
-      </li>
-      <li>
-        <a href="/units/hero/junk">運金船</a>
+        <nuxt-link to="/units/hero/Heavy_Swordsman">重劍兵</nuxt-link>
       </li>
       <li>
-        <a href="/Domesticated_Horse.php">馬(已馴化)</a>
+        <nuxt-link to="/units/hero/junk">運金船</nuxt-link>
       </li>
       <li>
-        <a href="/Amazon_units/Archer">亞馬遜弓箭手</a>
+        <nuxt-link to="/Domesticated_Horse.php">馬(已馴化)</nuxt-link>
       </li>
       <li>
-        <a href="/Amazon_Warrior.php">亞馬遜戰士</a>
+        <nuxt-link to="/Amazon_units/Archer">亞馬遜弓箭手</nuxt-link>
       </li>
       <li>
-        <a href="/Canoe.php">獨木舟</a>
+        <nuxt-link to="/Amazon_Warrior.php">亞馬遜戰士</nuxt-link>
       </li>
       <li>
-        <a href="/Centurion.php">百夫長</a>
+        <nuxt-link to="/Canoe.php">獨木舟</nuxt-link>
       </li>
       <li>
-        <a href="/units/hero/Dragon_Ship">龍船</a>
+        <nuxt-link to="/Centurion.php">百夫長</nuxt-link>
       </li>
       <li>
-        <a href="/units/hero/Eastern_Swordsman">東方劍士</a>
+        <nuxt-link to="/units/hero/Dragon_Ship">龍船</nuxt-link>
       </li>
       <li>
-        <a href="/Flamethrower.php">投火車</a>
+        <nuxt-link to="/units/hero/Eastern_Swordsman">東方劍士</nuxt-link>
       </li>
       <li>
-        <a href="/units/hero/Heavy_Pikeman">強力重裝長槍兵</a>
+        <nuxt-link to="/Flamethrower.php">投火車</nuxt-link>
       </li>
       <li>
-        <a href="/Legionary.php">羅馬士兵</a>
+        <nuxt-link to="/units/hero/Heavy_Pikeman">強力重裝長槍兵</nuxt-link>
       </li>
       <li>
-        <a href="/units/hero/Nordic_Swordsman">北歐劍士</a>
+        <nuxt-link to="/Legionary.php">羅馬士兵</nuxt-link>
       </li>
       <li>
-        <a href="/units/hero/Relic_Cart">自走遺跡</a>
+        <nuxt-link to="/units/hero/Nordic_Swordsman">北歐劍士</nuxt-link>
       </li>
       <li>
-        <a href="/Priest.php">神父</a>
+        <nuxt-link to="/units/hero/Relic_Cart">自走遺跡</nuxt-link>
       </li>
       <li>
-        <a href="/Alfred_the_Alpaca.php">武裝羊駝</a>
+        <nuxt-link to="/Priest.php">神父</nuxt-link>
+      </li>
+      <li>
+        <nuxt-link to="/Alfred_the_Alpaca.php">武裝羊駝</nuxt-link>
       </li>
     </ul>
   </div>

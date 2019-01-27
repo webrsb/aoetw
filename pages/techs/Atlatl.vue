@@ -11,11 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            擲矛器是阿茲特克的特殊科技，可於<a href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在<a href="/building/Castle">城堡</a>研發。研發後
-            <a href="/units/Skirmisher">矛兵系列</a>和<a href="/units/Genitour"
-              >標槍騎兵</a
+            擲矛器是阿茲特克的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
+            <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>和<nuxt-link
+              to="/units/Genitour"
+              >標槍騎兵</nuxt-link
             >的攻擊和攻擊範圍+1。
           </p>
         </div>
@@ -24,14 +25,15 @@
         <div class="n1">
           <ul>
             <li>
-              擲矛器對阿茲來說十分有用，因為用<a href="/units/Eagle_Warrior"
-                >鷹勇士</a
+              擲矛器對阿茲來說十分有用，因為用<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
               >對抗弓兵需要花費大量黃金。矛兵不需要黃金，而且擲矛器研發後阿茲矛兵的射程範圍可以超越弓兵的射程範圍。擲矛器可以有效地填補阿茲仍缺乏
-              <a href="/techs/Thumb_Ring">拇指環</a>和<a
-                href="/techs/Ring_Archer_Armor"
-                >弓兵環甲</a
+              <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>和<nuxt-link
+                to="/techs/Ring_Archer_Armor"
+                >弓兵環甲</nuxt-link
               >的缺陷。且身為南美國家相當害怕火槍兵，有了強大的矛兵將有效阻止
-              <a href="/units/Hand_Cannoneer">火槍兵</a>的威脅。
+              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>的威脅。
             </li>
           </ul>
         </div>
@@ -40,8 +42,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速擲矛器的研究時間(快25%)。
             </li>
           </ul>
@@ -58,7 +61,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">擲矛器</a></div>
+              <div class="unititle"><nuxt-link to="#">擲矛器</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -70,28 +73,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Aztecs">阿茲特克</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -101,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -114,7 +122,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

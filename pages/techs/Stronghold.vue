@@ -11,11 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            堡壘是<a href="/civs/Celts">賽爾特</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
+            堡壘是<nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
             >在
-            <a href="/building/Castle">城堡</a>發。研發後城堡和箭塔射速+25%。
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >發。研發後城堡和箭塔射速+25%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,9 +25,8 @@
           <ul>
             <li>
               堡壘雖然可讓賽爾特人的防守能力增強。不幸的是，大部分敢於圍攻城堡的部隊已經不怕城堡傷害，或者是能從遠距離摧毀城堡。儘管如此，堡壘仍然是一項有價值的技術。
-              搭配<a href="/techs/Heated_Shot">預熱射擊</a>能對<a
-                href="/units/Naval_Vessels"
-                >船隻</a
+              搭配<nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
+              >能對<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
               >造成更多傷害。
             </li>
           </ul>
@@ -36,8 +36,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速堡壘的研究時間(快25%)。
             </li>
           </ul>
@@ -47,7 +48,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">堡壘</a></div>
+              <div class="unititle"><nuxt-link to="#">堡壘</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -59,28 +60,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Celts">賽爾特</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -90,7 +96,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -103,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

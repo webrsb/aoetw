@@ -20,21 +20,24 @@
             >可生產文明：</strong
           >
           <p>
-            <a href="/civs/Aztecs">阿茲特克</a>、
-            <a href="/civs/Byzantines">拜占庭</a>、
-            <a href="/civs/Chinese">中國</a>、
-            <a href="/civs/Ethiopians">衣索比亞</a>、
-            <a href="/civs/Incas">印加</a>、
-            <a href="/civs/Italians">義大利</a>、
-            <a href="/civs/Japanese">日本</a>、
-            <a href="/civs/Koreans">韓國</a>、
-            <a href="/civs/Magyars">馬扎爾</a>、
-            <a href="/civs/Malay">馬來</a>、 <a href="/civs/Malay">馬利</a>、
-            <a href="/civs/Mayans">馬雅</a>、 <a href="/civs/Mongols">蒙古</a>、
-            <a href="/civs/Saracens">薩拉森</a>、
-            <a href="/civs/Vietnamese">越南</a>、
-            <a href="/civs/Vikings">維京</a>。 <a href="/civs/Khmer">高棉</a>、
-            <a href="/civs/Britons">不列顛</a>、
+            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+            <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+            <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+            <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+            <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+            <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+            <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+            <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+            <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+            <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+            <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+            <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+            <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+            <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+            <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+            <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+            <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+            <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
           </p>
           <strong
             ><span
@@ -45,17 +48,19 @@
             >不可生產文明：</strong
           >
           <p>
-            <a href="/civs/Berbers">柏柏</a>、 <a href="/civs/Huns">匈奴</a>、
-            <a href="/civs/Indians">印度</a>、
-            <a href="/civs/Persians">波斯</a>、
-            <a href="/civs/Portuguese">葡萄牙</a>、
-            <a href="/civs/Spanish">西班牙</a>、
-            <a href="/civs/Turks">土耳其</a>、
-            <a href="/civs/Burmese">緬甸</a>、
-            <a href="/civs/Celts">賽爾特</a>、
-            <a href="/civs/Franks">法蘭克</a>、 <a href="/civs/Goths">哥德</a>、
-            <a href="/civs/Slavs">斯拉夫</a>、
-            <a href="/civs/Teutons">條頓</a>。
+            <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+            <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
+            <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+            <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+            <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+            <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
+            <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+            <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+            <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+            <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+            <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+            <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
           </p>
         </div>
         <h3>戰術</h3>
@@ -65,15 +70,14 @@
             強弩兵是遠程單位，所以聚集起來就可以造成大量傷害，可對步兵造成嚴重的傷害，但比較怕重騎兵的攻擊。
           </p>
           <p>
-            而<a href="/units/Halberdier">戟兵</a>可以掩護強弩兵怕<a
-              href="/units/Cavalier"
-              >騎兵</a
+            而<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+            >可以掩護強弩兵怕<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
             >這個弱點，所以兩種兵種搭配起來效果超群。
           </p>
           <p>
-            如果自己是防禦一方，強弩兵可以隔著牆射殺敵方單位，也可以免受於近戰類的攻擊，但對於<a
-              href="#"
-              >衝撞車</a
+            如果自己是防禦一方，強弩兵可以隔著牆射殺敵方單位，也可以免受於近戰類的攻擊，但對於<nuxt-link
+              to="#"
+              >衝撞車</nuxt-link
             >則是沒什麼傷害性。
           </p>
         </div>
@@ -81,32 +85,39 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Aztecs">阿茲特克</a>：弩兵快生產快15%。</li>
             <li>
-              <a href="/civs/Britons">不列顛</a
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >：弩兵快生產快15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link
               >：弩兵自城堡/帝王時代有額外+1/+2的射程。
             </li>
             <li>
-              <a href="/civs/Chinese">中國</a
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
               >：弩兵科技在城堡/帝王時代各便宜15%/20%。
             </li>
-            <li><a href="/civs/Ethiopians">衣索比亞</a>：弩兵射速快18%。</li>
             <li>
-              <a href="/civs/Mayans">馬雅</a
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >：弩兵射速快18%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
               >：弩兵在城堡/帝王時代各便宜20%/30%。
             </li>
             <li>
-              <a href="/civs/Portuguese">葡萄牙</a>：弩兵花費黃金成本少15%。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：弩兵花費黃金成本少15%。
             </li>
             <li>
-              <a href="/civs/Turks">土耳其</a>：
-              <a href="/techs/Chemistry">化學</a>免費。
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：
+              <nuxt-link to="/techs/Chemistry">化學</nuxt-link>免費。
             </li>
             <li>
-              <a href="/civs/Vietnamese">越南</a
-              >：弩兵在城堡/帝王時代的血量增加15%/20%。免費<a
-                href="/techs/Conscription"
-                >徵兵</a
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >：弩兵在城堡/帝王時代的血量增加15%/20%。免費<nuxt-link
+                to="/techs/Conscription"
+                >徵兵</nuxt-link
               >。
             </li>
           </ul>
@@ -115,62 +126,82 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="/civs/Britons">不列顛</a>：弩兵快生產快20%。</li>
             <li>
-              <a href="/civs/Magyars">馬扎爾</a>：弩兵<a href="#">視野</a>+2。
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link
+              >：弩兵快生產快20%。
             </li>
             <li>
-              <a href="/civs/Malians">馬利</a>：研究<a href="#">化學</a>和<a
-                href="#"
-                >彈道學</a
-              >快80%。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵<nuxt-link
+                to="#"
+                >視野</nuxt-link
+              >+2。
             </li>
-            <li><a href="/civs/Saracens">薩拉森</a>：弩兵對建築攻擊+1。</li>
+            <li>
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
+                to="#"
+                >化學</nuxt-link
+              >和<nuxt-link to="#">彈道學</nuxt-link>快80%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+              >：弩兵對建築攻擊+1。
+            </li>
           </ul>
         </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aok">帝王世紀</a></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>訓練時間為27秒。</li>
           </ul>
           <h3>
-            <em><a href="/games/aoc">征服者入侵</a></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>訓練增加到35秒。</li>
             <li>
-              對<a href="/armor/Armor_Class_Spearman">槍兵系</a>的攻擊+3。
+              對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵系</nuxt-link
+              >的攻擊+3。
             </li>
             <li>拇指環引進。</li>
-            <li>不列顛人引進<a href="/techs/Yeomen">義勇騎兵</a>。</li>
-          </ul>
-          <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
-          </h3>
-          <ul>
-            <li><a href="/techs/Yeomen">義勇騎兵</a>移到了城堡時代。</li>
             <li>
-              <a href="/techs/Obsidian_Arrows"></a>馬雅新增科技黑曜石之箭。
+              不列顛人引進<nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
-          </h3>
-          <ul>
-            <li>義大利人可研發<a href="/techs/Pavise">巨盾</a>。</li>
-          </ul>
-          <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <a href="/civs/Indians">印度</a>:5.5版後強弩兵從印度的科技樹移除。
+              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>移到了城堡時代。
             </li>
-            <li><a href="/news/ver5-8">5.8版</a>後高棉有了強弩兵。</li>
+            <li>
+              <nuxt-link to="/techs/Obsidian_Arrows"></nuxt-link
+              >馬雅新增科技黑曜石之箭。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              義大利人可研發<nuxt-link to="/techs/Pavise">巨盾</nuxt-link>。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Indians">印度</nuxt-link
+              >:5.5版後強弩兵從印度的科技樹移除。
+            </li>
+            <li>
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後高棉有了強弩兵。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
@@ -209,7 +240,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><a href="#">射手</a></td>
+            <td class="unit4"><nuxt-link to="#">射手</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -217,11 +248,13 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="#">帝王時代</a></td>
+            <td class="unit4"><nuxt-link to="#">帝王時代</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
-            <td class="unit4"><a href="/building/Archery_Range">射箭場</a></td>
+            <td class="unit4">
+              <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
@@ -305,10 +338,11 @@
           <tr>
             <td class="unit3">從升級</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt="" /><a
-                href="/units/Crossbowman"
-                >弩兵</a
-              >
+              <img
+                class="gg"
+                src="~assets/CrossbowmanIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>
             </td>
           </tr>
         </table>

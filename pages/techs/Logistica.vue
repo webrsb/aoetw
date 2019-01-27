@@ -11,15 +11,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            後勤學是<a href="/civs/Byzantines">拜占庭</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Cataphract"
-              >聖騎兵</a
-            >有0.5格的踐踏傷害(額外+5攻擊)，對<a
-              href="/armor/Armor_Class_Infantry"
-              >步兵</a
+            後勤學是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+            >有0.5格的踐踏傷害(額外+5攻擊)，對<nuxt-link
+              to="/armor/Armor_Class_Infantry"
+              >步兵</nuxt-link
             >攻擊+6。
           </p>
         </div>
@@ -28,16 +28,16 @@
         <div class="n1">
           <ul>
             <li>
-              有後勤學的拜占庭聖騎兵更能屠殺步兵單位，踐踏傷害則能有效對付一群步兵或是近戰單位。然而<a
-                href="/units/Halberdier"
-                >戟兵</a
+              有後勤學的拜占庭聖騎兵更能屠殺步兵單位，踐踏傷害則能有效對付一群步兵或是近戰單位。然而<nuxt-link
+                to="/units/Halberdier"
+                >戟兵</nuxt-link
               >對聖騎兵仍舊是個威脅，應盡量避免與一大群的戟兵正面交鋒。
             </li>
             <li>
-              後勤學並沒有加成在有拜占庭聖騎兵外表的英雄身上，如:<a
-                href="/units/hero/Attila_the_Hun"
-                >阿提拉</a
-              >和<a href="/units/hero/Belisarius">貝里薩留</a>。
+              後勤學並沒有加成在有拜占庭聖騎兵外表的英雄身上，如:<nuxt-link
+                to="/units/hero/Attila_the_Hun"
+                >阿提拉</nuxt-link
+              >和<nuxt-link to="/units/hero/Belisarius">貝里薩留</nuxt-link>。
             </li>
           </ul>
         </div>
@@ -46,8 +46,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速後勤學的研究時間(快25%)。
             </li>
           </ul>
@@ -64,7 +65,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">後勤學</a></div>
+              <div class="unititle"><nuxt-link to="#">後勤學</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -76,12 +77,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Byzantines">拜占庭</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -90,15 +95,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -108,7 +113,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -121,7 +126,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

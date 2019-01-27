@@ -11,13 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            東正教是<a href="/civs/Slavs">斯拉夫</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Monk"
-              >僧侶</a
-            >護甲+3/+3。
+            東正教是<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Monk">僧侶</nuxt-link>護甲+3/+3。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -25,15 +24,16 @@
         <div class="n1">
           <ul>
             <li>
-              斯拉夫人幾乎有所有的修道院技術，只缺乏<a href="/techs/Heresy"
-                >異端邪說</a
-              >和<a href="/techs/Faith">忠誠信仰</a
+              斯拉夫人幾乎有所有的修道院技術，只缺乏<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
+              >和<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
               >，僧侶水平在中等之上。隨著東正教的研發斯拉夫人在遊戲中有最好和最耐用的僧侶之一，因為有裝甲的保護，可讓僧侶支援前線和承受敵人的攻擊一小段時間。
-              這很重要，因為斯拉夫軍隊的三個核心部隊都是近戰部隊（<a
-                href="/units/Boyar"
-                >貴族鐵騎</a
-              >、<a href="/units/Champion">劍兵勇士</a>和
-              <a href="/units/Halberdier">戟兵</a
+              這很重要，因為斯拉夫軍隊的三個核心部隊都是近戰部隊（<nuxt-link
+                to="/units/Boyar"
+                >貴族鐵騎</nuxt-link
+              >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>和
+              <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >），在很多情況下需要僧侶的支持才能在戰鬥中更加持久。諷刺的是，斯拉夫軍隊對僧侶的招降抵抗能力很弱，儘管如此，有東正教加成的僧侶在進攻支持上是非常有價值的。
             </li>
           </ul>
@@ -43,8 +43,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速東正教的研究時間(快25%)。
             </li>
           </ul>
@@ -61,7 +62,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">東正教</a></div>
+              <div class="unititle"><nuxt-link to="#">東正教</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -73,28 +74,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Slavs">斯拉夫</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -104,7 +110,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -117,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

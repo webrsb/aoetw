@@ -16,7 +16,7 @@
           <ul>
             <li>
               <img src="~assets/Watchtowericon.png" alt="" />
-              <a href="/units/Watch_Tower">暸望箭塔→</a
+              <nuxt-link to="/units/Watch_Tower">暸望箭塔→</nuxt-link
               >:射程極遠，只要建起來即可封住大多的資源，駐紮村民後基本不怕任何兵種。
             </li>
           </ul>
@@ -122,7 +122,7 @@
               </li>
               <li>
                 印加:暴力塔、經濟強、村民厚、石頭省、鷹勇遠，延伸閱讀<a
-                  href="/https://www.ptt.cc/bbs/AOE/M.1541222470.A.E27.html"
+                  href="https://www.ptt.cc/bbs/AOE/M.1541222470.A.E27.html"
                   >鉛筆塔。</a
                 >
               </li>
@@ -255,7 +255,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle2"><a href="#">戰術介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">戰術介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>

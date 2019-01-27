@@ -82,14 +82,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/inc">印加科技樹</a></em>
+          <em><nuxt-link to="/tree/inc">印加科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>信使從+10%速度改成+1近戰/+2遠防。</li>
@@ -105,9 +105,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Incas_town.png"
+              <nuxt-link to="/img/Incas_town.png"
                 ><img class="imgn hg" src="~assets/Incas_town.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>官方版本的印加宣傳</em></p>
             </div>
           </div>

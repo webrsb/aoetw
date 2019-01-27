@@ -11,12 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火繩槍是<a href="/civs/Portuguese">葡萄牙</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Gunpowder_Unit"
-              >火藥單位</a
+            火繩槍是<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Gunpowder_Unit"
+              >火藥單位</nuxt-link
             >對移動目標的命中率上升。火繩槍也會增加投射物的速度(+0.2)。
           </p>
         </div>
@@ -25,12 +26,13 @@
         <div class="n1">
           <ul>
             <li>
-              火繩槍是葡萄牙玩家使用<a href="/units/Hand_Cannoneer"></a
-              >火槍兵和<a href="/units/Organ_Gun"></a
+              火繩槍是葡萄牙玩家使用<nuxt-link
+                to="/units/Hand_Cannoneer"
+              ></nuxt-link
+              >火槍兵和<nuxt-link to="/units/Organ_Gun"></nuxt-link
               >風琴炮作為部隊主力時最需要的科技。火繩槍可增加這些單位在遠程範圍的準確性，更有效的消滅來犯的近戰單位。火繩槍也可讓
-              <a href="/building/Bombard_Tower">火炮塔</a>、<a
-                href="/units/Cannon_Galleon"
-                >火炮戰船</a
+              <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link
+              >、<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
               >在防衛目標上能更有效的瞄準移動的單位。
             </li>
           </ul>
@@ -40,8 +42,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速火繩槍的研究時間(快25%)。
             </li>
           </ul>
@@ -50,31 +53,31 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/ak">非洲王朝</a></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              火繩槍給予<a href="/building/Bombard_Tower">火炮塔</a>和<a
-                href="/units/Cannon_Galleon"
-                >火炮戰船</a
+              火繩槍給予<nuxt-link to="/building/Bombard_Tower"
+                >火炮塔</nuxt-link
+              >和<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
               >的投射物速度+0.5。
             </li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>火繩槍給火藥單位的投射物速度減低到75%。</li>
             <li>
-              5.2改版後給予<a href="/building/Bombard_Tower">火炮塔</a>和<a
-                href="/units/Cannon_Galleon"
-                >火炮戰船</a
+              5.2改版後給予<nuxt-link to="/building/Bombard_Tower"
+                >火炮塔</nuxt-link
+              >和<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
               >的投射物速度被移除。
             </li>
             <li>
-              5.7改版後給予<a href="/building/Bombard_Tower">火炮塔</a>和<a
-                href="/units/Cannon_Galleon"
-                >火炮戰船</a
+              5.7改版後給予<nuxt-link to="/building/Bombard_Tower"
+                >火炮塔</nuxt-link
+              >和<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
               >的投射物速度改為+0.2。
             </li>
           </ul>
@@ -84,7 +87,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">火繩槍</a></div>
+              <div class="unititle"><nuxt-link to="#">火繩槍</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -96,12 +99,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Portuguese">葡萄牙</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -110,15 +117,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -128,7 +135,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -141,7 +148,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

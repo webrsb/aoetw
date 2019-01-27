@@ -11,16 +11,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            游牧是<a href="/civs/Mongols">蒙古</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/building/House"
-              >居住房舍</a
-            >(或是蒙古包)被摧毀後人口上限數不會下降。<a href="/building/Castle"
-              >城堡</a
+            游牧是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/building/House">居住房舍</nuxt-link
+            >(或是蒙古包)被摧毀後人口上限數不會下降。<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
             >和
-            <a href="/building/Town_Center">城鎮中心</a
+            <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >則不受影響，被摧毀後還是會減少總人口數。游牧也許是所有特殊科技中最便宜的了，只需300木材。
           </p>
         </div>
@@ -32,8 +33,9 @@
               游牧的研發通常是玩家在大部分的軍隊攻擊敵方基地而敵方部隊不預期的出現在城鎮裡面，研發後即使房屋被摧毀人口上限也不會減少，可以省下大量用來重建的木材花費。
             </li>
             <li>
-              研發游牧後也可以自行摧毀房屋來增加<a href="/units/Trade_Cart"
-                >貿易馬車</a
+              研發游牧後也可以自行摧毀房屋來增加<nuxt-link
+                to="/units/Trade_Cart"
+                >貿易馬車</nuxt-link
               >的效率，減少路程。但要注意是有沒有敵軍在房屋後面乘虛而入。
             </li>
             <li>
@@ -46,8 +48,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速游牧的研究時間(快25%)。
             </li>
           </ul>
@@ -57,7 +60,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">游牧</a></div>
+              <div class="unititle"><nuxt-link to="#">游牧</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -69,28 +72,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Mongols">蒙古</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -100,7 +108,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -109,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -20,20 +20,24 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            火藥單位(非特殊單位)在帝王時代的學院研發化學後可以訓練。<a
-              href="/units/Janissary"
-              >土耳其火槍兵</a
-            >、<a href="/units/Conquistador">征服者</a>、
-            <a href="/units/Organ_Gun">風琴炮</a>、<a href="/units/Turtle_Ship"
-              >龜甲船</a
+            火藥單位(非特殊單位)在帝王時代的學院研發化學後可以訓練。<nuxt-link
+              to="/units/Janissary"
+              >土耳其火槍兵</nuxt-link
+            >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>、
+            <nuxt-link to="/units/Organ_Gun">風琴炮</nuxt-link>、<nuxt-link
+              to="/units/Turtle_Ship"
+              >龜甲船</nuxt-link
             >這些屬於文明的特殊火藥單位則可以在不用研發化學的前提下在城堡時代訓練。
           </p>
           <p>
-            在"失落的帝國"資料片前，所有中東文明都可以使用普通的火藥單位，這意味著中世紀該地區的科學進步顯著。<a
-              href="/civs/Aztecs"
-              >阿茲特克人</a
-            >， <a href="/civs/Huns">匈奴人</a>，<a href="/civs/Incas">印加人</a
-            >和<a href="/civs/Mayans">瑪雅人</a>必須靠招降才能擁有火藥單位。
+            在"失落的帝國"資料片前，所有中東文明都可以使用普通的火藥單位，這意味著中世紀該地區的科學進步顯著。<nuxt-link
+              to="/civs/Aztecs"
+              >阿茲特克人</nuxt-link
+            >， <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>，<nuxt-link
+              to="/civs/Incas"
+              >印加人</nuxt-link
+            >和<nuxt-link to="/civs/Mayans">瑪雅人</nuxt-link
+            >必須靠招降才能擁有火藥單位。
           </p>
         </div>
         <h3>火藥文明</h3>
@@ -70,9 +74,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><a
-                  href="/units/Hand_Cannoneer"
-                  >火槍兵</a
+                <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><nuxt-link
+                  to="/units/Hand_Cannoneer"
+                  >火槍兵</nuxt-link
                 >
               </td>
               <td class="tta3">35</td>
@@ -94,9 +98,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/BombardCannonIcon.jpg" /><a
-                  href="/units/Bombard_Cannon"
-                  >火炮</a
+                <img class="gg" src="~assets/BombardCannonIcon.jpg" /><nuxt-link
+                  to="/units/Bombard_Cannon"
+                  >火炮</nuxt-link
                 >
               </td>
               <td class="tta3">80</td>
@@ -118,9 +122,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><a
-                  href="/units/Cannon_Galleon"
-                  >火炮戰船</a
+                <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
+                  to="/units/Cannon_Galleon"
+                  >火炮戰船</nuxt-link
                 >
               </td>
               <td class="tta3">120</td>
@@ -142,9 +146,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><a
-                  href="/units/Cannon_Galleon"
-                  >精銳火炮戰船</a
+                <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
+                  to="/units/Cannon_Galleon"
+                  >精銳火炮戰船</nuxt-link
                 >
               </td>
               <td class="tta3">150</td>
@@ -166,9 +170,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/TurtleShipIcon.jpg" /><a
-                  href="/units/Turtle_Ship"
-                  >龜甲船</a
+                <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
+                  to="/units/Turtle_Ship"
+                  >龜甲船</nuxt-link
                 >
               </td>
               <td class="tta3">200</td>
@@ -190,9 +194,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/TurtleShipIcon.jpg" /><a
-                  href="/units/Turtle_Ship"
-                  >精銳龜甲船</a
+                <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
+                  to="/units/Turtle_Ship"
+                  >精銳龜甲船</nuxt-link
                 >
               </td>
               <td class="tta3">300</td>
@@ -214,9 +218,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/JanissaryIcon.jpg" /><a
-                  href="/units/Janissary"
-                  >土耳其火槍兵</a
+                <img class="gg" src="~assets/JanissaryIcon.jpg" /><nuxt-link
+                  to="/units/Janissary"
+                  >土耳其火槍兵</nuxt-link
                 >
               </td>
               <td class="tta3">35</td>
@@ -238,9 +242,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/JanissaryIcon.jpg" /><a
-                  href="/units/Janissary"
-                  >精銳土耳其火槍兵</a
+                <img class="gg" src="~assets/JanissaryIcon.jpg" /><nuxt-link
+                  to="/units/Janissary"
+                  >精銳土耳其火槍兵</nuxt-link
                 >
               </td>
               <td class="tta3">40</td>
@@ -262,9 +266,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><a
-                  href="/units/Conquistador"
-                  >征服者</a
+                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><nuxt-link
+                  to="/units/Conquistador"
+                  >征服者</nuxt-link
                 >
               </td>
               <td class="tta3">55</td>
@@ -286,9 +290,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><a
-                  href="/units/Conquistador"
-                  >精銳征服者</a
+                <img class="gg" src="~assets/ConquistadorIcon.jpg" /><nuxt-link
+                  to="/units/Conquistador"
+                  >精銳征服者</nuxt-link
                 >
               </td>
               <td class="tta3">70</td>
@@ -310,9 +314,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/OrganGunIcon.jpg" /><a
-                  href="/units/Organ_Gun"
-                  >風琴炮</a
+                <img class="gg" src="~assets/OrganGunIcon.jpg" /><nuxt-link
+                  to="/units/Organ_Gun"
+                  >風琴炮</nuxt-link
                 >
               </td>
               <td class="tta3">60</td>
@@ -334,9 +338,9 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/OrganGunIcon.jpg" /><a
-                  href="/units/Organ_Gun"
-                  >精銳風琴炮</a
+                <img class="gg" src="~assets/OrganGunIcon.jpg" /><nuxt-link
+                  to="/units/Organ_Gun"
+                  >精銳風琴炮</nuxt-link
                 >
               </td>
               <td class="tta3">70</td>
@@ -365,13 +369,13 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <a href="/img/Gunpowder.png"
+              <nuxt-link to="/img/Gunpowder.png"
                 ><img
                   class="imgn hg"
                   width="180"
                   src="~assets/Gunpowder.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <div class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有火藥單位(非洲王朝資料片)。</em></p>
               </div>

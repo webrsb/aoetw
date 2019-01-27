@@ -92,14 +92,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/sar">薩拉森科技樹</a></em>
+          <em><nuxt-link to="/tree/sar">薩拉森科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>市集成本-175木材。</li>
@@ -123,9 +123,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/MidEastern.jpg"
+              <nuxt-link to="/img/MidEastern.jpg"
                 ><img class="imgn hg" src="~assets/MidEastern.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>薩拉森建築</em></p>
             </div>
           </div>
@@ -162,7 +162,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -204,7 +204,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E9%98%BF%E9%9F%B3%E6%9C%AD%E9%B2%81%E7%89%B9%E6%88%98%E5%BD%B9"
+                    href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%9F%B3%E6%9C%AD%E9%B2%81%E7%89%B9%E6%88%98%E5%BD%B9"
                     >阿音札魯特戰役</a
                   ></b
                 ></i

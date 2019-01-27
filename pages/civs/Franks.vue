@@ -93,7 +93,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/fra">法蘭克科技樹</a></em>
+          <em><nuxt-link to="/tree/fra">法蘭克科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -110,7 +110,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>擲斧兵開火間隔-2(從12到10，精銳維持8不變)。</li>
@@ -126,7 +126,7 @@
             </li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>騎士+20%hp，改為所有馬類+20%。</li>
@@ -139,7 +139,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="#">法蘭克</a></div>
+              <div class="unititle"><nuxt-link to="#">法蘭克</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -156,7 +156,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>

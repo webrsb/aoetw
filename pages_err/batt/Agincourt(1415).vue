@@ -120,13 +120,13 @@
             <h3>芝麻小事</h3>
             <div class="hrn1"></div>
             <ul>
-              <li> <a>      亞琴哥特(1415)又譯亞金科特戰役，阿金庫爾戰役</a>
+              <li> <a>      亞琴哥特(1415)又譯亞金科特戰役，阿金庫爾戰役</nuxt-link>
               </li>
             </ul>
             <h3>英雄:亨利五世（1386年8月9日－1422年8月31日） </h3>
             <div class="hrn1"></div>
             <ul>
-              <li> <a>少年時早已展現治國長才的青年國王面對法蘭西的挑釁毫不畏懼，他果斷的對法國開戰，重燃兩國戰火。他分化法蘭西王國的內部，煽動勃艮地貴族支持英格蘭，與奧爾良保皇派內戰。並趁機成功的取得數個決定性戰果，而阿金考特戰役更是其軍事成就的巔峰。 此後的亨利連戰皆捷，征服整個法國北部，諾曼地、魯昂與巴黎。並迎娶法蘭西公主，宣告自己後嗣對法蘭西的繼承權。將法蘭西王國的治權在法理上併入英格蘭。</a>
+              <li> <a>少年時早已展現治國長才的青年國王面對法蘭西的挑釁毫不畏懼，他果斷的對法國開戰，重燃兩國戰火。他分化法蘭西王國的內部，煽動勃艮地貴族支持英格蘭，與奧爾良保皇派內戰。並趁機成功的取得數個決定性戰果，而阿金考特戰役更是其軍事成就的巔峰。 此後的亨利連戰皆捷，征服整個法國北部，諾曼地、魯昂與巴黎。並迎娶法蘭西公主，宣告自己後嗣對法蘭西的繼承權。將法蘭西王國的治權在法理上併入英格蘭。</nuxt-link>
               </li>
             </ul>
           </div>
@@ -135,7 +135,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#"> 亞琴哥特(1415)阿金庫爾戰役</a>
+                <div class="unititle"><nuxt-link to="#"> 亞琴哥特(1415)阿金庫爾戰役</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -148,7 +148,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -162,12 +162,12 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Japanese">不列顛</a>
+              <td class="unit4"><nuxt-link to="/civs/Japanese">不列顛</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">戰役關卡編號</a>
+                <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
                 </div>
               </td>
             </tr>

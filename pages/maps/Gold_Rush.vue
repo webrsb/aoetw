@@ -23,8 +23,8 @@
           <h3>優勢文明</h3>
           <div class="hrn1"></div>
           <p>
-            初期擁有優勢的文明將相當吃香，請見<a href="/civs/bestciv"
-              >文明優勢</a
+            初期擁有優勢的文明將相當吃香，請見<nuxt-link to="/civs/bestciv"
+              >文明優勢</nuxt-link
             >
           </p>
           <p>而馬紮爾可以一擊殺狼的特性，在淘金潮或許也可以發揮的不錯。</p>

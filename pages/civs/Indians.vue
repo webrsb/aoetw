@@ -92,14 +92,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/ind">印度科技樹</a></em>
+          <em><nuxt-link to="/tree/ind">印度科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>村民成本為-10%/-15%/-20%/-25%在黑暗/封建/城堡/帝王時代。</li>
@@ -111,7 +111,7 @@
             <li>精銳象弓騎兵-1遠防。</li>
           </ul>
           <h3>
-            <em><a href="/games/aor">王者崛起</a></em>
+            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>新的建築風格。</li>
@@ -144,7 +144,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="#">印度</a></div>
+              <div class="unititle"><nuxt-link to="#">印度</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -161,7 +161,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="#">概要</a></div>
+              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>

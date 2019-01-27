@@ -45,15 +45,29 @@
             <div class="col-md-6">
               <ol>
                 <li>
-                  <a href="/batt/An_Unlikely_Messiah">一個不大可能的彌賽亞</a>
+                  <nuxt-link to="/batt/An_Unlikely_Messiah"
+                    >一個不大可能的彌賽亞</nuxt-link
+                  >
                 </li>
-                <li><a href="/batt/The_Maid_of_Orleans">奧爾良的少女</a></li>
                 <li>
-                  <a href="/batt/The_Cleansing_of_the_Loire">羅亞爾河大掃蕩</a>
+                  <nuxt-link to="/batt/The_Maid_of_Orleans"
+                    >奧爾良的少女</nuxt-link
+                  >
                 </li>
-                <li><a href="/batt/The_Rising">叛變</a></li>
-                <li><a href="/The_Siege_of _Paris.php">巴黎攻城戰</a></li>
-                <li><a href="/batt/A_Perfect_Martyr">完美的烈士</a></li>
+                <li>
+                  <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
+                    >羅亞爾河大掃蕩</nuxt-link
+                  >
+                </li>
+                <li><nuxt-link to="/batt/The_Rising">叛變</nuxt-link></li>
+                <li>
+                  <nuxt-link to="/The_Siege_of _Paris.php"
+                    >巴黎攻城戰</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
+                </li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -131,7 +145,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B7"
+                    href="https://zh.wikipedia.org/wiki/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B7"
                     >聖女貞德</a
                   ></b
                 ></i

@@ -28,7 +28,7 @@
                 width="25px"
                 src="~assets/Palisadewallicon.png"
                 alt=""
-              /><a href="/building/Palisade_Wall">木牆</a>
+              /><nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>
             </li>
             <li>
               <img
@@ -36,7 +36,7 @@
                 width="25px"
                 src="~assets/Stonewallicon.png"
                 alt=""
-              /><a href="/building/Stone_Wall">石牆</a>
+              /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>
             </li>
             <li>
               <img
@@ -44,7 +44,7 @@
                 width="25px"
                 src="~assets/Stonewallicon.png"
                 alt=""
-              /><a href="/building/Fortified_Wall">垛牆</a>
+              /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
             </li>
             <li>
               <img
@@ -52,7 +52,7 @@
                 width="25px"
                 src="~assets/Gateicon.png"
                 alt=""
-              /><a href="/building/Gateicon_Gate">城門</a>
+              /><nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>
             </li>
           </ul>
         </div>
@@ -64,28 +64,28 @@
             <div style="margin:12px 0px;"><strong>+900攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                  href="/units/Petard"
-                  >爆炸桶</a
+                <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Petard"
+                  >爆炸桶</nuxt-link
                 >
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="/units/Tarkan"
-                  >精銳韃靼騎兵</a
-                >(<a href="/civs/Huns">匈奴</a>限定)
+                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Tarkan"
+                  >精銳韃靼騎兵</nuxt-link
+                >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
             <ul>
               <li>
-                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="/units/Tarkan"
-                  >韃靼騎兵</a
-                >(<a href="/civs/Huns">匈奴</a>限定)
+                <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
+                  to="/units/Tarkan"
+                  >韃靼騎兵</nuxt-link
+                >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
               </li>
             </ul>
           </div>

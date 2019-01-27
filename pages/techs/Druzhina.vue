@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            王家侍從是<a href="/civs/Slavs">斯拉夫</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
+            王家侍從是<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
             >在
-            <a href="/building/Castle">城堡</a
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後步兵對鄰近0.5格的單位有5的踐踏傷害。
           </p>
         </div>
@@ -24,11 +24,12 @@
         <div class="n1">
           <ul>
             <li>
-              王家侍從是帝王時代斯拉夫軍的基石。他給予<a href="/units/Champion"
-                >劍兵勇士</a
-              >和<a href="/units/Halberdier">戟兵</a
+              王家侍從是帝王時代斯拉夫軍的基石。他給予<nuxt-link
+                to="/units/Champion"
+                >劍兵勇士</nuxt-link
+              >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >對鄰近敵人有踐踏傷害，這讓他們在大型戰鬥中能飛速地對殲滅敵方軍隊。然而
-              <a href="/building/Blacksmith">兵工廠</a
+              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >的技術仍然優先於王家侍從因為王家侍從是遊戲中最昂貴的特殊科技。
             </li>
           </ul>
@@ -38,8 +39,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速王家侍從的研究時間(快25%)。
             </li>
           </ul>
@@ -58,7 +60,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">王家侍從</a></div>
+              <div class="unititle"><nuxt-link to="#">王家侍從</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -70,12 +72,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Slavs">斯拉夫</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -84,15 +90,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -102,7 +108,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -115,7 +121,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

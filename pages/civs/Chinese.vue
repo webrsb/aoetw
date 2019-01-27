@@ -73,7 +73,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/chi">中國科技樹</a></em>
+          <em><nuxt-link to="/tree/chi">中國科技樹</nuxt-link></em>
         </div>
         <h3>戰術概論</h3>
         <div class="hrn1"></div>

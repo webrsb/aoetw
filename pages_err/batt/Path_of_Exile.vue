@@ -86,7 +86,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">流亡之路</a>
+                <div class="unititle"><nuxt-link to="#">流亡之路</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -99,7 +99,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -109,11 +109,11 @@
             </tr>
             <tr>
               <td class="unit3">戰役</td>
-              <td class="unit4"><a href="/batt/Yodita">優娣忒</a></td>
+              <td class="unit4"><nuxt-link to="/batt/Yodita">優娣忒</nuxt-link></td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Ethiopians">衣索比亞</a>
+              <td class="unit4"><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -123,7 +123,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">戰役關卡編號</a>
+                <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -137,7 +137,7 @@
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/The_Right_Partner">最佳搭檔</a> 
+              <td class="unit4"> <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link> 
               </td>
             </tr>
           </table>

@@ -36,7 +36,7 @@
               <table class="table-bordered" width="100%">
                 <tr>
                   <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                    <div class="unititle"><a href="#">皇家衛兵</a>
+                    <div class="unititle"><nuxt-link to="#">皇家衛兵</nuxt-link>
                     </div>
                   </td>
                 </tr>
@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                   <td class="unit3">類型</td>
-                  <td class="unit4"><a href="/units/Gunpowder_Unit">火藥單位</a>
+                  <td class="unit4"><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link>
                   </td>
                 </tr>
                 <tr>
@@ -67,7 +67,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="/elements/Hit_points">血量</a>
+                  <td class="unit3"><nuxt-link to="/elements/Hit_points">血量</nuxt-link>
                   </td>
                   <td class="unit4">55</td>
                 </tr>
@@ -77,11 +77,11 @@
                 </tr>
                 <tr>
                   <td class="unit3">攻擊加成</td>
-                  <td>+3對 <a href="/armor/Armor_Class_Ram">衝撞車</a>
+                  <td>+3對 <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
                   </td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="/elements/Rate_of_Fire">射速</a>
+                  <td class="unit3"><nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
                   </td>
                   <td class="unit4">3.49</td>
                 </tr>
@@ -111,9 +111,9 @@
                   <td class="unit4">0</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="/Armor_Class.php">防禦類型</a>
+                  <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link>
                   </td>
-                  <td class="unit4"><a href="/armor/Armor_Class_Archer">射手</a>、 <a href="/armor/Armor_Class_Gunpowder_Unit">火藥單位</a> 、特殊單位</td>
+                  <td class="unit4"><nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>、 <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit">火藥單位</nuxt-link> 、特殊單位</td>
                 </tr>
                 <tr>
                   <td class="unit3">跑速
@@ -121,7 +121,7 @@
                   <td class="unit4">0.96</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="/los.php">視野</a>
+                  <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link>
                   </td>
                   <td class="unit4">10</td>
                 </tr>

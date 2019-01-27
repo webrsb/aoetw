@@ -55,7 +55,7 @@
               <ul>
                 <li><strong>起始時代：</strong>
                   <img class="gg" src="~assets/Imperial-age-research.jpg"
-                  alt=""><a href="/techsage/Imperial_Age">帝王時代</a>
+                  alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
                 </li>
                 <li><strong>起始資源：</strong>無</li>
                 <li><strong>人口上限：</strong>75</li>
@@ -65,43 +65,43 @@
               <h3>起始單位</h3>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="/Joan_of_Arc_units/Champion">聖女貞德</a>
+                  <img class="gg" src="~assets/Joanofarcicon.png" alt=""><nuxt-link to="/Joan_of_Arc_units/Champion">聖女貞德</nuxt-link>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/Lorddegravilleicon.png" alt=""><a href="/units/hero/Lord_de_Graville">格拉維爾領主</a>
+                  <img class="gg" src="~assets/Lorddegravilleicon.png" alt=""><nuxt-link to="/units/hero/Lord_de_Graville">格拉維爾領主</nuxt-link>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/Jeandelorrain.png" alt=""><a href="/units/hero/Jean_de_Lorrain">洛林的約翰</a>
+                  <img class="gg" src="~assets/Jeandelorrain.png" alt=""><nuxt-link to="/units/hero/Jean_de_Lorrain">洛林的約翰</nuxt-link>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><a href="/units/Light_Cavalry">輕騎兵</a>*1</li>
+                  <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>*1</li>
                 <li>
-                  <img class="gg" src="~assets/CavalierIcon.jpg" alt=""><a href="/units/Cavalier">騎兵</a>*4</li>
+                  <img class="gg" src="~assets/CavalierIcon.jpg" alt=""><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>*4</li>
                 <li>
-                  <img class="gg" src="~assets/PaladinIcon.jpg" alt=""><a href="/units/Paladin">遊俠</a>*6</li>
+                  <img class="gg" src="~assets/PaladinIcon.jpg" alt=""><nuxt-link to="/units/Paladin">遊俠</nuxt-link>*6</li>
                 <li>
-                  <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="/units/Pikeman">重裝長槍兵</a>*18</li>
+                  <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>*18</li>
                 <li>
-                  <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="/units/Crossbowman">弩兵</a>*20</li>
+                  <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>*20</li>
                 <li>
-                  <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="/units/Bombard_Cannon">火砲</a>*4</li>
+                  <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>*4</li>
                 <li>
-                  <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="/units/Trebuchet">巨型投石機</a>*2</li>
+                  <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>*2</li>
               </ul>
             </div>
             <div class="col-md-4">
               <h3>大地之母</h3>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="/units/Villager">村民</a>*10</li>
+                  <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><nuxt-link to="/units/Villager">村民</nuxt-link>*10</li>
                 <li>
-                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="/units/Militia">民兵</a>*16</li>
+                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><nuxt-link to="/units/Militia">民兵</nuxt-link>*16</li>
                 <li>
-                  <img class="gg" src="~assets/KnightIcon.jpg" alt=""><a href="/units/Knight">騎士</a>*2</li>
+                  <img class="gg" src="~assets/KnightIcon.jpg" alt=""><nuxt-link to="/units/Knight">騎士</nuxt-link>*2</li>
                 <li>
-                  <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="/units/Throwing_Axeman">擲斧兵</a>*2</li>
+                  <img class="gg" src="~assets/TAXEM.jpg" alt=""><nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link>*2</li>
                 <li>
-                  <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><a href="/units/Heavy_Scorpion">重裝弩砲</a>*2</li>
+                  <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><nuxt-link to="/units/Heavy_Scorpion">重裝弩砲</nuxt-link>*2</li>
               </ul>
             </div>
           </div>
@@ -135,7 +135,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">巴黎攻城戰</a>
+                <div class="unititle"><nuxt-link to="#">巴黎攻城戰</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -148,43 +148,43 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">版本</td>
-              <td class="unit4"><a href="/games/aok">帝王世紀</a>
+              <td class="unit4"><nuxt-link to="/games/aok">帝王世紀</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">戰役</td>
-              <td class="unit4"><a href="/batt/Joan_of_Arc">聖女貞德</a>
+              <td class="unit4"><nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Franks">法蘭克</a>
+              <td class="unit4"><nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">戰役關卡編號</a>
+                <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">章節</td>
-              <td class="unit4"><a href="/games/aok">帝王世紀</a>第二章之五</td>
+              <td class="unit4"><nuxt-link to="/games/aok">帝王世紀</nuxt-link>第二章之五</td>
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/batt/The_Rising">叛變</a>
+              <td class="unit4"> <nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/A_Perfect_Martyr">完美的烈士</a> 
+              <td class="unit4"> <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link> 
               </td>
             </tr>
           </table>

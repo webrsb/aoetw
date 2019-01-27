@@ -13,7 +13,7 @@
           <p>
             5.8改版於2018年9月7日正式上線，除了一些遊戲優化外，還大幅修正了一些遊戲平衡，把韓國和塔攻都削弱了不少，飛鏢騎兵與鷹勇士再度被弱化。
             <a
-              href="/https://steamcommunity.com/app/221380/discussions/1/1743342466037998931/"
+              href="https://steamcommunity.com/app/221380/discussions/1/1743342466037998931/"
               >原文</a
             >
           </p>
@@ -21,7 +21,7 @@
             <a href="https://forum.gamer.com.tw/C.php?bsn=1122&snA=14418&tnum=1"
               >資料來源</a
             >並參考PTT Lanchi與<a
-              href="/http://www.hawkaoe.net/bbs/forum.php?mod=viewthread&tid=143802"
+              href="http://www.hawkaoe.net/bbs/forum.php?mod=viewthread&tid=143802"
               >翔鷹論壇</a
             >的翻譯
           </p>
@@ -61,10 +61,12 @@
               />爪刀勇士 花費 25F 10G → 30F 15G
             </li>
             <li>
-              <img src="~assets/Unique-tech.jpg" class="gg" alt="" />印加<a
-                href="/civs/Incas"
-                >金冠</a
-              >花費400F 200G → 600F 600G
+              <img
+                src="~assets/Unique-tech.jpg"
+                class="gg"
+                alt=""
+              />印加<nuxt-link to="/civs/Incas">金冠</nuxt-link>花費400F 200G →
+              600F 600G
             </li>
             <li>
               <img
@@ -102,9 +104,11 @@
               />火蒙衝對漁船傷害 3hp → 1hp
             </li>
             <li>
-              <img src="~assets/CamelArcherIcon.jpg" class="gg" alt="" /><a
-                href="/Camel_units/Archer"
-                >精銳駱駝弓箭手</a
+              <img
+                src="~assets/CamelArcherIcon.jpg"
+                class="gg"
+                alt=""
+              /><nuxt-link to="/Camel_units/Archer">精銳駱駝弓箭手</nuxt-link
               >生產時間 21s → 25s
             </li>
             <li>
@@ -179,7 +183,7 @@
           <ul>
             <li>
               在沙漠且破裂的地形上的建築，被攻擊傷害+20%(<a
-                href="/https://www.youtube.com/watch?v=x7LWDiKiPy4"
+                href="https://www.youtube.com/watch?v=x7LWDiKiPy4"
                 >影片說明</a
               >)
             </li>

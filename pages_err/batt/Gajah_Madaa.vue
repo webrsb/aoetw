@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <div class="spw"><em><img src="~assets/Subotaiicon.png" width="50px;" alt="" style="margin-right:20px;">不要搞混了，<a href="/units/hero/Gajah_Mada">加查馬達</a>這個英雄的頁面在這邊。</em>
+            <div class="spw"><em><img src="~assets/Subotaiicon.png" width="50px;" alt="" style="margin-right:20px;">不要搞混了，<nuxt-link to="/units/hero/Gajah_Mada">加查馬達</nuxt-link>這個英雄的頁面在這邊。</em>
             </div>
             <div class="ien"><em>    在爪哇島上，一顆新星冉冉升起。加查.馬達，作為滿者伯夷的攝政王，決心要建立一個統治這片大海上數千島嶼的龐大帝國。他能否既效忠於王室，又實現自己的野心抱負？</em>
               <p
@@ -32,15 +32,15 @@
               </div>
               <div class="col-md-6">
                 <ol>
-                  <li><a href="/batt/The_Story_of_our_Founders">開疆闢土</a>
+                  <li><nuxt-link to="/batt/The_Story_of_our_Founders">開疆闢土</nuxt-link>
                   </li>
-                  <li><a href="/batt/Unconditional_Loyalty">班師勤王</a>
+                  <li><nuxt-link to="/batt/Unconditional_Loyalty">班師勤王</nuxt-link>
                   </li>
-                  <li><a href="/batt/The_Oath_to_Unify_Nusantara">誓統南洋</a>
+                  <li><nuxt-link to="/batt/The_Oath_to_Unify_Nusantara">誓統南洋</nuxt-link>
                   </li>
-                  <li><a href="/batt/Serving_the_New_King">輔佐新君</a>
+                  <li><nuxt-link to="/batt/Serving_the_New_King">輔佐新君</nuxt-link>
                   </li>
-                  <li><a href="/batt/The_Pasunda_Bubat_Tragedy">風雲變色</a>
+                  <li><nuxt-link to="/batt/The_Pasunda_Bubat_Tragedy">風雲變色</nuxt-link>
                   </li>
                 </ol>
               </div>

@@ -22,7 +22,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="#">丁禮</a>
+                <div class="unititle"><a to="#">丁禮</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -40,7 +40,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="#">騎兵<br/><br/>英雄</a>
+              <td class="unit4"><nuxt-link to="#">騎兵<br/><br/>英雄</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -89,7 +89,7 @@
           <div class="wiki" style="margin-top: 5px;">
             <div style="float: left;"></div>
             <div style="margin-left: 60px;">維基百科上的丁禮
-              <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E4%B8%81%E7%A6%AE">丁禮</a></strong></i>
+              <div style="margin-left: 10px;"><i><strong><a href="https://zh.wikipedia.org/wiki/%E4%B8%81%E7%A6%AE">丁禮</aa></strong></i>
               </div>
             </div>
           </div>

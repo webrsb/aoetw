@@ -11,20 +11,24 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            扭力彈射器是<a href="/civs/Ethiopians">衣索比亞</a
-            >的特殊科技，可於<a href="/techsage/Imperial_Age">帝王時代</a>在
-            <a href="/building/Castle">城堡</a
-            >研發。研發後攻城單位的攻擊波及範圍增加。<a
-              href="/units/Siege_Tower"
-              >攻城塔</a
-            >和<a href="/units/Battering_Ram">輕型衝撞車</a>不受影響；
-            <a href="/units/Capped_Ram">裝甲衝撞車</a>和<a
-              href="/units/Siege_Ram"
-              >重型衝撞車</a
+            扭力彈射器是<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後攻城單位的攻擊波及範圍增加。<nuxt-link
+              to="/units/Siege_Tower"
+              >攻城塔</nuxt-link
+            >和<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
+            >不受影響；
+            <nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>和<nuxt-link
+              to="/units/Siege_Ram"
+              >重型衝撞車</nuxt-link
             >受該科技影響。
           </p>
           <p>
-            此科技配合衣索比亞的<a href="/Siege_units/Onager">重型投石車</a
+            此科技配合衣索比亞的<nuxt-link to="/Siege_units/Onager"
+              >重型投石車</nuxt-link
             >，在狹窄的地圖如:黑森林將會非常地具有威脅性。
           </p>
         </div>
@@ -34,12 +38,12 @@
           <ul>
             <li>
               扭力彈射器可讓投石車的波及範圍變大，彌補原本的準度不足造成的傷害下降。攻擊地面的指令可以擊中更多敵方單位，讓技術型的玩家能一擊摧毀一大群
-              <a href="/units/Cavalry_Units">騎兵</a>、<a
-                href="/units/Archer_Units"
-                >弓箭手</a
-              >、分散的<a href="/units/Infantry_Units">步兵</a
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>、<nuxt-link
+                to="/units/Archer_Units"
+                >弓箭手</nuxt-link
+              >、分散的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >或是數台的攻城武器。
-              <a href="/units/Bombard_Cannon">火炮</a
+              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
               >也受益於扭力彈射器而能更好的反制攻城武器和弓箭手。
             </li>
           </ul>
@@ -49,8 +53,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速扭力彈射器的研究時間(快25%)。
             </li>
           </ul>
@@ -68,7 +73,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">扭力彈射器</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">扭力彈射器</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -80,12 +87,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Ethiopians">衣索比亞</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -94,15 +105,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -112,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -125,7 +136,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -142,25 +153,25 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a href="/img/Splashdamageram.png"
+          <nuxt-link to="/img/Splashdamageram.png"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/Splashdamageram.png"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px" ;>
             <p><em>衝撞車的攻擊擴散範圍(沒有扭力彈射器)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <a href="/img/Splashdamageramtorsion.png"
+          <nuxt-link to="/img/Splashdamageramtorsion.png"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/Splashdamageramtorsion.png"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px" ;>
             <p><em>衝撞車的攻擊擴散範圍(有扭力彈射器)。</em></p>
           </div>

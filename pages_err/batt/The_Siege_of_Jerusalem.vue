@@ -82,7 +82,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">耶路撒冷攻城戰</a>
+                <div class="unititle"><nuxt-link to="#">耶路撒冷攻城戰</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -95,7 +95,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -109,11 +109,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="#">薩拉森人</a>
+              <td class="unit4"><nuxt-link to="#">薩拉森人</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="#">戰役關卡編號</a>
+              <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>
@@ -123,11 +123,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="/batt/The_Horns_of_Hattin">海丁的號角</a> 
+              <td class="unit4"> <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="/batt/Jihad">聖戰!</a> 
+              <td class="unit4"> <nuxt-link to="/batt/Jihad">聖戰!</nuxt-link> 
               </td>
             </tr>
           </table>

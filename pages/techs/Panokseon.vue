@@ -11,10 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            板屋船是<a href="/civs/Koreans">韓國</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後龜甲船移動快15%。
+            板屋船是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後龜甲船移動快15%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -22,13 +24,15 @@
         <div class="n1">
           <ul>
             <li>
-              龜甲船最大的問題就是速度。在<a href="/games/aof">失落的帝國</a
-              >資料片中，板屋船的引進可以修補這個問題。雖然<a
-                href="/units/Galleon"
-                >重型弩炮戰船</a
+              龜甲船最大的問題就是速度。在<nuxt-link to="/games/aof"
+                >失落的帝國</nuxt-link
+              >資料片中，板屋船的引進可以修補這個問題。雖然<nuxt-link
+                to="/units/Galleon"
+                >重型弩炮戰船</nuxt-link
               >還是可以對龜甲船作打帶跑，但是這需要更多的微操作而且不具效益。由於缺乏
-              <a href="/techs/Heresy">異端邪說</a
-              >，在海岸邊轟炸的龜甲船很容易就被<a href="/units/Monk">僧侶</a
+              <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
+              >，在海岸邊轟炸的龜甲船很容易就被<nuxt-link to="/units/Monk"
+                >僧侶</nuxt-link
               >召走，板屋船可讓龜甲船看到僧侶時快速遠離岸邊減少部隊損失。
             </li>
           </ul>
@@ -38,8 +42,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速板屋船的研究時間(快25%)。
             </li>
           </ul>
@@ -48,13 +53,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>板屋船的成本為400肉400木。</li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>板屋船的成本為300肉300木。</li>
@@ -73,7 +78,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">板屋船</a></div>
+              <div class="unititle"><nuxt-link to="#">板屋船</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -85,28 +90,33 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Koreans">韓國</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -116,7 +126,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -129,7 +139,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -11,9 +11,9 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於火藥系裝甲的。而關於火藥單位這個兵種的資料請參見<a
-              href="/Gunpowder_Units.php"
-              >火藥單位</a
+            >這篇文章是將有關於火藥系裝甲的。而關於火藥單位這個兵種的資料請參見<nuxt-link
+              to="/Gunpowder_Units.php"
+              >火藥單位</nuxt-link
             ></em
           >
         </div>
@@ -35,7 +35,7 @@
                 style="margin: 2px;"
                 src="~assets/HandCannoneerIcon.jpg"
                 alt=""
-              /><a href="/units/Hand_Cannoneer">火槍兵</a>
+              /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
             </li>
             <li>
               <img
@@ -43,46 +43,44 @@
                 style="margin: 2px;"
                 src="~assets/Bombardtowericon.png"
                 alt=""
-              /><a href="/units/Bombard_Cannon">火炮</a>
+              /><nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/JanissaryIcon.jpg" alt="" />
-              <a href="/units/Janissary">土耳其火槍兵</a>→
+              <nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>→
               <img class="gg" src="~assets/JanissaryIcon.jpg" alt="" />
-              <a href="/units/Janissary">精銳土耳其火槍兵</a>(<a
-                href="/civs/Turks"
-                >土耳其</a
-              >限定)
+              <nuxt-link to="/units/Janissary">精銳土耳其火槍兵</nuxt-link
+              >(<nuxt-link to="/civs/Turks">土耳其</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/ConquistadorIcon.jpg" alt="" />
-              <a href="/units/Conquistador">征服者</a>→
+              <nuxt-link to="/units/Conquistador">征服者</nuxt-link>→
               <img class="gg" src="~assets/ConquistadorIcon.jpg" alt="" />
-              <a href="/units/Conquistador">精銳征服者</a>(<a
-                href="/civs/Spanish"
-                >西班牙</a
-              >限定)
+              <nuxt-link to="/units/Conquistador">精銳征服者</nuxt-link
+              >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
-              <a href="/OrganGun.php">風琴炮</a>→
+              <nuxt-link to="/OrganGun.php">風琴炮</nuxt-link>→
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
-              <a href="/OrganGun.php">精銳風琴炮</a>(<a href="/Portugese.php"
-                >葡萄牙</a
+              <nuxt-link to="/OrganGun.php">精銳風琴炮</nuxt-link>(<nuxt-link
+                to="/Portugese.php"
+                >葡萄牙</nuxt-link
               >限定)
             </li>
             <li>
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-              <a href="/units/Cannon_Galleon">火炮戰船</a>→
+              <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>→
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-              <a href="/units/Cannon_Galleon">精銳火炮戰船</a>
+              <nuxt-link to="/units/Cannon_Galleon">精銳火炮戰船</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
-              <a href="/Turtle_ship.php">龜甲船</a>→
+              <nuxt-link to="/Turtle_ship.php">龜甲船</nuxt-link>→
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
-              <a href="/Turtle_ship.php">精銳龜甲船</a>(<a href="/civs/Koreans"
-                >韓國</a
+              <nuxt-link to="/Turtle_ship.php">精銳龜甲船</nuxt-link>(<nuxt-link
+                to="/civs/Koreans"
+                >韓國</nuxt-link
               >限定)
             </li>
             <li>
@@ -91,7 +89,7 @@
                 style="margin: 2px;"
                 src="~assets/Bombardtowericon.png"
                 alt=""
-              /><a href="/building/Bombard_Tower">火炮塔</a>
+              /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
             </li>
           </ul>
         </div>
@@ -108,8 +106,9 @@
                   style="margin: 2px;"
                   src="~assets/CondottieroNewIcon.jpg"
                   alt=""
-                /><a href="/units/Condottiero">傭兵</a>(<a href="/civs/Italians"
-                  >義大利</a
+                /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>(<nuxt-link
+                  to="/civs/Italians"
+                  >義大利</nuxt-link
                 >和同盟限定)
               </li>
             </ul>

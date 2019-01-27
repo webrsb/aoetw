@@ -12,15 +12,15 @@
         <div class="n1">
           <p>
             <strong>亨利二世</strong>是一名可在《世紀帝國II HD：
-            非洲王朝》的地圖編輯器中使用的<a href="/units/Infantry_Units"
-              >步兵</a
+            非洲王朝》的地圖編輯器中使用的<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
             >
-            <a href="/units/hero">英雄</a
-            >。他的原型是<strong>英格蘭的國王亨利二世</strong>，最著名的事蹟是在百年戰爭之前奪回了<a
-              href="/civs/Britons"
-              >英國</a
+            <nuxt-link to="/units/hero">英雄</nuxt-link
+            >。他的原型是<strong>英格蘭的國王亨利二世</strong>，最著名的事蹟是在百年戰爭之前奪回了<nuxt-link
+              to="/civs/Britons"
+              >英國</nuxt-link
             >在法國內的領地，並收回了英格蘭境內的皇家統治。在遊戲中，亨利二世以
-            <a href="/Two_Handed_Swordsman.php">雙手劍兵</a
+            <nuxt-link to="/Two_Handed_Swordsman.php">雙手劍兵</nuxt-link
             >的外表登場。作為一個英雄單位，他無法被招降且會自動回血。
           </p>
           <p>
@@ -32,7 +32,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">亨利二世</a></div>
+              <div class="unititle"><nuxt-link to="#">亨利二世</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -50,10 +50,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="/units/Infantry_Units">步兵</a> <br /><a
-                href="/units/hero"
-                >英雄</a
-              >
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+              <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -80,8 +78,12 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="/armor/Armor_Class_Eagle_Warrior">鷹勇士</a> +8
-              <br />對<a href="/Armor_Class_standard_building.php">標準建築</a>
+              對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >
+              +8 <br />對<nuxt-link to="/Armor_Class_standard_building.php"
+                >標準建築</nuxt-link
+              >
               +4
             </td>
           </tr>
@@ -117,7 +119,7 @@
               <i
                 ><strong
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%8C%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
+                    href="https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%8C%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
                     >亨利二世</a
                   ></strong
                 ></i

@@ -10,10 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            </p>大商隊可以在<a href="/techsage/Castle_Age">城堡時代</a>時研究於<a href="/building/Market">市集</a>，前置科技為
-            <a
-            href="/techs/Cartography">製圖學</a>。</p>
-              </p>研究之後可以使<a href="/units/Trade_Cart">貿易車隊</a>和<a href="/units/Trade_Cog">貿易商旅</a>的移動速度增加50%，變相的加速了黃金的獲取速度。</p>
+            </p>大商隊可以在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>時研究於<nuxt-link to="/building/Market">市集</nuxt-link>，前置科技為
+            <nuxt-link to="/techs/Cartography">製圖學</nuxt-link>。</p>
+              </p>研究之後可以使<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>和<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link>的移動速度增加50%，變相的加速了黃金的獲取速度。</p>
               </p>研發大商隊是遊戲後期加速黃金收集速度的好方法，當然增加移動速度也使得被攻擊導致陣亡的機率大大降低。</p>
           </div>
            <h3>可研發文明</h3> 
@@ -28,7 +27,7 @@
             <div class="col-md-12">
               <div class="n1">
                  <h4><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="nocc" style="margin-left: 2px;">不可研發</span></h4> 
-                </a>無</a>
+                </nuxt-link>無</nuxt-link>
               </div>
             </div>
           </div>
@@ -51,7 +50,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="#">大商隊</a>
+                <div class="unititle"><nuxt-link to="#">大商隊</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -64,7 +63,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">科技介紹</a>
+                <div class="unititle2"><nuxt-link to="#">科技介紹</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -73,17 +72,17 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a>
+              <td class="unit4"><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
-              <td class="unit4"><a href="/building/Market">市集</a>
+              <td class="unit4"><nuxt-link to="/building/Market">市集</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">前置科技</td>
-              <td class="unit4"><a href="/techs/Cartography">製圖學</a>
+              <td class="unit4"><nuxt-link to="/techs/Cartography">製圖學</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -92,7 +91,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">成本</a>
+                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -106,13 +105,13 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">影響</a>
+                <div class="unititle2"><nuxt-link to="#">影響</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">影響</td>
-              <td class="unit4">增加<a href="/units/Trade_Cart">貿易車隊</a>和<a href="/units/Trade_Cog">貿易商旅</a>50%的移動速度。</td>
+              <td class="unit4">增加<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>和<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link>50%的移動速度。</td>
             </tr>
           </table>
         </div>

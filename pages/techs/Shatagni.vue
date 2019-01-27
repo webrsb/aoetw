@@ -11,12 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            印度火槍是<a href="/civs/Indians">印度</a>的特殊科技，可於<a
-              href="/techsage/Imperial_Age"
-              >帝王時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Hand_Cannoneer"
-              >火槍兵</a
+            印度火槍是<nuxt-link to="/civs/Indians">印度</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
             >+1射程。
           </p>
         </div>
@@ -25,10 +25,12 @@
         <div class="n1">
           <ul>
             <li>
-              一支印度的軍隊應該要有以下兩種核心單位:<a href="/units/Camel"
-                >駱駝騎兵</a
-              >和<a href="/units/Hand_Cannoneer">火槍兵</a>。印度火槍是讓
-              <a href="/units/Hand_Cannoneer">火槍兵</a
+              一支印度的軍隊應該要有以下兩種核心單位:<nuxt-link
+                to="/units/Camel"
+                >駱駝騎兵</nuxt-link
+              >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >。印度火槍是讓
+              <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >生存的關鍵，所以該科技通常要研發；然而印度玩家不應該為了研發印度火槍而失去事情的優先順序，還是要以建造部隊為主。
             </li>
           </ul>
@@ -38,8 +40,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速印度火槍的研究時間(快25%)。
             </li>
           </ul>
@@ -62,7 +65,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="#">印度火槍</a></div>
+              <div class="unititle"><nuxt-link to="#">印度火槍</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -74,12 +77,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">科技介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Indians">印度</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -88,15 +95,15 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="/techsage/Imperial_Age">帝王時代</a>
+              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -106,7 +113,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">成本</a></div>
+              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -119,7 +126,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

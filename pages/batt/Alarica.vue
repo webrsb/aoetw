@@ -118,7 +118,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%8B%89%E9%87%8C%E5%85%8B%E4%B8%80%E4%B8%96"
+                    href="https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%8B%89%E9%87%8C%E5%85%8B%E4%B8%80%E4%B8%96"
                     >阿拉里克</a
                   ></b
                 ></i

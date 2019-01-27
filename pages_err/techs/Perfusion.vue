@@ -10,24 +10,23 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>灌注士氣是哥德的帝王時代特殊技術，可於<a href="/techsage/Imperial_Age">帝王時代</a>在<a href="/building/Castle">城堡</a>研發，這項科技提高了軍營的工作速度100%(包括科技研發)。</p>
+            <p>灌注士氣是哥德的帝王時代特殊技術，可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發，這項科技提高了軍營的工作速度100%(包括科技研發)。</p>
           </div>
           <h3><strong>戰術要點</strong></h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
               <li>帝王時代的哥德需要大量的單位來壓制對手，所以這幾乎是一個必須研發的科技。</li>
-              <li>與另一個特殊技術<a href="/techs/Anarchy">無政府狀態</a>配合，軍營可以在一分鐘裡面生產11個<a href="/units/Huskarl">哥德衛隊</a>，這是非常具有破壞力的優勢。</li>
-              <li>整個軍營的速度都加快了，那表示不僅僅是<a href="/units/Champion">劍兵勇士</a>可以快速生產，包括克制騎兵的<a href="/units/Halberdier">戟兵</a>，擁有
-                <a
-                href="/civs/Italians">義大利</a>同盟時的<a href="/units/Condottiero">傭兵</a>也是。(傭兵甚至只需要3.5秒的訓練時間)</li>
+              <li>與另一個特殊技術<nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link>配合，軍營可以在一分鐘裡面生產11個<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，這是非常具有破壞力的優勢。</li>
+              <li>整個軍營的速度都加快了，那表示不僅僅是<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>可以快速生產，包括克制騎兵的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>，擁有
+                <nuxt-link to="/civs/Italians">義大利</nuxt-link>同盟時的<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>也是。(傭兵甚至只需要3.5秒的訓練時間)</li>
             </ul>
           </div>
            <h3><strong>文明加成</strong></h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>可以增加灌注士氣的研發速度(+25%)。</li>
+              <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>可以增加灌注士氣的研發速度(+25%)。</li>
             </ul>
           </div>
           <h3>歷史</h3>
@@ -40,7 +39,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="#">灌注士氣</a>
+                <div class="unititle"><nuxt-link to="#">灌注士氣</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -53,25 +52,25 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">科技介紹</a>
+                <div class="unititle2"><nuxt-link to="#">科技介紹</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Goths">哥德</a>
+              <td class="unit4"><nuxt-link to="/civs/Goths">哥德</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="/techsage/Imperial_Age">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="/building/Castle">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><nuxt-link to="/building/Castle">城堡</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -80,7 +79,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">成本</a>
+                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -94,7 +93,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="#">影響</a>
+                <div class="unititle2"><nuxt-link to="#">影響</nuxt-link>
                 </div>
               </td>
             </tr>

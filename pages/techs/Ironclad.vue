@@ -11,14 +11,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鋼鐵甲是<a href="/civs/Teutons">條頓</a>的特殊科技，可於<a
-              href="/techsage/Castle_Age"
-              >城堡時代</a
-            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
-              href="/units/Siege_Weapons"
-              >攻城武器</a
-            >近戰護甲+4。玩家要記住<a href="/units/Battering_Ram">衝撞車</a>和
-            <a href="/units/Siege_Tower">攻城塔</a
+            鋼鐵甲是<nuxt-link to="/civs/Teutons">條頓</nuxt-link
+            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >近戰護甲+4。玩家要記住<nuxt-link to="/units/Battering_Ram"
+              >衝撞車</nuxt-link
+            >和
+            <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
             >的近戰護甲是-3和-2，有鋼鐵甲後會變成1和2。
           </p>
         </div>
@@ -28,7 +31,8 @@
           <ul>
             <li>
               攻城武器懼怕近戰單位的原因有以下幾點:第一，衝撞車的攻擊範圍小且對不是建築和攻城單位的任何東西沒有攻擊加成。第二，攻城單位在遊戲中的移動速度是最慢的，步兵靠近他們時也難以逃開。上述缺點讓村民也能輕易地摧毀衝撞車。鋼鐵甲讓攻城單位可在對方伏擊或是有幾個近戰單位突破前線接近牠們時能多存活幾秒。鋼鐵甲給的加成比兵工廠的多而且還能抵銷
-              <a href="/building/Blacksmith">兵工廠</a>給予近戰單位的攻擊加成。
+              <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >給予近戰單位的攻擊加成。
             </li>
             <li>
               玩家需銘記在心的是有了鋼鐵甲還是不要讓攻城武器單獨行動。它讓玩家有一些時間可以反應並派軍隊保護攻城武器去完成他們的工作。
@@ -40,8 +44,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
-                >聚居堡壘</a
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
               >能夠加速鋼鐵甲的研究時間(快25%)。
             </li>
           </ul>
@@ -50,13 +55,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="/games/aof">失落的帝國</a></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>成本為500木/300金。</li>
           </ul>
           <h3>
-            <em><a href="/games/ak">非洲王國</a></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>成本降為400木/300金</li>
@@ -84,23 +89,26 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="/civs/Teutons">條頓</a></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="/techsage/Castle_Age"
-                >城堡時代</a
-              >
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="/building/Castle"
-                >城堡</a
+              <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
               >
             </td>
           </tr>
@@ -123,7 +131,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="#">影響</a></div>
+              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

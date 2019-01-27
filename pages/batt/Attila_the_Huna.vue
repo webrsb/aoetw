@@ -11,9 +11,9 @@
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是說關於阿提拉戰役。而關於英雄的阿提拉這個單位請參見<a
-              href="/units/hero/Attila_the_Hun"
-              >匈奴王阿提拉</a
+            >這篇文章是說關於阿提拉戰役。而關於英雄的阿提拉這個單位請參見<nuxt-link
+              to="/units/hero/Attila_the_Hun"
+              >匈奴王阿提拉</nuxt-link
             ></em
           >
         </div>
@@ -46,14 +46,30 @@
             </div>
             <div class="col-md-6">
               <ol>
-                <li><a href="/batt/Scourge_of_God">上帝之鞭</a></li>
-                <li><a href="/batt/The_Great_Ride">偉大的騎士</a></li>
                 <li>
-                  <a href="/batt/Walls_of_Constantinople">君士坦丁堡的城牆</a>
+                  <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
                 </li>
-                <li><a href="/batt/A_Barbarian_Betrothal">蠻族的婚約</a></li>
-                <li><a href="/batt/Catalaunian_Fields">卡塔隆尼亞平原</a></li>
-                <li><a href="/batt/Fall_of_Rome">羅馬的衰落</a></li>
+                <li>
+                  <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Walls_of_Constantinople"
+                    >君士坦丁堡的城牆</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/A_Barbarian_Betrothal"
+                    >蠻族的婚約</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Catalaunian_Fields"
+                    >卡塔隆尼亞平原</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link>
+                </li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -126,7 +142,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89"
+                    href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89"
                     >阿提拉</a
                   ></b
                 ></i

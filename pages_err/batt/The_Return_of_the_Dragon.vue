@@ -128,7 +128,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="#">龍之歸來</a>
+                <div class="unititle"><nuxt-link to="#">龍之歸來</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -141,7 +141,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">情景信息</a>
+                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -155,7 +155,7 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="/civs/Magyars">馬札爾</a>
+              <td class="unit4"><nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -165,7 +165,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="#">戰役關卡編號</a>
+                <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -175,12 +175,12 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"><a href="/batt/The_Dragon_Spreads_His_Wings">火龍展翅</a> 
+              <td class="unit4"><nuxt-link to="/batt/The_Dragon_Spreads_His_Wings">火龍展翅</nuxt-link> 
               </td>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"><a href="/batt/The_ Breath_of_the_Dragon">龍之喘息</a> 
+              <td class="unit4"><nuxt-link to="/batt/The_ Breath_of_the_Dragon">龍之喘息</nuxt-link> 
               </td>
             </tr>
           </table>

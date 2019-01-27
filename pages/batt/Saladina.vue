@@ -123,7 +123,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E8%90%A8%E6%8B%89%E4%B8%81"
+                    href="https://zh.wikipedia.org/wiki/%E8%90%A8%E6%8B%89%E4%B8%81"
                     >薩拉丁</a
                   ></b
                 ></i

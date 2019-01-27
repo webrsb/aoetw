@@ -127,7 +127,7 @@
               <i
                 ><b
                   ><a
-                    href="/https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%E7%A7%91%C2%B7%E5%BE%B7%C2%B7%E5%A5%A7%E9%9B%B7%E4%BA%9E%E7%B4%8D"
+                    href="https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%E7%A7%91%C2%B7%E5%BE%B7%C2%B7%E5%A5%A7%E9%9B%B7%E4%BA%9E%E7%B4%8D"
                     >法蘭西斯科·德·奧雷亞納</a
                   ></b
                 ></i

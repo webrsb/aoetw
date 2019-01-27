@@ -21,7 +21,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="#">强力重裝長槍兵</a>
+                <div class="unititle"><nuxt-link to="#">强力重裝長槍兵</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -39,7 +39,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="#">步兵<br/></td>      </tr>      <tr>        <td class="unit3">出場</td>       <td class="unit4">被遺忘的帝國</td>      </tr>      <tr>        <td class="unit" colspan="2" style="background-color:#d01022;">       <div class="unititle2" style="color: #fff;">統計</div>       </td>      </tr>       <tr>        <td class="unit3">血量</td>       <td class="unit4">75</td>      </tr>      <tr>        <td class="unit3">攻擊</td>       <td class="unit4">4</td>      </tr>      <tr>        <td class="unit3">攻擊獎勵</td>       <td class="unit4">對戰象攻擊時+25，對騎兵單位攻擊時+22，對駱駝單位攻擊時+16，對船舶攻擊時+16，對應戰士作戰時+1，對建築物攻擊時+1</td>      </tr>      <tr>        <td class="unit3">攻速</td>       <td class="unit4">3.05</td>      </tr>      <tr>        <td class="unit3">近防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">遠防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">防禦類型</td>       <td class="unit4">步兵</td>      </tr>      <tr>        <td class="unit3">跑速</td>       <td class="unit4">1</td>      </tr>      <tr>        <td class="unit3">視野</td>       <td class="unit4">4</td>      </tr> </table><div class="thanks">     </div> </div></div><div class="wiki" style="margin-top: 5px;"><div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div><div style="margin-left: 60px;">維基百科上的强力重裝長槍兵<div style="margin-left: 10px;"><i><strong><a href="https://en.wikipedia.org/wiki/Pike_(weapon)">强力重裝長槍兵</a>
+              <td class="unit4"><nuxt-link to="#">步兵<br/></td>      </tr>      <tr>        <td class="unit3">出場</td>       <td class="unit4">被遺忘的帝國</td>      </tr>      <tr>        <td class="unit" colspan="2" style="background-color:#d01022;">       <div class="unititle2" style="color: #fff;">統計</div>       </td>      </tr>       <tr>        <td class="unit3">血量</td>       <td class="unit4">75</td>      </tr>      <tr>        <td class="unit3">攻擊</td>       <td class="unit4">4</td>      </tr>      <tr>        <td class="unit3">攻擊獎勵</td>       <td class="unit4">對戰象攻擊時+25，對騎兵單位攻擊時+22，對駱駝單位攻擊時+16，對船舶攻擊時+16，對應戰士作戰時+1，對建築物攻擊時+1</td>      </tr>      <tr>        <td class="unit3">攻速</td>       <td class="unit4">3.05</td>      </tr>      <tr>        <td class="unit3">近防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">遠防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">防禦類型</td>       <td class="unit4">步兵</td>      </tr>      <tr>        <td class="unit3">跑速</td>       <td class="unit4">1</td>      </tr>      <tr>        <td class="unit3">視野</td>       <td class="unit4">4</td>      </tr> </table><div class="thanks">     </div> </div></div><div class="wiki" style="margin-top: 5px;"><div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div><div style="margin-left: 60px;">維基百科上的强力重裝長槍兵<div style="margin-left: 10px;"><i><strong><a href="https://en.wikipedia.org/wiki/Pike_(weapon)">强力重裝長槍兵</a>
                 </strong>
                 </i>
         </div>

@@ -47,7 +47,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="#">沙底隆的雷諾</a></div>
+              <div class="unititle">
+                <nuxt-link to="#">沙底隆的雷諾</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -69,7 +71,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="#">騎兵<br />英雄</a>
+              <nuxt-link to="#">騎兵<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -125,7 +127,7 @@
               <i
                 ><strong
                   ><a
-                    href="/https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon"
+                    href="https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon"
                     >沙底隆的雷諾</a
                   ></strong
                 ></i

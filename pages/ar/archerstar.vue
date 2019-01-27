@@ -16,7 +16,7 @@
           <ul>
             <li>
               <img src="~assets/ArcherIcon.jpg" alt="" />
-              <a href="/units/Archer">弓兵→</a
+              <nuxt-link to="/units/Archer">弓兵→</nuxt-link
               >:俗稱小弓，封建時代能有效擊殺對方村民的兵種之一，與斥侯相比，更不怕木牆。
             </li>
           </ul>
@@ -137,20 +137,22 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle"><a href="#">小弓開局</a></div>
+              <div class="unititle"><nuxt-link to="#">小弓開局</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
                 <img width="45" src="~assets/ArcherIcon.jpg" alt="" />
-                <a href="/units/Archer"></a>
+                <nuxt-link to="/units/Archer"></nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle2"><a href="#">戰術介紹</a></div>
+              <div class="unititle2">
+                <nuxt-link to="#">戰術介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>

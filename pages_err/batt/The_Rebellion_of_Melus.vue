@@ -59,20 +59,20 @@
                 "><ul>  <li>布亞城裡的木材，黃金和石頭三種資源都可以無限挖，資源採完會反覆生出來。</li><li>設法清除道路上的梅勒軍隊，盡可能建農田來採食物。</li><li>由於地形問題，村莊附近無法蓋碼頭，必須要跑到上面的外海才能蓋碼頭。</li><li>地圖南端有倫巴第的金礦，靠近後，就能直接接收村民，並幫玩家挖礦。</li></ul><div class="hrn1 "></div><div class="n1
                 "> <ul></ul></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="/
-                ">梅勒斯叛變</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Bari.2.jpg " width=" " alt="
+                ">       <div class="unititle "><nuxt-link to="/
+                ">梅勒斯叛變</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Bari.2.jpg " width=" " alt="
                 "></div>       </td>      </tr>      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle2 "><a href="/
-                ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3 ">版本</td>       <td class="unit4
+                ">       <div class="unititle2 "><nuxt-link to="/
+                ">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3 ">版本</td>       <td class="unit4
                 ">失落的帝國</td>      </tr>      <tr>        <td class="unit3 ">戰役</td>       <td class="unit4
-                ">巴里</td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><a href="/
-                ">拜占庭人</a></td>      </tr>
+                ">巴里</td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><nuxt-link to="/
+                ">拜占庭人</nuxt-link></td>      </tr>
 <tr><td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle2 "><a href="/
-                ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
+                ">       <div class="unititle2 "><nuxt-link to="/
+                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">失落的帝國第三章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4
-                ">       <a href=>抵達巴里</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/batt/The_Great_Ride
-                ">四面楚歌</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，阿湖協助編輯     </div> <div class="row
+                ">       <a href=>抵達巴里</nuxt-link>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <nuxt-link to="/batt/The_Great_Ride
+                ">四面楚歌</nuxt-link>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，阿湖協助編輯     </div> <div class="row
                 ">  <div class="col-md-12
                 ">  </div></div>      </div>    
         

@@ -11,10 +11,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬利或稱馬里，是資料片<a href="/games/ak">非洲王國</a
+            馬利或稱馬里，是資料片<nuxt-link to="/games/ak">非洲王國</nuxt-link
             >新增的文明，他位於西非，主要是以馬利帝國為範本（Manden
             Kurufaba）。歷史上，馬利以強調教育而聞名，他是當時世界上最大的教育中心之一，許多來自中國、中東與歐洲的學者在此研究學問。為了顯示這一特點，他們的團隊加分就是
-            <a href="/building/University">學院研</a>究快80%。
+            <nuxt-link to="/building/University">學院研</nuxt-link>究快80%。
           </p>
           <p>
             西非文化，非常重視婦女，當地的婦女甚至可以從軍。所以他們的特殊單位，飛刀女獵手，也是遊戲內唯一可以訓練的女性軍事單位。但在實際的歷史中，飛刀女獵手通常手拿的是步槍。雖然遊戲中她不拿步槍作為武器，但馬利人可以使用各種火藥單位。
@@ -30,8 +30,9 @@
           </p>
           <p>
             西非有許多步兵戰鬥力十分優秀，經常以優越的協調性贏得勝利。因此在遊戲中，他們的步兵單位從封建時代開始，每升級一個時代都可以獲得額外的遠程裝甲。讓他們的遠程防禦媲美
-            <a href="/units/Eagle_Warrior">鷹勇士</a>與<a href="/units/Huskarl"
-              >哥德衛隊</a
+            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>與<nuxt-link
+              to="/units/Huskarl"
+              >哥德衛隊</nuxt-link
             >，使得弓箭手對他們的攻擊無效。
           </p>
         </div>
@@ -40,34 +41,34 @@
         <div class="n1">
           <p>
             世界第一Viper曾經說過，馬利是單挑最強的文明，因為他有優秀的經濟加分與優秀的兵種可以使用，在前期可以有效的打擊對手，而且後期的科技相當齊全，有
-            <a href="/units/Hand_Cannoneer">火槍兵</a>、遠防高達8的<a
-              href="/units/Champion"
-              >劍兵勇士</a
-            >以及<a href="/Siege_units/Onager"></a
+            <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+            >、遠防高達8的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+            >以及<nuxt-link to="/Siege_units/Onager"></nuxt-link
             >重型投石車，還有全遊戲最強的騎兵、
-            <a href="/units/Light_Cavalry">輕騎兵</a
-            >。但也缺乏一些重要科技，如護腕(帝王時代+1射程)與鼓風爐(近戰+2攻擊)，並且是遊戲中唯一有重型投石車卻沒有<a
-              href="/techs/Siege_Engineers"
-              >攻城工程師</a
+            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >。但也缺乏一些重要科技，如護腕(帝王時代+1射程)與鼓風爐(近戰+2攻擊)，並且是遊戲中唯一有重型投石車卻沒有<nuxt-link
+              to="/techs/Siege_Engineers"
+              >攻城工程師</nuxt-link
             >的文明，但無傷大雅，他仍是一個很有威脅性的文明。
           </p>
           <h3>特殊單位</h3>
           <p>
-            <img class="gg" src="~assets/GbetoIcon.png" /><a href="/units/Gbeto"
-              >飛刀女獵手</a
+            <img class="gg" src="~assets/GbetoIcon.png" /><nuxt-link
+              to="/units/Gbeto"
+              >飛刀女獵手</nuxt-link
             >:具有遠程攻擊的步兵單位，攻擊高速度快，但血很少。
           </p>
           <h3>特殊科技</h3>
           <p>
-            <img class="gg" src="~assets/CastleAgeUnique.png" /><a
-              href="/techs/Tigui"
-              >部落領袖</a
+            <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              to="/techs/Tigui"
+              >部落領袖</nuxt-link
             >:城鎮中心無須駐紮即可放箭。
           </p>
           <p>
-            <img class="gg" src="~assets/Unique-tech.jpg" /><a
-              href="/techs/Farimba"
-              >驃悍精神</a
+            <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+              to="/techs/Farimba"
+              >驃悍精神</nuxt-link
             >:所有騎兵額外獲得+5攻擊。
           </p>
         </div>
@@ -84,7 +85,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="/tree/mai">馬利科技樹</a></em>
+          <em><nuxt-link to="/tree/mai">馬利科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -104,9 +105,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="/img/Wondermalians.png"
+              <nuxt-link to="/img/Wondermalians.png"
                 ><img class="imgn hg" src="~assets/Wondermalians.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>馬利的世界奇觀，傑內大清真寺</em></p>
             </div>
           </div>
@@ -115,7 +116,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           遠在10世紀時，西非出現一個強大的馬利帝國，該帝國當時所統治的領土，曾包括今塞內加爾、幾內亞、象牙海岸、布吉納法索與迦納等地。而馬利為當時帝國的統治中心。據說1230年馬利帝國建國之時，在一次激烈的戰爭中，其國王和太子等12人，除後來有名的國王
-          <a href="/batt/Sundjataa">松迪亞塔</a>外，其餘同時被殺。
+          <nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link>外，其餘同時被殺。
         </div>
       </div>
       <div class="col-md-4">
@@ -149,9 +150,9 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/GbetoIcon.png" /><a
-                href="/units/Gbeto"
-                >飛刀女獵手</a
+              <img class="gg" src="~assets/GbetoIcon.png" /><nuxt-link
+                to="/units/Gbeto"
+                >飛刀女獵手</nuxt-link
               >
             </td>
           </tr>
@@ -162,14 +163,14 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" /><a
-                href="/techs/Tigui"
-                >部落領袖</a
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Tigui"
+                >部落領袖</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><a
-                href="/techs/Farimba"
-                >驃悍精神</a
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Farimba"
+                >驃悍精神</nuxt-link
               >
             </td>
           </tr>
