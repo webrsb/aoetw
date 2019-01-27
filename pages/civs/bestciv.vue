@@ -22,13 +22,13 @@
             <div style="text-align: center;"><strong>目錄</strong>
             </div>
             <ul>
-              <li><a href="#a1">阿拉伯</a>
+              <li><nuxt-link to="#a1">阿拉伯</nuxt-link>
               </li>
-              <li><a href="#a2">圍城</a>
+              <li><nuxt-link to="#a2">圍城</nuxt-link>
               </li>
-              <li><a href="#a3">黑森林</a>
+              <li><nuxt-link to="#a3">黑森林</nuxt-link>
               </li>
-              <li><a href="#a4">島嶼</a>
+              <li><nuxt-link to="#a4">島嶼</nuxt-link>
               </li>
             </ul>
           </div>
@@ -201,6 +201,7 @@
           </div>
         </div>
       </div>
+    </div>
 </template>
 <script>
 export default {

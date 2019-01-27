@@ -1,3 +1,4 @@
+const router = require('./router/router.js')
 const pkg = require('./package')
 
 module.exports = {
@@ -58,9 +59,14 @@ module.exports = {
     /*
     ** You can extend webpack config here
     */
-    quiet: false
+    quiet: false,
+    extend(config, ctx) {
+      if (process.env.NODE_ENV === 'development') {
+        return Object.assign({}, config, {
+          devtool: 'source-map'
+        })
+      }
+    }
   },
-  router: {
-    base: "/next"
-  }
+  router
 }

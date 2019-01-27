@@ -25,9 +25,9 @@
         >
           <div style="text-align: center;"><strong>目錄</strong></div>
           <ul>
-            <li><a href="#a1">基礎升級</a></li>
-            <li><a href="#a2">主流打法</a></li>
-            <li><a href="#a3">控兵技巧</a></li>
+            <li><nuxt-link to="#a1">基礎升級</nuxt-link></li>
+            <li><nuxt-link to="#a2">主流打法</nuxt-link></li>
+            <li><nuxt-link to="#a3">控兵技巧</nuxt-link></li>
           </ul>
         </div>
       </div>
