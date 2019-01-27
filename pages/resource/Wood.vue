@@ -76,7 +76,7 @@
 </template>
 <script>
 export default {
-  layout: 'foot',
+  layout: 'allre',
   components: {}
 }
 </script>
