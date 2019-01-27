@@ -10,8 +10,8 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>象弓騎兵是資料片中印度的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。是個速度慢但有重裝甲和高生命值的騎象射手。</p>
-            <p>象弓騎兵可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳象弓騎兵。</div>
+            <p>象弓騎兵是資料片中印度的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。是個速度慢但有重裝甲和高生命值的騎象射手。</p>
+            <p>象弓騎兵可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳象弓騎兵。</div>
            <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -183,7 +183,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

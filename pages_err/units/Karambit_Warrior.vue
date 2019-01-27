@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>可生產於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>，為<nuxt-link to="/civs/Malay">馬來</nuxt-link>的特殊單位。</p>
+            <p>可生產於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>，為<nuxt-link to="/civs/Malay">馬來</nuxt-link>的特殊單位。</p>
             <p>在遊戲裡只佔半個人口的的單位，是兼具便宜和快速的單位，缺點是過於脆弱。</p>
           </div>
            <h3>戰術</h3> 
@@ -239,7 +239,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

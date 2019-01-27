@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             無政府狀態是<nuxt-link to="/civs/Goths">哥德</nuxt-link
-            >可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在
+            >可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發，研發後玩家可以在<nuxt-link to="/building/Barracks"
               >軍營</nuxt-link
@@ -96,7 +96,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

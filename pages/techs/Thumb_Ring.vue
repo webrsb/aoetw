@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            拇指環於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            拇指環於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/Archery_Range">射箭場</nuxt-link
             >研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技<nuxt-link
               to="/techs/Ballistics"
@@ -339,7 +339,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

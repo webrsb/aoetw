@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>飛鏢騎兵<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+            <p>飛鏢騎兵<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。飛鏢騎兵是馬弓騎兵部隊破壞力極高但命中低，對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車系列</nuxt-link>有加成傷害。</p>
             <p>既使在<nuxt-link to="/news/ver5-7">5.7</nuxt-link>與在<nuxt-link to="/news/ver5-8">5.8</nuxt-link>兩次改版都削弱了不少，飛鏢騎兵仍是非常強悍的兵種，其擁有高殺傷力與射速，而且還跑的很快，也因為如此緬甸與三個南美國家並列為
               <nuxt-link to="/civs/bestciv">四大強國</nuxt-link>，不管在團戰還是單挑的比賽中都是常客。</p>
@@ -33,7 +33,7 @@
               <li>飛鏢騎兵在駐紮在<nuxt-link to="/building/Castle">城堡</nuxt-link>裡時，只需要12隻就可以射出城堡可射出箭量最大值21箭，因此在防禦時或者囤量時可以駐紮在城堡。</li>
               <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>可說是飛鏢騎兵的克制文明，首先<nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>本身對馬弓騎兵有加成再加上跑速跟射速又相當的優質因此飛鏢騎兵優勢不大，再者跟
                 <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>同盟射箭場可生產<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>這單位是標準的<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>騎乘版，擁有跑速升上精銳時對馬弓騎兵又有加成，因而柏柏在對面情況下可是極為壓制著飛鏢騎兵。</li>
-              <li>飛鏢騎兵可說是<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>最強大的兵種之一，不是針對飛鏢騎兵的單位上很容易吃虧加大自己的損害。</li>
+              <li>飛鏢騎兵可說是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>最強大的兵種之一，不是針對飛鏢騎兵的單位上很容易吃虧加大自己的損害。</li>
             </ul>
           </div>
            <h3>更多數據</h3>
@@ -180,7 +180,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

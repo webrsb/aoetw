@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>投石手是<nuxt-link to="/civs/Incas">印加</nuxt-link>的第二個獨特單位，可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在
+            <p>投石手是<nuxt-link to="/civs/Incas">印加</nuxt-link>的第二個獨特單位，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
               <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>生產，是一個反步兵的遠程單位。值得一提的是，投石手沒有精銳升級。</p>
           </div>
            <h3>戰術</h3> 
@@ -268,7 +268,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

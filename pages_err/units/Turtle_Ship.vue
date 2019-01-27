@@ -11,8 +11,8 @@
         <div class="col-md-8">
           <div class="n1">
             <p>龜甲船是<nuxt-link to="/civs/Koreans">韓國</nuxt-link>在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>資料片中的第二個特殊單位，在
-              <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。它是一艘重裝甲的火炮戰船。</p>
-            <p>龜甲船可在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳龜甲船。</p>
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。它是一艘重裝甲的火炮戰船。</p>
+            <p>龜甲船可在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳龜甲船。</p>
           </div>
            <h3>戰術</h3> 
           <div class="hrn1"></div>
@@ -341,7 +341,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

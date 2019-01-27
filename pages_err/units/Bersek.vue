@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>狂戰士是<nuxt-link to="/civs/Vikings">維京</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+            <p>狂戰士是<nuxt-link to="/civs/Vikings">維京</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。狂戰士是一個配備高護甲和高攻擊力的單位，而且他們還能自我療傷，在征服者入侵的版本中狂戰士的實用度非常低，在後面的版本修正後（增加速度與對騎兵的加成），實用度大大增加。狂戰士可以在
-                <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳狂戰士。</div>
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳狂戰士。</div>
            <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -282,7 +282,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -316,9 +316,9 @@
             <tr>
               <td class="unit3">血量</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>:61
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>:61
                 <br/>
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>:64/75(精銳)</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>:64/75(精銳)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊</td>

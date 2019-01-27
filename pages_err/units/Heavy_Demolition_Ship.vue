@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>重型神風船在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>的<nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。重型神風船上裝滿了爆炸物，可以對敵方的船隻，碼頭，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。重型神風船比神風船有更好的護甲、HP和更廣的爆炸範圍。他們可說是海上的爆炸桶。</p>
+            <p>重型神風船在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>的<nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。重型神風船上裝滿了爆炸物，可以對敵方的船隻，碼頭，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。重型神風船比神風船有更好的護甲、HP和更廣的爆炸範圍。他們可說是海上的爆炸桶。</p>
           </div>
            <h3>戰術</h3> 
           <div class="hrn1"></div>
@@ -360,7 +360,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -10,8 +10,8 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>哥德衛隊是哥德的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的城堡中訓練。哥德衛隊是一個對箭矢有相當高防禦的單位。哥德衛隊可以在
-              <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳哥德衛隊。</p>
+            <p>哥德衛隊是哥德的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的城堡中訓練。哥德衛隊是一個對箭矢有相當高防禦的單位。哥德衛隊可以在
+              <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳哥德衛隊。</p>
           </div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
@@ -268,7 +268,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

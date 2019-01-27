@@ -157,7 +157,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

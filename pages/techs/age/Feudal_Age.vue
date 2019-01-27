@@ -415,7 +415,7 @@
               <div class="n1">
                 <p>
                   封建時代通常是不同文明開始脫穎而出的地方。弓箭手，騎兵和海上文明可以開始在這個時代訓練他們的基本單位。封建時代也是軍事衝突開始發生的地方。玩家應該考慮開採石礦，準備在
-                  <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+                  <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
                   >建造威力強大的<nuxt-link to="/building/Castle"
                     >城堡</nuxt-link
                   >。玩家也應該開始消除城鎮旁的漏洞，用圍牆或是建築搭配天然障礙物以防止其他玩家的早期攻擊。
@@ -476,7 +476,7 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -487,7 +487,7 @@
                 src="~assets/Castle-age-reseach.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

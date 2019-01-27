@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>神風船在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。在戰船升級成弩炮戰船時，自爆筏會自動升級為神風船。</p>
+            <p>神風船在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。在戰船升級成弩炮戰船時，自爆筏會自動升級為神風船。</p>
             <p>神風船上裝滿了爆炸物，可以對敵方的船隻，碼頭，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。</p>
             <p>除<nuxt-link to="/civs/Koreans">韓國</nuxt-link>外，所有文明均可使用自爆筏。</p>
           </div>
@@ -343,7 +343,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

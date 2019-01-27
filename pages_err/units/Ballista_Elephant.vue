@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>弩砲象<nuxt-link to="/civs/Khmer">高棉</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+            <p>弩砲象<nuxt-link to="/civs/Khmer">高棉</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。弩砲象這是一種混合型單位是由騎兵加攻城武器混合型單位，攻擊模式類似<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>，弩砲象是可以砸掉樹木的。</p>
           </div>
            <h3>戰術要點</h3>
@@ -19,7 +19,7 @@
             <ul>
               <li>弩砲象跟<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>的<nuxt-link to="/units/Organ_Gun">手風琴砲</nuxt-link>，同樣是特殊單位屬攻城武器單位。跟大部分攻城武器的優勢和劣勢一樣擁有範圍射程對大量單位效果好，但注意的是他可以用
                 <nuxt-link to="/units/Monk">僧侶</nuxt-link>進行補血。</li>
-              <li>弩砲象是目前在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>唯一可以砍樹的軍事單位，因此在樹很多的地圖上擁有一定戰術上優勢(例:黑森林)。</li>
+              <li>弩砲象是目前在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>唯一可以砍樹的軍事單位，因此在樹很多的地圖上擁有一定戰術上優勢(例:黑森林)。</li>
               <li>弩砲象整體戰力都比<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>來的強大，移動速度比較高、血較多、沒有攻擊最小範圍、近戰時擁有踐踏傷害、裝甲也比較高因此
                 <nuxt-link to="/civs/Khmer">高棉</nuxt-link>這弩砲文明裡可量產情況下弩砲象是比較好的選擇。</li>
               <li>弩砲象的裝甲是少數擁有多裝甲(<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>、<nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link>、
@@ -390,7 +390,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -25,7 +25,7 @@
         <div class="row">
           <div class="col-md-4">
             <div class="n1">
-              <h4><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link></h4>
+              <h4><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link></h4>
               <ul>
                 <li>
                   <img class="gg" src="~assets/TradeCartIcon.jpg" />貿易車隊
@@ -36,7 +36,7 @@
           </div>
           <div class="col-md-4">
             <div class="n1">
-              <h4><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link></h4>
+              <h4><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link></h4>
               <ul>
                 <li><img class="gg" src="~assets/CaravanII.png" />大商隊</li>
                 <li><img class="gg" src="~assets/Coinage.jpg" />鑄幣術</li>
@@ -46,7 +46,7 @@
           <div class="col-md-4">
             <div class="n1">
               <h4>
-                <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </h4>
               <ul>
                 <li><img class="gg" src="~assets/Banking.jpg" />銀行制度</li>
@@ -293,7 +293,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

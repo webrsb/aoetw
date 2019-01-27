@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>弩兵在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/Archery_Range">射箭場</nuxt-link>訓練，可以有效率的屠殺
+            <p>弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/Archery_Range">射箭場</nuxt-link>訓練，可以有效率的屠殺
               <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>與<nuxt-link to="/units/Villager">村民</nuxt-link>，但對抗<nuxt-link to="/units/Knight">騎士</nuxt-link>、
                 <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>與<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link>較弱。</p>
             <p>除了西班牙人之外，所有文明都有弩兵。</p>
@@ -308,7 +308,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

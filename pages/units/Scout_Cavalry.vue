@@ -418,7 +418,7 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -494,14 +494,14 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>:1.2
+              /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>:1.2
               <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
               >之後:1.55
             </td>
           </tr>
@@ -513,28 +513,28 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>:4
+              /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>:4
               <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>:6
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>:6
               <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>:8
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>:8
               <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>:10
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>:10
             </td>
           </tr>
           <tr>

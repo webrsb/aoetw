@@ -194,13 +194,13 @@
               <li><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link>攻擊+2。</li>
               <li>引入<nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>。</li>
               <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
-              <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>:引入<nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>。只能在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>研發</li>
+              <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>:引入<nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>。只能在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>研發</li>
               <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>:引入<nuxt-link to="/techs/Crenellations">垛口</nuxt-link>。</li>
             </ul>
             <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
               <li><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>的攻擊力為7。</li>
-              <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>:引入<nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>。可在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>研發</li>
+              <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>:引入<nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>。可在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>研發</li>
               <li><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link to="/techs/Stronghold">堡壘</nuxt-link>。</li>
               <li><nuxt-link to="/civs/Japanese">日本</nuxt-link>:引入<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link>，可讓箭塔可發射額外三支箭。</li>
               <li><nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>建造速度快33%。</li>
@@ -259,7 +259,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

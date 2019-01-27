@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/building/University">學院</nuxt-link
-            >或稱為大學，在<nuxt-link to="/techsage/Castle_Age"
+            >或稱為大學，在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >後能建造。學院可研發科技強化建築和遠距離單位。
           </p>
@@ -48,7 +48,7 @@
             <div class="col-md-6">
               <div class="n1">
                 <h4>
-                  <nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代
+                  <nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代
                 </h4>
                 <ul>
                   <li>
@@ -108,7 +108,7 @@
             <div class="col-md-6">
               <div class="n1">
                 <h4>
-                  <nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代
+                  <nuxt-link to="/techs/age/Imperial_Age"></nuxt-link>帝王時代
                 </h4>
                 <ul>
                   <li>
@@ -401,7 +401,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

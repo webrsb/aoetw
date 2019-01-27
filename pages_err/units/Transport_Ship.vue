@@ -19,7 +19,7 @@
            <h3>戰術</h3> 
           <div class="hrn1"></div>
           <div class="n1">
-            <p>從<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>開始，運輸船就可以在水上進行偷襲、偵查。也可以利用運輸船來欺騙敵人；玩家可以用幾個便宜的單位駐防在運輸船內，並讓對手來追擊他們。引開敵人的主力，趁機發動攻擊。</p>
+            <p>從<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>開始，運輸船就可以在水上進行偷襲、偵查。也可以利用運輸船來欺騙敵人；玩家可以用幾個便宜的單位駐防在運輸船內，並讓對手來追擊他們。引開敵人的主力，趁機發動攻擊。</p>
             <p>運輸船在大型水域地圖中是不可或缺的，因為沒有其他方法可以讓陸上單位在島嶼間通行。</p>
             <p>如果裝有駐軍的運輸船被招降，其中的駐軍並不會被招降，玩家必須要摧毀運輸船才可以殺死敵方單位。另一個涉及運輸船的策略是利用這個戰術，把敵人的駐軍留在裡面，因為敵人無法使用，所以導致敵人會卡人口並無人可用。</p>
             <p>值得一提的是，搬有 <nuxt-link to="/Relic">遺跡</nuxt-link>的 <nuxt-link to="/units/Monk">僧侶</nuxt-link>要是在運輸船中，而船被摧毀時，遺跡則會回到原本僧侶上船的地方。</p>
@@ -297,7 +297,7 @@
           <div class="n1">
             <h3><em><nuxt-link to="/games/aok">世紀帝國</nuxt-link></em></h3>
             <ul>
-              <li>運輸船在<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>就可以訓練。</li>
+              <li>運輸船在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>就可以訓練。</li>
               <li><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>減少20%船隻木材成本。</li>
               <li><nuxt-link to="/civs/Vikings">維京</nuxt-link>:運輸船成本便宜20%。</li>
             </ul>
@@ -308,7 +308,7 @@
             </ul>
             <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
-              <li>運輸船在<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>就可以訓練。</li>
+              <li>運輸船在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>就可以訓練。</li>
               <li><nuxt-link to="/civs/Vikings">維京</nuxt-link>：運輸船在黑暗/封建/城堡/帝王時代便宜10%/10%/15%/20%</li>
             </ul>
             <h3><em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em></h3>
@@ -356,7 +356,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Dark-age-logo-small.jpg" alt=""><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+                <img class="gg" src="~assets/Dark-age-logo-small.jpg" alt=""><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
               </td>
             </tr>
             <tr>

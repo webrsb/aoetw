@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>精銳火炮戰船在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>的<nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。要訓練精銳火炮戰船得先升級精銳火炮戰船科技。升級後射程更遠，攻擊更高，擅長摧毀陸上建築，但對船隻的反應能力較弱。</p>
+            <p>精銳火炮戰船在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>的<nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。要訓練精銳火炮戰船得先升級精銳火炮戰船科技。升級後射程更遠，攻擊更高，擅長摧毀陸上建築，但對船隻的反應能力較弱。</p>
           </div>
            <h3>戰術</h3> 
           <div class="hrn1"></div>
@@ -389,7 +389,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

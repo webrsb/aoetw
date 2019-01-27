@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>垛孔可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link> 研發。可移除箭塔和城堡的最小射程限制。</p>
+            <p>垛孔可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link> 研發。可移除箭塔和城堡的最小射程限制。</p>
             <p>垛孔於實戰中幾乎不會用，因為可以用交叉火力掩護代替，或是使用近戰單位保護(村民也可)，在城堡或箭塔旁邊蓋牆或其他建築物也可以；另外這100石頭拿去蓋額外的城鎮中心爆經濟會比研發該科技有用的多。</p>
           </div>
            <h3>文明加成</h3> 
@@ -98,7 +98,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

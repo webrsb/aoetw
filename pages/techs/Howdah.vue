@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             象轎是<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -144,7 +144,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

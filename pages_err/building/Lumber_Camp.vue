@@ -11,14 +11,14 @@
         <div class="col-md-8">
           <div class="n1">
             <p>伐木場顧名思義，最佳的建築位置絕對是在森林旁，這樣才可以使村民在最佳效率狀況下收集木材，而這距離建議是一個格子和三名以上的村民伐木，當你發現村民開始需要走點距離時就可以準備蓋出下一個離森林更近的伐木場。</p>
-            <p>在黑暗時代時，木材和食物可以說是在這時最重要的，而大多數玩家會將城鎮中心周遭的3-4棵樹木砍掉，之後就必須建立起第一座伐木場。在進入<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>的前置建築伐木場就是其中之一，而它只需100的木材，所以伐木場與磨坊通常是進入封建時代最經濟又實惠的方式。</p>
+            <p>在黑暗時代時，木材和食物可以說是在這時最重要的，而大多數玩家會將城鎮中心周遭的3-4棵樹木砍掉，之後就必須建立起第一座伐木場。在進入<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>的前置建築伐木場就是其中之一，而它只需100的木材，所以伐木場與磨坊通常是進入封建時代最經濟又實惠的方式。</p>
           </div>
           <h3>可研發的技術</h3>
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-4">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Feudal_Age"></nuxt-link>封建時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Feudal_Age"></nuxt-link>封建時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Doublebitaxe.jpg" alt=""><nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>
@@ -28,7 +28,7 @@
             </div>
             <div class="col-md-4">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Bowsaw.jpg" alt=""><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link>
@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-4">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Imperial_Age"></nuxt-link>帝王時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Twomansaw.jpg" alt=""><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link>
@@ -178,7 +178,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
               </td>
             </tr>
             <tr>

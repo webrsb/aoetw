@@ -14,7 +14,7 @@
             style="text-align: left;margin-top: 10px;">-遊戲的描述</p>
           </div>
           <div class="n1">奴隸兵又稱為馬穆魯克。是薩拉森的特殊單位。對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>有加成傷害的短距離(近戰傷害)駱駝單位。奴隸兵能夠在
-            <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級成精銳奴隸兵。</div>
+            <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級成精銳奴隸兵。</div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -382,7 +382,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

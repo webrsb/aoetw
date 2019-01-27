@@ -30,14 +30,14 @@
             <div class="n1">
               <li>
                 除了城牆之外，房子是遊戲中最便宜的建築物。其功能是增加人口容量。在<nuxt-link
-                  to="/techsage/Dark_Age"
+                  to="/techs/age/Dark_Age"
                   >黑暗時代</nuxt-link
                 >，房子是玩家應該建造的第一座建築（除非他們扮演的是
                 <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>或<nuxt-link
                   to="/civs/Chinese"
                   >中國人</nuxt-link
                 >）。事實上，除了建立新的村民和收集食物之外，建造房屋應該是首先要做的事情。在推進至
-                <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
                 >之前，建議至少建造四座房屋。
               </li>
               <li>
@@ -353,7 +353,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+              <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
           </tr>
           <tr>

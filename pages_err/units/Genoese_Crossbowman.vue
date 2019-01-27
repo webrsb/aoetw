@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>熱那亞弩手是<nuxt-link to="/games/aof">失落的帝國</nuxt-link>資料片中義大利的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+            <p>熱那亞弩手是<nuxt-link to="/games/aof">失落的帝國</nuxt-link>資料片中義大利的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。是個對騎兵有攻擊加成的弓兵。</p>
-            <p>熱那亞弩手可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳熱那亞弩手。</div>
+            <p>熱那亞弩手可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳熱那亞弩手。</div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -259,7 +259,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

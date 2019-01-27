@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
-            是一個在世紀帝國II到達<nuxt-link to="/techsage/Castle_Age"
+            是一個在世紀帝國II到達<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >後能建造的建築，玩家間俗稱為TC。它能訓練村民、加速村民採集資源的速率、還是資源收集站，同時也支援5個人口上限。在世紀帝國中可說是最重要的建築物也不為過。
           </p>
@@ -48,7 +48,7 @@
           <div class="row">
             <div class="col-md-4">
               <div class="n1">
-                <h4><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link></h4>
+                <h4><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link></h4>
                 <ul>
                   <li>
                     <img
@@ -62,7 +62,7 @@
                       class="gg"
                       src="~assets/Feudal-age-reseach.jpg"
                       alt=""
-                    /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                    /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Loom.jpg" alt="" /><nuxt-link
@@ -76,7 +76,7 @@
             <div class="col-md-4">
               <div class="n1">
                 <h4>
-                  <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                  <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
                 </h4>
                 <ul>
                   <li>
@@ -91,7 +91,7 @@
                       class="gg"
                       src="~assets/Castle-age-reseach.jpg"
                       alt=""
-                    /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                    /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -106,7 +106,7 @@
             <div class="col-md-4">
               <div class="n1">
                 <h4>
-                  <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                  <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
                 </h4>
                 <ul>
                   <li>
@@ -121,7 +121,7 @@
                       class="gg"
                       src="~assets/Imperial-age-research.jpg"
                       alt=""
-                    /><nuxt-link to="/techsage/Imperial_Age"
+                    /><nuxt-link to="/techs/age/Imperial_Age"
                       >帝王時代</nuxt-link
                     >
                   </li>
@@ -530,7 +530,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

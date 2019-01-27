@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>垛牆是防禦性建築，升到<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>後在<nuxt-link to="/building/University">學院</nuxt-link>研究垛牆方可建造，是一個很好的防禦建築。</p>
+            <p>垛牆是防禦性建築，升到<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>後在<nuxt-link to="/building/University">學院</nuxt-link>研究垛牆方可建造，是一個很好的防禦建築。</p>
           </div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
@@ -150,7 +150,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

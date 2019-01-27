@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            獨輪推車可於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            獨輪推車可於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >研發。研發後村民移動速度快10%，每趟可攜帶資源量+25%(從10增加為13，所以實際是30%)。
           </p>
@@ -77,7 +77,7 @@
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -26,7 +26,7 @@
               <p>僧侶是一個多功能單位，在城堡時代以後扮演著重要的角色，包括收集<nuxt-link to="/Relic">遺跡</nuxt-link> ，騷擾對手的資源節點，擾亂對手戰線，阻擋騎士的侵略以及治療受傷的單位。</p>
               <h3>科技</h3>
               <p>以下科技影響僧侶</p>
-              <div class="col-md-12"> <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link> 
+              <div class="col-md-12"> <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Redemption.jpg" alt=""><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>:僧侶可招降大部分建築物和攻城單位。</li>
@@ -50,7 +50,7 @@
                     <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><nuxt-link to="/techs/Orthodoxy">東正教</nuxt-link>:僧侶護甲+3/+3。(斯拉夫限定)</li>
                 </ul>
               </div>
-              <div class="col-md-12"> <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link> 
+              <div class="col-md-12"> <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Faith.jpg" alt=""><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>:單位對僧侶(傳教士)的招降更具抵抗力。</li>
@@ -73,12 +73,12 @@
               <p>優異的僧侶文明（如阿茲特克人，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>，<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>，
                 <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>和<nuxt-link to="/civs/Teutons">條頓</nuxt-link>）甚至可以進行僧侶快攻。這極具侵略性，因為被快攻的玩家很可能沒有研發異教邪說，若用僧侶反制則需花費大量的黃金。
                   <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>也可以僧侶快攻，因為他們的僧侶便宜了15％，只花費85黃金。<nuxt-link to="/civs/Teutons">條頓</nuxt-link>的僧侶可以輕易地對抗早期僧侶快攻，因為他們的文明利益可讓單位更能抵抗招降（可與帝王時代的忠誠信仰疊加）。</p>
-              <p>在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>，研發印刷技術可增加僧侶的招降距離，但是在帝王時代，玩家的軍隊變得更加強大，這使得僧侶更顯脆弱。幾乎所有的步兵和騎兵部隊都能三下殺死僧侶，弓箭手通常只需要五箭。攻城部隊對僧侶來說也是致命的。對於依賴僧侶的玩家來說，這是一個巨大的問題。此外，隨著忠誠信仰的出現，招降的效益顯著減少。另一個問題是招降需要大量的微操作，因為僧侶不會自動招降（僧侶在系統設定為非激進立場）。這意味著玩家總得時時注意戰場並手動招降。在遊戲的後期階段，當戰鬥較大，發生在多個地點時，幾乎不可能有時間指揮僧侶。如果只有一個主戰場，那麼玩家仍然可以招降遊俠，戰象或貴族鐵騎等關鍵單位，並且僧侶遠離威脅。</p>
+              <p>在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>，研發印刷技術可增加僧侶的招降距離，但是在帝王時代，玩家的軍隊變得更加強大，這使得僧侶更顯脆弱。幾乎所有的步兵和騎兵部隊都能三下殺死僧侶，弓箭手通常只需要五箭。攻城部隊對僧侶來說也是致命的。對於依賴僧侶的玩家來說，這是一個巨大的問題。此外，隨著忠誠信仰的出現，招降的效益顯著減少。另一個問題是招降需要大量的微操作，因為僧侶不會自動招降（僧侶在系統設定為非激進立場）。這意味著玩家總得時時注意戰場並手動招降。在遊戲的後期階段，當戰鬥較大，發生在多個地點時，幾乎不可能有時間指揮僧侶。如果只有一個主戰場，那麼玩家仍然可以招降遊俠，戰象或貴族鐵騎等關鍵單位，並且僧侶遠離威脅。</p>
               <h3>治療</h3>
               <p>僧侶能夠治療友方單位（每0.4秒恢復1生命 ）。僧侶通常搭配弓箭手，因為他們很容易控制，並且容易防守。但攻城武器對這個組合而言是一個嚴重威脅。玩家應該根據自己的部隊大小，搭配2到10名僧侶，在戰鬥中治療受傷部隊。僧侶應該盡量遠離危險，讓受傷的單位應該來到僧侶身邊，而不是讓僧侶衝向戰場，否則他們很容易成為目標。
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>和<nuxt-link to="/civs/Teutons">條頓</nuxt-link>在遊戲中分別有更快的治癒率和更長的治療範圍。西班牙傳教士則有較快的移動速度可以跟上軍隊。</p>
               <h3>防禦</h3>
-              <p>修道院不是軍事建築，且進入<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>後就可直接建造。這對於蓋<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>和
+              <p>修道院不是軍事建築，且進入<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>後就可直接建造。這對於蓋<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>和
                 <nuxt-link to="/building/Market">市場</nuxt-link>用來進入城堡時代的爆經濟戰略是重要的。在達到城堡時代之後，玩家將很難走出定點，因此他們需要建造<nuxt-link to="/building/Barracks">軍營</nuxt-link>、有
                   <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>和<nuxt-link to="/building/Stable">馬廄</nuxt-link>，然後開始生產尚未升級的單位做防禦。相較之下，修道院可以馬上建造，僧侶可以立即生產，他們的功能齊全，搭配
                     <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link>的<nuxt-link to="/units/Mangonel">投石車</nuxt-link>，玩家將可以最小的投資對<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link>，
@@ -251,7 +251,7 @@
               </tr>
               <tr>
                 <td class="unit3">時代</td>
-                <td class="unit4"><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <td class="unit4"><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
                 </td>
               </tr>
               <tr>

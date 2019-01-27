@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            雙刃斧是<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            雙刃斧是<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             ><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
             >的科技，研發後可使村民收集木材的速度增快20%。此科技非常重要，最好一上封建立即研發。當然你打的是城堡快攻，可以在點城堡後再研發。
           </p>
@@ -68,7 +68,7 @@
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

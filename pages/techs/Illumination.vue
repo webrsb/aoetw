@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            啟發教化可於<nuxt-link to="/techsage/Imperial_Age"
+            啟發教化可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>研發，
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -147,7 +147,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

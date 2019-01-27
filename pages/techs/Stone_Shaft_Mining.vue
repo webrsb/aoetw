@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            礦井採石是<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            礦井採石是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             ><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
             >的科技，研發後可使村民收集石礦的速度增快15%。
           </p>

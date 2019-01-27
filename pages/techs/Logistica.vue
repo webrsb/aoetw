@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             後勤學是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age"
+            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -95,7 +95,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

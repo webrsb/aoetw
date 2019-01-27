@@ -20,7 +20,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            民兵，在亞洲華人圈俗稱棒棒，是<nuxt-link to="/techsage/Dark_Age"
+            民兵，在亞洲華人圈俗稱棒棒，是<nuxt-link to="/techs/age/Dark_Age"
               >黑暗時代</nuxt-link
             >唯一能生產的軍事單位，早年大家覺得民兵沒什麼用處，但隨著時代的變遷，今天的民兵已經變成一種主流打法，控制得宜可以有效的騷擾對方經濟，取得非常大的優勢。以步兵為主的文明，如
             <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
@@ -597,7 +597,7 @@
                 class="gg"
                 src="~assets/Dark-age-logo-small.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
           </tr>
           <tr>

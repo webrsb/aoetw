@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>預熱射擊，舊稱『火箭』可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發，箭塔對船隻的攻擊力+125%，
+            <p>預熱射擊，舊稱『火箭』可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發，箭塔對船隻的攻擊力+125%，
               <nuxt-link to="/building/Castle">城堡</nuxt-link>和<nuxt-link to="/building/Harbor">海港</nuxt-link>則+4。</p>
           </div>
            <h3>文明可研發與否</h3> 
@@ -130,7 +130,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

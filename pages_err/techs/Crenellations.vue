@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>垛口是<nuxt-link to="/civs/Teutons">條頓</nuxt-link>的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>在
+            <p>垛口是<nuxt-link to="/civs/Teutons">條頓</nuxt-link>的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>在
               <nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後城堡攻擊範圍+3，步兵駐紮可放箭。</p>
           </div>
            <h3>戰術要點</h3>
@@ -73,7 +73,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

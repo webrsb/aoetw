@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>長槍兵是<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link>，在<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>可以從軍營生產。華人圈喜歡稱長槍兵為「XX(音同叉叉)」、斗笠、搓搓。</p>
+            <p>長槍兵是<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link>，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>可以從軍營生產。華人圈喜歡稱長槍兵為「XX(音同叉叉)」、斗笠、搓搓。</p>
             <p>初期是防禦敵人<nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>的優秀兵種。</p>
             <p>長槍兵是專門克制騎馬的單位(<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>例外);長槍兵被<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、
               <nuxt-link to="/units/Archer">弓箭手</nuxt-link>、<nuxt-link to="/units/Militia">步兵</nuxt-link>克制。</p>
@@ -357,7 +357,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </td>
             </tr>
             <tr>

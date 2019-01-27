@@ -611,7 +611,7 @@
                 src="~assets/Imperial-age-research.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

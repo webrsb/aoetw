@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>漁網是<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>的經濟建築之一，在建成<nuxt-link to="/building/Dock">港口</nuxt-link>後就可以使用。漁網提供715食物，只有
+            <p>漁網是<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>的經濟建築之一，在建成<nuxt-link to="/building/Dock">港口</nuxt-link>後就可以使用。漁網提供715食物，只有
               <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>能夠建築和採集它。</p>
             <h3>技巧</h3> 
             <p>漁網同時只能被一艄<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>採集。漁網非常脆弱而且並不會阻擋友方或敵方的單位；即使是敵方的
@@ -155,7 +155,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </td>
             </tr>
             <tr>

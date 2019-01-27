@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            到了<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link
+            到了<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >雙手劍兵可以在<nuxt-link to="/building/Barracks">兵營</nuxt-link
             >被訓練。這是民兵的第四級升級。
           </p>
@@ -655,7 +655,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

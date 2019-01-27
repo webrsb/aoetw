@@ -333,7 +333,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><nuxt-link to="/units/Onager">中型投石車</nuxt-link>是一個遠程攻城單位 ，玩家必須先升級到<nuxt-link to="/techsage/Castle_Age">帝王時代</nuxt-link>，研發科技後才可以在攻城器製造所進行訓練。
+            <p><nuxt-link to="/units/Onager">中型投石車</nuxt-link>是一個遠程攻城單位 ，玩家必須先升級到<nuxt-link to="/techs/age/Castle_Age">帝王時代</nuxt-link>，研發科技後才可以在攻城器製造所進行訓練。
               它主要用來對付大群敵人。 它特別的<nuxt-link to="/elements/Area_of_Effect">濺射傷害</nuxt-link>使它成為一個強大的單位，特別是對弓箭手和緩慢移動的單位。
               <nuxt-link to="/units/Onager">中型投石車</nuxt-link>還 可以攻擊地面並砍除樹木，在黑森林或樹木過多的封閉地形，它的價值顯得額外重要，除了<nuxt-link to="/civs/Huns">匈奴人</nuxt-link>和
                 <nuxt-link to="/civs/Turks">土耳其人</nuxt-link>之外，其它文明都可以透過<nuxt-link to="/Siege_Workshop">攻城器製造所</nuxt-link>將<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>升級成
@@ -287,7 +287,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

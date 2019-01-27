@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            縱火於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            縱火於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在軍營研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >對
@@ -108,7 +108,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

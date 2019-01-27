@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            草藥學於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在
+            草藥學於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Monastery">修道院</nuxt-link>
             研發後可讓駐紮單位的自癒速度提升300%。箭塔中每分鐘回24HP，城堡則是每分鐘回48HP
           </p>
@@ -143,7 +143,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            採金技術是<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            採金技術是<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             ><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
             >的科技，研發後可使村民收集金礦的速度增快15%。
           </p>
@@ -69,7 +69,7 @@
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -157,7 +157,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
               </td>
             </tr>
             <tr>

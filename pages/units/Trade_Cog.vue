@@ -663,7 +663,7 @@
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

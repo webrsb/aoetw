@@ -14,7 +14,7 @@
               <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>。</p>
             <p>火蒙衝、<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link>都是在<nuxt-link to="/games/ak">非洲王國</nuxt-link>資料片的時候一起推出的，使封建時代海戰才有更多的可看性，而不是只能看到一堆戰船的海戰。</p>
             <p>而<nuxt-link to="/civs/Vikings">維京</nuxt-link>成了全文明中唯一不能出火蒙衝的國家，這也使得在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>時代的海戰強國，搖身一變成海戰初期弱勢文明，在
-              <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>遇到敵方的火蒙衝時，將顯得相當無助。</p>
+              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>遇到敵方的火蒙衝時，將顯得相當無助。</p>
             <p><strong>不可生產文明：</strong>維京</p>
           </div>
            <h3>戰術</h3> 
@@ -339,7 +339,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </td>
             </tr>
             <tr>

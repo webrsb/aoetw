@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>輕騎兵是<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link>，對
+            <p>輕騎兵是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link>，對
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>有額外的加成。</p>
           </div>
           <h3>文明可訓練與否</h3> 
@@ -336,7 +336,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -404,9 +404,9 @@
             <tr>
               <td class="unit3">視野</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>:8
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" width="30" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>:8
                 <br/>
-                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代:</nuxt-link>10</td>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代:</nuxt-link>10</td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">

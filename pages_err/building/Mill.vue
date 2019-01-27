@@ -12,12 +12,12 @@
           
           
             <div class="n1">
-              <p>磨坊是<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>的經濟建築之一，<nuxt-link to="/units/Villager">村民</nuxt-link>可以將"任何"食物搜集至此。當然這裡也有關於
+              <p>磨坊是<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>的經濟建築之一，<nuxt-link to="/units/Villager">村民</nuxt-link>可以將"任何"食物搜集至此。當然這裡也有關於
                 <nuxt-link to="/building/Farm">農田</nuxt-link>的科技可以升級或是備用的農田排序。</p>
-              <p>在<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>有許多重要的經濟建築，而磨坊就是其中之一，不管在遊戲的什麼時期它的位置都不可取代，因為它是
+              <p>在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>有許多重要的經濟建築，而磨坊就是其中之一，不管在遊戲的什麼時期它的位置都不可取代，因為它是
                 <nuxt-link to="/units/Villager">村民</nuxt-link>放置食物的地方，所以將它建在<nuxt-link to="/Berry_Bush.php">果樹叢</nuxt-link>、<nuxt-link to="/unitsanimal/Deer">鹿群</nuxt-link>此種食物來源的旁邊是最好的，而像是
                   <nuxt-link to="/Wild_Boar.php">野豬</nuxt-link>這種可以驅趕或引誘至城鎮中心的的動物就沒有必要再為了牠們而去建造。而實際上在高手對戰中，也很少為了鹿群而去蓋磨坊，他們多數是用驅趕的。</p>
-              <p>在進入<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>前會需要兩種<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>的建築，而磨坊的重要性使得它必定是玩家的優先所選，它甚至還是
+              <p>在進入<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>前會需要兩種<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>的建築，而磨坊的重要性使得它必定是玩家的優先所選，它甚至還是
                 <nuxt-link to="/building/Market">市集</nuxt-link>、<nuxt-link to="/building/Farm">農田</nuxt-link>的前置建築。</p>
               <p>磨坊有一項很實用的功能:備用農田，這可以大量減少玩家的時間和控制力，它的成本和建造農田是一樣的，這可以使得你的農民不會在農田荒廢後站在原地發呆，當然，如果你手頭上的木材很吃緊你也可以將備用農田取消去取得木材。</p>
               <p><strong>磨坊的蓋法</strong>
@@ -32,7 +32,7 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="n1">
-                   <h4><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link></h4> 
+                   <h4><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link></h4> 
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Horsecollar.jpg" alt=""><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>
@@ -42,7 +42,7 @@
               </div>
               <div class="col-md-4">
                 <div class="n1">
-                   <h4><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link></h4> 
+                   <h4><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link></h4> 
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Heavyplow.jpg" alt=""><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>
@@ -52,7 +52,7 @@
               </div>
               <div class="col-md-4">
                 <div class="n1">
-                   <h4><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link></h4> 
+                   <h4><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></h4> 
                   <ul>
                     <li>
                       <img class="gg" src="~assets/Croprotation.jpg" alt=""><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>
@@ -208,7 +208,7 @@
               </tr>
               <tr>
                 <td class="unit3">時代</td>
-                <td class="unit4"><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+                <td class="unit4"><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
                 </td>
               </tr>
               <tr>

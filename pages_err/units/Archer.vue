@@ -9,11 +9,11 @@
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
-          <div class="n1">弓兵於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>的<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>訓練，雖然血量與攻擊都不高。但因為是遠程單位，而使得他格外具有威脅性，早期克制
+          <div class="n1">弓兵於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>的<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>訓練，雖然血量與攻擊都不高。但因為是遠程單位，而使得他格外具有威脅性，早期克制
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>及有效屠殺對方<nuxt-link to="/units/Villager">村民</nuxt-link>的明智選擇。</div>
            <h3>戰術</h3>
           <div class="hrn1"></div>
-          <div class="n1">弓兵由於是遠程兵種，在<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>就相當的致命，可以有效屠殺<nuxt-link to="/units/Villager">村民</nuxt-link>來擾亂敵人的經濟，在數量成形前比較怕
+          <div class="n1">弓兵由於是遠程兵種，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>就相當的致命，可以有效屠殺<nuxt-link to="/units/Villager">村民</nuxt-link>來擾亂敵人的經濟，在數量成形前比較怕
             <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>與<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>，但在數量成形後，相對不怕 <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>。相較於
               <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>，弓兵比較不怕對手圍牆。而成本上不花費食物，可以讓玩家更快的推進到<nuxt-link to="/units/Scout_Cavalry">城堡時代</nuxt-link>。即使對方上了城堡出了
                 <nuxt-link to="/units/Knight">騎士</nuxt-link>，依靠著大量弓兵，對方還是會有所忌憚。而弓兵駐紮<nuxt-link to="/units/Watch_Tower">箭塔</nuxt-link>裡則可以放出更多的箭矢，增加威力。</div>
@@ -306,7 +306,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt=""><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              <img class="gg" src="~assets/Feudal-age-reseach.jpg" width="30" alt=""><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

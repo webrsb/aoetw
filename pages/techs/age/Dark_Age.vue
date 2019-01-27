@@ -27,7 +27,7 @@
             <nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>替代斥侯騎兵。
           </p>
           <p>
-            斥侯騎兵/鷹斥侯在到達<nuxt-link to="/techsage/Feudal_Age"
+            斥侯騎兵/鷹斥侯在到達<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >前都無法訓練。如果最初的城鎮中心被摧毀了，可以重蓋一個新的。
           </p>
@@ -263,7 +263,7 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
         </table>

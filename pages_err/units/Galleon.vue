@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>重型弩砲戰船在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>時可以在碼頭中被訓練。重型弩砲戰船是海戰的主要輸出，大多數文明都能訓練重型弩砲戰船，但這時數量就很重要了，數量夠多就能夠掌控海上形勢，並能夠快速地殲滅敵方船艦、碼頭，但注意的是重型弩砲戰船很被
+            <p>重型弩砲戰船在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>時可以在碼頭中被訓練。重型弩砲戰船是海戰的主要輸出，大多數文明都能訓練重型弩砲戰船，但這時數量就很重要了，數量夠多就能夠掌控海上形勢，並能夠快速地殲滅敵方船艦、碼頭，但注意的是重型弩砲戰船很被
               <nuxt-link to="/units/Fire_Galley">火戰船</nuxt-link>克制。</p>
             <p><strong>不可生產文明：</strong>阿茲特克</p>
           </div>
@@ -377,7 +377,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            行會制度在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link
+            行會制度在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Market">市集</nuxt-link>研發。
           </p>
           研究完成後，將
@@ -119,7 +119,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

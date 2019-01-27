@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            裝甲步兵，到<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            裝甲步兵，到<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >就可以在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >裡進行訓練。他們對封建時代的大多數單位擁有強大的優勢，使他們成為破壞對手經濟的有效單位。
           </p>
@@ -630,7 +630,7 @@
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
-            是一個在世紀帝國II到達<nuxt-link to="/techsage/Feudal_Age"
+            是一個在世紀帝國II到達<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >後能建造的建築。兵工廠可研發科技強化軍事單位和部分防禦建築的攻擊和防禦。
           </p>
@@ -33,7 +33,7 @@
             <div class="col-md-3">
               <div class="n1">
                 <h4>
-                  <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                  <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
                 </h4>
                 <ul>
                   <li>
@@ -83,7 +83,7 @@
             <div class="col-md-3">
               <div class="n1">
                 <h4>
-                  <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                  <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
                 </h4>
                 <ul>
                   <li>
@@ -133,7 +133,7 @@
             <div class="col-md-3">
               <div class="n1">
                 <h4>
-                  <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                  <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
                 </h4>
                 <ul>
                   <li>
@@ -459,7 +459,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

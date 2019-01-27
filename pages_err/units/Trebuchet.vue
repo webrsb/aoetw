@@ -9,7 +9,7 @@
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
-          <div class="n1">投石機或稱巨型投石機是遊戲內最兇猛的遠程攻城武器，於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>可以在<nuxt-link to="/building/Castle">城堡</nuxt-link>生產。其無與倫比的射程距離，可以摧毀絕大部分的建築。</div>
+          <div class="n1">投石機或稱巨型投石機是遊戲內最兇猛的遠程攻城武器，於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>可以在<nuxt-link to="/building/Castle">城堡</nuxt-link>生產。其無與倫比的射程距離，可以摧毀絕大部分的建築。</div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -275,7 +275,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

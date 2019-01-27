@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>滑輪起重機可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發，研發後建築物建造速度快20%。</p>
+            <p>滑輪起重機可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發，研發後建築物建造速度快20%。</p>
             <p><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>雖沒有滑輪起重機科技，他們的文明效益可讓村民工作速率快30%，但是不會影響世界奇觀的建造時間因為所有文明建造奇觀的時間都是一樣的</p>
           </div>
            <h3>文明可研發與否</h3> 
@@ -102,7 +102,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

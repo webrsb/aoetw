@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            間諜可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link
+            間諜可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後可讓玩家看到敵方視野。間諜是遊戲中唯一的成本變動科技，它的花費取決於所有敵方(包括中立玩家)的
             <nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
@@ -90,7 +90,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

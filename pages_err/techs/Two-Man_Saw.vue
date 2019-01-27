@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>雙人鋸是<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>的科技，研發後可使村民收集木材的速度增快10%，此科技可以在後期經濟無虞時再研發，重要性沒有前面兩個伐木科技來得重要。</p>
+            <p>雙人鋸是<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>的科技，研發後可使村民收集木材的速度增快10%，此科技可以在後期經濟無虞時再研發，重要性沒有前面兩個伐木科技來得重要。</p>
           </div>
            <h3>文明可研發與否</h3> 
           <div class="hrn1"></div>
@@ -75,7 +75,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Feudal_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Feudal_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

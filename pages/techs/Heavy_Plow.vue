@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            重犁可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            重犁可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
             >研發。可讓農田產量增加125食物(總共375食物)，村民食物攜帶量+1。輪耕是更進一步的科技。
           </p>
@@ -72,7 +72,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

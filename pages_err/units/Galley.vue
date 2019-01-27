@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>戰船在<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>的時候可以從<nuxt-link to="/building/Dock">碼頭</nuxt-link>中被訓練。戰船是小型快速船艦，主要用於偵查和攻擊其他弱小單位（漁船）。</p>
+            <p>戰船在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>的時候可以從<nuxt-link to="/building/Dock">碼頭</nuxt-link>中被訓練。戰船是小型快速船艦，主要用於偵查和攻擊其他弱小單位（漁船）。</p>
           </div>
            <h3>戰術</h3> 
           <div class="hrn1"></div>
@@ -380,7 +380,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </td>
             </tr>
             <tr>

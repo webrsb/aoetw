@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>標槍騎兵是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的第二個特殊單位，<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>可以在
+            <p>標槍騎兵是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的第二個特殊單位，<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>可以在
               <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>訓練，本質上就是一個騎馬的<nuxt-link to="/units/Elite_Skirmisher">矛兵</nuxt-link> ，因為不用黃金，被認為是垃圾兵種之一。</p>
-            <p><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>可以升級為精銳標槍騎兵。</p>
+            <p><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>可以升級為精銳標槍騎兵。</p>
             <p>標槍騎兵是一個共享的特殊單位，任何與<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>同盟的玩家都可以使用。</p>
           </div>
           <h3>戰術</h3>
@@ -395,7 +395,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

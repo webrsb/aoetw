@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>馬格拉比駱駝是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的特殊科技，可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>在
+            <p>馬格拉比駱駝是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>在
               <nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>/<nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>每分鐘回15HP/每四秒回1HP。</p>
           </div>
           <h3>戰術要點</h3>
@@ -66,7 +66,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

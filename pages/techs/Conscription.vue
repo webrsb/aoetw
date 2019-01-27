@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            徵兵制度可於<nuxt-link to="/techsage/Imperial_Age"
+            徵兵制度可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
             <nuxt-link to="/building/Barracks">兵營</nuxt-link>、<nuxt-link
@@ -96,7 +96,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

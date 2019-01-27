@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>維京大戰船是<nuxt-link to="/civs/Vikings">維京</nuxt-link>的第二個特殊單位，在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+            <p>維京大戰船是<nuxt-link to="/civs/Vikings">維京</nuxt-link>的第二個特殊單位，在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Dock">碼頭</nuxt-link>可以訓練。它是一艘會射出多重箭矢的戰船。</p>
-            <p>維京大戰船可在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳維京大戰船。</p>
+            <p>維京大戰船可在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳維京大戰船。</p>
           </div>
            <h3>戰術</h3> 
           <div class="hrn1"></div>
@@ -355,7 +355,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -376,13 +376,13 @@
             </tr>
             <tr>
               <td class="unit3">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
               <td class="unit4">84木42金</td>
             </tr>
             <tr>
               <td class="unit3">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
               <td class="unit4">80木40金</td>
             </tr>

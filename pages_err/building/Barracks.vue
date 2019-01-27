@@ -16,7 +16,7 @@
           <div class="row">
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Dark_Age"></nuxt-link>黑暗時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Dark_Age"></nuxt-link>黑暗時代</h4> 
                 <li>
                   <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><nuxt-link to="/units/Militia">民兵</nuxt-link>
                 </li>
@@ -24,7 +24,7 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Feudal_Age"></nuxt-link>封建時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Feudal_Age"></nuxt-link>封建時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/ManAtArmsIcon.jpg" width="22" alt=""><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>
@@ -42,7 +42,7 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/LongswordsManIcon.jpg" alt=""><nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
@@ -63,7 +63,7 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Imperial_Age"></nuxt-link>帝王時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt=""><nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>
@@ -184,11 +184,11 @@
             </ul>
              <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
-              <li>引入<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>(南美文明限定)，可在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>訓練。</li>
+              <li>引入<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>(南美文明限定)，可在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>訓練。</li>
             </ul>
              <h3><em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em></h3>
             <ul>
-              <li>引入<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>現在可在<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>訓練。</li>
+              <li>引入<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>現在可在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>訓練。</li>
               <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>
             </ul>
           </div>
@@ -229,7 +229,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">聖騎兵或稱甲冑騎兵，是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>的特殊單位。對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>有大量加成傷害的騎兵單位。聖騎兵能夠在
-            <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級成精銳聖騎兵。</div>
+            <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級成精銳聖騎兵。</div>
            <h3>戰術</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -326,7 +326,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            輪耕可於<nuxt-link to="/techsage/Feudal_Age">帝王時代</nuxt-link
+            輪耕可於<nuxt-link to="/techs/age/Feudal_Age">帝王時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
             >研發。可讓新種植的農田產量增加175食物(總共550食物)。
           </p>
@@ -135,7 +135,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

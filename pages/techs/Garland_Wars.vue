@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             榮冠戰爭是阿茲特克的特殊科技，可於<nuxt-link
-              to="/techsage/Imperial_Age"
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>攻擊+4。
@@ -89,7 +89,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

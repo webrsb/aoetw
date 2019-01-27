@@ -646,7 +646,7 @@
                 class="gg"
                 src="~assets/Dark-age-logo-small.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
           </tr>
           <tr>

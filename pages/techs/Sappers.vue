@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            坑道工兵可於<nuxt-link to="/techsage/Castle_Age">帝王時代</nuxt-link
+            坑道工兵可於<nuxt-link to="/techs/age/Castle_Age">帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。可讓村民對
             <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_stone_defense"
@@ -158,7 +158,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

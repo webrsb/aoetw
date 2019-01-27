@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>磚瓦技術可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發，研發後所有建築(除了
+            <p>磚瓦技術可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發，研發後所有建築(除了
               <nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>和<nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>外)都獲得+10% HP、+1近防、+1遠防和+3建築護甲。此科技讓建築更佳堅固及更能抵擋
                 <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>和<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>的攻擊，<nuxt-link to="/techs/Architecture">建築學</nuxt-link>是它的進階科技。</p>
             <p>建築護甲無法對所有對建築有額外加成的攻擊做減傷計算，它只能對<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>、
@@ -99,7 +99,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -16,7 +16,7 @@
           <div class="row">
             <div class="col-md-4">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Feudal_Age"></nuxt-link>封建時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Feudal_Age"></nuxt-link>封建時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/ScoutCavalryIcon.jpg"><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>
@@ -29,7 +29,7 @@
             </div>
             <div class="col-md-4">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/LightCavalryIcon.jpg"><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
@@ -51,7 +51,7 @@
             </div>
             <div class="col-md-4">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Imperial_Age"></nuxt-link>帝王時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/HussarIcon.jpg"><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>
@@ -214,7 +214,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </td>
             </tr>
             <tr>

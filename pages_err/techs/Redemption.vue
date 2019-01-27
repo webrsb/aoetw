@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>信仰救贖於<nuxt-link to="/techsage/Castle_Age">城堡時代在<nuxt-link to="/building/Monastery">修道院</nuxt-link> 研發後可讓
+            <p>信仰救贖於<nuxt-link to="/techs/age/Castle_Age">城堡時代在<nuxt-link to="/building/Monastery">修道院</nuxt-link> 研發後可讓
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link to="/units/Missionary">傳教士</nuxt-link>招降攻城單位和大部分的敵方單位。</p>
             <p>所有建築物包含<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>都不能從遠處直接招降，僧侶和傳教士必須站在他們身邊才能進行招降，其他攻城武器(
               <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>和<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>)皆可從遠處直接招降</p>
@@ -104,7 +104,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

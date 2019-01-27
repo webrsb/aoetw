@@ -15,7 +15,7 @@
           <div class="row">
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Feudal_Age"></nuxt-link>封建時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Feudal_Age"></nuxt-link>封建時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/ArcherIcon.jpg"><nuxt-link to="/units/Archer">弓兵</nuxt-link>
@@ -28,7 +28,7 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/CrossbowmanIcon.jpg"><nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>
@@ -53,7 +53,7 @@
             </div>
             <div class="col-md-4">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Imperial_Age"></nuxt-link>帝王時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/ArbalestIcon.jpg"><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
@@ -162,7 +162,7 @@
                 <nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link>。</li>
               <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>：訓練速度快20%。</li>
               <li><nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：射箭場可提供5人口</li>
-              <li><nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：同盟和自己在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>能生產
+              <li><nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：同盟和自己在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>能生產
                 <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link>。</li>
             </ul>
           </div>
@@ -215,7 +215,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
               </td>
             </tr>
             <tr>

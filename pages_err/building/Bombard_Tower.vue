@@ -12,7 +12,7 @@
           <div class="n1">
             <div class="spw"><em><img src="~assets/tola.jpg" width="50px;" alt="" style="margin-right:20px;">本條目把學院內的火炮塔科技與建築的火炮塔寫在一起了！</em>
             </div>
-            <p>火砲塔於可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發。火砲塔具有非常高的攻擊力；但是投射的速度極慢。</p>
+            <p>火砲塔於可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發。火砲塔具有非常高的攻擊力；但是投射的速度極慢。</p>
           </div>
            <h3>戰術</h3>
           <div class="hrn1"></div>
@@ -255,7 +255,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

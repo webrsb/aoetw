@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>村民訓練於<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>的<nuxt-link to="/Town_Center">城鎮中心</nuxt-link>，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現</p>
+            <p>村民訓練於<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>的<nuxt-link to="/Town_Center">城鎮中心</nuxt-link>，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現</p>
             <p>所有文明開始時都有三位村民，除了<nuxt-link to="/civs/Chinese">中國人</nuxt-link>和<nuxt-link to="/.php">瑪雅人</nuxt-link>(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。</p>
             <p><nuxt-link to="/civs/Spanish">西班牙</nuxt-link>的特殊科技<nuxt-link to="/techs/Supremacy">霸權</nuxt-link>，能夠讓村民具有戰鬥力。</div>
           <h3>任務與單位名稱</h3>
@@ -133,7 +133,7 @@
           <div class="row">
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Dark_Age"></nuxt-link>黑暗時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Dark_Age"></nuxt-link>黑暗時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Houseicon.png" width="30" alt=""><nuxt-link to="/building/House">房屋</nuxt-link>
@@ -170,7 +170,7 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Feudal_Age"></nuxt-link>封建時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Feudal_Age"></nuxt-link>封建時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Acheryrangeicon.png" width="30" alt=""><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
@@ -198,7 +198,7 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Castleicon.png" width="30" alt=""><nuxt-link to="/building/Castle">城堡</nuxt-link>
@@ -228,7 +228,7 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Imperial_Age"></nuxt-link>帝王時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Imperial_Age"></nuxt-link>帝王時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Wondericon.png" width="30" alt=""><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>
@@ -510,7 +510,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Imperial_Age">黑暗時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Imperial_Age">黑暗時代</nuxt-link>
               </td>
             </tr>
             <tr>

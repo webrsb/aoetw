@@ -20,7 +20,7 @@
         </td>
         </tr>
         <tr>
-          <td style=" vertical-align: middle; " class="t5 trm dr"><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+          <td style=" vertical-align: middle; " class="t5 trm dr"><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/MilitiaIcon.jpg" alt="">
@@ -33,7 +33,7 @@
           <td class="t19 trm"></td>
         </tr>
         <tr>
-          <td style=" vertical-align: middle; " class="t5 trm fe"><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+          <td style=" vertical-align: middle; " class="t5 trm fe"><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/ManAtArmsIcon.jpg" width="22" alt="">
@@ -58,7 +58,7 @@
           <td class="t19 trm"></td>
         </tr>
         <tr>
-          <td style=" vertical-align: middle; " class="t5 trm ca"><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+          <td style=" vertical-align: middle; " class="t5 trm ca"><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="">
@@ -88,7 +88,7 @@
           </td>
         </tr>
         <tr>
-          <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+          <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
           </td>
           <td class="t19 trm">
             <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt="">
@@ -125,7 +125,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe"><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+            <td style=" vertical-align: middle; " class="t5 trm fe"><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
               <img class="gg" src="~assets/ArcherIcon.jpg"><nuxt-link to="/units/Archer">                <div><nuxt-link to="/units/Archer">弓兵</nuxt-link>
@@ -142,7 +142,7 @@
       <td class="t15 trm"></td>
       </tr>
       <tr>
-        <td style=" vertical-align: middle; " class="t5 trm ca"><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+        <td style=" vertical-align: middle; " class="t5 trm ca"><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
         </td>
         <td class="t15 trm">
           <img class="gg" src="~assets/CrossbowmanIcon.jpg"><nuxt-link to="/units/Crossbowman">            <div>弩兵</div></nuxt-link><i class="fas fa-arrow-down"></i>
@@ -164,7 +164,7 @@
         </td>
       </tr>
       <tr>
-        <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+        <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
         </td>
         <td class="t15 trm">
           <img class="gg" src="~assets/ArbalestIcon.jpg"><nuxt-link to="/units/Arbalest"><div>強弩兵</nuxt-link>
@@ -190,14 +190,14 @@
       ">        <tr>            <td class="trm " style="border-top: none; " colspan="6
       ">                <nuxt-link to="/building/Stable "><img class="ng " src="~assets/Stableicon.png " alt="
       "></nuxt-link>                <div id="馬廄 "><nuxt-link to="/building/Stable
-      ">馬廄</nuxt-link></div>            </td>        </tr>        <tr>            <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techsage/Feudal_Age
+      ">馬廄</nuxt-link></div>            </td>        </tr>        <tr>            <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></td>            <td class="t19 trm "><img class="gg " src="~assets/ScoutCavalryIcon.jpg
       ">                        <div><nuxt-link to="/units/Scout_Cavalry ">斥候</nuxt-link></div>                        <i class="fas
       fa-arrow-down "></i>            </td>            <td class="t19 trm
       "><img class="gg " src="~assets/Bloodlines.png " alt=" "><div><nuxt-link to="/techs/Bloodlines
       ">品種</nuxt-link></div></td>           <td class="t19 trm "></td>            <td class="t19 trm
       "></td>            <td class="t19 trm "></td>        </tr>        <tr>          <td style=" vertical-align:
-      middle; " class="t5 trm ca "><nuxt-link to="/techsage/Castle_Age
+      middle; " class="t5 trm ca "><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>          <td class="t19 trm "><img class="gg " src="~assets/LightCavalryIcon.jpg
       "><div><div><nuxt-link to="/units/Light_Cavalry ">輕騎兵</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>          <td class="t19 trm "><img class="gg " src="~assets/KnightIcon.jpg "><div><nuxt-link to="/units/Knight
@@ -207,7 +207,7 @@
       "><img class="gg " src="~assets/Battleelephanticon.png "><div><nuxt-link to="/units/Battle_Elephant
       ">矛象伕</nuxt-link></div><i class="fas fa-arrow-down "></i></td>          <td class="t19 trm
       "><img class="gg " src="~assets/Husbandry.jpg " alt=" "><div><nuxt-link to="/techs/Husbandry
-      ">畜牧培育</nuxt-link></div></td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><nuxt-link to="/techsage/Imperial_Age
+      ">畜牧培育</nuxt-link></div></td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></td>          <td class="t19 trm not "><img class="gg " src="~assets/HussarIcon.jpg
       "><div><nuxt-link to="/Hustree/sar ">匈牙利輕騎兵</nuxt-link></div></td>          <td class="t19 trm
       "><img class="gg " src="~assets/CavalierIcon.jpg "><div><nuxt-link to="/units/Cavalier
@@ -223,7 +223,7 @@
       none; " colspan="5 ">                <nuxt-link to="/building/Siege_Workshop
       "><img class="ng " src="~assets/Siegeworkshopicon.png " alt="
       "></nuxt-link>                <div id="攻城器製造所 "><nuxt-link to="/building/Siege_Workshop
-      ">攻城器製造所</nuxt-link></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techsage/Castle_Age
+      ">攻城器製造所</nuxt-link></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>            <td class="t23 trm "><img class="gg " src="~assets/BatteringRamIcon.jpg " width="30
       " alt=" "><div><nuxt-link to="/units/Battering_Ram ">衝撞車</nuxt-link></div><i class="fas fa-arrow-down
       ">          </td>          <td class="t23 trm "><img class="gg " src="~assets/MangonelIcon.jpg " width="30
@@ -232,7 +232,7 @@
       " alt=" "><div><nuxt-link to="/units/Scorpion ">弩砲</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>          <td class="t23 trm "><img class="gg " src="~assets/Siegetowericon.png " width="30
       " alt=" "><div><nuxt-link to="/units/Siege_Tower
-      ">攻城塔</nuxt-link></div></td>     </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><nuxt-link to="/techsage/Imperial_Age
+      ">攻城塔</nuxt-link></div></td>     </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></td>           <td class="t23 trm "><img class="gg " src="~assets/CappedRamIcon.jpg " width="30
       " alt=" "><div><nuxt-link to="/units/Capped_Ram ">裝甲衝撞車</nuxt-link></div><i class="fas fa-arrow-down
       "></i><br/><img class="gg " src="~assets/SiegeRamIcon.jpg " width="30 " alt=" "><div><nuxt-link to="/units/Siege_Ram
@@ -248,7 +248,7 @@
       " style="border-top: none; " colspan="8 ">                <nuxt-link to="/building/Castle
       "><img class="ng " src="~assets/Castleicon.png " alt=" "></nuxt-link>                <div id="城堡
       "><nuxt-link to="/building/Castle
-      ">城堡</nuxt-link></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techsage/Castle_Age
+      ">城堡</nuxt-link></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>         <td class="t13 trm ">          <img class="gg " src="~assets/ChuKoNuIcon.jpg
       " width="30 " alt=" "><div><nuxt-link to="/units/Chu_Ko_Nu ">連弩兵</nuxt-link></div><i class="fas
       fa-arrow-down ">          </td>          <td class="t13 trm
@@ -258,7 +258,7 @@
       ">長城</nuxt-link></div></td>          <td class="t13 trm "></td>          <td class="t13 trm
       "></td>          <td class="t13 trm "></td>          <td class="t13 trm
       "></td>          <td class="t13 trm "></td>            </tr>        <tr>          <td style=" vertical-align:
-      middle; " class="t5 trm im "><nuxt-link to="/techsage/Imperial_Age
+      middle; " class="t5 trm im "><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></td>          <td class="t13 trm "><img class="gg " src="~assets/ChuKoNuIcon.jpg " width="30
       " alt=" "><div><nuxt-link to="/units/Chu_Ko_Nu
       ">精銳連弩兵</nuxt-link></div></td>          <td class="t13 trm "><img class="gg " src="~assets/TrebuchetPackedIcon.jpg " width="30
@@ -276,46 +276,46 @@
       " colspan="5 " style="border-top: none; ">                <nuxt-link to="/building/Town_Center
       "><img class="ng " src="~assets/Towncentericon.png " alt="
       "></nuxt-link>                <div><nuxt-link to="/building/Town_Center
-      ">城鎮中心</nuxt-link></div>            </td>        </tr>        <tr>            <td style=" vertical-align: middle; " class="t5 trm dr "><nuxt-link to="/techsage/Dark_Age
+      ">城鎮中心</nuxt-link></div>            </td>        </tr>        <tr>            <td style=" vertical-align: middle; " class="t5 trm dr "><nuxt-link to="/techs/age/Dark_Age
       ">黑暗時代</nuxt-link></td>     <td class="t23 trm "><img class="gg " src="~assets/VillagerMaleIcon.jpg " alt="
       "><div><nuxt-link to="/units/Villager ">村民</nuxt-link></div></td>         <td class="t23 trm
-      "><img class="gg " src="~assets/Feudal-age-reseach.jpg " alt=" "><div><nuxt-link to="/techsage/Feudal_Age
+      "><img class="gg " src="~assets/Feudal-age-reseach.jpg " alt=" "><div><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></div>                <i class="fas fa-arrow-down "></i>            </td>         <td class="t23 trm
       "><img class="gg " src="~assets/Loom.jpg " alt=" "><div><nuxt-link to="/techs/Loom
       ">織布技術</nuxt-link></td>         <td class="t23 trm "></td>           </tr>        <tr>            <td style=" vertical-align:
-      middle; " class="t5 trm fe "><nuxt-link to="/techsage/Feudal_Age
+      middle; " class="t5 trm fe "><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></td>           <td class="t23 trm "><img class="gg " src="~assets/Townwatch.jpg " alt="
       "><div><nuxt-link to="/techs/Town_Watch ">城鎮瞭望</nuxt-link></div>  <i class="fas fa-arrow-down
       "></i></td>           <td class="t23 trm "><img class="gg " src="~assets/Castle-age-reseach.jpg " alt="
-      "><div><nuxt-link to="/techsage/Castle_Age ">城堡時代</nuxt-link></div>  <i class="fas fa-arrow-down
+      "><div><nuxt-link to="/techs/age/Castle_Age ">城堡時代</nuxt-link></div>  <i class="fas fa-arrow-down
       "></i></td>           <td class="t23 trm "><img class="gg " src="~assets/Wheelbarrow.jpg " alt="
       "><div><nuxt-link to="/techs/Wheelbarrow ">獨輪推車</nuxt-link></div>  <i class="fas fa-arrow-down
       "></i></td>           <td class="t23 trm
-      "></td>                  </tr>        <tr>            <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techsage/Castle_Age
+      "></td>                  </tr>        <tr>            <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>                 <td class="t23 trm "><img class="gg " src="~assets/Townpatrol.jpg " alt="
       "><div><nuxt-link to="/techs/Town_Patrol ">城鎮巡邏</nuxt-link></div></td>           <td class="t23 trm
-      "><img class="gg " src="~assets/Imperial-age-research.jpg " alt=" "><div><nuxt-link to="/techsage/Imperial_Age
+      "><img class="gg " src="~assets/Imperial-age-research.jpg " alt=" "><div><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></div></td>           <td class="t23 trm "><img class="gg " src="~assets/Handcart.jpg " alt="
       "><div><nuxt-link to="/Hand_Cart.php ">手推車</nuxt-link></div></td>               <td class="t23 trm
       "></td>         </tr>    </table>       <table class="table " style="margin-top:50px; ">         <tr>            <td class="trm
       " colspan="5 " style="border-top: none; ">                <nuxt-link to="/building/Mill
       "><img class="ng " src="~assets/Millicon.png " alt="
       "></nuxt-link>                <div><nuxt-link to="/building/Mill
-      ">磨坊</nuxt-link></div>            </td>        </tr> <tr>     <td style=" vertical-align: middle; " class="t5 trm dr "><nuxt-link to="/techsage/Dark_Age
+      ">磨坊</nuxt-link></div>            </td>        </tr> <tr>     <td style=" vertical-align: middle; " class="t5 trm dr "><nuxt-link to="/techs/age/Dark_Age
       ">黑暗時代</nuxt-link></td>     <td class="t23 trm "><img class="gg " src="~assets/Farmicon.png " alt="
       "><div><nuxt-link to="/building/Farm ">農田</nuxt-link></div></td>     <td class="t23 trm
       "></td>     <td class="t23 trm "></td>     <td class="t23 trm
-      "></td>   </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techsage/Feudal_Age
+      "></td>   </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></td>                           <td class="t23 trm "><img class="gg " src="~assets/Horsecollar.jpg " alt="
       "><div><nuxt-link to="/techs/Horse_Collar ">馬軛</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>        <td class="t23 trm "></td>        <td class="t23 trm "></td>         <td class="t23
       trm "></td>     </tr>        <tr>          <td style=" vertical-align:
-      middle; " class="t5 trm ca "><nuxt-link to="/techsage/Castle_Age
+      middle; " class="t5 trm ca "><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>         <td class="t23 trm "><img class="gg " src="~assets/Heavyplow.jpg " alt="
       "><div><nuxt-link to="/techs/Heavy_Plow ">重犁</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t23 trm "></td>         <td class="t23 trm
       "></td>          <td class="t23 trm "></td>        </tr>        <tr>          <td style=" vertical-align:
-      middle; " class="t5 trm im "><nuxt-link to="/techsage/Imperial_Age
+      middle; " class="t5 trm im "><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></td>            <td class="t23 trm not "><img class="gg " src="~assets/Croprotation.jpg " alt="
       "><nuxt-link to="/techs/Crop_Rotation "><div>輪耕</nuxt-link></div></td>            <td class="t23 trm
       "></td>            <td class="t23 trm "></td>             <td class="t23 trm
@@ -323,17 +323,17 @@
       " colspan="5 " style="border-top: none; ">                <nuxt-link to="/building/Mill
       "><img class="ng " src="~assets/Lumbercampicon.png " alt="
       "></nuxt-link>                <div><nuxt-link to="/building/Mill
-      ">伐木場</nuxt-link></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techsage/Feudal_Age
+      ">伐木場</nuxt-link></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></td>                     <td class="t23 trm "><img class="gg " src="~assets/Doublebitaxe.jpg " alt="
       "><div><nuxt-link to="/techs/Double-Bit_Axe ">雙刃斧</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>        <td class="t23 trm "></td>         <td class="t23 trm "></td>         <td class="t23
       trm "></td>      </tr>        <tr>          <td style=" vertical-align:
-      middle; " class="t5 trm ca "><nuxt-link to="/techsage/Castle_Age
+      middle; " class="t5 trm ca "><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>                  <td class="t23 trm "><img class="gg " src="~assets/Bowsaw.jpg " alt="
       "><div><nuxt-link to="/techs/Bow_Saw ">弓鋸</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t23 trm "></td>         <td class="t23 trm "></td>         <td class="t23
       trm "></td>         </tr>        <tr>          <td style=" vertical-align:
-      middle; " class="t5 trm im "><nuxt-link to="/techsage/Imperial_Age
+      middle; " class="t5 trm im "><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></td>                       <td class="t23 trm "><img class="gg " src="~assets/Twomansaw.jpg " alt="
       "><div><nuxt-link to="/techs/Two-Man_Saw ">雙人鋸</nuxt-link></div></td>            <td class="t23 trm
       "></td>            <td class="t23 trm "></td>            <td class="t23 trm
@@ -341,13 +341,13 @@
       " colspan="5 " style="border-top: none; ">                <nuxt-link to="/building/Mining_Camp
       "><img class="ng " src="~assets/Miningcampicon.png " alt="
       "></nuxt-link>                <div><nuxt-link to="/building/Mining_Camp
-      ">採礦營地</nuxt-link></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techsage/Feudal_Age
+      ">採礦營地</nuxt-link></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></td>                     <td class="t23 trm "><img class="gg " src="~assets/Goldmining.jpg " alt="
       "><div><nuxt-link to="/techs/Gold_Mining ">採金技術</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>        <td class="t23 trm "><img class="gg " src="~assets/Stonemining.jpg " alt="
       "><div><nuxt-link to="/techs/Stone_Mining ">採石技術</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t23 trm "></td>         <td class="t23 trm
-      "></td>      </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techsage/Castle_Age
+      "></td>      </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>                  <td class="t23 trm "><img class="gg " src="~assets/Goldshaftmining.jpg " alt="
       "><div><nuxt-link to="/techs/Gold_Shaft_Mining ">礦井採金</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t23 trm "><img class="gg " src="~assets/Stone_Shaft_Mining.jpg " alt="
@@ -356,7 +356,7 @@
       " style="margin-top:50px; ">         <tr>            <td class="trm " colspan="10
       " style="border-top: none; ">                <nuxt-link to="/building/Dock "><img class="ng
       " src="~assets/Dockicon.png " alt=" "></nuxt-link>                <div id="碼頭 "><nuxt-link to="/building/Dock
-      ">碼頭</nuxt-link></div>            </td>        </tr> <tr>     <td style=" vertical-align: middle; " class="t5 trm dr "><nuxt-link to="/techsage/Dark_Age
+      ">碼頭</nuxt-link></div>            </td>        </tr> <tr>     <td style=" vertical-align: middle; " class="t5 trm dr "><nuxt-link to="/techs/age/Dark_Age
       ">黑暗時代</nuxt-link></td>          <td class="t10 trm "><img class="gg " src="~assets/FishingShipIcon.jpg
       "><div><nuxt-link to="/units/Fishing_Ship ">漁船</nuxt-link></div></td>          <td class="t10 trm
       "><img class="gg " src="~assets/TransportShipIcon.jpg "><div><nuxt-link to="/units/Transport_Ship
@@ -364,7 +364,7 @@
       "></td>          <td class="t10 trm "></td>          <td class="t10 trm
       "></td>          <td class="t10 trm "></td>          <td class="t10 trm
       "></td>          <td class="t10 trm "></td>  </tr>   <tr>    <td style=" vertical-align: middle;
-      " class="t5 trm fe "><nuxt-link to="/techsage/Feudal_Age
+      " class="t5 trm fe "><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></td>                           <td class="t10 trm "><img class="gg " src="~assets/FireGalleyIcon.jpg
       "><div><nuxt-link to="/units/Fire_Galley ">火蒙衝</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>          <td class="t10 trm "><img class="gg " src="~assets/DemoRaftIcon.jpg "><div><nuxt-link to="/units/Demolition_Raft
@@ -375,7 +375,7 @@
       ">貿易商旅</nuxt-link></div></td>          <td class="t10 trm "></td>          <td class="t10 trm
       "></td>          <td class="t10 trm "></td>          <td class="t10 trm
       "></td>          <td class="t10 trm "><img class="gg " src="~assets/Fishtrapicon.png "><div><nuxt-link to="/building/Fish_Trap
-      ">漁網</nuxt-link></div></td>              </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techsage/Castle_Age
+      ">漁網</nuxt-link></div></td>              </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>         <td class="t10 trm "><img class="gg " src="~assets/FireShipIcon.jpg "><div><nuxt-link to="/units/Fire_Ship
       ">火戰船</nuxt-link></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm
       "><img class="gg " src="~assets/DemoShipIcon.jpg "><div><nuxt-link to="/units/Demolition_Ship
@@ -393,7 +393,7 @@
       "><img class="gg " style="margin: 2px; " src="~assets/Careening.jpg " alt="
       "><div><nuxt-link to="/techs/Careening ">傾側維修術</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>          <td class="t10 trm "></td>          <td class="t10 trm
-      "></td>         </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><nuxt-link to="/techsage/Imperial_Age
+      "></td>         </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></td>            <td class="t10 trm not "><img class="gg " src="~assets/FastFireShipIcon.jpg
       "><div><nuxt-link to="/units/Fast_Fire_Ship
       ">快速火戰船</nuxt-link></div></td>                      <td class="t10 trm "><img class="gg " src="~assets/HeavyDemoShipIcon.jpg
@@ -415,7 +415,7 @@
       " colspan="6 " style="border-top: none; ">                <nuxt-link to="/building/Blacksmith
       "><img class="ng " src="~assets/Blacksmithicon.png " alt="
       "></nuxt-link>                <div id="兵工廠 "><nuxt-link to="/building/Blacksmith
-      ">兵工廠</nuxt-link></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techsage/Feudal_Age
+      ">兵工廠</nuxt-link></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></td>                                    <td class="t19 trm "><img class="gg " src="~assets/Paddedarcherarmor.jpg " alt="
       "><div><nuxt-link to="/techs/Padded_Archer_Armor ">弓兵布甲</nuxt-link></div></td>          <td class="t19
       trm "><img class="gg " src="~assets/Fletching.jpg " alt=" "><div><nuxt-link to="/techs/Fletching
@@ -426,7 +426,7 @@
       ">騎兵鱗甲</nuxt-link></div><i class="fas fa-arrow-down "></i></td>          <td class="t19 trm
       "><img class="gg " src="~assets/Scalemailarmor.jpg " alt=" "><div><nuxt-link to="/techs/Scale_Mail_Armor
       ">步兵鱗甲</nuxt-link></div><i class="fas fa-arrow-down
-      "></i></td>     </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><div><nuxt-link to="/techsage/Castle_Age
+      "></i></td>     </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><div><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>          <td class="t19 trm "><img class="gg " src="~assets/Leatherarcherarmor.jpg " alt="
       "><div><nuxt-link to="/techs/Leather_Archer_Armor ">弓兵皮甲</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>          <td class="t19 trm "><img class="gg " src="~assets/Bodkinarrow.jpg " alt="
@@ -437,7 +437,7 @@
       "><div><nuxt-link to="/techs/Chain_Barding_Armor ">騎兵鎖甲</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>          <td class="t19 trm "><img class="gg " src="~assets/Chainmailarmor.jpg " alt="
       "><div><nuxt-link to="/techs/Chain_Mail_Armor ">步兵鎖甲</nuxt-link></div><i class="fas fa-arrow-down
-      "></i></td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><div><nuxt-link to="/techsage/Imperial_Age
+      "></i></td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><div><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></div></td>          <td class="t19 trm "><img class="gg " src="~assets/Ringarcherarmor.jpg " alt="
       "><div><nuxt-link to="/techs/Ring_Archer_Armor ">弓兵環甲</nuxt-link></div></td>          <td class="t19 trm
       "><img class="gg " src="~assets/Bracer.jpg " alt=" "><div><nuxt-link to="/techs/Bracer
@@ -450,17 +450,17 @@
       ">                 <tr>            <td class="trm " colspan="5 " style="border-top: none;
       ">                <nuxt-link to="/building/Market "><img class="ng " src="~assets/Marketicon.png " alt="
       "></nuxt-link>                <div id="市集 "><nuxt-link to="/building/Market
-      ">市集</nuxt-link></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techsage/Feudal_Age
+      ">市集</nuxt-link></div>            </td>        </tr>   <tr>    <td style=" vertical-align: middle; " class="t5 trm fe "><nuxt-link to="/techs/age/Feudal_Age
       ">封建時代</nuxt-link></td>                                   <td class="t23 trm "><img class="gg " src="~assets/Cartography.jpg "><div><nuxt-link to="/techs/Cartography
       ">製圖學</nuxt-link></div><i class="fas fa-arrow-down "></i></td>         <td class="t23 trm
       "><img class="gg " src="~assets/TradeCartIcon.jpg "><div><nuxt-link to="/units/Trade_Cart
       ">貿易車隊</nuxt-link></div></td>          <td class="t23 trm "></td>          <td class="t23 trm
-      "></td>      </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><div><nuxt-link to="/techsage/Castle_Age
+      "></td>      </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><div><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>         <td class="t23 trm "><img class="gg " src="~assets/CaravanII.png "><div><nuxt-link to="/techs/Caravan
       ">大商隊</nuxt-link></div></td>         <td class="t23 trm "><img class="gg " src="~assets/Coinage.jpg "><div><nuxt-link to="/techs/Coinage
       ">鑄幣術</nuxt-link></div><i class="fas fa-arrow-down "></i></td>         <td class="t23 trm
       "></td>          <td class="t23 trm "></td>        </tr>        <tr>          <td style=" vertical-align:
-      middle; " class="t5 trm im "><div><nuxt-link to="/techsage/Imperial_Age
+      middle; " class="t5 trm im "><div><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></div></td>            <td class="t23 trm not "><img class="gg " src="~assets/Guilds.jpg "><div><nuxt-link to="/techs/Guilds
       ">行會制度</nuxt-link></div></td>            <td class="t23 trm "><img class="gg " src="~assets/Banking.jpg "><div><nuxt-link to="/techs/Banking
       ">銀行制度</nuxt-link></div></td>            <td class="t23 trm "></td>             <td class="t23 trm
@@ -468,7 +468,7 @@
       ">                 <tr>            <td class="trm " colspan="9 " style="border-top: none;
       ">                <nuxt-link to="/building/Monastery "><img class="ng " src="~assets/Monasteryicon.png " alt="
       "></nuxt-link>                <div id="修道院 "><nuxt-link to="/building/Monastery
-      ">修道院</nuxt-link></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><div><nuxt-link to="/techsage/Castle_Age
+      ">修道院</nuxt-link></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><div><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>         <td class="t11 trm "><img class="gg " src="~assets/MonkIcon.jpg " width="30 " alt="
       "><div><nuxt-link to="/units/Monk ">僧侶</nuxt-link></div></td>         <td class="t11 trm not
       "><img class="gg " src="~assets/MissionaryIcon.jpg " width="30 " alt=" "><div><nuxt-link to="/units/Missionary
@@ -482,7 +482,7 @@
       "><img class="gg " src="~assets/Sanctity.jpg " width="30 " alt=" "><div><nuxt-link to="/techs/Sanctity
       ">聖潔虔誠</nuxt-link></div></td>         <td class="t11 trm "><img class="gg " src="~assets/Fervor.jpg " width="30 " alt="
       "><div><nuxt-link to="/techs/Fervor
-      ">宗教狂熱</nuxt-link></div></td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><div><nuxt-link to="/techsage/Imperial_Age
+      ">宗教狂熱</nuxt-link></div></td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><div><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></div></td>            <td class="t11 trm "><img class="gg " src="~assets/Faith.jpg " width="30 " alt="
       "><div><nuxt-link to="/techs/Faith ">忠誠信仰</nuxt-link></div></td>           <td class="t11 trm
       "><img class="gg " src="~assets/Illumination.jpg " width="30 " alt=" "><div><nuxt-link to="/techs/Illumination
@@ -496,7 +496,7 @@
       " colspan="9 " style="border-top: none; ">                <nuxt-link to="/building/University
       "><img class="ng " src="~assets/Universityicon.png " alt="
       "></nuxt-link>                <div id="學院 "><nuxt-link to="/building/University
-      ">學院</nuxt-link></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><div><nuxt-link to="/techsage/Castle_Age
+      ">學院</nuxt-link></div>            </td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm ca "><div><nuxt-link to="/techs/age/Castle_Age
       ">城堡時代</nuxt-link></td>         <td class="t11 trm "><img class="gg " src="~assets/Masonry.jpg " alt="
       "><div><nuxt-link to="/techs/Masonry ">磚瓦技術</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t11 trm "><img class="gg " src="~assets/Fortified-wall-research.jpg
@@ -509,7 +509,7 @@
       "><img class="gg " src="~assets/Murderholes.jpg " alt=" "><div><nuxt-link to="/techs/Murder_Holes
       ">垛孔</nuxt-link></div></td>         <td class="t11 trm "><img class="gg " src="~assets/Treadmillcrane.jpg " alt="
       "><div><nuxt-link to="/techs/Treadmill_Crane ">滑輪起重機</nuxt-link></td>         <td class="t11 trm
-      "></td>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><div><nuxt-link to="/techsage/Imperial_Age
+      "></td>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><div><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></div></td>        <td class="t11 trm "><img class="gg " src="~assets/Architecture.jpg " alt="
       "><div><nuxt-link to="/techs/Architecture ">建築學</nuxt-link></div></td>        <td class="t11 trm
       "><img class="gg " src="~assets/Chemistry.jpg " alt=" "><div><nuxt-link to="/techs/Chemistry

@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>時，可以從軍營升級為重裝長槍兵。他們專門對付騎兵(<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>除外)，對騎兵以外所造成的傷害都是微弱的。</p>
+            <p><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>時，可以從軍營升級為重裝長槍兵。他們專門對付騎兵(<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>除外)，對騎兵以外所造成的傷害都是微弱的。</p>
             <p>最便宜的軍事部隊之一。此外，不需要黃金來培訓他們，讓他們成為“ 垃圾單位 ”。</p>
             <p>除了<nuxt-link to="/civs/Turks">土耳其</nuxt-link>之外，所有的文明都可以使用重裝長槍兵。</p>
           </div>
@@ -356,7 +356,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

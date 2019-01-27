@@ -769,7 +769,7 @@
                 src="~assets/Castle-age-reseach.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

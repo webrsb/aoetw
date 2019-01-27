@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             酋長是<nuxt-link to="/civs/Vikings">維京</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techsage/Castle_Age"
+            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在城堡研發。研發後
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>對<nuxt-link
@@ -140,7 +140,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

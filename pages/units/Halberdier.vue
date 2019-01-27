@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            戟兵或稱為斧槍兵。<nuxt-link to="/techsage/Imperial_Age"
+            戟兵或稱為斧槍兵。<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >時，可以從<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >升級為戟兵。他們專門對付騎兵(
@@ -791,7 +791,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

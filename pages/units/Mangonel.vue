@@ -13,7 +13,7 @@
           <p>
             <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
             >是一個遠程攻城單位 ，當玩家升級到了<nuxt-link
-              to="/techsage/Castle_Age"
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >後，便可以在攻城器製造所進行訓練。
             主要拿來對付成群的敵人，他的高攻擊與<nuxt-link
@@ -537,7 +537,7 @@
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

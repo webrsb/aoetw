@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>畜牧培育於 <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/Stable">馬厩</nuxt-link>研發。研發後所有騎乘單位移速+10％。</p>
+            <p>畜牧培育於 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/Stable">馬厩</nuxt-link>研發。研發後所有騎乘單位移速+10％。</p>
             <p>一般來說打帶跑單位如:<nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>或
               <nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>等，都需要優先研發此科技。相對的，如對方是打帶跑單位，而你的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>就必須研發畜牧培育，以免被風箏。</p>
           </div>
@@ -99,7 +99,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -50,7 +50,7 @@
               <ul>
                 <li><strong>起始時代：</strong>
                   <img class="gg" src="~assets/Feudal-age-reseach.jpg"
-                  width="30" alt=""><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+                  width="30" alt=""><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
                 </li>
                 <li><strong>起始資源：</strong>500食物，700木頭，50黃金，150石頭</li>
                 <li><strong>人口上限：</strong>75</li>

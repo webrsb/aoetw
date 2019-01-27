@@ -10,11 +10,11 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>戰象是<nuxt-link to="/civs/Persians">波斯</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+            <p>戰象是<nuxt-link to="/civs/Persians">波斯</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。</p>
             <p>戰象是一個緩慢但是破壞力強大的單位，兵種分類上屬於騎兵，對<nuxt-link to="/building/bulding">建築物</nuxt-link>享有攻擊加成。且戰象能夠造成踐踏傷害(戰鬥時對周圍單位造成傷害)。</p>
             <p>同樣的成本下，戰象甚至可以戰勝<nuxt-link to="/units/Paladin">遊俠</nuxt-link>。</p>
-            <p>戰象可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳戰象。</div>
+            <p>戰象可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳戰象。</div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -280,7 +280,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>升級完成的精銳戰象有620生命值，比一幢<nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>的<nuxt-link to="/building/House">房屋</nuxt-link>擁有更多生命值。</li>
+              <li>升級完成的精銳戰象有620生命值，比一幢<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>的<nuxt-link to="/building/House">房屋</nuxt-link>擁有更多生命值。</li>
               <li>最高級的精銳戰象擁有24的攻擊力，是除了攻城武器與火藥單位外最高的。</li>
               <li>這頭大象聽得懂人話，不需要象夫！</li>
               <li>比上述更神奇，這頭大象還有信仰，還會改宗其他宗教，聽得懂僧侶的教誨。</li>
@@ -328,7 +328,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

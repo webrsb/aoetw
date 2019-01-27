@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>藤甲弓兵是<nuxt-link to="/games/aor">拉惹的崛起</nuxt-link>資料片中越南的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+            <p>藤甲弓兵是<nuxt-link to="/games/aor">拉惹的崛起</nuxt-link>資料片中越南的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。是個有非常高遠程護甲的弓兵。</p>
-            <p>藤甲弓兵可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳藤甲弓兵。</div>
+            <p>藤甲弓兵可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳藤甲弓兵。</div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -178,7 +178,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

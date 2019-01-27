@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>化學可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發。研發後可生產
+            <p>化學可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發。研發後可生產
               <nuxt-link to="/units/Gunpowder_Unit"></nuxt-link>火藥單位（除了<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
                 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>與<nuxt-link to="/civs/Incas">印加</nuxt-link>外）。<nuxt-link to="/units/Siege_Weapons"></nuxt-link>攻城武器、弓箭手和防禦建築(如
                   <nuxt-link to="/building/Castle">城堡</nuxt-link>、箭塔、<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>)+1攻擊。</p>
@@ -85,7 +85,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

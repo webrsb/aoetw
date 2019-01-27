@@ -55,7 +55,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：在<nuxt-link
-                to="/techsage/Dark_Age"
+                to="/techs/age/Dark_Age"
                 >黑暗時代</nuxt-link
               >時及擁有免費的製圖學。
             </li>
@@ -133,7 +133,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

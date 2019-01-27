@@ -35,7 +35,7 @@
               to="/units/Archer_Units"
               >弓兵</nuxt-link
             >的剋星；對於近戰步兵是被克制的，但因移動速度快步兵很難打到。在
-            <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >鷹斥侯可升為鷹勇士，鷹勇士可以說是在城堡時代最強的兵種。克制弓兵、對馬有加成，也不怕招降、攻城武器也沒再怕的(遇到弩砲仍有所忌憚)。可怕的是他非常便宜，只需要20肉50黃金，生產也非常快速，這讓南美國家變得非常強勢。而他身體嬌小(相對於騎士)，在隙縫中鑽來鑽去也是非常靈活的。南美國只要出鷹勇士配合僧侶，幾乎是無往不利，相當難纏。
           </p>
           <strong>反制</strong>
@@ -607,7 +607,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            </p>銀行制度可以在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>時在<nuxt-link to="/building/Market">市集</nuxt-link>研發，前置科技為
+            </p>銀行制度可以在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>時在<nuxt-link to="/building/Market">市集</nuxt-link>研發，前置科技為
             <nuxt-link to="/techs/Coinage">鑄幣術</nuxt-link>。</p>
               </p>研究完成後它將免除所有<nuxt-link to="/Tribute.php">進貢費</nuxt-link>，在與玩家交換或發送資源時就無需再支付其他費用。</p>
               </p>當你有這種需求時，強烈建議研發這項科技。</p>
@@ -67,7 +67,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

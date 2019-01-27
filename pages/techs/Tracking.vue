@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            追縱技術於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            追縱技術於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >研發。研發後所有的
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>視野+2。
@@ -381,7 +381,7 @@
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

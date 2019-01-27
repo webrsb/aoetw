@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>馬戰車是韓國的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。是個有高遠程裝甲和高生命值的馬騎弓兵。他的攻擊方式像
+            <p>馬戰車是韓國的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的<nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。是個有高遠程裝甲和高生命值的馬騎弓兵。他的攻擊方式像
               <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>，但不像弩炮有爆炸傷害。</p>
-            <p>馬戰車可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳馬戰車。</div>
+            <p>馬戰車可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳馬戰車。</div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -360,7 +360,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

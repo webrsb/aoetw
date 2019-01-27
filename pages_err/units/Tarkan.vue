@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>韃靼騎兵是<nuxt-link to="/Huns">匈奴</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的城堡中訓練，當研發特殊科技
+            <p>韃靼騎兵是<nuxt-link to="/Huns">匈奴</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的城堡中訓練，當研發特殊科技
               <nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>後則可以在<nuxt-link to="/building/Stable">馬廄</nuxt-link>中生產。譯為「答剌罕騎兵」，在世紀帝國中翻成「韃靼騎兵」，是善於攻擊建築物的近戰騎兵單位。韃靼騎兵可在
-                <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳韃靼騎兵</p>
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳韃靼騎兵</p>
           </div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
@@ -308,7 +308,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

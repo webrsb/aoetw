@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>灌注士氣是哥德的帝王時代特殊技術，可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發，這項科技提高了軍營的工作速度100%(包括科技研發)。</p>
+            <p>灌注士氣是哥德的帝王時代特殊技術，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發，這項科技提高了軍營的工作速度100%(包括科技研發)。</p>
           </div>
           <h3><strong>戰術要點</strong></h3>
           <div class="hrn1"></div>
@@ -64,7 +64,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

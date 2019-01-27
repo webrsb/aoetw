@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬軛可於<nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link
+            馬軛可於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
             >研發。可讓新種植的農田產量增加75食物(總共250食物)。重犁是更進一步的科技。
           </p>
@@ -73,7 +73,7 @@
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Feudal_Age">封建時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
           </tr>
           <tr>

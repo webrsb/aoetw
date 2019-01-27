@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鼓風爐可於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link
+            鼓風爐可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>研發，可讓
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
               to="/units/Cavalry_Units"
@@ -145,7 +145,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

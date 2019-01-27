@@ -10,8 +10,8 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>槍隊長是<nuxt-link to="/civs/Incas">印加</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
-              <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。槍隊長是印加的兩個特殊單位之一(另一個為投石手)。它是一個拿著非常長的槍的反騎兵單位，且有1的射程。槍隊長可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳槍隊長。</p>
+            <p>槍隊長是<nuxt-link to="/civs/Incas">印加</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
+              <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。槍隊長是印加的兩個特殊單位之一(另一個為投石手)。它是一個拿著非常長的槍的反騎兵單位，且有1的射程。槍隊長可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳槍隊長。</p>
           </div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
@@ -251,7 +251,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            </p>大商隊可以在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>時研究於<nuxt-link to="/building/Market">市集</nuxt-link>，前置科技為
+            </p>大商隊可以在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>時研究於<nuxt-link to="/building/Market">市集</nuxt-link>，前置科技為
             <nuxt-link to="/techs/Cartography">製圖學</nuxt-link>。</p>
               </p>研究之後可以使<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>和<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link>的移動速度增加50%，變相的加速了黃金的獲取速度。</p>
               </p>研發大商隊是遊戲後期加速黃金收集速度的好方法，當然增加移動速度也使得被攻擊導致陣亡的機率大大降低。</p>
@@ -72,7 +72,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

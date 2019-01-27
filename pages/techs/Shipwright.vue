@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            造船匠於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link
+            造船匠於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link>
             研發。研發後船隻木材花費-20%，
             <nuxt-link to="/units/Naval_Vessels">所有船隻</nuxt-link
@@ -155,7 +155,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

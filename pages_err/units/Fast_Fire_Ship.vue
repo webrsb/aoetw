@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>快速火戰船在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>的碼頭可以訓練。這是一艘有"火焰噴射器"的船，對其他的船隻有攻擊加成，但必須靠近敵艦才能進行攻擊。。</p>
+            <p>快速火戰船在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>的碼頭可以訓練。這是一艘有"火焰噴射器"的船，對其他的船隻有攻擊加成，但必須靠近敵艦才能進行攻擊。。</p>
             <p>與火戰船相比，快速火戰船的傷害更高護甲也更厚。快速火戰船的速度也比火戰船快，可以追上<nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>，但是攻擊速度的話則還是跟火戰船一模一樣。</p>
           </div>
            <h3>戰術</h3> 
@@ -382,7 +382,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

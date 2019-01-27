@@ -10,8 +10,8 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>飛刀女獵手是<nuxt-link to="/civs/Malians">馬利</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
-              <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。飛刀女獵手是個快速、遠距攻擊的步兵單位，會向目標敵人投擲飛刀。飛刀女獵手可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳飛刀女獵手。</p>
+            <p>飛刀女獵手是<nuxt-link to="/civs/Malians">馬利</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
+              <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。飛刀女獵手是個快速、遠距攻擊的步兵單位，會向目標敵人投擲飛刀。飛刀女獵手可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳飛刀女獵手。</p>
             <p><em>影片介紹</em>
             </p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/O6tsFsGSC1E"
@@ -241,7 +241,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>火槍兵，是一個強大的火藥單位，可以在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link>後於
+            <p>火槍兵，是一個強大的火藥單位，可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link>後於
               <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>訓練。他擁有強大的攻擊力但命中率不高且射速緩慢，是可怕的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>殺手。</p>
           </div>
           <h3>文明可訓練與否</h3> 
@@ -268,7 +268,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

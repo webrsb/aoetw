@@ -19,7 +19,7 @@
           <div class="row">
             <div class="col-md-6">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Feudal_Age"></nuxt-link>封建時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Feudal_Age"></nuxt-link>封建時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Goldmining.jpg" alt=""><nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link>
@@ -32,7 +32,7 @@
             </div>
             <div class="col-md-6">
               <div class="n1">
-                 <h4><nuxt-link to="/techsage/Castle_Age"></nuxt-link>城堡時代</h4> 
+                 <h4><nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代</h4> 
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Goldshaftmining.jpg" alt=""><nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
@@ -174,7 +174,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><nuxt-link to="/techsage/Dark_Age">黑暗時代</nuxt-link>
+              <td class="unit4"><nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
               </td>
             </tr>
             <tr>

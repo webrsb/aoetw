@@ -82,8 +82,6 @@ export default {
       return bcr.top + win.pageYOffset
     },
     focusScroll() {
-      console.log('focusScroll')
-      console.log(this.$route.hash)
       let hash = decodeURIComponent(this.$route.hash)
       this.$nextTick(() => {
         let el

@@ -10,10 +10,10 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>馬札爾驃騎兵是<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>的
+            <p>馬札爾驃騎兵是<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。馬札爾驃騎兵是輕型快速的騎兵部隊對<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link>有加成傷害。</p>
             <p>馬札爾驃騎兵雖貴為城堡兵但是在城堡時代時研發<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>後即不需要黃金因此被稱為是垃圾兵，值得一提馬札爾驃騎兵跟騎士是差不多威力的。馬札爾驃騎兵可以在
-              <nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級為精銳馬札爾驃騎兵。</p>
+              <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳馬札爾驃騎兵。</p>
           </div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
@@ -292,7 +292,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

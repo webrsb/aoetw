@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>戰矛兵（HD稱為精銳戰矛兵，升級前叫做戰矛兵，在HD以前玩家習慣講矛兵，升級為戰矛兵。）是 <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>對抗
+            <p>戰矛兵（HD稱為精銳戰矛兵，升級前叫做戰矛兵，在HD以前玩家習慣講矛兵，升級為戰矛兵。）是 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>對抗
               <nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link>的單位，對<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link>和 <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>都有額外的加成，非常適合對付其他遠程單位。</p>
             <p>除了 <nuxt-link to="/civs/Turks">土耳其人</nuxt-link>，所有文明都有戰矛兵。</p>
             <p><nuxt-link to="/civs/Vietnamese">越南</nuxt-link>和他的同盟有<nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link>。</p>
@@ -290,7 +290,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

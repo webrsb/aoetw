@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>蒙古突騎是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>的特殊單位。對攻城器有加成傷害的馬弓騎兵單位。蒙古突騎能夠在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>>升級成精銳蒙古突騎。</p>
+            <p>蒙古突騎是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>的特殊單位。對攻城器有加成傷害的馬弓騎兵單位。蒙古突騎能夠在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>>升級成精銳蒙古突騎。</p>
           </div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
@@ -428,7 +428,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

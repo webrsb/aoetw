@@ -9,7 +9,7 @@
           <div class="hrn1"></div>
         </div>
         <div class="col-md-8">
-          <div class="n1">帝王駱駝騎兵是<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link>，對於騎兵較有優勢，為
+          <div class="n1">帝王駱駝騎兵是<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link>，對於騎兵較有優勢，為
             <nuxt-link to="/civs/Indians">印度</nuxt-link>的特殊兵種。</div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
@@ -291,7 +291,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

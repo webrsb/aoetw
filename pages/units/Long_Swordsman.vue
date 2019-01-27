@@ -22,7 +22,7 @@
         <div class="n1">
           <p>長劍兵的主要優勢並不在於兵種強度，而在於訓練的成本和快速生產。</p>
           <p>
-            長劍士是<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            長劍士是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的基本步兵單位。能夠擊敗除了<nuxt-link to="/units/Knight"
               >騎士</nuxt-link
             >和
@@ -649,7 +649,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

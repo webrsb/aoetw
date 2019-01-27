@@ -114,7 +114,7 @@
           <ul>
             <li><strong>起始時代：</strong>
               <img class="gg" src="~assets/Castle-age-reseach.jpg"
-              class="gg" alt=""><nuxt-link to="/techsage/Imperial_Age">城堡時代</nuxt-link>
+              class="gg" alt=""><nuxt-link to="/techs/age/Imperial_Age">城堡時代</nuxt-link>
             </li>
             <li><strong>起始資源：</strong>200木頭，200食物
               <br/>50黃金，150石頭</li>

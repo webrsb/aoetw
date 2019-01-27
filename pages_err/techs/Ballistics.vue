@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>彈道學可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發。可讓弓箭手、船隻、
+            <p>彈道學可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發。可讓弓箭手、船隻、
               <nuxt-link to="/building/Castle">城堡</nuxt-link>、箭塔(包含<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>)和<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>對移動目標的準確率大幅上升。</p>
             <p>在沒有彈道學的情況下，所有遠距離單位對於平行移動的目標，命中率都是不佳的，所以可以利用這個特點進行巧妙的控兵躲避敵方的箭矢，一旦研發彈道學後，即使你在怎麼移動仍無法躲過敵人的箭矢。因此不管如何這個科技都是相當重要的。比起另一個遠距離部隊重要的科技拇指環來說，更推薦優先研發彈道學。尤其是命中率只有50%的馬弓騎兵。</p>
           </div>
@@ -74,7 +74,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </td>
             </tr>
             <tr>

@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            流刺網於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            流刺網於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link>
             研發。研發後
             <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
@@ -79,7 +79,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -11,7 +11,7 @@
         <div class="col-md-8">
           <div class="n1">長弓手是<nuxt-link to="/civs/Britons">不列顛人</nuxt-link>的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>。徒步遠程單位，射程很遠。因此伴隨著低生命值。
             <br/>
-            <br/>長弓手能夠在<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>升級成精銳長弓手。</div>
+            <br/>長弓手能夠在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級成精銳長弓手。</div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -271,7 +271,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -55,7 +55,7 @@
               城堡時代<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>木材成本減免50%
             </li>
             <li>
-              步行弓兵單位(矛兵除外)城堡時代攻擊距離+1，<nuxt-link to="/techsage/Imperial_Age"
+              步行弓兵單位(矛兵除外)城堡時代攻擊距離+1，<nuxt-link to="/techs/age/Imperial_Age"
                 >帝王時代</nuxt-link>攻擊距離再+1(累計+2)
             </li>
             <li>牧羊工作效率+25%(綿羊、母牛、水牛、火雞)</li>
@@ -82,7 +82,7 @@
               <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>搬到<nuxt-link to="#" 城堡時代></nuxt-link>。
             </li>
             <li>
-              新的<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>特殊科技<nuxt-link to="#"
+              新的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>特殊科技<nuxt-link to="#"
                 >戰狼</nuxt-link>。
             </li>
           </ul>

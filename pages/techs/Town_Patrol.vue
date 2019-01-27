@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            城鎮巡邏可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            城鎮巡邏可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             研發。研發後建築物視野+4。
           </p>
@@ -89,7 +89,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

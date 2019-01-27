@@ -25,7 +25,7 @@
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
                 <td class="tc2" width="20%">
-                  <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代:</nuxt-link>
+                  <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代:</nuxt-link>
                 </td>
                 <td class="tc1" width="15%">起始資源:</td>
                 <td class="tc2">木頭:800，食物:600，

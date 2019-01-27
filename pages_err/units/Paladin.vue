@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>遊俠，新譯名為聖騎士。遊俠是<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link>，在帝王時代最強勢的兵種之一，對於
+            <p>遊俠，新譯名為聖騎士。遊俠是<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link>，在帝王時代最強勢的兵種之一，對於
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link to="/units/Camel">駱駝兵種</nuxt-link>、<nuxt-link to="/units/Pikeman">長槍兵種</nuxt-link>較劣勢。</p>
           </div>
           <h3>文明可訓練與否</h3> 
@@ -140,7 +140,7 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" width="30" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </td>
             </tr>
             <tr>

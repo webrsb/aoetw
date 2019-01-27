@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            騎兵鎖甲可於<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            騎兵鎖甲可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓騎兵護甲+1/+1。
           </p>
@@ -134,7 +134,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>

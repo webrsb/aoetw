@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            帕提亞戰術(舊稱安息人戰術)在<nuxt-link to="/techsage/Imperial_Age"
+            帕提亞戰術(舊稱安息人戰術)在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >於<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >研發，他給予了
@@ -230,7 +230,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

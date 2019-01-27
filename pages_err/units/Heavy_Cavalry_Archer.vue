@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>重裝馬弓騎兵訓練於<nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>的<nuxt-link to="/Archery_Range">射箭場</nuxt-link>，他有非常快的速度與遠程的攻擊，使他成為一名出色的騷擾者，是非常有效對付步兵單位的兵種。但因為他是騎馬的遠程單位，因此懼怕
+            <p>重裝馬弓騎兵訓練於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>的<nuxt-link to="/Archery_Range">射箭場</nuxt-link>，他有非常快的速度與遠程的攻擊，使他成為一名出色的騷擾者，是非常有效對付步兵單位的兵種。但因為他是騎馬的遠程單位，因此懼怕
               <nuxt-link to="/units/Skirmisher">戰矛兵</nuxt-link>與<nuxt-link to="/units/Pikeman">槍兵</nuxt-link>。</p>
           </div>
           <h3>文明可訓練與否</h3> 
@@ -408,7 +408,7 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techsage/Imperial_Age">帝王時代</nuxt-link>
+              <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

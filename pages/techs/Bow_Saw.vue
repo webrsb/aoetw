@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            弓鋸是<nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link
+            弓鋸是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             ><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
             >的科技，研發後可使村民收集木材的速度增快20%。一搬來說許可的話，建議一上城堡時代立即研發此科技，非常重要
           </p>
@@ -67,7 +67,7 @@
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 alt=""
-              /><nuxt-link to="/techsage/Castle_Age">城堡時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
