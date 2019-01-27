@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            製圖學可以研究於<a href="Market.php">市集</a
+            製圖學可以研究於<a href="/building/Market">市集</a
             >。功能是看到盟友的視野。
           </p>
           <p>
@@ -54,7 +54,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Portuguese.php">葡萄牙</a>：在<a href="Dark_Age.php"
+              <a href="/civs/Portuguese">葡萄牙</a>：在<a
+                href="/techsage/Dark_Age"
                 >黑暗時代</a
               >時及擁有免費的製圖學。
             </li>
@@ -64,7 +65,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
             <li>成本為100F/100G。</li>
@@ -72,13 +73,13 @@
             <li></li>
           </ul>
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>免費且立即完成。</li>
           </ul>
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>5.7版本後建立市場後，立即完成。</li>
@@ -108,7 +109,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">製圖學</a></div>
+              <div class="unititle"><a href="#">製圖學</a></div>
             </td>
           </tr>
           <tr>
@@ -120,7 +121,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -129,11 +130,11 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Feudal_Age.php">封建時代</a></td>
+            <td class="unit4"><a href="/techsage/Feudal_Age">封建時代</a></td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
-            <td class="unit4"><a href="Market.php">市集</a></td>
+            <td class="unit4"><a href="/building/Market">市集</a></td>
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
@@ -141,7 +142,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -154,7 +155,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

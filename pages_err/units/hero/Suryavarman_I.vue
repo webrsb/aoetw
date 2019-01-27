@@ -16,9 +16,9 @@
           <div class="hrn1"></div>
           <p>蘇利耶跋摩一世（Suryavarman I，？－1050年），柬埔寨吳哥王朝國王（1002年或1010年－1050年在位）。在他統治時期動工興建了吳哥城市中心著名的巴戎寺（「金塔」），並拆毀重建了羅貞陀羅跋摩二世（Rājendravarman
             II）興建的「空中宮殿」。
-            <p><a href="Udayadityavarman_I.php">優陀耶迭多跋摩一世</a>被殺後，吳哥陷入混亂，因無繼承人，蘇耶跋摩一世和
+            <p><a href="/units/hero/Udayadityavarman_I">優陀耶迭多跋摩一世</a>被殺後，吳哥陷入混亂，因無繼承人，蘇耶跋摩一世和
               <a
-              href="Jayaviravarman.php">闍耶毗羅跋摩</a>爭奪王位。蘇耶跋摩一世是馬來亞裔的佛教王子。經過九年的戰爭，蘇耶跋摩一世贏得了王位。</p>
+              href="/units/hero/Jayaviravarman">闍耶毗羅跋摩</a>爭奪王位。蘇耶跋摩一世是馬來亞裔的佛教王子。經過九年的戰爭，蘇耶跋摩一世贏得了王位。</p>
             <p>他的統治持續了約40年，他花了大量時間平定戰亂，捍衛王位。為鞏固他的政治權力，他邀請約四千名當地官員到皇家宮殿宣誓效忠於他。他信佛教但不禁止人們繼續信奉印度教。</p>
             <p>他的宮殿坐落在吳哥城附近，在1022年蘇耶跋摩一世將領土擴張到暹羅華富里（Lopburi），並進入到寮國。</p>
             <p>他建造了位於扁擔山（Dangrek Mountains）的柏威夏寺（Prasat Preah Vihear）和空中宮殿（Phimeanakas），還開始修第二個吳哥水庫西芭萊湖（West
@@ -29,7 +29,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="">蘇利耶跋摩一世</a>
+                <div class="unititle"><a href="#">蘇利耶跋摩一世</a>
                 </div>
               </td>
             </tr>
@@ -47,7 +47,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">騎兵<br/>英雄</a>
+              <td class="unit4"><a href="#">騎兵<br/>英雄</a>
               </td>
             </tr>
             <tr>

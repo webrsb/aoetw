@@ -61,25 +61,25 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Forging.jpg" width="30" alt="" /><a
-                  href="Forging.php"
+                  href="/techs/Forging"
                   >鍛造</a
                 >(+1)
               </p>
               <p>
                 <img src="~assets/Ironcasting.jpg" width="30" alt="" /><a
-                  href="Iron_Casting.php"
+                  href="/techs/Iron_Casting"
                   >鑄造</a
                 >(+1)
               </p>
               <p>
                 <img src="~assets/Blastfurnace.jpg" width="30" alt="" /><a
-                  href="Blast_Furnace.php"
+                  href="/techs/Blast_Furnace"
                   >鼓風爐</a
                 >(+2)
               </p>
               <p>
                 <img src="~assets/Arson.jpg" width="30" alt="" /><a
-                  href="Arson.php"
+                  href="/techs/Arson"
                   >縱火</a
                 >(步兵+2攻擊vs建築)
               </p>
@@ -90,19 +90,19 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Scalemailarmor.jpg" width="30" alt="" /><a
-                  href="Scale_Mail_Armor.php"
+                  href="/techs/Scale_Mail_Armor"
                   >步兵鱗甲</a
                 >(+1/+1)
               </p>
               <p>
                 <img src="~assets/Chainmailarmor.jpg" width="30" alt="" /><a
-                  href="Chain_Mail_Armor.php"
+                  href="/techs/Chain_Mail_Armor"
                   >步兵鎖甲</a
                 >(+1/+1)
               </p>
               <p>
                 <img src="~assets/Platemailarmor.jpg" width="30" alt="" /><a
-                  href="Plate_Mail_Armor.php"
+                  href="/techs/Plate_Mail_Armor"
                   >步兵板甲</a
                 >(+1/+2)
               </p>
@@ -113,7 +113,7 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Squires.jpg" width="30" alt="" /><a
-                  href="Squires.php"
+                  href="/techs/Squires"
                   >護衛</a
                 >(+10%)
               </p>
@@ -124,7 +124,7 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Tracking.jpg" width="30" alt="" /><a
-                  href="Tracking.php"
+                  href="/techs/Tracking"
                   >追縱技術</a
                 >(+2)
               </p>
@@ -136,7 +136,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">亞瑟王</a></div>
+              <div class="unititle"><a href="#">亞瑟王</a></div>
             </td>
           </tr>
           <tr>

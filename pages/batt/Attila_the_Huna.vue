@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是說關於阿提拉戰役。而關於英雄的阿提拉這個單位請參見<a
-              href="Attila_the_Hun.php"
+              href="/units/hero/Attila_the_Hun"
               >匈奴王阿提拉</a
             ></em
           >
@@ -46,14 +46,14 @@
             </div>
             <div class="col-md-6">
               <ol>
-                <li><a href="Scourge_of_God.php">上帝之鞭</a></li>
-                <li><a href="The_Great_Ride.php">偉大的騎士</a></li>
+                <li><a href="/batt/Scourge_of_God">上帝之鞭</a></li>
+                <li><a href="/batt/The_Great_Ride">偉大的騎士</a></li>
                 <li>
-                  <a href="Walls_of_Constantinople.php">君士坦丁堡的城牆</a>
+                  <a href="/batt/Walls_of_Constantinople">君士坦丁堡的城牆</a>
                 </li>
-                <li><a href="A_Barbarian_Betrothal.php">蠻族的婚約</a></li>
-                <li><a href="Catalaunian_Fields.php">卡塔隆尼亞平原</a></li>
-                <li><a href="Fall_of_Rome.php">羅馬的衰落</a></li>
+                <li><a href="/batt/A_Barbarian_Betrothal">蠻族的婚約</a></li>
+                <li><a href="/batt/Catalaunian_Fields">卡塔隆尼亞平原</a></li>
+                <li><a href="/batt/Fall_of_Rome">羅馬的衰落</a></li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -126,7 +126,7 @@
               <i
                 ><b
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89"
+                    href="/https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89"
                     >阿提拉</a
                   ></b
                 ></i

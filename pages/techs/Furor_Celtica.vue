@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            賽爾特狂暴是<a href="Celts.php">賽爾特</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            賽爾特狂暴是<a href="/civs/Celts">賽爾特</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Siege_Workshop.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/building/Siege_Workshop"
               >攻城器製造所</a
             >的單位+40% HP。
           </p>
@@ -25,7 +25,7 @@
         <div class="n1">
           <ul>
             <li>
-              賽爾特狂暴讓賽爾特人的<a href="Siege_Weapons.php">攻城武器</a
+              賽爾特狂暴讓賽爾特人的<a href="/units/Siege_Weapons">攻城武器</a
               >更難被摧毀。搭配他們的文明加成(攻城武器開火速度快20%)和團隊加成(攻城器製造所工作速率快15%)，讓賽爾特攻城武器是遊戲中最為人所懼怕的
             </li>
           </ul>
@@ -35,7 +35,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速賽爾特狂暴的研究時間(快25%)。
             </li>
           </ul>
@@ -44,13 +45,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
             <li>賽爾特狂暴讓所有攻城器製造所的單位+50% HP。</li>
           </ul>
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>+50% HP改為+40% HP。</li>
@@ -68,7 +69,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">賽爾特狂暴</a></div>
+              <div class="unititle"><a href="#">賽爾特狂暴</a></div>
             </td>
           </tr>
           <tr>
@@ -80,12 +81,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Celts.php">賽爾特</a></td>
+            <td class="unit4"><a href="/civs/Celts">賽爾特</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -94,14 +95,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -112,7 +113,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -125,7 +126,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

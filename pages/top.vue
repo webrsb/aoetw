@@ -10,7 +10,7 @@
             width="50px;"
             alt=""
             style="margin-right:20px;"
-          />持續更新頁面：此頁面持續更新，歡迎到<a href="talk.php">討論區</a
+          />持續更新頁面：此頁面持續更新，歡迎到<a href="/talk">討論區</a
           >參與討論</em
         >
       </div>
@@ -19,7 +19,7 @@
         <p>本頁面介紹世紀帝國界的知名玩家，單挑團戰後寫的是最高積分</p>
         <p>
           比賽的縮寫可參考
-          <a href="http://aoetw.com/history.php">歷年比賽結果</a>，2v2
+          <a href="http://aoetw.com//history">歷年比賽結果</a>，2v2
           的縮寫以「地圖D年份」表示
         </p>
       </div>
@@ -32,7 +32,7 @@
                   <strong
                     >Viper
                     <a
-                      href="https://www.voobly.com/profile/view/123211439/Matches"
+                      href="/https://www.voobly.com/profile/view/123211439/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/theviper"
@@ -80,7 +80,7 @@
                   <strong
                     >Liereyy
                     <a
-                      href="https://www.voobly.com/profile/view/124147336/Matches"
+                      href="/https://www.voobly.com/profile/view/124147336/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/liereyy"
@@ -122,7 +122,7 @@
                   <strong
                     >Yo (猜火車)
                     <a
-                      href="https://www.voobly.com/profile/view/123636492/Matches"
+                      href="/https://www.voobly.com/profile/view/123636492/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.douyu.com/753676"
@@ -163,7 +163,7 @@
                   <strong
                     >Nicov
                     <a
-                      href="https://www.voobly.com/profile/view/123807394/Matches"
+                      href="/https://www.voobly.com/profile/view/123807394/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/nicov_"
@@ -213,7 +213,7 @@
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UC8m8Iah2xOHZvnBbpyOcEOA/videos"
+                      href="/https://www.youtube.com/channel/UC8m8Iah2xOHZvnBbpyOcEOA/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -257,7 +257,7 @@
                   <strong
                     >TaToH
                     <a
-                      href="https://www.voobly.com/profile/view/123999216/Matches"
+                      href="/https://www.voobly.com/profile/view/123999216/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/tatoh"
@@ -267,7 +267,7 @@
                       ><img src="~assets/Tes.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UCtPQLL9KACyYzoYXiMl1Nkg/videos"
+                      href="/https://www.youtube.com/channel/UCtPQLL9KACyYzoYXiMl1Nkg/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -317,7 +317,7 @@
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UCimCFIisAqXW9udVhN_LpwQ/videos"
+                      href="/https://www.youtube.com/channel/UCimCFIisAqXW9udVhN_LpwQ/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -360,14 +360,14 @@
                   <strong
                     >slam
                     <a
-                      href="https://www.voobly.com/profile/view/123497926/Matches"
+                      href="/https://www.voobly.com/profile/view/123497926/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/slamjam_"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UC15K06FB4EO98AMBYqraQ3w/videos"
+                      href="/https://www.youtube.com/channel/UC15K06FB4EO98AMBYqraQ3w/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -407,7 +407,7 @@
                   <strong
                     >MbL
                     <a
-                      href="https://www.voobly.com/profile/view/123844441/Matches"
+                      href="/https://www.voobly.com/profile/view/123844441/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/mblaoc"
@@ -448,7 +448,7 @@
                   <strong
                     >Hearttt
                     <a
-                      href="https://www.voobly.com/profile/view/124386524/Matches"
+                      href="/https://www.voobly.com/profile/view/124386524/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/hearttt_"
@@ -487,7 +487,7 @@
                   <strong
                     >Hera
                     <a
-                      href="https://www.voobly.com/profile/view/124954867/Matches"
+                      href="/https://www.voobly.com/profile/view/124954867/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/hera_aoc"
@@ -528,7 +528,7 @@
                   <strong
                     >Lyx (衝動)
                     <a
-                      href="https://www.voobly.com/profile/view/123230853/Matches"
+                      href="/https://www.voobly.com/profile/view/123230853/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.douyu.com/1029928"
@@ -570,7 +570,7 @@
                   <strong
                     >yinghua (櫻花)
                     <a
-                      href="https://www.voobly.com/profile/view/123910183/Matches"
+                      href="/https://www.voobly.com/profile/view/123910183/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.douyu.com/953871"
@@ -611,7 +611,7 @@
                   <strong
                     >Fengxin (封心)
                     <a
-                      href="https://www.voobly.com/profile/view/123835916/Matches"
+                      href="/https://www.voobly.com/profile/view/123835916/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.douyu.com/294359"
@@ -653,7 +653,7 @@
                   <strong
                     >miguel
                     <a
-                      href="https://www.voobly.com/profile/view/123600879/Matches"
+                      href="/https://www.voobly.com/profile/view/123600879/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/miguelaoc"
@@ -701,7 +701,7 @@
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UCWk47NDwrg9p696-Usiv8fw/videos"
+                      href="/https://www.youtube.com/channel/UCWk47NDwrg9p696-Usiv8fw/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -742,7 +742,7 @@
                   <strong
                     >dogao
                     <a
-                      href="https://www.voobly.com/profile/view/123444726/Matches"
+                      href="/https://www.voobly.com/profile/view/123444726/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/dogaoaoc"
@@ -785,14 +785,14 @@
                   <strong
                     >F1Re
                     <a
-                      href="https://www.voobly.com/profile/view/123658746/Matches"
+                      href="/https://www.voobly.com/profile/view/123658746/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/f1reaoe"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UCe5PZxogLEsu5VacKmOiR5g/videos"
+                      href="/https://www.youtube.com/channel/UCe5PZxogLEsu5VacKmOiR5g/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -830,7 +830,7 @@
                   <strong
                     >mentalist
                     <a
-                      href="https://www.voobly.com/profile/view/123805043/Matches"
+                      href="/https://www.voobly.com/profile/view/123805043/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -869,14 +869,14 @@
                   <strong
                     >St4rk
                     <a
-                      href="https://www.voobly.com/profile/view/125107343/Matches"
+                      href="/https://www.voobly.com/profile/view/125107343/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/st4rk_"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UCoX5HqFM4qEGJYfj0TEOIpg/videos"
+                      href="/https://www.youtube.com/channel/UCoX5HqFM4qEGJYfj0TEOIpg/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -918,7 +918,7 @@
                   <strong
                     >ACCM
                     <a
-                      href="https://www.voobly.com/profile/view/123591487/Matches"
+                      href="/https://www.voobly.com/profile/view/123591487/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/accm_vn"
@@ -963,7 +963,7 @@
                   <strong
                     >CooL
                     <a
-                      href="https://www.voobly.com/profile/view/123194620/Matches"
+                      href="/https://www.voobly.com/profile/view/123194620/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/vns_cool_"
@@ -1005,14 +1005,14 @@
                   <strong
                     >BacT
                     <a
-                      href="https://www.voobly.com/profile/view/123194539/Matches"
+                      href="/https://www.voobly.com/profile/view/123194539/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/bact_"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UCScpQlZKVLdPMFBdd1gXbRQ/videos"
+                      href="/https://www.youtube.com/channel/UCScpQlZKVLdPMFBdd1gXbRQ/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -1054,7 +1054,7 @@
                   <strong
                     >Yellow (saymyname)
                     <a
-                      href="https://www.voobly.com/profile/view/123174138/Matches"
+                      href="/https://www.voobly.com/profile/view/123174138/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/saymyname2909"
@@ -1095,7 +1095,7 @@
                   <strong
                     >TheMax
                     <a
-                      href="https://www.voobly.com/profile/view/123282211/Matches"
+                      href="/https://www.voobly.com/profile/view/123282211/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/themax_"
@@ -1136,7 +1136,7 @@
                   <strong
                     >Villese
                     <a
-                      href="https://www.voobly.com/profile/view/124166670/Matches"
+                      href="/https://www.voobly.com/profile/view/124166670/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -1174,7 +1174,7 @@
                   <strong
                     >Zuppi
                     <a
-                      href="https://www.voobly.com/profile/view/123961442/Matches"
+                      href="/https://www.voobly.com/profile/view/123961442/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/toreeeee"
@@ -1217,7 +1217,7 @@
                   <strong
                     >Pike
                     <a
-                      href="https://www.voobly.com/profile/view/123162283/Matches"
+                      href="/https://www.voobly.com/profile/view/123162283/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/pikeaoc"
@@ -1296,7 +1296,7 @@
                   <strong
                     >CL (晨亮)
                     <a
-                      href="https://www.voobly.com/profile/view/123916446/Matches"
+                      href="/https://www.voobly.com/profile/view/123916446/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.douyu.com/556823"
@@ -1371,7 +1371,7 @@
                   <strong
                     >Vinch
                     <a
-                      href="https://www.voobly.com/profile/view/123397463/Matches"
+                      href="/https://www.voobly.com/profile/view/123397463/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/vik_vinchester"
@@ -1412,7 +1412,7 @@
                   <strong
                     >Edie
                     <a
-                      href="https://www.voobly.com/profile/view/123666945/Matches"
+                      href="/https://www.voobly.com/profile/view/123666945/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/edietv"
@@ -1454,14 +1454,14 @@
                   <strong
                     >Melkor
                     <a
-                      href="https://www.voobly.com/profile/view/123922182/Matches"
+                      href="/https://www.voobly.com/profile/view/123922182/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/braoe2"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
-                      href="https://www.youtube.com/channel/UCA4ad3jJDfg6A3FHsG_jkqg/videos"
+                      href="/https://www.youtube.com/channel/UCA4ad3jJDfg6A3FHsG_jkqg/videos"
                       ><img src="~assets/YouTube.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -1500,7 +1500,7 @@
                   <strong
                     >Cloud (雲)
                     <a
-                      href="https://www.voobly.com/profile/view/123198508/Matches"
+                      href="/https://www.voobly.com/profile/view/123198508/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
                     <a href="https://www.twitch.tv/gktcloud"
@@ -1544,7 +1544,7 @@
                   <strong
                     >Chris
                     <a
-                      href="https://www.voobly.com/profile/view/123397426/Matches"
+                      href="/https://www.voobly.com/profile/view/123397426/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""/></a
                   ></strong>
                 </h3>
@@ -1581,7 +1581,7 @@
         <p></p>
         <p>
           照片來源：<a href="https://www.aoezone.net/">AoEZone 共享資源</a>、<a
-            href="https://teamsecret.gg/"
+            href="/https://teamsecret.gg/"
             >Secret 授權</a
           >、<a href="https://www.facebook.com/gametvgiaidau/">GameTV 授權</a
           >、選手本人提供

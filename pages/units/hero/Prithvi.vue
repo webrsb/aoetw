@@ -12,11 +12,11 @@
         <div class="n1">
           <p>
             <strong>布里斯比</strong>是《世紀帝國II：被遺忘的帝國》中的一名<a
-              href="Archer_Units.php"
+              href="/units/Archer_Units"
               >射手</a
             >
-            <a href="heros.php">英雄</a>，在敘述他本身的戰役，<a
-              href="Prithviraja.php"
+            <a href="/units/hero">英雄</a>，在敘述他本身的戰役，<a
+              href="/Prithviraja.php"
               >布里斯比羅吉</a
             >的幾個關卡中出現，也可在地圖編輯器中使用。
           </p>
@@ -29,7 +29,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">布里斯比</a></div>
+              <div class="unititle"><a href="#">布里斯比</a></div>
             </td>
           </tr>
           <tr>
@@ -47,7 +47,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="Archer_Units.php">射手</a> <br /><a href="heros.php"
+              <a href="/units/Archer_Units">射手</a> <br /><a href="/units/hero"
                 >英雄</a
               >
             </td>
@@ -72,7 +72,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="Armor_Class_Spearman.php">槍兵</a> +3
+              對<a href="/armor/Armor_Class_Spearman">槍兵</a> +3
             </td>
           </tr>
           <tr></tr>
@@ -81,7 +81,7 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Frame_delay.php">開火間隔</a></td>
+            <td class="unit3"><a href="/elements/Frame_delay">開火間隔</a></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -109,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit3">防禦類型</td>
-            <td class="unit4"><a href="Armor_Class_Archer.php">射手</a></td>
+            <td class="unit4"><a href="/armor/Armor_Class_Archer">射手</a></td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>

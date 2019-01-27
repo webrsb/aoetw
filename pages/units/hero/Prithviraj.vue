@@ -12,19 +12,19 @@
         <div class="n1">
           <p>
             《世紀帝國II：被遺忘的帝國》中的<strong>布里斯比羅吉</strong
-            ><a href="batt.php">戰役</a>講述的是歷史人物
+            ><a href="/batt/">戰役</a>講述的是歷史人物
             <a href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
               >布里陀毗羅闍三世</a
-            >的故事。他是1165年至1192年間<a href="India.php">印度</a
+            >的故事。他是1165年至1192年間<a href="/India.php">印度</a
             >阿傑梅爾和德里的統治者。
           </p>
           <h3>單位特性</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              布里斯比羅吉是一名<a href="Cavalry_Units.php">騎兵</a
-              ><a href="Archer_Units.php">射手</a>
-              <a href="Heros.php">英雄</a
+              布里斯比羅吉是一名<a href="/units/Cavalry_Units">騎兵</a
+              ><a href="/units/Archer_Units">射手</a>
+              <a href="/Heros.php">英雄</a
               >。由於是英雄單位，他無法被招降且能自動回血。他也可在戰役編輯器中使用。
             </p>
             <p>在他的同名戰役中，他出現的形象共有以下三種：</p>
@@ -35,22 +35,23 @@
                 src="~assets/Prithviicon.png"
                 width="22"
                 alt=""
-              />布里斯比羅吉(<a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a
+              />布里斯比羅吉(<a href="/Heavy_Cavalry_units/Archer"
+                >重裝馬弓騎兵</a
               >)
             </li>
             <li>
               <img src="~assets/Prithviicon.png" width="22" alt="" /><a
-                href="Prithvi.php"
+                href="/units/hero/Prithvi"
               >
                 布里斯比</a
-              >(<a href="Crossbowman.php">弩兵)</a>
+              >(<a href="/units/Crossbowman">弩兵)</a>
             </li>
             <li>
               <img
                 src="~assets/Sheriffofnottinghamicon.png"
                 width="22"
                 alt=""
-              />布里斯比羅吉(<a href="Long_Swordsman.php">長劍兵</a>)
+              />布里斯比羅吉(<a href="/units/Long_Swordsman">長劍兵</a>)
             </li>
           </ul>
           <p>在整個戰役中，主要都是以重裝馬弓騎兵的形象出現。</p>
@@ -60,7 +61,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">布里斯比羅吉</a></div>
+              <div class="unititle"><a href="#">布里斯比羅吉</a></div>
             </td>
           </tr>
           <tr>
@@ -78,8 +79,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="Cavalry_Units.php">騎兵</a> <br /><a
-                href="Archer_Units.php"
+              <a href="/units/Cavalry_Units">騎兵</a> <br /><a
+                href="/units/Archer_Units"
                 >射手</a
               >
             </td>
@@ -104,8 +105,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="Armor_Class_Building.php">建築</a> +10 <br />對<a
-                href="Armor_Class_Spearman.php"
+              對<a href="/armor/Armor_Class_Building">建築</a> +10 <br />對<a
+                href="/armor/Armor_Class_Spearman"
                 >槍兵</a
               >
               +6
@@ -117,7 +118,7 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Frame_delay.php">開火間隔</a></td>
+            <td class="unit3"><a href="/elements/Frame_delay">開火間隔</a></td>
             <td class="unit4">10</td>
           </tr>
           <tr>
@@ -146,11 +147,11 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <a href="Armor_Class_Archer.php">射手</a> <br /><a
-                href="Armor_Class_Cavalry.php"
+              <a href="/armor/Armor_Class_Archer">射手</a> <br /><a
+                href="/armor/Armor_Class_Cavalry"
                 >騎兵</a
               >
-              <br /><a href="Armor_Class_Cavalry_Archer.php">馬弓騎兵</a>
+              <br /><a href="/armor/Armor_Class_Cavalry_Archer">馬弓騎兵</a>
             </td>
           </tr>
           <tr>

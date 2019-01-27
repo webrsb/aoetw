@@ -10,24 +10,24 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>日本武士是<a href="Japanese.php">日本</a>的特殊單位，能夠在<a href="Castle_Age.php">城堡時代</a>的
+            <p>日本武士是<a href="/civs/Japanese">日本</a>的特殊單位，能夠在<a href="/techsage/Castle_Age">城堡時代</a>的
               <a
-              href="Castle.php">城堡</a>中訓練。日本武士是一個對特殊單位有相當高攻擊的單位。日本武士可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳日本武士。</p>
+              href="/building/Castle">城堡</a>中訓練。日本武士是一個對特殊單位有相當高攻擊的單位。日本武士可以在<a href="/techsage/Imperial_Age">帝王時代</a>升級為精銳日本武士。</p>
           </div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>日本武士乍看之下，戰鬥能力似乎比同時代兵營中的步兵（城堡時代的<a href="Long_Swordsman.php">長劍兵</a>和帝國時代的
+              <li>日本武士乍看之下，戰鬥能力似乎比同時代兵營中的步兵（城堡時代的<a href="/units/Long_Swordsman">長劍兵</a>和帝國時代的
                 <a
-                href="Champion.php">劍兵勇士</a>）要遜色一些，日本文明利益對步兵的攻擊速度加成才使他們在戰鬥中獲得與人一搏的作戰能力。然而，由於他們對特殊單位的攻擊加成（普通+10，精銳+12），日本武士在後期以特殊單位為主的戰鬥中表現會更好。</li>
-              <li>日本武士天生具有比大多數步兵更快的攻擊速度，再結合日本文明利益25％更快的攻擊速度，讓他們攻擊如閃電般的快速。然而，在面對<a href="Cataphract.php">拜占庭聖騎兵</a>、
+                href="/units/Champion">劍兵勇士</a>）要遜色一些，日本文明利益對步兵的攻擊速度加成才使他們在戰鬥中獲得與人一搏的作戰能力。然而，由於他們對特殊單位的攻擊加成（普通+10，精銳+12），日本武士在後期以特殊單位為主的戰鬥中表現會更好。</li>
+              <li>日本武士天生具有比大多數步兵更快的攻擊速度，再結合日本文明利益25％更快的攻擊速度，讓他們攻擊如閃電般的快速。然而，在面對<a href="/units/Cataphract">拜占庭聖騎兵</a>、
                 <a
-                href="War_Elephant.php">波斯戰象</a>這些特殊單位仍是十分頭痛，對<a href="Knight.php">騎士</a>和<a href="Archer_Units.php">弓箭手</a>也是同樣情況。</li>
-              <li>日本武士搭配<a href="Pikeman.php">重裝長槍兵</a>可有效對付<a href="Knight.php">騎士</a>，不過面對弓兵還是需要
+                href="/War_unitsanimal/Elephant">波斯戰象</a>這些特殊單位仍是十分頭痛，對<a href="/units/Knight">騎士</a>和<a href="/units/Archer_Units">弓箭手</a>也是同樣情況。</li>
+              <li>日本武士搭配<a href="/units/Pikeman">重裝長槍兵</a>可有效對付<a href="/units/Knight">騎士</a>，不過面對弓兵還是需要
                 <a
-                href="Scorpion.php">弩炮</a>和遠程單位協助(日本射箭場科技全滿)。</li>
-              <li>日本武士對<a href="Imperial_Camel.php">帝王駱駝騎兵</a>和<a href="Imperial_Skirmisher.php">帝王戰矛兵</a>不會有攻擊加成。</li>
+                href="/units/Scorpion">弩炮</a>和遠程單位協助(日本射箭場科技全滿)。</li>
+              <li>日本武士對<a href="/Imperial_units/Camel">帝王駱駝騎兵</a>和<a href="/units/Imperial_Skirmisher">帝王戰矛兵</a>不會有攻擊加成。</li>
             </ul>
           </div>
           <h3>更多數據</h3>
@@ -41,11 +41,11 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Unique_Unit.php">特殊單位</a>、<a href="bulding.php">建築物</a>和<a href="Eagle_Warrior.php">鷹勇士</a>。</td>
+              <td class="tta4"><a href="/units/Unique_Unit">特殊單位</a>、<a href="/building/bulding">建築物</a>和<a href="/units/Eagle_Warrior">鷹勇士</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4"><a href="Archer.php">弓兵</a>、<a href="Hand_Cannoneer.php">火槍兵</a>和<a href="Knight.php">騎士</a>。</td>
+              <td class="tta4"><a href="/units/Archer">弓兵</a>、<a href="/units/Hand_Cannoneer">火槍兵</a>和<a href="/units/Knight">騎士</a>。</td>
             </tr>
             <tr class="tta">
               <td class="" colspan="2" style="text-align: center;">
@@ -55,43 +55,43 @@
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
+                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="/techs/Forging">鍛造</a>(+1)
                 <br/>
-                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
+                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="/techs/Iron_Casting">鑄造</a>(+1)
                 <br/>
-                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
+                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="/techs/Blast_Furnace">鼓風爐</a>(+2)
                 <br/>
-                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="Arson.php">縱火</a>:步兵+2攻擊vs<a href="Armor_Class_standard_building.php">標準建築</a> 
+                <img class="gg" src="~assets/Arson.jpg" width="30" alt=""><a href="/techs/Arson">縱火</a>:步兵+2攻擊vs<a href="/Armor_Class_standard_building.php">標準建築</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="Scale_Mail_Armor.php">步兵鱗甲</a>(+1/+1)
+                <img class="gg" src="~assets/Scalemailarmor.jpg" width="30" alt=""><a href="/techs/Scale_Mail_Armor">步兵鱗甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="Chain_Mail_Armor.php">步兵鎖甲</a>(+1/+1)
+                <img class="gg" src="~assets/Chainmailarmor.jpg" width="30" alt=""><a href="/techs/Chain_Mail_Armor">步兵鎖甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="Plate_Mail_Armor.php">步兵板甲</a>(+1/+2)</td>
+                <img class="gg" src="~assets/Platemailarmor.jpg" width="30" alt=""><a href="/techs/Plate_Mail_Armor">步兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Squires.jpg" width="30" alt=""><a href="Squires.php">護衛</a>(+10%)</td>
+                <img class="gg" src="~assets/Squires.jpg" width="30" alt=""><a href="/techs/Squires">護衛</a>(+10%)</td>
               <tr>
                 <td class="tta1" style="width:10%">視野</td>
                 <td class="tta4">
-                  <img class="gg" src="~assets/Tracking.jpg" width="30" alt=""><a href="Tracking.php">追縱技術</a>(+2)</td>
+                  <img class="gg" src="~assets/Tracking.jpg" width="30" alt=""><a href="/techs/Tracking">追縱技術</a>(+2)</td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">招降抵抗</td>
                 <td class="tta4">
-                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a> 
+                  <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a> 
                 </td>
               </tr>
               <tr>
                 <td class="tta1" style="width:10%">生產速度</td>
                 <td class="tta4">
-                  <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
+                  <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="/techs/Conscription">徵兵制度</a>(+33%)</td>
               </tr>
           </table>
           <h3>剋日本武士的單位與建築</h3>
@@ -104,37 +104,37 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
+                      <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="/units/Cannon_Galleon">火砲戰船</a>→
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg"
-                      alt=""><a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a> 
+                      alt=""><a href="/Elite_units/Cannon_Galleon">精銳火砲戰船</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="Cataphract.php">精銳聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
+                      <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="/units/Cataphract">精銳聖騎兵</a>(<a href="/civs/Byzantines">拜占庭</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="/units/Samurai">精銳日本武士</a>(<a href="/civs/Japanese">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">精銳豹勇士</a>(<a href="Aztecs.php">阿茲特克</a>限定)</li>
+                      <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""><a href="/units/Jaguar_Warrior">精銳豹勇士</a>(<a href="/civs/Aztecs">阿茲特克</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a>
+                      <img class="gg" src="~assets/HandCannoneerIcon.jpg" alt=""><a href="/units/Hand_Cannoneer">火槍兵</a>
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Slingericon.png" alt=""><a href="Slinger.php">投石手</a>(<a href="Incas.php">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Slingericon.png" alt=""><a href="/units/Slinger">投石手</a>(<a href="/civs/Incas">印加</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""><a href="Jaguar_Warrior.php">豹勇士</a>(<a href="Aztecs.php">阿茲特克</a>限定)</li>
+                      <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt=""><a href="/units/Jaguar_Warrior">豹勇士</a>(<a href="/civs/Aztecs">阿茲特克</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="/units/Samurai">日本武士</a>(<a href="/civs/Japanese">日本</a>限定)</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
@@ -142,32 +142,32 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
+                      <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="/units/Cataphract">聖騎兵</a>(<a href="/civs/Byzantines">拜占庭</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
+                      <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="/Plumed_units/Archer">精銳羽毛箭射手</a>(<a href="/civs/Mayans">馬雅</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="Plumed_Archer.php">羽毛箭射手</a>(<a href="Mayans.php">馬雅</a>限定)</li>
+                      <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt=""><a href="/Plumed_units/Archer">羽毛箭射手</a>(<a href="/civs/Mayans">馬雅</a>限定)</li>
                   </ul>
                 </div>
               </div>
             </div>技術:以下技術會給以下單位對日本武士有額外攻擊。
             <div class="n1">
-              <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt=""> <a href="Parthian_Tactics.php">後勤學</a> 
+              <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt=""> <a href="/techs/Parthian_Tactics">後勤學</a> 
               <div style="margin:12px 0px;"><strong>+6攻擊</strong>
               </div>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="Cataphract.php">聖騎兵</a>→
+                  <img class="gg" src="~assets/CataphractIcon.jpg" alt=""><a href="/units/Cataphract">聖騎兵</a>→
                   <img class="gg" src="~assets/CataphractIcon.jpg"
-                  alt=""><a href="Cataphract.php">精銳聖騎兵</a>(<a href="Byzantines.php">拜占庭</a>限定)</li>
+                  alt=""><a href="/units/Cataphract">精銳聖騎兵</a>(<a href="/civs/Byzantines">拜占庭</a>限定)</li>
               </ul>
             </div>
           </div>
@@ -175,41 +175,41 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Japanese.php">日本</a>：日本武士攻速快33%。</li>
+              <li><a href="/civs/Japanese">日本</a>：日本武士攻速快33%。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高日本武士的生產速度還有加速
+              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠提高日本武士的生產速度還有加速
                 <a
-                href="Conscription.php">徵兵制度</a>的研究時間(快25%)。</li>
-              <li><a href="Goths.php">哥德</a>：研發科技<a href="Tracking.php">追縱技術</a>、<a href="Squires.php">護衛</a>、
+                href="/techs/Conscription">徵兵制度</a>的研究時間(快25%)。</li>
+              <li><a href="/civs/Goths">哥德</a>：研發科技<a href="/techs/Tracking">追縱技術</a>、<a href="/techs/Squires">護衛</a>、
                 <a
-                href="Arson.php">縱火</a>的時間快20%。</li>
-              <li><a href="Teutons.php">條頓</a>：日本武士更不容易被招降。</li>
+                href="/techs/Arson">縱火</a>的時間快20%。</li>
+              <li><a href="/civs/Teutons">條頓</a>：日本武士更不容易被招降。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
+             <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
             <ul>
               <li>日本武士的訓練時間是16秒。</li>
               <li>日本武士有0的遠程護甲，開火速率2.03，移動速度為0.9。</li>
-              <li>日本武士對<a href="Armor_Class_Unique_Unit.php">特殊單位</a>攻擊+5(精銳+6)。</li>
+              <li>日本武士對<a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>攻擊+5(精銳+6)。</li>
             </ul>
-            <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
+            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
             <ul>
               <li>日本武士現在的訓練時間是9秒。</li>
               <li>日本武士現在有1的遠程護甲，開火速率1.93，移動速度為1。</li>
-              <li>日本武士對<a href="Armor_Class_Unique_Unit.php">特殊單位</a>攻擊+10(精銳+12)。</li>
-              <li>引入<a href="Heresy.php">異端邪說</a>。</li>
+              <li>日本武士對<a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>攻擊+10(精銳+12)。</li>
+              <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
             </ul>
-            <h3><em><a href="aok.php">非洲王朝</a></em></h3>
+            <h3><em><a href="/games/aok">非洲王朝</a></em></h3>
             <ul>
-              <li>引入<a href="Arson.php">縱火</a>。</li>
+              <li>引入<a href="/techs/Arson">縱火</a>。</li>
             </ul>
           </div>
           <h3>豆知識</h3>
@@ -250,24 +250,24 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Infantry_Units.php">步兵</a>
+              <td class="unit4"><a href="/units/Infantry_Units">步兵</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Japanese.php">日本</a>
+              <td class="unit4"><a href="/civs/Japanese">日本</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" width="45" alt=""><a href="/building/Castle">城堡</a>
               </td>
             </tr>
             <tr>
@@ -302,9 +302,9 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="Armor_Class_standard_building.php">標準建築</a>+2/+3(精銳)
-                <br/>對<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a>+2/+3(精銳)
-                <br/>對<a href="Armor_Class_Unique_Unit.php">特殊單位</a>+10/+12(精銳)</td>
+              <td class="unit4">對<a href="/Armor_Class_standard_building.php">標準建築</a>+2/+3(精銳)
+                <br/>對<a href="/armor/Armor_Class_Eagle_Warrior">鷹勇士</a>+2/+3(精銳)
+                <br/>對<a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>+10/+12(精銳)</td>
             </tr>
             <tr>
               <td class="unit3">攻擊速度</td>
@@ -320,8 +320,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a>
-                <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="/armor/Armor_Class_Infantry">步兵</a>
+                <br/> <a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>
               </td>
             </tr>
             <tr>
@@ -334,7 +334,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">單位演變</a>
+                <div class="unititle2"><a href="#">單位演變</a>
                 </div>
               </td>
             </tr>
@@ -359,14 +359,14 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Samurai_2014-12-03_00001.jpg"><img class="imgn hg" width="180" src="~assets/Samurai_2014-12-03_00001.jpg" alt=""></a> 
+            <div class="col-md-4"> <a href="/img/Samurai_2014-12-03_00001.jpg"><img class="imgn hg" width="180" src="~assets/Samurai_2014-12-03_00001.jpg" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>一群日本武士。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Samurai_Beta.jpg"><img class="imgn hg" width="180" src="~assets/Samurai_Beta.jpg" alt=""></a> 
+          <div class="col-md-4"> <a href="/img/Samurai_Beta.jpg"><img class="imgn hg" width="180" src="~assets/Samurai_Beta.jpg" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>日本武士。</em>

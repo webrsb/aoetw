@@ -11,9 +11,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="Monastery.php">修道院</a
-            >是城堡時代可以蓋的建築。修道院可訓練<a href="Monk.php">僧侶</a>和
-            <a href="Missionary.php">傳教士</a>與強化他們。<a href="Relic.php"
+            <a href="/building/Monastery">修道院</a
+            >是城堡時代可以蓋的建築。修道院可訓練<a href="/units/Monk">僧侶</a
+            >和 <a href="/units/Missionary">傳教士</a>與強化他們。<a
+              href="/Relic"
               >遺跡</a
             >
             可放入修道院生產黃金。該注意的，修道院不能被招降。
@@ -24,16 +25,16 @@
         <div class="n1">
           <p>
             修道院為僧侶/傳教士的生產建築。由於僧侶生產很慢，但又很重要，往往用僧侶當作主力的玩家會建造至少兩座修道院。如果玩家打算在城堡時代使用僧侶快攻，他們必須有至少三個以上的修道院因為僧侶的生產速度真的很慢，移動也慢。而且必須同時研究
-            <a href="Sanctity.php">聖潔虔誠</a>和<a href="Fervor.php"
+            <a href="/techs/Sanctity">聖潔虔誠</a>和<a href="/techs/Fervor"
               >宗教狂熱</a
             >
             才能使進攻更有效。
           </p>
           <p>
-            修道院的一些技術也有助於對付敵方僧侶或部隊（<a href="Faith.php"
+            修道院的一些技術也有助於對付敵方僧侶或部隊（<a href="/techs/Faith"
               >忠誠信仰</a
-            >，<a href="Heresy.php">異端邪說</a>和
-            <a href="Herbal_Medicine.php">草藥學</a
+            >，<a href="/techs/Heresy">異端邪說</a>和
+            <a href="/techs/Herbal_Medicine">草藥學</a
             >），所以即使玩家不使用僧侶也建議蓋修道院。
           </p>
           <p>
@@ -50,7 +51,7 @@
           <div class="row">
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="Castle_Age.php"></a>城堡時代</h4>
+                <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4>
                 <ul>
                   <li>
                     <img
@@ -58,7 +59,7 @@
                       src="~assets/MonkIcon.jpg"
                       width="30"
                       alt=""
-                    /><a href="Monk.php">僧侶</a>
+                    /><a href="/units/Monk">僧侶</a>
                   </li>
                   <li>
                     <img
@@ -66,7 +67,7 @@
                       src="~assets/MissionaryIcon.jpg"
                       width="30"
                       alt=""
-                    /><a href="Missionary.php">傳教士</a>
+                    /><a href="/units/Missionary">傳教士</a>
                   </li>
                   <li>
                     <img
@@ -74,7 +75,7 @@
                       src="~assets/Redemption.jpg"
                       width="30"
                       alt=""
-                    /><a href="Redemption.php">信仰救贖</a>
+                    /><a href="/techs/Redemption">信仰救贖</a>
                   </li>
                   <li>
                     <img
@@ -82,7 +83,7 @@
                       src="~assets/Atonement.jpg"
                       width="30"
                       alt=""
-                    /><a href="Atonement.php">贖罪</a>
+                    /><a href="/techs/Atonement">贖罪</a>
                   </li>
                   <li>
                     <img
@@ -90,7 +91,7 @@
                       src="~assets/Herbalmedicine.png"
                       width="30"
                       alt=""
-                    /><a href="Herbal_Medicine.php">草藥學</a>
+                    /><a href="/techs/Herbal_Medicine">草藥學</a>
                   </li>
                   <li>
                     <img
@@ -98,7 +99,7 @@
                       src="~assets/Heresy.png"
                       width="30"
                       alt=""
-                    /><a href="Heresy.php">異端邪說</a>
+                    /><a href="/techs/Heresy">異端邪說</a>
                   </li>
                   <li>
                     <img
@@ -106,7 +107,7 @@
                       src="~assets/Sanctity.jpg"
                       width="30"
                       alt=""
-                    /><a href="Sanctity.php">聖潔虔誠</a>
+                    /><a href="/techs/Sanctity">聖潔虔誠</a>
                   </li>
                   <li>
                     <img
@@ -114,14 +115,14 @@
                       src="~assets/Fervor.jpg"
                       width="30"
                       alt=""
-                    /><a href="Fervor.php">宗教狂熱</a>
+                    /><a href="/techs/Fervor">宗教狂熱</a>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="Imperial_Age.php"></a>帝王時代</h4>
+                <h4><a href="/techsage/Imperial_Age"></a>帝王時代</h4>
                 <ul>
                   <li>
                     <img
@@ -129,7 +130,7 @@
                       src="~assets/Faith.jpg"
                       width="30"
                       alt=""
-                    /><a href="Faith.php">忠誠信仰</a>
+                    /><a href="/techs/Faith">忠誠信仰</a>
                   </li>
                   <li>
                     <img
@@ -137,7 +138,7 @@
                       src="~assets/Illumination.jpg"
                       width="30"
                       alt=""
-                    /><a href="Illumination.php">啟發教化</a>
+                    /><a href="/techs/Illumination">啟發教化</a>
                   </li>
                   <li>
                     <img
@@ -145,7 +146,7 @@
                       src="~assets/Blockprinting.jpg"
                       width="30"
                       alt=""
-                    /><a href="Block_Printing.php">雕版印刷術</a>
+                    /><a href="/techs/Block_Printing">雕版印刷術</a>
                   </li>
                   <li>
                     <img
@@ -153,7 +154,7 @@
                       src="~assets/Theocracy.png"
                       width="30"
                       alt=""
-                    /><a href="Theocracy.php">神權統治</a>
+                    /><a href="/techs/Theocracy">神權統治</a>
                   </li>
                 </ul>
               </div>
@@ -185,7 +186,7 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="Masonry.php"
+                  href="/techs/Masonry"
                   >磚瓦技術</a
                 >(+10%)
                 <br />
@@ -194,14 +195,14 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="Architecture.php">建築學</a>(+10%)
+                /><a href="/techs/Architecture">建築學</a>(+10%)
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="Masonry.php"
+                  href="/techs/Masonry"
                   >磚瓦技術</a
                 >(護甲+1/+1，+3建築護甲)
                 <br />
@@ -210,7 +211,8 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)
+                /><a href="/techs/Architecture">建築學</a
+                >(護甲+1/+1，+3建築護甲)
               </td>
             </tr>
             <tr>
@@ -221,26 +223,26 @@
                   src="~assets/Townwatch.jpg"
                   width="30"
                   alt=""
-                /><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                /><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Townpatrol.jpg"
                   width="30"
                   alt=""
-                /><a href="Town_Patrol.php">城鎮巡邏</a>(+4)
+                /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
               </td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                  href="Faith.php"
+                  href="/techs/Faith"
                   >忠誠信仰</a
                 >
                 <br />
                 <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                  href="Heresy.php"
+                  href="/techs/Heresy"
                   >異端邪說</a
                 >
               </td>
@@ -253,7 +255,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)
+                /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)
               </td>
             </tr>
           </table>
@@ -263,42 +265,46 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="Burmese.php">緬甸</a>：研發<a href="Faith.php"
+                <a href="/civs/Burmese">緬甸</a>：研發<a href="/techs/Faith"
                   >忠誠信仰</a
                 >便宜50%。
               </li>
               <li>
-                <a href="Byzantines.php">拜占庭</a
+                <a href="/civs/Byzantines">拜占庭</a
                 >：在封建/城堡/帝王時代，修道院增加20%/30%40%的血量。<a
-                  href="Town_Watch.php"
+                  href="/techs/Town_Watch"
                 >
                   城鎮瞭望</a
                 >免費。
               </li>
               <li>
-                <a href="Chinese.php">中國</a
+                <a href="/civs/Chinese">中國</a
                 >：修道院的技術在城堡/帝王時代分別便宜15%/20%
               </li>
-              <li><a href="Malians.php">馬利</a>：修道院建築花費便宜15%</li>
+              <li><a href="/civs/Malians">馬利</a>：修道院建築花費便宜15%</li>
               <li>
-                <a href="Persians.php">波斯</a>：研究<a href="Town_Watch.php"
+                <a href="/civs/Persians">波斯</a>：研究<a
+                  href="/techs/Town_Watch"
                   >城鎮瞭望</a
-                >和<a href="Town_Patrol.php">城鎮巡邏</a
+                >和<a href="/techs/Town_Patrol">城鎮巡邏</a
                 >科技時間在封建/城堡/帝王時代快10%/15%/20%
               </li>
-              <li><a href="Spanish.php">西班牙</a>：修道院建造速度快30%</li>
+              <li><a href="/civs/Spanish">西班牙</a>：修道院建造速度快30%</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Aztecs.php">阿茲特克</a>：遺跡產生的黃金增加33%</li>
               <li>
-                <a href="Malians.php">馬利</a>：研發<a href="Town_Watch.php"
+                <a href="/civs/Aztecs">阿茲特克</a>：遺跡產生的黃金增加33%
+              </li>
+              <li>
+                <a href="/civs/Malians">馬利</a>：研發<a
+                  href="/techs/Town_Watch"
                   >磚瓦技術</a
-                >、<a href="Town_Watch.php"> 建築學</a>、
-                <a href="Town_Watch.php">滑輪起重機</a>科技的時間加快80%
+                >、<a href="/techs/Town_Watch"> 建築學</a>、
+                <a href="/techs/Town_Watch">滑輪起重機</a>科技的時間加快80%
               </li>
             </ul>
           </div>
@@ -307,9 +313,9 @@
           <div class="n1">
             <h3><em>征服者入侵</em></h3>
             <ul>
-              <li><a href="Heresy.php">異端邪說</a>首次出現。</li>
-              <li><a href="Herbal_Medicine.php">草藥學</a>首次出現。</li>
-              <li><a href="Theocracy.php">神權統治</a>首次出現。</li>
+              <li><a href="/techs/Heresy">異端邪說</a>首次出現。</li>
+              <li><a href="/techs/Herbal_Medicine">草藥學</a>首次出現。</li>
+              <li><a href="/techs/Theocracy">神權統治</a>首次出現。</li>
             </ul>
           </div>
           <h3>圖庫</h3>
@@ -317,7 +323,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
-                <a href="img/Monasteryaokaoc.png"
+                <a href="/img/Monasteryaokaoc.png"
                   ><img
                     class="imgn hg"
                     width="200"
@@ -329,7 +335,7 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <a href="img/Monasteries.png"
+                <a href="/img/Monasteries.png"
                   ><img
                     class="imgn hg"
                     width="200"
@@ -343,7 +349,7 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-6">
-                <a href="img/Mud_mosque.jpg"
+                <a href="/img/Mud_mosque.jpg"
                   ><img
                     class="imgn hg"
                     width="200"
@@ -355,7 +361,7 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <a href="img/Konark_sun_temple.jpg"
+                <a href="/img/Konark_sun_temple.jpg"
                   ><img
                     class="imgn hg"
                     width="200"
@@ -374,7 +380,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="">修道院</a></div>
+              <div class="unititle"><a href="#">修道院</a></div>
             </td>
           </tr>
           <tr>
@@ -386,7 +392,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -399,7 +405,7 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Castle_Age.php">城堡時代</a></td>
+            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -411,7 +417,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -420,7 +426,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>
@@ -478,8 +484,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="Armor_Class_Building.php">建築</a> <br />
-              <a href="Armor_Class_standard_building.php">標準建築</a>
+              <a href="/armor/Armor_Class_Building">建築</a> <br />
+              <a href="/Armor_Class_standard_building.php">標準建築</a>
             </td>
           </tr>
           <tr>

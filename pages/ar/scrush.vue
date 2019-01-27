@@ -16,7 +16,7 @@
           <ul>
             <li>
               <img src="~assets/ScoutCavalryIcon.jpg" alt="" />
-              <a href="Scout_Cavalry.php">斥侯→</a
+              <a href="/units/Scout_Cavalry">斥侯→</a
               >:封建時代機動最強的兵種，攻擊、遠防高、殺村民快，克制矛兵與少量弓兵。可研發血統使其血量達65HP，更是無視一切。
             </li>
           </ul>
@@ -80,8 +80,8 @@
               <ul>
                 <li>上封建中間蓋軍營，上封建後馬廄</li>
                 <li>
-                  研發<a href="Double-Bit_Axe.php">伐木技術</a>與<a
-                    href="Horse_Collar.php"
+                  研發<a href="/techs/Double-Bit_Axe">伐木技術</a>與<a
+                    href="/techs/Horse_Collar"
                     >種田科技</a
                   >
                 </li>
@@ -174,7 +174,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle"><a href="">肉馬開局</a></div>
+              <div class="unititle"><a href="#">肉馬開局</a></div>
             </td>
           </tr>
           <tr>
@@ -186,7 +186,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle2"><a href="">戰術介紹</a></div>
+              <div class="unititle2"><a href="#">戰術介紹</a></div>
             </td>
           </tr>
           <tr>

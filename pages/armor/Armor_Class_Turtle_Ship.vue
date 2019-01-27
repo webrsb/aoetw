@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於龜甲船裝甲的。而關於龜甲船請參見<a
-              href="Turtle_ship.php"
+              href="/Turtle_ship.php"
               >龜甲船</a
             ></em
           >
@@ -31,13 +31,13 @@
           <ul>
             <li>
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" /><a
-                href="Turtle_Ship.php"
+                href="/units/Turtle_Ship"
                 >龜甲船→</a
               >
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" /><a
-                href="Turtle_Ship.php"
+                href="/units/Turtle_Ship"
                 >精銳龜甲船</a
-              >(1)(<a href="Koreans.php">韓國</a>限定)
+              >(1)(<a href="/civs/Koreans">韓國</a>限定)
             </li>
           </ul>
         </div>
@@ -50,7 +50,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/FastFireShipIcon.jpg" alt="" /><a
-                  href="Fast_Fire_Ship.php"
+                  href="/units/Fast_Fire_Ship"
                   >快速火戰船</a
                 >
               </li>
@@ -63,14 +63,14 @@
                   src="~assets/FireShipIcon.jpg"
                   width="22"
                   alt=""
-                /><a href="Fire_Ship.php">火戰船</a>
+                /><a href="/units/Fire_Ship">火戰船</a>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" /><a
-                  href="Fire_Galley.php"
+                  href="/units/Fire_Galley"
                   >火蒙衝</a
                 >
               </li>

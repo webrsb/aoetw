@@ -15,17 +15,17 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <a href="armstower.php">裝甲塔·</a
-              ><a href="scrush.php">肉馬開局·</a
-              ><a href="archerstar.php">小弓開局·</a>
-              <a href="armstar.php">裝甲開局·</a
-              ><a href="brushtof.php">黑快轉封·</a
-              ><a href="brushfc.php">黑快搶城·</a>
-              <a href="fontrush.php">前置槍矛</a
-              ><a href="towerrush.php">純塔攻</a
-              ><a href="eglerush.php">老鷹開局</a>
-              <a href="fontrush.php">前置槍矛</a
-              ><a href="bbrush.php">黑暗爆民兵</a>
+              <a href="/ar/armstower">裝甲塔·</a
+              ><a href="/ar/scrush">肉馬開局·</a
+              ><a href="/ar/archerstar">小弓開局·</a>
+              <a href="/ar/armstar">裝甲開局·</a
+              ><a href="/ar/brushtof">黑快轉封·</a
+              ><a href="/ar/brushfc">黑快搶城·</a>
+              <a href="/ar/fontrush">前置槍矛</a
+              ><a href="/ar/towerrush">純塔攻</a
+              ><a href="/ar/eglerush">老鷹開局</a>
+              <a href="/ar/fontrush">前置槍矛</a
+              ><a href="/ar/bbrush">黑暗爆民兵</a>
             </td>
           </tr>
         </table>

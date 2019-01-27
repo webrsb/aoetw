@@ -36,30 +36,30 @@
         <div class="n1">
           <p>可加速收集石礦速度的科技:</p>
           <ul>
-            <li><a href="Hand_Cart.php">獨輪推車</a></li>
-            <li><a href="Wheelbarrow.php">手推車</a></li>
-            <li><a href="Stone_Mining.php">採石技術</a></li>
-            <li><a href="Stone_Shaft_Mining.php">礦井採石</a></li>
+            <li><a href="/Hand_Cart.php">獨輪推車</a></li>
+            <li><a href="/techs/Wheelbarrow">手推車</a></li>
+            <li><a href="/techs/Stone_Mining">採石技術</a></li>
+            <li><a href="/techs/Stone_Shaft_Mining">礦井採石</a></li>
           </ul>
         </div>
         <h3>相關文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Aztecs.php">阿茲特克</a>:村民資源攜帶量+5。</li>
-            <li><a href="Franks.php">法蘭克</a>:城堡造價便宜25%。</li>
-            <li><a href="Incas.php">印加</a>:建築石材花費減少15%。</li>
-            <li><a href="Koreans.php">韓國</a>:石礦採集速度快20%。</li>
-            <li><a href="Mayans.php">瑪雅</a>:自然資源存量+15%。</li>
+            <li><a href="/civs/Aztecs">阿茲特克</a>:村民資源攜帶量+5。</li>
+            <li><a href="/civs/Franks">法蘭克</a>:城堡造價便宜25%。</li>
+            <li><a href="/civs/Incas">印加</a>:建築石材花費減少15%。</li>
+            <li><a href="/civs/Koreans">韓國</a>:石礦採集速度快20%。</li>
+            <li><a href="/civs/Mayans">瑪雅</a>:自然資源存量+15%。</li>
           </ul>
         </div>
         <h3>參見</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Food.php">食物</a></li>
-            <li><a href="Wood.php">木材</a></li>
-            <li><a href="Gold.php">黃金</a></li>
+            <li><a href="/resource/Food">食物</a></li>
+            <li><a href="/resource/Wood">木材</a></li>
+            <li><a href="/resource/Gold">黃金</a></li>
           </ul>
         </div>
       </div>

@@ -11,8 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            織布技術可於<a href="Dark_Age.php">黑暗時代</a>在<a
-              href="Town_Center.php"
+            織布技術可於<a href="/techsage/Dark_Age">黑暗時代</a>在<a
+              href="/building/Town_Center"
               >城鎮中心</a
             >
             研發。可讓村民+15 HP，+1/+2護甲，總共是40 HP 和+1/+2護甲。
@@ -32,11 +32,11 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
             </li>
             <li>
-              <a href="Persians.php">波斯</a
+              <a href="/civs/Persians">波斯</a
               >：該科技在封建/城堡/帝王時代研究速度快10%/15%/20%。
             </li>
           </ul>
@@ -45,24 +45,26 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
             <li>織布技術給村民護甲+1/+1。</li>
           </ul>
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
             <li>1.0c改版後織布技術現在給村民護甲+1/+2。</li>
-            <li><a href="Aztecs.php">阿茲特克</a>:1.0c改版後織布技術免費。</li>
+            <li>
+              <a href="/civs/Aztecs">阿茲特克</a>:1.0c改版後織布技術免費。
+            </li>
           </ul>
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>
-              <a href="Aztecs.php">阿茲特克</a
+              <a href="/civs/Aztecs">阿茲特克</a
               >:織布技術不再免費，不過開局黃金量+50。
             </li>
           </ul>
@@ -71,8 +73,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            織布技術是除了<a href="Monastery.php">修道院</a
-            >的科技之外唯二只需要黃金的科技，另一個技術是<a href="Spies.php"
+            織布技術是除了<a href="/building/Monastery">修道院</a
+            >的科技之外唯二只需要黃金的科技，另一個技術是<a href="/techs/Spies"
               >間諜</a
             >。
           </p>
@@ -89,7 +91,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">織布技術</a></div>
+              <div class="unititle"><a href="#">織布技術</a></div>
             </td>
           </tr>
           <tr>
@@ -101,7 +103,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -112,7 +114,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Dark-age-logo-small.jpg" alt="" /><a
-                href="Dark_Age.php"
+                href="/techsage/Dark_Age"
                 >黑暗時代</a
               >
             </td>
@@ -121,7 +123,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Town-center-logo.jpg" alt="" /><a
-                href="Town_Center.php"
+                href="/building/Town_Center"
                 >城鎮中心</a
               >
             </td>
@@ -132,7 +134,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -141,7 +143,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

@@ -44,31 +44,31 @@
           <ul>
             <li>
               <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                href="Eagle_Scout.php"
+                href="/units/Eagle_Scout"
                 >鷹斥侯</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" /><a
-                href="Condottiero.php"
+                href="/units/Condottiero"
                 >傭兵</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt="" /><a
-                href="Imperial_Camel.php"
+                href="/Imperial_units/Camel"
                 >帝王駱駝騎兵</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/Slingericon.png" alt="" /><a
-                href="Slinger.php"
+                href="/units/Slinger"
                 >投石手</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><a
-                href="Kamayuk.php"
+                href="/units/Kamayuk"
                 >槍隊長</a
               >
             </li>
@@ -78,11 +78,11 @@
                 src="~assets/New_Genoese_Crossbowman.png"
                 alt=""
                 width="22"
-              /><a href="Genoese_Crossbowman.php">熱那亞弩手</a>
+              /><a href="/Genoese_units/Crossbowman">熱那亞弩手</a>
             </li>
             <li>
               <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt="" /><a
-                href="Elephant_Archer.php"
+                href="/Elephant_units/Archer"
                 >象弓騎兵</a
               >
             </li>
@@ -92,11 +92,11 @@
                 src="~assets/Magyar_Huszar_icon.jpg"
                 width="22"
                 alt=""
-              /><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>
+              /><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>
             </li>
             <li>
               <img class="gg" src="~assets/New_Boyar.png" alt="" /><a
-                href="Boyar.php"
+                href="/units/Boyar"
                 >貴族鐵騎</a
               >
             </li>
@@ -108,7 +108,7 @@
             <li>每個文明皆新增城堡時代能研發的特殊科技。</li>
           </ul>
           <p>
-            <em>主要文章: <a href="untech.php">特殊科技</a></em>
+            <em>主要文章: <a href="/techs/untech">特殊科技</a></em>
           </p>
         </div>
       </div>
@@ -116,7 +116,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#ad7b35">
-              <div class="unititle"><a href="">世紀帝國II：失落的帝國</a></div>
+              <div class="unititle"><a href="#">世紀帝國II：失落的帝國</a></div>
             </td>
           </tr>
           <tr>
@@ -168,7 +168,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <a href="batt.php">戰役</a></em>
+            <em>主要文章: <a href="/batt/">戰役</a></em>
           </p>
           <p>包含七個主戰役</p>
           <ul>

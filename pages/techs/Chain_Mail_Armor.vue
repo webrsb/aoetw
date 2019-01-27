@@ -11,8 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            步兵鎖甲可於<a href="Castle_Age.php">城堡時代</a>在<a
-              href="Blacksmith.php"
+            步兵鎖甲可於<a href="/techsage/Castle_Age">城堡時代</a>在<a
+              href="/building/Blacksmith"
               >兵工廠</a
             >研發，可讓步兵護甲+1/+1。
           </p>
@@ -22,14 +22,14 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：該科技在城堡/帝王時代花費便宜15%/20%。
             </li>
             <li>
-              <a href="Incas.php">印加</a>：<a href="Villager.php">村民</a
+              <a href="/civs/Incas">印加</a>：<a href="/units/Villager">村民</a
               >也獲得+1/+1護甲
             </li>
-            <li><a href="Spanish.php">西班牙</a>：研發該科技不需要黃金。</li>
+            <li><a href="/civs/Spanish">西班牙</a>：研發該科技不需要黃金。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -45,7 +45,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">步兵鎖甲</a></div>
+              <div class="unititle"><a href="#">步兵鎖甲</a></div>
             </td>
           </tr>
           <tr>
@@ -57,7 +57,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -68,7 +68,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -77,7 +77,7 @@
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Blacksmithicon.png" alt="" /><a
-                href="Blacksmith.php"
+                href="/building/Blacksmith"
                 >兵工廠</a
               >
             </td>
@@ -86,7 +86,7 @@
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
               <img class="gg" src="~assets/Scalemailarmor.jpg" alt="" /><a
-                href="Scale_Mail_Armor.php"
+                href="/techs/Scale_Mail_Armor"
                 >步兵鱗甲</a
               >
             </td>
@@ -95,7 +95,7 @@
             <td class="unit3">次一升級</td>
             <td class="unit4">
               <img class="gg" src="~assets/Platemailarmor.jpg" alt="" /><a
-                href="Plate_Mail_Armor.php"
+                href="/techs/Plate_Mail_Armor"
                 >步兵板甲</a
               >
             </td>
@@ -106,7 +106,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -119,7 +119,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

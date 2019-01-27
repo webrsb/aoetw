@@ -24,7 +24,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="">鐵鎚查理</a>
+                <div class="unititle"><a href="#">鐵鎚查理</a>
                 </div>
               </td>
             </tr>
@@ -42,7 +42,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">步兵<br/>英雄</a>
+              <td class="unit4"><a href="#">步兵<br/>英雄</a>
               </td>
             </tr>
             <tr>

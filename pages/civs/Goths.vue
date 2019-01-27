@@ -102,7 +102,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="got.php">哥德科技樹</a></em>
+          <em><a href="/tree/got">哥德科技樹</a></em>
         </div>
         <br />
 
@@ -491,7 +491,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a href="img/CentEuropean.jpg">
+                <a href="/img/CentEuropean.jpg">
                   <img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
                 /></a>
 
@@ -508,7 +508,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
               <div class="unititle">
-                <a href="">哥德</a>
+                <a href="#">哥德</a>
               </div>
             </td>
           </tr>
@@ -525,7 +525,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
               <div class="unititle2">
-                <a href="">概要</a>
+                <a href="#">概要</a>
               </div>
             </td>
           </tr>

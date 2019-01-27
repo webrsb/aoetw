@@ -15,22 +15,22 @@
           </tr>
           <tr>
             <td colspan="2" class="unit5" style="text-align: center;">
-              <a href="Town_Center.php">城鎮中心</a>。<a href="House.php"
+              <a href="/building/Town_Center">城鎮中心</a>。<a href="/building/House"
                 >房屋</a
-              >。<a href="Mill.php">磨坊</a>。 <a href="Farm.php">農田</a>。<a
-                href="Lumber_Camp.php"
+              >。<a href="/building/Mill">磨坊</a>。 <a href="/building/Farm">農田</a>。<a
+                href="/building/Lumber_Camp"
                 >伐木場</a
-              >。<a href="Mining_Camp.php">採礦營地</a>。
-              <a href="Dock.php">碼頭</a>。<a href="Market.php">市場</a>。<a
-                href="Blacksmith.php"
+              >。<a href="/building/Mining_Camp">採礦營地</a>。
+              <a href="/building/Dock">碼頭</a>。<a href="/building/Market">市場</a>。<a
+                href="/building/Blacksmith"
                 >兵工廠</a
-              >。 <a href="Fish_Trap.php">漁網</a>。<a href="Monastery.php"
+              >。 <a href="/building/Fish_Trap">漁網</a>。<a href="/building/Monastery"
                 >修道院</a
-              >。<a href="University.php">學院</a>。
-              <a href="Wonder.php">世界奇觀</a>。<a
-                href="Feitoriaicon_Feitoria.php"
+              >。<a href="/building/University">學院</a>。
+              <a href="/building/Wonder">世界奇觀</a>。<a
+                href="/building/Feitoriaicon_Feitoria"
                 >港灣大商站</a
-              >。<a href="Harbor.php">巨港</a>
+              >。<a href="/building/Harbor">巨港</a>
             </td>
           </tr>
           <tr>
@@ -40,11 +40,11 @@
           </tr>
           <tr>
             <td colspan="2" class="unit5" style="text-align: center;">
-              <a href="Barracks.php">軍營</a>。<a href="Archery_Range.php"
+              <a href="/building/Barracks">軍營</a>。<a href="/building/Archery_Range"
                 >射箭場</a
-              >。<a href="Stable.php">馬廄</a>。
-              <a href="Siege_Workshop.php">攻城武器製造所</a>。<a
-                href="Castle.php"
+              >。<a href="/building/Stable">馬廄</a>。
+              <a href="/building/Siege_Workshop">攻城武器製造所</a>。<a
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -52,10 +52,10 @@
           <tr>
             <td class="unit3" style="width:10%">塔</td>
             <td class="unit3">
-              <a href="Outpost.php">哨站</a>。<a href="Watch_Tower.php"
+              <a href="/building/Outpost">哨站</a>。<a href="/units/Watch_Tower"
                 >暸望箭塔</a
-              >。<a href="Guard_Tower.php">防禦箭塔</a>。
-              <a href="Keep.php">大型箭塔</a>。<a href="Bombard_Tower.php"
+              >。<a href="/units/Guard_Tower">防禦箭塔</a>。
+              <a href="/units/Keep">大型箭塔</a>。<a href="/building/Bombard_Tower"
                 >火炮塔</a
               >
             </td>
@@ -63,11 +63,11 @@
           <tr>
             <td class="unit3" style="width:10%">圍牆</td>
             <td class="unit3">
-              <a href="Palisade_Wall.php">木牆</a>
-              <a href="Palisade_Gate.php">木門</a>。
-              <a href="Stone_Wall.php">石牆</a>。<a href="Fortified_Wall.php"
+              <a href="/building/Palisade_Wall">木牆</a>
+              <a href="/Palisade_/building/Gate">木門</a>。
+              <a href="/building/Stone_Wall">石牆</a>。<a href="/building/Fortified_Wall"
                 >垛牆</a
-              >。<a href="Gateicon_Gate.php">城門</a>
+              >。<a href="/building/Gateicon_Gate">城門</a>
             </td>
           </tr>
         </table>

@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            屈出律是一位在成吉思汗第二關：<a href="A_Life_of_Revenge.php"
+            屈出律是一位在成吉思汗第二關：<a href="/batt/A_Life_of_Revenge"
               >復仇的人生</a
             >中登場的英雄單位。在歷史上，屈出律是乃蠻國的王子，也是成吉思汗的敵人。他在父親被成吉思汗所殺後逃到了西遼並與西遼的公主結婚，但在兩年後便趁著西遼內亂篡奪了岳父的王位。西遼後來被成吉思汗的軍隊所征服，屈出律被俘獲後也被斬首。
           </p>
@@ -52,7 +52,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="Cavalry_Units.php">騎兵</a> <br />英雄
+              <a href="/units/Cavalry_Units">騎兵</a> <br />英雄
             </td>
           </tr>
           <tr>
@@ -89,7 +89,7 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <a href="Armor_Class_Cavalry.php">騎兵</a>(+2)
+              <a href="/armor/Armor_Class_Cavalry">騎兵</a>(+2)
             </td>
           </tr>
           <tr>

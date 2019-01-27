@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            倒鉤斧是<a href="Franks.php">法蘭克</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            倒鉤斧是<a href="/civs/Franks">法蘭克</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Throwing_Axeman.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Throwing_Axeman"
               >擲斧兵</a
             >攻擊範圍+1。
           </p>
@@ -26,12 +26,13 @@
           <ul>
             <li>
               雖然攻擊範圍+1看起來微不足道，倒鉤斧可以讓擲斧兵在遠程戰鬥中更加彈性化，因為法蘭克人無法訓練<a
-                href="Arbalest.php"
+                href="/units/Arbalest"
               ></a
               >強弩兵，弓兵的科技樹也很差。 特別是在暴民和“stand
-              ground”模式下，擲斧兵可以更容易地消滅<a href="Infantry_Units.php"
+              ground”模式下，擲斧兵可以更容易地消滅<a
+                href="/units/Infantry_Units"
                 >步兵</a
-              >甚至 <a href="Cavalry_Units.php">騎兵</a>。
+              >甚至 <a href="/units/Cavalry_Units">騎兵</a>。
             </li>
           </ul>
         </div>
@@ -40,7 +41,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速倒鉤斧的研究時間(快25%)。
             </li>
           </ul>
@@ -58,7 +60,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">倒鉤斧</a></div>
+              <div class="unititle"><a href="#">倒鉤斧</a></div>
             </td>
           </tr>
           <tr>
@@ -70,12 +72,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Franks.php">法蘭克</a></td>
+            <td class="unit4"><a href="/civs/Franks">法蘭克</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -84,14 +86,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -102,7 +104,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -115,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>
@@ -135,7 +137,7 @@
               <i
                 ><b
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%A5%87%E6%96%AF%E5%8D%A1"
+                    href="/https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%A5%87%E6%96%AF%E5%8D%A1"
                     >弗朗奇斯卡</a
                   ></b
                 ></i

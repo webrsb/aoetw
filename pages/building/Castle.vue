@@ -20,7 +20,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="n1">
-              <h4><a href="Castle_Age.php"></a>城堡時代</h4>
+              <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4>
               <ul>
                 <li>
                   <img
@@ -28,7 +28,7 @@
                     src="~assets/Elite-unique-research.jpg"
                     width="30"
                     alt=""
-                  /><a href="Unique_Unit.php">特殊單位</a>
+                  /><a href="/units/Unique_Unit">特殊單位</a>
                 </li>
                 <li>
                   <img
@@ -36,7 +36,7 @@
                     src="~assets/PetardIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Petard.php">爆炸桶</a>
+                  /><a href="/units/Petard">爆炸桶</a>
                 </li>
                 <li>
                   <img
@@ -44,14 +44,14 @@
                     src="~assets/CastleAgeUnique.png"
                     width="30"
                     alt=""
-                  /><a href="untech.php">城堡特殊科技</a>
+                  /><a href="/techs/untech">城堡特殊科技</a>
                 </li>
               </ul>
             </div>
           </div>
           <div class="col-md-6">
             <div class="n1">
-              <h4><a href="Imperial_Age.php"></a>帝王時代</h4>
+              <h4><a href="/techsage/Imperial_Age"></a>帝王時代</h4>
               <ul>
                 <li>
                   <img
@@ -59,7 +59,7 @@
                     src="~assets/Elite-unique-research.jpg"
                     width="30"
                     alt=""
-                  /><a href="Unique_Unit.php">精銳特殊單位</a>
+                  /><a href="/units/Unique_Unit">精銳特殊單位</a>
                 </li>
                 <li>
                   <img
@@ -67,7 +67,7 @@
                     src="~assets/TrebuchetPackedIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Trebuchet.php">巨型投石機</a>
+                  /><a href="/units/Trebuchet">巨型投石機</a>
                 </li>
                 <li>
                   <img
@@ -75,7 +75,7 @@
                     src="~assets/Unique-tech.jpg"
                     width="30"
                     alt=""
-                  /><a href="untech.php">帝王特殊科技</a>
+                  /><a href="/techs/untech">帝王特殊科技</a>
                 </li>
                 <li>
                   <img
@@ -83,7 +83,7 @@
                     src="~assets/Hoardings.jpg"
                     width="30"
                     alt=""
-                  /><a href="Hoardings.php">外架式柵樓</a>
+                  /><a href="/techs/Hoardings">外架式柵樓</a>
                 </li>
                 <li>
                   <img
@@ -91,7 +91,7 @@
                     src="~assets/Sappers.jpg"
                     width="30"
                     alt=""
-                  /><a href="Sappers.php">坑道工兵</a>
+                  /><a href="/techs/Sappers">坑道工兵</a>
                 </li>
                 <li>
                   <img
@@ -99,7 +99,7 @@
                     src="~assets/Conscription.jpg"
                     width="30"
                     alt=""
-                  /><a href="Conscription.php">徵兵制度</a>
+                  /><a href="/techs/Conscription">徵兵制度</a>
                 </li>
                 <li>
                   <img
@@ -107,7 +107,7 @@
                     src="~assets/Spiestreason.jpg"
                     width="30"
                     alt=""
-                  /><a href="Spies.php">間諜</a>
+                  /><a href="/techs/Spies">間諜</a>
                 </li>
               </ul>
             </div>
@@ -117,27 +117,29 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Aztecs.php">阿茲特克</a>：城堡生產速度提高15％。</li>
+            <li><a href="/civs/Aztecs">阿茲特克</a>：城堡生產速度提高15％。</li>
             <li>
-              <a href="Burmese.php">緬甸</a>：研究<a href="Herbal_Medicine.php"
+              <a href="/civs/Burmese">緬甸</a>：研究<a
+                href="/techs/Herbal_Medicine"
                 >草藥學</a
               >便宜50％。
             </li>
             <li>
-              <a href="Byzantines.php">拜占庭</a>：黑暗/封建/城堡/帝國時代的
+              <a href="/civs/Byzantines">拜占庭</a>：黑暗/封建/城堡/帝國時代的
               城堡HP分別增加10%/20%/30%/40%。
-              <a href="Town_Watch.php">城鎮暸望</a>免費。
+              <a href="/techs/Town_Watch">城鎮暸望</a>免費。
             </li>
-            <li><a href="Franks.php">法蘭克</a>：城堡便宜25％。</li>
-            <li><a href="Incas.php">印加</a>：城堡便宜15％。</li>
-            <li><a href="Koreans.php">韓國</a>：建築速度提高了33％ 。</li>
-            <li><a href="Spanish.php">西班牙</a>：建築速度提高了30％。</li>
+            <li><a href="/civs/Franks">法蘭克</a>：城堡便宜25％。</li>
+            <li><a href="/civs/Incas">印加</a>：城堡便宜15％。</li>
+            <li><a href="/civs/Koreans">韓國</a>：建築速度提高了33％ 。</li>
+            <li><a href="/civs/Spanish">西班牙</a>：建築速度提高了30％。</li>
             <li>
-              <a href="Teutons.php">條頓</a>：<a href="Murder_Holes.php">垛孔</a
+              <a href="/civs/Teutons">條頓</a>：<a href="/techs/Murder_Holes"
+                >垛孔</a
               >免費。
             </li>
             <li>
-              <a href="Vietnamese.php">越南</a>：<a href="Conscription.php"
+              <a href="/civs/Vietnamese">越南</a>：<a href="/techs/Conscription"
                 >徵兵制度</a
               >免費。
             </li>
@@ -148,11 +150,13 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >可提高城堡的工作效率25%。
             </li>
             <li>
-              <a href="Malians.php">馬利</a>：<a href="University.php">學院</a
+              <a href="/civs/Malians">馬利</a>：<a href="/building/University"
+                >學院</a
               >裡對城堡有加成的科技研發速度快80%。
             </li>
           </ul>
@@ -163,7 +167,7 @@
           <ul>
             <li>
               城堡位置有時攸關整場勝負，請謹慎思考，一般來說如果是生產較慢速的城堡兵如不列顛長弓兵與土耳其火槍兵，城堡可蓋前線，如果是快速移動的部隊則盡可能蓋自己家防守，如：馬雅羽毛箭射手、
-              <a href="Conquistador.php">西班牙征服者</a
+              <a href="/units/Conquistador">西班牙征服者</a
               >、緬甸飛鏢騎兵。中國高手大屌哥就曾因為城堡蓋錯位置，輸了整場比賽。當然影響建築位置的原因很多，這只是其中一點。
             </li>
             <li>
@@ -212,7 +216,7 @@
                   src="~assets/VillagerMaleIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="Villager.php">村民</a>
+                /><a href="/units/Villager">村民</a>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">13(額外9)</td>
@@ -224,7 +228,7 @@
                   src="~assets/ArcherIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="Archer.php">弓兵</a>
+                /><a href="/units/Archer">弓兵</a>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">11(額外7)</td>
@@ -236,7 +240,7 @@
                   src="~assets/CrossbowmanIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="Crossbowma.php">弩兵</a>
+                /><a href="/Crossbowma.php">弩兵</a>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">14(額外10)</td>
@@ -248,13 +252,13 @@
                   src="~assets/ArbalestIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="Arbalest.php">強弩兵</a>
+                /><a href="/units/Arbalest">強弩兵</a>
                 <img
                   class="gg"
                   src="~assets/CavalryArcherIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="Cavalry_Archer.php">馬弓騎兵</a>
+                /><a href="/Cavalry_units/Archer">馬弓騎兵</a>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">16(額外12)</td>
@@ -266,14 +270,15 @@
                   src="~assets/HandCannoneerIcon.jpg"
                   width="30"
                   alt=""
-                /><a href="Hand_Cannoneer.php">火槍手</a>
+                /><a href="/units/Hand_Cannoneer">火槍手</a>
               </td>
               <td class="tta2">18</td>
               <td class="tta3">19(額外15)</td>
             </tr>
           </table>
 
-          條頓的特殊技術：<strong><a href="Crenellations.php">垛口</a></strong
+          條頓的特殊技術：<strong
+            ><a href="/techs/Crenellations">垛口</a></strong
           >，讓步兵駐紮也有增加箭數效果，同種類的步兵駐紮滿20人可以增加7支箭。
         </div>
         <h3>更多數據</h3>
@@ -288,19 +293,22 @@
           <tr>
             <td class="tta1">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="Naval_Vessels.php">船隻</a>，<a href="Archer_Units.php"
+              <a href="/units/Naval_Vessels">船隻</a>，<a
+                href="/units/Archer_Units"
                 >弓兵系</a
-              >， <a href="Monk.php">僧侶</a>，虛弱的近戰單位。
+              >， <a href="/units/Monk">僧侶</a>，虛弱的近戰單位。
             </td>
           </tr>
           <tr>
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
-              <a href="Siege_Weapon_Unit.php">攻城武器</a>，<a href="Tarkan.php"
+              <a href="/Siege_Weapon_Unit.php">攻城武器</a>，<a
+                href="/units/Tarkan"
                 >韃靼騎兵</a
-              >， <a href="Huskarl.php">哥德衛隊</a>，<a href="War_Elephant.php"
+              >， <a href="/units/Huskarl">哥德衛隊</a>，<a
+                href="/War_unitsanimal/Elephant"
                 >戰象</a
-              >，<a href="Cannon_Galleon.php">火炮戰船</a>。
+              >，<a href="/units/Cannon_Galleon">火炮戰船</a>。
             </td>
           </tr>
           <tr class="tta">
@@ -312,7 +320,7 @@
             <td class="tta1" style="width:20%">生命值</td>
             <td class="tta4">
               <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="Masonry.php"
+                href="/techs/Masonry"
                 >磚瓦技術</a
               >(+10%)
               <br />
@@ -321,10 +329,10 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="Architecture.php">建築學</a>(+10%)
+              /><a href="/techs/Architecture">建築學</a>(+10%)
               <br />
               <img class="gg" src="~assets/Hoardings.jpg" width="30" alt="" /><a
-                href="Hoardings.php"
+                href="/techs/Hoardings"
                 >外架式柵樓</a
               >(+1000)
             </td>
@@ -333,7 +341,7 @@
             <td class="tta1">攻擊力</td>
             <td class="tta4">
               <img class="gg" src="~assets/Fletching.jpg" width="30" alt="" /><a
-                href="Fletching.php"
+                href="/techs/Fletching"
                 >箭羽</a
               >(+1)
               <br />
@@ -342,15 +350,15 @@
                 src="~assets/Bodkinarrow.jpg"
                 width="30"
                 alt=""
-              /><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+              /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
               <br />
               <img class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><a
-                href="Bracer.php"
+                href="/techs/Bracer"
                 >護腕</a
               >(+1)
               <br />
               <img class="gg" src="~assets/Chemistry.jpg" width="30" alt="" /><a
-                href="Chemistry.php"
+                href="/techs/Chemistry"
                 >化學</a
               >(+1)
               <br />
@@ -359,8 +367,8 @@
                 src="~assets/Heatedshot.png"
                 width="30"
                 alt=""
-              /><a href="Heated_Shot.php">預熱射擊</a>(+4，僅對<a
-                href="Naval_Vessels.php"
+              /><a href="/techs/Heated_Shot">預熱射擊</a>(+4，僅對<a
+                href="/units/Naval_Vessels"
                 >船隻</a
               >)
               <br />
@@ -369,8 +377,8 @@
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="Boiling_Oil.php">沸油</a>(+9僅對衝撞車系，<a
-                href="Persians.php"
+              /><a href="/techs/Boiling_Oil">沸油</a>(+9僅對衝撞車系，<a
+                href="/civs/Persians"
                 >波斯</a
               >限定)
             </td>
@@ -379,7 +387,7 @@
             <td class="tta1">範圍</td>
             <td class="tta4">
               <img class="gg" src="~assets/Fletching.jpg" width="30" alt="" /><a
-                href="Fletching.php"
+                href="/techs/Fletching"
                 >箭羽</a
               >(+1)
               <br />
@@ -388,10 +396,10 @@
                 src="~assets/Bodkinarrow.jpg"
                 width="30"
                 alt=""
-              /><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+              /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
               <br />
               <img class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><a
-                href="Bracer.php"
+                href="/techs/Bracer"
                 >護腕</a
               >(+1)
               <br />
@@ -400,14 +408,15 @@
                 src="~assets/Murderholes.jpg"
                 width="30"
                 alt=""
-              /><a href="Murder_Holes.php">垛孔</a>:消除最小射程
+              /><a href="/techs/Murder_Holes">垛孔</a>:消除最小射程
               <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><a href="Crenellations.php">垛口</a>(+3，<a href="Teutons.php"
+              /><a href="/techs/Crenellations">垛口</a>(+3，<a
+                href="/civs/Teutons"
                 >條頓</a
               >限定)
             </td>
@@ -420,7 +429,7 @@
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="Stronghold.php">堡壘</a>(+25%，<a href="Celts.php"
+              /><a href="/techs/Stronghold">堡壘</a>(+25%，<a href="/civs/Celts"
                 >賽爾特</a
               >限定)
             </td>
@@ -433,14 +442,14 @@
                 src="~assets/Ballistics.jpg"
                 width="30"
                 alt=""
-              /><a href="Ballistics.php">彈道學</a>:較易擊中移動目標
+              /><a href="/techs/Ballistics">彈道學</a>:較易擊中移動目標
             </td>
           </tr>
           <tr>
             <td class="tta1">護甲</td>
             <td class="tta4">
               <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="Masonry.php"
+                href="/techs/Masonry"
                 >磚瓦技術</a
               >(+1/+1，+3建築護甲)
               <br />
@@ -449,14 +458,14 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="Architecture.php">建築學</a>(+1/+1，+3建築護甲)
+              /><a href="/techs/Architecture">建築學</a>(+1/+1，+3建築護甲)
             </td>
           </tr>
           <tr>
             <td class="tta1">視野</td>
             <td class="tta4">
               <img class="gg" src="~assets/Townwatch.jpg" width="30" alt="" /><a
-                href="Town_Watch.php"
+                href="/techs/Town_Watch"
                 >城鎮暸望</a
               >(+4)
               <br />
@@ -465,7 +474,7 @@
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><a href="Town_Watch.php">城鎮巡邏</a>(+4)
+              /><a href="/techs/Town_Watch">城鎮巡邏</a>(+4)
             </td>
           </tr>
           <tr>
@@ -476,7 +485,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%)
+              /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%)
             </td>
           </tr>
           <tr>
@@ -487,14 +496,15 @@
                 src="~assets/Conscription.jpg"
                 width="30"
                 alt=""
-              /><a href="Conscription.php">徵兵制度</a>(+33%)
+              /><a href="/techs/Conscription">徵兵制度</a>(+33%)
               <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="Kasbah.php">聚居堡壘</a>(+25%，<a href="Berbers.php"
+              /><a href="/techs/Kasbah">聚居堡壘</a>(+25%，<a
+                href="/civs/Berbers"
                 >柏柏</a
               >與其同盟限定)
             </td>
@@ -507,14 +517,14 @@
                 src="~assets/Herbalmedicine.png"
                 width="30"
                 alt=""
-              /><a href="Herbal_Medicine.php">草藥學</a>:駐紮單位治療速度加快
+              /><a href="/techs/Herbal_Medicine">草藥學</a>:駐紮單位治療速度加快
               <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="Crenellations.php">垛口</a>:駐紮步兵可增加箭數
+              /><a href="/techs/Crenellations">垛口</a>:駐紮步兵可增加箭數
             </td>
           </tr>
         </table>
@@ -523,36 +533,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
             <li>城堡視野+10。</li>
           </ul>
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
-            <li>引入<a href="Herbal_Medicine.php">草藥學</a>。</li>
+            <li>引入<a href="/techs/Herbal_Medicine">草藥學</a>。</li>
             <li>
-              <a href="Teutons.php">條頓</a>:引入<a href="Crenellations.php"
+              <a href="/civs/Teutons">條頓</a>:引入<a
+                href="/techs/Crenellations"
                 >垛口</a
               >。
             </li>
           </ul>
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>城堡現在有11的視野範圍。</li>
-            <li><a href="Chemistry.php">化學</a>現在會加成城堡的攻擊。</li>
+            <li><a href="/techs/Chemistry">化學</a>現在會加成城堡的攻擊。</li>
             <li>
-              <a href="Celts.php">塞爾特</a>:引入<a href="Stronghold.php"
+              <a href="/civs/Celts">塞爾特</a>:引入<a href="/techs/Stronghold"
                 >堡壘</a
               >。
             </li>
-            <li><a href="Koreans.php">韓國</a>:城堡建造速度快33%。</li>
+            <li><a href="/civs/Koreans">韓國</a>:城堡建造速度快33%。</li>
             <li>
-              <a href="Persians.php">波斯</a>:引入<a href="Boiling_Oil.php"
+              <a href="/civs/Persians">波斯</a>:引入<a href="/techs/Boiling_Oil"
                 >熱油</a
               >。
             </li>
@@ -606,7 +617,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="Castle.php">城堡</a></div>
+              <div class="unititle"><a href="/building/Castle">城堡</a></div>
             </td>
           </tr>
           <tr>
@@ -618,7 +629,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -631,7 +642,7 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Castle_Age.php">城堡時代</a></td>
+            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -639,7 +650,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -648,7 +659,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>
@@ -670,7 +681,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="Armor_Class_Spearman.php">長槍兵</a>+2
+              對<a href="/armor/Armor_Class_Spearman">長槍兵</a>+2
             </td>
           </tr>
           <tr>
@@ -704,10 +715,10 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="Armor_Class_Building.php">建築（+8）</a> <br />
-              <a href="Armor_Class_standard_building.php">標準建築</a>
+              <a href="/armor/Armor_Class_Building">建築（+8）</a> <br />
+              <a href="/Armor_Class_standard_building.php">標準建築</a>
               <br />
-              <a href="img/Armor_class_Castle.php">城堡</a>
+              <a href="/img/Armor_class_building/Castle">城堡</a>
             </td>
           </tr>
           <tr>
@@ -724,7 +735,7 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a href="img/Castleaokaoc.png"
+          <a href="/img/Castleaokaoc.png"
             ><img
               class="imgn hg"
               width="180"
@@ -736,7 +747,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <a href="img/Castlehd.png"
+          <a href="/img/Castlehd.png"
             ><img class="imgn hg" width="200" src="~assets/Castlehd.png" alt=""
           /></a>
           <div class="lightbox-caption" style="width:220px" ;>
@@ -744,7 +755,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <a href="img/Spritesheet_castle.png"
+          <a href="/img/Spritesheet_castle.png"
             ><img
               class="imgn hg"
               width="200"

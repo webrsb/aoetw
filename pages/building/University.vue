@@ -11,8 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="University.php">學院</a>或稱為大學，在<a
-              href="Castle_Age.php"
+            <a href="/building/University">學院</a>或稱為大學，在<a
+              href="/techsage/Castle_Age"
               >城堡時代</a
             >後能建造。學院可研發科技強化建築和遠距離單位。
           </p>
@@ -21,25 +21,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            學院中的<a href="Ballistics.php">彈道學</a
+            學院中的<a href="/techs/Ballistics">彈道學</a
             >在現今遠距離作戰當道的情況下常是玩家優先研發的技術，以<a
-              href="Crossbowman.php"
+              href="/units/Crossbowman"
               >弩兵</a
             >或是
-            <a href="Cavalry_Archer.php">馬弓騎兵</a
+            <a href="/Cavalry_units/Archer">馬弓騎兵</a
             >當主力的打法，學院通常會一上城堡就蓋。而上了帝王後<a
-              href="Chemistry.php"
+              href="/techs/Chemistry"
               >化學</a
             >的研發可讓攻擊更具破壞力，重點是可以獲取
-            <a href="Hand_Cannoneer.php">火槍兵</a>、<a
-              href="Bombard_Cannon.php"
+            <a href="/units/Hand_Cannoneer">火槍兵</a>、<a
+              href="/units/Bombard_Cannon"
               >火炮</a
-            >與 <a href="">火炮塔</a>這種高威力火藥兵種。。
-            <a href="Siege_Engineers.php">攻城工程師</a
+            >與 <a href="#">火炮塔</a>這種高威力火藥兵種。。
+            <a href="/techs/Siege_Engineers">攻城工程師</a
             >可讓攻城武器射程+1在後期也很有效用；而其他如<a
-              href="Murder_Holes.php"
+              href="/techs/Murder_Holes"
               >垛孔</a
-            >、<a href="Fortified_Wall.php">垛牆</a
+            >、<a href="/building/Fortified_Wall">垛牆</a
             >則不符合當前戰術所以不常研發。
           </p>
           <h3>可訓練的單位與技術</h3>
@@ -47,11 +47,11 @@
           <div class="row">
             <div class="col-md-6">
               <div class="n1">
-                <h4><a href="Castle_Age.php"></a>城堡時代</h4>
+                <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Masonry.jpg" alt="" /><a
-                      href="Masonry.php"
+                      href="/techs/Masonry"
                       >磚瓦技術</a
                     >
                   </li>
@@ -60,11 +60,11 @@
                       class="gg"
                       src="~assets/Fortified-wall-research.jpg"
                       alt=""
-                    /><a href="Fortified_Wall.php">垛牆</a>
+                    /><a href="/building/Fortified_Wall">垛牆</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Ballistics.jpg" alt="" /><a
-                      href="Ballistics.php"
+                      href="/techs/Ballistics"
                       >彈道學</a
                     >
                   </li>
@@ -73,23 +73,23 @@
                       class="gg"
                       src="~assets/Guard-tower-research.jpg"
                       alt=""
-                    /><a href="Guard_Tower.php">防禦箭塔</a>
+                    /><a href="/units/Guard_Tower">防禦箭塔</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Heatedshot.png" alt="" /><a
-                      href="Heated_Shot.php"
+                      href="/techs/Heated_Shot"
                       >預熱射擊</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Murderholes.jpg" alt="" /><a
-                      href="Murder_Holes.php"
+                      href="/techs/Murder_Holes"
                       >垛孔</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Treadmillcrane.jpg" alt="" /><a
-                      href="Treadmill_Crane.php"
+                      href="/techs/Treadmill_Crane"
                       >滑輪起重機</a
                     >
                   </li>
@@ -98,35 +98,35 @@
             </div>
             <div class="col-md-6">
               <div class="n1">
-                <h4><a href="Imperial_Age.php"></a>帝王時代</h4>
+                <h4><a href="/techsage/Imperial_Age"></a>帝王時代</h4>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Architecture.jpg" alt="" /><a
-                      href="Architecture.php"
+                      href="/techs/Architecture"
                       >建築學</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Chemistry.jpg" alt="" /><a
-                      href="Chemistry.php"
+                      href="/techs/Chemistry"
                       >化學</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                      href="Siege_Engineers.php"
+                      href="/techs/Siege_Engineers"
                       >攻城工程師</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Keep-research.jpg" alt="" /><a
-                      href="Keep.php"
+                      href="/units/Keep"
                       >大型箭塔</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><a
-                      href="Arrowslits.php"
+                      href="/techs/Arrowslits"
                       >箭狹槽</a
                     >
                   </li>
@@ -135,7 +135,7 @@
                       class="gg"
                       src="~assets/Bombard-tower-research.jpg"
                       alt=""
-                    /><a href="Bombard_Tower.php">火砲塔</a>
+                    /><a href="/building/Bombard_Tower">火砲塔</a>
                   </li>
                 </ul>
               </div>
@@ -170,14 +170,14 @@
                     src="~assets/Masonry.jpg"
                     width="30"
                     alt=""
-                  /><a href="Masonry.php">磚瓦技術</a>(+10%)
+                  /><a href="/techs/Masonry">磚瓦技術</a>(+10%)
                   <br />
                   <img
                     class="gg"
                     src="~assets/Architecture.jpg"
                     width="30"
                     alt=""
-                  /><a href="Architecture.php">建築學</a>(+10%)
+                  /><a href="/techs/Architecture">建築學</a>(+10%)
                 </td>
               </tr>
               <tr>
@@ -188,14 +188,15 @@
                     src="~assets/Masonry.jpg"
                     width="30"
                     alt=""
-                  /><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                  /><a href="/techs/Masonry">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                   <br />
                   <img
                     class="gg"
                     src="~assets/Architecture.jpg"
                     width="30"
                     alt=""
-                  /><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)
+                  /><a href="/techs/Architecture">建築學</a
+                  >(護甲+1/+1，+3建築護甲)
                 </td>
               </tr>
               <tr>
@@ -206,21 +207,21 @@
                     src="~assets/Townwatch.jpg"
                     width="30"
                     alt=""
-                  /><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                  /><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
                   <br />
                   <img
                     class="gg"
                     src="~assets/Townpatrol.jpg"
                     width="30"
                     alt=""
-                  /><a href="Town_Patrol.php">城鎮巡邏</a>(+4)
+                  /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
                 </td>
               </tr>
               <tr>
                 <td class="tta1">招降抵抗</td>
                 <td class="tta4">
                   <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                    href="Faith.php"
+                    href="/techs/Faith"
                     >忠誠信仰</a
                   >
                   <br />
@@ -229,7 +230,7 @@
                     src="~assets/Heresy.png"
                     width="30"
                     alt=""
-                  /><a href="Heresy.php">異端邪說</a>
+                  /><a href="/techs/Heresy">異端邪說</a>
                 </td>
               </tr>
               <tr>
@@ -240,7 +241,8 @@
                     src="~assets/Treadmillcrane.jpg"
                     width="30"
                     alt=""
-                  /><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)
+                  /><a href="/techs/Treadmill_Crane">踏輪起重機</a
+                  >(+20%建造效率)
                 </td>
               </tr>
             </table>
@@ -251,15 +253,15 @@
               <div class="n1">
                 <ul>
                   <li>
-                    <a href="Byzantines.php">拜占庭</a
+                    <a href="/civs/Byzantines">拜占庭</a
                     >：在封建/城堡/帝王時代，學院增加20%/30%40%的血量。
                   </li>
                   <li>
-                    <a href="Chinese.php">中國</a
+                    <a href="/civs/Chinese">中國</a
                     >：學院的技術在城堡/帝王時代分別便宜15%/20%
                   </li>
-                  <li><a href="Malians.php">馬利</a>：學院建築花費便宜15%</li>
-                  <li><a href="Spanish.php">西班牙</a>：學院建造速度快30%</li>
+                  <li><a href="/civs/Malians">馬利</a>：學院建築花費便宜15%</li>
+                  <li><a href="/civs/Spanish">西班牙</a>：學院建造速度快30%</li>
                 </ul>
               </div>
               <h3>團隊加成</h3>
@@ -267,7 +269,7 @@
               <div class="n1">
                 <ul>
                   <li>
-                    <a href="Malians.php">馬利</a>：團隊學院的工作效率快80%
+                    <a href="/civs/Malians">馬利</a>：團隊學院的工作效率快80%
                   </li>
                 </ul>
               </div>
@@ -277,7 +279,7 @@
                 <ul>
                   <li>
                     非洲文明的學院原形為馬利的<a
-                      href="https://en.wikipedia.org/wiki/Sankore_Madrasah"
+                      href="/https://en.wikipedia.org/wiki/Sankore_Madrasah"
                       >桑科爾大學</a
                     >。
                   </li>
@@ -301,7 +303,7 @@
               <div class="n1">
                 <div class="col-md-12">
                   <div class="col-md-4">
-                    <a href="img/Universityaokaoc.png"
+                    <a href="/img/Universityaokaoc.png"
                       ><img
                         class="imgn hg"
                         src="~assets/Universityaokaoc.png"
@@ -310,13 +312,13 @@
                     <p><em>帝王世紀的所有學院。</em></p>
                   </div>
                   <div class="col-md-4">
-                    <a href="img/University.png"
+                    <a href="/img/University.png"
                       ><img class="imgn hg" src="~assets/University.png" alt=""
                     /></a>
                     <p><em>在城堡時期的HD版學院。</em></p>
                   </div>
                   <div class="col-md-4">
-                    <a href="img/UniversityImperialAgeHD.png"
+                    <a href="/img/UniversityImperialAgeHD.png"
                       ><img
                         class="imgn hg"
                         src="~assets/UniversityImperialAgeHD.png"
@@ -327,7 +329,7 @@
                 </div>
                 <div class="col-md-12">
                   <div class="col-md-4">
-                    <a href="img/UniversityImperialAgeDLC.png"
+                    <a href="/img/UniversityImperialAgeDLC.png"
                       ><img
                         class="imgn hg"
                         src="~assets/UniversityImperialAgeDLC.png"
@@ -345,7 +347,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="">學院</a></div>
+              <div class="unititle"><a href="#">學院</a></div>
             </td>
           </tr>
           <tr>
@@ -357,7 +359,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -370,7 +372,7 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Castle_Age.php">城堡時代</a></td>
+            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -382,7 +384,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -391,7 +393,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>
@@ -443,8 +445,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="Armor_Class_Building.php">建築</a> <br />
-              <a href="Armor_Class_standard_building.php">標準建築</a>
+              <a href="/armor/Armor_Class_Building">建築</a> <br />
+              <a href="/Armor_Class_standard_building.php">標準建築</a>
             </td>
           </tr>
           <tr>

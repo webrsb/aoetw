@@ -9,12 +9,14 @@
           下面將列出遊戲中所有科技，單位的升級不列在此。F=食物 W=木材 G=金
           S=石頭
         </p>
-        <p>各國特殊科技銀冠、金冠請見:<a href="untech.php">特殊科技總攬</a></p>
+        <p>
+          各國特殊科技銀冠、金冠請見:<a href="/techs/untech">特殊科技總攬</a>
+        </p>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
-        <h3><a href="Barracks.php">軍營</a></h3>
+        <h3><a href="/building/Barracks">軍營</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -26,7 +28,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Tracking.jpg" alt="" /><a
-                href="Tracking.php"
+                href="/techs/Tracking"
                 >追縱技術</a
               >
             </td>
@@ -37,7 +39,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Squires.jpg" alt="" /><a
-                href="Squires.php"
+                href="/techs/Squires"
                 >護衛</a
               >
             </td>
@@ -48,21 +50,21 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Arson.jpg" alt="" /><a
-                href="Arson.php"
+                href="/techs/Arson"
                 >縱火</a
               >
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">150F 50G</td>
             <td class="tunitc6">
-              步兵+2攻擊vs<a href="Armor_Class_standard_building.php"
+              步兵+2攻擊vs<a href="/Armor_Class_standard_building.php"
                 >標準建築</a
               >
             </td>
           </tr>
         </table>
 
-        <h3><a href="Archery_Range.php">射箭場</a></h3>
+        <h3><a href="/building/Archery_Range">射箭場</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -74,7 +76,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Thumb_Ring.png" alt="" /><a
-                href="Thumb_Ring.php"
+                href="/techs/Thumb_Ring"
                 >拇指環</a
               >
             </td>
@@ -87,19 +89,19 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Parthian-Tactics.jpg" alt="" /><a
-                href="Parthian_Tactics.php"
+                href="/techs/Parthian_Tactics"
                 >帕提亞戰術</a
               >
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">200F 250G</td>
             <td class="tunitc6">
-              馬騎弓兵護甲+1/+2，對<a href="Pikeman.php">長槍兵</a>攻擊+4。
+              馬騎弓兵護甲+1/+2，對<a href="/units/Pikeman">長槍兵</a>攻擊+4。
             </td>
           </tr>
         </table>
 
-        <h3><a href="Stable.php">馬廄</a></h3>
+        <h3><a href="/building/Stable">馬廄</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -111,7 +113,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Bloodlines.png" alt="" /><a
-                href="Bloodlines.php"
+                href="/techs/Bloodlines"
                 >品種</a
               >
             </td>
@@ -122,7 +124,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Husbandry.jpg" alt="" /><a
-                href="Husbandry.php"
+                href="/techs/Husbandry"
                 >畜牧培育</a
               >
             </td>
@@ -132,7 +134,7 @@
           </tr>
         </table>
 
-        <h3><a href="Town_Center.php">城鎮中心</a></h3>
+        <h3><a href="/building/Town_Center">城鎮中心</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -143,7 +145,8 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img class="gg" src="~assets/Loom.jpg" alt="" /><a href="Loom.php"
+              <img class="gg" src="~assets/Loom.jpg" alt="" /><a
+                href="/techs/Loom"
                 >織布技術</a
               >
             </td>
@@ -154,7 +157,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Wheelbarrow.jpg" alt="" /><a
-                href="Wheelbarrow.php"
+                href="/techs/Wheelbarrow"
                 >獨輪推車</a
               >
             </td>
@@ -165,7 +168,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Handcart.jpg" alt="" /><a
-                href="Hand_Cart.php"
+                href="/Hand_Cart.php"
                 >手推車</a
               >
             </td>
@@ -176,7 +179,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Townwatch.jpg" alt="" /><a
-                href="Town_Watch.php"
+                href="/techs/Town_Watch"
                 >城鎮暸望</a
               >
             </td>
@@ -187,7 +190,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Townpatrol.jpg" alt="" /><a
-                href="Town_Patrol.php"
+                href="/techs/Town_Patrol"
                 >城鎮巡邏</a
               >
             </td>
@@ -197,7 +200,7 @@
           </tr>
         </table>
 
-        <h3><a href="Monastery.php">修道院</a></h3>
+        <h3><a href="/building/Monastery">修道院</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -209,7 +212,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Redemption.jpg" alt="" /><a
-                href="Redemption.php"
+                href="/techs/Redemption"
                 >信仰救贖</a
               >
             </td>
@@ -220,7 +223,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Atonement.jpg" alt="" /><a
-                href="Atonement.php"
+                href="/techs/Atonement"
                 >贖罪</a
               >
             </td>
@@ -231,7 +234,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Herbalmedicine.png" alt="" /><a
-                href="Herbal_Medicine.php"
+                href="/techs/Herbal_Medicine"
                 >草藥學</a
               >
             </td>
@@ -242,7 +245,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Heresy.png" alt="" /><a
-                href="Heresy.php"
+                href="/techs/Heresy"
                 >異端邪說</a
               >
             </td>
@@ -253,7 +256,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Sanctity.jpg" alt="" /><a
-                href="Sanctity.php"
+                href="/techs/Sanctity"
                 >聖潔虔誠</a
               >
             </td>
@@ -264,7 +267,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Fervor.jpg" alt="" /><a
-                href="Fervor.php"
+                href="/techs/Fervor"
                 >宗教狂熱</a
               >
             </td>
@@ -275,7 +278,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><a
-                href="Faith.php"
+                href="/techs/Faith"
                 >忠誠信仰</a
               >
             </td>
@@ -286,7 +289,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Illumination.jpg" alt="" /><a
-                href="Illumination.php"
+                href="/techs/Illumination"
                 >啟發教化</a
               >
             </td>
@@ -299,7 +302,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Blockprinting.jpg" alt="" /><a
-                href="Block_Printing.php"
+                href="/techs/Block_Printing"
                 >雕版印刷術</a
               >
             </td>
@@ -310,7 +313,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Theocracy.png" alt="" /><a
-                href="Theocracy.php"
+                href="/techs/Theocracy"
                 >神權統治</a
               >
             </td>
@@ -322,7 +325,7 @@
           </tr>
         </table>
 
-        <h3><a href="Market.php">市集</a></h3>
+        <h3><a href="/building/Market">市集</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -334,7 +337,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Cartography.jpg" alt="" /><a
-                href="Cartography.php"
+                href="/techs/Cartography"
                 >製圖法</a
               >
             </td>
@@ -345,14 +348,15 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/CaravanII.png" alt="" /><a
-                href="Caravan.php"
+                href="/techs/Caravan"
                 >大商隊</a
               >
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 200G</td>
             <td class="tunitc6">
-              <a href="Trade_Cart.php">貿易馬車</a>和<a href="Trade_Cog.php"
+              <a href="/units/Trade_Cart">貿易馬車</a>和<a
+                href="/units/Trade_Cog"
                 >貿易商旅</a
               >的移動速度快50%。
             </td>
@@ -360,7 +364,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Coinage.jpg" alt="" /><a
-                href="Coinage.php"
+                href="/techs/Coinage"
                 >鑄幣術</a
               >
             </td>
@@ -371,7 +375,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Banking.jpg" alt="" /><a
-                href="Banking.php"
+                href="/techs/Banking"
                 >銀行制度</a
               >
             </td>
@@ -382,7 +386,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Guilds.jpg" alt="" /><a
-                href="Guilds.php"
+                href="/techs/Guilds"
                 >行會制度</a
               >
             </td>
@@ -392,7 +396,7 @@
           </tr>
         </table>
 
-        <h3><a href="Castle.php">城堡</a></h3>
+        <h3><a href="/building/Castle">城堡</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -404,7 +408,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Spiestreason.jpg" alt="" /><a
-                href="Spies.php"
+                href="/techs/Spies"
                 >間諜</a
               >
             </td>
@@ -415,7 +419,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Spiestreason.jpg" alt="" /><a
-                href="Spies.php"
+                href="/techs/Spies"
                 >叛徒</a
               >
             </td>
@@ -428,7 +432,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Hoardings.jpg" alt="" /><a
-                href="Hoardings.php"
+                href="/techs/Hoardings"
                 >外架式柵樓</a
               >
             </td>
@@ -439,7 +443,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Sappers.jpg" alt="" /><a
-                href="Sappers.php"
+                href="/techs/Sappers"
                 >坑道工兵</a
               >
             </td>
@@ -450,7 +454,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Conscription.jpg" alt="" /><a
-                href="Conscription.php"
+                href="/techs/Conscription"
                 >徵兵制度</a
               >
             </td>
@@ -460,7 +464,7 @@
           </tr>
         </table>
 
-        <h3><a href="Dock.php">碼頭</a></h3>
+        <h3><a href="/building/Dock">碼頭</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -472,7 +476,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Careening.jpg" alt="" /><a
-                href="Careening.php"
+                href="/techs/Careening"
                 >傾側維修術</a
               >
             </td>
@@ -483,7 +487,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Drydock.jpg" alt="" /><a
-                href="Dry_Dock.php"
+                href="/Dry_building/Dock"
                 >旱碼頭</a
               >
             </td>
@@ -494,7 +498,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Shipwright.jpg" alt="" /><a
-                href="Shipwright.php"
+                href="/techs/Shipwright"
                 >造船匠</a
               >
             </td>
@@ -505,7 +509,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Gillnetsicon.jpg" alt="" /><a
-                href="Gillnets.php"
+                href="/techs/Gillnets"
                 >流刺網</a
               >
             </td>
@@ -515,7 +519,7 @@
           </tr>
         </table>
 
-        <h3><a href="University.php">學院</a></h3>
+        <h3><a href="/building/University">學院</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -527,7 +531,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Masonry.jpg" alt="" /><a
-                href="Masonry.php"
+                href="/techs/Masonry"
                 >磚瓦技術</a
               >
             </td>
@@ -538,7 +542,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Stonewallicon.png" alt="" /><a
-                href="Fortified_Wall.php"
+                href="/building/Fortified_Wall"
                 >垛牆</a
               >
             </td>
@@ -551,7 +555,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Ballistics.jpg" alt="" /><a
-                href="Ballistics.php"
+                href="/techs/Ballistics"
                 >彈道學</a
               >
             </td>
@@ -564,7 +568,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                href="Guard_Tower.php"
+                href="/units/Guard_Tower"
                 >防禦箭塔</a
               >
             </td>
@@ -575,7 +579,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Heatedshot.png" alt="" /><a
-                href="Heated_Shot.php"
+                href="/techs/Heated_Shot"
                 >預熱射擊</a
               >
             </td>
@@ -586,7 +590,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Murderholes.jpg" alt="" /><a
-                href="Murder_Holes.php"
+                href="/techs/Murder_Holes"
                 >垛孔</a
               >
             </td>
@@ -597,7 +601,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Treadmillcrane.jpg" alt="" /><a
-                href="Treadmill_Crane.php"
+                href="/techs/Treadmill_Crane"
                 >踏輪起重機</a
               >
             </td>
@@ -608,7 +612,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Architecture.jpg" alt="" /><a
-                href="Architecture.php"
+                href="/techs/Architecture"
                 >建築學</a
               >
             </td>
@@ -619,7 +623,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Chemistry.jpg" alt="" /><a
-                href="Chemistry.php"
+                href="/techs/Chemistry"
                 >化學</a
               >
             </td>
@@ -632,7 +636,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                href="Siege_Engineers.php"
+                href="/techs/Siege_Engineers"
                 >攻城工程師</a
               >
             </td>
@@ -645,7 +649,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                href="Keep.php"
+                href="/units/Keep"
                 >大型箭塔</a
               >
             </td>
@@ -656,7 +660,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><a
-                href="Arrowslits.php"
+                href="/techs/Arrowslits"
                 >箭狹槽</a
               >
             </td>
@@ -670,7 +674,7 @@
                 class="gg"
                 src="~assets/Bombard-tower-research.jpg"
                 alt=""
-              /><a href="Bombard_Tower.php">火炮塔</a>
+              /><a href="/building/Bombard_Tower">火炮塔</a>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">800F 400W</td>
@@ -678,7 +682,7 @@
           </tr>
         </table>
 
-        <h3><a href="Blacksmith.php">兵工廠</a></h3>
+        <h3><a href="/building/Blacksmith">兵工廠</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -690,7 +694,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Paddedarcherarmor.jpg" alt="" /><a
-                href="Padded_Archer_Armor.php"
+                href="/techs/Padded_Archer_Armor"
                 >弓兵布甲</a
               >
             </td>
@@ -701,7 +705,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Leatherarcherarmor.jpg" alt="" /><a
-                href="Leather_Archer_Armor.php"
+                href="/techs/Leather_Archer_Armor"
                 >弓兵皮甲</a
               >
             </td>
@@ -712,7 +716,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Ringarcherarmor.jpg" alt="" /><a
-                href="Ring_Archer_Armor.php"
+                href="/techs/Ring_Archer_Armor"
                 >弓兵環甲</a
               >
             </td>
@@ -723,7 +727,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Fletching.jpg" alt="" /><a
-                href="Fletching.php"
+                href="/techs/Fletching"
                 >箭羽</a
               >
             </td>
@@ -736,7 +740,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Bodkinarrow.jpg" alt="" /><a
-                href="Bodkin_Arrow.php"
+                href="/techs/Bodkin_Arrow"
                 >錐狀箭頭</a
               >
             </td>
@@ -749,7 +753,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Bracer.jpg" alt="" /><a
-                href="Bracer.php"
+                href="/techs/Bracer"
                 >護腕</a
               >
             </td>
@@ -762,7 +766,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Forging.jpg" alt="" /><a
-                href="Forging.php"
+                href="/techs/Forging"
                 >鍛造</a
               >
             </td>
@@ -773,7 +777,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><a
-                href="Iron_Casting.php"
+                href="/techs/Iron_Casting"
                 >鑄造</a
               >
             </td>
@@ -784,7 +788,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><a
-                href="Blast_Furnace.php"
+                href="/techs/Blast_Furnace"
                 >鼓風爐</a
               >
             </td>
@@ -795,7 +799,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Scalebardingarmor.jpg" alt="" /><a
-                href="Scale_Barding_Armor.php"
+                href="/techs/Scale_Barding_Armor"
                 >騎兵鱗甲</a
               >
             </td>
@@ -806,7 +810,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Chainbardingarmor.jpg" alt="" /><a
-                href="Chain_Barding_Armor.php"
+                href="/techs/Chain_Barding_Armor"
                 >騎兵鎖甲</a
               >
             </td>
@@ -817,7 +821,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Platebardingarmor.jpg" alt="" /><a
-                href="Plate_Barding_Armor.php"
+                href="/techs/Plate_Barding_Armor"
                 >騎兵板甲</a
               >
             </td>
@@ -828,7 +832,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Scalemailarmor.jpg" alt="" /><a
-                href="Scale_Mail_Armor.php"
+                href="/techs/Scale_Mail_Armor"
                 >步兵鱗甲</a
               >
             </td>
@@ -839,7 +843,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Chainmailarmor.jpg" alt="" /><a
-                href="Chain_Mail_Armor.php"
+                href="/techs/Chain_Mail_Armor"
                 >步兵鎖甲</a
               >
             </td>
@@ -850,7 +854,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Platemailarmor.jpg" alt="" /><a
-                href="Plate_Mail_Armor.php"
+                href="/techs/Plate_Mail_Armor"
                 >步兵板甲</a
               >
             </td>
@@ -860,7 +864,7 @@
           </tr>
         </table>
 
-        <h3><a href="Mining_Camp.php">採礦營地</a></h3>
+        <h3><a href="/building/Mining_Camp">採礦營地</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -872,7 +876,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Goldmining.jpg" alt="" /><a
-                href="Gold_Mining.php"
+                href="/techs/Gold_Mining"
                 >採金技術</a
               >
             </td>
@@ -883,7 +887,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Stonemining.jpg" alt="" /><a
-                href="Stone_Mining.php"
+                href="/techs/Stone_Mining"
                 >採石技術</a
               >
             </td>
@@ -894,7 +898,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Goldshaftmining.jpg" alt="" /><a
-                href="Gold_Shaft_Mining.php"
+                href="/techs/Gold_Shaft_Mining"
                 >礦井採金</a
               >
             </td>
@@ -905,7 +909,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt="" /><a
-                href="Stone_Shaft_Mining.php"
+                href="/techs/Stone_Shaft_Mining"
                 >礦井採石</a
               >
             </td>
@@ -915,7 +919,7 @@
           </tr>
         </table>
 
-        <h3><a href="Lumber_Camp.php">伐木場</a></h3>
+        <h3><a href="/building/Lumber_Camp">伐木場</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -927,7 +931,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Doublebitaxe.jpg" alt="" /><a
-                href="Double-Bit_Axe.php"
+                href="/techs/Double-Bit_Axe"
                 >雙刃斧</a
               >
             </td>
@@ -938,7 +942,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Bowsaw.jpg" alt="" /><a
-                href="Bow_Saw.php"
+                href="/techs/Bow_Saw"
                 >弓鋸</a
               >
             </td>
@@ -949,7 +953,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Twomansaw.jpg" alt="" /><a
-                href="Two-Man_Saw.php"
+                href="/techs/Two-Man_Saw"
                 >雙人鋸</a
               >
             </td>
@@ -959,7 +963,7 @@
           </tr>
         </table>
 
-        <h3><a href="Mill.php">磨坊</a></h3>
+        <h3><a href="/building/Mill">磨坊</a></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -971,7 +975,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Horsecollar.jpg" alt="" /><a
-                href="Horse_Collar.php"
+                href="/techs/Horse_Collar"
                 >馬軛</a
               >
             </td>
@@ -982,7 +986,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Heavyplow.jpg" alt="" /><a
-                href="Heavy_Plow.php"
+                href="/techs/Heavy_Plow"
                 >重犁</a
               >
             </td>
@@ -993,7 +997,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Croprotation.jpg" alt="" /><a
-                href="Crop_Rotation.php"
+                href="/techs/Crop_Rotation"
                 >輪耕</a
               >
             </td>

@@ -10,19 +10,19 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><strong>羅蘭</strong>是可在《世紀帝國II》的地圖編輯器中使用的一名<a href="Cavalry_Units.php">騎兵</a>
+            <p><strong>羅蘭</strong>是可在《世紀帝國II》的地圖編輯器中使用的一名<a href="/units/Cavalry_Units">騎兵</a>
               <a
-              href="heros.php">英雄</a>，他的原型是<a href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E6%9B%BC">查理曼大帝</a>麾下的一名
+              href="/units/hero">英雄</a>，他的原型是<a href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E6%9B%BC">查理曼大帝</a>麾下的一名
                 <a
-                href="Franks.php">法蘭克</a>將領。</p>
-            <p>遊戲中的他是一名<a href="Knight.php">騎士</a>，會受到所有影響騎兵的升級及加成影響。由於他是一名英雄，因此不會被招降且會自動回血。</p>
+                href="/civs/Franks">法蘭克</a>將領。</p>
+            <p>遊戲中的他是一名<a href="/units/Knight">騎士</a>，會受到所有影響騎兵的升級及加成影響。由於他是一名英雄，因此不會被招降且會自動回血。</p>
           </div>
         </div>
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="">羅蘭</a>
+                <div class="unititle"><a href="#">羅蘭</a>
                 </div>
               </td>
             </tr>
@@ -40,8 +40,8 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-                <br/><a href="heros.php">英雄</a></td>
+              <td class="unit4"><a href="/units/Cavalry_Units">騎兵</a>
+                <br/><a href="/units/hero">英雄</a></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -76,7 +76,7 @@
                 </tr>
                 <tr>
                   <td class="unit3">防禦類型</td>
-                  <td class="unit4"><a href="Armor_Class_Cavalry.php">騎兵</a></td>
+                  <td class="unit4"><a href="/armor/Armor_Class_Cavalry">騎兵</a></td>
                 </tr>
                 <tr>
                   <td class="unit3">跑速</td>

@@ -81,21 +81,21 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="may.php">瑪雅科技樹</a></em>
+          <em><a href="/tree/may">瑪雅科技樹</a></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>羽毛箭射手成本增加到50g/50w。</li>
             <li>精銳羽毛箭射手升級費用多200食物(現在是700f/1000w)。</li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
             <li>黑曜石之箭造成+6的傷害，而不是4。</li>
@@ -115,7 +115,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Wondermayans.png"
+              <a href="/img/Wondermayans.png"
                 ><img class="imgn hg" src="~assets/Wondermayans.png" alt=""
               /></a>
               <p><em>大美洲豹神廟</em></p>

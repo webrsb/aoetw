@@ -20,7 +20,7 @@
         <b-nav-item to="/qa">常見問題</b-nav-item>
         <b-nav-item to="/talk">討論區</b-nav-item>
         <b-nav-item to="#">記錄檔區</b-nav-item>
-        <b-nav-item to="/techs/tree">科技樹</b-nav-item>
+        <b-nav-item to="/tree/ber">科技樹</b-nav-item>
         <b-nav-item to="/maps">地圖</b-nav-item>
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">

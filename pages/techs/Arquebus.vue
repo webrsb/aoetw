@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火繩槍是<a href="Portuguese.php">葡萄牙</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            火繩槍是<a href="/civs/Portuguese">葡萄牙</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Gunpowder_Unit.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Gunpowder_Unit"
               >火藥單位</a
             >對移動目標的命中率上升。火繩槍也會增加投射物的速度(+0.2)。
           </p>
@@ -25,12 +25,11 @@
         <div class="n1">
           <ul>
             <li>
-              火繩槍是葡萄牙玩家使用<a href="Hand_Cannoneer.php"></a>火槍兵和<a
-                href="Organ_Gun.php"
-              ></a
+              火繩槍是葡萄牙玩家使用<a href="/units/Hand_Cannoneer"></a
+              >火槍兵和<a href="/units/Organ_Gun"></a
               >風琴炮作為部隊主力時最需要的科技。火繩槍可增加這些單位在遠程範圍的準確性，更有效的消滅來犯的近戰單位。火繩槍也可讓
-              <a href="Bombard_Tower.php">火炮塔</a>、<a
-                href="Cannon_Galleon.php"
+              <a href="/building/Bombard_Tower">火炮塔</a>、<a
+                href="/units/Cannon_Galleon"
                 >火炮戰船</a
               >在防衛目標上能更有效的瞄準移動的單位。
             </li>
@@ -41,7 +40,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速火繩槍的研究時間(快25%)。
             </li>
           </ul>
@@ -50,30 +50,30 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="ak.php">非洲王朝</a></em>
+            <em><a href="/games/ak">非洲王朝</a></em>
           </h3>
           <ul>
             <li>
-              火繩槍給予<a href="Bombard_Tower.php">火炮塔</a>和<a
-                href="Cannon_Galleon.php"
+              火繩槍給予<a href="/building/Bombard_Tower">火炮塔</a>和<a
+                href="/units/Cannon_Galleon"
                 >火炮戰船</a
               >的投射物速度+0.5。
             </li>
           </ul>
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>火繩槍給火藥單位的投射物速度減低到75%。</li>
             <li>
-              5.2改版後給予<a href="Bombard_Tower.php">火炮塔</a>和<a
-                href="Cannon_Galleon.php"
+              5.2改版後給予<a href="/building/Bombard_Tower">火炮塔</a>和<a
+                href="/units/Cannon_Galleon"
                 >火炮戰船</a
               >的投射物速度被移除。
             </li>
             <li>
-              5.7改版後給予<a href="Bombard_Tower.php">火炮塔</a>和<a
-                href="Cannon_Galleon.php"
+              5.7改版後給予<a href="/building/Bombard_Tower">火炮塔</a>和<a
+                href="/units/Cannon_Galleon"
                 >火炮戰船</a
               >的投射物速度改為+0.2。
             </li>
@@ -84,7 +84,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">火繩槍</a></div>
+              <div class="unititle"><a href="#">火繩槍</a></div>
             </td>
           </tr>
           <tr>
@@ -96,12 +96,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Portuguese.php">葡萄牙</a></td>
+            <td class="unit4"><a href="/civs/Portuguese">葡萄牙</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -110,14 +110,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -128,7 +128,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -141,7 +141,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

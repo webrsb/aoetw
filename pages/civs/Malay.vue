@@ -88,7 +88,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="mal.php">馬來科技樹</a></em>
+          <em><a href="/tree/mal">馬來科技樹</a></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -113,7 +113,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="">馬來</a></div>
+              <div class="unititle"><a href="#">馬來</a></div>
             </td>
           </tr>
           <tr>
@@ -126,7 +126,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>

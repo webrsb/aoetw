@@ -11,13 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            信使是<a href="Incas.php">印加</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            信使是<a href="/civs/Incas">印加</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a href="Kamayuk.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Kamayuk"
               >槍隊長</a
-            >、<a href="Slinger.php">投石手</a>、
-            <a href="Eagle_Warrior.php">鷹勇士</a>護甲+1/+2。
+            >、<a href="/units/Slinger">投石手</a>、
+            <a href="/units/Eagle_Warrior">鷹勇士</a>護甲+1/+2。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -28,7 +29,7 @@
               信使是值得研發的一項科技因為他讓印加軍隊核心的三種單位在戰場上生存更久。
             </li>
             <li>
-              在<a href="aof.php">失落的帝國</a
+              在<a href="/games/aof">失落的帝國</a
               >資料片信使是給跑速而不是裝甲，這讓研發信使是必須的一個動作因為低成本換來的是軍隊的高機動性。
             </li>
           </ul>
@@ -38,7 +39,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速信使的研究時間(快25%)。
             </li>
           </ul>
@@ -47,13 +49,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>信使給予投石手、鷹勇士、槍隊長+10％的移動速度。</li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
             <li>信使給予+1/+2的防禦。</li>
@@ -64,7 +66,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">信使</a></div>
+              <div class="unititle"><a href="#">信使</a></div>
             </td>
           </tr>
           <tr>
@@ -76,12 +78,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Incas.php">印加</a></td>
+            <td class="unit4"><a href="/civs/Incas">印加</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -90,14 +92,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -108,7 +110,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -121,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

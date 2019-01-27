@@ -21,15 +21,17 @@
             <li>駐紮步兵數量0→移動速度0.5</li>
             <li>駐紮步兵數量1→移動速度0.55</li>
             <li>
-              駐紮步兵數量2→移動速度0.6 (<a href="Siege_Ram.php">重型衝撞車</a
-              >、<a href="War_Elephant.php">戰象</a>移動速度0.6)
+              駐紮步兵數量2→移動速度0.6 (<a href="/units/Siege_Ram"
+                >重型衝撞車</a
+              >、<a href="/War_unitsanimal/Elephant">戰象</a>移動速度0.6)
             </li>
             <li>
-              駐紮步兵數量3→移動速度0.65 (<a href="Scorpion.php">弩砲</a
+              駐紮步兵數量3→移動速度0.65 (<a href="/units/Scorpion">弩砲</a
               >移動速度0.65)
             </li>
             <li>
-              駐紮步兵數量4→移動速度0.7 (<a href="Monk.php">僧侶</a>移動速度0.7)
+              駐紮步兵數量4→移動速度0.7 (<a href="/units/Monk">僧侶</a
+              >移動速度0.7)
             </li>
           </ul>
         </div>
@@ -42,7 +44,7 @@
           </p>
           <p>
             輕型衝撞車在遊戲中顯示的近身裝甲值為0，實際上的值設定為(-3)，雖然遠防裝甲很高，但對於近戰單位的抵抗力卻非常薄弱，因此輕型衝撞車可以承受大多數遠程攻擊單位的傷害(
-            <a href="Mangonel.php">投石車</a>、<a href="Mangudai.php"
+            <a href="/units/Mangonel">投石車</a>、<a href="/units/Mangudai"
               >蒙古突騎</a
             >除外)。
           </p>
@@ -51,7 +53,8 @@
           </p>
           <p>
             如果對手出輕型衝撞車拆除你的建築物，在沒有其他任何的兵力支援下，村民上前拆除也許是個不錯的選擇，因為輕型衝撞車的近身裝甲值很低、行走的慢，所以它很怕近戰的傷害，反之，若你選擇輕型衝撞車當推進幫手，在混亂中一定要小心衝撞車的控制，只要稍不注意，很可能會被一群村民徒手拆除，當然，比較建議使用
-            <a href="Light_Cavalry.php">輕騎兵</a>或<a href="Eagle_Warrior.php"
+            <a href="/units/Light_Cavalry">輕騎兵</a>或<a
+              href="/units/Eagle_Warrior"
               >鷹勇士</a
             >這類的單位拆除會更好。
           </p>
@@ -68,8 +71,8 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="Armor_Class_Building.php">建築物</a>和<a
-                href="Trebuchet.php"
+              <a href="/armor/Armor_Class_Building">建築物</a>和<a
+                href="/units/Trebuchet"
                 >投石機</a
               >。
             </td>
@@ -77,9 +80,10 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <a href="Mangudai.php">蒙古突騎</a>、<a href="Mangonel.php"
+              <a href="/units/Mangudai">蒙古突騎</a>、<a href="/units/Mangonel"
                 >投石車</a
-              >、近戰單位特別是 <a href="Magyar_Huszar.php">馬札爾驃騎兵</a>。
+              >、近戰單位特別是
+              <a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>。
             </td>
           </tr>
           <tr class="tta">
@@ -95,17 +99,17 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><a href="Furor_Celtica.php">賽爾特狂暴</a
-              >:攻城器製造所的單位+40% HP。<a href="Celts.php">賽爾特</a>限定
+              /><a href="/techs/Furor_Celtica">賽爾特狂暴</a
+              >:攻城器製造所的單位+40% HP。<a href="/civs/Celts">賽爾特</a>限定
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
               <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                href="Siege_Engineers.php"
+                href="/techs/Siege_Engineers"
                 >攻城工程師</a
-              >:對<a href="Armor_Class_Building.php">建築物</a>攻擊加成+20%。
+              >:對<a href="/armor/Armor_Class_Building">建築物</a>攻擊加成+20%。
             </td>
           </tr>
           <tr>
@@ -116,8 +120,8 @@
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="Ironclad.php">鋼鐵甲</a>:攻城武器近戰護甲+4，<a
-                href="Teutons.php"
+              /><a href="/techs/Ironclad">鋼鐵甲</a>:攻城武器近戰護甲+4，<a
+                href="/civs/Teutons"
                 >條頓</a
               >限定
             </td>
@@ -130,9 +134,8 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><a href="Drill.php">演習</a>:攻城器製造所的單位移動速度+50%，<a
-                href="Mongols.php"
-                >蒙古</a
+              /><a href="/techs/Drill">演習</a
+              >:攻城器製造所的單位移動速度+50%，<a href="/civs/Mongols">蒙古</a
               >限定
             </td>
           </tr>
@@ -141,12 +144,12 @@
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                href="Faith.php"
+                href="/techs/Faith"
                 >忠誠信仰</a
               >
               <br />
               <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="Heresy.php"
+                href="/techs/Heresy"
                 >異端邪說</a
               >
             </td>
@@ -164,7 +167,7 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/SiegeRamIcon.jpg" alt="" /><a
-                      href="Siege_Ram.php"
+                      href="/units/Siege_Ram"
                       >重型衝撞車</a
                     >
                   </li>
@@ -173,7 +176,7 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                      href="Petard.php"
+                      href="/units/Petard"
                       >爆炸桶</a
                     >
                   </li>
@@ -186,7 +189,7 @@
                       src="~assets/CappedRamIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Capped_Ram.php">裝甲衝撞車</a>
+                    /><a href="/units/Capped_Ram">裝甲衝撞車</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+40攻擊</strong></div>
@@ -196,14 +199,14 @@
                       class="gg"
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
-                    /><a href="Battering_Ram.php">輕形衝撞車</a>
+                    /><a href="/units/Battering_Ram">輕形衝撞車</a>
                   </li>
                   <li>
                     <img src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                      href="Cannon_Galleon.php"
+                      href="/units/Cannon_Galleon"
                       >火砲戰船</a
                     >→ <img src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                      href="Elite_Cannon_Galleon.php"
+                      href="/Elite_units/Cannon_Galleon"
                       >精銳火砲戰船</a
                     >
                   </li>
@@ -215,7 +218,7 @@
                       class="gg"
                       src="~assets/BombardCannonIcon.jpg"
                       alt=""
-                    /><a href="Bombard_Cannon.php">火砲</a>
+                    /><a href="/units/Bombard_Cannon">火砲</a>
                   </li>
                 </ul>
               </div>
@@ -224,17 +227,17 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><a
-                      href="Mangonel.php"
+                      href="/units/Mangonel"
                       >輕形投石車</a
                     >→ <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><a
-                      href="Onager.php"
+                      href="/units/Onager"
                       >中型投石車</a
                     >→
                     <img
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><a href="Siege_Onager.php">重型投石車</a>
+                    /><a href="/Siege_units/Onager">重型投石車</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
@@ -245,8 +248,8 @@
                       src="~assets/Magyar_Huszar_icon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a
-                      href="Magyars.php"
+                    /><a href="/units/Magyar_Huszar">精銳馬札爾驃騎兵</a>(<a
+                      href="/civs/Magyars"
                       >馬札爾</a
                     >限定)
                   </li>
@@ -258,7 +261,7 @@
                       class="gg"
                       src="~assets/EliteEagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
+                    /><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
                   </li>
                   <li>
                     <img
@@ -266,8 +269,8 @@
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Mangudai.php">精銳蒙古突騎</a>(<a
-                      href="Mongols.php"
+                    /><a href="/units/Mangudai">精銳蒙古突騎</a>(<a
+                      href="/civs/Mongols"
                       >蒙古</a
                     >限定)
                   </li>
@@ -277,8 +280,8 @@
                       src="~assets/Magyar_Huszar_icon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a
-                      href="Magyars.php"
+                    /><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>(<a
+                      href="/civs/Magyars"
                       >馬札爾</a
                     >限定)
                   </li>
@@ -287,14 +290,14 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                      href="Eagle_Scout.php"
+                      href="/units/Eagle_Scout"
                       >鷹斥侯</a
                     >→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="Eagle_Warrior.php">鷹勇士</a>
+                    /><a href="/units/Eagle_Warrior">鷹勇士</a>
                   </li>
                   <li>
                     <img
@@ -302,7 +305,8 @@
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Mangudai.php">蒙古突騎</a>(<a href="Mongols.php"
+                    /><a href="/units/Mangudai">蒙古突騎</a>(<a
+                      href="/civs/Mongols"
                       >蒙古</a
                     >限定)
                   </li>
@@ -316,17 +320,17 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Aztecs.php">阿茲特克</a>：輕型衝撞車訓練速度快15%。
+              <a href="/civs/Aztecs">阿茲特克</a>：輕型衝撞車訓練速度快15%。
             </li>
-            <li><a href="Celts.php">賽爾特</a>：輕型衝撞車攻擊速度快20%</li>
+            <li><a href="/civs/Celts">賽爾特</a>：輕型衝撞車攻擊速度快20%</li>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：對輕型衝撞車有利的科技在城堡/帝王時代各便宜15%/20%。
             </li>
             <li>
-              <a href="Portuguese.php">葡萄牙</a>：輕型衝撞車黃金花費減少15%。
+              <a href="/civs/Portuguese">葡萄牙</a>：輕型衝撞車黃金花費減少15%。
             </li>
-            <li><a href="Slavs.php">斯拉夫</a>：輕型衝撞車成本減少15%。</li>
+            <li><a href="/civs/Slavs">斯拉夫</a>：輕型衝撞車成本減少15%。</li>
           </ul>
         </div>
         <h3>團隊加成</h3>
@@ -334,53 +338,57 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Celts.php">賽爾特</a>：攻城器製造所單位生產速度快20%。
+              <a href="/civs/Celts">賽爾特</a>：攻城器製造所單位生產速度快20%。
             </li>
             <li>
-              <a href="Malians.php">馬利</a>：研發<a href="Siege_Engineers.php"
+              <a href="/civs/Malians">馬利</a>：研發<a
+                href="/techs/Siege_Engineers"
                 >攻城工程師</a
               >的速度快80%。
             </li>
             <li>
-              <a href="Celts.php">條頓</a>：其軍事單位對僧侶的招降有較好的抗性。
+              <a href="/civs/Celts">條頓</a
+              >：其軍事單位對僧侶的招降有較好的抗性。
             </li>
           </ul>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <h3>
-              <em><a href="aok.php">帝王世紀</a></em>
+              <em><a href="/games/aok">帝王世紀</a></em>
             </h3>
             <ul>
               <li>
-                升級到<a href="Capped_Ram.php">裝甲衝撞車</a>成本為300F/250G。
+                升級到<a href="/units/Capped_Ram">裝甲衝撞車</a
+                >成本為300F/250G。
               </li>
             </ul>
             <h3>
-              <em><a href="aoc.php">征服者入侵</a></em>
+              <em><a href="/games/aoc">征服者入侵</a></em>
             </h3>
             <ul>
               <li>步兵、弓兵可以駐紮在衝撞車裡面。</li>
-              <li>升級到<a href="Capped_Ram.php">裝甲衝撞車</a>為300F。</li>
+              <li>升級到<a href="/units/Capped_Ram">裝甲衝撞車</a>為300F。</li>
               <li>
-                <a href="Celts.php">賽爾特</a>:<a href="Furor_Celtica.php"
+                <a href="/civs/Celts">賽爾特</a>:<a href="/techs/Furor_Celtica"
                   >賽爾特狂暴</a
                 >給予衝撞車多50%的HP。
               </li>
-              <li>蒙古：<a href="Drill.php">演習</a>引進。</li>
+              <li>蒙古：<a href="/techs/Drill">演習</a>引進。</li>
             </ul>
             <h3>
-              <em><a href="aof.php">失落的帝國</a></em>
+              <em><a href="/games/aof">失落的帝國</a></em>
             </h3>
             <ul>
               <li>現在村民可以駐紮在衝撞車裡面。</li>
               <li>
-                <a href="Celts.php">賽爾特</a>:<a href="Furor_Celtica.php"
+                <a href="/civs/Celts">賽爾特</a>:<a href="/techs/Furor_Celtica"
                   >賽爾特狂暴</a
                 >給予衝撞車多40%的HP。
               </li>
               <li>
-                <a href="Teutons.php">條頓</a>新科技：<a href="Ironclad.php"
+                <a href="/civs/Teutons">條頓</a>新科技：<a
+                  href="/techs/Ironclad"
                   >鋼鐵甲</a
                 >
               </li>
@@ -397,7 +405,7 @@
                 >)。
               </li>
               <li>
-                <a href="">移動速度</a
+                <a href="#">移動速度</a
                 >：步兵駐軍後的衝撞車移動速度比弓兵駐軍的衝撞車快，簡單來說，只有步兵駐軍才能堤升衝撞車的移動速度，且任何種類的步兵駐紮衝撞車後的速度都是一樣的。
               </li>
               <li>攻擊2，是陸上最弱的攻擊。</li>
@@ -409,19 +417,19 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a href="img/Bram1.jpg"
+                <a href="/img/Bram1.jpg"
                   ><img class="imgn hg" src="~assets/Bram1.jpg" alt=""
                 /></a>
                 <p><em>衝撞車模型。</em></p>
               </div>
               <div class="col-md-4">
-                <a href="img/Batteringram.png"
+                <a href="/img/Batteringram.png"
                   ><img class="imgn hg" src="~assets/Batteringram.png" alt=""
                 /></a>
                 <p><em>一群輕型衝撞車。</em></p>
               </div>
               <div class="col-md-4">
-                <a href="img/Ramline.png"
+                <a href="/img/Ramline.png"
                   ><img class="imgn hg" src="~assets/Ramline.png" alt=""
                 /></a>
                 <p><em>衝撞車系。</em></p>
@@ -429,13 +437,13 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <a href="img/Splashdamageram.png"
+                <a href="/img/Splashdamageram.png"
                   ><img class="imgn hg" src="~assets/Splashdamageram.png" alt=""
                 /></a>
                 <p><em>各類型衝撞車與其傷害。</em></p>
               </div>
               <div class="col-md-4">
-                <a href="img/Batteringramgarrison.png"
+                <a href="/img/Batteringramgarrison.png"
                   ><img
                     class="imgn hg"
                     src="~assets/Batteringramgarrison.png"
@@ -481,7 +489,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><a href="Siege_Weapons.php">攻城器</a></td>
+            <td class="unit4"><a href="/units/Siege_Weapons">攻城器</a></td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -491,7 +499,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -500,7 +508,7 @@
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Siege-workshop-logo.jpg" alt="" /><a
-                href="Siege_Workshop.php"
+                href="/building/Siege_Workshop"
                 >攻城器製造所</a
               >
             </td>
@@ -539,9 +547,9 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +125 vs
-              <a href="Armor_Class_standard_building.php">一般建築物</a
+              <a href="/Armor_Class_standard_building.php">一般建築物</a
               >(每1個步兵進駐攻擊+10，最多+40) <br />+40 vs
-              <a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
+              <a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a>
             </td>
           </tr>
           <tr>
@@ -549,7 +557,7 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_Class.php">近防</a></td>
+            <td class="unit3"><a href="/Armor_Class.php">近防</a></td>
             <td class="unit4">-3</td>
           </tr>
           <tr>
@@ -557,10 +565,10 @@
             <td class="unit4">180</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_Class.php">防禦類型</a></td>
+            <td class="unit3"><a href="/Armor_Class.php">防禦類型</a></td>
             <td class="unit4">
-              <a href="Armor_Class_Siege_Weapon.php">攻城武器</a> <br />
-              <a href="Armor_Class_Ram.php">衝撞車</a>
+              <a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a> <br />
+              <a href="/armor/Armor_Class_Ram">衝撞車</a>
             </td>
           </tr>
           <tr>
@@ -584,7 +592,7 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="~assets/CappedRamIcon.jpg" alt="" /><a
-                href="Capped_Ram.php"
+                href="/units/Capped_Ram"
                 >裝甲衝撞車</a
               >
             </td>

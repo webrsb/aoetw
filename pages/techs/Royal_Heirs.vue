@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            皇族血脈是<a href="Ethiopians.php">衣索比亞</a>的特殊科技，可於<a
-              href="Castle_Age.php"
+            皇族血脈是<a href="/civs/Ethiopians">衣索比亞</a>的特殊科技，可於<a
+              href="/techsage/Castle_Age"
               >城堡時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Shotel_Warrior.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Shotel_Warrior"
               >彎刀勇士</a
             >生產時間減半，從8秒減為4秒。
           </p>
@@ -37,7 +37,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速皇族血脈的研究時間(快25%)。
             </li>
           </ul>
@@ -47,7 +48,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">皇族血脈</a></div>
+              <div class="unititle"><a href="#">皇族血脈</a></div>
             </td>
           </tr>
           <tr>
@@ -59,18 +60,18 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Ethiopians.php">衣索比亞</a></td>
+            <td class="unit4"><a href="/civs/Ethiopians">衣索比亞</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -79,7 +80,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -90,7 +91,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -103,7 +104,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

@@ -22,23 +22,23 @@
         <div class="n1">
           <p>
             蒙古人最大的優勢在於
-            <a href="Cavalry_Archer.php">馬弓騎兵</a>與攻城武器，除沒有
-            <a href="Halberdier.php">戟兵</a>，他們還有完整的步兵科技，而除了
-            <a href="Bombard_Cannon.php">火炮</a
+            <a href="/Cavalry_units/Archer">馬弓騎兵</a>與攻城武器，除沒有
+            <a href="/units/Halberdier">戟兵</a>，他們還有完整的步兵科技，而除了
+            <a href="/units/Bombard_Cannon">火炮</a
             >之外，他們也有所有的攻城武器。這意味著蒙古人在遊戲中可以使用成群的馬弓騎兵與<a
-              href="Champion.php"
+              href="/units/Champion"
               >劍兵勇士</a
             >和
-            <a href="Siege_Ram.php">重型衝撞車</a
+            <a href="/units/Siege_Ram">重型衝撞車</a
             >。蒙古突騎也是相當致命兵種。總體來說，蒙古人擅長游擊與迅速的破壞，然而他們的防守也有些欠缺。因為他們的箭塔只能升級一次，以及不能蓋火炮塔。但蒙古人也有
-            <a href="Camel.php">駱駝</a
+            <a href="/units/Camel">駱駝</a
             >，是除了中國人與非洲中東文明外，唯二有駱駝的。
           </p>
           <h3>特殊單位</h3>
           <ul>
             <li>
               <img class="gg" src="~assets/MangudaiIcon.jpg" /><a
-                href="Mangudai.php"
+                href="/units/Mangudai"
                 >蒙古突騎</a
               >:射速非常快且剋攻城武器的馬弓騎兵
             </li>
@@ -47,13 +47,13 @@
           <ul>
             <li>
               <img class="gg" src="~assets/CastleAgeUnique.png" /><a
-                href="Nomads.php"
+                href="/techs/Nomads"
                 >游牧</a
               >:房子被拆後，人口不會減少
             </li>
             <li>
               <img class="gg" src="~assets/Unique-tech.jpg" /><a
-                href="Drill.php"
+                href="/techs/Drill"
                 >演習</a
               >:使得攻城武器+50%移動速度
             </li>
@@ -63,30 +63,30 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Cavalry_Archer.php">馬弓騎兵</a>射速+20%</li>
+            <li><a href="/Cavalry_units/Archer">馬弓騎兵</a>射速+20%</li>
             <li>
-              <a href="Light_Cavalry.php"
-                >輕騎兵與 <a href="Hussar.php">匈牙利輕騎兵</a></a
+              <a href="/units/Light_Cavalry"
+                >輕騎兵與 <a href="/Hustree/sar">匈牙利輕騎兵</a></a
               >+30%HP
             </li>
             <li>打獵的效率提高+50%</li>
             <li>
               <strong>團隊加分:</strong
-              ><a href="Scout_Cavalry.php">斥候</a>+2視野
+              ><a href="/units/Scout_Cavalry">斥候</a>+2視野
             </li>
           </ul>
         </div>
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="mon.php">蒙古科技樹</a></em>
+          <em><a href="/tree/mon">蒙古科技樹</a></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>精銳火砲戰船被拔除。</li>
@@ -106,7 +106,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Wondermongols.png"
+              <a href="/img/Wondermongols.png"
                 ><img class="imgn hg" src="~assets/Wondermongols.png" alt=""
               /></a>
               <p><em>成吉思汗的大帳棚</em></p>
@@ -156,7 +156,7 @@
             <td class="unit3">特殊單位</td>
             <td class="unit4">
               <img class="gg" src="~assets/MangudaiIcon.jpg" /><a
-                href="Mangudai.php"
+                href="/units/Mangudai"
                 >蒙古突騎</a
               >
             </td>
@@ -169,10 +169,10 @@
             <td class="unit3">特殊技術</td>
             <td class="unit4">
               <img class="gg" src="~assets/CastleAgeUnique.png" />
-              <a href="Nomads.php">游牧</a>
+              <a href="/techs/Nomads">游牧</a>
               <br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><a
-                href="Drill.php"
+                href="/techs/Drill"
                 >鑿岩機</a
               >
             </td>

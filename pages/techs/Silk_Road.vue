@@ -11,13 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            絲綢之路是<a href="Italians.php">義大利</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            絲綢之路是<a href="/civs/Italians">義大利</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Trade_Cart.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Trade_Cart"
               >貿易馬車</a
-            >、<a href="Trade_Cog.php">貿易商旅</a>造價減半。
+            >、<a href="/units/Trade_Cog">貿易商旅</a>造價減半。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -27,7 +27,7 @@
             <li>
               雖然在團隊遊戲之外沒有太多的用處，絲綢之路可以在很重要的遊戲中節省大量的資源。
               如果一條貿易路線被摧毀後需要重建，那麼絲綢之路將大大降低重建的成本。
-              另外，研發<a href="Shipwright.php">造船匠</a
+              另外，研發<a href="/techs/Shipwright">造船匠</a
               >和絲綢之路後，貿易商旅只要30木材和25黃金，移動速度變的非常快。
             </li>
           </ul>
@@ -37,7 +37,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速絲綢之路的研究時間(快25%)。
             </li>
           </ul>
@@ -59,12 +60,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Italians.php">義大利</a></td>
+            <td class="unit4"><a href="/civs/Italians">義大利</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -73,14 +74,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>

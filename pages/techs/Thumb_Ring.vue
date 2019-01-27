@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            拇指環於<a href="Castle_Age.php">城堡時代</a>在<a
-              href="Archery_Range"
+            拇指環於<a href="/techsage/Castle_Age">城堡時代</a>在<a
+              href="/Archery_Range"
               >射箭場</a
             >研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技<a
-              href="Ballistics.php"
+              href="/techs/Ballistics"
               >彈道學</a
             >則是針對移動目標。
           </p>
@@ -33,23 +33,26 @@
                   ></strong
                 >
               </h4>
-              <a href="Berbers.php">柏柏</a>、
-              <a href="Byzantines.php">拜占庭</a>、
-              <a href="Chinese.php">中國</a>、
-              <a href="Ethiopians.php">衣索比亞</a>、
-              <a href="Huns.php">匈奴</a>、 <a href="Incas.php">印加</a>、
-              <a href="Indians.php">印度</a>、
-              <a href="Italians.php">義大利</a>、
-              <a href="Japanese.php">日本</a>、 <a href="Koreans.php">韓國</a>、
-              <a href="Magyars.php">馬扎爾</a>、 <a href="Malay.php">馬來</a>、
-              <a href="Malay.php">馬利</a>、 <a href="Mayans.php">馬雅</a>、
-              <a href="Mongols.php">蒙古</a>、 <a href="Persians.php">波斯</a>、
-              <a href="Portuguese.php">葡萄牙</a>、
-              <a href="Saracens.php">薩拉森</a>、
-              <a href="Spanish.php">西班牙</a>、
-              <a href="Turks.php">土耳其</a>、
-              <a href="Vietnamese.php">越南</a>、
-              <a href="Vikings.php">維京</a>。
+              <a href="/civs/Berbers">柏柏</a>、
+              <a href="/civs/Byzantines">拜占庭</a>、
+              <a href="/civs/Chinese">中國</a>、
+              <a href="/civs/Ethiopians">衣索比亞</a>、
+              <a href="/civs/Huns">匈奴</a>、 <a href="/civs/Incas">印加</a>、
+              <a href="/civs/Indians">印度</a>、
+              <a href="/civs/Italians">義大利</a>、
+              <a href="/civs/Japanese">日本</a>、
+              <a href="/civs/Koreans">韓國</a>、
+              <a href="/civs/Magyars">馬扎爾</a>、
+              <a href="/civs/Malay">馬來</a>、 <a href="/civs/Malay">馬利</a>、
+              <a href="/civs/Mayans">馬雅</a>、
+              <a href="/civs/Mongols">蒙古</a>、
+              <a href="/civs/Persians">波斯</a>、
+              <a href="/civs/Portuguese">葡萄牙</a>、
+              <a href="/civs/Saracens">薩拉森</a>、
+              <a href="/civs/Spanish">西班牙</a>、
+              <a href="/civs/Turks">土耳其</a>、
+              <a href="/civs/Vietnamese">越南</a>、
+              <a href="/civs/Vikings">維京</a>。
             </div>
           </div>
         </div>
@@ -65,12 +68,14 @@
                   ></strong
                 >
               </h4>
-              <a href="Aztecs.php">阿茲特克</a>、
-              <a href="Britons.php">不列顛</a>、
-              <a href="Burmese.php">緬甸</a>、 <a href="Celts.php">賽爾特</a>、
-              <a href="Franks.php">法蘭克</a>、 <a href="Goths.php">哥德</a>、
-              <a href="Khmer.php">高棉</a>、 <a href="Slavs.php">斯拉夫</a>、
-              <a href="Teutons.php">條頓</a>。
+              <a href="/civs/Aztecs">阿茲特克</a>、
+              <a href="/civs/Britons">不列顛</a>、
+              <a href="/civs/Burmese">緬甸</a>、
+              <a href="/civs/Celts">賽爾特</a>、
+              <a href="/civs/Franks">法蘭克</a>、
+              <a href="/civs/Goths">哥德</a>、 <a href="/civs/Khmer">高棉</a>、
+              <a href="/civs/Slavs">斯拉夫</a>、
+              <a href="/civs/Teutons">條頓</a>。
             </div>
           </div>
         </div>
@@ -88,8 +93,9 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Archer.php">弓兵</a>、<a href="Crossbowman.php">弩兵</a
-              >、<a href="Arbalest.php">強弩兵</a>
+              <a href="/units/Archer">弓兵</a>、<a href="/units/Crossbowman"
+                >弩兵</a
+              >、<a href="/units/Arbalest">強弩兵</a>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">
@@ -98,10 +104,11 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Skirmisher.php">矛兵</a>、<a href="Elite_Skirmisher.php"
+              <a href="/units/Skirmisher">矛兵</a>、<a
+                href="/units/Elite_Skirmisher"
                 >戰矛兵</a
               >、
-              <a href="Imperial_Skirmisher.php">帝王戰矛兵</a>
+              <a href="/units/Imperial_Skirmisher">帝王戰矛兵</a>
             </td>
             <td class="tta2">
               <i class="fas fa-times" style="color: #d9534f;"></i>
@@ -112,8 +119,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Cavalry_Archer.php">馬弓騎兵</a>、<a
-                href="Heavy_Cavalry_Archer.php"
+              <a href="/Cavalry_units/Archer">馬弓騎兵</a>、<a
+                href="/Heavy_Cavalry_units/Archer"
                 >重裝馬弓騎兵</a
               >
             </td>
@@ -124,7 +131,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Chu_Ko_Nu.php">連弩兵</a>、<a href="Chu_Ko_Nu.php"
+              <a href="/units/Chu_Ko_Nu">連弩兵</a>、<a href="/units/Chu_Ko_Nu"
                 >精銳連弩兵</a
               >
             </td>
@@ -135,7 +142,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Mangudai.php">蒙古突騎</a>、<a href="Mangudai.php"
+              <a href="/units/Mangudai">蒙古突騎</a>、<a href="/units/Mangudai"
                 >精銳蒙古突騎</a
               >
             </td>
@@ -146,7 +153,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="War_Wagon.php">馬戰車</a>、<a href="War_Wagon.php"
+              <a href="/units/War_Wagon">馬戰車</a>、<a href="/units/War_Wagon"
                 >精銳馬戰車</a
               >
             </td>
@@ -157,8 +164,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Plumed_Archer.php">羽毛箭射手</a>、<a
-                href="Plumed_Archer.php"
+              <a href="/Plumed_units/Archer">羽毛箭射手</a>、<a
+                href="/Plumed_units/Archer"
                 >精銳羽毛箭射手</a
               >
             </td>
@@ -168,7 +175,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1"><a href="Slinger.php">投石手</a></td>
+            <td class="tta1"><a href="/units/Slinger">投石手</a></td>
             <td class="tta2">
               <i class="fas fa-times" style="color: #d9534f;"></i>
             </td>
@@ -178,8 +185,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Ballista_Elephant.php">弩砲象</a>、<a
-                href="Ballista_Elephant.php"
+              <a href="/Ballista_unitsanimal/Elephant">弩砲象</a>、<a
+                href="/Ballista_unitsanimal/Elephant"
                 >精銳弩砲象</a
               >
             </td>
@@ -190,8 +197,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Genoese_Crossbowman.php">熱那亞弩手</a>、<a
-                href="Genoese_Crossbowman.php"
+              <a href="/Genoese_units/Crossbowman">熱那亞弩手</a>、<a
+                href="/Genoese_units/Crossbowman"
                 >精銳熱那亞弩手</a
               >
             </td>
@@ -202,8 +209,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Camel_Archer.php">駱駝弓箭手</a>、<a
-                href="Camel_Archer.php"
+              <a href="/Camel_units/Archer">駱駝弓箭手</a>、<a
+                href="/Camel_units/Archer"
                 >精銳駱駝弓箭手</a
               >
             </td>
@@ -214,7 +221,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Genitour.php">標槍騎兵</a>、<a href="Genitour.php"
+              <a href="/units/Genitour">標槍騎兵</a>、<a href="/units/Genitour"
                 >精銳標槍騎兵</a
               >
             </td>
@@ -227,8 +234,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <a href="Rattan_Archer.php">藤甲弓兵</a>、<a
-                href="Rattan_Archer.php"
+              <a href="/Rattan_units/Archer">藤甲弓兵</a>、<a
+                href="/Rattan_units/Archer"
                 >精銳藤甲弓兵</a
               >
             </td>
@@ -244,7 +251,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a>：科技在城堡/帝王時代各便宜15%/20%。
+              <a href="/civs/Chinese">中國</a
+              >：科技在城堡/帝王時代各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -252,29 +260,30 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Britons.php">不列顛</a>：研發快20%。</li>
+            <li><a href="/civs/Britons">不列顛</a>：研發快20%。</li>
           </ul>
         </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>
-              <a href="Incas.php">印加</a>:科技樹沒有<a href="Thumb_Ring.php"
+              <a href="/civs/Incas">印加</a>:科技樹沒有<a
+                href="/techs/Thumb_Ring"
                 >拇指環</a
               >。
             </li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王朝</a></em>
+            <em><a href="/games/ak">非洲王朝</a></em>
           </h3>
           <ul>
             <li>
-              <a href="Incas.php">印加</a>:科技樹可以研發<a
-                href="Thumb_Ring.php"
+              <a href="/civs/Incas">印加</a>:科技樹可以研發<a
+                href="/techs/Thumb_Ring"
                 >拇指環</a
               >了。
             </li>
@@ -297,7 +306,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">拇指環</a></div>
+              <div class="unititle"><a href="#">拇指環</a></div>
             </td>
           </tr>
           <tr>
@@ -309,7 +318,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -320,7 +329,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -329,7 +338,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Archery-range-logo.jpg" alt="" /><a
-                href="Archery_Range.php"
+                href="/building/Archery_Range"
                 >射箭場</a
               >
             </td>
@@ -340,7 +349,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -353,7 +362,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

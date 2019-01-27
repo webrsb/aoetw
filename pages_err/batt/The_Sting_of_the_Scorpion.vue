@@ -131,7 +131,7 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">馬利戰役(蠍螫)</a></div>
+       <div class="unititle"><a href="#">馬利戰役(蠍螫)</a></div>
        </td>
       </tr>
       <tr>
@@ -140,7 +140,7 @@
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2"><a href="#">情景信息</a></div>
        </td>
       </tr>
       <tr>
@@ -153,10 +153,10 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="">馬利</a></td>
+       <td class="unit4"><a href="#">馬利</a></td>
       </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2"><a href="#">戰役關卡編號</a></div>
        </td>
       </tr>
        <tr>
@@ -166,12 +166,12 @@
        <tr>
         <td class="unit3">上一關</td>
         <td class="unit4">
-       <a href="Hunted.php">亡命之徒(擒獲)</a>
+       <a href="/batt/Hunted">亡命之徒(擒獲)</a>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
        <td class="unit4">
-        <a href="Djeriba_Gold.php">傑爾巴島的黃金</a>
+        <a href="/batt/Djeriba_Gold">傑爾巴島的黃金</a>
         </td>
       </tr>
       

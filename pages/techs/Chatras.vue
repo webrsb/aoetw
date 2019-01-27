@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            恰特拉傘是<a href="Vietnamese.php">越南</a>的特殊科技，可於<a
-              href="Castle_Age.php"
+            恰特拉傘是<a href="/civs/Vietnamese">越南</a>的特殊科技，可於<a
+              href="/techsage/Castle_Age"
               >城堡時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Ballista_Elephant.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/Ballista_unitsanimal/Elephant"
               >矛象伕</a
             >+50 HP。
           </p>
@@ -25,14 +25,15 @@
         <div class="n1">
           <ul>
             <li>
-              恰特拉傘讓<a href="Ballista_Elephant.php">矛象伕</a
-              >變得更坦，可以充當越南<a href="Archer_Units.php"></a
+              恰特拉傘讓<a href="/Ballista_unitsanimal/Elephant">矛象伕</a
+              >變得更坦，可以充當越南<a href="/units/Archer_Units"></a
               >弓兵的肉盾。一個全升級有
-              <a href="Bloodlines.php">血統</a
-              >和恰特拉傘的精銳矛象伕有350HP，僅輸給<a href="War_Elephant.php"
+              <a href="/techs/Bloodlines">血統</a
+              >和恰特拉傘的精銳矛象伕有350HP，僅輸給<a
+                href="/War_unitsanimal/Elephant"
                 >波斯戰象</a
               >（620HP），並與
-              <a href="Elephant_Archer.php">象弓騎兵</a>（350HP）並列。
+              <a href="/Elephant_units/Archer">象弓騎兵</a>（350HP）並列。
             </li>
           </ul>
         </div>
@@ -41,7 +42,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速恰特拉傘的研究時間(快25%)。
             </li>
           </ul>
@@ -50,12 +52,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>
-              最初恰特拉傘給予<a href="Ballista_Elephant.php">矛象伕</a>+30
-              HP，5.7改版後增加為+50 HP。
+              最初恰特拉傘給予<a href="/Ballista_unitsanimal/Elephant">矛象伕</a
+              >+30 HP，5.7改版後增加為+50 HP。
             </li>
           </ul>
         </div>
@@ -64,7 +66,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">恰特拉傘</a></div>
+              <div class="unititle"><a href="#">恰特拉傘</a></div>
             </td>
           </tr>
           <tr>
@@ -76,18 +78,18 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Vietnamese.php">越南</a></td>
+            <td class="unit4"><a href="/civs/Vietnamese">越南</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -96,7 +98,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -107,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -120,7 +122,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

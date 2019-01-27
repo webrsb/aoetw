@@ -14,19 +14,17 @@
               width="50px;"
               alt=""
               style="margin-right:20px;"
-            />阿提拉：不要搞錯了！：此頁面和<a href="Cavalier.php">騎兵</a>與<a
-              href="Armor_Class_Cavalry.php"
-              >騎兵防禦</a
-            >。不同喔！</em
+            />阿提拉：不要搞錯了！：此頁面和<a href="/units/Cavalier">騎兵</a
+            >與<a href="/armor/Armor_Class_Cavalry">騎兵防禦</a>。不同喔！</em
           >
         </div>
       </div>
       <div class="col-md-12">
         <div class="n1">
           <p>
-            騎兵單位是遊戲中四類軍事單位之一，另外三種分別是<a href=""
+            騎兵單位是遊戲中四類軍事單位之一，另外三種分別是<a href="#"
               >步兵單位</a
-            >、<a href="">弓兵單位</a>與 <a href="">攻城武器單位</a>。
+            >、<a href="#">弓兵單位</a>與 <a href="#">攻城武器單位</a>。
           </p>
         </div>
         <h3>概要</h3>
@@ -40,26 +38,28 @@
           </p>
           <p>
             騎兵一開始可在封建時代的馬廄中訓練。有兩個特殊的騎兵單位能在城堡以外的地方訓練：<a
-              href="Tarkan.php"
+              href="/units/Tarkan"
               >韃靼騎兵</a
-            >在 <a href="Marauders.php">掠奪者</a>研究後可以在馬厩中訓練，而<a
-              href="Imperial_Camel.php"
+            >在
+            <a href="/techs/Marauders">掠奪者</a>研究後可以在馬厩中訓練，而<a
+              href="/Imperial_units/Camel"
               >帝王駱駝騎兵</a
             >則只能在馬廄訓練。拋開垃圾單位，所有騎兵單位訓練都需要食物和黃金。
           </p>
           <p>
             儘管騎兵部隊有很多優勢，但仍有一些缺點。反制騎兵最常用的那就是<a
-              href="Pikeman.php"
+              href="/units/Pikeman"
               >長槍兵</a
             >。每個使用騎兵的玩家遲早都會在戰場上遇見他們，
-            <a href="Camel.php">駱駝騎兵</a>，<a href="Mameluke.php">奴隸兵</a
-            >，<a href="Kamayuk.php">槍隊長</a>和
-            <a href="Genoese_Crossbowman.php">熱那亞弩手</a
+            <a href="/units/Camel">駱駝騎兵</a>，<a href="/units/Mameluke"
+              >奴隸兵</a
+            >，<a href="/units/Kamayuk">槍隊長</a>和
+            <a href="/Genoese_units/Crossbowman">熱那亞弩手</a
             >也對騎兵部隊非常有效。此外，騎兵單位價格昂貴，通常需要花費黃金，如果玩家過度依賴他們那當黃金用完時極有可能會輸掉該場比賽。在狹窄有懸崖或樹林等障礙物的地圖上，騎兵部隊會難以接近障礙物後的部隊而淪為敵方的獵物。
           </p>
           <p>
             美洲文明沒有馬厩能訓練騎兵部隊。作為替代，他們可以訓練<a
-              href="Eagle_Warrior.php"
+              href="/units/Eagle_Warrior"
               >鷹勇士</a
             >。
           </p>
@@ -68,16 +68,14 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <a href="Berbers.php">柏柏</a>，<a href="Franks.php">法蘭克</a>，<a
-              href="Huns.php"
-              >匈奴</a
-            >， <a href="Magyars.php">馬扎爾</a>，<a href="Mongols.php">蒙古</a
-            >和<a href="Persians.php">波斯</a
+            <a href="/civs/Berbers">柏柏</a>，<a href="/civs/Franks">法蘭克</a
+            >，<a href="/civs/Huns">匈奴</a>，
+            <a href="/civs/Magyars">馬扎爾</a>，<a href="/civs/Mongols">蒙古</a
+            >和<a href="/civs/Persians">波斯</a
             >都是非常優秀的騎兵文明，非常依靠騎兵部隊。
-            <a href="Burmese.php">緬甸</a>，<a href="Indians.php">印度</a>，<a
-              href="Malians.php"
-              >馬利</a
-            >和<a href="Spanish.php">西班牙</a
+            <a href="/civs/Burmese">緬甸</a>，<a href="/civs/Indians">印度</a
+            >，<a href="/civs/Malians">馬利</a>和<a href="/civs/Spanish"
+              >西班牙</a
             >也是偉大的騎兵文明，雖然比上述文明更不依賴騎兵。
           </p>
         </div>
@@ -87,43 +85,45 @@
           <p>以下列出騎兵有加成的文明</p>
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a
+              <a href="/civs/Berbers">柏柏</a
               >：馬廄單位在城堡/帝王時代便宜15%/20%。
             </li>
             <li>
-              <a href="Byzantines.php">拜占庭</a>：<a href="Camel.php"
+              <a href="/civs/Byzantines">拜占庭</a>：<a href="/units/Camel"
                 >駱駝騎兵</a
               >便宜25％
             </li>
-            <li><a href="Franks.php">法蘭克</a>：騎兵單位HP+20％。</li>
+            <li><a href="/civs/Franks">法蘭克</a>：騎兵單位HP+20％。</li>
             <li>
-              <a href="Indians.php">印度</a>：<a href="Camel.php">駱駝騎兵</a
+              <a href="/civs/Indians">印度</a>：<a href="/units/Camel"
+                >駱駝騎兵</a
               >護甲+1/+1。
             </li>
             <li>
-              <a href="Khmer.php">高棉</a>:<a href="Battle_Elephant.php"
+              <a href="/civs/Khmer">高棉</a>:<a href="/units/Battle_Elephant"
                 >矛象伕</a
               >移動速度快15%。
             </li>
             <li>
-              <a href="Magyars.php">馬扎爾</a>、:<a href="Scout_Cavalry.php"
+              <a href="/civs/Magyars">馬扎爾</a>、:<a
+                href="/units/Scout_Cavalry"
                 >斥侯騎兵</a
               >便宜15%。
             </li>
             <li>
-              <a href="Malay.php">馬來</a>:<a href="Battle_Elephant.php"
+              <a href="/civs/Malay">馬來</a>:<a href="/units/Battle_Elephant"
                 >矛象伕</a
               >便宜30%。
             </li>
             <li>
-              <a href="Mongols.php">蒙古</a>:<a href="Scout_Cavalry.php"
+              <a href="/civs/Mongols">蒙古</a>:<a href="/units/Scout_Cavalry"
                 >斥侯騎兵</a
               >HP+30%。
             </li>
             <li>
-              <a href="Turks.php">土耳其</a>:<a href="Light_Cavalry.php"
+              <a href="/civs/Turks">土耳其</a>:<a href="/units/Light_Cavalry"
                 >輕騎兵</a
-              >和<a href="Hussar.php">匈牙利輕騎兵</a>免費升級。
+              >和<a href="/Hustree/sar">匈牙利輕騎兵</a>免費升級。
             </li>
           </ul>
         </div>
@@ -133,21 +133,22 @@
           <p>以下列出騎兵的團隊加成</p>
           <ul>
             <li>
-              <a href="Franks.php">法蘭克</a>：<a href="Knight.php">騎士</a
+              <a href="/civs/Franks">法蘭克</a>：<a href="/units/Knight">騎士</a
               >+2視野。
             </li>
-            <li><a href="Huns.php">匈奴</a>：馬廄工作效率快20％。</li>
+            <li><a href="/civs/Huns">匈奴</a>：馬廄工作效率快20％。</li>
             <li>
-              <a href="Indians.php">印度</a>：<a href="Camel.php">駱駝騎兵</a
+              <a href="/civs/Indians">印度</a>：<a href="/units/Camel"
+                >駱駝騎兵</a
               >對建築攻擊+5。
             </li>
             <li>
-              <a href="Mongols.php">蒙古</a>：<a href="Light_Cavalry.php"
+              <a href="/civs/Mongols">蒙古</a>：<a href="/units/Light_Cavalry"
                 >輕騎兵</a
-              >和<a href="Hussar.php">匈牙利輕騎兵</a>+2視野。
+              >和<a href="/Hustree/sar">匈牙利輕騎兵</a>+2視野。
             </li>
             <li>
-              <a href="Persians.php">波斯</a>：<a href="Knight.php">騎士</a
+              <a href="/civs/Persians">波斯</a>：<a href="/units/Knight">騎士</a
               >對弓兵攻擊+2。
             </li>
           </ul>
@@ -169,7 +170,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ScoutCavalryIcon.jpg" /><a
-                  href="Scout_Cavalry.php"
+                  href="/units/Scout_Cavalry"
                   >斥侯騎兵</a
                 >
               </td>
@@ -184,7 +185,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/LightCavalryIcon.jpg" /><a
-                  href="Light_Cavalry.php"
+                  href="/units/Light_Cavalry"
                   >輕騎兵</a
                 >
               </td>
@@ -206,7 +207,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HussarIcon.jpg" /><a
-                  href="Hussar.php"
+                  href="/Hustree/sar"
                   >匈牙利輕騎兵</a
                 >
               </td>
@@ -228,7 +229,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/KnightIcon.jpg" /><a
-                  href="Knight.php"
+                  href="/units/Knight"
                   >騎士</a
                 >
               </td>
@@ -250,7 +251,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CavalierIcon.jpg" /><a
-                  href="Cavalier.php"
+                  href="/units/Cavalier"
                   >騎兵</a
                 >
               </td>
@@ -272,7 +273,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/PaladinIcon.jpg" /><a
-                  href="Paladin.php"
+                  href="/units/Paladin"
                   >遊俠</a
                 >
               </td>
@@ -294,7 +295,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CamelIcon.jpg" /><a
-                  href="Camel.php"
+                  href="/units/Camel"
                   >駱駝騎兵</a
                 >
               </td>
@@ -316,7 +317,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HeavyCamelIcon.jpg" /><a
-                  href="Heavy_Camel.php"
+                  href="/Heavy_units/Camel"
                   >重裝駱駝騎兵</a
                 >
               </td>
@@ -338,7 +339,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ImperialCamelIcon.jpg" /><a
-                  href="Imperial_Camel.php"
+                  href="/Imperial_units/Camel"
                   >帝王駱駝騎兵</a
                 >
               </td>
@@ -360,7 +361,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Battleelephanticon.png" /><a
-                  href="Battle_Elephant.php"
+                  href="/units/Battle_Elephant"
                   >矛象伕</a
                 >
               </td>
@@ -382,7 +383,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Battleelephanticon.png" /><a
-                  href="Elite_Battle_Elephant.php"
+                  href="/Elite_units/Battle_Elephant"
                   >精銳矛象伕</a
                 >
               </td>
@@ -404,7 +405,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CataphractIcon.jpg" /><a
-                  href="Cataphract.php"
+                  href="/units/Cataphract"
                   >拜占庭聖騎兵</a
                 >
               </td>
@@ -426,7 +427,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" width="22" src="~assets/CataphractIcon.jpg" /><a
-                  href="Cataphract.php"
+                  href="/units/Cataphract"
                   >精銳拜占庭聖騎兵</a
                 >
               </td>
@@ -451,7 +452,7 @@
                   class="gg"
                   width="22"
                   src="~assets/WarElephantIcon.jpg"
-                /><a href="War_Elephant.php">戰象</a>
+                /><a href="/War_unitsanimal/Elephant">戰象</a>
               </td>
               <td class="tta3">450</td>
               <!--生命值!-->
@@ -474,7 +475,7 @@
                   class="gg"
                   width="22"
                   src="~assets/WarElephantIcon.jpg"
-                /><a href="War_Elephant.php">精銳戰象</a>
+                /><a href="/War_unitsanimal/Elephant">精銳戰象</a>
               </td>
               <td class="tta3">600</td>
               <!--生命值!-->
@@ -494,7 +495,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Saracenmamluk_icon.png" /><a
-                  href="Mameluke.php"
+                  href="/units/Mameluke"
                   >阿拉伯奴隸兵</a
                 >
               </td>
@@ -516,7 +517,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Saracenmamluk_icon.png" /><a
-                  href="Mameluke.php"
+                  href="/units/Mameluke"
                   >精銳阿拉伯奴隸兵</a
                 >
               </td>
@@ -538,7 +539,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" width="22" src="~assets/TarkanIcon.jpg" /><a
-                  href="Tarkan.php"
+                  href="/units/Tarkan"
                   >韃靼騎兵</a
                 >
               </td>
@@ -560,7 +561,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" width="22" src="~assets/TarkanIcon.jpg" /><a
-                  href="Tarkan.php"
+                  href="/units/Tarkan"
                   >精銳韃靼騎兵</a
                 >
               </td>
@@ -585,7 +586,7 @@
                   class="gg"
                   width="22"
                   src="~assets/Magyar_Huszar_icon.jpg"
-                /><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>
+                /><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>
               </td>
               <td class="tta3">70</td>
               <!--生命值!-->
@@ -608,7 +609,7 @@
                   class="gg"
                   width="22"
                   src="~assets/Magyar_Huszar_icon.jpg"
-                /><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>
+                /><a href="/units/Magyar_Huszar">精銳馬札爾驃騎兵</a>
               </td>
               <td class="tta3">85</td>
               <!--生命值!-->
@@ -628,7 +629,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/New_Boyar.png" /><a
-                  href="Boyar.php"
+                  href="/units/Boyar"
                   >貴族鐵騎</a
                 >
               </td>
@@ -650,7 +651,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/New_Boyar.png" /><a
-                  href="Boyar.php"
+                  href="/units/Boyar"
                   >精銳貴族鐵騎</a
                 >
               </td>
@@ -672,7 +673,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Ballistaelephanticon.png" /><a
-                  href="Ballista_Elephant.php"
+                  href="/Ballista_unitsanimal/Elephant"
                   >弩炮象</a
                 >
               </td>
@@ -694,7 +695,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Ballistaelephanticon.png" /><a
-                  href="Ballista_Elephant.php"
+                  href="/Ballista_unitsanimal/Elephant"
                   >精銳弩炮象</a
                 >
               </td>
@@ -733,7 +734,7 @@
                   style="margin: 2px;"
                   src="~assets/Bloodlines.png"
                   alt=""
-                /><a href="Bloodlines.oho">品種</a>
+                /><a href="/Bloodlines.oho">品種</a>
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">150F 100G</td>
@@ -747,7 +748,7 @@
                   style="margin: 2px;"
                   src="~assets/Husbandry.jpg"
                   alt=""
-                /><a href="Husbandry.php">畜牧培育</a>
+                /><a href="/techs/Husbandry">畜牧培育</a>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">250F</td>
@@ -761,7 +762,7 @@
                   style="margin: 2px;"
                   src="~assets/Forging.jpg"
                   alt=""
-                /><a href="Forging.php">鍛造</a>
+                /><a href="/techs/Forging">鍛造</a>
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">150F</td>
@@ -775,7 +776,7 @@
                   style="margin: 2px;"
                   src="~assets/Ironcasting.jpg"
                   alt=""
-                /><a href="Iron_Casting.php">鑄造</a>
+                /><a href="/techs/Iron_Casting">鑄造</a>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">220F 120G</td>
@@ -789,7 +790,7 @@
                   style="margin: 2px;"
                   src="~assets/Blastfurnace.jpg"
                   alt=""
-                /><a href="Blast_Furnace.php">鼓風爐</a>
+                /><a href="/techs/Blast_Furnace">鼓風爐</a>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">275F 225G</td>
@@ -803,7 +804,7 @@
                   style="margin: 2px;"
                   src="~assets/Scalebardingarmor.jpg"
                   alt=""
-                /><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>
+                /><a href="/techs/Scale_Barding_Armor">騎兵鱗甲</a>
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">150F</td>
@@ -817,7 +818,7 @@
                   style="margin: 2px;"
                   src="~assets/Chainbardingarmor.jpg"
                   alt=""
-                /><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>
+                /><a href="/techs/Chain_Barding_Armor">騎兵鎖甲</a>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">250F 150G</td>
@@ -831,7 +832,7 @@
                   style="margin: 2px;"
                   src="~assets/Platebardingarmor.jpg"
                   alt=""
-                /><a href="Plate_Barding_Armor.php">騎兵板甲</a>
+                /><a href="/techs/Plate_Barding_Armor">騎兵板甲</a>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">350F 200G</td>
@@ -845,7 +846,7 @@
                   style="margin: 2px;"
                   src="~assets/Herbalmedicine.png"
                   alt=""
-                /><a href="Herbal_Medicine.php">草藥學</a>
+                /><a href="/techs/Herbal_Medicine">草藥學</a>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">350G</td>
@@ -859,7 +860,7 @@
                   style="margin: 2px;"
                   src="~assets/Heresy.png"
                   alt=""
-                /><a href="">異端邪說</a>
+                /><a href="#">異端邪說</a>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">1000G</td>
@@ -873,7 +874,7 @@
                   style="margin: 2px;"
                   src="~assets/Faith.jpg"
                   alt=""
-                /><a href="Faith.php">忠誠信仰</a>
+                /><a href="/techs/Faith">忠誠信仰</a>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">750F 1000G</td>
@@ -887,7 +888,7 @@
                   style="margin: 2px;"
                   src="~assets/Conscription.jpg"
                   alt=""
-                /><a href="Conscription.php">徵兵制度</a>
+                /><a href="/techs/Conscription">徵兵制度</a>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">150F 150G</td>
@@ -913,7 +914,7 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Berbers.php">柏柏</a>
+                /><a href="/civs/Berbers">柏柏</a>
               </td>
               <td class="tunitc4">聚居堡壘</td>
               <td class="tunitc5">250F 250G</td>
@@ -927,7 +928,7 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Berbers.php">柏柏</a>
+                /><a href="/civs/Berbers">柏柏</a>
               </td>
               <td class="tunitc4">馬格拉比駱駝</td>
               <td class="tunitc5">700F 300G</td>
@@ -955,7 +956,7 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Burmese.php">緬甸</a>
+                /><a href="/civs/Burmese">緬甸</a>
               </td>
               <td class="tunitc4">曼尼普爾騎兵</td>
               <td class="tunitc5">650F 400G</td>
@@ -969,7 +970,7 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Byzantines.php">拜占庭</a>
+                /><a href="/civs/Byzantines">拜占庭</a>
               </td>
               <td class="tunitc4">後勤學</td>
               <td class="tunitc5">1000F 600G</td>
@@ -983,7 +984,7 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Franks.php">法蘭克</a>
+                /><a href="/civs/Franks">法蘭克</a>
               </td>
               <td class="tunitc4">騎士精神</td>
               <td class="tunitc5">400W 400W</td>
@@ -997,7 +998,7 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Huns.php">匈奴</a>
+                /><a href="/civs/Huns">匈奴</a>
               </td>
               <td class="tunitc4">掠奪者</td>
               <td class="tunitc5">300W 200G</td>
@@ -1011,7 +1012,7 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Khmer.php">高棉</a>
+                /><a href="/civs/Khmer">高棉</a>
               </td>
               <td class="tunitc4">象牙劍</td>
               <td class="tunitc5">200W 300G</td>
@@ -1025,7 +1026,7 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Magyars.php">馬扎爾</a>
+                /><a href="/civs/Magyars">馬扎爾</a>
               </td>
               <td class="tunitc4">雇傭兵</td>
               <td class="tunitc5">200F 300G</td>
@@ -1039,7 +1040,7 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Malians.php">馬利</a>
+                /><a href="/civs/Malians">馬利</a>
               </td>
               <td class="tunitc4">驃悍精神</td>
               <td class="tunitc5">650F 400G</td>
@@ -1053,7 +1054,7 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Persians.php">波斯</a>
+                /><a href="/civs/Persians">波斯</a>
               </td>
               <td class="tunitc4">象伕</td>
               <td class="tunitc5">300F 300G</td>
@@ -1067,7 +1068,7 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Saracens.php">薩拉森</a>
+                /><a href="/civs/Saracens">薩拉森</a>
               </td>
               <td class="tunitc4">狂熱舉動</td>
               <td class="tunitc5">750F 800G</td>
@@ -1081,7 +1082,7 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Vietnamese.php">越南</a>
+                /><a href="/civs/Vietnamese">越南</a>
               </td>
               <td class="tunitc4">恰特拉傘</td>
               <td class="tunitc5">250F 250G</td>
@@ -1095,7 +1096,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <a href="img/Cavalryunitsstable.png"
+              <a href="/img/Cavalryunitsstable.png"
                 ><img
                   class="imgn hg"
                   width="180"
@@ -1107,7 +1108,7 @@
               </div>
             </div>
             <div class="col-md-4">
-              <a href="img/Cavalryunitscastle.png"
+              <a href="/img/Cavalryunitscastle.png"
                 ><img
                   class="imgn hg"
                   width="200"

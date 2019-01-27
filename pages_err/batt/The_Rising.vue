@@ -52,7 +52,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">叛變</a>
+                <div class="unititle"><a href="#">叛變</a>
                 </div>
               </td>
             </tr>
@@ -65,7 +65,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -75,31 +75,31 @@
             </tr>
             <tr>
               <td class="unit3">戰役</td>
-              <td class="unit4"><a href="Joan_of_Arc.php">聖女貞德</a>
+              <td class="unit4"><a href="/batt/Joan_of_Arc">聖女貞德</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Franks.php">法蘭克</a>
+              <td class="unit4"><a href="/civs/Franks">法蘭克</a>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">戰役關卡編號</a>
+                <div class="unititle2"><a href="#">戰役關卡編號</a>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">章節</td>
-              <td class="unit4"><a href="aok.php">帝王世紀</a>第二章之四</td>
+              <td class="unit4"><a href="/games/aok">帝王世紀</a>第二章之四</td>
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="The_Cleansing_of_the_Loire.php">羅亞爾河大掃蕩</a> 
+              <td class="unit4"> <a href="/batt/The_Cleansing_of_the_Loire">羅亞爾河大掃蕩</a> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="The_Siege_of_Paris.php">巴黎攻城戰</a> 
+              <td class="unit4"> <a href="/batt/The_Siege_of_Paris">巴黎攻城戰</a> 
               </td>
             </tr>
           </table>
@@ -114,7 +114,7 @@
           <ul>
             <li><strong>起始時代：</strong>
               <img class="gg" src="~assets/Castle-age-reseach.jpg"
-              class="gg" alt=""><a href="Imperial_Age.php">城堡時代</a>
+              class="gg" alt=""><a href="/techsage/Imperial_Age">城堡時代</a>
             </li>
             <li><strong>起始資源：</strong>200木頭，200食物
               <br/>50黃金，150石頭</li>
@@ -125,25 +125,25 @@
           <h3>起始單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
+              <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="/Joan_of_Arc_units/Champion">聖女貞德</a>
             </li>
             <li>
-              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯</a>*2</li>
+              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="/units/Scout_Cavalry">斥侯</a>*2</li>
             <li>
-              <img class="gg" src="~assets/KnightIcon.jpg" alt=""> <a href="Knight.php">騎士</a>*6</li>
+              <img class="gg" src="~assets/KnightIcon.jpg" alt=""> <a href="/units/Knight">騎士</a>*6</li>
             <li>
-              <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>*4</li>
+              <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt=""> <a href="/units/Man-at-Arms">裝甲步兵</a>*4</li>
             <li>
-              <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""> <a href="Crossbowman.php">弩兵</a>*4</li>
+              <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""> <a href="/units/Crossbowman">弩兵</a>*4</li>
             <li>
-              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a>*2</li>
+              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="/units/Monk">僧侶</a>*2</li>
           </ul>
         </div>
         <div class="col-md-4">
           <h3>大地之母</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""> <a href="Villager.php">村民</a>*6</li>
+              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""> <a href="/units/Villager">村民</a>*6</li>
           </ul>
         </div>
       </div>
@@ -172,7 +172,7 @@
           <ul>
             <li>此關是勃艮第和英國軍隊唯一沒有出現在關卡的場景。但是，在這種情況下，三座城市仍然是由英軍控制。</li>
             <li>在進入帝王時代之後，玩家可以建造一座世界奇觀。但是，這不會導致勝利。</li>
-            <li>這是“<a href="Joan_of_Arc.php">聖女貞德</a>”戰役中唯一除了貞德以外沒有其他英雄的場景。</li>
+            <li>這是“<a href="/batt/Joan_of_Arc">聖女貞德</a>”戰役中唯一除了貞德以外沒有其他英雄的場景。</li>
             <li>該關或許翻譯為“起義”會更好</li>
           </ul>
         </div>

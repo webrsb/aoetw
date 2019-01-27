@@ -11,12 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            掠奪者是<a href="Huns.php">匈奴</a>的特殊科技，可於<a
-              href="Castle_Age.php"
+            掠奪者是<a href="/civs/Huns">匈奴</a>的特殊科技，可於<a
+              href="/techsage/Castle_Age"
               >城堡時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a href="Tarkan.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Tarkan"
               >韃靼騎兵</a
-            >可在<a href="Stable.php">馬廄</a
+            >可在<a href="/building/Stable">馬廄</a
             >訓練。因為馬廄比城堡便宜，可在短時間內生產大量的韃靼騎兵。
           </p>
         </div>
@@ -34,7 +35,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速掠奪者的研究時間(快25%)。
             </li>
           </ul>
@@ -43,13 +45,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
             <li>掠奪者成本需要500肉200金。</li>
           </ul>
           <h3>
-            <em><a href="aok.php">非洲王朝</a></em>
+            <em><a href="/games/aok">非洲王朝</a></em>
           </h3>
           <ul>
             <li>掠奪者成本現在需要300木200金。</li>
@@ -60,7 +62,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">掠奪者</a></div>
+              <div class="unititle"><a href="#">掠奪者</a></div>
             </td>
           </tr>
           <tr>
@@ -72,18 +74,18 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Huns.php">匈奴</a></td>
+            <td class="unit4"><a href="/civs/Huns">匈奴</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -92,7 +94,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -103,7 +105,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -116,7 +118,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

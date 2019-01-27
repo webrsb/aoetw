@@ -50,7 +50,7 @@
               <ul>
                 <li><strong>起始時代：</strong>
                   <img class="gg" src="~assets/Feudal-age-reseach.jpg"
-                  width="30" alt=""><a href="Feudal_Age.php">封建時代</a>
+                  width="30" alt=""><a href="/techsage/Feudal_Age">封建時代</a>
                 </li>
                 <li><strong>起始資源：</strong>500食物，700木頭，50黃金，150石頭</li>
                 <li><strong>人口上限：</strong>75</li>
@@ -60,31 +60,31 @@
               <h3>起始單位</h3>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="Joan_of_Arc_Champion.php">聖女貞德</a>
+                  <img class="gg" src="~assets/Joanofarcicon.png" alt=""><a href="/Joan_of_Arc_units/Champion">聖女貞德</a>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/Lahire.png" alt=""><a href="La_Hire.php">拉海爾</a>
+                  <img class="gg" src="~assets/Lahire.png" alt=""><a href="/units/hero/La_Hire">拉海爾</a>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""><a href="Scout_Cavalry.php">斥侯</a>
+                  <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""><a href="/units/Scout_Cavalry">斥侯</a>
                 </li>
                 <li>
-                  <img class="gg" src="~assets/KnightIcon.jpg" alt=""><a href="Knight.php">騎士</a>*4</li>
+                  <img class="gg" src="~assets/KnightIcon.jpg" alt=""><a href="/units/Knight">騎士</a>*4</li>
                 <li>
-                  <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>*4</li>
+                  <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="/units/Pikeman">重裝長槍兵</a>*4</li>
                 <li>
-                  <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="Crossbowman.php">弩兵</a>*12</li>
+                  <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""><a href="/units/Crossbowman">弩兵</a>*12</li>
                 <li>
-                  <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="Villager.php">村民</a>*4</li>
+                  <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""><a href="/units/Villager">村民</a>*4</li>
               </ul>
             </div>
             <div class="col-md-4">
               <h3>大地之母</h3>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/TransportShipIcon.jpg" alt=""><a href="Transport_Ship.php">運輸船</a>*2</li>
+                  <img class="gg" src="~assets/TransportShipIcon.jpg" alt=""><a href="/units/Transport_Ship">運輸船</a>*2</li>
                 <li>
-                  <img class="gg" src="~assets/DemoShipIcon.jpg" alt=""><a href="Demolition_Ship.php">神風船</a>*2</li>
+                  <img class="gg" src="~assets/DemoShipIcon.jpg" alt=""><a href="/units/Demolition_Ship">神風船</a>*2</li>
               </ul>
             </div>
           </div>
@@ -100,7 +100,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">羅亞爾河大掃蕩</a>
+                <div class="unititle"><a href="#">羅亞爾河大掃蕩</a>
                 </div>
               </td>
             </tr>
@@ -113,13 +113,13 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">版本</td>
-              <td class="unit4"><a href="aok.php">帝王世紀</a>
+              <td class="unit4"><a href="/games/aok">帝王世紀</a>
               </td>
             </tr>
             <tr>
@@ -128,26 +128,26 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Franks.php">法蘭克</a>
+              <td class="unit4"><a href="/civs/Franks">法蘭克</a>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">戰役關卡編號</a>
+                <div class="unititle2"><a href="#">戰役關卡編號</a>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">章節</td>
-              <td class="unit4"><a href="aok.php">帝王世紀</a>第二章之三</td>
+              <td class="unit4"><a href="/games/aok">帝王世紀</a>第二章之三</td>
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="The_Maid_of_Orleans.php">奧爾良的少女</a> 
+              <td class="unit4"> <a href="/batt/The_Maid_of_Orleans">奧爾良的少女</a> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="The_Rising.php">叛變</a> 
+              <td class="unit4"> <a href="/batt/The_Rising">叛變</a> 
               </td>
             </tr>
           </table>

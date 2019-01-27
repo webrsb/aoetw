@@ -18,69 +18,69 @@
           <div class="col-md-2">
             帝王世紀
             <ul>
-              <li><a href="Arabia.php">阿拉伯</a></li>
-              <li><a href="Archipelago.php">群島</a></li>
-              <li><a href="Baltic.php">波羅的海</a></li>
-              <li><a href="Black_Forest.php">黑森林</a></li>
-              <li><a href="Coastal.php">沿海</a></li>
-              <li><a href="Continental.php">大陸</a></li>
-              <li><a href="Fortress.php">堡壘</a></li>
-              <li><a href="Gold_Rush.php">淘金潮</a></li>
-              <li><a href="Highland.php">高原</a></li>
-              <li><a href="Islands.php">島嶼</a></li>
-              <li><a href="Mediterranean.php">地中海</a></li>
-              <li><a href="Migration.php">移民</a></li>
-              <li><a href="Rivers.php">河流</a></li>
-              <li><a href="Team_Islands.php">團隊群島</a></li>
+              <li><a href="/maps/Arabia">阿拉伯</a></li>
+              <li><a href="/maps/Archipelago">群島</a></li>
+              <li><a href="/maps/Baltic">波羅的海</a></li>
+              <li><a href="/maps/Black_Forest">黑森林</a></li>
+              <li><a href="/maps/Coastal">沿海</a></li>
+              <li><a href="/maps/Continental">大陸</a></li>
+              <li><a href="/maps/Fortress">堡壘</a></li>
+              <li><a href="/maps/Gold_Rush">淘金潮</a></li>
+              <li><a href="/maps/Highland">高原</a></li>
+              <li><a href="/maps/Islands">島嶼</a></li>
+              <li><a href="/maps/Mediterranean">地中海</a></li>
+              <li><a href="/maps/Migration">移民</a></li>
+              <li><a href="/maps/Rivers">河流</a></li>
+              <li><a href="/Team_maps/Islands">團隊群島</a></li>
             </ul>
           </div>
           <div class="col-md-2">
             征服者入侵
             <ul>
-              <li><a href="Arena.php">圍城</a></li>
-              <li><a href="Ghost_Lake.php">鬼湖</a></li>
-              <li><a href="Mongolia.php">蒙古高原</a></li>
-              <li><a href="Nomad.php">游牧</a></li>
-              <li><a href="Oasis.php">綠洲</a></li>
-              <li><a href="Salt_Marsh.php">鹽沼地</a></li>
-              <li><a href="Scandinavia.php">斯堪地維亞</a></li>
-              <li><a href="Yucatán.php">猶加敦</a></li>
+              <li><a href="/maps/Arena">圍城</a></li>
+              <li><a href="/maps/Ghost_Lake">鬼湖</a></li>
+              <li><a href="/maps/Mongolia">蒙古高原</a></li>
+              <li><a href="/maps/Nomad">游牧</a></li>
+              <li><a href="/maps/Oasis">綠洲</a></li>
+              <li><a href="/maps/Salt_Marsh">鹽沼地</a></li>
+              <li><a href="/maps/Scandinavia">斯堪地維亞</a></li>
+              <li><a href="/Yucatan.php">猶加敦</a></li>
             </ul>
           </div>
           <div class="col-md-2">
             失落的王朝
             <ul>
-              <li><a href="Acropolis.php">雅典衛城</a></li>
-              <li><a href="Budapest.php">布達佩斯</a></li>
-              <li><a href="Cenotes.php">岩坑池</a></li>
-              <li><a href="Land_of_Lakes.php">百湖之城</a></li>
-              <li><a href="Golden_Pit.php">金礦谷</a></li>
-              <li><a href="Hideout.php">藏身之處</a></li>
-              <li><a href="Lombardia.php">倫巴地</a></li>
-              <li><a href="Steppe.php">乾草原</a></li>
-              <li><a href="Valley.php">峽谷</a></li>
-              <li><a href="Megarandom.php">超級隨機</a></li>
-              <li><a href="Hamburger.php">漢堡包</a></li>
+              <li><a href="/maps/Acropolis">雅典衛城</a></li>
+              <li><a href="/maps/Budapest">布達佩斯</a></li>
+              <li><a href="/maps/Cenotes">岩坑池</a></li>
+              <li><a href="/maps/Land_of_Lakes">百湖之城</a></li>
+              <li><a href="/maps/Golden_Pit">金礦谷</a></li>
+              <li><a href="/maps/Hideout">藏身之處</a></li>
+              <li><a href="/maps/Lombardia">倫巴地</a></li>
+              <li><a href="/maps/Steppe">乾草原</a></li>
+              <li><a href="/maps/Valley">峽谷</a></li>
+              <li><a href="/maps/Megarandom">超級隨機</a></li>
+              <li><a href="/maps/Hamburger">漢堡包</a></li>
             </ul>
           </div>
           <div class="col-md-2">
             非洲王國
             <ul>
-              <li><a href="Kilimanjaro.php">吉力馬札羅山</a></li>
-              <li><a href="Mountain_Pass.php">雪山地</a></li>
-              <li><a href="Nile_Delta.php">尼羅河三角洲</a></li>
-              <li><a href="Serengeti.php">塞倫蓋提平原</a></li>
-              <li><a href="Socotra.php">索科特拉島</a></li>
+              <li><a href="/maps/Kilimanjaro">吉力馬札羅山</a></li>
+              <li><a href="/maps/Mountain_Pass">雪山地</a></li>
+              <li><a href="/maps/Nile_Delta">尼羅河三角洲</a></li>
+              <li><a href="/maps/Serengeti">塞倫蓋提平原</a></li>
+              <li><a href="/maps/Socotra">索科特拉島</a></li>
             </ul>
           </div>
           <div class="col-md-2">
             王者崛起
             <ul>
-              <li><a href="Bog_Islands.php">沼澤</a></li>
-              <li><a href="Mangrove_Jungle.php">紅樹林</a></li>
-              <li><a href="Pacific_Islands.php">太平洋群島</a></li>
-              <li><a href="Sandbank.php">沙洲</a></li>
-              <li><a href="Water_Nomad.php">水上游牧</a></li>
+              <li><a href="/maps/Bog_Islands">沼澤</a></li>
+              <li><a href="/maps/Mangrove_Jungle">紅樹林</a></li>
+              <li><a href="/Pacific_maps/Islands">太平洋群島</a></li>
+              <li><a href="/maps/Sandbank">沙洲</a></li>
+              <li><a href="/Water_maps/Nomad">水上游牧</a></li>
             </ul>
           </div>
         </div>

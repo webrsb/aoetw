@@ -56,7 +56,7 @@
             <td class="tta1" style="width:20%">生命值</td>
             <td class="tta4">
               <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="Masonry.php"
+                href="/techs/Masonry"
                 >磚瓦技術</a
               >(+10%)
               <br />
@@ -65,14 +65,14 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="Architecture.php">建築學</a>(+10%)
+              /><a href="/techs/Architecture">建築學</a>(+10%)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:20%">護甲</td>
             <td class="tta4">
               <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="Masonry.php"
+                href="/techs/Masonry"
                 >磚瓦技術</a
               >(護甲+1/+1，+3建築護甲)
               <br />
@@ -81,14 +81,14 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)
+              /><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)
             </td>
           </tr>
           <tr>
             <td class="tta1">視野</td>
             <td class="tta4">
               <img class="gg" src="~assets/Townwatch.jpg" width="30" alt="" /><a
-                href="Town_Watch.php"
+                href="/techs/Town_Watch"
                 >城鎮瞭望</a
               >(+4)
               <br />
@@ -97,19 +97,19 @@
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><a href="Town_Patrol.php">城鎮巡邏</a>(+4)
+              /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
             </td>
           </tr>
           <tr>
             <td class="tta1">招降抵抗</td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                href="Faith.php"
+                href="/techs/Faith"
                 >忠誠信仰</a
               >
               <br />
               <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="Heresy.php"
+                href="/techs/Heresy"
                 >異端邪說</a
               >
             </td>
@@ -122,7 +122,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)
+              /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)
             </td>
           </tr>
         </table>
@@ -132,10 +132,10 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Malians.php">馬利</a>：研究<a href="Masonry.php"
+              <a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry"
                 >磚瓦技術</a
-              >、<a href="Architecture.php">建築學</a>和
-              <a href="Treadmill_Crane.php">踏輪起重機</a>團隊速度提高80%。
+              >、<a href="/techs/Architecture">建築學</a>和
+              <a href="/techs/Treadmill_Crane">踏輪起重機</a>團隊速度提高80%。
             </li>
           </ul>
         </div>
@@ -143,7 +143,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="ak.php">非洲王朝</a></em>
+            <em><a href="/games/ak">非洲王朝</a></em>
           </h3>
           <ul>
             <li>港灣大商站建造花費250木材和250黃金</li>
@@ -159,7 +159,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="">港灣大商站</a></div>
+              <div class="unititle"><a href="#">港灣大商站</a></div>
             </td>
           </tr>
           <tr>
@@ -171,16 +171,16 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Portuguese.php">葡萄牙</a></td>
+            <td class="unit4"><a href="/civs/Portuguese">葡萄牙</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Imperial_Age.php">帝王時代</a></td>
+            <td class="unit4"><a href="/techsage/Imperial_Age">帝王時代</a></td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -192,7 +192,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -205,7 +205,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>
@@ -227,8 +227,8 @@
           <tr>
             <td class="unit3">護甲類別</td>
             <td class="unit4">
-              <a href="Armor_Class_Building.php">建築物</a> <br />
-              <a href="Armor_Class_standard_building.php">標準建築</a>
+              <a href="/armor/Armor_Class_Building">建築物</a> <br />
+              <a href="/Armor_Class_standard_building.php">標準建築</a>
             </td>
           </tr>
           <tr>
@@ -245,7 +245,7 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a href="img/Feitoria_-_Copie.png"
+          <a href="/img/Feitoria_-_Copie.png"
             ><img
               class="imgn hg"
               width="180"

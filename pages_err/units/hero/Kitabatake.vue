@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><strong>北畠將軍</strong>是一名能在世紀帝國II的地圖編輯器中使用的<a href="Armor_Class_Infantry.php">步兵</a>英雄。他的原型是北畠親房，除了宮廷貴族的身分外，同時也是史家和著作家。雖然他的著作中含有個人的偏頗及政治動機，但卻是現存中最詳細的。在遊戲中北畠將軍是數值更強的
+            <p><strong>北畠將軍</strong>是一名能在世紀帝國II的地圖編輯器中使用的<a href="/armor/Armor_Class_Infantry">步兵</a>英雄。他的原型是北畠親房，除了宮廷貴族的身分外，同時也是史家和著作家。雖然他的著作中含有個人的偏頗及政治動機，但卻是現存中最詳細的。在遊戲中北畠將軍是數值更強的
               <a
-              href="Samurai.php">日本武士</a>。由於他屬於英雄單位，所以無法被招降，也會自動回血（自《征服者入侵》以後）。他和其他步兵一樣，會受到所有影響步兵的升級和加成影響。</div>
+              href="/units/Samurai">日本武士</a>。由於他屬於英雄單位，所以無法被招降，也會自動回血（自《征服者入侵》以後）。他和其他步兵一樣，會受到所有影響步兵的升級和加成影響。</div>
         </div>
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
@@ -35,7 +35,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Armor_Class_Infantry">步兵<br/><a href="Heros.php">英雄</a>
+              <td class="unit4"><a href="/Armor_Class_Infantry">步兵<br/><a href="/Heros.php">英雄</a>
               </td>
             </tr>
             <tr>
@@ -57,8 +57,8 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="Armor_Class_Unique_Unit.php">特殊單位</a> +5
-                <br/>對<a href="Armor_Class__building.php">建築</a> +2
+              <td class="unit4">對<a href="/armor/Armor_Class_Unique_Unit">特殊單位</a> +5
+                <br/>對<a href="/Armor_Class__building.php">建築</a> +2
                 <br/>
               </td>
             </tr>
@@ -78,8 +78,8 @@
                 </tr>
                 <tr>
                   <td class="unit3">防禦類型</td>
-                  <td class="unit4"><a href="Armor_Class_Infantry">步兵</a>
-                    <br/><a href="Armor_Class_Unique_Unit">特殊單位</a>
+                  <td class="unit4"><a href="/Armor_Class_Infantry">步兵</a>
+                    <br/><a href="/Armor_Class_Unique_Unit">特殊單位</a>
                     <br/>
                   </td>
                 </tr>

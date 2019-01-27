@@ -18,13 +18,17 @@
 
           <h3>優勢文明</h3>
           <p>
-            <a href="Byzantines.php">拜占庭</a>、 <a href="Incas.php">印加</a>、
-            <a href="Italians.php">義大利</a>、
-            <a href="Japanese.php">日本</a>、 <a href="Koreans.php">韓國</a>、
-            <a href="Malay.php">馬來</a>、 <a href="Persians.php">波斯</a>、
-            <a href="Portuguese.php">葡萄牙</a>、
-            <a href="Spanish.php">西班牙</a>、 <a href="Teutons.php">條頓</a>、
-            <a href="Turks.php">土耳其</a>、 <a href="Vikings.php">維京</a>。
+            <a href="/civs/Byzantines">拜占庭</a>、
+            <a href="/civs/Incas">印加</a>、
+            <a href="/civs/Italians">義大利</a>、
+            <a href="/civs/Japanese">日本</a>、
+            <a href="/civs/Koreans">韓國</a>、 <a href="/civs/Malay">馬來</a>、
+            <a href="/civs/Persians">波斯</a>、
+            <a href="/civs/Portuguese">葡萄牙</a>、
+            <a href="/civs/Spanish">西班牙</a>、
+            <a href="/civs/Teutons">條頓</a>、
+            <a href="/civs/Turks">土耳其</a>、
+            <a href="/civs/Vikings">維京</a>。
           </p>
         </div>
       </div>

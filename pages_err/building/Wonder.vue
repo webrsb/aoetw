@@ -64,41 +64,41 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(+10%)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
                 <br/>
-                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">其它</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Atheism.php">無神論</a>(遺跡和世界奇觀的勝利時間延長100年，間諜/叛徒花費-50%)</td>
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Atheism">無神論</a>(遺跡和世界奇觀的勝利時間延長100年，間諜/叛徒花費-50%)</td>
             </tr>
           </table>
         </div>
@@ -131,7 +131,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="Imperial_Age.php">帝王時代</a>
+              <td class="unit4"><a href="/techsage/Imperial_Age">帝王時代</a>
               </td>
             </tr>
             <tr>
@@ -178,8 +178,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="Armor_Class_Building.php">建築</a>
-                <br/> <a href="Armor_Class_standard_building.php">標準建築</a>
+              <td class="unit4"><a href="/armor/Armor_Class_Building">建築</a>
+                <br/> <a href="/Armor_Class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -195,31 +195,31 @@
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
-                <li><a href="Byzantines.php">拜占庭</a>：世界奇觀的生命值+40%。</li>
-                <li><a href="Chinese.php">中國</a>：在帝王時代，對世界奇觀有加成的科技價格便宜20％。</li>
-                <li><a href="Incas.php">印加</a>：世界奇觀成本減少15%石頭。</li>
-                <li><a href="Malians.php">馬利</a>：世界奇觀成本減少15%木材。</li>
+                <li><a href="/civs/Byzantines">拜占庭</a>：世界奇觀的生命值+40%。</li>
+                <li><a href="/civs/Chinese">中國</a>：在帝王時代，對世界奇觀有加成的科技價格便宜20％。</li>
+                <li><a href="/civs/Incas">印加</a>：世界奇觀成本減少15%石頭。</li>
+                <li><a href="/civs/Malians">馬利</a>：世界奇觀成本減少15%木材。</li>
               </ul>
             </div>
             <h3>團隊加成</h3>
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
-                <li><a href="Malians.php">馬利</a>：研究<a href="Treadmill_Crane.php">踏輪起重機</a>，
+                <li><a href="/civs/Malians">馬利</a>：研究<a href="/techs/Treadmill_Crane">踏輪起重機</a>，
                   <a
-                  href="Architecture.php">建築學</a>和<a href="Treadmill_Crane.php">踏輪起重機</a>科技的團隊速度提高80%。</li>
+                  href="/techs/Architecture">建築學</a>和<a href="/techs/Treadmill_Crane">踏輪起重機</a>科技的團隊速度提高80%。</li>
               </ul>
             </div>
             <h3>更新日誌</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+              <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
               <ul>
-                <li><a href="Indians.php">印度</a>的世界奇觀是Gol Gumbaz。</li>
+                <li><a href="/civs/Indians">印度</a>的世界奇觀是Gol Gumbaz。</li>
               </ul>
-              <h3><em><a href="aof.php">王者崛起</a></em></h3>
+              <h3><em><a href="/games/aof">王者崛起</a></em></h3>
               <ul>
-                <li><a href="Indians.php">印度</a>現在的世界奇觀是布里哈迪希瓦拉神廟，Gol Gumbaz還是可以在戰役編輯器中找到。</li>
+                <li><a href="/civs/Indians">印度</a>現在的世界奇觀是布里哈迪希瓦拉神廟，Gol Gumbaz還是可以在戰役編輯器中找到。</li>
               </ul>
             </div>
             <h3>趣事</h3>

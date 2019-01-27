@@ -12,20 +12,19 @@
         <div class="n1">
           <p>
             黑暗時代是遊戲內第一個時代，在大多數地圖開始時玩家都有三個<a
-              href="Villager.php"
+              href="/units/Villager"
               >村民</a
-            >(<a href="Chinese.php">中國</a>是六個、
-            <a href="Mayans.php">馬雅</a>是四個)、一個<a href="Town_Center.php"
+            >(<a href="/civs/Chinese">中國</a>是六個、
+            <a href="/civs/Mayans">馬雅</a>是四個)、一個<a
+              href="/building/Town_Center"
               >城鎮中心</a
-            >和一個<a href="Scout_Cavalry.php">斥侯騎兵</a>。
-            <a href="Aztecs.php">阿茲特克</a>、<a href="Mayans.php">馬雅</a>和<a
-              href="Incas.php"
-              >印加</a
-            >因為沒有騎馬單位所以會以
-            <a href="Eagle_Scout.php">鷹斥侯</a>替代斥侯騎兵。
+            >和一個<a href="/units/Scout_Cavalry">斥侯騎兵</a>。
+            <a href="/civs/Aztecs">阿茲特克</a>、<a href="/civs/Mayans">馬雅</a
+            >和<a href="/civs/Incas">印加</a>因為沒有騎馬單位所以會以
+            <a href="/units/Eagle_Scout">鷹斥侯</a>替代斥侯騎兵。
           </p>
           <p>
-            斥侯騎兵/鷹斥侯在到達<a href="Feudal_Age.php">封建時代</a
+            斥侯騎兵/鷹斥侯在到達<a href="/techsage/Feudal_Age">封建時代</a
             >前都無法訓練。如果最初的城鎮中心被摧毀了，可以重蓋一個新的。
           </p>
         </div>
@@ -36,19 +35,19 @@
           <ul>
             <li>
               <img class="gg" src="~assets/Houseicon.png" width="22" alt="" /><a
-                href="House.php"
+                href="/building/House"
                 >房屋</a
               >:提供人口空間
             </li>
             <li>
               <img class="gg" src="~assets/Millicon.png" width="22" alt="" /><a
-                href="Mill.php"
+                href="/building/Mill"
                 >磨坊</a
               >：讓村民收集食物的收集點
             </li>
             <li>
               <img class="gg" src="~assets/Farmicon.png" width="22" alt="" /><a
-                href="Farm.php"
+                href="/building/Farm"
                 >農田</a
               >：提供食物
             </li>
@@ -58,7 +57,8 @@
                 src="~assets/Lumbercampicon.png"
                 width="22"
                 alt=""
-              /><a href="Lumber_Camp.php">伐木場</a>:讓村民收集木材的收集點
+              /><a href="/building/Lumber_Camp">伐木場</a
+              >:讓村民收集木材的收集點
             </li>
             <li>
               <img
@@ -66,11 +66,12 @@
                 src="~assets/Miningcampicon.png"
                 width="22"
                 alt=""
-              /><a href="Mining_Camp.php">採礦營地</a>:讓村民收集礦石的收集點
+              /><a href="/building/Mining_Camp">採礦營地</a
+              >:讓村民收集礦石的收集點
             </li>
             <li>
               <img class="gg" src="~assets/Dockicon.png" width="22" alt="" /><a
-                href="Dock.php"
+                href="/building/Dock"
                 >碼頭</a
               >:訓練和升級船隻
             </li>
@@ -84,7 +85,7 @@
                 src="~assets/Barracks-logo.jpg"
                 width="22"
                 alt=""
-              /><a href="Barracks.php"></a>軍營:訓練和升級步兵單位
+              /><a href="/building/Barracks"></a>軍營:訓練和升級步兵單位
             </li>
           </ul>
           <strong>防禦建築</strong>
@@ -95,7 +96,7 @@
                 src="~assets/Outposticon.png"
                 width="22"
                 alt=""
-              /><a href="Outpost.php">哨站</a>:簡單的箭塔，提醒敵人來犯
+              /><a href="/building/Outpost">哨站</a>:簡單的箭塔，提醒敵人來犯
             </li>
             <li>
               <img
@@ -103,7 +104,7 @@
                 src="~assets/Palisadewallicon.png"
                 width="22"
                 alt=""
-              /><a href="Palisade_Wall.php">木牆</a>：阻擋敵人一小段時間
+              /><a href="/building/Palisade_Wall">木牆</a>：阻擋敵人一小段時間
             </li>
             <li>
               <img
@@ -111,7 +112,7 @@
                 src="~assets/Palisadegateicon.png"
                 width="22"
                 alt=""
-              /><a href="Palisade_Gate.php">木門</a
+              /><a href="/Palisade_building/Gate">木門</a
               >：可與木牆蓋在一起，讓友方單位通過
             </li>
           </ul>
@@ -128,7 +129,7 @@
                 src="~assets/VillagerMaleIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Villager.php">村民</a>：建造建築物和收集食物。
+              /><a href="/units/Villager">村民</a>：建造建築物和收集食物。
             </li>
           </ul>
           <p>碼頭</p>
@@ -139,7 +140,7 @@
                 src="~assets/FishingShipIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Fishing_Ship.php">漁船</a>：從魚群收集食物。
+              /><a href="/units/Fishing_Ship">漁船</a>：從魚群收集食物。
             </li>
             <li>
               <img
@@ -147,10 +148,10 @@
                 src="~assets/TransportShipIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Transport_Ship.php">運輸船</a>：運載單位。
+              /><a href="/units/Transport_Ship">運輸船</a>：運載單位。
             </li>
             <h4>
-              1.在<a href="aok.php">帝王世紀</a>和<a href="aoc.php"
+              1.在<a href="/games/aok">帝王世紀</a>和<a href="/games/aoc"
                 >征服者入侵</a
               >資料片中，運輸船要在封建時代才能訓練而不是黑暗時代。
             </h4>
@@ -164,7 +165,7 @@
                 src="~assets/MilitiaIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Militia.php">民兵</a>：基本步兵單位。
+              /><a href="/units/Militia">民兵</a>：基本步兵單位。
             </li>
           </ul>
           <h3>可研發科技</h3>
@@ -174,7 +175,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/Loom.jpg" width="22" alt="" /><a
-                  href="Loom.php"
+                  href="/techs/Loom"
                   >織布技術</a
                 >：增加村民生命值。
               </li>
@@ -239,7 +240,7 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="22"
                 alt=""
-              /><a href="Feudal_Age.php">封建時代</a>
+              /><a href="/techsage/Feudal_Age">封建時代</a>
             </td>
           </tr>
         </table>
@@ -256,7 +257,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/DarkAge.png"
+              <a href="/img/DarkAge.png"
                 ><img class="imgn hg" src="~assets/DarkAge.png" alt=""
               /></a>
               <p><em>每個文明在黑暗時代的樣子。</em></p>

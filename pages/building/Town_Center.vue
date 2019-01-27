@@ -11,9 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="Town_Center.php">城鎮中心</a> 是一個在世紀帝國II到達<a
-              href="Castle_Age.php"
-              >城堡時代</a
+            <a href="/building/Town_Center">城鎮中心</a>
+            是一個在世紀帝國II到達<a href="/techsage/Castle_Age">城堡時代</a
             >後能建造的建築，玩家間俗稱為TC。它能訓練村民、加速村民採集資源的速率、還是資源收集站，同時也支援5個人口上限。在世紀帝國中可說是最重要的建築物也不為過。
           </p>
           <p>
@@ -48,25 +47,25 @@
           <div class="row">
             <div class="col-md-4">
               <div class="n1">
-                <h4><a href="Dark_Age.php">黑暗時代</a></h4>
+                <h4><a href="/techsage/Dark_Age">黑暗時代</a></h4>
                 <ul>
                   <li>
                     <img
                       class="gg"
                       src="~assets/VillagerMaleIcon.jpg"
                       alt=""
-                    /><a href="Villager.php">村民</a>
+                    /><a href="/units/Villager">村民</a>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Feudal-age-reseach.jpg"
                       alt=""
-                    /><a href="Feudal_Age.php">封建時代</a>
+                    /><a href="/techsage/Feudal_Age">封建時代</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Loom.jpg" alt="" /><a
-                      href="Loom.php"
+                      href="/techs/Loom"
                       >織布技術</a
                     >
                   </li>
@@ -75,11 +74,11 @@
             </div>
             <div class="col-md-4">
               <div class="n1">
-                <h4><a href="Feudal_Age.php">封建時代</a></h4>
+                <h4><a href="/techsage/Feudal_Age">封建時代</a></h4>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Townwatch.jpg" alt="" /><a
-                      href="Town_Watch.php"
+                      href="/techs/Town_Watch"
                       >城鎮瞭望</a
                     >
                   </li>
@@ -88,11 +87,11 @@
                       class="gg"
                       src="~assets/Castle-age-reseach.jpg"
                       alt=""
-                    /><a href="Castle_Age.php">城堡時代</a>
+                    /><a href="/techsage/Castle_Age">城堡時代</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Wheelbarrow.jpg" alt="" /><a
-                      href="Wheelbarrow.php"
+                      href="/techs/Wheelbarrow"
                       >獨輪推車</a
                     >
                   </li>
@@ -101,11 +100,11 @@
             </div>
             <div class="col-md-4">
               <div class="n1">
-                <h4><a href="Castle_Age.php">城堡時代</a></h4>
+                <h4><a href="/techsage/Castle_Age">城堡時代</a></h4>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Townpatrol.jpg" alt="" /><a
-                      href="Town_Patrol.php"
+                      href="/techs/Town_Patrol"
                       >城鎮巡邏</a
                     >
                   </li>
@@ -114,11 +113,11 @@
                       class="gg"
                       src="~assets/Imperial-age-research.jpg"
                       alt=""
-                    /><a href="Imperial_Age.php">帝王時代</a>
+                    /><a href="/techsage/Imperial_Age">帝王時代</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Handcart.jpg" alt="" /><a
-                      href="Hand_Cart.php"
+                      href="/Hand_Cart.php"
                       >手推車</a
                     >
                   </li>
@@ -142,11 +141,11 @@
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4">
-                射程較遠的範圍單位、<a href="Tarkan.php">韃靼騎兵</a>、<a
-                  href="Huskarl.php"
+                射程較遠的範圍單位、<a href="/units/Tarkan">韃靼騎兵</a>、<a
+                  href="/units/Huskarl"
                   >哥德衛隊</a
-                >、 <a href="War_Elephant.php">戰象</a>和<a
-                  href="Battering_Ram.php"
+                >、 <a href="/War_unitsanimal/Elephant">戰象</a>和<a
+                  href="/units/Battering_Ram"
                   >衝撞車</a
                 >。
               </td>
@@ -160,7 +159,7 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="Masonry.php"
+                  href="/techs/Masonry"
                   >磚瓦技術</a
                 >(+10%)
                 <br />
@@ -169,7 +168,7 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="Architecture.php">建築學</a>(+10%)
+                /><a href="/techs/Architecture">建築學</a>(+10%)
               </td>
             </tr>
             <tr>
@@ -180,17 +179,17 @@
                   src="~assets/Fletching.jpg"
                   width="30"
                   alt=""
-                /><a href="Fletching.php">箭羽</a>(+1)
+                /><a href="/techs/Fletching">箭羽</a>(+1)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Bodkinarrow.jpg"
                   width="30"
                   alt=""
-                /><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+                /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
                 <br />
                 <img class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><a
-                  href="Bracer.php"
+                  href="/techs/Bracer"
                   >護腕</a
                 >(+1)
                 <br />
@@ -199,17 +198,15 @@
                   src="~assets/Chemistry.jpg"
                   width="30"
                   alt=""
-                /><a href="Chemistry.php">化學</a>(+1)
+                /><a href="/techs/Chemistry">化學</a>(+1)
                 <br />
                 <img
                   class="gg"
                   src="~assets/CastleAgeUnique.png"
                   width="30"
                   alt=""
-                /><a href="Tigui.php">部落領袖</a>:城鎮中心不須駐守就可放箭，<a
-                  href="Malians.php"
-                  >馬利</a
-                >限定
+                /><a href="/techs/Tigui">部落領袖</a
+                >:城鎮中心不須駐守就可放箭，<a href="/civs/Malians">馬利</a>限定
               </td>
             </tr>
             <tr>
@@ -220,14 +217,14 @@
                   src="~assets/Ballistics.jpg"
                   width="30"
                   alt=""
-                /><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
+                /><a href="/techs/Ballistics">彈道學</a>:對移動目標命中率上升
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="Masonry.php"
+                  href="/techs/Masonry"
                   >磚瓦技術</a
                 >(護甲+1/+1，+3建築護甲)
                 <br />
@@ -236,7 +233,8 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)
+                /><a href="/techs/Architecture">建築學</a
+                >(護甲+1/+1，+3建築護甲)
               </td>
             </tr>
             <tr>
@@ -247,14 +245,14 @@
                   src="~assets/Townwatch.jpg"
                   width="30"
                   alt=""
-                /><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                /><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Townpatrol.jpg"
                   width="30"
                   alt=""
-                /><a href="Town_Patrol.php">城鎮巡邏</a>(+4)
+                /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
               </td>
             </tr>
             <tr>
@@ -265,7 +263,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%工作效率)
+                /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%工作效率)
               </td>
             </tr>
             <tr>
@@ -276,15 +274,16 @@
                   src="~assets/Herbalmedicine.png"
                   width="30"
                   alt=""
-                /><a href="Herbal_Medicine.php">草藥學</a>:增加駐守單位回血速度
+                /><a href="/techs/Herbal_Medicine">草藥學</a
+                >:增加駐守單位回血速度
                 <br />
                 <img
                   class="gg"
                   src="~assets/Unique-tech.jpg"
                   width="30"
                   alt=""
-                /><a href="Crenellations.php">剁口</a>:步兵駐守也可放箭，<a
-                  href="Teutons.php"
+                /><a href="/techs/Crenellations">剁口</a>:步兵駐守也可放箭，<a
+                  href="/civs/Teutons"
                   >條頓</a
                 >限定
               </td>
@@ -295,32 +294,38 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Britons.php">不列顛</a>：城鎮中心的木頭花費-50%</li>
               <li>
-                <a href="Byzantines.php">拜占庭</a
+                <a href="/civs/Britons">不列顛</a>：城鎮中心的木頭花費-50%
+              </li>
+              <li>
+                <a href="/civs/Byzantines">拜占庭</a
                 >：在黑暗/封建/城堡/帝王時代，城鎮中心增加10%/20%/30%40%的血量。城鎮瞭望科技免費。
               </li>
               <li>
-                <a href="Chinese.php">中國</a
+                <a href="/civs/Chinese">中國</a
                 >：任何技術(除了時代演進外)在封建/城堡/帝王時代分別便宜10%/15%/20%。城鎮中心可支援10人口且視野+5。
               </li>
-              <li><a href="Incas.php">印加</a>：城鎮中心石頭造價便宜15%</li>
-              <li><a href="Malians.php">馬利</a>：城鎮中心木材造價便宜15%</li>
+              <li><a href="/civs/Incas">印加</a>：城鎮中心石頭造價便宜15%</li>
+              <li><a href="/civs/Malians">馬利</a>：城鎮中心木材造價便宜15%</li>
               <li>
-                <a href="Persians.php">波斯</a>：城鎮中心生命值+100%
+                <a href="/civs/Persians">波斯</a>：城鎮中心生命值+100%
                 HP，在封建/城堡/帝王時代的工作效率分別加快10%/15%/20%。
               </li>
               <li>
-                <a href="Spanish.php">西班牙</a>：城鎮中心的建造速度快30%。
+                <a href="/civs/Spanish">西班牙</a>：城鎮中心的建造速度快30%。
               </li>
-              <li><a href="Teutons.php">條頓</a>：城鎮中心可駐紮25個單位。</li>
+              <li>
+                <a href="/civs/Teutons">條頓</a>：城鎮中心可駐紮25個單位。
+              </li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Malians.php">馬利</a>：團隊學院科技研發速度快80%</li>
+              <li>
+                <a href="/civs/Malians">馬利</a>：團隊學院科技研發速度快80%
+              </li>
             </ul>
           </div>
         </div>
@@ -328,38 +333,40 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
-            <li><a href="Teutons.php">條頓</a>:城鎮中心+2攻擊跟+5射程。</li>
+            <li><a href="/civs/Teutons">條頓</a>:城鎮中心+2攻擊跟+5射程。</li>
           </ul>
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
-            <li><a href="Teutons.php">條頓</a>:城鎮中心+2攻擊跟+5視野。</li>
+            <li><a href="/civs/Teutons">條頓</a>:城鎮中心+2攻擊跟+5視野。</li>
           </ul>
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
-            <li>城鎮中心的攻擊可受<a href="Chemistry.php">化學</a>加成。</li>
-            <li><a href="Chinese.php">中國</a>:城鎮中心視野+5(從條頓移除)</li>
+            <li>城鎮中心的攻擊可受<a href="/techs/Chemistry">化學</a>加成。</li>
+            <li><a href="/civs/Chinese">中國</a>:城鎮中心視野+5(從條頓移除)</li>
             <li>
-              <a href="Teutons.php">條頓</a
+              <a href="/civs/Teutons">條頓</a
               >:城鎮中心可以駐守25單位；+2攻擊跟+5視野被移除。
             </li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王朝</a></em>
+            <em><a href="/games/ak">非洲王朝</a></em>
           </h3>
           <ul>
             <li>
-              <a href="Camel.php">駱駝騎兵</a>從<a href="Armor_Class_Ship.php"
+              <a href="/units/Camel">駱駝騎兵</a>從<a
+                href="/armor/Armor_Class_Ship"
                 >船艦護甲</a
               >分類移除，所以
-              <a href="Town_Center.php">城鎮中心</a
-              >對他們的攻擊加乘沒有了，現在<a href="Town_Center.php">城鎮中心</a
+              <a href="/building/Town_Center">城鎮中心</a
+              >對他們的攻擊加乘沒有了，現在<a href="/building/Town_Center"
+                >城鎮中心</a
               >對他們攻擊+1。
             </li>
           </ul>
@@ -376,7 +383,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/TCDarkAge.png"
+              <a href="/img/TCDarkAge.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -386,7 +393,7 @@
               <p><em>黑暗時代的城鎮中心。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="img/TCFeudalAgeHD.png"
+              <a href="/img/TCFeudalAgeHD.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -396,7 +403,7 @@
               <p><em>所有封建時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="img/TCFeudalAgeDLC.png"
+              <a href="/img/TCFeudalAgeDLC.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -408,7 +415,7 @@
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Towncenteraokaoc.png"
+              <a href="/img/Towncenteraokaoc.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -418,7 +425,7 @@
               <p><em>所有城堡時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="img/Towncenteraoe2expansions.png"
+              <a href="/img/Towncenteraoe2expansions.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -428,7 +435,7 @@
               <p><em>所有城堡時代的城鎮中心(HD 擴充版)。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="img/TCImperialAgeHD.png"
+              <a href="/img/TCImperialAgeHD.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -438,7 +445,7 @@
               <p><em>所有帝王時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a href="img/TCImperialAgeDLC.png"
+              <a href="/img/TCImperialAgeDLC.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -454,7 +461,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="">城鎮中心</a></div>
+              <div class="unititle"><a href="#">城鎮中心</a></div>
             </td>
           </tr>
           <tr>
@@ -466,7 +473,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -479,7 +486,7 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Castle_Age.php">城堡時代</a></td>
+            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -491,7 +498,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -504,7 +511,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>
@@ -530,11 +537,11 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +5對<a href="Armor_Class_Ship.php">船隻</a> <br />+5對<a
-                href="Armor_Class_Building.php"
+              +5對<a href="/armor/Armor_Class_Ship">船隻</a> <br />+5對<a
+                href="/armor/Armor_Class_Building"
                 >建築物</a
               >
-              <br />+1對<a href="Armor_Class_Camel.php">駱駝單位</a>
+              <br />+1對<a href="/armor/Armor_Class_Camel">駱駝單位</a>
             </td>
           </tr>
           <tr>

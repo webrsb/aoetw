@@ -93,20 +93,20 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="spa.php">西班牙科技樹</a></em>
+          <em><a href="/tree/spa">西班牙科技樹</a></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>傳教士受血統影響。</li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
             <li>生產傳教士不再需要城堡。</li>
@@ -132,7 +132,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Wonderspanish.png"
+              <a href="/img/Wonderspanish.png"
                 ><img class="imgn hg" src="~assets/Wonderspanish.png" alt=""
               /></a>
               <p><em>黃金塔</em></p>

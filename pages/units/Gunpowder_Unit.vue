@@ -21,19 +21,19 @@
         <div class="n1">
           <p>
             火藥單位(非特殊單位)在帝王時代的學院研發化學後可以訓練。<a
-              href="Janissary.php"
+              href="/units/Janissary"
               >土耳其火槍兵</a
-            >、<a href="Conquistador.php">征服者</a>、
-            <a href="Organ_Gun.php">風琴炮</a>、<a href="Turtle_Ship.php"
+            >、<a href="/units/Conquistador">征服者</a>、
+            <a href="/units/Organ_Gun">風琴炮</a>、<a href="/units/Turtle_Ship"
               >龜甲船</a
             >這些屬於文明的特殊火藥單位則可以在不用研發化學的前提下在城堡時代訓練。
           </p>
           <p>
             在"失落的帝國"資料片前，所有中東文明都可以使用普通的火藥單位，這意味著中世紀該地區的科學進步顯著。<a
-              href="Aztecs.php"
+              href="/civs/Aztecs"
               >阿茲特克人</a
-            >， <a href="Huns.php">匈奴人</a>，<a href="Incas.php">印加人</a
-            >和<a href="Mayans.php">瑪雅人</a>必須靠招降才能擁有火藥單位。
+            >， <a href="/civs/Huns">匈奴人</a>，<a href="/civs/Incas">印加人</a
+            >和<a href="/civs/Mayans">瑪雅人</a>必須靠招降才能擁有火藥單位。
           </p>
         </div>
         <h3>火藥文明</h3>
@@ -71,7 +71,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HandCannoneerIcon.jpg" /><a
-                  href="Hand_Cannoneer.php"
+                  href="/units/Hand_Cannoneer"
                   >火槍兵</a
                 >
               </td>
@@ -95,7 +95,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/BombardCannonIcon.jpg" /><a
-                  href="Bombard_Cannon.php"
+                  href="/units/Bombard_Cannon"
                   >火炮</a
                 >
               </td>
@@ -119,7 +119,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><a
-                  href="Cannon_Galleon.php"
+                  href="/units/Cannon_Galleon"
                   >火炮戰船</a
                 >
               </td>
@@ -143,7 +143,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><a
-                  href="Cannon_Galleon.php"
+                  href="/units/Cannon_Galleon"
                   >精銳火炮戰船</a
                 >
               </td>
@@ -167,7 +167,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/TurtleShipIcon.jpg" /><a
-                  href="Turtle_Ship.php"
+                  href="/units/Turtle_Ship"
                   >龜甲船</a
                 >
               </td>
@@ -191,7 +191,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/TurtleShipIcon.jpg" /><a
-                  href="Turtle_Ship.php"
+                  href="/units/Turtle_Ship"
                   >精銳龜甲船</a
                 >
               </td>
@@ -215,7 +215,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/JanissaryIcon.jpg" /><a
-                  href="Janissary.php"
+                  href="/units/Janissary"
                   >土耳其火槍兵</a
                 >
               </td>
@@ -239,7 +239,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/JanissaryIcon.jpg" /><a
-                  href="Janissary.php"
+                  href="/units/Janissary"
                   >精銳土耳其火槍兵</a
                 >
               </td>
@@ -263,7 +263,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ConquistadorIcon.jpg" /><a
-                  href="Conquistador.php"
+                  href="/units/Conquistador"
                   >征服者</a
                 >
               </td>
@@ -287,7 +287,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ConquistadorIcon.jpg" /><a
-                  href="Conquistador.php"
+                  href="/units/Conquistador"
                   >精銳征服者</a
                 >
               </td>
@@ -311,7 +311,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/OrganGunIcon.jpg" /><a
-                  href="Organ_Gun.php"
+                  href="/units/Organ_Gun"
                   >風琴炮</a
                 >
               </td>
@@ -335,7 +335,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/OrganGunIcon.jpg" /><a
-                  href="Organ_Gun.php"
+                  href="/units/Organ_Gun"
                   >精銳風琴炮</a
                 >
               </td>
@@ -365,7 +365,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <a href="img/Gunpowder.png"
+              <a href="/img/Gunpowder.png"
                 ><img
                   class="imgn hg"
                   width="180"

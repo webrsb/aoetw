@@ -12,10 +12,10 @@
         <div class="n1">
           <p>
             步兵單位是遊戲中四類軍事單位之一，另外三種分別是<a
-              href="Cavalry_Units.php"
+              href="/units/Cavalry_Units"
               >騎兵單位</a
-            >、<a href="Archer_Units.php">弓兵單位</a>與
-            <a href="Siege_Weapon_Unit.php">攻城武器單位</a>。
+            >、<a href="/units/Archer_Units">弓兵單位</a>與
+            <a href="/Siege_Weapon_Unit.php">攻城武器單位</a>。
           </p>
         </div>
         <h3>概要</h3>
@@ -29,22 +29,23 @@
               普通的步兵單位在軍營裡訓練，民兵是第一個可以訓練的單位也是黑暗時代唯一可生產的軍事單位。
             </li>
             <li>
-              特殊單位的步兵在城堡裡面訓練，但有兩個例外，<a href="Huskarl.php"
+              特殊單位的步兵在城堡裡面訓練，但有兩個例外，<a
+                href="/units/Huskarl"
                 >哥德衛隊</a
               >在研發無政府狀態後可以在軍營訓練，而
-              <a href="Condottiero.php">傭兵</a
+              <a href="/units/Condottiero">傭兵</a
               >只要是義大利及其同盟也可以在帝王時代時在軍營訓練。
             </li>
             <li>
               所有的步兵都需要黃金和食物訓練，而槍兵系是唯一的例外，他需要食物與木材。雖然大部分的步兵懼怕弓兵單位與騎兵單位，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:
-              <a href="Archer.php">弓箭手</a>通常可以配合<a
-                href="Skirmisher.php"
+              <a href="/units/Archer">弓箭手</a>通常可以配合<a
+                href="/units/Skirmisher"
                 >矛兵</a
-              >，而騎兵則是搭配<a href="Pikeman.php">槍兵</a>。
+              >，而騎兵則是搭配<a href="/units/Pikeman">槍兵</a>。
             </li>
             <li>由於速度很慢又是近戰，步兵很怕僧侶。</li>
             <li>
-              擅長對付步兵的單位是:<a href="Hand_Cannoneer.php">火槍兵</a
+              擅長對付步兵的單位是:<a href="/units/Hand_Cannoneer">火槍兵</a
               >、投石手、羽毛箭射手、條頓武士、豹勇士與聖騎兵
             </li>
           </ul>
@@ -53,18 +54,19 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            許多文明依賴強大的步兵，<a href="Aztecs.php">阿茲特克人</a>，<a
-              href="Burmese.php"
+            許多文明依賴強大的步兵，<a href="/civs/Aztecs">阿茲特克人</a>，<a
+              href="/civs/Burmese"
               >緬甸人</a
-            >， <a href="Japanese.php">日本人</a>，<a href="Slavs.php"
+            >， <a href="/civs/Japanese">日本人</a>，<a href="/civs/Slavs"
               >斯拉夫人</a
-            >和<a href="Vikings.php">維京人</a>可以說是所有文明中最強大的步兵。
-            <a href="Celts.php">賽爾特</a>、<a href="Goths.php">哥德</a>、<a
-              href="Incas.php"
+            >和<a href="/civs/Vikings">維京人</a
+            >可以說是所有文明中最強大的步兵。
+            <a href="/civs/Celts">賽爾特</a>、<a href="/civs/Goths">哥德</a>、<a
+              href="/civs/Incas"
               >印加</a
-            >、<a href="Malians.php">馬利</a>與
-            <a href="Teutons.php">條頓</a>也是優秀的步兵文明。而<a
-              href="Incas.php"
+            >、<a href="/civs/Malians">馬利</a>與
+            <a href="/civs/Teutons">條頓</a>也是優秀的步兵文明。而<a
+              href="/civs/Incas"
               >印加</a
             >是唯一有所有步兵單位和技術的文明。
           </p>
@@ -75,33 +77,33 @@
           <p>以下列出步兵有加成的文明</p>
           <ul>
             <li>
-              <a href="Burmese.php">緬甸</a
+              <a href="/civs/Burmese">緬甸</a
               >:步兵單位在封建/城堡/帝王各有+1/+2/+3的攻擊。
             </li>
             <li>
-              <a href="Byzantines.php">拜占庭</a>:<a href="Pikeman.php"
+              <a href="/civs/Byzantines">拜占庭</a>:<a href="/units/Pikeman"
                 >長槍兵</a
               >便宜25%。
             </li>
-            <li><a href="Celts.php">賽爾特</a>:步兵移動快25%。</li>
-            <li><a href="Ethiopians.php">衣索比亞</a>:槍兵係免費升級。</li>
+            <li><a href="/civs/Celts">賽爾特</a>:步兵移動快25%。</li>
+            <li><a href="/civs/Ethiopians">衣索比亞</a>:槍兵係免費升級。</li>
             <li>
-              <a href="Goths.php">哥德</a>:步兵便宜35%，步兵對<a
-                href="Armor_Class_Standard_Building.php"
+              <a href="/civs/Goths">哥德</a>:步兵便宜35%，步兵對<a
+                href="/armor/Armor_Class_Standard_Building"
                 >標準建築有</a
               >+1攻擊。
             </li>
             <li>
-              <a href="Japanese.php">日本</a
+              <a href="/civs/Japanese">日本</a
               >:從封建時代開始，步兵攻擊速度快25%。
             </li>
             <li>
-              <a href="Malians.php">馬利</a
+              <a href="/civs/Malians">馬利</a
               >:兵營的步兵單位從封建/城堡/帝王各有+1/+2/+3的遠防。
             </li>
-            <li><a href="Slavs.php">斯拉夫</a>:追蹤技術是免費的。</li>
+            <li><a href="/civs/Slavs">斯拉夫</a>:追蹤技術是免費的。</li>
             <li>
-              <a href="Vikings.php">維京</a
+              <a href="/civs/Vikings">維京</a
               >:步兵在封建/城堡/帝王各有+10%/+15%/+20%的生命值。
             </li>
           </ul>
@@ -111,9 +113,9 @@
         <div class="n1">
           <p>以下列出步兵的團隊加成</p>
           <ul>
-            <li><a href="Goths.php">哥德</a>:軍營工作效率快20%</li>
+            <li><a href="/civs/Goths">哥德</a>:軍營工作效率快20%</li>
             <li>
-              <a href="Italians.php">義大利</a>:<a href="Condottiero.php"
+              <a href="/civs/Italians">義大利</a>:<a href="/units/Condottiero"
                 >傭兵</a
               >可在軍營訓練
             </li>
@@ -136,7 +138,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/MilitiaIcon.jpg" alt="" /><a
-                  href="Militia.php"
+                  href="/units/Militia"
                   >民兵</a
                 >
               </td>
@@ -155,7 +157,7 @@
                   src="~assets/ManAtArmsIcon.jpg"
                   width="22"
                   alt=""
-                /><a href="Man-at-Arms.php">裝甲步兵</a>
+                /><a href="/units/Man-at-Arms">裝甲步兵</a>
               </td>
               <td class="tta3">45</td>
               <!--生命值!-->
@@ -175,7 +177,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/LongswordsManIcon.jpg" alt="" /><a
-                  href="Long_Swordsman.php"
+                  href="/units/Long_Swordsman"
                   >長劍兵</a
                 >
               </td>
@@ -200,7 +202,7 @@
                   class="gg"
                   src="~assets/2HandedswordsmanIcon.jpg"
                   alt=""
-                /><a href="Two-Handed_Swordsman.php">雙手劍兵</a>
+                /><a href="/units/Two-Handed_Swordsman">雙手劍兵</a>
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->
@@ -220,7 +222,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ChampionIcon.jpg" alt="" /><a
-                  href="Champion.php"
+                  href="/units/Champion"
                   >劍兵勇士</a
                 >
               </td>
@@ -242,7 +244,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" /><a
-                  href="Spearman.php"
+                  href="/units/Spearman"
                   >長槍兵</a
                 >
               </td>
@@ -264,7 +266,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/PikemanIcon.jpg" alt="" /><a
-                  href="Pikeman.php"
+                  href="/units/Pikeman"
                   >重裝長槍兵</a
                 >
               </td>
@@ -286,7 +288,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HalberdierIcon.jpg" alt="" /><a
-                  href="Halberdier.php"
+                  href="/units/Halberdier"
                   >戟兵</a
                 >
               </td>
@@ -308,7 +310,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                  href="Eagle_Scout.php"
+                  href="/units/Eagle_Scout"
                   >鷹斥侯</a
                 >
               </td>
@@ -330,7 +332,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" /><a
-                  href="Eagle_Warrior.php"
+                  href="/units/Eagle_Warrior"
                   >鷹勇士</a
                 >
               </td>
@@ -355,7 +357,7 @@
                   class="gg"
                   src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""
-                /><a href="Eagle_Warrior.php">精銳鷹勇士</a>
+                /><a href="/units/Eagle_Warrior">精銳鷹勇士</a>
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->
@@ -375,7 +377,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt="" /><a
-                  href="Condottiero.php"
+                  href="/units/Condottiero"
                   >傭兵</a
                 >
               </td>
@@ -397,7 +399,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/WBRSK.jpg" alt="" /><a
-                  href="Woad_Raider.php"
+                  href="/units/Woad_Raider"
                   >菘藍武士</a
                 >
               </td>
@@ -419,7 +421,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/WBRSK.jpg" alt="" /><a
-                  href="Woad_Raider.php"
+                  href="/units/Woad_Raider"
                   >精銳菘藍武士</a
                 >
               </td>
@@ -441,7 +443,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/TAXEM.jpg" alt="" /><a
-                  href="Throwing_Axeman.php"
+                  href="/units/Throwing_Axeman"
                   >擲斧兵</a
                 >
               </td>
@@ -463,7 +465,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/TAXEM.jpg" alt="" /><a
-                  href="Throwing_Axeman.php"
+                  href="/units/Throwing_Axeman"
                   >精銳擲斧兵</a
                 >
               </td>
@@ -485,7 +487,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" /><a
-                  href="Huskarl.php"
+                  href="/units/Huskarl"
                   >哥德衛隊</a
                 >
               </td>
@@ -507,7 +509,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" /><a
-                  href="Huskarl.php"
+                  href="/units/Huskarl"
                   >精銳哥德衛隊</a
                 >
               </td>
@@ -529,7 +531,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/SMURI.jpg" alt="" /><a
-                  href="Samurai.php"
+                  href="/units/Samurai"
                   >日本武士</a
                 >
               </td>
@@ -551,7 +553,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/SMURI.jpg" alt="" /><a
-                  href="Samurai.php"
+                  href="/units/Samurai"
                   >精銳日本武士</a
                 >
               </td>
@@ -573,7 +575,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Crusade_avatar.png" alt="" /><a
-                  href="Teutonic_Knight.php"
+                  href="/Teutonic_units/Knight"
                   >條頓武士</a
                 >
               </td>
@@ -595,7 +597,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Crusade_avatar.png" alt="" /><a
-                  href="Teutonic_Knight.php"
+                  href="/Teutonic_units/Knight"
                   >精銳條頓武士</a
                 >
               </td>
@@ -617,7 +619,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/VBRSK.jpg" alt="" /><a
-                  href="Berserk.php"
+                  href="/units/Berserk"
                   >狂戰士</a
                 >
               </td>
@@ -639,7 +641,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/VBRSK.jpg" alt="" /><a
-                  href="Berserk.php"
+                  href="/units/Berserk"
                   >精銳狂戰士</a
                 >
               </td>
@@ -661,7 +663,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt="" /><a
-                  href="Jaguar_Warrior.php"
+                  href="/units/Jaguar_Warrior"
                   >豹勇士</a
                 >
               </td>
@@ -683,7 +685,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/JaguarWarriorIcon.jpg" alt="" /><a
-                  href="Jaguar_Warrior.php"
+                  href="/units/Jaguar_Warrior"
                   >精銳豹勇士</a
                 >
               </td>
@@ -705,7 +707,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><a
-                  href="Kamayuk.php"
+                  href="/units/Kamayuk"
                   >槍隊長</a
                 >
               </td>
@@ -727,7 +729,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><a
-                  href="Kamayuk.php"
+                  href="/units/Kamayuk"
                   >精銳槍隊長</a
                 >
               </td>
@@ -749,7 +751,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ShotelIcon.png" alt="" /><a
-                  href="Shotel_Warrior.php"
+                  href="/units/Shotel_Warrior"
                   >彎刀勇士</a
                 >
               </td>
@@ -771,7 +773,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ShotelIcon.png" alt="" /><a
-                  href="Shotel_Warrior.php"
+                  href="/units/Shotel_Warrior"
                   >精銳彎刀勇士</a
                 >
               </td>
@@ -793,7 +795,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/GbetoIcon.png" alt="" /><a
-                  href="Gbeto.php"
+                  href="/units/Gbeto"
                   >飛刀女獵手</a
                 >
               </td>
@@ -815,7 +817,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/GbetoIcon.png" alt="" /><a
-                  href="Gbeto.php"
+                  href="/units/Gbeto"
                   >精銳飛刀女獵手</a
                 >
               </td>
@@ -840,7 +842,7 @@
                   class="gg"
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
-                /><a href="Karambit_Warrior.php">爪刀勇士</a>
+                /><a href="/units/Karambit_Warrior">爪刀勇士</a>
               </td>
               <td class="tta3">30</td>
               <!--生命值!-->
@@ -863,7 +865,7 @@
                   class="gg"
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
-                /><a href="Karambit_Warrior.php">精銳爪刀勇士</a>
+                /><a href="/units/Karambit_Warrior">精銳爪刀勇士</a>
               </td>
               <td class="tta3">40</td>
               <!--生命值!-->
@@ -895,7 +897,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Tracking.jpg" alt="" /><a
-                  href="Tracking.php"
+                  href="/techs/Tracking"
                   >追縱技術</a
                 >
               </td>
@@ -906,7 +908,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Squires.jpg" alt="" /><a
-                  href="Squires.php"
+                  href="/techs/Squires"
                   >護衛</a
                 >
               </td>
@@ -917,14 +919,14 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Arson.jpg" alt="" /><a
-                  href="Arson.php"
+                  href="/techs/Arson"
                   >縱火</a
                 >
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">150F 50G</td>
               <td class="tunitc6">
-                步兵+2攻擊vs<a href="Armor_Class_Standard_Building.php"
+                步兵+2攻擊vs<a href="/armor/Armor_Class_Standard_Building"
                   >標準建築</a
                 >
               </td>
@@ -932,7 +934,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Forging.jpg" alt="" /><a
-                  href="Forging.php"
+                  href="/techs/Forging"
                   >鍛造</a
                 >
               </td>
@@ -943,7 +945,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><a
-                  href="Iron_Casting.php"
+                  href="/techs/Iron_Casting"
                   >鑄造</a
                 >
               </td>
@@ -954,7 +956,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><a
-                  href="Blast_Furnace.php"
+                  href="/techs/Blast_Furnace"
                   >鼓風爐</a
                 >
               </td>
@@ -965,7 +967,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Scalemailarmor.jpg" alt="" /><a
-                  href="Scale_Mail_Armor.php"
+                  href="/techs/Scale_Mail_Armor"
                   >步兵鱗甲</a
                 >
               </td>
@@ -976,7 +978,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Chainmailarmor.jpg" alt="" /><a
-                  href="Chain_Mail_Armor.php"
+                  href="/techs/Chain_Mail_Armor"
                   >步兵鎖甲</a
                 >
               </td>
@@ -987,7 +989,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Platemailarmor.jpg" alt="" /><a
-                  href="Plate_Mail_Armor.php"
+                  href="/techs/Plate_Mail_Armor"
                   >步兵板甲</a
                 >
               </td>
@@ -998,7 +1000,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Herbalmedicine.png" alt="" /><a
-                  href="Herbal_Medicine.php"
+                  href="/techs/Herbal_Medicine"
                   >草藥學</a
                 >
               </td>
@@ -1009,7 +1011,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Heresy.png" alt="" /><a
-                  href="Heresy.php"
+                  href="/techs/Heresy"
                   >異端邪說</a
                 >
               </td>
@@ -1020,7 +1022,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Faith.jpg" alt="" /><a
-                  href="Faith.php"
+                  href="/techs/Faith"
                   >忠誠信仰</a
                 >
               </td>
@@ -1035,7 +1037,7 @@
                   src="~assets/Conscription.jpg"
                   width="30"
                   alt=""
-                /><a href="Conscription.php">徵兵制度</a>
+                /><a href="/techs/Conscription">徵兵制度</a>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">150F 150G</td>
@@ -1056,11 +1058,11 @@
             <tr>
               <td class="tunitc6">
                 <img src="~assets/CastleAgeUnique.png" class="gg" alt="" /><a
-                  href="Berbers.php"
+                  href="/civs/Berbers"
                   >柏柏</a
                 >
               </td>
-              <td class="tunitc4"><a href="Kasbah.php">聚居堡壘</a></td>
+              <td class="tunitc4"><a href="/techs/Kasbah">聚居堡壘</a></td>
               <td class="tunitc5">250F 250G</td>
               <td class="tunitc6">團隊的城堡工作效率快25%</td>
             </tr>
@@ -1071,12 +1073,12 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Ethiopians.php">衣索比亞</a>
+                /><a href="/civs/Ethiopians">衣索比亞</a>
               </td>
-              <td class="tunitc4"><a href="Royal_Heirs.php">皇族血脈</a></td>
+              <td class="tunitc4"><a href="/techs/Royal_Heirs">皇族血脈</a></td>
               <td class="tunitc5">300F 300G</td>
               <td class="tunitc6">
-                <a href="Shotel_Warrior.php">彎刀勇士</a
+                <a href="/units/Shotel_Warrior">彎刀勇士</a
                 >訓練速度加倍(8秒變4秒)。
               </td>
             </tr>
@@ -1087,12 +1089,12 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Goths.php">哥德</a>
+                /><a href="/civs/Goths">哥德</a>
               </td>
-              <td class="tunitc4"><a href="Anarchy.php">無政府狀態</a></td>
+              <td class="tunitc4"><a href="/techs/Anarchy">無政府狀態</a></td>
               <td class="tunitc5">450F 250G</td>
               <td class="tunitc6">
-                兵營可以訓練<a href="Huskarl.php">哥德衛隊</a>。
+                兵營可以訓練<a href="/units/Huskarl">哥德衛隊</a>。
               </td>
             </tr>
             <tr>
@@ -1102,12 +1104,12 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Vikings.php">維京</a>
+                /><a href="/civs/Vikings">維京</a>
               </td>
-              <td class="tunitc4"><a href="Chieftains.php">酋長</a></td>
+              <td class="tunitc4"><a href="/techs/Chieftains">酋長</a></td>
               <td class="tunitc5">400F 300G</td>
               <td class="tunitc6">
-                步兵對騎兵攻擊+5，對<a href="Camel.php">駱駝騎兵</a>攻擊+2。
+                步兵對騎兵攻擊+5，對<a href="/units/Camel">駱駝騎兵</a>攻擊+2。
               </td>
             </tr>
             <tr>
@@ -1117,9 +1119,11 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Aztecs.php">阿茲特克</a>
+                /><a href="/civs/Aztecs">阿茲特克</a>
               </td>
-              <td class="tunitc4"><a href="Garland_Wars.php">榮冠戰爭</a></td>
+              <td class="tunitc4">
+                <a href="/techs/Garland_Wars">榮冠戰爭</a>
+              </td>
               <td class="tunitc5">450F 750G</td>
               <td class="tunitc6">步兵攻擊+4。</td>
             </tr>
@@ -1130,12 +1134,12 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Franks.php">法蘭克</a>
+                /><a href="/civs/Franks">法蘭克</a>
               </td>
-              <td class="tunitc4"><a href="Bearded_Axe.php">倒鉤斧</a></td>
+              <td class="tunitc4"><a href="/techs/Bearded_Axe">倒鉤斧</a></td>
               <td class="tunitc5">400F 400G</td>
               <td class="tunitc6">
-                <a href="Throwing%20Axeman.php">擲斧兵</a>攻擊距離+1。
+                <a href="/Throwing%20Axeman.php">擲斧兵</a>攻擊距離+1。
               </td>
             </tr>
             <tr>
@@ -1145,9 +1149,9 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Goths.php">哥德</a>
+                /><a href="/civs/Goths">哥德</a>
               </td>
-              <td class="tunitc4"><a href="Perfusion.php">灌注士氣</a></td>
+              <td class="tunitc4"><a href="/techs/Perfusion">灌注士氣</a></td>
               <td class="tunitc5">400W 600G</td>
               <td class="tunitc6">兵營工作速度加倍。</td>
             </tr>
@@ -1158,14 +1162,14 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Incas.php">印加</a>
+                /><a href="/civs/Incas">印加</a>
               </td>
-              <td class="tunitc4"><a href="Couriers.php">信使</a></td>
+              <td class="tunitc4"><a href="/techs/Couriers">信使</a></td>
               <td class="tunitc5">400F 200G</td>
               <td class="tunitc6">
-                <a href="Kamayuk.php">槍隊長</a>、<a href="Slinger.php"
+                <a href="/units/Kamayuk">槍隊長</a>、<a href="/units/Slinger"
                   >投石手</a
-                >和<a href="Eagle_Warrior.php">鷹勇士</a>的護甲+1/+2。
+                >和<a href="/units/Eagle_Warrior">鷹勇士</a>的護甲+1/+2。
               </td>
             </tr>
             <tr>
@@ -1175,9 +1179,9 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Malay.php">馬來</a>
+                /><a href="/civs/Malay">馬來</a>
               </td>
-              <td class="tunitc4"><a href="Forced_Levy.php">強制徵兵</a></td>
+              <td class="tunitc4"><a href="/techs/Forced_Levy">強制徵兵</a></td>
               <td class="tunitc5">1000F 600G</td>
               <td class="tunitc6">軍營步兵單位訓練不需花食物。</td>
             </tr>
@@ -1188,12 +1192,12 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Mayans.php">馬雅</a>
+                /><a href="/civs/Mayans">馬雅</a>
               </td>
-              <td class="tunitc4"><a href="Ei_Dorado.php">黃金國</a></td>
+              <td class="tunitc4"><a href="/Ei_Dorado.php">黃金國</a></td>
               <td class="tunitc5">750F 450G</td>
               <td class="tunitc6">
-                <a href="Eagle_Warrior.php">鷹勇士</a>+40 HP。
+                <a href="/units/Eagle_Warrior">鷹勇士</a>+40 HP。
               </td>
             </tr>
             <tr>
@@ -1203,9 +1207,9 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Slavs.php">斯拉夫</a>
+                /><a href="/civs/Slavs">斯拉夫</a>
               </td>
-              <td class="tunitc4"><a href="Druzhina.php">王家侍從</a></td>
+              <td class="tunitc4"><a href="/techs/Druzhina">王家侍從</a></td>
               <td class="tunitc5">1200F 500G</td>
               <td class="tunitc6">步兵單位有踐踏傷害。</td>
             </tr>
@@ -1216,12 +1220,14 @@
                   class="gg"
                   style="margin: 2px;"
                   alt=""
-                /><a href="Vikings.php">維京</a>
+                /><a href="/civs/Vikings">維京</a>
               </td>
-              <td class="tunitc4"><a href="Berserkergang.php">狂戰士幫</a></td>
+              <td class="tunitc4">
+                <a href="/techs/Berserkergang">狂戰士幫</a>
+              </td>
               <td class="tunitc5">450F 400G</td>
               <td class="tunitc6">
-                <a href="Berserk.php">狂戰士</a>回血速度提升(每分鐘回20
+                <a href="/units/Berserk">狂戰士</a>回血速度提升(每分鐘回20
                 HP變每分鐘回40 HP)。
               </td>
             </tr>
@@ -1235,7 +1241,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a href="img/Infantryunitsbarracks.png"
+            <a href="/img/Infantryunitsbarracks.png"
               ><img
                 class="imgn hg"
                 width="180"
@@ -1247,7 +1253,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <a href="img/Infantryunitscastle.png"
+            <a href="/img/Infantryunitscastle.png"
               ><img
                 class="imgn hg"
                 width="200"

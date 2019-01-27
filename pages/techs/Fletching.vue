@@ -11,15 +11,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            箭羽可於<a href="Feudal_Age.php">封建時代</a>在<a
-              href="Blacksmith.php"
+            箭羽可於<a href="/techsage/Feudal_Age">封建時代</a>在<a
+              href="/building/Blacksmith"
               >兵工廠</a
             >
-            研發後 <a href="Archer_Units.php">弓兵</a>、<a href="Castle.php"
+            研發後 <a href="/units/Archer_Units">弓兵</a>、<a
+              href="/building/Castle"
               >城堡</a
-            >、<a href="Watch_Tower.php">箭塔</a>、
-            <a href="Galley.php">戰船</a>和<a href="Longboat.php">維京大戰船</a
-            >+1攻擊和+1射程。<a href="Town_Center.php">城鎮中心</a>只有攻擊+1。
+            >、<a href="/units/Watch_Tower">箭塔</a>、
+            <a href="/units/Galley">戰船</a>和<a href="/units/Longboat"
+              >維京大戰船</a
+            >+1攻擊和+1射程。<a href="/building/Town_Center">城鎮中心</a
+            >只有攻擊+1。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -27,11 +30,11 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
             </li>
             <li>
-              <a href="Spanish.php">西班牙</a>：兵工廠的科技花費只需食物。
+              <a href="/civs/Spanish">西班牙</a>：兵工廠的科技花費只需食物。
             </li>
           </ul>
         </div>
@@ -48,7 +51,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">箭羽</a></div>
+              <div class="unititle"><a href="#">箭羽</a></div>
             </td>
           </tr>
           <tr>
@@ -60,7 +63,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -69,11 +72,11 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Feudal_Age.php">封建時代</a></td>
+            <td class="unit4"><a href="/techsage/Feudal_Age">封建時代</a></td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
-            <td class="unit4"><a href="Blacksmith.php">兵工廠</a></td>
+            <td class="unit4"><a href="/building/Blacksmith">兵工廠</a></td>
           </tr>
           <tr>
             <td class="unit3">次一升級</td>
@@ -83,7 +86,7 @@
                 src="~assets/Bodkinarrow.jpg"
                 width="45"
                 alt=""
-              /><a href="Bodkin_Arrow.php">錐狀箭頭</a>
+              /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>
             </td>
           </tr>
           <tr>
@@ -92,7 +95,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -105,7 +108,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

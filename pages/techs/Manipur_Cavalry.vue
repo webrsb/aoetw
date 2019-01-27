@@ -11,15 +11,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            曼尼普爾騎兵是<a href="Burmese.php">緬甸</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            曼尼普爾騎兵是<a href="/civs/Burmese">緬甸</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Cavalry_Units.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Cavalry_Units"
               >騎兵單位</a
-            >和<a href="Arambai.php">飛鏢騎兵</a>對
-            <a href="Armor_Class_Building.php">建築物</a>和<a
-              href="Armor_Class_standard_building.php"
+            >和<a href="/units/Arambai">飛鏢騎兵</a>對
+            <a href="/armor/Armor_Class_Building">建築物</a>和<a
+              href="/Armor_Class_standard_building.php"
               >標準建築</a
             >+3攻擊。
           </p>
@@ -29,11 +29,11 @@
         <div class="n1">
           <ul>
             <li>
-              緬甸缺少<a href="Siege_Engineers.php">攻城工程師</a>科技和<a
-                href="Siege_Ram.php"
+              緬甸缺少<a href="/techs/Siege_Engineers">攻城工程師</a>科技和<a
+                href="/units/Siege_Ram"
                 >重型衝撞車</a
               >。曼尼普爾騎兵可以增加
-              <a href="Battle_Elephant.php">矛象伕</a
+              <a href="/units/Battle_Elephant">矛象伕</a
               >對建築物的攻擊力以補足上述缺點。
             </li>
           </ul>
@@ -43,7 +43,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速曼尼普爾騎兵的研究時間(快25%)。
             </li>
           </ul>
@@ -52,14 +53,16 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>
-              曼尼普爾騎兵一開始只對<a href="Armor_Class_Building.php">建築物</a
-              >攻擊+6。5.3改版後對<a href="Armor_Class_Building.php">建築物</a
+              曼尼普爾騎兵一開始只對<a href="/armor/Armor_Class_Building"
+                >建築物</a
+              >攻擊+6。5.3改版後對<a href="/armor/Armor_Class_Building"
+                >建築物</a
               >和
-              <a href="Armor_Class_standard_building.php">標準建築</a
+              <a href="/Armor_Class_standard_building.php">標準建築</a
               >都有加成，這讓建築學不能完全抵消曼尼普爾騎兵的效果。
             </li>
           </ul>
@@ -77,7 +80,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">曼尼普爾騎兵</a></div>
+              <div class="unititle"><a href="#">曼尼普爾騎兵</a></div>
             </td>
           </tr>
           <tr>
@@ -89,12 +92,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Burmese.php">緬甸</a></td>
+            <td class="unit4"><a href="/civs/Burmese">緬甸</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -103,14 +106,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -121,7 +124,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -134,7 +137,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

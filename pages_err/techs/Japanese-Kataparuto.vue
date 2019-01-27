@@ -23,7 +23,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速彈射器的研究時間(快25%)。</li>
+              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠加速彈射器的研究時間(快25%)。</li>
             </ul>
           </div>
         </div>
@@ -31,7 +31,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="">彈射器</a>
+                <div class="unititle"><a href="#">彈射器</a>
                 </div>
               </td>
             </tr>
@@ -44,7 +44,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">科技介紹</a>
+                <div class="unititle2"><a href="#">科技介紹</a>
                 </div>
               </td>
             </tr>
@@ -65,7 +65,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>
@@ -78,7 +78,7 @@
               <td class="unit4">400/td></tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">影響</a>
+                <div class="unititle2"><a href="#">影響</a>
                 </div>
               </td>
             </tr>

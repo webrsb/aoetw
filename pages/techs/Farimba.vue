@@ -11,13 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            驃悍精神是<a href="Malians.php">馬利</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            驃悍精神是<a href="/civs/Malians">馬利</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a href="Stable.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/building/Stable"
               >馬廄</a
-            >單位(<a href="Knight.php">騎士</a>、
-            <a href="Camel.php">駱駝騎兵</a>、<a href="Light_Cavalry.php"
+            >單位(<a href="/units/Knight">騎士</a>、
+            <a href="/units/Camel">駱駝騎兵</a>、<a href="/units/Light_Cavalry"
               >輕騎兵</a
             >)攻擊+5。
           </p>
@@ -27,22 +28,22 @@
         <div class="n1">
           <ul>
             <li>
-              剽悍精神讓馬利的<a href="Cavalry_Units.php">騎兵單位</a
-              >是遊戲中最具威力的之一。他們的<a href="Heavy_Camel.php"
+              剽悍精神讓馬利的<a href="/units/Cavalry_Units">騎兵單位</a
+              >是遊戲中最具威力的之一。他們的<a href="/Heavy_units/Camel"
                 >重裝駱駝騎兵</a
               >可以獲得遊戲中最多的14攻擊，比
-              <a href="Imperial_Camel.php">帝王駱駝騎兵</a
+              <a href="/Imperial_units/Camel">帝王駱駝騎兵</a
               >還多。馬利的騎兵也是遊戲中攻擊排名非特殊騎兵第二(攻擊力19)和全遊戲第三，僅次於<a
-                href="Elite_Battle_Elephant.php"
+                href="/Elite_units/Battle_Elephant"
                 >精銳矛象伕</a
-              >和 <a href="War_Elephant.php">波斯戰象</a>。
+              >和 <a href="/War_unitsanimal/Elephant">波斯戰象</a>。
             </li>
             <li>
-              如果搭配<a href="Archer_Units.php">弓兵單位</a>、<a
-                href="Slinger.php"
+              如果搭配<a href="/units/Archer_Units">弓兵單位</a>、<a
+                href="/units/Slinger"
                 >投石手</a
-              >或 <a href="Champion.php">劍兵勇士</a>對抗<a
-                href="Halberdier.php"
+              >或 <a href="/units/Champion">劍兵勇士</a>對抗<a
+                href="/units/Halberdier"
                 >戟兵</a
               >，馬利軍隊在戰場上可說見神殺神，佛擋殺佛。
             </li>
@@ -53,7 +54,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速驃悍精神的研究時間(快25%)。
             </li>
           </ul>
@@ -70,7 +72,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">驃悍精神</a></div>
+              <div class="unititle"><a href="#">驃悍精神</a></div>
             </td>
           </tr>
           <tr>
@@ -82,12 +84,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Malians.php">馬利</a></td>
+            <td class="unit4"><a href="/civs/Malians">馬利</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -96,14 +98,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -114,7 +116,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -127,7 +129,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

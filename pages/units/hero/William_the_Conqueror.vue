@@ -37,7 +37,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">征服者威廉</a></div>
+              <div class="unititle"><a href="#">征服者威廉</a></div>
             </td>
           </tr>
           <tr>
@@ -64,7 +64,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="">騎兵<br />英雄</a>
+              <a href="#">騎兵<br />英雄</a>
             </td>
           </tr>
           <tr>
@@ -123,7 +123,7 @@
               <i
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%E4%B8%80%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
+                    href="/https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%E4%B8%80%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
                     >威廉一世 (英格蘭)</a
                   ></strong
                 ></i

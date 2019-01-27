@@ -11,13 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火箭術是<a href="Chinese.php">中國</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            火箭術是<a href="/civs/Chinese">中國</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後給予<a
-              href="Chu_Ko_Nu.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後給予<a
+              href="/units/Chu_Ko_Nu"
               >連弩兵</a
-            >+2攻擊、<a href="Scorpion.php">弩炮</a>+4攻擊。
+            >+2攻擊、<a href="/units/Scorpion">弩炮</a>+4攻擊。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,14 +26,12 @@
           <ul>
             <li>
               有火箭術的中國連弩兵和弩炮可以對防箭單位造成更多傷害，如:<a
-                href="Huskarl.php"
+                href="/units/Huskarl"
                 >哥德衛隊</a
-              >、<a href="Elite_Skirmisher.php">戰矛兵</a>和
-              <a href="Battering_Ram.php">輕型衝撞車</a
-              >。可以取代中國進攻時沒有<a href="Bombard_Cannon.php">火炮</a>和<a
-                href="Hand_Cannoneer.php"
-                >火槍兵</a
-              >的缺陷。
+              >、<a href="/units/Elite_Skirmisher">戰矛兵</a>和
+              <a href="/units/Battering_Ram">輕型衝撞車</a
+              >。可以取代中國進攻時沒有<a href="/units/Bombard_Cannon">火炮</a
+              >和<a href="/units/Hand_Cannoneer">火槍兵</a>的缺陷。
             </li>
           </ul>
         </div>
@@ -42,7 +40,7 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a>：該科技在帝王時代花費便宜20%。
+              <a href="/civs/Chinese">中國</a>：該科技在帝王時代花費便宜20%。
             </li>
           </ul>
         </div>
@@ -51,7 +49,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速火箭術的研究時間(快25%)。
             </li>
           </ul>
@@ -61,7 +60,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">火箭術</a></div>
+              <div class="unititle"><a href="#">火箭術</a></div>
             </td>
           </tr>
           <tr>
@@ -73,12 +72,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Chinese.php">中國</a></td>
+            <td class="unit4"><a href="/civs/Chinese">中國</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -87,14 +86,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -105,7 +104,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -118,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

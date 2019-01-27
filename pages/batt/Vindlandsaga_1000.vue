@@ -46,7 +46,7 @@
                 width="22"
                 src="~assets/VillagerMaleIcon.jpg"
                 alt=""
-              /><a href="Villager.php">村民</a>X3
+              /><a href="/units/Villager">村民</a>X3
             </li>
             <li>
               <img
@@ -54,7 +54,7 @@
                 width="22"
                 src="~assets/VBRSK.jpg"
                 alt=""
-              /><a href="Berserk.php">狂戰士</a>X2
+              /><a href="/units/Berserk">狂戰士</a>X2
             </li>
           </ul>
           <h3>AI</h3>
@@ -259,7 +259,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle"><a href="">芬特蘭撒格(1000)</a></div>
+              <div class="unititle"><a href="#">芬特蘭撒格(1000)</a></div>
             </td>
           </tr>
           <tr>
@@ -271,7 +271,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="">情景信息</a></div>
+              <div class="unititle2"><a href="#">情景信息</a></div>
             </td>
           </tr>
           <tr>
@@ -284,11 +284,11 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Vikings.php">維京</a></td>
+            <td class="unit4"><a href="/civs/Vikings">維京</a></td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="">戰役關卡編號</a></div>
+              <div class="unititle2"><a href="#">戰役關卡編號</a></div>
             </td>
           </tr>
           <tr>

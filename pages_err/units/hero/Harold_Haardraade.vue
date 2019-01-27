@@ -10,13 +10,13 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><strong>哈拉爾‧哈德拉達</strong>是一名只在世紀帝國II的地圖編輯器中能使用的<a href="Monk.php">僧侶</a>
+            <p><strong>哈拉爾‧哈德拉達</strong>是一名只在世紀帝國II的地圖編輯器中能使用的<a href="/units/Monk">僧侶</a>
               <a
-              href="Heros.php">英雄</a>。實際上他代表的是1046年-1066年統治<a href="Vikings.php">挪威</a>的國王<strong>無情者哈拉爾</strong>（即遊戲中的<strong>哈羅德哈佐德</strong>）。哈拉爾沒辦法拾取
+              href="/Heros.php">英雄</a>。實際上他代表的是1046年-1066年統治<a href="/civs/Vikings">挪威</a>的國王<strong>無情者哈拉爾</strong>（即遊戲中的<strong>哈羅德哈佐德</strong>）。哈拉爾沒辦法拾取
                 <a
-                href="Relic.php">遺跡</a>，不過移動的速度是一般僧侶的兩倍，招降速度也比較快。他也會受到所有強化僧侶的科技影響，最多可以有113點血量、8招降範圍。但與其他僧侶不同的是，哈拉爾的單位語音使用的是軍事單位的語音。在《征服者入侵》資料片後，哈拉爾就完全從遊戲中被移除，並以
+                href="/Relic">遺跡</a>，不過移動的速度是一般僧侶的兩倍，招降速度也比較快。他也會受到所有強化僧侶的科技影響，最多可以有113點血量、8招降範圍。但與其他僧侶不同的是，哈拉爾的單位語音使用的是軍事單位的語音。在《征服者入侵》資料片後，哈拉爾就完全從遊戲中被移除，並以
                   <a
-                  href="Berserk.php">狂戰士</a>英雄<a href="Harald Hardraade">哈羅德哈佐德</a>取代。</div>
+                  href="/units/Berserk">狂戰士</a>英雄<a href="/Harald Hardraade">哈羅德哈佐德</a>取代。</div>
         </div>
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
@@ -39,8 +39,8 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Monk.php">僧侶</a>
-                <br/><a href="Heros.php">英雄</a>
+              <td class="unit4"><a href="/units/Monk">僧侶</a>
+                <br/><a href="/Heros.php">英雄</a>
               </td>
             </tr>
             <tr>

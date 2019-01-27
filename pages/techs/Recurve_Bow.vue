@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            反曲弓是<a href="Magyars.php">馬扎爾</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            反曲弓是<a href="/civs/Magyars">馬扎爾</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Cavalry_Archer.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/Cavalry_units/Archer"
               >馬弓騎兵</a
             >射程和攻擊各+1。
           </p>
@@ -25,18 +25,18 @@
         <div class="n1">
           <ul>
             <li>
-              有反曲弓加成的馬弓騎兵擁有和<a href="Arbalest.php">強弩兵</a
+              有反曲弓加成的馬弓騎兵擁有和<a href="/units/Arbalest">強弩兵</a
               >一樣的射程，讓他們能更好地執行打帶跑。反曲弓可以看做是一種
-              <a href="Blacksmith.php">兵工廠</a>的升級，但還是優先研發<a
-                href="Fletching.php"
+              <a href="/building/Blacksmith">兵工廠</a>的升級，但還是優先研發<a
+                href="/techs/Fletching"
                 >箭羽</a
-              >、<a href="Bodkin_Arrow.php">錐狀箭頭</a>和
-              <a href="Bracer.php">護腕</a
+              >、<a href="/techs/Bodkin_Arrow">錐狀箭頭</a>和
+              <a href="/techs/Bracer">護腕</a
               >因為這三樣不僅有加成所有範圍單位、有加攻擊力、最重要是花費比反曲弓便宜。
             </li>
             <li>
-              反曲弓讓馬札爾的馬騎弓兵可以與<a href="Turks.php">土耳其</a>和<a
-                href="Mongols.php"
+              反曲弓讓馬札爾的馬騎弓兵可以與<a href="/civs/Turks">土耳其</a>和<a
+                href="/civs/Mongols"
                 >蒙古</a
               >的並列遊戲中最佳的馬騎弓兵。
             </li>
@@ -47,7 +47,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速反曲弓的研究時間(快25%)。
             </li>
           </ul>
@@ -56,13 +57,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>反曲弓只讓馬弓騎兵攻擊+1。</li>
           </ul>
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>5.5改版後反曲弓會讓馬弓騎兵攻擊和射程都+1。</li>
@@ -73,7 +74,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">反曲弓</a></div>
+              <div class="unititle"><a href="#">反曲弓</a></div>
             </td>
           </tr>
           <tr>
@@ -85,12 +86,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Magyars.php">馬扎爾</a></td>
+            <td class="unit4"><a href="/civs/Magyars">馬扎爾</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -99,14 +100,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -117,7 +118,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -130,7 +131,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

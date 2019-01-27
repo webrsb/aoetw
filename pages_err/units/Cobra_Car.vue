@@ -56,7 +56,7 @@
               <table class="table-bordered" width="100%">
                 <tr>
                   <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                    <div class="unititle"><a href="">眼鏡蛇車</a>
+                    <div class="unititle"><a href="#">眼鏡蛇車</a>
                     </div>
                   </td>
                 </tr>
@@ -74,7 +74,7 @@
                 </tr>
                 <tr>
                   <td class="unit3">類型</td>
-                  <td class="unit4"><a href="Gunpowder_Unit.php">攻城武器</a>
+                  <td class="unit4"><a href="/units/Gunpowder_Unit">攻城武器</a>
                   </td>
                 </tr>
                 <tr>
@@ -100,7 +100,7 @@
                 </tr>
                 <tr>
                   <td class="unit3">攻擊加成</td>
-                  <td>+10對 <a href="bulding.php">建築</a>
+                  <td>+10對 <a href="/building/bulding">建築</a>
                   </td>
                 </tr>
                 <tr>
@@ -129,7 +129,7 @@
                   <td class="unit4">10</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
+                  <td class="unit3"><a href="/Armor_Class.php">防禦類型</a>
                   </td>
                   <td class="unit4">攻城武器(+50)
                     <td>
@@ -140,7 +140,7 @@
                   <td class="unit4">4.5</td>
                 </tr>
                 <tr>
-                  <td class="unit3"><a href="los.php">視野</a>
+                  <td class="unit3"><a href="/los.php">視野</a>
                   </td>
                   <td class="unit4">12</td>
                 </tr>

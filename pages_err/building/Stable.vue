@@ -10,66 +10,66 @@
         </div>
         <div class="col-md-8">
           <div class="n1">馬廄是生產騎兵與升級騎兵的建築。
-            <br/>除<a href="Aztecs.php">阿茲特克</a>，<a href="Incas.php">印加</a>和<a href="Mayans.php">馬雅</a>之外，所有文明都有馬廄。</div>
+            <br/>除<a href="/civs/Aztecs">阿茲特克</a>，<a href="/civs/Incas">印加</a>和<a href="/civs/Mayans">馬雅</a>之外，所有文明都有馬廄。</div>
           <h3>可訓練的單位與技術</h3>
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-4">
               <div class="n1">
-                 <h4><a href="Feudal_Age.php"></a>封建時代</h4> 
+                 <h4><a href="/techsage/Feudal_Age"></a>封建時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/ScoutCavalryIcon.jpg"><a href="Scout_Cavalry.php">斥候</a>
+                    <img class="gg" src="~assets/ScoutCavalryIcon.jpg"><a href="/units/Scout_Cavalry">斥候</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Bloodlines.png" alt=""><a href="Bloodlines.php">品種</a>
+                    <img class="gg" src="~assets/Bloodlines.png" alt=""><a href="/techs/Bloodlines">品種</a>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-md-4">
               <div class="n1">
-                 <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
+                 <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/LightCavalryIcon.jpg"><a href="Light_Cavalry.php">輕騎兵</a>
+                    <img class="gg" src="~assets/LightCavalryIcon.jpg"><a href="/units/Light_Cavalry">輕騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/KnightIcon.jpg"><a href="Knight.php">騎士</a>
+                    <img class="gg" src="~assets/KnightIcon.jpg"><a href="/units/Knight">騎士</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/CamelIcon.jpg"><a href="Camel.php">駱駝騎兵</a>
+                    <img class="gg" src="~assets/CamelIcon.jpg"><a href="/units/Camel">駱駝騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Battleelephanticon.png"><a href="Battle_Elephant.php">矛象伕</a>
+                    <img class="gg" src="~assets/Battleelephanticon.png"><a href="/units/Battle_Elephant">矛象伕</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Husbandry.jpg" alt=""><a href="Husbandry.php">畜牧培育</a>
+                    <img class="gg" src="~assets/Husbandry.jpg" alt=""><a href="/techs/Husbandry">畜牧培育</a>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-md-4">
               <div class="n1">
-                 <h4><a href="Imperial_Age.php"></a>帝王時代</h4> 
+                 <h4><a href="/techsage/Imperial_Age"></a>帝王時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HussarIcon.jpg"><a href="Hussar.php">匈牙利輕騎兵</a>
+                    <img class="gg" src="~assets/HussarIcon.jpg"><a href="/Hustree/sar">匈牙利輕騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/CavalierIcon.jpg"><a href="Cavalier.php">騎兵</a>
+                    <img class="gg" src="~assets/CavalierIcon.jpg"><a href="/units/Cavalier">騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/PaladinIcon.jpg"><a href="Paladin.php">遊俠</a>
+                    <img class="gg" src="~assets/PaladinIcon.jpg"><a href="/units/Paladin">遊俠</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/HeavyCamelIcon.jpg"><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
+                    <img class="gg" src="~assets/HeavyCamelIcon.jpg"><a href="/Heavy_units/Camel">重裝駱駝騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/ImperialCamelIcon.jpg"><a href="Imperial_Camel.php">帝王駱駝騎兵</a>
+                    <img class="gg" src="~assets/ImperialCamelIcon.jpg"><a href="/Imperial_units/Camel">帝王駱駝騎兵</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Battleelephanticon.png"><a href="Elite_Battle_Elephant.php">精銳矛象伕</a>
+                    <img class="gg" src="~assets/Battleelephanticon.png"><a href="/Elite_units/Battle_Elephant">精銳矛象伕</a>
                   </li>
                 </ul>
               </div>
@@ -100,83 +100,83 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(+10%)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
                 <br/>
-                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
             <tr>
               <td class="tta1">工作效率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
+                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="/techs/Conscription">徵兵制度</a>(+33%)
                 <br/>
-                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Chivalry.php">騎士精神</a>:馬廄工作速率快40%，<a href="Franks.php">法蘭克</a>限定</td>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="/techs/Chivalry">騎士精神</a>:馬廄工作速率快40%，<a href="/civs/Franks">法蘭克</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">其他</td>
               <td class="tta4">
-                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Marauders.php">掠奪者</a>:<a href="Tarkan.php">韃靼騎兵</a>可在馬廄訓練，
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="/techs/Marauders">掠奪者</a>:<a href="/units/Tarkan">韃靼騎兵</a>可在馬廄訓練，
                 <a
-                href="Huns.php">匈奴</a>限定</td>
+                href="/civs/Huns">匈奴</a>限定</td>
             </tr>
           </table>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Burmese.php">緬甸</a>：研發<a href="Faith.php">忠誠信仰</a>便宜50%。</li>
-              <li><a href="Byzantines.php">拜占庭</a>：射箭場在封建/城堡/帝王時代多20%/30%/40%的血量。</li>
-              <li><a href="Chinese.php">中國</a>：對馬廄有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。</li>
-              <li><a href="Khmer.php">高棉</a>：蓋馬廄不用 <a href="Barracks.php">軍營</a>。</li>
-              <li><a href="Persians.php">波斯</a>：研發<a href="Town_Watch.php">城鎮暸望</a>和<a href="Town_Patrol.php">城鎮巡邏</a>的速度在封建/城堡/帝王快10%/15%/20%。</li>
-              <li><a href="Spanish.php">西班牙</a>：馬厩建造速度提高30％。</li>
-              <li><a href="Vietnamese.php">越南</a>：免費<a href="Conscription.php">徵兵制度</a>。</li>
+              <li><a href="/civs/Burmese">緬甸</a>：研發<a href="/techs/Faith">忠誠信仰</a>便宜50%。</li>
+              <li><a href="/civs/Byzantines">拜占庭</a>：射箭場在封建/城堡/帝王時代多20%/30%/40%的血量。</li>
+              <li><a href="/civs/Chinese">中國</a>：對馬廄有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。</li>
+              <li><a href="/civs/Khmer">高棉</a>：蓋馬廄不用 <a href="/building/Barracks">軍營</a>。</li>
+              <li><a href="/civs/Persians">波斯</a>：研發<a href="/techs/Town_Watch">城鎮暸望</a>和<a href="/techs/Town_Patrol">城鎮巡邏</a>的速度在封建/城堡/帝王快10%/15%/20%。</li>
+              <li><a href="/civs/Spanish">西班牙</a>：馬厩建造速度提高30％。</li>
+              <li><a href="/civs/Vietnamese">越南</a>：免費<a href="/techs/Conscription">徵兵制度</a>。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Huns.php">匈奴</a>：馬厩的團隊工作速度提高了20％。</li>
-              <li><a href="Malians.php">馬利</a>：研究<a href="Masonry.php">磚瓦技術</a>，<a href="Architecture.php">建築學</a>和
+              <li><a href="/civs/Huns">匈奴</a>：馬厩的團隊工作速度提高了20％。</li>
+              <li><a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry">磚瓦技術</a>，<a href="/techs/Architecture">建築學</a>和
                 <a
-                href="Treadmill_Crane.php">滑輪起重機</a>的速度快80％。</li>
-              <li><a href="Slavs.php">斯拉夫</a>：馬廄可提供5人口</li>
+                href="/techs/Treadmill_Crane">滑輪起重機</a>的速度快80％。</li>
+              <li><a href="/civs/Slavs">斯拉夫</a>：馬廄可提供5人口</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
             <ul>
-              <li><a href="Franks.php">法蘭克</a>：引入<a href="Chivalry.php">騎士精神</a>。</li>
-              <li><a href="Huns.php">匈奴</a>：引入<a href="Marauders.php">掠奪者</a>。</li>
+              <li><a href="/civs/Franks">法蘭克</a>：引入<a href="/techs/Chivalry">騎士精神</a>。</li>
+              <li><a href="/civs/Huns">匈奴</a>：引入<a href="/techs/Marauders">掠奪者</a>。</li>
             </ul>
           </div>
           <h3>歷史</h3>
@@ -189,7 +189,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><a href="">馬廄</a>
+                <div class="unititle"><a href="#">馬廄</a>
                 </div>
               </td>
             </tr>
@@ -202,7 +202,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><a href="">概要</a>
+                <div class="unititle"><a href="#">概要</a>
                 </div>
               </td>
             </tr>
@@ -216,12 +216,12 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="Feudal_Age.php">封建時代</a>
+              <td class="unit4"><a href="/techsage/Feudal_Age">封建時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">前置建築</td>
-              <td class="unit4"><a href="Barracks.php">軍營</a>
+              <td class="unit4"><a href="/building/Barracks">軍營</a>
               </td>
             </tr>
             <tr>
@@ -230,7 +230,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>
@@ -240,7 +240,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">數據</a>
+                <div class="unititle2"><a href="#">數據</a>
                 </div>
               </td>
             </tr>
@@ -281,8 +281,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="Armor_Class_Building.php">建築</a>
-                <br/> <a href="Armor_Class_standard_building.php">標準建築</a>
+              <td class="unit4"><a href="/armor/Armor_Class_Building">建築</a>
+                <br/> <a href="/Armor_Class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -296,21 +296,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/StableFeudalAgeHD.png"><img class="imgn hg" width="180" src="~assets/StableFeudalAgeHD.png" alt=""></a> 
+            <div class="col-md-4"> <a href="/img/StableFeudalAgeHD.png"><img class="imgn hg" width="180" src="~assets/StableFeudalAgeHD.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有封建時代的馬廄(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/StableFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/StableFeudalAgeDLC.png" alt=""></a> 
+          <div class="col-md-4"> <a href="/img/StableFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/StableFeudalAgeDLC.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有封建時代的馬廄(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Stableaok.png"><img class="imgn hg" width="200" src="~assets/Stableaok.png" alt=""></a> 
+        <div class="col-md-4"> <a href="/img/Stableaok.png"><img class="imgn hg" width="200" src="~assets/Stableaok.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:185px" ;>
             <p><em>所有城堡時代的馬廄(帝王世紀和征服者入侵資料片)。</em>
@@ -319,14 +319,14 @@
       </div>
     </div>
     <div class="col-md-12">
-      <div class="col-md-4"> <a href="img/Stablehd.png"><img class="imgn hg" width="200" src="~assets/Stablehd.png" alt=""></a> 
+      <div class="col-md-4"> <a href="/img/Stablehd.png"><img class="imgn hg" width="200" src="~assets/Stablehd.png" alt=""></a> 
         <div
         class="lightbox-caption" style="width:220px" ;>
           <p><em>所有城堡時代的馬廄(HD擴充資料片)。</em>
           </p>
       </div>
     </div>
-    <div class="col-md-4"> <a href="img/Spritesheet_stable.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_stable.png" alt=""></a> 
+    <div class="col-md-4"> <a href="/img/Spritesheet_stable.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_stable.png" alt=""></a> 
       <div
       class="lightbox-caption" style="width:185px" ;>
         <p><em>馬廄在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>

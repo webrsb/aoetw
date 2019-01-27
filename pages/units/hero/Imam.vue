@@ -12,20 +12,20 @@
         <div class="n1">
           <p>
             <strong>伊滿</strong>是一名在《世紀帝國II：征服者入侵》的<a
-              href="El_Cid"
+              href="/El_Cid"
               >席德</a
-            >戰役中，<a href="The_Enemy_of_my_Enemy.php">我敵人的敵人</a
-            >這一關中登場的英雄 <a href="heros.php">英雄</a>。在<a
-              href="Sundjataa.php"
+            >戰役中，<a href="/batt/The_Enemy_of_my_Enemy">我敵人的敵人</a
+            >這一關中登場的英雄 <a href="/units/hero">英雄</a>。在<a
+              href="/batt/Sundjataa"
               >松迪亞塔</a
-            >戰役的<a href="Djeriba_Gold.php">傑爾巴島的黃金</a
+            >戰役的<a href="/batt/Djeriba_Gold">傑爾巴島的黃金</a
             >這關中也有一名伊滿登場。
           </p>
           <p>
             伊滿所代表的是伊斯蘭教的教長，是在清真寺中帶領穆斯林做禮拜的人。
           </p>
           <p>
-            伊滿是數值更優秀的<a href="Monk.php">僧侶</a
+            伊滿是數值更優秀的<a href="/units/Monk">僧侶</a
             >。在征服者入侵中他使用的是一般僧侶的模形，不過到了被遺忘的帝國以後他就有了獨立的模形。伊滿也可以在地圖編輯器中使用。
           </p>
           <p>
@@ -37,7 +37,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">伊滿</a></div>
+              <div class="unititle"><a href="#">伊滿</a></div>
             </td>
           </tr>
           <tr>
@@ -55,7 +55,9 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="Monk.php">僧侶</a> <br /><a href="heros.php">英雄</a>
+              <a href="/units/Monk">僧侶</a> <br /><a href="/units/hero"
+                >英雄</a
+              >
             </td>
           </tr>
           <tr>
@@ -115,7 +117,7 @@
               <i
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%8E%9B%E7%9B%AE"
+                    href="/https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%8E%9B%E7%9B%AE"
                     >伊滿</a
                   ></strong
                 ></i

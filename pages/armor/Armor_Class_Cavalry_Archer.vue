@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於馬弓騎兵系裝甲的。而關於馬弓騎兵這個單位請參見<a
-              href="Cavalry_Archer.php"
+              href="/Cavalry_units/Archer"
               >馬弓騎兵</a
             ></em
           >
@@ -31,15 +31,16 @@
           <ul>
             <li>
               <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-              <a href="Cavalry_Archer.php">馬弓騎兵</a>→
+              <a href="/Cavalry_units/Archer">馬弓騎兵</a>→
               <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-              <a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>
+              <a href="/Heavy_Cavalry_units/Archer">重裝馬弓騎兵</a>
             </li>
             <li>
               <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-              <a href="Genitour.php">標槍騎兵</a>(1)→
+              <a href="/units/Genitour">標槍騎兵</a>(1)→
               <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-              <a href="Genitour.php">精銳標槍騎兵</a>(1)(<a href="Berbers.php"
+              <a href="/units/Genitour">精銳標槍騎兵</a>(1)(<a
+                href="/civs/Berbers"
                 >柏柏</a
               >及其同盟限定)
             </li>
@@ -50,7 +51,8 @@
                 width="22"
                 src="~assets/MangudaiIcon.jpg"
                 alt=""
-              /><a href="Mangudai.php">蒙古突騎(精銳)</a>(<a href="Mongols.php"
+              /><a href="/units/Mangudai">蒙古突騎(精銳)</a>(<a
+                href="/civs/Mongols"
                 >蒙古</a
               >限定)
             </li>
@@ -60,7 +62,8 @@
                 style="margin: 2px;"
                 src="~assets/WarWagonIcon.jpg"
                 alt=""
-              /><a href="War_Wagon.php">馬戰車(精銳)</a>(<a href="Koreans.php"
+              /><a href="/units/War_Wagon">馬戰車(精銳)</a>(<a
+                href="/civs/Koreans"
                 >韓國</a
               >限定)
             </li>
@@ -70,8 +73,8 @@
                 style="margin: 2px;"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><a href="Elephant_Archer.php">象弓騎兵(精銳)</a>(<a
-                href="Indians.php"
+              /><a href="/Elephant_units/Archer">象弓騎兵(精銳)</a>(<a
+                href="/civs/Indians"
                 >印度</a
               >限定)
             </li>
@@ -81,8 +84,8 @@
                 style="margin: 2px;"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><a href="Camel_Archer.php">駱駝弓騎兵(精銳)</a>(<a
-                href="Berbers.php"
+              /><a href="/Camel_units/Archer">駱駝弓騎兵(精銳)</a>(<a
+                href="/civs/Berbers"
                 >柏柏</a
               >限定)
             </li>
@@ -92,7 +95,8 @@
                 style="margin: 2px;"
                 src="~assets/Arambaiicon.png"
                 alt=""
-              /><a href="Arambai.php">飛鏢騎兵(精銳)</a>(<a href="Burmese.php"
+              /><a href="/units/Arambai">飛鏢騎兵(精銳)</a>(<a
+                href="/civs/Burmese"
                 >緬甸</a
               >限定)
             </li>
@@ -113,8 +117,8 @@
                       style="margin: 2px;"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><a href="Camel_Archer.php">精銳駱駝弓騎兵</a>(<a
-                      href="Berbers.php"
+                    /><a href="/Camel_units/Archer">精銳駱駝弓騎兵</a>(<a
+                      href="/civs/Berbers"
                       >柏柏</a
                     >限定)
                   </li>
@@ -127,8 +131,8 @@
                       style="margin: 2px;"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><a href="Camel_Archer.php">駱駝弓騎兵</a>(<a
-                      href="Berbers.php"
+                    /><a href="/Camel_units/Archer">駱駝弓騎兵</a>(<a
+                      href="/civs/Berbers"
                       >柏柏</a
                     >限定)
                   </li>
@@ -141,8 +145,8 @@
                       src="~assets/Imperialskirmishericon.png"
                       alt=""
                     />
-                    <a href="Imperial_Skirmisher.php">帝王戰矛兵</a> (<a
-                      href="Vietnamese.php"
+                    <a href="/units/Imperial_Skirmisher">帝王戰矛兵</a> (<a
+                      href="/civs/Vietnamese"
                       >越南</a
                     >及同盟限定)
                   </li>
@@ -155,13 +159,13 @@
                       src="~assets/EliteSkirmisherIcon.jpg"
                       alt=""
                     />
-                    <a href="Elite_Skirmisher.php">戰矛兵</a>
+                    <a href="/units/Elite_Skirmisher">戰矛兵</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/GenitourIcon.jpg" alt="" />
-                    <a href="Genitour.php">精銳標槍騎兵</a>
+                    <a href="/units/Genitour">精銳標槍騎兵</a>
                   </li>
-                  (<a href="Berbers.php">柏柏</a
+                  (<a href="/civs/Berbers">柏柏</a
                   >及同盟限定)
                 </ul>
               </div>

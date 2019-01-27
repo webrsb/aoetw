@@ -10,7 +10,7 @@
             </td>
           </tr>
           <tr>
-          <td style="text-align: center;padding: 20px "><a href="Food.php">食物·</a><a href="Wood.php">木材·</a><a href="Gold.php">金礦·</a><a href="Stone.php">石礦</a>
+          <td style="text-align: center;padding: 20px "><a href="/resource/Food">食物·</a><a href="/resource/Wood">木材·</a><a href="/resource/Gold">金礦·</a><a href="/resource/Stone">石礦</a>
           </td>
           </tr>
         </table>

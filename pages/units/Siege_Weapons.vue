@@ -46,51 +46,51 @@
           <ul>
             <li>
               <img class="gg" src="~assets/BatteringRamIcon.jpg" alt="" />
-              <a href="Battering_Ram.php">輕型衝撞車</a>
+              <a href="/units/Battering_Ram">輕型衝撞車</a>
             </li>
             <li>
               <img class="gg" src="~assets/BombardCannonIcon.jpg" alt="" />
-              <a href="Bombard_Cannon.php">火砲</a>
+              <a href="/units/Bombard_Cannon">火砲</a>
             </li>
             <li>
               <img class="gg" src="~assets/PetardIcon.jpg" alt="" />
-              <a href="Petard.php">爆炸桶</a>
+              <a href="/units/Petard">爆炸桶</a>
             </li>
             <li>
               <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt="" />
-              <a href="Trebuchet.php">投石機</a>
+              <a href="/units/Trebuchet">投石機</a>
             </li>
           </ul>
           <strong>對單位</strong>
           <ul>
             <li>
               <img class="gg" src="~assets/MangonelIcon.jpg" alt="" />
-              <a href="Mangonel.php">投石車</a>
+              <a href="/units/Mangonel">投石車</a>
             </li>
             <li>
               <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" />
-              <a href="Scorpion.php">弩砲</a>
+              <a href="/units/Scorpion">弩砲</a>
             </li>
             <li>
               <img class="gg" src="~assets/BombardCannonIcon.jpg" alt="" />
-              <a href="Bombard_Cannon.php">火砲</a>
+              <a href="/units/Bombard_Cannon">火砲</a>
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><a
-                href="Organ_Gun.php"
+                href="/units/Organ_Gun"
                 >手風琴砲</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/Ballistaelephanticon.png" alt="" /><a
-                href="Organ_Gun.php"
+                href="/units/Organ_Gun"
                 >弩砲象</a
               >
             </li>
           </ul>
           <ul>
             <p>
-              從非洲王朝資料片開始，<a href="Siege_Tower.php">攻城塔</a
+              從非洲王朝資料片開始，<a href="/units/Siege_Tower">攻城塔</a
               >無法攻擊敵方建築或單位，所以無法歸類在上面兩類。而在失落的帝國資料片攻城塔可以開火，然而他們的主要目的還是運送部隊，所以還是不歸類於以上兩種。
             </p>
             <p>
@@ -105,13 +105,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <a href="Slavs.php">斯拉夫</a>、<a href="Celts.php">賽爾特</a>和<a
-              href="Ethiopians.php"
-              >衣索比亞</a
-            >因為他們的文明加成和
-            <a href="Unique_Unit.php">獨特技術</a
+            <a href="/civs/Slavs">斯拉夫</a>、<a href="/civs/Celts">賽爾特</a
+            >和<a href="/civs/Ethiopians">衣索比亞</a>因為他們的文明加成和
+            <a href="/units/Unique_Unit">獨特技術</a
             >擁有最好的攻城武器。衣索比亞是唯一能夠使用<a
-              href="Siege_Workshop.php"
+              href="/building/Siege_Workshop"
               >攻城器製造</a
             >所所有單位的文明。
           </p>
@@ -121,18 +119,20 @@
         <div class="n1">
           <p>以下列出攻城武器有加成的文明</p>
           <ul>
-            <li><a href="Celts.php">賽爾特</a>：攻城武器開火速率快20%。</li>
+            <li><a href="/civs/Celts">賽爾特</a>：攻城武器開火速率快20%。</li>
             <li>
-              <a href="Chinese.php">中國</a>：<a href="Demolition_Ship.php"
+              <a href="/civs/Chinese">中國</a>：<a href="/units/Demolition_Ship"
                 >神風船</a
               >+50% HP。
             </li>
-            <li><a href="Huns.php">匈奴</a>：巨型投石機命中率+30%。</li>
-            <li><a href="Slavs.php">斯拉夫</a>：攻城器製造所的單位便宜15%。</li>
+            <li><a href="/civs/Huns">匈奴</a>：巨型投石機命中率+30%。</li>
             <li>
-              <a href="Spanish.php">西班牙</a>:<a href="Cannon_Galleon.php"
+              <a href="/civs/Slavs">斯拉夫</a>：攻城器製造所的單位便宜15%。
+            </li>
+            <li>
+              <a href="/civs/Spanish">西班牙</a>:<a href="/units/Cannon_Galleon"
                 >火炮戰船</a
-              >有 <a href="Ballistics.php">彈道學</a>加成。
+              >有 <a href="/techs/Ballistics">彈道學</a>加成。
             </li>
           </ul>
         </div>
@@ -141,13 +141,15 @@
         <div class="n1">
           <p>以下列出攻城武器的團隊加成</p>
           <ul>
-            <li><a href="Celts.php">賽爾特</a>：攻城器製造所工作速率快20%。</li>
             <li>
-              <a href="Khmer.php">高棉</a>：<a href="Scorpion.php">弩炮</a
+              <a href="/civs/Celts">賽爾特</a>：攻城器製造所工作速率快20%。
+            </li>
+            <li>
+              <a href="/civs/Khmer">高棉</a>：<a href="/units/Scorpion">弩炮</a
               >射程+1。
             </li>
             <li>
-              <a href="Koreans.php">韓國</a>：投石車最小射程範圍從3改為1。
+              <a href="/civs/Koreans">韓國</a>：投石車最小射程範圍從3改為1。
             </li>
           </ul>
         </div>
@@ -168,7 +170,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/BatteringRamIcon.jpg" /><a
-                  href="Battering_Ram.php"
+                  href="/units/Battering_Ram"
                   >輕型衝撞車</a
                 >
               </td>
@@ -190,7 +192,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CappedRamIcon.jpg" /><a
-                  href="Capped_Ram.php"
+                  href="/units/Capped_Ram"
                   >裝甲衝撞車</a
                 >
               </td>
@@ -212,7 +214,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/SiegeRamIcon.jpg" /><a
-                  href="Siege_Ram.php"
+                  href="/units/Siege_Ram"
                   >重型衝撞車</a
                 >
               </td>
@@ -234,7 +236,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/MangonelIcon.jpg" /><a
-                  href="Mangonel.php"
+                  href="/units/Mangonel"
                   >輕型投石車</a
                 >
               </td>
@@ -256,7 +258,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/OnagerIcon.jpg" /><a
-                  href="Onager.php"
+                  href="/units/Onager"
                   >中型投石車</a
                 >
               </td>
@@ -278,7 +280,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/SiegeOnagerIcon.jpg" /><a
-                  href="Siege_Onager.php"
+                  href="/Siege_units/Onager"
                   >重型投石車</a
                 >
               </td>
@@ -300,7 +302,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ScorpionIcon.jpg" /><a
-                  href="Scorpion.php"
+                  href="/units/Scorpion"
                   >弩炮</a
                 >
               </td>
@@ -322,7 +324,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HeavyScorpionIcon.jpg" /><a
-                  href="Heavy_Scorpion.php"
+                  href="/units/Heavy_Scorpion"
                   >重型弩炮</a
                 >
               </td>
@@ -344,7 +346,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/Siegetowericon.png" /><a
-                  href="Siege_Tower.php"
+                  href="/units/Siege_Tower"
                   >攻城塔</a
                 >
               </td>
@@ -366,7 +368,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/BombardCannonIcon.jpg" /><a
-                  href="Bombard_Cannon.php"
+                  href="/units/Bombard_Cannon"
                   >火炮</a
                 >
               </td>
@@ -388,7 +390,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/PetardIcon.jpg" /><a
-                  href="Petard.php"
+                  href="/units/Petard"
                   >爆炸桶</a
                 >
               </td>
@@ -410,7 +412,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" /><a
-                  href="Trebuchet.php"
+                  href="/units/Trebuchet"
                   >巨型投石機(拆裝)</a
                 >
               </td>
@@ -435,7 +437,7 @@
                   class="gg"
                   width="22"
                   src="~assets/TrebuchetUnpackedIcon.jpg"
-                /><a href="Trebuchet.php">巨型投石機(組裝)</a>
+                /><a href="/units/Trebuchet">巨型投石機(組裝)</a>
               </td>
               <td class="tta3">150</td>
               <!--生命值!-->
@@ -455,7 +457,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" width="22" src="~assets/OrganGunIcon.jpg" /><a
-                  href="Organ_Gun.php"
+                  href="/units/Organ_Gun"
                   >風琴炮</a
                 >
               </td>
@@ -477,7 +479,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" width="22" src="~assets/OrganGunIcon.jpg" /><a
-                  href="Organ_Gun.php"
+                  href="/units/Organ_Gun"
                   >精銳風琴炮</a
                 >
               </td>
@@ -502,7 +504,7 @@
                   class="gg"
                   width="22"
                   src="~assets/Ballistaelephanticon.png"
-                /><a href="Organ_Gun.php">弩砲象</a>
+                /><a href="/units/Organ_Gun">弩砲象</a>
               </td>
               <td class="tta3">250</td>
               <!--生命值!-->
@@ -525,7 +527,7 @@
                   class="gg"
                   width="22"
                   src="~assets/Ballistaelephanticon.png"
-                /><a href="Organ_Gun.php">精銳弩砲象</a>
+                /><a href="/units/Organ_Gun">精銳弩砲象</a>
               </td>
               <td class="tta3">290</td>
               <!--生命值!-->
@@ -557,7 +559,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                  href="Siege_Engineers.php"
+                  href="/techs/Siege_Engineers"
                   >攻城工程師</a
                 >
               </td>
@@ -570,7 +572,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Chemistry.jpg" alt="" /><a
-                  href="Chemistry.php"
+                  href="/techs/Chemistry"
                   >化學</a
                 >
               </td>
@@ -583,7 +585,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Heresy.png" alt="" /><a
-                  href="Heresy.php"
+                  href="/techs/Heresy"
                   >異端邪說</a
                 >
               </td>
@@ -594,7 +596,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Faith.jpg" alt="" /><a
-                  href="Faith.php"
+                  href="/techs/Faith"
                   >忠誠信仰</a
                 >
               </td>
@@ -605,7 +607,7 @@
             <tr>
               <td class="tunitc6">
                 <img class="gg" src="~assets/Conscription.jpg" alt="" /><a
-                  href="Conscription.php"
+                  href="/techs/Conscription"
                   >徵兵制度</a
                 >
               </td>
@@ -628,33 +630,33 @@
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/CastleAgeUnique.png" class="gg" alt="" /><a
-                    href="Berbers.php"
+                    href="/civs/Berbers"
                     >柏柏</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Kasbah.php">聚居堡壘</a></td>
+                <td class="tunitc4"><a href="/techs/Kasbah">聚居堡壘</a></td>
                 <td class="tunitc5">250F 250G</td>
                 <td class="tunitc6">團隊的城堡工作效率快25%</td>
               </tr>
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/CastleAgeUnique.png" class="gg" alt="" /><a
-                    href="Teutons.php"
+                    href="/civs/Teutons"
                     >條頓</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Ironclad.php">鋼鐵甲</a></td>
+                <td class="tunitc4"><a href="/techs/Ironclad">鋼鐵甲</a></td>
                 <td class="tunitc5">400W 350G。</td>
                 <td class="tunitc6">攻城武器近戰護甲+4。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Britons.php"
+                    href="/civs/Britons"
                     >不列顛</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Warwolf.php">戰狼</a></td>
+                <td class="tunitc4"><a href="/techs/Warwolf">戰狼</a></td>
                 <td class="tunitc5">500W 250G</td>
                 <td class="tunitc6">
                   巨型投石機有範圍傷害，對靜止單位有100%命中率。
@@ -663,12 +665,12 @@
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Celts.php"
+                    href="/civs/Celts"
                     >賽爾特</a
                   >
                 </td>
                 <td class="tunitc4">
-                  <a href="Furor_Celtica.php">賽爾特狂暴</a>
+                  <a href="/techs/Furor_Celtica">賽爾特狂暴</a>
                 </td>
                 <td class="tunitc5">750F 450G</td>
                 <td class="tunitc6">攻城器製造所的單位+40% HP。</td>
@@ -676,23 +678,23 @@
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Chinese.php"
+                    href="/civs/Chinese"
                     >中國</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Rocketry.php">火箭術</a></td>
+                <td class="tunitc4"><a href="/techs/Rocketry">火箭術</a></td>
                 <td class="tunitc5">750W 750G</td>
                 <td class="tunitc6">中國連弩兵攻擊+2，弩炮攻擊+4。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Ethiopians.php"
+                    href="/civs/Ethiopians"
                     >衣索比亞</a
                   >
                 </td>
                 <td class="tunitc4">
-                  <a href="Torsion_Engines.php">扭力彈射器</a>
+                  <a href="/techs/Torsion_Engines">扭力彈射器</a>
                 </td>
                 <td class="tunitc5">1000F 600G</td>
                 <td class="tunitc6">
@@ -702,55 +704,55 @@
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Japanese.php"
+                    href="/civs/Japanese"
                     >日本</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Kataparuto.php">彈射器</a></td>
+                <td class="tunitc4"><a href="/techs/Kataparuto">彈射器</a></td>
                 <td class="tunitc5">750F 400G</td>
                 <td class="tunitc6">巨型投石機組裝/拆解速度加快。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Koreans.php"
+                    href="/civs/Koreans"
                     >韓國</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Shinkichon.php">神機箭</a></td>
+                <td class="tunitc4"><a href="/techs/Shinkichon">神機箭</a></td>
                 <td class="tunitc5">800W 500G</td>
                 <td class="tunitc6">投石車射程+1。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Mongols.php"
+                    href="/civs/Mongols"
                     >蒙古</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Drill.php">演習</a></td>
+                <td class="tunitc4"><a href="/techs/Drill">演習</a></td>
                 <td class="tunitc5">500F 450G</td>
                 <td class="tunitc6">攻城器製造所的單位移動速度+50%。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Saracens.php"
+                    href="/civs/Saracens"
                     >薩拉森</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Arquebus.php">火繩槍</a></td>
+                <td class="tunitc4"><a href="/techs/Arquebus">火繩槍</a></td>
                 <td class="tunitc5">700F 400G</td>
                 <td class="tunitc6">火藥單位對移動目標的命中率提升。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
                   <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                    href="Turks.php"
+                    href="/civs/Turks"
                     >土耳其</a
                   >
                 </td>
-                <td class="tunitc4"><a href="Artillery.php">砲兵</a></td>
+                <td class="tunitc4"><a href="/techs/Artillery">砲兵</a></td>
                 <td class="tunitc5">500G 450S</td>
                 <td class="tunitc6">火炮塔、火炮戰船和火炮射程+2。</td>
               </tr>
@@ -763,7 +765,7 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-4">
-                <a href="img/Siegeunitssiegeworkshop.png"
+                <a href="/img/Siegeunitssiegeworkshop.png"
                   ><img
                     class="imgn hg"
                     width="180"
@@ -775,7 +777,7 @@
                 </div>
               </div>
               <div class="col-md-4">
-                <a href="img/Siegeunitscastle.png"
+                <a href="/img/Siegeunitscastle.png"
                   ><img
                     class="imgn hg"
                     width="200"

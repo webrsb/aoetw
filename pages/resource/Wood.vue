@@ -36,38 +36,38 @@
         <div class="n1">
           <p>可加速收集石礦速度的科技:</p>
           <ul>
-            <li><a href="Double-Bit_Axe.php">雙刃斧</a></li>
-            <li><a href="Bow_Saw.php">弓鋸</a></li>
-            <li><a href="Two-Man_Saw.php">雙人鋸</a></li>
+            <li><a href="/techs/Double-Bit_Axe">雙刃斧</a></li>
+            <li><a href="/techs/Bow_Saw">弓鋸</a></li>
+            <li><a href="/techs/Two-Man_Saw">雙人鋸</a></li>
           </ul>
         </div>
         <h3>相關文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Aztecs.php">阿茲特克</a>:村民資源攜帶量+5。</li>
-            <li><a href="Aztecs.php">賽爾特</a>:村民伐木速度快15%。</li>
-            <li><a href="Franks.php">條頓</a>:農田成本便宜33%。</li>
-            <li><a href="Incas.php">維京</a>:碼頭成本減少15%。(團隊加成)</li>
-            <li><a href="Koreans.php">波斯</a>:遊戲一開始多50木材。</li>
-            <li><a href="Mayans.php">薩拉森</a>:市場建造只要100木材。</li>
+            <li><a href="/civs/Aztecs">阿茲特克</a>:村民資源攜帶量+5。</li>
+            <li><a href="/civs/Aztecs">賽爾特</a>:村民伐木速度快15%。</li>
+            <li><a href="/civs/Franks">條頓</a>:農田成本便宜33%。</li>
+            <li><a href="/civs/Incas">維京</a>:碼頭成本減少15%。(團隊加成)</li>
+            <li><a href="/civs/Koreans">波斯</a>:遊戲一開始多50木材。</li>
+            <li><a href="/civs/Mayans">薩拉森</a>:市場建造只要100木材。</li>
             <li>
-              <a href="Mayans.php">日本</a
+              <a href="/civs/Mayans">日本</a
               >:伐木場、採礦營地、磨坊建造成本減少50%。
             </li>
-            <li><a href="Franks.php">馬來</a>:漁網成本便宜33%。</li>
-            <li><a href="Franks.php">緬甸</a>:伐木場科技免費研發。</li>
-            <li><a href="Mayans.php">馬雅</a>:自然資源存量+15%。</li>
-            <li><a href="Franks.php">馬利</a>:建築成本便宜15%。(農田除外)</li>
+            <li><a href="/civs/Franks">馬來</a>:漁網成本便宜33%。</li>
+            <li><a href="/civs/Franks">緬甸</a>:伐木場科技免費研發。</li>
+            <li><a href="/civs/Mayans">馬雅</a>:自然資源存量+15%。</li>
+            <li><a href="/civs/Franks">馬利</a>:建築成本便宜15%。(農田除外)</li>
           </ul>
         </div>
         <h3>參見</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Food.php">食物</a></li>
-            <li><a href="Wood.php">木材</a></li>
-            <li><a href="Gold.php">黃金</a></li>
+            <li><a href="/resource/Food">食物</a></li>
+            <li><a href="/resource/Wood">木材</a></li>
+            <li><a href="/resource/Gold">黃金</a></li>
           </ul>
         </div>
       </div>

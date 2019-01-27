@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>攻城塔是一種攻城武器單位，他引進自失落的帝國，一開始他只能在某些戰役或是地圖編輯器中使用，但是非洲王國推出後，他便可以在<a href="Siege_Workshop.php">攻城武器製造所</a>訓練。它本身並不能攻擊，只能把友軍單位神不知鬼不覺的運送到
+            <p>攻城塔是一種攻城武器單位，他引進自失落的帝國，一開始他只能在某些戰役或是地圖編輯器中使用，但是非洲王國推出後，他便可以在<a href="/building/Siege_Workshop">攻城武器製造所</a>訓練。它本身並不能攻擊，只能把友軍單位神不知鬼不覺的運送到
               <a
-              href="">牆</a>內。</p>
+              href="#">牆</a>內。</p>
           </div>
           <h3>戰術</h3>
           <div class="hrn1"></div>
@@ -21,7 +21,7 @@
             <p>攻城塔有很高的生命值與遠防，可以向附近的敵人射箭來防禦，然而用它來防禦仍然不夠，甚至比箭塔還遭，倒是比較像是可以運兵的衝撞車。</p>
             <h3>非洲王國</h3>
             <p>非洲王國的攻城塔不再有攻擊力，變成純粹的運兵裝置，且可以把軍隊從牆的這邊運送到另一邊，當敵人的基地有非常強大的防守，而無法突破時，攻城塔便十分有用，可以廣泛運用於圍城或是黑森林這種封閉地圖。</p>
-            <p>另外裝滿10名步兵或是弩兵的裝甲塔速度為1.3，比沒有<a href="Squires.php">護衛技術</a>的<a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>還快，這使得它成為一種有效的運輸單位。</p>
+            <p>另外裝滿10名步兵或是弩兵的裝甲塔速度為1.3，比沒有<a href="/techs/Squires">護衛技術</a>的<a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>還快，這使得它成為一種有效的運輸單位。</p>
           </div>
           <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -38,7 +38,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4">近戰單位、<a href="Magyar_Huszar.php">馬札爾驃騎兵</a>、<a href="Eagle_Warrior.php">鷹勇士</a>。</td>
+              <td class="tta4">近戰單位、<a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>、<a href="/units/Eagle_Warrior">鷹勇士</a>。</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -48,39 +48,39 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Furor_Celtica.php">賽爾特狂暴</a>(+40%，<a href="Celts.php">賽爾特</a>限定)</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="/techs/Furor_Celtica">賽爾特狂暴</a>(+40%，<a href="/civs/Celts">賽爾特</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="Chemistry.php">化學</a>(+1)</td>
+                <img class="gg" src="~assets/Chemistry.jpg" width="30" alt=""><a href="/techs/Chemistry">化學</a>(+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">範圍</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="Siege_Engineers.php">攻城工程師</a>:對建築物攻擊加成+20%。</td>
+                <img class="gg" src="~assets/Siegeengineers.jpg" alt=""><a href="/techs/Siege_Engineers">攻城工程師</a>:對建築物攻擊加成+20%。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">命中率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升(只影響《世紀帝國II:失落的帝國》的攻城塔)</td>
+                <img class="gg" src="~assets/Ballistics.jpg" width="30" alt=""><a href="/techs/Ballistics">彈道學</a>:對移動目標命中率上升(只影響《世紀帝國II:失落的帝國》的攻城塔)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Ironclad.php">鋼鐵甲</a>(+4/+0，<a href="Teutons.php">條頓</a>限定)</td>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="/techs/Ironclad">鋼鐵甲</a>(+4/+0，<a href="/civs/Teutons">條頓</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Drill.php">演習</a>(+50%，<a href="Mongols.php">蒙古</a>)</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="/techs/Drill">演習</a>(+50%，<a href="/civs/Mongols">蒙古</a>)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" alt=""><a href="/techs/Faith">忠誠信仰</a>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
               </td>
             </tr>
           </table>
@@ -94,64 +94,64 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/SiegeRamIcon.jpg" alt=""><a href="Siege_Ram.php">重型衝撞車</a> 
+                      <img class="gg" src="~assets/SiegeRamIcon.jpg" alt=""><a href="/units/Siege_Ram">重型衝撞車</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+60攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/PetardIcon.jpg" alt=""><a href="Petard.php">爆炸桶</a> 
+                      <img class="gg" src="~assets/PetardIcon.jpg" alt=""><a href="/units/Petard">爆炸桶</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+50攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CappedRamIcon.jpg" width="22" alt=""><a href="Capped_Ram.php">裝甲衝撞車</a> 
+                      <img class="gg" src="~assets/CappedRamIcon.jpg" width="22" alt=""><a href="/units/Capped_Ram">裝甲衝撞車</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+40攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""><a href="Battering_Ram.php">輕形衝撞車</a> 
+                      <img class="gg" src="~assets/BatteringRamIcon.jpg" alt=""><a href="/units/Battering_Ram">輕形衝撞車</a> 
                     </li>
                     <li>
-                      <img src="~assets/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
+                      <img src="~assets/CannonGalleonIcon.jpg" alt=""><a href="/units/Cannon_Galleon">火砲戰船</a>→
                       <img src="~assets/CannonGalleonIcon.jpg"
-                      alt=""><a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a> 
+                      alt=""><a href="/Elite_units/Cannon_Galleon">精銳火砲戰船</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a> 
+                      <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="/units/Bombard_Cannon">火砲</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/MangonelIcon.jpg" alt=""><a href="Mangonel.php">輕形投石車</a>→
+                      <img class="gg" src="~assets/MangonelIcon.jpg" alt=""><a href="/units/Mangonel">輕形投石車</a>→
                       <img class="gg" src="~assets/OnagerIcon.jpg"
-                      alt=""><a href="Onager.php">中型投石車</a>→
+                      alt=""><a href="/units/Onager">中型投石車</a>→
                       <img class="gg" src="~assets/SiegeOnagerIcon.jpg"
-                      alt=""><a href="Siege_Onager.php">重型投石車</a> 
+                      alt=""><a href="/Siege_units/Onager">重型投石車</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
+                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="/units/Magyar_Huszar">精銳馬札爾驃騎兵</a>(<a href="/civs/Magyars">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/ConquistadorIcon.jpg" alt=""><a href="Conquistador.php">精銳征服者</a>(<a href="Spanish.php">西班牙</a>限定)</li>
+                      <img class="gg" src="~assets/ConquistadorIcon.jpg" alt=""><a href="/units/Conquistador">精銳征服者</a>(<a href="/civs/Spanish">西班牙</a>限定)</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
@@ -159,86 +159,86 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><a href="Mangudai.php">精銳蒙古突騎</a>(<a href="Mongols.php">蒙古</a>限定)</li>
+                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><a href="/units/Mangudai">精銳蒙古突騎</a>(<a href="/civs/Mongols">蒙古</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
+                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>(<a href="/civs/Magyars">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/ConquistadorIcon.jpg" alt=""><a href="Conquistador.php">征服者</a>(<a href="Spanish.php">西班牙</a>限定)</li>
+                      <img class="gg" src="~assets/ConquistadorIcon.jpg" alt=""><a href="/units/Conquistador">征服者</a>(<a href="/civs/Spanish">西班牙</a>限定)</li>
                     <li>
-                      <img src="~assets/WarGalley.jpg" alt=""><a href="War_Galley.php">弩炮戰船</a>→
+                      <img src="~assets/WarGalley.jpg" alt=""><a href="/War_units/Galley">弩炮戰船</a>→
                       <img class="gg" src="~assets/GalleonAoE2.jpg"
-                      alt=""><a href="Galleon.php">重型弩炮戰船</a> 
+                      alt=""><a href="/units/Galleon">重型弩炮戰船</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/LongboatIcon.jpg" alt=""><a href="Longboat.php">維京大戰船</a>→
+                      <img class="gg" src="~assets/LongboatIcon.jpg" alt=""><a href="/units/Longboat">維京大戰船</a>→
                       <img class="gg" src="~assets/LongboatIcon.jpg"
-                      alt=""><a href="Longboat.php">精銳維京大戰船</a>(<a href="Vikings.php">維京</a>限定)</li>
+                      alt=""><a href="/units/Longboat">精銳維京大戰船</a>(<a href="/civs/Vikings">維京</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>→
+                      <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="/units/Caravel">卡拉維爾戰船</a>→
                       <img class="gg" src="~assets/CaravelIcon2.jpg"
-                      alt=""><a href="Caravel.php">精銳卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
+                      alt=""><a href="/units/Caravel">精銳卡拉維爾戰船</a>(<a href="/civs/Portuguese">葡萄牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="Eagle_Scout.php">鷹斥侯</a>→
+                      <img class="gg" src="~assets/EagleScoutIcon.jpg" alt=""><a href="/units/Eagle_Scout">鷹斥侯</a>→
                       <img class="gg" src="~assets/EagleWarriorIcon.jpg"
-                      alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
+                      alt=""><a href="/units/Eagle_Warrior">鷹勇士</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Slinger_Icon.jpg" alt=""><a href="Slinger.php">投石手</a>(<a href="incas.php">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Slinger_Icon.jpg" alt=""><a href="/units/Slinger">投石手</a>(<a href="/incas.php">印加</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Galley.jpg" alt=""><a href="Galley.php">戰船</a> 
+                      <img class="gg" src="~assets/Galley.jpg" alt=""><a href="/units/Galley">戰船</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/JanissaryIcon.jpg" alt=""><a href="Janissary.php">精銳土耳其火槍兵</a>(<a href="Turks.php">土耳其</a>限定)</li>
+                      <img class="gg" src="~assets/JanissaryIcon.jpg" alt=""><a href="/units/Janissary">精銳土耳其火槍兵</a>(<a href="/civs/Turks">土耳其</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><a href="Mangudai.php">蒙古突騎</a>(<a href="Mongols.php">蒙古</a>限定)</li>
+                      <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><a href="/units/Mangudai">蒙古突騎</a>(<a href="/civs/Mongols">蒙古</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HandCannoneerIcon.jpg" alt=""><a href="Hand_Cannoneer.php">火槍兵</a> 
+                      <img class="gg" src="~assets/HandCannoneerIcon.jpg" alt=""><a href="/units/Hand_Cannoneer">火槍兵</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><a href="Heavy_Scorpion.php">重型弩炮</a> 
+                      <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><a href="/units/Heavy_Scorpion">重型弩炮</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/JanissaryIcon.jpg" alt=""><a href="Janissary.php">土耳其火槍兵</a>(<a href="Turks.php">土耳其</a>限定)</li>
+                      <img class="gg" src="~assets/JanissaryIcon.jpg" alt=""><a href="/units/Janissary">土耳其火槍兵</a>(<a href="/civs/Turks">土耳其</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
+                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="/units/Magyar_Huszar">精銳馬札爾驃騎兵</a>(<a href="/civs/Magyars">馬札爾</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/ScorpionIcon.jpg" alt=""><a href="Scorpion.php">弩炮</a> 
+                      <img class="gg" src="~assets/ScorpionIcon.jpg" alt=""><a href="/units/Scorpion">弩炮</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a href="Magyars.php">馬札爾</a>限定)</li>
+                      <img class="gg" src="~assets/Magyar_Huszar_icon.jpg" width="22" alt=""><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>(<a href="/civs/Magyars">馬札爾</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/OrganGunIcon.jpg" alt=""><a href="Organ_Gun.php">風琴炮</a>→
+                      <img class="gg" src="~assets/OrganGunIcon.jpg" alt=""><a href="/units/Organ_Gun">風琴炮</a>→
                       <img class="gg" src="~assets/OrganGunIcon.jpg"
-                      alt=""><a href="Organ_Gun.php">精銳風琴炮</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
+                      alt=""><a href="/units/Organ_Gun">精銳風琴炮</a>(<a href="/civs/Portuguese">葡萄牙</a>限定)</li>
                   </ul>
                 </div>技術:以下技術會給以下單位對攻城塔有額外攻擊
                 <div class="n1">
-                  <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""><a href="Boiling_Oil.php">沸油</a>(<a href="Persians.php">波斯</a>限定)
+                  <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""><a href="/techs/Boiling_Oil">沸油</a>(<a href="/civs/Persians">波斯</a>限定)
                   <div
                   style="margin:12px 0px;"><strong>+9攻擊</strong>
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a> 
+                    <img class="gg" src="~assets/Castleicon.png" alt=""><a href="/building/Castle">城堡</a> 
                   </li>
                 </ul>
               </div>
@@ -248,37 +248,37 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Aztecs.php">阿茲特克</a>：攻城塔生產快15%。</li>
-              <li><a href="Celts.php">賽爾特</a>：攻擊速度快25%。</li>(只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)
-              <li><a href="Chinese.php">中國</a>：利於攻城塔的技術在封建/城堡/帝王時代便宜10％/15％/20％。</li>
-              <li><a href="Portuguese.php">葡萄牙</a>：攻城塔黃金成本減少15%。</li>
-              <li><a href="Slavs.php">斯拉夫</a>：攻城塔成本便宜15%。</li>
+              <li><a href="/civs/Aztecs">阿茲特克</a>：攻城塔生產快15%。</li>
+              <li><a href="/civs/Celts">賽爾特</a>：攻擊速度快25%。</li>(只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)
+              <li><a href="/civs/Chinese">中國</a>：利於攻城塔的技術在封建/城堡/帝王時代便宜10％/15％/20％。</li>
+              <li><a href="/civs/Portuguese">葡萄牙</a>：攻城塔黃金成本減少15%。</li>
+              <li><a href="/civs/Slavs">斯拉夫</a>：攻城塔成本便宜15%。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Celts.php">賽爾特</a>：攻城塔訓練速度快20%。</li>
-              <li><a href="Malians.php">馬利</a>：研發<a href="Ballistics.php">彈道學</a>，<a href="Chemistry.php">化學</a>和
+              <li><a href="/civs/Celts">賽爾特</a>：攻城塔訓練速度快20%。</li>
+              <li><a href="/civs/Malians">馬利</a>：研發<a href="/techs/Ballistics">彈道學</a>，<a href="/techs/Chemistry">化學</a>和
                 <a
-                href="Siege_Engineers.php">攻城工程師</a>的速度快80%。</li><strong>(這些科技只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)</strong> 
-              <li><a href="Teutons.php">條頓</a>：攻城塔對僧侶的招降有較好的抗性。</li>
+                href="/techs/Siege_Engineers">攻城工程師</a>的速度快80%。</li><strong>(這些科技只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)</strong> 
+              <li><a href="/civs/Teutons">條頓</a>：攻城塔對僧侶的招降有較好的抗性。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
             <ul>
               <li>攻城塔成本為300W/160G。</li>
-              <li>攻城塔有6的射程(最小射程1)6的攻擊(對<a href="Armor_class_building.php">建築物</a>+6)，射速為4，命中率為90％。</li>
+              <li>攻城塔有6的射程(最小射程1)6的攻擊(對<a href="/Armor_class_building.php">建築物</a>+6)，射速為4，命中率為90％。</li>
               <li>移動速度0.6。</li>
             </ul>
-            <h3><em><a href="ak.php">非洲王國</a></em></h3>
+            <h3><em><a href="/games/ak">非洲王國</a></em></h3>
             <ul>
               <li>攻城塔不能攻擊，但可以運送部隊穿越城牆。</li>
-              <li><a href="Battering_Ram.php">衝撞車</a>和<a href="Siege_Weapons.php">攻城武器</a>對攻城塔有+5的傷害。</li>
+              <li><a href="/units/Battering_Ram">衝撞車</a>和<a href="/units/Siege_Weapons">攻城武器</a>對攻城塔有+5的傷害。</li>
               <li>攻城塔現在移動速度為0.8。</li>
               <li>4.8版本後，訓練成本為200W160G。</li>
             </ul>
@@ -288,24 +288,24 @@
               <ul>
                 <li>攻城塔是唯一一個無法攻擊的單位。</li>
                 <li>地圖編輯器還是把攻城塔列為征服者入侵的單位，LOGO也是。</li>
-                <li>蒙古的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<a href="Husbandry.php">畜牧培育</a>的
+                <li>蒙古的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<a href="/techs/Husbandry">畜牧培育</a>的
                   <a
-                  href="Hussar.php">輕騎兵</a>。</li>
+                  href="/Hustree/sar">輕騎兵</a>。</li>
                 <li>AOE HD論壇曾經為了攻城塔要不要給它攻擊而有過激烈的討論。有人覺得沒有攻擊的攻城塔是一個沒用的單位。</li>
-                <li>5名條頓武士駐守在衝撞車內的速度是0.75，而<a href="Teutonic_Knight.php">條頓武士</a>速度為0.7，但研發
+                <li>5名條頓武士駐守在衝撞車內的速度是0.75，而<a href="/Teutonic_units/Knight">條頓武士</a>速度為0.7，但研發
                   <a
-                  href="Squires.php">護衛技術</a>後，條頓武士速度為0.77，並沒有比較快。但如果裝在攻城塔內，速度就來到了1.3，可以更有效率的運用條頓武士。</li>
+                  href="/techs/Squires">護衛技術</a>後，條頓武士速度為0.77，並沒有比較快。但如果裝在攻城塔內，速度就來到了1.3，可以更有效率的運用條頓武士。</li>
               </ul>
             </div>
             <h3>圖庫</h3>
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Siegetower.png"><img class="imgn hg" src="~assets/Siegetower.png" alt=""></a> 
+                <div class="col-md-4"> <a href="/img/Siegetower.png"><img class="imgn hg" src="~assets/Siegetower.png" alt=""></a> 
                   <p><em>一群攻城塔</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Siege_Tower_attacking.png"><img class="imgn hg" src="~assets/Siege_Tower_attacking.png" alt=""></a> 
+                <div class="col-md-4"> <a href="/img/Siege_Tower_attacking.png"><img class="imgn hg" src="~assets/Siege_Tower_attacking.png" alt=""></a> 
                   <p><em>《世紀帝國II:失落的帝國》的攻城塔是可以射箭攻擊的</em>
                   </p>
                 </div>
@@ -348,13 +348,13 @@
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+              <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
-              <img class="gg" width="25px" src="~assets/Siegeworkshopicon.png" alt=""><a href="Siege_Workshop.php">攻城武器製造所</a>
+              <img class="gg" width="25px" src="~assets/Siegeworkshopicon.png" alt=""><a href="/building/Siege_Workshop">攻城武器製造所</a>
             </td>
           </tr>
           <tr>
@@ -384,7 +384,7 @@
             <td class="unit4">220</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_Class.php">近防</a>
+            <td class="unit3"><a href="/Armor_Class.php">近防</a>
             </td>
             <td class="unit4">-2</td>
           </tr>
@@ -393,10 +393,10 @@
             <td class="unit4">100</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_Class.php">防禦類型</a>
+            <td class="unit3"><a href="/Armor_Class.php">防禦類型</a>
             </td>
-            <td class="unit4"><a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
-              <br/> <a href="Armor_Class_Ram.php">衝撞車</a>
+            <td class="unit4"><a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a>
+              <br/> <a href="/armor/Armor_Class_Ram">衝撞車</a>
             </td>
           </tr>
           <tr>
@@ -405,12 +405,12 @@
           </tr>
           <tr>
             <tr>
-              <td class="unit3"><a href="Rate_of_Fire.php">速度</a>
+              <td class="unit3"><a href="/elements/Rate_of_Fire">速度</a>
               </td>
               <td class="unit4">0.8</td>
             </tr>
             <tr>
-              <td class="unit3"><a href="los.php">視野</a>
+              <td class="unit3"><a href="/los.php">視野</a>
               </td>
               <td class="unit4">8</td>
             </tr>

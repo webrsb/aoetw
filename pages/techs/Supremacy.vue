@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            霸權是<a href="Spanish.php">西班牙</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            霸權是<a href="/civs/Spanish">西班牙</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後給<a
-              href="Villager.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後給<a
+              href="/units/Villager"
               >村民</a
             >+6攻擊、護甲+2/+2、HP+40。
           </p>
@@ -26,9 +26,9 @@
           <ul>
             <li>
               霸權不僅提高村民生命值，也給攻擊和護甲，讓他們能防衛<a
-                href="Infantry_Units.php"
+                href="/units/Infantry_Units"
               ></a
-              >步兵和<a href="Light_Cavalry.php">輕騎兵</a
+              >步兵和<a href="/units/Light_Cavalry">輕騎兵</a
               >的攻擊，也讓他們在前線修復或建造城堡、箭塔和城牆時能存活得更久。
             </li>
             <li>
@@ -39,9 +39,10 @@
             </li>
             <li>
               霸權通常被用來對付僧侶，主要是因為村民有足夠的力量殺死僧侶，而招降村民的舉動實際上跟招降<a
-                href="Conquistador.php"
+                href="/units/Conquistador"
                 >征服者</a
-              >和 <a href="Paladin.php">遊俠</a>等貴重單位比起來沒有什麼價值。
+              >和
+              <a href="/units/Paladin">遊俠</a>等貴重單位比起來沒有什麼價值。
             </li>
             <li>
               霸權也與西班牙文明加成+
@@ -54,7 +55,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速霸權的研究時間(快25%)。
             </li>
           </ul>
@@ -71,7 +73,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">霸權</a></div>
+              <div class="unititle"><a href="#">霸權</a></div>
             </td>
           </tr>
           <tr>
@@ -83,12 +85,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Spanish.php">西班牙</a></td>
+            <td class="unit4"><a href="/civs/Spanish">西班牙</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -97,14 +99,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -115,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -128,7 +130,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

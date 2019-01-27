@@ -10,44 +10,44 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>化學可於<a href="Imperial_Age.php">帝王時代</a>在<a href="University.php">學院</a>研發。研發後可生產
+            <p>化學可於<a href="/techsage/Imperial_Age">帝王時代</a>在<a href="/building/University">學院</a>研發。研發後可生產
               <a
-              href="Gunpowder_Unit.php"></a>火藥單位（除了<a href="Huns.php">匈奴</a>、<a href="Aztecs.php">阿茲特克</a>、
+              href="/units/Gunpowder_Unit"></a>火藥單位（除了<a href="/civs/Huns">匈奴</a>、<a href="/civs/Aztecs">阿茲特克</a>、
                 <a
-                href="Mayans.php">馬雅</a>與<a href="Incas.php">印加</a>外）。<a href="Siege_Weapons.php"></a>攻城武器、弓箭手和防禦建築(如
+                href="/civs/Mayans">馬雅</a>與<a href="/civs/Incas">印加</a>外）。<a href="/units/Siege_Weapons"></a>攻城武器、弓箭手和防禦建築(如
                   <a
-                  href="Castle.php">城堡</a>、箭塔、<a href="Town_Center.php">城鎮中心</a>)+1攻擊。</p>
+                  href="/building/Castle">城堡</a>、箭塔、<a href="/building/Town_Center">城鎮中心</a>)+1攻擊。</p>
           </div>
            <h3>文明加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Chinese.php">中國</a>：該科技在帝王時代花費便宜20%。</li>
-              <li><a href="Turks.php">土耳其</a>：該科技免費。</li>
+              <li><a href="/civs/Chinese">中國</a>：該科技在帝王時代花費便宜20%。</li>
+              <li><a href="/civs/Turks">土耳其</a>：該科技免費。</li>
             </ul>
           </div>
            <h3>團隊加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Malians.php">馬利</a>：該科技研發時間快80%</li>
+              <li><a href="/civs/Malians">馬利</a>：該科技研發時間快80%</li>
             </ul>
           </div>
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
+             <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
             <ul>
               <li>化學不影響城堡和城鎮中心。</li>
               <li>化學給弩炮+2攻擊。</li>
               <li>化學會影響所有射出的箭。</li>
               <li>化學會減緩投石車的投射物速率20%，砲彈會飛比較慢。</li>
             </ul>
-             <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
+             <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
             <ul>
               <li>化學現在給弩炮+1攻擊。</li>
             </ul>
-             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+             <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
             <ul>
               <li>化學現在會影響城堡和城鎮中心。</li>
               <li>化學只會影響射出的第一支箭。</li>
@@ -64,7 +64,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="">化學</a>
+                <div class="unititle"><a href="#">化學</a>
                 </div>
               </td>
             </tr>
@@ -77,7 +77,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">科技介紹</a>
+                <div class="unititle2"><a href="#">科技介紹</a>
                 </div>
               </td>
             </tr>
@@ -88,13 +88,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="/techsage/Imperial_Age">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
+                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="/building/Archery_Range">學院</a>
               </td>
             </tr>
             <tr>
@@ -103,7 +103,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>
@@ -117,7 +117,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">影響</a>
+                <div class="unititle2"><a href="#">影響</a>
                 </div>
               </td>
             </tr>

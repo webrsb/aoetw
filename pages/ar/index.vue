@@ -82,16 +82,16 @@
                 <div class="col-md-6">
                   阿拉伯：
                   <ul>
-                    <li><a href="armstower.php">裝甲塔</a></li>
-                    <li><a href="scrush.php">肉馬開局</a></li>
-                    <li><a href="archerstar.php">小弓開局</a></li>
-                    <li><a href="armstar.php">裝甲開局</a></li>
-                    <li><a href="brushtof.php">黑快轉封</a></li>
-                    <li><a href="brushfc.php">黑快搶城</a></li>
-                    <li><a href="towerrush.php">純塔攻</a></li>
-                    <li><a href="eglerush.php">老鷹開局</a></li>
-                    <li><a href="fontrush.php">前置槍矛</a></li>
-                    <li><a href="bbrush.php">黑暗爆民兵</a></li>
+                    <li><a href="/ar/armstower">裝甲塔</a></li>
+                    <li><a href="/ar/scrush">肉馬開局</a></li>
+                    <li><a href="/ar/archerstar">小弓開局</a></li>
+                    <li><a href="/ar/armstar">裝甲開局</a></li>
+                    <li><a href="/ar/brushtof">黑快轉封</a></li>
+                    <li><a href="/ar/brushfc">黑快搶城</a></li>
+                    <li><a href="/ar/towerrush">純塔攻</a></li>
+                    <li><a href="/ar/eglerush">老鷹開局</a></li>
+                    <li><a href="/ar/fontrush">前置槍矛</a></li>
+                    <li><a href="/ar/bbrush">黑暗爆民兵</a></li>
                   </ul>
                 </div>
                 <div class="col-md-12">

@@ -11,8 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            城鎮巡邏可於<a href="Castle_Age.php">城堡時代</a>在<a
-              href="Town_Center.php"
+            城鎮巡邏可於<a href="/techsage/Castle_Age">城堡時代</a>在<a
+              href="/building/Town_Center"
               >城鎮中心</a
             >
             研發。研發後建築物視野+4。
@@ -23,11 +23,12 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：該科技在城堡/帝王時代花費便宜15%/20%。
             </li>
             <li>
-              <a href="Persians.php">波斯</a>：研究<a href="Town_Patrol.php"
+              <a href="/civs/Persians">波斯</a>：研究<a
+                href="/techs/Town_Patrol"
                 >城鎮巡邏</a
               >的時間在城堡/帝王時代快15%/20%。
             </li>
@@ -37,13 +38,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
             <li>城鎮巡邏成本為300肉200金。</li>
           </ul>
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
             <li>城鎮巡邏現在成本為300肉100金。</li>
@@ -62,7 +63,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">城鎮巡邏</a></div>
+              <div class="unititle"><a href="#">城鎮巡邏</a></div>
             </td>
           </tr>
           <tr>
@@ -74,7 +75,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -85,7 +86,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -94,7 +95,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Town-center-logo.jpg" alt="" /><a
-                href="Town_Center.php"
+                href="/building/Town_Center"
                 >城鎮中心</a
               >
             </td>
@@ -103,7 +104,7 @@
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
               <img class="gg" src="~assets/Townwatch.jpg" alt="" /><a
-                href="Town_Watch.php"
+                href="/techs/Town_Watch"
                 >城鎮瞭望</a
               >
             </td>
@@ -114,7 +115,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -127,7 +128,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

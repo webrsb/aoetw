@@ -10,9 +10,9 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><strong>羅賓漢</strong>是《世紀帝國II》中的一名<a href="Archer_Units.php">射手</a><a href="heros.php">英雄</a>，他的原型是
+            <p><strong>羅賓漢</strong>是《世紀帝國II》中的一名<a href="/units/Archer_Units">射手</a><a href="/units/hero">英雄</a>，他的原型是
               <a
-              href="Britons.php">英國</a>民間傳說中的一名俠盜。</p>
+              href="/civs/Britons">英國</a>民間傳說中的一名俠盜。</p>
             <p>遊戲中的他是長弓兵，會受到所有影響射手的升級及加成影響。由於他是一名英雄，因此不會被招降且會自動回血。(自征服者入侵以後)。</p>
           </div>
         </div>
@@ -20,7 +20,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="">羅賓漢</a>
+                <div class="unititle"><a href="#">羅賓漢</a>
                 </div>
               </td>
             </tr>
@@ -38,8 +38,8 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Archer_Units.php">射手</a>
-                <br/><a href="heros.php">英雄</a></td>
+              <td class="unit4"><a href="/units/Archer_Units">射手</a>
+                <br/><a href="/units/hero">英雄</a></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -64,7 +64,7 @@
                 <td class="unit4">2.03</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="Frame_delay.php">開火間隔</a></td>
+                <td class="unit3"><a href="/elements/Frame_delay">開火間隔</a></td>
                 <td class="unit4">5</td>
               </tr>
               <tr>
@@ -92,8 +92,8 @@
                     </tr>
                     <tr>
                       <td class="unit3">防禦類型</td>
-                      <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-                        <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a></td>
+                      <td class="unit4"><a href="/armor/Armor_Class_Archer">射手</a>
+                        <br/><a href="/armor/Armor_Class_Unique_Unit">特殊單位</a></td>
                     </tr>
                     <tr>
                       <td class="unit3">跑速</td>

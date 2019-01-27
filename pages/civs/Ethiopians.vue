@@ -63,7 +63,7 @@
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              />帝王時代：<a href="Torsion_Engines.php">扭力彈射器</a
+              />帝王時代：<a href="/techs/Torsion_Engines">扭力彈射器</a
               >：攻城單位的攻擊範圍增加。
             </li>
           </ul>
@@ -72,7 +72,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>5.7版後，免費的戟兵被移除。</li>
@@ -91,7 +91,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="eth.php">衣索比亞科技樹</a></em>
+          <em><a href="/tree/eth">衣索比亞科技樹</a></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -102,7 +102,7 @@
             <li>唯一一個通過升級可以獲得資源的文明。</li>
             <li>
               衣索比亞和馬利人共用的非洲風格原形是<a
-                href="https://en.wikipedia.org/wiki/Sudano-Sahelian_architecture"
+                href="/https://en.wikipedia.org/wiki/Sudano-Sahelian_architecture"
                 >蘇丹薩赫勒建築</a
               >。
             </li>
@@ -153,7 +153,7 @@
               <img class="gg" src="~assets/CastleAgeUnique.png" />皇族血脈
               <br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><a
-                href="Torsion_Engines.php"
+                href="/techs/Torsion_Engines"
                 >扭力彈射器</a
               >
             </td>

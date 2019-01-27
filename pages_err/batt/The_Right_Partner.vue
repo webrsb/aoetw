@@ -92,7 +92,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">最佳搭檔</a>
+                <div class="unititle"><a href="#">最佳搭檔</a>
                 </div>
               </td>
             </tr>
@@ -105,7 +105,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -115,11 +115,11 @@
             </tr>
             <tr>
               <td class="unit3">戰役</td>
-              <td class="unit4"><a href="Yodita.php">優娣忒</a></td>
+              <td class="unit4"><a href="/batt/Yodita">優娣忒</a></td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Ethiopians.php">衣索比亞</a>
+              <td class="unit4"><a href="/civs/Ethiopians">衣索比亞</a>
               </td>
             </tr>
             <tr>
@@ -129,7 +129,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">戰役關卡編號</a>
+                <div class="unititle2"><a href="#">戰役關卡編號</a>
                 </div>
               </td>
             </tr>
@@ -139,11 +139,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"><a href="Path_of_Exile.php">流亡之路</a> </td>
+              <td class="unit4"><a href="/batt/Path_of_Exile">流亡之路</a> </td>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"><a href="A_Fallen-Crown.php">摔落的皇冠</a> 
+              <td class="unit4"><a href="/A_Fallen-Crown.php">摔落的皇冠</a> 
               </td>
             </tr>
           </table>
@@ -164,7 +164,7 @@
         <h3>攻略</h3>
           <div class="hrn1"></div>
           <ul>
-            <li>這場玩家須完成五個任務即可獲勝，玩法類似成吉思汗戰役的第一關<a href="Crucible.php">嚴酷的考驗</a>。開局玩家在南邊及北邊各有一個營地，玩家重心應該放在南邊的營地，北邊營地只有兩名村民、三艘漁船及一些軍隊，盡量利用北邊採集金礦跟石礦，漁船捕魚，南邊營地則砍樹打獵種田，磨坊下方的池塘有很多鴕鳥斑馬及大象，但也要小心有獅子鱷魚攻擊村民。兩台貿易馬車到右邊的貝賈市集進行貿易，並盡快晉升到城堡時代建造城鎮中心爆經濟。海盜(青色)及入侵者(灰色)開局不久後就會攻擊北方營地，北邊的營地很快就會陷落，但也不要灰心，在南方營地建造由弩兵、重裝長槍兵、戰矛兵及僧侶組成的混合部隊就能抵擋入侵者的攻擊。</li>
+            <li>這場玩家須完成五個任務即可獲勝，玩法類似成吉思汗戰役的第一關<a href="/batt/Crucible">嚴酷的考驗</a>。開局玩家在南邊及北邊各有一個營地，玩家重心應該放在南邊的營地，北邊營地只有兩名村民、三艘漁船及一些軍隊，盡量利用北邊採集金礦跟石礦，漁船捕魚，南邊營地則砍樹打獵種田，磨坊下方的池塘有很多鴕鳥斑馬及大象，但也要小心有獅子鱷魚攻擊村民。兩台貿易馬車到右邊的貝賈市集進行貿易，並盡快晉升到城堡時代建造城鎮中心爆經濟。海盜(青色)及入侵者(灰色)開局不久後就會攻擊北方營地，北邊的營地很快就會陷落，但也不要灰心，在南方營地建造由弩兵、重裝長槍兵、戰矛兵及僧侶組成的混合部隊就能抵擋入侵者的攻擊。</li>
             
             <li>入侵者的部隊由裝甲步兵、弓兵、矛兵，馬弓騎兵，神弓手及駱駝弓騎兵組成。而且部隊會從地圖的三個地方直接產生，分別是西方諾帕夏城後面的旗幟；北方被綁架的示巴女王旁邊以及東南方一個小池塘周圍有敵對的貝賈部落部隊及一些野生動物處。玩家如果有石礦的話可以在這些地方圍牆並在牆後建造城堡或箭塔駐守1~2名弩兵就可以避免他們騷擾玩家城鎮。</li>
       <div class="col-md-12">

@@ -103,7 +103,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">沈睡的皇帝</a>
+                <div class="unititle"><a href="#">沈睡的皇帝</a>
                 </div>
               </td>
             </tr>
@@ -116,7 +116,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -130,11 +130,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="">條頓人</a>
+              <td class="unit4"><a href="#">條頓人</a>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="">戰役關卡編號</a>
+              <div class="unititle2"><a href="#">戰役關卡編號</a>
               </div>
             </td>
             </tr>
@@ -144,7 +144,7 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="Barbarossas_March.php">紅鬍子的行軍</a> 
+              <td class="unit4"> <a href="/batt/Barbarossas_March">紅鬍子的行軍</a> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>

@@ -53,9 +53,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Food.php">食物</a></li>
-            <li><a href="Wood.php">木材</a></li>
-            <li><a href="Stone.php">石礦</a></li>
+            <li><a href="/resource/Food">食物</a></li>
+            <li><a href="/resource/Wood">木材</a></li>
+            <li><a href="/resource/Stone">石礦</a></li>
           </ul>
         </div>
       </div>

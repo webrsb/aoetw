@@ -10,17 +10,17 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><strong>斯基泰的野女人</strong>是《世紀帝國II：征服者入侵》中的一名<a href="Infantry_Units.php">步兵</a>
+            <p><strong>斯基泰的野女人</strong>是《世紀帝國II：征服者入侵》中的一名<a href="/units/Infantry_Units">步兵</a>
               <a
-              href="heros.php">英雄</a>，她在<a href="The_Great_Ride.php">偉大的騎士</a>和<a href="The_White_Elephant.php">白象化身</a>(不過被改名為鬼靈女巫)兩關中登場，也可在地圖編輯器中使用。</p>
-            <p>斯基泰的野女人使用的模形與<a href="Joan_the_Maid.php">農家女貞德</a>一樣，可能也因此才會被剋騎兵的攻擊加成。她和其他步兵一樣，會受到所有影響步兵的升級及加成影響。由於她是一名英雄，因此不會被招降且會自動回血。</p>
+              href="/units/hero">英雄</a>，她在<a href="/batt/The_Great_Ride">偉大的騎士</a>和<a href="/batt/The_White_Elephant">白象化身</a>(不過被改名為鬼靈女巫)兩關中登場，也可在地圖編輯器中使用。</p>
+            <p>斯基泰的野女人使用的模形與<a href="/units/hero/Joan_the_Maid">農家女貞德</a>一樣，可能也因此才會被剋騎兵的攻擊加成。她和其他步兵一樣，會受到所有影響步兵的升級及加成影響。由於她是一名英雄，因此不會被招降且會自動回血。</p>
           </div>
         </div>
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="">斯基泰的野女人</a>
+                <div class="unititle"><a href="#">斯基泰的野女人</a>
                 </div>
               </td>
             </tr>
@@ -38,8 +38,8 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Infantry_Units.php">騎兵</a>
-                <br/><a href="heros.php">英雄</a></td>
+              <td class="unit4"><a href="/units/Infantry_Units">騎兵</a>
+                <br/><a href="/units/hero">英雄</a></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -74,7 +74,7 @@
                 </tr>
                 <tr>
                   <td class="unit3">防禦類型</td>
-                  <td class="unit4"><a href="Armor_Class_Cavalry.php">騎兵</a> (+1)</td>
+                  <td class="unit4"><a href="/armor/Armor_Class_Cavalry">騎兵</a> (+1)</td>
                 </tr>
                 <tr>
                   <td class="unit3">跑速</td>

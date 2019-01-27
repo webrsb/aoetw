@@ -73,8 +73,8 @@
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
-                <li>穆斯林正在進攻邊陲的法蘭克農場。將<a href="Charles_Martel.php">鐵鎚查理</a>的軍隊派出和建設自己的防禦減緩他們進攻速度。</li>
-                <li>柏柏人和摩爾人利用不昂貴的單位作戰，雖然法蘭克<a href="Knight.php">騎士</a>可以打敗他們，但穆斯林花費較少我們很多。</li>
+                <li>穆斯林正在進攻邊陲的法蘭克農場。將<a href="/units/hero/Charles_Martel">鐵鎚查理</a>的軍隊派出和建設自己的防禦減緩他們進攻速度。</li>
+                <li>柏柏人和摩爾人利用不昂貴的單位作戰，雖然法蘭克<a href="/units/Knight">騎士</a>可以打敗他們，但穆斯林花費較少我們很多。</li>
                 <li>你可以點擊路徑標記。</li>
               </ul>
             </div>
@@ -83,7 +83,7 @@
             <div class="n1">
               <ul>
                 <li>法蘭克(紅色)在北部防守著多爾斯這個大城鎮，鐵錘查理軍隊在南部。</li>
-                <li>柏柏(黃色)佔據地圖的西角，他們訓練<a href="Light_Cavalry.php">輕騎兵</a>、長劍兵、衝撞車，但他們防守薄弱，可以早期進攻打敗。</li>
+                <li>柏柏(黃色)佔據地圖的西角，他們訓練<a href="/units/Light_Cavalry">輕騎兵</a>、長劍兵、衝撞車，但他們防守薄弱，可以早期進攻打敗。</li>
                 <li>摩爾(綠色)佔據著西南部的波義提爾斯城，這使得他們很難被擊敗，它們有駱駝騎兵、騎士、弩砲，如果時間足夠還可能訓練阿拉伯奴隸兵。</li>
             </div>
             <h3>攻略</h3>
@@ -100,8 +100,8 @@
             <h3>遊戲內細節</h3>
             <div class="hrn1"></div>
             <ul>
-              <li>農場一開始就會被進攻，建議可以先捨棄比較後半段沒辦法防守的，守<a href="Castle.php">城堡</a>外附近的<a href="Farm.php">農田</a>為主。</li>
-              <li><a href="Charles_Martel.php">鐵鎚查理</a>軍隊質量優於對方許多，可以不怕正面對決，但須小心對方數量。</li>
+              <li>農場一開始就會被進攻，建議可以先捨棄比較後半段沒辦法防守的，守<a href="/building/Castle">城堡</a>外附近的<a href="/building/Farm">農田</a>為主。</li>
+              <li><a href="/units/hero/Charles_Martel">鐵鎚查理</a>軍隊質量優於對方許多，可以不怕正面對決，但須小心對方數量。</li>
               <li>資源上不會太匱乏，除了黃金、石頭(城內除外)，如果城內用完往外採集時須小心，尤其黃金都在對方領土。</li>
               <li>柏柏防禦、軍隊質量相較我們較為低，前期可以先擊敗他們，佔領他們的地點在往摩爾人進攻。</li>
               <li>此關相較於其他較為簡單，無需顧慮太多，都是以武力征服。</li>
@@ -111,9 +111,9 @@
             <ul>
               <li>繁體中文舊版本翻譯錯誤，而歷史上圖爾戰役又稱普瓦捷戰役。</li>
               <li>遊戲中柏柏人以土耳其文明替代，2015年非洲王國資料片柏柏人正式實裝。</li>
-              <li>此關為非洲王國戰役<a href="Tariq_ibn_Ziyada.php">塔里克.伊本.齊亞德</a>的續篇。</li>
+              <li>此關為非洲王國戰役<a href="/batt/Tariq_ibn_Ziyada">塔里克.伊本.齊亞德</a>的續篇。</li>
             </ul>
-            <h3>英雄: <a href="Charles_Martel.php">鐵鎚查理</a>(686-741) </h3>
+            <h3>英雄: <a href="/units/hero/Charles_Martel">鐵鎚查理</a>(686-741) </h3>
             <div class="hrn1"></div>
             <ul>
               <li> <a>作為國王的私生子，查理無法具有國王稱號，於是他擔任的職務是「宮相」。雖然這職務起源是王室總管，但隨著時間發展已經成為軍政大臣。718年開始，查理就是法蘭克王國最有權勢的人。 在查理治下的法蘭克不僅奠定了加洛林王朝的統治地位，他也確立了分封的采邑制度。而其在都爾戰役的勝利不僅保護了法蘭克，更保護了西歐的基督世界，其在戰役中的英勇表現讓他獲得了「鐵錘(法語:Martel)」的稱號。</a>
@@ -150,7 +150,7 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Japanese.php">法蘭克</a></td>
+              <td class="unit4"><a href="/civs/Japanese">法蘭克</a></td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2">戰役關卡編號</div>
@@ -166,7 +166,7 @@
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="Vindlandsaga(1000).php">芬特蘭撒格(1000)</a></td>
+              <td class="unit4"> <a href="/Vindlandsaga(1000).php">芬特蘭撒格(1000)</a></td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由Wun，裕暉協助編輯</div>

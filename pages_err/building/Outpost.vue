@@ -46,78 +46,78 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(+10%)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
                 <br/>
-                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速率</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Burmese.php">緬甸</a>：研發<a href="Faith.php">忠誠信仰</a>的花費便宜50%。</li>
-              <li><a href="Byzantines.php">拜占庭</a>：哨站在黑暗/封建/城堡/帝王時代增加10%/20%/30%/40% HP</li>
-              <li><a href="Chinese.php">中國</a>：對哨站有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。</li>
-              <li><a href="Incas.php">印加</a>：哨站石頭花費-15%。</li>
-              <li><a href="Koreans.php">韓國</a>：哨站建造速度快33%。</li>
-              <li><a href="Malians.php">馬利</a>：哨站木頭花費-15%。</li>
-              <li><a href="Persians.php">波斯</a>：城鎮瞭望和城鎮巡邏在封建/城堡/帝王時代研發快10%/15%/20%。</li>
-              <li><a href="Spanish.php">西班牙</a>：哨站建造速度快30%。</li>
+              <li><a href="/civs/Burmese">緬甸</a>：研發<a href="/techs/Faith">忠誠信仰</a>的花費便宜50%。</li>
+              <li><a href="/civs/Byzantines">拜占庭</a>：哨站在黑暗/封建/城堡/帝王時代增加10%/20%/30%/40% HP</li>
+              <li><a href="/civs/Chinese">中國</a>：對哨站有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。</li>
+              <li><a href="/civs/Incas">印加</a>：哨站石頭花費-15%。</li>
+              <li><a href="/civs/Koreans">韓國</a>：哨站建造速度快33%。</li>
+              <li><a href="/civs/Malians">馬利</a>：哨站木頭花費-15%。</li>
+              <li><a href="/civs/Persians">波斯</a>：城鎮瞭望和城鎮巡邏在封建/城堡/帝王時代研發快10%/15%/20%。</li>
+              <li><a href="/civs/Spanish">西班牙</a>：哨站建造速度快30%。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Ethiopians.php">衣索比亞</a>：哨站+3視野。</li>
-              <li><a href="Malians.php">馬利</a>：同盟學院研究<a href="Masonry.php">磚瓦技術</a>、<a href="Architecture.php">建築學</a>和
+              <li><a href="/civs/Ethiopians">衣索比亞</a>：哨站+3視野。</li>
+              <li><a href="/civs/Malians">馬利</a>：同盟學院研究<a href="/techs/Masonry">磚瓦技術</a>、<a href="/techs/Architecture">建築學</a>和
                 <a
-                href="Treadmill_Crane.php">踏輪起重機</a>的速度快80%。</li>
+                href="/techs/Treadmill_Crane">踏輪起重機</a>的速度快80%。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aok.php">帝王世紀</a></em></h3> 
+            <h3><em><a href="/games/aok">帝王世紀</a></em></h3> 
             <ul>
               <li>哨站花費25木材和25石頭。</li>
             </ul>
-            <h3><em><a href="aoc.php">征服者入侵</a></em></h3> 
+            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3> 
             <ul>
               <li>哨站花費25木材和10石頭。</li>
-              <li>引入<a href="Heresy.php">異端邪說</a>。</li>
+              <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
             </ul>
-            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
             <ul>
               <li>哨站花費25木材和5石頭。</li>
-              <li><a href="Koreans.php">韓國</a>:哨站建造速度快33%</li>
+              <li><a href="/civs/Koreans">韓國</a>:哨站建造速度快33%</li>
             </ul>
           </div>
           <h3>歷史</h3>
@@ -131,7 +131,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><a href="">哨站</a>
+                <div class="unititle"><a href="#">哨站</a>
                 </div>
               </td>
             </tr>
@@ -144,7 +144,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">概要</a>
+                <div class="unititle2"><a href="#">概要</a>
                 </div>
               </td>
             </tr>
@@ -158,7 +158,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="Dark_Age.php">黑暗時代</a>
+              <td class="unit4"><a href="/techsage/Dark_Age">黑暗時代</a>
               </td>
             </tr>
             <tr>
@@ -171,7 +171,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>
@@ -185,7 +185,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">數據</a>
+                <div class="unititle2"><a href="#">數據</a>
                 </div>
               </td>
             </tr>
@@ -207,8 +207,8 @@
             </tr>
             <tr>
               <td class="unit3">防禦類型</td>
-              <td class="unit4"><a href="Armor_Class_Building.php">建築</a>
-                <br/> <a href="Armor_Class_standard_building.php">標準建築</a>
+              <td class="unit4"><a href="/armor/Armor_Class_Building">建築</a>
+                <br/> <a href="/Armor_Class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -229,17 +229,17 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Outpostlosdarkage.png"><img class="imgn hg" width="180" src="~assets/Outpostlosdarkage.png" alt=""></a> 
+            <div class="col-md-4"> <a href="/img/Outpostlosdarkage.png"><img class="imgn hg" width="180" src="~assets/Outpostlosdarkage.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>黑暗時代哨站的視野範圍。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Outpostlosfu.png"><img class="imgn hg" width="180" src="~assets/Outpostlosfu.png" alt=""></a> 
+          <div class="col-md-4"> <a href="/img/Outpostlosfu.png"><img class="imgn hg" width="180" src="~assets/Outpostlosfu.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
-              <p><em>帝王時代哨站的視野範圍(有研發<a href="Town_Patrol.php">城鎮巡邏</a>)。</em>
+              <p><em>帝王時代哨站的視野範圍(有研發<a href="/techs/Town_Patrol">城鎮巡邏</a>)。</em>
               </p>
           </div>
         </div>

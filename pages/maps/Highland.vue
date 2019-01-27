@@ -22,11 +22,12 @@
 
           <p>
             在陸地和海上都強盛的文明在這張地圖上會表現很好，例如<a
-              href="Spanish.php"
+              href="/civs/Spanish"
               >西班牙人</a
-            >和<a href="Koreans.php">韓國人</a>。海軍文明如<a href="Malay.php"
+            >和<a href="/civs/Koreans">韓國人</a>。海軍文明如<a
+              href="/civs/Malay"
               >馬來人</a
-            >和<a href="Vikings.php">維京人</a>也是很好的選擇。
+            >和<a href="/civs/Vikings">維京人</a>也是很好的選擇。
           </p>
         </div>
       </div>

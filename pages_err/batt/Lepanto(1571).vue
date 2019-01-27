@@ -149,7 +149,7 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">勒班陀(1571)</a></div>
+       <div class="unititle"><a href="#">勒班陀(1571)</a></div>
        </td>
       </tr>
       <tr>
@@ -158,7 +158,7 @@
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2"><a href="#">情景信息</a></div>
        </td>
       </tr>
       <tr>
@@ -171,10 +171,10 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="Japanese.php">西班牙</a></td>
+       <td class="unit4"><a href="/civs/Japanese">西班牙</a></td>
       </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2"><a href="#">戰役關卡編號</a></div>
        </td>
       </tr>
        <tr>

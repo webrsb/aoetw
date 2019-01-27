@@ -12,14 +12,15 @@
         <div class="n1">
           <p>
             帝王時代是世界帝國的第四個時代。這個時代開始可以訓練<a
-              href="Gunpowder_Unit.php"
+              href="/units/Gunpowder_Unit"
               >火藥單位</a
-            >(<a href="Aztecs.php">阿茲特克</a>、
-            <a href="Huns.php">匈奴</a>、<a href="Incas.php">印加</a>和<a
-              href="Mayans.php"
+            >(<a href="/civs/Aztecs">阿茲特克</a>、
+            <a href="/civs/Huns">匈奴</a>、<a href="/civs/Incas">印加</a>和<a
+              href="/civs/Mayans"
               >馬雅</a
             >之外)，同時也有重裝的
-            <a href="Siege_Weapons.php">攻城武器</a>讓玩家更容易進攻對方城鎮。
+            <a href="/units/Siege_Weapons">攻城武器</a
+            >讓玩家更容易進攻對方城鎮。
           </p>
           <p>
             進入帝王時代後每個文明都可以建造各自的世界奇觀，世界奇觀的建造速度每個文明都是一樣的。
@@ -36,7 +37,7 @@
                 src="~assets/Blacksmithicon.png"
                 width="22"
                 alt=""
-              /><a href="Wonder.php">世界奇觀</a
+              /><a href="/building/Wonder">世界奇觀</a
               >:玩家建造完並守護達200年即可獲得勝利。
             </li>
             <li>
@@ -45,8 +46,8 @@
                 src="~assets/Feitoriaicon.png"
                 width="22"
                 alt=""
-              /><a href="Feitoriaicon_Feitoria.php">港灣大商站</a
-              >:給予免費資源。(限<a href="Portuguese.php">葡萄牙</a>)
+              /><a href="/building/Feitoriaicon_Feitoria">港灣大商站</a
+              >:給予免費資源。(限<a href="/civs/Portuguese">葡萄牙</a>)
             </li>
           </ul>
           <strong>防禦建築</strong>
@@ -57,7 +58,7 @@
                 src="~assets/Watchtowericon.png"
                 width="22"
                 alt=""
-              /><a href="Keep.php">大型箭塔</a>:防禦敵人的塔。
+              /><a href="/units/Keep">大型箭塔</a>:防禦敵人的塔。
             </li>
             <li>
               <img
@@ -65,8 +66,8 @@
                 src="~assets/Bombardtowericon.png"
                 width="22"
                 alt=""
-              /><a href="Bombard_Tower.php">火炮塔</a
-              >：具有高攻擊力的塔。(需先研發<a href="Chemistry.php">化學</a>)
+              /><a href="/building/Bombard_Tower">火炮塔</a
+              >：具有高攻擊力的塔。(需先研發<a href="/techs/Chemistry">化學</a>)
             </li>
             <p>大型箭塔和火炮塔都得先在學院研發相關科技才可建造。</p>
           </ul>
@@ -75,7 +76,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h4>軍事單位</h4>
-          <strong><a href="Barracks.php">軍營</a></strong>
+          <strong><a href="/building/Barracks">軍營</a></strong>
           <ul>
             <li>
               <img
@@ -83,7 +84,7 @@
                 src="~assets/2HandedswordsmanIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Two-Handed_Swordsman.php">雙手劍兵</a>：劍兵單位。
+              /><a href="/units/Two-Handed_Swordsman">雙手劍兵</a>：劍兵單位。
             </li>
             <li>
               <img
@@ -91,7 +92,7 @@
                 src="~assets/ChampionIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Champion.php">劍兵勇士</a>：劍兵單位。
+              /><a href="/units/Champion">劍兵勇士</a>：劍兵單位。
             </li>
             <li>
               <img
@@ -99,7 +100,7 @@
                 src="~assets/HalberdierIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Halberdier.php">戟兵</a>：反騎兵單位。
+              /><a href="/units/Halberdier">戟兵</a>：反騎兵單位。
             </li>
             <li>
               <img
@@ -107,7 +108,7 @@
                 src="~assets/EliteEagleWarriorIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a
+              /><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a
               >：偵查單位，可對付弓箭手。
             </li>
             <li>
@@ -116,13 +117,13 @@
                 src="~assets/CondottieroNewIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Condottiero.php">傭兵</a>：反火藥單位。(限<a
-                href="Italians.php"
+              /><a href="/units/Condottiero">傭兵</a>：反火藥單位。(限<a
+                href="/civs/Italians"
                 >義大利</a
               >和其同盟)
             </li>
           </ul>
-          <strong><a href="Archery_Range.php">射箭場</a></strong>
+          <strong><a href="/building/Archery_Range">射箭場</a></strong>
           <ul>
             <li>
               <img
@@ -130,7 +131,7 @@
                 src="~assets/ArbalestIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Arbalest.php">強弩兵</a>：弓兵單位。
+              /><a href="/units/Arbalest">強弩兵</a>：弓兵單位。
             </li>
             <li>
               <img
@@ -138,7 +139,7 @@
                 src="~assets/HeavyCavArcherIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Heavy_Cavalry_Archer.php">重裝馬騎弓兵</a
+              /><a href="/Heavy_Cavalry_units/Archer">重裝馬騎弓兵</a
               >：騎馬弓兵單位。
             </li>
             <li>
@@ -147,8 +148,8 @@
                 src="~assets/GenitourIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Genitour.php">精銳標槍騎兵</a
-              >：反矛兵的騎馬弓兵單位。(限<a href="Berbers.php">柏柏</a
+              /><a href="/units/Genitour">精銳標槍騎兵</a
+              >：反矛兵的騎馬弓兵單位。(限<a href="/civs/Berbers">柏柏</a
               >和其同盟)
             </li>
             <li>
@@ -157,8 +158,8 @@
                 src="~assets/HandCannoneerIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Hand_Cannoneer.php">火槍兵</a
-              >：輕型火藥單位。(需先研發<a href="Chemistry.php">化學</a>)
+              /><a href="/units/Hand_Cannoneer">火槍兵</a
+              >：輕型火藥單位。(需先研發<a href="/techs/Chemistry">化學</a>)
             </li>
             <li>
               <img
@@ -166,11 +167,11 @@
                 src="~assets/Imperialskirmishericon.png"
                 width="22"
                 alt=""
-              /><a href="Imperial_Skirmisher.php">帝王戰矛兵</a
-              >：反弓兵單位。(限<a href="Vietnamese.php">越南</a>和其同盟)
+              /><a href="/units/Imperial_Skirmisher">帝王戰矛兵</a
+              >：反弓兵單位。(限<a href="/civs/Vietnamese">越南</a>和其同盟)
             </li>
           </ul>
-          <strong><a href="Stable.php">馬廄</a></strong>
+          <strong><a href="/building/Stable">馬廄</a></strong>
           <ul>
             <li>
               <img
@@ -178,7 +179,7 @@
                 src="~assets/HeavyCamelIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Heavy_Camel.php">重裝駱駝騎兵</a>：反騎兵單位。
+              /><a href="/Heavy_units/Camel">重裝駱駝騎兵</a>：反騎兵單位。
             </li>
             <li>
               <img
@@ -186,10 +187,8 @@
                 src="~assets/ImperialCamelIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Imperial_Camel.php">帝王駱駝騎兵</a>：反騎兵單位。(限<a
-                href="Indians.php"
-                >印度</a
-              >)
+              /><a href="/Imperial_units/Camel">帝王駱駝騎兵</a
+              >：反騎兵單位。(限<a href="/civs/Indians">印度</a>)
             </li>
             <li>
               <img
@@ -197,7 +196,7 @@
                 src="~assets/CavalierIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Cavalier.php">騎兵</a>：重裝騎兵單位。
+              /><a href="/units/Cavalier">騎兵</a>：重裝騎兵單位。
             </li>
             <li>
               <img
@@ -205,7 +204,7 @@
                 src="~assets/PaladinIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Paladin.php">遊俠</a>：重裝騎兵單位。
+              /><a href="/units/Paladin">遊俠</a>：重裝騎兵單位。
             </li>
             <li>
               <img
@@ -213,7 +212,7 @@
                 src="~assets/HussarIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Hussar.php">匈牙利輕騎兵</a>：輕型騎馬偵查單位。
+              /><a href="/Hustree/sar">匈牙利輕騎兵</a>：輕型騎馬偵查單位。
             </li>
             <li>
               <img
@@ -221,10 +220,10 @@
                 src="~assets/Elitebattleelephanticon.png"
                 width="22"
                 alt=""
-              /><a href="Battle_Elephant.php">精銳矛象伕</a>：重裝騎兵單位。
+              /><a href="/units/Battle_Elephant">精銳矛象伕</a>：重裝騎兵單位。
             </li>
           </ul>
-          <strong><a href="Castle.php">城堡</a></strong>
+          <strong><a href="/building/Castle">城堡</a></strong>
           <ul>
             <li>
               <img
@@ -232,7 +231,7 @@
                 src="~assets/Elite-unique-research.jpg"
                 width="22"
                 alt=""
-              /><a href="Unique_Unit.php">精銳特殊單位</a>
+              /><a href="/units/Unique_Unit">精銳特殊單位</a>
             </li>
             <li>
               <img
@@ -240,10 +239,10 @@
                 src="~assets/TrebuchetUnpackedIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Trebuchet.php">巨型投石機</a>：強力長程攻城單位。
+              /><a href="/units/Trebuchet">巨型投石機</a>：強力長程攻城單位。
             </li>
           </ul>
-          <strong><a href="Siege_Workshop.php">攻城武器製造所</a></strong>
+          <strong><a href="/building/Siege_Workshop">攻城武器製造所</a></strong>
           <ul>
             <li>
               <img
@@ -251,7 +250,7 @@
                 src="~assets/OnagerIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Onager.php">中型投石車</a>：範圍散射攻城武器。
+              /><a href="/units/Onager">中型投石車</a>：範圍散射攻城武器。
             </li>
             <li>
               <img
@@ -259,8 +258,8 @@
                 src="~assets/SiegeOnagerIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Siege_Onager.php">重型投石車</a
-              >：範圍散射攻城武器。(限<a href="Indians.php">印度</a>)
+              /><a href="/Siege_units/Onager">重型投石車</a
+              >：範圍散射攻城武器。(限<a href="/civs/Indians">印度</a>)
             </li>
             <li>
               <img
@@ -268,7 +267,7 @@
                 src="~assets/CappedRamIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Capped_Ram.php">裝甲衝撞車</a
+              /><a href="/units/Capped_Ram">裝甲衝撞車</a
               >：反建築物攻城單位，對箭矢攻擊幾乎免疫。
             </li>
             <li>
@@ -277,7 +276,7 @@
                 src="~assets/SiegeRamIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Siege_Ram.php">重型衝撞車</a
+              /><a href="/units/Siege_Ram">重型衝撞車</a
               >：反建築物攻城單位，對箭矢攻擊幾乎免疫。
             </li>
             <li>
@@ -286,7 +285,7 @@
                 src="~assets/HeavyScorpionIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Heavy_Scorpion.php">重裝弩炮</a>：範圍攻城武器。
+              /><a href="/units/Heavy_Scorpion">重裝弩炮</a>：範圍攻城武器。
             </li>
             <li>
               <img
@@ -294,11 +293,11 @@
                 src="~assets/BombardCannonIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Bombard_Cannon.php">火炮</a
-              >：遠距離攻城武器。(需先研發<a href="Chemistry.php">化學</a>)
+              /><a href="/units/Bombard_Cannon">火炮</a
+              >：遠距離攻城武器。(需先研發<a href="/techs/Chemistry">化學</a>)
             </li>
           </ul>
-          <strong><a href="Dock.php">碼頭</a></strong>
+          <strong><a href="/building/Dock">碼頭</a></strong>
           <ul>
             <li>
               <img
@@ -306,7 +305,7 @@
                 src="~assets/GalleonAoE2.jpg"
                 width="22"
                 alt=""
-              /><a href="Galleon.php">重型弩炮戰船</a>：基本戰船。
+              /><a href="/units/Galleon">重型弩炮戰船</a>：基本戰船。
             </li>
             <li>
               <img
@@ -314,7 +313,7 @@
                 src="~assets/FastFireShipIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Fast_Fire_Ship.php">快速火戰船</a>：噴火的戰船。
+              /><a href="/units/Fast_Fire_Ship">快速火戰船</a>：噴火的戰船。
             </li>
             <li>
               <img
@@ -322,7 +321,8 @@
                 src="~assets/HeavyDemoShipIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Heavy_Demolition_Ship.php">重型神風船</a>：自爆的戰船。
+              /><a href="/Heavy_units/Demolition_Ship">重型神風船</a
+              >：自爆的戰船。
             </li>
             <li>
               <img
@@ -330,8 +330,8 @@
                 src="~assets/CannonGalleonIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Cannon_Galleon.php">火炮戰船</a
-              >：遠距離攻擊戰船。(需先研發<a href="Chemistry.php">化學</a>)
+              /><a href="/units/Cannon_Galleon">火炮戰船</a
+              >：遠距離攻擊戰船。(需先研發<a href="/techs/Chemistry">化學</a>)
             </li>
             <li>
               <img
@@ -339,8 +339,8 @@
                 src="~assets/CannonGalleonIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Cannon_Galleon.php">精銳火炮戰船</a
-              >：遠距離攻擊戰船。(需先研發<a href="Chemistry.php">化學</a>)
+              /><a href="/units/Cannon_Galleon">精銳火炮戰船</a
+              >：遠距離攻擊戰船。(需先研發<a href="/techs/Chemistry">化學</a>)
             </li>
             <li>
               <img
@@ -348,8 +348,8 @@
                 src="~assets/LongboatIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Longboat.php">精銳維京大戰船</a
-              >：：會射出多發箭矢的戰船。(限<a href="Vikings.php">維京</a>)
+              /><a href="/units/Longboat">精銳維京大戰船</a
+              >：：會射出多發箭矢的戰船。(限<a href="/civs/Vikings">維京</a>)
             </li>
             <li>
               <img
@@ -357,8 +357,8 @@
                 src="~assets/TurtleShipIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Turtle_ship.php">精銳龜甲船</a
-              >：：可發射砲彈的重裝戰船。(限<a href="Koreans.php">韓國</a>)
+              /><a href="/Turtle_ship.php">精銳龜甲船</a
+              >：：可發射砲彈的重裝戰船。(限<a href="/civs/Koreans">韓國</a>)
             </li>
             <li>
               <img
@@ -366,15 +366,16 @@
                 src="~assets/CaravelIcon2.jpg"
                 width="22"
                 alt=""
-              /><a href="Caravel.php">精銳卡拉維爾戰船</a
-              >：：可發射穿透攻擊的戰船。(限<a href="Portuguese.php">葡萄牙</a>)
+              /><a href="/units/Caravel">精銳卡拉維爾戰船</a
+              >：：可發射穿透攻擊的戰船。(限<a href="/civs/Portuguese">葡萄牙</a
+              >)
             </li>
           </ul>
           <h3>可研發科技</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <h4>經濟科技</h4>
-            <strong><a href="Mill.php">磨坊</a></strong>
+            <strong><a href="/building/Mill">磨坊</a></strong>
             <ul>
               <li>
                 <img
@@ -382,10 +383,10 @@
                   src="~assets/Croprotation.jpg"
                   width="22"
                   alt=""
-                /><a href="Crop_Rotation.php">輪耕</a>：農田產量+175。
+                /><a href="/techs/Crop_Rotation">輪耕</a>：農田產量+175。
               </li>
             </ul>
-            <strong><a href="Lumber_Camp.php">伐木場</a></strong>
+            <strong><a href="/building/Lumber_Camp">伐木場</a></strong>
             <ul>
               <li>
                 <img
@@ -393,19 +394,19 @@
                   src="~assets/Twomansaw.jpg"
                   width="22"
                   alt=""
-                /><a href="Two-Man_Saw.php">雙人鋸</a>：村民伐木速度快10%。
+                /><a href="/techs/Two-Man_Saw">雙人鋸</a>：村民伐木速度快10%。
               </li>
             </ul>
-            <strong><a href="Market.php">市集</a></strong>
+            <strong><a href="/building/Market">市集</a></strong>
             <ul>
               <li>
                 <img class="gg" src="~assets/Guilds.jpg" width="22" alt="" /><a
-                  href="Guilds.php"
+                  href="/techs/Guilds"
                   >行會制度</a
                 >：減少交易費用至15%。
               </li>
             </ul>
-            <strong><a href="University.php">學院</a></strong>
+            <strong><a href="/building/University">學院</a></strong>
             <ul>
               <li>
                 <img
@@ -413,12 +414,12 @@
                   src="~assets/Architecture.jpg"
                   width="22"
                   alt=""
-                /><a href="Architecture.php">建築學</a>：建築物+10%
+                /><a href="/techs/Architecture">建築學</a>：建築物+10%
                 HP，建築護甲+1/+1，+3建築護甲。
               </li>
             </ul>
             <h4>軍事科技</h4>
-            <strong><a href="Archery_Range.php">射箭場</a></strong>
+            <strong><a href="/building/Archery_Range">射箭場</a></strong>
             <ul>
               <li>
                 <img
@@ -426,15 +427,15 @@
                   src="~assets/Parthian-Tactics.jpg"
                   width="22"
                   alt=""
-                /><a href="Parthian_Tactics.php">帕提亞戰術</a
+                /><a href="/techs/Parthian_Tactics">帕提亞戰術</a
                 >：馬騎弓兵護甲+1/+2，對長槍兵攻擊+4。
               </li>
             </ul>
-            <strong><a href="Dock.php">碼頭</a></strong>
+            <strong><a href="/building/Dock">碼頭</a></strong>
             <ul>
               <li>
                 <img class="gg" src="~assets/Drydock.jpg" width="22" alt="" /><a
-                  href="Dry_Dock.php"
+                  href="/Dry_building/Dock"
                   >旱碼頭</a
                 >：船隻航行速度+15%，運輸船可承載單位+10。
               </li>
@@ -444,11 +445,11 @@
                   src="~assets/Shipwright.jpg"
                   width="22"
                   alt=""
-                /><a href="Shipwright.php">造船匠</a
+                /><a href="/techs/Shipwright">造船匠</a
                 >：船隻造價-20%，單位生產速度+35%。
               </li>
             </ul>
-            <strong><a href="Castle.php">城堡</a></strong>
+            <strong><a href="/building/Castle">城堡</a></strong>
             <ul>
               <li>
                 <img
@@ -456,7 +457,7 @@
                   src="~assets/Unique-tech.jpg"
                   width="22"
                   alt=""
-                /><a href="untech.php">特殊科技</a>：可研發該文明的特殊科技。
+                /><a href="/techs/untech">特殊科技</a>：可研發該文明的特殊科技。
               </li>
               <li>
                 <img
@@ -464,11 +465,11 @@
                   src="~assets/Hoardings.jpg"
                   width="22"
                   alt=""
-                /><a href="Hoardings.php">外架式柵樓</a>：城堡+20% HP。
+                /><a href="/techs/Hoardings">外架式柵樓</a>：城堡+20% HP。
               </li>
               <li>
                 <img class="gg" src="~assets/Sappers.jpg" width="22" alt="" /><a
-                  href="Sappers.php"
+                  href="/techs/Sappers"
                   >坑道工兵</a
                 >：村民對建築物攻擊+15。
               </li>
@@ -478,7 +479,7 @@
                   src="~assets/Conscription.jpg"
                   width="22"
                   alt=""
-                /><a href="Conscription.php">徵兵制度</a
+                /><a href="/techs/Conscription">徵兵制度</a
                 >：軍營、靶場、馬廄、城堡訓練部隊速度+33%。
               </li>
               <li>
@@ -487,7 +488,7 @@
                   src="~assets/Spiestreason.jpg"
                   width="22"
                   alt=""
-                /><a href="Spies.php">間諜</a>：可看到敵方視野。
+                /><a href="/techs/Spies">間諜</a>：可看到敵方視野。
               </li>
               <li>
                 <img
@@ -495,12 +496,12 @@
                   src="~assets/Spiestreason.jpg"
                   width="22"
                   alt=""
-                /><a href="Spies.php">叛徒</a
+                /><a href="/techs/Spies">叛徒</a
                 >：在弒君模式下可短暫看見敵對國王位置。小地圖上以X顯示。該科技只在弒君模式有。
               </li>
               <h4>1.並不是所有的特殊科技都是屬於軍事科技。</h4>
             </ul>
-            <strong><a href="Blacksmith.php">兵工廠</a></strong>
+            <strong><a href="/building/Blacksmith">兵工廠</a></strong>
             <ul>
               <li>
                 <img
@@ -508,12 +509,12 @@
                   src="~assets/Ringarcherarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="Ring_Archer_Armor.php">弓兵環甲</a
+                /><a href="/techs/Ring_Archer_Armor">弓兵環甲</a
                 >：弓兵和馬騎弓兵護甲+1/+2。
               </li>
               <li>
                 <img class="gg" src="~assets/Bracer.jpg" width="22" alt="" /><a
-                  href="Bracer.php"
+                  href="/techs/Bracer"
                   >護腕</a
                 >：弓兵、馬騎弓兵、戰船、城堡攻擊+1、範圍+1(箭塔只有攻擊+1)。
               </li>
@@ -523,7 +524,7 @@
                   src="~assets/Blastfurnace.jpg"
                   width="22"
                   alt=""
-                /><a href="Blast_Furnace.php">鼓風爐</a>：步兵騎兵攻擊+2。
+                /><a href="/techs/Blast_Furnace">鼓風爐</a>：步兵騎兵攻擊+2。
               </li>
               <li>
                 <img
@@ -531,7 +532,7 @@
                   src="~assets/Platemailarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="Plate_Mail_Armor.php">步兵板甲</a>:步兵護甲+1/+2。
+                /><a href="/techs/Plate_Mail_Armor">步兵板甲</a>:步兵護甲+1/+2。
               </li>
               <li>
                 <img
@@ -539,11 +540,11 @@
                   src="~assets/Platebardingarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="Plate_Barding_Armor.php">騎兵板甲</a
+                /><a href="/techs/Plate_Barding_Armor">騎兵板甲</a
                 >：騎兵護甲+1/+2。
               </li>
             </ul>
-            <strong><a href="University.php">學院</a></strong>
+            <strong><a href="/building/University">學院</a></strong>
             <ul>
               <li>
                 <img
@@ -551,7 +552,7 @@
                   src="~assets/Chemistry.jpg"
                   width="22"
                   alt=""
-                /><a href="Chemistry.php">化學</a
+                /><a href="/techs/Chemistry">化學</a
                 >：開火單位(包括攻城單位)攻擊+1。研發後可生產火藥單位。
               </li>
               <li>
@@ -560,7 +561,7 @@
                   src="~assets/Siegeengineers.jpg"
                   width="22"
                   alt=""
-                /><a href="Siege_Engineers.php">攻城工程師</a
+                /><a href="/techs/Siege_Engineers">攻城工程師</a
                 >:攻城武器攻擊範圍+1(衝撞車除外)。對建築物攻擊加成+20%(炸藥桶+40%)。
               </li>
               <li>
@@ -569,11 +570,11 @@
                   src="~assets/Arrowlits.jpg"
                   width="22"
                   alt=""
-                /><a href="Arrowslits.php">箭狹槽</a
+                /><a href="/techs/Arrowslits">箭狹槽</a
                 >：瞭望箭塔/防禦箭塔/大型箭塔攻擊+1/+2/+3。
               </li>
             </ul>
-            <strong><a href="Monastery.php">修道院</a></strong>
+            <strong><a href="/building/Monastery">修道院</a></strong>
             <ul>
               <li>
                 <img
@@ -581,12 +582,12 @@
                   src="~assets/Illumination.jpg"
                   width="22"
                   alt=""
-                /><a href="Illumination.php">啟發教化</a
+                /><a href="/techs/Illumination">啟發教化</a
                 >：僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
               </li>
               <li>
                 <img class="gg" src="~assets/Faith.jpg" width="22" alt="" /><a
-                  href="Faith.php"
+                  href="/techs/Faith"
                   >忠誠信仰</a
                 >：單位對僧侶(傳教士)的招降更具抵抗力。
               </li>
@@ -596,7 +597,7 @@
                   src="~assets/Blockprinting.jpg"
                   width="22"
                   alt=""
-                /><a href="Block_Printing.php">雕版印刷術</a
+                /><a href="/techs/Block_Printing">雕版印刷術</a
                 >：僧侶(傳教士)的招降範圍+3。
               </li>
               <li>
@@ -605,7 +606,7 @@
                   src="~assets/Theocracy.png"
                   width="22"
                   alt=""
-                /><a href="Theocracy.php">神權統治</a
+                /><a href="/techs/Theocracy">神權統治</a
                 >:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。
               </li>
             </ul>
@@ -614,25 +615,26 @@
             <div class="n1">
               <ul>
                 <li>
-                  <a href="Byzantines.php">拜占庭</a
+                  <a href="/civs/Byzantines">拜占庭</a
                   >：演進帝王時代的花費便宜33%。
                 </li>
                 <li>
-                  <a href="Ethiopians.php">衣索比亞</a
+                  <a href="/civs/Ethiopians">衣索比亞</a
                   >：到帝王時代可獲得100金、100肉。
                 </li>
                 <li>
-                  <a href="Italians.php">義大利</a>：演進帝王時代的花費便宜15%。
+                  <a href="/civs/Italians">義大利</a
+                  >：演進帝王時代的花費便宜15%。
                 </li>
                 <li>
-                  <a href="Khmer.php">高棉</a
+                  <a href="/civs/Khmer">高棉</a
                   >：不須建造特定建築即可演進帝王時代。
                 </li>
                 <li>
-                  <a href="Malay.php">馬來</a>：演進到帝王時代的時間快80%。
+                  <a href="/civs/Malay">馬來</a>：演進到帝王時代的時間快80%。
                 </li>
                 <li>
-                  <a href="Persians.php">波斯</a>：演進到帝王時代的時間快15%。
+                  <a href="/civs/Persians">波斯</a>：演進到帝王時代的時間快15%。
                 </li>
               </ul>
             </div>
@@ -690,7 +692,7 @@
                 src="~assets/Castle-age-reseach.jpg"
                 width="22"
                 alt=""
-              /><a href="Castle_Age.php">城堡時代</a>
+              /><a href="/techsage/Castle_Age">城堡時代</a>
             </td>
           </tr>
           <tr>
@@ -703,21 +705,21 @@
                 src="~assets/Monasteryicon.png"
                 width="22"
                 alt=""
-              /><a href="Monastery.php">修道院</a>
+              /><a href="/building/Monastery">修道院</a>
               <br />
               <img
                 class="gg"
                 src="~assets/Universityicon.png"
                 width="22"
                 alt=""
-              /><a href="University.php">學院</a>
+              /><a href="/building/University">學院</a>
               <br />
               <img
                 class="gg"
                 src="~assets/Siegeworkshopicon.png"
                 width="22"
                 alt=""
-              /><a href="Siege_Workshop.php">攻城器製造所</a>
+              /><a href="/building/Siege_Workshop">攻城器製造所</a>
               <br />或是直接蓋一座
               <br />
               <img
@@ -725,7 +727,7 @@
                 src="~assets/Castleicon.png"
                 width="22"
                 alt=""
-              /><a href="Castle.php">城堡</a>
+              /><a href="/building/Castle">城堡</a>
             </td>
           </tr>
           <tr>
@@ -770,7 +772,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Civimpage.png"
+              <a href="/img/Civimpage.png"
                 ><img class="imgn hg" src="~assets/Civimpage.png" alt=""
               /></a>
               <p><em>文明在帝王時代的樣子。</em></p>

@@ -11,13 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            後勤學是<a href="Byzantines.php">拜占庭</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            後勤學是<a href="/civs/Byzantines">拜占庭</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Cataphract.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Cataphract"
               >聖騎兵</a
-            >有0.5格的踐踏傷害(額外+5攻擊)，對<a href="Armor_Class_Infantry.php"
+            >有0.5格的踐踏傷害(額外+5攻擊)，對<a
+              href="/armor/Armor_Class_Infantry"
               >步兵</a
             >攻擊+6。
           </p>
@@ -28,15 +29,15 @@
           <ul>
             <li>
               有後勤學的拜占庭聖騎兵更能屠殺步兵單位，踐踏傷害則能有效對付一群步兵或是近戰單位。然而<a
-                href="Halberdier.php"
+                href="/units/Halberdier"
                 >戟兵</a
               >對聖騎兵仍舊是個威脅，應盡量避免與一大群的戟兵正面交鋒。
             </li>
             <li>
               後勤學並沒有加成在有拜占庭聖騎兵外表的英雄身上，如:<a
-                href="Attila_the_Hun.php"
+                href="/units/hero/Attila_the_Hun"
                 >阿提拉</a
-              >和<a href="Belisarius.php">貝里薩留</a>。
+              >和<a href="/units/hero/Belisarius">貝里薩留</a>。
             </li>
           </ul>
         </div>
@@ -45,7 +46,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速後勤學的研究時間(快25%)。
             </li>
           </ul>
@@ -62,7 +64,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">後勤學</a></div>
+              <div class="unititle"><a href="#">後勤學</a></div>
             </td>
           </tr>
           <tr>
@@ -74,12 +76,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Byzantines.php">拜占庭</a></td>
+            <td class="unit4"><a href="/civs/Byzantines">拜占庭</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -88,14 +90,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -106,7 +108,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -119,7 +121,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

@@ -54,7 +54,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                  <div class="unititle"><a href="">國王</a>
+                  <div class="unititle"><a href="#">國王</a>
                   </div>
                 </td>
               </tr>
@@ -87,7 +87,7 @@
               </tr>
               <tr>
                 <td class="unit3">類型</td>
-                <td class="unit4"><a href="Gunpowder_Unit.php">平民</a></td>
+                <td class="unit4"><a href="/units/Gunpowder_Unit">平民</a></td>
               </tr>
               <tr>
                 <td class="unit3">資料片</td>
@@ -99,7 +99,7 @@
                 </td>
               </tr>
               <tr>
-                <td class="unit3"><a href="Hit_points.php">血量</a></td>
+                <td class="unit3"><a href="/elements/Hit_points">血量</a></td>
                 <td class="unit4">75</td>
               </tr>
               <tr>
@@ -111,14 +111,14 @@
                 <td class="unit4">0</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="Armor_Class.php">防禦類型</a></td>
+                <td class="unit3"><a href="/Armor_Class.php">防禦類型</a></td>
                 <td class="unit4">無</a>、</tr>
               <tr>
-                <td class="unit3"><a href="">跑速</td>
+                <td class="unit3"><a href="#">跑速</td>
                 <td class="unit4">1.32</td>
               </tr>
               <tr>
-                <td class="unit3"><a href="los.php">視野</a></td>
+                <td class="unit3"><a href="/los.php">視野</a></td>
                 <td class="unit4">6</td>
               </tr>
               <tr>

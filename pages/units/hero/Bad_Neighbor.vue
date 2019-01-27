@@ -11,7 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            壞鄰居是一個在薩拉丁戰役最終關：<a href="The_Lion_and_the_Demon.php"
+            壞鄰居是一個在薩拉丁戰役最終關：<a
+              href="/batt/The_Lion_and_the_Demon"
               >獅子與惡魔</a
             >登場的英雄單位。壞鄰居的原型是一台參與了
             <a href="http://tinyurl.com/yd7zm48f">阿卡圍城戰</a
@@ -26,10 +27,10 @@
               雖然壞鄰居的確有在<a href="http://tinyurl.com/yd7zm48f"
                 >阿卡圍城戰</a
               >中被使用，但在史實中他是由腓力二世所擁有，而不是
-              <a href="Richard_the_Lionheart.php">獅心王理查</a>。
+              <a href="/units/hero/Richard_the_Lionheart">獅心王理查</a>。
             </li>
             <li>
-              壞鄰居和<a href="God_s_Own_Sling.php">神之弓</a
+              壞鄰居和<a href="/units/hero/God_s_Own_Sling">神之弓</a
               >長達20的射程在遊戲中無人能及。
             </li>
           </ul>
@@ -39,7 +40,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">壞鄰居</a></div>
+              <div class="unititle"><a href="#">壞鄰居</a></div>
             </td>
           </tr>
           <tr>

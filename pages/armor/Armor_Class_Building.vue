@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於建築裝甲的。而關於建築種類請參見<a
-              href="bulding.php"
+              href="/building/bulding"
               >建築頁</a
             ></em
           >
@@ -33,61 +33,61 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/Houseicon.png" alt="" /><a
-                    href="House.php"
+                    href="/building/House"
                     >房屋</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Towncentericon.png" alt="" /><a
-                    href="Town_Center.php"
+                    href="/building/Town_Center"
                     >城鎮中心</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Millicon.png" alt="" /><a
-                    href="Mill.php"
+                    href="/building/Mill"
                     >磨坊</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Farmicon.png" alt="" /><a
-                    href="Farm.php"
+                    href="/building/Farm"
                     >農田</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Lumbercampicon.png" alt="" /><a
-                    href="Lumber_Camp.php"
+                    href="/building/Lumber_Camp"
                     >伐木場</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Miningcampicon.png" alt="" /><a
-                    href="Mining_Camp.php"
+                    href="/building/Mining_Camp"
                     >採礦營地</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Marketicon.png" alt="" /><a
-                    href="Market.php"
+                    href="/building/Market"
                     >市集</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Blacksmithicon.png" alt="" /><a
-                    href="Blacksmith.php"
+                    href="/building/Blacksmith"
                     >兵工廠</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Monasteryicon.png" alt="" /><a
-                    href="Monastery.php"
+                    href="/building/Monastery"
                     >修道院</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Universityicon.png" alt="" /><a
-                    href="University.php"
+                    href="/building/University"
                     >學院</a
                   >
                 </li>
@@ -97,13 +97,13 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/Dockicon.png" alt="" /><a
-                    href="Dock.php"
+                    href="/building/Dock"
                     >碼頭</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Barracks-logo.jpg" alt="" /><a
-                    href="Barracks.php"
+                    href="/building/Barracks"
                     >軍營</a
                   >
                 </li>
@@ -112,11 +112,11 @@
                     class="gg"
                     src="~assets/Archery-range-logo.jpg"
                     alt=""
-                  /><a href="Archery_Range.php">射箭場</a>
+                  /><a href="/building/Archery_Range">射箭場</a>
                 </li>
                 <li>
                   <img class="gg" src="~assets/Stableicon.png" alt="" /><a
-                    href="Stable.php"
+                    href="/building/Stable"
                     >馬廄</a
                   >
                 </li>
@@ -125,35 +125,35 @@
                     class="gg"
                     src="~assets/Siegeworkshopicon.png"
                     alt=""
-                  /><a href="Siege_Workshop.php">攻城武器製造所</a>
+                  /><a href="/building/Siege_Workshop">攻城武器製造所</a>
                 </li>
                 <li>
                   <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                    href="Castle.php"
+                    href="/building/Castle"
                     >城堡</a
                   >(8)
                 </li>
                 <li>
                   <img class="gg" src="~assets/Palisadewallicon.png" alt="" /><a
-                    href="Palisade_Wall.php"
+                    href="/building/Palisade_Wall"
                     >木牆</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Palisadegateicon.png" alt="" /><a
-                    href="Palisade_Gate.php"
+                    href="/Palisade_building/Gate"
                     >木門</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Stonewallicon.png" alt="" /><a
-                    href="Stone_Wall.php"
+                    href="/building/Stone_Wall"
                     >石牆</a
                   >(16)
                 </li>
                 <li>
                   <img class="gg" src="~assets/Stonewallicon.png" alt="" /><a
-                    href="Fortified_Wall.php"
+                    href="/building/Fortified_Wall"
                     >垛牆</a
                   >(24)
                 </li>
@@ -163,57 +163,57 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/Gateicon.png" alt="" /><a
-                    href="Gateicon_Gate.php"
+                    href="/building/Gateicon_Gate"
                     >城門</a
                   >(20)
                 </li>
                 <li>
                   <img class="gg" src="~assets/Outposticon.png" alt="" /><a
-                    href="Outpost.php"
+                    href="/building/Outpost"
                     >哨站</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                    href="Watch_Tower.php"
+                    href="/units/Watch_Tower"
                     >暸望箭塔</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                    href="Guard_Tower.php"
+                    href="/units/Guard_Tower"
                     >防禦箭塔</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Watchtowericon.png" alt="" /><a
-                    href="Keep.php"
+                    href="/units/Keep"
                     >大型箭塔</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Bombardtowericon.png" alt="" /><a
-                    href="Bombard_Tower.php"
+                    href="/building/Bombard_Tower"
                     >火炮塔</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Wondericon.png" alt="" /><a
-                    href="Wonder.php"
+                    href="/building/Wonder"
                     >世界奇觀</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Feitoriaicon.png" alt="" /><a
-                    href="Feitoriaicon_Feitoria.php"
+                    href="/building/Feitoriaicon_Feitoria"
                     >港灣大商站</a
-                  >(<a href="Portuguese.php">葡萄牙</a>限定)
+                  >(<a href="/civs/Portuguese">葡萄牙</a>限定)
                 </li>
                 <li>
                   <img class="gg" src="~assets/Dockicon.png" alt="" /><a
-                    href="Harbor.php"
+                    href="/building/Harbor"
                     >巨港</a
-                  >(<a href="Malay.php">馬來</a>限定)
+                  >(<a href="/civs/Malay">馬來</a>限定)
                 </li>
               </ul>
             </div>
@@ -232,7 +232,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                  href="Petard.php"
+                  href="/units/Petard"
                   >爆炸桶</a
                 >
               </li>
@@ -241,7 +241,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/HeavyDemoShipIcon.jpg" alt="" /><a
-                  href="Heavy_Demolition_Ship.php"
+                  href="/Heavy_units/Demolition_Ship"
                   >重型神風船</a
                 >
               </li>
@@ -250,7 +250,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                  href="Elite_Cannon_Galleon.php"
+                  href="/Elite_units/Cannon_Galleon"
                   >精銳火炮戰船</a
                 >
               </li>
@@ -262,7 +262,7 @@
                   class="gg"
                   src="~assets/TrebuchetUnpackedIcon.jpg"
                   alt=""
-                /><a href="Trebuchet.php">巨型投石機</a>
+                /><a href="/units/Trebuchet">巨型投石機</a>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+220攻擊</strong></div>
@@ -273,26 +273,26 @@
                   src="~assets/DemoShipIcon.jpg"
                   width="22"
                   alt=""
-                /><a href="Demolition_Ship.php">神風船</a>
+                /><a href="/units/Demolition_Ship">神風船</a>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+200攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/SiegeRamIcon.jpg" alt="" /><a
-                  href="Siege_Ram.php"
+                  href="/units/Siege_Ram"
                   >重型衝撞車</a
                 >
               </li>
               <li>
                 <img class="gg" src="~assets/BombardCannonIcon.jpg" alt="" /><a
-                  href="Bombard_Cannon.php"
+                  href="/units/Bombard_Cannon"
                   >火砲</a
                 >
               </li>
               <li>
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                  href="Cannon_Galleon.php"
+                  href="/units/Cannon_Galleon"
                   >火炮戰船</a
                 >
               </li>
@@ -301,7 +301,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" /><a
-                  href="Demolition_Raft.php"
+                  href="/units/Demolition_Raft"
                   >自爆筏</a
                 >
               </li>
@@ -314,14 +314,14 @@
                   src="~assets/CappedRamIcon.jpg"
                   width="22"
                   alt=""
-                /><a href="Capped_Ram.php">裝甲衝撞車</a>
+                /><a href="/units/Capped_Ram">裝甲衝撞車</a>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+125攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/BatteringRamIcon.jpg" alt="" /><a
-                  href="Battering_Ram.php"
+                  href="/units/Battering_Ram"
                   >輕形衝撞車</a
                 >
               </li>
@@ -332,7 +332,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt="" /><a
-                  href="Siege_Onager.php"
+                  href="/Siege_units/Onager"
                   >重型投石車</a
                 >
               </li>
@@ -341,7 +341,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><a
-                  href="Onager.php"
+                  href="/units/Onager"
                   >中型投石車</a
                 >
               </li>
@@ -350,7 +350,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><a
-                  href="Mangonel.php"
+                  href="/units/Mangonel"
                   >輕形投石車</a
                 >
               </li>
@@ -359,7 +359,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/Battleelephanticon.png" alt="" /><a
-                  href="Battle_Elephant.php"
+                  href="/units/Battle_Elephant"
                   >精銳矛象伕</a
                 >
               </li>
@@ -369,59 +369,59 @@
                   src="~assets/WarElephantIcon.jpg"
                   width="22"
                   alt=""
-                /><a href="War_Elephant.php">精銳波斯戰象</a>(<a
-                  href="Persians.php"
+                /><a href="/War_unitsanimal/Elephant">精銳波斯戰象</a>(<a
+                  href="/civs/Persians"
                   >波斯</a
                 >限定)
               </li>
               <li>
                 <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="Tarkan.php"
+                  href="/units/Tarkan"
                   >精銳韃靼騎兵</a
-                >(<a href="Huns.php">匈奴</a>限定)
+                >(<a href="/civs/Huns">匈奴</a>限定)
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><a
-                  href="Caravel.php"
+                  href="/units/Caravel"
                   >精銳卡拉維爾戰船</a
-                >(<a href="Portuguese.php">葡萄牙</a>限定)
+                >(<a href="/civs/Portuguese">葡萄牙</a>限定)
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="Tarkan.php"
+                  href="/units/Tarkan"
                   >韃靼騎兵</a
-                >(<a href="Huns.php">匈奴</a>限定)
+                >(<a href="/civs/Huns">匈奴</a>限定)
               </li>
               <li>
                 <img class="gg" src="~assets/GalleonAoE2.jpg" alt="" /><a
-                  href="Galleon.php"
+                  href="/units/Galleon"
                   >重型弩炮戰船</a
                 >
               </li>
               <li>
                 <img class="gg" src="~assets/LongboatIcon.jpg" alt="" /><a
-                  href="Longboat.php"
+                  href="/units/Longboat"
                   >精銳維京大戰船</a
-                >(<a href="Vikings.php">維京</a>限定)
+                >(<a href="/civs/Vikings">維京</a>限定)
               </li>
               <li>
                 <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><a
-                  href="Caravel.php"
+                  href="/units/Caravel"
                   >卡拉維爾戰船</a
-                >(<a href="Portuguese.php">葡萄牙</a>限定)
+                >(<a href="/civs/Portuguese">葡萄牙</a>限定)
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/Battleelephanticon.png" alt="" /><a
-                  href="Battle_Elephant.php"
+                  href="/units/Battle_Elephant"
                   >矛象伕</a
                 >
               </li>
@@ -431,7 +431,8 @@
                   src="~assets/WarElephantIcon.jpg"
                   width="22"
                   alt=""
-                /><a href="War_Elephant.php">波斯戰象</a>(<a href="Persians.php"
+                /><a href="/War_unitsanimal/Elephant">波斯戰象</a>(<a
+                  href="/civs/Persians"
                   >波斯</a
                 >限定)
               </li>
@@ -441,13 +442,13 @@
                   src="~assets/WarGalley.jpg"
                   width="22"
                   alt=""
-                /><a href="War_Galley.php">弩炮戰船</a>
+                /><a href="/War_units/Galley">弩炮戰船</a>
               </li>
               <li>
                 <img class="gg" src="~assets/LongboatIcon.jpg" alt="" /><a
-                  href="Longboat.php"
+                  href="/units/Longboat"
                   >維京大戰船</a
-                >(<a href="Vikings.php">維京</a>限定)
+                >(<a href="/civs/Vikings">維京</a>限定)
               </li>
             </ul>
           </div>
@@ -456,7 +457,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/Galley.jpg" alt="" /><a
-                  href="Galley.php"
+                  href="/units/Galley"
                   >戰船</a
                 >
               </li>
@@ -465,7 +466,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt="" /><a
-                  href="Heavy_Scorpion.php"
+                  href="/units/Heavy_Scorpion"
                   >重型弩炮</a
                 >
               </li>
@@ -474,8 +475,8 @@
                   class="gg"
                   src="~assets/Ballistaelephanticon.png"
                   alt=""
-                /><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a
-                  href="Khmer.php"
+                /><a href="/Ballista_unitsanimal/Elephant">精銳弩炮象</a>(<a
+                  href="/civs/Khmer"
                   >高棉</a
                 >限定)
               </li>
@@ -484,13 +485,13 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt="" /><a
-                  href="Villager.php"
+                  href="/units/Villager"
                   >村民</a
                 >
               </li>
               <li>
                 <img class="gg" src="~assets/FastFireShipIcon.jpg" alt="" /><a
-                  href="Fast_Fire_Ship.php"
+                  href="/units/Fast_Fire_Ship"
                   >快速火戰船</a
                 >
               </li>
@@ -499,22 +500,23 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" /><a
-                  href="Scorpion.php"
+                  href="/units/Scorpion"
                   >弩炮</a
                 >
               </li>
               <li>
                 <img class="gg" src="~assets/ConquistadorIcon.jpg" alt="" /><a
-                  href="Conquistador.php"
+                  href="/units/Conquistador"
                   >精銳征服者</a
-                >(<a href="Spanish.php">西班牙</a>限定)
+                >(<a href="/civs/Spanish">西班牙</a>限定)
               </li>
               <li>
                 <img
                   class="gg"
                   src="~assets/Ballistaelephanticon.png"
                   alt=""
-                /><a href="Ballista_Elephant.php">弩炮象</a>(<a href="Khmer.php"
+                /><a href="/Ballista_unitsanimal/Elephant">弩炮象</a>(<a
+                  href="/civs/Khmer"
                   >高棉</a
                 >限定)
               </li>
@@ -524,14 +526,14 @@
                   src="~assets/FireShipIcon.jpg"
                   width="22"
                   alt=""
-                /><a href="Fire_Ship.php">火戰船</a>
+                /><a href="/units/Fire_Ship">火戰船</a>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" /><a
-                  href="Fire_Galley.php"
+                  href="/units/Fire_Galley"
                   >火蒙衝</a
                 >
               </li>
@@ -552,13 +554,13 @@
                   src="~assets/Siegeengineers.jpg"
                   width="22"
                   alt=""
-                /><a href="Siege_Engineers.php"> 攻城工程師</a>
+                /><a href="/techs/Siege_Engineers"> 攻城工程師</a>
               </p>
               <div style="margin:12px 0px;"><strong>+200攻擊</strong></div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                    href="Petard.php"
+                    href="/units/Petard"
                     >爆炸桶</a
                   >
                 </li>
@@ -570,14 +572,14 @@
                     class="gg"
                     src="~assets/TrebuchetUnpackedIcon.jpg"
                     alt=""
-                  /><a href="Trebuchet.php">巨型投石機</a>
+                  /><a href="/units/Trebuchet">巨型投石機</a>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+40攻擊</strong></div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/SiegeRamIcon.jpg" alt="" /><a
-                    href="Siege_Ram.php"
+                    href="/units/Siege_Ram"
                     >重型衝撞車</a
                   >
                 </li>
@@ -586,7 +588,7 @@
                     class="gg"
                     src="~assets/BombardCannonIcon.jpg"
                     alt=""
-                  /><a href="Bombard_Cannon.php">火砲</a>
+                  /><a href="/units/Bombard_Cannon">火砲</a>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+30攻擊</strong></div>
@@ -597,14 +599,14 @@
                     src="~assets/CappedRamIcon.jpg"
                     width="22"
                     alt=""
-                  /><a href="Capped_Ram.php">裝甲衝撞車</a>
+                  /><a href="/units/Capped_Ram">裝甲衝撞車</a>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+25攻擊</strong></div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/BatteringRamIcon.jpg" alt="" /><a
-                    href="Battering_Ram.php"
+                    href="/units/Battering_Ram"
                     >輕形衝撞車</a
                   >
                 </li>
@@ -617,13 +619,13 @@
                   src="~assets/Siegeengineers.jpg"
                   width="22"
                   alt=""
-                /><a href="Siege_Engineers.php"> 攻城工程師</a>
+                /><a href="/techs/Siege_Engineers"> 攻城工程師</a>
               </p>
               <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
               <ul>
                 <li>
                   <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt="" /><a
-                    href="Siege_Onager.php"
+                    href="/Siege_units/Onager"
                     >重型投石車</a
                   >
                 </li>
@@ -632,7 +634,7 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><a
-                    href="Onager.php"
+                    href="/units/Onager"
                     >中型投石車</a
                   >
                 </li>
@@ -641,7 +643,7 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><a
-                    href="Mangonel.php"
+                    href="/units/Mangonel"
                     >輕形投石車</a
                   >
                 </li>
@@ -653,15 +655,15 @@
                     class="gg"
                     src="~assets/HeavyScorpionIcon.jpg"
                     alt=""
-                  /><a href="Heavy_Scorpion.php">重型弩炮</a>
+                  /><a href="/units/Heavy_Scorpion">重型弩炮</a>
                 </li>
                 <li>
                   <img
                     class="gg"
                     src="~assets/Ballistaelephanticon.png"
                     alt=""
-                  /><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a
-                    href="Khmer.php"
+                  /><a href="/Ballista_unitsanimal/Elephant">精銳弩炮象</a>(<a
+                    href="/civs/Khmer"
                     >高棉</a
                   >限定)
                 </li>
@@ -670,7 +672,7 @@
             <div class="col-md-4">
               <p>
                 <img src="~assets/Sappers.jpg" width="22" alt="" /><a
-                  href="Sappers.php"
+                  href="/techs/Sappers"
                   >坑道工兵</a
                 >
               </p>
@@ -678,7 +680,7 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt="" /><a
-                    href="Villager.php"
+                    href="/units/Villager"
                     >村民</a
                   >
                 </li>
@@ -689,8 +691,8 @@
                   src="~assets/Unique-tech.jpg"
                   width="22"
                   alt=""
-                /><a href="Manipur_Cavalry.php"> 曼尼普爾騎兵</a>(<a
-                  href="Burmese.php"
+                /><a href="/techs/Manipur_Cavalry"> 曼尼普爾騎兵</a>(<a
+                  href="/civs/Burmese"
                   >緬甸</a
                 >限定)
               </p>
@@ -698,23 +700,23 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" /><a
-                    href="Scout_Cavalry.php"
+                    href="/units/Scout_Cavalry"
                     >斥侯</a
                   >→
                   <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" /><a
-                    href="Light_Cavalry.php"
+                    href="/units/Light_Cavalry"
                     >輕騎兵</a
                   >→ <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><a
-                    href="Hussar.php"
+                    href="/Hustree/sar"
                     >匈牙利清騎兵</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><a
-                    href="Knight.php"
+                    href="/units/Knight"
                     >騎士</a
                   >→ <img class="gg" src="~assets/CavalierIcon.jpg" alt="" /><a
-                    href="Cavalier.php"
+                    href="/units/Cavalier"
                     >騎兵</a
                   >
                 </li>
@@ -723,21 +725,21 @@
                     class="gg"
                     src="~assets/Battleelephanticon.png"
                     alt=""
-                  /><a href="Battle_Elephant.php">矛象伕</a>→
+                  /><a href="/units/Battle_Elephant">矛象伕</a>→
                   <img
                     class="gg"
                     src="~assets/Battleelephanticon.png"
                     alt=""
-                  /><a href="Battle_Elephant.php">精銳矛象伕</a>
+                  /><a href="/units/Battle_Elephant">精銳矛象伕</a>
                 </li>
                 <li>
                   <img class="gg" src="~assets/Arambaiicon.png" alt="" /><a
-                    href="Arambai.php"
+                    href="/units/Arambai"
                     >飛鏢騎兵</a
                   >→ <img class="gg" src="~assets/Arambaiicon.png" alt="" /><a
-                    href="Arambai.php"
+                    href="/units/Arambai"
                     >精銳飛鏢騎兵</a
-                  >(<a href="Burmese.php">緬甸</a>限定)
+                  >(<a href="/civs/Burmese">緬甸</a>限定)
                 </li>
               </ul>
             </div>
@@ -748,7 +750,7 @@
         <ul>
           <li>
             <img class="gg" src="~assets/Masonry.jpg" width="22" alt="" /><a
-              href="Masonry.php"
+              href="/techs/Masonry"
               >磚瓦技術</a
             >
           </li>
@@ -761,7 +763,7 @@
               src="~assets/Architecture.jpg"
               width="22"
               alt=""
-            /><a href="Architecture.php">建築學</a>
+            /><a href="/techs/Architecture">建築學</a>
           </li>
         </ul>
       </div>
@@ -774,37 +776,37 @@
           <ul>
             <li>
               <img class="gg" src="~assets/CamelIcon.jpg" alt="" /><a
-                href="Camel.php"
+                href="/units/Camel"
                 >駱駝騎兵</a
               >→ <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" /><a
-                href="Heavy_Camel.php"
+                href="/Heavy_units/Camel"
                 >重裝駱駝騎兵</a
               >→ <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt="" /><a
-                href="Imperial Camel.php"
+                href="/Imperial units/Camel"
                 >帝王駱駝騎兵</a
-              >(帝王駱駝騎兵是<a href="Indians.php">印度</a>限定)
+              >(帝王駱駝騎兵是<a href="/civs/Indians">印度</a>限定)
             </li>
           </ul>
           <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
           <ul>
             <li>
               <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" /><a
-                href="Camel_Archer.php"
+                href="/Camel_units/Archer"
                 >駱駝弓騎兵</a
               >→ <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" /><a
-                href="Camel_Archer.php"
+                href="/Camel_units/Archer"
                 >精銳駱駝弓騎兵</a
-              >(<a href="Berbers.php">柏柏</a>限定)
+              >(<a href="/civs/Berbers">柏柏</a>限定)
             </li>
             <li>
               <img class="gg" src="~assets/Saracenmamluk_icon.png" alt="" /><a
-                href="Mameluke.php"
+                href="/units/Mameluke"
                 >奴隸兵</a
               >→
               <img class="gg" src="~assets/Saracenmamluk_icon.png" alt="" /><a
-                href="Mameluke.php"
+                href="/units/Mameluke"
                 >精銳奴隸兵</a
-              >(<a href="Saracens.php">薩拉森</a>限定)
+              >(<a href="/civs/Saracens">薩拉森</a>限定)
             </li>
           </ul>
         </div>

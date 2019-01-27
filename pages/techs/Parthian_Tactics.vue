@@ -11,14 +11,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            帕提亞戰術(舊稱安息人戰術)在<a href="Imperial_Age.php">帝王時代</a
-            >於<a href="Archery_Range.php">射箭場</a>研發，他給予了
-            <a href="Cavalry_Archer.php">馬弓騎兵</a
-            >類近防+1/遠防+2，額外+2或+4攻擊對<a href="Spearman.php">長槍兵</a
+            帕提亞戰術(舊稱安息人戰術)在<a href="/techsage/Imperial_Age"
+              >帝王時代</a
+            >於<a href="/building/Archery_Range">射箭場</a>研發，他給予了
+            <a href="/Cavalry_units/Archer">馬弓騎兵</a
+            >類近防+1/遠防+2，額外+2或+4攻擊對<a href="/units/Spearman"
+              >長槍兵</a
             >。
           </p>
           <p>
-            <a href="Persians.php">波斯人</a
+            <a href="/civs/Persians">波斯人</a
             >以及安息人(帕提亞為音譯)大部分均善於騎射，以致弓騎兵長年為安息帝國軍中干城，戰力剽悍的安息騎兵亦譽滿天下。當年安息弓騎兵作戰時廣泛採用一種戰術：於戰場上佯作（或實際）撤退，引誘敵人（通常為騎兵）追趕，然後當敵人追至近身時，突然轉身向身後敵人發箭。由於距離較近，不須高超射術即可重創敵方，所以此戰術後來得以逐漸在弓騎兵作戰中普及。
           </p>
         </div>
@@ -38,12 +40,15 @@
                   ></strong
                 >
               </h4>
-              <a href="Burmese.php">緬甸</a>、 <a href="Huns.php">匈奴</a>、
-              <a href="Indians.php">印度</a>、 <a href="Japanese.php">日本</a>、
-              <a href="Khmer.php">高棉</a>、 <a href="Magyars.php">馬扎爾</a>、
-              <a href="Mongols.php">蒙古</a>、 <a href="Persians.php">波斯</a>、
-              <a href="Saracens.php">薩拉森</a>、
-              <a href="Turks.php">土耳其</a>。
+              <a href="/civs/Burmese">緬甸</a>、 <a href="/civs/Huns">匈奴</a>、
+              <a href="/civs/Indians">印度</a>、
+              <a href="/civs/Japanese">日本</a>、
+              <a href="/civs/Khmer">高棉</a>、
+              <a href="/civs/Magyars">馬扎爾</a>、
+              <a href="/civs/Mongols">蒙古</a>、
+              <a href="/civs/Persians">波斯</a>、
+              <a href="/civs/Saracens">薩拉森</a>、
+              <a href="/civs/Turks">土耳其</a>。
             </div>
           </div>
         </div>
@@ -61,24 +66,29 @@
                   ></strong
                 >
               </h4>
-              <a href="Aztecs.php">阿茲特克</a>、
-              <a href="Britons.php">不列顛</a>、
-              <a href="Celts.php">賽爾特</a>、 <a href="Franks.php">法蘭克</a>、
-              <a href="Goths.php">哥德</a>、 <a href="Khmer.php">高棉</a>、
-              <a href="Slavs.php">斯拉夫</a>、 <a href="Teutons.php">條頓</a>、
-              <a href="Berbers.php">柏柏</a>、
-              <a href="Byzantines.php">拜占庭</a>、
-              <a href="Chinese.php">中國</a>、
-              <a href="Ethiopians.php">衣索比亞</a>、
-              <a href="Incas.php">印加</a>、 <a href="Italians.php">義大利</a>、
-              <a href="Japanese.php">日本</a>、 <a href="Koreans.php">韓國</a>、
-              <a href="Malay.php">馬來</a>、 <a href="Malay.php">馬利</a>、
-              <a href="Mayans.php">馬雅</a>、 <a href="Persians.php">波斯</a>、
-              <a href="Portuguese.php">葡萄牙</a>、
-              <a href="Saracens.php">薩拉森</a>、
-              <a href="Spanish.php">西班牙</a>、
-              <a href="Vietnamese.php">越南</a>、
-              <a href="Vikings.php">維京</a>。
+              <a href="/civs/Aztecs">阿茲特克</a>、
+              <a href="/civs/Britons">不列顛</a>、
+              <a href="/civs/Celts">賽爾特</a>、
+              <a href="/civs/Franks">法蘭克</a>、
+              <a href="/civs/Goths">哥德</a>、 <a href="/civs/Khmer">高棉</a>、
+              <a href="/civs/Slavs">斯拉夫</a>、
+              <a href="/civs/Teutons">條頓</a>、
+              <a href="/civs/Berbers">柏柏</a>、
+              <a href="/civs/Byzantines">拜占庭</a>、
+              <a href="/civs/Chinese">中國</a>、
+              <a href="/civs/Ethiopians">衣索比亞</a>、
+              <a href="/civs/Incas">印加</a>、
+              <a href="/civs/Italians">義大利</a>、
+              <a href="/civs/Japanese">日本</a>、
+              <a href="/civs/Koreans">韓國</a>、
+              <a href="/civs/Malay">馬來</a>、 <a href="/civs/Malay">馬利</a>、
+              <a href="/civs/Mayans">馬雅</a>、
+              <a href="/civs/Persians">波斯</a>、
+              <a href="/civs/Portuguese">葡萄牙</a>、
+              <a href="/civs/Saracens">薩拉森</a>、
+              <a href="/civs/Spanish">西班牙</a>、
+              <a href="/civs/Vietnamese">越南</a>、
+              <a href="/civs/Vikings">維京</a>。
             </div>
           </div>
         </div>
@@ -91,14 +101,14 @@
           <tr class="tta">
             <td>弓箭手單位</td>
             <td>近防/遠防增加</td>
-            <td>對<a href="Spearman.php">長槍兵</a>攻擊加成</td>
+            <td>對<a href="/units/Spearman">長槍兵</a>攻擊加成</td>
           </tr>
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-              <a href="Cavalry_Archer.php">馬弓騎兵</a>→
+              <a href="/Cavalry_units/Archer">馬弓騎兵</a>→
               <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-              <a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a>
+              <a href="/Heavy_Cavalry_units/Archer">重裝馬弓騎兵</a>
             </td>
             <td class="tta2">+1/+2</td>
             <td class="tta3">+4</td>
@@ -106,10 +116,10 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/MangudaiIcon.jpg" alt="" /><a
-                href="Mangudai.php"
+                href="/units/Mangudai"
                 >蒙古突騎</a
               >→ <img class="gg" src="~assets/MangudaiIcon.jpg" alt="" /><a
-                href="Mangudai.php"
+                href="/units/Mangudai"
                 >精銳蒙古突騎</a
               >
             </td>
@@ -119,11 +129,11 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt="" /><a
-                href="Elephant_Archer.php"
+                href="/Elephant_units/Archer"
                 >象弓騎兵</a
               >→
               <img class="gg" src="~assets/ElephantArcherIcon.jpg" alt="" /><a
-                href="Elephant_Archer.php"
+                href="/Elephant_units/Archer"
                 >精銳象弓騎兵</a
               >
             </td>
@@ -133,17 +143,17 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" /><a
-                href="Camel_Archer.php"
+                href="/Camel_units/Archer"
                 >駱駝弓騎兵</a
               >→ <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-              <a href="Camel_Archer.php">精銳駱駝弓騎兵</a>
+              <a href="/Camel_units/Archer">精銳駱駝弓騎兵</a>
             </td>
             <td class="tta2">+1/+2</td>
             <td class="tta3">+2</td>
           </tr>
           <p>
-            <strong>注意</strong>:<a href="Genitour.php">標槍騎兵</a>和<a
-              href="Arambai.php"
+            <strong>注意</strong>:<a href="/units/Genitour">標槍騎兵</a>和<a
+              href="/units/Arambai"
               >飛鏢騎兵</a
             >雖然是騎馬的弓箭手，但他們不受帕提亞戰術的影響。
           </p>
@@ -153,7 +163,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Britons.php">不列顛</a>：研發快20%。</li>
+            <li><a href="/civs/Britons">不列顛</a>：研發快20%。</li>
           </ul>
         </div>
         <h3>瑣事</h3>
@@ -175,7 +185,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">帕提亞戰術</a></div>
+              <div class="unititle"><a href="#">帕提亞戰術</a></div>
             </td>
           </tr>
           <tr>
@@ -187,7 +197,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -201,14 +211,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Archery-range-logo.jpg" alt="" /><a
-                href="Archery_Range.php"
+                href="/building/Archery_Range"
                 >射箭場</a
               >
             </td>
@@ -219,7 +229,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -232,7 +242,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

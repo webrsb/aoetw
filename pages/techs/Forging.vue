@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鍛造可於<a href="Feudal_Age.php">封建時代</a>在<a
-              href="Blacksmith.php"
+            鍛造可於<a href="/techsage/Feudal_Age">封建時代</a>在<a
+              href="/building/Blacksmith"
               >兵工廠</a
-            >研發，可讓 <a href="Infantry_Units.php">步兵</a>、<a
-              href="Cavalry_Units.php"
+            >研發，可讓 <a href="/units/Infantry_Units">步兵</a>、<a
+              href="/units/Cavalry_Units"
               >騎兵</a
             >攻擊+1。
           </p>
@@ -25,14 +25,15 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
             </li>
             <li>
-              <a href="Incas.php">印加</a>：同樣使<a href="Villager.php">村民</a
+              <a href="/civs/Incas">印加</a>：同樣使<a href="/units/Villager"
+                >村民</a
               >獲得+1攻擊。
             </li>
-            <li><a href="Magyars.php">馬扎爾</a>：該科技免費。</li>
+            <li><a href="/civs/Magyars">馬扎爾</a>：該科技免費。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -53,7 +54,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">鍛造</a></div>
+              <div class="unititle"><a href="#">鍛造</a></div>
             </td>
           </tr>
           <tr>
@@ -65,7 +66,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -74,17 +75,17 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Feudal_Age.php">封建時代</a></td>
+            <td class="unit4"><a href="/techsage/Feudal_Age">封建時代</a></td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
-            <td class="unit4"><a href="Blacksmith.php">兵工廠</a></td>
+            <td class="unit4"><a href="/building/Blacksmith">兵工廠</a></td>
           </tr>
           <tr>
             <td class="unit3">次一升級</td>
             <td class="unit4">
               <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><a
-                href="Iron_Casting.php"
+                href="/techs/Iron_Casting"
                 >鑄造</a
               >
             </td>
@@ -95,7 +96,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -104,7 +105,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

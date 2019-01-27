@@ -21,7 +21,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="">重劍兵</a>
+                <div class="unititle"><a href="#">重劍兵</a>
                 </div>
               </td>
             </tr>
@@ -39,7 +39,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="">步兵<br/></td>      </tr>      <tr>        <td class="unit3">出場</td>       <td class="unit4">世紀帝國1</td>      </tr>      <tr>        <td class="unit" colspan="2" style="background-color:#d01022;">       <div class="unititle2" style="color: #fff;">統計</div>       </td>      </tr>       <tr>        <td class="unit3">血量</td>       <td class="unit4">75</td>      </tr>      <tr>        <td class="unit3">攻擊</td>       <td class="unit4">7</td>      </tr>      <tr>        <td class="unit3">攻速</td>       <td class="unit4">2.03</td>      </tr>      <tr>        <td class="unit3">近防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">遠防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">防禦類型</td>       <td class="unit4">步兵</td>      </tr>      <tr>        <td class="unit3">跑速</td>       <td class="unit4">0.95</td>      </tr>      <tr>        <td class="unit3">視野</td>       <td class="unit4">4</td>      </tr> </table><div class="thanks">     </div> </div></div><div class="wiki" style="margin-top: 5px;"><div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div><div style="margin-left: 60px;">維基百科上的重劍兵<div style="margin-left: 10px;"><i><strong><a href="https://en.wikipedia.org/wiki/Jinete">重劍兵</a>
+              <td class="unit4"><a href="#">步兵<br/></td>      </tr>      <tr>        <td class="unit3">出場</td>       <td class="unit4">世紀帝國1</td>      </tr>      <tr>        <td class="unit" colspan="2" style="background-color:#d01022;">       <div class="unititle2" style="color: #fff;">統計</div>       </td>      </tr>       <tr>        <td class="unit3">血量</td>       <td class="unit4">75</td>      </tr>      <tr>        <td class="unit3">攻擊</td>       <td class="unit4">7</td>      </tr>      <tr>        <td class="unit3">攻速</td>       <td class="unit4">2.03</td>      </tr>      <tr>        <td class="unit3">近防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">遠防</td>       <td class="unit4">0</td>      </tr>      <tr>        <td class="unit3">防禦類型</td>       <td class="unit4">步兵</td>      </tr>      <tr>        <td class="unit3">跑速</td>       <td class="unit4">0.95</td>      </tr>      <tr>        <td class="unit3">視野</td>       <td class="unit4">4</td>      </tr> </table><div class="thanks">     </div> </div></div><div class="wiki" style="margin-top: 5px;"><div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46"></div><div style="margin-left: 60px;">維基百科上的重劍兵<div style="margin-left: 10px;"><i><strong><a href="https://en.wikipedia.org/wiki/Jinete">重劍兵</a>
                 </strong>
                 </i>
         </div>

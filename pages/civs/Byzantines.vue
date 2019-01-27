@@ -130,91 +130,94 @@
     <h3>科技樹</h3>
     <div class="hrn1"></div>
     <div class="n1">
-      <em><a href="byz.php">拜占庭科技樹</a></em>
+      <em><a href="/tree/byz">拜占庭科技樹</a></em>
     </div>
     <br />
     <h3>戰役</h3>
     <div class="hrn1"></div>
     <div class="n1">
       <p>
-        拜占庭在戰役中扮演相當重要的角色，尤其在<a href="Attila_the_Huna.php"
+        拜占庭在戰役中扮演相當重要的角色，尤其在<a href="/batt/Attila_the_Huna"
           >阿提拉</a
-        >，而在帝王世紀的戰役中，在 <a href="Barbarossaa.php">巴巴羅薩</a>與<a
-          href="Saladina.php"
+        >，而在帝王世紀的戰役中，在 <a href="/batt/Barbarossaa">巴巴羅薩</a>與<a
+          href="/batt/Saladina"
           >薩拉丁</a
-        >也頻繁的出現，耶路撒冷就是拜占庭文明。薩拉丁第五關<a href="Jihad.php"
+        >也頻繁的出現，耶路撒冷就是拜占庭文明。薩拉丁第五關<a href="/batt/Jihad"
           >聖戰</a
         >的十字軍泰爾，以及巴巴羅薩戰役第四關
-        <a href="The_Lombard_League.php">倫巴聯盟</a
+        <a href="/batt/The_Lombard_League">倫巴聯盟</a
         >中的威尼斯(實際上應該是義大利人)等等..不是扮演原本就是拜占庭帝國的耶路撒冷或是君士坦丁堡，就是代替當時的義大利城市，熱那亞和威尼斯。
       </p>
       <p>
         隨著西羅馬帝國與東羅馬帝國分裂，拜占庭在征服者入侵的戰役中也沒有缺席，在<a
-          href="Attila_the_Huna.php"
+          href="/batt/Attila_the_Huna"
           >阿提拉戰役</a
         >中扮演西羅馬帝國與東羅馬帝國，或是一些羅馬的城市如底斯索隆尼卡、菲利普堡、亞得里亞堡等等。
       </p>
       <p>
-        而在失落的帝國戰役中，拜占庭在<a href="Alarica.php">阿拉里克</a
+        而在失落的帝國戰役中，拜占庭在<a href="/batt/Alarica">阿拉里克</a
         >也有少量的出現，如西羅馬帝國，因為有了義大利文明的出現，以前由拜占庭扮演的義大利城邦，現在則準確的由義大利取代，
       </p>
       <p>以下詳細列出拜占庭出現的戰役</p>
-      <a href="Saladina.php">薩拉丁</a>
+      <a href="/batt/Saladina">薩拉丁</a>
       <ul>
-        <li><a href="The_Horns_of_Hattin.php">海丁的號角</a>:耶路撒冷</li>
+        <li><a href="/batt/The_Horns_of_Hattin">海丁的號角</a>:耶路撒冷</li>
         <li>
-          <a href="The_Siege_of_Jerusalem.php">耶路撒冷攻城戰</a>:耶路撒冷
+          <a href="/batt/The_Siege_of_Jerusalem">耶路撒冷攻城戰</a>:耶路撒冷
         </li>
-        <li><a href="Jihad.php">聖戰!</a>:泰爾</li>
+        <li><a href="/batt/Jihad">聖戰!</a>:泰爾</li>
         <li>
-          <a href="The_Lion_and_the_Demon.php">獅子與惡魔</a
+          <a href="/batt/The_Lion_and_the_Demon">獅子與惡魔</a
           >:耶路撒冷、熱那亞人。
         </li>
       </ul>
-      <a href="Barbarossaa.php">巴巴羅薩</a>
+      <a href="/batt/Barbarossaa">巴巴羅薩</a>
       <ul>
-        <li><a href="The_Lombard_League.php">倫巴聯盟</a>:威尼斯</li>
-        <li><a href="The_Emperor_Sleeping.php">沉睡的皇帝</a>:耶路撒冷</li>
-        <li><a href="Barbarossas_March.php">紅鬍子的行軍</a>:加利波利</li>
+        <li><a href="/batt/The_Lombard_League">倫巴聯盟</a>:威尼斯</li>
+        <li><a href="/batt/The_Emperor_Sleeping">沉睡的皇帝</a>:耶路撒冷</li>
+        <li><a href="/batt/Barbarossas_March">紅鬍子的行軍</a>:加利波利</li>
       </ul>
-      <a href="Attila_the_Huna.php">阿提拉</a>
+      <a href="/batt/Attila_the_Huna">阿提拉</a>
       <ul>
-        <li><a href="Scourge_of_God.php">上帝之鞭</a>:西羅馬帝國</li>
+        <li><a href="/batt/Scourge_of_God">上帝之鞭</a>:西羅馬帝國</li>
         <li>
-          <a href="The_Great_Ride.php">偉大的騎士</a
+          <a href="/batt/The_Great_Ride">偉大的騎士</a
           >:東羅馬帝國、亞得里亞堡、底斯索隆尼卡
         </li>
         <li>
-          <a href="Walls_of_Constantinople.php">君士坦丁堡的城牆</a
+          <a href="/batt/Walls_of_Constantinople">君士坦丁堡的城牆</a
           >:君士坦丁堡、菲利普堡
         </li>
-        <li><a href="A_Barbarian_Betrothal.php">蠻族的婚約</a>:西羅馬帝國</li>
-        <li><a href="Catalaunian_Fields.php">卡塔隆尼亞平原</a>:西羅馬帝國</li>
-        <li><a href="Fall_of_Rome.php">羅馬的衰落</a>:西羅馬帝國</li>
+        <li><a href="/batt/A_Barbarian_Betrothal">蠻族的婚約</a>:西羅馬帝國</li>
+        <li>
+          <a href="/batt/Catalaunian_Fields">卡塔隆尼亞平原</a>:西羅馬帝國
+        </li>
+        <li><a href="/batt/Fall_of_Rome">羅馬的衰落</a>:西羅馬帝國</li>
       </ul>
-      <a href="Attila_the_Huna.php">征服者戰役</a>
+      <a href="/batt/Attila_the_Huna">征服者戰役</a>
       <ul>
         <li>
-          <a href="Manzikert(1071).php">曼奇克托(1071)</a
+          <a href="/batt/Manzikert(1071)">曼奇克托(1071)</a
           >卡帕多細亞、西迪亞、格雷西亞、拜占庭軍隊
         </li>
-        <li><a href="Lepanto(1571).php">勒班陀(1571)</a>:希臘村莊</li>
+        <li><a href="/batt/Lepanto(1571)">勒班陀(1571)</a>:希臘村莊</li>
       </ul>
-      <a href="Alarica.php">阿拉里克</a>
+      <a href="/batt/Alarica">阿拉里克</a>
       <ul>
         <li>
-          <a href="All_Roads_Lead_to_a_Besieged_City.php">條條大路通圍城</a
+          <a href="/batt/All_Roads_Lead_to_a_Besieged_City">條條大路通圍城</a
           >羅馬軍團、西羅馬帝國
         </li>
         <li>
-          <a href="The_Rebellion_of_Melus.php">梅勒斯叛變</a>:拜占庭帝國、梅勒斯
+          <a href="/batt/The_Rebellion_of_Melus">梅勒斯叛變</a
+          >:拜占庭帝國、梅勒斯
         </li>
-        <li><a href="Arrival_at_Bari.php">抵達巴里</a>:拜占庭帝國</li>
+        <li><a href="/batt/Arrival_at_Bari">抵達巴里</a>:拜占庭帝國</li>
       </ul>
       <br />
       <div class="col-md-12">
         <div class="col-md-3">
-          <a href="img/Dome_of_the_Rock_(Saladin).png"
+          <a href="/img/Dome_of_the_Rock_(Saladin).png"
             ><img
               class="imgn hg"
               src="~assets/Dome_of_the_Rock_(Saladin).png"
@@ -223,19 +226,19 @@
           <p><em>岩石圓頂，出現在薩拉丁的第四關及巴巴羅薩的最後一關</em></p>
         </div>
         <div class="col-md-3">
-          <a href="img/Tyre.png"
+          <a href="/img/Tyre.png"
             ><img class="imgn hg" src="~assets/Tyre.png" alt=""
           /></a>
           <p><em>十字軍城市泰爾</em></p>
         </div>
         <div class="col-md-3">
-          <a href="img/Constantinople.png"
+          <a href="/img/Constantinople.png"
             ><img class="imgn hg" src="~assets/Constantinople.png" alt=""
           /></a>
           <p><em>聞名於世的君士坦丁堡</em></p>
         </div>
         <div class="col-md-3">
-          <a href="img/Venice.png"
+          <a href="/img/Venice.png"
             ><img class="imgn hg" src="~assets/Venice.png" alt=""
           /></a>
           <p><em>意大利的城邦威尼斯</em></p>
@@ -266,7 +269,7 @@
     <div class="n1">
       <div class="col-md-12">
         <div class="col-md-4">
-          <a href="img/MidEastern.jpg"
+          <a href="/img/MidEastern.jpg"
             ><img class="imgn hg" src="~assets/MidEastern.jpg" alt=""
           /></a>
           <p><em>拜占庭的中東式建築。</em></p>

@@ -11,14 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            徵兵制度可於<a href="Imperial_Age.php">帝王時代</a>的<a
-              href="Castle.php"
+            徵兵制度可於<a href="/techsage/Imperial_Age">帝王時代</a>的<a
+              href="/building/Castle"
               >城堡</a
-            >研發。研發後 <a href="Barracks.php">兵營</a>、<a
-              href="Archery_Range.php"
+            >研發。研發後 <a href="/building/Barracks">兵營</a>、<a
+              href="/building/Archery_Range"
               >射箭場</a
-            >、<a href="Stable.php">馬廄</a>和
-            <a href="Castle.php">城堡</a>的單位訓練速度快33%。
+            >、<a href="/building/Stable">馬廄</a>和
+            <a href="/building/Castle">城堡</a>的單位訓練速度快33%。
           </p>
           <p>
             徵兵制度被認為是必不可少的研究，因為它在補充軍隊或積累大量單位方面非常有效益。
@@ -29,11 +29,12 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速徵兵制度的研究時間(快25%)。
             </li>
-            <li><a href="Chinese.php">中國</a>：徵兵制度科技便宜20%。</li>
-            <li><a href="Vietnamese.php">越南</a>：徵兵制度免費。</li>
+            <li><a href="/civs/Chinese">中國</a>：徵兵制度科技便宜20%。</li>
+            <li><a href="/civs/Vietnamese">越南</a>：徵兵制度免費。</li>
           </ul>
         </div>
         <h3>團隊加成</h3>
@@ -41,7 +42,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速徵兵制度的研究時間(快25%)。
             </li>
           </ul>
@@ -58,7 +60,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">徵兵制度</a></div>
+              <div class="unititle"><a href="#">徵兵制度</a></div>
             </td>
           </tr>
           <tr>
@@ -70,7 +72,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -84,14 +86,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -102,7 +104,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -115,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

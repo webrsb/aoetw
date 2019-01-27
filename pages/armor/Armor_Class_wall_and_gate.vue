@@ -28,7 +28,7 @@
                 width="25px"
                 src="~assets/Palisadewallicon.png"
                 alt=""
-              /><a href="Palisade_Wall.php">木牆</a>
+              /><a href="/building/Palisade_Wall">木牆</a>
             </li>
             <li>
               <img
@@ -36,7 +36,7 @@
                 width="25px"
                 src="~assets/Stonewallicon.png"
                 alt=""
-              /><a href="Stone_Wall.php">石牆</a>
+              /><a href="/building/Stone_Wall">石牆</a>
             </li>
             <li>
               <img
@@ -44,7 +44,7 @@
                 width="25px"
                 src="~assets/Stonewallicon.png"
                 alt=""
-              /><a href="Fortified_Wall.php">垛牆</a>
+              /><a href="/building/Fortified_Wall">垛牆</a>
             </li>
             <li>
               <img
@@ -52,7 +52,7 @@
                 width="25px"
                 src="~assets/Gateicon.png"
                 alt=""
-              /><a href="Gateicon_Gate.php">城門</a>
+              /><a href="/building/Gateicon_Gate">城門</a>
             </li>
           </ul>
         </div>
@@ -65,7 +65,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                  href="Petard.php"
+                  href="/units/Petard"
                   >爆炸桶</a
                 >
               </li>
@@ -74,18 +74,18 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="Tarkan.php"
+                  href="/units/Tarkan"
                   >精銳韃靼騎兵</a
-                >(<a href="Huns.php">匈奴</a>限定)
+                >(<a href="/civs/Huns">匈奴</a>限定)
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="Tarkan.php"
+                  href="/units/Tarkan"
                   >韃靼騎兵</a
-                >(<a href="Huns.php">匈奴</a>限定)
+                >(<a href="/civs/Huns">匈奴</a>限定)
               </li>
             </ul>
           </div>

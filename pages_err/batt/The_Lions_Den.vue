@@ -129,7 +129,7 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">深入虎穴</a></div>
+       <div class="unititle"><a href="#">深入虎穴</a></div>
        </td>
       </tr>
       <tr>
@@ -138,7 +138,7 @@
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2"><a href="#">情景信息</a></div>
        </td>
       </tr>
       <tr>
@@ -151,10 +151,10 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="">馬利</a></td>
+       <td class="unit4"><a href="#">馬利</a></td>
       </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2"><a href="#">戰役關卡編號</a></div>
        </td>
       </tr>
        <tr>
@@ -164,12 +164,12 @@
        <tr>
         <td class="unit3">上一關</td>
         <td class="unit4">
-       <a href="Blood_on_the_River_Bank.php">血濺河灘</a>
+       <a href="/batt/Blood_on_the_River_Bank">血濺河灘</a>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
        <td class="unit4">
-        <a href="">N/A</a>
+        <a href="#">N/A</a>
         </td>
       </tr>
       

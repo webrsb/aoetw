@@ -12,23 +12,24 @@
         <div class="n1">
           <p>
             <a
-              href="https://zh.wikipedia.org/wiki/%E5%BA%93%E7%93%A6%E8%B5%AB%E7%89%B9%E8%8E%AB%E5%85%8B"
+              href="/https://zh.wikipedia.org/wiki/%E5%BA%93%E7%93%A6%E8%B5%AB%E7%89%B9%E8%8E%AB%E5%85%8B"
               ><strong>庫奧赫特莫克</strong></a
             >(生卒年約1495-1525年)是《世紀帝國II
-            HD：被遺忘的帝國》中登場的一名<a href="Infantry_Units.php">步兵</a
-            ><a href="heros.php">英雄</a>，他的外型是
-            <a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a
+            HD：被遺忘的帝國》中登場的一名<a href="/units/Infantry_Units"
+              >步兵</a
+            ><a href="/units/hero">英雄</a>，他的外型是
+            <a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a
             >，只能在地圖編輯器中使用。由於他屬於英雄，因此無法被招降，也會自動回血。
           </p>
           <p>
-            庫奧赫特莫克同時也是《征服者入侵》中，<a href="Aztecs.php"
+            庫奧赫特莫克同時也是《征服者入侵》中，<a href="/civs/Aztecs"
               >阿茲特克</a
-            >戰役<a href="Montezumaa.php">蒙特蘇馬</a>中的旁白。
+            >戰役<a href="/batt/Montezumaa">蒙特蘇馬</a>中的旁白。
           </p>
           <p>
-            在蒙特蘇馬戰役的<a href="La_Noche_Triste.php">悲傷之夜</a
+            在蒙特蘇馬戰役的<a href="/batt/La_Noche_Triste">悲傷之夜</a
             >這一關中，雖然沒有講明，但暗示了登場的那隻強化版
-            <a href="Jaguar_Warrior.php">豹勇士</a
+            <a href="/units/Jaguar_Warrior">豹勇士</a
             >就是庫奧赫特莫克，這也是他唯一一次實際出現在遊戲中。儘管他是過場動畫中的旁白，他在遊戲中仍然只是一名「豹勇士」，就算陣亡也不會因此任務失敗。
           </p>
           <h3>歷史</h3>
@@ -45,7 +46,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">庫奧赫特莫克</a></div>
+              <div class="unititle"><a href="#">庫奧赫特莫克</a></div>
             </td>
           </tr>
           <tr>
@@ -63,7 +64,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="Infantry_Units.php">步兵</a> <br /><a href="heros.php"
+              <a href="/units/Infantry_Units">步兵</a> <br /><a
+                href="/units/hero"
                 >英雄</a
               >
             </td>
@@ -88,16 +90,17 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="Armor_Class_Monk.php">僧侶</a> +10 <br />對<a
-                href="Armor_Class_Siege_Weapon.php"
+              對<a href="/armor/Armor_Class_Monk">僧侶</a> +10 <br />對<a
+                href="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</a
               >
-              +5 <br />對<a href="Armor_Class_Cavalry.php">騎兵</a> +4
-              <br />對<a href="Armor_Class_Building.php">建築</a> +3 <br />對<a
-                href="Armor_Class_Camel.php"
-                >駱駝</a
+              +5 <br />對<a href="/armor/Armor_Class_Cavalry">騎兵</a> +4
+              <br />對<a href="/armor/Armor_Class_Building">建築</a> +3
+              <br />對<a href="/armor/Armor_Class_Camel">駱駝</a> +2 <br />對<a
+                href="/armor/Armor_Class_Ship"
+                >船</a
               >
-              +2 <br />對<a href="Armor_Class_Ship.php">船</a> +2
+              +2
             </td>
           </tr>
           <tr>
@@ -118,8 +121,8 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <a href="Armor_Class_Infantry.php">步兵</a> <br /><a
-                href="Armor_Class_Eagle_Warrior.php"
+              <a href="/armor/Armor_Class_Infantry">步兵</a> <br /><a
+                href="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</a
               >
             </td>
@@ -145,7 +148,7 @@
               <i
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E5%BA%93%E7%93%A6%E8%B5%AB%E7%89%B9%E8%8E%AB%E5%85%8B"
+                    href="/https://zh.wikipedia.org/wiki/%E5%BA%93%E7%93%A6%E8%B5%AB%E7%89%B9%E8%8E%AB%E5%85%8B"
                     >庫奧赫特莫克</a
                   ></strong
                 ></i

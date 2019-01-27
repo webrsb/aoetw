@@ -11,17 +11,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>教宗利奧一世</strong>的原型是同名的<a href="Italians.php"
+            <strong>教宗利奧一世</strong>的原型是同名的<a href="/civs/Italians"
               >義大利</a
             >教皇，也被稱為<strong>大教宗聖良一世</strong>。他在《世紀帝國II
-            ：征服者入侵》中<a href="Attila_the_Hun.php">匈奴王阿提拉</a
-            >的戰役登場，在<a href="Fall_of_Rome.php">羅馬的衰弱</a
+            ：征服者入侵》中<a href="/units/hero/Attila_the_Hun">匈奴王阿提拉</a
+            >的戰役登場，在<a href="/batt/Fall_of_Rome">羅馬的衰弱</a
             >這關的最後出現並與阿提拉密談，勸說他放棄侵略義大利。他也可以在地圖編輯器中使用。
           </p>
           <p>
-            他在遊戲中的外觀是一名<a href="Monk.php">僧侶</a
+            他在遊戲中的外觀是一名<a href="/units/Monk">僧侶</a
             >，和其他僧侶單位一樣，教宗利奧一世會受到所有影響僧侶的升級及加成影響。由於他是英雄，因此無法被招降並會自動回血。如果他拿起了
-            <a href="Relic.php">遺跡</a>，會因遊戲錯誤導致他變回一般的僧侶。
+            <a href="/Relic">遺跡</a>，會因遊戲錯誤導致他變回一般的僧侶。
           </p>
         </div>
       </div>
@@ -29,7 +29,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">教宗利奧一世</a></div>
+              <div class="unititle"><a href="#">教宗利奧一世</a></div>
             </td>
           </tr>
           <tr>
@@ -46,7 +46,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><a href="Monk.php">僧侶</a></td>
+            <td class="unit4"><a href="/units/Monk">僧侶</a></td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
@@ -105,7 +105,7 @@
               <i
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96"
+                    href="/https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96"
                     >教宗良一世</a
                   ></strong
                 ></i

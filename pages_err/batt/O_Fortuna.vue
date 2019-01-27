@@ -135,7 +135,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">命運女神</a>
+                <div class="unititle"><a href="#">命運女神</a>
                 </div>
               </td>
             </tr>
@@ -148,7 +148,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -162,11 +162,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="">義大利人</a>
+              <td class="unit4"><a href="#">義大利人</a>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="">戰役關卡編號</a>
+              <div class="unititle2"><a href="#">戰役關卡編號</a>
               </div>
             </td>
             </tr>
@@ -176,11 +176,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="An_End_and_a_Beginning.php">始兮終兮</a> 
+              <td class="unit4"> <a href="/batt/An_End_and_a_Beginning">始兮終兮</a> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="The_Hand_of_a_Daughter.php">于歸之喜</a> 
+              <td class="unit4"> <a href="/batt/The_Hand_of_a_Daughter">于歸之喜</a> 
               </td>
             </tr>
           </table>

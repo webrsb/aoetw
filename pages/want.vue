@@ -15,9 +15,11 @@
             大家好，我是眠先生。最近世紀帝國在全球與台灣玩家的人數，不斷飆升，而2018年世紀帝國四也即將發行，台灣有很多玩家，但是一直以來卻缺乏一個大型的世紀帝國資料庫，以致於我們只能到英文版的數據庫去查資料，例如民兵到底速度多快，追的上村民嗎？而熱那亞弩手與精銳的差別在哪？射速有差嗎？所以現在目標就是建立一個中文的數據庫，而這個網站不只是數據庫，還有其他相關世紀帝國資料。
             <p>目前我已經完成三個頁面，可以參考</p>
             <ul>
-              <li><a target="blank" href="Archer.php">兵種數據（弓兵）</a></li>
-              <li><a target="blank" href="units.php">所有兵種目錄頁面</a></li>
-              <li><a target="blank" href="qa.php">常見問題</a></li>
+              <li>
+                <a target="blank" href="/units/Archer">兵種數據（弓兵）</a>
+              </li>
+              <li><a target="blank" href="/units">所有兵種目錄頁面</a></li>
+              <li><a target="blank" href="/qa">常見問題</a></li>
             </ul>
           </div>
           <h1>網站架構</h1>
@@ -27,16 +29,16 @@
             <ul>
               <li>
                 <strong>數據資料庫</strong>：翻譯<a
-                  href="http://ageofempires.wikia.com/wiki/Age_of_Empires_Series_Wiki"
+                  href="/http://ageofempires.wikia.com/wiki/Age_of_Empires_Series_Wiki"
                   >英文維基</a
                 >的數據，所有兵種建築科技的數據，估計可能上百頁，這是最需要人力的。
               </li>
               <li>
                 <strong>常見問題</strong>：這我已經參考伊森寫的<a
-                  href="https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html"
+                  href="/https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html"
                   >常見問題</a
                 >所整理，日後可不斷更新。目前架構已經完成，
-                <a href="qa.php">前往頁面</a>。
+                <a href="/qa">前往頁面</a>。
               </li>
               <li><strong>記錄檔區</strong>：收集世界各國好手記錄</li>
               <li><strong>戰術討論區</strong>：將會收錄ptt世紀版的高手文章</li>
@@ -71,7 +73,7 @@
           <div class="hrn1"></div>
           <div>
             直接寫mail到：netssno@gmail.com或私訊<a
-              href="https://www.facebook.com/cheapAOE"
+              href="/https://www.facebook.com/cheapAOE"
               >粉絲團</a
             >
           </div>

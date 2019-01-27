@@ -42,7 +42,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#b086b5;">
-              <div class="unititle"><a href="">斑馬</a></div>
+              <div class="unititle"><a href="#">斑馬</a></div>
             </td>
           </tr>
           <tr>

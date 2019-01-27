@@ -178,7 +178,7 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">礪波山(1183)</a></div>
+       <div class="unititle"><a href="#">礪波山(1183)</a></div>
        </td>
       </tr>
       <tr>
@@ -187,7 +187,7 @@
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2"><a href="#">情景信息</a></div>
        </td>
       </tr>
       <tr>
@@ -200,10 +200,10 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="Japanese.php">日本</a></td>
+       <td class="unit4"><a href="/civs/Japanese">日本</a></td>
       </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2"><a href="#">戰役關卡編號</a></div>
        </td>
       </tr>
        <tr>
@@ -213,12 +213,12 @@
        <tr>
         <td class="unit3">上一關</td>
         <td class="unit4">
-       <a href="Langshan_Jiang(919).php">狼山江(919)</a></p>
+       <a href="/Langshan_Jiang(919).php">狼山江(919)</a></p>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
        <td class="unit4">
-        <a href="Cyprus(1191).php">塞普勒斯(1191)</a>
+        <a href="/Cyprus(1191).php">塞普勒斯(1191)</a>
         </td>
       </tr>
       

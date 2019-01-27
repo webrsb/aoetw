@@ -56,13 +56,13 @@
               <td class="unit3 treetd">亞洲</td>
               <td class="unit4">
                 <div id="banner">
-                  <a href="chi.php">中國</a> <a href="jap.php">日本</a>
-                  <a href="mon.php">蒙古</a> <a href="kor.php">韓國</a>
-                  <a href="ind.php">印度</a> <a href="byz.php">拜占庭</a>
-                  <a href="pre.php">波斯</a> <a href="ber.php">柏柏</a>
-                  <a href="sar.php">薩拉森</a> <a href="tur.php">土耳其</a>
-                  <a href="bur.php">緬甸</a> <a href="khm.php">高棉</a>
-                  <a href="mal.php">馬來</a> <a href="vie.php">越南</a>
+                  <a href="/tree/chi">中國</a> <a href="/tree/jap">日本</a>
+                  <a href="/tree/mon">蒙古</a> <a href="/tree/kor">韓國</a>
+                  <a href="/tree/ind">印度</a> <a href="/tree/byz">拜占庭</a>
+                  <a href="/tree/pre">波斯</a> <a href="/tree/ber">柏柏</a>
+                  <a href="/tree/sar">薩拉森</a> <a href="/tree/tur">土耳其</a>
+                  <a href="/tree/bur">緬甸</a> <a href="/tree/khm">高棉</a>
+                  <a href="/tree/mal">馬來</a> <a href="/tree/vie">越南</a>
                 </div>
               </td>
             </tr>
@@ -70,12 +70,12 @@
               <td class="unit3 treetd">歐洲</td>
               <td class="unit4">
                 <div id="banner">
-                  <a href="bri.php">不列顛</a> <a href="cel.php">賽爾特</a>
-                  <a href="fra.php"> 法蘭克</a> <a href="spa.php">西班牙</a>
-                  <a href="got.php">哥德</a> <a href="teu.php">條頓</a>
-                  <a href="vik.php">維京</a> <a href="hun.php">匈奴</a>
-                  <a href="ita.php">義大利</a> <a href="mag.php">馬札爾</a>
-                  <a href="sla.php">斯拉夫</a> <a href="por.php">葡萄牙</a>
+                  <a href="/tree/bri">不列顛</a> <a href="/tree/cel">賽爾特</a>
+                  <a href="/tree/fra"> 法蘭克</a> <a href="/tree/spa">西班牙</a>
+                  <a href="/tree/got">哥德</a> <a href="/tree/teu">條頓</a>
+                  <a href="/tree/vik">維京</a> <a href="/tree/hun">匈奴</a>
+                  <a href="/tree/ita">義大利</a> <a href="/tree/mag">馬札爾</a>
+                  <a href="/tree/sla">斯拉夫</a> <a href="/tree/por">葡萄牙</a>
                 </div>
               </td>
             </tr>
@@ -86,9 +86,9 @@
               </td>
               <td class="unit4">
                 <div id="banner">
-                  <a href="azt.php">阿茲特克</a> <a href="may.php">馬雅</a>
-                  <a href="inc.php">印加</a> <a href="eth.php">衣索比亞</a>
-                  <a href="mai.php">馬利</a>
+                  <a href="/tree/azt">阿茲特克</a> <a href="/tree/may">馬雅</a>
+                  <a href="/tree/inc">印加</a> <a href="/tree/eth">衣索比亞</a>
+                  <a href="/tree/mai">馬利</a>
                 </div>
               </td>
             </tr>

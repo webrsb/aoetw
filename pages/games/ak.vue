@@ -26,7 +26,8 @@
               >位於北非的部落，擁有強大的海軍與騎兵，準備來一場史詩般的戰爭征服伊比亞半島，獲取異教徒的財富，抵擋那些逐漸團結的伊比利亞半島上的王國。
             </li>
             <li>
-              <strong>馬利:</strong>跟隨偉大的<a href="Musa_ibn_Nusayr.php"
+              <strong>馬利:</strong>跟隨偉大的<a
+                href="/units/hero/Musa_ibn_Nusayr"
                 >曼薩·穆薩</a
               >，成為西非最偉大的國王，征服周圍的王國，獲取更大的財富，牢牢控制該地區的貿易路線，你能擊敗其他那些曾經與你敵對的人嗎?
             </li>
@@ -47,31 +48,31 @@
           <ul>
             <li>
               <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" /><a
-                href="Camel_Archer.php"
+                href="/Camel_units/Archer"
                 >駱駝弓騎兵</a
               >:移動快速，素質良好的駱駝射手，對於馬弓騎兵有額外的攻擊。
             </li>
             <li>
               <img class="gg" src="~assets/ShotelIcon.png" alt="" /><a
-                href="Shotel_Warrior.php"
+                href="/units/Shotel_Warrior"
                 >彎刀勇士</a
               >:攻擊力高，移動快速的步兵。
             </li>
             <li>
               <img class="gg" src="~assets/GbetoIcon.png" alt="" /><a
-                href="Gbeto.php"
+                href="/units/Gbeto"
                 >飛刀女獵手</a
               >:遠程步兵，攻擊與移動都非常優秀。
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><a
-                href="Organ_Gun.php"
+                href="/units/Organ_Gun"
                 >手風琴砲</a
               >:少數在城堡時代就可訓練的火藥單位，對衝撞車系列有加成傷害。
             </li>
             <li>
               <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><a
-                href="Caravel.php"
+                href="/units/Caravel"
                 >卡拉維爾戰船</a
               >:有貫穿效果的戰船。
             </li>
@@ -81,23 +82,24 @@
         <ul>
           <li>
             <img class="gg" src="~assets/Siegetowericon.png" alt="" />
-            <a href="Siege_Tower.php">攻城塔</a
+            <a href="/units/Siege_Tower">攻城塔</a
             >:能運輸步兵與弩兵穿越城牆的攻城器具。
           </li>
           <li>
             <img class="gg" src="~assets/FireGalleyIcon.jpg" alt="" />
-            <a href="Fire_Galley.php">火蒙衝</a>:封建時代就能生產火戰船。
+            <a href="/units/Fire_Galley">火蒙衝</a>:封建時代就能生產火戰船。
           </li>
           <li>
             <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" />
-            <a href="Demolition_Raft.php">自爆伐</a>:封建時代就能生產的神風船。
+            <a href="/units/Demolition_Raft">自爆伐</a
+            >:封建時代就能生產的神風船。
           </li>
         </ul>
         <p>建築</p>
         <ul>
           <li>
             <img width="25px" src="~assets/Feitoriaicon.png" alt="" /><a
-              href="Feitoriaicon_Feitoria.php"
+              href="/building/Feitoriaicon_Feitoria"
               >港灣大商站</a
             >:帝王時代能建造，葡萄牙特殊建築，能緩慢生產資源。
           </li>
@@ -108,19 +110,20 @@
             <li>每個文明皆新增城堡時代能研發的特殊科技。</li>
           </ul>
           <p>
-            <em>主要文章: <a href="untech.php">特殊科技</a></em>
+            <em>主要文章: <a href="/techs/untech">特殊科技</a></em>
           </p>
         </div>
         <p>一般科技</p>
         <ul>
           <li>
-            <img class="gg" src="~assets/Arson.jpg" alt="" /><a href="Arson.php"
+            <img class="gg" src="~assets/Arson.jpg" alt="" /><a
+              href="/techs/Arson"
               >縱火</a
             >
           </li>
           <li>
             <img class="gg" src="~assets/Arrowlits.jpg" alt="" /><a
-              href="Arrowslits.php"
+              href="/techs/Arrowslits"
               >箭狹槽</a
             >
           </li>
@@ -130,7 +133,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#8a6d3b">
-              <div class="unititle"><a href="">世紀帝國II：非洲王國</a></div>
+              <div class="unititle"><a href="#">世紀帝國II：非洲王國</a></div>
             </td>
           </tr>
           <tr>
@@ -182,16 +185,16 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <a href="batt.php">戰役</a></em>
+            <em>主要文章: <a href="/batt/">戰役</a></em>
           </p>
           <p>包含四個主戰役</p>
           <ul>
-            <li><a href="Tariq_ibn_Ziyada.php">塔里克．伊本．齊亞德</a></li>
-            <li><a href="Sundjataa.php">松迪亞塔</a></li>
+            <li><a href="/batt/Tariq_ibn_Ziyada">塔里克．伊本．齊亞德</a></li>
+            <li><a href="/batt/Sundjataa">松迪亞塔</a></li>
             <li>
-              <a href="Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</a>
+              <a href="/Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</a>
             </li>
-            <li><a href="Yodita.php">遊娣特</a></li>
+            <li><a href="/batt/Yodita">遊娣特</a></li>
           </ul>
         </div>
         <h3>平衡更動</h3>

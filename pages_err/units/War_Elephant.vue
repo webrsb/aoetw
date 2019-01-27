@@ -10,26 +10,26 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>戰象是<a href="Persians.php">波斯</a>的特殊單位，能夠在<a href="Castle_Age.php">城堡時代</a>的
+            <p>戰象是<a href="/civs/Persians">波斯</a>的特殊單位，能夠在<a href="/techsage/Castle_Age">城堡時代</a>的
               <a
-              href="Castle.php">城堡</a>中訓練。</p>
-            <p>戰象是一個緩慢但是破壞力強大的單位，兵種分類上屬於騎兵，對<a href="bulding.php">建築物</a>享有攻擊加成。且戰象能夠造成踐踏傷害(戰鬥時對周圍單位造成傷害)。</p>
-            <p>同樣的成本下，戰象甚至可以戰勝<a href="Paladin.php">遊俠</a>。</p>
-            <p>戰象可以在<a href="Imperial_Age.php">帝王時代</a>升級為精銳戰象。</div>
+              href="/building/Castle">城堡</a>中訓練。</p>
+            <p>戰象是一個緩慢但是破壞力強大的單位，兵種分類上屬於騎兵，對<a href="/building/bulding">建築物</a>享有攻擊加成。且戰象能夠造成踐踏傷害(戰鬥時對周圍單位造成傷害)。</p>
+            <p>同樣的成本下，戰象甚至可以戰勝<a href="/units/Paladin">遊俠</a>。</p>
+            <p>戰象可以在<a href="/techsage/Imperial_Age">帝王時代</a>升級為精銳戰象。</div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>戰象非常強悍，但是速度也很慢，遠程作戰單位容易對它們造成更多傷害。 戰象在遊戲中的分類為騎兵，這使的它們對付<a href="Spearman.php">長槍兵</a>系的時候會受到非常大的傷害，分別受到+30，+47，+60(按升級順序來說)。</li>
-              <li>緩慢的速度使它們容易受到大群的<a href="Cavalry_Archer.php">馬弓騎兵</a>壓制。</li>
-              <li>常規單位中的<a href="Camel.php">駱駝騎兵</a>也能對分類為騎兵的戰象造成加成傷害(+9，+18)</li>
+              <li>戰象非常強悍，但是速度也很慢，遠程作戰單位容易對它們造成更多傷害。 戰象在遊戲中的分類為騎兵，這使的它們對付<a href="/units/Spearman">長槍兵</a>系的時候會受到非常大的傷害，分別受到+30，+47，+60(按升級順序來說)。</li>
+              <li>緩慢的速度使它們容易受到大群的<a href="/Cavalry_units/Archer">馬弓騎兵</a>壓制。</li>
+              <li>常規單位中的<a href="/units/Camel">駱駝騎兵</a>也能對分類為騎兵的戰象造成加成傷害(+9，+18)</li>
               <li>縱然遠程單位能夠輕易地遠離戰象，但是與其他部隊配合時，戰象是很好的肉盾。</li>
-              <li><a href="Kamayuk.php">槍隊長</a>雖然沒有<a href="Halberdier.php">戟兵</a>一樣的超高攻擊加成(+60)</li>，但是仍有+28，+32的傷害，且他們能夠隔著牆傷害戰象。
-              <li><a href="Genoese_Crossbowman.php">熱那亞弩手</a>對於戰象有加成傷害(+8，+12)，大量的熱那亞弩手將輕易地摧毀戰象。</li>
-              <li><a href="Mameluke.php">奴隸兵</a>對於騎兵有加成傷害(+9，+12)，且高移動速度使他們成為戰象的剋星。</li>
-              <li><a href="Scorpion.php">弩砲</a>系對於戰象有攻擊加成(+6，升級後為+8)，且弩砲有穿透傷害，所以碰到大量的弩砲記得要迴避。</li>
-              <li><a href="Mangonel.php">投石車</a>系無視防禦且攻擊力極高，並且造成範圍傷害，碰到大量投石車請讓戰象散開。</li>
-              <li><a href="Monk.php">僧侶</a>一直都是戰象的剋星，波斯無法研發<a href="Heresy.php">異端邪說</a>，且大多數時間戰象集體行動，遭到敵方招降的戰象將對周圍部隊造成踐踏傷害，這就是為甚麼少量的僧侶便能摧毀大量的戰象部隊。</li>
+              <li><a href="/units/Kamayuk">槍隊長</a>雖然沒有<a href="/units/Halberdier">戟兵</a>一樣的超高攻擊加成(+60)</li>，但是仍有+28，+32的傷害，且他們能夠隔著牆傷害戰象。
+              <li><a href="/Genoese_units/Crossbowman">熱那亞弩手</a>對於戰象有加成傷害(+8，+12)，大量的熱那亞弩手將輕易地摧毀戰象。</li>
+              <li><a href="/units/Mameluke">奴隸兵</a>對於騎兵有加成傷害(+9，+12)，且高移動速度使他們成為戰象的剋星。</li>
+              <li><a href="/units/Scorpion">弩砲</a>系對於戰象有攻擊加成(+6，升級後為+8)，且弩砲有穿透傷害，所以碰到大量的弩砲記得要迴避。</li>
+              <li><a href="/units/Mangonel">投石車</a>系無視防禦且攻擊力極高，並且造成範圍傷害，碰到大量投石車請讓戰象散開。</li>
+              <li><a href="/units/Monk">僧侶</a>一直都是戰象的剋星，波斯無法研發<a href="/techs/Heresy">異端邪說</a>，且大多數時間戰象集體行動，遭到敵方招降的戰象將對周圍部隊造成踐踏傷害，這就是為甚麼少量的僧侶便能摧毀大量的戰象部隊。</li>
               <li>由於造成踐踏傷害，進入白刃戰時，請盡量讓戰象被敵方單位包圍形成混戰。 因為超高的生命值與傷害，使的戰象在面對除了上述少數單位外，大部分都能有很好的效果。</li>
             </ul>
             <p>但在實戰中，遇到成群的戰象，只有僧侶能有效阻止而已。</p>
@@ -45,15 +45,15 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="bulding.php">建築物</a>，<a href="Skirmisher.php">矛兵</a>，大部分近戰單位，
+              <td class="tta4"><a href="/building/bulding">建築物</a>，<a href="/units/Skirmisher">矛兵</a>，大部分近戰單位，
                 <a
-                href="Bombard_Cannon.php">火炮</a>。</td>
+                href="/units/Bombard_Cannon">火炮</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4"><a href="Spearman.php">槍兵</a>系，<a href="Kamayuk.php">槍隊長</a>，<a href="Mameluke.php">奴隸兵</a>，
+              <td class="tta4"><a href="/units/Spearman">槍兵</a>系，<a href="/units/Kamayuk">槍隊長</a>，<a href="/units/Mameluke">奴隸兵</a>，
                 <a
-                href="Camel.php">駱駝騎兵</a>，<a href="Monk.php">僧侶</a>，<a href="Genoese_Crossbowman.php">熱那亞弩手</a>
+                href="/units/Camel">駱駝騎兵</a>，<a href="/units/Monk">僧侶</a>，<a href="/Genoese_units/Crossbowman">熱那亞弩手</a>
               </td>
             </tr>
             <tr class="tta">
@@ -64,42 +64,42 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)</td>
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="/techs/Bloodlines">品種</a>(+20)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
+                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="/techs/Forging">鍛造</a>(+1)
                 <br/>
-                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
+                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="/techs/Iron_Casting">鑄造</a>(+1)
                 <br/>
-                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)</td>
+                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="/techs/Blast_Furnace">鼓風爐</a>(+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
+                <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="/techs/Scale_Barding_Armor">騎兵鱗甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
+                <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="/techs/Chain_Barding_Armor">騎兵鎖甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
+                <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="/techs/Plate_Barding_Armor">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="Mahouts.php">象伕</a>(+30%，<a href="Persians.php">波斯</a> 限定)
+                <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><a href="/techs/Mahouts">象伕</a>(+30%，<a href="/civs/Persians">波斯</a> 限定)
                 <br/>
-                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="/techs/Husbandry">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">抵抗招降</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>(+33%)</td>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>(+33%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)</td>
+                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="/techs/Conscription">徵兵制度</a>(+33%)</td>
             </tr>
           </table>
           <h3>剋戰象的單位與建築</h3> 
@@ -112,57 +112,57 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
+                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="/units/Halberdier">戟兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+47攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
+                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="/units/Pikeman">重裝長槍兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+32攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="/units/Kamayuk">精銳槍隊長</a>(<a href="/civs/Incas">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+30攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
+                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="/units/Spearman">長槍兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+28攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="/units/Kamayuk">槍隊長</a>(<a href="/civs/Incas">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
+                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="/Heavy_units/Camel">重裝駱駝騎兵</a>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
+                      alt=""> <a href="/Imperial_units/Camel">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="/indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+15攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="Cannon_Galleon.php">火砲戰船</a>→
+                      <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><a href="/units/Cannon_Galleon">火砲戰船</a>→
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg"
-                      alt=""> <a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a> 
+                      alt=""> <a href="/Elite_units/Cannon_Galleon">精銳火砲戰船</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+14攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="/Genoese_units/Crossbowman">精銳熱那亞弩手</a>(<a href="/civs/Italians">義大利</a>限定)</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
@@ -170,82 +170,82 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">精銳奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
+                      <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="/units/Mameluke">精銳奴隸兵</a>(<a href="/civs/Saracens">薩拉森</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="/units/Samurai">精銳日本武士</a>(<a href="/civs/Japanese">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="/units/Samurai">日本武士</a>(<a href="/civs/Japanese">日本</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="/Genoese_units/Crossbowman">熱那亞弩手</a>(<a href="/civs/Italians">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
+                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="/units/Camel">駱駝騎兵</a>
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="Mameluke.php">奴隸兵</a>(<a href="Saracens.php">薩拉森</a>限定)</li>
+                      <img class="gg" src="~assets/Saracenmamluk_icon.png" alt=""><a href="/units/Mameluke">奴隸兵</a>(<a href="/civs/Saracens">薩拉森</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+8攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><a href="HeavyScorpion.php">重型弩炮</a>
+                      <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt=""><a href="/Heavyunits/Scorpion">重型弩炮</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/ScorpionIcon.jpg" alt=""><a href="Scorpion.php">弩炮</a>
+                      <img class="gg" src="~assets/ScorpionIcon.jpg" alt=""><a href="/units/Scorpion">弩炮</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
+                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="/units/Eagle_Warrior">鷹勇士</a> 
                     </li>
                   </ul>
                 </div>
                 <div class="col-md-12">以下技術可讓以下單位對戰象有額外攻擊力
                   <div class="n1">
-                    <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""> <a href="Chieftains.php">酋長</a> 
-                    <div width="22" style="margin:12px 0px;"><strong>+5攻擊</strong>(<a href="Vikings.php">維京</a>限定)</div>
+                    <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""> <a href="/techs/Chieftains">酋長</a> 
+                    <div width="22" style="margin:12px 0px;"><strong>+5攻擊</strong>(<a href="/civs/Vikings">維京</a>限定)</div>
                     <ul>
                       <li>
-                        <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>→
+                        <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="/units/Militia">民兵</a>→
                         <img class="gg" src="~assets/ManAtArmsIcon.jpg"
-                        width="22" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>→
+                        width="22" alt=""> <a href="/units/Man-at-Arms">裝甲步兵</a>→
                         <img class="gg" src="~assets/LongswordsManIcon.jpg"
-                        alt=""> <a href="Long_Swordsman.php">長劍兵</a>→
+                        alt=""> <a href="/units/Long_Swordsman">長劍兵</a>→
                         <img class="gg" src="~assets/2HandedswordsmanIcon.jpg"
-                        alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
+                        alt=""> <a href="/units/Two-Handed_Swordsman">雙手劍兵</a>→
                         <img class="gg" src="~assets/ChampionIcon.jpg"
-                        alt=""> <a href="Champion.php">劍兵勇士</a> 
+                        alt=""> <a href="/units/Champion">劍兵勇士</a> 
                       </li>
                       <li>
-                        <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>→
+                        <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="/units/Spearman">長槍兵</a>→
                         <img class="gg" src="~assets/PikemanIcon.jpg"
-                        alt=""> <a href="Pikeman.php">重裝長槍兵</a> 
+                        alt=""> <a href="/units/Pikeman">重裝長槍兵</a> 
                       </li>
                       <li>
-                        <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>→
-                        <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Berserk.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
+                        <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="/units/Berserk">狂戰士</a>→
+                        <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="/units/Berserk">精銳狂戰士</a>(<a href="/civs/Vikings">維京</a>限定)</li>
                       <li>
-                        <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""> <a href="Condottiero.php">傭兵</a>(如果和<a href="Italians.php">義大利</a>同盟的話)</li>
+                        <img class="gg" src="~assets/CondottieroNewIcon.jpg" alt=""> <a href="/units/Condottiero">傭兵</a>(如果和<a href="/civs/Italians">義大利</a>同盟的話)</li>
                     </ul>
                   </div>
                 </div>
@@ -256,26 +256,26 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠提高戰象的生產速度還有加快
+              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠提高戰象的生產速度還有加快
                 <a
-                href="Conscription.php">徵兵制度</a>和<a href="Mahouts.php">象伕</a>的研究時間(+25%)。</li>
-              <li><a href="Huns.php">匈奴</a>：研發<a href="Bloodlines.php">品種</a>和<a href="Husbandry.php">畜牧培育</a>的速度快20%。</li>
-              <li><a href="Teutons.php">條頓</a>：戰象更不容易被招降。</li>
+                href="/techs/Conscription">徵兵制度</a>和<a href="/techs/Mahouts">象伕</a>的研究時間(+25%)。</li>
+              <li><a href="/civs/Huns">匈奴</a>：研發<a href="/techs/Bloodlines">品種</a>和<a href="/techs/Husbandry">畜牧培育</a>的速度快20%。</li>
+              <li><a href="/civs/Teutons">條頓</a>：戰象更不容易被招降。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aok.php">帝王世紀</a></em></h3>
+            <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
             <ul>
               <li>只有精銳戰象可以有踐踏傷害。</li>
             </ul>
-            <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
+            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
             <ul>
-              <li>引進<a href="Bloodlines.php">品種</a>。</li>
-              <li>引進<a href="Husbandry.php">畜牧培育</a>。</li>
+              <li>引進<a href="/techs/Bloodlines">品種</a>。</li>
+              <li>引進<a href="/techs/Husbandry">畜牧培育</a>。</li>
             </ul>
-            <h3><em><a href="aor.php">王者崛起</a></em></h3>
+            <h3><em><a href="/games/aor">王者崛起</a></em></h3>
             <ul>
               <li>戰象和精銳戰象都可以有踐踏傷害。</li>
             </ul>
@@ -284,13 +284,13 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>升級完成的精銳戰象有620生命值，比一幢<a href="Dark_Age.php">黑暗時代</a>的<a href="House.php">房屋</a>擁有更多生命值。</li>
+              <li>升級完成的精銳戰象有620生命值，比一幢<a href="/techsage/Dark_Age">黑暗時代</a>的<a href="/building/House">房屋</a>擁有更多生命值。</li>
               <li>最高級的精銳戰象擁有24的攻擊力，是除了攻城武器與火藥單位外最高的。</li>
               <li>這頭大象聽得懂人話，不需要象夫！</li>
               <li>比上述更神奇，這頭大象還有信仰，還會改宗其他宗教，聽得懂僧侶的教誨。</li>
-              <li>歷史上的波斯帝國，在遊戲戰役的<a href="Genghis_Khan.php">成吉思汗</a>，<a href="Barbarossa.php">巴巴羅薩</a>，以及
+              <li>歷史上的波斯帝國，在遊戲戰役的<a href="/units/hero/Genghis_Khan">成吉思汗</a>，<a href="/Barbarossa.php">巴巴羅薩</a>，以及
                 <a
-                href="Saladin.php">沙拉丁</a>所處的時代，皆沒有使用戰象部隊。(然而遊戲裡有，請睜隻眼閉隻眼)</li>
+                href="/units/hero/Saladin">沙拉丁</a>所處的時代，皆沒有使用戰象部隊。(然而遊戲裡有，請睜隻眼閉隻眼)</li>
               <li>世紀帝國II內建的歷史頁面介紹到:波斯人從印度人手上取得戰象，然而遊戲內的3D模組似乎是隻非洲象(它們都有一對超大的耳朵！)。</li>
             </ul>
           </div>
@@ -322,24 +322,24 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
+              <td class="unit4"><a href="/units/Cavalry_Units">騎兵</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Persians.php">波斯</a>
+              <td class="unit4"><a href="/civs/Persians">波斯</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-logo.jpg" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castle-logo.jpg" alt=""><a href="/building/Castle">城堡</a>
               </td>
             </tr>
             <tr>
@@ -374,8 +374,8 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="bulding.php">建築物</a>+7/+10(精銳)
-                <br/>對<a href="Armor_Class_stone_defense.php">石造防禦建築</a>+7/+10(精銳)</td>
+              <td class="unit4">對<a href="/building/bulding">建築物</a>+7/+10(精銳)
+                <br/>對<a href="/armor/Armor_Class_stone_defense">石造防禦建築</a>+7/+10(精銳)</td>
             </tr>
             <tr>
               <td class="unit3">濺涉傷害範圍</td>
@@ -399,9 +399,9 @@
             </tr>
             <tr>
               <td class="unit3">裝甲類型</td>
-              <td class="unit4"><a href="Armor_Class_War_Elephant.php">戰象</a>
-                <br/> <a href="Armor_Class_Cavalry_Archer.php">騎兵</a>
-                <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="/armor/Armor_Class_War_Elephant">戰象</a>
+                <br/> <a href="/armor/Armor_Class_Cavalry_Archer">騎兵</a>
+                <br/> <a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>
               </td>
             </tr>
             <tr>
@@ -414,7 +414,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">單位演變</a>
+                <div class="unititle2"><a href="#">單位演變</a>
                 </div>
               </td>
             </tr>
@@ -439,11 +439,11 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Warelephant.png"><img class="imgn hg" src="~assets/Warelephant.png" alt=""></a> 
+            <div class="col-md-4"> <a href="/img/Warelephant.png"><img class="imgn hg" src="~assets/Warelephant.png" alt=""></a> 
               <p><em>一群戰象</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Screenshot_2017-06-28_at_1.14.06_AM.png"><img class="imgn hg" src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png" alt=""></a> 
+            <div class="col-md-4"> <a href="/img/Screenshot_2017-06-28_at_1.14.06_AM.png"><img class="imgn hg" src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png" alt=""></a> 
               <p><em>一隻精銳戰象可以輕易地擊敗100個村民</em>
               </p>
             </div>

@@ -13,33 +13,33 @@
             <p>採礦營地的最佳建築地點是在石礦或金礦周遭，這樣村民就可以以最佳的效率將資源收集到營地，如果有三名以上的村民在收集資源，那會建議離資源區一格距離。</p>
             <p>在黑暗時代就可以建造採礦營地，但除非有特別的戰術，ex:黑快、裝甲塔、僧侶海、塔攻..之類，否則不建議在黑暗時代建造採礦營地，雖然採礦營地也是封建時代的建築之一同時也只需要100木；但比起
               <a
-              href="Mill.php">磨坊</a>和<a href="Lumber_Camp.php">伐木場</a>，在前期有限的資源及人力下，採礦營地絕對不是首選。</p>
+              href="/building/Mill">磨坊</a>和<a href="/building/Lumber_Camp">伐木場</a>，在前期有限的資源及人力下，採礦營地絕對不是首選。</p>
           </div>
           <h3>可訓練的單位與技術</h3>
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-6">
               <div class="n1">
-                 <h4><a href="Feudal_Age.php"></a>封建時代</h4> 
+                 <h4><a href="/techsage/Feudal_Age"></a>封建時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Goldmining.jpg" alt=""><a href="Gold_Mining.php">採金技術</a>
+                    <img class="gg" src="~assets/Goldmining.jpg" alt=""><a href="/techs/Gold_Mining">採金技術</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Stonemining.jpg" alt=""><a href="Stone_Mining.php">採石技術</a>
+                    <img class="gg" src="~assets/Stonemining.jpg" alt=""><a href="/techs/Stone_Mining">採石技術</a>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-md-6">
               <div class="n1">
-                 <h4><a href="Castle_Age.php"></a>城堡時代</h4> 
+                 <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Goldshaftmining.jpg" alt=""><a href="Gold_Shaft_Mining.php">礦井採金</a>
+                    <img class="gg" src="~assets/Goldshaftmining.jpg" alt=""><a href="/techs/Gold_Shaft_Mining">礦井採金</a>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt=""><a href="Stone_Shaft_Mining.php">礦井採石</a>
+                    <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt=""><a href="/techs/Stone_Shaft_Mining">礦井採石</a>
                   </li>
                 </ul>
               </div>
@@ -70,72 +70,72 @@
             <tr>
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(+10%)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(+10%)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(+10%)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="Masonry.php">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
+                <img class="gg" src="~assets/Masonry.jpg" width="30" alt=""><a href="/techs/Masonry">磚瓦技術</a>(護甲+1/+1，+3建築護甲)
                 <br/>
-                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)</td>
+                <img class="gg" src="~assets/Architecture.jpg" width="30" alt=""><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)</td>
             </tr>
             <tr>
               <td class="tta1">視野</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                <img class="gg" src="~assets/Townwatch.jpg" width="30" alt=""><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
                 <br/>
-                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="Town_Patrol.php">城鎮巡邏</a>(+4)</td>
+                <img class="gg" src="~assets/Townpatrol.jpg" width="30" alt=""><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)</td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="30" alt=""><a href="/techs/Faith">忠誠信仰</a>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">建造速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)</td>
+                <img class="gg" src="~assets/Treadmillcrane.jpg" width="30" alt=""><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)</td>
             </tr>
           </table>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Byzantines.php">拜占庭</a>：採礦營地在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。
+              <li><a href="/civs/Byzantines">拜占庭</a>：採礦營地在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。
                 <a
-                href="Town_Watch.php">城鎮瞭望</a>免費</li>
-              <li><a href="Chinese.php">中國</a>：對採礦營地有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。</li>
-              <li><a href="Japanese.php">日本</a>：採礦營地的建築成本-50%。</li>
-              <li><a href="Malians.php">馬利</a>：採礦營地的建築成本-15%。</li>
-              <li><a href="Spanish.php">西班牙</a>：採礦營地建築速度快30%。</li>
+                href="/techs/Town_Watch">城鎮瞭望</a>免費</li>
+              <li><a href="/civs/Chinese">中國</a>：對採礦營地有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。</li>
+              <li><a href="/civs/Japanese">日本</a>：採礦營地的建築成本-50%。</li>
+              <li><a href="/civs/Malians">馬利</a>：採礦營地的建築成本-15%。</li>
+              <li><a href="/civs/Spanish">西班牙</a>：採礦營地建築速度快30%。</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Malians.php">馬利</a>：研究<a href="Masonry.php">磚瓦技術</a>，<a href="Architecture.php">建築學</a>和
+              <li><a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry">磚瓦技術</a>，<a href="/techs/Architecture">建築學</a>和
                 <a
-                href="Treadmill_Crane.php">滑輪起重機</a>的速度快80％。</li>
+                href="/techs/Treadmill_Crane">滑輪起重機</a>的速度快80％。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aok.php">帝王世紀</a></em></h3> 
+            <h3><em><a href="/games/aok">帝王世紀</a></em></h3> 
             <ul>
               <li>採礦營地的生命值在每個時代都是900HP。</li>
             </ul>
-            <h3><em><a href="aoc.php">征服者入侵</a></em></h3> 
+            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3> 
             <ul>
-              <li>引入<a href="Heresy.php">異端邪說</a>。</li>
+              <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
             </ul>
-            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
             <ul>
               <li>採礦營地的HP在黑暗/封建/城堡/帝王的HP分別為600/800/1000/1000。</li>
             </ul>
@@ -150,7 +150,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><a href="Mining_Camp.php">採礦營地</a>
+                <div class="unititle"><a href="/building/Mining_Camp">採礦營地</a>
                 </div>
               </td>
             </tr>
@@ -163,7 +163,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">概要</a>
+                <div class="unititle2"><a href="#">概要</a>
                 </div>
               </td>
             </tr>
@@ -177,7 +177,7 @@
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4"><a href="Dark_Age.php">黑暗時代</a>
+              <td class="unit4"><a href="/techsage/Dark_Age">黑暗時代</a>
               </td>
             </tr>
             <tr>
@@ -186,7 +186,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>
@@ -196,7 +196,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">數據</a>
+                <div class="unititle2"><a href="#">數據</a>
                 </div>
               </td>
             </tr>
@@ -239,8 +239,8 @@
             </tr>
             <tr>
               <td class="unit3">護甲分類</td>
-              <td class="unit4"><a href="Armor_Class_Building.php">建築</a>
-                <br/> <a href="Armor_Class_standard_building.php">標準建築</a>
+              <td class="unit4"><a href="/armor/Armor_Class_Building">建築</a>
+                <br/> <a href="/Armor_Class_standard_building.php">標準建築</a>
               </td>
             </tr>
             <tr>
@@ -254,21 +254,21 @@
            <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-4"> <a href="img/Miningcampaokaoc.png"><img class="imgn hg" width="180" src="~assets/Miningcampaokaoc.png" alt=""></a> 
+            <div class="col-md-4"> <a href="/img/Miningcampaokaoc.png"><img class="imgn hg" width="180" src="~assets/Miningcampaokaoc.png" alt=""></a> 
               <div
               class="lightbox-caption" style="width:220px" ;>
                 <p><em>所有文明的採礦營地(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
-          <div class="col-md-4"> <a href="img/Mining_camp_hd.png"><img class="imgn hg" width="200" src="~assets/Mining_camp_hd.png" alt=""></a> 
+          <div class="col-md-4"> <a href="/img/Mining_camp_hd.png"><img class="imgn hg" width="200" src="~assets/Mining_camp_hd.png" alt=""></a> 
             <div
             class="lightbox-caption" style="width:220px" ;>
               <p><em>所有文明的採礦營地(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
-        <div class="col-md-4"> <a href="img/Spritesheet_mining_camp.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_mining_camp.png" alt=""></a> 
+        <div class="col-md-4"> <a href="/img/Spritesheet_mining_camp.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_mining_camp.png" alt=""></a> 
           <div
           class="lightbox-caption" style="width:220px" ;>
             <p><em>各文明(依大陸分)的採礦營地和在一般地圖/下雪地圖的樣子。</em>

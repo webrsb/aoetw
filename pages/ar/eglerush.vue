@@ -16,7 +16,7 @@
           <ul>
             <li>
               <img src="~assets/EagleScoutIcon.jpg" width="30px" alt="" /><a
-                href="Eagle_Scout.php"
+                href="/units/Eagle_Scout"
                 >鷹斥侯</a
               >：速度快，不怕槍兵、矛兵、斥侯與少量弓兵，上城堡後威力倍增。
             </li>
@@ -127,7 +127,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle"><a href="">老鷹開局</a></div>
+              <div class="unititle"><a href="#">老鷹開局</a></div>
             </td>
           </tr>
           <tr>
@@ -139,7 +139,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle2"><a href="">戰術介紹</a></div>
+              <div class="unititle2"><a href="#">戰術介紹</a></div>
             </td>
           </tr>
           <tr>

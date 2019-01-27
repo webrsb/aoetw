@@ -129,7 +129,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="Usurpation">開疆闢土</a>
+                <div class="unititle"><a href="/Usurpation">開疆闢土</a>
                 </div>
               </td>
             </tr>
@@ -142,7 +142,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -156,11 +156,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="">馬來人</a>
+              <td class="unit4"><a href="#">馬來人</a>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="">戰役關卡編號</a>
+              <div class="unititle2"><a href="#">戰役關卡編號</a>
               </div>
             </td>
             </tr>
@@ -170,12 +170,12 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="">N/A</a>
+              <td class="unit4"> <a href="#">N/A</a>
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="Unconditional_Loyalty.php">班師勤王</a>
+              <td class="unit4"> <a href="/batt/Unconditional_Loyalty">班師勤王</a>
                 </p>
               </td>
             </tr>

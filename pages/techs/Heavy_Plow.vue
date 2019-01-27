@@ -11,7 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            重犁可於<a href="Castle_Age.php">城堡時代</a>的<a href="Mill.php"
+            重犁可於<a href="/techsage/Castle_Age">城堡時代</a>的<a
+              href="/building/Mill"
               >磨坊</a
             >研發。可讓農田產量增加125食物(總共375食物)，村民食物攜帶量+1。輪耕是更進一步的科技。
           </p>
@@ -24,10 +25,10 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：該科技在城堡/帝王時代花費便宜15%/20%。
             </li>
-            <li><a href="Franks.php">法蘭克</a>：該科技免費。</li>
+            <li><a href="/civs/Franks">法蘭克</a>：該科技免費。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -42,7 +43,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">重犁</a></div>
+              <div class="unititle"><a href="#">重犁</a></div>
             </td>
           </tr>
           <tr>
@@ -54,7 +55,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -65,7 +66,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -74,7 +75,7 @@
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Mill-icon.jpg" alt="" /><a
-                href="Mill.php"
+                href="/building/Mill"
                 >磨坊</a
               >
             </td>
@@ -87,7 +88,7 @@
                 src="~assets/Horsecollar.jpg"
                 width="22"
                 alt=""
-              /><a href="Horse_Collar.php">馬軛</a>
+              /><a href="/techs/Horse_Collar">馬軛</a>
             </td>
           </tr>
           <tr>
@@ -98,7 +99,7 @@
                 src="~assets/Croprotation.jpg"
                 width="22"
                 alt=""
-              /><a href="Crop_Rotation.php">輪耕</a>
+              /><a href="/techs/Crop_Rotation">輪耕</a>
             </td>
           </tr>
           <tr>
@@ -107,7 +108,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -120,7 +121,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

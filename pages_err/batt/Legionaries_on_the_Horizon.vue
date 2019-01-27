@@ -61,20 +61,20 @@
                 "> <ul><li>玩家將首先看見哥德部隊被更強大的羅馬軍團擊敗，  而在哥德村莊，阿拉里克會派遣一個斥侯在兩個平民村莊進行調查。</li>  <li>斥侯必須存活，直到調查完兩個村莊並向阿拉里克回報為止。  因為斥侯的生命值很低，盡量避免戰鬥，有三個軍團弓箭手會在路上伏擊你。</li><li>斥侯必須首先在西北村莊進行調查，那裡有一個由一名長槍兵守衛的橋樑。警衛會阻止斥侯並通知後面有一支軍隊。然後，斥侯必須調查西部村莊，在第一村莊的南邊。市場邊上的一名線人(長槍兵)會通知他在村子南面的一個營地(馬吉斯將軍營-黃色)看到羅馬軍隊。</li><li>阿拉里克生氣地得知羅馬皇帝奧諾里在後面偷襲他，在阿拉里克背後派出增援，因此決定打羅馬人，給霍諾留一個教訓。玩家應該開始準備部隊摧毀馬吉斯將軍營的主帳篷(大帳篷)，玩家不需要殺死營地的士兵。</li><li>突襲了馬吉斯將軍營之後，玩家必須準備好面對十分鐘後來襲的軍團大部隊。軍隊在西北的橋後，一旦他們跨過橋來，玩家就會被要求去殺死貝利薩留，一個聖騎兵模樣的英雄。</li><li>在此之後，玩家被賦予摧毀北方軍團要塞的任務，以贏得戰役。與此同時，玩家可以選擇派遣阿陶爾夫去跟東部他的部隊會面，玩家將接管他的全部部隊。</li></ul><h2>趣事</h2><div class="hrn1 "></div><div class="n1
                 "> <ul>  <li>哥德人在HD版本裡面，會在東方的森林裡面有一隻馬作為佔位單位。    最初版本是沒有的，所以在原版本裡，哥德人在把村莊交給玩家後就會被擊敗。</li><li>2012年最初版本內，西北的橋跟HD版本不同。</li><li>戰役內玩家被要求殺死貝利薩留，這在歷史中沒有發生，  他們兩個根本不可能碰面，阿拉里克死於410年，而貝利薩留生於505年左右</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="
+                ">       <div class="unititle "><a href="/
                 ">羅馬軍團隨時殺到!</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 2.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">失落的帝國</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">阿拉里克</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href=" ">哥德人</a></td>      </tr>
+                ">文明</td>       <td class="unit4 "><a href="/ ">哥德人</a></td>      </tr>
 <tr><td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="
+                "><a href="/
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
-                ">失落帝國第一章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="All_Roads_Lead_to_a_Besieged_City.php
-                ">條條大路通圍城</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="Emperor_of_the_West.php
+                ">失落帝國第一章之二</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="/batt/All_Roads_Lead_to_a_Besieged_City
+                ">條條大路通圍城</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/batt/Emperor_of_the_West
                 ">西域之君</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div>     <div class="row
                 ">  <div class="col-md-12 ">    </div>     <div class="wiki " style="margin-top: 5px;
                 "><div style="float: left; "><img src="~assets/Wikipedia-logo.png " width="50 " height="46

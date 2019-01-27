@@ -11,10 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            彈射器是<a href="Japanese.php">日本</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            彈射器是<a href="/civs/Japanese">日本</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a href="Trebuchet.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/units/Trebuchet"
               >巨型投石機</a
             >組裝拆解(快4倍)和開火的速率(快33%)都加快。
           </p>
@@ -33,7 +34,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速彈射器的研究時間(快25%)。
             </li>
           </ul>
@@ -50,7 +52,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">彈射器</a></div>
+              <div class="unititle"><a href="#">彈射器</a></div>
             </td>
           </tr>
           <tr>
@@ -62,12 +64,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Japanese.php">日本</a></td>
+            <td class="unit4"><a href="/civs/Japanese">日本</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -76,14 +78,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -94,7 +96,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -107,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

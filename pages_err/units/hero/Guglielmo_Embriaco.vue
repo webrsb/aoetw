@@ -10,11 +10,11 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p><strong>吉列爾莫‧安布裡科</strong> 是一名在《世紀帝國II HD：非洲王朝》的地圖編輯器中能使用的<a href="Armor_Class_Archer.php">射手</a>
+            <p><strong>吉列爾莫‧安布裡科</strong> 是一名在《世紀帝國II HD：非洲王朝》的地圖編輯器中能使用的<a href="/armor/Armor_Class_Archer">射手</a>
               <a
-              href="Heros.php">英雄</a>。史實中的他是一名熱那亞商人暨軍事領袖，在第一次十字軍東征後給予了各個十字軍國家協助。</p>在遊戲中，他是一名數值更強的
+              href="/Heros.php">英雄</a>。史實中的他是一名熱那亞商人暨軍事領袖，在第一次十字軍東征後給予了各個十字軍國家協助。</p>在遊戲中，他是一名數值更強的
             <a
-            href="Genoese_Crossbowman">熱那亞弩手</a>。由於他屬於英雄單位，所以無法被招降，也會自動回血。他和其他射手一樣，會受到所有影響射手的升級和加成影響。</div>
+            href="/Genoese_Crossbowman">熱那亞弩手</a>。由於他屬於英雄單位，所以無法被招降，也會自動回血。他和其他射手一樣，會受到所有影響射手的升級和加成影響。</div>
         </div>
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
@@ -38,7 +38,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Armor_Class_Archer.php">射手<br/><a href="heros.php">英雄</a>
+              <td class="unit4"><a href="/armor/Armor_Class_Archer">射手<br/><a href="/units/hero">英雄</a>
               </td>
             </tr>
             <tr>
@@ -51,7 +51,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Hit_points.php">血量</a>
+              <td class="unit3"><a href="/elements/Hit_points">血量</a>
               </td>
               <td class="unit4">170</td>
             </tr>
@@ -61,16 +61,16 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="Armor_Class_Cavalry.php">騎兵</a> +10
-                <br/>對<a href="Armor_Class_War Elephant.php">戰象</a> +10
-                <br/>對<a href="Armor_Class_Camel.php">駱駝</a> +7
-                <br/>對<a href="Armor_Class_Ship.php">船</a> +7
-                <br/>對<a href="Armor_Class_Standard_Building.php">標準建築</a> +2
+              <td class="unit4">對<a href="/armor/Armor_Class_Cavalry">騎兵</a> +10
+                <br/>對<a href="/Armor_Class_War unitsanimal/Elephant">戰象</a> +10
+                <br/>對<a href="/armor/Armor_Class_Camel">駱駝</a> +7
+                <br/>對<a href="/armor/Armor_Class_Ship">船</a> +7
+                <br/>對<a href="/armor/Armor_Class_Standard_Building">標準建築</a> +2
                 <br/>
               </td>
             </tr>
             <tr>
-              <td class="unit3"><a href="Frame_delay">開火間隔</a>
+              <td class="unit3"><a href="/Frame_delay">開火間隔</a>
               </td>
               <td class="unit4">5</td>
             </tr>
@@ -98,8 +98,8 @@
                 </tr>
                 <tr>
                   <td class="unit3">防禦類型</td>
-                  <td class="unit4"><a href="Armor_Class_Archer.php">射手</a>
-                    <br/><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+                  <td class="unit4"><a href="/armor/Armor_Class_Archer">射手</a>
+                    <br/><a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>
                     <br/>
                   </td>
                 </tr>

@@ -17,23 +17,23 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 style="margin-right: 5px;"
                 alt=""
-              /><a href="Dark_Age.php">黑暗時代</a> ·
+              /><a href="/techs/age/Dark_Age">黑暗時代</a> ·
               <img
                 src="~assets/Feudal-age-reseach.jpg"
                 style="margin-right: 5px;"
                 alt=""
-              /><a href="Feudal_Age.php">封建時代</a> ·
+              /><a href="/techs/age/Feudal_Age">封建時代</a> ·
               <img
                 src="~assets/Castle-age-reseach.jpg"
                 style="margin-right: 5px;"
                 width="22"
                 alt=""
-              /><a href="Castle_Age.php">城堡時代</a> ·
+              /><a href="/techs/age/Castle_Age">城堡時代</a> ·
               <img
                 style="margin-right: 5px;"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techs/age/Imperial_Age">帝王時代</a>
             </td>
           </tr>
         </table>

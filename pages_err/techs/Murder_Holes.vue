@@ -10,32 +10,32 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>垛孔可於<a href="Castle_Age.php">城堡時代</a>在<a href="University.php">學院</a> 研發。可移除箭塔和城堡的最小射程限制。</p>
+            <p>垛孔可於<a href="/techsage/Castle_Age">城堡時代</a>在<a href="/building/University">學院</a> 研發。可移除箭塔和城堡的最小射程限制。</p>
             <p>垛孔於實戰中幾乎不會用，因為可以用交叉火力掩護代替，或是使用近戰單位保護(村民也可)，在城堡或箭塔旁邊蓋牆或其他建築物也可以；另外這100石頭拿去蓋額外的城鎮中心爆經濟會比研發該科技有用的多。</p>
           </div>
            <h3>文明加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Chinese.php">中國</a>：該科技在城堡/帝王時代花費便宜15%/20%。</li>
-              <li><a href="Teutons.php">條頓</a>：該科技免費。</li>
+              <li><a href="/civs/Chinese">中國</a>：該科技在城堡/帝王時代花費便宜15%/20%。</li>
+              <li><a href="/civs/Teutons">條頓</a>：該科技免費。</li>
             </ul>
           </div>
            <h3>團隊加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Malians.php">馬利</a>：該科技研發時間快80%</li>
+              <li><a href="/civs/Malians">馬利</a>：該科技研發時間快80%</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aok.php">帝王世紀</a></em></h3>
+            <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
             <ul>
               <li>成本為200肉/200石</li>
             </ul>
-            <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
+            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
             <ul>
               <li>成本為成本200肉/100石</li>
             </ul>
@@ -60,11 +60,11 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/1024px-Bodiam_murder_holes.jpg"><img class="imgn hg" src="~assets/1024px-Bodiam_murder_holes.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="/img/1024px-Bodiam_murder_holes.jpg"><img class="imgn hg" src="~assets/1024px-Bodiam_murder_holes.jpg" alt=""></a> 
                   <p><em><a href="http://tinyurl.com/y8vlw8g3">博丁安堡</a>的垛孔(博丁安堡為遊戲中，不列顛、法蘭克等西歐建築城堡的原形)</em>
                   </p>
                 </div>
-                <div class="col-md-4"> <a href="img/Machicolation_Of_Wejter_Tower.jpg"><img class="imgn hg" src="~assets/Machicolation_Of_Wejter_Tower.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="/img/Machicolation_Of_Wejter_Tower.jpg"><img class="imgn hg" src="~assets/Machicolation_Of_Wejter_Tower.jpg" alt=""></a> 
                   <p><em>真正的垛孔(博丁安堡那個是Murder Holes)</em>
                   </p>
                 </div>
@@ -98,13 +98,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" class="gg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="Archery_Range.php">學院</a>
+                <img class="gg" src="~assets/Universityicon.png" class="gg" alt=""><a href="/building/Archery_Range">學院</a>
               </td>
             </tr>
             <tr>
@@ -113,7 +113,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>

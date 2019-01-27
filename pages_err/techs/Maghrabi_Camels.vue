@@ -10,31 +10,31 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>馬格拉比駱駝是<a href="Berbers.php">柏柏</a>的特殊科技，可於<a href="Imperial_Age.php">帝王時代</a>在
+            <p>馬格拉比駱駝是<a href="/civs/Berbers">柏柏</a>的特殊科技，可於<a href="/techsage/Imperial_Age">帝王時代</a>在
               <a
-              href="Castle.php">城堡</a>研發。研發後<a href="Camel.php">駱駝騎兵</a>/<a href="Camel_Archer.php">駱駝弓騎兵</a>每分鐘回15HP/每四秒回1HP。</p>
+              href="/building/Castle">城堡</a>研發。研發後<a href="/units/Camel">駱駝騎兵</a>/<a href="/Camel_units/Archer">駱駝弓騎兵</a>每分鐘回15HP/每四秒回1HP。</p>
           </div>
           <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>馬格拉比駱駝的回血機制與<a href="Berserk.php">狂戰士</a>雷同，可讓駱駝騎兵/駱駝弓騎兵在沒有僧侶支援的情況下在戰場上支撐更久，變得更具有侵略性。但還是建議要在後方配有
+              <li>馬格拉比駱駝的回血機制與<a href="/units/Berserk">狂戰士</a>雷同，可讓駱駝騎兵/駱駝弓騎兵在沒有僧侶支援的情況下在戰場上支撐更久，變得更具有侵略性。但還是建議要在後方配有
                 <a
-                href="Monk.php">僧侶</a>治療因為回血速度實在過慢。</li>
+                href="/units/Monk">僧侶</a>治療因為回血速度實在過慢。</li>
             </ul>
           </div>
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速馬格拉比駱駝的研究時間(快25%)。</li>
+              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠加速馬格拉比駱駝的研究時間(快25%)。</li>
             </ul>
           </div>
           <h3>團隊加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速馬格拉比駱駝的研究時間(快25%)。</li>
+              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠加速馬格拉比駱駝的研究時間(快25%)。</li>
             </ul>
           </div>
           <h3>歷史</h3>
@@ -62,19 +62,19 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Berbers.php">柏柏</a>
+              <td class="unit4"><a href="/civs/Berbers">柏柏</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="/techsage/Imperial_Age">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="Castle.php">城堡</a>
+                <img class="gg" src="~assets/Castleicon.png" alt=""><a href="/building/Castle">城堡</a>
               </td>
             </tr>
             <tr>

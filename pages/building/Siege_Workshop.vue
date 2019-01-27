@@ -22,7 +22,7 @@
         <div class="row">
           <div class="col-md-3">
             <div class="n1">
-              <h4><a href="Castle_Age.php"></a>城堡時代</h4>
+              <h4><a href="/techsage/Castle_Age"></a>城堡時代</h4>
               <ul>
                 <li>
                   <img
@@ -30,7 +30,7 @@
                     src="~assets/BatteringRamIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Battering_Ram.php">衝撞車</a>
+                  /><a href="/units/Battering_Ram">衝撞車</a>
                 </li>
                 <li>
                   <img
@@ -38,7 +38,7 @@
                     src="~assets/MangonelIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Mangonel.php">輕型投石車</a>
+                  /><a href="/units/Mangonel">輕型投石車</a>
                 </li>
                 <li>
                   <img
@@ -46,7 +46,7 @@
                     src="~assets/ScorpionIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Scorpion.php">弩砲</a>
+                  /><a href="/units/Scorpion">弩砲</a>
                 </li>
                 <li>
                   <img
@@ -54,14 +54,14 @@
                     src="~assets/Siegetowericon.png"
                     width="30"
                     alt=""
-                  /><a href="Siege_Tower.php">攻城塔</a>
+                  /><a href="/units/Siege_Tower">攻城塔</a>
                 </li>
               </ul>
             </div>
           </div>
           <div class="col-md-3">
             <div class="n1">
-              <h4><a href="Imperial_Age.php"></a>帝王時代</h4>
+              <h4><a href="/techsage/Imperial_Age"></a>帝王時代</h4>
               <ul>
                 <li>
                   <img
@@ -69,7 +69,7 @@
                     src="~assets/CappedRamIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Capped_Ram.php">裝甲衝撞車</a>
+                  /><a href="/units/Capped_Ram">裝甲衝撞車</a>
                 </li>
                 <li>
                   <img
@@ -77,7 +77,7 @@
                     src="~assets/SiegeRamIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Siege_Ram.php">重型衝撞車</a>
+                  /><a href="/units/Siege_Ram">重型衝撞車</a>
                 </li>
                 <li>
                   <img
@@ -85,7 +85,7 @@
                     src="~assets/OnagerIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Onager.php">中型投石車</a>
+                  /><a href="/units/Onager">中型投石車</a>
                 </li>
                 <li>
                   <img
@@ -93,7 +93,7 @@
                     src="~assets/SiegeOnagerIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Siege_Onager.php">重型投石車</a>
+                  /><a href="/Siege_units/Onager">重型投石車</a>
                 </li>
                 <li>
                   <img
@@ -101,7 +101,7 @@
                     src="~assets/HeavyScorpionIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Heavy_Scorpion.php">重型弩砲</a>
+                  /><a href="/units/Heavy_Scorpion">重型弩砲</a>
                 </li>
                 <li>
                   <img
@@ -109,7 +109,7 @@
                     src="~assets/BombardCannonIcon.jpg"
                     width="30"
                     alt=""
-                  /><a href="Bombard_Cannon.php">火砲</a>
+                  /><a href="/units/Bombard_Cannon">火砲</a>
                 </li>
               </ul>
             </div>
@@ -141,7 +141,7 @@
             <td class="tta1" style="width:20%">生命值</td>
             <td class="tta4">
               <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="Masonry.php"
+                href="/techs/Masonry"
                 >磚瓦技術</a
               >(+10%)
               <br />
@@ -150,14 +150,14 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="Architecture.php">建築學</a>(+10%)
+              /><a href="/techs/Architecture">建築學</a>(+10%)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:20%">護甲</td>
             <td class="tta4">
               <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                href="Masonry.php"
+                href="/techs/Masonry"
                 >磚瓦技術</a
               >(護甲+1/+1，+3建築護甲)
               <br />
@@ -166,14 +166,14 @@
                 src="~assets/Architecture.jpg"
                 width="30"
                 alt=""
-              /><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)
+              /><a href="/techs/Architecture">建築學</a>(護甲+1/+1，+3建築護甲)
             </td>
           </tr>
           <tr>
             <td class="tta1">視野</td>
             <td class="tta4">
               <img class="gg" src="~assets/Townwatch.jpg" width="30" alt="" /><a
-                href="Town_Watch.php"
+                href="/techs/Town_Watch"
                 >城鎮瞭望</a
               >(+4)
               <br />
@@ -182,19 +182,19 @@
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><a href="Town_Patrol.php">城鎮巡邏</a>(+4)
+              /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
             </td>
           </tr>
           <tr>
             <td class="tta1">招降抵抗</td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                href="Faith.php"
+                href="/techs/Faith"
                 >忠誠信仰</a
               >
               <br />
               <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="Heresy.php"
+                href="/techs/Heresy"
                 >異端邪說</a
               >
             </td>
@@ -207,7 +207,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)
+              /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)
             </td>
           </tr>
         </table>
@@ -217,43 +217,44 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Aztecs.php">阿茲特克</a>：攻城器單位生產速度快15%。
+              <a href="/civs/Aztecs">阿茲特克</a>：攻城器單位生產速度快15%。
             </li>
             <li>
-              <a href="Burmese.php">緬甸</a>：研發<a href="Faith.php"
+              <a href="/civs/Burmese">緬甸</a>：研發<a href="/techs/Faith"
                 >忠誠信仰</a
               >便宜50%。
             </li>
             <li>
-              <a href="Byzantines.php">拜占庭</a
+              <a href="/civs/Byzantines">拜占庭</a
               >：攻城器製造所在封建/城堡/帝王時代多20%/30%/40%的血量。
             </li>
             <li>
-              <a href="Chinese.php">中國</a>：科技在城堡/帝王時代各便宜15%/20%。
+              <a href="/civs/Chinese">中國</a
+              >：科技在城堡/帝王時代各便宜15%/20%。
             </li>
             <li>
-              <a href="Khmer.php">高棉</a>：蓋攻城器製造所不用
-              <a href="Blacksmith.php">兵工廠</a>。
+              <a href="/civs/Khmer">高棉</a>：蓋攻城器製造所不用
+              <a href="/building/Blacksmith">兵工廠</a>。
             </li>
             <li>
-              <a href="Malians.php">馬利</a>：蓋攻城器製造所成本減少15%
+              <a href="/civs/Malians">馬利</a>：蓋攻城器製造所成本減少15%
               (170木材即可建造)。
             </li>
             <li>
-              <a href="Spanish.php">西班牙</a
+              <a href="/civs/Spanish">西班牙</a
               >：蓋攻城器製造所建築速度快30%、火藥單位攻擊速度快15%(<a
-                href="Bombard_Cannon.php"
+                href="/units/Bombard_Cannon"
                 >火砲</a
               >)。
             </li>
             <li>
-              <a href="Persians.php">波斯</a>：研究<a href="Town_Watch.php"
+              <a href="/civs/Persians">波斯</a>：研究<a href="/techs/Town_Watch"
                 >城鎮瞭望</a
-              >和<a href="Town_Patrol.php">城鎮巡邏</a
+              >和<a href="/techs/Town_Patrol">城鎮巡邏</a
               >的速度在封建/城堡/帝王分別快10%/15%/20%。
             </li>
             <li>
-              <a href="Slavs.php">斯拉夫</a>：攻城器製造所單位成本減少15%。
+              <a href="/civs/Slavs">斯拉夫</a>：攻城器製造所單位成本減少15%。
             </li>
           </ul>
         </div>
@@ -262,16 +263,16 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Celts.php">賽爾特</a>：攻城器製造所單位生產速度快20%。
+              <a href="/civs/Celts">賽爾特</a>：攻城器製造所單位生產速度快20%。
             </li>
             <li>
-              <a href="Malians.php">馬利</a>：研究<a href="Masonry.php"
+              <a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry"
                 >磚瓦技術</a
-              >、<a href="Architecture.php">建築學</a>和
-              <a href="Treadmill_Crane.php">踏輪起重機</a>速度快80%。
+              >、<a href="/techs/Architecture">建築學</a>和
+              <a href="/techs/Treadmill_Crane">踏輪起重機</a>速度快80%。
             </li>
             <li>
-              <a href="Slavs.php">斯拉夫</a
+              <a href="/civs/Slavs">斯拉夫</a
               >：攻城器製造所駐軍單位多5個(總共15個)。
             </li>
           </ul>
@@ -281,34 +282,37 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Teutons.php">條頓</a>：<a href="Ironclad.php">鋼鐵甲</a
+              <a href="/civs/Teutons">條頓</a>：<a href="/techs/Ironclad"
+                >鋼鐵甲</a
               >(400木材，350黃金)→攻城器製造所單位近身裝甲值+4。
             </li>
             <li>
-              <a href="Mongols.php">蒙古</a>：<a href="Drill.php">演習</a
+              <a href="/civs/Mongols">蒙古</a>：<a href="/techs/Drill">演習</a
               >(500木材，450黃金)→攻城器製造所單位移動速度快50%。
             </li>
             <li>
-              <a href="Celts.php">賽爾特</a>：<a href="Furor_Celtica.php"
+              <a href="/civs/Celts">賽爾特</a>：<a href="/techs/Furor_Celtica"
                 >賽爾特狂暴</a
               >(750食物，450黃金)→攻城器製造所單位生命值40%。
             </li>
             <li>
-              <a href="Koreans.php">韓國</a>：<a href="Shinkichon.php">神機箭</a
+              <a href="/civs/Koreans">韓國</a>：<a href="/techs/Shinkichon"
+                >神機箭</a
               >(800木材，500黃金)→投石車攻擊距離+1 。
             </li>
             <li>
-              <a href="Chinese.php">中國</a>：<a href="Rocketry.php">火箭術</a
+              <a href="/civs/Chinese">中國</a>：<a href="/techs/Rocketry"
+                >火箭術</a
               >(750木材，750黃金)→諸葛努手攻擊+2，弩砲攻擊+4。
             </li>
             <li>
-              <a href="Ethiopians.php">衣索比亞</a>：<a
-                href="Torsion_Engines.php"
+              <a href="/civs/Ethiopians">衣索比亞</a>：<a
+                href="/techs/Torsion_Engines"
                 >扭力彈射器</a
               >(1000食物，600黃金)→攻城器製造所單位傷害範圍變大
             </li>
             <li>
-              <a href="Khmer.php">高棉</a>：<a href="Double_Crossbow.php"
+              <a href="/civs/Khmer">高棉</a>：<a href="/techs/Double_Crossbow"
                 >雙弩箭</a
               >(700食物，400黃金)→弩砲象與弩砲發射雙箭(第二發傷害比第一發低)。
             </li>
@@ -318,23 +322,23 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
             <li>攻城器製造所無論在哪個時代都是2100HP。</li>
           </ul>
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
-            <li><a href="Heresy.php">異端邪說</a>首次出現。</li>
+            <li><a href="/techs/Heresy">異端邪說</a>首次出現。</li>
           </ul>
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>攻城器製造所在城堡/帝王時代分別有1800/2100HP。</li>
-            <li>引入<a href="Siege_Tower.php">攻城塔</a>。</li>
+            <li>引入<a href="/units/Siege_Tower">攻城塔</a>。</li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -353,7 +357,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="">攻城器製造所</a></div>
+              <div class="unititle"><a href="#">攻城器製造所</a></div>
             </td>
           </tr>
           <tr>
@@ -365,7 +369,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -378,11 +382,11 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Castle_Age.php">城堡時代</a></td>
+            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
           </tr>
           <tr>
             <td class="unit3">前置建築</td>
-            <td class="unit4"><a href="Blacksmith.php">兵工廠</a></td>
+            <td class="unit4"><a href="/building/Blacksmith">兵工廠</a></td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -390,7 +394,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -399,7 +403,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>
@@ -467,8 +471,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="Armor_Class_Building.php">建築</a> <br />
-              <a href="Armor_Class_standard_building.php">標準建築</a>
+              <a href="/armor/Armor_Class_Building">建築</a> <br />
+              <a href="/Armor_Class_standard_building.php">標準建築</a>
             </td>
           </tr>
           <tr>
@@ -484,7 +488,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a href="img/Siegeworkshopaokaoc.png"
+            <a href="/img/Siegeworkshopaokaoc.png"
               ><img
                 class="imgn hg"
                 width="180"
@@ -496,7 +500,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <a href="img/Siege_workshops_hd.png"
+            <a href="/img/Siege_workshops_hd.png"
               ><img
                 class="imgn hg"
                 width="200"
@@ -508,7 +512,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <a href="img/Spritesheet_siege_workshop.png"
+            <a href="/img/Spritesheet_siege_workshop.png"
               ><img
                 class="imgn hg"
                 width="200"

@@ -12,22 +12,22 @@
         <div class="n1">
           <p>
             <strong>帖木兒</strong>是《世紀帝國II》中的一名<a
-              href="Cavalry_Units.php"
+              href="/units/Cavalry_Units"
               >騎兵</a
             >
-            <a href="Archer_Units.php">射手</a
-            ><a href="heros.php">英雄</a
-            >，也可在地圖編輯器中使用。史實中的他是<a href="Turks.php">突厥</a
+            <a href="/units/Archer_Units">射手</a
+            ><a href="/units/hero">英雄</a
+            >，也可在地圖編輯器中使用。史實中的他是<a href="/civs/Turks">突厥</a
             >化
-            <a href="Mongols.php">蒙古</a
+            <a href="/civs/Mongols">蒙古</a
             >的統治者，最著名的事蹟是在中亞建立了帖木兒王朝，企圖恢復蒙古帝國在<a
-              href="Genghis_Khan.php"
+              href="/units/hero/Genghis_Khan"
               >成吉思汗</a
             >時代時的輝煌。他同時也是蒙兀兒帝國開國君主，
-            <a href="Babur.php">巴卑爾</a>的曾祖父
+            <a href="/Batree/bur">巴卑爾</a>的曾祖父
           </p>
           <p>
-            帖木兒在遊戲中以<a href="Mangudai.php">蒙古突騎</a
+            帖木兒在遊戲中以<a href="/units/Mangudai">蒙古突騎</a
             >的外型出現，和其他馬弓騎兵一樣，會受到影響馬騎弓兵的升級和家成影響。由於他是一名英雄，因此不會被招降且會自動回血。(自征服者入侵版本以後)。
           </p>
         </div>
@@ -36,7 +36,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">帖木兒</a></div>
+              <div class="unititle"><a href="#">帖木兒</a></div>
             </td>
           </tr>
           <tr>
@@ -54,11 +54,11 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="Cavalry_Units.php">騎兵</a> <br /><a
-                href="Archer_Units.php"
+              <a href="/units/Cavalry_Units">騎兵</a> <br /><a
+                href="/units/Archer_Units"
                 >射手</a
               >
-              <br /><a href="heros.php">英雄</a>
+              <br /><a href="/units/hero">英雄</a>
             </td>
           </tr>
           <tr>
@@ -81,7 +81,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="Armor_Class_Siege_Weapon.php">攻城武器</a> +3
+              對<a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a> +3
             </td>
           </tr>
           <tr></tr>
@@ -90,7 +90,7 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Frame_delay.php">開火間隔</a></td>
+            <td class="unit3"><a href="/elements/Frame_delay">開火間隔</a></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -119,11 +119,11 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <a href="Armor_Class_Archer.php">射手</a> <br /><a
-                href="Armor_Class_Cavalry.php"
+              <a href="/armor/Armor_Class_Archer">射手</a> <br /><a
+                href="/armor/Armor_Class_Cavalry"
                 >騎兵</a
               >
-              <br /><a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+              <br /><a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>
             </td>
           </tr>
           <tr>
@@ -147,7 +147,7 @@
               <i
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E5%B8%96%E6%9C%A8%E5%84%BF"
+                    href="/https://zh.wikipedia.org/wiki/%E5%B8%96%E6%9C%A8%E5%84%BF"
                     >帖木兒</a
                   ></strong
                 ></i

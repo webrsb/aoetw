@@ -13,10 +13,11 @@
           <p>
             封建時代是帝國時代的第二個時代。
             它允許訓練和建造更多的單位和建築，還有更多的科技可以研發。
-            玩家可以使用一系列的<a href="Infantry_Units.php">步兵</a>、
-            <a href="Cavalry_Units.php">騎兵</a>、<a href="Archer_Units.php"
+            玩家可以使用一系列的<a href="/units/Infantry_Units">步兵</a>、
+            <a href="/units/Cavalry_Units">騎兵</a>、<a
+              href="/units/Archer_Units"
               >弓箭手</a
-            >和<a href="Naval_Vessels.php">海軍單位</a>以及有效的防禦建築。
+            >和<a href="/units/Naval_Vessels">海軍單位</a>以及有效的防禦建築。
           </p>
         </div>
         <h3>可建造建築</h3>
@@ -30,7 +31,7 @@
                 src="~assets/Blacksmithicon.png"
                 width="22"
                 alt=""
-              /><a href="Blacksmith.php">兵工廠</a>:研究升級軍事科技。
+              /><a href="/building/Blacksmith">兵工廠</a>:研究升級軍事科技。
             </li>
             <li>
               <img
@@ -38,7 +39,7 @@
                 src="~assets/Fishtrapicon.png"
                 width="22"
                 alt=""
-              /><a href="Fish_Trap.php">漁網</a>:水上食物來源。
+              /><a href="/building/Fish_Trap">漁網</a>:水上食物來源。
             </li>
             <li>
               <img
@@ -46,7 +47,7 @@
                 src="~assets/Marketicon.png"
                 width="22"
                 alt=""
-              /><a href="Market.php">市集</a>：可供貿易和交換資源。
+              /><a href="/building/Market">市集</a>：可供貿易和交換資源。
             </li>
           </ul>
           <strong>軍事建築</strong>
@@ -57,7 +58,8 @@
                 src="~assets/Archery-range-logo.jpg"
                 width="22"
                 alt=""
-              /><a href="Archery_Range.php">射箭場</a>:訓練和升級弓兵單位。
+              /><a href="/building/Archery_Range">射箭場</a
+              >:訓練和升級弓兵單位。
             </li>
             <li>
               <img
@@ -65,7 +67,7 @@
                 src="~assets/Stableicon.png"
                 width="22"
                 alt=""
-              /><a href="Stable.php">馬廄</a>：訓練和升級騎兵單位。
+              /><a href="/building/Stable">馬廄</a>：訓練和升級騎兵單位。
             </li>
           </ul>
           <strong>防禦建築</strong>
@@ -76,7 +78,7 @@
                 src="~assets/Watchtowericon.png"
                 width="22"
                 alt=""
-              /><a href="Watch_Tower.php">瞭望箭塔</a>:防禦敵人的塔。
+              /><a href="/units/Watch_Tower">瞭望箭塔</a>:防禦敵人的塔。
             </li>
             <li>
               <img
@@ -84,11 +86,11 @@
                 src="~assets/Stonewallicon.png"
                 width="22"
                 alt=""
-              /><a href="Stone_Wall.php">城牆</a>：可抵禦敵人攻擊。
+              /><a href="/building/Stone_Wall">城牆</a>：可抵禦敵人攻擊。
             </li>
             <li>
               <img class="gg" src="~assets/Gateicon.png" width="22" alt="" /><a
-                href="Gateicon_Gate.php"
+                href="/building/Gateicon_Gate"
                 >城門</a
               >：可與城牆蓋在一起，讓友方單位通過。
             </li>
@@ -106,7 +108,7 @@
                 src="~assets/TradeCogIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Trade_Cog.php">貿易商旅</a>:海上貿易單位。
+              /><a href="/units/Trade_Cog">貿易商旅</a>:海上貿易單位。
             </li>
           </ul>
           <strong>市集</strong>
@@ -117,7 +119,7 @@
                 src="~assets/TradeCartIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Trade_Cart.php">貿易馬車</a>:路上貿易單位。
+              /><a href="/units/Trade_Cart">貿易馬車</a>:路上貿易單位。
             </li>
           </ul>
           <h4>軍事單位</h4>
@@ -129,7 +131,7 @@
                 src="~assets/ManAtArmsIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Man-at-Arms.php">裝甲步兵</a>：劍兵單位。
+              /><a href="/units/Man-at-Arms">裝甲步兵</a>：劍兵單位。
             </li>
             <li>
               <img
@@ -137,7 +139,7 @@
                 src="~assets/SpearmanIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Spearman.php">長槍兵</a>：反騎兵單位。
+              /><a href="/units/Spearman">長槍兵</a>：反騎兵單位。
             </li>
             <li>
               <img
@@ -145,7 +147,7 @@
                 src="~assets/EagleScoutIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Eagle_Scout.php">鷹斥侯</a>：偵查單位。
+              /><a href="/units/Eagle_Scout">鷹斥侯</a>：偵查單位。
             </li>
           </ul>
           <strong>射箭場</strong>
@@ -156,7 +158,7 @@
                 src="~assets/ArcherIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Archer.php">弓兵</a>：弓兵單位。
+              /><a href="/units/Archer">弓兵</a>：弓兵單位。
             </li>
             <li>
               <img
@@ -164,7 +166,7 @@
                 src="~assets/SkirmisherIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Skirmisher.php">矛兵</a>：反弓兵單位。
+              /><a href="/units/Skirmisher">矛兵</a>：反弓兵單位。
             </li>
           </ul>
           <strong>馬廄</strong>
@@ -175,14 +177,14 @@
                 src="~assets/ScoutCavalryIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Scout_Cavalry.php">斥侯騎兵</a>：騎馬偵查單位
+              /><a href="/units/Scout_Cavalry">斥侯騎兵</a>：騎馬偵查單位
             </li>
           </ul>
           <strong>碼頭</strong>
           <ul>
             <li>
               <img class="gg" src="~assets/Galley.jpg" width="22" alt="" /><a
-                href="Galley.php"
+                href="/units/Galley"
                 >戰船</a
               >：基本戰船。
             </li>
@@ -192,7 +194,7 @@
                 src="~assets/FireGalleyIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Fire_Galley.php">火蒙衝</a>：反戰船單位。
+              /><a href="/units/Fire_Galley">火蒙衝</a>：反戰船單位。
             </li>
             <li>
               <img
@@ -200,7 +202,8 @@
                 src="~assets/DemoRaftIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Demolition_Raft.php">自爆筏</a>：反火戰船的自殺單位。
+              /><a href="/units/Demolition_Raft">自爆筏</a
+              >：反火戰船的自殺單位。
             </li>
           </ul>
           <h3>可研發科技</h3>
@@ -214,7 +217,7 @@
                   src="~assets/Townwatch.jpg"
                   width="22"
                   alt=""
-                /><a href="Town_Watch.php">城鎮瞭望</a>：建築視野+4。
+                /><a href="/techs/Town_Watch">城鎮瞭望</a>：建築視野+4。
               </li>
               <li>
                 <img
@@ -222,7 +225,7 @@
                   src="~assets/Wheelbarrow.jpg"
                   width="22"
                   alt=""
-                /><a href="Wheelbarrow.php">獨輪推車</a
+                /><a href="/techs/Wheelbarrow">獨輪推車</a
                 >：村民更有效率村民速度快10%，每趟可攜帶資源量+25%。
               </li>
             </ul>
@@ -234,7 +237,7 @@
                   src="~assets/Horsecollar.jpg"
                   width="22"
                   alt=""
-                /><a href="Horse_Collar.php">馬軛</a>：農田產量+75。
+                /><a href="/techs/Horse_Collar">馬軛</a>：農田產量+75。
               </li>
             </ul>
             <strong>伐木場</strong>
@@ -245,7 +248,8 @@
                   src="~assets/Doublebitaxe.jpg"
                   width="22"
                   alt=""
-                /><a href="Double-Bit_Axe.php">雙刃斧</a>：村民伐木速度快20%。
+                /><a href="/techs/Double-Bit_Axe">雙刃斧</a
+                >：村民伐木速度快20%。
               </li>
             </ul>
             <strong>採礦營地</strong>
@@ -256,7 +260,8 @@
                   src="~assets/Stonemining.jpg"
                   width="22"
                   alt=""
-                /><a href="Stone_Mining.php">採石技術</a>：村民採石速度快15%。
+                /><a href="/techs/Stone_Mining">採石技術</a
+                >：村民採石速度快15%。
               </li>
               <li>
                 <img
@@ -264,7 +269,7 @@
                   src="~assets/Goldmining.jpg"
                   width="22"
                   alt=""
-                /><a href="Gold_Mining.php">採金技術</a>：村民採金速度快15%。
+                /><a href="/techs/Gold_Mining">採金技術</a>：村民採金速度快15%。
               </li>
             </ul>
             <strong>市集</strong>
@@ -275,11 +280,12 @@
                   src="~assets/Cartography.jpg"
                   width="22"
                   alt=""
-                /><a href="Cartography.php">製圖法</a>：可看到所有同盟的視野。
+                /><a href="/techs/Cartography">製圖法</a
+                >：可看到所有同盟的視野。
               </li>
               <li>
                 <img class="gg" src="~assets/Coinage.jpg" width="22" alt="" /><a
-                  href="Coinage.php"
+                  href="/techs/Coinage"
                   >鑄幣術</a
                 >：進貢費用減少至20%。
               </li>
@@ -292,7 +298,7 @@
                   src="~assets/Tracking.jpg"
                   width="22"
                   alt=""
-                /><a href="Tracking.php">追蹤技術</a>：步兵+2視野。
+                /><a href="/techs/Tracking">追蹤技術</a>：步兵+2視野。
               </li>
             </ul>
             <strong>馬廄</strong>
@@ -303,7 +309,7 @@
                   src="~assets/Bloodlines.png"
                   width="22"
                   alt=""
-                /><a href="Bloodlines.php">品種</a>：騎兵部隊生命值+20。
+                /><a href="/techs/Bloodlines">品種</a>：騎兵部隊生命值+20。
               </li>
             </ul>
             <strong>兵工廠</strong>
@@ -314,7 +320,8 @@
                   src="~assets/Scalemailarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="Scale_Mail_Armor.php">步兵鱗甲</a>：步兵護甲+1/+1。
+                /><a href="/techs/Scale_Mail_Armor">步兵鱗甲</a
+                >：步兵護甲+1/+1。
               </li>
               <li>
                 <img
@@ -322,7 +329,7 @@
                   src="~assets/Fletching.jpg"
                   width="22"
                   alt=""
-                /><a href="Fletching.php">箭羽</a
+                /><a href="/techs/Fletching">箭羽</a
                 >：弓兵、馬騎弓兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
               </li>
               <li>
@@ -331,12 +338,12 @@
                   src="~assets/Paddedarcherarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="Padded_Archer_Armor.php">弓兵布甲</a
+                /><a href="/techs/Padded_Archer_Armor">弓兵布甲</a
                 >：弓兵和馬騎弓兵護甲+1/+1。
               </li>
               <li>
                 <img class="gg" src="~assets/Forging.jpg" width="22" alt="" /><a
-                  href="Forging.php"
+                  href="/techs/Forging"
                   >鍛造</a
                 >:步兵騎兵攻擊+1。
               </li>
@@ -346,7 +353,7 @@
                   src="~assets/Scalebardingarmor.jpg"
                   width="22"
                   alt=""
-                /><a href="Scale_Barding_Armor.php">騎兵鱗甲</a
+                /><a href="/techs/Scale_Barding_Armor">騎兵鱗甲</a
                 >：騎兵護甲+1/+1。
               </li>
             </ul>
@@ -356,24 +363,25 @@
             <div class="n1">
               <ul>
                 <li>
-                  <a href="Ethiopians.php">衣索比亞</a
+                  <a href="/civs/Ethiopians">衣索比亞</a
                   >：到封建時代可獲得100金、100肉。
                 </li>
                 <li>
-                  <a href="Italians.php">義大利</a>：研發封建時代成本減少15％。
+                  <a href="/civs/Italians">義大利</a
+                  >：研發封建時代成本減少15％。
                 </li>
                 <li>
-                  <a href="Khmer.php">高棉</a>：升級封建時代不需要前置建築。
+                  <a href="/civs/Khmer">高棉</a>：升級封建時代不需要前置建築。
                 </li>
-                <li><a href="Malay.php">馬來</a>：研究封建時代速度快80。</li>
+                <li><a href="/civs/Malay">馬來</a>：研究封建時代速度快80。</li>
               </ul>
               <h3>戰術</h3>
               <div class="hrn1"></div>
               <div class="n1">
                 <p>
                   封建時代通常是不同文明開始脫穎而出的地方。弓箭手，騎兵和海上文明可以開始在這個時代訓練他們的基本單位。封建時代也是軍事衝突開始發生的地方。玩家應該考慮開採石礦，準備在
-                  <a href="Castle_Age.php">城堡時代</a>建造威力強大的<a
-                    href="Castle.php"
+                  <a href="/techsage/Castle_Age">城堡時代</a>建造威力強大的<a
+                    href="/building/Castle"
                     >城堡</a
                   >。玩家也應該開始消除城鎮旁的漏洞，用圍牆或是建築搭配天然障礙物以防止其他玩家的早期攻擊。
                 </p>
@@ -433,7 +441,7 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="22"
                 alt=""
-              /><a href="Dark_Age.php">黑暗時代</a>
+              /><a href="/techsage/Dark_Age">黑暗時代</a>
             </td>
           </tr>
           <tr>
@@ -444,7 +452,7 @@
                 src="~assets/Castle-age-reseach.jpg"
                 width="22"
                 alt=""
-              /><a href="Castle_Age.php">城堡時代</a>
+              /><a href="/techsage/Castle_Age">城堡時代</a>
             </td>
           </tr>
           <tr>
@@ -457,10 +465,10 @@
                 src="~assets/Barracks-logo.jpg"
                 width="22"
                 alt=""
-              /><a href="Barracks.php">軍營</a>
+              /><a href="/building/Barracks">軍營</a>
               <br />
               <img class="gg" src="~assets/Millicon.png" width="22" alt="" /><a
-                href="Mill.php"
+                href="/building/Mill"
                 >磨坊</a
               >
               <br />
@@ -469,17 +477,17 @@
                 src="~assets/Lumbercampicon.png"
                 width="22"
                 alt=""
-              /><a href="Lumber_Camp.php">伐木場</a>
+              /><a href="/building/Lumber_Camp">伐木場</a>
               <br />
               <img
                 class="gg"
                 src="~assets/Miningcampicon.png"
                 width="22"
                 alt=""
-              /><a href="Mining_Camp.php">採礦營地</a>
+              /><a href="/building/Mining_Camp">採礦營地</a>
               <br />
               <img class="gg" src="~assets/Dockicon.png" width="22" alt="" /><a
-                href="Dock.php"
+                href="/building/Dock"
                 >碼頭</a
               >
             </td>
@@ -492,7 +500,7 @@
                 src="~assets/Towncentericon.png"
                 width="22"
                 alt=""
-              /><a href="Town_Watch.php">城鎮中心</a>
+              /><a href="/techs/Town_Watch">城鎮中心</a>
             </td>
           </tr>
           <tr>
@@ -522,7 +530,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Civilizationfeudalage.png"
+              <a href="/img/Civilizationfeudalage.png"
                 ><img
                   class="imgn hg"
                   src="~assets/Civilizationfeudalage.png"

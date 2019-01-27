@@ -133,7 +133,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">勘查(再次征服)</a>
+                <div class="unititle"><a href="#">勘查(再次征服)</a>
                 </div>
               </td>
             </tr>
@@ -146,7 +146,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -160,11 +160,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Japanese.php">西班牙</a>
+              <td class="unit4"><a href="/civs/Japanese">西班牙</a>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="">戰役關卡編號</a>
+              <div class="unititle2"><a href="#">戰役關卡編號</a>
               </div>
             </td>
             </tr>
@@ -173,7 +173,7 @@
               <td class="unit4">征服者戰役第二章之六</td>
             </tr>
 <tr><td class="unit3">上一關</td>
-            <td class="unit4"> <a href="King_of_Valencia.php">瓦倫西亞之主</a> 
+            <td class="unit4"> <a href="/batt/King_of_Valencia">瓦倫西亞之主</a> 
               </tr>
               <tr>
                 <td class="unit3">下一關</td>

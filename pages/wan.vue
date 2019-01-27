@@ -55,15 +55,15 @@
         <div class="col-md-6">
           <p>
             對歷史人文有興趣，去查資料後補充在頁面。例如緬甸的特殊科技<a
-              href="Manipur.php"
+              href="/Manipur.php"
               >曼尼普爾騎兵</a
-            >，實際上是位於現在的 <a href="Indians.php">印度</a>，且與<a
-              href="Chinese.php"
+            >，實際上是位於現在的 <a href="/civs/Indians">印度</a>，且與<a
+              href="/civs/Chinese"
               >中國</a
             >有相當大的淵源。
           </p>
           <p>
-            <a href="Heated_Shot.php">預熱射擊</a
+            <a href="/techs/Heated_Shot">預熱射擊</a
             >則補充到發射砲彈前，先用一個鍋爐加熱砲彈，以達到類似古代中國火箭的效果。赤壁之戰中，周瑜也問過孔明大江之上，何以破曹，孔明答了『火+箭』。
           </p>
           <p>
@@ -80,14 +80,14 @@
         <div class="col-md-6">
           <p>
             一張圖片勝過千言萬語，為了使Aoetw更生動活潑，非常需要更多的圖片來支援。例如在<a
-              href="Longbowman.php"
+              href="/units/Longbowman"
               >長弓兵</a
             >頁可以幫忙加入長弓兵的遊戲圖片，或是像是非洲文明的
-            <a href="Monastery.php">修道院</a>其實原形來自<a
-              href="https://en.wikipedia.org/wiki/Larabanga_Mosque"
+            <a href="/building/Monastery">修道院</a>其實原形來自<a
+              href="/https://en.wikipedia.org/wiki/Larabanga_Mosque"
               >拉拉班加清真寺</a
-            >，而 <a href="Indians.php">印度</a>修道院則是<a
-              href="http://tinyurl.com/y8quapg4"
+            >，而 <a href="/civs/Indians">印度</a>修道院則是<a
+              href="/http://tinyurl.com/y8quapg4"
               >科奈克太陽神廟</a
             >。
           </p>
@@ -101,10 +101,10 @@
         <div class="hrn1"></div>
         <div class="col-md-6">
           <p>
-            <em>主條目：<a href="batt.php">戰役</a></em>
+            <em>主條目：<a href="/batt/">戰役</a></em>
           </p>
           <p>
-            不管在台灣或是全世界，玩<a href="batt.php">戰役</a
+            不管在台灣或是全世界，玩<a href="/batt/">戰役</a
             >的人口非常多，但目前卻缺乏一個統合完整的戰役網站，不管是戰役的歷史背景還是關卡本身的攻略，戰役都非常的需要人手來編輯擴充，歡迎一起加入戰役的世界。
           </p>
         </div>
@@ -127,7 +127,7 @@
       <div class="col-md-12">
         <p>
           版面大部分都已經設計好，參與者只需要帶入資料即可。所以即使你對網頁0基礎也是可以非常快的上手，目前全站寫超過200條目的賜齡也是0基礎，到現在已經是網頁高手。工作人員請參考：
-          <a href="hkbb.php">工作人員頁</a>
+          <a href="/hkbb">工作人員頁</a>
         </p>
         <p>如何編輯，可以參考下面兩部實作影片，你將會發現，非常簡單。</p>
         <div class="col-md-6">

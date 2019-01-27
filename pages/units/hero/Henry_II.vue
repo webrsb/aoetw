@@ -12,13 +12,15 @@
         <div class="n1">
           <p>
             <strong>亨利二世</strong>是一名可在《世紀帝國II HD：
-            非洲王朝》的地圖編輯器中使用的<a href="Infantry_Units.php">步兵</a>
-            <a href="heros.php">英雄</a
+            非洲王朝》的地圖編輯器中使用的<a href="/units/Infantry_Units"
+              >步兵</a
+            >
+            <a href="/units/hero">英雄</a
             >。他的原型是<strong>英格蘭的國王亨利二世</strong>，最著名的事蹟是在百年戰爭之前奪回了<a
-              href="Britons.php"
+              href="/civs/Britons"
               >英國</a
             >在法國內的領地，並收回了英格蘭境內的皇家統治。在遊戲中，亨利二世以
-            <a href="Two_Handed_Swordsman.php">雙手劍兵</a
+            <a href="/Two_Handed_Swordsman.php">雙手劍兵</a
             >的外表登場。作為一個英雄單位，他無法被招降且會自動回血。
           </p>
           <p>
@@ -30,7 +32,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">亨利二世</a></div>
+              <div class="unititle"><a href="#">亨利二世</a></div>
             </td>
           </tr>
           <tr>
@@ -48,7 +50,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="Infantry_Units.php">步兵</a> <br /><a href="heros.php"
+              <a href="/units/Infantry_Units">步兵</a> <br /><a
+                href="/units/hero"
                 >英雄</a
               >
             </td>
@@ -77,10 +80,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<a href="Armor_Class_Eagle_Warrior.php">鷹勇士</a> +8 <br />對<a
-                href="Armor_Class_standard_building.php"
-                >標準建築</a
-              >
+              對<a href="/armor/Armor_Class_Eagle_Warrior">鷹勇士</a> +8
+              <br />對<a href="/Armor_Class_standard_building.php">標準建築</a>
               +4
             </td>
           </tr>
@@ -116,7 +117,7 @@
               <i
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%8C%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
+                    href="/https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%8C%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
                     >亨利二世</a
                   ></strong
                 ></i

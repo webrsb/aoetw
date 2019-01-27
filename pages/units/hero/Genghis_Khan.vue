@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是說關於英雄:成吉思汗這個單位。而關於成吉思汗戰役請見<a
-              href="Genghis_Khana.php"
+              href="/batt/Genghis_Khana"
               >成吉思汗(戰役)</a
             ></em
           >
@@ -46,7 +46,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">成吉思汗</a></div>
+              <div class="unititle"><a href="#">成吉思汗</a></div>
             </td>
           </tr>
           <tr>
@@ -64,7 +64,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="">騎兵<br />弓箭手<br />英雄</a>
+              <a href="#">騎兵<br />弓箭手<br />英雄</a>
             </td>
           </tr>
           <tr>

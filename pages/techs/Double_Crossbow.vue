@@ -11,13 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            雙弩箭是<a href="Khmer.php">高棉</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            雙弩箭是<a href="/civs/Khmer">高棉</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Ballista_Elephant.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/Ballista_unitsanimal/Elephant"
               >弩炮象</a
-            >和<a href="Scorpion.php">弩炮</a>一次發射兩個投射物。
+            >和<a href="/units/Scorpion">弩炮</a>一次發射兩個投射物。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,18 +26,19 @@
           <ul>
             <li>
               雙弩箭增強了弩炮象和高棉無可挑剔的弩炮(團隊加成:弩炮射程+1還有<a
-                href="Siege_Engineers.php"
+                href="/techs/Siege_Engineers"
                 >攻城工程師</a
-              >的加成)對大規模 <a href="Infantry_Units.php">步兵</a>的殺傷力。
+              >的加成)對大規模
+              <a href="/units/Infantry_Units">步兵</a>的殺傷力。
             </li>
             <li>
               第二個投射物有一個輕微的錐形擴展，造成的傷害比第一個投射物小一點。
             </li>
             <li>
               大量有雙弩箭的弩炮象和弩炮可以摧毀大面積區域，這讓高棉的弩炮水平與<a
-                href="Ethiopians.php"
+                href="/civs/Ethiopians"
                 >衣索比亞</a
-              >、 <a href="Celts.php">賽爾特</a>、和<a href="Chinese.php"
+              >、 <a href="/civs/Celts">賽爾特</a>、和<a href="/civs/Chinese"
                 >中國</a
               >的弩炮可以平起平坐。
             </li>
@@ -48,7 +49,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速雙弩箭的研究時間(快25%)。
             </li>
           </ul>
@@ -65,7 +67,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">雙弩箭</a></div>
+              <div class="unititle"><a href="#">雙弩箭</a></div>
             </td>
           </tr>
           <tr>
@@ -77,12 +79,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Khmer.php">高棉</a></td>
+            <td class="unit4"><a href="/civs/Khmer">高棉</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -91,14 +93,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -109,7 +111,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -122,7 +124,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

@@ -17,31 +17,31 @@
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                 <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可訓練</span></strong></h4>  <a href="Berbers.php">柏柏</a>、 <a href="Mongols.php">蒙古</a>、 <a href="Byzantines.php">拜占庭</a>、
+                 <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可訓練</span></strong></h4>  <a href="/civs/Berbers">柏柏</a>、 <a href="/civs/Mongols">蒙古</a>、 <a href="/civs/Byzantines">拜占庭</a>、
                 <a
-                href="Chinese.php">中國</a>、 <a href="Ethiopians.php">衣索比亞</a>、 <a href="Indians.php">印度</a>、
+                href="/civs/Chinese">中國</a>、 <a href="/civs/Ethiopians">衣索比亞</a>、 <a href="/civs/Indians">印度</a>、
                   <a
-                  href="Malians.php">馬利</a>、 <a href="Persians.php">波斯</a>、 <a href="Saracens.php">薩拉森</a>、
+                  href="/civs/Malians">馬利</a>、 <a href="/civs/Persians">波斯</a>、 <a href="/civs/Saracens">薩拉森</a>、
                     <a
-                    href="Turks.php">土耳其</a>。</div>
+                    href="/civs/Turks">土耳其</a>。</div>
             </div>
           </div>
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                 <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可訓練</span></strong></h4>  <a href="Aztecs.php">阿茲特克</a>、 <a href="Britons.php">不列顛</a>、 <a href="Burmese.php">緬甸</a>、
+                 <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可訓練</span></strong></h4>  <a href="/civs/Aztecs">阿茲特克</a>、 <a href="/civs/Britons">不列顛</a>、 <a href="/civs/Burmese">緬甸</a>、
                 <a
-                href="Celts.php">賽爾特</a>、 <a href="Franks.php">法蘭克</a>、 <a href="Goths.php">哥德</a>、 <a href="Huns.php">匈奴</a>、
+                href="/civs/Celts">賽爾特</a>、 <a href="/civs/Franks">法蘭克</a>、 <a href="/civs/Goths">哥德</a>、 <a href="/civs/Huns">匈奴</a>、
                   <a
-                  href="Incas.php">印加</a>、 <a href="Italians.php">義大利</a>、 <a href="Japanese.php">日本</a>、
+                  href="/civs/Incas">印加</a>、 <a href="/civs/Italians">義大利</a>、 <a href="/civs/Japanese">日本</a>、
                     <a
-                    href="Khmer.php">高棉</a>、 <a href="Koreans.php">韓國</a>、 <a href="Magyar.php">馬札爾</a>、 <a href="Malay.php">馬來</a>、
+                    href="/civs/Khmer">高棉</a>、 <a href="/civs/Koreans">韓國</a>、 <a href="/Magyar.php">馬札爾</a>、 <a href="/civs/Malay">馬來</a>、
                       <a
-                      href="Mayans.php">馬雅</a>、 <a href="Portuguese.php">葡萄牙</a>、 <a href="Slavs.php">斯拉夫</a>、
+                      href="/civs/Mayans">馬雅</a>、 <a href="/civs/Portuguese">葡萄牙</a>、 <a href="/civs/Slavs">斯拉夫</a>、
                         <a
-                        href="Spanish.php">西班牙</a>、 <a href="Teutons.php">條頓</a>、 <a href="Vietnamese.php">越南</a>、
+                        href="/civs/Spanish">西班牙</a>、 <a href="/civs/Teutons">條頓</a>、 <a href="/civs/Vietnamese">越南</a>、
                           <a
-                          href="Vikings.php">維京</a>。</div>
+                          href="/civs/Vikings">維京</a>。</div>
             </div>
           </div>
            <h3>戰術</h3>
@@ -61,15 +61,15 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Skirmisher.php">矛兵</a>、<a href="Siege_Weapons.php">攻城器單位</a>、
+              <td class="tta4"><a href="/units/Skirmisher">矛兵</a>、<a href="/units/Siege_Weapons">攻城器單位</a>、
                 <a
-                href="Cavalry_Archer.php">馬弓騎兵</a>、<a href="Cavalry_Units.php">騎兵單位</a>。</td>
+                href="/Cavalry_units/Archer">馬弓騎兵</a>、<a href="/units/Cavalry_Units">騎兵單位</a>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4"><a href="Infantry_Units.php">步兵</a>、<a href="Archer_Units.php">弓兵</a>、
+              <td class="tta4"><a href="/units/Infantry_Units">步兵</a>、<a href="/units/Archer_Units">弓兵</a>、
                 <a
-                href="Cataphract.php">聖騎兵</a>和<a href="">防禦建築</a>。</td>
+                href="/units/Cataphract">聖騎兵</a>和<a href="#">防禦建築</a>。</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -79,54 +79,54 @@
             <tr>
               <td class="tta1" style="width:10%">生命值</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="Bloodlines.php">品種</a>(+20)
+                <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><a href="/techs/Bloodlines">品種</a>(+20)
                 <br/>
-                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Zealotry.php">狂熱舉動</a>(+30，<a href="Saracens.php">薩拉森</a>限定)</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="/techs/Zealotry">狂熱舉動</a>(+30，<a href="/civs/Saracens">薩拉森</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">攻擊力</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="Forging.php">鍛造</a>(+1)
+                <img class="gg" src="~assets/Forging.jpg" width="30" alt=""><a href="/techs/Forging">鍛造</a>(+1)
                 <br/>
-                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="Iron_Casting.php">鑄造</a>(+1)
+                <img class="gg" src="~assets/Ironcasting.jpg" width="30" alt=""><a href="/techs/Iron_Casting">鑄造</a>(+1)
                 <br/>
-                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="Blast_Furnace.php">鼓風爐</a>(+2)
+                <img class="gg" src="~assets/Blastfurnace.jpg" width="30" alt=""><a href="/techs/Blast_Furnace">鼓風爐</a>(+2)
                 <br/>
-                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Farimba.php">驃悍精神</a>：馬廄單位攻擊+5。<a href="Malians.php">馬利</a>限定</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="/techs/Farimba">驃悍精神</a>：馬廄單位攻擊+5。<a href="/civs/Malians">馬利</a>限定</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">防禦</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>(+1/+1)
+                <img class="gg" src="~assets/Scalebardingarmor.jpg" width="30" alt=""><a href="/techs/Scale_Barding_Armor">騎兵鱗甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>(+1/+1)
+                <img class="gg" src="~assets/Chainbardingarmor.jpg" width="30" alt=""><a href="/techs/Chain_Barding_Armor">騎兵鎖甲</a>(+1/+1)
                 <br/>
-                <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="Plate_Barding_Armor.php">騎兵板甲</a>(+1/+2)</td>
+                <img class="gg" src="~assets/Platebardingarmor.jpg" width="30" alt=""><a href="/techs/Plate_Barding_Armor">騎兵板甲</a>(+1/+2)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="Husbandry.php">畜牧培育</a>(+10%)</td>
+                <img class="gg" src="~assets/Husbandry.jpg" width="30" alt=""><a href="/techs/Husbandry">畜牧培育</a>(+10%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">招降抵抗</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" alt=""><a href="/techs/Faith">忠誠信仰</a>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="30" alt=""><a href="/techs/Heresy">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">生產速度</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="Conscription.php">徵兵制度</a>(+33%)
+                <img class="gg" src="~assets/Conscription.jpg" width="30" alt=""><a href="/techs/Conscription">徵兵制度</a>(+33%)
                 <br/>
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">其他</td>
               <td class="tta4">
-                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="Maghrabi_Camels.php">馬格拉比駱駝</a>:駱駝部隊獲得回血能力(每分鐘回15 HP)，<a href="Berbers.php">柏柏</a>限定</td>
+                <img src="~assets/Unique-tech.jpg" class="gg" alt=""><a href="/techs/Maghrabi_Camels">馬格拉比駱駝</a>:駱駝部隊獲得回血能力(每分鐘回15 HP)，<a href="/civs/Berbers">柏柏</a>限定</td>
             </tr>
           </table>
            <h3>剋駱駝騎兵的單位與建築</h3> 
@@ -139,44 +139,44 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a>
+                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="/units/Halberdier">戟兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a>
+                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="/units/Pikeman">重裝長槍兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>
+                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="/units/Spearman">長槍兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">精銳槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="/units/Kamayuk">精銳槍隊長</a>(<a href="/civs/Incas">印加</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
+                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="/Heavy_units/Camel">重裝駱駝騎兵</a>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial_Camel.php">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="indians.php">印度</a>限定)</li>
+                      alt=""> <a href="/Imperial_units/Camel">帝王駱駝騎兵</a>(帝王駱駝騎兵是<a href="/indians.php">印度</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="Kamayuk.php">槍隊長</a>(<a href="Incas.php">印加</a>限定)</li>
+                      <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><a href="/units/Kamayuk">槍隊長</a>(<a href="/civs/Incas">印加</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="/Genoese_units/Crossbowman">精銳熱那亞弩手</a>(<a href="/civs/Italians">義大利</a>限定)</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
@@ -184,72 +184,72 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a>
+                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="/units/Camel">駱駝騎兵</a>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="/Genoese_units/Crossbowman">熱那亞弩手</a>(<a href="/civs/Italians">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
+                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="/units/Eagle_Warrior">鷹勇士</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Town-center-logo.jpg" alt=""><a href="Town_Center.php">城鎮中心</a> 
+                      <img class="gg" src="~assets/Town-center-logo.jpg" alt=""><a href="/building/Town_Center">城鎮中心</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Watch_Tower.php">瞭望箭塔</a>→
+                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="/units/Watch_Tower">瞭望箭塔</a>→
                       <img class="gg" src="~assets/Watchtowericon.png"
-                      alt=""><a href="Guard_Tower.php">防禦箭塔</a>→
+                      alt=""><a href="/units/Guard_Tower">防禦箭塔</a>→
                       <img class="gg" src="~assets/Watchtowericon.png"
-                      alt=""> <a href="Keep.php">大型箭塔</a> 
+                      alt=""> <a href="/units/Keep">大型箭塔</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a> 
+                      <img class="gg" src="~assets/Bombardtowericon.png" alt=""><a href="/building/Bombard_Tower">火炮塔</a> 
                     </li>
                   </ul>
                 </div>
               </div>
             </div>以下技術可讓以下單位對駱駝騎兵有額外攻擊力
             <div class="n1">
-              <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""> <a href="Chieftains.php">酋長</a> 
-              <div width="22" style="margin:12px 0px;"><strong>+4攻擊</strong>(<a href="Vikings.php">維京</a>限定)</div>
+              <img class="gg" src="~assets/CastleAgeUnique.png" width="22" alt=""> <a href="/techs/Chieftains">酋長</a> 
+              <div width="22" style="margin:12px 0px;"><strong>+4攻擊</strong>(<a href="/civs/Vikings">維京</a>限定)</div>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="Militia.php">民兵</a>→
+                  <img class="gg" src="~assets/MilitiaIcon.jpg" alt=""><a href="/units/Militia">民兵</a>→
                   <img class="gg" src="~assets/ManAtArmsIcon.jpg"
-                  width="22" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a>→
+                  width="22" alt=""> <a href="/units/Man-at-Arms">裝甲步兵</a>→
                   <img class="gg" src="~assets/LongswordsManIcon.jpg"
-                  alt=""> <a href="Long_Swordsman.php">長劍兵</a>→
+                  alt=""> <a href="/units/Long_Swordsman">長劍兵</a>→
                   <img class="gg" src="~assets/2HandedswordsmanIcon.jpg"
-                  alt=""> <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
+                  alt=""> <a href="/units/Two-Handed_Swordsman">雙手劍兵</a>→
                   <img class="gg" src="~assets/ChampionIcon.jpg"
-                  alt=""> <a href="Champion.php">劍兵勇士</a> 
+                  alt=""> <a href="/units/Champion">劍兵勇士</a> 
                 </li>
                 <li>
-                  <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a>→
+                  <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="/units/Spearman">長槍兵</a>→
                   <img class="gg" src="~assets/PikemanIcon.jpg"
-                  alt=""> <a href="Pikeman.php">重裝長槍兵</a> 
+                  alt=""> <a href="/units/Pikeman">重裝長槍兵</a> 
                 </li>
                 <li>
-                  <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="Berserk.php">狂戰士</a>→
-                  <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="Berserk.php">精銳狂戰士</a>(<a href="Vikings.php">維京</a>限定)</li>
+                  <img class="gg" src="~assets/VBRSK.jpg" alt=""><a href="/units/Berserk">狂戰士</a>→
+                  <img class="gg" src="~assets/VBRSK.jpg" alt=""> <a href="/units/Berserk">精銳狂戰士</a>(<a href="/civs/Vikings">維京</a>限定)</li>
               </ul>
             </div>
           </div>
@@ -257,56 +257,56 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：駱駝騎兵在城堡/帝王時代便宜15%/20%。</li>
-              <li><a href="Byzantines.php">拜占庭</a>：駱駝騎兵便宜25%。</li>
-              <li><a href="Chinese.php">中國</a>：對駱駝騎兵有利的科技在城堡/帝王時代各便宜15%/20%。</li>
-              <li><a href="Indians.php">印度</a>：駱駝騎兵+1/+1防禦。</li>
+              <li><a href="/civs/Berbers">柏柏</a>：駱駝騎兵在城堡/帝王時代便宜15%/20%。</li>
+              <li><a href="/civs/Byzantines">拜占庭</a>：駱駝騎兵便宜25%。</li>
+              <li><a href="/civs/Chinese">中國</a>：對駱駝騎兵有利的科技在城堡/帝王時代各便宜15%/20%。</li>
+              <li><a href="/civs/Indians">印度</a>：駱駝騎兵+1/+1防禦。</li>
             </ul>
           </div>
            <h3>團隊加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速<a href="Conscription.php">徵兵制度</a>的研究時間(快25%)。</li>
-              <li><a href="Huns.php">匈奴</a>：駱駝騎兵生產和升級效率快20%，<a href="Bloodlines.php">品種</a>與
+              <li><a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah">聚居堡壘</a>能夠加速<a href="/techs/Conscription">徵兵制度</a>的研究時間(快25%)。</li>
+              <li><a href="/civs/Huns">匈奴</a>：駱駝騎兵生產和升級效率快20%，<a href="/techs/Bloodlines">品種</a>與
                 <a
-                href="Husbandry.php">畜牧技術</a>研發快20%。</li>
-              <li><a href="Indians.php">印度</a>：駱駝騎兵對<a href="Armor_Class_Building.php">建築</a>+6攻擊。</li>
-              <li><a href="Teutons.php">條頓</a>：駱駝騎兵對僧侶抵抗力更強。</li>
+                href="/techs/Husbandry">畜牧技術</a>研發快20%。</li>
+              <li><a href="/civs/Indians">印度</a>：駱駝騎兵對<a href="/armor/Armor_Class_Building">建築</a>+6攻擊。</li>
+              <li><a href="/civs/Teutons">條頓</a>：駱駝騎兵對僧侶抵抗力更強。</li>
             </ul>
           </div>
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
+             <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
             <ul>
               <li>駱駝有5的攻擊。</li>
               <li>駱駝對騎兵+10攻擊。</li>
               <li>訓練時間為29秒。</li>
               <li>移動速度為1.4。</li>
-              <li>駱駝的防禦類型有包括<a href="Armor_Class_Cavalry.php">騎兵護甲</a>，所以會受到反騎兵的傷害。</li>
+              <li>駱駝的防禦類型有包括<a href="/armor/Armor_Class_Cavalry">騎兵護甲</a>，所以會受到反騎兵的傷害。</li>
               <li>升級到重裝駱駝需要125秒。</li>
               <li></li>
             </ul>
-             <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
+             <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
             <ul>
               <li>駱駝訓練時間減為22秒。</li>
               <li>移動速度增加到1.45。</li>
-              <li>駱駝的防禦類型轉到與<a href="Armor_Class_Ship.php">船</a>相同。</li>
-              <li><a href="Bloodlines.php"></a>血統引進。</li>
-              <li><a href="Heresy.php"></a>異端邪說引進。</li>
-              <li><a href="Saracens.php">薩拉森</a>:引入<a href="Zealotry.php">狂熱舉動</a>。</li>
+              <li>駱駝的防禦類型轉到與<a href="/armor/Armor_Class_Ship">船</a>相同。</li>
+              <li><a href="/techs/Bloodlines"></a>血統引進。</li>
+              <li><a href="/techs/Heresy"></a>異端邪說引進。</li>
+              <li><a href="/civs/Saracens">薩拉森</a>:引入<a href="/techs/Zealotry">狂熱舉動</a>。</li>
             </ul>
-             <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+             <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
             <ul>
               <li>駱駝攻擊增加為6。</li>
-              <li>對<a href="Armor_Class_Cavalry.php">騎兵</a>有+9攻擊。</li>
+              <li>對<a href="/armor/Armor_Class_Cavalry">騎兵</a>有+9攻擊。</li>
               <li>升級到重裝駱駝需要105秒。</li>
             </ul>
-             <h3><em><a href="ak.php">非洲王國</a></em></h3>
+             <h3><em><a href="/games/ak">非洲王國</a></em></h3>
             <ul>
-              <li>駱駝不再受到<a href="Armor_Class_Ship.php">船艦護甲</a>的影響，他們正式有自己的防禦類型：<a href="Armor_Class_Camel.php">駱駝</a>護甲。但駱駝仍然對船隻有+5的攻擊。反騎兵攻擊仍然不影響駱駝。</li>
-              <li><a href="Berbers.php">柏柏</a>:駱駝騎兵從城堡時代便宜20％，在4.8更新後變成城堡/帝王各便宜15%/20％。</li>
+              <li>駱駝不再受到<a href="/armor/Armor_Class_Ship">船艦護甲</a>的影響，他們正式有自己的防禦類型：<a href="/armor/Armor_Class_Camel">駱駝</a>護甲。但駱駝仍然對船隻有+5的攻擊。反騎兵攻擊仍然不影響駱駝。</li>
+              <li><a href="/civs/Berbers">柏柏</a>:駱駝騎兵從城堡時代便宜20％，在4.8更新後變成城堡/帝王各便宜15%/20％。</li>
             </ul>
           </div>
            <h3>趣事</h3>
@@ -334,7 +334,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><a href="">駱駝騎兵</a>
+                <div class="unititle"><a href="#">駱駝騎兵</a>
                 </div>
               </td>
             </tr>
@@ -347,13 +347,13 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">單位介紹</a>
+                <div class="unititle2"><a href="#">單位介紹</a>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
+              <td class="unit4"><a href="/units/Cavalry_Units">騎兵</a>
               </td>
             </tr>
             <tr>
@@ -363,13 +363,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" class="gg" src="~assets/Stable-logo.jpg" alt=""><a href="Stable.php">馬廄</a>
+                <img class="gg" class="gg" src="~assets/Stable-logo.jpg" alt=""><a href="/building/Stable">馬廄</a>
               </td>
             </tr>
             <tr>
@@ -405,9 +405,9 @@
             <tr>
               <td class="unit3">攻擊加成</td>
               <div class="unititle2">數據</div>
-              <td class="unit4">+9對<a href="Armor_Class_Cavalry.php">騎兵類</a>
-                <br/>+5對<a href="Armor_Class_Camel.php">駱駝類</a>
-                <br/>+5對<a href="Armor_Class_Ship.php">船類</a>
+              <td class="unit4">+9對<a href="/armor/Armor_Class_Cavalry">騎兵類</a>
+                <br/>+5對<a href="/armor/Armor_Class_Camel">駱駝類</a>
+                <br/>+5對<a href="/armor/Armor_Class_Ship">船類</a>
               </td>
             </tr>
             <tr>
@@ -426,7 +426,7 @@
               </tr>
               <tr>
                 <td class="unit3">防禦類型</td>
-                <td class="unit4"><a href="Armor_Class_Camel.php">駱駝</a>
+                <td class="unit4"><a href="/armor/Armor_Class_Camel">駱駝</a>
                 </td>
               </tr>
               <tr>
@@ -446,7 +446,7 @@
               <tr>
                 <td class="unit3">升級到</td>
                 <td class="unit4">
-                  <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="Heavy_Camel.php">重裝駱駝騎兵</a>
+                  <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""><a href="/Heavy_units/Camel">重裝駱駝騎兵</a>
                 </td>
               </tr>
               <tr>
@@ -466,11 +466,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
-            <div class="col-md-4"> <a href="img/Camelline.png"><img class="imgn hg" src="~assets/Camelline.png" alt=""></a> 
+            <div class="col-md-4"> <a href="/img/Camelline.png"><img class="imgn hg" src="~assets/Camelline.png" alt=""></a> 
               <p><em>駱駝系。</em>
               </p>
             </div>
-            <div class="col-md-4"> <a href="img/Camel.png"><img class="imgn hg" src="~assets/Camel.png" alt=""></a> 
+            <div class="col-md-4"> <a href="/img/Camel.png"><img class="imgn hg" src="~assets/Camel.png" alt=""></a> 
               <p><em>一群駱駝騎兵。</em>
               </p>
             </div>

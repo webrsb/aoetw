@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於攻城單位裝甲的。而關於攻城單位這個兵種的請參見<a
-              href="Siege_Weapons.php"
+              href="/units/Siege_Weapons"
               >攻城單位</a
             ></em
           >
@@ -31,7 +31,7 @@
           <ul>
             <li>
               <img class="gg" src="~assets/BatteringRamIcon.jpg" alt="" /><a
-                href="Battering_Ram.php"
+                href="/units/Battering_Ram"
                 >輕形衝撞車</a
               >→
               <img
@@ -39,42 +39,42 @@
                 src="~assets/CappedRamIcon.jpg"
                 width="22"
                 alt=""
-              /><a href="Capped_Ram.php">裝甲衝撞車</a>→
+              /><a href="/units/Capped_Ram">裝甲衝撞車</a>→
               <img class="gg" src="~assets/SiegeRamIcon.jpg" alt="" /><a
-                href="Siege_Ram.php"
+                href="/units/Siege_Ram"
                 >重型衝撞車</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><a
-                href="Mangonel.php"
+                href="/units/Mangonel"
                 >輕形投石車</a
               >→ <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><a
-                href="Onager.php"
+                href="/units/Onager"
                 >中型投石車</a
               >→ <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt="" /><a
-                href="Siege_Onager.php"
+                href="/Siege_units/Onager"
                 >重型投石車</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" /><a
-                href="Scorpion.php"
+                href="/units/Scorpion"
                 >弩炮</a
               >→ <img class="gg" src="~assets/HeavyScorpionIcon.jpg" alt="" /><a
-                href="Heavy_Scorpion.php"
+                href="/units/Heavy_Scorpion"
                 >重型弩炮</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/BombardCannonIcon.jpg" alt="" /><a
-                href="Bombard_Cannon.php"
+                href="/units/Bombard_Cannon"
                 >火砲</a
               >
             </li>
             <li>
               <img class="gg" src="~assets/Siegetowericon.png" alt="" /><a
-                href="Siege_Tower.php"
+                href="/units/Siege_Tower"
                 >攻城塔</a
               >
             </li>
@@ -83,26 +83,26 @@
                 class="gg"
                 src="~assets/TrebuchetUnpackedIcon.jpg"
                 alt=""
-              /><a href="Trebuchet.php">巨型投石機</a>
+              /><a href="/units/Trebuchet">巨型投石機</a>
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><a
-                href="Organ_Gun.php"
+                href="/units/Organ_Gun"
                 >風琴炮</a
               >→ <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><a
-                href="Organ_Gun.php"
+                href="/units/Organ_Gun"
                 >精銳風琴炮</a
-              >(<a href="Portuguese.php">葡萄牙</a>限定)
+              >(<a href="/civs/Portuguese">葡萄牙</a>限定)
             </li>
             <li>
               <img class="gg" src="~assets/Ballistaelephanticon.png" alt="" /><a
-                href="Ballista_Elephant.php"
+                href="/Ballista_unitsanimal/Elephant"
                 >弩炮象</a
               >(-2)→
               <img class="gg" src="~assets/Ballistaelephanticon.png" alt="" /><a
-                href="Ballista_Elephant.php"
+                href="/Ballista_unitsanimal/Elephant"
                 >精銳弩炮象</a
-              >(-2)(<a href="Khmer.php">高棉</a>限定)
+              >(-2)(<a href="/civs/Khmer">高棉</a>限定)
             </li>
           </ul>
         </div>
@@ -117,7 +117,7 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/SiegeRamIcon.jpg" alt="" /><a
-                      href="Siege_Ram.php"
+                      href="/units/Siege_Ram"
                       >重型衝撞車</a
                     >
                   </li>
@@ -126,7 +126,7 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                      href="Petard.php"
+                      href="/units/Petard"
                       >爆炸桶</a
                     >
                   </li>
@@ -139,7 +139,7 @@
                       src="~assets/CappedRamIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Capped_Ram.php">裝甲衝撞車</a>
+                    /><a href="/units/Capped_Ram">裝甲衝撞車</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+40攻擊</strong></div>
@@ -149,19 +149,19 @@
                       class="gg"
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
-                    /><a href="Battering_Ram.php">輕形衝撞車</a>
+                    /><a href="/units/Battering_Ram">輕形衝撞車</a>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    /><a href="Cannon_Galleon.php">火砲戰船</a>→
+                    /><a href="/units/Cannon_Galleon">火砲戰船</a>→
                     <img
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    /><a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a>
+                    /><a href="/Elite_units/Cannon_Galleon">精銳火砲戰船</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+20攻擊</strong></div>
@@ -171,7 +171,7 @@
                       class="gg"
                       src="~assets/BombardCannonIcon.jpg"
                       alt=""
-                    /><a href="Bombard_Cannon.php">火砲</a>
+                    /><a href="/units/Bombard_Cannon">火砲</a>
                   </li>
                 </ul>
               </div>
@@ -180,17 +180,17 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><a
-                      href="Mangonel.php"
+                      href="/units/Mangonel"
                       >輕形投石車</a
                     >→ <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><a
-                      href="Onager.php"
+                      href="/units/Onager"
                       >中型投石車</a
                     >→
                     <img
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><a href="Siege_Onager.php">重型投石車</a>
+                    /><a href="/Siege_units/Onager">重型投石車</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
@@ -201,8 +201,8 @@
                       src="~assets/Magyar_Huszar_icon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a
-                      href="Magyars.php"
+                    /><a href="/units/Magyar_Huszar">精銳馬札爾驃騎兵</a>(<a
+                      href="/civs/Magyars"
                       >馬札爾</a
                     >限定)
                   </li>
@@ -214,7 +214,7 @@
                       class="gg"
                       src="~assets/EliteEagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
+                    /><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
                   </li>
                   <li>
                     <img
@@ -222,8 +222,8 @@
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Mangudai.php">精銳蒙古突騎</a>(<a
-                      href="Mongols.php"
+                    /><a href="/units/Mangudai">精銳蒙古突騎</a>(<a
+                      href="/civs/Mongols"
                       >蒙古</a
                     >限定)
                   </li>
@@ -233,8 +233,8 @@
                       src="~assets/Magyar_Huszar_icon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a
-                      href="Magyars.php"
+                    /><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>(<a
+                      href="/civs/Magyars"
                       >馬札爾</a
                     >限定)
                   </li>
@@ -243,14 +243,14 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                      href="Eagle_Scout.php"
+                      href="/units/Eagle_Scout"
                       >鷹斥侯</a
                     >→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="Eagle_Warrior.php">鷹勇士</a>
+                    /><a href="/units/Eagle_Warrior">鷹勇士</a>
                   </li>
                   <li>
                     <img
@@ -258,7 +258,8 @@
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Mangudai.php">蒙古突騎</a>(<a href="Mongols.php"
+                    /><a href="/units/Mangudai">蒙古突騎</a>(<a
+                      href="/civs/Mongols"
                       >蒙古</a
                     >限定)
                   </li>

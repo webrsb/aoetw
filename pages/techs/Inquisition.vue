@@ -11,13 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            異端審判是<a href="Spanish.php">西班牙</a>的特殊科技，可於<a
-              href="Castle_Age.php"
+            異端審判是<a href="/civs/Spanish">西班牙</a>的特殊科技，可於<a
+              href="/techsage/Castle_Age"
               >城堡時代</a
             >在
-            <a href="Castle.php">城堡</a
+            <a href="/building/Castle">城堡</a
             >研發。研發後僧侶招降速度更快。對單位的招降時間會減1秒，對<a
-              href="bulding.php"
+              href="/building/bulding"
               >建築物</a
             >則減7秒。
           </p>
@@ -28,16 +28,16 @@
           <ul>
             <li>
               西班牙人有很好的僧侶，也能研發修道院中幾乎所有科技。異端審判可以幾乎抵銷<a
-                href="Faith.php"
+                href="/techs/Faith"
                 >忠誠信仰</a
               >的效果，讓西班牙的僧侶和傳教士能更快的招降敵方軍隊(除了
-              <a href="Light_Cavalry.php">輕騎兵</a>、<a
-                href="Eagle_Warrior.php"
+              <a href="/units/Light_Cavalry">輕騎兵</a>、<a
+                href="/units/Eagle_Warrior"
                 >鷹勇士</a
-              >和<a href="Teutons.php">條頓人</a>的單位以外)。
+              >和<a href="/civs/Teutons">條頓人</a>的單位以外)。
             </li>
             <li>
-              隨著帝王時代<a href="Theocracy.php">神權統治</a
+              隨著帝王時代<a href="/techs/Theocracy">神權統治</a
               >的研發，多個僧侶或傳教士一起招降敵對一個單位後只有一位需要休息恢復。這能快速地招降敵方村民和建築，干擾敵方經濟和軍隊訓練。忠誠信仰也能應對對方僧侶的反招降動作。傳教士甚至可以放風箏的招降敵方單位，因此如果沒有足夠的數量來迅速壓制傳教士，那麼很容易部隊會被消磨殆盡或集體被招走。試圖在進攻中使用僧侶的玩家應該記住，這需要良好的微觀操作，因為僧侶除非受到攻擊或直接下令，否則不會招降敵方單位。
             </li>
           </ul>
@@ -47,7 +47,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速異端審判的研究時間(快25%)。
             </li>
           </ul>
@@ -56,13 +57,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>異端審判的成本為400肉400金。</li>
           </ul>
           <h3>
-            <em><a href="aok.php">非洲王朝</a></em>
+            <em><a href="/games/aok">非洲王朝</a></em>
           </h3>
           <ul>
             <li>異端審判現在的成本更改為100肉300金。</li>
@@ -73,7 +74,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">異端審判</a></div>
+              <div class="unititle"><a href="#">異端審判</a></div>
             </td>
           </tr>
           <tr>
@@ -85,18 +86,18 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Spanish.php">西班牙</a></td>
+            <td class="unit4"><a href="/civs/Spanish">西班牙</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -105,7 +106,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -116,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -129,7 +130,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

@@ -11,10 +11,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            追縱技術於<a href="Feudal_Age.php">封建時代</a>在<a
-              href="Barracks.php"
+            追縱技術於<a href="/techsage/Feudal_Age">封建時代</a>在<a
+              href="/building/Barracks"
               >軍營</a
-            >研發。研發後所有的 <a href="Infantry_Units.php">步兵</a>視野+2。
+            >研發。研發後所有的 <a href="/units/Infantry_Units">步兵</a>視野+2。
           </p>
         </div>
         <h3>戰術</h3>
@@ -42,7 +42,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/MilitiaIcon.jpg" /><a
-                href="Militia.php"
+                href="/units/Militia"
                 >民兵</a
               >
             </td>
@@ -53,7 +53,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/ManAtArmsIcon.jpg" /><a
-                href="Man-at-Arms.php"
+                href="/units/Man-at-Arms"
                 >裝甲步兵</a
               >
             </td>
@@ -64,7 +64,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/LongswordsManIcon.jpg" /><a
-                href="Long_Swordsman.php"
+                href="/units/Long_Swordsman"
                 >長劍兵</a
               >
             </td>
@@ -75,7 +75,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" /><a
-                href="Two-Handed_Swordsman.php"
+                href="/units/Two-Handed_Swordsman"
                 >雙手劍兵</a
               >
             </td>
@@ -86,7 +86,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/ChampionIcon.jpg" /><a
-                href="Champion.php"
+                href="/units/Champion"
                 >劍兵勇士</a
               >
             </td>
@@ -97,7 +97,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/SpearmanIcon.jpg" /><a
-                href="Spearman.php"
+                href="/units/Spearman"
                 >長槍兵</a
               >
             </td>
@@ -108,7 +108,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/PikemanIcon.jpg" /><a
-                href="Pikeman.php"
+                href="/units/Pikeman"
                 >重裝長槍兵</a
               >
             </td>
@@ -119,7 +119,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/HalberdierIcon.jpg" /><a
-                href="Halberdier.php"
+                href="/units/Halberdier"
                 >戟兵</a
               >
             </td>
@@ -130,7 +130,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/EagleScoutIcon.jpg" /><a
-                href="Eagle_Scout.php"
+                href="/units/Eagle_Scout"
                 >鷹斥侯</a
               >
             </td>
@@ -141,7 +141,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/EagleWarriorIcon.jpg" /><a
-                href="Eagle_Warrior.php"
+                href="/units/Eagle_Warrior"
                 >鷹勇士</a
               >
             </td>
@@ -152,7 +152,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" /><a
-                href="Elite_Eagle_Warrior.php"
+                href="/Elite_units/Eagle_Warrior"
                 >精銳鷹勇士</a
               >
             </td>
@@ -163,7 +163,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/WBRSK.jpg" /><a
-                href="Woad_Raider.php"
+                href="/units/Woad_Raider"
                 >菘藍武士(精銳)</a
               >
             </td>
@@ -174,7 +174,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/TAXEM.jpg" /><a
-                href="Throwing_Axeman.php"
+                href="/units/Throwing_Axeman"
                 >擲斧兵(精銳)</a
               >
             </td>
@@ -185,7 +185,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/HuskarlIcon.jpg" /><a
-                href="Huskarl.php"
+                href="/units/Huskarl"
                 >哥德衛隊(精銳)</a
               >
             </td>
@@ -195,7 +195,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/SMURI.jpg" /><a href="Samurai.php"
+              <img class="gg" src="~assets/SMURI.jpg" /><a href="/units/Samurai"
                 >日本武士(精銳</a
               >
             </td>
@@ -206,7 +206,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/Crusade_avatar.png" /><a
-                href="Teutonic_Knight.php"
+                href="/Teutonic_units/Knight"
                 >條頓武士(精銳)</a
               >
             </td>
@@ -216,7 +216,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/VBRSK.jpg" /><a href="Berserk.php"
+              <img class="gg" src="~assets/VBRSK.jpg" /><a href="/units/Berserk"
                 >狂戰士(精銳)</a
               >
             </td>
@@ -227,7 +227,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/JaguarWarriorIcon.jpg" /><a
-                href="Jaguar_Warrior.php"
+                href="/units/Jaguar_Warrior"
                 >豹勇士(精銳)</a
               >
             </td>
@@ -238,7 +238,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/Kamayuk_Icon.jpg" /><a
-                href="Kamayuk.php"
+                href="/units/Kamayuk"
                 >槍隊長(精銳)</a
               >
             </td>
@@ -249,7 +249,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/CondottieroNewIcon.jpg" /><a
-                href="Condottiero.php"
+                href="/units/Condottiero"
                 >傭兵</a
               >
             </td>
@@ -260,7 +260,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/ShotelIcon.png" /><a
-                href="Karambit_Warrior.php"
+                href="/units/Karambit_Warrior"
                 >彎刀勇士(精銳)</a
               >
             </td>
@@ -270,7 +270,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <img class="gg" src="~assets/GbetoIcon.png" /><a href="Gbeto.php"
+              <img class="gg" src="~assets/GbetoIcon.png" /><a
+                href="/units/Gbeto"
                 >飛刀女獵手(精銳)</a
               >
             </td>
@@ -281,7 +282,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/Karambitwarrioricon.png" /><a
-                href="Shotel_Warrior.php"
+                href="/units/Shotel_Warrior"
                 >爪刀勇士(精銳)</a
               >
             </td>
@@ -296,34 +297,35 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：科技在封建/城堡/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
-              <a href="Goths.php">哥德</a>：<a href="Perfusion.php">灌注士氣</a
+              <a href="/civs/Goths">哥德</a>：<a href="/techs/Perfusion"
+                >灌注士氣</a
               >讓追蹤技術研發快100%
             </li>
-            <li><a href="Slavs.php">斯拉夫</a>：追蹤技術免費。</li>
+            <li><a href="/civs/Slavs">斯拉夫</a>：追蹤技術免費。</li>
           </ul>
         </div>
         <h3>團隊加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Goths.php">哥德</a>：研發追蹤技術速度快20%。</li>
+            <li><a href="/civs/Goths">哥德</a>：研發追蹤技術速度快20%。</li>
           </ul>
         </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
             <li>追蹤技術需要花費75肉。</li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王朝</a></em>
+            <em><a href="/games/ak">非洲王朝</a></em>
           </h3>
           <ul>
             <li>追蹤技術需要花費50肉。</li>
@@ -341,7 +343,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">追蹤技術</a></div>
+              <div class="unititle"><a href="#">追蹤技術</a></div>
             </td>
           </tr>
           <tr>
@@ -353,7 +355,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -364,7 +366,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="Feudal_Age.php"
+                href="/techsage/Feudal_Age"
                 >封建時代</a
               >
             </td>
@@ -373,7 +375,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Barracks-logo.jpg" alt="" /><a
-                href="Barracks.php"
+                href="/building/Barracks"
                 >軍營</a
               >
             </td>
@@ -384,7 +386,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -393,7 +395,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

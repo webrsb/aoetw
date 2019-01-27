@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於火藥系裝甲的。而關於火藥單位這個兵種的資料請參見<a
-              href="Gunpowder_Units.php"
+              href="/Gunpowder_Units.php"
               >火藥單位</a
             ></em
           >
@@ -35,7 +35,7 @@
                 style="margin: 2px;"
                 src="~assets/HandCannoneerIcon.jpg"
                 alt=""
-              /><a href="Hand_Cannoneer.php">火槍兵</a>
+              /><a href="/units/Hand_Cannoneer">火槍兵</a>
             </li>
             <li>
               <img
@@ -43,43 +43,45 @@
                 style="margin: 2px;"
                 src="~assets/Bombardtowericon.png"
                 alt=""
-              /><a href="Bombard_Cannon.php">火炮</a>
+              /><a href="/units/Bombard_Cannon">火炮</a>
             </li>
             <li>
               <img class="gg" src="~assets/JanissaryIcon.jpg" alt="" />
-              <a href="Janissary.php">土耳其火槍兵</a>→
+              <a href="/units/Janissary">土耳其火槍兵</a>→
               <img class="gg" src="~assets/JanissaryIcon.jpg" alt="" />
-              <a href="Janissary.php">精銳土耳其火槍兵</a>(<a href="Turks.php"
+              <a href="/units/Janissary">精銳土耳其火槍兵</a>(<a
+                href="/civs/Turks"
                 >土耳其</a
               >限定)
             </li>
             <li>
               <img class="gg" src="~assets/ConquistadorIcon.jpg" alt="" />
-              <a href="Conquistador.php">征服者</a>→
+              <a href="/units/Conquistador">征服者</a>→
               <img class="gg" src="~assets/ConquistadorIcon.jpg" alt="" />
-              <a href="Conquistador.php">精銳征服者</a>(<a href="Spanish.php"
+              <a href="/units/Conquistador">精銳征服者</a>(<a
+                href="/civs/Spanish"
                 >西班牙</a
               >限定)
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
-              <a href="OrganGun.php">風琴炮</a>→
+              <a href="/OrganGun.php">風琴炮</a>→
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
-              <a href="OrganGun.php">精銳風琴炮</a>(<a href="Portugese.php"
+              <a href="/OrganGun.php">精銳風琴炮</a>(<a href="/Portugese.php"
                 >葡萄牙</a
               >限定)
             </li>
             <li>
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-              <a href="Cannon_Galleon.php">火炮戰船</a>→
+              <a href="/units/Cannon_Galleon">火炮戰船</a>→
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-              <a href="Cannon_Galleon.php">精銳火炮戰船</a>
+              <a href="/units/Cannon_Galleon">精銳火炮戰船</a>
             </li>
             <li>
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
-              <a href="Turtle_ship.php">龜甲船</a>→
+              <a href="/Turtle_ship.php">龜甲船</a>→
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
-              <a href="Turtle_ship.php">精銳龜甲船</a>(<a href="Koreans.php"
+              <a href="/Turtle_ship.php">精銳龜甲船</a>(<a href="/civs/Koreans"
                 >韓國</a
               >限定)
             </li>
@@ -89,7 +91,7 @@
                 style="margin: 2px;"
                 src="~assets/Bombardtowericon.png"
                 alt=""
-              /><a href="Bombard_Tower.php">火炮塔</a>
+              /><a href="/building/Bombard_Tower">火炮塔</a>
             </li>
           </ul>
         </div>
@@ -106,7 +108,7 @@
                   style="margin: 2px;"
                   src="~assets/CondottieroNewIcon.jpg"
                   alt=""
-                /><a href="Condottiero.php">傭兵</a>(<a href="Italians.php"
+                /><a href="/units/Condottiero">傭兵</a>(<a href="/civs/Italians"
                   >義大利</a
                 >和同盟限定)
               </li>

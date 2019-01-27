@@ -30,15 +30,15 @@
               </div>
               <div class="col-md-6">
                 <ol>
-                  <li><a href="Usurpation.php">揭竿而起</a>
+                  <li><a href="/batt/Usurpation">揭竿而起</a>
                   </li>
-                  <li><a href="Quelling_the_Rebellion.php">席捲入荒</a>
+                  <li><a href="/batt/Quelling_the_Rebellion">席捲入荒</a>
                   </li>
-                  <li><a href="A_Dangerous_Mission.php">九死一生</a>
+                  <li><a href="/batt/A_Dangerous_Mission">九死一生</a>
                   </li>
-                  <li><a href="Challenging_a_Thalassocrac.php">滔天巨浪</a>
+                  <li><a href="/batt/Challenging_a_Thalassocrac">滔天巨浪</a>
                   </li>
-                  <li><a href="Nirvanapada.php">千古偉業</a>
+                  <li><a href="/batt/Nirvanapada">千古偉業</a>
                   </li>
                 </ol>
               </div>

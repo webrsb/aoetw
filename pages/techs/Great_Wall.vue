@@ -11,10 +11,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            長城是<a href="Chinese.php">中國</a>的特殊科技，可於<a
-              href="Castle_Age.php"
+            長城是<a href="/civs/Chinese">中國</a>的特殊科技，可於<a
+              href="/techsage/Castle_Age"
               >城堡時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後增加城牆和箭塔30%
+            >在 <a href="/building/Castle">城堡</a>研發。研發後增加城牆和箭塔30%
             HP。基本上是個相當沒用的特殊科技，一般人幾乎不會研發。
           </p>
         </div>
@@ -24,7 +24,7 @@
           <ul>
             <li>
               若玩家選擇打保守並用塔和城牆防衛基地時長城就是一個很好的技術。研究後的塔和城牆的堅固程度僅次於<a
-                href="Byzantines.php"
+                href="/civs/Byzantines"
                 >拜占庭</a
               >。
             </li>
@@ -38,7 +38,7 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：該科技在城堡/帝王時代花費便宜15%/20%。
             </li>
           </ul>
@@ -48,7 +48,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速長城的研究時間(快25%)。
             </li>
           </ul>
@@ -58,7 +59,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">長城</a></div>
+              <div class="unititle"><a href="#">長城</a></div>
             </td>
           </tr>
           <tr>
@@ -70,18 +71,18 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Chinese.php">中國</a></td>
+            <td class="unit4"><a href="/civs/Chinese">中國</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -90,7 +91,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -101,7 +102,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -114,7 +115,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

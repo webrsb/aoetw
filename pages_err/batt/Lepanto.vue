@@ -25,7 +25,7 @@
               <tr>
                 <td class="tc1" width="15%">起始時代:</td>
                 <td class="tc2" width="20%">
-                  <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="Imperial_Age.php">帝王時代:</a>
+                  <img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><a href="/techsage/Imperial_Age">帝王時代:</a>
                 </td>
                 <td class="tc1" width="15%">起始資源:</td>
                 <td class="tc2">木頭:800，食物:600，
@@ -52,13 +52,13 @@
                 ">希臘村莊（綠色）拜占庭</td>    <tr>     </tr></tr><tr>    <td class="tc4 " colspan="4 " style="background:#2980b9;
                 ">敵對</td>  </tr><tr>    <td class="tc6 "><div class="p6">玩家2：</div></td>    <td class="tc6
                 ">土耳其人（紫色）土耳其 </td>     </tr><tr>      </tr></table><br/><dl class="dl-horizontal ">   <dt>開場：</dt>   <dd>   <img class="gg " src="~assets/MangonelIcon.jpg
-                " alt=" ">        <a href="Mangonel.php ">輕型投石車</a>*7<br/>   <img class="gg
-                " src="~assets/TransportShipIcon.jpg " alt=" ">          <a href="Transport_Ship.php
-                ">運輸船</a>*2<br/>   <img class="gg " src="~assets/HeavyDemoShipIcon.jpg " alt=" ">        <a href="Heavy_Demolition_Ship.php
-                ">重型神風船</a>*6<br/>   <img class="gg " src="~assets/VillagerMaleIcon.jpg " alt=" ">          <a href="Villager.php
-                ">村民</a>*12<br/>   <img class="gg " src="~assets/FireShipIcon.jpg " alt=" ">        <a href="Fire_Ship.php
-                ">火戰船</a>*5<br/>   <img class="gg " src="~assets/WarGalley.jpg " alt=" ">        <a href="War_Galley.php
-                ">弩砲戰船</a>*6<br/>   <img class="gg " src="~assets/CannonGalleonIcon.jpg " alt=" ">        <a href="Cannon_Galleon.php
+                " alt=" ">        <a href="/units/Mangonel ">輕型投石車</a>*7<br/>   <img class="gg
+                " src="~assets/TransportShipIcon.jpg " alt=" ">          <a href="/units/Transport_Ship
+                ">運輸船</a>*2<br/>   <img class="gg " src="~assets/HeavyDemoShipIcon.jpg " alt=" ">        <a href="/Heavy_units/Demolition_Ship
+                ">重型神風船</a>*6<br/>   <img class="gg " src="~assets/VillagerMaleIcon.jpg " alt=" ">          <a href="/units/Villager
+                ">村民</a>*12<br/>   <img class="gg " src="~assets/FireShipIcon.jpg " alt=" ">        <a href="/units/Fire_Ship
+                ">火戰船</a>*5<br/>   <img class="gg " src="~assets/WarGalley.jpg " alt=" ">        <a href="/War_units/Galley
+                ">弩砲戰船</a>*6<br/>   <img class="gg " src="~assets/CannonGalleonIcon.jpg " alt=" ">        <a href="/units/Cannon_Galleon
                 ">火砲戰船</a>*5</dd>   <dt>出場英雄：</dt>    <dd>無</dd>   <dt>大地之母單位：</dt>  <dd>無</dd></dl><h3>主要任務</h3><div class="hrn1 "></div><div class="n1
                 "><ol>     <li>在土耳其軍艦的威脅下保護你的世界奇觀200年。</li>      </ol></div><h3>任務提示</h3><div class="hrn1 "></div><div class="n1
                 "><ul>  <li>不要用你所有的村民去建造世界奇觀，你需要一部份村民修建成強悍收集資源，造箭塔和船。</li>  <li>很難對抗土耳其的艦隊，不如集中防守。</li>  <li>希臘倒可以提供而外資源，如果你能保護他們。</li></ul></div><h3>斥侯</h3><div class="hrn1 "></div><div class="n1
@@ -68,17 +68,17 @@
                 "></div><ul>  <li >    <a >繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位。</a></li> </ul><h3>英雄:奧地利的唐璜(1547-1578) </h3><div class="hrn1
                 "></div><ul>  <li >    <a >作為一個有軍政才華的人，唐璜並沒有得到什麼機運。他是神聖羅馬皇帝的私生子，兄長西班牙國王菲力二世對他始終提防。若不是鄂圖曼海軍進犯地中海，也許他根本不會有在歷史留名的機會。 唐璜在勒班陀擔任神聖聯盟的指揮官，並出色地擊退了為數龐大的鄂圖曼艦隊。隨後他更出任尼德蘭總督。但正準備大展身手時恰逢尼德蘭起義，他努力想要調停矛盾，但荷蘭人的暴動依然不可收拾，逼迫他參與戰鬥。而他在一場戰鬥中感染傷寒，憂鬱離世。</a></li>  </ul></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="
+                ">       <div class="unititle "><a href="/
                 ">勒班陀(1571)</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Lepanto.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">征服者入侵</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">征服者的戰役</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href="Japanese.php
+                ">文明</td>       <td class="unit4 "><a href="/civs/Japanese
                 ">西班牙</a></td>      </tr>
 <tr><td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle2 "><a href="
+                ">       <div class="unititle2 "><a href="/
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">征服者戰役第四章之六</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>       <td class="Agincourt.php
                 ">亞琴哥特(1415)      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="Kyoto.php

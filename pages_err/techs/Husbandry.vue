@@ -10,63 +10,63 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>畜牧培育於 <a href="Castle_Age.php">城堡時代</a>在<a href="Stable.php">馬厩</a>研發。研發後所有騎乘單位移速+10％。</p>
-            <p>一般來說打帶跑單位如:<a href="Cavalry_Archer.php">馬弓騎兵</a>、<a href="Conquistador.php">征服者</a>或
+            <p>畜牧培育於 <a href="/techsage/Castle_Age">城堡時代</a>在<a href="/building/Stable">馬厩</a>研發。研發後所有騎乘單位移速+10％。</p>
+            <p>一般來說打帶跑單位如:<a href="/Cavalry_units/Archer">馬弓騎兵</a>、<a href="/units/Conquistador">征服者</a>或
               <a
-              href="Arambai.php">飛鏢騎兵</a>等，都需要優先研發此科技。相對的，如對方是打帶跑單位，而你的<a href="Cavalry_Units.php">騎兵單位</a>就必須研發畜牧培育，以免被風箏。</p>
+              href="/units/Arambai">飛鏢騎兵</a>等，都需要優先研發此科技。相對的，如對方是打帶跑單位，而你的<a href="/units/Cavalry_Units">騎兵單位</a>就必須研發畜牧培育，以免被風箏。</p>
           </div>
            <h3>可研發文明</h3> 
           <div class="hrn1"></div>
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                 <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可研發</span></strong></h4>  <a href="Berbers.php">柏柏</a>、 <a href="Britons.php">不列顛</a>、 <a href="Burmese.php">緬甸</a>、
+                 <h4><strong><span class="glyphicon glyphicon-ok okc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">可研發</span></strong></h4>  <a href="/civs/Berbers">柏柏</a>、 <a href="/civs/Britons">不列顛</a>、 <a href="/civs/Burmese">緬甸</a>、
                 <a
-                href="Byzantines.php">拜占庭</a>、 <a href="Celts.php">賽爾特</a>、 <a href="Chinese.php">中國</a>、 <a href="Ethiopians.php">埃塞俄比亞</a>、
+                href="/civs/Byzantines">拜占庭</a>、 <a href="/civs/Celts">賽爾特</a>、 <a href="/civs/Chinese">中國</a>、 <a href="/civs/Ethiopians">埃塞俄比亞</a>、
                   <a
-                  href="Franks.php">法國</a>、 <a href="Goths.php">哥德</a>、 <a href="Huns.php">匈奴</a>、 <a href="Indians.php">印度</a>、
+                  href="/civs/Franks">法國</a>、 <a href="/civs/Goths">哥德</a>、 <a href="/civs/Huns">匈奴</a>、 <a href="/civs/Indians">印度</a>、
                     <a
-                    href="Italians.php">義大利</a>、 <a href="Japanese.php">日本</a>、 <a href="Khmer.php">高棉</a>、 <a href="Koreans.php">韓國</a>、
+                    href="/civs/Italians">義大利</a>、 <a href="/civs/Japanese">日本</a>、 <a href="/civs/Khmer">高棉</a>、 <a href="/civs/Koreans">韓國</a>、
                       <a
-                      href="Magyars.php">馬扎爾</a>、 <a href="Malay.php">馬來</a>、 <a href="Malians.php">馬利</a>、 <a href="Mongols.php">蒙古</a>、
+                      href="/civs/Magyars">馬扎爾</a>、 <a href="/civs/Malay">馬來</a>、 <a href="/civs/Malians">馬利</a>、 <a href="/civs/Mongols">蒙古</a>、
                         <a
-                        href="Persians.php">波斯</a>、 <a href="Portuguese.php">葡萄牙</a>、 <a href="Saracens.php">薩拉森</a>、
+                        href="/civs/Persians">波斯</a>、 <a href="/civs/Portuguese">葡萄牙</a>、 <a href="/civs/Saracens">薩拉森</a>、
                           <a
-                          href="Slavs.php">斯拉夫</a>、 <a href="Spanish.php">西班牙</a>、 <a href="Turks.php">土耳其</a>。</div>
+                          href="/civs/Slavs">斯拉夫</a>、 <a href="/civs/Spanish">西班牙</a>、 <a href="/civs/Turks">土耳其</a>。</div>
             </div>
           </div>
           <div class="row">
             <div class="col-md-12">
               <div class="n1">
-                 <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可研發</span></strong></h4>  <a href="Aztecs.php">阿茲特克</a>、 <a href="Incas.php">印加</a>、 <a href="Mayans.php">瑪雅</a>、
+                 <h4><strong><span class="glyphicon glyphicon-remove noc" aria-hidden="true"></span><span class="" style="margin-left: 2px;">不可研發</span></strong></h4>  <a href="/civs/Aztecs">阿茲特克</a>、 <a href="/civs/Incas">印加</a>、 <a href="/civs/Mayans">瑪雅</a>、
                 <a
-                href="Teutons.php">條頓</a>、 <a href="Vietnamese.php">越南</a>、 <a href="Vikings.php">維京</a>。</div>
+                href="/civs/Teutons">條頓</a>、 <a href="/civs/Vietnamese">越南</a>、 <a href="/civs/Vikings">維京</a>。</div>
             </div>
           </div>
            <h3>文明加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Chinese.php">中國</a>：科技在城堡/帝王時代各便宜15%/20%。</li>
-              <li><a href="Franks.php">法國</a>：在研發 <a href="Chivalry.php">騎士精神</a> 後，畜牧培育研發速度快40％。</li>
+              <li><a href="/civs/Chinese">中國</a>：科技在城堡/帝王時代各便宜15%/20%。</li>
+              <li><a href="/civs/Franks">法國</a>：在研發 <a href="/techs/Chivalry">騎士精神</a> 後，畜牧培育研發速度快40％。</li>
             </ul>
           </div>
            <h3>團隊加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Huns.php">匈奴</a>：畜牧培育研發速度快20%。</li>
+              <li><a href="/civs/Huns">匈奴</a>：畜牧培育研發速度快20%。</li>
             </ul>
           </div>
            <h3>更新日誌</h3> 
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aok.php">帝王世紀</a></em></h3> 
+             <h3><em><a href="/games/aok">帝王世紀</a></em></h3> 
             <ul>
               <li>畜牧培育需要花費250肉。</li>
               <li>畜牧培育研發時間為50秒。</li>
             </ul>
-            	<h3><em><a href="ak.php">非洲王朝</a></em></h3> 
+            	<h3><em><a href="/games/ak">非洲王朝</a></em></h3> 
             <ul>
               <li>版本4.8以後，畜牧培育需要花費150肉。</li>
               <li>版本4.8以後，畜牧培育研發時間為40秒。</li>
@@ -83,7 +83,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="">畜牧培育</a>
+                <div class="unititle"><a href="#">畜牧培育</a>
                 </div>
               </td>
             </tr>
@@ -96,7 +96,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">科技介紹</a>
+                <div class="unititle2"><a href="#">科技介紹</a>
                 </div>
               </td>
             </tr>
@@ -107,13 +107,13 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Stableicon.png" alt=""><a href="Stable.php">馬厩</a>
+                <img class="gg" src="~assets/Stableicon.png" alt=""><a href="/building/Stable">馬厩</a>
               </td>
             </tr>
             <tr>
@@ -122,7 +122,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>
@@ -132,7 +132,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">影響</a>
+                <div class="unititle2"><a href="#">影響</a>
                 </div>
               </td>
             </tr>

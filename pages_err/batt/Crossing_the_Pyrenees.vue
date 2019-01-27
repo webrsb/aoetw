@@ -128,7 +128,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">穿越庇里牛斯山脈</a>
+                <div class="unititle"><a href="#">穿越庇里牛斯山脈</a>
                 </div>
               </td>
             </tr>
@@ -141,7 +141,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -155,11 +155,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="">柏柏</a>
+              <td class="unit4"><a href="#">柏柏</a>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="">戰役關卡編號</a>
+              <div class="unititle2"><a href="#">戰役關卡編號</a>
               </div>
             </td>
             </tr>
@@ -169,11 +169,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="Divide_and_Conquer.php">縱橫捭闔</a> 
+              <td class="unit4"> <a href="/batt/Divide_and_Conquer">縱橫捭闔</a> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="Razzia.php">突襲(風捲殘雲)</a> 
+              <td class="unit4"> <a href="/batt/Razzia">突襲(風捲殘雲)</a> 
               </td>
             </tr>
           </table>

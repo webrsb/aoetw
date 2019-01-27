@@ -11,11 +11,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            強制徵兵是<a href="Malay.php">馬來</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            強制徵兵是<a href="/civs/Malay">馬來</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
             >在
-            <a href="Castle.php">城堡</a>研發。研發後兵營步兵單位不需花費黃金。
+            <a href="/building/Castle">城堡</a
+            >研發。研發後兵營步兵單位不需花費黃金。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -23,19 +24,19 @@
         <div class="n1">
           <ul>
             <li>
-              為了維持遊戲平衡，馬來沒有<a href="Champion.php">劍兵勇士</a
+              為了維持遊戲平衡，馬來沒有<a href="/units/Champion">劍兵勇士</a
               >。然而在強制徵兵研發而且後期黃金變的稀少，搭配全滿的
-              <a href="Blacksmith.php">兵工廠</a>科技，他們高CP值的<a
-                href="Two-Handed_Swordsman.php"
+              <a href="/building/Blacksmith">兵工廠</a>科技，他們高CP值的<a
+                href="/units/Two-Handed_Swordsman"
                 >雙手劍兵</a
               >給予馬來在後期垃圾戰爭中一拚的機會
             </li>
             <li>
               如果馬來玩家想盡可能的在戰場上使用大量步兵作戰。就應該盡快研發強制徵兵讓他們的步兵像<a
-                href="Magyars.php"
+                href="/civs/Magyars"
                 >馬扎爾</a
-              >研發 <a href="Mercenaries.php">雇傭兵</a>後的<a
-                href="Magyar_Huszar.php"
+              >研發 <a href="/techs/Mercenaries">雇傭兵</a>後的<a
+                href="/units/Magyar_Huszar"
                 >馬札爾驃騎兵</a
               >一樣不用黃金就能生產。
             </li>
@@ -46,7 +47,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速強制徵兵的研究時間(快25%)。
             </li>
           </ul>
@@ -56,7 +58,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">強制徵兵</a></div>
+              <div class="unititle"><a href="#">強制徵兵</a></div>
             </td>
           </tr>
           <tr>
@@ -68,12 +70,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Malay.php">馬來</a></td>
+            <td class="unit4"><a href="/civs/Malay">馬來</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -82,14 +84,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -100,7 +102,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -113,7 +115,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

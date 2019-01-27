@@ -11,7 +11,8 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於城堡的裝甲。而關於城堡請參見<a href="Castle.php"
+            >這篇文章是將有關於城堡的裝甲。而關於城堡請參見<a
+              href="/building/Castle"
               >城堡</a
             ></em
           >
@@ -29,7 +30,7 @@
           <ul>
             <li>
               <img width="25px" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </li>
@@ -44,7 +45,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                  href="Petard.php"
+                  href="/units/Petard"
                   >爆炸桶</a
                 >
               </li>
@@ -53,12 +54,12 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="Tarkan.php"
+                  href="/units/Tarkan"
                   >韃靼騎兵</a
                 >→ <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><a
-                  href="Tarkan.php"
+                  href="/units/Tarkan"
                   >精銳韃靼騎兵</a
-                >(<a href="Huns.php">匈奴</a>限定)
+                >(<a href="/civs/Huns">匈奴</a>限定)
               </li>
             </ul>
           </div>

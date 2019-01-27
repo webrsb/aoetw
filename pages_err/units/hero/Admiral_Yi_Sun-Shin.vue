@@ -10,14 +10,14 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>李舜臣，韓國民族英雄，1545年生，曾多次使用海上戰術擊敗日本人，尤其出名的閒山島大捷，征服者戰役中的露梁海戰<a href="Kyoto(1582).php">(洛陽點)</a>，為李舜臣戰死的戰爭。</p>
+            <p>李舜臣，韓國民族英雄，1545年生，曾多次使用海上戰術擊敗日本人，尤其出名的閒山島大捷，征服者戰役中的露梁海戰<a href="/Kyoto(1582).php">(洛陽點)</a>，為李舜臣戰死的戰爭。</p>
           </div>
            <h3><strong>介紹</strong></h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>李舜臣出現在<a href="aoc.php">征服者入侵</a>的<a href="batt.php">戰役</a>之中，他單位是一艘擁有良好生命與攻擊的
+            <p>李舜臣出現在<a href="/games/aoc">征服者入侵</a>的<a href="/batt/">戰役</a>之中，他單位是一艘擁有良好生命與攻擊的
               <a
-              href="Turtle_Ship.php">龜甲船</a>，能夠對付絕大部分的海軍，但仍不能一對過多。</p>
+              href="/units/Turtle_Ship">龜甲船</a>，能夠對付絕大部分的海軍，但仍不能一對過多。</p>
             <ul>
               <li>李舜臣素質比起一般龜甲船各方面都更優秀，唯一較差的是近戰防禦。</li>
               <li>作為英雄單位，李舜臣不會被招降，且會自己回復生命值。</li>
@@ -34,7 +34,7 @@
                   <td>所屬陣營與顏色</td>
                 </tr>
                 <tr>
-                  <td class="tta1">露梁海戰<a href="Kyoto(1582).php">(洛陽點)</a></td>
+                  <td class="tta1">露梁海戰<a href="/Kyoto(1582).php">(洛陽點)</a></td>
                   <td class="tta2">探索前否,探索後可控制</td>
                   <td class="tta3">電腦,玩家
                     <div class="p1"></div>
@@ -57,7 +57,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="">李舜臣將軍</a>
+                <div class="unititle"><a href="#">李舜臣將軍</a>
                 </div>
               </td>
             </tr>
@@ -75,7 +75,7 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Naval_Vessels.php">海軍<br/>英雄</a></td>
+              <td class="unit4"><a href="/units/Naval_Vessels">海軍<br/>英雄</a></td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -92,7 +92,7 @@
             </tr>
             <tr>
               <tr>
-                <td class="unit3"><a href="Area_of_Effect.php">爆炸半徑</a></td>
+                <td class="unit3"><a href="/elements/Area_of_Effect">爆炸半徑</a></td>
                 <td class="unit4">0.5</td>
               </tr>
               <tr>

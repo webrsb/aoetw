@@ -16,11 +16,12 @@
           <ul>
             <li>
               <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
-              <a href="Spearman.php">長槍兵→</a>:攻擊低、血量低但對肉馬傷害大。
+              <a href="/units/Spearman">長槍兵→</a
+              >:攻擊低、血量低但對肉馬傷害大。
             </li>
             <li>
               <img class="gg" src="~assets/SkirmisherIcon.jpg" alt="" />
-              <a href="Skirmisher.php">矛兵→</a
+              <a href="/units/Skirmisher">矛兵→</a
               >:矛兵：攻擊低、血量低，但量多仍可騷擾村民，並克制弓兵。
             </li>
           </ul>
@@ -139,7 +140,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <a href="Skirmisher.php"
+                <a href="/units/Skirmisher"
                   ><img src="~assets/SkirmisherIcon.jpg" width="45" alt="" />
                 </a>
               </div>

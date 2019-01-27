@@ -10,18 +10,18 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>龜甲船是<a href="Koreans.php">韓國</a>在<a href="aoc.php">征服者入侵</a>資料片中的第二個特殊單位，在
+            <p>龜甲船是<a href="/civs/Koreans">韓國</a>在<a href="/games/aoc">征服者入侵</a>資料片中的第二個特殊單位，在
               <a
-              href="Castle_Age.php">城堡時代</a>的<a href="Dock.php">碼頭</a>可以訓練。它是一艘重裝甲的火炮戰船。</p>
-            <p>龜甲船可在<a href="Imperial_Age.php">帝王時代</a>升級為精銳龜甲船。</p>
+              href="/techsage/Castle_Age">城堡時代</a>的<a href="/building/Dock">碼頭</a>可以訓練。它是一艘重裝甲的火炮戰船。</p>
+            <p>龜甲船可在<a href="/techsage/Imperial_Age">帝王時代</a>升級為精銳龜甲船。</p>
           </div>
            <h3>戰術</h3> 
           <div class="hrn1"></div>
           <div class="n1">
-            <p>龜甲船可以自己消滅一小隊的敵方船艦。它的主要弱點是射程短、速度慢、而且造價高。這意味著對付龜甲船的最好的選擇可能是<a href="Galleon.php">重型弩炮戰船</a>，因為它們更便宜，更快，射程更遠，讓他們能用打帶跑磨死龜甲船。陸上的火砲和僧侶也是對付龜甲船的不錯選擇。</p>
-            <p>玩家不要掉入韓國只建造龜甲船作為海軍的迷思。龜甲船還是應該跟其他船隻搭配，通常是<a href="Galleon.php">重型弩炮戰船</a>，防止敵方使用打帶跑，而龜甲船的任務就是吸收大量傷害同時造成巨量傷害，所以龜甲船應該都是在最前線作戰。龜甲船有非常高的護甲，即使是對船有加成的攻擊(例如
+            <p>龜甲船可以自己消滅一小隊的敵方船艦。它的主要弱點是射程短、速度慢、而且造價高。這意味著對付龜甲船的最好的選擇可能是<a href="/units/Galleon">重型弩炮戰船</a>，因為它們更便宜，更快，射程更遠，讓他們能用打帶跑磨死龜甲船。陸上的火砲和僧侶也是對付龜甲船的不錯選擇。</p>
+            <p>玩家不要掉入韓國只建造龜甲船作為海軍的迷思。龜甲船還是應該跟其他船隻搭配，通常是<a href="/units/Galleon">重型弩炮戰船</a>，防止敵方使用打帶跑，而龜甲船的任務就是吸收大量傷害同時造成巨量傷害，所以龜甲船應該都是在最前線作戰。龜甲船有非常高的護甲，即使是對船有加成的攻擊(例如
               <a
-              href="Fire_Ship.php">火戰船</a>、箭塔)，龜甲船的額外防禦加成(+8/+11(精銳))可抵銷這些加成傷害，龜甲船對快速火戰船有+1防禦。</p>
+              href="/units/Fire_Ship">火戰船</a>、箭塔)，龜甲船的額外防禦加成(+8/+11(精銳))可抵銷這些加成傷害，龜甲船對快速火戰船有+1防禦。</p>
           </div>
           <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -34,13 +34,13 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><a href="Naval_Vessels.php">船隻</a>(近距離)、在岸邊的<a href="bulding.php">建築物</a>、在岸邊和淺灘的陸地單位。</td>
+              <td class="tta4"><a href="/units/Naval_Vessels">船隻</a>(近距離)、在岸邊的<a href="/building/bulding">建築物</a>、在岸邊和淺灘的陸地單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-              <td class="tta4"><a href="Bombard_Cannon.php">火炮</a>、<a href="Monk.php">僧侶</a>、<a href="Trebuchet.php">巨型投石機</a>、
+              <td class="tta4"><a href="/units/Bombard_Cannon">火炮</a>、<a href="/units/Monk">僧侶</a>、<a href="/units/Trebuchet">巨型投石機</a>、
                 <a
-                href="Castle.php">城堡</a>、箭塔、<a href="Condottiero.php">傭兵</a>(淺灘處)</td>
+                href="/building/Castle">城堡</a>、箭塔、<a href="/units/Condottiero">傭兵</a>(淺灘處)</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -50,32 +50,32 @@
             <tr>
               <td class="tta1" style="width:10%">護甲</td>
               <td class="tta4">
-                <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="Careening.php">傾側維修術</a>(護甲+0/+1)</td>
+                <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" alt=""><a href="/techs/Careening">傾側維修術</a>(護甲+0/+1)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">速度</td>
               <td class="tta4">
-                <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><a href="Dry_Dock.php">旱碼頭</a>(+15%)
+                <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><a href="/Dry_building/Dock">旱碼頭</a>(+15%)
                 <br/>
-                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="Panokseon.php">板屋船</a>(+15%，<a href="Koreans.php">韓國</a>限定)</td>
+                <img src="~assets/CastleAgeUnique.png" class="gg" alt=""><a href="/techs/Panokseon">板屋船</a>(+15%，<a href="/civs/Koreans">韓國</a>限定)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">抗招降能力</td>
               <td class="tta4">
-                <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="Faith.php">忠誠信仰</a>
+                <img class="gg" src="~assets/Faith.jpg" width="22" alt=""><a href="/techs/Faith">忠誠信仰</a>
                 <br/>
-                <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="Heresy.php">異端邪說</a> 
+                <img class="gg" src="~assets/Heresy.png" width="22" alt=""><a href="/techs/Heresy">異端邪說</a> 
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">訓練速度</td>
               <td class="tta4">
-                <img style="margin: 2px;" class="gg" src="~assets/Shipwright.jpg" alt=""><a href="Shipwright.php">造船匠</a>(+54%)</td>
+                <img style="margin: 2px;" class="gg" src="~assets/Shipwright.jpg" alt=""><a href="/techs/Shipwright">造船匠</a>(+54%)</td>
             </tr>
             <tr>
               <td class="tta1" style="width:10%">造價減少</td>
               <td class="tta4">
-                <img style="margin: 2px;" class="gg" src="~assets/Shipwright.jpg" alt=""><a href="Shipwright.php">造船匠</a>(-20%)</td>
+                <img style="margin: 2px;" class="gg" src="~assets/Shipwright.jpg" alt=""><a href="/techs/Shipwright">造船匠</a>(-20%)</td>
             </tr>
           </table>
           <h3>剋龜甲船的單位與建築</h3>
@@ -88,73 +88,73 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Bombardtowericon.png" alt=""><a href="Bombard_Tower.php">火炮塔</a> 
+                      <img class="gg" src="~assets/Bombardtowericon.png" alt=""><a href="/building/Bombard_Tower">火炮塔</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="Bombard_Cannon.php">火砲</a> 
+                      <img class="gg" src="~assets/BombardCannonIcon.jpg" alt=""><a href="/units/Bombard_Cannon">火砲</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+17攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="Halberdier.php">戟兵</a> 
+                      <img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><a href="/units/Halberdier">戟兵</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+16攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="Pikeman.php">重裝長槍兵</a> 
+                      <img class="gg" src="~assets/PikemanIcon.jpg" alt=""><a href="/units/Pikeman">重裝長槍兵</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">精銳日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="/units/Samurai">精銳日本武士</a>(<a href="/civs/Japanese">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+11攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/GalleonAoE2.jpg" alt=""><a href="Galleon.php">重型弩炮戰船</a> 
+                      <img class="gg" src="~assets/GalleonAoE2.jpg" alt=""><a href="/units/Galleon">重型弩炮戰船</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/LongboatIcon.jpg" alt=""><a href="Longboat.php">精銳維京大戰船</a>(<a href="Vikings.php">維京</a>限定)</li>
+                      <img class="gg" src="~assets/LongboatIcon.jpg" alt=""><a href="/units/Longboat">精銳維京大戰船</a>(<a href="/civs/Vikings">維京</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+10攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Keep.php">大型箭塔</a> 
+                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="/units/Keep">大型箭塔</a> 
                     </li>
                     <li>
                       <img class="gg" style="margin: 2px;" src="~assets/CondottieroNewIcon.jpg"
-                      alt=""><a href="Condottiero.php">傭兵</a>(<a href="Italians.php">義大利</a>和同盟限定)</li>
+                      alt=""><a href="/units/Condottiero">傭兵</a>(<a href="/civs/Italians">義大利</a>和同盟限定)</li>
                     <li>
-                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="Samurai.php">日本武士</a>(<a href="Japanese.php">日本</a>限定)</li>
+                      <img class="gg" src="~assets/SMURI.jpg" alt=""><a href="/units/Samurai">日本武士</a>(<a href="/civs/Japanese">日本</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="Spearman.php">長槍兵</a> 
+                      <img class="gg" src="~assets/SpearmanIcon.jpg" alt=""><a href="/units/Spearman">長槍兵</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""> <a href="Heavy_Camel.php">重裝駱駝騎兵</a>→
+                      <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt=""> <a href="/Heavy_units/Camel">重裝駱駝騎兵</a>→
                       <img class="gg" src="~assets/ImperialCamelIcon.jpg"
-                      alt=""> <a href="Imperial Camel.php">帝王駱駝騎兵</a>(後者<a href="Indians.php">印度</a>限定)</li>
+                      alt=""> <a href="/Imperial units/Camel">帝王駱駝騎兵</a>(後者<a href="/civs/Indians">印度</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/WarGalley.jpg" width="22" alt=""><a href="War_Galley.php">弩炮戰船</a> 
+                      <img class="gg" src="~assets/WarGalley.jpg" width="22" alt=""><a href="/War_units/Galley">弩炮戰船</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/LongboatIcon.jpg" alt=""><a href="Longboat.php">維京大戰船</a>(<a href="Vikings.php">維京</a>限定)</li>
+                      <img class="gg" src="~assets/LongboatIcon.jpg" alt=""><a href="/units/Longboat">維京大戰船</a>(<a href="/civs/Vikings">維京</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Guard_Tower.php">防禦箭塔</a> 
+                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="/units/Guard_Tower">防禦箭塔</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><a href="Dock.php">海港</a>(<a href="Malay.php">馬來</a>限定)</li>
+                      <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><a href="/building/Dock">海港</a>(<a href="/civs/Malay">馬來</a>限定)</li>
                   </ul>
                 </div>
                 <div class="col-md-6">
@@ -162,67 +162,67 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Galley.jpg" alt=""><a href="Galley.php">戰船</a> 
+                      <img class="gg" src="~assets/Galley.jpg" alt=""><a href="/units/Galley">戰船</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/Ballistaelephanticon.png" alt=""><a href="Ballista_Elephant.php">弩炮象</a>→
+                      <img class="gg" src="~assets/Ballistaelephanticon.png" alt=""><a href="/Ballista_unitsanimal/Elephant">弩炮象</a>→
                       <img class="gg" src="~assets/Ballistaelephanticon.png"
-                      alt=""><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a href="Khmer.php">高棉</a>限定)</li>
+                      alt=""><a href="/Ballista_unitsanimal/Elephant">精銳弩炮象</a>(<a href="/civs/Khmer">高棉</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+7攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="Caravel.php">精銳卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
+                      <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="/units/Caravel">精銳卡拉維爾戰船</a>(<a href="/civs/Portuguese">葡萄牙</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Watch_Tower.php">瞭望箭塔</a> 
+                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="/units/Watch_Tower">瞭望箭塔</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="Caravel.php">卡拉維爾戰船</a>(<a href="Portuguese.php">葡萄牙</a>限定)</li>
+                      <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><a href="/units/Caravel">卡拉維爾戰船</a>(<a href="/civs/Portuguese">葡萄牙</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+5攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="Camel.php">駱駝騎兵</a> 
+                      <img class="gg" src="~assets/CamelIcon.jpg" alt=""><a href="/units/Camel">駱駝騎兵</a> 
                     </li>
                     <li>
-                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">精銳熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="/Genoese_units/Crossbowman">精銳熱那亞弩手</a>(<a href="/civs/Italians">義大利</a>限定)</li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+4攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="Genoese_Crossbowman.php">熱那亞弩手</a>(<a href="Italians.php">義大利</a>限定)</li>
+                      <img class="gg" src="~assets/New_Genoese_Crossbowman.png" alt=""><a href="/Genoese_units/Crossbowman">熱那亞弩手</a>(<a href="/civs/Italians">義大利</a>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/FastFireShipIcon.jpg" alt=""><a href="Fast_Fire_Ship.php">快速火戰船</a> 
+                      <img class="gg" src="~assets/FastFireShipIcon.jpg" alt=""><a href="/units/Fast_Fire_Ship">快速火戰船</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+3攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/FireGalleyIcon.jpg" alt=""><a href="Fire_Galley.php">火蒙衝</a>→
+                      <img class="gg" src="~assets/FireGalleyIcon.jpg" alt=""><a href="/units/Fire_Galley">火蒙衝</a>→
                       <img class="gg" src="~assets/FireShipIcon.jpg"
-                      width="22" alt=""><a href="Fire_Ship.php">火戰船</a> 
+                      width="22" alt=""><a href="/units/Fire_Ship">火戰船</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+2攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="Eagle_Warrior.php">鷹勇士</a> 
+                      <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt=""><a href="/units/Eagle_Warrior">鷹勇士</a> 
                     </li>
                   </ul>
                 </div>
@@ -232,19 +232,19 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <img src="~assets/Heatedshot.png" width="22" alt=""><a href="Heated_Shot.php">預熱射擊</a> 
+                <img src="~assets/Heatedshot.png" width="22" alt=""><a href="/techs/Heated_Shot">預熱射擊</a> 
                 <div style="margin:12px 0px;"><strong>+13攻擊</strong>
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Keep.php">大型箭塔</a> 
+                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="/units/Keep">大型箭塔</a> 
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong>
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Guard_Tower.php">防禦箭塔</a> 
+                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="/units/Guard_Tower">防禦箭塔</a> 
                   </li>
                 </ul>
               </div>
@@ -253,17 +253,17 @@
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="Watch_Tower.php">瞭望箭塔</a> 
+                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><a href="/units/Watch_Tower">瞭望箭塔</a> 
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong>
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Castleicon.png" width="22" alt=""><a href="Castle.php">城堡</a> 
+                    <img class="gg" src="~assets/Castleicon.png" width="22" alt=""><a href="/building/Castle">城堡</a> 
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><a href="Harbor.php">海港</a>(<a href="Malay.php">馬來</a>限定)</li>
+                    <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><a href="/building/Harbor">海港</a>(<a href="/civs/Malay">馬來</a>限定)</li>
                 </ul>
               </div>
             </div>
@@ -272,22 +272,22 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Teutons.php">條頓</a>：龜甲船對招降的抵抗力更強。</li>
+              <li><a href="/civs/Teutons">條頓</a>：龜甲船對招降的抵抗力更強。</li>
             </ul>
           </div>
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em><a href="aoc.php">征服者入侵</a></em></h3>
+            <h3><em><a href="/games/aoc">征服者入侵</a></em></h3>
             <ul>
-              <li>訓練龜甲船需要先建造<a href="Castle.php">城堡</a>。</li>
+              <li>訓練龜甲船需要先建造<a href="/building/Castle">城堡</a>。</li>
               <li>訓練龜甲船需要200木200金。</li>
             </ul>
-            <h3><em><a href="aof.php">失落的帝國</a></em></h3>
+            <h3><em><a href="/games/aof">失落的帝國</a></em></h3>
             <ul>
               <li>訓練龜甲船需要180木180金。</li>
             </ul>
-            <h3><em><a href="ak.php">非洲王朝</a></em></h3>
+            <h3><em><a href="/games/ak">非洲王朝</a></em></h3>
             <ul>
               <li>訓練龜甲船不再需要先建造城堡了。</li>
             </ul>
@@ -296,10 +296,10 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>雖然是火藥單位，龜甲船沒有受到<a href="Turks.php">土耳其</a>的團隊加成影響(火藥單位訓練速度快20%)。</li>
-              <li>龜甲船是四個單位之一沒有任何攻擊加成的(其他三個是<a href="Militia.php">民兵</a>、<a href="Boyar.php">貴族鐵騎</a>和
+              <li>雖然是火藥單位，龜甲船沒有受到<a href="/civs/Turks">土耳其</a>的團隊加成影響(火藥單位訓練速度快20%)。</li>
+              <li>龜甲船是四個單位之一沒有任何攻擊加成的(其他三個是<a href="/units/Militia">民兵</a>、<a href="/units/Boyar">貴族鐵騎</a>和
                 <a
-                href="Knight.php">騎士</a>系)。</li>
+                href="/units/Knight">騎士</a>系)。</li>
               <li>精銳龜甲船是唯一近防和遠防是藉由升級後增加的單位。</li>
             </ul>
           </div>
@@ -315,7 +315,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><a href="">龜甲船</a>
+                <div class="unititle"><a href="#">龜甲船</a>
                 </div>
               </td>
             </tr>
@@ -328,30 +328,30 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">單位介紹</a>
+                <div class="unititle2"><a href="#">單位介紹</a>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Gunpowder_Unit.php">火藥單位</a>、<a href="Naval_Vessels.php">船</a>
+              <td class="unit4"><a href="/units/Gunpowder_Unit">火藥單位</a>、<a href="/units/Naval_Vessels">船</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Koreans.php">韓國</a>
+              <td class="unit4"><a href="/civs/Koreans">韓國</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="Castle_Age.php">城堡時代</a>
+                <img class="gg" src="~assets/Castle-age-reseach.jpg" alt=""><a href="/techsage/Castle_Age">城堡時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Dockicon.png" alt=""><a href="Dock.php">碼頭</a>
+                <img class="gg" src="~assets/Dockicon.png" alt=""><a href="/building/Dock">碼頭</a>
               </td>
             </tr>
             <tr>
@@ -360,7 +360,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>
@@ -374,7 +374,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><a href="">數據</a>
+                <div class="unititle2"><a href="#">數據</a>
                 </div>
               </td>
             </tr>
@@ -420,10 +420,10 @@
             </tr>
             <tr>
               <td class="unit3">防禦類型</td>
-              <td class="unit4"><a href="Armor_Class_Ship.php">船</a>(+8/+11(精銳))
-                <br/> <a href="Armor_Class_Turtle_Ship.php">龜甲船</a>(+1(精銳))
-                <br/> <a href="Armor_Class_Gunpowder_Unit.php">火藥單位</a>
-                <br/> <a href="Armor_Class_Unique_Unit.php">特殊單位</a>
+              <td class="unit4"><a href="/armor/Armor_Class_Ship">船</a>(+8/+11(精銳))
+                <br/> <a href="/armor/Armor_Class_Turtle_Ship">龜甲船</a>(+1(精銳))
+                <br/> <a href="/armor/Armor_Class_Gunpowder_Unit">火藥單位</a>
+                <br/> <a href="/armor/Armor_Class_Unique_Unit">特殊單位</a>
               </td>
             </tr>
             <tr>
@@ -461,20 +461,20 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <div class="col-md-4"> <a href="img/Turtleshipgroup.png"><img class="imgn hg" src="~assets/Turtleshipgroup.png" alt=""></a> 
+              <div class="col-md-4"> <a href="/img/Turtleshipgroup.png"><img class="imgn hg" src="~assets/Turtleshipgroup.png" alt=""></a> 
                 <p><em>一群龜甲船。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Turtle_ship.jpg"><img class="imgn hg" src="~assets/Turtle_ship.jpg" alt=""></a> 
+              <div class="col-md-4"> <a href="/img/Turtle_ship.jpg"><img class="imgn hg" src="~assets/Turtle_ship.jpg" alt=""></a> 
                 <p><em>最初的龜甲船(1.0c版本之前)。</em>
                 </p>
               </div>
-              <div class="col-md-4"> <a href="img/Turtleship.png"><img class="imgn hg" src="~assets/Turtleship.png" alt=""></a> 
+              <div class="col-md-4"> <a href="/img/Turtleship.png"><img class="imgn hg" src="~assets/Turtleship.png" alt=""></a> 
                 <p><em>龜甲船美術圖。</em>
                 </p>
               </div>
               <div class="col-md-12">
-                <div class="col-md-4"> <a href="img/Turtle_Ship_paint.jpg"><img class="imgn hg" src="~assets/Turtle_Ship_paint.jpg" alt=""></a> 
+                <div class="col-md-4"> <a href="/img/Turtle_Ship_paint.jpg"><img class="imgn hg" src="~assets/Turtle_Ship_paint.jpg" alt=""></a> 
                   <p><em>16世紀的龜甲船。</em>
                   </p>
                 </div>

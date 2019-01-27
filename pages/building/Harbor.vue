@@ -61,13 +61,13 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/FishingShipIcon.jpg" /><a
-                    href="Fishing_Ship.php"
+                    href="/units/Fishing_Ship"
                     >漁船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/TransportShipIcon.jpg" /><a
-                    href="Transport_Ship.php"
+                    href="/units/Transport_Ship"
                     >運輸船</a
                   >
                 </li>
@@ -80,25 +80,25 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/FireGalleyIcon.jpg" /><a
-                    href="Fire_Galley.php"
+                    href="/units/Fire_Galley"
                     >火蒙衝</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/TradeCogIcon.jpg" /><a
-                    href="Trade_Cog.php"
+                    href="/units/Trade_Cog"
                     >貿易商旅</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/DemoRaftIcon.jpg" /><a
-                    href="Demolition_Raft.php"
+                    href="/units/Demolition_Raft"
                     >自爆筏</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Galley.jpg" /><a
-                    href="Galley.php"
+                    href="/units/Galley"
                     >戰船</a
                   >
                 </li>
@@ -111,37 +111,37 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/FireShipIcon.jpg" /><a
-                    href="Fire_Ship.php"
+                    href="/units/Fire_Ship"
                     >火戰船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/DemoShipIcon.jpg" /><a
-                    href="Demolition_Ship.php"
+                    href="/units/Demolition_Ship"
                     >神風船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/WarGalley.jpg" /><a
-                    href="War_Galley.php"
+                    href="/War_units/Galley"
                     >弩炮戰船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/LongboatIcon.jpg" /><a
-                    href="Longboat.php"
+                    href="/units/Longboat"
                     >維京大戰船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/TurtleShipIcon.jpg" /><a
-                    href="Turtle_Ship.php"
+                    href="/units/Turtle_Ship"
                     >龜甲船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/CaravelIcon2.jpg" /><a
-                    href="Caravel.php"
+                    href="/units/Caravel"
                     >卡拉維爾戰船</a
                   >
                 </li>
@@ -151,7 +151,7 @@
                     style="margin: 2px;"
                     src="~assets/Careening.jpg"
                     alt=""
-                  /><a href="Careening.php">傾側維修術</a>
+                  /><a href="/techs/Careening">傾側維修術</a>
                 </li>
                 <li>
                   <img
@@ -159,7 +159,7 @@
                     style="margin: 2px;"
                     src="~assets/Gillnetsicon.jpg"
                     alt=""
-                  /><a href="Gillnets.php">流刺網</a>
+                  /><a href="/techs/Gillnets">流刺網</a>
                 </li>
               </ul>
             </div>
@@ -170,49 +170,49 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/FastFireShipIcon.jpg" /><a
-                    href="Fast_Fire_Ship.php"
+                    href="/units/Fast_Fire_Ship"
                     >快速火戰船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><a
-                    href="Cannon_Galleon.php"
+                    href="/units/Cannon_Galleon"
                     >火炮戰船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><a
-                    href="Elite_Cannon_Galleon.php"
+                    href="/Elite_units/Cannon_Galleon"
                     >精銳火炮戰船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/HeavyDemoShipIcon.jpg" /><a
-                    href="Heavy_Demolition_Ship.php"
+                    href="/Heavy_units/Demolition_Ship"
                     >重型神風船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/GalleonAoE2.jpg" /><a
-                    href="Galleon.php"
+                    href="/units/Galleon"
                     >重型弩炮戰船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/LongboatIcon.jpg" /><a
-                    href="Longboat.php"
+                    href="/units/Longboat"
                     >精銳維京大戰船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/TurtleShipIcon.jpg" /><a
-                    href="Turtle_Ship.php"
+                    href="/units/Turtle_Ship"
                     >精銳龜甲船</a
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/CaravelIcon2.jpg" /><a
-                    href="Caravel.php"
+                    href="/units/Caravel"
                     >精銳卡拉維爾戰船</a
                   >
                 </li>
@@ -222,7 +222,7 @@
                     style="margin: 2px;"
                     src="~assets/Drydock.jpg"
                     alt=""
-                  /><a href="Dry_Dock.php">旱碼頭</a>
+                  /><a href="/Dry_building/Dock">旱碼頭</a>
                 </li>
                 <li>
                   <img
@@ -230,7 +230,7 @@
                     style="margin: 2px;"
                     src="~assets/Shipwright.jpg"
                     alt=""
-                  /><a href="Shipwright.php">造船匠</a>
+                  /><a href="/techs/Shipwright">造船匠</a>
                 </li>
               </ul>
             </div>
@@ -247,16 +247,18 @@
           </tr>
           <tr>
             <td class="tta1">強勢(容易對抗)</td>
-            <td class="tta4"><a href="Naval_Vessels.php">船艦</a>。</td>
+            <td class="tta4"><a href="/units/Naval_Vessels">船艦</a>。</td>
           </tr>
           <tr>
             <td class="tta1">劣勢(不易對抗)</td>
             <td class="tta4">
-              <a href="Siege_Weapon_Unit.php">攻城單位</a>、<a href="Tarkan.php"
+              <a href="/Siege_Weapon_Unit.php">攻城單位</a>、<a
+                href="/units/Tarkan"
                 >韃靼騎兵</a
-              >、 <a href="Huskarl.php">哥德衛隊</a>、<a href="War_Elephant.php"
+              >、 <a href="/units/Huskarl">哥德衛隊</a>、<a
+                href="/War_unitsanimal/Elephant"
                 >戰象</a
-              >、<a href="Cannon_Galleon.php">火炮戰船</a>。
+              >、<a href="/units/Cannon_Galleon">火炮戰船</a>。
             </td>
           </tr>
           <tr class="tta">
@@ -280,7 +282,7 @@
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
               <img class="gg" src="~assets/Fletching.jpg" width="30" alt="" /><a
-                href="Fletching.php"
+                href="/techs/Fletching"
                 >箭羽</a
               >(+1)
               <br />
@@ -289,10 +291,10 @@
                 src="~assets/Bodkinarrow.jpg"
                 width="30"
                 alt=""
-              /><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+              /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
               <br />
               <img class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><a
-                href="Bracer.php"
+                href="/techs/Bracer"
                 >護腕</a
               >(+1)
               <br />
@@ -301,14 +303,14 @@
                 src="~assets/Heatedshot.png"
                 width="30"
                 alt=""
-              /><a href="Heated_Shot.php">預熱射擊</a>(對船艦攻擊+4)
+              /><a href="/techs/Heated_Shot">預熱射擊</a>(對船艦攻擊+4)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">攻擊範圍</td>
             <td class="tta4">
               <img class="gg" src="~assets/Fletching.jpg" width="30" alt="" /><a
-                href="Fletching.php"
+                href="/techs/Fletching"
                 >箭羽</a
               >(+1)
               <br />
@@ -317,10 +319,10 @@
                 src="~assets/Bodkinarrow.jpg"
                 width="30"
                 alt=""
-              /><a href="Bodkin_Arrow.php">錐狀箭頭</a>(+1)
+              /><a href="/techs/Bodkin_Arrow">錐狀箭頭</a>(+1)
               <br />
               <img class="gg" src="~assets/Bracer.jpg" width="30" alt="" /><a
-                href="Bracer.php"
+                href="/techs/Bracer"
                 >護腕</a
               >(+1)
             </td>
@@ -333,7 +335,7 @@
                 src="~assets/Ballistics.jpg"
                 width="30"
                 alt=""
-              /><a href="Ballistics.php">彈道學</a>:對移動目標命中率上升
+              /><a href="/techs/Ballistics">彈道學</a>:對移動目標命中率上升
             </td>
           </tr>
           <tr>
@@ -351,7 +353,7 @@
             <td class="tta1" style="width:10%">視野</td>
             <td class="tta4">
               <img class="gg" src="~assets/Townwatch.jpg" width="30" alt="" /><a
-                href="Town_Watch.php"
+                href="/techs/Town_Watch"
                 >城鎮瞭望</a
               >(+4)
               <br />
@@ -360,7 +362,7 @@
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><a href="Town_Patrol.php">城鎮巡邏</a>(+4)
+              /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
             </td>
           </tr>
           <tr>
@@ -378,12 +380,12 @@
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                href="Faith.php"
+                href="/techs/Faith"
                 >忠誠信仰</a
               >
               <br />
               <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="Heresy.php"
+                href="/techs/Heresy"
                 >異端邪說</a
               >
             </td>
@@ -394,21 +396,21 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Malay.php">馬來</a>：巨港視野+100%。。</li>
+            <li><a href="/civs/Malay">馬來</a>：巨港視野+100%。。</li>
             <li>
-              <a href="Malians.php">馬利</a>：研究<a href="Masonry.php"
+              <a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry"
                 >磚瓦技術</a
-              >、<a href="Architecture.php">建築學</a>和
-              <a href="Treadmill_Crane.php">踏輪起重機</a>團隊速度提高80%。
+              >、<a href="/techs/Architecture">建築學</a>和
+              <a href="/techs/Treadmill_Crane">踏輪起重機</a>團隊速度提高80%。
             </li>
-            <li><a href="Vikings.php">維京</a>：巨港建造花費便宜15%。</li>
+            <li><a href="/civs/Vikings">維京</a>：巨港建造花費便宜15%。</li>
           </ul>
         </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>
@@ -421,7 +423,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="">巨港</a></div>
+              <div class="unititle"><a href="#">巨港</a></div>
             </td>
           </tr>
           <tr>
@@ -433,7 +435,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -442,7 +444,7 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Castle_Age.php">城堡時代</a></td>
+            <td class="unit4"><a href="/techsage/Castle_Age">城堡時代</a></td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -454,7 +456,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -463,7 +465,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>
@@ -485,7 +487,7 @@
           <tr>
             <td class="unit3">攻擊加城</td>
             <td class="unit4">
-              對<a href="Armor_Class_Ship.php">船隻</a>攻擊+9
+              對<a href="/armor/Armor_Class_Ship">船隻</a>攻擊+9
             </td>
           </tr>
           <tr>
@@ -511,9 +513,9 @@
           <tr>
             <td class="unit3">護甲類別</td>
             <td class="unit4">
-              <a href="Armor_Class_Building.php">建築物</a> <br />
-              <a href="Armor_Class_standard_building.php">標準建築</a> <br />
-              <a href="Armor_Class_stone_defense.php">石造建築</a>
+              <a href="/armor/Armor_Class_Building">建築物</a> <br />
+              <a href="/Armor_Class_standard_building.php">標準建築</a> <br />
+              <a href="/armor/Armor_Class_stone_defense">石造建築</a>
             </td>
           </tr>
           <tr>
@@ -522,14 +524,14 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">單位演變</a></div>
+              <div class="unititle2"><a href="#">單位演變</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">從升級</td>
             <td class="unit4">
               <img class="gg" src="~assets/Dockicon.png" width="22" alt="" /><a
-                href="Dock.php"
+                href="/building/Dock"
                 >碼頭</a
               >
             </td>
@@ -538,7 +540,7 @@
             <td class="unit3">升級所需科技</td>
             <td class="unit4">
               <img class="gg" src="~assets/CastleAgeUnique.png" alt="" /><a
-                href="Thalassocracy.php"
+                href="/techs/Thalassocracy"
                 >海上霸主</a
               >
             </td>
@@ -553,7 +555,7 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a href="img/HarboraoeII.png"
+          <a href="/img/HarboraoeII.png"
             ><img
               class="imgn hg"
               width="180"

@@ -10,28 +10,28 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            </p>銀行制度可以在<a href="Castle_Age.php">城堡時代</a>時在<a href="Market.php">市集</a>研發，前置科技為
+            </p>銀行制度可以在<a href="/techsage/Castle_Age">城堡時代</a>時在<a href="/building/Market">市集</a>研發，前置科技為
             <a
-            href="Coinage.php">鑄幣術</a>。</p>
-              </p>研究完成後它將免除所有<a href="Tribute.php">進貢費</a>，在與玩家交換或發送資源時就無需再支付其他費用。</p>
+            href="/techs/Coinage">鑄幣術</a>。</p>
+              </p>研究完成後它將免除所有<a href="/Tribute.php">進貢費</a>，在與玩家交換或發送資源時就無需再支付其他費用。</p>
               </p>當你有這種需求時，強烈建議研發這項科技。</p>
           </div>
           </table>
            <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-             <h3><em><a href="aok.php">帝王世紀</a></em></h3>
+             <h3><em><a href="/games/aok">帝王世紀</a></em></h3>
             <ul>
               <li>成本為200F/100G</li>
               <li>需要50秒的研發時間</li>
               <li>城堡時代就可以研發</li>
             </ul>
-             <h3><em><a href="ak.php">非洲王國</a></em></h3>
+             <h3><em><a href="/games/ak">非洲王國</a></em></h3>
             <ul>
               <li>成本為300F/200G</li>
               <li>需要70秒研發</li>
             </ul>
-             <h3><em><a href="aor.php">王者崛起</a></em></h3>
+             <h3><em><a href="/games/aor">王者崛起</a></em></h3>
             <ul>
               <li>5.8版後，帝王時代才能研發</li>
             </ul>
@@ -45,7 +45,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="">銀行制度</a>
+                <div class="unititle"><a href="#">銀行制度</a>
                 </div>
               </td>
             </tr>
@@ -58,7 +58,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">科技介紹</a>
+                <div class="unititle2"><a href="#">科技介紹</a>
                 </div>
               </td>
             </tr>
@@ -68,18 +68,18 @@
             <tr>
               <td class="unit3">時代</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+                <img class="gg" src="~assets/Imperial-age-research.jpg" class="gg" alt=""><a href="/techsage/Imperial_Age">帝王時代</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">訓練於</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Market-logo.jpg" class="gg" alt=""><a href="Market.php">市集</a>
+                <img class="gg" src="~assets/Market-logo.jpg" class="gg" alt=""><a href="/building/Market">市集</a>
               </td>
             </tr>
             <tr>
               <td class="unit3">前置科技</td>
-              <td class="unit4"><a href="Coinage.php">鑄幣術</a>
+              <td class="unit4"><a href="/techs/Coinage">鑄幣術</a>
               </td>
             </tr>
             <tr>
@@ -88,7 +88,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><a href="#">成本</a>
                 </div>
               </td>
             </tr>
@@ -102,13 +102,13 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">影響</a>
+                <div class="unititle2"><a href="#">影響</a>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">影響</td>
-              <td class="unit4">免除所有<a href="Tribute.php">進貢費</a>
+              <td class="unit4">免除所有<a href="/Tribute.php">進貢費</a>
               </td>
             </tr>
           </table>

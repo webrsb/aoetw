@@ -11,8 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            品種（亦稱血統）於<a href="Feudal_Age.php">封建時代</a>在<a
-              href="Stable.php"
+            品種（亦稱血統）於<a href="/techsage/Feudal_Age">封建時代</a>在<a
+              href="/building/Stable"
               >馬厩</a
             >研發。研發後所有騎乘單位血量+20。
           </p>
@@ -36,20 +36,25 @@
                   ></strong
                 >
               </h4>
-              <a href="Berbers.php">柏柏</a>、 <a href="Burmese.php">緬甸</a>、
-              <a href="Chinese.php">中國</a>、 <a href="Goths.php">哥德</a>、
-              <a href="Huns.php">匈奴</a>、 <a href="Indians.php">印度</a>、
-              <a href="Italians.php">義大利</a>、
-              <a href="Japanese.php">日本</a>、 <a href="Khmer.php">高棉</a>、
-              <a href="Magyars.php">馬扎爾</a>、
-              <a href="Malians.php">馬利</a>、 <a href="Mongols.php">蒙古</a>、
-              <a href="Persians.php">波斯</a>、
-              <a href="Portuguese.php">葡萄牙</a>、
-              <a href="Saracens.php">薩拉森</a>、
-              <a href="Slavs.php">斯拉夫</a>、
-              <a href="Spanish.php">西班牙</a>、
-              <a href="Teutons.php">條頓</a>、 <a href="Turks.php">土耳其</a>、
-              <a href="Vietnamese.php">越南</a>。
+              <a href="/civs/Berbers">柏柏</a>、
+              <a href="/civs/Burmese">緬甸</a>、
+              <a href="/civs/Chinese">中國</a>、
+              <a href="/civs/Goths">哥德</a>、 <a href="/civs/Huns">匈奴</a>、
+              <a href="/civs/Indians">印度</a>、
+              <a href="/civs/Italians">義大利</a>、
+              <a href="/civs/Japanese">日本</a>、
+              <a href="/civs/Khmer">高棉</a>、
+              <a href="/civs/Magyars">馬扎爾</a>、
+              <a href="/civs/Malians">馬利</a>、
+              <a href="/civs/Mongols">蒙古</a>、
+              <a href="/civs/Persians">波斯</a>、
+              <a href="/civs/Portuguese">葡萄牙</a>、
+              <a href="/civs/Saracens">薩拉森</a>、
+              <a href="/civs/Slavs">斯拉夫</a>、
+              <a href="/civs/Spanish">西班牙</a>、
+              <a href="/civs/Teutons">條頓</a>、
+              <a href="/civs/Turks">土耳其</a>、
+              <a href="/civs/Vietnamese">越南</a>。
             </div>
           </div>
         </div>
@@ -67,14 +72,16 @@
                   ></strong
                 >
               </h4>
-              <a href="Aztecs.php">阿茲特克</a>、
-              <a href="Britons.php">不列顛</a>、
-              <a href="Byzantines.php">拜占庭</a>、
-              <a href="Celts.php">賽爾特</a>、
-              <a href="Ethiopians.php">衣索比亞</a>、
-              <a href="Franks.php">法蘭克</a>、 <a href="Incas.php">印加</a>、
-              <a href="Koreans.php">韓國</a>、 <a href="Malay.php">馬來</a>、
-              <a href="Mayans.php">馬雅</a>、 <a href="Vikings.php">維京</a>。
+              <a href="/civs/Aztecs">阿茲特克</a>、
+              <a href="/civs/Britons">不列顛</a>、
+              <a href="/civs/Byzantines">拜占庭</a>、
+              <a href="/civs/Celts">賽爾特</a>、
+              <a href="/civs/Ethiopians">衣索比亞</a>、
+              <a href="/civs/Franks">法蘭克</a>、
+              <a href="/civs/Incas">印加</a>、
+              <a href="/civs/Koreans">韓國</a>、
+              <a href="/civs/Malay">馬來</a>、 <a href="/civs/Mayans">馬雅</a>、
+              <a href="/civs/Vikings">維京</a>。
             </div>
           </div>
         </div>
@@ -83,7 +90,7 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：科技在封建/城堡/帝王時代各便宜10%/15%/20%。
             </li>
           </ul>
@@ -92,25 +99,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Huns.php">匈奴</a>：研發品種速度快20%。</li>
+            <li><a href="/civs/Huns">匈奴</a>：研發品種速度快20%。</li>
           </ul>
         </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
-            <li><a href="Japanese.php">日本</a>：無法研發品種。</li>
+            <li><a href="/civs/Japanese">日本</a>：無法研發品種。</li>
           </ul>
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
-            <li><a href="Japanese.php">日本</a>：可研發品種。</li>
+            <li><a href="/civs/Japanese">日本</a>：可研發品種。</li>
             <li>
-              <a href="Spanish.php">西班牙</a>：<a href="Missionary.php"
+              <a href="/civs/Spanish">西班牙</a>：<a href="/units/Missionary"
                 >傳教士</a
               >受品種影響。
             </li>
@@ -145,7 +152,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -156,7 +163,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Feudal-age-reseach.jpg" alt="" /><a
-                href="Feudal_Age.php"
+                href="/techsage/Feudal_Age"
                 >封建時代</a
               >
             </td>
@@ -169,7 +176,7 @@
                 width="25px"
                 src="~assets/Stableicon.png"
                 alt=""
-              /><a href="Stable.php">馬廄</a>
+              /><a href="/building/Stable">馬廄</a>
             </td>
           </tr>
           <tr>

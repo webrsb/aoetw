@@ -11,14 +11,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            間諜可於<a href="Imperial_Age.php">帝王時代</a>的<a
-              href="Castle.php"
+            間諜可於<a href="/techsage/Imperial_Age">帝王時代</a>的<a
+              href="/building/Castle"
               >城堡</a
             >研發。研發後可讓玩家看到敵方視野。間諜是遊戲中唯一的成本變動科技，它的花費取決於所有敵方(包括中立玩家)的
-            <a href="Villager.php">村民</a>、<a href="Trade_Cart.php"
+            <a href="/units/Villager">村民</a>、<a href="/units/Trade_Cart"
               >貿易馬車</a
-            >、<a href="Fishing_Ship.php">漁船</a>和
-            <a href="Transport_Ship.php">運輸船</a
+            >、<a href="/units/Fishing_Ship">漁船</a>和
+            <a href="/units/Transport_Ship">運輸船</a
             >的數量。每個上述單位需花費200黃金，花費最低200黃金最高30000黃金。
           </p>
           <p>
@@ -38,9 +38,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Chinese.php">中國</a>：間諜科技便宜20%。</li>
+            <li><a href="/civs/Chinese">中國</a>：間諜科技便宜20%。</li>
             <li>
-              <a href="Huns.php">匈奴</a>：<a href="Atheism.php">無神論</a
+              <a href="/civs/Huns">匈奴</a>：<a href="/techs/Atheism">無神論</a
               >研發後間諜科技便宜50%。
             </li>
           </ul>
@@ -58,7 +58,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">間諜</a></div>
+              <div class="unititle"><a href="#">間諜</a></div>
             </td>
           </tr>
           <tr>
@@ -70,7 +70,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
@@ -84,14 +84,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -102,7 +102,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -111,7 +111,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

@@ -13,7 +13,7 @@
           <div class="spw">
             <em
               >這篇文章是將有關威廉華勒斯這個的英雄單位。關於威廉華勒斯戰役請參見<a
-                href="William_Wallacea.php"
+                href="/batt/William_Wallacea"
                 >威廉華勒斯戰役</a
               ></em
             >
@@ -33,7 +33,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">威廉華勒斯</a></div>
+              <div class="unititle"><a href="#">威廉華勒斯</a></div>
             </td>
           </tr>
           <tr>

@@ -11,8 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="Blacksmith.php">兵工廠</a> 是一個在世紀帝國II到達<a
-              href="Feudal_Age.php"
+            <a href="/building/Blacksmith">兵工廠</a> 是一個在世紀帝國II到達<a
+              href="/techsage/Feudal_Age"
               >封建時代</a
             >後能建造的建築。兵工廠可研發科技強化軍事單位和部分防禦建築的攻擊和防禦。
           </p>
@@ -32,24 +32,24 @@
           <div class="row">
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="Feudal_Age.php">封建時代</a></h4>
+                <h4><a href="/techsage/Feudal_Age">封建時代</a></h4>
                 <ul>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Paddedarcherarmor.jpg"
                       alt=""
-                    /><a href="Padded_Archer_Armor.php">弓兵布甲</a>
+                    /><a href="/techs/Padded_Archer_Armor">弓兵布甲</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Fletching.jpg" alt="" /><a
-                      href="Fletching.php"
+                      href="/techs/Fletching"
                       >箭羽</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Forging.jpg" alt="" /><a
-                      href="Forging.php"
+                      href="/techs/Forging"
                       >鍛造</a
                     >
                   </li>
@@ -58,11 +58,11 @@
                       class="gg"
                       src="~assets/Scalebardingarmor.jpg"
                       alt=""
-                    /><a href="Scale_Barding_Armor.php">騎兵鱗甲</a>
+                    /><a href="/techs/Scale_Barding_Armor">騎兵鱗甲</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Scalemailarmor.jpg" alt="" /><a
-                      href="Scale_Mail_Armor.php"
+                      href="/techs/Scale_Mail_Armor"
                       >步兵鱗甲</a
                     >
                   </li>
@@ -71,24 +71,24 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="Castle_Age.php">城堡時代</a></h4>
+                <h4><a href="/techsage/Castle_Age">城堡時代</a></h4>
                 <ul>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Leatherarcherarmor.jpg"
                       alt=""
-                    /><a href="Leather_Archer_Armor.php">弓兵皮甲</a>
+                    /><a href="/techs/Leather_Archer_Armor">弓兵皮甲</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Bodkinarrow.jpg" alt="" /><a
-                      href="Bodkin_Arrow.php"
+                      href="/techs/Bodkin_Arrow"
                       >錐狀箭頭</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Ironcasting.jpg" alt="" /><a
-                      href="Iron_Casting.php"
+                      href="/techs/Iron_Casting"
                       >鑄造</a
                     >
                   </li>
@@ -97,11 +97,11 @@
                       class="gg"
                       src="~assets/Chainbardingarmor.jpg"
                       alt=""
-                    /><a href="Chain_Barding_Armor.php">騎兵鎖甲</a>
+                    /><a href="/techs/Chain_Barding_Armor">騎兵鎖甲</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Chainmailarmor.jpg" alt="" /><a
-                      href="Chain_Mail_Armor.php"
+                      href="/techs/Chain_Mail_Armor"
                       >步兵鎖甲</a
                     >
                   </li>
@@ -110,24 +110,24 @@
             </div>
             <div class="col-md-3">
               <div class="n1">
-                <h4><a href="Imperial_Age.php">帝王時代</a></h4>
+                <h4><a href="/techsage/Imperial_Age">帝王時代</a></h4>
                 <ul>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Ringarcherarmor.jpg"
                       alt=""
-                    /><a href="Ring_Archer_Armor.php">弓兵環甲</a>
+                    /><a href="/techs/Ring_Archer_Armor">弓兵環甲</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Bracer.jpg" alt="" /><a
-                      href="Bracer.php"
+                      href="/techs/Bracer"
                       >護腕</a
                     >
                   </li>
                   <li>
                     <img class="gg" src="~assets/Blastfurnace.jpg" alt="" /><a
-                      href="Blast_Furnace.php"
+                      href="/techs/Blast_Furnace"
                       >鐵風爐</a
                     >
                   </li>
@@ -136,11 +136,11 @@
                       class="gg"
                       src="~assets/Platebardingarmor.jpg"
                       alt=""
-                    /><a href="Plate_Barding_Armor.php">騎兵板甲</a>
+                    /><a href="/techs/Plate_Barding_Armor">騎兵板甲</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Platemailarmor.jpg" alt="" /><a
-                      href="Plate_Mail_Armor.php"
+                      href="/techs/Plate_Mail_Armor"
                       >步兵板甲</a
                     >
                   </li>
@@ -171,7 +171,7 @@
               <td class="tta1" style="width:20%">生命值</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="Masonry.php"
+                  href="/techs/Masonry"
                   >磚瓦技術</a
                 >(+10%)
                 <br />
@@ -180,14 +180,14 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="Architecture.php">建築學</a>(+10%)
+                /><a href="/techs/Architecture">建築學</a>(+10%)
               </td>
             </tr>
             <tr>
               <td class="tta1" style="width:20%">護甲</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Masonry.jpg" width="30" alt="" /><a
-                  href="Masonry.php"
+                  href="/techs/Masonry"
                   >磚瓦技術</a
                 >(護甲+1/+1，+3建築護甲)
                 <br />
@@ -196,7 +196,8 @@
                   src="~assets/Architecture.jpg"
                   width="30"
                   alt=""
-                /><a href="Architecture.php">建築學</a>(護甲+1/+1，+3建築護甲)
+                /><a href="/techs/Architecture">建築學</a
+                >(護甲+1/+1，+3建築護甲)
               </td>
             </tr>
             <tr>
@@ -207,26 +208,26 @@
                   src="~assets/Townwatch.jpg"
                   width="30"
                   alt=""
-                /><a href="Town_Watch.php">城鎮瞭望</a>(+4)
+                /><a href="/techs/Town_Watch">城鎮瞭望</a>(+4)
                 <br />
                 <img
                   class="gg"
                   src="~assets/Townpatrol.jpg"
                   width="30"
                   alt=""
-                /><a href="Town_Patrol.php">城鎮巡邏</a>(+4)
+                /><a href="/techs/Town_Patrol">城鎮巡邏</a>(+4)
               </td>
             </tr>
             <tr>
               <td class="tta1">招降抵抗</td>
               <td class="tta4">
                 <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                  href="Faith.php"
+                  href="/techs/Faith"
                   >忠誠信仰</a
                 >
                 <br />
                 <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                  href="Heresy.php"
+                  href="/techs/Heresy"
                   >異端邪說</a
                 >
               </td>
@@ -239,7 +240,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><a href="Treadmill_Crane.php">踏輪起重機</a>(+20%建造效率)
+                /><a href="/techs/Treadmill_Crane">踏輪起重機</a>(+20%建造效率)
               </td>
             </tr>
           </table>
@@ -249,29 +250,30 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="Burmese.php">緬甸</a>：研發<a href="Faith.php"
+                <a href="/civs/Burmese">緬甸</a>：研發<a href="/techs/Faith"
                   >忠誠信仰</a
                 >便宜50%。
               </li>
               <li>
-                <a href="Byzantines.php">拜占庭</a
+                <a href="/civs/Byzantines">拜占庭</a
                 >：在封建/城堡/帝王時代，兵工廠增加20%/30%40%的血量。<a
-                  href="Town_Watch.php"
+                  href="/techs/Town_Watch"
                   >城鎮瞭望</a
                 >免費。
               </li>
               <li>
-                <a href="Chinese.php">中國</a
+                <a href="/civs/Chinese">中國</a
                 >：兵工廠的技術在封建/城堡/帝王時代分別便宜10%/15%/20%
               </li>
-              <li><a href="Malians.php">馬利</a>：兵工廠建築花費便宜15%</li>
+              <li><a href="/civs/Malians">馬利</a>：兵工廠建築花費便宜15%</li>
               <li>
-                <a href="Persians.php">波斯</a>：研發<a href="Town_Watch.php"
+                <a href="/civs/Persians">波斯</a>：研發<a
+                  href="/techs/Town_Watch"
                   >城鎮暸望</a
-                >和<a href="Town_Patrol.php">城鎮巡邏</a
+                >和<a href="/techs/Town_Patrol">城鎮巡邏</a
                 >的速度在封建/城堡/帝王快10%/15%/20%。
               </li>
-              <li><a href="Spanish.php">西班牙</a>：兵工廠建造速度快30%</li>
+              <li><a href="/civs/Spanish">西班牙</a>：兵工廠建造速度快30%</li>
             </ul>
           </div>
           <h3>團隊加成</h3>
@@ -279,10 +281,10 @@
           <div class="n1">
             <ul>
               <li>
-                <a href="Malians.php">馬利</a>：研究<a href="Masonry.php"
+                <a href="/civs/Malians">馬利</a>：研究<a href="/techs/Masonry"
                   >磚瓦技術</a
-                >，<a href="Architecture.php">建築學</a>和
-                <a href="Treadmill_Crane.php">滑輪起重機</a>的速度快80％。
+                >，<a href="/techs/Architecture">建築學</a>和
+                <a href="/techs/Treadmill_Crane">滑輪起重機</a>的速度快80％。
               </li>
             </ul>
           </div>
@@ -290,19 +292,19 @@
           <div class="hrn1"></div>
           <div class="n1">
             <h3>
-              <em><a href="aok.php">帝王世紀</a></em>
+              <em><a href="/games/aok">帝王世紀</a></em>
             </h3>
             <ul>
               <li>兵工廠在每個時代都是2100HP。</li>
             </ul>
             <h3>
-              <em><a href="aoc.php">征服者入侵</a></em>
+              <em><a href="/games/aoc">征服者入侵</a></em>
             </h3>
             <ul>
-              <li>引入<a href="Heresy.php">異端邪說</a>。</li>
+              <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
             </ul>
             <h3>
-              <em><a href="aof.php">失落的帝國</a></em>
+              <em><a href="/games/aof">失落的帝國</a></em>
             </h3>
             <ul>
               <li>兵工廠在封建/城堡/帝王的HP分別是1800/2100/2100。</li>
@@ -380,7 +382,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="">兵工廠</a></div>
+              <div class="unititle"><a href="#">兵工廠</a></div>
             </td>
           </tr>
           <tr>
@@ -392,7 +394,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -405,7 +407,7 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><a href="Feudal_Age.php">封建時代</a></td>
+            <td class="unit4"><a href="/techsage/Feudal_Age">封建時代</a></td>
           </tr>
           <tr>
             <td class="unit3">建築時間</td>
@@ -417,7 +419,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -426,7 +428,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>
@@ -511,8 +513,8 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a href="Armor_Class_Building.php">建築</a> <br />
-              <a href="Armor_Class_standard_building.php">標準建築</a>
+              <a href="/armor/Armor_Class_Building">建築</a> <br />
+              <a href="/Armor_Class_standard_building.php">標準建築</a>
             </td>
           </tr>
           <tr></tr>

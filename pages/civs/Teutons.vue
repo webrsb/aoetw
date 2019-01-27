@@ -93,14 +93,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="teu.php">條頓科技樹</a></em>
+          <em><a href="/tree/teu">條頓科技樹</a></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
             <li>城鎮中心有+2攻擊與+5射程</li>
@@ -109,7 +109,7 @@
             <li>非精銳條頓武士有70hp</li>
           </ul>
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
             <li>城鎮中心有+2攻擊與+5視野</li>
@@ -117,7 +117,7 @@
             <li>條頓武士訓練時間為12秒</li>
           </ul>
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>城鎮中心移除+2攻擊與+5視野，變成可以駐守25個單位</li>
@@ -125,7 +125,7 @@
             <li>鋼鐵甲成本為500W/350G</li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
             <li>鋼鐵甲現在成本為400W/350G</li>
@@ -161,7 +161,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="">條頓</a></div>
+              <div class="unititle"><a href="#">條頓</a></div>
             </td>
           </tr>
           <tr>
@@ -174,7 +174,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>

@@ -15,12 +15,12 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <a href="Infantry_Units.php">步兵單位·</a
-              ><a href="Archer_Units.php">遠距離單位·</a>
-              <a href="Cavalry_Units.php">騎兵單位·</a
-              ><a href="Naval_Vessels.php">海軍單位·</a
-              ><a href="Siege_Weapons.php">攻城器單位·</a>
-              <a href="Unique_Unit.php">特殊單位</a>
+              <a href="/units/Infantry_Units">步兵單位·</a
+              ><a href="/units/Archer_Units">遠距離單位·</a>
+              <a href="/units/Cavalry_Units">騎兵單位·</a
+              ><a href="/units/Naval_Vessels">海軍單位·</a
+              ><a href="/units/Siege_Weapons">攻城器單位·</a>
+              <a href="/units/Unique_Unit">特殊單位</a>
             </td>
           </tr>
         </table>

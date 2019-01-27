@@ -10,17 +10,20 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p>民兵是步兵單位，可以在<a href="Barracks.php">軍營</a>被訓練。</p>
+          <p>
+            民兵是步兵單位，可以在<a href="/building/Barracks">軍營</a>被訓練。
+          </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            民兵，在亞洲華人圈俗稱棒棒，是<a href="Dark_Age.php">黑暗時代</a
+            民兵，在亞洲華人圈俗稱棒棒，是<a href="/techsage/Dark_Age"
+              >黑暗時代</a
             >唯一能生產的軍事單位，早年大家覺得民兵沒什麼用處，但隨著時代的變遷，今天的民兵已經變成一種主流打法，控制得宜可以有效的騷擾對方經濟，取得非常大的優勢。以步兵為主的文明，如
-            <a href="Celts.php">賽爾特</a>、 <a href="Goths.php">哥德</a>、
-            <a href="Japanese.php">日本</a>和
-            <a href="Aztecs.php">阿茲特克</a>都是非常凶殘的民兵快攻文明。
+            <a href="/civs/Celts">賽爾特</a>、 <a href="/civs/Goths">哥德</a>、
+            <a href="/civs/Japanese">日本</a>和
+            <a href="/civs/Aztecs">阿茲特克</a>都是非常凶殘的民兵快攻文明。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -35,9 +38,10 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="Skirmisher.php">矛兵</a>、<a href="Scout_Cavalry.php"
+              <a href="/units/Skirmisher">矛兵</a>、<a
+                href="/units/Scout_Cavalry"
                 >斥侯</a
-              >、 <a href="Spearman.php">槍兵</a>、<a href="Villager.php"
+              >、 <a href="/units/Spearman">槍兵</a>、<a href="/units/Villager"
                 >村民</a
               >。
             </td>
@@ -55,7 +59,7 @@
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
               <img class="gg" src="~assets/Forging.jpg" width="30" alt="" /><a
-                href="Forging.php"
+                href="/techs/Forging"
                 >鍛造</a
               >(+1)
               <br />
@@ -64,19 +68,19 @@
                 src="~assets/Ironcasting.jpg"
                 width="30"
                 alt=""
-              /><a href="Iron_Casting.php">鑄造</a>(+1)
+              /><a href="/techs/Iron_Casting">鑄造</a>(+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Blastfurnace.jpg"
                 width="30"
                 alt=""
-              /><a href="Blast_Furnace.php">鼓風爐</a>(+2)
+              /><a href="/techs/Blast_Furnace">鼓風爐</a>(+2)
               <br />
               <img class="gg" src="~assets/Arson.jpg" width="30" alt="" /><a
-                href="Arson.php"
+                href="/techs/Arson"
                 >縱火</a
-              >:步兵+2攻擊vs<a href="Armor_Class_standard_building.php"
+              >:步兵+2攻擊vs<a href="/Armor_Class_standard_building.php"
                 >標準建築</a
               >
               <br />
@@ -85,8 +89,8 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><a href="Garland_Wars.php">榮冠戰爭</a>:步兵攻擊+4，<a
-                href="Aztecs.php"
+              /><a href="/techs/Garland_Wars">榮冠戰爭</a>:步兵攻擊+4，<a
+                href="/civs/Aztecs"
                 >阿茲特克</a
               >限定。
               <br />
@@ -95,8 +99,8 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><a href="Druzhina.php">王家侍從</a>:步兵單位有踐踏傷害，<a
-                href="Slavs.php"
+              /><a href="/techs/Druzhina">王家侍從</a>:步兵單位有踐踏傷害，<a
+                href="/civs/Slavs"
                 >斯拉夫</a
               >限定。
               <br />
@@ -105,8 +109,8 @@
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><a href="Chieftains.php">酋長</a
-              >:步兵對騎兵攻擊+5，對駱駝騎兵攻擊+4，<a href="Vikings.php"
+              /><a href="/techs/Chieftains">酋長</a
+              >:步兵對騎兵攻擊+5，對駱駝騎兵攻擊+4，<a href="/civs/Vikings"
                 >維京</a
               >限定。
             </td>
@@ -119,28 +123,28 @@
                 src="~assets/Scalemailarmor.jpg"
                 width="30"
                 alt=""
-              /><a href="Scale_Mail_Armor.php">步兵鱗甲</a>(+1/+1)
+              /><a href="/techs/Scale_Mail_Armor">步兵鱗甲</a>(+1/+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
-              /><a href="Chain_Mail_Armor.php">步兵鎖甲</a>(+1/+1)
+              /><a href="/techs/Chain_Mail_Armor">步兵鎖甲</a>(+1/+1)
               <br />
               <img
                 class="gg"
                 src="~assets/Platemailarmor.jpg"
                 width="30"
                 alt=""
-              /><a href="Plate_Mail_Armor.php">步兵板甲</a>(+1/+2)
+              /><a href="/techs/Plate_Mail_Armor">步兵板甲</a>(+1/+2)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
               <img class="gg" src="~assets/Squires.jpg" width="30" alt="" /><a
-                href="Squires.php"
+                href="/techs/Squires"
                 >護衛</a
               >(+10%)
             </td>
@@ -150,7 +154,7 @@
             <td class="tta1" style="width:10%">視野</td>
             <td class="tta4">
               <img class="gg" src="~assets/Tracking.jpg" width="30" alt="" /><a
-                href="Tracking.php"
+                href="/techs/Tracking"
                 >追縱技術</a
               >(+2)
             </td>
@@ -159,12 +163,12 @@
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" width="30" alt="" /><a
-                href="Faith.php"
+                href="/techs/Faith"
                 >忠誠信仰</a
               >
               <br />
               <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="Heresy.php"
+                href="/techs/Heresy"
                 >異端邪說</a
               >
             </td>
@@ -177,15 +181,15 @@
                 src="~assets/Conscription.jpg"
                 width="30"
                 alt=""
-              /><a href="Conscription.php">徵兵制度</a>(+33%)
+              /><a href="/techs/Conscription">徵兵制度</a>(+33%)
               <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><a href="Perfusion.php">灌注士氣</a>:兵營工作速率加快2倍，<a
-                href="Goths.php"
+              /><a href="/techs/Perfusion">灌注士氣</a>:兵營工作速率加快2倍，<a
+                href="/civs/Goths"
                 >哥德</a
               >限定。
             </td>
@@ -198,8 +202,8 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><a href="Forced_Levy.php">強制徵兵</a
-              >:軍營步兵單位訓練不需花黃金，<a href="Malay.php">馬來</a>限定。
+              /><a href="/techs/Forced_Levy">強制徵兵</a
+              >:軍營步兵單位訓練不需花黃金，<a href="/civs/Malay">馬來</a>限定。
             </td>
           </tr>
         </table>
@@ -218,21 +222,21 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    /><a href="Cannon_Galleon.php">火砲戰船</a>→
+                    /><a href="/units/Cannon_Galleon">火砲戰船</a>→
                     <img
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    /><a href="Elite_Cannon_Galleon.php">精銳火砲戰船</a>
+                    /><a href="/Elite_units/Cannon_Galleon">精銳火砲戰船</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/CataphractIcon.jpg" alt="" /><a
-                      href="Cataphract.php"
+                      href="/units/Cataphract"
                       >精銳聖騎兵</a
-                    >(<a href="Byzantines.php">拜占庭</a>限定)
+                    >(<a href="/civs/Byzantines">拜占庭</a>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong></div>
@@ -242,8 +246,8 @@
                       class="gg"
                       src="~assets/JaguarWarriorIcon.jpg"
                       alt=""
-                    /><a href="Jaguar_Warrior.php">精銳豹勇士</a>(<a
-                      href="Aztecs.php"
+                    /><a href="/units/Jaguar_Warrior">精銳豹勇士</a>(<a
+                      href="/civs/Aztecs"
                       >阿茲特克</a
                     >限定)
                   </li>
@@ -255,21 +259,21 @@
                       class="gg"
                       src="~assets/HandCannoneerIcon.jpg"
                       alt=""
-                    /><a href="Hand_Cannoneer.php">火槍兵</a>
+                    /><a href="/units/Hand_Cannoneer">火槍兵</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/Slingericon.png" alt="" /><a
-                      href="Slinger.php"
+                      href="/units/Slinger"
                       >投石手</a
-                    >(<a href="Incas.php">印加</a>限定)
+                    >(<a href="/civs/Incas">印加</a>限定)
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/JaguarWarriorIcon.jpg"
                       alt=""
-                    /><a href="Jaguar_Warrior.php">豹勇士</a>(<a
-                      href="Aztecs.php"
+                    /><a href="/units/Jaguar_Warrior">豹勇士</a>(<a
+                      href="/civs/Aztecs"
                       >阿茲特克</a
                     >限定)
                   </li>
@@ -280,9 +284,9 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/CataphractIcon.jpg" alt="" /><a
-                      href="Cataphract.php"
+                      href="/units/Cataphract"
                       >聖騎兵</a
-                    >(<a href="Byzantines.php">拜占庭</a>限定)
+                    >(<a href="/civs/Byzantines">拜占庭</a>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
@@ -292,8 +296,8 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><a href="Plumed_Archer.php">精銳羽毛箭射手</a>(<a
-                      href="Mayans.php"
+                    /><a href="/Plumed_units/Archer">精銳羽毛箭射手</a>(<a
+                      href="/civs/Mayans"
                       >馬雅</a
                     >限定)
                   </li>
@@ -305,8 +309,8 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><a href="Plumed_Archer.php">羽毛箭射手</a>(<a
-                      href="Mayans.php"
+                    /><a href="/Plumed_units/Archer">羽毛箭射手</a>(<a
+                      href="/civs/Mayans"
                       >馬雅</a
                     >限定)
                   </li>
@@ -317,18 +321,18 @@
           技術:以下技術會給以下單位對裝甲步兵有額外攻擊。
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <a href="Parthian_Tactics.php">後勤學</a>
+            <a href="/techs/Parthian_Tactics">後勤學</a>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
                 <img class="gg" src="~assets/CataphractIcon.jpg" alt="" /><a
-                  href="Cataphract.php"
+                  href="/units/Cataphract"
                 >
                   聖騎兵</a
                 >→ <img class="gg" src="~assets/CataphractIcon.jpg" alt="" /><a
-                  href="Cataphract.php"
+                  href="/units/Cataphract"
                   >精銳聖騎兵</a
-                >(<a href="Byzantines.php">拜占庭</a>限定)
+                >(<a href="/civs/Byzantines">拜占庭</a>限定)
               </li>
             </ul>
           </div>
@@ -337,57 +341,62 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><a href="Aztecs.php">阿茲特克</a>：民兵生產速度提高15％。</li>
+            <li><a href="/civs/Aztecs">阿茲特克</a>：民兵生產速度提高15％。</li>
             <li>
-              <a href="Burmese.php">緬甸</a>：民兵在封建/城堡/帝王時代有
+              <a href="/civs/Burmese">緬甸</a>：民兵在封建/城堡/帝王時代有
               +1/+2/+3攻擊。
             </li>
-            <li><a href="Celts.php">賽爾特</a>：民兵移動加快15％。</li>
+            <li><a href="/civs/Celts">賽爾特</a>：民兵移動加快15％。</li>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：利於民兵的技術在封建/城堡/帝王時代便宜10％/15％/20％。
             </li>
             <li>
-              <a href="Goths.php">哥德</a>：民兵從封建時代開始便宜35％並對<a
-                href="Armor_Class_Building.php"
+              <a href="/civs/Goths">哥德</a>：民兵從封建時代開始便宜35％並對<a
+                href="/armor/Armor_Class_Building"
                 >建築物</a
-              >攻擊+1。研發 <a href="Perfusion.php">灌注士氣</a>後研發<a
-                href="Tracking.php"
+              >攻擊+1。研發 <a href="/techs/Perfusion">灌注士氣</a>後研發<a
+                href="/techs/Tracking"
                 >追縱技術</a
-              >、<a href="Squires.php">護衛</a>、
-              <a href="Arson.php">縱火</a>和升級裝甲步兵的速度快100%。
+              >、<a href="/techs/Squires">護衛</a>、
+              <a href="/techs/Arson">縱火</a>和升級裝甲步兵的速度快100%。
             </li>
             <li>
-              <a href="Japanese.php">日本</a>：民兵攻速快33％(從封建時代開始)。
+              <a href="/civs/Japanese">日本</a
+              >：民兵攻速快33％(從封建時代開始)。
             </li>
             <li>
-              <a href="Magyars.php">馬札爾</a>：免費升級<a href="Forging.php"
+              <a href="/civs/Magyars">馬札爾</a>：免費升級<a
+                href="/techs/Forging"
                 >鍛造</a
-              >、<a href="Iron_Casting.php">鑄造</a>和
-              <a href="Blast_Furnace.php">鼓風爐</a>。
+              >、<a href="/techs/Iron_Casting">鑄造</a>和
+              <a href="/techs/Blast_Furnace">鼓風爐</a>。
             </li>
             <li>
-              <a href="Malians.php">馬利</a>：民兵在封建/城堡/帝王時代有
+              <a href="/civs/Malians">馬利</a>：民兵在封建/城堡/帝王時代有
               +1/+2/+3 遠程護甲。
             </li>
-            <li><a href="Portuguese.php">葡萄牙</a>：民兵黃金成本減少15％。</li>
             <li>
-              <a href="Slavs.php">斯拉夫</a>：免費<a href="Tracking.php"
+              <a href="/civs/Portuguese">葡萄牙</a>：民兵黃金成本減少15％。
+            </li>
+            <li>
+              <a href="/civs/Slavs">斯拉夫</a>：免費<a href="/techs/Tracking"
                 >追縱技術</a
               >。
             </li>
             <li>
-              <a href="Spanish.php">西班牙</a>：<a href="Blacksmith.php"
+              <a href="/civs/Spanish">西班牙</a>：<a href="/building/Blacksmith"
                 >兵工廠</a
               >對長槍兵有利的科技升級不須黃金。
             </li>
             <li>
-              <a href="Vietnamese.php">越南</a>：免費<a href="Conscription.php"
+              <a href="/civs/Vietnamese">越南</a>：免費<a
+                href="/techs/Conscription"
                 >徵兵制度</a
               >。
             </li>
             <li>
-              <a href="Vikings.php">維京</a
+              <a href="/civs/Vikings">維京</a
               >：民兵在封建/城堡/帝王時代加10％/15％/20％的生命值。
             </li>
           </ul>
@@ -397,68 +406,72 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
-              >能夠加速<a href="Conscription.php">徵兵制度</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
+              >能夠加速<a href="/techs/Conscription">徵兵制度</a
               >、的研究時間(快25%)。
             </li>
             <li>
-              <a href="Goths.php">哥德</a>：民兵訓練和升級快20%。研發<a
-                href="Tracking.php"
+              <a href="/civs/Goths">哥德</a>：民兵訓練和升級快20%。研發<a
+                href="/techs/Tracking"
                 >追縱技術</a
-              >、 <a href="Squires.php">護衛</a>、<a href="Arson.php">縱火</a
+              >、 <a href="/techs/Squires">護衛</a>、<a href="/techs/Arson"
+                >縱火</a
               >科技的時間快20%。
             </li>
-            <li><a href="Teutons.php">條頓</a>：民兵更不容易被招降。</li>
+            <li><a href="/civs/Teutons">條頓</a>：民兵更不容易被招降。</li>
           </ul>
         </div>
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aok.php">帝王世紀</a></em>
+            <em><a href="/games/aok">帝王世紀</a></em>
           </h3>
           <ul>
             <li>民兵遠防是0。</li>
             <li>
-              <a href="Goths.php">哥德</a
+              <a href="/civs/Goths">哥德</a
               >:在封建/城堡/帝王時代，民兵成本便宜10%/15%/25%。
             </li>
           </ul>
           <h3>
-            <em><a href="aoc.php">征服者入侵</a></em>
+            <em><a href="/games/aoc">征服者入侵</a></em>
           </h3>
           <ul>
             <li>民兵現在擁有1的遠防。</li>
-            <li>引入<a href="Heresy.php">異端邪說</a>。</li>
+            <li>引入<a href="/techs/Heresy">異端邪說</a>。</li>
             <li>
-              <a href="Goths.php">哥德</a
+              <a href="/civs/Goths">哥德</a
               >:1.0c後，哥德民兵從封建時代開始便宜35%。
             </li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
-            <li>新科技<a href="Arson.php">縱火</a>引進。</li>
+            <li>新科技<a href="/techs/Arson">縱火</a>引進。</li>
             <li>
-              <a href="Vikings.php">維京</a>:4.8版本引進<a href="Chieftains.php"
+              <a href="/civs/Vikings">維京</a>:4.8版本引進<a
+                href="/techs/Chieftains"
                 >酋長</a
               >科技，民兵對
-              <a href="Armor_Class_Cavalry.php">騎兵單位</a>有+5攻擊。
+              <a href="/armor/Armor_Class_Cavalry">騎兵單位</a>有+5攻擊。
             </li>
             <li>
-              <a href="Vikings.php">維京</a>:在4.8b版本後，<a
-                href="Chieftains.php"
+              <a href="/civs/Vikings">維京</a>:在4.8b版本後，<a
+                href="/techs/Chieftains"
                 >酋長</a
               >讓民兵對駱駝有額外+2攻擊。
             </li>
           </ul>
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>
-              <a href="Vikings.php">維京</a>:5.7版本<a href="Chieftains.php"
+              <a href="/civs/Vikings">維京</a>:5.7版本<a
+                href="/techs/Chieftains"
                 >酋長</a
               >科技現在讓民兵對駱駝有額外+4攻擊。
             </li>
@@ -471,7 +484,8 @@
             <li>民兵是遊戲內唯一，三階以上升級的單位。</li>
             <li>民兵是黑暗時代唯一的軍事單位。</li>
             <li>
-              馬來的民兵再研發<a href="Forced Levy.php">強制徵兵</a>後不用黃金。
+              馬來的民兵再研發<a href="/Forced Levy.php">強制徵兵</a
+              >後不用黃金。
             </li>
             <li>
               民兵是遊戲中少數四個沒有任何攻擊加成的單位。（另外三個是遊俠、貴族鐵騎與龜甲船）。
@@ -483,7 +497,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Militialine.png"
+              <a href="/img/Militialine.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -493,7 +507,7 @@
               <p><em>民兵升級列表</em></p>
             </div>
             <div class="col-md-4">
-              <a href="img/Militia.png"
+              <a href="/img/Militia.png"
                 ><img
                   class="imgn hg"
                   width="250"
@@ -526,7 +540,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><a href="Infantry_Units.php">步兵</a></td>
+            <td class="unit4"><a href="/units/Infantry_Units">步兵</a></td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -536,7 +550,7 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Dark-age-logo-small.jpg" alt="" /><a
-                href="Dark_Age.php"
+                href="/techsage/Dark_Age"
                 >黑暗時代</a
               >
             </td>
@@ -545,7 +559,7 @@
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Barracks-logo.jpg" alt="" /><a
-                href="Barracks-logo.php"
+                href="/Barracks-logo.php"
                 >軍營</a
               >
             </td>
@@ -594,7 +608,9 @@
           </tr>
           <tr>
             <td class="unit3">防禦類型</td>
-            <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a></td>
+            <td class="unit4">
+              <a href="/armor/Armor_Class_Infantry">步兵</a>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
@@ -613,7 +629,7 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt="" /><a
-                href="Man-at-Arms.php"
+                href="/units/Man-at-Arms"
                 >裝甲步兵</a
               >
             </td>

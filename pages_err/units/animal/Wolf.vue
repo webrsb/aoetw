@@ -12,7 +12,7 @@
           <div class="n1">
             <p>狼是遊戲內的一種野生動物。</p>
             <p>狼是最常見會攻擊人的野生動物，牠有25的生命值與3的攻擊，沒有食物，牠可以咬死沒有織布的村民。</p>
-            <p><a href="Ornlu_the_Wolf">灰狼歐魯</a>是狼的英雄，有20個攻擊與400的生命值。</p>
+            <p><a href="/Ornlu_the_Wolf">灰狼歐魯</a>是狼的英雄，有20個攻擊與400的生命值。</p>
             <p>遊戲難易度會影響狼的視野，最簡單的是遊戲是6，中等與困難的是12。</p>
             <p>馬扎爾的村民可以一擊殺狼。</p>
             <img src="~assets/AoE2_wolf.png" alt="">
@@ -22,7 +22,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#b086b5;">
-                <div class="unititle"><a href="">科摩多巨蜥</a>
+                <div class="unititle"><a href="#">科摩多巨蜥</a>
                 </div>
               </td>
             </tr>

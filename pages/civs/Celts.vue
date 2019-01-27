@@ -31,7 +31,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><a href="">賽爾特</a></div>
+              <div class="unititle"><a href="#">賽爾特</a></div>
             </td>
           </tr>
           <tr>
@@ -44,7 +44,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -150,14 +150,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="cel.php">賽爾特科技樹</a></em>
+          <em><a href="/tree/cel">賽爾特科技樹</a></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>賽爾特狂暴給予攻城武器40%的生命值加成，而非50%了</li>
@@ -169,7 +169,7 @@
         <h3>圖庫</h3>
         <div class="col-md-4">
           <div class="wimg">
-            <a href="img/Woad.jpg"
+            <a href="/img/Woad.jpg"
               ><img class="imgn hg" src="~assets/Woad.jpg" alt=""
             /></a>
           </div>
@@ -178,7 +178,7 @@
         </div>
         <div class="col-md-4">
           <div class="wimg">
-            <a href="img/Wondercelts.png"
+            <a href="/img/Wondercelts.png"
               ><img class="imgn hg" src="~assets/Wondercelts.png" alt=""
             /></a>
           </div>
@@ -187,7 +187,7 @@
         </div>
         <div class="col-md-4">
           <div class="wimg">
-            <a href="img/Celts_in_III_century_BC.jpg"
+            <a href="/img/Celts_in_III_century_BC.jpg"
               ><img
                 class="imgn hg"
                 src="~assets/Celts_in_III_century_BC.jpg"

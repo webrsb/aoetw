@@ -11,10 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            騎士精神是<a href="Franks.php">法蘭克</a>的特殊科技，可於<a
-              href="Castle_Age.php"
+            騎士精神是<a href="/civs/Franks">法蘭克</a>的特殊科技，可於<a
+              href="/techsage/Castle_Age"
               >城堡時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a href="Stable.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/building/Stable"
               >馬廄</a
             >工作效率快40%。
           </p>
@@ -24,7 +25,7 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Knight.php">騎士</a
+              <a href="/units/Knight">騎士</a
               >一直是法蘭克玩家的軍隊核心。騎士精神可讓法蘭克玩家在短時間內創建一支騎兵大軍。如果有至少五~九個馬廄建議就直接研發騎士精神了。雖然研發的成本可以抵過五名騎兵，但如果玩家經濟許可就應該研究，獲得軍事生產的優勢。如果沒有足夠的馬廄而且城鎮遭受攻擊，那麼研發騎士精神加速量產騎士上場作戰也是可行的
             </li>
           </ul>
@@ -34,7 +35,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速騎士精神的研究時間(快25%)。
             </li>
           </ul>
@@ -44,7 +46,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">騎士精神</a></div>
+              <div class="unititle"><a href="#">騎士精神</a></div>
             </td>
           </tr>
           <tr>
@@ -56,18 +58,18 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Franks.php">法蘭克</a></td>
+            <td class="unit4"><a href="/civs/Franks">法蘭克</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -76,7 +78,7 @@
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -87,7 +89,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -100,7 +102,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

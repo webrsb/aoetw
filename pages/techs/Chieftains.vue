@@ -11,13 +11,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            酋長是<a href="Vikings.php">維京</a>的特殊科技，可於<a
-              href="Castle_Age.php"
+            酋長是<a href="/civs/Vikings">維京</a>的特殊科技，可於<a
+              href="/techsage/Castle_Age"
               >城堡時代</a
-            >在城堡研發。研發後 <a href="Infantry_Units.php">步兵</a>對<a
-              href="Armor_Class_Cavalry.php"
+            >在城堡研發。研發後 <a href="/units/Infantry_Units">步兵</a>對<a
+              href="/armor/Armor_Class_Cavalry"
               >騎兵類</a
-            >+5攻擊，對<a href="Armor_Class_Camel.php">駱駝騎兵類</a>+4攻擊。
+            >+5攻擊，對<a href="/armor/Armor_Class_Camel">駱駝騎兵類</a>+4攻擊。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -25,9 +25,9 @@
         <div class="n1">
           <ul>
             <li>
-              除了<a href="Teutonic_Knight.php">條頓武士</a
+              除了<a href="/Teutonic_units/Knight">條頓武士</a
               >，狂戰士是遊戲中最耐打的步兵。研發酋長讓狂戰士也能對抗騎兵；然而使用
-              <a href="Pikeman.php">重裝長槍兵</a
+              <a href="/units/Pikeman">重裝長槍兵</a
               >對付騎兵還是更有效益。另外弓箭手對狂戰士來說仍舊是個威脅。
             </li>
           </ul>
@@ -37,7 +37,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速酋長的研究時間(快25%)。
             </li>
           </ul>
@@ -46,43 +47,44 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>研發酋長需要700肉400金。</li>
             <li>
-              酋長給<a href="Berserk.php">狂戰士</a>對<a
-                href="Armor_Class_Cavalry.php"
+              酋長給<a href="/units/Berserk">狂戰士</a>對<a
+                href="/armor/Armor_Class_Cavalry"
                 >騎兵類</a
               >攻擊+4。
             </li>
             <li>酋長只會影響狂戰士。</li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
             <li>研發酋長現在需要400肉300金。</li>
             <li>
-              酋長現在給<a href="Berserk.php">狂戰士</a>對<a
-                href="Armor_Class_Cavalry.php"
+              酋長現在給<a href="/units/Berserk">狂戰士</a>對<a
+                href="/armor/Armor_Class_Cavalry"
                 >騎兵類</a
               >攻擊+5。
             </li>
             <li>4.8改版後酋長會影響所有步兵單位。</li>
             <li>
               4.8b改版後酋長現在會給所有步兵單位對<a
-                href="Armor_Class_Camel.php"
+                href="/armor/Armor_Class_Camel"
                 >駱駝騎兵類</a
               >攻擊+2。
             </li>
           </ul>
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>
-              5.7改版後酋長現在會給所有步兵單位對<a href="Armor_Class_Camel.php"
+              5.7改版後酋長現在會給所有步兵單位對<a
+                href="/armor/Armor_Class_Camel"
                 >駱駝騎兵類</a
               >攻擊+<strong>4</strong>。
             </li>
@@ -93,8 +95,8 @@
         <div class="n1">
           <ul>
             <li>
-              酋長在<a href="ak.php">《世紀帝國II:非洲王國》</a
-              >時因為bug而沒有給所有步兵單位對<a href="Armor_Class_Camel.php"
+              酋長在<a href="/games/ak">《世紀帝國II:非洲王國》</a
+              >時因為bug而沒有給所有步兵單位對<a href="/armor/Armor_Class_Camel"
                 >駱駝騎兵類</a
               >攻擊+2。之後在4.8b改版後修正。
             </li>
@@ -105,7 +107,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">酋長</a></div>
+              <div class="unititle"><a href="#">酋長</a></div>
             </td>
           </tr>
           <tr>
@@ -117,18 +119,18 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Vikings.php">維京</a></td>
+            <td class="unit4"><a href="/civs/Vikings">維京</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castle-age-reseach.jpg" alt="" /><a
-                href="Castle_Age.php"
+                href="/techsage/Castle_Age"
                 >城堡時代</a
               >
             </td>
@@ -141,7 +143,7 @@
                 src="~assets/Castleicon.png"
                 width="45"
                 alt=""
-              /><a href="Castle.php">城堡</a>
+              /><a href="/building/Castle">城堡</a>
             </td>
           </tr>
           <tr>
@@ -150,7 +152,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -163,7 +165,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

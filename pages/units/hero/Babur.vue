@@ -33,7 +33,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">希爾丁·穆罕默德·巴布爾</a></div>
+              <div class="unititle"><a href="#">希爾丁·穆罕默德·巴布爾</a></div>
             </td>
           </tr>
           <tr>
@@ -51,7 +51,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <a href="">騎兵<br />英雄</a>
+              <a href="#">騎兵<br />英雄</a>
             </td>
           </tr>
           <tr>
@@ -114,7 +114,7 @@
               <i
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E5%B0%94"
+                    href="/https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E5%B0%94"
                     >查希爾丁·穆罕默德·巴布爾</a
                   ></strong
                 ></i

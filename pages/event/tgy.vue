@@ -89,7 +89,7 @@
                 aria-hidden="true"
               ></span>
               <a
-                href="https://drive.google.com/open?id=1x2S0bZgfmJ25tHMqPi_fJmbbPUNHBBWTkaCB6qCt-jc"
+                href="/https://drive.google.com/open?id=1x2S0bZgfmJ25tHMqPi_fJmbbPUNHBBWTkaCB6qCt-jc"
                 >贊助名單</a
               >
             </p>
@@ -99,7 +99,7 @@
                 aria-hidden="true"
               ></span>
               <a
-                href="https://drive.google.com/open?id=1HwwwvoFoh6av2Gdoh80EZlkeSGldeGgY"
+                href="/https://drive.google.com/open?id=1HwwwvoFoh6av2Gdoh80EZlkeSGldeGgY"
                 >工作人員名單</a
               >
             </p>

@@ -28,7 +28,7 @@
                 width="25px"
                 src="~assets/Stonewallicon.png"
                 alt=""
-              /><a href="Stone_Wall.php">石牆</a>
+              /><a href="/building/Stone_Wall">石牆</a>
             </li>
             <li>
               <img
@@ -36,7 +36,7 @@
                 width="25px"
                 src="~assets/Stonewallicon.png"
                 alt=""
-              /><a href="Fortified_Wall.php">垛牆</a>
+              /><a href="/building/Fortified_Wall">垛牆</a>
             </li>
             <li>
               <img
@@ -44,7 +44,7 @@
                 width="25px"
                 src="~assets/Gateicon.png"
                 alt=""
-              /><a href="Gateicon_Gate.php">城門</a>
+              /><a href="/building/Gateicon_Gate">城門</a>
             </li>
             <li>
               <img
@@ -52,7 +52,7 @@
                 width="25px"
                 src="~assets/Watchtowericon.png"
                 alt=""
-              /><a href="Watch_Tower.php">暸望箭塔</a>
+              /><a href="/units/Watch_Tower">暸望箭塔</a>
             </li>
             <li>
               <img
@@ -60,7 +60,7 @@
                 width="25px"
                 src="~assets/Watchtowericon.png"
                 alt=""
-              /><a href="Guard_Tower.php">防禦箭塔</a>
+              /><a href="/units/Guard_Tower">防禦箭塔</a>
             </li>
             <li>
               <img
@@ -68,7 +68,7 @@
                 width="25px"
                 src="~assets/Watchtowericon.png"
                 alt=""
-              /><a href="Keep.php">大型箭塔</a>
+              /><a href="/units/Keep">大型箭塔</a>
             </li>
             <li>
               <img
@@ -76,7 +76,7 @@
                 width="25px"
                 src="~assets/Bombardtowericon.png"
                 alt=""
-              /><a href="Bombard_Tower.php">火炮塔</a>
+              /><a href="/building/Bombard_Tower">火炮塔</a>
             </li>
             <li>
               <img
@@ -84,7 +84,7 @@
                 width="25px"
                 src="~assets/Dockicon.png"
                 alt=""
-              /><a href="">巨港</a>(<a href="Malians.php">馬來</a>限定)
+              /><a href="#">巨港</a>(<a href="/civs/Malians">馬來</a>限定)
             </li>
           </ul>
         </div>
@@ -103,7 +103,7 @@
                       style="margin: 2px;"
                       src="~assets/BombardCannonIcon.jpg"
                       alt=""
-                    /><a href="Bombard_Cannon.php">火砲</a>
+                    /><a href="/units/Bombard_Cannon">火砲</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+12攻擊</strong></div>
@@ -114,13 +114,14 @@
                       style="margin: 2px;"
                       src="~assets/TarkanIcon.jpg"
                       alt=""
-                    /><a href="Tarkan.php">韃靼騎兵</a>→
+                    /><a href="/units/Tarkan">韃靼騎兵</a>→
                     <img
                       class="gg"
                       style="margin: 2px;"
                       src="~assets/TarkanIcon.jpg"
                       alt=""
-                    /><a href="Tarkan.php">精銳韃靼騎兵</a>(<a href="Huns.php"
+                    /><a href="/units/Tarkan">精銳韃靼騎兵</a>(<a
+                      href="/civs/Huns"
                       >匈奴</a
                     >限定)
                   </li>
@@ -133,7 +134,7 @@
                       style="margin: 2px;"
                       src="~assets/Battleelephanticon.png"
                       alt=""
-                    /><a href="Battle_Elephant.php">精銳矛象伕</a>
+                    /><a href="/units/Battle_Elephant">精銳矛象伕</a>
                   </li>
                   <li>
                     <img
@@ -142,8 +143,8 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="War_Elephant.php">精銳波斯戰象</a>(<a
-                      href="Persians.php"
+                    /><a href="/War_unitsanimal/Elephant">精銳波斯戰象</a>(<a
+                      href="/civs/Persians"
                       >波斯</a
                     >限定)
                   </li>
@@ -156,7 +157,7 @@
                       style="margin: 2px;"
                       src="~assets/Battleelephanticon.png"
                       alt=""
-                    /><a href="Battle_Elephant.php">矛象伕</a>
+                    /><a href="/units/Battle_Elephant">矛象伕</a>
                   </li>
                   <li>
                     <img
@@ -165,8 +166,8 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="War_Elephant.php">波斯戰象</a>(<a
-                      href="Persians.php"
+                    /><a href="/War_unitsanimal/Elephant">波斯戰象</a>(<a
+                      href="/civs/Persians"
                       >波斯</a
                     >限定)
                   </li>
@@ -181,7 +182,7 @@
                       style="margin: 2px;"
                       src="~assets/VillagerMaleIcon.jpg"
                       alt=""
-                    /><a href="Villager.php">村民</a>
+                    /><a href="/units/Villager">村民</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -192,8 +193,8 @@
                       style="margin: 2px;"
                       src="~assets/ElephantArcherIcon.jpg"
                       alt=""
-                    /><a href="Elephant_Archer.php">精銳象弓騎兵</a>(<a
-                      href="Indians.php"
+                    /><a href="/Elephant_units/Archer">精銳象弓騎兵</a>(<a
+                      href="/civs/Indians"
                       >印度</a
                     >限定)
                   </li>
@@ -203,8 +204,8 @@
                       style="margin: 2px;"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><a href="Ballista_Elephant.php">精銳弩炮象</a>(<a
-                      href="Khmer.php"
+                    /><a href="/Ballista_unitsanimal/Elephant">精銳弩炮象</a>(<a
+                      href="/civs/Khmer"
                       >高棉</a
                     >限定)
                   </li>
@@ -217,8 +218,8 @@
                       style="margin: 2px;"
                       src="~assets/ElephantArcherIcon.jpg"
                       alt=""
-                    /><a href="Elephant_Archer.php">象弓騎兵</a>(<a
-                      href="Indians.php"
+                    /><a href="/Elephant_units/Archer">象弓騎兵</a>(<a
+                      href="/civs/Indians"
                       >印度</a
                     >限定)
                   </li>
@@ -228,8 +229,8 @@
                       style="margin: 2px;"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><a href="Ballista_Elephant.php">弩炮象</a>(<a
-                      href="Khmer.php"
+                    /><a href="/Ballista_unitsanimal/Elephant">弩炮象</a>(<a
+                      href="/civs/Khmer"
                       >高棉</a
                     >限定)
                   </li>
@@ -245,7 +246,7 @@
           <div class="n1">
             <p>
               <img class="gg" src="~assets/Sappers.jpg" width="22" alt="" /><a
-                href="Sappers.php"
+                href="/techs/Sappers"
                 >坑道工兵</a
               >
             </p>
@@ -257,7 +258,7 @@
                   style="margin: 2px;"
                   src="~assets/VillagerMaleIcon.jpg"
                   alt=""
-                /><a href="Villager.php">村民</a>
+                /><a href="/units/Villager">村民</a>
               </li>
             </ul>
             <p>
@@ -266,7 +267,7 @@
                 src="~assets/CastleAgeUnique.png"
                 width="22"
                 alt=""
-              /><a href="Sappers.php">黑曜石之弓</a>(<a href="Mayans.php"
+              /><a href="/techs/Sappers">黑曜石之弓</a>(<a href="/civs/Mayans"
                 >馬雅</a
               >限定)
             </p>
@@ -274,13 +275,13 @@
               <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
               <li>
                 <img class="gg" src="~assets/ArcherIcon.jpg" alt="" /><a
-                  href="Archer.php"
+                  href="/units/Archer"
                   >弓兵</a
                 >→ <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt="" /><a
-                  href="Crossbowman.php"
+                  href="/units/Crossbowman"
                   >弩兵</a
                 >→ <img class="gg" src="~assets/ArbalestIcon.jpg" alt="" /><a
-                  href="Arbalest.php"
+                  href="/units/Arbalest"
                   >強弩兵</a
                 >
               </li>

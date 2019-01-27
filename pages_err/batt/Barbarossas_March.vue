@@ -85,11 +85,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="The_Lombard_League.php">倫巴聯盟</a> 
+              <td class="unit4"> <a href="/batt/The_Lombard_League">倫巴聯盟</a> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="The_Emperor_Sleeping.php">沉睡的皇帝</a> 
+              <td class="unit4"> <a href="/batt/The_Emperor_Sleeping">沉睡的皇帝</a> 
               </td>
             </tr>
           </table>
@@ -104,7 +104,7 @@
           <ul>
             <li><strong>起始時代：</strong>
               <img class="gg" src="~assets/Imperial-age-research.jpg"
-              class="gg" alt=""><a href="Imperial_Age.php">帝王時代</a>
+              class="gg" alt=""><a href="/techsage/Imperial_Age">帝王時代</a>
             </li>
             <li><strong>起始資源：</strong>無</li>
             <li><strong>人口上限：</strong>72</li>
@@ -114,38 +114,38 @@
            <h3>起始單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/PikemanIcon.jpg" alt=""> <a href="Pikeman.php">重裝長槍兵</a> 24</li>
+              <img class="gg" src="~assets/PikemanIcon.jpg" alt=""> <a href="/units/Pikeman">重裝長槍兵</a> 24</li>
             <li>
-              <img class="gg" src="~assets/Crusade_avatar.png" alt=""><a href="Teutonic_Knight.php">條頓武士</a> 14</li>
+              <img class="gg" src="~assets/Crusade_avatar.png" alt=""><a href="/Teutonic_units/Knight">條頓武士</a> 14</li>
             <li>
-              <img class="gg" src="~assets/PaladinIcon.jpg" alt=""> <a href="Paladin.php">遊俠</a> 12</li>
+              <img class="gg" src="~assets/PaladinIcon.jpg" alt=""> <a href="/units/Paladin">遊俠</a> 12</li>
             <li>
-              <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""> <a href="Crossbowman.php">弩兵</a> 10</li>
+              <img class="gg" src="~assets/CrossbowmanIcon.jpg" alt=""> <a href="/units/Crossbowman">弩兵</a> 10</li>
             <li>
-              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a> 3</li>
+              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="/units/Monk">僧侶</a> 3</li>
             <li>
-              <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt=""> <a href="Siege_Onager.php">重型投石車</a>中型投石車</a>2</li>
+              <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt=""> <a href="/Siege_units/Onager">重型投石車</a>中型投石車</a>2</li>
             <li>
-              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">投石機</a> 3</li>
+              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="/units/Trebuchet">投石機</a> 3</li>
             <li>
-              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="Scout_Cavalry.php">斥侯</a> 2</li>
+              <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt=""> <a href="/units/Scout_Cavalry">斥侯</a> 2</li>
           </ul>
         </div>
         <div class="col-md-4">
            <h3>大地之母</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="Throwing_Axeman.php">擲斧兵</a> 6</li>
+              <img class="gg" src="~assets/TAXEM.jpg" alt=""><a href="/units/Throwing_Axeman">擲斧兵</a> 6</li>
             <li>
-              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt=""> <a href="Heavy_Cavalry_Archer.php">重裝馬弓騎兵</a> 4</li>
+              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt=""> <a href="/Heavy_Cavalry_units/Archer">重裝馬弓騎兵</a> 4</li>
             <li>
-              <img class="gg" src="~assets/TransportShipIcon.jpg" alt=""> <a href="Transport_Ship.php">運輸船</a> 4</li>
+              <img class="gg" src="~assets/TransportShipIcon.jpg" alt=""> <a href="/units/Transport_Ship">運輸船</a> 4</li>
             <li>
-              <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt=""> <a href="Siege_Onager.php">重型投石車</a>中型投石車</a>4</li>
+              <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt=""> <a href="/Siege_units/Onager">重型投石車</a>中型投石車</a>4</li>
             <li>
-              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="Monk.php">僧侶</a> 2</li>
+              <img class="gg" src="~assets/MonkIcon.jpg" alt=""> <a href="/units/Monk">僧侶</a> 2</li>
             <li>
-              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="Trebuchet.php">投石機</a> 1</li>
+              <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt=""> <a href="/units/Trebuchet">投石機</a> 1</li>
           </ul>
         </div>
       </div>

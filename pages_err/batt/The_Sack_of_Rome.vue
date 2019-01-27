@@ -62,20 +62,20 @@
                 "> <ul>  <li>這是阿拉里克系列中唯一一場玩家能夠晉級到帝王時代的戰役，    也是唯一一場沒有控制阿拉里克本人的戰役。</li><li>這場戰役有個彩蛋：羅馬城的東邊，有個精銳擲斧兵名叫考利，就在被清空的樹林中央。如果他被選取，他會大叫要移除所有樹木。這片被砍伐的樹林，玩家可以透過研發間諜或是打入密技來發現。</li><li>原版失落帝國MOD中，在阿拉里克派出信使的部分裡，有三個"不法之徒
                 "(名稱就叫OUTLW的弓兵)會在玩家接受信使時，直接在旁邊生成，然後攻擊信使。但是他們很弱，可以一刀就殺死。而這些不法之徒原本是被設計成會隨機生成在貿易路線旁，用來攻擊村民跟貿易車隊的，但後來設計失敗了。</li><li>阿陶爾夫在414年跟加拉·普拉西提阿結婚，在阿拉里克死後繼承了西哥德王位。</li></ul></div></div></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="
+                ">       <div class="unititle "><a href="/
                 ">洗劫羅馬</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Alaric 4.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">失落的帝國</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">阿拉里克</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href=" ">哥德人</a></td>      </tr>
+                ">文明</td>       <td class="unit4 "><a href="/ ">哥德人</a></td>      </tr>
 <tr><td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="
+                "><a href="/
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
-                ">失落帝國第一章之四</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="Emperor_of_the_West.php
-                ">西域之君</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="
+                ">失落帝國第一章之四</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="/batt/Emperor_of_the_West
+                ">西域之君</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/
                 ">N/A</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由裕暉，Dennis協助編輯     </div>     <div class="row
                 ">  <div class="col-md-12
                 ">    </div>     </div>  </div></div>      </div>    

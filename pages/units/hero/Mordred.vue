@@ -46,17 +46,20 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="bulding.php">建築物</a>，<a href="Skirmisher.php">矛兵</a
-              >，大部分近戰單位， <a href="Bombard_Cannon.php">火炮</a>。
+              <a href="/building/bulding">建築物</a>，<a
+                href="/units/Skirmisher"
+                >矛兵</a
+              >，大部分近戰單位， <a href="/units/Bombard_Cannon">火炮</a>。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <a href="Spearman.php">槍兵</a>系，<a href="Kamayuk.php">槍隊長</a
-              >，<a href="Mameluke.php">奴隸兵</a>，
-              <a href="Camel.php">駱駝騎兵</a>，<a
-                href="Genoese_Crossbowman.php"
+              <a href="/units/Spearman">槍兵</a>系，<a href="/units/Kamayuk"
+                >槍隊長</a
+              >，<a href="/units/Mameluke">奴隸兵</a>，
+              <a href="/units/Camel">駱駝騎兵</a>，<a
+                href="/Genoese_units/Crossbowman"
                 >熱那亞弩手</a
               >
             </td>
@@ -71,19 +74,19 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Forging.jpg" width="30" alt="" /><a
-                  href="Forging.php"
+                  href="/techs/Forging"
                   >鍛造</a
                 >(+1)
               </p>
               <p>
                 <img src="~assets/Ironcasting.jpg" width="30" alt="" /><a
-                  href="Iron_Casting.php"
+                  href="/techs/Iron_Casting"
                   >鑄造</a
                 >(+1)
               </p>
               <p>
                 <img src="~assets/Blastfurnace.jpg" width="30" alt="" /><a
-                  href="Blast_Furnace.php"
+                  href="/techs/Blast_Furnace"
                   >鼓風爐</a
                 >(+2)
               </p>
@@ -94,19 +97,19 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Scalebardingarmor.jpg" width="30" alt="" /><a
-                  href="Scale_Barding_Armor.php"
+                  href="/techs/Scale_Barding_Armor"
                   >騎兵鱗甲</a
                 >(+1/+1)
               </p>
               <p>
                 <img src="~assets/Chainbardingarmor.jpg" width="30" alt="" /><a
-                  href="Chain_Barding_Armor.php"
+                  href="/techs/Chain_Barding_Armor"
                   >騎兵鎖甲</a
                 >(+1/+1)
               </p>
               <p>
                 <img src="~assets/Platebardingarmor.jpg" width="30" alt="" /><a
-                  href="Plate_Barding_Armor.php"
+                  href="/techs/Plate_Barding_Armor"
                   >騎兵板甲</a
                 >(+1/+2)
               </p>
@@ -117,7 +120,7 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Husbandry.jpg" width="30" alt="" /><a
-                  href="Husbandry.php"
+                  href="/techs/Husbandry"
                   >畜牧培育</a
                 >(+10%)
               </p>
@@ -129,7 +132,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">莫德雷德</a></div>
+              <div class="unititle"><a href="#">莫德雷德</a></div>
             </td>
           </tr>
           <tr>
@@ -294,7 +297,7 @@
             <span class="we"
               ><br /><strong
                 ><a
-                  href="https://zh.wikipedia.org/wiki/%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87#%E3%80%8A%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87%EF%BC%9A%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%8B%E7%89%88%E6%9C%AC"
+                  href="/https://zh.wikipedia.org/wiki/%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87#%E3%80%8A%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87%EF%BC%9A%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%8B%E7%89%88%E6%9C%AC"
                   >抵抗組織-阿瓦隆</a
                 ></strong
               ></span

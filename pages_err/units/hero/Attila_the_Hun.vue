@@ -12,12 +12,12 @@
           <div class="n1">
             <p><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89"><strong>匈奴王阿提拉</strong></a>是
               <a
-              href="Huns.php">匈奴人</a>自434年至453年間的統治者。在《世紀帝國II：征服者入侵》的阿提拉戰役中正是描寫從他崛起到死亡之間的故事。</p>單位特性
-            <hr></hr>阿提拉是一名<a href="Cavalry_Units.php">騎兵</a><a href="heros.php">英雄</a>，他以
+              href="/civs/Huns">匈奴人</a>自434年至453年間的統治者。在《世紀帝國II：征服者入侵》的阿提拉戰役中正是描寫從他崛起到死亡之間的故事。</p>單位特性
+            <hr></hr>阿提拉是一名<a href="/units/Cavalry_Units">騎兵</a><a href="/units/hero">英雄</a>，他以
             <a
-            href="Cataphract.php">拜占庭聖騎兵</a>的外型出現在<a href="Scourge_of_God.php">上帝之鞭</a>和<a href="Fall_of_Rome.php">羅馬的衰落</a>這兩關戰役中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與
+            href="/units/Cataphract">拜占庭聖騎兵</a>的外型出現在<a href="/batt/Scourge_of_God">上帝之鞭</a>和<a href="/batt/Fall_of_Rome">羅馬的衰落</a>這兩關戰役中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與
               <a
-              href="Pope_Leo_I.php">教宗利奧一世</a>會面才能獲勝。作為英雄，他無法被招降而且會自動回血。
+              href="/units/hero/Pope_Leo_I">教宗利奧一世</a>會面才能獲勝。作為英雄，他無法被招降而且會自動回血。
                 <p>
           </div>
         </div>
@@ -25,7 +25,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#d01022;">
-                <div class="unititle"><a href="">匈奴王阿提拉</a>
+                <div class="unititle"><a href="#">匈奴王阿提拉</a>
                 </div>
               </td>
             </tr>
@@ -43,8 +43,8 @@
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><a href="Cavalry_Units.php">騎兵</a>
-                <br/><a href="heros.php">英雄</td>
+              <td class="unit4"><a href="/units/Cavalry_Units">騎兵</a>
+                <br/><a href="/units/hero">英雄</td>
             </tr>
             <tr>
               <td class="unit3">出場</td>
@@ -69,8 +69,8 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<a href="Wild_Boar.php">野豬</a> +40
-                <br/>對<a href="Armor_Class_Building.php">建築</a> +3</td>
+              <td class="unit4">對<a href="/Wild_Boar.php">野豬</a> +40
+                <br/>對<a href="/armor/Armor_Class_Building">建築</a> +3</td>
             </tr>
             <tr>
               <tr>
@@ -85,7 +85,7 @@
                   </tr>
                   <tr>
                     <td class="unit3">防禦類型</td>
-                    <td class="unit4"><a href="Armor_Class_Infantry.php">步兵</a></td>
+                    <td class="unit4"><a href="/armor/Armor_Class_Infantry">步兵</a></td>
                   </tr>
                   <tr>
                     <td class="unit3">跑速</td>

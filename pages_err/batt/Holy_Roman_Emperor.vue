@@ -57,7 +57,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">神聖羅馬皇帝</a>
+                <div class="unititle"><a href="#">神聖羅馬皇帝</a>
                 </div>
               </td>
             </tr>
@@ -70,13 +70,13 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">版本</td>
-              <td class="unit4"><a href="aok.php">帝王世紀</a>
+              <td class="unit4"><a href="/games/aok">帝王世紀</a>
               </td>
             </tr>
             <tr>
@@ -85,12 +85,12 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Teutons.php">條頓人</a>
+              <td class="unit4"><a href="/civs/Teutons">條頓人</a>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">戰役關卡編號</a>
+                <div class="unititle2"><a href="#">戰役關卡編號</a>
                 </div>
               </td>
             </tr>
@@ -100,11 +100,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="">N/A</a> 
+              <td class="unit4"> <a href="#">N/A</a> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="Henry_the_Lion.php">猛獅亨利</a> 
+              <td class="unit4"> <a href="/batt/Henry_the_Lion">猛獅亨利</a> 
               </td>
             </tr>
           </table>
@@ -119,7 +119,7 @@
           <ul>
             <li><strong>起始時代：</strong>
               <img class="gg" src="~assets/Castle-age-reseach.jpg"
-              class="gg" alt=""><a href="Imperial_Age.php">城堡時代</a>
+              class="gg" alt=""><a href="/techsage/Imperial_Age">城堡時代</a>
             </li>
             <li><strong>起始資源：</strong>200木頭，200食物
               <br/>500黃金，500石頭</li>
@@ -130,15 +130,15 @@
           <h3>起始單位</h3>
           <ul>
             <li>
-              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""> <a href="Villager.php">村民</a> 6</li>
+              <img class="gg" src="~assets/VillagerMaleIcon.jpg" alt=""> <a href="/units/Villager">村民</a> 6</li>
             <li>
-              <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""> <a href="Light_Cavalry.php">輕騎兵</a> 1</li>
+              <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""> <a href="/units/Light_Cavalry">輕騎兵</a> 1</li>
             <li>
-              <img class="gg" src="~assets/KnightIcon.jpg" alt=""> <a href="Knight.php">騎士</a> 3</li>
+              <img class="gg" src="~assets/KnightIcon.jpg" alt=""> <a href="/units/Knight">騎士</a> 3</li>
             <li>
-              <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt=""> <a href="Man-at-Arms.php">裝甲步兵</a> 3</li>
+              <img class="gg" src="~assets/ManAtArmsIcon.jpg" alt=""> <a href="/units/Man-at-Arms">裝甲步兵</a> 3</li>
             <li>
-              <img class="gg" src="~assets/MangonelIcon.jpg" alt=""> <a href="Mangonel.php">輕型投石車</a> 1</li>
+              <img class="gg" src="~assets/MangonelIcon.jpg" alt=""> <a href="/units/Mangonel">輕型投石車</a> 1</li>
           </ul>
         </div>
         <div class="col-md-4">

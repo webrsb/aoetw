@@ -12,20 +12,20 @@
             柏柏其實並非單一民族是多個民族的統稱，另外柏柏人這個稱呼本來不是柏柏人自稱的稱呼，而是來自拉丁語中的barbari(野蠻人)。現在柏柏人主要是集中在摩洛哥和阿爾及利亞，歷史上最早紀錄於古埃及前王朝時期，之後斷斷續續有不同國家、文明歷史紀錄有提到跟他們的紛爭和爭戰，比較多柏柏有名的人大多都在安達魯斯是指阿拉伯和北非穆斯林統治下的伊比利亞半島和塞蒂馬尼亞，也指半島被統治的711年－1492年這段時期。這片區域後在收復失地運動中被半島上的基督徒所占領，今天西班牙南部的安達魯西亞因此得名。
           </p>
           <p>
-            柏柏是非洲的騎兵和<a href="Naval_Vessels.php">海軍</a
+            柏柏是非洲的騎兵和<a href="/units/Naval_Vessels">海軍</a
             >文明，世紀帝國II資料片非洲王國的所新增的文明。柏柏的特殊單位是
-            <a href="Camel_Archer.php">駱駝弓騎兵</a
+            <a href="/Camel_units/Archer">駱駝弓騎兵</a
             >這是歷史上真實的兵種曾經多次造成歐洲軍隊的麻煩，另外<a
-              href="Team_Bonus.php"
+              href="/Team_Bonus"
               >團隊加分</a
             >的
-            <a href="Genitour.php">標槍騎兵</a
+            <a href="/units/Genitour">標槍騎兵</a
             >也是歷史上出現過的真實兵種，北非部落多次度過地中海入侵歐洲還占領了伊比利亞半島因此給逾橫越地中海的柏柏人船隻移動速度上升(古時候渡海都是很危險的)，另外作為遊牧民族時常需要建立基地是一個必備的技能因此村民移動速度上升且研發城堡時代特殊科技
-            <a href="Kasbah.php">聚居堡壘</a
-            >可加快城堡工作效率。由於長期得要在沙漠戰鬥<a href="Camel.php"
+            <a href="/techs/Kasbah">聚居堡壘</a
+            >可加快城堡工作效率。由於長期得要在沙漠戰鬥<a href="/units/Camel"
               >駱駝</a
             >幾乎沙漠必備騎乘單位原因是駱駝本身比較不需要水源因此帝王時代特殊科技
-            <a href=" Maghrabi_Camels.php">馬格拉比駱駝</a
+            <a href="/ techs/Maghrabi_Camels">馬格拉比駱駝</a
             >就是體現駱駝強大的沙漠優勢。
           </p>
         </div>
@@ -34,54 +34,55 @@
         <div class="n1">
           <ul>
             <li>
-              柏柏可說是<a href="Cavalry_Archer.php">馬弓騎兵類</a
+              柏柏可說是<a href="/Cavalry_units/Archer">馬弓騎兵類</a
               >的剋星，特殊單位駱駝弓騎兵不但攻擊間隔低又對馬弓騎兵有攻擊加成，更不用說的是柏柏給予同盟的標槍騎兵升級成精銳後也是對馬弓騎兵有更多加成傷害。
             </li>
             <li>
               柏柏擁有2個同盟加成，給予標槍騎兵的使用、城堡時代特殊科技聚居堡壘(你和同盟城堡工作效率+25%)，所以在團隊上的加成僅次於<a
-                href="Vietnamese.php"
+                href="/civs/Vietnamese"
                 >越南</a
               >(3個)。
             </li>
             <li>
-              柏柏雖然貴為馬弓騎兵剋星但是弓兵系統裡缺<a href="Arbalest.php"
+              柏柏雖然貴為馬弓騎兵剋星但是弓兵系統裡缺<a href="/units/Arbalest"
                 >勁弩兵</a
-              >/ <a href="Parthian_Tactics.php">帕提亞戰術</a>。步兵系統則是欠缺
-              <a href="Halberdier.php">戟兵</a
+              >/
+              <a href="/techs/Parthian_Tactics">帕提亞戰術</a>。步兵系統則是欠缺
+              <a href="/units/Halberdier">戟兵</a
               >/美洲獨有鷹勇士，因此在對抗騎兵上只能用自己最驕傲的駱駝了。
             </li>
             <li>
               柏柏雖然在馬廄單位訓練成本城堡時代便宜15%、帝王時代便宜20%(馬扎爾在哭)，但是沒有<a
-                href="Paladin.php"
+                href="/units/Paladin"
                 >遊俠</a
               >(聖騎士)、東南亞獨有
-              <a href="Battle_Elephant.php">矛象伕</a
+              <a href="/units/Battle_Elephant">矛象伕</a
               >，也算是近乎綁定駱駝且因為帝王時代特殊科技馬格拉比駱駝(駱駝單位會自動回血)，因此使用駱駝會比較好。
             </li>
             <li>
-              雖然貴為海軍文明但是卻欠缺了核心科技<a href="Shipwright.php"
+              雖然貴為海軍文明但是卻欠缺了核心科技<a href="/techs/Shipwright"
                 >造船匠</a
               >，使得海軍建立上要花更多資源和時間。
             </li>
             <li>
-              柏柏攻城器上欠缺<a href="Siege_Onager.php">重型投石車</a>/<a
-                href="Siege_Ram.php"
+              柏柏攻城器上欠缺<a href="/Siege_units/Onager">重型投石車</a>/<a
+                href="/units/Siege_Ram"
                 >重型衝撞車</a
-              >，但擁有 <a href="Bombard_Cannon.php">火砲</a>。另外沒有<a
-                href="Bombard_Tower.php"
+              >，但擁有 <a href="/units/Bombard_Cannon">火砲</a>。另外沒有<a
+                href="/building/Bombard_Tower"
                 >火砲塔</a
-              >跟<a href="Keep.php">大型箭塔</a
+              >跟<a href="/units/Keep">大型箭塔</a
               >還有建築學因此在防禦上比較依賴兵力。
             </li>
             <li>
-              柏柏僧侶系統欠缺<a href="Block_Printing.php">雕版印刷術</a>/<a
-                href="Sanctity.php"
+              柏柏僧侶系統欠缺<a href="/techs/Block_Printing">雕版印刷術</a>/<a
+                href="/techs/Sanctity"
                 >聖潔虔誠</a
-              >，因此在 <a href="Conversion.php">招降</a>時危險度上升。
+              >，因此在 <a href="/elements/Conversion">招降</a>時危險度上升。
             </li>
             <li>
               柏柏整體上不管1V1還是團戰都有不錯的戰術方向可以使用，雖然欠缺<a
-                href="Two-Man_Saw.php"
+                href="/techs/Two-Man_Saw"
                 >雙人鋸</a
               >
               但是不錯的經濟加成使得這項問題影響變小一點。
@@ -123,7 +124,7 @@
             <li>船隻移動速度+10%</li>
             <li>馬廄單位訓練成本，城堡時代便宜15%、帝王時代便宜20%</li>
             <li>
-              <strong><a href="  ">團隊加分</a>:</strong
+              <strong><a href="/  ">團隊加分</a>:</strong
               >同盟可以在射箭場訓練標槍騎兵
             </li>
           </ul>
@@ -131,21 +132,21 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="ber.php">柏柏科技樹</a></em>
+          <em><a href="/tree/ber">柏柏科技樹</a></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
             <li>
               最早，從城堡開始馬廄單位成本便宜20%，4.8版本後變成城堡/帝王分別便宜15%/20%。
             </li>
             <li>
-              4.8版本後柏柏有了<a href="Ring_Archer_Armor.php">弓兵環甲</a>
+              4.8版本後柏柏有了<a href="/techs/Ring_Archer_Armor">弓兵環甲</a>
             </li>
           </ul>
         </div>
@@ -172,7 +173,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Berbers_preview.png"
+              <a href="/img/Berbers_preview.png"
                 ><img class="imgn hg" src="~assets/Berbers_preview.png" alt=""
               /></a>
               <p><em>官方預覽圖</em></p>

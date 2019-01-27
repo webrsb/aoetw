@@ -12,15 +12,14 @@
         <div class="n1">
           <p>
             大主教是一個在世紀帝國II:帝王世紀中的英雄單位。你只有透過地圖編輯器才能找到他。他以普通（或更高職位）的基督教主教為藍本。在遊戲中大主教以
-            <a href="Monk.php">僧侶</a
+            <a href="/units/Monk">僧侶</a
             >的外表出現，但是他的能力值更高。作為一個英雄單位，大主教無法被招降且可以自動回血（在征服者入侵資料片之後）。
           </p>
           <p>
-            所有跟<a href="Monk.php">僧侶</a
-            >相關的升級和加成對大主教通通有效。如果大主教撿起了<a
-              href="Relic.php"
+            所有跟<a href="/units/Monk">僧侶</a
+            >相關的升級和加成對大主教通通有效。如果大主教撿起了<a href="/Relic"
               >遺跡</a
-            >，會出現bug使他變成一般的 <a href="Monk.php">僧侶</a>。
+            >，會出現bug使他變成一般的 <a href="/units/Monk">僧侶</a>。
           </p>
         </div>
       </div>
@@ -28,7 +27,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><a href="">大主教</a></div>
+              <div class="unititle"><a href="#">大主教</a></div>
             </td>
           </tr>
           <tr>

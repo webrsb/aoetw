@@ -48,7 +48,7 @@
             <td class="tta4">
               <p>
                 <img src="~assets/CastleAgeUnique.png" width="30" alt="" /><a
-                  href="Great_Wall.php"
+                  href="/techs/Great_Wall"
                   >長城</a
                 >(+30% HP/中國限定)
               </p>
@@ -59,7 +59,7 @@
             <td class="tta4">
               <p>
                 <img src="~assets/Faith.jpg" width="30" alt="" /><a
-                  href="Treadmill_Crane.php"
+                  href="/techs/Treadmill_Crane"
                   >踏輪起重機</a
                 >(+20%工作效率)
               </p>
@@ -72,16 +72,16 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Byzantines.php">拜占庭</a
+              <a href="/civs/Byzantines">拜占庭</a
               >：城門封建/城堡/帝王時代多20%/30%/40%的血量。
             </li>
             <li>
-              <a href="Chinese.php">中國</a
+              <a href="/civs/Chinese">中國</a
               >：在城堡/帝王時代，城門的技術價格便宜15％/20％。
             </li>
-            <li><a href="Koreans.php">韓國</a>：城門建築速度快33%</li>
-            <li><a href="Malians.php">馬利</a>：城門造價便宜15%。</li>
-            <li><a href="Spanish.php">西班牙</a>：城門建築速度快30%。</li>
+            <li><a href="/civs/Koreans">韓國</a>：城門建築速度快33%</li>
+            <li><a href="/civs/Malians">馬利</a>：城門造價便宜15%。</li>
+            <li><a href="/civs/Spanish">西班牙</a>：城門建築速度快30%。</li>
           </ul>
         </div>
         <h3>團隊加成</h3>
@@ -89,9 +89,9 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Malians.php">馬利</a>：研究踏輪起重機團隊速度提高80%。
+              <a href="/civs/Malians">馬利</a>：研究踏輪起重機團隊速度提高80%。
             </li>
-            <li><a href="Mayans.php">馬雅</a>：城門便宜50%</li>
+            <li><a href="/civs/Mayans">馬雅</a>：城門便宜50%</li>
           </ul>
         </div>
       </div>
@@ -99,7 +99,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><a href="">城門</a></div>
+              <div class="unititle"><a href="#">城門</a></div>
             </td>
           </tr>
           <tr>
@@ -111,7 +111,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>
@@ -136,7 +136,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -145,7 +145,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><a href="">數據</a></div>
+              <div class="unititle2"><a href="#">數據</a></div>
             </td>
           </tr>
           <tr>

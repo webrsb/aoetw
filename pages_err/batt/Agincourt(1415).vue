@@ -135,7 +135,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href=""> 亞琴哥特(1415)阿金庫爾戰役</a>
+                <div class="unititle"><a href="#"> 亞琴哥特(1415)阿金庫爾戰役</a>
                 </div>
               </td>
             </tr>
@@ -148,7 +148,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -162,12 +162,12 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="Japanese.php">不列顛</a>
+              <td class="unit4"><a href="/civs/Japanese">不列顛</a>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">戰役關卡編號</a>
+                <div class="unititle2"><a href="#">戰役關卡編號</a>
                 </div>
               </td>
             </tr>
@@ -181,7 +181,7 @@
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="Lepanto.php">勒班陀(1571)</td>
+              <td class="batt/Lepanto">勒班陀(1571)</td>
             </tr>
           </table>
           <div class="thanks">感謝! 此頁面由Wun，裕暉協助編輯</div>

@@ -16,12 +16,12 @@
           <ul>
             <li>
               <img src="~assets/ManAtArmsIcon.jpg" width="25" alt="" />
-              <a href="Man-at-Arms.php">裝甲步兵</a
+              <a href="/units/Man-at-Arms">裝甲步兵</a
               >:封建初期近戰王者，不怕少量斥侯與槍兵，但比較怕弓兵，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。
             </li>
             <li>
               <img width="25px" src="~assets/Watchtowericon.png" alt="" /><a
-                href="Guard_Tower.php"
+                href="/units/Guard_Tower"
                 >暸望箭塔</a
               >:遊戲說明箭塔為防禦建築，其實為非常兇猛的進攻手段，射程高達8，可以輕易封鎖任何資源點，駐紮村民後也不怕封建時代任何兵種，唯獨如果缺乏保護很容易被村民拆掉，可以養成在箭塔底下蓋牆的好習慣。
             </li>
@@ -220,7 +220,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle"><a href="">裝甲塔</a></div>
+              <div class="unititle"><a href="#">裝甲塔</a></div>
             </td>
           </tr>
           <tr>
@@ -233,7 +233,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle2"><a href="">戰術介紹</a></div>
+              <div class="unititle2"><a href="#">戰術介紹</a></div>
             </td>
           </tr>
           <tr>

@@ -82,14 +82,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="vik.php">維京科技樹</a></em>
+          <em><a href="/tree/vik">維京科技樹</a></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="aof.php">失落的帝國</a></em>
+            <em><a href="/games/aof">失落的帝國</a></em>
           </h3>
           <ul>
             <li>團隊加成:碼頭便宜15%(原本25%) 128木頭，以前是113木頭</li>
@@ -104,7 +104,7 @@
             </li>
           </ul>
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
             <li>維京大戰船不再需要城堡。</li>
@@ -112,7 +112,7 @@
             <li>酋長的成本從700f/400g降低為400f/300g，並且多1的攻擊。</li>
           </ul>
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>酋長影響所有步兵(不僅僅是狂戰士)</li>
@@ -130,7 +130,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Wondervikings.png"
+              <a href="/img/Wondervikings.png"
                 ><img class="imgn hg" src="~assets/Wondervikings.png" alt=""
               /></a>
               <p><em>維京的世界奇觀</em></p>
@@ -160,7 +160,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><a href="">概要</a></div>
+              <div class="unititle2"><a href="#">概要</a></div>
             </td>
           </tr>
           <tr>

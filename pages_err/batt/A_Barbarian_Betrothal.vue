@@ -117,7 +117,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="">蠻族的婚約</a>
+                <div class="unititle"><a href="#">蠻族的婚約</a>
                 </div>
               </td>
             </tr>
@@ -130,7 +130,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -144,11 +144,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="">匈奴人</a>
+              <td class="unit4"><a href="#">匈奴人</a>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="">戰役關卡編號</a>
+              <div class="unititle2"><a href="#">戰役關卡編號</a>
               </div>
             </td>
             </tr>
@@ -158,11 +158,11 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="Walls_of_Constantinople.php">君士坦丁堡的城牆</a> 
+              <td class="unit4"> <a href="/batt/Walls_of_Constantinople">君士坦丁堡的城牆</a> 
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="Catalaunian_Fields.php">卡塔隆尼亞平原</a> 
+              <td class="unit4"> <a href="/batt/Catalaunian_Fields">卡塔隆尼亞平原</a> 
               </td>
             </tr>
           </table>

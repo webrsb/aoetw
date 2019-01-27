@@ -18,7 +18,7 @@
               <tr>
                 <td class="unit" style=" background-color:#c12420;">
                   <div class="unititle">
-                    <a href="William_Wallacea.php">威廉華勒斯</a>
+                    <a href="/batt/William_Wallacea">威廉華勒斯</a>
                   </div>
                 </td>
               </tr>
@@ -32,49 +32,49 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Marching_and_Fighting.php">行軍與戰鬥</a>
+                    <a href="/batt/Marching_and_Fighting">行軍與戰鬥</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Feeding_the_Army.php">供養軍隊</a>
+                    <a href="/batt/Feeding_the_Army">供養軍隊</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Training_the_Troops.php">訓練軍隊</a>
+                    <a href="/batt/Training_the_Troops">訓練軍隊</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Research_and_Technology.php">研發與科技</a>
+                    <a href="/batt/Research_and_Technology">研發與科技</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Battle_of_Stirling.php">斯特林之役</a>
+                    <a href="/batt/The_Battle_of_Stirling">斯特林之役</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Forge_an_Alliance.php">締結同盟</a>
+                    <a href="/batt/Forge_an_Alliance">締結同盟</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Battle_of_Falkirk.php">福爾克之役</a>
+                    <a href="/batt/The_Battle_of_Falkirk">福爾克之役</a>
                   </div>
                 </td>
               </tr>
@@ -85,7 +85,7 @@
               <tr>
                 <td class="unit" style=" background-color:#c12420;">
                   <div class="unititle">
-                    <a href="Joan_of_Arc.php">聖女貞德</a>
+                    <a href="/batt/Joan_of_Arc">聖女貞德</a>
                   </div>
                 </td>
               </tr>
@@ -99,42 +99,44 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="An_Unlikely_Messiah.php">一個不大可能的彌賽亞</a>
+                    <a href="/batt/An_Unlikely_Messiah">一個不大可能的彌賽亞</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Maid_of_Orleans.php">奧爾良的少女</a>
+                    <a href="/batt/The_Maid_of_Orleans">奧爾良的少女</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Cleansing_of_the_Loire.php">羅亞爾河大掃蕩</a>
+                    <a href="/batt/The_Cleansing_of_the_Loire"
+                      >羅亞爾河大掃蕩</a
+                    >
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Rising.php">叛變</a>
+                    <a href="/batt/The_Rising">叛變</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Siege_of_Paris.php">巴黎攻城戰</a>
+                    <a href="/batt/The_Siege_of_Paris">巴黎攻城戰</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_Perfect_Martyr.php">完美的烈士</a>
+                    <a href="/batt/A_Perfect_Martyr">完美的烈士</a>
                   </div>
                 </td>
               </tr>
@@ -144,7 +146,9 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style=" background-color:#c12420;">
-                  <div class="unititle"><a href="Saladina.php">薩拉丁</a></div>
+                  <div class="unititle">
+                    <a href="/batt/Saladina">薩拉丁</a>
+                  </div>
                 </td>
               </tr>
               <tr>
@@ -157,40 +161,40 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="An_Arabian_Knight.php">阿拉伯騎士</a>
+                    <a href="/batt/An_Arabian_Knight">阿拉伯騎士</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Lord_of_Arabia.php">阿拉伯之主</a>
+                    <a href="/batt/Lord_of_Arabia">阿拉伯之主</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Horns_of_Hattin.php">海丁的號角</a>
+                    <a href="/batt/The_Horns_of_Hattin">海丁的號角</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Siege_of_Jerusalem.php">耶路撒冷攻城戰</a>
+                    <a href="/batt/The_Siege_of_Jerusalem">耶路撒冷攻城戰</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
-                  <div class="unitcontent"><a href="Jihad.php">聖戰</a></div>
+                  <div class="unitcontent"><a href="/batt/Jihad">聖戰</a></div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Lion_and_the_Demon.php">獅子與惡魔</a>
+                    <a href="/batt/The_Lion_and_the_Demon">獅子與惡魔</a>
                   </div>
                 </td>
               </tr>
@@ -201,7 +205,7 @@
               <tr>
                 <td class="unit" style=" background-color:#c12420;">
                   <div class="unititle">
-                    <a href="Genghis_Khana.php">成吉思汗</a>
+                    <a href="/batt/Genghis_Khana">成吉思汗</a>
                   </div>
                 </td>
               </tr>
@@ -215,42 +219,42 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Crucible.php">嚴酷的考驗</a>
+                    <a href="/batt/Crucible">嚴酷的考驗</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_Life_of_Revenge.php">復仇的人生</a>
+                    <a href="/batt/A_Life_of_Revenge">復仇的人生</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Into_China.php">進入中國</a>
+                    <a href="/batt/Into_China">進入中國</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Horde_Rides_West.php">遊牧民族的西遷</a>
+                    <a href="/batt/The_Horde_Rides_West">遊牧民族的西遷</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Promise.php">承諾</a>
+                    <a href="/batt/The_Promise">承諾</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Pax_Mongolia.php">蒙古治下的和平</a>
+                    <a href="/batt/Pax_Mongolia">蒙古治下的和平</a>
                   </div>
                 </td>
               </tr>
@@ -261,7 +265,7 @@
               <tr>
                 <td class="unit" style=" background-color:#c12420;">
                   <div class="unititle">
-                    <a href="Barbarossaa.php">巴巴羅薩</a>
+                    <a href="/batt/Barbarossaa">巴巴羅薩</a>
                   </div>
                 </td>
               </tr>
@@ -275,42 +279,42 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Holy_Roman_Emperor.php">神聖羅馬皇帝</a>
+                    <a href="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Henry_the_Lion.php">猛獅亨利</a>
+                    <a href="/batt/Henry_the_Lion">猛獅亨利</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Pope_and_Antipope.php">教皇與僭稱教皇</a>
+                    <a href="/batt/Pope_and_Antipope">教皇與僭稱教皇</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Lombard_League.php">倫巴聯盟</a>
+                    <a href="/batt/The_Lombard_League">倫巴聯盟</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Barbarossas_March.php">紅鬍子的行軍</a>
+                    <a href="/batt/Barbarossas_March">紅鬍子的行軍</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Emperor_Sleeping.php">沉睡的皇帝</a>
+                    <a href="/batt/The_Emperor_Sleeping">沉睡的皇帝</a>
                   </div>
                 </td>
               </tr>
@@ -324,7 +328,7 @@
               <tr>
                 <td class="unit" style=" background-color:#2a22a7;">
                   <div class="unititle">
-                    <a href="Attila_the_Huna.php">阿提拉</a>
+                    <a href="/batt/Attila_the_Huna">阿提拉</a>
                   </div>
                 </td>
               </tr>
@@ -338,42 +342,42 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Scourge_of_God.php">上帝之鞭</a>
+                    <a href="/batt/Scourge_of_God">上帝之鞭</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Great_Ride.php">偉大的騎士</a>
+                    <a href="/batt/The_Great_Ride">偉大的騎士</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Walls_of_Constantinople.php">君士坦丁堡的城牆</a>
+                    <a href="/batt/Walls_of_Constantinople">君士坦丁堡的城牆</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_Barbarian_Betrothal.php">蠻族的婚約</a>
+                    <a href="/batt/A_Barbarian_Betrothal">蠻族的婚約</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Catalaunian_Fields.php">卡塔隆尼亞平原</a>
+                    <a href="/batt/Catalaunian_Fields">卡塔隆尼亞平原</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Fall_of_Rome.php">羅馬的衰落</a>
+                    <a href="/batt/Fall_of_Rome">羅馬的衰落</a>
                   </div>
                 </td>
               </tr>
@@ -383,7 +387,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style=" background-color:#2a22a7;">
-                  <div class="unititle"><a href="El_Cida.php">席德</a></div>
+                  <div class="unititle"><a href="/batt/El_Cida">席德</a></div>
                 </td>
               </tr>
               <tr>
@@ -396,42 +400,42 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Brother_against_Brother.php">兄弟鬩牆</a>
+                    <a href="/batt/Brother_against_Brother">兄弟鬩牆</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Enemy_of_my_Enemy.php">我敵人的敵人</a>
+                    <a href="/batt/The_Enemy_of_my_Enemy">我敵人的敵人</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Exile_of_the_Cid.php">席德的流亡歲月</a>
+                    <a href="/batt/The_Exile_of_the_Cid">席德的流亡歲月</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Black_Guards.php">黑衛隊</a>
+                    <a href="/batt/Black_Guards">黑衛隊</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="King_of_Valencia.php">瓦倫西亞之主</a>
+                    <a href="/batt/King_of_Valencia">瓦倫西亞之主</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Reconquista.php">勘查</a>
+                    <a href="/batt/Reconquista">勘查</a>
                   </div>
                 </td>
               </tr>
@@ -442,7 +446,7 @@
               <tr>
                 <td class="unit" style=" background-color:#2a22a7;">
                   <div class="unititle">
-                    <a href="Montezumaa.php">蒙特蘇馬</a>
+                    <a href="/batt/Montezumaa">蒙特蘇馬</a>
                   </div>
                 </td>
               </tr>
@@ -456,42 +460,42 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Reign_of_Blood.php">血親統治</a>
+                    <a href="/batt/Reign_of_Blood">血親統治</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Triple_Alliance.php">三國同盟</a>
+                    <a href="/batt/The_Triple_Alliance">三國同盟</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Quetzalcoatl.php">蛇鳥之神</a>
+                    <a href="/batt/Quetzalcoatl">蛇鳥之神</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="La_Noche_Triste.php">悲傷之夜</a>
+                    <a href="/batt/La_Noche_Triste">悲傷之夜</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Boiling_Lake.php">沸騰的湖</a>
+                    <a href="/batt/The_Boiling_Lake">沸騰的湖</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Broken_Spears.php">斷矛</a>
+                    <a href="/batt/Broken_Spears">斷矛</a>
                   </div>
                 </td>
               </tr>
@@ -502,7 +506,7 @@
               <tr>
                 <td class="unit" style=" background-color:#2a22a7;">
                   <div class="unititle">
-                    <a href="Battles_of_the_Conquerors.php">征服者的戰役</a>
+                    <a href="/batt/Battles_of_the_Conquerors">征服者的戰役</a>
                   </div>
                 </td>
               </tr>
@@ -516,56 +520,56 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Tours.php">都爾(732)</a>
+                    <a href="/batt/Tours">都爾(732)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Vindlandsaga(1000).php">芬特蘭撒格(1000)</a>
+                    <a href="/Vindlandsaga(1000).php">芬特蘭撒格(1000)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Hastings(1066).php">哈斯汀斯(1066)</a>
+                    <a href="/batt/Hastings(1066)">哈斯汀斯(1066)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Manzikert(1071).php">曼奇克托(1071)</a>
+                    <a href="/batt/Manzikert(1071)">曼奇克托(1071)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Agincourt(1415).php">亞琴哥特(1415)</a>
+                    <a href="/batt/Agincourt(1415)">亞琴哥特(1415)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Lepanto.php">勒班陀(1571)</a>
+                    <a href="/batt/Lepanto">勒班陀(1571)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Kyoto(1582).php">京都(1582)</a>
+                    <a href="/Kyoto(1582).php">京都(1582)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Noryang_Point.php">洛陽點(1598)</a>
+                    <a href="/batt/Noryang_Point">洛陽點(1598)</a>
                   </div>
                 </td>
               </tr>
@@ -578,7 +582,9 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style=" background-color:#28a745;">
-                  <div class="unititle"><a href="Alarica.php">阿拉里克</a></div>
+                  <div class="unititle">
+                    <a href="/batt/Alarica">阿拉里克</a>
+                  </div>
                 </td>
               </tr>
               <tr>
@@ -591,7 +597,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="All_Roads_Lead_to_a_Besieged_City.php"
+                    <a href="/batt/All_Roads_Lead_to_a_Besieged_City"
                       >條條大路通圍城</a
                     >
                   </div>
@@ -600,7 +606,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Legionaries_on_the_Horizon!.php"
+                    <a href="/Legionaries_on_the_Horizon!.php"
                       >羅馬軍團隨時殺到</a
                     >
                   </div>
@@ -609,14 +615,14 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Emperor_of_the_West.php">西域之君</a>
+                    <a href="/batt/Emperor_of_the_West">西域之君</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Sack_of_Rome.php">洗劫羅馬</a>
+                    <a href="/batt/The_Sack_of_Rome">洗劫羅馬</a>
                   </div>
                 </td>
               </tr>
@@ -626,7 +632,9 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style=" background-color:#28a745;">
-                  <div class="unititle"><a href="Draculaa.php">德古拉</a></div>
+                  <div class="unititle">
+                    <a href="/batt/Draculaa">德古拉</a>
+                  </div>
                 </td>
               </tr>
               <tr>
@@ -639,35 +647,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Dragon_Spreads_His_Wings.php">火龍展翅</a>
+                    <a href="/batt/The_Dragon_Spreads_His_Wings">火龍展翅</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Return_of_the_Dragon.php">龍之歸來</a>
+                    <a href="/batt/The_Return_of_the_Dragon">龍之歸來</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Breath_of_the_Dragon.php">龍之喘息</a>
+                    <a href="/batt/The_Breath_of_the_Dragon">龍之喘息</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Moon_Rises.php">撥雲見月</a>
+                    <a href="/The_Moon_Rises.php">撥雲見月</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Night_Falls.php">暗夜降臨</a>
+                    <a href="/The_Night_Falls.php">暗夜降臨</a>
                   </div>
                 </td>
               </tr>
@@ -677,7 +685,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style=" background-color:#28a745;">
-                  <div class="unititle"><a href="Baria.php">巴里</a></div>
+                  <div class="unititle"><a href="/Baria.php">巴里</a></div>
                 </td>
               </tr>
               <tr>
@@ -690,21 +698,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Arrival_at_Bari.php">抵達巴里</a>
+                    <a href="/batt/Arrival_at_Bari">抵達巴里</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Rebellion_of_Melus.php">邁勒斯叛變</a>
+                    <a href="/batt/The_Rebellion_of_Melus">邁勒斯叛變</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Great_Siege.php">四面楚歌</a>
+                    <a href="/batt/The_Great_Siege">四面楚歌</a>
                   </div>
                 </td>
               </tr>
@@ -715,7 +723,7 @@
               <tr>
                 <td class="unit" style=" background-color:#28a745;">
                   <div class="unititle">
-                    <a href="Sforzaa.php">斯福爾札</a>
+                    <a href="/Sforzaa.php">斯福爾札</a>
                   </div>
                 </td>
               </tr>
@@ -729,35 +737,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="An_End_and_a_Beginning.php">始兮終兮</a>
+                    <a href="/batt/An_End_and_a_Beginning">始兮終兮</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="O_Fortuna.php">命運女神</a>
+                    <a href="/batt/O_Fortuna">命運女神</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Hand_of_a_Daughter.php">于歸之喜</a>
+                    <a href="/batt/The_Hand_of_a_Daughter">于歸之喜</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Ambrosian_Republic.php">安布羅共和國</a>
+                    <a href="/batt/The_Ambrosian_Republic">安布羅共和國</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_New_Duk_of_Milan.php">米蘭新公爵</a>
+                    <a href="/batt/A_New_Duk_of_Milan">米蘭新公爵</a>
                   </div>
                 </td>
               </tr>
@@ -768,7 +776,7 @@
               <tr>
                 <td class="unit" style=" background-color:#28a745;">
                   <div class="unititle">
-                    <a href="El_Doradoa.php">黃金國</a>
+                    <a href="/batt/El_Doradoa">黃金國</a>
                   </div>
                 </td>
               </tr>
@@ -782,28 +790,28 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Tales_of_La_Canela.php">黃金國的傳說</a>
+                    <a href="/batt/Tales_of_La_Canela">黃金國的傳說</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Split.php">分離告別</a>
+                    <a href="/batt/The_Split">分離告別</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Amazones.php">亞馬遜族</a>
+                    <a href="/batt/The_Amazones">亞馬遜族</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Cannibals.php">食人族</a>
+                    <a href="/batt/The_Cannibals">食人族</a>
                   </div>
                 </td>
               </tr>
@@ -814,7 +822,7 @@
               <tr>
                 <td class="unit" style=" background-color:#28a745;">
                   <div class="unititle">
-                    <a href="Prithviraja.php">布里斯比羅吉</a>
+                    <a href="/Prithviraja.php">布里斯比羅吉</a>
                   </div>
                 </td>
               </tr>
@@ -828,28 +836,28 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_Promising_Warrior.php">英雄出少年</a>
+                    <a href="/A_Promising_Warrior.php">英雄出少年</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Digvijaya.php">逐鹿迪格維傑之地</a>
+                    <a href="/The_Digvijaya.php">逐鹿迪格維傑之地</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Elopement.php">私奔</a>
+                    <a href="/The_Elopement.php">私奔</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Battles_of_Tarain.php">塔蘭村之戰</a>
+                    <a href="/Battles_of_Tarain.php">塔蘭村之戰</a>
                   </div>
                 </td>
               </tr>
@@ -860,7 +868,7 @@
               <tr>
                 <td class="unit" style=" background-color:#28a745;">
                   <div class="unititle">
-                    <a href="Battles_of_the_Forgotten.php">失落帝國的戰役</a>
+                    <a href="/Battles_of_the_Forgotten.php">失落帝國的戰役</a>
                   </div>
                 </td>
               </tr>
@@ -874,63 +882,63 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Bukhara(557).php"> 布哈拉(557)</a>
+                    <a href="/Bukhara(557).php"> 布哈拉(557)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Dos_Pilas(648).php">雙柱城(648)</a>
+                    <a href="/Dos_Pilas(648).php">雙柱城(648)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="York(865).php">約克(865)</a>
+                    <a href="/York(865).php">約克(865)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Honfoglalás(895).php">征服家園(895)</a>
+                    <a href="/Honfoglalás(895).php">征服家園(895)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Langshan_Jiang(919).php">狼山江(919)</a>
+                    <a href="/Langshan_Jiang(919).php">狼山江(919)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Kaesong(936).php">開城(936)</a>
+                    <a href="/Kaesong(936).php">開城(936)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Kurikara(1183).php">礪波山(1183)</a>
+                    <a href="/batt/Kurikara(1183)">礪波山(1183)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Cyprus(1191).php">塞普勒斯(1191)</a>
+                    <a href="/Cyprus(1191).php">塞普勒斯(1191)</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Bapheus(1302).php">巴菲烏斯(1302)</a>
+                    <a href="/Bapheus(1302).php">巴菲烏斯(1302)</a>
                   </div>
                 </td>
               </tr>
@@ -944,7 +952,7 @@
               <tr>
                 <td class="unit" style=" background-color:#8a6d3b;">
                   <div class="unititle">
-                    <a href="Tariq_ibn_Ziyada.php">塔里克．伊本．齊亞德</a>
+                    <a href="/batt/Tariq_ibn_Ziyada">塔里克．伊本．齊亞德</a>
                   </div>
                 </td>
               </tr>
@@ -958,34 +966,34 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Battle_of_Guadalete.php">瓜達萊特之戰</a>
+                    <a href="/batt/The_Battle_of_Guadalete">瓜達萊特之戰</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Consolidation_and_Subjugation.php">攻城拔寨</a>
+                    <a href="/batt/Consolidation_and_Subjugation">攻城拔寨</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Divide_and_Conquer.php">縱橫捭闔</a>
+                    <a href="/batt/Divide_and_Conquer">縱橫捭闔</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Crossing_the_Pyrenees.php">穿越庇里牛斯山脈</a>
+                    <a href="/batt/Crossing_the_Pyrenees">穿越庇里牛斯山脈</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
-                  <div class="unitcontent"><a href="Razzia.php">突襲</a></div>
+                  <div class="unitcontent"><a href="/batt/Razzia">突襲</a></div>
                 </td>
               </tr>
             </table>
@@ -995,7 +1003,7 @@
               <tr>
                 <td class="unit" style=" background-color:#8a6d3b;">
                   <div class="unititle">
-                    <a href="Sundjataa.php">松迪亞塔</a>
+                    <a href="/batt/Sundjataa">松迪亞塔</a>
                   </div>
                 </td>
               </tr>
@@ -1008,34 +1016,34 @@
               </tr>
               <tr>
                 <td>
-                  <div class="unitcontent"><a href="Hunted.php">擒獲</a></div>
+                  <div class="unitcontent"><a href="/batt/Hunted">擒獲</a></div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Sting_of_the_Scorpion.php">蠍螫</a>
+                    <a href="/batt/The_Sting_of_the_Scorpion">蠍螫</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Djeriba_Gold.php">傑爾巴島的黃金</a>
+                    <a href="/batt/Djeriba_Gold">傑爾巴島的黃金</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Blood_on_the_River_Bank.php">血濺河灘</a>
+                    <a href="/batt/Blood_on_the_River_Bank">血濺河灘</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Lion's_Den.php">深入虎穴</a>
+                    <a href="/The_Lion's_Den.php">深入虎穴</a>
                   </div>
                 </td>
               </tr>
@@ -1046,7 +1054,9 @@
               <tr>
                 <td class="unit" style=" background-color:#8a6d3b;">
                   <div class="unititle">
-                    <a href="Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</a>
+                    <a href="/Francisco_de_Almeidaa.php"
+                      >法蘭西斯科．阿爾梅達</a
+                    >
                   </div>
                 </td>
               </tr>
@@ -1060,35 +1070,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Old_World.php">舊世界</a>
+                    <a href="/The_Old_World.php">舊世界</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Lion_of_Africa.php">非洲雄獅</a>
+                    <a href="/Lion_of_Africa.php">非洲雄獅</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Ruins_of_Empires.php">帝國的廢墟</a>
+                    <a href="/Ruins_of_Empires.php">帝國的廢墟</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Estado_da_India.php">葡屬印度</a>
+                    <a href="/Estado_da_India.php">葡屬印度</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_Son's_Blood.php">兒子的血仇</a>
+                    <a href="/A_Son's_Blood.php">兒子的血仇</a>
                   </div>
                 </td>
               </tr>
@@ -1098,7 +1108,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style=" background-color:#8a6d3b;">
-                  <div class="unititle"><a href="Yodita.php">遊娣特</a></div>
+                  <div class="unititle"><a href="/batt/Yodita">遊娣特</a></div>
                 </td>
               </tr>
               <tr>
@@ -1111,35 +1121,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Path_of_Exile.php">流亡之路</a>
+                    <a href="/batt/Path_of_Exile">流亡之路</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Right_Partner.php">最佳搭檔</a>
+                    <a href="/batt/The_Right_Partner">最佳搭檔</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_Fallen-Crown.php">摔落的皇冠</a>
+                    <a href="/A_Fallen-Crown.php">摔落的皇冠</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Broken_Stelae.php">毀壞的石碑</a>
+                    <a href="/Broken_Stelae.php">毀壞的石碑</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Welcome_Home.php">重回故里</a>
+                    <a href="/Welcome_Home.php">重回故里</a>
                   </div>
                 </td>
               </tr>
@@ -1153,7 +1163,7 @@
               <tr>
                 <td class="unit" style=" background-color:#5f8ebd;">
                   <div class="unititle">
-                    <a href="Gajah_Madaa.php">加查·馬達</a>
+                    <a href="/batt/Gajah_Madaa">加查·馬達</a>
                   </div>
                 </td>
               </tr>
@@ -1167,35 +1177,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Story_of_our_Founders.php">開疆闢土</a>
+                    <a href="/batt/The_Story_of_our_Founders">開疆闢土</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Unconditional_Loyalty.php">班師勤王</a>
+                    <a href="/batt/Unconditional_Loyalty">班師勤王</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Oath_to_Unify_Nusantara.php">誓統南洋</a>
+                    <a href="/batt/The_Oath_to_Unify_Nusantara">誓統南洋</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Serving_the_New_King.php">輔佐新君</a>
+                    <a href="/batt/Serving_the_New_King">輔佐新君</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Pasunda_Bubat_Traged.php">風雲變色</a>
+                    <a href="/The_Pasunda_Bubat_Traged.php">風雲變色</a>
                   </div>
                 </td>
               </tr>
@@ -1206,7 +1216,7 @@
               <tr>
                 <td class="unit" style=" background-color:#5f8ebd;">
                   <div class="unititle">
-                    <a href="Suryavarman_Ia.php">蘇利耶跋摩一世</a>
+                    <a href="/batt/Suryavarman_Ia">蘇利耶跋摩一世</a>
                   </div>
                 </td>
               </tr>
@@ -1220,35 +1230,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Usurpation.php">揭竿而起</a>
+                    <a href="/batt/Usurpation">揭竿而起</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Quelling_the_Rebellion.php">席捲入荒</a>
+                    <a href="/batt/Quelling_the_Rebellion">席捲入荒</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_Dangerous_Mission.php">九死一生</a>
+                    <a href="/batt/A_Dangerous_Mission">九死一生</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Challenging_a_Thalassocrac.php">滔天巨浪</a>
+                    <a href="/batt/Challenging_a_Thalassocrac">滔天巨浪</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Nirvanapada.php">千古偉業</a>
+                    <a href="/batt/Nirvanapada">千古偉業</a>
                   </div>
                 </td>
               </tr>
@@ -1259,7 +1269,7 @@
               <tr>
                 <td class="unit" style=" background-color:#5f8ebd;">
                   <div class="unititle">
-                    <a href="Bayinnaunga.php">勃印曩</a>
+                    <a href="/batt/Bayinnaunga">勃印曩</a>
                   </div>
                 </td>
               </tr>
@@ -1273,35 +1283,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Burmese_Tigers.php">餓虎撲食</a>
+                    <a href="/batt/The_Burmese_Tigers">餓虎撲食</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Mandalay_Cobra.php">猛蛇出洞</a>
+                    <a href="/batt/The_Mandalay_Cobra">猛蛇出洞</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Royal_Peacock.php">百鳥朝鳳</a>
+                    <a href="/batt/The_Royal_Peacock">百鳥朝鳳</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_White_Elephant.php">白象化身</a>
+                    <a href="/batt/The_White_Elephant">白象化身</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Old_Tiger.php">鳳凰涅槃</a>
+                    <a href="/batt/The_Old_Tiger">鳳凰涅槃</a>
                   </div>
                 </td>
               </tr>
@@ -1311,7 +1321,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style=" background-color:#5f8ebd;">
-                  <div class="unititle"><a href="Lê_Lợia.php">黎利</a></div>
+                  <div class="unititle"><a href="/Lê_Lợia.php">黎利</a></div>
                 </td>
               </tr>
               <tr>
@@ -1324,42 +1334,42 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Dai_Viet_Uprising.php">大越義軍</a>
+                    <a href="/batt/The_Dai_Viet_Uprising">大越義軍</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Mountain_Siege.php">至靈山魂</a>
+                    <a href="/batt/The_Mountain_Siege">至靈山魂</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Battle_at_Hanoi.php">圍困昇龍</a>
+                    <a href="/batt/The_Battle_at_Hanoi">圍困昇龍</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="Reaching_South.php">揮師南下</a>
+                    <a href="/batt/Reaching_South">揮師南下</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="A_Three-Pronged_Attack.php">兵分三路</a>
+                    <a href="/batt/A_Three-Pronged_Attack">兵分三路</a>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <a href="The_Final_Fortress.php">決戰東都</a>
+                    <a href="/batt/The_Final_Fortress">決戰東都</a>
                   </div>
                 </td>
               </tr>

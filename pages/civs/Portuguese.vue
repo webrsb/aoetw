@@ -90,14 +90,14 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="por.php">葡萄牙科技樹</a></em>
+          <em><a href="/tree/por">葡萄牙科技樹</a></em>
         </div>
         <br />
         <h3>更新日誌</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><a href="ak.php">非洲王國</a></em>
+            <em><a href="/games/ak">非洲王國</a></em>
           </h3>
           <ul>
             <li>手風琴砲有1的擴散傷害</li>
@@ -111,7 +111,7 @@
             </li>
           </ul>
           <h3>
-            <em><a href="aor.php">王者崛起</a></em>
+            <em><a href="/games/aor">王者崛起</a></em>
           </h3>
           <ul>
             <li>火繩槍對火藥單位影響較小，讓發射間隔減少了75%</li>
@@ -136,7 +136,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Portuguese_preview.png"
+              <a href="/img/Portuguese_preview.png"
                 ><img
                   class="imgn hg"
                   src="~assets/Portuguese_preview.png"

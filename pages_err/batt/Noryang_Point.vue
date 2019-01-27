@@ -58,19 +58,19 @@
                 "></div><ul>    <li>繁體中文舊版本翻譯錯誤，此洛陽與中國的洛陽城無關。</li>    <li>史實中這場戰役開打前朝鮮半島已幾乎淪陷被日軍掌控，後與明朝為主的海軍殲滅日軍。</li> </ul><h3>英雄:李舜臣將軍(1545-1598)</h3><div class="hrn1
                 "></div><ul>  <li >    <a >朝鮮王國武科出身，少年時期主要擔任王國北部對女真的防禦，後來被提拔調往海防。他改進了龜甲船，讓朝鮮水軍的戰力有所提升。 後來豐臣秀吉入侵朝鮮，朝鮮王國幾乎覆亡之際他仍頑強抗戰，數次伏擊日軍的運補船隊。甚至一度被構陷入獄。在大明介入之後，他與明將鄧子龍一同在露梁海擊潰日本海軍，但雙雄都在戰鬥中犧牲。</a></li> </ul></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="
+                ">       <div class="unititle "><a href="/
                 ">洛陽點(1598)(露梁海戰)</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Noryang.jpg " width="
                 " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">征服者入侵</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">征服者的戰役</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href="Japanese.php
+                ">文明</td>       <td class="unit4 "><a href="/civs/Japanese
                 ">韓國</a></td>      </tr>
 <tr><td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle2 "><a href="
+                ">       <div class="unititle2 "><a href="/
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
-                ">征服者戰役第4章之8</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="Kyoto(1582).php
+                ">征服者戰役第4章之8</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4 ">       <a href="/Kyoto(1582).php
                 ">京都(1582)</a>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4
                 ">       <a href=>N/A</a>        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由Wun，裕暉協助編輯     </div>  <div class="wiki
                 " style="margin-top: 5px; "><div style="float: left; "><img src="~assets/Wikipedia-logo.png

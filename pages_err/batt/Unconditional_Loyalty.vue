@@ -121,7 +121,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><a href="Unconditional_Loyalty">班師勤王</a>
+                <div class="unititle"><a href="/Unconditional_Loyalty">班師勤王</a>
                 </div>
               </td>
             </tr>
@@ -134,7 +134,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><a href="">情景信息</a>
+                <div class="unititle2"><a href="#">情景信息</a>
                 </div>
               </td>
             </tr>
@@ -148,11 +148,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><a href="">馬來人</a>
+              <td class="unit4"><a href="#">馬來人</a>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><a href="Unconditional_Loyalty">戰役關卡編號</a>
+              <div class="unititle2"><a href="/Unconditional_Loyalty">戰役關卡編號</a>
               </div>
             </td>
             </tr>
@@ -162,12 +162,12 @@
             </tr>
             <tr>
               <td class="unit3">上一關</td>
-              <td class="unit4"> <a href="Usurpation">開疆闢土</a>
+              <td class="unit4"> <a href="/Usurpation">開疆闢土</a>
                 </p>
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href="The_Oath_to_Unify_Nusantara.php">誓統南洋</a>
+              <td class="unit4"> <a href="/batt/The_Oath_to_Unify_Nusantara">誓統南洋</a>
                 </p>
               </td>
             </tr>

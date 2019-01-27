@@ -11,11 +11,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            演習是<a href="Mongols.php">蒙古</a>的特殊科技，可於<a
-              href="Imperial_Age.php"
+            演習是<a href="/civs/Mongols">蒙古</a>的特殊科技，可於<a
+              href="/techsage/Imperial_Age"
               >帝王時代</a
-            >在 <a href="Castle.php">城堡</a>研發。研發後<a
-              href="Siege_Workshop.php"
+            >在 <a href="/building/Castle">城堡</a>研發。研發後<a
+              href="/building/Siege_Workshop"
               >攻城器製造所</a
             >的單位移動速度快50%。
           </p>
@@ -26,10 +26,10 @@
           <ul>
             <li>
               演習可加快攻城器的移動速度，讓蒙古軍隊成為遊戲中最敏捷的軍隊之一。而載滿<a
-                href="Infantry_Units.php"
+                href="/units/Infantry_Units"
                 >步兵</a
               >的蒙古衝撞車可以移動得像輕型
-              <a href="Cavalry_Units.php">騎兵</a>一樣地快速。
+              <a href="/units/Cavalry_Units">騎兵</a>一樣地快速。
             </li>
           </ul>
         </div>
@@ -38,7 +38,8 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a
+              <a href="/civs/Berbers">柏柏</a>：<a href="/techs/Kasbah"
+                >聚居堡壘</a
               >能夠加速演習的研究時間(快25%)。
             </li>
           </ul>
@@ -55,7 +56,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><a href="">演習</a></div>
+              <div class="unititle"><a href="#">演習</a></div>
             </td>
           </tr>
           <tr>
@@ -67,12 +68,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">科技介紹</a></div>
+              <div class="unititle2"><a href="#">科技介紹</a></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><a href="Mongols.php">蒙古</a></td>
+            <td class="unit4"><a href="/civs/Mongols">蒙古</a></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -81,14 +82,14 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><a href="Imperial_Age.php">帝王時代</a>
+              /><a href="/techsage/Imperial_Age">帝王時代</a>
             </td>
           </tr>
           <tr>
             <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Castleicon.png" alt="" /><a
-                href="Castle.php"
+                href="/building/Castle"
                 >城堡</a
               >
             </td>
@@ -99,7 +100,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">成本</a></div>
+              <div class="unititle2"><a href="#">成本</a></div>
             </td>
           </tr>
           <tr>
@@ -112,7 +113,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><a href="">影響</a></div>
+              <div class="unititle2"><a href="#">影響</a></div>
             </td>
           </tr>
           <tr>

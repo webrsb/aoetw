@@ -13,7 +13,7 @@
               width="50px;"
               alt=""
               style="margin-right:20px;"
-            />持續更新頁面：此頁面持續更新，歡迎到<a href="talk.php">討論區</a
+            />持續更新頁面：此頁面持續更新，歡迎到<a href="/talk">討論區</a
             >參與討論</em
           >
         </div>
@@ -73,7 +73,7 @@
               2001年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/microsofts-international-tournament-2001.178/"
+                  href="/https://www.aoezone.net/forums/microsofts-international-tournament-2001.178/"
                   >微軟國際大賽</a
                 ></strong
               >
@@ -187,7 +187,7 @@
               2002年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/fopt-reffs-rumble-cup-2001.222/"
+                  href="/https://www.aoezone.net/forums/fopt-reffs-rumble-cup-2001.222/"
                   >瑞福盃 (ReFF's AOK Rumble)</a
                 ></strong
               >
@@ -226,19 +226,19 @@
                   <td></td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/arbalet-cup-i-2002.176/"
+                      href="/https://www.aoezone.net/forums/arbalet-cup-i-2002.176/"
                       >第一屆</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/arbalet-cup-ii-2002.175/"
+                      href="/https://www.aoezone.net/forums/arbalet-cup-ii-2002.175/"
                       >第二屆</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/arbalet-cup-iii-2003.173/"
+                      href="/https://www.aoezone.net/forums/arbalet-cup-iii-2003.173/"
                       >第三屆</a
                     >
                   </td>
@@ -291,13 +291,13 @@
                   <td></td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/legion-cup-i-2002.221/"
+                      href="/https://www.aoezone.net/forums/legion-cup-i-2002.221/"
                       >第一屆</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/legion-cup-ii-2002.220/"
+                      href="/https://www.aoezone.net/forums/legion-cup-ii-2002.220/"
                       >第二屆</a
                     >
                   </td>
@@ -341,7 +341,7 @@
                   <td>第一屆</td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/mfo-the-conquering-hero-2003.216/"
+                      href="/https://www.aoezone.net/forums/mfo-the-conquering-hero-2003.216/"
                       >第二屆</a
                     >
                   </td>
@@ -380,13 +380,13 @@
                   <td>第一屆</td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/fopt-anniversary-cup-2003.219/"
+                      href="/https://www.aoezone.net/forums/fopt-anniversary-cup-2003.219/"
                       >第二屆</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/fopt-arabia-masters-2003.218/"
+                      href="/https://www.aoezone.net/forums/fopt-arabia-masters-2003.218/"
                       >第三屆</a
                     >
                   </td>
@@ -484,7 +484,7 @@
               2004年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/aoa-tournament-2004.170/"
+                  href="/https://www.aoezone.net/forums/aoa-tournament-2004.170/"
                   >AOA 戰隊盃 (AOA Tournament)</a
                 ></strong
               >
@@ -511,7 +511,7 @@
               2004年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/hero-of-arabia-2004.169/"
+                  href="/https://www.aoezone.net/forums/hero-of-arabia-2004.169/"
                   >阿拉伯英雄 (Hero of Arabia)</a
                 ></strong
               >
@@ -566,7 +566,7 @@
               2005年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/handicap-tournament-2005.214/"
+                  href="/https://www.aoezone.net/forums/handicap-tournament-2005.214/"
                   >障礙賽 (Handicap Tournament)</a
                 ></strong
               >
@@ -666,7 +666,7 @@
               2005年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/back-to-almaty-tournament-2005.160/"
+                  href="/https://www.aoezone.net/forums/back-to-almaty-tournament-2005.160/"
                   >回到阿拉木圖 (Back to Almaty)</a
                 ></strong
               >
@@ -764,7 +764,7 @@
               2006年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/aoc4ever-tournament-season-1.162/"
+                  href="/https://www.aoezone.net/forums/aoc4ever-tournament-season-1.162/"
                   >永遠的世紀 (AoC4Ever)</a
                 ></strong
               >
@@ -834,7 +834,7 @@
               2007年
               <strong
                 >來自中國 (<a
-                  href="https://www.aoezone.net/forums/2007-the-1st-from-china-tournament.161/"
+                  href="/https://www.aoezone.net/forums/2007-the-1st-from-china-tournament.161/"
                   >1st From China</a
                 >)</strong
               >
@@ -881,19 +881,19 @@
                   <td></td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/brain-champion-cup-season-1.139/"
+                      href="/https://www.aoezone.net/forums/brain-champion-cup-season-1.139/"
                       >BCC1</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/brain-champion-cup-season-2.138/"
+                      href="/https://www.aoezone.net/forums/brain-champion-cup-season-2.138/"
                       >BCC2</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/2010-brain-champion-cup-season-3-bcc3.121/"
+                      href="/https://www.aoezone.net/forums/2010-brain-champion-cup-season-3-bcc3.121/"
                       >BCC3</a
                     >
                   </td>
@@ -956,7 +956,7 @@
               2010年
               <strong
                 >匈奴大師賽 (<a
-                  href="https://www.aoezone.net/forums/2009-10-master-of-the-huns-season-1.92/"
+                  href="/https://www.aoezone.net/forums/2009-10-master-of-the-huns-season-1.92/"
                   >Master of the Huns</a
                 >)</strong
               >
@@ -1004,7 +1004,7 @@
               2012年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/2012-masters-of-random-map.596/"
+                  href="/https://www.aoezone.net/forums/2012-masters-of-random-map.596/"
                   >隨機地圖大師賽 (MoRM)</a
                 ></strong
               >
@@ -1051,13 +1051,13 @@
                   <td></td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/categories/2013-clash-of-the-titans.779/"
+                      href="/https://www.aoezone.net/categories/2013-clash-of-the-titans.779/"
                       >CoT</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/categories/2014-veterans-of-the-clash.826/"
+                      href="/https://www.aoezone.net/categories/2014-veterans-of-the-clash.826/"
                       >VoC</a
                     >
                   </td>
@@ -1126,7 +1126,7 @@
               2013~2014年
               <strong
                 ><a
-                  href="https://www.aoezone.net/categories/2014-top-experts-league-series.1678/"
+                  href="/https://www.aoezone.net/categories/2014-top-experts-league-series.1678/"
                   >頂尖聯盟 (TEL)</a
                 ></strong
               >
@@ -1204,7 +1204,7 @@
               2014年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/2014-out-of-sync-cup.839/"
+                  href="/https://www.aoezone.net/forums/2014-out-of-sync-cup.839/"
                   >不同步盃 (OOS)</a
                 ></strong
               >
@@ -1248,7 +1248,7 @@
               2015年
               <strong
                 ><a
-                  href="https://www.aoezone.net/categories/2015-wsvg-world-championship.1009/"
+                  href="/https://www.aoezone.net/categories/2015-wsvg-world-championship.1009/"
                   >WSVG</a
                 ></strong
               >
@@ -1302,7 +1302,7 @@
               2015年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/2015-the-empire-collective-cup.1593/"
+                  href="/https://www.aoezone.net/forums/2015-the-empire-collective-cup.1593/"
                   >世紀全集 (TECP)</a
                 ></strong
               >
@@ -1345,7 +1345,7 @@
               2015年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/2015-polaris-challenge-2k.767/"
+                  href="/https://www.aoezone.net/forums/2015-polaris-challenge-2k.767/"
                   >北極星擂臺賽 (Polaris)</a
                 ></strong
               >
@@ -1381,7 +1381,7 @@
               2016年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/2016-call-to-arms.1189/"
+                  href="/https://www.aoezone.net/forums/2016-call-to-arms.1189/"
                   >武裝召喚擂臺賽 (C2A)</a
                 ></strong
               >
@@ -1420,19 +1420,19 @@
                   <td></td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/2017-escape-gaming-masters-1.1462/"
+                      href="/https://www.aoezone.net/forums/2017-escape-gaming-masters-1.1462/"
                       >EGM1</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/2017-escape-gaming-masters-2.1463/"
+                      href="/https://www.aoezone.net/forums/2017-escape-gaming-masters-2.1463/"
                       >EGM2</a
                     >
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/2017-escape-gaming-masters-3.1639/"
+                      href="/https://www.aoezone.net/forums/2017-escape-gaming-masters-3.1639/"
                       >EGM3</a
                     >
                   </td>
@@ -1507,7 +1507,7 @@
               2017年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/2017-elimination-draft.1494/"
+                  href="/https://www.aoezone.net/forums/2017-elimination-draft.1494/"
                   >淘汰計劃 (EGM Elimination Draft)</a
                 ></strong
               >
@@ -1550,7 +1550,7 @@
               2017年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/2017-aoe-all-stars.1515/"
+                  href="/https://www.aoezone.net/forums/2017-aoe-all-stars.1515/"
                   >全明星賽 (EGM All-Stars)</a
                 ></strong
               >
@@ -1601,7 +1601,7 @@
                   <td colspan="3">
                     <strong
                       >2012年 阿拉伯大師賽 (<a
-                        href="https://www.aoezone.net/forums/2012-masters-of-arabia.536/"
+                        href="/https://www.aoezone.net/forums/2012-masters-of-arabia.536/"
                         >MoAra</a
                       >)</strong
                     >
@@ -1637,7 +1637,7 @@
                   <td colspan="3">
                     <strong
                       >2014年 征服阿拉伯 (<a
-                        href="https://www.aoezone.net/categories/2014-the-arabian-conquest.932/"
+                        href="/https://www.aoezone.net/categories/2014-the-arabian-conquest.932/"
                         >TAC</a
                       >)</strong
                     >
@@ -1673,7 +1673,7 @@
                   <td colspan="3">
                     <strong
                       >2016年 阿拉伯邀請賽 (<a
-                        href="https://www.aoezone.net/categories/2016-arabia-1v1-invitational.1247/"
+                        href="/https://www.aoezone.net/categories/2016-arabia-1v1-invitational.1247/"
                         >AraInv</a
                       >)</strong
                     >
@@ -1709,7 +1709,7 @@
                   <td colspan="3">
                     <strong
                       >2017年 沙漠之王 (<a
-                        href="https://www.aoezone.net/categories/2017-king-of-the-desert.1626/"
+                        href="/https://www.aoezone.net/categories/2017-king-of-the-desert.1626/"
                         >KotD</a
                       >)</strong
                     >
@@ -1763,7 +1763,7 @@
                   <td colspan="4">
                     <strong
                       >2013年 第一屆圍城大師賽 (<a
-                        href="https://www.aoezone.net/forums/2013-masters-of-arena-1.681/"
+                        href="/https://www.aoezone.net/forums/2013-masters-of-arena-1.681/"
                         >MoA1</a
                       >)</strong
                     >
@@ -1799,7 +1799,7 @@
                   <td colspan="4">
                     <strong
                       >2014年 第二屆圍城大師賽 (<a
-                        href="https://www.aoezone.net/categories/2014-masters-of-arena-2.892/"
+                        href="/https://www.aoezone.net/categories/2014-masters-of-arena-2.892/"
                         >MoA2</a
                       >)</strong
                     >
@@ -1835,7 +1835,7 @@
                   <td colspan="4">
                     <strong
                       >2016年 第三屆圍城大師賽 (<a
-                        href="https://www.aoezone.net/categories/2016-masters-of-arena-3.1152/"
+                        href="/https://www.aoezone.net/categories/2016-masters-of-arena-3.1152/"
                         >MoA3</a
                       >)</strong
                     >
@@ -1871,7 +1871,7 @@
                   <td colspan="4">
                     <strong
                       >2016年 第四屆圍城大師賽 (<a
-                        href="https://www.aoezone.net/categories/2016-masters-of-arena-4.1372/"
+                        href="/https://www.aoezone.net/categories/2016-masters-of-arena-4.1372/"
                         >MoA4</a
                       >)</strong
                     >
@@ -1907,7 +1907,7 @@
                   <td colspan="4">
                     <strong
                       >2018年 第五屆圍城大師賽 (<a
-                        href="https://www.aoezone.net/forums/2018-masters-of-arena-5.1740/"
+                        href="/https://www.aoezone.net/forums/2018-masters-of-arena-5.1740/"
                         >MoA5</a
                       >)</strong
                     >
@@ -1949,7 +1949,7 @@
                   <td colspan="4">
                     <strong
                       >2016年 島嶼大師賽 (<a
-                        href="https://www.aoezone.net/categories/2016-master-of-islands.1294/"
+                        href="/https://www.aoezone.net/categories/2016-master-of-islands.1294/"
                         >MoI</a
                       >)</strong
                     >
@@ -1991,7 +1991,7 @@
                   <td colspan="4">
                     <strong
                       >2016年 MR大師賽 (<a
-                        href="https://www.aoezone.net/categories/2016-masters-of-megarandom.1266/"
+                        href="/https://www.aoezone.net/categories/2016-masters-of-megarandom.1266/"
                         >MoMR</a
                       >)</strong
                     >
@@ -2031,7 +2031,7 @@
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/threads/daut-serbia-vs-chris-canada-bo-21-challenge.70160/"
+                      href="/https://www.aoezone.net/threads/daut-serbia-vs-chris-canada-bo-21-challenge.70160/"
                       >11:5</a
                     >
                   </td>
@@ -2045,7 +2045,7 @@
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/threads/battle-for-1-_daut_-serbia-vs-jordan_23-germany.73226/"
+                      href="/https://www.aoezone.net/threads/battle-for-1-_daut_-serbia-vs-jordan_23-germany.73226/"
                       >11:8</a
                     >
                   </td>
@@ -2059,7 +2059,7 @@
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/threads/norway-theviper-vs-daut-serbia-battle-for-nr-1-bo21-final.87617/"
+                      href="/https://www.aoezone.net/threads/norway-theviper-vs-daut-serbia-battle-for-nr-1-bo21-final.87617/"
                       >11:4</a
                     >
                   </td>
@@ -2073,7 +2073,7 @@
                   </td>
                   <td>
                     <a
-                      href="https://www.aoezone.net/threads/3rd-january-duel-of-the-century-viper-vs-jordan-bo21.97703/"
+                      href="/https://www.aoezone.net/threads/3rd-january-duel-of-the-century-viper-vs-jordan-bo21.97703/"
                       >11:10</a
                     >
                   </td>
@@ -2084,7 +2084,7 @@
                   <td>2017</td>
                   <td>
                     年 <img src="~assets/no.png" class="flg" alt="" /><a
-                      href="https://www.youtube.com/playlist?list=PLrFe08sgKX48kopaASn7eVPsDdFwRTgxY"
+                      href="/https://www.youtube.com/playlist?list=PLrFe08sgKX48kopaASn7eVPsDdFwRTgxY"
                       >Viper</a
                     >
                   </td>
@@ -2200,7 +2200,7 @@
               2013年
               <strong
                 >阿拉伯雙打大師賽 (<a
-                  href="https://www.aoezone.net/categories/2013-masters-of-arabia-2v2-1.610/"
+                  href="/https://www.aoezone.net/categories/2013-masters-of-arabia-2v2-1.610/"
                   >MoA2v2/AD13</a
                 >)</strong
               >
@@ -2262,7 +2262,7 @@
               2017年
               <strong
                 >阿拉伯雙打大師賽 (<a
-                  href="https://www.aoezone.net/categories/2017-masters-of-arabia-2v2.1392/"
+                  href="/https://www.aoezone.net/categories/2017-masters-of-arabia-2v2.1392/"
                   >MoA2v2/AD17</a
                 >)</strong
               >
@@ -2320,7 +2320,7 @@
               2017年
               <strong
                 >圍城雙鬥士賽 (<a
-                  href="https://www.aoezone.net/categories/2017-gladiators-of-the-arena.1483/"
+                  href="/https://www.aoezone.net/categories/2017-gladiators-of-the-arena.1483/"
                   >GotA/AreD17</a
                 >)</strong
               >
@@ -2377,7 +2377,7 @@
               2018年
               <strong
                 >圍城巨神賽 (<a
-                  href="https://www.aoezone.net/forums/2018-titans-of-arina.1781/"
+                  href="/https://www.aoezone.net/forums/2018-titans-of-arina.1781/"
                   >ToA/AreD18</a
                 >)</strong
               >
@@ -2438,7 +2438,7 @@
               2016年
               <strong
                 >游牧2v2 (<a
-                  href="https://www.aoezone.net/categories/2016-poisns-nomadness-1.1183/"
+                  href="/https://www.aoezone.net/categories/2016-poisns-nomadness-1.1183/"
                   >PoN1/ND16</a
                 >)</strong
               >
@@ -2497,7 +2497,7 @@
               2018年
               <strong
                 >游牧2v2 (<a
-                  href="https://www.aoezone.net/forums/2018-nomad-battlegrounds.1794/"
+                  href="/https://www.aoezone.net/forums/2018-nomad-battlegrounds.1794/"
                   >NBG/ND18</a
                 >)</strong
               >
@@ -2560,7 +2560,7 @@
               2014年
               <strong
                 ><a
-                  href="https://www.aoezone.net/categories/2014-saiyanhood-legends-united.900/"
+                  href="/https://www.aoezone.net/categories/2014-saiyanhood-legends-united.900/"
                   >賽亞人傳說 (SLU)</a
                 ></strong
               >
@@ -2620,7 +2620,7 @@
               2017年
               <strong
                 ><a
-                  href="https://www.aoezone.net/forums/2017-return-of-the-kings.1464/"
+                  href="/https://www.aoezone.net/forums/2017-return-of-the-kings.1464/"
                   >王者歸來 (EGM RotK)</a
                 ></strong
               >
@@ -2682,7 +2682,7 @@
               2016年
               <strong
                 >走向黑森林 (<a
-                  href="https://www.aoezone.net/forums/into-the-darkness.1221/"
+                  href="/https://www.aoezone.net/forums/into-the-darkness.1221/"
                   >Into the Darkness</a
                 >)</strong
               >
@@ -2743,7 +2743,7 @@
               2016年
               <strong
                 >游牧3v3 (<a
-                  href="https://www.aoezone.net/forums/2016-poisns-nomadness-2.1309/"
+                  href="/https://www.aoezone.net/forums/2016-poisns-nomadness-2.1309/"
                   >PoN2</a
                 >)</strong
               >
@@ -3196,7 +3196,7 @@
                 <tr>
                   <td colspan="5">
                     <a
-                      href="https://www.aoezone.net/forums/2011-world-clan-league-7.487/"
+                      href="/https://www.aoezone.net/forums/2011-world-clan-league-7.487/"
                       >2011年 WCL7</a
                     >:
                   </td>
@@ -3269,7 +3269,7 @@
             <p>
               <strong
                 ><a
-                  href="https://www.aoezone.net/categories/ln-tournament-2012.502/"
+                  href="/https://www.aoezone.net/categories/ln-tournament-2012.502/"
                   >2012年 部落戰爭 (TTW)</a
                 ></strong
               >
@@ -3350,7 +3350,7 @@
             <p>
               <strong
                 ><a
-                  href="https://www.aoezone.net/categories/2013-the-medieval-wars.715/"
+                  href="/https://www.aoezone.net/categories/2013-the-medieval-wars.715/"
                   >2013年 中世紀戰爭 (TMW)</a
                 ></strong
               >
@@ -3428,7 +3428,7 @@
             <p>
               <strong
                 ><a
-                  href="https://www.aoezone.net/categories/2015-war-is-coming.836/"
+                  href="/https://www.aoezone.net/categories/2015-war-is-coming.836/"
                   >2015年 戰爭來臨 (WiC)</a
                 ></strong
               >
@@ -3534,7 +3534,7 @@
             <p>
               <strong
                 ><a
-                  href="https://www.aoezone.net/categories/2016-clan-masters-the-final-showdown.1303/"
+                  href="/https://www.aoezone.net/categories/2016-clan-masters-the-final-showdown.1303/"
                   >2016年 王者之師</a
                 ></strong
               >
@@ -3613,7 +3613,7 @@
                 <tr>
                   <td>
                     <a
-                      href="https://www.aoezone.net/threads/nations-cup-2001-finals-g2-usa-vs-italy.94550/"
+                      href="/https://www.aoezone.net/threads/nations-cup-2001-finals-g2-usa-vs-italy.94550/"
                       >2001</a
                     >
                   </td>
@@ -3650,7 +3650,7 @@
                 <tr>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/nations-cup-2005.131/"
+                      href="/https://www.aoezone.net/forums/nations-cup-2005.131/"
                       >2005</a
                     >
                   </td>
@@ -3701,7 +3701,7 @@
                 <tr>
                   <td>
                     <a
-                      href="https://www.aoezone.net/forums/nations-cup-2009.130/"
+                      href="/https://www.aoezone.net/forums/nations-cup-2009.130/"
                       >2009</a
                     >
                   </td>
@@ -3752,7 +3752,7 @@
                 <tr>
                   <td>
                     <a
-                      href="https://www.aoezone.net/categories/2014-sy-nations-cup-i.851/"
+                      href="/https://www.aoezone.net/categories/2014-sy-nations-cup-i.851/"
                       >2014</a
                     >
                   </td>
@@ -3817,7 +3817,7 @@
                 <tr>
                   <td>
                     <a
-                      href="https://www.aoezone.net/categories/2015-sy-nations-cup-ii.1041/"
+                      href="/https://www.aoezone.net/categories/2015-sy-nations-cup-ii.1041/"
                       >2015</a
                     >
                   </td>
@@ -3882,7 +3882,7 @@
                 <tr>
                   <td>
                     <a
-                      href="https://www.aoezone.net/categories/2017-sy-nations-cup-iii.1523/"
+                      href="/https://www.aoezone.net/categories/2017-sy-nations-cup-iii.1523/"
                       >2017</a
                     >
                   </td>

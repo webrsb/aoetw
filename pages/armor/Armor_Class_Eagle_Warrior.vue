@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於鷹勇士系裝甲的。而關於鷹勇士這個兵種的請參見<a
-              href="Eagle_Warrior.php"
+              href="/units/Eagle_Warrior"
               >鷹勇士</a
             ></em
           >
@@ -31,11 +31,11 @@
           <ul>
             <li>
               <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
-              <a href="Eagle_Scout.php">鷹斥侯</a>→
+              <a href="/units/Eagle_Scout">鷹斥侯</a>→
               <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" />
-              <a href="Eagle_Warrior.php">鷹勇士</a>→
+              <a href="/units/Eagle_Warrior">鷹勇士</a>→
               <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="" />
-              <a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
+              <a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
             </li>
           </ul>
         </div>
@@ -43,7 +43,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           以下單位擁有對鷹勇士系的額外傷害，按造傷殺力排列。一般來說，大多數的<a
-            href="Armor_Class_Infantry.php"
+            href="/armor/Armor_Class_Infantry"
             >步兵單位</a
           >都有加成。
           <div class="n1">
@@ -57,9 +57,9 @@
                       src="~assets/2HandedswordsmanIcon.jpg"
                       alt=""
                     />
-                    <a href="Two-Handed_Swordsman.php">雙手劍兵</a>→
+                    <a href="/units/Two-Handed_Swordsman">雙手劍兵</a>→
                     <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
-                    <a href="Champion.php">劍兵勇士</a>
+                    <a href="/units/Champion">劍兵勇士</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -70,47 +70,47 @@
                       src="~assets/LongswordsManIcon.jpg"
                       alt=""
                     />
-                    <a href="Long_Swordsman.php">長劍兵</a>
+                    <a href="/units/Long_Swordsman">長劍兵</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Crusade_avatar.png" alt="" /><a
-                      href="Teutonic_Knight.php"
+                      href="/Teutonic_units/Knight"
                       >條頓武士</a
                     >→
                     <img class="gg" src="~assets/Crusade_avatar.png" alt="" /><a
-                      href="Teutonic_Knight.php"
+                      href="/Teutonic_units/Knight"
                       >精銳條頓武士</a
-                    >(<a href="Teutons.php">條頓</a>限定)
+                    >(<a href="/civs/Teutons">條頓</a>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
                     <img class="gg" src="~assets/WBRSK.jpg" alt="" /><a
-                      href="Woad_Raider.php"
+                      href="/units/Woad_Raider"
                       >精銳菘藍武士</a
-                    >(<a href="Celts.php">塞爾特</a>限定)
+                    >(<a href="/civs/Celts">塞爾特</a>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/SMURI.jpg" alt="" /><a
-                      href="Samurai.php"
+                      href="/units/Samurai"
                       >精銳日本武士</a
-                    >(<a href="Japanese.php">日本</a>限定)
+                    >(<a href="/civs/Japanese">日本</a>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" /><a
-                      href="Huskarl.php"
+                      href="/units/Huskarl"
                       >精銳哥德衛隊</a
-                    >(<a href="Goths.php">哥德</a>限定)
+                    >(<a href="/civs/Goths">哥德</a>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/VBRSK.jpg" alt="" /><a
-                      href="Berserk.php"
+                      href="/units/Berserk"
                       >精銳狂戰士</a
-                    >(<a href="Vikings.php">維京</a>限定)
+                    >(<a href="/civs/Vikings">維京</a>限定)
                   </li>
                 </ul>
               </div>
@@ -123,74 +123,74 @@
                       src="~assets/ManAtArmsIcon.jpg"
                       alt=""
                       width="22"
-                    /><a href="Man-at-Arms.php">裝甲步兵</a>
+                    /><a href="/units/Man-at-Arms">裝甲步兵</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/WBRSK.jpg" alt="" /><a
-                      href="Woad_Raider.php"
+                      href="/units/Woad_Raider"
                       >菘藍武士</a
-                    >(<a href="Celts.php">塞爾特</a>限定)
+                    >(<a href="/civs/Celts">塞爾特</a>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/SMURI.jpg" alt="" /><a
-                      href="Samurai.php"
+                      href="/units/Samurai"
                       >日本武士</a
-                    >(<a href="Japanese.php">日本</a>限定)
+                    >(<a href="/civs/Japanese">日本</a>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" /><a
-                      href="Huskarl.php"
+                      href="/units/Huskarl"
                       >哥德衛隊</a
-                    >(<a href="Goths.php">哥德</a>限定)
+                    >(<a href="/civs/Goths">哥德</a>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/VBRSK.jpg" alt="" /><a
-                      href="Berserk.php"
+                      href="/units/Berserk"
                       >狂戰士</a
-                    >(<a href="Vikings.php">維京</a>限定)
+                    >(<a href="/civs/Vikings">維京</a>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/TAXEM.jpg" alt="" /><a
-                      href="Throwing_Axeman.php"
+                      href="/units/Throwing_Axeman"
                       >精銳擲斧兵</a
-                    >(<a href="Franks.php">法蘭克</a>限定)
+                    >(<a href="/civs/Franks">法蘭克</a>限定)
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
-                    /><a href="Karambit_Warrior.php">爪刀勇士</a>→
+                    /><a href="/units/Karambit_Warrior">爪刀勇士</a>→
                     <img
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
-                    /><a href="Karambit_Warrior.php">精銳爪刀勇士</a>(<a
-                      href="Malay.php"
+                    /><a href="/units/Karambit_Warrior">精銳爪刀勇士</a>(<a
+                      href="/civs/Malay"
                       >馬來</a
                     >限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/ShotelIcon.png" alt="" /><a
-                      href="Shotel_Warrior.php"
+                      href="/units/Shotel_Warrior"
                       >彎刀勇士</a
                     >→ <img class="gg" src="~assets/ShotelIcon.png" alt="" /><a
-                      href="Shotel_Warrior.php"
+                      href="/units/Shotel_Warrior"
                       >精銳彎刀勇士</a
-                    >(<a href="Ethiopians.php">衣索比亞</a>限定)
+                    >(<a href="/civs/Ethiopians">衣索比亞</a>限定)
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/JaguarWarriorIcon.jpg"
                       alt=""
-                    /><a href="Jaguar_Warrior.php">豹勇士</a>→
+                    /><a href="/units/Jaguar_Warrior">豹勇士</a>→
                     <img
                       class="gg"
                       src="~assets/JaguarWarriorIcon.jpg"
                       alt=""
-                    /><a href="Jaguar_Warrior.php">精銳豹勇士</a>(<a
-                      href="Aztecs.php"
+                    /><a href="/units/Jaguar_Warrior">精銳豹勇士</a>(<a
+                      href="/civs/Aztecs"
                       >阿茲特克</a
                     >限定)
                   </li>
@@ -201,26 +201,26 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
-                    <a href="Spearman.php">長槍兵</a>→
+                    <a href="/units/Spearman">長槍兵</a>→
                     <img class="gg" src="~assets/PikemanIcon.jpg" alt="" />
-                    <a href="Pikeman.php">重裝長槍兵</a>→
+                    <a href="/units/Pikeman">重裝長槍兵</a>→
                     <img class="gg" src="~assets/HalberdierIcon.jpg" alt="" />
-                    <a href="Halberdier.php">戟兵</a>
+                    <a href="/units/Halberdier">戟兵</a>
                   </li>
                   <li>
                     <img class="gg" src="~assets/TAXEM.jpg" alt="" /><a
-                      href="Throwing_Axeman.php"
+                      href="/units/Throwing_Axeman"
                       >擲斧兵</a
-                    >(<a href="Franks.php">法蘭克</a>限定)
+                    >(<a href="/civs/Franks">法蘭克</a>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/GbetoIcon.png" alt="" /><a
-                      href="Gbeto.php"
+                      href="/units/Gbeto"
                       >飛刀女獵手</a
                     >→ <img class="gg" src="~assets/GbetoIcon.png" alt="" /><a
-                      href="Gbeto.php"
+                      href="/units/Gbeto"
                       >精銳飛刀女獵手</a
-                    >(<a href="Malians.php">馬利</a>限定)
+                    >(<a href="/civs/Malians">馬利</a>限定)
                   </li>
                 </ul>
               </div>

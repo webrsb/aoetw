@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於僧侶單位的裝甲。而關於僧侶這個兵種的請參見<a
-              href="Monk.php"
+              href="/units/Monk"
               >僧侶</a
             ></em
           >
@@ -35,7 +35,7 @@
                 style="margin: 2px;"
                 src="~assets/MonkIcon.jpg"
                 alt=""
-              /><a href="Monk.php">僧侶</a>
+              /><a href="/units/Monk">僧侶</a>
             </li>
             <li>
               <img
@@ -43,7 +43,7 @@
                 style="margin: 2px;"
                 src="~assets/MissionaryIcon.jpg"
                 alt=""
-              /><a href="Missionary.php">傳教士</a>(<a href="Spanish.php"
+              /><a href="/units/Missionary">傳教士</a>(<a href="/civs/Spanish"
                 >西班牙</a
               >限定)
             </li>
@@ -58,7 +58,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><a
-                  href="Hussar.php"
+                  href="/Hustree/sar"
                   >匈牙利輕騎兵</a
                 >
               </li>
@@ -70,11 +70,11 @@
                   class="gg"
                   src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""
-                /><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
+                /><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
               </li>
               <li>
                 <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" /><a
-                  href="Light_Cavalry.php"
+                  href="/units/Light_Cavalry"
                   >輕騎兵</a
                 >
               </li>
@@ -83,11 +83,11 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                  href="Eagle_Scout.php"
+                  href="/units/Eagle_Scout"
                   >鷹斥侯</a
                 >→
                 <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" /><a
-                  href="Eagle_Warrior.php"
+                  href="/units/Eagle_Warrior"
                   >鷹勇士</a
                 >
               </li>
@@ -96,7 +96,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" /><a
-                  href="Scout_Cavalry.php"
+                  href="/units/Scout_Cavalry"
                   >斥侯騎兵</a
                 >
               </li>

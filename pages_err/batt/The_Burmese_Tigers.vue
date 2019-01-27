@@ -58,20 +58,20 @@
                 "> <ul>  <li>葡萄牙人就和所有戰役裡愛錢的劇情AI一樣，當你繳不出錢就不要對他們翻臉感到意外。</li>  <li>勃印曩(1516-1581)作為德彬瑞蒂國王的手下大將。在本章節的形象是騎乘近戰單位，以精銳矛象伕的形象登場。</li><li>德彬瑞蒂國王(1527-1551)在我國明代典籍中被稱作「莽瑞體」，為東籲王朝君主，果斷對於白古用兵，更廣泛招募葡萄牙雇傭軍作戰。直到遇刺前，都在進行對白古王國的戰爭。在本章節的形象是象弓騎兵。</li><li>卑謬總督(?-?)在本章節以東亞僧侶的形象登場。</li><li>卑謬位於緬甸西南邊，在16世紀中擁有治權。是白古王朝的重要盟友。在遊戲中以印度代表之。</li><li>白古，在我國典籍內也被稱為「勃固」。是由孟族建立的治權，16世紀時一度稱霸下緬甸地區。在遊戲中以高棉代表之。</li><li>撣族，即緬地人民對我國傣族的訛稱。生活於雲南至緬北一帶。在遊戲中以中國代表之。</li><li>本關卡原文名稱為"The Burmese Tigers
                 "。字面上應為：緬甸之虎。因為緬軍在德彬瑞蒂大王的指揮下開始一系列的擴張，是以翻譯組取其勇猛之意將之譯為餓虎撲食。</li></ul></div></div></div>  </div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
                 ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><a href="
+                ">       <div class="unititle "><a href="/
                 ">餓虎撲食</a></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/(map)Bayinnaung_1.The_Burmese_Tigers.jpg
                 " width=" " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href=" ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
+                "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">王者崛起</td>      </tr>      <tr>        <td class="unit3
                 ">戰役</td>       <td class="unit4 ">勃印曩</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><a href=" ">緬甸人</a></td>      </tr>
+                ">文明</td>       <td class="unit4 "><a href="/ ">緬甸人</a></td>      </tr>
 <tr><td class="unit
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><a href="
+                "><a href="/
                 ">戰役關卡編號</a></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
                 ">王者崛起第三章之一</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>        <td class="unit4
-                ">       <a href=>N/A</a></p>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="The_Madalay_Cobra.php
+                ">       <a href=>N/A</a></p>      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="unit4 ">        <a href="/The_Madalay_Cobra.php
                 ">猛蛇出洞</a>        </td>      </tr>        </table>     <div class="thanks
                 ">       感謝! 此頁面由亞諭、裕暉協助編輯     </div>  </div></div> <div class="row ">  <div class="col-md-12
                 ">  </div></div>      </div>    

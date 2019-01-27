@@ -90,7 +90,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em><a href="khm.php">高棉科技樹</a></em>
+          <em><a href="/tree/khm">高棉科技樹</a></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -111,7 +111,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a href="img/Wonderkhmer.png"
+              <a href="/img/Wonderkhmer.png"
                 ><img class="imgn hg" src="~assets/Wonderkhmer.png" alt=""
               /></a>
               <p><em>高棉世界奇觀，吳哥窟</em></p>

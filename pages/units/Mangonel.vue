@@ -11,14 +11,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="Mangonel.php">輕型投石車</a>是一個遠程攻城單位
-            ，當玩家升級到了<a href="Castle_Age.php">城堡時代</a
+            <a href="/units/Mangonel">輕型投石車</a>是一個遠程攻城單位
+            ，當玩家升級到了<a href="/techsage/Castle_Age">城堡時代</a
             >後，便可以在攻城器製造所進行訓練。
-            主要拿來對付成群的敵人，他的高攻擊與<a href="Area_of_Effect.php"
+            主要拿來對付成群的敵人，他的高攻擊與<a
+              href="/elements/Area_of_Effect"
               >擴散傷害</a
-            >是所有<a href="Archer_Units.php">遠距離單位</a
+            >是所有<a href="/units/Archer_Units">遠距離單位</a
             >的惡夢。而弱點有低射速與最小範圍。研發
-            <a href="Chemistry.php">化學</a
+            <a href="/techs/Chemistry">化學</a
             >科技後，攻擊時會噴賤出高溫的成群熱火球(類似超級瑪莉吃火時吐出的火花)，也是少數可以預判對手走位，攻擊指定範圍的單位。
           </p>
         </div>
@@ -26,27 +27,27 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在城堡初期，<a href="Mangonel.php">輕型投石車</a
+            在城堡初期，<a href="/units/Mangonel">輕型投石車</a
             >是一個非常昂貴的單位，行走速度非常的緩慢，但優異的擴散傷害，是步弓單位的天敵，關鍵時刻的一擲，可能瞬間逆轉局勢。
           </p>
           <p>
-            事實上，<a href="Mangonel.php">輕型投石車</a>的傷害並沒有對<a
-              href="Archery_Range.php"
+            事實上，<a href="/units/Mangonel">輕型投石車</a>的傷害並沒有對<a
+              href="/building/Archery_Range"
               >射箭場</a
             >單位有額外的加成效果，但因為該單位特殊的擴散效果，每次都會擲出的石頭，除了會造成中心位置40的傷害外，只要在傷害半徑內，都會受到額外的火球疊加傷害，也因為這樣的特質，被喻為成群弓手的剋星一點都不為過。不過優秀的玩家通常會利用其厲害的控兵技巧來躲避投石車的攻擊，進而射爆投石車。
           </p>
           <p>
-            <a href="Mangonel.php">輕型投石車</a
-            >的攻擊距離到達7，恰好可以投擲到<a href="Town_Center.php"
+            <a href="/units/Mangonel">輕型投石車</a
+            >的攻擊距離到達7，恰好可以投擲到<a href="/building/Town_Center"
               >城鎮中心</a
             >(起始放箭距離為6)，所以將
-            <a href="Mangonel.php">輕型投石車</a>拿來拆除<a
-              href="Town_Center.php"
+            <a href="/units/Mangonel">輕型投石車</a>拿來拆除<a
+              href="/building/Town_Center"
               >城鎮中心</a
             >也是個不錯的選擇，但生命值過低，移動速度慢，加上有最小的攻擊距離限制，很容易被敵方機動性高的兵種反制，使用上非常吃判斷力，被成群的敵軍包圍時，大概就沒有什麼生存的機會了。
           </p>
           <p>
-            與<a href="Monk.php">僧侶</a>或<a href="Pikeman.php">槍兵</a
+            與<a href="/units/Monk">僧侶</a>或<a href="/units/Pikeman">槍兵</a
             >的配合是一個絕佳組合，因為可以相輔相成。而僧投(僧侶+投石車)戰術更是經典中的經典。
           </p>
         </div>
@@ -62,25 +63,26 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <a href="Armor_Class_Building.php">建築物</a>、<a
-                href="Villager.php"
+              <a href="/armor/Armor_Class_Building">建築物</a>、<a
+                href="/units/Villager"
                 >村民</a
-              >、<a href="Archer_Units.php">弓兵</a>、
-              <a href="Scorpion.php">弩炮</a>、<a href="Battering_Ram.php"
+              >、<a href="/units/Archer_Units">弓兵</a>、
+              <a href="/units/Scorpion">弩炮</a>、<a href="/units/Battering_Ram"
                 >輕型衝撞車</a
-              >、<a href="Trebuchet.php">巨型投石機</a>、群聚的單位。
+              >、<a href="/units/Trebuchet">巨型投石機</a>、群聚的單位。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              近戰<a href="Cavalry_Units.php">騎兵單位</a>、<a
-                href="Magyar_Huszar.php"
+              近戰<a href="/units/Cavalry_Units">騎兵單位</a>、<a
+                href="/units/Magyar_Huszar"
                 >馬札爾驃騎兵</a
-              >、 <a href="Mangudai.php">蒙古突騎</a>、<a href="Woad_Raider.php"
+              >、 <a href="/units/Mangudai">蒙古突騎</a>、<a
+                href="/units/Woad_Raider"
                 >菘藍武士</a
-              >、<a href="Condottiero.php">傭兵</a>、
-              <a href="Eagle_Warrior.php">鷹勇士</a>。
+              >、<a href="/units/Condottiero">傭兵</a>、
+              <a href="/units/Eagle_Warrior">鷹勇士</a>。
             </td>
           </tr>
           <tr class="tta">
@@ -92,28 +94,28 @@
             <td class="tta1" style="width:10%">生命值</td>
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="Furor_Celtica.php"
+                href="/techs/Furor_Celtica"
                 >賽爾特狂暴</a
-              >(+40%，<a href="Celts.php">賽爾特</a>限定)
+              >(+40%，<a href="/civs/Celts">賽爾特</a>限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">攻擊力</td>
             <td class="tta4">
               <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                href="Siege_Engineers.php"
+                href="/techs/Siege_Engineers"
                 >攻城工程師</a
               >:對建築物攻擊加成+20%。
               <br />
               <img class="gg" src="~assets/Chemistry.jpg" width="30" alt="" /><a
-                href="Chemistry.php"
+                href="/techs/Chemistry"
                 >化學</a
               >(+1)
               <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="Torsion_Engines.php"
+                href="/techs/Torsion_Engines"
                 >扭力彈射器</a
-              >：攻城器製造所的單位傷害範圍增加。<a href="Ethiopians.php"
+              >：攻城器製造所的單位傷害範圍增加。<a href="/civs/Ethiopians"
                 >衣索比亞</a
               >限定
             </td>
@@ -122,44 +124,44 @@
             <td class="tta1" style="width:10%">範圍</td>
             <td class="tta4">
               <img class="gg" src="~assets/Siegeengineers.jpg" alt="" /><a
-                href="Siege_Engineers.php"
+                href="/techs/Siege_Engineers"
                 >攻城工程師</a
               >:對建築物攻擊加成+20%。
               <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="Shinkichon.php"
+                href="/techs/Shinkichon"
                 >神機箭</a
-              >(+1，<a href="Koreans.php">韓國</a>限定)
+              >(+1，<a href="/civs/Koreans">韓國</a>限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">防禦</td>
             <td class="tta4">
               <img src="~assets/CastleAgeUnique.png" class="gg" alt="" /><a
-                href="Ironclad.php"
+                href="/techs/Ironclad"
                 >鋼鐵甲</a
-              >(+4/+0，<a href="Teutons.php">條頓</a>限定)
+              >(+4/+0，<a href="/civs/Teutons">條頓</a>限定)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">速度</td>
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><a
-                href="Drill.php"
+                href="/techs/Drill"
                 >演習</a
-              >(+50%，<a href="Mongols.php">蒙古</a>)
+              >(+50%，<a href="/civs/Mongols">蒙古</a>)
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><a
-                href="Faith.php"
+                href="/techs/Faith"
                 >忠誠信仰</a
               >
               <br />
               <img class="gg" src="~assets/Heresy.png" width="30" alt="" /><a
-                href="Heresy.php"
+                href="/techs/Heresy"
                 >異端邪說</a
               >
             </td>
@@ -177,7 +179,7 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/SiegeRamIcon.jpg" alt="" /><a
-                      href="Siege_Ram.php"
+                      href="/units/Siege_Ram"
                       >重型衝撞車</a
                     >
                   </li>
@@ -186,7 +188,7 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/PetardIcon.jpg" alt="" /><a
-                      href="Petard.php"
+                      href="/units/Petard"
                       >爆炸桶</a
                     >
                   </li>
@@ -199,7 +201,7 @@
                       src="~assets/CappedRamIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Capped_Ram.php">裝甲衝撞車</a>
+                    /><a href="/units/Capped_Ram">裝甲衝撞車</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+40攻擊</strong></div>
@@ -209,14 +211,14 @@
                       class="gg"
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
-                    /><a href="Battering_Ram.php">輕形衝撞車</a>
+                    /><a href="/units/Battering_Ram">輕形衝撞車</a>
                   </li>
                   <li>
                     <img src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                      href="Cannon_Galleon.php"
+                      href="/units/Cannon_Galleon"
                       >火砲戰船</a
                     >→ <img src="~assets/CannonGalleonIcon.jpg" alt="" /><a
-                      href="Elite_Cannon_Galleon.php"
+                      href="/Elite_units/Cannon_Galleon"
                       >精銳火砲戰船</a
                     >
                   </li>
@@ -228,7 +230,7 @@
                       class="gg"
                       src="~assets/BombardCannonIcon.jpg"
                       alt=""
-                    /><a href="Bombard_Cannon.php">火砲</a>
+                    /><a href="/units/Bombard_Cannon">火砲</a>
                   </li>
                 </ul>
               </div>
@@ -237,17 +239,17 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><a
-                      href="Mangonel.php"
+                      href="/units/Mangonel"
                       >輕形投石車</a
                     >→ <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><a
-                      href="Onager.php"
+                      href="/units/Onager"
                       >中型投石車</a
                     >→
                     <img
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><a href="Siege_Onager.php">重型投石車</a>
+                    /><a href="/Siege_units/Onager">重型投石車</a>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
@@ -258,8 +260,8 @@
                       src="~assets/Magyar_Huszar_icon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Magyar_Huszar.php">精銳馬札爾驃騎兵</a>(<a
-                      href="Magyars.php"
+                    /><a href="/units/Magyar_Huszar">精銳馬札爾驃騎兵</a>(<a
+                      href="/civs/Magyars"
                       >馬札爾</a
                     >限定)
                   </li>
@@ -271,7 +273,7 @@
                       class="gg"
                       src="~assets/EliteEagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="Elite_Eagle_Warrior.php">精銳鷹勇士</a>
+                    /><a href="/Elite_units/Eagle_Warrior">精銳鷹勇士</a>
                   </li>
                   <li>
                     <img
@@ -279,8 +281,8 @@
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Mangudai.php">精銳蒙古突騎</a>(<a
-                      href="Mongols.php"
+                    /><a href="/units/Mangudai">精銳蒙古突騎</a>(<a
+                      href="/civs/Mongols"
                       >蒙古</a
                     >限定)
                   </li>
@@ -290,8 +292,8 @@
                       src="~assets/Magyar_Huszar_icon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Magyar_Huszar.php">馬札爾驃騎兵</a>(<a
-                      href="Magyars.php"
+                    /><a href="/units/Magyar_Huszar">馬札爾驃騎兵</a>(<a
+                      href="/civs/Magyars"
                       >馬札爾</a
                     >限定)
                   </li>
@@ -300,14 +302,14 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" /><a
-                      href="Eagle_Scout.php"
+                      href="/units/Eagle_Scout"
                       >鷹斥侯</a
                     >→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
                       alt=""
-                    /><a href="Eagle_Warrior.php">鷹勇士</a>
+                    /><a href="/units/Eagle_Warrior">鷹勇士</a>
                   </li>
                   <li>
                     <img
@@ -315,7 +317,8 @@
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
-                    /><a href="Mangudai.php">蒙古突騎</a>(<a href="Mongols.php"
+                    /><a href="/units/Mangudai">蒙古突騎</a>(<a
+                      href="/civs/Mongols"
                       >蒙古</a
                     >限定)
                   </li>
@@ -329,17 +332,19 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Aztecs.php">阿茲特克</a>：輕型投石車生產速度快15%。
+              <a href="/civs/Aztecs">阿茲特克</a>：輕型投石車生產速度快15%。
             </li>
-            <li><a href="Chinese.php">中國</a>：科技在帝王時代便宜20%。</li>
+            <li><a href="/civs/Chinese">中國</a>：科技在帝王時代便宜20%。</li>
             <li>
-              <a href="Celts.php">賽爾特</a
+              <a href="/civs/Celts">賽爾特</a
               >：攻城器單位攻擊速度快25%(科技樹寫20%是錯的!)
             </li>
             <li>
-              <a href="Spanish.php">葡萄牙</a>：輕型投石車黃金成本減少15%。
+              <a href="/civs/Spanish">葡萄牙</a>：輕型投石車黃金成本減少15%。
             </li>
-            <li><a href="Slavs.php">斯拉夫</a>：輕型投石車訓練成本減少15%。</li>
+            <li>
+              <a href="/civs/Slavs">斯拉夫</a>：輕型投石車訓練成本減少15%。
+            </li>
           </ul>
         </div>
         <h3>團隊加成</h3>
@@ -347,16 +352,16 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="Celts.php">賽爾特</a>：輕型投石車訓練和升級速度快20%。
+              <a href="/civs/Celts">賽爾特</a>：輕型投石車訓練和升級速度快20%。
             </li>
-            <li><a href="Koreans.php">韓國</a>：投石車最小攻擊距離移除。</li>
+            <li><a href="/civs/Koreans">韓國</a>：投石車最小攻擊距離移除。</li>
             <li>
-              <a href="Malians.php">馬利</a>：研發<a href="Chemistry.php"
+              <a href="/civs/Malians">馬利</a>：研發<a href="/techs/Chemistry"
                 >化學</a
-              >和<a href="Siege_Engineers.php">攻城工程師</a>的速度快80%。
+              >和<a href="/techs/Siege_Engineers">攻城工程師</a>的速度快80%。
             </li>
             <li>
-              <a href="Teutons.php">條頓</a
+              <a href="/civs/Teutons">條頓</a
               >：輕型投石車對僧侶的招降有較好的抗性。
             </li>
           </ul>
@@ -364,45 +369,47 @@
           <div class="hrn1"></div>
           <div class="n1">
             <h3>
-              <em><a href="aok.php">帝王世紀</a></em>
+              <em><a href="/games/aok">帝王世紀</a></em>
             </h3>
             <ul>
               <li>移動速度為0.5。</li>
             </ul>
             <h3>
-              <em><a href="aoc.php">征服者入侵</a></em>
+              <em><a href="/games/aoc">征服者入侵</a></em>
             </h3>
             <ul>
               <li>輕型投石車現在移動速度增加到0.6。</li>
               <li>輕型投石車對攻城武器有+12的攻擊。</li>
               <li>
-                <a href="Mongols.php">蒙古</a>:引進<a href="Drill.php">演習</a
+                <a href="/civs/Mongols">蒙古</a>:引進<a href="/techs/Drill"
+                  >演習</a
                 >科技。
               </li>
               <li>
-                <a href="Koreans.php">韓國</a>:<a href="Shinkichon.php"
+                <a href="/civs/Koreans">韓國</a>:<a href="/techs/Shinkichon"
                   >神機箭</a
                 >：給予投石車+2的射程，到了1.0c版效果減少為1。
               </li>
               <li>
-                <a href="Koreans.php">韓國</a>的團隊加分讓投石車有+1射程。
+                <a href="/civs/Koreans">韓國</a>的團隊加分讓投石車有+1射程。
               </li>
             </ul>
             <h3>
-              <em><a href="aof.php">失落的帝國</a></em>
+              <em><a href="/games/aof">失落的帝國</a></em>
             </h3>
             <ul>
               <li>
-                <a href="Celts.php">賽爾特</a>：<a href="Furor_Celtica.php"
+                <a href="/civs/Celts">賽爾特</a>：<a href="/techs/Furor_Celtica"
                   >賽爾特狂暴</a
                 >給予投石車+40%的HP。
               </li>
               <li>
-                <a href="Teutons.php">條頓</a>：<a href="Ironclad.php">鋼鐵甲</a
+                <a href="/civs/Teutons">條頓</a>：<a href="/techs/Ironclad"
+                  >鋼鐵甲</a
                 >引入。
               </li>
               <li>
-                <a href="Koreans.php">韓國</a
+                <a href="/civs/Koreans">韓國</a
                 >的團隊加分改為最小範圍-2，而不是射程+1。
               </li>
             </ul>
@@ -412,7 +419,7 @@
           <div class="n1">
             <ul>
               <li>
-                在失落的帝國之前，投石車研發<a href="Chemistry.php">化學</a
+                在失落的帝國之前，投石車研發<a href="/techs/Chemistry">化學</a
                 >會變弱，投擲速度從3.5降低到2.9。
               </li>
             </ul>
@@ -422,19 +429,19 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a href="img/Mangonel.png"
+                <a href="/img/Mangonel.png"
                   ><img class="imgn hg" src="~assets/Mangonel.png" alt=""
                 /></a>
                 <p><em>輕型投石車</em></p>
               </div>
               <div class="col-md-4">
-                <a href="img/Mangonelline.png"
+                <a href="/img/Mangonelline.png"
                   ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
                 /></a>
                 <p><em>投石車系</em></p>
               </div>
               <div class="col-md-4">
-                <a href="img/Mangonneau.png"
+                <a href="/img/Mangonneau.png"
                   ><img class="imgn hg" src="~assets/Mangonneau.png" alt=""
                 /></a>
                 <p><em>畫家素描下現實世界的投石車</em></p>
@@ -475,7 +482,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><a href="Siege_Weapons.php">攻城器</a></td>
+            <td class="unit4"><a href="/units/Siege_Weapons">攻城器</a></td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -489,7 +496,7 @@
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              /><a href="Castle_Age.php">城堡時代</a>
+              /><a href="/techsage/Castle_Age">城堡時代</a>
             </td>
           </tr>
           <tr>
@@ -500,7 +507,7 @@
                 src="~assets/Siege-workshop-logo.jpg"
                 width="30"
                 alt=""
-              /><a href="Siege_Workshop.php">攻城器製造所</a>
+              /><a href="/building/Siege_Workshop">攻城器製造所</a>
             </td>
           </tr>
           <tr>
@@ -536,8 +543,9 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +35 vs <a href="Armor_Class_Building.php">建築物</a> <br />+12 vs
-              <a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
+              +35 vs <a href="/armor/Armor_Class_Building">建築物</a> <br />+12
+              vs
+              <a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a>
             </td>
           </tr>
           <tr>
@@ -569,7 +577,7 @@
             <td class="unit4">3.5</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_Class.php">近防</a></td>
+            <td class="unit3"><a href="/Armor_Class.php">近防</a></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -577,9 +585,9 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3"><a href="Armor_Class.php">防禦類型</a></td>
+            <td class="unit3"><a href="/Armor_Class.php">防禦類型</a></td>
             <td class="unit4">
-              <a href="Armor_Class_Siege_Weapon.php">攻城武器</a>
+              <a href="/armor/Armor_Class_Siege_Weapon">攻城武器</a>
             </td>
           </tr>
           <tr>
@@ -599,7 +607,7 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><a
-                href="Onager.php"
+                href="/units/Onager"
                 >中型投石車</a
               >
             </td>
