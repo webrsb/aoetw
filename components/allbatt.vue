@@ -361,7 +361,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <a href="/Lê_Lợia.php">黎利</a>
+              <a href="/Le_Loi.php">黎利</a>
             </td>
             <td class="unit4">
               <a href="/batt/The_Dai_Viet_Uprising">大越義軍</a>。

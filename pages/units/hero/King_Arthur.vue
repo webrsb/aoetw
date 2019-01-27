@@ -279,7 +279,7 @@
             >
           </h3>
           <div class="wimg">
-            <img height="124px;" src="~assets/吾王满破.png" alt="" />
+            <img height="124px;" src="~assets/Saber.png" alt="" />
           </div>
           <div class="hrn1"></div>
           <br />

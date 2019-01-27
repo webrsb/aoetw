@@ -62,7 +62,7 @@
                 " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
                 "><a href="/ ">情景信息</a></div>       </td>      </tr>      <tr>        <td class="unit3
                 ">版本</td>       <td class="unit4 ">王者崛起</td>      </tr>      <tr>        <td class="unit3
-                ">戰役</td>       <td class="unit4 "><a href="/Lê_Lợia.php
+                ">戰役</td>       <td class="unit4 "><a href="/Le_Loi.php
                 ">黎利</a></td>      </tr>      <tr>        <td class="unit3 ">文明</td>       <td class="unit4 "><a href="/
                 ">越南人</a></td>      </tr>
 <tr><td class="unit " colspan="2 " style=" background-color:#375d96;

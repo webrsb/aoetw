@@ -135,7 +135,7 @@
             </tr>
             <tr>
               <td class="unit3">戰役</td>
-              <td class="unit4"><a href="/Lê_Lợia.php">黎利</a>
+              <td class="unit4"><a href="/Le_Loi.php">黎利</a>
               </td>
             </tr>
             <tr>

@@ -1321,7 +1321,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style=" background-color:#5f8ebd;">
-                  <div class="unititle"><a href="/Lê_Lợia.php">黎利</a></div>
+                  <div class="unititle"><a href="/Le_Loi.php">黎利</a></div>
                 </td>
               </tr>
               <tr>
