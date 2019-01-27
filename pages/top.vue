@@ -47,7 +47,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Viper.jpg" width="276" alt="" />
+                <img src="~assets/viper.jpg" width="276" alt="" />
               </td>
             </tr>
             <tr>
@@ -134,7 +134,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/Yo.jpg" width="276" alt="" />
+                <img src="~assets/yo.jpg" width="276" alt="" />
               </td>
             </tr>
             <tr>
