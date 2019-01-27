@@ -223,7 +223,7 @@
           <ul>
             <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>的研究時間(快25%)</li>
             <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>：弓兵生產和升級快20%。研發<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>速度快20%。</li>
-            <li><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弓兵<nuxt-link to="#">視野</nuxt-link>+2。</li>
+            <li><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弓兵<nuxt-link to="">視野</nuxt-link>+2。</li>
             <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link to="/techs/Chemistry">化學</nuxt-link>和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。</li>
             <li><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：弓兵對<nuxt-link to="/armor/Armor_Class_Standard_Building">標準建築</nuxt-link>攻擊+1。</li>
             <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>：弓兵更不容易被招降。</li>
@@ -277,7 +277,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="#">弓兵</nuxt-link>
+              <div class="unititle"><nuxt-link to="">弓兵</nuxt-link>
               </div>
             </td>
           </tr>
@@ -290,7 +290,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
+              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
               </div>
             </td>
           </tr>

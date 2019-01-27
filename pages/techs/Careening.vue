@@ -11,7 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            傾側維修術於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            傾側維修術於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >研發。研發後船隻遠程裝甲+1，運輸船運輸量+5(總共可載10個單位)。
             <nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link
@@ -49,7 +50,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
               <div class="unititle">
-                <nuxt-link to="#">傾側維修術</nuxt-link>
+                <nuxt-link to="">傾側維修術</nuxt-link>
               </div>
             </td>
           </tr>
@@ -63,7 +64,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
               <div class="unititle2">
-                <nuxt-link to="#">科技介紹</nuxt-link>
+                <nuxt-link to="">科技介紹</nuxt-link>
               </div>
             </td>
           </tr>
@@ -105,7 +106,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -118,7 +119,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

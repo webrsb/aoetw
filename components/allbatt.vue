@@ -8,13 +8,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#274a7d;">
-              <div class="unititle"><nuxt-link to="#">世紀帝國戰役</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">世紀帝國戰役</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img
                     src="~assets/KingsIcon.png"
                     style="margin-right:5px"
@@ -91,7 +91,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img
                     src="~assets/ConquerorsIcon.png"
                     style="margin-right:5px"
@@ -156,7 +156,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img
                     src="~assets/ForgottenIcon.png"
                     style="margin-right:5px"
@@ -250,7 +250,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img
                     src="~assets/AfricanIcon.png"
                     style="margin-right:5px"
@@ -309,7 +309,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img
                     src="~assets/RajaIcon.png"
                     style="margin-right:5px"

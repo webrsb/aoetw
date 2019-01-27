@@ -20,7 +20,7 @@
               <nuxt-link to="/units/Samurai">日本武士</nuxt-link>，因為日本武士對於特殊兵種有相當高的加成。</p>
             <p>在某些方面，它的定位相當類似於 <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>，但投石手在城堡時代即可生產，也相當便宜，而受到
               <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>(僅支援靜態準度由90%提升到100%，不支援射速提高)與 <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>的影響，他更為的精準。當
-                <nuxt-link to="#">護琬科技</nuxt-link>研發後，射程還比火槍兵還遠。但他的攻擊力仍遠低於火槍兵，即使受益於 <nuxt-link to="/techs/Chemistry">化學</nuxt-link>的加成。如同
+                <nuxt-link to="">護琬科技</nuxt-link>研發後，射程還比火槍兵還遠。但他的攻擊力仍遠低於火槍兵，即使受益於 <nuxt-link to="/techs/Chemistry">化學</nuxt-link>的加成。如同
                   <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>一樣，投石手有最小的攻擊範圍，但這不是一個嚴重的問題，他可以通過研發 <nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link>來解決。</p>
             <p>投石手是俗稱的<nuxt-link to="/civs/Incas">印加</nuxt-link>三寶之一，還有 <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>與
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>，這三個單位都扮演著相當重要的腳色，槍隊長是反騎兵、鷹勇士反弓兵，而投石手是優秀的反步兵單位，這種組合幾乎可以擊敗所有軍隊，但可惜的是面對
@@ -238,7 +238,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="#">投石手</nuxt-link>
+              <div class="unititle"><nuxt-link to="">投石手</nuxt-link>
               </div>
             </td>
           </tr>
@@ -251,7 +251,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
+              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
               </div>
             </td>
           </tr>
@@ -283,7 +283,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
               </div>
             </td>
           </tr>
@@ -297,7 +297,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+              <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
               </div>
             </td>
           </tr>

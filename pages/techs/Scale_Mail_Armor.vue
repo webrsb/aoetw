@@ -11,7 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            步兵鱗甲可於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            步兵鱗甲可於<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓步兵護甲+1/+1。
           </p>
@@ -44,7 +45,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="#">步兵鱗甲</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">步兵鱗甲</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -57,7 +58,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
               <div class="unititle2">
-                <nuxt-link to="#">科技介紹</nuxt-link>
+                <nuxt-link to="">科技介紹</nuxt-link>
               </div>
             </td>
           </tr>
@@ -101,7 +102,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -110,7 +111,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -99,7 +99,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle"><nuxt-link to="#">緬甸</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">緬甸</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -112,7 +112,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#e6992c;">
-              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -22,7 +22,9 @@
         <div class="row">
           <div class="col-md-3">
             <div class="n1">
-              <h4><nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代</h4>
+              <h4>
+                <nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代
+              </h4>
               <ul>
                 <li>
                   <img
@@ -389,7 +391,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
               <div class="unititle">
-                <nuxt-link to="#">攻城器製造所</nuxt-link>
+                <nuxt-link to="">攻城器製造所</nuxt-link>
               </div>
             </td>
           </tr>
@@ -402,7 +404,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -431,7 +433,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -440,7 +442,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -535,7 +537,7 @@
                 src="~assets/Siegeworkshopaokaoc.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有攻城器製造所(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
@@ -547,7 +549,7 @@
                 src="~assets/Siege_workshops_hd.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有攻城器製造所(HD擴充資料片)。</em></p>
             </div>
           </div>
@@ -559,7 +561,7 @@
                 src="~assets/Spritesheet_siege_workshop.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:185px" ;>
+            <div class="lightbox-caption" style="width:185px">
               <p><em>各式攻城器製造所和駐紮單位時的樣子。</em></p>
             </div>
           </div>

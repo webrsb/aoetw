@@ -181,7 +181,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                  <div class="unititle"><nuxt-link to="#">磨坊</nuxt-link>
+                  <div class="unititle"><nuxt-link to="">磨坊</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -194,7 +194,7 @@
               </tr>
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                  <div class="unititle2"><nuxt-link to="#">概要</nuxt-link>
+                  <div class="unititle2"><nuxt-link to="">概要</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -222,7 +222,7 @@
               </tr>
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                  <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                  <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -232,7 +232,7 @@
               </tr>
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                  <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                  <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -293,21 +293,21 @@
             <div class="n1">
               <div class="col-md-4"> <nuxt-link to="/img/MillDarkAge.png"><img class="imgn hg" width="180" src="~assets/MillDarkAge.png" alt=""></nuxt-link> 
                 <div
-                class="lightbox-caption" style="width:220px" ;>
+                class="lightbox-caption" style="width:220px" >
                   <p><em>所有黑暗時代的磨坊。</em>
                   </p>
               </div>
             </div>
             <div class="col-md-4"> <nuxt-link to="/img/MillFeudalAgeHD.png"><img class="imgn hg" width="200" src="~assets/MillFeudalAgeHD.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>所有封建時代的磨坊(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/MillFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/MillFeudalAgeDLC.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:185px" ;>
+            class="lightbox-caption" style="width:185px" >
               <p><em>所有封建時代的磨坊(HD擴充資料片)。</em>
               </p>
           </div>
@@ -316,21 +316,21 @@
       <div class="col-md-12">
         <div class="col-md-4"> <nuxt-link to="/img/Millaokaoc.png"><img class="imgn hg" width="200" src="~assets/Millaokaoc.png" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:185px" ;>
+          class="lightbox-caption" style="width:185px" >
             <p><em>所有城堡時代的磨坊(帝王世紀和征服者入侵資料片)。</em>
             </p>
         </div>
       </div>
       <div class="col-md-4"> <nuxt-link to="/img/Mills_hd.png"><img class="imgn hg" width="200" src="~assets/Mills_hd.png" alt=""></nuxt-link> 
         <div
-        class="lightbox-caption" style="width:220px" ;>
+        class="lightbox-caption" style="width:220px" >
           <p><em>所有城堡時代的磨坊(HD擴充資料片)。</em>
           </p>
       </div>
     </div>
     <div class="col-md-4"> <nuxt-link to="/img/Nashtifan_windmills.jpg"><img class="imgn hg" width="200" src="~assets/Nashtifan_windmills.jpg" alt=""></nuxt-link> 
       <div
-      class="lightbox-caption" style="width:185px" ;>
+      class="lightbox-caption" style="width:185px" >
         <p><em>伊朗Nashtifan風車磨坊，這是印度磨坊建築的模板。</em>
         </p>
     </div>

@@ -139,7 +139,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#8a6d3b">
               <div class="unititle">
-                <nuxt-link to="#">世紀帝國II：非洲王國</nuxt-link>
+                <nuxt-link to="">世紀帝國II：非洲王國</nuxt-link>
               </div>
             </td>
           </tr>

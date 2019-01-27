@@ -128,7 +128,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">漁網</nuxt-link>
+                <div class="unititle"><nuxt-link to="">漁網</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -141,7 +141,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">概要</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">概要</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -169,7 +169,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -179,7 +179,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -212,14 +212,14 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Fishtraps.png"><img class="imgn hg" width="180" src="~assets/Fishtraps.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>漁網應該盡可能地蓋靠近碼頭。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Spritesheet_fish_trap.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_fish_trap.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:185px" ;>
+            class="lightbox-caption" style="width:185px" >
               <p><em>漁網的各種樣子(建造中/損壞/閒置動畫)。</em>
               </p>
           </div>

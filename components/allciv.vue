@@ -6,7 +6,7 @@
           <tbody>
             <tr>
               <td class="unit" colspan="2" style="background-color:#274a7d;">
-                <div class="unititle"><nuxt-link to="#">世紀帝國文明</nuxt-link></div>
+                <div class="unititle"><nuxt-link to="">世紀帝國文明</nuxt-link></div>
               </td>
             </tr>
             <tr>

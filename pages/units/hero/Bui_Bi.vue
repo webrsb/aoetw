@@ -22,7 +22,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="#">裴備</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">裴備</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -39,7 +39,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><nuxt-link to="#">僧侶</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="">僧侶</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">出場</td>

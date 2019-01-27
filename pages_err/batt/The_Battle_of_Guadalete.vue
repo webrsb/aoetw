@@ -130,7 +130,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle"><nuxt-link to="#">瓜達萊特之戰</nuxt-link>
+                <div class="unititle"><nuxt-link to="">瓜達萊特之戰</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -143,7 +143,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#375d96;">
-                <div class="unititle2"><nuxt-link to="#">情景信息</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -157,11 +157,11 @@
             </tr>
             <tr>
               <td class="unit3">文明</td>
-              <td class="unit4"><nuxt-link to="#">柏柏</nuxt-link>
+              <td class="unit4"><nuxt-link to="">柏柏</nuxt-link>
               </td>
             </tr>
 <tr><td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="#">戰役關卡編號</nuxt-link>
+              <div class="unititle2"><nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>
             </td>
             </tr>

@@ -271,7 +271,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">概要</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">概要</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -298,7 +298,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -308,7 +308,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -365,21 +365,21 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/DockDarkAge.png"><img class="imgn hg" width="180" src="~assets/DockDarkAge.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>所有黑暗時代的碼頭。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/DockFeudalAgeHD.png"><img class="imgn hg" width="200" src="~assets/DockFeudalAgeHD.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>所有封建時代的碼頭(帝王世紀和征服者入侵資料片)。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <nuxt-link to="/img/DockFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/DockFeudalAgeDLC.png" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:185px" ;>
+          class="lightbox-caption" style="width:185px" >
             <p><em>所有封建時代的碼頭(HD擴充資料片)。</em>
             </p>
         </div>
@@ -388,21 +388,21 @@
     <div class="col-md-12">
       <div class="col-md-4"> <nuxt-link to="/img/Dockaokaoc.png"><img class="imgn hg" width="200" src="~assets/Dockaokaoc.png" alt=""></nuxt-link> 
         <div
-        class="lightbox-caption" style="width:185px" ;>
+        class="lightbox-caption" style="width:185px" >
           <p><em>所有城堡時代的碼頭(帝王世紀和征服者入侵資料片)。</em>
           </p>
       </div>
     </div>
     <div class="col-md-4"> <nuxt-link to="/img/Dockexpansions.png"><img class="imgn hg" width="200" src="~assets/Dockexpansions.png" alt=""></nuxt-link> 
       <div
-      class="lightbox-caption" style="width:220px" ;>
+      class="lightbox-caption" style="width:220px" >
         <p><em>所有城堡時代的碼頭(HD擴充資料片)。</em>
         </p>
     </div>
     </div>
     <div class="col-md-4"> <nuxt-link to="/img/Spritesheet_dock.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_dock.png" alt=""></nuxt-link> 
       <div
-      class="lightbox-caption" style="width:185px" ;>
+      class="lightbox-caption" style="width:185px" >
         <p><em>碼頭在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>
         </p>
     </div>

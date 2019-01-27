@@ -44,28 +44,28 @@
             <ul>
               <li><nuxt-link to="/unitsanimal/Sheep">羊</nuxt-link> 
               </li>
-              <li><nuxt-link to="/unitsanimal/Turkey"><nuxt-link to="#">火雞</nuxt-link> 
+              <li><nuxt-link to="/unitsanimal/Turkey"><nuxt-link to="">火雞</nuxt-link> 
               </li>
               <li>駱駝</li>
-              <li><nuxt-link to="/unitsanimal/Cow"><nuxt-link to="#">牛</nuxt-link> 
+              <li><nuxt-link to="/unitsanimal/Cow"><nuxt-link to="">牛</nuxt-link> 
               </li>
-              <li><nuxt-link to="/unitsanimal/Goat"><nuxt-link to="#">山羊</nuxt-link> 
+              <li><nuxt-link to="/unitsanimal/Goat"><nuxt-link to="">山羊</nuxt-link> 
               </li>
-              <li><nuxt-link to="/unitsanimal/Water_Buffalo"><nuxt-link to="#">水牛</nuxt-link>
+              <li><nuxt-link to="/unitsanimal/Water_Buffalo"><nuxt-link to="">水牛</nuxt-link>
               </li>
             </ul>
           </div>
           <div class="col-md-3"><strong>不可食用</strong>
             <ul>
-              <li><nuxt-link to="/unitsanimal/Wolf"><nuxt-link to="#">狼</nuxt-link> 
+              <li><nuxt-link to="/unitsanimal/Wolf"><nuxt-link to="">狼</nuxt-link> 
               </li>
-              <li><nuxt-link to="/Jaguar.php"><nuxt-link to="#">豹</nuxt-link> 
+              <li><nuxt-link to="/Jaguar.php"><nuxt-link to="">豹</nuxt-link> 
               </li>
-              <li><nuxt-link to="/units/wide/Wild_Horse"><nuxt-link to="#">馬</nuxt-link> 
+              <li><nuxt-link to="/units/wide/Wild_Horse"><nuxt-link to="">馬</nuxt-link> 
               </li>
-              <li><nuxt-link to="/unitsanimal/Bear"><nuxt-link to="#">熊</nuxt-link> 
+              <li><nuxt-link to="/unitsanimal/Bear"><nuxt-link to="">熊</nuxt-link> 
               </li>
-              <li><nuxt-link to="/unitsanimal/Llama"><nuxt-link to="#">駱駝</nuxt-link> 
+              <li><nuxt-link to="/unitsanimal/Llama"><nuxt-link to="">駱駝</nuxt-link> 
               </li>
               <li><nuxt-link to="/units/wide/Donkey">驢</nuxt-link> 
               </li>

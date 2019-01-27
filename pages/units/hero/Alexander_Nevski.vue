@@ -31,7 +31,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
               <div class="unititle">
-                <nuxt-link to="#">亞歷山大·涅夫斯基</nuxt-link>
+                <nuxt-link to="">亞歷山大·涅夫斯基</nuxt-link>
               </div>
             </td>
           </tr>
@@ -50,7 +50,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="#">騎兵<br />英雄</nuxt-link>
+              <nuxt-link to="">騎兵<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>

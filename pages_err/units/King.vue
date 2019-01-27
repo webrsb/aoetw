@@ -54,7 +54,7 @@
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                  <div class="unititle"><nuxt-link to="#">國王</nuxt-link>
+                  <div class="unititle"><nuxt-link to="">國王</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -114,7 +114,7 @@
                 <td class="unit3"><nuxt-link to="/Armor_Class.php">防禦類型</nuxt-link></td>
                 <td class="unit4">無</nuxt-link>、</tr>
               <tr>
-                <td class="unit3"><nuxt-link to="#">跑速</td>
+                <td class="unit3"><nuxt-link to="">跑速</td>
                 <td class="unit4">1.32</td>
               </tr>
               <tr>

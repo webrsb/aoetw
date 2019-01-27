@@ -11,7 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            異端邪說可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            異端邪說可於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>
             研發後可讓被敵方
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -117,7 +118,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="#">異端邪說</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">異端邪說</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -130,7 +131,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
               <div class="unititle2">
-                <nuxt-link to="#">科技介紹</nuxt-link>
+                <nuxt-link to="">科技介紹</nuxt-link>
               </div>
             </td>
           </tr>

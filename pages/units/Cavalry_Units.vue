@@ -24,10 +24,10 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            騎兵單位是遊戲中四類軍事單位之一，另外三種分別是<nuxt-link to="#"
+            騎兵單位是遊戲中四類軍事單位之一，另外三種分別是<nuxt-link to=""
               >步兵單位</nuxt-link
-            >、<nuxt-link to="#">弓兵單位</nuxt-link>與
-            <nuxt-link to="#">攻城武器單位</nuxt-link>。
+            >、<nuxt-link to="">弓兵單位</nuxt-link>與
+            <nuxt-link to="">攻城武器單位</nuxt-link>。
           </p>
         </div>
         <h3>概要</h3>
@@ -904,7 +904,7 @@
                   style="margin: 2px;"
                   src="~assets/Heresy.png"
                   alt=""
-                /><nuxt-link to="#">異端邪說</nuxt-link>
+                /><nuxt-link to="">異端邪說</nuxt-link>
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">1000G</td>
@@ -1147,7 +1147,7 @@
                   src="~assets/Cavalryunitsstable.png"
                   alt=""
               /></nuxt-link>
-              <div class="lightbox-caption" style="width:220px" ;>
+              <div class="lightbox-caption" style="width:220px">
                 <p><em>所有在馬廄訓練的騎兵單位。</em></p>
               </div>
             </div>
@@ -1159,7 +1159,7 @@
                   src="~assets/Cavalryunitscastle.png"
                   alt=""
               /></nuxt-link>
-              <div class="lightbox-caption" style="width:220px" ;>
+              <div class="lightbox-caption" style="width:220px">
                 <p><em>所有在城堡訓練的騎兵單位。</em></p>
               </div>
             </div>

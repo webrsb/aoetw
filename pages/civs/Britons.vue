@@ -26,7 +26,7 @@
           </p>
           不列顛的特殊單位長弓兵，是遊戲中唯一可以超越城堡的弓兵單位在對付緩慢的兵種時可以有效的給予傷害，相對的快速的騎兵是一大要害因此擁有完整個軍營兵種與科技好保護弓兵，此外不列顛的馬廄科技是非常不完善的。另外在海軍上不列顛除了
           <nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link>以外科技是相當完善的，在<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link>上缺乏<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>與
-          <nuxt-link to="#" Siege_units/Onager>重型投石車</nuxt-link>相對應的給予獨特的<nuxt-link to="/units/Trebuchet"
+          <nuxt-link to="" Siege_units/Onager>重型投石車</nuxt-link>相對應的給予獨特的<nuxt-link to="/units/Trebuchet"
             >投石機</nuxt-link>(要研發科技)
           <h3>戰術</h3>
           <p>
@@ -79,10 +79,10 @@
             <li><nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>訓練時間減少到17秒。</li>
             <li>獲得<nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>。</li>
             <li>
-              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>搬到<nuxt-link to="#" 城堡時代></nuxt-link>。
+              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>搬到<nuxt-link to="" 城堡時代></nuxt-link>。
             </li>
             <li>
-              新的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>特殊科技<nuxt-link to="#"
+              新的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>特殊科技<nuxt-link to=""
                 >戰狼</nuxt-link>。
             </li>
           </ul>

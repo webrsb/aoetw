@@ -328,7 +328,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -355,14 +355,14 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Samurai_2014-12-03_00001.jpg"><img class="imgn hg" width="180" src="~assets/Samurai_2014-12-03_00001.jpg" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>一群日本武士。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Samurai_Beta.jpg"><img class="imgn hg" width="180" src="~assets/Samurai_Beta.jpg" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>日本武士。</em>
               </p>
           </div>

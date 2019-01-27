@@ -34,7 +34,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
               <div class="unititle">
-                <nuxt-link to="#">裝在桶裡的皇帝</nuxt-link>
+                <nuxt-link to="">裝在桶裡的皇帝</nuxt-link>
               </div>
             </td>
           </tr>

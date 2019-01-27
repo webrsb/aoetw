@@ -66,7 +66,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
               <div class="unititle">
-                <nuxt-link to="#">布里斯比羅吉</nuxt-link>
+                <nuxt-link to="">布里斯比羅吉</nuxt-link>
               </div>
             </td>
           </tr>

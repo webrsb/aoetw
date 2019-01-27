@@ -58,7 +58,7 @@
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
               <td class="tta4"><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、
-                <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>和<nuxt-link to="#">防禦建築</nuxt-link>。</td>
+                <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>和<nuxt-link to="">防禦建築</nuxt-link>。</td>
             </tr>
             <tr class="tta">
               <td class="unit" colspan="2" style="text-align: center;">
@@ -322,7 +322,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">駱駝騎兵</nuxt-link>
+                <div class="unititle"><nuxt-link to="">駱駝騎兵</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -335,7 +335,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
                 </div>
               </td>
             </tr>

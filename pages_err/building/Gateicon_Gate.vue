@@ -99,7 +99,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">城門</nuxt-link>
+                <div class="unititle"><nuxt-link to="">城門</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -112,7 +112,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">概要</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">概要</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -139,7 +139,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -149,7 +149,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -195,14 +195,14 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Stonewallaokaoc.png"><img class="imgn hg" width="180" src="~assets/Stonewallaokaoc.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>所有文明的城門和石牆(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Fortifiedwallaokaoc.png"><img class="imgn hg" width="180" src="~assets/Fortifiedwallaokaoc.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>升級過的所有文明的城門和石牆(帝王世紀和征服者入侵資料片)。</em>
               </p>
           </div>
@@ -210,14 +210,14 @@
         <div class="col-md-12">
           <div class="col-md-4"> <nuxt-link to="/img/Stonewallhd.png"><img class="imgn hg" width="200" src="~assets/Stonewallhd.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>所有文明的城門和石牆(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <nuxt-link to="/img/Fortifiedwallhd.png"><img class="imgn hg" width="200" src="~assets/Fortifiedwallhd.png" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:220px" ;>
+          class="lightbox-caption" style="width:220px" >
             <p><em>升級過的所有文明的城門和石牆(HD擴充資料片)。</em>
             </p>
         </div>

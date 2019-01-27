@@ -314,7 +314,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">神風船</nuxt-link>
+                <div class="unititle"><nuxt-link to="">神風船</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -327,13 +327,13 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><nuxt-link to="#">自殺單位</nuxt-link>、<nuxt-link to="/units/Naval_Vessels">船</nuxt-link>
+              <td class="unit4"><nuxt-link to="">自殺單位</nuxt-link>、<nuxt-link to="/units/Naval_Vessels">船</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -358,7 +358,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -372,7 +372,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>

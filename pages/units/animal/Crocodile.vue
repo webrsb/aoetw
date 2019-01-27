@@ -19,7 +19,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#b086b5;">
-              <div class="unititle"><nuxt-link to="#">鱷魚</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">鱷魚</nuxt-link></div>
             </td>
           </tr>
           <tr>

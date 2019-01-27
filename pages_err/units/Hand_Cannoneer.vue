@@ -240,7 +240,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="#">火槍兵</nuxt-link>
+              <div class="unititle"><nuxt-link to="">火槍兵</nuxt-link>
               </div>
             </td>
           </tr>
@@ -364,7 +364,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
+              <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
               </div>
             </td>
           </tr>

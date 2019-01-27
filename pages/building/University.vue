@@ -34,7 +34,7 @@
             <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、<nuxt-link
               to="/units/Bombard_Cannon"
               >火炮</nuxt-link
-            >與 <nuxt-link to="#">火炮塔</nuxt-link>這種高威力火藥兵種。。
+            >與 <nuxt-link to="">火炮塔</nuxt-link>這種高威力火藥兵種。。
             <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
             >可讓攻城武器射程+1在後期也很有效用；而其他如<nuxt-link
               to="/techs/Murder_Holes"
@@ -375,7 +375,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="#">學院</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">學院</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -387,7 +387,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -414,7 +414,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -423,7 +423,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>

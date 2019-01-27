@@ -4,7 +4,7 @@ const scrollBehavior = function (to, from, savedPosition) {
   let position = false
   let hash = decodeURIComponent(to.hash)
 
-  if (hash && document.querySelector(hash)) {
+  if (hash) {
     // scroll to anchor by returning the selector
     position = { selector: hash }
   } else if (to.matched.length < 2) 

@@ -376,7 +376,7 @@
                   src="~assets/Gunpowder.png"
                   alt=""
               /></nuxt-link>
-              <div class="lightbox-caption" style="width:220px" ;>
+              <div class="lightbox-caption" style="width:220px">
                 <p><em>所有火藥單位(非洲王朝資料片)。</em></p>
               </div>
             </div>

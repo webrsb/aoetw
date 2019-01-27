@@ -195,7 +195,7 @@
               <img src="~assets/CastleAgeUnique.png" class="gg"
               alt=""><nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠提高長弓兵的生產速度還有加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>和
               <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>的研究時間(快25%)。</li>
-            <li><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：長弓兵<nuxt-link to="#">視野</nuxt-link>+2。</li>
+            <li><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：長弓兵<nuxt-link to="">視野</nuxt-link>+2。</li>
             <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：
               <img class="gg" src="~assets/Chemistry.jpg" width="30"
               alt=""><nuxt-link to="/techs/Chemistry">化學</nuxt-link>和

@@ -367,7 +367,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -394,21 +394,21 @@
         <div class="n1">
           <div class="col-md-4"> <nuxt-link to="/img/Chukonu.png"><img class="imgn hg" width="180" src="~assets/Chukonu.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>一群連弩兵。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <nuxt-link to="/img/7081407_2_l.jpg"><img class="imgn hg" width="200" src="~assets/7081407_2_l.jpg" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:185px" ;>
+          class="lightbox-caption" style="width:185px" >
             <p><em>真實的諸葛連弩。</em>
             </p>
         </div>
       </div>
       <div class="col-md-4"> <nuxt-link to="/img/Chinese_age11.jpg"><img class="imgn hg" width="200" src="~assets/Chinese_age11.jpg" alt=""></nuxt-link> 
         <div
-        class="lightbox-caption" style="width:185px" ;>
+        class="lightbox-caption" style="width:185px" >
           <p><em>ㄧ名連弩兵。</em>
           </p>
       </div>

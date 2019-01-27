@@ -40,7 +40,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
               <div class="unititle">
-                <nuxt-link to="#">世紀帝國II：帝王世紀</nuxt-link>
+                <nuxt-link to="">世紀帝國II：帝王世紀</nuxt-link>
               </div>
             </td>
           </tr>

@@ -14,7 +14,7 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img src="~assets/KingsIcon.png" />帝王時代</nuxt-link
                 >
               </div>
@@ -58,7 +58,7 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to="#">
+                <nuxt-link to="">
                   <img src="~assets/ConquerorsIcon.png" />征服者入侵</nuxt-link
                 >
               </div>
@@ -94,7 +94,7 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img
                     src="~assets/ForgottenIcon.png"
                   />被遺忘的王朝</nuxt-link
@@ -132,7 +132,7 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img src="~assets/AfricanIcon.png" />非洲王國</nuxt-link
                 >
               </div>
@@ -164,7 +164,7 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to="#"
+                <nuxt-link to=""
                   ><img src="~assets/RajaIcon.png" />王者崛起</nuxt-link
                 >
               </div>

@@ -10,7 +10,7 @@
       </div>
       <div class="row">
         <div class="col-md-12">
-           <h3><nuxt-link to="#">帝王世紀</nuxt-link></h3> 
+           <h3><nuxt-link to="">帝王世紀</nuxt-link></h3> 
           <div class="hrn1"></div>
           <table class="table-bordered" width="100%">
             <tr>
@@ -490,7 +490,7 @@
           </table>
           <div class="row">
             <div class="col-md-12">
-               <h3><nuxt-link to="#">征服者入侵</nuxt-link></h3> 
+               <h3><nuxt-link to="">征服者入侵</nuxt-link></h3> 
               <div class="hrn1"></div>
               <table class="table-bordered" width="100%">
                 <tr>
@@ -653,7 +653,7 @@
               </table>
               <div class="row">
                 <div class="col-md-12">
-                   <h3><nuxt-link to="#">失落的帝國</nuxt-link></h3> 
+                   <h3><nuxt-link to="">失落的帝國</nuxt-link></h3> 
                   <div class="hrn1"></div>
                   <table class="table-bordered" width="100%">
                     <tr>
@@ -819,7 +819,7 @@
                   </table>
                   <div class="row">
                     <div class="col-md-12">
-                       <h3><nuxt-link to="#">非洲王朝</nuxt-link></h3> 
+                       <h3><nuxt-link to="">非洲王朝</nuxt-link></h3> 
                       <div class="hrn1"></div>
                       <table class="table-bordered" width="100%">
                         <tr>
@@ -1039,7 +1039,7 @@
                       </table>
                       <div class="row">
                         <div class="col-md-12">
-                           <h3><nuxt-link to="#">王者崛起</nuxt-link></h3> 
+                           <h3><nuxt-link to="">王者崛起</nuxt-link></h3> 
                           <div class="hrn1"></div>
                           <table class="table-bordered" width="100%">
                             <tr>

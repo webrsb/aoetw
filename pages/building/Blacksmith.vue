@@ -380,7 +380,7 @@
                   src="~assets/BlacksmithFeudalAgeHD.png"
                   alt=""
                 />
-                <div class="lightbox-caption" style="width:185px" ;>
+                <div class="lightbox-caption" style="width:185px">
                   <p>
                     <em
                       >所有文明封建時代的兵工廠(帝王世紀和征服者入侵資料片)。</em
@@ -395,7 +395,7 @@
                   src="~assets/Blacksmithaokaoc.png"
                   alt=""
                 />
-                <div class="lightbox-caption" style="width:185px" ;>
+                <div class="lightbox-caption" style="width:185px">
                   <p>
                     <em
                       >所有文明城堡時代的兵工廠(帝王世紀和征服者入侵資料片)。</em
@@ -410,7 +410,7 @@
                   src="~assets/BlacksmithFeudalAgeDLC.png"
                   alt=""
                 />
-                <div class="lightbox-caption" style="width:185px" ;>
+                <div class="lightbox-caption" style="width:185px">
                   <p><em>所有文明封建時代的兵工廠(HD擴充資料片)。</em></p>
                 </div>
               </div>
@@ -421,7 +421,7 @@
                   src="~assets/Blacksmith_hd.png"
                   alt=""
                 />
-                <div class="lightbox-caption" style="width:185px" ;>
+                <div class="lightbox-caption" style="width:185px">
                   <p><em>所有文明城堡時代的兵工廠(HD擴充資料片)。</em></p>
                 </div>
               </div>
@@ -433,7 +433,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="#">兵工廠</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">兵工廠</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -445,7 +445,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -472,7 +472,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -481,7 +481,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>

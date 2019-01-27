@@ -219,7 +219,7 @@
           <ul>
             <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>的研究時間(快25%)</li>
             <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>：矛兵生產快20%。研發<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>速度快20%。</li>
-            <li><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵<nuxt-link to="#">視野</nuxt-link>+2。</li>
+            <li><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵<nuxt-link to="">視野</nuxt-link>+2。</li>
             <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link to="/techs/Chemistry">化學</nuxt-link>和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。</li>
             <li><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：矛兵對<nuxt-link to="/armor/Armor_Class_Standard_Building">標準建築</nuxt-link>攻擊+1。</li>
             <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>：矛兵更不容易被招降。</li>

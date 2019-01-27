@@ -20,7 +20,9 @@
         <div class="row">
           <div class="col-md-6">
             <div class="n1">
-              <h4><nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代</h4>
+              <h4>
+                <nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代
+              </h4>
               <ul>
                 <li>
                   <img
@@ -676,7 +678,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -699,7 +701,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -708,7 +710,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -794,7 +796,7 @@
               src="~assets/Castleaokaoc.png"
               alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:220px" ;>
+          <div class="lightbox-caption" style="width:220px">
             <p><em>所有城堡(帝王世紀和征服者入侵資料片)。</em></p>
           </div>
         </div>
@@ -802,7 +804,7 @@
           <nuxt-link to="/img/Castlehd.png"
             ><img class="imgn hg" width="200" src="~assets/Castlehd.png" alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:220px" ;>
+          <div class="lightbox-caption" style="width:220px">
             <p><em>所有城堡(HD擴充資料片)。</em></p>
           </div>
         </div>
@@ -814,7 +816,7 @@
               src="~assets/Spritesheet_castle.png"
               alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:185px" ;>
+          <div class="lightbox-caption" style="width:185px">
             <p><em>城堡在一般地圖/下雪地圖和駐紮單位時的樣子。</em></p>
           </div>
         </div>

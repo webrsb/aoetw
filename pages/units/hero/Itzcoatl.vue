@@ -32,7 +32,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
               <div class="unititle">
-                <nuxt-link to="#">伊茲柯阿特爾</nuxt-link>
+                <nuxt-link to="">伊茲柯阿特爾</nuxt-link>
               </div>
             </td>
           </tr>

@@ -48,7 +48,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
               <div class="unititle">
-                <nuxt-link to="#">庫奧赫特莫克</nuxt-link>
+                <nuxt-link to="">庫奧赫特莫克</nuxt-link>
               </div>
             </td>
           </tr>

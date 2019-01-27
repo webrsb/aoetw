@@ -1319,7 +1319,7 @@
                 src="~assets/Infantryunitsbarracks.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有軍營裡可訓練的步兵單位。</em></p>
             </div>
           </div>
@@ -1331,7 +1331,7 @@
                 src="~assets/Infantryunitscastle.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡裡可訓練的步兵單位。</em></p>
             </div>
           </div>

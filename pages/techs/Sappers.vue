@@ -11,7 +11,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            坑道工兵可於<nuxt-link to="/techs/age/Castle_Age">帝王時代</nuxt-link
+            坑道工兵可於<nuxt-link to="/techs/age/Castle_Age"
+              >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。可讓村民對
             <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_stone_defense"
@@ -130,7 +131,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="#">坑道工兵</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">坑道工兵</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -143,7 +144,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
               <div class="unititle2">
-                <nuxt-link to="#">科技介紹</nuxt-link>
+                <nuxt-link to="">科技介紹</nuxt-link>
               </div>
             </td>
           </tr>
@@ -176,7 +177,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -189,7 +190,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

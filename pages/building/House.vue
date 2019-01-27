@@ -261,7 +261,7 @@
               src="~assets/HouseDarkAge.png"
               alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:220px" ;>
+          <div class="lightbox-caption" style="width:220px">
             <p><em>所有黑暗時代的房屋。</em></p>
           </div>
         </div>
@@ -273,7 +273,7 @@
               src="~assets/HouseFedualAgeHD.png"
               alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:220px" ;>
+          <div class="lightbox-caption" style="width:220px">
             <p><em>所有封建時代的房屋(帝王世紀和征服者入侵資料片)。</em></p>
           </div>
         </div>
@@ -285,7 +285,7 @@
               src="~assets/HouseFeudalAgeDLC.png"
               alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:185px" ;>
+          <div class="lightbox-caption" style="width:185px">
             <p><em>所有封建時代的房屋(HD擴充資料片)。</em></p>
           </div>
         </div>
@@ -298,7 +298,7 @@
               src="~assets/Houseaokaoc.png"
               alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:185px" ;>
+          <div class="lightbox-caption" style="width:185px">
             <p><em>所有城堡時代的房屋(帝王世紀和征服者入侵資料片)。</em></p>
           </div>
         </div>
@@ -306,7 +306,7 @@
           <nuxt-link to="/img/Househd.png"
             ><img class="imgn hg" width="200" src="~assets/Househd.png" alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:220px" ;>
+          <div class="lightbox-caption" style="width:220px">
             <p><em>所有城堡時代的房屋(HD擴充資料片)。</em></p>
           </div>
         </div>
@@ -318,7 +318,7 @@
               src="~assets/Spritesheet_house.png"
               alt=""
           /></nuxt-link>
-          <div class="lightbox-caption" style="width:185px" ;>
+          <div class="lightbox-caption" style="width:185px">
             <p><em>所有遊戲中的房屋類型。</em></p>
           </div>
         </div>
@@ -327,7 +327,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="#">房屋</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">房屋</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -339,7 +339,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -366,7 +366,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -375,7 +375,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -25,7 +25,9 @@
         <div class="row">
           <div class="col-md-4">
             <div class="n1">
-              <h4><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link></h4>
+              <h4>
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              </h4>
               <ul>
                 <li>
                   <img class="gg" src="~assets/TradeCartIcon.jpg" />貿易車隊
@@ -36,7 +38,9 @@
           </div>
           <div class="col-md-4">
             <div class="n1">
-              <h4><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link></h4>
+              <h4>
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </h4>
               <ul>
                 <li><img class="gg" src="~assets/CaravanII.png" />大商隊</li>
                 <li><img class="gg" src="~assets/Coinage.jpg" />鑄幣術</li>
@@ -185,7 +189,7 @@
               >便宜50%。
             </li>
             <li>
-              <nuxt-link to="#">拜占庭</nuxt-link
+              <nuxt-link to="">拜占庭</nuxt-link
               >：在封建/城堡/帝王時代，市集增加20%/30%/40%的血量。<nuxt-link
                 to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
@@ -267,7 +271,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="#">市集</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">市集</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -279,7 +283,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">概要</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -308,7 +312,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -317,7 +321,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="#">數據</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -429,7 +433,7 @@
                 src="~assets/MarketFeudalAgeHD.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
@@ -441,7 +445,7 @@
                 src="~assets/MarketFeudalAgeDLC.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的市集(HD擴充資料片)。</em></p>
             </div>
           </div>
@@ -453,7 +457,7 @@
                 src="~assets/Marketaokaoc.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:185px" ;>
+            <div class="lightbox-caption" style="width:185px">
               <p><em>所有城堡時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
@@ -463,7 +467,7 @@
             <nuxt-link to="/img/Market.png"
               ><img class="imgn hg" width="200" src="~assets/Market.png" alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的市集(HD擴充資料片)。</em></p>
             </div>
           </div>
@@ -475,7 +479,7 @@
                 src="~assets/MarketImperialAgeHD.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有帝王時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
@@ -487,7 +491,7 @@
                 src="~assets/MarketImperialAgeDLC.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:185px" ;>
+            <div class="lightbox-caption" style="width:185px">
               <p><em>所有帝王時代的市集(HD擴充資料片)。</em></p>
             </div>
           </div>
@@ -501,7 +505,7 @@
                 src="~assets/Spritesheet_market.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:185px" ;>
+            <div class="lightbox-caption" style="width:185px">
               <p>
                 <em
                   >市集在封建/城堡/帝王時代在一般地圖/下雪地圖的樣子(港灣大商站是最後一個)。</em

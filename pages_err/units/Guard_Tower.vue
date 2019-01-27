@@ -230,7 +230,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">防禦箭塔</nuxt-link>
+                <div class="unititle"><nuxt-link to="">防禦箭塔</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -243,13 +243,13 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><nuxt-link to="#">箭塔</nuxt-link>
+              <td class="unit4"><nuxt-link to="">箭塔</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -274,7 +274,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -288,7 +288,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -358,7 +358,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -386,14 +386,14 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Guardtoweraokaoc.png"><img class="imgn hg" width="180" src="~assets/Guardtoweraokaoc.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>所有的防禦箭塔(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Guardtowerhd.png"><img class="imgn hg" width="200" src="~assets/Guardtowerhd.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>所有的防禦箭塔(HD擴充資料片)。</em>
               </p>
           </div>

@@ -130,7 +130,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">哨站</nuxt-link>
+                <div class="unititle"><nuxt-link to="">哨站</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -143,7 +143,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">概要</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">概要</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -170,7 +170,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -184,7 +184,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -230,14 +230,14 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Outpostlosdarkage.png"><img class="imgn hg" width="180" src="~assets/Outpostlosdarkage.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>黑暗時代哨站的視野範圍。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Outpostlosfu.png"><img class="imgn hg" width="180" src="~assets/Outpostlosfu.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>帝王時代哨站的視野範圍(有研發<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>)。</em>
               </p>
           </div>

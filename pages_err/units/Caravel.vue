@@ -315,7 +315,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">卡拉維爾戰船</nuxt-link>
+                <div class="unititle"><nuxt-link to="">卡拉維爾戰船</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -328,7 +328,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -360,7 +360,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -374,7 +374,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -437,7 +437,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
                 </div>
               </td>
             </tr>

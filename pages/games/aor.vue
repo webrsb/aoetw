@@ -97,7 +97,7 @@
         <ul>
           <li>
             <img width="25px" src="~assets/Dockicon.png" alt="" /><nuxt-link
-              to="#"
+              to=""
               >海港</nuxt-link
             >:馬來人進入城堡時代研發完科技"海上霸主"可以建造的特殊軍事經濟復合式建築物。海港比碼頭有更多的生命值和視野，而且能以箭矢攻擊來犯的敵方單位。
           </li>
@@ -126,7 +126,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#356a98">
               <div class="unititle">
-                <nuxt-link to="#">世紀帝國II：王者崛起</nuxt-link>
+                <nuxt-link to="">世紀帝國II：王者崛起</nuxt-link>
               </div>
             </td>
           </tr>

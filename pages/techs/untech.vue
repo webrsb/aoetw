@@ -475,7 +475,7 @@
           </tr>
         </table>
 
-        <h3><nuxt-link to="#">帝王時代</nuxt-link></h3>
+        <h3><nuxt-link to="">帝王時代</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered table-striped" width="100%">
           <tr>

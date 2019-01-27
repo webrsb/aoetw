@@ -129,7 +129,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
-              <div class="unititle"><nuxt-link to="#">老鷹開局</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">老鷹開局</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -142,7 +142,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#5cb85c;">
               <div class="unititle2">
-                <nuxt-link to="#">戰術介紹</nuxt-link>
+                <nuxt-link to="">戰術介紹</nuxt-link>
               </div>
             </td>
           </tr>

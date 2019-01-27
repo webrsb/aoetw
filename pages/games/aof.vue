@@ -125,7 +125,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#ad7b35">
               <div class="unititle">
-                <nuxt-link to="#">世紀帝國II：失落的帝國</nuxt-link>
+                <nuxt-link to="">世紀帝國II：失落的帝國</nuxt-link>
               </div>
             </td>
           </tr>

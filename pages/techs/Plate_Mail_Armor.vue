@@ -117,7 +117,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="#">步兵板甲</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">步兵板甲</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -130,7 +130,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
               <div class="unititle2">
-                <nuxt-link to="#">科技介紹</nuxt-link>
+                <nuxt-link to="">科技介紹</nuxt-link>
               </div>
             </td>
           </tr>
@@ -174,7 +174,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="#">成本</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -187,7 +187,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="#">影響</nuxt-link></div>
+              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
             </td>
           </tr>
           <tr>

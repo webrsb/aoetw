@@ -11,7 +11,7 @@
         <div class="col-md-8">
           <div class="n1">
             <p>攻城塔是一種攻城武器單位，他引進自失落的帝國，一開始他只能在某些戰役或是地圖編輯器中使用，但是非洲王國推出後，他便可以在<nuxt-link to="/building/Siege_Workshop">攻城武器製造所</nuxt-link>訓練。它本身並不能攻擊，只能把友軍單位神不知鬼不覺的運送到
-              <nuxt-link to="#">牆</nuxt-link>內。</p>
+              <nuxt-link to="">牆</nuxt-link>內。</p>
           </div>
           <h3>戰術</h3>
           <div class="hrn1"></div>

@@ -50,7 +50,8 @@
             >就相當強勢的原因就是可以生產鷹斥侯
           </p>
           <p>
-            由於鷹斥侯在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            由於鷹斥侯在<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             >算遠防高，是所有<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >的剋星，不過對於群聚的弓兵，你最好還是想辦法遠離他；鷹斥侯對於近戰步兵是被克制的，但因移動速度高讓步兵很難追到。
           </p>
@@ -510,7 +511,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#3c763d;;">
               <div class="unititle2">
-                <nuxt-link to="#">單位介紹</nuxt-link>
+                <nuxt-link to="">單位介紹</nuxt-link>
               </div>
             </td>
           </tr>

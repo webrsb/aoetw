@@ -221,7 +221,7 @@
               <div class="unitcontent">
                 <img class="gg" src="~assets/Slingericon.png" alt="" />
                 <nuxt-link to="/units/Slinger">投石手</nuxt-link> (<nuxt-link
-                  to="#"
+                  to=""
                   >印加</nuxt-link
                 >限定)
               </div>

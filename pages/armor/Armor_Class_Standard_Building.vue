@@ -231,7 +231,7 @@
                       width="25px"
                       src="~assets/Feitoriaicon.png"
                       alt=""
-                    /><nuxt-link to="#">港灣大商站</nuxt-link>(<nuxt-link
+                    /><nuxt-link to="">港灣大商站</nuxt-link>(<nuxt-link
                       to="/civs/Portuguese"
                       >葡萄牙</nuxt-link
                     >限定)
@@ -241,7 +241,7 @@
                       width="25px"
                       src="~assets/Dockicon.png"
                       alt=""
-                    /><nuxt-link to="#">巨港</nuxt-link>(<nuxt-link
+                    /><nuxt-link to="">巨港</nuxt-link>(<nuxt-link
                       to="/civs/Malians"
                       >馬來</nuxt-link
                     >限定)

@@ -204,7 +204,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">瞭望箭塔</nuxt-link>
+                <div class="unititle"><nuxt-link to="">瞭望箭塔</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -217,7 +217,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -257,7 +257,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -325,7 +325,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -353,21 +353,21 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Watchtoweraokaoc.png"><img class="imgn hg" width="180" src="~assets/Watchtoweraokaoc.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>所有的瞭望箭塔(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Watchtowerhd.png"><img class="imgn hg" width="200" src="~assets/Watchtowerhd.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>所有的瞭望箭塔(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <nuxt-link to="/img/Spritesheet_towers.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_towers.png" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:185px" ;>
+          class="lightbox-caption" style="width:185px" >
             <p><em>各種箭塔在一般地圖/下雪地圖的樣子和駐紮單位時的樣子(包括瞭望箭塔/防禦箭塔/大型箭塔/火炮塔/哨站/海上箭塔/詛咒之塔等)。</em>
             </p>
         </div>

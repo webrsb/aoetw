@@ -330,7 +330,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -357,21 +357,21 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Tk.png"><img class="imgn hg" width="180" src="~assets/Tk.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>一群條頓武士。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Units_9.jpg"><img class="imgn hg" width="180" src="~assets/Units_9.jpg" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>條頓武士的3D圖。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <nuxt-link to="/img/Teutonic_Knight_real_life.jpg"><img class="imgn hg" width="180" src="~assets/Teutonic_Knight_real_life.jpg" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:220px" ;>
+          class="lightbox-caption" style="width:220px" >
             <p><em>畫家筆下的條頓武士。</em>
             </p>
         </div>

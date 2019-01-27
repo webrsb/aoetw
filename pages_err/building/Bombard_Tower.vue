@@ -274,7 +274,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">研發成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">研發成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -370,7 +370,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">影響</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">影響</nuxt-link>
                 </div>
               </td>
             </tr>

@@ -28,7 +28,7 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <h3><nuxt-link to="#">城堡</nuxt-link></h3>
+        <h3><nuxt-link to="">城堡</nuxt-link></h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -642,7 +642,7 @@
                 src="~assets/Uniqueaok.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有《世紀帝國 II HD: 帝王世紀》的特殊單位。</em></p>
             </div>
           </div>
@@ -654,7 +654,7 @@
                 src="~assets/Uniqueaoc.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有《世紀帝國 II HD: 征服者入侵》的特殊單位。</em></p>
             </div>
           </div>
@@ -666,7 +666,7 @@
                 src="~assets/Uniqueaof.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:185px" ;>
+            <div class="lightbox-caption" style="width:185px">
               <p><em>所有《世紀帝國 II HD: 失落的帝國》的特殊單位。</em></p>
             </div>
           </div>
@@ -680,7 +680,7 @@
                 src="~assets/Uniqueaoa.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px" ;>
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有《世紀帝國 II HD: 非洲王朝》的特殊單位。</em></p>
             </div>
           </div>
@@ -692,7 +692,7 @@
                 src="~assets/Uniqueaor.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:185px" ;>
+            <div class="lightbox-caption" style="width:185px">
               <p><em>所有《世紀帝國 II HD: 王者崛起》的特殊單位。</em></p>
             </div>
           </div>

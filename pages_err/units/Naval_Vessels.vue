@@ -636,21 +636,21 @@
             <div class="n1">
               <div class="col-md-4"> <nuxt-link to="/img/Vesselcivilian.png"><img class="imgn hg" width="180" src="~assets/Vesselcivilian.png" alt=""></nuxt-link> 
                 <div
-                class="lightbox-caption" style="width:220px" ;>
+                class="lightbox-caption" style="width:220px" >
                   <p><em>所有平民船隻。</em>
                   </p>
               </div>
             </div>
             <div class="col-md-4"> <nuxt-link to="/img/Vesselmilitary.png"><img class="imgn hg" width="200" src="~assets/Vesselmilitary.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>所有一般的戰鬥船艦。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Vesselunique.png"><img class="imgn hg" width="200" src="~assets/Vesselunique.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:185px" ;>
+            class="lightbox-caption" style="width:185px" >
               <p><em>所有特殊單位船艦。</em>
               </p>
           </div>
@@ -659,14 +659,14 @@
       <div class="col-md-12">
         <div class="col-md-4"> <nuxt-link to="/img/Sailsaokaoc.png"><img class="imgn hg" width="200" src="~assets/Sailsaokaoc.png" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:185px" ;>
+          class="lightbox-caption" style="width:185px" >
             <p><em>不同旗幟的船隻(以戰船為例)(帝王世紀和征服者入侵資料片)。</em>
             </p>
         </div>
       </div>
       <div class="col-md-4"> <nuxt-link to="/img/Sailshd.png"><img class="imgn hg" width="200" src="~assets/Sailshd.png" alt=""></nuxt-link> 
         <div
-        class="lightbox-caption" style="width:220px" ;>
+        class="lightbox-caption" style="width:220px" >
           <p><em>不同旗幟的船隻(以戰船為例)(HD擴充資料片)。</em>
           </p>
       </div>

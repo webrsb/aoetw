@@ -187,7 +187,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">馬廄</nuxt-link>
+                <div class="unititle"><nuxt-link to="">馬廄</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -200,7 +200,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">概要</nuxt-link>
+                <div class="unititle"><nuxt-link to="">概要</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -228,7 +228,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -238,7 +238,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -296,21 +296,21 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/StableFeudalAgeHD.png"><img class="imgn hg" width="180" src="~assets/StableFeudalAgeHD.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>所有封建時代的馬廄(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/StableFeudalAgeDLC.png"><img class="imgn hg" width="200" src="~assets/StableFeudalAgeDLC.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>所有封建時代的馬廄(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <nuxt-link to="/img/Stableaok.png"><img class="imgn hg" width="200" src="~assets/Stableaok.png" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:185px" ;>
+          class="lightbox-caption" style="width:185px" >
             <p><em>所有城堡時代的馬廄(帝王世紀和征服者入侵資料片)。</em>
             </p>
         </div>
@@ -319,14 +319,14 @@
     <div class="col-md-12">
       <div class="col-md-4"> <nuxt-link to="/img/Stablehd.png"><img class="imgn hg" width="200" src="~assets/Stablehd.png" alt=""></nuxt-link> 
         <div
-        class="lightbox-caption" style="width:220px" ;>
+        class="lightbox-caption" style="width:220px" >
           <p><em>所有城堡時代的馬廄(HD擴充資料片)。</em>
           </p>
       </div>
     </div>
     <div class="col-md-4"> <nuxt-link to="/img/Spritesheet_stable.png"><img class="imgn hg" width="200" src="~assets/Spritesheet_stable.png" alt=""></nuxt-link> 
       <div
-      class="lightbox-caption" style="width:185px" ;>
+      class="lightbox-caption" style="width:185px" >
         <p><em>馬廄在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em>
         </p>
     </div>

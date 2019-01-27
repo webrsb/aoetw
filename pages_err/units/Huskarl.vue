@@ -341,7 +341,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位演變</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -368,7 +368,7 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Huskarl.png"><img class="imgn hg" width="180" src="~assets/Huskarl.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>一群哥德衛隊。</em>
                 </p>
             </div>

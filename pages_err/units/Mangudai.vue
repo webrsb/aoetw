@@ -544,21 +544,21 @@
         <div class="n1">
           <div class="col-md-4"> <nuxt-link to="/img/Mangudai.png"><img class="imgn hg" width="180" src="~assets/Mangudai.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>一群蒙古突騎。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <nuxt-link to="/img/Mangudai_real_life.jpg"><img class="imgn hg" width="200" src="~assets/Mangudai_real_life.jpg" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:220px" ;>
+          class="lightbox-caption" style="width:220px" >
             <p><em>真實歷史上的蒙古突騎。</em>
             </p>
         </div>
       </div>
       <div class="col-md-4"> <nuxt-link to="/img/Mangudai_Preview.jpg"><img class="imgn hg" width="200" src="~assets/Mangudai_Preview.jpg" alt=""></nuxt-link> 
         <div
-        class="lightbox-caption" style="width:185px" ;>
+        class="lightbox-caption" style="width:185px" >
           <p><em>世紀帝國III中的蒙古突騎。</em>
           </p>
       </div>

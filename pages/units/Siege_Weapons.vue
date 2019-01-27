@@ -823,7 +823,7 @@
                     src="~assets/Siegeunitssiegeworkshop.png"
                     alt=""
                 /></nuxt-link>
-                <div class="lightbox-caption" style="width:220px" ;>
+                <div class="lightbox-caption" style="width:220px">
                   <p><em>所有攻城器製造所可訓練的攻城器單位。</em></p>
                 </div>
               </div>
@@ -835,7 +835,7 @@
                     src="~assets/Siegeunitscastle.png"
                     alt=""
                 /></nuxt-link>
-                <div class="lightbox-caption" style="width:220px" ;>
+                <div class="lightbox-caption" style="width:220px">
                   <p><em>所有城堡可訓練的攻城器單位。</em></p>
                 </div>
               </div>

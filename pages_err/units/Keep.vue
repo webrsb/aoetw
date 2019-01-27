@@ -227,7 +227,7 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle"><nuxt-link to="#">大型箭塔</nuxt-link>
+                <div class="unititle"><nuxt-link to="">大型箭塔</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -240,13 +240,13 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">單位介紹</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit3">類型</td>
-              <td class="unit4"><nuxt-link to="#">箭塔</nuxt-link>
+              <td class="unit4"><nuxt-link to="">箭塔</nuxt-link>
               </td>
             </tr>
             <tr>
@@ -271,7 +271,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">成本</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -285,7 +285,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#3c763d;;">
-                <div class="unititle2"><nuxt-link to="#">數據</nuxt-link>
+                <div class="unititle2"><nuxt-link to="">數據</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -362,21 +362,21 @@
           <div class="n1">
             <div class="col-md-4"> <nuxt-link to="/img/Keepaokaoc.png"><img class="imgn hg" width="180" src="~assets/Keepaokaoc.png" alt=""></nuxt-link> 
               <div
-              class="lightbox-caption" style="width:220px" ;>
+              class="lightbox-caption" style="width:220px" >
                 <p><em>所有的大型箭塔(帝王世紀和征服者入侵資料片)。</em>
                 </p>
             </div>
           </div>
           <div class="col-md-4"> <nuxt-link to="/img/Keephd.png"><img class="imgn hg" width="200" src="~assets/Keephd.png" alt=""></nuxt-link> 
             <div
-            class="lightbox-caption" style="width:220px" ;>
+            class="lightbox-caption" style="width:220px" >
               <p><em>所有的大型箭塔(HD擴充資料片)。</em>
               </p>
           </div>
         </div>
         <div class="col-md-4"> <nuxt-link to="/img/Wooden_keep.jpg"><img class="imgn hg" width="200" src="~assets/Wooden_keep.jpg" alt=""></nuxt-link> 
           <div
-          class="lightbox-caption" style="width:185px" ;>
+          class="lightbox-caption" style="width:185px" >
             <p><em>現實生活中在法國的木造大型箭塔(來源:維基百科)。</em>
             </p>
         </div>

@@ -22,7 +22,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style=" background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="#">德彬瑞蒂</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">德彬瑞蒂</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -40,7 +40,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="#">騎兵<br />弓箭手<br />英雄</nuxt-link>
+              <nuxt-link to="">騎兵<br />弓箭手<br />英雄</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -18,7 +18,7 @@
           <p id="card_text" class="card-text">
             刺激、快速、60秒一場 | 簡單又好玩的守塔遊戲。
           </p>
-          <nuxt-link to="#" class="btn btn-primary">開始玩</nuxt-link>
+          <nuxt-link to="" class="btn btn-primary">開始玩</nuxt-link>
         </div>
       </div>
     </div>
