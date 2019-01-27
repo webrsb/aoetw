@@ -24,7 +24,7 @@
     </ul>
     </div>
   </div>
-<h3  id="a5" id="a3" id="a1"><strong>1v1 (2000~2011)</strong></h3>
+<h3  id="a5"><strong>1v1 (2000~2011)</strong></h3>
 <div class="hrn1"></div>
 <div class="n1">
 <p>2000年 <strong>世界電競大賽 挑戰賽</strong></p>
