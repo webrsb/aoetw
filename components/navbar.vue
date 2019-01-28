@@ -158,7 +158,6 @@ li {
 @media (min-width: 768px){
   .navbar-expand-md {
       max-height: 86px;
-      overflow: hidden;
   }
 }
 </style>
