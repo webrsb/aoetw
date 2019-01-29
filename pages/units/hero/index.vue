@@ -152,7 +152,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Dukedalencon.png" alt="" /><nuxt-link
-                to="/Duke_D'Alençon.php"
+                to="/units/hero/Duke_D_Alencon"
                 >阿朗松公爵</nuxt-link
               >
             </td>
@@ -269,7 +269,7 @@
                 class="gg"
                 src="~assets/Badneighboricon.png"
                 alt=""
-              /><nuxt-link to="/God's_Own_Sling.php">神之弓</nuxt-link>
+              /><nuxt-link to="/units/hero/God_s_Own_Sling">神之弓</nuxt-link>
             </td>
             <td class="tunitc4">攻城單位</td>
             <td class="tunitc6">巨型投石機</td>
@@ -946,7 +946,7 @@
                 <td class="tunitc6">
                   <img
                     class="gg"
-                    src="~assets/Henryvicon.png"
+                    src="~assets/HenryvIcon.png"
                     alt=""
                   /><nuxt-link to="/units/hero/Henry_V">亨利五世</nuxt-link>
                 </td>
@@ -1026,7 +1026,7 @@
                 <td class="tunitc6">
                   <img
                     class="gg"
-                    src="~assets/Popeleoicon.png"
+                    src="~assets/PopeleoIcon.png"
                     alt=""
                   /><nuxt-link to="/units/hero/Pope_Leo_I"
                     >教宗利奧一世</nuxt-link

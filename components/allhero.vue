@@ -29,23 +29,23 @@
                 >壞鄰居</nuxt-link>·<nuxt-link to="/units/hero/Belisarius">貝利沙魯實</nuxt-link>·
               <nuxt-link to="/units/hero/Charlemagne">查理曼大帝</nuxt-link>·<nuxt-link to="/units/hero/Charles_Martel"
                 >鐵鎚查理</nuxt-link>·<nuxt-link to="/units/hero/Constable_Richemont">康斯塔伯理察蒙</nuxt-link>·
-              <nuxt-link to="/Duke_D'Alençon.php">阿朗松公爵</nuxt-link>·<nuxt-link to="/units/hero/El_Cid"
+              <nuxt-link to="/units/hero/Duke_D_Alencon">阿朗松公爵</nuxt-link>·<nuxt-link to="/units/hero/El_Cid"
                 >熙德</nuxt-link>·<nuxt-link to="/units/hero/Emperor_in_a_Barrel">裝在桶裡的皇帝</nuxt-link>·
               <nuxt-link to="/units/hero/Erik_the_Red">紅衣艾立克</nuxt-link>·<nuxt-link to="/units/hero/Frankish_Paladin"
                 >法蘭克聖騎士</nuxt-link>·<nuxt-link to="/units/hero/Friar_Tuck">塔克修士</nuxt-link>·
               <nuxt-link to="/units/hero/Gawain">高文爵士</nuxt-link>·<nuxt-link to="/units/hero/Genghis_Khan"
-                >成吉思汗</nuxt-link>·<nuxt-link to="/God's_Own_Sling.php">神之弓</nuxt-link>·
+                >成吉思汗</nuxt-link>·<nuxt-link to="/units/hero/God_s_Own_Sling">神之弓</nuxt-link>·
               <nuxt-link to="/units/hero/Guy_Josselyne">蓋佐斯爾立</nuxt-link>·<nuxt-link to="/units/hero/Harold_Haardraade"
                 >哈拉爾-哈德拉達</nuxt-link>·<nuxt-link to="/units/hero/Hrolf_the_Ganger">首領荷夫</nuxt-link>·
-              <nuxt-link to="/Hunting_/units/animal/Wolf">獵狼</nuxt-link>·<nuxt-link to="/units/hero/Jean_Bureau"
+              <nuxt-link to="/units/hero/Hunting_Wolf">獵狼</nuxt-link>·<nuxt-link to="/units/hero/Jean_Bureau"
                 >約翰布荷</nuxt-link>·<nuxt-link to="/units/hero/Jean_de_Lorrain">洛林的約翰</nuxt-link>·
-              <nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link>·<nuxt-link to="/units/hero/Joan_the_Maid"
+              <nuxt-link to="/units/hero/Joan_of_Arc_Champion">聖女貞德</nuxt-link>·<nuxt-link to="/units/hero/Joan_the_Maid"
                 >農家女貞德</nuxt-link>·<nuxt-link to="/units/hero/King_Arthur">亞瑟王</nuxt-link>·
               <nuxt-link to="/units/hero/Kitabatake">北畠將軍</nuxt-link>·<nuxt-link to="/units/hero/Kushluk"
                 >屈出律</nuxt-link>·<nuxt-link to="/units/hero/La_Hire">拉海爾</nuxt-link>·
               <nuxt-link to="/units/hero/Lancelot">藍斯洛特</nuxt-link>·<nuxt-link to="/units/hero/Lord_de_Graville"
                 >格拉維爾領主</nuxt-link>·<nuxt-link to="/units/hero/Master_of_the_Templar">聖殿騎士團首領</nuxt-link>·
-              <nuxt-link to="/units/hero/Minamoto">源氏</nuxt-link>·<nuxt-link to="/units/hero/Mordred">莫德雷德</nuxt-link>·<nuxt-link to="/Ornlu_the_/units/animal/Wolf">灰狼歐魯</nuxt-link>·
+              <nuxt-link to="/units/hero/Minamoto">源氏</nuxt-link>·<nuxt-link to="/units/hero/Mordred">莫德雷德</nuxt-link>·<nuxt-link to="/units/hero/Ornlu_the_Wolf">灰狼歐魯</nuxt-link>·
               <nuxt-link to="/units/hero/Reynald_de_Chatillon">沙底隆的雷諾</nuxt-link>·<nuxt-link to="/units/hero/Richard_the_Lionheart"
                 >獅心王查理</nuxt-link>·<nuxt-link to="/units/hero/Robin_Hood">羅賓漢</nuxt-link>·
               <nuxt-link to="/units/hero/Roland">羅蘭</nuxt-link>·<nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link>·<nuxt-link to="/units/hero/Shah"

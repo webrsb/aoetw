@@ -17,7 +17,7 @@ export default {
   mounted() {
     onScriptLoaded(() => this.addInstantSearch())
     if (scriptInjected) {
-      return scriptLoaded() 
+      return window.docsearch ? scriptLoaded() : null
     }
     // Load JS
     const script = document.createElement('script')
