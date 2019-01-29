@@ -34,7 +34,7 @@
               >強制徵兵</nuxt-link
             >，使得劍兵系列不用耗費黃金訓練，使得這些部隊成為後期“垃圾戰爭”中一個可行的策略，輕鬆擊敗其他垃圾單位（
             <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>，<nuxt-link
-              to="/Hustree/sar"
+              to="/units/Hussar"
               >輕騎兵</nuxt-link
             >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>）。
           </p>

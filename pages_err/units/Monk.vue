@@ -110,7 +110,7 @@
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/Hustree/sar">匈牙利清騎兵</nuxt-link> 
+                    <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link> 
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+10攻擊</strong>

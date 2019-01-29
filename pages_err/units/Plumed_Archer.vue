@@ -19,7 +19,7 @@
             <ul>
               <li>羽毛弓箭手的攻擊力比大多數弓箭手都要低，但是具有更高的HP和更高的移動速度，足以跟上一些騎兵的速度。這使他們能夠有效地成為馬雅文明的馬弓騎兵執行打帶跑戰術。羽毛弓箭兵對大多數步兵有攻擊加成，除了
                 <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>和
-                  <nuxt-link to="/units/Samurai">日本武士</nuxt-link>之外。雖然他們的生命值提高了，而且比大多數弓箭手還要多，然而他們還是很容易會被騎兵殲滅。如果是複數羽毛箭射手的話像<nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>的弱小騎兵可以輕鬆應付；然而
+                  <nuxt-link to="/units/Samurai">日本武士</nuxt-link>之外。雖然他們的生命值提高了，而且比大多數弓箭手還要多，然而他們還是很容易會被騎兵殲滅。如果是複數羽毛箭射手的話像<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>的弱小騎兵可以輕鬆應付；然而
                     <nuxt-link to="/units/Paladin">遊俠</nuxt-link>仍是一個威脅，因為他們有足夠的攻擊力可以快速殺死羽毛箭射手，而且3的遠程護甲讓他們每次只受到羽毛箭射手2點傷害，這意味著他們在殺死羽毛箭射手前可以坦90下攻擊。</li>
               <li>在大多數情況下，羽毛箭射手都跟<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>搭配，因為兩個單位的移動速度都足夠快，可以執行突襲戰術，雙方都擁有良好的HP，並且覆蓋了彼此的主要弱點。和其他弓箭手一樣，羽毛箭射手對
                 <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>的攻擊很脆弱，尤其是<nuxt-link to="/units/Mangonel">投石車</nuxt-link>，不過65HP可以讓他們承受<nuxt-link to="/units/Onager">中型投石車</nuxt-link>兩次的攻擊（

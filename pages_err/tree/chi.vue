@@ -209,7 +209,7 @@
       "><img class="gg " src="~assets/Husbandry.jpg " alt=" "><div><nuxt-link to="/techs/Husbandry
       ">畜牧培育</nuxt-link></div></td>        </tr>        <tr>          <td style=" vertical-align: middle; " class="t5 trm im "><nuxt-link to="/techs/age/Imperial_Age
       ">帝王時代</nuxt-link></td>          <td class="t19 trm not "><img class="gg " src="~assets/HussarIcon.jpg
-      "><div><nuxt-link to="/Hustree/sar ">匈牙利輕騎兵</nuxt-link></div></td>          <td class="t19 trm
+      "><div><nuxt-link to="/units/Hussar ">匈牙利輕騎兵</nuxt-link></div></td>          <td class="t19 trm
       "><img class="gg " src="~assets/CavalierIcon.jpg "><div><nuxt-link to="/units/Cavalier
       ">騎兵</nuxt-link></div>            <i class="fas fa-arrow-down "></i><br/><img class="gg not " src="~assets/PaladinIcon.jpg
       "><div><nuxt-link to="/units/Paladin " class="not ">遊俠</nuxt-link></div></td>          <td class="t19 trm

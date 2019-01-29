@@ -71,7 +71,7 @@
             <li>
               <nuxt-link to="/units/Light_Cavalry"
                 >輕騎兵與
-                <nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link></nuxt-link
+                <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link></nuxt-link
               >+30%HP
             </li>
             <li>打獵的效率提高+50%</li>

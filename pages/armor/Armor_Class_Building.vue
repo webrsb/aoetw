@@ -771,7 +771,7 @@
                     class="gg"
                     src="~assets/HussarIcon.jpg"
                     alt=""
-                  /><nuxt-link to="/Hustree/sar">匈牙利清騎兵</nuxt-link>
+                  /><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
                 </li>
                 <li>
                   <img

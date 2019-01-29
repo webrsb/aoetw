@@ -68,7 +68,7 @@
                 <img class="gg" src="~assets/LightCavalryIcon.jpg"
                 alt=""> <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
                 <img class="gg" src="~assets/HussarIcon.jpg"
-                alt=""> <nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>
+                alt=""> <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
                 <br/>
                 <img class="gg" src="~assets/Bloodlines.png" width="30" alt=""><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20)</td>
             </tr>
@@ -422,7 +422,7 @@
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>
+                <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
               </td>
             </tr>
             <tr>

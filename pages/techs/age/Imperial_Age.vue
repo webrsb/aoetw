@@ -226,7 +226,7 @@
                 src="~assets/HussarIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link
+              /><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
               >：輕型騎馬偵查單位。
             </li>
             <li>

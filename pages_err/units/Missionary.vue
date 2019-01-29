@@ -139,7 +139,7 @@
                     <li>
                       <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt=""><nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link>(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link> 
+                      <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link> 
                     </li>
                     <li>
                       <img class="gg" src="~assets/SMURI.jpg" alt=""><nuxt-link to="/units/Samurai">精銳日本武士</nuxt-link>(<nuxt-link to="/civs/Japanese">日本</nuxt-link>限定)</li>

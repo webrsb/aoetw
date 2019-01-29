@@ -20,13 +20,13 @@
           <div class="n1">
             <ul>
               <li>馬札爾驃騎兵不需要黃金(需研發<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>)整體相對其他城堡兵便宜，所以在<nuxt-link to="/building/Castle">城堡</nuxt-link>多時量產上不是問題，移動和攻擊速度又快又有對攻城器單位加成，因此在對攻城器單位上是很理想的兵種，另外馬札爾驃騎兵整體又跟
-                <nuxt-link to="/units/Knight">騎士</nuxt-link>差不多，且訓練快速因此在<nuxt-link to="/building/Castle">城堡</nuxt-link>多時<nuxt-link to="/Hustree/sar">翼騎兵</nuxt-link>(匈牙利輕騎兵)變的很多餘。</li>
+                <nuxt-link to="/units/Knight">騎士</nuxt-link>差不多，且訓練快速因此在<nuxt-link to="/building/Castle">城堡</nuxt-link>多時<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(匈牙利輕騎兵)變的很多餘。</li>
               <li>馬札爾驃騎兵搭配馬扎爾馬弓騎兵是一大強力組合，馬札爾驃騎兵只需要肉(需研發<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>)
                 <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>需要黃金/木材，因此在資源使用上無衝突，<nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>又怕攻城器單位而馬札爾驃騎兵又對攻城器單位有加成傷害，再者
                   <nuxt-link to="/units/Spearman">槍兵</nuxt-link>系本身又懼怕遠距離攻擊，因此這種配兵在馬扎爾裡屬於上選。</li>
               <li>馬札爾驃騎兵雖然在近戰上幾乎能不打贏任何單位，但是在考慮到成本上馬札爾驃騎兵還是相對有成本優勢。</li>
-              <li>馬札爾驃騎兵幾本上在<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>文明裡近乎完全取代了<nuxt-link to="/Hustree/sar">翼騎兵</nuxt-link>(匈牙利輕騎兵)，但是對
-                <nuxt-link to="/units/Monk">僧侶</nuxt-link>上還是用<nuxt-link to="/Hustree/sar">翼騎兵</nuxt-link>(匈牙利輕騎兵)來得比較好，因為<nuxt-link to="/Hustree/sar">翼騎兵</nuxt-link>(匈牙利輕騎兵)對
+              <li>馬札爾驃騎兵幾本上在<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>文明裡近乎完全取代了<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(匈牙利輕騎兵)，但是對
+                <nuxt-link to="/units/Monk">僧侶</nuxt-link>上還是用<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(匈牙利輕騎兵)來得比較好，因為<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(匈牙利輕騎兵)對
                   <nuxt-link to="/units/Monk">僧侶</nuxt-link>有強大的優勢(抗性/傷害加成)。</li>
             </ul>
           </div>

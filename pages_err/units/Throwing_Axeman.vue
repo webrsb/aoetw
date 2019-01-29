@@ -21,7 +21,7 @@
                 <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>）有奇效。此外，由於擲斧兵對<nuxt-link to="/building/bulding">建築物</nuxt-link>有攻擊加成，因此大量的擲斧兵可以作為攻城武器的替代品。</li>
               <li>擲斧兵可以在城牆後迅速摧毀衝撞車，因為衝撞車的遠程護甲在他們眼中猶如不存在般。他們比一般的射手單位對建築物造成的傷害還要多。然而，擲斧兵較短的攻擊範圍意味著他們對於近身單位，攻城武器以及採用打帶跑戰術的射手單位都很脆弱。他們不像
                 <nuxt-link to="/units/Archer">弓箭手</nuxt-link>那樣容易被攻城器殺死（需要兩次才能被擊倒），但<nuxt-link to="/units/Mangonel">投石車</nuxt-link>仍然可以一擊必殺他們。然而，擲斧兵只要能夠避免被擊中並能夠縮小作戰距離，就可以通過近戰傷害輕易地摧毀這些攻城武器。重裝騎兵單位(
-                  <nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>除外)如<nuxt-link to="/units/Paladin">遊俠</nuxt-link>也能有效對付擲斧兵。</li>
+                  <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>除外)如<nuxt-link to="/units/Paladin">遊俠</nuxt-link>也能有效對付擲斧兵。</li>
               <li>由於法蘭克人相當依賴遊俠，所以使用投擲斧兵來對付<nuxt-link to="/units/Camel">駱駝</nuxt-link>和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>是非常有用的對策。</li>
               <li>擲斧兵的開火間隔太長，不適合用來風箏近戰單位。</li>
               <li>擲斧兵拿來打<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>相當好用。</li>

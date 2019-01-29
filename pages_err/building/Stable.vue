@@ -54,7 +54,7 @@
                  <h4><nuxt-link to="/techs/age/Imperial_Age"></nuxt-link>帝王時代</h4> 
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/HussarIcon.jpg"><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>
+                    <img class="gg" src="~assets/HussarIcon.jpg"><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/CavalierIcon.jpg"><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>

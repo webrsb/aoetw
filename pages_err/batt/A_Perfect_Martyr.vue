@@ -155,7 +155,7 @@
             <li>
               <img class="gg" src="~assets/ChampionIcon.jpg" alt=""><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>*8</li>
             <li>
-              <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>*8</li>
+              <img class="gg" src="~assets/HussarIcon.jpg" alt=""><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>*8</li>
             <li>
               <img class="gg" src="~assets/HandCannoneerIcon.jpg" alt=""><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>*8</li>
             <li>

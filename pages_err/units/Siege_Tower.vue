@@ -287,7 +287,7 @@
                 <li>攻城塔是唯一一個無法攻擊的單位。</li>
                 <li>地圖編輯器還是把攻城塔列為征服者入侵的單位，LOGO也是。</li>
                 <li>蒙古的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>的
-                  <nuxt-link to="/Hustree/sar">輕騎兵</nuxt-link>。</li>
+                  <nuxt-link to="/units/Hussar">輕騎兵</nuxt-link>。</li>
                 <li>AOE HD論壇曾經為了攻城塔要不要給它攻擊而有過激烈的討論。有人覺得沒有攻擊的攻城塔是一個沒用的單位。</li>
                 <li>5名條頓武士駐守在衝撞車內的速度是0.75，而<nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link>速度為0.7，但研發
                   <nuxt-link to="/techs/Squires">護衛技術</nuxt-link>後，條頓武士速度為0.77，並沒有比較快。但如果裝在攻城塔內，速度就來到了1.3，可以更有效率的運用條頓武士。</li>

@@ -245,7 +245,7 @@
             </td>
             <td class="t19 trm ">
               <img class="gg" src="~assets/HussarIcon.jpg">
-              <div><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>
+              <div><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
               </div>
             </td>
             <td class="t19 trm">

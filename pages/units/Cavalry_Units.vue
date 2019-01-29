@@ -143,7 +143,7 @@
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:<nuxt-link
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
-              >和<nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>免費升級。
+              >和<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>免費升級。
             </li>
           </ul>
         </div>
@@ -171,7 +171,7 @@
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
                 to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
-              >和<nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link>+2視野。
+              >和<nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>+2視野。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：<nuxt-link
@@ -235,7 +235,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HussarIcon.jpg" /><nuxt-link
-                  to="/Hustree/sar"
+                  to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 >
               </td>

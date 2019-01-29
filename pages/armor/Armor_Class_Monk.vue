@@ -59,7 +59,7 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/HussarIcon.jpg" alt="" /><nuxt-link
-                  to="/Hustree/sar"
+                  to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 >
               </li>

@@ -145,7 +145,7 @@
         </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></td>
-          <td class="t19 trm"><img class="gg" src="~assets/HussarIcon.jpg"><div><nuxt-link to="/Hustree/sar">匈牙利輕騎兵</nuxt-link></div></td>
+          <td class="t19 trm"><img class="gg" src="~assets/HussarIcon.jpg"><div><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/CavalierIcon.jpg"><div><nuxt-link to="/units/Cavalier">騎兵</nuxt-link></div>
             <i class="fas fa-arrow-down"></i><br/><div class="not"><img class="gg" src="~assets/PaladinIcon.jpg"><div><nuxt-link to="/units/Paladin" class="">遊俠</nuxt-link></div></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/HeavyCamelIcon.jpg"><div><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/ImperialCamelIcon.jpg"><div><nuxt-link to="/Imperial_units/Camel" class="not">帝王駱駝騎兵</nuxt-link></div></td>
