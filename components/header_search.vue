@@ -16,7 +16,9 @@ let scriptLoaded = () => callbacks.forEach(cb => cb())
 export default {
   mounted() {
     onScriptLoaded(() => this.addInstantSearch())
-    if (scriptInjected) return
+    if (scriptInjected) {
+      return scriptLoaded() 
+    }
     // Load JS
     const script = document.createElement('script')
     script.setAttribute('type', 'text/javascript')
@@ -36,6 +38,9 @@ export default {
     )
     document.getElementsByTagName('body')[0].appendChild(link)
     scriptInjected = true
+  },
+  destroyed() {
+    scriptInjected = false
   },
   methods: {
     addInstantSearch() {
