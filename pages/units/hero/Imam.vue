@@ -45,7 +45,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Imamicon.png" width="80" alt="" />
+                <img src="~assets/ImamIcon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

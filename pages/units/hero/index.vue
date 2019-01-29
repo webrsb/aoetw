@@ -960,7 +960,7 @@
               </tr>
               <tr>
                 <td class="tunitc6">
-                  <img class="gg" src="~assets/Imamicon.png" alt="" /><nuxt-link
+                  <img class="gg" src="~assets/ImamIcon.png" alt="" /><nuxt-link
                     to="/units/hero/Imam"
                     >伊滿</nuxt-link
                   >
