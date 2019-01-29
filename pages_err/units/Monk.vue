@@ -117,7 +117,7 @@
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
+                    <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                   </li>
                   <li>
                     <img class="gg" src="~assets/LightCavalryIcon.jpg" alt=""><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link> 

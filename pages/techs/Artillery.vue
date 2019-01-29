@@ -28,7 +28,7 @@
           <ul>
             <li>
               砲兵讓土耳其火炮塔的攻擊距離可打到敵隊火炮。土耳其的<nuxt-link
-                to="/Elite_units/Cannon_Galleon"
+                to="/units/Elite_Cannon_Galleon"
                 >精銳火炮戰船</nuxt-link
               >有遊戲中最遠的射程(與有
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link

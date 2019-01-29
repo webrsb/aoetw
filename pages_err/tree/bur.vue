@@ -148,7 +148,7 @@
           <td class="t19 trm"><img class="gg" src="~assets/CavalierIcon.jpg"><div><nuxt-link to="/units/Cavalier">騎兵</nuxt-link></div>
             <i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/PaladinIcon.jpg"><div><nuxt-link to="/units/Paladin" class="">遊俠</nuxt-link></div></td>
           <td class="t19 trm not"><img class="gg" src="~assets/HeavyCamelIcon.jpg"><div><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/ImperialCamelIcon.jpg"><div><nuxt-link to="/Imperial_units/Camel" class="not">帝王駱駝騎兵</nuxt-link></div></td>
-          <td class="t19 trm"><img class="gg" src="~assets/Battleelephanticon.png"><div><nuxt-link to="/Elite_units/Battle_Elephant">精銳矛象伕</nuxt-link></div></td>
+          <td class="t19 trm"><img class="gg" src="~assets/Battleelephanticon.png"><div><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link></div></td>
           <td class="t19 trm"></td>
         </tr>
     </table>
@@ -396,7 +396,7 @@
           <td class="t10 trm not"><img class="gg" src="~assets/LongboatIcon.jpg"><div><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link></div></td>
           <td class="t10 trm not"><img class="gg" src="~assets/TurtleShipIcon.jpg"><div><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link></div></td>
           <td class="t10 trm not"><img class="gg" src="~assets/CaravelIcon2.jpg"><div><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link></div></td>
-          <td class="t10 trm"><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><nuxt-link to="/Elite_units/Cannon_Galleon" class="">精銳火炮戰船</nuxt-link></div></td>
+          <td class="t10 trm"><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><nuxt-link to="/units/Elite_Cannon_Galleon" class="">精銳火炮戰船</nuxt-link></div></td>
            <td class="t10 trm"><img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><div><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link></div></td>
          
           <td class="t10 trm not"><img class="gg" style="margin: 2px;" src="~assets/Shipwright.jpg" alt=""><div><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link></div></td>

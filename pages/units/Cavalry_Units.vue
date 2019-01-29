@@ -413,7 +413,7 @@
                 <img
                   class="gg"
                   src="~assets/Battleelephanticon.png"
-                /><nuxt-link to="/Elite_units/Battle_Elephant"
+                /><nuxt-link to="/units/Elite_Battle_Elephant"
                   >精銳矛象伕</nuxt-link
                 >
               </td>

@@ -333,7 +333,7 @@
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Elite_units/Cannon_Galleon"
+                    <nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>
@@ -419,7 +419,7 @@
                       class="gg"
                       src="~assets/EliteEagleWarriorIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Elite_units/Eagle_Warrior"
+                    /><nuxt-link to="/units/Elite_Eagle_Warrior"
                       >精銳鷹勇士</nuxt-link
                     >
                   </li>

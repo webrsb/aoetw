@@ -122,7 +122,7 @@
                   src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""
                 />
-                <nuxt-link to="/Elite_units/Eagle_Warrior"
+                <nuxt-link to="/units/Elite_Eagle_Warrior"
                   >精銳鷹勇士</nuxt-link
                 >
               </div>
@@ -305,7 +305,7 @@
                   src="~assets/Elitebattleelephanticon.png"
                   alt=""
                 />
-                <nuxt-link to="/Elite_units/Battle_Elephant"
+                <nuxt-link to="/units/Elite_Battle_Elephant"
                   >精銳矛象伕</nuxt-link
                 >
               </div>
@@ -696,7 +696,7 @@
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
                 <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-                <nuxt-link to="/Elite_units/Cannon_Galleon"
+                <nuxt-link to="/units/Elite_Cannon_Galleon"
                   >精銳火砲戰船</nuxt-link
                 >
               </div>
@@ -719,7 +719,7 @@
                 <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
                 <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>→
                 <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
-                <nuxt-link to="/Elite_units/Turtle_Ship">精銳龜甲船</nuxt-link
+                <nuxt-link to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
                 >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
               </div>
             </td>
@@ -730,7 +730,7 @@
                 <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" />
                 <nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>→
                 <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" />
-                <nuxt-link to="/Elite_units/Caravel">精銳卡拉維爾戰船</nuxt-link
+                <nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                 >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
               </div>
             </td>

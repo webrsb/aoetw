@@ -36,7 +36,7 @@
               >可以獲得遊戲中最多的14攻擊，比
               <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link
               >還多。馬利的騎兵也是遊戲中攻擊排名非特殊騎兵第二(攻擊力19)和全遊戲第三，僅次於<nuxt-link
-                to="/Elite_units/Battle_Elephant"
+                to="/units/Elite_Battle_Elephant"
                 >精銳矛象伕</nuxt-link
               >和
               <nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link>。

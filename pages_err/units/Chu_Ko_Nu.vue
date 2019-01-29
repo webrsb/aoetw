@@ -116,7 +116,7 @@
                     <li>
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""> <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg"
-                      alt=""> <nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link>
+                      alt=""> <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link>
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>

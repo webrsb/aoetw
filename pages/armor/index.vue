@@ -283,7 +283,7 @@
                       class="gg"
                       src="~assets/EliteEagleWarriorIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Elite_units/Eagle_Warrior"
+                    /><nuxt-link to="/units/Elite_Eagle_Warrior"
                       >精銳鷹勇士</nuxt-link
                     >（8,<nuxt-link to="/civs/Incas">印加</nuxt-link>：10）
                   </li>
@@ -452,7 +452,7 @@
                   </li>
                   <li>
                     <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
-                      to="/Elite_units/Cannon_Galleon"
+                      to="/units/Elite_Cannon_Galleon"
                       >精銳火炮戰船</nuxt-link
                     >（9）
                   </li>

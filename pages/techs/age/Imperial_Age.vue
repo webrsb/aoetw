@@ -115,7 +115,7 @@
                 src="~assets/EliteEagleWarriorIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link
+              /><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
               >：偵查單位，可對付弓箭手。
             </li>
             <li>

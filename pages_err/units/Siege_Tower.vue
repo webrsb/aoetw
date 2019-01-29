@@ -20,7 +20,7 @@
             <p>攻城塔有很高的生命值與遠防，可以向附近的敵人射箭來防禦，然而用它來防禦仍然不夠，甚至比箭塔還遭，倒是比較像是可以運兵的衝撞車。</p>
             <h3>非洲王國</h3>
             <p>非洲王國的攻城塔不再有攻擊力，變成純粹的運兵裝置，且可以把軍隊從牆的這邊運送到另一邊，當敵人的基地有非常強大的防守，而無法突破時，攻城塔便十分有用，可以廣泛運用於圍城或是黑森林這種封閉地圖。</p>
-            <p>另外裝滿10名步兵或是弩兵的裝甲塔速度為1.3，比沒有<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>的<nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link>還快，這使得它成為一種有效的運輸單位。</p>
+            <p>另外裝滿10名步兵或是弩兵的裝甲塔速度為1.3，比沒有<nuxt-link to="/techs/Squires">護衛技術</nuxt-link>的<nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>還快，這使得它成為一種有效的運輸單位。</p>
           </div>
           <h3>更多數據</h3>
           <div class="hrn1"></div>
@@ -119,7 +119,7 @@
                     <li>
                       <img src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                       <img src="~assets/CannonGalleonIcon.jpg"
-                      alt=""><nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link> 
+                      alt=""><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
@@ -158,7 +158,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                     </li>
                     <li>
                       <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link>(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)</li>

@@ -69,7 +69,7 @@
                     <img class="gg" src="~assets/ImperialCamelIcon.jpg"><nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>
                   </li>
                   <li>
-                    <img class="gg" src="~assets/Battleelephanticon.png"><nuxt-link to="/Elite_units/Battle_Elephant">精銳矛象伕</nuxt-link>
+                    <img class="gg" src="~assets/Battleelephanticon.png"><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link>
                   </li>
                 </ul>
               </div>

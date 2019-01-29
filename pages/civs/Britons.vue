@@ -29,7 +29,7 @@
             >工作效率高、文明又給予攻擊距離的增加使得弓兵的使用更多元。
           </p>
           不列顛的特殊單位長弓兵，是遊戲中唯一可以超越城堡的弓兵單位在對付緩慢的兵種時可以有效的給予傷害，相對的快速的騎兵是一大要害因此擁有完整個軍營兵種與科技好保護弓兵，此外不列顛的馬廄科技是非常不完善的。另外在海軍上不列顛除了
-          <nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link
+          <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link
           >以外科技是相當完善的，在<nuxt-link to="/units/Siege_Weapons"
             >攻城單位</nuxt-link
           >上缺乏<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>與

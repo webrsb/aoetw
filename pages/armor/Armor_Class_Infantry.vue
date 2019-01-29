@@ -60,7 +60,7 @@
               <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" />
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>→
               <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="" />
-              <nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link>
+              <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>
             </li>
             <li>
               <img
@@ -167,7 +167,7 @@
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Elite_units/Cannon_Galleon"
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >
                   </li>

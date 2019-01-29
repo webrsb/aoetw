@@ -18,7 +18,7 @@
             HD：被遺忘的帝國》中登場的一名<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link>，他的外型是
-            <nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link
+            <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
             >，只能在地圖編輯器中使用。由於他屬於英雄，因此無法被招降，也會自動回血。
           </p>
           <p>

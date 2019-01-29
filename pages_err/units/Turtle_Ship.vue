@@ -212,7 +212,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>

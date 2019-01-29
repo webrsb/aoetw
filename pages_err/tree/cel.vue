@@ -268,7 +268,7 @@
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/Battleelephanticon.png">
-              <div><nuxt-link to="/Elite_units/Battle_Elephant">精銳矛象伕</nuxt-link>
+              <div><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link>
               </div>
             </td>
             <td class="t19 trm"></td>
@@ -766,7 +766,7 @@
           </div><i class="fas fa-arrow-down"></i>
           <br/>
           <img class="gg not" src="~assets/CannonGalleonIcon.jpg">
-          <div><nuxt-link to="/Elite_units/Cannon_Galleon" class="not">精銳火炮戰船</nuxt-link>
+          <div><nuxt-link to="/units/Elite_Cannon_Galleon" class="not">精銳火炮戰船</nuxt-link>
           </div>
         </td>
         <td class="t10 trm">

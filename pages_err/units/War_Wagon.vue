@@ -138,7 +138,7 @@
                     <li>
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg"
-                      alt=""> <nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link> 
+                      alt=""> <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+18攻擊</strong>
@@ -222,7 +222,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                     </li>
                     <li>
                       <img class="gg" src="~assets/GenitourIcon.jpg" alt=""> <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>和同盟限定)</li>

@@ -132,7 +132,7 @@
                     <li>
                       <img src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                       <img src="~assets/CannonGalleonIcon.jpg"
-                      alt=""><nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link> 
+                      alt=""><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
@@ -165,7 +165,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                     </li>
                     <li>
                       <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link>(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)</li>
@@ -233,7 +233,7 @@
             <ul>
               <li>投石機是唯一一個被摧毀時，會像建築物一樣損壞時著火的單位。</li>
               <li>投石機是遊戲內射程最遠的單位，共有16的距離，加上<nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>就有17的範圍，只有
-                <nuxt-link to="/civs/Turks">土耳其</nuxt-link>的<nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link>能與之匹敵。</li>
+                <nuxt-link to="/civs/Turks">土耳其</nuxt-link>的<nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link>能與之匹敵。</li>
               <li>如果投石機在砲彈擊中目標前就收和，那麼目標就不會受到傷害，這在日本投石機研發過彈射器後很常見，算是一個BUG。</li>
             </ul>
           </div>

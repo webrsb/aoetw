@@ -23,7 +23,7 @@
             <ul>
               <li>飛刀女獵手是遠程步兵單位，與<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link>，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>和
                 <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>一樣是遠距離造成近戰傷害。飛刀女獵手的射程最長，攻擊最高，移動速度也最快。雖然缺乏基礎護甲和低HP，但還是能夠造成相當可觀的傷害。由於他們移動速度相當快，他們可以對除了
-                  <nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹戰士</nuxt-link>以外的所有步兵使用打帶跑戰。若合理使用他們的攻擊範圍和高攻擊，他們仍舊可以擊敗<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。</li>
+                  <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹戰士</nuxt-link>以外的所有步兵使用打帶跑戰。若合理使用他們的攻擊範圍和高攻擊，他們仍舊可以擊敗<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。</li>
               <li>儘管他們的基礎射程很廣，但飛刀女獵手還是可能會被徒步弓箭手放風箏，而且由於HP和遠程護甲很低，大多數遠程單位對他們來說都是致命的。如<nuxt-link to="/units/Onager">中型投石車</nuxt-link>和
                 <nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>，但是如果有良好的微操作，飛刀女獵手可以有效地靠近他們並將其摧毀。但需要注意的是，飛刀女獵手開火間隔頗長。拉打是不切實際的</li>
               <li>飛刀女獵手在某種程度上比<nuxt-link to="/Cavalry_units/Archer">馬騎弓兵</nuxt-link>好用，第一，飛刀女獵手是近戰傷害，他們可以輕易摧毀那些有高遠程護甲的單位，如:
@@ -112,7 +112,7 @@
                     <li>
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                       <img class="gg" src="~assets/CannonGalleonIcon.jpg"
-                      alt=""><nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link> 
+                      alt=""><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+12攻擊</strong>

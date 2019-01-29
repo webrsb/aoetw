@@ -41,7 +41,7 @@
               <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>海起來，一般的軍事單位是無法靠近的。當然火砲絕對是投石車的天敵。</p>
             <p>在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>中期，<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>的殺傷力將會是所有弓兵系單位的惡夢，雖然
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>與<nuxt-link to="/ ">衝撞車</nuxt-link>對於<nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link>單位有額外的加成效果，但只要稍有個控兵失誤，軍隊都可能在轉眼間葬送在花火之中。。</p>
-            <p>對付成群的<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>，移動快速的<nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link>或者大量的
+            <p>對付成群的<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>，移動快速的<nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>或者大量的
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link>會是個不錯的選擇，也有不少玩家會選擇用<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>與<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>對丟，運氣好可能會一臺換對方2~3臺，駐軍滿載的衝撞車也是一種破解的方法，若敵方已經將
                 <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>累積到一個數量時，拉長戰線，在適當的時間點給予致命的一擊才是求勝之道，千萬別硬碰硬去拆海量的<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>，通常是討不到便宜的。</p>
           </div>
@@ -145,7 +145,7 @@
                     <li>
                       <img src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
                       <img src="~assets/CannonGalleonIcon.jpg"
-                      alt=""><nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link> 
+                      alt=""><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+20攻擊</strong>
@@ -178,7 +178,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                     </li>
                     <li>
                       <img class="gg" src="~assets/MangudaiIcon.jpg" width="22" alt=""><nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link>(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)</li>

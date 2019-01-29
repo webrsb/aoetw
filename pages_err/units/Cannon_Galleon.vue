@@ -236,7 +236,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link> 
+                      <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt=""><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+1攻擊</strong>
@@ -499,7 +499,7 @@
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/Elite_units/Cannon_Galleon">精銳火炮戰船</nuxt-link>
+                <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt=""><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火炮戰船</nuxt-link>
               </td>
             </tr>
             <tr>

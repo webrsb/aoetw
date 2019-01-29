@@ -154,7 +154,7 @@
               <img
                 class="gg"
                 src="~assets/EliteEagleWarriorIcon.jpg"
-              /><nuxt-link to="/Elite_units/Eagle_Warrior"
+              /><nuxt-link to="/units/Elite_Eagle_Warrior"
                 >精銳鷹勇士</nuxt-link
               >
             </td>

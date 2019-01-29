@@ -27,7 +27,7 @@
                   <nuxt-link to="/units/Longbowman">不列顛長弓兵</nuxt-link>的射程雖比火砲塔遠，但傷害太小若沒有一定數量不構成威脅。</p>
             <p>駐紮弓箭手和村民可增加火砲塔的炮彈數量，同時增加傷害。最多可以有五名（條頓人可十名）的徒步單位（步兵和弓箭手，儘管步兵不會增加火力）可以駐守在一座塔。駐紮的單位可以慢慢恢復生命值。</p>
             <p><nuxt-link to="/unitsanimal/Turkey">土耳其</nuxt-link>的火砲塔有額外的長射程，使得他們只能被<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>/
-              <nuxt-link to="/Elite_units/Cannon_Galleon">精銳火砲戰船</nuxt-link>/土耳其<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>所威脅。</p>
+              <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link>/土耳其<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>所威脅。</p>
           </div>
            <h3>文明可研發與否</h3> 
           <div class="hrn1"></div>

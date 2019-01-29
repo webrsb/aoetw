@@ -216,7 +216,7 @@
       ">重裝駱駝騎兵</nuxt-link></div><i class="fas fa-arrow-down "></i><br/><img class="gg not " src="~assets/ImperialCamelIcon.jpg
       "><div><nuxt-link to="/Imperial_units/Camel " class="not
       ">帝王駱駝騎兵</nuxt-link></div></td>          <td class="t19 trm not "><img class="gg " src="~assets/Battleelephanticon.png
-      "><div><nuxt-link to="/Elite_units/Battle_Elephant ">精銳矛象伕</nuxt-link></div></td>          <td class="t19
+      "><div><nuxt-link to="/units/Elite_Battle_Elephant ">精銳矛象伕</nuxt-link></div></td>          <td class="t19
       trm "></td>        </tr>    </table>         <table class="table
       " style="margin-top:50px; ">        <tr>            <td class="trm " style="border-top:
       none; " colspan="5 ">                <nuxt-link to="/building/Siege_Workshop
@@ -405,7 +405,7 @@
       "><div><nuxt-link to="/units/Caravel ">精銳卡拉維爾戰船</nuxt-link></div></td>                    <td class="t10
       trm "><img class="gg " src="~assets/CannonGalleonIcon.jpg "><div><nuxt-link to="/units/Cannon_Galleon
       ">火炮戰船</nuxt-link></div><i class="fas fa-arrow-down "></i><br/><img class="gg " src="~assets/CannonGalleonIcon.jpg
-      "><div><nuxt-link to="/Elite_units/Cannon_Galleon ">精銳火炮戰船</nuxt-link></div></td>           <td class="t10
+      "><div><nuxt-link to="/units/Elite_Cannon_Galleon ">精銳火炮戰船</nuxt-link></div></td>           <td class="t10
       trm "><img class="gg " style="margin: 2px; " src="~assets/Drydock.jpg
       " alt=" "><div><nuxt-link to="/Dry_building/Dock
       ">旱碼頭</nuxt-link></div></td>                   <td class="t10 trm "><img class="gg " style="margin: 2px; " src="~assets/Shipwright.jpg

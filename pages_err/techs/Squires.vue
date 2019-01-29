@@ -127,7 +127,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg"><nuxt-link to="/Elite_units/Eagle_Warrior">精銳鷹勇士</nuxt-link>
+                <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg"><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>
               </td>
               <td class="tta2">1.3</td>
               <td class="tta3">1.43</td>
