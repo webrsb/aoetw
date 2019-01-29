@@ -300,3 +300,7 @@ padding: 5px;
 .padtop {
   padding-top: 30px;
 }
+
+.link-actived {
+  color: black;
+}
