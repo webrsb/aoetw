@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於建築裝甲的。而關於建築種類請參見<nuxt-link
-              to="/building/bulding"
+              to="/building"
               >建築頁</nuxt-link
             ></em
           >

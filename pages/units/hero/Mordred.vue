@@ -46,7 +46,7 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/building/bulding">建築物</nuxt-link>，<nuxt-link
+              <nuxt-link to="/building">建築物</nuxt-link>，<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >，大部分近戰單位，

@@ -37,7 +37,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>、<nuxt-link to="/building/bulding">建築物</nuxt-link>和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。</td>
+              <td class="tta4"><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>、<nuxt-link to="/building">建築物</nuxt-link>和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>

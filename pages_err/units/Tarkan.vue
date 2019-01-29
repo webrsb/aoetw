@@ -38,7 +38,7 @@
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link>、
-                <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>、<nuxt-link to="/building/bulding">建築物</nuxt-link>。</td>
+                <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>、<nuxt-link to="/building">建築物</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>

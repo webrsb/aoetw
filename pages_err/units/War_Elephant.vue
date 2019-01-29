@@ -12,7 +12,7 @@
           <div class="n1">
             <p>戰象是<nuxt-link to="/civs/Persians">波斯</nuxt-link>的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
               <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。</p>
-            <p>戰象是一個緩慢但是破壞力強大的單位，兵種分類上屬於騎兵，對<nuxt-link to="/building/bulding">建築物</nuxt-link>享有攻擊加成。且戰象能夠造成踐踏傷害(戰鬥時對周圍單位造成傷害)。</p>
+            <p>戰象是一個緩慢但是破壞力強大的單位，兵種分類上屬於騎兵，對<nuxt-link to="/building">建築物</nuxt-link>享有攻擊加成。且戰象能夠造成踐踏傷害(戰鬥時對周圍單位造成傷害)。</p>
             <p>同樣的成本下，戰象甚至可以戰勝<nuxt-link to="/units/Paladin">遊俠</nuxt-link>。</p>
             <p>戰象可以在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>升級為精銳戰象。</div>
           <h3>戰術要點</h3>
@@ -44,7 +44,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/building/bulding">建築物</nuxt-link>，<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>，大部分近戰單位，
+              <td class="tta4"><nuxt-link to="/building">建築物</nuxt-link>，<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>，大部分近戰單位，
                 <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。</td>
             </tr>
             <tr>
@@ -369,7 +369,7 @@
             </tr>
             <tr>
               <td class="unit3">攻擊加成</td>
-              <td class="unit4">對<nuxt-link to="/building/bulding">建築物</nuxt-link>+7/+10(精銳)
+              <td class="unit4">對<nuxt-link to="/building">建築物</nuxt-link>+7/+10(精銳)
                 <br/>對<nuxt-link to="/armor/Armor_Class_stone_defense">石造防禦建築</nuxt-link>+7/+10(精銳)</td>
             </tr>
             <tr>

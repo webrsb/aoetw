@@ -282,7 +282,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">大多數<nuxt-link to="/building/bulding">建築物</nuxt-link>，<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>，<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>系，
+              <td class="tta4">大多數<nuxt-link to="/building">建築物</nuxt-link>，<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>，<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>系，
                 <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>，<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>。</td>
             </tr>
             <tr>

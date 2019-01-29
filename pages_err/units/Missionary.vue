@@ -32,7 +32,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4">緩慢且沒有射程的單位、可以招降的<nuxt-link to="/building/bulding">建築物</nuxt-link>、<nuxt-link to="/units/Knight">騎士</nuxt-link>。</td>
+              <td class="tta4">緩慢且沒有射程的單位、可以招降的<nuxt-link to="/building">建築物</nuxt-link>、<nuxt-link to="/units/Knight">騎士</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
@@ -346,7 +346,7 @@
             <tr>
               <td class="unit4">招降範圍</td>
               <td class="unit4">對一般單位:7
-                <br/>對<nuxt-link to="/building/bulding">建築物</nuxt-link>、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>、
+                <br/>對<nuxt-link to="/building">建築物</nuxt-link>、<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>、
                 <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>:0</tr>
             <tr>
               <td class="unit4">治療範圍</td>

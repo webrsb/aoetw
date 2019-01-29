@@ -11,7 +11,7 @@
         <div class="col-md-8">
           <div class="n1">
             <p>建築學可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>在<nuxt-link to="/building/University">學院</nuxt-link>研發。研發後所有
-              <nuxt-link to="/building/bulding"></nuxt-link>建築(除了石牆和城門外)都獲得+10% HP、+1近防、+1遠防和+3建築護甲。</p>
+              <nuxt-link to="/building"></nuxt-link>建築(除了石牆和城門外)都獲得+10% HP、+1近防、+1遠防和+3建築護甲。</p>
             <p>建築護甲無法對所有對建築有額外加成的攻擊做減傷計算，它只能對<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>、
               <nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>、<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>、
                 <nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link>和<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>的攻擊有減傷效果；<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>則沒有減傷效果。</p>

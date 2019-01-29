@@ -32,7 +32,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>(近距離)、在岸邊的<nuxt-link to="/building/bulding">建築物</nuxt-link>、在岸邊和淺灘的陸地單位。</td>
+              <td class="tta4"><nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>(近距離)、在岸邊的<nuxt-link to="/building">建築物</nuxt-link>、在岸邊和淺灘的陸地單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>

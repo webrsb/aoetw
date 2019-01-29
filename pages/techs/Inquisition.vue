@@ -17,7 +17,7 @@
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後僧侶招降速度更快。對單位的招降時間會減1秒，對<nuxt-link
-              to="/building/bulding"
+              to="/building"
               >建築物</nuxt-link
             >則減7秒。
           </p>

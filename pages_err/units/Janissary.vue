@@ -34,7 +34,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link to="/building/bulding">建築物</nuxt-link>。</td>
+              <td class="tta4"><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link to="/building">建築物</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>

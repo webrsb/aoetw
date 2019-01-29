@@ -20,7 +20,7 @@
           <div class="n1">
             <p>奴隸兵與<nuxt-link to="/civs/Franks">法蘭克</nuxt-link><nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link>相似，擁有短距離的近戰傷害單位。由於較高的機動性與對騎兵加成傷害，奴隸兵能完全壓制步兵(
               <nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link>除外)與騎兵單位。排除昂貴的價格外，奴隸兵是眾人認可最優秀的單位。</p>
-            <p><nuxt-link to="/civs/Indians">印度</nuxt-link>的團隊加成使奴隸兵攻擊<nuxt-link to="/building/bulding">建築物</nuxt-link>額外+5，讓奴隸兵不止能對抗敵對的騎兵單位，也大大地提高拆除建築的效率，讓奴隸兵更具侵略性。奴隸兵非常適合搭配
+            <p><nuxt-link to="/civs/Indians">印度</nuxt-link>的團隊加成使奴隸兵攻擊<nuxt-link to="/building">建築物</nuxt-link>額外+5，讓奴隸兵不止能對抗敵對的騎兵單位，也大大地提高拆除建築的效率，讓奴隸兵更具侵略性。奴隸兵非常適合搭配
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>與<nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>。</p>
             <p>雖然奴隸兵擁有+11騎兵加成抵免，但奴隸兵同時擁有<nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link>的防禦類型，因此無法像
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>的<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>抵抗<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>與
@@ -304,7 +304,7 @@
             <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>能夠提高奴隸兵的生產速度還有加快
               <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>和<nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link>的研究時間(+25%)。</li>
             <li><nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link to="/techs/Bloodlines">品種</nuxt-link>和<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>的速度快20%。</li>
-            <li><nuxt-link to="/civs/Indians">印度</nuxt-link>：奴隸兵對<nuxt-link to="/building/bulding">建築物</nuxt-link>攻擊力+5。</li>
+            <li><nuxt-link to="/civs/Indians">印度</nuxt-link>：奴隸兵對<nuxt-link to="/building">建築物</nuxt-link>攻擊力+5。</li>
             <li><nuxt-link to="/civs/Teutons">條頓</nuxt-link>：奴隸兵更不容易被招降。</li>
           </ul>
         </div>

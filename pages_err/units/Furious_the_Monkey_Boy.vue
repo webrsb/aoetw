@@ -76,7 +76,7 @@
               </tr>
               <tr>
                 <td class="unit3">攻擊加成</td>
-                <td>+999對 <nuxt-link to="/building/bulding">建築</nuxt-link>
+                <td>+999對 <nuxt-link to="/building">建築</nuxt-link>
                 </td>
               </tr>
               <tr>

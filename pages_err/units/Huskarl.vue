@@ -42,7 +42,7 @@
             </tr>
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
-              <td class="tta4"><nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link to="/building/bulding">建築物</nuxt-link>和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
+              <td class="tta4"><nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link to="/building">建築物</nuxt-link>和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
                 <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link>。</td>
             </tr>
             <tr>

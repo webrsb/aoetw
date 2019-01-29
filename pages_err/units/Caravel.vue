@@ -33,7 +33,7 @@
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>、在岸邊的
-                <nuxt-link to="/building/bulding">建築物</nuxt-link>和近戰單位、<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>、群體單位。</td>
+                <nuxt-link to="/building">建築物</nuxt-link>和近戰單位、<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>、群體單位。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>

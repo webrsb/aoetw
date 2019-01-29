@@ -18,7 +18,7 @@
           <div class="n1">
             <ul>
               <li>擲斧兵的攻擊屬於範圍近戰傷害，面對大多數傳統的反射手單位（<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>和哥德衛隊
-                <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>）有奇效。此外，由於擲斧兵對<nuxt-link to="/building/bulding">建築物</nuxt-link>有攻擊加成，因此大量的擲斧兵可以作為攻城武器的替代品。</li>
+                <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>）有奇效。此外，由於擲斧兵對<nuxt-link to="/building">建築物</nuxt-link>有攻擊加成，因此大量的擲斧兵可以作為攻城武器的替代品。</li>
               <li>擲斧兵可以在城牆後迅速摧毀衝撞車，因為衝撞車的遠程護甲在他們眼中猶如不存在般。他們比一般的射手單位對建築物造成的傷害還要多。然而，擲斧兵較短的攻擊範圍意味著他們對於近身單位，攻城武器以及採用打帶跑戰術的射手單位都很脆弱。他們不像
                 <nuxt-link to="/units/Archer">弓箭手</nuxt-link>那樣容易被攻城器殺死（需要兩次才能被擊倒），但<nuxt-link to="/units/Mangonel">投石車</nuxt-link>仍然可以一擊必殺他們。然而，擲斧兵只要能夠避免被擊中並能夠縮小作戰距離，就可以通過近戰傷害輕易地摧毀這些攻城武器。重裝騎兵單位(
                   <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>除外)如<nuxt-link to="/units/Paladin">遊俠</nuxt-link>也能有效對付擲斧兵。</li>
@@ -39,7 +39,7 @@
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-                <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>、<nuxt-link to="/building/bulding">建築物</nuxt-link>、
+                <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>、<nuxt-link to="/building">建築物</nuxt-link>、
                   <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>和<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>。</td>
             </tr>
             <tr>

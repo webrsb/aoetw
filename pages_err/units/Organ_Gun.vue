@@ -206,7 +206,7 @@
             </ul>
             <h3><em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em></h3>
             <ul>
-              <li>手風琴炮對<nuxt-link to="/building/bulding">建築物</nuxt-link>不再有攻擊加成。</li>
+              <li>手風琴炮對<nuxt-link to="/building">建築物</nuxt-link>不再有攻擊加成。</li>
               <li>手風琴炮的最小攻擊距離為1。</li>
               <li>5.7改版後手風琴炮現在有2的擴散攻擊。</li>
             </ul>
@@ -215,7 +215,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>所有可攻擊的攻城單位中手風琴炮是唯一對<nuxt-link to="/building/bulding">建築物</nuxt-link>沒有攻擊加成的單位。</li>
+              <li>所有可攻擊的攻城單位中手風琴炮是唯一對<nuxt-link to="/building">建築物</nuxt-link>沒有攻擊加成的單位。</li>
             </ul>
           </div>
           <h3>歷史</h3>

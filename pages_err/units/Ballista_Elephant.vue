@@ -43,7 +43,7 @@
             <tr>
               <td class="tta1" style="width:30%">強勢(容易對抗)</td>
               <td class="tta4"><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link>、
-                <nuxt-link to="/building/bulding">建築物</nuxt-link>、海岸邊的<nuxt-link to="/building/Dock">船艦</nuxt-link>。</td>
+                <nuxt-link to="/building">建築物</nuxt-link>、海岸邊的<nuxt-link to="/building/Dock">船艦</nuxt-link>。</td>
             </tr>
             <tr>
               <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
