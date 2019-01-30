@@ -12,7 +12,8 @@
         <div class="n1">
           <p></p>
           <p>
-            鳳凰涅槃為勃印曩戰役的第五關劇情關卡，同時也是最後一關。此關描述勃印曩潛心修佛的意願、以及其子對繼承父業繼續擴張的經過
+            <b>鳳凰涅槃</b
+            >為勃印曩戰役的第五關劇情關卡，同時也是最後一關。此關描述勃印曩潛心修佛的意願、以及其子對繼承父業繼續擴張的經過
           </p>
         </div>
         <h2>玩家</h2>
@@ -21,11 +22,11 @@
           <h3>基本資訊</h3>
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="tc1" width="15%">起始時代:</td>
+              <td class="tc1" width="15%">起始時代：</td>
               <td class="tc2" width="15%">帝王時代</td>
-              <td class="tc1" width="15%">起始資源:</td>
+              <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">無</td>
-              <td class="tc1" width="15%">人口上限:</td>
+              <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">300</td>
             </tr>
           </table>
@@ -88,10 +89,10 @@
           <p>
             。 英雄 - 勃印曩x1、莽應禮x1、辛格．達塔x1。 軍事單位 -
             雙手劍兵x44、重裝長槍兵x12、東吁勇士x5、飛鏢騎兵x28、騎士x8、矛象伕x18、火炮x5、巨型投石機x2、僧侶x5。
-            海軍單位 - 運輸船x7、弩砲戰船x18、爆破船x3、火戰船x4、火炮戰船x4
+            海軍單位 - 運輸船x7、弩砲戰船x18、爆破船x3、火戰船x4、火炮戰船x4。
+            經濟單位 - 村民x5
           </p>
-          。 經濟單位 - 村民x5
-          <p>。 無大地之母單位</p>
+          。 無大地之母單位
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -124,10 +125,10 @@
                 勃印曩之子莽應禮與辛格達塔從陸地與水路夾擊若開邦首都妙烏城。因為緬甸人萬里遠征而來，糧草十分有限。
               </li>
               <li>
-                若開邦(黃色)駐守於此，兵精糧足。因為他們以逸待勞，這場攻堅戰持續越久就越不利。
+                若開邦（黃色）駐守於此，兵精糧足。因為他們以逸待勞，這場攻堅戰持續越久就越不利。
               </li>
               <li>
-                若開邦雇傭的葡萄牙士兵(紫色)在妙烏城安營紮寨。他們的碼頭有火炮塔鎮守，難以攻破。他們的奇觀周邊也有很強的火力，要小心應對。
+                若開邦雇傭的葡萄牙士兵（紫色）在妙烏城安營紮寨。他們的碼頭有火炮塔鎮守，難以攻破。他們的奇觀周邊也有很強的火力，要小心應對。
               </li>
             </ul>
             <h2>細節</h2>
@@ -138,9 +139,9 @@
                   勃印曩在本關的形象為東亞僧侶，而不再是前面幾章的精銳矛象伕。
                 </li>
                 <li>
-                  莽應禮(1535-1600)本名為「南達勃因」，莽應禮為在明史中的稱呼。在登基後依然如同父親一樣頻頻出征。與大明、暹羅多次交戰，導致國勢衰弱。在本章中以精銳矛象伕的形象登場。
+                  莽應禮（1535-1600）本名為「南達勃因」，莽應禮為在明史中的稱呼。在登基後依然如同父親一樣頻頻出征。與大明、暹羅多次交戰，導致國勢衰弱。在本章中以精銳矛象伕的形象登場。
                 </li>
-                <li>辛格﹒達塔(?-?)形象為拜占庭重騎兵。</li>
+                <li>辛格﹒達塔（?-?）形象為拜占庭重騎兵。</li>
                 <li>若開邦位於緬甸西南海岸。</li>
                 <li>
                   妙烏城，一作「謬烏」，若開本土政權的首府。在15世紀建立。
@@ -160,9 +161,9 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96;">
+            <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle">
-                <nuxt-link to="/The_Old_Tiger">鳳凰涅槃</nuxt-link>
+                <nuxt-link to="/batt/The_Old_Tiger">鳳凰涅槃</nuxt-link>
               </div>
             </td>
           </tr>
@@ -178,7 +179,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96;">
+            <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
             </td>
           </tr>
@@ -188,14 +189,18 @@
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4">勃印曩</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><nuxt-link to="">緬甸人</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96;">
+            <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2">
                 <nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>
@@ -213,11 +218,11 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4"><nuxt-link to="/T.php">N/A</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/">N/A</nuxt-link></td>
           </tr>
         </table>
 
-        <div class="thanks">感謝! 此頁面由亞諭、裕暉協助編輯</div>
+        <div class="thanks">感謝！此頁面由亞諭、裕暉協助編輯。</div>
       </div>
     </div>
     <div class="row">

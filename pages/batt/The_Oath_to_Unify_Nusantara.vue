@@ -22,14 +22,11 @@
           <h3>基本資訊</h3>
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="tc1" width="15%">起始時代:</td>
+              <td class="tc1" width="15%">起始時代：</td>
               <td class="tc2" width="15%">城堡時代</td>
-              <td class="tc1" width="15%">起始資源:</td>
-              <td class="tc2">
-                750 木材／600 食物／
-                <p>500 黃金／350 石礦</p>
-              </td>
-              <td class="tc1" width="15%">人口上限:</td>
+              <td class="tc1" width="15%">起始資源：</td>
+              <td class="tc2">750木材／600食物／500黃金／350石礦</td>
+              <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
             </tr>
           </table>
@@ -125,15 +122,13 @@
             <div class="n1">
               <ul>
                 <li>
-                  滿者伯夷(你)和巽他王國分別統治著爪哇島的東西兩側。滿者伯夷和巽他王國世代互不侵犯，所以他們不會主動攻擊。但若是你想在擴張到其他島嶼之前先鞏固我方在爪哇島的地位的話，也是一個可行戰略。巽他王國以戰矛兵和騎士為主。
+                  滿者伯夷（你）和巽他王國分別統治著爪哇島的東西兩側。滿者伯夷和巽他王國世代互不侵犯，所以他們不會主動攻擊。但若是你想在擴張到其他島嶼之前先鞏固我方在爪哇島的地位的話，也是一個可行戰略。巽他王國以戰矛兵和騎士為主。
                 </li>
                 <li>
-                  我們的殖民者
-                  (淺藍、紫色、灰色、橘色)會去登陸並殖民峇里島、蘇拉威西島和婆羅洲。這些小島資源豐富，位於我們的東邊和北邊。
+                  我們的殖民者（淺藍、紫色、灰色、橘色）會去登陸並殖民峇里島、蘇拉威西島和婆羅洲。這些小島資源豐富，位於我們的東邊和北邊。
                 </li>
                 <li>
-                  在爪哇島西邊的蘇門答臘島上，有一個達爾馬斯拉亞國
-                  (綠色)，他有一支強勁的部隊，以劍士、弩兵、弩砲象、戰艦以及火戰船為主。達爾馬斯拉亞國對我們滿懷敵意，有可能會主動攻擊我們。
+                  在爪哇島西邊的蘇門答臘島上，有一個達爾馬斯拉亞國（綠色），他有一支強勁的部隊，以劍士、弩兵、弩砲象、戰艦以及火戰船為主。達爾馬斯拉亞國對我們滿懷敵意，有可能會主動攻擊我們。
                 </li>
                 <li>
                   地圖上到處都有對你充滿敵意的流賊馬匪、無論是嘯聚山林的山賊海盜或是敵國散兵游勇，他們都想從你帶去給朱羅國王的財寶中分一杯羹。
@@ -153,10 +148,10 @@
                   </li>
                   <li>
                     達爾馬斯拉亞國 -
-                    11世紀崛起於蘇門答臘西部的馬來印度教國家，民風剽悍以善戰出名。於13世紀衰弱。
+                    11世紀崛起於蘇門答臘西部的馬來印度教國家，民風剽悍以善戰出名，於13世紀衰弱。
                   </li>
-                  <li>巽他王國 - (669-1579)存在於西爪哇的古老政權。</li>
-                  <li>淡馬錫 - (1299-1398)存在於新加坡的治權。</li>
+                  <li>巽他王國 - （669-1579）存在於西爪哇的古老政權。</li>
+                  <li>淡馬錫 - （1299-1398）存在於新加坡的治權。</li>
                   <li>
                     本章節所述之「誓統南洋」，即是著名的「帕拉帕之誓」。首相加查馬達發誓，若是不能平定印尼諸島則不再吃任何香料與水果。（按：我知道聽起來很北七，但這在滿者伯夷文化中意味著拒絕人世間一切享樂。表現出加查馬達的決心。）
                   </li>
@@ -169,21 +164,23 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96;">
+            <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle">
-                <nuxt-link to="/A_Dangerous_Mission">誓統南洋</nuxt-link>
+                <nuxt-link to="/batt/The_Oath_to_Unify_Nusantara"
+                  >誓統南洋</nuxt-link
+                >
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Gajah Mada 3.jpg" alt="" />
+                <img src="~assets/Gajah Mada 3.jpg" width="" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96;">
+            <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
             </td>
           </tr>
@@ -193,14 +190,18 @@
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4">加查馬達</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Gajah_Madaa">加查馬達</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><nuxt-link to="">馬來人</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Malay">馬來人</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96;">
+            <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2">
                 <nuxt-link to="/The_Oath_to_Unify_Nusantara"
                   >戰役關卡編號</nuxt-link
@@ -226,7 +227,7 @@
           </tr>
         </table>
 
-        <div class="thanks">感謝! 此頁面由亞諭、裕暉協助編輯</div>
+        <div class="thanks">感謝！此頁面由亞諭、裕暉協助編輯。</div>
       </div>
     </div>
     <div class="row">

@@ -1598,23 +1598,4 @@ export default {
   components: {}
 }
 </script>
-<style>
-.tit {
-  margin: 20px auto 20px auto;
-  background: url(~assets/title3.jpg);
-  width: 100%;
-  height: 284px;
-  text-align: center;
-  color: aliceblue;
-  padding-top: 50px;
-}
-.tt {
-  font-size: 45px;
-  font-weight: bold;
-}
-.tt2 {
-  font-size: 30px;
-  font-weight: bold;
-  margin-right: 530px;
-}
-</style>
+<style></style>
