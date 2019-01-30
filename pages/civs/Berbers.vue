@@ -193,20 +193,20 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">柏柏</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/BerberDepiction.jpg" width="300px;" alt="" />
+                <img src="~assets/BerberDepiction.jpg" width="300" alt="" />
                 <p><em>柏柏的一個中世紀伊斯蘭教徒所描述騎駱駝</em></p>
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">概要</div>
             </td>
           </tr>

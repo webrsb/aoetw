@@ -47,11 +47,8 @@
      <td class="tc4" colspan="4" style="background: #ffd700;">中立</td>
   </tr>
 <tr>
-    <td class="tc6" width="15%""><div class="p3">玩家3：</div></td>
+    <td class="tc6" width="15%"><div class="p3">玩家3：</div></td>
     <td class="tc6" width="35%">希臘村莊（綠色）拜占庭</td>  
-  <tr>
-   
-  </tr>
 </tr>
 <tr>
     <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
@@ -128,8 +125,8 @@
 <div class="hrn1"></div>
 <ul>
   <li >
-    <a >繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位
-。</nuxt-link>
+    繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位
+。
 </li>
  
 </ul>
@@ -148,16 +145,16 @@
      
  <table class="table-bordered" width="100%">
       <tr>
-        <td class="unit" colspan="2" style=" background-color:#375d96;">
+        <td class="unit" colspan="2" style="background-color:#375d96;">
        <div class="unititle"><nuxt-link to="">勒班陀(1571)</nuxt-link></div>
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="~assets/Lepanto.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Lepanto.jpg" alt=""></div>
        </td>
       </tr>
       <tr>
-        <td class="unit" colspan="2" style=" background-color:#375d96;">
+        <td class="unit" colspan="2" style="background-color:#375d96;">
        <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
        </td>
       </tr>
@@ -173,7 +170,7 @@
         <td class="unit3">文明</td>
        <td class="unit4"><nuxt-link to="/civs/Japanese">西班牙</nuxt-link></td>
       </tr>
-<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style="background-color:#375d96;">
        <div class="unititle2"><nuxt-link to="">戰役關卡編號</nuxt-link></div>
        </td>
       </tr>
@@ -183,7 +180,7 @@
       </tr>
        <tr>
         <td class="unit3">上一關</td>
-       <td class="Agincourt.php">亞琴哥特(1415)</p>
+       <td class="Agincourt.php">亞琴哥特(1415
       </tr>
       <tr>
         <td class="unit3">下一關</td>

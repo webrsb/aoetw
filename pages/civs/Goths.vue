@@ -105,7 +105,6 @@
           <em><nuxt-link to="/tree/got">哥德科技樹</nuxt-link></em>
         </div>
         <br />
-
         <h3>
           <strong>戰術概論</strong>
         </h3>
@@ -494,7 +493,6 @@
                 <nuxt-link to="/img/CentEuropean.jpg">
                   <img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
                 /></nuxt-link>
-
                 <p>
                   <em>哥德的建築風格</em>
                 </p>
@@ -506,7 +504,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle">
                 <nuxt-link to="">哥德</nuxt-link>
               </div>
@@ -515,7 +513,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/92000230.jpg" width="300px;" alt="" />
+                <img src="~assets/92000230.jpg" width="300" alt="" />
                 <p>
                   <em>硬幣上的人為狄奧多里克大帝，東哥德王國建立者。</em>
                 </p>
@@ -523,7 +521,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">
                 <nuxt-link to="">概要</nuxt-link>
               </div>

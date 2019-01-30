@@ -49,7 +49,7 @@
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle"><nuxt-link to="">完美的烈士</nuxt-link>
                 </div>
               </td>
@@ -57,12 +57,12 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="~assets/Joan6map.png" width="" alt="">
+                  <img src="~assets/Joan6map.png" alt="">
                 </div>
               </td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link>
                 </div>
               </td>
@@ -83,7 +83,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle2"><nuxt-link to="">戰役關卡編號</nuxt-link>
                 </div>
               </td>
@@ -98,7 +98,7 @@
             </tr>
             <tr>
               <td class="unit3">下一關</td>
-              <td class="unit4"> <a href=>N/A</nuxt-link> 
+              <td class="unit4"> <a href="#">N/A</nuxt-link> 
               </td>
             </tr>
           </table>

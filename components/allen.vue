@@ -4,7 +4,7 @@
       <div class="col-md-12">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#31708f;">
+            <td class="unit" colspan="2" style="background-color:#31708f;">
               <div class="unititle" style="color: #fff;">關於數據</div>
             </td>
           </tr>

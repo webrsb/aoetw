@@ -21,7 +21,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle">
                 <nuxt-link to="">紅衣艾立克</nuxt-link>
               </div>
@@ -35,7 +35,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2" style="color: #fff;">單位介紹</div>
             </td>
           </tr>

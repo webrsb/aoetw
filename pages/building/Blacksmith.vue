@@ -432,7 +432,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle"><nuxt-link to="">兵工廠</nuxt-link></div>
             </td>
           </tr>
@@ -444,7 +444,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
@@ -471,7 +471,7 @@
             <td class="unit4">強化所有軍事單位</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
@@ -480,7 +480,7 @@
             <td class="unit4">150</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>

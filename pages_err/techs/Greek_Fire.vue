@@ -48,7 +48,7 @@
                 <p>希臘之火是東羅馬帝國所利用的一種可以在水上燃燒的液態燃燒劑，為早期熱兵器，主要應用於海戰中，「希臘之火」或「羅馬火」只是阿拉伯人對這種恐怖武器的稱呼，東羅馬自己則稱之為「海洋之火」、「流動之火」、「液體火焰」、「人造之火」和「防備之火」等等。</p>
               </div>
               <div class="col-md-6">
-                <img src="~assets/Greekfire-madridskylitzes1.jpg" width="300px;" alt="">
+                <img src="~assets/Greekfire-madridskylitzes1.jpg" width="300" alt="">
               </div>
               <div class="col-md-12">
                 <p>根據文獻記載，希臘之火多次為東羅馬帝國的軍事勝利作出頗大的貢獻，一些學者和歷史學家認為它是東羅馬帝國能持續千年之久的原因之一，希臘之火的配方現已失傳，成份至今仍是一個謎團，而據當時受希臘之火所傷的十字軍所記述：「每當敵人用希臘之火攻擊我們，所做的事只有屈膝下跪，祈求上天的拯救。」那段引文足以說明希臘之火的威力</p>
@@ -59,7 +59,7 @@
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#31b0d5;">
+              <td class="unit" colspan="2" style="background-color:#31b0d5;">
                 <div class="unititle"><nuxt-link to="">希臘之火</nuxt-link>
                 </div>
               </td>
@@ -72,7 +72,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#31b0d5;">
+              <td class="unit" colspan="2" style="background-color:#31b0d5;">
                 <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link>
                 </div>
               </td>
@@ -99,7 +99,7 @@
               <td class="unit4">40秒</td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#31b0d5;">
+              <td class="unit" colspan="2" style="background-color:#31b0d5;">
                 <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
@@ -113,7 +113,7 @@
               <td class="unit4">300</td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#31b0d5;">
+              <td class="unit" colspan="2" style="background-color:#31b0d5;">
                 <div class="unititle2"><nuxt-link to="">影響</nuxt-link>
                 </div>
               </td>

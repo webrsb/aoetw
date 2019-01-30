@@ -18,13 +18,13 @@
           <li><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link></li>
         </ul>
       </div>
-      <div class="col-md-12" style="">
+      <div class="col-md-12">
         英雄單位請見此：<nuxt-link to="/units/hero">英雄列表</nuxt-link>
       </div>
-      <div class="col-md-12" style="">
+      <div class="col-md-12">
         野生動物請見此：<nuxt-link to="/units/wide">動物列表</nuxt-link>
       </div>
-      <div class="col-md-12" style="">
+      <div class="col-md-12">
         地圖編輯器類請見此：<nuxt-link to="/units/map"
           >地圖編輯器單位列表</nuxt-link
         >
@@ -37,7 +37,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
               </div>
@@ -63,7 +63,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Barracks">軍營</nuxt-link>
               </div>
@@ -152,7 +152,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
               </div>
@@ -245,7 +245,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Stable">馬廄</nuxt-link>
               </div>
@@ -327,7 +327,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Siege_Workshop"
                   >攻城器製造所</nuxt-link
@@ -397,7 +397,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Monastery">修道院</nuxt-link>
               </div>
@@ -436,7 +436,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Market">市集</nuxt-link>
               </div>
@@ -462,7 +462,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Castle">城堡</nuxt-link>
               </div>
@@ -615,7 +615,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" style=" background-color:#636c72;">
+            <td class="unit" style="background-color:#636c72;">
               <div class="unititle">
                 <nuxt-link to="/building/Dock">碼頭</nuxt-link>
               </div>

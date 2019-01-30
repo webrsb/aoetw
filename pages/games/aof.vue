@@ -123,7 +123,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#ad7b35">
+            <td class="unit" colspan="2" style="background-color:#ad7b35">
               <div class="unititle">
                 <nuxt-link to="">世紀帝國II：失落的帝國</nuxt-link>
               </div>
@@ -132,12 +132,12 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/AOFE_logo.jpg" width="" alt="" />
+                <img src="~assets/AOFE_logo.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#ad7b35">
+            <td class="unit" colspan="2" style="background-color:#ad7b35">
               <div class="unititle2" style="color: #fff;">遊戲介紹</div>
             </td>
           </tr>

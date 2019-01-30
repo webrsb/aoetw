@@ -56,7 +56,7 @@
             </tr>
             <tr>
               <td class="tc6" width="15%"><div class="p5">玩家5</div></td>
-              <td class="tc6 " width="35%">阿陶爾夫（水藍色）哥德</td>
+              <td class="tc6" width="35%">阿陶爾夫（水藍色）哥德</td>
             </tr>
             <tr>
               <td class="tc4 " colspan="4 " style="background:#ea6153;">
@@ -65,10 +65,10 @@
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6 " width="15%"><div class="p4">玩家4</div></td>
+              <td class="tc6" width="15%"><div class="p4">玩家4</div></td>
               <td class="tc6" width="35%">守城將士（黃色）義大利</td>
               <td class="tc6" width="15%"><div class="p6">玩家6</div></td>
-              <td class="tc6 " width="35%">帝國軍團（紫色）義大利</td>
+              <td class="tc6" width="35%">帝國軍團（紫色）義大利</td>
             </tr>
           </table>
 
@@ -80,7 +80,7 @@
             <dd>無</dd>
           </dl>
           <h2>主要任務</h2>
-          <div class="hrn1 "></div>
+          <div class="hrn1"></div>
           <div class="n1">
             <ol>
               <li>阿拉里克必須存活。</li>
@@ -94,7 +94,7 @@
           </div>
         </div>
         <h2>任務提示</h2>
-        <div class="hrn1 "></div>
+        <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>制定戰術，小心行事，多聽你手下的意見，最好走大道。</li>
@@ -111,7 +111,7 @@
           </ul>
         </div>
         <h2>斥侯</h2>
-        <div class="hrn1 "></div>
+        <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
@@ -126,7 +126,7 @@
             </li>
           </ul>
           <h2>戰術</h2>
-          <div class="hrn1 "></div>
+          <div class="hrn1"></div>
           <div
             class="n1
                 "
@@ -163,7 +163,7 @@
               </li>
             </ul>
             <h2>趣事</h2>
-            <div class="hrn1 "></div>
+            <div class="hrn1"></div>
             <div
               class="n1
                 "
@@ -188,65 +188,65 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4 ">
+      <div class="col-md-4">
         <table class="table-bordered " width="100%">
           <tr>
-            <td class="unit" colspan="2 " style=" background-color:#375d96;">
-              <div class="unititle ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle">
                 <nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
-            <td colspan="2 ">
-              <div class="unititle ">
-                <img src="~assets/Alaric 4.jpg" width="" alt=" " />
+            <td colspan="2">
+              <div class="unititle">
+                <img src="~assets/Alaric 4.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2 " style=" background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96; ">
               <div class="unititle2">
-                <nuxt-link to="/ ">情景信息</nuxt-link>
+                <nuxt-link to="/">情景信息</nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4 ">失落的帝國</td>
+            <td class="unit4">失落的帝國</td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4 ">
-              <nuxt-link to="/next/batt/Alarica">阿拉里克</nuxt-link>
+            <td class="unit4">
+              <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4 ">
-              <nuxt-link to="/next/civs/Goths">哥德人</nuxt-link>
+            <td class="unit4">
+              <nuxt-link to="/civs/Goths">哥德人</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2 " style=" background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96; ">
               <div class="unititle2">
                 <nuxt-link to="/">戰役關卡編號</nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit3 ">章節</td>
+            <td class="unit3">章節</td>
             <td class="unit4">失落帝國第一章之四</td>
           </tr>
           <tr>
-            <td class="unit3 ">上一關</td>
-            <td class="unit4 ">
+            <td class="unit3">上一關</td>
+            <td class="unit4">
               <nuxt-link to="/batt/Emperor_of_the_West">西域之君</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit3 ">下一關</td>
-            <td class="unit4 "><nuxt-link to="/">N/A</nuxt-link></td>
+            <td class="unit3">下一關</td>
+            <td class="unit4"><nuxt-link to="/">N/A</nuxt-link></td>
           </tr>
         </table>
 

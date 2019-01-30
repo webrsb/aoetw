@@ -1300,7 +1300,6 @@
                   alt=""
                 /><nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
               </td>
-
               <td class="tunitc4">
                 <nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link>
               </td>

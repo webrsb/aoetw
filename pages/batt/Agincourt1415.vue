@@ -169,7 +169,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to=""> 亞琴哥特(1415)阿金庫爾戰役</nuxt-link>
               </div>
@@ -178,12 +178,12 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Agincour.jpg" width="" alt="" />
+                <img src="~assets/Agincour.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
             </td>
           </tr>
@@ -202,7 +202,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
                 <nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>

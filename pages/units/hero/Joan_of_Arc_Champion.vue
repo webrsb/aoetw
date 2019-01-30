@@ -114,7 +114,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle"><nuxt-link to="">聖女貞德</nuxt-link></div>
             </td>
           </tr>
@@ -126,7 +126,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2" style="color: #fff;">單位介紹</div>
             </td>
           </tr>
@@ -191,7 +191,6 @@
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
-
           <div style="margin-left: 60px;">
             維基百科上的聖女貞德
             <div style="margin-left: 10px;">

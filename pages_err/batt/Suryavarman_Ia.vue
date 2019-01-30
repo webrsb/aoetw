@@ -43,7 +43,7 @@
                 </ol>
               </div>
               <div class="col-md-6">
-                <img src="~assets/22.Suryavarman I.jpg" width="300px;" alt="">
+                <img src="~assets/22.Suryavarman I.jpg" width="300" alt="">
                 <p>蘇利耶跋摩一世戰役地圖</p>
               </div>
             </div>
@@ -60,7 +60,7 @@
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;;">
+              <td class="unit" colspan="2" style="background-color:#375d96;;">
                 <div class="unititle" style="color: #fff;">蘇利耶跋摩一世</div>
               </td>
             </tr>
@@ -74,7 +74,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;;">
+              <td class="unit" colspan="2" style="background-color:#375d96;;">
                 <div class="unititle2" style="color: #fff;">劇情介紹</div>
               </td>
             </tr>

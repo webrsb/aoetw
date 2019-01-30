@@ -7,7 +7,7 @@
       <div class="col-md-12">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#a868b1;">
+            <td class="unit" colspan="2" style="background-color:#a868b1;">
               <div class="unititle" style="color: #fff;">
                 世紀帝國的野生動物
               </div>

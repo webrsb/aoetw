@@ -48,40 +48,40 @@
                 <td class="tc4" colspan="4" style="background: #ffd700;">中立</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p3">玩家3：</div></td>    <td class="tc6 " width="35%
+                <td class="tc6" width="15%"><div class="p3">玩家3：</div></td>    <td class="tc6" width="35%
                 ">希臘村莊（綠色）拜占庭</td>    <tr>     </tr></tr><tr>    <td class="tc4 " colspan="4 " style="background:#2980b9;
-                ">敵對</td>  </tr><tr>    <td class="tc6 "><div class="p6">玩家2：</div></td>    <td class="tc6
+                ">敵對</td>  </tr><tr>    <td class="tc6"><div class="p6">玩家2：</div></td>    <td class="tc6
                 ">土耳其人（紫色）土耳其 </td>     </tr><tr>      </tr></table><br/><dl class="dl-horizontal ">   <dt>開場：</dt>   <dd>   <img class="gg " src="~assets/MangonelIcon.jpg
-                " alt=" ">        <nuxt-link to="/units/Mangonel ">輕型投石車</nuxt-link>*7<br/>   <img class="gg
-                " src="~assets/TransportShipIcon.jpg " alt=" ">          <nuxt-link to="/units/Transport_Ship
-                ">運輸船</nuxt-link>*2<br/>   <img class="gg " src="~assets/HeavyDemoShipIcon.jpg " alt=" ">        <nuxt-link to="/Heavy_units/Demolition_Ship
-                ">重型神風船</nuxt-link>*6<br/>   <img class="gg " src="~assets/VillagerMaleIcon.jpg " alt=" ">          <nuxt-link to="/units/Villager
-                ">村民</nuxt-link>*12<br/>   <img class="gg " src="~assets/FireShipIcon.jpg " alt=" ">        <nuxt-link to="/units/Fire_Ship
-                ">火戰船</nuxt-link>*5<br/>   <img class="gg " src="~assets/WarGalley.jpg " alt=" ">        <nuxt-link to="/War_units/Galley
-                ">弩砲戰船</nuxt-link>*6<br/>   <img class="gg " src="~assets/CannonGalleonIcon.jpg " alt=" ">        <nuxt-link to="/units/Cannon_Galleon
-                ">火砲戰船</nuxt-link>*5</dd>   <dt>出場英雄：</dt>    <dd>無</dd>   <dt>大地之母單位：</dt>  <dd>無</dd></dl><h3>主要任務</h3><div class="hrn1 "></div><div class="n1
-                "><ol>     <li>在土耳其軍艦的威脅下保護你的世界奇觀200年。</li>      </ol></div><h3>任務提示</h3><div class="hrn1 "></div><div class="n1
-                "><ul>  <li>不要用你所有的村民去建造世界奇觀，你需要一部份村民修建成強悍收集資源，造箭塔和船。</li>  <li>很難對抗土耳其的艦隊，不如集中防守。</li>  <li>希臘倒可以提供而外資源，如果你能保護他們。</li></ul></div><h3>斥侯</h3><div class="hrn1 "></div><div class="n1
+                " alt="">        <nuxt-link to="/units/Mangonel ">輕型投石車</nuxt-link>*7<br/>   <img class="gg
+                " src="~assets/TransportShipIcon.jpg " alt="">          <nuxt-link to="/units/Transport_Ship
+                ">運輸船</nuxt-link>*2<br/>   <img class="gg " src="~assets/HeavyDemoShipIcon.jpg " alt="">        <nuxt-link to="/Heavy_units/Demolition_Ship
+                ">重型神風船</nuxt-link>*6<br/>   <img class="gg " src="~assets/VillagerMaleIcon.jpg " alt="">          <nuxt-link to="/units/Villager
+                ">村民</nuxt-link>*12<br/>   <img class="gg " src="~assets/FireShipIcon.jpg " alt="">        <nuxt-link to="/units/Fire_Ship
+                ">火戰船</nuxt-link>*5<br/>   <img class="gg " src="~assets/WarGalley.jpg " alt="">        <nuxt-link to="/War_units/Galley
+                ">弩砲戰船</nuxt-link>*6<br/>   <img class="gg " src="~assets/CannonGalleonIcon.jpg " alt="">        <nuxt-link to="/units/Cannon_Galleon
+                ">火砲戰船</nuxt-link>*5</dd>   <dt>出場英雄：</dt>    <dd>無</dd>   <dt>大地之母單位：</dt>  <dd>無</dd></dl><h3>主要任務</h3><div class="hrn1"></div><div class="n1
+                "><ol>     <li>在土耳其軍艦的威脅下保護你的世界奇觀200年。</li>      </ol></div><h3>任務提示</h3><div class="hrn1"></div><div class="n1
+                "><ul>  <li>不要用你所有的村民去建造世界奇觀，你需要一部份村民修建成強悍收集資源，造箭塔和船。</li>  <li>很難對抗土耳其的艦隊，不如集中防守。</li>  <li>希臘倒可以提供而外資源，如果你能保護他們。</li></ul></div><h3>斥侯</h3><div class="hrn1"></div><div class="n1
                 "><ul>  <li>西班牙和義大利艦隊放棄大海，轉而在海邊建造世界奇觀。</li>  <li>你必須抵抗來自土耳其的軍艦和運輸船進攻。土耳其人擁有各種軍艦，包括火炮船，快速的反擊可以延緩土耳其前進的速度。</li>  <li>希臘村莊夾在戰爭中堅，但如果用正確手段，可以讓他們加入進來。</li>  </div><h3>攻略</h3><div class="hrn1
                 "></div><ul>  <li>建造世界奇觀，並守護她200年。</li>  <li>防守世界奇觀，海上陸上都需要有大量軍隊防守。</li>  <li>當你進行一段時間遊戲，希臘村莊會要求你給予他800黃金他就會和你結盟。</li>  <li>對方海軍眾多，陸軍也很強大需要有大量的建塔，火炮塔來幫忙防守。</li>  <li>資源上，在海中偏下方有一片希臘村莊的黃金、石頭島嶼可以進行開採。</li>  <li>當你建造完世界奇觀，對方就開始攻擊，所以你也可以先行先蓋完防禦建築在蓋世界奇觀。</li>  <li>對方島嶼防守嚴密不利於主動進攻，海軍數量對方也很龐大，建議玩家還是著重在防守即可。</li>  </ul><h3>遊戲內細節</h3><div class="hrn1
                 "></div><ul>  <li>一開始可以先將村民進行分組 不用全部都在蓋世界奇觀，分成建造防禦建塔、物資採集。</li>  <li>當你世界奇觀蓋完，對方會有大量的海軍，陸軍進行攻擊，尤其是上方城鎮中心，那邊防禦偏弱對方容易從那上岸攻擊。</li>  <li>除城鎮中心還有馬廄場附近(我方島嶼中間)，那邊也是我方防禦偏弱的地方，需要嚴防注意。</li>  <li>如果你願意付給希臘村莊800黃金他將會更改為同盟，並給予你物資上的資源。</li>  <li>這戰役主要是防禦世界奇觀，200年相當於現實10分鐘左右，所以防守的軍隊，箭塔，火炮塔，海軍建議都先部屬完之後再來興建世界奇觀，後方資源的部分黃金、石頭不足可以去採集海中島嶼，那邊的黃金石頭非常充足。</li>  </ul><h3>芝麻小事</h3><div class="hrn1
                 "></div><ul>  <li >    <a >繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位。</nuxt-link></li> </ul><h3>英雄:奧地利的唐璜(1547-1578) </h3><div class="hrn1
-                "></div><ul>  <li >    <a >作為一個有軍政才華的人，唐璜並沒有得到什麼機運。他是神聖羅馬皇帝的私生子，兄長西班牙國王菲力二世對他始終提防。若不是鄂圖曼海軍進犯地中海，也許他根本不會有在歷史留名的機會。 唐璜在勒班陀擔任神聖聯盟的指揮官，並出色地擊退了為數龐大的鄂圖曼艦隊。隨後他更出任尼德蘭總督。但正準備大展身手時恰逢尼德蘭起義，他努力想要調停矛盾，但荷蘭人的暴動依然不可收拾，逼迫他參與戰鬥。而他在一場戰鬥中感染傷寒，憂鬱離世。</nuxt-link></li>  </ul></div>  </div>  <div class="col-md-4 ">      <table class="table-bordered " width="100%
-                ">      <tr>        <td class="unit " colspan="2 " style=" background-color:#375d96;
-                ">       <div class="unititle "><nuxt-link to="/
-                ">勒班陀(1571)</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2 " ><div class="unititle "><img src="~assets/Lepanto.jpg " width="
-                " alt=" "></div>       </td>      </tr>      <tr>        <td class="unit
-                " colspan="2 " style=" background-color:#375d96; ">       <div class="unititle2
-                "><nuxt-link to="/ ">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3
-                ">版本</td>       <td class="unit4 ">征服者入侵</td>      </tr>      <tr>        <td class="unit3
-                ">戰役</td>       <td class="unit4 ">征服者的戰役</td>      </tr>      <tr>        <td class="unit3
-                ">文明</td>       <td class="unit4 "><nuxt-link to="/civs/Japanese
+                "></div><ul>  <li >    <a >作為一個有軍政才華的人，唐璜並沒有得到什麼機運。他是神聖羅馬皇帝的私生子，兄長西班牙國王菲力二世對他始終提防。若不是鄂圖曼海軍進犯地中海，也許他根本不會有在歷史留名的機會。 唐璜在勒班陀擔任神聖聯盟的指揮官，並出色地擊退了為數龐大的鄂圖曼艦隊。隨後他更出任尼德蘭總督。但正準備大展身手時恰逢尼德蘭起義，他努力想要調停矛盾，但荷蘭人的暴動依然不可收拾，逼迫他參與戰鬥。而他在一場戰鬥中感染傷寒，憂鬱離世。</nuxt-link></li>  </ul></div>  </div>  <div class="col-md-4">      <table class="table-bordered " width="100%
+                ">      <tr>        <td class="unit" colspan="2" style="background-color:#375d96;
+                ">       <div class="unititle"><nuxt-link to="/
+                ">勒班陀(1571)</nuxt-link></div>       </td>      </tr>      <tr>       <td colspan="2" ><div class="unititle"><img src="~assets/Lepanto.jpg " width="
+                " alt=""></div>       </td>      </tr>      <tr>        <td class="unit
+                " colspan="2" style="background-color:#375d96; ">       <div class="unititle2
+                "><nuxt-link to="/">情景信息</nuxt-link></div>       </td>      </tr>      <tr>        <td class="unit3
+                ">版本</td>       <td class="unit4">征服者入侵</td>      </tr>      <tr>        <td class="unit3
+                ">戰役</td>       <td class="unit4">征服者的戰役</td>      </tr>      <tr>        <td class="unit3
+                ">文明</td>       <td class="unit4"><nuxt-link to="/civs/Japanese
                 ">西班牙</nuxt-link></td>      </tr>
-<tr><td class="unit " colspan="2 " style=" background-color:#375d96;
+<tr><td class="unit" colspan="2" style="background-color:#375d96;
                 ">       <div class="unititle2 "><nuxt-link to="/
-                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3 ">章節</td>       <td class="unit4
-                ">征服者戰役第四章之六</td>      </tr>       <tr>        <td class="unit3 ">上一關</td>       <td class="Agincourt.php
-                ">亞琴哥特(1415)      </tr>      <tr>        <td class="unit3 ">下一關</td>       <td class="Kyoto.php
+                ">戰役關卡編號</nuxt-link></div>       </td>      </tr>       <tr>        <td class="unit3">章節</td>       <td class="unit4
+                ">征服者戰役第四章之六</td>      </tr>       <tr>        <td class="unit3">上一關</td>       <td class="Agincourt.php
+                ">亞琴哥特(1415)      </tr>      <tr>        <td class="unit3">下一關</td>       <td class="Kyoto.php
                 ">京都(1582)        </td>      </tr>        </table>     <div class="thanks ">       感謝! 此頁面由Wun，裕暉協助編輯     <div class="wiki " style="margin-top:
                 5px; "><div style="float: left; "><img src="~assets/Wikipedia-logo.png
                 " width="50 " height="46 "></div><div style="margin-left: 60px;

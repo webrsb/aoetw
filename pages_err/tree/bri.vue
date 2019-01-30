@@ -252,7 +252,7 @@
               <img class="gg" src="~assets/CavalierIcon.jpg">
               <div><nuxt-link to="/units/Cavalier">騎兵</nuxt-link>
               </div> 
-			  <i class="fas fa-arrow-down"></i><br/><div class="not"><img class="gg" src="~assets/PaladinIcon.jpg"><div><nuxt-link to="/units/Paladin" class="">遊俠</nuxt-link></div></div>
+			  <i class="fas fa-arrow-down"></i><br/><div class="not"><img class="gg" src="~assets/PaladinIcon.jpg"><div><nuxt-link to="/units/Paladin" >遊俠</nuxt-link></div></div>
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/HeavyCamelIcon.jpg">
@@ -321,7 +321,7 @@
           </div><i class="fas fa-arrow-down"></i>
           <br/>
           <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt="">
-          <div><nuxt-link to="/Siege_units/Onager" class="">重型投石車</nuxt-link>
+          <div><nuxt-link to="/Siege_units/Onager" >重型投石車</nuxt-link>
           </div>
         </td>
         <td class="t23 trm">

@@ -133,7 +133,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">越南</div>
             </td>
           </tr>
@@ -142,7 +142,7 @@
               <div class="unititle">
                 <img
                   src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Statue_of_Tran_Hung_Dao%2C_Ho_Chi_Minh_City%2C_Vietnam.jpg/800px-Statue_of_Tran_Hung_Dao%2C_Ho_Chi_Minh_City%2C_Vietnam.jpg"
-                  width="300px;"
+                  width="300"
                   alt=""
                 />
                 <p><em>胡志明市的陳興道雕像</em></p>
@@ -150,7 +150,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">概要</div>
             </td>
           </tr>

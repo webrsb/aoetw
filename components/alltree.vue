@@ -116,7 +116,6 @@ export default {
   text-align: right;
   padding: 5px;
 }
-
 #banner a::after {
   content: ' · ';
   font-weight: bold;

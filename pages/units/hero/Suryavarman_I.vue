@@ -22,7 +22,6 @@
           I，？－1050年），柬埔寨吳哥王朝國王（1002年或1010年－1050年在位）。在他統治時期動工興建了吳哥城市中心著名的巴戎寺（「金塔」），並拆毀重建了羅貞陀羅跋摩二世（Rājendravarman
           II）興建的「空中宮殿」。
         </p>
-
         <p>
           <nuxt-link to="/units/hero/Udayadityavarman_I"
             >優陀耶迭多跋摩一世</nuxt-link
@@ -41,7 +40,6 @@
           Vihear）和空中宮殿（Phimeanakas），還開始修第二個吳哥水庫西芭萊湖（West
           Baray），水庫長8公里、寬2.2公里，容量超過1.23億公升的水。這是倖存的最大的高棉水庫。
         </p>
-
         <p>
           蘇耶跋摩一世死於1050年。他的繼任者就是他的兒子優陀耶迭多跋摩二世。
         </p>
@@ -49,7 +47,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle">
                 <nuxt-link to="">蘇利耶跋摩一世</nuxt-link>
               </div>
@@ -63,7 +61,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2" style="color: #fff;">單位介紹</div>
             </td>
           </tr>

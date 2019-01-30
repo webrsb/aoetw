@@ -43,10 +43,10 @@
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p8">玩家2：</div></td>  <td class="tc6 " width="35% ">猛獅亨利（橘色）條頓 </td></tr>    <tr>     <td class="tc4
+                <td class="tc6" width="15%"><div class="p8">玩家2：</div></td>  <td class="tc6" width="35% ">猛獅亨利（橘色）條頓 </td></tr>    <tr>     <td class="tc4
                 " colspan="4 " style="background:#ea6153;
-                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6 "><div class="p6">玩家3：</div></td>    <td class="tc6
-                ">威尼斯（紫色）拜占庭 </td>    <td class="tc6 " width="15% "">
+                ">敵對</td>  </tr><tr>  <tr>    <td class="tc6"><div class="p6">玩家3：</div></td>    <td class="tc6
+                ">威尼斯（紫色）拜占庭 </td>    <td class="tc6" width="15%" >
                   <div class="p3">玩家4：</div></td>
                 <td class="tc6" width="35%">帕度亞（綠色）條頓</td>
               </tr>
@@ -89,7 +89,7 @@
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle"><nuxt-link to="">倫巴聯盟</nuxt-link>
                 </div>
               </td>
@@ -97,12 +97,12 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="~assets/BRA 4.jpg" width="" alt="">
+                  <img src="~assets/BRA 4.jpg" alt="">
                 </div>
               </td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link>
                 </div>
               </td>
@@ -120,7 +120,7 @@
               <td class="unit4"><nuxt-link to="">條頓人</nuxt-link>
               </td>
             </tr>
-<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>
             </td>

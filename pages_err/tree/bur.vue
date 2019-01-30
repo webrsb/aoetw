@@ -146,7 +146,7 @@
           <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></td>
           <td class="t19 trm"><img class="gg" src="~assets/HussarIcon.jpg"><div><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/CavalierIcon.jpg"><div><nuxt-link to="/units/Cavalier">騎兵</nuxt-link></div>
-            <i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/PaladinIcon.jpg"><div><nuxt-link to="/units/Paladin" class="">遊俠</nuxt-link></div></td>
+            <i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/PaladinIcon.jpg"><div><nuxt-link to="/units/Paladin" >遊俠</nuxt-link></div></td>
           <td class="t19 trm not"><img class="gg" src="~assets/HeavyCamelIcon.jpg"><div><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/ImperialCamelIcon.jpg"><div><nuxt-link to="/Imperial_units/Camel" class="not">帝王駱駝騎兵</nuxt-link></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/Battleelephanticon.png"><div><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link></div></td>
           <td class="t19 trm"></td>
@@ -172,7 +172,7 @@
           <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></td>
            <td class="t23 trm"><img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/SiegeRamIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link></div></td>
           <td class="t23 trm"><img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Onager">中型投石車</nuxt-link></div><i class="fas fa-arrow-down"></i><br/>
-            <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/Siege_units/Onager" class="">重型投石車</nuxt-link></div></td>
+            <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/Siege_units/Onager" >重型投石車</nuxt-link></div></td>
           <td class="t23 trm"><img class="gg" src="~assets/HeavyScorpionIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link></div></td>    
           <td class="t23 trm"><img class="gg" src="~assets/BombardCannonIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link></div></td>     
         </tr>
@@ -396,7 +396,7 @@
           <td class="t10 trm not"><img class="gg" src="~assets/LongboatIcon.jpg"><div><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link></div></td>
           <td class="t10 trm not"><img class="gg" src="~assets/TurtleShipIcon.jpg"><div><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link></div></td>
           <td class="t10 trm not"><img class="gg" src="~assets/CaravelIcon2.jpg"><div><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link></div></td>
-          <td class="t10 trm"><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><nuxt-link to="/units/Elite_Cannon_Galleon" class="">精銳火炮戰船</nuxt-link></div></td>
+          <td class="t10 trm"><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/CannonGalleonIcon.jpg"><div><nuxt-link to="/units/Elite_Cannon_Galleon" >精銳火炮戰船</nuxt-link></div></td>
            <td class="t10 trm"><img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt=""><div><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link></div></td>
          
           <td class="t10 trm not"><img class="gg" style="margin: 2px;" src="~assets/Shipwright.jpg" alt=""><div><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link></div></td>

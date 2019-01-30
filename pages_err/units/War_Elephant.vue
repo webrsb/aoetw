@@ -299,7 +299,7 @@
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#3c763d;text-align: center;">
+              <td class="unit" colspan="2" style="background-color:#3c763d;text-align: center;">
                 <div class="unititle" style="color: #fff">戰象</div>
               </td>
             </tr>
@@ -311,7 +311,7 @@
               </td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#3c763d;text-align: center;">
+              <td class="unit" colspan="2" style="background-color:#3c763d;text-align: center;">
                 <div class="unititle2" style="color: #fff">單位介紹</div>
               </td>
             </tr>
@@ -342,7 +342,7 @@
               <td class="unit4">31秒</td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#3c763d;text-align: center;">
+              <td class="unit" colspan="2" style="background-color:#3c763d;text-align: center;">
                 <div class="unititle2" style="color: #fff">成本</div>
               </td>
             </tr>
@@ -355,7 +355,7 @@
               <td class="unit4">75</td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#3c763d;text-align: center;">
+              <td class="unit" colspan="2" style="background-color:#3c763d;text-align: center;">
                 <div class="unititle2" style="color: #fff">數據</div>
               </td>
             </tr>
@@ -408,7 +408,7 @@
               <td class="unit4">4/5(精銳)</td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+              <td class="unit" colspan="2" style="background-color:#3c763d;;">
                 <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link>
                 </div>
               </td>

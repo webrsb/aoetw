@@ -33,7 +33,6 @@
 </template>
 <script>
 import header_search from '~/components/header_search.vue'
-
 export default {
   data() {
     return {
@@ -52,10 +51,8 @@ export default {
   methods: {
     getOffsetToRoot (elm) {
       let result = 0
-
       while(elm !== null) {
         result += elm.offsetTop
-
         elm = elm.offsetParent
       }
       var test = document.createElement('DIV')
@@ -70,7 +67,6 @@ export default {
       test.style.color = 'green'
       test.innerHTML = result
       document.body.appendChild(test)
-
       return result
     },
     offsetTop(el) {
@@ -149,12 +145,10 @@ export default {
   border: 0;
   border-top: 1px solid #b3b1b1;
 }
-
 li {
   display: flex;
   align-items: center;
 }
-
 @media (min-width: 768px){
   .navbar-expand-md {
       max-height: 86px;

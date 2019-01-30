@@ -1,7 +1,6 @@
 <template>
   <!-- Main jumbotron for a primary marketing message or call to action
     -->
-
   <div class="container">
     <!-- Example row of columns -->
     <div class="row padtop">
@@ -184,7 +183,6 @@
               >資料片有)
             </td>
           </tr>
-
           <tr>
             <td class="tta1" style="width:10%">視野</td>
             <td class="tta4">
@@ -497,7 +495,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle" style="color: #fff">鷹斥侯</div>
             </td>
           </tr>
@@ -509,7 +507,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">
                 <nuxt-link to="">單位介紹</nuxt-link>
               </div>
@@ -554,7 +552,7 @@
             <td class="unit4">封建60秒/城堡35秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2" style="color: #fff">成本</div>
             </td>
           </tr>
@@ -567,7 +565,7 @@
             <td class="unit4">20</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">數據</div>
             </td>
           </tr>
@@ -629,7 +627,7 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2" style="color: #fff">單位演變</div>
             </td>
           </tr>

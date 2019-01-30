@@ -51,13 +51,13 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p4">玩家3</div></td>
-              <td class="tc6 " width="35% ">大酋長（黃色）印加</td>
-              <td class="tc6 " width="12%"><div class="p3">玩家5</div></td>
+              <td class="tc6" width="35% ">大酋長（黃色）印加</td>
+              <td class="tc6" width="12%"><div class="p3">玩家5</div></td>
               <td class="tc6" width="38%">友好土著（綠色）印加</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p1">玩家7</div></td>
-              <td class="tc6 " width="38%">西班牙人（藍色）西班牙</td>
+              <td class="tc6" width="38%">西班牙人（藍色）西班牙</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4 " style="background:#ea6153; ">
@@ -203,7 +203,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/The_Split">分離告別</nuxt-link>
               </div>
@@ -212,12 +212,12 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/EI 2.jpg" width="" alt="" />
+                <img src="~assets/EI 2.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
             </td>
           </tr>
@@ -238,7 +238,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
                 <nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>

@@ -33,7 +33,6 @@
               <td class="tc2" width="5%">200</td>
             </tr>
           </table>
-
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
@@ -54,19 +53,19 @@
             </tr>
             <tr>
               <td class="tc6" width="15%"><div class="p6">玩家2</div></td>
-              <td class="tc6 " width="35% ">巴里（紫色）義大利</td>
-              <td class="tc6 "><div class="p4">玩家3</div></td>
-              <td class="tc6 ">拜占庭帝國（黃色）拜占庭</td>
+              <td class="tc6" width="35% ">巴里（紫色）義大利</td>
+              <td class="tc6"><div class="p4">玩家3</div></td>
+              <td class="tc6">拜占庭帝國（黃色）拜占庭</td>
             </tr>
             <tr>
-              <td class="tc6 "><div class="p3">玩家4</div></td>
-              <td class="tc6 ">友好的倫巴第人（綠色）哥德</td>
-              <td class="tc6 "><div class="p5">玩家5</div></td>
-              <td class="tc6 ">當地的義大利人（水藍）義大利</td>
+              <td class="tc6"><div class="p3">玩家4</div></td>
+              <td class="tc6">友好的倫巴第人（綠色）哥德</td>
+              <td class="tc6"><div class="p5">玩家5</div></td>
+              <td class="tc6">當地的義大利人（水藍）義大利</td>
             </tr>
             <tr>
-              <td class="tc6 "><div class="p7">玩家6</div></td>
-              <td class="tc6 ">諾曼人（灰色）法蘭克</td>
+              <td class="tc6"><div class="p7">玩家6</div></td>
+              <td class="tc6">諾曼人（灰色）法蘭克</td>
             </tr>
             <tr>
               <td class="tc4 " colspan="4" style="background:#ea6153; ">
@@ -77,11 +76,10 @@
             <tr>
               <td class="tc6"><div class="p2">玩家7</div></td>
               <td class="tc6">梅勒斯（紅色）拜占庭</td>
-              <td class="tc6 "><div class="p8">玩家8</div></td>
+              <td class="tc6"><div class="p8">玩家8</div></td>
               <td class="tc6">反叛軍（橘色）哥德</td>
             </tr>
           </table>
-
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
@@ -108,7 +106,7 @@
             </ol>
           </div>
           <h2>次要任務</h2>
-          <div class="hrn1 "></div>
+          <div class="hrn1"></div>
           <div class="n1">
             <ol>
               <li>帶邁克爾去波坦察並找他們的首領需求幫助。</li>
@@ -119,7 +117,7 @@
             </ol>
           </div>
           <h2>任務提示</h2>
-          <div class="hrn1 "></div>
+          <div class="hrn1"></div>
           <div class="n1">
             <ol>
               <li>
@@ -141,7 +139,7 @@
             </ol>
           </div>
           <h2>斥侯</h2>
-          <div class="hrn1 "></div>
+          <div class="hrn1"></div>
           <div class="n1">
             <ol>
               <li>
@@ -159,7 +157,7 @@
           </div>
         </div>
         <h2>故事情節攻略</h2>
-        <div class="hrn1 "></div>
+        <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
@@ -203,15 +201,14 @@
               地圖南端有倫巴第的金礦，靠近後，就能直接接收村民，並幫玩家挖礦。
             </li>
           </ul>
-          <div class="hrn1 "></div>
-          <div class="n1"><ul></ul></div>
+          <div class="hrn1"></div>
         </div>
       </div>
-      <div class="col-md-4 ">
+      <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit " colspan="2" style=" background-color:#375d96;">
-              <div class="unititle ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle">
                 <nuxt-link to="/batt/The_Rebellion_of_Melus"
                   >梅勒斯叛變</nuxt-link
                 >
@@ -219,14 +216,14 @@
             </td>
           </tr>
           <tr>
-            <td colspan="2 ">
+            <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bari.2.jpg" width=" " alt=" " />
+                <img src="~assets/Bari.2.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit " colspan="2 " style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2 ">
                 <nuxt-link to="/">情景信息</nuxt-link>
               </div>
@@ -237,24 +234,24 @@
             <td class="unit4">失落的帝國</td>
           </tr>
           <tr>
-            <td class="unit3 ">戰役</td>
+            <td class="unit3">戰役</td>
             <td class="unit4">巴里</td>
           </tr>
           <tr>
-            <td class="unit3 ">文明</td>
+            <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/next/civs/Byzantines">拜占庭人</nuxt-link>
+              <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit " colspan="2 " style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2 ">
                 <nuxt-link to="/">戰役關卡編號</nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit3 ">章節</td>
+            <td class="unit3">章節</td>
             <td class="unit4">失落的帝國第三章之二</td>
           </tr>
           <tr>
@@ -264,16 +261,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3 ">下一關</td>
+            <td class="unit3">下一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Great_Ride">四面楚歌</nuxt-link>
             </td>
           </tr>
         </table>
-
         <div class="thanks">感謝！此頁面由裕暉、阿湖協助編輯</div>
-        <div class="row"></div>
-        <div class="col-md-12"></div>
       </div>
     </div>
   </div>

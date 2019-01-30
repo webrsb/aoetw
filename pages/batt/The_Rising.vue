@@ -57,7 +57,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
               </div>
@@ -66,12 +66,12 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Joan4map.png" width="" alt="" />
+                <img src="~assets/Joan4map.png" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
             </td>
           </tr>
@@ -92,7 +92,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
                 <nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>

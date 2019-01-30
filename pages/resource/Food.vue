@@ -6,7 +6,6 @@
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1 id="UP">食物</h1>
-
         <div class="hrn1"></div>
       </div>
       <div class="row">
@@ -23,23 +22,21 @@
             <li><nuxt-link to="#E">設置漁網</nuxt-link></li>
           </ul>
         </div>
-
         <h3>世紀帝國2中，有4種與食物採集（或交易）相關的建築</h3>
-        <div class="col-md-12" style="">
+        <div class="col-md-12">
           狩獵、<nuxt-link to="/building/Farm">農田</nuxt-link>收集：<nuxt-link
             to="/building/Town_Center"
             >城鎮中心</nuxt-link
           >、<nuxt-link to="/building/Mill">磨坊</nuxt-link
           >（沿海魚群若是由村民採集，也是於城鎮中心或磨坊儲存資源）
         </div>
-        <div class="col-md-12" style="">
+        <div class="col-md-12">
           魚類收集：<nuxt-link to="/building/Dock">碼頭</nuxt-link>
         </div>
-        <div class="col-md-12" style="">
+        <div class="col-md-12">
           資源買賣：<nuxt-link to="/building/Market">市集</nuxt-link>
         </div>
       </div>
-
       <div class="row" style="margin-top:20px;">
         <div class="col-md-12">
           <table class="table-bordered" border="1" width="100%">
@@ -111,7 +108,6 @@
                 >
               </td>
             </tr>
-
             <tr>
               <td style="border: 1px solid #495057;" bgcolor="#E0E0E0">
                 生命：7
@@ -142,7 +138,6 @@
                 建議獵人數量：4~6位村民
               </td>
             </tr>
-
             <tr>
               <td style="border: 1px solid #495057;" width="3%" rowspan="4">
                 <div class="unititle">
@@ -195,7 +190,6 @@
                 >
               </td>
             </tr>
-
             <tr>
               <td style="border: 1px solid #495057;">生命：7</td>
               <td
@@ -230,7 +224,6 @@
                 建議獵人數量：4~6位村民
               </td>
             </tr>
-
             <tr>
               <td
                 style="border: 1px solid #495057;"
@@ -288,7 +281,6 @@
                 >
               </td>
             </tr>
-
             <tr>
               <td style="border: 1px solid #495057;" bgcolor="#E0E0E0">
                 生命：14
@@ -404,7 +396,6 @@
                 建議獵人數量：2~4位村民
               </td>
             </tr>
-
             <tr>
               <td
                 style="border: 1px solid #495057;"

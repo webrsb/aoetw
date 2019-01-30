@@ -1,6 +1,5 @@
 <template>
   <!-- Main jumbotron for a primary marketing message or call to action -->
-
   <div class="container">
     <!-- Example row of columns -->
     <div class="row padtop">
@@ -76,7 +75,6 @@
           <li>特殊單位 - 聖物推車x1(任務裡的貨車會被轉換類似綿羊)。</li>
           <li>軍事單位 - 重裝長槍兵x4、輕騎兵x1、</li>
           <li>經濟單位 - 村民x7。</li>
-
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -175,7 +173,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/The_Sting_of_the_Scorpion"
                   >馬利戰役（蠍螫）</nuxt-link
@@ -186,12 +184,12 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/SUN 2.jpg" width="" alt="" />
+                <img src="~assets/SUN 2.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
             </td>
           </tr>
@@ -212,7 +210,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
                 <nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>

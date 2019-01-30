@@ -7,7 +7,6 @@
     placeholder="請輸入關鍵字搜尋"
   />
 </template>
-
 <script>
 let scriptInjected = false
 let callbacks = []

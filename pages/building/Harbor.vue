@@ -22,29 +22,24 @@
                 <li>
                   巨港像碼頭一樣可以做資源收集站也可以是軍事建築物。不過巨港比起碼頭有更多生命值還能向攻擊敵方單位，所以它可以當作防禦工事的一部分，根據不同的遊戲地圖使用它們，而且巨港只花費木材！
                 </li>
-
                 <li>
                   在像海島這樣的地圖上玩的時候，巨港對馬來人來說是非常有利的，因為他們幫助確保海岸線安全，同時在一定程度上保護了馬來漁船和貿易商旅。這對馬來人來說特別重要，因為漁船和貿易商旅在這些地圖上是經濟的重要組成部分。利用巨港可以阻止敵方運輸船難靠近而且也不需要巡邏海岸線。
                 </li>
                 <li>
                   在像沿海，波羅的海和大陸那樣定居點沒有被水隔開的地圖上，使用巨港可以產生巨大的影響，因為它們可以跟城堡和箭塔一起保護海岸。他們也在很多情況下幫助海軍並保護海上經濟。
                 </li>
-
                 <li>
                   在河流，高地或其他具有河流和/或湖泊的地圖上，巨港可以成為防禦性結構的一部分，因為河流和湖泊是地面部隊的屏障，在這種情況下，使巨港和海軍部隊可以有效地幫助靠近海岸線的防禦工事。也能有效防衛淺灘因為這是地面部隊渡過河流的唯一路徑。
                 </li>
                 <li>
                   即使巨港得到攻擊力和生命值提高，但還是能被許多船艦遠距離摧毀。建議在海岸周邊部屬攻城武器或以其他防禦建築物（如箭塔或城堡）支援他們。另外，海軍也能捍衛巨港保衛海岸。
                 </li>
-
                 <li>
                   在玩團隊遊戲時，巨港是非常有價值的，因為海軍貿易路線可以更容易地得到保護，它們提供了貿易商旅掩護。所以在進行水上貿易時，如果有馬來人作為同盟的話通常會更安全。
                 </li>
-
                 <li>
                   巨港只能建在淺水區或靠近海岸的淺灘上。在兩棲地圖中，通過將巨港放置在海軍和陸地部隊相交的戰略位置，最好是毗鄰森林，使得更少的單位有機會對其造成傷害，同時還能以神風船炸飛敵方單位。即使在水位低於平均水平的地圖上，也可以利用港口的權力來威懾附近的敵方村民。
                 </li>
-
                 <li>
                   巨港早在《世紀帝國:征服者入侵》就有了，只是當時是一個無功能不能攻擊且蓋在海邊的建築物，外觀也與碼頭一樣。
                 </li>
@@ -450,7 +445,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle"><nuxt-link to="">巨港</nuxt-link></div>
             </td>
           </tr>
@@ -462,7 +457,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
@@ -485,7 +480,7 @@
             <td class="unit4">訓練和升級船隻。可攻擊敵人。</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
@@ -494,7 +489,7 @@
             <td class="unit4">150</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
@@ -559,7 +554,7 @@
             <td class="unit4">10</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">
                 <nuxt-link to="">單位演變</nuxt-link>
               </div>

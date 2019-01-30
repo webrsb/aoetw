@@ -164,7 +164,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle"><nuxt-link to="">義大利</nuxt-link></div>
             </td>
           </tr>
@@ -173,7 +173,7 @@
               <div class="unititle">
                 <img
                   src="~assets/Cattedrale_san_lorenzo_genova.jpg"
-                  width="300px;"
+                  width="300"
                   alt=""
                 />
                 <p>
@@ -186,7 +186,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>

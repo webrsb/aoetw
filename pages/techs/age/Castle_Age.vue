@@ -776,7 +776,7 @@
             <td
               class="unit"
               colspan="2"
-              style=" background-color:#5b2167f0;text-align: center;"
+              style="background-color:#5b2167f0;text-align: center;"
             >
               <div class="unititle" style="color: #fff">城堡時代</div>
             </td>
@@ -792,7 +792,7 @@
             <td
               class="unit"
               colspan="2"
-              style=" background-color:#5b2167f0;text-align: center;"
+              style="background-color:#5b2167f0;text-align: center;"
             >
               <div class="unititle2" style="color: #fff">時代介紹</div>
             </td>
@@ -872,7 +872,7 @@
             <td
               class="unit"
               colspan="2"
-              style=" background-color:#5b2167f0;text-align: center;"
+              style="background-color:#5b2167f0;text-align: center;"
             >
               <div class="unititle2" style="color: #fff">研究成本</div>
             </td>

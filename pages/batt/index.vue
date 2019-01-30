@@ -16,7 +16,7 @@
           <div class="col-md-4">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#c12420;">
+                <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
                     <nuxt-link to="/batt/William_Wallacea"
                       >威廉華勒斯</nuxt-link
@@ -95,7 +95,7 @@
           <div class="col-md-4">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#c12420;">
+                <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link>
                   </div>
@@ -165,7 +165,7 @@
           <div class="col-md-4">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#c12420;">
+                <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
                   </div>
@@ -233,7 +233,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#c12420;">
+                <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
                   </div>
@@ -299,7 +299,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#c12420;">
+                <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
                   </div>
@@ -372,7 +372,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#2a22a7;">
+                <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
                   </div>
@@ -438,7 +438,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#2a22a7;">
+                <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
                     <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
                   </div>
@@ -506,7 +506,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#2a22a7;">
+                <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
                   </div>
@@ -568,7 +568,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#2a22a7;">
+                <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Battles_of_the_Conquerors"
                       >征服者的戰役</nuxt-link
@@ -655,7 +655,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#28a745;">
+                <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
                   </div>
@@ -707,7 +707,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#28a745;">
+                <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Draculaa">德古拉</nuxt-link>
                   </div>
@@ -766,7 +766,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#28a745;">
+                <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <nuxt-link to="/Baria.php">巴里</nuxt-link>
                   </div>
@@ -807,7 +807,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#28a745;">
+                <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <nuxt-link to="/Sforzaa.php">斯福爾札</nuxt-link>
                   </div>
@@ -868,7 +868,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#28a745;">
+                <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>
                   </div>
@@ -916,7 +916,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#28a745;">
+                <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <nuxt-link to="/Prithviraja.php">布里斯比羅吉</nuxt-link>
                   </div>
@@ -968,7 +968,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#28a745;">
+                <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <nuxt-link to="/Battles_of_the_Forgotten.php"
                       >失落帝國的戰役</nuxt-link
@@ -1062,7 +1062,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#8a6d3b;">
+                <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Tariq_ibn_Ziyada"
                       >塔里克．伊本．齊亞德</nuxt-link
@@ -1125,7 +1125,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#8a6d3b;">
+                <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link>
                   </div>
@@ -1184,7 +1184,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#8a6d3b;">
+                <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
                     <nuxt-link to="/Francisco_de_Almeidaa.php"
                       >法蘭西斯科．阿爾梅達</nuxt-link
@@ -1239,7 +1239,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#8a6d3b;">
+                <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Yodita">遊娣特</nuxt-link>
                   </div>
@@ -1295,7 +1295,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#5f8ebd;">
+                <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
                   </div>
@@ -1358,7 +1358,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#5f8ebd;">
+                <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Suryavarman_Ia"
                       >蘇利耶跋摩一世</nuxt-link
@@ -1419,7 +1419,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#5f8ebd;">
+                <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
                     <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
                   </div>
@@ -1478,7 +1478,7 @@
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
-                <td class="unit" style=" background-color:#5f8ebd;">
+                <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
                     <nuxt-link to="/Le_Loi.php">黎利</nuxt-link>
                   </div>

@@ -122,20 +122,20 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">馬利</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/MansaMusa.jpg" width="300px;" alt="" />
+                <img src="~assets/MansaMusa.jpg" width="300" alt="" />
                 <p><em>一幅1375年地圖描繪舉著黃金的曼薩·穆薩</em></p>
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">概要</div>
             </td>
           </tr>

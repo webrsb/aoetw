@@ -177,22 +177,22 @@
             <td
               class="unit"
               colspan="2"
-              style=" background-color:#375d96;        "
+              style="background-color:#375d96;        "
             >
               <div class="unititle">
-                <nuxt-link to="/Serving_the_New_King">風雲變色</nuxt-link>
+                <nuxt-link to="/batt/Serving_the_New_King">風雲變色</nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Gajah Mada 5.jpg" width="" alt="" />
+                <img src="~assets/Gajah Mada 5.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
             </td>
           </tr>
@@ -209,7 +209,7 @@
             <td class="unit4"><nuxt-link to="">馬來人</nuxt-link></td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
                 <nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>

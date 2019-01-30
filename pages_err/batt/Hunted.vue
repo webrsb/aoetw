@@ -42,9 +42,9 @@
 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
 </tr>
 <tr>
-<td class="tc6" width="15%""><div class="p8">玩家2：</div></td>
+<td class="tc6" width="15%"><div class="p8">玩家2：</div></td>
   <td class="tc6" width="35%">尼亞尼（橘色）馬利 </td>
-  <td class="tc6" width="15%""><div class="p4">玩家4：</div></td>
+  <td class="tc6" width="15%"><div class="p4">玩家4：</div></td>
   <td class="tc6" width="35%">康加巴（黃色）馬利 </td>
 </tr>
  <tr>
@@ -143,16 +143,16 @@
      
  <table class="table-bordered" width="100%">
       <tr>
-        <td class="unit" colspan="2" style=" background-color:#375d96;">
+        <td class="unit" colspan="2" style="background-color:#375d96;">
        <div class="unititle"><nuxt-link to="">亡命之徒(擒獲)</nuxt-link></div>
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="~assets/SUN 1.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/SUN 1.jpg" alt=""></div>
        </td>
       </tr>
       <tr>
-        <td class="unit" colspan="2" style=" background-color:#375d96;">
+        <td class="unit" colspan="2" style="background-color:#375d96;">
        <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
        </td>
       </tr>
@@ -168,7 +168,7 @@
         <td class="unit3">文明</td>
        <td class="unit4"><nuxt-link to="">馬利</nuxt-link></td>
       </tr>
-<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style="background-color:#375d96;">
        <div class="unititle2"><nuxt-link to="">戰役關卡編號</nuxt-link></div>
        </td>
       </tr>
@@ -179,7 +179,7 @@
        <tr>
         <td class="unit3">上一關</td>
         <td class="unit4">
-       <a href=>N/A</nuxt-link></p>
+       <a href="#">N/A</nuxt-link></p>
       </tr>
       <tr>
         <td class="unit3">下一關</td>

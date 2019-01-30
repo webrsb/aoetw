@@ -7,7 +7,7 @@
       <div class="col-md-12">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#1161b7;">
+            <td class="unit" colspan="2" style="background-color:#1161b7;">
               <div class="unititle" style="color: #fff;">
                 世紀帝國的兵種分類
               </div>

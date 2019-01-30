@@ -360,7 +360,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle"><nuxt-link to="">馬弓騎兵</nuxt-link>
               </div>
             </td>
@@ -373,7 +373,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link>
               </div>
             </td>
@@ -404,7 +404,7 @@
             <td class="unit4">34秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -417,7 +417,7 @@
             <td class="unit4">60</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">數據</div>
             </td>
           </tr>
@@ -479,7 +479,7 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">單位演變</div>
             </td>
           </tr>

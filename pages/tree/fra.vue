@@ -319,7 +319,7 @@
               <br />
               <img class="gg" src="~assets/PaladinIcon.jpg" />
               <div>
-                <nuxt-link to="/units/Paladin" class="">遊俠</nuxt-link>
+                <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
               </div>
             </td>
             <td class="t19 trm not">
@@ -1352,7 +1352,6 @@
             </td>
             <td class="t11 trm"></td>
           </tr>
-
           <tr>
             <td style=" vertical-align: middle; " class="t5 trm im">
               <div>

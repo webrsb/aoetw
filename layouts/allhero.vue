@@ -6,12 +6,10 @@
     <credit />
   </div>
 </template>
-
 <script>
 import navbar from '~/components/navbar.vue'
 import allhero from '~/components/allhero.vue'
 import credit from '~/components/credit.vue'
-
 export default {
   components: {
     navbar,
@@ -20,5 +18,4 @@ export default {
   }
 }
 </script>
-
 <style></style>

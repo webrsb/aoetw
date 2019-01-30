@@ -7,12 +7,12 @@
       <div class="col-md-12">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#274a7d;">
+            <td class="unit" colspan="2" style="background-color:#274a7d;">
               <div class="unititle"><nuxt-link to="">世紀帝國戰役</nuxt-link></div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3a73c7;">
+            <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
                 <nuxt-link to=""
                   ><img
@@ -89,7 +89,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3a73c7;">
+            <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
                 <nuxt-link to=""
                   ><img
@@ -154,7 +154,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3a73c7;">
+            <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
                 <nuxt-link to=""
                   ><img
@@ -248,7 +248,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3a73c7;">
+            <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
                 <nuxt-link to=""
                   ><img
@@ -307,7 +307,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3a73c7;">
+            <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
                 <nuxt-link to=""
                   ><img

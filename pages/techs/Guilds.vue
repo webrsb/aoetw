@@ -95,7 +95,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#31b0d5;">
+            <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle"><nuxt-link to="">行會制度</nuxt-link></div>
             </td>
           </tr>
@@ -107,7 +107,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#31b0d5;">
+            <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2">
                 <nuxt-link to="">科技介紹</nuxt-link>
               </div>
@@ -134,7 +134,7 @@
             <td class="unit4">50秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#31b0d5;">
+            <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
@@ -147,7 +147,7 @@
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#31b0d5;">
+            <td class="unit" colspan="2" style="background-color:#31b0d5;">
               <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
             </td>
           </tr>

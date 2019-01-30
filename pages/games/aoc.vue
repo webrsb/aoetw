@@ -45,7 +45,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d">
+            <td class="unit" colspan="2" style="background-color:#3c763d">
               <div class="unititle">
                 <nuxt-link to="">世紀帝國II：征服者入侵</nuxt-link>
               </div>
@@ -54,12 +54,12 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Conquerors.jpg" width="" alt="" />
+                <img src="~assets/Conquerors.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d">
+            <td class="unit" colspan="2" style="background-color:#3c763d">
               <div class="unititle2" style="color: #fff;">遊戲介紹</div>
             </td>
           </tr>

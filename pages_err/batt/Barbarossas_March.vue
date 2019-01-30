@@ -47,19 +47,19 @@
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle2">紅鬍子的行軍</div>
               </td>
             </tr>
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="~assets/BRA 5.jpg" width="" alt="">
+                  <img src="~assets/BRA 5.jpg" alt="">
                 </div>
               </td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle2">戰役資訊</div>
               </td>
             </tr>
@@ -75,7 +75,7 @@
               <td class="unit3">文明</td>
               <td class="unit4">條頓人</td>
             </tr>
-<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">戰役關卡編號</div>
             </td>
             </tr>

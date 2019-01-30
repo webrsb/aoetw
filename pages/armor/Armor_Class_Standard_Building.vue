@@ -1,6 +1,5 @@
 <template>
   <!-- Main jumbotron for a primary marketing message or call to action -->
-
   <div class="container">
     <!-- Example row of columns -->
     <div class="row padtop">
@@ -274,7 +273,6 @@
                     >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
                   </li>
                 </ul>
-
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
                 <ul>
                   <li>
@@ -325,7 +323,6 @@
                     >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                   </li>
                 </ul>
-
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>
@@ -447,7 +444,6 @@
                     >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>限定)
                   </li>
                 </ul>
-
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
                 <ul>
                   <li>
@@ -507,7 +503,6 @@
                 >縱火</nuxt-link
               >
             </p>
-
             <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
             <ul>
               <li>
@@ -709,7 +704,6 @@
                 >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
               </li>
             </ul>
-
             <p>
               <img
                 class="gg"
@@ -721,7 +715,6 @@
                 >馬雅</nuxt-link
               >限定)
             </p>
-
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -876,7 +869,6 @@
                         >越南</nuxt-link
                       >及其同盟限定)
                     </li>
-
                     <li>
                       <img
                         class="gg"

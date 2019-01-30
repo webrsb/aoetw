@@ -5,11 +5,9 @@
     <credit />
   </div>
 </template>
-
 <script>
 import navbar from '~/components/navbar.vue'
 import credit from '~/components/credit.vue'
-
 export default {
   components: {
     navbar,
@@ -17,7 +15,6 @@ export default {
   }
 }
 </script>
-
 <style>
 *,
 *:before,

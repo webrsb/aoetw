@@ -44,7 +44,7 @@
                 <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
               </tr>
               <tr>
-                <td class="tc6" width="15%" "><div class="p8">玩家2：</div></td>  <td class="tc6 " width="35% ">科爾多巴（橘色）薩拉森 </td>  <td class="tc6 " width="15% "">
+                <td class="tc6" width="15%"><div class="p8">玩家2：</div></td>  <td class="tc6" width="35% ">科爾多巴（橘色）薩拉森 </td>  <td class="tc6" width="15%" >
                   <div class="p7">玩家3：</div></td>
                 <td class="tc6" width="35%">托雷多（灰色）拜占庭</td>
               </tr>
@@ -139,7 +139,7 @@
         <div class="col-md-4">
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle"><nuxt-link to="">攻城拔寨</nuxt-link>
                 </div>
               </td>
@@ -147,12 +147,12 @@
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="~assets/Consolidation_and_Subjugation1.jpg" width="" alt="">
+                  <img src="~assets/Consolidation_and_Subjugation1.jpg" alt="">
                 </div>
               </td>
             </tr>
             <tr>
-              <td class="unit" colspan="2" style=" background-color:#375d96;">
+              <td class="unit" colspan="2" style="background-color:#375d96;">
                 <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link>
                 </div>
               </td>
@@ -170,7 +170,7 @@
               <td class="unit4"><nuxt-link to="">柏柏</nuxt-link>
               </td>
             </tr>
-<tr><td class="unit" colspan="2" style=" background-color:#375d96;">
+<tr><td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>
             </td>

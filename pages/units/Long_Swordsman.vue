@@ -187,7 +187,6 @@
               /><nuxt-link to="/techs/Squires">護衛</nuxt-link>(+10%)
             </td>
           </tr>
-
           <tr>
             <td class="tta1" style="width:10%">視野</td>
             <td class="tta4">
@@ -616,7 +615,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">長劍兵</div>
             </td>
           </tr>
@@ -628,7 +627,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">單位介紹</div>
             </td>
           </tr>
@@ -667,7 +666,7 @@
             <td class="unit4">21秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -680,7 +679,7 @@
             <td class="unit4">20</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">數據</div>
             </td>
           </tr>
@@ -730,7 +729,7 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">單位演變</div>
             </td>
           </tr>

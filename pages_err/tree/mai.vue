@@ -319,7 +319,7 @@
           </div><i class="fas fa-arrow-down"></i>
           <br/>
           <img class="gg " src="~assets/SiegeOnagerIcon.jpg" width="30" alt="">
-          <div><nuxt-link to="/Siege_units/Onager" class="">重型投石車</nuxt-link>
+          <div><nuxt-link to="/Siege_units/Onager" >重型投石車</nuxt-link>
           </div>
         </td>
         <td class="t23 trm not">

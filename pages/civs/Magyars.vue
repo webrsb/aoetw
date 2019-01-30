@@ -118,20 +118,20 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle"><nuxt-link to="">馬扎爾</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Flag1.png" width="300px;" alt="" />
+                <img src="~assets/Flag1.png" width="300" alt="" />
                 <p><em>匈牙利黑軍旗幟</em></p>
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>

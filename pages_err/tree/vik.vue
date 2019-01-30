@@ -254,7 +254,7 @@
               </div> <i class="fas fa-arrow-down"></i>
               <br/>
               <img class="gg not" src="~assets/PaladinIcon.jpg">
-              <div><nuxt-link to="/units/Paladin" class="">遊俠</nuxt-link>
+              <div><nuxt-link to="/units/Paladin" >遊俠</nuxt-link>
               </div>
             </td>
             <td class="t19 trm not">
@@ -324,7 +324,7 @@
           </div><i class="fas fa-arrow-down"></i>
           <br/>
           <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt="">
-          <div><nuxt-link to="/Siege_units/Onager" class="">重型投石車</nuxt-link>
+          <div><nuxt-link to="/Siege_units/Onager" >重型投石車</nuxt-link>
           </div>
         </td>
         <td class="t23 trm">

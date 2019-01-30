@@ -160,20 +160,20 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle"><nuxt-link to="">條頓</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/steng.png" width="300px;" alt="" />
+                <img src="~assets/steng.png" width="300" alt="" />
                 <p><em>神聖羅馬帝國國旗</em></p>
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>

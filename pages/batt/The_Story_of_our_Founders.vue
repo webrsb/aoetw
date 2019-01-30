@@ -171,7 +171,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/The_Story_of_our_Founders"
                   >開疆闢土</nuxt-link
@@ -182,12 +182,12 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Gajah Mada 1.jpg" width="" alt="" />
+                <img src="~assets/Gajah Mada 1.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
             </td>
           </tr>
@@ -208,7 +208,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
                 <nuxt-link to="">戰役關卡編號</nuxt-link>
               </div>

@@ -44,7 +44,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/Montezumaacampaign.png" width="300px;" alt="" />
+              <img src="~assets/Montezumaacampaign.png" width="300" alt="" />
               <p>蒙特蘇馬戰役地圖</p>
             </div>
             <h3>芝麻小事</h3>
@@ -88,7 +88,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;;">
+            <td class="unit" colspan="2" style="background-color:#375d96;;">
               <div class="unititle" style="color: #fff;">蒙特蘇馬</div>
             </td>
           </tr>
@@ -105,7 +105,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;;">
+            <td class="unit" colspan="2" style="background-color:#375d96;;">
               <div class="unititle2" style="color: #fff;">劇情介紹</div>
             </td>
           </tr>

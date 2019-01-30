@@ -153,7 +153,6 @@
                     /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
                   </li>
-
                   <li>
                     <img
                       class="gg"

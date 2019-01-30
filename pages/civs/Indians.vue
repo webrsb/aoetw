@@ -51,7 +51,6 @@
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
               />象弓騎兵:超重裝馬弓騎兵，對馬建築物/城牆有攻擊加成。
-
               <img
                 class="gg"
                 src="~assets/ImperialCamelIcon.jpg"
@@ -143,7 +142,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle"><nuxt-link to="">印度</nuxt-link></div>
             </td>
           </tr>
@@ -152,7 +151,7 @@
               <div class="unititle">
                 <img
                   src="~assets/Fictional_flag_of_the_Mughal_Empire.png"
-                  width="300px;"
+                  width="300"
                   alt=""
                 />
                 <p><em>蒙兀兒汗國國旗</em></p>
@@ -160,7 +159,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>

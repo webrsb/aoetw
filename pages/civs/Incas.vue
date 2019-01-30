@@ -116,14 +116,14 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">印加</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img width="300px;" src="~assets/incascover.jpg" alt="" />
+                <img width="300" src="~assets/incascover.jpg" alt="" />
                 <p>
                   <em
                     >印加人最著名的城市之一馬丘比丘遺址，海拔2430米，與守護神羊駝</em
@@ -133,7 +133,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+            <td class="unit" colspan="2" style="background-color:#e6992c;">
               <div class="unititle2">概要</div>
             </td>
           </tr>

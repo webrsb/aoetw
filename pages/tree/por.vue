@@ -1,6 +1,5 @@
 <template>
   <!-- Main jumbotron for a primary marketing message or call to action -->
-
   <div class="container">
     <!-- Example row of columns -->
     <div class="row padtop">
@@ -320,7 +319,7 @@
                 src="~assets/PaladinIcon.jpg"
               />
               <div>
-                <nuxt-link to="/units/Paladin" class="">遊俠</nuxt-link>
+                <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
               </div>
             </td>
             <td class="t19 trm not">
@@ -367,7 +366,6 @@
             <td style=" vertical-align: middle; " class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
-
             <td class="t23 trm">
               <img
                 class="gg"
@@ -628,7 +626,6 @@
             <td style=" vertical-align: middle; " class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
-
             <td class="t23 trm">
               <img class="gg" src="~assets/Townpatrol.jpg" alt="" />
               <div><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link></div>
@@ -672,7 +669,6 @@
             <td style=" vertical-align: middle; " class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
-
             <td class="t23 trm">
               <img class="gg" src="~assets/Horsecollar.jpg" alt="" />
               <div><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link></div>
@@ -724,7 +720,6 @@
             <td style=" vertical-align: middle; " class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
-
             <td class="t23 trm">
               <img class="gg" src="~assets/Doublebitaxe.jpg" alt="" />
               <div>
@@ -740,7 +735,6 @@
             <td style=" vertical-align: middle; " class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
-
             <td class="t23 trm">
               <img class="gg" src="~assets/Bowsaw.jpg" alt="" />
               <div><nuxt-link to="/techs/Bow_Saw">弓鋸</nuxt-link></div>
@@ -754,7 +748,6 @@
             <td style=" vertical-align: middle; " class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
-
             <td class="t23 trm">
               <img class="gg" src="~assets/Twomansaw.jpg" alt="" />
               <div><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link></div>
@@ -780,7 +773,6 @@
             <td style=" vertical-align: middle; " class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
-
             <td class="t23 trm">
               <img class="gg" src="~assets/Goldmining.jpg" alt="" />
               <div><nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link></div>
@@ -800,7 +792,6 @@
             <td style=" vertical-align: middle; " class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
-
             <td class="t23 trm not">
               <img class="gg" src="~assets/Goldshaftmining.jpg" alt="" />
               <div>
@@ -855,7 +846,6 @@
             <td style=" vertical-align: middle; " class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
-
             <td class="t10 trm">
               <img class="gg" src="~assets/FireGalleyIcon.jpg" />
               <div><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link></div>
@@ -966,7 +956,6 @@
               <img class="gg" src="~assets/GalleonAoE2.jpg" />
               <div><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link></div>
             </td>
-
             <td class="t10 trm not">
               <img class="gg" src="~assets/LongboatIcon.jpg" />
               <div>
@@ -1009,7 +998,6 @@
               />
               <div><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link></div>
             </td>
-
             <td class="t10 trm not">
               <img
                 class="gg"
@@ -1037,7 +1025,6 @@
             <td style=" vertical-align: middle; " class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
-
             <td class="t19 trm">
               <img class="gg" src="~assets/Paddedarcherarmor.jpg" alt="" />
               <div>
@@ -1159,7 +1146,6 @@
             <td style=" vertical-align: middle; " class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
-
             <td class="t23 trm">
               <img class="gg" src="~assets/Cartography.jpg" />
               <div><nuxt-link to="/techs/Cartography">製圖學</nuxt-link></div>
@@ -1371,7 +1357,6 @@
             </td>
             <td class="t11 trm"></td>
           </tr>
-
           <tr>
             <td style=" vertical-align: middle; " class="t5 trm im">
               <div>

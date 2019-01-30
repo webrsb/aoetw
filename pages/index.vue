@@ -205,7 +205,7 @@
             <h4 style="margin-top:30px;text-align: left;">
               <strong>你知道嗎？</strong>
             </h4>
-            <div class="row" style="">
+            <div class="row">
               <div class="col-md-8">
                 <ul style="text-align:left;">
                   <li>
@@ -267,13 +267,11 @@
     </div>
   </section>
 </template>
-
 <script>
 export default {
   components: {}
 }
 </script>
-
 <style>
 .tit {
   background: url(~assets/title3.jpg);
@@ -283,13 +281,11 @@ export default {
   color: aliceblue;
   padding-top: 50px;
 }
-
 .tt2 {
   font-size: 30px;
   font-weight: bold;
   margin-right: 530px;
 }
-
 .tt {
   font-size: 45px;
   font-weight: bold;

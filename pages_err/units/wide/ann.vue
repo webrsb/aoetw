@@ -13,7 +13,7 @@
         <div class="col-md-8">野生動物是遊戲中出現的野外動物，牠們有的可以提供食物，是遊戲初期獲取食物的一大來源。而有些是對人類不友善的動物，牠們會主動攻擊我方單位（除了僧侶、斥侯、鷹勇士、國王與攻城武器）。</div>
         <div
         class="col-md-4">
-          <img src="~assets/okd.jpg" width="300px;" alt="">
+          <img src="~assets/okd.jpg" width="300" alt="">
           <p>在非洲王國出現的野生動物。</p>
       </div>
       <div class="col-md-12">

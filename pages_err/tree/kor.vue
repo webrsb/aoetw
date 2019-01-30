@@ -173,7 +173,7 @@
           <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></td>
            <td class="t23 trm"><img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/SiegeRamIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Siege_Ram" class="not">重型衝撞車</nuxt-link></div></td>
           <td class="t23 trm"><img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Onager">中型投石車</nuxt-link></div><i class="fas fa-arrow-down"></i><br/>
-            <img class="gg " src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/Siege_units/Onager" class="">重型投石車</nuxt-link></div></td>
+            <img class="gg " src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/Siege_units/Onager" >重型投石車</nuxt-link></div></td>
           <td class="t23 trm not"><img class="gg" src="~assets/HeavyScorpionIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link></div></td>    
           <td class="t23 trm "><img class="gg" src="~assets/BombardCannonIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link></div></td>     
         </tr>
@@ -516,7 +516,7 @@
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><div><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></div></td>
         <td class="t11 trm "><img class="gg" src="~assets/Architecture.jpg" alt=""><div><nuxt-link to="/techs/Architecture">建築學</nuxt-link></div></td>
-        <td class="t11 trm"><img class="gg" src="~assets/Chemistry.jpg" alt=""><div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg " src="~assets/Bombard-tower-research.jpg" alt=""><div><nuxt-link to="/building/Bombard_Tower" class="">火砲塔</nuxt-link></div></td>
+        <td class="t11 trm"><img class="gg" src="~assets/Chemistry.jpg" alt=""><div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg " src="~assets/Bombard-tower-research.jpg" alt=""><div><nuxt-link to="/building/Bombard_Tower" >火砲塔</nuxt-link></div></td>
         <td class="t11 trm"><img class="gg" src="~assets/Siegeengineers.jpg" alt=""><div><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link></td>
         <td class="t11 trm <img class="gg" src="~assets/Keep-research.jpg" alt=""><div><nuxt-link to="/units/Keep">大型箭塔</nuxt-link></div></td>
         <td class="t11 trm"><img class="gg" src="~assets/Arrowlits.jpg" alt=""><div><nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link></div></td>

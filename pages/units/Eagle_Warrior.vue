@@ -1,7 +1,6 @@
 <template>
   <!-- Main jumbotron for a primary marketing message or call to action
     -->
-
   <div class="container">
     <!-- Example row of columns -->
     <div class="row padtop">
@@ -220,7 +219,6 @@
               >資料片有)
             </td>
           </tr>
-
           <tr>
             <td class="tta1" style="width:10%">視野</td>
             <td class="tta4">
@@ -568,7 +566,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle"><nuxt-link to="">鷹勇士</nuxt-link></div>
             </td>
           </tr>
@@ -580,7 +578,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">
                 <nuxt-link to="">單位介紹</nuxt-link>
               </div>
@@ -625,7 +623,7 @@
             <td class="unit4">35秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
@@ -638,7 +636,7 @@
             <td class="unit4">20</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
@@ -700,7 +698,7 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2">
                 <nuxt-link to="">單位演變</nuxt-link>
               </div>

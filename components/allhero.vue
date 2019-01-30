@@ -7,12 +7,12 @@
       <div class="col-md-12">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#a9130f;">
+            <td class="unit" colspan="2" style="background-color:#a9130f;">
               <div class="unititle" style="color: #fff;">英雄</div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d2660e;">
+            <td class="unit" colspan="2" style="background-color:#d2660e;">
               <div style="color: #fff;text-align: center; padding: 2px;">
                 <img
                   src="~assets/KingsIcon.png"
@@ -59,7 +59,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d2660e;">
+            <td class="unit" colspan="2" style="background-color:#d2660e;">
               <div style="color: #fff;text-align: center; padding: 2px;">
                 <img
                   src="~assets/ConquerorsIcon.png"
@@ -84,7 +84,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d2660e;">
+            <td class="unit" colspan="2" style="background-color:#d2660e;">
               <div style="color: #fff;text-align: center; padding: 2px;">
                 <img
                   src="~assets/ForgottenIcon.png"
@@ -109,7 +109,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d2660e;">
+            <td class="unit" colspan="2" style="background-color:#d2660e;">
               <div style="color: #fff;text-align: center; padding: 2px;">
                 <img
                   src="~assets/AfricanIcon.png"
@@ -139,7 +139,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#d2660e;">
+            <td class="unit" colspan="2" style="background-color:#d2660e;">
               <div style="color: #fff;text-align: center; padding: 2px;">
                 <img
                   src="~assets/RajaIcon.png"

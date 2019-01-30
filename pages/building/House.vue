@@ -250,7 +250,6 @@
             </li>
           </ul>
         </div>
-
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="col-md-4">
@@ -289,7 +288,6 @@
             <p><em>所有封建時代的房屋(HD擴充資料片)。</em></p>
           </div>
         </div>
-
         <div class="col-md-4">
           <nuxt-link to="/img/Houseaokaoc.png"
             ><img
@@ -326,7 +324,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle"><nuxt-link to="">房屋</nuxt-link></div>
             </td>
           </tr>
@@ -338,7 +336,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
@@ -365,7 +363,7 @@
             <td class="unit4">25秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
             </td>
           </tr>
@@ -374,7 +372,7 @@
             <td class="unit4">25</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
               <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>

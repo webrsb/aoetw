@@ -68,7 +68,7 @@
           <td class="t19 trm not"><img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt=""><div><nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link></div>
             <i class="fas fa-arrow-down"></i>
             <br/>
-         <img class="gg " src="~assets/ChampionIcon.jpg" alt=""><div><nuxt-link to="/units/Champion" class="">劍兵勇士</nuxt-link></div></td>
+         <img class="gg " src="~assets/ChampionIcon.jpg" alt=""><div><nuxt-link to="/units/Champion" >劍兵勇士</nuxt-link></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/HalberdierIcon.jpg" alt=""><div><nuxt-link to="/units/Halberdier">戟兵</nuxt-link></div></td>
 　　　　    <td class="t19 trm not"><img class="gg"  src="~assets/EliteEagleWarriorIcon.jpg" alt=""><div><nuxt-link to="/units/Eagle_Warrior">精銳鷹勇士</nuxt-link></div></td>
 　　　　　  <td class="t19 trm not"> <img class="gg"   src="~assets/CondottieroNewIcon.jpg" alt=""><div><nuxt-link to="/units/Condottiero">傭兵</nuxt-link></div></td>      
@@ -147,7 +147,7 @@
           <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></td>
           <td class="t19 trm"><img class="gg" src="~assets/HussarIcon.jpg"><div><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/CavalierIcon.jpg"><div><nuxt-link to="/units/Cavalier">騎兵</nuxt-link></div>
-            <i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/PaladinIcon.jpg"><div><nuxt-link to="/units/Paladin" class="">遊俠</nuxt-link></div></td>
+            <i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/PaladinIcon.jpg"><div><nuxt-link to="/units/Paladin" >遊俠</nuxt-link></div></td>
           <td class="t19 trm"><img class="gg" src="~assets/HeavyCamelIcon.jpg"><div><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg not" src="~assets/ImperialCamelIcon.jpg"><div><nuxt-link to="/Imperial_units/Camel" class="not">帝王駱駝騎兵</nuxt-link></div></td>
           <td class="t19 trm not"><img class="gg" src="~assets/Battleelephanticon.png"><div><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link></div></td>
           <td class="t19 trm"></td>
@@ -171,9 +171,9 @@
  </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></td>
-           <td class="t23 trm"><img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/SiegeRamIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Siege_Ram" class="">重型衝撞車</nuxt-link></div></td>
+           <td class="t23 trm"><img class="gg" src="~assets/CappedRamIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg" src="~assets/SiegeRamIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Siege_Ram" >重型衝撞車</nuxt-link></div></td>
           <td class="t23 trm"><img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Onager">中型投石車</nuxt-link></div><i class="fas fa-arrow-down"></i><br/>
-            <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/Siege_units/Onager" class="">重型投石車</nuxt-link></div></td>
+            <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt=""><div><nuxt-link to="/Siege_units/Onager" >重型投石車</nuxt-link></div></td>
           <td class="t23 trm "><img class="gg" src="~assets/HeavyScorpionIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link></div></td>    
           <td class="t23 trm "><img class="gg" src="~assets/BombardCannonIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link></div></td>     
         </tr>
