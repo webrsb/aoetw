@@ -1,0 +1,241 @@
+<template>
+  <!-- Main jumbotron for a primary marketing message or call to action
+    -->
+  <div class="container">
+    <!-- Example row of columns -->
+    <div class="row padtop">
+      <div class="col-md-12">
+        <h1>畜牧培育</h1>
+        <div class="hrn1"></div>
+      </div>
+      <div class="col-md-8">
+        <div class="n1">
+          <p>
+            畜牧培育於
+            <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Stable">馬厩</nuxt-link
+            >研發。研發後所有騎乘單位移速+10％。
+          </p>
+          <p>
+            一般來說打帶跑單位如:<nuxt-link to="/Cavalry_units/Archer"
+              >馬弓騎兵</nuxt-link
+            >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>或
+            <nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
+            >等，都需要優先研發此科技。相對的，如對方是打帶跑單位，而你的<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵單位</nuxt-link
+            >就必須研發畜牧培育，以免被風箏。
+          </p>
+        </div>
+        <h3>可研發文明</h3>
+        <div class="hrn1"></div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="n1">
+              <h4>
+                <strong
+                  ><span
+                    class="glyphicon glyphicon-ok okc"
+                    aria-hidden="true"
+                  ></span
+                  ><span class="" style="margin-left: 2px;"
+                    >可研發</span
+                  ></strong
+                >
+              </h4>
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">埃塞俄比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法國</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>。
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="n1">
+              <h4>
+                <strong
+                  ><span
+                    class="glyphicon glyphicon-remove noc"
+                    aria-hidden="true"
+                  ></span
+                  ><span class="" style="margin-left: 2px;"
+                    >不可研發</span
+                  ></strong
+                >
+              </h4>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">瑪雅</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+            </div>
+          </div>
+        </div>
+        <h3>文明加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >：科技在城堡/帝王時代各便宜15%/20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">法國</nuxt-link>：在研發
+              <nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link>
+              後，畜牧培育研發速度快40％。
+            </li>
+          </ul>
+        </div>
+        <h3>團隊加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              >：畜牧培育研發速度快20%。
+            </li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>畜牧培育需要花費250肉。</li>
+            <li>畜牧培育研發時間為50秒。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>版本4.8以後，畜牧培育需要花費150肉。</li>
+            <li>版本4.8以後，畜牧培育研發時間為40秒。</li>
+          </ul>
+        </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            在中古世紀由騎士統治的時代，飼養和提供馬匹是畜牧的一部分，是一份很重要的工作。騎士的重裝甲需要良好的馬匹才能在戰場上奔馳，而輕騎兵與偵查兵在偵查敵人時需要快速而靈活的馬匹，中世紀的畜牧者為不同的作戰需求提供不同能力的馬匹。
+          </p>
+          <p>
+            人類自第一次馴養動物以來，已經有數千年的歷史了，在中世紀歐洲孕育了不同種類的馬，有偵查用的馬匹與作戰用的馬匹。蒙古人之所以能在歐亞大陸所向匹敵，其中一個原因就是其高超的畜牧技術，他們所馴養的馬匹其速度與耐力都讓歐洲的對手難以望其項背。
+          </p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#31b0d5;">
+              <div class="unititle"><nuxt-link to="">畜牧培育</nuxt-link></div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <div class="unititle">
+                <img src="~assets/Husbandry.jpg" width="45" alt="" />
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#31b0d5;">
+              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">文明</td>
+            <td class="unit4">請看介紹</td>
+          </tr>
+          <tr>
+            <td class="unit3">時代</td>
+            <td class="unit4">
+              <img
+                class="gg"
+                src="~assets/Castle-age-reseach.jpg"
+                alt=""
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">研發於</td>
+            <td class="unit4">
+              <img class="gg" src="~assets/Stableicon.png" alt="" /><nuxt-link
+                to="/building/Stable"
+                >馬厩</nuxt-link
+              >
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">研發時間</td>
+            <td class="unit4">40秒</td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#31b0d5;">
+              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">肉</td>
+            <td class="unit4">150</td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#31b0d5;">
+              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">影響</td>
+            <td class="unit4">騎乘單位移速+10％</td>
+          </tr>
+        </table>
+
+        <div class="thanks">感謝! 此頁面由yaukmd協助編輯</div>
+        <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
+          </div>
+          <div style="margin-left: 60px;">
+            維基百科上的畜牧培育
+            <div style="margin-left: 10px;">
+              <i
+                ><b><a href="http://tinyurl.com/yc2drw3u">畜牧業</a></b></i
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+<script>
+export default {
+  layout: 'alltech',
+  components: {}
+}
+</script>
+<style></style>
