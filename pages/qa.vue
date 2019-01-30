@@ -28,7 +28,7 @@
                   <tr>
                     <td>
                       《<nuxt-link
-                        to="//wiki/%E4%B8%96%E7%B4%80%E5%B8%9D%E5%9C%8BII%EF%BC%9A%E5%BE%81%E6%9C%8D%E8%80%85%E5%85%A5%E4%BE%B5"
+                        to="/games/aoc"
                         title="世紀帝國II：征服者入侵"
                         >世紀帝國II：征服者入侵</nuxt-link
                       >》
@@ -36,17 +36,17 @@
                     <td>2000年8月24日</td>
                     <td>
                       <nuxt-link
-                        to="//wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B8%9D%E5%9C%8B"
+                        to="/civs/Spanish"
                         title="西班牙帝國"
                         >西班牙</nuxt-link
                       >，
                       <nuxt-link
-                        to="//wiki/%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B"
+                        to="/civs/Aztecs"
                         class="mw-redirect"
                         title="阿茲特克"
                         >阿茲特克</nuxt-link
                       >，<nuxt-link
-                        to="//wiki/%E9%A9%AC%E9%9B%85%E6%96%87%E6%98%8E"
+                        to="/civs/Huns"
                         class="mw-redirect"
                         title="馬雅文明"
                         >馬雅</nuxt-link
@@ -54,7 +54,7 @@
                         >匈奴</nuxt-link
                       >，
                       <nuxt-link
-                        to="//wiki/%E6%9D%8E%E6%B0%8F%E6%9C%9D%E9%B2%9C"
+                        to="/civs/Koreans"
                         title="李氏朝鮮"
                         >韓國</nuxt-link
                       >
@@ -63,7 +63,7 @@
                   <tr>
                     <td>
                       《<nuxt-link
-                        to="//wiki/%E4%B8%96%E7%B4%80%E5%B8%9D%E5%9C%8BII%EF%BC%9A%E5%A4%B1%E8%90%BD%E7%9A%84%E5%B8%9D%E5%9C%8B"
+                        to="/games/aof"
                         title="世紀帝國II：失落的帝國"
                         >世紀帝國II：失落的帝國</nuxt-link
                       >》
@@ -71,25 +71,25 @@
                     <td>2013年11月7日</td>
                     <td>
                       <nuxt-link
-                        to="//wiki/%E5%8D%B0%E5%BA%A6%E6%AD%B7%E5%8F%B2"
+                        to="/civs/Indians"
                         class="mw-redirect"
                         title="印度歷史"
                         >印度</nuxt-link
                       >，<nuxt-link
-                        to="//wiki/%E7%BE%A9%E5%A4%A7%E5%88%A9%E6%AD%B7%E5%8F%B2"
+                        to="/civs/Italians"
                         title="義大利歷史"
                         >義大利</nuxt-link
                       >，<nuxt-link
-                        to="//wiki/%E5%8D%B0%E5%8A%A0"
+                        to="/civs/Incas"
                         class="mw-redirect"
                         title="印加"
                         >印加</nuxt-link
                       >，<nuxt-link
-                        to="//wiki/%E5%8C%88%E7%89%99%E5%88%A9%E5%8E%86%E5%8F%B2"
+                        to="/civs/Magyars"
                         title="匈牙利歷史"
                         >馬札爾</nuxt-link
                       >，<nuxt-link
-                        to="//wiki/%E6%96%AF%E6%8B%89%E5%A4%AB"
+                        to="/civs/Slavs"
                         class="mw-redirect"
                         title="斯拉夫"
                         >斯拉夫</nuxt-link
@@ -99,31 +99,30 @@
                   <tr>
                     <td>
                       《<nuxt-link
-                        to="//wiki/%E4%B8%96%E7%BA%AA%E5%B8%9D%E5%9B%BDII%EF%BC%9A%E9%9D%9E%E6%B4%B2%E7%8E%8B%E5%9B%BD"
-                        title="世紀世紀II：非洲王國"
+                        to="/games/ak" title="世紀世紀II：非洲王國"
                         >世紀帝國II：非洲王國</nuxt-link
                       >》
                     </td>
                     <td>2015年11月5日</td>
                     <td>
                       <nuxt-link
-                        to="//wiki/%E6%9F%8F%E6%9F%8F%E5%B0%94"
+                        to="/civs/Berbers"
                         class="mw-redirect"
                         title="柏柏爾"
                         >柏柏爾</nuxt-link
                       >，
                       <nuxt-link
-                        to="//wiki/%E9%A6%AC%E9%87%8C"
+                        to="/civs/Malians"
                         class="mw-redirect"
                         title="馬里"
                         >馬里</nuxt-link
                       >，<nuxt-link
-                        to="//wiki/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E"
+                        to="/civs/Ethiopians"
                         class="mw-redirect"
                         title="衣索比亞"
                         >衣索比亞</nuxt-link
                       >，<nuxt-link
-                        to="//wiki/%E8%91%A1%E8%90%84%E7%89%99%E5%B8%9D%E5%9C%8B"
+                        to="/civs/Portuguese"
                         title="葡萄牙帝國"
                         >葡萄牙</nuxt-link
                       >
@@ -132,29 +131,28 @@
                   <tr>
                     <td>
                       《<nuxt-link
-                        to="//wiki/%E4%B8%96%E7%B4%80%E5%B8%9D%E5%9C%8BII%EF%BC%9A%E6%8B%89%E8%80%85%E5%B4%9B%E8%B5%B7"
-                        title="世紀帝國II：拉者崛起"
+                        to="/games/aor" title="世紀帝國II：王者崛起"
                         >世紀帝國II：王者崛起</nuxt-link
                       >》
                     </td>
                     <td>2016年12月20日</td>
                     <td>
                       <nuxt-link
-                        to="//wiki/%E7%B7%AC%E7%94%B8"
+                        to="/civs/Burmese"
                         class="mw-redirect"
                         title="緬甸"
                         >緬甸</nuxt-link
                       >，
-                      <nuxt-link to="//wiki/%E8%B6%8A%E5%8D%97" title="越南"
+                      <nuxt-link to="/civs/Vietnamese" title="越南"
                         >越南</nuxt-link
                       >，<nuxt-link
-                        to="//wiki/%E9%AB%98%E6%A3%89"
+                        to="/civs/Khmer"
                         class="mw-disambig"
                         title="高棉"
                         >高棉</nuxt-link
                       >，
                       <nuxt-link
-                        to="//wiki/%E9%A6%AC%E4%BE%86"
+                        to="/civs/Malay"
                         class="mw-disambig"
                         title="馬來"
                         >馬來</nuxt-link

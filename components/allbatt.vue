@@ -8,17 +8,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#274a7d;">
-              <div class="unititle"><nuxt-link to="">世紀帝國戰役</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="/batt">世紀帝國戰役</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to=""
+                <nuxt-link to="/games/aok"
                   ><img
                     src="~assets/KingsIcon.png"
                     style="margin-right:5px"
-                  />帝王時代</nuxt-link>
+                  />帝王世紀</nuxt-link>
               </div>
             </td>
           </tr>
@@ -91,11 +91,11 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to=""
+                <nuxt-link to="/games/aoc"
                   ><img
                     src="~assets/ConquerorsIcon.png"
                     style="margin-right:5px"
-                  />征服者戰役</nuxt-link>
+                  />征服者入侵</nuxt-link>
               </div>
             </td>
           </tr>
@@ -156,11 +156,11 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to=""
+                <nuxt-link to="/games/aof"
                   ><img
                     src="~assets/ForgottenIcon.png"
                     style="margin-right:5px"
-                  />失落帝國戰役</nuxt-link>
+                  />失落帝國</nuxt-link>
               </div>
             </td>
           </tr>
@@ -250,11 +250,11 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to=""
+                <nuxt-link to="/games/ak"
                   ><img
                     src="~assets/AfricanIcon.png"
                     style="margin-right:5px"
-                  />非洲王國戰役</nuxt-link>
+                  />非洲王國</nuxt-link>
               </div>
             </td>
           </tr>
@@ -287,7 +287,7 @@
               <nuxt-link to="/Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/The_Old_World.php">舊世界非洲雄獅</nuxt-link>。
+              <nuxt-link to="/The_Old_World.php">舊世界</nuxt-link>。
               <nuxt-link to="/Lion_of_Africa.php">非洲雄獅</nuxt-link>。
               <nuxt-link to="/Ruins_of_Empires.php">帝國的廢墟</nuxt-link>。
               <nuxt-link to="/Estado_da_India.php">葡屬印度</nuxt-link>。
@@ -309,11 +309,11 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#3a73c7;">
               <div class="unititle2">
-                <nuxt-link to=""
+                <nuxt-link to="/games/aor"
                   ><img
                     src="~assets/RajaIcon.png"
                     style="margin-right:5px"
-                  />王者崛起戰役</nuxt-link>
+                  />王者崛起</nuxt-link>
               </div>
             </td>
           </tr>
@@ -334,7 +334,7 @@
               <nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Usurpation">揭竿而起</nuxt-link>
+              <nuxt-link to="/batt/Usurpation">揭竿而起</nuxt-link>。
               <nuxt-link to="/batt/Quelling_the_Rebellion">席捲入荒</nuxt-link>。
               <nuxt-link to="/batt/A_Dangerous_Mission">九死一生</nuxt-link>。
               <nuxt-link to="/batt/Challenging_a_Thalassocrac">滔天巨浪</nuxt-link>。

@@ -188,7 +188,7 @@
 </template>
 <script>
 export default {
-  layout: 'allunit',
+  layout: 'foot',
   components: {}
 }
 </script>

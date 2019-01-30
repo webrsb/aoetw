@@ -14,8 +14,8 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to=""
-                  ><img src="~assets/KingsIcon.png" />帝王時代</nuxt-link
+                <nuxt-link to="/games/aok"
+                  ><img src="~assets/KingsIcon.png" />帝王世紀</nuxt-link
                 >
               </div>
             </td>
@@ -58,7 +58,7 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to="">
+                <nuxt-link to="/games/aoc">
                   <img src="~assets/ConquerorsIcon.png" />征服者入侵</nuxt-link
                 >
               </div>
@@ -94,10 +94,10 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to=""
+                <nuxt-link to="/games/aof"
                   ><img
                     src="~assets/ForgottenIcon.png"
-                  />被遺忘的王朝</nuxt-link
+                  />世紀帝國II：失落的帝國</nuxt-link
                 >
               </div>
             </td>
@@ -132,7 +132,7 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to=""
+                <nuxt-link to="/games/ak"
                   ><img src="~assets/AfricanIcon.png" />非洲王國</nuxt-link
                 >
               </div>
@@ -143,12 +143,12 @@
               <div class="unitcontent">
                 非洲
                 <ul>
-                  <li><nuxt-link to="/civs/Malians">馬利</nuxt-link></li>
+                  <li><nuxt-link to="/civs/Malians">馬里</nuxt-link></li>
                   <li><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link></li>
                 </ul>
                 中東
                 <ul>
-                  <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link></li>
+                  <li><nuxt-link to="/civs/Berbers">柏柏爾</nuxt-link></li>
                 </ul>
                 地中海
                 <ul>
@@ -164,7 +164,7 @@
           <tr>
             <td class="unitc">
               <div class="unititle">
-                <nuxt-link to=""
+                <nuxt-link to="/games/aor"
                   ><img src="~assets/RajaIcon.png" />王者崛起</nuxt-link
                 >
               </div>
