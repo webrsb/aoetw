@@ -35,9 +35,7 @@
                     </td>
                     <td>2000年8月24日</td>
                     <td>
-                      <nuxt-link
-                        to="/civs/Spanish"
-                        title="西班牙帝國"
+                      <nuxt-link to="/civs/Spanish" title="西班牙帝國"
                         >西班牙</nuxt-link
                       >，
                       <nuxt-link
@@ -46,16 +44,13 @@
                         title="阿茲特克"
                         >阿茲特克</nuxt-link
                       >，<nuxt-link
-                        to="/civs/Huns"
+                        to="/civs/Mayans"
                         class="mw-redirect"
                         title="馬雅文明"
                         >馬雅</nuxt-link
-                      >，<nuxt-link to="//wiki/%E5%8C%88%E4%BA%BA" title="匈人"
-                        >匈奴</nuxt-link
+                      >，<nuxt-link to="/civs/Huns" title="匈人">匈奴</nuxt-link
                       >，
-                      <nuxt-link
-                        to="/civs/Koreans"
-                        title="李氏朝鮮"
+                      <nuxt-link to="/civs/Koreans" title="李氏朝鮮"
                         >韓國</nuxt-link
                       >
                     </td>
@@ -75,18 +70,14 @@
                         class="mw-redirect"
                         title="印度歷史"
                         >印度</nuxt-link
-                      >，<nuxt-link
-                        to="/civs/Italians"
-                        title="義大利歷史"
+                      >，<nuxt-link to="/civs/Italians" title="義大利歷史"
                         >義大利</nuxt-link
                       >，<nuxt-link
                         to="/civs/Incas"
                         class="mw-redirect"
                         title="印加"
                         >印加</nuxt-link
-                      >，<nuxt-link
-                        to="/civs/Magyars"
-                        title="匈牙利歷史"
+                      >，<nuxt-link to="/civs/Magyars" title="匈牙利歷史"
                         >馬札爾</nuxt-link
                       >，<nuxt-link
                         to="/civs/Slavs"
@@ -98,8 +89,7 @@
                   </tr>
                   <tr>
                     <td>
-                      《<nuxt-link
-                        to="/games/ak" title="世紀世紀II：非洲王國"
+                      《<nuxt-link to="/games/ak" title="世紀世紀II：非洲王國"
                         >世紀帝國II：非洲王國</nuxt-link
                       >》
                     </td>
@@ -121,17 +111,14 @@
                         class="mw-redirect"
                         title="衣索比亞"
                         >衣索比亞</nuxt-link
-                      >，<nuxt-link
-                        to="/civs/Portuguese"
-                        title="葡萄牙帝國"
+                      >，<nuxt-link to="/civs/Portuguese" title="葡萄牙帝國"
                         >葡萄牙</nuxt-link
                       >
                     </td>
                   </tr>
                   <tr>
                     <td>
-                      《<nuxt-link
-                        to="/games/aor" title="世紀帝國II：王者崛起"
+                      《<nuxt-link to="/games/aor" title="世紀帝國II：王者崛起"
                         >世紀帝國II：王者崛起</nuxt-link
                       >》
                     </td>

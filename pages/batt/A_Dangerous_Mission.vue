@@ -158,7 +158,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
-                <nuxt-link to="/A_Dangerous_Mission">九死一生</nuxt-link>
+                九死一生
               </div>
             </td>
           </tr>
@@ -200,13 +200,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/Quelling_the_Rebellion">席捲八荒</nuxt-link>
+              <nuxt-link to="/batt/Quelling_the_Rebellion">席捲入荒</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/Challenging_a_techs/Thalassocracy"
+              <nuxt-link to="/batt/Challenging_a_Thalassocrac"
                 >滔天巨浪</nuxt-link
               >
             </td>

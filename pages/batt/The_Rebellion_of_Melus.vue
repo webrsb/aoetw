@@ -33,6 +33,7 @@
               <td class="tc2" width="5%">200</td>
             </tr>
           </table>
+
           <h3>AI</h3>
           <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
             #ff911d; margin-left: 5px;"></span>:中立</p>!-->
@@ -80,6 +81,7 @@
               <td class="tc6">反叛軍（橘色）哥德</td>
             </tr>
           </table>
+
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
@@ -267,6 +269,7 @@
             </td>
           </tr>
         </table>
+
         <div class="thanks">感謝！此頁面由裕暉、阿湖協助編輯</div>
       </div>
     </div>
