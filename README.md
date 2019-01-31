@@ -38,4 +38,4 @@ export default {
 
 ## 預設路徑設定
 目前編譯的預設網址為 http://127.0.0.1:3000/next/
-`nuxt.config.js` 的 `router` 可以改路徑
+進入資料夾 router/router.js 修改預設路徑
