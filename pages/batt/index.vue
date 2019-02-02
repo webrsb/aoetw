@@ -1528,7 +1528,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Three-Pronged_Attack"
+                    <nuxt-link to="/batt/A_Three_Pronged_Attack"
                       >兵分三路</nuxt-link
                     >
                   </div>

@@ -362,7 +362,7 @@
               <nuxt-link to="/batt/The_Mountain_Siege">至靈山魂</nuxt-link>。
               <nuxt-link to="/batt/The_Battle_at_Hanoi">圍困昇龍</nuxt-link>。
               <nuxt-link to="/batt/Reaching_South">揮師南下</nuxt-link>。
-              <nuxt-link to="/batt/A_Three-Pronged_Attack">兵分三路</nuxt-link>。
+              <nuxt-link to="/batt/A_Three_Pronged_Attack">兵分三路</nuxt-link>。
               <nuxt-link to="/batt/The_Final_Fortress">決戰東都</nuxt-link>
             </td>
           </tr>

@@ -196,7 +196,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Three-Pronged_Attack">三面攻勢</nuxt-link>
+              <nuxt-link to="/batt/A_Three_Pronged_Attack">三面攻勢</nuxt-link>
             </td>
           </tr>
         </table>

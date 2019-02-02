@@ -175,7 +175,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
-                <nuxt-link to="/batt/A_Three-Pronged_Attack"
+                <nuxt-link to="/batt/A_Three_Pronged_Attack"
                   >兵分三路</nuxt-link
                 >
               </div>

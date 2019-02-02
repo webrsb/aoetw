@@ -824,7 +824,7 @@
                     class="gg"
                     src="~assets/Admiral_Yi_Sun_Shin.png"
                     alt=""
-                  /><nuxt-link to="/units/hero/Admiral_Yi_Sun-Shin"
+                  /><nuxt-link to="/units/hero/Admiral_Yi_Sun_Shin"
                     >李舜臣將軍</nuxt-link
                   >
                 </td>

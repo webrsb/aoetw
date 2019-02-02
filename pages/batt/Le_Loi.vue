@@ -55,7 +55,7 @@
                   <nuxt-link to="/batt/Reaching_South">揮師南下</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/batt/A_Three-Pronged_Attack"
+                  <nuxt-link to="/batt/A_Three_Pronged_Attack"
                     >兵分三路</nuxt-link
                   >
                 </li>

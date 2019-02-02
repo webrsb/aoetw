@@ -178,7 +178,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Three-Pronged_Attack">兵分三路</nuxt-link>
+              <nuxt-link to="/batt/A_Three_Pronged_Attack">兵分三路</nuxt-link>
             </td>
           </tr>
           <tr>
