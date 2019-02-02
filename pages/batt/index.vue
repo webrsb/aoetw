@@ -586,14 +586,14 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Tours">都爾(732)</nuxt-link>
+                    <nuxt-link to="/batt/Tours_732">都爾(732)</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Vindlandsaga(1000).php"
+                    <nuxt-link to="batt/Vindlandsaga_1000"
                       >芬特蘭撒格(1000)</nuxt-link
                     >
                   </div>
@@ -602,8 +602,8 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Hastings(1066)"
-                      >哈斯汀斯(1066)</nuxt-link
+                    <nuxt-link to="/batt/Hastings_1066">
+                      哈斯汀斯(1066)</nuxt-link
                     >
                   </div>
                 </td>
@@ -611,7 +611,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Manzikert(1071)"
+                    <nuxt-link to="/batt/Manzikert_1071"
                       >曼奇克托(1071)</nuxt-link
                     >
                   </div>
@@ -620,7 +620,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Agincourt(1415)"
+                    <nuxt-link to="/batt/Agincourt_1415"
                       >亞琴哥特(1415)</nuxt-link
                     >
                   </div>
@@ -629,21 +629,23 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Lepanto">勒班陀(1571)</nuxt-link>
+                    <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Kyoto(1582).php">京都(1582)</nuxt-link>
+                    <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Noryang_Point">洛陽點(1598)</nuxt-link>
+                    <nuxt-link to="/batt/NoryangPoint_1598"
+                      >洛陽點(1598)</nuxt-link
+                    >
                   </div>
                 </td>
               </tr>
@@ -680,7 +682,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Legionaries_on_the_Horizon!.php"
+                    <nuxt-link to="/batt/Legionaries_on_the_Horizon"
                       >羅馬軍團隨時殺到</nuxt-link
                     >
                   </div>
@@ -1032,9 +1034,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Kurikara(1183)"
-                      >礪波山(1183)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>
                   </div>
                 </td>
               </tr>

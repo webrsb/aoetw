@@ -213,11 +213,15 @@
               </tr>
               <tr>
                 <td class="unit3">上一關</td>
-                <td class="Agincourt.php">亞琴哥特(1415)</td>
+                <td>
+                  <nuxt-link to="/batt/Agincourt_1415"
+                    >亞琴哥特(1415)</nuxt-link
+                  >
+                </td>
               </tr>
               <tr>
                 <td class="unit3">下一關</td>
-                <td class="Kyoto.php">京都(1582)</td>
+                <td><nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link></td>
               </tr>
             </table>
 

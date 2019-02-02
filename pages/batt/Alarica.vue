@@ -47,7 +47,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/10. Alaric.jpg" width="300" alt="" />
+              <img src="~assets/Alaric_10.jpg" width="300" alt="" />
               <p>阿拉里克戰役地圖</p>
             </div>
           </div>
