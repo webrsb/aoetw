@@ -28,13 +28,16 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    { src: '@static/style.css', lang: 'css' }
+    { src: '@static/style.css', lang: 'css' },
+    { src: 'codemirror/lib/codemirror.css', lang: 'css' }
   ],
 
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [],
+  plugins: [
+    '~plugins/codemirror.js'
+  ],
 
   /*
   ** Nuxt.js modules
@@ -61,6 +64,9 @@ module.exports = {
     */
     quiet: false,
     extend(config, ctx) {
+      config.resolve.alias.vue = 'vue/dist/vue.common'
+      config.resolveLoader.alias = config.resolveLoader.alias || {}
+
       if (process.env.NODE_ENV === 'development') {
         return Object.assign({}, config, {
           devtool: 'source-map'
