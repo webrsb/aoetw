@@ -58,7 +58,7 @@
               <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>。
               <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>。
               <nuxt-link to="/batt/The_Siege_of_Jerusalem">耶路撒冷攻城戰</nuxt-link>。
-              <nuxt-link to="/Jihad!.php">聖戰</nuxt-link>。
+              <nuxt-link to="/batt/Jihad">聖戰</nuxt-link>。
               <nuxt-link to="/batt/The_Lion_and_the_Demon">獅子與惡魔</nuxt-link>
             </td>
           </tr>
@@ -143,14 +143,14 @@
               <nuxt-link to="/batt/Battles_of_the_Conquerors">征服者的戰役</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/Tours(732).php">都爾(732)</nuxt-link>。
-              <nuxt-link to="/Vindlandsaga(1000).php">芬特蘭撒格(1000)</nuxt-link>。
-              <nuxt-link to="/batt/Hastings(1066)">哈斯汀斯(1066)</nuxt-link>。
-              <nuxt-link to="/batt/Manzikert(1071)">曼奇克托(1071)</nuxt-link>。
-              <nuxt-link to="/batt/Agincourt(1415)">亞琴哥特(1415)</nuxt-link>。
-              <nuxt-link to="/batt/Lepanto(1571)">勒班陀(1571)</nuxt-link>。
-              <nuxt-link to="/Kyoto(1582).php">京都(1582)</nuxt-link>。
-              <nuxt-link to="/NoryangPoint(1598).php">洛陽點(1598)</nuxt-link>
+              <nuxt-link to="/batt/Tours_732">都爾(732)</nuxt-link>。
+              <nuxt-link to="/batt/Vindlandsaga_1000">芬特蘭撒格(1000)</nuxt-link>。
+              <nuxt-link to="/batt/Hastings_1066">哈斯汀斯(1066)</nuxt-link>。
+              <nuxt-link to="/batt/Manzikert_1071">曼奇克托(1071)</nuxt-link>。
+              <nuxt-link to="/batt/Agincourt_1415">亞琴哥特(1415)</nuxt-link>。
+              <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>。
+              <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>。
+              <nuxt-link to="/batt/NoryangPoint_1598">洛陽點(1598)</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -170,7 +170,7 @@
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City">條條大路通圍城</nuxt-link>。
-              <nuxt-link to="/Legionaries_on_the_Horizon!.php">羅馬軍團隨時殺到</nuxt-link>。
+              <nuxt-link to="/batt/Legionaries_on_the_Horizon">羅馬軍團隨時殺到</nuxt-link>。
               <nuxt-link to="/batt/Emperor_of_the_West">西域之君</nuxt-link>。
               <nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link>
             </td>
@@ -242,7 +242,7 @@
               <nuxt-link to="/Honfoglalás(895).php">征服家園(895)</nuxt-link>。
               <nuxt-link to="/Langshan_Jiang(919).php">狼山江(919)</nuxt-link>。
               <nuxt-link to="/Kaesong(936).php">開城(936)</nuxt-link>。
-              <nuxt-link to="/batt/Kurikara(1183)">礪波山(1183)</nuxt-link>。
+              <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>。
               <nuxt-link to="/Cyprus(1191).php">塞普勒斯(1191)</nuxt-link>。
               <nuxt-link to="/Bapheus(1302).php">巴菲烏斯(1302)</nuxt-link>
             </td>

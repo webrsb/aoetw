@@ -39,6 +39,7 @@ jobs:
       - run:
           command: |
             yarn run generate
+          no_output_timeout: 20m
       - run: mv $(pwd)/dist dist_cache
       - save_cache:
           paths:

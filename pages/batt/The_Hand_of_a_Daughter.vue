@@ -206,7 +206,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Sforza 3.jpg" alt="" />
+                <img src="~assets/Sforza_3.jpg" alt="" />
               </div>
             </td>
           </tr>

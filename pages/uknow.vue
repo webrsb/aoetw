@@ -92,7 +92,7 @@
           <h4><strong>2月</strong></h4>
           <ul style="text-align:left;">
             <li>
-              <nuxt-link to="/Lepanto">哪一場戰役</nuxt-link
+              <nuxt-link to="/batt/Lepanto_1571">哪一場戰役</nuxt-link
               >讓土耳其海軍遭受毀滅打擊，讓西班牙無敵艦隊登上世界舞台？
             </li>
             <li>
@@ -153,7 +153,7 @@
               >是全遊戲對野豬唯一有傷害加成的？
             </li>
             <li>
-              歷史上<nuxt-link to="/batt/Kurikara(1183)">哪一場戰役</nuxt-link
+              歷史上<nuxt-link to="/batt/Kurikara_1183">哪一場戰役</nuxt-link
               >把日本帶入了封建時代？
             </li>
           </ul>

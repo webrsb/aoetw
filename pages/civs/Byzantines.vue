@@ -222,11 +222,11 @@
       <nuxt-link to="/batt/Attila_the_Huna">征服者戰役</nuxt-link>
       <ul>
         <li>
-          <nuxt-link to="/batt/Manzikert(1071)">曼奇克托(1071)</nuxt-link
+          <nuxt-link to="/batt/Manzikert_1071">曼奇克托(1071)</nuxt-link
           >卡帕多細亞、西迪亞、格雷西亞、拜占庭軍隊
         </li>
         <li>
-          <nuxt-link to="/batt/Lepanto(1571)">勒班陀(1571)</nuxt-link>:希臘村莊
+          <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>:希臘村莊
         </li>
       </ul>
       <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>

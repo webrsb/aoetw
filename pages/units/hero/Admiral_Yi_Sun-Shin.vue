@@ -12,8 +12,9 @@
         <div class="n1">
           <p>
             李舜臣，韓國民族英雄，1545年生，曾多次使用海上戰術擊敗日本人，尤其出名的閒山島大捷，征服者戰役中的露梁海戰<nuxt-link
-              to="/Kyoto(1582).php"
-              >(洛陽點)</nuxt-link
+              to="/batt/Kyoto_1582"
+            >
+              (洛陽點)</nuxt-link
             >，為李舜臣戰死的戰爭。
           </p>
         </div>
@@ -45,7 +46,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                露梁海戰<nuxt-link to="/Kyoto(1582).php">(洛陽點)</nuxt-link>
+                露梁海戰<nuxt-link to="/batt/Kyoto_1582">(洛陽點)</nuxt-link>
               </td>
               <td class="tta2">探索前否,探索後可控制</td>
               <td class="tta3">

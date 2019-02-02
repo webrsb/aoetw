@@ -33,7 +33,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">松藍武士</td>
             <td class="tunitc6">
-              <nuxt-link to="/Legionaries_on_the_Horizon!.php"
+              <nuxt-link to="/batt/Legionaries_on_the_Horizon"
                 >羅馬軍團隨時殺到</nuxt-link
               >
             </td>
@@ -100,7 +100,7 @@
             <td class="tunitc4">騎兵</td>
             <td class="tunitc6">拜占庭聖騎兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/Legionaries_on_the_Horizon!.php"
+              <nuxt-link to="/batt/Legionaries_on_the_Horizon"
                 >羅馬軍團隨時殺到</nuxt-link
               >
             </td>
@@ -130,7 +130,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">擲斧兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/Tours(732).php">都爾(732)</nuxt-link>
+              <nuxt-link to="/batt/Tours_732">都爾(732)</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -204,7 +204,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">狂戰士</td>
             <td class="tunitc6">
-              <nuxt-link to="/Vindlandsaga(1000).php"
+              <nuxt-link to="batt/Vindlandsaga_1000"
                 >芬特蘭撒格(1000)</nuxt-link
               >
             </td>
@@ -518,7 +518,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">日本武士</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Kurikara(1183)">礪波山(1183)</nuxt-link>
+              <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -544,7 +544,8 @@
             <td class="tunitc6">
               <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
               <br /><nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link>
-              <br /><nuxt-link to="/Vindlandsaga(1000).php"
+              <br />
+              <nuxt-link to="batt/Vindlandsaga_1000"
                 >芬特蘭撒格(1000)</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Burmese_Tigers"
@@ -783,7 +784,7 @@
               <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
                 >條條大路通圍城</nuxt-link
               >
-              <br /><nuxt-link to="/Legionaries_on_the_Horizon!.php"
+              <br /><nuxt-link to="/batt/Legionaries_on_the_Horizon"
                 >羅馬軍團隨時殺到</nuxt-link
               >
             </td>
@@ -830,7 +831,7 @@
                 <td class="tunitc4">戰船</td>
                 <td class="tunitc6">龜甲船</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/Noryang Point(1598).php"
+                  <nuxt-link to="batt/NoryangPoint_1598"
                     >洛陽點(1598)</nuxt-link
                   >
                 </td>
@@ -937,9 +938,7 @@
                 <td class="tunitc4">步兵</td>
                 <td class="tunitc6">狂戰士</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Hastings(1066)"
-                    >哈斯汀斯(1066)</nuxt-link
-                  >
+                  <nuxt-link to="/batt/Hastings_1066">哈斯汀斯(1066)</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -953,7 +952,7 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">遊俠</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Agincourt(1415)"
+                  <nuxt-link to="/batt/Agincourt_1415"
                     >亞琴哥特(1415)</nuxt-link
                   >
                 </td>
@@ -1019,7 +1018,7 @@
                 <td class="tunitc4">步兵</td>
                 <td class="tunitc6">日本武士</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/Kyoto(1582).php">京都(1582)</nuxt-link>
+                  <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -1089,9 +1088,7 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">特殊</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Hastings(1066)"
-                    >哈斯汀斯(1066)</nuxt-link
-                  >
+                  <nuxt-link to="/batt/Hastings_1066">哈斯汀斯(1066)</nuxt-link>
                 </td>
               </tr>
             </table>
