@@ -5,12 +5,20 @@
     <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>戰役</h1>
+        <h1>戰役</h1> 
         <div class="row">
           <div class="col-md-12">
-            <p>遊戲中共有24關主戰役劇情</p>
+           <p></p>
+           <h5><b>遊戲中有5個版本、共24關主戰役劇情。</b></h5>
+           <div class="hrn1"></div>
+      　　 <p>　帝王世紀戰役 ➠ <a href="#1">【威廉華勒斯】</a>、<a href="#2">【聖女貞德】</a>、<a href="#3">【薩拉丁】</a>、<a href="#4">【成吉思汗】</a>、<a href="#5">【巴巴羅薩】</a></p>
+           <p>征服者入侵戰役 ➠ <a href="#6">【阿提拉】</a>、<a href="#7">【席德】</a>、<a href="#8">【蒙特蘇馬】</a>、<a href="#9">【征服者的戰役】</a></p>
+           <p>　失落帝國戰役 ➠ <a href="#10">【阿拉里克】</a>、<a href="#11">【德古拉】</a>、<a href="#12">【巴里】</a>、<a href="#13">【斯福爾札】</a>、<a href="#14">【黃金國】</a>、<a href="#15">【布里斯比羅吉】</a>、<a href="#16">【失落帝國的戰役】</a></p>
+           <p>　非洲王國戰役 ➠ <a href="#17">【塔里克．伊本．齊亞德】</a>、<a href="#18">【松迪亞塔】</a>、<a href="#19">【法蘭西斯科．阿爾梅達】</a>、<a href="#20">【遊娣特】</a></p>
+           <p>　王者崛起戰役 ➠ <a href="#21">【加查•馬達】</a>、<a href="#22">【蘇利耶跋摩一世】</a>、<a href="#23">【勃印曩】</a>、<a href="#24">【黎利】</a></p>
           </div>
         </div>
+　　　　<div class="hrn1"></div> <p></p>
         <h3><strong>帝王世紀戰役</strong></h3>
         <div class="row">
           <div class="col-md-4">
@@ -18,9 +26,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/William_Wallacea"
-                      >威廉華勒斯</nuxt-link
-                    >
+                    <div id="1"><nuxt-link to="/batt/William_Wallacea">威廉華勒斯</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -34,9 +40,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Marching_and_Fighting"
-                      >行軍與戰鬥</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Marching_and_Fighting">行軍與戰鬥</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -50,27 +54,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Training_the_Troops"
-                      >訓練軍隊</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Training_the_Troops">訓練軍隊</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Research_and_Technology"
-                      >研發與科技</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Research_and_Technology">研發與科技</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Battle_of_Stirling"
-                      >斯特林之役</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Battle_of_Stirling">斯特林之役</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -84,9 +82,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Battle_of_Falkirk"
-                      >福爾克之役</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Battle_of_Falkirk">福爾克之役</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -97,7 +93,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link>
+                    <div id="2"><nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -111,27 +107,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/An_Unlikely_Messiah"
-                      >一個不大可能的彌賽亞</nuxt-link
-                    >
+                    <nuxt-link to="/batt/An_Unlikely_Messiah" >一個不大可能的彌賽亞</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Maid_of_Orleans"
-                      >奧爾良的少女</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                      >羅亞爾河大掃蕩</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Cleansing_of_the_Loire">羅亞爾河大掃蕩</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -145,18 +135,14 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Siege_of_Paris"
-                      >巴黎攻城戰</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Perfect_Martyr"
-                      >完美的烈士</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -167,7 +153,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
+                    <div id="3"><nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -181,9 +167,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/An_Arabian_Knight"
-                      >阿拉伯騎士</nuxt-link
-                    >
+                    <nuxt-link to="/batt/An_Arabian_Knight">阿拉伯騎士</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -197,18 +181,14 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Horns_of_Hattin"
-                      >海丁的號角</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                      >耶路撒冷攻城戰</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Siege_of_Jerusalem">耶路撒冷攻城戰</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -222,9 +202,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Lion_and_the_Demon"
-                      >獅子與惡魔</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Lion_and_the_Demon">獅子與惡魔</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -235,7 +213,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
+                    <div id="4"><nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -256,9 +234,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Life_of_Revenge"
-                      >復仇的人生</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -272,9 +248,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Horde_Rides_West"
-                      >遊牧民族的西遷</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Horde_Rides_West">遊牧民族的西遷</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -288,9 +262,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Pax_Mongolia"
-                      >蒙古治下的和平</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Pax_Mongolia">蒙古治下的和平</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -301,7 +273,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
+                    <div id="5"><nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -315,9 +287,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Holy_Roman_Emperor"
-                      >神聖羅馬皇帝</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -331,50 +301,43 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Pope_and_Antipope"
-                      >教皇與僭稱教皇</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Lombard_League"
-                      >倫巴聯盟</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Barbarossas_March"
-                      >紅鬍子的行軍</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Emperor_Sleeping"
-                      >沉睡的皇帝</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Emperor_Sleeping">沉睡的皇帝</nuxt-link>
                   </div>
                 </td>
               </tr>
             </table>
           </div>
-        </div>
-        <h3><strong>征服者入侵戰役</strong></h3>
+        </div><br><p></p>
+      <div class="hrn1"></div> <p></p>
+      <h3><strong>征服者入侵戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
+                    <div id="6"><nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -402,27 +365,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Walls_of_Constantinople"
-                      >君士坦丁堡的城牆</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Walls_of_Constantinople">君士坦丁堡的城牆</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Barbarian_Betrothal"
-                      >蠻族的婚約</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Catalaunian_Fields"
-                      >卡塔隆尼亞平原</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Catalaunian_Fields">卡塔隆尼亞平原</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -440,7 +397,7 @@
               <tr>
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
+                    <div id="7"><nuxt-link to="/batt/El_Cida">席德</nuxt-link> </div>
                   </div>
                 </td>
               </tr>
@@ -454,27 +411,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Brother_against_Brother"
-                      >兄弟鬩牆</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Enemy_of_my_Enemy"
-                      >我敵人的敵人</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Enemy_of_my_Enemy">我敵人的敵人</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Exile_of_the_Cid"
-                      >席德的流亡歲月</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Exile_of_the_Cid">席德的流亡歲月</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -488,9 +439,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/King_of_Valencia"
-                      >瓦倫西亞之主</nuxt-link
-                    >
+                    <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之主</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -508,7 +457,7 @@
               <tr>
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
+                     <div id="8"><nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link> </div>
                   </div>
                 </td>
               </tr>
@@ -529,9 +478,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Triple_Alliance"
-                      >三國同盟</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -570,9 +517,7 @@
               <tr>
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Battles_of_the_Conquerors"
-                      >征服者的戰役</nuxt-link
-                    >
+                    <div id="9"><nuxt-link to="/batt/Battles_of_the_Conquerors">征服者的戰役</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -586,72 +531,63 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Tours_732">都爾(732)</nuxt-link>
+                    <nuxt-link to="/batt/Tours_732">都爾（732）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="batt/Vindlandsaga_1000"
-                      >芬特蘭撒格(1000)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Vindlandsaga_1000">芬特蘭撒格（1000）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Hastings_1066">
-                      哈斯汀斯(1066)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Hastings_1066">哈斯汀斯（1066）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Manzikert_1071"
-                      >曼奇克托(1071)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Manzikert_1071">曼奇克托（1071）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Agincourt_1415"
-                      >亞琴哥特(1415)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Agincourt_1415">亞琴哥特（1415）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>
+                    <nuxt-link to="/batt/Lepanto_1571">勒班陀（1571）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>
+                    <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/NoryangPoint_1598"
-                      >洛陽點(1598)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Noryang_Point_1598">洛陽點（1598）</nuxt-link>
                   </div>
                 </td>
               </tr>
-            </table>
+           </table>
           </div>
-        </div>
+        </div><br><p></p>
+      <div class="hrn1"></div> <p></p>
         <h3><strong>失落帝國戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
@@ -659,7 +595,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
+                    <div id="10"><nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -673,27 +609,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
-                      >條條大路通圍城</nuxt-link
-                    >
+                    <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City">條條大路通圍城</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Legionaries_on_the_Horizon"
-                      >羅馬軍團隨時殺到</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Legionaries_on_the_Horizon">羅馬軍團隨時殺到</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Emperor_of_the_West"
-                      >西域之君</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Emperor_of_the_West">西域之君</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -711,7 +641,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Draculaa">德古拉</nuxt-link>
+                    <div id="11"><nuxt-link to="/batt/Draculaa">德古拉</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -725,41 +655,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings"
-                      >火龍展翅</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings">火龍展翅</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Return_of_the_Dragon"
-                      >龍之歸來</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Return_of_the_Dragon">龍之歸來</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Breath_of_the_Dragon"
-                      >龍之喘息</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Breath_of_the_Dragon">龍之喘息</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/The_Moon_Rises.php">撥雲見月</nuxt-link>
+                    <nuxt-link to="/batt/The_Moon_Rises">撥雲見月</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/The_Night_Falls.php">暗夜降臨</nuxt-link>
+                    <nuxt-link to="/batt/The_Night_Falls">暗夜降臨</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -770,7 +694,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <nuxt-link to="/Baria.php">巴里</nuxt-link>
+                     <div id="12"><nuxt-link to="/batt/Baria">巴里</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -791,9 +715,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Rebellion_of_Melus"
-                      >邁勒斯叛變</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Rebellion_of_Melus">邁勒斯叛變</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -811,7 +733,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <nuxt-link to="/Sforzaa.php">斯福爾札</nuxt-link>
+                    <div id="13"><nuxt-link to="/batt/Sforzaa">斯福爾札</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -825,9 +747,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/An_End_and_a_Beginning"
-                      >始兮終兮</nuxt-link
-                    >
+                    <nuxt-link to="/batt/An_End_and_a_Beginning">始兮終兮</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -841,27 +761,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Hand_of_a_Daughter"
-                      >于歸之喜</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Hand_of_a_Daughter">于歸之喜</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Ambrosian_Republic"
-                      >安布羅共和國</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Ambrosian_Republic">安布羅共和國</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_New_Duk_of_Milan"
-                      >米蘭新公爵</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_New_Duk_of_Milan">米蘭新公爵</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -872,7 +786,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>
+                    <div id="14"><nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -886,9 +800,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Tales_of_La_Canela"
-                      >黃金國的傳說</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Tales_of_La_Canela">黃金國的傳說</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -920,7 +832,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <nuxt-link to="/Prithviraja.php">布里斯比羅吉</nuxt-link>
+                     <div id="15"><nuxt-link to="/batt/Prithviraja">布里斯比羅吉</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -934,34 +846,28 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/A_Promising_Warrior.php"
-                      >英雄出少年</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/The_Digvijaya.php"
-                      >逐鹿迪格維傑之地</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/The_Elopement.php">私奔</nuxt-link>
+                    <nuxt-link to="/batt/The_Elopement">私奔</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Battles_of_Tarain.php"
-                      >塔蘭村之戰</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -972,9 +878,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <nuxt-link to="/Battles_of_the_Forgotten.php"
-                      >失落帝國的戰役</nuxt-link
-                    >
+                     <div id="16"><nuxt-link to="/batt/Battles_of_the_Forgotten">失落帝國的戰役</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -988,85 +892,78 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Bukhara(557).php"> 布哈拉(557)</nuxt-link>
+                    <nuxt-link to="/batt/Bukhara_557"> 布哈拉（557）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Dos_Pilas(648).php">雙柱城(648)</nuxt-link>
+                    <nuxt-link to="/batt/Dos_Pilas_648）">雙柱城（648）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/York(865).php">約克(865)</nuxt-link>
+                    <nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Honfoglalás(895).php"
-                      >征服家園(895)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Honfoglalás_895">征服家園（895）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Langshan_Jiang(919).php"
-                      >狼山江(919)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Langshan_Jiang_919.php">狼山江（919）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Kaesong(936).php">開城(936)</nuxt-link>
+                    <nuxt-link to="/batt/Kaesong_936">開城（936）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>
+                    <nuxt-link to="/batt/Kurikara_1183">礪波山（1183）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Cyprus(1191).php">塞普勒斯(1191)</nuxt-link>
+                    <nuxt-link to="/batt/Cyprus_1191">塞普勒斯（1191）</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Bapheus(1302).php"
-                      >巴菲烏斯(1302)</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Bapheus_1302">巴菲烏斯（1302）</nuxt-link>
                   </div>
                 </td>
               </tr>
-            </table>
+           </table>
           </div>
-        </div>
-        <h3><strong>非洲王國戰役</strong></h3>
+        </div><br><p></p>
+      <div class="hrn1"></div> <p></p>
+　　　　<h3><strong>非洲王國戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Tariq_ibn_Ziyada"
-                      >塔里克．伊本．齊亞德</nuxt-link
-                    >
+                    <div id="17"><nuxt-link to="/batt/Tariq_ibn_Ziyada">塔里克．伊本．齊亞德</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -1080,36 +977,28 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Battle_of_Guadalete"
-                      >瓜達萊特之戰</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Battle_of_Guadalete">瓜達萊特之戰</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Consolidation_and_Subjugation"
-                      >攻城拔寨</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Consolidation_and_Subjugation">攻城拔寨</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Divide_and_Conquer"
-                      >縱橫捭闔</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Divide_and_Conquer">縱橫捭闔</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Crossing_the_Pyrenees"
-                      >穿越庇里牛斯山脈</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Crossing_the_Pyrenees">穿越庇里牛斯山脈</nuxt-link >
                   </div>
                 </td>
               </tr>
@@ -1127,7 +1016,7 @@
               <tr>
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link>
+                    <div id="18"><nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -1148,34 +1037,28 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Sting_of_the_Scorpion"
-                      >蠍螫</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Sting_of_the_Scorpion">蠍螫</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Djeriba_Gold"
-                      >傑爾巴島的黃金</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Blood_on_the_River_Bank"
-                      >血濺河灘</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Blood_on_the_River_Bank">血濺河灘</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/The_Lion's_Den.php">深入虎穴</nuxt-link>
+                    <nuxt-link to="/batt/The_Lion's_Den">深入虎穴</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1186,9 +1069,7 @@
               <tr>
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
-                    <nuxt-link to="/Francisco_de_Almeidaa.php"
-                      >法蘭西斯科．阿爾梅達</nuxt-link
-                    >
+                    <div id="19"><nuxt-link to="/batt/Francisco_de_Almeidaa">法蘭西斯科．阿爾梅達</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -1202,35 +1083,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/The_Old_World.php">舊世界</nuxt-link>
+                    <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Lion_of_Africa.php">非洲雄獅</nuxt-link>
+                    <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Ruins_of_Empires.php">帝國的廢墟</nuxt-link>
+                    <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Estado_da_India.php">葡屬印度</nuxt-link>
+                    <nuxt-link to="/batt/Estado_da_India">葡屬印度</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/A_Son's_Blood.php">兒子的血仇</nuxt-link>
+                    <nuxt-link to="/batt/A_Son's_Blood">兒子的血仇</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1241,7 +1122,7 @@
               <tr>
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Yodita">遊娣特</nuxt-link>
+                    <div id="20"><nuxt-link to="/batt/Yodita">遊娣特</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -1269,35 +1150,36 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/A_Fallen-Crown.php">摔落的皇冠</nuxt-link>
+                    <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Broken_Stelae.php">毀壞的石碑</nuxt-link>
+                    <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/Welcome_Home.php">重回故里</nuxt-link>
+                    <nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
                   </div>
                 </td>
               </tr>
-            </table>
+          </table>
           </div>
-        </div>
-        <h3><strong>王者崛起戰役</strong></h3>
+        </div><br><p></p>
+      <div class="hrn1"></div> <p></p>
+<h3><strong>王者崛起戰役</strong></h3>
         <div class="row">
           <div class="col-md-4" style="margin-top: 10px;">
             <table class="table-bordered" width="100%">
               <tr>
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+                    <div id="21"><nuxt-link to="/batt/Gajah_Madaa">加查•馬達</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -1311,45 +1193,35 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Story_of_our_Founders"
-                      >開疆闢土</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Story_of_our_Founders">開疆闢土</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Unconditional_Loyalty"
-                      >班師勤王</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Unconditional_Loyalty">班師勤王</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Oath_to_Unify_Nusantara"
-                      >誓統南洋</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Oath_to_Unify_Nusantara">誓統南洋</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Serving_the_New_King"
-                      >輔佐新君</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Serving_the_New_King">輔佐新君</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/The_Pasunda_Bubat_Traged.php"
-                      >風雲變色</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Pasunda_Bubat_Traged">風雲變色</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1360,9 +1232,7 @@
               <tr>
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Suryavarman_Ia"
-                      >蘇利耶跋摩一世</nuxt-link
-                    >
+                    <div id="22"><nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -1383,27 +1253,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Quelling_the_Rebellion"
-                      >席捲入荒</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Quelling_the_Rebellion">席捲入荒</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Dangerous_Mission"
-                      >九死一生</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_Dangerous_Mission">九死一生</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Challenging_a_Thalassocrac"
-                      >滔天巨浪</nuxt-link
-                    >
+                    <nuxt-link to="/batt/Challenging_a_Thalassocrac">滔天巨浪</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1421,7 +1285,7 @@
               <tr>
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
-                    <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
+                    <div id="23"><nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -1435,18 +1299,14 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Burmese_Tigers"
-                      >餓虎撲食</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Burmese_Tigers">餓虎撲食</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Mandalay_Cobra"
-                      >猛蛇出洞</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Mandalay_Cobra">猛蛇出洞</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1460,9 +1320,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_White_Elephant"
-                      >白象化身</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_White_Elephant">白象化身</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1480,7 +1338,7 @@
               <tr>
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
-                    <nuxt-link to="/Le_Loi.php">黎利</nuxt-link>
+                    <div id="24"><nuxt-link to="/batt/Le_Loi">黎利</nuxt-link></div>
                   </div>
                 </td>
               </tr>
@@ -1494,27 +1352,21 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Dai_Viet_Uprising"
-                      >大越義軍</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Dai_Viet_Uprising">大越義軍</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Mountain_Siege"
-                      >至靈山魂</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Mountain_Siege">至靈山魂</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Battle_at_Hanoi"
-                      >圍困昇龍</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Battle_at_Hanoi">圍困昇龍</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1528,18 +1380,14 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Three-Pronged_Attack"
-                      >兵分三路</nuxt-link
-                    >
+                    <nuxt-link to="/batt/A_Three-Pronged_Attack">兵分三路</nuxt-link>
                   </div>
                 </td>
               </tr>
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Final_Fortress"
-                      >決戰東都</nuxt-link
-                    >
+                    <nuxt-link to="/batt/The_Final_Fortress">決戰東都</nuxt-link>
                   </div>
                 </td>
               </tr>
