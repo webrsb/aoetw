@@ -232,7 +232,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Elitebattleelephanticon.png"
+                src="~assets/EliteBattleElephantIcon2.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Battle_Elephant">精銳矛象伕</nuxt-link

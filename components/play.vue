@@ -417,6 +417,7 @@ export default {
       }
       this.playVM = vm = null
       this.$refs.result.innerHTML = ''
+      Vue.config.silent = true
     },
     createVM() {
       const playground = this
@@ -507,6 +508,7 @@ export default {
       try {
         let holder = document.createElement('div')
         this.$refs.result.appendChild(holder)
+        Vue.config.silent = false
         this.playVM = new Vue(
           Object.assign({}, options, {
             // set the app mountpoint

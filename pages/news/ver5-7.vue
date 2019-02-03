@@ -49,14 +49,14 @@
             </li>
             <li>
               <img
-                src="~assets/Elitebattleelephanticon.png"
+                src="~assets/EliteBattleElephantIcon2.png"
                 class="gg"
                 alt=""
               />精銳矛象伕升級花費從 800F 500G 提升至 1200F 900G
             </li>
             <li>
               <img
-                src="~assets/Elitebattleelephanticon.png"
+                src="~assets/EliteBattleElephantIcon2.png"
                 class="gg"
                 alt=""
               />精銳矛象伕升級時間從 80秒 提升至 100秒
@@ -70,7 +70,7 @@
             </li>
             <li>
               <img
-                src="~assets/Elitebattleelephanticon.png"
+                src="~assets/EliteBattleElephantIcon2.png"
                 class="gg"
                 alt=""
               />矛象伕(包含精銳)攻擊波及範圍從 0.5 變成 0.4
@@ -186,7 +186,7 @@
             </li>
             <li>
               <img
-                src="~assets/Elitebattleelephanticon.png"
+                src="~assets/EliteBattleElephantIcon2.png"
                 class="gg"
                 alt=""
               />馬來矛象伕從 25% 便宜提升至 30%

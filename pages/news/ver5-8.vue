@@ -130,7 +130,7 @@
           <ul>
             <li>
               <img
-                src="~assets/Rattanarchericon.png"
+                src="~assets/RattanarcherIcon2.png"
                 class="gg"
                 alt=""
               />藤甲弓兵/精銳 血量 35/40 → 40/45

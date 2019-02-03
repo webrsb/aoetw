@@ -52,7 +52,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Rattanarchericon.png"
+                src="~assets/RattanarcherIcon2.png"
                 alt=""
               />藤甲弓兵:重裝弓箭手，遠防極高。
             </li>
@@ -165,7 +165,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Rattanarchericon.png" />藤甲弓兵
+              <img class="gg" src="~assets/RattanarcherIcon2.png" />藤甲弓兵
               <br />
               <img
                 class="gg"

@@ -188,7 +188,7 @@
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm ca"><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link></td>
          <td class="t13 trm">
-          <img class="gg" src="~assets/Rattanarchericon.png" width="30" alt=""><div><nuxt-link to="/Rattan_units/Archer">藤甲弓兵 </nuxt-link></div><i class="fas fa-arrow-down">
+          <img class="gg" src="~assets/RattanarcherIcon2.png" width="30" alt=""><div><nuxt-link to="/Rattan_units/Archer">藤甲弓兵 </nuxt-link></div><i class="fas fa-arrow-down">
           </td>
           <td class="t13 trm">
             <img class="gg" src="~assets/PetardIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Petard">爆炸桶</nuxt-link></div>
@@ -204,7 +204,7 @@
  </tr>
         <tr>
           <td style=" vertical-align: middle; " class="t5 trm im"><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></td>
-          <td class="t13 trm"><img class="gg" src="~assets/Rattanarchericon.png" width="30" alt=""><div><nuxt-link to="/Rattan_units/Archer">精銳藤甲弓兵 </nuxt-link></div></td>
+          <td class="t13 trm"><img class="gg" src="~assets/RattanarcherIcon2.png" width="30" alt=""><div><nuxt-link to="/Rattan_units/Archer">精銳藤甲弓兵 </nuxt-link></div></td>
           <td class="t13 trm"><img class="gg" src="~assets/TrebuchetPackedIcon.jpg" width="30" alt=""><div><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link></div></td>
           <td class="t13 trm"><img class="gg" src="~assets/Unique-tech.jpg" width="30" alt=""><div><nuxt-link to="/techs/Paper_Money">紙幣</nuxt-link></div></td>
           <td class="t13 trm "><img class="gg" src="~assets/Hoardings.jpg" width="30" alt=""><div><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link></div></td>

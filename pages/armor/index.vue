@@ -293,7 +293,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Rattanarchericon.png"
+                      src="~assets/RattanarcherIcon2.png"
                       alt=""
                     /><nuxt-link to="/Rattan_units/Archer"
                       >精銳籐甲弓箭手</nuxt-link
@@ -367,7 +367,7 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Elitebattleelephanticon.png"
+                      src="~assets/EliteBattleElephantIcon2.png"
                       alt=""
                     /><nuxt-link to="/units/Battle_Elephant"
                       >精銳矛象伕</nuxt-link

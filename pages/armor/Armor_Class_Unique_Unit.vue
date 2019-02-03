@@ -568,12 +568,12 @@
                   <li>
                     <img
                       class="gg"
-                      src="~assets/Rattanarchericon.png"
+                      src="~assets/RattanarcherIcon2.png"
                       alt=""
                     /><nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link>→
                     <img
                       class="gg"
-                      src="~assets/Rattanarchericon.png"
+                      src="~assets/RattanarcherIcon2.png"
                       alt=""
                     /><nuxt-link to="/Rattan_units/Archer"
                       >精銳藤甲弓兵</nuxt-link

@@ -67,7 +67,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Rattanarchericon.png"
+                src="~assets/RattanarcherIcon2.png"
                 alt=""
               /><nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link
               >:越南的特殊單位，是個有非常高遠程護甲的弓兵。

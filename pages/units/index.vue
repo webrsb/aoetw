@@ -302,7 +302,7 @@
                 <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>→
                 <img
                   class="gg"
-                  src="~assets/Elitebattleelephanticon.png"
+                  src="~assets/EliteBattleElephantIcon2.png"
                   alt=""
                 />
                 <nuxt-link to="/units/Elite_Battle_Elephant"

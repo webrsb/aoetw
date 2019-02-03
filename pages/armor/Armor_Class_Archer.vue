@@ -265,13 +265,13 @@
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/Rattanarchericon.png"
+                src="~assets/RattanarcherIcon2.png"
                 alt=""
               /><nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
-                src="~assets/Rattanarchericon.png"
+                src="~assets/RattanarcherIcon2.png"
                 alt=""
               />精銳<nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link
               >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)

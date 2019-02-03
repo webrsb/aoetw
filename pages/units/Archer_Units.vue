@@ -966,7 +966,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/Rattanarchericon.png" /><nuxt-link
+                <img class="gg" src="~assets/RattanarcherIcon2.png" /><nuxt-link
                   to="/Rattan_units/Archer"
                   >藤甲弓兵</nuxt-link
                 >
@@ -992,7 +992,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <img class="gg" src="~assets/Rattanarchericon.png" /><nuxt-link
+                <img class="gg" src="~assets/RattanarcherIcon2.png" /><nuxt-link
                   to="/Rattan_units/Archer"
                   >精銳藤甲弓兵</nuxt-link
                 >
