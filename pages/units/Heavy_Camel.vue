@@ -5,34 +5,89 @@
     <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>帝王駱駝騎兵</h1>
+        <h1>重裝駱駝騎兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
-          帝王駱駝騎兵是<nuxt-link to="/techs/age/Imperial_Age"
-            >帝王時代</nuxt-link
-          >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
-          >，對於騎兵較有優勢，為
-          <nuxt-link to="/civs/Indians">印度</nuxt-link>的特殊兵種。
+          <p>
+            重裝駱駝騎兵是<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
+            >，對於騎兵較有優勢。
+          </p>
+        </div>
+        <h3>文明可訓練與否</h3>
+        <div class="hrn1"></div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="n1">
+              <h4>
+                <strong
+                  ><span
+                    class="glyphicon glyphicon-ok okc"
+                    aria-hidden="true"
+                  ></span
+                  ><span class="" style="margin-left: 2px;"
+                    >可訓練</span
+                  ></strong
+                >
+              </h4>
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>。
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="n1">
+              <h4>
+                <strong
+                  ><span
+                    class="glyphicon glyphicon-remove noc"
+                    aria-hidden="true"
+                  ></span
+                  ><span class="" style="margin-left: 2px;"
+                    >不可訓練</span
+                  ></strong
+                >
+              </h4>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+            </div>
+          </div>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          在<nuxt-link to="/civs/Indians">印度</nuxt-link
-          >文明出現後帝王駱駝騎兵為帝王時代最強大的騎兵之一，因為印度文明並沒有<nuxt-link
-            to="/units/Cavalier"
-            >騎兵</nuxt-link
-          >所以駱駝兵種成為印度不可或缺的兵種之一。雖然坦度不如騎兵類型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊兵種，卻不會受到
-          <nuxt-link to="/units/Samurai">日本武士</nuxt-link
-          >的攻擊加成。帝王駱駝基本上你可以把他當成<nuxt-link
-            to="/units/Paladin"
-            >遊俠</nuxt-link
-          >看待。而帝王駱駝搭配<nuxt-link to="/units/Elite_Skirmisher"
-            >戰矛兵</nuxt-link
-          >則是
-          <nuxt-link to="/civs/Indians">印度</nuxt-link
-          >在後期簡單又威力無窮的組合。
+          重裝駱駝騎兵在帝王時代，除了對抗騎兵系兵種外對大部分的兵種都趨於弱勢，不過在今天馬橫行天下的情況下，他仍非常的好用。
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -57,12 +112,14 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link
-                to="/Teutonic_units/Knight"
-                >條頓武士</nuxt-link
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
               >、
-              <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link
-              >、<nuxt-link to="/units/Berserk">狂戰士</nuxt-link>。
+              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>和<nuxt-link
+                to=""
+                >防禦建築</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -79,6 +136,11 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20)
+              <br />
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Zealotry"
+                >狂熱舉動</nuxt-link
+              >(+30，<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -104,6 +166,12 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>(+2)
+              <br />
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Farimba"
+                >驃悍精神</nuxt-link
+              >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >限定
             </td>
           </tr>
           <tr>
@@ -170,14 +238,27 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>(+33%)
+              <br />
+            </td>
+          </tr>
+          <tr>
+            <td class="tta1" style="width:10%">其他</td>
+            <td class="tta4">
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Maghrabi_Camels"
+                >馬格拉比駱駝</nuxt-link
+              >:駱駝部隊獲得回血能力(每分鐘回15 HP)，<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >限定
             </td>
           </tr>
         </table>
 
-        <h3>剋帝王駱駝騎兵的單位與建築</h3>
+        <h3>剋重裝駱駝騎兵的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對帝王駱駝騎兵的額外傷害，按照傷殺力排列。
+          以下單位擁有對重裝駱駝騎兵的額外傷害，按照傷殺力排列。
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
@@ -324,17 +405,16 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
-                    >→
+                    /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       width="22"
                       alt=""
                     />
-                    <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>→
+                    <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>→
                     <img class="gg" src="~assets/Watchtowericon.png" alt="" />
-                    <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
+                    <nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -347,7 +427,7 @@
               </div>
             </div>
           </div>
-          以下技術可讓以下單位對帝王駱駝騎兵有額外攻擊力
+          以下技術可讓以下單位對重裝駱駝騎兵有額外攻擊力
           <div class="n1">
             <img
               class="gg"
@@ -409,8 +489,20 @@
         <div class="n1">
           <ul>
             <li>
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+              >：重裝駱駝騎兵在帝王時代便宜20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >：重裝駱駝騎兵便宜25%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >：對重裝駱駝騎兵有利的科技在帝王時代便宜/20%。
+            </li>
+            <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link
-              >：帝王駱駝騎兵+1/+1防禦。
+              >：重裝駱駝騎兵+1/+1防禦。
             </li>
           </ul>
         </div>
@@ -427,20 +519,21 @@
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >：帝王駱駝騎兵生產效率快20%，<nuxt-link to="/techs/Bloodlines"
+              >：重裝駱駝騎兵生產和升級效率快20%，<nuxt-link
+                to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與
               <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link
-              >：帝王駱駝騎兵對<nuxt-link to="/armor/Armor_Class_Building"
+              >：重裝駱駝騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >+6攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：帝王駱駝騎兵對僧侶抵抗力更強。
+              >：重裝駱駝騎兵對僧侶抵抗力更強。
             </li>
           </ul>
         </div>
@@ -448,28 +541,53 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
+            <li>訓練時間為29秒。</li>
+            <li>移動速度為1.4。</li>
             <li>
-              帝王駱駝騎兵的防禦類型有包括<nuxt-link
-                to="/armor/Armor_Class_Ship"
+              重裝駱駝騎兵的防禦類型有包括<nuxt-link
+                to="/armor/Armor_Class_Cavalry"
+                >騎兵護甲</nuxt-link
+              >，所以會受到反騎兵的傷害。
+            </li>
+            <li></li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>重裝駱駝騎兵訓練時間減為22秒。</li>
+            <li>移動速度增加到1.45。</li>
+            <li>
+              重裝駱駝騎兵的防禦類型移除了<nuxt-link
+                to="/armor/Armor_Class_Cavalry"
+                >騎兵護甲</nuxt-link
+              >，但加入<nuxt-link to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
-              >，所以會同時承受反船/反駱駝攻擊加成。
+              >，這讓重裝駱駝騎兵對他們本身也有攻擊加成。
+            </li>
+            <li><nuxt-link to="/techs/Bloodlines"></nuxt-link>血統引進。</li>
+            <li><nuxt-link to="/techs/Heresy"></nuxt-link>異端邪說引進。</li>
+            <li>
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>:引入<nuxt-link
+                to="/techs/Zealotry"
+                >狂熱舉動</nuxt-link
+              >。
             </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>帝王駱駝騎兵有新的外貌。</li>
             <li>
-              駱駝不再受到<nuxt-link to="/armor/Armor_Class_Ship"
+              重裝駱駝騎兵不再受到<nuxt-link to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
               >的影響，他們正式有自己的防禦類型：<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
-              >護甲。但駱駝仍然對船隻有+5的攻擊。反騎兵攻擊仍然不影響駱駝。
+              >護甲。但駱駝仍然對船隻有+9的攻擊。反騎兵攻擊仍然不影響駱駝。
             </li>
           </ul>
         </div>
@@ -506,15 +624,13 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                <nuxt-link to="">帝王駱駝騎兵</nuxt-link>
-              </div>
+              <div class="unititle2">重裝駱駝騎兵</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/ImperialCamelIcon.jpg" width="45" alt="" />
+                <img src="~assets/HeavyCamelIcon.jpg" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -531,9 +647,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>
-            </td>
+            <td class="unit4">請看介紹</td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -557,7 +671,7 @@
           </tr>
           <tr>
             <td class="unit3">訓練時間</td>
-            <td class="unit4">20秒</td>
+            <td class="unit4">22秒</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
@@ -579,11 +693,11 @@
           </tr>
           <tr>
             <td class="unit3">血量</td>
-            <td class="unit4">140</td>
+            <td class="unit4">120</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">9(近戰)</td>
+            <td class="unit4">7(近戰)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -593,9 +707,6 @@
                 >駱駝類</nuxt-link
               >
               <br />+9對<nuxt-link to="/armor/Armor_Class_Ship">船類</nuxt-link>
-              <br />+6對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
-              >
             </td>
           </tr>
           <tr></tr>
@@ -611,6 +722,7 @@
             <td class="unit3">遠防</td>
             <td class="unit4">0</td>
           </tr>
+
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
@@ -627,78 +739,67 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2">單位演變</div>
+              <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td class="unit3">從升級</td>
             <td class="unit4">
+              <img class="gg" src="~assets/CamelIcon.jpg" alt="" /><nuxt-link
+                to="/units/Camel"
+                >駱駝騎兵</nuxt-link
+              >
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">升級到</td>
+            <td class="unit4">
               <img
                 class="gg"
-                src="~assets/HeavyCamelIcon.jpg"
+                src="~assets/ImperialCamelIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>
             </td>
+          </tr>
+          <tr>
+            <td class="unit3">升級成本</td>
+            <td class="unit4">
+              <img
+                class="gg"
+                src="~assets/Imperialcamel.png"
+                alt=""
+              />1200食物600黃金
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">升級時間</td>
+            <td class="unit4">125秒</td>
           </tr>
         </table>
       </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-12">
-            <div class="col-md-4">
-              <nuxt-link to="/img/AOF35_Imperial_Camel.jpg"
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/AOF35_Imperial_Camel.jpg"
-                  alt=""
-              /></nuxt-link>
-              <p><em>失落的帝國，3.5版本的帝王駱駝騎兵。</em></p>
-            </div>
-            <div class="col-md-4">
-              <nuxt-link to="/img/AOF36_Imperial_Camel.jpg"
-                ><img
-                  class="imgn hg"
-                  src="~assets/AOF36_Imperial_Camel.jpg"
-                  alt=""
-              /></nuxt-link>
-              <p><em>3.6版本的帝王駱駝騎兵。</em></p>
-            </div>
-            <div class="col-md-4">
-              <nuxt-link to="/img/D.png"
-                ><img class="imgn hg" src="~assets/D.png" alt=""
-              /></nuxt-link>
-              <p><em>4.4版本的帝王駱駝騎兵。</em></p>
-            </div>
-            <div class="col-md-12">
-              <div class="col-md-4">
-                <nuxt-link to="/img/Camelline.png"
-                  ><img class="imgn hg" src="~assets/Camelline.png" alt=""
-                /></nuxt-link>
-                <p><em>駱駝騎兵、重裝駱駝騎兵與帝王駱駝騎兵。</em></p>
-              </div>
-              <div class="col-md-4">
-                <nuxt-link to="/img/Indians_preview.png"
-                  ><img class="imgn hg" src="~assets/Indians_preview.png" alt=""
-                /></nuxt-link>
-                <p>
-                  <em
-                    >失落的帝國還沒釋出前的官方圖，可以看到帝王駱駝的最初樣子。</em
-                  >
-                </p>
-              </div>
-              <div class="col-md-4">
-                <nuxt-link to="/img/Imperial_Camel_AoFE.jpg"
-                  ><img
-                    class="imgn hg"
-                    src="~assets/Imperial_Camel_AoFE.jpg"
-                    alt=""
-                /></nuxt-link>
-                <p><em>3.6版本的帝王駱駝騎兵。</em></p>
-              </div>
-            </div>
+    </div>
+    <div class="col-md-12">
+      <h3>圖庫</h3>
+      <div class="hrn1"></div>
+      <div class="n1">
+        <div class="col-md-12">
+          <div class="col-md-4">
+            <nuxt-link to="/img/Camelline.png"
+              ><img class="imgn hg" src="~assets/Camelline.png" alt=""
+            /></nuxt-link>
+            <p><em>駱駝系。</em></p>
+          </div>
+          <div class="col-md-4">
+            <nuxt-link to="/img/Heavycamel.png"
+              ><img class="imgn hg" src="~assets/Heavycamel.png" alt=""
+            /></nuxt-link>
+            <p><em>一群重裝駱駝騎兵。</em></p>
+          </div>
+          <div class="col-md-4">
+            <nuxt-link to="/img/HeavyCamelaok.jpg"
+              ><img class="imgn hg" src="~assets/HeavyCamelaok.jpg" alt=""
+            /></nuxt-link>
+            <p><em>遊戲裡的重裝駱駝騎兵。</em></p>
           </div>
         </div>
       </div>

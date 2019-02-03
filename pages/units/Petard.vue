@@ -89,14 +89,16 @@
                   class="gg"
                   src="~assets/Watchtowericon.png"
                   alt=""
-                /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>:2(3)
+                /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link
+                >:2(3)
               </li>
               <li>
                 <img
                   class="gg"
                   src="~assets/Watchtowericon.png"
                   alt=""
-                /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>:3(4)
+                /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
+                >:3(4)
               </li>
               <li>
                 <img

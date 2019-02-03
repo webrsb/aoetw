@@ -1333,7 +1333,9 @@
             </td>
             <td class="t11 trm">
               <img class="gg" src="~assets/Guard-tower-research.jpg" alt="" />
-              <div><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link></div>
+              <div>
+                <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
+              </div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t11 trm not">

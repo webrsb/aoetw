@@ -5,16 +5,16 @@
     <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>大型箭塔</h1>
+        <h1>防禦箭塔</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <em>本條目把學院內的大型箭塔科技與建築的大型箭塔寫在一起了！</em>
+            <em>本條目把學院內的防禦箭塔科技與建築的防禦箭塔寫在一起了！</em>
           </p>
           <p>
-            大型箭塔於可於帝王時代在學院研發。大型箭塔可有效對付步兵與弓兵單位，但對攻城武器和騎兵單位時則顯得脆弱
+            防禦箭塔於可於城堡時代在學院研發。防禦箭塔可有效對付步兵與弓兵單位，但對攻城武器和騎兵單位時則顯得脆弱
           </p>
         </div>
         <h3>戰術</h3>
@@ -41,14 +41,6 @@
           <p>
             駐紮弓箭手和村民可增加塔的箭矢數量，同時增加傷害。最多可以有五名（條頓人可十名）的徒步單位（步兵和弓箭手，儘管步兵不會增加火力）可以駐守在一座塔。駐紮的單位可以慢慢恢復生命值。
           </p>
-          <p>
-            <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-            >大型箭塔的射程可達13，一般的<nuxt-link to="/units/Cannon_Galleon"
-              >火炮戰船</nuxt-link
-            >和
-            <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
-            >無法輕易從遠距離摧毀韓國人的箭塔。
-          </p>
         </div>
         <h3>擁有文明</h3>
         <div class="hrn1"></div>
@@ -66,26 +58,35 @@
                   ></strong
                 >
               </h4>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
               <nuxt-link to="/civs/Incas">印加</nuxt-link>、
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
             </div>
           </div>
         </div>
@@ -103,17 +104,8 @@
                   ></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Indians">印度</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
-              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
-              <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>。
             </div>
           </div>
         </div>
@@ -132,7 +124,7 @@
               <nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>，<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵系</nuxt-link
-              >，較弱的近戰單位。
+              >， <nuxt-link to="/units/Monk">僧侶</nuxt-link>，虛弱的近戰單位。
             </td>
           </tr>
           <tr>
@@ -399,23 +391,31 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：大型箭塔在帝王時代增加40% HP，<nuxt-link to="/techs/Town_Watch"
+              >：防禦箭塔在城堡/帝王時代增加30%/40% HP，<nuxt-link
+                to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
-              >免費
+              >
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對大型箭塔有利的科技在帝王時代各便宜20%。
+              >：對防禦箭塔有利的科技在城堡/帝王時代各便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：箭塔石頭花費-15%。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-              >：大型箭塔射程+2而且建造速度更快。
+              >：箭塔在城堡/帝王時代射程分別+1/+2而且建造速度快33%。箭塔科技升級免費
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：箭塔木頭花費-15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>：<nuxt-link
+                to="/techs/Town_Watch"
+                >城鎮瞭望</nuxt-link
+              >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
+              >在封建/城堡/帝王時代研發快10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -439,7 +439,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：學院研究科技速度快80%。
+              >：研究科技速度快80%。
             </li>
           </ul>
         </div>
@@ -451,17 +451,22 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>的攻擊力為7。
+              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              >的攻擊力為6。
             </li>
             <li>
-              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link
-              >對駱駝騎兵攻擊+10因為駱駝騎兵的護甲分類是<nuxt-link
+              升級到<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              >需要500食物和350石材。
+            </li>
+            <li>
+              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              >對駱駝騎兵攻擊+9因為駱駝騎兵的護甲分類是<nuxt-link
                 to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
               >。
             </li>
             <li>
-              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link
+              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
               >的第二支箭矢的攻擊是1。
             </li>
           </ul>
@@ -470,9 +475,12 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>對<nuxt-link
-                to="/armor/Armor_Class_Spearman"
-                >長槍兵</nuxt-link
+              升級到<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              >需要500食物和350木材。
+            </li>
+            <li>
+              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
               >攻擊+2。
             </li>
             <li>
@@ -483,7 +491,9 @@
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>:引入<nuxt-link
                 to="/techs/Yeomen"
                 >義勇騎兵</nuxt-link
-              >。
+              >。只能在<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >研發
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:引入<nuxt-link
@@ -497,18 +507,20 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>的攻擊力為8。
+              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              >的攻擊力為7。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>:引入<nuxt-link
+                to="/techs/Yeomen"
+                >義勇騎兵</nuxt-link
+              >。可在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >研發
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
                 to="/techs/Stronghold"
                 >堡壘</nuxt-link
-              >。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>:不能建造<nuxt-link
-                to="/building/Keep"
-                >大型箭塔</nuxt-link
               >。
             </li>
             <li>
@@ -519,8 +531,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
-                to="/building/Keep"
-                >大型箭塔</nuxt-link
+                to="/units/Guard_Tower"
+                >防禦箭塔</nuxt-link
               >建造速度快33%。
             </li>
           </ul>
@@ -531,34 +543,35 @@
             <li>
               駱駝騎兵從<nuxt-link to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
-              >分類中移除，所以箭塔對他們的攻擊加成也移除，現在
-              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link
-              >對他們的攻擊是+1。
+              >分類中移除，所以箭塔對他們的攻擊加成也移除，現在防禦箭塔對他們的攻擊是+1。
             </li>
             <li>
-              4.8版後<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
+              4.8版後<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
               >的第二支箭攻擊是2。
             </li>
             <li>
               引入<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
-              >，研發後會給<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
-              >攻擊+6。在4.8版
-              <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>只給<nuxt-link
-                to="/building/Keep"
-                >大型箭塔</nuxt-link
-              >攻擊+3。
-            </li>
-            <li>
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>:可以建造<nuxt-link
-                to="/building/Keep"
-                >大型箭塔</nuxt-link
-              >。
+              >，在城堡時代可研發並給<nuxt-link to="/units/Guard_Tower"
+                >防禦箭塔</nuxt-link
+              >攻擊+4。在4.8版
+              <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
+              >移到帝王時代並給<nuxt-link to="/units/Guard_Tower"
+                >防禦箭塔</nuxt-link
+              >攻擊+2。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
               >:在4.8版後<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
-              >讓<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
-              >可發射額外<strong>兩支箭</strong>
+              >讓箭塔可發射額外<strong>兩支箭</strong>。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link
+              >:在4.8版後<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
+              >讓箭塔可發射額外<strong>兩支箭</strong>。
+            </li>
+            <li>
+              在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link
+              >後，韓國蓋塔時間60s → 75s (其他文明 80s)
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -579,8 +592,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"在城堡中心最強大的建築被稱為大型箭塔。
-            如果城牆和外面的塔都已被攻破，這將是防禦的最後堡壘。剩下的後衛撤退到大型箭塔裡做最後的防守。大型箭塔在城堡裡可說是一個小城堡，不過一開始是用來減少開支。雖然比城堡小得多，但可以在更小的範圍內執行相同的防禦功能。除非一支裝備精良的大型軍隊之外，大型箭塔是很難攻破的。"</em
+            >"防禦塔在中世紀繼續發展，變得更強，更高，更好地用於防禦
+            鑑於一些較早的觀測塔是方形的，防護塔通常是圓形的以消除可能被撞掉的尖角。防禦塔頂部的戰鬥位置得到了改善，以保護防御者。從頂部伸出的外架式柵樓讓防御者可以用導彈攻擊塔底部的敵人。進入警戒塔的入口更加完善，更易於防守。"</em
           >
           <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
         </div>
@@ -589,7 +602,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">大型箭塔</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">防禦箭塔</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -616,18 +629,18 @@
             <td class="unit3">時代</td>
             <td class="unit4">
               <img
+                src="~assets/Castle-age-reseach.jpg"
                 class="gg"
-                src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>
             <td class="unit4">
               <img
-                class="gg"
                 src="~assets/Universityicon.png"
+                class="gg"
                 alt=""
               /><nuxt-link to="/building/Archery_Range">學院</nuxt-link>
             </td>
@@ -660,7 +673,7 @@
           </tr>
           <tr>
             <td class="unit3">血量</td>
-            <td class="unit4">2250</td>
+            <td class="unit4">1500</td>
           </tr>
           <tr>
             <td class="unit3">駐軍</td>
@@ -670,12 +683,12 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">8(可穿甲)</td>
+            <td class="unit4">7(可穿甲)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              +10對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>
+              +9對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link>
               <br />+2對<nuxt-link to="/armor/Armor_Class_Spearman"
                 >長槍兵</nuxt-link
               >
@@ -706,11 +719,11 @@
           </tr>
           <tr>
             <td class="unit3">近防</td>
-            <td class="unit4">3</td>
+            <td class="unit4">2</td>
           </tr>
           <tr>
             <td class="unit3">遠防</td>
-            <td class="unit4">9</td>
+            <td class="unit4">8</td>
           </tr>
           <tr>
             <td class="unit3">防禦類型</td>
@@ -730,6 +743,29 @@
             <td class="unit3">視野</td>
             <td class="unit4">10</td>
           </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+              <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link></div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">升級到</td>
+            <td class="unit4">
+              <img
+                class="gg"
+                src="~assets/Keep-research.jpg"
+                alt=""
+              /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">升級成本</td>
+            <td class="unit4">500食物 <br />350木材</td>
+          </tr>
+          <tr>
+            <td class="unit3">升級時間</td>
+            <td class="unit4">75秒</td>
+          </tr>
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
@@ -739,35 +775,27 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Keepaokaoc.png"
+            <nuxt-link to="/img/Guardtoweraokaoc.png"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Keepaokaoc.png"
+                src="~assets/Guardtoweraokaoc.png"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有的大型箭塔(帝王世紀和征服者入侵資料片)。</em></p>
+              <p><em>所有的防禦箭塔(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Keephd.png"
-              ><img class="imgn hg" width="200" src="~assets/Keephd.png" alt=""
-            /></nuxt-link>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>所有的大型箭塔(HD擴充資料片)。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <nuxt-link to="/img/Wooden_keep.jpg"
+            <nuxt-link to="/img/Guardtowerhd.png"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Wooden_keep.jpg"
+                src="~assets/Guardtowerhd.png"
                 alt=""
             /></nuxt-link>
-            <div class="lightbox-caption" style="width:185px">
-              <p><em>現實生活中在法國的木造大型箭塔(來源:維基百科)。</em></p>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>所有的防禦箭塔(HD擴充資料片)。</em></p>
             </div>
           </div>
         </div>
