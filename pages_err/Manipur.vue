@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-tw">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="favicon.ico">
-    <title>Aoetw</title>
-    <style>
-      body {            padding-top: 0px;            font-family: "微軟正黑體";            background-color: #f5f5f5;            font-size: 18px;        }
-    </style>
-  </head>  <body>
-    <?php include( "head.php"); ?>
-    <!-- Main jumbotron for a primary marketing message or call to action
-    -->
+<template>
     <div class="container">      <div class="row" style=" margin-top: 50px;">
         <div class="col-md-12">
            <h1>曼尼普爾騎兵</h1>
@@ -21,20 +6,20 @@
         </div>
         <div class="col-md-8">
           <div class="n1">
-            <p>曼尼普爾騎兵是緬甸的特殊科技，可於帝王時代在城堡研發。研發後騎兵和飛鏢騎兵對建築物+3攻擊。</p>
+            <p>曼尼普爾騎兵是緬甸的特殊科技，可於帝王時代在城堡研發。研發後<nuxt-link to="Cavalry_Units">騎兵</nuxt-link>和<nuxt-link to="Arambai">飛鏢騎兵</nuxt-link>對建築物+3攻擊。</p>
           </div>
            <h3>戰術要點</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>緬甸缺少攻城工程師科技和重型衝撞車。曼尼普爾騎兵可以增加矛象伕對建築物的攻擊力以補足上述缺點。</li>
+              <li>緬甸缺少<nuxt-link to="Siege_Engineers">攻城工程師</nuxt-link>科技和<nuxt-link to="Siege_Ram">重型衝撞車</nuxt-link>。曼尼普爾騎兵可以增加<nuxt-link to="Battle_Elephant">矛象伕</nuxt-link>對建築物的攻擊力以補足上述缺點。</li>
             </ul>
           </div>
            <h3>團隊加成</h3> 
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li><a href="Berbers.php">柏柏</a>：<a href="Kasbah.php">聚居堡壘</a>能夠加速曼尼普爾騎兵的研究時間(快25%)。</li>
+              <li><nuxt-link to="Berbers">柏柏</nuxt-link>：<nuxt-link to="Kasbah">聚居堡壘</nuxt-link>能夠加速曼尼普爾騎兵的研究時間(快25%)。</li>
             </ul>
           </div>
            <h3>豆知識</h3> 
@@ -45,35 +30,34 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle"><a href="">曼尼普爾騎兵</a>
+                <div class="unititle"><nuxt-link to="">曼尼普爾騎兵</nuxt-link>
                 </div>
               </td>
             </tr>
             <tr>
               <td colspan="2">
                 <div class="unititle">
-                  <img src="img/Unique-tech.jpg" width="45" alt="">
+                  <img src="~assets/Unique-tech.jpg" width="45" alt="" />
                 </div>
               </td>
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">科技介紹</a>
+                <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link>
                 </div>
               </td>
             </tr>
+            <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">柏柏</td>
+            <td class="unit4"><nuxt-link to="Burmese">緬甸</nuxt-link></td>
             </tr>
             <tr>
               <td class="unit3">時代</td>
-              <td class="unit4">帝王時代</a>
-              </td>
+              <td class="unit4"><img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></td>
             </tr>
             <tr>
               <td class="unit3">研發於</td>
-              <td class="unit4">城堡</a>
-              </td>
+              <td class="unit4"><img class="gg" src="~assets/Castleicon.png" width="45" alt=""><nuxt-link to="/building/Castle">城堡</nuxt-link></td>
             </tr>
             <tr>
               <td class="unit3">研發時間</td>
@@ -81,7 +65,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">成本</a>
+                <div class="unititle2"><nuxt-link to="">成本</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -95,7 +79,7 @@
             </tr>
             <tr>
               <td class="unit" colspan="2" style=" background-color:#31b0d5;">
-                <div class="unititle2"><a href="">影響</a>
+                <div class="unititle2"><nuxt-link to="">影響</nuxt-link>
                 </div>
               </td>
             </tr>
@@ -110,6 +94,10 @@
       <div class="row">
         <div class="col-md-12"></div>
       </div>
-    </div>    <?php include( "foot.php"); ?>
-  </body>
-</html>
+    </div>
+    
+    </template>
+<script>
+export default {layout: 'foot',  components: {}}
+</script>
+<style></style>
