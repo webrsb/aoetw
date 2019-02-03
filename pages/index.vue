@@ -128,8 +128,8 @@
             <h4 style="margin-top:30px;"><strong>每周精選</strong></h4>
             <ul>
               <li><nuxt-link to="/Taunts.php">嘲諷語音</nuxt-link></li>
-              <li><nuxt-link to="/Regeneration.php">回血</nuxt-link></li>
-              <li><nuxt-link to="/Garrison.php">駐軍</nuxt-link></li>
+              <li><nuxt-link to="/Regeneration">回血</nuxt-link></li>
+              <li><nuxt-link to="/Garrison">駐軍</nuxt-link></li>
               <li><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link></li>
             </ul>
           </div>
