@@ -556,7 +556,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/EliteEagleWarriorIcon.jpg "
+                    src="~assets/EliteEagleWarriorIcon.jpg"
                     alt=""
                   />
                   <nuxt-link to="/units/Elite_Eagle_Warrior"
@@ -1008,9 +1008,12 @@
       </div>
     </div>
   </div>
-  <?php include( "allunit',
-  components: {
-  }
+</template>
+<script>
+export default {
+  layout: 'allunit',
+  components: {}
 }
 </script>
-</template>
+<style></style>
+

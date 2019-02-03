@@ -547,7 +547,7 @@
                 <li>
                   <img
                     class="gg"
-                    src="~assets/EliteEagleWarriorIcon.jpg "
+                    src="~assets/EliteEagleWarriorIcon.jpg"
                     alt=""
                   />
                   <nuxt-link to="/units/Elite_Eagle_Warrior"
