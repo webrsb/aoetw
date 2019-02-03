@@ -12,19 +12,46 @@
             <h5><b>遊戲中有5個版本、共24關主戰役劇情。</b></h5>
             <div class="hrn1"></div>
             <p>
-              帝王世紀戰役 ➠ <nuxt-link to="#1">【威廉華勒斯】</nuxt-link>、<nuxt-link to="#2">【聖女貞德】</nuxt-link>、 <nuxt-link to="#3">【薩拉丁】</nuxt-link>、<nuxt-link to="#4">【成吉思汗】</nuxt-link>、<nuxt-link to="#5">【巴巴羅薩】</nuxt-link>
+              帝王世紀戰役 ➠
+              <nuxt-link to="#1">【威廉華勒斯】</nuxt-link>、<nuxt-link to="#2"
+                >【聖女貞德】</nuxt-link
+              >、 <nuxt-link to="#3">【薩拉丁】</nuxt-link>、<nuxt-link to="#4"
+                >【成吉思汗】</nuxt-link
+              >、<nuxt-link to="#5">【巴巴羅薩】</nuxt-link>
             </p>
             <p>
-              征服者入侵戰役 ➠ <nuxt-link to="#6">【阿提拉】</nuxt-link>、<nuxt-link to="#7">【席德】</nuxt-link>、<nuxt-link to="#8">【蒙特蘇馬】</nuxt-link>、<nuxt-link to="#9">【征服者的戰役】</nuxt-link>
+              征服者入侵戰役 ➠
+              <nuxt-link to="#6">【阿提拉】</nuxt-link>、<nuxt-link to="#7"
+                >【席德】</nuxt-link
+              >、<nuxt-link to="#8">【蒙特蘇馬】</nuxt-link>、<nuxt-link to="#9"
+                >【征服者的戰役】</nuxt-link
+              >
             </p>
             <p>
-              失落帝國戰役 ➠ <nuxt-link to="#10">【阿拉里克】</nuxt-link>、<nuxt-link to="#11">【德古拉】</nuxt-link>、<nuxt-link to="#12">【巴里】</nuxt-link>、<nuxt-link to="#13">【斯福爾札】</nuxt-link>、<nuxt-link to="#14">【黃金國】</nuxt-link>、<nuxt-link to="#15">【布里斯比羅吉】</nuxt-link>、<nuxt-link to="#16">【失落帝國的戰役】</nuxt-link>
+              失落帝國戰役 ➠
+              <nuxt-link to="#10">【阿拉里克】</nuxt-link>、<nuxt-link to="#11"
+                >【德古拉】</nuxt-link
+              >、<nuxt-link to="#12">【巴里】</nuxt-link>、<nuxt-link to="#13"
+                >【斯福爾札】</nuxt-link
+              >、<nuxt-link to="#14">【黃金國】</nuxt-link>、<nuxt-link to="#15"
+                >【布里斯比羅吉】</nuxt-link
+              >、<nuxt-link to="#16">【失落帝國的戰役】</nuxt-link>
             </p>
             <p>
-              非洲王國戰役 ➠ <nuxt-link to="#17">【塔里克．伊本．齊亞德】</nuxt-link>、<nuxt-link to="#18">【松迪亞塔】</nuxt-link>、<nuxt-link to="#19">【法蘭西斯科．阿爾梅達】</nuxt-link>、<nuxt-link to="#20">【遊娣特】</nuxt-link>
+              非洲王國戰役 ➠
+              <nuxt-link to="#17">【塔里克．伊本．齊亞德】</nuxt-link
+              >、<nuxt-link to="#18">【松迪亞塔】</nuxt-link>、<nuxt-link
+                to="#19"
+                >【法蘭西斯科．阿爾梅達】</nuxt-link
+              >、<nuxt-link to="#20">【遊娣特】</nuxt-link>
             </p>
             <p>
-              王者崛起戰役 ➠ <nuxt-link to="#21">【加查•馬達】</nuxt-link>、<nuxt-link to="#22">【蘇利耶跋摩一世】</nuxt-link>、<nuxt-link to="#23">【勃印曩】</nuxt-link>、<nuxt-link to="#24">【黎利】</nuxt-link>
+              王者崛起戰役 ➠
+              <nuxt-link to="#21">【加查•馬達】</nuxt-link>、<nuxt-link to="#22"
+                >【蘇利耶跋摩一世】</nuxt-link
+              >、<nuxt-link to="#23">【勃印曩】</nuxt-link>、<nuxt-link to="#24"
+                >【黎利】</nuxt-link
+              >
             </p>
           </div>
         </div>
