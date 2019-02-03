@@ -20,7 +20,7 @@
         <p>本頁面介紹世紀帝國界的知名玩家，單挑團戰後寫的是最高積分</p>
         <p>
           比賽的縮寫可參考
-          <a href="http://aoetw.com//history">歷年比賽結果</a>，2v2
+          <nuxt-link to="/http://aoetw.com//history">歷年比賽結果</nuxt-link>，2v2
           的縮寫以「地圖D年份」表示
         </p>
       </div>
@@ -32,15 +32,14 @@
                 <h3>
                   <strong
                     >Viper
-                    <a
-                      href="https://www.voobly.com/profile/view/123211439/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123211439/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/theviper"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/theviper"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a href="https://www.youtube.com/user/TheViperAOC/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/user/TheViperAOC/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -53,8 +52,8 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img src="~assets/no.png" alt="" />挪威
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />Secret</a
+                <nuxt-link to="/https://teamsecret.gg/team/team-secret-age-of-empires/"
+                  ><img src="~assets/secret.jpg" alt="" />Secret</nuxt-link
                 >
               </td>
             </tr>
@@ -80,12 +79,11 @@
                 <h3>
                   <strong
                     >Liereyy
-                    <a
-                      href="https://www.voobly.com/profile/view/124147336/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/124147336/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/liereyy"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link="/https://www.twitch.tv/liereyy"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -122,12 +120,11 @@
                 <h3>
                   <strong
                     >Yo (猜火車)
-                    <a
-                      href="https://www.voobly.com/profile/view/123636492/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123636492/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.douyu.com/753676"
-                      ><img src="~assets/douyu.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.douyu.com/753676"
+                      ><img src="~assets/douyu.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -163,12 +160,11 @@
                 <h3>
                   <strong
                     >Nicov
-                    <a
-                      href="https://www.voobly.com/profile/view/123807394/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123807394/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/nicov_"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="https://www.twitch.tv/nicov_"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -207,15 +203,14 @@
                 <h3>
                   <strong
                     >DauT
-                    <a href="https://www.voobly.com/profile/view/12926/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/12926/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/daut"
+                    /></nuxt-link>
+                    <nuxt-link to="https://www.twitch.tv/daut"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UC8m8Iah2xOHZvnBbpyOcEOA/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="https://www.youtube.com/channel/UC8m8Iah2xOHZvnBbpyOcEOA/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -228,8 +223,8 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img src="~assets/rs.png" alt="" />賽爾維亞
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />Secret</a
+                <nuxt-link to="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                  ><img src="~assets/secret.jpg" alt="" />Secret</nuxt-link
                 >
               </td>
             </tr>
@@ -257,19 +252,17 @@
                 <h3>
                   <strong
                     >TaToH
-                    <a
-                      href="https://www.voobly.com/profile/view/123999216/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123999216/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/tatoh"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/tatoh"
                       ><img src="~assets/Ten.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/tatohaoe"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/tatohaoe"
                       ><img src="~assets/Tes.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UCtPQLL9KACyYzoYXiMl1Nkg/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/channel/UCtPQLL9KACyYzoYXiMl1Nkg/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -282,8 +275,8 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img src="~assets/es.png" alt="" />西班牙
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />Secret</a
+                <nuxt-link to="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                  ><img src="~assets/secret.jpg" alt="" />Secret</nuxt-link
                 >
               </td>
             </tr>
@@ -311,15 +304,14 @@
                 <h3>
                   <strong
                     >JorDan
-                    <a href="https://www.voobly.com/profile/view/817/Matches"
+                    <nuxt-link="/https://www.voobly.com/profile/view/817/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/secret_jordan23"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/secret_jordan23"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UCimCFIisAqXW9udVhN_LpwQ/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/channel/UCimCFIisAqXW9udVhN_LpwQ/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -332,8 +324,8 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img src="~assets/de.png" alt="" />德國
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />Secret</a
+                <nuxt-link to="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                  ><img src="~assets/secret.jpg" alt="" />Secret</nuxt-link
                 >
               </td>
             </tr>
@@ -360,16 +352,14 @@
                 <h3>
                   <strong
                     >slam
-                    <a
-                      href="https://www.voobly.com/profile/view/123497926/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123497926/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/slamjam_"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/slamjam_"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UC15K06FB4EO98AMBYqraQ3w/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/channel/UC15K06FB4EO98AMBYqraQ3w/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -382,8 +372,8 @@
             <tr>
               <td class="tor" style="text-align:center">
                 <img src="~assets/ca.png" alt="" />加拿大
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
-                  ><img src="~assets/secret.jpg" alt="" />Secret</a
+                <nuxt-link to="/https://teamsecret.gg/team/team-secret-age-of-empires/"
+                  ><img src="~assets/secret.jpg" alt="" />Secret</nuxt-link
                 >
               </td>
             </tr>
@@ -407,12 +397,11 @@
                 <h3>
                   <strong
                     >MbL
-                    <a
-                      href="https://www.voobly.com/profile/view/123844441/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123844441/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/mblaoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/mblaoc"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -487,12 +476,11 @@
                 <h3>
                   <strong
                     >Hera
-                    <a
-                      href="https://www.voobly.com/profile/view/124954867/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/124954867/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/hera_aoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/hera_aoc"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -528,12 +516,11 @@
                 <h3>
                   <strong
                     >Lyx (衝動)
-                    <a
-                      href="https://www.voobly.com/profile/view/123230853/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123230853/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.douyu.com/1029928"
-                      ><img src="~assets/douyu.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.douyu.com/1029928"
+                      ><img src="~assets/douyu.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -570,12 +557,11 @@
                 <h3>
                   <strong
                     >yinghua (櫻花)
-                    <a
-                      href="https://www.voobly.com/profile/view/123910183/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123910183/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.douyu.com/953871"
-                      ><img src="~assets/douyu.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.douyu.com/953871"
+                      ><img src="~assets/douyu.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -611,12 +597,11 @@
                 <h3>
                   <strong
                     >Fengxin (封心)
-                    <a
-                      href="https://www.voobly.com/profile/view/123835916/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123835916/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.douyu.com/294359"
-                      ><img src="~assets/douyu.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.douyu.com/294359"
+                      ><img src="~assets/douyu.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -653,12 +638,11 @@
                 <h3>
                   <strong
                     >miguel
-                    <a
-                      href="https://www.voobly.com/profile/view/123600879/Matches"
+                    nuxt-link to="/https://www.voobly.com/profile/view/123600879/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/miguelaoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/miguelaoc"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -695,15 +679,14 @@
                 <h3>
                   <strong
                     >RiuT
-                    <a href="https://www.voobly.com/profile/view/56531/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/56531/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/tyrant_riut"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/tyrant_riut"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UCWk47NDwrg9p696-Usiv8fw/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/channel/UCWk47NDwrg9p696-Usiv8fw/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -742,12 +725,11 @@
                 <h3>
                   <strong
                     >dogao
-                    <a
-                      href="https://www.voobly.com/profile/view/123444726/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123444726/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/dogaoaoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/dogaoaoc"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -785,16 +767,14 @@
                 <h3>
                   <strong
                     >F1Re
-                    <a
-                      href="https://www.voobly.com/profile/view/123658746/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123658746/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/f1reaoe"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/f1reaoe"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UCe5PZxogLEsu5VacKmOiR5g/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/channel/UCe5PZxogLEsu5VacKmOiR5g/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -830,9 +810,8 @@
                 <h3>
                   <strong
                     >mentalist
-                    <a
-                      href="https://www.voobly.com/profile/view/123805043/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""/></a
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123805043/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -869,16 +848,14 @@
                 <h3>
                   <strong
                     >St4rk
-                    <a
-                      href="https://www.voobly.com/profile/view/125107343/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/125107343/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/st4rk_"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/st4rk_"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UCoX5HqFM4qEGJYfj0TEOIpg/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/channel/UCoX5HqFM4qEGJYfj0TEOIpg/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -918,12 +895,11 @@
                 <h3>
                   <strong
                     >ACCM
-                    <a
-                      href="https://www.voobly.com/profile/view/123591487/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123591487/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/accm_vn"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/accm_vn"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -963,12 +939,11 @@
                 <h3>
                   <strong
                     >CooL
-                    <a
-                      href="https://www.voobly.com/profile/view/123194620/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123194620/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/vns_cool_"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/vns_cool_"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1005,16 +980,14 @@
                 <h3>
                   <strong
                     >BacT
-                    <a
-                      href="https://www.voobly.com/profile/view/123194539/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123194539/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/bact_"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/bact_"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UCScpQlZKVLdPMFBdd1gXbRQ/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/channel/UCScpQlZKVLdPMFBdd1gXbRQ/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1054,12 +1027,11 @@
                 <h3>
                   <strong
                     >Yellow (saymyname)
-                    <a
-                      href="https://www.voobly.com/profile/view/123174138/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123174138/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/saymyname2909"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/saymyname2909"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1095,12 +1067,11 @@
                 <h3>
                   <strong
                     >TheMax
-                    <a
-                      href="https://www.voobly.com/profile/view/123282211/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123282211/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/themax_"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/themax_"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1136,9 +1107,8 @@
                 <h3>
                   <strong
                     >Villese
-                    <a
-                      href="https://www.voobly.com/profile/view/124166670/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""/></a
+                    <nuxt-link to="/https://www.voobly.com/profile/view/124166670/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1174,12 +1144,11 @@
                 <h3>
                   <strong
                     >Zuppi
-                    <a
-                      href="https://www.voobly.com/profile/view/123961442/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123961442/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/toreeeee"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/toreeeee"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1217,12 +1186,11 @@
                 <h3>
                   <strong
                     >Pike
-                    <a
-                      href="https://www.voobly.com/profile/view/123162283/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123162283/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/pikeaoc"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/pikeaoc"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1256,11 +1224,11 @@
                 <h3>
                   <strong
                     >Tim
-                    <a href="https://www.voobly.com/profile/view/182612/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/182612/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.panda.tv/243001"
-                      ><img src="~assets/Panda.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.panda.tv/243001"
+                      ><img src="~assets/Panda.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1296,12 +1264,11 @@
                 <h3>
                   <strong
                     >CL (晨亮)
-                    <a
-                      href="https://www.voobly.com/profile/view/123916446/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123916446/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.douyu.com/556823"
-                      ><img src="~assets/douyu.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.douyu.com/556823"
+                      ><img src="~assets/douyu.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1334,8 +1301,8 @@
                 <h3>
                   <strong
                     >Vivi (肥龍)
-                    <a href="https://www.douyu.com/1052202"
-                      ><img src="~assets/douyu.jpg" alt=""/></a
+                    <nuxt-link to="/https://www.douyu.com/1052202"
+                      ><img src="~assets/douyu.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1371,12 +1338,11 @@
                 <h3>
                   <strong
                     >Vinch
-                    <a
-                      href="https://www.voobly.com/profile/view/123397463/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123397463/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/vik_vinchester"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/vik_vinchester"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1412,12 +1378,11 @@
                 <h3>
                   <strong
                     >Edie
-                    <a
-                      href="https://www.voobly.com/profile/view/123666945/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123666945/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/edietv"
-                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/edietv"
+                      ><img src="~assets/Twitch.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1454,16 +1419,14 @@
                 <h3>
                   <strong
                     >Melkor
-                    <a
-                      href="https://www.voobly.com/profile/view/123922182/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123922182/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/braoe2"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/braoe2"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a
-                      href="https://www.youtube.com/channel/UCA4ad3jJDfg6A3FHsG_jkqg/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/channel/UCA4ad3jJDfg6A3FHsG_jkqg/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1500,15 +1463,14 @@
                 <h3>
                   <strong
                     >Cloud (雲)
-                    <a
-                      href="https://www.voobly.com/profile/view/123198508/Matches"
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123198508/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
-                    /></a>
-                    <a href="https://www.twitch.tv/gktcloud"
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.twitch.tv/gktcloud"
                       ><img src="~assets/Twitch.jpg" alt=""
-                    /></a>
-                    <a href="https://www.youtube.com/gktcloud/videos"
-                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                    /></nuxt-link>
+                    <nuxt-link to="/https://www.youtube.com/gktcloud/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1544,9 +1506,8 @@
                 <h3>
                   <strong
                     >Chris
-                    <a
-                      href="https://www.voobly.com/profile/view/123397426/Matches"
-                      ><img src="~assets/Voobly.jpg" alt=""/></a
+                    <nuxt-link to="/https://www.voobly.com/profile/view/123397426/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""/></nuxt-link
                   ></strong>
                 </h3>
               </td>
@@ -1581,10 +1542,9 @@
       <div>
         <p></p>
         <p>
-          照片來源：<a href="https://www.aoezone.net/">AoEZone 共享資源</a>、<a
-            href="https://teamsecret.gg/"
-            >Secret 授權</a
-          >、<a href="https://www.facebook.com/gametvgiaidau/">GameTV 授權</a
+          照片來源：<nuxt-link to="/https://www.aoezone.net/">AoEZone 共享資源</nuxt-link>、<nuxt-link to="/https://teamsecret.gg/"
+            >Secret 授權</nuxt-link
+          >、<nuxt-link to="/https://www.facebook.com/gametvgiaidau/">GameTV 授權</nuxt-link
           >、選手本人提供
         </p>
         <p>本頁面由 Lanchi 整理，最後更新 2018/11/28</p>
