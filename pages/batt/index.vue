@@ -13,9 +13,11 @@
             <div class="hrn1"></div>
             <p>
               帝王世紀戰役 ➠
-              <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link to="#a2"
+              <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link
+                to="#a2"
                 >【聖女貞德】</nuxt-link
-              >、 <nuxt-link to="#a3">【薩拉丁】</nuxt-link>、<nuxt-link to="#a4"
+              >、 <nuxt-link to="#a3">【薩拉丁】</nuxt-link>、<nuxt-link
+                to="#a4"
                 >【成吉思汗】</nuxt-link
               >、<nuxt-link to="#a5">【巴巴羅薩】</nuxt-link>
             </p>
@@ -23,17 +25,20 @@
               征服者入侵戰役 ➠
               <nuxt-link to="#a6">【阿提拉】</nuxt-link>、<nuxt-link to="#a7"
                 >【席德】</nuxt-link
-              >、<nuxt-link to="#a8">【蒙特蘇馬】</nuxt-link>、<nuxt-link to="#a9"
+              >、<nuxt-link to="#a8">【蒙特蘇馬】</nuxt-link>、<nuxt-link
+                to="#a9"
                 >【征服者的戰役】</nuxt-link
               >
             </p>
             <p>
               失落帝國戰役 ➠
-              <nuxt-link to="#a10">【阿拉里克】</nuxt-link>、<nuxt-link to="#a11"
+              <nuxt-link to="#a10">【阿拉里克】</nuxt-link>、<nuxt-link
+                to="#a11"
                 >【德古拉】</nuxt-link
               >、<nuxt-link to="#a12">【巴里】</nuxt-link>、<nuxt-link to="#a13"
                 >【斯福爾札】</nuxt-link
-              >、<nuxt-link to="#a14">【黃金國】</nuxt-link>、<nuxt-link to="#a15"
+              >、<nuxt-link to="#a14">【黃金國】</nuxt-link>、<nuxt-link
+                to="#a15"
                 >【布里斯比羅吉】</nuxt-link
               >、<nuxt-link to="#a16">【失落帝國的戰役】</nuxt-link>
             </p>
@@ -47,9 +52,11 @@
             </p>
             <p>
               王者崛起戰役 ➠
-              <nuxt-link to="#a21">【加查•馬達】</nuxt-link>、<nuxt-link to="#a22"
+              <nuxt-link to="#a21">【加查•馬達】</nuxt-link>、<nuxt-link
+                to="#a22"
                 >【蘇利耶跋摩一世】</nuxt-link
-              >、<nuxt-link to="#a23">【勃印曩】</nuxt-link>、<nuxt-link to="#a24"
+              >、<nuxt-link to="#a23">【勃印曩】</nuxt-link>、<nuxt-link
+                to="#a24"
                 >【黎利】</nuxt-link
               >
             </p>
