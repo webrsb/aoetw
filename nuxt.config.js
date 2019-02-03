@@ -74,5 +74,8 @@ module.exports = {
       }
     }
   },
-  router
+  router,
+  generate: {
+    concurrency: 50
+  }
 }
