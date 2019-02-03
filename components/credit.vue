@@ -43,7 +43,7 @@ export default {
         r = r.slice(0, -1)
       }
 
-      if (this.special_paths.indexOf(r) > 0) {
+      if (this.special_paths.indexOf(r) >= 0) {
         return r + '/index'
       }
       return r

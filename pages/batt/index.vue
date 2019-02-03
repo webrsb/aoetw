@@ -13,43 +13,43 @@
             <div class="hrn1"></div>
             <p>
               帝王世紀戰役 ➠
-              <nuxt-link to="#1">【威廉華勒斯】</nuxt-link>、<nuxt-link to="#2"
+              <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link to="#a2"
                 >【聖女貞德】</nuxt-link
-              >、 <nuxt-link to="#3">【薩拉丁】</nuxt-link>、<nuxt-link to="#4"
+              >、 <nuxt-link to="#a3">【薩拉丁】</nuxt-link>、<nuxt-link to="#a4"
                 >【成吉思汗】</nuxt-link
-              >、<nuxt-link to="#5">【巴巴羅薩】</nuxt-link>
+              >、<nuxt-link to="#a5">【巴巴羅薩】</nuxt-link>
             </p>
             <p>
               征服者入侵戰役 ➠
-              <nuxt-link to="#6">【阿提拉】</nuxt-link>、<nuxt-link to="#7"
+              <nuxt-link to="#a6">【阿提拉】</nuxt-link>、<nuxt-link to="#a7"
                 >【席德】</nuxt-link
-              >、<nuxt-link to="#8">【蒙特蘇馬】</nuxt-link>、<nuxt-link to="#9"
+              >、<nuxt-link to="#a8">【蒙特蘇馬】</nuxt-link>、<nuxt-link to="#a9"
                 >【征服者的戰役】</nuxt-link
               >
             </p>
             <p>
               失落帝國戰役 ➠
-              <nuxt-link to="#10">【阿拉里克】</nuxt-link>、<nuxt-link to="#11"
+              <nuxt-link to="#a10">【阿拉里克】</nuxt-link>、<nuxt-link to="#a11"
                 >【德古拉】</nuxt-link
-              >、<nuxt-link to="#12">【巴里】</nuxt-link>、<nuxt-link to="#13"
+              >、<nuxt-link to="#a12">【巴里】</nuxt-link>、<nuxt-link to="#a13"
                 >【斯福爾札】</nuxt-link
-              >、<nuxt-link to="#14">【黃金國】</nuxt-link>、<nuxt-link to="#15"
+              >、<nuxt-link to="#a14">【黃金國】</nuxt-link>、<nuxt-link to="#a15"
                 >【布里斯比羅吉】</nuxt-link
-              >、<nuxt-link to="#16">【失落帝國的戰役】</nuxt-link>
+              >、<nuxt-link to="#a16">【失落帝國的戰役】</nuxt-link>
             </p>
             <p>
               非洲王國戰役 ➠
-              <nuxt-link to="#17">【塔里克．伊本．齊亞德】</nuxt-link
-              >、<nuxt-link to="#18">【松迪亞塔】</nuxt-link>、<nuxt-link
-                to="#19"
+              <nuxt-link to="#a17">【塔里克．伊本．齊亞德】</nuxt-link
+              >、<nuxt-link to="#a18">【松迪亞塔】</nuxt-link>、<nuxt-link
+                to="#a19"
                 >【法蘭西斯科．阿爾梅達】</nuxt-link
-              >、<nuxt-link to="#20">【遊娣特】</nuxt-link>
+              >、<nuxt-link to="#a20">【遊娣特】</nuxt-link>
             </p>
             <p>
               王者崛起戰役 ➠
-              <nuxt-link to="#21">【加查•馬達】</nuxt-link>、<nuxt-link to="#22"
+              <nuxt-link to="#a21">【加查•馬達】</nuxt-link>、<nuxt-link to="#a22"
                 >【蘇利耶跋摩一世】</nuxt-link
-              >、<nuxt-link to="#23">【勃印曩】</nuxt-link>、<nuxt-link to="#24"
+              >、<nuxt-link to="#a23">【勃印曩】</nuxt-link>、<nuxt-link to="#a24"
                 >【黎利】</nuxt-link
               >
             </p>
@@ -64,7 +64,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <div id="1">
+                    <div id="a1">
                       <nuxt-link to="/batt/William_Wallacea"
                         >威廉華勒斯</nuxt-link
                       >
@@ -145,7 +145,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <div id="2">
+                    <div id="a2">
                       <nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link>
                     </div>
                   </div>
@@ -217,7 +217,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <div id="3">
+                    <div id="a3">
                       <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
                     </div>
                   </div>
@@ -287,7 +287,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <div id="4">
+                    <div id="a4">
                       <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
                     </div>
                   </div>
@@ -355,7 +355,7 @@
               <tr>
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
-                    <div id="5">
+                    <div id="a5">
                       <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
                     </div>
                   </div>
@@ -434,7 +434,7 @@
               <tr>
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
-                    <div id="6">
+                    <div id="a6">
                       <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
                     </div>
                   </div>
@@ -502,7 +502,7 @@
               <tr>
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
-                    <div id="7">
+                    <div id="a7">
                       <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
                     </div>
                   </div>
@@ -572,7 +572,7 @@
               <tr>
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
-                    <div id="8">
+                    <div id="a8">
                       <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
                     </div>
                   </div>
@@ -636,7 +636,7 @@
               <tr>
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
-                    <div id="9">
+                    <div id="a9">
                       <nuxt-link to="/batt/Battles_of_the_Conquerors"
                         >征服者的戰役</nuxt-link
                       >
@@ -733,7 +733,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <div id="10">
+                    <div id="a10">
                       <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
                     </div>
                   </div>
@@ -787,7 +787,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <div id="11">
+                    <div id="a11">
                       <nuxt-link to="/batt/Draculaa">德古拉</nuxt-link>
                     </div>
                   </div>
@@ -848,7 +848,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <div id="12">
+                    <div id="a12">
                       <nuxt-link to="/batt/Baria">巴里</nuxt-link>
                     </div>
                   </div>
@@ -891,7 +891,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <div id="13">
+                    <div id="a13">
                       <nuxt-link to="/batt/Sforzaa">斯福爾札</nuxt-link>
                     </div>
                   </div>
@@ -954,7 +954,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <div id="14">
+                    <div id="a14">
                       <nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>
                     </div>
                   </div>
@@ -1004,7 +1004,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <div id="15">
+                    <div id="a15">
                       <nuxt-link to="/batt/Prithviraja">布里斯比羅吉</nuxt-link>
                     </div>
                   </div>
@@ -1058,7 +1058,7 @@
               <tr>
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
-                    <div id="16">
+                    <div id="a16">
                       <nuxt-link to="/batt/Battles_of_the_Forgotten"
                         >失落帝國的戰役</nuxt-link
                       >
@@ -1162,7 +1162,7 @@
               <tr>
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
-                    <div id="17">
+                    <div id="a17">
                       <nuxt-link to="/batt/Tariq_ibn_Ziyada"
                         >塔里克．伊本．齊亞德</nuxt-link
                       >
@@ -1227,7 +1227,7 @@
               <tr>
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
-                    <div id="18">
+                    <div id="a18">
                       <nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link>
                     </div>
                   </div>
@@ -1288,7 +1288,7 @@
               <tr>
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
-                    <div id="19">
+                    <div id="a19">
                       <nuxt-link to="/batt/Francisco_de_Almeidaa"
                         >法蘭西斯科．阿爾梅達</nuxt-link
                       >
@@ -1347,7 +1347,7 @@
               <tr>
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
-                    <div id="20">
+                    <div id="a20">
                       <nuxt-link to="/batt/Yodita">遊娣特</nuxt-link>
                     </div>
                   </div>
@@ -1409,7 +1409,7 @@
               <tr>
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
-                    <div id="21">
+                    <div id="a21">
                       <nuxt-link to="/batt/Gajah_Madaa">加查•馬達</nuxt-link>
                     </div>
                   </div>
@@ -1474,7 +1474,7 @@
               <tr>
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
-                    <div id="22">
+                    <div id="a22">
                       <nuxt-link to="/batt/Suryavarman_Ia"
                         >蘇利耶跋摩一世</nuxt-link
                       >
@@ -1537,7 +1537,7 @@
               <tr>
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
-                    <div id="23">
+                    <div id="a23">
                       <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
                     </div>
                   </div>
@@ -1598,7 +1598,7 @@
               <tr>
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
-                    <div id="24">
+                    <div id="a24">
                       <nuxt-link to="/batt/Le_Loi">黎利</nuxt-link>
                     </div>
                   </div>
