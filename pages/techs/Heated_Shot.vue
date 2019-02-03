@@ -102,7 +102,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/units/Watch_Tower">暸望箭塔</nuxt-link>
+              <nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>
             </td>
             <td class="tta2">7</td>
             <td class="tta2">16</td>
@@ -110,7 +110,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
             </td>
             <td class="tta2">9</td>
             <td class="tta2">20</td>
@@ -118,7 +118,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
             </td>
             <td class="tta2">10</td>
             <td class="tta2">23</td>

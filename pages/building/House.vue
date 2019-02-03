@@ -47,7 +47,7 @@
                 <nuxt-link to="/civs/Khmer">高棉</nuxt-link
                 >讓玩家可以在防守時使用房屋作為防禦性建築，因為他們可以讓五名村民駐守在房屋內（不過不像在
                 <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-                >，<nuxt-link to="/units/Watch_Tower">箭塔</nuxt-link
+                >，<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
                 >或<nuxt-link to="/building/Castle">城堡</nuxt-link
                 >中進駐，駐守在房屋內的村民不能射箭）。這有助於高棉玩家減少村民損失，所以建議在繁忙的工作地點旁邊建造房屋。而且，如果他們想用房屋替代牆壁，他們可以透過駐守房子在把村民放出來移動到玩家的城鎮裡。
               </li>

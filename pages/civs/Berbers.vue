@@ -77,7 +77,7 @@
               <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >。另外沒有<nuxt-link to="/building/Bombard_Tower"
                 >火砲塔</nuxt-link
-              >跟<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              >跟<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >還有建築學因此在防禦上比較依賴兵力。
             </li>
             <li>

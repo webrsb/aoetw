@@ -508,7 +508,7 @@
          <td class="t11 trm not"><img class="gg" src="~assets/Masonry.jpg" alt=""><div><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link></div><i class="fas fa-arrow-down"></i></td>
          <td class="t11 trm"><img class="gg" src="~assets/Fortified-wall-research.jpg" alt=""><div><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link></td>
          <td class="t11 trm"><img class="gg" src="~assets/Ballistics.jpg" alt=""><div><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link></div></td>
-         <td class="t11 trm"><img class="gg" src="~assets/Guard-tower-research.jpg" alt=""><div><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link></div><i class="fas fa-arrow-down"></i></td>
+         <td class="t11 trm"><img class="gg" src="~assets/Guard-tower-research.jpg" alt=""><div><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link></div><i class="fas fa-arrow-down"></i></td>
          <td class="t11 trm"><img class="gg" src="~assets/Heatedshot.png" alt=""><div><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link></div></td>
          <td class="t11 trm"><img class="gg" src="~assets/Murderholes.jpg" alt=""><div><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link></div></td>
          <td class="t11 trm"><img class="gg" src="~assets/Treadmillcrane.jpg" alt=""><div><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link></td>
@@ -518,7 +518,7 @@
         <td class="t11 trm not"><img class="gg" src="~assets/Architecture.jpg" alt=""><div><nuxt-link to="/techs/Architecture">建築學</nuxt-link></div></td>
         <td class="t11 trm"><img class="gg" src="~assets/Chemistry.jpg" alt=""><div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div><i class="fas fa-arrow-down"></i><br/><img class="gg " src="~assets/Bombard-tower-research.jpg" alt=""><div><nuxt-link to="/building/Bombard_Tower" >火砲塔</nuxt-link></div></td>
         <td class="t11 trm"><img class="gg" src="~assets/Siegeengineers.jpg" alt=""><div><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link></td>
-        <td class="t11 trm <img class="gg" src="~assets/Keep-research.jpg" alt=""><div><nuxt-link to="/units/Keep">大型箭塔</nuxt-link></div></td>
+        <td class="t11 trm <img class="gg" src="~assets/Keep-research.jpg" alt=""><div><nuxt-link to="/building/Keep">大型箭塔</nuxt-link></div></td>
         <td class="t11 trm"><img class="gg" src="~assets/Arrowlits.jpg" alt=""><div><nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link></div></td>
         <td class="t11 trm"></td>
         <td class="t11 trm"></td>

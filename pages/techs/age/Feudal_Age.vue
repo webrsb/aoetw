@@ -85,7 +85,7 @@
                 src="~assets/Watchtowericon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link
+              /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
               >:防禦敵人的塔。
             </li>
             <li>

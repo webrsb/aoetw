@@ -131,7 +131,7 @@
                   </div>
                   <ul>
                     <li>
-                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/units/Keep">大型箭塔</nuxt-link> 
+                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/building/Keep">大型箭塔</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+9攻擊</strong>
@@ -150,7 +150,7 @@
                     <li>
                       <img class="gg" src="~assets/LongboatIcon.jpg" alt=""><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link> 
+                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link> 
                     </li>
                     <li>
                       <img class="gg" src="~assets/Dockicon.png" width="22" alt=""><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)</li>
@@ -174,7 +174,7 @@
                     <li>
                       <img class="gg" src="~assets/CaravelIcon2.jpg" alt=""><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link>(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)</li>
                     <li>
-                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link> 
+                      <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link> 
                     </li>
                   </ul>
                   <div style="margin:12px 0px;"><strong>+6攻擊</strong>
@@ -236,14 +236,14 @@
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/units/Keep">大型箭塔</nuxt-link> 
+                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/building/Keep">大型箭塔</nuxt-link> 
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+11攻擊</strong>
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link> 
+                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link> 
                   </li>
                 </ul>
               </div>
@@ -252,7 +252,7 @@
                 </div>
                 <ul>
                   <li>
-                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link> 
+                    <img class="gg" src="~assets/Watchtowericon.png" alt=""><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link> 
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong>

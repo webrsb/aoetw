@@ -397,11 +397,11 @@
           </h3>
           <ul>
             <li>
-              升級到<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              升級到<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >需要100食物和250石材。
             </li>
             <li>
-              <nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link
+              <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
               >對<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>攻擊+7因為
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
               >的護甲分類是<nuxt-link to="/armor/Armor_Class_Ship"
@@ -409,7 +409,7 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link
+              <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
               >的第二支箭矢的攻擊是1。
             </li>
           </ul>
@@ -418,11 +418,11 @@
           </h3>
           <ul>
             <li>
-              升級到<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              升級到<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >需要100食物和250木材。
             </li>
             <li>
-              <nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link
+              <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
               >攻擊+2。
             </li>
@@ -470,7 +470,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
-                to="/units/Watch_Tower"
+                to="/building/Watch_Tower"
                 >瞭望箭塔</nuxt-link
               >建造速度快33%。
             </li>
@@ -486,12 +486,12 @@
               >分類中移除，所以箭塔對他們的攻擊加成也移除，現在箭塔對他們的攻擊是+1。
             </li>
             <li>
-              4.8版後<nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link
+              4.8版後<nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
               >的第二支箭攻擊是2。
             </li>
             <li>
               引入<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
-              >，在城堡時代可研發並給<nuxt-link to="/units/Watch_Tower"
+              >，在城堡時代可研發並給<nuxt-link to="/building/Watch_Tower"
                 >瞭望箭塔</nuxt-link
               >攻擊+2。在4.8版
               <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
@@ -664,7 +664,7 @@
                 class="gg"
                 src="~assets/Watchtowericon.png"
                 alt=""
-              /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+              /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
             </td>
           </tr>
           <tr>

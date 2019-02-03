@@ -14,10 +14,10 @@
             箭狹槽可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link>研發。研發後
-            <nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>/<nuxt-link
-              to="/units/Guard_Tower"
+            <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>/<nuxt-link
+              to="/building/Guard_Tower"
               >防禦箭塔</nuxt-link
-            >/<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+            >/<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
             >分別攻擊力+1/+2/+3。
           </p>
         </div>

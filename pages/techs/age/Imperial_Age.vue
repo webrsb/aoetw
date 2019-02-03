@@ -62,7 +62,7 @@
                 src="~assets/Watchtowericon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>:防禦敵人的塔。
+              /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>:防禦敵人的塔。
             </li>
             <li>
               <img

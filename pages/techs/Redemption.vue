@@ -130,9 +130,9 @@
               <nuxt-link to="/building/Stable">馬廄</nuxt-link>、
               <nuxt-link to="/Siege_Woekshop.php">攻城器製造所</nuxt-link>、
               <nuxt-link to="/building/Outpost">哨站</nuxt-link>、
-              <nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>、
-              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>、
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link>、
+              <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>、
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>、
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>、
               <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>。
               <nuxt-link to="/building/Feitoriaicon_Feitoria"
                 >港灣大商站</nuxt-link

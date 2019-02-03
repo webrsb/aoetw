@@ -37,7 +37,7 @@
           >。即使對方上了城堡出了
           <nuxt-link to="/units/Knight">騎士</nuxt-link
           >，依靠著大量弓兵，對方還是會有所忌憚。而弓兵駐紮<nuxt-link
-            to="/units/Watch_Tower"
+            to="/building/Watch_Tower"
             >箭塔</nuxt-link
           >裡則可以放出更多的箭矢，增加威力。
         </div>

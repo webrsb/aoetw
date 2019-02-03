@@ -579,7 +579,7 @@
                 class="gg"
                 src="~assets/Watchtowericon.png"
                 alt=""
-              /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+              /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">100F 250W</td>
@@ -663,7 +663,7 @@
                 class="gg"
                 src="~assets/Watchtowericon.png"
                 alt=""
-              /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+              /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">500F 350W</td>

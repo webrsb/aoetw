@@ -1347,7 +1347,7 @@
             </td>
             <td class="t11 trm">
               <img class="gg" src="~assets/Guard-tower-research.jpg" alt="" />
-              <div><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link></div>
+              <div><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t11 trm">
@@ -1396,7 +1396,7 @@
             </td>
             <td class="t11 trm">
               <img class="gg" src="~assets/Keep-research.jpg" alt="" />
-              <div><nuxt-link to="/units/Keep">大型箭塔</nuxt-link></div>
+              <div><nuxt-link to="/building/Keep">大型箭塔</nuxt-link></div>
             </td>
             <td class="t11 trm">
               <img class="gg" src="~assets/Arrowlits.jpg" alt="" />

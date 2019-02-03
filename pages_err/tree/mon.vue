@@ -502,7 +502,7 @@
       " alt=""><div><nuxt-link to="/building/Fortified_Wall ">垛牆</nuxt-link></td>         <td class="t11
       trm "><img class="gg " src="~assets/Ballistics.jpg " alt=""><div><nuxt-link to="/techs/Ballistics
       ">彈道學</nuxt-link></div></td>         <td class="t11 trm "><img class="gg " src="~assets/Guard-tower-research.jpg " alt="
-      "><div><nuxt-link to="/units/Guard_Tower ">防禦箭塔</nuxt-link></div><i class="fas fa-arrow-down
+      "><div><nuxt-link to="/building/Guard_Tower ">防禦箭塔</nuxt-link></div><i class="fas fa-arrow-down
       "></i></td>         <td class="t11 trm not "><img class="gg " src="~assets/Heatedshot.png " alt="
       "><div><nuxt-link to="/techs/Heated_Shot ">預熱射擊</nuxt-link></div></td>         <td class="t11 trm
       "><img class="gg " src="~assets/Murderholes.jpg " alt=""><div><nuxt-link to="/techs/Murder_Holes
@@ -516,7 +516,7 @@
       " alt=""><div><nuxt-link to="/building/Bombard_Tower " class="not
       ">火砲塔</nuxt-link></div></td>        <td class="t11 trm "><img class="gg " src="~assets/Siegeengineers.jpg " alt="
       "><div><nuxt-link to="/techs/Siege_Engineers ">攻城工程師</nuxt-link></td>        <td class="t11 trm not
-      "> <img class="gg " src="~assets/Keep-research.jpg " alt=""><div><nuxt-link to="/units/Keep
+      "> <img class="gg " src="~assets/Keep-research.jpg " alt=""><div><nuxt-link to="/building/Keep
       ">大型箭塔</nuxt-link></div></td>        <td class="t11 trm not "><img class="gg " src="~assets/Arrowlits.jpg " alt="
       "><div><nuxt-link to="/techs/Arrowslits ">箭狹槽</nuxt-link></div></td>        <td class="t11 trm
       "></td>        <td class="t11 trm "></td>        <td class="t11 trm

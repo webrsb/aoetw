@@ -451,17 +451,17 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link>的攻擊力為7。
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>的攻擊力為7。
             </li>
             <li>
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >對駱駝騎兵攻擊+10因為駱駝騎兵的護甲分類是<nuxt-link
                 to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
               >。
             </li>
             <li>
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >的第二支箭矢的攻擊是1。
             </li>
           </ul>
@@ -470,7 +470,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link>對<nuxt-link
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>對<nuxt-link
                 to="/armor/Armor_Class_Spearman"
                 >長槍兵</nuxt-link
               >攻擊+2。
@@ -497,7 +497,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link>的攻擊力為8。
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>的攻擊力為8。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
@@ -507,7 +507,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:不能建造<nuxt-link
-                to="/units/Keep"
+                to="/building/Keep"
                 >大型箭塔</nuxt-link
               >。
             </li>
@@ -519,7 +519,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
-                to="/units/Keep"
+                to="/building/Keep"
                 >大型箭塔</nuxt-link
               >建造速度快33%。
             </li>
@@ -532,31 +532,31 @@
               駱駝騎兵從<nuxt-link to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
               >分類中移除，所以箭塔對他們的攻擊加成也移除，現在
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link>對他們的攻擊是+1。
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>對他們的攻擊是+1。
             </li>
             <li>
-              4.8版後<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              4.8版後<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >的第二支箭攻擊是2。
             </li>
             <li>
               引入<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
-              >，研發後會給<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              >，研發後會給<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >攻擊+6。在4.8版
               <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>只給<nuxt-link
-                to="/units/Keep"
+                to="/building/Keep"
                 >大型箭塔</nuxt-link
               >攻擊+3。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:可以建造<nuxt-link
-                to="/units/Keep"
+                to="/building/Keep"
                 >大型箭塔</nuxt-link
               >。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
               >:在4.8版後<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link
-              >讓<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              >讓<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >可發射額外<strong>兩支箭</strong>
             </li>
             <li>

@@ -16,7 +16,7 @@
           <ul>
             <li>
               <img src="~assets/Watchtowericon.png" alt="" />
-              <nuxt-link to="/units/Watch_Tower">暸望箭塔→</nuxt-link
+              <nuxt-link to="/building/Watch_Tower">暸望箭塔→</nuxt-link
               >:射程極遠，只要建起來即可封住大多的資源，駐紮村民後基本不怕任何兵種。
             </li>
           </ul>

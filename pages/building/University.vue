@@ -77,7 +77,7 @@
                       class="gg"
                       src="~assets/Guard-tower-research.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -139,7 +139,7 @@
                       class="gg"
                       src="~assets/Keep-research.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                   <li>
                     <img

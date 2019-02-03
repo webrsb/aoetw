@@ -289,7 +289,7 @@
                       src="~assets/Watchtowericon.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -340,7 +340,7 @@
                       src="~assets/Watchtowericon.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -406,7 +406,7 @@
                       src="~assets/Watchtowericon.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -443,7 +443,7 @@
             <p>
               村民可以修理建築物，攻城武器和船隻。這樣做可以節省資源。但是修復建築物可能會比建造一個新建築慢得多。村民可以從兩格遠的地方修理單位
               - 這主要是為了修復船隻，也可以修理一個完全被圍牆包圍的建築，例如
-              <nuxt-link to="/units/Watch_Tower">箭塔</nuxt-link>。
+              <nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>。
             </p>
             <ul>
               <li>成本</li>

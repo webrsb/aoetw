@@ -108,14 +108,14 @@
               <nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>。
               <nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>。
               <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>。
-              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>。
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>。
               <nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link>。
               <nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link>。 <br />
               <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>。
               <nuxt-link to="/techs/Architecture">建築學</nuxt-link>。
               <nuxt-link to="/techs/Chemistry">化學</nuxt-link>。
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>。
-              <nuxt-link to="/units/Keep">大型箭塔</nuxt-link>。
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>。
               <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>。
               <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>。
             </td>

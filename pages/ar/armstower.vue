@@ -24,7 +24,7 @@
                 width="25px"
                 src="~assets/Watchtowericon.png"
                 alt=""
-              /><nuxt-link to="/units/Guard_Tower">暸望箭塔</nuxt-link
+              /><nuxt-link to="/building/Guard_Tower">暸望箭塔</nuxt-link
               >:遊戲說明箭塔為防禦建築，其實為非常兇猛的進攻手段，射程高達8，可以輕易封鎖任何資源點，駐紮村民後也不怕封建時代任何兵種，唯獨如果缺乏保護很容易被村民拆掉，可以養成在箭塔底下蓋牆的好習慣。
             </li>
           </ul>

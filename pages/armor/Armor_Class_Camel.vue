@@ -224,17 +224,17 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>→
+                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>→
+                    /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                   <li>
                     <img

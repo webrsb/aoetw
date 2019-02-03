@@ -475,7 +475,7 @@
                   </li>
                   <li>
                     <img class="gg" src="~assets/Watchtowericon.png" alt="" />
-                    <nuxt-link to="/units/Watch_Tower">箭塔系列</nuxt-link>
+                    <nuxt-link to="/building/Watch_Tower">箭塔系列</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>

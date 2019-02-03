@@ -89,21 +89,21 @@
                   class="gg"
                   src="~assets/Watchtowericon.png"
                   alt=""
-                /><nuxt-link to="/units/Watch_Tower">暸望箭塔</nuxt-link>:2(3)
+                /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>:2(3)
               </li>
               <li>
                 <img
                   class="gg"
                   src="~assets/Watchtowericon.png"
                   alt=""
-                /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>:3(4)
+                /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>:3(4)
               </li>
               <li>
                 <img
                   class="gg"
                   src="~assets/Watchtowericon.png"
                   alt=""
-                /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>:5(6)
+                /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>:5(6)
               </li>
               <li>
                 <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link
@@ -153,21 +153,21 @@
                   class="gg"
                   src="~assets/Watchtowericon.png"
                   alt=""
-                /><nuxt-link to="/units/Watch_Tower">暸望箭塔</nuxt-link>:2
+                /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link>:2
               </li>
               <li>
                 <img
                   class="gg"
                   src="~assets/Watchtowericon.png"
                   alt=""
-                /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>:3
+                /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>:3
               </li>
               <li>
                 <img
                   class="gg"
                   src="~assets/Watchtowericon.png"
                   alt=""
-                /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>:4
+                /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>:4
               </li>
               <li>
                 <img class="gg" src="~assets/Castleicon.png" alt="" /><nuxt-link

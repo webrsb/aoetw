@@ -183,15 +183,15 @@
           <div class="n1">
             <h3><em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em></h3>
             <ul>
-              <li><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>的攻擊力為6。</li>
-              <li>升級到<nuxt-link to="/units/Keep">大型箭塔</nuxt-link>需要500食物和350石材。</li>
-              <li><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>對駱駝騎兵攻擊+9因為駱駝騎兵的護甲分類是<nuxt-link to="/armor/Armor_Class_Ship">船艦護甲</nuxt-link>。</li>
-              <li><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>的第二支箭矢的攻擊是1。</li>
+              <li><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>的攻擊力為6。</li>
+              <li>升級到<nuxt-link to="/building/Keep">大型箭塔</nuxt-link>需要500食物和350石材。</li>
+              <li><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>對駱駝騎兵攻擊+9因為駱駝騎兵的護甲分類是<nuxt-link to="/armor/Armor_Class_Ship">船艦護甲</nuxt-link>。</li>
+              <li><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>的第二支箭矢的攻擊是1。</li>
             </ul>
             <h3><em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em></h3>
             <ul>
-              <li>升級到<nuxt-link to="/units/Keep">大型箭塔</nuxt-link>需要500食物和350木材。</li>
-              <li><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link>攻擊+2。</li>
+              <li>升級到<nuxt-link to="/building/Keep">大型箭塔</nuxt-link>需要500食物和350木材。</li>
+              <li><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link>攻擊+2。</li>
               <li>引入<nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>。</li>
               <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
               <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>:引入<nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>。只能在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>研發</li>
@@ -199,18 +199,18 @@
             </ul>
             <h3><em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em></h3>
             <ul>
-              <li><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>的攻擊力為7。</li>
+              <li><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>的攻擊力為7。</li>
               <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link>:引入<nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>。可在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>研發</li>
               <li><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link to="/techs/Stronghold">堡壘</nuxt-link>。</li>
               <li><nuxt-link to="/civs/Japanese">日本</nuxt-link>:引入<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link>，可讓箭塔可發射額外三支箭。</li>
-              <li><nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>建造速度快33%。</li>
+              <li><nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>建造速度快33%。</li>
             </ul>
             <h3><em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em></h3>
             <ul>
               <li>駱駝騎兵從<nuxt-link to="/armor/Armor_Class_Ship">船艦護甲</nuxt-link>分類中移除，所以箭塔對他們的攻擊加成也移除，現在防禦箭塔對他們的攻擊是+1。</li>
-              <li>4.8版後<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>的第二支箭攻擊是2。</li>
-              <li>引入<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>，在城堡時代可研發並給<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>攻擊+4。在4.8版
-                <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>移到帝王時代並給<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>攻擊+2。</li>
+              <li>4.8版後<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>的第二支箭攻擊是2。</li>
+              <li>引入<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>，在城堡時代可研發並給<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>攻擊+4。在4.8版
+                <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>移到帝王時代並給<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>攻擊+2。</li>
               <li><nuxt-link to="/civs/Japanese">日本</nuxt-link>:在4.8版後<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link>讓箭塔可發射額外<strong>兩支箭</strong>。</li>
               <li><nuxt-link to="/civs/Japanese">日本</nuxt-link>:在4.8版後<nuxt-link to="/techs/Yasama">射箭孔</nuxt-link>讓箭塔可發射額外<strong>兩支箭</strong>。</li>
               <li>在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，韓國蓋塔時間60s → 75s (其他文明 80s)</li>
@@ -365,7 +365,7 @@
             <tr>
               <td class="unit3">升級到</td>
               <td class="unit4">
-                <img class="gg" src="~assets/Keep-research.jpg" alt=""><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                <img class="gg" src="~assets/Keep-research.jpg" alt=""><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
               </td>
             </tr>
             <tr>
