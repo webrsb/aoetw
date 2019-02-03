@@ -1,51 +1,5 @@
-<!DOCTYPE html>
-<html lang="zh-tw">
+<template>
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="favicon.ico">
-
-    <title>Aoetw</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="http://getbootstrap.com/assets/css/docs.min.css" rel="stylesheet">
-    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-
-
-    <!-- Custom styles for this template -->
-    <link href="jumbotron.css" rel="stylesheet">
-    <style>
-        body {
-            padding-top: 0px;
-            font-family: "微軟正黑體";
-            background-color: #f5f5f5;
-            font-size: 18px;
-        }
-    </style>
-
-
-
-
-
-</head>
-
-<body>
-<?php include("head.php"); ?>
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
@@ -106,15 +60,15 @@
  </div>
   <div class="col-md-6">
   <ol>
-    <li>始兮終兮</li>
-    <li>命運女神</li>
-    <li>于歸之喜</li>
-    <li>安布羅共和國</li>
-    <li>米蘭新公爵</li>
+    <li><nuxt-link to="An_End_and_a_Beginning">始兮終兮</nuxt-link></li>
+    <li><nuxt-link to="O_Fortuna">命運女神</nuxt-link></li>
+    <li><nuxt-link to="The_Hand_of_a_Daughter">于歸之喜</nuxt-link></li>
+    <li><nuxt-link to="The_Ambrosian_Republic">安布羅共和國</nuxt-link></li>
+    <li><nuxt-link to="A_New_Duk_of_Milan">米蘭新公爵</nuxt-link></li>
   </ol>
 </div>
 <div class="col-md-6">
-  <img src="img/13.Sforza.jpg" width="300px;" alt="">
+  <img src="~assets/13.Sforza.jpg" width="300px;" alt="" />
   <p>斯福爾札戰役地圖</p>
 </div>
 </div>
@@ -146,7 +100,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Sforza.jpg" width="300" alt="">
+       <td colspan="2" ><div class="unititle"><img src="~assets/Sforza.jpg" width="300" alt="" />
 <p><em>本系列主角 斯福爾札</em></p>
        </div>
        </td>
@@ -179,7 +133,7 @@
        感謝! 此頁面由裕暉協助編輯
      </div>
 <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46" /></div>
 <div style="margin-left: 60px;">維基百科上的法蘭切斯科一世·斯福爾扎
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%88%87%E6%96%AF%E7%A7%91%E4%B8%80%E4%B8%96%C2%B7%E6%96%AF%E7%A6%8F%E7%88%BE%E6%89%8E">法蘭切斯科一世·斯福爾扎</a></b></i></div>
 </div>
@@ -198,17 +152,8 @@
 
 
     </div>
-    <!-- /container -->
-<?php include("allbatt.php"); ?>
-<?php include("foot.php"); ?>
-
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
-</body>
-
-</html>
+    </template>
+<script>
+export default {layout: 'allbatt',  components: {}}
+</script>
+<style></style>
