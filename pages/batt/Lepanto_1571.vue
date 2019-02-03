@@ -5,21 +5,27 @@
     <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong> 勒班陀(1571)</strong></h1>
+        <h1><strong> 勒班陀（1571）</strong></h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            勒班陀戰役（英語：Battle of
+            <b>勒班陀戰役</b>（英語：Battle of
             Lepanto，1571年10月7日），或譯勒潘陀海戰，是以西班牙帝國、威尼斯共和國為主力的神聖同盟（Holy
             League）艦隊與鄂圖曼帝國海軍在希臘愛奧尼亞海帕特拉斯灣展開的一場海戰。神聖同盟艦隊在海戰中取得決定性勝利。鄂圖曼帝國海軍自勒班陀的海軍港口出發向西，與自西西里墨西拿出發向東航行的神聖同盟艦隊遭遇。
+          </p>
+          <p>
             神聖同盟（Holy
             League）是由教宗庇護五世主導成立的聯盟，包括許多歐洲天主教海洋國家。在西班牙國王腓力二世和威尼斯共和國的一致同意下，神聖同盟艦隊由西班牙國王腓力二世同父異母的弟弟，奧地利的唐胡安統領。
-            <br />
+          </p>
+          <p>
             勒班陀戰役是西方自古典時代以來最大的海戰。在海戰史上，勒班陀戰役標誌著歷史上最後一場以槳帆船為主的大型海戰。這場戰役在本質上是一場「甲板上的步兵戰鬥」。在之後的幾十年中，蓋倫帆船和戰列線戰術在海戰中的重要性持續上升，取代了槳帆船在海戰中的主力戰船地位，開啟了「航海時代」。
-            <br />
+          </p>
+          <p>
             為了抵抗鄂圖曼帝國在16世紀的擴張，哈布斯堡王朝與其基督教同盟聯手抵禦鄂圖曼大軍。而勒班陀海戰就是發生於1571年的地中海，是一系列衝突的高峰。
+          </p>
+          <p>
             由唐璜率領的天主教海軍最終將鄂圖曼艦隊給擊潰，扭轉了兩方原有的情勢。而此戰役也因為廣泛的運用火器而影響了之後的海戰風貌。至此，西班牙無敵艦隊誕生，不過鄂圖曼很快的重組艦隊，讓天主教聯盟也不敢貿然於地中海再啟戰端。
           </p>
         </div>
@@ -29,15 +35,16 @@
           <h3>基本資訊</h3>
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="tc1" width="15%">起始時代:</td>
-              <td class="tc2" width="15%">帝王時代</td>
-              <td class="tc1" width="15%">起始資源:</td>
-              <td class="tc2">木頭:800，食物:600，黃金:1000，石頭:400</td>
-              <td class="tc1" width="15%">人口上限:</td>
+              <td class="tc1" width="14%">起始時代：</td>
+              <td class="tc2" width="14%">帝王時代</td>
+              <td class="tc1" width="14%">起始資源：</td>
+              <td class="tc2">木頭800，食物600，黃金1,000，石頭400</td>
+              <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">100</td>
             </tr>
           </table>
 
+          <p></p>
           <h3>AI</h3>
           <table class="table-bordered" width="100%">
             <tr>
@@ -46,21 +53,21 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p2">玩家1：</div></td>
+              <td class="tc6"><div class="p2">玩家1</div></td>
               <td class="tc6" colspan="3">西班牙（紅色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #ffd700;">中立</td>
             </tr>
             <tr>
-              <td class="tc6" width="15%"><div class="p3">玩家3：</div></td>
-              <td class="tc6" width="35%">希臘村莊（綠色）拜占庭</td>
+              <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
+              <td class="tc6" width="38%">希臘村莊（綠色）拜占庭</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6"><div class="p6">玩家2：</div></td>
+              <td class="tc6"><div class="p6">玩家2</div></td>
               <td class="tc6">土耳其人（紫色）土耳其</td>
             </tr>
           </table>
@@ -69,7 +76,7 @@
           <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
-              輕型投石車X7，運輸船x2，重型神風船x6，村民x12，火戰船X5，弩砲戰船X6，火炮戰船X5。
+              輕型投石車X7、運輸船x2、重型神風船x6、村民x12、火戰船X5、弩砲戰船X6、火炮戰船X5。
             </dd>
             <dt>出場英雄：</dt>
             <dd>無</dd>
@@ -109,7 +116,7 @@
           <h3>攻略</h3>
           <div class="hrn1"></div>
           <ul>
-            <li>建造世界奇觀，並守護她200年。</li>
+            <li>建造世界奇觀，並守護它200年。</li>
             <li>防守世界奇觀，海上陸上都需要有大量軍隊防守。</li>
             <li>
               當你進行一段時間遊戲，希臘村莊會要求你給予他800黃金他就會和你結盟。
@@ -131,103 +138,113 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              一開始可以先將村民進行分組
-              不用全部都在蓋世界奇觀，分成建造防禦建塔、物資採集。
+              一開始可以先將村民進行分組，不用全部都在蓋世界奇觀，分成建造防禦建塔、物資採集。
             </li>
             <li>
               當你世界奇觀蓋完，對方會有大量的海軍，陸軍進行攻擊，尤其是上方城鎮中心，那邊防禦偏弱對方容易從那上岸攻擊。
             </li>
             <li>
-              除城鎮中心還有馬廄場附近(我方島嶼中間)，那邊也是我方防禦偏弱的地方，需要嚴防注意。
+              除城鎮中心還有馬廄場附近（我方島嶼中間），那邊也是我方防禦偏弱的地方，需要嚴防注意。
             </li>
             <li>
               如果你願意付給希臘村莊800黃金他將會更改為同盟，並給予你物資上的資源。
             </li>
             <li>
-              這戰役主要是防禦世界奇觀，200年相當於現實10分鐘左右，所以防守的軍隊，箭塔，火炮塔，海軍建議都先部屬完之後再來興建世界奇觀，後方資源的部分黃金、石頭不足可以去採集海中島嶼，那邊的黃金石頭非常充足。
+              這戰役主要是防禦世界奇觀，200年相當於現實10分鐘左右，所以防守的軍隊、箭塔、火炮塔、海軍建議都先部屬完之後再來興建世界奇觀，後方資源的部分黃金、石頭不足可以去採集海中島嶼，那邊的黃金石頭非常充足。
             </li>
           </ul>
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <ul>
             <li>
-              繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位
-              。
+              繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位。
             </li>
           </ul>
-          <h3>英雄:奧地利的唐璜(1547-1578)</h3>
+          <h3>英雄：奧地利的唐璜（1547-1578）</h3>
           <div class="hrn1"></div>
           <ul>
             <li>
               作為一個有軍政才華的人，唐璜並沒有得到什麼機運。他是神聖羅馬皇帝的私生子，兄長西班牙國王菲力二世對他始終提防。若不是鄂圖曼海軍進犯地中海，也許他根本不會有在歷史留名的機會。
+            </li>
+            <li>
               唐璜在勒班陀擔任神聖聯盟的指揮官，並出色地擊退了為數龐大的鄂圖曼艦隊。隨後他更出任尼德蘭總督。但正準備大展身手時恰逢尼德蘭起義，他努力想要調停矛盾，但荷蘭人的暴動依然不可收拾，逼迫他參與戰鬥。而他在一場戰鬥中感染傷寒，憂鬱離世。
             </li>
           </ul>
-          <div class="col-md-4">
-            <table class="table-bordered" width="100%">
-              <tr>
-                <td class="unit" colspan="2" style="background-color:#375d96;">
-                  <div class="unititle">
-                    <nuxt-link to="">勒班陀(1571)</nuxt-link>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td colspan="2">
-                  <div class="unititle">
-                    <img src="~assets/Lepanto.jpg" alt="" />
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td class="unit" colspan="2" style="background-color:#375d96;">
-                  <div class="unititle2">
-                    <nuxt-link to="">情景信息</nuxt-link>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td class="unit3">版本</td>
-                <td class="unit4">征服者入侵</td>
-              </tr>
-              <tr>
-                <td class="unit3">戰役</td>
-                <td class="unit4">征服者的戰役</td>
-              </tr>
-              <tr>
-                <td class="unit3">文明</td>
-                <td class="unit4">
-                  <nuxt-link to="/civs/Japanese">西班牙</nuxt-link>
-                </td>
-              </tr>
-              <tr>
-                <td class="unit" colspan="2" style="background-color:#375d96;">
-                  <div class="unititle2">
-                    <nuxt-link to="">戰役關卡編號</nuxt-link>
-                  </div>
-                </td>
-              </tr>
-              <tr>
-                <td class="unit3">章節</td>
-                <td class="unit4">征服者戰役第四章之六</td>
-              </tr>
-              <tr>
-                <td class="unit3">上一關</td>
-                <td>
-                  <nuxt-link to="/batt/Agincourt_1415"
-                    >亞琴哥特(1415)</nuxt-link
-                  >
-                </td>
-              </tr>
-              <tr>
-                <td class="unit3">下一關</td>
-                <td><nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link></td>
-              </tr>
-            </table>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle">
+                <nuxt-link to="/batt/Lepanto_1571">勒班陀（1571）</nuxt-link>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <div class="unititle">
+                <img src="~assets/Lepanto.jpg" alt="" />
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                <nuxt-link to="">情景信息</nuxt-link>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">版本</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">戰役</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Battles_of_the_Conquerors"
+                >征服者的戰役</nuxt-link
+              >
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">文明</td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                <nuxt-link to="">戰役關卡編號</nuxt-link>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">章節</td>
+            <td class="unit4">征服者戰役第四章之六</td>
+          </tr>
+          <tr>
+            <td class="unit3">上一關</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Agincourt_1415">亞琴哥特（1415）</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">下一關</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
+            </td>
+          </tr>
+        </table>
 
-            <div class="thanks">
-              感謝! 此頁面由Wun，裕暉協助編輯
-            </div>
+        <div class="thanks">感謝！此頁面由Wun、裕暉協助編輯。</div>
+        <p></p>
+
+        <div class="row">
+          <div class="col-md-12">
             <div class="wiki" style="margin-top: 5px;">
               <div style="float: left;">
                 <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
