@@ -199,7 +199,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/Sforzaa.php">斯福爾札</nuxt-link>
+              <nuxt-link to="/batt/Sforzaa">斯福爾札</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/An_End_and_a_Beginning">始兮終兮</nuxt-link>。
