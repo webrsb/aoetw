@@ -50,7 +50,7 @@
   </tr>
 
   <tr>
-    <td class="tc6" width="15%""><div class="p2"></div>玩家2：</td>
+    <td class="tc6" width="15%"><div class="p2"></div>玩家2：</td>
     <td class="tc6" width="35%">兆汗大軍（紅色）印度 </td>
     <td class="tc6"><div class="p5"></div>玩家3：</td>
     <td class="tc6">塔蘭村（水藍色）印度</td>    
@@ -61,9 +61,9 @@
   </tr>
 
   <tr>
-    <td class="tc6" width="15%""><div class="p3"></div>玩家4：</td>
+    <td class="tc6" width="15%"><div class="p3"></div>玩家4：</td>
     <td class="tc6" width="35%">古爾大軍（綠色）土耳其 </td>    
-    <td class="tc6" width="15%""><div class="p4"></div>玩家5：</td>
+    <td class="tc6" width="15%"><div class="p4"></div>玩家5：</td>
     <td class="tc6" width="35%">巴廷達（黃色）印度 </td>   
   </tr>
 
@@ -154,7 +154,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><center><img src="img/Prithviraj 4.jpg" width="" alt="" ></center></div>
+       <td colspan="2" ><div class="unititle"><center><img src="~assets/Prithviraj 4.jpg" width="" alt="" /></center></div>
        </td>
       </tr>
       <tr>
@@ -164,18 +164,19 @@
       </tr>
       <tr>
         <td class="unit3">版本</td>
-       <td class="unit4">失落的帝國</td>
+       <td class="unit4"><nuxt-link to="/aof">失落的帝國</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">戰役</td>
-       <td class="unit4">布里斯比羅吉</td>
+        <td class="unit4"><nuxt-link to="/Prithviraja">布里斯比羅吉</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="">印度人</a></td>
+        <td class="unit4"><nuxt-link to="/India">印度</nuxt-link></td>
       </tr>
+      <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2">戰役關卡編號</div>
        </td>
       </tr>
        <tr>
@@ -184,11 +185,11 @@
       </tr>
        <tr>
         <td class="unit3">上一關</td>
-        <td class="unit4"><a href=The_Elopement.php>私奔</a></p>
+         <td class="unit4"><nuxt-link to=The_Elopement>私奔</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
-        <td class="unit4"><a href=></a>N/A</p>
+        <td class="unit4">N/A
         </td>
       </tr>
       
