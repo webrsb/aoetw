@@ -100,7 +100,7 @@
                 src="~assets/Horsecollar.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/Horsecollar.php">馬軛</nuxt-link>+75)
+              /><nuxt-link to="/techs/Horse_Collar">馬軛</nuxt-link>+75)
             </td>
             <td class="tta2">250</td>
             <td class="tta3">4.17</td>
@@ -118,7 +118,7 @@
                 src="~assets/Heavyplow.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/Heavyplow.php">重犁</nuxt-link>+125)
+              /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>+125)
             </td>
             <td class="tta2">375</td>
             <td class="tta3">6.25</td>
@@ -136,7 +136,7 @@
                 src="~assets/Croprotation.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/Croprotation.php">輪耕</nuxt-link>+175)
+              /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>+175)
             </td>
             <td class="tta2">550</td>
             <td class="tta3">9.17</td>

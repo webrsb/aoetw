@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於火藥系裝甲的。而關於火藥單位這個兵種的資料請參見<nuxt-link
-              to="/Gunpowder_Units.php"
+              to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
             ></em
           >
@@ -64,7 +64,7 @@
               <nuxt-link to="/OrganGun.php">風琴炮</nuxt-link>→
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
               <nuxt-link to="/OrganGun.php">精銳風琴炮</nuxt-link>(<nuxt-link
-                to="/Portugese.php"
+                to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >限定)
             </li>

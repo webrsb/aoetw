@@ -44,7 +44,7 @@
               <li><nuxt-link to="/maps/Oasis">綠洲</nuxt-link></li>
               <li><nuxt-link to="/maps/Salt_Marsh">鹽沼地</nuxt-link></li>
               <li><nuxt-link to="/maps/Scandinavia">斯堪地維亞</nuxt-link></li>
-              <li><nuxt-link to="/Yucatan.php">猶加敦</nuxt-link></li>
+              <li><nuxt-link to="/maps/Yucatan.vue">猶加敦</nuxt-link></li>
             </ul>
           </div>
           <div class="col-md-2">

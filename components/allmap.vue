@@ -24,7 +24,7 @@
               <nuxt-link to="/maps/Ghost_Lake">鬼湖</nuxt-link>。<nuxt-link to="/maps/Mongolia"
                 >蒙古高原</nuxt-link>。<nuxt-link to="/maps/Nomad">游牧</nuxt-link>。<nuxt-link to="/maps/Oasis">綠洲</nuxt-link>。
               <nuxt-link to="/maps/Salt_Marsh">鹽沼地</nuxt-link>。<nuxt-link to="/maps/Scandinavia"
-                >斯堪地維亞</nuxt-link>。<nuxt-link to="/Yucatan.php">猶加敦</nuxt-link>。
+                >斯堪地維亞</nuxt-link>。<nuxt-link to="/maps/Yucatan.vue">猶加敦</nuxt-link>。
               <nuxt-link to="/maps/Acropolis">雅典衛城</nuxt-link>。<nuxt-link to="/maps/Budapest"
                 >布達佩斯</nuxt-link>。<nuxt-link to="/maps/Cenotes">岩坑池</nuxt-link>。
               <nuxt-link to="/maps/Land_of_Lakes">百湖之城</nuxt-link>。<nuxt-link to="/maps/Golden_Pit"

@@ -28,7 +28,7 @@
           <ul>
             <li>
               彎刀勇士善長以高傷害和速度做突襲，並且由於生產速度快，可以僵屍流的方式做基地最後的防守。當<nuxt-link
-                to="/Royal Heirs.php"
+                to="/techs/Royal_Heirs"
                 >皇族血脈</nuxt-link
               >研發後，他們能比哥德步兵訓練得更快。
             </li>
@@ -231,7 +231,7 @@
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/Royal Heirs.php">皇族血脈</nuxt-link
+              /><nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link
               >(彎刀勇士生產速度加快2倍)
             </td>
           </tr>

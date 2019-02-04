@@ -366,7 +366,7 @@
             <td class="tunitc4">攻城單位</td>
             <td class="tunitc6">火炮</td>
             <td class="tunitc6">
-              <nuxt-link to="/The_Siege_of_Paris.php">巴黎攻城戰</nuxt-link>
+              <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -385,7 +385,7 @@
                 >羅亞爾河大掃蕩</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
-              <br /><nuxt-link to="/The_Siege_of_Paris.php"
+              <br /><nuxt-link to="/batt/The_Siege_of_Paris"
                 >巴黎攻城戰</nuxt-link
               >
             </td>
@@ -487,7 +487,7 @@
             <td class="tunitc4">弓兵</td>
             <td class="tunitc6">強弩兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/The_Siege_of_Paris.php">巴黎攻城戰</nuxt-link>
+              <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -343,7 +343,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：
-              帝王時代軍營可生產<nuxt-link to="/CondottieroNewIcon.php"
+              帝王時代軍營可生產<nuxt-link to="/units/Condottiero"
                 >傭兵</nuxt-link
               >。
             </li>

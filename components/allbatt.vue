@@ -355,7 +355,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/Le_Loi.php">黎利</nuxt-link>
+              <nuxt-link to="/batt/Le_Loi">黎利</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Dai_Viet_Uprising">大越義軍</nuxt-link>。

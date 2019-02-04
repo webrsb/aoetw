@@ -365,7 +365,7 @@
                       src="~assets/Slinger_Icon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Slinger">投石手</nuxt-link
-                    >(<nuxt-link to="/incas.php">印加</nuxt-link>限定)
+                    >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/Galley.jpg" alt="" /><nuxt-link

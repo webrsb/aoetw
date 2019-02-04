@@ -499,7 +499,7 @@
                     >→ <img src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                       to="/OrganGun.php"
                       >精銳風琴炮</nuxt-link
-                    >(<nuxt-link to="/Portugese.php">葡萄牙</nuxt-link>限定)
+                    >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                 </ul>
                 <ul>
