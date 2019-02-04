@@ -173,10 +173,10 @@
 </ul>
 </div>
 
-<br>
+
 </div>
 </div>
-<br>
+
 
 
 
@@ -185,32 +185,33 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">帝國的廢墟</a></div>
+          <div class="unititle"><nuxt-link to="/Ruins_of_Empires">帝國的廢墟</nuxt-link></div>
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><center><img src="img/Ruins_of_Empires.png" width="" alt="" ></center></div>
+       <td colspan="2" ><div class="unititle"><center><img src="~assets/Ruins_of_Empires.png" width="" alt="" /></center></div>
        </td>
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2">情景信息</div>
        </td>
       </tr>
       <tr>
         <td class="unit3">版本</td>
-       <td class="unit4">非洲王國戰役</td>
+        <td class="unit4"><nuxt-link to="/ak">非洲王國</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">戰役</td>
-       <td class="unit4">法蘭西斯科．阿爾梅達</td>
+        <td class="unit4"><nuxt-link to="/Francisco_de_Almeidaa">法蘭西斯科．阿爾梅達</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="">葡萄牙人</a></td>
+        <td class="unit4"><nuxt-link to="/Portuguese">葡萄牙人</nuxt-link></td>
       </tr>
+      <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2">戰役關卡編號</div>
        </td>
       </tr>
        <tr>
@@ -219,14 +220,13 @@
       </tr>
        <tr>
         <td class="unit3">上一關</td>
-        <td class="unit4"><a href=Lion_of_Africa.php>非洲雄獅</a></p>
+         <td class="unit4"><nuxt-link to=Lion_of_Africa.php>非洲雄獅</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
-        <td class="unit4"><a href=Estado_da_India.php>葡屬印度</a></p>
+        <td class="unit4"><nuxt-link to=Estado_da_India.php>葡屬印度</nuxt-link>
         </td>
       </tr>
-      
 
   </table>
 
@@ -234,12 +234,12 @@
        感謝！此頁面由小蛇、裕暉協助編輯。
      </div>
 <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46" /></div>
 <div style="margin-left: 60px;">維基百科上的<i><b><a href="http://t.cn/EqFPNxP">法蘭西斯科．德．阿爾梅達</a></b></i></div>
 </div>
   </div>
 </div>
-    <!-- /container -->
+</div>
 </template>
 <script>
 export default {
@@ -249,4 +249,3 @@ export default {
 </script>
 <style></style>
 
-</html>
