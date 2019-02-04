@@ -1,8 +1,10 @@
 <template>
   <div class="container">
     <!-- Example row of columns -->
-    <div class="row padtop">
+
+    <div class="row" style=" margin-top: 50px;">
       <h1>知名玩家</h1>
+
       <div class="spw">
         <em
           ><img
@@ -16,14 +18,16 @@
         >
       </div>
       <div class="hrn1"></div>
+
       <div class="n1">
         <p>本頁面介紹世紀帝國界的知名玩家，單挑團戰後寫的是最高積分</p>
         <p>
           比賽的縮寫可參考
-          <a href="http://aoetw.com//history">歷年比賽結果</a>，2v2
+          <nuxt-link to="http://aoetw.com/history">歷年比賽結果</nuxt-link>，2v2
           的縮寫以「地圖D年份」表示
         </p>
       </div>
+
       <div class="row" style="margin-top: 10px;border-top: 1px solid #c7c7c7;">
         <div class="col-md-3">
           <table class="table">
@@ -47,7 +51,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/viper.jpg" width="276" alt="" />
+                <img src="~assets/Viper.jpg" width="276" alt="" />
               </td>
             </tr>
             <tr>
@@ -73,6 +77,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -115,6 +120,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -134,7 +140,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                <img src="~assets/yo.jpg" width="276" alt="" />
+                <img src="~assets/Yo.jpg" width="276" alt="" />
               </td>
             </tr>
             <tr>
@@ -144,11 +150,11 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2630 團戰2286 1992年次</td>
+              <td style="text-align:center">單挑2669 團戰2286 1992年次</td>
             </tr>
             <tr>
               <td>
-                唯一在單挑團戰最高積分榜皆居前四名的玩家，實力亦然。擅長後期多線與控圖，能逆轉極大的劣勢。曾來臺灣留學。
+                唯一在單挑團戰最高積分榜皆居前三名的玩家，實力亦然。擅長後期多線與控圖，能逆轉極大的劣勢。曾來臺灣留學。
               </td>
             </tr>
             <tr>
@@ -156,6 +162,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -200,6 +207,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -234,7 +242,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2615 1986年次</td>
+              <td style="text-align:center">單挑2638 1986年次</td>
             </tr>
             <tr>
               <td>
@@ -250,6 +258,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -304,6 +313,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -353,6 +363,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -400,6 +411,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -429,7 +441,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2633 團戰2236 1994年次</td>
+              <td style="text-align:center">單挑2721 團戰2236 1994年次</td>
             </tr>
             <tr>
               <td>
@@ -441,6 +453,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -480,6 +493,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -509,7 +523,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2551 1999年次</td>
+              <td style="text-align:center">單挑2646 1999年次</td>
             </tr>
             <tr>
               <td>
@@ -521,6 +535,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -563,6 +578,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -604,6 +620,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -646,6 +663,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -688,6 +706,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -735,6 +754,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -778,6 +798,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -811,7 +832,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2479 團戰2259 1988年次</td>
+              <td style="text-align:center">單挑2510 團戰2259 1988年次</td>
             </tr>
             <tr>
               <td>
@@ -823,6 +844,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -862,6 +884,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -911,6 +934,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -956,6 +980,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -998,6 +1023,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1032,7 +1058,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2571 團戰2301 1989年次</td>
+              <td style="text-align:center">單挑2575 團戰2301 1989年次</td>
             </tr>
             <tr>
               <td>
@@ -1047,6 +1073,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1088,6 +1115,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1116,7 +1144,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2510 團戰2265 1999年次</td>
+              <td style="text-align:center">單挑2586 團戰2265 1999年次</td>
             </tr>
             <tr>
               <td>
@@ -1129,6 +1157,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1167,6 +1196,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1196,7 +1226,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2406 1990年次</td>
+              <td style="text-align:center">單挑2409 1990年次</td>
             </tr>
             <tr>
               <td>
@@ -1210,6 +1240,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1249,6 +1280,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1289,6 +1321,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1327,6 +1360,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1351,7 +1385,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2673 1994年次</td>
+              <td style="text-align:center">單挑2722 1994年次</td>
             </tr>
             <tr>
               <td>
@@ -1364,6 +1398,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1405,6 +1440,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1447,6 +1483,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1493,6 +1530,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1537,6 +1575,7 @@
             </tr>
           </table>
         </div>
+
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1578,6 +1617,7 @@
           </table>
         </div>
       </div>
+
       <div>
         <p></p>
         <p>
@@ -1587,7 +1627,7 @@
           >、<a href="https://www.facebook.com/gametvgiaidau/">GameTV 授權</a
           >、選手本人提供
         </p>
-        <p>本頁面由 Lanchi 整理，最後更新 2018/11/28</p>
+        <p>本頁面由 Lanchi 整理，最後更新 2019/1/15</p>
       </div>
     </div>
   </div>

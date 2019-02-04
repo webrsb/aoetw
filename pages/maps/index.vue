@@ -14,7 +14,7 @@
         </p>
         <h3>地圖列表</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row n1">
           <div class="col-md-2">
             帝王世紀
             <ul>
