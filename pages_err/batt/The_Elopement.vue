@@ -148,7 +148,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><center><img src="img/Prithviraj 3.jpg" width="" alt="" ></center></div>
+       <td colspan="2" ><div class="unititle"><center><img src="img/Prithviraj_3.jpg" width="" alt="" ></center></div>
        </td>
       </tr>
       <tr>

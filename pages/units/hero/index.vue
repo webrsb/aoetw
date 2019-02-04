@@ -1300,7 +1300,7 @@
                       <nuxt-link to="/A_Promising_Warrior.php"
                         >英雄出少年</nuxt-link
                       >
-                      <br /><nuxt-link to="/The_Digvijaya.php"
+                      <br /><nuxt-link to="/batt/The_Digvijaya"
                         >逐鹿迪格維傑之地</nuxt-link
                       >
                       <br /><nuxt-link to="/Battles_of_Tarain.php"

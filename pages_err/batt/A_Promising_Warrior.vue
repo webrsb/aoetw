@@ -164,7 +164,7 @@
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Prithviraj 1.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="img/Prithviraj_1.jpg" width="" alt=""></div>
        </td>
       </tr>
       <tr>

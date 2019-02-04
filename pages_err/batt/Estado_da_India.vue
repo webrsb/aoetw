@@ -206,7 +206,7 @@
       </tr>
        <tr>
         <td class="unit3">上一關</td>
-        <td class="unit4"><a href=Ruins_of_Empires.php>帝國的廢墟</a></p>
+        <td class="unit4"><a href=batt/Ruins_of_Empires>帝國的廢墟</a></p>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
@@ -487,7 +487,7 @@
               </td>
               <td class="unit4"> <a href="The_Old_World.php">舊世界</a>。 <a href="Lion_of_Africa.php">非洲雄獅</a>。
                 <a
-                href="Ruins_of_Empires.php">帝國的廢墟</a>。 <a href="Estado_da_India.php">葡屬印度</a>。 <a href="A_Sons_Blood.php">兒子的血仇</a> 
+                href="batt/Ruins_of_Empires">帝國的廢墟</a>。 <a href="Estado_da_India.php">葡屬印度</a>。 <a href="A_Sons_Blood.php">兒子的血仇</a> 
               </td>
             </tr>
             <tr>

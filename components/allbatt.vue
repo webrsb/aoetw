@@ -226,7 +226,7 @@
             </td>
             <td class="unit4">
               <nuxt-link to="/A_Promising_Warrior.php">英雄出少年</nuxt-link>。
-              <nuxt-link to="/The_Digvijaya.php">逐鹿迪格維傑之地</nuxt-link>。
+              <nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link>。
               <nuxt-link to="/The_Elopement.php">私奔</nuxt-link>。
               <nuxt-link to="/Battles_of_Tarain.php">塔蘭村之戰</nuxt-link>
             </td>
@@ -289,7 +289,7 @@
             <td class="unit4">
               <nuxt-link to="/The_Old_World.php">舊世界</nuxt-link>。
               <nuxt-link to="/Lion_of_Africa.php">非洲雄獅</nuxt-link>。
-              <nuxt-link to="/Ruins_of_Empires.php">帝國的廢墟</nuxt-link>。
+              <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>。
               <nuxt-link to="/Estado_da_India.php">葡屬印度</nuxt-link>。
               <nuxt-link to="/A_Sons_Blood.php">兒子的血仇</nuxt-link>
             </td>
