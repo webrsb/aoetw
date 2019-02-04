@@ -250,7 +250,7 @@
           <tr>
             <td class="trm " style="border-top: none; " colspan="6">
               <nuxt-link to="/building/Stable "
-                ><img class="ng " src="~assets/Stableicon.png " alt=""
+                ><img class="ng " src="~assets/Stableicon.png" alt=""
               /></nuxt-link>
               <div id="馬廄 ">
                 <nuxt-link to="/building/Stable">馬廄</nuxt-link>
@@ -267,7 +267,7 @@
               <i class="fas fa-arrow-down "></i>
             </td>
             <td class="t19 trm ">
-              <img class="gg " src="~assets/Bloodlines.png " alt="" />
+              <img class="gg " src="~assets/Bloodlines.png" alt="" />
               <div><nuxt-link to="/techs/Bloodlines ">品種</nuxt-link></div>
             </td>
             <td class="t19 trm "></td>
@@ -353,7 +353,7 @@
           <tr>
             <td class="trm " style="border-top: none; " colspan="5 ">
               <nuxt-link to="/building/Siege_Workshop"
-                ><img class="ng " src="~assets/Siegeworkshopicon.png " alt=""
+                ><img class="ng " src="~assets/Siegeworkshopicon.png" alt=""
               /></nuxt-link>
               <div id="攻城器製造所 ">
                 <nuxt-link to="/building/Siege_Workshop"
@@ -399,7 +399,7 @@
             <td class="t23 trm ">
               <img
                 class="gg "
-                src="~assets/Siegetowericon.png "
+                src="~assets/Siegetowericon.png"
                 width="30"
                 alt=""
               />
@@ -481,7 +481,7 @@
           <tr>
             <td class="trm " style="border-top: none; " colspan="8 ">
               <nuxt-link to="/building/Castle"
-                ><img class="ng " src="~assets/Castleicon.png " alt=""
+                ><img class="ng " src="~assets/Castleicon.png" alt=""
               /></nuxt-link>
               <div id="城堡 ">
                 <nuxt-link to="/building/Castle">城堡</nuxt-link>
@@ -515,7 +515,7 @@
             <td class="t13 trm ">
               <img
                 class="gg "
-                src="~assets/CastleAgeUnique.png "
+                src="~assets/CastleAgeUnique.png"
                 width="30 "
                 alt=""
               />
@@ -592,7 +592,7 @@
           <tr>
             <td class="trm " colspan="5 " style="border-top: none; ">
               <nuxt-link to="/building/Town_Center"
-                ><img class="ng " src="~assets/Towncentericon.png " alt=""
+                ><img class="ng " src="~assets/Towncentericon.png" alt=""
               /></nuxt-link>
               <div>
                 <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
@@ -677,7 +677,7 @@
           <tr>
             <td class="trm " colspan="5 " style="border-top: none; ">
               <nuxt-link to="/building/Mill"
-                ><img class="ng " src="~assets/Millicon.png " alt=""
+                ><img class="ng " src="~assets/Millicon.png" alt=""
               /></nuxt-link>
               <div><nuxt-link to="/building/Mill">磨坊</nuxt-link></div>
             </td>
@@ -687,7 +687,7 @@
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t23 trm ">
-              <img class="gg " src="~assets/Farmicon.png " alt="" />
+              <img class="gg " src="~assets/Farmicon.png" alt="" />
               <div><nuxt-link to="/building/Farm ">農田</nuxt-link></div>
             </td>
             <td class="t23 trm "></td>
@@ -743,7 +743,7 @@
           <tr>
             <td class="trm " colspan="5 " style="border-top: none; ">
               <nuxt-link to="/building/Mill"
-                ><img class="ng " src="~assets/Lumbercampicon.png " alt=""
+                ><img class="ng " src="~assets/Lumbercampicon.png" alt=""
               /></nuxt-link>
               <div><nuxt-link to="/building/Mill">伐木場</nuxt-link></div>
             </td>
@@ -794,7 +794,7 @@
           <tr>
             <td class="trm " colspan="5 " style="border-top: none; ">
               <nuxt-link to="/building/Mining_Camp"
-                ><img class="ng " src="~assets/Miningcampicon.png " alt=""
+                ><img class="ng " src="~assets/Miningcampicon.png" alt=""
               /></nuxt-link>
               <div>
                 <nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
@@ -848,7 +848,7 @@
           <tr>
             <td class="trm " colspan="10 " style="border-top: none; ">
               <nuxt-link to="/building/Dock "
-                ><img class="ng" src="~assets/Dockicon.png " alt=""
+                ><img class="ng" src="~assets/Dockicon.png" alt=""
               /></nuxt-link>
               <div id="碼頭 ">
                 <nuxt-link to="/building/Dock">碼頭</nuxt-link>
@@ -1041,7 +1041,7 @@
           <tr>
             <td class="trm " colspan="6 " style="border-top: none; ">
               <nuxt-link to="/building/Blacksmith"
-                ><img class="ng " src="~assets/Blacksmithicon.png " alt=""
+                ><img class="ng " src="~assets/Blacksmithicon.png" alt=""
               /></nuxt-link>
               <div id="兵工廠 ">
                 <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
@@ -1166,7 +1166,7 @@
           <tr>
             <td class="trm " colspan="5 " style="border-top: none;">
               <nuxt-link to="/building/Market "
-                ><img class="ng " src="~assets/Marketicon.png " alt=""
+                ><img class="ng " src="~assets/Marketicon.png" alt=""
               /></nuxt-link>
               <div id="市集 ">
                 <nuxt-link to="/building/Market">市集</nuxt-link>
@@ -1196,7 +1196,7 @@
               </div>
             </td>
             <td class="t23 trm ">
-              <img class="gg " src="~assets/CaravanII.png " />
+              <img class="gg " src="~assets/CaravanII.png" />
               <div><nuxt-link to="/techs/Caravan">大商隊</nuxt-link></div>
             </td>
             <td class="t23 trm ">
@@ -1230,7 +1230,7 @@
           <tr>
             <td class="trm " colspan="9 " style="border-top: none; ">
               <nuxt-link to="/building/Monastery "
-                ><img class="ng " src="~assets/Monasteryicon.png " alt=""
+                ><img class="ng " src="~assets/Monasteryicon.png" alt=""
               /></nuxt-link>
               <div id="修道院 ">
                 <nuxt-link to="/building/Monastery">修道院</nuxt-link>
@@ -1277,7 +1277,7 @@
             <td class="t11 trm ">
               <img
                 class="gg "
-                src="~assets/Herbalmedicine.png "
+                src="~assets/Herbalmedicine.png"
                 width="30"
                 alt=""
               />
@@ -1286,7 +1286,7 @@
               </div>
             </td>
             <td class="t11 trm not ">
-              <img class="gg " src="~assets/Heresy.png " width="30 " alt="" />
+              <img class="gg " src="~assets/Heresy.png" width="30 " alt="" />
               <div><nuxt-link to="/techs/Heresy ">異端邪說</nuxt-link></div>
             </td>
             <td class="t11 trm ">
@@ -1333,7 +1333,7 @@
             <td class="t11 trm ">
               <img
                 class="gg "
-                src="~assets/Theocracy.png "
+                src="~assets/Theocracy.png"
                 width="30 "
                 alt=""
               />
@@ -1350,7 +1350,7 @@
           <tr>
             <td class="trm  " colspan="9 " style="border-top: none; ">
               <nuxt-link to="/building/University"
-                ><img class="ng " src="~assets/Universityicon.png " alt=""
+                ><img class="ng " src="~assets/Universityicon.png" alt=""
               /></nuxt-link>
               <div id="學院 ">
                 <nuxt-link to="/building/University">學院</nuxt-link>
@@ -1390,7 +1390,7 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t11 trm ">
-              <img class="gg not " src="~assets/Heatedshot.png " alt="" />
+              <img class="gg not " src="~assets/Heatedshot.png" alt="" />
               <div>
                 <nuxt-link to="/techs/Heated_Shot ">預熱射擊</nuxt-link>
               </div>

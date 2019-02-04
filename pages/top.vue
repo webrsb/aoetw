@@ -23,7 +23,7 @@
         <p>本頁面介紹世紀帝國界的知名玩家，單挑團戰後寫的是最高積分</p>
         <p>
           比賽的縮寫可參考
-          <nuxt-link to="http://aoetw.com/history">歷年比賽結果</nuxt-link>，2v2
+          <a to="http://aoetw.com/history">歷年比賽結果</a>，2v2
           的縮寫以「地圖D年份」表示
         </p>
       </div>
