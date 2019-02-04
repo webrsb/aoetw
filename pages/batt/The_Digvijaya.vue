@@ -25,6 +25,7 @@
               <td class="tc2" width="5%">150</td>
             </tr>
           </table>
+
           <h3>AI</h3>
           <table class="table-bordered" width="100%">
             <tr>
@@ -89,6 +90,7 @@
               <td class="tc6" width="35%">索蘭基人（灰色）波斯</td>
             </tr>
           </table>
+
           <h3>開場：</h3>
           <p>
             布里斯比羅吉、1名僧侶、2位斥輕騎兵、3位弓兵、4位騎士、5位長槍兵、6位重裝長槍兵、4輛貿易車隊、11位村民
@@ -224,6 +226,7 @@
             </td>
           </tr>
         </table>
+
         <div class="thanks">
           感謝！此頁面由小蛇，竺叡協助編輯。
         </div>

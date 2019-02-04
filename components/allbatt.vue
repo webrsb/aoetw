@@ -228,7 +228,7 @@
               <nuxt-link to="/A_Promising_Warrior.php">英雄出少年</nuxt-link>。
               <nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link>。
               <nuxt-link to="/The_Elopement.php">私奔</nuxt-link>。
-              <nuxt-link to="/Battles_of_Tarain.php">塔蘭村之戰</nuxt-link>
+              <nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link>
             </td>
           </tr>
           <tr>

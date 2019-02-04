@@ -440,7 +440,7 @@
               </td>
               <td class="unit4"> <a href="A_Promising_Warrior.php">英雄出少年</a>。 <a href="The_Digvijaya.php">逐鹿迪格維傑之地</a>。
                 <a
-                href="The_Elopement.php">私奔</a>。 <a href="Battles_of_Tarain.php">塔蘭村之戰</a> 
+                href="The_Elopement.php">私奔</a>。 <a href="/batt/Battles_of_Tarain">塔蘭村之戰</a> 
               </td>
             </tr>
             <tr>

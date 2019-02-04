@@ -656,11 +656,7 @@
               </div>
             </td>
             <td class="t23 trm ">
-              <img
-                class="gg "
-                src="~assets/Imperial-age-research.jpg"
-                alt=""
-              />
+              <img class="gg " src="~assets/Imperial-age-research.jpg" alt="" />
               <div>
                 <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </div>
@@ -1266,12 +1262,7 @@
               <div><nuxt-link to="/techs/Redemption ">信仰救贖</nuxt-link></div>
             </td>
             <td class="t11 trm ">
-              <img
-                class="gg "
-                src="~assets/Atonement.jpg"
-                width="30 "
-                alt=""
-              />
+              <img class="gg " src="~assets/Atonement.jpg" width="30 " alt="" />
               <div><nuxt-link to="/techs/Atonement">贖罪</nuxt-link></div>
             </td>
             <td class="t11 trm ">
@@ -1331,12 +1322,7 @@
               </div>
             </td>
             <td class="t11 trm ">
-              <img
-                class="gg "
-                src="~assets/Theocracy.png"
-                width="30 "
-                alt=""
-              />
+              <img class="gg " src="~assets/Theocracy.png" width="30 " alt="" />
               <div><nuxt-link to="/techs/Theocracy ">神權統治</nuxt-link></div>
             </td>
             <td class="t11 trm "></td>

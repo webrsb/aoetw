@@ -61,7 +61,9 @@
                 </li>
                 <li><nuxt-link to="/batt/The_Rising">叛變</nuxt-link></li>
                 <li>
-                  <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
+                  <nuxt-link to="/batt/The_Siege_of_Paris"
+                    >巴黎攻城戰</nuxt-link
+                  >
                 </li>
                 <li>
                   <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>

@@ -182,7 +182,7 @@
       </tr>
       <tr>
         <td class="unit3">下一關</td>
-        <td class="unit4"><a href="Battles_of_Tarain.php">塔蘭村之戰</a></p>
+        <td class="unit4"><a href="/batt/Battles_of_Tarain">塔蘭村之戰</a></p>
         </td>
       </tr>
       
