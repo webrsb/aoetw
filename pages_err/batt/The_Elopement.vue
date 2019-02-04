@@ -51,16 +51,16 @@
   </tr>
 
   <tr>
-    <td class="tc6" width="15%""><div class="p6"></div>玩家2：</td>
+    <td class="tc6" width="15%"><div class="p6"></div>玩家2：</td>
     <td class="tc6" width="35%">曲女城（紫色）印度 </td>
     <td class="tc6"><div class="p4"></div>玩家3：</td>
     <td class="tc6">德里城（黃色）印度</td>    
   </tr>
   
   <tr>
-    <td class="tc6" width="15%""><div class="p3"></div>玩家4：</td>
+    <td class="tc6" width="15%"><div class="p3"></div>玩家4：</td>
     <td class="tc6" width="35%">印度村莊（綠色）印度 </td>    
-    <td class="tc6" width="15%""><div class="p1"></div>玩家5：</td>
+    <td class="tc6" width="15%"><div class="p1"></div>玩家5：</td>
     <td class="tc6" width="35%">布里斯比羅吉（藍色）印度 </td>   
   </tr>
 
@@ -144,21 +144,21 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">私奔</a></div>
+          <div class="unititle"><nuxt-link to="/batt/The_Elopement">私奔</nuxt-link></div>
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><center><img src="img/Prithviraj_3.jpg" width="" alt="" ></center></div>
+       <td colspan="2" ><div class="unititle"><center><img src="~assets/Prithviraj 3.jpg" width="" alt="" /></center></div>
        </td>
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2">情景信息</div>
        </td>
       </tr>
       <tr>
         <td class="unit3">版本</td>
-       <td class="unit4">失落的帝國</td>
+        <td class="unit4"><nuxt-link to="/games/aof">失落的帝國</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">戰役</td>
@@ -166,10 +166,11 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="">印度人</a></td>
+        <td class="unit4"><nuxt-link to="/civs/Indians">印度人</nuxt-link></td>
       </tr>
+      <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2">戰役關卡編號</div>
        </td>
       </tr>
        <tr>
@@ -178,11 +179,11 @@
       </tr>
        <tr>
         <td class="unit3">上一關</td>
-        <td class="unit4"><a href=The_Digvijaya.php>逐鹿迪格維傑之地</a></p>
+         <td class="unit4"><nuxt-link to=/batt/The_Digvijaya>逐鹿迪格維傑之地</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
-        <td class="unit4"><a href="Battles_of_Tarain.php">塔蘭村之戰</a></p>
+        <td class="unit4"><nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link>
         </td>
       </tr>
       
