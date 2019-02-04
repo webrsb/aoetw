@@ -136,7 +136,7 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-        <div class="unititle"><nuxt-link to="/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link></div>
+        <div class="unititle"><nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link></div>
        </td>
       </tr>
       <tr>
@@ -158,7 +158,7 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-        <td class="unit4"><nuxt-link to="/India">印度人</nuxt-link></td>
+        <td class="unit4"><nuxt-link to="/civs/Indians">印度</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
@@ -171,11 +171,11 @@
       </tr>
        <tr>
         <td class="unit3">上一關</td>
-         <td class="unit4"><nuxt-link to="/A_Promising_Warrior">英雄出少年</nuxt-link></td>
+         <td class="unit4"><nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
-        <td class="unit4"><nuxt-link to="The_Elopement">私奔</nuxt-link>
+        <td class="unit4"><nuxt-link to="/batt/The_Elopement">私奔</nuxt-link>
         </td>
       </tr>
       
