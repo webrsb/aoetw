@@ -1,9 +1,4 @@
 <template>
-
-
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-  
-
     <div class="container">
         <!-- Example row of columns -->
 
@@ -218,31 +213,12 @@
   </div>
 </div>
 
- <div class="row">
-  <div class="col-md-12">
-
-
-
-  </div>
-</div>  
-
-
-
     </div>
     </template>
 <script>
 export default {
-  layout: '
-allbatt.php"); ?>
-<?php include("foot.php"); ?>
-
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
-</body>
-
-</html>
+  layout: 'allbatt',
+  components: {}
+}
+</script>
+<style></style>

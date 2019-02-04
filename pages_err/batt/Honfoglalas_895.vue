@@ -1,6 +1,4 @@
 <template>
-
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
   
 
@@ -255,10 +253,6 @@
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%8C%88%E7%89%99%E5%88%A9%E5%8E%86%E5%8F%B2?fbclid=IwAR3KQ0ZS4YM1OH94Rj97DrrhOer3J09yF8ri2ScjKeYZgHJNJHsBwZSUS5s">匈牙利歷史</a></b></i>
 </div>
 </div>
-<div class="row">
-  <div class="col-md-12">
-  </div>
-</div>  
 
     </div>
 </div>
@@ -266,16 +260,8 @@
     </template>
 <script>
 export default {
-  layout: '
-allbatt.php"); ?>
-<?php include("foot.php"); ?>
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
-</body>
-
-</html>
+  layout: 'allbatt',
+  components: {}
+}
+</script>
+<style></style>

@@ -359,14 +359,18 @@
               <td><audio controls><source src="voice/42-What_age_are_you_in.oga" type="audio/mpeg"></audio></td>
             </tr>
           </table>
-        </div><footer class="bs-docs-footer"></footer>
-<script src="js/Keywords.js"></script>  
+        </div>
 <div class="row">
   <div class="col-md-12">
     <p>　（中文語音來源：網路　　英文語音來源：<a href="https://ageofempires.fandom.com/wiki/Taunts" target="new">Aoe英文wiki</a>）</p>
   </div>
 </div>
   </div>
-</body>
-
-</html>
+</template>
+<script>
+export default {
+  layout: 'allbatt',
+  components: {}
+}
+</script>
+<style></style>
