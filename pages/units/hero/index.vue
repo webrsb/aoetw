@@ -831,7 +831,7 @@
                 <td class="tunitc4">戰船</td>
                 <td class="tunitc6">龜甲船</td>
                 <td class="tunitc6">
-                  <nuxt-link to="batt/NoryangPoint_1598"
+                  <nuxt-link to="batt/Noryang_Point_1598"
                     >洛陽點(1598)</nuxt-link
                   >
                 </td>

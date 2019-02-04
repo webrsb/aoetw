@@ -414,7 +414,7 @@
                   src="~assets/Handcart.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Handcart">手推車</nuxt-link>：<nuxt-link
+                /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>：<nuxt-link
                   to="/units/Villager"
                   >村民</nuxt-link
                 >更有效率。

@@ -522,7 +522,7 @@
                     src="~assets/Handcart.jpg"
                     width="30"
                     alt=""
-                  /><nuxt-link to="/techs/Handcart">手推車</nuxt-link>(+7)
+                  /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>(+7)
                 </p>
                 <p>
                   <img
@@ -753,7 +753,7 @@
                     src="~assets/Handcart.jpg"
                     width="30"
                     alt=""
-                  /><nuxt-link to="/techs/Handcart">手推車</nuxt-link>(+10%)
+                  /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>(+10%)
                 </p>
               </td>
             </tr>

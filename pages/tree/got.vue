@@ -626,7 +626,7 @@
             </td>
             <td class="t23 trm">
               <img class="gg" src="~assets/Handcart.jpg" alt="" />
-              <div><nuxt-link to="/techs/Handcart">手推車</nuxt-link></div>
+              <div><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
           </tr>

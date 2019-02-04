@@ -132,7 +132,7 @@
                       class="gg"
                       src="~assets/Handcart.jpg"
                       alt=""
-                    /><nuxt-link to="/techs/Handcart">手推車</nuxt-link>
+                    /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>
                   </li>
                 </ul>
               </div>

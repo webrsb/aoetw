@@ -25,7 +25,7 @@
         野生動物請見此：<nuxt-link to="/units/wide">動物列表</nuxt-link>
       </div>
       <div class="col-md-12">
-        地圖編輯器類請見此：<nuxt-link to="/units/map"
+        地圖編輯器類請見此：<nuxt-link to="/units/edmap"
           >地圖編輯器單位列表</nuxt-link
         >
       </div>

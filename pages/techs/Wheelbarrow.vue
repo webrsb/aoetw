@@ -95,7 +95,7 @@
             <td class="unit3">可升級</td>
             <td class="unit4">
               <img class="gg" src="~assets/Handcart.jpg" alt="" /><nuxt-link
-                to="/techs/Handcart"
+                to="/techs/Hand_Cart"
                 >手推車</nuxt-link
               >
             </td>

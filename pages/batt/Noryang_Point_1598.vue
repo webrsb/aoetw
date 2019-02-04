@@ -204,7 +204,7 @@
                 "
             >
               <div class="unititle">
-                <nuxt-link to="/batt/NoryangPoint_1598"
+                <nuxt-link to="/batt/Noryang_Point_1598"
                   >洛陽點（1598）（露梁海戰）</nuxt-link
                 >
               </div>

@@ -150,7 +150,7 @@
               <nuxt-link to="/batt/Agincourt_1415">亞琴哥特(1415)</nuxt-link>。
               <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>。
               <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>。
-              <nuxt-link to="/batt/NoryangPoint_1598">洛陽點(1598)</nuxt-link>
+              <nuxt-link to="/batt/Noryang_Point_1598">洛陽點(1598)</nuxt-link>
             </td>
           </tr>
           <tr>

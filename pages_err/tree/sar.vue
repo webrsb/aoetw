@@ -243,7 +243,7 @@
       
            <td class="t23 trm"><img class="gg" src="~assets/Townpatrol.jpg" alt=""><div><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link></div></td>
            <td class="t23 trm"><img class="gg" src="~assets/Imperial-age-research.jpg" alt=""><div><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link></div></td>
-           <td class="t23 trm"><img class="gg" src="~assets/Handcart.jpg" alt=""><div><nuxt-link to="/techs/Handcart">手推車</nuxt-link></div></td>    
+           <td class="t23 trm"><img class="gg" src="~assets/Handcart.jpg" alt=""><div><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link></div></td>    
            <td class="t23 trm"></td> 
         </tr>
     </table>

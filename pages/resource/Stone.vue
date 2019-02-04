@@ -35,7 +35,7 @@
           <p>可加速收集石礦速度的科技:</p>
           <ul>
             <li><nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link></li>
-            <li><nuxt-link to="/techs/Handcart">手推車</nuxt-link></li>
+            <li><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link></li>
             <li><nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link></li>
             <li>
               <nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>

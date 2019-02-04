@@ -44,7 +44,7 @@
             <td class="unit3">
               <nuxt-link to="/techs/Loom">織布技術</nuxt-link>。
               <nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link>。
-              <nuxt-link to="/techs/Handcart">手推車</nuxt-link>。
+              <nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>。
               <nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>。
               <nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>。
             </td>

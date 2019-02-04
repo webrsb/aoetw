@@ -87,7 +87,7 @@
                   </li>
 
                   <li>
-                    <nuxt-link to="/batt/NoryangPoint_1598"
+                    <nuxt-link to="/batt/Noryang_Point_1598"
                       >洛陽點（1598）</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Koreans">韓國</nuxt-link></p>
