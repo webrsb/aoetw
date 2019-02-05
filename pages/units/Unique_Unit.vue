@@ -635,11 +635,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Uniqueaok.png"
+            <nuxt-link to="/img/Uniqueaok.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Uniqueaok.png"
+                src="~assets/Uniqueaok.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -647,11 +647,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Uniqueaoc.png"
+            <nuxt-link to="/img/Uniqueaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Uniqueaoc.png"
+                src="~assets/Uniqueaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -673,11 +673,11 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Uniqueaoa.png"
+            <nuxt-link to="/img/Uniqueaoa.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Uniqueaoa.png"
+                src="~assets/Uniqueaoa.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">

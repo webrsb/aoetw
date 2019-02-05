@@ -241,7 +241,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/s4.png"
+              src="~assets/s4.jpg"
               alt=""
             />
             <p class="text-center">
@@ -253,7 +253,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Joan4chalon.png"
+              src="~assets/Joan4chalon.jpg"
               alt=""
             />
             <p class="text-center"><em>沙朗的城鎮中心陷落。</em></p>
@@ -264,11 +264,11 @@
         </li>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img class="imgn hg" src="~assets/Joan4forwardbase.png" alt="" />
+            <img class="imgn hg" src="~assets/Joan4forwardbase.jpg" alt="" />
             <p class="text-center"><em>建造軍事建築物和防禦基地。</em></p>
           </div>
           <div class="col-md-6">
-            <img class="imgn hg" src="~assets/Joan4troyes.png" alt="" />
+            <img class="imgn hg" src="~assets/Joan4troyes.jpg" alt="" />
             <p class="text-center"><em>特洛伊斯的城鎮中心陷落。</em></p>
           </div>
         </div>
@@ -281,7 +281,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Joan4rheims.png"
+              src="~assets/Joan4rheims.jpg"
               alt=""
             />
             <p class="text-center"><em>為了勝利攻破城牆破壞城鎮中心！</em></p>

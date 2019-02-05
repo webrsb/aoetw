@@ -1312,11 +1312,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Infantryunitsbarracks.png"
+            <nuxt-link to="/img/Infantryunitsbarracks.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Infantryunitsbarracks.png"
+                src="~assets/Infantryunitsbarracks.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -1324,11 +1324,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Infantryunitscastle.png"
+            <nuxt-link to="/img/Infantryunitscastle.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Infantryunitscastle.png"
+                src="~assets/Infantryunitscastle.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">

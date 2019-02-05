@@ -747,8 +747,8 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Turtleshipgroup.png"
-                ><img class="imgn hg" src="~assets/Turtleshipgroup.png" alt=""
+              <nuxt-link to="/img/Turtleshipgroup.jpg"
+                ><img class="imgn hg" src="~assets/Turtleshipgroup.jpg" alt=""
               /></nuxt-link>
               <p><em>一群龜甲船。</em></p>
             </div>

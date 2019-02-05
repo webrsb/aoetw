@@ -628,8 +628,8 @@
             <p><em>一群彎刀勇士</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Pop.png"
-              ><img class="imgn hg" src="~assets/Pop.png" alt=""
+            <nuxt-link to="/img/Pop.jpg"
+              ><img class="imgn hg" src="~assets/Pop.jpg" alt=""
             /></nuxt-link>
             <p><em>彎刀勇士正攻擊敵人的城鎮</em></p>
           </div>

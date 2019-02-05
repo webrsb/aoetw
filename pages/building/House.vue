@@ -253,11 +253,11 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="col-md-4">
-          <nuxt-link to="/img/HouseDarkAge.png"
+          <nuxt-link to="/img/HouseDarkAge.jpg"
             ><img
               class="imgn hg"
               width="180"
-              src="~assets/HouseDarkAge.png"
+              src="~assets/HouseDarkAge.jpg"
               alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
@@ -265,11 +265,11 @@
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/HouseFedualAgeHD.png"
+          <nuxt-link to="/img/HouseFedualAgeHD.jpg"
             ><img
               class="imgn hg"
               width="200"
-              src="~assets/HouseFedualAgeHD.png"
+              src="~assets/HouseFedualAgeHD.jpg"
               alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
@@ -277,11 +277,11 @@
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/HouseFeudalAgeDLC.png"
+          <nuxt-link to="/img/HouseFeudalAgeDLC.jpg"
             ><img
               class="imgn hg"
               width="200"
-              src="~assets/HouseFeudalAgeDLC.png"
+              src="~assets/HouseFeudalAgeDLC.jpg"
               alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:185px">
@@ -289,11 +289,11 @@
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Houseaokaoc.png"
+          <nuxt-link to="/img/Houseaokaoc.jpg"
             ><img
               class="imgn hg"
               width="200"
-              src="~assets/Houseaokaoc.png"
+              src="~assets/Houseaokaoc.jpg"
               alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:185px">
@@ -301,19 +301,19 @@
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Househd.png"
-            ><img class="imgn hg" width="200" src="~assets/Househd.png" alt=""
+          <nuxt-link to="/img/Househd.jpg"
+            ><img class="imgn hg" width="200" src="~assets/Househd.jpg" alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
             <p><em>所有城堡時代的房屋(HD擴充資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Spritesheet_house.png"
+          <nuxt-link to="/img/Spritesheet_house.jpg"
             ><img
               class="imgn hg"
               width="200"
-              src="~assets/Spritesheet_house.png"
+              src="~assets/Spritesheet_house.jpg"
               alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:185px">

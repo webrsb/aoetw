@@ -22,7 +22,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Sheeps_and_Goats.png"
+              src="~assets/Sheeps_and_Goats.jpg"
               alt=""
             />
             <p class="text-center"><em>地圖上有許多綿羊跟鹿群可供獵食。</em></p>
@@ -32,7 +32,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Mines.png"
+              src="~assets/Mines.jpg"
               alt=""
             />
             <p class="text-center">

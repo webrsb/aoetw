@@ -22,7 +22,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Steppe-deer.png"
+              src="~assets/Steppe-deer.jpg"
               alt=""
             />
             <p class="text-center"><em>乾草原中間有很多可捕獵的鹿群。</em></p>
@@ -32,7 +32,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Steppe-1.png"
+              src="~assets/Steppe-1.jpg"
               alt=""
             />
             <p class="text-center"><em>樹林成群環繞在地圖周圍。</em></p>

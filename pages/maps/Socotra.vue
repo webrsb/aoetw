@@ -22,7 +22,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Fight.png"
+              src="~assets/Fight.jpg"
               alt=""
             />
             <p class="text-center">
@@ -34,7 +34,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Town_Center.png"
+              src="~assets/Town_Center.jpg"
               alt=""
             />
             <p class="text-center">

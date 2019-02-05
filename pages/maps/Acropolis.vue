@@ -20,7 +20,7 @@
             position="centered"
             class="imgn hg"
             width="500"
-            src="~assets/Acropolis-slope.png"
+            src="~assets/Acropolis-slope.jpg"
             alt=""
           />
           <p class="text-center"><em>灰色斜坡無法建造任何建築。</em></p>

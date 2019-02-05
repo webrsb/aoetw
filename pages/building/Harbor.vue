@@ -591,11 +591,11 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <nuxt-link to="/img/HarboraoeII.png"
+          <nuxt-link to="/img/HarboraoeII.jpg"
             ><img
               class="imgn hg"
               width="180"
-              src="~assets/HarboraoeII.png"
+              src="~assets/HarboraoeII.jpg"
               alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">

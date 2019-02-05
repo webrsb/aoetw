@@ -25,7 +25,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Pacific_Islands_Mangroves.png"
+              src="~assets/Pacific_Islands_Mangroves.jpg"
               alt=""
             />
             <p class="text-center"><em>淺灘處有紅樹林可以砍伐。</em></p>
@@ -35,7 +35,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Narrow_channel.png"
+              src="~assets/Narrow_channel.jpg"
               alt=""
             />
             <p class="text-center"><em>這些狹窄的河道是偷渡的好地方。</em></p>

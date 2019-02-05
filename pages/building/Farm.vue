@@ -423,14 +423,14 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Farms.png"
-                ><img class="imgn hg" src="~assets/Farms.png" alt=""
+              <nuxt-link to="/img/Farms.jpg"
+                ><img class="imgn hg" src="~assets/Farms.jpg" alt=""
               /></nuxt-link>
               <p><em>農田越整齊離磨坊越近效率越高。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Ricefarm.png"
-                ><img class="imgn hg" src="~assets/Ricefarm.png" alt=""
+              <nuxt-link to="/img/Ricefarm.jpg"
+                ><img class="imgn hg" src="~assets/Ricefarm.jpg" alt=""
               /></nuxt-link>
               <p><em>當農田蓋在紅樹林上時，會自動變成水田。</em></p>
             </div>

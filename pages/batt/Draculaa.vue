@@ -64,7 +64,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/Draculaa.png" width="300" alt="" />
+              <img src="~assets/Draculaa.jpg" width="300" alt="" />
               <p>德古拉戰役地圖</p>
             </div>
           </div>

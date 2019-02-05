@@ -206,7 +206,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Invader_spot_1.png"
+              src="~assets/Invader_spot_1.jpg"
               alt=""
             />
             <p class="text-center"><em>東南邊的入侵者重生處（圍牆處）。</em></p>
@@ -216,7 +216,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Invader_spot_2.png"
+              src="~assets/Invader_spot_2.jpg"
               alt=""
             />
             <p class="text-center"><em>北邊的入侵者重生處（圍牆處）。</em></p>
@@ -226,7 +226,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Invader_spot_4.png"
+              src="~assets/Invader_spot_4.jpg"
               alt=""
             />
             <p class="text-center"><em>西邊的入侵者重生處。</em></p>
@@ -236,7 +236,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Invader_spot_3.png"
+              src="~assets/Invader_spot_3.jpg"
               alt=""
             />
             <p class="text-center"><em>入侵者船隻重生處。</em></p>
@@ -257,7 +257,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/The_queen.png"
+              src="~assets/The_queen.jpg"
               alt=""
             />
             <p class="text-center"><em>救出女王！</em></p>
@@ -267,7 +267,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/The_pirate.png"
+              src="~assets/The_pirate.jpg"
               alt=""
             />
             <p class="text-center"><em>毀掉海盜的碼頭！</em></p>
@@ -277,7 +277,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/CastleFight.png"
+              src="~assets/CastleFight.jpg"
               alt=""
             />
             <p class="text-center">

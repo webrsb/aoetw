@@ -931,20 +931,20 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Cannongalleon.png"
-                ><img class="imgn hg" src="~assets/Cannongalleon.png" alt=""
+              <nuxt-link to="/img/Cannongalleon.jpg"
+                ><img class="imgn hg" src="~assets/Cannongalleon.jpg" alt=""
               /></nuxt-link>
               <p><em>一群火炮戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/CGHD.png"
-                ><img class="imgn hg" src="~assets/CGHD.png" alt=""
+              <nuxt-link to="/img/CGHD.jpg"
+                ><img class="imgn hg" src="~assets/CGHD.jpg" alt=""
               /></nuxt-link>
               <p><em>各種火炮戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/CGDLC.png"
-                ><img class="imgn hg" src="~assets/CGDLC.png" alt=""
+              <nuxt-link to="/img/CGDLC.jpg"
+                ><img class="imgn hg" src="~assets/CGDLC.jpg" alt=""
               /></nuxt-link>
               <p><em>各種火炮戰船(HD擴充資料片)。</em></p>
             </div>

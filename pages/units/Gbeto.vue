@@ -631,8 +631,8 @@
             <p><em>一群飛刀女獵手</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Gbeto_Attacking.png"
-              ><img class="imgn hg" src="~assets/Gbeto_Attacking.png" alt=""
+            <nuxt-link to="/img/Gbeto_Attacking.jpg"
+              ><img class="imgn hg" src="~assets/Gbeto_Attacking.jpg" alt=""
             /></nuxt-link>
             <p><em>飛刀女獵手正攻擊敵人的軍營</em></p>
           </div>

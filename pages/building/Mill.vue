@@ -507,11 +507,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/MillDarkAge.png"
+            <nuxt-link to="/img/MillDarkAge.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/MillDarkAge.png"
+                src="~assets/MillDarkAge.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -519,11 +519,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/MillFeudalAgeHD.png"
+            <nuxt-link to="/img/MillFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/MillFeudalAgeHD.png"
+                src="~assets/MillFeudalAgeHD.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -531,11 +531,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/MillFeudalAgeDLC.png"
+            <nuxt-link to="/img/MillFeudalAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/MillFeudalAgeDLC.png"
+                src="~assets/MillFeudalAgeDLC.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -545,11 +545,11 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Millaokaoc.png"
+            <nuxt-link to="/img/Millaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Millaokaoc.png"
+                src="~assets/Millaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -557,11 +557,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Mills_hd.png"
+            <nuxt-link to="/img/Mills_hd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Mills_hd.png"
+                src="~assets/Mills_hd.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">

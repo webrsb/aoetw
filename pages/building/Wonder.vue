@@ -890,7 +890,7 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderBerbers.png" alt="" />
+              <img height="124px;" src="~assets/WonderBerbers.jpg" alt="" />
             </div>
             <div class="hrn1"></div>
             <p>
@@ -908,7 +908,7 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderEthiopians.png" alt="" />
+              <img height="124px;" src="~assets/WonderEthiopians.jpg" alt="" />
             </div>
             <div class="hrn1"></div>
             <p>
@@ -926,7 +926,7 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderMalians.png" alt="" />
+              <img height="124px;" src="~assets/WonderMalians.jpg" alt="" />
             </div>
             <div class="hrn1"></div>
             <p>
@@ -946,7 +946,7 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderPortuguese.png" alt="" />
+              <img height="124px;" src="~assets/WonderPortuguese.jpg" alt="" />
             </div>
             <div class="hrn1"></div>
             <p>

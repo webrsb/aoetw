@@ -22,7 +22,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Towns.png"
+              src="~assets/Towns.jpg"
               alt=""
             />
             <p class="text-center">
@@ -34,7 +34,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Rock_pillars.png"
+              src="~assets/Rock_pillars.jpg"
               alt=""
             />
             <p class="text-center">

@@ -243,10 +243,10 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Rattan_vs_Cavalry_Archers.png"
+              <nuxt-link to="/img/Rattan_vs_Cavalry_Archers.jpg"
                 ><img
                   class="imgn hg"
-                  src="~assets/Rattan_vs_Cavalry_Archers.png"
+                  src="~assets/Rattan_vs_Cavalry_Archers.jpg"
                   alt=""
               /></nuxt-link>
               <p><em>一群正在作戰的藤甲弓兵。</em></p>

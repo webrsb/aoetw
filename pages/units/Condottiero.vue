@@ -816,8 +816,8 @@
             <p><em>一群傭兵(4.4版本後)</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Per.png"
-              ><img class="imgn hg" width="250" src="~assets/Per.png" alt=""
+            <nuxt-link to="/img/Per.jpg"
+              ><img class="imgn hg" width="250" src="~assets/per.jpg" alt=""
             /></nuxt-link>
             <p><em>傭兵對沒有完整升級步兵的文明非常有價值，例如:波斯。</em></p>
           </div>

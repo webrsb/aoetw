@@ -771,8 +771,8 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Caravel.png"
-                ><img class="imgn hg" src="~assets/Caravel.png" alt=""
+              <nuxt-link to="/img/Caravel.jpg"
+                ><img class="imgn hg" src="~assets/Caravel.jpg" alt=""
               /></nuxt-link>
               <p><em>一群卡拉維爾戰船。</em></p>
             </div>

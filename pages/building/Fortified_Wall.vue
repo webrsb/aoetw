@@ -346,11 +346,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Fortifiedwallaokaoc.png"
+            <nuxt-link to="/img/Fortifiedwallaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Fortifiedwallaokaoc.png"
+                src="~assets/Fortifiedwallaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -358,11 +358,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Fortifiedwallhd.png"
+            <nuxt-link to="/img/Fortifiedwallhd.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Fortifiedwallhd.png"
+                src="~assets/Fortifiedwallhd.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">

@@ -651,11 +651,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/DockDarkAge.png"
+            <nuxt-link to="/img/DockDarkAge.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/DockDarkAge.png"
+                src="~assets/DockDarkAge.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -663,11 +663,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/DockFeudalAgeHD.png"
+            <nuxt-link to="/img/DockFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/DockFeudalAgeHD.png"
+                src="~assets/DockFeudalAgeHD.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -675,11 +675,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/DockFeudalAgeDLC.png"
+            <nuxt-link to="/img/DockFeudalAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/DockFeudalAgeDLC.png"
+                src="~assets/DockFeudalAgeDLC.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -689,11 +689,11 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Dockaokaoc.png"
+            <nuxt-link to="/img/Dockaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Dockaokaoc.png"
+                src="~assets/Dockaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -701,11 +701,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Dockexpansions.png"
+            <nuxt-link to="/img/Dockexpansions.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Dockexpansions.png"
+                src="~assets/Dockexpansions.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -713,11 +713,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_dock.png"
+            <nuxt-link to="/img/Spritesheet_dock.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Spritesheet_dock.png"
+                src="~assets/Spritesheet_dock.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">

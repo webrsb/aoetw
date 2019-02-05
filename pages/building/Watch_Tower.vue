@@ -690,11 +690,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Watchtoweraokaoc.png"
+            <nuxt-link to="/img/Watchtoweraokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Watchtoweraokaoc.png"
+                src="~assets/Watchtoweraokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -702,11 +702,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Watchtowerhd.png"
+            <nuxt-link to="/img/Watchtowerhd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Watchtowerhd.png"
+                src="~assets/Watchtowerhd.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -714,11 +714,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_towers.png"
+            <nuxt-link to="/img/Spritesheet_towers.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Spritesheet_towers.png"
+                src="~assets/Spritesheet_towers.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">

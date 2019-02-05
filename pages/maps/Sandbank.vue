@@ -25,7 +25,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Mangrove.png"
+              src="~assets/Mangrove.jpg"
               alt=""
             />
             <p class="text-center">

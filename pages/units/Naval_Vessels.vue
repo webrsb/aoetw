@@ -885,11 +885,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <nuxt-link to="/img/Vesselcivilian.png"
+              <nuxt-link to="/img/Vesselcivilian.jpg"
                 ><img
                   class="imgn hg"
                   width="180"
-                  src="~assets/Vesselcivilian.png"
+                  src="~assets/Vesselcivilian.jpg"
                   alt=""
               /></nuxt-link>
               <div class="lightbox-caption" style="width:220px">
@@ -897,11 +897,11 @@
               </div>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Vesselmilitary.png"
+              <nuxt-link to="/img/Vesselmilitary.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
-                  src="~assets/Vesselmilitary.png"
+                  src="~assets/Vesselmilitary.jpg"
                   alt=""
               /></nuxt-link>
               <div class="lightbox-caption" style="width:220px">
@@ -909,11 +909,11 @@
               </div>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Vesselunique.png"
+              <nuxt-link to="/img/Vesselunique.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
-                  src="~assets/Vesselunique.png"
+                  src="~assets/Vesselunique.jpg"
                   alt=""
               /></nuxt-link>
               <div class="lightbox-caption" style="width:185px">
@@ -923,11 +923,11 @@
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Sailsaokaoc.png"
+              <nuxt-link to="/img/Sailsaokaoc.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
-                  src="~assets/Sailsaokaoc.png"
+                  src="~assets/Sailsaokaoc.jpg"
                   alt=""
               /></nuxt-link>
               <div class="lightbox-caption" style="width:185px">
@@ -939,11 +939,11 @@
               </div>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Sailshd.png"
+              <nuxt-link to="/img/Sailshd.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
-                  src="~assets/Sailshd.png"
+                  src="~assets/Sailshd.jpg"
                   alt=""
               /></nuxt-link>
               <div class="lightbox-caption" style="width:220px">

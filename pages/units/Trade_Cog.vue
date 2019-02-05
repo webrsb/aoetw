@@ -752,8 +752,8 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Tradecog.png"
-              ><img class="imgn hg" src="~assets/Tradecog.png" alt=""
+            <nuxt-link to="/img/Tradecog.jpg"
+              ><img class="imgn hg" src="~assets/Tradecog.jpg" alt=""
             /></nuxt-link>
             <p><em>一群貿易商旅。</em></p>
           </div>

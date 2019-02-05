@@ -369,11 +369,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <nuxt-link to="/img/Gunpowder.png"
+              <nuxt-link to="/img/Gunpowder.jpg"
                 ><img
                   class="imgn hg"
                   width="180"
-                  src="~assets/Gunpowder.png"
+                  src="~assets/Gunpowder.jpg"
                   alt=""
               /></nuxt-link>
               <div class="lightbox-caption" style="width:220px">

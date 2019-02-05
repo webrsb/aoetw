@@ -303,7 +303,7 @@
           <div class="wimg">
             <img
               height="124px;"
-              src="~assets/Lancelot_-_Factsphere.png"
+              src="~assets/Lancelot_-_Factsphere.jpg"
               alt=""
             />
           </div>

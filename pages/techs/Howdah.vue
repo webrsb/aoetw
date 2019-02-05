@@ -84,10 +84,10 @@
           <div class="col-md-12">
             <div class="col-md-4">
               <nuxt-link
-                to="/img/Howdah_of_the_Golconda_Sultanate,_Qutb_Shahi_dynasty.png"
+                to="/img/Howdah_of_the_Golconda_Sultanate_Qutb_Shahi_dynasty.jpg"
                 ><img
                   class="imgn hg"
-                  src="~assets/Howdah_of_the_Golconda_Sultanate,_Qutb_Shahi_dynasty.png"
+                  src="~assets/Howdah_of_the_Golconda_Sultanate_Qutb_Shahi_dynasty.jpg"
                   alt=""
               /></nuxt-link>
               <p><em>沙希王朝(Qutb_Shahi_dynasty)的象轎。</em></p>

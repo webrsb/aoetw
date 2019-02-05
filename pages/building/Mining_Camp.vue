@@ -434,11 +434,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Miningcampaokaoc.png"
+            <nuxt-link to="/img/Miningcampaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Miningcampaokaoc.png"
+                src="~assets/Miningcampaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -446,11 +446,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Mining_camp_hd.png"
+            <nuxt-link to="/img/Mining_camp_hd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Mining_camp_hd.png"
+                src="~assets/Mining_camp_hd.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">

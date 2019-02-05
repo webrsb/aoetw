@@ -430,7 +430,7 @@
           <div class="wimg">
             <img
               height="124px;"
-              src="~assets/chara_img_illust_oda.png"
+              src="~assets/chara_img_illust_oda.jpg"
               alt=""
             />
           </div>

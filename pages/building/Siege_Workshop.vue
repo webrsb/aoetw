@@ -530,11 +530,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Siegeworkshopaokaoc.png"
+            <nuxt-link to="/img/Siegeworkshopaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Siegeworkshopaokaoc.png"
+                src="~assets/Siegeworkshopaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -542,11 +542,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Siege_workshops_hd.png"
+            <nuxt-link to="/img/Siege_workshops_hd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Siege_workshops_hd.png"
+                src="~assets/Siege_workshops_hd.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -554,11 +554,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_siege_workshop.png"
+            <nuxt-link to="/img/Spritesheet_siege_workshop.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Spritesheet_siege_workshop.png"
+                src="~assets/Spritesheet_siege_workshop.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">

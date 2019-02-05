@@ -866,21 +866,21 @@
               <p><em>戰船系列(重型弩炮戰船在最右邊的)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Galleon.png"
-                ><img class="imgn hg" src="~assets/Galleon.png" alt=""
+              <nuxt-link to="/img/Galleon.jpg"
+                ><img class="imgn hg" src="~assets/Galleon.jpg" alt=""
               /></nuxt-link>
               <p><em>一群重型弩炮戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/GalleonHD.png"
-                ><img class="imgn hg" src="~assets/GalleonHD.png" alt=""
+              <nuxt-link to="/img/GalleonHD.jpg"
+                ><img class="imgn hg" src="~assets/GalleonHD.jpg" alt=""
               /></nuxt-link>
               <p><em>各種重型弩炮戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/GalleonDLC.png"
-                  ><img class="imgn hg" src="~assets/GalleonDLC.png" alt=""
+                <nuxt-link to="/img/GalleonDLC.jpg"
+                  ><img class="imgn hg" src="~assets/GalleonDLC.jpg" alt=""
                 /></nuxt-link>
                 <p><em>各種重型弩炮戰船(HD擴充資料片)。</em></p>
               </div>

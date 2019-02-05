@@ -22,7 +22,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Golden_Pit_1.png"
+              src="~assets/Golden_Pit_1.jpg"
               alt=""
             />
             <p class="text-center"><em>金礦股邊緣是沙地的斜坡。</em></p>
@@ -32,7 +32,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Golden_Pit_2.png"
+              src="~assets/Golden_Pit_2.jpg"
               alt=""
             />
             <p class="text-center">
@@ -44,7 +44,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Golden_Pit_3.png"
+              src="~assets/Golden_Pit_3.jpg"
               alt=""
             />
             <p class="text-center"><em>兩方相遇在森林中大打出手。</em></p>

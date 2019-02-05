@@ -783,8 +783,8 @@
               <p><em>神風船系列(重型神風船在右邊)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Heavydemo.png"
-                ><img class="imgn hg" src="~assets/Heavydemo.png" alt=""
+              <nuxt-link to="/img/Heavydemo.jpg"
+                ><img class="imgn hg" src="~assets/Heavydemo.jpg" alt=""
               /></nuxt-link>
               <p><em>一群重型神風船。</em></p>
             </div>

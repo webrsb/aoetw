@@ -639,21 +639,21 @@
               <p><em>一群駱駝弓騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Aoe2_CamelArcher_Preview.png"
+              <nuxt-link to="/img/Aoe2_CamelArcher_Preview.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
-                  src="~assets/Aoe2_CamelArcher_Preview.png"
+                  src="~assets/Aoe2_CamelArcher_Preview.jpg"
                   alt=""
               /></nuxt-link>
               <p><em>以前的駱駝弓騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/AOE2_CamelArcher_WIP-1024x787.png"
+              <nuxt-link to="/img/AOE2_CamelArcher_WIP-1024x787.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
-                  src="~assets/AOE2_CamelArcher_WIP-1024x787.png"
+                  src="~assets/AOE2_CamelArcher_WIP-1024x787.jpg"
                   alt=""
               /></nuxt-link>
               <p><em>駱駝弓騎兵3D圖</em></p>

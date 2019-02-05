@@ -44,7 +44,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/Montezumaacampaign.png" width="300" alt="" />
+              <img src="~assets/Montezumaacampaign.jpg" width="300" alt="" />
               <p>蒙特蘇馬戰役地圖</p>
             </div>
             <h3>芝麻小事</h3>

@@ -522,14 +522,14 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Bombardtoweraok.png"
-                ><img class="imgn hg" src="~assets/Bombardtoweraok.png" alt=""
+              <nuxt-link to="/img/Bombardtoweraok.jpg"
+                ><img class="imgn hg" src="~assets/Bombardtoweraok.jpg" alt=""
               /></nuxt-link>
               <p><em>帝王世紀的所有火砲塔風格。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Bombardtowerhd.png"
-                ><img class="imgn hg" src="~assets/Bombardtowerhd.png" alt=""
+              <nuxt-link to="/img/Bombardtowerhd.jpg"
+                ><img class="imgn hg" src="~assets/Bombardtowerhd.jpg" alt=""
               /></nuxt-link>
               <p><em>失落的帝國後所有火砲塔風格。</em></p>
             </div>

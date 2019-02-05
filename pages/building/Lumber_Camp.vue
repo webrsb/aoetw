@@ -430,11 +430,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Lumbercampaokaoc.png"
+            <nuxt-link to="/img/Lumbercampaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Lumbercampaokaoc.png"
+                src="~assets/Lumbercampaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -442,11 +442,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Lumbercamps_hd.png"
+            <nuxt-link to="/img/Lumbercamps_hd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Lumbercamps_hd.png"
+                src="~assets/Lumbercamps_hd.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -454,11 +454,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Lumbercamp.png"
+            <nuxt-link to="/img/Lumbercamp.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Lumbercamp.png"
+                src="~assets/Lumbercamp.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">

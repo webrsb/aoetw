@@ -497,11 +497,11 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/2018sa.png"
+              <nuxt-link to="/img/2018sa.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
-                  src="~assets/2018sa.png"
+                  src="~assets/2018sa.jpg"
                   alt=""
               /></nuxt-link>
               <p><em>一群飛鏢騎兵</em></p>

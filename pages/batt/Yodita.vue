@@ -63,7 +63,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/Yodit.png" width="300" alt="" />
+              <img src="~assets/Yodit.jpg" width="300" alt="" />
               <p>優娣忒戰役地圖</p>
             </div>
           </div>

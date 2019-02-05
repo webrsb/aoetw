@@ -105,8 +105,8 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Incas_town.png"
-                ><img class="imgn hg" src="~assets/Incas_town.png" alt=""
+              <nuxt-link to="/img/Incas_town.jpg"
+                ><img class="imgn hg" src="~assets/Incas_town.jpg" alt=""
               /></nuxt-link>
               <p><em>官方版本的印加宣傳</em></p>
             </div>

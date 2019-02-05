@@ -683,10 +683,10 @@
               <p><em>一群熱那亞弩手。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Genoese_Crossbowmen.png"
+              <nuxt-link to="/img/Genoese_Crossbowmen.jpg"
                 ><img
                   class="imgn hg"
-                  src="~assets/Genoese_Crossbowmen.png"
+                  src="~assets/Genoese_Crossbowmen.jpg"
                   alt=""
               /></nuxt-link>
               <p>

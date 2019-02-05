@@ -577,11 +577,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/BarracksDarkAge.png"
+            <nuxt-link to="/img/BarracksDarkAge.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/BarracksDarkAge.png"
+                src="~assets/BarracksDarkAge.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -589,11 +589,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/BarracksFeudalAgeHD.png"
+            <nuxt-link to="/img/BarracksFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/BarracksFeudalAgeHD.png"
+                src="~assets/BarracksFeudalAgeHD.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -601,11 +601,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Barracks_hd_feudal.png"
+            <nuxt-link to="/img/Barracks_hd_feudal.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Barracks_hd_feudal.png"
+                src="~assets/Barracks_hd_feudal.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -615,11 +615,11 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Barracksaokaoc.png"
+            <nuxt-link to="/img/Barracksaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Barracksaokaoc.png"
+                src="~assets/Barracksaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -627,11 +627,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Barracks_hd.png"
+            <nuxt-link to="/img/Barracks_hd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Barracks_hd.png"
+                src="~assets/Barracks_hd.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -639,11 +639,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_barracks.png"
+            <nuxt-link to="/img/Spritesheet_barracks.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Spritesheet_barracks.png"
+                src="~assets/Spritesheet_barracks.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">

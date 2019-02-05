@@ -426,11 +426,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/MarketFeudalAgeHD.png"
+            <nuxt-link to="/img/MarketFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/MarketFeudalAgeHD.png"
+                src="~assets/MarketFeudalAgeHD.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -438,11 +438,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/MarketFeudalAgeDLC.png"
+            <nuxt-link to="/img/MarketFeudalAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/MarketFeudalAgeDLC.png"
+                src="~assets/MarketFeudalAgeDLC.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -450,11 +450,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Marketaokaoc.png"
+            <nuxt-link to="/img/Marketaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Marketaokaoc.png"
+                src="~assets/Marketaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -464,19 +464,19 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Market.png"
-              ><img class="imgn hg" width="200" src="~assets/Market.png" alt=""
+            <nuxt-link to="/img/Market.jpg"
+              ><img class="imgn hg" width="200" src="~assets/Market.jpg" alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的市集(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/MarketImperialAgeHD.png"
+            <nuxt-link to="/img/MarketImperialAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/MarketImperialAgeHD.png"
+                src="~assets/MarketImperialAgeHD.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -484,11 +484,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/MarketImperialAgeDLC.png"
+            <nuxt-link to="/img/MarketImperialAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/MarketImperialAgeDLC.png"
+                src="~assets/MarketImperialAgeDLC.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -498,11 +498,11 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_market.png"
+            <nuxt-link to="/img/Spritesheet_market.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Spritesheet_market.png"
+                src="~assets/Spritesheet_market.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">

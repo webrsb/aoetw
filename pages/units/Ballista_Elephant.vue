@@ -979,10 +979,10 @@
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Khmer-vietnamese_battle.png"
+              <nuxt-link to="/img/Khmer-vietnamese_battle.jpg"
                 ><img
                   class="imgn hg"
-                  src="~assets/Khmer-vietnamese_battle.png"
+                  src="~assets/Khmer-vietnamese_battle.jpg"
                   alt=""
               /></nuxt-link>
               <p>

@@ -22,7 +22,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Savannah.png"
+              src="~assets/Savannah.jpg"
               alt=""
             />
             <p class="text-center">
@@ -34,7 +34,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Huntable.png"
+              src="~assets/Huntable.jpg"
               alt=""
             />
             <p class="text-center">

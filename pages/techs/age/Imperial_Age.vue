@@ -852,8 +852,8 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Civimpage.png"
-                ><img class="imgn hg" src="~assets/Civimpage.png" alt=""
+              <nuxt-link to="/img/Civimpage.jpg"
+                ><img class="imgn hg" src="~assets/Civimpage.jpg" alt=""
               /></nuxt-link>
               <p><em>文明在帝王時代的樣子。</em></p>
             </div>

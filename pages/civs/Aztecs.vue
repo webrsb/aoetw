@@ -115,8 +115,8 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wonderaztecs.png"
-                ><img class="imgn hg" src="~assets/Wonderaztecs.png" alt=""
+              <nuxt-link to="/img/Wonderaztecs.jpg"
+                ><img class="imgn hg" src="~assets/Wonderaztecs.jpg" alt=""
               /></nuxt-link>
               <p><em>大神殿</em></p>
             </div>

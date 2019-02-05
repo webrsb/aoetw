@@ -680,8 +680,8 @@
                 <p><em>駱駝騎兵、重裝駱駝騎兵與帝王駱駝騎兵。</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Indians_preview.png"
-                  ><img class="imgn hg" src="~assets/Indians_preview.png" alt=""
+                <nuxt-link to="/img/Indians_preview.jpg"
+                  ><img class="imgn hg" src="~assets/Indians_preview.jpg" alt=""
                 /></nuxt-link>
                 <p>
                   <em

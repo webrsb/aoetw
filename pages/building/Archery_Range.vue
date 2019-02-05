@@ -518,11 +518,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/ARFeudalAgeDLC.png">
+            <nuxt-link to="/img/ARFeudalAgeDLC.jpg">
               <img
                 class="imgn hg"
                 width="200"
-                src="~assets/ARFeudalAgeDLC.png"
+                src="~assets/ARFeudalAgeDLC.jpg"
                 alt=""
             /></nuxt-link>
 
@@ -533,11 +533,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/ARFeudalAgeHD.png">
+            <nuxt-link to="/img/ARFeudalAgeHD.jpg">
               <img
                 class="imgn hg"
                 width="200"
-                src="~assets/ARFeudalAgeHD.png"
+                src="~assets/ARFeudalAgeHD.jpg"
                 alt=""
             /></nuxt-link>
 
@@ -546,11 +546,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Archeryrangeaokaoc.png">
+            <nuxt-link to="/img/Archeryrangeaokaoc.jpg">
               <img
                 class="imgn hg"
                 width="200"
-                src="~assets/Archeryrangeaokaoc.png"
+                src="~assets/Archeryrangeaokaoc.jpg"
                 alt=""
             /></nuxt-link>
 
@@ -561,11 +561,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Archery_ranges_hd.png">
+            <nuxt-link to="/img/Archery_ranges_hd.jpg">
               <img
                 class="imgn hg"
                 width="200"
-                src="~assets/Archery_ranges_hd.png"
+                src="~assets/Archery_ranges_hd.jpg"
                 alt=""
             /></nuxt-link>
 
@@ -578,7 +578,7 @@
               <img
                 class="imgn hg"
                 width="200"
-                src="~assets/Spritesheet_archery_range.png"
+                src="~assets/Spritesheet_archery_range.jpg"
                 alt=""
             /></nuxt-link>
 

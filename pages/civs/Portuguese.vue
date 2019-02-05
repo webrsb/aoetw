@@ -136,10 +136,10 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Portuguese_preview.png"
+              <nuxt-link to="/img/Portuguese_preview.jpg"
                 ><img
                   class="imgn hg"
-                  src="~assets/Portuguese_preview.png"
+                  src="~assets/Portuguese_preview.jpg"
                   alt=""
               /></nuxt-link>
               <p><em>葡萄牙海軍</em></p>

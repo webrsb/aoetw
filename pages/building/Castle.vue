@@ -772,7 +772,7 @@
                 >標準建築</nuxt-link
               >
               <br />
-              <nuxt-link to="/img/Armor_class_building/Castle">城堡</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Castle">城堡</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -793,7 +793,7 @@
             ><img
               class="imgn hg"
               width="180"
-              src="~assets/Castleaokaoc.png"
+              src="~assets/Castleaokaoc.jpg"
               alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
@@ -802,7 +802,7 @@
         </div>
         <div class="col-md-4">
           <nuxt-link to="/img/Castlehd.png"
-            ><img class="imgn hg" width="200" src="~assets/Castlehd.png" alt=""
+            ><img class="imgn hg" width="200" src="~assets/Castlehd.jpg" alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
             <p><em>所有城堡(HD擴充資料片)。</em></p>
@@ -813,7 +813,7 @@
             ><img
               class="imgn hg"
               width="200"
-              src="~assets/Spritesheet_castle.png"
+              src="~assets/Spritesheet_castle.jpg"
               alt=""
           /></nuxt-link>
           <div class="lightbox-caption" style="width:185px">

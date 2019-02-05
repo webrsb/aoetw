@@ -338,11 +338,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Outpostlosdarkage.png"
+            <nuxt-link to="/img/OutpostlosDarkAge.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Outpostlosdarkage.png"
+                src="~assets/Outpostlosdarkage.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -350,11 +350,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Outpostlosfu.png"
+            <nuxt-link to="/img/Outpostlosfu.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Outpostlosfu.png"
+                src="~assets/Outpostlosfu.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">

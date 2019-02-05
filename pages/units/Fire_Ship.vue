@@ -832,8 +832,8 @@
               <p><em>火戰船系列(火戰船在中間)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Fireship.png"
-                ><img class="imgn hg" src="~assets/Fireship.png" alt=""
+              <nuxt-link to="/img/Fireship.jpg"
+                ><img class="imgn hg" src="~assets/Fireship.jpg" alt=""
               /></nuxt-link>
               <p><em>一群火戰船。</em></p>
             </div>

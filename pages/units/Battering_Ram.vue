@@ -468,8 +468,8 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Splashdamageram.png"
-                  ><img class="imgn hg" src="~assets/Splashdamageram.png" alt=""
+                <nuxt-link to="/img/Splashdamageram.jpg"
+                  ><img class="imgn hg" src="~assets/Splashdamageram.jpg" alt=""
                 /></nuxt-link>
                 <p><em>各類型衝撞車與其傷害。</em></p>
               </div>

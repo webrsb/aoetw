@@ -459,11 +459,11 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/monks1.png"
+              <nuxt-link to="/img/monks1.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
-                  src="~assets/monks1.png"
+                  src="~assets/monks1.jpg"
                   alt=""
               /></nuxt-link>
               <p>

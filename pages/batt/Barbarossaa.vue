@@ -49,7 +49,7 @@
               </ol>
             </div>
             <div class="col-md-6">
-              <img src="~assets/Barbarossamap.png" width="300" alt="" />
+              <img src="~assets/Barbarossamap.jpg" width="300" alt="" />
               <p>巴巴羅薩戰役地圖</p>
             </div>
           </div>

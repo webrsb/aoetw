@@ -656,14 +656,14 @@
             <p><em>普通的投石機</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/ Trebunpacket.png"
-              ><img class="imgn hg" src="~assets/Trebunpacket.png" alt=""
+            <nuxt-link to="/img/ Trebunpacket.jpg"
+              ><img class="imgn hg" src="~assets/Trebunpacket.jpg" alt=""
             /></nuxt-link>
             <p><em>組裝好的投石機</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/ Trebdamaged.png"
-              ><img class="imgn hg" src="~assets/Trebdamaged.png" alt=""
+            <nuxt-link to="/img/ Trebdamaged.jpg"
+              ><img class="imgn hg" src="~assets/Trebdamaged.jpg" alt=""
             /></nuxt-link>
             <p><em>巨型投石機受傷時會像建築物一樣起火</em></p>
           </div>

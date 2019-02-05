@@ -739,11 +739,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Keepaokaoc.png"
+            <nuxt-link to="/img/Keepaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/Keepaokaoc.png"
+                src="~assets/Keepaokaoc.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -751,8 +751,8 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Keephd.png"
-              ><img class="imgn hg" width="200" src="~assets/Keephd.png" alt=""
+            <nuxt-link to="/img/Keephd.jpg"
+              ><img class="imgn hg" width="200" src="~assets/Keephd.jpg" alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有的大型箭塔(HD擴充資料片)。</em></p>

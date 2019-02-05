@@ -596,8 +596,8 @@
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-4">
-                  <nuxt-link to="/img/Siegetower.png"
-                    ><img class="imgn hg" src="~assets/Siegetower.png" alt=""
+                  <nuxt-link to="/img/Siegetower.jpg"
+                    ><img class="imgn hg" src="~assets/Siegetower.jpg" alt=""
                   /></nuxt-link>
                   <p><em>一群攻城塔</em></p>
                 </div>

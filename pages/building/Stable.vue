@@ -529,11 +529,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/StableFeudalAgeHD.png"
+            <nuxt-link to="/img/StableFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="180"
-                src="~assets/StableFeudalAgeHD.png"
+                src="~assets/StableFeudalAgeHD.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -541,11 +541,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/StableFeudalAgeDLC.png"
+            <nuxt-link to="/img/StableFeudalAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/StableFeudalAgeDLC.png"
+                src="~assets/StableFeudalAgeDLC.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -553,11 +553,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Stableaok.png"
+            <nuxt-link to="/img/Stableaok.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Stableaok.png"
+                src="~assets/Stableaok.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
@@ -567,11 +567,11 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Stablehd.png"
+            <nuxt-link to="/img/Stablehd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Stablehd.png"
+                src="~assets/Stablehd.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
@@ -579,11 +579,11 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_stable.png"
+            <nuxt-link to="/img/Spritesheet_stable.jpg"
               ><img
                 class="imgn hg"
                 width="200"
-                src="~assets/Spritesheet_stable.png"
+                src="~assets/Spritesheet_stable.jpg"
                 alt=""
             /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">

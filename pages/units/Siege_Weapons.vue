@@ -815,11 +815,11 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-4">
-                <nuxt-link to="/img/Siegeunitssiegeworkshop.png"
+                <nuxt-link to="/img/Siegeunitssiegeworkshop.jpg"
                   ><img
                     class="imgn hg"
                     width="180"
-                    src="~assets/Siegeunitssiegeworkshop.png"
+                    src="~assets/Siegeunitssiegeworkshop.jpg"
                     alt=""
                 /></nuxt-link>
                 <div class="lightbox-caption" style="width:220px">
@@ -827,11 +827,11 @@
                 </div>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Siegeunitscastle.png"
+                <nuxt-link to="/img/Siegeunitscastle.jpg"
                   ><img
                     class="imgn hg"
                     width="200"
-                    src="~assets/Siegeunitscastle.png"
+                    src="~assets/Siegeunitscastle.jpg"
                     alt=""
                 /></nuxt-link>
                 <div class="lightbox-caption" style="width:220px">

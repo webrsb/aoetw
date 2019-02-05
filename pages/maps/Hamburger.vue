@@ -25,7 +25,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Wood_line.png"
+              src="~assets/Wood_line.jpg"
               alt=""
             />
             <p class="text-center"><em>中間的樹林是雙方玩家最初的防線。</em></p>
@@ -35,7 +35,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Resources.png"
+              src="~assets/Resources.jpg"
               alt=""
             />
             <p class="text-center">

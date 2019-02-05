@@ -132,8 +132,8 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wonderspanish.png"
-                ><img class="imgn hg" src="~assets/Wonderspanish.png" alt=""
+              <nuxt-link to="/img/Wonderspanish.jpg"
+                ><img class="imgn hg" src="~assets/Wonderspanish.jpg" alt=""
               /></nuxt-link>
               <p><em>黃金塔</em></p>
             </div>

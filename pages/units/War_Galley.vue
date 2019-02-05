@@ -906,21 +906,21 @@
               <p><em>戰船系列(戰船在中間)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Wargalley.png"
-                ><img class="imgn hg" src="~assets/Wargalley.png" alt=""
+              <nuxt-link to="/img/WarGalley.jpg"
+                ><img class="imgn hg" src="~assets/WarGalley.jpg" alt=""
               /></nuxt-link>
               <p><em>一群弩炮戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/WarGalleyHD.png"
-                ><img class="imgn hg" src="~assets/WarGalleyHD.png" alt=""
+              <nuxt-link to="/img/WarGalleyHD.jpg"
+                ><img class="imgn hg" src="~assets/WarGalleyHD.jpg" alt=""
               /></nuxt-link>
               <p><em>各種弩炮戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/WarGalleyDLC.png"
-                  ><img class="imgn hg" src="~assets/WarGalleyDLC.png" alt=""
+                <nuxt-link to="/img/WarGalleyDLC.jpg"
+                  ><img class="imgn hg" src="~assets/WarGalleyDLC.jpg" alt=""
                 /></nuxt-link>
                 <p><em>各種弩炮戰船(HD擴充資料片)。</em></p>
               </div>

@@ -22,7 +22,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/More_mines.png"
+              src="~assets/More_Mines.jpg"
               alt=""
             />
             <p class="text-center">
@@ -34,7 +34,7 @@
               position="centered"
               class="imgn hg"
               width="500"
-              src="~assets/Shallow.png"
+              src="~assets/Shallow.jpg"
               alt=""
             />
             <p class="text-center">

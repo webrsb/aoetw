@@ -627,8 +627,8 @@
               <p><em>一群手風琴炮。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/6.png"
-                ><img class="imgn hg" src="~assets/6.png" alt=""
+              <nuxt-link to="/img/6.jpg"
+                ><img class="imgn hg" src="~assets/6.jpg" alt=""
               /></nuxt-link>
               <p><em>手風琴炮正防禦著敵人的突襲。</em></p>
             </div>

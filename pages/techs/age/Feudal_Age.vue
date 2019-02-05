@@ -569,10 +569,10 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Civilizationfeudalage.png"
+              <nuxt-link to="/img/Civilizationfeudalage.jpg"
                 ><img
                   class="imgn hg"
-                  src="~assets/Civilizationfeudalage.png"
+                  src="~assets/Civilizationfeudalage.jpg"
                   alt=""
               /></nuxt-link>
               <p><em>文明在封建時代的樣子。</em></p>

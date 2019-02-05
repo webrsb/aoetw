@@ -644,8 +644,8 @@
               <p><em>一群長弓兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Longbowman_range.png"
-                ><img class="imgn hg" src="~assets/Longbowman_range.png" alt=""
+              <nuxt-link to="/img/Longbowman_range.jpg"
+                ><img class="imgn hg" src="~assets/Longbowman_range.jpg" alt=""
               /></nuxt-link>
               <p><em>與其他兵種的最大射程比較</em></p>
             </div>

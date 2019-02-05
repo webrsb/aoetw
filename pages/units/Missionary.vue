@@ -666,8 +666,8 @@
               <p><em>一群傳教士</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Missionary1.png"
-                ><img class="imgn hg" src="~assets/Missionary1.png" alt=""
+              <nuxt-link to="/img/Missionary1.jpg"
+                ><img class="imgn hg" src="~assets/Missionary1.jpg" alt=""
               /></nuxt-link>
               <p><em>傳教士美術畫</em></p>
             </div>

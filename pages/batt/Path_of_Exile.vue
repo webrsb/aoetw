@@ -215,7 +215,7 @@
                 position="centered"
                 class="imgn hg"
                 width="500"
-                src="~assets/yodit-town center.png"
+                src="~assets/yodit-town center.jpg"
                 alt=""
               />
               <p class="text-center"><em>接管村莊，然後就逃吧！</em></p>
@@ -225,7 +225,7 @@
                 position="centered"
                 class="imgn hg"
                 width="500"
-                src="~assets/yodit-flag.png"
+                src="~assets/yodit-flag.jpg"
                 alt=""
               />
               <p class="text-center"><em>到達旗幟逃出阿克蘇姆國。</em></p>
@@ -240,7 +240,7 @@
                 position="centered"
                 class="imgn hg"
                 width="500"
-                src="~assets/yodit-dock.png"
+                src="~assets/yodit-dock.jpg"
                 alt=""
               />
               <p class="text-center"><em>南邊的碼頭跟運輸船。</em></p>

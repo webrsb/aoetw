@@ -337,7 +337,7 @@
             position="centered"
             class="imgn hg"
             width="500"
-            src="~assets/Joanofarc6rock.png"
+            src="~assets/Joanofarc6rock.jpg"
             alt=""
           />
           <p class="text-center">
@@ -349,7 +349,7 @@
             position="centered"
             class="imgn hg"
             width="500"
-            src="~assets/Joanofarc6Burgundy.png"
+            src="~assets/Joanofarc6Burgundy.jpg"
             alt=""
           />
           <p class="text-center"><em>破壞勃根地城鎮。</em></p>
@@ -365,13 +365,13 @@
       </ul>
       <div class="col-md-12">
         <div class="col-md-6">
-          <img class="imgn hg" src="~assets/Joanofarc6Shrewsbury.png" alt="" />
+          <img class="imgn hg" src="~assets/Joanofarc6Shrewsbury.jpg" alt="" />
           <p class="text-center">
             <em>舒茲伯利有大量的黃金跟石頭可以開採。</em>
           </p>
         </div>
         <div class="col-md-6">
-          <img class="imgn hg" src="~assets/Joanofarc6Northwest.png" alt="" />
+          <img class="imgn hg" src="~assets/Joanofarc6Northwest.jpg" alt="" />
           <p class="text-center">
             <em>看到防禦箭塔就在附近蓋城堡跟軍事建築。</em>
           </p>
@@ -391,7 +391,7 @@
             position="centered"
             class="imgn hg"
             width="500"
-            src="~assets/Joanofarc6lastmile.png"
+            src="~assets/Joanofarc6lastmile.jpg"
             alt=""
           />
           <p class="text-center"><em>在城門前蓋城堡往目標繼續挺進。</em></p>
@@ -401,7 +401,7 @@
             position="centered"
             class="imgn hg"
             width="500"
-            src="~assets/Joanofarc6victory.png"
+            src="~assets/Joanofarc6victory.jpg"
             alt=""
           />
           <p class="text-center"><em>玩家可以直接擊敗不列顛人獲得勝利。</em></p>

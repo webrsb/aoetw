@@ -177,8 +177,8 @@
         </div>
         <div class="col-md-4">
           <div class="wimg">
-            <nuxt-link to="/img/Wondercelts.png"
-              ><img class="imgn hg" src="~assets/Wondercelts.png" alt=""
+            <nuxt-link to="/img/Wondercelts.jpg"
+              ><img class="imgn hg" src="~assets/Wondercelts.jpg" alt=""
             /></nuxt-link>
           </div>
           <div class="hrn1"></div>
