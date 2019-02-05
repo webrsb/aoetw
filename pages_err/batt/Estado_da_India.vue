@@ -438,9 +438,9 @@
               <td class="unit3" style="width: 15%;"><a href="Prithviraja.php">布里斯比羅吉</a>
 
               </td>
-              <td class="unit4"> <a href="A_Promising_Warrior.php">英雄出少年</a>。 <a href="The_Digvijaya.php">逐鹿迪格維傑之地</a>。
+              <td class="unit4"> <a href="batt/A_Promising_Warrior">英雄出少年</a>。 <a href="The_Digvijaya.php">逐鹿迪格維傑之地</a>。
                 <a
-                href="The_Elopement.php">私奔</a>。 <a href="/batt/Battles_of_Tarain">塔蘭村之戰</a> 
+                href="/batt/The_Elopement">私奔</a>。 <a href="/batt/Battles_of_Tarain">塔蘭村之戰</a> 
               </td>
             </tr>
             <tr>
@@ -449,7 +449,7 @@
               </td>
               <td class="unit4"> <a href="Bukhara(557).php">布哈拉(557)</a>。 <a href="Dos_Pilas(648).php">雙柱城(648)</a>。
                 <a
-                href="York(865).php">約克(865)</a>。 <a href="Honfoglalás(895).php">征服家園(895)</a>。 <a href="Langshan_Jiang(919).php">狼山江(919)</a>。
+                href="York(865).php">約克(865)</a>。 <a href="/batt/Honfoglalas_895">征服家園(895)</a>。 <a href="Langshan_Jiang(919).php">狼山江(919)</a>。
                   <a
                   href="Kaesong(936).php">開城(936)</a>。 <a href="Kurikara(1183).php">礪波山(1183)</a>。 <a href="Cyprus(1191).php">塞普勒斯(1191)</a>。
                     <a
@@ -485,7 +485,7 @@
               <td class="unit3" style="width: 15%;"><a href="Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</a>
 
               </td>
-              <td class="unit4"> <a href="The_Old_World.php">舊世界</a>。 <a href="Lion_of_Africa.php">非洲雄獅</a>。
+              <td class="unit4"> <a href="/batt/The_Old_World">舊世界</a>。 <a href="Lion_of_Africa.php">非洲雄獅</a>。
                 <a
                 href="batt/Ruins_of_Empires">帝國的廢墟</a>。 <a href="Estado_da_India.php">葡屬印度</a>。 <a href="A_Sons_Blood.php">兒子的血仇</a> 
               </td>

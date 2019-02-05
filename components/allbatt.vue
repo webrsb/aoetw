@@ -225,9 +225,9 @@
               <nuxt-link to="/Prithviraja.php">布里斯比羅吉</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/A_Promising_Warrior.php">英雄出少年</nuxt-link>。
+              <nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link>。
               <nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link>。
-              <nuxt-link to="/The_Elopement.php">私奔</nuxt-link>。
+              <nuxt-link to="/batt/The_Elopement">私奔</nuxt-link>。
               <nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link>
             </td>
           </tr>
@@ -239,7 +239,7 @@
               <nuxt-link to="/Bukhara(557).php">布哈拉(557)</nuxt-link>。
               <nuxt-link to="/Dos_Pilas(648).php">雙柱城(648)</nuxt-link>。
               <nuxt-link to="/York(865).php">約克(865)</nuxt-link>。
-              <nuxt-link to="/Honfoglalás(895).php">征服家園(895)</nuxt-link>。
+              <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>。
               <nuxt-link to="/Langshan_Jiang(919).php">狼山江(919)</nuxt-link>。
               <nuxt-link to="/Kaesong(936).php">開城(936)</nuxt-link>。
               <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>。
@@ -287,7 +287,7 @@
               <nuxt-link to="/Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/The_Old_World.php">舊世界</nuxt-link>。
+              <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>。
               <nuxt-link to="/Lion_of_Africa.php">非洲雄獅</nuxt-link>。
               <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>。
               <nuxt-link to="/Estado_da_India.php">葡屬印度</nuxt-link>。

@@ -414,10 +414,8 @@
                   src="~assets/Handcart.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link>：<nuxt-link
-                  to="/units/Villager"
-                  >村民</nuxt-link
-                >更有效率。
+                /><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link
+                >：<nuxt-link to="/units/Villager">村民</nuxt-link>更有效率。
               </li>
             </ul>
             <strong><nuxt-link to="/building/Mill">磨坊</nuxt-link></strong>

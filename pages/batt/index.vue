@@ -1106,7 +1106,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Honfoglalás_895"
+                    <nuxt-link to="/batt/Honfoglalas_895"
                       >征服家園（895）</nuxt-link
                     >
                   </div>

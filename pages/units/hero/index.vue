@@ -334,7 +334,7 @@
                 >蒙古治下的和平</nuxt-link
               >
               <br /><nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
-              <br /><nuxt-link to="/Honfoglalás(895).php"
+              <br /><nuxt-link to="/batt/Honfoglalas_895"
                 >征服家園(895)</nuxt-link
               >
             </td>
@@ -1117,7 +1117,7 @@
                     <td class="tunitc4">僧侶</td>
                     <td class="tunitc6">特殊</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/A_Promising_Warrior.php"
+                      <nuxt-link to="/batt/A_Promising_Warrior"
                         >英雄出少年</nuxt-link
                       >
                     </td>
@@ -1231,7 +1231,7 @@
                     <td class="tunitc6">韃靼騎兵</td>
                     <td class="tunitc6">
                       <nuxt-link to="/York(865).php">約克(865)</nuxt-link>
-                      <br /><nuxt-link to="/Honfoglalás(895).php"
+                      <br /><nuxt-link to="/batt/Honfoglalas_895"
                         >征服家園(895)</nuxt-link
                       >
                     </td>
@@ -1279,7 +1279,7 @@
                     <td class="tunitc4">弓兵</td>
                     <td class="tunitc6">弩兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/A_Promising_Warrior.php"
+                      <nuxt-link to="/batt/A_Promising_Warrior"
                         >英雄出少年</nuxt-link
                       >
                     </td>
@@ -1297,7 +1297,7 @@
                     <td class="tunitc4">馬騎弓兵</td>
                     <td class="tunitc6">重裝馬騎弓兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/A_Promising_Warrior.php"
+                      <nuxt-link to="/batt/A_Promising_Warrior"
                         >英雄出少年</nuxt-link
                       >
                       <br /><nuxt-link to="/batt/The_Digvijaya"
@@ -1343,7 +1343,7 @@
                     <td class="tunitc4">村民</td>
                     <td class="tunitc6">特殊</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/The_Elopement.php">私奔</nuxt-link>
+                      <nuxt-link to="/batt/The_Elopement">私奔</nuxt-link>
                     </td>
                   </tr>
                   <tr>
