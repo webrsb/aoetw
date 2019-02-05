@@ -893,9 +893,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Civcastle.jpg"
+              <gallery src="~assets/Civcastle.jpg"
                 ><img class="imgn hg" src="~assets/Civcastle.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>文明在城堡時代的樣子。</em></p>
             </div>
           </div>

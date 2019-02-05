@@ -775,25 +775,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Guardtoweraokaoc.jpg"
+            <gallery src="~assets/Guardtoweraokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Guardtoweraokaoc.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有的防禦箭塔(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Guardtowerhd.jpg"
+            <gallery src="~assets/Guardtowerhd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Guardtowerhd.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有的防禦箭塔(HD擴充資料片)。</em></p>
             </div>

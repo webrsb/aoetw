@@ -786,15 +786,15 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Camelline.png"
+            <gallery src="~assets/Camelline.png"
               ><img class="imgn hg" src="~assets/Camelline.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>駱駝系。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Camel.png"
+            <gallery src="~assets/Camel.png"
               ><img class="imgn hg" src="~assets/Camel.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群駱駝騎兵。</em></p>
           </div>
         </div>

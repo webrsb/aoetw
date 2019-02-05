@@ -325,9 +325,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wonderjapanese.jpg"
+              <gallery src="~assets/Wonderjapanese.jpg"
                 ><img class="imgn hg" src="~assets/Wonderjapanese.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>日本的世界奇觀，東大寺。</em></p>
             </div>
           </div>

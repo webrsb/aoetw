@@ -715,24 +715,24 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Fishingship.png"
+            <gallery src="~assets/Fishingship.png"
               ><img class="imgn hg" src="~assets/Fishingship.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群漁船。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Fishingshipworking.jpg"
+            <gallery src="~assets/Fishingshipworking.jpg"
               ><img class="imgn hg" src="~assets/Fishingshipworking.jpg" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>工作中的漁船。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Fishingshipworkingtrap.jpg"
+            <gallery src="~assets/Fishingshipworkingtrap.jpg"
               ><img
                 class="imgn hg"
                 src="~assets/Fishingshipworkingtrap.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>收集漁網食物的漁船。</em></p>
           </div>
         </div>

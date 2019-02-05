@@ -922,21 +922,21 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <nuxt-link to="/img/Spearline.png"
+          <gallery src="~assets/Spearline.png"
             ><img class="imgn hg" src="~assets/Spearline.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>重裝長槍兵系列</em></p>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Pikeman.png"
+          <gallery src="~assets/Pikeman.png"
             ><img class="imgn hg" src="~assets/Pikeman.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>一群重裝長槍兵</em></p>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Pikeman_history.jpg"
+          <gallery src="~assets/Pikeman_history.jpg"
             ><img class="imgn hg" src="~assets/Pikeman_history.jpg" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>真實的重裝長槍兵畫像</em></p>
         </div>
       </div>

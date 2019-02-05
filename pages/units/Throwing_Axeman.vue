@@ -691,25 +691,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Throwingaxeman.png"
+            <gallery src="~assets/Throwingaxeman.png"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Throwingaxeman.png"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>一群擲斧兵。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Francisca.jpg"
+            <gallery src="~assets/Francisca.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Francisca.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em>真實的斧頭(francisca)比遊戲中描繪的更小且只有單一刀片。</em>

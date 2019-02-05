@@ -918,21 +918,21 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <nuxt-link to="/img/Spearline.png"
+          <gallery src="~assets/Spearline.png"
             ><img class="imgn hg" src="~assets/Spearline.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>長槍兵系列</em></p>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Halberdier.png"
+          <gallery src="~assets/Halberdier.png"
             ><img class="imgn hg" src="~assets/Halberdier.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>一群戟兵</em></p>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/162p0005r99962q1q805.jpg"
+          <gallery src="~assets/162p0005r99962q1q805.jpg"
             ><img class="imgn hg" src="~assets/162p0005r99962q1q805.jpg" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>歷史上的瑞士斧槍兵。</em></p>
         </div>
       </div>

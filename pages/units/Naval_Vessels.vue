@@ -885,37 +885,37 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <nuxt-link to="/img/Vesselcivilian.jpg"
+              <gallery src="~assets/Vesselcivilian.jpg"
                 ><img
                   class="imgn hg"
                   width="180"
                   src="~assets/Vesselcivilian.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <div class="lightbox-caption" style="width:220px">
                 <p><em>所有平民船隻。</em></p>
               </div>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Vesselmilitary.jpg"
+              <gallery src="~assets/Vesselmilitary.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
                   src="~assets/Vesselmilitary.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <div class="lightbox-caption" style="width:220px">
                 <p><em>所有一般的戰鬥船艦。</em></p>
               </div>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Vesselunique.jpg"
+              <gallery src="~assets/Vesselunique.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
                   src="~assets/Vesselunique.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <div class="lightbox-caption" style="width:185px">
                 <p><em>所有特殊單位船艦。</em></p>
               </div>
@@ -923,13 +923,13 @@
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Sailsaokaoc.jpg"
+              <gallery src="~assets/Sailsaokaoc.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
                   src="~assets/Sailsaokaoc.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <div class="lightbox-caption" style="width:185px">
                 <p>
                   <em
@@ -939,13 +939,13 @@
               </div>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Sailshd.jpg"
+              <gallery src="~assets/Sailshd.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
                   src="~assets/Sailshd.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <div class="lightbox-caption" style="width:220px">
                 <p><em>不同旗幟的船隻(以戰船為例)(HD擴充資料片)。</em></p>
               </div>

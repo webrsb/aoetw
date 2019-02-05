@@ -518,13 +518,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/ARFeudalAgeDLC.jpg">
+            <gallery src="~assets/ARFeudalAgeDLC.jpg">
               <img
                 class="imgn hg"
                 width="200"
                 src="~assets/ARFeudalAgeDLC.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
 
             <div class="lightbox-caption" style="width:220px">
               <p>
@@ -533,26 +533,26 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/ARFeudalAgeHD.jpg">
+            <gallery src="~assets/ARFeudalAgeHD.jpg">
               <img
                 class="imgn hg"
                 width="200"
                 src="~assets/ARFeudalAgeHD.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
 
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的射箭場（HD擴充資料片）。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Archeryrangeaokaoc.jpg">
+            <gallery src="~assets/Archeryrangeaokaoc.jpg">
               <img
                 class="imgn hg"
                 width="200"
                 src="~assets/Archeryrangeaokaoc.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
 
             <div class="lightbox-caption" style="width:185px">
               <p>
@@ -561,26 +561,26 @@
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Archery_ranges_hd.jpg">
+            <gallery src="~assets/Archery_ranges_hd.jpg">
               <img
                 class="imgn hg"
                 width="200"
                 src="~assets/Archery_ranges_hd.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
 
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的射箭場（HD擴充資料片）。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_archery_range.png">
+            <gallery src="~assets/Spritesheet_archery_range.png">
               <img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_archery_range.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
 
             <div class="lightbox-caption" style="width:185px">
               <p>

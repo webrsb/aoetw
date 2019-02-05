@@ -497,44 +497,44 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/2018sa.jpg"
+              <gallery src="~assets/2018sa.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/2018sa.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群飛鏢騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Arambai_darts.jpg"
+              <gallery src="~assets/Arambai_darts.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Arambai_darts.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>飛鏢</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Arambai_attacking.jpg"
+              <gallery src="~assets/Arambai_attacking.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Arambai_attacking.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>飛鏢騎兵的攻擊方式是丟飛鏢</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Meitei_horsemen.jpg"
+                <gallery src="~assets/Meitei_horsemen.jpg"
                   ><img
                     class="imgn hg"
                     width="250"
                     src="~assets/Meitei_horsemen.jpg"
                     alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>騎在小馬上的曼尼普爾騎兵。</em></p>
               </div>
             </div>

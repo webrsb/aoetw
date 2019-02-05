@@ -530,37 +530,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Siegeworkshopaokaoc.jpg"
+            <gallery src="~assets/Siegeworkshopaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Siegeworkshopaokaoc.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有攻城器製造所(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Siege_workshops_hd.jpg"
+            <gallery src="~assets/Siege_workshops_hd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Siege_workshops_hd.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有攻城器製造所(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_siege_workshop.jpg"
+            <gallery src="~assets/Spritesheet_siege_workshop.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_siege_workshop.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:185px">
               <p><em>各式攻城器製造所和駐紮單位時的樣子。</em></p>
             </div>

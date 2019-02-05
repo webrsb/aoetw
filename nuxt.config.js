@@ -36,7 +36,7 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '~plugins/codemirror.js'
+    '~plugins/register.js'
   ],
 
   /*

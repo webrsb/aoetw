@@ -665,23 +665,23 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Militialine.png"
+              <gallery src="~assets/Militialine.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Militialine.png"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>民兵系升級列表</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Champion.png"
+              <gallery src="~assets/Champion.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Champion.png"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群劍兵勇士</em></p>
             </div>
           </div>

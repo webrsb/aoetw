@@ -633,21 +633,21 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Slinger.png"
+            <gallery src="~assets/Slinger.png"
               ><img class="imgn hg" src="~assets/Slinger.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群投石手</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Slingers_Attack.png"
+            <gallery src="~assets/Slingers_Attack.png"
               ><img class="imgn hg" src="~assets/Slingers_Attack.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群投石手正攻擊採礦營地</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Sling_weapon.jpg"
+            <gallery src="~assets/Sling_weapon.jpg"
               ><img class="imgn hg" src="~assets/Sling_weapon.jpg" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>真實的投石器</em></p>
           </div>
         </div>

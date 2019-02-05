@@ -584,15 +584,15 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Heavyscorpion.png"
+                <gallery src="~assets/Heavyscorpion.png"
                   ><img class="imgn hg" src="~assets/Heavyscorpion.png" alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>一群重型弩砲</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Scorpionline.png"
+                <gallery src="~assets/Scorpionline.png"
                   ><img class="imgn hg" src="~assets/Scorpionline.png" alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>弩砲與重型弩砲</em></p>
               </div>
             </div>

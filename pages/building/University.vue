@@ -331,38 +331,38 @@
               <div class="n1">
                 <div class="col-md-12">
                   <div class="col-md-4">
-                    <nuxt-link to="/img/Universityaokaoc.jpg"
+                    <gallery src="~assets/Universityaokaoc.jpg"
                       ><img
                         class="imgn hg"
                         src="~assets/Universityaokaoc.jpg"
                         alt=""
-                    /></nuxt-link>
+                    /></gallery>
                     <p><em>帝王世紀的所有學院。</em></p>
                   </div>
                   <div class="col-md-4">
-                    <nuxt-link to="/img/University.jpg"
+                    <gallery src="~assets/University.jpg"
                       ><img class="imgn hg" src="~assets/University.jpg" alt=""
-                    /></nuxt-link>
+                    /></gallery>
                     <p><em>在城堡時期的HD版學院。</em></p>
                   </div>
                   <div class="col-md-4">
-                    <nuxt-link to="/img/UniversityImperialAgeHD.jpg"
+                    <gallery src="~assets/UniversityImperialAgeHD.jpg"
                       ><img
                         class="imgn hg"
                         src="~assets/UniversityImperialAgeHD.jpg"
                         alt=""
-                    /></nuxt-link>
+                    /></gallery>
                     <p><em>在帝王時代的征服者入侵前版本的學院。</em></p>
                   </div>
                 </div>
                 <div class="col-md-12">
                   <div class="col-md-4">
-                    <nuxt-link to="/img/UniversityImperialAgeDLC.jpg"
+                    <gallery src="~assets/UniversityImperialAgeDLC.jpg"
                       ><img
                         class="imgn hg"
                         src="~assets/UniversityImperialAgeDLC.jpg"
                         alt=""
-                    /></nuxt-link>
+                    /></gallery>
                     <p><em>在帝王時代HD後版本的學院。 </em></p>
                   </div>
                 </div>

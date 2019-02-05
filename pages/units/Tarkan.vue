@@ -711,15 +711,15 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Tarkan.png"
+            <gallery src="~assets/Tarkan.png"
               ><img class="imgn hg" src="~assets/Tarkan.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群韃靼騎兵。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/A_Tarkan.png"
+            <gallery src="~assets/A_Tarkan.png"
               ><img class="imgn hg" src="~assets/A_Tarkan.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>韃靼騎兵模組。</em></p>
           </div>
         </div>

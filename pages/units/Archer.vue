@@ -744,15 +744,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Archerline.png"
+            <gallery src="~assets/Archerline.png"
               ><img class="imgn hg" src="~assets/Archerline.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>弓兵系</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Archer.png"
+            <gallery src="~assets/Archer.png"
               ><img class="imgn hg" src="~assets/Archer.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群弓兵</em></p>
           </div>
         </div>

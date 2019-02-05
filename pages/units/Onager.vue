@@ -475,15 +475,15 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Onager.png"
+                <gallery src="~assets/Onager.png"
                   ><img class="imgn hg" src="~assets/Onager.png" alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>中型投石車</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Mangonelline.png"
+                <gallery src="~assets/Mangonelline.png"
                   ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>投石車系</em></p>
               </div>
             </div>

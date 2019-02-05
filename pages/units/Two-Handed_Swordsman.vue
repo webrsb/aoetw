@@ -594,23 +594,23 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Militialine.png"
+              <gallery src="~assets/Militialine.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Militialine.png"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>民兵系升級列表</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Twohandedswordsman.png"
+              <gallery src="~assets/Twohandedswordsman.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Twohandedswordsman.png"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群雙手劍兵</em></p>
             </div>
           </div>

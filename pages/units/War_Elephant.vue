@@ -802,18 +802,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Warelephant.png"
+            <gallery src="~assets/Warelephant.png"
               ><img class="imgn hg" src="~assets/Warelephant.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群戰象</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Screenshot_2017-06-28_at_1.14.06_AM.png"
+            <gallery src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png"
               ><img
                 class="imgn hg"
                 src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一隻精銳戰象可以輕易地擊敗100個村民</em></p>
           </div>
         </div>

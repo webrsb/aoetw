@@ -911,21 +911,21 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Cannongalleon.jpg"
+              <gallery src="~assets/Cannongalleon.jpg"
                 ><img class="imgn hg" src="~assets/Cannongalleon.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群精銳火炮戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/CGHD.jpg"
+              <gallery src="~assets/CGHD.jpg"
                 ><img class="imgn hg" src="~assets/CGHD.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>各種精銳火炮戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/CGDLC.jpg"
+              <gallery src="~assets/CGDLC.jpg"
                 ><img class="imgn hg" src="~assets/CGDLC.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>各種精銳火炮戰船(HD擴充資料片)。</em></p>
             </div>
           </div>

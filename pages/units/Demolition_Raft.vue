@@ -724,21 +724,21 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Demoline.png"
+              <gallery src="~assets/Demoline.png"
                 ><img class="imgn hg" src="~assets/Demoline.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>神風船系列(自爆筏在最左邊)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Demoraft.png"
+              <gallery src="~assets/Demoraft.png"
                 ><img class="imgn hg" src="~assets/Demoraft.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群自爆筏。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/DemolitionRaft.png"
+              <gallery src="~assets/DemolitionRaft.png"
                 ><img class="imgn hg" src="~assets/DemolitionRaft.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>各種自爆筏(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
           </div>

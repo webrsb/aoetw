@@ -642,18 +642,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Skirmishers_Line.png"
+            <gallery src="~assets/Skirmishers_Line.png"
               ><img class="imgn hg" src="~assets/Skirmishers_Line.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>矛兵系</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Imperial_Skirmisher_group.jpg"
+            <gallery src="~assets/Imperial_Skirmisher_group.jpg"
               ><img
                 class="imgn hg"
                 src="~assets/Imperial_Skirmisher_group.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群帝王戰矛兵</em></p>
           </div>
         </div>

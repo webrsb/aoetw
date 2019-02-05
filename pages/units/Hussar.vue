@@ -586,9 +586,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Hussar.png"
+              <gallery src="~assets/Hussar.png"
                 ><img class="imgn hg" src="~assets/Hussar.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群匈牙利輕騎兵。</em></p>
             </div>
           </div>

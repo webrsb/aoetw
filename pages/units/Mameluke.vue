@@ -874,21 +874,21 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Saracenmamluk.png"
+            <gallery src="~assets/Saracenmamluk.png"
               ><img class="imgn hg" src="~assets/Saracenmamluk.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>奴隸兵</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Mameluke.png"
+            <gallery src="~assets/Mameluke.png"
               ><img class="imgn hg" src="~assets/Mameluke.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群奴隸兵</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Mameluke_history.jpg"
+            <gallery src="~assets/Mameluke_history.jpg"
               ><img class="imgn hg" src="~assets/Mameluke_history.jpg" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>歷史上的奴隸兵，注意他是騎著馬而非像遊戲中騎著駱駝。</em></p>
           </div>
         </div>
