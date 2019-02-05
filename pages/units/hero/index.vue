@@ -1303,7 +1303,7 @@
                       <br /><nuxt-link to="/batt/The_Digvijaya"
                         >逐鹿迪格維傑之地</nuxt-link
                       >
-                      <br /><nuxt-link to="/Battles_of_Tarain.php"
+                      <br /><nuxt-link to="/batt/Battles_of_Tarain"
                         >塔蘭村之戰</nuxt-link
                       >
                     </td>

@@ -16,7 +16,7 @@
   <p>胡安娜女王與葡萄牙的阿方索五世結婚，試圖團結卡西提爾和葡萄牙王國。</p>
 
 <p>然而，女王胡安娜的姨媽，伊莎貝拉為自己爭奪卡西提爾的王座，
-<p>她的丈夫斐迪南二世與阿拉貢國王已將他的軍隊帶入卡西提爾。</p>
+她的丈夫斐迪南二世與阿拉貢國王已將他的軍隊帶入卡西提爾。
 葡萄牙和阿拉貢的軍隊在托羅市會面，決定卡西提爾的命運。</p>
 
 </div>
@@ -50,28 +50,28 @@
     <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
   </tr>
   <tr>
-    <td class="tc6" width="15%""><div class="p2"></div>玩家2：</td>
+    <td class="tc6" width="15%"><div class="p2"></div>玩家2：</td>
     <td class="tc6" width="35%">阿方索國王大軍（紅色）葡萄牙 </td>
     <td class="tc6"><div class="p3"></div>玩家3：</td>
     <td class="tc6">托洛城（綠色）西班牙</td>    
   </tr>
    <tr>
-    <td class="tc6" width="15%""><div class="p6"></div>玩家4：</td>
+    <td class="tc6" width="15%"><div class="p6"></div>玩家4：</td>
     <td class="tc6" width="35%">胡安勢力（紫色）西班牙</td>
     <td class="tc6"><div class="p5"></div>玩家5：</td>
     <td class="tc6">西班牙村莊（水藍色）西班牙</td>    
   </tr>
   <tr>
-    <td class="tc6" width="15%""><div class="p7"></div>玩家8：</td>
+    <td class="tc6" width="15%"><div class="p7"></div>玩家8：</td>
     <td class="tc6" width="35%">伊莎貝拉勢力（灰色）西班牙 </td>  
   </tr>
   <tr>
     <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
   </tr>
   <tr>
-    <td class="tc6" width="15%""><div class="p4"></div>玩家6：</td>
+    <td class="tc6" width="15%"><div class="p4"></div>玩家6：</td>
     <td class="tc6" width="35%">阿拉貢大軍（黃色）西班牙</td>    
-    <td class="tc6" width="15%""><div class="p4"></div>玩家7：</td>
+    <td class="tc6" width="15%"><div class="p4"></div>玩家7：</td>
     <td class="tc6" width="35%">阿拉貢大軍（黃色）西班牙</td>   
   </tr>
 </table>
@@ -154,20 +154,20 @@
 
 <div class="hrn1"></div>
 <div class="n1">
-<div class="col-md-12"><img class="imgn" class="hg" src="img/The_Old_World-01.png" alt="" width=100%>
+<div class="col-md-12"><img  class="hg" src="~assets/The_Old_World-01.png" alt="" width=100% />
 <p>綠色領地的教堂旁有僧侶，可協助我方回血。<br>
 （黃色敵軍會不定時闖入打箭塔，要小心旁邊的城鎮中心不能被破壞。）</p>
 </div>
-<div class="col-md-12"><img class="imgn" class="hg" src="img/The_Old_World-02.png" alt="" width=100%>
+<div class="col-md-12"><img  class="hg" src="~assets/The_Old_World-02.png" alt="" width=100% />
 <p>阿爾巴公爵會在地圖巡邏的黃色單位之中。</p>
 </div>
-<div class="col-md-12"><img class="imgn" class="hg" src="img/The_Old_World-03.png" alt="" width=100%>
+<div class="col-md-12"><img  class="hg" src="~assets/The_Old_World-03.png" alt="" width=100% />
 <p>門多薩紅衣主教會在其中一個黃色軍營中（要留意裡面僧侶很多）。</p>
 </div>
-<div class="col-md-12"><img class="imgn" class="hg" src="img/The_Old_World-04.png" alt="" width=100%>
+<div class="col-md-12"><img  class="hg" src="~assets/The_Old_World-04.png" alt="" width=100% />
 <p>通往胡安勢力的橋尚未修復。</p>
 </div>
-<div class="col-md-12"><img class="imgn" class="hg" src="img/The_Old_World-05.png" alt="" width=100%>
+<div class="col-md-12"><img  class="hg" src="~assets/The_Old_World-05.png" alt="" width=100% />
 <p>灰色轉為敵對後，橋會修復，我方即可進城。</p>
 </div>
 </div>
@@ -180,21 +180,21 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">舊世界</a></div>
+          <div class="unititle"><nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link></div>
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><center><img src="img/The_Old_World.png" width="" alt="" ></center></div>
+       <td colspan="2" ><div class="unititle"><center><img src="~assets/The_Old_World.png" width="" alt="" /></center></div>
        </td>
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2">情景信息</div>
        </td>
       </tr>
       <tr>
         <td class="unit3">版本</td>
-       <td class="unit4">非洲王國戰役</td>
+       <td class="unit4"><nuxt-link to="/batt/ak">非洲王國</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">戰役</td>
@@ -202,10 +202,11 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="">葡萄牙人</a></td>
+        <td class="unit4"><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link></td>
       </tr>
+      <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2">戰役關卡編號</div>
        </td>
       </tr>
        <tr>
@@ -214,11 +215,11 @@
       </tr>
        <tr>
         <td class="unit3">上一關</td>
-        <td class="unit4"><a href=></a>N/A</p>
+         <td class="unit4">N/A</td>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
-        <td class="unit4"><a href=Lion_of_Africa.php>非洲雄獅</a></p>
+        <td class="unit4"><nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>
         </td>
       </tr>
       
@@ -229,6 +230,7 @@
        感謝！此頁面由小蛇、裕暉協助編輯。
      </div>
   </div>
+</div>
 </div>
 </template>
 <script>
