@@ -346,7 +346,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Fortifiedwallaokaoc.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -358,7 +358,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Fortifiedwallhd.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"

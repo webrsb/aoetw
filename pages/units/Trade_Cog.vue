@@ -752,19 +752,19 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Tradecog.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Tradecog.jpg" alt=""
             /></gallery>
             <p><em>一群貿易商旅。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/TradeCogHD.png"
+            <gallery
               ><img class="imgn hg" src="~assets/TradeCogHD.png" alt=""
             /></gallery>
             <p><em>各種貿易商旅(世紀帝國和征服者入侵資料片)。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/TradeCogDLC.png"
+            <gallery
               ><img class="imgn hg" src="~assets/TradeCogDLC.png" alt=""
             /></gallery>
             <p><em>各種貿易商旅(HD擴充資料片)。</em></p>

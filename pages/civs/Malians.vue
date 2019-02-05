@@ -105,7 +105,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/WonderMalians.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/WonderMalians.jpg" alt=""
               /></gallery>
               <p><em>馬利的世界奇觀，傑內大清真寺</em></p>

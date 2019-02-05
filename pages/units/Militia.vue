@@ -538,7 +538,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Militialine.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -548,7 +548,7 @@
               <p><em>民兵升級列表</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Militia.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"

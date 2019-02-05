@@ -746,19 +746,19 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Transportship.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Transportship.jpg" alt=""
               /></gallery>
               <p><em>一群運輸船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/TransportShipHD.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/TransportShipHD.jpg" alt=""
               /></gallery>
               <p><em>各種運輸船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/TransportShipDLC.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/TransportShipDLC.jpg" alt=""
               /></gallery>
               <p><em>各種運輸船(HD擴充資料片)。</em></p>

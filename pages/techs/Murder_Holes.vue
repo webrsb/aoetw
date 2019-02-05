@@ -91,7 +91,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/1024px-Bodiam_murder_holes.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     src="~assets/1024px-Bodiam_murder_holes.jpg"
@@ -105,7 +105,7 @@
                 </p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Machicolation_Of_Wejter_Tower.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     src="~assets/Machicolation_Of_Wejter_Tower.jpg"

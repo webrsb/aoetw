@@ -168,7 +168,7 @@
         <h3>圖庫</h3>
         <div class="col-md-4">
           <div class="wimg">
-            <gallery src="~assets/Woad.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Woad.jpg" alt=""
             /></gallery>
           </div>
@@ -177,7 +177,7 @@
         </div>
         <div class="col-md-4">
           <div class="wimg">
-            <gallery src="~assets/Wondercelts.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Wondercelts.jpg" alt=""
             /></gallery>
           </div>
@@ -186,7 +186,7 @@
         </div>
         <div class="col-md-4">
           <div class="wimg">
-            <gallery src="~assets/Celts_in_III_century_BC.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 src="~assets/Celts_in_III_century_BC.jpg"

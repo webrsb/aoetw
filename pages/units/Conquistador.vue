@@ -783,7 +783,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Conquistadorgroup.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Conquistadorgroup.png" alt=""
               /></gallery>
               <p><em>一群征服者</em></p>

@@ -105,7 +105,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Incas_town.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Incas_town.jpg" alt=""
               /></gallery>
               <p><em>官方版本的印加宣傳</em></p>

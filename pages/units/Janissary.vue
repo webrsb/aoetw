@@ -584,13 +584,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Janissary.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Janissary.png" alt=""
               /></gallery>
               <p><em>一群土耳其火槍兵</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/20060421130007janissry2.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/20060421130007janissry2.jpg"
@@ -599,7 +599,7 @@
               <p><em>一群攻擊中的土耳其火槍兵</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Jan1.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Jan1.jpg" alt=""
               /></gallery>
               <p><em>土耳其火槍兵初級軍官</em></p>

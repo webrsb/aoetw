@@ -800,7 +800,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Condottiero_Group.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="250"
@@ -810,13 +810,13 @@
             <p><em>一群傭兵</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/2.png"
+            <gallery
               ><img class="imgn hg" width="250" src="~assets/2.png" alt=""
             /></gallery>
             <p><em>一群傭兵(4.4版本後)</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Per.jpg"
+            <gallery
               ><img class="imgn hg" width="250" src="~assets/per.jpg" alt=""
             /></gallery>
             <p><em>傭兵對沒有完整升級步兵的文明非常有價值，例如:波斯。</em></p>
@@ -824,7 +824,7 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Genoese_&_Condottiero.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="250"

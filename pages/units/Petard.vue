@@ -462,7 +462,7 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Petard.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Petard.png" alt=""
             /></gallery>
             <p><em>一群爆炸桶</em></p>

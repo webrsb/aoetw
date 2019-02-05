@@ -83,7 +83,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Howdah_of_the_Golconda_Sultanate_Qutb_Shahi_dynasty.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Howdah_of_the_Golconda_Sultanate_Qutb_Shahi_dynasty.jpg"
@@ -92,7 +92,7 @@
               <p><em>沙希王朝(Qutb_Shahi_dynasty)的象轎。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg"

@@ -632,7 +632,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Tk.png"
+            <gallery
               ><img class="imgn hg" width="180" src="~assets/Tk.png" alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
@@ -640,7 +640,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Units_9.jpg"
+            <gallery
               ><img class="imgn hg" width="180" src="~assets/Units_9.jpg" alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
@@ -648,7 +648,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Teutonic_Knight_real_life.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"

@@ -667,13 +667,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/AOF36_Boyar.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/AOF36_Boyar.jpg" alt=""
               /></gallery>
               <p><em>3.6版《世紀帝國II:失落的帝國》的貴族鐵騎。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/AOE2HDTF_Boyars_Ingame.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/AOE2HDTF_Boyars_Ingame.jpg"
@@ -682,7 +682,7 @@
               <p><em>3.5版前的貴族鐵騎。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/AOF22_Boyar_Joan.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/AOF22_Boyar_Joan.jpg" alt=""
               /></gallery>
               <p>
@@ -693,7 +693,7 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Cataphract1.jpg"
+                <gallery
                   ><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""
                 /></gallery>
                 <p><em>在帝王世紀測試服的聖騎兵是用貴族鐵騎的模組。</em></p>

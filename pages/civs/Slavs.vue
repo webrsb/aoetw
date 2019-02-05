@@ -106,7 +106,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Slavs_Preview.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Slavs_Preview.jpg" alt=""
               /></gallery>
               <p><em>宣傳圖</em></p>

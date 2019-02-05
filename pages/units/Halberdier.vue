@@ -918,19 +918,19 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <gallery src="~assets/Spearline.png"
+          <gallery
             ><img class="imgn hg" src="~assets/Spearline.png" alt=""
           /></gallery>
           <p><em>長槍兵系列</em></p>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/Halberdier.png"
+          <gallery
             ><img class="imgn hg" src="~assets/Halberdier.png" alt=""
           /></gallery>
           <p><em>一群戟兵</em></p>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/162p0005r99962q1q805.jpg"
+          <gallery
             ><img class="imgn hg" src="~assets/162p0005r99962q1q805.jpg" alt=""
           /></gallery>
           <p><em>歷史上的瑞士斧槍兵。</em></p>

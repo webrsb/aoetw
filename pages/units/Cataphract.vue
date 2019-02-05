@@ -771,13 +771,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Cataphract.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Cataphract.png" alt=""
               /></gallery>
               <p><em>一群聖騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"
@@ -786,7 +786,7 @@
               <p><em>聖騎兵模組</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"

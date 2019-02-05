@@ -497,7 +497,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/2018sa.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -507,7 +507,7 @@
               <p><em>一群飛鏢騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Arambai_darts.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -517,7 +517,7 @@
               <p><em>飛鏢</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Arambai_attacking.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -528,7 +528,7 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Meitei_horsemen.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     width="250"

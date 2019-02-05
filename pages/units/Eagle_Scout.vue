@@ -665,13 +665,13 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <gallery src="~assets/Eagleline.png"
+          <gallery
             ><img class="imgn hg" src="~assets/Eagleline.png" alt=""
           /></gallery>
           <p><em>鷹勇士系列</em></p>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/Eaglescout.png"
+          <gallery
             ><img class="imgn hg" src="~assets/Eaglescout.png" alt=""
           /></gallery>
           <p><em>一群鷹斥侯</em></p>

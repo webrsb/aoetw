@@ -712,7 +712,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Berserk.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Berserk.png" alt=""
             /></gallery>
             <p><em>一群狂戰士</em></p>

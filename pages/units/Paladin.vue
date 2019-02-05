@@ -715,19 +715,19 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Knightline.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Knightline.png" alt=""
             /></gallery>
             <p><em>騎士系。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Paladin.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Paladin.png" alt=""
             /></gallery>
             <p><em>一群遊俠。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Aok_paladin.gif"
+            <gallery
               ><img class="imgn hg" src="~assets/Aok_paladin.gif" alt=""
             /></gallery>
             <p><em>遊俠模型。</em></p>

@@ -182,7 +182,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Berbers_preview.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Berbers_preview.jpg" alt=""
               /></gallery>
               <p><em>官方預覽圖</em></p>

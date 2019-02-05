@@ -331,7 +331,7 @@
               <div class="n1">
                 <div class="col-md-12">
                   <div class="col-md-4">
-                    <gallery src="~assets/Universityaokaoc.jpg"
+                    <gallery
                       ><img
                         class="imgn hg"
                         src="~assets/Universityaokaoc.jpg"
@@ -340,13 +340,13 @@
                     <p><em>帝王世紀的所有學院。</em></p>
                   </div>
                   <div class="col-md-4">
-                    <gallery src="~assets/University.jpg"
+                    <gallery
                       ><img class="imgn hg" src="~assets/University.jpg" alt=""
                     /></gallery>
                     <p><em>在城堡時期的HD版學院。</em></p>
                   </div>
                   <div class="col-md-4">
-                    <gallery src="~assets/UniversityImperialAgeHD.jpg"
+                    <gallery
                       ><img
                         class="imgn hg"
                         src="~assets/UniversityImperialAgeHD.jpg"
@@ -357,7 +357,7 @@
                 </div>
                 <div class="col-md-12">
                   <div class="col-md-4">
-                    <gallery src="~assets/UniversityImperialAgeDLC.jpg"
+                    <gallery
                       ><img
                         class="imgn hg"
                         src="~assets/UniversityImperialAgeDLC.jpg"

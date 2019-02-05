@@ -772,13 +772,13 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Knightline.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Knightline.png" alt=""
             /></gallery>
             <p><em>騎士系。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Cavalier.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Cavalier.png" alt=""
             /></gallery>
             <p><em>一群騎兵。</em></p>

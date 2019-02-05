@@ -885,7 +885,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <gallery src="~assets/Vesselcivilian.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="180"
@@ -897,7 +897,7 @@
               </div>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Vesselmilitary.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="200"
@@ -909,7 +909,7 @@
               </div>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Vesselunique.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="200"
@@ -923,7 +923,7 @@
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Sailsaokaoc.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="200"
@@ -939,7 +939,7 @@
               </div>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Sailshd.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="200"

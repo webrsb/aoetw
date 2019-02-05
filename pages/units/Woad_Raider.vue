@@ -580,7 +580,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Woadraider.png"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -592,7 +592,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Elite_Woad_Raider.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -604,7 +604,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Woad.jpg"
+            <gallery
               ><img class="imgn hg" width="200" src="~assets/Woad.jpg" alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:185px">
@@ -613,7 +613,7 @@
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Woadraiders.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="180"
@@ -625,7 +625,7 @@
               </div>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Pictish_Warrior.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="200"

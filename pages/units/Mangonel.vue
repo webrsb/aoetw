@@ -468,19 +468,19 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Mangonel.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Mangonel.png" alt=""
                 /></gallery>
                 <p><em>輕型投石車</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Mangonelline.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
                 /></gallery>
                 <p><em>投石車系</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Mangonneau.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Mangonneau.png" alt=""
                 /></gallery>
                 <p><em>畫家素描下現實世界的投石車</em></p>

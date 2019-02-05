@@ -882,7 +882,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Castle_besieged.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Castle_besieged.jpg" alt=""
             /></gallery>
             <p>
@@ -892,7 +892,7 @@
             </p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Aoe2_-_war_wagon_group.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 src="~assets/Aoe2_-_war_wagon_group.jpg"
@@ -901,7 +901,7 @@
             <p><em>一群馬戰車</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/E_korea1.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/E_korea1.jpg" alt=""
             /></gallery>
             <p><em>馬戰車模組。</em></p>

@@ -736,13 +736,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Skirmishers_Line.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Skirmishers_Line.png" alt=""
             /></gallery>
             <p><em>矛兵系</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Eliteskirmisher.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Eliteskirmisher.png" alt=""
             /></gallery>
             <p><em>一群戰矛兵</em></p>

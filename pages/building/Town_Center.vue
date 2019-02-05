@@ -428,7 +428,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/TCDarkAge.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -438,7 +438,7 @@
               <p><em>黑暗時代的城鎮中心。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/TCFeudalAgeHD.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -448,7 +448,7 @@
               <p><em>所有封建時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/TCFeudalAgeDLC.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -460,7 +460,7 @@
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Towncenteraokaoc.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -470,7 +470,7 @@
               <p><em>所有城堡時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Towncenteraoe2expansions.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -480,7 +480,7 @@
               <p><em>所有城堡時代的城鎮中心(HD 擴充版)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/TCImperialAgeHD.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -490,7 +490,7 @@
               <p><em>所有帝王時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/TCImperialAgeDLC.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"

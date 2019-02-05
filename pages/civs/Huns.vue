@@ -143,7 +143,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Wonderhuns.jpg"
+                <gallery
                   ><img class="imgn hg" src="~assets/Wonderhuns.jpg" alt=""
                 /></gallery>
                 <p><em>匈奴的世界奇觀</em></p>

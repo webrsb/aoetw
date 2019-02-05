@@ -900,26 +900,26 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Galleyline.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Galleyline.png" alt=""
               /></gallery>
               <p><em>戰船系列(戰船在中間)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/WarGalley.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/WarGalley.jpg" alt=""
               /></gallery>
               <p><em>一群弩炮戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/WarGalleyHD.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/WarGalleyHD.jpg" alt=""
               /></gallery>
               <p><em>各種弩炮戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/WarGalleyDLC.jpg"
+                <gallery
                   ><img class="imgn hg" src="~assets/WarGalleyDLC.jpg" alt=""
                 /></gallery>
                 <p><em>各種弩炮戰船(HD擴充資料片)。</em></p>

@@ -628,7 +628,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Samurai_2014-12-03_00001.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -640,7 +640,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Samurai_Beta.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"

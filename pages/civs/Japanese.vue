@@ -325,7 +325,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Wonderjapanese.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Wonderjapanese.jpg" alt=""
               /></gallery>
               <p><em>日本的世界奇觀，東大寺。</em></p>

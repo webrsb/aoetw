@@ -145,7 +145,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/White_Castle,_arrow_slit.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/White_Castle,_arrow_slit.jpg"
@@ -161,7 +161,7 @@
               </p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Arrow_slat_corfe_castle.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Arrow_slat_corfe_castle.jpg"

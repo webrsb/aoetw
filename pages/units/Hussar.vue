@@ -586,7 +586,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Hussar.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Hussar.png" alt=""
               /></gallery>
               <p><em>一群匈牙利輕騎兵。</em></p>

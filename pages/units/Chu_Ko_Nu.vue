@@ -678,7 +678,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Chukonu.png"
+            <gallery
               ><img class="imgn hg" width="180" src="~assets/Chukonu.png" alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
@@ -686,7 +686,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/7081407_2_l.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -698,7 +698,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Chinese_age11.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"

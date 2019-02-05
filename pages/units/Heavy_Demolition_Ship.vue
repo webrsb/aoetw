@@ -777,26 +777,26 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Demoline.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Demoline.png" alt=""
               /></gallery>
               <p><em>神風船系列(重型神風船在右邊)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Heavydemo.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Heavydemo.jpg" alt=""
               /></gallery>
               <p><em>一群重型神風船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/HDemolitionShipHD.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/HDemolitionShipHD.png" alt=""
               /></gallery>
               <p><em>各種重型神風船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/HDemolitionShipDLC.png"
+                <gallery
                   ><img
                     class="imgn hg"
                     src="~assets/HDemolitionShipDLC.png"

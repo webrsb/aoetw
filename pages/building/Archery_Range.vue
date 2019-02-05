@@ -518,7 +518,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/ARFeudalAgeDLC.jpg">
+            <gallery>
               <img
                 class="imgn hg"
                 width="200"
@@ -533,7 +533,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/ARFeudalAgeHD.jpg">
+            <gallery>
               <img
                 class="imgn hg"
                 width="200"
@@ -546,7 +546,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Archeryrangeaokaoc.jpg">
+            <gallery>
               <img
                 class="imgn hg"
                 width="200"
@@ -561,7 +561,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Archery_ranges_hd.jpg">
+            <gallery>
               <img
                 class="imgn hg"
                 width="200"
@@ -574,7 +574,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Spritesheet_archery_range.png">
+            <gallery>
               <img
                 class="imgn hg"
                 width="200"

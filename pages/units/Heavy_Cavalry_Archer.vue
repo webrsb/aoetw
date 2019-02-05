@@ -993,13 +993,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Cavarcherline.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Cavarcherline.png" alt=""
             /></gallery>
             <p><em>馬弓騎兵系</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Heavycavalryarcher.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Heavycavalryarcher.png" alt=""
             /></gallery>
             <p><em>一群重裝馬弓騎兵</em></p>

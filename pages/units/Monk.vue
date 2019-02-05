@@ -459,7 +459,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/monks1.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -476,7 +476,7 @@
               </p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/monks2.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -486,7 +486,7 @@
               <p><em>一般的僧侶。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/monks3.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"

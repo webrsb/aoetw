@@ -107,7 +107,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Maygars_preview.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Maygars_preview.jpg" alt=""
               /></gallery>
               <p><em>官方釋出的馬扎爾文明</em></p>

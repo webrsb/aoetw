@@ -789,7 +789,7 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <gallery src="~assets/Castleaokaoc.png"
+          <gallery
             ><img
               class="imgn hg"
               width="180"
@@ -801,7 +801,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/Castlehd.png"
+          <gallery
             ><img class="imgn hg" width="200" src="~assets/Castlehd.jpg" alt=""
           /></gallery>
           <div class="lightbox-caption" style="width:220px">
@@ -809,7 +809,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/Spritesheet_castle.png"
+          <gallery
             ><img
               class="imgn hg"
               width="200"

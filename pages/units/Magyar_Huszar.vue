@@ -711,7 +711,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/AoF_Magyar_Huszar_All_Angles.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     src="~assets/AoF_Magyar_Huszar_All_Angles.jpg"
@@ -720,13 +720,13 @@
                 <p><em>一群馬札爾驃騎兵。</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/A.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/A.png" alt=""
                 /></gallery>
                 <p><em>4.4版的馬札爾驃騎兵。</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Maygar_Huszar_Old.png"
+                <gallery
                   ><img
                     class="imgn hg"
                     src="~assets/Maygar_Huszar_Old.png"
@@ -736,7 +736,7 @@
               </div>
               <div class="col-md-12">
                 <div class="col-md-4">
-                  <gallery src="~assets/Magyar_Huszar_Concept_Art.jpg"
+                  <gallery
                     ><img
                       class="imgn hg"
                       src="~assets/Magyar_Huszar_Concept_Art.jpg"

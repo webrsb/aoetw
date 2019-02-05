@@ -115,7 +115,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Wonderaztecs.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Wonderaztecs.jpg" alt=""
               /></gallery>
               <p><em>大神殿</em></p>
@@ -172,7 +172,8 @@
                 >擲矛器</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link to="~assets/techs/Garland_Wars"
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="~assets/techs/Garland_Wars"
                 >榮冠戰爭</nuxt-link
               >
             </td>

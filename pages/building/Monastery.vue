@@ -357,7 +357,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
-                <gallery src="~assets/Monasteryaokaoc.png"
+                <gallery
                   ><img
                     class="imgn hg"
                     width="200"
@@ -369,7 +369,7 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <gallery src="~assets/Monasteries.png"
+                <gallery
                   ><img
                     class="imgn hg"
                     width="200"
@@ -383,7 +383,7 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-6">
-                <gallery src="~assets/Mud_mosque.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     width="200"
@@ -395,7 +395,7 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <gallery src="~assets/Konark_sun_temple.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     width="200"
@@ -414,7 +414,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="/building/Monastery">修道院</nuxt-link></div>
+              <div class="unititle">
+                <nuxt-link to="/building/Monastery">修道院</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>

@@ -111,7 +111,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Wonderkhmer.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Wonderkhmer.jpg" alt=""
               /></gallery>
               <p><em>高棉世界奇觀，吳哥窟</em></p>

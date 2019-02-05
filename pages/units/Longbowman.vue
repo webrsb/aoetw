@@ -638,19 +638,19 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Longbowman.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Longbowman.png" alt=""
               /></gallery>
               <p><em>一群長弓兵</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Longbowman_range.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Longbowman_range.jpg" alt=""
               /></gallery>
               <p><em>與其他兵種的最大射程比較</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Longbowman_real_life.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Longbowman_real_life.jpg"

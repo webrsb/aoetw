@@ -739,7 +739,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Keepaokaoc.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -751,7 +751,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Keephd.jpg"
+            <gallery
               ><img class="imgn hg" width="200" src="~assets/Keephd.jpg" alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
@@ -759,7 +759,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Wooden_keep.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"

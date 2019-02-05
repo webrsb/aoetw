@@ -123,7 +123,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/MidEastern.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/MidEastern.jpg" alt=""
               /></gallery>
               <p><em>薩拉森建築</em></p>

@@ -775,7 +775,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Guardtoweraokaoc.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -787,7 +787,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Guardtowerhd.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"

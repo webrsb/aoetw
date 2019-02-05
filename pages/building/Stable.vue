@@ -529,7 +529,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/StableFeudalAgeHD.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -541,7 +541,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/StableFeudalAgeDLC.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -553,7 +553,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Stableaok.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -567,7 +567,7 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Stablehd.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -579,7 +579,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Spritesheet_stable.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"

@@ -584,13 +584,13 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Heavyscorpion.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Heavyscorpion.png" alt=""
                 /></gallery>
                 <p><em>一群重型弩砲</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Scorpionline.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Scorpionline.png" alt=""
                 /></gallery>
                 <p><em>弩砲與重型弩砲</em></p>

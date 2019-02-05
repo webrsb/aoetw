@@ -810,13 +810,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Longboat.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Longboat.png" alt=""
               /></gallery>
               <p><em>一群維京大戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/915016_20030824_screen013.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/915016_20030824_screen013.jpg"
@@ -825,14 +825,14 @@
               <p><em>維京大戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Vikings_Longboat.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Vikings_Longboat.jpg" alt=""
               /></gallery>
               <p><em>維京大戰船的畫。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/The_long_boat_Wallpaper_rrpb2.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     src="~assets/The_long_boat_Wallpaper_rrpb2.jpg"

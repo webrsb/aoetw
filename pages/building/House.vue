@@ -253,7 +253,7 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="col-md-4">
-          <gallery src="~assets/HouseDarkAge.jpg"
+          <gallery
             ><img
               class="imgn hg"
               width="180"
@@ -265,7 +265,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/HouseFedualAgeHD.jpg"
+          <gallery
             ><img
               class="imgn hg"
               width="200"
@@ -277,7 +277,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/HouseFeudalAgeDLC.jpg"
+          <gallery
             ><img
               class="imgn hg"
               width="200"
@@ -289,7 +289,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/Houseaokaoc.jpg"
+          <gallery
             ><img
               class="imgn hg"
               width="200"
@@ -301,7 +301,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/Househd.jpg"
+          <gallery
             ><img class="imgn hg" width="200" src="~assets/Househd.jpg" alt=""
           /></gallery>
           <div class="lightbox-caption" style="width:220px">
@@ -309,7 +309,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <gallery src="~assets/Spritesheet_house.jpg"
+          <gallery
             ><img
               class="imgn hg"
               width="200"

@@ -747,26 +747,26 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Turtleshipgroup.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Turtleshipgroup.jpg" alt=""
               /></gallery>
               <p><em>一群龜甲船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Turtle_ship.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Turtle_ship.jpg" alt=""
               /></gallery>
               <p><em>最初的龜甲船(1.0c版本之前)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Turtleship.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Turtleship.png" alt=""
               /></gallery>
               <p><em>龜甲船美術圖。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Turtle_Ship_paint.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     src="~assets/Turtle_Ship_paint.jpg"

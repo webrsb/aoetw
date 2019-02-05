@@ -954,7 +954,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Ballista_Elephant_group.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 src="~assets/Ballista_Elephant_group.jpg"
@@ -963,7 +963,7 @@
             <p><em>一群弩炮象。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Ballista_destroying_trees.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 src="~assets/Ballista_destroying_trees.jpg"
@@ -972,14 +972,14 @@
             <p><em>弩炮象的攻擊可以砸倒樹木。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Balistaelehealed.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Balistaelehealed.jpg" alt=""
             /></gallery>
             <p><em>弩炮象雖然屬於攻城單位，但可以被僧侶治療。</em></p>
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Khmer-vietnamese_battle.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Khmer-vietnamese_battle.jpg"

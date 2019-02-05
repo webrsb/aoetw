@@ -113,7 +113,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Wondermongols.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Wondermongols.jpg" alt=""
               /></gallery>
               <p><em>成吉思汗的大帳棚</em></p>

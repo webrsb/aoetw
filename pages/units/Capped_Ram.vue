@@ -450,19 +450,19 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Splashdamageram.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Splashdamageram.jpg" alt=""
               /></gallery>
               <p><em>各類型衝撞車與其傷害。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Cappedram.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Cappedram.png" alt=""
               /></gallery>
               <p><em>一群裝甲衝撞車。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Ramline.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Ramline.png" alt=""
               /></gallery>
               <p><em>衝撞車系。</em></p>

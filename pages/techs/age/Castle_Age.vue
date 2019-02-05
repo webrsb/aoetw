@@ -893,7 +893,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Civcastle.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Civcastle.jpg" alt=""
               /></gallery>
               <p><em>文明在城堡時代的樣子。</em></p>

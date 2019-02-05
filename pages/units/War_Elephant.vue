@@ -802,13 +802,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Warelephant.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Warelephant.png" alt=""
             /></gallery>
             <p><em>一群戰象</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png"
+            <gallery
               ><img
                 class="imgn hg"
                 src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png"

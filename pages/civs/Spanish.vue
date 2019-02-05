@@ -132,7 +132,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Wonderspanish.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Wonderspanish.jpg" alt=""
               /></gallery>
               <p><em>黃金塔</em></p>

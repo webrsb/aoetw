@@ -835,26 +835,26 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Fireline.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Fireline.png" alt=""
               /></gallery>
               <p><em>火戰船系列(快速火戰船在右邊)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Fastfireship.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Fastfireship.jpg" alt=""
               /></gallery>
               <p><em>一群快速火戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/FFireShipHD.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/FFireShipHD.jpg" alt=""
               /></gallery>
               <p><em>各種快速火戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/FFireShipDLC.jpg"
+                <gallery
                   ><img class="imgn hg" src="~assets/FFireShipDLC.jpg" alt=""
                 /></gallery>
                 <p><em>各種快速火戰船(HD擴充資料片)。</em></p>

@@ -690,7 +690,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Watchtoweraokaoc.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -702,7 +702,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Watchtowerhd.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -714,7 +714,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Spritesheet_towers.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"

@@ -559,7 +559,7 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Bombardcannon.png"
+                <gallery
                   ><img
                     class="imgn hg"
                     width="250"

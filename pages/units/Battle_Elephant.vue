@@ -815,7 +815,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Battle_Elephant_and_Elite.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Battle_Elephant_and_Elite.jpg"
@@ -824,7 +824,7 @@
               <p><em>矛象伕和精銳矛象伕。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Battle_Elephant_group.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Battle_Elephant_group.jpg"

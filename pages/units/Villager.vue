@@ -948,13 +948,13 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Villagerfemale.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Villagerfemale.png" alt=""
                 /></gallery>
                 <p><em>女村民</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Villagermale.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Villagermale.png" alt=""
                 /></gallery>
                 <p><em>男村民</em></p>

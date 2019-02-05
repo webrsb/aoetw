@@ -626,19 +626,19 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Jaguarwarrior.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Jaguarwarrior.png" alt=""
             /></gallery>
             <p><em>一群豹勇士</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Url.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Url.jpg" alt=""
             /></gallery>
             <p><em>豹勇士3D圖</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Jaguar_Warrior.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Jaguar_Warrior.jpg" alt=""
             /></gallery>
             <p><em>豹勇士</em></p>

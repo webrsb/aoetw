@@ -618,7 +618,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o8_500.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o8_500.png"
@@ -627,7 +627,7 @@
               <p><em>一群手風琴炮。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/6.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/6.jpg" alt=""
               /></gallery>
               <p><em>手風琴炮正防禦著敵人的突襲。</em></p>

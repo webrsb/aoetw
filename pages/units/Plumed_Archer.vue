@@ -648,7 +648,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Plumedarcher.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Plumedarcher.png" alt=""
               /></gallery>
               <p><em>一群羽毛箭射手</em></p>

@@ -651,7 +651,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/DockDarkAge.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -663,7 +663,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/DockFeudalAgeHD.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -675,7 +675,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/DockFeudalAgeDLC.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -689,7 +689,7 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Dockaokaoc.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -701,7 +701,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Dockexpansions.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -713,7 +713,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Spritesheet_dock.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"

@@ -637,13 +637,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Handcannoneer.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Handcannoneer.png" alt=""
             /></gallery>
             <p><em>一群火槍兵</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Hand_Cannon.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Hand_Cannon.png" alt=""
             /></gallery>
             <p><em>元朝遺留下的火炮</em></p>

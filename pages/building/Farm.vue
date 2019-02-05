@@ -423,13 +423,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Farms.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Farms.jpg" alt=""
               /></gallery>
               <p><em>農田越整齊離磨坊越近效率越高。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Ricefarm.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Ricefarm.jpg" alt=""
               /></gallery>
               <p><em>當農田蓋在紅樹林上時，會自動變成水田。</em></p>

@@ -507,7 +507,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/MillDarkAge.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -519,7 +519,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/MillFeudalAgeHD.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -531,7 +531,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/MillFeudalAgeDLC.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -545,7 +545,7 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Millaokaoc.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -557,7 +557,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Mills_hd.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -569,7 +569,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Nashtifan_windmills.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"

@@ -633,13 +633,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Kamayuk.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Kamayuk.png" alt=""
             /></gallery>
             <p><em>一群槍隊長</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Kamayuk_attack_paladin.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 src="~assets/Kamayuk_attack_paladin.jpg"
@@ -648,7 +648,7 @@
             <p><em>槍隊長1的攻擊距離可以從夥伴背後攻擊敵人。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Kamayuk_&_Slinger.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Kamayuk_&_Slinger.jpg" alt=""
             /></gallery>
             <p><em>印加的特殊單位:槍隊長和投石手。</em></p>

@@ -674,7 +674,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Genoesecrossbowman.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Genoesecrossbowman.png"
@@ -683,7 +683,7 @@
               <p><em>一群熱那亞弩手。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Genoese_Crossbowmen.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Genoese_Crossbowmen.jpg"
@@ -696,7 +696,7 @@
               </p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Genoese.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Genoese.png" alt=""
               /></gallery>
               <p><em>Mod版(左)和零售版(右)的熱那亞弩手。</em></p>
@@ -704,7 +704,7 @@
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Genoese_Crossbowman_real_life.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Genoese_Crossbowman_real_life.jpg"
@@ -719,7 +719,7 @@
               </p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Genoese_&_Condottiero (1).jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Genoese_&_Condottiero (1).jpg"

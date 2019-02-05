@@ -280,7 +280,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/DarkAge.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/DarkAge.jpg" alt=""
               /></gallery>
               <p><em>每個文明在黑暗時代的樣子。</em></p>

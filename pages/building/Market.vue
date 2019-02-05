@@ -426,7 +426,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/MarketFeudalAgeHD.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="180"
@@ -438,7 +438,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/MarketFeudalAgeDLC.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -450,7 +450,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Marketaokaoc.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -464,7 +464,7 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Market.jpg"
+            <gallery
               ><img class="imgn hg" width="200" src="~assets/Market.jpg" alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
@@ -472,7 +472,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/MarketImperialAgeHD.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -484,7 +484,7 @@
             </div>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/MarketImperialAgeDLC.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"
@@ -498,7 +498,7 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Spritesheet_market.jpg"
+            <gallery
               ><img
                 class="imgn hg"
                 width="200"

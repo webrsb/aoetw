@@ -786,13 +786,13 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <gallery src="~assets/Camelline.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Camelline.png" alt=""
             /></gallery>
             <p><em>駱駝系。</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Camel.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Camel.png" alt=""
             /></gallery>
             <p><em>一群駱駝騎兵。</em></p>

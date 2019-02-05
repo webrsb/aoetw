@@ -660,13 +660,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Missionary.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Missionary.png" alt=""
               /></gallery>
               <p><em>一群傳教士</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Missionary1.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Missionary1.jpg" alt=""
               /></gallery>
               <p><em>傳教士美術畫</em></p>

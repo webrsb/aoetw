@@ -633,19 +633,19 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <gallery src="~assets/Slinger.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Slinger.png" alt=""
             /></gallery>
             <p><em>一群投石手</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Slingers_Attack.png"
+            <gallery
               ><img class="imgn hg" src="~assets/Slingers_Attack.png" alt=""
             /></gallery>
             <p><em>一群投石手正攻擊採礦營地</em></p>
           </div>
           <div class="col-md-4">
-            <gallery src="~assets/Sling_weapon.jpg"
+            <gallery
               ><img class="imgn hg" src="~assets/Sling_weapon.jpg" alt=""
             /></gallery>
             <p><em>真實的投石器</em></p>

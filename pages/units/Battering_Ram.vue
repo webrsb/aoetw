@@ -448,19 +448,19 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Bram1.jpg"
+                <gallery
                   ><img class="imgn hg" src="~assets/Bram1.jpg" alt=""
                 /></gallery>
                 <p><em>衝撞車模型。</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Batteringram.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Batteringram.png" alt=""
                 /></gallery>
                 <p><em>一群輕型衝撞車。</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Ramline.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/Ramline.png" alt=""
                 /></gallery>
                 <p><em>衝撞車系。</em></p>
@@ -468,13 +468,13 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Splashdamageram.jpg"
+                <gallery
                   ><img class="imgn hg" src="~assets/Splashdamageram.jpg" alt=""
                 /></gallery>
                 <p><em>各類型衝撞車與其傷害。</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/Batteringramgarrison.png"
+                <gallery
                   ><img
                     class="imgn hg"
                     src="~assets/Batteringramgarrison.png"

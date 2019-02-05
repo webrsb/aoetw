@@ -629,7 +629,7 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -639,7 +639,7 @@
               <p><em>一群駱駝弓騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Aoe2_CamelArcher_Preview.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -649,7 +649,7 @@
               <p><em>以前的駱駝弓騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/AOE2_CamelArcher_WIP-1024x787.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   width="250"
@@ -660,7 +660,7 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/Camel_archery.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     width="250"
@@ -670,7 +670,7 @@
                 <p><em>一張畫著獵人騎在駱駝背上彎弓打獵的畫。</em></p>
               </div>
               <div class="col-md-4">
-                <gallery src="~assets/1518454054853.jpg"
+                <gallery
                   ><img
                     class="imgn hg"
                     width="250"

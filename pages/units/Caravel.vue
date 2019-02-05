@@ -771,13 +771,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Caravel.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Caravel.jpg" alt=""
               /></gallery>
               <p><em>一群卡拉維爾戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Caravel_vs_Longboats.jpg"
+              <gallery
                 ><img
                   class="imgn hg"
                   src="~assets/Caravel_vs_Longboats.jpg"
@@ -786,7 +786,7 @@
               <p><em>卡拉維爾戰船對維京大戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Caravel_history.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Caravel_history.jpg" alt=""
               /></gallery>
               <p><em>卡拉維爾戰船美術圖。</em></p>

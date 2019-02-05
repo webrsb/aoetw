@@ -826,26 +826,26 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <gallery src="~assets/Fireline.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/Fireline.png" alt=""
               /></gallery>
               <p><em>火戰船系列(火戰船在中間)。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/Fireship.jpg"
+              <gallery
                 ><img class="imgn hg" src="~assets/Fireship.jpg" alt=""
               /></gallery>
               <p><em>一群火戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <gallery src="~assets/FireShipHD.png"
+              <gallery
                 ><img class="imgn hg" src="~assets/FireShipHD.png" alt=""
               /></gallery>
               <p><em>各種火戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery src="~assets/FireShipHD.png"
+                <gallery
                   ><img class="imgn hg" src="~assets/FireShipHD.png" alt=""
                 /></gallery>
                 <p><em>各種火戰船(HD擴充資料片)。</em></p>
