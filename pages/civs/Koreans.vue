@@ -126,9 +126,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/EastAsian.jpg"
+              <a target="_blank" href="/img/EastAsian.jpg"
                 ><img class="imgn hg" src="~assets/EastAsian.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>東亞建築</em></p>
             </div>
           </div>

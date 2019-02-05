@@ -338,25 +338,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/OutpostlosDarkAge.jpg"
+            <a target="_blank" href="/img/OutpostlosDarkAge.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Outpostlosdarkage.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>黑暗時代哨站的視野範圍。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Outpostlosfu.jpg"
+            <a target="_blank" href="/img/Outpostlosfu.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Outpostlosfu.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em

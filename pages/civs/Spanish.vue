@@ -132,9 +132,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wonderspanish.jpg"
+              <a target="_blank" href="/img/Wonderspanish.jpg"
                 ><img class="imgn hg" src="~assets/Wonderspanish.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>黃金塔</em></p>
             </div>
           </div>

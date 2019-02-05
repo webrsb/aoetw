@@ -448,38 +448,38 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Bram1.jpg"
+                <a target="_blank" href="/img/Bram1.jpg"
                   ><img class="imgn hg" src="~assets/Bram1.jpg" alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>衝撞車模型。</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Batteringram.png"
+                <a target="_blank" href="/img/Batteringram.png"
                   ><img class="imgn hg" src="~assets/Batteringram.png" alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>一群輕型衝撞車。</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Ramline.png"
+                <a target="_blank" href="/img/Ramline.png"
                   ><img class="imgn hg" src="~assets/Ramline.png" alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>衝撞車系。</em></p>
               </div>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Splashdamageram.jpg"
+                <a target="_blank" href="/img/Splashdamageram.jpg"
                   ><img class="imgn hg" src="~assets/Splashdamageram.jpg" alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>各類型衝撞車與其傷害。</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Batteringramgarrison.png"
+                <a target="_blank" href="/img/Batteringramgarrison.png"
                   ><img
                     class="imgn hg"
                     src="~assets/Batteringramgarrison.png"
                     alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>有單位駐紮的衝撞車。</em></p>
               </div>
             </div>

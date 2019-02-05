@@ -619,18 +619,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Tumblr_nxo1o0aN0R1tnh0y7o9_400.png"
+            <a target="_blank" href="/img/Tumblr_nxo1o0aN0R1tnh0y7o9_400.png"
               ><img
                 class="imgn hg"
                 src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o9_400.png"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>一群彎刀勇士</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Pop.jpg"
+            <a target="_blank" href="/img/Pop.jpg"
               ><img class="imgn hg" src="~assets/Pop.jpg" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>彎刀勇士正攻擊敵人的城鎮</em></p>
           </div>
         </div>

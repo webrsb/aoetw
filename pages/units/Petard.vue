@@ -462,9 +462,9 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Petard.png"
+            <a target="_blank" href="/img/Petard.png"
               ><img class="imgn hg" src="~assets/Petard.png" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>一群爆炸桶</em></p>
           </div>
         </div>

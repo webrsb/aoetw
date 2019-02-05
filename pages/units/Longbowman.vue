@@ -638,24 +638,24 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Longbowman.png"
+              <a target="_blank" href="/img/Longbowman.png"
                 ><img class="imgn hg" src="~assets/Longbowman.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群長弓兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Longbowman_range.jpg"
+              <a target="_blank" href="/img/Longbowman_range.jpg"
                 ><img class="imgn hg" src="~assets/Longbowman_range.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>與其他兵種的最大射程比較</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Longbowman_real_life.jpg"
+              <a target="_blank" href="/img/Longbowman_real_life.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Longbowman_real_life.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>現實的長弓兵，請注意他的箭袋在腰間</em></p>
             </div>
           </div>

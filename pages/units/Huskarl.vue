@@ -670,9 +670,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Huskarl.png"
+            <a target="_blank" href="/img/Huskarl.png"
               ><img class="imgn hg" width="180" src="~assets/Huskarl.png" alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>一群哥德衛隊。</em></p>
             </div>

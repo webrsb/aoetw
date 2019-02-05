@@ -648,9 +648,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Plumedarcher.png"
+              <a target="_blank" href="/img/Plumedarcher.png"
                 ><img class="imgn hg" src="~assets/Plumedarcher.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群羽毛箭射手</em></p>
             </div>
           </div>

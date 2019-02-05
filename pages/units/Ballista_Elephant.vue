@@ -954,37 +954,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Ballista_Elephant_group.jpg"
+            <a target="_blank" href="/img/Ballista_Elephant_group.jpg"
               ><img
                 class="imgn hg"
                 src="~assets/Ballista_Elephant_group.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>一群弩炮象。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Ballista_destroying_trees.jpg"
+            <a target="_blank" href="/img/Ballista_destroying_trees.jpg"
               ><img
                 class="imgn hg"
                 src="~assets/Ballista_destroying_trees.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>弩炮象的攻擊可以砸倒樹木。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Balistaelehealed.jpg"
+            <a target="_blank" href="/img/Balistaelehealed.jpg"
               ><img class="imgn hg" src="~assets/Balistaelehealed.jpg" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>弩炮象雖然屬於攻城單位，但可以被僧侶治療。</em></p>
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Khmer-vietnamese_battle.jpg"
+              <a target="_blank" href="/img/Khmer-vietnamese_battle.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Khmer-vietnamese_battle.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p>
                 <em
                   >弩炮象正防止高棉人的基地被<nuxt-link

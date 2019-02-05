@@ -584,24 +584,24 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Janissary.png"
+              <a target="_blank" href="/img/Janissary.png"
                 ><img class="imgn hg" src="~assets/Janissary.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群土耳其火槍兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/20060421130007janissry2.jpg"
+              <a target="_blank" href="/img/20060421130007janissry2.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/20060421130007janissry2.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群攻擊中的土耳其火槍兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Jan1.jpg"
+              <a target="_blank" href="/img/Jan1.jpg"
                 ><img class="imgn hg" src="~assets/Jan1.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>土耳其火槍兵初級軍官</em></p>
             </div>
           </div>

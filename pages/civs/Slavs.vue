@@ -106,9 +106,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Slavs_Preview.jpg"
+              <a target="_blank" href="/img/Slavs_Preview.jpg"
                 ><img class="imgn hg" src="~assets/Slavs_Preview.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>宣傳圖</em></p>
             </div>
           </div>

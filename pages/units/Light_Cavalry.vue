@@ -834,15 +834,15 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Scoutcavalryline.png"
+              <a target="_blank" href="/img/Scoutcavalryline.png"
                 ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>斥侯系。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Lightcavalry.png"
+              <a target="_blank" href="/img/Lightcavalry.png"
                 ><img class="imgn hg" src="~assets/Lightcavalry.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群輕騎兵。</em></p>
             </div>
           </div>

@@ -870,28 +870,28 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Galleyline.png"
+              <a target="_blank" href="/img/Galleyline.png"
                 ><img class="imgn hg" src="~assets/Galleyline.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>戰船系列(戰船在最左邊的)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Galleyaoeii.png"
+              <a target="_blank" href="/img/Galleyaoeii.png"
                 ><img class="imgn hg" src="~assets/Galleyaoeii.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/GalleyHD.png"
+              <a target="_blank" href="/img/GalleyHD.png"
                 ><img class="imgn hg" src="~assets/GalleyHD.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>各種戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/GalleyDLC.png"
+                <a target="_blank" href="/img/GalleyDLC.png"
                   ><img class="imgn hg" src="~assets/GalleyDLC.png" alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>各種戰船(HD擴充資料片)。</em></p>
               </div>
             </div>

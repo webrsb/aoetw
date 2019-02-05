@@ -674,21 +674,21 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Genoesecrossbowman.png"
+              <a target="_blank" href="/img/Genoesecrossbowman.png"
                 ><img
                   class="imgn hg"
                   src="~assets/Genoesecrossbowman.png"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群熱那亞弩手。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Genoese_Crossbowmen.jpg"
+              <a target="_blank" href="/img/Genoese_Crossbowmen.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Genoese_Crossbowmen.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p>
                 <em
                   >一群戰鬥中的熱那亞弩手，請注意他們移動時背上會背著巨盾。</em
@@ -696,20 +696,20 @@
               </p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Genoese.png"
+              <a target="_blank" href="/img/Genoese.png"
                 ><img class="imgn hg" src="~assets/Genoese.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>Mod版(左)和零售版(右)的熱那亞弩手。</em></p>
             </div>
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Genoese_Crossbowman_real_life.jpg"
+              <a target="_blank" href="/img/Genoese_Crossbowman_real_life.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Genoese_Crossbowman_real_life.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p>
                 <em
                   >真實世界的熱那亞弩手(左邊的是<nuxt-link to="/techs/Pavise"
@@ -719,12 +719,12 @@
               </p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Genoese_&_Condottiero (1).jpg"
+              <a target="_blank" href="/img/Genoese_&_Condottiero (1).jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Genoese_&_Condottiero (1).jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>義大利的特殊單位:傭兵(左)和熱那亞弩手(右)。</em></p>
             </div>
           </div>

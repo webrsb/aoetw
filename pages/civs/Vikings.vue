@@ -130,9 +130,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wondervikings.jpg"
+              <a target="_blank" href="/img/Wondervikings.jpg"
                 ><img class="imgn hg" src="~assets/Wondervikings.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>維京的世界奇觀</em></p>
             </div>
           </div>

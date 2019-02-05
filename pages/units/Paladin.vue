@@ -715,21 +715,21 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Knightline.png"
+            <a target="_blank" href="/img/Knightline.png"
               ><img class="imgn hg" src="~assets/Knightline.png" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>騎士系。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Paladin.png"
+            <a target="_blank" href="/img/Paladin.png"
               ><img class="imgn hg" src="~assets/Paladin.png" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>一群遊俠。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Aok_paladin.gif"
+            <a target="_blank" href="/img/Aok_paladin.gif"
               ><img class="imgn hg" src="~assets/Aok_paladin.gif" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>遊俠模型。</em></p>
           </div>
         </div>

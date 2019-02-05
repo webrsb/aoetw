@@ -635,37 +635,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Uniqueaok.jpg"
+            <a target="_blank" href="/img/Uniqueaok.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Uniqueaok.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有《世紀帝國 II HD: 帝王世紀》的特殊單位。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Uniqueaoc.jpg"
+            <a target="_blank" href="/img/Uniqueaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Uniqueaoc.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有《世紀帝國 II HD: 征服者入侵》的特殊單位。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Uniqueaof.png"
+            <a target="_blank" href="/img/Uniqueaof.png"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Uniqueaof.png"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有《世紀帝國 II HD: 失落的帝國》的特殊單位。</em></p>
             </div>
@@ -673,25 +673,25 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Uniqueaoa.jpg"
+            <a target="_blank" href="/img/Uniqueaoa.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Uniqueaoa.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有《世紀帝國 II HD: 非洲王朝》的特殊單位。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Uniqueaor.png"
+            <a target="_blank" href="/img/Uniqueaor.png"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Uniqueaor.png"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有《世紀帝國 II HD: 王者崛起》的特殊單位。</em></p>
             </div>

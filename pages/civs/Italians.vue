@@ -153,9 +153,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Italian_city.jpg"
+              <a target="_blank" href="/img/Italian_city.jpg"
                 ><img class="imgn hg" src="~assets/Italian_city.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>宣傳圖</em></p>
             </div>
           </div>

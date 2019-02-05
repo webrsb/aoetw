@@ -556,15 +556,15 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Siegeonager.png"
+                <a target="_blank" href="/img/Siegeonager.png"
                   ><img class="imgn hg" src="~assets/Siegeonager.png" alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>重型投石車</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Mangonelline.png"
+                <a target="_blank" href="/img/Mangonelline.png"
                   ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>投石車系</em></p>
               </div>
             </div>

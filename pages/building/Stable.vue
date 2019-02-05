@@ -529,37 +529,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/StableFeudalAgeHD.jpg"
+            <a target="_blank" href="/img/StableFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/StableFeudalAgeHD.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的馬廄(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/StableFeudalAgeDLC.jpg"
+            <a target="_blank" href="/img/StableFeudalAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/StableFeudalAgeDLC.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的馬廄(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Stableaok.jpg"
+            <a target="_blank" href="/img/Stableaok.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Stableaok.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有城堡時代的馬廄(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
@@ -567,25 +567,25 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Stablehd.jpg"
+            <a target="_blank" href="/img/Stablehd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Stablehd.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的馬廄(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Spritesheet_stable.jpg"
+            <a target="_blank" href="/img/Spritesheet_stable.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_stable.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em

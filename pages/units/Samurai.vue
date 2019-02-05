@@ -628,25 +628,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Samurai_2014-12-03_00001.jpg"
+            <a target="_blank" href="/img/Samurai_2014-12-03_00001.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Samurai_2014-12-03_00001.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>一群日本武士。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Samurai_Beta.jpg"
+            <a target="_blank" href="/img/Samurai_Beta.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Samurai_Beta.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <div class="lightbox-caption" style="width:220px">
               <p><em>日本武士。</em></p>
             </div>

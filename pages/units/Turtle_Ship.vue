@@ -747,31 +747,31 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Turtleshipgroup.jpg"
+              <a target="_blank" href="/img/Turtleshipgroup.jpg"
                 ><img class="imgn hg" src="~assets/Turtleshipgroup.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群龜甲船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Turtle_ship.jpg"
+              <a target="_blank" href="/img/Turtle_ship.jpg"
                 ><img class="imgn hg" src="~assets/Turtle_ship.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>最初的龜甲船(1.0c版本之前)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Turtleship.png"
+              <a target="_blank" href="/img/Turtleship.png"
                 ><img class="imgn hg" src="~assets/Turtleship.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>龜甲船美術圖。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Turtle_Ship_paint.jpg"
+                <a target="_blank" href="/img/Turtle_Ship_paint.jpg"
                   ><img
                     class="imgn hg"
                     src="~assets/Turtle_Ship_paint.jpg"
                     alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>16世紀的龜甲船。</em></p>
               </div>
             </div>

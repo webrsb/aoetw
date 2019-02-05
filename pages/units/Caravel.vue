@@ -771,24 +771,24 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Caravel.jpg"
+              <a target="_blank" href="/img/Caravel.jpg"
                 ><img class="imgn hg" src="~assets/Caravel.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群卡拉維爾戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Caravel_vs_Longboats.jpg"
+              <a target="_blank" href="/img/Caravel_vs_Longboats.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Caravel_vs_Longboats.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>卡拉維爾戰船對維京大戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Caravel_history.jpg"
+              <a target="_blank" href="/img/Caravel_history.jpg"
                 ><img class="imgn hg" src="~assets/Caravel_history.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>卡拉維爾戰船美術圖。</em></p>
             </div>
           </div>

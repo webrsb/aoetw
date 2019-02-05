@@ -459,13 +459,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/monks1.jpg"
+              <a target="_blank" href="/img/monks1.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/monks1.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p>
                 <em
                   >Voobly模組內，亞洲國家獨特的僧侶外型。其實原型是<nuxt-link
@@ -476,23 +476,23 @@
               </p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/monks2.png"
+              <a target="_blank" href="/img/monks2.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/monks2.png"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一般的僧侶。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/monks3.png"
+              <a target="_blank" href="/img/monks3.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/monks3.png"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>美洲國家的僧侶。</em></p>
             </div>
           </div>

@@ -736,15 +736,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Skirmishers_Line.png"
+            <a target="_blank" href="/img/Skirmishers_Line.png"
               ><img class="imgn hg" src="~assets/Skirmishers_Line.png" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>矛兵系</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Eliteskirmisher.png"
+            <a target="_blank" href="/img/Eliteskirmisher.png"
               ><img class="imgn hg" src="~assets/Eliteskirmisher.png" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>一群戰矛兵</em></p>
           </div>
         </div>

@@ -852,13 +852,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Longboat.png"
+              <a target="_blank" href="/img/Longboat.png"
                 ><img class="imgn hg" src="~assets/Longboat.png" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群維京大戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/915016_20030824_screen013.jpg"
+              <a target="_blank" href="/img/915016_20030824_screen013.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/915016_20030824_screen013.jpg"
@@ -867,19 +867,19 @@
               <p><em>維京大戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Vikings_Longboat.jpg"
+              <a target="_blank" href="/img/Vikings_Longboat.jpg"
                 ><img class="imgn hg" src="~assets/Vikings_Longboat.jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>維京大戰船的畫。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/The_long_boat_Wallpaper_rrpb2.jpg"
+                <a target="_blank" href="/img/The_long_boat_Wallpaper_rrpb2.jpg"
                   ><img
                     class="imgn hg"
                     src="~assets/The_long_boat_Wallpaper_rrpb2.jpg"
                     alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>維京大戰船的畫。</em></p>
               </div>
             </div>

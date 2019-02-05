@@ -629,54 +629,54 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
+              <a target="_blank" href="/img/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>一群駱駝弓騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Aoe2_CamelArcher_Preview.jpg"
+              <a target="_blank" href="/img/Aoe2_CamelArcher_Preview.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Aoe2_CamelArcher_Preview.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>以前的駱駝弓騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/AOE2_CamelArcher_WIP-1024x787.jpg"
+              <a target="_blank" href="/img/AOE2_CamelArcher_WIP-1024x787.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/AOE2_CamelArcher_WIP-1024x787.jpg"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p><em>駱駝弓騎兵3D圖</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Camel_archery.jpg"
+                <a target="_blank" href="/img/Camel_archery.jpg"
                   ><img
                     class="imgn hg"
                     width="250"
                     src="~assets/Camel_archery.jpg"
                     alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>一張畫著獵人騎在駱駝背上彎弓打獵的畫。</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/1518454054853.jpg"
+                <a target="_blank" href="/img/1518454054853.jpg"
                   ><img
                     class="imgn hg"
                     width="250"
                     src="~assets/1518454054853.jpg"
                     alt=""
-                /></nuxt-link>
+                /></a>
                 <p><em>即使是重裝馬弓騎兵也無法與駱駝弓騎兵一搏。</em></p>
               </div>
             </div>

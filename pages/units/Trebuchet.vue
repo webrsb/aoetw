@@ -650,21 +650,21 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Trebpacked.png"
+            <a target="_blank" href="/img/Trebpacked.png"
               ><img class="imgn hg" src="~assets/Trebpacked.png" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>普通的投石機</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/ Trebunpacket.jpg"
+            <a target="_blank" href="/img/ Trebunpacket.jpg"
               ><img class="imgn hg" src="~assets/Trebunpacket.jpg" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>組裝好的投石機</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/ Trebdamaged.jpg"
+            <a target="_blank" href="/img/ Trebdamaged.jpg"
               ><img class="imgn hg" src="~assets/Trebdamaged.jpg" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>巨型投石機受傷時會像建築物一樣起火</em></p>
           </div>
         </div>

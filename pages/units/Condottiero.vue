@@ -800,37 +800,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Condottiero_Group.jpg"
+            <a target="_blank" href="/img/Condottiero_Group.jpg"
               ><img
                 class="imgn hg"
                 width="250"
                 src="~assets/Condottiero_Group.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>一群傭兵</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/2.png"
+            <a target="_blank" href="/img/2.png"
               ><img class="imgn hg" width="250" src="~assets/2.png" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>一群傭兵(4.4版本後)</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Per.jpg"
+            <a target="_blank" href="/img/Per.jpg"
               ><img class="imgn hg" width="250" src="~assets/per.jpg" alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>傭兵對沒有完整升級步兵的文明非常有價值，例如:波斯。</em></p>
           </div>
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Genoese_&_Condottiero.jpg"
+            <a target="_blank" href="/img/Genoese_&_Condottiero.jpg"
               ><img
                 class="imgn hg"
                 width="250"
                 src="~assets/Genoese_&_Condottiero.jpg"
                 alt=""
-            /></nuxt-link>
+            /></a>
             <p><em>義大利的兩個特殊單位:傭兵(左)和熱那亞努手(右)</em></p>
           </div>
         </div>

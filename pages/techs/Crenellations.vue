@@ -63,9 +63,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Battlement_(PSF).jpg"
+              <a target="_blank" href="/img/Battlement_(PSF).jpg"
                 ><img class="imgn hg" src="~assets/Battlement_(PSF).jpg" alt=""
-              /></nuxt-link>
+              /></a>
               <p>
                 <em
                   >一個中古世紀的垛口，請注意圖中十字孔即為<nuxt-link

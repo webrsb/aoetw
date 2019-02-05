@@ -121,13 +121,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wonderbritons.png"
+              <a target="_blank" href="/img/Wonderbritons.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Wonderbritons.png"
                   alt=""
-              /></nuxt-link>
+              /></a>
               <p>
                 <em
                   >不列顛的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
