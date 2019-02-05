@@ -126,7 +126,7 @@
                   </li>
                   <li>
                     <img class="gg" src="~assets/WarGalley.jpg" /><nuxt-link
-                      to="/War_units/Galley"
+                      to="/units/War_Galley"
                       >弩炮戰船</nuxt-link
                     >
                   </li>

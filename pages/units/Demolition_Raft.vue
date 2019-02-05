@@ -232,7 +232,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -559,7 +559,7 @@
           <ul>
             <li>
               自爆筏、<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
-              >和<nuxt-link to="/War_units/Galley">戰船</nuxt-link
+              >和<nuxt-link to="/units/War_Galley">戰船</nuxt-link
               >是唯一共用升級科技的單位。
             </li>
             <li>

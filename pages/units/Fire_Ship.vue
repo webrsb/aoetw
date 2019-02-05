@@ -13,7 +13,7 @@
           <p>
             火戰船在城堡時代的時候可以在碼頭中被訓練。這是一艘有"火焰噴射器"的船，對其他的船隻有攻擊加成。火戰船需要很靠近敵方船隻，並且用超級快的速度(每秒4次)。當
             <nuxt-link to="/units/Galley">戰船</nuxt-link>升級成<nuxt-link
-              to="/War_units/Galley"
+              to="/units/War_Galley"
               >弩炮戰船</nuxt-link
             >的時候，火蒙衝會自動升級成火戰船。
           </p>
@@ -38,7 +38,7 @@
           </p>
           <p>
             儘管火戰船對船有傷害力也有著很高的防禦力，但是城堡時代的火戰船還是比<nuxt-link
-              to="/War_units/Galley"
+              to="/units/War_Galley"
               >弩炮戰船</nuxt-link
             >的速度慢。所以需要適當的戰術，攻其不備。當火戰船升級成
             <nuxt-link to="/units/Fast_Fire_Ship">重型火戰船</nuxt-link
@@ -62,7 +62,7 @@
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
               >、在岸邊的建築物和近戰單位、
-              <nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>、<nuxt-link
                 to="/units/Cannon_Galleon"
                 >火炮戰船</nuxt-link
               >。
@@ -271,7 +271,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img

@@ -23,7 +23,7 @@
           </p>
           <p>
             當火炮戰船在執行岸邊轟炸城堡和箭塔時，火炮戰船身邊應該要有<nuxt-link
-              to="/War_units/Galley"
+              to="/units/War_Galley"
               >弩炮戰船</nuxt-link
             >和<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>做護衛保護。
           </p>
@@ -343,7 +343,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img

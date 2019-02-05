@@ -330,7 +330,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -862,7 +862,7 @@
             <td class="unit3">從升級</td>
             <td class="unit4">
               <img class="gg" src="~assets/Galley.jpg" alt="" /><nuxt-link
-                to="/War_units/Galley"
+                to="/units/War_Galley"
                 >戰船</nuxt-link
               >
             </td>

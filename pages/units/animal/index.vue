@@ -35,43 +35,47 @@
           <div class="col-md-3">
             <strong>不可馴化可食用</strong>
             <ul>
-              <li><nuxt-link to="/unitsanimal/Deer">鹿</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Iron_Boar">鐵野豬</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Deer">鹿</nuxt-link></li>
+              <li>
+                <nuxt-link to="/units/animal/Iron_Boar">鐵野豬</nuxt-link>
+              </li>
               <li><nuxt-link to="/Wild_Boar.php">野豬</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Zebra">斑馬</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Elephant">象</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Ostrich">鴕鳥</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Rhinoceros">犀牛</nuxt-link></li>
-              <li><nuxt-link to="/Alfred_the_Alpaca.php">魚類</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Zebra">斑馬</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Elephant">象</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Rhinoceros">犀牛</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/fish">魚類</nuxt-link></li>
             </ul>
           </div>
           <div class="col-md-3">
             <strong>可馴化可食用</strong>
             <ul>
-              <li><nuxt-link to="/unitsanimal/Sheep">羊</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Turkey">火雞</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Sheep">羊</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Turkey">火雞</nuxt-link></li>
               <li>駱駝</li>
-              <li><nuxt-link to="/unitsanimal/Cow">牛</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Goat">山羊</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Cow">牛</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Goat">山羊</nuxt-link></li>
               <li>
-                <nuxt-link to="/unitsanimal/Water_Buffalo">水牛</nuxt-link>
+                <nuxt-link to="/units/animal/Water_Buffalo">水牛</nuxt-link>
               </li>
             </ul>
           </div>
           <div class="col-md-3">
             <strong>不可食用</strong>
             <ul>
-              <li><nuxt-link to="/unitsanimal/Wolf">狼</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Wolf">狼</nuxt-link></li>
               <li><nuxt-link to="/Jaguar.php">豹</nuxt-link></li>
-              <li><nuxt-link to="/units/wide/Wild_Horse">馬</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Bear">熊</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Llama">駱駝</nuxt-link></li>
-              <li><nuxt-link to="/units/wide/Donkey">驢</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Tiger">虎</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Lion">獅子</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Crocodile">鱷魚</nuxt-link></li>
               <li>
-                <nuxt-link to="/unitsanimal/Komodo_Dragon"
+                <nuxt-link to="/units/animal/wide/Wild_Horse">馬</nuxt-link>
+              </li>
+              <li><nuxt-link to="/units/animal/Bear">熊</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Llama">駱駝</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Donkey">驢</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Tiger">虎</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Lion">獅子</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Crocodile">鱷魚</nuxt-link></li>
+              <li>
+                <nuxt-link to="/units/animal/Komodo_Dragon"
                   >科莫多巨蜥</nuxt-link
                 >
               </li>
@@ -80,8 +84,8 @@
           <div class="col-md-3">
             <strong>裝飾動物</strong>
             <ul>
-              <li><nuxt-link to="/unitsanimal/Hawk">鷹</nuxt-link></li>
-              <li><nuxt-link to="/unitsanimal/Macaw">金剛鸚鵡</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Hawk">鷹</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link></li>
               <li>禿鷹</li>
             </ul>
           </div>

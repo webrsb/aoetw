@@ -6,7 +6,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#b74711;">
               <div class="unititle" style="color: #fff;">
-                世紀帝國的所有防禦類別
+                  <nuxt-link to="/armor">世紀帝國的所有防禦類別</nuxt-link>
               </div>
             </td>
           </tr>

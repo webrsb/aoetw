@@ -24,12 +24,12 @@
             卡拉維爾戰船的攻擊可以傷害一直線上的單位，讓他們能殺死在岸邊的群聚單位或是在海上擊沉多艘敵方船艦。
           </p>
           <p>
-            卡拉維爾戰船在大多數戰鬥表現中都比<nuxt-link to="/War_units/Galley"
+            卡拉維爾戰船在大多數戰鬥表現中都比<nuxt-link to="/units/War_Galley"
               >弩炮戰船</nuxt-link
             >好，然而在1對1的戰鬥中他們會輸給弩炮戰船，精銳卡拉維爾戰船則會輸給重型弩炮戰船。若是論打群架，卡拉維爾戰船則可以輕易地用穿透傷害戰勝他們。
           </p>
           <p>
-            卡拉維爾戰船只比<nuxt-link to="/War_units/Galley"
+            卡拉維爾戰船只比<nuxt-link to="/units/War_Galley"
               >弩炮戰船</nuxt-link
             >貴一點，但是到城堡時代不需升級就能馬上訓練。在後期如果要同時訓練卡拉維爾戰船和弩炮戰船/
             <nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link
@@ -307,7 +307,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img

@@ -22,7 +22,7 @@
         英雄單位請見此：<nuxt-link to="/units/hero">英雄列表</nuxt-link>
       </div>
       <div class="col-md-12">
-        野生動物請見此：<nuxt-link to="/units/wide">動物列表</nuxt-link>
+        野生動物請見此：<nuxt-link to="/units/animal">動物列表</nuxt-link>
       </div>
       <div class="col-md-12">
         地圖編輯器類請見此：<nuxt-link to="/units/edmap"
@@ -658,7 +658,7 @@
                 <img class="gg" src="~assets/Galley.jpg" alt="" />
                 <nuxt-link to="/units/Galley">戰船</nuxt-link>→
                 <img class="gg" src="~assets/WarGalley.jpg" alt="" />
-                <nuxt-link to="/War_units/Galley">弩砲戰船</nuxt-link>→
+                <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>→
                 <img class="gg" src="~assets/GalleonAoE2.jpg" alt="" />
                 <nuxt-link to="/units/Galleon">重裝弩砲戰船</nuxt-link>
               </div>

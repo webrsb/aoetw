@@ -336,7 +336,7 @@
                 src="~assets/WarGalley.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/War_units/Galley">弩砲戰船</nuxt-link
+              /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
               >：普通遠程戰船。
             </li>
             <li>

@@ -59,7 +59,7 @@
                 src="~assets/WarGalley.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>→
+              /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>→
               <img class="gg" src="~assets/GalleonAoE2.jpg" alt="" /><nuxt-link
                 to="/units/Galleon"
                 >重型弩炮戰船</nuxt-link
@@ -239,7 +239,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img

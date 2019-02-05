@@ -14,7 +14,7 @@
             火蒙衝在封建時代時可以在碼頭中被訓練，當把<nuxt-link
               to="/units/Galley"
               >戰船</nuxt-link
-            >升級成<nuxt-link to="/War_units/Galley">弩砲戰船</nuxt-link
+            >升級成<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >的時候，火蒙衝也會自動升級成
             <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>。
           </p>
@@ -281,7 +281,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img

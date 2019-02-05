@@ -8,7 +8,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#a9130f;">
-              <div class="unititle" style="color: #fff;">英雄</div>
+              <div class="unititle" style="color: #fff;"> <nuxt-link to="/units/hero">英雄</nuxt-link></div>
             </td>
           </tr>
           <tr>

@@ -9,7 +9,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#1161b7;">
               <div class="unititle" style="color: #fff;">
-                世紀帝國的主流打法
+                 <nuxt-link to="/ar">世紀帝國的主流打法</nuxt-link>
               </div>
             </td>
           </tr>

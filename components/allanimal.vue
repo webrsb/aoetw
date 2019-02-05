@@ -9,7 +9,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#a868b1;">
               <div class="unititle" style="color: #fff;">
-                世紀帝國的野生動物
+                <nuxt-link to="/units/animal">世紀帝國的野生動物</nuxt-link>
               </div>
             </td>
           </tr>

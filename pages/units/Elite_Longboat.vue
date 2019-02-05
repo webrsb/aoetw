@@ -32,7 +32,7 @@
             >一樣會在一次攻擊中射出多重箭矢，而且只有第一發箭能有弓兵科技的加成而且是完整傷害，其他箭都只有1的遠程傷害。維京大戰船無論精銳與否每次攻擊都是射四支箭。與
             <nuxt-link to="/units/Chu_Ko_Nu">中國連弩兵</nuxt-link
             >不同的維京大戰船是在同一時間發射所有箭，而不是快速連續發射。由於世界帝國II中護甲和傷害的計算後面的三發箭矢會對單位造成額外+3傷害。維京大戰船可以戰勝
-            <nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link
+            <nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link
             >，精銳維京大戰船可以戰勝<nuxt-link to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
             >(險勝)。維京大戰船建造速度比大多數的戰艦快，而複數數量的維京大戰船可以有效對付敵方艦隊。
@@ -310,7 +310,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img

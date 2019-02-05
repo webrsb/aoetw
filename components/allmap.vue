@@ -8,7 +8,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#7d756c;">
-              <div class="unititle" style="color: #fff;">世紀帝國的地圖</div>
+              <div class="unititle" style="color: #fff;"><nuxt-link to="/maps">世紀帝國的地圖</nuxt-link></div>
             </td>
           </tr>
           <tr>

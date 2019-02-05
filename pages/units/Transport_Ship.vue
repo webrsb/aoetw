@@ -272,7 +272,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -617,14 +617,14 @@
           <ul>
             <li>
               運輸船現在可以裝載能被馴化的動物(<nuxt-link
-                to="/unitsanimal/Sheep"
+                to="/units/animal/Sheep"
                 >綿羊</nuxt-link
-              >、<nuxt-link to="/unitsanimal/Turkey">火雞</nuxt-link>、
-              <nuxt-link to="/unitsanimal/Llama">草尼馬</nuxt-link>、<nuxt-link
-                to="/unitsanimal/Cow"
+              >、<nuxt-link to="/units/animal/Turkey">火雞</nuxt-link>、
+              <nuxt-link to="/units/animal/Llama">草尼馬</nuxt-link>、<nuxt-link
+                to="/units/animal/Cow"
                 >乳牛</nuxt-link
-              >、<nuxt-link to="/unitsanimal/Goat">山羊</nuxt-link>和<nuxt-link
-                to="/unitsanimal/Water_Buffalo"
+              >、<nuxt-link to="/units/animal/Goat">山羊</nuxt-link>和<nuxt-link
+                to="/units/animal/Water_Buffalo"
                 >水牛</nuxt-link
               >)。
             </li>

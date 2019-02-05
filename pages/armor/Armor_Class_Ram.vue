@@ -85,7 +85,7 @@
                   </li>
                   <li>
                     <img src="~assets/WarGalley.jpg" alt="" /><nuxt-link
-                      to="/War_units/Galley"
+                      to="/units/War_Galley"
                       >弩炮戰船</nuxt-link
                     >→
                     <img

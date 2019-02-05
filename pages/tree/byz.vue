@@ -896,7 +896,7 @@
             </td>
             <td class="t10 trm">
               <img class="gg" src="~assets/WarGalley.jpg" />
-              <div><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link></div>
+              <div><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm not">

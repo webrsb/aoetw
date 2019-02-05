@@ -32,7 +32,7 @@
               to="/units/Cannon_Galleon"
               >火炮戰船</nuxt-link
             >的戰艦(如
-            <nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>/<nuxt-link
+            <nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>/<nuxt-link
               to="/units/Demolition_Ship"
               >神風船</nuxt-link
             >/<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>/

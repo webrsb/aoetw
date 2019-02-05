@@ -5,7 +5,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#274a7d;">
-              <div class="unititle" style="color: #fff;">世紀帝國的建築</div>
+              <div class="unititle" style="color: #fff;"><nuxt-link to="/building">世紀帝國的建築</nuxt-link></div>
             </td>
           </tr>
           <tr>
