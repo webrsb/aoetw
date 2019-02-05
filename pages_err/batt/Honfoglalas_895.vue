@@ -28,7 +28,7 @@
     <td class="tc1" width="15%">起始時代:</td>
     <td class="tc2" width="15%">黑暗時代</td>
     <td class="tc1" width="15%">起始資源:</td>
-    <td class="tc2">0 木材，0 食物<p>0 黃金，0 石礦</td>
+    <td class="tc2">0 木材，0 食物，0 黃金，0 石礦</td>
     <td class="tc1" width="15%">人口上限:</td>
     <td class="tc2" width="5%">200</td>
   </tr>
@@ -169,7 +169,6 @@
   <li>開全景地圖可發現，拜占庭帝國東邊，安納托利亞南方的賽普勒斯島上有一位獅心王理察，此彩蛋正好呼應塞普勒斯(1191)的理查登場的戰役。</li>
   <li>此關戰役是唯一可在城鎮中心訓練乳牛與綿羊的關卡。</li>
 </ul>
-</ul>
 </div>
 <h2>歷史(來源取自維基百科)</h2>
 <div class="hrn1"></div>
@@ -197,21 +196,21 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">征服家園</a></div>
+          <div class="unititle"><nuxt-link to="/batt/Honfoglalas_895">征服家園</nuxt-link></div>
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Honfoglalás.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Honfoglalás.jpg" width="" alt="" /></div>
        </td>
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2">情景信息</div>
        </td>
       </tr>
       <tr>
         <td class="unit3">版本</td>
-       <td class="unit4">失落帝國</td>
+       <td class="unit4"><nuxt-link to="/games/aof">失落帝國</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">戰役</td>
@@ -219,11 +218,11 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="">馬札爾</a></td>
+       <td class="unit4"><nuxt-link to="/civs/Magyars">馬札爾</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2">戰役關卡編號</div>
        </td>
       </tr>
        <tr>
@@ -233,12 +232,13 @@
        <tr>
         <td class="unit3">上一關</td>
         <td class="unit4">
-       <a href="York(865).php">約克(865)</a>
+          <nuxt-link to="/batt/York(865).php">約克(865)</nuxt-link>
+         </td>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
        <td class="unit4">
-        <a href="Langshan_Jiang(919).php">狼山江(919)</a>
+         <nuxt-link to="/batt/Langshan_Jiang(919).php">狼山江(919)</nuxt-link>
         </td>
       </tr>
 
@@ -248,7 +248,7 @@
        感謝! 此頁面由裕暉，天翔協助編輯
      </div>
      <div class="wiki" style="margin-top: 5px;">
-<div style="float: left;"><img src="img/Wikipedia-logo.png" width="50" height="46"></div>
+<div style="float: left;"><img src="~assets/Wikipedia-logo.png" width="50" height="46" /></div>
 <div style="margin-left: 60px;">維基百科上的匈牙利民族歷史
 <div style="margin-left: 10px;"><i><b><a href="https://zh.wikipedia.org/wiki/%E5%8C%88%E7%89%99%E5%88%A9%E5%8E%86%E5%8F%B2?fbclid=IwAR3KQ0ZS4YM1OH94Rj97DrrhOer3J09yF8ri2ScjKeYZgHJNJHsBwZSUS5s">匈牙利歷史</a></b></i>
 </div>
@@ -257,6 +257,7 @@
     </div>
 </div>
 </div>
+     </div>
     </template>
 <script>
 export default {
