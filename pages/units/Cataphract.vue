@@ -27,7 +27,7 @@
             </li>
             <li>
               騎兵加成抵免能夠降低對騎兵加成的傷害，例如<nuxt-link
-                to="/Heavy_units/Camel"
+                to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
               >+18對騎兵加成傷害攻擊擁有(+12/+16(精銳)
             </li>
@@ -95,7 +95,7 @@
               當然其他特殊的重騎兵，<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>或是
-              <nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link
+              <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
               >就不用說了。
             </p>
           </ul>
@@ -114,7 +114,7 @@
                 to="/units/Heavy_Scorpion"
                 >重型弩砲</nuxt-link
               >與
-              <nuxt-link to="/Heavy_Cavalry_units/Archer"
+              <nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >或是其他的特殊射手單位，通常都可以解決聖騎兵，即使最弱的<nuxt-link
                 to="/units/Elite_Skirmisher"
@@ -153,7 +153,7 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link
+              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >、大量<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link>、
               <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
                 to="/units/Knight"
@@ -299,14 +299,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -411,7 +411,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -423,7 +423,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>

@@ -61,12 +61,12 @@
             </li>
             <li>
               蒙古突騎跑速和訓練速度更快（當然訓練速度實際上是射箭場生產的<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >會更快）。
             </li>
             <li>
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >成本便宜15木材5黃金。
             </li>
             <li>
@@ -91,13 +91,13 @@
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >多5點生命值，且可以自動<nuxt-link to="/techs/Maghrabi_Camels"
                 >回血</nuxt-link
               >，並且還有1的近防。
             </li>
             <li>
-              <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >的防禦類別屬於<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝類</nuxt-link
               >，而不是
@@ -108,7 +108,7 @@
               >等反騎兵單位對他的傷害較小。此外還有+1（精銳+2）的騎兵防禦，所以傷害更小。
             </li>
             <li>
-              <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >在<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >防禦有+2，所以更不怕
@@ -120,21 +120,21 @@
             <li>蒙古突騎跑的更快一點。</li>
             <li>駱駝弓騎兵便宜5木與5金，升級精銳也比較便宜。</li>
             <li>
-              蒙古突騎對攻城武器有加成，而<nuxt-link to="/Camel_units/Archer"
+              蒙古突騎對攻城武器有加成，而<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >對於<nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+              >對於<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >有加成。
             </li>
             <li>
               總而言之，蒙古突騎攻擊速度更快，火力更強，但由於<nuxt-link
-                to="/Camel_units/Archer"
+                to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
               >的防禦較高，血量也多，還可以回血，所以更加的耐用。
             </li>
             <li>
-              在一對一的戰鬥中，<nuxt-link to="/Camel_units/Archer"
+              在一對一的戰鬥中，<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >可以秒殺蒙古突騎，因為<nuxt-link to="/Camel_units/Archer"
+              >可以秒殺蒙古突騎，因為<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
               >對馬弓騎兵攻擊+4/+6(精銳)
             </li>
@@ -162,7 +162,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
-                to="/Genoese_units/Crossbowman"
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
@@ -174,7 +174,7 @@
                 >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、
               <nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
-                to="/Camel_units/Archer"
+                to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
               >。
             </td>
@@ -416,14 +416,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -543,7 +543,7 @@
                       style="margin: 2px;"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Camel_units/Archer"
+                    /><nuxt-link to="/units/Camel_Archer"
                       >精銳駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
@@ -563,7 +563,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -590,7 +590,7 @@
                       style="margin: 2px;"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+                    /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
                 </ul>

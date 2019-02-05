@@ -51,7 +51,7 @@
             <td class="unit3" style="width:10%">圍牆</td>
             <td class="unit3">
               <nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>
-              <nuxt-link to="/Palisade_/building/Gate">木門</nuxt-link>。
+              <nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>。
               <nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>。<nuxt-link to="/building/Fortified_Wall"
                 >垛牆</nuxt-link>。<nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>
             </td>

@@ -157,8 +157,10 @@
                 射程較遠的範圍單位、<nuxt-link to="/units/Tarkan"
                   >韃靼騎兵</nuxt-link
                 >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、
-                <nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link
-                >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>。
+                <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
+                  to="/units/Battering_Ram"
+                  >衝撞車</nuxt-link
+                >。
               </td>
             </tr>
             <tr class="tta">

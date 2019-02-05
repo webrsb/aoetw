@@ -122,8 +122,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
-              >、<nuxt-link to="/Heavy_Cavalry_units/Archer"
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >
             </td>
@@ -170,8 +170,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
-              >、<nuxt-link to="/Plumed_units/Archer">精銳羽毛箭射手</nuxt-link>
+              <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
+              >、<nuxt-link to="/units/Plumed_Archer">精銳羽毛箭射手</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">
@@ -191,10 +191,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/Ballista_unitsanimal/Elephant">弩砲象</nuxt-link
-              >、<nuxt-link to="/Ballista_unitsanimal/Elephant"
-                >精銳弩砲象</nuxt-link
-              >
+              <nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link
+              >、<nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">
@@ -203,8 +201,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link
-              >、<nuxt-link to="/Genoese_units/Crossbowman"
+              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+              >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >精銳熱那亞弩手</nuxt-link
               >
             </td>
@@ -215,8 +213,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/Camel_units/Archer">駱駝弓箭手</nuxt-link
-              >、<nuxt-link to="/Camel_units/Archer">精銳駱駝弓箭手</nuxt-link>
+              <nuxt-link to="/units/Camel_Archer">駱駝弓箭手</nuxt-link
+              >、<nuxt-link to="/units/Camel_Archer">精銳駱駝弓箭手</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">
@@ -239,8 +237,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link
-              >、<nuxt-link to="/Rattan_units/Archer">精銳藤甲弓兵</nuxt-link>
+              <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
+              >、<nuxt-link to="/units/Rattan_Archer">精銳藤甲弓兵</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">

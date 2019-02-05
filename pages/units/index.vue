@@ -200,9 +200,9 @@
             <td>
               <div class="unitcontent">
                 <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-                <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>→
+                <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
                 <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-                <nuxt-link to="/Heavy_Cavalry_units/Archer"
+                <nuxt-link to="/units/Heavy_Cavalry_Archer"
                   >重裝馬弓騎兵</nuxt-link
                 >
               </div>
@@ -288,9 +288,9 @@
                 <img class="gg" src="~assets/CamelIcon.jpg" alt="" />
                 <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>→
                 <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
+                <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
                 <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt="" />
-                <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link
+                <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
               </div>
             </td>
@@ -362,7 +362,7 @@
                 <img class="gg" src="~assets/OnagerIcon.jpg" alt="" />
                 <nuxt-link to="/units/Onager">中型投石車</nuxt-link>→
                 <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt="" />
-                <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
               </div>
             </td>
           </tr>
@@ -514,11 +514,9 @@
                         >
                         <nuxt-link to="/units/Samurai">日本武士</nuxt-link>
                         <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>
-                        <nuxt-link to="/War_unitsanimal/Elephant"
-                          >波斯戰象</nuxt-link
-                        >
+                        <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>
                         <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
-                        <nuxt-link to="/Teutonic_units/Knight"
+                        <nuxt-link to="/units/Teutonic_Knight"
                           >條頓武士</nuxt-link
                         >
                         <nuxt-link to="/units/Janissary"
@@ -532,7 +530,7 @@
                         <div class="dropdown-divider"></div>
                         <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>
                         <nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link>
-                        <nuxt-link to="/Plumed_units/Archer"
+                        <nuxt-link to="/units/Plumed_Archer"
                           >羽毛箭射手</nuxt-link
                         >
                         <nuxt-link to="/units/Conquistador">征服者</nuxt-link>
@@ -544,13 +542,13 @@
                         <div class="dropdown-divider"></div>
                         <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>
                         <nuxt-link to="/units/Slinger">投石手</nuxt-link>
-                        <nuxt-link to="/Elephant_units/Archer"
+                        <nuxt-link to="/units/Elephant_Archer"
                           >象弓騎兵</nuxt-link
                         >
-                        <nuxt-link to="/Imperial_units/Camel"
+                        <nuxt-link to="/units/Imperial_Camel"
                           >帝王駱駝騎兵</nuxt-link
                         >
-                        <nuxt-link to="/Genoese_units/Crossbowman"
+                        <nuxt-link to="/units/Genoese_Crossbowman"
                           >熱那亞弩手</nuxt-link
                         >
                         <nuxt-link to="/units/Condottiero">僱傭兵</nuxt-link>
@@ -561,7 +559,7 @@
                         <div class="dropdown-divider"></div>
                         <nuxt-link to="/games/ak">非洲王朝</nuxt-link>
                         <div class="dropdown-divider"></div>
-                        <nuxt-link to="/Camel_units/Archer"
+                        <nuxt-link to="/units/Camel_Archer"
                           >駱駝弓騎兵</nuxt-link
                         >
                         <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
@@ -569,19 +567,19 @@
                           >彎刀勇士</nuxt-link
                         >
                         <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>
-                        <nuxt-link to="/units/Organ_Gun">手風琴砲</nuxt-link>
+                        <nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>
                         <nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>
                         <div class="dropdown-divider"></div>
                         <nuxt-link to="/games/aor">王者崛起</nuxt-link>
                         <div class="dropdown-divider"></div>
                         <nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>
-                        <nuxt-link to="/Ballista_unitsanimal/Elephant"
+                        <nuxt-link to="/units/Ballista_Elephant"
                           >弩砲象</nuxt-link
                         >
                         <nuxt-link to="/units/Karambit_Warrior"
                           >爪刀勇士</nuxt-link
                         >
-                        <nuxt-link to="/Rattan_units/Archer"
+                        <nuxt-link to="/units/Rattan_Archer"
                           >藤甲弓兵</nuxt-link
                         >
                         <nuxt-link to="/units/Imperial_Skirmisher"
@@ -684,7 +682,7 @@
                 <img class="gg" src="~assets/DemoShipIcon.jpg" alt="" />
                 <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link>→
                 <img class="gg" src="~assets/HeavyDemoShipIcon.jpg" alt="" />
-                <nuxt-link to="/Heavy_units/Demolition_Ship"
+                <nuxt-link to="/units/Heavy_Demolition_Ship"
                   >重型神風船</nuxt-link
                 >
               </div>
@@ -709,7 +707,7 @@
                 <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>→
                 <img class="gg" src="~assets/LongboatIcon.jpg" alt="" />
                 <nuxt-link to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
-                >(<nuxt-link to="/Vikings.pgp">維京</nuxt-link>限定)
+                >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
               </div>
             </td>
           </tr>

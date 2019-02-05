@@ -51,9 +51,9 @@
                 to="/techs/Mercenaries"
                 >雇傭兵</nuxt-link
               >)
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >需要黃金/木材，因此在資源使用上無衝突，<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >又怕攻城器單位而馬札爾驃騎兵又對攻城器單位有加成傷害，再者
               <nuxt-link to="/units/Spearman">槍兵</nuxt-link
@@ -103,9 +103,9 @@
                 >重裝長槍兵</nuxt-link
               >、<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、
               <nuxt-link to="/units/Berserk">狂戰士</nuxt-link>、<nuxt-link
-                to="/Genoese_units/Crossbowman"
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >、<nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link>、
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>、
               <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
                 to="/units/Camel"
                 >駱駝騎兵</nuxt-link
@@ -264,14 +264,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -376,7 +376,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -388,7 +388,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>

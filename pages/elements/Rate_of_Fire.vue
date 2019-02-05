@@ -74,7 +74,7 @@
                 <td class="tta3">3.34</td>
               </tr>
               <tr>
-                <td class="tta1">（精銳）手風琴砲</td>
+                <td class="tta1">（精銳）風琴砲</td>
                 <td class="tta3">3.45</td>
               </tr>
               <tr>

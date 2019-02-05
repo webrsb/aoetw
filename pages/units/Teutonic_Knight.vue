@@ -37,7 +37,7 @@
             </li>
             <li>
               條頓武士的高護甲高攻擊和高生命值讓他們在任何1V1的戰鬥中都可輕鬆獲勝。然而在面對如<nuxt-link
-                to="/War_unitsanimal/Elephant"
+                to="/units/War_Elephant"
                 >戰象</nuxt-link
               >、
               <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
@@ -333,7 +333,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -345,7 +345,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

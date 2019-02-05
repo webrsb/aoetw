@@ -40,7 +40,7 @@
             <li>
               <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >科技因為比較便宜仍然要優先研發，另外黑曜石之箭沒有加成到<nuxt-link
-                to="/Plumed_units/Archer"
+                to="/units/Plumed_Archer"
                 >羽毛箭射手</nuxt-link
               >。如果盟友有
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link

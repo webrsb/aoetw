@@ -16,8 +16,8 @@
               >帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/Ballista_unitsanimal/Elephant"
-              >弩炮象</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Ballista_Elephant"
+              >弩砲象</nuxt-link
             >和<nuxt-link to="/units/Scorpion">弩炮</nuxt-link
             >一次發射兩個投射物。
           </p>
@@ -27,7 +27,7 @@
         <div class="n1">
           <ul>
             <li>
-              雙弩箭增強了弩炮象和高棉無可挑剔的弩炮(團隊加成:弩炮射程+1還有<nuxt-link
+              雙弩箭增強了弩砲象和高棉無可挑剔的弩炮(團隊加成:弩炮射程+1還有<nuxt-link
                 to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
               >的加成)對大規模
@@ -37,7 +37,7 @@
               第二個投射物有一個輕微的錐形擴展，造成的傷害比第一個投射物小一點。
             </li>
             <li>
-              大量有雙弩箭的弩炮象和弩炮可以摧毀大面積區域，這讓高棉的弩炮水平與<nuxt-link
+              大量有雙弩箭的弩砲象和弩炮可以摧毀大面積區域，這讓高棉的弩炮水平與<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
               >、 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、和<nuxt-link
@@ -135,7 +135,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">弩炮象和弩炮一次發射兩炮。</td>
+            <td class="unit4">弩砲象和弩炮一次發射兩炮。</td>
           </tr>
         </table>
 

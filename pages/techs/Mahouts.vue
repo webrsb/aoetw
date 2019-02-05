@@ -16,7 +16,7 @@
               >帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發，研發後令<nuxt-link to="/War_unitsanimal/Elephant"
+            >研發，研發後令<nuxt-link to="/units/War_Elephant"
               >波斯戰象</nuxt-link
             >的移動速度+30%。
           </p>

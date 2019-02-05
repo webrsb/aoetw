@@ -306,14 +306,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -403,7 +403,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -415,7 +415,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>

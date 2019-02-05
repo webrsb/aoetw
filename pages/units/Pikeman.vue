@@ -320,7 +320,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -362,7 +362,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>
@@ -374,13 +374,13 @@
                       src="~assets/CavalryArcherIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/HeavyCavArcherIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Heavy_Cavalry_units/Archer"
+                    <nuxt-link to="/units/Heavy_Cavalry_Archer"
                       >重裝馬弓騎兵</nuxt-link
                     >
                   </li>
@@ -416,13 +416,13 @@
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     />
-                    <nuxt-link to="/Rattan_units/Archer">籐甲弓兵</nuxt-link>→
+                    <nuxt-link to="/units/Rattan_Archer">籐甲弓兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     />
-                    <nuxt-link to="/Rattan_units/Archer">精銳籐甲弓兵</nuxt-link
+                    <nuxt-link to="/units/Rattan_Archer">精銳籐甲弓兵</nuxt-link
                     >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
                   </li>
                   <li>
@@ -448,21 +448,21 @@
                       width="22"
                       alt=""
                     />
-                    <nuxt-link to="/Rattan_units/Archer">蒙古突騎</nuxt-link>→
+                    <nuxt-link to="/units/Rattan_Archer">蒙古突騎</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
                     />
-                    <nuxt-link to="/Rattan_units/Archer">精銳蒙古突騎</nuxt-link
+                    <nuxt-link to="/units/Rattan_Archer">精銳蒙古突騎</nuxt-link
                     >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-                    <nuxt-link to="/Rattan_units/Archer">駱駝弓騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Rattan_Archer">駱駝弓騎兵</nuxt-link>→
                     <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-                    <nuxt-link to="/Rattan_units/Archer"
+                    <nuxt-link to="/units/Rattan_Archer"
                       >精銳駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
@@ -495,9 +495,9 @@
             <ul>
               <li>
                 <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-                <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>→
+                <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
                 <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-                <nuxt-link to="/Heavy_Cavalry_units/Archer"
+                <nuxt-link to="/units/Heavy_Cavalry_Archer"
                   >重裝馬弓騎兵</nuxt-link
                 >
               </li>
@@ -511,14 +511,14 @@
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/Rattan_units/Archer">蒙古突騎</nuxt-link>→
+                <nuxt-link to="/units/Rattan_Archer">蒙古突騎</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/MangudaiIcon.jpg"
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/Rattan_units/Archer">精銳蒙古突騎</nuxt-link
+                <nuxt-link to="/units/Rattan_Archer">精銳蒙古突騎</nuxt-link
                 >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
               </li>
               <li>
@@ -528,14 +528,14 @@
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>→
+                <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/ElephantArcherIcon.jpg"
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/Elephant_units/Archer">精銳象弓騎兵</nuxt-link
+                <nuxt-link to="/units/Elephant_Archer">精銳象弓騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
               </li>
             </ul>

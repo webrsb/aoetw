@@ -16,7 +16,7 @@
               >帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/Cavalry_units/Archer"
+            >研發。研發後<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >射程和攻擊各+1。
           </p>

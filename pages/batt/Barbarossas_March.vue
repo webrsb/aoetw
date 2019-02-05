@@ -150,7 +150,7 @@
           </li>
           <li>
             <img class="gg" src="~assets/Crusade_avatar.png" alt="" /><nuxt-link
-              to="/Teutonic_units/Knight"
+              to="/units/Teutonic_Knight"
               >條頓武士</nuxt-link
             >
             14
@@ -169,7 +169,7 @@
           </li>
           <li>
             <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt="" />
-            <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link> 2
+            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link> 2
           </li>
           <li>
             <img class="gg" src="~assets/TrebuchetPackedIcon.jpg" alt="" />
@@ -193,7 +193,7 @@
           </li>
           <li>
             <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-            <nuxt-link to="/Heavy_Cavalry_units/Archer">重裝馬弓騎兵</nuxt-link>
+            <nuxt-link to="/units/Heavy_Cavalry_Archer">重裝馬弓騎兵</nuxt-link>
             4
           </li>
           <li>
@@ -202,7 +202,7 @@
           </li>
           <li>
             <img class="gg" src="~assets/SiegeOnagerIcon.jpg" alt="" />
-            <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link> 4
+            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link> 4
           </li>
           <li>
             <img class="gg" src="~assets/MonkIcon.jpg" alt="" />

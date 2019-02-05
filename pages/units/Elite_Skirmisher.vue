@@ -15,7 +15,7 @@
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>對抗
             <nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
             >的單位，對<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link>和
-            <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >都有額外的加成，非常適合對付其他遠程單位。
           </p>
           <p>
@@ -700,7 +700,7 @@
                 class="gg"
                 src="~assets/SkirmisherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Eliteunits/Skirmisher">矛兵</nuxt-link>
+              /><nuxt-link to="/units/Elite_Skirmisher">矛兵</nuxt-link>
             </td>
           </tr>
           <tr>

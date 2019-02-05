@@ -82,7 +82,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<nuxt-link to="/Wild_Boar.php">野豬</nuxt-link> +40
+              對<nuxt-link to="/units/animal/Wild_Boar">野豬</nuxt-link> +40
               <br />對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >

@@ -279,7 +279,7 @@
                   src="~assets/CavalryArcherIcon.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>
+                /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
               </td>
               <td class="tta2">20</td>
               <td class="tta3">16(額外12)</td>
@@ -326,7 +326,7 @@
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >，<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>，
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
-                to="/War_unitsanimal/Elephant"
+                to="/units/War_Elephant"
                 >戰象</nuxt-link
               >，<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>。
             </td>

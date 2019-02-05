@@ -51,7 +51,7 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+              /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >:移動快速，素質良好的駱駝射手，對於馬弓騎兵有額外的攻擊。
             </li>
             <li>
@@ -69,7 +69,7 @@
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
-                >手風琴砲</nuxt-link
+                >風琴砲</nuxt-link
               >:少數在城堡時代就可訓練的火藥單位，對衝撞車系列有加成傷害。
             </li>
             <li>
@@ -203,7 +203,7 @@
             </li>
             <li><nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link></li>
             <li>
-              <nuxt-link to="/Francisco_de_Almeidaa.php"
+              <nuxt-link to="/batt/Francisco_de_Almeidaa"
                 >法蘭西斯科．阿爾梅達</nuxt-link
               >
             </li>

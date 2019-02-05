@@ -16,7 +16,7 @@
             >的特殊單位，能夠在
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。是個對<nuxt-link to="/Cavalry_units/Archer"
+            >中訓練。是個對<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >有攻擊加成的騎馬射手。
           </p>
@@ -34,7 +34,7 @@
               駱駝弓騎兵非常適合柏柏爾騎兵部隊。由於他們的攻擊速度高和移動快，他們可以支援重型騎兵（騎士和重裝駱駝騎兵）對付各種遠程單位，他們也能有效殲滅
               <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >。就實用性而言，駱駝弓騎兵還能對付<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >、步兵和大多數的徒步弓箭手，所以它們是一個多功能的單位。
             </li>
@@ -56,7 +56,7 @@
                 to="/techs/Conscription"
                 >徵兵制度</nuxt-link
               >，駱駝弓箭手訓練時間只有12.6秒，比一般的
-              <nuxt-link to="/Heavy_Cavalry_units/Archer"
+              <nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬騎弓兵</nuxt-link
               >快得多。他們是馬騎弓兵的另一個更好選擇。
             </li>
@@ -69,7 +69,7 @@
                 to="/armor/Armor_Class_Camel"
                 >駱駝護甲</nuxt-link
               >和稍高的生命值，對於那些對騎兵有攻擊加成的單位，比如
-              <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+              <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
               >，表現通常會更好。他們較低的開火間隔也能有效執行打帶跑戰術。
             </li>
             <li>
@@ -110,7 +110,7 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              緩慢的近距離單位、<nuxt-link to="/Cavalry_units/Archer"
+              緩慢的近距離單位、<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>。
             </td>

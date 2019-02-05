@@ -606,7 +606,7 @@
                   class="gg"
                   src="~assets/Crusade_avatar.png"
                   alt=""
-                /><nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link>
+                /><nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>
               </td>
               <td class="tta3">80</td>
               <!--生命值!-->
@@ -629,7 +629,7 @@
                   class="gg"
                   src="~assets/Crusade_avatar.png"
                   alt=""
-                /><nuxt-link to="/Teutonic_units/Knight"
+                /><nuxt-link to="/units/Teutonic_Knight"
                   >精銳條頓武士</nuxt-link
                 >
               </td>
@@ -1197,7 +1197,7 @@
               </td>
               <td class="tunitc5">400F 400G</td>
               <td class="tunitc6">
-                <nuxt-link to="/Throwing%20Axeman.php">擲斧兵</nuxt-link
+                <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
                 >攻擊距離+1。
               </td>
             </tr>
@@ -1262,7 +1262,7 @@
                 /><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
               </td>
               <td class="tunitc4">
-                <nuxt-link to="/Ei_Dorado.php">黃金國</nuxt-link>
+                <nuxt-link to="/techs/El_Dorado">黃金國</nuxt-link>
               </td>
               <td class="tunitc5">750F 450G</td>
               <td class="tunitc6">

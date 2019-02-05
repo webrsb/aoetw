@@ -30,7 +30,7 @@
               連弩兵通常會與僧侶、<nuxt-link to="/units/Scorpion"
                 >弩炮</nuxt-link
               >和村民做前線的快攻，它們足以應付任何情況，即便是面對<nuxt-link
-                to="/War_unitsanimal/Elephant"
+                to="/units/War_Elephant"
                 >戰象</nuxt-link
               >或條頓武士。搭配步兵也很不錯。連弩兵駐紮在城堡中時城堡的攻擊力只會有些許增加。一群的連弩兵對
               <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link

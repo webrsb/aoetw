@@ -397,7 +397,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HeavyDemoShipIcon.jpg" /><nuxt-link
-                  to="/Heavy_units/Demolition_Ship"
+                  to="/units/Heavy_Demolition_Ship"
                   >重型神風船</nuxt-link
                 >
               </td>
@@ -637,7 +637,7 @@
                   style="margin: 2px;"
                   src="~assets/Drydock.jpg"
                   alt=""
-                /><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link>
+                /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">600F 400G</td>

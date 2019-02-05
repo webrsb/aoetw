@@ -335,7 +335,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -347,7 +347,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

@@ -46,7 +46,7 @@
             </li>
             <li>
               緩慢的速度使它們容易受到大群的<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >壓制。
             </li>
@@ -64,7 +64,7 @@
             </li>
             ，但是仍有+28，+32的傷害，且他們能夠隔著牆傷害戰象。
             <li>
-              <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link
+              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
               >對於戰象有加成傷害(+8，+12)，大量的熱那亞弩手將輕易地摧毀戰象。
             </li>
             <li>
@@ -120,7 +120,7 @@
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
-              >，<nuxt-link to="/Genoese_units/Crossbowman"
+              >，<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >
             </td>
@@ -306,14 +306,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -346,7 +346,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -383,7 +383,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -413,7 +413,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavyunits/Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -601,7 +601,7 @@
               歷史上的波斯帝國，在遊戲戰役的<nuxt-link
                 to="/units/hero/Genghis_Khan"
                 >成吉思汗</nuxt-link
-              >，<nuxt-link to="/Barbarossa.php">巴巴羅薩</nuxt-link>，以及
+              >，<nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>，以及
               <nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link
               >所處的時代，皆沒有使用戰象部隊。(然而遊戲裡有，請睜隻眼閉隻眼)
             </li>

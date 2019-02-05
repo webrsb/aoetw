@@ -17,7 +17,7 @@
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-            >/<nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+            >/<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >每分鐘回15HP/每四秒回1HP。
           </p>
         </div>

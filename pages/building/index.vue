@@ -104,7 +104,7 @@
             >
           </li>
           <li>
-            <nuxt-link to="/Palisade_building/Gate"
+            <nuxt-link to="/building/Palisade_Gate"
               ><img
                 class="gg"
                 width="25px"

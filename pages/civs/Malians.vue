@@ -43,7 +43,7 @@
             世界第一Viper曾經說過，馬利是單挑最強的文明，因為他有優秀的經濟加分與優秀的兵種可以使用，在前期可以有效的打擊對手，而且後期的科技相當齊全，有
             <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
             >、遠防高達8的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
-            >以及<nuxt-link to="/Siege_units/Onager"></nuxt-link
+            >以及<nuxt-link to="/units/Siege_Onager"></nuxt-link
             >重型投石車，還有全遊戲最強的騎兵、
             <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
             >。但也缺乏一些重要科技，如護腕(帝王時代+1射程)與鼓風爐(近戰+2攻擊)，並且是遊戲中唯一有重型投石車卻沒有<nuxt-link

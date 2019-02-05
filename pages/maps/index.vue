@@ -31,7 +31,7 @@
               <li><nuxt-link to="/maps/Mediterranean">地中海</nuxt-link></li>
               <li><nuxt-link to="/maps/Migration">移民</nuxt-link></li>
               <li><nuxt-link to="/maps/Rivers">河流</nuxt-link></li>
-              <li><nuxt-link to="/Team_maps/Islands">團隊群島</nuxt-link></li>
+              <li><nuxt-link to="/maps/Team_Islands">團隊群島</nuxt-link></li>
             </ul>
           </div>
           <div class="col-md-2">
@@ -44,7 +44,7 @@
               <li><nuxt-link to="/maps/Oasis">綠洲</nuxt-link></li>
               <li><nuxt-link to="/maps/Salt_Marsh">鹽沼地</nuxt-link></li>
               <li><nuxt-link to="/maps/Scandinavia">斯堪地維亞</nuxt-link></li>
-              <li><nuxt-link to="/maps/Yucatan.vue">猶加敦</nuxt-link></li>
+              <li><nuxt-link to="/maps/Yucatan">猶加敦</nuxt-link></li>
             </ul>
           </div>
           <div class="col-md-2">
@@ -81,10 +81,10 @@
               <li><nuxt-link to="/maps/Bog_Islands">沼澤</nuxt-link></li>
               <li><nuxt-link to="/maps/Mangrove_Jungle">紅樹林</nuxt-link></li>
               <li>
-                <nuxt-link to="/Pacific_maps/Islands">太平洋群島</nuxt-link>
+                <nuxt-link to="/maps/Pacific_Islands">太平洋群島</nuxt-link>
               </li>
               <li><nuxt-link to="/maps/Sandbank">沙洲</nuxt-link></li>
-              <li><nuxt-link to="/Water_maps/Nomad">水上游牧</nuxt-link></li>
+              <li><nuxt-link to="/maps/Water_Nomad">水上游牧</nuxt-link></li>
             </ul>
           </div>
         </div>

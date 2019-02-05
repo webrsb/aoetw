@@ -31,10 +31,9 @@
           <ul>
             <li>
               熱那亞弩手是一個能對付騎兵的弓箭手。即使是強大的大象單位（如<nuxt-link
-                to="/War_unitsanimal/Elephant"
+                to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >和<nuxt-link to="/Ballista_unitsanimal/Elephant"
-                >矛象伕</nuxt-link
+              >和<nuxt-link to="/units/Ballista_Elephant">矛象伕</nuxt-link
               >）在面對大量熱那亞弩手的時候也毫無招架之力，不過在面對
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
               ><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
@@ -46,8 +45,8 @@
                 >騎士</nuxt-link
               >以及<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >。有一定數量後也可對付一些較弱的弓兵單位，不過
-              <nuxt-link to="/Rattan_units/Archer">藤甲弓手</nuxt-link
-              >和<nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+              <nuxt-link to="/units/Rattan_Archer">藤甲弓手</nuxt-link
+              >和<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >還是能贏過他們的。騎兵部隊仍然可以在一對一的戰鬥中擊敗熱那亞弩手。
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >對熱那亞弩手仍舊是個威脅，不過他們有足夠的HP可以扛一下傷害。<nuxt-link
@@ -91,7 +90,7 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/Cavalry_units/Archer">馬騎弓兵</nuxt-link>、
+              >、<nuxt-link to="/units/Cavalry_Archer">馬騎弓兵</nuxt-link>、
               <nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link>。
             </td>
           </tr>
@@ -467,7 +466,7 @@
             >、
             <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
             >、<nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
-            >和<nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>。
+            >和<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>。
           </li>
           <li>
             熱那亞弩手對騎兵的加成傷害可能是指教皇在1096年禁止武器的禁令。禁令的頒布是因為一名經過多年軍事訓練的騎士可輕易地被一個幾乎沒有受過訓練或使用過弩的農民殺死。結果，弩被認為是對統治精英的威脅，讓他們遊說羅馬天主教會禁止這些武器。

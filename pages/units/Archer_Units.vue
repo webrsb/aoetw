@@ -14,7 +14,7 @@
             遠距離單位是遊戲中四類軍事單位之一，另外三種分別是步兵單位、騎兵單位與攻城武器單位。遠距離單位包含矛兵、弩兵、馬弓騎兵、火槍兵與西班牙征服者等
           </p>
           <br /><strong
-            >這邊說的遠距離單位，不包含飛刀女獵手、擲斧兵、手風琴砲、弩砲象與攻城武器。</strong
+            >這邊說的遠距離單位，不包含飛刀女獵手、擲斧兵、風琴砲、弩砲象與攻城武器。</strong
           >
         </div>
         <h3>概要</h3>
@@ -227,7 +227,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CavalryArcherIcon.jpg" /><nuxt-link
-                  to="/Cavalry_units/Archer"
+                  to="/units/Cavalry_Archer"
                   >馬弓騎兵</nuxt-link
                 >
               </td>
@@ -255,7 +255,7 @@
                 <img
                   class="gg"
                   src="~assets/HeavyCavArcherIcon.jpg"
-                /><nuxt-link to="/Heavy_Cavalry_units/Archer"
+                /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                   >重裝馬弓騎兵</nuxt-link
                 >
               </td>
@@ -649,7 +649,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/PlumedArcherIcon.jpg" /><nuxt-link
-                  to="/Plumed_units/Archer"
+                  to="/units/Plumed_Archer"
                   >羽毛箭射手</nuxt-link
                 >
               </td>
@@ -675,7 +675,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/PlumedArcherIcon.jpg" /><nuxt-link
-                  to="/Plumed_units/Archer"
+                  to="/units/Plumed_Archer"
                   >精銳羽毛箭射手</nuxt-link
                 >
               </td>
@@ -755,7 +755,7 @@
                 <img
                   class="gg"
                   src="~assets/ElephantArcherIcon.jpg"
-                /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>
+                /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>
               </td>
               <td class="tta3">280</td>
               <!--生命值!-->
@@ -781,7 +781,7 @@
                 <img
                   class="gg"
                   src="~assets/ElephantArcherIcon.jpg"
-                /><nuxt-link to="/Elephant_units/Archer"
+                /><nuxt-link to="/units/Elephant_Archer"
                   >精銳象弓騎兵</nuxt-link
                 >
               </td>
@@ -809,7 +809,7 @@
                 <img
                   class="gg"
                   src="~assets/New_Genoese_Crossbowman.png"
-                /><nuxt-link to="/Genoese_units/Crossbowman"
+                /><nuxt-link to="/units/Genoese_Crossbowman"
                   >熱那亞弩手</nuxt-link
                 >
               </td>
@@ -837,7 +837,7 @@
                 <img
                   class="gg"
                   src="~assets/New_Genoese_Crossbowman.png"
-                /><nuxt-link to="/Genoese_units/Crossbowman"
+                /><nuxt-link to="/units/Genoese_Crossbowman"
                   >精銳熱那亞弩手</nuxt-link
                 >
               </td>
@@ -863,7 +863,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CamelArcherIcon.jpg" /><nuxt-link
-                  to="/Camel_units/Archer"
+                  to="/units/Camel_Archer"
                   >駱駝弓騎兵</nuxt-link
                 >
               </td>
@@ -889,7 +889,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CamelArcherIcon.jpg" /><nuxt-link
-                  to="/Camel_units/Archer"
+                  to="/units/Camel_Archer"
                   >精銳駱駝弓騎兵</nuxt-link
                 >
               </td>
@@ -967,7 +967,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/RattanarcherIcon2.png" /><nuxt-link
-                  to="/Rattan_units/Archer"
+                  to="/units/Rattan_Archer"
                   >藤甲弓兵</nuxt-link
                 >
               </td>
@@ -993,7 +993,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/RattanarcherIcon2.png" /><nuxt-link
-                  to="/Rattan_units/Archer"
+                  to="/units/Rattan_Archer"
                   >精銳藤甲弓兵</nuxt-link
                 >
               </td>

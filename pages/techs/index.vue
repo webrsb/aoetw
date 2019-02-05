@@ -494,7 +494,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Drydock.jpg" alt="" /><nuxt-link
-                to="/Dry_building/Dock"
+                to="/techs/Dry_Dock"
                 >旱碼頭</nuxt-link
               >
             </td>

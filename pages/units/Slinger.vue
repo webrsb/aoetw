@@ -86,7 +86,7 @@
                 to="/units/Cavalry_Units"
                 >騎兵單位</nuxt-link
               >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>、、
-              <nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link>。
+              <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -469,12 +469,12 @@
                 to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
               >、
-              <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link
+              <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>。
             </li>
             <li>
               投石手是少數幾個完全沒有防禦的特殊單位之一，其他是<nuxt-link
-                to="/Imperial_units/Camel"
+                to="/units/Imperial_Camel"
                 >帝王駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>。
             </li>

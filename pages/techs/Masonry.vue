@@ -35,8 +35,9 @@
               to="/units/Villager"
               >村民</nuxt-link
             >、<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>、
-            <nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link
-            >和<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+            <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
+              to="/units/Camel"
+              >駱駝騎兵</nuxt-link
             >的攻擊有減傷效果；步兵和弓兵則沒有減傷效果
           </p>
         </div>

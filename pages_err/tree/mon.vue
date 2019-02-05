@@ -151,7 +151,7 @@
           <img class="gg" src="~assets/EliteSkirmisherIcon.jpg"><nuxt-link to="/units/Elite_Skirmisher"><div>戰矛兵</div></nuxt-link><i class="fas fa-arrow-down"></i> 
         </td>
         <td class="t15 trm">
-          <img class="gg" src="~assets/CavalryArcherIcon.jpg"><nuxt-link to="/Cavalry_units/Archer"><div>馬弓騎兵</div></nuxt-link><i class="fas fa-arrow-down"></i> 
+          <img class="gg" src="~assets/CavalryArcherIcon.jpg"><nuxt-link to="/units/Cavalry_Archer"><div>馬弓騎兵</div></nuxt-link><i class="fas fa-arrow-down"></i> 
         </td>
         <td class="t15 trm not">
           <img class="gg" src="~assets/Slingericon.png"><nuxt-link to="/units/Slinger"><div>投石手</div></nuxt-link>
@@ -173,7 +173,7 @@
           <img class="gg" src="~assets/Imperialskirmishericon.png"><nuxt-link to="/units/Imperial_Skirmisher"><div>帝王戰矛兵</nuxt-link>
         </td>
         <td class="t15 trm ">
-          <img class="gg" src="~assets/HeavyCavArcherIcon.jpg"><nuxt-link to="/Heavy_Cavalry_units/Archer"><div>重裝馬弓騎兵</nuxt-link>
+          <img class="gg" src="~assets/HeavyCavArcherIcon.jpg"><nuxt-link to="/units/Heavy_Cavalry_Archer"><div>重裝馬弓騎兵</nuxt-link>
         </td>
         <td class="t15 trm ">
           <img class="gg" src="~assets/HandCannoneerIcon.jpg"><nuxt-link to="/units/Hand_Cannoneer"><div>火槍兵</nuxt-link>
@@ -212,9 +212,9 @@
       ">匈牙利輕騎兵</nuxt-link></div></td>          <td class="t19 trm "><img class="gg " src="~assets/CavalierIcon.jpg "><div><nuxt-link to="/units/Cavalier
       ">騎兵</nuxt-link></div>            <i class="fas fa-arrow-down "></i><br/><img class="gg not " src="~assets/PaladinIcon.jpg
       "><div><nuxt-link to="/units/Paladin " class="not ">遊俠</nuxt-link></div></td>          <td class="t19 trm
-      "><img class="gg " src="~assets/HeavyCamelIcon.jpg "><div><nuxt-link to="/Heavy_units/Camel
+      "><img class="gg " src="~assets/HeavyCamelIcon.jpg "><div><nuxt-link to="/units/Heavy_Camel
       ">重裝駱駝騎兵</nuxt-link></div><i class="fas fa-arrow-down "></i><br/><img class="gg not " src="~assets/ImperialCamelIcon.jpg
-      "><div><nuxt-link to="/Imperial_units/Camel " class="not
+      "><div><nuxt-link to="/units/Imperial_Camel " class="not
       ">帝王駱駝騎兵</nuxt-link></div></td>          <td class="t19 trm not "><img class="gg " src="~assets/Battleelephanticon.png
       "><div><nuxt-link to="/units/Elite_Battle_Elephant ">精銳矛象伕</nuxt-link></div></td>          <td class="t19
       trm "></td>        </tr>    </table>         <table class="table
@@ -379,7 +379,7 @@
       ">火戰船</nuxt-link></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm
       "><img class="gg " src="~assets/DemoShipIcon.jpg "><div><nuxt-link to="/units/Demolition_Ship
       ">神風船</nuxt-link></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm
-      "><img class="gg " src="~assets/WarGalley.jpg "><div><nuxt-link to="/War_units/Galley
+      "><img class="gg " src="~assets/WarGalley.jpg "><div><nuxt-link to="/units/War_Galley
       ">弩炮戰船</nuxt-link></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm not
       "><img class="gg " src="~assets/LongboatIcon.jpg "><div><nuxt-link to="/units/Longboat
       ">維京大戰船</nuxt-link></div><i class="fas fa-arrow-down "></i></td>          <td class="t10 trm not
@@ -396,7 +396,7 @@
       ">帝王時代</nuxt-link></td>            <td class="t10 trm "><img class="gg " src="~assets/FastFireShipIcon.jpg
       "><div><nuxt-link to="/units/Fast_Fire_Ship
       ">快速火戰船</nuxt-link></div></td>                      <td class="t10 trm "><img class="gg " src="~assets/HeavyDemoShipIcon.jpg
-      "><div><nuxt-link to="/Heavy_units/Demolition_Ship
+      "><div><nuxt-link to="/units/Heavy_Demolition_Ship
       ">重型神風船</nuxt-link></div></td>                                <td class="t10 trm "><img class="gg " src="~assets/GalleonAoE2.jpg "><div><nuxt-link to="/units/Galleon
       ">重型弩炮戰船</nuxt-link></div></td>                    <td class="t10 trm not "><img class="gg " src="~assets/LongboatIcon.jpg
       "><div><nuxt-link to="/units/Longboat ">精銳維京大戰船</nuxt-link></div></td>          <td class="t10 trm not
@@ -407,7 +407,7 @@
       ">火炮戰船</nuxt-link></div><i class="fas fa-arrow-down "></i><br/><img class="gg not " src="~assets/CannonGalleonIcon.jpg
       "><div><nuxt-link to="/units/Elite_Cannon_Galleon " class="not
       ">精銳火炮戰船</nuxt-link></div></td>           <td class="t10 trm not "><img class="gg " style="margin: 2px; " src="~assets/Drydock.jpg
-      " alt=""><div><nuxt-link to="/Dry_building/Dock
+      " alt=""><div><nuxt-link to="/techs/Dry_Dock
       ">旱碼頭</nuxt-link></div></td>                   <td class="t10 trm "><img class="gg " style="margin: 2px; " src="~assets/Shipwright.jpg
       " alt=""><div><nuxt-link to="/techs/Shipwright
       ">造船匠</nuxt-link></div></td>        </tr>    </table>          <table class="table " style="margin-top:50px; ">         <tr>            <td class="trm

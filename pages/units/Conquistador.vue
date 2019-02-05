@@ -30,12 +30,12 @@
           <ul>
             <li>
               征服者是具有高攻擊力的騎兵，但和<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >的玩法類似。征服者在機動性和持久性方面比
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >具有優勢。雖然他們是最短距離的火藥單位，也不像<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >受益於科技的範圍增加，他們的機動性使他們變得強大而且致命，讓他們非常適合使用打帶跑戰術。在團隊中他們可以製造巨量傷害破壞敵人的陣型。征服者經常搭配
               <nuxt-link to="/units/Knight">騎士</nuxt-link
@@ -52,7 +52,7 @@
               >可以傷到征服者，只要他們能追到征服者。<nuxt-link
                 to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
-              >也是有效的，雖然不如對付<nuxt-link to="/Cavalry_units/Archer"
+              >也是有效的，雖然不如對付<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >那樣有效，而且征服者打他們也很痛。
             </li>
@@ -82,7 +82,7 @@
               <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
                 to="/units/Berserk"
                 >狂戰士</nuxt-link
-              >、<nuxt-link to="/Genoese_units/Crossbowman"
+              >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
@@ -238,14 +238,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -365,7 +365,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -390,7 +390,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>

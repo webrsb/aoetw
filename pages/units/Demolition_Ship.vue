@@ -28,7 +28,7 @@
         <div class="n1">
           <p>
             神風船的使用類似於巡航導彈，用來對付關鍵目標（如滿載的運輸船）。它的範圍傷害可以一擊就打死大部分船隻或船隊，但由於它是一個自殺單位，若使用不當則投資報酬率會非常低。神風船和重型神風船是遊戲中速度最快的軍艦（特別是在研究了
-            <nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link
+            <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
             >的情況下），比大多數海軍單位快得多。由於神風船幾乎所有的文明都可以使用，某些海軍技術水平差的文明可能會在艦隊中加入神風船使用。神風船對戰船、火戰船和運輸船都十分有效。但是他們對重武裝的
             <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
             >還有維<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
@@ -98,7 +98,7 @@
                 style="margin: 2px;"
                 src="~assets/Drydock.jpg"
                 alt=""
-              /><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link>(+15%)
+              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
             </td>
           </tr>
           <tr>
@@ -224,13 +224,13 @@
                   </li>
                   <li>
                     <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                    <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -284,15 +284,14 @@
                       class="gg"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                      >弩炮象</nuxt-link
+                    /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                      >精銳弩炮象</nuxt-link
+                    /><nuxt-link to="/units/Ballista_Elephant"
+                      >精銳弩砲象</nuxt-link
                     >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                   </li>
                 </ul>
@@ -339,7 +338,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -351,7 +350,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -498,8 +497,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
                 to="/techs/Careening"
                 >傾側維修術</nuxt-link
-              >，
-              <nuxt-link to="/Dry building/Dock">旱碼頭</nuxt-link>和<nuxt-link
+              >， <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船匠</nuxt-link
               >便宜50％。
@@ -510,7 +508,7 @@
                 to="/techs/Careening"
                 >傾側維修術</nuxt-link
               >的速度在城堡/帝王提高15%/20％。研究
-              <nuxt-link to="/Dry building/Dock">旱碼頭</nuxt-link
+              <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
               >和升級重型神風船的速度快20％。
             </li>
             <li>
@@ -731,7 +729,7 @@
                 class="gg"
                 src="~assets/HeavyDemoShipIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Heavy_units/Demolition_Ship"
+              /><nuxt-link to="/units/Heavy_Demolition_Ship"
                 >重型神風船</nuxt-link
               >
             </td>

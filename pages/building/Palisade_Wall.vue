@@ -141,7 +141,7 @@
           <ul>
             <li>木牆需要5秒建築時間。</li>
             <li>
-              引入<nuxt-link to="/Palisade_building/Gate">木門</nuxt-link>。
+              引入<nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>:引入<nuxt-link

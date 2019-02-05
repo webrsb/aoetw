@@ -70,7 +70,7 @@
               >：最多20位單位（<nuxt-link to="/units/Trebuchet"
                 >投石機</nuxt-link
               >及<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >城堡特殊單位<nuxt-link to="/civs/Organ_Gun">手風琴砲</nuxt-link
+              >城堡特殊單位<nuxt-link to="/civs/Organ_Gun">風琴砲</nuxt-link
               >撤離後無法再進駐）
             </li>
             <li>
@@ -131,7 +131,7 @@
               >：村民、徒步弓兵、騎馬弓手、陸地<nuxt-link
                 to="/units/Gunpowder_Unit"
                 >火藥單位</nuxt-link
-              >（<nuxt-link to="/units/Organ_Gun">手風琴砲</nuxt-link>除外）
+              >（<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>除外）
             </li>
 
             <p>

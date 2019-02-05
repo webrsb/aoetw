@@ -101,7 +101,7 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >、重裝騎兵和<nuxt-link to="/units/Infantry_Units"
@@ -343,7 +343,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -355,7 +355,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>
@@ -425,7 +425,7 @@
         <div class="n1">
           <p>
             精銳彎刀勇士的18攻擊力比任何的步兵單位要高。它同時有遊戲中第二高的近戰攻擊力，僅次於精銳<nuxt-link
-              to="/War_unitsanimal/Elephant"
+              to="/units/War_Elephant"
               >波斯戰象</nuxt-link
             >。
           </p>

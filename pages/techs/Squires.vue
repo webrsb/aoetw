@@ -259,7 +259,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/Crusade_avatar.png" /><nuxt-link
-                to="/Teutonic_units/Knight"
+                to="/units/Teutonic_Knight"
                 >條頓武士(精銳)</nuxt-link
               >
             </td>

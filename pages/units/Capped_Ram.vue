@@ -20,7 +20,7 @@
             <li>
               駐紮步兵數量2→移動速度0.6(<nuxt-link to="/units/Siege_Ram"
                 >重型衝撞車</nuxt-link
-              >、<nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link
+              >、<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >移動速度0.6)
             </li>
             <li>
@@ -258,7 +258,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>

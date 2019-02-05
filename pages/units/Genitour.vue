@@ -76,13 +76,13 @@
               長槍兵系、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、
               <nuxt-link to="/civs/Incas">印加</nuxt-link
               ><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、
-              <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩兵</nuxt-link
+              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩兵</nuxt-link
               >、
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >打標槍騎兵有加成
             </li>
             <li>
-              <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link> vs.
+              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link> vs.
               標槍騎兵 +6，標槍騎兵 vs. 駱駝弓騎兵(馬弓騎兵系)
               +5，與駱駝弓騎兵對打會輸
             </li>
@@ -128,7 +128,7 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >。
             </td>
@@ -140,7 +140,7 @@
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
               >、<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link>、
-              <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link
+              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
@@ -385,9 +385,9 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                  <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
+                  <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
                   <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt="" />
-                  <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link
+                  <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
                   >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link
                   >限定)
                 </li>
@@ -492,7 +492,7 @@
                     src="~assets/New_Genoese_Crossbowman.png"
                     alt=""
                   />
-                  <nuxt-link to="/Genoese_units/Crossbowman"
+                  <nuxt-link to="/units/Genoese_Crossbowman"
                     >精銳熱那亞弩手</nuxt-link
                   >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                 </li>
@@ -513,7 +513,7 @@
                     src="~assets/CamelArcherIcon.jpg"
                     alt=""
                   />
-                  <nuxt-link to="/Camel_units/Archer">精銳駱駝弓騎兵</nuxt-link
+                  <nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
                   >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                 </li>
                 <li>
@@ -532,7 +532,7 @@
                     class="gg"
                     src="~assets/New_Genoese_Crossbowman.png"
                     alt=""
-                  /><nuxt-link to="/Genoese_units/Crossbowman"
+                  /><nuxt-link to="/units/Genoese_Crossbowman"
                     >熱那亞弩手</nuxt-link
                   >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                 </li>
@@ -561,7 +561,7 @@
                     src="~assets/CamelArcherIcon.jpg"
                     alt=""
                   />
-                  <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+                  <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
                   >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                 </li>
                 <li>

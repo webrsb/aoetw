@@ -89,8 +89,7 @@
                 class="gg "
                 src="~assets/Joanofarcicon.png"
                 alt=""
-              /><nuxt-link to="/Joan_of_Arc_units/Champion ">聖女貞德</nuxt-link
-              ><br />
+              /><nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link><br />
               <img class="gg" src="~assets/Dukedalencon.png" alt="" /><nuxt-link
                 to="/Duke_D'Alençon.php"
                 >阿朗松公爵</nuxt-link

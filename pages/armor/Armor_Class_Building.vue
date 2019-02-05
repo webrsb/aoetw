@@ -158,7 +158,7 @@
                     class="gg"
                     src="~assets/Palisadegateicon.png"
                     alt=""
-                  /><nuxt-link to="/Palisade_building/Gate">木門</nuxt-link>
+                  /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -271,7 +271,7 @@
                   class="gg"
                   src="~assets/HeavyDemoShipIcon.jpg"
                   alt=""
-                /><nuxt-link to="/Heavy_units/Demolition_Ship"
+                /><nuxt-link to="/units/Heavy_Demolition_Ship"
                   >重型神風船</nuxt-link
                 >
               </li>
@@ -373,7 +373,7 @@
                   class="gg"
                   src="~assets/SiegeOnagerIcon.jpg"
                   alt=""
-                /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+45攻擊</strong></div>
@@ -410,8 +410,7 @@
                   src="~assets/WarElephantIcon.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/War_unitsanimal/Elephant"
-                  >精銳波斯戰象</nuxt-link
+                /><nuxt-link to="/units/War_Elephant">精銳波斯戰象</nuxt-link
                 >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
               </li>
               <li>
@@ -479,7 +478,7 @@
                   src="~assets/WarElephantIcon.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link
+                /><nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
                 >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
               </li>
               <li>
@@ -524,8 +523,7 @@
                   class="gg"
                   src="~assets/Ballistaelephanticon.png"
                   alt=""
-                /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                  >精銳弩炮象</nuxt-link
+                /><nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
                 >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
               </li>
             </ul>
@@ -568,8 +566,7 @@
                   class="gg"
                   src="~assets/Ballistaelephanticon.png"
                   alt=""
-                /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                  >弩炮象</nuxt-link
+                /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link
                 >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
               </li>
               <li>
@@ -684,7 +681,7 @@
                     class="gg"
                     src="~assets/SiegeOnagerIcon.jpg"
                     alt=""
-                  /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                  /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
@@ -721,8 +718,8 @@
                     class="gg"
                     src="~assets/Ballistaelephanticon.png"
                     alt=""
-                  /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                    >精銳弩炮象</nuxt-link
+                  /><nuxt-link to="/units/Ballista_Elephant"
+                    >精銳弩砲象</nuxt-link
                   >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                 </li>
               </ul>
@@ -856,12 +853,12 @@
                 class="gg"
                 src="~assets/HeavyCamelIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/ImperialCamelIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Imperial units/Camel">帝王駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
               >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link
               >限定)
             </li>
@@ -873,12 +870,12 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">精銳駱駝弓騎兵</nuxt-link
+              /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
               >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
             </li>
             <li>

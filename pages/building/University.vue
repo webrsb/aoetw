@@ -26,7 +26,7 @@
               to="/units/Crossbowman"
               >弩兵</nuxt-link
             >或是
-            <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >當主力的打法，學院通常會一上城堡就蓋。而上了帝王後<nuxt-link
               to="/techs/Chemistry"
               >化學</nuxt-link

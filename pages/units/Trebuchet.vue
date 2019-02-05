@@ -306,7 +306,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>

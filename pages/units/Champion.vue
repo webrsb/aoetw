@@ -145,7 +145,7 @@
                 to="/units/Janissary"
                 >土耳其火槍兵</nuxt-link
               >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、
-              <nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link>。
+              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -417,7 +417,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -429,7 +429,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

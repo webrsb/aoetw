@@ -25,7 +25,7 @@
         <div class="n1">
           <ul>
             <li>
-              如果玩家依賴弓箭手和<nuxt-link to="/Genoese_units/Crossbowman"
+              如果玩家依賴弓箭手和<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >做為進攻/防守的選擇，那麼巨盾要盡早研發。
             </li>
@@ -71,7 +71,7 @@
           <ul>
             <li>巨盾成本為550肉300金。</li>
             <li>
-              巨盾只影響<nuxt-link to="/Genoese_units/Crossbowman"
+              巨盾只影響<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >。
             </li>
@@ -82,7 +82,7 @@
           <ul>
             <li>巨盾現在成本為300肉150金。</li>
             <li>
-              巨盾現在會影響不只<nuxt-link to="/Genoese_units/Crossbowman"
+              巨盾現在會影響不只<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >以外的所有徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >(包括 <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>)。

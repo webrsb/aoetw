@@ -17,7 +17,7 @@
             >研發。研發後所有
             <nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
             >(包括<nuxt-link to="/units/Elite_Battle_Elephant"
-              >精銳弩炮象</nuxt-link
+              >精銳弩砲象</nuxt-link
             >)對建築物傷害+20%(
             <nuxt-link to="/units/Petard">炸藥桶</nuxt-link
             >+200攻擊)，攻擊距離+1(除了衝撞車)。

@@ -128,7 +128,7 @@
                 src="~assets/Palisadegateicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Palisade_building/Gate">木門</nuxt-link
+              /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link
               >：可與木牆蓋在一起，讓友方單位通過
             </li>
           </ul>

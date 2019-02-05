@@ -236,7 +236,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
@@ -583,7 +583,7 @@
                 </li>
                 <li>
                   5名條頓武士駐守在衝撞車內的速度是0.75，而<nuxt-link
-                    to="/Teutonic_units/Knight"
+                    to="/units/Teutonic_Knight"
                     >條頓武士</nuxt-link
                   >速度為0.7，但研發
                   <nuxt-link to="/techs/Squires">護衛技術</nuxt-link

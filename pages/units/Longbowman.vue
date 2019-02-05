@@ -36,7 +36,7 @@
           </p>
           <p>
             在近戰單位的保護下，長弓手能夠完美的輸出給予對手沉痛的打擊。倘若沒有保護的近戰單位，組織的長弓手能夠利用風箏技巧打擊接近的敵人，但面對
-            <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >與移動快速騎兵單位，難以發揮效果。
           </p>
           <p>
@@ -52,7 +52,7 @@
           </p>
           <p>
             長弓手在面對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
-            >，例如<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>與
+            >，例如<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>與
             <nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
             >時，能夠在攻城器攻擊範圍外先摧毀目標。但長弓手在攻城器的攻擊範圍下，將會承受毀滅性的打擊。
           </p>

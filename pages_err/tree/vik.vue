@@ -152,7 +152,7 @@
               <img class="gg" src="~assets/EliteSkirmisherIcon.jpg"><nuxt-link to="/units/Elite_Skirmisher"><div>戰矛兵</div></nuxt-link><i class="fas fa-arrow-down"></i> 
             </td>
             <td class="t15 trm">
-              <img class="gg" src="~assets/CavalryArcherIcon.jpg"><nuxt-link to="/Cavalry_units/Archer"><div>馬弓騎兵</div></nuxt-link><i class="fas fa-arrow-down"></i> 
+              <img class="gg" src="~assets/CavalryArcherIcon.jpg"><nuxt-link to="/units/Cavalry_Archer"><div>馬弓騎兵</div></nuxt-link><i class="fas fa-arrow-down"></i> 
             </td>
             <td class="t15 trm not">
               <img class="gg" src="~assets/Slingericon.png"><nuxt-link to="/units/Slinger"><div>投石手</div></nuxt-link>
@@ -174,7 +174,7 @@
               <img class="gg" src="~assets/Imperialskirmishericon.png"><nuxt-link to="/units/Imperial_Skirmisher"><div>帝王戰矛兵</div></nuxt-link>
             </td>
             <td class="t15 trm not">
-              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg"><nuxt-link to="/Heavy_Cavalry_units/Archer"><div>重裝馬弓騎兵</div></nuxt-link>
+              <img class="gg" src="~assets/HeavyCavArcherIcon.jpg"><nuxt-link to="/units/Heavy_Cavalry_Archer"><div>重裝馬弓騎兵</div></nuxt-link>
             </td>
             <td class="t15 trm not">
               <img class="gg" src="~assets/HandCannoneerIcon.jpg"><nuxt-link to="/units/Hand_Cannoneer"><div>火槍兵</div></nuxt-link>
@@ -259,11 +259,11 @@
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/HeavyCamelIcon.jpg">
-              <div><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>
+              <div><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
               </div><i class="fas fa-arrow-down"></i>
               <br/>
               <img class="gg not" src="~assets/ImperialCamelIcon.jpg">
-              <div><nuxt-link to="/Imperial_units/Camel" class="not">帝王駱駝騎兵</nuxt-link>
+              <div><nuxt-link to="/units/Imperial_Camel" class="not">帝王駱駝騎兵</nuxt-link>
               </div>
             </td>
             <td class="t19 trm not">
@@ -324,7 +324,7 @@
           </div><i class="fas fa-arrow-down"></i>
           <br/>
           <img class="gg not" src="~assets/SiegeOnagerIcon.jpg" width="30" alt="">
-          <div><nuxt-link to="/Siege_units/Onager" >重型投石車</nuxt-link>
+          <div><nuxt-link to="/units/Siege_Onager" >重型投石車</nuxt-link>
           </div>
         </td>
         <td class="t23 trm">
@@ -696,7 +696,7 @@
         </td>
         <td class="t10 trm">
           <img class="gg" src="~assets/WarGalley.jpg">
-          <div><nuxt-link to="/War_units/Galley">弩炮戰船</nuxt-link>
+          <div><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
           </div><i class="fas fa-arrow-down"></i>
         </td>
         <td class="t10 trm">
@@ -737,7 +737,7 @@
         </td>
         <td class="t10 trm">
           <img class="gg" src="~assets/HeavyDemoShipIcon.jpg">
-          <div><nuxt-link to="/Heavy_units/Demolition_Ship">重型神風船</nuxt-link>
+          <div><nuxt-link to="/units/Heavy_Demolition_Ship">重型神風船</nuxt-link>
           </div>
         </td>
         <td class="t10 trm">
@@ -771,7 +771,7 @@
         </td>
         <td class="t10 trm">
           <img class="gg" style="margin: 2px;" src="~assets/Drydock.jpg" alt="">
-          <div><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link>
+          <div><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>
           </div>
         </td>
         <td class="t10 trm not">

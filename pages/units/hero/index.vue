@@ -664,7 +664,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/ChampionIcon.jpg" alt="" /><nuxt-link
-                to="/Siegfried.php"
+                to="/units/hero/Siegfried"
                 >齊格非</nuxt-link
               >
             </td>
@@ -1050,7 +1050,7 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">輕騎兵</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/Bukhara(557).php">布哈拉(557)</nuxt-link>
+                  <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>
                   <br /><nuxt-link to="/batt/Djeriba_Gold"
                     >傑爾巴島的黃金</nuxt-link
                   >
@@ -1357,7 +1357,7 @@
                     <td class="tunitc4">騎兵</td>
                     <td class="tunitc6">拜占庭聖騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/Bukhara(557).php">布哈拉(557)</nuxt-link>
+                      <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>
                     </td>
                   </tr>
                   <tr>
@@ -1423,7 +1423,7 @@
                             class="gg"
                             src="~assets/ImperialCamelIcon.jpg"
                             alt=""
-                          /><nuxt-link to="/Batree/bur">巴卑爾</nuxt-link>
+                          /><nuxt-link to="/units/hero/Babur">巴卑爾</nuxt-link>
                         </td>
                         <td class="tunitc4">騎兵</td>
                         <td class="tunitc6">帝王駱駝騎兵</td>

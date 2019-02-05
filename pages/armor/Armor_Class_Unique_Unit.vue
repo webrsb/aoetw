@@ -153,15 +153,13 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_unitsanimal/Elephant"
-                      >波斯戰象</nuxt-link
-                    >→
+                    /><nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_unitsanimal/Elephant"
+                    /><nuxt-link to="/units/War_Elephant"
                       >精銳波斯戰象</nuxt-link
                     >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
                   </li>
@@ -187,13 +185,13 @@
                       class="gg"
                       src="~assets/Crusade_avatar.png"
                       alt=""
-                    /><nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
+                    /><nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/Crusade_avatar.png"
                       alt=""
-                    /><nuxt-link to="/Teutonic_units/Knight"
+                    /><nuxt-link to="/units/Teutonic_Knight"
                       >精銳條頓武士</nuxt-link
                     >(<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定)
                   </li>
@@ -300,13 +298,13 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -369,14 +367,14 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -433,13 +431,13 @@
                       class="gg"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+                    /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Camel_units/Archer"
+                    /><nuxt-link to="/units/Camel_Archer"
                       >精銳駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
@@ -494,10 +492,10 @@
                 <ul>
                   <li>
                     <img src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
-                      to="/OrganGun.php"
+                      to="/units/Organ_Gun"
                       >風琴炮</nuxt-link
                     >→ <img src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
-                      to="/OrganGun.php"
+                      to="/units/Organ_Gun"
                       >精銳風琴炮</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
@@ -534,15 +532,14 @@
                       class="gg"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                      >弩炮象</nuxt-link
+                    /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                      >精銳弩炮象</nuxt-link
+                    /><nuxt-link to="/units/Ballista_Elephant"
+                      >精銳弩砲象</nuxt-link
                     >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                   </li>
                 </ul>
@@ -570,12 +567,12 @@
                       class="gg"
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
-                    /><nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link>→
+                    /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
-                    /><nuxt-link to="/Rattan_units/Archer"
+                    /><nuxt-link to="/units/Rattan_Archer"
                       >精銳藤甲弓兵</nuxt-link
                     >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
                   </li>

@@ -34,12 +34,12 @@
                 class="gg"
                 src="~assets/CavalryArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/HeavyCavArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Heavy_Cavalry_units/Archer"
+              /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >精銳馬弓騎兵</nuxt-link
               >
             </li>
@@ -132,14 +132,14 @@
                 width="22"
                 alt=""
               />
-              <nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link>→
+              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/WarElephantIcon.jpg"
                 width="22"
                 alt=""
               />
-              <nuxt-link to="/War_unitsanimal/Elephant">精銳戰象</nuxt-link
+              <nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
               >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
             </li>
             <li>
@@ -203,12 +203,12 @@
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">精銳象弓騎兵</nuxt-link
+              /><nuxt-link to="/units/Elephant_Archer">精銳象弓騎兵</nuxt-link
               >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
             </li>
             <li>
@@ -252,14 +252,12 @@
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/Ballista_unitsanimal/Elephant">弩炮象</nuxt-link
-              >(-2)→
+              /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>(-2)→
               <img
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                >精銳弩炮象</nuxt-link
+              /><nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
               >(-2)(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
             </li>
           </ul>
@@ -298,14 +296,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -395,7 +393,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -407,7 +405,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>

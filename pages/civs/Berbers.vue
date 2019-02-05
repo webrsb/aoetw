@@ -15,7 +15,7 @@
             柏柏是非洲的騎兵和<nuxt-link to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >文明，世紀帝國II資料片非洲王國的所新增的文明。柏柏的特殊單位是
-            <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+            <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >這是歷史上真實的兵種曾經多次造成歐洲軍隊的麻煩，另外<nuxt-link
               to="/Team_Bonus"
               >團隊加分</nuxt-link
@@ -36,7 +36,7 @@
         <div class="n1">
           <ul>
             <li>
-              柏柏可說是<nuxt-link to="/Cavalry_units/Archer"
+              柏柏可說是<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵類</nuxt-link
               >的剋星，特殊單位駱駝弓騎兵不但攻擊間隔低又對馬弓騎兵有攻擊加成，更不用說的是柏柏給予同盟的標槍騎兵升級成精銳後也是對馬弓騎兵有更多加成傷害。
             </li>
@@ -71,7 +71,7 @@
               >，使得海軍建立上要花更多資源和時間。
             </li>
             <li>
-              柏柏攻城器上欠缺<nuxt-link to="/Siege_units/Onager"
+              柏柏攻城器上欠缺<nuxt-link to="/units/Siege_Onager"
                 >重型投石車</nuxt-link
               >/<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>，但擁有
               <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
@@ -131,7 +131,7 @@
             <li>船隻移動速度+10%</li>
             <li>馬廄單位訓練成本，城堡時代便宜15%、帝王時代便宜20%</li>
             <li>
-              <strong><nuxt-link to="/  ">團隊加分</nuxt-link>:</strong
+              <strong><nuxt-link to="/Team_Bonus">團隊加分</nuxt-link>:</strong
               >同盟可以在射箭場訓練標槍騎兵
             </li>
           </ul>

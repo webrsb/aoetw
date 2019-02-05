@@ -59,7 +59,7 @@
                 class="gg"
                 src="~assets/SiegeOnagerIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+              /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" /><nuxt-link
@@ -108,14 +108,12 @@
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/Ballista_unitsanimal/Elephant">弩炮象</nuxt-link
-              >(-2)→
+              /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>(-2)→
               <img
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                >精銳弩炮象</nuxt-link
+              /><nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
               >(-2)(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
             </li>
           </ul>
@@ -214,7 +212,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>

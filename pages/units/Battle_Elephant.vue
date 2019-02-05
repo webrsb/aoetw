@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             矛象伕是東南亞文明城堡時代的兵種，可訓練於馬廄，與<nuxt-link
-              to="/War_unitsanimal/Elephant"
+              to="/units/War_Elephant"
               >波斯戰象</nuxt-link
             >相似但攻擊與攻擊範圍較小，不過一樣都擁有
             <nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
@@ -129,16 +129,16 @@
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >、<nuxt-link to="/Genoese_units/Crossbowman"
+              >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、 <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/Heavy_units/Camel"
+                to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
-              >、<nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>、
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>、
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
                 >弩炮</nuxt-link
-              >、和<nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link>。
+              >、和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -344,14 +344,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -384,7 +384,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -417,7 +417,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -447,7 +447,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavyunits/Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>

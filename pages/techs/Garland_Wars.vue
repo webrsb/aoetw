@@ -29,7 +29,7 @@
               >替代騎兵成為阿茲的軍隊核心。與
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
               >搭配讓他們成為一支非常的危險部隊。即使<nuxt-link
-                to="/Teutonic_units/Knight"
+                to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
               >與他們碰頭也會陷入苦戰，因為在大規模的戰鬥中，豹戰士能夠擊敗他們。
             </li>

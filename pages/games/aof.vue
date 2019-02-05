@@ -61,7 +61,7 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/Slingericon.png" alt="" /><nuxt-link
@@ -81,7 +81,7 @@
                 src="~assets/New_Genoese_Crossbowman.png"
                 alt=""
                 width="22"
-              /><nuxt-link to="/Genoese_units/Crossbowman"
+              /><nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >
             </li>
@@ -90,7 +90,7 @@
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>
             </li>
             <li>
               <img

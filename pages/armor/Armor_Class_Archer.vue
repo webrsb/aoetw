@@ -48,9 +48,9 @@
             </li>
             <li>
               <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>→
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
               <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-              <nuxt-link to="/Heavy_Cavalry_units/Archer"
+              <nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >
             </li>
@@ -175,13 +175,13 @@
                 style="margin: 2px;"
                 src="~assets/PlumedArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link>→
+              /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
                 src="~assets/PlumedArcherIcon.jpg"
                 alt=""
-              />精銳<nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+              />精銳<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
             </li>
             <li>
@@ -205,13 +205,13 @@
                 style="margin: 2px;"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>(-2)→
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>(-2)→
               <img
                 class="gg"
                 style="margin: 2px;"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              />精銳<nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link
+              />精銳<nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
               >(-2)(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
             </li>
             <li>
@@ -220,14 +220,14 @@
                 style="margin: 2px;"
                 src="~assets/New_Genoese_Crossbowman.png"
                 alt=""
-              /><nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link
+              /><nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
               >→
               <img
                 class="gg"
                 style="margin: 2px;"
                 src="~assets/New_Genoese_Crossbowman.png"
                 alt=""
-              />精銳<nuxt-link to="/Genoese_units/Crossbowman"
+              />精銳<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
             </li>
@@ -237,13 +237,13 @@
                 style="margin: 2px;"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />精銳<nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+              />精銳<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >(<nuxt-link to="/civs/Incas">柏柏</nuxt-link>限定)
             </li>
             <li>
@@ -267,13 +267,13 @@
                 style="margin: 2px;"
                 src="~assets/RattanarcherIcon2.png"
                 alt=""
-              /><nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link>→
+              /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>→
               <img
                 class="gg"
                 style="margin: 2px;"
                 src="~assets/RattanarcherIcon2.png"
                 alt=""
-              />精銳<nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link
+              />精銳<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
               >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
             </li>
           </ul>

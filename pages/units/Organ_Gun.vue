@@ -5,18 +5,18 @@
     <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>手風琴砲</h1>
+        <h1>風琴砲</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            手風琴砲<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+            風琴砲<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
             >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。手風琴砲是攻城武器部隊前方範圍傷害，對衝撞車系列有加成傷害，少數在城堡時代就可訓練的火藥單位。
+            >中訓練。風琴砲是攻城武器部隊前方範圍傷害，對衝撞車系列有加成傷害，少數在城堡時代就可訓練的火藥單位。
           </p>
           <p><em>風琴炮介紹影片</em></p>
           <iframe
@@ -33,20 +33,20 @@
         <div class="n1">
           <ul>
             <li>
-              手風琴砲跟<nuxt-link to="/civs/Khmer">高棉</nuxt-link>的<nuxt-link
-                to="/Ballista_unitsanimal/Elephant"
+              風琴砲跟<nuxt-link to="/civs/Khmer">高棉</nuxt-link>的<nuxt-link
+                to="/units/Ballista_Elephant"
                 >弩砲象</nuxt-link
               >，同樣是特殊單位屬攻城武器單位。跟大部分攻城武器的優勢和劣勢一樣擁有範圍射程對大量單位效果好。
             </li>
             <li>
-              手風琴砲算是目前少數難以使用的特殊單位，原因是其功效跟<nuxt-link
+              風琴砲算是目前少數難以使用的特殊單位，原因是其功效跟<nuxt-link
                 to="/units/Mangonel"
                 >輕型投石車</nuxt-link
               >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
               >，僅多出近防2遠防升級後也只有6，優勢是需要的資源比較便宜只需要80木材60黃金、訓練時間比較短只需要21秒。
             </li>
             <li>
-              手風琴砲在特定情況下量產傷害是不錯的，但也僅此在量產後才有效果比其他攻城器單位真的是屬於劣勢。
+              風琴砲在特定情況下量產傷害是不錯的，但也僅此在量產後才有效果比其他攻城器單位真的是屬於劣勢。
             </li>
           </ul>
         </div>
@@ -236,7 +236,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
@@ -353,7 +353,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高手風琴砲的生產速度和
+              >能夠提高風琴砲的生產速度和
               <nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>及<nuxt-link
                 to="/techs/Conscription"
                 >徵兵制度</nuxt-link
@@ -367,11 +367,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：手風琴砲更不容易被招降。
+              >：風琴砲更不容易被招降。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >：手風琴砲生產速度+20%。
+              >：風琴砲生產速度+20%。
             </li>
           </ul>
         </div>
@@ -433,7 +433,7 @@
               colspan="2"
               style="background-color:#3c763d;text-align: center;"
             >
-              <div class="unititle" style="color: #fff">手風琴砲</div>
+              <div class="unititle" style="color: #fff">風琴砲</div>
             </td>
           </tr>
           <tr>
@@ -591,7 +591,7 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />手風琴砲
+              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />風琴砲
             </td>
           </tr>
           <tr>

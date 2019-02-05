@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於戰象系裝甲的。而關於戰象單位這個兵種的資料請參見<nuxt-link
-              to="/War_unitsanimal/Elephant"
+              to="/units/War_Elephant"
               >波斯戰象</nuxt-link
             ></em
           >
@@ -47,14 +47,13 @@
                 src="~assets/WarElephantIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link>→
+              /><nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/WarElephantIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/War_unitsanimal/Elephant"
-                >精銳波斯戰象</nuxt-link
+              /><nuxt-link to="/units/War_Elephant">精銳波斯戰象</nuxt-link
               >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
             </li>
             <li>
@@ -62,12 +61,12 @@
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">精銳象弓騎兵</nuxt-link
+              /><nuxt-link to="/units/Elephant_Archer">精銳象弓騎兵</nuxt-link
               >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
             </li>
             <li>
@@ -75,14 +74,12 @@
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/Ballista_unitsanimal/Elephant">弩炮象</nuxt-link
-              >(-2)→
+              /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>(-2)→
               <img
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                >精銳弩炮象</nuxt-link
+              /><nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
               >(-2)(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
             </li>
           </ul>
@@ -149,7 +146,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavyunits/Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
@@ -159,7 +156,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -171,7 +168,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>

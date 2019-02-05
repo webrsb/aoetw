@@ -97,7 +97,7 @@
                     src="~assets/SiegeOnagerIcon.jpg"
                     width="30"
                     alt=""
-                  /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                  /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                 </li>
                 <li>
                   <img

@@ -51,8 +51,9 @@
               >步兵</nuxt-link
             >/<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >，也可兩擊殺死除了
-            <nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link
-            >/<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
+            <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>/<nuxt-link
+              to="/units/Turtle_Ship"
+              >龜甲船</nuxt-link
             >以外的單位。然而他們容易被<nuxt-link to="/units/Trebuchet"
               >巨型投石機</nuxt-link
             >/

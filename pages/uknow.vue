@@ -106,7 +106,7 @@
               >外，所有有火槍兵的文明都有火砲。
             </li>
             <li>
-              <nuxt-link to="/Siege_units/Onager">哪一個兵種</nuxt-link
+              <nuxt-link to="/units/Siege_Onager">哪一個兵種</nuxt-link
               >，在失落的帝國之前，研發化學會變弱？
             </li>
             <li>

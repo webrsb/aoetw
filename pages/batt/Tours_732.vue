@@ -211,7 +211,7 @@
           <tr>
             <td class="unit3">版本</td>
             <td class="unit4">
-              <nuxt-link to="/next/games/aoc">征服者入侵</nuxt-link>
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
             </td>
           </tr>
           <tr>

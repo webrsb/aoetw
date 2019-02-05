@@ -52,9 +52,9 @@
               >，不過65HP可以讓他們承受<nuxt-link to="/units/Onager"
                 >中型投石車</nuxt-link
               >兩次的攻擊（
-              <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+              <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >還是一炮），並運用他們的速度輕鬆躲避敵人攻擊。<nuxt-link
-                to="/Rattan_units/Archer"
+                to="/units/Rattan_Archer"
                 >藤甲弓兵</nuxt-link
               >可以輕鬆擊敗羽毛弓箭手即使羽毛弓箭手本身也具有不俗的遠程裝甲。
               <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
@@ -91,7 +91,7 @@
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >、
-              <nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link
+              <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
               >、<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>。
             </td>
           </tr>

@@ -12,7 +12,7 @@
         <div class="spw">
           <em
             >這篇文章是將有關於馬弓騎兵系裝甲的。而關於馬弓騎兵這個單位請參見<nuxt-link
-              to="/Cavalry_units/Archer"
+              to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             ></em
           >
@@ -31,9 +31,9 @@
           <ul>
             <li>
               <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>→
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
               <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-              <nuxt-link to="/Heavy_Cavalry_units/Archer"
+              <nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >
             </li>
@@ -69,7 +69,7 @@
                 style="margin: 2px;"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">象弓騎兵(精銳)</nuxt-link
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
             </li>
             <li>
@@ -78,7 +78,7 @@
                 style="margin: 2px;"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵(精銳)</nuxt-link
+              /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
             </li>
             <li>
@@ -107,7 +107,7 @@
                       style="margin: 2px;"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Camel_units/Archer"
+                    /><nuxt-link to="/units/Camel_Archer"
                       >精銳駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
@@ -120,7 +120,7 @@
                       style="margin: 2px;"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+                    /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
                 </ul>

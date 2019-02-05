@@ -46,7 +46,7 @@
             >或是
             <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
             >。當然如果對自己的控兵有信心，用<nuxt-link
-              to="/Cavalry_units/Archer"
+              to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >也可以。當然<nuxt-link to="/units/Mangonel">投石車</nuxt-link>與
             <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
@@ -276,7 +276,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>

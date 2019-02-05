@@ -38,7 +38,7 @@
                 >投石機</nuxt-link
               >，這比其他依賴城堡生產的特殊單位更有優勢(比方
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>的<nuxt-link
-                to="/Plumed_units/Archer"
+                to="/units/Plumed_Archer"
                 >羽毛箭射手</nuxt-link
               >)。
             </li>

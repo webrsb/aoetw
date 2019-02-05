@@ -24,7 +24,7 @@
               >匈奴人</nuxt-link
             >和
             <nuxt-link to="/civs/Turks">土耳其人</nuxt-link
-            >之外，其它文明都可以透過<nuxt-link to="/Siege_Workshop"
+            >之外，其它文明都可以透過<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >將<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>升級成
             <nuxt-link to="/units/Onager">中型投石車</nuxt-link>。
@@ -43,8 +43,8 @@
               >中型投石車</nuxt-link
             >的重要性，因為它可以有效的將樹林拆除，方便友軍在最短時間內殺入敵軍基地，同時
             <nuxt-link to="/units/Onager">中型投石車</nuxt-link
-            >也是廉價兵種(<nuxt-link to="/ HalberdierIcon.php">戟兵</nuxt-link
-            >、<nuxt-link to="/ units/Elite_Skirmisher">戰矛兵</nuxt-link
+            >也是廉價兵種(<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+            >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >)的殺手。
           </p>
           <p>
@@ -277,7 +277,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
@@ -674,7 +674,7 @@
                 class="gg"
                 src="~assets/SiegeOnagerIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+              /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
             </td>
           </tr>
           <tr>

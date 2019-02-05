@@ -232,7 +232,7 @@
                 to="/units/Mameluke"
                 >奴隸兵</nuxt-link
               >，<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
-                to="/Genoese_units/Crossbowman"
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >
             </td>

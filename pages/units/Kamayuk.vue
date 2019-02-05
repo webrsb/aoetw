@@ -31,7 +31,7 @@
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
               >一樣槍隊長對大象單位如
-              <nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link
+              <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
               >有攻擊加成。
             </li>
             <li>
@@ -76,14 +76,14 @@
                 to="/units/Cavalry_Units"
                 >騎兵單位</nuxt-link
               >、
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+              <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >、<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
@@ -93,7 +93,7 @@
                 to="/units/Slinger"
                 >投石手</nuxt-link
               >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、
-              <nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link>。
+              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -336,7 +336,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -348,7 +348,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

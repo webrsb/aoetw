@@ -128,8 +128,8 @@
               <nuxt-link to="/building/Barracks">軍營</nuxt-link>、
               <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>、
               <nuxt-link to="/building/Stable">馬廄</nuxt-link>、
-              <nuxt-link to="/Siege_Woekshop.php">攻城器製造所</nuxt-link>、
-              <nuxt-link to="/building/Outpost">哨站</nuxt-link>、
+              <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
+              >、 <nuxt-link to="/building/Outpost">哨站</nuxt-link>、
               <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>、
               <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>、
               <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>、
@@ -160,7 +160,7 @@
               <nuxt-link to="/building/Monastery">修道院</nuxt-link>、
               <nuxt-link to="/building/Castle">城堡</nuxt-link>、
               <nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link>、
-              <nuxt-link to="/Palisade_building/Gate">木門</nuxt-link>、
+              <nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>、
               <nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>、
               <nuxt-link to="/building/Gate">城門</nuxt-link>、
               <nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>、

@@ -259,7 +259,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle">
-                <nuxt-link to="/Ruins_of_Empires">帝國的廢墟</nuxt-link>
+                <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>
               </div>
             </td>
           </tr>
@@ -279,12 +279,14 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4"><nuxt-link to="/ak">非洲王國</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/Francisco_de_Almeidaa"
+              <nuxt-link to="/batt/Francisco_de_Almeidaa"
                 >法蘭西斯科．阿爾梅達</nuxt-link
               >
             </td>
@@ -292,7 +294,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/Portuguese">葡萄牙人</nuxt-link>
+              <nuxt-link to="/civs/Portuguese">葡萄牙人</nuxt-link>
             </td>
           </tr>
           <tr>

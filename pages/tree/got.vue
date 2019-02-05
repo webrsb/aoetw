@@ -178,7 +178,7 @@
             </td>
             <td class="t15 trm">
               <img class="gg" src="~assets/CavalryArcherIcon.jpg" /><nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 ><div>馬弓騎兵</div></nuxt-link
               ><i class="fas fa-arrow-down"></i>
             </td>
@@ -222,7 +222,7 @@
             </td>
             <td class="t15 trm">
               <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" /><nuxt-link
-                to="/Heavy_Cavalry_units/Archer"
+                to="/units/Heavy_Cavalry_Archer"
                 ><div>重裝馬弓騎兵</div></nuxt-link
               >
             </td>
@@ -323,13 +323,13 @@
             <td class="t19 trm not">
               <img class="gg" src="~assets/HeavyCamelIcon.jpg" />
               <div>
-                <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>
+                <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
               <br />
               <img class="gg not" src="~assets/ImperialCamelIcon.jpg" />
               <div>
-                <nuxt-link to="/Imperial_units/Camel" class="not"
+                <nuxt-link to="/units/Imperial_Camel" class="not"
                   >帝王駱駝騎兵</nuxt-link
                 >
               </div>
@@ -439,7 +439,7 @@
                 alt=""
               />
               <div>
-                <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
               </div>
             </td>
             <td class="t23 trm">
@@ -935,7 +935,7 @@
             <td class="t10 trm">
               <img class="gg" src="~assets/HeavyDemoShipIcon.jpg" />
               <div>
-                <nuxt-link to="/Heavy_units/Demolition_Ship"
+                <nuxt-link to="/units/Heavy_Demolition_Ship"
                   >重型神風船</nuxt-link
                 >
               </div>
@@ -983,7 +983,7 @@
                 src="~assets/Drydock.jpg"
                 alt=""
               />
-              <div><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link></div>
+              <div><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link></div>
             </td>
             <td class="t10 trm">
               <img

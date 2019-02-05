@@ -145,7 +145,7 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_unitsanimal/Elephant"
+                    /><nuxt-link to="/units/War_Elephant"
                       >精銳波斯戰象</nuxt-link
                     >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
                   </li>
@@ -167,8 +167,7 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_unitsanimal/Elephant"
-                      >波斯戰象</nuxt-link
+                    /><nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
                     >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
                   </li>
                 </ul>
@@ -193,7 +192,7 @@
                       style="margin: 2px;"
                       src="~assets/ElephantArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Elephant_units/Archer"
+                    /><nuxt-link to="/units/Elephant_Archer"
                       >精銳象弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -203,8 +202,8 @@
                       style="margin: 2px;"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                      >精銳弩炮象</nuxt-link
+                    /><nuxt-link to="/units/Ballista_Elephant"
+                      >精銳弩砲象</nuxt-link
                     >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                   </li>
                 </ul>
@@ -216,7 +215,7 @@
                       style="margin: 2px;"
                       src="~assets/ElephantArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link
+                    /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                   <li>
@@ -225,8 +224,7 @@
                       style="margin: 2px;"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                      >弩炮象</nuxt-link
+                    /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link
                     >(<nuxt-link to="/civs/Khmer">高棉</nuxt-link>限定)
                   </li>
                 </ul>

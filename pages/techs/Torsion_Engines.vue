@@ -27,7 +27,7 @@
             >受該科技影響。
           </p>
           <p>
-            此科技配合衣索比亞的<nuxt-link to="/Siege_units/Onager"
+            此科技配合衣索比亞的<nuxt-link to="/units/Siege_Onager"
               >重型投石車</nuxt-link
             >，在狹窄的地圖如:黑森林將會非常地具有威脅性。
           </p>

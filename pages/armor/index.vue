@@ -42,7 +42,7 @@
           </p>
           <p>
             簡單的說，如果一個單位有多種防禦類型，那麼攻擊他的加成就會增加，例如<nuxt-link
-              to="/War_unitsanimal/Elephant"
+              to="/units/War_Elephant"
               >戰象</nuxt-link
             >有兩個防禦類型，
             <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
@@ -50,7 +50,7 @@
             >，而<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
             >對這兩類都有附加攻擊，分別是32和28，所以一隻
             <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>攻擊<nuxt-link
-              to="/War_unitsanimal/Elephant"
+              to="/units/War_Elephant"
               >戰象</nuxt-link
             >的數字就是基礎攻擊加上32+28＝60，兩個加成都算在裡面。
           </p>
@@ -62,7 +62,7 @@
             >，但他的騎兵裝甲值是12，這代表他比其他
             <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
             >更不怕反騎兵的攻擊。另一方面，<nuxt-link
-              to="/Ballista_unitsanimal/Elephant"
+              to="/units/Ballista_Elephant"
               >弩砲象</nuxt-link
             >的<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵防禦</nuxt-link
             >類型裝甲是-2，這表示他會受到更多的反騎兵攻擊加成。當然以上的數字遊戲內都不會告訴你。
@@ -164,7 +164,7 @@
           <h3>瑣事</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link
+            <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
             >有最多的防禦類型，有五種。
           </div>
           <h3>遠防</h3>
@@ -196,7 +196,7 @@
                   class="gg"
                   src="~assets/OrganGunIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Organ_Gun">手風琴砲</nuxt-link>
+                /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>
               </li>
               <li>
                 <img
@@ -295,7 +295,7 @@
                       class="gg"
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
-                    /><nuxt-link to="/Rattan_units/Archer"
+                    /><nuxt-link to="/units/Rattan_Archer"
                       >精銳籐甲弓箭手</nuxt-link
                     >（10）
                   </li>
@@ -313,7 +313,7 @@
                       class="gg"
                       src="~assets/ElephantArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Elephant_units/Archer"
+                    /><nuxt-link to="/units/Elephant_Archer"
                       >精銳象弓騎兵</nuxt-link
                     >（9）
                   </li>
@@ -360,8 +360,7 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/War_unitsanimal/Elephant"
-                      >精銳戰象</nuxt-link
+                    /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
                     >（7）
                   </li>
                   <li>
@@ -378,7 +377,7 @@
                       class="gg"
                       src="~assets/Ballistaelephanticon.png"
                       alt=""
-                    /><nuxt-link to="/Ballista_unitsanimal/Elephant"
+                    /><nuxt-link to="/units/Ballista_Elephant"
                       >精銳弩砲象</nuxt-link
                     >（7）
                   </li>

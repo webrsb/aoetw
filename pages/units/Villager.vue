@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             村民訓練於<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
-            >的<nuxt-link to="/Town_Center">城鎮中心</nuxt-link
+            >的<nuxt-link to="building/Town_Center">城鎮中心</nuxt-link
             >，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現
           </p>
           <p>
@@ -240,7 +240,7 @@
                       src="~assets/Palisadegateicon.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/Palisade_building/Gate">木門</nuxt-link>
+                    /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>
                   </li>
                 </ul>
               </div>

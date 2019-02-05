@@ -93,7 +93,7 @@
         <div class="n1">
           <p>
             升級重裝馬弓騎兵非常昂貴，即使在城堡時代屯了大量的
-            <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >，也不會輕易的研發，一般來說上帝王後優先研發的科技為
             <nuxt-link to="/techs/Bracer">謢腕技術</nuxt-link>與
             <nuxt-link to="/techs/Chemistry">化學</nuxt-link
@@ -102,7 +102,7 @@
             <nuxt-link to="/units/Mangonel">投石車</nuxt-link
             >對於馬弓騎兵是相當可怕的，另外
             <nuxt-link to="/units/Camel">駱駝</nuxt-link>與
-            <nuxt-link to="/Camel_units/Archer">駱駝射手</nuxt-link
+            <nuxt-link to="/units/Camel_Archer">駱駝射手</nuxt-link
             >也可以輕易地解決馬弓騎兵。
           </p>
           <p>
@@ -113,7 +113,7 @@
               to="/civs/Magyars"
               >馬札爾</nuxt-link
             >。蒙古人擁有絕佳的射速。匈奴人則是有便宜的<nuxt-link
-              to="/Cavalry_units/Archer"
+              to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >，薩拉森人對建築有+4的攻擊，而馬札爾人在帝王時代透過
             <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
@@ -139,7 +139,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、<nuxt-link
-                to="/Genoese_units/Crossbowman"
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
@@ -406,9 +406,9 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/HeavyCamelIcon.jpg" alt="" />
-                  <nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
+                  <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
                   <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt="" />
-                  <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link
+                  <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
                   >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link
                   >限定)
                 </li>
@@ -501,7 +501,7 @@
                     src="~assets/New_Genoese_Crossbowman.png"
                     alt=""
                   />
-                  <nuxt-link to="/Genoese_units/Crossbowman"
+                  <nuxt-link to="/units/Genoese_Crossbowman"
                     >精銳熱那亞弩手</nuxt-link
                   >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                 </li>
@@ -527,7 +527,7 @@
                     src="~assets/CamelArcherIcon.jpg"
                     alt=""
                   />
-                  <nuxt-link to="/Camel_units/Archer">精銳駱駝弓騎兵</nuxt-link
+                  <nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
                   >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                 </li>
                 <li>
@@ -546,7 +546,7 @@
                     class="gg"
                     src="~assets/New_Genoese_Crossbowman.png"
                     alt=""
-                  /><nuxt-link to="/Genoese_units/Crossbowman"
+                  /><nuxt-link to="/units/Genoese_Crossbowman"
                     >熱那亞弩手</nuxt-link
                   >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                 </li>
@@ -570,7 +570,7 @@
                     src="~assets/CamelArcherIcon.jpg"
                     alt=""
                   />
-                  <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+                  <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
                   >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                 </li>
                 <li>
@@ -981,7 +981,7 @@
                 class="gg"
                 src="~assets/CavalryArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>
+              /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
             </td>
           </tr>
         </table>

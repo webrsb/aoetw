@@ -31,7 +31,7 @@
             奴隸兵與<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
             ><nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
             >相似，擁有短距離的近戰傷害單位。由於較高的機動性與對騎兵加成傷害，奴隸兵能完全壓制步兵(
-            <nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
+            <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
             >除外)與騎兵單位。排除昂貴的價格外，奴隸兵是眾人認可最優秀的單位。
           </p>
           <p>
@@ -41,7 +41,7 @@
             <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
               to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
-            >與<nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>。
+            >與<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>。
           </p>
           <p>
             雖然奴隸兵擁有+11騎兵加成抵免，但奴隸兵同時擁有<nuxt-link
@@ -73,7 +73,7 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-              >、<nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >、徒步弓兵、
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>。
             </td>
@@ -85,7 +85,7 @@
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
               >、<nuxt-link to="/units/Berserk">狂戰士</nuxt-link>、
-              <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link>
+              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link>
             </td>
           </tr>
           <tr class="tta">
@@ -267,14 +267,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -317,7 +317,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -370,7 +370,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>

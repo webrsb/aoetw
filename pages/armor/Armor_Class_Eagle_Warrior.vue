@@ -82,13 +82,13 @@
                       class="gg"
                       src="~assets/Crusade_avatar.png"
                       alt=""
-                    /><nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
+                    /><nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/Crusade_avatar.png"
                       alt=""
-                    /><nuxt-link to="/Teutonic_units/Knight"
+                    /><nuxt-link to="/units/Teutonic_Knight"
                       >精銳條頓武士</nuxt-link
                     >(<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定)
                   </li>

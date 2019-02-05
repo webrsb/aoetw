@@ -25,7 +25,7 @@
               >果樹叢</nuxt-link
             >、<nuxt-link to="/units/animal/Deer">鹿群</nuxt-link
             >此種食物來源的旁邊是最好的，而像是
-            <nuxt-link to="/Wild_Boar.php">野豬</nuxt-link
+            <nuxt-link to="/units/animal/Wild_Boar">野豬</nuxt-link
             >這種可以驅趕或引誘至城鎮中心的的動物就沒有必要再為了牠們而去建造。而實際上在高手對戰中，也很少為了鹿群而去蓋磨坊，他們多數是用驅趕的。
           </p>
           <p>

@@ -38,12 +38,12 @@
                 class="gg"
                 src="~assets/HeavyCamelIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/ImperialCamelIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Imperial units/Camel">帝王駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
               >(<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
             </li>
             <li>
@@ -64,12 +64,12 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">精銳駱駝弓騎兵</nuxt-link
+              /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
               >(<nuxt-link to="/civs/Indians">柏柏</nuxt-link>限定)
             </li>
           </ul>
@@ -131,14 +131,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel"
+                    /><nuxt-link to="/units/Heavy_Camel"
                       >重裝駱駝騎兵→</nuxt-link
                     >
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Imperial units/Camel"
+                    /><nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(後者<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
@@ -158,7 +158,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -180,7 +180,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>

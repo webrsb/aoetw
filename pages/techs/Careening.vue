@@ -15,8 +15,7 @@
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >研發。研發後船隻遠程裝甲+1，運輸船運輸量+5(總共可載10個單位)。
-            <nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link
-            >是更進一步的科技。
+            <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>是更進一步的科技。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -95,7 +94,7 @@
             <td class="unit3">可升級</td>
             <td class="unit4">
               <img class="gg" src="~assets/Drydock.jpg" alt="" /><nuxt-link
-                to="/Dry_building/Dock"
+                to="/techs/Dry_Dock"
                 >旱碼頭</nuxt-link
               >
             </td>

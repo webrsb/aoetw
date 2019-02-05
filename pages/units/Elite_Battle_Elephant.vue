@@ -127,14 +127,14 @@
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link
                 to="/units/Kamayuk"
                 >槍隊長</nuxt-link
-              >、<nuxt-link to="/Genoese_units/Crossbowman"
+              >、<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、 <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>、<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、
               <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、和<nuxt-link
-                to="/War_unitsanimal/Elephant"
+                to="/units/War_Elephant"
                 >戰象</nuxt-link
               >。
             </td>
@@ -342,14 +342,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -382,7 +382,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -415,7 +415,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -445,7 +445,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavyunits/Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -629,20 +629,20 @@
             <li>
               完全升級的<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >精銳矛象伕會有9的遠防，是所有騎兵單位中最高的(與<nuxt-link
-                to="/Elephant_units/Archer"
+                to="/units/Elephant_Archer"
                 >象弓騎兵</nuxt-link
               >並列)。
             </li>
             <li>
               完全升級的<nuxt-link to="/civs/Khmer">高棉</nuxt-link
               >精銳矛象伕有23的攻擊力，是所有單位中除去攻城器和火藥單位外第二高的，只有精銳
-              <nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link
+              <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
               >比牠高(24)。
             </li>
             <li>
               完全升級的<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
               >精銳矛象伕有370的HP，只輸給精銳<nuxt-link
-                to="/War_unitsanimal/Elephant"
+                to="/units/War_Elephant"
                 >波斯戰象</nuxt-link
               >的620HP。
             </li>

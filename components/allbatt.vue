@@ -222,7 +222,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/Prithviraja.php">布里斯比羅吉</nuxt-link>
+              <nuxt-link to="/batt/Prithviraja">布里斯比羅吉</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link>。
@@ -236,7 +236,7 @@
               <nuxt-link to="/Battles_of_the_Forgotten.php">失落帝國的戰役</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/Bukhara(557).php">布哈拉(557)</nuxt-link>。
+              <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>。
               <nuxt-link to="/Dos_Pilas(648).php">雙柱城(648)</nuxt-link>。
               <nuxt-link to="/York(865).php">約克(865)</nuxt-link>。
               <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>。
@@ -284,7 +284,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/Francisco_de_Almeidaa.php">法蘭西斯科．阿爾梅達</nuxt-link>
+              <nuxt-link to="/batt/Francisco_de_Almeidaa">法蘭西斯科．阿爾梅達</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>。

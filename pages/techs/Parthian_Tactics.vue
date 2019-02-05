@@ -15,7 +15,7 @@
               >帝王時代</nuxt-link
             >於<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >研發，他給予了
-            <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >類近防+1/遠防+2，額外+2或+4攻擊對<nuxt-link to="/units/Spearman"
               >長槍兵</nuxt-link
             >。
@@ -112,9 +112,9 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/CavalryArcherIcon.jpg" alt="" />
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>→
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>→
               <img class="gg" src="~assets/HeavyCavArcherIcon.jpg" alt="" />
-              <nuxt-link to="/Heavy_Cavalry_units/Archer"
+              <nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >
             </td>
@@ -141,12 +141,12 @@
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">精銳象弓騎兵</nuxt-link>
+              /><nuxt-link to="/units/Elephant_Archer">精銳象弓騎兵</nuxt-link>
             </td>
             <td class="tta2">+1/+2</td>
             <td class="tta3">+2</td>
@@ -157,9 +157,9 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>→
+              /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
               <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-              <nuxt-link to="/Camel_units/Archer">精銳駱駝弓騎兵</nuxt-link>
+              <nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link>
             </td>
             <td class="tta2">+1/+2</td>
             <td class="tta3">+2</td>

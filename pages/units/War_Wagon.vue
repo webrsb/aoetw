@@ -32,11 +32,11 @@
               馬戰車是遊戲中最強大的遠程單位之一，因為它們擁有高HP，高遠程裝甲和所有弓箭手中最高的攻擊力。這使得它們既可以提供火力支援，也可以作為破壞主力，甚至同時執行兩種角色。作為遠程支援，馬戰車可以放置在
               <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >這樣的近身單位之後保護他們。他們可以對付敵人的弓箭手和<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >，不過
-              <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
-              >和<nuxt-link to="/Genoese_units/Crossbowman"
+              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+              >和<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >是例外。
             </li>
@@ -51,11 +51,9 @@
               >。<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >對馬戰車有攻擊加成，但是除非數量大於馬戰車，不然馬戰車還是會贏。
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link>，<nuxt-link
-                to="/War_unitsanimal/Elephant"
+                to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >，<nuxt-link to="/Ballista_unitsanimal/Elephant"
-                >矛象伕</nuxt-link
-              >，
+              >，<nuxt-link to="/units/Ballista_Elephant">矛象伕</nuxt-link>，
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >和<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
               >(有高遠程護甲)、<nuxt-link to="/units/Samurai"
@@ -67,7 +65,7 @@
                 >火槍兵</nuxt-link
               >對付上述單位。投石車也是個麻煩，韓國人可以用
               <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
-              >或他們的<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+              >或他們的<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >對付他們。最後，由於缺乏<nuxt-link to="/techs/Heresy"
                 >異端邪說</nuxt-link
               >，馬戰車很容易被敵方僧侶招降。
@@ -105,7 +103,7 @@
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
               >、<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、
-              <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link
+              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
                 >奴隸兵</nuxt-link
@@ -322,14 +320,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -449,7 +447,7 @@
                       style="margin: 2px;"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Camel_units/Archer"
+                    /><nuxt-link to="/units/Camel_Archer"
                       >精銳駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
@@ -469,7 +467,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -496,7 +494,7 @@
                       style="margin: 2px;"
                       src="~assets/CamelArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link
+                    /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
                 </ul>

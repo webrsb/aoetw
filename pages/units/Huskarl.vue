@@ -30,10 +30,10 @@
               >(遠防+2)後，對箭矢的傷害幾乎免疫，這讓他們成為弓兵殺手。一群哥德衛隊可以最小損傷摧毀一座城堡。哥德衛隊適合用來對付弓箭手，但是他們也是相當全面的單位，可以處理大多數的威脅，因為他們幾乎免疫炮火。他們的弱點包括
               <nuxt-link to="/units/Knight">騎士</nuxt-link
               >，還有速度比他們快的弓箭手(如<nuxt-link
-                to="/Cavalry_units/Archer"
+                to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、
-              <nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+              <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >和<nuxt-link to="/units/War_Wagon">韓國馬戰車</nuxt-link
               >）。因為他們可以選擇逃跑或是遠距離慢慢消耗哥德衛隊的血量。
             </li>
@@ -46,7 +46,7 @@
                 >鷹勇士</nuxt-link
               >。哥德衛隊非常便宜而且生產迅速，所以哥德玩家仍然可以用壓倒性的數量橫掃戰場。一般應該避免跟有高護甲（
               <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>，<nuxt-link
-                to="/Teutonic_units/Knight"
+                to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
               >）的近戰單位，或對他們（<nuxt-link to="/units/Jaguar_Warrior"
                 >豹勇士</nuxt-link
@@ -54,8 +54,9 @@
               <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
               >）有攻擊加成的單位戰鬥。因為它們對哥德衛隊是致命的。
-              <nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link
-              >和<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
+                to="/units/Battle_Elephant"
+                >矛象伕</nuxt-link
               >的高HP，強大的攻擊和濺射傷害可輕易摧毀哥德衛隊，但必須警惕戟兵的出現。遠程單位如
               <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
               >，<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
@@ -338,7 +339,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -350,7 +351,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

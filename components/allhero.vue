@@ -50,7 +50,7 @@
                 >獅心王查理</nuxt-link>·<nuxt-link to="/units/hero/Robin_Hood">羅賓漢</nuxt-link>·
               <nuxt-link to="/units/hero/Roland">羅蘭</nuxt-link>·<nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link>·<nuxt-link to="/units/hero/Shah"
                 >沙赫</nuxt-link>·<nuxt-link to="/units/hero/Sheriff_of_Nottingham">諾丁漢治安官</nuxt-link>·
-              <nuxt-link to="/Siegfried.php">齊格非</nuxt-link>·<nuxt-link to="/units/hero/Sieur_Bertrand"
+              <nuxt-link to="/units/hero/Siegfried">齊格非</nuxt-link>·<nuxt-link to="/units/hero/Sieur_Bertrand"
                 >貝查德爵士</nuxt-link>·<nuxt-link to="/units/hero/Sieur_de_Metz">梅茲爵士</nuxt-link>·
               <nuxt-link to="/units/hero/Sir_John_Fastolf">約翰霍士道夫爵士</nuxt-link>·<nuxt-link to="/units/hero/Subotai"
                 >速不臺</nuxt-link>·<nuxt-link to="/units/hero/Tamerlane">帖木兒</nuxt-link>·
@@ -104,7 +104,7 @@
                 >奧斯曼</nuxt-link>·<nuxt-link to="/units/hero/Prithvi">布里斯比</nuxt-link>·
               <nuxt-link to="/units/hero/Prithviraj">布里斯比羅吉</nuxt-link>·<nuxt-link to="/units/hero/Queen"
                 >皇后</nuxt-link>·<nuxt-link to="/units/hero/Saladin">薩拉丁</nuxt-link>·
-              <nuxt-link to="/Sanyog/tree/ita">姍優姬妲</nuxt-link>·<nuxt-link to="/units/hero/Savaran"
+              <nuxt-link to="/units/hero/Sanyogita">姍優姬妲</nuxt-link>·<nuxt-link to="/units/hero/Savaran"
                 >貴族首領</nuxt-link>·<nuxt-link to="/units/hero/Vlad_Dracula">佛列德-德古拉</nuxt-link>
             </td>
           </tr>
@@ -121,7 +121,7 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <nuxt-link to="/Abraha_/units/animal/Elephant">阿伯哈拉戰象</nuxt-link>·<nuxt-link to="/Ba/tree/bur"
+              <nuxt-link to="/units/hero/Abraha_Elephant">阿伯哈拉戰象</nuxt-link>·<nuxt-link to="/units/hero/Babur"
                 >巴卑爾</nuxt-link>· <nuxt-link to="/units/hero/Dagnajan">達納罕</nuxt-link>·<nuxt-link to="/units/hero/Envoy">使者</nuxt-link>·<nuxt-link to="/units/hero/Gidajan">極大汗</nuxt-link>·<nuxt-link to="/units/hero/Guglielmo_Embriaco"
                 >吉列爾莫-安布裡科</nuxt-link>· <nuxt-link to="/units/hero/Henry_II">亨利二世</nuxt-link>·<nuxt-link to="/units/hero/Huayan_Capac"
                 >華伊納-卡派克</nuxt-link>·<nuxt-link to="/units/hero/Itzcoatl">伊茲柯阿特爾</nuxt-link>·
@@ -133,7 +133,7 @@
                 >克雷爾的理查伯爵</nuxt-link>·<nuxt-link to="/units/hero/Su_Dingfang">蘇定方</nuxt-link>·
               <nuxt-link to="/units/hero/Sumanguru">蘇曼古魯</nuxt-link>·<nuxt-link to="/units/hero/Sundjata"
                 >松迪亞塔</nuxt-link>·<nuxt-link to="/units/hero/Tariq_ibn_Ziyad">塔里克-伊本-齊亞德</nuxt-link>·
-              <nuxt-link to="/units/hero/Tristan">崔斯坦</nuxt-link>·<nuxt-link to="/Yekuno_Aml/games/ak"
+              <nuxt-link to="/units/hero/Tristan">崔斯坦</nuxt-link>·<nuxt-link to="/units/hero/Yekuno_Amlak"
                 >亞庫諾-阿姆拉克</nuxt-link>·<nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link>·
               <nuxt-link to="/units/hero/Zawisza_the_Black">茲瓦斯艾黑騎士</nuxt-link>
             </td>

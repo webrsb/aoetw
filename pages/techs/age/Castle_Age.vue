@@ -204,7 +204,7 @@
                 src="~assets/CavalryArcherIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+              /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >：移動迅速的遠距離單位。
             </li>
             <li>

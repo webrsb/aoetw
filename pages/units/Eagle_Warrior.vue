@@ -65,7 +65,7 @@
             >耗資源，且走的太慢，又非常怕弩兵，對方看你這麼多
             <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >，轉<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
-            >甚至<nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+            >甚至<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
             >都可以輕易解決。
           </p>
           <p>
@@ -300,12 +300,12 @@
                 <ul>
                   <li>
                     <img class="gg" src="~assets/Crusade_avatar.png" alt="" />
-                    <nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link>→
+                    <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/Crusade_avatar.png"
                       alt=""
-                    /><nuxt-link to="/Teutonic_units/Knight"
+                    /><nuxt-link to="/units/Teutonic_Knight"
                       >精銳條頓武士</nuxt-link
                     >
                   </li>

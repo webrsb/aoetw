@@ -12,7 +12,7 @@
         <div class="n1">
           <p>
             護腕可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >在<nuxt-link to="/Blacksmith.jpg">兵工廠</nuxt-link>研發，可讓
+            >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>研發，可讓
             <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link

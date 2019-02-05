@@ -632,7 +632,7 @@
                 class="gg"
                 src="~assets/EliteSkirmisherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Eliteunits/Skirmisher">戰矛兵</nuxt-link>
+              /><nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>
             </td>
           </tr>
         </table>

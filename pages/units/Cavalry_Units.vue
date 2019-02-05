@@ -46,7 +46,7 @@
               >韃靼騎兵</nuxt-link
             >在
             <nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
-            >研究後可以在馬厩中訓練，而<nuxt-link to="/Imperial_units/Camel"
+            >研究後可以在馬厩中訓練，而<nuxt-link to="/units/Imperial_Camel"
               >帝王駱駝騎兵</nuxt-link
             >則只能在馬廄訓練。拋開垃圾單位，所有騎兵單位訓練都需要食物和黃金。
           </p>
@@ -59,7 +59,7 @@
               to="/units/Mameluke"
               >奴隸兵</nuxt-link
             >，<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>和
-            <nuxt-link to="/Genoese_units/Crossbowman">熱那亞弩手</nuxt-link
+            <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
             >也對騎兵部隊非常有效。此外，騎兵單位價格昂貴，通常需要花費黃金，如果玩家過度依賴他們那當黃金用完時極有可能會輸掉該場比賽。在狹窄有懸崖或樹林等障礙物的地圖上，騎兵部隊會難以接近障礙物後的部隊而淪為敵方的獵物。
           </p>
           <p>
@@ -346,7 +346,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/HeavyCamelIcon.jpg" /><nuxt-link
-                  to="/Heavy_units/Camel"
+                  to="/units/Heavy_Camel"
                   >重裝駱駝騎兵</nuxt-link
                 >
               </td>
@@ -368,7 +368,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/ImperialCamelIcon.jpg" /><nuxt-link
-                  to="/Imperial_units/Camel"
+                  to="/units/Imperial_Camel"
                   >帝王駱駝騎兵</nuxt-link
                 >
               </td>
@@ -484,7 +484,7 @@
                   class="gg"
                   width="22"
                   src="~assets/WarElephantIcon.jpg"
-                /><nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link>
+                /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link>
               </td>
               <td class="tta3">450</td>
               <!--生命值!-->
@@ -507,7 +507,7 @@
                   class="gg"
                   width="22"
                   src="~assets/WarElephantIcon.jpg"
-                /><nuxt-link to="/War_unitsanimal/Elephant">精銳戰象</nuxt-link>
+                /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link>
               </td>
               <td class="tta3">600</td>
               <!--生命值!-->
@@ -711,9 +711,7 @@
                 <img
                   class="gg"
                   src="~assets/Ballistaelephanticon.png"
-                /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                  >弩炮象</nuxt-link
-                >
+                /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>
               </td>
               <td class="tta3">250</td>
               <!--生命值!-->
@@ -735,8 +733,8 @@
                 <img
                   class="gg"
                   src="~assets/Ballistaelephanticon.png"
-                /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                  >精銳弩炮象</nuxt-link
+                /><nuxt-link to="/units/Ballista_Elephant"
+                  >精銳弩砲象</nuxt-link
                 >
               </td>
               <td class="tta3">290</td>
@@ -774,7 +772,7 @@
                   style="margin: 2px;"
                   src="~assets/Bloodlines.png"
                   alt=""
-                /><nuxt-link to="/Bloodlines.oho">品種</nuxt-link>
+                /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">150F 100G</td>

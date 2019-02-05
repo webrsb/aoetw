@@ -17,7 +17,7 @@
             >研發。研發後所有騎乘單位移速+10％。
           </p>
           <p>
-            一般來說打帶跑單位如:<nuxt-link to="/Cavalry_units/Archer"
+            一般來說打帶跑單位如:<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>或
             <nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link

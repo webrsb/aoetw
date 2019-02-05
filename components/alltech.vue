@@ -95,7 +95,7 @@
             </td>
             <td class="unit3">
               <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>。
-              <nuxt-link to="/Dry_/building/Dock">旱碼頭</nuxt-link>。
+              <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>。
               <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>。
               <nuxt-link to="/techs/Gillnets">流刺網</nuxt-link>。
             </td>
@@ -178,7 +178,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 5%;">
-              <nuxt-link to="/uni/techs/tech">特殊科技</nuxt-link> <br />(城堡/帝王)
+              <nuxt-link to="/techs/untech">特殊科技</nuxt-link> <br />(城堡/帝王)
             </td>
             <td class="unit3">
               <div class="col-md-12">

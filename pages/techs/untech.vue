@@ -715,7 +715,7 @@
               <nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link>
             </td>
             <td class="tunitc5">700F 400G</td>
-            <td class="tunitc6">弩炮象和弩炮發射兩個投射物。</td>
+            <td class="tunitc6">弩砲象和弩炮發射兩個投射物。</td>
           </tr>
           <tr>
             <td class="tunitc6">

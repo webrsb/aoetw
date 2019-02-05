@@ -39,7 +39,7 @@
               <li>
                 <nuxt-link to="/units/animal/Iron_Boar">鐵野豬</nuxt-link>
               </li>
-              <li><nuxt-link to="/Wild_Boar.php">野豬</nuxt-link></li>
+              <li><nuxt-link to="/units/animal/Wild_Boar">野豬</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Zebra">斑馬</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Elephant">象</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link></li>

@@ -34,7 +34,7 @@
             </li>
             <li>
               傭兵的另一個優勢是其對反步兵單位的攻擊有+10防禦。這個防禦獎勵可以讓他們抵銷<nuxt-link
-                to="/Plumed_units/Archer"
+                to="/units/Plumed_Archer"
                 >羽毛箭射手</nuxt-link
               >， <nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
@@ -84,7 +84,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >的傭兵擁有97生命值，直逼<nuxt-link to="/Teutonic_units/Knight"
+              >的傭兵擁有97生命值，直逼<nuxt-link to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
               >。其他
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
@@ -133,7 +133,7 @@
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
               >、
-              <nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
+              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>。
             </td>
           </tr>
@@ -410,7 +410,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -422,7 +422,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>
@@ -625,7 +625,7 @@
               >與<nuxt-link to="/units/Shotel_Warrior">爪刀勇士</nuxt-link>。
             </li>
             <li>
-              傭兵和<nuxt-link to="/Imperial_units/Camel">帝王駱駝</nuxt-link
+              傭兵和<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link
               >與<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
               >一樣都是特殊部隊，但傭兵會受到
@@ -638,7 +638,7 @@
               ></nuxt-link
               >投石手、<nuxt-link to="/units/Missionary"></nuxt-link>傳教士、
               <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
-              >與<nuxt-link to="/Imperial_units/Camel">帝王駱駝</nuxt-link>。
+              >與<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link>。
             </li>
             <li>
               另外兩個團隊加分的特殊共享單位分別是<nuxt-link to="/civs/Berbers"

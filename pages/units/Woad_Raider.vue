@@ -28,7 +28,7 @@
             <li>
               菘藍武士是整個遊戲中數一數二快的步兵單位，他們可以有效的執行游擊戰，高攻擊力和HP的條件下讓他們可以應付大多數的步兵單位，也能輕易地摧毀攻城武器和巨型投石機。然而在對上騎兵和更強的步兵單位(如:
               <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
-              >、<nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
               >)時，請隨侍做好撤退的準備遠離他們，對上弓兵時也請避戰因為菘藍武士的護甲十分薄弱。
             </li>
@@ -68,7 +68,7 @@
                 to="/units/Samurai"
                 >日本武士</nuxt-link
               >、<nuxt-link to="/units/Berserk">狂戰士</nuxt-link>、
-              <nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
+              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>。
             </td>
           </tr>
@@ -288,7 +288,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -300,7 +300,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

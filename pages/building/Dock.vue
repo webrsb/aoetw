@@ -36,7 +36,7 @@
               >那類型的地圖上，雖然有一部分的水體，但是文明之間並沒有被水體隔開，在許多的情況下碼頭的影響力有限，但還是對經濟有一定的幫助，但海軍就只能用來支援陸上部隊、清除敵方沿海建築物，對遊戲勝敗影響較小。
             </li>
             <li>
-              在<nuxt-link to="/Rivers">河流</nuxt-link>、<nuxt-link
+              在<nuxt-link to="/maps/Rivers">河流</nuxt-link>、<nuxt-link
                 to="/maps/Highland"
                 >高地</nuxt-link
               >或其他以河流或湖泊為特徵的地圖，碼頭可以成為防禦性結構的一部分，因為河流和湖泊能提供地面部隊防護。在這種狀況下，使用海俊部隊能夠更有效的讓防禦性建築靠近水邊，在這種地圖上的淺灘是陸地部隊可以穿過河流的唯一窄點。
@@ -197,7 +197,7 @@
                     <img
                       class="gg"
                       src="~assets/HeavyDemoShipIcon.jpg"
-                    /><nuxt-link to="/Heavy_units/Demolition_Ship"
+                    /><nuxt-link to="/units/Heavy_Demolition_Ship"
                       >重型神風船</nuxt-link
                     >
                   </li>
@@ -231,7 +231,7 @@
                       style="margin: 2px;"
                       src="~assets/Drydock.jpg"
                       alt=""
-                    /><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link>
+                    /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>
                   </li>
                   <li>
                     <img

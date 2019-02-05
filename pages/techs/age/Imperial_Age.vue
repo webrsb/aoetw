@@ -148,7 +148,7 @@
                 src="~assets/HeavyCavArcherIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Heavy_Cavalry_units/Archer"
+              /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬騎弓兵</nuxt-link
               >：騎馬弓兵單位。
             </li>
@@ -193,7 +193,7 @@
                 src="~assets/HeavyCamelIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
               >：反騎兵單位。
             </li>
             <li>
@@ -202,7 +202,7 @@
                 src="~assets/ImperialCamelIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
               >：反騎兵單位。(限<nuxt-link to="/civs/Indians">印度</nuxt-link>)
             </li>
             <li>
@@ -281,7 +281,7 @@
                 src="~assets/SiegeOnagerIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+              /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >：範圍散射攻城武器。(限<nuxt-link to="/civs/Indians"
                 >印度</nuxt-link
               >)
@@ -351,7 +351,7 @@
                 src="~assets/HeavyDemoShipIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/Heavy_units/Demolition_Ship"
+              /><nuxt-link to="/units/Heavy_Demolition_Ship"
                 >重型神風船</nuxt-link
               >：自爆的戰船。
             </li>
@@ -492,7 +492,7 @@
                   src="~assets/Drydock.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/Dry_building/Dock">旱碼頭</nuxt-link
+                /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
                 >：船隻航行速度+15%，運輸船可承載單位+10。
               </li>
               <li>

@@ -53,7 +53,7 @@
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/Ballista_unitsanimal/Elephant">弩砲象</nuxt-link
+              /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link
               >:高棉的特殊單位，能夠在城堡時代的城堡中訓練。弩砲象這是一種混合型單位是由騎兵加攻城武器混合型單位，攻擊模式類似弩砲，弩砲象是可以伐木的。
             </li>
             <li>
@@ -69,7 +69,7 @@
                 class="gg"
                 src="~assets/RattanarcherIcon2.png"
                 alt=""
-              /><nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link
+              /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
               >:越南的特殊單位，是個有非常高遠程護甲的弓兵。
             </li>
             <li>

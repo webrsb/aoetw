@@ -25,7 +25,7 @@
               to="/units/hero/Genghis_Khan"
               >成吉思汗</nuxt-link
             >時代時的輝煌。他同時也是蒙兀兒帝國開國君主，
-            <nuxt-link to="/Batree/bur">巴卑爾</nuxt-link>的曾祖父
+            <nuxt-link to="/units/hero/Babur">巴卑爾</nuxt-link>的曾祖父
           </p>
           <p>
             帖木兒在遊戲中以<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link

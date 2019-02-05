@@ -31,15 +31,14 @@
             <li>
               剽悍精神讓馬利的<nuxt-link to="/units/Cavalry_Units"
                 >騎兵單位</nuxt-link
-              >是遊戲中最具威力的之一。他們的<nuxt-link to="/Heavy_units/Camel"
+              >是遊戲中最具威力的之一。他們的<nuxt-link to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
               >可以獲得遊戲中最多的14攻擊，比
-              <nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link
+              <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
               >還多。馬利的騎兵也是遊戲中攻擊排名非特殊騎兵第二(攻擊力19)和全遊戲第三，僅次於<nuxt-link
                 to="/units/Elite_Battle_Elephant"
                 >精銳矛象伕</nuxt-link
-              >和
-              <nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link>。
+              >和 <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>。
             </li>
             <li>
               如果搭配<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link

@@ -61,9 +61,9 @@
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
-              <nuxt-link to="/OrganGun.php">風琴炮</nuxt-link>→
+              <nuxt-link to="/units/Organ_Gun">風琴炮</nuxt-link>→
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
-              <nuxt-link to="/OrganGun.php">精銳風琴炮</nuxt-link>(<nuxt-link
+              <nuxt-link to="/units/Organ_Gun">精銳風琴炮</nuxt-link>(<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >限定)

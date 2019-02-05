@@ -28,7 +28,7 @@
         <div class="n1">
           <ul>
             <li>
-              除了<nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
+              除了<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >，狂戰士是遊戲中最耐打的步兵。研發酋長讓狂戰士也能對抗騎兵；然而使用
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >對付騎兵還是更有效益。另外弓箭手對狂戰士來說仍舊是個威脅。

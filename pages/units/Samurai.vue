@@ -39,7 +39,7 @@
                 to="/units/Cataphract"
                 >拜占庭聖騎兵</nuxt-link
               >、
-              <nuxt-link to="/War_unitsanimal/Elephant">波斯戰象</nuxt-link
+              <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
               >這些特殊單位仍是十分頭痛，對<nuxt-link to="/units/Knight"
                 >騎士</nuxt-link
               >和<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
@@ -53,7 +53,7 @@
               >和遠程單位協助(日本射箭場科技全滿)。
             </li>
             <li>
-              日本武士對<nuxt-link to="/Imperial_units/Camel"
+              日本武士對<nuxt-link to="/units/Imperial_Camel"
                 >帝王駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
@@ -310,7 +310,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -322,7 +322,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

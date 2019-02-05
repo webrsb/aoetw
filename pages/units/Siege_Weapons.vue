@@ -77,7 +77,7 @@
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
-                >手風琴砲</nuxt-link
+                >風琴砲</nuxt-link
               >
             </li>
             <li>
@@ -297,7 +297,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/SiegeOnagerIcon.jpg" /><nuxt-link
-                  to="/Siege_units/Onager"
+                  to="/units/Siege_Onager"
                   >重型投石車</nuxt-link
                 >
               </td>

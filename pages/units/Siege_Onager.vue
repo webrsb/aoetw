@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >要升級到帝王時期，花費1450食物和1000金，且需要耗時150秒才能研發完成，只有少數的幾個文明才擁有。
           </p>
         </div>
@@ -86,17 +86,17 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >是一個非常難纏的軍事單位，面對大量的<nuxt-link
-              to="/Siege_units/Onager"
+              to="/units/Siege_Onager"
               >重型投石車</nuxt-link
             >，沒有大量的高機動性兼具高血量的軍事單位協助幾乎不太可能去拆除，當
-            <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >海起來，一般的軍事單位是無法靠近的。當然火砲絕對是投石車的天敵。
           </p>
           <p>
             在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >中期，<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+            >中期，<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >的殺傷力將會是所有弓兵系單位的惡夢，雖然
             <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>與<nuxt-link
               to="/"
@@ -106,19 +106,19 @@
             >單位有額外的加成效果，但只要稍有個控兵失誤，軍隊都可能在轉眼間葬送在花火之中。。
           </p>
           <p>
-            對付成群的<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+            對付成群的<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >，移動快速的<nuxt-link to="/units/Elite_Eagle_Warrior"
               >精銳鷹勇士</nuxt-link
             >或者大量的
             <nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >會是個不錯的選擇，也有不少玩家會選擇用<nuxt-link
-              to="/Siege_units/Onager"
+              to="/units/Siege_Onager"
               >重型投石車</nuxt-link
-            >與<nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+            >與<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >對丟，運氣好可能會一臺換對方2~3臺，駐軍滿載的衝撞車也是一種破解的方法，若敵方已經將
-            <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >累積到一個數量時，拉長戰線，在適當的時間點給予致命的一擊才是求勝之道，千萬別硬碰硬去拆海量的<nuxt-link
-              to="/Siege_units/Onager"
+              to="/units/Siege_Onager"
               >重型投石車</nuxt-link
             >，通常是討不到便宜的。
           </p>
@@ -344,7 +344,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>

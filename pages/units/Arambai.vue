@@ -50,7 +50,7 @@
               >的影響。
             </li>
             <li>
-              飛鏢騎兵跟其他的<nuxt-link to="/Cavalry_units/Archer"
+              飛鏢騎兵跟其他的<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >單位相比來講，因強大破壞力和不錯的移動速度在對付
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
@@ -84,7 +84,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >可說是飛鏢騎兵的克制文明，首先<nuxt-link to="/Camel_units/Archer"
+              >可說是飛鏢騎兵的克制文明，首先<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
               >本身對馬弓騎兵有加成再加上跑速跟射速又相當的優質因此飛鏢騎兵優勢不大，再者跟
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
@@ -124,7 +124,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Spearman">槍隊長</nuxt-link>、<nuxt-link
-                to="/Genoese_units/Crossbowman"
+                to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >、 <nuxt-link to="/units/Monk">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
@@ -137,7 +137,7 @@
                 to="/units/Genitour"
                 >日本武士</nuxt-link
               >、
-              <nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>
+              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
             </td>
           </tr>
           <tr class="tta">
@@ -272,7 +272,7 @@
             </li>
             <li>飛鏢騎兵(包含精銳)攻擊 -1</li>
             <li>
-              最初精銳飛鏢騎兵對反<nuxt-link to="/Cavalry_units/Archer"
+              最初精銳飛鏢騎兵對反<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >攻擊有+2護甲，在5.7改版後也移除了(從2降至0)。
             </li>

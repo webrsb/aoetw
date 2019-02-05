@@ -21,7 +21,7 @@
               to="/batt/Scourge_of_God"
               >上帝之鞭</nuxt-link
             >，是有1000滴血的羅馬囚犯；在
-            <nuxt-link to="/Bukhara(557).php">布哈拉</nuxt-link
+            <nuxt-link to="/batt/Bukhara_557">布哈拉</nuxt-link
             >戰役中則是玩家一開始就能指揮的單位。在地圖編輯器中也可以使用他。
           </p>
           <p>

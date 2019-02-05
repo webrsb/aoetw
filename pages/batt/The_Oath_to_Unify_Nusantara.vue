@@ -203,9 +203,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/The_Oath_to_Unify_Nusantara"
-                  >戰役關卡編號</nuxt-link
-                >
+                <nuxt-link to="/">戰役關卡編號</nuxt-link>
               </div>
             </td>
           </tr>

@@ -22,7 +22,7 @@
         <div class="n1">
           <p>
             蒙古人最大的優勢在於
-            <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link
+            <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
             >與攻城武器，除沒有
             <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
             >，他們還有完整的步兵科技，而除了
@@ -66,7 +66,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>射速+20%
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>射速+20%
             </li>
             <li>
               <nuxt-link to="/units/Light_Cavalry"

@@ -56,7 +56,7 @@
               >，但是如果有良好的微操作，飛刀女獵手可以有效地靠近他們並將其摧毀。但需要注意的是，飛刀女獵手開火間隔頗長。拉打是不切實際的
             </li>
             <li>
-              飛刀女獵手在某種程度上比<nuxt-link to="/Cavalry_units/Archer"
+              飛刀女獵手在某種程度上比<nuxt-link to="/units/Cavalry_Archer"
                 >馬騎弓兵</nuxt-link
               >好用，第一，飛刀女獵手是近戰傷害，他們可以輕易摧毀那些有高遠程護甲的單位，如:
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
@@ -67,7 +67,7 @@
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
               >。最後，馬利沒有<nuxt-link to="/techs/Bracer">護腕</nuxt-link
               >科技，而且完全升級後的精銳飛刀女獵手會比<nuxt-link
-                to="/Heavy_Cavalry_units/Archer"
+                to="/units/Heavy_Cavalry_Archer"
                 >重裝馬騎弓兵</nuxt-link
               >有更遠射程和攻擊力。
             </li>
@@ -95,7 +95,7 @@
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >、<nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>、
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>、
               <nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
               >和<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link>。
             </td>
@@ -113,7 +113,7 @@
               <nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
                 to="/units/Slinger"
                 >投石手</nuxt-link
-              >和<nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link>。
+              >和<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -337,7 +337,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -349,7 +349,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

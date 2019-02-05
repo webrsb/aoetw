@@ -28,7 +28,7 @@
           <ul>
             <li>
               弩砲象跟<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >的<nuxt-link to="/units/Organ_Gun">手風琴砲</nuxt-link
+              >的<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link
               >，同樣是特殊單位屬攻城武器單位。跟大部分攻城武器的優勢和劣勢一樣擁有範圍射程對大量單位效果好，但注意的是他可以用
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>進行補血。
             </li>
@@ -230,10 +230,10 @@
           </tr>
         </table>
 
-        <h3>剋弩炮象的單位</h3>
+        <h3>剋弩砲象的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對弩炮象的額外傷害，按造傷殺力排列。
+          以下單位擁有對弩砲象的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
@@ -365,14 +365,14 @@
                       class="gg"
                       src="~assets/HeavyCamelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavy_units/Camel">重裝駱駝騎兵</nuxt-link
+                    /><nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/ImperialCamelIcon.jpg"
                       alt=""
                     />
-                    <nuxt-link to="/Imperial_units/Camel"
+                    <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
                     >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
                       >印度</nuxt-link
@@ -386,7 +386,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >精銳熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -422,7 +422,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -434,7 +434,7 @@
                       class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
-                    /><nuxt-link to="/Genoese_units/Crossbowman"
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
@@ -479,7 +479,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Heavyunits/Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -546,7 +546,7 @@
                 <div style="margin:12px 0px;"><strong>+0攻擊</strong></div>
                 <p>
                   <strong
-                    >(這裡寫出0攻擊是因為弩炮象在騎兵護甲時的裝甲是-2，所以計算後0-(-2)=2仍舊有傷害計算。)</strong
+                    >(這裡寫出0攻擊是因為弩砲象在騎兵護甲時的裝甲是-2，所以計算後0-(-2)=2仍舊有傷害計算。)</strong
                   >
                 </p>
                 <ul>
@@ -625,7 +625,7 @@
               </div>
             </div>
             <div class="col-md-12">
-              以下技術可讓以下單位對弩炮象有額外攻擊力
+              以下技術可讓以下單位對弩砲象有額外攻擊力
               <div class="n1"></div>
               <img
                 class="gg"
@@ -700,7 +700,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高弩炮象的生產速度還有加速
+              >能夠提高弩砲象的生產速度還有加速
               <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >和<nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link
               >的研究時間(快25%)
@@ -713,7 +713,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：弩炮象更不容易被招降。
+              >：弩砲象更不容易被招降。
             </li>
           </ul>
         </div>
@@ -722,12 +722,12 @@
         <div class="n1">
           <ul>
             <li>
-              弩炮象屬於騎兵單位又屬於攻城單位，讓弩炮象成為遊戲中唯一可以被僧侶治療而不用被村民修復的攻城武器。
+              弩砲象屬於騎兵單位又屬於攻城單位，讓弩砲象成為遊戲中唯一可以被僧侶治療而不用被村民修復的攻城武器。
             </li>
-            <li>弩炮象是遊戲中唯一城堡時代就能砸倒樹木的單位。</li>
-            <li>弩炮象是遊戲中開火速率最慢的騎兵單位(2.5)。</li>
+            <li>弩砲象是遊戲中唯一城堡時代就能砸倒樹木的單位。</li>
+            <li>弩砲象是遊戲中開火速率最慢的騎兵單位(2.5)。</li>
             <li>
-              非精銳弩炮象對<nuxt-link to="/armor/Armor_Class_Building"
+              非精銳弩砲象對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >應該有攻擊+2的加成但是因為bug而沒有實際加成。
             </li>
@@ -960,7 +960,7 @@
                 src="~assets/Ballista_Elephant_group.jpg"
                 alt=""
             /></gallery>
-            <p><em>一群弩炮象。</em></p>
+            <p><em>一群弩砲象。</em></p>
           </div>
           <div class="col-md-4">
             <gallery
@@ -969,13 +969,13 @@
                 src="~assets/Ballista_destroying_trees.jpg"
                 alt=""
             /></gallery>
-            <p><em>弩炮象的攻擊可以砸倒樹木。</em></p>
+            <p><em>弩砲象的攻擊可以砸倒樹木。</em></p>
           </div>
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Balistaelehealed.jpg" alt=""
             /></gallery>
-            <p><em>弩炮象雖然屬於攻城單位，但可以被僧侶治療。</em></p>
+            <p><em>弩砲象雖然屬於攻城單位，但可以被僧侶治療。</em></p>
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
@@ -987,8 +987,8 @@
               /></gallery>
               <p>
                 <em
-                  >弩炮象正防止高棉人的基地被<nuxt-link
-                    to="/Rattan_units/Archer"
+                  >弩砲象正防止高棉人的基地被<nuxt-link
+                    to="/units/Rattan_Archer"
                     >藤甲弓兵</nuxt-link
                   >騷擾。</em
                 >

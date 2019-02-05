@@ -57,7 +57,7 @@
                   <img
                     class="gg"
                     src="~assets/CavalryArcherIcon.jpg"
-                  /><nuxt-link to="/Cavalry_units/Archer">馬弓騎兵</nuxt-link>
+                  /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
                 </li>
                 <li>
                   <img class="gg" src="~assets/Slingericon.png" /><nuxt-link
@@ -104,7 +104,7 @@
                   <img
                     class="gg"
                     src="~assets/HeavyCavArcherIcon.jpg"
-                  /><nuxt-link to="/Heavy_Cavalry_units/Archer"
+                  /><nuxt-link to="/units/Heavy_Cavalry_Archer"
                     >重裝馬弓騎兵</nuxt-link
                   >
                 </li>

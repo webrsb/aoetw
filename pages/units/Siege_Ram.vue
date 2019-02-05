@@ -16,8 +16,7 @@
           <p>重型衝撞車移動速度與駐紮數量前後比較</p>
           <ul>
             <li>
-              駐紮步兵數量0→移動速度0.6 (<nuxt-link
-                to="/War_unitsanimal/Elephant"
+              駐紮步兵數量0→移動速度0.6 (<nuxt-link to="/units/War_Elephant"
                 >戰象</nuxt-link
               >移動速度0.6)
             </li>
@@ -25,7 +24,7 @@
               駐紮步兵數量1→移動速度0.65 (<nuxt-link to="/units/Scorpion"
                 >弩砲</nuxt-link
               >、
-              <nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link
+              <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >移動速度0.65)
             </li>
             <li>
@@ -347,7 +346,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>
+                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>

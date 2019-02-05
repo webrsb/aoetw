@@ -143,7 +143,7 @@
                 class="gg"
                 src="~assets/WarElephantIcon.jpg"
                 alt=""
-              /><nuxt-link to="/War_unitsanimal/Elephant">戰象</nuxt-link>
+              /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>
@@ -171,7 +171,7 @@
                 class="gg"
                 src="~assets/Crusade_avatar.png"
                 alt=""
-              /><nuxt-link to="/Teutonic_units/Knight">條頓武士</nuxt-link>
+              /><nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
@@ -291,7 +291,7 @@
                 class="gg"
                 src="~assets/PlumedArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link>
+              /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
@@ -376,7 +376,7 @@
                 class="gg"
                 src="~assets/ElephantArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Elephant_units/Archer">象弓騎兵</nuxt-link>
+              /><nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Indians">印度</nuxt-link>
@@ -389,7 +389,7 @@
                 class="gg"
                 src="~assets/ImperialCamelIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Imperial_units/Camel">帝王駱駝騎兵</nuxt-link>
+              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Indians">印度</nuxt-link>
@@ -404,7 +404,7 @@
                 class="gg"
                 src="~assets/New_Genoese_Crossbowman.png"
                 alt=""
-              /><nuxt-link to="/Genoese_units/Crossbowman"
+              /><nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >
             </td>
@@ -472,7 +472,7 @@
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              /><nuxt-link to="/Camel_units/Archer">駱駝弓騎兵</nuxt-link>
+              /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
@@ -523,7 +523,7 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
-                >手風琴砲</nuxt-link
+                >風琴砲</nuxt-link
               >
             </td>
             <td class="tunitc4">
@@ -572,9 +572,7 @@
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/Ballista_unitsanimal/Elephant"
-                >弩砲象</nuxt-link
-              >
+              /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>
@@ -602,7 +600,7 @@
                 class="gg"
                 src="~assets/RattanarcherIcon2.png"
                 alt=""
-              /><nuxt-link to="/Rattan_units/Archer">藤甲弓兵</nuxt-link>
+              /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>

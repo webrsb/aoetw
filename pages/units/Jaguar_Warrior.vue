@@ -28,7 +28,7 @@
           <ul>
             <li>
               豹勇士在面對步兵時有極高的攻擊加成，讓他們在任何1V1除了與<nuxt-link
-                to="/Teutonic_units/Knight"
+                to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
               >的戰鬥外都能輕鬆獲勝，若是一群豹勇士的話連條頓武士都不是對手。但在對付
               <nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
@@ -47,7 +47,7 @@
               >是在戰場上比較需要注意的，可以生產<nuxt-link to="/units/Onager"
                 >中型投石車</nuxt-link
               >或
-              <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
+              <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >作反制。對上<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
               >阿茲雖然沒有<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >但有高攻擊的
@@ -332,7 +332,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer"
+                    /><nuxt-link to="/units/Plumed_Archer"
                       >精銳羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
@@ -344,7 +344,7 @@
                       class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/Plumed_units/Archer">羽毛箭射手</nuxt-link
+                    /><nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
                     >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
                   </li>
                 </ul>

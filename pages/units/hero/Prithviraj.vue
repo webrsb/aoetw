@@ -15,7 +15,7 @@
             ><nuxt-link to="/batt/">戰役</nuxt-link>講述的是歷史人物
             <a href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
               >布里陀毗羅闍三世</a
-            >的故事。他是1165年至1192年間<nuxt-link to="/India.php"
+            >的故事。他是1165年至1192年間<nuxt-link to="/civs/Indians"
               >印度</nuxt-link
             >阿傑梅爾和德里的統治者。
           </p>
@@ -26,7 +26,7 @@
               布里斯比羅吉是一名<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               ><nuxt-link to="/units/Archer_Units">射手</nuxt-link>
-              <nuxt-link to="/Heros.php">英雄</nuxt-link
+              <nuxt-link to="/units/Hero">英雄</nuxt-link
               >。由於是英雄單位，他無法被招降且能自動回血。他也可在戰役編輯器中使用。
             </p>
             <p>在他的同名戰役中，他出現的形象共有以下三種：</p>
@@ -37,7 +37,7 @@
                 src="~assets/Prithviicon.png"
                 width="22"
                 alt=""
-              />布里斯比羅吉(<nuxt-link to="/Heavy_Cavalry_units/Archer"
+              />布里斯比羅吉(<nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >)
             </li>

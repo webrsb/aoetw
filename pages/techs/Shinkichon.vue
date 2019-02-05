@@ -18,7 +18,7 @@
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
             >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>和
-            <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link>射程+1。
+            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>射程+1。
           </p>
         </div>
         <h3>戰術要點</h3>
