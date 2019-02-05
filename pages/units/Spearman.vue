@@ -904,15 +904,15 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <nuxt-link to="/img/Spearline.png"
+          <gallery src="~assets/Spearline.png"
             ><img class="imgn hg" src="~assets/Spearline.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>長槍兵系列</em></p>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Spearman.png"
+          <gallery src="~assets/Spearman.png"
             ><img class="imgn hg" src="~assets/Spearman.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>一群長槍兵</em></p>
         </div>
       </div>

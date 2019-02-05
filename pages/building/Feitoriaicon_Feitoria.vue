@@ -269,13 +269,13 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <nuxt-link to="/img/Feitoria_-_Copie.png"
+          <gallery src="~assets/Feitoria_-_Copie.png"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/Feitoria_-_Copie.png"
               alt=""
-          /></nuxt-link>
+          /></gallery>
           <div class="lightbox-caption" style="width:220px">
             <p><em>遊戲中的港灣大商站。</em></p>
           </div>

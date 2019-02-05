@@ -111,9 +111,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wonderkhmer.jpg"
+              <gallery src="~assets/Wonderkhmer.jpg"
                 ><img class="imgn hg" src="~assets/Wonderkhmer.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>高棉世界奇觀，吳哥窟</em></p>
             </div>
           </div>

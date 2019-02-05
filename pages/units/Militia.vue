@@ -538,23 +538,23 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Militialine.png"
+              <gallery src="~assets/Militialine.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Militialine.png"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>民兵升級列表</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Militia.png"
+              <gallery src="~assets/Militia.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Militia.png"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群民兵</em></p>
             </div>
           </div>

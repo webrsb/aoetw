@@ -115,9 +115,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wondermayans.jpg"
+              <gallery src="~assets/Wondermayans.jpg"
                 ><img class="imgn hg" src="~assets/Wondermayans.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>大美洲豹神廟</em></p>
             </div>
           </div>

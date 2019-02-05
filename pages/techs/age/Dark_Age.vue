@@ -280,9 +280,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/DarkAge.jpg"
+              <gallery src="~assets/DarkAge.jpg"
                 ><img class="imgn hg" src="~assets/DarkAge.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>每個文明在黑暗時代的樣子。</em></p>
             </div>
           </div>

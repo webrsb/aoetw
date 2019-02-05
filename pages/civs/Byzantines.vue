@@ -247,30 +247,30 @@
       <br />
       <div class="col-md-12">
         <div class="col-md-3">
-          <nuxt-link to="/img/Dome_of_the_Rock_(Saladin).png"
+          <gallery src="~assets/Dome_of_the_Rock_(Saladin).png"
             ><img
               class="imgn hg"
               src="~assets/Dome_of_the_Rock_(Saladin).png"
               alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>岩石圓頂，出現在薩拉丁的第四關及巴巴羅薩的最後一關</em></p>
         </div>
         <div class="col-md-3">
-          <nuxt-link to="/img/Tyre.png"
+          <gallery src="~assets/Tyre.png"
             ><img class="imgn hg" src="~assets/Tyre.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>十字軍城市泰爾</em></p>
         </div>
         <div class="col-md-3">
-          <nuxt-link to="/img/Constantinople.png"
+          <gallery src="~assets/Constantinople.png"
             ><img class="imgn hg" src="~assets/Constantinople.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>聞名於世的君士坦丁堡</em></p>
         </div>
         <div class="col-md-3">
-          <nuxt-link to="/img/Venice.png"
+          <gallery src="~assets/Venice.png"
             ><img class="imgn hg" src="~assets/Venice.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>意大利的城邦威尼斯</em></p>
         </div>
       </div>
@@ -299,9 +299,9 @@
     <div class="n1">
       <div class="col-md-12">
         <div class="col-md-4">
-          <nuxt-link to="/img/MidEastern.jpg"
+          <gallery src="~assets/MidEastern.jpg"
             ><img class="imgn hg" src="~assets/MidEastern.jpg" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>拜占庭的中東式建築。</em></p>
         </div>
       </div>

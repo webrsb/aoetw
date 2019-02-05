@@ -559,13 +559,13 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Bombardcannon.png"
+                <gallery src="~assets/Bombardcannon.png"
                   ><img
                     class="imgn hg"
                     width="250"
                     src="~assets/Bombardcannon.png"
                     alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>火砲</em></p>
               </div>
             </div>

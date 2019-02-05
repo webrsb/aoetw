@@ -253,69 +253,69 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="col-md-4">
-          <nuxt-link to="/img/HouseDarkAge.jpg"
+          <gallery src="~assets/HouseDarkAge.jpg"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/HouseDarkAge.jpg"
               alt=""
-          /></nuxt-link>
+          /></gallery>
           <div class="lightbox-caption" style="width:220px">
             <p><em>所有黑暗時代的房屋。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/HouseFedualAgeHD.jpg"
+          <gallery src="~assets/HouseFedualAgeHD.jpg"
             ><img
               class="imgn hg"
               width="200"
               src="~assets/HouseFedualAgeHD.jpg"
               alt=""
-          /></nuxt-link>
+          /></gallery>
           <div class="lightbox-caption" style="width:220px">
             <p><em>所有封建時代的房屋(帝王世紀和征服者入侵資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/HouseFeudalAgeDLC.jpg"
+          <gallery src="~assets/HouseFeudalAgeDLC.jpg"
             ><img
               class="imgn hg"
               width="200"
               src="~assets/HouseFeudalAgeDLC.jpg"
               alt=""
-          /></nuxt-link>
+          /></gallery>
           <div class="lightbox-caption" style="width:185px">
             <p><em>所有封建時代的房屋(HD擴充資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Houseaokaoc.jpg"
+          <gallery src="~assets/Houseaokaoc.jpg"
             ><img
               class="imgn hg"
               width="200"
               src="~assets/Houseaokaoc.jpg"
               alt=""
-          /></nuxt-link>
+          /></gallery>
           <div class="lightbox-caption" style="width:185px">
             <p><em>所有城堡時代的房屋(帝王世紀和征服者入侵資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Househd.jpg"
+          <gallery src="~assets/Househd.jpg"
             ><img class="imgn hg" width="200" src="~assets/Househd.jpg" alt=""
-          /></nuxt-link>
+          /></gallery>
           <div class="lightbox-caption" style="width:220px">
             <p><em>所有城堡時代的房屋(HD擴充資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Spritesheet_house.jpg"
+          <gallery src="~assets/Spritesheet_house.jpg"
             ><img
               class="imgn hg"
               width="200"
               src="~assets/Spritesheet_house.jpg"
               alt=""
-          /></nuxt-link>
+          /></gallery>
           <div class="lightbox-caption" style="width:185px">
             <p><em>所有遊戲中的房屋類型。</em></p>
           </div>

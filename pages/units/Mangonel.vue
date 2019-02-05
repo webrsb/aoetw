@@ -468,21 +468,21 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/Mangonel.png"
+                <gallery src="~assets/Mangonel.png"
                   ><img class="imgn hg" src="~assets/Mangonel.png" alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>輕型投石車</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Mangonelline.png"
+                <gallery src="~assets/Mangonelline.png"
                   ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>投石車系</em></p>
               </div>
               <div class="col-md-4">
-                <nuxt-link to="/img/Mangonneau.png"
+                <gallery src="~assets/Mangonneau.png"
                   ><img class="imgn hg" src="~assets/Mangonneau.png" alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>畫家素描下現實世界的投石車</em></p>
               </div>
             </div>

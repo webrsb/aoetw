@@ -739,33 +739,33 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Keepaokaoc.jpg"
+            <gallery src="~assets/Keepaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Keepaokaoc.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有的大型箭塔(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Keephd.jpg"
+            <gallery src="~assets/Keephd.jpg"
               ><img class="imgn hg" width="200" src="~assets/Keephd.jpg" alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有的大型箭塔(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Wooden_keep.jpg"
+            <gallery src="~assets/Wooden_keep.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Wooden_keep.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:185px">
               <p><em>現實生活中在法國的木造大型箭塔(來源:維基百科)。</em></p>
             </div>

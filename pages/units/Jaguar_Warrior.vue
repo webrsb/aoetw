@@ -626,21 +626,21 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Jaguarwarrior.png"
+            <gallery src="~assets/Jaguarwarrior.png"
               ><img class="imgn hg" src="~assets/Jaguarwarrior.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群豹勇士</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Url.jpg"
+            <gallery src="~assets/Url.jpg"
               ><img class="imgn hg" src="~assets/Url.jpg" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>豹勇士3D圖</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Jaguar_Warrior.jpg"
+            <gallery src="~assets/Jaguar_Warrior.jpg"
               ><img class="imgn hg" src="~assets/Jaguar_Warrior.jpg" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>豹勇士</em></p>
           </div>
         </div>

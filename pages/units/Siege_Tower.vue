@@ -596,18 +596,18 @@
             <div class="n1">
               <div class="col-md-12">
                 <div class="col-md-4">
-                  <nuxt-link to="/img/Siegetower.jpg"
+                  <gallery src="~assets/Siegetower.jpg"
                     ><img class="imgn hg" src="~assets/Siegetower.jpg" alt=""
-                  /></nuxt-link>
+                  /></gallery>
                   <p><em>一群攻城塔</em></p>
                 </div>
                 <div class="col-md-4">
-                  <nuxt-link to="/img/Siege_Tower_attacking.png"
+                  <gallery src="~assets/Siege_Tower_attacking.png"
                     ><img
                       class="imgn hg"
                       src="~assets/Siege_Tower_attacking.png"
                       alt=""
-                  /></nuxt-link>
+                  /></gallery>
                   <p>
                     <em>《世紀帝國II:失落的帝國》的攻城塔是可以射箭攻擊的</em>
                   </p>

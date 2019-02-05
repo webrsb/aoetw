@@ -574,21 +574,21 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/sc45.jpg"
+              <gallery src="~assets/sc45.jpg"
                 ><img class="imgn hg" src="~assets/Scoutcavalry.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群斥侯。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/sc45.jpg"
+              <gallery src="~assets/sc45.jpg"
                 ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>斥侯系，斥侯在最左邊。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/sc45.jpg"
+              <gallery src="~assets/sc45.jpg"
                 ><img class="imgn hg" src="~assets/sc45.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群封建的斥侯正在大開殺戒。</em></p>
             </div>
           </div>

@@ -818,18 +818,18 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <nuxt-link to="/img/Battle_Elephant_and_Elite.jpg"
+            <gallery src="~assets/Battle_Elephant_and_Elite.jpg"
               ><img
                 class="imgn hg"
                 src="~assets/Battle_Elephant_and_Elite.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>矛象伕和精銳矛象伕。</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Elitebattleelephant.png"
+            <gallery src="~assets/Elitebattleelephant.png"
               ><img class="imgn hg" src="~assets/Elitebattleelephant.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群精銳矛象伕。</em></p>
           </div>
         </div>

@@ -993,15 +993,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Cavarcherline.png"
+            <gallery src="~assets/Cavarcherline.png"
               ><img class="imgn hg" src="~assets/Cavarcherline.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>馬弓騎兵系</em></p>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Heavycavalryarcher.png"
+            <gallery src="~assets/Heavycavalryarcher.png"
               ><img class="imgn hg" src="~assets/Heavycavalryarcher.png" alt=""
-            /></nuxt-link>
+            /></gallery>
             <p><em>一群重裝馬弓騎兵</em></p>
           </div>
         </div>

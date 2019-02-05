@@ -746,29 +746,29 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <nuxt-link to="/img/Eagleline.png"
+          <gallery src="~assets/Eagleline.png"
             ><img class="imgn hg" src="~assets/Eagleline.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>鷹勇士系列</em></p>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Eaglescout.png"
+          <gallery src="~assets/Eaglescout.png"
             ><img class="imgn hg" src="~assets/Eaglescout.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>一群鷹勇士(《世紀帝國II:征服者入侵》資料片)</em></p>
         </div>
         <div class="col-md-4">
-          <nuxt-link to="/img/Eaglewarrior.png"
+          <gallery src="~assets/Eaglewarrior.png"
             ><img class="imgn hg" src="~assets/Eaglewarrior.png" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>一群鷹勇士(《世紀帝國II:失落的帝國》資料片)</em></p>
         </div>
       </div>
       <div class="col-md-12">
         <div class="col-md-4">
-          <nuxt-link to="/img/Eagle_Warrior.jpg"
+          <gallery src="~assets/Eagle_Warrior.jpg"
             ><img class="imgn hg" src="~assets/Eagle_Warrior.jpg" alt=""
-          /></nuxt-link>
+          /></gallery>
           <p><em>一名鷹勇士</em></p>
         </div>
       </div>

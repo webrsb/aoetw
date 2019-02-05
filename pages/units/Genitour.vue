@@ -776,18 +776,18 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Tumblr_nxo1o0aN0R1tnh0y7o7_400.png"
+              <gallery src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o7_400.png"
                 ><img
                   class="imgn hg"
                   src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o7_400.png"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群標槍騎兵。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/0.jpg"
+              <gallery src="~assets/0.jpg"
                 ><img class="imgn hg" src="~assets/0.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>雖然南美文明不能生產騎兵，但卻可以生產標槍騎兵。</em></p>
             </div>
           </div>

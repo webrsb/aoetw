@@ -580,58 +580,58 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Woadraider.png"
+            <gallery src="~assets/Woadraider.png"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Woadraider.png"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>一群菘藍武士。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Elite_Woad_Raider.jpg"
+            <gallery src="~assets/Elite_Woad_Raider.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Elite_Woad_Raider.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:185px">
               <p><em>精銳菘藍武士。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Woad.jpg"
+            <gallery src="~assets/Woad.jpg"
               ><img class="imgn hg" width="200" src="~assets/Woad.jpg" alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:185px">
               <p><em>菘藍武士3D圖。</em></p>
             </div>
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Woadraiders.png"
+              <gallery src="~assets/Woadraiders.png"
                 ><img
                   class="imgn hg"
                   width="180"
                   src="~assets/Woadraiders.png"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <div class="lightbox-caption" style="width:220px">
                 <p><em>歷史記載的菘藍武士手稿。</em></p>
               </div>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Pictish_Warrior.jpg"
+              <gallery src="~assets/Pictish_Warrior.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
                   src="~assets/Pictish_Warrior.jpg"
                   alt=""
-              /></nuxt-link>
+              /></gallery>
               <div class="lightbox-caption" style="width:185px">
                 <p><em>畫家筆下的皮克特人可能是菘藍武士的發想。</em></p>
               </div>

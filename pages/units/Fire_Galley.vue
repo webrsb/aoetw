@@ -778,21 +778,21 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Fireline.png"
+              <gallery src="~assets/Fireline.png"
                 ><img class="imgn hg" src="~assets/Fireline.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>火戰船系列(火蒙衝在最左邊)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Firegalley (1).jpg"
+              <gallery src="~assets/Firegalley (1).jpg"
                 ><img class="imgn hg" src="~assets/Firegalley (1).jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群火蒙衝。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Firegalley.jpg"
+              <gallery src="~assets/Firegalley.jpg"
                 ><img class="imgn hg" src="~assets/Firegalley.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>各種火蒙衝(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
           </div>

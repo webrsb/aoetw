@@ -760,31 +760,31 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Demoline.png"
+              <gallery src="~assets/Demoline.png"
                 ><img class="imgn hg" src="~assets/Demoline.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>神風船系列(神風船在中間)。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/Demoship.png"
+              <gallery src="~assets/Demoship.png"
                 ><img class="imgn hg" src="~assets/Demoship.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>一群神風船。</em></p>
             </div>
             <div class="col-md-4">
-              <nuxt-link to="/img/DemolitionShipHD.png"
+              <gallery src="~assets/DemolitionShipHD.png"
                 ><img class="imgn hg" src="~assets/DemolitionShipHD.png" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>各種神風船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <nuxt-link to="/img/DemolitionShipDLC.png"
+                <gallery src="~assets/DemolitionShipDLC.png"
                   ><img
                     class="imgn hg"
                     src="~assets/DemolitionShipDLC.png"
                     alt=""
-                /></nuxt-link>
+                /></gallery>
                 <p><em>各種神風船(HD擴充資料片)。</em></p>
               </div>
             </div>

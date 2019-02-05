@@ -113,9 +113,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <nuxt-link to="/img/Wondermongols.jpg"
+              <gallery src="~assets/Wondermongols.jpg"
                 ><img class="imgn hg" src="~assets/Wondermongols.jpg" alt=""
-              /></nuxt-link>
+              /></gallery>
               <p><em>成吉思汗的大帳棚</em></p>
             </div>
           </div>

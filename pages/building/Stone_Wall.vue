@@ -387,25 +387,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <nuxt-link to="/img/Stonewallaokaoc.jpg"
+            <gallery src="~assets/Stonewallaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Stonewallaokaoc.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有文明的石牆(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <nuxt-link to="/img/Stonewallhd.jpg"
+            <gallery src="~assets/Stonewallhd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Stonewallhd.jpg"
                 alt=""
-            /></nuxt-link>
+            /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有文明的石牆(HD擴充資料片)。</em></p>
             </div>
