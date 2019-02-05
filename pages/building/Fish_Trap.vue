@@ -51,12 +51,12 @@
             >，玩家更難以保護<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
             >。<nuxt-link to="/units/Villager">農夫</nuxt-link
             >可以躲進城鎮中心或是用牆來保護，但是
-            <nuxt-link to="/units/Fishing_Ship">漁船</a>會輕易地被擊沉。
+            <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>會輕易地被擊沉。
           </p>
           <p>然而，有兩個文明的漁網還是很有用的：</p>
           <ul>
             <li>
-              <nuxt-link to="/civs/Japanese">日本</a>：更高的<nuxt-link
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>：更高的<nuxt-link
                 to="/units/Fishing_Ship"
                 >漁船</nuxt-link
               >工作速度，使得日本的漁網遠比
@@ -339,25 +339,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Fishtraps.jpg"
+            <nuxt-link to="/img/Fishtraps.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Fishtraps.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>漁網應該盡可能地蓋靠近碼頭。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Spritesheet_fish_trap.png"
+            <nuxt-link to="/img/Spritesheet_fish_trap.png"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_fish_trap.png"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>漁網的各種樣子(建造中/損壞/閒置動畫)。</em></p>
             </div>

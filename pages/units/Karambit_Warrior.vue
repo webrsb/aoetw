@@ -558,24 +558,24 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Karambit_Warrior_group.jpg"
+              <nuxt-link to="/img/Karambit_Warrior_group.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Karambit_Warrior_group.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>一群爪刀勇士</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Karambits.png"
+              <nuxt-link to="/img/Karambits.png"
                 ><img class="imgn hg" src="~assets/Karambits.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>兩個爪刀勇士只佔一人口。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Karambit_knife.jpg"
+              <nuxt-link to="/img/Karambit_knife.jpg"
                 ><img class="imgn hg" src="~assets/Karambit_knife.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>沒有刀鞘的彎刀，可看見尾端的手指環。</em></p>
             </div>
           </div>

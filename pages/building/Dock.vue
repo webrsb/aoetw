@@ -651,37 +651,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/DockDarkAge.jpg"
+            <nuxt-link to="/img/DockDarkAge.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/DockDarkAge.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有黑暗時代的碼頭。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/DockFeudalAgeHD.jpg"
+            <nuxt-link to="/img/DockFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/DockFeudalAgeHD.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的碼頭(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/DockFeudalAgeDLC.jpg"
+            <nuxt-link to="/img/DockFeudalAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/DockFeudalAgeDLC.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有封建時代的碼頭(HD擴充資料片)。</em></p>
             </div>
@@ -689,37 +689,37 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Dockaokaoc.jpg"
+            <nuxt-link to="/img/Dockaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Dockaokaoc.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有城堡時代的碼頭(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Dockexpansions.jpg"
+            <nuxt-link to="/img/Dockexpansions.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Dockexpansions.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的碼頭(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Spritesheet_dock.jpg"
+            <nuxt-link to="/img/Spritesheet_dock.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_dock.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em

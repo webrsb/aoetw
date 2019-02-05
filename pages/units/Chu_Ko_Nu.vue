@@ -628,7 +628,7 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <a target="_blank" href="/img/armor/Armor_Class_Archer">射手</a>
+              <nuxt-link to="/img/armor/Armor_Class_Archer">射手</nuxt-link>
               <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
@@ -678,33 +678,33 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Chukonu.png"
+            <nuxt-link to="/img/Chukonu.png"
               ><img class="imgn hg" width="180" src="~assets/Chukonu.png" alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>一群連弩兵。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/7081407_2_l.jpg"
+            <nuxt-link to="/img/7081407_2_l.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/7081407_2_l.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>真實的諸葛連弩。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Chinese_age11.jpg"
+            <nuxt-link to="/img/Chinese_age11.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Chinese_age11.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>ㄧ名連弩兵。</em></p>
             </div>

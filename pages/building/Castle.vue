@@ -789,33 +789,33 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a target="_blank" href="/img/Castleaokaoc.png"
+          <nuxt-link to="/img/Castleaokaoc.png"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/Castleaokaoc.jpg"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
             <p><em>所有城堡(帝王世紀和征服者入侵資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <a target="_blank" href="/img/Castlehd.png"
+          <nuxt-link to="/img/Castlehd.png"
             ><img class="imgn hg" width="200" src="~assets/Castlehd.jpg" alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
             <p><em>所有城堡(HD擴充資料片)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <a target="_blank" href="/img/Spritesheet_castle.png"
+          <nuxt-link to="/img/Spritesheet_castle.png"
             ><img
               class="imgn hg"
               width="200"
               src="~assets/Spritesheet_castle.jpg"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:185px">
             <p><em>城堡在一般地圖/下雪地圖和駐紮單位時的樣子。</em></p>
           </div>

@@ -577,37 +577,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/BarracksDarkAge.jpg"
+            <nuxt-link to="/img/BarracksDarkAge.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/BarracksDarkAge.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有黑暗時代的軍營。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/BarracksFeudalAgeHD.jpg"
+            <nuxt-link to="/img/BarracksFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/BarracksFeudalAgeHD.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的軍營(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Barracks_hd_feudal.jpg"
+            <nuxt-link to="/img/Barracks_hd_feudal.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Barracks_hd_feudal.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有封建時代的軍營(HD擴充資料片)。</em></p>
             </div>
@@ -615,37 +615,37 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Barracksaokaoc.jpg"
+            <nuxt-link to="/img/Barracksaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Barracksaokaoc.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有城堡時代的軍營(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Barracks_hd.jpg"
+            <nuxt-link to="/img/Barracks_hd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Barracks_hd.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的軍營(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Spritesheet_barracks.jpg"
+            <nuxt-link to="/img/Spritesheet_barracks.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_barracks.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em

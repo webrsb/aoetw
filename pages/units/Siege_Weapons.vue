@@ -815,25 +815,25 @@
             <div class="hrn1"></div>
             <div class="n1">
               <div class="col-md-4">
-                <a target="_blank" href="/img/Siegeunitssiegeworkshop.jpg"
+                <nuxt-link to="/img/Siegeunitssiegeworkshop.jpg"
                   ><img
                     class="imgn hg"
                     width="180"
                     src="~assets/Siegeunitssiegeworkshop.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:220px">
                   <p><em>所有攻城器製造所可訓練的攻城器單位。</em></p>
                 </div>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Siegeunitscastle.jpg"
+                <nuxt-link to="/img/Siegeunitscastle.jpg"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Siegeunitscastle.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:220px">
                   <p><em>所有城堡可訓練的攻城器單位。</em></p>
                 </div>

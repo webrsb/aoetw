@@ -145,12 +145,12 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/White_Castle,_arrow_slit.jpg"
+              <nuxt-link to="/img/White_Castle,_arrow_slit.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/White_Castle,_arrow_slit.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p>
                 <em
                   ><a
@@ -161,12 +161,12 @@
               </p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Arrow_slat_corfe_castle.jpg"
+              <nuxt-link to="/img/Arrow_slat_corfe_castle.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Arrow_slat_corfe_castle.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>由內部看的箭狹槽，也就是弓箭手會站的位置。</em></p>
             </div>
           </div>

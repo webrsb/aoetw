@@ -428,75 +428,75 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/TCDarkAge.jpg"
+              <nuxt-link to="/img/TCDarkAge.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCDarkAge.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>黑暗時代的城鎮中心。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/TCFeudalAgeHD.jpg"
+              <nuxt-link to="/img/TCFeudalAgeHD.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCFeudalAgeHD.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有封建時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/TCFeudalAgeDLC.jpg"
+              <nuxt-link to="/img/TCFeudalAgeDLC.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCFeudalAgeDLC.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有封建時代的城鎮中心(HD 擴充版)。</em></p>
             </div>
           </div>
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Towncenteraokaoc.jpg"
+              <nuxt-link to="/img/Towncenteraokaoc.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Towncenteraokaoc.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有城堡時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Towncenteraoe2expansions.png"
+              <nuxt-link to="/img/Towncenteraoe2expansions.png"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/Towncenteraoe2expansions.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有城堡時代的城鎮中心(HD 擴充版)。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/TCImperialAgeHD.jpg"
+              <nuxt-link to="/img/TCImperialAgeHD.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCImperialAgeHD.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有帝王時代的城鎮中心(帝王世紀和征服者入侵)。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/TCImperialAgeDLC.jpg"
+              <nuxt-link to="/img/TCImperialAgeDLC.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/TCImperialAgeDLC.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>所有帝王時代的城鎮中心(HD 擴充版)。</em></p>
             </div>
           </div>

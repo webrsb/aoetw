@@ -507,37 +507,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/MillDarkAge.jpg"
+            <nuxt-link to="/img/MillDarkAge.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/MillDarkAge.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有黑暗時代的磨坊。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/MillFeudalAgeHD.jpg"
+            <nuxt-link to="/img/MillFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/MillFeudalAgeHD.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的磨坊(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/MillFeudalAgeDLC.jpg"
+            <nuxt-link to="/img/MillFeudalAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/MillFeudalAgeDLC.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有封建時代的磨坊(HD擴充資料片)。</em></p>
             </div>
@@ -545,37 +545,37 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Millaokaoc.jpg"
+            <nuxt-link to="/img/Millaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Millaokaoc.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有城堡時代的磨坊(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Mills_hd.jpg"
+            <nuxt-link to="/img/Mills_hd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Mills_hd.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的磨坊(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Nashtifan_windmills.jpg"
+            <nuxt-link to="/img/Nashtifan_windmills.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Nashtifan_windmills.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>伊朗Nashtifan風車磨坊，這是印度磨坊建築的模板。</em></p>
             </div>

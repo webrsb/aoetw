@@ -357,25 +357,25 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
-                <a target="_blank" href="/img/Monasteryaokaoc.png"
+                <nuxt-link to="/img/Monasteryaokaoc.png"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Monasteryaokaoc.png"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:220px">
                   <p><em>所有文明的修道院(帝王世紀和征服者入侵資料片)。</em></p>
                 </div>
               </div>
               <div class="col-md-6">
-                <a target="_blank" href="/img/Monasteries.png"
+                <nuxt-link to="/img/Monasteries.png"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Monasteries.png"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:185px">
                   <p><em>所有文明的修道院(HD擴充資料片)。</em></p>
                 </div>
@@ -383,25 +383,25 @@
             </div>
             <div class="col-md-12">
               <div class="col-md-6">
-                <a target="_blank" href="/img/Mud_mosque.jpg"
+                <nuxt-link to="/img/Mud_mosque.jpg"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Mud_mosque.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:185px">
                   <p><em>真實生活中的非洲修道院:Larabanga清真寺。</em></p>
                 </div>
               </div>
               <div class="col-md-6">
-                <a target="_blank" href="/img/Konark_sun_temple.jpg"
+                <nuxt-link to="/img/Konark_sun_temple.jpg"
                   ><img
                     class="imgn hg"
                     width="200"
                     src="~assets/Konark_sun_temple.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <div class="lightbox-caption" style="width:185px">
                   <p><em>科納克太陽神殿，遊戲中印度修道院的參考。</em></p>
                 </div>
@@ -414,7 +414,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="/building/Monastery">修道院</nuxt-link></div>
+              <div class="unititle"><nuxt-link to="">修道院</nuxt-link></div>
             </td>
           </tr>
           <tr>

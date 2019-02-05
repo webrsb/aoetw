@@ -107,9 +107,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Maygars_preview.jpg"
+              <nuxt-link to="/img/Maygars_preview.jpg"
                 ><img class="imgn hg" src="~assets/Maygars_preview.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>官方釋出的馬扎爾文明</em></p>
             </div>
           </div>

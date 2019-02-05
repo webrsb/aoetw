@@ -153,25 +153,25 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a target="_blank" href="/img/Splashdamageram.jpg"
+          <nuxt-link to="/img/Splashdamageram.jpg"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/Splashdamageram.jpg"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
             <p><em>衝撞車的攻擊擴散範圍(沒有扭力彈射器)。</em></p>
           </div>
         </div>
         <div class="col-md-4">
-          <a target="_blank" href="/img/Splashdamageramtorsion.jpg"
+          <nuxt-link to="/img/Splashdamageramtorsion.jpg"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/Splashdamageramtorsion.jpg"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
             <p><em>衝撞車的攻擊擴散範圍(有扭力彈射器)。</em></p>
           </div>

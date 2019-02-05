@@ -660,15 +660,15 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Missionary.png"
+              <nuxt-link to="/img/Missionary.png"
                 ><img class="imgn hg" src="~assets/Missionary.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>一群傳教士</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Missionary1.jpg"
+              <nuxt-link to="/img/Missionary1.jpg"
                 ><img class="imgn hg" src="~assets/Missionary1.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>傳教士美術畫</em></p>
             </div>
           </div>

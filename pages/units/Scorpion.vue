@@ -505,24 +505,24 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a target="_blank" href="/img/Scorpion.png"
+                <nuxt-link to="/img/Scorpion.png"
                   ><img class="imgn hg" src="~assets/Scorpion.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>一群弩砲</em></p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Scorpionline.png"
+                <nuxt-link to="/img/Scorpionline.png"
                   ><img class="imgn hg" src="~assets/Scorpionline.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>弩砲與重型努泡</em></p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Scorpion_Ballista.jpg"
+                <nuxt-link to="/img/Scorpion_Ballista.jpg"
                   ><img
                     class="imgn hg"
                     src="~assets/Scorpion_Ballista.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>真實世界的弩炮</em></p>
               </div>
             </div>

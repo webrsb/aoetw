@@ -1142,25 +1142,25 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Cavalryunitsstable.jpg"
+              <nuxt-link to="/img/Cavalryunitsstable.jpg"
                 ><img
                   class="imgn hg"
                   width="180"
                   src="~assets/Cavalryunitsstable.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <div class="lightbox-caption" style="width:220px">
                 <p><em>所有在馬廄訓練的騎兵單位。</em></p>
               </div>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Cavalryunitscastle.jpg"
+              <nuxt-link to="/img/Cavalryunitscastle.jpg"
                 ><img
                   class="imgn hg"
                   width="200"
                   src="~assets/Cavalryunitscastle.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <div class="lightbox-caption" style="width:220px">
                 <p><em>所有在城堡訓練的騎兵單位。</em></p>
               </div>

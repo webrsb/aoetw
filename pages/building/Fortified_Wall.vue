@@ -346,25 +346,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Fortifiedwallaokaoc.jpg"
+            <nuxt-link to="/img/Fortifiedwallaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Fortifiedwallaokaoc.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有文明的垛牆(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Fortifiedwallhd.jpg"
+            <nuxt-link to="/img/Fortifiedwallhd.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Fortifiedwallhd.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有文明的垛牆(HD資料片)。</em></p>
             </div>

@@ -1312,25 +1312,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Infantryunitsbarracks.jpg"
+            <nuxt-link to="/img/Infantryunitsbarracks.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Infantryunitsbarracks.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有軍營裡可訓練的步兵單位。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Infantryunitscastle.jpg"
+            <nuxt-link to="/img/Infantryunitscastle.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Infantryunitscastle.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡裡可訓練的步兵單位。</em></p>
             </div>

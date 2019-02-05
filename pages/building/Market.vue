@@ -426,37 +426,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/MarketFeudalAgeHD.jpg"
+            <nuxt-link to="/img/MarketFeudalAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/MarketFeudalAgeHD.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/MarketFeudalAgeDLC.jpg"
+            <nuxt-link to="/img/MarketFeudalAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/MarketFeudalAgeDLC.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的市集(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Marketaokaoc.jpg"
+            <nuxt-link to="/img/Marketaokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Marketaokaoc.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有城堡時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
@@ -464,33 +464,33 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Market.jpg"
+            <nuxt-link to="/img/Market.jpg"
               ><img class="imgn hg" width="200" src="~assets/Market.jpg" alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的市集(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/MarketImperialAgeHD.jpg"
+            <nuxt-link to="/img/MarketImperialAgeHD.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/MarketImperialAgeHD.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有帝王時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/MarketImperialAgeDLC.jpg"
+            <nuxt-link to="/img/MarketImperialAgeDLC.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/MarketImperialAgeDLC.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p><em>所有帝王時代的市集(HD擴充資料片)。</em></p>
             </div>
@@ -498,13 +498,13 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Spritesheet_market.jpg"
+            <nuxt-link to="/img/Spritesheet_market.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_market.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em

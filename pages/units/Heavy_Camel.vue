@@ -784,21 +784,21 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Camelline.png"
+            <nuxt-link to="/img/Camelline.png"
               ><img class="imgn hg" src="~assets/Camelline.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>駱駝系。</em></p>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Heavycamel.png"
+            <nuxt-link to="/img/Heavycamel.png"
               ><img class="imgn hg" src="~assets/Heavycamel.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>一群重裝駱駝騎兵。</em></p>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/HeavyCamelaok.jpg"
+            <nuxt-link to="/img/HeavyCamelaok.jpg"
               ><img class="imgn hg" src="~assets/HeavyCamelaok.jpg" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>遊戲裡的重裝駱駝騎兵。</em></p>
           </div>
         </div>

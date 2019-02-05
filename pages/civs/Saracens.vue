@@ -123,9 +123,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/MidEastern.jpg"
+              <nuxt-link to="/img/MidEastern.jpg"
                 ><img class="imgn hg" src="~assets/MidEastern.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>薩拉森建築</em></p>
             </div>
           </div>

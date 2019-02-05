@@ -948,15 +948,15 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a target="_blank" href="/img/Villagerfemale.png"
+                <nuxt-link to="/img/Villagerfemale.png"
                   ><img class="imgn hg" src="~assets/Villagerfemale.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>女村民</em></p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Villagermale.png"
+                <nuxt-link to="/img/Villagermale.png"
                   ><img class="imgn hg" src="~assets/Villagermale.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>男村民</em></p>
               </div>
             </div>

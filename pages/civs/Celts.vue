@@ -168,30 +168,30 @@
         <h3>圖庫</h3>
         <div class="col-md-4">
           <div class="wimg">
-            <a target="_blank" href="/img/Woad.jpg"
+            <nuxt-link to="/img/Woad.jpg"
               ><img class="imgn hg" src="~assets/Woad.jpg" alt=""
-            /></a>
+            /></nuxt-link>
           </div>
           <div class="hrn1"></div>
           <p>菘藍武士的3D模組。</p>
         </div>
         <div class="col-md-4">
           <div class="wimg">
-            <a target="_blank" href="/img/Wondercelts.jpg"
+            <nuxt-link to="/img/Wondercelts.jpg"
               ><img class="imgn hg" src="~assets/Wondercelts.jpg" alt=""
-            /></a>
+            /></nuxt-link>
           </div>
           <div class="hrn1"></div>
           <p>賽爾特的世界奇觀：卡瑟爾岩。</p>
         </div>
         <div class="col-md-4">
           <div class="wimg">
-            <a target="_blank" href="/img/Celts_in_III_century_BC.jpg"
+            <nuxt-link to="/img/Celts_in_III_century_BC.jpg"
               ><img
                 class="imgn hg"
                 src="~assets/Celts_in_III_century_BC.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
           </div>
           <div class="hrn1"></div>
           <p>西元3世紀時賽爾特人的擴張情況。</p>

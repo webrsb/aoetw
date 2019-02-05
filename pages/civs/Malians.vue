@@ -105,9 +105,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/WonderMalians.jpg"
+              <nuxt-link to="/img/WonderMalians.jpg"
                 ><img class="imgn hg" src="~assets/WonderMalians.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>馬利的世界奇觀，傑內大清真寺</em></p>
             </div>
           </div>

@@ -637,15 +637,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Handcannoneer.png"
+            <nuxt-link to="/img/Handcannoneer.png"
               ><img class="imgn hg" src="~assets/Handcannoneer.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>一群火槍兵</em></p>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Hand_Cannon.png"
+            <nuxt-link to="/img/Hand_Cannon.png"
               ><img class="imgn hg" src="~assets/Hand_Cannon.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>元朝遺留下的火炮</em></p>
           </div>
         </div>

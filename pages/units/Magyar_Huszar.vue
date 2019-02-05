@@ -711,37 +711,37 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a target="_blank" href="/img/AoF_Magyar_Huszar_All_Angles.jpg"
+                <nuxt-link to="/img/AoF_Magyar_Huszar_All_Angles.jpg"
                   ><img
                     class="imgn hg"
                     src="~assets/AoF_Magyar_Huszar_All_Angles.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>一群馬札爾驃騎兵。</em></p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/A.png"
+                <nuxt-link to="/img/A.png"
                   ><img class="imgn hg" src="~assets/A.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>4.4版的馬札爾驃騎兵。</em></p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Maygar_Huszar_Old.png"
+                <nuxt-link to="/img/Maygar_Huszar_Old.png"
                   ><img
                     class="imgn hg"
                     src="~assets/Maygar_Huszar_Old.png"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>2.2版前的馬札爾驃騎兵。</em></p>
               </div>
               <div class="col-md-12">
                 <div class="col-md-4">
-                  <a target="_blank" href="/img/Magyar_Huszar_Concept_Art.jpg"
+                  <nuxt-link to="/img/Magyar_Huszar_Concept_Art.jpg"
                     ><img
                       class="imgn hg"
                       src="~assets/Magyar_Huszar_Concept_Art.jpg"
                       alt=""
-                  /></a>
+                  /></nuxt-link>
                   <p><em>真實世界的馬札爾驃騎兵的畫。</em></p>
                 </div>
               </div>

@@ -25,7 +25,7 @@
           </p>
           <p>
             阿茲特克的村民以努力工作著稱，他們有額外5的資源攜帶量。作為一個高度化軍事文明，所有軍事建築生產都更快，而殘忍的祭祀信仰讓他們的遺跡可以額外生產更多的黃金。身為南美洲文明，阿茲特克沒有馬匹或火藥。但有非常好用的
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</a>。
+            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
           </p>
           <p>
             阿茲特克是全遊戲中單挑最強的文明之一，詳見:<nuxt-link
@@ -115,9 +115,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Wonderaztecs.jpg"
+              <nuxt-link to="/img/Wonderaztecs.jpg"
                 ><img class="imgn hg" src="~assets/Wonderaztecs.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>大神殿</em></p>
             </div>
           </div>
@@ -172,7 +172,8 @@
                 >擲矛器</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" /><a target="_blank" href="/img/techs/Garland_Wars"
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/img/techs/Garland_Wars"
                 >榮冠戰爭</nuxt-link
               >
             </td>

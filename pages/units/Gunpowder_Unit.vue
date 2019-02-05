@@ -369,13 +369,13 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Gunpowder.jpg"
+              <nuxt-link to="/img/Gunpowder.jpg"
                 ><img
                   class="imgn hg"
                   width="180"
                   src="~assets/Gunpowder.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <div class="lightbox-caption" style="width:220px">
                 <p><em>所有火藥單位(非洲王朝資料片)。</em></p>
               </div>

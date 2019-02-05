@@ -194,13 +194,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Palisadegate.jpg"
+            <nuxt-link to="/img/Palisadegate.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Palisadegate.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>木門和木牆。</em></p>
             </div>

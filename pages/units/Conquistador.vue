@@ -783,9 +783,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Conquistadorgroup.png"
+              <nuxt-link to="/img/Conquistadorgroup.png"
                 ><img class="imgn hg" src="~assets/Conquistadorgroup.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>一群征服者</em></p>
             </div>
           </div>

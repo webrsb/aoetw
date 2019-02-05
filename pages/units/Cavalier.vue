@@ -772,15 +772,15 @@
       <div class="n1">
         <div class="col-md-12">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Knightline.png"
+            <nuxt-link to="/img/Knightline.png"
               ><img class="imgn hg" src="~assets/Knightline.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>騎士系。</em></p>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Cavalier.png"
+            <nuxt-link to="/img/Cavalier.png"
               ><img class="imgn hg" src="~assets/Cavalier.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>一群騎兵。</em></p>
           </div>
         </div>

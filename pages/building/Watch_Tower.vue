@@ -690,37 +690,37 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Watchtoweraokaoc.jpg"
+            <nuxt-link to="/img/Watchtoweraokaoc.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Watchtoweraokaoc.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有的瞭望箭塔(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Watchtowerhd.jpg"
+            <nuxt-link to="/img/Watchtowerhd.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Watchtowerhd.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有的瞭望箭塔(HD擴充資料片)。</em></p>
             </div>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Spritesheet_towers.jpg"
+            <nuxt-link to="/img/Spritesheet_towers.jpg"
               ><img
                 class="imgn hg"
                 width="200"
                 src="~assets/Spritesheet_towers.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em

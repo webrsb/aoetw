@@ -182,9 +182,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Berbers_preview.jpg"
+              <nuxt-link to="/img/Berbers_preview.jpg"
                 ><img class="imgn hg" src="~assets/Berbers_preview.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>官方預覽圖</em></p>
             </div>
           </div>

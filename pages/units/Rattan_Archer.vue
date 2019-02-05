@@ -243,12 +243,12 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Rattan_vs_Cavalry_Archers.jpg"
+              <nuxt-link to="/img/Rattan_vs_Cavalry_Archers.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Rattan_vs_Cavalry_Archers.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>一群正在作戰的藤甲弓兵。</em></p>
             </div>
           </div>

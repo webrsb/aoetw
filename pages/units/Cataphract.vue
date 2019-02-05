@@ -771,27 +771,28 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Cataphract.png"
+              <nuxt-link to="/img/Cataphract.png"
                 ><img class="imgn hg" src="~assets/Cataphract.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>一群聖騎兵</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"
+              <nuxt-link to="/img/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"
                 ><img
                   class="imgn hg"
                   src="~assets/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>聖騎兵模組</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"
+              <nuxt-link
+                to="/img/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>現實生活中的聖騎兵。</em></p>
             </div>
           </div>

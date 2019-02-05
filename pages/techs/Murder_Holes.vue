@@ -91,12 +91,12 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a target="_blank" href="/img/1024px-Bodiam_murder_holes.jpg"
+                <nuxt-link to="/img/1024px-Bodiam_murder_holes.jpg"
                   ><img
                     class="imgn hg"
                     src="~assets/1024px-Bodiam_murder_holes.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <p>
                   <em
                     ><a href="http://tinyurl.com/y8vlw8g3">博丁安堡</a
@@ -105,12 +105,12 @@
                 </p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Machicolation_Of_Wejter_Tower.jpg"
+                <nuxt-link to="/img/Machicolation_Of_Wejter_Tower.jpg"
                   ><img
                     class="imgn hg"
                     src="~assets/Machicolation_Of_Wejter_Tower.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>真正的垛孔(博丁安堡那個是Murder Holes)</em></p>
               </div>
             </div>

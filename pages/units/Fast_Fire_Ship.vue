@@ -835,28 +835,28 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Fireline.png"
+              <nuxt-link to="/img/Fireline.png"
                 ><img class="imgn hg" src="~assets/Fireline.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>火戰船系列(快速火戰船在右邊)。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Fastfireship.jpg"
+              <nuxt-link to="/img/Fastfireship.jpg"
                 ><img class="imgn hg" src="~assets/Fastfireship.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>一群快速火戰船。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/FFireShipHD.jpg"
+              <nuxt-link to="/img/FFireShipHD.jpg"
                 ><img class="imgn hg" src="~assets/FFireShipHD.jpg" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>各種快速火戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <a target="_blank" href="/img/FFireShipDLC.jpg"
+                <nuxt-link to="/img/FFireShipDLC.jpg"
                   ><img class="imgn hg" src="~assets/FFireShipDLC.jpg" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>各種快速火戰船(HD擴充資料片)。</em></p>
               </div>
             </div>

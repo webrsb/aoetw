@@ -665,15 +665,15 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a target="_blank" href="/img/Eagleline.png"
+          <nuxt-link to="/img/Eagleline.png"
             ><img class="imgn hg" src="~assets/Eagleline.png" alt=""
-          /></a>
+          /></nuxt-link>
           <p><em>鷹勇士系列</em></p>
         </div>
         <div class="col-md-4">
-          <a target="_blank" href="/img/Eaglescout.png"
+          <nuxt-link to="/img/Eaglescout.png"
             ><img class="imgn hg" src="~assets/Eaglescout.png" alt=""
-          /></a>
+          /></nuxt-link>
           <p><em>一群鷹斥侯</em></p>
         </div>
       </div>

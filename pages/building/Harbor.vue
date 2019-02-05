@@ -591,13 +591,13 @@
       <div class="hrn1"></div>
       <div class="n1">
         <div class="col-md-4">
-          <a target="_blank" href="/img/HarboraoeII.jpg"
+          <nuxt-link to="/img/HarboraoeII.jpg"
             ><img
               class="imgn hg"
               width="180"
               src="~assets/HarboraoeII.jpg"
               alt=""
-          /></a>
+          /></nuxt-link>
           <div class="lightbox-caption" style="width:220px">
             <p><em>遊戲中的巨港。</em></p>
           </div>

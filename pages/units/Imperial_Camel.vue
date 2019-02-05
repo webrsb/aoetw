@@ -648,41 +648,41 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/AOF35_Imperial_Camel.jpg"
+              <nuxt-link to="/img/AOF35_Imperial_Camel.jpg"
                 ><img
                   class="imgn hg"
                   width="250"
                   src="~assets/AOF35_Imperial_Camel.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>失落的帝國，3.5版本的帝王駱駝騎兵。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/AOF36_Imperial_Camel.jpg"
+              <nuxt-link to="/img/AOF36_Imperial_Camel.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/AOF36_Imperial_Camel.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>3.6版本的帝王駱駝騎兵。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/D.png"
+              <nuxt-link to="/img/D.png"
                 ><img class="imgn hg" src="~assets/D.png" alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>4.4版本的帝王駱駝騎兵。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
-                <a target="_blank" href="/img/Camelline.png"
+                <nuxt-link to="/img/Camelline.png"
                   ><img class="imgn hg" src="~assets/Camelline.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>駱駝騎兵、重裝駱駝騎兵與帝王駱駝騎兵。</em></p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Indians_preview.jpg"
+                <nuxt-link to="/img/Indians_preview.jpg"
                   ><img class="imgn hg" src="~assets/Indians_preview.jpg" alt=""
-                /></a>
+                /></nuxt-link>
                 <p>
                   <em
                     >失落的帝國還沒釋出前的官方圖，可以看到帝王駱駝的最初樣子。</em
@@ -690,12 +690,12 @@
                 </p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Imperial_Camel_AoFE.jpg"
+                <nuxt-link to="/img/Imperial_Camel_AoFE.jpg"
                   ><img
                     class="imgn hg"
                     src="~assets/Imperial_Camel_AoFE.jpg"
                     alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>3.6版本的帝王駱駝騎兵。</em></p>
               </div>
             </div>

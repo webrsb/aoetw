@@ -622,18 +622,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png"
+            <nuxt-link to="/img/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png"
               ><img
                 class="imgn hg"
                 src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>一群飛刀女獵手</em></p>
           </div>
           <div class="col-md-4">
-            <a target="_blank" href="/img/Gbeto_Attacking.jpg"
+            <nuxt-link to="/img/Gbeto_Attacking.jpg"
               ><img class="imgn hg" src="~assets/Gbeto_Attacking.jpg" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>飛刀女獵手正攻擊敵人的軍營</em></p>
           </div>
         </div>

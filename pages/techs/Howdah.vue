@@ -83,21 +83,23 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <a target="_blank" href="/img/Howdah_of_the_Golconda_Sultanate_Qutb_Shahi_dynasty.jpg"
+              <nuxt-link
+                to="/img/Howdah_of_the_Golconda_Sultanate_Qutb_Shahi_dynasty.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Howdah_of_the_Golconda_Sultanate_Qutb_Shahi_dynasty.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p><em>沙希王朝(Qutb_Shahi_dynasty)的象轎。</em></p>
             </div>
             <div class="col-md-4">
-              <a target="_blank" href="/img/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg"
+              <nuxt-link
+                to="/img/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg"
                 ><img
                   class="imgn hg"
                   src="~assets/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philippoteaux.jpg"
                   alt=""
-              /></a>
+              /></nuxt-link>
               <p>
                 <em
                   ><a href="http://tinyurl.com/y9lkr244">卡那提克戰爭</a

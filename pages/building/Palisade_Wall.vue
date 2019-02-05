@@ -263,13 +263,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Palisadegold.jpg"
+            <nuxt-link to="/img/Palisadegold.jpg"
               ><img
                 class="imgn hg"
                 width="180"
                 src="~assets/Palisadegold.jpg"
                 alt=""
-            /></a>
+            /></nuxt-link>
             <div class="lightbox-caption" style="width:220px">
               <p><em>木牆可以在遊戲早期守護重要的資源。</em></p>
             </div>

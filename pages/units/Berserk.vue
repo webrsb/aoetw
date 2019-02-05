@@ -712,9 +712,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-4">
-            <a target="_blank" href="/img/Berserk.png"
+            <nuxt-link to="/img/Berserk.png"
               ><img class="imgn hg" src="~assets/Berserk.png" alt=""
-            /></a>
+            /></nuxt-link>
             <p><em>一群狂戰士</em></p>
           </div>
         </div>

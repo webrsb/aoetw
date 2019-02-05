@@ -524,21 +524,21 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <a target="_blank" href="/img/Splashdamageram.jpg"
+                <nuxt-link to="/img/Splashdamageram.jpg"
                   ><img class="imgn hg" src="~assets/Splashdamageram.jpg" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>各類型衝撞車與其傷害。</em></p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Siegeram.png"
+                <nuxt-link to="/img/Siegeram.png"
                   ><img class="imgn hg" src="~assets/Siegeram.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>一群重型衝撞車。</em></p>
               </div>
               <div class="col-md-4">
-                <a target="_blank" href="/img/Ramline.png"
+                <nuxt-link to="/img/Ramline.png"
                   ><img class="imgn hg" src="~assets/Ramline.png" alt=""
-                /></a>
+                /></nuxt-link>
                 <p><em>衝撞車系。</em></p>
               </div>
             </div>
