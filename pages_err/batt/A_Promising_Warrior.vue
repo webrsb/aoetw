@@ -49,15 +49,15 @@
   </tr>
 
 <tr>
-   <td class="tc6" width="15%""><div class="p3"></div>玩家2：</td>
+   <td class="tc6" width="15%"><div class="p3"></div>玩家2：</td>
    <td class="tc6" width="35%">索梅西瓦王（綠色）印度 </td>
-   <td class="tc6" width="15%""><div class="p4"></div>玩家3：</td>
+   <td class="tc6" width="15%"><div class="p4"></div>玩家3：</td>
    <td class="tc6" width="35%">印度城（黃色）印度 </td>
 </tr>
 <tr>
-   <td class="tc6" width="15%""><div class="p5"></div>玩家4：</td>
+   <td class="tc6" width="15%"><div class="p5"></div>玩家4：</td>
    <td class="tc6" width="35%">印度村（水藍色）印度 </td>
-   <td class="tc6" width="15%""><div class="p7"></div>玩家5：</td>
+   <td class="tc6" width="15%"><div class="p7"></div>玩家5：</td>
    <td class="tc6" width="35%">兆汗軍（灰色）印度 </td>
 </tr>
 
@@ -72,7 +72,7 @@
     <td class="tc6">科蒂西瓦神廟（藍色）法蘭克 </td>
   </tr>
 <tr>
-   <td class="tc6" width="15%""><div class="p6"></div>玩家8：</td>
+   <td class="tc6" width="15%"><div class="p6"></div>玩家8：</td>
    <td class="tc6" width="35%">匪幫（紫色）印度 </td>
 </tr>
 
@@ -160,21 +160,21 @@
  <table class="table-bordered" width="100%">
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle"><a href="">英雄出少年</a></div>
+          <div class="unititle"><nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link></div>
        </td>
       </tr>
       <tr>
-       <td colspan="2" ><div class="unititle"><img src="img/Prithviraj_1.jpg" width="" alt=""></div>
+       <td colspan="2" ><div class="unititle"><img src="~assets/Prithviraj_1.jpg" width="" alt="" /></div>
        </td>
       </tr>
       <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">情景信息</a></div>
+       <div class="unititle2">情景信息</div>
        </td>
       </tr>
       <tr>
         <td class="unit3">版本</td>
-       <td class="unit4">失落的帝國</td>
+        <td class="unit4"><nuxt-link to="/games/aof">失落的帝國</nuxt-link></td>
       </tr>
       <tr>
         <td class="unit3">戰役</td>
@@ -182,10 +182,11 @@
       </tr>
       <tr>
         <td class="unit3">文明</td>
-       <td class="unit4"><a href="">印度人</a></td>
+       <td class="unit4"><nuxt-link to="/civs/Indians">印度人</nuxt-link></td>
       </tr>
+      <tr>
         <td class="unit" colspan="2" style=" background-color:#375d96;">
-       <div class="unititle2"><a href="">戰役關卡編號</a></div>
+       <div class="unititle2">戰役關卡編號</div>
        </td>
       </tr>
        <tr>
@@ -194,13 +195,11 @@
       </tr>
        <tr>
         <td class="unit3">上一關</td>
-        <td class="unit4">
-       <a href=></a>N/A</p>
+        <td class="unit4">N/A</td>
       </tr>
       <tr>
         <td class="unit3">下一關</td>
-       <td class="unit4">
-        <a href="The_Digvijaya.php">逐鹿迪格維傑之地</a></p>
+       <td class="unit4"><nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link>
         </td>
       </tr>
       
