@@ -1087,7 +1087,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Dos_Pilas_648）"
+                    <nuxt-link to="/batt/Dos_Pilas_648"
                       >雙柱城（648）</nuxt-link
                     >
                   </div>
@@ -1112,7 +1112,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Langshan_Jiang_919.php"
+                    <nuxt-link to="/batt/Langshan_Jiang_919 "
                       >狼山江（919）</nuxt-link
                     >
                   </div>
