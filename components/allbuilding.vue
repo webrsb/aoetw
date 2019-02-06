@@ -22,7 +22,7 @@
                 >兵工廠</nuxt-link>。 <nuxt-link to="/building/Fish_Trap">漁網</nuxt-link>。<nuxt-link to="/building/Monastery"
                 >修道院</nuxt-link>。<nuxt-link to="/building/University">學院</nuxt-link>。
               <nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>。<nuxt-link to="/building/Feitoriaicon_Feitoria"
-                >港灣大商站</nuxt-link>。<nuxt-link to="/building/Harbor">巨港</nuxt-link>
+                >港灣大商站</nuxt-link>。<nuxt-link to="/building/Harbor">海港</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -239,7 +239,7 @@
                 <li>
                   <img class="gg" src="~assets/Dockicon.png" alt="" /><nuxt-link
                     to="/building/Harbor"
-                    >巨港</nuxt-link
+                    >海港</nuxt-link
                   >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                 </li>
               </ul>

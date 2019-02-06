@@ -263,7 +263,7 @@
               width="25px"
               src="~assets/Dockicon.png"
               alt=""
-            /><nuxt-link to="/building/Harbor">巨港</nuxt-link>
+            /><nuxt-link to="/building/Harbor">海港</nuxt-link>
           </li>
         </ul>
       </div>

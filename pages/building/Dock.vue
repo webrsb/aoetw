@@ -368,7 +368,7 @@
             <tr>
               <td class="tta1">其他</td>
               <td class="tta4">
-                碼頭可升級成<nuxt-link to="/building/Harbor">巨港</nuxt-link
+                碼頭可升級成<nuxt-link to="/building/Harbor">海港</nuxt-link
                 >(需要<nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link
                 >， <nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
               </td>

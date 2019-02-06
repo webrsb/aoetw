@@ -106,13 +106,13 @@
                 src="~assets/Dockicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Harbor">巨港</nuxt-link
+              /><nuxt-link to="/building/Harbor">海港</nuxt-link
               >：更強大可攻擊的港口（限<nuxt-link to="/civs/Malay"
                 >馬來</nuxt-link
               >）
             </li>
             <h4>
-              1.<nuxt-link to="/building/Harbor">巨港</nuxt-link
+              1.<nuxt-link to="/building/Harbor">海港</nuxt-link
               >也是軍事和民生建築，需先研發<nuxt-link to="/techs/Thalassocracy"
                 >海上霸主</nuxt-link
               >。

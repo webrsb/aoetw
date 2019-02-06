@@ -262,7 +262,7 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link
                       to="/civs/Malay"
                       >馬來</nuxt-link
                     >限定)

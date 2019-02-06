@@ -240,7 +240,7 @@
                       width="25px"
                       src="~assets/Dockicon.png"
                       alt=""
-                    /><nuxt-link to="">巨港</nuxt-link>(<nuxt-link
+                    /><nuxt-link to="">海港</nuxt-link>(<nuxt-link
                       to="/civs/Malians"
                       >馬來</nuxt-link
                     >限定)
