@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>格拉維爾領主</h1>
@@ -112,9 +109,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-        <div>
-          <div></div>
-        </div>
       </div>
     </div>
   </div>

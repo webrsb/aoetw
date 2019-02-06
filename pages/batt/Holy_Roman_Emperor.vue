@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>神聖羅馬皇帝</h1>
@@ -92,14 +89,12 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/BRA 1.jpg" alt="" />
-              </div>
+              <div class="unititle"><img src="~assets/BRA 1.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -123,7 +118,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>

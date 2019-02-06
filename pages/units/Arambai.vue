@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>飛鏢騎兵</h1>
@@ -136,8 +133,7 @@
               >、<nuxt-link to="/units/Camel">戟兵</nuxt-link>、<nuxt-link
                 to="/units/Genitour"
                 >日本武士</nuxt-link
-              >、
-              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
+              >、 <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
             </td>
           </tr>
           <tr class="tta">

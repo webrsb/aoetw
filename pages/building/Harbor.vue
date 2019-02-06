@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>海港</h1>
@@ -286,8 +283,7 @@
                 src="~assets/Fletching.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
@@ -300,8 +296,7 @@
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Heatedshot.png"
@@ -319,8 +314,7 @@
                 src="~assets/Fletching.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
@@ -396,8 +390,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -555,9 +548,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2">
-                <nuxt-link to="">單位演變</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -603,9 +594,6 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

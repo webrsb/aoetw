@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>老鷹</h1>
@@ -15,9 +12,7 @@
           </p>
         </div>
       </div>
-      <div class="col-md-4">
-        <img src="~assets/Hawk.png" alt="" />
-      </div>
+      <div class="col-md-4"><img src="~assets/Hawk.png" alt="" /></div>
     </div>
   </div>
 </template>

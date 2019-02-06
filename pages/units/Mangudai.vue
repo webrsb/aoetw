@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>蒙古突騎</h1>
@@ -203,8 +200,7 @@
                 src="~assets/Fletching.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
@@ -217,15 +213,13 @@
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Parthian-Tactics.jpg"
@@ -245,8 +239,7 @@
                 src="~assets/Fletching.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
@@ -282,8 +275,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
-              >:增加命中率至100%
-              <br />
+              >:增加命中率至100% <br />
               <img
                 class="gg"
                 src="~assets/Ballistics.jpg"
@@ -302,16 +294,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Leatherarcherarmor.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Parthian-Tactics.jpg"
@@ -340,8 +330,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

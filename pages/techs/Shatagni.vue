@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>印度火槍</h1>
@@ -53,7 +50,7 @@
           <ul>
             <li>
               Shatagni'是古代印度人給大砲和槍支的名字。他們之所以這樣命名，是因為他們認為它有殺死一百名敵方士兵的能力（"shat"
-              跟" शत "的意思是"百"，而"agni" 跟 " अग्नी "的意思是"火"）。
+              跟" शत"的意思是"百"，而"agni" 跟" अग्नी"的意思是"火"）。
             </li>
             <li>
               印度火槍一開始是讓火槍兵有100%的命中率，後來應該是考慮到遊戲平衡所以改成現在的效果。
@@ -77,9 +74,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">
-                <nuxt-link to="">科技介紹</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -137,9 +132,6 @@
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

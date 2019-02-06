@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>火戰船</h1>
@@ -107,8 +104,7 @@
                 src="~assets/Careening.jpg"
                 alt=""
               /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-              >(護甲+0/+1)
-              <br />
+              >(護甲+0/+1) <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -138,8 +134,7 @@
                 src="~assets/Faith.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -675,7 +670,6 @@
               除了<nuxt-link to="/civs/Vikings">維京</nuxt-link>以外的所有文明
             </td>
           </tr>
-
           <tr>
             <td class="unit3">時代</td>
             <td class="unit4">

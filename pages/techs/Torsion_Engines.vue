@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>扭力彈射器</h1>
@@ -87,9 +84,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">
-                <nuxt-link to="">科技介紹</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
             </td>
           </tr>
           <tr>

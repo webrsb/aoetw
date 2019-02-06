@@ -4,7 +4,7 @@
       <p class="tt2">Aoetw</p>
       <span class="tt">完整、準確的世紀帝國百科全書 </span>
     </div>
-    <div class="container" style=" margin-bottom: 30px; ">
+    <div class="container" style=" margin-bottom: 30px;">
       <div class="row">
         <div class="col-md-12">
           <div class="col-md-12">
@@ -133,7 +133,7 @@
     <div class="container">
       <div
         class="row nw"
-        style="margin-top: 0px;        border-top: 1px solid #c7c7c7;"
+        style="margin-top: 0px; border-top: 1px solid #c7c7c7;"
       >
         <div class="col-md-2 ititle2">
           <div class="nw">
@@ -222,7 +222,7 @@
       </div>
       <div
         class="row nw"
-        style="margin-top: 0px;        border-top: 1px solid #c7c7c7;"
+        style="margin-top: 0px; border-top: 1px solid #c7c7c7;"
       >
         <div class="col-md-8 ititle3">
           <div class="nw">
@@ -292,9 +292,7 @@
   </section>
 </template>
 <script>
-export default {
-  components: {}
-}
+export default { components: {} }
 </script>
 <style>
 .tit {
@@ -310,12 +308,10 @@ export default {
   font-weight: bold;
   margin-right: 530px;
 }
-
 .tt {
   font-size: 45px;
   font-weight: bold;
 }
-
 @media (max-width: 576px) {
   .ititle {
     flex: 0 0 50%;

@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>斯拉夫</h1>
@@ -160,8 +157,7 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />東正教
-              <br />
+              <img class="gg" src="~assets/CastleAgeUnique.png" />東正教 <br />
               <img class="gg" src="~assets/Unique-tech.jpg" />王家侍從
             </td>
           </tr>

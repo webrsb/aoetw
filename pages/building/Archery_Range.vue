@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>射箭場</h1>
@@ -181,8 +178,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >（護甲+1／+1，+3建築護甲）
-              <br />
+              >（護甲+1／+1，+3建築護甲） <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -218,8 +214,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -424,15 +419,13 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              />1500
-              <br />
+              />1500 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              />1800
-              <br />
+              />1800 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -453,15 +446,13 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              />1
-              <br />
+              />1 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              />2
-              <br />
+              />2 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -478,15 +469,13 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              />8
-              <br />
+              />8 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              />9
-              <br />
+              />9 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -525,7 +514,6 @@
                 src="~assets/ARFeudalAgeDLC.jpg"
                 alt=""
             /></gallery>
-
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em>所有封建時代的射箭場（帝王世紀和征服者入侵資料片）。</em>
@@ -540,7 +528,6 @@
                 src="~assets/ARFeudalAgeHD.jpg"
                 alt=""
             /></gallery>
-
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的射箭場（HD擴充資料片）。</em></p>
             </div>
@@ -553,7 +540,6 @@
                 src="~assets/Archeryrangeaokaoc.jpg"
                 alt=""
             /></gallery>
-
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em>所有城堡時代的射箭場（帝王世紀和征服者入侵資料片）。</em>
@@ -568,7 +554,6 @@
                 src="~assets/Archery_ranges_hd.jpg"
                 alt=""
             /></gallery>
-
             <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的射箭場（HD擴充資料片）。</em></p>
             </div>
@@ -581,7 +566,6 @@
                 src="~assets/Spritesheet_archery_range.jpg"
                 alt=""
             /></gallery>
-
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em

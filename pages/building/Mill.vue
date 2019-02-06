@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>磨坊</h1>
@@ -47,9 +44,7 @@
               >民兵</nuxt-link
             >快攻比較不好圍，而空一格的蓋法將輕輕鬆鬆擋住民兵的快攻。
           </p>
-          <p>
-            <img width="400px;" src="~assets/millf.png" alt="" />
-          </p>
+          <p><img width="400px;" src="~assets/millf.png" alt="" /></p>
         </div>
         <h3>可訓練的單位與技術</h3>
         <div class="hrn1"></div>
@@ -133,8 +128,7 @@
                 src="~assets/Masonry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
-              <br />
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -152,8 +146,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >(護甲+1/+1，+3建築護甲)
-              <br />
+              >(護甲+1/+1，+3建築護甲) <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -189,8 +182,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -395,22 +387,19 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              />600
-              <br />
+              />600 <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              />800
-              <br />
+              />800 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              />1000
-              <br />
+              />1000 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -427,22 +416,19 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              />0
-              <br />
+              />0 <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              />1
-              <br />
+              />1 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              />2
-              <br />
+              />2 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -459,22 +445,19 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              />7
-              <br />
+              />7 <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              />8
-              <br />
+              />8 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              />9
-              <br />
+              />9 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -501,7 +484,6 @@
 
         <div class="thanks">感謝! 此頁面由小蝦、賜齡、眠協助編輯</div>
       </div>
-
       <div class="col-md-12">
         <h3>圖庫</h3>
         <div class="hrn1"></div>

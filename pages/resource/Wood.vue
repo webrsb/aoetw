@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>木材</h1>
@@ -13,9 +10,7 @@
           石礦是四種主要資源之一，通常主要是由村民採集木材，但也可以利用別的手段來獲得。
         </p>
       </div>
-      <div class="col-md-2">
-        <img src="~assets/Wood_aoe2.png" alt="" />
-      </div>
+      <div class="col-md-2"><img src="~assets/Wood_aoe2.png" alt="" /></div>
       <div class="col-md-12">
         <h3>採集</h3>
         <div class="hrn1"></div>

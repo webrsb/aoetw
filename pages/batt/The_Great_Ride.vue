@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>偉大的騎士</h1>
@@ -28,8 +25,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -37,9 +33,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家1</div></td>
               <td class="tc6" colspan="3">匈奴人（黃色）</td>
             </tr>
             <tr>
@@ -47,75 +41,34 @@
             </tr>
             <tr>
               <td class="tc6" width="15%"><div class="p8">玩家2</div></td>
-              <td class="tc6" width="35% ">西徐亞人（橘色）蒙古</td>
+              <td class="tc6" width="35%">西徐亞人（橘色）蒙古</td>
             </tr>
             <tr>
-              <td
-                class="tc4
-                "
-                colspan="4 "
-                style="background:#ea6153;
-                "
-              >
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
-              <td
-                class="tc6
-                "
-              >
-                索非亞（紅色）法蘭克
-              </td>
+              <td class="tc6">索非亞（紅色）法蘭克</td>
               <td class="tc6"><div class="p3">玩家3</div></td>
-              <td
-                class="tc6
-                "
-              >
-                奈沙（綠色）哥德
-              </td>
+              <td class="tc6">奈沙（綠色）哥德</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p7">玩家4</div></td>
-              <td
-                class="tc6
-                "
-              >
-                亞得里亞堡（灰色）拜占庭
-              </td>
+              <td class="tc6">亞得里亞堡（灰色）拜占庭</td>
               <td class="tc6"><div class="p5">玩家5</div></td>
-              <td
-                class="tc6
-                "
-              >
-                第爾哈群（藍綠色）條頓
-              </td>
+              <td class="tc6">第爾哈群（藍綠色）條頓</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p6">玩家6</div></td>
-              <td
-                class="tc6
-                "
-              >
-                底斯索隆尼卡（紫色）拜占庭
-              </td>
+              <td class="tc6">底斯索隆尼卡（紫色）拜占庭</td>
               <td class="tc6"><div class="p1">玩家7</div></td>
-              <td
-                class="tc6
-                "
-              >
-                東羅馬帝國（藍色）拜占庭
-              </td>
+              <td class="tc6">東羅馬帝國（藍色）拜占庭</td>
             </tr>
           </table>
 
           <br />
-          <dl
-            class="dl-horizontal
-                "
-          >
+          <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>12位韃靼騎兵、8位馬騎弓兵。</dd>
             <dt>大地之母單位：</dt>
@@ -123,10 +76,7 @@
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>掠奪這個羅馬的村落。</li>
               <li>
@@ -138,20 +88,14 @@
         </div>
         <h2>次要目標</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>給西徐亞的女戰士6個村民，以換取她們的支援。</li>
           </ul>
         </div>
         <h2>任務提示</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               每一個小村落（不包括羅馬的要塞）擁有的資源：食物、木材、黃金、石頭、村民和軍隊。你的韃靼騎兵將會被派到每一個村落去掠奪資源。
@@ -202,18 +146,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
               </div>
@@ -222,119 +157,59 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Attila.2.jpg"
-                  width="
-                "
-                  alt=""
-                />
+                <img src="~assets/Attila.2.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link to="/">情景信息</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              版本
-            </td>
+            <td class="unit3">版本</td>
             <td class="unit4">征服者入侵</td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              戰役
-            </td>
+            <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              文明
-            </td>
+            <td class="unit3">文明</td>
             <td class="unit4"><nuxt-link to="/civs/Huns">匈奴人</nuxt-link></td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link
-                  to="/
-                "
-                  >戰役關卡編號</nuxt-link
-                >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td
-              class="unit4
-                "
-            >
-              征服者第一章之二
-            </td>
+            <td class="unit4">征服者第一章之二</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link
-                to="/batt/Scourge_of_God
-                "
-                >上帝之鞭</nuxt-link
-              >
+              <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link
-                to="/batt/Walls_of_Constantinople
-                "
+              <nuxt-link to="/batt/Walls_of_Constantinople"
                 >君士坦丁堡的城牆</nuxt-link
               >
             </td>
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由裕暉、竺叡協助編輯。</div>
-        <div
-          class="row
-                "
-        >
-          <div
-            class="col-md-12
-                "
-          ></div>
-        </div>
+        <div class="thanks">感謝！此頁面由裕暉、竺叡協助編輯。</div>
       </div>
     </div>
   </div>

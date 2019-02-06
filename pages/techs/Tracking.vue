@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>追縱技術</h1>
@@ -29,10 +26,8 @@
         </div>
         <h3>受影響的單位</h3>
         <div class="hrn1"></div>
-        <div class="n1">
-          <p>下面列出所有受追蹤技術影響的單位。</p>
-        </div>
-        <table class="table-bordered " width="100%">
+        <div class="n1"><p>下面列出所有受追蹤技術影響的單位。</p></div>
+        <table class="table-bordered" width="100%">
           <tr class="tta">
             <td>步兵單位</td>
             <td>原本視野</td>
@@ -365,9 +360,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">
-                <nuxt-link to="">科技介紹</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -418,9 +411,6 @@
           </tr>
         </table>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1>私奔</h1>
@@ -106,7 +105,6 @@
             </ol>
           </div>
         </div>
-
         <h2>次要任務</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -172,9 +170,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center>
-                  <img src="~assets/Prithviraj 3.jpg" width="" alt="" />
-                </center>
+                <center><img src="~assets/Prithviraj 3.jpg" alt="" /></center>
               </div>
             </td>
           </tr>
@@ -222,9 +218,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝！此頁面由小蛇，竺叡協助編輯。
-        </div>
+        <div class="thanks">感謝！此頁面由小蛇，竺叡協助編輯。</div>
       </div>
     </div>
   </div>

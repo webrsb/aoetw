@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>義大利</h1>
@@ -204,8 +201,7 @@
               <img
                 class="gg"
                 src="~assets/New_Genoese_Crossbowman.png"
-              />熱那亞弩手
-              <br />
+              />熱那亞弩手 <br />
               <img class="gg" src="~assets/CondottieroNewIcon.jpg" />僱傭兵
             </td>
           </tr>
@@ -216,8 +212,7 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />巨盾
-              <br />
+              <img class="gg" src="~assets/CastleAgeUnique.png" />巨盾 <br />
               <img class="gg" src="~assets/Unique-tech.jpg" />絲綢之路
             </td>
           </tr>

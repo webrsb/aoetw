@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>吉列爾莫‧安布裡科</h1>
@@ -87,8 +84,7 @@
               +7 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
-              +2
-              <br />
+              +2 <br />
             </td>
           </tr>
           <tr>
@@ -151,7 +147,6 @@
         </div>
       </div>
     </div>
-    <div class="row"><div class="col-md-12"></div></div>
   </div>
 </template>
 <script>

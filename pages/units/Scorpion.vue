@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>弩砲</h1>
@@ -109,28 +106,24 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。
-              <br />
+              >攻擊加成+20%。 <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Rocketry"
                 >火箭術</nuxt-link
-              >(+4)
-              <br />
+              >(+4) <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Torsion_Engines"
                 >扭力彈射器</nuxt-link
               >：攻城器製造所的單位傷害範圍增加。<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >限定
-              <br />
+              >限定 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Double_Crossbow"
                 >雙弩箭</nuxt-link
@@ -710,9 +703,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由眠協助編輯</div>
-      </div>
-      <div class="row">
-        <div class="col-md-12"></div>
       </div>
     </div>
   </div>

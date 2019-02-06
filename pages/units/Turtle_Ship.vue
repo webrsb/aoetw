@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>龜甲船</h1>
@@ -97,8 +94,7 @@
                 style="margin: 2px;"
                 src="~assets/Drydock.jpg"
                 alt=""
-              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%)
-              <br />
+              /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>(+15%) <br />
               <img
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
@@ -115,8 +111,7 @@
                 src="~assets/Faith.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

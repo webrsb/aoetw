@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>傳教士</h1>
@@ -89,8 +86,7 @@
               <img class="gg" src="~assets/Sanctity.jpg" alt="" /><nuxt-link
                 to="/techs/Sanctity"
                 >聖潔虔誠</nuxt-link
-              >(+15)
-              <br />
+              >(+15) <br />
               <img
                 class="gg"
                 src="~assets/Bloodlines.png"
@@ -124,13 +120,11 @@
               <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
                 to="/techs/Redemption"
                 >信仰救贖</nuxt-link
-              >:僧侶可招降大部分建築物和攻城單位。
-              <br />
+              >:僧侶可招降大部分建築物和攻城單位。 <br />
               <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
                 to="/techs/Atonement"
                 >贖罪</nuxt-link
-              >:僧侶可招降對方的僧侶。
-              <br />
+              >:僧侶可招降對方的僧侶。 <br />
               <img class="gg" src="~assets/Illumination.jpg" alt="" /><nuxt-link
                 to="/techs/Illumination"
                 >啟發教化</nuxt-link
@@ -139,8 +133,7 @@
               <img class="gg" src="~assets/Theocracy.png" alt="" /><nuxt-link
                 to="/techs/Theocracy"
                 >神權統治</nuxt-link
-              >:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。
-              <br />
+              >:一群僧侶招降一個單位成功後，只有一位僧侶需要恢復信仰。 <br />
               <img
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
@@ -160,8 +153,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

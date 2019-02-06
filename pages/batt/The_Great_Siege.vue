@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action -->
-
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>四面楚歌</strong></h1>
@@ -22,7 +19,6 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>基本資訊</h3>
-
           <ul>
             <li>
               起始時代：<img
@@ -211,7 +207,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -235,7 +231,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -253,18 +249,11 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4">
-              <nuxt-link to="">N/A</nuxt-link>
-            </td>
+            <td class="unit4">N/A</td>
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝！此頁面由裕暉、Dennis協助編輯。
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12"></div>
+        <div class="thanks">感謝！此頁面由裕暉、Dennis協助編輯。</div>
       </div>
     </div>
   </div>

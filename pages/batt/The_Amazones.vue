@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>亞馬遜族</h1>
@@ -35,8 +32,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -44,9 +40,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家1</div></td>
               <td class="tc6" colspan="3">印加人（藍色）</td>
             </tr>
             <tr>
@@ -54,37 +48,26 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p4">玩家5</div></td>
-              <td class="tc6" width="38% ">當地的貿易站（水藍色）印加</td>
-              <td class="tc6" width="12%">
-                <div class="p6">玩家6</div>
-              </td>
+              <td class="tc6" width="38%">當地的貿易站（水藍色）印加</td>
+              <td class="tc6" width="12%"><div class="p6">玩家6</div></td>
               <td class="tc6" width="38%">寺廟（紫色）印加</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p1">玩家8</div></td>
-              <td class="tc6" width="38% ">西班牙人（藍色）西班牙</td>
+              <td class="tc6" width="38%">西班牙人（藍色）西班牙</td>
             </tr>
             <tr>
-              <td
-                class="tc4
-                "
-                colspan="4 "
-                style="background:#ea6153;"
-              >
-                中立
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6 " width="12%">
-                <div class="p3">玩家3</div>
-              </td>
+              <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
               <td class="tc6" width="38%">亞馬遜供給隊（綠色）印加</td>
               <td class="tc6" width="12%"><div class="p4">玩家4</div></td>
-              <td class="tc6" width="38% ">漁夫（黃色）印加</td>
+              <td class="tc6" width="38%">漁夫（黃色）印加</td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4 " style="background:#ea6153;">敵對</td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
@@ -96,7 +79,7 @@
           </table>
 
           <br />
-          <dl class="dl-horizontal ">
+          <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
               法蘭西斯科.德.奧雷利亞納、2位劍兵勇士、4位火槍兵、3位西班牙征服者、2艘運輸船。
@@ -228,18 +211,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link>
               </div>
@@ -247,24 +221,13 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img
-                  src="~assets/EI_3.jpg"
-                  alt="
-                "
-                />
-              </div>
+              <div class="unititle"><img src="~assets/EI_3.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
-              <div class="unititle2 ">
-                <nuxt-link to="/">情景信息</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
@@ -287,9 +250,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
-              <div class="unititle2 ">
-                <nuxt-link to="/">戰役關卡編號</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>

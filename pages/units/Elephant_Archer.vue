@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>象弓騎兵</h1>
@@ -362,7 +359,6 @@
                     >限定)
                   </li>
                 </ul>
-
                 <div style="margin:12px 0px;"><strong>+14攻擊</strong></div>
                 <ul>
                   <li>
@@ -610,7 +606,6 @@
                     <nuxt-link to="/units/Chu_Ko_Nu">精銳連弩兵</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
-
                   <li>
                     <img
                       class="gg"
@@ -625,7 +620,6 @@
                     <nuxt-link to="/units/Jaguar_Warrior">精銳豹勇士</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
-
                   <li>
                     <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                       to="/units/Berserk"
@@ -634,7 +628,6 @@
                     <nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
-
                   <li>
                     <img
                       class="gg"
@@ -751,7 +744,6 @@
             </div>
           </div>
         </div>
-
         <h3>團隊加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -795,9 +787,7 @@
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
-        <div class="n1">
-          <p></p>
-        </div>
+        <div class="n1"><p></p></div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">

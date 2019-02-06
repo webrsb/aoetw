@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>貴族鐵騎</h1>
@@ -109,15 +106,13 @@
                 src="~assets/Forging.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Ironcasting.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Blastfurnace.jpg"
@@ -135,16 +130,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Platebardingarmor.jpg"

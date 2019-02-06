@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>雙手劍兵</h1>
@@ -93,15 +90,13 @@
                 src="~assets/Forging.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Ironcasting.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Blastfurnace.jpg"
@@ -126,8 +121,7 @@
                 alt=""
               /><nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
               >:步兵攻擊+4，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >限定。
-              <br />
+              >限定。 <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -136,8 +130,7 @@
               /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
               >:步兵單位有踐踏傷害，<nuxt-link to="/civs/Slavs"
                 >斯拉夫</nuxt-link
-              >限定。
-              <br />
+              >限定。 <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -159,16 +152,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Scale_Mail_Armor">步兵鱗甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainmailarmor.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chain_Mail_Armor">步兵鎖甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Platemailarmor.jpg"
@@ -208,8 +199,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -736,9 +726,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2">
-                <nuxt-link to="">單位演變</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -779,9 +767,6 @@
 
         <div class="thanks">感謝! 此頁面由眠協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

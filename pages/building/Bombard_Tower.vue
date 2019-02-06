@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>火砲塔</h1>
@@ -115,9 +112,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span
-                    class=""
-                    style="                                margin-left: 2px;"
+                  ><span class="" style=" margin-left: 2px;"
                     >不可研發</span
                   ></strong
                 >
@@ -179,8 +174,7 @@
                 src="~assets/Masonry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
-              <br />
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -205,8 +199,7 @@
                 src="~assets/Fletching.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
@@ -219,23 +212,20 @@
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Heatedshot.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
-              >(+125%，僅對船隻)
-              <br />
+              >(+125%，僅對船隻) <br />
             </td>
           </tr>
           <tr>
@@ -246,8 +236,7 @@
                 src="~assets/Fletching.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
@@ -260,16 +249,14 @@
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Murderholes.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
-              >:消除最小射程
-              <br />
+              >:消除最小射程 <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -290,8 +277,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-              >:較易擊中移動目標
-              <br />
+              >:較易擊中移動目標 <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -312,8 +298,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >(+1/+1，+3建築護甲)
-              <br />
+              >(+1/+1，+3建築護甲) <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -349,8 +334,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -640,9 +624,7 @@
           </tr>
           <tr>
             <td class="unit3">駐軍</td>
-            <td class="unit4">
-              <p>所有時代:5</p>
-            </td>
+            <td class="unit4"><p>所有時代:5</p></td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>

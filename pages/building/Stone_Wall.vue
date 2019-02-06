@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>石牆</h1>
@@ -306,15 +303,13 @@
                 src="~assets/Feudal-age-reseach.jpg"
                 width="22"
                 alt=""
-              />900
-              <br />
+              />900 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="22"
                 alt=""
-              />1800
-              <br />
+              />1800 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -411,9 +406,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12"></div>
       </div>
     </div>
   </div>

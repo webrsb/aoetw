@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>縱橫捭闔</h1>
@@ -33,8 +30,7 @@
 
           <h3>AI</h3>
           <p></p>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -42,9 +38,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家1</div></td>
               <td class="tc6" colspan="3">柏柏（黃色）</td>
             </tr>
             <tr>
@@ -52,10 +46,8 @@
             </tr>
             <tr>
               <td class="tc6" width="10%"><div class="p7">玩家6</div></td>
-              <td class="tc6" width="36% ">當地人（灰色）哥德</td>
-              <td class="tc6" width="10%">
-                <div class="p8">玩家2</div>
-              </td>
+              <td class="tc6" width="36%">當地人（灰色）哥德</td>
+              <td class="tc6" width="10%"><div class="p8">玩家2</div></td>
               <td class="tc6" width="44%">穆爾西亞的奧德米爾（橘色）薩拉森</td>
             </tr>
             <tr>
@@ -63,19 +55,13 @@
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6">
-                <div class="p3">玩家3</div>
-              </td>
+              <td class="tc6"><div class="p3">玩家3</div></td>
               <td class="tc6">薩拉戈薩（綠色）西班牙</td>
-              <td class="tc6">
-                <div class="p2">玩家4</div>
-              </td>
+              <td class="tc6"><div class="p2">玩家4</div></td>
               <td class="tc6">阿斯圖里亞斯帝國（紅色）哥德</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p5">玩家5</div>
-              </td>
+              <td class="tc6"><div class="p5">玩家5</div></td>
               <td class="tc6">納博訥（水藍色）哥德</td>
             </tr>
           </table>
@@ -190,7 +176,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -216,7 +202,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>

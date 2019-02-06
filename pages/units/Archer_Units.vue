@@ -1,8 +1,5 @@
 ﻿<template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>遠距離單位</h1>
@@ -108,9 +105,7 @@
               <td width="9%">
                 <nuxt-link to="/elements/Attack">攻擊</nuxt-link>
               </td>
-              <td width="9%">
-                <nuxt-link to="/armor">防禦</nuxt-link>
-              </td>
+              <td width="9%"><nuxt-link to="/armor">防禦</nuxt-link></td>
               <td width="9%">射程</td>
               <td width="9%">
                 <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
@@ -1313,7 +1308,7 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><nuxt-link to="/civs/Burmese ">緬甸</nuxt-link>
+                /><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
               </td>
               <td class="tunitc4">
                 <nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link>

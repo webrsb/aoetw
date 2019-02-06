@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>封建時代</h1>
@@ -493,29 +490,25 @@
           <tr>
             <td class="unit3">所需建築</td>
             <td class="unit4">
-              下面任兩項：
-              <br />
+              下面任兩項： <br />
               <img
                 class="gg"
                 src="~assets/Barracks-logo.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Barracks">軍營</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/Barracks">軍營</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Millicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Mill">磨坊</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/Mill">磨坊</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Lumbercampicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Miningcampicon.png"

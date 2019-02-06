@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>高文爵士</strong></h1>
@@ -30,9 +27,7 @@
         </div>
         <h3><strong>出場戰役</strong></h3>
         <div class="hrn1"></div>
-        <div class="n1">
-          <p>無</p>
-        </div>
+        <div class="n1"><p>無</p></div>
         <h3><strong>更多數據</strong></h3>
         <div class="hrn1"></div>
         <div class="n1"></div>

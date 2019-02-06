@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>帝王時代</h1>
@@ -776,22 +773,19 @@
           <tr>
             <td class="unit3">所需建築</td>
             <td class="unit4">
-              下面任兩項：
-              <br />
+              下面任兩項： <br />
               <img
                 class="gg"
                 src="~assets/Monasteryicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Monastery">修道院</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/Monastery">修道院</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Universityicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/University">學院</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/University">學院</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Siegeworkshopicon.png"
@@ -800,8 +794,7 @@
               /><nuxt-link to="/building/Siege_Workshop"
                 >攻城器製造所</nuxt-link
               >
-              <br />或是直接蓋一座
-              <br />
+              <br />或是直接蓋一座 <br />
               <img
                 class="gg"
                 src="~assets/Castleicon.png"

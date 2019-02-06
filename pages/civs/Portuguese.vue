@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>葡萄牙</h1>
@@ -191,8 +188,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/OrganGunIcon.jpg" />風琴砲
-              <br />
+              <img class="gg" src="~assets/OrganGunIcon.jpg" />風琴砲 <br />
               <img class="gg" src="~assets/CaravelIcon2.jpg" />卡拉維爾戰船
             </td>
           </tr>

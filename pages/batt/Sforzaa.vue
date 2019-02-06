@@ -1,9 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action -->
-
   <div class="container">
-    <!-- Example row of columns -->
-
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1>斯福爾札</h1>
@@ -23,13 +19,11 @@
               -遊戲中對於斯福爾札戰役的介紹
             </p>
           </div>
-
           <p>
             法蘭切斯科一世·斯福爾扎（義大利語：Francesco I
             Sforza，1401年7月23日聖米尼亞托 -
             1466年3月8日米蘭）是一位義大利僱傭兵首領、米蘭公爵，也是斯福爾扎家族在米蘭統治的開創者。
           </p>
-
           <p>
             1440年，法蘭切斯科在那不勒斯王國內的封地被亞拉岡國王阿方索五世占領，為奪回領地，
             法蘭切斯科與菲利波達成和解。1441年10月25日，法蘭切斯科在克雷莫納與比安卡完婚。
@@ -38,17 +32,14 @@
             而後者此前在里米尼領主西吉斯蒙多·潘多爾福·馬拉泰斯塔和威尼斯人的支持下占領了法蘭切斯科在羅馬涅和馬爾凱的領地。
             法蘭切斯科重返米蘭。
           </p>
-
           <p>斯福爾札家族</p>
           <p>
             斯福爾扎家族（House of
             Sforza）是義大利文藝復興時期以米蘭為中心的統治家族。
           </p>
-
           <p>
             斯福爾扎王朝由穆齊奧·斯福爾扎創立，他是來自羅馬涅的僱傭兵頭領，為那不勒斯的瓦盧瓦-安茹家族效力。
           </p>
-
           <p>
             1447年，穆齊奧之子弗朗切斯科·斯福爾扎一世從消亡的維斯孔蒂家族手中獲得米蘭公爵的頭銜，開始統治米蘭。
           </p>
@@ -61,10 +52,7 @@
         </div>
         <h3>英雄</h3>
         <div class="hrn1"></div>
-        <div class="n1">
-          <p>斯福爾札在戰役的中為義大利傭兵型態</p>
-        </div>
-
+        <div class="n1"><p>斯福爾札在戰役的中為義大利傭兵型態</p></div>
         <h3>關卡</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -104,7 +92,6 @@
               <p>斯福爾札戰役地圖</p>
             </div>
           </div>
-
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -156,9 +143,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝! 此頁面由裕暉協助編輯
-        </div>
+        <div class="thanks">感謝! 此頁面由裕暉協助編輯</div>
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
@@ -179,13 +164,12 @@
         </div>
       </div>
     </div>
-
-    <div class="row">
-      <div class="col-md-12"></div>
-    </div>
   </div>
 </template>
 <script>
-export default { layout: 'allbatt', components: {} }
+export default {
+  layout: 'allbatt',
+  components: {}
+}
 </script>
 <style></style>

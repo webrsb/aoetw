@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>嚴酷的考驗</h1>
@@ -33,8 +30,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -42,9 +38,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p8">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p8">玩家1</div></td>
               <td class="tc6" colspan="3">蒙古人（橘色）</td>
             </tr>
             <tr>
@@ -52,26 +46,20 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p4">玩家3</div></td>
-              <td class="tc6" width="38% ">成吉思汗（黃色）蒙古 同盟</td>
-              <td class="tc6" width="12%">
-                <div class="p1">玩家4</div>
-              </td>
+              <td class="tc6" width="38%">成吉思汗（黃色）蒙古 同盟</td>
+              <td class="tc6" width="12%"><div class="p1">玩家4</div></td>
               <td class="tc6" width="38%">克里依特人（藍色）土耳其</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p3">玩家5</div></td>
-              <td class="tc6" width="38% ">泰依齊烏特人（綠色）蒙古</td>
-              <td class="tc6" width="12%">
-                <div class="p5">玩家6</div>
-              </td>
+              <td class="tc6" width="38%">泰依齊烏特人（綠色）蒙古</td>
+              <td class="tc6" width="12%"><div class="p5">玩家6</div></td>
               <td class="tc6" width="38%">烏依古爾人（藍綠色）蒙古</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p6">玩家7</div></td>
-              <td class="tc6" width="38% ">紐曼人（紫色）蒙古</td>
-              <td class="tc6" width="12%">
-                <div class="p7">玩家8</div>
-              </td>
+              <td class="tc6" width="38%">紐曼人（紫色）蒙古</td>
+              <td class="tc6" width="12%"><div class="p7">玩家8</div></td>
               <td class="tc6" width="38%">安吉特拉人（灰色）蒙古</td>
             </tr>
             <tr>
@@ -79,15 +67,12 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
-              <td class="tc6" width="38% ">加拉凱台（紅色）蒙古</td>
+              <td class="tc6" width="38%">加拉凱台（紅色）蒙古</td>
             </tr>
           </table>
 
           <br />
-          <dl
-            class="dl-horizontal
-                "
-          >
+          <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>4位輕騎兵、4位馬騎弓兵。</dd>
             <dt>大地之母單位：</dt>
@@ -95,10 +80,7 @@
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>等待成吉思汗的命令。</li>
               <li>
@@ -109,10 +91,7 @@
         </div>
         <h2>任務提示</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               你可以任意更改外交狀態設定，但若其他部落做出任何反應，你也別感到太過意外。
@@ -139,7 +118,6 @@
                 <li>安吉特拉→弘吉刺</li>
               </ul>
             </li>
-
             <li>此關是唯一原始外交狀態沒有（敵對）的關卡。</li>
             <li>
               在取得初始的輕騎兵、馬騎弓兵之前，玩家擁有一名弓箭手，在靠近克里依特人的樹林中，避免玩家因為沒有單位而自動輸掉遊戲。
@@ -161,9 +139,8 @@
           </ul>
         </div>
       </div>
-
       <div class="col-md-4">
-        <table class="table-bordered " width="100%">
+        <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
@@ -174,14 +151,14 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Crucible.png" width=" " alt="" />
+                <img src="~assets/Crucible.png" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/">情景信息</nuxt-link>
+                情景信息
               </div>
             </td>
           </tr>
@@ -205,8 +182,8 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2 ">
-                <nuxt-link to="/">戰役關卡編號</nuxt-link>
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -229,7 +206,6 @@
         <div class="thanks">感謝！此頁面由裕暉、竺叡協助編輯。</div>
       </div>
     </div>
-    <div class="row "><div class="col-md-12"></div></div>
   </div>
 </template>
 <script>

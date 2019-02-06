@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>勘查（再次征服）</strong></h1>
@@ -36,40 +33,29 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p2">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p2">玩家1</div></td>
               <td class="tc6" colspan="3">西班牙（紅色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6" width="12%">
-                <div class="p2">玩家2</div>
-              </td>
+              <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
               <td class="tc6" width="38%">席德遺體（紅色）西班牙</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p5">玩家3</div>
-              </td>
+              <td class="tc6"><div class="p5">玩家3</div></td>
               <td class="tc6">黑衛隊軍隊（藍綠色）土耳其</td>
-              <td class="tc6">
-                <div class="p4" width="12%">玩家4</div>
-              </td>
+              <td class="tc6"><div class="p4" width="12%">玩家4</div></td>
               <td class="tc6" width="38%">黑衛隊海軍（黃色）土耳其</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p3">玩家5</div>
-              </td>
+              <td class="tc6"><div class="p3">玩家5</div></td>
               <td class="tc6">約瑟夫（綠色）土耳其</td>
             </tr>
-
             <tr></tr>
           </table>
 
@@ -198,14 +184,12 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/EIC 6.jpg" alt="" />
-              </div>
+              <div class="unititle"><img src="~assets/EIC 6.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -229,7 +213,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -245,7 +229,7 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4"><nuxt-link to="/">N/A</nuxt-link></td>
+            <td class="unit4">N/A</td>
           </tr>
         </table>
 

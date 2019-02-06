@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>紅鬍子的行軍</h1>
@@ -72,9 +69,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/BRA 5.jpg" alt="" />
-              </div>
+              <div class="unititle"><img src="~assets/BRA 5.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>

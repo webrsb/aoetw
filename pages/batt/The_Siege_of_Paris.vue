@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>巴黎攻城戰</h1>
@@ -16,8 +13,7 @@
           </p>
         </div>
         <h2>遊戲者</h2>
-        <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-          #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+        <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
         <table class="table-bordered" width="100%">
           <tr>
             <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -25,35 +21,25 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p1">玩家1</div>
-            </td>
+            <td class="tc6"><div class="p1">玩家1</div></td>
             <td class="tc6" colspan="3">法蘭克人（藍色）</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6" width="12%">
-              <div class="p5">玩家4</div>
-            </td>
+            <td class="tc6" width="12%"><div class="p5">玩家4</div></td>
             <td class="tc6" width="38%">康白尼（藍綠色）法蘭克</td>
-            <td class="tc6" width="12%">
-              <div class="p4">玩家5</div>
-            </td>
+            <td class="tc6" width="12%"><div class="p4">玩家5</div></td>
             <td class="tc6" width="38%">國王的臣子（黃色）法蘭克</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p6">玩家2</div>
-            </td>
+            <td class="tc6"><div class="p6">玩家2</div></td>
             <td class="tc6">勃根地（紫色）法蘭克</td>
-            <td class="tc6">
-              <div class="p2">玩家3</div>
-            </td>
+            <td class="tc6"><div class="p2">玩家3</div></td>
             <td class="tc6">英國（紅色）不列顛</td>
           </tr>
         </table>
@@ -247,7 +233,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -271,7 +257,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>

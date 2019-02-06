@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>鷹斥侯</h1>
@@ -202,8 +199,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -244,8 +240,7 @@
                     />
                     <nuxt-link to="/units/Two-Handed_Swordsman"
                       >雙手劍兵</nuxt-link
-                    >→
-                    <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
+                    >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
                     <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                   </li>
                 </ul>
@@ -508,9 +503,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2">
-                <nuxt-link to="">單位介紹</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -607,9 +600,7 @@
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">
-              <nuxt-link to="/armor">防禦類型</nuxt-link>
-            </td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry"> 步兵</nuxt-link>
               <br />

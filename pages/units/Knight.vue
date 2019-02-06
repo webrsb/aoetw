@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>騎士</h1>
@@ -95,15 +92,13 @@
                 src="~assets/Forging.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Ironcasting.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Blastfurnace.jpg"
@@ -115,8 +110,7 @@
                 to="/techs/Farimba"
                 >驃悍精神</nuxt-link
               >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >限定
-              <br />
+              >限定 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
@@ -137,16 +131,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Platebardingarmor.jpg"

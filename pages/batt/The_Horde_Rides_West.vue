@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>遊牧民族的西遷</h1>
@@ -37,9 +36,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p8">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p8">玩家1</div></td>
               <td class="tc6" colspan="3">蒙古人（橘色）</td>
             </tr>
             <tr>
@@ -47,19 +44,13 @@
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6">
-                <div class="p3" width="12%">玩家2</div>
-              </td>
+              <td class="tc6"><div class="p3" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">麥凱特人（綠色）蒙古</td>
-              <td class="tc6">
-                <div class="p2" width="12%">玩家3</div>
-              </td>
+              <td class="tc6"><div class="p2" width="12%">玩家3</div></td>
               <td class="tc6" width="38%">俄羅斯人（紅色）哥德</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家4</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家4</div></td>
               <td class="tc6">瓜利密（黃色）波斯</td>
             </tr>
           </table>
@@ -131,7 +122,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -153,7 +144,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -199,9 +190,6 @@
                 ></em
               >
             </div>
-          </div>
-          <div class="row">
-            <div class="col-md-12"></div>
           </div>
         </div>
       </div>

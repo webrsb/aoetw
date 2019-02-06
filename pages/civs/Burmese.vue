@@ -1,9 +1,6 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
     aa
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>緬甸</h1>
@@ -42,7 +39,6 @@
             <img
               class="gg"
               src="~assets/Arambaiicon.png"
-              width=""
               alt=""
             />飛鏢騎兵:命中率不高，但殺傷力強大的馬騎弓兵單位，適合集群攻擊。
           </p>
@@ -136,8 +132,7 @@
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />象轎
-              <br />
+              <img class="gg" src="~assets/CastleAgeUnique.png" />象轎 <br />
               <img class="gg" src="~assets/Unique-tech.jpg" />曼尼普爾騎兵
             </td>
           </tr>

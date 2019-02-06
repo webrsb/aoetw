@@ -1,5 +1,4 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="container">
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
@@ -29,8 +28,7 @@
           </table>
         </div>
         <h3>AI</h3>
-        <!--
-<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+        <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
         <table class="table-bordered" width="100%">
           <tr>
             <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -83,7 +81,6 @@
             </td>
             <td class="tc6" width="35%">摩拉維亞人（綠色）拜占庭</td>
           </tr>
-
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
           </tr>
@@ -269,7 +266,6 @@
               查理曼死後，東法蘭克王國逐步衰落，形勢對斯拉夫人的崛起有利，
               大摩拉維亞領袖斯瓦托普魯克雄心勃勃地企圖建立大摩拉維亞公國，但是東方遊牧民族馬扎爾人的到來結束了這一地區的紛爭。
             </li>
-
             <li>
               阿爾帕德王朝:當時馬扎爾人遊牧部落從烏拉山西麓和伏爾加河灣一帶向西遷徙，公元896年在多瑙河盆地潘諾尼亞平原定居下來。
               傳說當時7個馬札爾人部落與3個可薩人部落組合成一個聯盟，之後匈牙利王國逐漸成形。
@@ -290,7 +286,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Honfoglalas.jpg" width="" alt="" />
+                <img src="~assets/Honfoglalas.jpg" alt="" />
               </div>
             </td>
           </tr>
@@ -338,9 +334,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝! 此頁面由裕暉，天翔協助編輯
-        </div>
+        <div class="thanks">感謝! 此頁面由裕暉，天翔協助編輯</div>
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

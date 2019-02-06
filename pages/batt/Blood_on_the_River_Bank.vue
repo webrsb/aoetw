@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action -->
-
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>血濺河灘</h1>
@@ -33,8 +30,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--
-<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -102,7 +98,6 @@
                     美瑪也準備要加入戰爭了，但是國王要求他的女先被救出。救出她並把她帶去美瑪城堡（變成中立）。
                   </li>
                 </ul>
-
                 <li>法克裡（黃色）</li>
                 <ul>
                   <li>
@@ -218,7 +213,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -242,7 +237,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -264,9 +259,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝！此頁面由熊、天翔協助編輯。
-        </div>
+        <div class="thanks">感謝！此頁面由熊、天翔協助編輯。</div>
         <p></p>
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">

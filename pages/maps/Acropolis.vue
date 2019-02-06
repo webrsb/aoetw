@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>雅典衛城</h1>
@@ -15,7 +12,6 @@
           <p>
             《世紀帝國:失落的帝國》首次出現的雅典衛城是一個非常開放的地圖，中間有一小圈池塘。玩家在特殊的山丘開始遊戲，地圖上具有獨特的灰色紋理斜坡無法建造建築，因此幾乎不可能圍好基地。另外玩家必須下山為了爭奪黃金和石礦而戰。
           </p>
-
           <img
             position="centered"
             class="imgn hg"

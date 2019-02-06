@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>黑快搶城</h1>
@@ -34,7 +31,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px; "
+              style=" color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候該打黑快搶城</strong
           >
@@ -50,7 +47,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px; "
+              style=" color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候不該打黑快搶城</strong
           >
@@ -211,9 +208,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#5cb85c;">
-              <div class="unititle2">
-                <nuxt-link to="">戰術介紹</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">戰術介紹</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -244,9 +239,6 @@
 
         <div class="thanks">感謝! 此頁面由眠協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

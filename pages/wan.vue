@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>Aoetw招募快樂夥伴</h1>
@@ -119,9 +116,7 @@
         <div class="col-md-6">
           <p>負責處理討論區、關鍵字查詢等複雜的程式後端問題。</p>
         </div>
-        <div class="col-md-6">
-          <p></p>
-        </div>
+        <div class="col-md-6"><p></p></div>
       </div>
       <h2>如何協助編輯</h2>
       <div class="hrn1"></div>

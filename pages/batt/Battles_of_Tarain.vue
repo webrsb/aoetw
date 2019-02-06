@@ -1,9 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
-
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1>塔蘭村之戰</h1>
@@ -45,11 +41,9 @@
               </td>
               <td class="tc6" colspan="4">主角（橘色）印度</td>
             </tr>
-
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
-
             <tr>
               <td class="tc6" width="15%">
                 <div class="p2"></div>
@@ -62,11 +56,9 @@
               </td>
               <td class="tc6">塔蘭村（水藍色）印度</td>
             </tr>
-
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-
             <tr>
               <td class="tc6" width="15%">
                 <div class="p3"></div>
@@ -79,7 +71,6 @@
               </td>
               <td class="tc6" width="35%">巴廷達（黃色）印度</td>
             </tr>
-
             <tr>
               <td class="tc6">
                 <div class="p1"></div>
@@ -93,7 +84,6 @@
           <p>布里斯比羅吉、金德‧伯勒達伊。</p>
           <h3>大地之母單位：</h3>
           <p>無</p>
-
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -120,7 +110,6 @@
             </ol>
           </div>
         </div>
-
         <h2>次要任務</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -131,7 +120,6 @@
             <li>破壞巴廷達東邊部的補給營的市集。</li>
             <li>破壞西邊連接引水渠的蓄水庫。</li>
           </ul>
-
           <h2>任務提示</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -150,7 +138,6 @@
             </ol>
           </div>
         </div>
-
         <h2>斥侯回報</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -180,9 +167,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center>
-                  <img src="~assets/Prithviraj_4.jpg" width="" alt="" />
-                </center>
+                <center><img src="~assets/Prithviraj_4.jpg" alt="" /></center>
               </div>
             </td>
           </tr>
@@ -228,9 +213,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝！此頁面由小蛇，竺叡協助編輯。
-        </div>
+        <div class="thanks">感謝！此頁面由小蛇，竺叡協助編輯。</div>
       </div>
     </div>
   </div>

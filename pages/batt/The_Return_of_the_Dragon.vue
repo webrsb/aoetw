@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>龍之歸來</strong></h1>
@@ -29,28 +26,20 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p2">玩家1</div>
-            </td>
+            <td class="tc6"><div class="p2">玩家1</div></td>
             <td class="tc6" colspan="3">馬札爾（紅色）</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#2980b9;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p4">玩家2</div>
-            </td>
+            <td class="tc6"><div class="p4">玩家2</div></td>
             <td class="tc6">川西凡尼亞土著（黃色）土耳其</td>
-            <td class="tc6">
-              <div class="p7">玩家3</div>
-            </td>
+            <td class="tc6"><div class="p7">玩家3</div></td>
             <td class="tc6">瓦拉幾亞土著（灰色）馬札爾</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p8">玩家4</div>
-            </td>
+            <td class="tc6"><div class="p8">玩家4</div></td>
             <td class="tc6">摩爾達維亞（橙色）斯拉夫</td>
           </tr>
           <tr>
@@ -59,31 +48,23 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p3">玩家5</div>
-            </td>
+            <td class="tc6"><div class="p3">玩家5</div></td>
             <td class="tc6">匈牙利（綠色）馬札爾</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#2980b9;">中立</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p6">玩家6</div>
-            </td>
+            <td class="tc6"><div class="p6">玩家6</div></td>
             <td class="tc6">奧特曼帝國（紫色）土耳其</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p5">玩家7</div>
-            </td>
+            <td class="tc6"><div class="p5">玩家7</div></td>
             <td class="tc6">弗拉迪斯拉夫二世（淡藍色）斯拉夫</td>
-            <td class="tc6">
-              <div class="p1">玩家8</div>
-            </td>
+            <td class="tc6"><div class="p1">玩家8</div></td>
             <td class="tc6">弗拉迪斯拉夫二世（藍色）斯拉夫</td>
           </tr>
         </table>
@@ -203,7 +184,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -227,7 +208,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -254,9 +235,6 @@
         </table>
 
         <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯</div>
-        <div class="row">
-          <div class="col-md-12"></div>
-        </div>
       </div>
     </div>
   </div>

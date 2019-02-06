@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>流亡之路</strong></h1>
@@ -24,42 +21,29 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p3">玩家1</div>
-            </td>
+            <td class="tc6"><div class="p3">玩家1</div></td>
             <td class="tc6" colspan="3">衣索比亞（綠色）</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p4">玩家2</div>
-            </td>
+            <td class="tc6"><div class="p4">玩家2</div></td>
             <td class="tc6">阿克蘇姆（黃色）衣索比亞</td>
           </tr>
-
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p2" width="12%">玩家3</div>
-            </td>
+            <td class="tc6"><div class="p2" width="12%">玩家3</div></td>
             <td class="tc6" width="38%">極大汗（紅色）衣索比亞</td>
-            <td class="tc6">
-              <div class="p5" width="12%">玩家4</div>
-            </td>
+            <td class="tc6"><div class="p5" width="12%">玩家4</div></td>
             <td class="tc6" width="38%">山中守衛（淡藍色）衣索比亞</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p6">玩家5</div>
-            </td>
+            <td class="tc6"><div class="p6">玩家5</div></td>
             <td class="tc6">河流守衛（紫色）薩拉森</td>
-            <td class="tc6">
-              <div class="p8">玩家6</div>
-            </td>
+            <td class="tc6"><div class="p8">玩家6</div></td>
             <td class="tc6">林中守衛（橘色）衣索比亞</td>
           </tr>
         </table>
@@ -125,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -153,7 +137,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -174,9 +158,6 @@
         </table>
 
         <div class="thanks">感謝！此頁面由賜齡、裕暉協助編輯。</div>
-        <div class="row">
-          <div class="col-md-12"></div>
-        </div>
       </div>
       <div class="col-md-12">
         <h3>攻略</h3>
@@ -185,11 +166,9 @@
           <li>
             一開始優娣忒和保鑣薩繆爾在阿克蘇姆皇室的秘密通道外面。向南移動在過橋處會遇到一名彎刀勇士和兩名長槍兵，薩繆爾可以輕易解決他們。向西走一些會得到兩名彎刀勇士。當解決敵人後薩繆爾提議移動到附近一個還是擁護優娣忒的小村莊先藏身再做打算。
           </li>
-
           <li>
             只要玩家一到達村莊，極大汗就會開始生產單位攻擊玩家，所以建議是先好好探完地圖找到所有的彎刀勇士（共10名）及敵方陣地。優娣忒雖然不能戰鬥，但她有良好的視野範圍和移動速度，是很好的探測單位。抵達村莊後遊戲的目標會變成讓優娣忒從地圖上三個標記被敵人防守的地點脫逃。
           </li>
-
           <li>
             最簡單的獲勝方法如下:讓優娣忒找到所有10名彎刀勇士，他們多分布在河邊。同時派薩繆爾攻擊極大汗東邊的營地，不要去碰地圖中央的營地（有城堡），玩家會遭受嚴重的損失。東邊的營地有許多箭塔，有一個小孔可以跑進去，利用箭塔的最小射程限制並在血量低時撤退恢復。迂迴消耗塔的血量，把西邊第一個塔跟兵工廠還有東邊兩個塔拆掉後，打掉東邊城門清空道路。
           </li>
@@ -208,7 +187,6 @@
           <li>
             接管村莊後就別管城鎮了，速速讓優娣忒前往東邊或東北邊的旗幟處，地圖東邊會有8隻獅子，東北邊則有6隻鱷魚，不過優娣忒不會被獅子跟鱷魚攻擊，用薩繆爾跟彎刀勇士解決東邊營地生產出的任何單位，並目送優娣忒逃出這場景。
           </li>
-
           <div class="col-md-12">
             <div class="col-md-6">
               <img

@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>鷹勇士系</h1>
@@ -59,8 +56,7 @@
                     />
                     <nuxt-link to="/units/Two-Handed_Swordsman"
                       >雙手劍兵</nuxt-link
-                    >→
-                    <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
+                    >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
                     <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
                   </li>
                 </ul>

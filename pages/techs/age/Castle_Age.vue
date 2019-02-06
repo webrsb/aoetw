@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>城堡時代</h1>
@@ -820,8 +817,7 @@
           <tr>
             <td class="unit3">所需建築</td>
             <td class="unit4">
-              下面任兩項：
-              <br />
+              下面任兩項： <br />
               <img
                 class="gg"
                 src="~assets/Acheryrangeicon.png"
@@ -834,15 +830,13 @@
                 src="~assets/Stableicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Stable">馬廄</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/Stable">馬廄</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Marketicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Market">市集</nuxt-link>
-              <br />
+              /><nuxt-link to="/building/Market">市集</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Blacksmithicon.png"

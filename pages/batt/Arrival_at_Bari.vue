@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>抵達巴里</h1>
@@ -31,8 +28,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -40,9 +36,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家1</div></td>
               <td class="tc6" colspan="3">拜占庭（藍色）</td>
             </tr>
             <tr>
@@ -50,7 +44,7 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
-              <td class="tc6" width="38% ">巴里（紅色）薩拉森</td>
+              <td class="tc6" width="38%">巴里（紅色）薩拉森</td>
               <td class="tc6"><div class="p4">玩家3</div></td>
               <td class="tc6">拜占庭帝國（黃色）拜占庭</td>
             </tr>
@@ -65,36 +59,14 @@
               <td class="tc6">巴倫第人（灰色）哥德</td>
             </tr>
             <tr>
-              <td
-                class="tc4 "
-                colspan="4
-                "
-                style="background:#ea6153; "
-              >
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
-              <td
-                class="tc6
-                "
-              >
-                <div class="p3">玩家4</div>
-              </td>
-              <td
-                class="tc6
-                "
-              >
-                巴里王朝（綠色）薩拉森
-              </td>
+              <td class="tc6"><div class="p3">玩家4</div></td>
+              <td class="tc6">巴里王朝（綠色）薩拉森</td>
               <td class="tc6"><div class="p6">玩家6</div></td>
-              <td
-                class="tc6
-                "
-              >
-                馬泰拉（紫色）義大利
-              </td>
+              <td class="tc6">馬泰拉（紫色）義大利</td>
             </tr>
           </table>
 
@@ -107,13 +79,9 @@
               10位拜占庭聖騎兵、10位雙手劍兵、3位戟兵、5位強弩兵、5位重裝馬騎弓兵、1台攻城塔、1台重型衝撞車、10艘戰船、5艘火戰船、5艘精銳維京大戰船。
             </dd>
           </dl>
-
           <h2>主要任務</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>帕尼奧斯必須存活下來。</li>
               <li>
@@ -154,20 +122,14 @@
         </div>
         <h2>次要目標</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>無</li>
           </ul>
         </div>
         <h2>任務提示</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               注意：有時，你需要選中另一個單位來開始對話，這種情況下任務會彈出。大多數場景中你將會有一定數量的部隊且不會有更多支援。謹慎地指揮你現有的軍隊，保護好你寶貴的攻城武器。
@@ -184,10 +146,7 @@
         </div>
         <h2>斥侯</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               帕尼奧斯在拜占庭某地（黃色）的未名碼頭開始戰役。很快他就會加入前往巴里的拜占庭大艦隊。
@@ -215,10 +174,7 @@
         </div>
         <h2>策略／戰術</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               你扮演著帕尼奧斯，從拜占庭港口開始，他和兩名士兵一起出發。三人一起搭乘運輸船啟航，直到你獲的幾艘戰艦和運輸船增加部隊。你會遇到巴里酋長艦隊（本節中稱為“阿拉伯人”），擊退對方後，把地面部隊安全地運送到路易二世的營地。
@@ -246,18 +202,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/Arrival_at_Bari">抵達巴里</nuxt-link>
               </div>
@@ -266,14 +213,14 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Bari_1.jpg" alt=" " />
+                <img src="~assets/Bari_1.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
-              <div class="unititle2 ">
-                <nuxt-link to="/">情景信息</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
@@ -294,9 +241,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
-              <div class="unititle2 ">
-                <nuxt-link to="/ ">戰役關卡編號</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -306,7 +253,7 @@
           </tr>
           <tr>
             <td class="unit3">上一關</td>
-            <td class="unit4 ">N/A</td>
+            <td class="unit4">N/A</td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
@@ -318,16 +265,7 @@
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由裕暉、阿虎協助編輯。</div>
-        <div
-          class="row
-                "
-        >
-          <div
-            class="col-md-12
-                "
-          ></div>
-        </div>
+        <div class="thanks">感謝！此頁面由裕暉、阿虎協助編輯。</div>
       </div>
     </div>
   </div>

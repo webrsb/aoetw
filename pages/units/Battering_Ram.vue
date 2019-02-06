@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>輕型衝撞車</h1>
@@ -156,8 +153,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"
@@ -597,9 +593,7 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit3">
-              <nuxt-link to="/armor">近防</nuxt-link>
-            </td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">-3</td>
           </tr>
           <tr>
@@ -607,9 +601,7 @@
             <td class="unit4">180</td>
           </tr>
           <tr>
-            <td class="unit3">
-              <nuxt-link to="/armor">防禦類型</nuxt-link>
-            </td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link

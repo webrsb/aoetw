@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>教皇與僭稱教皇</h1>
@@ -33,8 +30,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -42,9 +38,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p2">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p2">玩家1</div></td>
               <td class="tc6" colspan="3">條頓人（紅色）</td>
             </tr>
             <tr>
@@ -52,37 +46,20 @@
             </tr>
             <tr>
               <td class="tc6" width="15%"><div class="p4">玩家4</div></td>
-              <td class="tc6" width="35% ">卡坎奴（黃色）條頓</td>
+              <td class="tc6" width="35%">卡坎奴（黃色）條頓</td>
             </tr>
             <tr>
-              <td
-                class="tc4
-                "
-                colspan="4 "
-                style="background:#ea6153;
-                "
-              >
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p1">玩家2</div></td>
-              <td
-                class="tc6
-                "
-              >
-                米蘭（藍色）條頓
-              </td>
-              <td class="tc6" width="15%">
-                <div class="p3">玩家3</div>
-              </td>
+              <td class="tc6">米蘭（藍色）條頓</td>
+              <td class="tc6" width="15%"><div class="p3">玩家3</div></td>
               <td class="tc6" width="35%">克列瑪（綠色）不列顛</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p6">玩家5</div>
-              </td>
+              <td class="tc6"><div class="p6">玩家5</div></td>
               <td class="tc6">河道衛兵（紫色）法蘭克</td>
             </tr>
           </table>
@@ -145,14 +122,12 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/BRA 3.jpg" alt="" />
-              </div>
+              <div class="unititle"><img src="~assets/BRA 3.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -176,7 +151,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>

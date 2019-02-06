@@ -1,6 +1,4 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div>
     <div class="jumbotron">
       <div class="container">
@@ -9,7 +7,6 @@
       </div>
     </div>
     <div class="container">
-      <!-- Example row of columns -->
       <h3>1.系統相關-購買前</h3>
       <div class="row">
         <div class="col-md-12">
@@ -411,9 +408,7 @@
           <b-btn v-b-toggle.c-3 class="m-1" variant="success"
             >1-2.世紀帝國2 HD版要如何購買？怎麼玩？</b-btn
           >
-          <b-collapse id="c-3">
-            <div class="well">.</div>
-          </b-collapse>
+          <b-collapse id="c-3"> <div class="well">.</div> </b-collapse>
         </div>
       </div>
       <h3>4.遊戲戰術相關</h3>

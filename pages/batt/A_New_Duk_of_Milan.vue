@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>米蘭新公爵</h1>
@@ -35,67 +32,44 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
                 玩家本身
               </td>
             </tr>
-
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家1</div></td>
               <td class="tc6" colspan="3">義大利人（藍色）</td>
             </tr>
-
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
-
             <tr>
               <td class="tc6"><div class="p6">玩家2</div></td>
               <td class="tc6" colspan="3">威尼斯人（紫色）義大利</td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4 " style="background:#ea6153;">敵對</td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6" width="10%">
-                <div class="p4">玩家3</div>
-              </td>
+              <td class="tc6" width="10%"><div class="p4">玩家3</div></td>
               <td class="tc6" width="40%">米蘭城（黃色）義大利</td>
               <td class="tc6" width="10%"><div class="p3">玩家4</div></td>
-              <td class="tc6" width="40% ">米蘭軍隊（綠色）義大利</td>
+              <td class="tc6" width="40%">米蘭軍隊（綠色）義大利</td>
             </tr>
             <tr>
-              <td
-                class="tc6
-                "
-                width="10%"
-              >
-                <div class="p7">玩家5</div>
-              </td>
+              <td class="tc6" width="10%"><div class="p7">玩家5</div></td>
               <td class="tc6" width="40%">米蘭村莊（灰色）義大利</td>
               <td class="tc6" width="10%"><div class="p2">玩家6</div></td>
-              <td
-                class="tc6"
-                width="35%
-                "
-              >
-                阿比亞泰格拉索（紅色）法蘭克
-              </td>
+              <td class="tc6" width="35%">阿比亞泰格拉索（紅色）法蘭克</td>
             </tr>
           </table>
 
           <br />
-          <dl
-            class="dl-horizontal
-                "
-          >
+          <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
               法蘭切斯科.斯福爾扎、1位弗朗切斯科.斯福爾扎、1位輕騎兵、4位騎士、5位重裝長槍兵、8位熱那亞弩手、3位村民。
@@ -105,10 +79,7 @@
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>法蘭切斯科.斯福爾扎必須存活。</li>
               <li>包圍米蘭直到他們斷絕食物。</li>
@@ -118,10 +89,7 @@
             </ol>
             <h2>次要任務</h2>
             <div class="hrn1"></div>
-            <div
-              class="n1
-                "
-            >
+            <div class="n1">
               <ol>
                 <li>摧毀保衛穀倉的塔，奪取米蘭穀倉。</li>
                 <li>摧毀貿易站和貿易車。</li>
@@ -132,10 +100,7 @@
           </div>
           <h2>任務提示</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ul>
               <li>
                 碼頭和攻城武器工廠已被禁用，所以嘗試攻擊米蘭城就等於自殺。
@@ -152,10 +117,7 @@
           </div>
           <h2>斥侯</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ul>
               <li>
                 米蘭城（綠色）在你的大營的正前方。它防禦固若金湯，城牆難以攻破。米蘭的共和軍（黃色）會不惜一切代價來保衛城池。
@@ -164,7 +126,6 @@
                 阿比亞泰格拉索是在米蘭西方的運河沿岸上的小城。在米蘭城外也有幾個小營地。
               </li>
             </ul>
-
             <h2>戰術</h2>
             <div class="hrn1"></div>
             <div class="n1">
@@ -217,18 +178,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/A_New_Duk_of_Milan">米蘭新公爵</nuxt-link>
               </div>
@@ -237,90 +189,45 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Sforza_5.jpg"
-                  width="
-                "
-                  alt=""
-                />
+                <img src="~assets/Sforza_5.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link to="/">情景信息</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              版本
-            </td>
+            <td class="unit3">版本</td>
             <td class="unit4">
               <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              戰役
-            </td>
+            <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Sforzaa">斯福爾札</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              文明
-            </td>
+            <td class="unit3">文明</td>
             <td class="unit4">
               <nuxt-link to="/civs/Italians">義大利人</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link
-                  to="/
-                "
-                  >戰役關卡編號</nuxt-link
-                >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td
-              class="unit4
-                "
-            >
-              失落帝國第四章之五
-            </td>
+            <td class="unit4">失落帝國第四章之五</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
@@ -336,8 +243,7 @@
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由裕暉、Dennis協助編輯。</div>
-        <div class="row"><div class="col-md-12"></div></div>
+        <div class="thanks">感謝！此頁面由裕暉、Dennis協助編輯。</div>
       </div>
     </div>
   </div>

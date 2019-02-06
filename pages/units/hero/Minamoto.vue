@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>源氏</strong></h1>
@@ -133,9 +130,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝! 此頁面由Dennis協助編輯
-        </div>
+        <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

@@ -1,6 +1,4 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
@@ -29,7 +27,6 @@
             為了報復現任統治者的不友善，<b>洛倫索</b>決定協助這位流亡的非洲王子，並想出一條妙計，奪下斯瓦希里海岸的財富。
           </p>
         </div>
-
         <h2>玩家</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -114,7 +111,6 @@
             劍兵勇士*3、長戟兵*2、火槍兵*1、風琴炮*1、卡拉維爾戰船*6、運輸船*2
           </p>
           <br />
-
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -200,7 +196,6 @@
               最後，非洲人口口相傳著一個故事，據說穿過茂密的猴麵包樹之林，前方便是遍地黃金的姆塔帕國。
             </li>
           </ul>
-
           <h2>玩家攻略</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -267,7 +262,7 @@
             <td colspan="2">
               <div class="unititle">
                 <center>
-                  <img src="~assets/Ruins_of_Empires.png" width="" alt="" />
+                  <img src="~assets/Ruins_of_Empires.png" alt="" />
                 </center>
               </div>
             </td>
@@ -320,9 +315,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝！此頁面由小蛇、裕暉協助編輯。
-        </div>
+        <div class="thanks">感謝！此頁面由小蛇、裕暉協助編輯。</div>
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />

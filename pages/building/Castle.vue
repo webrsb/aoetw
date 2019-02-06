@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>城堡</h1>
@@ -344,8 +341,7 @@
                 src="~assets/Masonry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%)
-              <br />
+              /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>(+10%) <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -369,8 +365,7 @@
                 src="~assets/Fletching.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
@@ -383,15 +378,13 @@
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Heatedshot.png"
@@ -418,8 +411,7 @@
                 src="~assets/Fletching.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Bodkinarrow.jpg"
@@ -432,16 +424,14 @@
                 src="~assets/Bracer.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Bracer">護腕</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Murderholes.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link
-              >:消除最小射程
-              <br />
+              >:消除最小射程 <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -484,8 +474,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >(+1/+1，+3建築護甲)
-              <br />
+              >(+1/+1，+3建築護甲) <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -554,8 +543,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
-              >:駐紮單位治療速度加快
-              <br />
+              >:駐紮單位治療速度加快 <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"

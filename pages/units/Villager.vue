@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>村民</h1>
@@ -116,7 +113,6 @@
               <td class="ttb2">食物</td>
               <td class="ttb3">0.388</td>
             </tr>
-
             <tr>
               <td class="ttb1">斯拉夫農民</td>
               <td class="ttb2">食物</td>
@@ -182,9 +178,7 @@
                       src="~assets/Farmicon.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/building/Farm  building/Farm"
-                      >農田</nuxt-link
-                    >
+                    /><nuxt-link to="/building/Farm">農田</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -457,7 +451,6 @@
             <p>
               折扣也適用，例如法蘭克玩家將只支付244石頭以完全修復城堡，升級建築物生命值的升級不會影響維修成本。
             </p>
-
             <ul>
               <li>速度</li>
               對於建築物來說，第一個村民將會每分鐘修復750點生命值，而任何額外的村民將會增加375點/分鐘（只有一半的速度）。無論建築類型，升級或原始生命值如何，這都是一樣的。

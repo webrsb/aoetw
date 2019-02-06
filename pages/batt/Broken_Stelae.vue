@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1><strong>毀壞的石碑</strong></h1>
@@ -44,7 +41,6 @@
             </td>
             <td class="tc6">反叛軍(黃色)衣索比亞</td>
           </tr>
-
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
           </tr>
@@ -86,11 +82,9 @@
             <li>
               你的斥侯回報:我們(黃色)的任務是把極大汗趕出這片土地，以打開通往阿克蘇姆的大門。
             </li>
-
             <li>
               你在這場戰鬥中沒有盟友，但是當地人可以被遊說加入你們的陣營。
             </li>
-
             <li>
               此地的敵軍有:極大汗(紅色)駐軍在馬薩瓦，只有攻下馬薩瓦才能取得此次任務的成功。效忠於極大汗(紫色)的人徘徊在地圖上，他們被任命守衛著石碑及寺廟。
             </li>
@@ -107,13 +101,13 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Yodit_4.png" width="" alt="" />
+                <img src="~assets/Yodit_4.png" alt="" />
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -139,7 +133,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -179,11 +173,9 @@
           <li>
             玩家一開始有個小村莊、五名村民、五名重裝長槍兵及五名騎士。用騎士蒐集附近的六隻山羊，所有村民先打山羊，接下來是大象。騎士往南走會遇到兩個地方部落，最下方的部落會給你一些軍隊。接下來請專注晉升到城堡時代，注意在地圖上偵查時會有極大汗的追隨者守護著石碑及極大汗的修道院。佔領石碑及摧毀修道院都會給你資源，七個石碑每個每分鐘會給50單位不同的資源(食物*2、木材*2、黃金*2、石材*1)，摧毀修道院則直接獲得1000黃金。然而一但你攻擊他們，最北方的極大汗營地會馬上派出弩兵、駱駝騎兵、劍兵和重裝長槍兵的部隊朝你襲來。先壯大自己的經濟為優先。
           </li>
-
           <li>
             黃金在城鎮中心往上一點的地方，在海上也有另外一攤大的金礦。記得採集石頭同時訓練軍隊，升上城堡時代後立即在城鎮中心上方的高地建造一座城堡，極大汗的第一批軍隊包含弩兵、駱駝騎兵、長劍兵、重裝長槍兵，輕型投石車搭配巨型投石機(整場唯一一台)會馬上攻過來，用弩兵跟戰矛兵的混合部隊搭配城堡可以射殺大部分的敵人，用騎士摧毀巨型投石機和輕型投石車，極大汗的軍隊會從各個方向過來，經過這波之後馬上訓練更多戰矛兵、弩兵及騎士並且升級到帝王時代。若時間拖得過長極大汗的軍隊就會升級到帝王時代的各階最高兵種。
           </li>
-
           <div class="col-md-12">
             <div class="col-md-6">
               <gallery>
@@ -197,7 +189,6 @@
               </gallery>
               <p><em>玩家開始的城鎮。</em></p>
             </div>
-
             <div class="col-md-6">
               <img
                 position="centered"
@@ -236,12 +227,10 @@
           <li>
             帝王時代後派15名升級過的騎兵部隊殺光地圖上所有的極大汗追隨者並佔領石牌，派遣衝撞車摧毀廟宇取得黃金，同時連絡地方部落後目標會更改成摧毀馬薩瓦的城鎮中心、城堡跟市集。派遣你的大軍往馬薩瓦移動，極大汗基地只有木牆十分容易進攻，不過他們的部隊源源不絕地湧出，玩家要不斷往前進攻才能獲得勝利。巨型投石機及火炮是摧毀建築物的最好武器，妥善保護他們執行任務，一旦上述三棟建築陷落玩家就能獲得勝利。
           </li>
-
           <li>
             玩家在北邊水域興建完碼頭地圖旁邊會出現五艘重型弩砲戰船為玩家所用，但作用不大。另外玩家也可先掃平馬薩瓦再連絡地方部落，一樣會獲勝。
           </li>
         </ul>
-
         <div class="col-md-12">
           <div class="col-md-6">
             <gallery>
@@ -255,7 +244,6 @@
             </gallery>
             <p><em>攻擊馬薩瓦!</em></p>
           </div>
-
           <div class="col-md-6">
             <gallery>
               <img

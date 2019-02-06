@@ -1,6 +1,4 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
     <div class="row" style="margin-top:30px;">
       <div class="col-md-12">
@@ -79,9 +77,7 @@
               >文明）
             </li>
           </ul>
-
           <h4>玩家可以駐守的軍事單位：</h4>
-
           <ul>
             <li>
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
@@ -106,9 +102,7 @@
               >：最多10位村民或徒步弓步兵（軍事建築物聚集點設在攻城塔→可自動進駐）
             </li>
           </ul>
-
           <h4>可提升箭量之駐守建築物及軍事單位：</h4>
-
           <ul>
             <li>
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
@@ -133,7 +127,6 @@
                 >火藥單位</nuxt-link
               >（<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>除外）
             </li>
-
             <p>
               『駐軍<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
               >、<nuxt-link to="/units/Chu_Ko_Nu">中國連弩兵</nuxt-link
@@ -150,7 +143,6 @@
               >駐軍增加箭數會稍微多些。』
             </p>
           </ul>
-
           <p>
             駐軍時單位不會受到敵方攻擊而損血，但如果建築物被破壞或嚴重損壞（剩餘HP≤20%），它們會自動從建築物中撤離。此外，受損單位進駐建築物內部後會慢慢恢復HP，箭塔每秒治療0.1的生命值，而<nuxt-link
               to="/building/Castle"
@@ -160,7 +152,6 @@
               >草藥學</nuxt-link
             >技術後可更進一步提高回血率。
           </p>
-
           <p>
             駐軍村民、徒步弓兵、騎馬弓手、陸地火藥單位……等，可增加塔、城鎮中心、城堡等射箭量輸出（<nuxt-link
               to="/building/Town_Center"
@@ -177,7 +168,7 @@
       <div class="n1">
         <div class="row">
           <div
-            style="border: 1px solid #495057;background: #009999;color: #FFFFFF; "
+            style="border: 1px solid #495057;background: #009999;color: #FFFFFF;"
             height="40"
             colspan="7"
             align="center"
@@ -227,9 +218,7 @@
           </div>
         </div>
         <div class="n1">
-          <div class="col-md-12">
-            <div class="col-md-4"></div>
-          </div>
+          <div class="col-md-12"><div class="col-md-4"></div></div>
         </div>
       </div>
     </div>
@@ -241,6 +230,9 @@
   </div>
 </template>
 <script>
-export default { layout: 'foot', components: {} }
+export default {
+  layout: 'foot',
+  components: {}
+}
 </script>
 <style></style>

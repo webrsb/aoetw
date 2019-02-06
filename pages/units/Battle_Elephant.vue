@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>矛象伕</h1>
@@ -154,8 +151,7 @@
                 src="~assets/Bloodlines.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20)
-              <br />
+              /><nuxt-link to="/techs/Bloodlines">品種</nuxt-link>(+20) <br />
               <img
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
@@ -172,15 +168,13 @@
                 src="~assets/Forging.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Ironcasting.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Blastfurnace.jpg"
@@ -196,8 +190,7 @@
               >和
               <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
-              <br />
+              >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定 <br />
               <img
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
@@ -215,24 +208,21 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Platebardingarmor.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
-              >(+1/+2)
-              <br />
+              >(+1/+2) <br />
               <img
                 src="~assets/CastleAgeUnique.png"
                 class="gg"

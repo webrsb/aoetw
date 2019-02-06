@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <h1>臺港知名玩家</h1>
       <div class="spw">

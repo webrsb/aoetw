@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>都爾(732)圖爾戰役</strong></h1>
@@ -42,22 +39,16 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p2">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p2">玩家1</div></td>
               <td class="tc6" colspan="3">法蘭克（紅色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4" width="12%">玩家2</div>
-              </td>
+              <td class="tc6"><div class="p4" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">柏柏人（黃色）土耳其</td>
-              <td class="tc6">
-                <div class="p3" width="12%">玩家3</div>
-              </td>
+              <td class="tc6"><div class="p3" width="12%">玩家3</div></td>
               <td class="tc6" width="38%">摩爾人（綠色）薩拉森</td>
             </tr>
             <tr></tr>
@@ -198,9 +189,7 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/Tours.jpg" width="" alt="" />
-              </div>
+              <div class="unititle"><img src="~assets/Tours.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>

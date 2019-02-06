@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>火砲</h1>
@@ -146,8 +143,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。
-              <br />
+              >攻擊加成+20%。 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Torsion_Engines"
                 >扭力彈射器</nuxt-link
@@ -165,8 +161,7 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。
-              <br />
+              >:對建築物攻擊加成+20%。 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Artillery"
                 >砲兵</nuxt-link
@@ -702,9 +697,7 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">
-              <nuxt-link to="/armor">近防</nuxt-link>
-            </td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
@@ -712,9 +705,7 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit3">
-              <nuxt-link to="/armor">防禦類型</nuxt-link>
-            </td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link

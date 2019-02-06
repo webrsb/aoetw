@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>流刺網</h1>
@@ -12,8 +9,7 @@
         <div class="n1">
           <p>
             流刺網於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >在<nuxt-link to="/building/Dock">碼頭</nuxt-link>
-            研發。研發後
+            >在<nuxt-link to="/building/Dock">碼頭</nuxt-link> 研發。研發後
             <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
             >工作速度+25%。這讓漁船捕魚和從<nuxt-link to="/building/Fish_Trap"
               >漁網</nuxt-link
@@ -63,9 +59,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">
-                <nuxt-link to="">科技介紹</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -121,9 +115,6 @@
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

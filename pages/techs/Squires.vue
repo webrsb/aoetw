@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>護衛</h1>
@@ -105,9 +102,7 @@
         </div>
         <h3>受影響的單位</h3>
         <div class="hrn1"></div>
-        <div class="n1">
-          <p>下面列出所有受追蹤技術影響的單位。</p>
-        </div>
+        <div class="n1"><p>下面列出所有受追蹤技術影響的單位。</p></div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
             <td>步兵單位</td>
@@ -333,7 +328,6 @@
                 >爪刀勇士(精銳)</nuxt-link
               >
             </td>
-
             <td class="tta2">1.2，1.2</td>
             <td class="tta3">1.32，1.32</td>
           </tr>

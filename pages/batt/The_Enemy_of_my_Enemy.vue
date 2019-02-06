@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>我敵人的敵人</strong></h1>
@@ -35,9 +32,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p2">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p2">玩家1</div></td>
               <td class="tc6" colspan="3">西班牙（紅色）</td>
             </tr>
             <tr>
@@ -45,72 +40,28 @@
             </tr>
             <tr>
               <td class="tc6" width="11%"><div class="p4">玩家2</div></td>
-              <td class="tc6" width="39% ">托雷多（黃色）薩拉森</td>
-              <td
-                class="tc6"
-                width="12%
-                "
-              >
-                <div class="p5">玩家3</div>
-              </td>
-              <td
-                class="tc6"
-                width="39%
-                "
-              >
-                蒙達米特（藍綠）薩拉森
-              </td>
-            </tr>
-
-            <tr>
-              <td class="tc6" width="11% "><div class="p6">玩家6</div></td>
-              <td
-                class="tc6
-                "
-                width="38% "
-              >
-                回教長老伊滿（紫色）薩拉森
-              </td>
+              <td class="tc6" width="39%">托雷多（黃色）薩拉森</td>
+              <td class="tc6" width="12%"><div class="p5">玩家3</div></td>
+              <td class="tc6" width="39%">蒙達米特（藍綠）薩拉森</td>
             </tr>
             <tr>
-              <td
-                class="tc4
-                "
-                colspan="4 "
-                style="background:#2980b9; "
-              >
-                敵對
-              </td>
+              <td class="tc6" width="11%"><div class="p6">玩家6</div></td>
+              <td class="tc6" width="38%">回教長老伊滿（紫色）薩拉森</td>
             </tr>
             <tr>
-              <td
-                class="tc6
-                "
-              >
-                <div class="p8">玩家5</div>
-              </td>
-              <td
-                class="tc6
-                "
-              >
-                西班牙的叛亂軍（橘色）西班牙
-              </td>
+              <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
+            </tr>
+            <tr>
+              <td class="tc6"><div class="p8">玩家5</div></td>
+              <td class="tc6">西班牙的叛亂軍（橘色）西班牙</td>
               <td class="tc6"><div class="p3">玩家6</div></td>
-              <td
-                class="tc6
-                "
-              >
-                摩爾人的反叛軍（綠色）薩拉森
-              </td>
+              <td class="tc6">摩爾人的反叛軍（綠色）薩拉森</td>
             </tr>
             <tr></tr>
           </table>
 
           <br />
-          <dl
-            class="dl-horizontal
-                "
-          >
+          <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
               長劍兵x10、騎士x10、弓箭手x8、村民x4、輕騎兵x3、英雄：席德。
@@ -120,10 +71,7 @@
           </dl>
           <h3>主要任務</h3>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>席德必須活著。</li>
               <li>找到停止托爾多叛亂的方法。</li>
@@ -137,7 +85,7 @@
           </div>
           <h3>任務提示</h3>
           <div class="hrn1"></div>
-          <div class="n1 ">
+          <div class="n1">
             <ul>
               <li>
                 如果你不能製造巨型投石機，駐守的輕型衝撞車就成為你最佳的攻城武器。
@@ -167,10 +115,7 @@
             </ul>
           </div>
           <h3>攻略</h3>
-          <div
-            class="hrn1
-                "
-          ></div>
+          <div class="hrn1"></div>
           <ul>
             <li>
               此關卡不用擔心在標準難度上消耗太多的防守資源，主要的敵人主要是騎士（西班牙叛軍）和駱駝（摩爾人）。他們通常在一個單位巡邏。
@@ -198,7 +143,7 @@
             </li>
           </ul>
           <h3>遊戲內細節</h3>
-          <div class="hrn1 "></div>
+          <div class="hrn1"></div>
           <ul>
             <li>
               不用太擔心對方軍隊的數量和戰力，但對方會出攻城器具，如有威脅需要提前打掉。
@@ -232,14 +177,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table class="table-bordered " width="100%">
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/The_Enemy_of_my_Enemy"
                   >我敵人的敵人</nuxt-link
@@ -249,35 +189,19 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/EIC_2.jpg" alt="" />
-              </div>
+              <div class="unititle"><img src="~assets/EIC_2.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
-              <div class="unititle2 ">
-                <nuxt-link
-                  to="/
-                "
-                  >情景信息</nuxt-link
-                >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td
-              class="unit4
-                "
-            >
-              征服者入侵
-            </td>
+            <td class="unit4">征服者入侵</td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -293,23 +217,14 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2 ">
-                <nuxt-link
-                  to="/
-                "
-                  >戰役關卡編號</nuxt-link
-                >
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td
-              class="unit4
-                "
-            >
-              征服者戰役第二章之二
-            </td>
+            <td class="unit4">征服者戰役第二章之二</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
@@ -318,35 +233,17 @@
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              下一關
-            </td>
+            <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link
-                to="/batt/The_Exile_of_the_Cid
-                "
+              <nuxt-link to="/batt/The_Exile_of_the_Cid"
                 >席德的流亡歲月</nuxt-link
               >
             </td>
           </tr>
         </table>
 
-        <div
-          class="thanks
-                "
-        >
-          感謝！此頁面由Wun、裕暉協助編輯。
-        </div>
+        <div class="thanks">感謝！此頁面由Wun、裕暉協助編輯。</div>
       </div>
-    </div>
-    <div class="row ">
-      <div
-        class="col-md-12
-                "
-      ></div>
     </div>
   </div>
 </template>

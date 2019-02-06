@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>攻城塔</h1>
@@ -737,9 +734,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由眠協助編輯</div>
-      </div>
-      <div class="row">
-        <div class="col-md-12"></div>
       </div>
     </div>
   </div>

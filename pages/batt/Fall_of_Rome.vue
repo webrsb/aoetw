@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>羅馬的衰落</h1>
@@ -29,8 +26,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -38,9 +34,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家1</div></td>
               <td class="tc6" colspan="3">匈奴人（黃色）</td>
             </tr>
             <tr>
@@ -48,64 +42,28 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p1">玩家6</div></td>
-              <td
-                class="tc6"
-                width="38%
-                "
-              >
-                西羅馬帝國（藍色）拜占庭
-              </td>
+              <td class="tc6" width="38%">西羅馬帝國（藍色）拜占庭</td>
             </tr>
             <tr>
-              <td
-                class="tc4 "
-                colspan="4 "
-                style="background:#ea6153;
-                "
-              >
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
-              <td
-                class="tc6
-                "
-              >
-                阿奎利亞（紅色）塞爾特
-              </td>
+              <td class="tc6">阿奎利亞（紅色）塞爾特</td>
               <td class="tc6"><div class="p3">玩家3</div></td>
-              <td
-                class="tc6
-                "
-              >
-                米蘭（綠色）條頓
-              </td>
+              <td class="tc6">米蘭（綠色）條頓</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p8">玩家4</div></td>
-              <td
-                class="tc6
-                "
-              >
-                佛羅蘭（橘色）法蘭克
-              </td>
+              <td class="tc6">佛羅蘭（橘色）法蘭克</td>
               <td class="tc6"><div class="p6">玩家5</div></td>
-              <td
-                class="tc6
-                "
-              >
-                帕度亞（紫色）不列顛
-              </td>
+              <td class="tc6">帕度亞（紫色）不列顛</td>
             </tr>
           </table>
 
           <br />
-          <dl
-            class="dl-horizontal
-                "
-          >
+          <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
               7位村民、阿提拉、8位韃靼騎兵、12位重裝馬騎弓兵、4台巨型投石機。
@@ -115,10 +73,7 @@
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>阿提拉必須存活下來。</li>
               <li>
@@ -130,10 +85,7 @@
         </div>
         <h2>任務提示</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               不要攻擊羅馬的城市。它不是一個威脅，而你是需要一些人來投降。
@@ -151,10 +103,7 @@
         </div>
         <h2>斥侯</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               匈奴人（黃色）一開始，在阿爾卑斯山的山腳下，就已經有豐富的資源。在其底下，就是義大利北部最具優良防衛能力的城邦。
@@ -178,10 +127,7 @@
           </ul>
           <h2>芝麻小事</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ul>
               <li>
                 阿提拉必須擊敗意大利北部的米蘭，帕度亞，阿奎利亞和佛羅蘭等城市。
@@ -203,18 +149,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link>
               </div>
@@ -223,131 +160,71 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Attila.6.jpg"
-                  width="
-                "
-                  alt=""
-                />
+                <img src="~assets/Attila.6.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link to="/">情景信息</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              版本
-            </td>
+            <td class="unit3">版本</td>
             <td class="unit4">
               <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              戰役
-            </td>
+            <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              文明
-            </td>
+            <td class="unit3">文明</td>
             <td class="unit4"><nuxt-link to="/civs/Huns">匈奴人</nuxt-link></td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link
-                  to="/
-                "
-                  >戰役關卡編號</nuxt-link
-                >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td
-              class="unit4
-                "
-            >
-              征服者第一章之六
-            </td>
+            <td class="unit4">征服者第一章之六</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link
-                to="/batt/Catalaunian_Fields
-                "
+              <nuxt-link to="/batt/Catalaunian_Fields"
                 >卡塔隆尼亞平原</nuxt-link
               >
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td
-              class="unit4
-                "
-            >
-              N/A
-            </td>
+            <td class="unit4">N/A</td>
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁由裕暉、竺叡、賜齡協助編輯</div>
+        <div class="thanks">感謝！此頁由裕暉、竺叡、賜齡協助編輯</div>
         <p></p>
-        <div
-          class="wiki
-                "
-          style="margin-top: 5px; "
-        >
-          <div style="float: left; ">
-            <img src="~assets/Wikipedia-logo.png" width="50 " height="46 " />
+        <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
-          <div
-            style="margin-left: 60px;
-                "
-          >
+          <div style="margin-left: 60px;">
             維基百科上的李奧教皇
-            <div style="margin-left: 10px; ">
+            <div style="margin-left: 10px;">
               <i
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96
-                "
+                    href="https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96"
                     >李奧教皇</a
                   ></strong
                 ></i
@@ -356,12 +233,6 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="row ">
-      <div
-        class="col-md-12
-                "
-      ></div>
     </div>
   </div>
 </template>

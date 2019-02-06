@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>查理曼大帝</h1>
@@ -142,14 +139,8 @@
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
         <div>
           <div></div>
-          <div>
-            <div></div>
-          </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

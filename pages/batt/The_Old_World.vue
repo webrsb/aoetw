@@ -1,6 +1,4 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
@@ -159,15 +157,12 @@
                 <li>
                   法蘭西斯科‧德‧阿爾梅達控制著托洛（綠）的儲備物資，托洛是在杜羅河邊的城市。
                 </li>
-
                 <li>
                   阿方索國王的軍隊（紅）被阿拉貢（黃）打敗後又上路了，殘餘力量潛伏在戰場的邊緣，只有胡安王子的出現才能重振士氣。軍隊由輕騎兵、長槍兵、弩兵和戟兵組成。
                 </li>
-
                 <li>
                   阿拉貢（黃）有三個軍營控制這片區域。傳統軍隊包括騎兵、劍兵和弓箭手。阿拉貢（黃）虜獲了一支新的葡萄牙風琴砲。此外，阿爾巴公爵和門多薩紅衣主教會指揮軍隊於地圖中巡邏。
                 </li>
-
                 <li>
                   薩莫拉城在托洛城的西邊，橫跨杜羅河。此城由與我們友好的胡安勢力（紫）和與我們敵對的伊莎貝拉勢力（灰）分而治之。前者控制著北岸和老羅馬教堂，後者控制著聖塔瑪爾塔的佩尼亞斯，一個佈滿岩石的能俯瞰河面的橋的空地。雙方都有軍隊：長槍兵、僱傭兵、弩兵、攻城武器和少數輕騎兵。
                 </li>
@@ -223,53 +218,25 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <!--               <img
-                class="hg"
-                src="~assets/The_Old_World-01.png"
-                alt=""
-                width="100%"
-              /> -->
+              <!-- <img class="hg" src="~assets/The_Old_World-01.png" alt="" width="100%" /> -->
               <p>
                 綠色領地的教堂旁有僧侶，可協助我方回血。<br />
                 （黃色敵軍會不定時闖入打箭塔，要小心旁邊的城鎮中心不能被破壞。）
               </p>
             </div>
-            <!--             <div class="col-md-12">
-              <img
-                class="hg"
-                src="~assets/The_Old_World-02.png"
-                alt=""
-                width="100%"
-              /> -->
+            <!-- <div class="col-md-12"> <img class="hg" src="~assets/The_Old_World-02.png" alt="" width="100%" /> -->
             <p>阿爾巴公爵會在地圖巡邏的黃色單位之中。</p>
           </div>
           <div class="col-md-12">
-            <!--               <img
-                class="hg"
-                src="~assets/The_Old_World-03.png"
-                alt=""
-                width="100%"
-              /> -->
-            <p>
-              門多薩紅衣主教會在其中一個黃色軍營中（要留意裡面僧侶很多）。
-            </p>
+            <!-- <img class="hg" src="~assets/The_Old_World-03.png" alt="" width="100%" /> -->
+            <p>門多薩紅衣主教會在其中一個黃色軍營中（要留意裡面僧侶很多）。</p>
           </div>
           <div class="col-md-12">
-            <!--               <img
-                class="hg"
-                src="~assets/The_Old_World-04.png"
-                alt=""
-                width="100%"
-              /> -->
+            <!-- <img class="hg" src="~assets/The_Old_World-04.png" alt="" width="100%" /> -->
             <p>通往胡安勢力的橋尚未修復。</p>
           </div>
           <div class="col-md-12">
-            <!--               <img
-                class="hg"
-                src="~assets/The_Old_World-05.png"
-                alt=""
-                width="100%"
-              /> -->
+            <!-- <img class="hg" src="~assets/The_Old_World-05.png" alt="" width="100%" /> -->
             <p>灰色轉為敵對後，橋會修復，我方即可進城。</p>
           </div>
         </div>
@@ -286,9 +253,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center>
-                  <img src="~assets/The_Old_World.png" width="" alt="" />
-                </center>
+                <center><img src="~assets/The_Old_World.png" alt="" /></center>
               </div>
             </td>
           </tr>
@@ -332,9 +297,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝！此頁面由小蛇、裕暉協助編輯。
-        </div>
+        <div class="thanks">感謝！此頁面由小蛇、裕暉協助編輯。</div>
       </div>
     </div>
   </div>

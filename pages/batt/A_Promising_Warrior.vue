@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1>英雄出少年</h1>
@@ -40,11 +39,9 @@
               </td>
               <td class="tc6" colspan="8">主角（橘色）印度</td>
             </tr>
-
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
-
             <tr>
               <td class="tc6" width="15%">
                 <div class="p3"></div>
@@ -69,11 +66,9 @@
               </td>
               <td class="tc6" width="35%">兆汗軍（灰色）印度</td>
             </tr>
-
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
-
             <tr>
               <td class="tc6">
                 <div class="p2"></div>
@@ -97,9 +92,7 @@
 
           <h3>開場</h3>
           <p>金德‧伯勒達伊、布里斯比羅吉。</p>
-
           <p>大地之母單位:無</p>
-
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -112,7 +105,6 @@
             </ol>
           </div>
         </div>
-
         <h2>次要任務</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -140,7 +132,6 @@
             <li>解救河對岸的城鎮（黃色）。</li>
             <li>尋獲攻城武器。</li>
           </ol>
-
           <h2>任務提示</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -188,7 +179,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Prithviraj_1.jpg" width="" alt="" />
+                <img src="~assets/Prithviraj_1.jpg" alt="" />
               </div>
             </td>
           </tr>
@@ -234,9 +225,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝! 此頁面由小蛇，竺叡協助編輯
-        </div>
+        <div class="thanks">感謝! 此頁面由小蛇，竺叡協助編輯</div>
       </div>
     </div>
   </div>

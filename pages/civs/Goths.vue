@@ -1,11 +1,8 @@
 <template>
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>
-          <strong>哥德</strong>
-        </h1>
+        <h1><strong>哥德</strong></h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -26,9 +23,7 @@
             如今大多數人所知道的"哥德"就是哥德式建築風格，通常為帶有尖形拱門的高聳建築，並大量使用彩繪玻璃。哥德蘿莉風與哥德金屬樂團則是以黑色為主，大概是繼承了哥德人帶給羅馬人的恐懼。
           </p>
         </div>
-        <h3>
-          <strong>文明概要</strong>
-        </h3>
+        <h3><strong>文明概要</strong></h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -54,9 +49,7 @@
               哥德的文明跟科技使他十分適合後帝王死鬥，這是個非常優待哥德的遊戲模式。
             </li>
           </ul>
-          <h3>
-            <strong>特殊單位</strong>
-          </h3>
+          <h3><strong>特殊單位</strong></h3>
           <ul>
             <li>
               <img
@@ -66,9 +59,7 @@
               />哥德衛隊:快速的步兵，且有異常高的遠程護甲，基本上克制所有弓箭系。碰到高攻擊近戰單位會顯得吃力。
             </li>
           </ul>
-          <h3>
-            <strong>特殊科技</strong>
-          </h3>
+          <h3><strong>特殊科技</strong></h3>
           <ul>
             <li>
               <img
@@ -86,9 +77,7 @@
             </li>
           </ul>
         </div>
-        <h3>
-          <strong>文明加成</strong>
-        </h3>
+        <h3><strong>文明加成</strong></h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -105,9 +94,7 @@
           <em><nuxt-link to="/tree/got">哥德科技樹</nuxt-link></em>
         </div>
         <br />
-        <h3>
-          <strong>戰術概論</strong>
-        </h3>
+        <h3><strong>戰術概論</strong></h3>
         <div class="hrn1"></div>
         <div class="n1">
           <strong>優勢</strong>
@@ -208,9 +195,7 @@
             <li>擁有火炮塔與良好投石車的文明能夠有效防禦哥德玩家的進攻。</li>
           </ul>
         </div>
-        <h3>
-          <strong>出場戰役</strong>
-        </h3>
+        <h3><strong>出場戰役</strong></h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p></p>
@@ -493,9 +478,7 @@
                 <gallery>
                   <img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
                 /></gallery>
-                <p>
-                  <em>哥德的建築風格</em>
-                </p>
+                <p><em>哥德的建築風格</em></p>
               </div>
             </div>
           </div>
@@ -505,26 +488,20 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle">
-                <nuxt-link to="">哥德</nuxt-link>
-              </div>
+              <div class="unititle"><nuxt-link to="">哥德</nuxt-link></div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/92000230.jpg" width="300" alt="" />
-                <p>
-                  <em>硬幣上的人為狄奧多里克大帝，東哥德王國建立者。</em>
-                </p>
+                <p><em>硬幣上的人為狄奧多里克大帝，東哥德王國建立者。</em></p>
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle2">
-                <nuxt-link to="">概要</nuxt-link>
-              </div>
+              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
             </td>
           </tr>
           <tr>
@@ -557,9 +534,6 @@
 
         <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>上帝之鞭</h1>
@@ -31,8 +28,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -40,9 +36,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家1</div></td>
               <td class="tc6" colspan="3">匈奴人（黃色）</td>
             </tr>
             <tr>
@@ -50,57 +44,26 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p6">玩家2</div></td>
-              <td
-                class="tc6"
-                width="38%
-                "
-              >
-                貝里達的匈奴人（紫色）匈奴
-              </td>
+              <td class="tc6" width="38%">貝里達的匈奴人（紫色）匈奴</td>
             </tr>
             <tr>
-              <td
-                class="tc4 "
-                colspan="4 "
-                style="background:#ea6153;
-                "
-              >
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p3">玩家3</div></td>
-              <td
-                class="tc6
-                "
-              >
-                西徐亞人（綠色）蒙古 敵對
-              </td>
+              <td class="tc6">西徐亞人（綠色）蒙古 敵對</td>
               <td class="tc6"><div class="p2">玩家4</div></td>
-              <td
-                class="tc6
-                "
-              >
-                波斯人（紅色）波斯
-              </td>
+              <td class="tc6">波斯人（紅色）波斯</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家5</div></td>
-              <td
-                class="tc6
-                "
-              >
-                西羅馬帝國（藍色）拜占庭
-              </td>
+              <td class="tc6">西羅馬帝國（藍色）拜占庭</td>
             </tr>
           </table>
 
           <br />
-          <dl
-            class="dl-horizontal
-                "
-          >
+          <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>阿提拉</dd>
             <dt>大地之母單位：</dt>
@@ -108,10 +71,7 @@
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>阿提拉必須存活下來。</li>
               <li>
@@ -125,10 +85,7 @@
         </div>
         <h2>次要目標</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>從羅馬的要塞中救出匈奴人，並送他們到南方。</li>
             <li>從羅馬的要塞中救出西徐亞的斥候兵。他答應一定會好好回報。</li>
@@ -144,10 +101,7 @@
         </div>
         <h2>任務提示</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               有幾個方法可以打敗貝里達；把你對他的態度改為敵人並攻擊他，他會死於意外，或拒絕他一切的挑戰並逃離匈奴人的陣營。
@@ -160,10 +114,7 @@
         </div>
         <h2>斥侯</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               阿提拉（黃色）最初並沒有任何的軍隊，因為全部的匈奴人都效忠於匈奴的國王貝里達。阿提拉必須去掉貝里達以繼承他的軍隊和村民。
@@ -242,18 +193,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
               </div>
@@ -262,112 +204,57 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Attila.1.jpg"
-                  width="
-                "
-                  alt=""
-                />
+                <img src="~assets/Attila.1.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link to="/">情景信息</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              版本
-            </td>
+            <td class="unit3">版本</td>
             <td class="unit4">
               <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              戰役
-            </td>
+            <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              文明
-            </td>
+            <td class="unit3">文明</td>
             <td class="unit4"><nuxt-link to="/civs/Huns">匈奴人</nuxt-link></td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link
-                  to="/
-                "
-                  >戰役關卡編號</nuxt-link
-                >
+                戰役關卡編號
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td
-              class="unit4
-                "
-            >
-              征服者第一章之一
-            </td>
+            <td class="unit4">征服者第一章之一</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
-            <td
-              class="unit4
-                "
-            >
-              <nuxt-link to="/">N/A</nuxt-link>
-            </td>
+            <td class="unit4">N/A</td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link
-                to="/batt/The_Great_Ride
-                "
-                >偉大的騎士</nuxt-link
-              >
+              <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
             </td>
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由裕暉、竺叡協助編輯。</div>
-        <div
-          class="row
-                "
-        >
-          <div
-            class="col-md-12
-                "
-          ></div>
-        </div>
+        <div class="thanks">感謝！此頁面由裕暉、竺叡協助編輯。</div>
       </div>
     </div>
   </div>

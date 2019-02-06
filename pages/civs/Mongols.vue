@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>蒙古</h1>
@@ -176,8 +173,7 @@
             <td class="unit3">特殊技術</td>
             <td class="unit4">
               <img class="gg" src="~assets/CastleAgeUnique.png" />
-              <nuxt-link to="/techs/Nomads">游牧</nuxt-link>
-              <br />
+              <nuxt-link to="/techs/Nomads">游牧</nuxt-link> <br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
                 to="/techs/Drill"
                 >鑿岩機</nuxt-link

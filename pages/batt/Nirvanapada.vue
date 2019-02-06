@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>千古偉業</h1>
@@ -33,8 +30,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -42,9 +38,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p5">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p5">玩家1</div></td>
               <td class="tc6" colspan="3">高棉人（水藍）</td>
             </tr>
             <tr>
@@ -53,9 +47,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家7</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家7</div></td>
               <td class="tc6">大越（黃色）越南</td>
             </tr>
             <tr>
@@ -63,29 +55,19 @@
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6">
-                <div class="p2" width="12%">玩家2</div>
-              </td>
+              <td class="tc6"><div class="p2" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">駭黎朋猜王國（紅色）緬甸</td>
-              <td class="tc6">
-                <div class="p1" width="12%">玩家3</div>
-              </td>
+              <td class="tc6"><div class="p1" width="12%">玩家3</div></td>
               <td class="tc6" width="38%">羅斛王國（藍色）緬甸</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p3">玩家4</div>
-              </td>
+              <td class="tc6"><div class="p3">玩家4</div></td>
               <td class="tc6">北占族人（綠色）越南</td>
-              <td class="tc6">
-                <div class="p6">玩家5</div>
-              </td>
+              <td class="tc6"><div class="p6">玩家5</div></td>
               <td class="tc6">南占族人（紫色）馬來</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p8">玩家6</div>
-              </td>
+              <td class="tc6"><div class="p8">玩家6</div></td>
               <td class="tc6">高棉叛軍（橘色）高棉</td>
             </tr>
           </table>
@@ -109,7 +91,6 @@
               </li>
               <li>建造並保衛一座世界奇觀。</li>
             </ol>
-
             <h2>次要任務</h2>
             <div class="hrn1"></div>
             <div class="n1">
@@ -117,7 +98,6 @@
                 <li>參佛齊王國會定期向你進貢。</li>
               </ul>
             </div>
-
             <h2>任務提示</h2>
             <div class="hrn1"></div>
             <div class="n1">
@@ -226,7 +206,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -250,7 +230,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>

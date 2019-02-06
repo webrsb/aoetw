@@ -1,17 +1,12 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>血親統治</strong></h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
-        <div class="n1">
-          <p>血親統治是蒙特蘇馬戰役的第一個場景。</p>
-        </div>
+        <div class="n1"><p>血親統治是蒙特蘇馬戰役的第一個場景。</p></div>
         <h2>玩家</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -173,9 +168,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">
-                <nuxt-link to="">情景信息</nuxt-link>
-              </div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -199,7 +192,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -221,9 +214,6 @@
 
         <div class="thanks">感謝! 此頁面由賜齡，裕暉協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>風琴砲</h1>
@@ -108,11 +105,9 @@
               >:可提升火藥單位對移動中目標命中率，<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
-              >限定
-              <br />
+              >限定 <br />
             </td>
           </tr>
-
           <tr>
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
@@ -121,8 +116,7 @@
                 src="~assets/Heresy.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Faith.jpg"

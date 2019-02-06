@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1>逐鹿迪格維傑之地</h1>
@@ -97,7 +96,6 @@
           </p>
           <h3>大地之母單位：</h3>
           <p>5位村民、4輛貿易車隊</p>
-
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -177,9 +175,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center>
-                  <img src="~assets/Prithviraj_2.jpg" width="" alt="" />
-                </center>
+                <center><img src="~assets/Prithviraj_2.jpg" alt="" /></center>
               </div>
             </td>
           </tr>
@@ -227,9 +223,7 @@
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝！此頁面由小蛇，竺叡協助編輯。
-        </div>
+        <div class="thanks">感謝！此頁面由小蛇，竺叡協助編輯。</div>
       </div>
     </div>
   </div>

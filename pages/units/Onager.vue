@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>中型投石車</h1>
@@ -116,15 +113,13 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。
-              <br />
+              >:對建築物攻擊加成+20%。 <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Chemistry">化學</nuxt-link>(+1) <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Torsion_Engines"
                 >扭力彈射器</nuxt-link
@@ -142,8 +137,7 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。
-              <br />
+              >:對建築物攻擊加成+20%。 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Shinkichon"
                 >神機箭</nuxt-link

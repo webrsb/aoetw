@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>前置槍矛</h1>
@@ -36,7 +33,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px; "
+              style=" color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候該打前置槍矛</strong
           >
@@ -179,9 +176,6 @@
 
         <div class="thanks">感謝! 此頁面由眠協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

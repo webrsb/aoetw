@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>悲傷之夜</strong></h1>
@@ -248,9 +245,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">
-                <nuxt-link to="">情景信息</nuxt-link>
-              </div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -274,7 +269,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -298,9 +293,6 @@
 
         <div class="thanks">感謝! 此頁面由賜齡，裕暉協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

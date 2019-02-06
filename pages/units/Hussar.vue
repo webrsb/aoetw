@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>匈牙利輕騎兵</h1>
@@ -131,8 +128,7 @@
               <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
               <nuxt-link to="/units/Light_Cavalry">輕騎兵→</nuxt-link>
               <img class="gg" src="~assets/HussarIcon.jpg" alt="" />
-              <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
-              <br />
+              <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Bloodlines.png"
@@ -149,15 +145,13 @@
                 src="~assets/Forging.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Forging">鍛造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Ironcasting.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1)
-              <br />
+              /><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>(+1) <br />
               <img
                 class="gg"
                 src="~assets/Blastfurnace.jpg"
@@ -180,16 +174,14 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Chainbardingarmor.jpg"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 class="gg"
                 src="~assets/Platebardingarmor.jpg"

@@ -1,6 +1,5 @@
 <template>
   <div class="container padtop">
-    <!-- Example row of columns -->
     <h1>建築</h1>
     <h3></h3>
     <div class="row">

@@ -1,7 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>京都(1582)</strong></h1>
@@ -254,16 +252,12 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/Kyoto.jpg" alt="" />
-              </div>
+              <div class="unititle"><img src="~assets/Kyoto.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">
-                <nuxt-link to="">情景信息</nuxt-link>
-              </div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -283,7 +277,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -297,15 +291,11 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4">
-              洛陽點(1598)
-            </td>
+            <td class="unit4">洛陽點(1598)</td>
           </tr>
         </table>
 
-        <div class="thanks">
-          感謝! 此頁面由Dennis協助編輯
-        </div>
+        <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
         <div class="wiki" style="margin-top: 5px;">
           <div style="float: left;">
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
@@ -322,9 +312,6 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

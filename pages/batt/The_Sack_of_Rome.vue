@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>洗劫羅馬</h1>
@@ -31,8 +28,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -40,9 +36,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家1</div></td>
               <td class="tc6" colspan="3">哥德人（藍色）</td>
             </tr>
             <tr>
@@ -59,9 +53,7 @@
               <td class="tc6" width="35%">阿陶爾夫（水藍色）哥德</td>
             </tr>
             <tr>
-              <td class="tc4 " colspan="4 " style="background:#ea6153;">
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
@@ -127,10 +119,7 @@
           </ul>
           <h2>戰術</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ul>
               <li>
                 玩家首先會看到阿拉里克指揮他的軍隊攻擊羅馬西邊的三座箭塔，
@@ -164,10 +153,7 @@
             </ul>
             <h2>趣事</h2>
             <div class="hrn1"></div>
-            <div
-              class="n1
-                "
-            >
+            <div class="n1">
               <ul>
                 <li>
                   這是阿拉里克系列中唯一一場玩家能夠晉級到帝王時代的戰役，
@@ -177,8 +163,7 @@
                   這場戰役有個彩蛋：羅馬城的東邊，有個精銳擲斧兵名叫考利，就在被清空的樹林中央。如果他被選取，他會大叫要移除所有樹木。這片被砍伐的樹林，玩家可以透過研發間諜或是打入密技來發現。
                 </li>
                 <li>
-                  原版失落帝國MOD中，在阿拉里克派出信使的部分裡，有三個"不法之徒
-                  "(名稱就叫OUTLW的弓兵)會在玩家接受信使時，直接在旁邊生成，然後攻擊信使。但是他們很弱，可以一刀就殺死。而這些不法之徒原本是被設計成會隨機生成在貿易路線旁，用來攻擊村民跟貿易車隊的，但後來設計失敗了。
+                  原版失落帝國MOD中，在阿拉里克派出信使的部分裡，有三個"不法之徒"(名稱就叫OUTLW的弓兵)會在玩家接受信使時，直接在旁邊生成，然後攻擊信使。但是他們很弱，可以一刀就殺死。而這些不法之徒原本是被設計成會隨機生成在貿易路線旁，用來攻擊村民跟貿易車隊的，但後來設計失敗了。
                 </li>
                 <li>
                   阿陶爾夫在414年跟加拉·普拉西提阿結婚，在阿拉里克死後繼承了西哥德王位。
@@ -189,7 +174,7 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table class="table-bordered " width="100%">
+        <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
@@ -205,9 +190,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/">情景信息</nuxt-link>
+                情景信息
               </div>
             </td>
           </tr>
@@ -228,9 +213,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -246,12 +231,11 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4"><nuxt-link to="/">N/A</nuxt-link></td>
+            <td class="unit4">N/A</td>
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由裕暉、Dennis協助編輯</div>
-        <div class="row"><div class="col-md-12"></div></div>
+        <div class="thanks">感謝！此頁面由裕暉、Dennis協助編輯</div>
       </div>
     </div>
   </div>

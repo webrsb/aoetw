@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>西班牙</h1>
@@ -176,8 +173,7 @@
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/ConquistadorIcon.jpg" />征服者
-              <br />
+              <img class="gg" src="~assets/ConquistadorIcon.jpg" />征服者 <br />
               <p><img class="gg" src="~assets/MissionaryIcon.jpg" />傳教士</p>
             </td>
           </tr>
@@ -197,9 +193,6 @@
 
         <div class="thanks">此頁面由阿幹協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

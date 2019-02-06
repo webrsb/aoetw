@@ -1,12 +1,9 @@
 <template>
   <div class="container padtop">
-    <!-- Example row of columns -->
     <h1>特殊單位</h1>
     <h3></h3>
     <div class="row">
-      <div class="col-md-12">
-        <p>大多數的國家只有一種特殊單位</p>
-      </div>
+      <div class="col-md-12"><p>大多數的國家只有一種特殊單位</p></div>
     </div>
     <h3>概要</h3>
     <div class="hrn1"></div>

@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>碼頭</h1>
@@ -294,8 +291,7 @@
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-                >(護甲+1/+1，+3建築護甲)
-                <br />
+                >(護甲+1/+1，+3建築護甲) <br />
                 <img
                   class="gg"
                   src="~assets/Architecture.jpg"
@@ -331,8 +327,7 @@
                   src="~assets/Faith.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-                <br />
+                /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
                 <img
                   class="gg"
                   src="~assets/Heresy.png"
@@ -572,22 +567,19 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              />0
-              <br />
+              />0 <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              />1
-              <br />
+              />1 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              />2
-              <br />
+              />2 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -604,22 +596,19 @@
                 src="~assets/Dark-age-logo-small.jpg"
                 width="30"
                 alt=""
-              />7
-              <br />
+              />7 <br />
               <img
                 class="gg"
                 src="~assets/Feudal-age-reseach.jpg"
                 width="30"
                 alt=""
-              />8
-              <br />
+              />8 <br />
               <img
                 class="gg"
                 src="~assets/Castle-age-reseach.jpg"
                 width="30"
                 alt=""
-              />9
-              <br />
+              />9 <br />
               <img
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
@@ -730,9 +719,6 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

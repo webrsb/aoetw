@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>洛陽點（1598）（露梁海戰）</strong></h1>
@@ -42,9 +39,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p2">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p2">玩家1</div></td>
               <td class="tc6" colspan="3">韓國（紅色）</td>
             </tr>
             <tr>
@@ -52,21 +47,19 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p8">玩家3</div></td>
-              <td class="tc6" width="38% ">中國鄧子龍將軍（橘色）中國</td>
+              <td class="tc6" width="38%">中國鄧子龍將軍（橘色）中國</td>
               <td class="tc6" width="12%"><div class="p3">玩家4</div></td>
               <td class="tc6" width="38%">李舜臣（綠色）韓國</td>
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc4 " colspan="4 " style="background:#2980b9; ">
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p4">玩家2</div></td>
               <td class="tc6">日本海軍（黃色）日本</td>
               <td class="tc6"><div class="p6">玩家5</div></td>
-              <td class="tc6 ">日本侵略者（紫色）日本</td>
+              <td class="tc6">日本侵略者（紫色）日本</td>
             </tr>
             <tr></tr>
           </table>
@@ -106,10 +99,9 @@
               <li>在一開始，韓國還不能建造城堡或是訓練他們最強力的兵種。</li>
             </ul>
           </div>
-
           <h3>斥侯</h3>
           <div class="hrn1"></div>
-          <div class="n1 ">
+          <div class="n1">
             <ul>
               <li>
                 韓國（紅色）有一個很大的城鎮，但是容易遭受日本海軍的攻擊，尤其是火炮戰船的攻擊。
@@ -125,7 +117,6 @@
               </li>
             </ul>
           </div>
-
           <h3>攻略</h3>
           <div class="hrn1"></div>
           <ul>
@@ -197,12 +188,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/Noryang_Point_1598"
                   >洛陽點（1598）（露梁海戰）</nuxt-link
@@ -213,19 +199,14 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Noryang.jpg"
-                  width="
-                "
-                  alt=""
-                />
+                <img src="~assets/Noryang.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/">情景信息</nuxt-link>
+                情景信息
               </div>
             </td>
           </tr>
@@ -247,8 +228,8 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2 ">
-                <nuxt-link to="/">戰役關卡編號</nuxt-link>
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -268,15 +249,15 @@
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由Wun、裕暉協助編輯。</div>
+        <div class="thanks">感謝！此頁面由Wun、裕暉協助編輯。</div>
         <p></p>
-        <div class="wiki" style="margin-top: 5px; ">
-          <div style="float: left; ">
-            <img src="~assets/Wikipedia-logo.png" width="50 " height="46 " />
+        <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
             維基百科上的李舜臣與露梁海戰資訊
-            <div style="margin-left: 10px; ">
+            <div style="margin-left: 10px;">
               <em
                 ><strong
                   ><a

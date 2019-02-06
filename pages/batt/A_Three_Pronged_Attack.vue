@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>兵分三路</h1>
@@ -33,8 +30,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -42,18 +38,14 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家1</div></td>
               <td class="tc6" colspan="3">越南人（黃色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p8">玩家2</div>
-              </td>
+              <td class="tc6"><div class="p8">玩家2</div></td>
               <td class="tc6">大越義軍（橘色）越南</td>
             </tr>
             <tr>
@@ -61,9 +53,7 @@
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6">
-                <div class="p7">玩家7</div>
-              </td>
+              <td class="tc6"><div class="p7">玩家7</div></td>
               <td class="tc6">哀牢國（灰色）高棉</td>
             </tr>
             <tr>
@@ -71,23 +61,15 @@
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6" width="12%">
-                <div class="p3">玩家3</div>
-              </td>
+              <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
               <td class="tc6" width="38%">東都（綠色）越南</td>
-              <td class="tc6" width="12%">
-                <div class="p1">玩家4</div>
-              </td>
+              <td class="tc6" width="12%"><div class="p1">玩家4</div></td>
               <td class="tc6" width="38%">柳升將軍（藍色）中國</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p5">玩家5</div>
-              </td>
+              <td class="tc6"><div class="p5">玩家5</div></td>
               <td class="tc6">乂安府（水藍）越南</td>
-              <td class="tc6">
-                <div class="p6">玩家6</div>
-              </td>
+              <td class="tc6"><div class="p6">玩家6</div></td>
               <td class="tc6">王通將軍（紫色）中國</td>
             </tr>
           </table>
@@ -193,7 +175,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -215,7 +197,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -239,9 +221,6 @@
 
         <div class="thanks">感謝！此頁面由亞諭、裕暉協助編輯。</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

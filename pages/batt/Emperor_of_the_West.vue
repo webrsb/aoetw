@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>西域之君</h1>
@@ -35,8 +32,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -44,9 +40,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家1</div></td>
               <td class="tc6" colspan="3">哥德人（藍色）</td>
             </tr>
             <tr>
@@ -54,44 +48,26 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
-              <td class="tc6" width="38% ">平民（紅色）義大利</td>
-              <td class="tc6" width="12%">
-                <div class="p6">玩家4</div>
-              </td>
+              <td class="tc6" width="38%">平民（紅色）義大利</td>
+              <td class="tc6" width="12%"><div class="p6">玩家4</div></td>
               <td class="tc6" width="38%">拉文納（紫色）義大利</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p5">玩家5</div></td>
-              <td class="tc6" width="38% ">阿拉里克（水藍色）</td>
+              <td class="tc6" width="38%">阿拉里克（水藍色）</td>
             </tr>
             <tr>
-              <td
-                class="tc4
-                "
-                colspan="4 "
-                style="background:#ea6153;
-                "
-              >
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p3">玩家3</div></td>
-              <td
-                class="tc6
-                "
-              >
-                薩魯斯（綠色）哥德
-              </td>
+              <td class="tc6">薩魯斯（綠色）哥德</td>
             </tr>
           </table>
 
           <br />
-          <dl
-            class="dl-horizontal
-                "
-          >
+          <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
               阿拉里克（騎兵）、1位貼身侍衛（馬札爾鏢騎）、2位騎士、2位馬騎弓兵、4位哥德衛隊、3位裝甲步兵、3位義大利傭兵、2位熱那亞弩手。
@@ -103,10 +79,7 @@
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>阿拉里克必須存活。</li>
               <li>去東邊和阿陶爾夫的手下會面</li>
@@ -120,10 +93,7 @@
         </div>
         <h2>任務提示</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>制定戰術，小心行事，多聽你手下的意見，最好走大道。</li>
             <li>
@@ -140,10 +110,7 @@
         </div>
         <h2>斥侯</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               阿拉里克（水藍色）帶領一小部隊出現在西邊，準備在拉文納和皇帝相遇。
@@ -158,10 +125,7 @@
           </ul>
           <h2>戰術</h2>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ul>
               <li>
                 開始時玩家擁有在地圖西邊的阿拉里克與他的軍隊，正要前往東邊的老百姓港口去會見阿陶爾夫的軍隊。路上收集一些大地之母軍隊，你也會碰到薩魯斯（特殊騎兵表示）與其軍隊的襲擊。小支來襲及阿拉里克的部隊是很好處理的，但是大部隊會一直站在主要幹道的地方，玩家應該走進森林以避開他們。
@@ -182,10 +146,7 @@
             </ul>
             <h2>趣事</h2>
             <div class="hrn1"></div>
-            <div
-              class="n1
-                "
-            >
+            <div class="n1">
               <ul>
                 <li>
                   水藍色的AI阿拉里克有個中型衝撞車在地圖北端當作佔位單位。在原版的失落帝國戰役中，玩家開始時有個弓兵作為佔位單位，他會駐守在剛剛提到的中型衝撞車裡面。
@@ -206,18 +167,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/Emperor_of_the_West">西域之君</nuxt-link>
               </div>
@@ -226,90 +178,45 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Alaric_3.jpg"
-                  width="
-                "
-                  alt=""
-                />
+                <img src="~assets/Alaric_3.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link to="/">情景信息</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              版本
-            </td>
+            <td class="unit3">版本</td>
             <td class="unit4">
               <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              戰役
-            </td>
+            <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit3
-                "
-            >
-              文明
-            </td>
+            <td class="unit3">文明</td>
             <td class="unit4">
               <nuxt-link to="/civs/Goths">哥德人</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link
-                  to="/
-                "
-                  >戰役關卡編號</nuxt-link
-                >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td
-              class="unit4
-                "
-            >
-              失落帝國第一章之三
-            </td>
+            <td class="unit4">失落帝國第一章之三</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
@@ -327,16 +234,7 @@
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由裕暉、Dennis協助編輯。</div>
-        <div
-          class="row
-                "
-        >
-          <div
-            class="col-md-12
-                "
-          ></div>
-        </div>
+        <div class="thanks">感謝！此頁面由裕暉、Dennis協助編輯。</div>
       </div>
     </div>
   </div>

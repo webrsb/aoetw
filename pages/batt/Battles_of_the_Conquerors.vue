@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>征服者的戰役</h1>
@@ -41,28 +38,24 @@
                     <nuxt-link to="/batt/Tours_732">都爾（732）</nuxt-link>
                     <p>文明：<nuxt-link to="/civs/Franks">法蘭克</nuxt-link></p>
                   </li>
-
                   <li>
                     <nuxt-link to="/batt/Vindlandsaga_1000"
                       >芬特蘭撒格（1000）</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Vikings">維京</nuxt-link></p>
                   </li>
-
                   <li>
                     <nuxt-link to="/batt/Hastings_1066"
                       >哈斯汀斯（1066）</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Franks">法蘭克</nuxt-link></p>
                   </li>
-
                   <li>
                     <nuxt-link to="/batt/Manzikert_1071"
                       >曼奇克托（1071）</nuxt-link
                     >
                     <p>文明：<nuxt-link to="/civs/Turks">土耳其</nuxt-link></p>
                   </li>
-
                   <li>
                     <nuxt-link to="/batt/Agincourt_1415"
                       >亞琴哥特（1415）</nuxt-link
@@ -71,7 +64,6 @@
                       文明：<nuxt-link to="/civs/Britons/">不列顛</nuxt-link>
                     </p>
                   </li>
-
                   <li>
                     <nuxt-link to="/batt/Lepanto_1571"
                       >勒班陀（1571）</nuxt-link
@@ -80,12 +72,10 @@
                       文明：<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
                     </p>
                   </li>
-
                   <li>
                     <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
                     <p>文明：<nuxt-link to="/civs/Japanese">日本</nuxt-link></p>
                   </li>
-
                   <li>
                     <nuxt-link to="/batt/Noryang_Point_1598"
                       >洛陽點（1598）</nuxt-link

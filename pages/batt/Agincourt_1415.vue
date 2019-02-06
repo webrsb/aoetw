@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>亞琴哥特(1415)</strong></h1>
@@ -45,38 +42,26 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p2">玩家1：</div>
-              </td>
+              <td class="tc6"><div class="p2">玩家1：</div></td>
               <td class="tc6" colspan="3">不列顛（紅色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家2：</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家2：</div></td>
               <td class="tc6">法蘭西騎士（藍色）法蘭克</td>
-              <td class="tc6">
-                <div class="p3">玩家3：</div>
-              </td>
+              <td class="tc6"><div class="p3">玩家3：</div></td>
               <td class="tc6">弗萊文特（綠色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p5">玩家4：</div>
-              </td>
+              <td class="tc6"><div class="p5">玩家4：</div></td>
               <td class="tc6">亞眠（藍綠色）法蘭克</td>
-              <td class="tc6">
-                <div class="p4">玩家5：</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家5：</div></td>
               <td class="tc6">維尼（黃色）法蘭克</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p6">玩家8：</div>
-              </td>
+              <td class="tc6"><div class="p6">玩家8：</div></td>
               <td class="tc6">哈夫魯 （紫色）法蘭克</td>
             </tr>
           </table>
@@ -184,7 +169,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -204,7 +189,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>

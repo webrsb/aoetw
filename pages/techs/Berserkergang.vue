@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>狂戰士幫</h1>
@@ -55,7 +52,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            狂戰士，berserk 此字的由來意指「披熊皮者」，由ber"熊" 與 serk "衣衫"
+            狂戰士，berserk 此字的由來意指「披熊皮者」，由ber"熊" 與 serk"衣衫"
             組成。後來意思轉變，成為具有異常力量，在發怒時，可以進入出神的狂暴狀態，可以不著鎧甲就迎向敵人進行戰鬥的勇士。
           </p>
           <p>

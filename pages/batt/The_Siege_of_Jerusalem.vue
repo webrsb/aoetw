@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>耶路撒冷攻城戰</h1>
@@ -31,8 +28,7 @@
           </table>
 
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -40,28 +36,20 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p3">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p3">玩家1</div></td>
               <td class="tc6" colspan="3">薩拉森人（綠色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1" width="12%">玩家2</div>
-              </td>
+              <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">耶路撒冷（藍色）拜占庭</td>
-              <td class="tc6">
-                <div class="p8" width="12%">玩家3</div>
-              </td>
+              <td class="tc6"><div class="p8" width="12%">玩家3</div></td>
               <td class="tc6" width="38%">救傷團（橘色）條頓</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家4</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家4</div></td>
               <td class="tc6">聖殿騎士（黃色）條頓</td>
             </tr>
           </table>
@@ -115,7 +103,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -137,7 +125,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -176,9 +164,6 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

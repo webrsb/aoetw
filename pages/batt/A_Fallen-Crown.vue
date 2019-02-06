@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1><strong>摔落的皇冠</strong></h1>
@@ -23,33 +20,21 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p3">
-                玩家1
-              </div>
-            </td>
+            <td class="tc6"><div class="p3">玩家1</div></td>
             <td class="tc6" colspan="3">衣索比亞（綠色）</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p8">
-                玩家2
-              </div>
-            </td>
+            <td class="tc6"><div class="p8">玩家2</div></td>
             <td class="tc6">達爾金達人(橘色)衣索比亞</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background: #27ae60;">中立</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p4">
-                玩家3
-              </div>
-            </td>
+            <td class="tc6"><div class="p4">玩家3</div></td>
             <td class="tc6">阿羅迪亞商人(黃色)衣索比亞</td>
           </tr>
           <tr>
@@ -57,32 +42,15 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="tc6">
-              <div class="p6">
-                玩家4
-              </div>
-            </td>
+            <td class="tc6"><div class="p6">玩家4</div></td>
             <td class="tc6">阿羅迪亞叛軍(紫色)薩拉森</td>
-            <td class="tc6">
-              <div class="p2">
-                玩家5
-              </div>
-            </td>
+            <td class="tc6"><div class="p2">玩家5</div></td>
             <td class="tc6">達納罕(紅色)衣索比亞</td>
           </tr>
-
           <tr>
-            <td class="tc6">
-              <div class="p5">
-                玩家6
-              </div>
-            </td>
+            <td class="tc6"><div class="p5">玩家6</div></td>
             <td class="tc6">貝根德爾王國(青色)衣索比亞</td>
-            <td class="tc6">
-              <div class="p7">
-                玩家7
-              </div>
-            </td>
+            <td class="tc6"><div class="p7">玩家7</div></td>
             <td class="tc6">東正教憎侶(灰色)衣索比亞</td>
           </tr>
         </table>
@@ -116,15 +84,12 @@
             <li>
               貝根德爾王國(青色)在東邊的一座綠穀中，他是我們敵軍的同盟。他們會拖住我們，好讓達納罕的大軍逢修整備戰。所以最好的辦法是突擊他們，他們的軍隊包括劍兵、弩兵和駱駝騎兵。
             </li>
-
             <li>
               在我們南邊，我們發現達爾金達人(橘色)已經加固了達納罕通往他的帝國的要道。現在幫助他們保戶要道以阻止敵軍進攻是你的首要任務。
             </li>
-
             <li>
               阿羅迪亞帝國內有反叛軍作亂。他與我們並無關係，但是我們最好能做出選擇，是支持帝國還是反叛軍，這樣才能聯合另一方來擴展我們在此地的利益。阿羅迪亞商人(黃色)在西邊建立了一個貿易站，在更北一點阿羅迪亞叛軍(紫色)則建立了他們的軍營。
             </li>
-
             <li>
               達納罕(青色)是強大的阿克蘇姆帝國的國王。他在沿河有幾個前哨，在那裏他聚集軍隊攻擊達爾金達帝國。這花費了他很長一段時間準備軍隊，但是一旦他就緒了就會戰無不勝。他的軍隊裡有大象和僧侶，所以我們的擔心不是沒有理由的。
             </li>
@@ -141,13 +106,13 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Yodit_3.png" width="" alt="" />
+                <img src="~assets/Yodit_3.png" alt="" />
               </div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -173,7 +138,7 @@
           <tr>
             <td class="unit" colspan="2" style=" background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -229,7 +194,6 @@
               </gallery>
               <em>在北邊遺跡處開始玩家的城鎮。</em>
             </div>
-
             <div class="col-md-6">
               <gallery>
                 <img
@@ -243,15 +207,12 @@
               <p><em>轟炸達納罕大軍。</em></p>
             </div>
           </div>
-
           <li>
             如果剛剛的轟炸沒有殺掉達納罕，沒有關係，往西北方向來到達爾金達人的城堡，路上會遇到阿爾迪亞的叛軍，解決他們！在城堡這裡部屬多台重型投石車以及許多的強弩兵，然後靜待達納罕的到來，並直接將它斬落馬下。或是玩家也可主動出擊殺死達納罕。此場景唯一目標就是殺死達納罕，不論建造甚麼部隊只要專注在騎大象的國王身上即可。
           </li>
-
           <li>
             阿爾羅迪亞商人及叛軍在這個場景幾乎沒有作用，幫助商人可以跟他們的市集貿易，幫助叛軍每付給他們300黃金他們便會派出1名帝王駱駝騎兵、2名重裝駱駝騎兵及3名駱駝弓騎兵進攻達納罕的營地，兩個對玩家的利益猶如杯水車薪，可以不用理會。
           </li>
-
           <li>
             有時候會有bug導致達納罕的軍隊困在地圖某處動彈不得。有時達納罕也會想要"獨自走走"而離開大軍到地圖的某個角落。玩家可要費神好好找這位國王了。
           </li>

@@ -1,12 +1,9 @@
 <template>
   <div class="container padtop">
-    <!-- Example row of columns -->
     <h1>文明</h1>
     <h3></h3>
     <div class="row">
-      <div class="col-md-12">
-        <p>遊戲中共有31個文明</p>
-      </div>
+      <div class="col-md-12"><p>遊戲中共有31個文明</p></div>
     </div>
     <div class="row">
       <div class="col-md-3">
@@ -190,8 +187,6 @@
   </div>
 </template>
 <script>
-export default {
-  components: {}
-}
+export default { components: {} }
 </script>
 <style></style>

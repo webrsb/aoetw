@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>眼鏡蛇車</h1>
@@ -19,13 +16,11 @@
             這是一個AC眼鏡蛇，可以在目標上發射子彈。它也可以在場景編輯器中找到。
             眼鏡蛇車的行為非常像快速發射的火槍兵，而不是在戰鬥中使用爆炸性武器，但是，眼鏡蛇車會造成範圍性傷害！
           </p>
-
           <p>
             眼鏡蛇擁有傲人的10攻擊範圍，可以輕鬆虐殺任何其他遊戲中的遠程攻擊者
             ，也可輕鬆擊垮來襲敵軍，就算擁有駐軍人員或英國長弓手的城
             堡可以超出它。儘管如此，由於它的高生命值，裝甲和傷害輸出，眼鏡蛇汽車很容易擊退弓兵的軍隊。
           </p>
-
           <p>
             眼鏡蛇的一個致命弱點是它們可憐的AI，嚴重依賴適當和持續的微處理，
             以便在突襲期間保護它們免受傷害和破壞，而不是來自敵人，而是來自它們
@@ -151,7 +146,6 @@
             <td class="unit4">攻城武器(+50)</td>
             <td></td>
           </tr>
-
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">4.5</td>

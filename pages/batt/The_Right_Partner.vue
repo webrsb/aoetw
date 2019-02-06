@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1><strong>最佳搭檔</strong></h1>
@@ -23,47 +20,33 @@
             </td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p3">玩家1</div>
-            </td>
+            <td class="tc6"><div class="p3">玩家1</div></td>
             <td class="tc6" colspan="3">衣索比亞（綠色）</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p4">玩家2</div>
-            </td>
+            <td class="tc6"><div class="p4">玩家2</div></td>
             <td class="tc6">伊克什德（黃色）薩拉森</td>
-            <td class="tc6">
-              <div class="p6">玩家3</div>
-            </td>
+            <td class="tc6"><div class="p6">玩家3</div></td>
             <td class="tc6">諾帕夏（紫色）衣索比亞</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p2">玩家4</div>
-            </td>
+            <td class="tc6"><div class="p2">玩家4</div></td>
             <td class="tc6">貝賈部落（紅色）衣索比亞</td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p5">玩家5</div>
-            </td>
+            <td class="tc6"><div class="p5">玩家5</div></td>
             <td class="tc6">海盜（青色）薩拉森</td>
-            <td class="tc6">
-              <div class="p8">玩家6</div>
-            </td>
+            <td class="tc6"><div class="p8">玩家6</div></td>
             <td class="tc6">敵對的貝賈部落（橘色）衣索比亞</td>
           </tr>
           <tr>
-            <td class="tc6">
-              <div class="p7">玩家7</div>
-            </td>
+            <td class="tc6"><div class="p7">玩家7</div></td>
             <td class="tc6">入侵者（灰色）薩拉森</td>
           </tr>
         </table>
@@ -135,7 +118,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2"><nuxt-link to="">情景信息</nuxt-link></div>
+              <div class="unititle2">情景信息</div>
             </td>
           </tr>
           <tr>
@@ -161,7 +144,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>

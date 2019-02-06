@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>決戰東都</h1>
@@ -33,8 +30,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -42,18 +38,14 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p4">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p4">玩家1</div></td>
               <td class="tc6" colspan="3">越南人（黃色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p8">玩家2</div>
-              </td>
+              <td class="tc6"><div class="p8">玩家2</div></td>
               <td class="tc6">大越義軍（橘色）越南</td>
             </tr>
             <tr>
@@ -61,13 +53,9 @@
             </tr>
             <tr></tr>
             <tr>
-              <td class="tc6">
-                <div class="p1" width="12%">玩家3</div>
-              </td>
+              <td class="tc6"><div class="p1" width="12%">玩家3</div></td>
               <td class="tc6" width="38%">明軍（藍色）中國</td>
-              <td class="tc6">
-                <div class="p5" width="12%">玩家4</div>
-              </td>
+              <td class="tc6"><div class="p5" width="12%">玩家4</div></td>
               <td class="tc6" width="38%">明軍先鋒（水藍）中國</td>
             </tr>
           </table>
@@ -84,7 +72,6 @@
               <li>攻打明軍陣地之前，最好先擊潰其先鋒。</li>
             </ol>
           </div>
-
           <h2>次要任務</h2>
           <div class="hrn1"></div>
           <ul>
@@ -139,7 +126,6 @@
               </div>
             </td>
           </tr>
-
           <tr>
             <td colspan="2">
               <div class="unititle">
@@ -167,7 +153,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -183,15 +169,12 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4"><nuxt-link to="/">N/A</nuxt-link></td>
+            <td class="unit4">N/A</td>
           </tr>
         </table>
 
         <div class="thanks">感謝！此頁面由亞諭、裕暉協助編輯。</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>

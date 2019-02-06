@@ -1,7 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>歷年比賽結果</h1>
@@ -3712,9 +3710,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/br.png" class="flg" alt="" /></td>
                   <td>dogao, RiuT, Leozim, Rain</td>
                 </tr>
                 <tr>
@@ -3726,9 +3722,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/ca.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/ca.png" class="flg" alt="" /></td>
                   <td>Chris, slam, Blade, Ra</td>
                 </tr>
                 <tr>
@@ -3740,9 +3734,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" /></td>
                   <td>23k, psNps, lang, if, Goodboy</td>
                 </tr>
               </table>
@@ -3763,9 +3755,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" /></td>
                   <td>封心, 櫻花, Yo, james, Abu, NO23</td>
                 </tr>
                 <tr>
@@ -3777,9 +3767,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/br.png" class="flg" alt="" /></td>
                   <td>RiuT, F1Re, St4rk, GoKu</td>
                 </tr>
                 <tr>
@@ -3791,9 +3779,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/ar.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/ar.png" class="flg" alt="" /></td>
                   <td>Nicov, Juan, Gary, PaTiN</td>
                 </tr>
                 <tr>
@@ -3805,9 +3791,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/br.png" class="flg" alt="" /></td>
                   <td>dogao, FeAge, WraTh, Alive</td>
                 </tr>
               </table>
@@ -3828,9 +3812,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" /></td>
                   <td>封心, 櫻花, 小熊, Yo, NO23</td>
                 </tr>
                 <tr>
@@ -3842,9 +3824,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/ca.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/ca.png" class="flg" alt="" /></td>
                   <td>Hera, Chris, slam, mentalist, Ra</td>
                 </tr>
                 <tr>
@@ -3856,9 +3836,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/fi.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" /></td>
                   <td>Zuppi, Pike, Ruben, TheMax</td>
                 </tr>
                 <tr>
@@ -3870,9 +3848,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/vn.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/vn.png" class="flg" alt="" /></td>
                   <td>BacT, Yellow, CooL, ACCM</td>
                 </tr>
               </table>
@@ -3893,9 +3869,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/br.png" class="flg" alt="" /></td>
                   <td>dogao, miguel, St4rk, FeAge</td>
                 </tr>
                 <tr>
@@ -3907,9 +3881,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/fi.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" /></td>
                   <td>Zuppi, TheMax, Villese, Pike, Ruben</td>
                 </tr>
                 <tr>
@@ -3921,9 +3893,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" /></td>
                   <td>Tim, CL, Vivi, Whoop, 雞窩</td>
                 </tr>
                 <tr>
@@ -3935,9 +3905,7 @@
                       aria-hidden="true"
                     ></span>
                   </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
+                  <td><img src="~assets/br.png" class="flg" alt="" /></td>
                   <td>F1Re, RiuT, GoKu, Alive, BruH</td>
                 </tr>
               </table>
@@ -3949,8 +3917,6 @@
   </div>
 </template>
 <script>
-export default {
-  components: {}
-}
+export default { components: {} }
 </script>
 <style></style>

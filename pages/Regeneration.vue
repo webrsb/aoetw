@@ -1,13 +1,10 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1>回血（Regeneration）</h1>
         <div class="hrn1"></div>
       </div>
-
       <div class="col-md-12">
         <div class="n1">
           <p>
@@ -161,8 +158,7 @@
             >
               <div class="unititle">
                 <center>
-                  <nuxt-link to="/units/Vikings">維京</nuxt-link>文明
-                  <br />
+                  <nuxt-link to="/units/Vikings">維京</nuxt-link>文明 <br />
                   ＊研發<nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link
                   >科技→回血量提升
                 </center>
@@ -201,9 +197,7 @@
 
         <h4>&nbsp;</h4>
         <div class="n1">
-          <div class="col-md-12">
-            <div class="col-md-4"></div>
-          </div>
+          <div class="col-md-12"><div class="col-md-4"></div></div>
         </div>
       </div>
       <div class="container">
@@ -215,6 +209,9 @@
   </div>
 </template>
 <script>
-export default { layout: 'foot', components: {} }
+export default {
+  layout: 'foot',
+  components: {}
+}
 </script>
 <style></style>

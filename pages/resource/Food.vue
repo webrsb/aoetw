@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row" style=" margin-top: 50px;">
       <div class="col-md-12">
         <h1 id="UP">食物</h1>
@@ -909,7 +906,6 @@
         </div>
       </div>
     </div>
-
     <h3>參見</h3>
     <div class="hrn1"></div>
     <div class="n1">

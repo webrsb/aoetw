@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container padtop">
-    <!-- Example row of columns -->
     <h1>單位</h1>
     <h3></h3>
     <div class="row">
@@ -92,8 +89,7 @@
                 <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>→
                 <img class="gg" src="~assets/2HandedswordsmanIcon.jpg" alt="" />
                 <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
-                >→
-                <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
+                >→ <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
                 <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               </div>
             </td>

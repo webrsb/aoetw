@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>裝甲衝撞車</h1>
@@ -103,8 +100,7 @@
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >攻擊加成+20%。
-              <br />
+              >攻擊加成+20%。 <br />
               <img
                 class="gg"
                 src="~assets/Unique-tech.jpg"
@@ -143,7 +139,6 @@
               >限定
             </td>
           </tr>
-
           <tr>
             <td class="tta1" style="width:10%">招降抵抗</td>
             <td class="tta4">
@@ -152,8 +147,7 @@
                 src="~assets/Faith.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>
-              <br />
+              /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link> <br />
               <img
                 class="gg"
                 src="~assets/Heresy.png"

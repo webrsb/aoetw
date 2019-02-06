@@ -1,10 +1,7 @@
 <template>
   <div class="container">
-    <!-- Example row of columns -->
-
     <div class="row" style=" margin-top: 50px;">
       <h1>知名玩家</h1>
-
       <div class="spw">
         <em
           ><img
@@ -18,7 +15,6 @@
         >
       </div>
       <div class="hrn1"></div>
-
       <div class="n1">
         <p>本頁面介紹世紀帝國界的知名玩家，單挑團戰後寫的是最高積分</p>
         <p>
@@ -27,7 +23,6 @@
           的縮寫以「地圖D年份」表示
         </p>
       </div>
-
       <div class="row" style="margin-top: 10px;border-top: 1px solid #c7c7c7;">
         <div class="col-md-3">
           <table class="table">
@@ -77,7 +72,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -120,7 +114,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -162,7 +155,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -207,7 +199,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -258,7 +249,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -313,7 +303,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -363,7 +352,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -411,7 +399,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -453,7 +440,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -493,7 +479,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -535,7 +520,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -578,7 +562,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -620,7 +603,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -663,7 +645,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -706,7 +687,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -754,7 +734,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -798,7 +777,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -844,7 +822,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -884,7 +861,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -934,7 +910,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -980,7 +955,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1023,7 +997,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1073,7 +1046,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1115,7 +1087,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1157,7 +1128,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1196,7 +1166,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1240,7 +1209,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1280,7 +1248,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1321,7 +1288,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1360,7 +1326,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1398,7 +1363,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1440,7 +1404,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1483,7 +1446,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1530,7 +1492,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1575,7 +1536,6 @@
             </tr>
           </table>
         </div>
-
         <div class="col-md-3">
           <table class="table">
             <tr>
@@ -1617,7 +1577,6 @@
           </table>
         </div>
       </div>
-
       <div>
         <p></p>
         <p>

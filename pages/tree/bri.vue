@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>不列顛-科技樹</h1>
@@ -23,7 +20,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm dr">
+            <td style=" vertical-align: middle;" class="t5 trm dr">
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t19 trm">
@@ -37,7 +34,7 @@
             <td class="t19 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
@@ -50,7 +47,7 @@
               <div><nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm ">
+            <td class="t19 trm">
               <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
               <div><nuxt-link to="/units/Spearman">長槍兵</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
@@ -67,7 +64,7 @@
             <td class="t19 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t19 trm">
@@ -98,7 +95,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t19 trm">
@@ -106,8 +103,7 @@
               <div>
                 <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i>
-              <br />
+              <i class="fas fa-arrow-down"></i> <br />
               <img class="gg" src="~assets/ChampionIcon.jpg" alt="" />
               <div><nuxt-link to="/units/Champion">劍兵勇士</nuxt-link></div>
             </td>
@@ -141,7 +137,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
@@ -160,7 +156,7 @@
             <td class="t15 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t15 trm">
@@ -203,7 +199,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t15 trm">
@@ -257,7 +253,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
@@ -274,7 +270,7 @@
             <td class="t19 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t19 trm">
@@ -305,7 +301,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t19 trm not">
@@ -326,8 +322,7 @@
               <div>
                 <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i>
-              <br />
+              <i class="fas fa-arrow-down"></i> <br />
               <img class="gg" src="~assets/ImperialCamelIcon.jpg" />
               <div>
                 <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
@@ -359,7 +354,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -403,7 +398,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -416,8 +411,7 @@
               <div>
                 <nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i>
-              <br />
+              <i class="fas fa-arrow-down"></i> <br />
               <img
                 class="gg not"
                 src="~assets/SiegeRamIcon.jpg"
@@ -429,8 +423,7 @@
             <td class="t23 trm">
               <img class="gg" src="~assets/OnagerIcon.jpg" width="30" alt="" />
               <div><nuxt-link to="/units/Onager">中型投石車</nuxt-link></div>
-              <i class="fas fa-arrow-down"></i>
-              <br />
+              <i class="fas fa-arrow-down"></i> <br />
               <img
                 class="gg not"
                 src="~assets/SiegeOnagerIcon.jpg"
@@ -476,7 +469,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t13 trm">
@@ -508,7 +501,7 @@
             <td class="t13 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t13 trm">
@@ -578,7 +571,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm dr">
+            <td style=" vertical-align: middle;" class="t5 trm dr">
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -599,7 +592,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -622,7 +615,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -653,7 +646,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm dr">
+            <td style=" vertical-align: middle;" class="t5 trm dr">
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -665,7 +658,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -678,7 +671,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -691,7 +684,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t23 trm not">
@@ -716,7 +709,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -731,7 +724,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -744,7 +737,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -769,7 +762,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -788,7 +781,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -820,7 +813,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm dr">
+            <td style=" vertical-align: middle;" class="t5 trm dr">
               <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
             </td>
             <td class="t10 trm">
@@ -842,7 +835,7 @@
             <td class="t10 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t10 trm">
@@ -876,7 +869,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
             </td>
             <td class="t10 trm">
@@ -934,7 +927,7 @@
             <td class="t10 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
             <td class="t10 trm">
@@ -978,8 +971,7 @@
               <div>
                 <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i>
-              <br />
+              <i class="fas fa-arrow-down"></i> <br />
               <img class="gg not" src="~assets/CannonGalleonIcon.jpg" />
               <div>
                 <nuxt-link to="/units/Elite_Cannon_Galleon" class="not"
@@ -1020,7 +1012,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
@@ -1039,7 +1031,7 @@
               <div><nuxt-link to="/techs/Forging">鍛造</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm ">
+            <td class="t19 trm">
               <img class="gg" src="~assets/Scalebardingarmor.jpg" alt="" />
               <div>
                 <nuxt-link to="/techs/Scale_Barding_Armor">騎兵鱗甲</nuxt-link>
@@ -1055,7 +1047,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <div>
                 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </div>
@@ -1079,7 +1071,7 @@
               <div><nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
-            <td class="t19 trm ">
+            <td class="t19 trm">
               <img class="gg" src="~assets/Chainbardingarmor.jpg" alt="" />
               <div>
                 <nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link>
@@ -1095,7 +1087,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <div>
                 <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </div>
@@ -1141,7 +1133,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm fe">
+            <td style=" vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t23 trm">
@@ -1157,7 +1149,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <div>
                 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </div>
@@ -1175,7 +1167,7 @@
             <td class="t23 trm"></td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <div>
                 <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </div>
@@ -1205,7 +1197,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <div>
                 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </div>
@@ -1256,7 +1248,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <div>
                 <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </div>
@@ -1310,7 +1302,7 @@
             </td>
           </tr>
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm ca">
+            <td style=" vertical-align: middle;" class="t5 trm ca">
               <div>
                 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </div>
@@ -1354,9 +1346,8 @@
             </td>
             <td class="t11 trm"></td>
           </tr>
-
           <tr>
-            <td style=" vertical-align: middle; " class="t5 trm im">
+            <td style=" vertical-align: middle;" class="t5 trm im">
               <div>
                 <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </div>
@@ -1368,8 +1359,7 @@
             <td class="t11 trm">
               <img class="gg" src="~assets/Chemistry.jpg" alt="" />
               <div><nuxt-link to="/techs/Chemistry">化學</nuxt-link></div>
-              <i class="fas fa-arrow-down"></i>
-              <br />
+              <i class="fas fa-arrow-down"></i> <br />
               <img
                 class="gg not"
                 src="~assets/Bombard-tower-research.jpg"
@@ -1408,9 +1398,7 @@
 import tree from '~/components/alltree'
 export default {
   layout: 'tree',
-  components: {
-    tree
-  }
+  components: { tree }
 }
 </script>
 <style></style>

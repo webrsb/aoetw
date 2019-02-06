@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>藤甲弓兵</h1>
@@ -70,18 +67,15 @@
               <img src="~assets/Fletching.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Fletching"
                 >箭羽</nuxt-link
-              >(+1)
-              <br />
+              >(+1) <br />
               <img src="~assets/Bodkinarrow.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Bodkin_Arrow"
                 >錐狀箭頭</nuxt-link
-              >(+1)
-              <br />
+              >(+1) <br />
               <img src="~assets/Bracer.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Bracer"
                 >護腕</nuxt-link
-              >(+1)
-              <br />
+              >(+1) <br />
               <img src="~assets/Chemistry.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
@@ -94,13 +88,11 @@
               <img src="~assets/Fletching.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Fletching"
                 >箭羽</nuxt-link
-              >(+1)
-              <br />
+              >(+1) <br />
               <img src="~assets/Bodkinarrow.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Bodkin_Arrow"
                 >錐狀箭頭</nuxt-link
-              >(+1)
-              <br />
+              >(+1) <br />
               <img src="~assets/Bracer.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Bracer"
                 >護腕</nuxt-link
@@ -122,8 +114,7 @@
               <img src="~assets/Ballistics.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
-              >(對移動目標命中率上升)
-              <br />
+              >(對移動目標命中率上升) <br />
               <img src="~assets/Thumb_Ring.png" class="gg" alt="" /><nuxt-link
                 to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
@@ -138,15 +129,13 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 src="~assets/Leatherarcherarmor.jpg"
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
-              >(+1/+1)
-              <br />
+              >(+1/+1) <br />
               <img
                 src="~assets/Ringarcherarmor.jpg"
                 class="gg"

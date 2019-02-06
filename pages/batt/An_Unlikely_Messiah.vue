@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>一個不太可能的彌賽亞</h1>
@@ -39,8 +36,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -48,9 +44,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家1</div></td>
               <td class="tc6" colspan="3">法蘭克人（藍色）</td>
             </tr>
             <tr>
@@ -58,98 +52,56 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p8">玩家4</div></td>
-              <td class="tc6" width="38% ">齊儂（橘色）法蘭克</td>
-              <td class="tc6" width="12%">
-                <div class="p4">玩家5</div>
-              </td>
-              <td
-                class="tc6"
-                width="38%
-                "
-              >
-                法國的軍隊（黃色）法蘭克
-              </td>
+              <td class="tc6" width="38%">齊儂（橘色）法蘭克</td>
+              <td class="tc6" width="12%"><div class="p4">玩家5</div></td>
+              <td class="tc6" width="38%">法國的軍隊（黃色）法蘭克</td>
             </tr>
             <tr>
-              <td
-                class="tc4 "
-                colspan="4 "
-                style="background:#ea6153;
-                "
-              >
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p6">玩家2</div></td>
-              <td
-                class="tc6
-                "
-              >
-                勃根地（紫色）法蘭克
-              </td>
+              <td class="tc6">勃根地（紫色）法蘭克</td>
               <td class="tc6"><div class="p3">玩家3</div></td>
-              <td
-                class="tc6
-                "
-              >
-                強盜（綠色）法蘭克
-              </td>
+              <td class="tc6">強盜（綠色）法蘭克</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家6</div></td>
-              <td
-                class="tc6
-                "
-              >
-                英國（紅色）不列顛
-              </td>
+              <td class="tc6">英國（紅色）不列顛</td>
             </tr>
           </table>
 
           <br />
-          <dl class="dl-horizontal ">
+          <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
               <img
-                class="gg "
+                class="gg"
                 src="~assets/Joanthemaidicon.png"
                 alt=""
-              /><nuxt-link to="/units/hero/Joan_the_Maid ">農家女貞德</nuxt-link
+              /><nuxt-link to="/units/hero/Joan_the_Maid">農家女貞德</nuxt-link
               ><br />
               <img
-                class="gg
-                "
+                class="gg"
                 src="~assets/Sieurbertrand.png"
                 alt=""
-              /><nuxt-link
-                to="/units/hero/Sieur_Bertrand
-                "
-                >貝查德爵士</nuxt-link
+              /><nuxt-link to="/units/hero/Sieur_Bertrand">貝查德爵士</nuxt-link
               ><br />
-              <img class="gg " src="~assets/Sieurdemetz.png" alt="" /><nuxt-link
-                to="/units/hero/Sieur_de_Metz
-                "
+              <img class="gg" src="~assets/Sieurdemetz.png" alt="" /><nuxt-link
+                to="/units/hero/Sieur_de_Metz"
                 >梅茲爵士</nuxt-link
               >
             </dd>
             <dt>大地之母單位：</dt>
             <dd>
-              <img class="gg " src="~assets/TransportShipIcon.jpg" alt="" />
-              <nuxt-link
-                to="/units/Transport_Ship
-                "
-                >運輸船*3</nuxt-link
-              >
+              <img class="gg" src="~assets/TransportShipIcon.jpg" alt="" />
+              <nuxt-link to="/units/Transport_Ship">運輸船*3</nuxt-link>
             </dd>
           </dl>
           <h3>主要任務</h3>
           <div class="hrn1"></div>
-          <div
-            class="n1
-                "
-          >
+          <div class="n1">
             <ol>
               <li>護衛貞德從法考勞爾的軍營到齊儂去。</li>
               <li>一定要確保貞德的性命安全。</li>
@@ -158,10 +110,7 @@
         </div>
         <h3>任務提示</h3>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>法國的死對頭是英國人與勃艮地人。一定要多加小心他們的軍力。</li>
             <li>
@@ -174,10 +123,7 @@
             </li>
           </ul>
           <h3>芝麻小事</h3>
-          <div
-            class="hrn1
-                "
-          ></div>
+          <div class="hrn1"></div>
           <ul>
             <li>
               雖然英國人是玩家的敵人，但外交標籤顯示他們與玩家結盟。這就解釋了為什麼他們在英法2軍交戰場景時的情況下不會攻擊玩家。
@@ -198,18 +144,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/An_Unlikely_Messiah"
                   >一個不太可能的彌賽亞</nuxt-link
@@ -220,27 +157,14 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/Joan1map.png"
-                  width="
-                "
-                  alt=""
-                />
+                <img src="~assets/Joan1map.png" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td
-              class="unit
-                "
-              colspan="2"
-              style="background-color:#375d96; "
-            >
-              <div
-                class="unititle2
-                "
-              >
-                <nuxt-link to="/">情景信息</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
@@ -264,8 +188,8 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2 ">
-                <nuxt-link to="/">戰役關卡編號</nuxt-link>
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -287,12 +211,6 @@
 
         <div class="thanks">感謝！此頁面由裕暉、亞諭協助編輯。</div>
       </div>
-    </div>
-    <div class="row ">
-      <div
-        class="col-md-12
-                "
-      ></div>
     </div>
   </div>
 </template>

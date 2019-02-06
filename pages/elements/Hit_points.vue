@@ -1,17 +1,12 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>血量</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-12">
-        <div class="n1">
-          <p>血量(或簡稱HP)，是遊戲內相當重要的數據。</p>
-        </div>
+        <div class="n1"><p>血量(或簡稱HP)，是遊戲內相當重要的數據。</p></div>
         <h3>概要</h3>
         <div class="hrn1"></div>
         <div class="n1">

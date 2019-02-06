@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>猛獅亨利</h1>
@@ -29,8 +26,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -38,9 +34,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p2">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p2">玩家1</div></td>
               <td class="tc6" colspan="3">條頓人（紅色）</td>
             </tr>
             <tr>
@@ -48,25 +42,16 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
-              <td class="tc6" width="38% ">巴伐利亞（綠色）條頓</td>
-              <td class="tc6" width="12%">
-                <div class="p4">玩家4</div>
-              </td>
+              <td class="tc6" width="38%">巴伐利亞（綠色）條頓</td>
+              <td class="tc6" width="12%"><div class="p4">玩家4</div></td>
               <td class="tc6" width="38%">薩克森（黃色）條頓</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p8">玩家5</div></td>
-              <td class="tc6" width="38% ">猛獅亨利（橘色）條頓</td>
+              <td class="tc6" width="38%">猛獅亨利（橘色）條頓</td>
             </tr>
             <tr>
-              <td
-                class="tc4
-                "
-                colspan="4 "
-                style="background:#ea6153; "
-              >
-                敵對
-              </td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
@@ -92,10 +77,7 @@
         </div>
         <h2>任務提示</h2>
         <div class="hrn1"></div>
-        <div
-          class="n1
-                "
-        >
+        <div class="n1">
           <ul>
             <li>
               巴代利亞和薩克森這兩個日耳曼國家，要「供養」
@@ -125,18 +107,9 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table
-          class="table-bordered "
-          width="100%
-                "
-        >
+        <table class="table-bordered" width="100%">
           <tr>
-            <td
-              class="unit"
-              colspan="2"
-              style="background-color:#375d96;
-                "
-            >
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
                 <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>
               </div>
@@ -144,15 +117,13 @@
           </tr>
           <tr>
             <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/BRA_2.jpg" alt="" />
-              </div>
+              <div class="unititle"><img src="~assets/BRA_2.jpg" alt="" /></div>
             </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2 ">
-                <nuxt-link to="/">情景信息</nuxt-link>
+              <div class="unititle2">
+                情景信息
               </div>
             </td>
           </tr>
@@ -175,9 +146,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
-              <div class="unititle2 ">
-                <nuxt-link to="/">戰役關卡編號</nuxt-link>
+            <td class="unit" colspan="2" style="background-color:#375d96;">
+              <div class="unititle2">
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -194,27 +165,24 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Pope_and_Antipope "
-                >教皇與僭稱教皇</nuxt-link
-              >
+              <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link>
             </td>
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由裕暉、竺叡協助編輯。</div>
+        <div class="thanks">感謝！此頁面由裕暉、竺叡協助編輯。</div>
         <p></p>
-        <div class="wiki " style="margin-top: 5px; ">
-          <div style="float: left; ">
-            <img src="~assets/Wikipedia-logo.png" width="50 " height="46 " />
+        <div class="wiki" style="margin-top: 5px;">
+          <div style="float: left;">
+            <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
             維基百科上獅子亨利資訊
-            <div style="margin-left: 10px; ">
+            <div style="margin-left: 10px;">
               <em
                 ><strong
                   ><a
-                    href="https://zh.wikipedia.org/wiki/%E7%8B%AE%E5%AD%90%E4%BA%A8%E5%88%A9
-                "
+                    href="https://zh.wikipedia.org/wiki/%E7%8B%AE%E5%AD%90%E4%BA%A8%E5%88%A9"
                     >獅子亨利</a
                   ></strong
                 ></em

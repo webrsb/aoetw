@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
         <h1>羅馬軍團隨時殺到</h1>
@@ -32,8 +29,7 @@
 
           <p></p>
           <h3>AI</h3>
-          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color:
-            #ff911d; margin-left: 5px;"></span>:中立</p>!-->
+          <!--<span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc4" colspan="4" style="background: #2980b9;">
@@ -41,9 +37,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家1</div></td>
               <td class="tc6" colspan="3">哥德人（藍色）</td>
             </tr>
             <tr>
@@ -51,7 +45,7 @@
             </tr>
             <tr>
               <td class="tc6" width="10%"><div class="p3">玩家3</div></td>
-              <td class="tc6" width="38% ">阿陶爾夫的部隊（綠色）哥德</td>
+              <td class="tc6" width="38%">阿陶爾夫的部隊（綠色）哥德</td>
               <td class="tc6" width="10%">
                 <div class="p7" width="10%">玩家5</div>
               </td>
@@ -62,7 +56,7 @@
               <td class="tc6">哥德人（紫色）哥德</td>
             </tr>
             <tr>
-              <td class="tc4" colspan="4 " style="background:#ea6153;">敵對</td>
+              <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr></tr>
             <tr>
@@ -82,7 +76,6 @@
             <dt>大地之母單位：</dt>
             <dd>無</dd>
           </dl>
-
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -98,7 +91,6 @@
                   </li>
                 </ul>
               </li>
-
               <li>第二章：霍諾留斯的軍團</li>
               <ul>
                 <li>
@@ -110,10 +102,9 @@
             </ol>
           </div>
         </div>
-
         <h2>任務提示</h2>
         <div class="hrn1"></div>
-        <div class="n1 ">
+        <div class="n1">
           <ul>
             <li>你的斥侯受了傷，要讓他活著就要盡量避開戰鬥。</li>
             <li>北邊的橋是咽喉要道，那裡一夫當關萬夫莫開。</li>
@@ -121,7 +112,6 @@
             <li>阿拉里克無發升級至帝王時代。</li>
           </ul>
         </div>
-
         <h2>斥侯</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -133,7 +123,6 @@
               作為阿拉里克的左膀右臂，阿陶爾夫(綠色)在東邊搭建他了營地，必要的時候可以協助你你的敵人是那些遍佈地圖的羅馬軍團（紅色和黃色）。
             </li>
           </ul>
-
           <h2>戰術</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -174,7 +163,7 @@
         </div>
       </div>
       <div class="col-md-4">
-        <table class="table-bordered " width="100%">
+        <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">
@@ -187,14 +176,14 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Alaric_2.jpg" width="" alt="" />
+                <img src="~assets/Alaric_2.jpg" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/">情景信息</nuxt-link>
+                情景信息
               </div>
             </td>
           </tr>
@@ -217,9 +206,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#375d96; ">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                <nuxt-link to="/">戰役關卡編號</nuxt-link>
+                戰役關卡編號
               </div>
             </td>
           </tr>
@@ -243,11 +232,11 @@
           </tr>
         </table>
 
-        <div class="thanks ">感謝！此頁面由裕暉、Dennis協助編輯。</div>
+        <div class="thanks">感謝！此頁面由裕暉、Dennis協助編輯。</div>
         <div class="row">
-          <div class="wiki " style="margin-top: 5px; ">
-            <div style="float: left; ">
-              <img src="~assets/Wikipedia-logo.png" width="50 " height="46" />
+          <div class="wiki" style="margin-top: 5px;">
+            <div style="float: left;">
+              <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
             </div>
             <div style="margin-left: 60px;">
               維基百科上的弗拉維烏斯·奧古斯都·霍諾留

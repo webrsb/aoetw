@@ -1,6 +1,5 @@
 <template>
   <div class="container padtop">
-    <!-- Example row of columns -->
     <h1>特殊科技</h1>
     <h3></h3>
     <div class="row">
@@ -918,9 +917,6 @@
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12"></div>
     </div>
   </div>
 </template>
