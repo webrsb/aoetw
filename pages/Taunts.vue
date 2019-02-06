@@ -953,7 +953,7 @@ export default {
   computed: {
     STATIC_PATH() {
       let base = this.$router.options.base
-      return base.charAt(base.length - 1) === '/'? base: base+'/'
+      return base.charAt(base.length - 1) === '/' ? base : base + '/'
     }
   },
   components: {}
