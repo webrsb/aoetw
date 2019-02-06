@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="row" style=" margin-top: 50px;">
+    <div class="row" style="margin-top: 50px;">
       <h1>知名玩家</h1>
       <div class="spw">
         <em

@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="row" style=" margin-top: 50px;">
+    <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
         <h1>回血（Regeneration）</h1>
         <div class="hrn1"></div>
@@ -201,7 +201,7 @@
         </div>
       </div>
       <div class="container">
-        <div class="row" style=" margin-top:20px">
+        <div class="row" style="margin-top:20px">
           <div class="col-md-12"></div>
         </div>
       </div>

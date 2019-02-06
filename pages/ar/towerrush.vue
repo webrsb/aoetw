@@ -28,7 +28,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候可以打塔攻</strong
           >
@@ -44,7 +44,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候不要打塔攻</strong
           >
@@ -56,7 +56,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >插塔的地點</strong
           >

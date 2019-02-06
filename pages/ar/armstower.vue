@@ -36,7 +36,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候該打裝甲塔</strong
           >
@@ -56,7 +56,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候不該打裝甲塔</strong
           >
@@ -70,7 +70,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >裝甲塔第一隻塔蓋哪裡</strong
           >

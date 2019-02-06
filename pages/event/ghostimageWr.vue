@@ -38,7 +38,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         中間哪隻是惡魔的招喚嗎
       </div>
     </div>
@@ -51,7 +51,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         世紀帝國原來是一款賽車遊戲，話說火砲也有輪子，我們的火砲呢。
       </div>
     </div>
@@ -64,7 +64,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         民兵喝了，木棒上面會不會長刺出來?
       </div>
     </div>
@@ -77,7 +77,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         欠錢不還的女人該如何處置，有沒有出資料片?有資料片我一定買。
       </div>
     </div>
@@ -90,7 +90,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         真心覺得這比賽根本是想藉口送獎品，是不是
       </div>
     </div>
@@ -103,7 +103,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         選擇藍色那個，會先扣1500黃金嗎?綠色那個兵力太多，不符史實，要不然你就第一名了。
       </div>
     </div>
@@ -116,7 +116,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         轉轉轉轉~轉個屁阿
       </div>
     </div>
@@ -129,7 +129,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         媽的
         啥時世紀帝國變成這麼噁心的戀愛養成遊戲了，不過這女的，我可以。不但可以陪你到齊農，你願意和我一起去韓總的愛情摩天輪嗎?
       </div>
@@ -143,7 +143,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         幹 這也可以，為什麼日本人看起來特別卑鄙
       </div>
     </div>
@@ -156,7 +156,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         原來是一款滅火遊戲阿
       </div>
     </div>
@@ -169,7 +169,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         所以左邊是昏君還是右邊
       </div>
     </div>
@@ -182,7 +182,7 @@
           style="max-width: 100%;、 height: auto; display: block;"
         />
       </p>
-      <div style=" font-size: 18px; color: #dc3545; font-weight: bold;">
+      <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
         幹，這不是我們的範例圖嗎，你盜了盜圖的圖
       </div>
     </div>

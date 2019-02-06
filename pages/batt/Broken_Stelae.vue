@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="row" style=" margin-top: 50px;">
+    <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
         <h1><strong>毀壞的石碑</strong></h1>
         <div class="hrn1"></div>
@@ -94,7 +94,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle">毀壞的石碑</div>
             </td>
           </tr>
@@ -106,7 +106,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">情景信息</div>
             </td>
           </tr>
@@ -131,7 +131,7 @@
             <td class="unit4"><font color="">黃色</font></td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style=" background-color:#375d96;">
+            <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
                 戰役關卡編號
               </div>

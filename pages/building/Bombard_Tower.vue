@@ -112,7 +112,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style=" margin-left: 2px;"
+                  ><span class="" style="margin-left: 2px;"
                     >不可研發</span
                   ></strong
                 >

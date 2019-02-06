@@ -4,7 +4,7 @@
       <p class="tt2">Aoetw</p>
       <span class="tt">完整、準確的世紀帝國百科全書 </span>
     </div>
-    <div class="container" style=" margin-bottom: 30px;">
+    <div class="container" style="margin-bottom: 30px;">
       <div class="row">
         <div class="col-md-12">
           <div class="col-md-12">

@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="row" style=" margin-top: 20px;">
+    <div class="row" style="margin-top: 20px;">
       <div class="col-md-12">
         <h1>語音快捷鍵（嘲諷）</h1>
         <div class="row">
@@ -952,7 +952,8 @@ export default {
   layout: '',
   computed: {
     STATIC_PATH() {
-      return this.$router.options.base
+      let base = this.$router.options.base
+      return base.charAt(base.length - 1) === '/'? base: base+'/'
     }
   },
   components: {}

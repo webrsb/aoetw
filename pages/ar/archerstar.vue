@@ -34,7 +34,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候該打小弓開局</strong
           >

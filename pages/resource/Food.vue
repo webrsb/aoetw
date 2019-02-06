@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="row" style=" margin-top: 50px;">
+    <div class="row" style="margin-top: 50px;">
       <div class="col-md-12">
         <h1 id="UP">食物</h1>
         <div class="hrn1"></div>

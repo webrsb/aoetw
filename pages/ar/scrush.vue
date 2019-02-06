@@ -28,7 +28,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >什麼時候該打肉馬開局</strong
           >
@@ -39,7 +39,7 @@
             ><span
               class="glyphicon glyphicon-plus"
               aria-hidden="true"
-              style=" color: #3c763d; margin-right: 5px;"
+              style="color: #3c763d; margin-right: 5px;"
             ></span
             >對方出很多槍兵防守呢?</strong
           >
