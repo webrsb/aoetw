@@ -14,7 +14,7 @@
         </p>
       </div>
       <div class="col-md-2">
-        <img src="~assets/Gold_aoe2.png" alt="" />
+        <img src="~assets/Wood_aoe2.png" alt="" />
       </div>
       <div class="col-md-12">
         <h3>採集</h3>
@@ -90,7 +90,7 @@
         <div class="n1">
           <ul>
             <li><nuxt-link to="/resource/Food">食物</nuxt-link></li>
-            <li><nuxt-link to="/resource/Wood">木材</nuxt-link></li>
+            <li><nuxt-link to="/resource/Stone">石礦</nuxt-link></li>
             <li><nuxt-link to="/resource/Gold">黃金</nuxt-link></li>
           </ul>
         </div>

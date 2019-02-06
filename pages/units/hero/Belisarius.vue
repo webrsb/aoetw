@@ -5,7 +5,7 @@
     <!-- Example row of columns -->
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>薩瓦蘭重騎兵</h1>
+        <h1>薩瓦蘭重騎兵(貝利沙魯實)</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">

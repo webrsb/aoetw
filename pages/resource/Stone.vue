@@ -14,7 +14,7 @@
         </p>
       </div>
       <div class="col-md-2">
-        <img src="~assets/Gold_aoe2.png" alt="" />
+        <img src="~assets/Stone_aoe2.png" alt="" />
       </div>
       <div class="col-md-12">
         <h3>採集</h3>

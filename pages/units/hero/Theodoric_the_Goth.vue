@@ -43,7 +43,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/HussarIcon.jpg" width="80" alt="" />
+                <img src="~assets/Theodericthegothicon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

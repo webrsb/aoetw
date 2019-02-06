@@ -658,7 +658,6 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <div class="unititle2">數據</div>
             <td class="unit4">
               +200對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
               <br />+40對<nuxt-link to="/armor/Armor_Class_stone_defense"
