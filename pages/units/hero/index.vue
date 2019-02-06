@@ -1442,7 +1442,7 @@
                         <td class="tunitc4">馬騎弓兵</td>
                         <td class="tunitc6">特殊</td>
                         <td class="tunitc6">
-                          <nuxt-link to="/A_Fallen-Crown.php"
+                          <nuxt-link to="/batt/A_Fallen-Crown"
                             >摔落的皇冠</nuxt-link
                           >
                         </td>
@@ -1472,7 +1472,9 @@
                         <td class="tunitc4">步兵</td>
                         <td class="tunitc6">特殊</td>
                         <td class="tunitc6">
-                          <nuxt-link to="/Welcome_Home.php">重回故里</nuxt-link>
+                          <nuxt-link to="/batt/Welcome_Home"
+                            >重回故里</nuxt-link
+                          >
                         </td>
                       </tr>
                       <tr>

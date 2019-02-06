@@ -158,7 +158,7 @@
 </template>
 <script>
 export default {
-  layout: 'allen',
+  layout: 'allar',
   components: {}
 }
 </script>

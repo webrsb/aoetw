@@ -54,12 +54,12 @@
                   <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/A_Fallen-Crown.php">摔落的皇冠</nuxt-link>
+                  <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/Broken_Stelae.php">毀壞的石碑</nuxt-link>
+                  <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>
                 </li>
-                <li><nuxt-link to="/Welcome_Home.php">重回故里</nuxt-link></li>
+                <li><nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link></li>
               </ol>
             </div>
             <div class="col-md-6">

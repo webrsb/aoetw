@@ -50,7 +50,7 @@
           </p>
           <h3>特殊科技</h3>
           <p>
-            <img class="gg" src="~assets/CastleAgeUnique.png" />:<nuxt-link
+            <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
               to="/techs/Yeomen"
               >義勇騎兵</nuxt-link
             >:步行弓兵射程+1，箭塔攻擊+2
@@ -112,7 +112,7 @@
             </li>
             <li>
               新的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >特殊科技<nuxt-link to="">戰狼</nuxt-link>。
+              >特殊科技:<nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>。
             </li>
           </ul>
         </div>
@@ -139,34 +139,53 @@
         </div>
       </div>
       <div class="col-md-4">
-        <civbox>
-          <template slot="name"
-            >不列顛</template
-          >
-          <template slot="image"
-            ><img src="~assets/Richard_coeur_de_lion.jpg"
-          /></template>
-          <template slot="caption"
-            >獅心王理查一世</template
-          >
-          <template slot="arch"
-            >西歐</template
-          >
-          <template slot="continent"
-            >弓兵</template
-          >
-          <template slot="focus"
-            ><img class="gg" src="~assets/LongbowmanIcon.jpg" />長弓兵</template
-          >
-          <template slot="strategy"
-            >封建弓兵</template
-          >
-          <template slot="tech">
-            <img class="gg" src="~assets/CastleAgeUnique.png" />義勇騎兵
-            <br />
-            <img class="gg" src="~assets/Unique-tech.jpg" />戰狼
-          </template>
-        </civbox>
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+              <div class="unititle2">不列顛</div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <div class="unititle">
+                <img src="~assets/Richard_coeur_de_lion.jpg" alt="" />
+                <p><em>獅心王理查一世</em></p>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style=" background-color:#e6992c;">
+              <div class="unititle2">概要</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">建築風格</td>
+            <td class="unit4">西歐</td>
+          </tr>
+          <tr>
+            <td class="unit3">分類文明</td>
+            <td class="unit4">弓兵</td>
+          </tr>
+          <tr>
+            <td class="unit3">特殊單位</td>
+            <td class="unit4">
+              <img class="gg" src="~assets/LongbowmanIcon.jpg" />長弓兵
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">首選戰略</td>
+            <td class="unit4">封建弓兵</td>
+          </tr>
+          <tr>
+            <td class="unit3">特殊技術</td>
+            <td class="unit4">
+              <img class="gg" src="~assets/CastleAgeUnique.png" />義勇騎兵
+              <br />
+              <img class="gg" src="~assets/Unique-tech.jpg" />戰狼
+            </td>
+          </tr>
+        </table>
+
         <div class="thanks">感謝! 此頁面由熊協助編輯</div>
       </div>
     </div>

@@ -262,10 +262,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>

@@ -3,7 +3,7 @@
     <div @click="showModal" class="gallery">
       <slot></slot>
     </div>
-    <b-modal ref="myModalRef" size="lg" hide-footer centered title="相片圖庫">
+    <b-modal ref="myModalRef" size="lg" class="bigModel" hide-footer centered title="相片圖庫">
       <div ref="gallery" class="bigimg"><slot></slot></div>
       <div slot="modal-footer"></div>
     </b-modal>
@@ -33,5 +33,11 @@ export default {
   .bigimg>img{
     width: auto;
     min-width: 300px;
+  }
+  
+  @media (min-width: 992px) {
+    .bigModel .modal-lg {
+      max-width: 1024px;
+    }
   }
 </style>

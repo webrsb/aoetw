@@ -14,14 +14,22 @@
         <b-nav-item to="/units">單位</b-nav-item>
         <b-nav-item to="/techs">科技</b-nav-item>
         <b-nav-item to="/building">建築</b-nav-item>
-        <b-nav-item to="/armor">護甲分類</b-nav-item>
         <b-nav-item to="/batt">戰役</b-nav-item>
         <b-nav-item to="/ar">戰術技巧</b-nav-item>
+        <b-nav-item-dropdown text="遊戲元素">
+          <b-dropdown-item to="/armor">護甲分類</b-dropdown-item>
+          <b-dropdown-item to="/Regeneration">回血</b-dropdown-item>
+          <b-dropdown-item to="/Garrison">駐軍</b-dropdown-item>
+          <b-dropdown-item to="/elements/Hit_points">血量</b-dropdown-item>
+          <b-dropdown-item to="/elements/Attack">攻擊</b-dropdown-item>
+          <b-dropdown-item to="/elements/Rate_of_Fire">射速</b-dropdown-item>
+          <b-dropdown-item to="/elements/Frame_delay">開火間隔</b-dropdown-item>
+          <b-dropdown-item to="/elements/Area_of_Effect">擴散範圍</b-dropdown-item>
+        </b-nav-item-dropdown>
         <b-nav-item to="/qa">常見問題</b-nav-item>
         <b-nav-item to="/talk">討論區</b-nav-item>
         <b-nav-item to="">記錄檔區</b-nav-item>
         <b-nav-item to="/tree/vie">科技樹</b-nav-item>
-        <b-nav-item to="/maps">地圖</b-nav-item>
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">
         <b-nav-form>
@@ -145,13 +153,13 @@ export default {
   border: 0;
   border-top: 1px solid #b3b1b1;
 }
-li {
-  display: flex;
-  align-items: center;
-}
 @media (min-width: 768px){
   .navbar-expand-md {
       max-height: 86px;
+  }
+  li {
+    display: flex;
+    align-items: center;
   }
 }
 </style>

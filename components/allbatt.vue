@@ -288,22 +288,22 @@
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>。
-              <nuxt-link to="/Lion_of_Africa.php">非洲雄獅</nuxt-link>。
+              <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>。
               <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>。
-              <nuxt-link to="/Estado_da_India.php">葡屬印度</nuxt-link>。
-              <nuxt-link to="/A_Sons_Blood.php">兒子的血仇</nuxt-link>
+              <nuxt-link to="/batt/Estado_da_India">葡屬印度</nuxt-link>。
+              <nuxt-link to="/batt/A_Sons_Blood.vue">兒子的血仇</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Yodita">遊娣特</nuxt-link>
+              <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/Path_of_Exile">流亡之路</nuxt-link>。
               <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>。
-              <nuxt-link to="/A_Fallen-Crown.php">摔落的皇冠</nuxt-link>。
-              <nuxt-link to="/Broken_Stelae.php">毀壞的石碑</nuxt-link>。
-              <nuxt-link to="/Welcome_Home.php">重回故里</nuxt-link>
+              <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>。
+              <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>。
+              <nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </td>
           </tr>
           <tr>
