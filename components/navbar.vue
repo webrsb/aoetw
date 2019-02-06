@@ -25,10 +25,18 @@
           <b-dropdown-item to="/elements/Rate_of_Fire">射速</b-dropdown-item>
           <b-dropdown-item to="/elements/Frame_delay">開火間隔</b-dropdown-item>
           <b-dropdown-item to="/elements/Area_of_Effect">擴散範圍</b-dropdown-item>
+          <b-dropdown-item to="/Taunts">嘲諷語音</b-dropdown-item>
+        </b-nav-item-dropdown>
+        <b-nav-item-dropdown text="資訊">
+          <b-dropdown-item to="/top">世界知名玩家</b-dropdown-item>
+          <b-dropdown-item to="/fotw">台港知名玩家</b-dropdown-item>
+          <b-dropdown-item to="/history">歷屆大賽結果</b-dropdown-item>
+          <b-dropdown-item to="/news/ver5-7">5.7改版內容</b-dropdown-item>
+          <b-dropdown-item to="/news/ver5-8">5.8改版內容</b-dropdown-item>
         </b-nav-item-dropdown>
         <b-nav-item to="/qa">常見問題</b-nav-item>
         <b-nav-item to="/talk">討論區</b-nav-item>
-        <b-nav-item to="">記錄檔區</b-nav-item>
+        <b-nav-item href="/save/">記錄檔區</b-nav-item>
         <b-nav-item to="/tree/vie">科技樹</b-nav-item>
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">

@@ -21,7 +21,10 @@
             已有758篇條目
           </div>
           <div class="row">
-            <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
+            <div
+              class="col-sm-4 col-md-3 col-xs-6 ititle"
+              style="text-align: center;"
+            >
               <h3><nuxt-link to="/civs">文明</nuxt-link></h3>
               <nuxt-link to="/civs"
                 ><img
@@ -31,7 +34,10 @@
                   class="img-circle"
               /></nuxt-link>
             </div>
-            <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
+            <div
+              class="col-sm-4 col-md-3 col-xs-6 ititle"
+              style="text-align: center;"
+            >
               <h3><nuxt-link to="/units">單位</nuxt-link></h3>
               <nuxt-link to="/units"
                 ><img
@@ -41,7 +47,10 @@
                   class="img-circle"
               /></nuxt-link>
             </div>
-            <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
+            <div
+              class="col-sm-4 col-md-3 col-xs-6 ititle"
+              style="text-align: center;"
+            >
               <h3><nuxt-link to="/techs">科技</nuxt-link></h3>
               <nuxt-link to="/techs"
                 ><img
@@ -51,7 +60,10 @@
                   class="img-circle"
               /></nuxt-link>
             </div>
-            <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
+            <div
+              class="col-sm-4 col-md-3 col-xs-6 ititle"
+              style="text-align: center;"
+            >
               <h3><nuxt-link to="/bulding">建築</nuxt-link></h3>
               <nuxt-link to="/bulding"
                 ><img
@@ -61,7 +73,10 @@
                   class="img-circle"
               /></nuxt-link>
             </div>
-            <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
+            <div
+              class="col-sm-4 col-md-3 col-xs-6 ititle"
+              style="text-align: center;"
+            >
               <h3><nuxt-link to="/batt">戰役</nuxt-link></h3>
               <nuxt-link to="/batt"
                 ><img
@@ -71,7 +86,10 @@
                   class="img-circle"
               /></nuxt-link>
             </div>
-            <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
+            <div
+              class="col-sm-4 col-md-3 col-xs-6 ititle"
+              style="text-align: center;"
+            >
               <h3><nuxt-link to="/ar">戰術技巧</nuxt-link></h3>
               <nuxt-link to="/ar"
                 ><img
@@ -81,7 +99,10 @@
                   class="img-circle"
               /></nuxt-link>
             </div>
-            <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
+            <div
+              class="col-sm-4 col-md-3 col-xs-6 ititle"
+              style="text-align: center;"
+            >
               <h3><nuxt-link to="/talk">討論區</nuxt-link></h3>
               <nuxt-link to="/talk"
                 ><img
@@ -91,7 +112,10 @@
                   class="img-circle"
               /></nuxt-link>
             </div>
-            <div class="col-md-3 col-xs-6 ititle" style="text-align: center;">
+            <div
+              class="col-sm-4 col-md-3 col-xs-6 ititle"
+              style="text-align: center;"
+            >
               <h3><nuxt-link to="/hkbb">工作人員</nuxt-link></h3>
               <nuxt-link to="/hkbb"
                 ><img
@@ -127,7 +151,7 @@
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>每周精選</strong></h4>
             <ul>
-              <li><nuxt-link to="/Taunts.php">嘲諷語音</nuxt-link></li>
+              <li><nuxt-link to="/Taunts">嘲諷語音</nuxt-link></li>
               <li><nuxt-link to="/Regeneration">回血</nuxt-link></li>
               <li><nuxt-link to="/Garrison">駐軍</nuxt-link></li>
               <li><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link></li>
@@ -286,8 +310,16 @@ export default {
   font-weight: bold;
   margin-right: 530px;
 }
+
 .tt {
   font-size: 45px;
   font-weight: bold;
+}
+
+@media (max-width: 576px) {
+  .ititle {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
 }
 </style>
