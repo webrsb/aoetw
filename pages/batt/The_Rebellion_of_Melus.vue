@@ -44,9 +44,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tc6">
-                <div class="p1">玩家1</div>
-              </td>
+              <td class="tc6"><div class="p1">玩家1</div></td>
               <td class="tc6" colspan="3">拜占庭（藍色）</td>
             </tr>
             <tr>
@@ -259,7 +257,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link href="/batt/Arrival_at_Bari">抵達巴里</nuxt-link>
+              <nuxt-link to="/batt/Arrival_at_Bari">抵達巴里</nuxt-link>
             </td>
           </tr>
           <tr>
