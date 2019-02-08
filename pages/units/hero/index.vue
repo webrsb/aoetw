@@ -1378,13 +1378,13 @@
                       <br /><nuxt-link to="/batt/The_Return_of_the_Dragon"
                         >龍之歸來</nuxt-link
                       >
-                      <br /><nuxt-link to="/batt/The_ Breath_of_the_Dragon"
+                      <br /><nuxt-link to="/batt/The_Breath_of_the_Dragon"
                         >龍之喘息</nuxt-link
                       >
-                      <br /><nuxt-link to="/The_Moon_Rises.php"
+                      <br /><nuxt-link to="/batt/The_Moon_Rises"
                         >撥雲見月</nuxt-link
                       >
-                      <br /><nuxt-link to="/The_Night_Falls.php"
+                      <br /><nuxt-link to="/batt/The_Night_Falls"
                         >暗夜降臨</nuxt-link
                       >
                     </td>

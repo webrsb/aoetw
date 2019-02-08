@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-md-12">
         <p>下面將列出遊戲中所有文明的特殊科技。F=食物 W=木材 G=金 S=石頭</p>
-        <p>如要觀看一般科技請見:<nuxt-link to="/techs">科技總攬</nuxt-link></p>
+        <p>如要觀看一般科技請見:<nuxt-link to="/techs">科技總覽</nuxt-link></p>
       </div>
     </div>
     <div class="row">

@@ -704,7 +704,6 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <div class="unititle2">數據</div>
             <td class="unit4">
               +9對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link>
               <br />+5對<nuxt-link to="/armor/Armor_Class_Camel"

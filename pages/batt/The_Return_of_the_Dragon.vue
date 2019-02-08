@@ -227,7 +227,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_ Breath_of_the_Dragon"
+              <nuxt-link to="/batt/The_Breath_of_the_Dragon"
                 >龍之喘息</nuxt-link
               >
             </td>

@@ -10,7 +10,7 @@
         </p>
         <p>
           各國特殊科技銀冠、金冠請見:<nuxt-link to="/techs/untech"
-            >特殊科技總攬</nuxt-link
+            >特殊科技總覽</nuxt-link
           >
         </p>
       </div>
