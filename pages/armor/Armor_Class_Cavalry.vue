@@ -261,7 +261,7 @@
         </div>
         <h3>剋騎兵系的單位與建築</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="n1 bonuses">
           以下單位擁有對騎兵系的額外傷害，按照傷殺力排列。這裡也列出攻擊加成0的單位是因為矛象伕的騎兵護甲是-2的關係，0-(-2)=2大於0還是會有攻擊加成。
           <div class="n1">
             <div class="col-md-12">

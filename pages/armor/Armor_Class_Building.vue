@@ -247,7 +247,7 @@
     </div>
     <h3>剋建築單位的單位與建築</h3>
     <div class="hrn1"></div>
-    <div class="n1">
+    <div class="n1 bonuses">
       以下單位擁有對建築單位的額外傷害，按照傷殺力排列。
       <div class="n1">
         <div class="col-md-12">

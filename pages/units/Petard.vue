@@ -54,7 +54,7 @@
         <h3>摧毀建築所需的數量</h3>
         <div class="hrn1"></div>
         <div class="col-md-6">
-          <div class="n1">
+          <div class="n1 bonuses">
             <strong>沒有研究攻城工程師</strong>
             <ul>
               括號內為研發磚瓦技術與建築學後
@@ -120,7 +120,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <div class="n1">
+          <div class="n1 bonuses">
             <strong>研究攻城工程師</strong>
             <ul>
               括號內為研發磚瓦技術與建築學後

@@ -1,7 +1,7 @@
 <template>
   <div>
     <navbar />
-    <nuxt />
+    <container />
     <allhero />
     <credit />
   </div>
@@ -10,11 +10,14 @@
 import navbar from '~/components/navbar.vue'
 import allhero from '~/components/allhero.vue'
 import credit from '~/components/credit.vue'
+import container from '~/components/container.vue'
+
 export default {
   components: {
     navbar,
     allhero,
-    credit
+    credit,
+    container
   }
 }
 </script>

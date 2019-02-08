@@ -372,7 +372,7 @@
     <div class="col-md-12">
       <h3>剋遊俠的單位與建築</h3>
       <div class="hrn1"></div>
-      <div class="n1">
+      <div class="n1 bonuses">
         以下單位擁有對遊俠的額外傷害，按照傷殺力排列。
         <div class="n1">
           <div class="col-md-12">
