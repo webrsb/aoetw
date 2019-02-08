@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@babel/standalone": "^7.3.1",
+    "@fortawesome/fontawesome-free": "^5.7.1",
     "eslint-config-prettier": "^3.1.0",
     "eslint-plugin-prettier": "2.6.2",
     "ftp-deploy": "^2.3.0",

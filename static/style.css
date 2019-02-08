@@ -309,3 +309,16 @@ hr {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
+
+.flg{
+  width: 25px;margin: 0px 5px;
+}
+.not{
+  opacity: 0.3;
+}
+.gg{
+  width: 45px;
+}
+.trm{
+  font-size: 22px;
+}

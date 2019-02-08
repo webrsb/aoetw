@@ -29,7 +29,8 @@ module.exports = {
   */
   css: [
     { src: '@static/style.css', lang: 'css' },
-    { src: 'codemirror/lib/codemirror.css', lang: 'css' }
+    { src: 'codemirror/lib/codemirror.css', lang: 'css' },
+    { src: '@fortawesome/fontawesome-free/css/all.css', lang: 'css' }
   ],
 
   /*
