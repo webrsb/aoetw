@@ -473,119 +473,371 @@
           </tr>
           <tr>
             <td>
-              <div class="btn-group">
-                <button
-                  type="button"
-                  class="btn btn-success"
-                  onclick="uunit_click()"
-                >
+              <b-dropdown
+                id="ddown-split"
+                variant="success"
+                split
+                class="m-2"
+                @click="clickSplitEvent"
+                @show="showSplitEvent"
+              >
+                <template slot="button-content">
                   <img
                     class="gg"
+                    style="margin-left: -7px;"
                     src="~assets/Elite-unique-research.jpg"
-                    alt=""
+                    alt="特殊單位"
                   />
-                  特 殊 單 位
-                </button>
-                <button
-                  type="button"
-                  class="btn btn-success dropdown-toggle dropdown-toggle-split"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
-                  <span class="sr-only">Toggle Dropdown</span>
-                </button>
-                <ul class="dropdown-menu multi-column columns-3">
-                  <div class="row">
-                    <div class="col-sm-3">
-                      <ul class="multi-column-dropdown">
-                        <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>
-                        <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>
-                        <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link>
-                        <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>
-                        <nuxt-link to="/units/Throwing_Axeman"
-                          >擲斧兵</nuxt-link
-                        >
-                        <nuxt-link to="/units/Samurai">日本武士</nuxt-link>
-                        <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>
-                        <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>
-                        <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
-                        <nuxt-link to="/units/Teutonic_Knight"
-                          >條頓武士</nuxt-link
-                        >
-                        <nuxt-link to="/units/Janissary"
-                          >土耳其火槍兵</nuxt-link
-                        >
-                        <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
-                        <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
-                        <nuxt-link to="/units/Berserk">狂戰士</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>
-                        <nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link>
-                        <nuxt-link to="/units/Plumed_Archer"
-                          >羽毛箭射手</nuxt-link
-                        >
-                        <nuxt-link to="/units/Conquistador">征服者</nuxt-link>
-                        <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>
-                        <nuxt-link to="/units/Missionary">傳教士</nuxt-link>
-                        <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>
-                        <nuxt-link to="/units/Slinger">投石手</nuxt-link>
-                        <nuxt-link to="/units/Elephant_Archer"
-                          >象弓騎兵</nuxt-link
-                        >
-                        <nuxt-link to="/units/Imperial_Camel"
-                          >帝王駱駝騎兵</nuxt-link
-                        >
-                        <nuxt-link to="/units/Genoese_Crossbowman"
-                          >熱那亞弩手</nuxt-link
-                        >
-                        <nuxt-link to="/units/Condottiero">僱傭兵</nuxt-link>
-                        <nuxt-link to="/units/Magyar_Huszar"
-                          >馬札爾驃騎兵</nuxt-link
-                        >
-                        <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/games/ak">非洲王朝</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/units/Camel_Archer"
-                          >駱駝弓騎兵</nuxt-link
-                        >
-                        <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
-                        <nuxt-link to="/units/Shotel_Warrior"
-                          >彎刀勇士</nuxt-link
-                        >
-                        <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>
-                        <nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>
-                        <nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/games/aor">王者崛起</nuxt-link>
-                        <div class="dropdown-divider"></div>
-                        <nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>
-                        <nuxt-link to="/units/Ballista_Elephant"
-                          >弩砲象</nuxt-link
-                        >
-                        <nuxt-link to="/units/Karambit_Warrior"
-                          >爪刀勇士</nuxt-link
-                        >
-                        <nuxt-link to="/units/Rattan_Archer"
-                          >藤甲弓兵</nuxt-link
-                        >
-                        <nuxt-link to="/units/Imperial_Skirmisher"
-                          >帝王戰茅兵</nuxt-link
-                        >
-                      </ul>
-                    </div>
+                  <div
+                    style="float: right; margin-top: 1px;; margin-left: 4px;"
+                  >
+                    特 殊 單 位
                   </div>
-                </ul>
-              </div>
+                </template>
+              </b-dropdown>
+              <b-collapse v-model="showCollapse" id="uniques-collapse">
+                <b-card>
+                  <nuxt-link to="/games/aok"
+                    ><img
+                      src="~assets/KingsIcon.png"
+                      style="margin-right:5px"
+                    />帝王世紀</nuxt-link
+                  >
+                  <hr />
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/LongbowmanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/CataphractIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
+                      to="/units/Woad_Raider"
+                      >菘藍武士</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/ChuKoNuIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
+                      to="/units/Throwing_Axeman"
+                      >擲斧兵</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/HuskarlIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
+                      to="/units/Samurai"
+                      >日本武士</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/MangudaiIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/WarElephantIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Saracenmamluk_icon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Crusade_avatar.png"
+                      alt=""
+                    /><nuxt-link to="/units/Teutonic_Knight"
+                      >條頓武士</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/JanissaryIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>
+                  </div>
+                  <div class="game_title">
+                    <nuxt-link to="/games/aoc"
+                      ><img
+                        src="~assets/ConquerorsIcon.png"
+                        style="margin-right:5px"
+                      />征服者入侵</nuxt-link
+                    >
+                  </div>
+                  <hr />
+                  <div class="unique">
+                    <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
+                      to="/units/Berserk"
+                      >狂戰士</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/LongboatIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Caravel">維京大戰船</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/JaguarWarriorIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/TarkanIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/WarWagonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/TurtleShipIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/PlumedArcherIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Plumed_Archer"
+                      >羽毛箭射手</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/ConquistadorIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>
+                  </div>
+
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/MissionaryIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Missionary">傳教士</nuxt-link>
+                  </div>
+
+                  <div class="game_title">
+                    <nuxt-link to="/games/aof"
+                      ><img
+                        src="~assets/ForgottenIcon.png"
+                        style="margin-right:5px"
+                      />失落帝國</nuxt-link
+                    >
+                  </div>
+                  <hr />
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Kamayuk_Icon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Slingericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Slinger">投石手</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/ElephantArcherIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elephant_Archer"
+                      >象弓騎兵</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/ImperialCamelIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/New_Genoese_Crossbowman.png"
+                      alt=""
+                    /><nuxt-link to="/units/Genoese_Crossbowman"
+                      >熱那亞弩手</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/CondottieroNewIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Magyar_Huszar_icon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Magyar_Huszar"
+                      >馬札爾驃騎兵</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/New_Boyar.png"
+                      alt=""
+                    /><nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>
+                  </div>
+                  <div class="game_title">
+                    <nuxt-link to="/games/ak"
+                      ><img
+                        src="~assets/AfricanIcon.png"
+                        style="margin-right:5px"
+                      />非洲王國</nuxt-link
+                    >
+                  </div>
+                  <hr />
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/CamelArcherIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/GenitourIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/ShotelIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/GbetoIcon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/OrganGunIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/CaravelIcon2.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>
+                  </div>
+                  <div class="game_title">
+                    <nuxt-link to="/games/aor"
+                      ><img
+                        src="~assets/RajaIcon.png"
+                        style="margin-right:5px"
+                      />王者崛起</nuxt-link
+                    >
+                  </div>
+                  <hr />
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Arambaiicon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Ballistaelephanticon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Ballista_Elephant"
+                      >弩砲象</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Karambitwarrioricon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Karambit_Warrior"
+                      >爪刀勇士</nuxt-link
+                    >
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/RattanarcherIcon2.png"
+                      alt=""
+                    /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>
+                  </div>
+                  <div class="unique">
+                    <img
+                      class="gg"
+                      src="~assets/Imperialskirmishericon.png"
+                      alt=""
+                    /><nuxt-link to="/units/Imperial_Skirmisher"
+                      >帝王戰茅兵</nuxt-link
+                    >
+                  </div>
+                </b-card>
+              </b-collapse>
             </td>
           </tr>
           <tr>
@@ -738,7 +990,32 @@
 <script>
 export default {
   layout: 'footn',
+  data() {
+    return {
+      showCollapse: false
+    }
+  },
+  methods: {
+    clickSplitEvent() {
+      this.$router.push({ path: '/units/Unique_Unit' })
+    },
+    showSplitEvent(bvEvt) {
+      bvEvt.preventDefault()
+      this.showCollapse = !this.showCollapse
+    }
+  },
   components: {}
 }
 </script>
-<style></style>
+<style>
+.unique {
+  padding: 0 2px;
+  display: inline-block;
+  min-width: 84px;
+}
+
+.game_title {
+  clear: both;
+  margin-top: 1em;
+}
+</style>

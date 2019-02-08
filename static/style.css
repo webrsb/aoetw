@@ -304,3 +304,8 @@ padding: 5px;
 .link-actived {
   color: black;
 }
+
+hr {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}

@@ -33,9 +33,13 @@
             <td class="tunitcc" style="width: 15%;">文明</td>
             <td class="tunitcc" style="width: 70%;">概要</td>
           </tr>
-          <h3>
-            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
-          </h3>
+          <tr>
+            <td colspan="3">
+              <h3>
+                <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
+              </h3>
+            </td>
+          </tr>
           <tr>
             <td class="tunitc6">
               <img
@@ -189,6 +193,32 @@
             <td class="tunitc6">高攻擊，射程極遠的徒步火槍單位。</td>
           </tr>
           <tr>
+            <td colspan="3">
+              <li>
+                <nuxt-link to="/civs/Goths">哥德</nuxt-link>、研發<nuxt-link
+                  to="/techs/Anarchy"
+                  >無政府狀態</nuxt-link
+                >後可在<nuxt-link to="/building/Barracks">兵營</nuxt-link>訓練
+                <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
+              </li>
+            </td>
+          </tr>
+        </table>
+
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="tunitcc" style="width: 15%;">兵種</td>
+            <td class="tunitcc" style="width: 15%;">文明</td>
+            <td class="tunitcc" style="width: 70%;">概要</td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              <h3>
+                <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+              </h3>
+            </td>
+          </tr>
+          <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                 to="/units/Berserk"
@@ -216,24 +246,6 @@
               城堡時代於碼頭生產，可一次發出多支箭的戰船。
             </td>
           </tr>
-          <li>
-            <nuxt-link to="/civs/Goths">哥德</nuxt-link>、研發<nuxt-link
-              to="/techs/Anarchy"
-              >無政府狀態</nuxt-link
-            >後可在<nuxt-link to="/building/Barracks">兵營</nuxt-link>訓練
-            <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
-          </li>
-        </table>
-
-        <table class="table-bordered" width="100%">
-          <tr>
-            <td class="tunitcc" style="width: 15%;">兵種</td>
-            <td class="tunitcc" style="width: 15%;">文明</td>
-            <td class="tunitcc" style="width: 70%;">概要</td>
-          </tr>
-          <h3>
-            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
-          </h3>
           <tr>
             <td class="tunitc6">
               <img
@@ -323,13 +335,17 @@
               修道院中生產，無法拿遺跡，且治療與招降能力皆不足僧侶，但移動速度快。
             </td>
           </tr>
-          <li>
-            <nuxt-link to="/civs/Huns">匈奴</nuxt-link>研發<nuxt-link
-              to="/techs/Marauders"
-              >掠奪者</nuxt-link
-            >後可在<nuxt-link to="/building/Stable">馬廄</nuxt-link>訓練
-            <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
-          </li>
+          <tr>
+            <td colspan="3">
+              <li>
+                <nuxt-link to="/civs/Huns">匈奴</nuxt-link>研發<nuxt-link
+                  to="/techs/Marauders"
+                  >掠奪者</nuxt-link
+                >後可在<nuxt-link to="/building/Stable">馬廄</nuxt-link>訓練
+                <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+              </li>
+            </td>
+          </tr>
         </table>
 
         <table class="table-bordered" width="100%">
@@ -338,9 +354,13 @@
             <td class="tunitcc" style="width: 15%;">文明</td>
             <td class="tunitcc" style="width: 70%;">概要</td>
           </tr>
-          <h3>
-            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
-          </h3>
+          <tr>
+            <td colspan="3">
+              <h3>
+                <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+              </h3>
+            </td>
+          </tr>
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Kamayuk_Icon.jpg" alt="" /><nuxt-link
@@ -460,9 +480,13 @@
             <td class="tunitcc" style="width: 15%;">文明</td>
             <td class="tunitcc" style="width: 70%;">概要</td>
           </tr>
-          <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
-          </h3>
+          <tr>
+            <td colspan="3">
+              <h3>
+                <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+              </h3>
+            </td>
+          </tr>
           <tr>
             <td class="tunitc6">
               <img
@@ -548,9 +572,13 @@
             <td class="tunitcc" style="width: 15%;">文明</td>
             <td class="tunitcc" style="width: 70%;">概要</td>
           </tr>
-          <h3>
-            <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
-          </h3>
+          <tr>
+            <td colspan="3">
+              <h3>
+                <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
+              </h3>
+            </td>
+          </tr>
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
