@@ -39,23 +39,23 @@
             <div class="col-md-6">
               <ol>
                 <li>
-                  <nuxt-link to="/batt/The_Boiling_Lake">火龍展翅</nuxt-link>
+                  <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings">火龍展翅</nuxt-link>
                   &nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Boiling_Lake">龍之歸來</nuxt-link
+                  <nuxt-link to="/batt/The_Return_of_the_Dragon">龍之歸來</nuxt-link
                   >&nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Boiling_Lake">龍之喘息</nuxt-link
+                  <nuxt-link to="/batt/The_Breath_of_the_Dragon">龍之喘息</nuxt-link
                   >&nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Boiling_Lake">撥雲見月</nuxt-link>
+                  <nuxt-link to="/batt/The_Moon_Rises">撥雲見月</nuxt-link>
                   &nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Boiling_Lake">暗夜降臨</nuxt-link
+                  <nuxt-link to="/batt/The_Night_Falls">暗夜降臨</nuxt-link
                   >&nbsp;&nbsp;
                 </li>
               </ol>
