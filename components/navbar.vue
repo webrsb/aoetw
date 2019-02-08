@@ -38,6 +38,7 @@
         <b-nav-item to="/talk">討論區</b-nav-item>
         <b-nav-item href="/save/">記錄檔區</b-nav-item>
         <b-nav-item to="/tree/vie">科技樹</b-nav-item>
+        <b-nav-item to="/maps">地圖</b-nav-item>
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">
         <b-nav-form>

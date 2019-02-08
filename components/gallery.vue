@@ -33,6 +33,7 @@ export default {
   .bigimg>img{
     width: auto;
     min-width: 300px;
+    margin: 0 auto;
   }
   
   @media (min-width: 992px) {
