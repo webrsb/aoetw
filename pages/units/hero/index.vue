@@ -321,7 +321,7 @@
                 class="gg"
                 src="~assets/Wolf-icon-aoe2.jpg"
                 alt=""
-              /><nuxt-link to="/Hunting_unitsanimal/Wolf">獵狼</nuxt-link>
+              /><nuxt-link to="/units/hero/Hunting_Wolf">獵狼</nuxt-link>
             </td>
             <td class="tunitc4">動物</td>
             <td class="tunitc6">狼</td>
@@ -374,7 +374,9 @@
                 class="gg"
                 src="~assets/Joanofarcicon.png"
                 alt=""
-              /><nuxt-link to="/Joan_of_Arc_units/Champion">聖女貞德</nuxt-link>
+              /><nuxt-link to="/units/hero/Joan_of_Arc_Champion"
+                >聖女貞德</nuxt-link
+              >
             </td>
             <td class="tunitc4">騎士</td>
             <td class="tunitc6">特殊</td>
@@ -534,7 +536,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/Wolf_hero1.png" alt="" /><nuxt-link
-                to="/Ornlu_the_unitsanimal/Wolf"
+                to="/units/hero/Ornlu_the_Wolf"
                 >灰狼歐魯</nuxt-link
               >
             </td>
@@ -790,11 +792,8 @@
           </tr>
           <tr>
             <td class="tunitc6">
-              <img
-                class="gg"
-                src="~assets/Williamtheconqueroricon.png"
-                alt=""
-              /><nuxt-link to="/units/hero/William_Wallace"
+              <img class="gg" src="~assets/Willi.png" alt="" /><nuxt-link
+                to="/units/hero/William_Wallace"
                 >威廉華勒斯</nuxt-link
               >
             </td>
@@ -1337,7 +1336,9 @@
                         class="gg"
                         src="~assets/Sanyogitaicon.png"
                         alt=""
-                      /><nuxt-link to="/Sanyogtree/ita">姍優姬妲</nuxt-link>
+                      /><nuxt-link to="/units/hero/Sanyogita"
+                        >姍優姬妲</nuxt-link
+                      >
                     </td>
                     <td class="tunitc4">村民</td>
                     <td class="tunitc6">特殊</td>
@@ -1408,7 +1409,7 @@
                             class="gg"
                             src="~assets/WarElephantIcon.jpg"
                             alt=""
-                          /><nuxt-link to="/Abraha_unitsanimal/Elephant"
+                          /><nuxt-link to="/units/hero/Abraha_Elephant"
                             >阿伯哈拉戰象</nuxt-link
                           >
                         </td>
@@ -1742,7 +1743,7 @@
                             class="gg"
                             src="~assets/Yekunoamlakicon.png"
                             alt=""
-                          /><nuxt-link to="/Yekuno_Amlgames/ak"
+                          /><nuxt-link to="/units/hero/Yekuno_Amlak"
                             >亞庫諾-阿姆拉克</nuxt-link
                           >
                         </td>
@@ -1827,7 +1828,9 @@
                                 class="gg"
                                 src="~assets/Buibiicon.png"
                                 alt=""
-                              /><nuxt-link to="/units/hero/Bui_Bi">?</nuxt-link>
+                              /><nuxt-link to="/units/hero/Bui_Bi"
+                                >裴備</nuxt-link
+                              >
                             </td>
                             <td class="tunitc4">僧侶</td>
                             <td class="tunitc6">特殊</td>

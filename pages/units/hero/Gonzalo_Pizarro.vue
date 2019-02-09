@@ -19,8 +19,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">岡薩洛·皮薩羅</nuxt-link>
+              <div class="unititle2">
+                岡薩洛·皮薩羅
               </div>
             </td>
           </tr>

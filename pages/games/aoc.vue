@@ -43,9 +43,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d">
-              <div class="unititle">
-                <nuxt-link to="">世紀帝國II：征服者入侵</nuxt-link>
-              </div>
+              <div class="unititle2">世紀帝國II：征服者入侵</div>
             </td>
           </tr>
           <tr>

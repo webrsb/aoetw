@@ -34,7 +34,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">帖木兒</nuxt-link></div>
+              <div class="unititle2">
+                帖木兒
+              </div>
             </td>
           </tr>
           <tr>

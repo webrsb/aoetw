@@ -122,8 +122,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#356a98">
-              <div class="unititle">
-                <nuxt-link to="">世紀帝國II：王者崛起</nuxt-link>
+              <div class="unititle2">
+                世紀帝國II：王者崛起
               </div>
             </td>
           </tr>

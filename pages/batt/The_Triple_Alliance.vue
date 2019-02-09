@@ -177,7 +177,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle"><nuxt-link to="">三國同盟</nuxt-link></div>
+              <div class="unititle2">
+                三國同盟
+              </div>
             </td>
           </tr>
           <tr>

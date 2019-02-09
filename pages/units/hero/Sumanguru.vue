@@ -23,7 +23,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">蘇曼古魯</nuxt-link></div>
+              <div class="unititle2">
+                蘇曼古魯
+              </div>
             </td>
           </tr>
           <tr>

@@ -224,26 +224,28 @@
         </ul>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/s4.jpg"
-              alt=""
-            />
-            <p class="text-center">
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/s4.jpg"
+                alt=""
+            /></gallery>
+            <p>
               <em>走小道（斥侯所在處）可以暫時躲過不列顛禁衛軍。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Joan4chalon.jpg"
-              alt=""
-            />
-            <p class="text-center"><em>沙朗的城鎮中心陷落。</em></p>
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Joan4chalon.jpg"
+                alt=""
+            /></gallery>
+            <p><em>沙朗的城鎮中心陷落。</em></p>
           </div>
         </div>
         <li>
@@ -251,12 +253,16 @@
         </li>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img class="imgn hg" src="~assets/Joan4forwardbase.jpg" alt="" />
-            <p class="text-center"><em>建造軍事建築物和防禦基地。</em></p>
+            <gallery
+              ><img class="imgn hg" src="~assets/Joan4forwardbase.jpg" alt=""
+            /></gallery>
+            <p><em>建造軍事建築物和防禦基地。</em></p>
           </div>
           <div class="col-md-6">
-            <img class="imgn hg" src="~assets/Joan4troyes.jpg" alt="" />
-            <p class="text-center"><em>特洛伊斯的城鎮中心陷落。</em></p>
+            <gallery
+              ><img class="imgn hg" src="~assets/Joan4troyes.jpg" alt=""
+            /></gallery>
+            <p><em>特洛伊斯的城鎮中心陷落。</em></p>
           </div>
         </div>
         <li>
@@ -264,14 +270,15 @@
         </li>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Joan4rheims.jpg"
-              alt=""
-            />
-            <p class="text-center"><em>為了勝利攻破城牆破壞城鎮中心！</em></p>
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Joan4rheims.jpg"
+                alt=""
+            /></gallery>
+            <p><em>為了勝利攻破城牆破壞城鎮中心！</em></p>
           </div>
         </div>
       </div>

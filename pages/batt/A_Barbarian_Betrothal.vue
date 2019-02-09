@@ -140,8 +140,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="">蠻族的婚約</nuxt-link>
+              <div class="unititle2">
+                蠻族的婚約
               </div>
             </td>
           </tr>

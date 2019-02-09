@@ -38,8 +38,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">塔里克·伊本·齊亞德</nuxt-link>
+              <div class="unititle2">
+                塔里克·伊本·齊亞德
               </div>
             </td>
           </tr>

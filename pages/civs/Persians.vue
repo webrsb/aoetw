@@ -312,8 +312,8 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery>
-                  <img class="imgn hg" src="~assets/Wonderpersians.jpg" alt=""
+                <gallery
+                  ><img class="imgn hg" src="~assets/Wonderpersians.jpg" alt=""
                 /></gallery>
                 <p><em>波斯的世界奇觀</em></p>
               </div>

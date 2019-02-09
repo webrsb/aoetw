@@ -15,35 +15,38 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Golden_Pit_1.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Golden_Pit_1.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>金礦股邊緣是沙地的斜坡。</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Golden_Pit_2.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Golden_Pit_2.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em>玩家時常為了中央豐富金礦而大打出手。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Golden_Pit_3.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Golden_Pit_3.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>兩方相遇在森林中大打出手。</em></p>
           </div>
         </div>

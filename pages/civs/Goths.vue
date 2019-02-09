@@ -475,8 +475,8 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-4">
-                <gallery>
-                  <img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
+                <gallery
+                  ><img class="imgn hg" src="~assets/CentEuropean.jpg" alt=""
                 /></gallery>
                 <p><em>哥德的建築風格</em></p>
               </div>
@@ -488,7 +488,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle"><nuxt-link to="">哥德</nuxt-link></div>
+              <div class="unititle2">
+                哥德
+              </div>
             </td>
           </tr>
           <tr>
@@ -501,7 +503,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>

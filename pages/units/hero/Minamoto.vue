@@ -59,7 +59,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">源氏</nuxt-link></div>
+              <div class="unititle2">
+                源氏
+              </div>
             </td>
           </tr>
           <tr>

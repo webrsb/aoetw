@@ -169,7 +169,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#5cb85c;">
-              <div class="unititle"><nuxt-link to="">肉馬開局</nuxt-link></div>
+              <div class="unititle2">
+                肉馬開局
+              </div>
             </td>
           </tr>
           <tr>

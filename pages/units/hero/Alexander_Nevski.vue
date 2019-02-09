@@ -27,8 +27,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">亞歷山大·涅夫斯基</nuxt-link>
+              <div class="unititle2">
+                亞歷山大·涅夫斯基
               </div>
             </td>
           </tr>

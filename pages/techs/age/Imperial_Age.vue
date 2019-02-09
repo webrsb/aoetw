@@ -32,7 +32,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Blacksmithicon.png"
+                src="~assets/Wondericon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link

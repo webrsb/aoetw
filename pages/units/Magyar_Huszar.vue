@@ -526,6 +526,50 @@
             </li>
           </ul>
         </div>
+
+        <div class="col-md-12">
+          <h3>圖庫</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <div class="col-md-12">
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    src="~assets/AoF_Magyar_Huszar_All_Angles.jpg"
+                    alt=""
+                /></gallery>
+                <p><em>一群馬札爾驃騎兵。</em></p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/A.png" alt=""
+                /></gallery>
+                <p><em>4.4版的馬札爾驃騎兵。</em></p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    src="~assets/Maygar_Huszar_Old.png"
+                    alt=""
+                /></gallery>
+                <p><em>2.2版前的馬札爾驃騎兵。</em></p>
+              </div>
+              <div class="col-md-12">
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      src="~assets/Magyar_Huszar_Concept_Art.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>真實世界的馬札爾驃騎兵的畫。</em></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -696,49 +740,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由熊協助編輯</div>
-        <div class="col-md-12">
-          <h3>圖庫</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <div class="col-md-12">
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    src="~assets/AoF_Magyar_Huszar_All_Angles.jpg"
-                    alt=""
-                /></gallery>
-                <p><em>一群馬札爾驃騎兵。</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/A.png" alt=""
-                /></gallery>
-                <p><em>4.4版的馬札爾驃騎兵。</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    src="~assets/Maygar_Huszar_Old.png"
-                    alt=""
-                /></gallery>
-                <p><em>2.2版前的馬札爾驃騎兵。</em></p>
-              </div>
-              <div class="col-md-12">
-                <div class="col-md-4">
-                  <gallery
-                    ><img
-                      class="imgn hg"
-                      src="~assets/Magyar_Huszar_Concept_Art.jpg"
-                      alt=""
-                  /></gallery>
-                  <p><em>真實世界的馬札爾驃騎兵的畫。</em></p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

@@ -15,23 +15,25 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Steppe-deer.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Steppe-deer.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>乾草原中間有很多可捕獵的鹿群。</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Steppe-1.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Steppe-1.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>樹林成群環繞在地圖周圍。</em></p>
           </div>
         </div>

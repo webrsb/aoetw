@@ -178,49 +178,47 @@
           </li>
           <div class="col-md-12">
             <div class="col-md-6">
-              <gallery>
-                <img
+              <gallery
+                ><img
                   position="centered"
                   class="imgn hg"
                   width="500"
                   src="~assets/Estado_da_India_Start.jpg"
                   alt=""
-                />
-              </gallery>
+              /></gallery>
               <p><em>玩家開始的城鎮。</em></p>
             </div>
             <div class="col-md-6">
-              <img
-                position="centered"
-                class="imgn hg"
-                width="500"
-                src="~assets/Local_tribe.jpg"
-                alt=""
-              />
+              <gallery
+                ><img
+                  position="centered"
+                  class="imgn hg"
+                  width="500"
+                  src="~assets/Local_tribe.jpg"
+                  alt=""
+              /></gallery>
               <p class="text-center"><em>尋求地方部落的支持。</em></p>
             </div>
             <div class="col-md-6">
-              <gallery>
-                <img
+              <gallery
+                ><img
                   position="centered"
                   class="imgn hg"
                   width="500"
                   src="~assets/Local_tribe2.jpg"
                   alt=""
-                />
-              </gallery>
+              /></gallery>
               <p><em>聆聽地方部落的憤怒，幫助他們。</em></p>
             </div>
             <div class="col-md-6">
-              <gallery>
-                <img
+              <gallery
+                ><img
                   position="centered"
                   class="imgn hg"
                   width="500"
                   src="~assets/Enemy_coming.jpg"
                   alt=""
-                />
-              </gallery>
+              /></gallery>
               <p><em>極大汗來襲!</em></p>
             </div>
           </div>
@@ -233,27 +231,25 @@
         </ul>
         <div class="col-md-12">
           <div class="col-md-6">
-            <gallery>
-              <img
+            <gallery
+              ><img
                 position="centered"
                 class="imgn hg"
                 width="500"
                 src="~assets/Attack_Gidajan.jpg"
                 alt=""
-              />
-            </gallery>
+            /></gallery>
             <p><em>攻擊馬薩瓦!</em></p>
           </div>
           <div class="col-md-6">
-            <gallery>
-              <img
+            <gallery
+              ><img
                 position="centered"
                 class="imgn hg"
                 width="500"
                 src="~assets/Ally_ships.jpg"
                 alt=""
-              />
-            </gallery>
+            /></gallery>
             <p><em>盟軍船隊來支援了!</em></p>
           </div>
         </div>

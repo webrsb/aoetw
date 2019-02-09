@@ -44,8 +44,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">庫奧赫特莫克</nuxt-link>
+              <div class="unititle2">
+                庫奧赫特莫克
               </div>
             </td>
           </tr>

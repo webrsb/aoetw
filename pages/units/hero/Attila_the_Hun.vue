@@ -31,15 +31,15 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">匈奴王阿提拉</nuxt-link>
+              <div class="unititle2">
+                匈奴王阿提拉
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/BledaIcon.png" width="80" alt="" />
+                <img src="~assets/Attila_the_Hun.png" width="80" alt="" />
               </div>
             </td>
           </tr>

@@ -26,7 +26,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">貴族首領</nuxt-link></div>
+              <div class="unititle2">
+                貴族首領
+              </div>
             </td>
           </tr>
           <tr>

@@ -21,12 +21,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-5">
-              <img
-                class="hg"
-                width="280"
-                src="~assets/Constablerichemont.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="280"
+                  src="~assets/Constablerichemont.png"
+                  alt=""
+              /></gallery>
               <p><em>在戰役編輯器中的聖殿騎士團首領。</em></p>
             </div>
           </div>
@@ -36,8 +37,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">聖殿騎士團首領</nuxt-link>
+              <div class="unititle2">
+                聖殿騎士團首領
               </div>
             </td>
           </tr>

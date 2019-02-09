@@ -15,25 +15,27 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Towns.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Towns.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em>塞倫蓋提平原十分開闊，玩家要確實圍家是一件不容易的事。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Rock_pillars.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Rock_pillars.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em
                 >塞倫蓋提平原上有一些巨大的岩柱，跟旁邊的矮樹木形成強烈對比。</em

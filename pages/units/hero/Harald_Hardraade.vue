@@ -33,12 +33,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img
-                class="hg"
-                width="250"
-                src="~assets/Haraldhardraadebattle.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="250"
+                  src="~assets/Haraldhardraadebattle.png"
+                  alt=""
+              /></gallery>
               <p>
                 <em
                   >一群與劍兵勇士戰鬥中的哈羅德哈左德(左邊)，可看到丟出去的斧頭。</em
@@ -52,8 +53,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">哈羅德哈左德</nuxt-link>
+              <div class="unititle2">
+                哈羅德哈左德
               </div>
             </td>
           </tr>

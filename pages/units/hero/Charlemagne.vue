@@ -30,12 +30,13 @@
           </p>
           <div class="col-md-12">
             <div class="col-md-4">
-              <img
-                class="hg"
-                width="250"
-                src="~assets/Wonderbritons.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="250"
+                  src="~assets/Wonderbritons.png"
+                  alt=""
+              /></gallery>
               <p>
                 <em
                   >亞琛大教堂:由查理曼大帝（Charlemagne）建造，成為"世界帝國II"中不列顛人的世界奇觀。。</em
@@ -49,8 +50,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">查理曼大帝</nuxt-link>
+              <div class="unititle2">
+                查理曼大帝
               </div>
             </td>
           </tr>

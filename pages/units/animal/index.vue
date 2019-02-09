@@ -28,7 +28,7 @@
       <div class="col-md-12">
         <h3>野生動物列表</h3>
         <div class="hrn1"></div>
-        <div class="col-md-12">
+        <div class="row">
           <div class="col-md-3">
             <strong>不可馴化可食用</strong>
             <ul>
@@ -63,7 +63,7 @@
               <li><nuxt-link to="/units/animal/Wolf">狼</nuxt-link></li>
               <li><nuxt-link to="/Jaguar.php">豹</nuxt-link></li>
               <li>
-                <nuxt-link to="/units/animal/wide/Wild_Horse">馬</nuxt-link>
+                <nuxt-link to="/units/animal/Wild_Horse">馬</nuxt-link>
               </li>
               <li><nuxt-link to="/units/animal/Bear">熊</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Llama">駱駝</nuxt-link></li>
@@ -93,7 +93,7 @@
 </template>
 <script>
 export default {
-  layout: 'allwide',
+  layout: '',
   components: {}
 }
 </script>

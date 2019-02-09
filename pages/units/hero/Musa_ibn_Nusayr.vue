@@ -30,8 +30,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">穆薩-伊本-奴薩爾</nuxt-link>
+              <div class="unititle2">
+                穆薩-伊本-奴薩爾
               </div>
             </td>
           </tr>

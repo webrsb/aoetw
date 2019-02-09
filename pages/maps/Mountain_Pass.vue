@@ -15,23 +15,25 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Sheeps_and_Goats.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Sheeps_and_Goats.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>地圖上有許多綿羊跟鹿群可供獵食。</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Mines.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Mines.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em>金礦跟石礦的數量不多，玩家要謹慎使用。</em>
             </p>

@@ -21,11 +21,15 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img class="hg" width="250" src="~assets/Joan.png" alt="" />
+              <gallery
+                ><img class="hg" width="250" src="~assets/Joan.png" alt=""
+              /></gallery>
               <p><em>戰役編輯器中的農家女貞德(左)和騎馬的貞德。</em></p>
             </div>
             <div class="col-md-5">
-              <img class="hg" width="240" src="~assets/Joan1start.png" alt="" />
+              <gallery
+                ><img class="hg" width="240" src="~assets/Joan1start.png" alt=""
+              /></gallery>
               <p>
                 <em
                   >在"一個不大可能的彌賽亞"一開始貞德(中)要被軍隊護送到支農。</em
@@ -33,12 +37,13 @@
               </p>
             </div>
             <div class="col-md-5">
-              <img
-                class="hg"
-                width="200"
-                src="~assets/Joanthemaid.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="200"
+                  src="~assets/Joanthemaid.png"
+                  alt=""
+              /></gallery>
               <p><em>戰役編輯器中的農家女貞德。</em></p>
             </div>
           </div>
@@ -48,8 +53,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">農家女貞德</nuxt-link>
+              <div class="unititle2">
+                農家女貞德
               </div>
             </td>
           </tr>

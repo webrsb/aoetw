@@ -174,13 +174,14 @@
           </li>
           <div class="col-md-12">
             <div class="col-md-6">
-              <img
-                position="centered"
-                class="imgn hg"
-                width="500"
-                src="~assets/yodit-eastcamp.jpg"
-                alt=""
-              />
+              <gallery
+                ><img
+                  position="centered"
+                  class="imgn hg"
+                  width="500"
+                  src="~assets/yodit-eastcamp.jpg"
+                  alt=""
+              /></gallery>
               <p class="text-center"><em>極大汗東邊營地。</em></p>
             </div>
           </div>
@@ -189,23 +190,25 @@
           </li>
           <div class="col-md-12">
             <div class="col-md-6">
-              <img
-                position="centered"
-                class="imgn hg"
-                width="500"
-                src="~assets/yodit-town center.jpg"
-                alt=""
-              />
+              <gallery
+                ><img
+                  position="centered"
+                  class="imgn hg"
+                  width="500"
+                  src="~assets/yodit-town center.jpg"
+                  alt=""
+              /></gallery>
               <p class="text-center"><em>接管村莊，然後就逃吧！</em></p>
             </div>
             <div class="col-md-6">
-              <img
-                position="centered"
-                class="imgn hg"
-                width="500"
-                src="~assets/yodit-flag.jpg"
-                alt=""
-              />
+              <gallery
+                ><img
+                  position="centered"
+                  class="imgn hg"
+                  width="500"
+                  src="~assets/yodit-flag.jpg"
+                  alt=""
+              /></gallery>
               <p class="text-center"><em>到達旗幟逃出阿克蘇姆國。</em></p>
             </div>
           </div>
@@ -214,13 +217,14 @@
           </li>
           <div class="col-md-12">
             <div class="col-md-6">
-              <img
-                position="centered"
-                class="imgn hg"
-                width="500"
-                src="~assets/yodit-dock.jpg"
-                alt=""
-              />
+              <gallery
+                ><img
+                  position="centered"
+                  class="imgn hg"
+                  width="500"
+                  src="~assets/yodit-dock.jpg"
+                  alt=""
+              /></gallery>
               <p class="text-center"><em>南邊的碼頭跟運輸船。</em></p>
             </div>
           </div>

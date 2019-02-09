@@ -183,27 +183,25 @@
           </li>
           <div class="col-md-12">
             <div class="col-md-6">
-              <gallery>
-                <img
+              <gallery
+                ><img
                   position="centered"
                   class="imgn hg"
                   width="500"
                   src="~assets/Noreth_Camp.jpg"
                   alt=""
-                />
-              </gallery>
+              /></gallery>
               <em>在北邊遺跡處開始玩家的城鎮。</em>
             </div>
             <div class="col-md-6">
-              <gallery>
-                <img
+              <gallery
+                ><img
                   position="centered"
                   class="imgn hg"
                   width="500"
                   src="~assets/Bombarding.jpg"
                   alt=""
-                />
-              </gallery>
+              /></gallery>
               <p><em>轟炸達納罕大軍。</em></p>
             </div>
           </div>
@@ -219,27 +217,25 @@
         </ul>
         <div class="col-md-12">
           <div class="col-md-6">
-            <gallery>
-              <img
+            <gallery
+              ><img
                 position="centered"
                 class="imgn hg"
                 width="500"
                 src="~assets/Die_die_die.jpg"
                 alt=""
-              />
-            </gallery>
+            /></gallery>
             <p><em>用禮炮(投石車)送達納罕上路!</em></p>
           </div>
           <div class="col-md-6">
-            <gallery>
-              <img
+            <gallery
+              ><img
                 position="centered"
                 class="imgn hg"
                 width="500"
                 src="~assets/The_lonely_king.jpg"
                 alt=""
-              />
-            </gallery>
+            /></gallery>
             <p><em>在地圖邊緣耍搞自閉的國王(笑)!</em></p>
           </div>
         </div>

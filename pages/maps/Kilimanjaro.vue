@@ -15,25 +15,27 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Savannah.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Savannah.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em>地圖中間是廣闊草原，沒有甚麼遮蔽物。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Huntable.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Huntable.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em>打獵的話有鴕鳥跟大象可以提供初期食物來源。</em>
             </p>

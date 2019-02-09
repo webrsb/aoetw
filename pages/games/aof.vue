@@ -121,9 +121,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#ad7b35">
-              <div class="unititle">
-                <nuxt-link to="">世紀帝國II：失落的帝國</nuxt-link>
-              </div>
+              <div class="unititle2">世紀帝國II：失落的帝國</div>
             </td>
           </tr>
           <tr>

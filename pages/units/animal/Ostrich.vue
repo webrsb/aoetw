@@ -25,12 +25,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img
-                class="hg"
-                width="200"
-                src="~assets/Ostrichhunt.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="200"
+                  src="~assets/Ostrichhunt.png"
+                  alt=""
+              /></gallery>
               <p><em>村民正在獵捕鴕鳥。</em></p>
             </div>
           </div>
@@ -40,7 +41,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
-              <div class="unititle"><nuxt-link to="">鴕鳥</nuxt-link></div>
+              <div class="unititle2">
+                鴕鳥
+              </div>
             </td>
           </tr>
           <tr>

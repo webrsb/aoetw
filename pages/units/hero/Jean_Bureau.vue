@@ -19,7 +19,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">約翰布荷</nuxt-link></div>
+              <div class="unititle2">
+                約翰布荷
+              </div>
             </td>
           </tr>
           <tr>

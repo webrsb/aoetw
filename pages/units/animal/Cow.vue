@@ -27,7 +27,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img class="hg" width="200" src="~assets/Shepherd.png" alt="" />
+              <gallery
+                ><img class="hg" width="200" src="~assets/Shepherd.png" alt=""
+              /></gallery>
               <p><em>村民正在把乳牛趕回城鎮中心。</em></p>
             </div>
           </div>
@@ -37,7 +39,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
-              <div class="unititle"><nuxt-link to="">乳牛</nuxt-link></div>
+              <div class="unititle2">
+                乳牛
+              </div>
             </td>
           </tr>
           <tr>

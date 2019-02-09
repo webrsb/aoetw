@@ -325,7 +325,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">爆炸桶</nuxt-link></div>
+              <div class="unititle2">
+                爆炸桶
+              </div>
             </td>
           </tr>
           <tr>

@@ -260,24 +260,26 @@
             <p></p>
             <div class="col-md-12">
               <div class="col-md-6">
-                <img
-                  position="centered"
-                  class="imgn hg"
-                  width="500"
-                  src="~assets/Joan_of_Arc2_5.jpg"
-                  alt=""
-                />
-                <p class="text-center"><em>讓軍隊用運輸船渡河。</em></p>
+                <gallery
+                  ><img
+                    position="centered"
+                    class="imgn hg"
+                    width="500"
+                    src="~assets/Joan_of_Arc2_5.jpg"
+                    alt=""
+                /></gallery>
+                <p><em>讓軍隊用運輸船渡河。</em></p>
               </div>
               <div class="col-md-6">
-                <img
-                  position="centered"
-                  class="imgn hg"
-                  width="500"
-                  src="~assets/Joan_of_Arc2_4.jpg"
-                  alt=""
-                />
-                <p class="text-center"><em>越過淺灘朝霍士道夫前進。</em></p>
+                <gallery
+                  ><img
+                    position="centered"
+                    class="imgn hg"
+                    width="500"
+                    src="~assets/Joan_of_Arc2_4.jpg"
+                    alt=""
+                /></gallery>
+                <p><em>越過淺灘朝霍士道夫前進。</em></p>
               </div>
             </div>
             <li>
@@ -289,12 +291,16 @@
             <p></p>
             <div class="col-md-12">
               <div class="col-md-6">
-                <img class="imgn hg" src="~assets/Joan_of_Arc2_7.jpg" alt="" />
-                <p class="text-center"><em>摧毀霍士道夫的城鎮中心。</em></p>
+                <gallery
+                  ><img class="imgn hg" src="~assets/Joan_of_Arc2_7.jpg" alt=""
+                /></gallery>
+                <p><em>摧毀霍士道夫的城鎮中心。</em></p>
               </div>
               <div class="col-md-6">
-                <img class="imgn hg" src="~assets/Joan_of_Arc2_8.jpg" alt="" />
-                <p class="text-center"><em>霍士道夫突然出現在基地內！</em></p>
+                <gallery
+                  ><img class="imgn hg" src="~assets/Joan_of_Arc2_8.jpg" alt=""
+                /></gallery>
+                <p><em>霍士道夫突然出現在基地內！</em></p>
               </div>
             </div>
             <li>
@@ -303,14 +309,18 @@
             <p></p>
             <div class="col-md-12">
               <div class="col-md-6">
-                <img class="imgn hg" src="~assets/Joan_of_Arc2_3.jpg" alt="" />
-                <p class="text-center"><em>對最後一座城堡做總攻擊。</em></p>
+                <gallery
+                  ><img class="imgn hg" src="~assets/Joan_of_Arc2_3.jpg" alt=""
+                /></gallery>
+                <p><em>對最後一座城堡做總攻擊。</em></p>
               </div>
             </div>
             <div class="col-md-12">
               <div class="col-md-6">
-                <img class="imgn hg" src="~assets/Joan_of_Arc2_2.jpg" alt="" />
-                <p class="text-center"><em>勝利！</em></p>
+                <gallery
+                  ><img class="imgn hg" src="~assets/Joan_of_Arc2_2.jpg" alt=""
+                /></gallery>
+                <p><em>勝利！</em></p>
               </div>
             </div>
           </ul>

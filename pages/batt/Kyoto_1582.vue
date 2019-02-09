@@ -245,8 +245,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="">京都(1582)</nuxt-link>
+              <div class="unititle2">
+                京都(1582)
               </div>
             </td>
           </tr>

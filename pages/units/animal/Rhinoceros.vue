@@ -25,12 +25,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img
-                class="hg"
-                width="200"
-                src="~assets/AOE2Rhinoceros.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="200"
+                  src="~assets/AOE2Rhinoceros.png"
+                  alt=""
+              /></gallery>
               <p><em>世紀帝國II的犀牛。</em></p>
             </div>
           </div>
@@ -40,7 +41,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
-              <div class="unititle"><nuxt-link to="">犀牛</nuxt-link></div>
+              <div class="unititle2">
+                犀牛
+              </div>
             </td>
           </tr>
           <tr>

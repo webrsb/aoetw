@@ -185,43 +185,47 @@
         </ul>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Invader_spot_1.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Invader_spot_1.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>東南邊的入侵者重生處（圍牆處）。</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Invader_spot_2.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Invader_spot_2.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>北邊的入侵者重生處（圍牆處）。</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Invader_spot_4.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Invader_spot_4.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>西邊的入侵者重生處。</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Invader_spot_3.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Invader_spot_3.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>入侵者船隻重生處。</em></p>
           </div>
         </div>
@@ -236,33 +240,36 @@
         </li>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/The_queen.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/The_queen.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>救出女王！</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/The_pirate.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/The_pirate.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>毀掉海盜的碼頭！</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/CastleFight.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/CastleFight.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em>如果直接在城門前起城堡會直接變為敵對狀態喔！</em>
             </p>

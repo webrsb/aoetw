@@ -46,8 +46,8 @@
 
         <h2>戰役說明</h2>
         <div class="hrn1"></div>
-        <div class="col-md-12">
-          <div class="col-md-4">
+        <div class="row">
+          <div class="col-md-12">
             <h3>開場設定</h3>
             <ul>
               <li>
@@ -62,7 +62,7 @@
               <li><strong>人口上限：</strong>75</li>
             </ul>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-6">
             <h3>起始單位</h3>
             <ul>
               <li>
@@ -140,7 +140,7 @@
               </li>
             </ul>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-6">
             <h3>大地之母</h3>
             <ul>
               <li>

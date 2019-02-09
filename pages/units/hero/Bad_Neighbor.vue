@@ -40,13 +40,15 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">壞鄰居</nuxt-link></div>
+              <div class="unititle2">
+                壞鄰居
+              </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/TrebuchetPackedIcon.jpg" width="80" alt="" />
+                <img src="~assets/Badneighboricon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    aa
     <div class="row padtop">
       <div class="col-md-12">
         <h1>緬甸</h1>
@@ -95,7 +94,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle"><nuxt-link to="">緬甸</nuxt-link></div>
+              <div class="unititle2">
+                緬甸
+              </div>
             </td>
           </tr>
           <tr>
@@ -108,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>

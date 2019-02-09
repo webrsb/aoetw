@@ -1034,7 +1034,7 @@
 </template>
 <script>
 export default {
-  layout: 'alltech',
+  layout: '',
   components: {}
 }
 </script>

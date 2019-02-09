@@ -358,7 +358,7 @@
                   class="gg"
                   src="~assets/BatteringRamIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Battering_Ram">輕形衝撞車</nuxt-link>
+                /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>
               </li>
             </ul>
           </div>
@@ -658,7 +658,7 @@
                     class="gg"
                     src="~assets/BatteringRamIcon.jpg"
                     alt=""
-                  /><nuxt-link to="/units/Battering_Ram">輕形衝撞車</nuxt-link>
+                  /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>
                 </li>
               </ul>
             </div>
