@@ -222,7 +222,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Prithviraja">布里斯比羅吉</nuxt-link>
+              <nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link>
             </td>
             <td class="unit4">
               <nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link>。

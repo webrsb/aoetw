@@ -14,7 +14,7 @@
               >射手</nuxt-link
             >
             <nuxt-link to="/units/hero">英雄</nuxt-link
-            >，在敘述他本身的戰役，<nuxt-link to="/batt/Prithviraja"
+            >，在敘述他本身的戰役，<nuxt-link to="/batt/Prithviraj"
               >布里斯比羅吉</nuxt-link
             >的幾個關卡中出現，也可在地圖編輯器中使用。
           </p>

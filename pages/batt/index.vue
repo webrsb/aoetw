@@ -1009,7 +1009,7 @@
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <div id="a15">
-                      <nuxt-link to="/batt/Prithviraja">布里斯比羅吉</nuxt-link>
+                      <nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link>
                     </div>
                   </div>
                 </td>

@@ -191,7 +191,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Prithviraja">布里斯比羅吉</nuxt-link>
+              <nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link>
             </td>
           </tr>
           <tr>
