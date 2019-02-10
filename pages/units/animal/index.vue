@@ -93,6 +93,11 @@
 </template>
 <script>
 export default {
+  head() {
+    return {
+      title: 'Aoetw - 動物'
+    }
+  },
   layout: '',
   components: {}
 }

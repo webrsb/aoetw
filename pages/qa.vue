@@ -405,10 +405,9 @@
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.c-3 class="m-1" variant="success"
+          <b-btn v-b-toggle.a-2 class="m-1" variant="success"
             >1-2.世紀帝國2 HD版要如何購買？怎麼玩？</b-btn
           >
-          <b-collapse id="c-3"> <div class="well">.</div> </b-collapse>
         </div>
       </div>
       <h3>4.遊戲戰術相關</h3>

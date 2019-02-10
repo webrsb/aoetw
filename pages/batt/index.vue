@@ -1676,7 +1676,12 @@
 </template>
 <script>
 export default {
-  layout: 'footn',
+  head() {
+    return {
+      title: 'Aoetw - 戰役'
+    }
+  },
+  layout: '',
   components: {}
 }
 </script>

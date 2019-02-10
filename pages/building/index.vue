@@ -312,7 +312,12 @@
 </template>
 <script>
 export default {
-  layout: 'footn',
+  head() {
+    return {
+      title: 'Aoetw - 建築'
+    }
+  },
+  layout: '',
   components: {}
 }
 </script>

@@ -13,6 +13,11 @@ import credit from '~/components/credit.vue'
 import container from '~/components/container.vue'
 
 export default {
+  head() {
+    return {
+      title: 'Aoetw - 單位'
+    }
+  },
   components: {
     navbar,
     allunit,

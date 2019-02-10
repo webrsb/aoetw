@@ -155,7 +155,12 @@
 </template>
 <script>
 export default {
-  layout: 'allar',
+  head() {
+    return {
+      title: 'Aoetw - 戰術技巧'
+    }
+  },
+  layout: '',
   components: {}
 }
 </script>

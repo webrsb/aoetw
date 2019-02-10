@@ -851,7 +851,12 @@
 </template>
 <script>
 export default {
-  layout: 'allen',
+  head() {
+    return {
+      title: 'Aoetw - 護甲'
+    }
+  },
+  layout: '',
   components: {}
 }
 </script>

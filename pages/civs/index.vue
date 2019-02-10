@@ -187,6 +187,13 @@
   </div>
 </template>
 <script>
-export default { components: {} }
+export default {
+  head() {
+    return {
+      title: 'Aoetw - 文明'
+    }
+  },
+  components: {}
+}
 </script>
 <style></style>

@@ -251,11 +251,6 @@ export default {
       }
     }
   },
-  head() {
-    return {
-      title: 'Playground - BootstrapVue'
-    }
-  },
   computed: {
     isDefault() {
       // Check if editors contain default JS and Template
@@ -530,6 +525,14 @@ export default {
                 props: ['to'],
                 template: `
                   <a :href="to"><slot></slot></a>
+                `},
+              Tree: {
+                template: `
+                  <h2>科技樹狀圖選單(替代)</h2>
+                `},
+              Gallery: {
+                template: `
+                  <div><slot></slot></div>
                 `}
             }
           })

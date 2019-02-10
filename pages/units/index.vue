@@ -989,7 +989,11 @@
 </template>
 <script>
 export default {
-  layout: 'footn',
+  head() {
+    return {
+      title: 'Aoetw - 單位'
+    }
+  },
   data() {
     return {
       showCollapse: false

@@ -13,6 +13,11 @@ import credit from '~/components/credit.vue'
 import container from '~/components/container.vue'
 
 export default {
+  head() {
+    return {
+      title: 'Aoetw - 戰術技巧'
+    }
+  },
   components: {
     navbar,
     allar,
