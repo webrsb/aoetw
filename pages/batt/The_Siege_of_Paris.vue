@@ -219,8 +219,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
+              <div class="unititle2">
+                巴黎攻城戰
               </div>
             </td>
           </tr>

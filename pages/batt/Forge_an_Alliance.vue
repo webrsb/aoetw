@@ -101,8 +101,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Forge_an_Alliance">締結同盟</nuxt-link>
+              <div class="unititle2">
+                締結同盟
               </div>
             </td>
           </tr>

@@ -273,68 +273,68 @@
               <p>灰色轉為敵對後，橋會修復，我方即可進城。</p>
             </div>
           </div>
-        </div>
-        <div class="col-md-4">
-          <table class="table-bordered" width="100%">
-            <tr>
-              <td class="unit" colspan="2" style="background-color:#375d96;">
-                <div class="unititle">
-                  <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td colspan="2">
-                <div class="unititle">
-                  <center>
-                    <img src="~assets/The_Old_World.png" alt="" />
-                  </center>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td class="unit" colspan="2" style="background-color:#375d96;">
-                <div class="unititle2">情景信息</div>
-              </td>
-            </tr>
-            <tr>
-              <td class="unit3">版本</td>
-              <td class="unit4">
-                <nuxt-link to="/batt/ak">非洲王國</nuxt-link>
-              </td>
-            </tr>
-            <tr>
-              <td class="unit3">戰役</td>
-              <td class="unit4">法蘭西斯科．阿爾梅達</td>
-            </tr>
-            <tr>
-              <td class="unit3">文明</td>
-              <td class="unit4">
-                <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
-              </td>
-            </tr>
-            <tr>
-              <td class="unit" colspan="2" style="background-color:#375d96;">
-                <div class="unititle2">戰役關卡編號</div>
-              </td>
-            </tr>
-            <tr>
-              <td class="unit3">章節</td>
-              <td class="unit4">非洲王國第三章之一</td>
-            </tr>
-            <tr>
-              <td class="unit3">上一關</td>
-              <td class="unit4">N/A</td>
-            </tr>
-            <tr>
-              <td class="unit3">下一關</td>
-              <td class="unit4">
-                <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>
-              </td>
-            </tr>
-          </table>
+          <div class="col-md-4">
+            <table class="table-bordered" width="100%">
+              <tr>
+                <td class="unit" colspan="2" style="background-color:#375d96;">
+                  <div class="unititle2">
+                    舊世界
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <div class="unititle">
+                    <center>
+                      <img src="~assets/The_Old_World.png" alt="" />
+                    </center>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td class="unit" colspan="2" style="background-color:#375d96;">
+                  <div class="unititle2">情景信息</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="unit3">版本</td>
+                <td class="unit4">
+                  <nuxt-link to="/batt/ak">非洲王國</nuxt-link>
+                </td>
+              </tr>
+              <tr>
+                <td class="unit3">戰役</td>
+                <td class="unit4">法蘭西斯科．阿爾梅達</td>
+              </tr>
+              <tr>
+                <td class="unit3">文明</td>
+                <td class="unit4">
+                  <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
+                </td>
+              </tr>
+              <tr>
+                <td class="unit" colspan="2" style="background-color:#375d96;">
+                  <div class="unititle2">戰役關卡編號</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="unit3">章節</td>
+                <td class="unit4">非洲王國第三章之一</td>
+              </tr>
+              <tr>
+                <td class="unit3">上一關</td>
+                <td class="unit4">N/A</td>
+              </tr>
+              <tr>
+                <td class="unit3">下一關</td>
+                <td class="unit4">
+                  <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>
+                </td>
+              </tr>
+            </table>
 
-          <div class="thanks">感謝！此頁面由小蛇、裕暉協助編輯。</div>
+            <div class="thanks">感謝！此頁面由小蛇、裕暉協助編輯。</div>
+          </div>
         </div>
       </div>
     </div>

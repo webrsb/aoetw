@@ -170,8 +170,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Emperor_of_the_West">西域之君</nuxt-link>
+              <div class="unititle2">
+                西域之君
               </div>
             </td>
           </tr>

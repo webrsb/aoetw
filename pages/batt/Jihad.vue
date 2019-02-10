@@ -109,8 +109,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Jihad">聖戰</nuxt-link>
+              <div class="unititle2">
+                聖戰
               </div>
             </td>
           </tr>

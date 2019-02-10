@@ -204,10 +204,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Ambrosian_Republic"
-                  >安布羅共和國</nuxt-link
-                >
+              <div class="unititle2">
+                安布羅共和國
               </div>
             </td>
           </tr>

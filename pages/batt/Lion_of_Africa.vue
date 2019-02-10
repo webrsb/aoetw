@@ -265,7 +265,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">非洲雄獅</div>
+              <div class="unititle2">非洲雄獅</div>
             </td>
           </tr>
           <tr>

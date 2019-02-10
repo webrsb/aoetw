@@ -174,10 +174,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Maid_of_Orleans"
-                  >奧爾良的少女</nuxt-link
-                >
+              <div class="unititle2">
+                奧爾良的少女
               </div>
             </td>
           </tr>

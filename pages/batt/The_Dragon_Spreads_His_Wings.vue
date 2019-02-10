@@ -152,10 +152,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings"
-                  >火龍展翅</nuxt-link
-                >
+              <div class="unititle2">
+                火龍展翅
               </div>
             </td>
           </tr>

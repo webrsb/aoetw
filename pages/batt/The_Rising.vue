@@ -45,8 +45,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
+              <div class="unititle2">
+                叛變
               </div>
             </td>
           </tr>

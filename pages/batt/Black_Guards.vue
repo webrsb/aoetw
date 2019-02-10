@@ -169,8 +169,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link>
+              <div class="unititle2">
+                黑衛隊
               </div>
             </td>
           </tr>

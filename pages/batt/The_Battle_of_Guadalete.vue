@@ -174,10 +174,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Battle_of_Guadalete"
-                  >瓜達萊特之戰</nuxt-link
-                >
+              <div class="unititle2">
+                瓜達萊特之戰
               </div>
             </td>
           </tr>

@@ -153,8 +153,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle">
-                <nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link>
+              <div class="unititle2">
+                弓兵環甲
               </div>
             </td>
           </tr>

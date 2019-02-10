@@ -256,8 +256,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                <nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>
+              <div class="unititle2">
+                採礦營地
               </div>
             </td>
           </tr>

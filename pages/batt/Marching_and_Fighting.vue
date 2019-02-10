@@ -94,10 +94,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Marching_and_Fighting"
-                  >行軍與戰鬥</nuxt-link
-                >
+              <div class="unititle2">
+                行軍與戰鬥
               </div>
             </td>
           </tr>

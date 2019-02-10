@@ -166,10 +166,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Legionaries_on_the_Horizon"
-                  >羅馬軍團隨時殺到</nuxt-link
-                >
+              <div class="unititle2">
+                羅馬軍團隨時殺到
               </div>
             </td>
           </tr>

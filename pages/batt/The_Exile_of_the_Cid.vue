@@ -154,10 +154,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Exile_of_the_Cid"
-                  >席德的流亡歲月</nuxt-link
-                >
+              <div class="unititle2">
+                席德的流亡歲月
               </div>
             </td>
           </tr>

@@ -149,8 +149,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Burmese_Tigers">餓虎撲食</nuxt-link>
+              <div class="unititle2">
+                餓虎撲食
               </div>
             </td>
           </tr>

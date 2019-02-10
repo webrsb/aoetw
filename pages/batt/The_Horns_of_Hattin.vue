@@ -93,8 +93,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>
+              <div class="unititle2">
+                海丁的號角
               </div>
             </td>
           </tr>

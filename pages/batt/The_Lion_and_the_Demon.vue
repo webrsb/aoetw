@@ -128,10 +128,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Lion_and_the_Demon"
-                  >獅子與惡魔</nuxt-link
-                >
+              <div class="unititle2">
+                獅子與惡魔
               </div>
             </td>
           </tr>

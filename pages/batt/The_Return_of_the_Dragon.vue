@@ -168,10 +168,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Return_of_the_Dragon"
-                  >龍之歸來</nuxt-link
-                >
+              <div class="unititle2">
+                龍之歸來
               </div>
             </td>
           </tr>

@@ -95,8 +95,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Pax_Mongolia">蒙古治下的和平</nuxt-link>
+              <div class="unititle2">
+                蒙古治下的和平
               </div>
             </td>
           </tr>

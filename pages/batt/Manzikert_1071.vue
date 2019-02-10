@@ -181,10 +181,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Manzikert_1071"
-                  >曼奇克托（1071）</nuxt-link
-                >
+              <div class="unititle2">
+                曼奇克托（1071）
               </div>
             </td>
           </tr>

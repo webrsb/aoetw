@@ -181,8 +181,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/A_New_Duk_of_Milan">米蘭新公爵</nuxt-link>
+              <div class="unititle2">
+                米蘭新公爵
               </div>
             </td>
           </tr>

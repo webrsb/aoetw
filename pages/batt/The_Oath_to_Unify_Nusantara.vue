@@ -145,10 +145,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Oath_to_Unify_Nusantara"
-                  >誓統南洋</nuxt-link
-                >
+              <div class="unititle2">
+                誓統南洋
               </div>
             </td>
           </tr>

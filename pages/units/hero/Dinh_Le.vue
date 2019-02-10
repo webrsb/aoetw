@@ -25,8 +25,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="/units/hero/Dinh_Le">丁禮</nuxt-link>
+              <div class="unititle2">
+                丁禮
               </div>
             </td>
           </tr>

@@ -141,8 +141,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Serving_the_New_King">輔佐新君</nuxt-link>
+              <div class="unititle2">
+                輔佐新君
               </div>
             </td>
           </tr>

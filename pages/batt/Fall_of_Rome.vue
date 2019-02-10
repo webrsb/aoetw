@@ -152,8 +152,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link>
+              <div class="unititle2">
+                羅馬的衰落
               </div>
             </td>
           </tr>

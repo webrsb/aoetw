@@ -143,10 +143,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Quelling_the_Rebellion"
-                  >席捲入荒</nuxt-link
-                >
+              <div class="unititle2">
+                席捲入荒
               </div>
             </td>
           </tr>

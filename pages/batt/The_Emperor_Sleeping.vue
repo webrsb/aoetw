@@ -118,10 +118,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Emperor_Sleeping"
-                  >沈睡的皇帝</nuxt-link
-                >
+              <div class="unititle2">
+                沈睡的皇帝
               </div>
             </td>
           </tr>

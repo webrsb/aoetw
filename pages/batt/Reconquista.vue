@@ -177,8 +177,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Reconquista">勘查（再次征服）</nuxt-link>
+              <div class="unititle2">
+                勘查（再次征服）
               </div>
             </td>
           </tr>

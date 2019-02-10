@@ -147,10 +147,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Challenging_a_Thalassocrac"
-                  >滔天巨浪</nuxt-link
-                >
+              <div class="unititle2">
+                滔天巨浪
               </div>
             </td>
           </tr>

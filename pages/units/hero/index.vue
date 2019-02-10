@@ -1680,7 +1680,7 @@
                         <td class="tunitc4">騎兵</td>
                         <td class="tunitc6">拜占庭聖騎兵</td>
                         <td class="tunitc6">
-                          <nuxt-link to="/The_Lion's_Den.php"
+                          <nuxt-link to="/batt/The_Lions_Den"
                             >深入虎穴</nuxt-link
                           >
                         </td>

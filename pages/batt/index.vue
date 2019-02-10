@@ -1281,7 +1281,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Lion's_Den">深入虎穴</nuxt-link>
+                    <nuxt-link to="/batt/The_Lions_Den">深入虎穴</nuxt-link>
                   </div>
                 </td>
               </tr>

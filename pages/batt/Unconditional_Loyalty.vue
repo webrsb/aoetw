@@ -145,8 +145,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Unconditional_Loyalty">班師勤王</nuxt-link>
+              <div class="unititle2">
+                班師勤王
               </div>
             </td>
           </tr>

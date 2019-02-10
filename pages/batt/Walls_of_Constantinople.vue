@@ -143,10 +143,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Walls_of_Constantinople"
-                  >君士坦丁堡的城牆</nuxt-link
-                >
+              <div class="unititle2">
+                君士坦丁堡的城牆
               </div>
             </td>
           </tr>

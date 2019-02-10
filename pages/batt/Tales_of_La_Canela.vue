@@ -197,10 +197,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Tales_of_La_Canela"
-                  >黃金國的傳說</nuxt-link
-                >
+              <div class="unititle2">
+                黃金國的傳說
               </div>
             </td>
           </tr>

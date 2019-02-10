@@ -80,10 +80,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Holy_Roman_Emperor"
-                  >神聖羅馬皇帝</nuxt-link
-                >
+              <div class="unititle2">
+                神聖羅馬皇帝
               </div>
             </td>
           </tr>

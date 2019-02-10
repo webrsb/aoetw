@@ -158,10 +158,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Story_of_our_Founders"
-                  >開疆闢土</nuxt-link
-                >
+              <div class="unititle2">
+                開疆闢土
               </div>
             </td>
           </tr>

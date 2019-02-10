@@ -147,10 +147,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/An_Unlikely_Messiah"
-                  >一個不太可能的彌賽亞</nuxt-link
-                >
+              <div class="unititle2">
+                一個不太可能的彌賽亞
               </div>
             </td>
           </tr>

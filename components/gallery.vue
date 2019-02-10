@@ -34,6 +34,7 @@ export default {
     width: auto;
     min-width: 300px;
     margin: 0 auto;
+    max-width: 100%;
   }
   
   @media (min-width: 992px) {

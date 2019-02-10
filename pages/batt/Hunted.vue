@@ -162,8 +162,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Hunted">亡命之徒（擒獲）</nuxt-link>
+              <div class="unititle2">
+                亡命之徒（擒獲）
               </div>
             </td>
           </tr>

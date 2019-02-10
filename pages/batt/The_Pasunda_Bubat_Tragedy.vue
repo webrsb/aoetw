@@ -157,8 +157,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Serving_the_New_King">風雲變色</nuxt-link>
+              <div class="unititle2">
+                風雲變色
               </div>
             </td>
           </tr>

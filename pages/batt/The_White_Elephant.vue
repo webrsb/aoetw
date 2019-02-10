@@ -153,8 +153,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_White_Elephant">白象化身</nuxt-link>
+              <div class="unititle2">
+                白象化身
               </div>
             </td>
           </tr>

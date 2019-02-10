@@ -175,10 +175,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
-                  >條條大路通圍城</nuxt-link
-                >
+              <div class="unititle2">
+                條條大路通圍城
               </div>
             </td>
           </tr>

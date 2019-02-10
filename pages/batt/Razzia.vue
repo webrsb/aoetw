@@ -148,8 +148,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Razzia">突襲（風捲殘雲）</nuxt-link>
+              <div class="unititle2">
+                突襲（風捲殘雲）
               </div>
             </td>
           </tr>

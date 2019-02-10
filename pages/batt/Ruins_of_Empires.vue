@@ -253,8 +253,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>
+              <div class="unititle2">
+                帝國的廢墟
               </div>
             </td>
           </tr>

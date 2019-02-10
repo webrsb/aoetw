@@ -199,10 +199,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Blood_on_the_River_Bank"
-                  >血濺河灘</nuxt-link
-                >
+              <div class="unititle2">
+                血濺河灘
               </div>
             </td>
           </tr>
@@ -254,7 +252,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Lion's_Den">深入虎穴</nuxt-link>
+              <nuxt-link to="/batt/The_Lions_Den">深入虎穴</nuxt-link>
             </td>
           </tr>
         </table>

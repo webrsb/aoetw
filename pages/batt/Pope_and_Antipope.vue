@@ -113,10 +113,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Pope_and_Antipope"
-                  >教皇與僭稱教皇</nuxt-link
-                >
+              <div class="unititle2">
+                教皇與僭稱教皇
               </div>
             </td>
           </tr>
