@@ -30,7 +30,7 @@
                 ><img
                   width="100"
                   src="~assets/u1.jpg"
-                  alt="..."
+                  alt="文明"
                   class="img-circle"
               /></nuxt-link>
             </div>
@@ -43,7 +43,7 @@
                 ><img
                   width="100"
                   src="~assets/u2.jpg"
-                  alt="..."
+                  alt="單位"
                   class="img-circle"
               /></nuxt-link>
             </div>
@@ -56,7 +56,7 @@
                 ><img
                   width="100"
                   src="~assets/u3.jpg"
-                  alt="..."
+                  alt="科技"
                   class="img-circle"
               /></nuxt-link>
             </div>
@@ -64,12 +64,12 @@
               class="col-sm-4 col-md-3 col-xs-6 ititle"
               style="text-align: center;"
             >
-              <h3><nuxt-link to="/bulding">建築</nuxt-link></h3>
-              <nuxt-link to="/bulding"
+              <h3><nuxt-link to="/building">建築</nuxt-link></h3>
+              <nuxt-link to="/building"
                 ><img
                   width="100"
                   src="~assets/u4.jpg"
-                  alt="..."
+                  alt="建築"
                   class="img-circle"
               /></nuxt-link>
             </div>
@@ -82,7 +82,7 @@
                 ><img
                   width="100"
                   src="~assets/u5.jpg"
-                  alt="..."
+                  alt="戰役"
                   class="img-circle"
               /></nuxt-link>
             </div>
@@ -95,7 +95,7 @@
                 ><img
                   width="100"
                   src="~assets/u6.jpg"
-                  alt="..."
+                  alt="戰術技巧"
                   class="img-circle"
               /></nuxt-link>
             </div>
@@ -108,7 +108,7 @@
                 ><img
                   width="100"
                   src="~assets/u7.jpg"
-                  alt="..."
+                  alt="討論區"
                   class="img-circle"
               /></nuxt-link>
             </div>
@@ -121,7 +121,7 @@
                 ><img
                   width="100"
                   src="~assets/u8.jpg"
-                  alt="..."
+                  alt="工作人員"
                   class="img-circle"
               /></nuxt-link>
             </div>

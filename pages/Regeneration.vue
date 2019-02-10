@@ -54,7 +54,7 @@
                 >駱駝騎兵</nuxt-link
               >每分鐘回血15HP、<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >每4秒回血1HP（需先研發<nuxt-link to="/units/Maghrabi_Camels"
+              >每4秒回血1HP（需先研發<nuxt-link to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
               >科技）
             </li>

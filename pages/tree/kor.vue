@@ -141,7 +141,7 @@
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
             </td>
             <td class="t19 trm">
-              <img class="gg" src="~assets/ArcherIcon.jpg" />><nuxt-link
+              <img class="gg" src="~assets/ArcherIcon.jpg" /><nuxt-link
                 to="/units/Archer"
                 >弓兵</nuxt-link
               >

@@ -44,7 +44,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">>騎士精神</div>
+              <div class="unititle2">騎士精神</div>
             </td>
           </tr>
           <tr>
