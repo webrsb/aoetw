@@ -70,9 +70,8 @@
               >
             </li>
             <li>
-              運輸船<nuxt-link to="/units/Transport_Ship"
-                >能不能載運動物</nuxt-link
-              >？如綿羊。
+              <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+              >能不能載運動物？如綿羊。
             </li>
             <li>
               為什麼有更多大象的非洲文明，卻<nuxt-link

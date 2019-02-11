@@ -59,7 +59,7 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場：</dt>
-            <dd>12位村民、14位長槍兵、6位矛兵、4位馬騎弓兵、1台輕型投石車。</dd>
+            <dd>12位村民、14位長槍兵、6位矛兵、4位馬弓騎兵、1台輕型投石車。</dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
           </dl>
@@ -93,8 +93,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>
+              <div class="unititle2">
+                海丁的號角
               </div>
             </td>
           </tr>
@@ -140,7 +140,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Horns_of_Hattin">阿拉伯之主</nuxt-link>
+              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -54,12 +54,12 @@
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
-              <div><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link></div>
+              <div><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
               <img class="gg" src="~assets/Tracking.jpg" alt="" />
-              <div><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link></div>
+              <div><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link></div>
             </td>
             <td class="t19 trm"></td>
           </tr>
@@ -114,7 +114,7 @@
             <td class="t19 trm not">
               <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="" />
               <div>
-                <nuxt-link to="/units/Eagle_Warrior">精銳鷹勇士</nuxt-link>
+                <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>
               </div>
             </td>
             <td class="t19 trm not">
@@ -492,7 +492,7 @@
                 alt=""
               />
               <div>
-                <nuxt-link to="/units/Rattan_Archer">藤甲弓兵 </nuxt-link>
+                <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i>
             </td>
@@ -527,7 +527,7 @@
                 alt=""
               />
               <div>
-                <nuxt-link to="/units/Rattan_Archer">精銳藤甲弓兵 </nuxt-link>
+                <nuxt-link to="/units/Rattan_Archer">精銳藤甲弓兵</nuxt-link>
               </div>
             </td>
             <td class="t13 trm">
@@ -645,7 +645,7 @@
             </td>
             <td class="t23 trm">
               <img class="gg" src="~assets/Handcart.jpg" alt="" />
-              <div><nuxt-link to="/techs/Handcart">手推車</nuxt-link></div>
+              <div><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
           </tr>
@@ -904,7 +904,7 @@
             </td>
             <td class="t10 trm">
               <img class="gg" src="~assets/WarGalley.jpg" />
-              <div><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link></div>
+              <div><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm not">
@@ -964,30 +964,30 @@
             </td>
             <td class="t10 trm">
               <img class="gg" src="~assets/GalleonAoE2.jpg" />
-              <div><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link></div>
+              <div><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link></div>
             </td>
             <td class="t10 trm not">
               <img class="gg" src="~assets/LongboatIcon.jpg" />
               <div>
-                <nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link>
+                <nuxt-link to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link>
               </div>
             </td>
             <td class="t10 trm not">
               <img class="gg" src="~assets/TurtleShipIcon.jpg" />
               <div>
-                <nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>
+                <nuxt-link to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link>
               </div>
             </td>
             <td class="t10 trm not">
               <img class="gg" src="~assets/CaravelIcon2.jpg" />
               <div>
-                <nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link>
+                <nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link>
               </div>
             </td>
             <td class="t10 trm">
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" />
               <div>
-                <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>
+                <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i><br /><img
                 class="gg"
@@ -995,7 +995,7 @@
               />
               <div>
                 <nuxt-link to="/units/Elite_Cannon_Galleon"
-                  >精銳火炮戰船</nuxt-link
+                  >精銳火砲戰船</nuxt-link
                 >
               </div>
             </td>
@@ -1124,7 +1124,7 @@
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/Blastfurnace.jpg" alt="" />
-              <div><nuxt-link to="/techs/Blast_Furnace">鐵風爐</nuxt-link></div>
+              <div><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link></div>
             </td>
             <td class="t19 trm">
               <img class="gg" src="~assets/Platebardingarmor.jpg" alt="" />

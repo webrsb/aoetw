@@ -19,7 +19,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">奧斯曼</nuxt-link></div>
+              <div class="unititle2">
+                奧斯曼
+              </div>
             </td>
           </tr>
           <tr>
@@ -57,7 +59,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">+10對一般建築物 <br />+6對槍兵類</td>
+            <td class="unit4">+10對標準建築 <br />+6對槍兵類</td>
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>

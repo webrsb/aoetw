@@ -58,7 +58,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+              /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
               >:為馬來的特殊單位。是遊戲裡只佔半個人口的的單位，便宜/快速的單位，缺點是過於脆弱。
             </li>
             <li>
@@ -74,7 +74,7 @@
                 class="gg"
                 src="~assets/Imperialskirmishericon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Skirmisher">帝王戰茅兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
               >:帝王戰矛兵是越南第二個特殊單位，可以在射箭場訓練，是戰矛兵的升級，是一個反弓箭手的遠程單位。
             </li>
           </ul>
@@ -111,7 +111,7 @@
             >:曾經有一位拉闍想把四分五裂的國家重新統一起來，但由於有內奸背叛，他未竟的使命要由他最忠誠的侍衛來完成。有沒有可能，讓一位將領繼承王位，並建立起東南亞歷史上最大的國家？
           </li>
           <li>
-            <nuxt-link to="/untis/Le_Loi">黎利</nuxt-link
+            <nuxt-link to="/units/hero/Le_Loi">黎利</nuxt-link
             >:當大越陷於內亂紛爭之際，明朝趁虛而入佔據了整片地區。而今，想要重獲獨立自由，就要依靠一個人
             －
             一位名叫黎利的有志貴族青年。他能否平息內鬥，抵抗明朝大軍並帶領大越再次獨立？
@@ -122,8 +122,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#356a98">
-              <div class="unititle">
-                <nuxt-link to="">世紀帝國II：王者崛起</nuxt-link>
+              <div class="unititle2">
+                世紀帝國II：王者崛起
               </div>
             </td>
           </tr>

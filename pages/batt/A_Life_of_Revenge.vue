@@ -57,7 +57,7 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位:</dt>
-            <dd>5位輕騎兵、2位駱駝騎兵、4位馬騎弓兵。</dd>
+            <dd>5位輕騎兵、2位駱駝騎兵、4位馬弓騎兵。</dd>
             <dt>大地之母單位:</dt>
             <dd>無</dd>
           </dl>
@@ -96,8 +96,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="">復仇的人生</nuxt-link>
+              <div class="unititle2">
+                復仇的人生
               </div>
             </td>
           </tr>

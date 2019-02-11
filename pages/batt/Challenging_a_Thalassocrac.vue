@@ -92,7 +92,7 @@
                 打下地圖中央島嶼能夠讓你搶奪上面的豐富礦產（黃金與石頭）。
               </li>
               <li>
-                大部分陸地都靠近沿海，因此用火炮戰艦進行岸轟可以協助你清除敵方防禦工事。
+                大部分陸地都靠近沿海，因此用火砲戰艦進行岸轟可以協助你清除敵方防禦工事。
               </li>
               <li>
                 要隨時注意海上的戰況以及突發事件，如果援軍遲遲不來，前線陣地也很難堅守。
@@ -147,10 +147,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Challenging_a_Thalassocrac"
-                  >滔天巨浪</nuxt-link
-                >
+              <div class="unititle2">
+                滔天巨浪
               </div>
             </td>
           </tr>
@@ -175,7 +173,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link>
+              <nuxt-link to="/batt/Suryavarman_I">蘇利耶跋摩一世</nuxt-link>
             </td>
           </tr>
           <tr>

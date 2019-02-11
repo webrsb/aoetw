@@ -18,23 +18,25 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Wood_line.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Wood_line.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>中間的樹林是雙方玩家最初的防線。</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Resources.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Resources.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em>地圖外圍會有由金，石頭和木頭組成的小塊區域等玩家去發掘。</em>
             </p>

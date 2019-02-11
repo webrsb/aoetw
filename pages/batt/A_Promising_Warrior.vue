@@ -151,7 +151,7 @@
             </ul>
           </div>
         </div>
-        <h2>斥侯回報</h2>
+        <h2>斥候回報</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -171,8 +171,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link>
+              <div class="unititle2">
+                英雄出少年
               </div>
             </td>
           </tr>

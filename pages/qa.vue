@@ -75,7 +75,7 @@
                         title="印加"
                         >印加</nuxt-link
                       >，<nuxt-link to="/civs/Magyars" title="匈牙利歷史"
-                        >馬札爾</nuxt-link
+                        >馬扎爾</nuxt-link
                       >，<nuxt-link
                         to="/civs/Slavs"
                         class="mw-redirect"
@@ -95,14 +95,14 @@
                       <nuxt-link
                         to="/civs/Berbers"
                         class="mw-redirect"
-                        title="柏柏爾"
-                        >柏柏爾</nuxt-link
+                        title="柏柏"
+                        >柏柏</nuxt-link
                       >，
                       <nuxt-link
                         to="/civs/Malians"
                         class="mw-redirect"
-                        title="馬里"
-                        >馬里</nuxt-link
+                        title="馬利"
+                        >馬利</nuxt-link
                       >，<nuxt-link
                         to="/civs/Ethiopians"
                         class="mw-redirect"
@@ -405,10 +405,9 @@
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.c-3 class="m-1" variant="success"
+          <b-btn v-b-toggle.a-2 class="m-1" variant="success"
             >1-2.世紀帝國2 HD版要如何購買？怎麼玩？</b-btn
           >
-          <b-collapse id="c-3"> <div class="well">.</div> </b-collapse>
         </div>
       </div>
       <h3>4.遊戲戰術相關</h3>
@@ -445,7 +444,7 @@
           >
           <b-collapse id="d-2">
             <div class="well">
-              表面上被偷豬不計耗損，損失340肉，而對方賺340肉，但實際上靠趕鹿早點種田等方式，其實損失沒有帳面上如此大，高手即使被偷豬升級也不會被影響。但偷豬還有隱形的損失，且隱形的損失遠大於帳面上，譬如說偷豬的那一方多吃一隻豬，等於斥侯趕了2隻半的鹿，代表他不用提早種田，有多餘的木頭可以做更多的事情，被偷豬的那一方斥侯得在家趕鹿，所以沒有辦法探情報，對方如果打裝甲塔還是前置等兇猛的打法，沒辦法提早做準備，這是最虧的。
+              表面上被偷豬不計耗損，損失340肉，而對方賺340肉，但實際上靠趕鹿早點種田等方式，其實損失沒有帳面上如此大，高手即使被偷豬升級也不會被影響。但偷豬還有隱形的損失，且隱形的損失遠大於帳面上，譬如說偷豬的那一方多吃一隻豬，等於斥候趕了2隻半的鹿，代表他不用提早種田，有多餘的木頭可以做更多的事情，被偷豬的那一方斥候得在家趕鹿，所以沒有辦法探情報，對方如果打裝甲塔還是前置等兇猛的打法，沒辦法提早做準備，這是最虧的。
             </div>
           </b-collapse>
         </div>

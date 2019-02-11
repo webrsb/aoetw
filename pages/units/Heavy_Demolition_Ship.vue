@@ -38,9 +38,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -75,9 +73,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -206,7 +202,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -243,14 +239,14 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -261,7 +257,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
@@ -291,7 +287,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -306,7 +302,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -314,10 +310,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -353,7 +347,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -361,7 +355,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -472,7 +466,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+11攻擊</strong></div>
@@ -482,7 +476,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -494,7 +488,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -574,7 +568,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aok">世紀帝國</nuxt-link></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>重型神風船有60的HP。</li>
@@ -635,8 +629,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                <nuxt-link to="">重型神風船</nuxt-link>
+              <div class="unititle2">
+                重型神風船
               </div>
             </td>
           </tr>
@@ -649,7 +643,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link></div>
+              <div class="unititle2">單位介紹</div>
             </td>
           </tr>
           <tr>
@@ -690,7 +684,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

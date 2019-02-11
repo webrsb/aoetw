@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            韃靼騎兵是<nuxt-link to="/Huns">匈奴</nuxt-link
+            韃靼騎兵是<nuxt-link to="/civs/Huns">匈奴</nuxt-link
             >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >的城堡中訓練，當研發特殊科技
@@ -87,7 +87,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -197,7 +197,7 @@
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Marauders">征服者</nuxt-link>:<nuxt-link
+              /><nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>:<nuxt-link
                 to="/building/Stable"
                 >馬廄</nuxt-link
               >可生產韃靼騎兵。
@@ -477,7 +477,7 @@
                 >裡訓練的韃靼騎兵訓練時間快20%，
                 <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>與<nuxt-link
                   to="/techs/Husbandry"
-                  >畜牧技術</nuxt-link
+                  >畜牧培育</nuxt-link
                 >研發快20%。
               </li>
               <li>
@@ -538,7 +538,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">韃靼騎兵 </nuxt-link></div>
+              <div class="unititle2">
+                韃靼騎兵
+              </div>
             </td>
           </tr>
           <tr>
@@ -550,7 +552,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link></div>
+              <div class="unititle2">單位介紹</div>
             </td>
           </tr>
           <tr>
@@ -561,7 +563,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><nuxt-link to="/Huns">匈奴</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -594,7 +596,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -622,7 +624,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +12對<nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石材建築類</nuxt-link
+                >石頭建築</nuxt-link
               >
               <br />+10對<nuxt-link to="/armor/Armor_Class_Castle"
                 >城堡</nuxt-link
@@ -631,7 +633,7 @@
                 >建築類</nuxt-link
               >
               <br />+8/+10(精銳)對<nuxt-link
-                to="/Armor_Class_Wall_and_building/Gate"
+                to="/armor/Armor_Class_wall_and_gate"
                 >城牆和城門</nuxt-link
               >
             </td>
@@ -674,7 +676,7 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
-                to="/units/Elite_Tarkan"
+                to="/units/Tarkan"
                 >精銳韃靼騎兵</nuxt-link
               >
             </td>

@@ -124,7 +124,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle"><nuxt-link to="">阿茲特克</nuxt-link></div>
+              <div class="unititle2">
+                阿茲特克
+              </div>
             </td>
           </tr>
           <tr>
@@ -170,7 +172,7 @@
               >
               <br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="~assets/techs/Garland_Wars"
+                to="/techs/Garland_Wars"
                 >榮冠戰爭</nuxt-link
               >
             </td>

@@ -30,7 +30,7 @@
               熱那亞弩手是一個能對付騎兵的弓箭手。即使是強大的大象單位（如<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >和<nuxt-link to="/units/Ballista_Elephant">矛象伕</nuxt-link
+              >和<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
               >）在面對大量熱那亞弩手的時候也毫無招架之力，不過在面對
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
               ><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
@@ -42,7 +42,7 @@
                 >騎士</nuxt-link
               >以及<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >。有一定數量後也可對付一些較弱的弓兵單位，不過
-              <nuxt-link to="/units/Rattan_Archer">藤甲弓手</nuxt-link
+              <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
               >和<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >還是能贏過他們的。騎兵部隊仍然可以在一對一的戰鬥中擊敗熱那亞弩手。
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link
@@ -61,12 +61,12 @@
               >配合讓敵人變成砲灰。
             </li>
             <li>
-              熱那亞弩兵對各種艦船也有攻擊加成。事實上，兩名精銳熱那亞弩手就能擊沉一艘完全升級的<nuxt-link
+              熱那亞弩手對各種艦船也有攻擊加成。事實上，兩名精銳熱那亞弩手就能擊沉一艘完全升級的<nuxt-link
                 to="/units/Galleon"
-                >重型弩炮戰船</nuxt-link
+                >重型弩砲戰船</nuxt-link
               >，而擊沉同一艘船則需要十名
               <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
-              >，這使得熱那亞弩兵能夠很好地防禦沿海襲擊。
+              >，這使得熱那亞弩手能夠很好地防禦沿海襲擊。
             </li>
             <li>
               與大多數單位相反，熱那亞弩手在升級時獲得更快的攻擊速率。開火速率從3.05秒/次
@@ -87,7 +87,7 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Cavalry_Archer">馬騎弓兵</nuxt-link>、
+              >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>、
               <nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link>。
             </td>
           </tr>
@@ -95,7 +95,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >、
@@ -387,7 +387,7 @@
               >、<nuxt-link to="/techs/Pavise">巨盾</nuxt-link>的研究時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：熱那亞弩手視野+2。。
             </li>
             <li>
@@ -399,7 +399,7 @@
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >：熱那亞弩手對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>
@@ -569,8 +569,8 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵攻擊</nuxt-link
-              >+5/+7(精銳) <br />對<nuxt-link
+              對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >攻擊+5/+7(精銳) <br />對<nuxt-link
                 to="/armor/Armor_Class_War_Elephant"
                 >戰象</nuxt-link
               >+5/+7(精銳) <br />對<nuxt-link to="/armor/Armor_Class_Camel"

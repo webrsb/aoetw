@@ -20,7 +20,7 @@
             歷史上他們木工與金屬加工的優異，因而提高了攻城器製造所工作效率/伐木速度/攻城武器的精良，因離英格蘭很近在牧羊技術上也有相當的程度使得羊不易被順手牽走。
           </p>
           <p>
-            賽爾特的後代與英格蘭、愛爾蘭、塞爾特..等文明組成了現今的英國(大不列顛與北愛爾蘭聯合王國)。
+            賽爾特的後代與英格蘭、愛爾蘭、賽爾特..等文明組成了現今的英國(大不列顛與北愛爾蘭聯合王國)。
           </p>
         </div>
       </div>
@@ -28,7 +28,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle"><nuxt-link to="">賽爾特</nuxt-link></div>
+              <div class="unititle2">
+                賽爾特
+              </div>
             </td>
           </tr>
           <tr>
@@ -41,7 +43,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>

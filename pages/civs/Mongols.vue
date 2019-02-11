@@ -23,13 +23,13 @@
             >與攻城武器，除沒有
             <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
             >，他們還有完整的步兵科技，而除了
-            <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+            <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >之外，他們也有所有的攻城武器。這意味著蒙古人在遊戲中可以使用成群的馬弓騎兵與<nuxt-link
               to="/units/Champion"
               >劍兵勇士</nuxt-link
             >和
             <nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
-            >。蒙古突騎也是相當致命兵種。總體來說，蒙古人擅長游擊與迅速的破壞，然而他們的防守也有些欠缺。因為他們的箭塔只能升級一次，以及不能蓋火炮塔。但蒙古人也有
+            >。蒙古突騎也是相當致命兵種。總體來說，蒙古人擅長游擊與迅速的破壞，然而他們的防守也有些欠缺。因為他們的箭塔只能升級一次，以及不能蓋火砲塔。但蒙古人也有
             <nuxt-link to="/units/Camel">駱駝</nuxt-link
             >，是除了中國人與非洲中東文明外，唯二有駱駝的。
           </p>
@@ -176,7 +176,7 @@
               <nuxt-link to="/techs/Nomads">游牧</nuxt-link> <br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
                 to="/techs/Drill"
-                >鑿岩機</nuxt-link
+                >演習</nuxt-link
               >
             </td>
           </tr>

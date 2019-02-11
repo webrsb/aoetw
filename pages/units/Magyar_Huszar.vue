@@ -2,29 +2,29 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>馬札爾驃騎兵</h1>
+        <h1>馬扎爾驃騎兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬札爾驃騎兵是<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+            馬扎爾驃騎兵是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
             >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。馬札爾驃騎兵是輕型快速的騎兵部隊對<nuxt-link
+            >中訓練。馬扎爾驃騎兵是輕型快速的騎兵部隊對<nuxt-link
               to="/units/Siege_Weapons"
               >攻城器單位</nuxt-link
             >有加成傷害。
           </p>
           <p>
-            馬札爾驃騎兵雖貴為城堡兵但是在城堡時代時研發<nuxt-link
+            馬扎爾驃騎兵雖貴為城堡兵但是在城堡時代時研發<nuxt-link
               to="/techs/Mercenaries"
               >雇傭兵</nuxt-link
-            >後即不需要黃金因此被稱為是垃圾兵，值得一提馬札爾驃騎兵跟騎士是差不多威力的。馬札爾驃騎兵可以在
+            >後即不需要黃金因此被稱為是垃圾兵，值得一提馬扎爾驃騎兵跟騎士是差不多威力的。馬扎爾驃騎兵可以在
             <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >升級為精銳馬札爾驃騎兵。
+            >升級為精銳馬扎爾驃騎兵。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -32,11 +32,11 @@
         <div class="n1">
           <ul>
             <li>
-              馬札爾驃騎兵不需要黃金(需研發<nuxt-link to="/techs/Mercenaries"
+              馬扎爾驃騎兵不需要黃金(需研發<nuxt-link to="/techs/Mercenaries"
                 >雇傭兵</nuxt-link
               >)整體相對其他城堡兵便宜，所以在<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
-              >多時量產上不是問題，移動和攻擊速度又快又有對攻城器單位加成，因此在對攻城器單位上是很理想的兵種，另外馬札爾驃騎兵整體又跟
+              >多時量產上不是問題，移動和攻擊速度又快又有對攻城器單位加成，因此在對攻城器單位上是很理想的兵種，另外馬扎爾驃騎兵整體又跟
               <nuxt-link to="/units/Knight">騎士</nuxt-link
               >差不多，且訓練快速因此在<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
@@ -44,7 +44,7 @@
               >(匈牙利輕騎兵)變的很多餘。
             </li>
             <li>
-              馬札爾驃騎兵搭配馬扎爾馬弓騎兵是一大強力組合，馬札爾驃騎兵只需要肉(需研發<nuxt-link
+              馬扎爾驃騎兵搭配馬扎爾馬弓騎兵是一大強力組合，馬扎爾驃騎兵只需要肉(需研發<nuxt-link
                 to="/techs/Mercenaries"
                 >雇傭兵</nuxt-link
               >)
@@ -52,16 +52,16 @@
               >需要黃金/木材，因此在資源使用上無衝突，<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >又怕攻城器單位而馬札爾驃騎兵又對攻城器單位有加成傷害，再者
+              >又怕攻城器單位而馬扎爾驃騎兵又對攻城器單位有加成傷害，再者
               <nuxt-link to="/units/Spearman">槍兵</nuxt-link
               >系本身又懼怕遠距離攻擊，因此這種配兵在馬扎爾裡屬於上選。
             </li>
             <li>
-              馬札爾驃騎兵雖然在近戰上幾乎能不打贏任何單位，但是在考慮到成本上馬札爾驃騎兵還是相對有成本優勢。
+              馬扎爾驃騎兵雖然在近戰上幾乎能不打贏任何單位，但是在考慮到成本上馬扎爾驃騎兵還是相對有成本優勢。
             </li>
             <li>
-              馬札爾驃騎兵幾本上在<nuxt-link to="/civs/Magyars"
-                >馬札爾</nuxt-link
+              馬扎爾驃騎兵幾本上在<nuxt-link to="/civs/Magyars"
+                >馬扎爾</nuxt-link
               >文明裡近乎完全取代了<nuxt-link to="/units/Hussar"
                 >翼騎兵</nuxt-link
               >(匈牙利輕騎兵)，但是對
@@ -96,7 +96,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
-                to="/units/Spearman"
+                to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
               >、<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、
               <nuxt-link to="/units/Berserk">狂戰士</nuxt-link>、<nuxt-link
@@ -217,15 +217,15 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
-              >(訓練馬札爾驃騎兵不需要黃金)
+              >(訓練馬扎爾驃騎兵不需要黃金)
             </td>
           </tr>
         </table>
 
-        <h3>剋馬札爾驃騎兵的單位與建築</h3>
+        <h3>剋馬扎爾驃騎兵的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對馬札爾驃騎兵的額外傷害，按照傷殺力排列。
+          以下單位擁有對馬扎爾驃騎兵的額外傷害，按照傷殺力排列。
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
@@ -409,7 +409,7 @@
                 </ul>
               </div>
             </div>
-            以下技術可讓以下單位對馬札爾驃騎兵有額外攻擊力
+            以下技術可讓以下單位對馬扎爾驃騎兵有額外攻擊力
             <div class="n1">
               <img
                 class="gg"
@@ -498,18 +498,18 @@
               >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >、
               <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
-              >的研究時間，以及在城堡裡訓練馬札爾驃騎兵的速度(都快25%)。
+              >的研究時間，以及在城堡裡訓練馬扎爾驃騎兵的速度(都快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：馬札爾驃騎兵對僧侶抵抗力更強。
+              >：馬扎爾驃騎兵對僧侶抵抗力更強。
             </li>
           </ul>
         </div>
@@ -517,14 +517,58 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>馬札爾驃騎兵也被稱為蒙古突騎近戰型。</li>
+            <li>馬扎爾驃騎兵也被稱為蒙古突騎近戰型。</li>
             <li>
-              馬札爾驃騎兵因為功能上和生產成本跟肉馬一樣被稱為進階版肉馬。
+              馬扎爾驃騎兵因為功能上和生產成本跟肉馬一樣被稱為進階版肉馬。
             </li>
             <li>
               翼騎兵舊稱匈牙利輕騎兵馬扎爾城堡兵研發科技後也只需要80肉也比翼騎兵強名副其實的匈牙利輕騎兵。
             </li>
           </ul>
+        </div>
+
+        <div class="col-md-12">
+          <h3>圖庫</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <div class="col-md-12">
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    src="~assets/AoF_Magyar_Huszar_All_Angles.jpg"
+                    alt=""
+                /></gallery>
+                <p><em>一群馬扎爾驃騎兵。</em></p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/A.png" alt=""
+                /></gallery>
+                <p><em>4.4版的馬扎爾驃騎兵。</em></p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    src="~assets/Maygar_Huszar_Old.png"
+                    alt=""
+                /></gallery>
+                <p><em>2.2版前的馬扎爾驃騎兵。</em></p>
+              </div>
+              <div class="col-md-12">
+                <div class="col-md-4">
+                  <gallery
+                    ><img
+                      class="imgn hg"
+                      src="~assets/Magyar_Huszar_Concept_Art.jpg"
+                      alt=""
+                  /></gallery>
+                  <p><em>真實世界的馬扎爾驃騎兵的畫。</em></p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
@@ -535,7 +579,7 @@
               colspan="2"
               style="background-color:#3c763d;text-align: center;"
             >
-              <div class="unititle" style="color: #fff">馬札爾驃騎兵</div>
+              <div class="unititle" style="color: #fff">馬扎爾驃騎兵</div>
             </td>
           </tr>
           <tr>
@@ -650,7 +694,7 @@
           <tr>
             <td class="unit3">裝甲類型</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
@@ -676,7 +720,7 @@
                 class="gg"
                 src="~assets/Magyar_Huszar_icon.jpg"
                 alt=""
-              />精銳馬札爾驃騎兵
+              />精銳馬扎爾驃騎兵
             </td>
           </tr>
           <tr>
@@ -696,49 +740,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由熊協助編輯</div>
-        <div class="col-md-12">
-          <h3>圖庫</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <div class="col-md-12">
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    src="~assets/AoF_Magyar_Huszar_All_Angles.jpg"
-                    alt=""
-                /></gallery>
-                <p><em>一群馬札爾驃騎兵。</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/A.png" alt=""
-                /></gallery>
-                <p><em>4.4版的馬札爾驃騎兵。</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    src="~assets/Maygar_Huszar_Old.png"
-                    alt=""
-                /></gallery>
-                <p><em>2.2版前的馬札爾驃騎兵。</em></p>
-              </div>
-              <div class="col-md-12">
-                <div class="col-md-4">
-                  <gallery
-                    ><img
-                      class="imgn hg"
-                      src="~assets/Magyar_Huszar_Concept_Art.jpg"
-                      alt=""
-                  /></gallery>
-                  <p><em>真實世界的馬札爾驃騎兵的畫。</em></p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

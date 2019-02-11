@@ -116,7 +116,7 @@
             </li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -167,10 +167,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/An_End_and_a_Beginning"
-                  >始兮終兮</nuxt-link
-                >
+              <div class="unititle2">
+                始兮終兮
               </div>
             </td>
           </tr>

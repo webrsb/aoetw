@@ -40,7 +40,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/Armor_Class_Infantry">步兵</nuxt-link
+              <nuxt-link to=/armor/Armor_Class_Infantry">步兵</nuxt-link
               ><br /><nuxt-link to="/units/Hero">英雄</nuxt-link>
             </td>
           </tr>
@@ -67,7 +67,7 @@
               對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
-              +5 <br />對<nuxt-link to="/Armor_Class__building.php"
+              +5 <br />對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >
               +2 <br />
@@ -90,8 +90,8 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <nuxt-link to="/Armor_Class_Infantry">步兵</nuxt-link>
-              <br /><nuxt-link to="/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
               <br />

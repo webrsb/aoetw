@@ -12,7 +12,7 @@
           </p>
           <p>當石牆升級成垛牆時，城門也會升級生命值從2700變成4000。</p>
           <p>
-            城門除了哥德之外的所有文明都可以使用，垛牆和升級過的城門除了哥德、匈奴、馬札爾、馬來和波斯以外的文明都可以使用。
+            城門除了哥德之外的所有文明都可以使用，垛牆和升級過的城門除了哥德、匈奴、馬扎爾、馬來和波斯以外的文明都可以使用。
           </p>
           <p>
             城門在友方單位靠近時會自動開啟讓他們通過，並在門下沒有任何單位時(我方或敵方)關上。為了避免敵方單位尾隨友方單位進門後佔住城門變成防守漏洞，可以將城門鎖定(可再次解鎖)；然而阻擋敵方單位時我方單位也無法通過該城門。
@@ -59,7 +59,7 @@
               <p>
                 <img src="~assets/Faith.jpg" width="30" alt="" /><nuxt-link
                   to="/techs/Treadmill_Crane"
-                  >踏輪起重機</nuxt-link
+                  >滑輪起重機</nuxt-link
                 >(+20%工作效率)
               </p>
             </td>
@@ -96,7 +96,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：研究踏輪起重機團隊速度提高80%。
+              >：研究滑輪起重機團隊速度提高80%。
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：城門便宜50%</li>
           </ul>
@@ -106,7 +106,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">城門</nuxt-link></div>
+              <div class="unititle2">
+                城門
+              </div>
             </td>
           </tr>
           <tr>
@@ -118,7 +120,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>
@@ -143,7 +145,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

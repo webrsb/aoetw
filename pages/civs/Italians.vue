@@ -59,7 +59,7 @@
               <img
                 class="gg"
                 src="~assets/CondottieroNewIcon.jpg"
-              />僱傭兵:義大利的第二種特殊單位，能夠在帝王時代的兵營中訓練。任何與義大利同盟的國家都能生產。
+              />僱傭兵:義大利的第二種特殊單位，能夠在帝王時代的軍營中訓練。任何與義大利同盟的國家都能生產。
             </li>
           </ul>
           <h3>特殊科技</h3>
@@ -108,7 +108,7 @@
             <li>僱傭兵不再需要城堡。</li>
             <li>僱傭兵+1攻擊與+0.2的速度。</li>
             <li>有了匈牙利輕騎兵。</li>
-            <li>弓箭手都受益於巨盾，而不再只有熱那亞弩兵。</li>
+            <li>弓箭手都受益於巨盾，而不再只有熱那亞弩手。</li>
             <li>巨盾成本從550f/300g變成300f/150g。</li>
           </ul>
           <h3>
@@ -162,7 +162,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle"><nuxt-link to="">義大利</nuxt-link></div>
+              <div class="unititle2">
+                義大利
+              </div>
             </td>
           </tr>
           <tr>
@@ -184,7 +186,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#e6992c;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>

@@ -66,9 +66,9 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>4位輕騎兵、6位馬騎弓兵。</dd>
+            <dd>4位輕騎兵、6位馬弓騎兵。</dd>
             <dt>大地之母單位：</dt>
-            <dd>6位村民、6台火炮、1台輕型投石車、1台輕型衝撞車、1艘運輸船。</dd>
+            <dd>6位村民、6台火砲、1台輕型投石車、1台輕型衝撞車、1艘運輸船。</dd>
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
@@ -128,8 +128,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>
+              <div class="unititle2">
+                進入中國
               </div>
             </td>
           </tr>

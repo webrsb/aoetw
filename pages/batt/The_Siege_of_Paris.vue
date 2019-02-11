@@ -46,8 +46,8 @@
 
         <h2>戰役說明</h2>
         <div class="hrn1"></div>
-        <div class="col-md-12">
-          <div class="col-md-4">
+        <div class="row">
+          <div class="col-md-12">
             <h3>開場設定</h3>
             <ul>
               <li>
@@ -62,7 +62,7 @@
               <li><strong>人口上限：</strong>75</li>
             </ul>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-6">
             <h3>起始單位</h3>
             <ul>
               <li>
@@ -70,7 +70,7 @@
                   class="gg"
                   src="~assets/Joanofarcicon.png"
                   alt=""
-                /><nuxt-link to="/Joan_of_Arc_units/Champion"
+                /><nuxt-link to="/units/hero/Joan_of_Arc_Champion"
                   >聖女貞德</nuxt-link
                 >
               </li>
@@ -140,7 +140,7 @@
               </li>
             </ul>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-6">
             <h3>大地之母</h3>
             <ul>
               <li>
@@ -174,7 +174,7 @@
                   class="gg"
                   src="~assets/HeavyScorpionIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Heavy_Scorpion">重裝弩砲</nuxt-link>*2
+                /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>*2
               </li>
             </ul>
           </div>
@@ -219,8 +219,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>
+              <div class="unititle2">
+                巴黎攻城戰
               </div>
             </td>
           </tr>

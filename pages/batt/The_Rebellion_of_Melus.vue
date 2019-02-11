@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>梅勒斯叛變</h1>
+        <h1>邁勒斯叛變</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>梅勒斯叛變</b>，是帝國時代II
+            <b>邁勒斯叛變</b>，是帝國時代II
             HD：失落的帝國；巴里戰役的第二關。主角是邁克爾(Michael
             Nautikos)正在巴里領主梅勒斯的領導下工作。梅勒斯派邁克爾去附近的倫巴第村莊招募更多士兵來抵抗反叛軍，而倫巴第酋長拒絕了他們的請求。然後，梅勒斯派邁克爾前往布林迪西，向她們的首領施壓要求貢品。回到巴里後，邁克爾知道梅洛斯正在反抗拜占庭帝國，因此邁克爾帶著他的軍隊逃離巴里，從諾曼城國王手中獲得了更多的士兵，並為他們帶來一件遺跡後接管諾曼城鎮卡，之後抵抗並擊退梅勒斯的軍隊。
           </p>
@@ -132,7 +132,7 @@
               <li>邁克爾‧諾蒂卡斯只能到達城堡時代並且不能建造很多防禦工事。</li>
             </ol>
           </div>
-          <h2>斥侯</h2>
+          <h2>斥候</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
@@ -202,10 +202,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Rebellion_of_Melus"
-                  >梅勒斯叛變</nuxt-link
-                >
+              <div class="unititle2">
+                邁勒斯叛變
               </div>
             </td>
           </tr>
@@ -257,7 +255,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Great_Ride">四面楚歌</nuxt-link>
+              <nuxt-link to="/batt/The_Great_Siege">四面楚歌</nuxt-link>
             </td>
           </tr>
         </table>

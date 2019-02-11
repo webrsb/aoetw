@@ -44,7 +44,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
@@ -93,7 +93,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">行會制度</nuxt-link></div>
+              <div class="unititle2">行會制度</div>
             </td>
           </tr>
           <tr>
@@ -105,7 +105,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -130,7 +132,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -143,7 +145,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

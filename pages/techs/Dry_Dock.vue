@@ -30,9 +30,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發文明</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發文明</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -47,7 +45,7 @@
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
@@ -75,9 +73,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發文明</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發文明</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
@@ -116,7 +112,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">旱碼頭</nuxt-link></div>
+              <div class="unititle2">旱碼頭</div>
             </td>
           </tr>
           <tr>
@@ -128,7 +124,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -169,7 +167,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -182,7 +180,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

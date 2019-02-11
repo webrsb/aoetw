@@ -24,9 +24,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -64,14 +62,12 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
@@ -94,7 +90,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aok">世紀帝國</nuxt-link></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>
@@ -115,14 +111,14 @@
             <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
-            <li><nuxt-link to="/civs/Malay">馬利</nuxt-link>:礦井採金免費。</li>
+            <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>:礦井採金免費。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link
               >:在5.7版本後沒有免費的礦井採金了。
             </li>
           </ul>
@@ -139,7 +135,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">礦井採金</nuxt-link></div>
+              <div class="unititle2">礦井採金</div>
             </td>
           </tr>
           <tr>
@@ -151,7 +147,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -193,7 +191,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -206,7 +204,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

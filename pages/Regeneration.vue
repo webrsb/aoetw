@@ -40,7 +40,7 @@
           <h4>再生率</h4>
           <ul>
             <li>
-              <nuxt-link to="/units/heros">英雄</nuxt-link>：每分鐘回血30HP
+              <nuxt-link to="/units/hero">英雄</nuxt-link>：每分鐘回血30HP
             </li>
             <li>
               <nuxt-link to="/units/Berserk">狂戰士</nuxt-link
@@ -54,7 +54,7 @@
                 >駱駝騎兵</nuxt-link
               >每分鐘回血15HP、<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >每4秒回血1HP（需先研發<nuxt-link to="/units/Maghrabi_Camels"
+              >每4秒回血1HP（需先研發<nuxt-link to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
               >科技）
             </li>
@@ -158,7 +158,7 @@
             >
               <div class="unititle">
                 <center>
-                  <nuxt-link to="/units/Vikings">維京</nuxt-link>文明 <br />
+                  <nuxt-link to="/civs/Vikings">維京</nuxt-link>文明 <br />
                   ＊研發<nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link
                   >科技→回血量提升
                 </center>

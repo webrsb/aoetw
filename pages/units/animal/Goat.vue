@@ -35,7 +35,9 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img class="hg" width="200" src="~assets/Aoe2_goat.png" alt="" />
+              <gallery
+                ><img class="hg" width="200" src="~assets/Aoe2_goat.png" alt=""
+              /></gallery>
               <p><em>世紀帝國 II的山羊。</em></p>
             </div>
           </div>
@@ -45,7 +47,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
-              <div class="unititle"><nuxt-link to="">山羊</nuxt-link></div>
+              <div class="unititle2">
+                山羊
+              </div>
             </td>
           </tr>
           <tr>

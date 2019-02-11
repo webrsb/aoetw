@@ -122,7 +122,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">>影響</div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

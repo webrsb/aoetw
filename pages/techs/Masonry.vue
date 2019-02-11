@@ -13,7 +13,7 @@
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發，研發後所有建築(除了
             <nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>和<nuxt-link
-              to="/building/Gateicon_Gate"
+              to="/building/Gate"
               >城門</nuxt-link
             >外)都獲得+10%
             HP、+1近防、+1遠防和+3建築護甲。此科技讓建築更佳堅固及更能抵擋
@@ -49,9 +49,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -94,9 +92,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -156,7 +152,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">磚瓦技術</nuxt-link></div>
+              <div class="unititle2">磚瓦技術</div>
             </td>
           </tr>
           <tr>
@@ -168,7 +164,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -192,7 +190,7 @@
                 class="gg"
                 src="~assets/Universityicon.png"
                 alt=""
-              /><nuxt-link to="/building/Archery_Range">學院</nuxt-link>
+              /><nuxt-link to="/building/University">學院</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -231,8 +229,8 @@
             <td class="unit4">
               研發後所有建築(除了<nuxt-link to="/building/Stone_Wall"
                 >石牆</nuxt-link
-              >和<nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link
-              >外)都獲得+10% HP、+1近防、+1遠防和+3建築護甲。
+              >和<nuxt-link to="/building/Gate">城門</nuxt-link>外)都獲得+10%
+              HP、+1近防、+1遠防和+3建築護甲。
             </td>
           </tr>
         </table>

@@ -26,7 +26,9 @@
           </p>
           <div class="col-md-12">
             <div class="col-md-4">
-              <img class="hg" width="250" src="~assets/Joan3army.png" alt="" />
+              <gallery
+                ><img class="hg" width="250" src="~assets/Joan3army.png" alt=""
+              /></gallery>
               <p>
                 <em
                   >在聖女貞德戰役"羅亞爾河大掃蕩"中一開始的拉海爾和一小群軍隊。</em
@@ -40,7 +42,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">拉海爾</nuxt-link></div>
+              <div class="unititle2">
+                拉海爾
+              </div>
             </td>
           </tr>
           <tr>

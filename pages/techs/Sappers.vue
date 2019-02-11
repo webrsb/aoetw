@@ -8,12 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            坑道工兵可於<nuxt-link to="/techs/age/Castle_Age"
+            坑道工兵可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。可讓村民對
             <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_stone_defense"
-              >石造建築</nuxt-link
+              >石頭建築</nuxt-link
             >攻擊力+15，讓村民能輕易摧毀敵對建築。不過很多玩家覺得坑道工兵不須研發因為村民應該主要是收集資源和蓋建築。不過對於被敵人圍住的資源，或者要摧毀位於玩家資源附近的敵方
             <nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
             >或<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
@@ -33,9 +33,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發文明</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發文明</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -72,9 +70,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發文明</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發文明</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -128,7 +124,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">坑道工兵</nuxt-link></div>
+              <div class="unititle2">
+                坑道工兵
+              </div>
             </td>
           </tr>
           <tr>
@@ -140,7 +138,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -172,7 +172,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -185,13 +185,13 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              村民對建築物和石造建築攻擊力+15。村民只需一下就可把樹砍倒。
+              村民對建築物和石頭建築攻擊力+15。村民只需一下就可把樹砍倒。
             </td>
           </tr>
         </table>

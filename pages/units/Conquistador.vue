@@ -91,7 +91,7 @@
                 >戰矛兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
-                to="/units/Spearman"
+                to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>。
             </td>
@@ -146,7 +146,7 @@
                 src="~assets/Husbandry.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Husbandry">畜牧培養</nuxt-link>(+10%)
+              /><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>(+10%)
             </td>
           </tr>
           <tr>
@@ -546,13 +546,13 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高征服者的生產速度還有加速徵兵技術的研究時間(快25%)
+              >能夠提高征服者的生產速度還有加速徵兵制度的研究時間(快25%)
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -719,7 +719,7 @@
             <td class="unit3">防禦類別</td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
               <br />
               <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link

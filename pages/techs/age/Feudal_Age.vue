@@ -100,7 +100,7 @@
                 src="~assets/Gateicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link
+              /><nuxt-link to="/building/Gate">城門</nuxt-link
               >：可與城牆蓋在一起，讓友方單位通過。
             </li>
           </ul>
@@ -129,7 +129,7 @@
                 src="~assets/TradeCartIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Trade_Cart">貿易馬車</nuxt-link
+              /><nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
               >:路上貿易單位。
             </li>
           </ul>
@@ -159,7 +159,7 @@
                 src="~assets/EagleScoutIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
+              /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
               >：偵查單位。
             </li>
           </ul>
@@ -190,7 +190,7 @@
                 src="~assets/ScoutCavalryIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Scout_Cavalry">斥侯騎兵</nuxt-link
+              /><nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link
               >：騎馬偵查單位
             </li>
           </ul>
@@ -300,7 +300,7 @@
                   src="~assets/Cartography.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Cartography">製圖法</nuxt-link
+                /><nuxt-link to="/techs/Cartography">製圖學</nuxt-link
                 >：可看到所有同盟的視野。
               </li>
               <li>
@@ -355,7 +355,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Fletching">箭羽</nuxt-link
-                >：弓兵、馬騎弓兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
+                >：弓兵、馬弓騎兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
               </li>
               <li>
                 <img
@@ -364,7 +364,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Padded_Archer_Armor">弓兵布甲</nuxt-link
-                >：弓兵和馬騎弓兵護甲+1/+1。
+                >：弓兵和馬弓騎兵護甲+1/+1。
               </li>
               <li>
                 <img
@@ -418,7 +418,7 @@
                   >。玩家也應該開始消除城鎮旁的漏洞，用圍牆或是建築搭配天然障礙物以防止其他玩家的早期攻擊。
                 </p>
                 <p>
-                  正是在這個階段，玩家開始決定採取哪種策略。如果選擇步兵，弓箭手或騎兵的快攻，玩家必須建立一個兵營（至少兩個，如果他們選擇棒棒快攻(民兵)），然後射箭場或馬廄（取決於他們的文明加成）和一個兵工廠以升級他們的單位。另外，重點要放在經濟的調配上，打什麼樣的策略去決定要收集甚麼資源。如果玩家進行塔攻，或是防守城鎮；抑或是快速上城堡時代然後蓋城堡，他們應該把重點放在收集木材和石頭上，建立一個市集（可以做資源交換），並讓至少八個村民在農田採集食物維持經濟。
+                  正是在這個階段，玩家開始決定採取哪種策略。如果選擇步兵，弓箭手或騎兵的快攻，玩家必須建立一個軍營（至少兩個，如果他們選擇棒棒快攻(民兵)），然後射箭場或馬廄（取決於他們的文明加成）和一個兵工廠以升級他們的單位。另外，重點要放在經濟的調配上，打什麼樣的策略去決定要收集甚麼資源。如果玩家進行塔攻，或是防守城鎮；抑或是快速上城堡時代然後蓋城堡，他們應該把重點放在收集木材和石頭上，建立一個市集（可以做資源交換），並讓至少八個村民在農田採集食物維持經濟。
                 </p>
                 <p>
                   如果玩家想要趕快進入城堡時代進行僧快(僧侶快攻)，馬暴(大量騎士)或是其他城堡時代的快攻，那麼他們應該建立一個市場和一個兵工廠，或是建立一個軍營和訓練一些長槍兵，也許在蓋一些塔保護自己。在經濟注重食物和黃金收集然後盡快進入城堡時代。
@@ -532,7 +532,7 @@
                 src="~assets/Towncentericon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮中心</nuxt-link>
+              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
           </tr>
           <tr>

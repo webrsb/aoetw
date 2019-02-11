@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             拇指環於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >在<nuxt-link to="/Archery_Range">射箭場</nuxt-link
+            >在<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技<nuxt-link
               to="/techs/Ballistics"
               >彈道學</nuxt-link
@@ -24,9 +24,7 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -41,7 +39,7 @@
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
@@ -61,9 +59,7 @@
               <h4>
                 <strong
                   ><i class="fas fa-times" style="color: #d9534f;"></i>
-                  <span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  <span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -306,7 +302,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">拇指環</nuxt-link></div>
+              <div class="unititle2">拇指環</div>
             </td>
           </tr>
           <tr>
@@ -318,7 +314,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -351,7 +349,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -364,7 +362,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

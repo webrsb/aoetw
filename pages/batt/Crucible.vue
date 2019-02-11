@@ -74,7 +74,7 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>4位輕騎兵、4位馬騎弓兵。</dd>
+            <dd>4位輕騎兵、4位馬弓騎兵。</dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
           </dl>
@@ -120,7 +120,7 @@
             </li>
             <li>此關是唯一原始外交狀態沒有（敵對）的關卡。</li>
             <li>
-              在取得初始的輕騎兵、馬騎弓兵之前，玩家擁有一名弓箭手，在靠近克里依特人的樹林中，避免玩家因為沒有單位而自動輸掉遊戲。
+              在取得初始的輕騎兵、馬弓騎兵之前，玩家擁有一名弓箭手，在靠近克里依特人的樹林中，避免玩家因為沒有單位而自動輸掉遊戲。
             </li>
             <li>
               你可以把同盟部落的外交關係改為中立，然後一一招降他們的單位，如此一來便不用施恩給這些部落以換取他們的部隊。這招在對付泰依齊烏特與紐曼時特別有用。
@@ -143,8 +143,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
+              <div class="unititle2">
+                嚴酷的考驗
               </div>
             </td>
           </tr>

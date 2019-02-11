@@ -56,10 +56,10 @@
                 src="~assets/WarGalley.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>→
+              /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>→
               <img class="gg" src="~assets/GalleonAoE2.jpg" alt="" /><nuxt-link
                 to="/units/Galleon"
-                >重型弩炮戰船</nuxt-link
+                >重型弩砲戰船</nuxt-link
               >
             </li>
             <li>
@@ -102,10 +102,10 @@
             <li>
               <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
                 to="/units/Cannon_Galleon"
-                >火炮戰船</nuxt-link
+                >火砲戰船</nuxt-link
               >→ <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
                 to="/units/Elite_Cannon_Galleon"
-                >精銳火炮戰船</nuxt-link
+                >精銳火砲戰船</nuxt-link
               >
             </li>
             <li>
@@ -113,8 +113,7 @@
                 to="/units/Longboat"
                 >維京大戰船</nuxt-link
               >→ <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                to="/units/Longboat"
-                >精銳維京大戰船</nuxt-link
+                to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
               >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
             </li>
             <li>
@@ -122,8 +121,7 @@
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >(8)→ <img src="~assets/TurtleShipIcon.jpg" alt="" /><nuxt-link
-                to="/units/Turtle_Ship"
-                >精銳龜甲船</nuxt-link
+                to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
               >(11)(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
             </li>
             <li>
@@ -131,8 +129,7 @@
                 to="/units/Caravel"
                 >卡拉維爾戰船</nuxt-link
               >→ <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
-                to="/units/Caravel"
-                >精銳卡拉維爾戰船</nuxt-link
+                to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
               >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
             </li>
           </ul>
@@ -151,7 +148,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -188,12 +185,11 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                      to="/units/Longboat"
-                      >精銳維京大戰船</nuxt-link
+                      to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -236,7 +232,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -294,7 +290,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>

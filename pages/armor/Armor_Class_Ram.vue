@@ -24,7 +24,7 @@
                 class="gg"
                 src="~assets/BatteringRamIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Battering_Ram">輕形衝撞車</nuxt-link>→
+              /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/CappedRamIcon.jpg"
@@ -83,13 +83,13 @@
                   <li>
                     <img src="~assets/WarGalley.jpg" alt="" /><nuxt-link
                       to="/units/War_Galley"
-                      >弩炮戰船</nuxt-link
+                      >弩砲戰船</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -101,7 +101,7 @@
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                   <li>
@@ -114,7 +114,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                 </ul>
@@ -160,7 +160,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -177,8 +177,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
@@ -188,7 +188,7 @@
                       class="gg"
                       src="~assets/ScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Scorpion">弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -197,20 +197,20 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/OrganGunIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Organ_Gun">風琴炮</nuxt-link>→
+                    /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OrganGunIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Organ_Gun">精銳風琴炮</nuxt-link
+                    /><nuxt-link to="/units/Organ_Gun">精銳風琴砲</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                 </ul>

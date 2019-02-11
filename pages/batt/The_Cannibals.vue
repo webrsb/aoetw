@@ -140,7 +140,7 @@
             <li>法蘭西斯科.德.奧雷利亞納 可以升級帝王時代。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -278,8 +278,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Cannibals">食人族</nuxt-link>
+              <div class="unititle2">
+                食人族
               </div>
             </td>
           </tr>

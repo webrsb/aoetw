@@ -15,7 +15,7 @@
           <p>
             織布技術在遊戲早期十分有用，因為它有助於保護村民預防早期攻擊，但會隨著敵軍力量的增加而效果下降。
             此外，織布技術讓村民更能對抗野生動物。
-            如果沒有織布技術，一個村民（馬札爾村民除外）會輸給任何先攻擊他/她的野生動物。
+            如果沒有織布技術，一個村民（馬扎爾村民除外）會輸給任何先攻擊他/她的野生動物。
             然而研發織布技術後同樣一個村民可以殺死兩頭不同時攻擊，而且不先攻擊野獸。同樣的在殺豬時候才不會輕易達成每日成就:殺豬死人
           </p>
           <p>
@@ -88,7 +88,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">織布技術</nuxt-link></div>
+              <div class="unititle2">織布技術</div>
             </td>
           </tr>
           <tr>
@@ -100,7 +100,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -133,7 +135,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -142,7 +144,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

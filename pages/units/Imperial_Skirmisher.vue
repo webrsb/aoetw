@@ -420,7 +420,7 @@
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >：帝王戰矛兵對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+2。
             </li>
@@ -447,7 +447,7 @@
               >相同。
             </li>
             <li>
-              血量30，與飛刀女獵手、爪刀勇士和弓兵相同，是遊戲中最少血量的單位。
+              血量30，與飛刀女獵手、彎刀勇士和弓兵相同，是遊戲中最少血量的單位。
             </li>
           </ul>
         </div>

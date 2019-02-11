@@ -55,7 +55,7 @@
             >甚至因為擴散攻擊，可以一次撞爆整排的投石機。如果真的沒有其他單位，那拿步兵來攻擊也可以，但因為速度的關係，其實不理想（
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、<nuxt-link
               to="/units/Woad_Raider"
-              >松蘭武士</nuxt-link
+              >菘藍武士</nuxt-link
             >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>與
             <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
             >例外）。如果面對一群弓箭手，那最好將投石機展開，以等待救援，因為展開組裝後的投石機遠防將會高很多。
@@ -81,16 +81,16 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰單位特別是<nuxt-link to="/units/Magyar_Huszar"
-                >馬札爾驃騎兵</nuxt-link
-              >和<nuxt-link to="/units/Mangonel">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Mangudai">火炮</nuxt-link>、<nuxt-link
+                >馬扎爾驃騎兵</nuxt-link
+              >和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
+              <nuxt-link to="/units/Mangudai">火砲</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >。
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -251,7 +251,7 @@
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Battering_Ram"
-                      >輕形衝撞車</nuxt-link
+                      >輕型衝撞車</nuxt-link
                     >
                   </li>
                   <li>
@@ -289,7 +289,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -311,8 +311,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -342,8 +342,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
@@ -353,7 +353,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
@@ -424,7 +424,7 @@
               >和 <nuxt-link to="/techs/Chemistry">化學</nuxt-link>的速度快80%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">條頓</nuxt-link
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
               >：巨型投石機對僧侶的招降有較好的抗性。
             </li>
           </ul>
@@ -495,7 +495,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">投石機</nuxt-link></div>
+              <div class="unititle2">
+                投石機
+              </div>
             </td>
           </tr>
           <tr>
@@ -575,7 +577,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +250對<nuxt-link to="/armor/Armor_Class_standard_building"
-                >一般建築物</nuxt-link
+                >標準建築</nuxt-link
               >
             </td>
           </tr>

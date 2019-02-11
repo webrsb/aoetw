@@ -154,7 +154,7 @@
                 class="gg"
                 src="~assets/Universityicon.png"
                 alt=""
-              /><nuxt-link to="/building/Archery_Range">學院</nuxt-link>
+              /><nuxt-link to="/building/University">學院</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -163,7 +163,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

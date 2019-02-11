@@ -140,12 +140,12 @@
               <div class="unitcontent">
                 非洲
                 <ul>
-                  <li><nuxt-link to="/civs/Malians">馬里</nuxt-link></li>
+                  <li><nuxt-link to="/civs/Malians">馬利</nuxt-link></li>
                   <li><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link></li>
                 </ul>
                 中東
                 <ul>
-                  <li><nuxt-link to="/civs/Berbers">柏柏爾</nuxt-link></li>
+                  <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link></li>
                 </ul>
                 地中海
                 <ul>
@@ -187,6 +187,13 @@
   </div>
 </template>
 <script>
-export default { components: {} }
+export default {
+  head() {
+    return {
+      title: 'Aoetw - 文明'
+    }
+  },
+  components: {}
+}
 </script>
 <style></style>

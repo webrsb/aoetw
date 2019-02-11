@@ -27,7 +27,7 @@
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >科技、
-              <nuxt-link to="/techs/Bloodlines">血統</nuxt-link>和<nuxt-link
+              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>和<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
               >可以加在大象身上。如果玩家在初期想以矛象伕作為城堡時代的主要單位，象牙劍也許可以比鍛造技術優先研發。但在一般情況下應該將其看作一項兵工廠技術並在
@@ -63,7 +63,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">象牙劍</nuxt-link></div>
+              <div class="unititle2">象牙劍</div>
             </td>
           </tr>
           <tr>
@@ -75,7 +75,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -107,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -120,7 +122,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

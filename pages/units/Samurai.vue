@@ -24,7 +24,7 @@
         <div class="n1">
           <ul>
             <li>
-              日本武士乍看之下，戰鬥能力似乎比同時代兵營中的步兵（城堡時代的<nuxt-link
+              日本武士乍看之下，戰鬥能力似乎比同時代軍營中的步兵（城堡時代的<nuxt-link
                 to="/units/Long_Swordsman"
                 >長劍兵</nuxt-link
               >和帝國時代的
@@ -34,9 +34,9 @@
             <li>
               日本武士天生具有比大多數步兵更快的攻擊速度，再結合日本文明利益25％更快的攻擊速度，讓他們攻擊如閃電般的快速。然而，在面對<nuxt-link
                 to="/units/Cataphract"
-                >拜占庭聖騎兵</nuxt-link
+                >聖騎兵</nuxt-link
               >、
-              <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
+              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link
               >這些特殊單位仍是十分頭痛，對<nuxt-link to="/units/Knight"
                 >騎士</nuxt-link
               >和<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
@@ -46,7 +46,7 @@
               日本武士搭配<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >可有效對付<nuxt-link to="/units/Knight">騎士</nuxt-link
               >，不過面對弓兵還是需要
-              <nuxt-link to="/units/Scorpion">弩炮</nuxt-link
+              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link
               >和遠程單位協助(日本射箭場科技全滿)。
             </li>
             <li>
@@ -87,7 +87,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -169,7 +169,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -324,7 +324,7 @@
           技術:以下技術會給以下單位對日本武士有額外攻擊。
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -368,7 +368,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
@@ -407,7 +407,7 @@
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>

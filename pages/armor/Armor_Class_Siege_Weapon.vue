@@ -31,7 +31,7 @@
                 class="gg"
                 src="~assets/BatteringRamIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Battering_Ram">輕形衝撞車</nuxt-link>→
+              /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/CappedRamIcon.jpg"
@@ -46,7 +46,7 @@
             <li>
               <img class="gg" src="~assets/MangonelIcon.jpg" alt="" /><nuxt-link
                 to="/units/Mangonel"
-                >輕形投石車</nuxt-link
+                >輕型投石車</nuxt-link
               >→
               <img class="gg" src="~assets/OnagerIcon.jpg" alt="" /><nuxt-link
                 to="/units/Onager"
@@ -61,13 +61,13 @@
             <li>
               <img class="gg" src="~assets/ScorpionIcon.jpg" alt="" /><nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >→
               <img
                 class="gg"
                 src="~assets/HeavyScorpionIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+              /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
             </li>
             <li>
               <img
@@ -93,11 +93,11 @@
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
-                >風琴炮</nuxt-link
+                >風琴砲</nuxt-link
               >→
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                 to="/units/Organ_Gun"
-                >精銳風琴炮</nuxt-link
+                >精銳風琴砲</nuxt-link
               >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
             </li>
             <li>
@@ -161,7 +161,7 @@
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Battering_Ram"
-                      >輕形衝撞車</nuxt-link
+                      >輕型衝撞車</nuxt-link
                     >
                   </li>
                   <li>
@@ -199,7 +199,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -221,8 +221,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -252,8 +252,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
@@ -263,7 +263,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"

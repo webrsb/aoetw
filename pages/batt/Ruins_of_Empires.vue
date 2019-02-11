@@ -70,7 +70,7 @@
                 <div class="p4"></div>
                 玩家3：
               </td>
-              <td class="tc6" width="35%">蒙巴薩人（黃色）馬里</td>
+              <td class="tc6" width="35%">蒙巴薩人（黃色）馬利</td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
@@ -82,7 +82,7 @@
                 <div class="p3"></div>
                 玩家5：
               </td>
-              <td class="tc6" width="35%">斯瓦西里村莊（綠色）馬里</td>
+              <td class="tc6" width="35%">斯瓦西里村莊（綠色）馬利</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -108,7 +108,7 @@
           </p>
           <h3>大地之母單位：</h3>
           <p>
-            劍兵勇士*3、長戟兵*2、火槍兵*1、風琴炮*1、卡拉維爾戰船*6、運輸船*2
+            劍兵勇士*3、長戟兵*2、火槍兵*1、風琴砲*1、卡拉維爾戰船*6、運輸船*2
           </p>
           <br />
           <h2>主要任務</h2>
@@ -170,7 +170,7 @@
           </div>
         </div>
         <br />
-        <h2>斥侯回報</h2>
+        <h2>斥候回報</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -253,8 +253,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>
+              <div class="unititle2">
+                帝國的廢墟
               </div>
             </td>
           </tr>

@@ -13,7 +13,7 @@
               to="/units/hero"
               >英雄</nuxt-link
             >。他的原型是
-            <nuxt-link to="/Britions.php">英國</nuxt-link>民間故事中<nuxt-link
+            <nuxt-link to="/civs/Britons">英國</nuxt-link>民間故事中<nuxt-link
               to="/units/hero/Robin_Hood"
               >羅賓漢</nuxt-link
             >的一名夥伴，遊戲內他以<nuxt-link to="/units/Monk">僧侶</nuxt-link
@@ -30,11 +30,17 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">塔克修士</nuxt-link></div>
+              <div class="unititle2">
+                塔克修士
+              </div>
             </td>
           </tr>
           <tr>
-            <td colspan="2"><div class="unititle"></div></td>
+            <td colspan="2">
+              <div class="unititle">
+                <img src="~assets/MonkIcon.jpg" width="80" alt="" />
+              </div>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

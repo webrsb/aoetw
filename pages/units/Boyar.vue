@@ -438,7 +438,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -598,7 +598,7 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >

@@ -13,11 +13,11 @@
               to="/armor/Armor_Class_Archer"
               >射手</nuxt-link
             >
-            <nuxt-link to="/Heros.php">英雄</nuxt-link
+            <nuxt-link to="/units/hero/">英雄</nuxt-link
             >。史實中的他是一名熱那亞商人暨軍事領袖，在第一次十字軍東征後給予了各個十字軍國家協助。
           </p>
           在遊戲中，他是一名數值更強的
-          <nuxt-link to="/Genoese_Crossbowman">熱那亞弩手</nuxt-link
+          <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
           >。由於他屬於英雄單位，所以無法被招降，也會自動回血。他和其他射手一樣，會受到所有影響射手的升級和加成影響。
         </div>
       </div>
@@ -74,14 +74,14 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link> +10
-              <br />對<nuxt-link to="/Armor_Class_War unitsanimal/Elephant"
+              <br />對<nuxt-link to="/armor/Armor_Class_War_Elephant"
                 >戰象</nuxt-link
               >
               +10 <br />對<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
               >
               +7 <br />對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
-              +7 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              +7 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
               +2 <br />
@@ -89,7 +89,7 @@
           </tr>
           <tr>
             <td class="unit3">
-              <nuxt-link to="/Frame_delay">開火間隔</nuxt-link>
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
             </td>
             <td class="unit4">5</td>
           </tr>

@@ -32,7 +32,7 @@
             <li>
               研發游牧後也可以自行摧毀房屋來增加<nuxt-link
                 to="/units/Trade_Cart"
-                >貿易馬車</nuxt-link
+                >貿易車隊</nuxt-link
               >的效率，減少路程。但要注意是有沒有敵軍在房屋後面乘虛而入。
             </li>
             <li>
@@ -57,7 +57,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">游牧</nuxt-link></div>
+              <div class="unititle2">游牧</div>
             </td>
           </tr>
           <tr>
@@ -69,7 +69,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -103,7 +105,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -112,7 +114,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

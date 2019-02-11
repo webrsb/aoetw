@@ -13,7 +13,7 @@
               >帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後兵營步兵單位不需花費黃金。
+            >研發。研發後軍營步兵單位不需花費黃金。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -35,7 +35,7 @@
                 >馬扎爾</nuxt-link
               >研發
               <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
-              >後的<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link
+              >後的<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
               >一樣不用黃金就能生產。
             </li>
           </ul>
@@ -57,7 +57,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">強制徵兵</nuxt-link></div>
+              <div class="unititle2">強制徵兵</div>
             </td>
           </tr>
           <tr>
@@ -69,7 +69,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -101,7 +103,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -114,12 +116,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">兵營步兵單位不需花費黃金。</td>
+            <td class="unit4">軍營步兵單位不需花費黃金。</td>
           </tr>
         </table>
 

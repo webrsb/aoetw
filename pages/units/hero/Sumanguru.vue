@@ -12,7 +12,7 @@
           </p>
           <p>
             在遊戲中蘇曼古魯的外型是<nuxt-link to="/units/Cataphract"
-              >拜占庭聖騎兵</nuxt-link
+              >聖騎兵</nuxt-link
             >。會受到所有騎兵科技加成的影響。他不能被招降而且會自行回血。
           </p>
         </div>
@@ -23,7 +23,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">蘇曼古魯</nuxt-link></div>
+              <div class="unititle2">
+                蘇曼古魯
+              </div>
             </td>
           </tr>
           <tr>

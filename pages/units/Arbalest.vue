@@ -27,7 +27,7 @@
             <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
             <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
             <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-            <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+            <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
             <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
             <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
             <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
@@ -207,7 +207,7 @@
           <ul>
             <li>就木頭而言，弓兵是全遊戲最便宜的遠距離單位。</li>
             <li>
-              30hp，全遊戲生命最低的單位，與矛兵、爪刀勇士、飛刀女獵手並列。
+              30hp，全遊戲生命最低的單位，與矛兵、彎刀勇士、飛刀女獵手並列。
             </li>
             <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
             <li>

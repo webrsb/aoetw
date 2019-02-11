@@ -16,7 +16,7 @@
         <div class="n1">
           <ul>
             <li>
-              希臘之火可讓拜占庭的火戰船擁有+40%更遠的開火距離(一般為2.49)。這不僅讓火戰船能更有效地摧毀弩炮戰船，同時也能夷平那些火炮戰船不能應付的沿岸基礎設施。希臘之火也讓火戰船在淺灘上對陸地單位的攻擊更加致命。
+              希臘之火可讓拜占庭的火戰船擁有+40%更遠的開火距離(一般為2.49)。這不僅讓火戰船能更有效地摧毀弩砲戰船，同時也能夷平那些火砲戰船不能應付的沿岸基礎設施。希臘之火也讓火戰船在淺灘上對陸地單位的攻擊更加致命。
             </li>
           </ul>
         </div>
@@ -60,7 +60,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">希臘之火</nuxt-link></div>
+              <div class="unititle2">希臘之火</div>
             </td>
           </tr>
           <tr>
@@ -72,7 +72,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -93,7 +95,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -106,7 +108,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

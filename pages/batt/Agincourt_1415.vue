@@ -94,7 +94,7 @@
               <li>由於你缺乏資源，招降敵人的村民只可以修理你的攻城武器。</li>
             </ul>
           </div>
-          <h3>斥侯</h3>
+          <h3>斥候</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -155,8 +155,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to=""> 亞琴哥特(1415)阿金庫爾戰役</nuxt-link>
+              <div class="unititle2">
+                亞琴哥特(1415)阿金庫爾戰役
               </div>
             </td>
           </tr>
@@ -183,7 +183,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Japanese">不列顛</nuxt-link>
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>
             </td>
           </tr>
           <tr>

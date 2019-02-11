@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             到了<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >雙手劍兵可以在<nuxt-link to="/building/Barracks">兵營</nuxt-link
+            >雙手劍兵可以在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >被訓練。這是民兵的第四級升級。
           </p>
           <p>
@@ -31,7 +31,7 @@
               >強制徵兵</nuxt-link
             >，使得劍兵系列不用耗費黃金訓練，使得這些部隊成為後期“垃圾戰爭”中一個可行的策略，輕鬆擊敗其他垃圾單位（
             <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>，<nuxt-link
-              to="/units/Hussar"
+              to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
             >和<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>）。
           </p>
@@ -49,13 +49,12 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
-                to="/units/Villager"
+                to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >、<nuxt-link to="/units/Scout_Cavalry">駱駝騎兵</nuxt-link>、
-              <nuxt-link to="/units/Eagle_Scout">鷹勇士</nuxt-link>、<nuxt-link
-                to="/armor/Armor_Class_Building"
-                >建築物</nuxt-link
-              >、<nuxt-link to="/units/Spearman">輕騎兵</nuxt-link>。
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、
+              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -63,7 +62,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、
               <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
@@ -78,7 +77,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -188,7 +187,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -224,7 +223,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:兵營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -360,7 +359,7 @@
           技術:以下技術會給以下單位對雙手劍兵有額外攻擊。
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -402,11 +401,11 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：雙手劍兵便宜35％並對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link
+              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link
               >和升級劍兵勇士的速度快100%。
@@ -416,7 +415,7 @@
               >：雙手劍兵攻速快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
@@ -432,7 +431,7 @@
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >。
             </li>
             <li>
@@ -467,7 +466,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：雙手劍兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -489,7 +488,7 @@
             <li>雙手劍兵現在攻擊有11。</li>
             <li>
               雙手劍兵擁有+3攻擊VS<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >。
             </li>
@@ -526,7 +525,7 @@
             <li>雙手劍兵現在攻擊有12。</li>
             <li>
               雙手劍兵擁有+4攻擊VS<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >。
             </li>
@@ -610,7 +609,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">雙手劍兵</nuxt-link></div>
+              <div class="unititle2">
+                雙手劍兵
+              </div>
             </td>
           </tr>
           <tr>
@@ -693,7 +694,7 @@
               +8對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >
-              <br />+4對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <br />+4對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
             </td>

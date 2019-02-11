@@ -117,7 +117,7 @@
               >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >和
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
             </td>
@@ -460,7 +460,7 @@
               >：騎士血量多20%，研發<nuxt-link to="/techs/Chivalry"
                 >騎士精神</nuxt-link
               >後，
-              <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >的研發速度和升級<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
               >的時間都加快40%
             </li>
@@ -503,7 +503,7 @@
               >：騎士生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與
-              <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link>研發快20%。
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：騎士對<nuxt-link

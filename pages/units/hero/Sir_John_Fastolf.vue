@@ -22,12 +22,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-5">
-              <img
-                class="hg"
-                width="280"
-                src="~assets/Fastolfattack.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="280"
+                  src="~assets/Fastolfattack.png"
+                  alt=""
+              /></gallery>
               <p>
                 <em
                   >在戰役"羅亞爾河大掃蕩"中約翰霍士道夫爵士攻擊玩家城鎮並被長槍兵圍繞著(磨坊旁邊)。</em
@@ -41,8 +42,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">約翰霍士道夫爵士</nuxt-link>
+              <div class="unititle2">
+                約翰霍士道夫爵士
               </div>
             </td>
           </tr>

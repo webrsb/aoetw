@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <strong>聖殿騎士團首領</strong>是《世紀帝國 II HD:
-            帝王世紀》中的一名騎兵英雄，可以在薩拉丁第四戰役"耶路撒冷攻城戰"和戰役編輯器中找到。現實中聖殿騎士團首領是一名聖殿騎士的領袖，通常被認為是十字軍東征中的關鍵人物。
+            帝王世紀》中的一名騎兵英雄，可以在沙拉丁第四戰役"耶路撒冷攻城戰"和戰役編輯器中找到。現實中聖殿騎士團首領是一名聖殿騎士的領袖，通常被認為是十字軍東征中的關鍵人物。
             聖殿騎士團首領的外形與騎士有著相似之處，也類似於其他幾個英雄單位。聖殿騎士團首領會受騎兵科技加成的影響，由於他屬於英雄單位，因此不能被招降且會回血。(在征服者資料片後)
           </p>
           <p></p>
@@ -21,12 +21,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-5">
-              <img
-                class="hg"
-                width="280"
-                src="~assets/Constablerichemont.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="280"
+                  src="~assets/Constablerichemont.png"
+                  alt=""
+              /></gallery>
               <p><em>在戰役編輯器中的聖殿騎士團首領。</em></p>
             </div>
           </div>
@@ -36,8 +37,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">聖殿騎士團首領</nuxt-link>
+              <div class="unititle2">
+                聖殿騎士團首領
               </div>
             </td>
           </tr>

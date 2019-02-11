@@ -124,7 +124,7 @@
               <li>這場戰役發生在黑火藥武器尚未發明的朝代。</li>
             </ul>
           </div>
-          <h3>斥侯</h3>
+          <h3>斥候</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -256,8 +256,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Kurikara_1183">礪波山（1183）</nuxt-link>
+              <div class="unititle2">
+                礪波山（1183）
               </div>
             </td>
           </tr>
@@ -307,13 +307,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Kaesong(936)">開城（936）</nuxt-link>
+              <nuxt-link to="/batt/Kaesong_936">開城（936）</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Cyprus(1191)">塞普勒斯（1191）</nuxt-link>
+              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯（1191）</nuxt-link>
             </td>
           </tr>
         </table>

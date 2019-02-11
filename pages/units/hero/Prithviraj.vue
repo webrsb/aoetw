@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             《世紀帝國II：被遺忘的帝國》中的<strong>布里斯比羅吉</strong
-            ><nuxt-link to="/batt/">戰役</nuxt-link>講述的是歷史人物
+            ><nuxt-link to="/batt">戰役</nuxt-link>講述的是歷史人物
             <a href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
               >布里陀毗羅闍三世</a
             >的故事。他是1165年至1192年間<nuxt-link to="/civs/Indians"
@@ -43,7 +43,7 @@
                 to="/units/hero/Prithvi"
               >
                 布里斯比</nuxt-link
-              >(<nuxt-link to="/units/Crossbowman">弩兵)</nuxt-link>
+              >(<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>)
             </li>
             <li>
               <img
@@ -62,8 +62,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">布里斯比羅吉</nuxt-link>
+              <div class="unititle2">
+                布里斯比羅吉
               </div>
             </td>
           </tr>

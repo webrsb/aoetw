@@ -27,9 +27,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、<nuxt-link
@@ -54,7 +52,7 @@
               >、<nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
                 to="/civs/Koreans"
                 >韓國</nuxt-link
-              >、 <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、<nuxt-link
+              >、 <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
                 to="/civs/Malay"
                 >馬來</nuxt-link
               >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>、<nuxt-link
@@ -83,9 +81,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -137,7 +133,7 @@
             <td class="tta1" style="width:10%">生命值</td>
             <td class="tta4">
               <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-              <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>→
+              <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
               <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
               <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
               <img class="gg" src="~assets/HussarIcon.jpg" alt="" />
@@ -183,7 +179,7 @@
               >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >和
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
             </td>
@@ -436,7 +432,7 @@
               </div>
             </div>
           </div>
-          以下技術可讓以下單位對斥侯有額外攻擊力
+          以下技術可讓以下單位對斥候有額外攻擊力
           <div class="n1">
             <img
               class="gg"
@@ -532,7 +528,7 @@
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
                 to="/techs/Forging"
                 >鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄鐵</nuxt-link>、
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>、
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
               >科技，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >生產便宜15%
@@ -573,7 +569,7 @@
               >：輕騎兵生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與
-              <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link>研發快20%。
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：輕騎兵+2視野。
@@ -637,7 +633,7 @@
         <div class="n1">
           <ul>
             <li>
-              一旦到了封建時代，斥侯獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
+              一旦到了封建時代，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
             </li>
           </ul>
         </div>
@@ -791,7 +787,7 @@
                 class="gg"
                 src="~assets/ScoutCavalryIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>
+              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -828,7 +824,7 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
               /></gallery>
-              <p><em>斥侯系。</em></p>
+              <p><em>斥候系。</em></p>
             </div>
             <div class="col-md-4">
               <gallery

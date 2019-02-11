@@ -32,7 +32,7 @@
             <li>
               <img
                 class="gg"
-                src="~assets/Blacksmithicon.png"
+                src="~assets/Wondericon.png"
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
@@ -68,12 +68,12 @@
                 src="~assets/Bombardtowericon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link
+              /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >：具有高攻擊力的塔。(需先研發<nuxt-link to="/techs/Chemistry"
                 >化學</nuxt-link
               >)
             </li>
-            <p>大型箭塔和火炮塔都得先在學院研發相關科技才可建造。</p>
+            <p>大型箭塔和火砲塔都得先在學院研發相關科技才可建造。</p>
           </ul>
         </div>
         <h3>可生產單位</h3>
@@ -146,7 +146,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Heavy_Cavalry_Archer"
-                >重裝馬騎弓兵</nuxt-link
+                >重裝馬弓騎兵</nuxt-link
               >：騎馬弓兵單位。
             </li>
             <li>
@@ -233,7 +233,7 @@
                 src="~assets/EliteBattleElephantIcon2.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Battle_Elephant">精銳矛象伕</nuxt-link
+              /><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link
               >：重裝騎兵單位。
             </li>
           </ul>
@@ -259,7 +259,7 @@
           </ul>
           <strong
             ><nuxt-link to="/building/Siege_Workshop"
-              >攻城武器製造所</nuxt-link
+              >攻城器製造所</nuxt-link
             ></strong
           >
           <ul>
@@ -307,7 +307,7 @@
                 src="~assets/HeavyScorpionIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Heavy_Scorpion">重裝弩炮</nuxt-link
+              /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
               >：範圍攻城武器。
             </li>
             <li>
@@ -316,7 +316,7 @@
                 src="~assets/BombardCannonIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+              /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >：遠距離攻城武器。(需先研發<nuxt-link to="/techs/Chemistry"
                 >化學</nuxt-link
               >)
@@ -330,7 +330,7 @@
                 src="~assets/GalleonAoE2.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link
+              /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
               >：基本戰船。
             </li>
             <li>
@@ -358,7 +358,7 @@
                 src="~assets/CannonGalleonIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
+              /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >：遠距離攻擊戰船。(需先研發<nuxt-link to="/techs/Chemistry"
                 >化學</nuxt-link
               >)
@@ -369,7 +369,7 @@
                 src="~assets/CannonGalleonIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Cannon_Galleon">精銳火炮戰船</nuxt-link
+              /><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link
               >：遠距離攻擊戰船。(需先研發<nuxt-link to="/techs/Chemistry"
                 >化學</nuxt-link
               >)
@@ -380,7 +380,7 @@
                 src="~assets/LongboatIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
+              /><nuxt-link to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
               >：：會射出多發箭矢的戰船。(限<nuxt-link to="/civs/Vikings"
                 >維京</nuxt-link
               >)
@@ -391,7 +391,7 @@
                 src="~assets/TurtleShipIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
+              /><nuxt-link to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
               >：：可發射砲彈的重裝戰船。(限<nuxt-link to="/civs/Koreans"
                 >韓國</nuxt-link
               >)
@@ -402,7 +402,7 @@
                 src="~assets/CaravelIcon2.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+              /><nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
               >：：可發射穿透攻擊的戰船。(限<nuxt-link to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >)
@@ -478,7 +478,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
-                >：馬騎弓兵護甲+1/+2，對長槍兵攻擊+4。
+                >：馬弓騎兵護甲+1/+2，對長槍兵攻擊+4。
               </li>
             </ul>
             <strong><nuxt-link to="/building/Dock">碼頭</nuxt-link></strong>
@@ -571,7 +571,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
-                >：弓兵和馬騎弓兵護甲+1/+2。
+                >：弓兵和馬弓騎兵護甲+1/+2。
               </li>
               <li>
                 <img
@@ -580,7 +580,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Bracer">護腕</nuxt-link
-                >：弓兵、馬騎弓兵、戰船、城堡攻擊+1、範圍+1(箭塔只有攻擊+1)。
+                >：弓兵、馬弓騎兵、戰船、城堡攻擊+1、範圍+1(箭塔只有攻擊+1)。
               </li>
               <li>
                 <img
@@ -630,7 +630,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-                >:攻城武器攻擊範圍+1(衝撞車除外)。對建築物攻擊加成+20%(炸藥桶+40%)。
+                >:攻城武器攻擊範圍+1(衝撞車除外)。對建築物攻擊加成+20%(爆炸桶+40%)。
               </li>
               <li>
                 <img

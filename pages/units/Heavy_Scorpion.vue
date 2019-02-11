@@ -2,20 +2,20 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>重裝弩砲</h1>
+        <h1>重型弩砲</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            重裝弩砲可訓練於攻城武器製造所，他發射大型箭矢，可對敵人造成貫穿，但只有目標單位會受到全部的傷害，其他單位只會受到一半的傷害。不像投石車，弩砲不會傷害友方單位，所以在近距離的肉搏戰相當好用。
+            重型弩砲可訓練於攻城器製造所，他發射大型箭矢，可對敵人造成貫穿，但只有目標單位會受到全部的傷害，其他單位只會受到一半的傷害。不像投石車，弩砲不會傷害友方單位，所以在近距離的肉搏戰相當好用。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            重裝弩砲對步兵，弓箭手和僧侶等速度慢的單位非常有效，因為速度慢的單位容易被弩砲貫穿攻擊。但弩砲對於快速的步兵，如<nuxt-link
+            重型弩砲對步兵，弓箭手和僧侶等速度慢的單位非常有效，因為速度慢的單位容易被弩砲貫穿攻擊。但弩砲對於快速的步兵，如<nuxt-link
               to="/units/Woad_Raider"
               >菘藍武士</nuxt-link
             >、
@@ -61,9 +61,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
@@ -98,9 +96,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -138,7 +134,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>、
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
@@ -245,10 +241,10 @@
           </tr>
         </table>
 
-        <h3>剋弩炮的單位與建築</h3>
+        <h3>剋弩砲的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對弩炮的額外傷害，按造傷殺力排列。
+          以下單位擁有對弩砲的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
@@ -291,7 +287,7 @@
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Battering_Ram"
-                      >輕形衝撞車</nuxt-link
+                      >輕型衝撞車</nuxt-link
                     >
                   </li>
                   <li>
@@ -329,7 +325,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -351,8 +347,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -382,8 +378,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
@@ -393,7 +389,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
@@ -420,19 +416,19 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：重型弩炮生產快15%。
+              >：重型弩砲生產快15%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
-              >：重型弩炮攻擊速度快25%。
+              >：重型弩砲攻擊速度快25%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對重型弩炮有加成的科技在帝王時代便宜20%。
+              >：對重型弩砲有加成的科技在帝王時代便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-              >：重型弩炮成本便宜：15%。
+              >：重型弩砲成本便宜：15%。
             </li>
           </ul>
         </div>
@@ -442,10 +438,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
-              >：重型弩炮訓練速度快20%。
+              >：重型弩砲訓練速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">高棉</nuxt-link>：重型弩炮+1射程。
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：重型弩砲+1射程。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
@@ -456,7 +452,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：重型弩炮對僧侶的招降有較好的抗性。
+              >：重型弩砲對僧侶的招降有較好的抗性。
             </li>
           </ul>
         </div>
@@ -490,7 +486,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >:不能使用重型弩炮。
+              >:不能使用重型弩砲。
             </li>
           </ul>
           <h3>
@@ -516,7 +512,7 @@
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
                 >賽爾特狂暴</nuxt-link
-              >給予弩炮多50%的HP。、
+              >給予弩砲多50%的HP。、
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>:引進<nuxt-link
@@ -539,7 +535,7 @@
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
                 >賽爾特狂暴</nuxt-link
-              >給予弩炮多40%的HP。
+              >給予弩砲多40%的HP。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：引進<nuxt-link
@@ -549,7 +545,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >:可以使用重型弩炮了。
+              >:可以使用重型弩砲了。
             </li>
           </ul>
           <h3>
@@ -608,7 +604,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2">重裝弩砲</div>
+              <div class="unititle2">重型弩砲</div>
             </td>
           </tr>
           <tr>
@@ -647,7 +643,7 @@
                 src="~assets/Siegeworkshopicon.png"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop"
-                >攻城武器製造所</nuxt-link
+                >攻城器製造所</nuxt-link
               >
             </td>
           </tr>

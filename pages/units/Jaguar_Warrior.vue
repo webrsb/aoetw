@@ -79,7 +79,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
               <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
                 to="/units/Boyar"
@@ -184,7 +184,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -390,7 +390,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
             </li>
@@ -475,7 +475,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Persians">阿茲特克</nuxt-link>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -544,7 +544,7 @@
                 >傭兵</nuxt-link
               >+10 <br />對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >+2 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >+2 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築物</nuxt-link
               >+2
             </td>

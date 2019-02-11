@@ -96,7 +96,7 @@
             <dt>大地之母單位：</dt>
             <dd>
               <img class="gg" src="~assets/TransportShipIcon.jpg" alt="" />
-              <nuxt-link to="/units/Transport_Ship">運輸船*3</nuxt-link>
+              <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>*3
             </dd>
           </dl>
           <h3>主要任務</h3>
@@ -147,10 +147,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/An_Unlikely_Messiah"
-                  >一個不太可能的彌賽亞</nuxt-link
-                >
+              <div class="unititle2">
+                一個不太可能的彌賽亞
               </div>
             </td>
           </tr>

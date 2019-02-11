@@ -46,7 +46,7 @@
             </ul>
             <strong>賽爾特：</strong>
             <ul>
-              <li>攻城武器製造所效率快20％。</li>
+              <li>攻城器製造所效率快20％。</li>
             </ul>
             <strong>中國：</strong>
             <ul>
@@ -112,7 +112,7 @@
             </ul>
             <strong>蒙古：</strong>
             <ul>
-              <li>斥侯+2視野。</li>
+              <li>斥候+2視野。</li>
             </ul>
             <strong>波斯：</strong>
             <ul>

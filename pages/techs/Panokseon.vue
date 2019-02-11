@@ -25,7 +25,7 @@
                 >失落的帝國</nuxt-link
               >資料片中，板屋船的引進可以修補這個問題。雖然<nuxt-link
                 to="/units/Galleon"
-                >重型弩炮戰船</nuxt-link
+                >重型弩砲戰船</nuxt-link
               >還是可以對龜甲船作打帶跑，但是這需要更多的微操作而且不具效益。由於缺乏
               <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
               >，在海岸邊轟炸的龜甲船很容易就被<nuxt-link to="/units/Monk"
@@ -75,7 +75,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">板屋船</nuxt-link></div>
+              <div class="unititle2">板屋船</div>
             </td>
           </tr>
           <tr>
@@ -87,7 +87,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -121,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -134,7 +136,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

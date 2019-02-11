@@ -19,7 +19,7 @@
         <div class="n1">
           <ul>
             <li>
-              扭力彈射器可讓投石車的波及範圍變大，彌補原本的準度不足造成的傷害下降。攻擊地面的指令可以擊中更多敵方單位，讓技術型的玩家能一擊摧毀一大群騎兵、弓箭手、分散的步兵或是數台的攻城武器。火炮也受益於扭力彈射器而能更好的反制攻城武器和弓箭手。
+              扭力彈射器可讓投石車的波及範圍變大，彌補原本的準度不足造成的傷害下降。攻擊地面的指令可以擊中更多敵方單位，讓技術型的玩家能一擊摧毀一大群騎兵、弓箭手、分散的步兵或是數台的攻城武器。火砲也受益於扭力彈射器而能更好的反制攻城武器和弓箭手。
             </li>
           </ul>
         </div>
@@ -40,9 +40,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle">
-                <nuxt-link to="">扭力彈射器</nuxt-link>
-              </div>
+              <div class="unititle2">扭力彈射器</div>
             </td>
           </tr>
           <tr>
@@ -54,7 +52,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -75,7 +75,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -88,7 +88,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

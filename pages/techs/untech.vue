@@ -167,7 +167,7 @@
               <nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link>
             </td>
             <td class="tunitc5">450F 250G</td>
-            <td class="tunitc6">兵營可以訓練哥德衛隊。</td>
+            <td class="tunitc6">軍營可以訓練哥德衛隊。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -279,7 +279,7 @@
               <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>
             </td>
             <td class="tunitc5">200F 300G</td>
-            <td class="tunitc6">訓練馬札爾驃騎兵不需消耗黃金。</td>
+            <td class="tunitc6">訓練馬扎爾驃騎兵不需消耗黃金。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -321,7 +321,7 @@
               <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>
             </td>
             <td class="tunitc5">300F 300G</td>
-            <td class="tunitc6">射箭場弓兵單位對建築物和石造建築攻擊+6。</td>
+            <td class="tunitc6">射箭場弓兵單位對建築物和石頭建築攻擊+6。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -437,7 +437,7 @@
               <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>
             </td>
             <td class="tunitc5">350F 150G</td>
-            <td class="tunitc6">馬騎弓兵+20 HP。</td>
+            <td class="tunitc6">馬弓騎兵+20 HP。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -474,7 +474,7 @@
           </tr>
         </table>
 
-        <h3><nuxt-link to="">帝王時代</nuxt-link></h3>
+        <h3>帝王時代</h3>
         <div class="hrn1"></div>
         <table class="table-bordered table-striped" width="100%">
           <tr>
@@ -591,8 +591,8 @@
             </td>
             <td class="tunitc5">750W 750G</td>
             <td class="tunitc6">
-              <nuxt-link to="/units/Chu_Ko_Nu">中國連弩兵</nuxt-link
-              >攻擊+2，<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>攻擊+4。
+              <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
+              >攻擊+2，<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>攻擊+4。
             </td>
           </tr>
           <tr>
@@ -634,7 +634,7 @@
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>
             </td>
             <td class="tunitc5">400W 600G</td>
-            <td class="tunitc6">兵營工作速度加倍。</td>
+            <td class="tunitc6">軍營工作速度加倍。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -688,7 +688,7 @@
               <nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link>
             </td>
             <td class="tunitc5">500F 250G</td>
-            <td class="tunitc6">貿易馬車和貿易商旅造價減半。</td>
+            <td class="tunitc6">貿易車隊和貿易商旅造價減半。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -714,7 +714,7 @@
               <nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link>
             </td>
             <td class="tunitc5">700F 400G</td>
-            <td class="tunitc6">弩砲象和弩炮發射兩個投射物。</td>
+            <td class="tunitc6">弩砲象和弩砲發射兩個投射物。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -740,7 +740,7 @@
               <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>
             </td>
             <td class="tunitc5">600W 400G</td>
-            <td class="tunitc6">馬騎弓兵攻擊和射程都+1。</td>
+            <td class="tunitc6">馬弓騎兵攻擊和射程都+1。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -883,7 +883,7 @@
               <nuxt-link to="/techs/Artillery">砲兵</nuxt-link>
             </td>
             <td class="tunitc5">500G 450S</td>
-            <td class="tunitc6">火炮塔、火炮戰船和火炮射程+2。</td>
+            <td class="tunitc6">火砲塔、火砲戰船和火砲射程+2。</td>
           </tr>
           <tr>
             <td class="tunitc6">

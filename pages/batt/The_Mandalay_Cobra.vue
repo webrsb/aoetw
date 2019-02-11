@@ -72,7 +72,7 @@
           <p>。 經濟單位 - 村民x3。</p>
           <p>。 大地之母單位 - 德彬瑞蒂大王x1、東吁勇士x13、</p>
           <p>
-            飛鏢騎兵x5、精銳矛象伕x6、傭兵x4、手銃兵x3、風琴炮x1、裝甲衝撞車x1、
+            飛鏢騎兵x5、精銳矛象伕x6、傭兵x4、手銃兵x3、風琴砲x1、裝甲衝撞車x1、
           </p>
           <p>僧侶x2、村民x2、獨木舟x3。</p>
           <h2>主要任務</h2>
@@ -154,8 +154,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Mandalay_Cobra">猛蛇出洞</nuxt-link>
+              <div class="unititle2">
+                猛蛇出洞
               </div>
             </td>
           </tr>

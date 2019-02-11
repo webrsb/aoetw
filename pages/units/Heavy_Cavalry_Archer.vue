@@ -10,12 +10,10 @@
           <p>
             重裝馬弓騎兵訓練於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >的<nuxt-link to="/Archery_Range">射箭場</nuxt-link
+            >的<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >，他有非常快的速度與遠程的攻擊，使他成為一名出色的騷擾者，是非常有效對付步兵單位的兵種。但因為他是騎馬的遠程單位，因此懼怕
-            <nuxt-link to="/units/Skirmisher">戰矛兵</nuxt-link>與<nuxt-link
-              to="/units/Pikeman"
-              >槍兵</nuxt-link
-            >。
+            <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+            >與<nuxt-link to="/units/Spearman">槍兵</nuxt-link>。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -29,9 +27,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -48,7 +44,7 @@
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
@@ -69,9 +65,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -108,11 +102,11 @@
             >、<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>、
             <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>與<nuxt-link
               to="/civs/Magyars"
-              >馬札爾</nuxt-link
+              >馬扎爾</nuxt-link
             >。蒙古人擁有絕佳的射速。匈奴人則是有便宜的<nuxt-link
               to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
-            >，薩拉森人對建築有+4的攻擊，而馬札爾人在帝王時代透過
+            >，薩拉森人對建築有+4的攻擊，而馬扎爾人在帝王時代透過
             <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
             >科技，讓馬弓騎兵射程與攻擊額外+1。<nuxt-link to="/civs/Turks"
               >土耳其人</nuxt-link
@@ -147,7 +141,7 @@
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>、
-              <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、。
+              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、。
             </td>
           </tr>
           <tr class="tta">
@@ -680,7 +674,7 @@
             <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：射速快25%。</li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+4
             </li>
@@ -725,7 +719,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -823,8 +817,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                ><nuxt-link to="">重裝馬弓騎兵</nuxt-link>
+              <div class="unititle2">
+                重裝馬弓騎兵
               </div>
             </td>
           </tr>
@@ -877,7 +871,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

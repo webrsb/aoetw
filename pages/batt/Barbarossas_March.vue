@@ -86,7 +86,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
+              <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -172,7 +172,7 @@
           </li>
           <li>
             <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-            <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link> 2
+            <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link> 2
           </li>
         </ul>
       </div>

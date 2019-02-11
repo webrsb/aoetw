@@ -34,7 +34,7 @@
                 src="~assets/EagleScoutIcon.jpg"
                 class="gg"
                 alt=""
-              />鷹斥侯在城堡時代生產時間從32s → 35s(跟鷹勇士一樣了)
+              />鷹斥候在城堡時代生產時間從32s → 35s(跟鷹勇士一樣了)
             </li>
             <li>
               <img
@@ -55,15 +55,15 @@
                 src="~assets/Karambitwarrioricon.png"
                 class="gg"
                 alt=""
-              />爪刀勇士 花費 25F 10G → 30F 15G
+              />彎刀勇士 花費 25F 10G → 30F 15G
             </li>
             <li>
               <img
                 src="~assets/Unique-tech.jpg"
                 class="gg"
                 alt=""
-              />印加<nuxt-link to="/civs/Incas">金冠</nuxt-link>花費400F 200G →
-              600F 600G
+              />印加<nuxt-link to="/techs/Couriers">金冠</nuxt-link>花費400F
+              200G → 600F 600G
             </li>
             <li>
               <img
@@ -158,7 +158,7 @@
                 src="~assets/lame.png"
                 class="gg"
                 alt=""
-              />印加羊駝不再綁定鷹斥侯
+              />印加羊駝不再綁定鷹斥候
             </li>
             <li>
               <img

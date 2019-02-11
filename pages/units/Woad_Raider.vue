@@ -36,7 +36,7 @@
         <div class="n1"></div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">劣勢與優勢</div>
             </td>
           </tr>
@@ -141,7 +141,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -301,7 +301,7 @@
             以下技術可給以下單位對菘藍武士有額外攻擊加成:
             <div class="n1">
               <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-              <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+              <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
               <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
               <ul>
                 <li>
@@ -341,7 +341,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
             <li>
@@ -371,7 +371,7 @@
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>

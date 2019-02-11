@@ -106,7 +106,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -199,7 +199,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -369,7 +369,7 @@
         以下技術可讓以下單位對狂戰士有額外攻擊力
         <div class="n1">
           <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -409,7 +409,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
             </li>
@@ -631,7 +631,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築物</nuxt-link
               >+2/+3(精銳) <br />對<nuxt-link
                 to="/armor/Armor_Class_Eagle_Warrior"

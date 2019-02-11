@@ -20,16 +20,19 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img class="hg" width="200" src="~assets/Elcid.png" alt="" />
+              <gallery
+                ><img class="hg" width="200" src="~assets/Elcid.png" alt=""
+              /></gallery>
               <p><em>戰役編輯器中的熙德(左)和騎馬的熙德。</em></p>
             </div>
             <div class="col-md-5">
-              <img
-                class="hg"
-                width="280"
-                src="~assets/Elcidtournament.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="280"
+                  src="~assets/Elcidtournament.png"
+                  alt=""
+              /></gallery>
               <p>
                 <em
                   >熙德在戰役"兄弟鬩牆"要在競技場上證明實力以獲得國王的信任。</em
@@ -43,7 +46,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">熙德</nuxt-link></div>
+              <div class="unititle2">
+                熙德
+              </div>
             </td>
           </tr>
           <tr>

@@ -14,7 +14,7 @@
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-            >和<nuxt-link to="/units/Mameluke">薩拉森奴隸兵</nuxt-link>HP+30。
+            >和<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>HP+30。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -53,7 +53,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">狂熱舉動</nuxt-link></div>
+              <div class="unititle2">狂熱舉動</div>
             </td>
           </tr>
           <tr>
@@ -65,7 +65,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -99,7 +101,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -112,12 +114,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">駱駝騎兵和薩拉森奴隸兵HP+30。</td>
+            <td class="unit4">駱駝騎兵和奴隸兵HP+30。</td>
           </tr>
         </table>
 

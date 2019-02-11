@@ -133,12 +133,12 @@
                 大部分的資源都能在你營地四周的郊野那裡找到，但是要小心敵人的侵擾。圍牆內的城鎮可保護村民免遭敵人毒手。
               </li>
               <li>
-                你可以掃蕩敵軍，也可以勸降他們。斥侯應該會給你一些有用的軍事情報。
+                你可以掃蕩敵軍，也可以勸降他們。斥候應該會給你一些有用的軍事情報。
               </li>
             </ul>
           </div>
         </div>
-        <h2>斥侯回報</h2>
+        <h2>斥候回報</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -167,8 +167,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link>
+              <div class="unititle2">
+                逐鹿迪格維傑之地
               </div>
             </td>
           </tr>
@@ -186,12 +186,12 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4"><nuxt-link to="/aof">失落的帝國</nuxt-link></td>
+            <td class="unit4"><nuxt-link to="/games/aof">失落的帝國</nuxt-link></td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Prithviraja">布里斯比羅吉</nuxt-link>
+              <nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link>
             </td>
           </tr>
           <tr>

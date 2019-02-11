@@ -11,7 +11,7 @@
             拜占庭帝國（或東羅馬帝國）是中東的防禦型文明，可使用的最初文明之一。拜占庭特殊單位是聖騎兵，聖騎兵是為數不多真正能有效剋制步兵的單位之一。不過，他們整體比騎士稍弱。城堡時期的特殊科技希臘之火，是一種古老技術可使火戰船攻擊距離變得更遠，帝王時代的特殊科技後勤學，是讓拜占庭聖騎兵更為強大的科技，可以使他們的攻擊讓周遭的敵人受到踐踏傷害。
           </p>
           <p>
-            拜占庭人當時是歐洲的門戶之一，首都君士坦丁堡更是當年歐亞大陸、北非交易中心又是絲路的西端，因此拜占庭的經濟和文明是領先於歐洲與地中海各大文明，因而升級帝王時期可以付出較少金錢。歐洲門戶最著名的門戶博斯普魯斯海峽，拜占庭首都君士坦丁堡最著名的雙圍牆在這抵抗了斯拉夫人、阿拉伯人等文明一千多年的入侵，直到被奧斯曼土耳其人攻陷。為了體現拜占庭的強大防禦在遊戲中隨著時代演進建築會更家堅固、也擁有各種便宜的垃圾兵種、免費的城鎮暸望，另外作為希臘正教的起源僧侶的團隊治療速度更為快速。
+            拜占庭人當時是歐洲的門戶之一，首都君士坦丁堡更是當年歐亞大陸、北非交易中心又是絲路的西端，因此拜占庭的經濟和文明是領先於歐洲與地中海各大文明，因而升級帝王時期可以付出較少金錢。歐洲門戶最著名的門戶博斯普魯斯海峽，拜占庭首都君士坦丁堡最著名的雙圍牆在這抵抗了斯拉夫人、阿拉伯人等文明一千多年的入侵，直到被奧斯曼土耳其人攻陷。為了體現拜占庭的強大防禦在遊戲中隨著時代演進建築會更家堅固、也擁有各種便宜的垃圾兵種、免費的城鎮瞭望，另外作為希臘正教的起源僧侶的團隊治療速度更為快速。
           </p>
         </div>
         <h3>概要</h3>
@@ -120,7 +120,7 @@
           晉升至帝王時代花費減免33%(一般是需要 1000食物 800 黃金，變成 667食物
           536黃金)
         </li>
-        <li>封建時代城鎮暸望免費</li>
+        <li>封建時代城鎮瞭望免費</li>
         <li><strong>團隊加分</strong>:僧侶治療速度提高50％</li>
       </ul>
     </div>
@@ -138,10 +138,10 @@
           to="/batt/Attila_the_Huna"
           >阿提拉</nuxt-link
         >，而在帝王世紀的戰役中，在
-        <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>與<nuxt-link
+        <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>與<nuxt-link
           to="/batt/Saladina"
-          >薩拉丁</nuxt-link
-        >也頻繁的出現，耶路撒冷就是拜占庭文明。薩拉丁第五關<nuxt-link
+          >沙拉丁</nuxt-link
+        >也頻繁的出現，耶路撒冷就是拜占庭文明。沙拉丁第五關<nuxt-link
           to="/batt/Jihad"
           >聖戰</nuxt-link
         >的十字軍泰爾，以及巴巴羅薩戰役第四關
@@ -160,7 +160,7 @@
         >也有少量的出現，如西羅馬帝國，因為有了義大利文明的出現，以前由拜占庭扮演的義大利城邦，現在則準確的由義大利取代，
       </p>
       <p>以下詳細列出拜占庭出現的戰役</p>
-      <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
+      <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
       <ul>
         <li>
           <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link
@@ -176,7 +176,7 @@
           >:耶路撒冷、熱那亞人。
         </li>
       </ul>
-      <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
+      <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
       <ul>
         <li>
           <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>:威尼斯
@@ -216,7 +216,7 @@
           <nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link>:西羅馬帝國
         </li>
       </ul>
-      <nuxt-link to="/batt/Attila_the_Huna">征服者戰役</nuxt-link>
+      <nuxt-link to="/batt/Battles_of_the_Conquerors">征服者戰役</nuxt-link>
       <ul>
         <li>
           <nuxt-link to="/batt/Manzikert_1071">曼奇克托(1071)</nuxt-link
@@ -234,7 +234,7 @@
           >羅馬軍團、西羅馬帝國
         </li>
         <li>
-          <nuxt-link to="/batt/The_Rebellion_of_Melus">梅勒斯叛變</nuxt-link
+          <nuxt-link to="/batt/The_Rebellion_of_Melus">邁勒斯叛變</nuxt-link
           >:拜占庭帝國、梅勒斯
         </li>
         <li>
@@ -250,7 +250,7 @@
               src="~assets/Dome_of_the_Rock_(Saladin).png"
               alt=""
           /></gallery>
-          <p><em>岩石圓頂，出現在薩拉丁的第四關及巴巴羅薩的最後一關</em></p>
+          <p><em>岩石圓頂，出現在沙拉丁的第四關及巴巴羅薩的最後一關</em></p>
         </div>
         <div class="col-md-3">
           <gallery

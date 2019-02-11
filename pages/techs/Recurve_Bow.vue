@@ -34,10 +34,10 @@
               >因為這三樣不僅有加成所有範圍單位、有加攻擊力、最重要是花費比反曲弓便宜。
             </li>
             <li>
-              反曲弓讓馬札爾的馬騎弓兵可以與<nuxt-link to="/civs/Turks"
+              反曲弓讓馬扎爾的馬弓騎兵可以與<nuxt-link to="/civs/Turks"
                 >土耳其</nuxt-link
               >和<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >的並列遊戲中最佳的馬騎弓兵。
+              >的並列遊戲中最佳的馬弓騎兵。
             </li>
           </ul>
         </div>
@@ -74,7 +74,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">反曲弓</nuxt-link></div>
+              <div class="unititle2">反曲弓</div>
             </td>
           </tr>
           <tr>
@@ -86,7 +86,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -120,7 +122,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -133,7 +135,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

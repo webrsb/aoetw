@@ -95,7 +95,7 @@
                 >步兵單位</nuxt-link
               >、
               <nuxt-link to="/building">建築物</nuxt-link>、海岸邊的<nuxt-link
-                to="/building/Dock"
+                to="/units/Naval_Vessels"
                 >船艦</nuxt-link
               >。
             </td>
@@ -114,9 +114,9 @@
               >、 <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Bombard_Cannon"
                 >火砲</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、
               <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
               >和<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>。
             </td>
           </tr>
@@ -305,7 +305,7 @@
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Battering_Ram"
-                      >輕形衝撞車</nuxt-link
+                      >輕型衝撞車</nuxt-link
                     >
                   </li>
                 </ul>
@@ -405,7 +405,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -472,7 +472,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -481,8 +481,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -513,8 +513,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
@@ -524,7 +524,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -699,7 +699,7 @@
               >的研究時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">匈奴</nuxt-link>：研發<nuxt-link
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
               >和 <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。

@@ -10,7 +10,7 @@
           <p>
             卡拉維爾戰船是<nuxt-link to="/games/ak">非洲王朝</nuxt-link
             >資料片中<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-            >的第二個特殊單位。在城堡時代時可以在碼頭中訓練。它是艘可以像弩炮一樣傷害多個單位的戰船。
+            >的第二個特殊單位。在城堡時代時可以在碼頭中訓練。它是艘可以像弩砲一樣傷害多個單位的戰船。
           </p>
           <p>卡拉維爾戰船可在帝王時代升級成精銳卡拉維爾戰船。</p>
         </div>
@@ -22,14 +22,14 @@
           </p>
           <p>
             卡拉維爾戰船在大多數戰鬥表現中都比<nuxt-link to="/units/War_Galley"
-              >弩炮戰船</nuxt-link
-            >好，然而在1對1的戰鬥中他們會輸給弩炮戰船，精銳卡拉維爾戰船則會輸給重型弩炮戰船。若是論打群架，卡拉維爾戰船則可以輕易地用穿透傷害戰勝他們。
+              >弩砲戰船</nuxt-link
+            >好，然而在1對1的戰鬥中他們會輸給弩砲戰船，精銳卡拉維爾戰船則會輸給重型弩砲戰船。若是論打群架，卡拉維爾戰船則可以輕易地用穿透傷害戰勝他們。
           </p>
           <p>
             卡拉維爾戰船只比<nuxt-link to="/units/War_Galley"
-              >弩炮戰船</nuxt-link
-            >貴一點，但是到城堡時代不需升級就能馬上訓練。在後期如果要同時訓練卡拉維爾戰船和弩炮戰船/
-            <nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link
+              >弩砲戰船</nuxt-link
+            >貴一點，但是到城堡時代不需升級就能馬上訓練。在後期如果要同時訓練卡拉維爾戰船和弩砲戰船/
+            <nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
             >的話玩家的經濟必須相當的好才行。但如果同時有這兩種船隻的話前者可以做輸出主力，後者則做肉盾，足以應付敵方的任何艦隊。
           </p>
         </div>
@@ -49,21 +49,21 @@
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>、在岸邊的
               <nuxt-link to="/building">建築物</nuxt-link>和近戰單位、<nuxt-link
                 to="/units/Cannon_Galleon"
-                >火炮戰船</nuxt-link
+                >火砲戰船</nuxt-link
               >、群體單位。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Fire_Galley">火戰船</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>、<nuxt-link
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >、
               <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
               >、箭塔、<nuxt-link to="/building/Castle">城堡</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -199,7 +199,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -245,14 +245,14 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -299,7 +299,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -322,10 +322,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -361,7 +359,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -587,8 +585,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                <nuxt-link to="">卡拉維爾戰船</nuxt-link>
+              <div class="unititle2">
+                卡拉維爾戰船
               </div>
             </td>
           </tr>
@@ -601,7 +599,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link></div>
+              <div class="unititle2">單位介紹</div>
             </td>
           </tr>
           <tr>
@@ -641,7 +639,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -733,8 +731,7 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
-                to="/units/Caravel"
-                >精銳卡拉維爾戰船</nuxt-link
+                to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
               >
             </td>
           </tr>

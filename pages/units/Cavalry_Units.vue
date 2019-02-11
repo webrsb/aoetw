@@ -49,7 +49,7 @@
           </p>
           <p>
             儘管騎兵部隊有很多優勢，但仍有一些缺點。反制騎兵最常用的那就是<nuxt-link
-              to="/units/Pikeman"
+              to="/units/Spearman"
               >長槍兵</nuxt-link
             >。每個使用騎兵的玩家遲早都會在戰場上遇見他們，
             <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>，<nuxt-link
@@ -121,7 +121,7 @@
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、:<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯騎兵</nuxt-link
+                >斥候騎兵</nuxt-link
               >便宜15%。
             </li>
             <li>
@@ -133,7 +133,7 @@
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯騎兵</nuxt-link
+                >斥候騎兵</nuxt-link
               >HP+30%。
             </li>
             <li>
@@ -197,7 +197,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/ScoutCavalryIcon.jpg" /><nuxt-link
                   to="/units/Scout_Cavalry"
-                  >斥侯騎兵</nuxt-link
+                  >斥候騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">45</td>
@@ -526,7 +526,7 @@
                 <img
                   class="gg"
                   src="~assets/Saracenmamluk_icon.png"
-                /><nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link>
+                /><nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
               </td>
               <td class="tta3">65</td>
               <!--生命值!-->
@@ -548,7 +548,7 @@
                 <img
                   class="gg"
                   src="~assets/Saracenmamluk_icon.png"
-                /><nuxt-link to="/units/Mameluke">精銳阿拉伯奴隸兵</nuxt-link>
+                /><nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link>
               </td>
               <td class="tta3">80</td>
               <!--生命值!-->
@@ -617,7 +617,7 @@
                   class="gg"
                   width="22"
                   src="~assets/Magyar_Huszar_icon.jpg"
-                /><nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>
+                /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>
               </td>
               <td class="tta3">70</td>
               <!--生命值!-->
@@ -641,7 +641,7 @@
                   width="22"
                   src="~assets/Magyar_Huszar_icon.jpg"
                 /><nuxt-link to="/units/Magyar_Huszar"
-                  >精銳馬札爾驃騎兵</nuxt-link
+                  >精銳馬扎爾驃騎兵</nuxt-link
                 >
               </td>
               <td class="tta3">85</td>
@@ -1071,7 +1071,7 @@
               </td>
               <td class="tunitc4">雇傭兵</td>
               <td class="tunitc5">200F 300G</td>
-              <td class="tunitc6">訓練馬札爾驃騎兵不需消耗黃金。</td>
+              <td class="tunitc6">訓練馬扎爾驃騎兵不需消耗黃金。</td>
             </tr>
             <tr>
               <td class="tunitc6">

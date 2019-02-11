@@ -33,7 +33,7 @@
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >馬弓騎兵開火速度+20%；
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >馬弓騎兵+1攻擊和+1射程範圍)。
             </li>
           </ul>
@@ -62,7 +62,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">采邑騎兵</nuxt-link></div>
+              <div class="unititle2">采邑騎兵</div>
             </td>
           </tr>
           <tr>
@@ -74,7 +74,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -108,7 +110,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -121,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

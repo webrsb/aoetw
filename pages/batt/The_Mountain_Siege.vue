@@ -66,7 +66,7 @@
           <p>。 英雄 - 黎利x1</p>
           <p>。 軍事單位 - 輕騎兵x2、騎兵x6、矛象伕x2、藤甲弓兵x20</p>
           <p>。 經濟單位 - 村民x8。</p>
-          <p>。大地之母單位：精銳茅象伕X1，藤甲弓手X6。</p>
+          <p>。大地之母單位：精銳茅象伕X1，藤甲弓兵X6。</p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -89,7 +89,7 @@
             <li>由於缺乏材料，你無法建造攻城武器。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -138,8 +138,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Mountain_Siege">至靈山魂</nuxt-link>
+              <div class="unititle2">
+                至靈山魂
               </div>
             </td>
           </tr>

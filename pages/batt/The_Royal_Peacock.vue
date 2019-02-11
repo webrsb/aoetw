@@ -167,8 +167,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Royal_Peacock">百鳥朝鳳</nuxt-link>
+              <div class="unititle2">
+                百鳥朝鳳
               </div>
             </td>
           </tr>

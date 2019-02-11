@@ -10,7 +10,7 @@
           <p></p>
           <p>
             <b>席捲入荒</b
-            >為蘇利耶跋摩一世戰役的第二關劇情關卡，此關描述蘇利耶跋摩確立權位的一系列軍事行動經過。以及與勁敵闍耶毗羅跋摩的爭雄。
+            >為蘇利耶跋摩一世戰役的第二關劇情關卡，此關描述蘇利耶跋摩確立權位的一系列軍事行動經過。以及與勁敵闍耶羅跋摩的爭雄。
           </p>
         </div>
         <h2>玩家</h2>
@@ -54,7 +54,7 @@
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p4" width="10%">玩家2</div></td>
-              <td class="tc6" width="40%">闍耶毗羅跋摩的軍隊（黃色）馬來</td>
+              <td class="tc6" width="40%">闍耶羅跋摩的軍隊（黃色）馬來</td>
               <td class="tc6"><div class="p2" width="10%">玩家3</div></td>
               <td class="tc6" width="40%">北方叛軍（紅色）高棉</td>
             </tr>
@@ -79,7 +79,7 @@
             <ol>
               <li>打敗北方叛軍</li>
               <li>打敗東方叛軍</li>
-              <li>殺死闍耶毗羅跋摩並擊潰他的軍隊</li>
+              <li>殺死闍耶羅跋摩並擊潰他的軍隊</li>
             </ol>
             <h2>次要任務</h2>
             <div class="hrn1"></div>
@@ -119,11 +119,11 @@
                   東方叛軍（橘色）佔據了地形險要的東邊，旗下有一支由僧侶、象兵與弩砲組成的軍團。
                 </li>
                 <li>
-                  闍耶毗羅跋摩的軍隊
+                  闍耶羅跋摩的軍隊
                   (黃色）控制著南邊湄公河畔的數座小鎮，他們的步兵一波又一波地朝蘇利耶跋摩一世攻擊。
                 </li>
                 <li>
-                  闍耶毗羅跋摩（紫色）住在地圖南邊的堡壘中，由重裝步兵貼身保護。
+                  闍耶羅跋摩（紫色）住在地圖南邊的堡壘中，由重裝步兵貼身保護。
                 </li>
               </ul>
               <h2>細節</h2>
@@ -131,7 +131,7 @@
               <div class="n1">
                 <ul>
                   <li>
-                    闍耶毗羅跋摩（？-1002），馬來裔吳哥王朝將領。後來稱帝，但遭到蘇利耶跋摩一世擊潰。
+                    闍耶羅跋摩（？-1002），馬來裔吳哥王朝將領。後來稱帝，但遭到蘇利耶跋摩一世擊潰。
                   </li>
                 </ul>
               </div>
@@ -143,10 +143,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Quelling_the_Rebellion"
-                  >席捲入荒</nuxt-link
-                >
+              <div class="unititle2">
+                席捲入荒
               </div>
             </td>
           </tr>
@@ -165,13 +163,13 @@
           <tr>
             <td class="unit3">版本</td>
             <td class="unit4">
-              <nuxt-link to="/games/aor/">王者崛起</nuxt-link>
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link>
+              <nuxt-link to="/batt/Suryavarman_I">蘇利耶跋摩一世</nuxt-link>
             </td>
           </tr>
           <tr>

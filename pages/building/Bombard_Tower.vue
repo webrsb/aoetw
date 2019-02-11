@@ -14,7 +14,7 @@
                 width="50px;"
                 alt=""
                 style="margin-right:20px;"
-              />本條目把學院內的火炮塔科技與建築的火炮塔寫在一起了！</em
+              />本條目把學院內的火砲塔科技與建築的火砲塔寫在一起了！</em
             >
           </div>
           <p>
@@ -28,7 +28,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            火炮塔是防禦基地的重要選擇之一。火砲塔對於玩家防禦重裝敵人的攻擊非常有用。
+            火砲塔是防禦基地的重要選擇之一。火砲塔對於玩家防禦重裝敵人的攻擊非常有用。
             如果玩家選擇龜縮基地爆經濟的話，除了幾個箭塔和城堡外，穿插一些火砲塔可以創建更強大的防禦工事。
           </p>
           <p>
@@ -57,7 +57,7 @@
             <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
             >/<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >從遠距離摧毀。所以碰到上述三種單位和重型衝撞車攻擊時，最好在火砲塔附近佈置些肉博單位做反制。
-            <nuxt-link to="/units/Longbowman">不列顛長弓兵</nuxt-link
+            不列顛<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
             >的射程雖比火砲塔遠，但傷害太小若沒有一定數量不構成威脅。
           </p>
           <p>
@@ -85,9 +85,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
@@ -112,9 +110,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -316,14 +312,14 @@
                 src="~assets/Townwatch.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>(+4)
+              /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮巡邏</nuxt-link>(+4)
+              /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
             </td>
           </tr>
           <tr>
@@ -351,7 +347,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%)
             </td>
           </tr>
@@ -429,13 +425,13 @@
           <ul>
             <li>
               火砲塔現在造成遠防傷害。儘管在很多情況下這沒有太大的區別，但是現在<nuxt-link
-                to="/units/Siege_Ram"
+                to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
               >變得不怕火砲塔，因此這一點非常重要。
             </li>
             <li>
               土耳其新科技：<nuxt-link to="/techs/Artillery">砲兵</nuxt-link
-              >:火炮塔射程+2。
+              >:火砲塔射程+2。
             </li>
           </ul>
           <h3>
@@ -681,7 +677,7 @@
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >
             </td>
           </tr>
@@ -691,12 +687,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>
             <td class="unit4" style="text-align: center;" colspan="2">
-              可以蓋火炮塔
+              可以蓋火砲塔
             </td>
           </tr>
         </table>

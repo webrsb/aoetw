@@ -41,7 +41,7 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家1</div></td>
-              <td class="tc6" colspan="3">塞爾特人（藍色）</td>
+              <td class="tc6" colspan="3">賽爾特人（藍色）</td>
             </tr>
           </table>
 
@@ -90,8 +90,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Feeding_the_Army">供養軍隊</nuxt-link>
+              <div class="unititle2">
+                供養軍隊
               </div>
             </td>
           </tr>
@@ -122,7 +122,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
+              <nuxt-link to="/civs/Celts">賽爾特人</nuxt-link>
             </td>
           </tr>
           <tr>

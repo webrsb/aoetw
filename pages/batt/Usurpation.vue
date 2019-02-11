@@ -135,8 +135,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Usurpation">揭竿而起</nuxt-link>
+              <div class="unititle2">
+                揭竿而起
               </div>
             </td>
           </tr>
@@ -159,7 +159,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link>
+              <nuxt-link to="/batt/Suryavarman_I">蘇利耶跋摩一世</nuxt-link>
             </td>
           </tr>
           <tr>

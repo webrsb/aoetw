@@ -18,25 +18,27 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Mangrove.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Mangrove.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center">
               <em>中間的紅樹林區有金礦和石礦可開採。</em>
             </p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Channels.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Channels.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>城鎮旁的峽灣。</em></p>
           </div>
         </div>

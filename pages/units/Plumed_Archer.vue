@@ -8,12 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            羽毛箭射手是<nuxt-link to="/games/aof">征服者入侵</nuxt-link
-            >資料片中瑪雅的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
+            羽毛箭射手是<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            >資料片中馬雅的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。是個速度快裝甲好的弓兵。其相對較高的訓練成本被瑪雅人的文明加成所降低，使其成為最具成本效益的弓箭手之一。
+            >中訓練。是個速度快裝甲好的弓兵。其相對較高的訓練成本被馬雅人的文明加成所降低，使其成為最具成本效益的弓箭手之一。
           </p>
           <p>
             羽毛箭射手可以在<nuxt-link to="/techs/age/Imperial_Age"
@@ -81,7 +81,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
@@ -388,11 +388,11 @@
               >的研究時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：羽毛箭射手視野+2。。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">馬利</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>速度快80%。
@@ -400,7 +400,7 @@
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >：羽毛箭射手對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>

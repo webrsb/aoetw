@@ -52,7 +52,7 @@
             <li>
               條頓騎士可與遊俠搭配，因為弓箭手對他們毫無威脅。但最好的伙伴也許是攻城武器。他們可以支援條頓騎士面對幾乎任何威脅。<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >和
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >攻擊弓箭手，<nuxt-link to="/units/Battering_Ram"
@@ -91,7 +91,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
@@ -103,7 +103,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -185,7 +185,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -347,7 +347,7 @@
         以下技術可讓以下單位對條頓武士有額外攻擊力
         <div class="n1">
           <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -380,7 +380,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。。
             </li>
@@ -415,7 +415,7 @@
             <li>條頓武士(非精銳)現在的HP為80。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>

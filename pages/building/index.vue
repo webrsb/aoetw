@@ -182,7 +182,7 @@
               width="25px"
               src="~assets/Gateicon.png"
               alt=""
-            /><nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>
+            /><nuxt-link to="/building/Gate">城門</nuxt-link>
           </li>
           <li>
             <img
@@ -228,9 +228,7 @@
               width="25px"
               src="~assets/Siegeworkshopicon.png"
               alt=""
-            /><nuxt-link to="/building/Siege_Workshop"
-              >攻城武器製造所</nuxt-link
-            >
+            /><nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link>
           </li>
           <li>
             <img
@@ -292,7 +290,7 @@
               width="25px"
               src="~assets/Bombardtowericon.png"
               alt=""
-            /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+            /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
           </li>
           <li>
             <img
@@ -312,7 +310,12 @@
 </template>
 <script>
 export default {
-  layout: 'footn',
+  head() {
+    return {
+      title: 'Aoetw - 建築'
+    }
+  },
+  layout: '',
   components: {}
 }
 </script>

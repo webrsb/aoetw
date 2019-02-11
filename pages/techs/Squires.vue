@@ -25,9 +25,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -69,9 +67,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
@@ -193,7 +189,7 @@
             <td class="tta1">
               <img class="gg" src="~assets/EagleScoutIcon.jpg" /><nuxt-link
                 to="/units/Eagle_Scout"
-                >鷹斥侯</nuxt-link
+                >鷹斥候</nuxt-link
               >
             </td>
             <td class="tta2">1.1</td>
@@ -304,7 +300,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/ShotelIcon.png" /><nuxt-link
-                to="/units/Karambit_Warrior"
+                to="/units/Shotel_Warrior"
                 >彎刀勇士(精銳)</nuxt-link
               >
             </td>
@@ -325,7 +321,7 @@
             <td class="tta1">
               <img class="gg" src="~assets/Karambitwarrioricon.png" /><nuxt-link
                 to="/units/Shotel_Warrior"
-                >爪刀勇士(精銳)</nuxt-link
+                >彎刀勇士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">1.2，1.2</td>
@@ -392,7 +388,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">護衛</nuxt-link></div>
+              <div class="unititle2">護衛</div>
             </td>
           </tr>
           <tr>
@@ -404,7 +400,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -437,7 +435,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -446,7 +444,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

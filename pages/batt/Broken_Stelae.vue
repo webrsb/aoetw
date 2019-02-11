@@ -75,12 +75,12 @@
             </li>
           </ul>
         </div>
-        <h3>斥侯</h3>
+        <h3>斥候</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
-              你的斥侯回報:我們(黃色)的任務是把極大汗趕出這片土地，以打開通往阿克蘇姆的大門。
+              你的斥候回報:我們(黃色)的任務是把極大汗趕出這片土地，以打開通往阿克蘇姆的大門。
             </li>
             <li>
               你在這場戰鬥中沒有盟友，但是當地人可以被遊說加入你們的陣營。
@@ -150,7 +150,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="batt/Welcome_Home">重回故里</nuxt-link>
+              <nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </td>
           </tr>
         </table>
@@ -178,54 +178,52 @@
           </li>
           <div class="col-md-12">
             <div class="col-md-6">
-              <gallery>
-                <img
+              <gallery
+                ><img
                   position="centered"
                   class="imgn hg"
                   width="500"
                   src="~assets/Estado_da_India_Start.jpg"
                   alt=""
-                />
-              </gallery>
+              /></gallery>
               <p><em>玩家開始的城鎮。</em></p>
             </div>
             <div class="col-md-6">
-              <img
-                position="centered"
-                class="imgn hg"
-                width="500"
-                src="~assets/Local_tribe.jpg"
-                alt=""
-              />
+              <gallery
+                ><img
+                  position="centered"
+                  class="imgn hg"
+                  width="500"
+                  src="~assets/Local_tribe.jpg"
+                  alt=""
+              /></gallery>
               <p class="text-center"><em>尋求地方部落的支持。</em></p>
             </div>
             <div class="col-md-6">
-              <gallery>
-                <img
+              <gallery
+                ><img
                   position="centered"
                   class="imgn hg"
                   width="500"
                   src="~assets/Local_tribe2.jpg"
                   alt=""
-                />
-              </gallery>
+              /></gallery>
               <p><em>聆聽地方部落的憤怒，幫助他們。</em></p>
             </div>
             <div class="col-md-6">
-              <gallery>
-                <img
+              <gallery
+                ><img
                   position="centered"
                   class="imgn hg"
                   width="500"
                   src="~assets/Enemy_coming.jpg"
                   alt=""
-                />
-              </gallery>
+              /></gallery>
               <p><em>極大汗來襲!</em></p>
             </div>
           </div>
           <li>
-            帝王時代後派15名升級過的騎兵部隊殺光地圖上所有的極大汗追隨者並佔領石牌，派遣衝撞車摧毀廟宇取得黃金，同時連絡地方部落後目標會更改成摧毀馬薩瓦的城鎮中心、城堡跟市集。派遣你的大軍往馬薩瓦移動，極大汗基地只有木牆十分容易進攻，不過他們的部隊源源不絕地湧出，玩家要不斷往前進攻才能獲得勝利。巨型投石機及火炮是摧毀建築物的最好武器，妥善保護他們執行任務，一旦上述三棟建築陷落玩家就能獲得勝利。
+            帝王時代後派15名升級過的騎兵部隊殺光地圖上所有的極大汗追隨者並佔領石牌，派遣衝撞車摧毀廟宇取得黃金，同時連絡地方部落後目標會更改成摧毀馬薩瓦的城鎮中心、城堡跟市集。派遣你的大軍往馬薩瓦移動，極大汗基地只有木牆十分容易進攻，不過他們的部隊源源不絕地湧出，玩家要不斷往前進攻才能獲得勝利。巨型投石機及火砲是摧毀建築物的最好武器，妥善保護他們執行任務，一旦上述三棟建築陷落玩家就能獲得勝利。
           </li>
           <li>
             玩家在北邊水域興建完碼頭地圖旁邊會出現五艘重型弩砲戰船為玩家所用，但作用不大。另外玩家也可先掃平馬薩瓦再連絡地方部落，一樣會獲勝。
@@ -233,27 +231,25 @@
         </ul>
         <div class="col-md-12">
           <div class="col-md-6">
-            <gallery>
-              <img
+            <gallery
+              ><img
                 position="centered"
                 class="imgn hg"
                 width="500"
                 src="~assets/Attack_Gidajan.jpg"
                 alt=""
-              />
-            </gallery>
+            /></gallery>
             <p><em>攻擊馬薩瓦!</em></p>
           </div>
           <div class="col-md-6">
-            <gallery>
-              <img
+            <gallery
+              ><img
                 position="centered"
                 class="imgn hg"
                 width="500"
                 src="~assets/Ally_ships.jpg"
                 alt=""
-              />
-            </gallery>
+            /></gallery>
             <p><em>盟軍船隊來支援了!</em></p>
           </div>
         </div>

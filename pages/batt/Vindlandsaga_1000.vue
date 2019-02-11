@@ -127,7 +127,7 @@
               <li>維京人只能升級到城堡時代。</li>
             </ul>
           </div>
-          <h3>斥侯</h3>
+          <h3>斥候</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -256,8 +256,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="">芬特蘭撒格(1000)</nuxt-link>
+              <div class="unititle2">
+                芬特蘭撒格(1000)
               </div>
             </td>
           </tr>

@@ -47,13 +47,12 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
-                to="/units/Scout_Cavalry"
+                to="/units/Camel"
                 >駱駝</nuxt-link
               >、
-              <nuxt-link to="/units/Eagle_Scout">鷹勇士</nuxt-link>、<nuxt-link
-                to="/units/Spearman"
-                >輕騎兵</nuxt-link
-              >、<nuxt-link to="/units/Villager">重裝長槍兵</nuxt-link>。
+              <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -61,7 +60,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、
               <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>、<nuxt-link
@@ -76,7 +75,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -186,7 +185,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -222,7 +221,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:兵營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -358,7 +357,7 @@
           技術:以下技術會給以下單位對長劍兵有額外攻擊。
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -400,11 +399,11 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：長劍兵便宜35％並對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link
+              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link
               >和升級雙手劍兵的速度快100%。
@@ -414,7 +413,7 @@
               >：長劍兵攻速快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
@@ -430,7 +429,7 @@
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >。
             </li>
             <li>
@@ -465,7 +464,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：長劍兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -487,7 +486,7 @@
             <li>長劍兵現在有55HP。</li>
             <li>
               長劍兵擁有+2攻擊VS<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >。
             </li>
@@ -523,7 +522,7 @@
             <li>長劍兵現在有60HP。</li>
             <li>
               長劍兵擁有+3攻擊VS<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >。
             </li>
@@ -687,7 +686,7 @@
               +6對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >
-              <br />+3對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <br />+3對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
             </td>

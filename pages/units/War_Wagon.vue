@@ -11,9 +11,9 @@
             馬戰車是韓國的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。是個有高遠程裝甲和高生命值的馬騎弓兵。他的攻擊方式像
-            <nuxt-link to="/units/Scorpion">弩炮</nuxt-link
-            >，但不像弩炮有爆炸傷害。
+            >中訓練。是個有高遠程裝甲和高生命值的馬弓騎兵。他的攻擊方式像
+            <nuxt-link to="/units/Scorpion">弩砲</nuxt-link
+            >，但不像弩砲有爆炸傷害。
           </p>
           <p>
             馬戰車可以在<nuxt-link to="/techs/age/Imperial_Age"
@@ -50,7 +50,7 @@
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link>，<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >，<nuxt-link to="/units/Ballista_Elephant">矛象伕</nuxt-link>，
+              >，<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>，
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >和<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
               >(有高遠程護甲)、<nuxt-link to="/units/Samurai"
@@ -61,7 +61,7 @@
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >對付上述單位。投石車也是個麻煩，韓國人可以用
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >或他們的<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >對付他們。最後，由於缺乏<nuxt-link to="/techs/Heresy"
                 >異端邪說</nuxt-link
@@ -71,7 +71,7 @@
               馬戰車的移動速度快，對建築物有攻擊加值，可以集中火力迅速殺死一個目標，並對箭矢有防禦加成，相當適合作為突襲單位。他們在防守上能站在城牆後面，用遠距離攻擊安全地殲滅敵方部隊。在一些窄路徑的地圖（如黑森林）中，戰車可以用他們的大尺寸來堵塞路徑，防止敵人到達某個點;給玩家足夠的時間來加強這個地方的防守。和其他射手單位一樣，馬戰車也可以駐守城堡裡面增加攻擊傷害、射箭的數量。一座駐紮滿馬戰車的城堡甚至可以在一擊殺死一個哥德衛隊。
             </li>
             <li>
-              儘管是馬騎弓兵，但由於馬戰車的體積龐大，速度相對較慢，開火間隔較長，所以執行打帶跑戰術的效果並不理想。
+              儘管是馬弓騎兵，但由於馬戰車的體積龐大，速度相對較慢，開火間隔較長，所以執行打帶跑戰術的效果並不理想。
             </li>
           </ul>
         </div>
@@ -619,19 +619,19 @@
               >的研究時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">不列顛</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：研究<nuxt-link
                 to="/techs/Thumb_Ring"
                 >拇指環</nuxt-link
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">匈奴</nuxt-link>：研發<nuxt-link
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">馬利</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>速度快80%。
@@ -782,7 +782,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               對<nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造防禦建築</nuxt-link
+                >石頭建築</nuxt-link
               >攻擊+5
             </td>
           </tr>

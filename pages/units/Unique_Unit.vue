@@ -19,7 +19,7 @@
           特殊單位提供了遊戲中更多元的打法，可以與同盟互相配合，或是搭配地圖地形選擇不同的文明兵種搭配，為遊戲增加更多的樂趣。
         </li>
         <li>
-          但值得注意的是，雖然日本武士對於所以的特殊單位(包含他自己)有加成，但對帝王駱駝騎兵與帝王戰茅兵是沒有加成的。
+          但值得注意的是，雖然日本武士對於所以的特殊單位(包含他自己)有加成，但對帝王駱駝騎兵與帝王戰矛兵是沒有加成的。
         </li>
       </ul>
     </div>
@@ -198,7 +198,7 @@
                 <nuxt-link to="/civs/Goths">哥德</nuxt-link>、研發<nuxt-link
                   to="/techs/Anarchy"
                   >無政府狀態</nuxt-link
-                >後可在<nuxt-link to="/building/Barracks">兵營</nuxt-link>訓練
+                >後可在<nuxt-link to="/building/Barracks">軍營</nuxt-link>訓練
                 <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
               </li>
             </td>
@@ -235,7 +235,7 @@
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                to="/units/Caravel"
+                to="/units/Longboat"
                 >維京大戰船</nuxt-link
               >
             </td>
@@ -444,7 +444,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>
             </td>
             <td class="tunitc6">
-              只要是義大利或其同盟於帝王時代在兵營中可生產，移動速度快的反火槍單位。
+              只要是義大利或其同盟於帝王時代在軍營中可生產，移動速度快的反火槍單位。
             </td>
           </tr>
           <tr>
@@ -453,7 +453,7 @@
                 class="gg"
                 src="~assets/Magyar_Huszar_icon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>
+              /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
@@ -612,7 +612,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>
+              /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>
@@ -639,7 +639,7 @@
                 src="~assets/Imperialskirmishericon.png"
                 alt=""
               /><nuxt-link to="/units/Imperial_Skirmisher"
-                >帝王戰茅兵</nuxt-link
+                >帝王戰矛兵</nuxt-link
               >
             </td>
             <td class="tunitc4">

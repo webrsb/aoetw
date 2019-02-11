@@ -9,8 +9,8 @@
         <div class="n1">
           <p>
             <strong>伊滿</strong>是一名在《世紀帝國II：征服者入侵》的<nuxt-link
-              to="/El_Cid"
-              >席德</nuxt-link
+              to="/units/hero/El_Cid"
+              >熙德</nuxt-link
             >戰役中，<nuxt-link to="/batt/The_Enemy_of_my_Enemy"
               >我敵人的敵人</nuxt-link
             >這一關中登場的英雄
@@ -36,7 +36,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">伊滿</nuxt-link></div>
+              <div class="unititle2">
+                伊滿
+              </div>
             </td>
           </tr>
           <tr>

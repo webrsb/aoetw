@@ -39,15 +39,19 @@
             <div class="col-md-6">
               <ol>
                 <li>
-                  <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings">火龍展翅</nuxt-link>
+                  <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings"
+                    >火龍展翅</nuxt-link
+                  >
                   &nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Return_of_the_Dragon">龍之歸來</nuxt-link
+                  <nuxt-link to="/batt/The_Return_of_the_Dragon"
+                    >龍之歸來</nuxt-link
                   >&nbsp;&nbsp;
                 </li>
                 <li>
-                  <nuxt-link to="/batt/The_Breath_of_the_Dragon">龍之喘息</nuxt-link
+                  <nuxt-link to="/batt/The_Breath_of_the_Dragon"
+                    >龍之喘息</nuxt-link
                   >&nbsp;&nbsp;
                 </li>
                 <li>
@@ -93,7 +97,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">土耳其、馬札爾、斯拉夫</td>
+            <td class="unit4">土耳其、馬扎爾、斯拉夫</td>
           </tr>
           <tr>
             <td class="unit3">關卡</td>

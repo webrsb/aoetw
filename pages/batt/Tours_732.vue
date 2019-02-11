@@ -94,7 +94,7 @@
               <li>你可以點擊路徑標記。</li>
             </ul>
           </div>
-          <h3>斥侯</h3>
+          <h3>斥候</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -233,7 +233,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="batt/Vindlandsaga_1000"
+              <nuxt-link to="/batt/Vindlandsaga_1000"
                 >芬特蘭撒格(1000)</nuxt-link
               >
             </td>

@@ -153,7 +153,7 @@
                       class="gg"
                       src="~assets/Blastfurnace.jpg"
                       alt=""
-                    /><nuxt-link to="/techs/Blast_Furnace">鐵風爐</nuxt-link>
+                    /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -276,7 +276,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >(+20%建造效率)
               </td>
             </tr>
@@ -310,7 +310,7 @@
               <li>
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研發<nuxt-link
                   to="/techs/Town_Watch"
-                  >城鎮暸望</nuxt-link
+                  >城鎮瞭望</nuxt-link
                 >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
                 >的速度在封建/城堡/帝王快10%/15%/20%。
               </li>
@@ -369,12 +369,13 @@
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
-                <img
-                  class="hg"
-                  width="200"
-                  src="~assets/BlacksmithFeudalAgeHD.png"
-                  alt=""
-                />
+                <gallery
+                  ><img
+                    class="hg"
+                    width="200"
+                    src="~assets/BlacksmithFeudalAgeHD.png"
+                    alt=""
+                /></gallery>
                 <div class="lightbox-caption" style="width:185px">
                   <p>
                     <em
@@ -384,12 +385,13 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <img
-                  class="hg"
-                  width="200"
-                  src="~assets/Blacksmithaokaoc.png"
-                  alt=""
-                />
+                <gallery
+                  ><img
+                    class="hg"
+                    width="200"
+                    src="~assets/Blacksmithaokaoc.png"
+                    alt=""
+                /></gallery>
                 <div class="lightbox-caption" style="width:185px">
                   <p>
                     <em
@@ -399,23 +401,25 @@
                 </div>
               </div>
               <div class="col-md-6">
-                <img
-                  class="hg"
-                  width="200"
-                  src="~assets/BlacksmithFeudalAgeDLC.png"
-                  alt=""
-                />
+                <gallery
+                  ><img
+                    class="hg"
+                    width="200"
+                    src="~assets/BlacksmithFeudalAgeDLC.png"
+                    alt=""
+                /></gallery>
                 <div class="lightbox-caption" style="width:185px">
                   <p><em>所有文明封建時代的兵工廠(HD擴充資料片)。</em></p>
                 </div>
               </div>
               <div class="col-md-6">
-                <img
-                  class="hg"
-                  width="200"
-                  src="~assets/Blacksmith_hd.png"
-                  alt=""
-                />
+                <gallery
+                  ><img
+                    class="hg"
+                    width="200"
+                    src="~assets/Blacksmith_hd.png"
+                    alt=""
+                /></gallery>
                 <div class="lightbox-caption" style="width:185px">
                   <p><em>所有文明城堡時代的兵工廠(HD擴充資料片)。</em></p>
                 </div>
@@ -428,7 +432,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">兵工廠</nuxt-link></div>
+              <div class="unititle2">
+                兵工廠
+              </div>
             </td>
           </tr>
           <tr>
@@ -440,7 +446,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>
@@ -467,7 +473,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

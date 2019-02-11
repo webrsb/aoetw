@@ -70,7 +70,7 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 軍事單位 - 爪刀勇士x18、弩兵x6、輕騎兵x1</p>
+          <p>。 軍事單位 - 彎刀勇士x18、弩兵x6、輕騎兵x1</p>
           。 經濟單位 - 村民x4
           <p>。 大地之母單位 - 矛象伕x5</p>
           <h2>主要任務</h2>
@@ -158,10 +158,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Story_of_our_Founders"
-                  >開疆闢土</nuxt-link
-                >
+              <div class="unititle2">
+                開疆闢土
               </div>
             </td>
           </tr>

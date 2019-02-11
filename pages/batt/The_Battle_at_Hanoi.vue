@@ -98,7 +98,7 @@
             <li>摧毀主要的敵營建築能夠從中劫掠資源。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -128,8 +128,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Battle_at_Hanoi">圍困昇龍</nuxt-link>
+              <div class="unititle2">
+                圍困昇龍
               </div>
             </td>
           </tr>

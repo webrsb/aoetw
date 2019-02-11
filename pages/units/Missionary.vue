@@ -343,7 +343,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>
@@ -365,7 +365,7 @@
                       class="gg"
                       src="~assets/ScoutCavalryIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Scout_Cavalry">斥侯騎兵</nuxt-link>
+                    /><nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -529,7 +529,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">傳教士</nuxt-link></div>
+              <div class="unititle2">
+                傳教士
+              </div>
             </td>
           </tr>
           <tr>
@@ -541,7 +543,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link></div>
+              <div class="unititle2">單位介紹</div>
             </td>
           </tr>
           <tr>
@@ -583,7 +585,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -626,7 +628,7 @@
           <tr>
             <td class="unit3">防禦類別</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
               <br />
               <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"

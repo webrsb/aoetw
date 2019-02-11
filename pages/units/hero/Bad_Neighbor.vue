@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            壞鄰居是一個在薩拉丁戰役最終關：<nuxt-link
+            壞鄰居是一個在沙拉丁戰役最終關：<nuxt-link
               to="/batt/The_Lion_and_the_Demon"
               >獅子與惡魔</nuxt-link
             >登場的英雄單位。壞鄰居的原型是一台參與了
@@ -25,7 +25,7 @@
                 >阿卡圍城戰</a
               >中被使用，但在史實中他是由腓力二世所擁有，而不是
               <nuxt-link to="/units/hero/Richard_the_Lionheart"
-                >獅心王理查</nuxt-link
+                >獅心王查理</nuxt-link
               >。
             </li>
             <li>
@@ -40,13 +40,15 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">壞鄰居</nuxt-link></div>
+              <div class="unititle2">
+                壞鄰居
+              </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/TrebuchetPackedIcon.jpg" width="80" alt="" />
+                <img src="~assets/Badneighboricon.png" width="80" alt="" />
               </div>
             </td>
           </tr>

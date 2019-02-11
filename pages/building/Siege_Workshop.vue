@@ -11,7 +11,7 @@
             攻城器製造所是專門製造攻城武器的場所，其單位對建築物有強大的破壞力。
           </p>
           <p>
-            因為舊快捷鍵的關係，一搬玩家稱攻城器製造所為「BK」，即使他們因為新快捷鍵不再用BK作為攻城武器製造所的快捷鍵了。
+            因為舊快捷鍵的關係，一搬玩家稱攻城器製造所為「BK」，即使他們因為新快捷鍵不再用BK作為攻城器製造所的快捷鍵了。
           </p>
         </div>
         <h3>可訓練的單位與技術</h3>
@@ -217,7 +217,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -286,7 +286,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-              <nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >速度快80%。
             </li>
             <li>
@@ -384,8 +384,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                <nuxt-link to="">攻城器製造所</nuxt-link>
+              <div class="unititle2">
+                攻城器製造所
               </div>
             </td>
           </tr>
@@ -398,7 +398,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>
@@ -427,7 +427,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

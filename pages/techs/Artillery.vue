@@ -14,9 +14,9 @@
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Bombard_Tower"
-              >火炮塔</nuxt-link
-            >、<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>；
-            <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>射程+2。
+              >火砲塔</nuxt-link
+            >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>；
+            <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>射程+2。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,12 +24,12 @@
         <div class="n1">
           <ul>
             <li>
-              砲兵讓土耳其火炮塔的攻擊距離可打到敵隊火炮。土耳其的<nuxt-link
+              砲兵讓土耳其火砲塔的攻擊距離可打到敵隊火砲。土耳其的<nuxt-link
                 to="/units/Elite_Cannon_Galleon"
-                >精銳火炮戰船</nuxt-link
+                >精銳火砲戰船</nuxt-link
               >有遊戲中最遠的射程(與有
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >的巨型投機並列)土耳其的火炮在攻城上有更遠的攻擊距離。
+              >的巨型投機並列)土耳其的火砲在攻城上有更遠的攻擊距離。
             </li>
           </ul>
         </div>
@@ -53,7 +53,7 @@
         <div class="n1">
           <p>
             早期的火器和大砲是由為高價競買者服務的專業人士和僱傭軍所操控，在中世紀後期，高價競購者通常是控制東方重要貿易路線的土耳其人，這讓土耳其人獲得了這些新武器的重要經驗
-            他們用這些火炮來對抗君士坦丁堡和其他基督教城堡。
+            他們用這些火砲來對抗君士坦丁堡和其他基督教城堡。
           </p>
         </div>
       </div>
@@ -61,7 +61,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">砲兵</nuxt-link></div>
+              <div class="unititle2">砲兵</div>
             </td>
           </tr>
           <tr>
@@ -73,7 +73,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -107,7 +109,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -120,12 +122,12 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">火炮塔、火炮；火炮戰船射程+2。</td>
+            <td class="unit4">火砲塔、火砲；火砲戰船射程+2。</td>
           </tr>
         </table>
 

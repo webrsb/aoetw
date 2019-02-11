@@ -47,7 +47,7 @@
           </p>
           <p>
             與<nuxt-link to="/units/Monk">僧侶</nuxt-link>或<nuxt-link
-              to="/units/Pikeman"
+              to="/units/Spearman"
               >槍兵</nuxt-link
             >的配合是一個絕佳組合，因為可以相輔相成。而僧投(僧侶+投石車)戰術更是經典中的經典。
           </p>
@@ -68,7 +68,7 @@
               >、<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
-              >、 <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link
+              >、 <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Battering_Ram"
                 >輕型衝撞車</nuxt-link
               >、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
@@ -79,7 +79,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>、
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
                 to="/units/Woad_Raider"
                 >菘藍武士</nuxt-link
@@ -224,7 +224,7 @@
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Battering_Ram"
-                      >輕形衝撞車</nuxt-link
+                      >輕型衝撞車</nuxt-link
                     >
                   </li>
                   <li>
@@ -257,7 +257,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -279,8 +279,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -310,8 +310,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
@@ -321,7 +321,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
@@ -359,7 +359,7 @@
               >：攻城器單位攻擊速度快25%(科技樹寫20%是錯的!)
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">葡萄牙</nuxt-link
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：輕型投石車黃金成本減少15%。
             </li>
             <li>

@@ -78,7 +78,7 @@
               如果有足夠的食物和黃金，重騎兵可能是反制聖騎兵最好的策略之一。就算有<nuxt-link
                 to="/techs/Logistica"
                 >踐踏</nuxt-link
-              >傷害，
+              >(後勤學)傷害，
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >仍可以輕騎解決聖騎兵，就算是大規模作戰也一樣，而全面升級的騎兵(<nuxt-link
                 to="/civs/Berbers"
@@ -92,8 +92,7 @@
               當然其他特殊的重騎兵，<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>或是
-              <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
-              >就不用說了。
+              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>就不用說了。
             </p>
           </ul>
           <ul>
@@ -528,7 +527,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -554,7 +553,8 @@
             <li>訓練時間為20秒。</li>
             <li>攻擊速度增加為1.83(精銳為1.73)。</li>
             <li>
-              聖騎兵獲得+12(精銳+16)的<nuxt-link to="/armor/Armor_Class_Cavalry"
+              聖騎兵獲得+12(精銳+16)的<nuxt-link
+                to="/armor/Armor_Class_Cavalry_Archer"
                 >反騎兵加成防禦</nuxt-link
               >。
             </li>
@@ -693,7 +693,7 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               >(+12, +16(精銳)) <br /><nuxt-link
                 to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link

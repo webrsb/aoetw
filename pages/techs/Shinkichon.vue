@@ -25,7 +25,7 @@
             <li>
               如果韓國玩家在戰場上使用投石車那研發神機箭可以讓他們的攻擊範圍勝過幾乎所有的弓兵及大部分的攻程單位。同時他們不會再被<nuxt-link
                 to="/units/Galleon"
-                >重型弩炮戰船</nuxt-link
+                >重型弩砲戰船</nuxt-link
               >射爽爽，這在某些海島地圖上非常有價制。研發
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
               >後的韓國投石車是遊戲中最可怕的攻城武器之一。
@@ -67,7 +67,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">神機箭</nuxt-link></div>
+              <div class="unititle2">神機箭</div>
             </td>
           </tr>
           <tr>
@@ -79,7 +79,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -113,7 +115,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -126,7 +128,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

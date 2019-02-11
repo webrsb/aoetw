@@ -188,10 +188,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Consolidation_and_Subjugation"
-                  >攻城拔寨</nuxt-link
-                >
+              <div class="unititle2">
+                攻城拔寨
               </div>
             </td>
           </tr>

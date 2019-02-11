@@ -116,7 +116,7 @@
                 <li>
                   <img class="gg" src="~assets/WarGalley.jpg" /><nuxt-link
                     to="/units/War_Galley"
-                    >弩炮戰船</nuxt-link
+                    >弩砲戰船</nuxt-link
                   >
                 </li>
                 <li>
@@ -170,14 +170,14 @@
                   <img
                     class="gg"
                     src="~assets/CannonGalleonIcon.jpg"
-                  /><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>
+                  /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
                 </li>
                 <li>
                   <img
                     class="gg"
                     src="~assets/CannonGalleonIcon.jpg"
                   /><nuxt-link to="/units/Elite_Cannon_Galleon"
-                    >精銳火炮戰船</nuxt-link
+                    >精銳火砲戰船</nuxt-link
                   >
                 </li>
                 <li>
@@ -191,25 +191,22 @@
                 <li>
                   <img class="gg" src="~assets/GalleonAoE2.jpg" /><nuxt-link
                     to="/units/Galleon"
-                    >重型弩炮戰船</nuxt-link
+                    >重型弩砲戰船</nuxt-link
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/LongboatIcon.jpg" /><nuxt-link
-                    to="/units/Longboat"
-                    >精銳維京大戰船</nuxt-link
+                    to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
-                    to="/units/Turtle_Ship"
-                    >精銳龜甲船</nuxt-link
+                    to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/CaravelIcon2.jpg" /><nuxt-link
-                    to="/units/Caravel"
-                    >精銳卡拉維爾戰船</nuxt-link
+                    to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                   >
                 </li>
                 <li>
@@ -255,7 +252,7 @@
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >、<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>。
+              >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -413,7 +410,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-              <nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >團隊速度提高80%。
             </li>
             <li>
@@ -439,7 +436,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">海港</nuxt-link></div>
+              <div class="unititle2">
+                海港
+              </div>
             </td>
           </tr>
           <tr>
@@ -451,7 +450,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>
@@ -474,7 +473,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -538,7 +537,7 @@
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >
             </td>
           </tr>

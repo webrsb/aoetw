@@ -112,7 +112,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">聖女貞德</nuxt-link></div>
+              <div class="unititle2">
+                聖女貞德
+              </div>
             </td>
           </tr>
           <tr>
@@ -217,7 +219,7 @@
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >，大部分近戰單位，<nuxt-link to="/units/Bombard_Cannon"
-                >火炮</nuxt-link
+                >火砲</nuxt-link
               >。
             </td>
           </tr>
@@ -313,12 +315,12 @@
             <li>
               貞德在歷史中一向注重她的旗幟更甚於戰鬥用的武器，但是在遊戲中卻可以單挑全滿遊俠(甚至是法蘭克遊俠)。
             </li>
-            <li>貞德是遊戲中少數有兩個不同單位的角色，另一個是席德。</li>
+            <li>貞德是遊戲中少數有兩個不同單位的角色，另一個是熙德。</li>
             <li>
               貞德是遊戲中出現的第五個英雄單位，前四個分別是威廉華勒斯、農家女貞德、查德斯歐力、梅茲的斯歐力。
             </li>
             <li>
-              貞德的攻擊方式跟許多特殊英雄騎兵(譬如席德)一樣，會先舉起馬身，然後用馬踩踏與武器攻擊。
+              貞德的攻擊方式跟許多特殊英雄騎兵(譬如熙德)一樣，會先舉起馬身，然後用馬踩踏與武器攻擊。
             </li>
             <li>貞德的死亡聲音跟女村民是一樣的。</li>
             <li>

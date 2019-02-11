@@ -12,7 +12,7 @@
             狼是最常見會攻擊人的野生動物，牠有25的生命值與3的攻擊，沒有食物，牠可以咬死沒有織布的村民。
           </p>
           <p>
-            <nuxt-link to="/Ornlu_the_Wolf">灰狼歐魯</nuxt-link
+            <nuxt-link to="/units/hero/Ornlu_the_Wolf">灰狼歐魯</nuxt-link
             >是狼的英雄，有20個攻擊與400的生命值。
           </p>
           <p>遊戲難易度會影響狼的視野，最簡單的是遊戲是6，中等與困難的是12。</p>
@@ -24,8 +24,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
-              <div class="unititle">
-                <nuxt-link to="">科摩多巨蜥</nuxt-link>
+              <div class="unititle2">
+                科摩多巨蜥
               </div>
             </td>
           </tr>

@@ -139,7 +139,7 @@
                       src="~assets/Siegeworkshopicon.png"
                       alt=""
                     /><nuxt-link to="/building/Siege_Workshop"
-                      >攻城武器製造所</nuxt-link
+                      >攻城器製造所</nuxt-link
                     >
                   </li>
                   <li>
@@ -186,7 +186,7 @@
                       width="25px"
                       src="~assets/Gateicon.png"
                       alt=""
-                    /><nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>
+                    /><nuxt-link to="/building/Gate">城門</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -221,7 +221,7 @@
                       width="25px"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -238,10 +238,8 @@
                       width="25px"
                       src="~assets/Dockicon.png"
                       alt=""
-                    /><nuxt-link to="">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malians"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -333,7 +331,7 @@
                   <li>
                     <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
                       to="/units/Woad_Raider"
-                      >精銳松藍武士</nuxt-link
+                      >精銳菘藍武士</nuxt-link
                     >(<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
                   </li>
                   <li>
@@ -397,7 +395,7 @@
                   <li>
                     <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
                       to="/units/Woad_Raider"
-                      >松藍武士</nuxt-link
+                      >菘藍武士</nuxt-link
                     >(<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
                   </li>
                   <li>
@@ -481,7 +479,7 @@
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
                     /><nuxt-link to="/units/Karambit_Warrior"
-                      >精銳爪刀勇士</nuxt-link
+                      >精銳彎刀勇士</nuxt-link
                     >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
@@ -554,7 +552,7 @@
                   class="gg"
                   src="~assets/EagleScoutIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/EagleWarriorIcon.jpg"
@@ -571,10 +569,10 @@
               <li>
                 <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
                   to="/units/Woad_Raider"
-                  >松藍武士</nuxt-link
+                  >菘藍武士</nuxt-link
                 >→ <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
                   to="/units/Woad_Raider"
-                  >精銳松藍武士</nuxt-link
+                  >精銳菘藍武士</nuxt-link
                 >(<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
               </li>
               <li>
@@ -691,13 +689,13 @@
                   class="gg"
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
-                /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>→
+                /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
                 /><nuxt-link to="/units/Karambit_Warrior"
-                  >精銳爪刀勇士</nuxt-link
+                  >精銳彎刀勇士</nuxt-link
                 >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
               </li>
             </ul>
@@ -707,10 +705,8 @@
                 src="~assets/CastleAgeUnique.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Sappers">黑曜石之弓</nuxt-link>(<nuxt-link
-                to="/civs/Mayans"
-                >馬雅</nuxt-link
-              >限定)
+              /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+              >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
             </p>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
@@ -846,7 +842,9 @@
                         class="gg"
                         src="~assets/SkirmisherIcon.jpg"
                         alt=""
-                      /><nuxt-link to="/units/Skirmisher">戰矛兵</nuxt-link>→
+                      /><nuxt-link to="/units/Elite_Skirmisher"
+                        >戰矛兵</nuxt-link
+                      >→
                       <img
                         class="gg"
                         src="~assets/EliteSkirmisherIcon.jpg"
@@ -891,7 +889,7 @@
                         src="~assets/ChuKoNuIcon.jpg"
                         alt=""
                       /><nuxt-link to="/units/Chu_Ko_Nu">精銳連弩兵</nuxt-link
-                      >(<nuxt-link to="/techs/Chieftains">中國</nuxt-link>限定)
+                      >(<nuxt-link to="/civs/Chinese">中國</nuxt-link>限定)
                     </li>
                     <li>
                       <img
@@ -922,7 +920,7 @@
                         src="~assets/New_Genoese_Crossbowman.png"
                         alt=""
                       /><nuxt-link to="/units/Genoese_Crossbowman"
-                        >熱那亞弩精銳手</nuxt-link
+                        >精銳熱那亞弩手</nuxt-link
                       >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                     </li>
                     <li>

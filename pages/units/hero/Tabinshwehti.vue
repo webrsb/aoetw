@@ -19,7 +19,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">德彬瑞蒂</nuxt-link></div>
+              <div class="unititle2">
+                德彬瑞蒂
+              </div>
             </td>
           </tr>
           <tr>
@@ -59,7 +61,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對標準建築+4 <br />對石造建築+4</td>
+            <td class="unit4">對標準建築+4 <br />對石頭建築+4</td>
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>
@@ -95,7 +97,7 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              弓箭手(-2) <br />騎兵 <br />戰象 <br />馬騎弓兵 <br />特殊單位
+              弓箭手(-2) <br />騎兵 <br />戰象 <br />馬弓騎兵 <br />特殊單位
             </td>
           </tr>
           <tr>

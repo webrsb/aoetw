@@ -27,9 +27,9 @@
           <p>
             箭塔非常容易受到遠程攻城部隊和衝撞車的攻擊，所以為了保護他們，玩家應該在他們附近配有近戰單位，或者在塔靠近岸邊的情況下準備可以對付<nuxt-link
               to="/units/Cannon_Galleon"
-              >火炮戰船</nuxt-link
+              >火砲戰船</nuxt-link
             >的戰艦(如
-            <nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>/<nuxt-link
+            <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>/<nuxt-link
               to="/units/Demolition_Ship"
               >神風船</nuxt-link
             >/<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>/
@@ -50,9 +50,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可建造文明</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可建造文明</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -96,9 +94,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可建造文明</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可建造文明</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
@@ -132,7 +128,7 @@
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >，<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>。
+              >，<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -303,14 +299,14 @@
                 src="~assets/Townwatch.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>(+4)
+              /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮巡邏</nuxt-link>(+4)
+              /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
             </td>
           </tr>
           <tr>
@@ -338,7 +334,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%)
             </td>
           </tr>
@@ -436,22 +432,22 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >的攻擊力為6。
             </li>
             <li>
-              升級到<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              升級到<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >需要500食物和350石材。
             </li>
             <li>
-              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >對駱駝騎兵攻擊+9因為駱駝騎兵的護甲分類是<nuxt-link
                 to="/armor/Armor_Class_Ship"
                 >船艦護甲</nuxt-link
               >。
             </li>
             <li>
-              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >的第二支箭矢的攻擊是1。
             </li>
           </ul>
@@ -460,11 +456,11 @@
           </h3>
           <ul>
             <li>
-              升級到<nuxt-link to="/units/Keep">大型箭塔</nuxt-link
+              升級到<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
               >需要500食物和350木材。
             </li>
             <li>
-              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >對<nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
               >攻擊+2。
             </li>
@@ -492,7 +488,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >的攻擊力為7。
             </li>
             <li>
@@ -503,7 +499,7 @@
               >研發
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:引入<nuxt-link
                 to="/techs/Stronghold"
                 >堡壘</nuxt-link
               >。
@@ -516,7 +512,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
-                to="/units/Guard_Tower"
+                to="/building/Guard_Tower"
                 >防禦箭塔</nuxt-link
               >建造速度快33%。
             </li>
@@ -531,16 +527,16 @@
               >分類中移除，所以箭塔對他們的攻擊加成也移除，現在防禦箭塔對他們的攻擊是+1。
             </li>
             <li>
-              4.8版後<nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link
+              4.8版後<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >的第二支箭攻擊是2。
             </li>
             <li>
               引入<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
-              >，在城堡時代可研發並給<nuxt-link to="/units/Guard_Tower"
+              >，在城堡時代可研發並給<nuxt-link to="/building/Guard_Tower"
                 >防禦箭塔</nuxt-link
               >攻擊+4。在4.8版
               <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
-              >移到帝王時代並給<nuxt-link to="/units/Guard_Tower"
+              >移到帝王時代並給<nuxt-link to="/building/Guard_Tower"
                 >防禦箭塔</nuxt-link
               >攻擊+2。
             </li>
@@ -587,7 +583,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">防禦箭塔</nuxt-link></div>
+              <div class="unititle2">
+                防禦箭塔
+              </div>
             </td>
           </tr>
           <tr>
@@ -599,7 +597,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link></div>
+              <div class="unititle2">單位介紹</div>
             </td>
           </tr>
           <tr>
@@ -627,7 +625,7 @@
                 src="~assets/Universityicon.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/building/Archery_Range">學院</nuxt-link>
+              /><nuxt-link to="/building/University">學院</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -636,7 +634,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -718,7 +716,7 @@
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >
             </td>
           </tr>
@@ -738,7 +736,7 @@
                 class="gg"
                 src="~assets/Keep-research.jpg"
                 alt=""
-              /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+              /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
             </td>
           </tr>
           <tr>

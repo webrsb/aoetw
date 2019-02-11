@@ -76,7 +76,7 @@
             <dd>帕尼奧斯.諾蒂卡斯、2位戟兵。</dd>
             <dt>大地之母單位：</dt>
             <dd>
-              10位拜占庭聖騎兵、10位雙手劍兵、3位戟兵、5位強弩兵、5位重裝馬騎弓兵、1台攻城塔、1台重型衝撞車、10艘戰船、5艘火戰船、5艘精銳維京大戰船。
+              10位拜占庭聖騎兵、10位雙手劍兵、3位戟兵、5位強弩兵、5位重裝馬弓騎兵、1台攻城塔、1台重型衝撞車、10艘戰船、5艘火戰船、5艘精銳維京大戰船。
             </dd>
           </dl>
           <h2>主要任務</h2>
@@ -144,7 +144,7 @@
             <li>帕尼奧斯.諾蒂卡斯和他的軍隊可以晉級帝王時代。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -205,8 +205,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Arrival_at_Bari">抵達巴里</nuxt-link>
+              <div class="unititle2">
+                抵達巴里
               </div>
             </td>
           </tr>

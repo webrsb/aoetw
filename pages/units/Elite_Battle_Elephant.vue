@@ -130,7 +130,7 @@
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、
-              <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、和<nuxt-link
+              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、和<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
               >。
@@ -186,7 +186,7 @@
               >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >和
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定 <br />
               <img
@@ -435,7 +435,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -445,7 +445,7 @@
                       class="gg"
                       src="~assets/ScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Scorpion">弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -575,7 +575,7 @@
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與
-              <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link>研發快20%。
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -626,14 +626,13 @@
             <li>
               完全升級的<nuxt-link to="/civs/Khmer">高棉</nuxt-link
               >精銳矛象伕有23的攻擊力，是所有單位中除去攻城器和火藥單位外第二高的，只有精銳
-              <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
-              >比牠高(24)。
+              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>比牠高(24)。
             </li>
             <li>
               完全升級的<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
               >精銳矛象伕有370的HP，只輸給精銳<nuxt-link
                 to="/units/War_Elephant"
-                >波斯戰象</nuxt-link
+                >戰象</nuxt-link
               >的620HP。
             </li>
           </ul>
@@ -741,7 +740,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +10對<nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石材建築類</nuxt-link
+                >石頭建築</nuxt-link
               >
               <br />+10對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築類</nuxt-link

@@ -9,14 +9,16 @@
       <div class="col-md-8">
         <p>
           熊是《世紀帝國 II HD:
-          失落的帝國》的一種大型野生動物。牠不提供食物但會出現在地圖的一些區域並且會攻擊視野中的村民或軍事單位。如果村民沒有織布技術而且被熊先手的的話很容易會成為熊掌下的犧牲品(除了馬札爾村民外)。熊主要出現在歐洲地圖上。
+          失落的帝國》的一種大型野生動物。牠不提供食物但會出現在地圖的一些區域並且會攻擊視野中的村民或軍事單位。如果村民沒有織布技術而且被熊先手的的話很容易會成為熊掌下的犧牲品(除了馬扎爾村民外)。熊主要出現在歐洲地圖上。
         </p>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
-              <div class="unititle"><nuxt-link to="">熊</nuxt-link></div>
+              <div class="unititle2">
+                熊
+              </div>
             </td>
           </tr>
           <tr>

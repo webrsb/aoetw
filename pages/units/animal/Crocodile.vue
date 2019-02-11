@@ -9,14 +9,16 @@
       <div class="col-md-8">
         <p>
           鱷魚在《世紀帝國 II HD:
-          非洲王朝》首次出現，牠不提供食物但會出現在地圖的一些區域並且會攻擊視野中的村民或軍事單位。如果村民沒有織布技術而且讓鱷魚先手的話很容易會成為鱷魚的盤中飧(除了馬札爾村民外)。鱷魚主要出現在東南亞和非洲地圖上。
+          非洲王朝》首次出現，牠不提供食物但會出現在地圖的一些區域並且會攻擊視野中的村民或軍事單位。如果村民沒有織布技術而且讓鱷魚先手的話很容易會成為鱷魚的盤中飧(除了馬扎爾村民外)。鱷魚主要出現在東南亞和非洲地圖上。
         </p>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
-              <div class="unititle"><nuxt-link to="">鱷魚</nuxt-link></div>
+              <div class="unititle2">
+                鱷魚
+              </div>
             </td>
           </tr>
           <tr>

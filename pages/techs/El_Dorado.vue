@@ -63,7 +63,7 @@
         <div class="n1">
           <p>
             當明顯不同風情的文化碰撞時這樣的戰爭往往是最殘酷和恐怖的。南美洲和中美洲的土著居民被穿戴著護甲的征服者，揮舞著鋼鐵武器，僱用戰犬和使用槍支鎮壓。
-            反過來，美洲人的鮮血犧牲，儀式和狂熱主義使西班牙人感到不安。瑪雅人為了保護他們隱藏的財富在激烈的戰鬥中會是非常強硬的對手。
+            反過來，美洲人的鮮血犧牲，儀式和狂熱主義使西班牙人感到不安。馬雅人為了保護他們隱藏的財富在激烈的戰鬥中會是非常強硬的對手。
           </p>
         </div>
       </div>
@@ -71,7 +71,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">黃金國</nuxt-link></div>
+              <div class="unititle2">黃金國</div>
             </td>
           </tr>
           <tr>
@@ -83,7 +83,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -115,7 +117,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -128,7 +130,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

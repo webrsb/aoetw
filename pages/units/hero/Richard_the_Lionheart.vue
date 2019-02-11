@@ -18,8 +18,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">獅心王查理</nuxt-link>
+              <div class="unititle2">
+                獅心王查理
               </div>
             </td>
           </tr>

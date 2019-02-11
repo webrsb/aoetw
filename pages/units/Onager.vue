@@ -10,7 +10,7 @@
           <p>
             <nuxt-link to="/units/Onager">中型投石車</nuxt-link
             >是一個遠程攻城單位 ，玩家必須先升級到<nuxt-link
-              to="/techs/age/Castle_Age"
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >，研發科技後才可以在攻城器製造所進行訓練。 它主要用來對付大群敵人。
             它特別的<nuxt-link to="/elements/Area_of_Effect">濺射傷害</nuxt-link
@@ -82,13 +82,13 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>、
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
               <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、<nuxt-link
                 to="/units/Woad_Raider"
                 >菘藍武士</nuxt-link
               >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-              >、<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
+              >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -228,7 +228,7 @@
                       src="~assets/BatteringRamIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Battering_Ram"
-                      >輕形衝撞車</nuxt-link
+                      >輕型衝撞車</nuxt-link
                     >
                   </li>
                   <li>
@@ -261,7 +261,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -283,8 +283,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -314,8 +314,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
@@ -325,7 +325,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
@@ -363,7 +363,7 @@
               >：科技在帝王時代便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">葡萄牙</nuxt-link
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >：中型投石車黃金成本減少15%。
             </li>
             <li>

@@ -13,7 +13,7 @@
               >城堡時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Ballista_Elephant"
+            >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
             >+50 HP。
           </p>
@@ -23,16 +23,16 @@
         <div class="n1">
           <ul>
             <li>
-              恰特拉傘讓<nuxt-link to="/units/Ballista_Elephant"
+              恰特拉傘讓<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
               >變得更坦，可以充當越南<nuxt-link
                 to="/units/Archer_Units"
               ></nuxt-link
               >弓兵的肉盾。一個全升級有
-              <nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link
               >和恰特拉傘的精銳矛象伕有350HP，僅輸給<nuxt-link
                 to="/units/War_Elephant"
-                >波斯戰象</nuxt-link
+                >戰象</nuxt-link
               >（620HP），並與
               <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
               >（350HP）並列。
@@ -59,7 +59,7 @@
           </h3>
           <ul>
             <li>
-              最初恰特拉傘給予<nuxt-link to="/units/Ballista_Elephant"
+              最初恰特拉傘給予<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
               >+30 HP，5.7改版後增加為+50 HP。
             </li>
@@ -70,7 +70,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">恰特拉傘</nuxt-link></div>
+              <div class="unititle2">恰特拉傘</div>
             </td>
           </tr>
           <tr>
@@ -82,7 +82,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -116,7 +118,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -129,7 +131,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

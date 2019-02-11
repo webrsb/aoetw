@@ -10,7 +10,7 @@
           <p>
             畜牧培育於
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >在<nuxt-link to="/building/Stable">馬厩</nuxt-link
+            >在<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >研發。研發後所有騎乘單位移速+10％。
           </p>
           <p>
@@ -35,9 +35,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -46,7 +44,7 @@
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
-              <nuxt-link to="/civs/Ethiopians">埃塞俄比亞</nuxt-link>、
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Franks">法國</nuxt-link>、
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
@@ -77,14 +75,12 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
               <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Mayans">瑪雅</nuxt-link>、
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>、
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>。
@@ -141,7 +137,7 @@
             在中古世紀由騎士統治的時代，飼養和提供馬匹是畜牧的一部分，是一份很重要的工作。騎士的重裝甲需要良好的馬匹才能在戰場上奔馳，而輕騎兵與偵查兵在偵查敵人時需要快速而靈活的馬匹，中世紀的畜牧者為不同的作戰需求提供不同能力的馬匹。
           </p>
           <p>
-            人類自第一次馴養動物以來，已經有數千年的歷史了，在中世紀歐洲孕育了不同種類的馬，有偵查用的馬匹與作戰用的馬匹。蒙古人之所以能在歐亞大陸所向匹敵，其中一個原因就是其高超的畜牧技術，他們所馴養的馬匹其速度與耐力都讓歐洲的對手難以望其項背。
+            人類自第一次馴養動物以來，已經有數千年的歷史了，在中世紀歐洲孕育了不同種類的馬，有偵查用的馬匹與作戰用的馬匹。蒙古人之所以能在歐亞大陸所向匹敵，其中一個原因就是其高超的畜牧培育，他們所馴養的馬匹其速度與耐力都讓歐洲的對手難以望其項背。
           </p>
         </div>
       </div>
@@ -149,7 +145,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">畜牧培育</nuxt-link></div>
+              <div class="unititle2">畜牧培育</div>
             </td>
           </tr>
           <tr>
@@ -161,7 +157,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -183,7 +181,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/Stableicon.png" alt="" /><nuxt-link
                 to="/building/Stable"
-                >馬厩</nuxt-link
+                >馬廄</nuxt-link
               >
             </td>
           </tr>
@@ -193,7 +191,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -202,7 +200,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

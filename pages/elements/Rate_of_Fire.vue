@@ -37,7 +37,7 @@
                 <td class="tta3">1.73</td>
               </tr>
               <tr>
-                <td class="tta1">騎士、（精銳）馬札爾驃騎兵</td>
+                <td class="tta1">騎士、（精銳）馬扎爾驃騎兵</td>
                 <td class="tta3">1.83</td>
               </tr>
               <tr>

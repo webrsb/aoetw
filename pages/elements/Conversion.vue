@@ -94,16 +94,16 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              所有單位一開始是level 0，除了斥侯跟鷹勇士起始是level
+              所有單位一開始是level 0，除了斥候跟鷹勇士起始是level
               8。建築物起始是level 3。從level
               2開始，每個CI會有(28/n)%的機率招降成功，n是level值。單位不一定要到最大CI值才會被招降。從起始的最大CI開始，招降機率從0.28/n到10/n。level
-              10以下的單位都能被招降，但有忠誠信仰的斥侯跟鷹勇被招降的機率很低。如果他們還跟條頓同盟，他們不只有很高的機率達到最大CI，而且在被招降前隨機存活1-2個CI。
+              10以下的單位都能被招降，但有忠誠信仰的斥候跟鷹勇被招降的機率很低。如果他們還跟條頓同盟，他們不只有很高的機率達到最大CI，而且在被招降前隨機存活1-2個CI。
             </p>
             單位
             <ul>
               <li>
                 <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
-                <nuxt-link to="/units/Eagle_Scout">鷹斥侯→</nuxt-link>
+                <nuxt-link to="/units/Eagle_Scout">鷹斥候→</nuxt-link>
                 <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" />
                 <nuxt-link to="/units/Eagle_Warrior">鷹勇士→</nuxt-link>
                 <img
@@ -117,7 +117,7 @@
               </li>
               <li>
                 <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-                <nuxt-link to="/units/Scout_Cavalry">斥侯→</nuxt-link>
+                <nuxt-link to="/units/Scout_Cavalry">斥候→</nuxt-link>
                 <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
                 <nuxt-link to="/units/Light_Cavalry">輕騎兵→</nuxt-link>
                 <img class="gg" src="~assets/HussarIcon.jpg" alt="" />

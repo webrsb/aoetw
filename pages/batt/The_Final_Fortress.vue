@@ -90,7 +90,7 @@
             <li>黎利大王會在前線作戰，但若他受傷則必須回營養傷。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -121,8 +121,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Fianl_Fortress">決戰東都</nuxt-link>
+              <div class="unititle2">
+                決戰東都
               </div>
             </td>
           </tr>

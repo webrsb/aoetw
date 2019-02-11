@@ -21,8 +21,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">克雷爾的理查伯爵</nuxt-link>
+              <div class="unititle2">
+                克雷爾的理查伯爵
               </div>
             </td>
           </tr>

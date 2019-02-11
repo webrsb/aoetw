@@ -38,14 +38,14 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家1</div></td>
-              <td class="tc6" colspan="3">塞爾特人（藍色）</td>
+              <td class="tc6" colspan="3">賽爾特人（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6" width="14%"><div class="p4">玩家2</div></td>
-              <td class="tc6" width="38%">華勒斯（黃色）塞爾特</td>
+              <td class="tc6" width="38%">華勒斯（黃色）賽爾特</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -80,7 +80,7 @@
               本劇情使用進階指令選項介面。雖然你不一定要用此介面才可進行「世紀帝國II：帝王世紀」遊戲，但它能夠提供一些可用來操控你的種族的更有力方法。
             </li>
             <li>
-              不同的種族各有不同的專長。以蘇格蘭人為例，他們是以塞爾特種族為代表，具有威力強大的步兵單位。英格蘭人則是有射程長遠的弓兵。
+              不同的種族各有不同的專長。以蘇格蘭人為例，他們是以賽爾特種族為代表，具有威力強大的步兵單位。英格蘭人則是有射程長遠的弓兵。
             </li>
           </ul>
           <h3>細節</h3>
@@ -104,10 +104,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Battle_of_Falkirk"
-                  >福爾克之役</nuxt-link
-                >
+              <div class="unititle2">
+                福爾克之役
               </div>
             </td>
           </tr>
@@ -138,7 +136,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
+              <nuxt-link to="/civs/Celts">賽爾特人</nuxt-link>
             </td>
           </tr>
           <tr>

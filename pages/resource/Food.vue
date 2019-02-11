@@ -321,7 +321,7 @@
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
-                  >可使用斥侯將鹿趕至<nuxt-link to="/building/Town_Center"
+                  >可使用斥候將鹿趕至<nuxt-link to="/building/Town_Center"
                     >城鎮中心</nuxt-link
                   >或磨坊旁，村民攻擊2次即可殺死，建議兩位村民同時打獵，以避免鹿反向逃跑。</span
                 >
@@ -437,7 +437,7 @@
               </td>
               <td style="border: 1px solid #495057;" rowspan="4">
                 <span class="unititle"
-                  >受攻擊後會反擊，須由多位村民合力殺死。建議可先使用一位村民（或斥侯）引誘回<nuxt-link
+                  >受攻擊後會反擊，須由多位村民合力殺死。建議可先使用一位村民（或斥候）引誘回<nuxt-link
                     to="/building/Town_Center"
                     >城鎮中心</nuxt-link
                   >或<nuxt-link to="/building/Mill">磨坊</nuxt-link
@@ -628,7 +628,7 @@
                     >：採集者的工作速度提高了25%（失落的帝國版本中）
                   </li>
                   <li>
-                    <nuxt-link to="/civs/Mayans">瑪雅</nuxt-link
+                    <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
                     >：自然資源存量+15%（征服者入侵版本中+20%）
                   </li>
                 </ul>

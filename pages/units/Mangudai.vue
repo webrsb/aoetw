@@ -12,7 +12,7 @@
             >的特殊單位。對攻城器有加成傷害的馬弓騎兵單位。蒙古突騎能夠在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >>升級成精銳蒙古突騎。
+            >升級成精銳蒙古突騎。
           </p>
         </div>
         <h3>戰術</h3>
@@ -89,7 +89,7 @@
             </li>
             <li>
               <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
-              >多5點生命值，且可以自動<nuxt-link to="/techs/Maghrabi_Camels"
+              >多5點生命值，且可以自動<nuxt-link to="/Regeneration"
                 >回血</nuxt-link
               >，並且還有1的近防。
             </li>
@@ -731,13 +731,13 @@
               >快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">匈奴</nuxt-link>：研發<nuxt-link
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研發<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
               >和 <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">馬利</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>速度快80%。
@@ -800,7 +800,7 @@
             <li>蒙古突騎(非精銳)的開火間隔減少為5。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>4.8版後蒙古突騎現在的開火間隔為5。</li>
@@ -963,7 +963,7 @@
               <br />
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
-                >特殊兵種</nuxt-link
+                >特殊單位</nuxt-link
               >
             </td>
           </tr>

@@ -30,8 +30,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">斯基泰的野女人</nuxt-link>
+              <div class="unititle2">
+                斯基泰的野女人
               </div>
             </td>
           </tr>
@@ -54,7 +54,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Infantry_Units">騎兵</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
               <br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>

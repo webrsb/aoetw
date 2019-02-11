@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             巴加爾二世是個弓兵英雄，只在"世界地國II:非洲王朝"資料片中的地圖編輯器出現，巴加爾二世的名字是以K'inich
-            Janaab'Pakal所命名，他在位期間瑪雅帝國擴積極張實力，並監督執行在首都的大型建築計畫，後來留下的建築成為了中美洲的藝術典範。
+            Janaab'Pakal所命名，他在位期間馬雅帝國擴積極張實力，並監督執行在首都的大型建築計畫，後來留下的建築成為了中美洲的藝術典範。
           </p>
           <p>
             在遊戲中巴加爾二世的外型是羽毛箭射手，他會受到所有弓兵科技加成的影響。他不能被招降而且會自行回血。
@@ -22,8 +22,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">巴加爾二世</nuxt-link>
+              <div class="unititle2">
+                巴加爾二世
               </div>
             </td>
           </tr>

@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >的<nuxt-link to="/Archery_Range">射箭場</nuxt-link
+            >的<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >訓練，可以有效率的屠殺
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>與<nuxt-link
               to="/units/Villager"
@@ -34,7 +34,7 @@
               >騎士</nuxt-link
             >殺爆，但弩兵數量一但起來，配合地形與控兵則可以與
             <nuxt-link to="/units/Knight">騎士</nuxt-link
-            >一戰，甚至控制戰場。混搭一些<nuxt-link to="/units/Pikeman"
+            >一戰，甚至控制戰場。混搭一些<nuxt-link to="/units/Spearman"
               >槍兵</nuxt-link
             >或是<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >也是不錯的組合，而對方有
@@ -71,7 +71,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
               <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
@@ -118,11 +118,11 @@
                 alt=""
               /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
               >:射箭場弓兵單位對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >和
               <nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >攻擊+6，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定
             </td>
           </tr>
@@ -350,30 +350,30 @@
                   </li>
                   <li>
                     <img class="gg" src="~assets/CataphractIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Knight">聖騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
                     <img class="gg" src="~assets/CataphractIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Paladin">精銳聖騎兵</nuxt-link
+                    <nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/TarkanIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Knight">韃靼騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>→
                     <img class="gg" src="~assets/TarkanIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Paladin">精銳韃靼騎兵</nuxt-link
+                    <nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/New_Boyar.png" alt="" />
-                    <nuxt-link to="/units/Knight">貴族鐵騎</nuxt-link>→
+                    <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>→
                     <img class="gg" src="~assets/New_Boyar.png" alt="" />
-                    <nuxt-link to="/units/Paladin">精銳貴族鐵騎</nuxt-link
+                    <nuxt-link to="/units/Boyar">精銳貴族鐵騎</nuxt-link
                     >(<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/GbetoIcon.png" alt="" />
-                    <nuxt-link to="/units/Knight">飛刀女獵手</nuxt-link>→
+                    <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>→
                     <img class="gg" src="~assets/GbetoIcon.png" alt="" />
-                    <nuxt-link to="/units/Paladin">精銳飛刀女獵手</nuxt-link
+                    <nuxt-link to="/units/Gbeto">精銳飛刀女獵手</nuxt-link
                     >(<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定)
                   </li>
                 </ul>
@@ -474,7 +474,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-                  >：弩兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+                  >：弩兵對<nuxt-link to="/armor/Armor_Class_standard_building"
                     >標準建築</nuxt-link
                   >攻擊+1。
                 </li>
@@ -524,7 +524,7 @@
                     to="/techs/Obsidian_Arrows"
                     >黑曜石之箭</nuxt-link
                   >。弩兵對
-                  <nuxt-link to="/armor/Armor_Class_Standard_Building"
+                  <nuxt-link to="/armor/Armor_Class_standard_building"
                     >標準建築</nuxt-link
                   >攻擊+4。
                 </li>
@@ -544,11 +544,11 @@
                     to="/techs/Obsidian_Arrows"
                     >黑曜石之箭</nuxt-link
                   >現在給弩兵對
-                  <nuxt-link to="/armor/Armor_Class_Standard_Building"
+                  <nuxt-link to="/armor/Armor_Class_standard_building"
                     >標準建築</nuxt-link
                   >攻擊+6。4.8版後增加對<nuxt-link
                     to="/armor/Armor_Class_stone_defense"
-                    >石造建築</nuxt-link
+                    >石頭建築</nuxt-link
                   >攻擊+6
                 </li>
               </ul>
@@ -559,7 +559,7 @@
               <ul>
                 <li>就木頭而言，弓兵是全遊戲最便宜的遠距離單位。</li>
                 <li>
-                  30hp，全遊戲生命最低的單位，與矛兵、爪刀勇士、飛刀女獵手並列。
+                  30hp，全遊戲生命最低的單位，與矛兵、彎刀勇士、飛刀女獵手並列。
                 </li>
                 <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
                 <li>

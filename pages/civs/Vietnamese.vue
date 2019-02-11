@@ -103,7 +103,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/ver-5.8">5.8版</nuxt-link
+              <nuxt-link to="/news/ver-5.8">5.8版</nuxt-link
               >後，越南射箭場單位血量加成原本+10%/+15%/+20% → 皆 +20%
             </li>
           </ul>

@@ -9,14 +9,16 @@
       <div class="col-md-8">
         <p>
           獅子在《世紀帝國 II HD:
-          非洲王朝》回歸，牠不提供食物但會出現在地圖的一些區域並且會攻擊視野中的村民或軍事單位。如果村民沒有織布技術而且被獅子先手的的話很容易會成為獅子口下的犧牲品(除了馬札爾村民外)。獅子主要出現在非洲地圖上。
+          非洲王朝》回歸，牠不提供食物但會出現在地圖的一些區域並且會攻擊視野中的村民或軍事單位。如果村民沒有織布技術而且被獅子先手的的話很容易會成為獅子口下的犧牲品(除了馬扎爾村民外)。獅子主要出現在非洲地圖上。
         </p>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img class="hg" width="200" src="~assets/AOE2Lion.png" alt="" />
+              <gallery
+                ><img class="hg" width="200" src="~assets/AOE2Lion.png" alt=""
+              /></gallery>
               <p><em>世紀帝國 II的獅子。</em></p>
             </div>
           </div>
@@ -26,7 +28,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
-              <div class="unititle"><nuxt-link to="">獅子</nuxt-link></div>
+              <div class="unititle2">
+                獅子
+              </div>
             </td>
           </tr>
           <tr>

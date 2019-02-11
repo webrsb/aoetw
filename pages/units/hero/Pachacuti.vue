@@ -21,8 +21,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">帕查庫特克</nuxt-link>
+              <div class="unititle2">
+                帕查庫特克
               </div>
             </td>
           </tr>

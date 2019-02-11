@@ -40,7 +40,7 @@
                 >弓箭手</nuxt-link
               >、分散的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >或是數台的攻城武器。
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >也受益於扭力彈射器而能更好的反制攻城武器和弓箭手。
             </li>
           </ul>
@@ -62,7 +62,7 @@
         <div class="n1">
           <p>
             扭力彈射器是一種利用扭力發射砲彈的火砲。
-            它們最初是由古希臘人發明的，特別是馬其頓的腓力二世和亞歷山大大帝，基本上在中世紀使用的所有非攻擊性的衝撞車/攻城塔攻城單位都是利用扭力，直到14世紀火炮的發展才證明它們已經過時。值得注意的是，增加爆炸範圍不是現實情況，因為扭力只允許操作者能更快地發射砲彈和重新加載而已。
+            它們最初是由古希臘人發明的，特別是馬其頓的腓力二世和亞歷山大大帝，基本上在中世紀使用的所有非攻擊性的衝撞車/攻城塔攻城單位都是利用扭力，直到14世紀火砲的發展才證明它們已經過時。值得注意的是，增加爆炸範圍不是現實情況，因為扭力只允許操作者能更快地發射砲彈和重新加載而已。
           </p>
         </div>
       </div>
@@ -70,8 +70,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle">
-                <nuxt-link to="">扭力彈射器</nuxt-link>
+              <div class="unititle2">
+                扭力彈射器
               </div>
             </td>
           </tr>
@@ -84,7 +84,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -118,7 +120,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -131,7 +133,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

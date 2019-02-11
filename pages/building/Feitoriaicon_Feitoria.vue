@@ -128,7 +128,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -143,7 +143,7 @@
                 to="/techs/Masonry"
                 >磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-              <nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >團隊速度提高80%。
             </li>
           </ul>
@@ -168,8 +168,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                <nuxt-link to="">港灣大商站</nuxt-link>
+              <div class="unititle2">
+                港灣大商站
               </div>
             </td>
           </tr>
@@ -182,7 +182,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>
@@ -207,7 +207,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

@@ -28,8 +28,7 @@
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
               >一樣槍隊長對大象單位如
-              <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
-              >有攻擊加成。
+              <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>有攻擊加成。
             </li>
             <li>
               槍隊長的攻擊範圍可讓他們打到城牆後的敵人，所以用於城牆上的進攻防守都十分好用，對來犯的敵軍衝撞車也能有效且安全的摧毀它們。
@@ -39,7 +38,7 @@
               <nuxt-link to="/units/Slinger">投石手</nuxt-link
               >對付敵方步兵，槍隊長則對付騎兵。也可以加進<nuxt-link
                 to="/units/Eagle_Warrior"
-                >鷹戰士</nuxt-link
+                >鷹勇士</nuxt-link
               >反制弓箭手和攻城武器。雖然研發
               <nuxt-link to="/techs/Couriers">信使</nuxt-link
               >後可讓槍隊長遠防+2，但還是用鷹勇士對付弓箭手來得好。<nuxt-link
@@ -81,7 +80,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
@@ -186,7 +185,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -379,14 +378,14 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠提高槍隊長的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
+              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >、<nuxt-link to="/techs/Couriers">信使</nuxt-link
               >的研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>

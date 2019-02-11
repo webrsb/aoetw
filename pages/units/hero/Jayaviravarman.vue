@@ -13,7 +13,7 @@
               >席捲入荒</nuxt-link
             >中作為反抗
             <nuxt-link to="/units/hero/Suryavarman_I">蘇利耶跋摩一世</nuxt-link
-            >的領導者出現，在遊戲中的外貌是爪刀勇士。闍耶羅跋摩不能被招降而且會自行回血。
+            >的領導者出現，在遊戲中的外貌是彎刀勇士。闍耶羅跋摩不能被招降而且會自行回血。
           </p>
         </div>
         <h3>歷史</h3>
@@ -25,8 +25,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">闍耶羅跋摩</nuxt-link>
+              <div class="unititle2">
+                闍耶羅跋摩
               </div>
             </td>
           </tr>

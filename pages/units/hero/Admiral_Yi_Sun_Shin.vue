@@ -20,7 +20,7 @@
         <div class="n1">
           <p>
             李舜臣出現在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-            >的<nuxt-link to="/batt/">戰役</nuxt-link
+            >的<nuxt-link to="/batt">戰役</nuxt-link
             >之中，他單位是一艘擁有良好生命與攻擊的
             <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
             >，能夠對付絕大部分的海軍，但仍不能一對過多。
@@ -77,8 +77,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">李舜臣將軍</nuxt-link>
+              <div class="unititle2">
+                李舜臣將軍
               </div>
             </td>
           </tr>

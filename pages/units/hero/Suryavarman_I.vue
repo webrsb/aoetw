@@ -23,7 +23,7 @@
           <nuxt-link to="/units/hero/Udayadityavarman_I"
             >優陀耶迭多跋摩一世</nuxt-link
           >被殺後，吳哥陷入混亂，因無繼承人，蘇耶跋摩一世和
-          <nuxt-link to="/units/hero/Jayaviravarman">闍耶毗羅跋摩</nuxt-link
+          <nuxt-link to="/units/hero/Jayaviravarman">闍耶羅跋摩</nuxt-link
           >爭奪王位。蘇耶跋摩一世是馬來亞裔的佛教王子。經過九年的戰爭，蘇耶跋摩一世贏得了王位。
         </p>
         <p>
@@ -45,8 +45,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">蘇利耶跋摩一世</nuxt-link>
+              <div class="unititle2">
+                蘇利耶跋摩一世
               </div>
             </td>
           </tr>
@@ -87,7 +87,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對建築+10 <br />對石造建築+10</td>
+            <td class="unit4">對建築+10 <br />對石頭建築+10</td>
           </tr>
           <tr>
             <td class="unit3">濺射範圍</td>

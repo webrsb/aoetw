@@ -51,9 +51,9 @@
                 >馬弓騎兵</nuxt-link
               >單位相比來講，因強大破壞力和不錯的移動速度在對付
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
-                to="/units/Archer"
+                to="/units/Archer_Units"
                 >步弓系列</nuxt-link
-              >、<nuxt-link to="/building/Barracks">步兵類型</nuxt-link>/
+              >、<nuxt-link to="/units/Infantry_Units">步兵類型</nuxt-link>/
               <nuxt-link to="/units/Villager">村民</nuxt-link
               >等一些較為無裝甲的部隊都有著不錯的效果，即使是重裝近戰單位也可靠著一定拉打有不錯的破壞力，雖然命中率極低只有20%、30%(精銳)，但大型陣地戰或者大隊伍碰撞時也會有不錯的傷害。
             </li>
@@ -61,7 +61,7 @@
               為了平衡遊戲設計上，給予了非常超糟的命中率(20%、30%(精銳)，可說是遊戲中命中率最低的單位，所以以最遠距離攻擊時常常會Miss尤其是對移動中的單位，相對的近距離攻擊時，可達到必殺效果(因攻擊力極高/好命中)。因緬甸的兵工廠科技缺少
               <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
               >和<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
-              >，因此<nuxt-link to="/units/Archer">步弓系列</nuxt-link>/
+              >，因此<nuxt-link to="/units/Archer_Units">步弓系列</nuxt-link>/
               <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link
               >的傷害沒法提高，另外因為要非常近距離才能達到傷害的飛鏢騎兵也懼怕<nuxt-link
                 to="/units/Monk"
@@ -111,27 +111,26 @@
             <td class="tta4">
               <nuxt-link to="/units/Infantry_Units">步兵系列</nuxt-link
               >、<nuxt-link to="/units/Villager">村民</nuxt-link>、
-              <nuxt-link to="/units/Archer">弓兵系列</nuxt-link>、<nuxt-link
-                to="/units/Monk"
-                >僧侶</nuxt-link
-              >。
+              <nuxt-link to="/units/Archer_Units">弓兵系列</nuxt-link
+              >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Spearman">槍隊長</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>、<nuxt-link
                 to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
-              >、 <nuxt-link to="/units/Monk">哥德衛隊</nuxt-link>、<nuxt-link
+              >、
+              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Mameluke"
                 >奴隸兵</nuxt-link
               >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、
-              <nuxt-link to="/units/Archer">矛兵</nuxt-link>系、<nuxt-link
-                to="/units/Camel"
+              <nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link>、<nuxt-link
+                to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >、<nuxt-link to="/units/Camel">戟兵</nuxt-link>、<nuxt-link
-                to="/units/Genitour"
+              >、<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>、<nuxt-link
+                to="/units/Samurai"
                 >日本武士</nuxt-link
               >、 <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>
             </td>
@@ -158,7 +157,7 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
-              >:對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >:對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >和
               <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
@@ -171,7 +170,7 @@
               <img src="~assets/Ballistics.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
-              >:可提升弓兵、馬騎弓兵、戰船、城堡、箭塔、特殊騎乘對移動中目標命中率
+              >:可提升弓兵、馬弓騎兵、戰船、城堡、箭塔、特殊騎乘對移動中目標命中率
             </td>
           </tr>
           <tr>
@@ -240,7 +239,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -344,7 +343,9 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><nuxt-link to="/civs/Slavs">緬甸</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -443,7 +444,7 @@
             <td class="unit3">裝甲類型</td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">馬弓騎兵</nuxt-link>
               <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link

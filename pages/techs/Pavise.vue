@@ -34,7 +34,7 @@
             </li>
             <li>
               研發巨盾與否取決於資料片版本，如果是<nuxt-link to="/games/aof"
-                >失落的王國</nuxt-link
+                >失落的帝國</nuxt-link
               >版本，巨盾花費太貴玩家應該優先升級其他科技或是演進至帝王時代。
             </li>
             <li>
@@ -63,7 +63,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aof">失落的王國</nuxt-link></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>巨盾成本為550肉300金。</li>
@@ -74,7 +74,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>巨盾現在成本為300肉150金。</li>
@@ -91,7 +91,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            實際上，巨盾是中世紀歐洲弓箭手使用的一種高凸形盾牌，作為一種移動掩體，讓他們在沒有射擊的情況下能躲在後面。外觀上，這款巨盾很像熱那亞弩兵的盾牌，儘管熱那亞弩兵在與敵人交戰時似乎並沒有躲在它後面過，因此在面對遠程對手時這個盾牌實在沒有作用。
+            實際上，巨盾是中世紀歐洲弓箭手使用的一種高凸形盾牌，作為一種移動掩體，讓他們在沒有射擊的情況下能躲在後面。外觀上，這款巨盾很像熱那亞弩手的盾牌，儘管熱那亞弩手在與敵人交戰時似乎並沒有躲在它後面過，因此在面對遠程對手時這個盾牌實在沒有作用。
           </p>
         </div>
         <h3>歷史</h3>
@@ -106,7 +106,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">巨盾</nuxt-link></div>
+              <div class="unititle2">巨盾</div>
             </td>
           </tr>
           <tr>
@@ -118,7 +118,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -152,7 +154,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -165,7 +167,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

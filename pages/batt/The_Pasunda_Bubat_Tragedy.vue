@@ -74,7 +74,7 @@
           <p>。 英雄單位 - 加查馬達</p>
           <p>
             。 軍事單位 -
-            雙手劍兵x8、爪刀勇士x8、弩兵x8、輕騎兵x1、矛象伕x2、中型投石車x2
+            雙手劍兵x8、彎刀勇士x8、弩兵x8、輕騎兵x1、矛象伕x2、中型投石車x2
           </p>
           <p>。 海軍單位 - 運輸船x1、弩砲戰船x6、快速火戰船x4</p>
           <h2>主要任務</h2>
@@ -157,8 +157,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Serving_the_New_King">風雲變色</nuxt-link>
+              <div class="unititle2">
+                風雲變色
               </div>
             </td>
           </tr>

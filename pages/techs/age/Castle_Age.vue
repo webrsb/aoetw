@@ -63,7 +63,7 @@
                 alt=""
               /><nuxt-link to="/building/Castle">城堡</nuxt-link
               >:強大的防禦建築與生產<nuxt-link to="/units/Unique_Unit"
-                >特殊兵種</nuxt-link
+                >特殊單位</nuxt-link
               >
             </li>
             <li>
@@ -72,8 +72,7 @@
                 src="~assets/Siegeworkshopicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Siege_Workshop"
-                >攻城武器製造所</nuxt-link
+              /><nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
               >：生產攻城武器
             </li>
           </ul>
@@ -85,7 +84,7 @@
                 src="~assets/Watchtowericon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Watch_Tower">防禦箭塔</nuxt-link
+              /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
               >:防禦敵人的塔
             </li>
             <li>
@@ -284,7 +283,7 @@
           </ul>
           <strong
             ><nuxt-link to="/building/Siege_Workshop"
-              >攻城武器製造所</nuxt-link
+              >攻城器製造所</nuxt-link
             ></strong
           >
           <ul>
@@ -294,7 +293,7 @@
                 src="~assets/BatteringRamIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Battering_Ram">輕型衝重車</nuxt-link
+              /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
               >：對建築物有強大的殺傷力。
             </li>
             <li>
@@ -554,7 +553,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >：村民建築速度加快。
               </li>
             </ul>

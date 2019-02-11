@@ -47,9 +47,9 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >、
-              <nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>、<nuxt-link
                 to="/units/Spearman"
                 >槍兵</nuxt-link
               >、<nuxt-link to="/units/Villager">村民</nuxt-link>。
@@ -60,12 +60,12 @@
             <td class="tta4">
               <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >。
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -175,7 +175,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -211,7 +211,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:兵營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -347,7 +347,7 @@
           技術:以下技術會給以下單位對裝甲步兵有額外攻擊。
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -389,11 +389,11 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：裝甲步兵從封建時代開始便宜35％並對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link
+              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link
               >和升級長劍兵的速度快100%。
@@ -403,7 +403,7 @@
               >：裝甲步兵攻速快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
@@ -419,7 +419,7 @@
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >。
             </li>
             <li>
@@ -454,7 +454,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：裝甲步兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -474,7 +474,7 @@
           </h3>
           <ul>
             <li>
-              裝甲步兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              裝甲步兵對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >+1攻擊。
             </li>
@@ -504,7 +504,7 @@
           <ul>
             <li>
               裝甲步兵擁有+2攻擊VS<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >。
             </li>
@@ -669,7 +669,7 @@
               +2對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >
-              <br />+2對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <br />+2對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
             </td>

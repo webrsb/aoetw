@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <strong>羅德里高-迪亞茲-熙德</strong>是《世紀帝國 II HD:
-            征服者入侵》席德戰役系中的主角，他也能在戰役編輯器中使用。由於他屬於英雄單位，因此不能被招降且會回血
+            征服者入侵》熙德戰役系中的主角，他也能在戰役編輯器中使用。由於他屬於英雄單位，因此不能被招降且會回血
             。
           </p>
           <p></p>
@@ -21,12 +21,13 @@
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
-              <img
-                class="hg"
-                width="250"
-                src="~assets/Constablerichemont.png"
-                alt=""
-              />
+              <gallery
+                ><img
+                  class="hg"
+                  width="250"
+                  src="~assets/Constablerichemont.png"
+                  alt=""
+              /></gallery>
               <p><em>戰役編輯器中的羅德里高-迪亞茲-熙德。</em></p>
             </div>
           </div>
@@ -36,8 +37,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">羅德里高-迪亞茲-熙德</nuxt-link>
+              <div class="unititle2">
+                羅德里高-迪亞茲-熙德
               </div>
             </td>
           </tr>

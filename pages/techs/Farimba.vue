@@ -35,7 +35,7 @@
               >還多。馬利的騎兵也是遊戲中攻擊排名非特殊騎兵第二(攻擊力19)和全遊戲第三，僅次於<nuxt-link
                 to="/units/Elite_Battle_Elephant"
                 >精銳矛象伕</nuxt-link
-              >和 <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>。
+              >和 <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
             </li>
             <li>
               如果搭配<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
@@ -71,7 +71,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle"><nuxt-link to="">驃悍精神</nuxt-link></div>
+              <div class="unititle2">驃悍精神</div>
             </td>
           </tr>
           <tr>
@@ -83,7 +83,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">科技介紹</nuxt-link></div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -117,7 +119,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>
@@ -130,7 +132,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2"><nuxt-link to="">影響</nuxt-link></div>
+              <div class="unititle2">影響</div>
             </td>
           </tr>
           <tr>

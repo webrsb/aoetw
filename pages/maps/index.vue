@@ -91,7 +91,12 @@
 </template>
 <script>
 export default {
-  layout: 'foot',
+  head() {
+    return {
+      title: 'Aoetw - 地圖'
+    }
+  },
+  layout: '',
   components: {}
 }
 </script>

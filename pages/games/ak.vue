@@ -91,7 +91,7 @@
           </li>
           <li>
             <img class="gg" src="~assets/DemoRaftIcon.jpg" alt="" />
-            <nuxt-link to="/units/Demolition_Raft">自爆伐</nuxt-link
+            <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
             >:封建時代就能生產的神風船。
           </li>
         </ul>
@@ -135,9 +135,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#8a6d3b">
-              <div class="unititle">
-                <nuxt-link to="">世紀帝國II：非洲王國</nuxt-link>
-              </div>
+              <div class="unititle2">世紀帝國II：非洲王國</div>
             </td>
           </tr>
           <tr>
@@ -189,7 +187,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <nuxt-link to="/batt/">戰役</nuxt-link></em>
+            <em>主要文章: <nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
           <p>包含四個主戰役</p>
           <ul>
@@ -204,7 +202,7 @@
                 >法蘭西斯科．阿爾梅達</nuxt-link
               >
             </li>
-            <li><nuxt-link to="/batt/Yodita">遊娣特</nuxt-link></li>
+            <li><nuxt-link to="/batt/Yodita">優娣忒</nuxt-link></li>
           </ul>
         </div>
         <h3>平衡更動</h3>
@@ -302,11 +300,11 @@
             </li>
             <li>韃靼騎兵(非精銳)：+1基礎攻擊力(變成8)</li>
             <li>阿拉伯奴隸兵(非精銳)：+1基礎攻擊力(變成8)</li>
-            <li>精銳中國連弩兵：生產時間減至16秒</li>
+            <li>精銳連弩兵：生產時間減至16秒</li>
             <li>馬戰車、精銳馬戰車：成本減至110木材 60黃金</li>
             <li>鷹勇士升級費用 從 300F 200G 改為 200F 200G</li>
             <li>鷹勇士速度 從 1.1 改為 1.2（鷹斥候為 1.1，精銳鷹勇為 1.3）</li>
-            <li>封建時代即可生產鷹斥侯</li>
+            <li>封建時代即可生產鷹斥候</li>
             <li>新增攻城塔</li>
             <li>鑄幣術與銀行制度研發時間從 50 秒改為 70 秒</li>
             <li>銀行制度費用從200F 100G 改為 300F 200G</li>

@@ -92,7 +92,7 @@
                   松迪亞塔正在逃離馬利王國的首都尼亞尼（橘色），並且必須在沙漠中找到同伴。康加巴城（黃色）坐落於尼日河對岸，尼亞尼西側。
                 </li>
                 <li>
-                  追趕松迪亞塔的有弓箭手、戰矛兵、和索索偵察兵的斥侯騎兵（紅色）。
+                  追趕松迪亞塔的有弓箭手、戰矛兵、和索索偵察兵的斥候騎兵（紅色）。
                 </li>
               </ul>
               <h2>攻略</h2>
@@ -142,10 +142,10 @@
                 <div class="n1">
                   <ul>
                     <li>
-                      馬里帝國可能很多人不知曉但是他是在非洲很具盛名的大帝國。
+                      馬利帝國可能很多人不知曉但是他是在非洲很具盛名的大帝國。
                     </li>
                     <li>
-                      松迪亞塔在當時馬里王國破滅時被人預言將帶來希望與勝利。
+                      松迪亞塔在當時馬利王國破滅時被人預言將帶來希望與勝利。
                     </li>
                     <li>
                       尼亞尼（橘色）馬利帝國首都，在這關裡基本上沒有任何意義，他不會來打你，你也沒必要打他。
@@ -162,8 +162,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/Hunted">亡命之徒（擒獲）</nuxt-link>
+              <div class="unititle2">
+                亡命之徒（擒獲）
               </div>
             </td>
           </tr>
@@ -227,13 +227,13 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的馬里帝國
+            維基百科上的馬利帝國
             <div style="margin-left: 10px;">
               <i
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E9%87%8C%E5%B8%9D%E5%9B%BD"
-                    >馬里帝國</a
+                    >馬利帝國</a
                   ></b
                 ></i
               >

@@ -18,23 +18,25 @@
         </div>
         <div class="col-md-12">
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Pacific_Islands_Mangroves.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Pacific_Islands_Mangroves.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>淺灘處有紅樹林可以砍伐。</em></p>
           </div>
           <div class="col-md-6">
-            <img
-              position="centered"
-              class="imgn hg"
-              width="500"
-              src="~assets/Narrow_channel.jpg"
-              alt=""
-            />
+            <gallery
+              ><img
+                position="centered"
+                class="imgn hg"
+                width="500"
+                src="~assets/Narrow_channel.jpg"
+                alt=""
+            /></gallery>
             <p class="text-center"><em>這些狹窄的河道是偷渡的好地方。</em></p>
           </div>
         </div>

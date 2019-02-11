@@ -230,7 +230,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -294,7 +294,7 @@
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研發<nuxt-link
                 to="/techs/Town_Watch"
-                >城鎮暸望</nuxt-link
+                >城鎮瞭望</nuxt-link
               >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
               >的速度在封建/城堡/帝王快10%/15%/20%。
             </li>
@@ -356,7 +356,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            中世紀的時軍隊對騎馬作戰的重視提高了對馬匹的大量需求，這些馬匹在馬厩裡飼養和訓練。馬匹的用途眾多，包括供長途旅行的馬匹，在兩地快速移動的快馬以及用來沖向敵陣的重型戰馬。斥侯騎兵和輕騎兵部隊則需要有耐力的且跑得快的馬。強大的重型戰馬則需要有足夠力氣能背負全副武裝的士兵衝鋒陷陣。士兵們在馬厩訓練如何在馬背上用矛，騎槍，劍，鎖鏈和錘子的作戰的技巧。在世界的其他地方，駱駝和大象也被飼養來進行戰鬥。
+            中世紀的時軍隊對騎馬作戰的重視提高了對馬匹的大量需求，這些馬匹在馬厩裡飼養和訓練。馬匹的用途眾多，包括供長途旅行的馬匹，在兩地快速移動的快馬以及用來沖向敵陣的重型戰馬。斥候騎兵和輕騎兵部隊則需要有耐力的且跑得快的馬。強大的重型戰馬則需要有足夠力氣能背負全副武裝的士兵衝鋒陷陣。士兵們在馬厩訓練如何在馬背上用矛，騎槍，劍，鎖鏈和錘子的作戰的技巧。在世界的其他地方，駱駝和大象也被飼養來進行戰鬥。
           </p>
         </div>
       </div>
@@ -364,7 +364,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">馬廄</nuxt-link></div>
+              <div class="unititle2">
+                馬廄
+              </div>
             </td>
           </tr>
           <tr>
@@ -376,7 +378,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle">概要</div>
             </td>
           </tr>
           <tr>
@@ -405,7 +407,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

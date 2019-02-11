@@ -10,7 +10,7 @@
           <p>
             神風船在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >可以訓練。在戰船升級成弩炮戰船時，自爆筏會自動升級為神風船。
+            >可以訓練。在戰船升級成弩砲戰船時，自爆筏會自動升級為神風船。
           </p>
           <p>
             神風船上裝滿了爆炸物，可以對敵方的船隻，碼頭，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。
@@ -50,7 +50,7 @@
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
               >、在岸邊的建築物和近戰單位、淺灘上的近戰單位、
-              <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>。
+              <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -152,7 +152,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -189,12 +189,11 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                      to="/units/Longboat"
-                      >精銳維京大戰船</nuxt-link
+                      to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -235,7 +234,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -258,10 +257,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -297,7 +294,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -530,7 +527,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aok">世紀帝國</nuxt-link></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>神風船有50的HP。</li>
@@ -592,7 +589,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">神風船</nuxt-link></div>
+              <div class="unititle2">
+                神風船
+              </div>
             </td>
           </tr>
           <tr>
@@ -604,7 +603,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link></div>
+              <div class="unititle2">單位介紹</div>
             </td>
           </tr>
           <tr>
@@ -647,7 +646,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

@@ -126,7 +126,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -182,7 +182,7 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
               >：同盟學院研究<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
               >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
-              <nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >的速度快80%。
             </li>
           </ul>
@@ -217,7 +217,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            公元500年世界上的人口比今天的世界還少得多，而且有很多空曠和荒涼的土地。為了密切關注邊界，地方領主建立了哨站，可以提前預警攻擊並回報定居者和貿易馬車的移動情況。
+            公元500年世界上的人口比今天的世界還少得多，而且有很多空曠和荒涼的土地。為了密切關注邊界，地方領主建立了哨站，可以提前預警攻擊並回報定居者和貿易車隊的移動情況。
             隨著土地人口變得越來越稠密，哨站逐漸被邊界上的城堡和城鎮所取代。。
           </p>
         </div>
@@ -226,7 +226,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">哨站</nuxt-link></div>
+              <div class="unititle2">
+                哨站
+              </div>
             </td>
           </tr>
           <tr>
@@ -238,7 +240,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>
@@ -265,7 +267,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

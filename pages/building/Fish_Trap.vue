@@ -10,7 +10,7 @@
           <p>
             漁網是<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >的經濟建築之一，在建成<nuxt-link to="/building/Dock"
-              >港口</nuxt-link
+              >碼頭</nuxt-link
             >後就可以使用。漁網提供715食物，只有
             <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
             >能夠建築和採集它。
@@ -254,7 +254,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">漁網</nuxt-link></div>
+              <div class="unititle2">
+                漁網
+              </div>
             </td>
           </tr>
           <tr>
@@ -266,7 +268,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">概要</nuxt-link></div>
+              <div class="unititle2">概要</div>
             </td>
           </tr>
           <tr>
@@ -295,7 +297,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">成本</nuxt-link></div>
+              <div class="unititle2">成本</div>
             </td>
           </tr>
           <tr>

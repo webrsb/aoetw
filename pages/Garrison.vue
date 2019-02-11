@@ -48,7 +48,7 @@
               >：10位該建築生產單位（設置聚集點在該建築才可駐軍，撤離後無法進駐）
             </li>
             <li>
-              <nuxt-link to="/building/Siege_Workshop">攻城武器製造所</nuxt-link
+              <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
               >：10位該建築生產單位（設置聚集點在該建築才可駐軍，撤離後無法進駐）
             </li>
             <li>
@@ -68,7 +68,7 @@
               >：最多20位單位（<nuxt-link to="/units/Trebuchet"
                 >投石機</nuxt-link
               >及<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >城堡特殊單位<nuxt-link to="/civs/Organ_Gun">風琴砲</nuxt-link
+              >城堡特殊單位<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link
               >撤離後無法再進駐）
             </li>
             <li>
@@ -129,7 +129,7 @@
             </li>
             <p>
               『駐軍<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-              >、<nuxt-link to="/units/Chu_Ko_Nu">中國連弩兵</nuxt-link
+              >、<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
               >也會提升箭量，但增加不多。』<br />
               『<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>、<nuxt-link
                 to="/units/Arbalest"

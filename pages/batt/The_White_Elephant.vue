@@ -75,7 +75,7 @@
           <p>。 軍事單位 - 輕騎兵x2、矛象伕x3、僧侶x4</p>
           <p>
             。 大地之母單位 -
-            東吁勇士x2、弩兵x2、帝王擲矛手x5、飛鏢騎兵x2、火銃手x1、矛象伕x4、騎兵x2、風琴炮x1、僧侶x4、村民x2、貿易商船x1
+            東吁勇士x2、弩兵x2、帝王擲矛手x5、飛鏢騎兵x2、火銃手x1、矛象伕x4、騎兵x2、風琴砲x1、僧侶x4、村民x2、貿易商船x1
           </p>
         </div>
         <div>
@@ -153,8 +153,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_White_Elephant">白象化身</nuxt-link>
+              <div class="unititle2">
+                白象化身
               </div>
             </td>
           </tr>

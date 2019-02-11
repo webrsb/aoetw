@@ -22,9 +22,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -37,7 +35,7 @@
               <nuxt-link to="/civs/Indians">印度</nuxt-link>、
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>、
@@ -56,9 +54,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -124,7 +120,7 @@
             <td class="tta1" style="width:10%">生命值</td>
             <td class="tta4">
               <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-              <nuxt-link to="/units/Scout_Cavalry">斥侯→</nuxt-link>
+              <nuxt-link to="/units/Scout_Cavalry">斥候→</nuxt-link>
               <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
               <nuxt-link to="/units/Light_Cavalry">輕騎兵→</nuxt-link>
               <img class="gg" src="~assets/HussarIcon.jpg" alt="" />
@@ -399,7 +395,7 @@
               </div>
             </div>
           </div>
-          以下技術可讓以下單位對斥侯有額外攻擊力
+          以下技術可讓以下單位對斥候有額外攻擊力
           <div class="n1">
             <img
               class="gg"
@@ -507,7 +503,7 @@
               >：匈牙利輕騎兵生產效率快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與
-              <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link>研發快20%。
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
@@ -559,7 +555,7 @@
         <div class="n1">
           <ul>
             <li>
-              一旦到了封建時代，斥侯獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
+              一旦到了封建時代，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
             </li>
             <li>
               歷史上的匈牙利輕騎兵在實戰中是不會裝飾羽毛的，唯有在閱兵時才會插上裝飾用的羽毛。
@@ -684,7 +680,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
             </td>
           </tr>
           <tr>

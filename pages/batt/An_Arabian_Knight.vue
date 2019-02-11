@@ -65,7 +65,7 @@
               16位輕騎兵、12位駱駝騎兵、2位阿拉伯奴隸兵、12位裝甲步兵、2台重型弩砲。
             </dd>
             <dt>大地之母單位：</dt>
-            <dd>2位駱駝騎兵、6位馬弓騎兵，1艘火炮戰船，1台重型衝撞車</dd>
+            <dd>2位駱駝騎兵、6位馬弓騎兵，1艘火砲戰船，1台重型衝撞車</dd>
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
@@ -89,8 +89,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/An_Arabian_Knight">阿拉伯騎士</nuxt-link>
+              <div class="unititle2">
+                阿拉伯騎士
               </div>
             </td>
           </tr>

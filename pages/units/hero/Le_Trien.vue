@@ -30,7 +30,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">李篆</nuxt-link></div>
+              <div class="unititle2">
+                李篆
+              </div>
             </td>
           </tr>
           <tr>

@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <strong>約翰布荷</strong>是《世紀帝國 II HD:
-            帝王世紀》中的一名火炮英雄，可以在聖女貞德最後戰役"完美的烈士"和戰役編輯器中找到。現實中約翰布荷是英法百年戰爭後期的法國砲兵指揮官和圍城工程師。他在決定性的卡斯蒂隆戰役中為法國贏得了最後的勝利。它的外觀是火炮彈有更優越的做戰能力，由於他屬於英雄單位，因此不能被招降且會回血(在征服者資料片後)
+            帝王世紀》中的一名火砲英雄，可以在聖女貞德最後戰役"完美的烈士"和戰役編輯器中找到。現實中約翰布荷是英法百年戰爭後期的法國砲兵指揮官和圍城工程師。他在決定性的卡斯蒂隆戰役中為法國贏得了最後的勝利。它的外觀是火砲彈有更優越的做戰能力，由於他屬於英雄單位，因此不能被招降且會回血(在征服者資料片後)
             。
           </p>
           <p></p>
@@ -19,7 +19,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle"><nuxt-link to="">約翰布荷</nuxt-link></div>
+              <div class="unititle2">
+                約翰布荷
+              </div>
             </td>
           </tr>
           <tr>
@@ -37,7 +39,9 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">攻城武器<br />火藥單位<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Siege_Weapons"
+                >攻城武器<br />火藥單位<br />英雄</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -60,7 +64,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對建築+80 <br />對船隻+40 <br />對石造建築+25 <br />對駱駝騎兵+1
+              對建築+80 <br />對船隻+40 <br />對石頭建築+25 <br />對駱駝騎兵+1
             </td>
           </tr>
           <tr>

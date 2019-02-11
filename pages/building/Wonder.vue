@@ -26,7 +26,7 @@
               紀念碑，是一個跟世界奇觀長的一樣的建築，但是只能在地圖編輯器或是特定遊戲模式或戰役裡找到，有9999點生命值，且每個文明的紀念碑都跟奇觀長的一樣。
             </li>
             <li>
-              世界奇觀建造時間非常長，沒有踏輪起重機的狀況下，單獨一名村民建造世界奇觀的時間是58.5分鐘。就算有30名村民也要至少5分鐘的時間才能建築完成。
+              世界奇觀建造時間非常長，沒有滑輪起重機的狀況下，單獨一名村民建造世界奇觀的時間是58.5分鐘。就算有30名村民也要至少5分鐘的時間才能建築完成。
             </li>
             <li>
               你可以建造一個以上的世界奇觀，他們長的一樣，但是要注意，每個世界奇觀的倒數計時是分開計算的，舉個例子：一名玩家建立了世界奇觀A，並在遊戲時間50年後建立世界奇觀B，建立了B之後又過了50年，世界奇觀A被摧毀了，倒數計時會從剩餘100年跳回剩餘150年(也就是世界奇觀B的倒數計時)。
@@ -39,7 +39,7 @@
           <ul>
             <li>世界奇觀需要被建立在一個完善的防禦中心。</li>
             <li>
-              世界奇觀勝利可以說是防禦性文明的專利，若你是個擅長進攻的文明譬如馬札爾，那還是直接消滅敵人比較快。
+              世界奇觀勝利可以說是防禦性文明的專利，若你是個擅長進攻的文明譬如馬扎爾，那還是直接消滅敵人比較快。
             </li>
             <li>
               最好能先建立陣地，以及一支可靠的軍隊，然後再開始建築世界奇觀，因為一旦開始建築，敵人很可能立刻發兵攻擊你。
@@ -51,7 +51,7 @@
               世界奇觀最好建立在高地，以防止敵軍用高低差優勢對世界奇觀造成更多傷害。
             </li>
             <li>
-              如果你有強大的海軍防衛(比如中國的神風船或西班牙的火炮戰船)，則選擇在海島上建築奇觀也是很不錯的選擇。
+              如果你有強大的海軍防衛(比如中國的神風船或西班牙的火砲戰船)，則選擇在海島上建築奇觀也是很不錯的選擇。
             </li>
             <li>
               黑森林等地圖尤其適合世界奇觀，但是要小心敵人用重型投石車切穿樹林進攻。
@@ -165,7 +165,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -187,7 +187,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">世界奇觀</div>
+              <div class="unititle2">世界奇觀</div>
             </td>
           </tr>
           <tr>
@@ -307,10 +307,10 @@
               <li>
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                   to="/techs/Treadmill_Crane"
-                  >踏輪起重機</nuxt-link
+                  >滑輪起重機</nuxt-link
                 >，
                 <nuxt-link to="/techs/Architecture">建築學</nuxt-link
-                >和<nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                >和<nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >科技的團隊速度提高80%。
               </li>
             </ul>
@@ -328,7 +328,7 @@
               </li>
             </ul>
             <h3>
-              <em><nuxt-link to="/games/aof">王者崛起</nuxt-link></em>
+              <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
             </h3>
             <ul>
               <li>
@@ -380,7 +380,7 @@
                 匈奴人不需要房子，連遊戲都這麼說，可是匈奴卻有世界奇觀可以建造，而且根本跟匈奴一點關係沒有(撐死來說，是被他們征服文明的世界奇觀)。
               </li>
               <li>
-                瑪雅的世界奇觀更像是把大美洲豹神廟跟面具神廟融合起來的產物。
+                馬雅的世界奇觀更像是把大美洲豹神廟跟面具神廟融合起來的產物。
               </li>
               <li>
                 西班牙的黃金塔，作用是保護西班牙珍寶船隊(從美洲運送奢侈品的船隊，黃金塔也得名於此)，實際上沒有遊戲中這麼宏偉。
@@ -395,7 +395,7 @@
                 斯拉夫的世界奇觀是不合時宜的，基日島木教堂其實建構於17世紀，若要說哪個更適合斯拉夫，聖母升天大教堂、費拉邦多夫修道院以及古克里姆林宮可能更加合適(克里姆林宮以前曾是石灰石城堡)。
               </li>
               <li>
-                衣索比亞是中世紀非洲少數的基督教國家，該國基督教歷史可以追溯至舊約聖經列王紀上第十章，示巴女王為了聽取所羅門王的智慧來到以色列，帶回了基督教文化的前身：猶太信仰，而新約聖經使徒行傳第八章也提到有衣索匹亞的太監來聽基督的福音。
+                衣索比亞是中世紀非洲少數的基督教國家，該國基督教歷史可以追溯至舊約聖經列王紀上第十章，示巴女王為了聽取所羅門王的智慧來到以色列，帶回了基督教文化的前身：猶太信仰，而新約聖經使徒行傳第八章也提到有衣索比亞的太監來聽基督的福音。
               </li>
               <li>
                 馬利的世界奇觀也是不合時宜的，傑內大清真寺雖然確實是是13世紀馬利的建築，但是現在的清真寺其實是1907年重建的，真正的古清真寺可能不是這個模樣。
@@ -423,7 +423,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wonderbritons.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wonderbritons.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -441,7 +443,13 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wonderbyzantines.jpg" alt="" />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/Wonderbyzantines.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -459,11 +467,13 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/ROCK_OF_CASHEL_AOE2.gif"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/ROCK_OF_CASHEL_AOE2.gif"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -483,11 +493,13 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/WonderchineseaoeII.jpg"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WonderchineseaoeII.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -505,7 +517,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wonderfranks.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wonderfranks.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -523,7 +537,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wondergoths.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wondergoths.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -543,11 +559,13 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/WonderjapaneseaoeII.jpg"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WonderjapaneseaoeII.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -558,7 +576,9 @@
           <div class="col-md-4">
             <h3><span class="we">蒙古</span><strong>成吉思汗金帳</strong></h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wondermongols.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wondermongols.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -576,11 +596,13 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/WonderpersianaoeII.jpg"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WonderpersianaoeII.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -602,7 +624,9 @@
               >
             </h3>
             <div class="wimg">
-              <img src="~assets/Wondersaracens.jpg" height="124px;" alt="" />
+              <gallery>
+                <img src="~assets/Wondersaracens.jpg" class="hg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -622,7 +646,9 @@
               >
             </h3>
             <div class="wimg">
-              <img src="~assets/Wonderteutons.jpg" height="124px;" alt="" />
+              <gallery>
+                <img src="~assets/Wonderteutons.jpg" class="hg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -642,14 +668,16 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wonderturks.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wonderturks.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
               位於現今土耳其埃迪爾內，鄂圖曼帝國時期的清真寺，1575年完工，1913年遭到保加利亞大砲直接擊中頂端，但是只有輕微損傷，土耳其國父阿塔圖爾克下令不得修復，讓後代時刻以此為鑑。
             </p>
             <p>
-              登場戰役：沙拉丁1-阿拉伯騎士、席德4-黑衛隊、布里斯比羅吉4-塔蘭村之戰
+              登場戰役：沙拉丁1-阿拉伯騎士、熙德4-黑衛隊、布里斯比羅吉4-塔蘭村之戰
             </p>
           </div>
           <div class="col-md-4">
@@ -662,11 +690,13 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/WondervikingsaoeII.jpg"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WondervikingsaoeII.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -684,11 +714,13 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/GREAT_PYRAMID_OF_TENOCHTITLAN_AOE2.gif"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/GREAT_PYRAMID_OF_TENOCHTITLAN_AOE2.gif"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -706,7 +738,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wonderhuns.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wonderhuns.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -726,7 +760,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wonderkorean.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wonderkorean.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -743,7 +779,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wondermayan.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wondermayan.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -761,18 +799,20 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/WonderspanishaoeII.jpg"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WonderspanishaoeII.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
               位於現今西班牙賽維亞，修建於13世紀的穆瓦希德王朝，作用是以鐵鍊控制水路進出口，1755年大地震摧毀了河岸另一端的塔，於是僅僅剩下一座，現為博物館。
             </p>
             <p>
-              登場戰役：席德5-瓦倫西亞之主、蒙特蘇馬4-悲傷之夜、征服者的戰役-勒班陀(1571)
+              登場戰役：熙德5-瓦倫西亞之主、蒙特蘇馬4-悲傷之夜、征服者的戰役-勒班陀(1571)
             </p>
             <br />
             <br />
@@ -787,7 +827,13 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderincasaoeII.jpg" alt="" />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WonderincasaoeII.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -805,11 +851,13 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/WonderindiansaoeII.jpg"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WonderindiansaoeII.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -828,7 +876,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wonderitalians.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wonderitalians.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -840,7 +890,7 @@
           </div>
           <div class="col-md-4">
             <h3>
-              <span class="we">馬札爾</span
+              <span class="we">馬扎爾</span
               ><strong
                 ><a href="https://zh.wikipedia.org/wiki/科文城堡"
                   >科文城堡</a
@@ -848,7 +898,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wondermagyars.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wondermagyars.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -866,7 +918,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Wonderslavs.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Wonderslavs.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -884,7 +938,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderBerbers.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/WonderBerbers.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -902,11 +958,17 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderEthiopians.jpg" alt="" />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WonderEthiopians.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
-              位於現今衣索匹亞拉利貝拉，是阿克蘇姆帝國時期的建築物，阿克蘇姆帝國從330年開始就成為基督教國家，建築物本身一直是個基督教堂，整座教堂是一塊岩石鑿出來的。
+              位於現今衣索比亞拉利貝拉，是阿克蘇姆帝國時期的建築物，阿克蘇姆帝國從330年開始就成為基督教國家，建築物本身一直是個基督教堂，整座教堂是一塊岩石鑿出來的。
             </p>
             <p>登場戰役：無</p>
           </div>
@@ -920,11 +982,13 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderMalians.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/WonderMalians.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
-              位於現今馬里傑內市巴尼河的氾濫平原上，是一座巨型的土坯建築(意思是只有土)，傑內大清真寺最早可追溯至13世紀，但是當時的模樣並沒有確切紀錄，現在的傑內大清真寺是1907年建造的。
+              位於現今馬利傑內市巴尼河的氾濫平原上，是一座巨型的土坯建築(意思是只有土)，傑內大清真寺最早可追溯至13世紀，但是當時的模樣並沒有確切紀錄，現在的傑內大清真寺是1907年建造的。
             </p>
             <p>
               登場戰役：松迪亞塔5-深入虎穴、法蘭西斯科．阿爾梅達3-帝國的廢墟
@@ -940,7 +1004,13 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/WonderPortuguese.jpg" alt="" />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/WonderPortuguese.jpg"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -960,7 +1030,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/ShwezigonPagoda.png" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/ShwezigonPagoda.png" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -980,7 +1052,13 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Angkorwataoe2irl.png" alt="" />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/Angkorwataoe2irl.png"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -998,7 +1076,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/KalasanAOE2.jpg" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/KalasanAOE2.jpg" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -1019,7 +1099,9 @@
               >
             </h3>
             <div class="wimg">
-              <img height="124px;" src="~assets/Butthapaoe2irl.png" alt="" />
+              <gallery>
+                <img class="hg" src="~assets/Butthapaoe2irl.png" alt="" />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>
@@ -1037,11 +1119,13 @@
               >
             </h3>
             <div class="wimg">
-              <img
-                height="124px;"
-                src="~assets/Brihadeeswarartempleaoe2irl.png"
-                alt=""
-              />
+              <gallery>
+                <img
+                  height="124px;"
+                  src="~assets/Brihadeeswarartempleaoe2irl.png"
+                  alt=""
+                />
+              </gallery>
             </div>
             <div class="hrn1"></div>
             <p>

@@ -22,14 +22,14 @@
           >就相當的致命，可以有效屠殺<nuxt-link to="/units/Villager"
             >村民</nuxt-link
           >來擾亂敵人的經濟，在數量成形前比較怕
-          <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>與<nuxt-link
+          <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>與<nuxt-link
             to="/units/Skirmisher"
             >矛兵</nuxt-link
           >，但在數量成形後，相對不怕
           <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>。相較於
           <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
           >，弓兵比較不怕對手圍牆。而成本上不花費食物，可以讓玩家更快的推進到<nuxt-link
-            to="/units/Scout_Cavalry"
+            to="/techs/age/Castle_Age"
             >城堡時代</nuxt-link
           >。即使對方上了城堡出了
           <nuxt-link to="/units/Knight">騎士</nuxt-link
@@ -61,8 +61,8 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
-              >、 <nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>。
+                >斥候</nuxt-link
+              >、 <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -104,11 +104,11 @@
                 alt=""
               /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
               >:射箭場弓兵單位對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >和
               <nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >攻擊+6，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定
             </td>
           </tr>
@@ -336,30 +336,30 @@
                   </li>
                   <li>
                     <img class="gg" src="~assets/CataphractIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Knight">聖騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>→
                     <img class="gg" src="~assets/CataphractIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Paladin">精銳聖騎兵</nuxt-link
+                    <nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/TarkanIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Knight">韃靼騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>→
                     <img class="gg" src="~assets/TarkanIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Paladin">精銳韃靼騎兵</nuxt-link
+                    <nuxt-link to="/units/Tarkan">精銳韃靼騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/New_Boyar.png" alt="" />
-                    <nuxt-link to="/units/Knight">貴族鐵騎</nuxt-link>→
+                    <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>→
                     <img class="gg" src="~assets/New_Boyar.png" alt="" />
-                    <nuxt-link to="/units/Paladin">精銳貴族鐵騎</nuxt-link
+                    <nuxt-link to="/units/Boyar">精銳貴族鐵騎</nuxt-link
                     >(<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/GbetoIcon.png" alt="" />
-                    <nuxt-link to="/units/Knight">飛刀女獵手</nuxt-link>→
+                    <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>→
                     <img class="gg" src="~assets/GbetoIcon.png" alt="" />
-                    <nuxt-link to="/units/Paladin">精銳飛刀女獵手</nuxt-link
+                    <nuxt-link to="/units/Gbeto">精銳飛刀女獵手</nuxt-link
                     >(<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定)
                   </li>
                 </ul>
@@ -462,7 +462,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：弓兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >：弓兵對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>
@@ -514,7 +514,7 @@
                 to="/techs/Obsidian_Arrows"
                 >黑曜石之箭</nuxt-link
               >。弓兵對
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+4。
             </li>
@@ -534,11 +534,11 @@
                 to="/techs/Obsidian_Arrows"
                 >黑曜石之箭</nuxt-link
               >現在給弓兵對
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+6。4.8版後增加對<nuxt-link
                 to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >攻擊+6
             </li>
           </ul>
@@ -549,7 +549,7 @@
           <ul>
             <li>就木頭而言，弓兵是全遊戲最便宜的遠距離單位。</li>
             <li>
-              30HP，全遊戲生命最低的單位，與矛兵、爪刀勇士、飛刀女獵手並列。
+              30HP，全遊戲生命最低的單位，與矛兵、彎刀勇士、飛刀女獵手並列。
             </li>
             <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
             <li>
@@ -570,7 +570,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle"><nuxt-link to="">弓兵</nuxt-link></div>
+              <div class="unititle2">
+                弓兵
+              </div>
             </td>
           </tr>
           <tr>
@@ -582,7 +584,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2"><nuxt-link to="">單位介紹</nuxt-link></div>
+              <div class="unititle2">單位介紹</div>
             </td>
           </tr>
           <tr>

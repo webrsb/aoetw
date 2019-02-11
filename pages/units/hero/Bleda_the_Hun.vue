@@ -35,8 +35,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
-              <div class="unititle">
-                <nuxt-link to="">匈奴王貝里達</nuxt-link>
+              <div class="unititle2">
+                匈奴王貝里達
               </div>
             </td>
           </tr>

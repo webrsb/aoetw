@@ -25,7 +25,7 @@
           <ul>
             <li>
               連弩兵通常會與僧侶、<nuxt-link to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >和村民做前線的快攻，它們足以應付任何情況，即便是面對<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
@@ -36,19 +36,18 @@
               >(想像一整排箭飛過來的樣子)。
             </li>
             <li>
-              中國連弩兵對有遠程護甲的單位(如<nuxt-link
-                to="/units/Battering_Ram"
+              連弩兵對有遠程護甲的單位(如<nuxt-link to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
               >)的傷害比一般弓兵來得高，因為他們攻擊的次數多，累積起來傷害量還是很可觀。但是，他們仍然要盡量避免對弓箭手有加成攻擊的單位(例如
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
-              >)，或是射程比中國連弩兵遠可以用打帶跑戰術消耗血量的弓兵單位作戰。
+              >)，或是射程比連弩兵遠可以用打帶跑戰術消耗血量的弓兵單位作戰。
             </li>
             <li>
               <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
               >、射程比它們遠的弓兵，一群的重裝騎兵、<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
-              >、 <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link
+              >、 <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >都是連弩兵很大的威脅。
@@ -78,7 +77,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
@@ -380,7 +379,7 @@
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
               >能夠提高連弩兵的生產速度還有加速
-              <nuxt-link to="/techs/Conscription">徵兵技術</nuxt-link
+              <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >、<nuxt-link to="/techs/Rocketry">火箭術</nuxt-link
               >的研究時間(快25%)
             </li>
@@ -391,17 +390,17 @@
               >研發時間快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>：連弩兵視野+2。。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：連弩兵視野+2。。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">馬利</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Chemistry"
                 >化學</nuxt-link
               >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：連弩兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >：連弩兵對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>
@@ -462,7 +461,7 @@
               中國軍事作家曾說連弩的火力太弱實在無法座位戰鬥使用，應該是民間家庭對付野生動物用。儘管如此，有報導稱，在1894年的第一次中日戰爭之前，人們仍有使用連弩的紀錄。。
             </li>
             <li>
-              連弩兵的精銳升級黃金成本是所有單位中第二貴的，只輸給精銳波斯戰象的1200金。不過<nuxt-link
+              連弩兵的精銳升級黃金成本是所有單位中第二貴的，只輸給精銳戰象的1200金。不過<nuxt-link
                 to="/civs/Chinese"
                 >中國</nuxt-link
               >的文明加成可以將其降低到760金。

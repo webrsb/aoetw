@@ -65,7 +65,7 @@
             <dd>7位村民、2位騎士、8位弩兵、3艘運輸船、3位條頓武士。</dd>
             <dt>大地之母單位：</dt>
             <dd>
-              6艘漁船、5位村民、5台中型投石車、5位騎士、4艘運輸船、4艘弩砲戰船、3位條頓武士、2位斥侯、2艘火戰船。
+              6艘漁船、5位村民、5台中型投石車、5位騎士、4艘運輸船、4艘弩砲戰船、3位條頓武士、2位斥候、2艘火戰船。
             </dd>
           </dl>
           <h2>主要任務</h2>
@@ -109,8 +109,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle">
-                <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>
+              <div class="unititle2">
+                倫巴聯盟
               </div>
             </td>
           </tr>
@@ -131,7 +131,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
+              <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -63,7 +63,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              />精銳爪刀勇士 減少 1攻擊力(原始 8)
+              />精銳彎刀勇士 減少 1攻擊力(原始 8)
             </li>
             <li>
               <img
@@ -193,7 +193,7 @@
                 src="~assets/Unique-tech.jpg"
                 class="gg"
                 alt=""
-              />火繩槍增加了火炮與火炮塔投射速度 從 0 增至 0.2
+              />火繩槍增加了火砲與火砲塔投射速度 從 0 增至 0.2
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />風琴砲增加

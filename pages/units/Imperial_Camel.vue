@@ -11,7 +11,7 @@
             >帝王時代</nuxt-link
           >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
           >，對於騎兵較有優勢，為
-          <nuxt-link to="/civs/Indians">印度</nuxt-link>的特殊兵種。
+          <nuxt-link to="/civs/Indians">印度</nuxt-link>的特殊單位。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
@@ -20,7 +20,7 @@
           >文明出現後帝王駱駝騎兵為帝王時代最強大的騎兵之一，因為印度文明並沒有<nuxt-link
             to="/units/Cavalier"
             >騎兵</nuxt-link
-          >所以駱駝兵種成為印度不可或缺的兵種之一。雖然坦度不如騎兵類型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊兵種，卻不會受到
+          >所以駱駝兵種成為印度不可或缺的兵種之一。雖然坦度不如騎兵類型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊單位，卻不會受到
           <nuxt-link to="/units/Samurai">日本武士</nuxt-link
           >的攻擊加成。帝王駱駝基本上你可以把他當成<nuxt-link
             to="/units/Paladin"
@@ -333,7 +333,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -422,7 +422,7 @@
               >：帝王駱駝騎兵生產效率快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與
-              <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link>研發快20%。
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link
@@ -498,8 +498,8 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle">
-                <nuxt-link to="">帝王駱駝騎兵</nuxt-link>
+              <div class="unititle2">
+                帝王駱駝騎兵
               </div>
             </td>
           </tr>

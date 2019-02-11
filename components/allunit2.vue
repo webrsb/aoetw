@@ -15,9 +15,9 @@
           </tr>
           <tr>
             <td style="text-align: center;padding: 20px ">
-              <nuxt-link to="/units/Infantry_Units">步兵單位·</nuxt-link><nuxt-link to="/units/Archer_Units">遠距離單位·</nuxt-link>
-              <nuxt-link to="/units/Cavalry_Units">騎兵單位·</nuxt-link><nuxt-link to="/units/Naval_Vessels">海軍單位·</nuxt-link><nuxt-link to="/units/Siege_Weapons">攻城器單位·</nuxt-link>
-              <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
+              <nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link>·<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link>·
+              <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>·<nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link>·<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link>·
+              <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>·<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link>
             </td>
           </tr>
         </table>

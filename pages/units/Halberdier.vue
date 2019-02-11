@@ -35,7 +35,7 @@
             >，並利用其最小射程。
           </p>
           <p>
-            他們是<nuxt-link to="/building/Siege_Workshop">攻城武器</nuxt-link
+            他們是<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >的完美輔助，因為他們可以保護攻城武器免受敵方近戰騎兵的傷害。雖然它們可能缺乏進攻力量，但它們可以作為炮灰向前進攻。
           </p>
         </div>
@@ -50,9 +50,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
@@ -69,7 +67,7 @@
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>、
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
@@ -90,9 +88,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -126,7 +122,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Archer">弓兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、
               <nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
@@ -136,7 +132,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -228,7 +224,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -264,7 +260,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:兵營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -455,13 +451,13 @@
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     />
-                    <nuxt-link to="/units/Rattan_Archer">籐甲弓兵</nuxt-link>→
+                    <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     />
-                    <nuxt-link to="/units/Rattan_Archer">精銳籐甲弓兵</nuxt-link
+                    <nuxt-link to="/units/Rattan_Archer">精銳藤甲弓兵</nuxt-link
                     >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
                   </li>
                   <li>
@@ -487,21 +483,21 @@
                       width="22"
                       alt=""
                     />
-                    <nuxt-link to="/units/Rattan_Archer">蒙古突騎</nuxt-link>→
+                    <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
                     />
-                    <nuxt-link to="/units/Rattan_Archer">精銳蒙古突騎</nuxt-link
+                    <nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
                     >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Rattan_Archer">駱駝弓騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
                     <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Rattan_Archer"
+                    <nuxt-link to="/units/Camel_Archer"
                       >精銳駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
@@ -512,7 +508,7 @@
           以下技術研發後對長槍兵有額外攻擊力，以數值排列
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -529,7 +525,7 @@
               width="22"
               alt=""
             />
-            <nuxt-link to="/techs/Parthian_Tactics">帕提亞技術</nuxt-link>
+            <nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
             <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
             <ul>
               <li>
@@ -550,14 +546,14 @@
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/units/Rattan_Archer">蒙古突騎</nuxt-link>→
+                <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/MangudaiIcon.jpg"
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/units/Rattan_Archer">精銳蒙古突騎</nuxt-link
+                <nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
                 >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
               </li>
               <li>
@@ -606,7 +602,7 @@
                 >建築物</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link
+              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的速度快100%。
             </li>
@@ -615,7 +611,7 @@
               >：戟兵攻擊速度快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
@@ -623,7 +619,7 @@
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >。
             </li>
             <li>
@@ -654,7 +650,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：戟兵訓練快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -713,7 +709,7 @@
             <li>和矛兵一樣是最便宜的單位。</li>
             <li>唯一沒有任何裝甲防禦的步兵單位。</li>
             <li>
-              上天是公平的，沒有戟兵的文明大多有剋騎馬單位的駱駝，而沒有駱駝的，則是有厲害的重裝長槍兵（如阿茲特克與維京）或是克制馬的特殊兵種（如義大利）。
+              上天是公平的，沒有戟兵的文明大多有剋騎馬單位的駱駝，而沒有駱駝的，則是有厲害的重裝長槍兵（如阿茲特克與維京）或是克制馬的特殊單位（如義大利）。
             </li>
             <li>
               雖然是叫做戟兵，但實際上武器是斧槍(瑞士斧)，只是初始的中文翻譯錯誤而已。
@@ -849,7 +845,7 @@
               <br />+1 vs<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >
-              <br />+1 vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <br />+1 vs<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
             </td>

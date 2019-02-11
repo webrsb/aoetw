@@ -11,7 +11,7 @@
             《世紀帝國II：失落的帝國》是1999年即時戰略遊戲《世紀帝國II：帝王世紀》的第二個擴充資料片，距第一個擴充資料片征服者入侵已超過十年。此資料片由非官方模組《Forgotten
             Empires》發展而來。現由「Forgotten
             Empires」團隊持續開發，溫哥華的Skybox
-            Labs提供支援。《失落的帝國》中引入五個新文明，分別為：義大利人、印度人、斯拉夫人、馬札爾人、印加人、七場新戰役、新單位、新科技、新遊戲模式及新地圖，並改善了人工智慧和遊戲細節。開發團隊並於2015年秋季推出第三個官方擴充資料片─《非洲王國》，於2016年年底推出第四個官方擴充資料片─《王者崛起》
+            Labs提供支援。《失落的帝國》中引入五個新文明，分別為：義大利人、印度人、斯拉夫人、馬扎爾人、印加人、七場新戰役、新單位、新科技、新遊戲模式及新地圖，並改善了人工智慧和遊戲細節。開發團隊並於2015年秋季推出第三個官方擴充資料片─《非洲王國》，於2016年年底推出第四個官方擴充資料片─《王者崛起》
           </p>
         </div>
         <h2>新增元素</h2>
@@ -20,13 +20,13 @@
         <div class="n1">
           <ul>
             <li>
-              馬扎爾：馬札爾是現在匈牙利的主體民族，因此常被稱之匈牙利人。他最早被認為是源自於突厥人，在九世紀中有支突厥人貴族進入了中歐。特殊兵種是馬札爾驃騎兵。
+              馬扎爾：馬扎爾是現在匈牙利的主體民族，因此常被稱之匈牙利人。他最早被認為是源自於突厥人，在九世紀中有支突厥人貴族進入了中歐。特殊單位是馬扎爾驃騎兵。
             </li>
             <li>
               印度：印度是印度的駱駝和火藥文明，特殊單位是象弓騎兵與帝王駱駝騎兵。
             </li>
             <li>
-              印加：印加是一個南美文明，在中世紀建立起一個龐大的帝國，特殊兵種為槍隊長與投石手。
+              印加：印加是一個南美文明，在中世紀建立起一個龐大的帝國，特殊單位為槍隊長與投石手。
             </li>
             <li>
               義大利：義大利為海軍與射手文明，特殊單位為熱那亞弩手，他和他的同盟都可以在帝王時代生產顧傭兵。
@@ -44,7 +44,7 @@
                 class="gg"
                 src="~assets/EagleScoutIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>
+              /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
             </li>
             <li>
               <img
@@ -95,7 +95,7 @@
                 src="~assets/Magyar_Huszar_icon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>
+              /><nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/New_Boyar.png" alt="" /><nuxt-link
@@ -121,9 +121,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#ad7b35">
-              <div class="unititle">
-                <nuxt-link to="">世紀帝國II：失落的帝國</nuxt-link>
-              </div>
+              <div class="unititle2">世紀帝國II：失落的帝國</div>
             </td>
           </tr>
           <tr>
@@ -175,7 +173,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <em>主要文章: <nuxt-link to="/batt/">戰役</nuxt-link></em>
+            <em>主要文章: <nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
           <p>包含七個主戰役</p>
           <ul>
@@ -252,7 +250,7 @@
           </ul>
           蒙古
           <ul>
-            <li>精銳火炮戰船被刪除。</li>
+            <li>精銳火砲戰船被刪除。</li>
             <li>蒙古突騎對攻城武器加成僅限於衝撞車。</li>
             <li>蒙古突騎開火間隔-50%，原本是10。</li>
           </ul>

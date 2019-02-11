@@ -470,7 +470,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -818,11 +818,11 @@
             <td class="unit3">防禦類型</td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵(+11)</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>(+11)
               <br />
               <nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
-                >特殊兵種</nuxt-link
+                >特殊單位</nuxt-link
               >
             </td>
           </tr>
