@@ -11,7 +11,7 @@
             <a href="civs/Turks">土耳其</a>是現世國家土耳其共和國，但實際上現在的土耳其共和國是歷經好幾次遷徙和混合才形成的，和原先的中亞突厥人關係變遠了，土耳其是由突厥人底下分支的烏古斯人塞爾柱間接建立的。之後土耳其歷經了幾次的建立和滅亡在第一次世界大戰後正式變成現今的土耳其共和國，其中最值得一提的就是奧斯曼帝國(1299~1922),毀滅了中世紀最強大的帝國之一的東羅馬帝國，然後將君士坦丁堡改名為伊斯坦堡。
           </p>
           <p>
-            <a href="civs/Turks">土耳其</a>是中東的火藥文明，世紀帝國II的可使用的最初文明之一。他們的特殊單位是<a href="units/Janissary">土耳其火槍兵</a>是城堡時代就能生產的火藥單位。土耳其在十字軍東征裡打贏了許多戰役，也成功滅了東羅馬帝國截斷了歐洲對外的門戶，接著參與了科學和數學，特別是在煉金術領域，後來成為現代化學的骨幹。作為一個伊斯蘭文明，他們以向西方傳播這一知識而著稱。為了體現這一成就金礦工作效率上升、免費化學。這使他們可以立即使用火藥單位。土耳其作為第一個絲綢之路的火藥帝國，為了第一個火藥帝國的強大，火藥單位血量上升、研發火藥相關科技更便宜、火砲攻擊距離變遠、火藥單位訓練變快。
+            <a href="civs/Turks">土耳其</a>是中東的火藥文明，世紀帝國II的可使用的最初文明之一。他們的特殊單位是<a href="units/Janissary">土耳其火槍兵</a>是城堡時代就能生產的火藥單位。土耳其在十字軍東征裡打贏了許多戰役，也成功滅了東羅馬帝國截斷了歐洲對外的門戶，接著參與了科學和數學，特別是在煉金術領域，後來成為現代化學的骨幹。作為一個伊斯蘭文明，他們以向西方傳播這一知識而著稱。為了體現這一成就金礦工作效率上升、免費化學。這使他們可以立即使用火藥單位。土耳其作為第一個絲綢之路的火藥帝國，為了第一個火藥帝國的強大，火藥單位血量上升、研發火藥相關科技更便宜、<a href="units/Bombard_Cannon">火炮</a>攻擊距離變遠、<a href="units/Gunpowder_Unit">火藥單位</a>訓練變快。
           </p>
         </div>
         <h3>遊戲概要</h3>
@@ -19,31 +19,31 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="civs/Turks">土耳其</a>因為大量火藥文明加成和帝王時代特殊科技<a href="techs/Artillery">火砲術</a>(<a href="units/Bombard_Cannon">火炮</a>、<a href="building/Bombard_Tower">火砲塔</a>、<a href="units/Cannon_Galleon">火砲戰船</a>攻擊距離+2)，使得土耳其火藥相關的兵種威力更加強大，另外特殊單位<a href="units/Janissary">土耳其火槍兵</a>是目前少數能在城堡時代生產的火藥單位。
+              <a href="civs/Turks">土耳其</a>因為大量火藥文明加成和帝王時代特殊科技<a href="techs/Artillery">火砲術</a>(<a href="units/Bombard_Cannon">火炮</a>、<a href="building/Bombard_Tower">火砲塔</a>、<a href="units/Cannon_Galleon">火砲戰船</a>攻擊距離+2)，使得土耳其火藥相關的兵種威力更加強大，另外特殊單位<a href="units/Janissary">土耳其火槍兵</a>是目前少數能在城堡時代生產的<a href="units/Gunpowder_Unit">火藥單位</a>。
             </li>
             <li>
-              <a href="units/Hand_Cannoneer">火槍兵</a>最怕就是<a href="armor/Armor_Class_Cavalry">騎兵</a>跟<a href="armor/Armor_Class_Archer">弓兵</a>還有<a href="armor/Armor_Class_Archer">矛兵</a>，但是<a href="units/Janissary">土耳其火槍兵</a>在大數量時是可以吃掉<a href="armor/Armor_Class_Archer">弓兵</a>、<a href="armor/Armor_Class_Cavalry">騎兵</a>甚至<a href="units/Elite_Skirmisher">戰矛兵</a>，但是基於資源消耗的不平衡是不建議的，有免費的輕騎兵/翼騎兵(舊稱匈牙利輕騎兵)可以作為反制使用。
+              <a href="units/Hand_Cannoneer">火槍兵</a>最怕就是<a href="units/Cavalry_Units">騎兵</a>跟<a href="units/Archer_Units">弓兵</a>還有<a href="units/Archer_Units">矛兵</a>，但是<a href="units/Janissary">土耳其火槍兵</a>在大數量時是可以吃掉<a href="units/Archer_Units">弓兵</a>、<a href="units/Cavalry_Units">騎兵</a>甚至<a href="units/Elite_Skirmisher">戰矛兵</a>，但是基於資源消耗的不平衡是不建議的，有免費的輕騎兵/翼騎兵(舊稱<a href="units/Hussar">匈牙利輕騎兵</a>)可以作為反制使用。
             </li>
             <li>
               <a href="civs/Turks">土耳其</a>的<a href="units/Bombard_Cannon">火炮</a>可說是遊戲裡最遠的<a href="units/Bombard_Cannon">火炮</a>，條頓城堡擁有全遊戲最遠的射程13(需研發帝王時代特殊科技垛口)，因此除了土耳其火砲(要研發帝王時代特殊科技<a href="techs/Artillery">火砲術</a>)/<a href="units/Mangonel">投石機</a>/<a href="units/Cannon_Galleon">火砲戰船</a>可以無損打到以外，沒有任何的攻城器可無損打到。(為了平衡所以沒有<a href="techs/Siege_Engineers">攻城工程師</a>)
             </li>
             <li>
-              <a href="civs/Turks">土耳其</a>是遊戲唯一不能使用<a href="units/Elite_Skirmisher">戰矛兵</a>及<a href="units/Pikeman">重裝長槍兵</a>的文明，儘管<a href="armor/Armor_Class_Archer">弓兵</a>系統缺乏<a href="units/Elite_Skirmisher">戰矛兵</a>/<a href="units/Arbalest">強弩兵</a>，但是他們擁有遊戲裡血最多的<a href="units/Heavy_Cavalry_Archer">重裝馬弓騎兵</a>(要發明城堡時代特殊科技<a href="techs/Sipahi">采邑騎兵</a>(馬弓騎兵系血量+20)，<a href="armor/Armor_Class_Infantry">步兵</a>系統也只欠缺重裝長槍兵/戟兵/美洲獨有鷹勇士。
+              <a href="civs/Turks">土耳其</a>是遊戲唯一不能使用<a href="units/Elite_Skirmisher">戰矛兵</a>及<a href="units/Pikeman">重裝長槍兵</a>的文明，儘管<a href="armor/Armor_Class_Archer">弓兵</a>系統缺乏<a href="units/Elite_Skirmisher">戰矛兵</a>/<a href="units/Arbalest">強弩兵</a>，但是他們擁有遊戲裡血最多的<a href="units/Heavy_Cavalry_Archer">重裝馬弓騎兵</a>(要發明城堡時代特殊科技<a href="techs/Sipahi">采邑騎兵</a>(馬弓騎兵系血量+20)，<a href="armor/Armor_Class_Infantry">步兵</a>系統也只欠缺<a href="units/Pikeman">重裝長槍兵</a>/<a href="units/Halberdier">戟兵</a>/美洲獨有<a href="Eagle_Warrior">鷹勇士</a>。
             </li>
             <li>
-              因欠缺重裝長槍兵/戟兵/<a href="units/Elite_Skirmisher">戰矛兵</a>遊戲中的兩大垃圾兵，但是騎兵系統的斥候系列有免費升級，因此在封建打肉馬爆時一進入城堡時代威力會瞬間爆發，除了東南亞獨有矛象伕/遊俠(聖騎士)土耳其騎兵系統是有不錯的優勢的。
+              因欠缺<a href="units/Pikeman">重裝長槍兵</a>/<a href="units/Halberdier">戟兵</a>/<a href="units/Elite_Skirmisher">戰矛兵</a>遊戲中的兩大垃圾兵，但是騎兵系統的斥候系列有免費升級，因此在封建打肉馬爆時一進入城堡時代威力會瞬間爆發，除了東南亞獨有<a href="units/Battle_Elephant">矛象伕</a>/<a href="units/Paladin">遊俠</a>(聖騎士)土耳其騎兵系統是有不錯的優勢的。
             </li>
             <li>
-              海戰系統上除了快速火戰船沒有以外其餘都很齊全，攻城器沒有<a href="units/Onager">中型投石車</a>/<a href="units/Siege_Onager">重型投石車</a>因此很依賴<a href="units/Bombard_Cannon">火炮</a>。
+              海戰系統上除了<a href="units/Fast_Fire_Ship">快速火戰船</a>沒有以外其餘都很齊全，攻城器沒有<a href="units/Onager">中型投石車</a>/<a href="units/Siege_Onager">重型投石車</a>因此很依賴<a href="units/Bombard_Cannon">火炮</a>。
             </li>
             <li>
               <a href="units/Monk">僧侶</a>系統上欠缺<a href="techs/Herbal_Medicine">草藥學</a>/<a href="techs/Block_Printing">雕版印刷術</a>/<a href="techs/Illumination">啟發教化</a>，因此僧侶進攻上有一定難度。
             </li>
             <li>
-              火槍兵和騎兵是很吃肉的單位，但是<a href="civs/Turks">土耳其</a>沒有<a href="techs/Crop_Rotation">輪耕</a>因此後期需要更多村民種田來支撐食物的消耗，黃金部分因為有金礦採集速度+20%因此在擁有金礦下是不容易欠黃金的。
+              <a href="units/Gunpowder_Unit">火槍兵</a>和<a href="units/Cavalry_Units">騎兵</a>是很吃肉的單位，但是<a href="civs/Turks">土耳其</a>沒有<a href="techs/Crop_Rotation">輪耕</a>因此後期需要更多村民種田來支撐食物的消耗，黃金部分因為有金礦採集速度+20%因此在擁有金礦下是不容易欠黃金的。
             </li>
             <li>
-              沒有<a href="units/Elite_Skirmisher">戰矛兵</a>也就代表跟<a href="civs/Vietnamese">越南</a>同盟時不會擁有<a href="units/Imperial_Skirmisher">帝王戰矛兵</a>，但是跟柏柏同盟時會擁有可以彌補戰矛兵漏洞的標槍騎兵，城堡時代特殊科技采邑騎兵(馬弓騎兵系血量+20)的加成讓土耳其的標槍騎兵會更強大。
+              沒有<a href="units/Elite_Skirmisher">戰矛兵</a>也就代表跟<a href="civs/Vietnamese">越南</a>同盟時不會擁有<a href="units/Imperial_Skirmisher">帝王戰矛兵</a>，但是跟<a href="civs/Berbers">柏柏</a>同盟時會擁有可以彌補戰矛兵漏洞的標槍騎兵，城堡時代特殊科技采邑騎兵(馬弓騎兵系血量+20)的加成讓土耳其的標槍騎兵會更強大。
             </li>
             <li>
               <a href="civs/Turks">土耳其</a>整體是攻擊性的文明，因為欠缺兩大垃圾兵(反制兵)因此一陷入被動時對自身虧損很嚴重且，大部分的單位很吃黃金/食物的消耗，玩家需要發展強大的經濟才能支撐帝國的發展。
@@ -56,10 +56,10 @@
                 class="gg"
                 src="~assets/JanissaryIcon.jpg"
                 alt=""
-              /><a href="units/Janissary">土耳其火槍兵</a>:更強大火力更遠射程的火槍兵。
+              /><a href="units/Janissary">土耳其火槍兵</a>:更強大火力更遠射程的<a href="units/Hand_Cannoneer">火槍兵</a>。
             </p>
           </ul>
-          <h3>特殊科技</h3>
+          <h3><a href="techs/untech">特殊科技</a></h3>
           <ul>
             <p>
               <img
@@ -85,7 +85,7 @@
             <li>研發火藥相關科技便宜50%</li>
             <li>免費擁有<a href="techs/Chemistry">化學</a></li>
             <li>金礦採集速度+20%</li>
-            <li>輕騎兵/翼騎兵(舊稱匈牙利輕騎兵)免費升級</li>
+            <li>輕騎兵/翼騎兵(舊稱<a href="units/Hussar">匈牙利輕騎兵</a>)免費升級</li>
             <li><strong>團隊加分:</strong>火藥單位訓練效率+20%</li>
           </ul>
         </div>
@@ -100,10 +100,10 @@
         <div class="n1">
           <ul>
             <li>
-              <a href="civs/Turks">土耳其</a>是唯一沒有戰矛兵的文明，這也意味著他們在與越南結盟時不能訓練帝王戰矛兵。
+              <a href="civs/Turks">土耳其</a>是唯一沒有<a href="units/Elite_Skirmisher">戰矛兵</a>的文明，這也意味著他們在與<a href="civs/Vietnamese">越南</a>結盟時不能訓練<a href="units/Imperial_Skirmisher">帝王戰矛兵</a>。
             </li>
             <li>
-              <a href="civs/Turks">土耳其</a>是唯一沒有戰矛兵/重裝長槍兵的文明，這也代表進入後期時部隊會越來越珍貴且文明本身會越來越弱勢。
+              <a href="civs/Turks">土耳其</a>是唯一沒有<a href="units/Elite_Skirmisher">戰矛兵</a>/<a href="units/Pikeman">重裝長槍兵</a>的文明，這也代表進入後期時部隊會越來越珍貴且文明本身會越來越弱勢。
             </li>
             <li>
               <a href="civs/Turks">土耳其</a>跟<a href="civs/Byzantines">拜占庭</a>的<a href="building/Wonder">世界奇觀</a>建築上非常相像，<a href="civs/Byzantines">拜占庭</a>的聖索菲亞大教堂被征服後也增加了4根柱子
