@@ -131,7 +131,7 @@
               <nuxt-link to="/building/Archery_Range"
                 ><img class="ng" src="~assets/Acheryrangeicon.png" alt=""
               /></nuxt-link>
-              <div>
+              <div id="射箭場">
                 <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
               </div>
             </td>
@@ -243,8 +243,7 @@
           </tr>
         </table>
 
-        <table class="table">
-          style="margin-top:50px;">
+        <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" style="border-top: none;" colspan="6">
               <nuxt-link to="/building/Stable"
@@ -802,7 +801,6 @@
               <div>
                 <nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t23 trm not">
               <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt="" />

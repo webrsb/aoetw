@@ -130,7 +130,7 @@
               <nuxt-link to="/building/Archery_Range"
                 ><img class="ng" src="~assets/Acheryrangeicon.png" alt=""
               /></nuxt-link>
-              <div>
+              <div id="射箭場">
                 <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
               </div>
             </td>
@@ -251,7 +251,7 @@
               </div>
             </td>
           </tr>
-          ,
+
           <tr>
             <td style="vertical-align: middle;" class="t5 trm fe">
               <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
@@ -782,7 +782,6 @@
               <div>
                 <nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>
               </div>
-              <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t23 trm">
               <img class="gg" src="~assets/Stone_Shaft_Mining.jpg" alt="" />
