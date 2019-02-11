@@ -104,7 +104,7 @@
             <li>截斷明廷援軍至關重要，因為王通極需要援軍。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -114,7 +114,7 @@
             </li>
             <li>
               乂安府（淺藍）地處南端， 有重兵把守， 固若金湯.
-              他們城內儲存大量黑火藥，更有神機營訓練火炮和火槍兵部隊。
+              他們城內儲存大量黑火藥，更有神機營訓練火砲和火槍兵部隊。
             </li>
             <li>
               征夷大將軍王通（紫色）親率重騎兵、諸葛弩、精銳戰矛兵和斧槍兵鎮守東都（綠色）。
@@ -206,7 +206,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Reaching_South">揮軍南下</nuxt-link>
+              <nuxt-link to="/batt/Reaching_South">揮師南下</nuxt-link>
             </td>
           </tr>
           <tr>

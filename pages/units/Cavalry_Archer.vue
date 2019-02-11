@@ -8,13 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬弓騎兵訓練於城堡時代的<nuxt-link to="/Archery_Range"
+            馬弓騎兵訓練於城堡時代的<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
             >，他有非常快的速度與遠程的攻擊，使他成為一名出色的騷擾者，是非常有效對付步兵單位的兵種。但因為他是騎馬的遠程單位，因此懼怕
-            <nuxt-link to="/units/Skirmisher">戰矛兵</nuxt-link>與<nuxt-link
-              to="/units/Spearman"
-              >槍兵</nuxt-link
-            >。而
+            <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+            >與<nuxt-link to="/units/Spearman">槍兵</nuxt-link>。而
             <nuxt-link to="/units/Camel_Archer">駱駝射手</nuxt-link
             >更是馬弓騎兵的超級天敵
           </p>
@@ -33,16 +31,16 @@
             馬弓騎兵是遊戲中最好的騷擾者之一。但玩家必須做出適當操作，與敵人保持最佳距離。且馬弓騎兵並不便宜，如果要使用大量的馬弓，必須要有強大的經濟。馬弓對付大部分的步兵與慢速移動的單位非常有效果。
           </p>
           <p>
-            <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
+            <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
             <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
             <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
             <nuxt-link to="/civs/Turks">土耳其</nuxt-link>與<nuxt-link
               to="/civs/Saracens"
               >薩拉森</nuxt-link
-            >是絕佳的使用馬弓騎兵的國家。雖然其他文明也可以使用，但都不如這些國家。蒙古有非常出色的攻擊速度，匈奴有非常便宜的造價，可以把省下來的資源用於別的兵種，如騎兵。馬札爾、土耳其與薩拉森人則是在帝王時期可以展現出強大的威力。馬札爾通過
+            >是絕佳的使用馬弓騎兵的國家。雖然其他文明也可以使用，但都不如這些國家。蒙古有非常出色的攻擊速度，匈奴有非常便宜的造價，可以把省下來的資源用於別的兵種，如騎兵。馬扎爾、土耳其與薩拉森人則是在帝王時期可以展現出強大的威力。馬扎爾通過
             <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
             >技術，可以使射程與攻擊額外+1，土耳其人通過
-            <nuxt-link to="/techs/Sipahi">采邑騎士</nuxt-link
+            <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
             >血量+20、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
             >人則是對建築物攻擊+4。
           </p>
@@ -75,7 +73,7 @@
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>、
-              <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、。
+              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、。
             </td>
           </tr>
           <tr class="tta">
@@ -615,7 +613,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+4
             </li>
@@ -661,7 +659,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>

@@ -35,7 +35,7 @@
               >還多。馬利的騎兵也是遊戲中攻擊排名非特殊騎兵第二(攻擊力19)和全遊戲第三，僅次於<nuxt-link
                 to="/units/Elite_Battle_Elephant"
                 >精銳矛象伕</nuxt-link
-              >和 <nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>。
+              >和 <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
             </li>
             <li>
               如果搭配<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link

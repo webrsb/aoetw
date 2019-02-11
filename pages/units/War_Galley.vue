@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             弩砲戰船(或稱加利恩帆船)在城堡時代時可以在碼頭中被訓練，特別的是，它升級前射出的是箭，在升級後弩砲戰船射出的反而比較像攻城器弩砲，但卻不同於
-            <nuxt-link to="/techs/Carrack">卡拉維爾戰船</nuxt-link>、<nuxt-link
+            <nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>、<nuxt-link
               to="/units/Scorpion"
               >弩砲</nuxt-link
             >，弩砲戰船只能攻擊一個單位，攻擊沒有穿透效果。
@@ -26,17 +26,16 @@
               to="/units/Demolition_Ship"
               >神風船</nuxt-link
             >以及
-            <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
+            <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
             >。除了防禦箭塔、城堡、攻城器具以外，他們還可以用來攻擊敵方海岸邊的建築、敵人。在大多數情況下，弩砲戰船是會與<nuxt-link
-              to="/units/Fire_Galley"
+              to="/units/Fire_Ship"
               >火戰船</nuxt-link
             >配合，一個打近的一個打遠的，並且對
             <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
             >來說弩砲戰船也是一個很好的保護。
           </p>
           <p>
-            弩砲戰船最主要是被<nuxt-link to="/units/Fire_Galley"
-              >火戰船</nuxt-link
+            弩砲戰船最主要是被<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
             >克制，但在大部分情況下神風船也嚴重地克制弩砲戰船。
             <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>、<nuxt-link
               to="/units/Turtle_Ship"
@@ -73,7 +72,7 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Fire_Galley">火戰船</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>、<nuxt-link
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >、
@@ -225,10 +224,10 @@
           </tr>
         </table>
 
-        <h3>剋弩炮戰船的單位與建築</h3>
+        <h3>剋弩砲戰船的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對弩炮戰船的額外傷害，按照傷殺力排列。
+          以下單位擁有對弩砲戰船的額外傷害，按照傷殺力排列。
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
@@ -239,7 +238,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -276,7 +275,7 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
@@ -322,7 +321,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -345,10 +344,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -488,7 +485,7 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對弩炮戰船有額外攻擊力
+        以下技術可讓以下單位對弩砲戰船有額外攻擊力
         <div class="n1">
           <div class="col-md-12">
             <div class="col-md-4">
@@ -558,15 +555,15 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Berbers">阿茲特克</nuxt-link
-              >：弩炮戰船訓練速度提高15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >：弩砲戰船訓練速度提高15%。
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：弩炮戰船移動速度提高10％。
+              >：弩砲戰船移動速度提高10％。
             </li>
             <li>
-              <nuxt-link to="/civs/Byzantines">緬甸</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研究<nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
               >便宜50％。
@@ -577,7 +574,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於弩炮戰船科技在城堡/帝王便宜15%/20％
+              >：有利於弩砲戰船科技在城堡/帝王便宜15%/20％
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -590,7 +587,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：弩炮戰船訓練的速度在城堡/帝王提高15%/20%，<nuxt-link
+              >：弩砲戰船訓練的速度在城堡/帝王提高15%/20%，<nuxt-link
                 to="/techs/Careening"
                 >傾側維修術</nuxt-link
               >和弩砲戰船的研究速度在城堡/帝王提高15%/20％。研究
@@ -598,15 +595,15 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：弩炮戰船訓練減少15%黃金成本，弩炮戰船+10％HP。
+              >：弩砲戰船訓練減少15%黃金成本，弩砲戰船+10％HP。
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：弩炮戰船攻擊速度提高25%。
+              >：弩砲戰船攻擊速度提高25%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：在兵工廠升級有利於弩炮戰船的科技不消耗黃金。
+              >：在兵工廠升級有利於弩砲戰船的科技不消耗黃金。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -616,7 +613,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：弩炮戰船在城堡/帝王時代便宜15%/20%。
+              >：弩砲戰船在城堡/帝王時代便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -626,7 +623,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >：弩炮戰船擁有+50%的視野距離。
+              >：弩砲戰船擁有+50%的視野距離。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -637,7 +634,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：弩炮戰船對招降的抵抗力更強。
+              >：弩砲戰船對招降的抵抗力更強。
             </li>
           </ul>
         </div>
@@ -645,7 +642,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aok">世紀帝國</nuxt-link></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>戰船訓練時間為36秒。</li>
@@ -655,7 +652,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:弩炮戰船成本便宜20%。
+              >:弩砲戰船成本便宜20%。
             </li>
           </ul>
           <h3>
@@ -675,7 +672,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：弩炮戰船在封建/城堡/帝王時代便宜10%/15%/20%
+              >：弩砲戰船在封建/城堡/帝王時代便宜10%/15%/20%
             </li>
           </ul>
         </div>
@@ -684,7 +681,7 @@
         <div class="n1">
           <ul>
             <li>
-              弩炮戰船是遊戲中唯四升級後所有文明都可使用的單位之一(其他三個分別是<nuxt-link
+              弩砲戰船是遊戲中唯四升級後所有文明都可使用的單位之一(其他三個分別是<nuxt-link
                 to="/units/Man-at-Arms"
                 >裝甲步兵</nuxt-link
               >、
@@ -692,7 +689,7 @@
               >和<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>)。
             </li>
             <li>
-              弩炮戰船會對作弊單位中的<nuxt-link to="/units/hero/Saboteur"
+              弩砲戰船會對作弊單位中的<nuxt-link to="/units/hero/Saboteur"
                 >破壞者</nuxt-link
               >有額外攻擊加成(從<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
               >資料片開始)，因為該單位屬於船隻單位。
@@ -704,7 +701,7 @@
         <div class="n1">
           <div class="ien">
             <p>
-              弩炮戰船是一艘更大更完善的戰鬥艦。它擁有更多的海軍隊員和弓箭手。必要時，也可透過將戰鬥塔放置在交易船的船尾和船頭上來變成弩炮戰船。
+              弩砲戰船是一艘更大更完善的戰鬥艦。它擁有更多的海軍隊員和弓箭手。必要時，也可透過將戰鬥塔放置在交易船的船尾和船頭上來變成弩砲戰船。
               這些設置可以在敵船靠近的時候提供弓箭手更好的保護和高度優勢。
             </p>
           </div>
@@ -853,7 +850,7 @@
             <td class="unit3">從升級</td>
             <td class="unit4">
               <img class="gg" src="~assets/Galley.jpg" alt="" /><nuxt-link
-                to="/units/War_Galley"
+                to="/units/Galley"
                 >戰船</nuxt-link
               >
             </td>
@@ -900,20 +897,20 @@
               <gallery
                 ><img class="imgn hg" src="~assets/WarGalley_group.jpg" alt=""
               /></gallery>
-              <p><em>一群弩炮戰船。</em></p>
+              <p><em>一群弩砲戰船。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/WarGalleyHD.jpg" alt=""
               /></gallery>
-              <p><em>各種弩炮戰船(世紀帝國和征服者入侵資料片)。</em></p>
+              <p><em>各種弩砲戰船(世紀帝國和征服者入侵資料片)。</em></p>
             </div>
             <div class="col-md-12">
               <div class="col-md-4">
                 <gallery
                   ><img class="imgn hg" src="~assets/WarGalleyDLC.jpg" alt=""
                 /></gallery>
-                <p><em>各種弩炮戰船(HD擴充資料片)。</em></p>
+                <p><em>各種弩砲戰船(HD擴充資料片)。</em></p>
               </div>
             </div>
           </div>

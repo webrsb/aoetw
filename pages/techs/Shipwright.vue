@@ -26,9 +26,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發文明</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發文明</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -61,9 +59,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發文明</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發文明</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -105,7 +101,7 @@
             <li>造船匠只降低碼頭單位的花費。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aof">征服者入侵</nuxt-link></em>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
             <li>在1.0版本造船匠新增加快所有船隻的訓練速度(+54%)。</li>
@@ -152,7 +148,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techs/age/Castle_Age">帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>

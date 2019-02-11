@@ -68,7 +68,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -105,7 +105,7 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Treadmill_Crane"
-                >踏輪起重機</nuxt-link
+                >滑輪起重機</nuxt-link
               >和升級
               <nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link
               >科技的團隊速度提高80%。
@@ -257,7 +257,7 @@
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_wall_and_gate"

@@ -17,7 +17,7 @@
               to="/civs/Britons"
               >英國</nuxt-link
             >在法國內的領地，並收回了英格蘭境內的皇家統治。在遊戲中，亨利二世以
-            <nuxt-link to="/Two_Handed_Swordsman.php">雙手劍兵</nuxt-link
+            <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
             >的外表登場。作為一個英雄單位，他無法被招降且會自動回血。
           </p>
           <p>

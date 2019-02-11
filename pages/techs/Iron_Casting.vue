@@ -89,7 +89,7 @@
             <td class="unit4">
               <img class="gg" src="~assets/Forging.jpg" alt="" /><nuxt-link
                 to="/techs/Forging"
-                >鑄造</nuxt-link
+                >鍛造</nuxt-link
               >
             </td>
           </tr>

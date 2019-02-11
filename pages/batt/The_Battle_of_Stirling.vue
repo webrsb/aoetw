@@ -37,7 +37,7 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家1</div></td>
-              <td class="tc6" colspan="3">塞爾特人（藍色）</td>
+              <td class="tc6" colspan="3">賽爾特人（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -51,7 +51,7 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場：</dt>
-            <dd>3位村民、1位斥侯。</dd>
+            <dd>3位村民、1位斥候。</dd>
             <dt>大地之母單位：</dt>
             <dd>無。</dd>
           </dl>
@@ -120,7 +120,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
+              <nuxt-link to="/civs/Celts">賽爾特人</nuxt-link>
             </td>
           </tr>
           <tr>

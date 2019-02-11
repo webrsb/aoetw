@@ -27,7 +27,7 @@
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
               >科技、
-              <nuxt-link to="/techs/Bloodlines">血統</nuxt-link>和<nuxt-link
+              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>和<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
               >可以加在大象身上。如果玩家在初期想以矛象伕作為城堡時代的主要單位，象牙劍也許可以比鍛造技術優先研發。但在一般情況下應該將其看作一項兵工廠技術並在

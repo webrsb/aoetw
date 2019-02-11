@@ -13,10 +13,9 @@
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發。研發後所有
             <nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
-            >(包括<nuxt-link to="/units/Elite_Battle_Elephant"
-              >精銳弩砲象</nuxt-link
+            >(包括<nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
             >)對建築物傷害+20%(
-            <nuxt-link to="/units/Petard">炸藥桶</nuxt-link
+            <nuxt-link to="/units/Petard">爆炸桶</nuxt-link
             >+200攻擊)，攻擊距離+1(除了衝撞車)。
           </p>
         </div>
@@ -31,9 +30,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -69,9 +66,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
@@ -197,7 +192,7 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              研發後所有攻城單位對建築物傷害+20%(炸藥桶+200攻擊)，攻擊距離+1(除了衝撞車)。
+              研發後所有攻城單位對建築物傷害+20%(爆炸桶+200攻擊)，攻擊距離+1(除了衝撞車)。
             </td>
           </tr>
         </table>

@@ -15,7 +15,7 @@
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
               to="/units/Camel"
               >駱駝兵種</nuxt-link
-            >、<nuxt-link to="/units/Pikeman">長槍兵種</nuxt-link>較劣勢。
+            >、<nuxt-link to="/units/Spearman">長槍兵種</nuxt-link>較劣勢。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -29,16 +29,14 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>。
@@ -54,9 +52,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -600,7 +596,7 @@
             >：遊俠血量多20%，研發<nuxt-link to="/techs/Chivalry"
               >騎士精神</nuxt-link
             >後，
-            <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+            <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
             >的研發速度都加快40%
           </li>
           <li>
@@ -632,7 +628,7 @@
             <nuxt-link to="/civs/Huns">匈奴</nuxt-link
             >：遊俠生產效率快20%，<nuxt-link to="/techs/Bloodlines"
               >品種</nuxt-link
-            >與 <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link>研發快20%。
+            >與 <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
           </li>
           <li>
             <nuxt-link to="/civs/Persians">波斯</nuxt-link>：遊俠對<nuxt-link
@@ -680,7 +676,7 @@
             騎士系列是遊戲中;僅有的四種對任何東西都沒加成的單位，另外三種是民兵、貴族鐵騎和龜甲船。
           </li>
           <li>
-            法蘭克擁有最強的遊俠，因為多了12hp，而賽爾特人擁有最弱的遊俠，因為缺乏血統與騎兵板甲。緊跟在後的是拜占庭遊俠，缺乏血統與鼓風爐。而條頓缺法畜牧技術。其他四個文明則有全滿的遊俠。
+            法蘭克擁有最強的遊俠，因為多了12hp，而賽爾特人擁有最弱的遊俠，因為缺乏血統與騎兵板甲。緊跟在後的是拜占庭遊俠，缺乏血統與鼓風爐。而條頓缺法畜牧培育。其他四個文明則有全滿的遊俠。
           </li>
           <li>
             隨著非洲王國的推出，遊俠是最稀有的單位，只有八個文明擁有，之前是重型投石車。(鷹勇士與矛象伕為地區性特殊單位。)

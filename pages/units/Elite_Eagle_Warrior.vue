@@ -12,7 +12,7 @@
             >、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >，鷹斥侯的最高等級。
+            >，鷹斥候的最高等級。
           </p>
         </div>
         <h3>戰術</h3>
@@ -28,7 +28,7 @@
           </p>
           <strong><nuxt-link to="/civs/Mayans">馬雅</nuxt-link></strong>
           <p>
-            <nuxt-link to="/El Dorado.php">黃金國</nuxt-link
+            <nuxt-link to="/techs/El_Dorado">黃金國</nuxt-link
             >為他們的鷹勇士加40生命，這生命讓他們可以更坦。配合速度快的羽毛箭射手讓人聞風喪膽。
           </p>
           <strong><nuxt-link to="/civs/Incas">印加</nuxt-link></strong>
@@ -79,7 +79,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -190,7 +190,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -347,8 +347,7 @@
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
-                    /><nuxt-link to="/units/Karambit_Warrior"
-                      >爪刀勇士</nuxt-link
+                    /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -356,7 +355,7 @@
                       alt=""
                     />
                     <nuxt-link to="/units/Karambit_Warrior"
-                      >精銳爪刀勇士</nuxt-link
+                      >精銳彎刀勇士</nuxt-link
                     >
                   </li>
                   <li>
@@ -439,7 +438,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：精銳鷹勇士訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -549,7 +548,7 @@
                 class="gg"
                 src="~assets/Imperial-age-research.jpg"
                 alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age"> 帝王時代</nuxt-link>
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -622,7 +621,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry"> 步兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br />
               <nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link

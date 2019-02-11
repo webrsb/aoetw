@@ -38,14 +38,14 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家1</div></td>
-              <td class="tc6" colspan="3">塞爾特人（藍色）</td>
+              <td class="tc6" colspan="3">賽爾特人（藍色）</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6" width="15%"><div class="p4">玩家2</div></td>
-              <td class="tc6" width="35%">蘇格蘭同盟（黃色）塞爾特</td>
+              <td class="tc6" width="35%">蘇格蘭同盟（黃色）賽爾特</td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -58,7 +58,7 @@
 
           <p></p>
           <h3>開場</h3>
-          <p>10位村民、6位弓兵、4位裝甲步兵、3位僧侶、2位斥侯。</p>
+          <p>10位村民、6位弓兵、4位裝甲步兵、3位僧侶、2位斥候。</p>
           <p></p>
           <p>大地之母單位：無</p>
           <h3>主要任務</h3>
@@ -133,7 +133,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
+              <nuxt-link to="/civs/Celts">賽爾特人</nuxt-link>
             </td>
           </tr>
           <tr>

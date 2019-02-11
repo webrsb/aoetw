@@ -26,7 +26,7 @@
             >與<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
             >以外大部分的步兵，另一個潛在的敵人是
             <nuxt-link to="/units/Samurai">日本武士</nuxt-link
-            >，因為日本武士對於特殊兵種有相當高的加成。
+            >，因為日本武士對於特殊單位有相當高的加成。
           </p>
           <p>
             在某些方面，它的定位相當類似於
@@ -77,8 +77,8 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
-              >、<nuxt-link to="/units/Onager">投石車</nuxt-link>、
+                >弩砲</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Cavalry_Units"
                 >騎兵單位</nuxt-link
@@ -409,7 +409,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：投石手對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >：投石手對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>
@@ -602,7 +602,7 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
-                >特殊兵種</nuxt-link
+                >特殊單位</nuxt-link
               >
             </td>
           </tr>

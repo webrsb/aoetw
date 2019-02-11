@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>追縱技術</h1>
+        <h1>追蹤技術</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            追縱技術於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            追蹤技術於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >研發。研發後所有的
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>視野+2。
@@ -126,7 +126,7 @@
             <td class="tta1">
               <img class="gg" src="~assets/EagleScoutIcon.jpg" /><nuxt-link
                 to="/units/Eagle_Scout"
-                >鷹斥侯</nuxt-link
+                >鷹斥候</nuxt-link
               >
             </td>
             <td class="tta2">6</td>
@@ -259,7 +259,7 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/ShotelIcon.png" /><nuxt-link
-                to="/units/Karambit_Warrior"
+                to="/units/Shotel_Warrior"
                 >彎刀勇士(精銳)</nuxt-link
               >
             </td>
@@ -282,7 +282,7 @@
             <td class="tta1">
               <img class="gg" src="~assets/Karambitwarrioricon.png" /><nuxt-link
                 to="/units/Shotel_Warrior"
-                >爪刀勇士(精銳)</nuxt-link
+                >彎刀勇士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">3，3</td>

@@ -61,7 +61,7 @@
                       >亞琴哥特（1415）</nuxt-link
                     >
                     <p>
-                      文明：<nuxt-link to="/civs/Britons/">不列顛</nuxt-link>
+                      文明：<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
                     </p>
                   </li>
                   <li>

@@ -26,9 +26,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
@@ -56,9 +54,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
@@ -112,7 +108,7 @@
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
               >、 <nuxt-link to="/units/Mangonel">投石車</nuxt-link>、<nuxt-link
@@ -125,7 +121,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
-              >、<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>、
+              >、<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>、
               <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>。
             </td>
           </tr>
@@ -208,10 +204,10 @@
           </tr>
         </table>
 
-        <h3>剋火炮的單位與建築</h3>
+        <h3>剋火砲的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對火炮的額外傷害，按造傷殺力排列。
+          以下單位擁有對火砲的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
@@ -285,7 +281,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -322,8 +318,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -353,8 +349,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
@@ -364,7 +360,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
@@ -394,14 +390,14 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：火炮的黃金成本減少了15%。
+              >：火砲的黃金成本減少了15%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：火炮射速快15%的速度。
+              >：火砲射速快15%的速度。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:火炮擁有+
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:火砲擁有+
               25%的HP，化學是免費的。
             </li>
           </ul>
@@ -502,7 +498,7 @@
             </li>
             <li>
               5.2版本<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
-              >對火炮的影響被移除。
+              >對火砲的影響被移除。
             </li>
             <li>
               5.7版本<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
@@ -617,7 +613,7 @@
                 src="~assets/Siegeworkshopicon.png"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop"
-                >攻城武器製造所</nuxt-link
+                >攻城器製造所</nuxt-link
               >
             </td>
           </tr>

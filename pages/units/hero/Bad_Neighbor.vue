@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            壞鄰居是一個在薩拉丁戰役最終關：<nuxt-link
+            壞鄰居是一個在沙拉丁戰役最終關：<nuxt-link
               to="/batt/The_Lion_and_the_Demon"
               >獅子與惡魔</nuxt-link
             >登場的英雄單位。壞鄰居的原型是一台參與了
@@ -25,7 +25,7 @@
                 >阿卡圍城戰</a
               >中被使用，但在史實中他是由腓力二世所擁有，而不是
               <nuxt-link to="/units/hero/Richard_the_Lionheart"
-                >獅心王理查</nuxt-link
+                >獅心王查理</nuxt-link
               >。
             </li>
             <li>

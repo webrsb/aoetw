@@ -15,7 +15,7 @@
             ：征服者入侵》中<nuxt-link to="/units/hero/Attila_the_Hun"
               >匈奴王阿提拉</nuxt-link
             >的戰役登場，在<nuxt-link to="/batt/Fall_of_Rome"
-              >羅馬的衰弱</nuxt-link
+              >羅馬的衰落</nuxt-link
             >這關的最後出現並與阿提拉密談，勸說他放棄侵略義大利。他也可以在地圖編輯器中使用。
           </p>
           <p>

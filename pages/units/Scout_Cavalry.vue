@@ -30,11 +30,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            斥候是輕騎兵兵種，可訓練於馬廄，非美洲文明國家皆可以生產，且玩家於一開始皆可獲得一隻斥侯。在封建時代即可生產，並且獲得+2攻擊，+2視野和+0.35的速度，利用其速度優勢可以有效的攻擊村民與遠程兵種。
+            斥候是輕騎兵兵種，可訓練於馬廄，非美洲文明國家皆可以生產，且玩家於一開始皆可獲得一隻斥候。在封建時代即可生產，並且獲得+2攻擊，+2視野和+0.35的速度，利用其速度優勢可以有效的攻擊村民與遠程兵種。
           </p>
           <p>
             <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-            >的斥侯更是異常的兇猛，打法請見：<nuxt-link to="/ar/scrush"
+            >的斥候更是異常的兇猛，打法請見：<nuxt-link to="/ar/scrush"
               >肉馬開局</nuxt-link
             >。
           </p>
@@ -77,7 +77,7 @@
             <td class="tta1" style="width:10%">生命值</td>
             <td class="tta4">
               <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-              <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>→
+              <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
               <img class="gg" src="~assets/LightCavalryIcon.jpg" alt="" />
               <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>→
               <img class="gg" src="~assets/HussarIcon.jpg" alt="" />
@@ -123,7 +123,7 @@
               >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >和
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
             </td>
@@ -225,7 +225,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >：斥侯血量多20%(在非洲王朝資料片上線後)，研發<nuxt-link
+              >：斥候血量多20%(在非洲王朝資料片上線後)，研發<nuxt-link
                 to="/techs/Chivalry"
                 >騎士精神</nuxt-link
               >後
@@ -235,9 +235,9 @@
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
                 to="/techs/Forging"
                 >鍛造</nuxt-link
-              >、<nuxt-link to="/techs/Iron_Casting">鑄鐵</nuxt-link>、
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>、
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
-              >科技，<nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link
+              >科技，<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
               >生產便宜15%
             </li>
             <li>
@@ -274,7 +274,7 @@
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >生產和升級效率快20%，
               <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>與<nuxt-link
                 to="/techs/Husbandry"
@@ -284,13 +284,13 @@
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >+2視野。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >對僧侶的抗招降能力更強。
             </li>
           </ul>
@@ -303,7 +303,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link
+              <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
               >獲得對僧侶+6的額外攻擊。
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
@@ -320,9 +320,9 @@
               >
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>:<nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>:<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >便宜10%。
             </li>
           </ul>
@@ -333,13 +333,13 @@
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >最初從城堡時代便宜20%，4.8版本後，變成城堡/帝王各便宜15/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>的<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >受益於文明加成有+20%HP。
             </li>
           </ul>
@@ -348,9 +348,9 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>:<nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>:<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >現在便宜15%。
             </li>
           </ul>
@@ -360,7 +360,7 @@
         <div class="n1">
           <ul>
             <li>
-              一旦到了封建時代，斥侯獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
+              一旦到了封建時代，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
             </li>
           </ul>
         </div>
@@ -368,7 +368,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            斥侯，軍事中術語。偵察兵的意思。著名史學大家岑仲勉《墨子城守篇簡註》註釋道：“侯，今名偵探或間諜。中世紀仍保持著輕裝甲的騎兵部隊，用於來當軍隊的搜查、巡邏之用。斥侯對於戰鬥的作用並不大，因為大部分是小型裝備與武器。然而斥侯能搜索敵方情報，對於一場戰爭的勝負往往很關鍵。
+            斥候，軍事中術語。偵察兵的意思。著名史學大家岑仲勉《墨子城守篇簡註》註釋道：“侯，今名偵探或間諜。中世紀仍保持著輕裝甲的騎兵部隊，用於來當軍隊的搜查、巡邏之用。斥候對於戰鬥的作用並不大，因為大部分是小型裝備與武器。然而斥候能搜索敵方情報，對於一場戰爭的勝負往往很關鍵。
           </p>
         </div>
       </div>
@@ -376,7 +376,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2">斥侯</div>
+              <div class="unititle2">斥候</div>
             </td>
           </tr>
           <tr>
@@ -566,19 +566,19 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Scoutcavalry.png" alt=""
               /></gallery>
-              <p><em>一群斥侯。</em></p>
+              <p><em>一群斥候。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
               /></gallery>
-              <p><em>斥侯系，斥侯在最左邊。</em></p>
+              <p><em>斥候系，斥候在最左邊。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/sc45.jpg" alt=""
               /></gallery>
-              <p><em>一群封建的斥侯正在大開殺戒。</em></p>
+              <p><em>一群封建的斥候正在大開殺戒。</em></p>
             </div>
           </div>
         </div>

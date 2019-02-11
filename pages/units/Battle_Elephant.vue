@@ -10,7 +10,7 @@
           <p>
             矛象伕是東南亞文明城堡時代的兵種，可訓練於馬廄，與<nuxt-link
               to="/units/War_Elephant"
-              >波斯戰象</nuxt-link
+              >戰象</nuxt-link
             >相似但攻擊與攻擊範圍較小，不過一樣都擁有
             <nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
             >的攻擊。他們移動緩慢容易受到範圍傷害的單位攻擊，也容易被僧侶招降。
@@ -134,7 +134,7 @@
               >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>、
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、和<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
             </td>
           </tr>
@@ -188,7 +188,7 @@
               >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >和
-              <nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定 <br />
               <img
@@ -437,7 +437,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -447,7 +447,7 @@
                       class="gg"
                       src="~assets/ScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Scorpion">弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -576,7 +576,7 @@
               >：矛象伕生產效率和升級快20%，<nuxt-link to="/techs/Bloodlines"
                 >品種</nuxt-link
               >與
-              <nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link>研發快20%。
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -726,7 +726,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +7對<nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石材建築類</nuxt-link
+                >石頭建築</nuxt-link
               >
               <br />+7對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築類</nuxt-link

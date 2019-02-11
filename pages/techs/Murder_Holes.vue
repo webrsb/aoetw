@@ -154,7 +154,7 @@
                 class="gg"
                 src="~assets/Universityicon.png"
                 alt=""
-              /><nuxt-link to="/building/Archery_Range">學院</nuxt-link>
+              /><nuxt-link to="/building/University">學院</nuxt-link>
             </td>
           </tr>
           <tr>

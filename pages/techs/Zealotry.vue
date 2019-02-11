@@ -14,7 +14,7 @@
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-            >和<nuxt-link to="/units/Mameluke">薩拉森奴隸兵</nuxt-link>HP+30。
+            >和<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>HP+30。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -119,7 +119,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">駱駝騎兵和薩拉森奴隸兵HP+30。</td>
+            <td class="unit4">駱駝騎兵和奴隸兵HP+30。</td>
           </tr>
         </table>
 

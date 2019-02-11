@@ -28,9 +28,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -62,9 +60,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
@@ -211,7 +207,7 @@
                 class="gg"
                 src="~assets/Universityicon.png"
                 alt=""
-              /><nuxt-link to="/building/Archery_Range">學院</nuxt-link>
+              /><nuxt-link to="/building/University">學院</nuxt-link>
             </td>
           </tr>
           <tr>

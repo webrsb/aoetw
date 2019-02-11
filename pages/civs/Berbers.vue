@@ -26,7 +26,7 @@
               to="/units/Camel"
               >駱駝</nuxt-link
             >幾乎沙漠必備騎乘單位原因是駱駝本身比較不需要水源因此帝王時代特殊科技
-            <nuxt-link to="/ techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
+            <nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
             >就是體現駱駝強大的沙漠優勢。
           </p>
         </div>

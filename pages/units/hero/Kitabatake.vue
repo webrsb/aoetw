@@ -67,7 +67,7 @@
               對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
-              +5 <br />對<nuxt-link to="/Armor_Class__building.php"
+              +5 <br />對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >
               +2 <br />

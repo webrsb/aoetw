@@ -13,7 +13,7 @@
               to="/civs/Incas"
               >印加</nuxt-link
             >。 到了世紀帝國2失落的帝國
-            ，在封建時代便可以生產鷹斥侯，到了城堡時代可以升為
+            ，在封建時代便可以生產鷹斥候，到了城堡時代可以升為
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link> 。
           </p>
         </div>
@@ -32,7 +32,7 @@
               >弓兵</nuxt-link
             >的剋星；對於近戰步兵是被克制的，但因移動速度快步兵很難打到。在
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >鷹斥侯可升為鷹勇士，鷹勇士可以說是在城堡時代最強的兵種。克制弓兵、對馬有加成，也不怕招降、攻城武器也沒再怕的(遇到弩砲仍有所忌憚)。可怕的是他非常便宜，只需要20肉50黃金，生產也非常快速，這讓南美國家變得非常強勢。而他身體嬌小(相對於騎士)，在隙縫中鑽來鑽去也是非常靈活的。南美國只要出鷹勇士配合僧侶，幾乎是無往不利，相當難纏。
+            >鷹斥候可升為鷹勇士，鷹勇士可以說是在城堡時代最強的兵種。克制弓兵、對馬有加成，也不怕招降、攻城武器也沒再怕的(遇到弩砲仍有所忌憚)。可怕的是他非常便宜，只需要20肉50黃金，生產也非常快速，這讓南美國家變得非常強勢。而他身體嬌小(相對於騎士)，在隙縫中鑽來鑽去也是非常靈活的。南美國只要出鷹勇士配合僧侶，幾乎是無往不利，相當難纏。
           </p>
           <strong>反制</strong>
           <p>
@@ -66,9 +66,9 @@
             >都可以輕易解決。
           </p>
           <p>
-            而特殊兵種是快速步兵的也可以考慮，例如馬來的<nuxt-link
-              to="/units/Karambit_Warrior"
-              >爪刀勇士</nuxt-link
+            而特殊單位是快速步兵的也可以考慮，例如馬來的<nuxt-link
+              to="/units/Shotel_Warrior"
+              >彎刀勇士</nuxt-link
             >、馬利的<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
             >、賽爾特的
             <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
@@ -113,7 +113,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -224,7 +224,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -381,8 +381,7 @@
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
-                    /><nuxt-link to="/units/Karambit_Warrior"
-                      >爪刀勇士</nuxt-link
+                    /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -390,7 +389,7 @@
                       alt=""
                     />
                     <nuxt-link to="/units/Karambit_Warrior"
-                      >精銳爪刀勇士</nuxt-link
+                      >精銳彎刀勇士</nuxt-link
                     >
                   </li>
                   <li>
@@ -473,7 +472,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：鷹勇士訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -492,7 +491,7 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>南美國遊戲一開始的特殊斥侯單位。</li>
+            <li>南美國遊戲一開始的特殊斥候單位。</li>
             <li>在城堡時代前攻擊是4，上城堡後為7。</li>
             <li>鷹勇士有50的HP與2的遠防</li>
             <li>訓練時間為35秒，速度為1.1。</li>
@@ -503,7 +502,7 @@
           <ul>
             <li>
               鷹勇士多了一個前身，<nuxt-link to="/units/Eagle_Scout"
-                >鷹斥侯</nuxt-link
+                >鷹斥候</nuxt-link
               >。
             </li>
             <li>鷹勇士有55HP與3的遠防。</li>
@@ -675,7 +674,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry"> 步兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br />
               <nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
@@ -702,7 +701,7 @@
                 class="gg"
                 src="~assets/EagleScoutIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>
+              /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -49,7 +49,7 @@
                 width="25px"
                 src="~assets/Gateicon.png"
                 alt=""
-              /><nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>
+              /><nuxt-link to="/building/Gate">城門</nuxt-link>
             </li>
           </ul>
         </div>

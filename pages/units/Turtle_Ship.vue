@@ -14,7 +14,7 @@
             >資料片中的第二個特殊單位，在
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >可以訓練。它是一艘重裝甲的火炮戰船。
+            >可以訓練。它是一艘重裝甲的火砲戰船。
           </p>
           <p>
             龜甲船可在<nuxt-link to="/techs/age/Imperial_Age"
@@ -28,13 +28,13 @@
           <p>
             龜甲船可以自己消滅一小隊的敵方船艦。它的主要弱點是射程短、速度慢、而且造價高。這意味著對付龜甲船的最好的選擇可能是<nuxt-link
               to="/units/Galleon"
-              >重型弩炮戰船</nuxt-link
+              >重型弩砲戰船</nuxt-link
             >，因為它們更便宜，更快，射程更遠，讓他們能用打帶跑磨死龜甲船。陸上的火砲和僧侶也是對付龜甲船的不錯選擇。
           </p>
           <p>
             玩家不要掉入韓國只建造龜甲船作為海軍的迷思。龜甲船還是應該跟其他船隻搭配，通常是<nuxt-link
               to="/units/Galleon"
-              >重型弩炮戰船</nuxt-link
+              >重型弩砲戰船</nuxt-link
             >，防止敵方使用打帶跑，而龜甲船的任務就是吸收大量傷害同時造成巨量傷害，所以龜甲船應該都是在最前線作戰。龜甲船有非常高的護甲，即使是對船有加成的攻擊(例如
             <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
             >、箭塔)，龜甲船的額外防禦加成(+8/+11(精銳))可抵銷這些加成傷害，龜甲船對快速火戰船有+1防禦。
@@ -60,7 +60,7 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>、<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
               >、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>、
@@ -158,7 +158,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -204,7 +204,7 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -268,7 +268,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -291,10 +291,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>

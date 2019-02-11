@@ -15,11 +15,11 @@
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
-            ><nuxt-link to="/units/Archer">弓兵系</nuxt-link>對
+            ><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link>對
             <nuxt-link to="/armor/Armor_Class_standard_building"
               >標準建築</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_stone_defense"
-              >石造建築</nuxt-link
+              >石頭建築</nuxt-link
             >攻擊+6。
           </p>
         </div>
@@ -29,7 +29,7 @@
           <ul>
             <li>
               弓兵通常需要搭配<nuxt-link to="/units/Siege_Weapons"></nuxt-link
-              >攻城武器才能有效破壞建築物因為弓兵的傷害低而且建築物有護甲。另外瑪雅的科技樹十分有限，也沒有騎兵單位，而馬雅又相當倚賴弓箭手，使得破壞建築對馬雅是個頭痛的問題。
+              >攻城武器才能有效破壞建築物因為弓兵的傷害低而且建築物有護甲。另外馬雅的科技樹十分有限，也沒有騎兵單位，而馬雅又相當倚賴弓箭手，使得破壞建築對馬雅是個頭痛的問題。
             </li>
             <li>
               。有了黑曜石之箭的馬雅弓兵可對建築物造成大量傷害，還可以在安全距離同時對建築射擊而不必圍繞著它。
@@ -74,7 +74,7 @@
           </h3>
           <ul>
             <li>
-              黑曜石之箭現在讓弓兵對建築物攻擊+6。4.8改版後對石造建築也攻擊+6。
+              黑曜石之箭現在讓弓兵對建築物攻擊+6。4.8改版後對石頭建築也攻擊+6。
             </li>
           </ul>
         </div>
@@ -149,7 +149,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">射箭場弓兵單位對建築物和石造建築攻擊+6。</td>
+            <td class="unit4">射箭場弓兵單位對建築物和石頭建築攻擊+6。</td>
           </tr>
         </table>
 

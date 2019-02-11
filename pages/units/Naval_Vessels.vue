@@ -102,7 +102,7 @@
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
                 to="/units/Cannon_Galleon"
-                >火炮戰船</nuxt-link
+                >火砲戰船</nuxt-link
               >有 <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。
             </li>
             <li>
@@ -241,7 +241,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/WarGalley.jpg" /><nuxt-link
                   to="/units/War_Galley"
-                  >弩炮戰船</nuxt-link
+                  >弩砲戰船</nuxt-link
                 >
               </td>
               <td class="tta3">135</td>
@@ -263,7 +263,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/GalleonAoE2.jpg" /><nuxt-link
                   to="/units/Galleon"
-                  >重型弩炮戰船</nuxt-link
+                  >重型弩砲戰船</nuxt-link
                 >
               </td>
               <td class="tta3">165</td>
@@ -417,7 +417,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
                   to="/units/Cannon_Galleon"
-                  >火炮戰船</nuxt-link
+                  >火砲戰船</nuxt-link
                 >
               </td>
               <td class="tta3">120</td>
@@ -439,7 +439,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
                   to="/units/Elite_Cannon_Galleon"
-                  >精銳火炮戰船</nuxt-link
+                  >精銳火砲戰船</nuxt-link
                 >
               </td>
               <td class="tta3">150</td>
@@ -710,7 +710,7 @@
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">300W 175G</td>
               <td class="tunitc6">
-                弓兵、馬騎弓兵、戰船、城堡和箭塔對移動單位的命中率提升。
+                弓兵、馬弓騎兵、戰船、城堡和箭塔對移動單位的命中率提升。
               </td>
             </tr>
             <tr>
@@ -811,7 +811,7 @@
                 <nuxt-link to="/techs/Silk_Road">絲綢之路</nuxt-link>
               </td>
               <td class="tunitc5">500F 250G</td>
-              <td class="tunitc6">貿易馬車和貿易商旅造價減半。</td>
+              <td class="tunitc6">貿易車隊和貿易商旅造價減半。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -871,7 +871,7 @@
                 <nuxt-link to="/techs/Artillery">砲兵</nuxt-link>
               </td>
               <td class="tunitc5">500G 450S</td>
-              <td class="tunitc6">火炮塔、火炮戰船和火炮射程+2。</td>
+              <td class="tunitc6">火砲塔、火砲戰船和火砲射程+2。</td>
             </tr>
           </table>
 

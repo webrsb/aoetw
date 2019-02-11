@@ -10,7 +10,7 @@
           <p>
             攻城塔是一種攻城武器單位，他引進自失落的帝國，一開始他只能在某些戰役或是地圖編輯器中使用，但是非洲王國推出後，他便可以在<nuxt-link
               to="/building/Siege_Workshop"
-              >攻城武器製造所</nuxt-link
+              >攻城器製造所</nuxt-link
             >訓練。它本身並不能攻擊，只能把友軍單位神不知鬼不覺的運送到
             <nuxt-link to="">牆</nuxt-link>內。
           </p>
@@ -51,7 +51,7 @@
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               近戰單位、<nuxt-link to="/units/Magyar_Huszar"
-                >馬札爾驃騎兵</nuxt-link
+                >馬扎爾驃騎兵</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
             </td>
           </tr>
@@ -223,7 +223,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -245,8 +245,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -289,8 +289,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -308,12 +308,12 @@
                       class="gg"
                       src="~assets/WarGalley.jpg"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>→
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -349,7 +349,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
@@ -403,7 +403,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -420,8 +420,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
@@ -431,7 +431,7 @@
                       class="gg"
                       src="~assets/ScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Scorpion">弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -440,20 +440,20 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/OrganGunIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Organ_Gun">風琴炮</nuxt-link>→
+                    /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OrganGunIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Organ_Gun">精銳風琴炮</nuxt-link
+                    /><nuxt-link to="/units/Organ_Gun">精銳風琴砲</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                 </ul>
@@ -572,7 +572,7 @@
                   蒙古的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<nuxt-link
                     to="/techs/Husbandry"
                     >畜牧培育</nuxt-link
-                  >的 <nuxt-link to="/units/Hussar">輕騎兵</nuxt-link>。
+                  >的 <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
                 </li>
                 <li>
                   AOE
@@ -668,7 +668,7 @@
                 src="~assets/Siegeworkshopicon.png"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop"
-                >攻城武器製造所</nuxt-link
+                >攻城器製造所</nuxt-link
               >
             </td>
           </tr>

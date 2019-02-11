@@ -82,9 +82,8 @@
                   class="gg"
                   src="~assets/Herbalmedicine.png"
                   alt=""
-                /><nuxt-link to="/techs/Herbal_Medicine"
-                  >草藥學:駐紮單位自身治療速度變為4倍。</nuxt-link
-                >
+                /><nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link
+                >:駐紮單位自身治療速度變為4倍。
               </li>
               <li>
                 <img class="gg" src="~assets/Heresy.png" alt="" /><nuxt-link
@@ -217,7 +216,7 @@
             >後就可直接建造。這對於蓋<nuxt-link to="/building/Blacksmith"
               >兵工廠</nuxt-link
             >和
-            <nuxt-link to="/building/Market">市場</nuxt-link
+            <nuxt-link to="/building/Market">市集</nuxt-link
             >用來進入城堡時代的爆經濟戰略是重要的。在達到城堡時代之後，玩家將很難走出定點，因此他們需要建造<nuxt-link
               to="/building/Barracks"
               >軍營</nuxt-link
@@ -230,7 +229,7 @@
             >，玩家將可以最小的投資對<nuxt-link to="/units/Archer_Units"
               >弓箭手</nuxt-link
             >，
-            <nuxt-link to="/units/Cavalry_Units">騎士</nuxt-link>和<nuxt-link
+            <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>和<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
             >的攻擊進行反制。隨著<nuxt-link to="/building/Stone_Wall"
@@ -238,7 +237,7 @@
             >蓋起，留給對手的侵略性選項會進一步受到限制，因為他們不能再讓
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>或<nuxt-link
               to="/units/Scout_Cavalry"
-              >斥侯</nuxt-link
+              >斥候</nuxt-link
             >隨意進你的陣地。
           </p>
         </div>
@@ -309,7 +308,7 @@
                   class="gg"
                   src="~assets/EagleScoutIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Scout">鷹斥侯→</nuxt-link>
+                /><nuxt-link to="/units/Eagle_Scout">鷹斥候→</nuxt-link>
                 <img
                   class="gg"
                   src="~assets/EagleWarriorIcon.jpg"
@@ -325,7 +324,7 @@
                   style="margin: 2px;"
                   src="~assets/ScoutCavalryIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>
+                /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>
               </li>
             </ul>
           </div>
@@ -443,7 +442,7 @@
               >。
             </li>
             <li>
-              英語版的<nuxt-link to="/Taunts.php">嘲諷語音</nuxt-link>編號<a
+              英語版的<nuxt-link to="/Taunts">嘲諷語音</nuxt-link>編號<a
                 href="https://www.youtube.com/watch?v=3tBqdKGiqnI"
                 >30(Wololo)</a
               >，其實就是1代僧侶的配音。
@@ -523,7 +522,7 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <nuxt-link to="/Armor_Class_Monk.png">僧侶</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -116,9 +116,9 @@
               </li>
               <li>
                 <img class="gg" src="~assets/RattanarcherIcon2.png" alt="" />
-                <nuxt-link to="/units/Rattan_Archer">籐甲弓兵</nuxt-link>→
+                <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>→
                 <img class="gg" src="~assets/RattanarcherIcon2.png" alt="" />
-                <nuxt-link to="/units/Rattan_Archer">精銳籐甲弓兵</nuxt-link
+                <nuxt-link to="/units/Rattan_Archer">精銳藤甲弓兵</nuxt-link
                 >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
               </li>
               <li>
@@ -155,21 +155,21 @@
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/units/Rattan_Archer">蒙古突騎</nuxt-link>→
+                <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/MangudaiIcon.jpg"
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/units/Rattan_Archer">精銳蒙古突騎</nuxt-link
+                <nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
                 >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
               </li>
               <li>
                 <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-                <nuxt-link to="/units/Rattan_Archer">駱駝弓騎兵</nuxt-link>→
+                <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
                 <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-                <nuxt-link to="/units/Rattan_Archer">精銳駱駝弓騎兵</nuxt-link
+                <nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
                 >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
               </li>
             </ul>
@@ -182,7 +182,7 @@
                 width="22"
                 alt=""
               />
-              <nuxt-link to="/techs/Parthian_Tactics">帕提亞技術</nuxt-link>
+              <nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
               <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
               <ul>
                 <li>
@@ -203,14 +203,14 @@
                     width="22"
                     alt=""
                   />
-                  <nuxt-link to="/units/Rattan_Archer">蒙古突騎</nuxt-link>→
+                  <nuxt-link to="/unit/units/Mangudai">蒙古突騎</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/MangudaiIcon.jpg"
                     width="22"
                     alt=""
                   />
-                  <nuxt-link to="/units/Rattan_Archer">精銳蒙古突騎</nuxt-link
+                  <nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
                   >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
                 </li>
                 <li>

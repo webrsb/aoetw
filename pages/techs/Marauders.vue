@@ -49,7 +49,7 @@
             <li>掠奪者成本需要500肉200金。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>掠奪者成本現在需要300木200金。</li>

@@ -30,9 +30,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -63,9 +61,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可訓練</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可訓練</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -76,7 +72,7 @@
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
               <nuxt-link to="/civs/Incas">印加</nuxt-link>、
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>、
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
@@ -95,10 +91,10 @@
             <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
             >對火槍兵也有加成傷害，哥德衛隊的高遠防也可以防禦火槍兵的攻擊。而身為火藥單位的他，也會被
             <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
-            >所剋制。作為一個步行遠程單位，也怕<nuxt-link to="/units/Onager"
+            >所剋制。作為一個步行遠程單位，也怕<nuxt-link to="/units/Mangonel"
               >投石車</nuxt-link
             >與<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>的攻擊，遇上
-            <nuxt-link to="/units/Watch_Tower">箭塔</nuxt-link>和<nuxt-link
+            <nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>和<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
             >也束手無策。
@@ -125,8 +121,8 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
-              >、<nuxt-link to="/units/Onager">投石車</nuxt-link>、重型
+                >弩砲</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、重型
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Condottiero"
@@ -345,7 +341,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">義大利</nuxt-link>：火槍兵便宜20%。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>：火槍兵便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -642,7 +638,7 @@
             <gallery
               ><img class="imgn hg" src="~assets/Hand_Cannon.png" alt=""
             /></gallery>
-            <p><em>元朝遺留下的火炮</em></p>
+            <p><em>元朝遺留下的火砲</em></p>
           </div>
         </div>
       </div>

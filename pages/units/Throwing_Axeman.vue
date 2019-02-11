@@ -96,11 +96,10 @@
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
               >、
-              <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
-              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
-                to="/units/Teutonic_Knight"
-                >條頓武士</nuxt-link
-              >。
+              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
+                to="/units/Samurai"
+                >日本武士</nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -198,7 +197,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -360,7 +359,7 @@
         以下技術可讓以下單位對擲斧兵有額外攻擊力
         <div class="n1">
           <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -394,7 +393,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
@@ -442,7 +441,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>擲斧兵現在的移動速度為1。</li>
@@ -455,7 +454,7 @@
         <div class="n1">
           <ul>
             <li>
-              在薩拉丁，巴巴羅薩和聖女貞德的時代，法蘭克人並沒有在戰鬥中投擲斧頭。
+              在沙拉丁，巴巴羅薩和聖女貞德的時代，法蘭克人並沒有在戰鬥中投擲斧頭。
             </li>
             <li>
               實際上， francisca

@@ -85,14 +85,14 @@
                 alt=""
               /><nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link><br />
               <img class="gg" src="~assets/Dukedalencon.png" alt="" /><nuxt-link
-                to="/Duke_D'Alençon.php"
+                to="/units/hero/Duke_D_Alencon"
                 >阿朗松公爵</nuxt-link
               ><br />
               <img
                 class="gg"
                 src="~assets/ScoutCavalryIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link><br />
+              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link><br />
               <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link
                 to="/units/Knight"
                 >騎士</nuxt-link

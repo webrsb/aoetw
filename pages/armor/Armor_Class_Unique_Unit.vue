@@ -84,7 +84,7 @@
                       src="~assets/ChuKoNuIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Chu_Ko_Nu">精銳連弩兵</nuxt-link
-                    >(<nuxt-link to="/techs/Chieftains">中國</nuxt-link>限定)
+                    >(<nuxt-link to="/civs/Chinese">中國</nuxt-link>限定)
                   </li>
                 </ul>
                 <ul>
@@ -150,14 +150,13 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>→
+                    /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Elephant"
-                      >精銳波斯戰象</nuxt-link
+                    /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
                     >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
                   </li>
                 </ul>
@@ -395,7 +394,7 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
+                      >馬扎爾驃騎兵</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -403,8 +402,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <ul>
@@ -490,10 +489,10 @@
                   <li>
                     <img src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                       to="/units/Organ_Gun"
-                      >風琴炮</nuxt-link
+                      >風琴砲</nuxt-link
                     >→ <img src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
                       to="/units/Organ_Gun"
-                      >精銳風琴炮</nuxt-link
+                      >精銳風琴砲</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                 </ul>
@@ -546,15 +545,14 @@
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
-                    /><nuxt-link to="/units/Karambit_Warrior"
-                      >爪刀勇士</nuxt-link
+                    /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
                     >→
                     <img
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
                     /><nuxt-link to="/units/Karambit_Warrior"
-                      >精銳爪刀勇士</nuxt-link
+                      >精銳彎刀勇士</nuxt-link
                     >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>

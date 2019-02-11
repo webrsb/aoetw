@@ -25,7 +25,7 @@
             <li>
               所有的攻城武器都需要花費木材和黃金，唯一例外的是爆炸桶，他們花費食物和黃金。一般來說，攻城單位是最昂貴且訓練時間最長的單位。
             </li>
-            <li>要訓練火炮則必須先研發化學。</li>
+            <li>要訓練火砲則必須先研發化學。</li>
             <li>
               攻城武器和僧侶一樣需要研發科技後才招降他們。要招降攻城武器，必須先研究信仰救贖。
             </li>
@@ -82,7 +82,7 @@
                 class="gg"
                 src="~assets/Ballistaelephanticon.png"
                 alt=""
-              /><nuxt-link to="/units/Organ_Gun">弩砲象</nuxt-link>
+              /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>
             </li>
           </ul>
           <ul>
@@ -92,7 +92,7 @@
               >無法攻擊敵方建築或單位，所以無法歸類在上面兩類。而在失落的帝國資料片攻城塔可以開火，然而他們的主要目的還是運送部隊，所以還是不歸類於以上兩種。
             </p>
             <p>
-              火炮可以遠距離摧毀建築物，同時也能有效對敵方單位造成傷害，所以兩個類別都能放。
+              火砲可以遠距離摧毀建築物，同時也能有效對敵方單位造成傷害，所以兩個類別都能放。
             </p>
             <p>
               雖然兩個分類的功能可以互相交換，但這樣做非常沒有效率。例如投石車可以對整群步兵造成巨量傷害，也能對城鎮中心從安全距離轟炸，但對上城堡就只有被打的份。巨型投石機在破壞防禦工事方面十分出色，但在攻擊單位上則命中率不佳，除了攻擊對方的巨型投石機除外。
@@ -108,10 +108,10 @@
               >賽爾特</nuxt-link
             >和<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
             >因為他們的文明加成和
-            <nuxt-link to="/units/Unique_Unit">獨特技術</nuxt-link
+            <nuxt-link to="/techs/untech">獨特技術</nuxt-link
             >擁有最好的攻城武器。衣索比亞是唯一能夠使用<nuxt-link
               to="/building/Siege_Workshop"
-              >攻城器製造</nuxt-link
+              >攻城器製造所</nuxt-link
             >所所有單位的文明。
           </p>
         </div>
@@ -141,7 +141,7 @@
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
                 to="/units/Cannon_Galleon"
-                >火炮戰船</nuxt-link
+                >火砲戰船</nuxt-link
               >有 <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>加成。
             </li>
           </ul>
@@ -158,7 +158,7 @@
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >射程+1。
             </li>
             <li>
@@ -317,7 +317,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/ScorpionIcon.jpg" /><nuxt-link
                   to="/units/Scorpion"
-                  >弩炮</nuxt-link
+                  >弩砲</nuxt-link
                 >
               </td>
               <td class="tta3">40</td>
@@ -339,7 +339,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/HeavyScorpionIcon.jpg" /><nuxt-link
                   to="/units/Heavy_Scorpion"
-                  >重型弩炮</nuxt-link
+                  >重型弩砲</nuxt-link
                 >
               </td>
               <td class="tta3">50</td>
@@ -383,7 +383,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/BombardCannonIcon.jpg" /><nuxt-link
                   to="/units/Bombard_Cannon"
-                  >火炮</nuxt-link
+                  >火砲</nuxt-link
                 >
               </td>
               <td class="tta3">80</td>
@@ -474,7 +474,7 @@
                   class="gg"
                   width="22"
                   src="~assets/OrganGunIcon.jpg"
-                /><nuxt-link to="/units/Organ_Gun">風琴炮</nuxt-link>
+                /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->
@@ -497,7 +497,7 @@
                   class="gg"
                   width="22"
                   src="~assets/OrganGunIcon.jpg"
-                /><nuxt-link to="/units/Organ_Gun">精銳風琴炮</nuxt-link>
+                /><nuxt-link to="/units/Organ_Gun">精銳風琴砲</nuxt-link>
               </td>
               <td class="tta3">70</td>
               <!--生命值!-->
@@ -520,7 +520,7 @@
                   class="gg"
                   width="22"
                   src="~assets/Ballistaelephanticon.png"
-                /><nuxt-link to="/units/Organ_Gun">弩砲象</nuxt-link>
+                /><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>
               </td>
               <td class="tta3">250</td>
               <!--生命值!-->
@@ -543,7 +543,9 @@
                   class="gg"
                   width="22"
                   src="~assets/Ballistaelephanticon.png"
-                /><nuxt-link to="/units/Organ_Gun">精銳弩砲象</nuxt-link>
+                /><nuxt-link to="/units/Ballista_Elephant"
+                  >精銳弩砲象</nuxt-link
+                >
               </td>
               <td class="tta3">290</td>
               <!--生命值!-->
@@ -583,7 +585,7 @@
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">500F 600W</td>
               <td class="tunitc6">
-                攻城武器攻擊範圍+1(衝撞車除外)。對建築物攻擊加成+20%(炸藥桶+40%)。
+                攻城武器攻擊範圍+1(衝撞車除外)。對建築物攻擊加成+20%(爆炸桶+40%)。
               </td>
             </tr>
             <tr>
@@ -715,7 +717,7 @@
                   <nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>
                 </td>
                 <td class="tunitc5">750W 750G</td>
-                <td class="tunitc6">中國連弩兵攻擊+2，弩炮攻擊+4。</td>
+                <td class="tunitc6">連弩兵攻擊+2，弩砲攻擊+4。</td>
               </tr>
               <tr>
                 <td class="tunitc6">
@@ -801,7 +803,7 @@
                   <nuxt-link to="/techs/Artillery">砲兵</nuxt-link>
                 </td>
                 <td class="tunitc5">500G 450S</td>
-                <td class="tunitc6">火炮塔、火炮戰船和火炮射程+2。</td>
+                <td class="tunitc6">火砲塔、火砲戰船和火砲射程+2。</td>
               </tr>
             </table>
 

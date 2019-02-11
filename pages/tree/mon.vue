@@ -54,12 +54,12 @@
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
-              <div><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link></div>
+              <div><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t19 trm">
               <img class="gg" src="~assets/Tracking.jpg" alt="" />
-              <div><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link></div>
+              <div><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link></div>
             </td>
             <td class="t19 trm"></td>
           </tr>
@@ -425,9 +425,7 @@
                 alt=""
               />
               <div>
-                <nuxt-link to="/Siege units/Onager" class=""
-                  >重型投石車</nuxt-link
-                >
+                <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
               </div>
             </td>
             <td class="t23 trm">
@@ -627,7 +625,7 @@
             </td>
             <td class="t23 trm">
               <img class="gg" src="~assets/Handcart.jpg" alt="" />
-              <div><nuxt-link to="/techs/Handcart">手推車</nuxt-link></div>
+              <div><nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link></div>
             </td>
             <td class="t23 trm"></td>
           </tr>
@@ -882,7 +880,7 @@
             </td>
             <td class="t10 trm">
               <img class="gg" src="~assets/WarGalley.jpg" />
-              <div><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link></div>
+              <div><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm not">
@@ -942,7 +940,7 @@
             </td>
             <td class="t10 trm">
               <img class="gg" src="~assets/GalleonAoE2.jpg" />
-              <div><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link></div>
+              <div><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link></div>
             </td>
             <td class="t10 trm not">
               <img class="gg" src="~assets/LongboatIcon.jpg" />
@@ -965,13 +963,13 @@
             <td class="t10 trm">
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" />
               <div>
-                <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>
+                <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
               </div>
               <i class="fas fa-arrow-down"></i><br />
               <img class="gg not" src="~assets/CannonGalleonIcon.jpg" />
               <div>
                 <nuxt-link to="/units/Elite_Cannon_Galleon" class="not"
-                  >精銳火炮戰船</nuxt-link
+                  >精銳火砲戰船</nuxt-link
                 >
               </div>
             </td>
@@ -1100,7 +1098,7 @@
             </td>
             <td class="t19 trm">
               <img class="gg" src="~assets/Blastfurnace.jpg" alt="" />
-              <div><nuxt-link to="/techs/Blast_Furnace">鐵風爐</nuxt-link></div>
+              <div><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link></div>
             </td>
             <td class="t19 trm not">
               <img class="gg" src="~assets/Platebardingarmor.jpg" alt="" />
@@ -1261,7 +1259,7 @@
                 alt=""
               />
               <div>
-                <nuxt-link to="/techs/Illumination not">啟發教化</nuxt-link>
+                <nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>
               </div>
             </td>
             <td class="t11 trm not">

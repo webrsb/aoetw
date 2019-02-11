@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>鷹斥侯</h1>
+        <h1>鷹斥候</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -15,7 +15,7 @@
             >
           </p>
           <p>
-            在《世紀帝國II:征服者入侵》版本中，鷹斥侯只能在<nuxt-link
+            在《世紀帝國II:征服者入侵》版本中，鷹斥候只能在<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >生產。到了<nuxt-link to="/techs/age/Imperial_Age"
@@ -23,13 +23,13 @@
             >可以直接升為
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
             在升級為<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-            >前，鷹斥侯相對不實用，且生產的非常慢，但到了
+            >前，鷹斥候相對不實用，且生產的非常慢，但到了
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >，他將一躍而成一種超op兵種。
             到了《世紀帝國II:失落的帝國》，在<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >便可以生產鷹斥侯，到了
+            >便可以生產鷹斥候，到了
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >可以升為<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
           </p>
@@ -41,15 +41,15 @@
             在《世紀帝國II:失落的帝國》中，因為可以在<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >生產鷹斥侯，於是又多了一些打法。現在的南美國家
+            >生產鷹斥候，於是又多了一些打法。現在的南美國家
             <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
-            >就相當強勢的原因就是可以生產鷹斥侯
+            >就相當強勢的原因就是可以生產鷹斥候
           </p>
           <p>
-            由於鷹斥侯在<nuxt-link to="/techs/age/Feudal_Age"
+            由於鷹斥候在<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >算遠防高，是所有<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
-            >的剋星，不過對於群聚的弓兵，你最好還是想辦法遠離他；鷹斥侯對於近戰步兵是被克制的，但因移動速度高讓步兵很難追到。
+            >的剋星，不過對於群聚的弓兵，你最好還是想辦法遠離他；鷹斥候對於近戰步兵是被克制的，但因移動速度高讓步兵很難追到。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -66,7 +66,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scout_Cavalry"
-                >斥侯</nuxt-link
+                >斥候</nuxt-link
               >、 <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>。
             </td>
           </tr>
@@ -77,7 +77,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -188,7 +188,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -345,8 +345,7 @@
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
-                    /><nuxt-link to="/units/Karambit_Warrior"
-                      >爪刀勇士</nuxt-link
+                    /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
                     >→
                     <img
                       class="gg"
@@ -354,7 +353,7 @@
                       alt=""
                     />
                     <nuxt-link to="/units/Karambit_Warrior"
-                      >精銳爪刀勇士</nuxt-link
+                      >精銳彎刀勇士</nuxt-link
                     >
                   </li>
                   <li>
@@ -419,7 +418,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：鷹斥侯生產速度提高15％。
+              >：鷹斥候生產速度提高15％。
             </li>
           </ul>
         </div>
@@ -436,8 +435,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：鷹斥侯訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+              >：鷹斥候訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -445,7 +444,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：鷹斥侯更不容易被招降。
+              >：鷹斥候更不容易被招降。
             </li>
           </ul>
         </div>
@@ -456,26 +455,26 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>鷹斥侯在城堡時代可以訓練。</li>
+            <li>鷹斥候在城堡時代可以訓練。</li>
             <li>升級到鷹勇士現在費用為300食物/200黃金。</li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:<nuxt-link
                 to="/techs/Couriers"
                 >信使</nuxt-link
-              >給予鷹斥侯+10％的移動速度。
+              >給予鷹斥候+10％的移動速度。
             </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>鷹斥侯現在在封建時代就可以訓練。</li>
+            <li>鷹斥候現在在封建時代就可以訓練。</li>
             <li>升級到鷹勇士現在費用為200食物/200黃金。</li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:<nuxt-link
                 to="/techs/Couriers"
                 >信使</nuxt-link
-              >給予鷹斥侯+1/+2的防禦。移除+10％的速度。
+              >給予鷹斥候+1/+2的防禦。移除+10％的速度。
             </li>
           </ul>
         </div>
@@ -491,7 +490,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle" style="color: #fff">鷹斥侯</div>
+              <div class="unititle" style="color: #fff">鷹斥候</div>
             </td>
           </tr>
           <tr>
@@ -602,7 +601,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry"> 步兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br />
               <nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
@@ -665,7 +664,7 @@
           <gallery
             ><img class="imgn hg" src="~assets/Eaglescout.png" alt=""
           /></gallery>
-          <p><em>一群鷹斥侯</em></p>
+          <p><em>一群鷹斥候</em></p>
         </div>
       </div>
     </div>

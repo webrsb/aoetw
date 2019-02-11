@@ -172,7 +172,7 @@
               >
               <br />
               <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
-                to="~assets/techs/Garland_Wars"
+                to="/techs/Garland_Wars"
                 >榮冠戰爭</nuxt-link
               >
             </td>

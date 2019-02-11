@@ -241,7 +241,7 @@
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
               />精銳<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
-              >(<nuxt-link to="/civs/Incas">柏柏</nuxt-link>限定)
+              >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
             </li>
             <li>
               <img

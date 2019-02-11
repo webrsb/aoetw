@@ -58,7 +58,7 @@
             <li>義勇騎兵可在城堡時代研發。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>4.8改版後義勇騎兵會影響箭塔的第二次攻擊。</li>

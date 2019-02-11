@@ -9,7 +9,7 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>揮軍南下</b
+            <b>揮師南下</b
             >為黎利戰役的第四關劇情關卡，此關描述越南黎利在襲擊河內後，進軍明廷在清化南方的重鎮「茶隆關（今乂安省境內）」的經過。
           </p>
         </div>
@@ -105,7 +105,7 @@
             <li>對茶隆關的強攻宜速戰速決。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -182,7 +182,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Three_Pronged_Attack">三面攻勢</nuxt-link>
+              <nuxt-link to="/batt/A_Three_Pronged_Attack">兵分三路</nuxt-link>
             </td>
           </tr>
         </table>

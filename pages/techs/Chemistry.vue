@@ -56,7 +56,7 @@
           </h3>
           <ul>
             <li>化學不影響城堡和城鎮中心。</li>
-            <li>化學給弩炮+2攻擊。</li>
+            <li>化學給弩砲+2攻擊。</li>
             <li>化學會影響所有射出的箭。</li>
             <li>化學會減緩投石車的投射物速率20%，砲彈會飛比較慢。</li>
           </ul>
@@ -64,7 +64,7 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>化學現在給弩炮+1攻擊。</li>
+            <li>化學現在給弩砲+1攻擊。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
@@ -125,7 +125,7 @@
                 class="gg"
                 src="~assets/Universityicon.png"
                 alt=""
-              /><nuxt-link to="/building/Archery_Range">學院</nuxt-link>
+              /><nuxt-link to="/building/University">學院</nuxt-link>
             </td>
           </tr>
           <tr>

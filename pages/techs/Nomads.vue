@@ -32,7 +32,7 @@
             <li>
               研發游牧後也可以自行摧毀房屋來增加<nuxt-link
                 to="/units/Trade_Cart"
-                >貿易馬車</nuxt-link
+                >貿易車隊</nuxt-link
               >的效率，減少路程。但要注意是有沒有敵軍在房屋後面乘虛而入。
             </li>
             <li>

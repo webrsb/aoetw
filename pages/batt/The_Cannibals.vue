@@ -140,7 +140,7 @@
             <li>法蘭西斯科.德.奧雷利亞納 可以升級帝王時代。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

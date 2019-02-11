@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             拇指環於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >在<nuxt-link to="/Archery_Range">射箭場</nuxt-link
+            >在<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技<nuxt-link
               to="/techs/Ballistics"
               >彈道學</nuxt-link
@@ -24,9 +24,7 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -61,9 +59,7 @@
               <h4>
                 <strong
                   ><i class="fas fa-times" style="color: #d9534f;"></i>
-                  <span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  <span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、

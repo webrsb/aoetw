@@ -219,12 +219,12 @@
                   src="~assets/WarGalley.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>→
+                /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/GalleonAoE2.jpg"
                   alt=""
-                /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
               </li>
               <li>
                 <img
@@ -293,7 +293,7 @@
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     /><nuxt-link to="/units/Rattan_Archer"
-                      >精銳籐甲弓箭手</nuxt-link
+                      >精銳藤甲弓兵</nuxt-link
                     >（10）
                   </li>
                   <li>
@@ -443,13 +443,13 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
                     >（9）
                   </li>
                   <li>
                     <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
                       to="/units/Elite_Cannon_Galleon"
-                      >精銳火炮戰船</nuxt-link
+                      >精銳火砲戰船</nuxt-link
                     >（9）
                   </li>
                   <li>
@@ -604,7 +604,7 @@
                   </td>
                   <td class="tunitc4">封建</td>
                   <td class="tunitc5">100F</td>
-                  <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+1。</td>
+                  <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+1。</td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -619,7 +619,7 @@
                   </td>
                   <td class="tunitc4">城堡</td>
                   <td class="tunitc5">150F 150G</td>
-                  <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+1。</td>
+                  <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+1。</td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -634,7 +634,7 @@
                   </td>
                   <td class="tunitc4">帝王</td>
                   <td class="tunitc5">250F 250G</td>
-                  <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+2。</td>
+                  <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+2。</td>
                 </tr>
                 <tr>
                   <td class="tunitc6">

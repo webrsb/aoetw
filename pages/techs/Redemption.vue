@@ -19,10 +19,10 @@
             所有建築物包含<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
             >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
             >都不能從遠處直接招降，僧侶和傳教士必須站在他們身邊才能進行招降，其他攻城武器(
-            <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link
+            <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
               to="/units/Mangonel"
               >投石車</nuxt-link
-            >和<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+            >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >)皆可從遠處直接招降 配上此科技後，僧侶搭配<nuxt-link
               to="/units/Crossbowman"
               >弩兵</nuxt-link
@@ -42,9 +42,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >文明可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">文明可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -77,9 +75,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >文明不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">文明不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
@@ -109,14 +105,12 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可招降</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可招降</span></strong
                 >
               </h4>
               <nuxt-link to="/building/House">房屋</nuxt-link>
               <nuxt-link to="/building/Mill">磨坊</nuxt-link>、
-              <nuxt-link to="/building/Market">市場</nuxt-link>、
+              <nuxt-link to="/building/Market">市集</nuxt-link>、
               <nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link>、
               <nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link>、
               <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>、
@@ -146,9 +140,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可招降</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可招降</span></strong
                 >
               </h4>
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>、

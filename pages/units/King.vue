@@ -41,15 +41,15 @@
           <p>有幾個國王英雄。</p>
           <ul>
             <li>
-              <nuxt-link to="/elements/Jayanegara">賈雅內加拉</nuxt-link>。
+              <nuxt-link to="/units/hero/Jayanegara">賈亞納加拉</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/elements/King_Alfonso">阿方索國王</nuxt-link>。
+              <nuxt-link to="/units/hero/King_Alfonso">阿方索國王</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/elements/King_Sancho">桑丘國王</nuxt-link>。
+              <nuxt-link to="/units/hero/King_Sancho">桑喬國王</nuxt-link>。
             </li>
-            <li><nuxt-link to="/elements/Shah">沙阿</nuxt-link>。</li>
+            <li><nuxt-link to="/units/hero/Shah">沙赫</nuxt-link>。</li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -104,7 +104,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Gunpowder_Unit">平民</nuxt-link>
+              <nuxt-link to="/units/Civilian">平民</nuxt-link>
             </td>
           </tr>
           <tr>

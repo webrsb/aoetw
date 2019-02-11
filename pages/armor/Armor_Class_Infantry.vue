@@ -53,7 +53,7 @@
             </li>
             <li>
               <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
-              <nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+              <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
               <img class="gg" src="~assets/EagleWarriorIcon.jpg" alt="" />
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>→
               <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="" />
@@ -73,7 +73,7 @@
               <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
                 to="/units/Woad_Raider"
                 >菘藍武士(精銳)</nuxt-link
-              >(<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
+              >(<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link
@@ -138,8 +138,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Karambit_Warrior"
-                >爪刀勇士(精銳)</nuxt-link
+              /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士(精銳)</nuxt-link
               >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
             </li>
           </ul>
@@ -262,7 +261,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>

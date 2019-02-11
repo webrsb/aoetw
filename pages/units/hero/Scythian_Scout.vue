@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>斯基泰斥侯</h1>
+        <h1>斯基泰斥候</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>斯基泰斥侯</strong
+            <strong>斯基泰斥候</strong
             >是《世紀帝國II：征服者入侵》中的一名<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
@@ -24,7 +24,7 @@
           <p>
             在<nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link
             >戰役的<nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link
-            >這關中，玩家進入地圖南方的營地內時也可以取得八支斯基泰斥侯(被改名為馬里騎士)，他們有傑出的遠防和回血能力，是相當優秀的單位。
+            >這關中，玩家進入地圖南方的營地內時也可以取得八支斯基泰斥候(被改名為馬利騎士)，他們有傑出的遠防和回血能力，是相當優秀的單位。
           </p>
           <p>
             他們在遊戲中使用<nuxt-link to="/units/Light_Cavalry"
@@ -34,9 +34,9 @@
           <br />軼事錄
           <hr />
           <p>
-            雖然在遊戲中有同名的英雄單位可用，但在上帝之鞭這關中登場的斯基泰斥侯卻是以有1000滴血的一般<nuxt-link
+            雖然在遊戲中有同名的英雄單位可用，但在上帝之鞭這關中登場的斯基泰斥候卻是以有1000滴血的一般<nuxt-link
               to="/units/Scout_Cavalry"
-              >斥侯</nuxt-link
+              >斥候</nuxt-link
             >改名取代，原因不明。
           </p>
         </div>
@@ -46,7 +46,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                斯基泰斥侯
+                斯基泰斥候
               </div>
             </td>
           </tr>

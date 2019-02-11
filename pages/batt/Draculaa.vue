@@ -97,7 +97,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">土耳其、馬札爾、斯拉夫</td>
+            <td class="unit4">土耳其、馬扎爾、斯拉夫</td>
           </tr>
           <tr>
             <td class="unit3">關卡</td>

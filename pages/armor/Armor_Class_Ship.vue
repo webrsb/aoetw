@@ -56,10 +56,10 @@
                 src="~assets/WarGalley.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>→
+              /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>→
               <img class="gg" src="~assets/GalleonAoE2.jpg" alt="" /><nuxt-link
                 to="/units/Galleon"
-                >重型弩炮戰船</nuxt-link
+                >重型弩砲戰船</nuxt-link
               >
             </li>
             <li>
@@ -102,10 +102,10 @@
             <li>
               <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
                 to="/units/Cannon_Galleon"
-                >火炮戰船</nuxt-link
+                >火砲戰船</nuxt-link
               >→ <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
                 to="/units/Elite_Cannon_Galleon"
-                >精銳火炮戰船</nuxt-link
+                >精銳火砲戰船</nuxt-link
               >
             </li>
             <li>
@@ -151,7 +151,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -188,7 +188,7 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
@@ -236,7 +236,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img

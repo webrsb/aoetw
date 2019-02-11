@@ -99,10 +99,10 @@
         <div class="hrn1"></div>
         <div class="col-md-6">
           <p>
-            <em>主條目：<nuxt-link to="/batt/">戰役</nuxt-link></em>
+            <em>主條目：<nuxt-link to="/batt">戰役</nuxt-link></em>
           </p>
           <p>
-            不管在台灣或是全世界，玩<nuxt-link to="/batt/">戰役</nuxt-link
+            不管在台灣或是全世界，玩<nuxt-link to="/batt">戰役</nuxt-link
             >的人口非常多，但目前卻缺乏一個統合完整的戰役網站，不管是戰役的歷史背景還是關卡本身的攻略，戰役都非常的需要人手來編輯擴充，歡迎一起加入戰役的世界。
           </p>
         </div>

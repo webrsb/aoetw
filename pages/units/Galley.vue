@@ -44,7 +44,7 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Fire_Galley">火戰船</nuxt-link
+              <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
               >、箭塔、<nuxt-link to="/building/Castle">城堡</nuxt-link
               >、在岸邊的範圍單位。
             </td>
@@ -206,7 +206,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -243,7 +243,7 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -261,7 +261,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
@@ -291,7 +291,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -306,7 +306,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -314,10 +314,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -361,7 +359,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -472,7 +470,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+11攻擊</strong></div>
@@ -482,7 +480,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -494,7 +492,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -527,7 +525,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Berbers">阿茲特克</nuxt-link
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
               >：戰船訓練速度提高15%。
             </li>
             <li>
@@ -535,7 +533,7 @@
               >：戰船移動速度提高10％。
             </li>
             <li>
-              <nuxt-link to="/civs/Byzantines">緬甸</nuxt-link>：研究<nuxt-link
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研究<nuxt-link
                 to="/techs/Faith"
                 >忠誠信仰</nuxt-link
               >便宜50％。
@@ -614,7 +612,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aok">世紀帝國</nuxt-link></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>戰船訓練時間為36秒。</li>

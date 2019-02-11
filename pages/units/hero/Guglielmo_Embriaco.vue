@@ -13,7 +13,7 @@
               to="/armor/Armor_Class_Archer"
               >射手</nuxt-link
             >
-            <nuxt-link to="/Heros.php">英雄</nuxt-link
+            <nuxt-link to="/units/hero/">英雄</nuxt-link
             >。史實中的他是一名熱那亞商人暨軍事領袖，在第一次十字軍東征後給予了各個十字軍國家協助。
           </p>
           在遊戲中，他是一名數值更強的
@@ -81,7 +81,7 @@
                 >駱駝</nuxt-link
               >
               +7 <br />對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
-              +7 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              +7 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
               +2 <br />

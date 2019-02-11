@@ -25,11 +25,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            維京大戰船與<nuxt-link to="/units/Chu_Ko_Nu">中國連弩兵</nuxt-link
+            維京大戰船與<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
             >一樣會在一次攻擊中射出多重箭矢，而且只有第一發箭能有弓兵科技的加成而且是完整傷害，其他箭都只有1的遠程傷害。維京大戰船無論精銳與否每次攻擊都是射四支箭。與
-            <nuxt-link to="/units/Chu_Ko_Nu">中國連弩兵</nuxt-link
+            <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
             >不同的維京大戰船是在同一時間發射所有箭，而不是快速連續發射。由於世界帝國II中護甲和傷害的計算後面的三發箭矢會對單位造成額外+3傷害。維京大戰船可以戰勝
-            <nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link
+            <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >，精銳維京大戰船可以戰勝<nuxt-link to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
             >(險勝)。維京大戰船建造速度比大多數的戰艦快，而複數數量的維京大戰船可以有效對付敵方艦隊。
@@ -37,7 +37,7 @@
           <p>
             維京大戰船很怕岸邊的<nuxt-link to="/units/Mangonel"
               >投石車</nuxt-link
-            >和<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+            >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >，所以他們最好保持距離或是用速度閃過攻擊。
             <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
             >的高護甲對維京大戰船也是個麻煩，但如果有細微的操作而且龜甲船的數量不多，維京大戰船還是能應付他們。<nuxt-link
@@ -46,7 +46,7 @@
             >是反制維京大戰船的首選。
           </p>
           <p>
-            複數數量的維京大戰船非常適合岸邊轟炸，用箭雨把敵方插成蜂窩。維京大戰船也適合護衛如運輸船和火炮戰船完成他們的任務。由於維京人缺乏<nuxt-link
+            複數數量的維京大戰船非常適合岸邊轟炸，用箭雨把敵方插成蜂窩。維京大戰船也適合護衛如運輸船和火砲戰船完成他們的任務。由於維京人缺乏<nuxt-link
               to="/units/Fire_Ship"
               >火戰船</nuxt-link
             >，他們的海軍應該圍繞在維京大戰船上，因為維京大戰船訓練速度快、移動快、搭配其他船艦，就可有效應付海上的任何情況。
@@ -68,8 +68,8 @@
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>、
               <nuxt-link to="/building">建築物</nuxt-link
               >、在岸邊和淺灘的陸地單位、<nuxt-link to="/units/Cannon_Galleon"
-                >火炮戰船</nuxt-link
-              >、<nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>。
+                >火砲戰船</nuxt-link
+              >、<nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -219,7 +219,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -256,7 +256,7 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
@@ -272,7 +272,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
@@ -302,7 +302,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -317,7 +317,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -325,10 +325,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -372,7 +370,7 @@
                       class="gg"
                       src="~assets/Watchtowericon.png"
                       alt=""
-                    /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
+                    /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -483,7 +481,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Keep">大型箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Keep">大型箭塔</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+11攻擊</strong></div>
@@ -493,7 +491,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Guard_Tower">防禦箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
                 </li>
               </ul>
             </div>
@@ -505,7 +503,7 @@
                     class="gg"
                     src="~assets/Watchtowericon.png"
                     alt=""
-                  /><nuxt-link to="/units/Watch_Tower">瞭望箭塔</nuxt-link>
+                  /><nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -564,7 +562,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aok">世紀帝國</nuxt-link></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>維京大戰船訓練時間為36秒，成本為100木50金。</li>

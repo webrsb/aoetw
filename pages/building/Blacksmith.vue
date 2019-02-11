@@ -153,7 +153,7 @@
                       class="gg"
                       src="~assets/Blastfurnace.jpg"
                       alt=""
-                    /><nuxt-link to="/techs/Blast_Furnace">鐵風爐</nuxt-link>
+                    /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -276,7 +276,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >(+20%建造效率)
               </td>
             </tr>
@@ -310,7 +310,7 @@
               <li>
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研發<nuxt-link
                   to="/techs/Town_Watch"
-                  >城鎮暸望</nuxt-link
+                  >城鎮瞭望</nuxt-link
                 >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
                 >的速度在封建/城堡/帝王快10%/15%/20%。
               </li>

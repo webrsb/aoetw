@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            神權統治可於<nuxt-link to="/techs/age/Castle_Age"
+            神權統治可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>研發，多個
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -31,9 +31,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >文明可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">文明可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -74,9 +72,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >文明不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">文明不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、

@@ -29,14 +29,14 @@
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
                 to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >和<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+              >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >)，蘇丹是印度玩家需要及早研發的科技。
             </li>
             <li>
               蘇丹可以與其他團隊加成疊加，譬如<nuxt-link to="/civs/Aztecs"
                 >阿茲特克</nuxt-link
               >或<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >，前者遺跡收集黃金量+33%，後者貿易馬車、貿易商旅每趟多25%黃金。
+              >，前者遺跡收集黃金量+33%，後者貿易車隊、貿易商旅每趟多25%黃金。
             </li>
           </ul>
         </div>

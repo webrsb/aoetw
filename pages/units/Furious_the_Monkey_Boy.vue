@@ -64,7 +64,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Gunpowder_Unit">平民</nuxt-link>
+              <nuxt-link to="/units/Civilian">平民</nuxt-link>
             </td>
           </tr>
           <tr>

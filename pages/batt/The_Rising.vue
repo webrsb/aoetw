@@ -122,7 +122,7 @@
               class="gg"
               src="~assets/Castle-age-reseach.jpg"
               alt=""
-            /><nuxt-link to="/techs/age/Imperial_Age">城堡時代</nuxt-link>
+            /><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
           </li>
           <li>
             <strong>起始資源：</strong>200木頭，200食物 <br />50黃金，150石頭
@@ -135,13 +135,13 @@
         <ul>
           <li>
             <img class="gg" src="~assets/Joanofarcicon.png" alt="" /><nuxt-link
-              to="/Joan_of_Arc_units/Champion"
+              to="/units/hero/Joan_of_Arc_Champion"
               >聖女貞德</nuxt-link
             >
           </li>
           <li>
             <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
-            <nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>*2
+            <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>*2
           </li>
           <li>
             <img class="gg" src="~assets/KnightIcon.jpg" alt="" />
@@ -219,7 +219,7 @@
             你一開始有一些軍隊，當你往西前進時會遇到不列顛皇家禁衛軍，有9個裝甲步兵跟6個弩兵，玩家可以直接解決他們，你也可以選擇往下走會遇到一個防禦箭塔，不過你可以從林間的小道穿過去就不會被箭塔射到，之後一路往西取得你的村民並開始發展經濟體。這裡要注意的是如果選擇先躲過不列顛皇家禁衛軍，之後他們還是會進攻玩家城鎮，不過只要搖響警戒鐘讓城鎮中心處理就好。
           </li>
           <li>
-            發展經濟體的時候你可以帶著原有的軍隊往沙朗前進，沙朗有座沒有防禦建築的城鎮在地圖西邊過河流穿越處的地方。他們有騎士、弩炮還有弩兵，如果時間足夠的話也會訓練火炮戰船。先對付他們的騎士，記得用僧侶幫忙招降1~2隻騎士，之後直接解決弩炮跟弩兵，弩兵可以用貞德對付，然後開始打城鎮中心，可以用拉兵躲避(左右閃避)城鎮中心的箭還有僧侶治療被打的目標來增加其他軍隊攻擊的時間，只要城鎮中心陷落沙朗就會投降，玩家也能開採尚未使用的黃金和石材。
+            發展經濟體的時候你可以帶著原有的軍隊往沙朗前進，沙朗有座沒有防禦建築的城鎮在地圖西邊過河流穿越處的地方。他們有騎士、弩砲還有弩兵，如果時間足夠的話也會訓練火砲戰船。先對付他們的騎士，記得用僧侶幫忙招降1~2隻騎士，之後直接解決弩砲跟弩兵，弩兵可以用貞德對付，然後開始打城鎮中心，可以用拉兵躲避(左右閃避)城鎮中心的箭還有僧侶治療被打的目標來增加其他軍隊攻擊的時間，只要城鎮中心陷落沙朗就會投降，玩家也能開採尚未使用的黃金和石材。
           </li>
         </ul>
         <div class="col-md-12">
@@ -233,7 +233,7 @@
                 alt=""
             /></gallery>
             <p>
-              <em>走小道（斥侯所在處）可以暫時躲過不列顛禁衛軍。</em>
+              <em>走小道（斥候所在處）可以暫時躲過不列顛禁衛軍。</em>
             </p>
           </div>
           <div class="col-md-6">

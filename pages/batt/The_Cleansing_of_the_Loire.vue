@@ -65,7 +65,7 @@
                   class="gg"
                   src="~assets/Joanofarcicon.png"
                   alt=""
-                /><nuxt-link to="/Joan_of_Arc_units/Champion"
+                /><nuxt-link to="/units/hero/Joan_of_Arc_Champion"
                   >聖女貞德</nuxt-link
                 >
               </li>
@@ -80,7 +80,7 @@
                   class="gg"
                   src="~assets/ScoutCavalryIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>
+                /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>
               </li>
               <li>
                 <img class="gg" src="~assets/KnightIcon.jpg" alt="" /><nuxt-link

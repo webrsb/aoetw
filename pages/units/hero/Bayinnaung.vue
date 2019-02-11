@@ -71,7 +71,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對建築物+10 <br />對石造建築+10</td>
+            <td class="unit4">對建築物+10 <br />對石頭建築+10</td>
           </tr>
           <tr>
             <td class="unit3">建設範圍</td>

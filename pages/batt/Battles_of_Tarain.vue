@@ -138,7 +138,7 @@
             </ol>
           </div>
         </div>
-        <h2>斥侯回報</h2>
+        <h2>斥候回報</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -190,7 +190,9 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><nuxt-link to="/civs/India">印度</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">

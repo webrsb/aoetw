@@ -17,7 +17,7 @@
           <ul>
             <li>
               碼頭是經濟和海戰的發展重點，因為碼頭能生產各種船隻，同時也是<nuxt-link
-                to="/units/Fire_Ship"
+                to="/units/Fishing_Ship"
                 >漁船</nuxt-link
               >、<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link
               >的基地。依據地圖的種類來建築、發展。
@@ -124,7 +124,7 @@
                   <li>
                     <img class="gg" src="~assets/WarGalley.jpg" /><nuxt-link
                       to="/units/War_Galley"
-                      >弩炮戰船</nuxt-link
+                      >弩砲戰船</nuxt-link
                     >
                   </li>
                   <li>
@@ -180,14 +180,14 @@
                     <img
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
-                    /><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/CannonGalleonIcon.jpg"
                     /><nuxt-link to="/units/Elite_Cannon_Galleon"
-                      >精銳火炮戰船</nuxt-link
+                      >精銳火砲戰船</nuxt-link
                     >
                   </li>
                   <li>
@@ -201,7 +201,7 @@
                   <li>
                     <img class="gg" src="~assets/GalleonAoE2.jpg" /><nuxt-link
                       to="/units/Galleon"
-                      >重型弩炮戰船</nuxt-link
+                      >重型弩砲戰船</nuxt-link
                     >
                   </li>
                   <li>
@@ -344,7 +344,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >(+20%建造效率)
               </td>
             </tr>
@@ -383,7 +383,7 @@
               <li>
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
                 >：在黑暗/封建/城堡/帝王時代，碼頭擁有 +10%/+20%/+30%/+40%
-                HP。<nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>免費
+                HP。<nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -401,7 +401,7 @@
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
                 >：碼頭有兩倍的HP，在封建/城堡/帝王時代，訓練速度提高
                 10%/15%/20%。研發
-                <nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link
+                <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link
                 >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
                 >速度在封建/城堡/帝王時代提高10%/15%/20%。
               </li>
@@ -421,10 +421,11 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
-                  to="/civs/Vikings"
+                  to="/techs/Masonry"
                   >磚瓦技術</nuxt-link
-                >、<nuxt-link to="/civs/Vikings">建築學</nuxt-link>和
-                <nuxt-link to="/civs/Vikings">踏輪起重機</nuxt-link>速度快80%
+                >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>和
+                <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
+                >速度快80%
               </li>
               <li>
                 <nuxt-link to="/civs/Vikings">維京</nuxt-link>：碼頭便宜15%`.
@@ -469,7 +470,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>

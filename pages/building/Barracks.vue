@@ -52,7 +52,7 @@
                 <li>
                   <img class="gg" src="~assets/Tracking.jpg" alt="" /><nuxt-link
                     to="/techs/Tracking"
-                    >追縱技術</nuxt-link
+                    >追蹤技術</nuxt-link
                   >
                 </li>
                 <li>
@@ -60,7 +60,7 @@
                     class="gg"
                     src="~assets/EagleScoutIcon.jpg"
                     alt=""
-                  /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
+                  /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
                   >(南美文明限定)
                 </li>
               </ul>
@@ -259,7 +259,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%建造效率)
             </td>
           </tr>
@@ -291,7 +291,7 @@
                 style="margin: 2px;"
                 alt=""
               /><nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
-              >:兵營可以訓練<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+              >:軍營可以訓練<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
               >， <nuxt-link to="/civs/Goths">哥德</nuxt-link>限定
             </td>
           </tr>
@@ -332,7 +332,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Goths">歌德</nuxt-link>：軍營工作速度快20% 。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：軍營工作速度快20% 。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：
@@ -366,18 +366,18 @@
           </h3>
           <ul>
             <li>
-              引入<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
+              引入<nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
               >(南美文明限定)，可在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
               >訓練。
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              引入<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
+              引入<nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
               >現在可在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
               >訓練。
             </li>

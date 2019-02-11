@@ -104,7 +104,7 @@
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >，大部分近戰單位，
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -405,7 +405,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
@@ -415,7 +415,7 @@
                       class="gg"
                       src="~assets/ScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Scorpion">弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
@@ -593,7 +593,7 @@
               歷史上的波斯帝國，在遊戲戰役的<nuxt-link
                 to="/units/hero/Genghis_Khan"
                 >成吉思汗</nuxt-link
-              >，<nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>，以及
+              >，<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>，以及
               <nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link
               >所處的時代，皆沒有使用戰象部隊。(然而遊戲裡有，請睜隻眼閉隻眼)
             </li>
@@ -712,7 +712,7 @@
             <td class="unit4">
               對<nuxt-link to="/building">建築物</nuxt-link>+7/+10(精銳)
               <br />對<nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造防禦建築</nuxt-link
+                >石頭建築</nuxt-link
               >+7/+10(精銳)
             </td>
           </tr>
@@ -741,7 +741,7 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link>
               <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
               <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link

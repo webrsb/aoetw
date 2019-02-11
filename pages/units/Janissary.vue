@@ -33,7 +33,7 @@
                 >弓箭手</nuxt-link
               >和<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >因為前者有遠程攻擊距離而後者速度很快，
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>跟<nuxt-link
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>跟<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >對土耳其火槍兵也是致命的威脅。不過複數的土耳其火槍兵可以在受到太多傷害之前殺死上面單位。，
@@ -70,13 +70,13 @@
             <td class="tta4">
               <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、<nuxt-link
                 to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>、
               <nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -373,7 +373,7 @@
             <li>
               當十個土耳其火槍兵駐紮到<nuxt-link to="/civs/Teutons"
                 >條頓</nuxt-link
-              >人的火炮塔時火炮塔會射出三個砲彈!
+              >人的火砲塔時火砲塔會射出三個砲彈!
             </li>
           </ul>
         </div>

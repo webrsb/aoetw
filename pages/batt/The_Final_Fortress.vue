@@ -90,7 +90,7 @@
             <li>黎利大王會在前線作戰，但若他受傷則必須回營養傷。</li>
           </ul>
         </div>
-        <h2>斥侯</h2>
+        <h2>斥候</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

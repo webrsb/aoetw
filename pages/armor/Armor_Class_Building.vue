@@ -133,7 +133,7 @@
                     src="~assets/Siegeworkshopicon.png"
                     alt=""
                   /><nuxt-link to="/building/Siege_Workshop"
-                    >攻城武器製造所</nuxt-link
+                    >攻城器製造所</nuxt-link
                   >
                 </li>
                 <li>
@@ -178,7 +178,7 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/Gateicon.png" alt="" /><nuxt-link
-                    to="/building/Gateicon_Gate"
+                    to="/building/Gate"
                     >城門</nuxt-link
                   >(20)
                 </li>
@@ -215,7 +215,7 @@
                     class="gg"
                     src="~assets/Bombardtowericon.png"
                     alt=""
-                  /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                  /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -281,7 +281,7 @@
                   src="~assets/CannonGalleonIcon.jpg"
                   alt=""
                 /><nuxt-link to="/units/Elite_Cannon_Galleon"
-                  >精銳火炮戰船</nuxt-link
+                  >精銳火砲戰船</nuxt-link
                 >
               </li>
             </ul>
@@ -327,7 +327,7 @@
                   class="gg"
                   src="~assets/CannonGalleonIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>
+                /><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+180攻擊</strong></div>
@@ -389,7 +389,7 @@
                   class="gg"
                   src="~assets/MangonelIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>
+                /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>
               </li>
             </ul>
             <div style="margin:12px 0px;"><strong>+10攻擊</strong></div>
@@ -407,7 +407,7 @@
                   src="~assets/WarElephantIcon.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/units/War_Elephant">精銳波斯戰象</nuxt-link
+                /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
                 >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
               </li>
               <li>
@@ -441,7 +441,7 @@
                   class="gg"
                   src="~assets/GalleonAoE2.jpg"
                   alt=""
-                /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
               </li>
               <li>
                 <img
@@ -475,7 +475,7 @@
                   src="~assets/WarElephantIcon.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
+                /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link
                 >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
               </li>
               <li>
@@ -484,7 +484,7 @@
                   src="~assets/WarGalley.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
               </li>
               <li>
                 <img
@@ -513,7 +513,7 @@
                   class="gg"
                   src="~assets/HeavyScorpionIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
               </li>
               <li>
                 <img
@@ -548,7 +548,7 @@
                   class="gg"
                   src="~assets/ScorpionIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Scorpion">弩炮</nuxt-link>
+                /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
               </li>
               <li>
                 <img
@@ -698,7 +698,7 @@
                     class="gg"
                     src="~assets/MangonelIcon.jpg"
                     alt=""
-                  /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>
+                  /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
@@ -708,7 +708,7 @@
                     class="gg"
                     src="~assets/HeavyScorpionIcon.jpg"
                     alt=""
-                  /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                  /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                 </li>
                 <li>
                   <img
@@ -755,7 +755,7 @@
                     class="gg"
                     src="~assets/ScoutCavalryIcon.jpg"
                     alt=""
-                  /><nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>→
+                  /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
                   <img
                     class="gg"
                     src="~assets/LightCavalryIcon.jpg"

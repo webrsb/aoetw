@@ -13,7 +13,7 @@
               >城堡時代</nuxt-link
             >可以在
             <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-            >訓練，本質上就是一個騎馬的<nuxt-link to="/units/Elite_Skirmisher"
+            >訓練，本質上就是一個騎馬的<nuxt-link to="/units/Skirmisher"
               >矛兵</nuxt-link
             >
             ，因為不用黃金，被認為是垃圾兵種之一。
@@ -45,7 +45,7 @@
             <nuxt-link to="/techs/Bloodlines">品種</nuxt-link
             >的文明。且攻擊更高一點，另一方面他需要更久的訓練時間與更高的成本，且更怕
             <nuxt-link to="/units/Camel">駱駝</nuxt-link>與
-            <nuxt-link to="/units/Pikeman">長槍兵</nuxt-link
+            <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
             >等反騎兵單位的克制。他對槍兵也沒有攻擊加成，但相對於戰矛兵，他可以用拉打的戰術。
           </p>
           <p>
@@ -73,7 +73,7 @@
               長槍兵系、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、
               <nuxt-link to="/civs/Incas">印加</nuxt-link
               ><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>、
-              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩兵</nuxt-link
+              <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
               >、
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >打標槍騎兵有加成
@@ -704,7 +704,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
                 to="/techs/Bloodlines"
                 >品種</nuxt-link
-              >與<nuxt-link to="/techs/Husbandry">畜牧技術</nuxt-link
+              >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >研發快20%。
             </li>
             <li>
@@ -749,7 +749,7 @@
             <li>
               標槍騎兵是唯三不用花錢的特殊單位之一，另外兩個是帝王戰矛兵與<nuxt-link
                 to="/units/Magyar_Huszar"
-                >馬札爾驃騎兵</nuxt-link
+                >馬扎爾驃騎兵</nuxt-link
               >。
             </li>
             <li>
@@ -802,7 +802,7 @@
             <td class="unit3">類型</td>
             <td class="unit4">
               <nuxt-link to="/units/Archer_Units">射手</nuxt-link>、<nuxt-link
-                to="/Cavalry_Units"
+                to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               >
             </td>

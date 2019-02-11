@@ -12,7 +12,7 @@
             >在軍營研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >對
-            <nuxt-link to="/armor/Armor_Class_Standard_Building"
+            <nuxt-link to="/armor/Armor_Class_standard_building"
               >標準建築</nuxt-link
             >傷害+2，於<nuxt-link to="/games/ak">非洲王朝</nuxt-link
             >資料片後出現。
@@ -34,7 +34,7 @@
             <li>
               某些文明可以短時間生產大量步兵，縱火讓他們省去了研發與生產攻城武器的費用，比方<nuxt-link
                 to="/civs/Ethiopians"
-                >衣索匹亞</nuxt-link
+                >衣索比亞</nuxt-link
               >、 <nuxt-link to="/civs/Goths">哥德</nuxt-link>。
             </li>
           </ul>

@@ -13,7 +13,7 @@
               <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link
                 to="#a2"
                 >【聖女貞德】</nuxt-link
-              >、 <nuxt-link to="#a3">【薩拉丁】</nuxt-link>、<nuxt-link
+              >、 <nuxt-link to="#a3">【沙拉丁】</nuxt-link>、<nuxt-link
                 to="#a4"
                 >【成吉思汗】</nuxt-link
               >、<nuxt-link to="#a5">【巴巴羅薩】</nuxt-link>
@@ -21,7 +21,7 @@
             <p>
               征服者入侵戰役 ➠
               <nuxt-link to="#a6">【阿提拉】</nuxt-link>、<nuxt-link to="#a7"
-                >【席德】</nuxt-link
+                >【熙德】</nuxt-link
               >、<nuxt-link to="#a8">【蒙特蘇馬】</nuxt-link>、<nuxt-link
                 to="#a9"
                 >【征服者的戰役】</nuxt-link
@@ -45,7 +45,7 @@
               >、<nuxt-link to="#a18">【松迪亞塔】</nuxt-link>、<nuxt-link
                 to="#a19"
                 >【法蘭西斯科．阿爾梅達】</nuxt-link
-              >、<nuxt-link to="#a20">【遊娣特】</nuxt-link>
+              >、<nuxt-link to="#a20">【優娣忒】</nuxt-link>
             </p>
             <p>
               王者崛起戰役 ➠
@@ -222,7 +222,7 @@
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
                     <div id="a3">
-                      <nuxt-link to="/batt/Saladina">薩拉丁</nuxt-link>
+                      <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
                     </div>
                   </div>
                 </td>
@@ -360,7 +360,7 @@
                 <td class="unit" style="background-color:#c12420;">
                   <div class="unititle">
                     <div id="a5">
-                      <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
+                      <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>
                     </div>
                   </div>
                 </td>
@@ -507,7 +507,7 @@
                 <td class="unit" style="background-color:#2a22a7;">
                   <div class="unititle">
                     <div id="a7">
-                      <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
+                      <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>
                     </div>
                   </div>
                 </td>
@@ -541,7 +541,7 @@
                 <td>
                   <div class="unitcontent">
                     <nuxt-link to="/batt/The_Exile_of_the_Cid"
-                      >席德的流亡歲月</nuxt-link
+                      >熙德的流亡歲月</nuxt-link
                     >
                   </div>
                 </td>
@@ -1080,7 +1080,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/Bukhara_557"> 布哈拉（557）</nuxt-link>
+                    <nuxt-link to="/batt/Bukhara_557">布哈拉（557）</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1340,7 +1340,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/A_Son's_Blood">兒子的血仇</nuxt-link>
+                    <nuxt-link to="/batt/A_Sons_Blood">兒子的血仇</nuxt-link>
                   </div>
                 </td>
               </tr>
@@ -1352,7 +1352,7 @@
                 <td class="unit" style="background-color:#8a6d3b;">
                   <div class="unititle">
                     <div id="a20">
-                      <nuxt-link to="/batt/Yodita">遊娣特</nuxt-link>
+                      <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
                     </div>
                   </div>
                 </td>
@@ -1465,7 +1465,7 @@
               <tr>
                 <td>
                   <div class="unitcontent">
-                    <nuxt-link to="/batt/The_Pasunda_Bubat_Traged"
+                    <nuxt-link to="/batt/The_Pasunda_Bubat_Tragedy"
                       >風雲變色</nuxt-link
                     >
                   </div>
@@ -1479,7 +1479,7 @@
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
                     <div id="a22">
-                      <nuxt-link to="/batt/Suryavarman_Ia"
+                      <nuxt-link to="/batt/Suryavarman_I"
                         >蘇利耶跋摩一世</nuxt-link
                       >
                     </div>

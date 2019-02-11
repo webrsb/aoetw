@@ -131,7 +131,7 @@
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
               >：黑暗/封建/城堡/帝國時代的 城堡HP分別增加10%/20%/30%/40%。
-              <nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>免費。
+              <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：城堡便宜25％。
@@ -288,7 +288,7 @@
                   src="~assets/HandCannoneerIcon.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/units/Hand_Cannoneer">火槍手</nuxt-link>
+                /><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
               </td>
               <td class="tta2">18</td>
               <td class="tta3">19(額外15)</td>
@@ -325,7 +325,7 @@
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >，<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>。
+              >，<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -492,14 +492,14 @@
                 src="~assets/Townwatch.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>(+4)
+              /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮巡邏</nuxt-link>(+4)
+              /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
             </td>
           </tr>
           <tr>
@@ -510,7 +510,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%)
             </td>
           </tr>
@@ -588,7 +588,7 @@
               >現在會加成城堡的攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:引入<nuxt-link
                 to="/techs/Stronghold"
                 >堡壘</nuxt-link
               >。
@@ -599,7 +599,7 @@
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>:引入<nuxt-link
                 to="/techs/Boiling_Oil"
-                >熱油</nuxt-link
+                >沸油</nuxt-link
               >。
             </li>
           </ul>
@@ -642,7 +642,7 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"第一座城堡出現於公元9世紀的歐洲，是對當地主要堡壘的改善。城堡在戰術上是防禦性的，但也具有戰略上的攻擊性。因為如果有防禦妥當它們是難以奪取的。它們也提供了一個安全的基地，武裝部隊可以透過這個基地擴大對地方的控制。一位領主都有他們專屬的武裝部隊效忠於他。十世紀到十一世紀時城堡遍布歐洲，以應付來自北部和東部的軟弱的中央政權和野蠻人的襲擊。國王花費了中世紀的剩餘時間試圖奪回當地領主手中的城堡控制權。十五世紀的火炮發展終於讓城堡變得不再是那麼無堅不摧。"</em
+              >"第一座城堡出現於公元9世紀的歐洲，是對當地主要堡壘的改善。城堡在戰術上是防禦性的，但也具有戰略上的攻擊性。因為如果有防禦妥當它們是難以奪取的。它們也提供了一個安全的基地，武裝部隊可以透過這個基地擴大對地方的控制。一位領主都有他們專屬的武裝部隊效忠於他。十世紀到十一世紀時城堡遍布歐洲，以應付來自北部和東部的軟弱的中央政權和野蠻人的襲擊。國王花費了中世紀的剩餘時間試圖奪回當地領主手中的城堡控制權。十五世紀的火砲發展終於讓城堡變得不再是那麼無堅不摧。"</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
@@ -754,7 +754,7 @@
           <tr>
             <td class="unit3">護甲分類</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Building">建築（+8）</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>（+8）
               <br />
               <nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link

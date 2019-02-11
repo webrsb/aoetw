@@ -38,7 +38,7 @@
               >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>和
               <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
               >一樣是遠距離造成近戰傷害。飛刀女獵手的射程最長，攻擊最高，移動速度也最快。雖然缺乏基礎護甲和低HP，但還是能夠造成相當可觀的傷害。由於他們移動速度相當快，他們可以對除了
-              <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹戰士</nuxt-link
+              <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
               >以外的所有步兵使用打帶跑戰。若合理使用他們的攻擊範圍和高攻擊，他們仍舊可以擊敗<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
@@ -49,23 +49,23 @@
                 to="/units/Onager"
                 >中型投石車</nuxt-link
               >和
-              <nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link
+              <nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
               >，但是如果有良好的微操作，飛刀女獵手可以有效地靠近他們並將其摧毀。但需要注意的是，飛刀女獵手開火間隔頗長。拉打是不切實際的
             </li>
             <li>
               飛刀女獵手在某種程度上比<nuxt-link to="/units/Cavalry_Archer"
-                >馬騎弓兵</nuxt-link
+                >馬弓騎兵</nuxt-link
               >好用，第一，飛刀女獵手是近戰傷害，他們可以輕易摧毀那些有高遠程護甲的單位，如:
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >。馬騎弓兵即便完全升級後對上這些單位仍非常頭痛。第二，飛刀女獵手不怕
+              >。馬弓騎兵即便完全升級後對上這些單位仍非常頭痛。第二，飛刀女獵手不怕
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
               >。最後，馬利沒有<nuxt-link to="/techs/Bracer">護腕</nuxt-link
               >科技，而且完全升級後的精銳飛刀女獵手會比<nuxt-link
                 to="/units/Heavy_Cavalry_Archer"
-                >重裝馬騎弓兵</nuxt-link
+                >重裝馬弓騎兵</nuxt-link
               >有更遠射程和攻擊力。
             </li>
             <li>
@@ -114,7 +114,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -189,7 +189,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -351,7 +351,7 @@
         以下技術可讓以下單位對飛刀女獵手有額外攻擊力
         <div class="n1">
           <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -384,7 +384,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
@@ -417,7 +417,7 @@
                 to="/units/Archer"
                 >弓兵</nuxt-link
               >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、和
-              <nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>並列。
+              <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>並列。
             </li>
             <li>飛刀女獵手死亡的聲音與女村民相同。</li>
             <li>史實上的飛刀女獵手實際上是拿火槍。</li>

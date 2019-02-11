@@ -89,7 +89,9 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/Gunpowder_Unit">攻城武器</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                >攻城武器</nuxt-link
+              >
             </td>
           </tr>
           <tr>

@@ -70,7 +70,7 @@
                   class="gg"
                   src="~assets/Joanofarcicon.png"
                   alt=""
-                /><nuxt-link to="/Joan_of_Arc_units/Champion"
+                /><nuxt-link to="/units/hero/Joan_of_Arc_Champion"
                   >聖女貞德</nuxt-link
                 >
               </li>
@@ -174,7 +174,7 @@
                   class="gg"
                   src="~assets/HeavyScorpionIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Heavy_Scorpion">重裝弩砲</nuxt-link>*2
+                /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>*2
               </li>
             </ul>
           </div>

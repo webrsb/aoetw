@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             傭兵或稱僱傭兵，是<nuxt-link to="/civs/Italians">義大利</nuxt-link
-            >的第二種特殊單位，能夠在帝王時代的兵營中訓練。在失落的帝國資料片中義大利還是要建城堡才能生產傭兵。傭兵是個可以共享的特殊單位，任何與義大利同盟的國家都能生產，可說是
+            >的第二種特殊單位，能夠在帝王時代的軍營中訓練。在失落的帝國資料片中義大利還是要建城堡才能生產傭兵。傭兵是個可以共享的特殊單位，任何與義大利同盟的國家都能生產，可說是
             <nuxt-link to="/Team_Bonus">團隊加分</nuxt-link>。與<nuxt-link
               to="/civs/Berbers"
               >柏柏</nuxt-link
@@ -27,7 +27,7 @@
               >或<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>搭配的
               <nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
               >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link
-              >或是<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
+              >或是<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </li>
             <li>
               傭兵的另一個優勢是其對反步兵單位的攻擊有+10防禦。這個防禦獎勵可以讓他們抵銷<nuxt-link
@@ -68,8 +68,7 @@
               >，而是將傭兵作為馬來軍隊的後盾，利用傭兵的速度對付那些火藥和弓箭手單位(搭配<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >和
-              <nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>)。
+              >和 <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>)。
             </li>
             <li>
               有劍兵勇士文明在特定情況可考慮使用傭兵，特別是敵人使用許多反步兵單位的話。例如，馬利的傭兵可以加上<nuxt-link
@@ -118,15 +117,15 @@
                 to="/units/Janissary"
                 >土耳其火槍兵</nuxt-link
               >、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>、
-              <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link
-              >、<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
+              <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+              >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
-              >、<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
               >、
@@ -135,7 +134,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -245,7 +244,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -281,7 +280,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:兵營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -421,7 +420,7 @@
           技術:以下技術會給以下單位對傭兵有額外攻擊。
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -461,11 +460,11 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：傭兵便宜35%並對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link
+              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的速度快100%。
             </li>
@@ -473,7 +472,7 @@
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：傭兵攻速快33%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：<nuxt-link
                 to="/techs/Forging"
                 >鍛造</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
@@ -490,7 +489,7 @@
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >免費。
             </li>
             <li>
@@ -522,7 +521,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：傭兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -609,9 +608,9 @@
             </li>
             <li>
               哥德傭兵為訓練速度第三快的單位，僅輸給<nuxt-link
-                to="/units/Karambit_Warrior"
+                to="/units/Shotel_Warrior"
                 >彎刀勇士</nuxt-link
-              >與<nuxt-link to="/units/Shotel_Warrior">爪刀勇士</nuxt-link>。
+              >與<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>。
             </li>
             <li>
               傭兵和<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link
@@ -743,7 +742,7 @@
             <td class="unit4">
               對<nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
-              >+10 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >+10 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >+2
             </td>

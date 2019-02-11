@@ -11,7 +11,7 @@
             徵兵制度可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
-            <nuxt-link to="/building/Barracks">兵營</nuxt-link>、<nuxt-link
+            <nuxt-link to="/building/Barracks">軍營</nuxt-link>、<nuxt-link
               to="/building/Archery_Range"
               >射箭場</nuxt-link
             >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>和
@@ -129,7 +129,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">兵營、射箭場、馬廄和城堡的單位訓練速度快33%。</td>
+            <td class="unit4">軍營、射箭場、馬廄和城堡的單位訓練速度快33%。</td>
           </tr>
         </table>
 

@@ -150,7 +150,7 @@
               </div>
             </div>
             <br />
-            <h2>斥侯回報</h2>
+            <h2>斥候回報</h2>
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
@@ -299,7 +299,7 @@
               <tr>
                 <td class="unit3">版本</td>
                 <td class="unit4">
-                  <nuxt-link to="/batt/ak">非洲王國</nuxt-link>
+                  <nuxt-link to="/games/ak">非洲王國</nuxt-link>
                 </td>
               </tr>
               <tr>

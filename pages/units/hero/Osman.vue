@@ -59,7 +59,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">+10對一般建築物 <br />+6對槍兵類</td>
+            <td class="unit4">+10對標準建築 <br />+6對槍兵類</td>
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>

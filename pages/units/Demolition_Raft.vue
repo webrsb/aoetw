@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             自爆筏是<nuxt-link to="/games/ak">《世界帝國:非洲王朝》</nuxt-link
-            >資料片中首次登場，在封建時代的碼頭可以訓練。在戰船升級成弩炮戰船時，自爆筏會自動升級為神風船。
+            >資料片中首次登場，在封建時代的碼頭可以訓練。在戰船升級成弩砲戰船時，自爆筏會自動升級為神風船。
           </p>
           <p>
             自爆筏上裝滿了爆炸物，可以對敵方的船隻，碼頭，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。
@@ -144,7 +144,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -181,7 +181,7 @@
                       class="gg"
                       src="~assets/GalleonAoE2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Galleon">重型弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
@@ -227,7 +227,7 @@
                       src="~assets/WarGalley.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Galley">弩炮戰船</nuxt-link>
+                    /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -250,10 +250,8 @@
                       src="~assets/Dockicon.png"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/building/Dock">海港</nuxt-link>(<nuxt-link
-                      to="/civs/Malay"
-                      >馬來</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Harbor">海港</nuxt-link
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -552,7 +550,7 @@
           <ul>
             <li>
               自爆筏、<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
-              >和<nuxt-link to="/units/War_Galley">戰船</nuxt-link
+              >和<nuxt-link to="/units/Galley">戰船</nuxt-link
               >是唯一共用升級科技的單位。
             </li>
             <li>

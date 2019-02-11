@@ -17,7 +17,7 @@
         <div class="n1">
           <p>通常可以在地圖上很多的木材，每棵樹有100木ㄓㄞ。</p>
         </div>
-        <h3>市場</h3>
+        <h3>市集</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
@@ -43,26 +43,25 @@
               >:村民資源攜帶量+5。
             </li>
             <li>
-              <nuxt-link to="/civs/Aztecs">賽爾特</nuxt-link
-              >:村民伐木速度快15%。
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:村民伐木速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">條頓</nuxt-link>:農田成本便宜33%。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:農田成本便宜33%。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">維京</nuxt-link
               >:碼頭成本減少15%。(團隊加成)
             </li>
             <li>
-              <nuxt-link to="/civs/Koreans">波斯</nuxt-link
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link
               >:遊戲一開始多50木材。
             </li>
             <li>
-              <nuxt-link to="/civs/Mayans">薩拉森</nuxt-link
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >:市場建造只要100木材。
             </li>
             <li>
-              <nuxt-link to="/civs/Mayans">日本</nuxt-link
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link
               >:伐木場、採礦營地、磨坊建造成本減少50%。
             </li>
             <li>

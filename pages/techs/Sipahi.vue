@@ -33,7 +33,7 @@
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >馬弓騎兵開火速度+20%；
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >馬弓騎兵+1攻擊和+1射程範圍)。
             </li>
           </ul>

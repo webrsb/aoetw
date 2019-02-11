@@ -17,7 +17,7 @@
         <div class="n1">
           <p>通常可以在地圖上找到2~5塊石礦，每塊有350石頭。</p>
         </div>
-        <h3>市場</h3>
+        <h3>市集</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
@@ -55,7 +55,7 @@
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:石礦採集速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Mayans">瑪雅</nuxt-link>:自然資源存量+15%。
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:自然資源存量+15%。
             </li>
           </ul>
         </div>

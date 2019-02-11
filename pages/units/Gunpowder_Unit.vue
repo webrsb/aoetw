@@ -21,7 +21,7 @@
               to="/units/Janissary"
               >土耳其火槍兵</nuxt-link
             >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>、
-            <nuxt-link to="/units/Organ_Gun">風琴炮</nuxt-link>、<nuxt-link
+            <nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>、<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
             >這些屬於文明的特殊火藥單位則可以在不用研發化學的前提下在城堡時代訓練。
@@ -33,7 +33,7 @@
             >， <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>，<nuxt-link
               to="/civs/Incas"
               >印加人</nuxt-link
-            >和<nuxt-link to="/civs/Mayans">瑪雅人</nuxt-link
+            >和<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
             >必須靠招降才能擁有火藥單位。
           </p>
         </div>
@@ -97,7 +97,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/BombardCannonIcon.jpg" /><nuxt-link
                   to="/units/Bombard_Cannon"
-                  >火炮</nuxt-link
+                  >火砲</nuxt-link
                 >
               </td>
               <td class="tta3">80</td>
@@ -121,7 +121,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
                   to="/units/Cannon_Galleon"
-                  >火炮戰船</nuxt-link
+                  >火砲戰船</nuxt-link
                 >
               </td>
               <td class="tta3">120</td>
@@ -145,7 +145,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
                   to="/units/Cannon_Galleon"
-                  >精銳火炮戰船</nuxt-link
+                  >精銳火砲戰船</nuxt-link
                 >
               </td>
               <td class="tta3">150</td>
@@ -313,7 +313,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/OrganGunIcon.jpg" /><nuxt-link
                   to="/units/Organ_Gun"
-                  >風琴炮</nuxt-link
+                  >風琴砲</nuxt-link
                 >
               </td>
               <td class="tta3">60</td>
@@ -337,7 +337,7 @@
               <td class="tta1">
                 <img class="gg" src="~assets/OrganGunIcon.jpg" /><nuxt-link
                   to="/units/Organ_Gun"
-                  >精銳風琴炮</nuxt-link
+                  >精銳風琴砲</nuxt-link
                 >
               </td>
               <td class="tta3">70</td>

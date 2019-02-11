@@ -87,7 +87,7 @@
                   class="gg"
                   src="~assets/EagleScoutIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/EagleWarriorIcon.jpg"
@@ -102,7 +102,7 @@
                   class="gg"
                   src="~assets/ScoutCavalryIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Scout_Cavalry">斥侯騎兵</nuxt-link>
+                /><nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link>
               </li>
             </ul>
           </div>

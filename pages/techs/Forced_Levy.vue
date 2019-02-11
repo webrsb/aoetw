@@ -13,7 +13,7 @@
               >帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後兵營步兵單位不需花費黃金。
+            >研發。研發後軍營步兵單位不需花費黃金。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -35,7 +35,7 @@
                 >馬扎爾</nuxt-link
               >研發
               <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
-              >後的<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link
+              >後的<nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
               >一樣不用黃金就能生產。
             </li>
           </ul>
@@ -121,7 +121,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">兵營步兵單位不需花費黃金。</td>
+            <td class="unit4">軍營步兵單位不需花費黃金。</td>
           </tr>
         </table>
 

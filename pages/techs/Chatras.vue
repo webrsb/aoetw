@@ -29,10 +29,10 @@
                 to="/units/Archer_Units"
               ></nuxt-link
               >弓兵的肉盾。一個全升級有
-              <nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link
               >和恰特拉傘的精銳矛象伕有350HP，僅輸給<nuxt-link
                 to="/units/War_Elephant"
-                >波斯戰象</nuxt-link
+                >戰象</nuxt-link
               >（620HP），並與
               <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
               >（350HP）並列。

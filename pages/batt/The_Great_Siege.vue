@@ -129,12 +129,12 @@
                 </li>
               </ul>
             </div>
-            <h3>斥侯</h3>
+            <h3>斥候</h3>
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
                 <li>
-                  您的斥侯回報：安德里亞斯‧諾蒂卡斯正和巴里的郡守斯蒂芬諾斯‧派特拉諾斯一起。
+                  您的斥候回報：安德里亞斯‧諾蒂卡斯正和巴里的郡守斯蒂芬諾斯‧派特拉諾斯一起。
                 </li>
                 <li>
                   巴里城（紫色）是一個位於亞得里亞海岸熙攘的港口城市。但現在被諾曼大軍圍攻。
@@ -243,7 +243,7 @@
             <td class="unit3">上一關</td>
             <td class="unit4">
               <nuxt-link to="/batt/The_Rebellion_of_Melus"
-                >梅勒斯叛變</nuxt-link
+                >邁勒斯叛變</nuxt-link
               >
             </td>
           </tr>

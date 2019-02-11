@@ -23,7 +23,7 @@
             <li>
               戰狼的研發可讓不列顛的巨型投石機擁有如投石車般的範圍傷害。投石機的一擊可以擊殺任何一個血量不高的單位，有戰狼後一擊可以是多個單位，而且也能更有效地對付敵方
               <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
-              >和<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
+              >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </li>
           </ul>
         </div>

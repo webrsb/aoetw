@@ -151,7 +151,7 @@
             </ul>
           </div>
         </div>
-        <h2>斥侯回報</h2>
+        <h2>斥候回報</h2>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

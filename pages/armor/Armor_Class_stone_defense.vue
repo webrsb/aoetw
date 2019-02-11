@@ -41,7 +41,7 @@
                 width="25px"
                 src="~assets/Gateicon.png"
                 alt=""
-              /><nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>
+              /><nuxt-link to="/building/Gate">城門</nuxt-link>
             </li>
             <li>
               <img
@@ -73,7 +73,7 @@
                 width="25px"
                 src="~assets/Bombardtowericon.png"
                 alt=""
-              /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+              /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
             </li>
             <li>
               <img
@@ -81,7 +81,8 @@
                 width="25px"
                 src="~assets/Dockicon.png"
                 alt=""
-              /><nuxt-link to="">海港</nuxt-link>(<nuxt-link to="/civs/Malians"
+              /><nuxt-link to="/building/Harbor">海港</nuxt-link>(<nuxt-link
+                to="/civs/Malay"
                 >馬來</nuxt-link
               >限定)
             </li>
@@ -142,8 +143,7 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Elephant"
-                      >精銳波斯戰象</nuxt-link
+                    /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
                     >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
                   </li>
                 </ul>
@@ -164,7 +164,7 @@
                       src="~assets/WarElephantIcon.jpg"
                       width="22"
                       alt=""
-                    /><nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link
+                    /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link
                     >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
                   </li>
                 </ul>
@@ -259,10 +259,8 @@
                 src="~assets/CastleAgeUnique.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/techs/Sappers">黑曜石之弓</nuxt-link>(<nuxt-link
-                to="/civs/Mayans"
-                >馬雅</nuxt-link
-              >限定)
+              /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+              >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>限定)
             </p>
             <ul>
               <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>

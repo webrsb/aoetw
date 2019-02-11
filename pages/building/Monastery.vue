@@ -267,7 +267,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >(+20%建造效率)
               </td>
             </tr>
@@ -322,10 +322,10 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
-                  to="/techs/Town_Watch"
+                  to="/techs/Masonry"
                   >磚瓦技術</nuxt-link
-                >、<nuxt-link to="/techs/Town_Watch"> 建築學</nuxt-link>、
-                <nuxt-link to="/techs/Town_Watch">滑輪起重機</nuxt-link
+                >、<nuxt-link to="/techs/Architecture">建築學</nuxt-link>、
+                <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >科技的時間加快80%
               </li>
             </ul>

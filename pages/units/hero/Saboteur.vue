@@ -65,7 +65,7 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加城</td>
-            <td class="unit4">對建築+500 <br />對石造建築+500</td>
+            <td class="unit4">對建築+500 <br />對石頭建築+500</td>
           </tr>
           <tr>
             <td class="unit3">濺射範圍</td>

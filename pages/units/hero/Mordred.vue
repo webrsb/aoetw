@@ -45,7 +45,7 @@
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >，大部分近戰單位，
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>。
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </td>
           </tr>
           <tr>

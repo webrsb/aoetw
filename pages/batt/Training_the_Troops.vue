@@ -39,7 +39,7 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家1</div></td>
-              <td class="tc6" colspan="3">塞爾特人（藍色）</td>
+              <td class="tc6" colspan="3">賽爾特人（藍色）</td>
             </tr>
           </table>
 

@@ -13,7 +13,7 @@
               >帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Trade_Cart">貿易馬車</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
             >、<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link>造價減半。
           </p>
         </div>
@@ -112,7 +112,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">貿易馬車、貿易商旅造價減半。</td>
+            <td class="unit4">貿易車隊、貿易商旅造價減半。</td>
           </tr>
         </table>
 

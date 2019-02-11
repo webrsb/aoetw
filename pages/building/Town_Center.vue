@@ -279,7 +279,7 @@
                   src="~assets/Treadmillcrane.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+                /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
                 >(+20%工作效率)
               </td>
             </tr>
@@ -298,7 +298,7 @@
                   src="~assets/Unique-tech.jpg"
                   width="30"
                   alt=""
-                /><nuxt-link to="/techs/Crenellations">剁口</nuxt-link
+                /><nuxt-link to="/techs/Crenellations">垛口</nuxt-link
                 >:步兵駐守也可放箭，<nuxt-link to="/civs/Teutons"
                   >條頓</nuxt-link
                 >限定

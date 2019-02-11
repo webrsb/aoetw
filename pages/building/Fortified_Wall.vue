@@ -33,7 +33,7 @@
               垛牆的位置可挑選在某些如森林缺口、湖畔、峭壁地形，或是與金礦石礦做連結達到防禦作用，垛牆也可用於塔攻時保護箭塔，保護村民採集資源；也可在
               <nuxt-link to="/building/House">房屋</nuxt-link
               >旁邊圍一排牆強迫敵人走進城鎮中心的射程範圍。設置<nuxt-link
-                to="/building/Gateicon_Gate"
+                to="/building/Gate"
                 >城門</nuxt-link
               >則可讓友軍單位穿過城牆，同時阻止敵方單位進入。
             </li>
@@ -53,9 +53,7 @@
                     class="glyphicon glyphicon-ok okc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -96,9 +94,7 @@
                     class="glyphicon glyphicon-remove noc"
                     aria-hidden="true"
                   ></span
-                  ><span class="" style="margin-left: 2px;"
-                    >不可研發</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
@@ -151,7 +147,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%工作效率)
             </td>
           </tr>
@@ -189,7 +185,7 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Treadmill_Crane"
-                >踏輪起重機</nuxt-link
+                >滑輪起重機</nuxt-link
               >團隊速度提高80%。
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：垛牆便宜50%</li>
@@ -320,7 +316,7 @@
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_wall_and_gate"

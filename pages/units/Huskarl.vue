@@ -31,7 +31,7 @@
                 >馬弓騎兵</nuxt-link
               >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、
               <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
-              >和<nuxt-link to="/units/War_Wagon">韓國馬戰車</nuxt-link
+              >和<nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link
               >）。因為他們可以選擇逃跑或是遠距離慢慢消耗哥德衛隊的血量。
             </li>
             <li>
@@ -48,8 +48,9 @@
               >）的近戰單位，或對他們（<nuxt-link to="/units/Jaguar_Warrior"
                 >豹勇士</nuxt-link
               >、
-              <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
-              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
+              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>、<nuxt-link
+                to="/units/Samurai"
+                >日本武士</nuxt-link
               >）有攻擊加成的單位戰鬥。因為它們對哥德衛隊是致命的。
               <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
                 to="/units/Battle_Elephant"
@@ -63,7 +64,7 @@
             <li>
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link
               >能有效用範圍傷害對付哥德衛隊，而<nuxt-link to="/units/Scorpion"
-                >弩炮</nuxt-link
+                >弩砲</nuxt-link
               >因為是穿甲傷害所以無法在哥德衛隊接近它前造成大量傷害而容易被殲滅。
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >可對哥德衛隊造成極大傷害，但需要<nuxt-link
@@ -90,7 +91,7 @@
                 to="/building"
                 >建築物</nuxt-link
               >和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
-              <nuxt-link to="/units/Scorpion">弩炮</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >。
@@ -104,7 +105,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -179,7 +180,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -209,7 +210,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:兵營工作速率加快2倍，只限兵營訓練的哥德衛隊
+              >:軍營工作速率加快2倍，只限軍營訓練的哥德衛隊
             </td>
           </tr>
           <tr>
@@ -221,7 +222,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
-              >:兵營可生產哥德衛隊。
+              >:軍營可生產哥德衛隊。
             </td>
           </tr>
         </table>
@@ -354,7 +355,7 @@
           技術:以下技術會給以下單位對哥德衛隊有額外攻擊。
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -403,7 +404,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
@@ -454,7 +455,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>

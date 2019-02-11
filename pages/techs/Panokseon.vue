@@ -25,7 +25,7 @@
                 >失落的帝國</nuxt-link
               >資料片中，板屋船的引進可以修補這個問題。雖然<nuxt-link
                 to="/units/Galleon"
-                >重型弩炮戰船</nuxt-link
+                >重型弩砲戰船</nuxt-link
               >還是可以對龜甲船作打帶跑，但是這需要更多的微操作而且不具效益。由於缺乏
               <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
               >，在海岸邊轟炸的龜甲船很容易就被<nuxt-link to="/units/Monk"

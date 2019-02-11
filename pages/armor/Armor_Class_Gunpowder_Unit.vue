@@ -40,7 +40,7 @@
                 style="margin: 2px;"
                 src="~assets/Bombardtowericon.png"
                 alt=""
-              /><nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>
+              /><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/JanissaryIcon.jpg" alt="" />
@@ -58,18 +58,18 @@
             </li>
             <li>
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
-              <nuxt-link to="/units/Organ_Gun">風琴炮</nuxt-link>→
+              <nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>→
               <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />
-              <nuxt-link to="/units/Organ_Gun">精銳風琴炮</nuxt-link>(<nuxt-link
+              <nuxt-link to="/units/Organ_Gun">精銳風琴砲</nuxt-link>(<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >限定)
             </li>
             <li>
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-              <nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>→
+              <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-              <nuxt-link to="/units/Cannon_Galleon">精銳火炮戰船</nuxt-link>
+              <nuxt-link to="/units/Cannon_Galleon">精銳火砲戰船</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
@@ -84,7 +84,7 @@
                 style="margin: 2px;"
                 src="~assets/Bombardtowericon.png"
                 alt=""
-              /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+              /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
             </li>
           </ul>
         </div>

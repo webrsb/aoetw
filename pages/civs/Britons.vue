@@ -16,7 +16,7 @@
             >。長弓兵是弓箭手，比起其他所有弓兵單位來，有更高的攻擊力和射程。英格蘭有一段時間禁止其他運動，只允許射箭，因此不列顛的弓箭遠比其他文明來的熟練和更具破壞力。英格蘭遍布各地的小村莊使得城鎮中心擁有50%木材減免，另外有著遠近馳名的牧羊技術。
           </p>
           <p>
-            不列顛的後代與蘇格蘭、愛爾蘭、塞爾特..等文明組成了現今的英國(大不列顛與北愛爾蘭聯合王國)。
+            不列顛的後代與蘇格蘭、愛爾蘭、賽爾特..等文明組成了現今的英國(大不列顛與北愛爾蘭聯合王國)。
           </p>
         </div>
         <h3>概要</h3>
@@ -33,7 +33,7 @@
           >以外科技是相當完善的，在<nuxt-link to="/units/Siege_Weapons"
             >攻城單位</nuxt-link
           >上缺乏<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>與
-          <nuxt-link to="Siege_units/Onager">重型投石車</nuxt-link
+          <nuxt-link to="/Siege_units/Onager">重型投石車</nuxt-link
           >相對應的給予獨特的<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
           >(要研發科技)
           <h3>戰術</h3>
@@ -149,7 +149,7 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/Richard_coeur_de_lion.jpg" alt="" />
-                <p><em>獅心王理查一世</em></p>
+                <p><em>獅心王查理一世</em></p>
               </div>
             </td>
           </tr>

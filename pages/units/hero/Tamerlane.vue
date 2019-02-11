@@ -14,9 +14,7 @@
             >
             <nuxt-link to="/units/Archer_Units">射手</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link
-            >，也可在地圖編輯器中使用。史實中的他是<nuxt-link to="/civs/Turks"
-              >突厥</nuxt-link
-            >化
+            >，也可在地圖編輯器中使用。史實中的他是突厥化
             <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
             >的統治者，最著名的事蹟是在中亞建立了帖木兒王朝，企圖恢復蒙古帝國在<nuxt-link
               to="/units/hero/Genghis_Khan"
@@ -26,7 +24,7 @@
           </p>
           <p>
             帖木兒在遊戲中以<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
-            >的外型出現，和其他馬弓騎兵一樣，會受到影響馬騎弓兵的升級和家成影響。由於他是一名英雄，因此不會被招降且會自動回血。(自征服者入侵版本以後)。
+            >的外型出現，和其他馬弓騎兵一樣，會受到影響馬弓騎兵的升級和家成影響。由於他是一名英雄，因此不會被招降且會自動回血。(自征服者入侵版本以後)。
           </p>
         </div>
       </div>

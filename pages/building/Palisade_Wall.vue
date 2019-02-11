@@ -17,7 +17,7 @@
           <div class="col-md-12">
             <div class="n1">
               <li>
-                巧妙地使用木牆可以爭取幾秒鐘的時間來防止敵人的進攻。由於歌德人沒有石牆，在某些情況下木牆就作為廉價的替代品。其他文明的玩家如果缺乏石頭並且需要迅速阻擋對手的攻勢時，木牆是非常好的城牆替代品。
+                巧妙地使用木牆可以爭取幾秒鐘的時間來防止敵人的進攻。由於哥德人沒有石牆，在某些情況下木牆就作為廉價的替代品。其他文明的玩家如果缺乏石頭並且需要迅速阻擋對手的攻勢時，木牆是非常好的城牆替代品。
               </li>
               <li>
                 木牆在初期能有效阻擋對手進攻，但若玩家選擇打保守，那後期還是要用城牆/垛牆取代木牆做防守。
@@ -76,7 +76,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%工作效率)
             </td>
           </tr>
@@ -110,7 +110,7 @@
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
                 to="/techs/Treadmill_Crane"
-                >踏輪起重機</nuxt-link
+                >滑輪起重機</nuxt-link
               >的速度提高80%。
             </li>
             <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：木牆便宜50%</li>
@@ -243,7 +243,7 @@
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_wall_and_gate"
-                >城門和城牆</nuxt-link
+                >牆與門</nuxt-link
               >
             </td>
           </tr>

@@ -37,7 +37,8 @@
               所有的步兵都需要黃金和食物訓練，而槍兵系是唯一的例外，他需要食物與木材。雖然大部分的步兵懼怕弓兵單位與騎兵單位，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:
               <nuxt-link to="/units/Archer">弓箭手</nuxt-link
               >通常可以配合<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-              >，而騎兵則是搭配<nuxt-link to="/units/Pikeman">槍兵</nuxt-link>。
+              >，而騎兵則是搭配<nuxt-link to="/units/Spearman">槍兵</nuxt-link
+              >。
             </li>
             <li>由於速度很慢又是近戰，步兵很怕僧侶。</li>
             <li>
@@ -82,7 +83,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>:<nuxt-link
-                to="/units/Pikeman"
+                to="/units/Spearman"
                 >長槍兵</nuxt-link
               >便宜25%。
             </li>
@@ -96,7 +97,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >:步兵便宜35%，步兵對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築有</nuxt-link
               >+1攻擊。
             </li>
@@ -106,7 +107,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >:兵營的步兵單位從封建/城堡/帝王各有+1/+2/+3的遠防。
+              >:軍營的步兵單位從封建/城堡/帝王各有+1/+2/+3的遠防。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:追蹤技術是免費的。
@@ -333,7 +334,7 @@
                   class="gg"
                   src="~assets/EagleScoutIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>
+                /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
               </td>
               <td class="tta3">50</td>
               <!--生命值!-->
@@ -875,7 +876,7 @@
                   class="gg"
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
-                /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>
+                /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>
               </td>
               <td class="tta3">30</td>
               <!--生命值!-->
@@ -899,7 +900,7 @@
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
                 /><nuxt-link to="/units/Karambit_Warrior"
-                  >精銳爪刀勇士</nuxt-link
+                  >精銳彎刀勇士</nuxt-link
                 >
               </td>
               <td class="tta3">40</td>
@@ -933,7 +934,7 @@
               <td class="tunitc6">
                 <img class="gg" src="~assets/Tracking.jpg" alt="" /><nuxt-link
                   to="/techs/Tracking"
-                  >追縱技術</nuxt-link
+                  >追蹤技術</nuxt-link
                 >
               </td>
               <td class="tunitc4">封建</td>
@@ -961,7 +962,7 @@
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">150F 50G</td>
               <td class="tunitc6">
-                步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+                步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
                   >標準建築</nuxt-link
                 >
               </td>
@@ -1142,7 +1143,7 @@
               </td>
               <td class="tunitc5">450F 250G</td>
               <td class="tunitc6">
-                兵營可以訓練<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+                軍營可以訓練<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
                 >。
               </td>
             </tr>
@@ -1211,7 +1212,7 @@
                 <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>
               </td>
               <td class="tunitc5">400W 600G</td>
-              <td class="tunitc6">兵營工作速度加倍。</td>
+              <td class="tunitc6">軍營工作速度加倍。</td>
             </tr>
             <tr>
               <td class="tunitc6">

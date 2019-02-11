@@ -149,7 +149,7 @@
                     <li>
                       本關名稱＂Nirvanapada＂為蘇利耶跋摩一世之高棉語尊稱。
                     </li>
-                    <li>本關無法建造火炮戰艦，意味著岸轟戰術無法實行。</li>
+                    <li>本關無法建造火砲戰艦，意味著岸轟戰術無法實行。</li>
                     <li>
                       礦產資源不像提示說的那麼少，如果你願意多往泰國境內探勘的話。
                     </li>
@@ -218,7 +218,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link>
+              <nuxt-link to="/batt/Suryavarman_I">蘇利耶跋摩一世</nuxt-link>
             </td>
           </tr>
           <tr>

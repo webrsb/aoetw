@@ -124,7 +124,7 @@
               <li>這場戰役發生在黑火藥武器尚未發明的朝代。</li>
             </ul>
           </div>
-          <h3>斥侯</h3>
+          <h3>斥候</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
@@ -313,7 +313,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Cyprus(1191)">塞普勒斯（1191）</nuxt-link>
+              <nuxt-link to="/batt/Cyprus_1191">塞普勒斯（1191）</nuxt-link>
             </td>
           </tr>
         </table>

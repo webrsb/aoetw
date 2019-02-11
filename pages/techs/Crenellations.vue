@@ -25,7 +25,7 @@
               >單位和<nuxt-link to="/units/Villager">村民</nuxt-link
               >可以讓箭塔、
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-              >和城堡多射額外的箭，而步兵則不會。垛口可讓步兵駐紮這些建築物時也能提供額外箭矢，但火炮塔並不受垛口影響，因為只有駐紮<nuxt-link
+              >和城堡多射額外的箭，而步兵則不會。垛口可讓步兵駐紮這些建築物時也能提供額外箭矢，但火砲塔並不受垛口影響，因為只有駐紮<nuxt-link
                 to="/units/Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >才能增加它的開火數。

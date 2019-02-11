@@ -50,7 +50,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >:火炮戰船受彈道學影響。
+              >:火砲戰船受彈道學影響。
             </li>
           </ul>
           <h3>
@@ -59,7 +59,7 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >:即使沒有研發彈道學火炮戰船的攻擊自身有彈道學。
+              >:即使沒有研發彈道學火砲戰船的攻擊自身有彈道學。
             </li>
           </ul>
         </div>
@@ -113,7 +113,7 @@
                 class="gg"
                 src="~assets/Universityicon.png"
                 alt=""
-              /><nuxt-link to="/building/Archery_Range">學院</nuxt-link>
+              /><nuxt-link to="/building/University">學院</nuxt-link>
             </td>
           </tr>
           <tr>

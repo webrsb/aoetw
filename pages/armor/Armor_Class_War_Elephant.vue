@@ -10,7 +10,7 @@
           <em
             >這篇文章是將有關於戰象系裝甲的。而關於戰象單位這個兵種的資料請參見<nuxt-link
               to="/units/War_Elephant"
-              >波斯戰象</nuxt-link
+              >戰象</nuxt-link
             ></em
           >
         </div>
@@ -44,13 +44,13 @@
                 src="~assets/WarElephantIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/War_Elephant">波斯戰象</nuxt-link>→
+              /><nuxt-link to="/units/War_Elephant">戰象</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/WarElephantIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/War_Elephant">精銳波斯戰象</nuxt-link
+              /><nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link
               >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>限定)
             </li>
             <li>
@@ -143,7 +143,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+7攻擊</strong></div>

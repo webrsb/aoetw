@@ -251,7 +251,7 @@
               <p>
                 <img src="~assets/Tracking.jpg" width="30" alt="" /><nuxt-link
                   to="/techs/Tracking"
-                  >追縱技術</nuxt-link
+                  >追蹤技術</nuxt-link
                 >(+2)
               </p>
             </td>

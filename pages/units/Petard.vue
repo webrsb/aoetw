@@ -206,11 +206,11 @@
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >、近戰單位特別是
-              <nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>。
+              <nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -411,7 +411,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               +900對<nuxt-link to="/armor/Armor_Class_wall_and_gate"
-                >牆和門</nuxt-link
+                >牆與門</nuxt-link
               >
               <br />+500對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link

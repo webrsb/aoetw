@@ -15,7 +15,7 @@
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。風琴砲是攻城武器部隊前方範圍傷害，對衝撞車系列有加成傷害，少數在城堡時代就可訓練的火藥單位。
           </p>
-          <p><em>風琴炮介紹影片</em></p>
+          <p><em>風琴砲介紹影片</em></p>
           <iframe
             width="560"
             height="315"
@@ -70,7 +70,7 @@
                 to="/units/Condottiero"
                 >傭兵</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>、
-              <nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link>、<nuxt-link
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>、<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >
@@ -138,10 +138,10 @@
           </tr>
         </table>
 
-        <h3>剋手風琴炮的單位與建築</h3>
+        <h3>剋手風琴砲的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對手風琴炮的額外傷害，按造傷殺力排列。
+          以下單位擁有對手風琴砲的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
@@ -220,7 +220,7 @@
                       class="gg"
                       src="~assets/MangonelIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Mangonel">輕形投石車</nuxt-link>→
+                    /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
@@ -269,8 +269,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >精銳馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >精銳馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
@@ -300,8 +300,8 @@
                       width="22"
                       alt=""
                     /><nuxt-link to="/units/Magyar_Huszar"
-                      >馬札爾驃騎兵</nuxt-link
-                    >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+                      >馬扎爾驃騎兵</nuxt-link
+                    >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
@@ -311,7 +311,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>→
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/EagleWarriorIcon.jpg"
@@ -336,7 +336,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <p>葡萄牙:風琴炮黃金成本便宜15%。</p>
+            <p>葡萄牙:風琴砲黃金成本便宜15%。</p>
           </ul>
         </div>
         <h3>團隊加成</h3>
@@ -376,15 +376,15 @@
             <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
-            <li>手風琴炮有1的擴散攻擊。</li>
+            <li>手風琴砲有1的擴散攻擊。</li>
             <li>
-              手風琴炮<nuxt-link to="/armor/Armor_Class_Infantry"
+              手風琴砲<nuxt-link to="/armor/Armor_Class_Infantry"
                 >步兵單位</nuxt-link
               >攻擊+1。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >:手風琴炮一開始不售土耳其的團隊加成影響。直到4.8改版後才開始有影響訓練速度(+20%)。
+              >:手風琴砲一開始不售土耳其的團隊加成影響。直到4.8改版後才開始有影響訓練速度(+20%)。
             </li>
           </ul>
           <h3>
@@ -392,11 +392,11 @@
           </h3>
           <ul>
             <li>
-              手風琴炮對<nuxt-link to="/building">建築物</nuxt-link
+              手風琴砲對<nuxt-link to="/building">建築物</nuxt-link
               >不再有攻擊加成。
             </li>
-            <li>手風琴炮的最小攻擊距離為1。</li>
-            <li>5.7改版後手風琴炮現在有2的擴散攻擊。</li>
+            <li>手風琴砲的最小攻擊距離為1。</li>
+            <li>5.7改版後手風琴砲現在有2的擴散攻擊。</li>
           </ul>
         </div>
         <h3>豆知識</h3>
@@ -404,7 +404,7 @@
         <div class="n1">
           <ul>
             <li>
-              所有可攻擊的攻城單位中手風琴炮是唯一對<nuxt-link to="/building"
+              所有可攻擊的攻城單位中手風琴砲是唯一對<nuxt-link to="/building"
                 >建築物</nuxt-link
               >沒有攻擊加成的單位。
             </li>
@@ -618,13 +618,13 @@
                   src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o8_500.png"
                   alt=""
               /></gallery>
-              <p><em>一群手風琴炮。</em></p>
+              <p><em>一群手風琴砲。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/6.jpg" alt=""
               /></gallery>
-              <p><em>手風琴炮正防禦著敵人的突襲。</em></p>
+              <p><em>手風琴砲正防禦著敵人的突襲。</em></p>
             </div>
           </div>
         </div>

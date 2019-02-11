@@ -54,7 +54,7 @@
             <li>射箭孔讓箭塔能額外射3支箭。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aok">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>射箭孔現在的成本為300肉300木。</li>
@@ -66,7 +66,7 @@
         <div class="n1">
           <p>
             Yasama是日本城堡中箭頭的名字。 順便提一下，Arrowslits是<nuxt-link
-              to="/games/aok"
+              to="/games/ak"
               >非洲王朝</nuxt-link
             >引入的一項獨立技術的名稱。
           </p>

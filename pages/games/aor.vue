@@ -58,7 +58,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+              /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
               >:為馬來的特殊單位。是遊戲裡只佔半個人口的的單位，便宜/快速的單位，缺點是過於脆弱。
             </li>
             <li>
@@ -74,7 +74,7 @@
                 class="gg"
                 src="~assets/Imperialskirmishericon.png"
                 alt=""
-              /><nuxt-link to="/units/Imperial_Skirmisher">帝王戰茅兵</nuxt-link
+              /><nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
               >:帝王戰矛兵是越南第二個特殊單位，可以在射箭場訓練，是戰矛兵的升級，是一個反弓箭手的遠程單位。
             </li>
           </ul>

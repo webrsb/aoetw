@@ -9,13 +9,13 @@
         <div class="n1">
           <p>
             村民訓練於<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
-            >的<nuxt-link to="building/Town_Center">城鎮中心</nuxt-link
+            >的<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現
           </p>
           <p>
             所有文明開始時都有三位村民，除了<nuxt-link to="/civs/Chinese"
               >中國人</nuxt-link
-            >和<nuxt-link to="/civs/Mayans/">瑪雅人</nuxt-link
+            >和<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
             >(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。
           </p>
           <p>
@@ -275,7 +275,7 @@
                       src="~assets/Marketicon.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/building/Market">市場</nuxt-link>
+                    /><nuxt-link to="/building/Market">市集</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -299,7 +299,7 @@
                       src="~assets/Gateicon.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/building/Gateicon_Gate">城門</nuxt-link>
+                    /><nuxt-link to="/building/Gate">城門</nuxt-link>
                   </li>
                 </ul>
               </div>
@@ -325,7 +325,7 @@
                       width="30"
                       alt=""
                     /><nuxt-link to="/building/Siege_Workshop"
-                      >攻城武器製造所</nuxt-link
+                      >攻城器製造所</nuxt-link
                     >
                   </li>
                   <li>
@@ -408,7 +408,7 @@
                       src="~assets/Bombardtowericon.png"
                       width="30"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -793,7 +793,7 @@
                 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：村民攜帶+5。
               </li>
               <li>
-                <nuxt-link to="/civs/Berbers">柏柏爾</nuxt-link
+                <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
                 >：村民移動速度提高了10％。
               </li>
               <li>
@@ -830,11 +830,11 @@
                 >：村民視線+3。礦工收集石頭快20％。建築速度快25％ 。
               </li>
               <li>
-                <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+                <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
                 >：村民一擊殺死猛獸。
               </li>
               <li>
-                <nuxt-link to="/civs/Mayans">瑪雅</nuxt-link
+                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
                 >：開始多1村民，但是少50食物。自然資源可收集時間延長15%。
               </li>
               <li>
@@ -872,11 +872,11 @@
           <div class="n1">
             <ul>
               <li>
-                <nuxt-link to="/civs/Britons">印加</nuxt-link
+                <nuxt-link to="/civs/Incas">印加</nuxt-link
                 >：農田建造速度加快50%。
               </li>
               <li>
-                <nuxt-link to="/civs/Malians">條頓</nuxt-link
+                <nuxt-link to="/civs/Teutons">條頓</nuxt-link
                 >：村民更不容易被招降。
               </li>
             </ul>
@@ -1050,7 +1050,7 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               對<nuxt-link to="/building/Armor_class_stone_defense"
-                >石造防禦建築</nuxt-link
+                >石頭建築</nuxt-link
               >+6 <br />對<nuxt-link to="/building/Armor_class_building"
                 >建築</nuxt-link
               >+3

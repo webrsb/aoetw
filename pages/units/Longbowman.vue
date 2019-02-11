@@ -391,7 +391,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：長弓兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >：長弓兵對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>

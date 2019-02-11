@@ -27,9 +27,9 @@
                 to="/units/Hand_Cannoneer"
               ></nuxt-link
               >火槍兵和<nuxt-link to="/units/Organ_Gun"></nuxt-link
-              >風琴炮作為部隊主力時最需要的科技。火繩槍可增加這些單位在遠程範圍的準確性，更有效的消滅來犯的近戰單位。火繩槍也可讓
-              <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link
-              >、<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
+              >風琴砲作為部隊主力時最需要的科技。火繩槍可增加這些單位在遠程範圍的準確性，更有效的消滅來犯的近戰單位。火繩槍也可讓
+              <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+              >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >在防衛目標上能更有效的瞄準移動的單位。
             </li>
           </ul>
@@ -55,8 +55,8 @@
           <ul>
             <li>
               火繩槍給予<nuxt-link to="/building/Bombard_Tower"
-                >火炮塔</nuxt-link
-              >和<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
+                >火砲塔</nuxt-link
+              >和<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >的投射物速度+0.5。
             </li>
           </ul>
@@ -67,14 +67,14 @@
             <li>火繩槍給火藥單位的投射物速度減低到75%。</li>
             <li>
               5.2改版後給予<nuxt-link to="/building/Bombard_Tower"
-                >火炮塔</nuxt-link
-              >和<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
+                >火砲塔</nuxt-link
+              >和<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >的投射物速度被移除。
             </li>
             <li>
               5.7改版後給予<nuxt-link to="/building/Bombard_Tower"
-                >火炮塔</nuxt-link
-              >和<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link
+                >火砲塔</nuxt-link
+              >和<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >的投射物速度改為+0.2。
             </li>
           </ul>
@@ -151,7 +151,7 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              火藥單位對移動目標的命中率上升。火炮戰船和火砲塔的投射物速度+0.2
+              火藥單位對移動目標的命中率上升。火砲戰船和火砲塔的投射物速度+0.2
             </td>
           </tr>
         </table>

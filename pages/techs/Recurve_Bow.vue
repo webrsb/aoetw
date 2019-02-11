@@ -34,10 +34,10 @@
               >因為這三樣不僅有加成所有範圍單位、有加攻擊力、最重要是花費比反曲弓便宜。
             </li>
             <li>
-              反曲弓讓馬札爾的馬騎弓兵可以與<nuxt-link to="/civs/Turks"
+              反曲弓讓馬扎爾的馬弓騎兵可以與<nuxt-link to="/civs/Turks"
                 >土耳其</nuxt-link
               >和<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >的並列遊戲中最佳的馬騎弓兵。
+              >的並列遊戲中最佳的馬弓騎兵。
             </li>
           </ul>
         </div>

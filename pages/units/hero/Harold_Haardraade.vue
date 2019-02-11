@@ -13,7 +13,7 @@
               to="/units/Monk"
               >僧侶</nuxt-link
             >
-            <nuxt-link to="/Heros.php">英雄</nuxt-link
+            <nuxt-link to="/units/hero/">英雄</nuxt-link
             >。實際上他代表的是1046年-1066年統治<nuxt-link to="/civs/Vikings"
               >挪威</nuxt-link
             >的國王<strong>無情者哈拉爾</strong>（即遊戲中的<strong>哈羅德哈佐德</strong>）。哈拉爾沒辦法拾取
@@ -49,7 +49,7 @@
             <td class="unit3">類型</td>
             <td class="unit4">
               <nuxt-link to="/units/Monk">僧侶</nuxt-link> <br /><nuxt-link
-                to="/Heros.php"
+                to="/units/hero/"
                 >英雄</nuxt-link
               >
             </td>

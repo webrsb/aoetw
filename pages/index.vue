@@ -143,7 +143,7 @@
               <li><nuxt-link to="/fotw">台港知名玩家</nuxt-link></li>
               <li><nuxt-link to="/history">歷屆大賽結果</nuxt-link></li>
               <li><nuxt-link to="/civs/bestciv">文明強弱分析</nuxt-link></li>
-              <li><nuxt-link to="/maps/">地圖列表</nuxt-link></li>
+              <li><nuxt-link to="/maps">地圖列表</nuxt-link></li>
             </ul>
           </div>
         </div>

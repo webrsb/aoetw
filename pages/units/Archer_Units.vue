@@ -36,7 +36,7 @@
             總體來說，遠距離單位殺村民的效率遠高於步兵單位與僧侶，但對建築與攻城武器單位卻顯得無助，尤其是遇到投石車，它能迅速消滅大規模的弓箭手。重型衝撞車與其他兵種搭配也很適合對付遠距離單位，雖然衝撞車對弓箭手沒有傷害性，但因為他的高遠距離裝甲，可以掩護其他單位擊殺對方。對弓箭手來說，最容易打擊他的莫過於矛兵，這種垃圾兵很便宜，很容易量產，不但高遠防對弓箭手也有加成傷害。
           </p>
           <p>
-            其他著名的天敵還有哥德衛隊、鷹勇士、籐甲弓兵（他自己也是弓箭手）和馬戰車。
+            其他著名的天敵還有哥德衛隊、鷹勇士、藤甲弓兵（他自己也是弓箭手）和馬戰車。
           </p>
         </div>
         <h3>弓兵文明</h3>
@@ -1035,7 +1035,7 @@
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">300F 250W</td>
               <td class="tunitc6">
-                弓兵和馬騎弓兵開火速率更快並擁有100%命中率。
+                弓兵和馬弓騎兵開火速率更快並擁有100%命中率。
               </td>
             </tr>
             <tr>
@@ -1049,7 +1049,7 @@
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">200F 250G</td>
-              <td class="tunitc6">馬騎弓兵護甲+1/+2，對長槍兵攻擊+4。</td>
+              <td class="tunitc6">馬弓騎兵護甲+1/+2，對長槍兵攻擊+4。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1063,7 +1063,7 @@
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">300W 175G</td>
               <td class="tunitc6">
-                弓兵、馬騎弓兵、戰船、城堡和箭塔對移動單位的命中率提升。
+                弓兵、馬弓騎兵、戰船、城堡和箭塔對移動單位的命中率提升。
               </td>
             </tr>
             <tr>
@@ -1094,7 +1094,7 @@
               </td>
               <td class="tunitc4">封建</td>
               <td class="tunitc5">100F</td>
-              <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+1。</td>
+              <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+1。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1109,7 +1109,7 @@
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">150F 150G</td>
-              <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+1。</td>
+              <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+1。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1122,7 +1122,7 @@
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">250F 250G</td>
-              <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+2。</td>
+              <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+2。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1136,7 +1136,7 @@
               <td class="tunitc4">封建</td>
               <td class="tunitc5">100F 50G</td>
               <td class="tunitc6">
-                弓兵、馬騎弓兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
+                弓兵、馬弓騎兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
               </td>
             </tr>
             <tr>
@@ -1151,7 +1151,7 @@
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">200F 100G</td>
               <td class="tunitc6">
-                弓兵、馬騎弓兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
+                弓兵、馬弓騎兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
               </td>
             </tr>
             <tr>
@@ -1166,7 +1166,7 @@
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">300F 200G</td>
               <td class="tunitc6">
-                弓兵、馬騎弓兵、戰船、城堡攻擊+1、範圍+1(箭塔只有攻擊+1)。
+                弓兵、馬弓騎兵、戰船、城堡攻擊+1、範圍+1(箭塔只有攻擊+1)。
               </td>
             </tr>
           </table>
@@ -1263,13 +1263,13 @@
                   src="~assets/CastleAgeUnique.png"
                   style="margin: 2px;"
                   alt=""
-                /><nuxt-link to="/civs/Mayans">瑪雅</nuxt-link>
+                /><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
               </td>
               <td class="tunitc4">
                 <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>
               </td>
               <td class="tunitc5">300F 300G</td>
-              <td class="tunitc6">射箭場弓兵單位對建築物和石造建築攻擊+6。</td>
+              <td class="tunitc6">射箭場弓兵單位對建築物和石頭建築攻擊+6。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1284,7 +1284,7 @@
                 <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>
               </td>
               <td class="tunitc5">350F 150G</td>
-              <td class="tunitc6">馬騎弓兵+20 HP。</td>
+              <td class="tunitc6">馬弓騎兵+20 HP。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1327,7 +1327,7 @@
               </td>
               <td class="tunitc4"><nuxt-link to="">火箭術</nuxt-link></td>
               <td class="tunitc5">750W 750G</td>
-              <td class="tunitc6">中國連弩兵攻擊+2，弩炮攻擊+4。</td>
+              <td class="tunitc6">連弩兵攻擊+2，弩砲攻擊+4。</td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1351,13 +1351,13 @@
                   src="~assets/Unique-tech.jpg"
                   style="margin: 2px;"
                   alt=""
-                /><nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>
+                /><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
               </td>
               <td class="tunitc4">
                 <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>
               </td>
               <td class="tunitc5">600W 400G</td>
-              <td class="tunitc6">馬騎弓兵攻擊和射程都+1。</td>
+              <td class="tunitc6">馬弓騎兵攻擊和射程都+1。</td>
             </tr>
             <tr>
               <td class="tunitc6">

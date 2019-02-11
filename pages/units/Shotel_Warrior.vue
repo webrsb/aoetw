@@ -54,7 +54,7 @@
             </li>
             <li>
               一般來說，彎刀勇士是相當兩極化的單位，因為他們需要大量的黃金但相當脆弱。彎刀戰士多是用來作為突襲的，衣索比亞應該以彎刀勇士替代騎士做為城堡時代快攻的單位，因為在相同的成本下彎刀勇士的高機動性和攻擊力（研發縱火後）可讓他們比騎士對敵人村莊造成更大損傷。此外，衣索比亞人沒有
-              <nuxt-link to="/techs/Bloodlines">血脈</nuxt-link>，<nuxt-link
+              <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>，<nuxt-link
                 to="/techs/Plate_Barding_Armor"
                 >騎兵板甲</nuxt-link
               >和<nuxt-link to="/units/Paladin">遊俠</nuxt-link
@@ -107,7 +107,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -187,7 +187,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -357,7 +357,7 @@
         以下技術可讓以下單位對彎刀勇士有額外攻擊力
         <div class="n1">
           <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-          <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+          <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -386,7 +386,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
@@ -405,7 +405,7 @@
           <ul>
             <li>
               一開始彎刀勇士對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+                to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >攻擊+2(精銳+3)。在4.8版本後被降低為0(精銳降為1)。。
             </li>
@@ -417,7 +417,7 @@
           <p>
             精銳彎刀勇士的18攻擊力比任何的步兵單位要高。它同時有遊戲中第二高的近戰攻擊力，僅次於精銳<nuxt-link
               to="/units/War_Elephant"
-              >波斯戰象</nuxt-link
+              >戰象</nuxt-link
             >。
           </p>
           <p>
@@ -427,8 +427,7 @@
             >後)。
           </p>
           <p>
-            彎刀勇士和<nuxt-link to="/units/Karambit_Warrior"
-              >爪刀勇士</nuxt-link
+            彎刀勇士和<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
             >(遊戲中生產速度第二)是遊戲中唯二持有雙手武器的單位。
           </p>
         </div>
@@ -541,7 +540,7 @@
             <td class="unit4">
               對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >+2 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              >+2 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >+1(精銳)
             </td>

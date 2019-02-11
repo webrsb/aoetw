@@ -13,7 +13,7 @@
             >可以從軍營生產。華人圈喜歡稱長槍兵為「XX(音同叉叉)」、斗笠、搓搓。
           </p>
           <p>
-            初期是防禦敵人<nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link
+            初期是防禦敵人<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
             >的優秀兵種。
           </p>
           <p>
@@ -21,7 +21,7 @@
               >聖騎兵</nuxt-link
             >例外);長槍兵被<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、
             <nuxt-link to="/units/Archer">弓箭手</nuxt-link>、<nuxt-link
-              to="/units/Militia"
+              to="/units/Infantry_Units"
               >步兵</nuxt-link
             >克制。
           </p>
@@ -32,7 +32,7 @@
           <p>
             長槍兵便宜、容易集結，使他們能夠壓倒敵方的騎兵。它們對防止早期的<nuxt-link
               to="/units/Scout_Cavalry"
-              >斥侯</nuxt-link
+              >斥候</nuxt-link
             >是很有效，但是對於
             <nuxt-link to="/units/Knight">騎士</nuxt-link>或<nuxt-link
               to="/units/Cavalry_Archer"
@@ -65,7 +65,7 @@
             </td>
           </tr>
           <tr class="tta">
-            <td class="" colspan="2" style="text-align: center;">
+            <td colspan="2" style="text-align: center;">
               <div class="unititle">升級</div>
             </td>
           </tr>
@@ -175,7 +175,7 @@
                 src="~assets/Tracking.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>(+2)
+              /><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>(+2)
             </td>
           </tr>
           <tr>
@@ -211,7 +211,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:兵營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -402,13 +402,13 @@
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     />
-                    <nuxt-link to="/units/Rattan_Archer">籐甲弓兵</nuxt-link>→
+                    <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     />
-                    <nuxt-link to="/units/Rattan_Archer">精銳籐甲弓兵</nuxt-link
+                    <nuxt-link to="/units/Rattan_Archer">精銳藤甲弓兵</nuxt-link
                     >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>限定)
                   </li>
                   <li>
@@ -434,21 +434,21 @@
                       width="22"
                       alt=""
                     />
-                    <nuxt-link to="/units/Rattan_Archer">蒙古突騎</nuxt-link>→
+                    <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
                     <img
                       class="gg"
                       src="~assets/MangudaiIcon.jpg"
                       width="22"
                       alt=""
                     />
-                    <nuxt-link to="/units/Rattan_Archer">精銳蒙古突騎</nuxt-link
+                    <nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
                     >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Rattan_Archer">駱駝弓騎兵</nuxt-link>→
+                    <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>→
                     <img class="gg" src="~assets/CamelArcherIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Rattan_Archer"
+                    <nuxt-link to="/units/Camel_Archer"
                       >精銳駱駝弓騎兵</nuxt-link
                     >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
                   </li>
@@ -459,7 +459,7 @@
           以下技術研發後對長槍兵有額外攻擊力，以數值排列
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
-            <nuxt-link to="/techs/Parthian_Tactics">後勤學</nuxt-link>
+            <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
             <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
             <ul>
               <li>
@@ -476,7 +476,7 @@
               width="22"
               alt=""
             />
-            <nuxt-link to="/techs/Parthian_Tactics">帕提亞技術</nuxt-link>
+            <nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
             <div style="margin:12px 0px;"><strong>+4攻擊</strong></div>
             <ul>
               <li>
@@ -497,14 +497,14 @@
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/units/Rattan_Archer">蒙古突騎</nuxt-link>→
+                <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/MangudaiIcon.jpg"
                   width="22"
                   alt=""
                 />
-                <nuxt-link to="/units/Rattan_Archer">精銳蒙古突騎</nuxt-link
+                <nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link
                 >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>限定)
               </li>
               <li>
@@ -561,7 +561,7 @@
                 >建築物</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >後研發<nuxt-link to="/techs/Tracking">追縱技術</nuxt-link
+              >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
               <nuxt-link to="/techs/Arson">縱火</nuxt-link
               >和升級重裝長槍兵的速度快100%。
@@ -571,7 +571,7 @@
               >：長槍兵攻擊速度快33％。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬札爾</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
               >：免費升級<nuxt-link to="/techs/Forging">鍛造</nuxt-link
               >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
@@ -583,7 +583,7 @@
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >。
             </li>
             <li>
@@ -618,7 +618,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：長槍兵訓練和升級快20%。研發<nuxt-link to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
@@ -820,9 +820,9 @@
                 >船隻</nuxt-link
               >
               <br />+1 vs<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
-                >鷹斥侯</nuxt-link
+                >鷹斥候</nuxt-link
               >
-              <br />+1 vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              <br />+1 vs<nuxt-link to="/armor/Armor_Class_standard_building"
                 >標準建築</nuxt-link
               >
             </td>

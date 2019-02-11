@@ -26,11 +26,11 @@
             瞭望箭塔也可用在進攻方面，例如著名的塔攻。在敵人的城鎮附近找尋資源目標，並在敵人無法發現的視野內建造箭塔阻止敵人收集資源。執行這個戰術玩家需要在黑暗時代先採集石礦，並在上黑暗時代前派村民(至少五名)前往敵方城鎮附近，也可搭配
             <nuxt-link to="/units/Militia">民兵</nuxt-link
             >(通常三到四個)和<nuxt-link to="/units/Scout_Cavalry"
-              >斥侯騎兵</nuxt-link
+              >斥候騎兵</nuxt-link
             >，一上封建就在偵查好的敵人資源附近馬上蓋塔，用
             <nuxt-link to="/units/Militia">民兵</nuxt-link>跟<nuxt-link
               to="/units/Scout_Cavalry"
-              >斥侯</nuxt-link
+              >斥候</nuxt-link
             >阻擋前來攻擊村民的敵人，建好一個後在前一個塔的射程範圍內再蓋一個，一直往敵方城鎮前進直到敵人資源枯盡投降，也可蓋
             <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >和<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
@@ -79,7 +79,7 @@
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >，<nuxt-link to="/units/Cannon_Galleon">火炮戰船</nuxt-link>。
+              >，<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -250,14 +250,14 @@
                 src="~assets/Townwatch.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮暸望</nuxt-link>(+4)
+              /><nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>(+4)
               <br />
               <img
                 class="gg"
                 src="~assets/Townpatrol.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Town_Watch">城鎮巡邏</nuxt-link>(+4)
+              /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link>(+4)
             </td>
           </tr>
           <tr>
@@ -285,7 +285,7 @@
                 src="~assets/Treadmillcrane.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
               >(+20%)
             </td>
           </tr>
@@ -342,8 +342,8 @@
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：<nuxt-link
                 to="/techs/Town_Watch"
-                >城鎮暸望</nuxt-link
-              >和<nuxt-link to="/techs/Town_Watch">城鎮巡邏</nuxt-link
+                >城鎮瞭望</nuxt-link
+              >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
               >在封建/城堡/帝王時代研發快10%/15%/20%。
             </li>
             <li>
@@ -442,7 +442,7 @@
               >研發
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
+              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:引入<nuxt-link
                 to="/techs/Stronghold"
                 >堡壘</nuxt-link
               >。
@@ -501,7 +501,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            一些最早的強化石造建築是簡單的箭塔。從塔上領主可以對很大範圍進行觀察。這個石頭結構使得它間不可慛除非被一大群部隊攻擊。領主還可以撤回到塔樓內，把他的動物放在底部，二樓放存糧和寶藏，住在上面的樓層，並在塔的頂端戰鬥。諾曼人因在諾曼第和英格蘭的土地上建造石製箭塔以提供軍事和政治控制而聞名。
+            一些最早的強化石頭建築是簡單的箭塔。從塔上領主可以對很大範圍進行觀察。這個石頭結構使得它間不可慛除非被一大群部隊攻擊。領主還可以撤回到塔樓內，把他的動物放在底部，二樓放存糧和寶藏，住在上面的樓層，並在塔的頂端戰鬥。諾曼人因在諾曼第和英格蘭的土地上建造石製箭塔以提供軍事和政治控制而聞名。
           </p>
         </div>
       </div>
@@ -631,7 +631,7 @@
               >
               <br />
               <nuxt-link to="/armor/Armor_Class_stone_defense"
-                >石造建築</nuxt-link
+                >石頭建築</nuxt-link
               >
             </td>
           </tr>
@@ -711,7 +711,7 @@
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em
-                  >各種箭塔在一般地圖/下雪地圖的樣子和駐紮單位時的樣子(包括瞭望箭塔/防禦箭塔/大型箭塔/火炮塔/哨站/海上箭塔/詛咒之塔等)。</em
+                  >各種箭塔在一般地圖/下雪地圖的樣子和駐紮單位時的樣子(包括瞭望箭塔/防禦箭塔/大型箭塔/火砲塔/哨站/海上箭塔/詛咒之塔等)。</em
                 >
               </p>
             </div>

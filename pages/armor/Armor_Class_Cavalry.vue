@@ -37,7 +37,7 @@
                 src="~assets/HeavyCavArcherIcon.jpg"
                 alt=""
               /><nuxt-link to="/units/Heavy_Cavalry_Archer"
-                >精銳馬弓騎兵</nuxt-link
+                >重裝馬弓騎兵</nuxt-link
               >
             </li>
             <li>
@@ -55,7 +55,7 @@
                 class="gg"
                 src="~assets/ScoutCavalryIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Scout_Cavalry">斥侯</nuxt-link>→
+              /><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/LightCavalryIcon.jpg"
@@ -215,15 +215,15 @@
                 width="22"
                 alt=""
               />
-              <nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link>→
+              <nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link>→
               <img
                 class="gg"
                 src="~assets/Magyar_Huszar_icon.jpg"
                 width="22"
                 alt=""
               />
-              <nuxt-link to="/units/Magyar_Huszar">精銳馬札爾驃騎兵</nuxt-link
-              >(<nuxt-link to="/civs/Magyars">馬札爾</nuxt-link>限定)
+              <nuxt-link to="/units/Magyar_Huszar">精銳馬扎爾驃騎兵</nuxt-link
+              >(<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/New_Boyar.png" alt="" /><nuxt-link
@@ -467,7 +467,7 @@
                   </li>
                   <li>
                     <img class="gg" src="~assets/EagleScoutIcon.jpg" alt="" />
-                    <nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>
+                    <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
                   </li>
                   <li>
                     <img

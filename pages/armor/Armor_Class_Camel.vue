@@ -67,7 +67,7 @@
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
               /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
-              >(<nuxt-link to="/civs/Indians">柏柏</nuxt-link>限定)
+              >(<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>限定)
             </li>
           </ul>
         </div>
@@ -240,7 +240,7 @@
                       class="gg"
                       src="~assets/Bombardtowericon.png"
                       alt=""
-                    /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+                    /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
                   </li>
                 </ul>
               </div>

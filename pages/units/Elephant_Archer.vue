@@ -25,10 +25,10 @@
         <div class="n1">
           <ul>
             <li>
-              象弓騎兵具有很高的HP和遠程裝甲，造成的傷害和馬騎弓兵一樣多，但開火速度較低，也像所有的大象一樣移動速度慢，但比戰像還要快。
+              象弓騎兵具有很高的HP和遠程裝甲，造成的傷害和馬弓騎兵一樣多，但開火速度較低，也像所有的大象一樣移動速度慢，但比戰像還要快。
             </li>
             <li>
-              象弓騎兵擁有比任何其他弓箭手更多的HP，包括馬戰車。他們融合了戰象的耐打和馬騎弓兵的射程及攻擊力。極高的HP和遠程裝甲使讓象弓騎兵像一座移動的箭塔，而且也能對付弓兵和建築物，還可以被僧侶治療。不過他們非常怕長槍兵和僧侶(印度缺乏異端邪說)，不過他們還是能用遠距離對付這兩個單位。
+              象弓騎兵擁有比任何其他弓箭手更多的HP，包括馬戰車。他們融合了戰象的耐打和馬弓騎兵的射程及攻擊力。極高的HP和遠程裝甲使讓象弓騎兵像一座移動的箭塔，而且也能對付弓兵和建築物，還可以被僧侶治療。不過他們非常怕長槍兵和僧侶(印度缺乏異端邪說)，不過他們還是能用遠距離對付這兩個單位。
             </li>
             <li>
               象弓騎兵是一個高度情境化且很少使用的單位。這主要有三個原因：
@@ -397,8 +397,8 @@
                       class="gg"
                       src="~assets/HuskarlIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Huskarl">精銳歌德衛隊</nuxt-link
-                    >(<nuxt-link to="/civs/Goth">歌德</nuxt-link>限定)
+                    /><nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link
+                    >(<nuxt-link to="/civs/Goth">哥德</nuxt-link>限定)
                   </li>
                   <li>
                     <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
@@ -441,7 +441,7 @@
                       class="gg"
                       src="~assets/HeavyScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -461,7 +461,7 @@
                       class="gg"
                       src="~assets/ScorpionIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Scorpion">弩炮</nuxt-link>
+                    /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/HuskarlIcon.jpg" alt="" />
@@ -594,7 +594,7 @@
                       class="gg"
                       src="~assets/EagleScoutIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>
+                    /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>
                   </li>
                   <li>
                     <img
@@ -752,7 +752,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高象弓騎兵的生產速度還有加速徵兵技術的研究時間(快25%)
+              >能夠提高象弓騎兵的生產速度還有加速徵兵制度的研究時間(快25%)
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
@@ -780,7 +780,7 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/ver-5.8">5.8版</nuxt-link
+              <nuxt-link to="/news/ver-5.8">5.8版</nuxt-link
               >後，象弓騎兵對弓兵防禦類型 -2 → 0，對反弓兵防禦類型0 → -2
             </li>
           </ul>
@@ -827,7 +827,9 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><nuxt-link to="/civs/India">印度</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -892,8 +894,8 @@
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
               對<nuxt-link to="/armor/Armor_class_stone_defense"
-                >石造建築</nuxt-link
-              >+3/+4(精銳) <br />對<nuxt-link to="/armor/Armor_class_building"
+                >石頭建築</nuxt-link
+              >+3/+4(精銳) <br />對<nuxt-link to="/armor/Armor_Class_Building"
                 >一般建築</nuxt-link
               >+3/+4(精銳)
             </td>
@@ -931,9 +933,8 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
-                >馬騎弓兵(-2)</nuxt-link
-              >
-              <br /><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >(-2) <br /><nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵</nuxt-link
               >
               <br /><nuxt-link to="/armor/Armor_Class_War_Elephant"

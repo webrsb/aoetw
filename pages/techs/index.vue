@@ -30,7 +30,7 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/Tracking.jpg" alt="" /><nuxt-link
                 to="/techs/Tracking"
-                >追縱技術</nuxt-link
+                >追蹤技術</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -84,7 +84,7 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">300F 250W</td>
             <td class="tunitc6">
-              弓兵和馬騎弓兵開火速率更快並擁有100%命中率。
+              弓兵和馬弓騎兵開火速率更快並擁有100%命中率。
             </td>
           </tr>
           <tr>
@@ -98,7 +98,7 @@
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">200F 250G</td>
             <td class="tunitc6">
-              馬騎弓兵護甲+1/+2，對<nuxt-link to="/units/Pikeman"
+              馬弓騎兵護甲+1/+2，對<nuxt-link to="/units/Spearman"
                 >長槍兵</nuxt-link
               >攻擊+4。
             </td>
@@ -184,7 +184,7 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/Townwatch.jpg" alt="" /><nuxt-link
                 to="/techs/Town_Watch"
-                >城鎮暸望</nuxt-link
+                >城鎮瞭望</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -344,7 +344,7 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/Cartography.jpg" alt="" /><nuxt-link
                 to="/techs/Cartography"
-                >製圖法</nuxt-link
+                >製圖學</nuxt-link
               >
             </td>
             <td class="tunitc4">封建</td>
@@ -361,7 +361,7 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 200G</td>
             <td class="tunitc6">
-              <nuxt-link to="/units/Trade_Cart">貿易馬車</nuxt-link>和<nuxt-link
+              <nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>和<nuxt-link
                 to="/units/Trade_Cog"
                 >貿易商旅</nuxt-link
               >的移動速度快50%。
@@ -569,7 +569,7 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">300W 175G</td>
             <td class="tunitc6">
-              弓兵、馬騎弓兵、戰船、城堡和箭塔對移動單位的命中率提升。
+              弓兵、馬弓騎兵、戰船、城堡和箭塔對移動單位的命中率提升。
             </td>
           </tr>
           <tr>
@@ -612,7 +612,7 @@
                 class="gg"
                 src="~assets/Treadmillcrane.jpg"
                 alt=""
-              /><nuxt-link to="/techs/Treadmill_Crane">踏輪起重機</nuxt-link>
+              /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">300F 200W</td>
@@ -653,7 +653,7 @@
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">500F 600W</td>
             <td class="tunitc6">
-              攻城武器攻擊範圍+1(輕型衝撞車除外)。對建築物攻擊加成+20%(炸藥桶+40%)。
+              攻城武器攻擊範圍+1(輕型衝撞車除外)。對建築物攻擊加成+20%(爆炸桶+40%)。
             </td>
           </tr>
           <tr>
@@ -685,11 +685,11 @@
                 class="gg"
                 src="~assets/Bombard-tower-research.jpg"
                 alt=""
-              /><nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
+              /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link>
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">800F 400W</td>
-            <td class="tunitc6">研發後可建造火炮塔，需先研發化學。</td>
+            <td class="tunitc6">研發後可建造火砲塔，需先研發化學。</td>
           </tr>
         </table>
 
@@ -712,7 +712,7 @@
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">100F</td>
-            <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+1。</td>
+            <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+1。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -724,7 +724,7 @@
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">150F 150G</td>
-            <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+1。</td>
+            <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+1。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -736,7 +736,7 @@
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">250F 250G</td>
-            <td class="tunitc6">弓兵和馬騎弓兵護甲+1/+2。</td>
+            <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+2。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -748,7 +748,7 @@
             <td class="tunitc4">封建</td>
             <td class="tunitc5">100F 50G</td>
             <td class="tunitc6">
-              弓兵、馬騎弓兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
+              弓兵、馬弓騎兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
             </td>
           </tr>
           <tr>
@@ -761,7 +761,7 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 100G</td>
             <td class="tunitc6">
-              弓兵、馬騎弓兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
+              弓兵、馬弓騎兵、戰船、城堡和箭塔的攻擊+1、範圍+1。
             </td>
           </tr>
           <tr>
@@ -774,7 +774,7 @@
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">300F 200G</td>
             <td class="tunitc6">
-              弓兵、馬騎弓兵、戰船、城堡攻擊+1、範圍+1(箭塔只有攻擊+1)。
+              弓兵、馬弓騎兵、戰船、城堡攻擊+1、範圍+1(箭塔只有攻擊+1)。
             </td>
           </tr>
           <tr>

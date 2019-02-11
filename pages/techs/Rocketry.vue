@@ -14,7 +14,7 @@
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後給予<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
-            >+2攻擊、<nuxt-link to="/units/Scorpion">弩炮</nuxt-link>+4攻擊。
+            >+2攻擊、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>+4攻擊。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -22,13 +22,13 @@
         <div class="n1">
           <ul>
             <li>
-              有火箭術的中國連弩兵和弩炮可以對防箭單位造成更多傷害，如:<nuxt-link
+              有火箭術的連弩兵和弩砲可以對防箭單位造成更多傷害，如:<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>和
               <nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
               >。可以取代中國進攻時沒有<nuxt-link to="/units/Bombard_Cannon"
-                >火炮</nuxt-link
+                >火砲</nuxt-link
               >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >的缺陷。
             </li>
@@ -127,7 +127,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">給予連弩兵+2攻擊、弩炮+4攻擊。</td>
+            <td class="unit4">給予連弩兵+2攻擊、弩砲+4攻擊。</td>
           </tr>
         </table>
 

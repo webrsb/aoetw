@@ -2,14 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>薩拉丁</h1>
+        <h1>沙拉丁</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>薩拉丁</strong>是《世紀帝國 II HD:
-            失落的帝國》中的一名騎兵英雄。他只能在戰役編輯器中使用，薩拉丁擁有奴隸兵的外觀。由於他屬於英雄單位，因此不能被招降且會回血
+            <strong>沙拉丁</strong>是《世紀帝國 II HD:
+            失落的帝國》中的一名騎兵英雄。他只能在戰役編輯器中使用，沙拉丁擁有奴隸兵的外觀。由於他屬於英雄單位，因此不能被招降且會回血
             。
           </p>
           <p></p>
@@ -22,7 +22,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                薩拉丁
+                沙拉丁
               </div>
             </td>
           </tr>
