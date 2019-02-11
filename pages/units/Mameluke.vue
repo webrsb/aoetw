@@ -842,7 +842,11 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Mameluke.png" alt="" />精銳奴隸兵
+              <img
+                class="gg"
+                src="~assets/Saracenmamluk_icon.png"
+                alt=""
+              />精銳奴隸兵
             </td>
           </tr>
           <tr>

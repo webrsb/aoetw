@@ -40,7 +40,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to=/armor/Armor_Class_Infantry">步兵</nuxt-link
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
               ><br /><nuxt-link to="/units/Hero">英雄</nuxt-link>
             </td>
           </tr>

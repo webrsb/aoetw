@@ -152,7 +152,7 @@
           <tr>
             <td style="text-align: center;padding: 20px ">
               <nuxt-link to="/units/hero/Bayinnaung">勃印曩</nuxt-link>·<nuxt-link to="/units/hero/Bui_Bi"
-                >無名僧侶</nuxt-link>·<nuxt-link to="/units/hero/Dinh_Le">丁禮</nuxt-link>·
+                >裴備</nuxt-link>·<nuxt-link to="/units/hero/Dinh_Le">丁禮</nuxt-link>·
               <nuxt-link to="/units/hero/Gajah_Mada">加查-馬達</nuxt-link>·<nuxt-link to="/units/hero/Jayanegara"
                 >賈亞納加拉</nuxt-link>·<nuxt-link to="/units/hero/Jayaviravarman">闍耶羅跋摩</nuxt-link>·
               <nuxt-link to="/units/hero/Le_Lai">黎來</nuxt-link>·<nuxt-link to="/units/hero/Le_Lai">黎來</nuxt-link>·<nuxt-link to="/units/hero/Le_Loi"

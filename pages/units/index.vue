@@ -587,15 +587,6 @@
                       alt=""
                     /><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link>
                   </div>
-                  <div class="game_title">
-                    <nuxt-link to="/games/aoc"
-                      ><img
-                        src="~assets/ConquerorsIcon.png"
-                        style="margin-right:5px"
-                      />征服者入侵</nuxt-link
-                    >
-                  </div>
-                  <hr />
                   <div class="unique">
                     <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                       to="/units/Berserk"
@@ -609,6 +600,15 @@
                       alt=""
                     /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
                   </div>
+                  <div class="game_title">
+                    <nuxt-link to="/games/aoc"
+                      ><img
+                        src="~assets/ConquerorsIcon.png"
+                        style="margin-right:5px"
+                      />征服者入侵</nuxt-link
+                    >
+                  </div>
+                  <hr />
                   <div class="unique">
                     <img
                       class="gg"

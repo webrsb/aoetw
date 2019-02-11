@@ -203,21 +203,6 @@
               </li>
             </td>
           </tr>
-        </table>
-
-        <table class="table-bordered" width="100%">
-          <tr>
-            <td class="tunitcc" style="width: 15%;">兵種</td>
-            <td class="tunitcc" style="width: 15%;">文明</td>
-            <td class="tunitcc" style="width: 70%;">概要</td>
-          </tr>
-          <tr>
-            <td colspan="3">
-              <h3>
-                <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
-              </h3>
-            </td>
-          </tr>
           <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
@@ -244,6 +229,21 @@
             </td>
             <td class="tunitc6">
               城堡時代於碼頭生產，可一次發出多支箭的戰船。
+            </td>
+          </tr>
+        </table>
+
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="tunitcc" style="width: 15%;">兵種</td>
+            <td class="tunitcc" style="width: 15%;">文明</td>
+            <td class="tunitcc" style="width: 70%;">概要</td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              <h3>
+                <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+              </h3>
             </td>
           </tr>
           <tr>
