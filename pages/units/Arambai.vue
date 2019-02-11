@@ -444,7 +444,9 @@
             <td class="unit3">裝甲類型</td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">馬弓騎兵</nuxt-link>
+              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >
               <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link

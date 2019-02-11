@@ -380,7 +380,9 @@
                   class="gg"
                   src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>
+                /><nuxt-link to="/units/Elite_Eagle_Warrior"
+                  >精銳鷹勇士</nuxt-link
+                >
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->

@@ -192,7 +192,8 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
-                  to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
+                  to="/units/Elite_Turtle_Ship"
+                  >精銳龜甲船</nuxt-link
                 >
               </td>
               <td class="tta3">300</td>

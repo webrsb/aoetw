@@ -186,7 +186,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4"><nuxt-link to="/games/aof">失落的帝國</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>

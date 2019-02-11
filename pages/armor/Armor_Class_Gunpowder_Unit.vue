@@ -69,7 +69,9 @@
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
               <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-              <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link>
+              <nuxt-link to="/units/Elite_Cannon_Galleon"
+                >精銳火砲戰船</nuxt-link
+              >
             </li>
             <li>
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />

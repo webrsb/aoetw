@@ -114,7 +114,9 @@
             <td class="t19 trm not">
               <img class="gg" src="~assets/EliteEagleWarriorIcon.jpg" alt="" />
               <div>
-                <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>
+                <nuxt-link to="/units/Elite_Eagle_Warrior"
+                  >精銳鷹勇士</nuxt-link
+                >
               </div>
             </td>
             <td class="t19 trm not">
@@ -975,7 +977,9 @@
             <td class="t10 trm not">
               <img class="gg" src="~assets/CaravelIcon2.jpg" />
               <div>
-                <nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link>
+                <nuxt-link to="/units/Elite_Caravel"
+                  >精銳卡拉維爾戰船</nuxt-link
+                >
               </div>
             </td>
             <td class="t10 trm">

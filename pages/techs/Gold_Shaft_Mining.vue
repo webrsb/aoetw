@@ -111,7 +111,9 @@
             <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
-            <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>:礦井採金免費。</li>
+            <li>
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>:礦井採金免費。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>

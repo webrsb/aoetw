@@ -693,9 +693,8 @@
           <tr>
             <td class="unit3">防禦類型</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
-              >(+12, +16(精銳)) <br /><nuxt-link
-                to="/armor/Armor_Class_Unique_Unit"
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>(+12,
+              +16(精銳)) <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
               >
             </td>

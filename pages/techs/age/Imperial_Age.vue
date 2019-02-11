@@ -233,7 +233,8 @@
                 src="~assets/EliteBattleElephantIcon2.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link
+              /><nuxt-link to="/units/Elite_Battle_Elephant"
+                >精銳矛象伕</nuxt-link
               >：重裝騎兵單位。
             </li>
           </ul>
@@ -369,7 +370,8 @@
                 src="~assets/CannonGalleonIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link
+              /><nuxt-link to="/units/Elite_Cannon_Galleon"
+                >精銳火砲戰船</nuxt-link
               >：遠距離攻擊戰船。(需先研發<nuxt-link to="/techs/Chemistry"
                 >化學</nuxt-link
               >)

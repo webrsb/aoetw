@@ -23,8 +23,7 @@
         <div class="n1">
           <ul>
             <li>
-              恰特拉傘讓<nuxt-link to="/units/Battle_Elephant"
-                >矛象伕</nuxt-link
+              恰特拉傘讓<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
               >變得更坦，可以充當越南<nuxt-link
                 to="/units/Archer_Units"
               ></nuxt-link

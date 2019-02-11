@@ -482,7 +482,8 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/LongboatIcon.jpg" /><nuxt-link
-                  to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
+                  to="/units/Elite_Longboat"
+                  >精銳維京大戰船</nuxt-link
                 >
               </td>
               <td class="tta3">160</td>
@@ -525,7 +526,8 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
-                  to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
+                  to="/units/Elite_Turtle_Ship"
+                  >精銳龜甲船</nuxt-link
                 >
               </td>
               <td class="tta3">300</td>
@@ -568,7 +570,8 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CaravelIcon2.jpg" /><nuxt-link
-                  to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
+                  to="/units/Elite_Caravel"
+                  >精銳卡拉維爾戰船</nuxt-link
                 >
               </td>
               <td class="tta3">150</td>

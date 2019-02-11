@@ -143,7 +143,8 @@
                     class="gg"
                     src="~assets/EliteEagleWarriorIcon.jpg"
                     alt=""
-                  /><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
+                  /><nuxt-link to="/units/Elite_Eagle_Warrior"
+                    >精銳鷹勇士</nuxt-link
                   >(南美文明限定)
                 </li>
                 <li>

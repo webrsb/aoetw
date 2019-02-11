@@ -132,7 +132,8 @@
                       style="margin: 2px;"
                       src="~assets/Battleelephanticon.png"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link
+                    /><nuxt-link to="/units/Elite_Battle_Elephant"
+                      >精銳矛象伕</nuxt-link
                     >
                   </li>
                   <li>

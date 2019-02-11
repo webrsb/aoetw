@@ -68,7 +68,8 @@
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>:漁網成本便宜33%。
             </li>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:伐木場科技免費研發。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+              >:伐木場科技免費研發。
             </li>
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:自然資源存量+15%。
