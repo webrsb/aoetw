@@ -17,7 +17,7 @@
               <nuxt-link to="/armor/Armor_Class_Eagle_Warrior">鷹勇士</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">馬弓騎兵</nuxt-link>·
-              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer">騎兵</nuxt-link>·
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit">火藥單位</nuxt-link>·
