@@ -144,7 +144,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/CannonGalleonIcon.jpg" /><nuxt-link
-                  to="/units/Cannon_Galleon"
+                  to="/units/Elite_Cannon_Galleon"
                   >精銳火砲戰船</nuxt-link
                 >
               </td>
@@ -192,8 +192,7 @@
             <tr>
               <td class="tta1">
                 <img class="gg" src="~assets/TurtleShipIcon.jpg" /><nuxt-link
-                  to="/units/Turtle_Ship"
-                  >精銳龜甲船</nuxt-link
+                  to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
                 >
               </td>
               <td class="tta3">300</td>

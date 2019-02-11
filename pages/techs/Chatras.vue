@@ -13,7 +13,7 @@
               >城堡時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後<nuxt-link to="/units/Ballista_Elephant"
+            >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
             >+50 HP。
           </p>
@@ -23,7 +23,7 @@
         <div class="n1">
           <ul>
             <li>
-              恰特拉傘讓<nuxt-link to="/units/Ballista_Elephant"
+              恰特拉傘讓<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
               >變得更坦，可以充當越南<nuxt-link
                 to="/units/Archer_Units"
@@ -59,7 +59,7 @@
           </h3>
           <ul>
             <li>
-              最初恰特拉傘給予<nuxt-link to="/units/Ballista_Elephant"
+              最初恰特拉傘給予<nuxt-link to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
               >+30 HP，5.7改版後增加為+50 HP。
             </li>

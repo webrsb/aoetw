@@ -95,7 +95,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aoc">帝王世紀</nuxt-link></em>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
             <li>成本為200木300石。</li>
@@ -121,7 +121,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aoc">失落的帝國</nuxt-link></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>
@@ -136,7 +136,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/aoc">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
             <li>

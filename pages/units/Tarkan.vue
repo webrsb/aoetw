@@ -676,7 +676,7 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="~assets/TarkanIcon.jpg" alt="" /><nuxt-link
-                to="/units/Elite_Tarkan"
+                to="/units/Tarkan"
                 >精銳韃靼騎兵</nuxt-link
               >
             </td>

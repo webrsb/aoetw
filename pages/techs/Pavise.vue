@@ -34,7 +34,7 @@
             </li>
             <li>
               研發巨盾與否取決於資料片版本，如果是<nuxt-link to="/games/aof"
-                >失落的王國</nuxt-link
+                >失落的帝國</nuxt-link
               >版本，巨盾花費太貴玩家應該優先升級其他科技或是演進至帝王時代。
             </li>
             <li>
@@ -63,7 +63,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/aof">失落的王國</nuxt-link></em>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
             <li>巨盾成本為550肉300金。</li>

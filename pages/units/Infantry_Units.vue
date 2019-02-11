@@ -98,8 +98,8 @@
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >:步兵便宜35%，步兵對<nuxt-link
                 to="/armor/Armor_Class_standard_building"
-                >標準建築有</nuxt-link
-              >+1攻擊。
+                >標準建築</nuxt-link
+              >有+1攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -380,7 +380,7 @@
                   class="gg"
                   src="~assets/EliteEagleWarriorIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Eagle_Warrior">精銳鷹勇士</nuxt-link>
+                /><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link>
               </td>
               <td class="tta3">60</td>
               <!--生命值!-->

@@ -44,7 +44,7 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、

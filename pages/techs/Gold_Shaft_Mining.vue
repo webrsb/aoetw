@@ -67,7 +67,7 @@
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>、
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
@@ -111,14 +111,14 @@
             <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
           </h3>
           <ul>
-            <li><nuxt-link to="/civs/Malay">馬利</nuxt-link>:礦井採金免費。</li>
+            <li><nuxt-link to="/civs/Malians">馬利</nuxt-link>:礦井採金免費。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link
               >:在5.7版本後沒有免費的礦井採金了。
             </li>
           </ul>

@@ -1234,7 +1234,7 @@
                     <td class="tunitc4">騎兵</td>
                     <td class="tunitc6">韃靼騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/York(865).php">約克(865)</nuxt-link>
+                      <nuxt-link to="/batt/York_865">約克(865)</nuxt-link>
                       <br /><nuxt-link to="/batt/Honfoglalas_895"
                         >征服家園(895)</nuxt-link
                       >
@@ -1251,7 +1251,7 @@
                     <td class="tunitc4">馬弓騎兵</td>
                     <td class="tunitc6">象弓騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/Bapheus(1302).php"
+                      <nuxt-link to="/batt/Bapheus_1302"
                         >巴菲烏斯(1302)</nuxt-link
                       >
                     </td>
@@ -1267,7 +1267,7 @@
                     <td class="tunitc4">馬弓騎兵</td>
                     <td class="tunitc6">重裝馬弓騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/Bapheus(1302).php"
+                      <nuxt-link to="/batt/Bapheus_1302"
                         >巴菲烏斯(1302)</nuxt-link
                       >
                     </td>

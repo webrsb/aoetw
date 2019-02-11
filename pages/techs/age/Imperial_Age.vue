@@ -233,7 +233,7 @@
                 src="~assets/EliteBattleElephantIcon2.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Battle_Elephant">精銳矛象伕</nuxt-link
+              /><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link
               >：重裝騎兵單位。
             </li>
           </ul>
@@ -369,7 +369,7 @@
                 src="~assets/CannonGalleonIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Cannon_Galleon">精銳火砲戰船</nuxt-link
+              /><nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link
               >：遠距離攻擊戰船。(需先研發<nuxt-link to="/techs/Chemistry"
                 >化學</nuxt-link
               >)
@@ -380,7 +380,7 @@
                 src="~assets/LongboatIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
+              /><nuxt-link to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
               >：：會射出多發箭矢的戰船。(限<nuxt-link to="/civs/Vikings"
                 >維京</nuxt-link
               >)
@@ -391,7 +391,7 @@
                 src="~assets/TurtleShipIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
+              /><nuxt-link to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
               >：：可發射砲彈的重裝戰船。(限<nuxt-link to="/civs/Koreans"
                 >韓國</nuxt-link
               >)
@@ -402,7 +402,7 @@
                 src="~assets/CaravelIcon2.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
+              /><nuxt-link to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
               >：：可發射穿透攻擊的戰船。(限<nuxt-link to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >)

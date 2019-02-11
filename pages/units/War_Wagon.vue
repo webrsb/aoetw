@@ -50,7 +50,7 @@
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link>，<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >，<nuxt-link to="/units/Ballista_Elephant">矛象伕</nuxt-link>，
+              >，<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>，
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >和<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
               >(有高遠程護甲)、<nuxt-link to="/units/Samurai"

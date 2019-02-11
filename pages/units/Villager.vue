@@ -1049,9 +1049,9 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<nuxt-link to="/building/Armor_class_stone_defense"
+              對<nuxt-link to="/armor/Armor_Class_stone_defense"
                 >石頭建築</nuxt-link
-              >+6 <br />對<nuxt-link to="/building/Armor_class_building"
+              >+6 <br />對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築</nuxt-link
               >+3
             </td>

@@ -206,20 +206,18 @@
                   </li>
                   <li>
                     <img class="gg" src="~assets/LongboatIcon.jpg" /><nuxt-link
-                      to="/units/Longboat"
-                      >精銳維京大戰船</nuxt-link
+                      to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
                     >
                   </li>
                   <li>
                     <img
                       class="gg"
                       src="~assets/TurtleShipIcon.jpg"
-                    /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>
+                    /><nuxt-link to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link>
                   </li>
                   <li>
                     <img class="gg" src="~assets/CaravelIcon2.jpg" /><nuxt-link
-                      to="/units/Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                      to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                     >
                   </li>
                   <li>

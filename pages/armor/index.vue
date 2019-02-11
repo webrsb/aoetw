@@ -365,8 +365,7 @@
                       class="gg"
                       src="~assets/EliteBattleElephantIcon2.png"
                       alt=""
-                    /><nuxt-link to="/units/Battle_Elephant"
-                      >精銳矛象伕</nuxt-link
+                    /><nuxt-link to="/units/Elite_Battle_Elephant">精銳矛象伕</nuxt-link
                     >（7,<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：9）
                   </li>
                   <li>
@@ -419,8 +418,7 @@
                 <ul>
                   <li>
                     <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
-                      to="/units/Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                      to="/units/Elite_Caravel">精銳卡拉維爾戰船</nuxt-link
                     >（10）
                   </li>
                   <li>
@@ -434,8 +432,7 @@
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                      to="/units/Longboat"
-                      >精銳維京大戰船</nuxt-link
+                      to="/units/Elite_Longboat">精銳維京大戰船</nuxt-link
                     >（9）
                   </li>
                   <li>

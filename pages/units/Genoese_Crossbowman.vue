@@ -30,7 +30,7 @@
               熱那亞弩手是一個能對付騎兵的弓箭手。即使是強大的大象單位（如<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >和<nuxt-link to="/units/Ballista_Elephant">矛象伕</nuxt-link
+              >和<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
               >）在面對大量熱那亞弩手的時候也毫無招架之力，不過在面對
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
               ><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link

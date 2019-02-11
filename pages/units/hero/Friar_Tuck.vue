@@ -13,7 +13,7 @@
               to="/units/hero"
               >英雄</nuxt-link
             >。他的原型是
-            <nuxt-link to="/Britions.php">英國</nuxt-link>民間故事中<nuxt-link
+            <nuxt-link to="/civs/Britons">英國</nuxt-link>民間故事中<nuxt-link
               to="/units/hero/Robin_Hood"
               >羅賓漢</nuxt-link
             >的一名夥伴，遊戲內他以<nuxt-link to="/units/Monk">僧侶</nuxt-link

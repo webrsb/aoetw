@@ -70,7 +70,7 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>、
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>、
-              <nuxt-link to="/civs/Malay">馬利</nuxt-link>、
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>。
             </div>
           </div>

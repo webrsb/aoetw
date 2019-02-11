@@ -293,7 +293,7 @@
                 src="~assets/BatteringRamIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Battering_Ram">輕型衝重車</nuxt-link
+              /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
               >：對建築物有強大的殺傷力。
             </li>
             <li>

@@ -40,7 +40,7 @@
           <h4>再生率</h4>
           <ul>
             <li>
-              <nuxt-link to="/units/heros">英雄</nuxt-link>：每分鐘回血30HP
+              <nuxt-link to="/units/hero">英雄</nuxt-link>：每分鐘回血30HP
             </li>
             <li>
               <nuxt-link to="/units/Berserk">狂戰士</nuxt-link

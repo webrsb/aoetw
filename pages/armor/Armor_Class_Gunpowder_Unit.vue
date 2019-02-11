@@ -69,13 +69,13 @@
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
               <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>→
               <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" />
-              <nuxt-link to="/units/Cannon_Galleon">精銳火砲戰船</nuxt-link>
+              <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link>
             </li>
             <li>
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
               <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>→
               <img class="gg" src="~assets/TurtleShipIcon.jpg" alt="" />
-              <nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
+              <nuxt-link to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
               >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
             </li>
             <li>

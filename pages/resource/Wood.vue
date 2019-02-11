@@ -49,7 +49,7 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:農田成本便宜33%。
             </li>
             <li>
-              <nuxt-link to="/civs/Incas">維京</nuxt-link
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:碼頭成本減少15%。(團隊加成)
             </li>
             <li>
@@ -65,16 +65,16 @@
               >:伐木場、採礦營地、磨坊建造成本減少50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">馬來</nuxt-link>:漁網成本便宜33%。
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>:漁網成本便宜33%。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">緬甸</nuxt-link>:伐木場科技免費研發。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:伐木場科技免費研發。
             </li>
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:自然資源存量+15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">馬利</nuxt-link
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link
               >:建築成本便宜15%。(農田除外)
             </li>
           </ul>

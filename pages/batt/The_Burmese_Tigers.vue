@@ -207,7 +207,7 @@
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Madalay_Cobra">猛蛇出洞</nuxt-link>
+              <nuxt-link to="/batt/The_Mandalay_Cobra">猛蛇出洞</nuxt-link>
             </td>
           </tr>
         </table>
