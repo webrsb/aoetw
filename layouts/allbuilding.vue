@@ -1,5 +1,6 @@
 <template>
   <div>
+    <chat />
     <navbar />
     <container />
     <allbuilding />
@@ -7,6 +8,7 @@
   </div>
 </template>
 <script>
+import chat from '~/components/chat.vue'
 import navbar from '~/components/navbar.vue'
 import allbuilding from '~/components/allbuilding.vue'
 import credit from '~/components/credit.vue'
@@ -19,6 +21,7 @@ export default {
     }
   },
   components: {
+    chat,
     navbar,
     allbuilding,
     credit,
