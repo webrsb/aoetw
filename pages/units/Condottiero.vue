@@ -68,7 +68,8 @@
               >，而是將傭兵作為馬來軍隊的後盾，利用傭兵的速度對付那些火藥和弓箭手單位(搭配<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >和 <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>)。
+              >和
+              <nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>)。
             </li>
             <li>
               有劍兵勇士文明在特定情況可考慮使用傭兵，特別是敵人使用許多反步兵單位的話。例如，馬利的傭兵可以加上<nuxt-link
@@ -610,7 +611,7 @@
               哥德傭兵為訓練速度第三快的單位，僅輸給<nuxt-link
                 to="/units/Shotel_Warrior"
                 >彎刀勇士</nuxt-link
-              >與<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>。
+              >與<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>。
             </li>
             <li>
               傭兵和<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link

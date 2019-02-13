@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>彎刀勇士</h1>
+        <h1>爪刀勇士</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -19,16 +19,16 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            彎刀勇士是人海戰術的最佳單位，因他們很便宜(只需要15黃金比民兵還便宜)，每單位又只佔半個人口。而且移動速度又快因此在打人海戰術是首選單位。也因此為了平衡這些優勢他們本身是非常脆弱的。以人海戰術上也要避免，對步兵極大傷害的兵種(火槍兵、拜占庭聖騎士)等對抗。
+            爪刀勇士是人海戰術的最佳單位，因他們很便宜(只需要15黃金比民兵還便宜)，每單位又只佔半個人口。而且移動速度又快因此在打人海戰術是首選單位。也因此為了平衡這些優勢他們本身是非常脆弱的。以人海戰術上也要避免，對步兵極大傷害的兵種(火槍兵、拜占庭聖騎士)等對抗。
           </p>
           <p>
-            彎刀勇士相當剋僧侶，因為他可以輕易地殺了僧侶，而僧侶招降他卻相當不划算。
+            爪刀勇士相當剋僧侶，因為他可以輕易地殺了僧侶，而僧侶招降他卻相當不划算。
           </p>
           <p>
-            他也是騷擾戰術也是很優質的選擇之一，一群的彎刀勇士可以擊殺沒有保護的村民或破壞重要據點(精英有對建築而外傷害)。另外的是彎刀勇士因為可以海量產出，生產速度又快因此可以用來閃電攻擊或者是快速集結保護自家城鎮據點。
+            他也是騷擾戰術也是很優質的選擇之一，一群的爪刀勇士可以擊殺沒有保護的村民或破壞重要據點(精英有對建築而外傷害)。另外的是爪刀勇士因為可以海量產出，生產速度又快因此可以用來閃電攻擊或者是快速集結保護自家城鎮據點。
           </p>
           <p>
-            經濟成形的彎刀勇士海幾乎什麼都不怕，連遊俠都可以殺，終究其原因就是速度快又便宜而且只佔半個人口。
+            經濟成形的爪刀勇士海幾乎什麼都不怕，連遊俠都可以殺，終究其原因就是速度快又便宜而且只佔半個人口。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -184,10 +184,10 @@
           </tr>
         </table>
 
-        <h3>剋彎刀勇士的單位與建築</h3>
+        <h3>剋爪刀勇士的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對彎刀勇士的額外傷害，按造傷殺力排列。
+          以下單位擁有對爪刀勇士的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="col-md-12">
               <div class="col-md-6">
@@ -310,7 +310,7 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對彎刀勇士有額外攻擊力
+        以下技術可讓以下單位對爪刀勇士有額外攻擊力
         <div class="n1">
           <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
           <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
@@ -339,7 +339,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高彎刀勇士的生產速度還有加速
+              >能夠提高爪刀勇士的生產速度還有加速
               <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >的研究時間(快25%)
             </li>
@@ -352,7 +352,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：彎刀勇士更難被招降。
+              >：爪刀勇士更難被招降。
             </li>
           </ul>
         </div>
@@ -363,10 +363,10 @@
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>最初彎刀勇士遠防為2，攻擊為5。</li>
+            <li>最初爪刀勇士遠防為2，攻擊為5。</li>
             <li>5.3版後遠防減少到1。</li>
             <li>5.5版後攻擊增加到6。</li>
-            <li>最初精銳彎刀勇士有8的攻擊，5.7版後減少為7。</li>
+            <li>最初精銳爪刀勇士有8的攻擊，5.7版後減少為7。</li>
             <li>5.8版後花費25F 10G → 30F 15G</li>
           </ul>
         </div>
@@ -374,15 +374,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>彎刀勇士生產只需要6秒，全遊戲最短。</li>
-            <li>彎刀勇士是唯一一個只佔半數人口的單位。</li>
+            <li>爪刀勇士生產只需要6秒，全遊戲最短。</li>
+            <li>爪刀勇士是唯一一個只佔半數人口的單位。</li>
             <li>
               30HP是所有軍事單位中低的，跟<nuxt-link to="/units/Archer"
                 >弓兵</nuxt-link
               >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>與
               <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>並列。
             </li>
-            <li>彎刀勇士與彎刀勇士是遊戲中唯二手拿兩件武器的單位。</li>
+            <li>爪刀勇士與彎刀勇士是遊戲中唯二手拿兩件武器的單位。</li>
             <li>
               遊戲中的爪刀看起來像人的手臂一樣大。然後實際上爪刀沒那麼大，大概只有手掌的大小而已。
             </li>
@@ -398,7 +398,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;;">
-              <div class="unititle2">彎刀勇士</div>
+              <div class="unititle2">爪刀勇士</div>
             </td>
           </tr>
           <tr>
@@ -522,7 +522,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              />精銳彎刀勇士
+              />精銳爪刀勇士
             </td>
           </tr>
           <tr>
@@ -555,19 +555,19 @@
                   src="~assets/Karambit_Warrior_group.jpg"
                   alt=""
               /></gallery>
-              <p><em>一群彎刀勇士</em></p>
+              <p><em>一群爪刀勇士</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/Karambits.png" alt=""
               /></gallery>
-              <p><em>兩個彎刀勇士只佔一人口。</em></p>
+              <p><em>兩個爪刀勇士只佔一人口。</em></p>
             </div>
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/Karambit_knife.jpg" alt=""
               /></gallery>
-              <p><em>沒有刀鞘的彎刀，可看見尾端的手指環。</em></p>
+              <p><em>沒有刀鞘的爪刀，可看見尾端的手指環。</em></p>
             </div>
           </div>
         </div>

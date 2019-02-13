@@ -320,8 +320,8 @@
           <tr>
             <td class="tta1">
               <img class="gg" src="~assets/Karambitwarrioricon.png" /><nuxt-link
-                to="/units/Shotel_Warrior"
-                >彎刀勇士(精銳)</nuxt-link
+                to="/units/Karambit_Warrior"
+                >爪刀勇士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">1.2，1.2</td>

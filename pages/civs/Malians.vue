@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>馬利</h1>
+        <h1>馬利</h1>ss
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬利或稱馬利，是資料片<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            馬利或稱馬里，是資料片<nuxt-link to="/games/ak">非洲王國</nuxt-link
             >新增的文明，他位於西非，主要是以馬利帝國為範本（Manden
             Kurufaba）。歷史上，馬利以強調教育而聞名，他是當時世界上最大的教育中心之一，許多來自中國、中東與歐洲的學者在此研究學問。為了顯示這一特點，他們的團隊加分就是
             <nuxt-link to="/building/University">學院</nuxt-link>研究快80%。

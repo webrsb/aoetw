@@ -816,7 +816,9 @@
                       class="gg"
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
-                    /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>
+                    /><nuxt-link to="/units/Karambit_Warrior"
+                      >爪刀勇士</nuxt-link
+                    >
                   </div>
                   <div class="unique">
                     <img

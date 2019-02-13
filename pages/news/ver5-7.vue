@@ -63,7 +63,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              />精銳彎刀勇士 減少 1攻擊力(原始 8)
+              />精銳爪刀勇士 減少 1攻擊力(原始 8)
             </li>
             <li>
               <img

@@ -878,7 +878,7 @@
                   class="gg"
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
-                /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>
+                /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>
               </td>
               <td class="tta3">30</td>
               <!--生命值!-->
@@ -902,7 +902,7 @@
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
                 /><nuxt-link to="/units/Karambit_Warrior"
-                  >精銳彎刀勇士</nuxt-link
+                  >精銳爪刀勇士</nuxt-link
                 >
               </td>
               <td class="tta3">40</td>

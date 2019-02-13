@@ -485,7 +485,7 @@
                 alt=""
               />
               <div>
-                <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>
+                <nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>
               </div>
             </td>
             <td class="t13 trm">
@@ -521,7 +521,7 @@
                 alt=""
               />
               <div>
-                <nuxt-link to="/units/Karambit_Warrior">精銳彎刀勇士</nuxt-link>
+                <nuxt-link to="/units/Karambit_Warrior">精銳爪刀勇士</nuxt-link>
               </div>
             </td>
             <td class="t13 trm">

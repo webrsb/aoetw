@@ -55,7 +55,7 @@
                 src="~assets/Karambitwarrioricon.png"
                 class="gg"
                 alt=""
-              />彎刀勇士 花費 25F 10G → 30F 15G
+              />爪刀勇士 花費 25F 10G → 30F 15G
             </li>
             <li>
               <img

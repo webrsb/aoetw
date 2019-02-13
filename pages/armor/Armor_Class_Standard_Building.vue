@@ -479,7 +479,7 @@
                       src="~assets/Karambitwarrioricon.png"
                       alt=""
                     /><nuxt-link to="/units/Karambit_Warrior"
-                      >精銳彎刀勇士</nuxt-link
+                      >精銳爪刀勇士</nuxt-link
                     >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
@@ -689,13 +689,13 @@
                   class="gg"
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
-                /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>→
+                /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>→
                 <img
                   class="gg"
                   src="~assets/Karambitwarrioricon.png"
                   alt=""
                 /><nuxt-link to="/units/Karambit_Warrior"
-                  >精銳彎刀勇士</nuxt-link
+                  >精銳爪刀勇士</nuxt-link
                 >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
               </li>
             </ul>

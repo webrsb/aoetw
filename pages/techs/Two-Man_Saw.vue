@@ -130,7 +130,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">訓練於</td>
+            <td class="unit3">研發於</td>
             <td class="unit4">
               <img
                 class="gg"
@@ -149,7 +149,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">訓練時間</td>
+            <td class="unit3">研發時間</td>
             <td class="unit4">100秒</td>
           </tr>
           <tr>

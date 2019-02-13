@@ -81,7 +81,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">訓練於</td>
+            <td class="unit3">研發於</td>
             <td class="unit4">
               <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
             </td>
@@ -96,7 +96,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">訓練時間</td>
+            <td class="unit3">研發時間</td>
             <td class="unit4">50秒</td>
           </tr>
           <tr>

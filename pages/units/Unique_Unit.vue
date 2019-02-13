@@ -612,7 +612,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>
+              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>

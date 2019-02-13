@@ -58,7 +58,7 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
+              /><nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
               >:為馬來的特殊單位。是遊戲裡只佔半個人口的的單位，便宜/快速的單位，缺點是過於脆弱。
             </li>
             <li>

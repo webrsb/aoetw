@@ -1903,7 +1903,7 @@
                               >
                             </td>
                             <td class="tunitc4">步兵</td>
-                            <td class="tunitc6">彎刀勇士</td>
+                            <td class="tunitc6">爪刀勇士</td>
                             <td class="tunitc6">無</td>
                           </tr>
                           <tr>

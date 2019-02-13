@@ -132,7 +132,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">訓練於</td>
+            <td class="unit3">研發於</td>
             <td class="unit4">
               <img class="gg" src="~assets/Mill-icon.jpg" alt="" /><nuxt-link
                 to="/building/Mill"
@@ -150,7 +150,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">訓練時間</td>
+            <td class="unit3">研發時間</td>
             <td class="unit4">70秒</td>
           </tr>
           <tr>

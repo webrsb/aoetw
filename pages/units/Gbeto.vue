@@ -417,7 +417,7 @@
                 to="/units/Archer"
                 >弓兵</nuxt-link
               >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>、和
-              <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>並列。
+              <nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>並列。
             </li>
             <li>飛刀女獵手死亡的聲音與女村民相同。</li>
             <li>史實上的飛刀女獵手實際上是拿火槍。</li>
