@@ -272,7 +272,7 @@
               /></gallery>
               <p>灰色轉為敵對後，橋會修復，我方即可進城。</p>
             </div>
-          </div>
+          </div></div>   </div>
           <div class="col-md-4">
             <table class="table-bordered" width="100%">
               <tr>
@@ -336,8 +336,8 @@
             <div class="thanks">感謝！此頁面由小蛇、裕暉協助編輯。</div>
           </div>
         </div>
-      </div>
-    </div>
+   
+
   </div>
 </template>
 <script>
