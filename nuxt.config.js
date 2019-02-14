@@ -38,7 +38,8 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '~plugins/register.js'
+    '~plugins/register.js',
+    '~plugins/ga.js'
   ],
 
   /*
