@@ -43,7 +43,6 @@
             </tr>
           </table>
 
-          <br />
           <h3>AI</h3>
           <!-- <span class="glyphicon glyphicon-star" aria-hidden="true" style="color: #ff911d; margin-left: 5px;"></span>:中立</p>!-->
           <table class="table-bordered" width="100%">
@@ -192,11 +191,25 @@
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <!-- <img class="imgn hg" src="~assets/Estado_da_India-01.png" alt="" width="100%" /> -->
+              <gallery>
+                <img
+                  class="imgn hg"
+                  src="~assets/Estado_da_India-01.png"
+                  alt=""
+                  width="100%"
+                />
+              </gallery>
               <p>地圖中的Hp1籬笆可獲取大量資源。</p>
             </div>
             <div class="col-md-12">
-              <!-- <img class="imgn hg" src="~assets/Estado_da_India-02.png" alt="" width="100%" /> -->
+              <gallery>
+                <img
+                  class="imgn hg"
+                  src="~assets/Estado_da_India-02.png"
+                  alt=""
+                  width="100%"
+                />
+              </gallery>
               <p>功用不明的紀念碑，無法摧毀，只要某勢力單位經過即從屬。</p>
             </div>
           </div>
@@ -215,10 +228,18 @@
               </li>
             </ul>
           </div>
+          <h2>圖庫</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <div class="col-md-12">
-              <!-- <img class="imgn hg" src="~assets/Estado_da_India-03.png" alt="" width="100%" /> -->
+              <gallery>
+                <img
+                  class="imgn hg"
+                  src="~assets/Estado_da_India-03.png"
+                  alt=""
+                  width="100%"
+                />
+              </gallery>
               <p>
                 原領地內蓋世界奇觀快速破關法。<br />
                 （市集蓋的位置應該要再離城門遠些，不然前線單位移動時都會卡卡的。）
@@ -241,9 +262,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <center>
-                  <!-- <img src="~assets/Estado_da_India.png" alt="" /> -->
-                </center>
+                <img src="~assets/Estado_da_India.png" alt="" />
               </div>
             </td>
           </tr>
@@ -303,7 +322,6 @@
       </div>
     </div>
   </div>
-  <!-- /container -->
 </template>
 <script>
 export default {
