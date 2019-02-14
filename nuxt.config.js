@@ -39,7 +39,7 @@ module.exports = {
   */
   plugins: [
     '~plugins/register.js',
-    '~plugins/ga.js'
+    { src: '~plugins/ga.js', ssr: false }
   ],
 
   /*
