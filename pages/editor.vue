@@ -6,6 +6,7 @@
 import play from '~/components/play'
 
 export default {
+  layout: 'nochat',
   components: {
     play
   },

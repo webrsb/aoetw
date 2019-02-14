@@ -23,11 +23,9 @@ export default {
   },
   mounted () {
     document.addEventListener('keydown', this.emitEnterEvent)
-    console.log('mounted')
   },
   destroyed () {
     document.removeEventListener('keydown', this.emitEnterEvent)
-    console.log('destroyed')
   },
   computed: {
     show () {
@@ -64,7 +62,6 @@ export default {
       }
     },
     soundEffect (text) {
-      console.log(text)
       if (text === '' || text.trim() === '' || isNaN(text.charAt(0))) {
         return
       }
@@ -77,7 +74,6 @@ export default {
         audio.src = `${this.STATIC_PATH}voice/${file_name}`
         audio.currentTime = 0
         audio.play()
-
       }
     }
   },

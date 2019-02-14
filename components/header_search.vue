@@ -38,9 +38,6 @@ export default {
     document.getElementsByTagName('body')[0].appendChild(link)
     scriptInjected = true
   },
-  destroyed() {
-    scriptInjected = false
-  },
   methods: {
     addInstantSearch() {
       window.docsearch({

@@ -7,6 +7,18 @@
       </div>
     </div>
     <div class="container">
+      <div class="spw">
+        <em
+          ><img
+            src="~assets/Prithviicon.png"
+            width="50px;"
+            alt=""
+            style="margin-right:20px;"
+          />什麼？這邊沒有你要問的問題？ 請到<nuxt-link to="/talk"
+            >討論區</nuxt-link
+          >發問！</em
+        >
+      </div>
       <h3>1.系統相關-購買前</h3>
       <div class="row">
         <div class="col-md-12">
@@ -193,6 +205,42 @@
           <b-collapse id="a-4">
             <div class="well">
               可以只買主程式，且HD主程式與資料片全部都可互連。但如果只買主程式，則沒辦法用新文明，沒差多少錢，建議全買。
+            </div>
+          </b-collapse>
+        </div>
+      </div>
+      <div class="row zo">
+        <div class="col-md-12">
+          <b-btn v-b-toggle.a-5 class="m-1" variant="primary"
+            >1-5.現在要到哪裡連線對戰？</b-btn
+          >
+          <b-collapse id="a-5">
+            <div class="well">
+              現在玩家大多使用Steam平台對戰，也就是購買上述所說的Aoe
+              HD版本，即有內建連線平台。另外也有人數較少，使用稍微比較不方便，但水平較高、品質更好的Voobly平台，教學<a
+                target="_blank"
+                href="https://www.ptt.cc/bbs/AOE/M.1511542311.A.669.html"
+                >請點此</a
+              >。
+            </div>
+          </b-collapse>
+        </div>
+      </div>
+      <div class="row zo">
+        <div class="col-md-12">
+          <b-btn v-b-toggle.a-6 class="m-1" variant="primary"
+            >1-6.電腦配備要求很高嗎?</b-btn
+          >
+          <b-collapse id="a-6">
+            <div class="well">
+              <h3>系統需求</h3>
+              <p>
+                最低配備：作業系統：Windows Vista, 7, 8 Pro+<br />
+                處理器：1.2GHZ CPU<br />
+                記憶體：1 GB RAM<br />
+                顯示卡：相容 Direct X 9.0c 的顯示晶片DirectX® 版本：9.0c<br />
+                硬碟空間：2 GB 可用硬碟空間
+              </p>
             </div>
           </b-collapse>
         </div>
@@ -405,9 +453,15 @@
       </div>
       <div class="row zo">
         <div class="col-md-12">
-          <b-btn v-b-toggle.a-2 class="m-1" variant="success"
-            >1-2.世紀帝國2 HD版要如何購買？怎麼玩？</b-btn
+          <b-btn v-b-toggle.c-3 class="m-1" variant="success"
+            >3-3.語音指令沒聲音</b-btn
           >
+          <b-collapse id="c-3">
+            <div class="well">
+              <p>Patch 5.7 語音指令預設關閉 請自行啟動</p>
+              <img src="~assets/blfNLeZl.jpg" alt="" />
+            </div>
+          </b-collapse>
         </div>
       </div>
       <h3>4.遊戲戰術相關</h3>
@@ -433,6 +487,14 @@
               <p>
                 撇除前面的原因，老子就是有錢蓋了修道院和出了僧侶，那為什麼你還是不撿遺跡，僧侶這麼好用，當然出來直接上戰場阿，僧侶可招降可補血，非常好用，對於一隻軍隊的幫助非常大，舉個例子好了，五隻駱駝配五隻征服者，明顯的是征服者可以虐殺駱駝，但配五隻駱駝一隻僧侶打六隻征服者那情況就相當不一樣，僧侶號稱最強防守兵種，我吃飽閒閒沒事去外面撿遺跡，那就是空閒，僧侶走的又慢，一來一往都把戰局給賣了，所以回歸到最原始的功能面，僧侶就該做他該做的事情，招降和補血，行有餘力等戰局穩定時再來做他額外的事情吧
               </p>
+              <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/iRz0k759qlQ"
+                frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              ></iframe>
             </div>
           </b-collapse>
         </div>
@@ -445,6 +507,26 @@
           <b-collapse id="d-2">
             <div class="well">
               表面上被偷豬不計耗損，損失340肉，而對方賺340肉，但實際上靠趕鹿早點種田等方式，其實損失沒有帳面上如此大，高手即使被偷豬升級也不會被影響。但偷豬還有隱形的損失，且隱形的損失遠大於帳面上，譬如說偷豬的那一方多吃一隻豬，等於斥候趕了2隻半的鹿，代表他不用提早種田，有多餘的木頭可以做更多的事情，被偷豬的那一方斥候得在家趕鹿，所以沒有辦法探情報，對方如果打裝甲塔還是前置等兇猛的打法，沒辦法提早做準備，這是最虧的。
+            </div>
+          </b-collapse>
+        </div>
+        <div class="col-md-12">
+          <b-btn v-b-toggle.d-3 class="m-1" variant="warning"
+            >4-3.為什麼斥候探路都不用Shift自動探路?</b-btn
+          >
+          <b-collapse id="d-3">
+            <div class="well">
+              因為用shift設路徑自動探路，大腦沒辦法記憶地圖，會變成你只是為了開地圖，而其實探路真正的目的是知道地圖長什麼樣子，哪邊有狼、有缺口、有資源等等，如果不是手動探，你最後還是要花時間去看，多此一舉。且自動探路很危險，遇到敵人的馬會被捕第一刀，你回過神後大概被砍兩刀了，這對初期戰局很不利，最重要的是手動探圖，斥候都有可能誤入敵人城鎮而被射死，不要說自動探圖了。自動探圖頂多用在綿羊探家裡附近。
+            </div>
+          </b-collapse>
+        </div>
+        <div class="col-md-12">
+          <b-btn v-b-toggle.d-4 class="m-1" variant="warning"
+            >4-4.為什麼都不用磨坊的排隊田?</b-btn
+          >
+          <b-collapse id="d-4">
+            <div class="well">
+              因為初期的資源都很緊，都控制在各項資源1~200內，60木材放到磨坊內排隊就等於浪費60木，沒辦法利用。等於你在最需要錢的時候，把錢存在銀行，而且還沒有利息。
             </div>
           </b-collapse>
         </div>

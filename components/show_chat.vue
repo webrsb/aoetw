@@ -52,7 +52,6 @@ export default {
 </script>
 <style>
   .chat_area > ul > li {
-    z-index: 1001;
     color: blue;
     font-size: 17px;
     line-height: 17px;
@@ -63,6 +62,7 @@ export default {
   }
 
   .chat_area {
+    z-index: 1001;
     position: fixed;
     top: 100px;
     left: 4px;
