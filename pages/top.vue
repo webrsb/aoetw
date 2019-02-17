@@ -24,48 +24,210 @@
         </p>
       </div>
       <div class="row" style="margin-top: 10px;border-top: 1px solid #c7c7c7;">
+        <div class="col-md-3">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >Viper
+                    <a
+                      href="https://www.voobly.com/profile/view/123211439/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a href="https://www.twitch.tv/theviper"
+                      ><img src="~assets/Twitch.jpg" alt=""
+                    /></a>
+                    <a href="https://www.youtube.com/user/TheViperAOC/videos"
+                      ><img src="~assets/YouTube.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/Viper2.jpg" width="270" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/no.png"
+                  width="24"
+                  alt=""
+                />&nbsp;挪威&nbsp;&nbsp;
+                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                  ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                單挑2729&nbsp;&nbsp;團戰2220&nbsp;&nbsp;1991年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                2012後公認的最強玩家，微操、大局觀、單挑、團戰都到了前無古人的水準，能適應任何地圖打法，認真參加的比賽幾乎都能拿冠軍。
+              </td>
+            </tr>
+            <tr>
+              <td>近期成就：NAC兩冠、KotD兩冠、AD兩冠、BoA冠軍</td>
+            </tr>
+          </table>
+        </div>
 
-<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h4><strong>Viper
-    <a href="https://www.voobly.com/profile/view/123211439/Matches"><img src="~assets/Voobly.jpg" alt=""/></a>
-    <a href="https://www.twitch.tv/theviper"><img src="~assets/Twitch.jpg" alt=""/></a>
-    <a href="https://www.youtube.com/user/TheViperAOC/videos"><img src="~assets/YouTube.jpg" alt=""/></a></strong></h4>
-</td></tr><tr><td style="text-align:center"><img src="~assets/Viper2.jpg" width="270" alt=""/>
-</td></tr><tr><td class="tor" style="text-align:center"><img src="~assets/no.png" width="24" alt=""/>&nbsp;挪威&nbsp;&nbsp;
-    <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"><img src="~assets/secret.jpg" alt=""/>&nbsp;Secret</a>
-</td></tr><tr><td style="text-align:center">單挑2729&nbsp;&nbsp;團戰2220&nbsp;&nbsp;1991年次
-</td></tr><tr><td>2012後公認的最強玩家，微操、大局觀、單挑、團戰都到了前無古人的水準，能適應任何地圖打法，認真參加的比賽幾乎都能拿冠軍。
-</td></tr><tr><td>近期成就：NAC兩冠、KotD兩冠、AD兩冠、BoA冠軍
-</td></tr></table></div>
+        <div class="col-md-3">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >Liereyy
+                    <a
+                      href="https://www.voobly.com/profile/view/124147336/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a href="https://www.twitch.tv/liereyy"
+                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/Lierey.jpg" width="270" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/at.png"
+                  width="24"
+                  alt=""
+                />&nbsp;奧地利&nbsp;&nbsp;<img
+                  src="~assets/aM.jpg"
+                  alt=""
+                />&nbsp;aM
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                單挑2625&nbsp;&nbsp;團戰2275&nbsp;&nbsp;2002年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                新崛起的天才玩家，控兵能力令人嘆為觀止，在許多比賽皆拿到僅次於
+                Viper 的成績。團戰亦屬最頂級 以與 Hearttt 的絕佳配合聞名。
+              </td>
+            </tr>
+            <tr>
+              <td>KotD 兩度惜敗 Viper 獲亞軍；AreD17亞軍、BoA亞軍</td>
+            </tr>
+          </table>
+        </div>
 
-<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h4><strong>Liereyy 
-    <a href="https://www.voobly.com/profile/view/124147336/Matches"><img src="~assets/Voobly.jpg" alt=""/></a> 
-    <a href="https://www.twitch.tv/liereyy"><img src="~assets/Twitch.jpg" alt=""/></a></strong></h4>
-</td></tr><tr><td style="text-align:center"><img src="~assets/Lierey.jpg" width="270" alt=""/>
-</td></tr><tr><td class="tor" style="text-align:center"><img src="~assets/at.png" width="24" alt=""/>&nbsp;奧地利&nbsp;&nbsp;<img src="~assets/aM.jpg" alt=""/>&nbsp;aM
-</td></tr><tr><td style="text-align:center">單挑2625&nbsp;&nbsp;團戰2275&nbsp;&nbsp;2002年次
-</td></tr><tr><td>新崛起的天才玩家，控兵能力令人嘆為觀止，在許多比賽皆拿到僅次於 Viper 的成績。團戰亦屬最頂級 以與 Hearttt 的絕佳配合聞名。
-</td></tr><tr><td>KotD 兩度惜敗 Viper 獲亞軍；AreD17亞軍、BoA亞軍
-</td></tr></table></div>
+        <div class="col-md-3">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >Yo (猜火車)
+                    <a
+                      href="https://www.voobly.com/profile/view/123636492/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a href="https://www.douyu.com/753676"
+                      ><img src="~assets/douyu.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/Yo2.jpg" width="270" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/cn.png"
+                  width="24"
+                  alt=""
+                />&nbsp;中國&nbsp;&nbsp;<img
+                  src="~assets/SY.jpg"
+                  alt=""
+                />&nbsp;SY
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                單挑2693&nbsp;&nbsp;團戰2286&nbsp;&nbsp;1992年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                唯一在單挑團戰最高積分榜皆居前三名的玩家，實力亦然。擅長後期多線與控圖，能逆轉極大的劣勢。曾來臺灣留學。
+              </td>
+            </tr>
+            <tr>
+              <td>WSVG亞軍、阿拉伯邀請賽冠軍、KotD2四強、BoA四強、4v4三冠</td>
+            </tr>
+          </table>
+        </div>
 
-<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h4><strong>Yo (猜火車)
-    <a href="https://www.voobly.com/profile/view/123636492/Matches"><img src="~assets/Voobly.jpg" alt=""/></a> 
-    <a href="https://www.douyu.com/753676"><img src="~assets/douyu.jpg" alt=""/></a></strong></h4>
-</td></tr><tr><td style="text-align:center"><img src="~assets/Yo2.jpg" width="270" alt=""/>
-</td></tr><tr><td class="tor" style="text-align:center"><img src="~assets/cn.png" width="24" alt=""/>&nbsp;中國&nbsp;&nbsp;<img src="~assets/SY.jpg" alt=""/>&nbsp;SY
-</td></tr><tr><td style="text-align:center">單挑2693&nbsp;&nbsp;團戰2286&nbsp;&nbsp;1992年次
-</td></tr><tr><td>唯一在單挑團戰最高積分榜皆居前三名的玩家，實力亦然。擅長後期多線與控圖，能逆轉極大的劣勢。曾來臺灣留學。
-</td></tr><tr><td>WSVG亞軍、阿拉伯邀請賽冠軍、KotD2四強、BoA四強、4v4三冠
-</td></tr></table></div>
-
-<div class="col-md-3"><table class="table"><tr><td style="text-align:center"><h4><strong>Nicov 
-    <a href="https://www.voobly.com/profile/view/123807394/Matches"><img src="~assets/Voobly.jpg" alt=""/></a> 
-    <a href="https://www.twitch.tv/nicov_"><img src="~assets/Twitch.jpg" alt=""/></a></strong></h4>
-</td></tr><tr><td style="text-align:center"><img src="~assets/Nicov.jpg" width="270" alt=""/>
-</td></tr><tr><td class="tor" style="text-align:center"><img src="~assets/ar.png" width="24" alt=""/>&nbsp;阿根廷&nbsp;&nbsp;<img src="~assets/aM.jpg" alt=""/>&nbsp;aM
-</td></tr><tr><td style="text-align:center">單挑2602&nbsp;&nbsp;團戰2257&nbsp;&nbsp;1992年次
-</td></tr><tr><td>團戰最頂級玩家，對單挑的興趣雖不甚穩定但表現十分穩定，戰術狂野常在城堡時代壓掉對方，最早是從游牧發跡。時常 FP。
-</td></tr><tr><td>EGM2冠軍、ND16冠軍、ND18季軍、AD17亞軍、RotK亞軍
-</td></tr></table></div>
+        <div class="col-md-3">
+          <table class="table">
+            <tr>
+              <td style="text-align:center">
+                <h4>
+                  <strong
+                    >Nicov
+                    <a
+                      href="https://www.voobly.com/profile/view/123807394/Matches"
+                      ><img src="~assets/Voobly.jpg" alt=""
+                    /></a>
+                    <a href="https://www.twitch.tv/nicov_"
+                      ><img src="~assets/Twitch.jpg" alt=""/></a
+                  ></strong>
+                </h4>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                <img src="~assets/Nicov.jpg" width="270" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td class="tor" style="text-align:center">
+                <img
+                  src="~assets/ar.png"
+                  width="24"
+                  alt=""
+                />&nbsp;阿根廷&nbsp;&nbsp;<img
+                  src="~assets/aM.jpg"
+                  alt=""
+                />&nbsp;aM
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align:center">
+                單挑2602&nbsp;&nbsp;團戰2257&nbsp;&nbsp;1992年次
+              </td>
+            </tr>
+            <tr>
+              <td>
+                團戰最頂級玩家，對單挑的興趣雖不甚穩定但表現十分穩定，戰術狂野常在城堡時代壓掉對方，最早是從游牧發跡。時常
+                FP。
+              </td>
+            </tr>
+            <tr>
+              <td>EGM2冠軍、ND16冠軍、ND18季軍、AD17亞軍、RotK亞軍</td>
+            </tr>
+          </table>
+        </div>
 
         <div class="col-md-3">
           <table class="table">
