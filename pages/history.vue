@@ -17,7 +17,7 @@
         </div>
         <div class="n1">
           <p>本頁面記錄歷史上重要的比賽結果。</p>
-          <p>本頁面由 Lanchi 整理、更新。</p>
+          <p>本頁面由 Lanchi 整理、更新 [施工中]</p>
           <div class="col-md-12">
             <div
               class="col-md-3"
@@ -38,34 +38,11 @@
           <h3 id="a5"><strong>1v1 (2000~2011)</strong></h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>2000年 <strong>世界電競大賽 挑戰賽</strong></p>
-            <ul class="list-unstyled">
-              <li>
-                <span
-                  style="color:#ffca00"
-                  class="glyphicon glyphicon-glass"
-                  aria-hidden="true"
-                ></span
-                >冠軍<img src="~assets/kr.png" class="flg" alt="" />Myung-Jin
-                Jung
-              </li>
-              <li>
-                <span
-                  style="color:#9ca1a5"
-                  class="glyphicon glyphicon-glass"
-                  aria-hidden="true"
-                ></span
-                >亞軍<img src="~assets/tw.png" class="flg" alt="" />IamJordan
-              </li>
-              <li>
-                <span
-                  style="color:#b79355"
-                  class="glyphicon glyphicon-glass"
-                  aria-hidden="true"
-                ></span
-                >季軍<img src="~assets/kr.png" class="flg" alt="" />Koven
-              </li>
-            </ul>
+<ul class="list-unstyled">
+<li>2000年 <strong>世界電競大賽 挑戰賽</strong></li>
+<li><span style="color:#ffca00" class="glyphicon glyphicon-glass" aria-hidden="true"></span>冠軍<img src="~assets/kr.png" class="flg" alt="" />Myung-Jin Jung</li>
+<li><span style="color:#9ca1a5" class="glyphicon glyphicon-glass" aria-hidden="true"></span>亞軍<img src="~assets/tw.png" class="flg" alt="" />IamJordan</li>
+<li><span style="color:#b79355" class="glyphicon glyphicon-glass" aria-hidden="true"></span>季軍<img src="~assets/kr.png" class="flg" alt="" />Koven</li></ul>
             <p></p>
             <p>
               2001年
