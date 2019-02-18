@@ -227,7 +227,7 @@
         <div class="n1 bonuses">
           以下單位擁有對馬扎爾驃騎兵的額外傷害，按照傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
                 <ul>
@@ -531,7 +531,7 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-4">
                 <gallery
                   ><img
@@ -556,7 +556,7 @@
                 /></gallery>
                 <p><em>2.2版前的馬扎爾驃騎兵。</em></p>
               </div>
-              <div class="col-md-12">
+              <div class="row">
                 <div class="col-md-4">
                   <gallery
                     ><img

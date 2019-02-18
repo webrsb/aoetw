@@ -183,7 +183,7 @@
         <div class="n1 bonuses">
           以下單位擁有對輕型投石車的額外傷害，按造傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+65攻擊</strong></div>
                 <ul>
@@ -460,7 +460,7 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-4">
                 <gallery
                   ><img class="imgn hg" src="~assets/Mangonel.png" alt=""

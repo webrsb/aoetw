@@ -19,7 +19,7 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-5">
               <gallery
                 ><img class="hg" width="250" src="~assets/Joan1start.png" alt=""

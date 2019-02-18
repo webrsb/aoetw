@@ -404,7 +404,7 @@
         <h3>技術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <img src="~assets/Heatedshot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"

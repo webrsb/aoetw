@@ -755,7 +755,7 @@
           <p><em>一群鷹勇士(《世紀帝國II:失落的帝國》資料片)</em></p>
         </div>
       </div>
-      <div class="col-md-12">
+      <div class="row">
         <div class="col-md-4">
           <gallery
             ><img class="imgn hg" src="~assets/Eagle_Warrior.jpg" alt=""

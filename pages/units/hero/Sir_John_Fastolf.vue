@@ -20,7 +20,7 @@
         <h3>出現場景</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-5">
               <gallery
                 ><img

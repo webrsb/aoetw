@@ -26,7 +26,7 @@
         <div class="n1">
           下列的單位都是特殊單位
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <ul>
                   <li>

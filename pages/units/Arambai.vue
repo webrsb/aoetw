@@ -494,7 +494,7 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img
@@ -525,7 +525,7 @@
               /></gallery>
               <p><em>飛鏢騎兵的攻擊方式是丟飛鏢</em></p>
             </div>
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-4">
                 <gallery
                   ><img

@@ -6,7 +6,7 @@
     </div>
     <div class="container" style="margin-bottom: 30px;">
       <div class="row">
-        <div class="col-md-12">
+        <div class="row">
           <div class="col-md-12">
             <p>
               <span style="text-align: center; color:#dc3545;"

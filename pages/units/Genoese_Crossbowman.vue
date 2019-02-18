@@ -662,7 +662,7 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img
@@ -692,7 +692,7 @@
               <p><em>Mod版(左)和零售版(右)的熱那亞弩手。</em></p>
             </div>
           </div>
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img

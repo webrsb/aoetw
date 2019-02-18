@@ -357,7 +357,7 @@
         <div class="n1">
           以下單位擁有對蒙古突騎的額外傷害，按造傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
                 <ul>

@@ -28,7 +28,7 @@
             the
             Pious）接替。查理曼帝國在他的兒子死後分裂，但奠定了西歐許多現代國家的基礎。神聖羅馬帝國存活了一千年，直到1806年被拿破崙解散。
           </p>
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img

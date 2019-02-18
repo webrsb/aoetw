@@ -169,7 +169,7 @@
         <div class="n1 bonuses">
           以下單位擁有對輕型衝撞車的額外傷害，按造傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+65攻擊</strong></div>
                 <ul>
@@ -442,7 +442,7 @@
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-4">
                 <gallery
                   ><img class="imgn hg" src="~assets/Bram1.jpg" alt=""
@@ -462,7 +462,7 @@
                 <p><em>衝撞車系。</em></p>
               </div>
             </div>
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-4">
                 <gallery
                   ><img class="imgn hg" src="~assets/Splashdamageram.jpg" alt=""

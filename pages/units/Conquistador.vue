@@ -184,7 +184,7 @@
         <div class="n1">
           以下單位擁有對征服者的額外傷害，按造傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
                 <ul>
@@ -511,7 +511,7 @@
               to="/units/Archer_Units"
               >弓兵單位</nuxt-link
             >。
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+2攻擊</strong></div>
                 <ul>
@@ -775,7 +775,7 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/Conquistadorgroup.png" alt=""

@@ -182,7 +182,7 @@
         <div class="n1 bonuses">
           以下單位擁有對火蒙衝的額外傷害，按照傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+40攻擊</strong></div>
                 <ul>
@@ -444,7 +444,7 @@
         </div>
         以下技術可讓以下單位對火蒙衝有額外攻擊力
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <img src="~assets/Heatedshot.png" width="22" alt="" /><nuxt-link
                 to="/techs/Heated_Shot"
@@ -769,7 +769,7 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img class="imgn hg" src="~assets/Fireline.png" alt=""

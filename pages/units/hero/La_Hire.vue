@@ -24,7 +24,7 @@
           <p>
             拉海爾首次出現是在戰役"羅亞爾河大掃蕩"中，而在最後戰役"完美的烈士"也會出現，戰役編輯器中也可找到拉海爾。他總是用第三人稱來描述自己是一個土匪轉身的戰士，不斷地提到自己的劍上沒有足夠的血（或者是乾的），或者他需要殺人等字眼。
           </p>
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img class="hg" width="250" src="~assets/Joan3army.png" alt=""

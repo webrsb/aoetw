@@ -228,7 +228,7 @@
         <div class="n1">
           以下單位擁有對弩砲象的額外傷害，按造傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+65攻擊</strong></div>
                 <ul>
@@ -970,7 +970,7 @@
             /></gallery>
             <p><em>弩砲象雖然屬於攻城單位，但可以被僧侶治療。</em></p>
           </div>
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <gallery
                 ><img
