@@ -245,8 +245,7 @@
           </tr>
         </table>
 
-        <table class="table">
-          style="margin-top:50px;">
+        <table class="table" style="margin-top:50px;">
           <tr>
             <td class="trm" style="border-top: none;" colspan="6">
               <nuxt-link to="/building/Stable"

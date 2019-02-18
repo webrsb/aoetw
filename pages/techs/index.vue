@@ -58,7 +58,7 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">150F 50G</td>
             <td class="tunitc6">
-              步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
+              步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

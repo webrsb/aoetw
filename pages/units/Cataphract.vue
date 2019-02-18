@@ -600,7 +600,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">單位介紹</div>
             </td>
           </tr>
@@ -642,7 +642,7 @@
             <td class="unit4">20秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -655,7 +655,7 @@
             <td class="unit4">75</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">數據</div>
             </td>
           </tr>
@@ -708,7 +708,7 @@
             <td class="unit4">4/5(精銳)</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">單位演變</div>
             </td>
           </tr>

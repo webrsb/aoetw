@@ -613,7 +613,7 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">單位演變</div>
             </td>
           </tr>

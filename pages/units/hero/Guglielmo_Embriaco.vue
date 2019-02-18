@@ -81,7 +81,7 @@
                 >駱駝</nuxt-link
               >
               +7 <br />對<nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
-              +7 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
+              +7 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               +2 <br />

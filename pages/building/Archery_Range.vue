@@ -353,7 +353,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 射箭場
               </div>
@@ -367,7 +367,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">概要</div>
             </td>
           </tr>
@@ -396,7 +396,7 @@
             <td class="unit4">50秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -405,7 +405,7 @@
             <td class="unit4">175</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
@@ -491,7 +491,7 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
               <br />
-              <nuxt-link to="/armor/Armor_Class_standard_building"
+              <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

@@ -12,7 +12,7 @@
             >在軍營研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >對
-            <nuxt-link to="/armor/Armor_Class_standard_building"
+            <nuxt-link to="/armor/Armor_Class_Standard_Building"
               >標準建築</nuxt-link
             >傷害+2，於<nuxt-link to="/games/ak">非洲王朝</nuxt-link
             >資料片後出現。

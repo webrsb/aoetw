@@ -391,7 +391,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：長弓兵對<nuxt-link to="/armor/Armor_Class_standard_building"
+              >：長弓兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>
@@ -461,7 +461,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">長弓兵</div>
             </td>
           </tr>
@@ -473,7 +473,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">單位介紹</div>
             </td>
           </tr>
@@ -515,7 +515,7 @@
             <td class="unit4">18秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -528,7 +528,7 @@
             <td class="unit4">40</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
           </tr>
@@ -592,7 +592,7 @@
             <td class="unit4">7, 8(精銳)</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">單位演變</div>
             </td>
           </tr>

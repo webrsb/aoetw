@@ -488,9 +488,7 @@
                     src="~assets/Elite-unique-research.jpg"
                     alt="特殊單位"
                   />
-                  <div
-                    style="float: right; margin-top: 1px;; margin-left: 4px;"
-                  >
+                  <div style="float: right; margin-top: 1px; margin-left: 4px;">
                     特 殊 單 位
                   </div>
                 </template>
@@ -593,13 +591,6 @@
                       >狂戰士</nuxt-link
                     >
                   </div>
-                  <div class="unique">
-                    <img
-                      class="gg"
-                      src="~assets/LongboatIcon.jpg"
-                      alt=""
-                    /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
-                  </div>
                   <div class="game_title">
                     <nuxt-link to="/games/aoc"
                       ><img
@@ -633,13 +624,6 @@
                   <div class="unique">
                     <img
                       class="gg"
-                      src="~assets/TurtleShipIcon.jpg"
-                      alt=""
-                    /><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>
-                  </div>
-                  <div class="unique">
-                    <img
-                      class="gg"
                       src="~assets/PlumedArcherIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Plumed_Archer"
@@ -653,15 +637,6 @@
                       alt=""
                     /><nuxt-link to="/units/Conquistador">征服者</nuxt-link>
                   </div>
-
-                  <div class="unique">
-                    <img
-                      class="gg"
-                      src="~assets/MissionaryIcon.jpg"
-                      alt=""
-                    /><nuxt-link to="/units/Missionary">傳教士</nuxt-link>
-                  </div>
-
                   <div class="game_title">
                     <nuxt-link to="/games/aof"
                       ><img
@@ -677,13 +652,6 @@
                       src="~assets/Kamayuk_Icon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>
-                  </div>
-                  <div class="unique">
-                    <img
-                      class="gg"
-                      src="~assets/Slingericon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Slinger">投石手</nuxt-link>
                   </div>
                   <div class="unique">
                     <img
@@ -711,13 +679,6 @@
                     /><nuxt-link to="/units/Genoese_Crossbowman"
                       >熱那亞弩手</nuxt-link
                     >
-                  </div>
-                  <div class="unique">
-                    <img
-                      class="gg"
-                      src="~assets/CondottieroNewIcon.jpg"
-                      alt=""
-                    /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
                   </div>
                   <div class="unique">
                     <img
@@ -754,13 +715,6 @@
                   <div class="unique">
                     <img
                       class="gg"
-                      src="~assets/GenitourIcon.jpg"
-                      alt=""
-                    /><nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
-                  </div>
-                  <div class="unique">
-                    <img
-                      class="gg"
                       src="~assets/ShotelIcon.png"
                       alt=""
                     /><nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link>
@@ -778,13 +732,6 @@
                       src="~assets/OrganGunIcon.jpg"
                       alt=""
                     /><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>
-                  </div>
-                  <div class="unique">
-                    <img
-                      class="gg"
-                      src="~assets/CaravelIcon2.jpg"
-                      alt=""
-                    /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>
                   </div>
                   <div class="game_title">
                     <nuxt-link to="/games/aor"
@@ -826,15 +773,6 @@
                       src="~assets/RattanarcherIcon2.png"
                       alt=""
                     /><nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>
-                  </div>
-                  <div class="unique">
-                    <img
-                      class="gg"
-                      src="~assets/Imperialskirmishericon.png"
-                      alt=""
-                    /><nuxt-link to="/units/Imperial_Skirmisher"
-                      >帝王戰矛兵</nuxt-link
-                    >
                   </div>
                 </b-card>
               </b-collapse>

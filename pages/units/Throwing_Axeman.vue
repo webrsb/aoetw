@@ -135,7 +135,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
+              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -587,7 +587,7 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對<nuxt-link to="/armor/Armor_Class_standard_building"
+              對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築 </nuxt-link
               >+1/+2(精銳) <br />對<nuxt-link
                 to="/armor/Armor_Class_Eagle_Warrior"
@@ -643,7 +643,7 @@
             <td class="unit4">5/6(精銳)</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link></div>
             </td>
           </tr>

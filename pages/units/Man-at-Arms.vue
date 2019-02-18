@@ -97,7 +97,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
+              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -389,7 +389,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：裝甲步兵從封建時代開始便宜35％並對<nuxt-link
-                to="/armor/Armor_Class_standard_building"
+                to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
@@ -474,7 +474,7 @@
           </h3>
           <ul>
             <li>
-              裝甲步兵對<nuxt-link to="/armor/Armor_Class_standard_building"
+              裝甲步兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >+1攻擊。
             </li>
@@ -504,7 +504,7 @@
           <ul>
             <li>
               裝甲步兵擁有+2攻擊VS<nuxt-link
-                to="/armor/Armor_Class_standard_building"
+                to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >。
             </li>
@@ -587,7 +587,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">裝甲步兵</div>
             </td>
           </tr>
@@ -599,7 +599,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">單位介紹</div>
             </td>
           </tr>
@@ -638,7 +638,7 @@
             <td class="unit4">21秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -651,7 +651,7 @@
             <td class="unit4">20</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
           </tr>
@@ -669,7 +669,7 @@
               +2對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >
-              <br />+2對<nuxt-link to="/armor/Armor_Class_standard_building"
+              <br />+2對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -701,7 +701,7 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">單位演變</div>
             </td>
           </tr>

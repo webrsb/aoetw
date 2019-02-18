@@ -399,7 +399,7 @@
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >：熱那亞弩手對<nuxt-link
-                to="/armor/Armor_Class_standard_building"
+                to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>
@@ -626,7 +626,7 @@
             <td class="unit4">8</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link></div>
             </td>
           </tr>

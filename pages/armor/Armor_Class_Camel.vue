@@ -76,8 +76,8 @@
         <div class="n1 bonuses">
           以下單位擁有對駱駝系的額外傷害，按造傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
-              <div class="col-md-4">
+            <div class="row">
+              <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+26攻擊</strong></div>
                 <ul>
                   <li>
@@ -119,8 +119,6 @@
                     >(<nuxt-link to="/civs/Incas">印加</nuxt-link>限定)
                   </li>
                 </ul>
-              </div>
-              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+9攻擊</strong></div>
                 <ul>
                   <li>
@@ -160,6 +158,8 @@
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
                 </ul>
+              </div>
+              <div class="col-md-6">
                 <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>
                 <ul>
                   <li>
@@ -182,8 +182,6 @@
                     >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
                   </li>
                 </ul>
-              </div>
-              <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+3攻擊</strong></div>
                 <ul>
                   <li>

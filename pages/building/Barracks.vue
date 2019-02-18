@@ -396,7 +396,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 軍營
               </div>
@@ -410,7 +410,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">概要</div>
             </td>
           </tr>
@@ -433,7 +433,7 @@
             <td class="unit4">50秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -442,7 +442,7 @@
             <td class="unit4">175</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
@@ -546,7 +546,7 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
               <br />
-              <nuxt-link to="/armor/Armor_Class_standard_building"
+              <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -595,7 +595,7 @@
                 src="~assets/Barracks_hd_feudal.jpg"
                 alt=""
             /></gallery>
-            <div class="lightbox-caption" style="width:185px">
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有封建時代的軍營(HD擴充資料片)。</em></p>
             </div>
           </div>
@@ -609,7 +609,7 @@
                 src="~assets/Barracksaokaoc.jpg"
                 alt=""
             /></gallery>
-            <div class="lightbox-caption" style="width:185px">
+            <div class="lightbox-caption" style="width:220px">
               <p><em>所有城堡時代的軍營(帝王世紀和征服者入侵資料片)。</em></p>
             </div>
           </div>
@@ -633,7 +633,7 @@
                 src="~assets/Spritesheet_barracks.jpg"
                 alt=""
             /></gallery>
-            <div class="lightbox-caption" style="width:185px">
+            <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
                   >射箭場在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em

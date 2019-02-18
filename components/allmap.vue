@@ -20,7 +20,7 @@
               <nuxt-link to="/maps/Islands">島嶼</nuxt-link>。<nuxt-link to="/maps/Mediterranean"
                 >地中海</nuxt-link>。<nuxt-link to="/maps/Migration">移民</nuxt-link>。
               <nuxt-link to="/maps/Rivers">河流</nuxt-link>。<nuxt-link to="/maps/Team_Islands"
-                >團隊群島</nuxt-link>。><nuxt-link to="/maps/Arena">圍城</nuxt-link>。
+                >團隊群島</nuxt-link>。<nuxt-link to="/maps/Arena">圍城</nuxt-link>。
               <nuxt-link to="/maps/Ghost_Lake">鬼湖</nuxt-link>。<nuxt-link to="/maps/Mongolia"
                 >蒙古高原</nuxt-link>。<nuxt-link to="/maps/Nomad">游牧</nuxt-link>。<nuxt-link to="/maps/Oasis">綠洲</nuxt-link>。
               <nuxt-link to="/maps/Salt_Marsh">鹽沼地</nuxt-link>。<nuxt-link to="/maps/Scandinavia"

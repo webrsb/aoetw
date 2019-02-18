@@ -85,7 +85,7 @@
                 alt=""
               /><nuxt-link to="/building/Dock">碼頭</nuxt-link>:訓練和升級船隻
             </li>
-            <h4>1.碼頭演進到封建時代後就屬於軍事建築物。</h4>
+            <em>碼頭演進到封建時代後就屬於軍事建築物。</em>
           </ul>
           <strong>軍事建築</strong>
           <ul>

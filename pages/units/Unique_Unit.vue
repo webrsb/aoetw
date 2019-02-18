@@ -115,6 +115,17 @@
             <td class="tunitc6">廉價、移動快速的反弓兵的步兵單位。</td>
           </tr>
           <tr>
+            <td colspan="3">
+              <li>
+                <nuxt-link to="/civs/Goths">哥德</nuxt-link>、研發<nuxt-link
+                  to="/techs/Anarchy"
+                  >無政府狀態</nuxt-link
+                >後可在<nuxt-link to="/building/Barracks">軍營</nuxt-link>訓練
+                <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
+              </li>
+            </td>
+          </tr>
+          <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/SMURI.jpg" alt="" /><nuxt-link
                 to="/units/Samurai"
@@ -193,17 +204,6 @@
             <td class="tunitc6">高攻擊，射程極遠的徒步火槍單位。</td>
           </tr>
           <tr>
-            <td colspan="3">
-              <li>
-                <nuxt-link to="/civs/Goths">哥德</nuxt-link>、研發<nuxt-link
-                  to="/techs/Anarchy"
-                  >無政府狀態</nuxt-link
-                >後可在<nuxt-link to="/building/Barracks">軍營</nuxt-link>訓練
-                <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
-              </li>
-            </td>
-          </tr>
-          <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/VBRSK.jpg" alt="" /><nuxt-link
                 to="/units/Berserk"
@@ -270,6 +270,17 @@
             <td class="tunitc6">遠防與血量高，對於建築物有額外加成的騎兵。</td>
           </tr>
           <tr>
+            <td colspan="3">
+              <li>
+                <nuxt-link to="/civs/Huns">匈奴</nuxt-link>研發<nuxt-link
+                  to="/techs/Marauders"
+                  >掠奪者</nuxt-link
+                >後可在<nuxt-link to="/building/Stable">馬廄</nuxt-link>訓練
+                <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+              </li>
+            </td>
+          </tr>
+          <tr>
             <td class="tunitc6">
               <img class="gg" src="~assets/WarWagonIcon.jpg" alt="" /><nuxt-link
                 to="/units/War_Wagon"
@@ -333,17 +344,6 @@
             </td>
             <td class="tunitc6">
               修道院中生產，無法拿遺跡，且治療與招降能力皆不足僧侶，但移動速度快。
-            </td>
-          </tr>
-          <tr>
-            <td colspan="3">
-              <li>
-                <nuxt-link to="/civs/Huns">匈奴</nuxt-link>研發<nuxt-link
-                  to="/techs/Marauders"
-                  >掠奪者</nuxt-link
-                >後可在<nuxt-link to="/building/Stable">馬廄</nuxt-link>訓練
-                <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
-              </li>
             </td>
           </tr>
         </table>

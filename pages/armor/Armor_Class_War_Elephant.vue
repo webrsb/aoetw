@@ -88,7 +88,7 @@
         <div class="n1 bonuses">
           以下單位擁有對戰象系的額外傷害，按照傷殺力排列。
           <div class="n1">
-            <div class="col-md-12">
+            <div class="row">
               <div class="col-md-4">
                 <div style="margin:12px 0px;"><strong>+28攻擊</strong></div>
                 <ul>

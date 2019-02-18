@@ -167,7 +167,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_standard_building"
+              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -461,7 +461,7 @@
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
               >：傭兵便宜35%並對<nuxt-link
-                to="/armor/Armor_Class_standard_building"
+                to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
@@ -743,7 +743,7 @@
             <td class="unit4">
               對<nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
-              >+10 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
+              >+10 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >+2
             </td>

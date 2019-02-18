@@ -194,16 +194,6 @@
             </td>
           </tr>
         </table>
-
-        <h4>&nbsp;</h4>
-        <div class="n1">
-          <div class="col-md-12"><div class="col-md-4"></div></div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row" style="margin-top:20px">
-          <div class="col-md-12"></div>
-        </div>
       </div>
     </div>
   </div>

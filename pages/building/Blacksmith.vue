@@ -27,7 +27,7 @@
           <h3>可訓練的單位與技術</h3>
           <div class="hrn1"></div>
           <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-4">
               <div class="n1">
                 <h4>
                   <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
@@ -77,7 +77,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
               <div class="n1">
                 <h4>
                   <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
@@ -127,7 +127,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
               <div class="n1">
                 <h4>
                   <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
@@ -431,7 +431,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 兵工廠
               </div>
@@ -445,7 +445,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">概要</div>
             </td>
           </tr>
@@ -472,7 +472,7 @@
             <td class="unit4">強化所有軍事單位</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -481,7 +481,7 @@
             <td class="unit4">150</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
             </td>
           </tr>
@@ -563,7 +563,7 @@
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
               <br />
-              <nuxt-link to="/armor/Armor_Class_standard_building"
+              <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>

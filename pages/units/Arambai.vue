@@ -157,7 +157,7 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
-              >:對<nuxt-link to="/armor/Armor_Class_standard_building"
+              >:對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >和
               <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
@@ -462,7 +462,7 @@
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link></div>
             </td>
           </tr>

@@ -138,7 +138,7 @@
                   <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/armor/Armor_Class_standard_building"
+                  <nuxt-link to="/armor/Armor_Class_Standard_Building"
                     >標準建築</nuxt-link
                   >
                 </li>

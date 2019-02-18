@@ -217,14 +217,6 @@
             <div class="col-sm-12 text-center">撤軍 - 熱鍵Z</div>
           </div>
         </div>
-        <div class="n1">
-          <div class="col-md-12"><div class="col-md-4"></div></div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row" style="margin-top:20px">
-        <div class="col-md-12"></div>
       </div>
     </div>
   </div>

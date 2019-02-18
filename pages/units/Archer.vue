@@ -104,7 +104,7 @@
                 alt=""
               /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
               >:射箭場弓兵單位對<nuxt-link
-                to="/armor/Armor_Class_standard_building"
+                to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >和
               <nuxt-link to="/armor/Armor_Class_stone_defense"
@@ -462,7 +462,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：弓兵對<nuxt-link to="/armor/Armor_Class_standard_building"
+              >：弓兵對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+1。
             </li>
@@ -514,7 +514,7 @@
                 to="/techs/Obsidian_Arrows"
                 >黑曜石之箭</nuxt-link
               >。弓兵對
-              <nuxt-link to="/armor/Armor_Class_standard_building"
+              <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+4。
             </li>
@@ -534,7 +534,7 @@
                 to="/techs/Obsidian_Arrows"
                 >黑曜石之箭</nuxt-link
               >現在給弓兵對
-              <nuxt-link to="/armor/Armor_Class_standard_building"
+              <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+6。4.8版後增加對<nuxt-link
                 to="/armor/Armor_Class_stone_defense"
@@ -569,7 +569,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 弓兵
               </div>
@@ -583,7 +583,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">單位介紹</div>
             </td>
           </tr>
@@ -624,7 +624,7 @@
             <td class="unit4">35秒</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">成本</div>
             </td>
           </tr>
@@ -637,7 +637,7 @@
             <td class="unit4">45</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">數據</div>
             </td>
           </tr>
@@ -698,7 +698,7 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">單位演變</div>
             </td>
           </tr>

@@ -541,7 +541,7 @@
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>對
               <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
-              >和<nuxt-link to="/armor/Armor_Class_standard_building"
+              >和<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。
             </td>

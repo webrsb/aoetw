@@ -80,7 +80,7 @@
               對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >
-              +8 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
+              +8 <br />對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               +4

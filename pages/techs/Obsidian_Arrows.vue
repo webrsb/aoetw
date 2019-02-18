@@ -16,7 +16,7 @@
             >研發。研發後<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
             ><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link>對
-            <nuxt-link to="/armor/Armor_Class_standard_building"
+            <nuxt-link to="/armor/Armor_Class_Standard_Building"
               >標準建築</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_stone_defense"
               >石頭建築</nuxt-link

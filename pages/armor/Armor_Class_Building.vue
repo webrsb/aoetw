@@ -25,7 +25,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           下列的單位都是建築單位
-          <div class="n1">
+          <div class="row">
             <div class="col-md-3">
               <ul>
                 <li>
@@ -250,7 +250,7 @@
     <div class="n1 bonuses">
       以下單位擁有對建築單位的額外傷害，按照傷殺力排列。
       <div class="n1">
-        <div class="col-md-12">
+        <div class="row">
           <div class="col-md-4">
             <div style="margin:12px 0px;"><strong>+500攻擊</strong></div>
             <ul>
@@ -597,7 +597,7 @@
       <div class="n1">
         下方技術可讓以下單位擁有對建築單位的額外傷害，按照傷殺力排列。
         <div class="n1">
-          <div class="col-md-12">
+          <div class="row">
             <div class="col-md-4">
               <p>
                 <img
