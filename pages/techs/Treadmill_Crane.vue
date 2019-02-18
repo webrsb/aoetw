@@ -25,10 +25,7 @@
             <div class="n1">
               <h4>
                 <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
+                  ><i class="fas fa-check" style="color: green;"></i
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
@@ -60,10 +57,7 @@
             <div class="n1">
               <h4>
                 <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>

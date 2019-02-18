@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             象伕是<nuxt-link to="/civs/Persians">波斯</nuxt-link
-            >的特殊技術，可於<nuxt-link to="/techs/age/Imperial_Age"
+            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link

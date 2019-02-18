@@ -16,7 +16,7 @@
             >則是針對移動目標。
           </p>
         </div>
-        <h3>可研發文明</h3>
+        <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
         <div class="row">
           <div class="col-md-12">

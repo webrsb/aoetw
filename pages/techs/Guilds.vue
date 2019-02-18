@@ -19,16 +19,13 @@
             隨著遊戲的進行，地圖上的資源會慢慢耗盡，這時這項科技會相當有用處，因為這意味著玩家在出售多於資源時會獲得較多的收益，反之在購買資源時所花費也會較低。
           </p>
         </div>
-        <h3>可研發文明</h3>
+        <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
         <div class="row">
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <span
-                  class="glyphicon glyphicon-ok okc"
-                  aria-hidden="true"
-                ></span
+                <i class="fas fa-check" style="color: green;"></i
                 ><span class="okcc" style="margin-left: 2px;">可研發</span>
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -59,10 +56,7 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <span
-                  class="glyphicon glyphicon-remove noc"
-                  aria-hidden="true"
-                ></span
+                <i class="fas fa-times" style="color: #d9534f;"></i
                 ><span class="nocc" style="margin-left: 2px;">不可研發</span>
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、

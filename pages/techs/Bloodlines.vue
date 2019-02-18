@@ -17,17 +17,14 @@
             品種是相當重要的騎兵科技，研發品種後的斥候騎兵，將對村民與弓兵更具殺傷力。
           </p>
         </div>
-        <h3>可研發文明</h3>
+        <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
         <div class="row">
           <div class="col-md-12">
             <div class="n1">
               <h4>
                 <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
+                  ><i class="fas fa-check" style="color: green;"></i
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
@@ -59,10 +56,7 @@
             <div class="n1">
               <h4>
                 <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>

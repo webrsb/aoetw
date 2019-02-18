@@ -15,16 +15,13 @@
             在遊戲早期這是個非常有用的科技，尤其是在多人連線時，重點是他不用成本。
           </p>
         </div>
-        <h3>可研發文明</h3>
+        <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
         <div class="row">
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <span
-                  class="glyphicon glyphicon-ok okc"
-                  aria-hidden="true"
-                ></span
+                <i class="fas fa-check" style="color: green;"></i
                 ><span class="okcc" style="margin-left: 2px;">可研發</span>
               </h4>
               所有文明
@@ -35,10 +32,7 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <span
-                  class="glyphicon glyphicon-remove noc"
-                  aria-hidden="true"
-                ></span
+                <i class="fas fa-times" style="color: #d9534f;"></i
                 ><span class="nocc" style="margin-left: 2px;">不可研發</span>
               </h4>
               無

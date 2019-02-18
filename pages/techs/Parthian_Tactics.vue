@@ -22,17 +22,14 @@
             >以及安息人(帕提亞為音譯)大部分均善於騎射，以致弓騎兵長年為安息帝國軍中干城，戰力剽悍的安息騎兵亦譽滿天下。當年安息弓騎兵作戰時廣泛採用一種戰術：於戰場上佯作（或實際）撤退，引誘敵人（通常為騎兵）追趕，然後當敵人追至近身時，突然轉身向身後敵人發箭。由於距離較近，不須高超射術即可重創敵方，所以此戰術後來得以逐漸在弓騎兵作戰中普及。
           </p>
         </div>
-        <h3>可研發文明</h3>
+        <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
         <div class="row">
           <div class="col-md-12">
             <div class="n1">
               <h4>
                 <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
+                  ><i class="fas fa-check" style="color: green;"></i
                   ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
@@ -54,10 +51,7 @@
             <div class="n1">
               <h4>
                 <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>

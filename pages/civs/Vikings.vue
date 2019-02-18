@@ -176,7 +176,7 @@
                 src="~assets/LongboatIcon.jpg"
                 width="22"
                 alt=""
-              />維京大戰船精銳維京大戰船
+              />維京大戰船
             </td>
           </tr>
           <tr>

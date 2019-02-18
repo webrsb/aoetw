@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            灌注士氣是哥德的帝王時代特殊技術，可於<nuxt-link
+            灌注士氣是哥德的帝王時代特殊科技，可於<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -23,7 +23,7 @@
               帝王時代的哥德需要大量的單位來壓制對手，所以這幾乎是一個必須研發的科技。
             </li>
             <li>
-              與另一個特殊技術<nuxt-link to="/techs/Anarchy"
+              與另一個特殊科技<nuxt-link to="/techs/Anarchy"
                 >無政府狀態</nuxt-link
               >配合，軍營可以在一分鐘裡面生產11個<nuxt-link to="/units/Huskarl"
                 >哥德衛隊</nuxt-link

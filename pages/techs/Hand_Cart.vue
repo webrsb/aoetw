@@ -15,16 +15,13 @@
           </p>
           <p><strong>手推車說村民數100上下研發最好。</strong></p>
         </div>
-        <h3>可研發文明</h3>
+        <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
         <div class="row">
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <span
-                  class="glyphicon glyphicon-ok okc"
-                  aria-hidden="true"
-                ></span
+                <i class="fas fa-check" style="color: green;"></i
                 ><span class="okcc" style="margin-left: 2px;">可研發</span>
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、

@@ -26,11 +26,8 @@
             <div class="n1">
               <h4>
                 <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">可研發文明</span></strong
+                  ><i class="fas fa-check" style="color: green;"></i
+                  ><span style="margin-left: 2px;">文明可研發與否</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -69,11 +66,10 @@
             <div class="n1">
               <h4>
                 <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">不可研發文明</span></strong
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
+                  ><span style="margin-left: 2px;"
+                    >不文明可研發與否</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、

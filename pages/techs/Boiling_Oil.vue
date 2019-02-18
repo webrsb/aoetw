@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             沸油是<nuxt-link to="/civs/Persians">波斯</nuxt-link
-            >的特殊技術，可於<nuxt-link to="/techs/age/Castle_Age"
+            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -46,7 +46,7 @@
               所謂沸油，其實是燃燒的油，而不僅僅是沸騰，否則殺傷力其實不高。
             </li>
             <li>
-              真正的中世紀，幾乎所有城堡都會用燃燒的油用來對付衝撞車或雲梯，為甚麼是波斯的特殊技術仍有待調查。
+              真正的中世紀，幾乎所有城堡都會用燃燒的油用來對付衝撞車或雲梯，為甚麼是波斯的特殊科技仍有待調查。
             </li>
           </ul>
         </div>
