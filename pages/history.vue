@@ -37,7 +37,10 @@
               </ul>
             </div>
           </div>
-          <p id="a1">&nbsp;</p>
+          <ul class="list-unstyled" id="a1">
+            &nbsp;
+            <li>&nbsp;</li>
+          </ul>
           <h4><strong>WK前 1v1</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
@@ -1400,7 +1403,10 @@
               </li>
             </ul>
           </div>
-          <p id="a2">&nbsp;</p>
+          <ul class="list-unstyled" id="a2">
+            &nbsp;
+            <li>&nbsp;</li>
+          </ul>
           <h4><strong>WK前 TG</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
@@ -1807,6 +1813,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2013年
               <strong
@@ -1859,6 +1866,7 @@
 
               <li>&nbsp;</li>
             </ul>
+
             <ul class="list-unstyled">
               2013年
               <strong
@@ -1903,6 +1911,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2014年
               <strong
@@ -1946,6 +1955,7 @@
 
               <li>&nbsp;</li>
             </ul>
+
             <ul class="list-unstyled">
               2015年
               <strong
@@ -2020,6 +2030,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2016年
               <strong
@@ -2068,6 +2079,7 @@
 
               <li>&nbsp;</li>
             </ul>
+
             <ul class="list-unstyled">
               2016年
               <strong
@@ -2239,275 +2251,212 @@
             </ul>
 
             <h5><strong>國家盃 (Nations Cup)</strong></h5>
+
             <ul class="list-unstyled">
-              <table>
-                <tr>
-                  <td>
-                    <a
-                      href="https://www.aoezone.net/threads/nations-cup-2001-finals-g2-usa-vs-italy.94550/"
-                      >2001</a
-                    >
-                  </td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
-                  </td>
-                  <td>
-                    <img src="~assets/my.png" class="flg" alt="" />Panther,
-                    Swinger, Dante
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
-                  </td>
-                  <td>
-                    <img src="~assets/it.png" class="flg" alt="" />Mimmox,
-                    SpiDeR, AbaLfoR
-                  </td>
-                </tr>
-              </table>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/threads/nations-cup-2001-finals-g2-usa-vs-italy.94550/"
+                  >2001年</a
+                ></strong
+              >
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                  src="~assets/my.png"
+                  class="flg"
+                  alt=""
+                />Panther, Swinger, Dante
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                  src="~assets/it.png"
+                  class="flg"
+                  alt=""
+                />Mimmox, SpiDeR, AbaLfoR
+              </li>
             </ul>
 
             <ul class="list-unstyled">
-              <table>
-                <tr>
-                  <td>
-                    <a
-                      href="https://www.aoezone.net/forums/nations-cup-2005.131/"
-                      >2005</a
-                    >
-                  </td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
-                  </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />IORI, windy,
-                    Cloudy, 8250
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
-                  </td>
-                  <td>
-                    <img src="~assets/ca.png" class="flg" alt="" />Chris, B1ade,
-                    EmineM, Force
-                  </td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
-                  </td>
-                  <td>
-                    <img src="~assets/jp.png" class="flg" alt="" />Halen, Kum,
-                    Dirty, Canary
-                  </td>
-                </tr>
-              </table>
+              <strong
+                ><a href="https://www.aoezone.net/forums/nations-cup-2005.131/"
+                  >2005年</a
+                ></strong
+              >
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                  src="~assets/cn.png"
+                  class="flg"
+                  alt=""
+                />IORI, windy, Cloudy, 8250
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                  src="~assets/ca.png"
+                  class="flg"
+                  alt=""
+                />Chris, B1ade, EmineM, Force
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" /><img
+                  src="~assets/jp.png"
+                  class="flg"
+                  alt=""
+                />Halen, Kum, Dirty, Canary
+              </li>
             </ul>
 
             <ul class="list-unstyled">
-              <table>
-                <tr>
-                  <td>
-                    <a
-                      href="https://www.aoezone.net/forums/nations-cup-2009.130/"
-                      >2009</a
-                    >
-                  </td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
-                  </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
-                  <td>dogao, RiuT, Leozim, Rain</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
-                  </td>
-                  <td>
-                    <img src="~assets/ca.png" class="flg" alt="" />
-                  </td>
-                  <td>Chris, slam, Blade, Ra</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
-                  </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />
-                  </td>
-                  <td>23k, psNps, lang, if, Goodboy</td>
-                </tr>
-              </table>
+              <strong
+                ><a href="https://www.aoezone.net/forums/nations-cup-2009.130/"
+                  >2009年</a
+                ></strong
+              >
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                  src="~assets/br.png"
+                  class="flg"
+                  alt=""
+                />dogao, RiuT, Leozim, Rain
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                  src="~assets/ca.png"
+                  class="flg"
+                  alt=""
+                />Chris, slam, Blade, Ra
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" /><img
+                  src="~assets/cn.png"
+                  class="flg"
+                  alt=""
+                />23k, psNps, lang, if, Goodboy
+              </li>
             </ul>
 
             <ul class="list-unstyled">
-              <table>
-                <tr>
-                  <td>
-                    <a
-                      href="https://www.aoezone.net/categories/2014-sy-nations-cup-i.851/"
-                      >2014</a
-                    >
-                  </td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
-                  </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />
-                  </td>
-                  <td>封心, 櫻花, Yo, james, Abu, NO23</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
-                  </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
-                  <td>RiuT, F1Re, St4rk, GoKu</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
-                  </td>
-                  <td>
-                    <img src="~assets/ar.png" class="flg" alt="" />
-                  </td>
-                  <td>Nicov, Juan, Gary, PaTiN</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#343a40"></i>
-                  </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
-                  <td>dogao, FeAge, WraTh, Alive</td>
-                </tr>
-              </table>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2014-sy-nations-cup-i.851/"
+                  >2014年</a
+                ></strong
+              >
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                  src="~assets/cn.png"
+                  class="flg"
+                  alt=""
+                />封心, 櫻花, Yo, james, Abu, NO23
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                  src="~assets/br.png"
+                  class="flg"
+                  alt=""
+                />RiuT, F1Re, St4rk, GoKu
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" /><img
+                  src="~assets/ar.png"
+                  class="flg"
+                  alt=""
+                />Nicov, Juan, Gary, PaTiN
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#343a40" /><img
+                  src="~assets/br.png"
+                  class="flg"
+                  alt=""
+                />dogao, FeAge, WraTh, Alive
+              </li>
             </ul>
 
             <ul class="list-unstyled">
-              <table>
-                <tr>
-                  <td>
-                    <a
-                      href="https://www.aoezone.net/categories/2015-sy-nations-cup-ii.1041/"
-                      >2015</a
-                    >
-                  </td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
-                  </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />
-                  </td>
-                  <td>封心, 櫻花, 小熊, Yo, NO23</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
-                  </td>
-                  <td>
-                    <img src="~assets/ca.png" class="flg" alt="" />
-                  </td>
-                  <td>Hera, Chris, slam, mentalist, Ra</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
-                  </td>
-                  <td>
-                    <img src="~assets/fi.png" class="flg" alt="" />
-                  </td>
-                  <td>Zuppi, Pike, Ruben, TheMax</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#343a40"></i>
-                  </td>
-                  <td>
-                    <img src="~assets/vn.png" class="flg" alt="" />
-                  </td>
-                  <td>BacT, Yellow, CooL, ACCM</td>
-                </tr>
-              </table>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2015-sy-nations-cup-ii.1041/"
+                  >2015年</a
+                ></strong
+              >
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                  src="~assets/cn.png"
+                  class="flg"
+                  alt=""
+                />封心, 櫻花, 小熊, Yo, NO23
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                  src="~assets/ca.png"
+                  class="flg"
+                  alt=""
+                />Hera, Chris, slam, mentalist, Ra
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" /><img
+                  src="~assets/fi.png"
+                  class="flg"
+                  alt=""
+                />Zuppi, Pike, Ruben, TheMax
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#343a40" /><img
+                  src="~assets/vn.png"
+                  class="flg"
+                  alt=""
+                />BacT, Yellow, CooL, ACCM
+              </li>
             </ul>
 
             <ul class="list-unstyled">
-              <table>
-                <tr>
-                  <td>
-                    <a
-                      href="https://www.aoezone.net/categories/2017-sy-nations-cup-iii.1523/"
-                      >2017</a
-                    >
-                  </td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
-                  </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
-                  <td>dogao, miguel, St4rk, FeAge</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
-                  </td>
-                  <td>
-                    <img src="~assets/fi.png" class="flg" alt="" />
-                  </td>
-                  <td>Zuppi, TheMax, Villese, Pike, Ruben</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
-                  </td>
-                  <td>
-                    <img src="~assets/cn.png" class="flg" alt="" />
-                  </td>
-                  <td>Tim, CL, Vivi, Whoop, 雞窩</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#343a40"></i>
-                  </td>
-                  <td>
-                    <img src="~assets/br.png" class="flg" alt="" />
-                  </td>
-                  <td>F1Re, RiuT, GoKu, Alive, BruH</td>
-                </tr>
-              </table>
+              <strong
+                ><a
+                  href="https://www.aoezone.net/categories/2017-sy-nations-cup-iii.1523/"
+                  >2017年</a
+                ></strong
+              >
+              <li>
+                <i class="fas fa-trophy" style="color:#ffca00" /><img
+                  src="~assets/br.png"
+                  class="flg"
+                  alt=""
+                />dogao, miguel, St4rk, FeAge
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" /><img
+                  src="~assets/fi.png"
+                  class="flg"
+                  alt=""
+                />Zuppi, TheMax, Villese, Pike, Ruben
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" /><img
+                  src="~assets/cn.png"
+                  class="flg"
+                  alt=""
+                />Tim, CL, Vivi, Whoop, 雞窩
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#343a40" /><img
+                  src="~assets/br.png"
+                  class="flg"
+                  alt=""
+                />F1Re, RiuT, GoKu, Alive, BruH
+              </li>
             </ul>
           </div>
-          <p id="a3">&nbsp;</p>
+          <ul class="list-unstyled" id="a3">
+            &nbsp;
+            <li>&nbsp;</li>
+          </ul>
           <h4><strong>BO21</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
             <ul class="list-unstyled">
               <table>
                 <tr>
+                  <td>2011</td>
                   <td>
-                    2011年 <img src="~assets/rs.png" class="flg" alt="" />DauT
+                    年 <img src="~assets/rs.png" class="flg" alt="" />DauT
                   </td>
                   <td>
                     <a
@@ -2519,8 +2468,9 @@
                   <td><img src="~assets/ca.png" class="flg" alt="" /></td>
                 </tr>
                 <tr>
+                  <td>2012</td>
                   <td>
-                    2012年 <img src="~assets/rs.png" class="flg" alt="" />DauT
+                    年 <img src="~assets/rs.png" class="flg" alt="" />DauT
                   </td>
                   <td>
                     <a
@@ -2532,8 +2482,9 @@
                   <td><img src="~assets/de.png" class="flg" alt="" /></td>
                 </tr>
                 <tr>
+                  <td>2013</td>
                   <td>
-                    2013年 <img src="~assets/no.png" class="flg" alt="" />Viper
+                    年 <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td>
                     <a
@@ -2545,22 +2496,23 @@
                   <td><img src="~assets/rs.png" class="flg" alt="" /></td>
                 </tr>
                 <tr>
+                  <td>2014</td>
                   <td>
-                    2014年
-                    <img src="~assets/de.png" class="flg" alt="" />JorDan&nbsp;
+                    年 <img src="~assets/de.png" class="flg" alt="" />JorDan
                   </td>
                   <td>
                     <a
                       href="https://www.aoezone.net/threads/3rd-january-duel-of-the-century-viper-vs-jordan-bo21.97703/"
                       >11:10</a
-                    >&nbsp;
+                    >
                   </td>
                   <td>Viper</td>
                   <td><img src="~assets/no.png" class="flg" alt="" /></td>
                 </tr>
                 <tr>
+                  <td>2017</td>
                   <td>
-                    2017年 <img src="~assets/no.png" class="flg" alt="" /><a
+                    年 <img src="~assets/no.png" class="flg" alt="" /><a
                       href="https://www.youtube.com/playlist?list=PLrFe08sgKX48kopaASn7eVPsDdFwRTgxY"
                       >Viper</a
                     >
@@ -2572,7 +2524,10 @@
               </table>
             </ul>
           </div>
-          <p id="a4">&nbsp;</p>
+          <ul class="list-unstyled" id="a4">
+            &nbsp;
+            <li>&nbsp;</li>
+          </ul>
           <h4><strong>WK 1v1 (綜合圖)</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
@@ -2641,6 +2596,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2017年
               <strong
@@ -2776,49 +2732,40 @@
                   >Nili公寓盃2 (NAC2)</a
                 ></strong
               >
-              <table>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#ffca00" />冠軍</td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
-                </tr>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#9ca1a5" />亞軍</td>
-                  <td><img src="~assets/es.png" class="flg" alt="" />TaToH</td>
-                </tr>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#b79355" />四強</td>
-                  <td>
-                    <img src="~assets/at.png" class="flg" alt="" />Liereyy
-                  </td>
-                </tr>
-                <tr>
-                  <td><i class="fas fa-trophy" style="color:#343a40" />四強</td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
-                </tr>
-                <tr>
-                  <td>第五名</td>
-                  <td><img src="~assets/ar.png" class="flg" alt="" />Nicov</td>
-                </tr>
-                <tr>
-                  <td>第五名</td>
-                  <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
-                </tr>
-                <tr>
-                  <td>第七名</td>
-                  <td><img src="~assets/br.png" class="flg" alt="" />F1Re</td>
-                </tr>
-                <tr>
-                  <td>第八名</td>
-                  <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
-                </tr>
-              </table>
-
               <li>
-                邀請六人，兩個資格賽名額為 BacT(後因簽證問題由 F1Re 遞補) DauT
+                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
+                  src="~assets/no.png"
+                  class="flg"
+                  alt=""
+                />Viper
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
+                  src="~assets/es.png"
+                  class="flg"
+                  alt=""
+                />TaToH
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#b79355" />四強<img
+                  src="~assets/at.png"
+                  class="flg"
+                  alt=""
+                />Liereyy
+              </li>
+              <li>
+                <i class="fas fa-trophy" style="color:#343a40" />四強<img
+                  src="~assets/no.png"
+                  class="flg"
+                  alt=""
+                />MbL
               </li>
             </ul>
           </div>
-          <p id="a5">&nbsp;</p>
+          <ul class="list-unstyled" id="a5">
+            &nbsp;
+            <li>&nbsp;</li>
+          </ul>
           <h4><strong>WK 1v1 (單一圖)</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
@@ -2908,7 +2855,10 @@
               </li>
             </ul>
           </div>
-          <p id="a6">&nbsp;</p>
+          <ul class="list-unstyled" id="a6">
+            &nbsp;
+            <li>&nbsp;</li>
+          </ul>
           <h4><strong>WK 2v2</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
@@ -2951,6 +2901,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2018年
               <strong
@@ -2993,6 +2944,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2018年
               <strong
@@ -3037,6 +2989,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2018年
               <strong
@@ -3161,8 +3114,175 @@
                 />Viper, MbL
               </li>
             </ul>
+
+            <ul class="list-unstyled">
+              2018年
+              <strong
+                ><a href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
+                  >世界盃</a
+                ></strong
+              >
+              <table>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
+                  </td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <img src="~assets/cn.png" class="flg" alt="" />Yo
+                  </td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />季軍
+                    <img src="~assets/vn.png" class="flg" alt="" />BacT
+                  </td>
+                  <td>
+                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
+                    <img src="~assets/vn.png" class="flg" alt="" />Yellow
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />殿軍
+                    <img src="~assets/no.png" class="flg" alt="" />Viper
+                  </td>
+                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
+                </tr>
+              </table>
+            </ul>
+
+            <ul class="list-unstyled">
+              2018年
+              <strong
+                ><a href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
+                  >世界盃</a
+                ></strong
+              >
+              <table>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
+                  </td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <img src="~assets/cn.png" class="flg" alt="" />Yo
+                  </td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <i class="fas fa-trophy" style="color:#b79355" />季軍
+                    <img src="~assets/vn.png" class="flg" alt="" />BacT
+                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
+                    <img src="~assets/vn.png" class="flg" alt="" />Yellow
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />殿軍
+                    <img src="~assets/no.png" class="flg" alt="" />Viper
+                  </td>
+                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
+                </tr>
+              </table>
+            </ul>
+
+            <ul class="list-unstyled">
+              2018年
+              <strong
+                ><a href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
+                  >世界盃</a
+                ></strong
+              >
+              <table>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
+                  </td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <img src="~assets/cn.png" class="flg" alt="" />Yo
+                  </td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />季軍
+                    <img src="~assets/vn.png" class="flg" alt="" />BacT
+                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
+                  </td>
+                  <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />殿軍
+                    <img src="~assets/no.png" class="flg" alt="" />Viper
+                  </td>
+                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
+                </tr>
+              </table>
+            </ul>
+
+            <ul class="list-unstyled">
+              2018年
+              <strong
+                ><a href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
+                  >世界盃</a
+                ></strong
+              >
+              <table>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
+                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
+                  </td>
+                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
+                    <img src="~assets/cn.png" class="flg" alt="" />Yo
+                  </td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />季軍
+                    <img src="~assets/vn.png" class="flg" alt="" />Yellow
+                  </td>
+                  <td>
+                    <img src="~assets/vn.png" class="flg" alt="" />BacT
+                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <i class="fas fa-trophy" style="color:#b79355" />殿軍
+                    <img src="~assets/no.png" class="flg" alt="" />Viper
+                  </td>
+                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
+                </tr>
+              </table>
+            </ul>
           </div>
-          <p id="a7">&nbsp;</p>
+          <ul class="list-unstyled" id="a7">
+            &nbsp;
+            <li>&nbsp;</li>
+          </ul>
           <h4><strong>WK 3v3 4v4</strong></h4>
           <div class="hrn1"></div>
           <div class="n1">
@@ -3210,6 +3330,7 @@
 
               <li>&nbsp;</li>
             </ul>
+
             <h5>
               <strong
                 ><a
@@ -3264,6 +3385,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2018年
               <strong
@@ -3306,6 +3428,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2018年
               <strong
@@ -3352,6 +3475,7 @@
                 </tr>
               </table>
             </ul>
+
             <ul class="list-unstyled">
               2018年
               <strong
