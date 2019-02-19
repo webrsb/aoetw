@@ -1966,53 +1966,47 @@
               >
               <table>
                 <tr>
-                  <td colspan="4">
+                  <td colspan="5">
                     <i class="fas fa-trophy" style="color:#ffca00" /> TyRanT
                     Legends
                   </td>
                 </tr>
                 <tr>
-                  <td colspan="4">
+                  <td colspan="5">
                     <i class="fas fa-trophy" style="color:#9ca1a5" /> TyRanT
                     Warlords
                   </td>
                 </tr>
                 <tr>
-                  <td colspan="4">
+                  <td colspan="5">
                     <i class="fas fa-trophy" style="color:#b79355" /> The Legion
                     Clan (L_Clan)
                   </td>
                 </tr>
                 <tr>
-                  <td colspan="4">
+                  <td colspan="5">
                     <i class="fas fa-trophy" style="color:#343a40" /> Sexy boY
                     (SY)
                   </td>
                 </tr>
                 <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />
-                    <img src="~assets/kr.png" class="flg" alt="" />kkab
-                  </td>
+                  <td><i class="fas fa-trophy" style="color:#ffca00" /></td>
+                  <td><img src="~assets/kr.png" class="flg" alt="" />kkab</td>
                   <td><img src="~assets/rs.png" class="flg" alt="" />DauT</td>
                   <td><img src="~assets/no.png" class="flg" alt="" />Viper</td>
                   <td><img src="~assets/de.png" class="flg" alt="" />JorDan</td>
                 </tr>
                 <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />
-                    <img src="~assets/br.png" class="flg" alt="" />RiuT
-                  </td>
+                  <td><i class="fas fa-trophy" style="color:#9ca1a5" /></td>
+                  <td><img src="~assets/br.png" class="flg" alt="" />RiuT</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />F1Re</td>
                   <td><img src="~assets/ca.png" class="flg" alt="" />slam</td>
                   <td><img src="~assets/vn.png" class="flg" alt="" />BacT</td>
                   <td><img src="~assets/gr.png" class="flg" alt="" />Jidba</td>
                 </tr>
                 <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />
-                    <img src="~assets/br.png" class="flg" alt="" />dogao
-                  </td>
+                  <td><i class="fas fa-trophy" style="color:#b79355" /></td>
+                  <td><img src="~assets/br.png" class="flg" alt="" />dogao</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />FeAge</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />WraTh</td>
                   <td><img src="~assets/br.png" class="flg" alt="" />miguel</td>
@@ -2020,10 +2014,8 @@
                   <td><img src="~assets/uk.png" class="flg" alt="" />RaGE</td>
                 </tr>
                 <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#343a40" />
-                    <img src="~assets/cn.png" class="flg" alt="" />封心
-                  </td>
+                  <td><i class="fas fa-trophy" style="color:#343a40" /></td>
+                  <td><img src="~assets/cn.png" class="flg" alt="" />封心</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />櫻花</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />Yo</td>
                   <td><img src="~assets/cn.png" class="flg" alt="" />NO23</td>
@@ -3081,165 +3073,6 @@
             <ul class="list-unstyled">
               2018年
               <strong
-                ><a href="https://www.aoezone.net/forums/aoe-2-world-cup.1889/"
-                  >世界盃</a
-                ></strong
-              >
-              <li>
-                <i class="fas fa-trophy" style="color:#ffca00" />冠軍<img
-                  src="~assets/fi.png"
-                  class="flg"
-                  alt=""
-                />TheMax, Ruben
-              </li>
-              <li>
-                <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍<img
-                  src="~assets/cn.png"
-                  class="flg"
-                  alt=""
-                />Yo, Lyx
-              </li>
-              <li>
-                <i class="fas fa-trophy" style="color:#b79355" />季軍<img
-                  src="~assets/vn.png"
-                  class="flg"
-                  alt=""
-                />BacT, ACCM, Yellow
-              </li>
-              <li>
-                <i class="fas fa-trophy" style="color:#343a40" />殿軍<img
-                  src="~assets/no.png"
-                  class="flg"
-                  alt=""
-                />Viper, MbL
-              </li>
-            </ul>
-
-            <ul class="list-unstyled">
-              2018年
-              <strong
-                ><a href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
-                  >世界盃</a
-                ></strong
-              >
-              <table>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
-                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
-                  </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
-                    <img src="~assets/cn.png" class="flg" alt="" />Yo
-                  </td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />季軍
-                    <img src="~assets/vn.png" class="flg" alt="" />BacT
-                  </td>
-                  <td>
-                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
-                    <img src="~assets/vn.png" class="flg" alt="" />Yellow
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />殿軍
-                    <img src="~assets/no.png" class="flg" alt="" />Viper
-                  </td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
-                </tr>
-              </table>
-            </ul>
-
-            <ul class="list-unstyled">
-              2018年
-              <strong
-                ><a href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
-                  >世界盃</a
-                ></strong
-              >
-              <table>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
-                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
-                  </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
-                    <img src="~assets/cn.png" class="flg" alt="" />Yo
-                  </td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
-                </tr>
-                <tr>
-                  <td colspan="2">
-                    <i class="fas fa-trophy" style="color:#b79355" />季軍
-                    <img src="~assets/vn.png" class="flg" alt="" />BacT
-                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
-                    <img src="~assets/vn.png" class="flg" alt="" />Yellow
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />殿軍
-                    <img src="~assets/no.png" class="flg" alt="" />Viper
-                  </td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
-                </tr>
-              </table>
-            </ul>
-
-            <ul class="list-unstyled">
-              2018年
-              <strong
-                ><a href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
-                  >世界盃</a
-                ></strong
-              >
-              <table>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#ffca00" />冠軍
-                    <img src="~assets/fi.png" class="flg" alt="" />TheMax
-                  </td>
-                  <td><img src="~assets/fi.png" class="flg" alt="" />Ruben</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#9ca1a5" />亞軍
-                    <img src="~assets/cn.png" class="flg" alt="" />Yo
-                  </td>
-                  <td><img src="~assets/cn.png" class="flg" alt="" />Lyx</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />季軍
-                    <img src="~assets/vn.png" class="flg" alt="" />BacT
-                    <img src="~assets/vn.png" class="flg" alt="" />ACCM
-                  </td>
-                  <td><img src="~assets/vn.png" class="flg" alt="" />Yellow</td>
-                </tr>
-                <tr>
-                  <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />殿軍
-                    <img src="~assets/no.png" class="flg" alt="" />Viper
-                  </td>
-                  <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
-                </tr>
-              </table>
-            </ul>
-
-            <ul class="list-unstyled">
-              2018年
-              <strong
                 ><a href="https://www.aoezone.net/forums/aoe-2-world-cup1889/"
                   >世界盃</a
                 ></strong
@@ -3271,7 +3104,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <i class="fas fa-trophy" style="color:#b79355" />殿軍
+                    <i class="fas fa-trophy" style="color:#343a40" />殿軍
                     <img src="~assets/no.png" class="flg" alt="" />Viper
                   </td>
                   <td><img src="~assets/no.png" class="flg" alt="" />MbL</td>
