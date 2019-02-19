@@ -300,11 +300,11 @@
           </tr>
           <tr>
             <td class="unit3">上一關</td>
-            <td class="unit4">都爾(732)</td>
+            <td class="unit4">都爾（732）</td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4">哈斯汀斯(1066)</td>
+            <td class="unit4">哈斯汀斯（1066）</td>
           </tr>
         </table>
 

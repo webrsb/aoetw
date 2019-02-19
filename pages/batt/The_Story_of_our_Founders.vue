@@ -9,7 +9,7 @@
         <div class="n1">
           <p></p>
           <p>
-            開疆闢土為加查馬達戰役的第一關劇情關卡，此關描述滿者伯夷帝國在羅登‧韋查耶領導下攻滅信訶沙里並擊退蒙元的過程。
+            開疆闢土為加查·馬達戰役的第一關劇情關卡，此關描述滿者伯夷帝國在羅登‧韋查耶領導下攻滅信訶沙里並擊退蒙元的過程。
           </p>
         </div>
         <h2>玩家</h2>
@@ -182,7 +182,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Gajah_Madaa">加查‧馬達</nuxt-link>
+              <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
             </td>
           </tr>
           <tr>

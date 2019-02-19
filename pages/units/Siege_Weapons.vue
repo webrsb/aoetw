@@ -87,7 +87,7 @@
           </ul>
           <ul>
             <p>
-              從非洲王朝資料片開始，<nuxt-link to="/units/Siege_Tower"
+              從非洲王國資料片開始，<nuxt-link to="/units/Siege_Tower"
                 >攻城塔</nuxt-link
               >無法攻擊敵方建築或單位，所以無法歸類在上面兩類。而在失落的帝國資料片攻城塔可以開火，然而他們的主要目的還是運送部隊，所以還是不歸類於以上兩種。
             </p>
@@ -146,10 +146,10 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>以下列出攻城武器的團隊加成</p>
+          <p>以下列出攻城武器的團隊加分</p>
           <ul>
             <li>
               <nuxt-link to="/civs/Celts">賽爾特</nuxt-link

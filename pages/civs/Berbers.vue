@@ -80,7 +80,7 @@
               >還有建築學因此在防禦上比較依賴兵力。
             </li>
             <li>
-              柏柏僧侶系統欠缺<nuxt-link to="/techs/Block_Printing"
+              柏柏僧侶類統欠缺<nuxt-link to="/techs/Block_Printing"
                 >雕版印刷術</nuxt-link
               >/<nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>，因此在
               <nuxt-link to="/elements/Conversion">招降</nuxt-link

@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            卡拉維爾戰船是<nuxt-link to="/games/ak">非洲王朝</nuxt-link
+            卡拉維爾戰船是<nuxt-link to="/games/ak">非洲王國</nuxt-link
             >資料片中<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
             >的第二個特殊單位。在城堡時代時可以在碼頭中訓練。它是艘可以像弩砲一樣傷害多個單位的戰船。
           </p>
@@ -540,7 +540,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

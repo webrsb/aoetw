@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>京都(1582)</strong></h1>
+        <h1><strong>京都（1582）</strong></h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            京都(1582)是征服者的戰役之一，描述1582年日本的本能寺之變與其後的中國大返還(山崎之戰)。
+            京都（1582）是征服者的戰役之一，描述1582年日本的本能寺之變與其後的中國大返還(山崎之戰)。
           </p>
         </div>
         <h2>玩家</h2>
@@ -237,7 +237,7 @@
               歷史上的明智光秀在敗退後死於荒郊野外，被狩獵落難武士的農民殺死(當時殺死敵將並帶回人頭有重賞)。
             </li>
             <li>而羽柴秀吉後來改名豐臣秀吉，進而統一日本。</li>
-            <li>豐臣秀吉後來進攻朝朝鮮，也就是遊戲內的洛陽點(1598)戰役。</li>
+            <li>豐臣秀吉後來進攻朝朝鮮，也就是遊戲內的洛陽點（1598）戰役。</li>
           </ul>
         </div>
       </div>
@@ -246,7 +246,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                京都(1582)
+                京都（1582）
               </div>
             </td>
           </tr>
@@ -291,7 +291,7 @@
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4">洛陽點(1598)</td>
+            <td class="unit4">洛陽點（1598）</td>
           </tr>
         </table>
 

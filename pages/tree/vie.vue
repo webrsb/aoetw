@@ -508,7 +508,7 @@
                 width="30"
                 alt=""
               />
-              <div><nuxt-link to="/techs/Chatras">恰特拉傘 </nuxt-link></div>
+              <div><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link></div>
             </td>
             <td class="t13 trm"></td>
             <td class="t13 trm"></td>

@@ -499,7 +499,7 @@
             </div>
           </div>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -530,7 +530,7 @@
             <li>訓練龜甲船需要180木180金。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>訓練龜甲船不再需要先建造城堡了。</li>
@@ -543,7 +543,7 @@
             <li>
               雖然是火藥單位，龜甲船沒有受到<nuxt-link to="/civs/Turks"
                 >土耳其</nuxt-link
-              >的團隊加成影響(火藥單位訓練速度快20%)。
+              >的團隊加分影響(火藥單位訓練速度快20%)。
             </li>
             <li>
               龜甲船是四個單位之一沒有任何攻擊加成的(其他三個是<nuxt-link

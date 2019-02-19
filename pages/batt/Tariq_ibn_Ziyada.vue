@@ -2,15 +2,15 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>塔里克．伊本．齊亞德</h1>
+        <h1>塔里克·伊本·齊亞德</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是說關於塔里克．伊本．齊亞德戰役。而關於英雄的塔里克．伊本．齊亞德這個單位請參見<nuxt-link
+            >這篇文章是說關於塔里克·伊本·齊亞德戰役。而關於英雄的塔里克·伊本·齊亞德這個單位請參見<nuxt-link
               to="/units/hero/Tariq_ibn_Ziyad"
-              >塔里克．伊本．齊亞德(英雄)</nuxt-link
+              >塔里克·伊本·齊亞德(英雄)</nuxt-link
             ></em
           >
         </div>
@@ -22,7 +22,7 @@
               >和阿拉伯人的軍隊橫渡伊比利亞，為了無盡的功名和榮華富貴，他們的威力是否足以戰勝西哥特人的恐怖步兵，戰火是否能燒到庇里牛斯山另一頭的梅羅文加王朝嗎？他們的成功，或失敗，在於你的手。
             </em>
             <p style="text-align: right;margin-top: 10px;">
-              -遊戲中對於塔里克．伊本．齊亞德戰役的介紹
+              -遊戲中對於塔里克·伊本·齊亞德戰役的介紹
             </p>
           </div>
           <p>

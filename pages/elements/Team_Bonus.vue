@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>團隊加成</h1>
+        <h1>團隊加分</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-12">
@@ -17,10 +17,10 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            團隊加成是指一個文明的特殊加成可以與同盟玩家共享，兩個文明相同的加成並不會重複加成，但不同文明的可以重複。如果同盟被擊敗，他的同盟加成依然有效。
+            團隊加分是指一個文明的特殊加成可以與同盟玩家共享，兩個文明相同的加成並不會重複加成，但不同文明的可以重複。如果同盟被擊敗，他的同盟加成依然有效。
           </p>
         </div>
-        <h3>所有文明團隊加成列表</h3>
+        <h3>所有文明團隊加分列表</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <div class="col-md-6">

@@ -374,7 +374,7 @@
                   alt=""
               /></gallery>
               <div class="lightbox-caption" style="width:220px">
-                <p><em>所有火藥單位(非洲王朝資料片)。</em></p>
+                <p><em>所有火藥單位(非洲王國資料片)。</em></p>
               </div>
             </div>
           </div>

@@ -10,7 +10,7 @@
           <p></p>
           <p>
             <b>輔佐新君</b
-            >為加查馬達戰役的第四關劇情關卡，此關描述加查馬達輔佐女王之子：哈亞烏魯克國王征服南洋各地的經過。
+            >為加查·馬達戰役的第四關劇情關卡，此關描述加查·馬達輔佐女王之子：哈亞烏魯克國王征服南洋各地的經過。
           </p>
         </div>
         <h2>玩家</h2>
@@ -167,7 +167,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Gajah_Madaa">加查馬達</nuxt-link>
+              <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
             </td>
           </tr>
           <tr>

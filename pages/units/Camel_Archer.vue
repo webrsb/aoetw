@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            駱駝弓騎兵<nuxt-link to="/games/ak">非洲王朝</nuxt-link
+            駱駝弓騎兵<nuxt-link to="/games/ak">非洲王國</nuxt-link
             >資料片中<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
             >的特殊單位，能夠在
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
@@ -308,7 +308,7 @@
           </tr>
         </table>
 
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -354,7 +354,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>

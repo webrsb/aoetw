@@ -13,7 +13,7 @@
               >城堡時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後跟柏柏同盟的文明的城堡工作速率快25%。(團隊加成)
+            >研發。研發後跟柏柏同盟的文明的城堡工作速率快25%。(團隊加分)
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -33,7 +33,7 @@
               >的<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
               >生產速度再疊加。同樣地聚居堡壘也能搭配<nuxt-link to="/civs/Turks"
                 >土耳其</nuxt-link
-              >的團隊加成(火藥單位訓練速度加快20%)，讓能生產城堡火藥單位的文明生產速度加快(如
+              >的團隊加分(火藥單位訓練速度加快20%)，讓能生產城堡火藥單位的文明生產速度加快(如
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、<nuxt-link
                 to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
@@ -41,7 +41,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

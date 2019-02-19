@@ -149,7 +149,7 @@
                   <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link> <br />
                   <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link> <br />
                   <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link> <br />
-                  <nuxt-link to="/units/Organ_Gun">手風琴砲</nuxt-link> <br />
+                  <nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link> <br />
                   <nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link> <br />
                   <nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link> <br />
                   <nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link> <br />

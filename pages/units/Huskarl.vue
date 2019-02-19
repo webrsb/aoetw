@@ -55,7 +55,7 @@
               <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
                 to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
-              >的高HP，強大的攻擊和濺射傷害可輕易摧毀哥德衛隊，但必須警惕戟兵的出現。遠程單位如
+              >的高HP，強大的攻擊和擴散傷害可輕易摧毀哥德衛隊，但必須警惕戟兵的出現。遠程單位如
               <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
               >，<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
               >或者<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
@@ -387,7 +387,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -455,7 +455,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>引入<nuxt-link to="/techs/Arson">縱火</nuxt-link>。</li>

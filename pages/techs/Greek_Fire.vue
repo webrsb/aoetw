@@ -32,7 +32,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -54,7 +54,7 @@
             <li>希臘之火成本為：250F/450G。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>4.8改版後希臘之火成本改為：250F/300G。</li>

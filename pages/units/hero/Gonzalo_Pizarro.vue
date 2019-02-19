@@ -110,12 +110,12 @@
             <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
           </div>
           <div style="margin-left: 60px;">
-            維基百科上的岡薩洛-皮薩羅
+            維基百科上的岡薩洛·皮薩羅
             <div style="margin-left: 10px;">
               <i
                 ><strong
                   ><a href="https://en.wikipedia.org/wiki/Gonzalo_Pizarro"
-                    >岡薩洛-皮薩羅</a
+                    >岡薩洛·皮薩羅</a
                   ></strong
                 ></i
               >

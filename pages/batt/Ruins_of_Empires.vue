@@ -10,7 +10,7 @@
           <p></p>
           <p>
             <b>帝國的廢墟</b
-            >為非洲王國戰役中《法蘭西斯科．阿爾梅達》劇情戰役中的第三關。
+            >為非洲王國戰役中《法蘭西斯科·阿爾梅達》劇情戰役中的第三關。
           </p>
           <p>
             <b>法蘭西斯科．德．阿爾梅達</b
@@ -282,7 +282,7 @@
             <td class="unit3">戰役</td>
             <td class="unit4">
               <nuxt-link to="/batt/Francisco_de_Almeidaa"
-                >法蘭西斯科．阿爾梅達</nuxt-link
+                >法蘭西斯科·阿爾梅達</nuxt-link
               >
             </td>
           </tr>

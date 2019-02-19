@@ -41,15 +41,15 @@
             </p>
             <p>
               非洲王國戰役 ➠
-              <nuxt-link to="#a17">【塔里克．伊本．齊亞德】</nuxt-link
+              <nuxt-link to="#a17">【塔里克·伊本·齊亞德】</nuxt-link
               >、<nuxt-link to="#a18">【松迪亞塔】</nuxt-link>、<nuxt-link
                 to="#a19"
-                >【法蘭西斯科．阿爾梅達】</nuxt-link
+                >【法蘭西斯科·阿爾梅達】</nuxt-link
               >、<nuxt-link to="#a20">【優娣忒】</nuxt-link>
             </p>
             <p>
               王者崛起戰役 ➠
-              <nuxt-link to="#a21">【加查•馬達】</nuxt-link>、<nuxt-link
+              <nuxt-link to="#a21">【加查‧馬達】</nuxt-link>、<nuxt-link
                 to="#a22"
                 >【蘇利耶跋摩一世】</nuxt-link
               >、<nuxt-link to="#a23">【勃印曩】</nuxt-link>、<nuxt-link
@@ -1168,7 +1168,7 @@
                   <div class="unititle">
                     <div id="a17">
                       <nuxt-link to="/batt/Tariq_ibn_Ziyada"
-                        >塔里克．伊本．齊亞德</nuxt-link
+                        >塔里克·伊本·齊亞德</nuxt-link
                       >
                     </div>
                   </div>
@@ -1294,7 +1294,7 @@
                   <div class="unititle">
                     <div id="a19">
                       <nuxt-link to="/batt/Francisco_de_Almeidaa"
-                        >法蘭西斯科．阿爾梅達</nuxt-link
+                        >法蘭西斯科·阿爾梅達</nuxt-link
                       >
                     </div>
                   </div>
@@ -1414,7 +1414,7 @@
                 <td class="unit" style="background-color:#5f8ebd;">
                   <div class="unititle">
                     <div id="a21">
-                      <nuxt-link to="/batt/Gajah_Madaa">加查•馬達</nuxt-link>
+                      <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
                     </div>
                   </div>
                 </td>

@@ -50,7 +50,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:碼頭成本減少15%。(團隊加成)
+              >:碼頭成本減少15%。(團隊加分)
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link

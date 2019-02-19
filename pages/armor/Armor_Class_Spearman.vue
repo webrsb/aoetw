@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>槍兵系</h1>
+        <h1>槍兵類</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於槍兵系裝甲的。而關於槍兵這個兵種的請參見<nuxt-link
+            >這篇文章是將有關於槍兵類裝甲的。而關於槍兵這個兵種的請參見<nuxt-link
               to="/units/Spearman"
               >長槍兵</nuxt-link
             ></em
@@ -18,13 +18,13 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            槍兵系是一個防禦裝甲類別，所有在這個系列的兵種都會被剋槍兵系的兵種有額外的傷害。
+            槍兵類是一個防禦裝甲類別，所有在這個系列的兵種都會被剋槍兵類的兵種有額外的傷害。
           </p>
         </div>
-        <h3>槍兵系單位</h3>
+        <h3>槍兵類單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          下列的單位都是槍兵系單位
+          下列的單位都是槍兵類單位
           <ul>
             <li>
               <img class="gg" src="~assets/SpearmanIcon.jpg" alt="" />
@@ -36,10 +36,10 @@
             </li>
           </ul>
         </div>
-        <h3>剋槍兵系的單位與建築</h3>
+        <h3>剋槍兵類的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對槍兵系的額外傷害，按造傷殺力排列。一般來說，大多數的<nuxt-link
+          以下單位擁有對槍兵類的額外傷害，按造傷殺力排列。一般來說，大多數的<nuxt-link
             to="/armor/Armor_Class_Archer"
             >射手單位</nuxt-link
           >都有加成。

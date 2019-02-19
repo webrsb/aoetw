@@ -225,7 +225,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >：斥候血量多20%(在非洲王朝資料片上線後)，研發<nuxt-link
+              >：斥候血量多20%(在非洲王國資料片上線後)，研發<nuxt-link
                 to="/techs/Chivalry"
                 >騎士精神</nuxt-link
               >後
@@ -260,7 +260,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

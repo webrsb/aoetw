@@ -23,7 +23,7 @@
               <li><nuxt-link to="/maps/Continental">大陸</nuxt-link></li>
               <li><nuxt-link to="/maps/Fortress">堡壘</nuxt-link></li>
               <li><nuxt-link to="/maps/Gold_Rush">淘金潮</nuxt-link></li>
-              <li><nuxt-link to="/maps/Highland">高原</nuxt-link></li>
+              <li><nuxt-link to="/maps/Highland">高地</nuxt-link></li>
               <li><nuxt-link to="/maps/Islands">島嶼</nuxt-link></li>
               <li><nuxt-link to="/maps/Mediterranean">地中海</nuxt-link></li>
               <li><nuxt-link to="/maps/Migration">移民</nuxt-link></li>

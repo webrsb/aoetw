@@ -113,10 +113,10 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>以下列出海軍的團隊加成</p>
+          <p>以下列出海軍的團隊加分</p>
           <ul>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：<nuxt-link

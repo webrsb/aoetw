@@ -323,13 +323,13 @@
           <tr>
             <td class="unit3">上一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/York_865">約克(865)</nuxt-link>
+              <nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Langshan_Jiang_919">狼山江(919)</nuxt-link>
+              <nuxt-link to="/batt/Langshan_Jiang_919">狼山江（919）</nuxt-link>
             </td>
           </tr>
         </table>

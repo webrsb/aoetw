@@ -619,7 +619,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -696,7 +696,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>

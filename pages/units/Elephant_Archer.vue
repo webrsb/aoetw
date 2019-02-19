@@ -718,10 +718,10 @@
                   </ul>
                 </div>
               </div>
-              以下團隊加成可讓以下單位對象弓騎兵有額外攻擊力
+              以下團隊加分可讓以下單位對象弓騎兵有額外攻擊力
               <div class="n1">
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
-                >在團隊加成裡，給予以下單位+2額外攻擊vs<nuxt-link
+                >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
                   to="/units/Archer_Units"
                   >射手單位</nuxt-link
                 >。
@@ -744,7 +744,7 @@
             </div>
           </div>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

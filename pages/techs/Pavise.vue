@@ -29,7 +29,7 @@
             <li>
               一開始巨盾的護甲加成只有加在熱那亞努手身上，後來在<nuxt-link
                 to="/games/ak"
-                >非洲王朝</nuxt-link
+                >非洲王國</nuxt-link
               >資料片中才改成所有徒步弓兵都有加乘。
             </li>
             <li>
@@ -47,7 +47,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -74,7 +74,7 @@
             </li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>巨盾現在成本為300肉150金。</li>

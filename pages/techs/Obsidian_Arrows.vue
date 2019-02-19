@@ -43,12 +43,12 @@
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >的話弓箭手對建築物的總體攻擊會是+8(薩拉森<nuxt-link
                 to="/Team_Bonus"
-                >團隊加成</nuxt-link
+                >團隊加分</nuxt-link
               >:弓兵對建築物+2攻擊)。
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -70,7 +70,7 @@
             <li>黑曜石之箭讓弓兵對建築物攻擊+1。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>

@@ -203,7 +203,7 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Pavise">巨盾</nuxt-link>
-              (+1/+1，非洲王朝資料片後的<nuxt-link to="/civs/Italians"
+              (+1/+1，非洲王國資料片後的<nuxt-link to="/civs/Italians"
                 >義大利</nuxt-link
               >限定)
             </td>
@@ -367,8 +367,8 @@
             </div>
           </div>
         </div>
-        團隊加成:<nuxt-link to="/civs/Persians">波斯</nuxt-link
-        >在團隊加成裡，給予以下單位+2額外攻擊vs<nuxt-link
+        團隊加分:<nuxt-link to="/civs/Persians">波斯</nuxt-link
+        >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
           to="/units/Archer_Units"
           >射手單位</nuxt-link
         >。
@@ -431,7 +431,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -487,7 +487,7 @@
           <ul>
             <li>訓練增加到35秒。</li>
             <li>
-              對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵系</nuxt-link
+              對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
               >的攻擊+3。
             </li>
             <li>引入<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>。</li>

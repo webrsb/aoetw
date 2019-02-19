@@ -47,7 +47,7 @@
             <nuxt-link to="/civs/Teutons">條頓</nuxt-link>和<nuxt-link
               to="/civs/Byzantines"
               >拜占庭</nuxt-link
-            >僧侶相當強大，並受益於修道院升級技術和團隊加成。
+            >僧侶相當強大，並受益於修道院升級技術和團隊加分。
           </p>
         </div>
         <h3>戰術</h3>
@@ -351,7 +351,7 @@
             <li><nuxt-link to="">條頓</nuxt-link>：僧侶有雙倍的治療範圍。</li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -465,7 +465,7 @@
                 <em
                   >Voobly模組內，亞洲國家獨特的僧侶外型。其實原型是<nuxt-link
                     to="/units/hero/Chand_Bhai"
-                    >金德-伯勒達伊</nuxt-link
+                    >金德·伯勒達伊</nuxt-link
                   >。</em
                 >
               </p>

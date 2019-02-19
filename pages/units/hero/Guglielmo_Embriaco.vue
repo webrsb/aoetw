@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <strong>吉列爾莫‧安布裡科</strong> 是一名在《世紀帝國II
-            HD：非洲王朝》的地圖編輯器中能使用的<nuxt-link
+            HD：非洲王國》的地圖編輯器中能使用的<nuxt-link
               to="/armor/Armor_Class_Archer"
               >射手</nuxt-link
             >
@@ -53,7 +53,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

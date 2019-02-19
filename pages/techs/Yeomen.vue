@@ -13,7 +13,7 @@
               >城堡時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後徒步弓兵射程+1，箭塔攻擊+2。(團隊加成)
+            >研發。研發後徒步弓兵射程+1，箭塔攻擊+2。(團隊加分)
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -28,7 +28,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -57,7 +57,7 @@
             <li>義勇騎兵可在城堡時代研發。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>4.8改版後義勇騎兵會影響箭塔的第二次攻擊。</li>

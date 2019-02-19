@@ -100,7 +100,7 @@
                 <span class="unititle"
                   >玩家經過即可收編操控，遊戲早期階段可用來偵察，缺點是移動緩慢及被敵人偷走的可能性。該動物於<nuxt-link
                     to="/games/ak"
-                    >非洲王朝</nuxt-link
+                    >非洲王國</nuxt-link
                   >版本中新增，主要出沒在非洲地圖。</span
                 >
               </td>
@@ -354,7 +354,7 @@
                 <span class="unititle"
                   >村民攻擊2次可殺死，建議兩位村民同時打獵，該動物於<nuxt-link
                     to="/games/ak"
-                    >非洲王朝</nuxt-link
+                    >非洲王國</nuxt-link
                   >版本中新增，主要出沒在非洲地圖。</span
                 >
               </td>
@@ -416,7 +416,7 @@
                 <span class="unititle"
                   >村民攻擊2次可殺死，建議兩位村民同時打獵，該動物於<nuxt-link
                     to="/games/ak"
-                    >非洲王朝</nuxt-link
+                    >非洲王國</nuxt-link
                   >版本中新增，主要出沒在非洲地圖。</span
                 >
               </td>
@@ -480,7 +480,7 @@
                 <span class="unititle"
                   >受攻擊後會反擊，須由多位村民合力殺死。它比野豬提供更多的食物，該動物於<nuxt-link
                     to="/games/ak"
-                    >非洲王朝</nuxt-link
+                    >非洲王國</nuxt-link
                   >版本中新增，主要出沒在非洲或印度的地圖。</span
                 >
               </td>
@@ -606,7 +606,7 @@
               </td>
               <td style="border: 1px solid #495057;" colspan="4">
                 <span class="unititle"></span>在<nuxt-link to="/games/ak"
-                  >非洲王朝</nuxt-link
+                  >非洲王國</nuxt-link
                 >版本中，新增了水果灌木叢。
               </td>
             </tr>

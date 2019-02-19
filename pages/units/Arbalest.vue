@@ -119,7 +119,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -160,7 +160,7 @@
           <ul>
             <li>訓練增加到35秒。</li>
             <li>
-              對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵系</nuxt-link
+              對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
               >的攻擊+3。
             </li>
             <li>拇指環引進。</li>

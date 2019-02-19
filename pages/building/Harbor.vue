@@ -401,7 +401,7 @@
           </tr>
         </table>
 
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

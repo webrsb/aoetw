@@ -89,7 +89,7 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit3">文明</td>

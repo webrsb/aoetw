@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            優娣忒公主是個英雄，在"世界地國II:非洲王朝"資料片中出現，也能在地圖編輯器中找到她。
+            優娣忒公主是個英雄，在"世界地國II:非洲王國"資料片中出現，也能在地圖編輯器中找到她。
           </p>
           <p>
             優娣忒公主在所有她的戰役中都必須活著，否則遊戲就宣告失敗，她不能被招降而且會自行回血。
@@ -46,7 +46,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

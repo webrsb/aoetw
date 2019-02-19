@@ -339,7 +339,7 @@
             <p>葡萄牙:風琴砲黃金成本便宜15%。</p>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -373,7 +373,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>手風琴砲有1的擴散攻擊。</li>
@@ -384,7 +384,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >:手風琴砲一開始不售土耳其的團隊加成影響。直到4.8改版後才開始有影響訓練速度(+20%)。
+              >:手風琴砲一開始不售土耳其的團隊加分影響。直到4.8改版後才開始有影響訓練速度(+20%)。
             </li>
           </ul>
           <h3>

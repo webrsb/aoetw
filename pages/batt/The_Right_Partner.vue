@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>最佳搭檔</b>是《世紀帝國 II HD:
-            非洲王朝》優娣忒戰役的第二個場景。戰役中優娣忒必須給敘利亞王子Zanobis留下深刻的印象，以便與他結婚並鞏固她的地位。
+            非洲王國》優娣忒戰役的第二個場景。戰役中優娣忒必須給敘利亞王子Zanobis留下深刻的印象，以便與他結婚並鞏固她的地位。
           </p>
         </div>
         <h3>AI</h3>
@@ -123,7 +123,7 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -150,7 +150,7 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">非洲王朝第四章第二</td>
+            <td class="unit4">非洲王國第四章第二</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

@@ -2,18 +2,18 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>金德-伯勒達伊</h1>
+        <h1>金德·伯勒達伊</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>金德-伯勒達伊</strong>是《世紀帝國 II HD:
-            失落的帝國》中的一名英雄，他只能在戰役編輯器中使用。金德-伯勒達伊是以印度種姓制度的一位專門擔任神職學習的婆羅門祭司為基礎，他擁有僧侶的外觀。由於他屬於英雄單位，因此不能被招降且會回血
+            <strong>金德·伯勒達伊</strong>是《世紀帝國 II HD:
+            失落的帝國》中的一名英雄，他只能在戰役編輯器中使用。金德·伯勒達伊是以印度種姓制度的一位專門擔任神職學習的婆羅門祭司為基礎，他擁有僧侶的外觀。由於他屬於英雄單位，因此不能被招降且會回血
             。
           </p>
           <p>
-            金德-伯勒達伊可以治療友芳單位，但<strong>不能招降敵方單位</strong>
+            金德·伯勒達伊可以治療友芳單位，但<strong>不能招降敵方單位</strong>
           </p>
         </div>
         <div></div>
@@ -24,7 +24,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                金德-伯勒達伊
+                金德·伯勒達伊
               </div>
             </td>
           </tr>

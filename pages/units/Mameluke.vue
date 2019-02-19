@@ -33,7 +33,7 @@
           </p>
           <p>
             <nuxt-link to="/civs/Indians">印度</nuxt-link
-            >的團隊加成使奴隸兵攻擊<nuxt-link to="/building">建築物</nuxt-link
+            >的團隊加分使奴隸兵攻擊<nuxt-link to="/building">建築物</nuxt-link
             >額外+5，讓奴隸兵不止能對抗敵對的騎兵單位，也大大地提高拆除建築的效率，讓奴隸兵更具侵略性。奴隸兵非常適合搭配
             <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
               to="/units/Light_Cavalry"
@@ -565,10 +565,10 @@
                 </div>
               </div>
               <div class="col-md-12">
-                以下團隊加成可讓以下單位對奴隸兵有額外攻擊力
+                以下團隊加分可讓以下單位對奴隸兵有額外攻擊力
                 <div class="n1">
                   <nuxt-link to="/civs/Persians">波斯</nuxt-link
-                  >在團隊加成裡，給予以下單位+2額外攻擊vs<nuxt-link
+                  >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
                     to="/units/Archer_Units"
                     >射手單位</nuxt-link
                   >。
@@ -602,7 +602,7 @@
             </div>
           </div>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -670,7 +670,7 @@
             <li>非精銳奴隸兵現在的攻擊力為8。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>

@@ -129,7 +129,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">擲斧兵</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Tours_732">都爾(732)</nuxt-link>
+              <nuxt-link to="/batt/Tours_732">都爾（732）</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -301,7 +301,7 @@
             <td class="tunitc6">
               <img class="gg" src="~assets/MonkIcon.jpg" alt="" /><nuxt-link
                 to="/units/hero/Harold_Haardraade"
-                >哈拉爾-哈德拉達</nuxt-link
+                >哈拉爾·哈德拉達</nuxt-link
               >
             </td>
             <td class="tunitc4">僧侶</td>
@@ -338,7 +338,7 @@
               >
               <br /><nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>
               <br /><nuxt-link to="/batt/Honfoglalas_895"
-                >征服家園(895)</nuxt-link
+                >征服家園（895）</nuxt-link
               >
             </td>
           </tr>
@@ -523,7 +523,7 @@
             <td class="tunitc4">步兵</td>
             <td class="tunitc6">日本武士</td>
             <td class="tunitc6">
-              <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>
+              <nuxt-link to="/batt/Kurikara_1183">礪波山（1183）</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -834,7 +834,7 @@
                 <td class="tunitc6">龜甲船</td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Noryang_Point_1598"
-                    >洛陽點(1598)</nuxt-link
+                    >洛陽點（1598）</nuxt-link
                   >
                 </td>
               </tr>
@@ -894,7 +894,7 @@
                     src="~assets/Elcidicon.png"
                     alt=""
                   /><nuxt-link to="/units/hero/El_Cid_Campeador"
-                    >羅德里高-迪亞茲-熙德</nuxt-link
+                    >羅德里高·迪亞茲·熙德</nuxt-link
                   >
                 </td>
                 <td class="tunitc4">騎兵</td>
@@ -942,7 +942,7 @@
                 <td class="tunitc4">步兵</td>
                 <td class="tunitc6">狂戰士</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Hastings_1066">哈斯汀斯(1066)</nuxt-link>
+                  <nuxt-link to="/batt/Hastings_1066">哈斯汀斯（1066）</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -957,7 +957,7 @@
                 <td class="tunitc6">遊俠</td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Agincourt_1415"
-                    >亞琴哥特(1415)</nuxt-link
+                    >亞琴哥特（1415）</nuxt-link
                   >
                 </td>
               </tr>
@@ -1022,7 +1022,7 @@
                 <td class="tunitc4">步兵</td>
                 <td class="tunitc6">日本武士</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>
+                  <nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link>
                 </td>
               </tr>
               <tr>
@@ -1054,7 +1054,7 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">輕騎兵</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>
+                  <nuxt-link to="/batt/Bukhara_557">布哈拉（557）</nuxt-link>
                   <br /><nuxt-link to="/batt/Djeriba_Gold"
                     >傑爾巴島的黃金</nuxt-link
                   >
@@ -1092,7 +1092,7 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">特殊</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Hastings_1066">哈斯汀斯(1066)</nuxt-link>
+                  <nuxt-link to="/batt/Hastings_1066">哈斯汀斯（1066）</nuxt-link>
                 </td>
               </tr>
             </table>
@@ -1115,7 +1115,7 @@
                         src="~assets/Chandbhaiicon.png"
                         alt=""
                       /><nuxt-link to="/units/hero/Chand_Bhai"
-                        >金德-伯勒達伊</nuxt-link
+                        >金德·伯勒達伊</nuxt-link
                       >
                     </td>
                     <td class="tunitc4">僧侶</td>
@@ -1147,7 +1147,7 @@
                         src="~assets/Francescosforzaicon.png"
                         alt=""
                       /><nuxt-link to="/units/hero/Francesco_Sforza"
-                        >法蘭切斯科-斯福爾札</nuxt-link
+                        >法蘭切斯科·斯福爾札</nuxt-link
                       >
                     </td>
                     <td class="tunitc4">步兵</td>
@@ -1175,7 +1175,7 @@
                         src="~assets/Franciscodeorellanaicon.png"
                         alt=""
                       /><nuxt-link to="/units/hero/Francisco_de_Orellana"
-                        >法蘭切斯科-德-奧雷亞納</nuxt-link
+                        >法蘭切斯科·德·奧雷亞納</nuxt-link
                       >
                     </td>
                     <td class="tunitc4">火藥單位、騎兵</td>
@@ -1214,7 +1214,7 @@
                         src="~assets/Gonzalopizarroicon.png"
                         alt=""
                       /><nuxt-link to="/units/hero/Gonzalo_Pizarro"
-                        >岡薩洛-皮薩羅</nuxt-link
+                        >岡薩洛·皮薩羅</nuxt-link
                       >
                     </td>
                     <td class="tunitc4">火藥單位、騎兵</td>
@@ -1234,9 +1234,9 @@
                     <td class="tunitc4">騎兵</td>
                     <td class="tunitc6">韃靼騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/batt/York_865">約克(865)</nuxt-link>
+                      <nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
                       <br /><nuxt-link to="/batt/Honfoglalas_895"
-                        >征服家園(895)</nuxt-link
+                        >征服家園（895）</nuxt-link
                       >
                     </td>
                   </tr>
@@ -1363,7 +1363,7 @@
                     <td class="tunitc4">騎兵</td>
                     <td class="tunitc6">拜占庭聖騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>
+                      <nuxt-link to="/batt/Bukhara_557">布哈拉（557）</nuxt-link>
                     </td>
                   </tr>
                   <tr>
@@ -1400,7 +1400,7 @@
 
                 <div class="row">
                   <div class="col-md-12">
-                    <h3><nuxt-link to="">非洲王朝</nuxt-link></h3>
+                    <h3><nuxt-link to="">非洲王國</nuxt-link></h3>
                     <div class="hrn1"></div>
                     <table class="table-bordered" width="100%">
                       <tr>
@@ -1490,7 +1490,7 @@
                             src="~assets/New_Genoese_Crossbowman.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Guglielmo_Embriaco"
-                            >吉列爾莫-安布裡科</nuxt-link
+                            >吉列爾莫·安布裡科</nuxt-link
                           >
                         </td>
                         <td class="tunitc4">步兵</td>
@@ -1518,7 +1518,7 @@
                             src="~assets/Slingericon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Huayan_Capac"
-                            >華伊納-卡派克</nuxt-link
+                            >華伊納·卡派克</nuxt-link
                           >
                         </td>
                         <td class="tunitc4">弓兵</td>
@@ -1560,7 +1560,7 @@
                             src="~assets/Magyar_Huszar_icon.jpg"
                             alt=""
                           /><nuxt-link to="/units/hero/Miklos_Toldi"
-                            >米克羅斯-陶笛</nuxt-link
+                            >米克羅斯·陶笛</nuxt-link
                           >
                         </td>
                         <td class="tunitc4">騎兵</td>
@@ -1574,7 +1574,7 @@
                             src="~assets/Musaibnnusayricon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Musa_ibn_Nusayr"
-                            >穆薩-伊本-奴薩爾</nuxt-link
+                            >穆薩·伊本·奴薩爾</nuxt-link
                           >
                         </td>
                         <td class="tunitc4">馬弓騎兵</td>
@@ -1714,7 +1714,7 @@
                             src="~assets/Tariqibnziyadicon.png"
                             alt=""
                           /><nuxt-link to="/units/hero/Tariq_ibn_Ziyad"
-                            >塔里克-伊本-齊亞德</nuxt-link
+                            >塔里克·伊本·齊亞德</nuxt-link
                           >
                         </td>
                         <td class="tunitc4">馬弓騎兵</td>
@@ -1863,7 +1863,7 @@
                                 src="~assets/Gajahmadaicon.png"
                                 alt=""
                               /><nuxt-link to="/units/hero/Gajah_Mada"
-                                >加查-馬達</nuxt-link
+                                >加查·馬達</nuxt-link
                               >
                             </td>
                             <td class="tunitc4">步兵</td>
@@ -1987,7 +1987,7 @@
                                 src="~assets/Radenwijayaicon.png"
                                 alt=""
                               /><nuxt-link to="/units/hero/Raden_Wijaya"
-                                >羅登-韋查耶</nuxt-link
+                                >羅登·韋查耶</nuxt-link
                               >
                             </td>
                             <td class="tunitc4">馬弓騎兵</td>

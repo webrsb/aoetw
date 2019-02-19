@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            茲瓦斯艾黑騎士是個騎兵英雄，在"世界地國II:非洲王朝"資料片中出現。它是以波蘭的民間英雄:波蘭貴族騎士Zawisza
+            茲瓦斯艾黑騎士是個騎兵英雄，在"世界地國II:非洲王國"資料片中出現。它是以波蘭的民間英雄:波蘭貴族騎士Zawisza
             Czarny作為模板。
           </p>
           <p>
@@ -47,7 +47,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

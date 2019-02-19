@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>都爾(732)圖爾戰役</strong></h1>
+        <h1><strong>都爾（732）圖爾戰役</strong></h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -161,7 +161,7 @@
             </li>
             <li>
               此關為非洲王國戰役<nuxt-link to="/batt/Tariq_ibn_Ziyada"
-                >塔里克.伊本.齊亞德</nuxt-link
+                >塔里克·伊本·齊亞德</nuxt-link
               >的續篇。
             </li>
           </ul>
@@ -182,8 +182,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">
-                <nuxt-link to="/batt/Tours_732">都爾(732)圖爾戰役</nuxt-link>
+              <div class="unititle2">都爾（732）圖爾戰役
               </div>
             </td>
           </tr>

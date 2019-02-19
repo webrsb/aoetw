@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>亞琴哥特(1415)</strong></h1>
+        <h1><strong>亞琴哥特（1415）</strong></h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -139,7 +139,7 @@
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <ul>
-            <li>亞琴哥特(1415)又譯亞金科特戰役，阿金庫爾戰役</li>
+            <li>亞琴哥特（1415）又譯亞金科特戰役，阿金庫爾戰役</li>
           </ul>
           <h3>英雄:亨利五世（1386年8月9日－1422年8月31日）</h3>
           <div class="hrn1"></div>
@@ -156,7 +156,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
               <div class="unititle2">
-                亞琴哥特(1415)阿金庫爾戰役
+                亞琴哥特（1415）阿金庫爾戰役
               </div>
             </td>
           </tr>
@@ -200,7 +200,7 @@
           <tr>
             <td class="unit3">上一關</td>
             <td>
-              <nuxt-link to="/batt/Manzikert_1071">曼奇克托(1071)</nuxt-link>
+              <nuxt-link to="/batt/Manzikert_1071">曼奇克托（1071）</nuxt-link>
             </td>
           </tr>
           <tr>

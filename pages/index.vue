@@ -187,7 +187,7 @@
                   class="gg"
                   src="~assets/AfricanIcon.png"
                   alt=""
-                /><nuxt-link to="/games/ak">非洲王朝</nuxt-link>
+                /><nuxt-link to="/games/ak">非洲王國</nuxt-link>
               </li>
               <li>
                 <img class="gg" src="~assets/RajaIcon.png" alt="" /><nuxt-link

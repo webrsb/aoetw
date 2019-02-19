@@ -24,7 +24,7 @@
         <div class="n1">
           <ul>
             <li>
-              雙弩箭增強了弩砲象和高棉無可挑剔的弩砲(團隊加成:弩砲射程+1還有<nuxt-link
+              雙弩箭增強了弩砲象和高棉無可挑剔的弩砲(團隊加分:弩砲射程+1還有<nuxt-link
                 to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
               >的加成)對大規模
@@ -44,7 +44,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

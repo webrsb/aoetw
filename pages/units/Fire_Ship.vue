@@ -552,7 +552,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -594,7 +594,7 @@
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>火戰船現在有7的遠防並對反船隻攻擊有額外+6護甲。</li>

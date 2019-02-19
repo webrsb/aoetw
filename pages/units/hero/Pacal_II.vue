@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            巴加爾二世是個弓兵英雄，只在"世界地國II:非洲王朝"資料片中的地圖編輯器出現，巴加爾二世的名字是以K'inich
+            巴加爾二世是個弓兵英雄，只在"世界地國II:非洲王國"資料片中的地圖編輯器出現，巴加爾二世的名字是以K'inich
             Janaab'Pakal所命名，他在位期間馬雅帝國擴積極張實力，並監督執行在首都的大型建築計畫，後來留下的建築成為了中美洲的藝術典範。
           </p>
           <p>
@@ -47,7 +47,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

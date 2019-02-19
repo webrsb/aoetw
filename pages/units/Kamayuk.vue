@@ -157,7 +157,7 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Couriers"
                 >信使</nuxt-link
-              >(+1/+2，從<nuxt-link to="/games/ak">非洲王朝</nuxt-link
+              >(+1/+2，從<nuxt-link to="/games/ak">非洲王國</nuxt-link
               >資料片開始)
             </td>
           </tr>
@@ -369,7 +369,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -407,7 +407,7 @@
             <li>升級到精銳槍隊長需要1000肉600金。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>信使現在給槍隊長+1/+2護甲，移除+10%移動速度。</li>

@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            使者是個騎兵英雄，只在"世界地國II:非洲王朝"資料片之後的地圖編輯器中出現。
+            使者是個騎兵英雄，只在"世界地國II:非洲王國"資料片之後的地圖編輯器中出現。
           </p>
           <p>
             在遊戲中使者的外型類似輕騎兵，功能也很雷同，例如:有較好的視野範圍跟對僧侶攻擊加成。但他的戰鬥能力比輕騎兵更好。他不能被招降而且會自行回血。
@@ -44,7 +44,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

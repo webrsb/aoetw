@@ -162,7 +162,7 @@
                 to="/techs/Couriers"
                 >信使</nuxt-link
               >(+1/+2，<nuxt-link to="/civs/Incas">印加</nuxt-link
-              >，從<nuxt-link to="/games/ak">非洲王朝</nuxt-link>資料片開始)
+              >，從<nuxt-link to="/games/ak">非洲王國</nuxt-link>資料片開始)
             </td>
           </tr>
           <tr>
@@ -425,7 +425,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

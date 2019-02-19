@@ -220,7 +220,7 @@
         <h3>剋長槍兵的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對長槍兵系的額外傷害，按造傷殺力排列。
+          以下單位擁有對長槍兵類的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -604,7 +604,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -896,7 +896,7 @@
           <gallery
             ><img class="imgn hg" src="~assets/Spearline.png" alt=""
           /></gallery>
-          <p><em>長槍兵系列</em></p>
+          <p><em>長槍兵類列</em></p>
         </div>
         <div class="col-md-4">
           <gallery

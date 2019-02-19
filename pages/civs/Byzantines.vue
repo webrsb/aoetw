@@ -219,7 +219,7 @@
       <nuxt-link to="/batt/Battles_of_the_Conquerors">征服者戰役</nuxt-link>
       <ul>
         <li>
-          <nuxt-link to="/batt/Manzikert_1071">曼奇克托(1071)</nuxt-link
+          <nuxt-link to="/batt/Manzikert_1071">曼奇克托（1071）</nuxt-link
           >卡帕多細亞、西迪亞、格雷西亞、拜占庭軍隊
         </li>
         <li>

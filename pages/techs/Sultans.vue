@@ -33,14 +33,14 @@
               >)，蘇丹是印度玩家需要及早研發的科技。
             </li>
             <li>
-              蘇丹可以與其他團隊加成疊加，譬如<nuxt-link to="/civs/Aztecs"
+              蘇丹可以與其他團隊加分疊加，譬如<nuxt-link to="/civs/Aztecs"
                 >阿茲特克</nuxt-link
               >或<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >，前者遺跡收集黃金量+33%，後者貿易車隊、貿易商旅每趟多25%黃金。
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

@@ -2,14 +2,14 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>法蘭切斯科-斯福爾札</h1>
+        <h1>法蘭切斯科·斯福爾札</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>法蘭切斯科-斯福爾札</strong>是《世紀帝國 II HD:
-            失落的帝國》中的一名步兵英雄，他是戰役"斯福爾札"系列中的主角而且一定要存活，他也能在戰役編輯器中使用。法蘭切斯科-斯福爾札擁有傭兵的外觀。由於他屬於英雄單位，因此不能被招降且會回血
+            <strong>法蘭切斯科·斯福爾札</strong>是《世紀帝國 II HD:
+            失落的帝國》中的一名步兵英雄，他是戰役"斯福爾札"系列中的主角而且一定要存活，他也能在戰役編輯器中使用。法蘭切斯科·斯福爾札擁有傭兵的外觀。由於他屬於英雄單位，因此不能被招降且會回血
             。
           </p>
           <p></p>
@@ -22,7 +22,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                法蘭切斯科-斯福爾札
+                法蘭切斯科·斯福爾札
               </div>
             </td>
           </tr>

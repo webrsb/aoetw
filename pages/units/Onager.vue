@@ -13,7 +13,7 @@
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >，研發科技後才可以在攻城器製造所進行訓練。 它主要用來對付大群敵人。
-            它特別的<nuxt-link to="/elements/Area_of_Effect">濺射傷害</nuxt-link
+            它特別的<nuxt-link to="/elements/Area_of_Effect">擴散傷害</nuxt-link
             >使它成為一個強大的單位，特別是對弓箭手和緩慢移動的單位。
             <nuxt-link to="/units/Onager">中型投石車</nuxt-link>還
             可以攻擊地面並砍除樹木，在黑森林或樹木過多的封閉地形，它的價值顯得額外重要，除了<nuxt-link
@@ -372,7 +372,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

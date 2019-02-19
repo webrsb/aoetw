@@ -401,13 +401,6 @@
             <td class="tunitc6">高血量高裝甲的遠程大象。</td>
           </tr>
           <tr>
-            <td class="tunitc6">
-              <img
-                class="gg"
-                src="~assets/ImperialCamelIcon.jpg"
-                alt=""
-              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
-            </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Indians">印度</nuxt-link>
             </td>
@@ -483,7 +476,7 @@
           <tr>
             <td colspan="3">
               <h3>
-                <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+                <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
               </h3>
             </td>
           </tr>
@@ -704,7 +697,7 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有《世紀帝國 II HD: 非洲王朝》的特殊單位。</em></p>
+              <p><em>所有《世紀帝國 II HD: 非洲王國》的特殊單位。</em></p>
             </div>
           </div>
           <div class="col-md-4">

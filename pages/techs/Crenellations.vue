@@ -21,7 +21,7 @@
         <div class="n1">
           <ul>
             <li>
-              一般來說只有<nuxt-link to="/units/Archer_Units">射手型</nuxt-link
+              一般來說只有<nuxt-link to="/units/Archer_Units">射手類</nuxt-link
               >單位和<nuxt-link to="/units/Villager">村民</nuxt-link
               >可以讓箭塔、
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
@@ -38,7 +38,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>

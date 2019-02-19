@@ -675,10 +675,10 @@
               </div>
             </div>
             <div class="col-md-12">
-              以下團隊加成可讓以下單位對蒙古突騎有額外攻擊力
+              以下團隊加分可讓以下單位對蒙古突騎有額外攻擊力
               <div class="n1">
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
-                >在團隊加成裡，給予以下單位+2額外攻擊vs<nuxt-link
+                >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
                   to="/units/Archer_Units"
                   >射手單位</nuxt-link
                 >。
@@ -711,7 +711,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -800,7 +800,7 @@
             <li>蒙古突騎(非精銳)的開火間隔減少為5。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>4.8版後蒙古突騎現在的開火間隔為5。</li>

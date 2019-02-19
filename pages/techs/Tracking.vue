@@ -194,7 +194,7 @@
             <td class="tta1">
               <img class="gg" src="~assets/SMURI.jpg" /><nuxt-link
                 to="/units/Samurai"
-                >日本武士(精銳</nuxt-link
+                >日本武士(精銳)</nuxt-link
               >
             </td>
             <td class="tta2">4，5</td>
@@ -310,7 +310,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -330,7 +330,7 @@
             <li>追蹤技術需要花費75肉。</li>
           </ul>
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>追蹤技術需要花費50肉。</li>

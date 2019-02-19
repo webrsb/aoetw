@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            小約翰是一位在非洲王朝資料片中登場的英雄單位。你可以在地圖編輯器中找到他。小約翰的原型是羅賓漢的快樂夥伴(Merry
+            小約翰是一位在非洲王國資料片中登場的英雄單位。你可以在地圖編輯器中找到他。小約翰的原型是羅賓漢的快樂夥伴(Merry
             Men)中的同名角色，小約翰是快樂夥伴的第二把交椅也是羅賓漢的副手。
           </p>
           <p>
@@ -46,7 +46,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

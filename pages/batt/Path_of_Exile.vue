@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <b>流亡之路</b>是《世紀帝國 II
-            HD：非洲王朝》優娣忒戰役的第一個場景。戰役中優娣忒在她忠誠的保鑣薩謬爾的保護下，從誣陷她竊盜的她的姪子極大汗的眼皮下逃到三個逃生點中的其中一個。
+            HD：非洲王國》優娣忒戰役的第一個場景。戰役中優娣忒在她忠誠的保鑣薩謬爾的保護下，從誣陷她竊盜的她的姪子極大汗的眼皮下逃到三個逃生點中的其中一個。
           </p>
           <p></p>
         </div>
@@ -115,7 +115,7 @@
           <tr>
             <td class="unit3">版本</td>
             <td class="unit4">
-              <nuxt-link to="/games/ak">非洲王朝</nuxt-link>
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -143,7 +143,7 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">非洲王朝第四章第一</td>
+            <td class="unit4">非洲王國第四章第一</td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

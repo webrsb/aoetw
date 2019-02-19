@@ -8,14 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            自爆筏是<nuxt-link to="/games/ak">《世界帝國:非洲王朝》</nuxt-link
+            自爆筏是<nuxt-link to="/games/ak">《世界帝國:非洲王國》</nuxt-link
             >資料片中首次登場，在封建時代的碼頭可以訓練。在戰船升級成弩砲戰船時，自爆筏會自動升級為神風船。
           </p>
           <p>
             自爆筏上裝滿了爆炸物，可以對敵方的船隻，碼頭，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。
           </p>
           <p>
-            在"世界帝國:非洲王朝"資料片中首次引入了“自爆筏”和“<nuxt-link
+            在"世界帝國:非洲王國"資料片中首次引入了“自爆筏”和“<nuxt-link
               to="/units/Fire_Galley"
               >火蒙衝</nuxt-link
             >”，使封建時代的海戰更加多元。在引進之前，封建時代唯一的軍艦就是戰船，所以海戰是非常無趣的。
@@ -506,7 +506,7 @@
             </li>
           </ul>
         </div>
-        <h3>團隊加成</h3>
+        <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -520,7 +520,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <h3>
-            <em><nuxt-link to="/games/ak">非洲王朝</nuxt-link></em>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
             <li>自爆筏現在有50的HP和3的遠程護甲。</li>
@@ -555,7 +555,7 @@
               >是唯一共用升級科技的單位。
             </li>
             <li>
-              儘管是在<nuxt-link to="/games/ak">非洲王朝</nuxt-link
+              儘管是在<nuxt-link to="/games/ak">非洲王國</nuxt-link
               >資料片才推出，自爆筏其實在<nuxt-link to="/games/aoc"
                 >征服者入侵</nuxt-link
               >的戰役編輯器中可以找到。

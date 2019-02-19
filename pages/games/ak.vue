@@ -193,13 +193,13 @@
           <ul>
             <li>
               <nuxt-link to="/batt/Tariq_ibn_Ziyada"
-                >塔里克．伊本．齊亞德</nuxt-link
+                >塔里克·伊本·齊亞德</nuxt-link
               >
             </li>
             <li><nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link></li>
             <li>
               <nuxt-link to="/batt/Francisco_de_Almeidaa"
-                >法蘭西斯科．阿爾梅達</nuxt-link
+                >法蘭西斯科·阿爾梅達</nuxt-link
               >
             </li>
             <li><nuxt-link to="/batt/Yodita">優娣忒</nuxt-link></li>

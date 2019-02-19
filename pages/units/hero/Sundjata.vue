@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            松迪亞塔是個騎兵英雄，在"世界地國II:非洲王朝"資料片中的戰役中出現，而且他一死遊戲就宣告失敗。
+            松迪亞塔是個騎兵英雄，在"世界地國II:非洲王國"資料片中的戰役中出現，而且他一死遊戲就宣告失敗。
           </p>
           <p>在遊戲中松迪亞塔的外型是輕騎兵。他不能被招降而且會自行回血。</p>
         </div>
@@ -44,7 +44,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王朝</td>
+            <td class="unit4">非洲王國</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
