@@ -74,8 +74,7 @@
               <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>。
               <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>。
               <br />
-              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
-              >。
+              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>。
               <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
             </td>
           </tr>
