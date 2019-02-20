@@ -104,11 +104,7 @@
               獲得<nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>搬到<nuxt-link
-                to=""
-                城堡時代
-              ></nuxt-link
-              >。
+              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>搬到<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>。
             </li>
             <li>
               新的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
