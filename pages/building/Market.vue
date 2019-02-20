@@ -183,8 +183,7 @@
               >便宜50%。
             </li>
             <li>
-              <nuxt-link to="">拜占庭</nuxt-link
-              >：在封建/城堡/帝王時代，市集增加20%/30%/40%的血量。<nuxt-link
+              拜占庭：在封建/城堡/帝王時代，市集增加20%/30%/40%的血量。<nuxt-link
                 to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
               >免費。
@@ -317,7 +316,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
+              <div class="unititle2">數據</div>
             </td>
           </tr>
           <tr>

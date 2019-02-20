@@ -108,7 +108,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
+              <div class="unititle2">數據</div>
             </td>
           </tr>
           <tr>
@@ -121,7 +121,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="">遠防</nuxt-link></td>
+            <td class="unit3">遠防</td>
             <td class="unit4">0</td>
           </tr>
           <tr>

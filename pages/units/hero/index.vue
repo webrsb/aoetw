@@ -12,7 +12,7 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <h3><nuxt-link to="">帝王世紀</nuxt-link></h3>
+        <h3>帝王世紀</h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>
@@ -811,7 +811,7 @@
 
         <div class="row">
           <div class="col-md-12">
-            <h3><nuxt-link to="">征服者入侵</nuxt-link></h3>
+            <h3>征服者入侵</h3>
             <div class="hrn1"></div>
             <table class="table-bordered" width="100%">
               <tr>
@@ -942,7 +942,9 @@
                 <td class="tunitc4">步兵</td>
                 <td class="tunitc6">狂戰士</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Hastings_1066">哈斯汀斯（1066）</nuxt-link>
+                  <nuxt-link to="/batt/Hastings_1066"
+                    >哈斯汀斯（1066）</nuxt-link
+                  >
                 </td>
               </tr>
               <tr>
@@ -1092,14 +1094,16 @@
                 <td class="tunitc4">騎兵</td>
                 <td class="tunitc6">特殊</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/batt/Hastings_1066">哈斯汀斯（1066）</nuxt-link>
+                  <nuxt-link to="/batt/Hastings_1066"
+                    >哈斯汀斯（1066）</nuxt-link
+                  >
                 </td>
               </tr>
             </table>
 
             <div class="row">
               <div class="col-md-12">
-                <h3><nuxt-link to="">失落的帝國</nuxt-link></h3>
+                <h3>失落的帝國</h3>
                 <div class="hrn1"></div>
                 <table class="table-bordered" width="100%">
                   <tr>
@@ -1363,7 +1367,9 @@
                     <td class="tunitc4">騎兵</td>
                     <td class="tunitc6">拜占庭聖騎兵</td>
                     <td class="tunitc6">
-                      <nuxt-link to="/batt/Bukhara_557">布哈拉（557）</nuxt-link>
+                      <nuxt-link to="/batt/Bukhara_557"
+                        >布哈拉（557）</nuxt-link
+                      >
                     </td>
                   </tr>
                   <tr>
@@ -1400,7 +1406,7 @@
 
                 <div class="row">
                   <div class="col-md-12">
-                    <h3><nuxt-link to="">非洲王國</nuxt-link></h3>
+                    <h3>非洲王國</h3>
                     <div class="hrn1"></div>
                     <table class="table-bordered" width="100%">
                       <tr>
@@ -1787,7 +1793,7 @@
 
                     <div class="row">
                       <div class="col-md-12">
-                        <h3><nuxt-link to="">王者崛起</nuxt-link></h3>
+                        <h3>王者崛起</h3>
                         <div class="hrn1"></div>
                         <table class="table-bordered" width="100%">
                           <tr>

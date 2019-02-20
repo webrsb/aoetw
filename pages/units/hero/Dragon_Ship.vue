@@ -44,7 +44,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><nuxt-link to="">海軍艦艇</nuxt-link><br /></td>
+            <td class="unit4">海軍艦艇<br /></td>
           </tr>
           <tr>
             <td class="unit3">出場</td>

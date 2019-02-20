@@ -901,7 +901,7 @@
                   style="margin: 2px;"
                   src="~assets/Heresy.png"
                   alt=""
-                /><nuxt-link to="">異端邪說</nuxt-link>
+                />異端邪說
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">1000G</td>

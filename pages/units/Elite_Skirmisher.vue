@@ -433,10 +433,7 @@
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：戰矛兵<nuxt-link
-                to=""
-                >視野</nuxt-link
-              >+2。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：戰矛兵視野+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -596,7 +593,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
+              <div class="unititle2">數據</div>
             </td>
           </tr>
           <tr>
@@ -676,7 +673,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2"><nuxt-link to="">單位演變</nuxt-link></div>
+              <div class="unititle2">單位演變</div>
             </td>
           </tr>
           <tr>

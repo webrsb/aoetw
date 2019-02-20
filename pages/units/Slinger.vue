@@ -36,8 +36,7 @@
             >(僅支援靜態準度由90%提升到100%，不支援射速提高)與
             <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
             >的影響，他更為的精準。當
-            <nuxt-link to="">護琬科技</nuxt-link
-            >研發後，射程還比火槍兵還遠。但他的攻擊力仍遠低於火槍兵，即使受益於
+            護琬科技研發後，射程還比火槍兵還遠。但他的攻擊力仍遠低於火槍兵，即使受益於
             <nuxt-link to="/techs/Chemistry">化學</nuxt-link>的加成。如同
             <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >一樣，投石手有最小的攻擊範圍，但這不是一個嚴重的問題，他可以通過研發
@@ -540,7 +539,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
+              <div class="unititle2">數據</div>
             </td>
           </tr>
           <tr>

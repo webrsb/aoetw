@@ -182,8 +182,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
-              <div class="unititle2">都爾（732）圖爾戰役
-              </div>
+              <div class="unititle2">都爾（732）圖爾戰役</div>
             </td>
           </tr>
           <tr>

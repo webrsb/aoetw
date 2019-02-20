@@ -132,7 +132,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#5cb85c;">
-              <div class="unititle2"><nuxt-link to="">戰術介紹</nuxt-link></div>
+              <div class="unititle2">戰術介紹</div>
             </td>
           </tr>
           <tr>

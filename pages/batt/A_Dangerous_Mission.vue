@@ -168,7 +168,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4"><nuxt-link to="">高棉人</nuxt-link></td>
+            <td class="unit4">高棉人</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">

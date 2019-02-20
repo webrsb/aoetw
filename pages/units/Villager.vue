@@ -495,7 +495,7 @@
             </tr>
             <tr class="tta">
               <td class="tta4" colspan="2" style="text-align: center;">
-                <div class="unititle2"><nuxt-link to="">升級</nuxt-link></div>
+                <div class="unititle2">升級</div>
               </td>
             </tr>
             <tr>
@@ -985,7 +985,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><nuxt-link to="">村民</nuxt-link></td>
+            <td class="unit4">村民</td>
           </tr>
           <tr>
             <td class="unit3">文明</td>

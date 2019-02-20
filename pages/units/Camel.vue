@@ -109,10 +109,7 @@
                 to="/units/Archer_Units"
                 >弓兵</nuxt-link
               >、
-              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>和<nuxt-link
-                to=""
-                >防禦建築</nuxt-link
-              >。
+              <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>和防禦建築。
             </td>
           </tr>
           <tr class="tta">

@@ -334,30 +334,28 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="">阿茲特克</nuxt-link
-              >：修道院每項技術研發可讓僧侶獲得+5 HP。
+              阿茲特克：修道院每項技術研發可讓僧侶獲得+5 HP。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >：使僧侶受益的技術便宜50％。
             </li>
             <li>
-              <nuxt-link to="">中國</nuxt-link
-              >：受益僧侶的技術在城堡/帝國時代分別便宜15％/ 20％。
+              中國：受益僧侶的技術在城堡/帝國時代分別便宜15％/ 20％。
             </li>
             <li>
-              <nuxt-link to="">葡萄牙</nuxt-link>：僧侶黃金成本減少了15％。
+              葡萄牙：僧侶黃金成本減少了15％。
             </li>
-            <li><nuxt-link to="">條頓</nuxt-link>：僧侶有雙倍的治療範圍。</li>
+            <li>條頓：僧侶有雙倍的治療範圍。</li>
           </ul>
         </div>
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li><nuxt-link to="">拜占庭</nuxt-link>：僧侶治療速度提高50％。</li>
+            <li>拜占庭：僧侶治療速度提高50％。</li>
             <li>
-              <nuxt-link to="">條頓</nuxt-link>：僧侶的團隊對招降更有抵抗力。
+              條頓：僧侶的團隊對招降更有抵抗力。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link

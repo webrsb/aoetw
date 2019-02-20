@@ -31,7 +31,7 @@
             <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、<nuxt-link
               to="/units/Bombard_Cannon"
               >火砲</nuxt-link
-            >與 <nuxt-link to="">火砲塔</nuxt-link>這種高威力火藥兵種。。
+            >與 火砲塔這種高威力火藥兵種。。
             <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
             >可讓攻城武器射程+1在後期也很有效用；而其他如<nuxt-link
               to="/techs/Murder_Holes"
@@ -420,7 +420,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
+              <div class="unititle2">數據</div>
             </td>
           </tr>
           <tr>

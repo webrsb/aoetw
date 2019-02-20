@@ -72,10 +72,7 @@
             >這個弱點，所以兩種兵種搭配起來效果超群。
           </p>
           <p>
-            如果自己是防禦一方，強弩兵可以隔著牆射殺敵方單位，也可以免受於近戰類的攻擊，但對於<nuxt-link
-              to=""
-              >衝撞車</nuxt-link
-            >則是沒什麼傷害性。
+            如果自己是防禦一方，強弩兵可以隔著牆射殺敵方單位，也可以免受於近戰類的攻擊，但對於衝撞車則是沒什麼傷害性。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -128,16 +125,11 @@
               >：弩兵快生產快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵<nuxt-link
-                to=""
-                >視野</nuxt-link
-              >+2。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵視野+2。
             </li>
             <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
-                to=""
-                >化學</nuxt-link
-              >和<nuxt-link to="">彈道學</nuxt-link>快80%。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >：研究化學和彈道學快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
@@ -237,7 +229,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><nuxt-link to="">射手</nuxt-link></td>
+            <td class="unit4">射手</td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -245,7 +237,7 @@
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4"><nuxt-link to="">帝王時代</nuxt-link></td>
+            <td class="unit4">帝王時代</td>
           </tr>
           <tr>
             <td class="unit3">訓練於</td>

@@ -428,10 +428,7 @@
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵<nuxt-link
-                to=""
-                >視野</nuxt-link
-              >+2。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵視野+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link

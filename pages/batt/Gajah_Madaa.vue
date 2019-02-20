@@ -42,7 +42,9 @@
         <div class="n1">
           <div class="row">
             <div class="col-md-12">
-              <p>加查·馬達戰役由5個關卡組成。玩家扮演的是馬來人，顏色是紅色。</p>
+              <p>
+                加查·馬達戰役由5個關卡組成。玩家扮演的是馬來人，顏色是紅色。
+              </p>
             </div>
             <div class="col-md-6">
               <ol>

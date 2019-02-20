@@ -44,7 +44,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><nuxt-link to="">步兵</nuxt-link></td>
+            <td class="unit4">步兵</td>
           </tr>
           <tr>
             <td class="unit3">出場</td>

@@ -1325,7 +1325,7 @@
                   alt=""
                 /><nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
-              <td class="tunitc4"><nuxt-link to="">火箭術</nuxt-link></td>
+              <td class="tunitc4">火箭術</td>
               <td class="tunitc5">750W 750G</td>
               <td class="tunitc6">連弩兵攻擊+2，弩砲攻擊+4。</td>
             </tr>

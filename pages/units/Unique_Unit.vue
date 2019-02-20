@@ -25,7 +25,7 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <h3><nuxt-link to="">城堡</nuxt-link></h3>
+        <h3>城堡</h3>
         <div class="hrn1"></div>
         <table class="table-bordered" width="100%">
           <tr>

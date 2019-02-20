@@ -589,7 +589,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4"><nuxt-link to="">箭塔</nuxt-link></td>
+            <td class="unit4">箭塔</td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -634,7 +634,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2"><nuxt-link to="">數據</nuxt-link></div>
+              <div class="unititle2">數據</div>
             </td>
           </tr>
           <tr>

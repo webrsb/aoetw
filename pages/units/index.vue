@@ -216,10 +216,7 @@
             <td>
               <div class="unitcontent">
                 <img class="gg" src="~assets/Slingericon.png" alt="" />
-                <nuxt-link to="/units/Slinger">投石手</nuxt-link> (<nuxt-link
-                  to=""
-                  >印加</nuxt-link
-                >限定)
+                <nuxt-link to="/units/Slinger">投石手</nuxt-link> (印加限定)
               </div>
             </td>
           </tr>
