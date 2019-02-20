@@ -278,7 +278,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城器製造所單位生產速度快20%。
             </li>
             <li>
@@ -312,9 +312,9 @@
               >(500木材，450黃金)→攻城器製造所單位移動速度快50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：<nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
+                >塞爾特狂暴</nuxt-link
               >(750食物，450黃金)→攻城器製造所單位生命值40%。
             </li>
             <li>

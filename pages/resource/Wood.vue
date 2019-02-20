@@ -43,7 +43,7 @@
               >:村民資源攜帶量+5。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:村民伐木速度快15%。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:村民伐木速度快15%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>:農田成本便宜33%。

@@ -16,7 +16,7 @@
             >文明，世紀帝國II資料片非洲王國的所新增的文明。柏柏的特殊單位是
             <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
             >這是歷史上真實的兵種曾經多次造成歐洲軍隊的麻煩，另外<nuxt-link
-              to="/Team_Bonus"
+              to="/elements/Team_Bonus"
               >團隊加分</nuxt-link
             >的
             <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
@@ -130,7 +130,9 @@
             <li>船隻移動速度+10%</li>
             <li>馬廄單位訓練成本，城堡時代便宜15%、帝王時代便宜20%</li>
             <li>
-              <strong><nuxt-link to="/Team_Bonus">團隊加分</nuxt-link>:</strong
+              <strong
+                ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+                >:</strong
               >同盟可以在射箭場訓練標槍騎兵
             </li>
           </ul>

@@ -11,7 +11,7 @@
             弓兵皮甲可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >研發，可讓弓兵護甲+1/+1。
+            >研發，可讓遠程護甲+1/+1。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -29,7 +29,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
@@ -175,7 +175,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">弓兵護甲+1/+1。</td>
+            <td class="unit4">遠程護甲+1/+1。</td>
           </tr>
         </table>
 

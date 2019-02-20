@@ -520,7 +520,7 @@
               >：火戰船開火速率快25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：在視野內的動物不會被轉化
             </li>
             <li>

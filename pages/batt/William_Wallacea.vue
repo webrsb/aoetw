@@ -35,7 +35,7 @@
           <div class="row">
             <div class="col-md-12">
               <p>
-                威廉華勒斯教學戰役由7個關卡組成。玩家扮演的是賽爾特人，顏色是藍色的。
+                威廉華勒斯教學戰役由7個關卡組成。玩家扮演的是塞爾特人，顏色是藍色的。
               </p>
             </div>
             <div class="col-md-6">
@@ -97,7 +97,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">賽爾特</td>
+            <td class="unit4">塞爾特</td>
           </tr>
           <tr>
             <td class="unit3">英雄</td>

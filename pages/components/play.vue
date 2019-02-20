@@ -1,29 +1,27 @@
 <template>
-<b-tabs @input="tabChangeEvent">
+  <b-tabs @input="tabChangeEvent">
     <b-tab title="程式碼" active>
-    <div class="editer">
+      <div class="editer">
         <div>
-          <div
-            v-if="loading"
-            class="alert alert-info show text-center"
-          >
+          <div v-if="loading" class="alert alert-info show text-center">
             <strong>Loading JavaScript Compiler...</strong>
           </div>
-          <div
-            v-else
-            class="clearfix"
-          >
+          <div v-else class="clearfix">
             <form
               class="d-inline-block ml-2 mr-0 p-0 float-right"
               method="post"
               action="https://jsfiddle.net/api/post/library/pure/"
               target="_blank"
             >
-              <input type="hidden" name="html" :value="fiddle_html">
-              <input type="hidden" name="js" :value="fiddle_js">
-              <input type="hidden" name="resources" :value="fiddle_dependencies">
-              <input type="hidden" name="css" value="body { padding: 1rem; }">
-              <input type="hidden" name="js_wrap" value="l">
+              <input type="hidden" name="html" :value="fiddle_html" />
+              <input type="hidden" name="js" :value="fiddle_js" />
+              <input
+                type="hidden"
+                name="resources"
+                :value="fiddle_dependencies"
+              />
+              <input type="hidden" name="css" value="body { padding: 1rem; }" />
+              <input type="hidden" name="js_wrap" value="l" />
               <!-- <b-btn size="sm" type="submit" :disabled="!isOk">導出至 JSFiddle</b-btn> -->
               <b-btn
                 size="sm"
@@ -33,148 +31,138 @@
               >
                 還原預設
               </b-btn>
-              <b-btn size="sm" @click="jspanelClickEvent">{{ jspanel.text }}</b-btn>
+              <b-btn size="sm" @click="jspanelClickEvent">{{
+                jspanel.text
+              }}</b-btn>
             </form>
-            <div class="d-inline-flex bd-highlight"
-                  style="font-size: 15px; padding-left: 10px; margin-top: 5px;">目前編輯頁面：<a :href="github_page" target="_blank">{{ $route.query.page }}</a></div>
+            <div
+              class="d-inline-flex bd-highlight"
+              style="font-size: 15px; padding-left: 10px; margin-top: 5px;"
+            >
+              目前編輯頁面：<a :href="github_page" target="_blank">{{
+                $route.query.page
+              }}</a>
+            </div>
           </div>
         </div>
 
-      <transition-group
-        class="row"
-        tag="div"
-        name="flip"
-      >
-        <div
-          key="A"
-          :class="full ? 'col-12' : 'col'"
-        >
-          <transition-group
-            class="row"
-            tag="div"
-            name="flip"
-          >
-
-            <div
-              key="A1"
-              :class="`col-md-12 col-sm-12`"
-            >
-              <!--Template-->
-              <div class="card mt-2">
-                <div class="card-header card-outline-info">
-                  <span>貼上程式</span>
-                  <b-btn
-                    style="margin-left: 10px"
-                    size="sm"
-                    variant="outline-info"
-                    class="float-right d-none d-md-inline-block"
-                    @click="toggleFull"
-                  >
-                    <span>{{ full ? '半寬' : '全寬' }}</span>
-                  </b-btn>
-                  <b-btn
-                    size="sm"
-                    variant="outline-info"
-                    class="float-right d-none d-md-inline-block"
-                    @click="_run"
-                  >
-                    <span>檢查</span>
-                  </b-btn>
+        <transition-group class="row" tag="div" name="flip">
+          <div key="A" :class="full ? 'col-12' : 'col'">
+            <transition-group class="row" tag="div" name="flip">
+              <div key="A1" :class="`col-md-12 col-sm-12`">
+                <!--Template-->
+                <div class="card mt-2">
+                  <div class="card-header card-outline-info">
+                    <span>貼上程式</span>
+                    <b-btn
+                      style="margin-left: 10px"
+                      size="sm"
+                      variant="outline-info"
+                      class="float-right d-none d-md-inline-block"
+                      @click="toggleFull"
+                    >
+                      <span>{{ full ? '半寬' : '全寬' }}</span>
+                    </b-btn>
+                    <b-btn
+                      size="sm"
+                      variant="outline-info"
+                      class="float-right d-none d-md-inline-block"
+                      @click="_run"
+                    >
+                      <span>檢查</span>
+                    </b-btn>
+                  </div>
+                  <codemirror
+                    v-model="html"
+                    id="code-editor"
+                    mode="htmlmixed"
+                  />
                 </div>
-                <codemirror
-                  v-model="html"
-                  id="code-editor"
-                  mode="htmlmixed"
-                />
               </div>
-            </div>
-           <div
-              key="A2"
-              :class="`col-md-12 col-sm-12`"
-              v-show="jspanel.show" 
-            >
-              <div class="card mt-2">
-                <div class="card-header card-outline-warning">
-                  <span>JS</span>
-                  <b-btn
-                    size="sm"
-                    variant="outline-info"
-                    class="float-right d-none d-md-inline-block"
-                    @click="toggleFull"
-                  >
-                    <span>{{ full ? '半寬' : '全寬' }}</span>
-                  </b-btn>
+              <div
+                key="A2"
+                :class="`col-md-12 col-sm-12`"
+                v-show="jspanel.show"
+              >
+                <div class="card mt-2">
+                  <div class="card-header card-outline-warning">
+                    <span>JS</span>
+                    <b-btn
+                      size="sm"
+                      variant="outline-info"
+                      class="float-right d-none d-md-inline-block"
+                      @click="toggleFull"
+                    >
+                      <span>{{ full ? '半寬' : '全寬' }}</span>
+                    </b-btn>
+                  </div>
+                  <codemirror v-model="js" mode="javascript" />
                 </div>
-                <codemirror
-                  v-model="js"
-                  mode="javascript"
-                />
               </div>
-            </div>
-          </transition-group>
-        </div>
-
-        <div
-          key="B"
-          :class="`col-md-${vertical || full ? 12 : 6} col-sm-12`"
-        >
-
-          <!--Console-->
-          <div class="card mt-2">
-            <div class="card-header card-outline-secondary">
-              <span>錯誤顯示區</span>
-              <b-btn
-                v-if="messages.length"
-                size="sm"
-                variant="outline-danger"
-                class="float-right"
-                @click="clear"
-              >
-                <span>清空</span>
-              </b-btn>
-            </div>
-            <transition-group
-              tag="ul"
-              name="flip-list"
-              class="list-group list-group-flush play-log"
-            >
-              <li
-                v-if="!messages.length"
-                key="empty-console"
-                class="list-group-item"
-              >
-                &nbsp;
-              </li>
-              <li
-                v-for="(msg) in messages"
-                :key="`console-${msg[2]}`"
-                class="list-group-item py-2 d-flex"
-                 style="max-height: 500px;overflow-y: auto;"
-              >
-                <b-badge
-                  :variant="msg[0]"
-                  class="mr-1"
-                  style="font-size:90%;"
-                >
-                  {{ msg[0] === 'danger' ? '錯誤' : msg[0] === 'warning' ? '警告' : '記錄' }}
-                </b-badge>
-                <div
-                  :class="[`text-${msg[0]}`, 'text-monospace', 'small']"
-                  style="white-space: pre-wrap;"
-                >
-                  {{ msg[1] }}
-                </div>
-              </li>
             </transition-group>
           </div>
-        </div>
-      </transition-group>
-    </div>
+
+          <div key="B" :class="`col-md-${vertical || full ? 12 : 6} col-sm-12`">
+            <!--Console-->
+            <div class="card mt-2">
+              <div class="card-header card-outline-secondary">
+                <span>錯誤顯示區</span>
+                <b-btn
+                  v-if="messages.length"
+                  size="sm"
+                  variant="outline-danger"
+                  class="float-right"
+                  @click="clear"
+                >
+                  <span>清空</span>
+                </b-btn>
+              </div>
+              <transition-group
+                tag="ul"
+                name="flip-list"
+                class="list-group list-group-flush play-log"
+              >
+                <li
+                  v-if="!messages.length"
+                  key="empty-console"
+                  class="list-group-item"
+                >
+                  &nbsp;
+                </li>
+                <li
+                  v-for="msg in messages"
+                  :key="`console-${msg[2]}`"
+                  class="list-group-item py-2 d-flex"
+                  style="max-height: 500px;overflow-y: auto;"
+                >
+                  <b-badge
+                    :variant="msg[0]"
+                    class="mr-1"
+                    style="font-size:90%;"
+                  >
+                    {{
+                      msg[0] === 'danger'
+                        ? '錯誤'
+                        : msg[0] === 'warning'
+                        ? '警告'
+                        : '記錄'
+                    }}
+                  </b-badge>
+                  <div
+                    :class="[`text-${msg[0]}`, 'text-monospace', 'small']"
+                    style="white-space: pre-wrap;"
+                  >
+                    {{ msg[1] }}
+                  </div>
+                </li>
+              </transition-group>
+            </div>
+          </div>
+        </transition-group>
+      </div>
     </b-tab>
     <b-tab title="預覽">
-      <div
-        ref="result"
-        id="style_change" />
+      <div ref="result" id="style_change" />
     </b-tab>
     <b-tab title="提交修改">
       <div class="container" style="margin-top: 30px;">
@@ -188,19 +176,20 @@
                 <a :href="github_page" target="_blank">進入 github 頁面</a>
               </li>
               <li>
-                點選編輯鈕(若沒註冊會進入登入頁面，完成註冊或登入後即可跳到此頁面)<br>
-                <img src="~/assets/github_01.png">
+                點選編輯鈕(若沒註冊會進入登入頁面，完成註冊或登入後即可跳到此頁面)<br />
+                <img src="~/assets/github_01.png" />
               </li>
               <li>
                 刪除編輯區內所有程式，然後貼上剛剛複製的程式碼
               </li>
               <li>
-                視窗拉到最下面，輸入修改內容概要<br>
-                <img src="~/assets/github_02.png">
+                視窗拉到最下面，輸入修改內容概要<br />
+                <img src="~/assets/github_02.png" />
               </li>
               <li>
-                視窗拉到最下面，輸入修改內容概要，然後點選按鈕Propose file change<br>
-                <img src="~/assets/github_02.png">
+                視窗拉到最下面，輸入修改內容概要，然後點選按鈕Propose file
+                change<br />
+                <img src="~/assets/github_02.png" />
               </li>
               <li>
                 點選 Create pull request，再次點選 Create pull request
@@ -213,7 +202,7 @@
         </div>
       </div>
     </b-tab>
-</b-tabs>
+  </b-tabs>
 </template>
 
 <script>
@@ -232,7 +221,8 @@ const defaultHTML = ``
 const maxRetention = 7 * 24 * 60 * 60 * 1000
 
 // Helper function to remove a node from it's parent's children
-const removeNode = node => node && node.parentNode && node.parentNode.removeChild(node)
+const removeNode = node =>
+  node && node.parentNode && node.parentNode.removeChild(node)
 
 export default {
   data() {
@@ -254,7 +244,10 @@ export default {
   computed: {
     isDefault() {
       // Check if editors contain default JS and Template
-      return this.js.trim() === defaultJS.trim() && this.html.trim() === defaultHTML.trim()
+      return (
+        this.js.trim() === defaultJS.trim() &&
+        this.html.trim() === defaultHTML.trim()
+      )
     },
     fiddle_dependencies() {
       return [
@@ -321,11 +314,19 @@ export default {
         }
       }
     },
-    github () {
-      return 'https://raw.githubusercontent.com/webrsb/aoetw/master/pages/' + this.$route.query.page + '.vue'
+    github() {
+      return (
+        'https://raw.githubusercontent.com/webrsb/aoetw/master/pages/' +
+        this.$route.query.page +
+        '.vue'
+      )
     },
-    github_page () {
-      return 'https://github.com/webrsb/aoetw/blob/master/pages/' + this.$route.query.page + '.vue'
+    github_page() {
+      return (
+        'https://github.com/webrsb/aoetw/blob/master/pages/' +
+        this.$route.query.page +
+        '.vue'
+      )
     }
   },
   created() {
@@ -340,18 +341,15 @@ export default {
     var that = this
     this.getPageSource(this.github)
     new Clipboard('.clip-btn', {
-        text: function(trigger) {
-            return that.html
-        }
-    });
+      text: function(trigger) {
+        return that.html
+      }
+    })
     // Load CSS
     var link = document.createElement('link')
     link.setAttribute('rel', 'stylesheet')
     link.setAttribute('type', 'text/css')
-    link.setAttribute(
-      'href',
-      'http://aoetw.com/next/style.css'
-    )
+    link.setAttribute('href', 'http://aoetw.com/next/style.css')
 
     document.getElementsByTagName('body')[0].appendChild(link)
     this.$nextTick(() => {
@@ -360,15 +358,17 @@ export default {
         this.loading = true
         window && window.$nuxt && window.$nuxt.$loading.start()
         // Lazy load the babel transpiler
-        import('../utils/compile-js' /* webpackChunkName: "compile-js" */).then(module => {
-          // Update compiler reference
-          this.compiler = module.default
-          // Run the setup code
-          this.doSetup()
-          // Stop the loading indicator
-          this.loading = false
-          window && window.$nuxt && window.$nuxt.$loading.finish()
-        })
+        import('../utils/compile-js' /* webpackChunkName: "compile-js" */).then(
+          module => {
+            // Update compiler reference
+            this.compiler = module.default
+            // Run the setup code
+            this.doSetup()
+            // Stop the loading indicator
+            this.loading = false
+            window && window.$nuxt && window.$nuxt.$loading.finish()
+          }
+        )
       } else {
         this.doSetup()
       }
@@ -435,7 +435,7 @@ export default {
         html = start_100 + html_origin + end_5000
       }
       var rand = Math.random()
-      html += '\n<a style="display: none">請無視此標籤' +  rand + '</a>'
+      html += '\n<a style="display: none">請無視此標籤' + rand + '</a>'
 
       // Test and assign options JavaScript
       try {
@@ -452,7 +452,13 @@ export default {
       }
 
       // Sanitize template possibilities
-      if (!(html || typeof options.template === 'string' || typeof options.render === 'function')) {
+      if (
+        !(
+          html ||
+          typeof options.template === 'string' ||
+          typeof options.render === 'function'
+        )
+      ) {
         this.errHandler('No template or render function provided', 'template')
         return
       } else if (
@@ -472,7 +478,8 @@ export default {
         return
       }
       if (!options.render) {
-        options.template = `<div id="playground-app">${options.template || html}</div>`
+        options.template = `<div id="playground-app">${options.template ||
+          html}</div>`
       } else {
         delete options.template
       }
@@ -485,7 +492,10 @@ export default {
         Object.keys(options.methods).forEach(methodName => {
           const fn = options.methods[methodName]
           if (typeof fn !== 'function') {
-            this.errorHandler(`TypeError: ${methodName} is not a function`, 'methods')
+            this.errorHandler(
+              `TypeError: ${methodName} is not a function`,
+              'methods'
+            )
           } else {
             // Replace it with a wrapped method
             options.methods[methodName] = function() {
@@ -525,15 +535,18 @@ export default {
                 props: ['to'],
                 template: `
                   <a :href="to"><slot></slot></a>
-                `},
+                `
+              },
               Tree: {
                 template: `
                   <h2>科技樹狀圖選單(替代)</h2>
-                `},
+                `
+              },
               Gallery: {
                 template: `
                   <div><slot></slot></div>
-                `}
+                `
+              }
             }
           })
         )
@@ -546,11 +559,13 @@ export default {
       // We got this far, so save the JS/HTML changes to localStorage and enable export button
       this.isOk = true
       this.save()
-      let img_tags = document.getElementById('style_change').querySelectorAll('img')
-      
+      let img_tags = document
+        .getElementById('style_change')
+        .querySelectorAll('img')
+
       for (var key = 0; key < img_tags.length; key++) {
         let src = img_tags[key].getAttribute('src')
-        
+
         if (src !== '') {
           src = src.replace('~assets/', 'http://www.aoetw.com/img/')
           img_tags[key].setAttribute('src', src)
@@ -641,29 +656,38 @@ export default {
         // silently ignore errors on safari iOS private mode
       }
     },
-    jspanelClickEvent () {
+    jspanelClickEvent() {
       if (this.jspanel.show) {
         this.jspanel.show = false
-      this.jspanel.text = '開啟程式面版'
+        this.jspanel.text = '開啟程式面版'
       } else {
         this.jspanel.show = true
-      this.jspanel.text = '關閉程式面版'
+        this.jspanel.text = '關閉程式面版'
       }
     },
-    tabChangeEvent (index) {
+    tabChangeEvent(index) {
       if (index === 1) {
         this._run()
       }
     },
-    getPageSource (url) {
-      axios.get(url).then((res) => {
-        this.html = res.data
-      }).catch ((err) => {
-        if (err.response.status !== 404) {
-          return error({ statusCode: 500, message: store.state.lang.text.an_error_occured })
-        }
-        return error({ statusCode: 404, message: store.state.lang.text.api_page_not_found })
-      })
+    getPageSource(url) {
+      axios
+        .get(url)
+        .then(res => {
+          this.html = res.data
+        })
+        .catch(err => {
+          if (err.response.status !== 404) {
+            return error({
+              statusCode: 500,
+              message: store.state.lang.text.an_error_occured
+            })
+          }
+          return error({
+            statusCode: 404,
+            message: store.state.lang.text.api_page_not_found
+          })
+        })
     }
   },
   watch: {
@@ -675,35 +699,37 @@ export default {
 </script>
 
 <style scoped>
-  .editer {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-size: 0.7rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
-    text-align: left;
-    background-color: #fff;
-  }
+.editer {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 0.7rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
 
-  .nav nav-tabs {
-    position: fixed;
-  }
+.nav nav-tabs {
+  position: fixed;
+}
 
-  .flip-move {
-    transition: all 0.3s;
-  }
-  .play-log .list-group-item {
-    transition: all 0.3s;
-  }
-  .flip-list-enter,
-  .flip-list-leave-to {
-    opacity: 0;
-  }
-  .flip-list-leave-active {
-    position: absolute;
-  }
-  .flip-list-move {
-    transform: 0.3s;
-  }
+.flip-move {
+  transition: all 0.3s;
+}
+.play-log .list-group-item {
+  transition: all 0.3s;
+}
+.flip-list-enter,
+.flip-list-leave-to {
+  opacity: 0;
+}
+.flip-list-leave-active {
+  position: absolute;
+}
+.flip-list-move {
+  transform: 0.3s;
+}
 </style>

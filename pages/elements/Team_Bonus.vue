@@ -44,7 +44,7 @@
             <ul>
               <li>僧侶治療速度快50％。</li>
             </ul>
-            <strong>賽爾特：</strong>
+            <strong>塞爾特：</strong>
             <ul>
               <li>攻城器製造所效率快20％。</li>
             </ul>

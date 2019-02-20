@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            巽他皇家侍衛是個步兵英雄，在"世界地國II:拉惹的崛起"資料片中出現。
+            巽他皇家侍衛是個步兵英雄，在"世界地國II:王者崛起"資料片中出現。
           </p>
           <p>
             巽他皇家侍衛具有高攻、高裝甲、高生命和極快的移動速度。巽他皇家侍衛不能被招降而且會自行回血。
@@ -61,7 +61,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">拉惹的崛起</td>
+            <td class="unit4">王者崛起</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

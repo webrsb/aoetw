@@ -12,7 +12,7 @@
               >封建時代</nuxt-link
             >在
             <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
-            研發，可讓弓兵護甲+1/+1。
+            研發，可讓遠程護甲+1/+1。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -103,7 +103,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">弓兵護甲+1/+1。</td>
+            <td class="unit4">遠程護甲+1/+1。</td>
           </tr>
         </table>
 

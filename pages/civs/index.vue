@@ -23,7 +23,7 @@
                 西歐
                 <ul>
                   <li><nuxt-link to="/civs/Britons">不列顛</nuxt-link></li>
-                  <li><nuxt-link to="/civs/Celts">賽爾特</nuxt-link></li>
+                  <li><nuxt-link to="/civs/Celts">塞爾特</nuxt-link></li>
                   <li><nuxt-link to="/civs/Franks">法蘭克</nuxt-link></li>
                 </ul>
                 中歐

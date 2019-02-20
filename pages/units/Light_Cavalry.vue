@@ -36,7 +36,7 @@
               >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、<nuxt-link
                 to="/civs/Celts"
-                >賽爾特</nuxt-link
+                >塞爾特</nuxt-link
               >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
@@ -510,8 +510,8 @@
               >便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
-              >：只要在一個賽爾特單位的視野下，羊群不會被牽走
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link

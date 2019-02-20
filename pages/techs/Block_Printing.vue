@@ -66,7 +66,7 @@
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、

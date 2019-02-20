@@ -64,8 +64,8 @@
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
-              >(+40%，<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
+                >塞爾特狂暴</nuxt-link
+              >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -492,7 +492,7 @@
                 >：攻城塔生產快15%。
               </li>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：攻擊速度快25%。
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：攻擊速度快25%。
               </li>
               (只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)
               <li>
@@ -514,7 +514,7 @@
           <div class="n1">
             <ul>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
                 >：攻城塔訓練速度快20%。
               </li>
               <li>

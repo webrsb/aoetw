@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>賽爾特狂暴</h1>
+        <h1>塞爾特狂暴</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            賽爾特狂暴是賽爾特的特殊科技，可於帝王時代在城堡研發。研發後攻城單位+40%
+            塞爾特狂暴是塞爾特的特殊科技，可於帝王時代在城堡研發。研發後攻城單位+40%
             HP。
           </p>
         </div>
@@ -17,7 +17,7 @@
         <div class="n1">
           <ul>
             <li>
-              賽爾特狂暴讓賽爾特人的攻城武器更難被摧毀。搭配他們的文明加成(攻城武器開火速度快20%)和團隊加分(攻城器製造所工作速率快15%)，讓賽爾特攻城武器是遊戲中最為人所懼怕的
+              塞爾特狂暴讓塞爾特人的攻城武器更難被摧毀。搭配他們的文明加成(攻城武器開火速度快20%)和團隊加分(攻城器製造所工作速率快15%)，讓塞爾特攻城武器是遊戲中最為人所懼怕的
             </li>
           </ul>
         </div>
@@ -29,7 +29,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速賽爾特狂暴的研究時間(快25%)。
+              >能夠加速塞爾特狂暴的研究時間(快25%)。
             </li>
           </ul>
         </div>
@@ -38,7 +38,7 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">賽爾特狂暴</div>
+              <div class="unititle2">塞爾特狂暴</div>
             </td>
           </tr>
           <tr>
@@ -57,7 +57,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">賽爾特</td>
+            <td class="unit4">塞爾特</td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

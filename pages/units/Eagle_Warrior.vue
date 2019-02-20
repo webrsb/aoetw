@@ -70,7 +70,7 @@
               to="/units/Karambit_Warrior"
               >爪刀勇士</nuxt-link
             >、馬利的<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
-            >、賽爾特的
+            >、塞爾特的
             <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
             >與衣索比亞的<nuxt-link to="/units/Shotel_Warrior"
               >彎刀勇士</nuxt-link

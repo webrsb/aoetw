@@ -52,7 +52,7 @@
               由於<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>和<nuxt-link
                 to="/techs/Conscription"
                 >徵兵制度</nuxt-link
-              >，駱駝弓箭手訓練時間只有12.6秒，比一般的
+              >，精銳駱駝弓騎兵訓練時間只有12.6秒，比一般的
               <nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
               >快得多。他們是馬弓騎兵的另一個更好選擇。
@@ -70,7 +70,7 @@
               >，表現通常會更好。他們較低的開火間隔也能有效執行打帶跑戰術。
             </li>
             <li>
-              如果黃金缺少或敵人相當依賴徒步弓箭手時，駱駝弓箭手可以由標槍騎兵取代
+              如果黃金缺少或敵人相當依賴徒步弓箭手時，駱駝弓騎兵可以由標槍騎兵取代
             </li>
           </ul>
         </div>

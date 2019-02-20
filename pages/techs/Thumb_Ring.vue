@@ -65,7 +65,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
@@ -206,8 +206,8 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/units/Camel_Archer">駱駝弓箭手</nuxt-link
-              >、<nuxt-link to="/units/Camel_Archer">精銳駱駝弓箭手</nuxt-link>
+              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+              >、<nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link>
             </td>
             <td class="tta2">+18%</td>
             <td class="tta3">
@@ -290,7 +290,7 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"中世紀典型的弓箭手將弓弦拉回至胸前再放開進行射擊，英國長弓兵則有能力拉回到他們的臉頰，增加了射擊的力量和距離，亞洲的弓箭手則製作了拇指環，讓他們能拉到耳朵或耳朵之後，當他們把非常強大的複合弓加入這個改進時，他們的武器能在戰場上有效殲滅敵人。"</em
+              >"中世紀典型的弓箭手將弓弦拉回至胸前再放開進行射擊，不列顛長弓兵則有能力拉回到他們的臉頰，增加了射擊的力量和距離，亞洲的弓箭手則製作了拇指環，讓他們能拉到耳朵或耳朵之後，當他們把非常強大的複合弓加入這個改進時，他們的武器能在戰場上有效殲滅敵人。"</em
             >
             <p style="text-align: right;margin-top: 10px;">
               -《世紀帝國II:征服者入侵》手稿。

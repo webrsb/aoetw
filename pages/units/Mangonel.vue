@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
-            >是一個遠程攻城單位 ，當玩家升級到了<nuxt-link
+            >是一個遠程攻城武器 ，當玩家升級到了<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >後，便可以在攻城器製造所進行訓練。
@@ -97,8 +97,8 @@
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
-              >(+40%，<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
+                >塞爾特狂暴</nuxt-link
+              >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -355,7 +355,7 @@
               >：科技在帝王時代便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城器單位攻擊速度快25%(科技樹寫20%是錯的!)
             </li>
             <li>
@@ -373,7 +373,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：輕型投石車訓練和升級速度快20%。
             </li>
             <li>
@@ -429,9 +429,9 @@
             </h3>
             <ul>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：<nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >賽爾特狂暴</nuxt-link
+                  >塞爾特狂暴</nuxt-link
                 >給予投石車+40%的HP。
               </li>
               <li>

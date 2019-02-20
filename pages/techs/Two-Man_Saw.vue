@@ -59,7 +59,7 @@
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
               <nuxt-link to="/civs/Incas">印加</nuxt-link>、
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、

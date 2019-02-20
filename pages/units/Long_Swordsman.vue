@@ -389,7 +389,7 @@
               >：長劍兵在封建/城堡/帝王時代有 +1/+2/+3攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：長劍兵移動加快15％。
             </li>
             <li>

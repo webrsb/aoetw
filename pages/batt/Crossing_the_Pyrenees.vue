@@ -58,7 +58,7 @@
               <td class="tc6"><div class="p2">玩家4</div></td>
               <td class="tc6">阿斯圖里亞人（紅色）哥德</td>
               <td class="tc6"><div class="p3">玩家5</div></td>
-              <td class="tc6">巴斯克人（綠色）賽爾特</td>
+              <td class="tc6">巴斯克人（綠色）塞爾特</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p6">玩家6</div></td>

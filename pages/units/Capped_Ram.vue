@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            裝甲衝撞車是世紀帝國遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從攻城器攻城所製造，對一般單位的攻擊力較低，對建築物、攻城器單位皆有額外的傷害加成，其遠程裝甲值極高，在帝王初期，若沒有巨型投石機的幫助下，裝甲衝撞車將會是你攻城推進的一個很好的選擇，研發非常便宜，可惜行走速度與輕型衝撞車一樣，行進時需要特別的保護。
+            裝甲衝撞車是世紀帝國遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從攻城器攻城所製造，對一般單位的攻擊力較低，對建築物、攻城器單位皆有額外的傷害加成，其遠程護甲值極高，在帝王初期，若沒有巨型投石機的幫助下，裝甲衝撞車將會是你攻城推進的一個很好的選擇，研發非常便宜，可惜行走速度與輕型衝撞車一樣，行進時需要特別的保護。
           </p>
           <p>裝甲衝撞車移動速度與駐紮數量前後比較</p>
           <ul>
@@ -85,9 +85,9 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
               >:攻城器製造所的單位+40% HP。<nuxt-link to="/civs/Celts"
-                >賽爾特</nuxt-link
+                >塞爾特</nuxt-link
               >限定
             </td>
           </tr>
@@ -336,7 +336,7 @@
               >：裝甲衝撞車訓練速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：裝甲衝撞車攻擊速度快20%
             </li>
             <li>
@@ -358,7 +358,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城器製造所單位生產速度快20%。
             </li>
             <li>
@@ -395,9 +395,9 @@
               >為1000F。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
+                >塞爾特狂暴</nuxt-link
               >給予衝撞車多50%的HP。
             </li>
             <li>蒙古：<nuxt-link to="/techs/Drill">演習</nuxt-link>引進。</li>
@@ -408,9 +408,9 @@
           <ul>
             <li>現在村民可以駐紮在衝撞車裡面。</li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
+                >塞爾特狂暴</nuxt-link
               >衝撞車多40%的HP。
             </li>
             <li>

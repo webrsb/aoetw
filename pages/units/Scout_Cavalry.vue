@@ -216,8 +216,8 @@
               >便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
-              >：只要在一個賽爾特單位的視野下，羊群不會被牽走
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -468,7 +468,7 @@
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/armor"></nuxt-link>防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
             </td>

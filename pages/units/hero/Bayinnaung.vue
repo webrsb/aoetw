@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            勃印曩是個騎兵英雄，在"拉惹的崛起"資料片的勃印曩相關戰役和地圖編輯器裡出現。
+            勃印曩是個騎兵英雄，在"王者崛起"資料片的勃印曩相關戰役和地圖編輯器裡出現。
           </p>
           <p>
             在遊戲中的外貌是精銳矛象伕，不過有更高的HP和攻擊。勃印曩不能被招降而且會自行回血。
@@ -54,7 +54,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">拉惹的崛起</td>
+            <td class="unit4">王者崛起</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

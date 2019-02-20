@@ -65,7 +65,7 @@
                   ><span style="margin-left: 2px;">文明不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、

@@ -60,7 +60,7 @@
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
-              >、 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              >、 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、
@@ -407,7 +407,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：火砲訓練速度快20%。
             </li>
             <li>

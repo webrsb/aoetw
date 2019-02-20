@@ -53,7 +53,7 @@
               >還是一炮），並運用他們的速度輕鬆躲避敵人攻擊。<nuxt-link
                 to="/units/Rattan_Archer"
                 >藤甲弓兵</nuxt-link
-              >可以輕鬆擊敗羽毛弓箭手即使羽毛弓箭手本身也具有不俗的遠程裝甲。
+              >可以輕鬆擊敗羽毛弓箭手即使羽毛弓箭手本身也具有不俗的遠程護甲。
               <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
               >是對付羽毛箭射手的理想單位而且非常具有經濟效益。
             </li>

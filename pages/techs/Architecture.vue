@@ -79,7 +79,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
               <nuxt-link to="/civs/Incas">印加</nuxt-link>、
               <nuxt-link to="/civs/Indians">印度</nuxt-link>、

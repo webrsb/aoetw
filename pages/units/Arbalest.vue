@@ -53,7 +53,7 @@
             <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>、
             <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、
             <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-            <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
             <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
             <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
             <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、

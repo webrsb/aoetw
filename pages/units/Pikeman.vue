@@ -547,7 +547,7 @@
               >：重裝長槍兵便宜25％。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特人</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link
               >：重裝長槍兵移動加快15％。
             </li>
             <li>

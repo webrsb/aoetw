@@ -450,7 +450,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Stronghold">堡壘</nuxt-link
-              >(+25%，<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
+              >(+25%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -588,7 +588,7 @@
               >現在會加成城堡的攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:引入<nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
                 to="/techs/Stronghold"
                 >堡壘</nuxt-link
               >。

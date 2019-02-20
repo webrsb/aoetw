@@ -172,7 +172,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">徒步弓兵護甲+1/+1。</td>
+            <td class="unit4">徒步遠程護甲+1/+1。</td>
           </tr>
         </table>
 

@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            王通是個騎兵英雄，在"世界地國II:拉惹的崛起"資料片中只能在地圖編輯器裡找的到。
+            王通是個騎兵英雄，在"世界地國II:王者崛起"資料片中只能在地圖編輯器裡找的到。
           </p>
           <p>在遊戲中王通的外貌是拜占庭聖騎兵，不能被招降而且會自行回血。</p>
           <p>
@@ -51,7 +51,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">拉惹的崛起</td>
+            <td class="unit4">王者崛起</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

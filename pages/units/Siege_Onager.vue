@@ -27,7 +27,7 @@
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>、
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>、
@@ -158,8 +158,8 @@
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
-              >(+40%，<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
+                >塞爾特狂暴</nuxt-link
+              >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -418,7 +418,7 @@
               >：重型投石車生產速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：重型投石車攻擊速度快25%(科技樹寫20%是錯的!)
             </li>
             <li>
@@ -432,7 +432,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：重型投石車訓練和升級速度快20%。
             </li>
             <li>
@@ -472,9 +472,9 @@
               </li>
               <li>引進<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：<nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >賽爾特狂暴</nuxt-link
+                  >塞爾特狂暴</nuxt-link
                 >給予重型投石車+50%的HP。
               </li>
               <li>
@@ -499,9 +499,9 @@
             </h3>
             <ul>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：<nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >賽爾特狂暴</nuxt-link
+                  >塞爾特狂暴</nuxt-link
                 >給予重型投石車+40%的HP。
               </li>
               <li>

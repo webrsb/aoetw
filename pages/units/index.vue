@@ -662,15 +662,6 @@
                   <div class="unique">
                     <img
                       class="gg"
-                      src="~assets/ImperialCamelIcon.jpg"
-                      alt=""
-                    /><nuxt-link to="/units/Imperial_Camel"
-                      >帝王駱駝騎兵</nuxt-link
-                    >
-                  </div>
-                  <div class="unique">
-                    <img
-                      class="gg"
                       src="~assets/New_Genoese_Crossbowman.png"
                       alt=""
                     /><nuxt-link to="/units/Genoese_Crossbowman"

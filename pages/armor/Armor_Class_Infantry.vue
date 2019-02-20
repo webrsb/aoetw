@@ -73,7 +73,7 @@
               <img class="gg" src="~assets/WBRSK.jpg" alt="" /><nuxt-link
                 to="/units/Woad_Raider"
                 >菘藍武士(精銳)</nuxt-link
-              >(<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
+              >(<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </li>
             <li>
               <img class="gg" src="~assets/TAXEM.jpg" alt="" /><nuxt-link

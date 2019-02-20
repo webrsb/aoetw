@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>賽爾特-科技樹</h1>
+        <h1>塞爾特-科技樹</h1>
         <div class="hrn1"></div>
       </div>
       <tree />
@@ -519,7 +519,7 @@
             <td class="t13 trm">
               <img class="gg" src="~assets/Unique-tech.jpg" width="30" alt="" />
               <div>
-                <nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link>
+                <nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link>
               </div>
             </td>
             <td class="t13 trm">

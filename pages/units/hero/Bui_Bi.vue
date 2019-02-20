@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            裴備是個英雄，在"拉惹的崛起"資料片中出現，在遊戲中的外貌是僧侶。裴備不能被招降而且會自行回血。
+            裴備是個英雄，在"王者崛起"資料片中出現，在遊戲中的外貌是僧侶。裴備不能被招降而且會自行回血。
           </p>
           <p>裴備有跟僧侶一樣的功能，但他不會受到修道院科技的加成影響。</p>
         </div>
@@ -42,7 +42,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">拉惹的崛起</td>
+            <td class="unit4">王者崛起</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

@@ -14,7 +14,7 @@
           </p>
           <h3>優勢文明</h3>
           <p>
-            <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
             <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>、
             <nuxt-link to="/civs/Teutons">條頓</nuxt-link>、
             <nuxt-link to="/civs/Vikings">維京</nuxt-link>。

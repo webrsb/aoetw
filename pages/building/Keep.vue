@@ -64,7 +64,7 @@
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Incas">印加</nuxt-link>、
@@ -268,7 +268,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Stronghold">堡壘</nuxt-link
-              >(+25%，<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
+              >(+25%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -481,7 +481,7 @@
               <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>的攻擊力為8。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:引入<nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:引入<nuxt-link
                 to="/techs/Stronghold"
                 >堡壘</nuxt-link
               >。

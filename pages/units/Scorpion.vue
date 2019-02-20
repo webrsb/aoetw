@@ -26,7 +26,7 @@
             >一樣，弩砲必須派其他單位在旁邊保護，因為弩砲速度慢容易遭受攻擊。弩砲最常與
             <nuxt-link to="/armor/Armor_Class_Spearman">長槍兵</nuxt-link
             >搭配攻擊，可以相輔相成。這個組合在<nuxt-link to="/civs/Celts"
-              >賽爾特</nuxt-link
+              >塞爾特</nuxt-link
             >、<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>與
             <nuxt-link to="/civs/Khmer">高棉</nuxt-link>特別強大。
           </p>
@@ -93,8 +93,8 @@
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
-              >(+40%，<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
+                >塞爾特狂暴</nuxt-link
+              >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -352,7 +352,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：弩砲生產快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：弩砲攻擊速度快25%。
             </li>
             <li>
@@ -374,7 +374,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：弩砲訓練和升級速度快20%。
             </li>
             <li><nuxt-link to="/civs/Khmer">高棉</nuxt-link>：弩砲+1射程。</li>
@@ -433,9 +433,9 @@
             </li>
             <li>引進<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
+                >塞爾特狂暴</nuxt-link
               >給予弩砲多50%的HP。、
             </li>
             <li>
@@ -457,9 +457,9 @@
           <ul>
             <li>弩砲現在有7的遠防。</li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
+                >塞爾特狂暴</nuxt-link
               >給予弩砲多40%的HP。
             </li>
             <li>

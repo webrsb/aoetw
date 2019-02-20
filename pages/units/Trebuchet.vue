@@ -382,7 +382,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：巨型投石機攻擊速度快20%
             </li>
             <li>
@@ -436,7 +436,7 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li><nuxt-link to="/techs/Heresy"></nuxt-link>異端邪說引進。</li>
+            <li><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。</li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：引進<nuxt-link
                 to="/techs/Kataparuto"

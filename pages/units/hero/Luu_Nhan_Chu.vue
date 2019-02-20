@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            劉仁澍是個徒步弓兵英雄，只會在"拉惹的崛起"資料片中的地圖編輯器中出現。
+            劉仁澍是個徒步弓兵英雄，只會在"王者崛起"資料片中的地圖編輯器中出現。
           </p>
           <p>劉仁澍的外表是強弩兵，他不能被招降而且會自行回血。</p>
           <h3>歷史</h3>
@@ -58,7 +58,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">拉惹的崛起</td>
+            <td class="unit4">王者崛起</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

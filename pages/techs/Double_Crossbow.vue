@@ -37,7 +37,7 @@
               大量有雙弩箭的弩砲象和弩砲可以摧毀大面積區域，這讓高棉的弩砲水平與<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
-              >、 <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、和<nuxt-link
+              >、 <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、和<nuxt-link
                 to="/civs/Chinese"
                 >中國</nuxt-link
               >的弩砲可以平起平坐。

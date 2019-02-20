@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            闍耶羅跋摩是個步兵英雄，在"拉惹的崛起"資料片的戰役<nuxt-link
+            闍耶羅跋摩是個步兵英雄，在"王者崛起"資料片的戰役<nuxt-link
               to="/batt/Quelling_the_Rebellion"
               >席捲入荒</nuxt-link
             >中作為反抗
@@ -50,7 +50,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">拉惹的崛起</td>
+            <td class="unit4">王者崛起</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

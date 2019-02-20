@@ -105,7 +105,7 @@
                 src="~assets/CamelArcherIcon.jpg"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓箭手</nuxt-link
+              /><nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
               >生產時間 21s → 25s
             </li>
             <li>

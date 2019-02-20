@@ -105,7 +105,7 @@
           <p>
             <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>、<nuxt-link
               to="/civs/Celts"
-              >賽爾特</nuxt-link
+              >塞爾特</nuxt-link
             >和<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
             >因為他們的文明加成和
             <nuxt-link to="/techs/untech">獨特技術</nuxt-link
@@ -121,7 +121,7 @@
           <p>以下列出攻城武器有加成的文明</p>
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城武器開火速率快20%。
             </li>
             <li>
@@ -152,7 +152,7 @@
           <p>以下列出攻城武器的團隊加分</p>
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城器製造所工作速率快20%。
             </li>
             <li>
@@ -697,10 +697,10 @@
                     src="~assets/Unique-tech.jpg"
                     class="gg"
                     alt=""
-                  /><nuxt-link to="/civs/Celts">賽爾特</nuxt-link>
+                  /><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
                 </td>
                 <td class="tunitc4">
-                  <nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link>
+                  <nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link>
                 </td>
                 <td class="tunitc5">750F 450G</td>
                 <td class="tunitc6">攻城器製造所的單位+40% HP。</td>

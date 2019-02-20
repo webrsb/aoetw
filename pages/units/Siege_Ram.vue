@@ -59,7 +59,7 @@
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
@@ -124,9 +124,9 @@
             >」之後，重型衝撞車移動速度為0.9~1.2，故駐軍後的蒙古重型衝撞車，移動速度會比研發護衛技術的劍兵勇士還來的快。
           </p>
           <p>
-            賽爾特文明也非常適合研發重型衝撞車，賽爾特不只有生產快速的優勢，更有特殊科技
-            <nuxt-link to="/techs/Furor_Celtica">「賽爾特狂暴」</nuxt-link
-            >，讓賽爾特重型衝撞車的生命值從原本的270強化到405，耐打程度絕對超乎你的想像。
+            塞爾特文明也非常適合研發重型衝撞車，塞爾特不只有生產快速的優勢，更有特殊科技
+            <nuxt-link to="/techs/Furor_Celtica">「塞爾特狂暴」</nuxt-link
+            >，讓塞爾特重型衝撞車的生命值從原本的270強化到405，耐打程度絕對超乎你的想像。
           </p>
           <p>如果衝撞車被招降，裡面的單位則會被趕出來，不會被一起招降。</p>
         </div>
@@ -169,9 +169,9 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
               >:攻城器製造所的單位+40% HP。<nuxt-link to="/civs/Celts"
-                >賽爾特</nuxt-link
+                >塞爾特</nuxt-link
               >限定
             </td>
           </tr>
@@ -420,7 +420,7 @@
               >：重型衝撞車訓練速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：重型衝撞車攻擊速度快20%
             </li>
             <li>
@@ -438,7 +438,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城器製造所單位生產速度快20%。
             </li>
             <li>
@@ -464,9 +464,9 @@
               <li>步兵、弓兵可以駐紮在衝撞車裡面。</li>
               <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link></li>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >賽爾特狂暴</nuxt-link
+                  >塞爾特狂暴</nuxt-link
                 >給予重型衝撞車多50%的HP。
               </li>
               <li>蒙古：<nuxt-link to="/techs/Drill">演習</nuxt-link>引進。</li>
@@ -477,9 +477,9 @@
             <ul>
               <li>現在村民可以駐紮在衝撞車裡面。</li>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >賽爾特狂暴</nuxt-link
+                  >塞爾特狂暴</nuxt-link
                 >:給予重型衝撞車多40%的HP。
               </li>
               <li>

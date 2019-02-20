@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            輕型衝撞車是世紀帝國遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從攻城器製造所製造，對一般單位的攻擊力較低，對建築物、攻城器單位皆有額外的傷害加成，其遠程裝甲值極高，行進中幾乎不受弓箭手傷害影響，因此許多玩家會將步兵單位駐紮在衝撞車內做掩護殺入敵陣。
+            輕型衝撞車是世紀帝國遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從攻城器製造所製造，對一般單位的攻擊力較低，對建築物、攻城器單位皆有額外的傷害加成，其遠程護甲值極高，行進中幾乎不受弓箭手傷害影響，因此許多玩家會將步兵單位駐紮在衝撞車內做掩護殺入敵陣。
           </p>
           <p>
             每一台衝撞車最多可以駐紮四個步兵單位(步兵、徒步弓手、村民)，當步兵單位駐紮在衝撞車時，可以提升移動速度和對建築物的傷害，要特別留意的是，衝撞車在遊戲中移動速度排最後一名，建造費用很耗木材與黃金資源，且近身裝甲竟然只有(-3)，但在遊戲中顯示值為0，一般村民、村姑徒手亂打便可造成大量傷害，因此需要好好保護。
@@ -39,7 +39,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在城堡時期，輕型衝撞車是最強大的攻城武器之一，也是少數在城堡時期可以對城堡建築物造成威脅的單位，適合拿來拆除對手的建築物，其傷害對建築物皆有額外的加成效果，同時可以做為步兵單位推進的掩護物，不少玩家會運用他的超高遠程裝甲特性來吸收敵方弓箭手的火力
+            在城堡時期，輕型衝撞車是最強大的攻城武器之一，也是少數在城堡時期可以對城堡建築物造成威脅的單位，適合拿來拆除對手的建築物，其傷害對建築物皆有額外的加成效果，同時可以做為步兵單位推進的掩護物，不少玩家會運用他的超高遠程護甲特性來吸收敵方弓箭手的火力
             。
           </p>
           <p>
@@ -99,9 +99,9 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link
+              /><nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link
               >:攻城器製造所的單位+40% HP。<nuxt-link to="/civs/Celts"
-                >賽爾特</nuxt-link
+                >塞爾特</nuxt-link
               >限定
             </td>
           </tr>
@@ -337,7 +337,7 @@
               >：輕型衝撞車訓練速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：輕型衝撞車攻擊速度快20%
             </li>
             <li>
@@ -359,7 +359,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：攻城器製造所單位生產速度快20%。
             </li>
             <li>
@@ -395,9 +395,9 @@
                 >為300F。
               </li>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >賽爾特狂暴</nuxt-link
+                  >塞爾特狂暴</nuxt-link
                 >給予衝撞車多50%的HP。
               </li>
               <li>蒙古：<nuxt-link to="/techs/Drill">演習</nuxt-link>引進。</li>
@@ -408,9 +408,9 @@
             <ul>
               <li>現在村民可以駐紮在衝撞車裡面。</li>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:<nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >賽爾特狂暴</nuxt-link
+                  >塞爾特狂暴</nuxt-link
                 >給予衝撞車多40%的HP。
               </li>
               <li>

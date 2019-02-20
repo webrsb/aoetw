@@ -25,7 +25,7 @@
           </p>
           <p>
             一搬來說，<nuxt-link to="/civs/Japanese">日本</nuxt-link
-            >、<nuxt-link to="/civs/Celts">賽爾特人</nuxt-link>、<nuxt-link
+            >、<nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>、<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克</nuxt-link
             >與
@@ -379,7 +379,7 @@
               >：裝甲步兵在封建/城堡/帝王時代有 +1/+2/+3攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：裝甲步兵移動加快15％。
             </li>
             <li>

@@ -42,7 +42,7 @@
               >。如果盟友有
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >的話弓箭手對建築物的總體攻擊會是+8(薩拉森<nuxt-link
-                to="/Team_Bonus"
+                to="/elements/Team_Bonus"
                 >團隊加分</nuxt-link
               >:弓兵對建築物+2攻擊)。
             </li>

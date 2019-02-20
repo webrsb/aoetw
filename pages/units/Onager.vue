@@ -9,7 +9,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/units/Onager">中型投石車</nuxt-link
-            >是一個遠程攻城單位 ，玩家必須先升級到<nuxt-link
+            >是一個遠程攻城武器 ，玩家必須先升級到<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >，研發科技後才可以在攻城器製造所進行訓練。 它主要用來對付大群敵人。
@@ -101,8 +101,8 @@
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Furor_Celtica"
-                >賽爾特狂暴</nuxt-link
-              >(+40%，<nuxt-link to="/civs/Celts">賽爾特</nuxt-link>限定)
+                >塞爾特狂暴</nuxt-link
+              >(+40%，<nuxt-link to="/civs/Celts">塞爾特</nuxt-link>限定)
             </td>
           </tr>
           <tr>
@@ -355,7 +355,7 @@
               >：中型投石車生產速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：中型投石車攻擊速度快25%(科技樹寫20%是錯的!)
             </li>
             <li>
@@ -377,7 +377,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：中型投石車訓練和升級速度快20%。
             </li>
             <li>
@@ -438,9 +438,9 @@
               <li>中型投石車現在可以砸掉樹林。</li>
               <li>研發化學不再會影響投射物速度。</li>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：<nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                   to="/techs/Furor_Celtica"
-                  >賽爾特狂暴</nuxt-link
+                  >塞爾特狂暴</nuxt-link
                 >給予中型投石車+40%的HP。
               </li>
               <li>

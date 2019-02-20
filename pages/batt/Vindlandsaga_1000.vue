@@ -94,7 +94,7 @@
                 <div class="p6"></div>
                 玩家4：
               </td>
-              <td class="tc6">斯格林斯（紫色）賽爾特</td>
+              <td class="tc6">斯格林斯（紫色）塞爾特</td>
             </tr>
           </table>
 

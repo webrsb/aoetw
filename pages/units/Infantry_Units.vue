@@ -60,7 +60,7 @@
               >斯拉夫人</nuxt-link
             >和<nuxt-link to="/civs/Vikings">維京人</nuxt-link
             >可以說是所有文明中最強大的步兵。
-            <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、<nuxt-link
+            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、<nuxt-link
               to="/civs/Goths"
               >哥德</nuxt-link
             >、<nuxt-link to="/civs/Incas">印加</nuxt-link>、<nuxt-link
@@ -88,7 +88,7 @@
               >便宜25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>:步兵移動快25%。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:步兵移動快25%。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link

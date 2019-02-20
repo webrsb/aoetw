@@ -33,7 +33,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
@@ -121,7 +121,7 @@
           </tr>
           <tr>
             <td class="tta1">
-              <nuxt-link to="/building/Harbor"></nuxt-link>海港
+              <nuxt-link to="/building/Harbor">海港</nuxt-link>
             </td>
             <td class="tta2">9</td>
             <td class="tta2">13</td>

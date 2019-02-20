@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            堡壘是<nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+            堡壘是<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
             >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在
@@ -21,7 +21,7 @@
         <div class="n1">
           <ul>
             <li>
-              堡壘雖然可讓賽爾特人的防守能力增強。不幸的是，大部分敢於圍攻城堡的部隊已經不怕城堡傷害，或者是能從遠距離摧毀城堡。儘管如此，堡壘仍然是一項有價值的技術。
+              堡壘雖然可讓塞爾特人的防守能力增強。不幸的是，大部分敢於圍攻城堡的部隊已經不怕城堡傷害，或者是能從遠距離摧毀城堡。儘管如此，堡壘仍然是一項有價值的技術。
               搭配<nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
               >能對<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
               >造成更多傷害。
@@ -65,7 +65,7 @@
           <tr>
             <td class="unit3">文明</td>
             <td class="unit4">
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
             </td>
           </tr>
           <tr>

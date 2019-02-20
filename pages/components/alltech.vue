@@ -16,7 +16,8 @@
             </td>
             <td class="unit3">
               <nuxt-link to="/techs/Tracking">追縱技術</nuxt-link>。
-              <nuxt-link to="/techs/Squires">護衛</nuxt-link>。 <nuxt-link to="/techs/Arson">縱火</nuxt-link>。
+              <nuxt-link to="/techs/Squires">護衛</nuxt-link>。
+              <nuxt-link to="/techs/Arson">縱火</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -83,8 +84,10 @@
               <nuxt-link to="/building/Castle">城堡</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Spies">間諜</nuxt-link>/<nuxt-link to="/techs/Spies">叛徒</nuxt-link>。
-              <nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>。
+              <nuxt-link to="/techs/Spies">間諜</nuxt-link>/<nuxt-link
+                to="/techs/Spies"
+                >叛徒</nuxt-link
+              >。 <nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>。
               <nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>。
               <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>。
             </td>
@@ -178,78 +181,132 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 5%;">
-              <nuxt-link to="/techs/untech">特殊科技</nuxt-link> <br />(城堡/帝王)
+              <nuxt-link to="/techs/untech">特殊科技</nuxt-link>
+              <br />(城堡/帝王)
             </td>
             <td class="unit3">
               <div class="col-md-12">
                 <div class="col-md-4">
-                  <nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link>/<nuxt-link to="/techs/Garland_Wars"
-                    >榮冠戰爭</nuxt-link>(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>/<nuxt-link to="/techs/Maghrabi_Camels"
-                    >馬格拉比駱駝</nuxt-link>( <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>/<nuxt-link to="/techs/Warwolf"
-                    >戰狼</nuxt-link>(<nuxt-link to="/civs/Britons">不列顛</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Howdah">象轎</nuxt-link>/<nuxt-link to="/techs/Manipur_Cavalry"
-                    >曼尼普爾騎兵</nuxt-link>( <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link>/<nuxt-link to="/techs/Logistica"
-                    >後勤學</nuxt-link>(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Stronghold">堡壘</nuxt-link>/<nuxt-link to="/techs/Furor_Celtica"
-                    >賽爾特狂暴</nuxt-link>( <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Great_Wall">長城</nuxt-link>/<nuxt-link to="/techs/Rocketry"
-                    >火箭術</nuxt-link>(<nuxt-link to="/civs/Chinese">中國</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link>/<nuxt-link to="/techs/Torsion_Engines"
-                    >扭力彈射器</nuxt-link>( <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link>/<nuxt-link to="/techs/Bearded_Axe"
-                    >倒鉤斧</nuxt-link>(<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link>/<nuxt-link to="/techs/Perfusion"
-                    >灌注士氣</nuxt-link>(<nuxt-link to="/civs/Goths">哥德</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>/<nuxt-link to="/techs/Atheism"
-                    >無神論</nuxt-link>(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>)
+                  <nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link>/<nuxt-link
+                    to="/techs/Garland_Wars"
+                    >榮冠戰爭</nuxt-link
+                  >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link>/<nuxt-link
+                    to="/techs/Maghrabi_Camels"
+                    >馬格拉比駱駝</nuxt-link
+                  >( <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>/<nuxt-link
+                    to="/techs/Warwolf"
+                    >戰狼</nuxt-link
+                  >(<nuxt-link to="/civs/Britons">不列顛</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Howdah">象轎</nuxt-link>/<nuxt-link
+                    to="/techs/Manipur_Cavalry"
+                    >曼尼普爾騎兵</nuxt-link
+                  >( <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link
+                  >/<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
+                  >(<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Stronghold">堡壘</nuxt-link>/<nuxt-link
+                    to="/techs/Furor_Celtica"
+                    >塞爾特狂暴</nuxt-link
+                  >( <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Great_Wall">長城</nuxt-link>/<nuxt-link
+                    to="/techs/Rocketry"
+                    >火箭術</nuxt-link
+                  >(<nuxt-link to="/civs/Chinese">中國</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link
+                  >/<nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
+                  >( <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>)
+                  <br />
+                  <nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
+                  >/<nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link
+                  >(<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
+                  >/<nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
+                  >(<nuxt-link to="/civs/Goths">哥德</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Marauders">掠奪者</nuxt-link>/<nuxt-link
+                    to="/techs/Atheism"
+                    >無神論</nuxt-link
+                  >(<nuxt-link to="/civs/Huns">匈奴</nuxt-link>)
                   <br />
                 </div>
                 <div class="col-md-4">
-                  <nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link>/<nuxt-link to="/techs/Couriers"
-                    >信使</nuxt-link>( <nuxt-link to="/civs/Incas">印加</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Sultans">蘇丹</nuxt-link>/<nuxt-link to="/techs/Shatagni"
-                    >印度火槍</nuxt-link>(<nuxt-link to="/civs/Indians">印度</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Pavise">巨盾</nuxt-link>/<nuxt-link to="/techs/Silk_Road"
-                    >絲綢之路</nuxt-link>(<nuxt-link to="/civs/Italians">義大利</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Yasama">射箭孔</nuxt-link>/<nuxt-link to="/techs/Kataparuto"
-                    >彈射器</nuxt-link>(<nuxt-link to="/civs/Japanese">日本</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Tusk_Swords">象牙劍</nuxt-link>/<nuxt-link to="/techs/Double_Crossbow"
-                    >雙弩箭</nuxt-link>( <nuxt-link to="/civs/Khmer">高棉</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>/<nuxt-link to="/techs/Shinkichon"
-                    >神機箭</nuxt-link>(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link>/<nuxt-link to="/techs/Recurve_Bow"
-                    >反曲弓</nuxt-link>( <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link>/<nuxt-link to="/techs/Forced_Levy"
-                    >強制徵兵</nuxt-link>( <nuxt-link to="/civs/Malay">馬來</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Tigui">部落領袖</nuxt-link>/<nuxt-link to="/techs/Farimba"
-                    >驃悍精神</nuxt-link>(<nuxt-link to="/civs/Malians">馬利</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>/<nuxt-link to="/batt/El_Doradoa"
-                    >黃金國</nuxt-link>( <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>)
+                  <nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link
+                  >/<nuxt-link to="/techs/Couriers">信使</nuxt-link>(
+                  <nuxt-link to="/civs/Incas">印加</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Sultans">蘇丹</nuxt-link>/<nuxt-link
+                    to="/techs/Shatagni"
+                    >印度火槍</nuxt-link
+                  >(<nuxt-link to="/civs/Indians">印度</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Pavise">巨盾</nuxt-link>/<nuxt-link
+                    to="/techs/Silk_Road"
+                    >絲綢之路</nuxt-link
+                  >(<nuxt-link to="/civs/Italians">義大利</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Yasama">射箭孔</nuxt-link>/<nuxt-link
+                    to="/techs/Kataparuto"
+                    >彈射器</nuxt-link
+                  >(<nuxt-link to="/civs/Japanese">日本</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Tusk_Swords">象牙劍</nuxt-link
+                  >/<nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link>(
+                  <nuxt-link to="/civs/Khmer">高棉</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Panokseon">板屋船</nuxt-link>/<nuxt-link
+                    to="/techs/Shinkichon"
+                    >神機箭</nuxt-link
+                  >(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
+                  >/<nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link>(
+                  <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Thalassocracy">海上霸主</nuxt-link
+                  >/<nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link>(
+                  <nuxt-link to="/civs/Malay">馬來</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Tigui">部落領袖</nuxt-link>/<nuxt-link
+                    to="/techs/Farimba"
+                    >驃悍精神</nuxt-link
+                  >(<nuxt-link to="/civs/Malians">馬利</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
+                  >/<nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>(
+                  <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>)
                 </div>
                 <div class="col-md-4">
-                  <nuxt-link to="/techs/Nomads">游牧</nuxt-link>/<nuxt-link to="/techs/Drill">演習</nuxt-link>(<nuxt-link to="/civs/Mongols"
-                    >蒙古</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>/<nuxt-link to="/techs/Mahouts"
-                    >象伕</nuxt-link>(<nuxt-link to="/civs/Persians">波斯</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Carrack">克拉克帆船</nuxt-link>/<nuxt-link to="/techs/Arquebus"
-                    >火繩槍</nuxt-link>(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Madrasah">穆斯林學墊</nuxt-link>/<nuxt-link to="/techs/Zealotry"
-                    >狂熱舉動</nuxt-link>(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Orthodoxy">東正教</nuxt-link>/<nuxt-link to="/techs/Druzhina"
-                    >王家侍從</nuxt-link>(<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Inquisition">異端審判</nuxt-link>/<nuxt-link to="/techs/Supremacy"
-                    >霸權</nuxt-link>(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link>/<nuxt-link to="/techs/Crenellations"
-                    >垛口</nuxt-link>(<nuxt-link to="/civs/Teutons">條頓</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>/<nuxt-link to="/techs/Artillery"
-                    >砲兵</nuxt-link>(<nuxt-link to="/civs/Turks">土耳其</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link>/<nuxt-link to="/techs/Paper_Money"
-                    >紙幣</nuxt-link>(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>) <br />
-                  <nuxt-link to="/techs/Chieftains">酋長</nuxt-link>/<nuxt-link to="/techs/Berserkergang"
-                    >狂戰士幫</nuxt-link>( <nuxt-link to="/civs/Vikings">維京</nuxt-link>)
+                  <nuxt-link to="/techs/Nomads">游牧</nuxt-link>/<nuxt-link
+                    to="/techs/Drill"
+                    >演習</nuxt-link
+                  >(<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>/<nuxt-link
+                    to="/techs/Mahouts"
+                    >象伕</nuxt-link
+                  >(<nuxt-link to="/civs/Persians">波斯</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Carrack">克拉克帆船</nuxt-link
+                  >/<nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
+                  >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Madrasah">穆斯林學墊</nuxt-link
+                  >/<nuxt-link to="/techs/Zealotry">狂熱舉動</nuxt-link
+                  >(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Orthodoxy">東正教</nuxt-link>/<nuxt-link
+                    to="/techs/Druzhina"
+                    >王家侍從</nuxt-link
+                  >(<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
+                  >/<nuxt-link to="/techs/Supremacy">霸權</nuxt-link>(<nuxt-link
+                    to="/civs/Spanish"
+                    >西班牙</nuxt-link
+                  >) <br />
+                  <nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link>/<nuxt-link
+                    to="/techs/Crenellations"
+                    >垛口</nuxt-link
+                  >(<nuxt-link to="/civs/Teutons">條頓</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link>/<nuxt-link
+                    to="/techs/Artillery"
+                    >砲兵</nuxt-link
+                  >(<nuxt-link to="/civs/Turks">土耳其</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link>/<nuxt-link
+                    to="/techs/Paper_Money"
+                    >紙幣</nuxt-link
+                  >(<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>) <br />
+                  <nuxt-link to="/techs/Chieftains">酋長</nuxt-link>/<nuxt-link
+                    to="/techs/Berserkergang"
+                    >狂戰士幫</nuxt-link
+                  >( <nuxt-link to="/civs/Vikings">維京</nuxt-link>)
                 </div>
               </div>
             </td>

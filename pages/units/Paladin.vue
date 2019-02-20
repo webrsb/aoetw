@@ -34,7 +34,7 @@
               </h4>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>、
@@ -86,7 +86,7 @@
         <div class="n1">
           遊俠一直以來都是世紀帝國的象徵之一，也算是全遊戲最好使用的兵種，其攻擊、防禦與血量、速度都是頂尖。一隊40隻遊俠可無視任何阻礙，消滅任何準備不足的單位或是建築。
           <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-          >遊俠比一般遊俠多12HP，是全遊戲最強大的遊俠。而拜占庭與賽爾特遊俠則是重看不重用。
+          >遊俠比一般遊俠多12HP，是全遊戲最強大的遊俠。而拜占庭與塞爾特遊俠則是重看不重用。
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -588,8 +588,8 @@
       <div class="n1">
         <ul>
           <li>
-            <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
-            >：只要在一個賽爾特單位的視野下，羊群不會被牽走
+            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+            >：只要在一個塞爾特單位的視野下，羊群不會被牽走
           </li>
           <li>
             <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
@@ -649,8 +649,8 @@
           <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
         </h3>
         <ul>
-          <li><nuxt-link to="/techs/Bloodlines"></nuxt-link>血統引進。</li>
-          <li><nuxt-link to="/techs/Heresy"></nuxt-link>異端邪說引進。</li>
+          <li><nuxt-link to="/techs/Bloodlines">血統</nuxt-link>引進。</li>
+          <li><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。</li>
         </ul>
         <h3>
           <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
@@ -676,7 +676,7 @@
             騎士系列是遊戲中;僅有的四種對任何東西都沒加成的單位，另外三種是民兵、貴族鐵騎和龜甲船。
           </li>
           <li>
-            法蘭克擁有最強的遊俠，因為多了12hp，而賽爾特人擁有最弱的遊俠，因為缺乏血統與騎兵板甲。緊跟在後的是拜占庭遊俠，缺乏血統與鼓風爐。而條頓缺法畜牧培育。其他四個文明則有全滿的遊俠。
+            法蘭克擁有最強的遊俠，因為多了12hp，而塞爾特人擁有最弱的遊俠，因為缺乏血統與騎兵板甲。緊跟在後的是拜占庭遊俠，缺乏血統與鼓風爐。而條頓缺法畜牧培育。其他四個文明則有全滿的遊俠。
           </li>
           <li>
             隨著非洲王國的推出，遊俠是最稀有的單位，只有八個文明擁有，之前是重型投石車。(鷹勇士與矛象伕為地區性特殊單位。)

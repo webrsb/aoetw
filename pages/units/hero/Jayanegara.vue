@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            賈亞納加拉是個英雄，只在"拉惹的崛起"資料片中的地圖編輯器出現，在遊戲中的外貌是國王。賈亞納加拉不能被招降而且會自行回血。
+            賈亞納加拉是個英雄，只在"王者崛起"資料片中的地圖編輯器出現，在遊戲中的外貌是國王。賈亞納加拉不能被招降而且會自行回血。
           </p>
         </div>
         <div></div>
@@ -43,7 +43,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">拉惹的崛起</td>
+            <td class="unit4">王者崛起</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

@@ -74,7 +74,7 @@
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
             </td>
             <td class="tunitc6">移動相當快速的步兵。</td>
           </tr>
@@ -401,6 +401,13 @@
             <td class="tunitc6">高血量高裝甲的遠程大象。</td>
           </tr>
           <tr>
+            <td class="tunitc6">
+              <img
+                class="gg"
+                src="~assets/ImperialCamelIcon.jpg"
+                alt=""
+              /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link>
+            </td>
             <td class="tunitc4">
               <nuxt-link to="/civs/Indians">印度</nuxt-link>
             </td>

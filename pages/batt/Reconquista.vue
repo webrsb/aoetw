@@ -7,7 +7,7 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p><b>勘查（再次征服）</b>是征服者戰役熙德的第六個關卡。</p>
+          <p><b>勘查（再次征服）</b>是征服者入侵戰役熙德的第六個關卡。</p>
         </div>
         <h2>玩家</h2>
         <div class="hrn1"></div>

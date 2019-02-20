@@ -105,7 +105,7 @@
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/civs/Celts">賽爾特</nuxt-link>
+              /><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/techs/Stronghold">堡壘</nuxt-link>
@@ -223,7 +223,7 @@
               <nuxt-link to="/techs/Pavise">巨盾</nuxt-link>
             </td>
             <td class="tunitc5">300F 150G</td>
-            <td class="tunitc6">徒步弓兵護甲+1/+1。</td>
+            <td class="tunitc6">徒步遠程護甲+1/+1。</td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -567,11 +567,11 @@
             <td class="tunitc6">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/civs/Celts"
-                >賽爾特</nuxt-link
+                >塞爾特</nuxt-link
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/techs/Furor_Celtica">賽爾特狂暴</nuxt-link>
+              <nuxt-link to="/techs/Furor_Celtica">塞爾特狂暴</nuxt-link>
             </td>
             <td class="tunitc5">750F 450G</td>
             <td class="tunitc6">

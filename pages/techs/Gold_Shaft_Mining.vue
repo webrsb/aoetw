@@ -43,7 +43,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>。

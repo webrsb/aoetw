@@ -64,7 +64,7 @@
                   ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>。
@@ -85,8 +85,8 @@
               >，但是這個科技大大減少了步兵面對弩兵的死亡率，也增加了追擊敵方村民的效率。
             </li>
             <li>
-              儘管<nuxt-link to="/civs/Celts">賽爾特</nuxt-link
-              >無法研發護衛，他們的步兵仍然是遊戲中最快的，因為賽爾特的文明加成提高了15%步兵移動速度
+              儘管<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >無法研發護衛，他們的步兵仍然是遊戲中最快的，因為塞爾特的文明加成提高了15%步兵移動速度
             </li>
           </ul>
         </div>

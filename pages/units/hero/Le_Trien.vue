@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            李篆是個步兵英雄，在"拉惹的崛起"資料片中出現，在遊戲中的外貌是劍兵勇士。李篆不能被招降而且會自行回血。只能在地圖編輯器裡找到他的蹤影。
+            李篆是個步兵英雄，在"王者崛起"資料片中出現，在遊戲中的外貌是劍兵勇士。李篆不能被招降而且會自行回血。只能在地圖編輯器裡找到他的蹤影。
           </p>
         </div>
         <h3>歷史</h3>
@@ -55,7 +55,7 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">拉惹的崛起</td>
+            <td class="unit4">王者崛起</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">

@@ -1,11 +1,5 @@
 <template>
-  <b-navbar
-    ref="navbar"
-    toggleable="md"
-    type="dark"
-    variant="dark"
-    sticky
-  >
+  <b-navbar ref="navbar" toggleable="md" type="dark" variant="dark" sticky>
     <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
     <b-navbar-brand to="/">Aoetw</b-navbar-brand>
     <b-collapse is-nav id="nav_collapse">
@@ -24,7 +18,10 @@
           <b-dropdown-item to="/elements/Attack">攻擊</b-dropdown-item>
           <b-dropdown-item to="/elements/Rate_of_Fire">射速</b-dropdown-item>
           <b-dropdown-item to="/elements/Frame_delay">開火間隔</b-dropdown-item>
-          <b-dropdown-item to="/elements/Area_of_Effect">擴散範圍</b-dropdown-item>
+          <b-dropdown-item to="/elements/Area_of_Effect"
+            >擴散範圍</b-dropdown-item
+          >
+          <b-dropdown-item to="/elements/Team_Bonus">擴散範圍</b-dropdown-item>
           <b-dropdown-item to="/Taunts">嘲諷語音</b-dropdown-item>
         </b-nav-item-dropdown>
         <b-nav-item-dropdown text="資訊">
@@ -66,9 +63,9 @@ export default {
     this.focusScroll()
   },
   methods: {
-    getOffsetToRoot (elm) {
+    getOffsetToRoot(elm) {
       let result = 0
-      while(elm !== null) {
+      while (elm !== null) {
         result += elm.offsetTop
         elm = elm.offsetParent
       }
@@ -98,7 +95,7 @@ export default {
       let hash = decodeURIComponent(this.$route.hash)
       this.$nextTick(() => {
         let el
-        if (hash ) {
+        if (hash) {
           el = document.getElementById(hash.slice(1))
           this.scrollIntoView(el)
         }
@@ -114,7 +111,8 @@ export default {
     scrollIntoView(el) {
       if (el) {
         // Get the document scrolling element
-        const scroller = document.scrollingElement || document.documentElement || document.body
+        const scroller =
+          document.scrollingElement || document.documentElement || document.body
         // Allow time for v-play to finish rendering
         this.scrollTimeout = setTimeout(() => {
           // scroll heading into view (minus offset to account for nav top height
@@ -122,7 +120,7 @@ export default {
           this.scrollTimeout = null
         }, 100)
       }
-    },  
+    },
     // Smooth Scroll handler methods
     easeInOutQuad(t, b, c, d) {
       t /= d / 2
@@ -162,9 +160,9 @@ export default {
   border: 0;
   border-top: 1px solid #b3b1b1;
 }
-@media (min-width: 768px){
+@media (min-width: 768px) {
   .navbar-expand-md {
-      max-height: 86px;
+    max-height: 86px;
   }
   li {
     display: flex;

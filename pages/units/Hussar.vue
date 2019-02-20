@@ -28,7 +28,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
@@ -470,8 +470,8 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：忠誠信仰便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
-              >：只要在一個賽爾特單位的視野下，羊群不會被牽走
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -674,7 +674,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/armor"></nuxt-link>遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>

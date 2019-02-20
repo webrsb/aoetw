@@ -56,7 +56,7 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>、
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
@@ -553,8 +553,8 @@
                 >船艦護甲</nuxt-link
               >，這讓重裝駱駝騎兵對他們本身也有攻擊加成。
             </li>
-            <li><nuxt-link to="/techs/Bloodlines"></nuxt-link>血統引進。</li>
-            <li><nuxt-link to="/techs/Heresy"></nuxt-link>異端邪說引進。</li>
+            <li><nuxt-link to="/techs/Bloodlines">血統</nuxt-link>引進。</li>
+            <li><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。</li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>:引入<nuxt-link
                 to="/techs/Zealotry"

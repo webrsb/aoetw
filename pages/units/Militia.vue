@@ -20,7 +20,7 @@
             民兵，在亞洲華人圈俗稱棒棒，是<nuxt-link to="/techs/age/Dark_Age"
               >黑暗時代</nuxt-link
             >唯一能生產的軍事單位，早年大家覺得民兵沒什麼用處，但隨著時代的變遷，今天的民兵已經變成一種主流打法，控制得宜可以有效的騷擾對方經濟，取得非常大的優勢。以步兵為主的文明，如
-            <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
             <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
             <nuxt-link to="/civs/Japanese">日本</nuxt-link>和
             <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
@@ -367,7 +367,7 @@
               >：民兵在封建/城堡/帝王時代有 +1/+2/+3攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>：民兵移動加快15％。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：民兵移動加快15％。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link

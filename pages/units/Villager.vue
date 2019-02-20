@@ -54,7 +54,7 @@
               <td>收集效率</td>
             </tr>
             <tr>
-              <td class="ttb1">賽爾特伐木工</td>
+              <td class="ttb1">塞爾特伐木工</td>
               <td class="ttb2">木材</td>
               <td class="ttb3">0.449</td>
             </tr>
@@ -801,7 +801,7 @@
                 >：牧羊人工作速度提高了25％。
               </li>
               <li>
-                <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
                 >：伐木工工作速度提高15％。即使其他玩家的單位在旁邊，村民也可以取得其他玩家的牲畜。
               </li>
               <li>

@@ -11,7 +11,7 @@
             弓兵環甲可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >研發，可讓弓兵護甲+1/+2。
+            >研發，可讓遠程護甲+1/+2。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -64,7 +64,7 @@
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link>、
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>、
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>。
@@ -212,7 +212,7 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">弓兵護甲+1/+2。</td>
+            <td class="unit4">遠程護甲+1/+2。</td>
           </tr>
         </table>
 

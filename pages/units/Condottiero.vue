@@ -10,9 +10,8 @@
           <p>
             傭兵或稱僱傭兵，是<nuxt-link to="/civs/Italians">義大利</nuxt-link
             >的第二種特殊單位，能夠在帝王時代的軍營中訓練。在失落的帝國資料片中義大利還是要建城堡才能生產傭兵。傭兵是個可以共享的特殊單位，任何與義大利同盟的國家都能生產，可說是
-            <nuxt-link to="/Team_Bonus">團隊加分</nuxt-link>。與<nuxt-link
-              to="/civs/Berbers"
-              >柏柏</nuxt-link
+            <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+            >。與<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
             >的標槍騎兵不同傭兵沒有精銳版本。
           </p>
         </div>
@@ -451,7 +450,7 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：傭兵攻擊+3。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
               >：傭兵移動速度快15%。
             </li>
             <li>
@@ -625,7 +624,7 @@
               傭兵是唯一沒有精銳版本的五個獨特單位之一，另外是<nuxt-link
                 to="/units/Slinger"
               ></nuxt-link
-              >投石手、<nuxt-link to="/units/Missionary"></nuxt-link>傳教士、
+              >投石手、<nuxt-link to="/units/Missionary">傳教士</nuxt-link>、
               <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
               >與<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link>。
             </li>

@@ -765,7 +765,7 @@
                     <nuxt-link to="/techs/Pavise">巨盾</nuxt-link>
                   </td>
                   <td class="tunitc5">300F 150G</td>
-                  <td class="tunitc6">徒步弓兵護甲+1/+1。</td>
+                  <td class="tunitc6">徒步遠程護甲+1/+1。</td>
                 </tr>
                 <tr>
                   <td class="tunitc6">

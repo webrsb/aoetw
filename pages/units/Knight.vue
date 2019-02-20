@@ -448,8 +448,8 @@
               >便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">賽爾特</nuxt-link
-              >：只要在一個賽爾特單位的視野下，羊群不會被牽走
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -524,8 +524,8 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li><nuxt-link to="/techs/Bloodlines"></nuxt-link>血統引進。</li>
-            <li><nuxt-link to="/techs/Heresy"></nuxt-link>異端邪說引進。</li>
+            <li><nuxt-link to="/techs/Bloodlines">血統</nuxt-link>引進。</li>
+            <li><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
