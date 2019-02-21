@@ -312,7 +312,7 @@
 export default {
   head() {
     return {
-      title: 'Aoetw - 建築'
+      title: '建築 - Aoetw'
     }
   },
   layout: '',

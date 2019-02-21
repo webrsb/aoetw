@@ -93,7 +93,7 @@
 export default {
   head() {
     return {
-      title: 'Aoetw - 地圖'
+      title: '地圖 - Aoetw'
     }
   },
   layout: '',

@@ -1678,7 +1678,7 @@
 export default {
   head() {
     return {
-      title: 'Aoetw - 戰役'
+      title: '戰役 - Aoetw'
     }
   },
   layout: '',

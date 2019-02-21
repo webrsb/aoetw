@@ -12,7 +12,7 @@ export default {
   },
   head() {
     return {
-      title: '線上編輯器'
+      title: '線上編輯器 - Aoetw'
     }
   }
 }

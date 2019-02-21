@@ -17,7 +17,7 @@ import container from '~/components/container.vue'
 export default {
   head() {
     return {
-      title: 'Aoetw - 文明'
+      title: '文明 - Aoetw'
     }
   },
   components: {

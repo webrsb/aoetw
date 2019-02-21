@@ -853,7 +853,7 @@
 export default {
   head() {
     return {
-      title: 'Aoetw - 護甲'
+      title: '護甲 - Aoetw'
     }
   },
   layout: '',

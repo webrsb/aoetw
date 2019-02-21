@@ -1036,7 +1036,7 @@
 export default {
   head() {
     return {
-      title: 'Aoetw - 科技'
+      title: '科技 - Aoetw'
     }
   },
   layout: '',

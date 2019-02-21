@@ -17,7 +17,7 @@ import container from '~/components/container.vue'
 export default {
   head() {
     return {
-      title: 'Aoetw - 地圖'
+      title: '地圖 - Aoetw'
     }
   },
   components: {
