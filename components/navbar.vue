@@ -2,6 +2,11 @@
   <b-navbar ref="navbar" toggleable="md" type="dark" variant="dark" sticky>
     <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
     <b-navbar-brand to="/">Aoetw</b-navbar-brand>
+    <b-navbar-nav right>
+      <b-nav-form>
+        <header_search />
+      </b-nav-form>
+    </b-navbar-nav>
     <b-collapse is-nav id="nav_collapse">
       <b-navbar-nav>
         <b-nav-item to="/civs">文明</b-nav-item>
@@ -21,7 +26,7 @@
           <b-dropdown-item to="/elements/Area_of_Effect"
             >擴散範圍</b-dropdown-item
           >
-          <b-dropdown-item to="/elements/Team_Bonus">擴散範圍</b-dropdown-item>
+          <b-dropdown-item to="/elements/Team_Bonus">團隊加分</b-dropdown-item>
           <b-dropdown-item to="/Taunts">嘲諷語音</b-dropdown-item>
         </b-nav-item-dropdown>
         <b-nav-item-dropdown text="資訊">
@@ -36,11 +41,6 @@
         <b-nav-item href="/save/">記錄檔區</b-nav-item>
         <b-nav-item to="/tree/vie">科技樹</b-nav-item>
         <b-nav-item to="/maps">地圖</b-nav-item>
-      </b-navbar-nav>
-      <b-navbar-nav class="ml-auto">
-        <b-nav-form>
-          <header_search />
-        </b-nav-form>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>

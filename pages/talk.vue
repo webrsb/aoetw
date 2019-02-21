@@ -12,20 +12,13 @@
       </div>
       <div class="col-md-12">
         <iframe
-          id="forum_embed"
+          ref="forum_embed"
           src="javascript:void(0)"
           scrolling="no"
           frameborder="0"
-          width="900"
-          height="700"
+          width="100%"
+          height="600"
         ></iframe>
-        <script type="text/javascript">
-          document.getElementById('forum_embed').src =
-            'https://groups.google.com/forum/embed/?place=forum/aoetw' +
-            '&showsearch=true&showpopout=true&showtabs=false' +
-            '&parenturl=' +
-            encodeURIComponent(window.location.href)
-        </script>
       </div>
     </div>
   </div>
@@ -33,6 +26,13 @@
 <script>
 export default {
   layout: 'footn',
+  mounted () {
+    this.$refs.forum_embed.src =
+      'https://groups.google.com/forum/embed/?place=forum/aoetw' +
+      '&showsearch=true&showpopout=true&showtabs=false' +
+      '&parenturl=' +
+      encodeURIComponent(window.location.href)
+  },
   components: {}
 }
 </script>

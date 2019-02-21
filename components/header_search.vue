@@ -1,7 +1,7 @@
 <template>
   <b-form-input
     size="sm"
-    class="mr-sm-2"
+    class="mr-sm-3"
     id="algolia"
     type="text"
     placeholder="請輸入關鍵字搜尋"
@@ -51,3 +51,16 @@ export default {
   }
 }
 </script>
+<style>
+@media (max-width: 768px) {
+  .algolia-autocomplete .ds-dropdown-menu {
+    min-width: 400px !important;
+  }
+}
+
+@media (max-width: 375px) {
+  .algolia-autocomplete .ds-dropdown-menu {
+    min-width: 350px !important;
+  }
+}
+</style>
