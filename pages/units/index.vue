@@ -69,7 +69,7 @@
           <tr>
             <td>
               <div class="unititle">
-                <img src="~assets/Barracks-logo.jpg" alt="" />
+                <img src="~assets/Barracks-logo.jpg" width="45" alt="" />
               </div>
             </td>
           </tr>
@@ -917,7 +917,7 @@
 export default {
   head() {
     return {
-      title: '單位 - Aoetw'
+      title: 'Aoetw - 單位'
     }
   },
   data() {
