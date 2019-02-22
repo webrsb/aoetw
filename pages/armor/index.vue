@@ -7,7 +7,7 @@
       </div>
       <div class="col-md-12">
         <div class="n1">
-          <p>防禦類型屬於遊戲內隱藏的項目，讓防禦對應不同的攻擊加成。</p>
+          <p><strong>防禦類型</strong>屬於遊戲內隱藏的項目，讓防禦對應不同的攻擊加成。</p>
           <br /><strong>這篇條目包含防禦類型與遠防、近防</strong>
         </div>
         <h3>防禦類型</h3>
@@ -245,13 +245,13 @@
                 /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
               </li>
               <li>
-                <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
                   to="/units/Longboat"
                   >維京大戰船</nuxt-link
                 >
               </li>
               <li>
-                <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+                <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
                   to="/units/Caravel"
                   >卡拉維爾戰船</nuxt-link
                 >
@@ -418,7 +418,7 @@
                 船
                 <ul>
                   <li>
-                    <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
                       to="/units/Elite_Caravel"
                       >精銳卡拉維爾戰船</nuxt-link
                     >（10）
@@ -433,7 +433,7 @@
                     >（9）
                   </li>
                   <li>
-                    <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
                       to="/units/Elite_Longboat"
                       >精銳維京大戰船</nuxt-link
                     >（9）
@@ -447,7 +447,7 @@
                     >（9）
                   </li>
                   <li>
-                    <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
+                    <img class="gg" src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
                       to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >（9）
@@ -853,7 +853,7 @@
 export default {
   head() {
     return {
-      title: '護甲 - Aoetw'
+      title: 'Aoetw - 護甲'
     }
   },
   layout: '',
