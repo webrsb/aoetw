@@ -6,135 +6,108 @@
     </div>
     <div class="container" style="margin-bottom: 30px;">
       <div class="row">
-        <div class="row">
-          <div class="col-md-12">
-            <p>
-              <span style="text-align: center; color:#dc3545;"
-                ><a href="https://discord.gg/ymNuMVg"
-                  ><img width="100" src="~assets/discord.png" alt="" />
-                  Discord語音聊天群</a
-                >，歡迎各位前來約戰、聊天與發問問題。</span
-              >
-            </p>
-          </div>
-          <div class="col-md-12" style="text-align: right;font-size: 25px;">
-            已有758篇條目
-          </div>
-          <div class="row">
-            <div
-              class="col-sm-4 col-md-3 col-xs-6 ititle"
-              style="text-align: center;"
+        <div class="col-md-8">
+          <p>
+            <span style="text-align: center; color:#dc3545;"
+              ><a href="https://discord.gg/ymNuMVg"
+                ><img width="100" src="~assets/discord.png" alt="" />
+                Discord語音聊天群</a
+              >，歡迎各位前來約戰、聊天與發問問題。</span
             >
-              <h3><nuxt-link to="/civs">文明</nuxt-link></h3>
-              <nuxt-link to="/civs"
-                ><img
-                  width="100"
-                  src="~assets/u1.jpg"
-                  alt="文明"
-                  class="img-circle"
-              /></nuxt-link>
-            </div>
-            <div
-              class="col-sm-4 col-md-3 col-xs-6 ititle"
-              style="text-align: center;"
-            >
-              <h3><nuxt-link to="/units">單位</nuxt-link></h3>
-              <nuxt-link to="/units"
-                ><img
-                  width="100"
-                  src="~assets/u2.jpg"
-                  alt="單位"
-                  class="img-circle"
-              /></nuxt-link>
-            </div>
-            <div
-              class="col-sm-4 col-md-3 col-xs-6 ititle"
-              style="text-align: center;"
-            >
-              <h3><nuxt-link to="/techs">科技</nuxt-link></h3>
-              <nuxt-link to="/techs"
-                ><img
-                  width="100"
-                  src="~assets/u3.jpg"
-                  alt="科技"
-                  class="img-circle"
-              /></nuxt-link>
-            </div>
-            <div
-              class="col-sm-4 col-md-3 col-xs-6 ititle"
-              style="text-align: center;"
-            >
-              <h3><nuxt-link to="/building">建築</nuxt-link></h3>
-              <nuxt-link to="/building"
-                ><img
-                  width="100"
-                  src="~assets/u4.jpg"
-                  alt="建築"
-                  class="img-circle"
-              /></nuxt-link>
-            </div>
-            <div
-              class="col-sm-4 col-md-3 col-xs-6 ititle"
-              style="text-align: center;"
-            >
-              <h3><nuxt-link to="/batt">戰役</nuxt-link></h3>
-              <nuxt-link to="/batt"
-                ><img
-                  width="100"
-                  src="~assets/u5.jpg"
-                  alt="戰役"
-                  class="img-circle"
-              /></nuxt-link>
-            </div>
-            <div
-              class="col-sm-4 col-md-3 col-xs-6 ititle"
-              style="text-align: center;"
-            >
-              <h3><nuxt-link to="/ar">戰術技巧</nuxt-link></h3>
-              <nuxt-link to="/ar"
-                ><img
-                  width="100"
-                  src="~assets/u6.jpg"
-                  alt="戰術技巧"
-                  class="img-circle"
-              /></nuxt-link>
-            </div>
-            <div
-              class="col-sm-4 col-md-3 col-xs-6 ititle"
-              style="text-align: center;"
-            >
-              <h3><nuxt-link to="/talk">討論區</nuxt-link></h3>
-              <nuxt-link to="/talk"
-                ><img
-                  width="100"
-                  src="~assets/u7.jpg"
-                  alt="討論區"
-                  class="img-circle"
-              /></nuxt-link>
-            </div>
-            <div
-              class="col-sm-4 col-md-3 col-xs-6 ititle"
-              style="text-align: center;"
-            >
-              <h3><nuxt-link to="/hkbb">工作人員</nuxt-link></h3>
-              <nuxt-link to="/hkbb"
-                ><img
-                  width="100"
-                  src="~assets/u8.jpg"
-                  alt="工作人員"
-                  class="img-circle"
-              /></nuxt-link>
-            </div>
-          </div>
+          </p>
         </div>
-        <br />
+        <div class="col-md-4" style="text-align: right;font-size: 25px;">
+          已有758篇條目
+        </div>
       </div>
-    </div>
-    <div class="container">
-      <div
-        class="row nw"
-        style="margin-top: 0px; border-top: 1px solid #c7c7c7;"
-      >
+      <div class="row">
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <h3><nuxt-link to="/civs">文明</nuxt-link></h3>
+          <nuxt-link to="/civs"
+            ><img width="100" src="~assets/u1.jpg" alt="文明" class="img-circle"
+          /></nuxt-link>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <h3><nuxt-link to="/units">單位</nuxt-link></h3>
+          <nuxt-link to="/units"
+            ><img width="100" src="~assets/u2.jpg" alt="單位" class="img-circle"
+          /></nuxt-link>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <h3><nuxt-link to="/techs">科技</nuxt-link></h3>
+          <nuxt-link to="/techs"
+            ><img width="100" src="~assets/u3.jpg" alt="科技" class="img-circle"
+          /></nuxt-link>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <h3><nuxt-link to="/building">建築</nuxt-link></h3>
+          <nuxt-link to="/building"
+            ><img width="100" src="~assets/u4.jpg" alt="建築" class="img-circle"
+          /></nuxt-link>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <h3><nuxt-link to="/batt">戰役</nuxt-link></h3>
+          <nuxt-link to="/batt"
+            ><img width="100" src="~assets/u5.jpg" alt="戰役" class="img-circle"
+          /></nuxt-link>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <h3><nuxt-link to="/ar">戰術技巧</nuxt-link></h3>
+          <nuxt-link to="/ar"
+            ><img
+              width="100"
+              src="~assets/u6.jpg"
+              alt="戰術技巧"
+              class="img-circle"
+          /></nuxt-link>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <h3><nuxt-link to="/talk">討論區</nuxt-link></h3>
+          <nuxt-link to="/talk"
+            ><img
+              width="100"
+              src="~assets/u7.jpg"
+              alt="討論區"
+              class="img-circle"
+          /></nuxt-link>
+        </div>
+        <div
+          class="col-sm-4 col-md-3 col-xs-6 ititle"
+          style="text-align: center;"
+        >
+          <h3><nuxt-link to="/hkbb">工作人員</nuxt-link></h3>
+          <nuxt-link to="/hkbb"
+            ><img
+              width="100"
+              src="~assets/u8.jpg"
+              alt="工作人員"
+              class="img-circle"
+          /></nuxt-link>
+        </div>
+      </div>
+      <hr style="margin-top: 20px" />
+      <div class="row nw">
         <div class="col-md-2 ititle2">
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>特色條目</strong></h4>
@@ -198,10 +171,13 @@
             </ul>
           </div>
         </div>
-        <div class="col-md-4 ititle2">
+        <div class="col-md-6 ititle2">
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>最新消息</strong></h4>
             <ul>
+              <li>
+                增加線上修改功能，歡迎點擊每頁下方的「協助改善此頁面」提交修改
+              </li>
               <li>
                 各文明的<nuxt-link to="/tree/vie">科技樹</nuxt-link>完成拉！
               </li>
@@ -220,10 +196,8 @@
           </div>
         </div>
       </div>
-      <div
-        class="row nw"
-        style="margin-top: 0px; border-top: 1px solid #c7c7c7;"
-      >
+      <hr />
+      <div class="row nw">
         <div class="col-md-8 ititle3">
           <div class="nw">
             <h4 style="margin-top:30px;text-align: left;">

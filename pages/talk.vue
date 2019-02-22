@@ -26,7 +26,7 @@
 <script>
 export default {
   layout: 'footn',
-  mounted () {
+  mounted() {
     this.$refs.forum_embed.src =
       'https://groups.google.com/forum/embed/?place=forum/aoetw' +
       '&showsearch=true&showpopout=true&showtabs=false' +

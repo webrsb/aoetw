@@ -4,7 +4,7 @@
     class="mr-sm-3"
     id="algolia"
     type="text"
-    placeholder="請輸入關鍵字搜尋"
+    placeholder="搜尋"
   />
 </template>
 <script>
@@ -54,13 +54,36 @@ export default {
 <style>
 @media (max-width: 768px) {
   .algolia-autocomplete .ds-dropdown-menu {
-    min-width: 400px !important;
+    min-width: 365px !important;
+  }
+
+  input#algolia {
+    width: 9em !important;
   }
 }
 
 @media (max-width: 375px) {
   .algolia-autocomplete .ds-dropdown-menu {
-    min-width: 350px !important;
+    min-width: 300px !important;
   }
 }
+
+@media (min-width: 1200px) {
+  input#algolia {
+    width: 12em !important;
+  }
+}
+
+input#algolia {
+  background-color: #343a40;
+  font-size: 16px;
+  width: 7em;
+  border-color: #7b7b7b;
+  color: #e0e0e0;
+}
+
+input#algolia::placeholder {
+    color: #828282;
+}
+
 </style>
