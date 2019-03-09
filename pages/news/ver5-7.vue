@@ -8,7 +8,15 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            5.7改版於2018年1月25日正式上線，除了一些遊戲優化外，還大幅修正了一些遊戲平衡，過去一些太於強勢的兵種如駱駝弓騎兵、飛鏢騎兵、傭兵與鷹勇士等都削弱了不少。
+            <b>5.7改版</b
+            >於2018年1月25日正式上線，除了一些遊戲優化外，還大幅修正了一些遊戲平衡，過去一些太於強勢的兵種如<nuxt-link
+              to="/units/Camel_Archer"
+              >駱駝弓騎兵</nuxt-link
+            >、<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link>、<nuxt-link
+              to="/units/Condottiero"
+              >傭兵</nuxt-link
+            >與<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >等都削弱了不少。
           </p>
           <p>
             <a href="https://forum.gamer.com.tw/C.php?bsn=1122&snA=14418&tnum=1"
@@ -27,8 +35,10 @@
                 src="~assets/CondottieroNewIcon.jpg"
                 class="gg"
                 alt=""
-              />傭兵將擁有獨特裝甲，將只會減少
-              火槍單位的反步兵傷害，不包含其他的反步兵傷害
+              />傭兵將擁有獨特裝甲，將只會減少 火槍單位的反<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >傷害，不包含其他的反步兵傷害
             </li>
             <li>
               <img
@@ -42,14 +52,17 @@
                 src="~assets/CondottieroNewIcon.jpg"
                 class="gg"
                 alt=""
-              />傭兵減少1攻擊力(原始 10)
+              />傭兵減少1<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >(原始 10)
             </li>
             <li>
               <img
                 src="~assets/EliteBattleElephantIcon2.png"
                 class="gg"
                 alt=""
-              />精銳矛象伕升級花費從 800F 500G 提升至 1200F 900G
+              /><nuxt-link to="/units/Elite_Battle_Elephant"
+                >精銳矛象伕</nuxt-link
+              >升級花費從 800F 500G 提升至 1200F 900G
             </li>
             <li>
               <img
@@ -63,49 +76,59 @@
                 class="gg"
                 src="~assets/Karambitwarrioricon.png"
                 alt=""
-              />精銳爪刀勇士 減少 1攻擊力(原始 8)
+              /><nuxt-link to="/units/Karambit_Warrior">精銳爪刀勇士</nuxt-link>
+              減少 1攻擊力(原始 8)
             </li>
             <li>
               <img
                 src="~assets/EliteBattleElephantIcon2.png"
                 class="gg"
                 alt=""
-              />矛象伕(包含精銳)攻擊波及範圍從 0.5 變成 0.4
+              /><nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              >(包含精銳)攻擊波及範圍從 0.5 變成 0.4
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />駱駝弓騎兵(包含精銳)生命值減少 5 (60/65>55/60)
+              />駱駝弓騎兵(包含精銳)<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >減少 5 (60/65>55/60)
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />駱駝弓騎兵(包含精銳) -2裝甲 vs. 駱駝 (2 變成 0)
+              />駱駝弓騎兵(包含精銳) -2裝甲 vs.
+              <nuxt-link to="/units/Camel">駱駝</nuxt-link> (2 變成 0)
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />駱駝弓騎兵(包含精銳) -2裝甲 vs. 反馬弓騎兵傷害 (2 變成0)
+              />駱駝弓騎兵(包含精銳) -2裝甲 vs.
+              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                >反馬弓騎兵</nuxt-link
+              >傷害 (2 變成0)
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/CamelArcherIcon.jpg"
                 alt=""
-              />駱駝弓騎兵(包含精銳) -2 攻擊 vs. 衝撞車 (2 變成0)
+              />駱駝弓騎兵(包含精銳) -2 攻擊 vs.
+              <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link> (2 變成0)
             </li>
             <li>
               <img
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
                 alt=""
-              />象轎從200F 300W，提升至400F 300W
+              /><nuxt-link to="/techs/Howdah">象轎</nuxt-link>從200F
+              300W，提升至400F 300W
             </li>
             <li>
               <img
@@ -129,18 +152,19 @@
               />飛鏢騎兵(包含精銳)攻擊 -1
             </li>
             <li>
-              <img
-                class="gg"
-                src="~assets/Arambaiicon.png"
-                alt=""
-              />精銳飛鏢騎兵 -2 裝甲 Vs. 反馬弓騎兵傷害 (2 降至 0)
+              <img class="gg" src="~assets/Arambaiicon.png" alt="" /><nuxt-link
+                to="/units/Arambai"
+                >精銳飛鏢騎兵</nuxt-link
+              >
+              -2 裝甲 Vs. 反馬弓騎兵傷害 (2 降至 0)
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/EliteEagleWarriorIcon.jpg"
                 alt=""
-              />精銳鷹勇士訓練時間從 32秒提升至 35秒
+              /><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
+              >訓練時間從 32秒提升至 35秒
             </li>
             <li>
               <img
@@ -154,14 +178,20 @@
                 class="gg"
                 src="~assets/CamelIcon.jpg"
                 alt=""
-              />反駱駝傷害將增加給所有反騎兵單位(除了駱駝)
+              />反駱駝傷害將增加給所有反<nuxt-link
+                to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
+              >(除了駱駝)
             </li>
             <li>
               <img
                 class="gg"
                 src="~assets/Goldshaftmining.jpg"
                 alt=""
-              />馬利失去礦井採金
+              /><nuxt-link to="/civs/Malians">馬利</nuxt-link>失去<nuxt-link
+                to="/techs/Gold_Shaft_Mining"
+                >礦井採金</nuxt-link
+              >
             </li>
           </ul>
           增強
@@ -171,7 +201,8 @@
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
                 alt=""
-              />恰特拉傘從 +30HP 提升至 +50HP
+              /><nuxt-link to="/techs/Chatras">恰特拉傘</nuxt-link>從 +30HP
+              提升至 +50HP
             </li>
             <li>
               <img
@@ -179,25 +210,35 @@
                 src="~assets/Farmicon.png"
                 alt=""
                 class="gg"
-              />斯拉夫的農田優勢現在會正確的運作在手推車與輪軸技術研發後
+              /><nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>的<nuxt-link
+                to="/building/Farm"
+                >農田</nuxt-link
+              >優勢現在會正確的運作在<nuxt-link to="/techs/Hand_Cart"
+                >手推車</nuxt-link
+              >與輪軸技術研發後
             </li>
             <li>
               <img
                 src="~assets/EliteBattleElephantIcon2.png"
                 class="gg"
                 alt=""
-              />馬來矛象伕從 25% 便宜提升至 30%
+              /><nuxt-link to="/civs/Malay">馬來</nuxt-link>矛象伕從 25%
+              便宜提升至 30%
             </li>
             <li>
-              <img
-                src="~assets/Unique-tech.jpg"
-                class="gg"
-                alt=""
-              />火繩槍增加了火砲與火砲塔投射速度 從 0 增至 0.2
+              <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
+                to="/techs/Arquebus"
+                >火繩槍</nuxt-link
+              >增加了<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+              >與<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+              >投<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>度 從 0
+              增至 0.2
             </li>
             <li>
-              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" />風琴砲增加
-              +1 散射傷害(從1 增至 2)
+              <img class="gg" src="~assets/OrganGunIcon.jpg" alt="" /><nuxt-link
+                to="/units/Organ_Gun"
+                >風琴砲</nuxt-link
+              >增加 +1 散射傷害(從1 增至 2)
             </li>
           </ul>
         </div>
@@ -216,7 +257,10 @@
             <li>玩家現在應該無法再加入假房間</li>
             <li>玩家現在加入錯誤房間會正確的顯示連線逾時</li>
             <li>玩家現在即使加入大廳選擇得太快也可以正確地取消加入</li>
-            <li>大廳無法再因為玩家觀看科技樹並且剔除他導致閃退</li>
+            <li>
+              大廳無法再因為玩家觀看<nuxt-link to="/tree/vie">科技樹</nuxt-link
+              >並且剔除他導致閃退
+            </li>
             <li>大廳現在會記得隊伍隨機選項</li>
             <li>大廳設定現在不會再關閉 DLC 後出錯</li>
             <li>大廳名字現在字體正確</li>
@@ -229,17 +273,37 @@
             <li>大廳瀏覽器的勝利標準過濾器現在正常運作</li>
             <li>使用 Mod 並開啟一場遊戲不會再導致罕見閃退</li>
             <li>遭受攻擊的文字通知將會擁有音效</li>
-            <li>村民現在可更頻繁的引動物去城鎮中心</li>
-            <li>貿易車現在不再因為按下停止快捷鍵導致身上持有黃金遺失</li>
+            <li>
+              <nuxt-link to="/units/Villager">村民</nuxt-link
+              >現在可更頻繁的引動物去<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >
+            </li>
+            <li>
+              貿易車現在不再因為按下停止快捷鍵導致身上持有<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >遺失
+            </li>
             <li>鎖定隊伍將會正確在單人遊戲關閉對敵人的進貢功能</li>
-            <li>駐軍UI按鈕將會正確尺寸顯示</li>
+            <li>
+              <nuxt-link to="/Garrison">駐軍</nuxt-link>UI按鈕將會正確尺寸顯示
+            </li>
             <li>建築不適當的地點將會有條約警告</li>
             <li>科技樹將會在F2開啟後正確關閉</li>
-            <li>戰役的任務視窗不會太短</li>
+            <li><nuxt-link to="/batt">戰役</nuxt-link>的任務視窗不會太短</li>
             <li>戰役的開場音效並不會因為使用 ALT TAB 導致不協調</li>
             <li>戰役 征服家園 現在正確顯示任務</li>
-            <li>戰役 雙柱城記 將不會在第一個任務失去城門</li>
-            <li>戰役 德古拉第四關與第五關擁有正確敵人顏色</li>
+            <li>
+              戰役 雙柱城記 將不會在第一個任務失去<nuxt-link to="/building/Gate"
+                >城門</nuxt-link
+              >
+            </li>
+            <li>
+              戰役
+              <nuxt-link to="/batt/Draculaa">德古拉</nuxt-link
+              >第四關與第五關擁有正確敵人顏色
+            </li>
             <li>戰役 巴菲普斯 不會再殺死 Metin 首領而改變外交關係</li>
           </ul>
         </div>

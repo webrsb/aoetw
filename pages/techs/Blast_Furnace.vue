@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鼓風爐可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>鼓風爐</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>研發，可讓
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
@@ -79,8 +79,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在帝王時代花費便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：同樣使<nuxt-link
@@ -93,7 +96,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：研發該科技不需要黃金。
+              >：研發該科技不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -101,7 +105,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            薩拉森人和後來的日本人通過一遍又一遍地折疊鐵和敲擊它的過程製造了第一批優質鋼。此大量重複的過程消除了金屬中非常高百分比的雜質並形成鋼。薩拉森人和日本人以他們劍的鋒利和力量而聞名。創新者學會瞭如何通過鼓風爐加速煉鋼的過程。當鐵礦石被熔煉時，通過將氧氣吹入爐內，混合物的溫度升高讓更多的雜質被燒掉。最後的結果就是鋼鐵，這是一種有用的武器材料，因為它可以讓武器更尖銳並且不會像鐵一樣容易斷裂。
+            <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link
+            >和後來的<nuxt-link to="/civs/Japanese">日本人</nuxt-link
+            >通過一遍又一遍地折疊鐵和敲擊它的過程製造了第一批優質鋼。此大量重複的過程消除了金屬中非常高百分比的雜質並形成鋼。薩拉森人和日本人以他們劍的鋒利和力量而聞名。創新者學會瞭如何通過鼓風爐加速煉鋼的過程。當鐵礦石被熔煉時，通過將氧氣吹入爐內，混合物的溫度升高讓更多的雜質被燒掉。最後的結果就是鋼鐵，這是一種有用的武器材料，因為它可以讓武器更尖銳並且不會像鐵一樣容易斷裂。
           </p>
         </div>
       </div>
@@ -127,7 +133,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看分類</td>
           </tr>
           <tr>
@@ -161,7 +167,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">275</td>
           </tr>
           <tr>
@@ -175,7 +183,12 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">步兵、騎兵攻擊+2。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >攻擊+2。
+            </td>
           </tr>
         </table>
 

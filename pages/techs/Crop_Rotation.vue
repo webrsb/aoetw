@@ -8,9 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            輪耕可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            <b>輪耕</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
-            >研發。可讓新種植的農田產量增加175食物(總共550食物)。
+            >研發。可讓新種植的<nuxt-link to="/building/Farm">農田</nuxt-link
+            >產量增加175<nuxt-link to="/resource/Food">食物</nuxt-link
+            >(總共550食物)。
           </p>
           <p>
             已耕種的農田即便輪耕研發完直到再次播種前都會維持原產量375食物，若是正在建造的農田則會吃到完整加成變550食物。
@@ -78,7 +81,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：該科技免費。
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >免費。
             </li>
           </ul>
         </div>
@@ -112,7 +118,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看分類</td>
           </tr>
           <tr>
@@ -153,7 +159,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>

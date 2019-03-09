@@ -8,10 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            城鎮瞭望可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>城鎮瞭望</b>可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >研發。研發後建築物視野+4。
+            >研發。研發後<nuxt-link to="/building">建築物</nuxt-link
+            ><nuxt-link to="/los.php">視野</nuxt-link>+4。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -19,17 +20,25 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：該科技免費。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >免費。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
+              >：該科技在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研究<nuxt-link
                 to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
-              >的時間在封建/城堡/帝王時代快10%/15%/20%。
+              >的時間在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代快10%/15%/20%。
             </li>
           </ul>
         </div>
@@ -42,7 +51,8 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >:跟其他文明一樣需要研發城鎮瞭望。
+              >:跟其他<nuxt-link to="/civs">文明</nuxt-link
+              >一樣需要研發城鎮瞭望。
             </li>
           </ul>
           <h3>
@@ -59,7 +69,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            每個城鎮和社區在中世紀的大部分時間依靠當地的領主和他的士兵們來保護他們，常常會有土匪，掠奪者或不友善的鄰近村莊會襲擊村子。城鎮瞭望可以定期對附近的鄉村進行監視，如果有危險發生可以馬上通報讓城鎮有時間準備防禦措施。
+            每個城鎮和社區在中世紀的大部分時間依靠當地的領主和他的士兵們來保護他們，常常會有土匪，<nuxt-link
+              to="/techs/Marauders"
+              >掠奪者</nuxt-link
+            >或不友善的鄰近村莊會襲擊村子。城鎮瞭望可以定期對附近的鄉村進行監視，如果有危險發生可以馬上通報讓城鎮有時間準備防禦措施。
           </p>
         </div>
       </div>
@@ -127,7 +140,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>

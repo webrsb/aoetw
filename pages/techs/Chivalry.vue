@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            騎士精神是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>騎士精神</b>是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >工作效率快40%。
@@ -22,8 +21,18 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/units/Knight">騎士</nuxt-link
-              >一直是法蘭克玩家的軍隊核心。騎士精神可讓法蘭克玩家在短時間內創建一支騎兵大軍。如果有至少五~九個馬廄建議就直接研發騎士精神了。雖然研發的成本可以抵過五名騎兵，但如果玩家經濟許可就應該研究，獲得軍事生產的優勢。如果沒有足夠的馬廄而且城鎮遭受攻擊，那麼研發騎士精神加速量產騎士上場作戰也是可行的
+              <nuxt-link to="/units/Knight">騎士</nuxt-link>一直是<nuxt-link
+                to="/civs/Franks"
+                >法蘭克</nuxt-link
+              >玩家的軍隊核心。騎士精神可讓法蘭克玩家在短時間內創建一支<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >大軍。如果有至少五~九個<nuxt-link to="/building/Stable"
+                >馬廄</nuxt-link
+              >建議就直接研發騎士精神了。雖然研發的成本可以抵過五名騎兵，但如果玩家經濟許可就應該研究，獲得軍事生產的優勢。如果沒有足夠的馬廄而且城鎮遭受攻擊，那麼研發騎士精神加速量產<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >上場作戰也是可行的
             </li>
           </ul>
         </div>
@@ -62,7 +71,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
             </td>
@@ -96,11 +105,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>

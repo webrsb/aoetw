@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於特殊單位裝甲。而關於特殊單位請參見<nuxt-link
+            >這篇文章是將有關於<strong>特殊單位裝甲</strong>。而關於特殊單位請參見<nuxt-link
               to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             ></em
@@ -18,7 +18,12 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            特殊單位裝甲是一個防禦裝甲類別，所有在這個系列的兵種都會被剋特殊單位裝甲的兵種有額外的傷害。帝王駱駝騎兵和帝王戰矛兵不包含在特殊單位裝甲裡。
+            <strong>特殊單位裝甲</strong
+            >是一個防禦裝甲類別，所有在這個系列的兵種都會被剋特殊單位裝甲的兵種有額外的傷害。<nuxt-link
+              to="/units/Imperial_Camel"
+              >帝王駱駝騎兵</nuxt-link
+            >和<nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
+            >不包含在特殊單位裝甲裡。
           </p>
         </div>
         <h3>特殊單位</h3>

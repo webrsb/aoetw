@@ -43,7 +43,10 @@
           <div class="row">
             <div class="col-md-12">
               <p>
-                加查·馬達戰役由5個關卡組成。玩家扮演的是馬來人，顏色是紅色。
+                加查·馬達戰役由5個關卡組成。玩家扮演的是<nuxt-link
+                  to="/civs/Malay"
+                  >馬來人</nuxt-link
+                >，顏色是紅色。
               </p>
             </div>
             <div class="col-md-6">
@@ -125,7 +128,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Malay">馬來</nuxt-link>
             </td>

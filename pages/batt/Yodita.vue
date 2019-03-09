@@ -30,14 +30,21 @@
         </div>
         <h3>英雄</h3>
         <div class="hrn1"></div>
-        <div class="n1"><p>優娣忒 - 本章主角。</p></div>
+        <div class="n1">
+          <p>
+            <nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link> - 本章主角。
+          </p>
+        </div>
         <h3>關卡</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <div class="row">
             <div class="col-md-12">
               <p>
-                優娣忒戰役由5個關卡組成。玩家扮演的是衣索比亞人，顏色是綠色。
+                <b>優娣忒戰役</b>由5個關卡組成。玩家扮演的是<nuxt-link
+                  to="/civs/Ethiopians"
+                  >衣索比亞人</nuxt-link
+                >，顏色是綠色。
               </p>
             </div>
             <div class="col-md-6">
@@ -89,15 +96,21 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">衣索比亞</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">英雄</td>
-            <td class="unit4">優娣忒</td>
+            <td class="unit4">
+              <nuxt-link to="/units/hero/Yodit">優娣忒</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">關卡</td>

@@ -7,58 +7,96 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          投石機或稱巨型投石機是遊戲內最兇猛的遠程攻城武器，於<nuxt-link
-            to="/techs/age/Imperial_Age"
-            >帝王時代</nuxt-link
+          <b>投石機</b>或稱<b>巨型投石機</b>是遊戲內最兇猛的<nuxt-link
+            to="/armor/Armor_Class_Siege_Weapon"
+            >遠程攻城武器</nuxt-link
+          >，於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
           >可以在<nuxt-link to="/building/Castle">城堡</nuxt-link
-          >生產。其無與倫比的射程距離，可以摧毀絕大部分的建築。
+          >生產。其無與倫比的射程距離，可以摧毀絕大部分的<nuxt-link
+            to="/building"
+            >建築</nuxt-link
+          >。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            投石機高達１７的射程範圍，只有<nuxt-link to="/civs/Turks"
+            投石機高達17的射程範圍，只有<nuxt-link to="/civs/Turks"
               >土耳其</nuxt-link
             >的<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>與
             <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-            >勉強能與之抗衡。它是遊戲中攻擊最高的單位，而且對建築物有很高的加成傷害，但最重要的是它可以在安全的距離內摧毀敵人的城堡與火砲塔等危險的建築，其實也可以拿來打一些難纏的攻城武器，如
-            <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >與火砲，但投石機的準確率很低，拿來戰鬥的場面並不常見。
+            >勉強能與之抗衡。它是遊戲中攻擊最高的單位，而且對<nuxt-link
+              to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
+            >有很高的加成傷害，但最重要的是它可以在安全的距離內摧毀敵人的<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
+            >與<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+            >等危險的建築，其實也可以拿來打一些難纏的<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >，如
+            <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link>與<nuxt-link
+              to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
+            >，但投石機的準確率很低，拿來戰鬥的場面並不常見。
           </p>
           <p>
-            投石機剛從城堡訓練出來時，是以未組裝的型態出現。它必須花費大約７.5秒的時間去組裝，在此時間它無法攻擊或移動。不過如果要移動，可以立即取消組裝。日本人的特殊科技<nuxt-link
-              to="/techs/Kataparuto"
-              >彈射器</nuxt-link
-            >，研發後投石機組裝拆解(快4倍)和開火的速率(快33%)都加快。不過這項科技無法影響英雄單位
+            投石機剛從城堡訓練出來時，是以組裝的型態出現。它必須花費大約７.5秒的時間去拆裝，在此時間它無法攻擊或移動。不過如果要移動，可以立即取消拆裝。<nuxt-link
+              to="/civs/Japanese"
+              >日本人</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
+            >，研發後投石機組裝及拆裝(快4倍)和開火的速率(快33%)都加快。不過這項<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >無法影響<nuxt-link to="/units/hero">英雄</nuxt-link>單位
             <nuxt-link to="/units/hero/God_s_Own_Sling">神之弓</nuxt-link
             >與<nuxt-link to="/units/hero/Bad_Neighbor">壞鄰居</nuxt-link
             >，可能是因為平衡的關係，但無所謂，你幾乎不會使用到它。
           </p>
           <p>
-            投石機可以把樹木摧毀，只是效率非常的慢，投石車能更有效率地完成這項任務，不過<nuxt-link
-              to="/civs/Huns"
+            投石機可以把樹木摧毀，只是效率非常的慢，<nuxt-link
+              to="/units/Mangonel"
+              >投石車</nuxt-link
+            >能更有效率地完成這項任務，不過<nuxt-link to="/civs/Huns"
               >匈奴</nuxt-link
-            >與<nuxt-link to="/civs/Turks">土耳其</nuxt-link
-            >人沒有中型投石車，要摧毀樹木就必須倚靠投石機了。
+            >與<nuxt-link to="/civs/Turks">土耳其</nuxt-link>人沒有<nuxt-link
+              to="/units/Onager"
+              >中型投石車</nuxt-link
+            >，要摧毀樹木就必須倚靠投石機了。
           </p>
           <p>
-            投石機造價昂貴，且緩慢防禦又低，但是能摧毀路上的所有建築。跟所有攻城武器一樣，村民可以修復它。
+            投石機造價昂貴，且緩慢防禦又低，但是能摧毀路上的所有建築。跟所有攻城武器一樣，<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >可以修復它。
           </p>
           <p>
-            騎兵是攻擊投石機最好的單位，因為跑得快攻擊又高。因此保護投石機通常會用<nuxt-link
+            <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >是攻擊投石機最好的單位，因為跑得快攻擊又高。因此保護投石機通常會用<nuxt-link
               to="/units/Halberdier"
               >戟兵</nuxt-link
-            >或大量的弓箭手。由於投石機的遠防與血量都非常的高，遠距離單位對投石機的效果並不好。
+            >或大量的<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+            >。由於投石機的<nuxt-link to="/armor">遠防</nuxt-link>與<nuxt-link
+              to="/elements/Hit_points"
+              >血量</nuxt-link
+            >都非常的高，<nuxt-link to="/units/Archer_Units"
+              >遠距離單位</nuxt-link
+            >對投石機的效果並不好。
             攻城武器也可以拿來打擊投石機，因為有相當的加成，<nuxt-link
               to="/units/Siege_Ram"
               >重型衝撞車</nuxt-link
-            >甚至因為擴散攻擊，可以一次撞爆整排的投石機。如果真的沒有其他單位，那拿步兵來攻擊也可以，但因為速度的關係，其實不理想（
+            >甚至因為擴散攻擊，可以一次撞爆整排的投石機。如果真的沒有其他單位，那拿<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >來攻擊也可以，但因為速度的關係，其實不理想（
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、<nuxt-link
               to="/units/Woad_Raider"
               >菘藍武士</nuxt-link
             >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>與
             <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
-            >例外）。如果面對一群弓箭手，那最好將投石機展開，以等待救援，因為展開組裝後的投石機遠防將會高很多。
+            >例外）。如果面對一群弓箭手，那最好將投石機拆裝，以等待救援，因為拆裝後的投石機遠防將會高很多。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -95,7 +133,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -165,7 +205,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -198,17 +240,17 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Kataparuto"
                 >彈射器</nuxt-link
-              >:巨型投石機組裝/拆解速度加快四倍，<nuxt-link to="/civs/Japanese"
+              >:投石機組裝/拆裝速度加快四倍，<nuxt-link to="/civs/Japanese"
                 >日本</nuxt-link
               >限定
             </td>
           </tr>
         </table>
 
-        <h3>剋巨型投石機的單位與建築</h3>
+        <h3>剋投石機的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對巨型投石機的額外傷害，按造傷殺力排列。
+          以下單位擁有對投石機的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -382,20 +424,25 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：生產快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：巨型投石機攻擊速度快20%
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：投石機<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快20%
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對巨型投石機有利的科技在帝王時代便宜20%。
+              >：對投石機有利的科技在<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >：巨型投石機對單位命中率+35%。
+              >：投石機對單位命中率+35%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：巨型投石機黃金成本便宜15%。
+              >：投石機<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本便宜15%。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -413,7 +460,7 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠加速訓練巨型投石機和
+              >能夠加速訓練投石機和
               <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >的研究時間(快25%)。
             </li>
@@ -424,8 +471,10 @@
               >和 <nuxt-link to="/techs/Chemistry">化學</nuxt-link>的速度快80%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：巨型投石機對僧侶的招降有較好的抗性。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：投石機對<nuxt-link
+                to="/elements/Conversion"
+                >僧侶的招降</nuxt-link
+              >有較好的抗性。
             </li>
           </ul>
         </div>
@@ -448,7 +497,10 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li><nuxt-link to="/techs/Heresy"></nuxt-link>異端邪說引進。</li>
+            <li>
+              <nuxt-link to="/techs/Heresy"></nuxt-link
+              ><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。
+            </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：引進<nuxt-link
                 to="/techs/Warwolf"
@@ -479,7 +531,11 @@
               >能與之匹敵。
             </li>
             <li>
-              如果投石機在砲彈擊中目標前就收和，那麼目標就不會受到傷害，這在日本投石機研發過彈射器後很常見，算是一個BUG。
+              如果投石機在砲彈擊中目標前就收和，那麼目標就不會受到傷害，這在<nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >投石機研發過<nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
+              >後很常見，算是一個BUG。
             </li>
           </ul>
         </div>
@@ -487,7 +543,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            中世紀最強大的非火藥攻城器是巨型投石機，這是一種巨大的彈射器式的武器，有一個長長的投擲手臂和一個用繩索懸掛的吊袋，當手臂鬆開時，手臂向上向前揮動。作用在吊袋上的離心力增加了被釋放的炮彈射程和高度，投石車丟出的石頭會落在目標上，對牆壁，塔樓和其他建築物造成很大的損害，巨型投石機是昂貴複雜的機器，需要專家來建造和操作，他們在使用前需要進行零件和所需的組裝，英格蘭的愛德華一世拒絕蘇格蘭斯特林城堡的投降，因為這樣他可以觀看他最近獲得的巨型投石機對斯特林城堡的蹂躪。
+            中世紀最強大的非火藥攻城器是投石機，這是一種巨大的彈射器式的武器，有一個長長的投擲手臂和一個用繩索懸掛的吊袋，當手臂鬆開時，手臂向上向前揮動。作用在吊袋上的離心力增加了被釋放的炮彈射程和高度，投石車丟出的石頭會落在目標上，對牆壁，塔樓和其他建築物造成很大的損害，巨型投石機是昂貴複雜的機器，需要專家來建造和操作，他們在使用前需要進行零件和所需的組裝，英格蘭的愛德華一世拒絕蘇格蘭斯特林城堡的投降，因為這樣他可以觀看他最近獲得的投石機對斯特林城堡的蹂躪。
           </p>
         </div>
       </div>
@@ -519,7 +575,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -583,12 +639,16 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">10</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">6</td>
           </tr>
           <tr></tr>
@@ -612,15 +672,15 @@
             <td class="unit4">3.5</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
-            <td class="unit4">2(未組裝) <br />1(攻擊姿態)</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
+            <td class="unit4">2(組裝)<br />1(攻擊姿態)</td>
           </tr>
           <tr>
             <td class="unit3">遠防</td>
-            <td class="unit4">8(未組裝) <br />150(攻擊姿態)</td>
+            <td class="unit4">8(拆裝) <br />150(攻擊姿態)</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
@@ -633,7 +693,7 @@
             <td class="unit4">0.8</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">19</td>
           </tr>
         </table>
@@ -648,19 +708,19 @@
             <gallery
               ><img class="imgn hg" src="~assets/Trebpacked.png" alt=""
             /></gallery>
-            <p><em>普通的投石機</em></p>
+            <p><em>組裝的投石機</em></p>
           </div>
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Trebunpacket.jpg" alt=""
             /></gallery>
-            <p><em>組裝好的投石機</em></p>
+            <p><em>拆裝的投石機</em></p>
           </div>
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Trebdamaged.jpg" alt=""
             /></gallery>
-            <p><em>巨型投石機受傷時會像建築物一樣起火</em></p>
+            <p><em>投石機受傷時會像建築物一樣起火</em></p>
           </div>
         </div>
       </div>

@@ -8,7 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            房屋是遊戲內最重要的建築之一。它提供5的居住人口讓玩家訓練村民和軍隊使用，不過被摧毀時玩家也會失去5的人口上限(<nuxt-link
+            <b>房屋</b>是遊戲內最重要的<nuxt-link to="/building">建築</nuxt-link
+            >之一。它提供5的居住人口讓玩家訓練<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >和軍隊使用，不過被摧毀時玩家也會失去5的人口上限(<nuxt-link
               to="/civs/Mongols"
               >蒙古</nuxt-link
             >研發
@@ -17,7 +20,11 @@
           </p>
           <p>
             除了<nuxt-link to="/civs/Huns">匈奴人</nuxt-link
-            >之外的所有文明都可以建造房屋，匈奴人遊戲一開始就是最高人口上限，不過木材會少100。
+            >之外的所有<nuxt-link to="/civs">文明</nuxt-link
+            >都可以建造房屋，<nuxt-link to="/civs/Huns">匈奴人</nuxt-link
+            >遊戲一開始就是最高人口上限，不過<nuxt-link to="/resource/Wood"
+              >木材</nuxt-link
+            >會少100。
           </p>
         </div>
         <h3>戰術</h3>
@@ -26,14 +33,19 @@
           <div class="col-md-12">
             <div class="n1">
               <li>
-                除了城牆之外，房子是遊戲中最便宜的建築物。其功能是增加人口容量。在<nuxt-link
-                  to="/techs/age/Dark_Age"
+                除了<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
+                >之外，房子是遊戲中最便宜的<nuxt-link to="/building"
+                  >建築物</nuxt-link
+                >。其功能是增加人口容量。在<nuxt-link to="/techs/age/Dark_Age"
                   >黑暗時代</nuxt-link
                 >，房子是玩家應該建造的第一座建築（除非他們扮演的是
                 <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>或<nuxt-link
                   to="/civs/Chinese"
                   >中國人</nuxt-link
-                >）。事實上，除了建立新的村民和收集食物之外，建造房屋應該是首先要做的事情。在推進至
+                >）。事實上，除了建立新的村民和收集<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >之外，建造房屋應該是首先要做的事情。在推進至
                 <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
                 >之前，建議至少建造四座房屋。
               </li>
@@ -46,7 +58,10 @@
                 <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
                 >，<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
                 >或<nuxt-link to="/building/Castle">城堡</nuxt-link
-                >中進駐，駐守在房屋內的村民不能射箭）。這有助於高棉玩家減少村民損失，所以建議在繁忙的工作地點旁邊建造房屋。而且，如果他們想用房屋替代牆壁，他們可以透過駐守房子在把村民放出來移動到玩家的城鎮裡。
+                >中進駐，駐守在房屋內的村民不能射箭）。這有助於<nuxt-link
+                  to="/civs/Khmer"
+                  >高棉</nuxt-link
+                >玩家減少村民損失，所以建議在繁忙的工作地點旁邊建造房屋。而且，如果他們想用房屋替代牆壁，他們可以透過駐守房子在把村民放出來移動到玩家的城鎮裡。
               </li>
               <li>
                 房屋通常以成群的形式建成，以節省建築物和資源開采的空間。這樣可以優化單位在鎮上的路線，但是這也使得他們特別容易受到<nuxt-link
@@ -82,7 +97,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -118,7 +135,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -136,7 +153,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">招降抵抗</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -190,11 +209,20 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：房屋在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。
+              >：房屋在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >多10%/20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：在封建/城堡/帝王時代，對房屋有加成的科技價格便宜10%/15％/20％。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：在封建/<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代，對房屋有加成的<nuxt-link to="/techs">科技</nuxt-link
+              >價格便宜10%/15％/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link
@@ -235,7 +263,13 @@
           </h3>
           <ul>
             <li>房屋現在花費25木材。</li>
-            <li>房屋的HP在黑暗/封建/城堡/帝王的HP分別為550/750/900/900。</li>
+            <li>
+              房屋的HP在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >的HP分別為550/750/900/900。
+            </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
                 to="/techs/Nomads"
@@ -255,7 +289,12 @@
               alt=""
           /></gallery>
           <div class="lightbox-caption" style="width:220px">
-            <p><em>所有黑暗時代的房屋。</em></p>
+            <p>
+              <em
+                >所有<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+                >的房屋。</em
+              >
+            </p>
           </div>
         </div>
         <div class="col-md-4">
@@ -267,7 +306,14 @@
               alt=""
           /></gallery>
           <div class="lightbox-caption" style="width:220px">
-            <p><em>所有封建時代的房屋(帝王世紀和征服者入侵資料片)。</em></p>
+            <p>
+              <em
+                >所有<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+                >的房屋(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                >資料片)。</em
+              >
+            </p>
           </div>
         </div>
         <div class="col-md-4">
@@ -291,7 +337,12 @@
               alt=""
           /></gallery>
           <div class="lightbox-caption" style="width:185px">
-            <p><em>所有城堡時代的房屋(帝王世紀和征服者入侵資料片)。</em></p>
+            <p>
+              <em
+                >所有<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                >的房屋(帝王世紀和征服者入侵資料片)。</em
+              >
+            </p>
           </div>
         </div>
         <div class="col-md-4">
@@ -435,7 +486,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠程護甲</td>
+            <td class="unit3"><nuxt-link to="/armor">遠程護甲</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"

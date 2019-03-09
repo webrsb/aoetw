@@ -9,7 +9,10 @@
         <div class="n1">
           <p>
             可生產於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >，為<nuxt-link to="/civs/Malay">馬來</nuxt-link>的特殊單位。
+            >，為<nuxt-link to="/civs/Malay">馬來</nuxt-link>的<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >。
           </p>
           <p>
             在遊戲裡只佔半個人口的的單位，是兼具便宜和快速的單位，缺點是過於脆弱。
@@ -19,16 +22,38 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            爪刀勇士是人海戰術的最佳單位，因他們很便宜(只需要15黃金比民兵還便宜)，每單位又只佔半個人口。而且移動速度又快因此在打人海戰術是首選單位。也因此為了平衡這些優勢他們本身是非常脆弱的。以人海戰術上也要避免，對步兵極大傷害的兵種(火槍兵、拜占庭聖騎士)等對抗。
+            <b>爪刀勇士</b>是人海戰術的最佳單位，因他們很便宜(只需要15<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >比<nuxt-link to="/units/Militia">民兵</nuxt-link
+            >還便宜)，每單位又只佔半個人口。而且移動速度又快因此在打人海戰術是首選單位。也因此為了平衡這些優勢他們本身是非常脆弱的。以人海戰術上也要避免，對<nuxt-link
+              to="/armor/Armor_Class_Infantry"
+              >步兵</nuxt-link
+            >極大傷害的兵種(<nuxt-link to="/units/Hand_Cannoneer"
+              >火槍兵</nuxt-link
+            >、<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>聖<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >)等對抗。
           </p>
           <p>
-            爪刀勇士相當剋僧侶，因為他可以輕易地殺了僧侶，而僧侶招降他卻相當不划算。
+            爪刀勇士相當剋<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >，因為他可以輕易地殺了僧侶，而僧侶<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >他卻相當不划算。
           </p>
           <p>
-            他也是騷擾戰術也是很優質的選擇之一，一群的爪刀勇士可以擊殺沒有保護的村民或破壞重要據點(精英有對建築而外傷害)。另外的是爪刀勇士因為可以海量產出，生產速度又快因此可以用來閃電攻擊或者是快速集結保護自家城鎮據點。
+            他也是騷擾戰術也是很優質的選擇之一，一群的爪刀勇士可以擊殺沒有保護的<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >或破壞重要據點(精英有對<nuxt-link to="/building">建築</nuxt-link
+            >而外傷害)。另外的是爪刀勇士因為可以海量產出，生產速度又快因此可以用來閃電攻擊或者是快速集結保護自家城鎮據點。
           </p>
           <p>
-            經濟成形的爪刀勇士海幾乎什麼都不怕，連遊俠都可以殺，終究其原因就是速度快又便宜而且只佔半個人口。
+            經濟成形的爪刀勇士海幾乎什麼都不怕，連<nuxt-link to="/units/Paladin"
+              >遊俠</nuxt-link
+            >都可以殺，終究其原因就是速度快又便宜而且只佔半個人口。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -74,7 +99,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -144,7 +171,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -344,11 +373,13 @@
               >的研究時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              ><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>、<nuxt-link
+                to="/techs/Squires"
+                >護衛</nuxt-link
+              >、 <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -363,11 +394,20 @@
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>最初爪刀勇士遠防為2，攻擊為5。</li>
+            <li>
+              最初爪刀勇士<nuxt-link to="/armor">遠防</nuxt-link>為2，攻擊為5。
+            </li>
             <li>5.3版後遠防減少到1。</li>
             <li>5.5版後攻擊增加到6。</li>
-            <li>最初精銳爪刀勇士有8的攻擊，5.7版後減少為7。</li>
-            <li>5.8版後花費25F 10G → 30F 15G</li>
+            <li>
+              最初<nuxt-link to="/units/Karambit_Warrior"
+                >精銳爪刀勇士</nuxt-link
+              >有8的攻擊，5.7版後減少為7。
+            </li>
+            <li>
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後花費25F 10G → 30F
+              15G
+            </li>
           </ul>
         </div>
         <h3>瑣事</h3>
@@ -382,7 +422,11 @@
               >、<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>與
               <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>並列。
             </li>
-            <li>爪刀勇士與彎刀勇士是遊戲中唯二手拿兩件武器的單位。</li>
+            <li>
+              爪刀勇士與<nuxt-link to="/units/Shotel_Warrior"
+                >彎刀勇士</nuxt-link
+              >是遊戲中唯二手拿兩件武器的單位。
+            </li>
             <li>
               遊戲中的爪刀看起來像人的手臂一樣大。然後實際上爪刀沒那麼大，大概只有手掌的大小而已。
             </li>
@@ -420,7 +464,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Malay">馬來</nuxt-link></td>
           </tr>
           <tr>
@@ -467,7 +511,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">30/40(精銳)</td>
           </tr>
           <tr>
@@ -487,11 +533,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0/1(精英)</td>
           </tr>
           <tr>
@@ -499,8 +547,13 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵，特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>

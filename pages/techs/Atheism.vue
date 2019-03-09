@@ -8,14 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            無神論是<nuxt-link to="/civs/Huns">匈奴</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>無神論</b>是<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
             >、<nuxt-link to="/Relic">遺跡</nuxt-link>倒數時間增加100年，
-            <nuxt-link to="/techs/Spies">間諜/叛國者</nuxt-link>科技便宜50%。
+            <nuxt-link to="/techs/Spies">間諜/叛國者</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link>便宜50%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,10 +25,22 @@
           <ul>
             <li>無神論的效果會影響所有玩家而非只有研發科技的玩家本身。</li>
             <li>
-              研發無神論的時機是看遊戲的進展，而且如果是死鬥模式那無神論便一無是處。如果勝利條件為"世界奇觀"或"遺跡"，額外的一百年搭配匈奴人對建築物的攻擊加成讓敵方玩家看到匈奴人時都會頭痛不已。
+              研發無神論的時機是看遊戲的進展，而且如果是死鬥模式那無神論便一無是處。如果勝利條件為"世界奇觀"或"遺跡"，額外的一百年搭配<nuxt-link
+                to="/civs/Huns"
+                >匈奴人</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >的攻擊加成讓敵方玩家看到匈奴人時都會頭痛不已。
             </li>
             <li>
-              另外間諜/叛國者科技便宜50%可讓匈奴人以較低的花費監視敵方動向。其他文明則因為成本過高通常都不會研發該科技(每個敵隊村民耗費200黃金，最高30000黃金)。
+              另外<nuxt-link to="/techs/Spies">間諜/叛國者</nuxt-link
+              >科技便宜50%可讓匈奴人以較低的花費監視敵方動向。其他<nuxt-link
+                to="/civs"
+                >文明</nuxt-link
+              >則因為成本過高通常都不會研發該科技(每個敵隊<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >耗費200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >，最高30000黃金)。
             </li>
           </ul>
         </div>
@@ -47,7 +60,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            匈奴的異教信仰或無神論觸犯了羅馬人，他們認為匈奴人是真正的次人類。
+            <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+            >的異教信仰或無神論觸犯了羅馬人，他們認為匈奴人是真正的次人類。
             反過來，匈奴人也沒有受到結構化宗教法律的阻礙。社會和宗教秩序的法律對於一直在移動的文明來說太嚴格了。匈奴人對紀念碑和文物幾乎沒有信仰，因此，他們主要相信當下和所在的地方。
           </p>
         </div>
@@ -106,7 +120,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
           <tr>
@@ -121,7 +137,10 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              世界奇觀、遺跡倒數時間增加100年，間諜/叛國者科技便宜50%。
+              <nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>、<nuxt-link
+                to="/Relic"
+                >遺跡</nuxt-link
+              >倒數時間增加100年，間諜/叛國者科技便宜50%。
             </td>
           </tr>
         </table>

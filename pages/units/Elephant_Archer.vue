@@ -8,16 +8,22 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            象弓騎兵是資料片中印度的特殊單位，能夠在<nuxt-link
-              to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>象弓騎兵</b>是資料片中<nuxt-link to="/civs/Indians"
+              >印度</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。是個速度慢但有重裝甲和高生命值的騎象射手。
+            >中訓練。是個速度慢但有重裝甲和高<nuxt-link
+              to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >的騎象<nuxt-link to="/units/Archer_Units">射手</nuxt-link>。
           </p>
           <p>
             象弓騎兵可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳象弓騎兵。
+            >升級為<nuxt-link to="/units/Elephant_Archer"
+              >精銳象弓騎兵</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -25,20 +31,45 @@
         <div class="n1">
           <ul>
             <li>
-              象弓騎兵具有很高的HP和遠程護甲，造成的傷害和馬弓騎兵一樣多，但開火速度較低，也像所有的大象一樣移動速度慢，但比戰像還要快。
+              象弓騎兵具有很高的HP和<nuxt-link to="/armor">遠程護甲</nuxt-link
+              >，造成的傷害和<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >一樣多，但開火速度較低，也像所有的大象一樣移動速度慢，但比戰像還要快。
             </li>
             <li>
-              象弓騎兵擁有比任何其他弓箭手更多的HP，包括馬戰車。他們融合了戰象的耐打和馬弓騎兵的射程及攻擊力。極高的HP和遠程護甲使讓象弓騎兵像一座移動的箭塔，而且也能對付弓兵和建築物，還可以被僧侶治療。不過他們非常怕長槍兵和僧侶(印度缺乏異端邪說)，不過他們還是能用遠距離對付這兩個單位。
+              象弓騎兵擁有比任何其他<nuxt-link to="/units/Archer"
+                >弓箭手</nuxt-link
+              >更多的HP，包括<nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link
+              >。他們融合了<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >的耐打和馬弓騎兵的射程及<nuxt-link to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >。極高的HP和遠程護甲使讓象弓騎兵像一座移動的<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >，而且也能對付<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >和<nuxt-link to="/building">建築物</nuxt-link
+              >，還可以被<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >治療。不過他們非常怕<nuxt-link to="/units/Spearman"
+                >長槍兵</nuxt-link
+              >和僧侶(印度缺乏<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
+              >)，不過他們還是能用遠距離對付這兩個單位。
             </li>
             <li>
               象弓騎兵是一個高度情境化且很少使用的單位。這主要有三個原因：
             </li>
             <p>他們成本高難以量產，然而弓箭手要一定數量傷害才夠。</p>
             <p>
-              速度慢讓他們沒法逃離步兵或戰矛兵的追擊，一旦讓戟兵追上他們就只能任憑宰割。
+              速度慢讓他們沒法逃離<nuxt-link to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >或<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >的追擊，一旦讓<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >追上他們就只能任憑宰割。
             </p>
             <p>
-              象弓騎兵在裝甲分類上有五個分類，這讓他們的對手可以輕易地根據自己的文明和遊戲策略選擇有效對付象弓騎兵的單位。
+              象弓騎兵在裝甲分類上有五個分類，這讓他們的對手可以輕易地根據自己的<nuxt-link
+                to="/civs"
+                >文明</nuxt-link
+              >和遊戲策略選擇有效對付象弓騎兵的單位。
             </p>
           </ul>
         </div>
@@ -58,7 +89,18 @@
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              重裝長槍兵、槍隊長、、狂戰士、熱那亞弩手、哥德衛隊、奴隸兵、駱駝騎兵、戰矛兵、鷹勇士、日本武士、僧侶。
+              <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link
+                to="/units/Kamayuk"
+                >槍隊長</nuxt-link
+              >、、<nuxt-link to="/units/Berserk">狂戰士</nuxt-link>、<nuxt-link
+                to="/units/Genoese_Crossbowman"
+                >熱那亞弩手</nuxt-link
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
+                to="/units/Mameluke"
+                >奴隸兵</nuxt-link
+              >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >、戰矛兵、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link>、僧侶。
             </td>
           </tr>
           <tr class="tta">
@@ -121,7 +163,9 @@
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
-                >(+2對長槍兵)
+                >(+2對<nuxt-link to="/armor/Armor_Class_Spearman"
+                  >長槍兵</nuxt-link
+                >)
               </p>
             </td>
           </tr>
@@ -237,7 +281,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <p>
                 <img
@@ -354,9 +400,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+14攻擊</strong></div>
@@ -718,7 +764,8 @@
                   </ul>
                 </div>
               </div>
-              以下團隊加分可讓以下單位對象弓騎兵有額外攻擊力
+              以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+              >可讓以下單位對象弓騎兵有額外攻擊力
               <div class="n1">
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
                 >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -752,19 +799,30 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高象弓騎兵的生產速度還有加速徵兵制度的研究時間(快25%)
+              >能夠提高象弓騎兵的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
+              >的研究時間(快25%)
             </li>
             <li>
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：研究拇指環和帕提亞戰術速度快20%。
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：研究<nuxt-link
+                to="/techs/Thumb_Ring"
+                >拇指環</nuxt-link
+              >和<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >：研究品種和畜牧培育速度快80%。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：研究<nuxt-link
+                to="/techs/Bloodlines"
+                >品種</nuxt-link
+              >和<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >速度快80%。
             </li>
             <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：研究化學和彈道學速度快80%。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
+                to="/techs/Chemistry"
+                >化學</nuxt-link
+              >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>速度快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -781,7 +839,8 @@
           <ul>
             <li>
               <nuxt-link to="/news/ver-5.8">5.8版</nuxt-link
-              >後，象弓騎兵對弓兵防禦類型 -2 → 0，對反弓兵防禦類型0 → -2
+              >後，象弓騎兵對弓兵<nuxt-link to="/armor">防禦類型</nuxt-link> -2
+              → 0，對反弓兵防禦類型0 → -2
             </li>
           </ul>
         </div>
@@ -866,11 +925,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
@@ -883,12 +946,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">280，330(精銳)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">6/7(精銳)(遠程)</td>
+            <td class="unit4">
+              6/7(精銳)(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -901,11 +968,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.5</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -921,11 +992,11 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
@@ -950,7 +1021,7 @@
             <td class="unit4">0.8</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
           <tr>

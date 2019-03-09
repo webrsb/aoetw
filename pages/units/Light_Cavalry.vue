@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            輕騎兵是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>輕騎兵</b>是<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link>，對
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>、<nuxt-link
               to="/units/Siege_Weapons"
@@ -94,7 +95,11 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          城堡時代的輕騎兵是較弱勢的兵種，但若能利用其速度與兵種相剋，利用突襲的戰術也可以給予對手致命的打擊。尤其對方打出僧侶爆時，請毫不猶豫的研發輕騎兵科技。
+          <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+          >的輕騎兵是較弱勢的兵種，但若能利用其速度與兵種相剋，利用突襲的戰術也可以給予對手致命的打擊。尤其對方打出<nuxt-link
+            to="/units/Monk"
+            >僧侶</nuxt-link
+          >爆時，請毫不猶豫的研發輕騎兵<nuxt-link to="/techs">科技</nuxt-link>。
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -130,7 +135,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
               <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
@@ -147,7 +154,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -171,14 +180,14 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Farimba"
                 >驃悍精神</nuxt-link
-              >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >限定 <br />
+              >：<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              >單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定
+              <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
-              >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
-              >和
+              >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>和
               <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
@@ -222,7 +231,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img src="~assets/Faith.jpg" width="30" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -302,9 +313,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -432,7 +443,9 @@
               </div>
             </div>
           </div>
-          以下技術可讓以下單位對斥候有額外攻擊力
+          以下技術可讓以下單位對<nuxt-link to="/units/Scout_Cavalry"
+            >斥候</nuxt-link
+          >有額外攻擊力
           <div class="n1">
             <img
               class="gg"
@@ -500,8 +513,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：城堡/帝王時代各便宜15/20%。(4.8版本前是都20%)
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15/20%。(4.8版本前是都20%)
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
@@ -511,17 +527,20 @@
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
+              >：只要在一個塞爾特單位的<nuxt-link to="/los.php">視野</nuxt-link
+              >下，羊群不會被牽走
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技研發在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：科技研發在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >：輕騎兵血量多20%，研發<nuxt-link to="/techs/Chivalry"
-                >騎士精神</nuxt-link
-              >後
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：輕騎兵<nuxt-link
+                to="/elements/Hit_points"
+                >血量</nuxt-link
+              >多20%，研發<nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link>後
               <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發速度快40%
             </li>
             <li>
@@ -537,7 +556,7 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >升級科技免黃金
+              >升級科技免<nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -615,7 +634,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >:輕騎兵也能受到文明加成+20%HP。
+              >:輕騎兵也能受到<nuxt-link to="/civs">文明</nuxt-link>加成+20%HP。
             </li>
           </ul>
           <h3>
@@ -633,7 +652,11 @@
         <div class="n1">
           <ul>
             <li>
-              一旦到了封建時代，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
+              一旦到了<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+              >，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或<nuxt-link
+                to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >更快。
             </li>
           </ul>
         </div>
@@ -644,10 +667,16 @@
             輕騎兵是騎馬的輕裝部隊，與穿著沉重鎧甲（有時包括馬）重騎兵相對，輕騎兵的主要任務基本上是偵查、掩護、散兵、突襲，並且他們裝備矛、劍、弓和之後出現的手槍。
           </p>
           <p>
-            古希臘和古羅馬，較少運用輕騎兵，儘管羅馬輔助部隊經常騎馬，但是中亞遊牧民族卻經常使用輕騎兵。而匈奴、突厥、蒙古人和馬扎爾人都很擅長輕騎兵和弓騎兵。
+            古希臘和古羅馬，較少運用輕騎兵，儘管羅馬輔助部隊經常騎馬，但是中亞遊牧民族卻經常使用輕騎兵。而<nuxt-link
+              to="/civs/Huns"
+              >匈奴</nuxt-link
+            >、突厥、<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
+            >和<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            >人都很擅長輕騎兵和弓騎兵。
           </p>
           <p>
-            隨著歐洲封建制度及騎士的沒落，在歐洲大陸中，輕騎兵成為重要的作戰部隊。許多輕騎兵都裝備了火器以替代老式的弓箭。
+            隨著歐洲封建制度及<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >的沒落，在歐洲大陸中，輕騎兵成為重要的作戰部隊。許多輕騎兵都裝備了火器以替代老式的弓箭。
             歐洲人使用輕騎兵的例子還包括斯抓迪亞特、哈伯勒、驃騎兵、、哥薩克、及一些龍騎兵。
           </p>
         </div>
@@ -713,7 +742,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>

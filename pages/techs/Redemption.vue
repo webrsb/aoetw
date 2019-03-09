@@ -8,25 +8,36 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            信仰救贖於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>信仰救贖</b>於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link> 研發後可讓
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >招降攻城單位和大部分的敵方單位。
+            ><nuxt-link to="/elements/Conversion">招降</nuxt-link
+            ><nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
+            >和大部分的敵方單位。
           </p>
           <p>
-            所有建築物包含<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+            所有<nuxt-link to="/building">建築物</nuxt-link>包含<nuxt-link
+              to="/units/Trebuchet"
+              >巨型投石機</nuxt-link
             >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >都不能從遠處直接招降，僧侶和傳教士必須站在他們身邊才能進行招降，其他攻城武器(
-            <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
+            >都不能從遠處直接招降，<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+            >必須站在他們身邊才能進行招降，其他<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >( <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
               to="/units/Mangonel"
               >投石車</nuxt-link
             >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
-            >)皆可從遠處直接招降 配上此科技後，僧侶搭配<nuxt-link
-              to="/units/Crossbowman"
+            >)皆可從遠處直接招降 配上此<nuxt-link to="/techs">科技</nuxt-link
+            >後，僧侶搭配<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >將顯得相當難纏，因為僧侶可以處理<nuxt-link to="/units/Crossbowman"
               >弩兵</nuxt-link
-            >將顯得相當難纏，因為僧侶可以處理弩兵懼怕的投石車，唯獨需先研發
+            >懼怕的<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+            >，唯獨需先研發
             <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link
             >，以免被投石車一發打死。
           </p>
@@ -39,7 +50,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -157,8 +170,11 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -225,7 +241,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">475</td>
           </tr>
           <tr>

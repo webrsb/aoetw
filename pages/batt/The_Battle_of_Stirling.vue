@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>斯特林之役</b
-            >是華勒斯教學戰役的第五個劇情關卡，此關模擬隨機地圖的方式作戰。
+            <b>斯特林之役</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
+            >的第五個劇情關卡，此關模擬隨機地圖的方式作戰。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +19,18 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">黑暗時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">500木材，400食物，500 黃金，400石頭</td>
+              <td class="tc2">
+                500<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >，400<nuxt-link to="/resource/Food">食物</nuxt-link>，500
+                <nuxt-link to="/resource/Gold">黃金</nuxt-link>，400<nuxt-link
+                  to="/resource/Stone"
+                  >石頭</nuxt-link
+                >
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -44,14 +53,21 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
-              <td class="tc6">英格蘭（紅色）不列顛</td>
+              <td class="tc6">
+                英格蘭（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <br />
           <dl class="dl-horizontal">
             <dt>開場：</dt>
-            <dd>3位村民、1位斥候。</dd>
+            <dd>
+              3位<nuxt-link to="/units/Villager">村民</nuxt-link>、1位<nuxt-link
+                to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
+              >。
+            </dd>
             <dt>大地之母單位：</dt>
             <dd>無。</dd>
           </dl>
@@ -59,7 +75,12 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>擊敗英格蘭軍隊以及摧毀他們的箭塔。</li>
+              <li>
+                擊敗英格蘭軍隊以及摧毀他們的<nuxt-link
+                  to="/building/Watch_Tower"
+                  >箭塔</nuxt-link
+                >。
+              </li>
             </ol>
           </div>
         </div>
@@ -76,7 +97,14 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              就像在之前的關卡中一樣，有一種方法可以在不破壞箭塔的情況下贏得遊戲。殺死所有英國士兵後，玩家必須從他村莊周圍的森林中砍筏樹林，並派出軍隊到英軍營地北面。將有一個弓兵被樹木包圍。殺死他後，英軍將自動被擊敗。
+              就像在之前的關卡中一樣，有一種方法可以在不破壞箭塔的情況下贏得遊戲。殺死所有<nuxt-link
+                to="/civs/Britons"
+                >英國</nuxt-link
+              >士兵後，玩家必須從他村莊周圍的森林中砍筏樹林，並派出軍隊到英<nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >地北面。將有一個<nuxt-link to="/units/Archer">弓兵</nuxt-link
+              >被樹木包圍。殺死他後，英軍將自動被擊敗。
             </li>
             <li>在整個遊戲中，速度不能改變。</li>
             <li>儘管此關是斯特林大橋之戰，同名的斯特林大橋卻缺席。</li>
@@ -118,7 +146,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
             </td>
@@ -132,7 +160,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第一章之五</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第一章之五
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

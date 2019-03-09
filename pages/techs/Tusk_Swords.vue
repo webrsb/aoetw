@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            象牙劍是<nuxt-link to="/civs/Khmer">高棉</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>象牙劍</b>是<nuxt-link to="/civs/Khmer">高棉</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
@@ -23,14 +22,24 @@
         <div class="n1">
           <ul>
             <li>
-              高棉的大象在象牙劍的加乘下變得除了有速度且更具殺傷力。高棉的還有全滿的<nuxt-link
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >的大象在象牙劍的加乘下變得除了有速度且更具殺傷力。高棉的還有全滿的<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >科技、
+              ><nuxt-link to="/techs">科技</nuxt-link>、
               <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>和<nuxt-link
                 to="/techs/Husbandry"
                 >畜牧培育</nuxt-link
-              >可以加在大象身上。如果玩家在初期想以矛象伕作為城堡時代的主要單位，象牙劍也許可以比鍛造技術優先研發。但在一般情況下應該將其看作一項兵工廠技術並在
+              >可以加在大象身上。如果玩家在初期想以<nuxt-link
+                to="/units/Battle_Elephant"
+                >矛象伕</nuxt-link
+              >作為<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >的主要單位，象牙劍也許可以比<nuxt-link to="/techs/Forging"
+                >鍛造</nuxt-link
+              >技術優先研發。但在一般情況下應該將其看作一項<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >技術並在
               <nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和<nuxt-link
                 to="/techs/Blast_Furnace"
                 >鼓風爐</nuxt-link
@@ -81,7 +90,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Khmer">高棉</nuxt-link></td>
           </tr>
           <tr>
@@ -113,11 +122,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

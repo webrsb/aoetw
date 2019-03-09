@@ -10,10 +10,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            猶加敦有豐富的食物資源，靠近城鎮中心有更多鹿、綿羊及漿果叢供玩家利用。豐富的資源讓玩家可以進行大規模戰鬥，晚期強盛的文明如<nuxt-link
-              to="/civs/Spanish"
-              >西班牙</nuxt-link
-            >或<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+            <b>猶加敦</b>有豐富的<nuxt-link to="/resource/Food">食物</nuxt-link
+            >資源，靠近<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >有更多鹿、<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
+            >及漿果叢供玩家利用。豐富的資源讓玩家可以進行大規模戰鬥，晚期強盛的<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >如<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>或<nuxt-link
+              to="/civs/Byzantines"
+              >拜占庭</nuxt-link
             >或有後期強大單位的文明在這張圖上有更多的優勢。
           </p>
         </div>

@@ -8,20 +8,28 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            村民訓練於<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+            <b>村民</b>訓練於<nuxt-link to="/techs/age/Dark_Age"
+              >黑暗時代</nuxt-link
             >的<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >，村民作為唯一能夠建築與收集資源的單位，是所有文明的核心單位，男女性別隨機出現
+            >，村民作為唯一能夠建築與收集資源的單位，是所有<nuxt-link to="/civs"
+              >文明</nuxt-link
+            >的核心單位，男女性別隨機出現
           </p>
           <p>
             所有文明開始時都有三位村民，除了<nuxt-link to="/civs/Chinese"
               >中國人</nuxt-link
             >和<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
-            >(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的攻城武器，或於前線建造軍事建築物來加強軍隊。
+            >(初始時分別擁有六個與四個村民)雖然他們在戰鬥中作用不大，且會在遭到攻擊時停止一切作業，但他們能夠修復受損的<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >，或於前線建造軍事<nuxt-link to="/building">建築物</nuxt-link
+            >來加強軍隊。
           </p>
           <p>
-            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>的特殊科技<nuxt-link
-              to="/techs/Supremacy"
-              >霸權</nuxt-link
+            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>的<nuxt-link
+              to="/techs/untech"
+              >特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Supremacy">霸權</nuxt-link
             >，能夠讓村民具有戰鬥力。
           </p>
         </div>
@@ -32,12 +40,33 @@
           <ul>
             <li>村民 - 攻擊敵方單位或建築物或野生動物</li>
             <li>建築工 - 建造建築物</li>
-            <li>農夫 - 從農田收集食物</li>
-            <li>漁夫 - 從魚類收集食物</li>
+            <li>
+              <nuxt-link to="/units/Villager">農夫</nuxt-link> - 從<nuxt-link
+                to="/building/Farm"
+                >農田</nuxt-link
+              >收集<nuxt-link to="/resource/Food">食物</nuxt-link>
+            </li>
+            <li>
+              漁夫 - 從<nuxt-link to="/units/animal/fish">魚類</nuxt-link
+              >收集食物
+            </li>
             <li>漿果收集員 - 從灌木叢收集食物</li>
-            <li>伐木工 - 從樹收集木材</li>
-            <li>礦工 - 從金礦或石礦收集黃金或石頭</li>
-            <li>牧羊人 - 召集綿羊至城鎮中心或是磨坊旁，殺死綿羊收集食物</li>
+            <li>
+              伐木工 - 從樹收集<nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </li>
+            <li>
+              礦工 - 從金礦或<nuxt-link to="/resource/Stone">石礦</nuxt-link
+              >收集<nuxt-link to="/resource/Gold">黃金</nuxt-link>或<nuxt-link
+                to="/resource/Stone"
+                >石頭</nuxt-link
+              >
+            </li>
+            <li>
+              牧羊人 - 召集<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
+              >至<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+              >或是<nuxt-link to="/building/Mill">磨坊</nuxt-link
+              >旁，殺死綿羊收集食物
+            </li>
             <li>獵人 - 攻擊並從野生動物中收集食物</li>
           </ul>
           <li>修理工 - 修復建築物</li>
@@ -64,7 +93,9 @@
               <td class="tta3">0.39</td>
             </tr>
             <tr>
-              <td class="ttb1">土耳其礦工</td>
+              <td class="ttb1">
+                <nuxt-link to="/civs/Turks">土耳其</nuxt-link>礦工
+              </td>
               <td class="ttb2">黃金</td>
               <td class="ttb3">0.455</td>
             </tr>
@@ -74,7 +105,9 @@
               <td class="tta3">0.379</td>
             </tr>
             <tr>
-              <td class="ttb1">韓國礦工</td>
+              <td class="ttb1">
+                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>礦工
+              </td>
               <td class="ttb2">石頭</td>
               <td class="ttb3">0.431</td>
             </tr>
@@ -84,12 +117,16 @@
               <td class="tta3">0.359</td>
             </tr>
             <tr>
-              <td class="ttb1">蒙古獵人</td>
+              <td class="ttb1">
+                <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>獵人
+              </td>
               <td class="ttb2">食物</td>
               <td class="ttb3">0.612</td>
             </tr>
             <tr>
-              <td class="ttb1">印度漁夫</td>
+              <td class="ttb1">
+                <nuxt-link to="/civs/Indians">印度</nuxt-link>漁夫
+              </td>
               <td class="ttb2">食物</td>
               <td class="ttb3">0.490</td>
             </tr>
@@ -99,7 +136,9 @@
               <td class="tta3">0.426</td>
             </tr>
             <tr>
-              <td class="ttb1">不列顛牧羊人</td>
+              <td class="ttb1">
+                <nuxt-link to="/civs/Britons">不列顛</nuxt-link>牧羊人
+              </td>
               <td class="ttb2">食物</td>
               <td class="ttb3">0.413</td>
             </tr>
@@ -109,12 +148,16 @@
               <td class="tta3">0.408</td>
             </tr>
             <tr>
-              <td class="ttb1">法蘭克漿果收集員</td>
+              <td class="ttb1">
+                <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>漿果收集員
+              </td>
               <td class="ttb2">食物</td>
               <td class="ttb3">0.388</td>
             </tr>
             <tr>
-              <td class="ttb1">斯拉夫農民</td>
+              <td class="ttb1">
+                <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>農民
+              </td>
               <td class="ttb2">食物</td>
               <td class="ttb3">0.367</td>
             </tr>
@@ -136,16 +179,24 @@
           </table>
 
           <p>
-            請注意，農田的實際收集率將由於需要在農田四處走動而降低。步行時間是村民在技術上來說屬於閒置，並不收集資源的時間。考慮步行時間在內，農夫的平均收集率約是0.3003食物/秒（研發科技
+            請注意，農田的實際收集率將由於需要在農田四處走動而降低。步行時間是村民在技術上來說屬於閒置，並不收集資源的時間。考慮步行時間在內，農夫的平均收集率約是0.3003食物/秒（研發<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >
             <nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link
             >將增加13.6%的效率，約為0.34）。同時考慮到農夫需要額外的步行時間才能到達農田的聚集點（和背面），他們的淨糧食產量實際上更低(可參考測試一)。
           </p>
           <p>
             測試一：無獨輪、以TC旁最佳蓋法一圈8田為方法，村從TC放出來第一格田自己走到定點，48秒後回TC放肉(走回TC的時間不在48S內)共採肉94，速率0.24
           </p>
-          <p>註1：獨輪推車對於伐木、採礦增加的效率約只有3%，遠低於農夫的效果</p>
           <p>
-            註2：相較近場村民捕魚的0.426，漁船近海捕魚為0.280，漁船深海捕魚為0.487，漁船魚簍為0.206
+            註1：<nuxt-link to="/techs/Wheelbarrow">獨輪推車</nuxt-link
+            >對於伐木、採礦增加的效率約只有3%，遠低於農夫的效果
+          </p>
+          <p>
+            註2：相較近場村民捕魚的0.426，<nuxt-link to="/units/Fishing_Ship"
+              >漁船</nuxt-link
+            >近海捕魚為0.280，漁船深海捕魚為0.487，漁船魚簍為0.206
           </p>
           <h3>建築物</h3>
           <div class="hrn1"></div>
@@ -375,7 +426,7 @@
                       width="30"
                       alt=""
                     /><nuxt-link to="/building/Harbor">海港</nuxt-link
-                    >(馬來限定)
+                    >(<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -418,7 +469,7 @@
                       alt=""
                     /><nuxt-link to="/building/Feitoriaicon_Feitoria"
                       >港灣大商站</nuxt-link
-                    >(葡萄牙限定)
+                    >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                 </ul>
               </div>
@@ -435,7 +486,9 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              村民可以修理建築物，攻城武器和船隻。這樣做可以節省資源。但是修復建築物可能會比建造一個新建築慢得多。村民可以從兩格遠的地方修理單位
+              村民可以修理建築物，攻城武器和<nuxt-link to="/units/Naval_Vessels"
+                >船隻</nuxt-link
+              >。這樣做可以節省資源。但是修復建築物可能會比建造一個新建築慢得多。村民可以從兩格遠的地方修理單位
               - 這主要是為了修復船隻，也可以修理一個完全被圍牆包圍的建築，例如
               <nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>。
             </p>
@@ -443,17 +496,25 @@
               <li>成本</li>
             </ul>
             <p>
-              將一幢建築物由生命值1修復至生命值滿需要建築成本的一半。部分維修將花費適當的費用（因此只修理一半的HP成本為原始建築成本的25％）。
+              將一幢建築物由<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >1修復至生命值滿需要建築成本的一半。部分維修將花費適當的費用（因此只修理一半的HP成本為原始建築成本的25％）。
             </p>
             <p>
               在維修過程中，費用會從資源庫存中扣除，而不是在開始時支付。如果一個玩家在維修期間耗盡資源，村民將停止維修並保持閒置狀態，直到他們被重新分配工作。
             </p>
             <p>
-              折扣也適用，例如法蘭克玩家將只支付244石頭以完全修復城堡，升級建築物生命值的升級不會影響維修成本。
+              折扣也適用，例如法蘭克玩家將只支付244石頭以完全修復<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >，升級建築物生命值的升級不會影響維修成本。
             </p>
             <ul>
               <li>速度</li>
-              對於建築物來說，第一個村民將會每分鐘修復750點生命值，而任何額外的村民將會增加375點/分鐘（只有一半的速度）。無論建築類型，升級或原始生命值如何，這都是一樣的。
+              對於建築物來說，第一個村民將會每分鐘修復750點生命值，而任何額外的村民將會增加375點/分鐘（只有一半的速度）。無論<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築類</nuxt-link
+              >型，升級或原始生命值如何，這都是一樣的。
               <li>
                 <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>
               </li>
@@ -462,8 +523,9 @@
                 在大多數情況下，新建築的建築速度要快於修復工程，儘管成本較高（例如更換損壞的牆體部分），但建造新建築的速度可能會更快。
               </p>
               <p>
-                攻城武器和船艦的修理速度是建築物速度的25％，所以第一個村民是187.5
-                HP /分鐘，任何額外的村民將加上93.75 HP /分鐘。
+                攻城武器和<nuxt-link to="/units/Naval_Vessels">船艦</nuxt-link
+                >的修理速度是建築物速度的25％，所以第一個村民是187.5 HP
+                /分鐘，任何額外的村民將加上93.75 HP /分鐘。
               </p>
             </ul>
           </div>
@@ -630,7 +692,9 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1" style="width:10%">攻擊力</td>
+              <td class="tta1" style="width:10%">
+                <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+              </td>
               <td class="tta4">
                 <p>
                   <img
@@ -751,7 +815,9 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1" style="width:10%">招降抵抗</td>
+              <td class="tta1" style="width:10%">
+                <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+              </td>
               <td class="tta4">
                 <p>
                   <img
@@ -813,17 +879,25 @@
                 >：漿果收集員工作速度提高了25％。
               </li>
               <li>
-                <nuxt-link to="/civs/Goths">哥德</nuxt-link
-                >：獵人攻擊野豬和野生大象時+5傷害，可多攜帶15食物。
+                <nuxt-link to="/civs/Goths">哥德</nuxt-link>：獵人攻擊<nuxt-link
+                  to="/units/animal/Wild_Boar"
+                  >野豬</nuxt-link
+                >和野生大象時+5傷害，可多攜帶15食物。
               </li>
               <li>
-                <nuxt-link to="/civs/Indians">印度</nuxt-link
-                >：在黑暗/封建/城堡/帝王時代，村民便宜5％/ 10％/ 15％/
+                <nuxt-link to="/civs/Indians">印度</nuxt-link>：在<nuxt-link
+                  to="/techs/age/Dark_Age"
+                  >黑暗</nuxt-link
+                >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+                >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+                >，村民便宜5％/ 10％/ 15％/
                 20％。漁夫收集速度提高15％，且可多攜帶15食物。。
               </li>
               <li>
                 <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-                >：村民可以駐守在房屋內。。
+                >：村民可以駐守在<nuxt-link to="/building/House">房屋</nuxt-link
+                >內。。
               </li>
               <li>
                 <nuxt-link to="/civs/Koreans">韓國</nuxt-link
@@ -843,7 +917,8 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
-                >：在封建/城堡/帝王時代，村民的創造速度提高了10％/ 15％/ 20％。
+                >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/帝王時代，村民的創造速度提高了10％/ 15％/ 20％。
               </li>
               <li>
                 <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -859,11 +934,15 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Vikings">維京</nuxt-link
-                >：免費獨輪推車與手推車。
+                >：免費獨輪推車與<nuxt-link to="/techs/Hand_Cart"
+                  >手推車</nuxt-link
+                >。
               </li>
               <li>
                 <nuxt-link to="/civs/Incas">印加</nuxt-link
-                >：村民攻擊與防禦隨著兵工廠升級。
+                >：村民攻擊與防禦隨著<nuxt-link to="/building/Blacksmith"
+                  >兵工廠</nuxt-link
+                >升級。
               </li>
             </ul>
           </div>
@@ -888,7 +967,10 @@
               <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
             </h3>
             <ul>
-              <li>村民對箭塔、牆與城堡有+3的攻擊。</li>
+              <li>
+                村民對<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+                >、牆與城堡有+3的攻擊。
+              </li>
               <li>土耳其的村民挖金速度快15％。</li>
             </ul>
             <h3>
@@ -896,15 +978,28 @@
             </h3>
             <ul>
               <li>村民對箭塔、牆與城堡有+6的攻擊。</li>
-              <li>韓國村民最初有+2視野，1.0c後變成+3視野。</li>
-              <li>馬雅人有20％的資源額外採集量。</li>
+              <li>
+                韓國村民最初有+2<nuxt-link to="/los.php">視野</nuxt-link
+                >，1.0c後變成+3視野。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
+                >有20％的資源額外採集量。
+              </li>
             </ul>
             <h3>
               <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
             </h3>
             <ul>
-              <li>村民現在可以駐進衝撞車。</li>
-              <li>馬雅村民有15％的額外資源採集量。</li>
+              <li>
+                村民現在可以駐進<nuxt-link to="/units/Battering_Ram"
+                  >衝撞車</nuxt-link
+                >。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+                >村民有15％的額外資源採集量。
+              </li>
               <li>韓國村民蓋箭塔與城堡快25％。</li>
             </ul>
             <h3>
@@ -923,7 +1018,7 @@
                 村民是遊戲中三個有多種3D模組的單位之一，村民有兩個3D模組(男與女)，另兩個是<nuxt-link
                   to="/units/Monk"
                   >僧侶</nuxt-link
-                >(正常與撿拾遺跡)和
+                >(正常與撿拾<nuxt-link to="/Relic">遺跡</nuxt-link>)和
                 <nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
                 >(正常與有貨物)。
               </li>
@@ -931,7 +1026,10 @@
                 男性和女性村民在戰鬥與收集時使用不同的武器。男村民使用匕首而女村民使用刀。
               </li>
               <li>
-                女性村民是遊戲中僅有的兩個常規女性單位之一，另一個是飛刀女獵手。
+                女性村民是遊戲中僅有的兩個常規女性單位之一，另一個是<nuxt-link
+                  to="/units/Gbeto"
+                  >飛刀女獵手</nuxt-link
+                >。
               </li>
               <li>村民只有25個基本生命值，是所有單位中最低的。</li>
             </ul>
@@ -1039,7 +1137,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">25</td>
           </tr>
           <tr>
@@ -1057,7 +1157,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -1065,11 +1167,11 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>

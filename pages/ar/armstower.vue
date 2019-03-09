@@ -8,13 +8,25 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            裝甲塔是遊戲內一種非常兇猛的戰術，顧名思義就是上封建後利用裝甲步兵掩護村民蓋塔，癱瘓其經濟，其特點是高風險但高報酬，在一般阿拉伯單挑中非常熱門。
+            <strong>裝甲塔</strong
+            >是遊戲內一種非常兇猛的戰術，顧名思義就是上封建後利用<nuxt-link
+              to="/units/Man-at-Arms"
+              >裝甲步兵</nuxt-link
+            >掩護<nuxt-link to="/units/Villager">村民</nuxt-link
+            >蓋塔，癱瘓其經濟，其特點是高風險但高報酬，在一般<nuxt-link
+              to="/maps/Arabia"
+              >阿拉伯</nuxt-link
+            >單挑中非常熱門。
           </p>
           <ul>
             <li>
               <img src="~assets/ManAtArmsIcon.jpg" width="25" alt="" />
               <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
-              >:封建初期近戰王者，不怕少量斥候與槍兵，但比較怕弓兵，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。
+              >:封建初期近戰王者，不怕少量<nuxt-link to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
+              >與<nuxt-link to="/units/Spearman">槍兵</nuxt-link
+              >，但比較怕<nuxt-link to="/units/Archer">弓兵</nuxt-link
+              >，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。
             </li>
             <li>
               <img
@@ -22,7 +34,11 @@
                 src="~assets/Watchtowericon.png"
                 alt=""
               /><nuxt-link to="/building/Watch_Tower">暸望箭塔</nuxt-link
-              >:遊戲說明箭塔為防禦建築，其實為非常兇猛的進攻手段，射程高達8，可以輕易封鎖任何資源點，駐紮村民後也不怕封建時代任何兵種，唯獨如果缺乏保護很容易被村民拆掉，可以養成在箭塔底下蓋牆的好習慣。
+              >:遊戲說明<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >為防禦建築，其實為非常兇猛的進攻手段，射程高達8，可以輕易封鎖任何資源點，駐紮村民後也不怕<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >任何兵種，唯獨如果缺乏保護很容易被村民拆掉，可以養成在箭塔底下蓋牆的好習慣。
             </li>
           </ul>
         </div>
@@ -43,13 +59,20 @@
           <div>
             <ol>
               <li>
-                對方地形差:如對方黃金石頭木頭靠外，地形不好圍，直接給對方壓力。
+                對方地形差:如對方<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                ><nuxt-link to="/resource/Stone">石頭</nuxt-link
+                ><nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >靠外，地形不好圍，直接給對方壓力。
               </li>
               <li>
                 對方失誤時:對手打豬死村民或是死斥候、或是被偷豬，可能導致升級慢，趁勝追擊。
               </li>
               <li>自己地形差:如家裡無險可守，不如就把戰場壓到對方家。</li>
-              <li>對方想直城:對方想圍死直接上城堡，就強行進攻阻止對方。</li>
+              <li>
+                對方想直城:對方想圍死直接上<nuxt-link to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >，就強行進攻阻止對方。
+              </li>
             </ol>
           </div>
           <strong
@@ -76,7 +99,11 @@
           >
           <ul>
             <p>
-              蓋哪裡都可以，主要以建立根據地，可以繼續連環塔下去為主。通常對方是馬國，如馬扎爾、蒙古，建議可以蓋在果樹區。如果對方打弓就先封金為主，但最重要的還是哪邊地形好封就插哪。
+              蓋哪裡都可以，主要以建立根據地，可以繼續連環塔下去為主。通常對方是馬國，如<nuxt-link
+                to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >、<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >，建議可以蓋在果樹區。如果對方打弓就先封金為主，但最重要的還是哪邊地形好封就插哪。
             </p>
             <p>一般來說，果樹與田往往比樹木、黃金重要。</p>
           </ul>
@@ -101,7 +128,9 @@
                 <li>13~16p:4人採果</li>
                 <li>17p:殺第二頭豬</li>
                 <li>18~19p:殺豬</li>
-                <li>20p:蓋軍營</li>
+                <li>
+                  20p:蓋<nuxt-link to="/building/Barracks">軍營</nuxt-link>
+                </li>
                 <li>21~22採黃金</li>
                 <li>升織布點封建</li>
               </ul>
@@ -109,7 +138,11 @@
             <div class="col-md-6">
               <strong>升級後流程</strong>
               <ul>
-                <li>點封建後開始出3~4民兵，通常21p打3裝甲，22p打4裝甲</li>
+                <li>
+                  點封建後開始出3~4<nuxt-link to="/units/Militia"
+                    >民兵</nuxt-link
+                  >，通常21p打3裝甲，22p打4裝甲
+                </li>
                 <li>如沒有趕鹿，可考慮1~2種田，3~4村民出發敵人家</li>
                 <li>民兵出發</li>
                 <li>採肉村民分四個出去採石頭</li>
@@ -123,16 +156,34 @@
           <h3>適合文明</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            一般來說，所有文明都適合，但步兵有加成的文明更好。
+            一般來說，所有<nuxt-link to="/civs">文明</nuxt-link
+            >都適合，但<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >有加成的文明更好。
             <ul>
               <li>
-                緬甸:上封建步兵自動+1攻擊，裝甲步兵非常恐怖，免費伐木技術自動省下100肉50木。
+                <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+                >:上封建步兵自動+1攻擊，裝甲步兵非常恐怖，免費伐木技術自動省下100肉50木。
               </li>
-              <li>日本:經濟不錯，上封建步兵攻擊快25%。</li>
-              <li>阿茲特克:軍營效率快25%，一開始多50黃金。</li>
-              <li>馬扎爾:步兵與騎兵免費+1攻擊，但經濟不如緬甸好。</li>
-              <li>印加:箭塔便宜，經濟不錯，村民受兵工廠影響。</li>
-              <li>哥德:步兵便宜。</li>
+              <li>
+                <nuxt-link to="/civs/Japanese">日本</nuxt-link
+                >:經濟不錯，上封建步兵攻擊快25%。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+                >:軍營效率快25%，一開始多50黃金。
+              </li>
+              <li>
+                馬扎爾:步兵與<nuxt-link to="/units/Cavalry_Units"
+                  >騎兵</nuxt-link
+                >免費+1攻擊，但經濟不如緬甸好。
+              </li>
+              <li>
+                <nuxt-link to="/civs/Incas">印加</nuxt-link
+                >:箭塔便宜，經濟不錯，村民受<nuxt-link to="/building/Blacksmith"
+                  >兵工廠</nuxt-link
+                >影響。
+              </li>
+              <li><nuxt-link to="/civs/Goths">哥德</nuxt-link>:步兵便宜。</li>
               <li>塞爾特:步兵走的快，經濟好。</li>
             </ul>
           </div>
@@ -238,14 +289,22 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">適合文明</td>
+            <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
-              緬甸 <br />日本 <br />阿茲特克 <br />印加 <br />馬扎爾
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link> <br /><nuxt-link
+                to="/civs/Japanese"
+                >日本</nuxt-link
+              >
+              <br /><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
+              <br /><nuxt-link to="/civs/Incas">印加</nuxt-link>
+              <br /><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4">封建時代</td>
+            <td class="unit4">
+              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">威力</td>
@@ -257,7 +316,9 @@
           </tr>
           <tr>
             <td class="unit3">優點</td>
-            <td class="unit4">幾乎任何文明可用，威力極大</td>
+            <td class="unit4">
+              幾乎任何<nuxt-link to="/civs">文明</nuxt-link>可用，威力極大
+            </td>
           </tr>
           <tr>
             <td class="unit3">缺點</td>

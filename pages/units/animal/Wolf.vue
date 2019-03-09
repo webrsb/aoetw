@@ -7,16 +7,28 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p>狼是遊戲內的一種野生動物。</p>
+          <p><b>狼</b>是遊戲內的一種野生動物。</p>
           <p>
-            狼是最常見會攻擊人的野生動物，牠有25的生命值與3的攻擊，沒有食物，牠可以咬死沒有織布的村民。
+            狼是最常見會攻擊人的野生動物，牠有25的<nuxt-link
+              to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >與3的攻擊，沒有<nuxt-link to="/resource/Food">食物</nuxt-link
+            >，牠可以咬死沒有織布的<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >。
           </p>
           <p>
             <nuxt-link to="/units/hero/Ornlu_the_Wolf">灰狼歐魯</nuxt-link
-            >是狼的英雄，有20個攻擊與400的生命值。
+            >是狼的<nuxt-link to="/units/hero">英雄</nuxt-link
+            >，有20個攻擊與400的生命值。
           </p>
-          <p>遊戲難易度會影響狼的視野，最簡單的是遊戲是6，中等與困難的是12。</p>
-          <p>馬扎爾的村民可以一擊殺狼。</p>
+          <p>
+            遊戲難易度會影響狼的<nuxt-link to="/los.php">視野</nuxt-link
+            >，最簡單的是遊戲是6，中等與困難的是12。
+          </p>
+          <p>
+            <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>的村民可以一擊殺狼。
+          </p>
           <img src="~assets/AoE2_wolf.png" alt="" />
         </div>
       </div>
@@ -46,7 +58,9 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">25</td>
           </tr>
         </table>

@@ -8,10 +8,26 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鐵野豬在世紀帝國2中是一個特殊的單位。他比野豬更加強壯，任何人攻擊他都會是一個艱難的挑戰。他擁有350的生命值，而且具有強大的攻擊力。由於他不像一般野豬一樣可以提供肉，所以村民或其他士兵是無法攻擊她的(他們只會站著被鐵野豬殺死）。
+            <b>鐵野豬</b>在世紀帝國2中是一個特殊的單位。他比<nuxt-link
+              to="/units/animal/Wild_Boar"
+              >野豬</nuxt-link
+            >更加強壯，任何人攻擊他都會是一個艱難的挑戰。他擁有350的<nuxt-link
+              to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >，而且具有強大的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >。由於他不像一般野豬一樣可以提供肉，所以<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >或其他士兵是無法攻擊她的(他們只會站著被鐵野豬殺死）。
           </p>
           <p>
-            牠出現在戰役《阿提拉：上帝之鞭》及《布里斯比羅吉：英雄出少年》中。在上帝之鞭的戰役中，他被他的兄弟貝里達邀請去獵殺鐵野豬。在英雄出少年的戰役中，如果玩家選擇去打獵，將會在獵場附近的一條河流中遇到他。
+            牠出現在<nuxt-link to="/batt">戰役</nuxt-link>《<nuxt-link
+              to="/batt/Attila_the_Huna"
+              >阿提拉</nuxt-link
+            >：<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link
+            >》及《<nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link
+            >：<nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link
+            >》中。在上帝之鞭的戰役中，他被他的兄弟貝里達邀請去獵殺鐵野豬。在英雄出少年的戰役中，如果玩家選擇去打獵，將會在獵場附近的一條河流中遇到他。
           </p>
         </div>
         <h3>登場戰役</h3>
@@ -24,7 +40,8 @@
             </p>
             <li>在開始獵捕鐵野豬之前背叛貝里達。</li>
             <li>
-              離開貝里達控制的匈奴營地，可是這樣將會失去一些阿提拉的追隨者。
+              離開貝里達控制的<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              >營地，可是這樣將會失去一些阿提拉的追隨者。
             </li>
             <li>
               殺死鐵野豬，然後跑回營地，這樣玩家可以控制所有貝里達的單位。

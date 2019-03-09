@@ -8,10 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            騎士是城堡時代兵種，可訓練於馬廄，在城堡時代最優勢的兵種之一，也是最廣泛使用的兵種，對於僧侶、駱駝、長槍兵較劣勢。
+            <b>騎士</b>是<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
+            >，在城堡時代最優勢的兵種之一，也是最廣泛使用的兵種，對於<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >、<nuxt-link to="/units/Camel">駱駝</nuxt-link>、<nuxt-link
+              to="/units/Spearman"
+              >長槍兵</nuxt-link
+            >較劣勢。
           </p>
           <p>
-            <strong> 不可生產文明:</strong>
+            <strong> 不可生產<nuxt-link to="/civs">文明</nuxt-link>:</strong>
             <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
@@ -24,7 +33,11 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          騎士在城堡時代是最常出現的兵種之一，憑藉其高攻擊力，生命值和防禦力，可以輕鬆抵擋大部分兵種。也是主力兵種，俗稱的馬爆的馬就是指騎士。
+          騎士在城堡時代是最常出現的兵種之一，憑藉其高<nuxt-link
+            to="/elements/Attack"
+            >攻擊力</nuxt-link
+          >，<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+          >和防禦力，可以輕鬆抵擋大部分兵種。也是主力兵種，俗稱的馬爆的馬就是指騎士。
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -114,9 +127,8 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
-              >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
-              >和
+              >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>和
               <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
@@ -160,7 +172,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -240,9 +254,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -438,8 +452,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：城堡/帝王時代便宜15%/20%。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
@@ -449,16 +466,20 @@
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
+              >：只要在一個塞爾特單位的<nuxt-link to="/los.php">視野</nuxt-link
+              >下，羊群不會被牽走
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對騎士有利的科技研發在城堡/帝王時代各便宜15%/20%。
+              >：對騎士有利的<nuxt-link to="/techs">科技</nuxt-link
+              >研發在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >：騎士血量多20%，研發<nuxt-link to="/techs/Chivalry"
-                >騎士精神</nuxt-link
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：騎士<nuxt-link
+                to="/elements/Hit_points"
+                >血量</nuxt-link
+              >多20%，研發<nuxt-link to="/techs/Chivalry">騎士精神</nuxt-link
               >後，
               <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
               >的研發速度和升級<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
@@ -473,14 +494,20 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：騎士黃金成本便宜15%。
+              >：騎士<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本便宜15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠升級科技免黃金
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級科技免黃金
             </li>
             <li>
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：徵兵制度免費。
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
+              >免費。
             </li>
           </ul>
         </div>
@@ -544,7 +571,12 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：一開始騎士在城堡/帝王時代都是便宜20%。在4.8版本後更改為在城堡/帝王時代各便宜15%/20%。。
+              >：一開始騎士在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代都是便宜20%。在4.8版本後更改為在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代各便宜15%/20%。。
             </li>
           </ul>
         </div>
@@ -568,7 +600,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            “騎士是一名穿著裝甲戰士，想在中世紀社會成為騎士必須在訓練和地位上達到一定的最低限度。當成為騎士時，領主會賦予他們土地，以換取每年的數個禮拜為領主辦事，通過用這種方式劃出土地，一個高級領主可以在需要時召喚一定的士兵為他作戰。騎士們大部分時間都是為戰鬥而訓練，他們在比賽中練習戰爭技巧，並為了榮耀和獎賞而戰。因為很少有人能夠承擔戰爭的裝備和訓練，騎士們在中世紀的戰場上佔據了幾個世紀的統治地位，以長矛兵，長弓兵，弩手和火槍兵為代表的新戰術的演變，使得重騎兵的統治力最後終結。“
+            “騎士是一名穿著裝甲戰士，想在中世紀社會成為騎士必須在訓練和地位上達到一定的最低限度。當成為騎士時，領主會賦予他們土地，以換取每年的數個禮拜為領主辦事，通過用這種方式劃出土地，一個高級領主可以在需要時召喚一定的士兵為他作戰。騎士們大部分時間都是為戰鬥而訓練，他們在比賽中練習戰爭技巧，並為了榮耀和獎賞而戰。因為很少有人能夠承擔戰爭的裝備和訓練，騎士們在中世紀的戰場上佔據了幾個世紀的統治地位，以長<nuxt-link
+              to="/units/Skirmisher"
+              >矛兵</nuxt-link
+            >，<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
+            >，弩手和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+            >為代表的新戰術的演變，使得重騎兵的統治力最後終結。“
           </p>
         </div>
       </div>
@@ -630,7 +667,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -655,15 +694,15 @@
             <td class="unit4">1.83</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
             </td>

@@ -8,15 +8,22 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火戰船在城堡時代的時候可以在碼頭中被訓練。這是一艘有"火焰噴射器"的船，對其他的船隻有攻擊加成。火戰船需要很靠近敵方船隻，並且用超級快的速度(每秒4次)。當
+            <b>火戰船</b>在<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >的時候可以在<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >中被訓練。這是一艘有"火焰噴射器"的船，對其他的<nuxt-link
+              to="/units/Naval_Vessels"
+              >船隻</nuxt-link
+            >有攻擊加成。火戰船需要很靠近敵方船隻，並且用超級快的速度(每秒4次)。當
             <nuxt-link to="/units/Galley">戰船</nuxt-link>升級成<nuxt-link
               to="/units/War_Galley"
               >弩砲戰船</nuxt-link
-            >的時候，火蒙衝會自動升級成火戰船。
+            >的時候，<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link
+            >會自動升級成火戰船。
           </p>
           <br />
           <p>
-            <strong>不可生產文明：</strong
+            <strong>不可生產<nuxt-link to="/civs">文明</nuxt-link>：</strong
             ><nuxt-link to="/civs/Vikings">維京</nuxt-link>
           </p>
         </div>
@@ -31,7 +38,12 @@
             <nuxt-link to="/civs/Koreans">韓國</nuxt-link>的<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
-            >也能夠威脅到火戰船。火戰船雖然有非常快的攻擊速度，但是每一個"火焰"的攻擊力很低。雖然攻擊力偏低，但是還是能對船造成不俗的傷害。
+            >也能夠威脅到火戰船。火戰船雖然有非常快的<nuxt-link
+              to="/elements/Rate_of_Fire"
+              >攻擊速度</nuxt-link
+            >，但是每一個"火焰"的<nuxt-link to="/elements/Attack"
+              >攻擊力</nuxt-link
+            >很低。雖然攻擊力偏低，但是還是能對船造成不俗的傷害。
           </p>
           <p>
             儘管火戰船對船有傷害力也有著很高的防禦力，但是城堡時代的火戰船還是比<nuxt-link
@@ -58,7 +70,8 @@
             <td class="tta4">
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-              >、在岸邊的建築物和近戰單位、
+              >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
+              >和近戰單位、
               <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>、<nuxt-link
                 to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
@@ -70,9 +83,13 @@
             <td class="tta4">
               <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
               >、<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>、
-              <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
-              >、箭塔、<nuxt-link to="/building/Castle">城堡</nuxt-link
-              >、在岸邊的攻城器單位。
+              <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>、<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >、<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >、在岸邊的<nuxt-link to="/units/Siege_Weapons"
+                >攻城器單位</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -127,7 +144,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -520,12 +539,18 @@
               >：火戰船開火速率快25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：在視野內的動物不會被轉化
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >內的動物不會被轉化
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於火戰船科技在城堡/帝王便宜15%/20％
+              >：有利於火戰船<nuxt-link to="/techs">科技</nuxt-link>在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >便宜15%/20％
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -534,21 +559,26 @@
               >， <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船匠</nuxt-link
-              >便宜50％，升級到快速火戰船便宜50%。
+              >便宜50％，升級到<nuxt-link to="/units/Fast_Fire_Ship"
+                >快速火戰船</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：火戰船在城堡/帝王時代訓練的速度提高15/20%
+              >：火戰船在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >訓練的速度提高15/20%
               <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>和升級到
               <nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
-              >的研發速度在城堡/帝王時代提高15%/20％。研究<nuxt-link
-                to="/techs/Dry_Dock"
+              >的研發速度在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代提高15%/20％。研究<nuxt-link to="/techs/Dry_Dock"
                 >旱碼頭</nuxt-link
               >的速度快20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：火戰船訓練減少15%黃金成本，火戰船+10％HP。
+              >：火戰船訓練減少15%<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本，火戰船+10％HP。
             </li>
           </ul>
         </div>
@@ -576,10 +606,15 @@
           </h3>
           <ul>
             <li>火戰船的HP為100。</li>
-            <li>火戰船有6的遠防並對反船隻攻擊有額外+4護甲。</li>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:火戰船木材成本便宜20%。
+              火戰船有6的<nuxt-link to="/armor">遠防</nuxt-link
+              >並對反船隻攻擊有額外+4護甲。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>:火戰船<nuxt-link
+                to="/resource/Wood"
+                >木材</nuxt-link
+              >成本便宜20%。
             </li>
           </ul>
           <h3>
@@ -620,7 +655,10 @@
             <li>
               火戰船和<nuxt-link to="/units/Fast_Fire_Ship"
                 >快速火戰船</nuxt-link
-              >是遊戲中唯二攻擊會同時造成近戰和遠程傷害的單位。
+              >是遊戲中唯二攻擊會同時造成近戰和<nuxt-link
+                to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >傷害的單位。
             </li>
             <li>
               火戰船會對作弊單位中的<nuxt-link to="/units/hero/Saboteur"
@@ -634,7 +672,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            西方僅拜占庭人把古代的造船傳統延續到中世紀。他們在三列槳座戰船上的改變催生了火戰船，這是一種由槳和延遲帆支撐的狹窄而快速的軍艦。這些戰艦的戰鬥力部分由士兵，弓箭手和彈射器提供，但拜占庭海軍的秘密武器是希臘之火。這種極易揮發的混合物從火戰船船頭的軟管噴出，並在與空氣接觸時引燃
+            西方僅<nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link
+            >把古代的造船傳統延續到中世紀。他們在三列槳座戰船上的改變催生了火戰船，這是一種由槳和延遲帆支撐的狹窄而快速的軍艦。這些戰艦的戰鬥力部分由士兵，<nuxt-link
+              to="/units/Archer"
+              >弓箭手</nuxt-link
+            >和<nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
+            >提供，但<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+            ><nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
+            >的秘密武器是<nuxt-link to="/techs/Greek_Fire">希臘之火</nuxt-link
+            >。這種極易揮發的混合物從火戰船船頭的軟管噴出，並在與空氣接觸時引燃
             火是對付木船的毀滅性武器，拜占庭人的敵人無法忍受噴著希臘之火火戰船的猛烈攻勢。其他文明有時會獲得希臘之火的秘密，但它的使用需要非常謹慎且危險，因此在今天它已經失傳。
           </p>
         </div>
@@ -712,7 +758,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">120</td>
           </tr>
           <tr>
@@ -732,11 +780,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">0.25秒/次</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -748,7 +800,7 @@
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -756,7 +808,7 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>(+6)
             </td>
@@ -801,7 +853,7 @@
                 class="gg"
                 src="~assets/Fast-fire-ship-research.jpg"
                 alt=""
-              />280食物 250黃金
+              />280<nuxt-link to="/resource/Food">食物</nuxt-link> 250黃金
             </td>
           </tr>
           <tr>
@@ -821,7 +873,12 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Fireline.png" alt=""
               /></gallery>
-              <p><em>火戰船系列(火戰船在中間)。</em></p>
+              <p>
+                <em
+                  ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
+                  >(火戰船在中間)。</em
+                >
+              </p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -833,7 +890,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/FireShipHD.png" alt=""
               /></gallery>
-              <p><em>各種火戰船(世紀帝國和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >各種火戰船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
             <div class="row">
               <div class="col-md-4">

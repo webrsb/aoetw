@@ -8,15 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            條頓武士是<nuxt-link to="/civs/Teutons">條頓</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>條頓武士</b>是<nuxt-link to="/civs/Teutons">條頓</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。條頓武士是一個移動緩慢，配有高裝甲及高攻擊力的單位。條頓武士可以在<nuxt-link
-              to="/techs/age/Imperial_Age"
+            >中訓練。條頓武士是一個移動緩慢，配有高裝甲及高<nuxt-link
+              to="/elements/Attack"
+              >攻擊力</nuxt-link
+            >的單位。條頓武士可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳條頓武士。
+            >升級為<nuxt-link to="/units/Teutonic_Knight"
+              >精銳條頓武士</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,16 +28,23 @@
         <div class="n1">
           <ul>
             <li>
-              條頓武士是遊戲中最強大的步兵單位。在完全升級後有100
-              HP，21攻擊力，13的近戰護甲和6的遠程護甲。他們能比完全升級的<nuxt-link
-                to="/units/Pikeman"
+              條頓武士是遊戲中最強大的<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >。在完全升級後有100 HP，21攻擊力，13的近戰護甲和6的<nuxt-link
+                to="/armor"
+                >遠程護甲</nuxt-link
+              >。他們能比完全升級的<nuxt-link to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
-              >更輕易地擊敗完全升級的遊俠，但
+              >更輕易地擊敗完全升級的<nuxt-link to="/units/Paladin"
+                >遊俠</nuxt-link
+              >，但
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >的CP值還是較高。
             </li>
             <li>
-              條頓武士的高護甲高攻擊和高生命值讓他們在任何1V1的戰鬥中都可輕鬆獲勝。然而在面對如<nuxt-link
+              條頓武士的高護甲高攻擊和高<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >讓他們在任何1V1的戰鬥中都可輕鬆獲勝。然而在面對如<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
               >、
@@ -47,10 +58,25 @@
               >，條頓武士還是得俯首稱臣。
             </li>
             <li>
-              條頓武士最大的缺點是在於大量的盔甲降低了他們的移動速度，幾乎所有遠程單位都可以用打帶跑的方式耗死他們。條頓武士對僧侶的招降也毫無招架之力。然而，條頓的團隊加分可讓敵方僧侶難以招降我方單位。
+              條頓武士最大的缺點是在於大量的盔甲降低了他們的移動速度，幾乎所有<nuxt-link
+                to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >都可以用打帶跑的方式耗死他們。條頓武士對<nuxt-link
+                to="/elements/Conversion"
+                >僧侶的招降</nuxt-link
+              >也毫無招架之力。然而，<nuxt-link to="/civs/Teutons"
+                >條頓</nuxt-link
+              >的<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+              >可讓敵方僧侶難以招降我方單位。
             </li>
             <li>
-              條頓騎士可與遊俠搭配，因為弓箭手對他們毫無威脅。但最好的伙伴也許是攻城武器。他們可以支援條頓騎士面對幾乎任何威脅。<nuxt-link
+              條頓<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >可與遊俠搭配，因為<nuxt-link to="/units/Archer_Units"
+                >弓箭手</nuxt-link
+              >對他們毫無威脅。但最好的伙伴也許是<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >。他們可以支援條頓騎士面對幾乎任何威脅。<nuxt-link
                 to="/units/Scorpion"
                 >弩砲</nuxt-link
               >和
@@ -134,8 +160,10 @@
                 src="~assets/Arson.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -178,7 +206,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -378,11 +408,13 @@
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              ><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>、<nuxt-link
+                to="/techs/Squires"
+                >護衛</nuxt-link
+              >、 <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -430,7 +462,10 @@
               條頓武士是以十字軍作為模板。 然而，不像歷史ㄧ樣他們沒有配備盾牌。
             </li>
             <li>
-              條頓騎士似乎穿著hauberk（在一件surcoat和斗篷下）。鎖子甲可輕易的抵擋用刀刃武器（特別是中東文明使用的彎刀）的攻擊，但是很容易被箭矢和尖銳武器（以及火槍）所刺穿。
+              條頓騎士似乎穿著hauberk（在一件surcoat和斗篷下）。鎖子甲可輕易的抵擋用刀刃武器（特別是中東<nuxt-link
+                to="/civs"
+                >文明</nuxt-link
+              >使用的彎刀）的攻擊，但是很容易被箭矢和尖銳武器（以及火槍）所刺穿。
               這也許可以解釋為什麼日爾曼騎士擅於對近戰攻擊，但不擅於對箭矢和火槍卻很弱。
             </li>
           </ul>
@@ -440,7 +475,10 @@
         <div class="n1">
           <div class="ien">
             <em
-              >“在基督教十字軍進入聖地之後，德國十字軍形成了一個名叫條頓騎士團的戰士僧侶的制度，這一制度讓十字軍放棄了在東地中海的戰鬥，並把注意力轉移到了東歐，通過戰鬥他們將基督教帶到了波羅的海的地區和森林，那裏之後成為了現在的普魯士，他們建造了城堡以便控制周圍鄉村，條頓武士用他們的生命雕刻出一個持續到二十世紀的帝國。</em
+              >“在基督教十字軍進入聖地之後，德國十字軍形成了一個名叫條頓騎士團的戰士僧侶的制度，這一制度讓十字軍放棄了在東地中海的戰鬥，並把注意力轉移到了東歐，通過戰鬥他們將基督教帶到了波羅的海的地區和森林，那裏之後成為了現在的普魯士，他們建造了<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >以便控制周圍鄉村，條頓武士用他們的生命雕刻出一個持續到二十世紀的帝國。</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
@@ -520,11 +558,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">85</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">40</td>
           </tr>
           <tr>
@@ -537,7 +579,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">80/100(精銳)</td>
           </tr>
           <tr>
@@ -555,15 +599,17 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">5/10(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>

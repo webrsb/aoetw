@@ -7,14 +7,18 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p>可生產於帝王時代，為射手類最高等級。</p>
+          <p>
+            可生產於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >，為<nuxt-link to="/armor/Armor_Class_Archer">射手類</nuxt-link
+            >最高等級。
+          </p>
           <strong
             ><span
               style="margin-right: 5px;"
               class="glyphicon glyphicon-ok okc"
               aria-hidden="true"
             ></span
-            >可生產文明：</strong
+            >可生產<nuxt-link to="/civs">文明</nuxt-link>：</strong
           >
           <p>
             <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -64,7 +68,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            強弩兵是遠程單位，所以聚集起來就可以造成大量傷害，可對步兵造成嚴重的傷害，但比較怕重騎兵的攻擊。
+            <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>是<nuxt-link
+              to="/units/Archer_Units"
+              >遠程單位</nuxt-link
+            >，所以聚集起來就可以造成大量傷害，可對<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >造成嚴重的傷害，但比較怕重騎兵的攻擊。
           </p>
           <p>
             而<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
@@ -72,7 +82,10 @@
             >這個弱點，所以兩種兵種搭配起來效果超群。
           </p>
           <p>
-            如果自己是防禦一方，強弩兵可以隔著牆射殺敵方單位，也可以免受於近戰類的攻擊，但對於衝撞車則是沒什麼傷害性。
+            如果自己是防禦一方，強弩兵可以隔著牆射殺敵方單位，也可以免受於近戰類的攻擊，但對於<nuxt-link
+              to="/units/Battering_Ram"
+              >衝撞車</nuxt-link
+            >則是沒什麼傷害性。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -80,28 +93,39 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：弩兵快生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
+                to="/units/Crossbowman"
+                >弩兵</nuxt-link
+              >快生產快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：弩兵自城堡/帝王時代有額外+1/+2的射程。
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：弩兵自<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代有額外+1/+2的射程。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：弩兵科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弩兵<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >：弩兵射速快18%。
+              >：弩兵<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+              >快18%。
             </li>
             <li>
-              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
-              >：弩兵在城堡/帝王時代各便宜20%/30%。
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：弩兵在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代各便宜20%/30%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：弩兵花費黃金成本少15%。
+              >：弩兵花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本少15%。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：
@@ -109,8 +133,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：弩兵在城堡/帝王時代的血量增加15%/20%。免費<nuxt-link
-                to="/techs/Conscription"
+              >：弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              >增加15%/20%。免費<nuxt-link to="/techs/Conscription"
                 >徵兵</nuxt-link
               >。
             </li>
@@ -125,15 +150,20 @@
               >：弩兵快生產快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵視野+2。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >+2。
             </li>
             <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：研究化學和彈道學快80%。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
+                to="/techs/Chemistry"
+                >化學</nuxt-link
+              >和<nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>快80%。
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：弩兵對建築攻擊+1。
+              >：弩兵對<nuxt-link to="/building">建築</nuxt-link>攻擊+1。
             </li>
           </ul>
         </div>
@@ -155,9 +185,12 @@
               對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
               >的攻擊+3。
             </li>
-            <li>拇指環引進。</li>
+            <li><nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>引進。</li>
             <li>
-              不列顛人引進<nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>。
+              <nuxt-link to="/civs/Britons">不列顛人</nuxt-link>引進<nuxt-link
+                to="/techs/Yeomen"
+                >義勇騎兵</nuxt-link
+              >。
             </li>
           </ul>
           <h3>
@@ -165,11 +198,17 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>移到了城堡時代。
+              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>移到了<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/techs/Obsidian_Arrows"></nuxt-link
-              >馬雅新增科技黑曜石之箭。
+              ><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>新增科技<nuxt-link
+                to="/techs/Obsidian_Arrows"
+                >黑曜石之箭</nuxt-link
+              >。
             </li>
           </ul>
           <h3>
@@ -177,7 +216,8 @@
           </h3>
           <ul>
             <li>
-              義大利人可研發<nuxt-link to="/techs/Pavise">巨盾</nuxt-link>。
+              <nuxt-link to="/civs/Italians">義大利人</nuxt-link
+              >可研發<nuxt-link to="/techs/Pavise">巨盾</nuxt-link>。
             </li>
           </ul>
           <h3>
@@ -186,10 +226,14 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link
-              >:5.5版後強弩兵從印度的科技樹移除。
+              >:5.5版後強弩兵從<nuxt-link to="/civs/Indians">印度</nuxt-link
+              >的<nuxt-link to="/tree/vie">科技樹</nuxt-link>移除。
             </li>
             <li>
-              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後高棉有了強弩兵。
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後<nuxt-link
+                to="/civs/Khmer"
+                >高棉</nuxt-link
+              >有了強弩兵。
             </li>
           </ul>
         </div>
@@ -197,13 +241,26 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>就木頭而言，弓兵是全遊戲最便宜的遠距離單位。</li>
             <li>
-              30hp，全遊戲生命最低的單位，與矛兵、爪刀勇士、飛刀女獵手並列。
+              就<nuxt-link to="/resource/Wood">木頭</nuxt-link>而言，<nuxt-link
+                to="/units/Archer"
+                >弓兵</nuxt-link
+              >是全遊戲最便宜的<nuxt-link to="/units/Archer_Units"
+                >遠距離單位</nuxt-link
+              >。
+            </li>
+            <li>
+              30hp，全遊戲生命最低的單位，與<nuxt-link to="/units/Skirmisher"
+                >矛兵</nuxt-link
+              >、<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+              >、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>並列。
             </li>
             <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
             <li>
-              在最初的世紀帝國裡面，弓箭手和弩兵原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、攻擊力強，但比較慢。
+              在最初的世紀帝國裡面，弓兵和弩兵原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、<nuxt-link
+                to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >強，但比較慢。
             </li>
           </ul>
         </div>
@@ -229,7 +286,9 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">射手</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Archer_Units">射手</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
@@ -277,14 +336,18 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">+3對槍兵類</td>
+            <td class="unit4">
+              +3對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">射速</td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -300,16 +363,18 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">射手</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>

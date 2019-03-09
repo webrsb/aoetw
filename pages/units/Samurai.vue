@@ -8,15 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            日本武士是<nuxt-link to="/civs/Japanese">日本</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>日本武士</b>是<nuxt-link to="/civs/Japanese">日本</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。日本武士是一個對特殊單位有相當高攻擊的單位。日本武士可以在<nuxt-link
+            >中訓練。日本武士是一個對<nuxt-link
+              to="/armor/Armor_Class_Unique_Unit"
+              >特殊單位</nuxt-link
+            >有相當高攻擊的單位。日本武士可以在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳日本武士。
+            >升級為<nuxt-link to="/units/Samurai">精銳日本武士</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,12 +27,22 @@
         <div class="n1">
           <ul>
             <li>
-              日本武士乍看之下，戰鬥能力似乎比同時代軍營中的步兵（城堡時代的<nuxt-link
-                to="/units/Long_Swordsman"
-                >長劍兵</nuxt-link
+              日本武士乍看之下，戰鬥能力似乎比同時代<nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >中的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >（<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >的<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
               >和帝國時代的
               <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
-              >）要遜色一些，日本文明利益對步兵的攻擊速度加成才使他們在戰鬥中獲得與人一搏的作戰能力。然而，由於他們對特殊單位的攻擊加成（普通+10，精銳+12），日本武士在後期以特殊單位為主的戰鬥中表現會更好。
+              >）要遜色一些，<nuxt-link to="/civs/Japanese">日本</nuxt-link
+              ><nuxt-link to="/civs">文明</nuxt-link>利益對步兵的<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >加成才使他們在戰鬥中獲得與人一搏的作戰能力。然而，由於他們對<nuxt-link
+                to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >的攻擊加成（普通+10，精銳+12），日本武士在後期以特殊單位為主的戰鬥中表現會更好。
             </li>
             <li>
               日本武士天生具有比大多數步兵更快的攻擊速度，再結合日本文明利益25％更快的攻擊速度，讓他們攻擊如閃電般的快速。然而，在面對<nuxt-link
@@ -45,9 +58,14 @@
             <li>
               日本武士搭配<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >可有效對付<nuxt-link to="/units/Knight">騎士</nuxt-link
-              >，不過面對弓兵還是需要
-              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link
-              >和遠程單位協助(日本射箭場科技全滿)。
+              >，不過面對<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >還是需要
+              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>和<nuxt-link
+                to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >協助(日本<nuxt-link to="/building/Archery_Range"
+                >射箭場</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link>全滿)。
             </li>
             <li>
               日本武士對<nuxt-link to="/units/Imperial_Camel"
@@ -92,7 +110,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -162,7 +182,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -173,7 +195,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -386,7 +410,10 @@
           </h3>
           <ul>
             <li>日本武士的訓練時間是16秒。</li>
-            <li>日本武士有0的遠程護甲，開火速率2.03，移動速度為0.9。</li>
+            <li>
+              日本武士有0的<nuxt-link to="/armor">遠程護甲</nuxt-link
+              >，開火速率2.03，移動速度為0.9。
+            </li>
             <li>
               日本武士對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
@@ -425,7 +452,13 @@
               日本武士原本設計是同時擁有近戰和範圍攻擊，但開發者最終因為不符合平衡和覺得麻煩而取消了範圍攻擊。
             </li>
             <li>
-              日本武士是遊戲中唯一一個對特殊單位有攻擊加成的單位。攻速更高達1.425秒一下，與日本傭兵並列為遊戲中攻速最快的近戰單位。
+              日本武士是遊戲中唯一一個對<nuxt-link
+                to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >有攻擊加成的單位。攻速更高達1.425秒一下，與日本<nuxt-link
+                to="/units/Condottiero"
+                >傭兵</nuxt-link
+              >並列為遊戲中攻速最快的近戰單位。
             </li>
           </ul>
         </div>
@@ -433,8 +466,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            當騎士在歐洲成為貴族和戰士的統治地位時，日本同時發生了類似的社會和軍事變革。一個軟弱的中央政府和地方土地的爭奪使得日本當地一個被稱為武士的軍事統治階級崛起。
-            這些出身高貴的男子不斷受到軍事訓練，還有各種文化藝術洗禮，他們非常重視榮譽和傳統，歐洲騎士們則以騎士精神為代表。武士使用各種各樣的武器戰鬥，包括弓和他們由最堅韌的鋼做的獨特彎曲的劍。
+            當<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >在歐洲成為貴族和戰士的統治地位時，日本同時發生了類似的社會和軍事變革。一個軟弱的中央政府和地方土地的爭奪使得日本當地一個被稱為武士的軍事統治階級崛起。
+            這些出身高貴的男子不斷受到軍事訓練，還有各種文化藝術洗禮，他們非常重視榮譽和傳統，歐洲騎士們則以<nuxt-link
+              to="/techs/Chivalry"
+              >騎士精神</nuxt-link
+            >為代表。武士使用各種各樣的武器戰鬥，包括弓和他們由最堅韌的鋼做的獨特彎曲的劍。
             他們在戰場上尋找強大的敵人進行個人對決，並被灌輸在戰場上視死如歸的意志，以增加他們的侵略性。
           </p>
         </div>
@@ -513,11 +550,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">30</td>
           </tr>
           <tr>
@@ -530,7 +571,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60/80(精銳)</td>
           </tr>
           <tr>
@@ -556,11 +599,11 @@
             <td class="unit4">1.45</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>

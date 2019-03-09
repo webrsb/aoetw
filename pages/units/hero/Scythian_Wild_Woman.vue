@@ -8,11 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>斯基泰的野女人</strong
-            >是《世紀帝國II：征服者入侵》中的一名<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵</nuxt-link
-            >
+            <strong>斯基泰的野女人</strong>是《世紀帝國II：<nuxt-link
+              to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >》中的一名<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
             <nuxt-link to="/units/hero">英雄</nuxt-link>，她在<nuxt-link
               to="/batt/The_Great_Ride"
               >偉大的騎士</nuxt-link
@@ -22,7 +21,15 @@
           <p>
             斯基泰的野女人使用的模形與<nuxt-link to="/units/hero/Joan_the_Maid"
               >農家女貞德</nuxt-link
-            >一樣，可能也因此才會被剋騎兵的攻擊加成。她和其他步兵一樣，會受到所有影響步兵的升級及加成影響。由於她是一名英雄，因此不會被招降且會自動回血。
+            >一樣，可能也因此才會被剋<nuxt-link to="/armor/Armor_Class_Cavalry"
+              >騎兵</nuxt-link
+            >的攻擊加成。她和其他<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >一樣，會受到所有影響步兵的升級及加成影響。由於她是一名<nuxt-link
+              to="/units/hero"
+              >英雄</nuxt-link
+            >，因此不會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>
@@ -60,7 +67,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -68,7 +77,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>
@@ -77,20 +88,22 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link> (+1)
             </td>
@@ -100,7 +113,7 @@
             <td class="unit4">0.9</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

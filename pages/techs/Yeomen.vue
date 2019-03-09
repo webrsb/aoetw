@@ -8,12 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            義勇騎兵是<nuxt-link to="/civs/Britons">不列顛</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>義勇騎兵</b>是<nuxt-link to="/civs/Britons">不列顛</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後徒步弓兵射程+1，箭塔攻擊+2。(團隊加分)
+            >研發。研發後徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            >射程+1，<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            >攻擊+2。(<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>)
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,7 +22,12 @@
         <div class="n1">
           <ul>
             <li>
-              義勇騎兵結合不列顛的文明加成可讓不列顛的徒步弓兵在遊戲中有最遠的攻擊距離，讓長弓兵更適合長距離作戰。義勇騎兵也讓箭塔在有<nuxt-link
+              義勇騎兵結合<nuxt-link to="/civs/Britons">不列顛</nuxt-link
+              >的<nuxt-link to="/civs">文明</nuxt-link
+              >加成可讓不列顛的徒步弓兵在遊戲中有最遠的攻擊距離，讓<nuxt-link
+                to="/units/Longbowman"
+                >長弓兵</nuxt-link
+              >更適合長距離作戰。義勇騎兵也讓箭塔在有<nuxt-link
                 to="/techs/Arrowslits"
                 >箭狹槽</nuxt-link
               >加成後對小規模攻擊更具殺傷力。
@@ -47,14 +53,22 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>義勇騎兵只能在帝王時代研發。</li>
+            <li>
+              義勇騎兵只能在<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >研發。
+            </li>
             <li>義勇騎兵只會影響箭塔的第一次攻擊。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>義勇騎兵可在城堡時代研發。</li>
+            <li>
+              義勇騎兵可在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >研發。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
@@ -66,13 +80,19 @@
         <h3>豆知識</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          「義勇騎兵」並非真的是騎兵，而是英國中古時期的一種社會階層。
+          「義勇騎兵」並非真的是<nuxt-link to="/units/Cavalry_Units"
+            >騎兵</nuxt-link
+          >，而是<nuxt-link to="/civs/Britons">英國</nuxt-link
+          >中古時期的一種社會階層。
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在威爾士發展起來的長弓在愛德華一世的領導下成了英國人青睞的武器，他很快就明白了它可以如何有效部署弓箭手取得勝利。英國長弓手在整個百年戰爭中對法國軍隊造成了嚴重打擊。
+            在威爾士發展起來的長弓在愛德華一世的領導下成了英國人青睞的武器，他很快就明白了它可以如何有效部署弓箭手取得勝利。英國長弓手在整個百年戰爭中對<nuxt-link
+              to="/civs/Franks"
+              >法國</nuxt-link
+            >軍隊造成了嚴重打擊。
           </p>
         </div>
       </div>
@@ -132,11 +152,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">750</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">450</td>
           </tr>
           <tr>

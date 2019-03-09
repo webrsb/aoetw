@@ -8,19 +8,23 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            駱駝弓騎兵<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >資料片中<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-            >的特殊單位，能夠在
+            <b>駱駝弓騎兵</b
+            ><nuxt-link to="/games/ak">非洲王國</nuxt-link>資料片中<nuxt-link
+              to="/civs/Berbers"
+              >柏柏</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>，能夠在
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。是個對<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
-            >有攻擊加成的騎馬射手。
+            >有攻擊加成的騎馬<nuxt-link to="/units/Archer_Units">射手</nuxt-link
+            >。
           </p>
           <p>
             駱駝弓騎兵可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳駱駝弓騎兵。
+            >升級為<nuxt-link to="/units/Camel_Archer">精銳駱駝弓騎兵</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -28,20 +32,37 @@
         <div class="n1">
           <ul>
             <li>
-              駱駝弓騎兵非常適合柏柏騎兵部隊。由於他們的攻擊速度高和移動快，他們可以支援重型騎兵（騎士和重裝駱駝騎兵）對付各種遠程單位，他們也能有效殲滅
+              駱駝弓騎兵非常適合<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+              ><nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >部隊。由於他們的<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >高和移動快，他們可以支援重型騎兵（<nuxt-link to="/units/Knight"
+                >騎士</nuxt-link
+              >和<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+              >）對付各種<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+              >，他們也能有效殲滅
               <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >。就實用性而言，駱駝弓騎兵還能對付<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >、步兵和大多數的徒步弓箭手，所以它們是一個多功能的單位。
+              >、<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >和大多數的徒步<nuxt-link to="/units/Archer_Units"
+                >弓箭手</nuxt-link
+              >，所以它們是一個多功能的單位。
             </li>
             <li>
-              駱駝弓騎兵比一般的馬弓騎兵有更高生命，有回復力(柏柏人的<nuxt-link
-                to="/techs/Maghrabi_Camels"
-                >馬格拉比駱駝</nuxt-link
-              >科技)，而且也不會受到對騎兵的攻擊(
+              駱駝弓騎兵比一般的<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >有更高生命，有回復力(<nuxt-link to="/civs/Berbers"
+                >柏柏人</nuxt-link
+              >的<nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link
+              >)，而且也不會受到對騎兵的攻擊(
               <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
-              >對他們完全沒有攻擊加成)。雖然會受到對駱駝的加成攻擊但相對不痛，另外他們的護甲也會降低如<nuxt-link
+              >對他們完全沒有攻擊加成)。雖然會受到對<nuxt-link
+                to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >的加成攻擊但相對不痛，另外他們的護甲也會降低如<nuxt-link
                 to="/units/Genitour"
                 >標槍騎兵</nuxt-link
               >和
@@ -62,15 +83,24 @@
                 >帕提亞戰術</nuxt-link
               >，這使得他們的駱駝弓騎兵對大多數攻擊的抵抗力略有下降，同時對
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
-              >造成的傷害也不如完全升級的重裝馬弓騎兵。但是由於是<nuxt-link
-                to="/armor/Armor_Class_Camel"
+              >造成的傷害也不如完全升級的<nuxt-link
+                to="/units/Heavy_Cavalry_Archer"
+                >重裝馬弓騎兵</nuxt-link
+              >。但是由於是<nuxt-link to="/armor/Armor_Class_Camel"
                 >駱駝護甲</nuxt-link
-              >和稍高的生命值，對於那些對騎兵有攻擊加成的單位，比如
+              >和稍高的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+              >，對於那些對騎兵有攻擊加成的單位，比如
               <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
-              >，表現通常會更好。他們較低的開火間隔也能有效執行打帶跑戰術。
+              >，表現通常會更好。他們較低的<nuxt-link to="/elements/Frame_delay"
+                >開火間隔</nuxt-link
+              >也能有效執行打帶跑戰術。
             </li>
             <li>
-              如果黃金缺少或敵人相當依賴徒步弓箭手時，駱駝弓騎兵可以由標槍騎兵取代
+              如果<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >缺少或敵人相當依賴徒步弓箭手時，駱駝弓騎兵可以由<nuxt-link
+                to="/units/Genitour"
+                >標槍騎兵</nuxt-link
+              >取代
             </li>
           </ul>
         </div>
@@ -79,11 +109,28 @@
         <div class="n1">
           <ul>
             <li>
-              兩者的攻擊力和射程都一樣，不過蒙古突騎的開火速率比較快，所以整體傷害是蒙古突騎比較高。另外帕提亞戰術也會額外給蒙古突騎對長槍兵攻擊+2。
+              兩者的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >和射程都一樣，不過<nuxt-link to="/units/Mangudai"
+                >蒙古突騎</nuxt-link
+              >的開火速率比較快，所以整體傷害是蒙古突騎比較高。另外<nuxt-link
+                to="/techs/Parthian_Tactics"
+                >帕提亞戰術</nuxt-link
+              >也會額外給蒙古突騎對<nuxt-link to="/armor/Armor_Class_Spearman"
+                >長槍兵</nuxt-link
+              >攻擊+2。
             </li>
-            <li>駱駝弓騎兵可以回血而且比蒙古突騎多1的遠程護甲。</li>
             <li>
-              駱駝弓騎兵屬於駱駝騎兵護甲而不是騎兵護甲，讓他們對駱駝騎兵和重裝長槍兵的反騎兵攻擊能受到更少的傷害。
+              駱駝弓騎兵可以<nuxt-link to="/Regeneration">回血</nuxt-link
+              >而且比蒙古突騎多1的<nuxt-link to="/armor">遠程護甲</nuxt-link>。
+            </li>
+            <li>
+              駱駝弓騎兵屬於駱駝<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵護甲</nuxt-link
+              >而不是騎兵護甲，讓他們對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
+              >和<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >的<nuxt-link to="/armor/Armor_Class_Cavalry">反騎兵</nuxt-link
+              >攻擊能受到更少的傷害。
             </li>
             <li>蒙古突騎的移動速度比駱駝弓騎兵稍微快一點。</li>
             <li>
@@ -259,7 +306,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -406,10 +455,15 @@
         <div class="n1">
           <ul>
             <li>
-              科技樹上寫升級精銳駱駝弓騎兵需要肉和金，實際上是需要木和金。
+              <nuxt-link to="/tree/vie">科技樹</nuxt-link
+              >上寫升級精銳駱駝弓騎兵需要肉和金，實際上是需要木和金。
             </li>
             <li>
-              駱駝弓騎兵是唯一在訓練完成時會發出跟馬廄駱駝單位訓練完成時一樣的駱駝聲音。
+              駱駝弓騎兵是唯一在訓練完成時會發出跟<nuxt-link
+                to="/building/Stable"
+                >馬廄</nuxt-link
+              ><nuxt-link to="/armor/Armor_Class_Camel">駱駝單位</nuxt-link
+              >訓練完成時一樣的駱駝聲音。
             </li>
           </ul>
         </div>
@@ -417,7 +471,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            歷史上，柏柏人是聞名的沙漠掠奪者。他們騎駱駝是因為他們非常適合在沙漠上快速移動。在騎駱駝時使用弓將極大地幫助突襲。
+            歷史上，柏柏人是聞名的沙漠<nuxt-link to="/techs/Marauders"
+              >掠奪者</nuxt-link
+            >。他們騎駱駝是因為他們非常適合在沙漠上快速移動。在騎駱駝時使用弓將極大地幫助突襲。
           </p>
         </div>
       </div>
@@ -456,7 +512,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
             </td>
@@ -496,7 +552,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>
@@ -513,12 +571,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">55/60(精銳)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">7/8(精銳)(遠程)</td>
+            <td class="unit4">
+              7/8(精銳)(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -551,11 +613,11 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0/1(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
@@ -577,7 +639,7 @@
             <td class="unit4">1.4</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>

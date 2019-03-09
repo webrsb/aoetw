@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            希臘之火是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>希臘之火</b>是<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
             >射程+1。
@@ -22,9 +21,12 @@
         <div class="n1">
           <ul>
             <li>
-              希臘之火可讓拜占庭的<nuxt-link to="/units/Fire_Ship"
+              希臘之火可讓<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >的<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+              >擁有+40%更遠的開火距離(一般為2.49)。這不僅讓<nuxt-link
+                to="/units/Fire_Ship"
                 >火戰船</nuxt-link
-              >擁有+40%更遠的開火距離(一般為2.49)。這不僅讓火戰船能更有效地摧毀
+              >能更有效地摧毀
               <nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
               >，同時也能夷平那些<nuxt-link to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
@@ -106,7 +108,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
             </td>
@@ -140,11 +142,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

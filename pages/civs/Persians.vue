@@ -8,37 +8,75 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            波斯是個古老的國家，最廣為人知的波斯帝國其實早在亞歷山大東征時滅亡。
+            <b>波斯</b
+            >是個古老的國家，最廣為人知的波斯帝國其實早在亞歷山大東征時滅亡。
           </p>
           <p>
-            遊戲中很好的還原了上古波斯的強盛經濟。並且對於上古波斯的強大騎兵與虛弱的步兵有很好的還原。(電影300壯士有很好的描述)
+            遊戲中很好的還原了上古波斯的強盛經濟。並且對於上古波斯的強大<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >與虛弱的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >有很好的還原。(電影300壯士有很好的描述)
           </p>
           <p>
-            上古波斯的海軍曾強盛一時，並且很好的提供了陸上部隊的支援，這也許就是為甚麼波斯海軍的科技樹也如此完整
+            上古波斯的<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
+            >曾強盛一時，並且很好的提供了陸上部隊的支援，這也許就是為甚麼波斯海軍的<nuxt-link
+              to="/tree/vie"
+              >科技樹</nuxt-link
+            >也如此完整
           </p>
           <p>
-            中世紀時候的波斯對中亞影響甚鉅，但是對歐洲文明與東亞甚至西亞的影響卻不如以往。時至今日，上古波斯的光榮已經不再。
+            中世紀時候的波斯對中亞影響甚鉅，但是對歐洲<nuxt-link to="/civs"
+              >文明</nuxt-link
+            >與東亞甚至西亞的影響卻不如以往。時至今日，上古波斯的光榮已經不再。
           </p>
         </div>
         <h3>文明概要</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>波斯是西亞的騎兵文明，為世紀帝國最初種族之一。</li>
             <li>
-              波斯有完整的騎兵科技樹，且團隊加分讓波斯與其隊友的騎兵變得更強力。
+              波斯是西亞的<nuxt-link to="/units/Cavalry_Units"
+                >騎兵文明</nuxt-link
+              >，為世紀帝國最初種族之一。
+            </li>
+            <li>
+              波斯有完整的騎兵科技樹，且<nuxt-link to="/elements/Team_Bonus"
+                >團隊加分</nuxt-link
+              >讓波斯與其隊友的騎兵變得更強力。
             </li>
             <li>
               波斯擁有近乎完美的騎兵，但是同時擁有全文明最弱的步兵作為代價。
             </li>
-            <li>由於文明加成的緣故，波斯是受黑暗時代影響最小的文明之一。</li>
-            <li>總體來說是一個以進攻為主的文明，但進入守勢則顯得吃力。</li>
-            <li>他的特殊單位是戰象，歸類為騎兵，所以非常懼怕長槍兵</li>
             <li>
-              沒有劍兵勇士與三級遠程攻擊，面對垃圾海的消耗戰，顯然吃不消。
+              由於文明加成的緣故，波斯是受<nuxt-link to="/techs/age/Dark_Age"
+                >黑暗時代</nuxt-link
+              >影響最小的文明之一。
+            </li>
+            <li>總體來說是一個以進攻為主的文明，但進入守勢則顯得吃力。</li>
+            <li>
+              他的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+              >是<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+              >，歸類為騎兵，所以非常懼怕<nuxt-link to="/units/Spearman"
+                >長槍兵</nuxt-link
+              >
             </li>
             <li>
-              城堡時代特殊科技沸油，讓城堡對於衝撞車有了更好的防禦力。帝王時代的特殊科技為象伕，這個科技則減輕了戰象最大的弱點：緩慢的移動速度。
+              沒有<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+              >與三級遠程攻擊，面對垃圾海的消耗戰，顯然吃不消。
+            </li>
+            <li>
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Boiling_Oil">沸油</nuxt-link>，讓<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >對於<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >有了更好的防禦力。<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >的特殊科技為<nuxt-link to="/techs/Mahouts">象伕</nuxt-link
+              >，這個<nuxt-link to="/techs">科技</nuxt-link
+              >則減輕了戰象最大的弱點：緩慢的移動速度。
             </li>
           </ul>
           <h3>特殊單位</h3>
@@ -58,7 +96,9 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />沸油：城堡對於衝撞車系的傷害+9
+              />沸油：城堡對於<nuxt-link to="/armor/Armor_Class_Ram"
+                >衝撞車系</nuxt-link
+              >的傷害+9
             </li>
             <li>
               <img
@@ -73,11 +113,27 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>開始時有+50食物與+50木材</li>
             <li>
-              碼頭與城鎮中心的生命值+100%，且工作速度(生產速度與研發速度)於封建時代+10%，城堡時代+15%，帝王時代+20%(互不疊加)
+              開始時有+50<nuxt-link to="/resource/Food">食物</nuxt-link
+              >與+50<nuxt-link to="/resource/Wood">木材</nuxt-link>
             </li>
-            <li><strong>團隊加分:</strong>騎士系對於弓箭手的傷害+2</li>
+            <li>
+              <nuxt-link to="/building/Dock">碼頭</nuxt-link>與<nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+              >+100%，且工作速度(生產速度與研發速度)於<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >+10%，城堡時代+15%，帝王時代+20%(互不疊加)
+            </li>
+            <li>
+              <strong>團隊加分:</strong
+              ><nuxt-link to="/units/Knight">騎士</nuxt-link>系對於<nuxt-link
+                to="/units/Archer"
+                >弓箭手</nuxt-link
+              >的傷害+2
+            </li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -92,26 +148,42 @@
           <ul>
             <strong>優勢</strong>
             <li>
-              波斯的文明加成使他有強大的後期經濟體系，快速生產村民可以在遊戲中可以取得巨大優勢。
+              波斯的文明加成使他有強大的後期經濟體系，快速生產<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >可以在遊戲中可以取得巨大優勢。
             </li>
             <li>波斯的騎兵(包括戰象)是遊戲中最強大的。</li>
             <li>波斯可以在早期取得海軍優勢，且後期的海軍科技術也幾乎完整。</li>
             <li>
-              重裝馬弓騎兵經常被玩家忽略，雖然缺乏護腕科技，但是作為克制僧侶的部隊卻十分好用。
+              <nuxt-link to="/units/Heavy_Cavalry_Archer"
+                >重裝馬弓騎兵</nuxt-link
+              >經常被玩家忽略，雖然缺乏<nuxt-link to="/techs/Bracer"
+                >護腕</nuxt-link
+              >科技，但是作為克制<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >的部隊卻十分好用。
             </li>
           </ul>
           <ul>
             <strong>劣勢</strong>
             <li>強大但是單一的兵種容易被克制。</li>
             <li>
-              波斯的步兵雖然有完整的兵工廠科技，但是只能升級至長劍兵(遊戲中唯一)。
+              波斯的步兵雖然有完整的<nuxt-link to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技，但是只能升級至<nuxt-link to="/units/Long_Swordsman"
+                >長劍兵</nuxt-link
+              >(遊戲中唯一)。
             </li>
             <li>波斯的進攻非常猛烈，但是在防禦方面，卻缺少大量關鍵的科技。</li>
             <li>
-              僧侶科技遠在平均水平之下，這使的大量的戰象被招降後，波斯很難有還手的餘地。
+              僧侶科技遠在平均水平之下，這使的大量的戰象被<nuxt-link
+                to="/elements/Conversion"
+                >招降</nuxt-link
+              >後，波斯很難有還手的餘地。
             </li>
             <li>
-              面對如拜占庭垃圾兵的消耗，沒有劍兵勇士與護腕科技，顯然吃不消
+              面對如<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >垃圾兵的消耗，沒有劍兵勇士與護腕科技，顯然吃不消
             </li>
           </ul>
           <ul>
@@ -120,37 +192,91 @@
               波斯的文明加成使TC(城鎮中心)爆戰術變得更加可以實現。(雖然這是少見的戰術)
             </li>
             <li>
-              波斯的步兵雖然是最弱的，但這一特徵要到帝王時期才會顯現出來，在此之前波斯可以善用良好的經濟，產出足夠的步兵來打擊對手。唯一要注意的是，若希望將遊戲拖進帝王時代，則要斟酌是否要生產過量的步兵，由於不可升級成雙手劍兵，這些多餘的步兵單位在帝王會顯得非常無力。
+              波斯的步兵雖然是最弱的，但這一特徵要到帝王時期才會顯現出來，在此之前波斯可以善用良好的經濟，產出足夠的步兵來打擊對手。唯一要注意的是，若希望將遊戲拖進帝王時代，則要斟酌是否要生產過量的步兵，由於不可升級成<nuxt-link
+                to="/units/Two-Handed_Swordsman"
+                >雙手劍兵</nuxt-link
+              >，這些多餘的<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >在帝王會顯得非常無力。
             </li>
             <li>
-              波斯的戰象雖然強大，但是也容易被克制，所幸波斯擁有克制僧侶與戟兵所需的兵種，火槍兵與馬弓騎兵對於戰象來說是很好的支援。
+              波斯的戰象雖然強大，但是也容易被克制，所幸波斯擁有克制僧侶與<nuxt-link
+                to="/units/Halberdier"
+                >戟兵</nuxt-link
+              >所需的兵種，<nuxt-link to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
+              >與<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >對於戰象來說是很好的支援。
             </li>
             <li>
-              在水上地圖，波斯是非常強大的，由於加速的生產與研發，波斯可以壓制大多數沒有船艦文明加成的種族，並且可以建構大批的漁船與商船來支援陸上戰鬥所需的經濟。
+              在水上地圖，波斯是非常強大的，由於加速的生產與研發，波斯可以壓制大多數沒有<nuxt-link
+                to="/units/Naval_Vessels"
+                >船艦</nuxt-link
+              >文明加成的種族，並且可以建構大批的<nuxt-link
+                to="/units/Fishing_Ship"
+                >漁船</nuxt-link
+              >與商船來支援陸上戰鬥所需的經濟。
             </li>
             <li>
-              波斯善於打擊弓手文明譬如馬雅與不列顛，但是對於僧侶強盛的文明則很乏力，比方阿茲特克、緬甸與西班牙。
+              波斯善於打擊弓手文明譬如<nuxt-link to="/civs/Mayans"
+                >馬雅</nuxt-link
+              >與<nuxt-link to="/civs/Britons">不列顛</nuxt-link
+              >，但是對於僧侶強盛的文明則很乏力，比方<nuxt-link
+                to="/civs/Aztecs"
+                >阿茲特克</nuxt-link
+              >、<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>與<nuxt-link
+                to="/civs/Spanish"
+                >西班牙</nuxt-link
+              >。
             </li>
             <li>
-              波斯的強大戰力建立在經濟強盛之下，黃金與食物對於波斯玩家來說至關重要，且沒有黃金的波斯幾乎沒有任何作用，所以黃金的收入就變得關鍵。
+              波斯的強大戰力建立在經濟強盛之下，<nuxt-link to="/resource/Gold"
+                >黃金</nuxt-link
+              >與食物對於波斯玩家來說至關重要，且沒有黃金的波斯幾乎沒有任何作用，所以黃金的收入就變得關鍵。
             </li>
           </ul>
           <ul>
             <strong>盟友選擇</strong>
             <li>
-              波斯是匈奴，法蘭克，與西班牙的寶貴盟友，因為波斯的團隊加分可以讓這些文明本來就已經強大的遊俠更加的強大。西班牙更能提供更多的貿易收入以支持波斯的軍隊。
+              波斯是<nuxt-link to="/civs/Huns">匈奴</nuxt-link>，<nuxt-link
+                to="/civs/Franks"
+                >法蘭克</nuxt-link
+              >，與西班牙的寶貴盟友，因為波斯的團隊加分可以讓這些文明本來就已經強大的<nuxt-link
+                to="/units/Paladin"
+                >遊俠</nuxt-link
+              >更加的強大。西班牙更能提供更多的貿易收入以支持波斯的軍隊。
             </li>
             <li>
-              義大利作為盟友可以讓波斯補足不足的步兵戰力，傭兵可以作為劍兵勇士的替代品。且義大利強勢的弓兵系可以更好的保護戰象免於戟兵的摧殘。弓兵系有了戰象的保護也更能發揮威力。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >作為盟友可以讓波斯補足不足的步兵戰力，<nuxt-link
+                to="/units/Condottiero"
+                >傭兵</nuxt-link
+              >可以作為劍兵勇士的替代品。且義大利強勢的<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵系</nuxt-link
+              >可以更好的保護戰象免於戟兵的摧殘。弓兵系有了戰象的保護也更能發揮威力。
             </li>
             <li>
-              條頓作為波斯的盟友，可令雙方獲得的收益是不可估計的，先是能夠讓戰象更能抵抗對方僧侶的招降，且條頓完善的步兵可以補足波斯的不足，而波斯的騎兵則能摧毀試圖遠程狙殺條頓武士的弓箭手。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >作為波斯的盟友，可令雙方獲得的收益是不可估計的，先是能夠讓戰象更能抵抗對方僧侶的招降，且條頓完善的步兵可以補足波斯的不足，而波斯的騎兵則能摧毀試圖<nuxt-link
+                to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >狙殺<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >的弓箭手。
             </li>
             <li>
-              高棉擁有的弩砲象與戰象幾乎是完美的配合，大量的弩砲象與戰象是後期所有玩家的惡夢。
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>擁有的<nuxt-link
+                to="/units/Ballista_Elephant"
+                >弩砲象</nuxt-link
+              >與戰象幾乎是完美的配合，大量的弩砲象與戰象是後期所有玩家的惡夢。
             </li>
             <li>
-              土耳其的火藥單位與戰象也能彼此掩護，土耳其火槍兵跟戰象可以壓制幾乎所有組合。
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>的<nuxt-link
+                to="/units/Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              >與戰象也能彼此掩護，<nuxt-link to="/units/Janissary"
+                >土耳其火槍兵</nuxt-link
+              >跟戰象可以壓制幾乎所有組合。
             </li>
             <li>
               波斯的盟友大部份看上的是戰象的高近戰能力，所以任何能有效克制戟兵與僧侶的文明都能與波斯很好的配合。
@@ -170,10 +296,19 @@
               波斯擅長進攻，在你抵擋波斯進攻的同時，派出騎兵騷擾他的基地。
             </li>
             <li>
-              由於波斯有火砲，用石牆與投石車來防守並沒有甚麼意義，不如產出大量的戟兵與輕騎兵來反制會更有效果。
+              由於波斯有<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+              >，用<nuxt-link to="/building/Stone_Wall">石牆</nuxt-link
+              >與<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >來防守並沒有甚麼意義，不如產出大量的戟兵與<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >來反制會更有效果。
             </li>
             <li>
-              悄悄蒐集波斯的戰象，因為波斯的步兵很虛弱，大多數波斯玩家根本不怎麼建造軍營，所以用偷過來的戰象大軍突襲會讓對手根本無法反映。
+              悄悄蒐集波斯的戰象，因為波斯的步兵很虛弱，大多數波斯玩家根本不怎麼建造<nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >，所以用偷過來的戰象大軍突襲會讓對手根本無法反映。
             </li>
           </ul>
         </div>
@@ -183,12 +318,17 @@
           <p></p>
           <table class="table-bordered" width="100%">
             <tr class="tta">
-              <td>戰役名稱</td>
+              <td><nuxt-link to="/batt">戰役</nuxt-link>名稱</td>
               <td>可否使用</td>
               <td>稱號與顏色</td>
             </tr>
             <tr>
-              <td class="tta1">沙拉丁5-聖戰</td>
+              <td class="tta1">
+                <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>5-<nuxt-link
+                  to="/batt/Jihad"
+                  >聖戰</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   class="glyphicon glyphicon-remove noc"
@@ -201,7 +341,11 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">沙拉丁6-獅子與惡魔</td>
+              <td class="tta1">
+                沙拉丁6-<nuxt-link to="/batt/The_Lion_and_the_Demon"
+                  >獅子與惡魔</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   class="glyphicon glyphicon-remove noc"
@@ -214,7 +358,12 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">成吉思汗4-遊牧民族的西遷</td>
+              <td class="tta1">
+                <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link
+                >4-<nuxt-link to="/batt/The_Horde_Rides_West"
+                  >遊牧民族的西遷</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   class="glyphicon glyphicon-remove noc"
@@ -227,7 +376,12 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">巴巴羅薩6-沉睡的皇帝</td>
+              <td class="tta1">
+                <nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
+                >6-<nuxt-link to="/batt/The_Emperor_Sleeping"
+                  >沉睡的皇帝</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   class="glyphicon glyphicon-remove noc"
@@ -240,7 +394,10 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">阿提拉1-上帝之鞭</td>
+              <td class="tta1">
+                <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link
+                >1-<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>
+              </td>
               <td class="tta2">
                 <span
                   class="glyphicon glyphicon-remove noc"
@@ -248,12 +405,17 @@
                 ></span>
               </td>
               <td class="tta3">
-                波斯人(敵對)
+                <nuxt-link to="/civs/Persians">波斯人</nuxt-link>(敵對)
                 <div class="p2"></div>
               </td>
             </tr>
             <tr>
-              <td class="tta1">熙德5-瓦倫西亞之主</td>
+              <td class="tta1">
+                <nuxt-link to="/batt/El_Cida">熙德</nuxt-link>5-<nuxt-link
+                  to="/batt/King_of_Valencia"
+                  >瓦倫西亞之主</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   class="glyphicon glyphicon-remove noc"
@@ -266,7 +428,13 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">失落帝國的戰役-征服家園（895）</td>
+              <td class="tta1">
+                <nuxt-link to="/batt/Battles_of_the_Forgotten"
+                  >失落帝國的戰役</nuxt-link
+                >-<nuxt-link to="/batt/Honfoglalas_895"
+                  >征服家園（895）</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   class="glyphicon glyphicon-remove noc"
@@ -279,7 +447,11 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">失落帝國的戰役-布哈拉（557）</td>
+              <td class="tta1">
+                失落帝國的戰役-<nuxt-link to="/batt/Bukhara_557"
+                  >布哈拉（557）</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   class="glyphicon glyphicon-ok okc"
@@ -315,14 +487,26 @@
                 <gallery
                   ><img class="imgn hg" src="~assets/Wonderpersians.jpg" alt=""
                 /></gallery>
-                <p><em>波斯的世界奇觀</em></p>
+                <p>
+                  <em
+                    >波斯的<nuxt-link to="/building/Wonder"
+                      >世界奇觀</nuxt-link
+                    ></em
+                  >
+                </p>
               </div>
             </div>
           </div>
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            波斯是伊朗在歐洲的古希臘語和拉丁語的舊稱譯音，是伊朗歷史的一部份。歷史上在這一西南亞地區曾建立過多個的帝國。全盛時期領土東至印度河平原，西北至小亞細亞、歐洲的馬其頓、希臘半島、色雷斯，西南至埃及或葉門。波斯興起於伊朗高原的西南部。
+            波斯是伊朗在歐洲的古希臘語和拉丁語的舊稱譯音，是伊朗歷史的一部份。歷史上在這一西南亞地區曾建立過多個的帝國。全盛時期領土東至<nuxt-link
+              to="/civs/Indians"
+              >印度</nuxt-link
+            >河平原，西北至小亞細亞、歐洲的馬其頓、希臘半島、色雷斯，西南至埃及或葉門。波斯興起於伊朗<nuxt-link
+              to="/maps/Highland"
+              >高原</nuxt-link
+            >的西南部。
           </div>
         </div>
       </div>
@@ -352,25 +536,38 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">騎兵</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/WarElephantIcon.jpg" />戰象
+              <img class="gg" src="~assets/WarElephantIcon.jpg" /><nuxt-link
+                to="/units/War_Elephant$"
+                >戰象</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
             <td class="unit4">
-              TC爆，城快騎士，戰船快攻，城快插堡，大後期戰爭
+              TC爆，城快<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >，<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
+              >快攻，城快插堡，大後期戰爭
             </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />沸油 <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" />象伕
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Boiling_Oil"
+                >沸油</nuxt-link
+              ><br />
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Mahouts"
+                >象伕</nuxt-link
+              >
             </td>
           </tr>
         </table>

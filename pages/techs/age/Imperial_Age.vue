@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            帝王時代是世界帝國的第四個時代。這個時代開始可以訓練<nuxt-link
+            <b>帝王時代</b
+            >是世界帝國的第四個時代。這個時代開始可以訓練<nuxt-link
               to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
             >(<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -21,7 +22,10 @@
             >讓玩家更容易進攻對方城鎮。
           </p>
           <p>
-            進入帝王時代後每個文明都可以建造各自的世界奇觀，世界奇觀的建造速度每個文明都是一樣的。
+            進入帝王時代後每個<nuxt-link to="/civs">文明</nuxt-link
+            >都可以建造各自的<nuxt-link to="/building/Wonder"
+              >世界奇觀</nuxt-link
+            >，世界奇觀的建造速度每個文明都是一樣的。
           </p>
         </div>
         <h3>可建造建築</h3>
@@ -69,11 +73,16 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
-              >：具有高攻擊力的塔。(需先研發<nuxt-link to="/techs/Chemistry"
-                >化學</nuxt-link
-              >)
+              >：具有高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >的塔。(需先研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link>)
             </li>
-            <p>大型箭塔和火砲塔都得先在學院研發相關科技才可建造。</p>
+            <p>
+              <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>和<nuxt-link
+                to="/building/Bombard_Tower"
+                >火砲塔</nuxt-link
+              >都得先在<nuxt-link to="/building/University">學院</nuxt-link
+              >研發相關<nuxt-link to="/techs">科技</nuxt-link>才可建造。
+            </p>
           </ul>
         </div>
         <h3>可生產單位</h3>
@@ -105,7 +114,10 @@
                 src="~assets/HalberdierIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>：反騎兵單位。
+              /><nuxt-link to="/units/Halberdier">戟兵</nuxt-link>：反<nuxt-link
+                to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
+              >。
             </li>
             <li>
               <img
@@ -114,7 +126,8 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
-              >：偵查單位，可對付弓箭手。
+              >：偵查單位，可對付<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+              >。
             </li>
             <li>
               <img
@@ -123,8 +136,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Condottiero">傭兵</nuxt-link
-              >：反火藥單位。(限<nuxt-link to="/civs/Italians">義大利</nuxt-link
-              >和其同盟)
+              >：反<nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              >。(限<nuxt-link to="/civs/Italians">義大利</nuxt-link>和其同盟)
             </li>
           </ul>
           <strong
@@ -137,7 +151,10 @@
                 src="~assets/ArbalestIcon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>：弓兵單位。
+              /><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>：<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵單位</nuxt-link
+              >。
             </li>
             <li>
               <img
@@ -156,8 +173,8 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Genitour">精銳標槍騎兵</nuxt-link
-              >：反矛兵的騎馬弓兵單位。(限<nuxt-link to="/civs/Berbers"
-                >柏柏</nuxt-link
+              >：反<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >的騎馬弓兵單位。(限<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >和其同盟)
             </li>
             <li>
@@ -255,7 +272,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
-              >：強力長程攻城單位。
+              >：強力長程<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >。
             </li>
           </ul>
           <strong
@@ -271,7 +290,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Onager">中型投石車</nuxt-link
-              >：範圍散射攻城武器。
+              >：範圍散射<nuxt-link to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >。
             </li>
             <li>
               <img
@@ -291,7 +312,8 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
-              >：反建築物攻城單位，對箭矢攻擊幾乎免疫。
+              >：反<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻城單位，對箭矢攻擊幾乎免疫。
             </li>
             <li>
               <img
@@ -423,7 +445,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
-                >：農田產量+175。
+                >：<nuxt-link to="/building/Farm">農田</nuxt-link>產量+175。
               </li>
             </ul>
             <strong
@@ -437,7 +459,8 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Two-Man_Saw">雙人鋸</nuxt-link
-                >：村民伐木速度快10%。
+                >：<nuxt-link to="/units/Villager">村民</nuxt-link
+                >伐木速度快10%。
               </li>
             </ul>
             <strong><nuxt-link to="/building/Market">市集</nuxt-link></strong>
@@ -480,7 +503,11 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
-                >：馬弓騎兵護甲+1/+2，對長槍兵攻擊+4。
+                >：<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                  >馬弓騎兵護甲</nuxt-link
+                >+1/+2，對<nuxt-link to="/armor/Armor_Class_Spearman"
+                  >長槍兵</nuxt-link
+                >攻擊+4。
               </li>
             </ul>
             <strong><nuxt-link to="/building/Dock">碼頭</nuxt-link></strong>
@@ -491,8 +518,12 @@
                   src="~assets/Drydock.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
-                >：船隻航行速度+15%，運輸船可承載單位+10。
+                /><nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>：<nuxt-link
+                  to="/units/Naval_Vessels"
+                  >船隻</nuxt-link
+                >航行速度+15%，<nuxt-link to="/units/Transport_Ship"
+                  >運輸船</nuxt-link
+                >可承載單位+10。
               </li>
               <li>
                 <img
@@ -513,7 +544,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/untech">特殊科技</nuxt-link
-                >：可研發該文明的特殊科技。
+                >：可研發該文明的<nuxt-link to="/techs/untech"
+                  >特殊科技</nuxt-link
+                >。
               </li>
               <li>
                 <img
@@ -522,7 +555,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link
-                >：城堡+20% HP。
+                >：<nuxt-link to="/building/Castle">城堡</nuxt-link>+20% HP。
               </li>
               <li>
                 <img
@@ -540,7 +573,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
-                >：軍營、靶場、馬廄、城堡訓練部隊速度+33%。
+                >：<nuxt-link to="/building/Barracks">軍營</nuxt-link
+                >、靶場、<nuxt-link to="/building/Stable">馬廄</nuxt-link
+                >、城堡訓練部隊速度+33%。
               </li>
               <li>
                 <img
@@ -549,7 +584,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Spies">間諜</nuxt-link
-                >：可看到敵方視野。
+                >：可看到敵方<nuxt-link to="/los.php">視野</nuxt-link>。
               </li>
               <li>
                 <img
@@ -558,7 +593,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Spies">叛徒</nuxt-link
-                >：在弒君模式下可短暫看見敵對國王位置。小地圖上以X顯示。該科技只在弒君模式有。
+                >：在弒君模式下可短暫看見敵對<nuxt-link to="/units/King"
+                  >國王</nuxt-link
+                >位置。小地圖上以X顯示。該科技只在弒君模式有。
               </li>
               <h4>1.並不是所有的特殊科技都是屬於軍事科技。</h4>
             </ul>
@@ -573,7 +610,8 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
-                >：弓兵和馬弓騎兵護甲+1/+2。
+                >：<nuxt-link to="/units/Archer">弓兵</nuxt-link
+                >和馬弓騎兵護甲+1/+2。
               </li>
               <li>
                 <img
@@ -582,7 +620,12 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Bracer">護腕</nuxt-link
-                >：弓兵、馬弓騎兵、戰船、城堡攻擊+1、範圍+1(箭塔只有攻擊+1)。
+                >：弓兵、<nuxt-link to="/units/Cavalry_Archer"
+                  >馬弓騎兵</nuxt-link
+                >、戰船、城堡攻擊+1、範圍+1(<nuxt-link
+                  to="/building/Watch_Tower"
+                  >箭塔</nuxt-link
+                >只有攻擊+1)。
               </li>
               <li>
                 <img
@@ -591,7 +634,8 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
-                >：步兵騎兵攻擊+2。
+                >：<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+                >、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>攻擊+2。
               </li>
               <li>
                 <img
@@ -609,7 +653,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
-                >：騎兵護甲+1/+2。
+                >：<nuxt-link to="/armor/Armor_Class_Cavalry"
+                  >騎兵護甲</nuxt-link
+                >+1/+2。
               </li>
             </ul>
             <strong
@@ -632,7 +678,12 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-                >:攻城武器攻擊範圍+1(衝撞車除外)。對建築物攻擊加成+20%(爆炸桶+40%)。
+                >:攻城武器攻擊範圍+1(<nuxt-link to="/units/Battering_Ram"
+                  >衝撞車</nuxt-link
+                >除外)。對<nuxt-link to="/armor/Armor_Class_Building"
+                  >建築物</nuxt-link
+                >攻擊加成+20%(<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+                >+40%)。
               </li>
               <li>
                 <img
@@ -641,7 +692,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
-                >：瞭望箭塔/防禦箭塔/大型箭塔攻擊+1/+2/+3。
+                >：<nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
+                >/<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
+                >/大型箭塔攻擊+1/+2/+3。
               </li>
             </ul>
             <strong
@@ -655,7 +708,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Illumination">啟發教化</nuxt-link
-                >：僧侶招降成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
+                >：<nuxt-link to="/units/Monk">僧侶</nuxt-link
+                ><nuxt-link to="/elements/Conversion">招降</nuxt-link
+                >成功後，恢復信仰的速度快50%。33秒後可再次招降對方(原為62秒)。
               </li>
               <li>
                 <img
@@ -664,7 +719,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
-                >：單位對僧侶(傳教士)的招降更具抵抗力。
+                >：單位對僧侶(<nuxt-link to="/units/Missionary"
+                  >傳教士</nuxt-link
+                >)的招降更具抵抗力。
               </li>
               <li>
                 <img
@@ -720,11 +777,20 @@
             <div class="n1">
               <p>
                 偉大的國王的興起和他們對帝國的追求，帶來了可以稱為帝國時代的中世紀的最後一部分。
-                英國，法國，西班牙和斯堪的納維亞的國家領導人正在用封建制度取代封建制度。
+                <nuxt-link to="/civs/Britons">英國</nuxt-link>，<nuxt-link
+                  to="/civs/Franks"
+                  >法國</nuxt-link
+                >，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+                >和斯堪的納維亞的國家領導人正在用封建制度取代封建制度。
                 貿易蓬勃發展，城市規模和實力不斷增長。
                 文藝復興正在意大利進行並遍布歐洲。 技術和學習超過了古代世界。
-                槍支和其他創新結束了騎士和城堡的軍事統治。
-                中世紀的這個末期可能會出現幾個重要事件，包括土耳其奪取君士坦丁堡，發現新大陸，海上與亞洲的貿易聯繫以及馬丁·路德的宗教改革。
+                槍支和其他創新結束了<nuxt-link to="/units/Knight"
+                  >騎士</nuxt-link
+                >和城堡的軍事統治。
+                中世紀的這個末期可能會出現幾個重要事件，包括<nuxt-link
+                  to="/civs/Turks"
+                  >土耳其</nuxt-link
+                >奪取君士坦丁堡，發現新大陸，海上與亞洲的貿易聯繫以及馬丁·路德的宗教改革。
               </p>
             </div>
           </div>
@@ -813,7 +879,7 @@
                 src="~assets/Towncentericon.png"
                 width="22"
                 alt=""
-              />城鎮中心
+              /><nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -830,11 +896,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">1000</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">800</td>
           </tr>
         </table>

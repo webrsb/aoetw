@@ -14,12 +14,16 @@
               >射手</nuxt-link
             >
             <nuxt-link to="/units/hero">英雄</nuxt-link
-            >，在敘述他本身的戰役，<nuxt-link to="/batt/Prithviraj"
+            >，在敘述他本身的<nuxt-link to="/batt">戰役</nuxt-link>，<nuxt-link
+              to="/batt/Prithviraj"
               >布里斯比羅吉</nuxt-link
             >的幾個關卡中出現，也可在地圖編輯器中使用。
           </p>
           <p>
-            他在遊戲中以弩兵的外型出現，由於他是一名英雄，因此不會被招降且會自動回血。
+            他在遊戲中以<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >的外型出現，由於他是一名<nuxt-link to="/units/hero">英雄</nuxt-link
+            >，因此不會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>
@@ -61,12 +65,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">90</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">7(遠程)</td>
+            <td class="unit4">
+              7(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -76,7 +84,9 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -100,16 +110,16 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
             </td>
@@ -119,7 +129,7 @@
             <td class="unit4">0.96</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
         </table>

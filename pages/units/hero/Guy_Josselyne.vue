@@ -9,8 +9,35 @@
         <div class="n1">
           <p>
             <strong>蓋佐斯爾立</strong>是《世紀帝國 II HD:
-            帝王世紀》中的一名騎兵英雄，可以在聖女貞德最後戰役"完美的烈士"和戰役編輯器中找到。蓋佐斯爾立是聖女貞德戰役系列的旁白，也是遊戲中虛擬百年戰爭後期的領導者。蓋佐斯爾立的外觀是遊俠，但會有更多的生命值、護甲和移動速度(如果玩家使用法蘭克文明的話)，不過攻擊速度比一般的遊俠慢。由於他屬於英雄單位，因此不能被招降且會回血(在征服者資料片後)，他也會受騎兵科技加成的影響，但不會受到文明加成的影響
-            。
+            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵英雄</nuxt-link
+            >，可以在<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
+            >最後<nuxt-link to="/batt">戰役</nuxt-link
+            >"完美的烈士"和戰役編輯器中找到。蓋佐斯爾立是<nuxt-link
+              to="/batt/Joan_of_Arc"
+              >聖女貞德戰役</nuxt-link
+            >系列的旁白，也是遊戲中虛擬百年戰爭後期的領導者。蓋佐斯爾立的外觀是<nuxt-link
+              to="/units/Paladin"
+              >遊俠</nuxt-link
+            >，但會有更多的<nuxt-link to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >、護甲和移動速度(如果玩家使用<nuxt-link to="/civs/Franks"
+              >法蘭克</nuxt-link
+            ><nuxt-link to="/civs">文明</nuxt-link>的話)，不過<nuxt-link
+              to="/elements/Rate_of_Fire"
+              >攻擊速度</nuxt-link
+            >比一般的遊俠慢。由於他屬於<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
+            >單位，因此不能被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>(在<nuxt-link
+              to="/units/Conquistador"
+              >征服者</nuxt-link
+            >資料片後)，他也會受<nuxt-link to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >加成的影響，但不會受到文明加成的影響 。
           </p>
           <p></p>
         </div>
@@ -39,12 +66,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -52,7 +82,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">190</td>
           </tr>
           <tr>
@@ -64,24 +96,26 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">騎兵(+2)</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>(+2)
+            </td>
           </tr>
           <tr>
             <td class="unit3">速度</td>
             <td class="unit4">1.45</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

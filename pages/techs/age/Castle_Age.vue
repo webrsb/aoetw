@@ -8,22 +8,28 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            城堡時代是遊戲內第三個時代，來到城堡時代後，能夠生產強大的<nuxt-link
+            <b>城堡時代</b
+            >是遊戲內第三個時代，來到城堡時代後，能夠生產強大的<nuxt-link
               to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >、<nuxt-link to="/units/Monk">僧侶</nuxt-link>、
             <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
             >與建造<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >，更強大的軍事兵種的搭配，劇烈的戰鬥將不可避免，而各文明不同的特性也將發揮出來，展現自己獨特的打法與策略。
+            >，更強大的軍事兵種的搭配，劇烈的戰鬥將不可避免，而各<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >不同的特性也將發揮出來，展現自己獨特的打法與策略。
           </p>
           <p>
-            在台灣與香港，很長一段時間玩家沉迷於城堡才能開始進攻的打法，叫做城堡開打。
+            在台灣與香港，很長一段時間玩家沉迷於<nuxt-link to="/building/Castle"
+              >城堡</nuxt-link
+            >才能開始進攻的打法，叫做城堡開打。
           </p>
         </div>
         <h3>可建造建築</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <strong>民用建築</strong>
+          <strong>民用<nuxt-link to="/building">建築</nuxt-link></strong>
           <ul>
             <li>
               <img
@@ -41,7 +47,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/University">學院</nuxt-link
-              >：研究更強大的科技
+              >：研究更強大的<nuxt-link to="/techs">科技</nuxt-link>
             </li>
             <li>
               <img
@@ -73,7 +79,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link
-              >：生產攻城武器
+              >：生產<nuxt-link to="/units/Siege_Weapons$">攻城武器</nuxt-link>
             </li>
           </ul>
           <strong>防禦建築</strong>
@@ -94,7 +100,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link
-              >：更厚實的城牆
+              >：更厚實的<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link>
             </li>
             <li>
               <img
@@ -129,7 +135,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Monk">僧侶</nuxt-link
-              >：用於治療部隊，招降敵人與收集遺跡。
+              >：用於治療部隊，<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >敵人與收集<nuxt-link to="/Relic">遺跡</nuxt-link>。
             </li>
             <li>
               <img
@@ -160,7 +168,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
-              >：反騎兵單位。
+              >：反<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
+              >。
             </li>
             <li>
               <img
@@ -169,7 +179,10 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-              >：偵查部隊，對弓箭手、僧侶特別厲害。
+              >：偵查部隊，對<nuxt-link to="/armor/Armor_Class_Archer/"
+                >弓箭手</nuxt-link
+              >、<nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link
+              >特別厲害。
             </li>
           </ul>
           <strong
@@ -201,7 +214,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >：移動迅速的遠距離單位。
+              >：移動迅速的<nuxt-link to="/units/Archer_Units"
+                >遠距離單位</nuxt-link
+              >。
             </li>
             <li>
               <img
@@ -209,8 +224,10 @@
                 src="~assets/Slinger_Icon.jpg"
                 width="22"
                 alt=""
-              /><nuxt-link to="/units/Slinger">投石手</nuxt-link
-              >：反步兵單位（<nuxt-link to="/civs/Incas">印加</nuxt-link>限定）
+              /><nuxt-link to="/units/Slinger">投石手</nuxt-link>：反<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵單位</nuxt-link
+              >（<nuxt-link to="/civs/Incas">印加</nuxt-link>限定）
             </li>
             <li>
               <img
@@ -269,7 +286,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
-              >：每個文明都有一種特殊單位
+              >：每個文明都有一種<nuxt-link to="/units/Unique_Unit$"
+                >特殊單位</nuxt-link
+              >
             </li>
             <li>
               <img
@@ -278,7 +297,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Petard">爆炸桶</nuxt-link
-              >：自殺性的攻城單位。
+              >：自殺性的<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >。
             </li>
           </ul>
           <strong
@@ -294,7 +315,8 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
-              >：對建築物有強大的殺傷力。
+              >：對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >有強大的殺傷力。
             </li>
             <li>
               <img
@@ -303,7 +325,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
-              >：可有效打擊對方遠程部隊。
+              >：可有效打擊對方<nuxt-link to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >部隊。
             </li>
             <li>
               <img
@@ -312,7 +336,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Scorpion">弩砲</nuxt-link
-              >：可大規模擊殺步兵。
+              >：可大規模擊殺<nuxt-link to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >。
             </li>
             <li>
               <img
@@ -333,7 +359,7 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
-              >：普通遠程戰船。
+              >：普通遠程<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link>。
             </li>
             <li>
               <img
@@ -351,7 +377,8 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
-              >：反火戰船的自殺單位。
+              >：反<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+              >的自殺單位。
             </li>
             <li>
               <img
@@ -402,7 +429,7 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
-                >：增加建築視野。
+                >：增加建築<nuxt-link to="/los.php">視野</nuxt-link>。
               </li>
               <li>
                 <img
@@ -422,8 +449,11 @@
                   src="~assets/Heavyplow.jpg"
                   width="22"
                   alt=""
-                /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link
-                >：農夫攜帶量增加，農田更多產量。
+                /><nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link>：<nuxt-link
+                  to="/units/Villager"
+                  >農夫</nuxt-link
+                >攜帶量增加，<nuxt-link to="/building/Farm">農田</nuxt-link
+                >更多產量。
               </li>
             </ul>
             <strong
@@ -495,7 +525,8 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Gillnets">流刺網</nuxt-link
-                >：提高漁船的捕魚效率。
+                >：提高<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+                >的捕魚效率。
               </li>
               <li>
                 <img
@@ -504,7 +535,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
-                >:增加船隻的護甲和運輸船的運載量。
+                >:增加<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+                >的護甲和<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+                >的運載量。
               </li>
             </ul>
             <strong
@@ -518,7 +551,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-                >：提高建築物防禦與生命值。
+                >：提高建築物防禦與<nuxt-link to="/elements/Hit_points"
+                  >生命值</nuxt-link
+                >。
               </li>
               <li>
                 <img
@@ -536,7 +571,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
-                >：增加城堡和箭塔對船隻的攻擊。
+                >：增加城堡和<nuxt-link to="/building/Watch_Tower"
+                  >箭塔</nuxt-link
+                >對船隻的攻擊。
               </li>
               <li>
                 <img
@@ -554,7 +591,8 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link
-                >：村民建築速度加快。
+                >：<nuxt-link to="/units/Villager">村民</nuxt-link
+                >建築速度加快。
               </li>
             </ul>
             <strong><nuxt-link to="/building/Barracks">軍營</nuxt-link></strong>
@@ -603,7 +641,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Husbandry"></nuxt-link
-                >畜牧培育：增加騎兵移動速度。
+                ><nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+                >：增加<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+                >移動速度。
               </li>
             </ul>
             <strong
@@ -654,7 +694,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
-                >：增加騎兵防禦。
+                >：增加<nuxt-link to="/armor/Armor_Class_Cavalry"
+                  >騎兵防禦</nuxt-link
+                >。
               </li>
             </ul>
             <strong><nuxt-link to="/building/Castle">城堡</nuxt-link></strong>
@@ -680,7 +722,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link
-                >：可以招降建築與攻城器。
+                >：可以招降建築與<nuxt-link to="/units/Siege_Weapons"
+                  >攻城器</nuxt-link
+                >。
               </li>
               <li>
                 <img
@@ -869,11 +913,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">800</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
         </table>

@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            徵兵制度可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>徵兵制度</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
             <nuxt-link to="/building/Barracks">軍營</nuxt-link>、<nuxt-link
@@ -33,8 +33,10 @@
               >能夠加速徵兵制度的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：徵兵制度科技便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：徵兵制度<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：徵兵制度免費。
@@ -57,7 +59,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            中世紀的國王有能力召喚他們的附庸和農民民兵獲得有限的服務，徵兵是獲得軍人服役的下一個進展，它允許一個領主規範人民服長期的兵役，而不是每年只有幾個月的服役時間，在世界的一些地方，一個人可能會被徵召從事多年的軍旅服務。
+            中世紀的國王有能力召喚他們的附庸和農民<nuxt-link to="/units/Militia"
+              >民兵</nuxt-link
+            >獲得有限的服務，徵兵是獲得軍人服役的下一個進展，它允許一個領主規範人民服長期的兵役，而不是每年只有幾個月的服役時間，在世界的一些地方，一個人可能會被徵召從事多年的軍旅服務。
           </p>
         </div>
       </div>
@@ -83,7 +87,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">全部文明</td>
           </tr>
           <tr>
@@ -115,11 +119,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
@@ -129,7 +137,15 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">軍營、射箭場、馬廄和城堡的單位訓練速度快33%。</td>
+            <td class="unit4">
+              <nuxt-link to="/building/Barracks">軍營</nuxt-link>、<nuxt-link
+                to="/building/Archery_Range"
+                >射箭場</nuxt-link
+              >、<nuxt-link to="/building/Stable">馬廄</nuxt-link>和<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >的單位訓練速度快33%。
+            </td>
           </tr>
         </table>
 

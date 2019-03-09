@@ -8,18 +8,22 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            斥候騎兵或稱斥候，在封建時代有血量優勢與速度而使得他格外具有威脅性，是克制<nuxt-link
+            <b>斥候騎兵</b>或稱<b>斥候</b>，在<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >有<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >優勢與速度而使得他格外具有威脅性，是克制<nuxt-link
               to="/units/Archer_Units"
               >遠程兵種</nuxt-link
             >及有效擾亂對方
             <nuxt-link to="/units/Villager">村民</nuxt-link
-            >的明智選擇。對抵抗僧侶招降較佳與對<nuxt-link
-              to="/armor/Armor_Class_Monk"
-              >僧侶類</nuxt-link
+            >的明智選擇。對抵抗<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            ><nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >較佳與對<nuxt-link to="/armor/Armor_Class_Monk">僧侶類</nuxt-link
             >有+6攻擊加成。
           </p>
           <p>
-            <strong>不可生產文明：</strong>
+            <strong>不可生產<nuxt-link to="/civs">文明</nuxt-link>：</strong>
             <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
@@ -30,7 +34,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            斥候是輕騎兵兵種，可訓練於馬廄，非美洲文明國家皆可以生產，且玩家於一開始皆可獲得一隻斥候。在封建時代即可生產，並且獲得+2攻擊，+2視野和+0.35的速度，利用其速度優勢可以有效的攻擊村民與遠程兵種。
+            斥候是<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
+            >，非美洲文明國家皆可以生產，且玩家於一開始皆可獲得一隻斥候。在封建時代即可生產，並且獲得+2攻擊，+2<nuxt-link
+              to="/los.php"
+              >視野</nuxt-link
+            >和+0.35的速度，利用其速度優勢可以有效的攻擊<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >與<nuxt-link to="/units/Archer_Units">遠程兵種</nuxt-link>。
           </p>
           <p>
             <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -74,7 +86,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
               <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>→
@@ -91,7 +105,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -120,9 +136,8 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
-              >:騎兵對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
-              >和
+              >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>和
               <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >攻擊+3。<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>限定
@@ -206,8 +221,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >：城堡/帝王時代各便宜15/20%。(4.8版本前是都20%)
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15/20%。(4.8版本前是都20%)
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
@@ -220,13 +238,16 @@
               >：只要在一個塞爾特單位的視野下，羊群不會被牽走
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技研發在封建/城堡/帝王時代各便宜10%/15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >研發在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >：斥候血量多20%(在非洲王國資料片上線後)，研發<nuxt-link
-                to="/techs/Chivalry"
+              >：斥候血量多20%(在<nuxt-link to="/games/ak">非洲王國</nuxt-link
+              >資料片上線後)，研發<nuxt-link to="/techs/Chivalry"
                 >騎士精神</nuxt-link
               >後
               <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發速度快40%
@@ -244,7 +265,7 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >升級科技免黃金
+              >升級科技免<nuxt-link to="/resource/Gold">黃金</nuxt-link>
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -334,7 +355,8 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的<nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候</nuxt-link
-              >最初從城堡時代便宜20%，4.8版本後，變成城堡/帝王各便宜15/20%。
+              >最初從<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >便宜20%，4.8版本後，變成城堡/帝王各便宜15/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>的<nuxt-link
@@ -360,7 +382,10 @@
         <div class="n1">
           <ul>
             <li>
-              一旦到了封建時代，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
+              一旦到了封建時代，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或<nuxt-link
+                to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >更快。
             </li>
           </ul>
         </div>
@@ -368,7 +393,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            斥候，軍事中術語。偵察兵的意思。著名史學大家岑仲勉《墨子城守篇簡註》註釋道：“侯，今名偵探或間諜。中世紀仍保持著輕裝甲的騎兵部隊，用於來當軍隊的搜查、巡邏之用。斥候對於戰鬥的作用並不大，因為大部分是小型裝備與武器。然而斥候能搜索敵方情報，對於一場戰爭的勝負往往很關鍵。
+            斥候，軍事中術語。偵察兵的意思。著名史學大家岑仲勉《墨子城守篇簡註》註釋道：“侯，今名偵探或<nuxt-link
+              to="/techs/Spies"
+              >間諜</nuxt-link
+            >。中世紀仍保持著輕裝甲的騎兵部隊，用於來當軍隊的搜查、巡邏之用。斥候對於戰鬥的作用並不大，因為大部分是小型裝備與武器。然而斥候能搜索敵方情報，對於一場戰爭的勝負往往很關鍵。
           </p>
         </div>
       </div>
@@ -433,7 +461,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
@@ -464,7 +494,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>

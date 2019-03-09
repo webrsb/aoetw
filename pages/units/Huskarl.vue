@@ -8,12 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            哥德衛隊是哥德的特殊單位，能夠在<nuxt-link
-              to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >的城堡中訓練。哥德衛隊是一個對箭矢有相當高防禦的單位。哥德衛隊可以在
+            <b>哥德衛隊</b>是<nuxt-link to="/civs/Goths">哥德</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >中訓練。哥德衛隊是一個對箭矢有相當高防禦的單位。哥德衛隊可以在
             <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >升級為精銳哥德衛隊。
+            >升級為<nuxt-link to="/units/Huskarl">精銳哥德衛隊</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,10 +22,20 @@
         <div class="n1">
           <ul>
             <li>
-              哥德衛隊具有優異的攻擊力和速度，但最大的優勢是他們的遠程護甲。當研發了<nuxt-link
-                to="/techs/Plate_Mail_Armor"
+              哥德衛隊具有優異的<nuxt-link to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >和速度，但最大的優勢是他們的<nuxt-link to="/armor"
+                >遠程護甲</nuxt-link
+              >。當研發了<nuxt-link to="/techs/Plate_Mail_Armor"
                 >步兵板甲</nuxt-link
-              >(遠防+2)後，對箭矢的傷害幾乎免疫，這讓他們成為弓兵殺手。一群哥德衛隊可以最小損傷摧毀一座城堡。哥德衛隊適合用來對付弓箭手，但是他們也是相當全面的單位，可以處理大多數的威脅，因為他們幾乎免疫炮火。他們的弱點包括
+              >(<nuxt-link to="/armor">遠防</nuxt-link
+              >+2)後，對箭矢的傷害幾乎免疫，這讓他們成為<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >殺手。一群哥德衛隊可以最小損傷摧毀一座城堡。哥德衛隊適合用來對付<nuxt-link
+                to="/armor/Armor_Class_Archer"
+                >弓箭手</nuxt-link
+              >，但是他們也是相當全面的單位，可以處理大多數的威脅，因為他們幾乎免疫炮火。他們的弱點包括
               <nuxt-link to="/units/Knight">騎士</nuxt-link
               >，還有速度比他們快的弓箭手(如<nuxt-link
                 to="/units/Cavalry_Archer"
@@ -32,7 +43,10 @@
               >、<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>、
               <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >和<nuxt-link to="/units/War_Wagon">馬戰車</nuxt-link
-              >）。因為他們可以選擇逃跑或是遠距離慢慢消耗哥德衛隊的血量。
+              >）。因為他們可以選擇逃跑或是遠距離慢慢消耗哥德衛隊的<nuxt-link
+                to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。
             </li>
             <li>
               由於哥德衛隊缺少近戰裝甲，他們打不過<nuxt-link to="/units/Camel"
@@ -55,7 +69,12 @@
               <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
                 to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
-              >的高HP，強大的攻擊和擴散傷害可輕易摧毀哥德衛隊，但必須警惕戟兵的出現。遠程單位如
+              >的高HP，強大的攻擊和<nuxt-link to="/elements/Area_of_Effect"
+                >擴散傷害</nuxt-link
+              >可輕易摧毀哥德衛隊，但必須警惕<nuxt-link to="/units/Halberdier"
+                >戟兵</nuxt-link
+              >的出現。<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+              >如
               <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
               >，<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
               >或者<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
@@ -136,8 +155,10 @@
                 src="~assets/Arson.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -173,7 +194,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -184,7 +207,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -209,8 +234,10 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:軍營工作速率加快2倍，只限軍營訓練的哥德衛隊
+              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>:<nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >工作速率加快2倍，只限軍營訓練的哥德衛隊
             </td>
           </tr>
           <tr>
@@ -402,11 +429,13 @@
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              ><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>、<nuxt-link
+                to="/techs/Squires"
+                >護衛</nuxt-link
+              >、 <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -430,8 +459,11 @@
             </li>
             <li>哥德衛隊現的移動速度為0.9。</li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:哥德衛隊在城堡/帝王時代訓練便宜15%/35%
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:哥德衛隊在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >訓練便宜15%/35%
             </li>
           </ul>
           <h3>
@@ -469,7 +501,10 @@
               哥德衛隊(Huskarls)也被稱為“Housecarls”，普遍存在於十一世紀薩克森和諾爾斯軍閥的隨從之中。
             </li>
             <li>
-              “哥德衛隊”這個詞不是一個哥德詞，而實際上是古老的挪威語，並且直譯為“眾議院的人”。
+              “哥德衛隊”這個詞不是一個哥德詞，而實際上是古老的<nuxt-link
+                to="/civs/Vikings"
+                >挪威</nuxt-link
+              >語，並且直譯為“眾議院的人”。
             </li>
             <li>
               在遊戲中，哥德衛隊裝備著一把劍和一個盾牌。但從歷史上看，哈斯卡爾更可能使用斧頭作為他們的主要武器而不是劍。
@@ -483,7 +518,14 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在戰勝西羅馬帝國並把歐洲帶入黑暗時代的日耳曼部落，每個部落領袖們包括哥德人在內留下了一群屬於個人的士兵，稱為哥德衛隊。這些人狂熱地服從他們的首領，以換取在分贓資源時更多的福利。哥德衛隊不斷為戰鬥而訓練，並且沒有其他職責。然而，酋長必須在每次的掠奪行動都成功，否則將被推翻或禪位。隨著黑暗時代演進到封建時代，哥德衛隊被封為領主的封臣。他們仍然是領主或國王的個人戰鬥力量，但他們往往在他們的首領交給他們的土地上負責自己的頁務。這個系統取代了資源掠奪分享的制度。
+            在戰勝西羅馬帝國並把歐洲帶入<nuxt-link to="/techs/age/Dark_Age"
+              >黑暗時代</nuxt-link
+            >的日耳曼部落，每個<nuxt-link to="/techs/Tigui">部落領袖</nuxt-link
+            >們包括<nuxt-link to="/civs/Goths">哥德人</nuxt-link
+            >在內留下了一群屬於個人的士兵，稱為哥德衛隊。這些人狂熱地服從他們的首領，以換取在分贓資源時更多的福利。哥德衛隊不斷為戰鬥而訓練，並且沒有其他職責。然而，酋長必須在每次的掠奪行動都成功，否則將被推翻或禪位。隨著黑暗時代演進到<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >，哥德衛隊被封為領主的封臣。他們仍然是領主或國王的個人戰鬥力量，但他們往往在他們的首領交給他們的土地上負責自己的頁務。這個系統取代了資源掠奪分享的制度。
           </p>
         </div>
       </div>
@@ -521,7 +563,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Goths">哥德</nuxt-link></td>
           </tr>
           <tr>
@@ -559,11 +601,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">52</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">26</td>
           </tr>
           <tr>
@@ -597,11 +643,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>

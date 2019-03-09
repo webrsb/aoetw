@@ -5,8 +5,15 @@
     <div class="row">
       <div class="col-md-12">
         <p>
-          英雄是帝國時代II的特殊單位。
-          在常規遊戲中不可用，英雄通常指的是歷史人物。因此，他們經常在戰役場景中出現。在那裡，他們往往是必須生存的單位，即他們的死亡意味著失敗。在征服者資料片之後所有英雄都不能被招降，並獲得回血的能力。英雄往往有獨特的外貌，有時甚至有獨特的單位設定，他們通常有很好的戰鬥屬性，這使他們在遊戲中非常有價值。
+          <strong>英雄</strong>是帝國時代II的特殊單位。
+          在常規遊戲中不可用，英雄通常指的是歷史人物。因此，他們經常在<nuxt-link
+            to="/batt"
+            >戰役</nuxt-link
+          >場景中出現。在那裡，他們往往是必須生存的單位，即他們的死亡意味著失敗。在征服者資料片之後所有英雄都不能被<nuxt-link
+            to="/elements/Conversion"
+            >招降</nuxt-link
+          >，並獲得<nuxt-link to="/Regeneration">回血</nuxt-link
+          >的能力。英雄往往有獨特的外貌，有時甚至有獨特的單位設定，他們通常有很好的戰鬥屬性，這使他們在遊戲中非常有價值。
         </p>
       </div>
     </div>
@@ -29,8 +36,12 @@
                 alt=""
               /><nuxt-link to="/units/hero/Aethelfirth">埃特爾</nuxt-link>
             </td>
-            <td class="tunitc4">步兵</td>
-            <td class="tunitc6">菘藍武士</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Legionaries_on_the_Horizon"
                 >羅馬軍團隨時殺到</nuxt-link
@@ -44,7 +55,9 @@
                 >大主教</nuxt-link
               >
             </td>
-            <td class="tunitc4">僧侶</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Monk">僧侶</nuxt-link>
+            </td>
             <td class="tunitc6">僧侶</td>
             <td class="tunitc6">無</td>
           </tr>
@@ -58,8 +71,12 @@
                 >神弓手</nuxt-link
               >
             </td>
-            <td class="tunitc4">弓兵</td>
-            <td class="tunitc6">強弩兵</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Siege_of_Jerusalem"
                 >耶路撒冷攻城戰</nuxt-link
@@ -80,8 +97,12 @@
                 alt=""
               /><nuxt-link to="/units/hero/Bad_Neighbor">壞鄰居</nuxt-link>
             </td>
-            <td class="tunitc4">攻城武器</td>
-            <td class="tunitc6">巨型投石機</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Lion_and_the_Demon"
                 >獅子與惡魔</nuxt-link
@@ -96,8 +117,12 @@
                 alt=""
               /><nuxt-link to="/units/hero/Belisarius">貝利沙魯實</nuxt-link>
             </td>
-            <td class="tunitc4">騎兵</td>
-            <td class="tunitc6">拜占庭聖騎兵</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Legionaries_on_the_Horizon"
                 >羅馬軍團隨時殺到</nuxt-link
@@ -113,7 +138,9 @@
               /><nuxt-link to="/units/hero/Charlemagne">查理曼大帝</nuxt-link>
             </td>
             <td class="tunitc4">步兵</td>
-            <td class="tunitc6">擲斧兵</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Final_Fortress">撒克遜起義</nuxt-link>
             </td>
@@ -169,7 +196,9 @@
               >
             </td>
             <td class="tunitc4">步兵</td>
-            <td class="tunitc6">劍兵勇士</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link>
               <br /><nuxt-link to="/batt/The_Exile_of_the_Cid"
@@ -187,8 +216,12 @@
                 >裝在桶裡的皇帝</nuxt-link
               >
             </td>
-            <td class="tunitc4">村民</td>
-            <td class="tunitc6">貿易車隊</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Villager">村民</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Emperor_Sleeping">沉睡的皇帝</nuxt-link>
             </td>
@@ -201,7 +234,9 @@
               >
             </td>
             <td class="tunitc4">步兵</td>
-            <td class="tunitc6">狂戰士</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Berserk">狂戰士</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Vindlandsaga_1000"
                 >芬特蘭撒格(1000)</nuxt-link
@@ -258,8 +293,12 @@
                 alt=""
               /><nuxt-link to="/units/hero/Genghis_Khan">成吉思汗</nuxt-link>
             </td>
-            <td class="tunitc4">馬弓騎兵</td>
-            <td class="tunitc6">蒙古突騎</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
+            </td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>
             </td>
@@ -272,7 +311,9 @@
                 alt=""
               /><nuxt-link to="/units/hero/God_s_Own_Sling">神之弓</nuxt-link>
             </td>
-            <td class="tunitc4">攻城單位</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link>
+            </td>
             <td class="tunitc6">巨型投石機</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Lion_and_the_Demon"
@@ -289,7 +330,9 @@
               /><nuxt-link to="/units/hero/Guy_Josselyne">蓋佐斯爾立</nuxt-link>
             </td>
             <td class="tunitc4">騎兵</td>
-            <td class="tunitc6">遊俠</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Paladin">遊俠</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
               <br /><nuxt-link to="/batt/The_Final_Fortress"
@@ -351,7 +394,9 @@
               /><nuxt-link to="/units/hero/Jean_Bureau">約翰布荷</nuxt-link>
             </td>
             <td class="tunitc4">攻城單位</td>
-            <td class="tunitc6">火砲</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
             </td>
@@ -382,7 +427,9 @@
                 >聖女貞德</nuxt-link
               >
             </td>
-            <td class="tunitc4">騎士</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/Knight">騎士</nuxt-link>
+            </td>
             <td class="tunitc6">特殊</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link>
@@ -430,7 +477,9 @@
               >
             </td>
             <td class="tunitc4">步兵</td>
-            <td class="tunitc6">日本武士</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Samurai">日本武士</nuxt-link>
+            </td>
             <td class="tunitc6">無</td>
           </tr>
           <tr>
@@ -610,7 +659,9 @@
               /><nuxt-link to="/units/hero/Robin_Hood">羅賓漢</nuxt-link>
             </td>
             <td class="tunitc4">弓兵</td>
-            <td class="tunitc6">長弓兵</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>
+            </td>
             <td class="tunitc6">無</td>
           </tr>
           <tr>
@@ -632,7 +683,9 @@
               >
             </td>
             <td class="tunitc4">攻城武器</td>
-            <td class="tunitc6">爆炸桶</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/Pax_Mongolia">蒙古治下的和平</nuxt-link>
             </td>
@@ -644,7 +697,9 @@
                 >沙赫</nuxt-link
               >
             </td>
-            <td class="tunitc4">國王</td>
+            <td class="tunitc4">
+              <nuxt-link to="/units/King">國王</nuxt-link>
+            </td>
             <td class="tunitc6">國王</td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Horde_Rides_West"
@@ -663,7 +718,9 @@
               >
             </td>
             <td class="tunitc4">步兵</td>
-            <td class="tunitc6">長劍兵</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>
+            </td>
             <td class="tunitc6">無</td>
           </tr>
           <tr>
@@ -738,7 +795,11 @@
               >
             </td>
             <td class="tunitc4">馬弓騎兵</td>
-            <td class="tunitc6">重裝馬弓騎兵</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Heavy_Cavalry_Archer"
+                >重裝馬弓騎兵</nuxt-link
+              >
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/The_Horde_Rides_West"
                 >遊牧民族的西遷</nuxt-link
@@ -784,7 +845,9 @@
               >
             </td>
             <td class="tunitc4">步兵</td>
-            <td class="tunitc6">哥德衛隊</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>
+            </td>
             <td class="tunitc6">
               <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
                 >條條大路通圍城</nuxt-link
@@ -830,8 +893,12 @@
                     >李舜臣將軍</nuxt-link
                   >
                 </td>
-                <td class="tunitc4">戰船</td>
-                <td class="tunitc6">龜甲船</td>
+                <td class="tunitc4">
+                  <nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link>
+                </td>
+                <td class="tunitc6">
+                  <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>
+                </td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Noryang_Point_1598"
                     >洛陽點（1598）</nuxt-link
@@ -893,7 +960,7 @@
                     class="gg"
                     src="~assets/Elcidicon.png"
                     alt=""
-                  /><nuxt-link to="/units/hero/El_Cid_Campeador"
+                  /><nuxt-link to="/units/hero/El_Cid"
                     >羅德里高·迪亞茲·熙德</nuxt-link
                   >
                 </td>
@@ -1054,7 +1121,9 @@
                   >
                 </td>
                 <td class="tunitc4">騎兵</td>
-                <td class="tunitc6">輕騎兵</td>
+                <td class="tunitc6">
+                  <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>
+                </td>
                 <td class="tunitc6">
                   <nuxt-link to="/batt/Bukhara_557">布哈拉（557）</nuxt-link>
                   <br /><nuxt-link to="/batt/Djeriba_Gold"
@@ -1141,7 +1210,11 @@
                       >
                     </td>
                     <td class="tunitc4">步兵</td>
-                    <td class="tunitc6">精銳鷹勇士</td>
+                    <td class="tunitc6">
+                      <nuxt-link to="/units/Elite_Eagle_Warrior"
+                        >精銳鷹勇士</nuxt-link
+                      >
+                    </td>
                     <td class="tunitc6">無</td>
                   </tr>
                   <tr>
@@ -1155,7 +1228,9 @@
                       >
                     </td>
                     <td class="tunitc4">步兵</td>
-                    <td class="tunitc6">傭兵</td>
+                    <td class="tunitc6">
+                      <nuxt-link to="/units/Condottiero">傭兵</nuxt-link>
+                    </td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/An_End_and_a_Beginning"
                         >始兮終兮</nuxt-link
@@ -1182,7 +1257,10 @@
                         >法蘭切斯科·德·奧雷亞納</nuxt-link
                       >
                     </td>
-                    <td class="tunitc4">火藥單位、騎兵</td>
+                    <td class="tunitc4">
+                      <nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+                      >、騎兵
+                    </td>
                     <td class="tunitc6">征服者</td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/Tales_of_La_Canela"
@@ -1208,7 +1286,11 @@
                       >
                     </td>
                     <td class="tunitc4">步兵</td>
-                    <td class="tunitc6">條頓武士</td>
+                    <td class="tunitc6">
+                      <nuxt-link to="/units/Teutonic_Knight"
+                        >條頓武士</nuxt-link
+                      >
+                    </td>
                     <td class="tunitc6">無</td>
                   </tr>
                   <tr>
@@ -1236,7 +1318,9 @@
                       /><nuxt-link to="/units/hero/Jarl">雅爾</nuxt-link>
                     </td>
                     <td class="tunitc4">騎兵</td>
-                    <td class="tunitc6">韃靼騎兵</td>
+                    <td class="tunitc6">
+                      <nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>
+                    </td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/York_865">約克（865）</nuxt-link>
                       <br /><nuxt-link to="/batt/Honfoglalas_895"
@@ -1253,7 +1337,11 @@
                       /><nuxt-link to="/units/hero/Khosrau">霍斯勞</nuxt-link>
                     </td>
                     <td class="tunitc4">馬弓騎兵</td>
-                    <td class="tunitc6">象弓騎兵</td>
+                    <td class="tunitc6">
+                      <nuxt-link to="/units/Elephant_Archer"
+                        >象弓騎兵</nuxt-link
+                      >
+                    </td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/Bapheus_1302"
                         >巴菲烏斯(1302)</nuxt-link
@@ -1285,7 +1373,9 @@
                       /><nuxt-link to="/units/hero/Prithvi">布里斯比</nuxt-link>
                     </td>
                     <td class="tunitc4">弓兵</td>
-                    <td class="tunitc6">弩兵</td>
+                    <td class="tunitc6">
+                      <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>
+                    </td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/A_Promising_Warrior"
                         >英雄出少年</nuxt-link
@@ -1337,7 +1427,9 @@
                       /><nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link>
                     </td>
                     <td class="tunitc4">騎兵</td>
-                    <td class="tunitc6">奴隸兵</td>
+                    <td class="tunitc6">
+                      <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>
+                    </td>
                     <td class="tunitc6">無</td>
                   </tr>
                   <tr>
@@ -1383,7 +1475,9 @@
                       >
                     </td>
                     <td class="tunitc4">騎兵</td>
-                    <td class="tunitc6">貴族鐵騎</td>
+                    <td class="tunitc6">
+                      <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>
+                    </td>
                     <td class="tunitc6">
                       <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings"
                         >火龍展翅</nuxt-link
@@ -1426,7 +1520,9 @@
                           >
                         </td>
                         <td class="tunitc4">騎兵</td>
-                        <td class="tunitc6">戰象</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1438,7 +1534,11 @@
                           /><nuxt-link to="/units/hero/Babur">巴卑爾</nuxt-link>
                         </td>
                         <td class="tunitc4">騎兵</td>
-                        <td class="tunitc6">帝王駱駝騎兵</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Imperial_Camel"
+                            >帝王駱駝騎兵</nuxt-link
+                          >
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1500,7 +1600,11 @@
                           >
                         </td>
                         <td class="tunitc4">步兵</td>
-                        <td class="tunitc6">熱那亞弩手</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Genoese_Crossbowman"
+                            >熱那亞弩手</nuxt-link
+                          >
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1514,7 +1618,11 @@
                           >
                         </td>
                         <td class="tunitc4">步兵</td>
-                        <td class="tunitc6">雙手劍兵</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Two-Handed_Swordsman"
+                            >雙手劍兵</nuxt-link
+                          >
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1528,7 +1636,9 @@
                           >
                         </td>
                         <td class="tunitc4">弓兵</td>
-                        <td class="tunitc6">投石手</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Slinger">投石手</nuxt-link>
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1542,7 +1652,11 @@
                           >
                         </td>
                         <td class="tunitc4">步兵</td>
-                        <td class="tunitc6">豹勇士</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Jaguar_Warrior"
+                            >豹勇士</nuxt-link
+                          >
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1556,7 +1670,9 @@
                           >
                         </td>
                         <td class="tunitc4">步兵</td>
-                        <td class="tunitc6">長槍兵</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Spearman">長槍兵</nuxt-link>
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1584,7 +1700,11 @@
                           >
                         </td>
                         <td class="tunitc4">馬弓騎兵</td>
-                        <td class="tunitc6">駱駝弓騎兵</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Camel_Archer"
+                            >駱駝弓騎兵</nuxt-link
+                          >
+                        </td>
                         <td class="tunitc6">
                           <nuxt-link to="/batt/Consolidation_and_Subjugation"
                             >攻城拔寨</nuxt-link
@@ -1602,7 +1722,11 @@
                           >
                         </td>
                         <td class="tunitc4">火藥單位</td>
-                        <td class="tunitc6">土耳其火槍兵</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Janissary"
+                            >土耳其火槍兵</nuxt-link
+                          >
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1616,7 +1740,11 @@
                           >
                         </td>
                         <td class="tunitc4">弓兵</td>
-                        <td class="tunitc6">羽毛箭射手</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Plumed_Archer"
+                            >羽毛箭射手</nuxt-link
+                          >
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1630,7 +1758,9 @@
                           >
                         </td>
                         <td class="tunitc4">步兵</td>
-                        <td class="tunitc6">槍隊長</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1676,7 +1806,9 @@
                           >
                         </td>
                         <td class="tunitc4">弓兵</td>
-                        <td class="tunitc6">連弩兵</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1724,7 +1856,9 @@
                           >
                         </td>
                         <td class="tunitc4">馬弓騎兵</td>
-                        <td class="tunitc6">標槍騎兵</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>
+                        </td>
                         <td class="tunitc6">
                           <nuxt-link to="/batt/The_Battle_of_Guadalete"
                             >瓜達萊特之戰</nuxt-link
@@ -1760,7 +1894,11 @@
                           >
                         </td>
                         <td class="tunitc4">步兵</td>
-                        <td class="tunitc6">彎刀勇士</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Shotel_Warrior"
+                            >彎刀勇士</nuxt-link
+                          >
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                       <tr>
@@ -1786,7 +1924,9 @@
                           >
                         </td>
                         <td class="tunitc4">騎兵</td>
-                        <td class="tunitc6">匈牙利輕騎兵</td>
+                        <td class="tunitc6">
+                          <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link>
+                        </td>
                         <td class="tunitc6">無</td>
                       </tr>
                     </table>
@@ -1815,7 +1955,11 @@
                               >
                             </td>
                             <td class="tunitc4">騎兵</td>
-                            <td class="tunitc6">精銳矛象伕</td>
+                            <td class="tunitc6">
+                              <nuxt-link to="/units/Elite_Battle_Elephant"
+                                >精銳矛象伕</nuxt-link
+                              >
+                            </td>
                             <td class="tunitc6">
                               <nuxt-link to="/batt/The_Burmese_Tigers"
                                 >餓虎撲食</nuxt-link
@@ -1909,7 +2053,11 @@
                               >
                             </td>
                             <td class="tunitc4">步兵</td>
-                            <td class="tunitc6">爪刀勇士</td>
+                            <td class="tunitc6">
+                              <nuxt-link to="/units/Karambit_Warrior"
+                                >爪刀勇士</nuxt-link
+                              >
+                            </td>
                             <td class="tunitc6">無</td>
                           </tr>
                           <tr>

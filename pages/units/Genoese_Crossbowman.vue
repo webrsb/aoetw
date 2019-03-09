@@ -8,18 +8,24 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            熱那亞弩手是<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-            >資料片中義大利的特殊單位，能夠在<nuxt-link
-              to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>熱那亞弩手</b>是<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >資料片中<nuxt-link to="/civs/Italians">義大利</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。是個對騎兵有攻擊加成的弓兵。
+            >中訓練。是個對<nuxt-link to="/armor/Armor_Class_Cavalry"
+              >騎兵</nuxt-link
+            >有攻擊加成的<nuxt-link to="/armor/Armor_Class_Archer"
+              >弓兵</nuxt-link
+            >。
           </p>
           <p>
             熱那亞弩手可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳熱那亞弩手。
+            >升級為<nuxt-link to="/units/Genoese_Crossbowman"
+              >精銳熱那亞弩手</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -27,8 +33,9 @@
         <div class="n1">
           <ul>
             <li>
-              熱那亞弩手是一個能對付騎兵的弓箭手。即使是強大的大象單位（如<nuxt-link
-                to="/units/War_Elephant"
+              熱那亞弩手是一個能對付騎兵的<nuxt-link to="/units/Archer_Units"
+                >弓箭手</nuxt-link
+              >。即使是強大的大象單位（如<nuxt-link to="/units/War_Elephant"
                 >戰象</nuxt-link
               >和<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
               >）在面對大量熱那亞弩手的時候也毫無招架之力，不過在面對
@@ -41,7 +48,10 @@
                 to="/units/Knight"
                 >騎士</nuxt-link
               >以及<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-              >。有一定數量後也可對付一些較弱的弓兵單位，不過
+              >。有一定數量後也可對付一些較弱的<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵單位</nuxt-link
+              >，不過
               <nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
               >和<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
               >還是能贏過他們的。騎兵部隊仍然可以在一對一的戰鬥中擊敗熱那亞弩手。
@@ -70,7 +80,10 @@
             </li>
             <li>
               與大多數單位相反，熱那亞弩手在升級時獲得更快的攻擊速率。開火速率從3.05秒/次
-              提升到2.03秒/次，基本上使精銳熱那亞弩手的射速快兩倍。所以盡快升級精銳是玩家要考慮的事情，因為會大大增加他們的傷害輸出。
+              提升到2.03秒/次，基本上使精銳熱那亞弩手的<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >射速</nuxt-link
+              >快兩倍。所以盡快升級精銳是玩家要考慮的事情，因為會大大增加他們的傷害輸出。
             </li>
           </ul>
         </div>
@@ -111,7 +124,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -223,7 +238,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -350,7 +367,8 @@
               </div>
             </div>
           </div>
-          以下團隊加分可讓以下單位對熱那亞弩手有額外攻擊力
+          以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+          >可讓以下單位對熱那亞弩手有額外攻擊力
           <div class="n1">
             <nuxt-link to="/civs/Persians">波斯</nuxt-link
             >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -388,7 +406,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-              >：熱那亞弩手視野+2。。
+              >：熱那亞弩手<nuxt-link to="/los.php">視野</nuxt-link>+2。。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -445,13 +463,22 @@
         <div class="n1">
           <li>
             在<nuxt-link to="/games/aof">《世紀帝國:失落的帝國》</nuxt-link
-            >的mod版本中，熱那亞弩手使用修改過的火槍兵模組。然而，在零售版中，他們獲得了新的模組:攜帶著盾牌的弩手。
+            >的mod版本中，熱那亞弩手使用修改過的<nuxt-link
+              to="/units/Hand_Cannoneer"
+              >火槍兵</nuxt-link
+            >模組。然而，在零售版中，他們獲得了新的模組:攜帶著盾牌的弩手。
           </li>
           <li>
-            熱那亞弩手的盾牌外觀與巨盾很相似，巨盾是中世紀歐洲弓箭手使用的一種高凸形盾牌，作為一種移動掩護物，可以在沒有射擊的情況下躲在後面，儘管單位似乎永遠不會在蹲下時與敵人交戰，因此在面對遠程對手時這個盾牌有點沒用。同樣在現實中，這個巨盾比弓手高很多，而在遊戲中卻要短得多。但是，他們在移動時確實在背上攜帶了這種巨盾，這跟歷史是相符的。。
+            熱那亞弩手的盾牌外觀與<nuxt-link to="/techs/Pavise">巨盾</nuxt-link
+            >很相似，巨盾是中世紀歐洲弓箭手使用的一種高凸形盾牌，作為一種移動掩護物，可以在沒有射擊的情況下躲在後面，儘管單位似乎永遠不會在蹲下時與敵人交戰，因此在面對<nuxt-link
+              to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >對手時這個盾牌有點沒用。同樣在現實中，這個巨盾比弓手高很多，而在遊戲中卻要短得多。但是，他們在移動時確實在背上攜帶了這種巨盾，這跟歷史是相符的。。
           </li>
           <li>
-            熱那亞弩手是少數對馬弓騎兵有攻擊加成的弓兵單位，其他則有<nuxt-link
+            熱那亞弩手是少數對<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >有攻擊加成的弓兵單位，其他則有<nuxt-link
               to="/units/Elite_Skirmisher"
               >戰矛兵</nuxt-link
             >、
@@ -460,7 +487,12 @@
             >和<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link>。
           </li>
           <li>
-            熱那亞弩手對騎兵的加成傷害可能是指教皇在1096年禁止武器的禁令。禁令的頒布是因為一名經過多年軍事訓練的騎士可輕易地被一個幾乎沒有受過訓練或使用過弩的農民殺死。結果，弩被認為是對統治精英的威脅，讓他們遊說羅馬天主教會禁止這些武器。
+            熱那亞弩手對<nuxt-link to="/armor/Armor_Class_Cavalry"
+              >騎兵</nuxt-link
+            >的加成傷害可能是指教皇在1096年禁止武器的禁令。禁令的頒布是因為一名經過多年軍事訓練的<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >可輕易地被一個幾乎沒有受過訓練或使用過弩的農民殺死。結果，弩被認為是對統治精英的威脅，讓他們遊說羅馬天主教會禁止這些武器。
           </li>
         </div>
       </div>
@@ -502,7 +534,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>
             </td>
@@ -542,11 +574,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">45</td>
           </tr>
           <tr>
-            <td class="unit3">黃金代</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>代
+            </td>
             <td class="unit4">45</td>
           </tr>
           <tr>
@@ -559,7 +595,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">45/50(精銳)</td>
           </tr>
           <tr>
@@ -581,11 +619,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">3.05/2.03(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -601,11 +643,11 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -647,7 +689,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />900食物750黃金
+              />900<nuxt-link to="/resource/Food">食物</nuxt-link>750黃金
             </td>
           </tr>
           <tr>
@@ -715,7 +757,13 @@
                   src="~assets/Genoese_&_Condottiero (1).jpg"
                   alt=""
               /></gallery>
-              <p><em>義大利的特殊單位:傭兵(左)和熱那亞弩手(右)。</em></p>
+              <p>
+                <em
+                  >義大利的特殊單位:<nuxt-link to="/units/Condottiero"
+                    >傭兵</nuxt-link
+                  >(左)和熱那亞弩手(右)。</em
+                >
+              </p>
             </div>
           </div>
         </div>

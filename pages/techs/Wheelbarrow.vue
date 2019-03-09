@@ -8,27 +8,45 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            獨輪推車可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>獨輪推車</b>可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >研發。研發後村民移動速度快10%，每趟可攜帶資源量+25%(從10增加為13，所以實際是30%)。
+            >研發。研發後<nuxt-link to="/units/Villager">村民</nuxt-link
+            >移動速度快10%，每趟可攜帶資源量+25%(從10增加為13，所以實際是30%)。
           </p>
           <p>
-            獨輪推車通常是研發一級木與一級田之後才會研發，他將為每個村民增加7～13％的工作效率，但需要175食物50木頭與75秒的研究時間。當你有大約35個村民的時候最好研究這個技術，如果你不愛算村民數，那麼你在遊戲中，如果保持村民不間斷，大概是17～19分鐘時研發最好。還有一點，你有很多農夫時，可以更早研發，相反的，你在海圖靠捕魚或是很少農夫種田，那麼你可以晚點研發。
+            獨輪推車通常是研發一級木與一級田之後才會研發，他將為每個村民增加7～13％的工作效率，但需要175<nuxt-link
+              to="/resource/Food"
+              >食物</nuxt-link
+            >50<nuxt-link to="/resource/Wood">木頭</nuxt-link
+            >與75秒的研究時間。當你有大約35個村民的時候最好研究這個技術，如果你不愛算村民數，那麼你在遊戲中，如果保持村民不間斷，大概是17～19分鐘時研發最好。還有一點，你有很多<nuxt-link
+              to="/units/Villager"
+              >農夫</nuxt-link
+            >時，可以更早研發，相反的，你在海圖靠捕魚或是很少農夫種田，那麼你可以晚點研發。
           </p>
-          <p>當然如果打一般封快，上城堡前會先研發，這是高手間的習慣。</p>
+          <p>
+            當然如果打一般封快，上<nuxt-link to="/techs/age/Castle_Age"
+              >城堡</nuxt-link
+            >前會先研發，這是高手間的習慣。
+          </p>
         </div>
         <h3>文明加成</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：研究該科技的時間在封建/城堡/帝王時代快10%/15%/20%。
+              >：研究該科技的時間在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代快10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>：該科技免費。
@@ -39,7 +57,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            當大多數人在農業社區工作時，簡單的手推車或單輪手推車是一項重大發明。中世紀早期的工業很少。經濟主要靠種植農作物，放牧，收集和建設。獨輪車提供了重要的生產力改進。
+            當大多數人在農業社區工作時，簡單的<nuxt-link to="/techs/Hand_Cart"
+              >手推車</nuxt-link
+            >或單輪手推車是一項重大發明。中世紀早期的工業很少。經濟主要靠種植農作物，放牧，收集和建設。獨輪車提供了重要的生產力改進。
           </p>
         </div>
       </div>
@@ -65,7 +85,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -111,7 +131,9 @@
             <td class="unit4">175</td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>

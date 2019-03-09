@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <em>本條目把學院內的防禦箭塔科技與建築的防禦箭塔寫在一起了！</em>
-          </p>
-          <p>
-            瞭望箭塔於可於封建時代建造。瞭望箭塔可有效擔負起早期的防禦工作。
+            <b>瞭望箭塔</b>於可於<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >建造。瞭望箭塔可有效擔負起早期的防禦工作。
           </p>
         </div>
         <h3>戰術</h3>
@@ -23,7 +22,16 @@
             >)防止近戰單位接近並摧毀瞭望箭塔。
           </p>
           <p>
-            瞭望箭塔也可用在進攻方面，例如著名的塔攻。在敵人的城鎮附近找尋資源目標，並在敵人無法發現的視野內建造箭塔阻止敵人收集資源。執行這個戰術玩家需要在黑暗時代先採集石礦，並在上黑暗時代前派村民(至少五名)前往敵方城鎮附近，也可搭配
+            瞭望箭塔也可用在進攻方面，例如著名的塔攻。在敵人的城鎮附近找尋資源目標，並在敵人無法發現的<nuxt-link
+              to="/los.php"
+              >視野</nuxt-link
+            >內建造<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            >阻止敵人收集資源。執行這個戰術玩家需要在<nuxt-link
+              to="/techs/age/Dark_Age"
+              >黑暗時代</nuxt-link
+            >先採集<nuxt-link to="/resource/Stone">石礦</nuxt-link
+            >，並在上黑暗時代前派<nuxt-link to="/units/Villager">村民</nuxt-link
+            >(至少五名)前往敵方城鎮附近，也可搭配
             <nuxt-link to="/units/Militia">民兵</nuxt-link
             >(通常三到四個)和<nuxt-link to="/units/Scout_Cavalry"
               >斥候騎兵</nuxt-link
@@ -35,7 +43,8 @@
             <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >和<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >訓練<nuxt-link to="/units/Archer">弓兵</nuxt-link
-            >增加火力還有升級攻擊力跟射程範圍。可在瞭望箭塔的附近建造
+            >增加火力還有升級<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >跟射程範圍。可在瞭望箭塔的附近建造
             <nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>或<nuxt-link
               to="/building/Palisade_Wall"
               >木牆</nuxt-link
@@ -49,8 +58,13 @@
             <nuxt-link to="/civs/Teutons">條頓人</nuxt-link
             >可十名）的徒步單位（<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >和<nuxt-link to="/units/Archer">弓箭手</nuxt-link
-            >，儘管步兵不會增加火力）可以駐守在一座塔。駐紮的單位可以慢慢恢復生命值。
+            >和<nuxt-link to="/units/Archer">弓箭手</nuxt-link>，儘管<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >不會增加火力）可以駐守在一座塔。駐紮的單位可以慢慢恢復<nuxt-link
+              to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -150,14 +164,16 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link
-              >(+4，僅對船隻) <br />
+              >(+4，僅對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
+              >) <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link
-              >:徒步弓兵射程+1，箭塔攻擊+2，<nuxt-link to="/civs/Britons"
+              >:徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >射程+1，箭塔攻擊+2，<nuxt-link to="/civs/Britons"
                 >不列顛</nuxt-link
               >限定 <br />
               <img
@@ -261,7 +277,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">抗招降能力</td>
+            <td class="tta1">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -323,28 +341,42 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：箭塔在黑暗/封建/城堡/帝王時代增加10%/20%/30%/40% HP
+              >：箭塔在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >增加10%/20%/30%/40% HP
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對箭塔有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：對箭塔有利的科技在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>：箭塔石頭花費-15%。
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>：箭塔<nuxt-link
+                to="/resource/Stone"
+                >石頭</nuxt-link
+              >花費-15%。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-              >：箭塔建造速度更快(75s其他文明 80s)。箭塔科技升級免費
+              >：箭塔建造速度更快(75s其他<nuxt-link to="/civs">文明</nuxt-link>
+              80s)。箭塔科技升級免費
             </li>
             <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：箭塔木頭花費-15%。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：箭塔<nuxt-link
+                to="/resource/Wood"
+                >木頭</nuxt-link
+              >花費-15%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：<nuxt-link
                 to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
               >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
-              >在封建/城堡/帝王時代研發快10%/15%/20%。
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代研發快10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -383,7 +415,7 @@
           <ul>
             <li>
               升級到<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
-              >需要100食物和250石材。
+              >需要100<nuxt-link to="/resource/Food">食物</nuxt-link>和250石材。
             </li>
             <li>
               <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
@@ -404,7 +436,7 @@
           <ul>
             <li>
               升級到<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
-              >需要100食物和250木材。
+              >需要100食物和250<nuxt-link to="/resource/Wood">木材</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
@@ -476,7 +508,8 @@
             </li>
             <li>
               引入<nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
-              >，在城堡時代可研發並給<nuxt-link to="/building/Watch_Tower"
+              >，在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >可研發並給<nuxt-link to="/building/Watch_Tower"
                 >瞭望箭塔</nuxt-link
               >攻擊+2。在4.8版
               <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link
@@ -488,8 +521,10 @@
               >讓箭塔可發射額外<strong>兩支箭</strong>。
             </li>
             <li>
-              在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link
-              >後，韓國蓋塔時間60s → 75s (其他文明 80s)
+              在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，<nuxt-link
+                to="/civs/Koreans"
+                >韓國</nuxt-link
+              >蓋塔時間60s → 75s (其他文明 80s)
             </li>
             <li>
               在<nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，箭塔花費25W
@@ -501,7 +536,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            一些最早的強化石頭建築是簡單的箭塔。從塔上領主可以對很大範圍進行觀察。這個石頭結構使得它間不可慛除非被一大群部隊攻擊。領主還可以撤回到塔樓內，把他的動物放在底部，二樓放存糧和寶藏，住在上面的樓層，並在塔的頂端戰鬥。諾曼人因在諾曼第和英格蘭的土地上建造石製箭塔以提供軍事和政治控制而聞名。
+            一些最早的強化<nuxt-link to="/armor/Armor_Class_stone_defense"
+              >石頭建築</nuxt-link
+            >是簡單的箭塔。從塔上領主可以對很大範圍進行觀察。這個石頭結構使得它間不可慛除非被一大群部隊攻擊。領主還可以撤回到塔樓內，把他的動物放在底部，二樓放存糧和寶藏，住在上面的樓層，並在塔的頂端戰鬥。諾曼人因在諾曼第和英格蘭的土地上建造石製箭塔以提供軍事和政治控制而聞名。
           </p>
         </div>
       </div>
@@ -571,11 +608,13 @@
             <td class="unit4">1x1</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">1020</td>
           </tr>
           <tr>
-            <td class="unit3">駐軍</td>
+            <td class="unit3"><nuxt-link to="/Garrison">駐軍</nuxt-link></td>
             <td class="unit4">所有時代:5</td>
           </tr>
           <tr>
@@ -594,7 +633,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -614,15 +655,15 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link>
               <br />
@@ -641,7 +682,7 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">單位演變</div>
+              <div class="unititle2">建築演變</div>
             </td>
           </tr>
           <tr>
@@ -685,7 +726,13 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有的瞭望箭塔(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有的瞭望箭塔(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -711,7 +758,12 @@
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em
-                  >各種箭塔在一般地圖/下雪地圖的樣子和駐紮單位時的樣子(包括瞭望箭塔/防禦箭塔/大型箭塔/火砲塔/哨站/海上箭塔/詛咒之塔等)。</em
+                  >各種箭塔在一般地圖/下雪地圖的樣子和駐紮單位時的樣子(包括瞭望箭塔/防禦箭塔/<nuxt-link
+                    to="/building/Keep"
+                    >大型箭塔</nuxt-link
+                  >/<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+                  >/<nuxt-link to="/building/Outpost">哨站</nuxt-link
+                  >/海上箭塔/詛咒之塔等)。</em
                 >
               </p>
             </div>

@@ -8,7 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            木門是在世紀帝國:失落的帝國資料片中出現的防禦性建築，他可以建在木牆上，可以讓同盟通過同時阻擋敵人。木門在友方單位靠近時會自動開啟讓他們通過，並在門下沒有任何單位時(我方或敵方)關上。為了避免敵方單位尾隨有方單位進門後佔住城門變成防守漏洞，可以將木門鎖定(可再次解鎖)；然而阻擋敵方單位時我方單位也無法通過該木門。
+            <b>木門</b>是在世紀帝國:<nuxt-link to="/games/aof"
+              >失落的帝國</nuxt-link
+            >資料片中出現的防禦性<nuxt-link to="/building">建築</nuxt-link
+            >，他可以建在<nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link
+            >上，可以讓同盟通過同時阻擋敵人。木門在友方單位靠近時會自動開啟讓他們通過，並在門下沒有任何單位時(我方或敵方)關上。為了避免敵方單位尾隨有方單位進門後佔住<nuxt-link
+              to="/building/Gate"
+              >城門</nuxt-link
+            >變成防守漏洞，可以將木門鎖定(可再次解鎖)；然而阻擋敵方單位時我方單位也無法通過該木門。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -26,7 +33,9 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">除了僧侶外的全部單位。</td>
+            <td class="tta4">
+              除了<nuxt-link to="/units/Monk">僧侶</nuxt-link>外的全部單位。
+            </td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -34,7 +43,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -65,11 +76,19 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：木門在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。
+              >：木門在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >多10%/20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對木門有利的技術在城堡/帝王時代價格便宜15％/20％。
+              >：對木門有利的技術在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代價格便宜15％/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：木門建築速度快33%
@@ -123,7 +142,7 @@
             <td class="unit4">防禦</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -146,7 +165,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">20</td>
           </tr>
           <tr>
@@ -163,11 +184,11 @@
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
@@ -181,7 +202,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

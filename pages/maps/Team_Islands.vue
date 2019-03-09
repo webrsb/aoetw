@@ -10,9 +10,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            開場同盟的玩家都在自己的島嶼上。地圖主要由水域包圍，但大多數戰鬥是在陸地上。能否防止敵人運輸船登陸是勝利關鍵。建造世界奇觀是這張圖的前幾選勝利方式。如果團隊有匈奴人，他們的特殊科技<nuxt-link
-              to="/techs/Atheism"
-              >無神論</nuxt-link
+            開場同盟的玩家都在自己的<b>隊伍島嶼</b>上。地圖主要由水域包圍，但大多數戰鬥是在陸地上。能否防止敵人<nuxt-link
+              to="/units/Transport_Ship"
+              >運輸船</nuxt-link
+            >登陸是勝利關鍵。建造<nuxt-link to="/building/Wonder"
+              >世界奇觀</nuxt-link
+            >是這張圖的前幾選勝利方式。如果團隊有<nuxt-link to="/civs/Huns"
+              >匈奴人</nuxt-link
+            >，他們的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Atheism">無神論</nuxt-link
             >，能額外延長世界奇觀倒數時間100年，給予更多時間來摧毀敵人的奇觀。有良好合作默契的團隊通常會獲得勝利。<nuxt-link
               to="/civs/Vikings"
               >維京</nuxt-link
@@ -22,7 +28,9 @@
             >，<nuxt-link to="/civs/Italians">義大利</nuxt-link>和<nuxt-link
               to="/civs/Saracens"
               >薩拉森</nuxt-link
-            >等海軍強盛的文明在這張地圖上也有很大的優勢。
+            >等<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
+            >強盛的<nuxt-link to="/civs">文明</nuxt-link
+            >在這張地圖上也有很大的優勢。
           </p>
         </div>
       </div>

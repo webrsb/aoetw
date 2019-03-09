@@ -8,7 +8,11 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            駐軍部隊可以安全地免受敵方部隊騷擾，在世紀帝國II中，駐軍部隊會慢慢恢復HP。但如果建築物受到一定程度的破壞，就無法在其內部駐紮單位，且所有駐守的單位都會自動從該建築物中撤出。
+            <strong>駐軍</strong
+            >部隊可以安全地免受敵方部隊騷擾，在世紀帝國II中，駐軍部隊會慢慢恢復HP。但如果<nuxt-link
+              to="/building"
+              >建築物</nuxt-link
+            >受到一定程度的破壞，就無法在其內部駐紮單位，且所有駐守的單位都會自動從該建築物中撤出。
           </p>
           <h4>如何駐軍：</h4>
           <p>
@@ -23,9 +27,9 @@
           <ul>
             <li>
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-              >：最多15位村民或徒步弓步兵（唯獨<nuxt-link to="/civs/Teutons"
-                >條頓</nuxt-link
-              >文明該駐紮單位+10）
+              >：最多15位<nuxt-link to="/units/Villager">村民</nuxt-link
+              >或徒步弓步兵（唯獨<nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              ><nuxt-link to="/civs">文明</nuxt-link>該駐紮單位+10）
             </li>
             <li>
               <nuxt-link to="/building/Barracks">軍營</nuxt-link
@@ -68,8 +72,10 @@
               >：最多20位單位（<nuxt-link to="/units/Trebuchet"
                 >投石機</nuxt-link
               >及<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >城堡特殊單位<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link
-              >撤離後無法再進駐）
+              ><nuxt-link to="/building/Castle">城堡</nuxt-link
+              ><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+              ><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link
+              >撤離後無法再進駐） >撤離後無法再進駐）
             </li>
             <li>
               <nuxt-link to="/building/House">房屋</nuxt-link
@@ -87,7 +93,10 @@
             </li>
             <li>
               <nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
-              >：最多4位村民或徒步弓步兵（進駐可提升移動速度及攻擊力）
+              >：最多4位村民或徒步弓步兵（進駐可提升移動速度及<nuxt-link
+                to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >）
             </li>
             <li>
               <nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
@@ -99,14 +108,18 @@
             </li>
             <li>
               <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
-              >：最多10位村民或徒步弓步兵（軍事建築物聚集點設在攻城塔→可自動進駐）
+              >：最多10位村民或徒步弓步兵（軍事建築物聚集點設在<nuxt-link
+                to="/units/Siege_Tower"
+                >攻城塔</nuxt-link
+              >→可自動進駐）
             </li>
           </ul>
           <h4>可提升箭量之駐守建築物及軍事單位：</h4>
           <ul>
             <li>
               <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-              >：村民、徒步弓兵、火槍兵
+              >：村民、徒步<nuxt-link to="/units/Archer">弓兵</nuxt-link
+              >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>
             </li>
             <li>
               <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
@@ -114,7 +127,10 @@
             </li>
             <li>
               <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
-              >：村民、徒步弓兵、火槍兵（村民進駐提升箭量約比瞭望箭塔少1~2）
+              >：村民、徒步弓兵、火槍兵（村民進駐提升箭量約比<nuxt-link
+                to="/building/Watch_Tower"
+                >瞭望箭塔</nuxt-link
+              >少1~2）
             </li>
             <li>
               <nuxt-link to="/building/Keep">大型箭塔</nuxt-link
@@ -136,7 +152,8 @@
                 >強弩兵</nuxt-link
               >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >（或<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
-              >）駐軍任一箭塔提升箭量不會改變（固定+4）。』<br />
+              >）駐軍任一<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >提升箭量不會改變（固定+4）。』<br />
               『軍事單位升級、或是研發<nuxt-link to="/techs/Chemistry"
                 >化學</nuxt-link
               >……等，<nuxt-link to="/building/Castle">城堡</nuxt-link
@@ -144,24 +161,34 @@
             </p>
           </ul>
           <p>
-            駐軍時單位不會受到敵方攻擊而損血，但如果建築物被破壞或嚴重損壞（剩餘HP≤20%），它們會自動從建築物中撤離。此外，受損單位進駐建築物內部後會慢慢恢復HP，箭塔每秒治療0.1的生命值，而<nuxt-link
-              to="/building/Castle"
-              >城堡</nuxt-link
+            駐軍時單位不會受到敵方攻擊而損血，但如果建築物被破壞或嚴重損壞（剩餘HP≤20%），它們會自動從建築物中撤離。此外，受損單位進駐建築物內部後會慢慢恢復HP，箭塔每秒治療0.1的<nuxt-link
+              to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >，而<nuxt-link to="/building/Castle">城堡</nuxt-link
             >治療速度則是每秒治療0.2的生命值，研發<nuxt-link
               to="/techs/Herbal_Medicine"
               >草藥學</nuxt-link
-            >技術後可更進一步提高回血率。
+            >技術後可更進一步提高<nuxt-link to="/Regeneration">回血</nuxt-link
+            >率。
           </p>
           <p>
-            駐軍村民、徒步弓兵、騎馬弓手、陸地火藥單位……等，可增加塔、城鎮中心、城堡等射箭量輸出（<nuxt-link
-              to="/building/Town_Center"
+            駐軍村民、徒步弓兵、騎馬弓手、陸地<nuxt-link
+              to="/units/Gunpowder_Unit"
+              >火藥單位</nuxt-link
+            >……等，可增加塔、<nuxt-link to="/building/Town_Center"
+              >城鎮中心</nuxt-link
+            >、城堡等射箭量輸出（<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
             >及箭塔無法駐軍騎馬弓手或騎馬<nuxt-link to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
             >），不同文明會有些許差異，單位升級或研發<nuxt-link
               to="/techs/Chemistry"
               >化學</nuxt-link
-            >也會有所影響。有駐守的建築物頂部會有旗幟標誌，其他像是有放置遺跡的修道院也會有旗幟標示。
+            >也會有所影響。有駐守的建築物頂部會有旗幟標誌，其他像是有放置<nuxt-link
+              to="/Relic"
+              >遺跡</nuxt-link
+            >的<nuxt-link to="/building/Monastery">修道院</nuxt-link
+            >也會有旗幟標示。
           </p>
         </div>
       </div>

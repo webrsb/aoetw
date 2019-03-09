@@ -8,14 +8,36 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            魚類是遊戲中重要的食物來源，通常比種田、採集還要來的有效率，且不會腐敗，重點漁船是額外的工作單位，經濟會比純村民的經濟來的好。早期臺灣的大陸地圖禁封海曾經流行過一陣子。
+            <b>魚類</b>是遊戲中重要的<nuxt-link to="/resource/Food"
+              >食物</nuxt-link
+            >來源，通常比種田、採集還要來的有效率，且不會腐敗，重點<nuxt-link
+              to="/units/Fishing_Ship"
+              >漁船</nuxt-link
+            >是額外的工作單位，經濟會比純<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >的經濟來的好。早期臺灣的<nuxt-link to="/maps/Continental"
+              >大陸</nuxt-link
+            >地圖禁封海曾經流行過一陣子。
           </p>
           <p></p>
           <p>
-            島嶼、遊牧與高原等有海的地圖，魚類都是很重要的，所以海上也是兵家必爭之地，而誰先破壞了對方的漁船，也就在遊戲中搶得了先機。
+            <nuxt-link to="/maps/Islands">島嶼</nuxt-link>、遊牧與<nuxt-link
+              to="/maps/Highland"
+              >高原</nuxt-link
+            >等有海的地圖，魚類都是很重要的，所以海上也是兵家必爭之地，而誰先破壞了對方的漁船，也就在遊戲中搶得了先機。
           </p>
           <p>
-            日本是漁船捕魚最有效率的文明，黑暗/封建/城堡/帝王時代各快5％、10％、15％、20％，而印度則是捕魚的村民速度提高15％，攜帶量+15。
+            <nuxt-link to="/civs/Japanese">日本</nuxt-link
+            >是漁船捕魚最有效率的<nuxt-link to="/civs">文明</nuxt-link
+            >，<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link>/<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建</nuxt-link
+            >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link>/<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >各快5％、10％、15％、20％，而<nuxt-link to="/civs/Indians"
+              >印度</nuxt-link
+            >則是捕魚的村民速度提高15％，攜帶量+15。
           </p>
         </div>
         <h3>魚類列表</h3>
@@ -38,7 +60,9 @@
                 style="margin-right: 5px;"
                 alt=""
               /><strong>鯛魚</strong
-              >:225食物，遊戲中常見的魚，多數出現在沿海地圖。
+              >:225食物，遊戲中常見的魚，多數出現在<nuxt-link to="/maps/Coastal"
+                >沿海</nuxt-link
+              >地圖。
             </li>
             <li>
               <img
@@ -63,7 +87,10 @@
                 style="margin-right: 5px;"
                 alt=""
               /><strong>鱸魚</strong
-              >:200食物，遊戲中最稀少的魚類，在大陸、尼羅河三角洲與鹽沼地出現。
+              >:200食物，遊戲中最稀少的魚類，在大陸、<nuxt-link
+                to="/maps/Nile_Delta"
+                >尼羅河三角洲</nuxt-link
+              >與<nuxt-link to="/maps/Salt_Marsh">鹽沼地</nuxt-link>出現。
             </li>
             <li>
               <img
@@ -88,8 +115,10 @@
                 width="22"
                 style="margin-right: 5px;"
                 alt=""
-              /><strong>海豚</strong
-              >:350食物，失落的王朝登場，原本在帝王世紀就會登場，但為了爭議，被取消了。
+              /><strong>海豚</strong>:350食物，失落的王朝登場，原本在<nuxt-link
+                to="/games/aok"
+                >帝王世紀</nuxt-link
+              >就會登場，但為了爭議，被取消了。
             </li>
             <li>
               <img

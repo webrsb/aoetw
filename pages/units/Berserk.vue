@@ -8,14 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            狂戰士是<nuxt-link to="/civs/Vikings">維京</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>狂戰士</b>是<nuxt-link to="/civs/Vikings">維京</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。狂戰士是一個配備高護甲和高攻擊力的單位，而且他們還能自我療傷，在征服者入侵的版本中狂戰士的實用度非常低，在後面的版本修正後（增加速度與對騎兵的加成），實用度大大增加。狂戰士可以在
+            >中訓練。狂戰士是一個配備高護甲和高<nuxt-link to="/elements/Attack"
+              >攻擊力</nuxt-link
+            >的單位，而且他們還能自我療傷，在<nuxt-link to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >的版本中狂戰士的實用度非常低，在後面的版本修正後（增加速度與對<nuxt-link
+              to="/armor/Armor_Class_Cavalry"
+              >騎兵</nuxt-link
+            >的加成），實用度大大增加。狂戰士可以在
             <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >升級為精銳狂戰士。
+            >升級為<nuxt-link to="/units/Berserk">精銳狂戰士</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -23,40 +30,57 @@
         <div class="n1">
           <ul>
             <li>
-              在陸地地圖上，維京人必須在狂戰士和劍兵勇士之間做出選擇。由於兩個單位的升級成本都很高，因此同時生產兩種單位是不切實際的。狂戰士比民兵系有優勢的點在於它們的再生能力，出色的裝甲，攻擊力和速度。在缺點方面，他們多花費5的食物和金幣，而且難以在短時間內大量生產。
+              在陸地地圖上，<nuxt-link to="/civs/Vikings">維京人</nuxt-link
+              >必須在狂戰士和<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+              >之間做出選擇。由於兩個單位的升級成本都很高，因此同時生產兩種單位是不切實際的。狂戰士比<nuxt-link
+                to="/units/Militia"
+                >民兵系</nuxt-link
+              >有優勢的點在於它們的再生能力，出色的裝甲，攻擊力和速度。在缺點方面，他們多花費5的<nuxt-link
+                to="/resource/Food"
+                >食物</nuxt-link
+              >和金幣，而且難以在短時間內大量生產。
             </li>
             <li>
-              狂戰士城堡時代的統計數據遠不如<nuxt-link
-                to="/units/Long_Swordsman"
+              狂戰士<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >的統計數據遠不如<nuxt-link to="/units/Long_Swordsman"
                 >長劍兵</nuxt-link
-              >（按成本計算）。他們唯一的優勢在於他們的再生能力和速度。因此，他們可以有效地執行游擊戰。儘管科技
+              >（按成本計算）。他們唯一的優勢在於他們的再生能力和速度。因此，他們可以有效地執行游擊戰。儘管<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >
               <nuxt-link to="/techs/Chieftains">酋長</nuxt-link
               >給了他們一個對抗<nuxt-link to="/units/Knight">騎士</nuxt-link
               >的機會，但是這個相當不值得，應該使用<nuxt-link
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
-              >對付騎士來的好。
+              >對付<nuxt-link to="/units/Knight">騎士</nuxt-link>來的好。
             </li>
             <li>
               狂戰士在數據上的統計比<nuxt-link to="/units/Champion"
                 >劍兵勇士</nuxt-link
               >優秀許多。當所有科技研發後，狂戰士多了+1攻擊、+1護甲，+
-              0.15速度和以5個食物5個黃金為代價換到的再生能力。劍兵勇士只多了+9
+              0.15速度和以5個食物5個<nuxt-link to="/resource/Gold"
+                >黃金</nuxt-link
+              >為代價換到的再生能力。劍兵勇士只多了+9
               HP，總的來說，狂戰士還是出兵的優先選擇。劍兵勇士的唯一優勢就是對
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
               >的加成。總共獲得+8攻擊，精銳狂戰士只有+3。
             </li>
             <li>
-              狂戰士雖比一般的步兵單位要強，而且能追上徒步的弓兵單位，但在會戰中還是不要讓他們面對一整群的遠程單位。<nuxt-link
-                to="/units/Slinger"
-                >投石手</nuxt-link
-              >和
+              狂戰士雖比一般的<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >要強，而且能追上徒步的<nuxt-link to="/units/Archer_Units"
+                >弓兵單位</nuxt-link
+              >，但在會戰中還是不要讓他們面對一整群的<nuxt-link
+                to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >。<nuxt-link to="/units/Slinger">投石手</nuxt-link>和
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >會狠狠地打你臉。整群的<nuxt-link to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >也是非常可怕。拜占庭聖騎兵、<nuxt-link to="/units/Jaguar_Warrior"
-                >豹勇士</nuxt-link
-              >、
+              >也是非常可怕。<nuxt-link to="/units/Cataphract"
+                >拜占庭聖騎兵</nuxt-link
+              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>、
               <nuxt-link to="/units/Samurai">日本武士</nuxt-link>、<nuxt-link
                 to="/units/Boyar"
                 >貴族鐵騎</nuxt-link
@@ -137,8 +161,10 @@
                 src="~assets/Arson.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -192,7 +218,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -203,7 +231,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -387,8 +417,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：狂戰士在城堡/帝王時代+15%/20% HP。
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>：狂戰士在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >+15%/20% HP。
             </li>
           </ul>
         </div>
@@ -429,7 +462,7 @@
             <li>狂戰士的HP是48(精銳是60)。</li>
             <li>狂戰士的訓練時間需要16秒。</li>
             <li>狂戰士的移動速度是0.9。</li>
-            <li>狂戰士的遠防為0。</li>
+            <li>狂戰士的<nuxt-link to="/armor">遠防</nuxt-link>為0。</li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
@@ -504,10 +537,17 @@
         <div class="n1">
           <ul>
             <li>
-              儘管維京戰士從來不戴角盔，但是在遊戲中狂戰士被描繪成帶角盔的戰士，很可能是因為那是最能辨認民族的標誌之一。角盔只在某些宗教儀式中被維京人使用。
+              儘管<nuxt-link to="/civs/Vikings">維京</nuxt-link
+              >戰士從來不戴角盔，但是在遊戲中狂戰士被描繪成帶角盔的戰士，很可能是因為那是最能辨認民族的標誌之一。角盔只在某些宗教儀式中被維京人使用。
             </li>
             <li>
-              狂戰士是第一個被賦予再生能力的單位。之後，其他單位加入了他們，比如英雄和柏柏的駱駝部隊。
+              狂戰士是第一個被賦予再生能力的單位。之後，其他單位加入了他們，比如<nuxt-link
+                to="/units/hero"
+                >英雄</nuxt-link
+              >和<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的<nuxt-link
+                to="/units/Camel"
+                >駱駝</nuxt-link
+              >部隊。
             </li>
           </ul>
         </div>
@@ -515,7 +555,14 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            第八世紀末，斯堪的納維亞的海盜襲擊者突然出現在北歐，在接下來的150年裡他們突襲並掠奪了沿海社區，讓查理曼大帝在統一北歐時做的文明復甦措施大部分被他們造成的混亂所破壞，維京人以戰術上的強大海軍軍事力量和兇猛而聞名，目擊者稱維京人的戰士偶爾會以幾乎不人道的熱情進行“狂熱”攻擊，無視所有危險，這種行為令人感到恐懼。在廣泛的迷信時期，能夠與戰鬥慾望發瘋的能力是一個強大的屬性。
+            第八世紀末，斯堪的納維亞的海盜襲擊者突然出現在北歐，在接下來的150年裡他們突襲並掠奪了沿海社區，讓<nuxt-link
+              to="/units/hero/Charlemagne"
+              >查理曼大帝</nuxt-link
+            >在統一北歐時做的<nuxt-link to="/civs">文明</nuxt-link
+            >復甦措施大部分被他們造成的混亂所破壞，維京人以戰術上的強大<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍</nuxt-link
+            >軍事力量和兇猛而聞名，目擊者稱維京人的戰士偶爾會以幾乎不人道的熱情進行“狂熱”攻擊，無視所有危險，這種行為令人感到恐懼。在廣泛的迷信時期，能夠與戰鬥慾望發瘋的能力是一個強大的屬性。
           </p>
         </div>
       </div>
@@ -608,7 +655,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">
               <img
                 class="gg"
@@ -640,11 +689,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0/2(精銳)</td>
           </tr>
           <tr>

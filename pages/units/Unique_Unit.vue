@@ -3,14 +3,20 @@
     <h1>特殊單位</h1>
     <h3></h3>
     <div class="row">
-      <div class="col-md-12"><p>大多數的國家只有一種特殊單位</p></div>
+      <div class="col-md-12">
+        <p>大多數的國家只有一種<b>特殊單位</b></p>
+      </div>
     </div>
     <h3>概要</h3>
     <div class="hrn1"></div>
     <div class="n1">
       <ul>
         <li>
-          遊戲中每個文明最少有一個特殊單位，只能在城堡時代於城堡訓練，但有八個文明有第二種特殊單位，並且可以在城堡以外的地方訓練。
+          遊戲中每個<nuxt-link to="/civs">文明</nuxt-link
+          >最少有一個特殊單位，只能在<nuxt-link to="/techs/age/Castle_Age"
+            >城堡時代</nuxt-link
+          >於<nuxt-link to="/building/Castle">城堡</nuxt-link
+          >訓練，但有八個文明有第二種特殊單位，並且可以在城堡以外的地方訓練。
         </li>
         <li>
           特殊單位大概三為三種，城堡的與非城堡的還有文明共享的，詳細可以看下方表格。
@@ -19,7 +25,12 @@
           特殊單位提供了遊戲中更多元的打法，可以與同盟互相配合，或是搭配地圖地形選擇不同的文明兵種搭配，為遊戲增加更多的樂趣。
         </li>
         <li>
-          但值得注意的是，雖然日本武士對於所以的特殊單位(包含他自己)有加成，但對帝王駱駝騎兵與帝王戰矛兵是沒有加成的。
+          但值得注意的是，雖然<nuxt-link to="/units/Samurai">日本武士</nuxt-link
+          >對於所有的特殊單位(包含他自己)有加成，但對<nuxt-link
+            to="/units/Imperial_Camel"
+            >帝王駱駝騎兵</nuxt-link
+          >與<nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
+          >是沒有加成的。
         </li>
       </ul>
     </div>
@@ -51,7 +62,10 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>
             </td>
-            <td class="tunitc6">遠距離弓兵，攻擊高。</td>
+            <td class="tunitc6">
+              遠距離<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >，攻擊高。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -64,7 +78,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
             </td>
-            <td class="tunitc6">反步兵的騎兵，但訓練與研發昂貴。</td>
+            <td class="tunitc6">
+              反<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >，但訓練與研發昂貴。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -88,7 +106,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>
             </td>
-            <td class="tunitc6">攻擊高的弓兵，但射速慢。</td>
+            <td class="tunitc6">
+              攻擊高的弓兵，但<nuxt-link to="/elements/Rate_of_Fire"
+                >射速</nuxt-link
+              >慢。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -100,7 +122,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
             </td>
-            <td class="tunitc6">擁有遠距離攻擊的近戰步兵單位。</td>
+            <td class="tunitc6">
+              擁有遠距離攻擊的近戰<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -135,7 +161,12 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>
             </td>
-            <td class="tunitc6">攻擊速度高，對特殊單位有額外的加成。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
+              >高，對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >有額外的加成。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -147,7 +178,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
             </td>
-            <td class="tunitc6">射速、移動速度快的馬弓騎兵。</td>
+            <td class="tunitc6">
+              射速、移動速度快的<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -160,7 +195,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>
             </td>
-            <td class="tunitc6">破壞力十足但移動緩慢的騎兵單位。</td>
+            <td class="tunitc6">
+              破壞力十足但移動緩慢的<nuxt-link to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -174,7 +213,10 @@
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
             </td>
             <td class="tunitc6">
-              造價昂貴，但反騎兵且具有遠程攻擊的近戰駱駝騎兵單位。
+              造價昂貴，但<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >反騎兵</nuxt-link
+              >且具有遠程攻擊的近戰<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              >騎兵單位。
             </td>
           </tr>
           <tr>
@@ -188,7 +230,10 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
             </td>
-            <td class="tunitc6">攻擊、防禦與血量優異但行動非常緩慢的步兵。</td>
+            <td class="tunitc6">
+              攻擊、防禦與<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              >優異但行動非常緩慢的步兵。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -214,7 +259,9 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>
             </td>
             <td class="tunitc6">
-              可自行回復生命值，且研發特殊科技後可以反馬。
+              可自行回復<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+              >，且研發<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+              >後可以反馬。
             </td>
           </tr>
           <tr>
@@ -228,7 +275,10 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>
             </td>
             <td class="tunitc6">
-              城堡時代於碼頭生產，可一次發出多支箭的戰船。
+              城堡時代於<nuxt-link to="/building/Dock">碼頭</nuxt-link
+              >生產，可一次發出多支箭的<nuxt-link to="/units/Naval_Vessels"
+                >戰船</nuxt-link
+              >。
             </td>
           </tr>
         </table>
@@ -267,7 +317,12 @@
               >
             </td>
             <td class="tunitc4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
-            <td class="tunitc6">遠防與血量高，對於建築物有額外加成的騎兵。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/armor">遠防</nuxt-link>與血量高，對於<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >有額外加成的騎兵。
+            </td>
           </tr>
           <tr>
             <td colspan="3">
@@ -290,7 +345,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
             </td>
-            <td class="tunitc6">高遠防與血量的馬弓騎兵類。</td>
+            <td class="tunitc6">
+              高遠防與血量的<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵類</nuxt-link
+              >。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -316,7 +375,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>
             </td>
-            <td class="tunitc6">便宜、血量高，移動速度快的弓兵單位。</td>
+            <td class="tunitc6">
+              便宜、血量高，移動速度快的<nuxt-link to="/units/Archer_Units"
+                >弓兵單位</nuxt-link
+              >。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -343,7 +406,11 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
             </td>
             <td class="tunitc6">
-              修道院中生產，無法拿遺跡，且治療與招降能力皆不足僧侶，但移動速度快。
+              <nuxt-link to="/building/Monastery">修道院</nuxt-link
+              >中生產，無法拿<nuxt-link to="/Relic">遺跡</nuxt-link
+              >，且治療與<nuxt-link to="/elements/Conversion">招降</nuxt-link
+              >能力皆不足<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >，但移動速度快。
             </td>
           </tr>
         </table>
@@ -371,7 +438,12 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Incas">印加</nuxt-link>
             </td>
-            <td class="tunitc6">具有一格遠程距離的反騎兵的步兵單位。</td>
+            <td class="tunitc6">
+              具有一格<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+              >距離的<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >反騎兵</nuxt-link
+              >的步兵單位。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -384,7 +456,11 @@
               <nuxt-link to="/civs/Incas">印加</nuxt-link>
             </td>
             <td class="tunitc6">
-              於射箭場訓練，城堡時代即可訓練的反步兵單位。本質上是弩兵。
+              於<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+              >訓練，城堡時代即可訓練的反<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵單位</nuxt-link
+              >。本質上是<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>。
             </td>
           </tr>
           <tr>
@@ -412,7 +488,11 @@
               <nuxt-link to="/civs/Indians">印度</nuxt-link>
             </td>
             <td class="tunitc6">
-              帝王時代於馬廄中生產，重裝駱駝騎兵的升級，反馬單位。
+              <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >於<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              >中生產，<nuxt-link to="/units/Heavy_Camel"
+                >重裝駱駝騎兵</nuxt-link
+              >的升級，反馬單位。
             </td>
           </tr>
           <tr>
@@ -429,7 +509,8 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>
             </td>
             <td class="tunitc6">
-              反騎兵的重裝弩兵，移動速度緩慢，生精銳之前射速慢。
+              <nuxt-link to="/armor/Armor_Class_Cavalry">反騎兵</nuxt-link
+              >的重裝弩兵，移動速度緩慢，生精銳之前射速慢。
             </td>
           </tr>
           <tr>
@@ -444,7 +525,10 @@
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>
             </td>
             <td class="tunitc6">
-              只要是義大利或其同盟於帝王時代在軍營中可生產，移動速度快的反火槍單位。
+              只要是<nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >或其同盟於帝王時代在<nuxt-link to="/building/Barracks"
+                >軍營</nuxt-link
+              >中可生產，移動速度快的反火槍單位。
             </td>
           </tr>
           <tr>
@@ -498,7 +582,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
             </td>
-            <td class="tunitc6">反馬弓騎兵的遠程駱駝。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                >反馬弓騎兵</nuxt-link
+              >的遠程駱駝。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -511,7 +599,11 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
             </td>
             <td class="tunitc6">
-              柏柏及其同盟於城堡時代可於射箭場訓練，反弓兵的騎馬矛兵。
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+              >及其同盟於城堡時代可於射箭場訓練，反弓兵的騎馬<nuxt-link
+                to="/units/Skirmisher"
+                >矛兵</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
@@ -550,7 +642,10 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
             </td>
-            <td class="tunitc6">高攻擊的火藥單位。</td>
+            <td class="tunitc6">
+              高攻擊的<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              >。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -630,7 +725,11 @@
             <td class="tunitc4">
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
             </td>
-            <td class="tunitc6">移動快速高防禦的反射手的弓兵。</td>
+            <td class="tunitc6">
+              移動快速高防禦的<nuxt-link to="/armor/Armor_Class_Archer"
+                >反射手</nuxt-link
+              >的弓兵。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -646,7 +745,8 @@
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
             </td>
             <td class="tunitc6">
-              越南及其同盟於帝王時代可於射箭場訓練，為精銳戰茅兵的再升級。
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+              >及其同盟於帝王時代可於射箭場訓練，為精銳戰茅兵的再升級。
             </td>
           </tr>
         </table>
@@ -666,7 +766,13 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有《世紀帝國 II HD: 帝王世紀》的特殊單位。</em></p>
+              <p>
+                <em
+                  >所有《世紀帝國 II HD:
+                  <nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >》的特殊單位。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -678,7 +784,13 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有《世紀帝國 II HD: 征服者入侵》的特殊單位。</em></p>
+              <p>
+                <em
+                  >所有《世紀帝國 II HD:
+                  <nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >》的特殊單位。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -690,7 +802,13 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:185px">
-              <p><em>所有《世紀帝國 II HD: 失落的帝國》的特殊單位。</em></p>
+              <p>
+                <em
+                  >所有《世紀帝國 II HD:
+                  <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                  >》的特殊單位。</em
+                >
+              </p>
             </div>
           </div>
         </div>
@@ -704,7 +822,13 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有《世紀帝國 II HD: 非洲王國》的特殊單位。</em></p>
+              <p>
+                <em
+                  >所有《世紀帝國 II HD:
+                  <nuxt-link to="/games/ak">非洲王國</nuxt-link
+                  >》的特殊單位。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -716,7 +840,13 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:185px">
-              <p><em>所有《世紀帝國 II HD: 王者崛起》的特殊單位。</em></p>
+              <p>
+                <em
+                  >所有《世紀帝國 II HD:
+                  <nuxt-link to="/games/aor">王者崛起</nuxt-link
+                  >》的特殊單位。</em
+                >
+              </p>
             </div>
           </div>
         </div>

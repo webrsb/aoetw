@@ -8,7 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬勇士是一個步兵單位，只有出現在編輯器的世紀帝國II：征服者戰役。它結合了遠程單位和近戰單位的特點。雖然看起來像民兵，但實際上拋出長矛射敵人像一個戰茅兵。儘管是民兵形式，但圖標卻顯示出騎兵弓箭手的形象。馬勇士受騎兵射手升級的影響。
+            <b>馬勇士</b>是一個<nuxt-link to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >，只有出現在編輯器的世紀帝國II：<nuxt-link
+              to="/batt/Battles_of_the_Conquerors"
+              >征服者戰役</nuxt-link
+            >。它結合了<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+            >和近戰單位的特點。雖然看起來像<nuxt-link to="/units/Militia"
+              >民兵</nuxt-link
+            >，但實際上拋出長矛射敵人像一個戰茅兵。儘管是民兵形式，但圖標卻顯示出<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            ><nuxt-link to="/units/Archer">弓箭手</nuxt-link
+            >的形象。馬勇士受騎兵<nuxt-link to="/units/Archer_Units"
+              >射手</nuxt-link
+            >升級的影響。
           </p>
           <p>
             現在馬勇士不再出現於編輯器中（自5.1版以來），但它仍然可以在遊戲檔案中找到。
@@ -17,7 +31,13 @@
         <div class="n1">
           <h2>冷知識</h2>
           <p>
-            它最初計劃成為西班牙特殊單位，代替戰茅兵，但被征服者取代。在非洲王國中，馬勇士以標槍騎兵的形式，被作為伯伯爾的特殊單位。
+            它最初計劃成為<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+            ><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，代替戰茅兵，但被<nuxt-link to="/units/Conquistador"
+              >征服者</nuxt-link
+            >取代。在<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >中，馬勇士以<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+            >的形式，被作為伯伯爾的特殊單位。
           </p>
         </div>
       </div>
@@ -44,7 +64,9 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵<br /></td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
@@ -56,7 +78,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60，70菁英</td>
           </tr>
           <tr>
@@ -64,7 +88,9 @@
             <td class="unit4">4，5(菁英)</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">10</td>
           </tr>
           <tr>
@@ -84,23 +110,26 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">弓兵，騎兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.35</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5，6(菁英)</td>
           </tr>
         </table>

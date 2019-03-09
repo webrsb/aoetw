@@ -8,44 +8,132 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            遠距離單位是遊戲中四類軍事單位之一，另外三種分別是步兵單位、騎兵單位與攻城武器單位。遠距離單位包含矛兵、弩兵、馬弓騎兵、火槍兵與西班牙征服者等
+            <b>遠距離單位</b>是遊戲中四類軍事單位之一，另外三種分別是<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >、<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+            >與<nuxt-link to="/units/Siege_Weapons">攻城武器單位</nuxt-link
+            >。遠距離單位包含<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+            >、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>、<nuxt-link
+              to="/units/Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+            >與<nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link>等
           </p>
           <br /><strong
-            >這邊說的遠距離單位，不包含飛刀女獵手、擲斧兵、風琴砲、弩砲象與攻城武器。</strong
+            >這邊說的遠距離單位，不包含<nuxt-link to="/units/Gbeto"
+              >飛刀女獵手</nuxt-link
+            >、<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
+            >、<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>、<nuxt-link
+              to="/units/Ballista_Elephant"
+              >弩砲象</nuxt-link
+            >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >。</strong
           >
         </div>
         <h3>概要</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            相對於步兵與騎兵，遠距離單位血量、攻擊與裝甲都比較低。但卻擁有遠距離攻擊的能力。大部分的弓箭手都是徒步的，而馬弓騎兵血量與速度都比徒步弓兵來得高，使他們能靠拉打戰術無損傷的情況下打擊步兵單位。
+            相對於<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >與<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >，遠距離單位<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >、攻擊與裝甲都比較低。但卻擁有遠距離攻擊的能力。大部分的<nuxt-link
+              to="/units/Archer"
+              >弓箭手</nuxt-link
+            >都是徒步的，而馬弓騎兵血量與速度都比徒步<nuxt-link
+              to="/units/Archer_Units"
+              >弓兵</nuxt-link
+            >來得高，使他們能靠拉打戰術無損傷的情況下打擊步兵單位。
           </p>
           <p>
-            遠距離單位於封建時代在射箭場訓練。矛兵與弓兵絕對是封建大戰的主力之一，尤其是弓矛混合下，如果對方沒有相對應的軍事，將帶來毀滅性的傷害。
+            遠距離單位於<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >在<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+            >訓練。矛兵與弓兵絕對是封建大戰的主力之一，尤其是弓矛混合下，如果對方沒有相對應的軍事，將帶來毀滅性的傷害。
           </p>
           <p>
-            特殊的遠距離單位於城堡訓練，除了標槍騎兵、投石手與帝王戰矛兵，這三種兵在射箭場訓練。
+            特殊的遠距離單位於<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >訓練，除了<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+            >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>與<nuxt-link
+              to="/units/Imperial_Skirmisher"
+              >帝王戰矛兵</nuxt-link
+            >，這三種兵在射箭場訓練。
           </p>
           <p>
-            大多數的遠距離單位花費木頭與黃金訓練，但也有一些少數是花費食物。
+            大多數的遠距離單位花費<nuxt-link to="/resource/Wood">木頭</nuxt-link
+            >與<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >訓練，但也有一些少數是花費<nuxt-link to="/resource/Food"
+              >食物</nuxt-link
+            >。
           </p>
           <p>
             遠距離單位不擅長1對1的戰鬥，卻很適合大規模的集團戰，尤其在狹窄的通道或樹林，減少受傷害面積，以集火的方式打擊大量敵軍。
           </p>
           <p>
-            總體來說，遠距離單位殺村民的效率遠高於步兵單位與僧侶，但對建築與攻城武器單位卻顯得無助，尤其是遇到投石車，它能迅速消滅大規模的弓箭手。重型衝撞車與其他兵種搭配也很適合對付遠距離單位，雖然衝撞車對弓箭手沒有傷害性，但因為他的高遠距離裝甲，可以掩護其他單位擊殺對方。對弓箭手來說，最容易打擊他的莫過於矛兵，這種垃圾兵很便宜，很容易量產，不但高遠防對弓箭手也有加成傷害。
+            總體來說，遠距離單位殺<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >的效率遠高於步兵單位與<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >，但對<nuxt-link to="/building">建築</nuxt-link
+            >與攻城武器單位卻顯得無助，尤其是遇到<nuxt-link to="/units/Mangonel"
+              >投石車</nuxt-link
+            >，它能迅速消滅大規模的弓箭手。<nuxt-link to="/units/Siege_Ram"
+              >重型衝撞車</nuxt-link
+            >與其他兵種搭配也很適合對付遠距離單位，雖然<nuxt-link
+              to="/units/Battering_Ram"
+              >衝撞車</nuxt-link
+            >對弓箭手沒有傷害性，但因為他的高遠距離裝甲，可以掩護其他單位擊殺對方。對弓箭手來說，最容易打擊他的莫過於矛兵，這種垃圾兵很便宜，很容易量產，不但高<nuxt-link
+              to="/armor"
+              >遠防</nuxt-link
+            >對弓箭手也有加成傷害。
           </p>
           <p>
-            其他著名的天敵還有哥德衛隊、鷹勇士、藤甲弓兵（他自己也是弓箭手）和馬戰車。
+            其他著名的天敵還有<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+            >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >、<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link
+            >（他自己也是弓箭手）和<nuxt-link to="/units/War_Wagon"
+              >馬戰車</nuxt-link
+            >。
           </p>
         </div>
         <h3>弓兵文明</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>弓兵文明有不列顛、中國、衣索比亞、義大利、馬雅與越南。</p>
-          <p>而薩拉森與日本是唯二弓箭手單位與科技全滿的文明。</p>
           <p>
-            而就馬弓騎兵而言，柏柏、匈奴、印度、馬扎爾、蒙古、土耳其與薩拉森都有優秀的馬弓騎兵，特別是那些擁有珍貴的帕提亞戰術的文明。
+            <nuxt-link to="/units/Archer_Units">弓兵文明</nuxt-link>有<nuxt-link
+              to="/civs/Britons"
+              >不列顛</nuxt-link
+            >、<nuxt-link to="/civs/Chinese">中國</nuxt-link>、<nuxt-link
+              to="/civs/Ethiopians"
+              >衣索比亞</nuxt-link
+            >、<nuxt-link to="/civs/Italians">義大利</nuxt-link>、<nuxt-link
+              to="/civs/Mayans"
+              >馬雅</nuxt-link
+            >與<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>。
+          </p>
+          <p>
+            而<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>與<nuxt-link
+              to="/civs/Japanese"
+              >日本</nuxt-link
+            >是唯二<nuxt-link to="/units/Archer_Units">弓箭手單位</nuxt-link
+            >與<nuxt-link to="/techs">科技</nuxt-link>全滿的<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >。
+          </p>
+          <p>
+            而就馬弓騎兵而言，<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+            >、<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              to="/civs/Indians"
+              >印度</nuxt-link
+            >、<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
+              to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >、<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+            >與薩拉森都有優秀的馬弓騎兵，特別是那些擁有珍貴的<nuxt-link
+              to="/techs/Parthian_Tactics"
+              >帕提亞戰術</nuxt-link
+            >的文明。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -54,30 +142,73 @@
           <p>以下列出弓兵有加成的文明</p>
           <ul>
             <li>不列顛：徒步弓兵在城堡/帝王額外+1/+2射程。</li>
-            <li>拜占庭：矛兵便宜25％</li>
-            <li>衣索比亞：弓兵射速提高15％。</li>
+            <li>
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：矛兵便宜25％
+            </li>
+            <li>
+              衣索比亞：弓兵<nuxt-link to="/elements/Rate_of_Fire"
+                >射速</nuxt-link
+              >提高15％。
+            </li>
             <li>匈奴：馬弓騎兵在城堡/帝王分別便宜10％/20％。</li>
             <li>義大利：火槍兵便宜15％。</li>
-            <li>馬雅：弓箭手在封建/城堡/帝王分別便宜10％/20％/30％。</li>
-            <li>蒙古：馬弓騎兵射速快20％。</li>
-            <li>薩拉森：馬弓騎兵對建築物攻擊+3。</li>
-            <li>西班牙：火砲和征服者的射速提高15％。</li>
-            <li>土耳其：化學免費。</li>
             <li>
-              越南：射箭場單位分別在封建/城堡/帝王+10％/15％/20％的生命值。
+              馬雅：弓箭手在<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >分別便宜10％/20％/30％。
+            </li>
+            <li>蒙古：馬弓騎兵射速快20％。</li>
+            <li>
+              薩拉森：馬弓騎兵對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊+3。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >和<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >的射速提高15％。
+            </li>
+            <li>
+              土耳其：<nuxt-link to="/techs/Chemistry">化學</nuxt-link>免費。
+            </li>
+            <li>
+              越南：射箭場單位分別在<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >+10％/15％/20％的<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >。
             </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>以下列出弓兵的團隊加分</p>
+          <p>
+            以下列出弓兵的<nuxt-link to="/elements/Team_Bonus"
+              >團隊加分</nuxt-link
+            >
+          </p>
           <ul>
             <li>柏柏：可在射箭場訓練鏢槍騎兵。</li>
             <li>不列顛：射箭場效率提高20％。</li>
-            <li>馬扎爾：徒步弓兵有+2視野。</li>
-            <li>薩拉森：徒步弓兵對建築物+1攻擊。</li>
-            <li>土耳其：火藥單位生產速度快20％。</li>
+            <li>
+              馬扎爾：徒步弓兵有+2<nuxt-link to="/los.php">視野</nuxt-link>。
+            </li>
+            <li>
+              薩拉森：徒步弓兵對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >+1攻擊。
+            </li>
+            <li>
+              土耳其：<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              >生產速度快20％。
+            </li>
             <li>越南：可在射箭場訓練帝王戰矛兵。</li>
           </ul>
         </div>
@@ -89,7 +220,10 @@
               不包含馬扎爾與柏柏，所有優秀的馬弓騎兵都是來自亞洲。帕提亞戰術也證明了這一點，10個可以研發的文明有9個在亞洲。
             </li>
             <li>
-              遊戲中40個獨特單位有13個是弓箭手類型，包含5個馬弓騎兵，所以遠距離單位是特殊單位內最大的軍事兵種。
+              遊戲中40個獨特單位有13個是弓箭手類型，包含5個馬弓騎兵，所以遠距離單位是<nuxt-link
+                to="/units/Unique_Unit"
+                >特殊單位</nuxt-link
+              >內最大的軍事兵種。
             </li>
           </ul>
         </div>
@@ -243,7 +377,7 @@
               <td class="tta3">1.4</td>
               <!--速度!-->
               <td class="tta3">10</td>
-              <!--開火間隔!-->
+              <!--<nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>!-->
             </tr>
             <tr>
               <td class="tta1">
@@ -1049,7 +1183,13 @@
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">200F 250G</td>
-              <td class="tunitc6">馬弓騎兵護甲+1/+2，對長槍兵攻擊+4。</td>
+              <td class="tunitc6">
+                <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                  >馬弓騎兵護甲</nuxt-link
+                >+1/+2，對<nuxt-link to="/armor/Armor_Class_Spearman"
+                  >長槍兵</nuxt-link
+                >攻擊+4。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1063,7 +1203,10 @@
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">300W 175G</td>
               <td class="tunitc6">
-                弓兵、馬弓騎兵、戰船、城堡和箭塔對移動單位的命中率提升。
+                弓兵、馬弓騎兵、<nuxt-link to="/units/Naval_Vessels"
+                  >戰船</nuxt-link
+                >、城堡和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+                >對移動單位的命中率提升。
               </td>
             </tr>
             <tr>
@@ -1078,7 +1221,9 @@
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">300F 200G</td>
               <td class="tunitc6">
-                開火單位(包括攻城單位)攻擊+1。研發後可生產火藥單位。
+                開火單位(包括<nuxt-link to="/units/Siege_Weapons"
+                  >攻城單位</nuxt-link
+                >)攻擊+1。研發後可生產火藥單位。
               </td>
             </tr>
             <tr>
@@ -1177,7 +1322,9 @@
           <table class="table-bordered table-striped" width="100%">
             <tr>
               <td class="tunitcc" style="width: 15%;">文明</td>
-              <td class="tunitcc" style="width: 10%;">特殊科技</td>
+              <td class="tunitcc" style="width: 10%;">
+                <nuxt-link to="/techs/untech">特殊科技</nuxt-link>
+              </td>
               <td class="tunitcc" style="width: 15%;">花費</td>
               <td class="tunitcc">影響</td>
             </tr>
@@ -1254,7 +1401,9 @@
                 <nuxt-link to="/techs/Pavise">巨盾</nuxt-link>
               </td>
               <td class="tunitc5">300F 150G</td>
-              <td class="tunitc6">徒步遠程護甲+1/+1。</td>
+              <td class="tunitc6">
+                徒步<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1269,7 +1418,13 @@
                 <nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link>
               </td>
               <td class="tunitc5">300F 300G</td>
-              <td class="tunitc6">射箭場弓兵單位對建築物和石頭建築攻擊+6。</td>
+              <td class="tunitc6">
+                射箭場<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
+                >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+                >和<nuxt-link to="/armor/Armor_Class_stone_defense"
+                  >石頭建築</nuxt-link
+                >攻擊+6。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1299,7 +1454,11 @@
                 <nuxt-link to="/techs/Maghrabi_Camels">馬格拉比駱駝</nuxt-link>
               </td>
               <td class="tunitc5">700F 300G</td>
-              <td class="tunitc6">駱駝部隊獲得回血能力(每分鐘回15 HP)。</td>
+              <td class="tunitc6">
+                <nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
+                >部隊獲得<nuxt-link to="/Regeneration">回血</nuxt-link
+                >能力(每分鐘回15 HP)。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1314,7 +1473,11 @@
                 <nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link>
               </td>
               <td class="tunitc5">650F 400G</td>
-              <td class="tunitc6">騎兵和飛鏢騎兵對建築物攻擊+3。</td>
+              <td class="tunitc6">
+                騎兵和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
+                >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+                >攻擊+3。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1325,9 +1488,14 @@
                   alt=""
                 /><nuxt-link to="/civs/Chinese">中國</nuxt-link>
               </td>
-              <td class="tunitc4">火箭術</td>
+              <td class="tunitc4">
+                <nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>
+              </td>
               <td class="tunitc5">750W 750G</td>
-              <td class="tunitc6">連弩兵攻擊+2，弩砲攻擊+4。</td>
+              <td class="tunitc6">
+                <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
+                >攻擊+2，弩砲攻擊+4。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">

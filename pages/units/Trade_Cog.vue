@@ -8,20 +8,31 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            貿易商旅是一種無法攻擊的船艦，在封建時代的時候可以從碼頭中被訓練。
+            <b>貿易商旅</b>是一種無法攻擊的<nuxt-link to="/units/Naval_Vessels"
+              >船艦</nuxt-link
+            >，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >的時候可以從<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >中被訓練。
           </p>
         </div>
         <h3>概要</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            貿易商旅被用來在兩個文明（同盟、中立、敵人都可以）碼頭之之間交易產生黃金，在兩個碼頭中間形成貿易路線。貿易其實並不影響兩個文明之間的資源交換，空的貿易商旅移動另一個文明的碼頭，並帶著黃金返航。獲得的黃金數量取決於兩個碼頭間的距離，距離越遠產黃金就越多。
+            貿易商旅被用來在兩個<nuxt-link to="/civs">文明</nuxt-link
+            >（同盟、中立、敵人都可以）碼頭之之間交易產生<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >，在兩個碼頭中間形成貿易路線。貿易其實並不影響兩個文明之間的資源交換，空的貿易商旅移動另一個文明的碼頭，並帶著黃金返航。獲得的黃金數量取決於兩個碼頭間的距離，距離越遠產黃金就越多。
           </p>
           <p>
             重要的是，兩個碼頭之間的距離至少要5格以上才能夠產生一個黃金。值得一提的是，如果是大型地圖最遠的距離，一次可以產生的最大黃金量是513。
           </p>
           <p>
-            由於大部分地圖上的金礦數量是有限的，交易是遊戲晚期極為重要黃金來源。因此貿易路線是攻擊的主要目標，應該要加強防守。在大後期決戰中，往往決定勝負的關鍵都在於貿易車隊有無安全的運行。
+            由於大部分地圖上的金礦數量是有限的，交易是遊戲晚期極為重要黃金來源。因此貿易路線是攻擊的主要目標，應該要加強防守。在大後期決戰中，往往決定勝負的關鍵都在於<nuxt-link
+              to="/units/Trade_Cart"
+              >貿易車隊</nuxt-link
+            >有無安全的運行。
           </p>
         </div>
         <h3>與貿易車隊比較</h3>
@@ -114,7 +125,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -424,7 +437,9 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對貿易商旅有額外攻擊力
+        以下技術可讓以下單位對貿易商旅有額外<nuxt-link to="/elements/Attack"
+          >攻擊力</nuxt-link
+        >
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
@@ -504,12 +519,17 @@
               >便宜50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：在視野內的動物不會被轉化
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >內的動物不會被轉化
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於貿易商旅的科技在城堡/帝王便宜15/20％
+              >：有利於貿易商旅的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >便宜15/20％
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -522,7 +542,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：貿易商旅訓練的速度在封建/城堡/帝王提高10/15/20%，
+              >：貿易商旅訓練的速度在<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >提高10/15/20%，
               <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link
               >的研究速度在城堡/帝王提高15/20％。研究
               <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>的速度快20％。
@@ -556,7 +580,8 @@
           <ul>
             <li>
               <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
-              >減少20%船隻木材成本。
+              >減少20%<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+              ><nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
           </ul>
           <h3>
@@ -609,7 +634,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            “歐洲北部沿海地區的貿易需求導致了新型船舶的發展，這些新型船舶具有寬梁，深拉，方帆，船尾舵和大貨艙。這種新設計的船被稱為貿易商旅，他們主宰了中世紀從波羅的海到西地中海的海上貿易。由於這些船不能輕易地在海灘上拖曳，港口要求碼頭要擴建到水深足以讓貿易商旅可以停留的水域，遠東的貿易商旅相當於中國的戎克船，一艘西方在幾個世紀內仍無法超越的更先進的船。“
+            “歐洲北部沿海地區的貿易需求導致了新型船舶的發展，這些新型船舶具有寬梁，深拉，方帆，船尾舵和大貨艙。這種新設計的船被稱為貿易商旅，他們主宰了中世紀從波羅的海到西地中海的海上貿易。由於這些船不能輕易地在海灘上拖曳，港口要求碼頭要擴建到水深足以讓貿易商旅可以停留的水域，遠東的貿易商旅相當於<nuxt-link
+              to="/civs/Chinese"
+              >中國</nuxt-link
+            >的戎克船，一艘西方在幾個世紀內仍無法超越的更先進的船。“
           </p>
         </div>
       </div>
@@ -686,19 +714,21 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
             </td>
@@ -749,7 +779,13 @@
             <gallery
               ><img class="imgn hg" src="~assets/TradeCogHD.png" alt=""
             /></gallery>
-            <p><em>各種貿易商旅(世紀帝國和征服者入侵資料片)。</em></p>
+            <p>
+              <em
+                >各種貿易商旅(世紀帝國和<nuxt-link to="/games/aoc"
+                  >征服者入侵</nuxt-link
+                >資料片)。</em
+              >
+            </p>
           </div>
           <div class="col-md-4">
             <gallery

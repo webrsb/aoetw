@@ -9,7 +9,7 @@
             <h5><b>遊戲中有5個版本、共24關主戰役劇情。</b></h5>
             <div class="hrn1"></div>
             <p>
-              帝王世紀戰役 ➠
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>戰役 ➠
               <nuxt-link to="#a1">【威廉華勒斯】</nuxt-link>、<nuxt-link
                 to="#a2"
                 >【聖女貞德】</nuxt-link
@@ -19,7 +19,7 @@
               >、<nuxt-link to="#a5">【巴巴羅薩】</nuxt-link>
             </p>
             <p>
-              征服者入侵戰役 ➠
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>戰役 ➠
               <nuxt-link to="#a6">【阿提拉】</nuxt-link>、<nuxt-link to="#a7"
                 >【熙德】</nuxt-link
               >、<nuxt-link to="#a8">【蒙特蘇馬】</nuxt-link>、<nuxt-link
@@ -28,7 +28,7 @@
               >
             </p>
             <p>
-              失落帝國戰役 ➠
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>戰役 ➠
               <nuxt-link to="#a10">【阿拉里克】</nuxt-link>、<nuxt-link
                 to="#a11"
                 >【德古拉】</nuxt-link
@@ -40,7 +40,7 @@
               >、<nuxt-link to="#a16">【失落帝國的戰役】</nuxt-link>
             </p>
             <p>
-              非洲王國戰役 ➠
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>戰役 ➠
               <nuxt-link to="#a17">【塔里克·伊本·齊亞德】</nuxt-link
               >、<nuxt-link to="#a18">【松迪亞塔】</nuxt-link>、<nuxt-link
                 to="#a19"
@@ -48,7 +48,7 @@
               >、<nuxt-link to="#a20">【優娣忒】</nuxt-link>
             </p>
             <p>
-              王者崛起戰役 ➠
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>戰役 ➠
               <nuxt-link to="#a21">【加查‧馬達】</nuxt-link>、<nuxt-link
                 to="#a22"
                 >【蘇利耶跋摩一世】</nuxt-link

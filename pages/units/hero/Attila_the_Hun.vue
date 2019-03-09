@@ -8,11 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89"
-              ><strong>匈奴王阿提拉</strong></a
-            >是
+            <strong>匈奴王阿提拉</strong>是
             <nuxt-link to="/civs/Huns">匈奴人</nuxt-link
-            >自434年至453年間的統治者。在《世紀帝國II：征服者入侵》的阿提拉戰役中正是描寫從他崛起到死亡之間的故事。
+            >自434年至453年間的統治者。在《世紀帝國II：<nuxt-link
+              to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >》的<nuxt-link to="/batt/Attila_the_Huna">阿提拉戰役</nuxt-link
+            >中正是描寫從他崛起到死亡之間的故事。
           </p>
           單位特性
           <hr />
@@ -21,9 +23,12 @@
           <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
           >的外型出現在<nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link
           >和<nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link
-          >這兩關戰役中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與
+          >這兩關<nuxt-link to="/batt">戰役</nuxt-link
+          >中，也可在地圖編輯器中使用。他在這兩關中都是必須存活的角色，在後者這關中還必須在羅馬城外與
           <nuxt-link to="/units/hero/Pope_Leo_I">教宗利奧一世</nuxt-link
-          >會面才能獲勝。作為英雄，他無法被招降而且會自動回血。
+          >會面才能獲勝。作為<nuxt-link to="/units/hero">英雄</nuxt-link
+          >，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+          >而且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           <p></p>
         </div>
       </div>
@@ -57,7 +62,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -65,7 +72,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>
@@ -73,7 +82,9 @@
             <td class="unit4">13(近戰)</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -89,16 +100,16 @@
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
             </td>
@@ -108,7 +119,7 @@
             <td class="unit4">1.2</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
         </table>

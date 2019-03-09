@@ -8,14 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            菘藍武士是<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-            >的特殊單位，能夠在城堡時代的城堡中訓練。
+            <b>菘藍武士</b>是<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。
           </p>
-          <p>菘藍武士是一個速度快和對建築物有高攻擊力的單位，而且生產快速。</p>
+          <p>
+            菘藍武士是一個速度快和對<nuxt-link to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
+            >有高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >的單位，而且生產快速。
+          </p>
           <p>
             菘藍武士可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳菘藍武士。
+            >升級為<nuxt-link to="/units/Woad_Raider">精銳菘藍武士</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -23,11 +30,22 @@
         <div class="n1">
           <ul>
             <li>
-              菘藍武士是整個遊戲中數一數二快的步兵單位，他們可以有效的執行游擊戰，高攻擊力和HP的條件下讓他們可以應付大多數的步兵單位，也能輕易地摧毀攻城武器和巨型投石機。然而在對上騎兵和更強的步兵單位(如:
+              菘藍武士是整個遊戲中數一數二快的<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >，他們可以有效的執行游擊戰，高攻擊力和HP的條件下讓他們可以應付大多數的步兵單位，也能輕易地摧毀<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >和<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+              >。然而在對上<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >和更強的步兵單位(如:
               <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
               >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
-              >)時，請隨侍做好撤退的準備遠離他們，對上弓兵時也請避戰因為菘藍武士的護甲十分薄弱。
+              >)時，請隨侍做好撤退的準備遠離他們，對上<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >時也請避戰因為菘藍武士的護甲十分薄弱。
             </li>
           </ul>
         </div>
@@ -101,8 +119,10 @@
                 src="~assets/Arson.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -134,7 +154,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -145,7 +167,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -339,10 +363,13 @@
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              ><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>、<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -381,16 +408,25 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            菘藍武士臉上的塗裝早在中世紀之前的1000年皮克特人就曾使用木材作為塗在臉上的顏料，而不是在中世紀時期的蘇格蘭人做的。
+            菘藍武士臉上的塗裝早在中世紀之前的1000年皮克特人就曾使用<nuxt-link
+              to="/resource/Wood"
+              >木材</nuxt-link
+            >作為塗在臉上的顏料，而不是在中世紀時期的蘇格蘭人做的。
           </p>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            “Woad是在不列顛群島發現的一種植物，可以從中提取藍色色素，塞爾特戰士在戰鬥前用這種色素塗抹自己，讓自己看起來更加可怕並且使他們的敵人感到不安。塞爾特戰士一直在襲擊英國和歐洲的發展地區
+            “Woad是在不列顛群島發現的一種植物，可以從中提取藍色色素，塞爾特戰士在戰鬥前用這種色素塗抹自己，讓自己看起來更加可怕並且使他們的敵人感到不安。塞爾特戰士一直在襲擊<nuxt-link
+              to="/civs/Britons"
+              >英國</nuxt-link
+            >和歐洲的發展地區
             例如，蘇格蘭人最初是愛爾蘭侵略者，他們從英國北部的皮克特人手中奪取的土地最後成為蘇格蘭;當英國人試
-            著征服居住在中世紀愛爾蘭，威爾士和蘇格蘭的塞爾特人時，英國騎士對塞爾特人來說是一個很頭痛的麻煩，塞爾特人轉而採用游擊戰術，襲擊英國營地，並在英國援軍到達之前撤退;這樣的策略徹底地摧毀了邊界地區的安寧，最著名的菘藍武士是蘇格蘭的威廉華萊士，他不間斷地席吉了英格蘭北部地區十年之久“。
+            著征服居住在中世紀愛爾蘭，威爾士和蘇格蘭的塞爾特人時，英國<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >對塞爾特人來說是一個很頭痛的麻煩，塞爾特人轉而採用游擊戰術，襲擊英國營地，並在英國援軍到達之前撤退;這樣的策略徹底地摧毀了邊界地區的安寧，最著名的菘藍武士是蘇格蘭的威廉華萊士，他不間斷地席吉了英格蘭北部地區十年之久“。
           </p>
         </div>
       </div>
@@ -428,7 +464,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
             </td>
@@ -468,11 +504,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">65</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">25</td>
           </tr>
           <tr>
@@ -485,7 +525,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">65/80(精銳)</td>
           </tr>
           <tr>
@@ -504,15 +546,17 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>

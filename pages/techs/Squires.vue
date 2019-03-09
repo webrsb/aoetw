@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            護衛於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>護衛</b>於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >研發。研發後所有的
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>移動速度+10%。
@@ -76,26 +77,44 @@
         <div class="n1">
           <ul>
             <li>
-              讓所有步兵具有+10移動速度，卻只要100食物，非常的實用，建議研發。
+              讓所有<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >具有+10移動速度，卻只要100<nuxt-link to="/resource/Food"
+                >食物</nuxt-link
+              >，非常的實用，建議研發。
             </li>
             <li>
-              城堡時代的步兵最怕弓箭手，雖然大部分時間步兵不會直接面對<nuxt-link
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >的步兵最怕<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+              >，雖然大部分時間步兵不會直接面對<nuxt-link
                 to="/units/Crossbowman"
                 >弩兵</nuxt-link
-              >，但是這個科技大大減少了步兵面對弩兵的死亡率，也增加了追擊敵方村民的效率。
+              >，但是這個<nuxt-link to="/techs">科技</nuxt-link
+              >大大減少了步兵面對<nuxt-link to="/units/Crossbowman"
+                >弩兵</nuxt-link
+              >的死亡率，也增加了追擊敵方<nuxt-link to="/units/Villager"
+                >村民</nuxt-link
+              >的效率。
             </li>
             <li>
               儘管<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >無法研發護衛，他們的步兵仍然是遊戲中最快的，因為塞爾特的文明加成提高了15%步兵移動速度
+              >無法研發護衛，他們的步兵仍然是遊戲中最快的，因為塞爾特的<nuxt-link
+                to="/civs"
+                >文明</nuxt-link
+              >加成提高了15%步兵移動速度
             </li>
           </ul>
         </div>
         <h3>受影響的單位</h3>
         <div class="hrn1"></div>
-        <div class="n1"><p>下面列出所有受追蹤技術影響的單位。</p></div>
+        <div class="n1">
+          <p>
+            下面列出所有受<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
+            >影響的單位。
+          </p>
+        </div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
-            <td>步兵單位</td>
+            <td><nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link></td>
             <td>原本速度(格/秒)</td>
             <td>加成後速度(格/秒)</td>
           </tr>
@@ -328,8 +347,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：<nuxt-link
@@ -374,7 +396,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在成為騎士之前，年輕人會作為衛兵進行長期的學徒訓練。衛兵會被分配給一名騎士並參加武器和社交盛宴的訓練。作為回報，他們照顧騎士的裝備和馬匹，幫騎士打扮，陪伴騎士上陣作戰並守護著他們。所有的騎士小時候都是衛兵，但並非所有的衛兵都能成為騎士。沒有貴族出身，經濟支持或上級領主的支持的衛兵可能不成為騎士而試著過自己的生活。衛兵會與騎士並肩作戰，儘管他們的武器和盔甲配備較低階。
+            在成為<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >之前，年輕人會作為衛兵進行長期的學徒訓練。衛兵會被分配給一名騎士並參加武器和社交盛宴的訓練。作為回報，他們照顧騎士的裝備和馬匹，幫騎士打扮，陪伴騎士上陣作戰並守護著他們。所有的騎士小時候都是衛兵，但並非所有的衛兵都能成為騎士。沒有貴族出身，經濟支持或上級領主的支持的衛兵可能不成為騎士而試著過自己的生活。衛兵會與騎士並肩作戰，儘管他們的武器和盔甲配備較低階。
           </p>
         </div>
       </div>

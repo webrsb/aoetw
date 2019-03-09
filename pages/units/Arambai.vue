@@ -8,13 +8,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            飛鏢騎兵<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>飛鏢騎兵</b
+            ><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>的<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。飛鏢騎兵是馬弓騎兵部隊破壞力極高但命中低，對<nuxt-link
-              to="/armor/Armor_Class_Ram"
+            >中訓練。飛鏢騎兵是<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >部隊破壞力極高但命中低，對<nuxt-link to="/armor/Armor_Class_Ram"
               >衝撞車系列</nuxt-link
             >有加成傷害。
           </p>
@@ -22,7 +25,12 @@
             既使在<nuxt-link to="/news/ver5-7">5.7</nuxt-link>與在<nuxt-link
               to="/news/ver5-8"
               >5.8</nuxt-link
-            >兩次改版都削弱了不少，飛鏢騎兵仍是非常強悍的兵種，其擁有高殺傷力與射速，而且還跑的很快，也因為如此緬甸與三個南美國家並列為
+            >兩次改版都削弱了不少，飛鏢騎兵仍是非常強悍的兵種，其擁有高殺傷力與<nuxt-link
+              to="/elements/Rate_of_Fire"
+              >射速</nuxt-link
+            >，而且還跑的很快，也因為如此<nuxt-link to="/civs/Burmese"
+              >緬甸</nuxt-link
+            >與三個南美國家並列為
             <nuxt-link to="/civs/bestciv">四大強國</nuxt-link
             >，不管在團戰還是單挑的比賽中都是常客。
           </p>
@@ -34,10 +42,15 @@
             <li>
               飛鏢騎兵跟<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
               >的<nuxt-link to="/units/Conquistador">征服者</nuxt-link
-              >相似，同樣是特殊單位擁有強大攻擊力的
-              <nuxt-link to="/units/Archer_Units">遠程</nuxt-link
-              >馬弓騎兵單位，比較不一樣的是在文明兵工廠上西班牙完善緬甸則缺乏<nuxt-link
-                to="/techs/Leather_Archer_Armor"
+              >相似，同樣是特殊單位擁有強大<nuxt-link to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >的 <nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+              ><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >單位，比較不一樣的是在<nuxt-link to="/civs">文明</nuxt-link
+              ><nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
+              >上<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >完善緬甸則缺乏<nuxt-link to="/techs/Leather_Archer_Armor"
                 >弓兵皮甲</nuxt-link
               >/
               <nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
@@ -58,7 +71,10 @@
               >等一些較為無裝甲的部隊都有著不錯的效果，即使是重裝近戰單位也可靠著一定拉打有不錯的破壞力，雖然命中率極低只有20%、30%(精銳)，但大型陣地戰或者大隊伍碰撞時也會有不錯的傷害。
             </li>
             <li>
-              為了平衡遊戲設計上，給予了非常超糟的命中率(20%、30%(精銳)，可說是遊戲中命中率最低的單位，所以以最遠距離攻擊時常常會Miss尤其是對移動中的單位，相對的近距離攻擊時，可達到必殺效果(因攻擊力極高/好命中)。因緬甸的兵工廠科技缺少
+              為了平衡遊戲設計上，給予了非常超糟的命中率(20%、30%(精銳)，可說是遊戲中命中率最低的單位，所以以最遠距離攻擊時常常會Miss尤其是對移動中的單位，相對的近距離攻擊時，可達到必殺效果(因攻擊力極高/好命中)。因緬甸的兵工廠<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >缺少
               <nuxt-link to="/techs/Leather_Archer_Armor">弓兵皮甲</nuxt-link
               >和<nuxt-link to="/techs/Ring_Archer_Armor">弓兵環甲</nuxt-link
               >，因此<nuxt-link to="/units/Archer_Units">步弓系列</nuxt-link>/
@@ -66,29 +82,36 @@
               >的傷害沒法提高，另外因為要非常近距離才能達到傷害的飛鏢騎兵也懼怕<nuxt-link
                 to="/units/Monk"
                 >僧侶</nuxt-link
-              >，雖然帝王時代有
+              >，雖然<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >有
               <nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
               >但在未研發時<nuxt-link to="/units/Monk">僧侶</nuxt-link
               >是一個蠻剋制飛鏢騎兵的單位。
             </li>
             <li>
               研發<nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
-              >後原本已經對建築有破壞力的飛鏢騎兵在破壞建築上會更加快速。
+              >後原本已經對<nuxt-link to="/building">建築</nuxt-link
+              >有破壞力的飛鏢騎兵在破壞建築上會更加快速。
             </li>
             <li>
               飛鏢騎兵在駐紮在<nuxt-link to="/building/Castle">城堡</nuxt-link
-              >裡時，只需要12隻就可以射出城堡可射出箭量最大值21箭，因此在防禦時或者囤量時可以駐紮在城堡。
+              >裡時，只需要12隻,
+              就可以射出城堡可射出箭量最大值21箭，因此在防禦時或者囤量時可以駐紮在城堡。
             </li>
             <li>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >可說是飛鏢騎兵的克制文明，首先<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
               >本身對馬弓騎兵有加成再加上跑速跟射速又相當的優質因此飛鏢騎兵優勢不大，再者跟
-              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >同盟射箭場可生產<nuxt-link to="/units/Genitour"
-                >標槍騎兵</nuxt-link
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>同盟<nuxt-link
+                to="/building/Archery_Range"
+                >射箭場</nuxt-link
+              >可生產<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
               >這單位是標準的<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-              >騎乘版，擁有跑速升上精銳時對馬弓騎兵又有加成，因而柏柏在對面情況下可是極為壓制著飛鏢騎兵。
+              >騎乘版，擁有跑速升上精銳時對馬弓騎兵又有加成，因而<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >在對面情況下可是極為壓制著飛鏢騎兵。
             </li>
             <li>
               飛鏢騎兵可說是<nuxt-link to="/techs/age/Castle_Age"
@@ -141,7 +164,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -170,7 +195,10 @@
               <img src="~assets/Ballistics.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Ballistics"
                 >彈道學</nuxt-link
-              >:可提升弓兵、馬弓騎兵、戰船、城堡、箭塔、特殊騎乘對移動中目標命中率
+              >:可提升<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >、馬弓騎兵、<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
+              >、城堡、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >、特殊騎乘對移動中目標命中率
             </td>
           </tr>
           <tr>
@@ -194,7 +222,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img src="~assets/Faith.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -267,18 +297,27 @@
             </li>
             <li>飛鏢騎兵(包含精銳)攻擊 -1</li>
             <li>
-              最初精銳飛鏢騎兵對反<nuxt-link to="/units/Cavalry_Archer"
-                >馬弓騎兵</nuxt-link
+              最初<nuxt-link to="/units/Arambai">精銳飛鏢騎兵</nuxt-link
+              >對反<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >攻擊有+2護甲，在5.7改版後也移除了(從2降至0)。
             </li>
-            <li>最初成本木材為50，5.8後增加到80</li>
+            <li>
+              最初成本<nuxt-link to="/resource/Wood">木材</nuxt-link
+              >為50，5.8後增加到80
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            飛鏢騎兵英文名稱『Arambai』是飛鏢武器的名稱，一種頭尖銳，末端用羽毛裝飾的武器。這是印度東北部曼尼普爾邦梅泰族（Meiteis）善用的祕密武器。飛鏢由騎士背在身上，戰爭時會塗上毒藥，藉由騎兵的高機動性，投擲出飛鏢射向敵人，在敵人還沒反應過來前離開。時至今日，在曼尼普爾節（Kwak
+            飛鏢騎兵英文名稱『Arambai』是飛鏢武器的名稱，一種頭尖銳，末端用羽毛裝飾的武器。這是<nuxt-link
+              to="/civs/Indians"
+              >印度</nuxt-link
+            >東北部曼尼普爾邦梅泰族（Meiteis）善用的祕密武器。飛鏢由<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >背在身上，戰爭時會塗上毒藥，藉由騎兵的高機動性，投擲出飛鏢射向敵人，在敵人還沒反應過來前離開。時至今日，在曼尼普爾節（Kwak
             Jatra）當地的曼尼普爾人仍會使用飛鏢來慶祝。
           </p>
         </div>
@@ -287,16 +326,29 @@
         <div class="n1">
           <ul>
             <li>
-              飛鏢騎兵其實是屬於梅泰人，位於印度東北部曼尼普爾邦，他們說的語言與漢語類似，因此他們也和中國有關。
+              飛鏢騎兵其實是屬於梅泰人，位於印度東北部曼尼普爾邦，他們說的語言與漢語類似，因此他們也和<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >有關。
             </li>
             <li>
               飛鏢騎兵在歷史上是真實的部隊，效忠於緬甸的東吁王國。大多都是雇傭軍。
             </li>
             <li>
-              曼尼普王國（也稱為康列帕克王國）實際上常常與東吁帝國為敵，曾對緬甸展開多次侵略。儘管如此，曼尼普爾騎兵往往擔任僱傭軍，並成為緬甸騎兵的重要部分。
+              曼尼普王國（也稱為康列帕克王國）實際上常常與東吁帝國為敵，曾對緬甸展開多次侵略。儘管如此，<nuxt-link
+                to="/techs/Manipur_Cavalry"
+                >曼尼普爾騎兵</nuxt-link
+              >往往擔任僱傭軍，並成為緬甸騎兵的重要部分。
             </li>
             <li>
-              飛鏢騎兵是遊戲中僅次於精銳土耳其火槍兵單次攻擊力最高的單位(不算攻城武器)。不過如果也考慮開火速率的話他們應該是遊戲中最痛的遠程單位。
+              飛鏢騎兵是遊戲中僅次於<nuxt-link to="/units/Janissary"
+                >精銳土耳其火槍兵</nuxt-link
+              >單次攻擊力最高的單位(不算<nuxt-link to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >)。不過如果也考慮開火速率的話他們應該是遊戲中最痛的<nuxt-link
+                to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >。
             </li>
             <li>
               飛鏢騎兵是遊戲中僅有的三種騎兵投擲部隊之一，另外兩種是<nuxt-link
@@ -386,7 +438,9 @@
             <td class="unit4">80</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -399,7 +453,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60/65(精銳)</td>
           </tr>
           <tr>
@@ -413,11 +469,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">10</td>
           </tr>
           <tr>
@@ -433,15 +493,15 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1/2(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">裝甲類型</td>
+            <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
@@ -458,7 +518,7 @@
             <td class="unit4">1.3</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -479,7 +539,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />1100食物675黃金
+              />1100<nuxt-link to="/resource/Food">食物</nuxt-link>675黃金
             </td>
           </tr>
           <tr>

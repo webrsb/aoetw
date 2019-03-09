@@ -6,12 +6,22 @@
         <div class="hrn1"></div>
       </div>
       <div class="col-md-12">
-        <div class="spw"><em>這篇文章是將有關於城牆和城門的裝甲。</em></div>
+        <div class="spw">
+          <em
+            >這篇文章是將有關於<strong>城牆</strong>和<strong>城門</strong>的裝甲。</em
+          >
+        </div>
       </div>
       <div class="col-md-12">
         <div class="n1">
           <p>
-            城牆和城門裝甲是一個防禦裝甲類別，所有在這個系列的建築都會被對該裝甲的有攻擊加成的兵種或科技有額外的傷害。
+            <strong>城牆</strong
+            >和<strong>城門</strong>是一個防禦裝甲類別，所有在這個系列的<nuxt-link
+              to="/building"
+              >建築</nuxt-link
+            >都會被對該裝甲的有攻擊加成的兵種或<nuxt-link to="/techs"
+              >科技</nuxt-link
+            >有額外的傷害。
           </p>
         </div>
         <h3>城牆和城門單位</h3>
@@ -47,6 +57,14 @@
               <img
                 class="gg"
                 width="25px"
+                src="~assets/Palisadegate.jpg"
+                alt=""
+              /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>
+            </li>
+            <li>
+              <img
+                class="gg"
+                width="25px"
                 src="~assets/Gateicon.png"
                 alt=""
               /><nuxt-link to="/building/Gate">城門</nuxt-link>
@@ -56,7 +74,9 @@
         <h3>剋城門和城牆單位的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對城門和城牆單位的額外傷害，按照傷殺力排列。
+          以下單位擁有對<nuxt-link to="/armor/Armor_Class_wall_and_gate"
+            >城門和城牆</nuxt-link
+          >單位的額外傷害，按照傷殺力排列。
           <div class="n1">
             <div style="margin:12px 0px;"><strong>+900攻擊</strong></div>
             <ul>

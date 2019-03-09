@@ -8,21 +8,25 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            南美文明限定，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、
-            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+            南美<nuxt-link to="/civs">文明</nuxt-link>限定，<nuxt-link
+              to="/civs/Mayans"
+              >馬雅</nuxt-link
+            >、 <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >。 到了世紀帝國2失落的帝國
-            ，在封建時代便可以生產鷹斥候，到了城堡時代可以升為
-            <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link> 。
+            >。 到了世紀帝國2<nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            ，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >便可以生產<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
+            >，到了<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >可以升為 <b>鷹勇士</b> 。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            由於鷹勇士遠防相當高，甚至比<nuxt-link to="/units/Knight"
-              >騎士</nuxt-link
+            由於鷹勇士<nuxt-link to="/armor">遠防</nuxt-link
+            >相當高，甚至比<nuxt-link to="/units/Knight">騎士</nuxt-link
             >還高，高達3，總體防禦高達5，就算在<nuxt-link
               to="/building/Town_Center"
               >城鎮中心</nuxt-link
@@ -30,9 +34,26 @@
             <nuxt-link to="/units/Villager">村民</nuxt-link>。也是所有<nuxt-link
               to="/units/Archer_Units"
               >弓兵</nuxt-link
-            >的剋星；對於近戰步兵是被克制的，但因移動速度快步兵很難打到。在
+            >的剋星；對於近戰<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >是被克制的，但因移動速度快步兵很難打到。在
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >鷹斥候可升為鷹勇士，鷹勇士可以說是在城堡時代最強的兵種。克制弓兵、對馬有加成，也不怕招降、攻城武器也沒再怕的(遇到弩砲仍有所忌憚)。可怕的是他非常便宜，只需要20肉50黃金，生產也非常快速，這讓南美國家變得非常強勢。而他身體嬌小(相對於騎士)，在隙縫中鑽來鑽去也是非常靈活的。南美國只要出鷹勇士配合僧侶，幾乎是無往不利，相當難纏。
+            >鷹斥侯可升為鷹勇士，鷹勇士可以說是在城堡時代最強的兵種。克制<nuxt-link
+              to="/armor/Armor_Class_Archer"
+              >弓兵</nuxt-link
+            >、對馬有加成，也不怕<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >、<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >也沒再怕的(遇到弩砲仍有所忌憚)。可怕的是他非常便宜，只需要20肉50<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >，生產也非常快速，這讓南美國家變得非常強勢。而他身體嬌小(相對於<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >)，在隙縫中鑽來鑽去也是非常靈活的。南美國只要出鷹勇士配合<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >，幾乎是無往不利，相當難纏。
           </p>
           <strong>反制</strong>
           <p>
@@ -52,28 +73,35 @@
               >僧侶</nuxt-link
             >都是不錯，重點是家裡要圍好，配合
             <nuxt-link to="/building/Castle"></nuxt-link
-            >城堡與騎士，不要給鷹勇士鬧到，拖到後期，老鷹國就相對沒有城堡這麼可怕。非常不建議出<nuxt-link
+            ><nuxt-link to="/building/Castle">城堡</nuxt-link
+            >與騎士，不要給鷹勇士鬧到，拖到後期，老鷹國就相對沒有城堡這麼可怕。非常不建議出<nuxt-link
               to="/units/Long_Swordsman"
               >長劍兵</nuxt-link
             >，即使
             <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >打鷹勇士很快，但<nuxt-link to="/units/Long_Swordsman"
               >長劍兵</nuxt-link
-            >耗資源，且走的太慢，又非常怕弩兵，對方看你這麼多
+            >耗資源，且走的太慢，又非常怕<nuxt-link to="/units/Crossbowman"
+              >弩兵</nuxt-link
+            >，對方看你這麼多
             <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >，轉<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >甚至<nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link
             >都可以輕易解決。
           </p>
           <p>
-            而特殊單位是快速步兵的也可以考慮，例如馬來的<nuxt-link
-              to="/units/Karambit_Warrior"
-              >爪刀勇士</nuxt-link
-            >、馬利的<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
+            而<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >是快速步兵的也可以考慮，例如<nuxt-link to="/civs/Malay"
+              >馬來</nuxt-link
+            >的<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+            >、<nuxt-link to="/civs/Malians">馬利</nuxt-link>的<nuxt-link
+              to="/units/Gbeto"
+              >飛刀女獵手</nuxt-link
             >、塞爾特的
-            <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
-            >與衣索比亞的<nuxt-link to="/units/Shotel_Warrior"
-              >彎刀勇士</nuxt-link
+            <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link>與<nuxt-link
+              to="/civs/Ethiopians"
+              >衣索比亞</nuxt-link
+            >的<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
             >都非常適合打鷹勇士，但說到城堡時代打鷹勇士最強的莫過於
             <nuxt-link to="/civs/Incas">印加</nuxt-link>的<nuxt-link
               to="/units/Slinger"
@@ -118,7 +146,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/batt/El_Doradoa"
@@ -127,7 +157,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -217,7 +249,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -477,7 +511,7 @@
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
-              >科技的時間快20%。
+              ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -508,7 +542,11 @@
             </li>
             <li>鷹勇士有55HP與3的遠防。</li>
             <li>訓練時間為32秒。</li>
-            <li>升級鷹勇士的費用為300食物/200黃金。</li>
+            <li>
+              升級鷹勇士的費用為300<nuxt-link to="/resource/Food"
+                >食物</nuxt-link
+              >/200黃金。
+            </li>
             <li>
               鷹勇士對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
               >有+3的攻擊加成，對<nuxt-link to="/armor/Armor_Class_Camel"
@@ -554,7 +592,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>鷹勇士是最貴的黃金步兵單位，但也是最便宜的食物步兵單位。</li>
+            <li>
+              鷹勇士是最貴的黃金<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >，但也是最便宜的食物步兵單位。
+            </li>
           </ul>
         </div>
       </div>
@@ -636,7 +678,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">55</td>
           </tr>
           <tr>
@@ -661,11 +705,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -746,7 +792,13 @@
           <gallery
             ><img class="imgn hg" src="~assets/Eaglescout.png" alt=""
           /></gallery>
-          <p><em>一群鷹勇士(《世紀帝國II:征服者入侵》資料片)</em></p>
+          <p>
+            <em
+              >一群鷹勇士(<nuxt-link to="/games/aoc"
+                >《世紀帝國II:征服者入侵》</nuxt-link
+              >資料片)</em
+            >
+          </p>
         </div>
         <div class="col-md-4">
           <gallery

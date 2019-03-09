@@ -8,12 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            風琴砲<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>風琴砲</b>是<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。風琴砲是攻城武器部隊前方範圍傷害，對衝撞車系列有加成傷害，少數在城堡時代就可訓練的火藥單位。
+            >中訓練。風琴砲是<nuxt-link to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >部隊前方範圍傷害，對<nuxt-link to="/armor/Armor_Class_Ram"
+              >衝撞車系列</nuxt-link
+            >有加成傷害，少數在<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >就可訓練的<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+            >。
           </p>
           <p><em>風琴砲介紹影片</em></p>
           <iframe
@@ -33,17 +40,29 @@
               風琴砲跟<nuxt-link to="/civs/Khmer">高棉</nuxt-link>的<nuxt-link
                 to="/units/Ballista_Elephant"
                 >弩砲象</nuxt-link
-              >，同樣是特殊單位屬攻城武器單位。跟大部分攻城武器的優勢和劣勢一樣擁有範圍射程對大量單位效果好。
+              >，同樣是特殊單位屬<nuxt-link to="/units/Siege_Weapons"
+                >攻城武器單位</nuxt-link
+              >。跟大部分攻城武器的優勢和劣勢一樣擁有範圍射程對大量單位效果好。
             </li>
             <li>
               風琴砲算是目前少數難以使用的特殊單位，原因是其功效跟<nuxt-link
                 to="/units/Mangonel"
                 >輕型投石車</nuxt-link
               >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
-              >，僅多出近防2遠防升級後也只有6，優勢是需要的資源比較便宜只需要80木材60黃金、訓練時間比較短只需要21秒。
+              >，僅多出<nuxt-link to="/armor">近防</nuxt-link>2<nuxt-link
+                to="/armor"
+                >遠防</nuxt-link
+              >升級後也只有6，優勢是需要的資源比較便宜只需要80<nuxt-link
+                to="/resource/Wood"
+                >木材</nuxt-link
+              >60<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >、訓練時間比較短只需要21秒。
             </li>
             <li>
-              風琴砲在特定情況下量產傷害是不錯的，但也僅此在量產後才有效果比其他攻城器單位真的是屬於劣勢。
+              風琴砲在特定情況下量產傷害是不錯的，但也僅此在量產後才有效果比其他<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城器單位</nuxt-link
+              >真的是屬於劣勢。
             </li>
           </ul>
         </div>
@@ -109,7 +128,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -336,7 +357,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <p>葡萄牙:風琴砲黃金成本便宜15%。</p>
+            <p>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >:風琴砲黃金成本便宜15%。
+            </p>
           </ul>
         </div>
         <h3>團隊加分</h3>
@@ -384,7 +408,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >:手風琴砲一開始不售土耳其的團隊加分影響。直到4.8改版後才開始有影響訓練速度(+20%)。
+              >:手風琴砲一開始不售<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >的<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+              >影響。直到4.8改版後才開始有影響訓練速度(+20%)。
             </li>
           </ul>
           <h3>
@@ -404,8 +430,9 @@
         <div class="n1">
           <ul>
             <li>
-              所有可攻擊的攻城單位中手風琴砲是唯一對<nuxt-link to="/building"
-                >建築物</nuxt-link
+              所有可攻擊的<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >中手風琴砲是唯一對<nuxt-link to="/building">建築物</nuxt-link
               >沒有攻擊加成的單位。
             </li>
           </ul>
@@ -415,7 +442,13 @@
         <div class="n1">
           <p>
             一種排砲，通常被稱為Ribauldequin、rabauld、ribault、ribaudkin、organ
-            gun，被認為最早的機砲，許多小口徑的鐵桶平行放置在木製平台上，當它齊射時可以射出一雨鐵彈，在14和15世紀使用。主要是作為殺傷人員的槍。“風琴槍”這個名字提到了火砲與管風琴（一種著名的樂器）的相似之處。此砲最早被人知道是由英格蘭的愛德華三世的軍隊於1339年在百年戰爭的時候於法國使用。
+            gun，被認為最早的機砲，許多小口徑的鐵桶平行放置在木製平台上，當它齊射時可以射出一雨鐵彈，在14和15世紀使用。主要是作為殺傷人員的槍。“風琴槍”這個名字提到了<nuxt-link
+              to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
+            >與管風琴（一種著名的樂器）的相似之處。此砲最早被人知道是由英格蘭的愛德華三世的軍隊於1339年在百年戰爭的時候於<nuxt-link
+              to="/civs/Franks"
+              >法國</nuxt-link
+            >使用。
           </p>
         </div>
       </div>
@@ -453,7 +486,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
             </td>
@@ -510,12 +543,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60/70(精銳)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">16/20(精銳)(遠程)</td>
+            <td class="unit4">
+              16/20(精銳)(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -524,11 +561,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">3.45</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">6</td>
           </tr>
           <tr>
@@ -556,7 +597,7 @@
             <td class="unit4">4/6(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">裝甲類型</td>
+            <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
                 >攻城武器</nuxt-link
@@ -574,7 +615,7 @@
             <td class="unit4">0.85</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">9</td>
           </tr>
           <tr>
@@ -595,7 +636,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />1200食物500黃金
+              />1200<nuxt-link to="/resource/Food">食物</nuxt-link>500黃金
             </td>
           </tr>
           <tr>

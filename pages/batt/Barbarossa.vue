@@ -16,14 +16,19 @@
             </p>
           </div>
           <p>
-            巴巴羅薩是指腓特烈一世（1122~1190年），他是神聖羅馬帝國12世紀的皇帝，巴巴羅薩戰役是描述神聖羅馬帝國在十字軍東征後，征服東歐與中歐的故事。
+            <b>巴巴羅薩</b>是指<nuxt-link to="/units/hero/Fredrick_Barbarossa"
+              >腓特烈一世</nuxt-link
+            >（1122~1190年），他是神聖羅馬帝國12世紀的皇帝，巴巴羅薩戰役是描述神聖羅馬帝國在十字軍東征後，征服東歐與中歐的故事。
           </p>
         </div>
         <h3>英雄</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            巴巴羅薩也就是腓特烈大帝，從來沒有在這個系列中出現過，只有在最後一關，他做為一個屍體出現(桶裝皇帝)。巴巴羅薩後來在被遺忘的王朝中作為一個英雄出現，
+            巴巴羅薩也就是腓特烈大帝，從來沒有在這個系列中出現過，只有在最後一關，他做為一個屍體出現(桶裝皇帝)。巴巴羅薩後來在被遺忘的王朝中作為一個<nuxt-link
+              to="/units/hero"
+              >英雄</nuxt-link
+            >出現，
           </p>
         </div>
         <h3>關卡</h3>
@@ -32,17 +37,40 @@
           <div class="row">
             <div class="col-md-12">
               <p>
-                巴巴羅薩戰役由6個關卡組成。玩家扮演的是條頓人，顏色是紅色的。
+                巴巴羅薩戰役由6個關卡組成。玩家扮演的是<nuxt-link
+                  to="/civs/Teutons"
+                  >條頓人</nuxt-link
+                >，顏色是紅色的。
               </p>
             </div>
             <div class="col-md-6">
               <ol>
-                <li>神聖羅馬皇帝</li>
-                <li>猛獅亨利</li>
-                <li>教皇與僭稱教皇</li>
-                <li>倫巴聯盟</li>
-                <li>紅鬍子的行軍</li>
-                <li>沉睡的皇帝</li>
+                <li>
+                  <nuxt-link to="/batt/Holy_Roman_Emperor"
+                    >神聖羅馬皇帝</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Pope_and_Antipope"
+                    >教皇與僭稱教皇</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Barbarossas_March"
+                    >紅鬍子的行軍</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Emperor_Sleeping"
+                    >沉睡的皇帝</nuxt-link
+                  >
+                </li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -53,12 +81,29 @@
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <p>此系列戰役有把帝王世紀其他的戰役聯繫起來</p>
+            <p>
+              此系列<nuxt-link to="/batt">戰役</nuxt-link>有把<nuxt-link
+                to="/games/aok"
+                >帝王世紀</nuxt-link
+              >其他的戰役聯繫起來
+            </p>
             <ul>
               <li>貞德戰役中的勃艮第出現在第一關。</li>
-              <li>成吉思汗的蒙古軍隊也出現在第一關。</li>
-              <li>沙拉丁的薩拉森人出現在第五和第六關。</li>
-              <li>在沙拉丁戰役中的耶路撒冷也在最後一關登場過。</li>
+              <li>
+                <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link
+                >的<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+                >軍隊也出現在第一關。
+              </li>
+              <li>
+                <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>的<nuxt-link
+                  to="/civs/Saracens"
+                  >薩拉森人</nuxt-link
+                >出現在第五和第六關。
+              </li>
+              <li>
+                在<nuxt-link to="/batt/Saladina">沙拉丁戰役</nuxt-link
+                >中的耶路撒冷也在最後一關登場過。
+              </li>
             </ul>
           </div>
         </div>
@@ -85,11 +130,15 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">條頓</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">英雄</td>

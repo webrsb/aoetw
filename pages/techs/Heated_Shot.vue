@@ -8,10 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            預熱射擊，舊稱『火箭』可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>預熱射擊</b>，舊稱『火箭』可於<nuxt-link
+              to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
-            >研發，箭塔對船隻的攻擊力+125%，
+            >研發，<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            >對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
+            >的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>+125%，
             <nuxt-link to="/building/Castle">城堡</nuxt-link>和<nuxt-link
               to="/building/Harbor"
               >海港</nuxt-link
@@ -134,8 +137,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在城堡/帝王時代花費便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -152,7 +159,10 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              在工業革命以前，船隻大多是木造的，因此火一直是海戰最大的武器。預熱射擊就是在發射砲彈前，先用一個鍋爐加熱砲彈，以達到類似古代中國火箭的效果。赤壁之戰中，周瑜也問過孔明大江之上，何以破曹，孔明答了『火+箭』。
+              在工業革命以前，船隻大多是木造的，因此火一直是海戰最大的武器。預熱射擊就是在發射砲彈前，先用一個鍋爐加熱砲彈，以達到類似古代<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >火箭的效果。赤壁之戰中，周瑜也問過孔明大江之上，何以破曹，孔明答了『火+箭』。
             </p>
           </div>
         </div>
@@ -179,7 +189,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看左方分類</td>
           </tr>
           <tr>
@@ -212,11 +222,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>

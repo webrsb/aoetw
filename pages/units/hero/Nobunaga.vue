@@ -8,24 +8,49 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            織田信長，日本戰國末期大名，戰國三英傑之一，開創了日本的安土桃山時代。1534年6月23日出生於尾張國勝幡城，26歲領導織田家擊敗今川家，並率部上洛(前往京都)，奠定了織田在戰國的霸主地位。然而在1582年，眼看即將統一日本之時，因明智光秀的背叛在本能寺之變後下落不明。享年48歲，行事作風非常超脫時代，堪稱日本戰國史上的未來人。信長的出現催化了日本的統一，也為將來幕府的長期統治打下基礎。
+            <b>織田信長</b>，<nuxt-link to="/civs/Japanese">日本</nuxt-link
+            >戰國末期大名，戰國三英傑之一，開創了日本的安土桃山時代。1534年6月23日出生於尾張國勝幡城，26歲領導織田家擊敗今川家，並率部上洛(前往京都)，奠定了織田在戰國的霸主地位。然而在1582年，眼看即將統一日本之時，因明智光秀的背叛在本能寺之變後下落不明。享年48歲，行事作風非常超脫時代，堪稱日本戰國史上的未來人。信長的出現催化了日本的統一，也為將來幕府的長期統治打下基礎。
           </p>
         </div>
         <h3><strong>介紹</strong></h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            織田信長是一位步兵英雄，在京都（1582）中登場，形象為一名日本武士，他最大的特色是他超快的攻速，一秒鐘可以攻擊兩次，做為比對，正常士兵基本上是兩秒一刀。
+            織田信長是一位<nuxt-link to="/units/Infantry_Units"
+              >步兵英雄</nuxt-link
+            >，在<nuxt-link to="/batt/Kyoto_1582">京都（1582）</nuxt-link
+            >中登場，形象為一名<nuxt-link to="/units/Samurai"
+              >日本武士</nuxt-link
+            >，他最大的特色是他超快的攻速，一秒鐘可以攻擊兩次，做為比對，正常士兵基本上是兩秒一刀。
           </p>
           <ul>
-            <li>在京都（1582）戰役中，他必須死亡，否則遊戲無法進行。</li>
             <li>
-              作為英雄單位，信長不能被招降，且會自己回復生命值，當然，在地圖編輯器裡面可以找到他。
+              在京都（1582）<nuxt-link to="/batt">戰役</nuxt-link
+              >中，他必須死亡，否則遊戲無法進行。
             </li>
             <li>
-              織田信長被歸類為步兵，所有步兵的加成對他都有效果，包括日本的步兵攻擊速度加成。
+              作為<nuxt-link to="/units/hero">英雄</nuxt-link
+              >單位，信長不能被<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >，且會自己回復<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >，當然，在地圖編輯器裡面可以找到他。
             </li>
-            <li>雖然是英雄，但是作為步兵單位，信長也害怕火槍兵與弩砲。</li>
+            <li>
+              織田信長被歸類為<nuxt-link to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >，所有步兵的加成對他都有效果，包括日本的步兵<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >加成。
+            </li>
+            <li>
+              雖然是英雄，但是作為<nuxt-link to="/armor/Armor_Class_Infantry"
+                >步兵單位</nuxt-link
+              >，信長也害怕<nuxt-link to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
+              >與弩砲。
+            </li>
           </ul>
         </div>
         <h3><strong>出場戰役</strong></h3>
@@ -77,11 +102,15 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵<br />英雄</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link><br />英雄
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -89,7 +118,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">190</td>
           </tr>
           <tr>
@@ -98,7 +129,13 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對特殊單位+5<br />對建築物+2</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >+5<br />對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >+2
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>
@@ -107,24 +144,29 @@
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵 <br />特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">0.9</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>
@@ -164,7 +206,10 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">弓兵、火槍兵和騎士。</td>
+            <td class="tta4">
+              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >、火槍兵和<nuxt-link to="/units/Knight">騎士</nuxt-link>。
+            </td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -172,7 +217,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <p>
                 <img src="~assets/Forging.jpg" width="30" alt="" /><nuxt-link
@@ -198,7 +245,9 @@
                 <img src="~assets/Arson.jpg" width="30" alt="" /><nuxt-link
                   to="/techs/Arson"
                   >縱火</nuxt-link
-                >(步兵+2攻擊vs建築)
+                >(步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Building"
+                  >建築</nuxt-link
+                >)
               </p>
             </td>
           </tr>
@@ -260,11 +309,21 @@
         <div class="n1">
           <ul>
             <li>
-              信長的頭像跟源氏重複了，而且跟礪波山（1183）裡面的英雄武士都一樣。
+              信長的頭像跟<nuxt-link to="/units/hero/Minamoto">源氏</nuxt-link
+              >重複了，而且跟<nuxt-link to="/batt/Kurikara_1183"
+                >礪波山（1183）</nuxt-link
+              >裡面的英雄武士都一樣。
             </li>
-            <li>信長的攻擊速度為全英雄最快，只比火戰船(0.25)慢，</li>
             <li>
-              遊戲內建的武士英雄非常稀少，僅有3名：北畠將軍、源氏與織田信長。
+              信長的攻擊速度為全英雄最快，只比<nuxt-link to="/units/Fire_Ship"
+                >火戰船</nuxt-link
+              >(0.25)慢，
+            </li>
+            <li>
+              遊戲內建的武士英雄非常稀少，僅有3名：<nuxt-link
+                to="/units/hero/Kitabatake"
+                >北畠將軍</nuxt-link
+              >、源氏與織田信長。
             </li>
             <li>
               信長的攻擊方式與一般日本武士無異，但是傷害計算速度比正常來的快。也就是說，你看到他砍一刀，他可能已經砍了兩三刀(居合?)。

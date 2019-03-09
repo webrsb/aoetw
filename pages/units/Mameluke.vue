@@ -8,18 +8,26 @@
       <div class="col-md-8">
         <div class="ien">
           <em
-            ><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-            >的特殊單位，騎著駱駝的遠距離單位，對付敵人的騎兵非常厲害。</em
+            ><nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>的<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >，騎著駱駝的<nuxt-link to="/units/Archer_Units"
+              >遠距離單位</nuxt-link
+            >，對付敵人的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >非常厲害。</em
           >
           <p style="text-align: left;margin-top: 10px;">-遊戲的描述</p>
         </div>
         <div class="n1">
-          奴隸兵又稱為馬穆魯克。是薩拉森的特殊單位。對<nuxt-link
-            to="/armor/Armor_Class_Cavalry"
+          <b>奴隸兵</b>又稱為<b>馬穆魯克</b>。是<nuxt-link to="/civs/Saracens"
+            >薩拉森</nuxt-link
+          >的特殊單位。對<nuxt-link to="/armor/Armor_Class_Cavalry"
             >騎兵</nuxt-link
-          >有加成傷害的短距離(近戰傷害)駱駝單位。奴隸兵能夠在
+          >有加成傷害的短距離(近戰傷害)<nuxt-link to="/armor/Armor_Class_Camel"
+            >駱駝單位</nuxt-link
+          >。奴隸兵能夠在
           <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-          >升級成精銳奴隸兵。
+          >升級成<nuxt-link to="/units/Mameluke">精銳奴隸兵</nuxt-link>。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
@@ -27,14 +35,25 @@
           <p>
             奴隸兵與<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
             ><nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
-            >相似，擁有短距離的近戰傷害單位。由於較高的機動性與對騎兵加成傷害，奴隸兵能完全壓制步兵(
+            >相似，擁有短距離的近戰傷害單位。由於較高的機動性與對<nuxt-link
+              to="/armor/Armor_Class_Cavalry"
+              >騎兵</nuxt-link
+            >加成傷害，奴隸兵能完全壓制<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >(
             <nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-            >除外)與騎兵單位。排除昂貴的價格外，奴隸兵是眾人認可最優秀的單位。
+            >除外)與<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+            >。排除昂貴的價格外，奴隸兵是眾人認可最優秀的單位。
           </p>
           <p>
-            <nuxt-link to="/civs/Indians">印度</nuxt-link
-            >的團隊加分使奴隸兵攻擊<nuxt-link to="/building">建築物</nuxt-link
-            >額外+5，讓奴隸兵不止能對抗敵對的騎兵單位，也大大地提高拆除建築的效率，讓奴隸兵更具侵略性。奴隸兵非常適合搭配
+            <nuxt-link to="/civs/Indians">印度</nuxt-link>的<nuxt-link
+              to="/elements/Team_Bonus"
+              >團隊加分</nuxt-link
+            >使奴隸兵攻擊<nuxt-link to="/building">建築物</nuxt-link
+            >額外+5，讓奴隸兵不止能對抗敵對的騎兵單位，也大大地提高拆除<nuxt-link
+              to="/building"
+              >建築</nuxt-link
+            >的效率，讓奴隸兵更具侵略性。奴隸兵非常適合搭配
             <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
               to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
@@ -44,17 +63,21 @@
             雖然奴隸兵擁有+11騎兵加成抵免，但奴隸兵同時擁有<nuxt-link
               to="/armor/Armor_Class_Camel"
               >駱駝</nuxt-link
-            >的防禦類型，因此無法像
+            >的<nuxt-link to="/armor">防禦類型</nuxt-link>，因此無法像
             <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>的<nuxt-link
               to="/units/Cataphract"
               >聖騎兵</nuxt-link
             >抵抗<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>與
             <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
-            >的攻擊。奴隸兵也有射手的防禦類型，必須提防<nuxt-link
-              to="/units/Huskarl"
+            >的攻擊。奴隸兵也有<nuxt-link to="/armor/Armor_Class_Archer"
+              >射手</nuxt-link
+            >的防禦類型，必須提防<nuxt-link to="/units/Huskarl"
               >哥德衛隊</nuxt-link
             >與<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-            >的攻擊，不過奴隸兵屬於近戰傷害，還是能給予哥德衛隊與矛兵大量的傷害。
+            >的攻擊，不過奴隸兵屬於近戰傷害，還是能給予<nuxt-link
+              to="/units/Huskarl"
+              >哥德衛隊</nuxt-link
+            >與<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>大量的傷害。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -71,7 +94,7 @@
             <td class="tta4">
               <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >、徒步弓兵、
+              >、徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、
               <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link>。
             </td>
           </tr>
@@ -91,7 +114,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -110,7 +135,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -170,7 +197,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抵抗招降</td>
+            <td class="tta1" style="width:10%">
+              抵抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -268,9 +297,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+22攻擊</strong></div>
@@ -643,7 +672,10 @@
           <ul>
             <li>奴隸兵的移動速度是1.41。</li>
             <li>非精銳奴隸兵的攻擊力為7。</li>
-            <li>奴隸兵的開火間隔為0。</li>
+            <li>
+              奴隸兵的<nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link
+              >為0。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
@@ -694,7 +726,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            部分原因是伊斯蘭教早期的信徒不會互相爭鬥，這些奴隸兵是各個阿拉伯領導人作為戰士訓練的奴隸。奴隸戰士不須遵守這個互相爭鬥的禁令。奴隸兵訓練有素，動力十足。來自埃及的奴隸兵軍隊在敘利亞罕見地擊敗了蒙古人，將這些野蠻人騎兵從尼羅河和北非驅除出境。奴隸兵順勢揭竿起來反對他們的阿拉伯統治者並解放了自己。當拿破崙在十八世紀入侵埃及時，他在金字塔之戰中擊敗了一支奴隸兵軍隊。
+            部分原因是伊斯蘭教早期的信徒不會互相爭鬥，這些奴隸兵是各個阿拉伯領導人作為戰士訓練的奴隸。奴隸戰士不須遵守這個互相爭鬥的禁令。奴隸兵訓練有素，動力十足。來自埃及的奴隸兵軍隊在敘利亞罕見地擊敗了<nuxt-link
+              to="/civs/Mongols"
+              >蒙古人</nuxt-link
+            >，將這些野蠻人騎兵從尼羅河和北非驅除出境。奴隸兵順勢揭竿起來反對他們的阿拉伯統治者並解放了自己。當拿破崙在十八世紀入侵埃及時，他在金字塔之戰中擊敗了一支奴隸兵軍隊。
           </p>
         </div>
       </div>
@@ -724,7 +759,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
             </td>
@@ -771,7 +806,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">65, 80(精銳)</td>
           </tr>
           <tr>
@@ -787,7 +824,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -807,11 +846,11 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0/1(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -831,7 +870,7 @@
             <td class="unit4">1.4</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -856,7 +895,10 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />600食物500黃金
+              />600<nuxt-link to="/resource/Food">食物</nuxt-link>500<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >
             </td>
           </tr>
           <tr>

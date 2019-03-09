@@ -8,10 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            漁網是<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
-            >的經濟建築之一，在建成<nuxt-link to="/building/Dock"
-              >碼頭</nuxt-link
-            >後就可以使用。漁網提供715食物，只有
+            <b>漁網</b>是<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >的經濟<nuxt-link to="/building">建築</nuxt-link
+            >之一，在建成<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >後就可以使用。漁網提供715<nuxt-link to="/resource/Food"
+              >食物</nuxt-link
+            >，只有
             <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
             >能夠建築和採集它。
           </p>
@@ -47,20 +50,26 @@
             <nuxt-link to="/units/Villager">農夫</nuxt-link
             >，玩家更難以保護<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
             >。<nuxt-link to="/units/Villager">農夫</nuxt-link
-            >可以躲進城鎮中心或是用牆來保護，但是
+            >可以躲進<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >或是用牆來保護，但是
             <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>會輕易地被擊沉。
           </p>
-          <p>然而，有兩個文明的漁網還是很有用的：</p>
+          <p>
+            然而，有兩個<nuxt-link to="/civs">文明</nuxt-link
+            >的漁網還是很有用的：
+          </p>
           <ul>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>：更高的<nuxt-link
                 to="/units/Fishing_Ship"
                 >漁船</nuxt-link
-              >工作速度，使得日本的漁網遠比
+              >工作速度，使得<nuxt-link to="/civs/Japanese">日本</nuxt-link
+              >的漁網遠比
               <nuxt-link to="/building/Farm">農田</nuxt-link>更有效率。
             </li>
             <li>
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>：漁網只消耗67木頭
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link
+              >：漁網只消耗67<nuxt-link to="/resource/Wood">木頭</nuxt-link>
               (只比<nuxt-link to="/building/Farm">農田</nuxt-link>多7)
               而且提供無限的食物。這使得理論上的漁網效率(食物/木頭比)是無限，因此在後期遊戲中是非常不錯的選擇。
             </li>
@@ -70,14 +79,27 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            農夫種植的速度比漁船從魚網捕魚的速度稍微快一些，但是一直到帝王時代後期，農夫都還是比較不划算的，(漁船自己消耗的木頭也算在內)。但他們倆實際收集資源的速度也要看農田與磨坊和漁網與碼頭之間距離不同而定。
+            <nuxt-link to="/units/Villager">農夫</nuxt-link
+            >種植的速度比<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+            >從魚網捕魚的速度稍微快一些，但是一直到<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >後期，農夫都還是比較不划算的，(漁船自己消耗的木頭也算在內)。但他們倆實際收集資源的速度也要看<nuxt-link
+              to="/building/Farm"
+              >農田</nuxt-link
+            >與<nuxt-link to="/building/Mill">磨坊</nuxt-link>和漁網與<nuxt-link
+              to="/building/Dock"
+              >碼頭</nuxt-link
+            >之間距離不同而定。
           </p>
         </div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
-            <td>建築物</td>
+            <td><nuxt-link to="/building">建築物</nuxt-link></td>
             <td>整體食物提供</td>
-            <td>每個木材生產的食物</td>
+            <td>
+              每個<nuxt-link to="/resource/Wood">木材</nuxt-link>生產的食物
+            </td>
           </tr>
           <tr>
             <td class="tta1">農田</td>
@@ -176,15 +198,18 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：在封建/城堡/帝王時代，<nuxt-link to="/units/Fishing_Ship"
-                >漁船</nuxt-link
-              >有+20%/30%/40%的血量加成。
+              >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代，<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+              >有+20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >加成。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：研究<nuxt-link
                 to="/techs/Gillnets"
                 >流刺網</nuxt-link
-              >在城堡/帝王時代減少15%/20%的成本。
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代減少15%/20%的成本。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -193,9 +218,12 @@
               >減少50%的成本。
             </li>
             <li>
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >：在黑暗/封建/城堡/帝王時代，<nuxt-link to="/units/Fishing_Ship"
-                >漁船</nuxt-link
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>：在<nuxt-link
+                to="/techs/age/Dark_Age"
+                >黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代，<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
               >的建造和採集漁網的速度加快5%/10%/15%/20%。
             </li>
             <li>
@@ -210,7 +238,8 @@
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研究<nuxt-link
                 to="/techs/Gillnets"
                 >流刺網</nuxt-link
-              >在城堡/帝王時代減少15%/20%的成本。
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代減少15%/20%的成本。
             </li>
           </ul>
         </div>
@@ -246,7 +275,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            風乾的魚和鹹魚是中世紀非常有價值的商品，因為它們是可以長期保存和攜帶的蛋白質來源。冰島和挪威的鱈魚是一個特別寶貴的資源。捕魚技術的改進包括用魚網捕撈沿岸魚類和洄遊型魚類。
+            風乾的魚和鹹魚是中世紀非常有價值的商品，因為它們是可以長期保存和攜帶的蛋白質來源。冰島和<nuxt-link
+              to="/civs/Vikings"
+              >挪威</nuxt-link
+            >的鱈魚是一個特別寶貴的資源。捕魚技術的改進包括用魚網捕撈沿岸<nuxt-link
+              to="/units/animal/fish"
+              >魚類</nuxt-link
+            >和洄遊型魚類。
           </p>
         </div>
       </div>
@@ -318,15 +353,15 @@
             <td class="unit4">50</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
         </table>

@@ -8,12 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            紙幣是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>紙幣</b>是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後玩家和同盟立即獲得500黃金。
+            >研發。研發後玩家和同盟立即獲得500<nuxt-link to="/resource/Gold"
+              >黃金</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,7 +23,11 @@
         <div class="n1">
           <ul>
             <li>
-              黃金在帝王時代早期是非常重要的，因此應盡快研究紙幣。玩家擁有的盟友數量會隨著紙幣的影響而增加。例如一個3人的團隊可以800個食物獲得1300金幣，這是一個超值的交易。
+              黃金在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >早期是非常重要的，因此應盡快研究紙幣。玩家擁有的盟友數量會隨著紙幣的影響而增加。例如一個3人的團隊可以800個<nuxt-link
+                to="/resource/Food"
+                >食物</nuxt-link
+              >獲得1300金幣，這是一個超值的交易。
             </li>
             <li>
               即使玩家沒有盟友，如果地圖上的黃金已經用完了，它仍然可以使用。
@@ -47,11 +53,15 @@
             <li>
               紙幣技術很可能基於何奎利在15世紀的貨幣改革，他用紙幣代替金屬硬幣作為交易的媒介。
             </li>
-            <li>紙幣本身是中國的發明，所以在遊戲中稱為“貨幣改革”更為準確。</li>
             <li>
-              紙幣是第二種共享的獨特技術。
-              在4.8改版之前，只有柏柏的特殊科技<nuxt-link to="/techs/Kasbah"
-                >聚居堡壘</nuxt-link
+              紙幣本身是<nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >的發明，所以在遊戲中稱為“貨幣改革”更為準確。
+            </li>
+            <li>
+              紙幣是第二種共享的獨特技術。 在4.8改版之前，只有<nuxt-link
+                to="/civs/Berbers"
+                >柏柏</nuxt-link
+              >的特殊科技<nuxt-link to="/techs/Kasbah">聚居堡壘</nuxt-link
               >可以與別人共享。
             </li>
           </ul>
@@ -79,7 +89,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
             </td>

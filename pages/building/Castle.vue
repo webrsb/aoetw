@@ -7,10 +7,17 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          城堡能夠在城堡時代建築，在遊戲中期及後期是非常重要的建築，提供強大的防禦和獨特的技術與單位。
-          <br />不能被招降、駐軍可達20人。
-          <br />弒君模式遊戲中，遊戲開始時，每位玩家都會在城鎮中心附近擁有一座城堡。
-          <br />不同的文明城堡的建築風格會有不同
+          <b>城堡</b>能夠在<nuxt-link to="/techs/age/Castle_Age"
+            >城堡時代</nuxt-link
+          ><nuxt-link to="/building">建築</nuxt-link
+          >，在遊戲中期及後期是非常重要的建築，提供強大的防禦和獨特的技術與單位。
+          <br />不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+          >、<nuxt-link to="/Garrison">駐軍</nuxt-link>可達20人。
+          <br />弒君模式遊戲中，遊戲開始時，每位玩家都會在<nuxt-link
+            to="/building/Town_Center"
+            >城鎮中心</nuxt-link
+          >附近擁有一座城堡。 <br />不同的<nuxt-link to="/civs">文明</nuxt-link
+          >城堡的建築風格會有不同
         </div>
         <h3>可生產單位與可研發科技</h3>
         <div class="hrn1"></div>
@@ -129,8 +136,14 @@
               >便宜50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：黑暗/封建/城堡/帝國時代的 城堡HP分別增加10%/20%/30%/40%。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：<nuxt-link
+                to="/techs/age/Dark_Age"
+                >黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>的
+              <nuxt-link to="/building/Castle">城堡</nuxt-link
+              >HP分別增加10%/20%/30%/40%。
               <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費。
             </li>
             <li>
@@ -175,7 +188,8 @@
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：<nuxt-link
                 to="/building/University"
                 >學院</nuxt-link
-              >裡對城堡有加成的科技研發速度快80%。
+              >裡對城堡有加成的<nuxt-link to="/techs">科技</nuxt-link
+              >研發速度快80%。
             </li>
           </ul>
         </div>
@@ -184,21 +198,41 @@
         <div class="n1">
           <ul>
             <li>
-              城堡位置有時攸關整場勝負，請謹慎思考，一般來說如果是生產較慢速的城堡兵如不列顛長弓兵與土耳其火槍兵，城堡可蓋前線，如果是快速移動的部隊則盡可能蓋自己家防守，如：馬雅羽毛箭射手、
+              城堡位置有時攸關整場勝負，請謹慎思考，一般來說如果是生產較慢速的城堡兵如<nuxt-link
+                to="/units/Longbowman"
+                >不列顛長弓兵</nuxt-link
+              >與<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+              >，城堡可蓋前線，如果是快速移動的部隊則盡可能蓋自己家防守，如：<nuxt-link
+                to="/units/Plumed_Archer"
+                >馬雅羽毛箭射手</nuxt-link
+              >、
               <nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
-              >、緬甸飛鏢騎兵。中國高手大屌哥就曾因為城堡蓋錯位置，輸了整場比賽。當然影響建築位置的原因很多，這只是其中一點。
+              >、<nuxt-link to="/units/Arambai">緬甸飛鏢騎兵</nuxt-link
+              >。<nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >高手大屌哥就曾因為城堡蓋錯位置，輸了整場比賽。當然影響建築位置的原因很多，這只是其中一點。
             </li>
             <li>
               通常來說，建立在高地的城堡會比低地的城堡更加難以攻陷。應該說城堡請一定要蓋在高地。
             </li>
             <li>
-              衝撞車系能對城堡造成毀滅性破壞，部署你的近戰單位來保護城堡，在城堡時代僵持時，最好在城堡後面出投石車以防大量衝撞車來襲。
+              <nuxt-link to="/armor/Armor_Class_Ram">衝撞車系</nuxt-link
+              >能對城堡造成毀滅性破壞，部署你的近戰單位來保護城堡，在城堡時代僵持時，最好在城堡後面出<nuxt-link
+                to="/units/Mangonel"
+                >投石車</nuxt-link
+              >以防大量<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >來襲。
             </li>
             <li>
-              投石機是城堡最大的威脅，善用你的騎兵去摧毀正在攻擊的投石機。
+              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link
+              >是城堡最大的威脅，善用你的<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >去摧毀正在攻擊的投石機。
             </li>
             <li>
-              城堡是非常強大的防禦建築，但同時也耗費高昂，在市場買進石頭的費用非常不划算，所以，封鎖敵方的石頭來源就能制止敵方建築城堡。
+              城堡是非常強大的防禦建築，但同時也耗費高昂，在市場買進<nuxt-link
+                to="/resource/Stone"
+                >石頭</nuxt-link
+              >的費用非常不划算，所以，封鎖敵方的石頭來源就能制止敵方建築城堡。
             </li>
             <li>
               城堡通常會建設在基地外圍，作為圍牆的一部分保護基地內的生產單位。
@@ -207,10 +241,17 @@
               你也可以將城堡建設在基地內，以防止敵人的快速部隊繞過外圍防禦工事進入基地屠殺生產單位。
             </li>
             <li>
-              當有經濟優勢時，選擇在敵方的資源點附近建設城堡也是不錯的選擇，但是要注意保護你的村民，讓他們不在城堡還沒建造起來前就被殺死。
+              當有經濟優勢時，選擇在敵方的資源點附近建設城堡也是不錯的選擇，但是要注意保護你的<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >，讓他們不在城堡還沒建造起來前就被殺死。
             </li>
             <li>
-              河流地圖的城堡通常建設在各河道的交叉點附近，以制止敵方船艦入侵。
+              <nuxt-link to="/maps/Rivers">河流</nuxt-link
+              >地圖的城堡通常建設在各河道的交叉點附近，以制止敵方<nuxt-link
+                to="/units/Naval_Vessels"
+                >船艦</nuxt-link
+              >入侵。
             </li>
           </ul>
         </div>
@@ -218,7 +259,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            城堡可以根據駐紮單位來提升射箭數量，沒有任何駐紮時可以射出4支箭。每支箭造成11傷害(根據被傷害單位遠程護甲減少)。
+            城堡可以根據駐紮單位來提升射箭數量，沒有任何駐紮時可以射出4支箭。每支箭造成11傷害(根據被傷害單位<nuxt-link
+              to="/armor"
+              >遠程護甲</nuxt-link
+            >減少)。
           </p>
           <p>以下列出駐紮達最大時，不同單位提供的箭數量。</p>
           <table class="table-bordered" width="100%">
@@ -295,9 +339,10 @@
             </tr>
           </table>
 
-          條頓的特殊技術：<strong
+          <nuxt-link to="/civs/Teutons">條頓</nuxt-link>的特殊技術：<strong
             ><nuxt-link to="/techs/Crenellations">垛口</nuxt-link></strong
-          >，讓步兵駐紮也有增加箭數效果，同種類的步兵駐紮滿20人可以增加7支箭。
+          >，讓<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+          >駐紮也有增加箭數效果，同種類的步兵駐紮滿20人可以增加7支箭。
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -334,7 +379,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -358,7 +405,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">攻擊力</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -485,7 +534,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -615,13 +664,24 @@
             <li>東歐的城堡類似於波蘭的馬爾堡城堡，擁有土褐色的外表。</li>
             <li>南歐城堡似乎是建立在意大利帕爾馬的Torrechiara城堡。</li>
             <li>
-              東亞城堡與日本大阪城的天守閣有著相似之處，即使中國、韓國與蒙古表示黑人問號。
+              東亞城堡與<nuxt-link to="/civs/Japanese">日本</nuxt-link
+              >大阪城的天守閣有著相似之處，即使中國、<nuxt-link
+                to="/civs/Koreans"
+                >韓國</nuxt-link
+              >與<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>表示黑人問號。
             </li>
             <li>
-              美洲城堡近似於馬雅文明的金字塔神廟祭壇，但不是任何一座現實中的城堡。
+              美洲城堡近似於<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+              >文明的金字塔神廟祭壇，但不是任何一座現實中的城堡。
             </li>
-            <li>中東城堡最像敘利亞的騎士堡。</li>
-            <li>印度城堡最有可能參考德里紅堡(雖然遊戲中不是紅色的)。</li>
+            <li>
+              中東城堡最像敘利亞的<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >堡。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Indians">印度</nuxt-link
+              >城堡最有可能參考德里紅堡(雖然遊戲中不是紅色的)。
+            </li>
             <li>東南亞城堡似乎建立在一個寺廟上，有明顯的佛教風格。</li>
             <li>跟美洲文明一樣，非洲城堡似乎沒有現實建築長那樣的。</li>
           </ul>
@@ -631,7 +691,11 @@
         <div class="n1">
           <ul>
             <li>城堡是最貴的軍事建築。</li>
-            <li>東亞文明的城堡擺明就是木頭做的，卻還是要花費650石頭。</li>
+            <li>
+              東亞文明的城堡擺明就是<nuxt-link to="/resource/Wood"
+                >木頭</nuxt-link
+              >做的，卻還是要花費650石頭。
+            </li>
             <li>
               南美城堡看起來是金字塔神廟祭壇，因為南美文明從來沒有真正建造過城堡來防禦。（歷史中戰俘會被帶上金字塔頂部的神殿，祭師當場剖開「祭品」的胸膛，取出血淋淋還在跳動的心臟獻給神）。
             </li>
@@ -642,7 +706,10 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"第一座城堡出現於公元9世紀的歐洲，是對當地主要堡壘的改善。城堡在戰術上是防禦性的，但也具有戰略上的攻擊性。因為如果有防禦妥當它們是難以奪取的。它們也提供了一個安全的基地，武裝部隊可以透過這個基地擴大對地方的控制。一位領主都有他們專屬的武裝部隊效忠於他。十世紀到十一世紀時城堡遍布歐洲，以應付來自北部和東部的軟弱的中央政權和野蠻人的襲擊。國王花費了中世紀的剩餘時間試圖奪回當地領主手中的城堡控制權。十五世紀的火砲發展終於讓城堡變得不再是那麼無堅不摧。"</em
+              >"第一座城堡出現於公元9世紀的歐洲，是對當地主要堡壘的改善。城堡在戰術上是防禦性的，但也具有戰略上的攻擊性。因為如果有防禦妥當它們是難以奪取的。它們也提供了一個安全的基地，武裝部隊可以透過這個基地擴大對地方的控制。一位領主都有他們專屬的武裝部隊效忠於他。十世紀到十一世紀時城堡遍布歐洲，以應付來自北部和東部的軟弱的中央政權和野蠻人的襲擊。國王花費了中世紀的剩餘時間試圖奪回當地領主手中的城堡控制權。十五世紀的<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >發展終於讓城堡變得不再是那麼無堅不摧。"</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
@@ -715,7 +782,9 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">11(遠程)</td>
+            <td class="unit4">
+              11(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -724,7 +793,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -744,11 +815,11 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">8</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">11</td>
           </tr>
           <tr>
@@ -785,7 +856,13 @@
               alt=""
           /></gallery>
           <div class="lightbox-caption" style="width:220px">
-            <p><em>所有城堡(帝王世紀和征服者入侵資料片)。</em></p>
+            <p>
+              <em
+                >所有城堡(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                >資料片)。</em
+              >
+            </p>
           </div>
         </div>
         <div class="col-md-4">

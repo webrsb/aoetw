@@ -9,8 +9,11 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>風雲變色</b
-            >為加查·馬達戰役的第五關劇情關卡，此關描述加查·馬達在布巴特之戰中運籌帷幄的經過。
+            <b>風雲變色</b>為<nuxt-link to="/batt/Gajah_Madaa"
+              >加查·馬達戰役</nuxt-link
+            >的第五關劇情關卡，此關描述<nuxt-link to="/units/hero/Gajah_Mada"
+              >加查·馬達</nuxt-link
+            >在布巴特之戰中運籌帷幄的經過。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,11 +23,17 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">帝王時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">
-                500 木材／400 食物／
-                <p>450 黃金／125 石礦</p>
+                500 <nuxt-link to="/resource/Wood">木材</nuxt-link>／400
+                <nuxt-link to="/resource/Food">食物</nuxt-link>／
+                <p>
+                  450 <nuxt-link to="/resource/Gold">黃金</nuxt-link>／125
+                  <nuxt-link to="/resource/Stone">石礦</nuxt-link>
+                </p>
               </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">125</td>
@@ -41,14 +50,18 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家1</div></td>
-              <td class="tc6" colspan="3">馬來人（紅色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Malay">馬來人</nuxt-link>（紅色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p3">玩家2</div></td>
-              <td class="tc6">滿者伯夷軍隊（綠色）馬來</td>
+              <td class="tc6">
+                滿者伯夷軍隊（綠色）<nuxt-link to="/civs/Malay">馬來</nuxt-link>
+              </td>
               <td class="tc6"><div class="p4">玩家4</div></td>
               <td class="tc6">特魯烏蘭城（黃色）馬來</td>
             </tr>
@@ -56,7 +69,9 @@
               <td class="tc6"><div class="p6">玩家6</div></td>
               <td class="tc6">爪哇村莊（紫色）馬來</td>
               <td class="tc6"><div class="p7">玩家7</div></td>
-              <td class="tc6">印度商人（灰色）印度</td>
+              <td class="tc6">
+                <nuxt-link to="/civs/Indians">印度</nuxt-link>商人（灰色）印度
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -66,22 +81,37 @@
               <td class="tc6"><div class="p1">玩家2</div></td>
               <td class="tc6">巽他王國（藍色）馬來</td>
               <td class="tc6"><div class="p5">玩家5</div></td>
-              <td class="tc6">爪哇流寇（淺藍）緬甸</td>
+              <td class="tc6">
+                爪哇流寇（淺藍）<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <h3>開場</h3>
-          <p>。 英雄單位 - 加查·馬達</p>
+          <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link>單位 - 加查·馬達</p>
           <p>
             。 軍事單位 -
-            雙手劍兵x8、彎刀勇士x8、弩兵x8、輕騎兵x1、矛象伕x2、中型投石車x2
+            <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
+            >x8、<nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
+            >x8、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >x8、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >x1、<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+            >x2、<nuxt-link to="/units/Onager">中型投石車</nuxt-link>x2
           </p>
-          <p>。 海軍單位 - 運輸船x1、弩砲戰船x6、快速火戰船x4</p>
+          <p>
+            。 <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
+            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >x1、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+            >x6、<nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>x4
+          </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <li>殺死皇城中的巽他王子。</li>
-            <li>建造並保衛一座世界奇觀。</li>
+            <li>
+              建造並保衛一座<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >。
+            </li>
             <h2>次要任務</h2>
             <div class="hrn1"></div>
             <div class="n1">
@@ -95,20 +125,30 @@
             <div class="n1">
               <ul>
                 <li>
-                  即使你的英雄犧牲了，也不會導致戰役失敗。（按：加查·馬達你真不重要）
+                  即使你的英雄犧牲了，也不會導致<nuxt-link to="/batt"
+                    >戰役</nuxt-link
+                  >失敗。（按：加查·馬達你真不重要）
                 </li>
                 <li>滿者伯夷的人口上限為125。</li>
                 <li>
-                  在國都附近有印度商人，你若支付300黃金便能夠獲得三隻戰象。
+                  在國都附近有印度商人，你若支付300黃金便能夠獲得三隻<nuxt-link
+                    to="/units/War_Elephant"
+                    >戰象</nuxt-link
+                  >。
                 </li>
                 <li>
                   這一帶流寇橫行，你也可以在進攻巽他王國之前先把流寇給剿滅。如果你能夠搗毀匪巢，就無法讓他們橫行霸道了。
                 </li>
                 <li>
-                  巽他王國會利用特魯烏蘭城訓練各種部隊，若是能夠派遣士兵搶奪那些軍事陣地便可以取得那些建築的控制權。
+                  巽他王國會利用特魯烏蘭城訓練各種部隊，若是能夠派遣士兵搶奪那些軍事陣地便可以取得那些<nuxt-link
+                    to="/building"
+                    >建築</nuxt-link
+                  >的控制權。
                 </li>
                 <li>
-                  加查·馬達不准我們使用攻城武器襲擊皇城，但大象可以是個良好的替代武器。
+                  加查·馬達不准我們使用<nuxt-link to="/units/Siege_Weapons"
+                    >攻城武器</nuxt-link
+                  >襲擊皇城，但大象可以是個良好的替代武器。
                 </li>
               </ul>
               <h2>斥候</h2>
@@ -176,14 +216,18 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4">加查·馬達</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">馬來人</td>
           </tr>
           <tr>
@@ -195,7 +239,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">王者崛起第一章之五</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>第一章之五
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

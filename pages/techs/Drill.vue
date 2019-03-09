@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            演習是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>演習</b>是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Siege_Workshop"
@@ -23,10 +23,13 @@
         <div class="n1">
           <ul>
             <li>
-              演習可加快攻城器的移動速度，讓蒙古軍隊成為遊戲中最敏捷的軍隊之一。而載滿<nuxt-link
+              演習可加快<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+              >的移動速度，讓<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >軍隊成為遊戲中最敏捷的軍隊之一。而載滿<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
-              >的蒙古衝撞車可以移動得像輕型
+              >的蒙古<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >可以移動得像輕型
               <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>一樣地快速。
             </li>
           </ul>
@@ -47,7 +50,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            蒙古人獲得巨大成功的秘訣之一是他們在戰鬥中的偉大紀律，當時很多的軍隊擁有復雜的等級制度和傳統結構，蒙古人則是在平原和狩獵場進行了無數小時的訓練沙場技巧。蒙古軍隊極快的移動速度和突擊讓經常跟他們戰鬥的有精良重裝甲的軍隊也摸不著頭緒。
+            <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
+            >獲得巨大成功的秘訣之一是他們在戰鬥中的偉大紀律，當時很多的軍隊擁有復雜的等級制度和傳統結構，蒙古人則是在平原和狩獵場進行了無數小時的訓練沙場技巧。蒙古軍隊極快的移動速度和突擊讓經常跟他們戰鬥的有精良重裝甲的軍隊也摸不著頭緒。
           </p>
         </div>
       </div>
@@ -73,7 +77,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
             </td>
@@ -107,11 +111,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">450</td>
           </tr>
           <tr>

@@ -24,7 +24,13 @@
             >。
           </p>
           <p>
-            他在遊戲中使用哥德衛隊的外型。作為一個英雄單位，他無法被招降且會自動回血(征服者入侵資料片以後)。
+            他在遊戲中使用<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+            >的外型。作為一個<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>(<nuxt-link
+              to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >資料片以後)。
           </p>
         </div>
       </div>
@@ -57,7 +63,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -65,7 +73,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">450</td>
           </tr>
           <tr>
@@ -83,22 +93,24 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -111,7 +123,7 @@
             <td class="unit4">0.9</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
         </table>

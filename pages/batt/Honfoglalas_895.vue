@@ -8,8 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            征服家園為失落帝國的戰役中編號第4的關卡，此關描述匈牙利民族於公元900年左右向西遷移的情況。
-            此篇戰役由許多匈牙利歷史事件組成的長篇戰役，玩家不可自行升級時代。
+            <b>征服家園</b>為<nuxt-link to="/batt/Battles_of_the_Forgotten"
+              >失落帝國的戰役</nuxt-link
+            >中編號第4的關卡，此關描述匈牙利民族於公元900年左右向西遷移的情況。
+            此篇<nuxt-link to="/batt">戰役</nuxt-link
+            >由許多匈牙利歷史事件組成的長篇戰役，玩家不可自行升級時代。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +22,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代:</td>
-              <td class="tc2" width="15%">黑暗時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源:</td>
-              <td class="tc2">0 木材，0 食物，0 黃金，0 石礦</td>
+              <td class="tc2">
+                0 <nuxt-link to="/resource/Wood">木材</nuxt-link>，0
+                <nuxt-link to="/resource/Food">食物</nuxt-link>，0
+                <nuxt-link to="/resource/Gold">黃金</nuxt-link>，0
+                <nuxt-link to="/resource/Stone">石礦</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限:</td>
               <td class="tc2" width="5%">200</td>
             </tr>
@@ -40,7 +50,9 @@
               <div class="p2"></div>
               玩家1：
             </td>
-            <td class="tc6" colspan="3">馬扎爾（紅色）</td>
+            <td class="tc6" colspan="3">
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>（紅色）
+            </td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
@@ -55,26 +67,35 @@
               <div class="p8"></div>
               玩家4：
             </td>
-            <td class="tc6" width="35%">卡札爾人（橘色）波斯</td>
+            <td class="tc6" width="35%">
+              卡札爾人（橘色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="tc6">
               <div class="p5"></div>
               玩家5：
             </td>
-            <td class="tc6" width="35%">卡巴爾人（水藍色）土耳其</td>
+            <td class="tc6" width="35%">
+              卡巴爾人（水藍色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+            </td>
             <td class="tc6">
               <div class="p1"></div>
               玩家6：
             </td>
-            <td class="tc6" width="35%">拜占庭人（藍色）拜占庭</td>
+            <td class="tc6" width="35%">
+              <nuxt-link to="/civs/Byzantines">拜占庭人</nuxt-link
+              >（藍色）<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="tc6">
               <div class="p6"></div>
               玩家7：
             </td>
-            <td class="tc6" width="35%">保加爾人（紫色）匈奴</td>
+            <td class="tc6" width="35%">
+              保加爾人（紫色）<nuxt-link to="/civs/Huns">匈奴</nuxt-link>
+            </td>
             <td class="tc6">
               <div class="p3"></div>
               玩家8：
@@ -97,9 +118,21 @@
         <h3>開場</h3>
         <li>
           軍事單位 -
-          輕騎兵X2(馬扎爾酋長)，斥候騎兵X4，弓兵X7，矛兵X4，馬弓騎兵X2(馬扎爾酋長)，長槍兵X6。
+          <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+          >X2(馬扎爾酋長)，<nuxt-link to="/units/Scout_Cavalry"
+            >斥候騎兵</nuxt-link
+          >X4，<nuxt-link to="/units/Archer">弓兵</nuxt-link>X7，<nuxt-link
+            to="/units/Skirmisher"
+            >矛兵</nuxt-link
+          >X4，<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+          >X2(馬扎爾酋長)，<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+          >X6。
         </li>
-        <li>動物單位 - 馬兒X8，綿羊X14，獵狼X7，乳牛X10。</li>
+        <li>
+          動物單位 - 馬兒X8，<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
+          >X14，<nuxt-link to="/units/hero/Hunting_Wolf">獵狼</nuxt-link
+          >X7，<nuxt-link to="/units/animal/Cow">乳牛</nuxt-link>X10。
+        </li>
         <h2>主要任務</h2>
         <div class="hrn1"></div>
         <div class="n1">
@@ -107,13 +140,15 @@
             <P>第1階段</P>
             <li>召集馬扎爾部落一起遷徙往西南邊的卡劄爾汗國。</li>
             <li>
-              派一名信使去找卡劄爾的可汗（把牲畜留在牆外，否則它們可能會被招降了）。
+              派一名信使去找卡劄爾的可汗（把牲畜留在牆外，否則它們可能會被帶走）。
             </li>
             <P>第2階段:地點：列維底亞；時間：公元7世紀</P>
             <li>建立你的新家園，守衛它，提防佩切涅格人的入侵。</li>
             <li>-拉韋迪大公必須活著</li>
             <li>
-              -可選任務：把你的馬帶到城堡邊上的圍欄處，便可把馬賣給卡札爾人。
+              -可選任務：把你的馬帶到<nuxt-link to="/building/Castle"
+                >城堡</nuxt-link
+              >邊上的圍欄處，便可把馬賣給卡札爾人。
             </li>
             <li>撤離你的城鎮，帶領至少30人馬趕往插旗幟處。</li>
             <P>第3階段:地點：伊特闊茲；時間：公元830年</P>
@@ -183,21 +218,49 @@
               一開始提示說要你盡量保留部隊與牲畜，但實際上需要保留的牲畜只有馬比較重要。所以帶上你的馬以及騎乘部隊南下找隊友，至於牛跟羊，能帶多少就帶多少吧！
             </li>
             <li>
-              2.
-              抵達卡札爾汗國之後，卡札爾汗國會給你一個城鎮中心在城外。雖然提示叫你防守它，但是根本守不住。大約佩切涅格人四五波襲擊之後會來一波超大的，然後提示會跟你說「我們守不住了，請帶20人逃到指定位置」。但是等到他說這句話，你的人根本已經走不掉了，所以一開始不斷生村民，在靠近你盟友的那個地方採石礦跟木頭就好，並且在周圍蓋幾個哨戰探查敵人動向，敵人來了就躲進盟友的城牆。他們看不到人就會去打城鎮中心。
+              2. 抵達卡札爾汗國之後，卡札爾汗國會給你一個<nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >在城外。雖然提示叫你防守它，但是根本守不住。大約佩切涅格人四五波襲擊之後會來一波超大的，然後提示會跟你說「我們守不住了，請帶20人逃到指定位置」。但是等到他說這句話，你的人根本已經走不掉了，所以一開始不斷生<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >，在靠近你盟友的那個地方採石礦跟<nuxt-link to="/resource/Wood"
+                >木頭</nuxt-link
+              >就好，並且在周圍蓋幾個哨戰探查敵人動向，敵人來了就躲進盟友的<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >。他們看不到人就會去打城鎮中心。
             </li>
             <li>
               3.
-              累積足夠的木頭，等到提示說要逃亡的時候，把你的村民全都拉近橘色，從卡札爾汗國南邊城門出去，蓋個伐木場繼續把附近幾棵樹砍掉，然後蓋個磨坊去東方海邊捕魚，生矛兵或長槍兵補足20人，全體拉到旗幟的位置就可以達成任務。
+              累積足夠的木頭，等到提示說要逃亡的時候，把你的村民全都拉進橘色，從卡札爾汗國南邊<nuxt-link
+                to="/building/Gate"
+                >城門</nuxt-link
+              >出去，蓋個<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
+              >繼續把附近幾棵樹砍掉，然後蓋個<nuxt-link to="/building/Mill"
+                >磨坊</nuxt-link
+              >去東方海邊捕魚，生矛兵或長槍兵補足20人，全體拉到旗幟的位置就可以達成任務。
             </li>
             <li>第二階段</li>
             <li>
               1.
-              你獲得許多城堡、村民、城鎮中心，而且附近有很多資源。提示又叫你防守它。不管怎樣守就對了。多蓋一些城堡並且研發彈道學與城垛射孔。並且一直升馬弓與驃騎兵。看到衝車就用驃騎兵去戳。
+              你獲得許多城堡、村民、城鎮中心，而且附近有很多資源。提示又叫你防守它。不管怎樣守就對了。多蓋一些城堡並且研發<nuxt-link
+                to="/techs/Ballistics"
+                >彈道學</nuxt-link
+              >與<nuxt-link to="/techs/Murder_Holes">城垛射孔</nuxt-link
+              >。並且一直升<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >與<nuxt-link to="/units/Magyar_Huszar">馬札爾驃騎兵</nuxt-link
+              >。看到<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >就用驃騎兵去戳。
             </li>
             <li>
-              2.
-              然而佩切涅格人很快會進入帝王時代，然後你又打不贏人家了。在你快要守不住的時候，拜占庭人會要求你幫它滅保加爾人，此時佩切涅格人對你的外交會暫時改成同盟。（然而他們的部隊會繼續集結到你的城堡附近，怕……）由於佩切涅格人暫時不會攻擊你，此時你可以大搖大擺的讓村民全地圖採礦，還可以派貿易車隊到北方佩切涅格人的基地去貿易。
+              2. 然而佩切涅格人很快會進入<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >，然後你又打不贏人家了。在你快要守不住的時候，拜占庭人會要求你幫它滅保加爾人，此時佩切涅格人對你的外交會暫時改成同盟。（然而他們的部隊會繼續集結到你的城堡附近，怕……）由於佩切涅格人暫時不會攻擊你，此時你可以大搖大擺的讓村民全地圖採礦，還可以派<nuxt-link
+                to="/units/Trade_Cart"
+                >貿易車隊</nuxt-link
+              >到北方佩切涅格人的基地去貿易。
             </li>
             <li>
               3.
@@ -205,11 +268,18 @@
             </li>
             <li>
               4.
-              保加爾人擁有幾乎無限多的資源，只要你的部隊殺他一隻村民，他就會開始瘋狂地用部隊攻擊你，但由於對方不會出攻城器，在四座城堡的掃射下防守不是問題。但是在矛兵的騷擾下，城堡HP還是會慢慢下降，所以要記得留兩隻村民等著修。
+              保加爾人擁有幾乎無限多的資源，只要你的部隊殺他一隻村民，他就會開始瘋狂地用部隊攻擊你，但由於對方不會出<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城器</nuxt-link
+              >，在四座城堡的掃射下防守不是問題。但是在矛兵的騷擾下，城堡HP還是會慢慢下降，所以要記得留兩隻村民等著修。
             </li>
             <li>
-              5.
-              即使你拆掉保加爾人的城堡，或任何建築，他們也會補蓋，研究了很久，筆者發現唯一可以停止他們無限出兵的方式是摧毀城鎮中心，因為只要摧毀城鎮中心，他們出兵的頻率就會大幅減少，也就可以慢慢推平他們。因為你全地圖採礦還有大量貿易車隊，金礦不虞匱乏，所以可以很奢侈的生遊俠海去拆城鎮中心。
+              5. 即使你拆掉保加爾人的城堡，或任何<nuxt-link to="/building"
+                >建築</nuxt-link
+              >，他們也會補蓋，研究了很久，筆者發現唯一可以停止他們無限出兵的方式是摧毀城鎮中心，因為只要摧毀城鎮中心，他們出兵的頻率就會大幅減少，也就可以慢慢推平他們。因為你全地圖採礦還有大量貿易車隊，金礦不虞匱乏，所以可以很奢侈的生<nuxt-link
+                to="/units/Paladin"
+                >遊俠</nuxt-link
+              >海去拆城鎮中心。
             </li>
             <li>6. 注意不要將村民趕盡殺絕，留越多越好，晚點還有用。</li>
             <li>
@@ -218,12 +288,18 @@
             </li>
             <li>第三階段</li>
             <li>
-              1.
-              達陣之後你除了僧侶之外的所有單位會被沒收，然後你的阿爾帕德跟一隻馬和信使會出現在地圖偏左的位置。把你的馬跟信使拿去給摩拉維亞人，再回到阿爾帕德身邊就可以獲得這片草原。（耶！又有家了！）然後任務提示就會變成叫你擊敗摩拉維亞人（What？人家給了你棲身之所你卻要擊敗人家？這裡筆者表示不能接受，馬扎爾人的理由是：我們用最好的馬換來這片草原，所以這片草原現在所有的地方都是我們的啦！）
+              1. 達陣之後你除了<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >之外的所有單位會被沒收，然後你的阿爾帕德跟一隻馬和信使會出現在地圖偏左的位置。把你的馬跟信使拿去給摩拉維亞人，再回到阿爾帕德身邊就可以獲得這片草原。（耶！又有家了！）然後任務提示就會變成叫你擊敗摩拉維亞人（What？人家給了你棲身之所你卻要擊敗人家？這裡筆者表示不能接受，馬扎爾人的理由是：我們用最好的馬換來這片草原，所以這片草原現在所有的地方都是我們的啦！）
             </li>
             <li>
               2.
-              推掉你營地西方的一座城堡就可以獲得整座城的控制權，包含兩座碼頭，小心你的碼頭是不能重建的，而其中一個碼頭因為距離太近，敵人的重投有可能會隔岸把它摧毀，要小心防守。
+              推掉你營地西方的一座城堡就可以獲得整座城的控制權，包含兩座<nuxt-link
+                to="/building/Dock"
+                >碼頭</nuxt-link
+              >，小心你的碼頭是不能重建的，而其中一個碼頭因為距離太近，敵人的<nuxt-link
+                to="/units/Siege_Onager"
+                >重型投石車</nuxt-link
+              >有可能會隔岸把它摧毀，要小心防守。
             </li>
             <li>
               3.
@@ -231,11 +307,20 @@
             </li>
             <li>
               4.
-              在保加爾人的北側岸邊蓋兩座城堡，要同時完工同時駐滿馬弓騎兵，這樣就會吸引敵人的重投一直來南側送。（要蓋兩座，否則城堡會慢慢被大量的重投推掉）然後造大量戰船清掉摩拉維亞北方沿岸建築。
+              在保加爾人的北側岸邊蓋兩座城堡，要同時完工同時駐滿馬弓騎兵，這樣就會吸引敵人的重投一直來南側送。（要蓋兩座，否則城堡會慢慢被大量的重投推掉）然後造大量<nuxt-link
+                to="/units/Naval_Vessels"
+                >戰船</nuxt-link
+              >清掉摩拉維亞北方沿岸建築。
             </li>
             <li>
-              5.
-              摩拉維亞沒有巨投，而且AI很奇怪，不會拆木牆，所以派運輸艦載村民從北岸登陸，蓋一圈木牆，再讓巨投登陸到木牆裡面，就可以輕鬆拆掉更裡面的建築。此時綠色沿岸已經陷落，派村民蓋十個馬廄就可以用肉馬淹死他們來結束遊戲。
+              5. 摩拉維亞沒有巨投，而且AI很奇怪，不會拆<nuxt-link
+                to="/building/Palisade_Wall"
+                >木牆</nuxt-link
+              >，所以派運輸艦載村民從北岸登陸，蓋一圈木牆，再讓巨投登陸到木牆裡面，就可以輕鬆拆掉更裡面的建築。此時綠色沿岸已經陷落，派村民蓋十個<nuxt-link
+                to="/building/Stable"
+                >馬廄</nuxt-link
+              >就可以用<nuxt-link to="/units/Scout_Cavalry">肉馬</nuxt-link
+              >淹死他們來結束遊戲。
             </li>
           </ul>
         </div>
@@ -255,15 +340,22 @@
           <ul>
             <li>
               羅馬帝國時期，匈牙利是潘諾尼亞行省，羅馬帝國滅亡後，
-              各民族陸續遷移到這裡。首先到來的是匈人，在阿提拉的領導下，他們建立了強大的匈人帝國。匈牙利這個名字可能來源於此，
+              各民族陸續遷移到這裡。首先到來的是匈人，在<nuxt-link
+                to="/units/hero/Attila_the_Hun"
+                >阿提拉</nuxt-link
+              >的領導下，他們建立了強大的匈人帝國。匈牙利這個名字可能來源於此，
             </li>
             <li>但也有很多學者認為應該來自屬於突厥的歐諾古爾（Onogur）人。</li>
             <li>
               在匈人帝國解體後日耳曼部落統治了這裡將近100年，接踵而來的是阿瓦爾人，在他們近200年的統治下，
-              斯拉夫民族開始滲入。摩拉維亞人、保加爾人、波蘭人和克羅埃西亞人都曾經企圖推翻阿瓦爾人，但直到查理曼才成功的將其擊敗。
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+              >民族開始滲入。摩拉維亞人、保加爾人、波蘭人和克羅埃西亞人都曾經企圖推翻阿瓦爾人，但直到查理曼才成功的將其擊敗。
             </li>
             <li>
-              查理曼死後，東法蘭克王國逐步衰落，形勢對斯拉夫人的崛起有利，
+              查理曼死後，東法蘭克王國逐步衰落，形勢對<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫人</nuxt-link
+              >的崛起有利，
               大摩拉維亞領袖斯瓦托普魯克雄心勃勃地企圖建立大摩拉維亞公國，但是東方遊牧民族馬扎爾人的到來結束了這一地區的紛爭。
             </li>
             <li>
@@ -306,7 +398,7 @@
             <td class="unit4">失落帝國的戰役</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
             </td>
@@ -318,7 +410,11 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">失落帝國戰役第七章之四</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Battles_of_the_Forgotten"
+                >失落帝國戰役</nuxt-link
+              >第七章之四
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

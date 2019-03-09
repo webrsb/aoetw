@@ -8,10 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            城鎮巡邏可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>城鎮巡邏</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>
-            研發。研發後建築物視野+4。
+            研發。研發後<nuxt-link to="/building">建築物</nuxt-link
+            ><nuxt-link to="/los.php">視野</nuxt-link>+4。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -19,14 +20,19 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在城堡/帝王時代花費便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研究<nuxt-link
                 to="/techs/Town_Patrol"
                 >城鎮巡邏</nuxt-link
-              >的時間在城堡/帝王時代快15%/20%。
+              >的時間在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代快15%/20%。
             </li>
           </ul>
         </div>
@@ -50,7 +56,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            隨著社區的發展，他們需要有更多的軍隊和資源來捍衛自己。城鎮瞭望轉型成由當地領主提供的城鎮巡邏隊能提供更多對社區安全的保護。
+            隨著社區的發展，他們需要有更多的軍隊和資源來捍衛自己。<nuxt-link
+              to="/techs/Town_Watch"
+              >城鎮瞭望</nuxt-link
+            >轉型成由當地領主提供的城鎮巡邏隊能提供更多對社區安全的保護。
             城鎮巡邏的範圍可能遠離社區，直到可能出現敵人的過境點。更遠的巡邏意味著更早的警告和更多時間準備防禦敵人。
           </p>
         </div>
@@ -77,7 +86,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -119,11 +128,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

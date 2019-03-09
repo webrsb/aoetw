@@ -8,9 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火繩槍是<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>是<nuxt-link
+              to="/civs/Portuguese"
+              >葡萄牙</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Gunpowder_Unit"
@@ -23,11 +25,15 @@
         <div class="n1">
           <ul>
             <li>
-              火繩槍是葡萄牙玩家使用<nuxt-link
-                to="/units/Hand_Cannoneer"
-              ></nuxt-link
-              >火槍兵和<nuxt-link to="/units/Organ_Gun"></nuxt-link
-              >風琴砲作為部隊主力時最需要的科技。火繩槍可增加這些單位在遠程範圍的準確性，更有效的消滅來犯的近戰單位。火繩槍也可讓
+              火繩槍是<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >玩家使用<nuxt-link to="/units/Hand_Cannoneer"></nuxt-link
+              ><nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >和<nuxt-link to="/units/Organ_Gun"></nuxt-link
+              ><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link
+              >作為部隊主力時最需要的<nuxt-link to="/techs">科技</nuxt-link
+              >。火繩槍可增加這些單位在<nuxt-link to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >範圍的準確性，更有效的消滅來犯的近戰單位。火繩槍也可讓
               <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >在防衛目標上能更有效的瞄準移動的單位。
@@ -64,7 +70,10 @@
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>火繩槍給火藥單位的投射物速度減低到75%。</li>
+            <li>
+              火繩槍給<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              >的投射物速度減低到75%。
+            </li>
             <li>
               5.2改版後給予<nuxt-link to="/building/Bombard_Tower"
                 >火砲塔</nuxt-link
@@ -102,7 +111,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
             </td>
@@ -136,11 +145,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">700</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
@@ -151,7 +164,11 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              火藥單位對移動目標的命中率上升。火砲戰船和火砲塔的投射物速度+0.2
+              火藥單位對移動目標的命中率上升。<nuxt-link
+                to="/units/Cannon_Galleon"
+                >火砲戰船</nuxt-link
+              >和<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+              >的投射物速度+0.2
             </td>
           </tr>
         </table>

@@ -8,15 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            快速火戰船在<nuxt-link to="/techs/age/Imperial_Age"
+            <b>快速火戰船</b>在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >的碼頭可以訓練。這是一艘有"火焰噴射器"的船，對其他的船隻有攻擊加成，但必須靠近敵艦才能進行攻擊。
+            >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >可以訓練。這是一艘有"火焰噴射器"的船，對其他的<nuxt-link
+              to="/armor/Armor_Class_Ship"
+              >船隻</nuxt-link
+            >有攻擊加成，但必須靠近敵艦才能進行攻擊。
           </p>
           <p>
-            與火戰船相比，快速火戰船的傷害更高護甲也更厚。快速火戰船的速度也比火戰船快，可以追上<nuxt-link
+            與<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+            >相比，快速火戰船的傷害更高護甲也更厚。快速火戰船的速度也比火戰船快，可以追上<nuxt-link
               to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
-            >，但是攻擊速度的話則還是跟火戰船一模一樣。
+            >，但是<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
+            >的話則還是跟火戰船一模一樣。
           </p>
         </div>
         <h3>戰術</h3>
@@ -25,7 +31,12 @@
           <p>
             儘管快速火戰船在與<nuxt-link to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
-            >的對抗中表現更好，但是重型弩砲戰船的低成本和長射程，可以增加偵察的安全性和降低成本在大規模的對抗中，重型弩砲戰船可以輕易地運用長射程擊敗一群快速火戰船，但是如果得到其他海軍的適當支援，一支重型火戰船可以輕易地將一群重型弩砲戰船擊沉。快速火戰船在面對<nuxt-link
+            >的對抗中表現更好，但是<nuxt-link to="/units/Galleon"
+              >重型弩砲戰船</nuxt-link
+            >的低成本和長射程，可以增加偵察的安全性和降低成本在大規模的對抗中，重型弩砲戰船可以輕易地運用長射程擊敗一群快速火戰船，但是如果得到其他<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍</nuxt-link
+            >的適當支援，一支重型火戰船可以輕易地將一群重型弩砲戰船擊沉。快速火戰船在面對<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
             >和<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
@@ -110,7 +121,8 @@
             <td class="tta4">
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-              >、在岸邊的建築物和近戰單位、
+              >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
+              >和近戰單位、
               <nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>。
             </td>
@@ -120,8 +132,10 @@
             <td class="tta4">
               <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
               >、<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link>、
-              <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
-              >、箭塔、<nuxt-link to="/building/Castle">城堡</nuxt-link
+              <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>、<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >、<nuxt-link to="/building/Castle">城堡</nuxt-link
               >、在岸邊的<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
               >單位。
             </td>
@@ -168,7 +182,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -473,7 +489,9 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對快速火戰船有額外攻擊力
+        以下技術可讓以下單位對快速火戰船有額外<nuxt-link to="/elements/Attack"
+          >攻擊力</nuxt-link
+        >
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
@@ -565,8 +583,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：快速火戰船在帝王時代訓練的速度提高20%，研究<nuxt-link
-                to="/techs/Careening"
+              >：快速火戰船在<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >訓練的速度提高20%，研究<nuxt-link to="/techs/Careening"
                 >傾側維修術</nuxt-link
               >和
               <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>的速度快20％。
@@ -597,10 +616,15 @@
           </h3>
           <ul>
             <li>快速火戰船的HP為120。</li>
-            <li>快速火戰船有8的遠防並對反船隻攻擊有額外+6護甲。</li>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:火戰船木材成本便宜20%。
+              快速火戰船有8的<nuxt-link to="/armor">遠防</nuxt-link
+              >並對反船隻攻擊有額外+6護甲。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>:火戰船<nuxt-link
+                to="/resource/Wood"
+                >木材</nuxt-link
+              >成本便宜20%。
             </li>
           </ul>
           <h3>
@@ -630,7 +654,10 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>火快速戰船現在有9的遠防並對反船隻攻擊有額外+9護甲。</li>
+            <li>
+              <nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link
+              >現在有9的遠防並對反船隻攻擊有額外+9護甲。
+            </li>
             <li>引入<nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>。</li>
             <li>
               4.8版本後快速火戰船會受到<nuxt-link to="/techs/Ballistics"
@@ -653,7 +680,10 @@
             <li>
               火戰船和<nuxt-link to="/units/Fast_Fire_Ship"
                 >快速火戰船</nuxt-link
-              >是遊戲中唯二攻擊會同時造成近戰和遠程傷害的單位。
+              >是遊戲中唯二攻擊會同時造成近戰和<nuxt-link
+                to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >傷害的單位。
             </li>
             <li>
               火戰船會對作弊單位中的<nuxt-link to="/units/hero/Saboteur"
@@ -697,7 +727,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>
@@ -742,7 +772,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">140</td>
           </tr>
           <tr>
@@ -762,11 +794,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">0.25秒/次</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -778,7 +814,7 @@
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -786,7 +822,7 @@
             <td class="unit4">8</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>(+9)
             </td>
@@ -796,7 +832,7 @@
             <td class="unit4">1.43</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
           <tr>
@@ -826,7 +862,12 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Fireline.png" alt=""
               /></gallery>
-              <p><em>火戰船系列(快速火戰船在右邊)。</em></p>
+              <p>
+                <em
+                  ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
+                  >(快速火戰船在右邊)。</em
+                >
+              </p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -838,7 +879,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/FFireShipHD.jpg" alt=""
               /></gallery>
-              <p><em>各種快速火戰船(世紀帝國和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >各種快速火戰船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
             <div class="row">
               <div class="col-md-4">

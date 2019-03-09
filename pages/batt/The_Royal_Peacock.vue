@@ -9,8 +9,12 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>百鳥朝鳳</b
-            >為勃印曩戰役的第三關劇情關卡，此關描述勃印曩在德彬瑞蒂國王遇害後，擊敗反對力量、確立權威的經過。
+            <b>百鳥朝鳳</b>為<nuxt-link to="/batt/Bayinnaunga"
+              >勃印曩戰役</nuxt-link
+            >的第三關劇情關卡，此關描述<nuxt-link to="/units/hero/Bayinnaung"
+              >勃印曩</nuxt-link
+            >在<nuxt-link to="/units/hero/Tabinshwehti">德彬瑞蒂國王</nuxt-link
+            >遇害後，擊敗反對力量、確立權威的經過。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,7 +24,9 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">城堡時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">無</td>
               <td class="tc1" width="15%">人口上限：</td>
@@ -38,14 +44,18 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p3">玩家1</div></td>
-              <td class="tc6" colspan="3">緬甸人（綠色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>（綠色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
-              <td class="tc6">白古城（紅色）緬甸</td>
+              <td class="tc6">
+                白古城（紅色）<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#999999;">中立</td>
@@ -60,7 +70,9 @@
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p1">玩家4</div></td>
-              <td class="tc6">卑謬總督（藍色）高棉</td>
+              <td class="tc6">
+                卑謬總督（藍色）<nuxt-link to="/civs/Khmer">高棉</nuxt-link>
+              </td>
               <td class="tc6"><div class="p8">玩家5</div></td>
               <td class="tc6">斯彌陶（橘色）緬甸</td>
             </tr>
@@ -71,21 +83,35 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 特殊單位 - 失明跛腳的僧侶x1</p>
-          <p>。 經濟單位 - 村民x1</p>
-          。 大地之母單位 -
-          勃印曩x1、飛鏢騎兵x6、長劍兵x4、手銃兵x3、輕騎兵x1、僧侶x1、村民x6、貿易商船x1
+          <p>
+            。 <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link> -
+            失明跛腳的<nuxt-link to="/units/Monk">僧侶</nuxt-link>x1
+          </p>
+          <p>
+            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x1
+          </p>
+          。 大地之母單位 - 勃印曩x1、<nuxt-link to="/units/Arambai"
+            >飛鏢騎兵</nuxt-link
+          >x6、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+          >x4、手銃兵x3、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+          >x1、僧侶x1、村民x6、貿易商船x1
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>把德彬瑞蒂大王遇害的消息報告給勃印曩。</li>
+              <li>
+                把<nuxt-link to="/units/hero/Tabinshwehti">德彬瑞蒂</nuxt-link
+                >大王遇害的消息報告給勃印曩。
+              </li>
             </ol>
             <h2>次要任務</h2>
             <div class="hrn1"></div>
             <div class="n1">
               <ol>
-                <li>招降或殺害斯彌蕭圖，以報先王之仇。</li>
+                <li>
+                  <nuxt-link to="/elements/Conversion">招降</nuxt-link
+                  >或殺害斯彌蕭圖，以報先王之仇。
+                </li>
               </ol>
             </div>
           </div>
@@ -113,10 +139,16 @@
                   白古城內的先王舊部想要快點找到勃印曩。因為只有他才能出來主持大局。
                 </li>
                 <li>
-                  斯彌蕭圖(紅色)叛變弒君，現在掌控了白古城與御林軍的矛象伕虎符想要自立為王。
+                  斯彌蕭圖(紅色)叛變弒君，現在掌控了白古城與御林軍的<nuxt-link
+                    to="/units/Battle_Elephant"
+                    >矛象伕</nuxt-link
+                  >虎符想要自立為王。
                 </li>
                 <li>
-                  卑謬總督(藍色)曾經是德彬瑞蒂大王身邊權重望崇的議政大臣。他自認有合法繼承權，率領了弩砲象準備奪取王位。
+                  卑謬總督(藍色)曾經是德彬瑞蒂大王身邊權重望崇的議政大臣。他自認有合法繼承權，率領了<nuxt-link
+                    to="/units/Ballista_Elephant"
+                    >弩砲象</nuxt-link
+                  >準備奪取王位。
                 </li>
                 <li>
                   斯彌陶(橘色)是一位孟族王子、也是佛教僧人。他現在帶領著一批忠誠的僧侶與佛門勇士覬覦王位。
@@ -131,7 +163,10 @@
                 <ul>
                   <li>只有找到勃印曩才會有下一階段的任務指示。</li>
                   <li>
-                    取得最後勝利的方式有兩種：1.利用世界奇觀。2.擊敗四個覬覦王位的人。
+                    取得最後勝利的方式有兩種：1.利用<nuxt-link
+                      to="/building/Wonder"
+                      >世界奇觀</nuxt-link
+                    >。2.擊敗四個覬覦王位的人。
                   </li>
                   <li>
                     白古城內有幾個特別的劇情單位用來擋住出入，你可以選擇讓他們離開位置或是乾脆地將其擊殺。
@@ -189,16 +224,18 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">戰役</td>
+            <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>
             </td>
@@ -212,7 +249,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">王者崛起第三章之三</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>第三章之三
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            采邑騎兵是<nuxt-link to="/civs/Turks">土耳其</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>采邑騎兵</b>是<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
@@ -23,13 +22,22 @@
         <div class="n1">
           <ul>
             <li>
-              土耳其有優秀的馬弓騎兵，采邑騎兵更進一步地提高馬弓騎兵的生命，讓他們在戰鬥中有更多空間發揮。土耳其人如果可以與<nuxt-link
-                to="/civs/Berbers"
-                >柏柏人</nuxt-link
-              >同盟，那麼就可以在射箭場訓練標槍騎兵，這樣研發采邑騎兵的戰略價值將大大增加。
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>有優秀的<nuxt-link
+                to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >，采邑騎兵更進一步地提高馬弓騎兵的生命，讓他們在戰鬥中有更多空間發揮。<nuxt-link
+                to="/civs/Turks"
+                >土耳其人</nuxt-link
+              >如果可以與<nuxt-link to="/civs/Berbers">柏柏人</nuxt-link
+              >同盟，那麼就可以在<nuxt-link to="/building/Archery_Range"
+                >射箭場</nuxt-link
+              >訓練<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >，這樣研發采邑騎兵的戰略價值將大大增加。
             </li>
             <li>
-              有采邑騎兵的土耳其馬弓騎兵生命值可達100，可說他們是遊戲中最好的馬弓騎兵之一(可與之匹敵的:<nuxt-link
+              有采邑騎兵的土耳其馬弓騎兵<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >可達100，可說他們是遊戲中最好的馬弓騎兵之一(可與之匹敵的:<nuxt-link
                 to="/civs/Mongols"
                 >蒙古</nuxt-link
               >馬弓騎兵開火速度+20%；
@@ -54,7 +62,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            Sipahi是指幾乎所有主流的奧斯曼帝國騎兵將它們與非正規軍區分開來的術語。升級對於土耳其遠程部隊而言很可能代表了他們獲得更好的保護（Sipahis通常會穿著鏈甲）。
+            Sipahi是指幾乎所有主流的<nuxt-link to="/units/hero/Osman"
+              >奧斯曼</nuxt-link
+            >帝國騎兵將它們與非正規軍區分開來的術語。升級對於土耳其<nuxt-link
+              to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >部隊而言很可能代表了他們獲得更好的保護（Sipahis通常會穿著鏈甲）。
           </p>
         </div>
       </div>
@@ -80,7 +93,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>
             </td>
@@ -114,11 +127,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>

@@ -8,28 +8,45 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            南美文明限定，<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+            南美<nuxt-link to="/civs">文明</nuxt-link>限定，<nuxt-link
+              to="/civs/Mayans"
+              >馬雅</nuxt-link
             >、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >，鷹斥候的最高等級。
+            >，<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>的最高等級。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            可以根據三個文明不同而打出不同戰術，而相同的是鷹勇士克制所有的攻城武器與僧侶，對騎兵部隊有加成。但幾乎所有的步兵都對鷹勇士有額外的傷。從根本上說，鷹勇士彌補了南美文明沒有馬的不足。
+            可以根據三個文明不同而打出不同戰術，而相同的是鷹勇士克制所有的<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >與<nuxt-link to="/units/Monk">僧侶</nuxt-link>，對<nuxt-link
+              to="/armor/Armor_Class_Cavalry"
+              >騎兵</nuxt-link
+            >部隊有加成。但幾乎所有的<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >都對鷹勇士有額外的傷。從根本上說，鷹勇士彌補了南美文明沒有馬的不足。
           </p>
           <strong><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link></strong>
           <p>
             <nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
-            >為他們的所有步兵加4攻擊，這攻擊讓他們更佳強大，只要三下即可殺死一位村民。配合豹勇士殺步兵，與鷹勇士相輔相成。
+            >為他們的所有步兵加4攻擊，這攻擊讓他們更佳強大，只要三下即可殺死一位<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >。配合<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+            >殺步兵，與鷹勇士相輔相成。
           </p>
           <strong><nuxt-link to="/civs/Mayans">馬雅</nuxt-link></strong>
           <p>
             <nuxt-link to="/techs/El_Dorado">黃金國</nuxt-link
-            >為他們的鷹勇士加40生命，這生命讓他們可以更坦。配合速度快的羽毛箭射手讓人聞風喪膽。
+            >為他們的鷹勇士加40生命，這生命讓他們可以更坦。配合速度快的<nuxt-link
+              to="/units/Plumed_Archer"
+              >羽毛箭射手</nuxt-link
+            >讓人聞風喪膽。
           </p>
           <strong><nuxt-link to="/civs/Incas">印加</nuxt-link></strong>
           <p>
@@ -37,7 +54,7 @@
             >為他們的鷹勇士加防禦，這防禦讓他們可以不用怕任何弓(含<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
-            >)。高防禦鷹勇士配合印加的
+            >)。高防禦鷹勇士配合<nuxt-link to="/civs/Incas">印加</nuxt-link>的
             <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>與<nuxt-link
               to="/units/Slinger"
               >投石手</nuxt-link
@@ -84,7 +101,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/batt/El_Doradoa"
@@ -93,7 +112,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -183,7 +204,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -194,7 +217,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -420,8 +445,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：精銳鷹勇士生產速度提高15％。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
+                to="/units/Elite_Eagle_Warrior"
+                >精銳鷹勇士</nuxt-link
+              >生產速度提高15％。
             </li>
           </ul>
         </div>
@@ -443,7 +470,7 @@
               >、 <nuxt-link to="/techs/Squires">護衛</nuxt-link>、<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
-              >科技的時間快20%。
+              ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -475,7 +502,10 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>升級到鷹勇士為200食物/200黃金。</li>
+            <li>
+              升級到鷹勇士為200<nuxt-link to="/resource/Food">食物</nuxt-link
+              >/200<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
+            </li>
             <li>速度由1.1升級到1.2。</li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:<nuxt-link
@@ -499,7 +529,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>鷹勇士是最貴的黃金步兵單位，但也是最便宜的食物步兵單位。</li>
+            <li>
+              鷹勇士是最貴的黃金<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >，但也是最便宜的食物步兵單位。
+            </li>
           </ul>
         </div>
       </div>
@@ -585,7 +619,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -608,15 +644,17 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -671,13 +709,25 @@
           <gallery
             ><img class="imgn hg" src="~assets/Eaglescout.png" alt=""
           /></gallery>
-          <p><em>一群精銳鷹勇士(《世紀帝國II:征服者入侵》資料片)</em></p>
+          <p>
+            <em
+              >一群精銳鷹勇士(<nuxt-link to="/games/aoc"
+                >《世紀帝國II:征服者入侵》</nuxt-link
+              >資料片)</em
+            >
+          </p>
         </div>
         <div class="col-md-4">
           <gallery
             ><img class="imgn hg" src="~assets/Eaglewarrior.png" alt=""
           /></gallery>
-          <p><em>一群精銳鷹勇士(《世紀帝國II:失落的帝國》資料片)</em></p>
+          <p>
+            <em
+              >一群精銳鷹勇士(《世紀帝國II:<nuxt-link to="/games/aof"
+                >失落的帝國</nuxt-link
+              >》資料片)</em
+            >
+          </p>
         </div>
       </div>
     </div>

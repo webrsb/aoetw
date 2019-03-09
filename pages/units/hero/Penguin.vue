@@ -8,8 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            該企鵝是一種作弊單位在帝國時代IIHD中。然而，它並沒有出現在帝國時代II：被遺忘的帝國
-            模組中。這是一個裝甲和傷害輸出相當高的步兵單位。它只出現在場景編輯器中。
+            該<b>企鵝</b>是一種作弊單位在帝國時代IIHD中。然而，它並沒有出現在帝國時代II：被遺忘的帝國
+            模組中。這是一個裝甲和傷害輸出相當高的<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >。它只出現在場景編輯器中。
           </p>
           <p>企鵝與人類單位的游戲邏輯和機制是相同的。</p>
         </div>
@@ -17,7 +20,9 @@
           <h2>冷知識</h2>
           <p>
             並看不出這是個什麽種的企鵝，然而當你輸入“I don't
-            exist."時就會出現在你的城鎮中心下任你指揮。
+            exist."時就會出現在你的<nuxt-link to="/building/Town_Center"
+              >城鎮中心</nuxt-link
+            >下任你指揮。
           </p>
         </div>
       </div>
@@ -44,7 +49,9 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵<br /></td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
@@ -56,7 +63,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">64</td>
           </tr>
           <tr>
@@ -65,22 +74,25 @@
           </tr>
           <tr>
             <td class="unit3">攻擊獎勵</td>
-            <td class="unit4">攻擊建築物（包括防禦性建築）時攻擊+8</td>
+            <td class="unit4">
+              攻擊<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >（包括防禦性建築）時攻擊+8
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻速</td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -88,7 +100,7 @@
             <td class="unit4">0.92</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

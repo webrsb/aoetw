@@ -9,12 +9,16 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>舊世界</b
-            >為非洲王國戰役中《法蘭西斯科·阿爾梅達》劇情戰役中的第一關（另譯前朝舊夢）。
+            <b>舊世界</b>為<nuxt-link to="/games/ak">非洲王國戰役</nuxt-link
+            >中《<nuxt-link to="/batt/Francisco_de_Almeidaa"
+              >法蘭西斯科·阿爾梅達</nuxt-link
+            >》劇情<nuxt-link to="/batt">戰役</nuxt-link
+            >中的第一關（另譯前朝舊夢）。
           </p>
           <p>卡西提爾的亨利四世去世後，他的女兒胡安娜繼承了王位。</p>
           <p>
-            胡安娜女王與葡萄牙的阿方索五世結婚，試圖團結卡西提爾和葡萄牙王國。
+            胡安娜女王與<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+            >的阿方索五世結婚，試圖團結卡西提爾和葡萄牙王國。
           </p>
           <p>
             然而，女王胡安娜的姨媽，伊莎貝拉為自己爭奪卡西提爾的王座，
@@ -29,9 +33,19 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">城堡時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">0木頭，0食物，0黃金，0石頭</td>
+              <td class="tc2">
+                0<nuxt-link to="/resource/Wood">木頭</nuxt-link>，0<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
+                  to="/resource/Stone"
+                  >石頭</nuxt-link
+                >
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">14/0</td>
             </tr>
@@ -60,12 +74,17 @@
                 <div class="p2"></div>
                 玩家2：
               </td>
-              <td class="tc6" width="35%">阿方索國王大軍（紅色）葡萄牙</td>
+              <td class="tc6" width="35%">
+                <nuxt-link to="/units/hero/King_Alfonso">阿方索國王</nuxt-link
+                >大軍（紅色）葡萄牙
+              </td>
               <td class="tc6">
                 <div class="p3"></div>
                 玩家3：
               </td>
-              <td class="tc6">托洛城（綠色）西班牙</td>
+              <td class="tc6">
+                托洛城（綠色）<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc6" width="15%">
@@ -105,7 +124,11 @@
 
           <br />
           <h3>開場：</h3>
-          <p>胡安王子、輕騎兵*1、火槍兵*3、長槍兵*5、弩手*4</p>
+          <p>
+            胡安王子、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >*1、<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+            >*3、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>*5、弩手*4
+          </p>
           <h3>大地之母單位：</h3>
           <p>無</p>
           <br />
@@ -114,12 +137,20 @@
           <div class="n1">
             <p>
               －保衛托洛城。<br />
-              －摧毀阿拉貢（黃）的三個軍營。
+              －摧毀阿拉貢（黃）的三個<nuxt-link to="/building/Barracks"
+                >軍營</nuxt-link
+              >。
             </p>
             <p>從以下任務中選擇一項：</p>
             <ul>
-              <li>摧毀伊莎貝拉勢力的軍事建築。</li>
-              <li>摧毀伊莎貝拉勢力的磨坊。</li>
+              <li>
+                摧毀伊莎貝拉勢力的軍事<nuxt-link to="/building">建築</nuxt-link
+                >。
+              </li>
+              <li>
+                摧毀伊莎貝拉勢力的<nuxt-link to="/building/Mill">磨坊</nuxt-link
+                >。
+              </li>
             </ul>
             <br />
             <h2>次要任務</h2>
@@ -158,13 +189,28 @@
                   法蘭西斯科‧德‧阿爾梅達控制著托洛（綠）的儲備物資，托洛是在杜羅河邊的城市。
                 </li>
                 <li>
-                  阿方索國王的軍隊（紅）被阿拉貢（黃）打敗後又上路了，殘餘力量潛伏在戰場的邊緣，只有胡安王子的出現才能重振士氣。軍隊由輕騎兵、長槍兵、弩兵和戟兵組成。
+                  阿方索國王的軍隊（紅）被阿拉貢（黃）打敗後又上路了，殘餘力量潛伏在戰場的邊緣，只有胡安王子的出現才能重振士氣。軍隊由輕騎兵、長槍兵、<nuxt-link
+                    to="/units/Crossbowman"
+                    >弩兵</nuxt-link
+                  >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>組成。
                 </li>
                 <li>
-                  阿拉貢（黃）有三個軍營控制這片區域。傳統軍隊包括騎兵、劍兵和弓箭手。阿拉貢（黃）虜獲了一支新的葡萄牙風琴砲。此外，阿爾巴公爵和門多薩紅衣主教會指揮軍隊於地圖中巡邏。
+                  阿拉貢（黃）有三個軍營控制這片區域。傳統軍隊包括<nuxt-link
+                    to="/units/Cavalry_Units"
+                    >騎兵</nuxt-link
+                  >、劍兵和<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+                  >。阿拉貢（黃）虜獲了一支新的葡萄牙<nuxt-link
+                    to="/units/Organ_Gun"
+                    >風琴砲</nuxt-link
+                  >。此外，阿爾巴公爵和門多薩紅衣主教會指揮軍隊於地圖中巡邏。
                 </li>
                 <li>
-                  薩莫拉城在托洛城的西邊，橫跨杜羅河。此城由與我們友好的胡安勢力（紫）和與我們敵對的伊莎貝拉勢力（灰）分而治之。前者控制著北岸和老羅馬教堂，後者控制著聖塔瑪爾塔的佩尼亞斯，一個佈滿岩石的能俯瞰河面的橋的空地。雙方都有軍隊：長槍兵、僱傭兵、弩兵、攻城武器和少數輕騎兵。
+                  薩莫拉城在托洛城的西邊，橫跨杜羅河。此城由與我們友好的胡安勢力（紫）和與我們敵對的伊莎貝拉勢力（灰）分而治之。前者控制著北岸和老羅馬教堂，後者控制著聖塔瑪爾塔的佩尼亞斯，一個佈滿岩石的能俯瞰河面的橋的空地。雙方都有軍隊：長槍兵、<nuxt-link
+                    to="/units/Condottiero"
+                    >僱傭兵</nuxt-link
+                  >、弩兵、<nuxt-link to="/units/Siege_Weapons"
+                    >攻城武器</nuxt-link
+                  >和少數輕騎兵。
                 </li>
               </ul>
             </div>
@@ -175,16 +221,27 @@
           <div class="n1">
             <ol>
               <li>
-                關卡開始後，阿拉貢大軍（黃）會派重裝騎士4名、遊俠1名、長劍士4名往玩家進攻。一開始兵力不足，建議先讓胡安王子吸引部份敵軍，打散黃色兵力後再反擊。
+                關卡開始後，阿拉貢大軍（黃）會派重裝<nuxt-link
+                  to="/units/Knight"
+                  >騎士</nuxt-link
+                >4名、<nuxt-link to="/units/Paladin">遊俠</nuxt-link
+                >1名、長劍士4名往玩家進攻。一開始兵力不足，建議先讓胡安王子吸引部份敵軍，打散黃色兵力後再反擊。
               </li>
               <li>
                 黃色這波攻勢清掉後，胡安王子可以開始觸發地圖上的阿方索國王軍隊（紅），只要經過即轉為我方單位。
               </li>
               <li>
-                還沒找到僧侶單位時，可將傷兵退回托洛城（綠），尋求綠色僧侶回血幫助。
+                還沒找到<nuxt-link to="/units/Monk">僧侶</nuxt-link
+                >單位時，可將傷兵退回托洛城（綠），尋求綠色僧侶<nuxt-link
+                  to="/Regeneration"
+                  >回血</nuxt-link
+                >幫助。
               </li>
               <li>
-                阿拉貢（黃）不定時往托洛城（綠）進攻，若內部的城鎮中心（藍）被破壞，遊戲將以失敗告終。
+                阿拉貢（黃）不定時往托洛城（綠）進攻，若內部的<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
+                >（藍）被破壞，遊戲將以失敗告終。
               </li>
               <li>
                 胡安王子是很好的坦克，雖然任務並無要求該角色不能死亡，但他是觸發阿方索國王軍隊（紅）轉為我方單位的必要人物，如不小心掛了就重來吧！
@@ -196,22 +253,42 @@
                 阿爾巴公爵會在地圖巡邏的黃色單位之中、門多薩紅衣主教會在其中一個黃色軍營裡，殺死他們各可以取得500金。
               </li>
               <li>
-                托洛城（綠）北方的阿方索國王軍隊（紅）有一輛中型衝車，建議攻打阿拉貢（黃）軍營前取得。
+                托洛城（綠）北方的阿方索國王軍隊（紅）有一輛中型<nuxt-link
+                  to="/units/Battering_Ram"
+                  >衝車</nuxt-link
+                >，建議攻打阿拉貢（黃）軍營前取得。
               </li>
               <li>
-                阿拉貢（黃）軍營有不少兵力、箭塔、攻城武器單位。由胡安王子作先鋒，優先打掉攻城武器並吸引敵軍，清除後再派衝車去撞箭塔和軍事建築（軍事建築也要打掉不然會一直生兵）。
+                阿拉貢（黃）軍營有不少兵力、<nuxt-link
+                  to="/building/Watch_Tower"
+                  >箭塔</nuxt-link
+                >、<nuxt-link to="/units/Siege_Weapons">攻城武器單位</nuxt-link
+                >。由胡安王子作先鋒，優先打掉攻城武器並吸引敵軍，清除後再派衝車去撞箭塔和軍事建築（軍事建築也要打掉不然會一直生兵）。
               </li>
               <li>
-                摧毀阿拉貢（黃）三個軍營後，伊莎貝拉勢力（灰）會由同盟轉為敵對，通往胡安勢力的斷橋會修復可通行，其建築物和城內兵力轉為我方所有。
+                摧毀阿拉貢（黃）三個軍營後，伊莎貝拉勢力（灰）會由同盟轉為敵對，通往胡安勢力的斷橋會修復可通行，其<nuxt-link
+                  to="/building"
+                  >建築物</nuxt-link
+                >和城內兵力轉為我方所有。
               </li>
               <li>
-                同時，托洛城（綠）的我方城鎮中心會出現多位閒置村民，可開始採集資源或種田（托洛城左方有伐木場、左上方有金礦）。
+                同時，托洛城（綠）的我方城鎮中心會出現多位閒置<nuxt-link
+                  to="/units/Villager"
+                  >村民</nuxt-link
+                >，可開始採集資源或種田（托洛城左方有<nuxt-link
+                  to="/building/Lumber_Camp"
+                  >伐木場</nuxt-link
+                >、左上方有金礦）。
               </li>
               <li>
-                通往伊莎貝拉勢力（灰）佔領的薩莫拉城有一座橋，不想一直被灰色派兵騷擾的話，建議趁空檔派村民蓋城門、石牆堵起來。
+                通往伊莎貝拉勢力（灰）佔領的薩莫拉城有一座橋，不想一直被灰色派兵騷擾的話，建議趁空檔派村民蓋<nuxt-link
+                  to="/building/Gate"
+                  >城門</nuxt-link
+                >、<nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>堵起來。
               </li>
               <li>
-                橋下方有座城堡會造成玩家不易通行，用從紅色取得的三台中型衝車（托洛城北方1台、胡安勢力城內2台）直接衝城堡，搭配原有兵力+後期生產作掩護，即可順利擊敗灰色。
+                橋下方有座<nuxt-link to="/building/Castle">城堡</nuxt-link
+                >會造成玩家不易通行，用從紅色取得的三台中型衝車（托洛城北方1台、胡安勢力城內2台）直接衝城堡，搭配原有兵力+後期生產作掩護，即可順利擊敗灰色。
               </li>
             </ol>
           </div>
@@ -307,10 +384,14 @@
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4">法蘭西斯科·阿爾梅達</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Francisco_de_Almeidaa"
+                >法蘭西斯科·阿爾梅達</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
             </td>
@@ -322,7 +403,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">非洲王國第三章之一</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>第三章之一
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

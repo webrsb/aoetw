@@ -8,7 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            用於建造和研發船隻，並且藉由漁船在海上取得食物，並與其他文明的碼頭進行交易。
+            用於建造和研發<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+            >，並且藉由<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+            >在海上取得<nuxt-link to="/resource/Food">食物</nuxt-link
+            >，並與其他<nuxt-link to="/civs">文明</nuxt-link>的<nuxt-link
+              to="/building/Dock"
+              >碼頭</nuxt-link
+            >進行交易。
           </p>
         </div>
         <h3>戰術</h3>
@@ -20,33 +26,49 @@
                 to="/units/Fishing_Ship"
                 >漁船</nuxt-link
               >、<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link
-              >的基地。依據地圖的種類來建築、發展。
+              >的基地。依據地圖的種類來<nuxt-link to="/building">建築</nuxt-link
+              >、發展。
             </li>
             <li>
-              當像是在群島的地圖中，碼頭就是一定要的，因為大部分的交戰都是在海上發生。建議在黑暗時代至少建造一個（最好是兩個）碼頭，以便通過生產漁船來提高經濟效益。
+              當像是在<nuxt-link to="/maps/Archipelago">群島</nuxt-link
+              >的地圖中，碼頭就是一定要的，因為大部分的交戰都是在海上發生。建議在<nuxt-link
+                to="/techs/age/Dark_Age"
+                >黑暗時代</nuxt-link
+              >至少建造一個（最好是兩個）碼頭，以便通過生產漁船來提高經濟效益。
             </li>
             <li>
               在<nuxt-link to="/maps/Coastal">沿海</nuxt-link>、<nuxt-link
                 to="/maps/Baltic"
                 >波羅的海</nuxt-link
               >、<nuxt-link to="/maps/Continental">大陸</nuxt-link
-              >那類型的地圖上，雖然有一部分的水體，但是文明之間並沒有被水體隔開，在許多的情況下碼頭的影響力有限，但還是對經濟有一定的幫助，但海軍就只能用來支援陸上部隊、清除敵方沿海建築物，對遊戲勝敗影響較小。
+              >那類型的地圖上，雖然有一部分的水體，但是文明之間並沒有被水體隔開，在許多的情況下碼頭的影響力有限，但還是對經濟有一定的幫助，但<nuxt-link
+                to="/units/Naval_Vessels"
+                >海軍</nuxt-link
+              >就只能用來支援陸上部隊、清除敵方沿海建築物，對遊戲勝敗影響較小。
             </li>
             <li>
               在<nuxt-link to="/maps/Rivers">河流</nuxt-link>、<nuxt-link
                 to="/maps/Highland"
                 >高地</nuxt-link
-              >或其他以河流或湖泊為特徵的地圖，碼頭可以成為防禦性結構的一部分，因為河流和湖泊能提供地面部隊防護。在這種狀況下，使用海俊部隊能夠更有效的讓防禦性建築靠近水邊，在這種地圖上的淺灘是陸地部隊可以穿過河流的唯一窄點。
+              >或其他以<nuxt-link to="/maps/Rivers">河流</nuxt-link
+              >或湖泊為特徵的地圖，碼頭可以成為防禦性結構的一部分，因為河流和湖泊能提供地面部隊防護。在這種狀況下，使用海俊部隊能夠更有效的讓防禦性建築靠近水邊，在這種地圖上的淺灘是陸地部隊可以穿過河流的唯一窄點。
             </li>
             <li>
-              通常在碼頭附近蓋暸望箭塔和城堡是很有幫助的，因為這些建築能有效的保護碼頭避免敵船的攻擊，還可以將碼頭放在海灣中，因為這會使敵方海軍難以攻擊碼頭。也可以為碼頭提供很好的保護。
+              通常在碼頭附近蓋<nuxt-link to="/building/Watch_Tower"
+                >暸望箭塔</nuxt-link
+              >和<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >是很有幫助的，因為這些建築能有效的保護碼頭避免敵船的攻擊，還可以將碼頭放在海灣中，因為這會使敵方海軍難以攻擊碼頭。也可以為碼頭提供很好的保護。
             </li>
           </ul>
           <h3>交易</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              貿易商旅被用來在兩個文明（同盟、中立、敵人都可以）碼頭之之間交易產生黃金，在兩個碼頭中間形成貿易路線。空的<nuxt-link
+              <nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link
+              >被用來在兩個文明（同盟、中立、敵人都可以）碼頭之之間交易產生<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >，在兩個碼頭中間形成貿易路線。空的<nuxt-link
                 to="/units/Trade_Cog"
                 >貿易商旅</nuxt-link
               >移動到另一個文明的碼頭，並帶著黃金返航。在群島地圖上的團隊遊戲，貿易商旅的路線就非常重要。
@@ -267,7 +289,9 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1" style="width:20%">生命值</td>
+              <td class="tta1" style="width:20%">
+                <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+              </td>
               <td class="tta4">
                 <img
                   class="gg"
@@ -304,7 +328,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">視野</td>
+              <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
               <td class="tta4">
                 <img
                   class="gg"
@@ -322,7 +346,9 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">招降抵抗</td>
+              <td class="tta1">
+                <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+              </td>
               <td class="tta4">
                 <img
                   class="gg"
@@ -359,7 +385,8 @@
                   width="30"
                   alt=""
                 /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
-                >:船隻木頭花費-20%，單位生產速度+35%
+                >:船隻<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >花費-20%，單位生產速度+35%
               </td>
             </tr>
             <tr>
@@ -384,12 +411,20 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-                >：在黑暗/封建/城堡/帝王時代，碼頭擁有 +10%/+20%/+30%/+40%
-                HP。<nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費
+                >：在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+                >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+                >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+                >，碼頭擁有 +10%/+20%/+30%/+40% HP。<nuxt-link
+                  to="/techs/Town_Watch"
+                  >城鎮瞭望</nuxt-link
+                >免費
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link
-                >：對碼頭有益的技術在封建/城堡/帝王時代 便宜 10%/15%/20%。
+                >：對碼頭有益的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >/帝王時代 便宜 10%/15%/20%。
               </li>
               <li>
                 <nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -401,11 +436,14 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
-                >：碼頭有兩倍的HP，在封建/城堡/帝王時代，訓練速度提高
-                10%/15%/20%。研發
+                >：碼頭有兩倍的HP，在封建/<nuxt-link to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >/帝王時代，訓練速度提高 10%/15%/20%。研發
                 <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link
                 >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
-                >速度在封建/城堡/帝王時代提高10%/15%/20%。
+                >速度在封建/<nuxt-link to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >/帝王時代提高10%/15%/20%。
               </li>
               <li>
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -542,7 +580,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
@@ -555,7 +595,9 @@
             <td class="unit4">3x3</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">所有時代:1800</td>
           </tr>
           <tr>
@@ -563,7 +605,7 @@
             <td class="unit4">10</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -592,7 +634,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -663,7 +705,14 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有封建時代的碼頭(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+                  >的碼頭(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -689,7 +738,12 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:185px">
-              <p><em>所有城堡時代的碼頭(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                  >的碼頭(帝王世紀和征服者入侵資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">

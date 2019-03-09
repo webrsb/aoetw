@@ -8,10 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            採礦營地的最佳建築地點是在石礦或金礦周遭，這樣村民就可以以最佳的效率將資源收集到營地，如果有三名以上的村民在收集資源，那會建議離資源區一格距離。
+            <b>採礦營地</b>的最佳<nuxt-link to="/building">建築</nuxt-link
+            >地點是在<nuxt-link to="/resource/Stone">石礦</nuxt-link
+            >或金礦周遭，這樣<nuxt-link to="/units/Villager">村民</nuxt-link
+            >就可以以最佳的效率將資源收集到營地，如果有三名以上的村民在收集資源，那會建議離資源區一格距離。
           </p>
           <p>
-            在黑暗時代就可以建造採礦營地，但除非有特別的戰術，ex:黑快、裝甲塔、僧侶海、塔攻..之類，否則不建議在黑暗時代建造採礦營地，雖然採礦營地也是封建時代的建築之一同時也只需要100木；但比起
+            在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+            >就可以建造採礦營地，但除非有特別的戰術，ex:黑快、<nuxt-link
+              to="/ar/armstower"
+              >裝甲塔</nuxt-link
+            >、<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >海、塔攻..之類，否則不建議在黑暗時代建造採礦營地，雖然採礦營地也是<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >的建築之一同時也只需要100木；但比起
             <nuxt-link to="/building/Mill">磨坊</nuxt-link>和<nuxt-link
               to="/building/Lumber_Camp"
               >伐木場</nuxt-link
@@ -95,7 +106,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -131,7 +144,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -149,7 +162,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">招降抵抗</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -185,12 +200,19 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：採礦營地在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。
-              <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費
+              >：採礦營地在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >多10%/20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。 <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對採礦營地有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：對採礦營地有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -240,7 +262,11 @@
           </h3>
           <ul>
             <li>
-              採礦營地的HP在黑暗/封建/城堡/帝王的HP分別為600/800/1000/1000。
+              採礦營地的HP在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >的HP分別為600/800/1000/1000。
             </li>
           </ul>
         </div>
@@ -278,7 +304,7 @@
             <td class="unit4">經濟</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -339,7 +365,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -368,7 +394,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -427,7 +453,14 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有文明的採礦營地(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有文明的採礦營地(<nuxt-link to="/games/aok"
+                    >帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -452,7 +485,10 @@
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p>
-                <em>各文明(依大陸分)的採礦營地和在一般地圖/下雪地圖的樣子。</em>
+                <em
+                  >各文明(依<nuxt-link to="/maps/Continental">大陸</nuxt-link
+                  >分)的採礦營地和在一般地圖/下雪地圖的樣子。</em
+                >
               </p>
             </div>
           </div>

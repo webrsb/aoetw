@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於城堡的裝甲。而關於城堡請參見<nuxt-link
+            >這篇文章是將有關於<strong>城堡</strong>的裝甲。而關於城堡請參見<nuxt-link
               to="/building/Castle"
               >城堡</nuxt-link
             ></em
@@ -18,7 +18,11 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            城堡裝甲是一個防禦裝甲類別，所有在這個系列的建築都會被對該裝甲的有攻擊加成的兵種或科技有額外的傷害。
+            <b>城堡裝甲</b>是一個<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            >類別，所有在這個系列的<nuxt-link to="/building">建築</nuxt-link
+            >都會被對該裝甲的有攻擊加成的兵種或<nuxt-link to="/techs"
+              >科技</nuxt-link
+            >有額外的傷害。
           </p>
         </div>
         <h3>城堡</h3>

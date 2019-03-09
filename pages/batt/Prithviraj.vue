@@ -16,11 +16,12 @@
               他是否有能力抵擋西邊穆斯林人的全面入侵呢？</em
             >
             <p style="text-align: right;margin-top: 10px;">
-              -遊戲中對於布里斯比羅吉戰役的介紹
+              -遊戲中對於布里斯比羅吉<nuxt-link to="/batt">戰役</nuxt-link
+              >的介紹
             </p>
           </div>
 
-          <p>布里斯比羅吉(約在 西元(CE)1178-1192 統治)</p>
+          <p><b>布里斯比羅吉</b>(約在 西元(CE)1178-1192 統治)</p>
 
           <p>
             在民間傳說以布里斯比羅吉。兆汗或萊伊。皮脫拉兩個名字著名。
@@ -31,12 +32,18 @@
           <p>
             他統治著現今印度拉賈斯坦邦、哈里亞納邦、德里等大部領地，
             與中央邦、北方邦的些部分領土。其首府實際在阿賈亞梅露(今日的阿傑梅爾)，但在
-            傳統民間傳說中仍將他描述成現今印度政治中心－德里城的城主，藉以將他描繪成前伊斯蘭時代之前的印度人象徵。
+            傳統民間傳說中仍將他描述成現今印度政治中心－德里城的城主，藉以將他描繪成前伊斯蘭時代之前的<nuxt-link
+              to="/civs/Indians"
+              >印度人</nuxt-link
+            >象徵。
           </p>
 
           <p>
             在他早年生涯，布里斯比羅吉對國境周圍的印度教王國用兵成功，其中最有名的是其對抗昌德拉王普拉瑪諦之事。
-            他同時也擊退了穆斯林王朝古爾王朝穆罕默德。古爾的早期侵略。然而，在西元1192年，古爾王朝在第二次塔蘭村之戰打敗了布里斯比羅吉。
+            他同時也擊退了穆斯林王朝古爾王朝穆罕默德。古爾的早期侵略。然而，在西元1192年，古爾王朝在第二次<nuxt-link
+              to="/batt/Battles_of_Tarain"
+              >塔蘭村之戰</nuxt-link
+            >打敗了布里斯比羅吉。
             他的敗北被視為伊斯蘭世界入侵印度的指標事件，也在幾個半傳說的記載中被大書特書了一番。
             當中最有名的一個故事，是金德。伯勒達伊的《帝王頌》（《布里斯比羅吉頌》，個人翻譯），
             其將他描寫成一名＂拉傑普特人＂（印度的尚武種族），儘管拉傑普特人的稱呼在他在世之期並不存在。
@@ -103,7 +110,10 @@
         <div class="n1">
           <p>
             <nuxt-link to="/hero/Prithviraj">布里斯比羅吉</nuxt-link
-            >在遊戲中為弩兵(第1關)，長劍兵(第3關)，馬弓騎兵(第2，4關)的型態。
+            >在遊戲中為<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >(第1關)，<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+            >(第3關)，<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            >(第2，4關)的型態。
           </p>
         </div>
 
@@ -148,7 +158,8 @@
             <p>布里斯比羅吉戰役的其他資訊</p>
             <ul>
               <li>
-                此戰役章節為失落帝國團隊於2014年4月25日於3.5補丁新增的劇情戰役。
+                此戰役章節為<nuxt-link to="/games/aof">失落帝國</nuxt-link
+                >團隊於2014年4月25日於3.5補丁新增的劇情戰役。
               </li>
               <li>此頁面史料來源:維基百科英文版</li>
             </ul>
@@ -177,14 +188,18 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">印度</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Indians">印度</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">英雄</td>
+            <td class="unit3"><nuxt-link to="/units/hero">英雄</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/hero/Prithviraj">布里斯比羅吉</nuxt-link>
             </td>

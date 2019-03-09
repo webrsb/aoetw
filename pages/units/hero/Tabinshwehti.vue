@@ -7,11 +7,21 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p>德彬瑞蒂外觀是象弓騎兵。</p>
           <p>
-            德彬瑞蒂(Tabinshwehti，1516年－1550年)，中國史料稱之為莽瑞體，緬甸東籲王朝君主（1530年11月24日
-            -
-            1550年4月30日），明吉瑜的繼承者。在他與勃印曩的任內再次統一了緬甸。1550年，在外出狩獵時被孟族衛士所殺。
+            <b>德彬瑞蒂</b>外觀是<nuxt-link to="/units/Elephant_Archer"
+              >象弓騎兵</nuxt-link
+            >。
+          </p>
+          <p>
+            德彬瑞蒂(Tabinshwehti，1516年－1550年)，<nuxt-link
+              to="/civs/Chinese"
+              >中國</nuxt-link
+            >史料稱之為莽瑞體，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+            >東籲王朝君主（1530年11月24日 -
+            1550年4月30日），明吉瑜的繼承者。在他與<nuxt-link
+              to="/units/hero/Bayinnaung"
+              >勃印曩</nuxt-link
+            >的任內再次統一了緬甸。1550年，在外出狩獵時被孟族衛士所殺。
           </p>
         </div>
       </div>
@@ -39,12 +49,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />弓箭手<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -52,23 +65,37 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">450</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">15(遠程)</td>
+            <td class="unit4">
+              15(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對標準建築+4 <br />對石頭建築+4</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_standard_building"
+                >標準建築</nuxt-link
+              >+4 <br />對<nuxt-link to="/armor/Armor_Class_stone_defense"
+                >石頭建築</nuxt-link
+              >+4
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.5</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -86,18 +113,28 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
-              弓箭手(-2) <br />騎兵 <br />戰象 <br />馬弓騎兵 <br />特殊單位
+              <nuxt-link to="/armor/Armor_Class_Archer">弓箭手</nuxt-link
+              >(-2)<br /><nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_War_Elephant"
+                >戰象</nuxt-link
+              >
+              <br /><nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
             </td>
           </tr>
           <tr>
@@ -105,7 +142,7 @@
             <td class="unit4">0.8</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
         </table>

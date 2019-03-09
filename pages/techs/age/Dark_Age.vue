@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            黑暗時代是遊戲內第一個時代，在大多數地圖開始時玩家都有三個<nuxt-link
+            <b>黑暗時代</b
+            >是遊戲內第一個時代，在大多數地圖開始時玩家都有三個<nuxt-link
               to="/units/Villager"
               >村民</nuxt-link
             >(<nuxt-link to="/civs/Chinese">中國</nuxt-link>是六個、
@@ -21,18 +22,23 @@
               >馬雅</nuxt-link
             >和<nuxt-link to="/civs/Incas">印加</nuxt-link
             >因為沒有騎馬單位所以會以
-            <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>替代斥候騎兵。
+            <nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link>替代<nuxt-link
+              to="/units/Scout_Cavalry"
+              >斥候騎兵</nuxt-link
+            >。
           </p>
           <p>
-            斥候騎兵/鷹斥候在到達<nuxt-link to="/techs/age/Feudal_Age"
-              >封建時代</nuxt-link
-            >前都無法訓練。如果最初的城鎮中心被摧毀了，可以重蓋一個新的。
+            斥候騎兵/<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
+            >在到達<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >前都無法訓練。如果最初的<nuxt-link to="/building/Town_Center"
+              >城鎮中心</nuxt-link
+            >被摧毀了，可以重蓋一個新的。
           </p>
         </div>
         <h3>可建造建築</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <strong>民用建築</strong>
+          <strong>民用<nuxt-link to="/building">建築</nuxt-link></strong>
           <ul>
             <li>
               <img
@@ -48,8 +54,10 @@
                 src="~assets/Millicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Mill">磨坊</nuxt-link
-              >：讓村民收集食物的收集點
+              /><nuxt-link to="/building/Mill">磨坊</nuxt-link>：讓<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >收集<nuxt-link to="/resource/Food">食物</nuxt-link>的收集點
             </li>
             <li>
               <img
@@ -66,7 +74,8 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
-              >:讓村民收集木材的收集點
+              >:讓村民收集<nuxt-link to="/resource/Wood">木材</nuxt-link
+              >的收集點
             </li>
             <li>
               <img
@@ -83,9 +92,15 @@
                 src="~assets/Dockicon.png"
                 width="22"
                 alt=""
-              /><nuxt-link to="/building/Dock">碼頭</nuxt-link>:訓練和升級船隻
+              /><nuxt-link to="/building/Dock">碼頭</nuxt-link
+              >:訓練和升級<nuxt-link to="/units/Naval_Vessels$">船隻</nuxt-link>
             </li>
-            <em>碼頭演進到封建時代後就屬於軍事建築物。</em>
+            <em
+              ><nuxt-link to="/building/Dock">碼頭</nuxt-link>演進到<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >後就屬於軍事<nuxt-link to="/building">建築物</nuxt-link>。</em
+            >
           </ul>
           <strong>軍事建築</strong>
           <ul>
@@ -96,7 +111,9 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Barracks">軍營</nuxt-link
-              >:訓練和升級步兵單位
+              >:訓練和升級<nuxt-link to="/units/Infantry_Units$"
+                >步兵單位</nuxt-link
+              >
             </li>
           </ul>
           <strong>防禦建築</strong>
@@ -108,7 +125,8 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Outpost">哨站</nuxt-link
-              >:簡單的箭塔，提醒敵人來犯
+              >:簡單的<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >，提醒敵人來犯
             </li>
             <li>
               <img
@@ -126,7 +144,8 @@
                 width="22"
                 alt=""
               /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link
-              >：可與木牆蓋在一起，讓友方單位通過
+              >：可與<nuxt-link to="/building/Palisade_Wall">木牆</nuxt-link
+              >蓋在一起，讓友方單位通過
             </li>
           </ul>
         </div>
@@ -174,7 +193,7 @@
             </h4>
           </ul>
           <strong>軍事單位</strong>
-          <p>軍營</p>
+          <p><nuxt-link to="/building/Barracks">軍營</nuxt-link></p>
           <ul>
             <li>
               <img
@@ -197,7 +216,9 @@
                   width="22"
                   alt=""
                 /><nuxt-link to="/techs/Loom">織布技術</nuxt-link
-                >：增加村民生命值。
+                >：增加村民<nuxt-link to="/elements/Hit_points"
+                  >生命值</nuxt-link
+                >。
               </li>
             </ul>
             <h3>策略</h3>
@@ -205,10 +226,32 @@
             <div class="n1">
               <ul>
                 <li>
-                  黑暗時代在文明的技術和多樣性方面提供的很少。一般來說玩家應該追求經濟的快速發展，因為他們的選擇是非常有限的。主要收集的資源是木材（更多的房屋支持更多的村民和建築物進入封建時代）和食物（創造更多的村民和推進到封建時代）。黃金只有在玩家想要進行黑暗時代的快攻的時候才需要，而石頭則是用來塔攻的。大約十六到二十二名村民是大多數文明的良好開端。在資源上如何分配村民將完全取決於地圖的情況，所用的文明也將影響玩家選擇的策略，不過快速訓練和指派任務給村民永遠是第一優先。玩家應該在一開始建立農場並先打鹿和野豬，不僅收集食物速度更快也能節省木材。
+                  黑暗時代在<nuxt-link to="/civs">文明</nuxt-link
+                  >的技術和多樣性方面提供的很少。一般來說玩家應該追求經濟的快速發展，因為他們的選擇是非常有限的。主要收集的資源是木材（更多的<nuxt-link
+                    to="/building/House"
+                    >房屋</nuxt-link
+                  >支持更多的村民和建築物進入封建時代）和食物（創造更多的村民和推進到封建時代）。<nuxt-link
+                    to="/resource/Gold"
+                    >黃金</nuxt-link
+                  >只有在玩家想要進行黑暗時代的快攻的時候才需要，而<nuxt-link
+                    to="/resource/Stone"
+                    >石頭</nuxt-link
+                  >則是用來塔攻的。大約十六到二十二名村民是大多數文明的良好開端。在資源上如何分配村民將完全取決於地圖的情況，所用的文明也將影響玩家選擇的策略，不過快速訓練和指派任務給村民永遠是第一優先。玩家應該在一開始建立農場並先打鹿和<nuxt-link
+                    to="/units/animal/Wild_Boar"
+                    >野豬</nuxt-link
+                  >，不僅收集食物速度更快也能節省木材。
                 </li>
                 <li>
-                  如果地圖包括捕魚作為食物來源，建造一個碼頭和使用漁船是可行的，因為漁船比村民能更快地收集食物。而且，它讓村民能收集其他資源。此外，建議研發織布技術強化村民，避免村民意外死亡(被狼/豬咬死，被民兵/斥候騎兵砍死)。
+                  如果地圖包括捕魚作為食物來源，建造一個碼頭和使用<nuxt-link
+                    to="/units/Fishing_Ship"
+                    >漁船</nuxt-link
+                  >是可行的，因為漁船比村民能更快地收集食物。而且，它讓村民能收集其他資源。此外，建議研發<nuxt-link
+                    to="/techs/Loom"
+                    >織布技術</nuxt-link
+                  >強化村民，避免村民意外死亡(被狼/豬咬死，被<nuxt-link
+                    to="/units/Militia"
+                    >民兵</nuxt-link
+                  >/斥候騎兵砍死)。
                 </li>
                 <li>
                   儘管黑暗時代讓所有的玩家幾乎沒有軍事能力，但也可以用民兵和村民快攻敵方玩家。這樣的策略可能是有風險的，因為在遊戲中期投入軍隊的時間和資源可能最後有去無回。但是如果成功，它可以快速結束遊戲。偷豬是另一個很好的策略，讓斥候騎兵偷走一些野豬，並把它們帶回到玩家的營地。攻擊村民是另一個有用的戰術。

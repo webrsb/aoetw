@@ -8,13 +8,23 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            品種（亦稱血統）於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>品種</b>（亦稱<b>血統</b>）於<nuxt-link
+              to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Stable">馬廄</nuxt-link
-            >研發。研發後所有騎乘單位血量+20。
+            >研發。研發後所有騎乘單位<nuxt-link to="/elements/Hit_points"
+              >血量</nuxt-link
+            >+20。
           </p>
           <p>
-            品種是相當重要的騎兵科技，研發品種後的斥候騎兵，將對村民與弓兵更具殺傷力。
+            品種是相當重要的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link>，研發品種後的<nuxt-link
+              to="/units/Scout_Cavalry"
+              >斥候騎兵</nuxt-link
+            >，將對<nuxt-link to="/units/Villager">村民</nuxt-link>與<nuxt-link
+              to="/units/Archer_Units"
+              >弓兵</nuxt-link
+            >更具殺傷力。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -80,7 +90,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：科技在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜10%/15%/20%。
             </li>
           </ul>
         </div>
@@ -124,10 +137,14 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"中世紀的勇士們需要不同類型的馬匹進行長時間的移動，偵察，打獵，或讓士兵騎乘。馬匹配種使得不同馬匹的品種逐漸演變，以滿足各式各樣的需求。居住在大草原上的文明通常擅於馬匹配種，而在中東和亞洲，類似的方法用於繁殖賽跑用的駱駝，或培養耐力好的駱駝作為長途貿易旅行載運貨品及人員使用。"</em
+              >"中世紀的勇士們需要不同類型的馬匹進行長時間的移動，偵察，打獵，或讓士兵騎乘。馬匹配種使得不同馬匹的品種逐漸演變，以滿足各式各樣的需求。居住在大草原上的<nuxt-link
+                to="/civs"
+                >文明</nuxt-link
+              >通常擅於馬匹配種，而在中東和亞洲，類似的方法用於繁殖賽跑用的駱駝，或培養耐力好的駱駝作為長途貿易旅行載運貨品及人員使用。"</em
             >
             <p style="text-align: right;margin-top: 10px;">
-              -《世紀帝國II:征服者入侵》手稿。
+              -<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵》</nuxt-link
+              >手稿。
             </p>
           </div>
         </div>

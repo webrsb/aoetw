@@ -9,7 +9,16 @@
         <div class="n1">
           <p>
             <strong>阿方索國王</strong>是《世紀帝國 II HD:
-            征服者入侵》中的一名英雄，他同樣能在戰役編輯器中使用。在所有阿方索的戰役中他都必須存活。阿方索國王不能攻擊，但移動速度快而且有很大的視野範圍。由於他屬於英雄單位，因此不能被招降且會回血
+            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
+            >，他同樣能在<nuxt-link to="/batt">戰役</nuxt-link
+            >編輯器中使用。在所有阿方索的戰役中他都必須存活。阿方索國王不能攻擊，但移動速度快而且有很大的<nuxt-link
+              to="/los.php"
+              >視野</nuxt-link
+            >範圍。由於他屬於英雄單位，因此不能被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>
             。
           </p>
         </div>
@@ -20,10 +29,20 @@
         <div class="n1">
           <ul>
             <li>
-              阿方索國王第一次出現是在熙德戰役的"兄弟鬩牆"作為熙德的對手和萊昂的國王。在戰役中阿方索最後殺死了自己的兄弟桑喬國王並成為萊昂和卡斯蒂利亞的國王。
+              阿方索國王第一次出現是在<nuxt-link to="/batt/El_Cida"
+                >熙德戰役</nuxt-link
+              >的"兄弟鬩牆"作為<nuxt-link to="/units/hero/El_Cid"
+                >熙德</nuxt-link
+              >的對手和萊昂的國王。在戰役中阿方索最後殺死了自己的兄弟<nuxt-link
+                to="/units/hero/King_Sancho"
+                >桑喬國王</nuxt-link
+              >並成為萊昂和卡斯蒂利亞的國王。
             </li>
             <li>
-              在戰役"黑衛隊"熙德必須求助於阿方索國王的幫助避免他死於柏柏人的刀下。
+              在戰役"黑衛隊"熙德必須求助於阿方索國王的幫助避免他死於<nuxt-link
+                to="/civs/Berbers"
+                >柏柏人</nuxt-link
+              >的刀下。
             </li>
           </ul>
         </div>
@@ -57,7 +76,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -65,20 +86,22 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>

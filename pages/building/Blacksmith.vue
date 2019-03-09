@@ -8,21 +8,31 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
+            <b>兵工廠</b>
             是一個在世紀帝國II到達<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >後能建造的建築。兵工廠可研發科技強化軍事單位和部分防禦建築的攻擊和防禦。
+            >後能建造的<nuxt-link to="/building">建築</nuxt-link>。<nuxt-link
+              to="/building/Blacksmith"
+              >兵工廠</nuxt-link
+            >可研發<nuxt-link to="/techs">科技</nuxt-link
+            >強化軍事單位和部分防禦建築的攻擊和防禦。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            雖然做為無法開火和生產單位的建築，兵工廠在戰略考量上卻常常是優先的選擇，不只可研發進攻需要的科技，也是城堡時代建造攻城器製造所的先決建築物。
+            雖然做為無法開火和生產單位的建築，兵工廠在戰略考量上卻常常是優先的選擇，不只可研發進攻需要的科技，也是<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >建造<nuxt-link to="/units//building/Siege_Workshop"
+              >攻城器製造所</nuxt-link
+            >的先決<nuxt-link to="/building">建築物</nuxt-link>。
           </p>
           <p>
             升級兵工廠的科技在遊戲的任何階段都是至關重要的。一般來說，在發動攻擊前提高近戰部隊的裝甲效果會更有意義，這樣可以提高遠距離部隊的作戰能力，因為它們壽命更長，可以更容易地縮小差距。
-            對於遠程單位，反過來說，他們應該有最高的傷害輸出，以防止近戰單位到達他們。
+            對於<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+            >，反過來說，他們應該有最高的傷害輸出，以防止近戰單位到達他們。
           </p>
           <h3>可訓練的單位與技術</h3>
           <div class="hrn1"></div>
@@ -197,7 +207,9 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1" style="width:20%">生命值</td>
+              <td class="tta1" style="width:20%">
+                <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+              </td>
               <td class="tta4">
                 <img
                   class="gg"
@@ -234,7 +246,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">視野</td>
+              <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
               <td class="tta4">
                 <img
                   class="gg"
@@ -252,7 +264,9 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">招降抵抗</td>
+              <td class="tta1">
+                <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+              </td>
               <td class="tta4">
                 <img
                   class="gg"
@@ -294,14 +308,17 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-                >：在封建/城堡/帝王時代，兵工廠增加20%/30%40%的血量。<nuxt-link
-                  to="/techs/Town_Watch"
-                  >城鎮瞭望</nuxt-link
-                >免費。
+                >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+                >，兵工廠增加20%/30%40%的<nuxt-link to="/elements/Hit_points"
+                  >血量</nuxt-link
+                >。<nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費。
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link
-                >：兵工廠的技術在封建/城堡/帝王時代分別便宜10%/15%/20%
+                >：兵工廠的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >/帝王時代分別便宜10%/15%/20%
               </li>
               <li>
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link
@@ -312,7 +329,10 @@
                   to="/techs/Town_Watch"
                   >城鎮瞭望</nuxt-link
                 >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
-                >的速度在封建/城堡/帝王快10%/15%/20%。
+                >的速度在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+                >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+                >快10%/15%/20%。
               </li>
               <li>
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -353,15 +373,26 @@
               <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
             </h3>
             <ul>
-              <li>兵工廠在封建/城堡/帝王的HP分別是1800/2100/2100。</li>
+              <li>
+                兵工廠在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+                >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+                >的HP分別是1800/2100/2100。
+              </li>
             </ul>
           </div>
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              在羅馬淪陷之前，歐洲的蠻族部落就已經學會了鍛鐵技術，並被帶到了黑暗時代。
-              鑄鐵工作是在兵工廠那裡完成的，兵工廠的命名有部分是因為在那里工作的鑄鐵師傅和每天覆蓋著工人的黑煙。在兵工廠可以鍛造鐵鎚、工具，武器盾牌和盔甲。製造出色的武器和盔甲的能力是一個非常優秀而且珍貴技能。兵工廠師傅，武器商和武器製造商在之後新時代成為了新興的中產階級。
+              在羅馬淪陷之前，歐洲的蠻族部落就已經學會了鍛鐵技術，並被帶到了<nuxt-link
+                to="/techs/age/Dark_Age"
+                >黑暗時代</nuxt-link
+              >。
+              鑄鐵工作是在兵工廠那裡完成的，兵工廠的命名有部分是因為在那里工作的鑄鐵師傅和每天覆蓋著工人的黑煙。在兵工廠可以<nuxt-link
+                to="/techs/Forging"
+                >鍛造</nuxt-link
+              >鐵鎚、工具，武器盾牌和盔甲。製造出色的武器和盔甲的能力是一個非常優秀而且珍貴技能。兵工廠師傅，武器商和武器製造商在之後新時代成為了新興的中產階級。
             </p>
           </div>
           <h3>圖庫</h3>
@@ -379,7 +410,11 @@
                 <div class="lightbox-caption" style="width:185px">
                   <p>
                     <em
-                      >所有文明封建時代的兵工廠(帝王世紀和征服者入侵資料片)。</em
+                      >所有<nuxt-link to="/civs">文明</nuxt-link
+                      ><nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+                      >的兵工廠(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                      >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                      >資料片)。</em
                     >
                   </p>
                 </div>
@@ -513,7 +548,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -536,7 +571,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"

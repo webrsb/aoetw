@@ -8,8 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >要升級到帝王時期，花費1450食物和1000金，且需要耗時150秒才能研發完成，只有少數的幾個文明才擁有。
+            <b>重型投石車</b>要升級到帝王時期，花費1450<nuxt-link
+              to="/resource/Food"
+              >食物</nuxt-link
+            >和1000金，且需要耗時150秒才能研發完成，只有少數的幾個<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >才擁有。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -83,14 +88,21 @@
             >是一個非常難纏的軍事單位，面對大量的<nuxt-link
               to="/units/Siege_Onager"
               >重型投石車</nuxt-link
-            >，沒有大量的高機動性兼具高血量的軍事單位協助幾乎不太可能去拆除，當
+            >，沒有大量的高機動性兼具高<nuxt-link to="/elements/Hit_points"
+              >血量</nuxt-link
+            >的軍事單位協助幾乎不太可能去拆除，當
             <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >海起來，一般的軍事單位是無法靠近的。當然火砲絕對是投石車的天敵。
+            >海起來，一般的軍事單位是無法靠近的。當然<nuxt-link
+              to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
+            >絕對是<nuxt-link to="/units/Mangonel">投石車</nuxt-link>的天敵。
           </p>
           <p>
             在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >中期，<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >的殺傷力將會是所有弓兵系單位的惡夢，雖然
+            >的殺傷力將會是所有<nuxt-link to="/units/Archer_Units"
+              >弓兵系</nuxt-link
+            >單位的惡夢，雖然
             <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>與<nuxt-link
               to="/"
               >衝撞車</nuxt-link
@@ -108,7 +120,10 @@
               to="/units/Siege_Onager"
               >重型投石車</nuxt-link
             >與<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >對丟，運氣好可能會一臺換對方2~3臺，駐軍滿載的衝撞車也是一種破解的方法，若敵方已經將
+            >對丟，運氣好可能會一臺換對方2~3臺，<nuxt-link to="/Garrison"
+              >駐軍</nuxt-link
+            >滿載的<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+            >也是一種破解的方法，若敵方已經將
             <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
             >累積到一個數量時，拉長戰線，在適當的時間點給予致命的一擊才是求勝之道，千萬別硬碰硬去拆海量的<nuxt-link
               to="/units/Siege_Onager"
@@ -154,7 +169,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Furor_Celtica"
@@ -163,7 +180,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -181,8 +200,9 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Torsion_Engines"
                 >扭力彈射器</nuxt-link
-              >：攻城器製造所的單位傷害範圍增加。<nuxt-link
-                to="/civs/Ethiopians"
+              >：<nuxt-link to="/units//building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >的單位傷害範圍增加。<nuxt-link to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
               >限定
             </td>
@@ -195,7 +215,8 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。 <br />
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Shinkichon"
                 >神機箭</nuxt-link
@@ -223,7 +244,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -243,7 +266,9 @@
         <h3>剋重型投石車的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對重型投石車的額外傷害，按造傷殺力排列。
+          以下單位擁有對<nuxt-link to="/units/Siege_Onager"
+            >重型投石車</nuxt-link
+          >的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -419,7 +444,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：重型投石車攻擊速度快25%(科技樹寫20%是錯的!)
+              >：重型投石車<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快25%(<nuxt-link to="/tree/vie">科技樹</nuxt-link>寫20%是錯的!)
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -448,7 +475,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：重型投石車對僧侶的招降有較好的抗性。
+              >：重型投石車對<nuxt-link to="/elements/Conversion"
+                >僧侶的招降</nuxt-link
+              >有較好的抗性。
             </li>
           </ul>
           <h3>更新日誌</h3>
@@ -481,7 +510,7 @@
                 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:引進<nuxt-link
                   to="/techs/Drill"
                   >演習</nuxt-link
-                >科技。
+                ><nuxt-link to="/techs">科技</nuxt-link>。
               </li>
               <li>
                 <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
@@ -490,8 +519,10 @@
                 >：給予重型投石車+2的射程，到了1.0c版效果減少為1。
               </li>
               <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-                >的團隊加分讓重型投石車有+1射程。
+                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>的<nuxt-link
+                  to="/elements/Team_Bonus"
+                  >團隊加分</nuxt-link
+                >讓重型投石車有+1射程。
               </li>
             </ul>
             <h3>
@@ -521,13 +552,20 @@
           <div class="n1">
             <ul>
               <li>
-                在失落的帝國之前，投石車研發化學會變弱，投擲速度從3.5降低到2.9。
+                在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                >之前，投石車研發<nuxt-link to="/techs/Chemistry"
+                  >化學</nuxt-link
+                >會變弱，投擲速度從3.5降低到2.9。
               </li>
               <li>
-                研發到重型投石車有最貴的升級成本，總共要2250食物，與1500黃金。
+                研發到重型投石車有最貴的升級成本，總共要2250食物，與1500<nuxt-link
+                  to="/resource/Gold"
+                  >黃金</nuxt-link
+                >。
               </li>
               <li>
-                在非洲王國之前，重型投石車是最珍貴的單位，也就是說最少文明擁有這項科技，隨著非洲王國文明的擴充，<nuxt-link
+                在<nuxt-link to="/games/ak">非洲王國</nuxt-link
+                >之前，重型投石車是最珍貴的單位，也就是說最少文明擁有這項科技，隨著非洲王國文明的擴充，<nuxt-link
                   to="/units/Paladin"
                   >遊俠</nuxt-link
                 >成了最珍貴的單位，但重型投石車仍是第二稀少的單位，只有九個文明擁有。
@@ -563,8 +601,14 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              投石機或稱拋石機、「
-              回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的城牆、城內或者兵陣內而造成破壞。
+              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>或稱拋石機、「
+              回回炮」,砲或炮，是遠古時代與中古時代出現的<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >，可把石彈、巨石或爆裂物投到敵方的<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >、城內或者兵陣內而造成破壞。
             </p>
             <p>
               漢語的「砲」便是古漢語動詞「拋」的名詞形式，這種通過聲調改變詞性的手段被稱為四聲別義。「砲」原指投石機與其彈，唐後也指由投石機發射的燃燒物，宋後也指由投石機發射的縱火物與爆裂物，明後也指大型管身火器。宋代之前「砲」與「炮」不同義，「炮」只有「燒烤」的意思，宋代之後「炮」逐漸有「砲」的意思。就連「火砲」一詞最初也是指發射燃燒物或爆裂物投石機與其砲彈，明後才也指大型管身火器。
@@ -697,11 +741,11 @@
             <td class="unit4">3.5</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">8</td>
           </tr>
           <tr>
@@ -717,7 +761,7 @@
             <td class="unit4">0.6</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
           <tr>

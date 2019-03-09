@@ -8,11 +8,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            傾側維修術於<nuxt-link to="/techs/age/Castle_Age"
+            <b>傾側維修術</b>於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >研發。研發後船隻遠程護甲+1，運輸船運輸量+5(總共可載10個單位)。
-            <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>是更進一步的科技。
+            >研發。研發後<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+            ><nuxt-link to="/armor">遠程護甲</nuxt-link>+1，<nuxt-link
+              to="/units/Transport_Ship"
+              >運輸船</nuxt-link
+            >運輸量+5(總共可載10個單位)。
+            <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link
+            >是更進一步的<nuxt-link to="/techs">科技</nuxt-link>。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -21,7 +26,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：傾側維修術在城堡/帝王時代成本便宜15%/20%。
+              >：傾側維修術在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >成本便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -29,7 +37,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：傾側維修術在城堡/帝王時代研究速度快15%/20%。
+              >：傾側維修術在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代研究速度快15%/20%。
             </li>
           </ul>
         </div>
@@ -63,7 +73,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -104,11 +114,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>

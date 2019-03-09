@@ -9,20 +9,35 @@
         <div class="n1">
           <div class="spw">
             <em
-              >這篇文章是將有關威廉華勒斯這個的英雄單位。關於威廉華勒斯戰役請參見<nuxt-link
+              >這篇文章是將有關<b>威廉華勒斯</b>這個的英雄單位。關於威廉華勒斯戰役請參見<nuxt-link
                 to="/batt/William_Wallacea"
                 >威廉華勒斯戰役</nuxt-link
               ></em
             >
           </div>
           <p>
-            威廉華勒斯是一名在威廉華勒斯（戰役）最終關：福爾克之役登場的英雄單位。他的原型是在在十三、十四世紀的同名人物。威廉華勒斯帶領蘇格蘭軍隊反抗英格蘭的統治，企圖使蘇格蘭成為一個自由獨立的國家。
+            威廉華勒斯是一名在威廉華勒斯（<nuxt-link to="/batt">戰役</nuxt-link
+            >）最終關：<nuxt-link to="/batt/The_Battle_of_Falkirk"
+              >福爾克之役</nuxt-link
+            >登場的英雄單位。他的原型是在在十三、十四世紀的同名人物。威廉華勒斯帶領蘇格蘭軍隊反抗英格蘭的統治，企圖使蘇格蘭成為一個自由獨立的國家。
           </p>
           <p>
-            在遊戲中，威廉華勒斯以劍兵勇士的外表登場。作為一個英雄單位，他無法被招降且會自動回血。此外，他的跑速比一般的劍兵勇士略快(跑速為1，一般的劍兵勇士為0.9)。
+            在遊戲中，威廉華勒斯以<nuxt-link to="/units/Champion"
+              >劍兵勇士</nuxt-link
+            >的外表登場。作為一個英雄單位，他無法被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >。此外，他的跑速比一般的劍兵勇士略快(跑速為1，一般的劍兵勇士為0.9)。
           </p>
           <p>
-            威廉華勒斯曾是遊戲中最強的單位，可以在一對一中擊敗任何單位（註：這裡指的是站著不動對打，要不然隨便一隻馬弓騎兵都能贏他）。非洲王國資料片發行後，阿伯哈拉戰象取代了這個位子。
+            威廉華勒斯曾是遊戲中最強的單位，可以在一對一中擊敗任何單位（註：這裡指的是站著不動對打，要不然隨便一隻<nuxt-link
+              to="/units/Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >都能贏他）。<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >資料片發行後，<nuxt-link to="/units/hero/Abraha_Elephant"
+              >阿伯哈拉戰象</nuxt-link
+            >取代了這個位子。
           </p>
         </div>
       </div>
@@ -49,11 +64,15 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵 <br />英雄</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link> <br />英雄
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -61,7 +80,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
@@ -69,22 +90,24 @@
             <td class="unit4">20(近戰)</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -92,7 +115,7 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

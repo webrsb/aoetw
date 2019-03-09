@@ -8,9 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬弓騎兵訓練於城堡時代的<nuxt-link to="/building/Archery_Range"
-              >射箭場</nuxt-link
-            >，他有非常快的速度與遠程的攻擊，使他成為一名出色的騷擾者，是非常有效對付步兵單位的兵種。但因為他是騎馬的遠程單位，因此懼怕
+            <b>馬弓騎兵</b>訓練於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >的<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+            >，他有非常快的速度與<nuxt-link to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >的攻擊，使他成為一名出色的騷擾者，是非常有效對付<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >的兵種。但因為他是騎馬的<nuxt-link to="/units/Archer_Units"
+              >遠程單位</nuxt-link
+            >，因此懼怕
             <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >與<nuxt-link to="/units/Spearman">槍兵</nuxt-link>。而
             <nuxt-link to="/units/Camel_Archer">駱駝射手</nuxt-link
@@ -20,15 +28,20 @@
             除了<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >與<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
-            >外，所以文明都可以使用。
+            >與<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>外，所以<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >都可以使用。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            馬弓騎兵是遊戲中最好的騷擾者之一。但玩家必須做出適當操作，與敵人保持最佳距離。且馬弓騎兵並不便宜，如果要使用大量的馬弓，必須要有強大的經濟。馬弓對付大部分的步兵與慢速移動的單位非常有效果。
+            馬弓騎兵是遊戲中最好的騷擾者之一。但玩家必須做出適當操作，與敵人保持最佳距離。且馬弓騎兵並不便宜，如果要使用大量的馬弓，必須要有強大的經濟。馬弓對付大部分的<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >與慢速移動的單位非常有效果。
           </p>
           <p>
             <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、
@@ -37,12 +50,29 @@
             <nuxt-link to="/civs/Turks">土耳其</nuxt-link>與<nuxt-link
               to="/civs/Saracens"
               >薩拉森</nuxt-link
-            >是絕佳的使用馬弓騎兵的國家。雖然其他文明也可以使用，但都不如這些國家。蒙古有非常出色的攻擊速度，匈奴有非常便宜的造價，可以把省下來的資源用於別的兵種，如騎兵。馬扎爾、土耳其與薩拉森人則是在帝王時期可以展現出強大的威力。馬扎爾通過
+            >是絕佳的使用馬弓騎兵的國家。雖然其他文明也可以使用，但都不如這些國家。<nuxt-link
+              to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >有非常出色的<nuxt-link to="/elements/Rate_of_Fire"
+              >攻擊速度</nuxt-link
+            >，<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+            >有非常便宜的造價，可以把省下來的資源用於別的兵種，如<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >。<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、<nuxt-link
+              to="/civs/Turks"
+              >土耳其</nuxt-link
+            >與<nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link
+            >則是在帝王時期可以展現出強大的威力。馬扎爾通過
             <nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
-            >技術，可以使射程與攻擊額外+1，土耳其人通過
-            <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
-            >血量+20、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-            >人則是對建築物攻擊+4。
+            >技術，可以使射程與攻擊額外+1，<nuxt-link to="/civs/Turks"
+              >土耳其人</nuxt-link
+            >通過 <nuxt-link to="/techs/Sipahi">采邑騎兵</nuxt-link
+            ><nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >+20、<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+            >人則是對<nuxt-link to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
+            >攻擊+4。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -82,7 +112,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -99,7 +131,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -247,7 +281,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -320,8 +356,9 @@
                   <nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link>→
                   <img class="gg" src="~assets/ImperialCamelIcon.jpg" alt="" />
                   <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
-                  >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link
-                  >限定)
+                  >(<nuxt-link to="/units/Imperial_Camel"
+                    >帝王駱駝騎兵</nuxt-link
+                  >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                 </li>
               </ul>
               <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -506,7 +543,9 @@
               </ul>
             </div>
           </div>
-          以下技術研發後對長槍兵有額外攻擊力，以數值排列:
+          以下技術研發後對<nuxt-link to="/armor/Armor_Class_Spearman"
+            >長槍兵</nuxt-link
+          >有額外攻擊力，以數值排列:
           <div class="n1">
             <img
               class="gg"
@@ -567,7 +606,9 @@
                 >同盟的話)
               </li>
             </ul>
-            團隊加分:<nuxt-link to="/civs/Persians">波斯</nuxt-link
+            <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>:<nuxt-link
+              to="/civs/Persians"
+              >波斯</nuxt-link
             >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
               to="/units/Archer_Units"
               >射手單位</nuxt-link
@@ -597,19 +638,30 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對馬弓騎兵有利的科技在城堡/帝王時代便宜15%/20%。
+              >：對馬弓騎兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：多20%的血量。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >：造價在城堡/帝王時代便宜10%/20%。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：造價在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜10%/20%。
             </li>
-            <li><nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：射速快25%。</li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >射速</nuxt-link
+              >快25%。
+            </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >:馬弓騎兵黃金成本減少15%。
+              >:馬弓騎兵<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本減少15%。
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：對<nuxt-link
@@ -618,8 +670,10 @@
               >攻擊+4
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠科技升級不用黃金
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技升級不用黃金
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -629,8 +683,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：血量在城堡/帝王時代增加15%/20%。免費<nuxt-link
-                to="/techs/Conscription"
+              >：血量在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代增加15%/20%。免費<nuxt-link to="/techs/Conscription"
                 >徵兵制度</nuxt-link
               >。
             </li>
@@ -670,7 +724,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：馬弓騎兵對僧侶抵抗力更強。
+              >：馬弓騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >抵抗力更強。
             </li>
           </ul>
         </div>
@@ -681,7 +736,9 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>成本為40木材70黃金。</li>
+            <li>
+              成本為40<nuxt-link to="/resource/Wood">木材</nuxt-link>70黃金。
+            </li>
             <li>移動速度為1.43，射程3。</li>
           </ul>
           <h3>
@@ -699,8 +756,10 @@
               引入<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >:馬弓騎兵於城堡/帝王時代便宜25%/30％。。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:馬弓騎兵於<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜25%/30％。。
             </li>
           </ul>
           <h3>
@@ -709,12 +768,16 @@
           <ul>
             <li>成本減為40木材65黃金。</li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >:馬弓騎兵於城堡/帝王時代便宜15%/25％。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:馬弓騎兵於<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜15%/25％。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-              >:特殊科技<nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>:<nuxt-link
+                to="/techs/untech"
+                >特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Recurve_Bow">反曲弓</nuxt-link
               >給予馬弓騎兵+1射程。
             </li>
             <li>
@@ -734,7 +797,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >:現在馬弓騎兵於城堡/帝王時代便宜10%/20％。
+              >:現在馬弓騎兵於<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜10%/20％。
             </li>
           </ul>
           <h3>
@@ -754,7 +819,10 @@
         <div class="n1">
           <p>
             “馬弓騎兵起源於遠古時代的亞洲大平原，並在整個中世紀的這個地區成為大部分軍隊的主力，征服了亞洲大部分地區，中東以及歐洲大部分地區的蒙古軍隊
-            最主要的就是馬弓騎兵，當時他們是火力和速度的獨特組合，他們幾乎可以跨越幾乎任何一種地形，出乎意料地伏擊敵人，並在必要時在重騎兵或步兵部隊作出反應之前撤出。蒙古人特別擅長打帶跑和伏擊戰術，避免一對一戰鬥的同時也打得敵人完全失去信心，馬弓騎兵在開闊的地面上擁有非常大的操縱空間。但是對於要塞攻城和需要一對一的戰鬥則毫無應對策略。“
+            最主要的就是馬弓騎兵，當時他們是火力和速度的獨特組合，他們幾乎可以跨越幾乎任何一種地形，出乎意料地伏擊敵人，並在必要時在重騎兵或步兵部隊作出反應之前撤出。<nuxt-link
+              to="/civs/Mongols"
+              >蒙古人</nuxt-link
+            >特別擅長打帶跑和伏擊戰術，避免一對一戰鬥的同時也打得敵人完全失去信心，馬弓騎兵在開闊的地面上擁有非常大的操縱空間。但是對於要塞攻城和需要一對一的戰鬥則毫無應對策略。“
           </p>
         </div>
       </div>
@@ -851,7 +919,9 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">10</td>
           </tr>
           <tr>
@@ -867,15 +937,15 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link> <br />
@@ -889,7 +959,7 @@
             <td class="unit4">1.4</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -916,7 +986,7 @@
                 class="gg"
                 src="~assets/Heavy-cavalry-archer-resear.jpg"
                 alt=""
-              />900食物500黃金
+              />900<nuxt-link to="/resource/Food">食物</nuxt-link>500黃金
             </td>
           </tr>
           <tr>

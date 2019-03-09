@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            安地斯彈弓是<nuxt-link to="/civs/Incas">印加</nuxt-link
-            >的特殊科技，可於城<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>安地斯彈弓</b>是<nuxt-link to="/civs/Incas">印加</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
             >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>和
@@ -24,7 +23,13 @@
         <div class="n1">
           <ul>
             <li>
-              印加玩家通常都會使用投石手和矛兵，而安地斯彈弓可有效解決他們最小射程的問題，是一項非常值得研發的科技。雖然只要近戰單位有保護好他們就不需要在較近的距離作戰，但有時有些漏網之魚晃過或是近戰單位陣亡時他們還是可以保護自己。
+              <nuxt-link to="/civs/Incas">印加</nuxt-link
+              >玩家通常都會使用<nuxt-link to="/units/Slinger">投石手</nuxt-link
+              >和<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >，而安地斯彈弓可有效解決他們最小射程的問題，是一項非常值得研發的<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >。雖然只要近戰單位有保護好他們就不需要在較近的距離作戰，但有時有些漏網之魚晃過或是近戰單位陣亡時他們還是可以保護自己。
             </li>
           </ul>
         </div>
@@ -65,7 +70,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Incas">印加</nuxt-link></td>
           </tr>
           <tr>
@@ -97,11 +102,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

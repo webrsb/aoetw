@@ -9,8 +9,11 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>輔佐新君</b
-            >為加查·馬達戰役的第四關劇情關卡，此關描述加查·馬達輔佐女王之子：哈亞烏魯克國王征服南洋各地的經過。
+            <b>輔佐新君</b>為<nuxt-link to="/batt/Gajah_Madaa"
+              >加查·馬達戰役</nuxt-link
+            >的第四關劇情關卡，此關描述<nuxt-link to="/units/hero/Gajah_Mada"
+              >加查·馬達</nuxt-link
+            >輔佐女王之子：哈亞烏魯克國王征服南洋各地的經過。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,9 +23,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">帝王時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">1,050木材／700食物／650黃金／450石礦</td>
+              <td class="tc2">
+                1,050<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >／700<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／650<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／450<nuxt-link to="/resource/Stone">石礦</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">125</td>
             </tr>
@@ -39,14 +49,18 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家1</div></td>
-              <td class="tc6" colspan="3">馬來人（紅色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Malay">馬來人</nuxt-link>（紅色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p5">玩家5</div></td>
-              <td class="tc6">滿者伯夷人（淺藍）馬來</td>
+              <td class="tc6">
+                滿者伯夷人（淺藍）<nuxt-link to="/civs/Malay">馬來</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -56,7 +70,11 @@
               <td class="tc6"><div class="p1" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">古戴人（藍色）馬來</td>
               <td class="tc6"><div class="p3" width="12%">玩家3</div></td>
-              <td class="tc6" width="38%">望加錫人（綠色）越南</td>
+              <td class="tc6" width="38%">
+                望加錫人（綠色）<nuxt-link to="/civs/Vietnamese"
+                  >越南</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td class="tc6"><div class="p4">玩家4</div></td>
@@ -66,12 +84,26 @@
 
           <p></p>
           <h3>開場</h3>
-          <p>。 軍事單位 - 劍兵勇士x3、爪刀勇士x6。</p>
-          <p>。 大地之母單位 - 村民x3、重型弩砲戰船x3、運輸船x1。</p>
+          <p>
+            。 軍事單位 -
+            <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>x3、<nuxt-link
+              to="/units/Karambit_Warrior"
+              >爪刀勇士</nuxt-link
+            >x6。
+          </p>
+          <p>
+            。 大地之母單位 -
+            <nuxt-link to="/units/Villager">村民</nuxt-link>x3、<nuxt-link
+              to="/units/Galleon"
+              >重型弩砲戰船</nuxt-link
+            >x3、<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>x1。
+          </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
-            <li>摧毀古戴人的碼頭。</li>
+            <li>
+              摧毀古戴人的<nuxt-link to="/building/Dock">碼頭</nuxt-link>。
+            </li>
             <li>摧毀望加錫人的碼頭。</li>
             <li>摧毀魯烏人的碼頭。</li>
           </div>
@@ -87,10 +119,14 @@
                 你可以透過捕魚來採集食物，這樣可以節省耕田所需的木材、而將木材用在造船上面。
               </li>
               <li>
-                敵人有強大的海軍，因此如果你能在島上沿海建立防禦工事就可以輕易守住陣地，讓戰艦不用疲於奔命。
+                敵人有強大的<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
+                >，因此如果你能在島上沿海建立防禦工事就可以輕易守住陣地，讓戰艦不用疲於奔命。
               </li>
               <li>
-                敵人也建立了一些沿海防禦設施，若是想要摧毀他們的話你可以建造射程較遠的炮艦。你也可以使用一些船隻吸引防禦塔的火力，趁機剷除他們。
+                敵人也建立了一些沿海防禦設施，若是想要摧毀他們的話你可以建造射程較遠的炮艦。你也可以使用一些<nuxt-link
+                  to="/units/Naval_Vessels"
+                  >船隻</nuxt-link
+                >吸引防禦塔的火力，趁機剷除他們。
               </li>
               <li>你的人口上限為125。</li>
             </ul>
@@ -106,10 +142,20 @@
                   東邊的古戴人（藍色）控制著許多小島，他們主要以海盜為生。駕駛著又小又快的箭船，有時候也會使用載滿火藥的木筏。
                 </li>
                 <li>
-                  望加錫人（綠色）生活在西南邊的群島上。他們箭塔林立，比古戴人的裝備更為先進。他們以戰艦、火戰船和弓箭手為主。對我們充滿敵意，有可能率先攻擊我們的島嶼。
+                  望加錫人（綠色）生活在西南邊的群島上。他們<nuxt-link
+                    to="/building/Watch_Tower"
+                    >箭塔</nuxt-link
+                  >林立，比古戴人的裝備更為先進。他們以戰艦、<nuxt-link
+                    to="/units/Fire_Ship"
+                    >火戰船</nuxt-link
+                  >和<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+                  >為主。對我們充滿敵意，有可能率先攻擊我們的島嶼。
                 </li>
                 <li>
-                  在更遠的南方有魯烏人（黃色）。他們的戰備非常先進，島嶼上有許多防禦塔守衛著。難以征服，他們也擅長使用火藥，所以會靠著炮艦與火砲塔來守衛陣地。
+                  在更遠的南方有魯烏人（黃色）。他們的戰備非常先進，島嶼上有許多防禦塔守衛著。難以征服，他們也擅長使用火藥，所以會靠著炮艦與<nuxt-link
+                    to="/building/Bombard_Tower"
+                    >火砲塔</nuxt-link
+                  >來守衛陣地。
                 </li>
               </ul>
               <h2>細節</h2>
@@ -165,13 +211,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">戰役</td>
+            <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Malay">馬來人</nuxt-link>
             </td>
@@ -185,7 +231,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">王者崛起第一章之四</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>第一章之四
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

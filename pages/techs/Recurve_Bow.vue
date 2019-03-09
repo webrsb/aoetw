@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            反曲弓是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>反曲弓</b>是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Cavalry_Archer"
@@ -23,19 +23,23 @@
         <div class="n1">
           <ul>
             <li>
-              有反曲弓加成的馬弓騎兵擁有和<nuxt-link to="/units/Arbalest"
-                >強弩兵</nuxt-link
+              有反曲弓加成的<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >擁有和<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
               >一樣的射程，讓他們能更好地執行打帶跑。反曲弓可以看做是一種
               <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >的升級，但還是優先研發<nuxt-link to="/techs/Fletching"
                 >箭羽</nuxt-link
               >、<nuxt-link to="/techs/Bodkin_Arrow">錐狀箭頭</nuxt-link>和
               <nuxt-link to="/techs/Bracer">護腕</nuxt-link
-              >因為這三樣不僅有加成所有範圍單位、有加攻擊力、最重要是花費比反曲弓便宜。
+              >因為這三樣不僅有加成所有範圍單位、有加<nuxt-link
+                to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >、最重要是花費比反曲弓便宜。
             </li>
             <li>
-              反曲弓讓馬扎爾的馬弓騎兵可以與<nuxt-link to="/civs/Turks"
-                >土耳其</nuxt-link
+              反曲弓讓<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+              >的馬弓騎兵可以與<nuxt-link to="/civs/Turks">土耳其</nuxt-link
               >和<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
               >的並列遊戲中最佳的馬弓騎兵。
             </li>
@@ -92,7 +96,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
             </td>
@@ -126,11 +130,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">600</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>

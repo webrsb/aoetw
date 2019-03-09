@@ -20,45 +20,70 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            僧侶是遊戲中的一個特殊單位，可以在
+            <b>僧侶</b>是遊戲中的一個<nuxt-link to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >，可以在
             <nuxt-link to="/building/Monastery">修道院</nuxt-link>
             進行訓練。雖然缺乏一切攻擊手段，他們仍然佔有一席之地，因為他們是能夠將其他單位轉換為玩家己方單位（另一個是
             <nuxt-link to="/units/Missionary">傳教士</nuxt-link
             >）的唯二單位之一。
-            此外，僧侶可以治癒所有同盟或自己的單位，除了船隻和攻城武器。起初，他們非常薄弱，但是通過研究修道院內的所有技術，他們能力可以得到很大的提升。
+            此外，僧侶可以治癒所有同盟或自己的單位，除了<nuxt-link
+              to="/units/Naval_Vessels"
+              >船隻</nuxt-link
+            >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >。起初，他們非常薄弱，但是通過研究<nuxt-link
+              to="/building/Monastery"
+              >修道院</nuxt-link
+            >內的所有技術，他們能力可以得到很大的提升。
           </p>
           <p>
-            在所有的文明中，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+            在所有的<nuxt-link to="/civs">文明</nuxt-link>中，<nuxt-link
+              to="/civs/Aztecs"
+              >阿茲特克</nuxt-link
             >人擁有最強大的僧侶，可以使用所有的宗教技術，同時每研發一項技術可獲得+5生命。
-            如果每項技術研發，阿茲特克僧侶擁有95生命 -
-            是普通僧侶（45生命，研發<nuxt-link to="/techs/Sanctity"
+            如果每項技術研發，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+            >僧侶擁有95生命 - 是普通僧侶（45生命，研發<nuxt-link
+              to="/techs/Sanctity"
               >聖潔虔誠</nuxt-link
             >）的兩倍以上。
           </p>
           <p>
-            <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>，薩拉森人和<nuxt-link
-              to="/civs/Spanish"
-              >西班牙</nuxt-link
-            >也有獨特的技術，使他們的僧侶受益，不過需要城堡才能研發，顯得特別雞肋。而
-            <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-            >的科技減免，則是相當實用。
+            <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>，<nuxt-link
+              to="/civs/Saracens"
+              >薩拉森人</nuxt-link
+            >和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+            >也有獨特的技術，使他們的僧侶受益，不過需要<nuxt-link
+              to="/building/Castle"
+              >城堡</nuxt-link
+            >才能研發，顯得特別雞肋。而
+            <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>的<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >減免，則是相當實用。
           </p>
           <p>
             <nuxt-link to="/civs/Teutons">條頓</nuxt-link>和<nuxt-link
               to="/civs/Byzantines"
               >拜占庭</nuxt-link
-            >僧侶相當強大，並受益於修道院升級技術和團隊加分。
+            >僧侶相當強大，並受益於修道院升級技術和<nuxt-link
+              to="/elements/Team_Bonus"
+              >團隊加分</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            僧侶是一個多功能單位，在城堡時代以後扮演著重要的角色，包括收集<nuxt-link
-              to="/Relic"
+            僧侶是一個多功能單位，在<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >以後扮演著重要的角色，包括收集<nuxt-link to="/Relic"
               >遺跡</nuxt-link
             >
-            ，騷擾對手的資源節點，擾亂對手戰線，阻擋騎士的侵略以及治療受傷的單位。
+            ，騷擾對手的資源節點，擾亂對手戰線，阻擋<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >的侵略以及治療受傷的單位。
           </p>
           <h3>科技</h3>
           <p>以下科技影響僧侶</p>
@@ -69,7 +94,11 @@
                 <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
                   to="/techs/Redemption"
                   >信仰救贖</nuxt-link
-                >:僧侶可招降大部分建築物和攻城單位。
+                >:僧侶可<nuxt-link to="/elements/Conversion">招降</nuxt-link
+                >大部分<nuxt-link to="/building">建築物</nuxt-link>和<nuxt-link
+                  to="/units/Siege_Weapons"
+                  >攻城單位</nuxt-link
+                >。
               </li>
               <li>
                 <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
@@ -118,7 +147,8 @@
                   class="gg"
                   alt=""
                 /><nuxt-link to="/techs/Madrasah">穆斯林學墊</nuxt-link
-                >:僧侶死亡時返還33黃金。(薩拉森限定)
+                >:僧侶死亡時返還33<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >。(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>限定)
               </li>
               <li>
                 <img
@@ -126,7 +156,8 @@
                   class="gg"
                   alt=""
                 /><nuxt-link to="/techs/Orthodoxy">東正教</nuxt-link
-                >:僧侶護甲+3/+3。(斯拉夫限定)
+                >:僧侶護甲+3/+3。(<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+                >限定)
               </li>
             </ul>
           </div>
@@ -137,7 +168,8 @@
                 <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                   to="/techs/Faith"
                   >忠誠信仰</nuxt-link
-                >:單位對僧侶(傳教士)的招降更具抵抗力。
+                >:單位對僧侶(<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+                >)的招降更具抵抗力。
               </li>
               <li>
                 <img
@@ -168,7 +200,8 @@
             <em>請見主條目：<nuxt-link to="/Relic">遺跡</nuxt-link></em>
           </p>
           <p>
-            遺跡是一個特殊的物品，當遺跡進入修道院時，擁有它的玩家將會隨著時間的推移而收到一小筆連續不斷的黃金，大致相當於一個礦工。玩家收集的遺跡越多，生成的黃金就越多。與採礦不同，遺跡不會耗盡。最重要的是，在城堡時代以後，快速而有效地訓練僧侶在標準勝利的遊戲中變得至關重要，因為在短時間內收集並持有每個聖物是贏得遊戲的眾多方式之一。
+            <nuxt-link to="/Relic">遺跡</nuxt-link
+            >是一個特殊的物品，當遺跡進入修道院時，擁有它的玩家將會隨著時間的推移而收到一小筆連續不斷的黃金，大致相當於一個礦工。玩家收集的遺跡越多，生成的黃金就越多。與採礦不同，遺跡不會耗盡。最重要的是，在城堡時代以後，快速而有效地訓練僧侶在標準勝利的遊戲中變得至關重要，因為在短時間內收集並持有每個聖物是贏得遊戲的眾多方式之一。
           </p>
           <h3>招降</h3>
           <p>
@@ -179,13 +212,18 @@
             >
           </p>
           <p>
-            僧侶的第二個功能是招降敵方單位。意見可以在遊戲中廣泛使用不同的轉換。然而，招降一個單位會使敵人的力量變小，同時增強自己的軍隊。在城堡時代，僧侶可以有效地支援快攻，對手沒有能力和時間研發異教邪說或使用如不列顛長弓兵的遠距離單位作反制。
+            僧侶的第二個功能是招降敵方單位。意見可以在遊戲中廣泛使用不同的轉換。然而，招降一個單位會使敵人的力量變小，同時增強自己的軍隊。在城堡時代，僧侶可以有效地支援快攻，對手沒有能力和時間研發異教邪說或使用如<nuxt-link
+              to="/units/Longbowman"
+              >不列顛長弓兵</nuxt-link
+            >的<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link
+            >作反制。
           </p>
           <p>
-            優異的僧侶文明（如阿茲特克人，<nuxt-link to="/civs/Burmese"
-              >緬甸</nuxt-link
-            >，<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>，
-            <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>，<nuxt-link
+            優異的僧侶文明（如<nuxt-link to="/civs/Aztecs">阿茲特克人</nuxt-link
+            >，<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>，<nuxt-link
+              to="/civs/Saracens"
+              >薩拉森</nuxt-link
+            >， <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>，<nuxt-link
               to="/civs/Spanish"
               >西班牙</nuxt-link
             >和<nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -194,11 +232,26 @@
             >也可以僧侶快攻，因為他們的僧侶便宜了15％，只花費85黃金。<nuxt-link
               to="/civs/Teutons"
               >條頓</nuxt-link
-            >的僧侶可以輕易地對抗早期僧侶快攻，因為他們的文明利益可讓單位更能抵抗招降（可與帝王時代的忠誠信仰疊加）。
+            >的僧侶可以輕易地對抗早期僧侶快攻，因為他們的文明利益可讓單位更能抵抗招降（可與<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >的<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>疊加）。
           </p>
           <p>
             在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >，研發印刷技術可增加僧侶的招降距離，但是在帝王時代，玩家的軍隊變得更加強大，這使得僧侶更顯脆弱。幾乎所有的步兵和騎兵部隊都能三下殺死僧侶，弓箭手通常只需要五箭。攻城部隊對僧侶來說也是致命的。對於依賴僧侶的玩家來說，這是一個巨大的問題。此外，隨著忠誠信仰的出現，招降的效益顯著減少。另一個問題是招降需要大量的微操作，因為僧侶不會自動招降（僧侶在系統設定為非激進立場）。這意味著玩家總得時時注意戰場並手動招降。在遊戲的後期階段，當戰鬥較大，發生在多個地點時，幾乎不可能有時間指揮僧侶。如果只有一個主戰場，那麼玩家仍然可以招降遊俠，戰象或貴族鐵騎等關鍵單位，並且僧侶遠離威脅。
+            >，研發印刷技術可增加僧侶的招降距離，但是在帝王時代，玩家的軍隊變得更加強大，這使得僧侶更顯脆弱。幾乎所有的<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >和<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >部隊都能三下殺死僧侶，<nuxt-link to="/units/Archer_Units"
+              >弓箭手</nuxt-link
+            >通常只需要五箭。攻城部隊對僧侶來說也是致命的。對於依賴僧侶的玩家來說，這是一個巨大的問題。此外，隨著忠誠信仰的出現，招降的效益顯著減少。另一個問題是招降需要大量的微操作，因為僧侶不會自動招降（僧侶在系統設定為非激進立場）。這意味著玩家總得時時注意戰場並手動招降。在遊戲的後期階段，當戰鬥較大，發生在多個地點時，幾乎不可能有時間指揮僧侶。如果只有一個主戰場，那麼玩家仍然可以招降<nuxt-link
+              to="/units/Paladin"
+              >遊俠</nuxt-link
+            >，<nuxt-link to="/units/War_Elephant">戰象</nuxt-link>或<nuxt-link
+              to="/units/Boyar"
+              >貴族鐵騎</nuxt-link
+            >等關鍵單位，並且僧侶遠離威脅。
           </p>
           <h3>治療</h3>
           <p>
@@ -207,12 +260,15 @@
             <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>和<nuxt-link
               to="/civs/Teutons"
               >條頓</nuxt-link
-            >在遊戲中分別有更快的治癒率和更長的治療範圍。西班牙傳教士則有較快的移動速度可以跟上軍隊。
+            >在遊戲中分別有更快的治癒率和更長的治療範圍。<nuxt-link
+              to="/civs/Spanish"
+              >西班牙</nuxt-link
+            >傳教士則有較快的移動速度可以跟上軍隊。
           </p>
           <h3>防禦</h3>
           <p>
-            修道院不是軍事建築，且進入<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            修道院不是軍事<nuxt-link to="/building">建築</nuxt-link
+            >，且進入<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >後就可直接建造。這對於蓋<nuxt-link to="/building/Blacksmith"
               >兵工廠</nuxt-link
             >和
@@ -341,19 +397,27 @@
               >：使僧侶受益的技術便宜50％。
             </li>
             <li>
-              中國：受益僧侶的技術在城堡/帝國時代分別便宜15％/ 20％。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >：受益僧侶的技術在城堡/帝國時代分別便宜15％/ 20％。
             </li>
             <li>
-              葡萄牙：僧侶黃金成本減少了15％。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：僧侶黃金成本減少了15％。
             </li>
-            <li>條頓：僧侶有雙倍的治療範圍。</li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              >：僧侶有雙倍的治療範圍。
+            </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>拜占庭：僧侶治療速度提高50％。</li>
+            <li>
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >：僧侶治療速度提高50％。
+            </li>
             <li>
               條頓：僧侶的團隊對招降更有抵抗力。
             </li>
@@ -518,7 +582,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>
             </td>
@@ -572,11 +636,11 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>

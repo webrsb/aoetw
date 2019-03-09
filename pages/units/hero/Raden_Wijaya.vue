@@ -8,10 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            羅登·韋查耶是個騎兵英雄，他在戰役"開疆闢土"中會短暫出現，同時在地圖編輯器裡也找的到他的蹤影。
+            <b>羅登·韋查耶</b>是個<nuxt-link to="/units/Cavalry_Units"
+              >騎兵英雄</nuxt-link
+            >，他在<nuxt-link to="/batt">戰役</nuxt-link
+            >"開疆闢土"中會短暫出現，同時在地圖編輯器裡也找的到他的蹤影。
           </p>
           <p>
-            羅登·韋查耶是根據創立滿者伯夷王國的真實馬來國王名字所取的，在遊戲中的外貌是騎兵。羅登·韋查耶會受到所有騎兵加成科技的影響，他不能被招降而且會自行回血。
+            羅登·韋查耶是根據創立滿者伯夷王國的真實<nuxt-link to="/civs/Malay"
+              >馬來</nuxt-link
+            >國王名字所取的，在遊戲中的外貌是<nuxt-link to="/units/Cavalier"
+              >騎兵</nuxt-link
+            >。羅登·韋查耶會受到所有騎兵加成<nuxt-link to="/techs"
+              >科技</nuxt-link
+            >的影響，他不能被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             羅登·韋查耶，爪哇國王，1293-1309年在位，麻諾巴歇王國的創立者。建立麻諾巴歇的歷史在好幾種資料中有記載，包括《諸王之史》、《純潔的國度》。其統治中的最重要事件便是擊敗忽必烈統帥下的元朝軍隊。
@@ -44,12 +55,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -57,7 +71,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
@@ -65,29 +81,33 @@
             <td class="unit4">18(近戰)</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">1.83</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">騎兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.35</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

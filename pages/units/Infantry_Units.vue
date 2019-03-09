@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            步兵單位是遊戲中四類軍事單位之一，另外三種分別是<nuxt-link
+            <b>步兵單位</b>是遊戲中四類軍事單位之一，另外三種分別是<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
             >、<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link>與
@@ -20,31 +20,61 @@
         <div class="n1">
           <ul>
             <li>
-              步兵單位通常是生命值較低，速度也慢，不過是非常重要的單位，因為他相當便宜也容易量產，且早期就可以訓練。
+              步兵單位通常是<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >較低，速度也慢，不過是非常重要的單位，因為他相當便宜也容易量產，且早期就可以訓練。
             </li>
             <li>
-              普通的步兵單位在軍營裡訓練，民兵是第一個可以訓練的單位也是黑暗時代唯一可生產的軍事單位。
+              普通的步兵單位在<nuxt-link to="/building/Barracks">軍營</nuxt-link
+              >裡訓練，<nuxt-link to="/units/Militia">民兵</nuxt-link
+              >是第一個可以訓練的單位也是<nuxt-link to="/techs/age/Dark_Age"
+                >黑暗時代</nuxt-link
+              >唯一可生產的軍事單位。
             </li>
             <li>
-              特殊單位的步兵在城堡裡面訓練，但有兩個例外，<nuxt-link
-                to="/units/Huskarl"
+              <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+              >的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >在<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >裡面訓練，但有兩個例外，<nuxt-link to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
-              >在研發無政府狀態後可以在軍營訓練，而
+              >在研發<nuxt-link to="/techs/Anarchy">無政府狀態</nuxt-link
+              >後可以在軍營訓練，而
               <nuxt-link to="/units/Condottiero">傭兵</nuxt-link
-              >只要是義大利及其同盟也可以在帝王時代時在軍營訓練。
+              >只要是<nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >及其同盟也可以在<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >時在軍營訓練。
             </li>
             <li>
-              所有的步兵都需要黃金和食物訓練，而槍兵類是唯一的例外，他需要食物與木材。雖然大部分的步兵懼怕弓兵單位與騎兵單位，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:
+              所有的步兵都需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >和<nuxt-link to="/resource/Food">食物</nuxt-link
+              >訓練，而<nuxt-link to="/armor/Armor_Class_Spearman"
+                >槍兵類</nuxt-link
+              >是唯一的例外，他需要食物與<nuxt-link to="/resource/Wood"
+                >木材</nuxt-link
+              >。雖然大部分的步兵懼怕<nuxt-link to="/units/Archer_Units"
+                >弓兵單位</nuxt-link
+              >與<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+              >，但其實仍有一些好處:第一:他們成本很低，尤其是黃金，表示可以用較少的資源去換傷亡比。第二:
               <nuxt-link to="/units/Archer">弓箭手</nuxt-link
               >通常可以配合<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-              >，而騎兵則是搭配<nuxt-link to="/units/Spearman">槍兵</nuxt-link
+              >，而<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >則是搭配<nuxt-link to="/units/Spearman">槍兵</nuxt-link>。
+            </li>
+            <li>
+              由於速度很慢又是近戰，步兵很怕<nuxt-link to="/units/Monk"
+                >僧侶</nuxt-link
               >。
             </li>
-            <li>由於速度很慢又是近戰，步兵很怕僧侶。</li>
             <li>
               擅長對付步兵的單位是:<nuxt-link to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
-              >、投石手、羽毛箭射手、條頓武士、豹勇士與聖騎兵
+              >、<nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
+                to="/units/Plumed_Archer"
+                >羽毛箭射手</nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >與<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>
             </li>
           </ul>
         </div>
@@ -52,7 +82,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            許多文明依賴強大的步兵，<nuxt-link to="/civs/Aztecs"
+            許多<nuxt-link to="/civs">文明</nuxt-link>依賴強大的步兵，<nuxt-link
+              to="/civs/Aztecs"
               >阿茲特克人</nuxt-link
             >，<nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>，
             <nuxt-link to="/civs/Japanese">日本人</nuxt-link>，<nuxt-link
@@ -67,8 +98,10 @@
               to="/civs/Malians"
               >馬利</nuxt-link
             >與
-            <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-            >也是優秀的步兵文明。而<nuxt-link to="/civs/Incas">印加</nuxt-link
+            <nuxt-link to="/civs/Teutons">條頓</nuxt-link>也是優秀的<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵文明</nuxt-link
+            >。而<nuxt-link to="/civs/Incas">印加</nuxt-link
             >是唯一有所有步兵單位和技術的文明。
           </p>
         </div>
@@ -79,7 +112,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >:步兵單位在封建/城堡/帝王各有+1/+2/+3的攻擊。
+              >:步兵單位在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >各有+1/+2/+3的攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>:<nuxt-link
@@ -91,8 +127,10 @@
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:步兵移動快25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >:槍兵係免費升級。
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>:<nuxt-link
+                to="/units/Spearman"
+                >槍兵</nuxt-link
+              >系免費升級。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
@@ -102,26 +140,45 @@
               >有+1攻擊。
             </li>
             <li>
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >:從封建時代開始，步兵攻擊速度快25%。
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>:從<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >開始，步兵<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快25%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >:軍營的步兵單位從封建/城堡/帝王各有+1/+2/+3的遠防。
+              >:軍營的步兵單位從<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >各有+1/+2/+3的<nuxt-link to="/armor">遠防</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:追蹤技術是免費的。
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>:<nuxt-link
+                to="/techs/Tracking"
+                >追蹤技術</nuxt-link
+              >是免費的。
             </li>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:步兵在封建/城堡/帝王各有+10%/+15%/+20%的生命值。
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>:步兵在<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >各有+10%/+15%/+20%的生命值。
             </li>
           </ul>
         </div>
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>以下列出步兵的團隊加分</p>
+          <p>
+            以下列出步兵的<nuxt-link to="/elements/Team_Bonus"
+              >團隊加分</nuxt-link
+            >
+          </p>
           <ul>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>:軍營工作效率快20%
@@ -145,7 +202,7 @@
               <td width="9%">防禦</td>
               <td width="9%">射程</td>
               <td width="9%">攻擊速度</td>
-              <td width="9%">視野</td>
+              <td width="9%"><nuxt-link to="/los.php">視野</nuxt-link></td>
               <td width="9%">速度</td>
             </tr>
             <tr>
@@ -182,7 +239,7 @@
               <td class="tta3">0</td>
               <!--射程!-->
               <td class="tta3">2.03</td>
-              <!--射速!-->
+              <!--<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>!-->
               <td class="tta3">4</td>
               <!--視野!-->
               <td class="tta3">0.9</td>
@@ -927,7 +984,9 @@
         <div class="n1">
           <table class="table-bordered" width="100%">
             <tr>
-              <td class="tunitcc" style="width: 15%;">科技</td>
+              <td class="tunitcc" style="width: 15%;">
+                <nuxt-link to="/techs">科技</nuxt-link>
+              </td>
               <td class="tunitcc" style="width: 10%;">時代</td>
               <td class="tunitcc" style="width: 15%;">成本</td>
               <td class="tunitcc">影響</td>
@@ -1061,7 +1120,11 @@
               </td>
               <td class="tunitc4">城堡</td>
               <td class="tunitc5">1000G</td>
-              <td class="tunitc6">被招降的單位/建築物立即死亡/毀壞)。</td>
+              <td class="tunitc6">
+                被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+                >的單位/<nuxt-link to="/building">建築物</nuxt-link
+                >立即死亡/毀壞)。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1072,7 +1135,10 @@
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">750F 1000G</td>
-              <td class="tunitc6">單位對僧侶(傳教士)的招降更具抵抗力。</td>
+              <td class="tunitc6">
+                單位對僧侶(<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+                >)的招降更具抵抗力。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -1085,7 +1151,10 @@
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">150F 150G</td>
-              <td class="tunitc6">軍營、靶場、馬廄、城堡訓練部隊速度+33%。</td>
+              <td class="tunitc6">
+                軍營、靶場、<nuxt-link to="/building/Stable">馬廄</nuxt-link
+                >、城堡訓練部隊速度+33%。
+              </td>
             </tr>
           </table>
         </div>
@@ -1095,7 +1164,9 @@
           <table class="table-bordered table-striped" width="100%">
             <tr>
               <td class="tunitcc" style="width: 15%;">文明</td>
-              <td class="tunitcc" style="width: 10%;">特殊科技</td>
+              <td class="tunitcc" style="width: 10%;">
+                <nuxt-link to="/techs/untech">特殊科技</nuxt-link>
+              </td>
               <td class="tunitcc" style="width: 15%;">花費</td>
               <td class="tunitcc">影響</td>
             </tr>
@@ -1163,8 +1234,8 @@
               </td>
               <td class="tunitc5">400F 300G</td>
               <td class="tunitc6">
-                步兵對騎兵攻擊+5，對<nuxt-link to="/units/Camel"
-                  >駱駝騎兵</nuxt-link
+                步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+                >攻擊+5，對<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
                 >攻擊+2。
               </td>
             </tr>
@@ -1282,7 +1353,11 @@
                 <nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link>
               </td>
               <td class="tunitc5">1200F 500G</td>
-              <td class="tunitc6">步兵單位有踐踏傷害。</td>
+              <td class="tunitc6">
+                步兵單位有<nuxt-link to="/elements/Area_of_Effect"
+                  >踐踏傷害</nuxt-link
+                >。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">

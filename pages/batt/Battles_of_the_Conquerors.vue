@@ -9,17 +9,28 @@
         <div class="n1">
           <div class="ien">
             <em
-              >有些名字會在歷史中流傳下來；男人和女人都在一起朔造這個世界。有些是代表混亂、破壞和暴虐的惡勢力。有些是忠誠的人為了正義而戰。有些是為了保衛家園，而跟那些以武力奪取別人土地的入侵者而戰。在世界歷史裡，有些戰役包括亞琴哥特、曼奇克托和哈斯丁斯，都是一直為人熟知的轉捩點，而包括亨利五世、李舜臣和紅衣艾立克等，都永遠被世人視為偉大的勝利者。現在就讓我們再次體驗他們的謀略和勝利吧！</em
+              >有些名字會在歷史中流傳下來；男人和女人都在一起朔造這個世界。有些是代表混亂、破壞和暴虐的惡勢力。有些是忠誠的人為了正義而戰。有些是為了保衛家園，而跟那些以武力奪取別人土地的入侵者而戰。在世界歷史裡，有些<nuxt-link
+                to="/batt"
+                >戰役</nuxt-link
+              >包括亞琴哥特、曼奇克托和哈斯丁斯，都是一直為人熟知的轉捩點，而包括<nuxt-link
+                to="/units/hero/Henry_V"
+                >亨利五世</nuxt-link
+              >、<nuxt-link to="/units/hero/Admiral_Yi_Sun-Shin"
+                >李舜臣</nuxt-link
+              >和<nuxt-link to="/units/hero/Erik_the_Red">紅衣艾立克</nuxt-link
+              >等，都永遠被世人視為偉大的勝利者。現在就讓我們再次體驗他們的謀略和勝利吧！</em
             >
             <p style="text-align: right;margin-top: 10px;">
               -遊戲中對於征服者的戰役的介紹
             </p>
           </div>
           <li>
-            征服者的戰役是世紀帝國II中包含的一系列不相干的8個單關戰役場景。
+            <b>征服者的戰役</b
+            >是世紀帝國II中包含的一系列不相干的8個單關戰役場景。
           </li>
           <li>
-            為征服者入侵版本戰役第4章，這些關卡都取自中世紀人類歷史上著名的重大戰役。
+            為<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            >版本戰役第4章，這些關卡都取自中世紀人類歷史上著名的重大戰役。
           </li>
           <br />
           <p></p>
@@ -36,7 +47,12 @@
                 <ol>
                   <li>
                     <nuxt-link to="/batt/Tours_732">都爾（732）</nuxt-link>
-                    <p>文明：<nuxt-link to="/civs/Franks">法蘭克</nuxt-link></p>
+                    <p>
+                      <nuxt-link to="/civs">文明</nuxt-link>：<nuxt-link
+                        to="/civs/Franks"
+                        >法蘭克</nuxt-link
+                      >
+                    </p>
                   </li>
                   <li>
                     <nuxt-link to="/batt/Vindlandsaga_1000"
@@ -48,7 +64,7 @@
                     <nuxt-link to="/batt/Hastings_1066"
                       >哈斯汀斯（1066）</nuxt-link
                     >
-                    <p>文明：<nuxt-link to="/civs/Franks">法蘭克</nuxt-link></p>
+                    <p>文明：法蘭克</p>
                   </li>
                   <li>
                     <nuxt-link to="/batt/Manzikert_1071"
@@ -99,7 +115,9 @@
               <p>此章節的其他資訊</p>
               <ul>
                 <li>
-                  此章節與失落帝國戰役第7章一樣，都是多個單關組成的綜合章節。
+                  此章節與<nuxt-link to="/batt/Battles_of_the_Forgotten"
+                    >失落帝國戰役</nuxt-link
+                  >第7章一樣，都是多個單關組成的綜合章節。
                 </li>
                 <li>
                   本頁面依然保留微軟官方舊版的關卡翻譯，與現今版本有不少落差。
@@ -110,11 +128,20 @@
                   </li>
                 </ul>
                 <li>
-                  韓國戰役--洛陽點，英語原文Noryang
-                  Point，為翻譯錯誤，正確為露梁海戰。
+                  <nuxt-link to="/civs/Koreans">韓國</nuxt-link>戰役--<nuxt-link
+                    to="/batt/Kyoto_1582"
+                    >(洛陽點)</nuxt-link
+                  >，英語原文Noryang Point，為翻譯錯誤，正確為露梁海戰。
                 </li>
                 <li>
-                  在世紀帝國II所有戰役章節中幾個東亞大國明顯被忽略，如：日本、韓國（沒有獨立篇章），中國戰役直到2014年6月官方3.6更新失落帝國第7章才登場，但也僅此一關。
+                  在世紀帝國II所有戰役章節中幾個東亞大國明顯被忽略，如：<nuxt-link
+                    to="/civs/Japanese"
+                    >日本</nuxt-link
+                  >、韓國（沒有獨立篇章），<nuxt-link to="/civs/Chinese"
+                    >中國</nuxt-link
+                  >戰役直到2014年6月官方3.6更新<nuxt-link to="/games/aof"
+                    >失落帝國</nuxt-link
+                  >第7章才登場，但也僅此一關。
                 </li>
               </ul>
             </div>
@@ -138,7 +165,10 @@
                 <img src="~assets/BOC 1571.jpg" width="300" alt="" />
                 <p>
                   <em
-                    >《勒班陀戰役》，H·萊特，倫敦格林尼治國家航海博物館，此畫作描繪神聖同盟的基督教海軍於勒班陀戰役擊敗奧斯曼帝國海軍</em
+                    >《勒班陀戰役》，H·萊特，倫敦格林尼治國家航海博物館，此畫作描繪神聖同盟的基督教海軍於勒班陀戰役擊敗<nuxt-link
+                      to="/units/hero/Osman"
+                      >奧斯曼</nuxt-link
+                    >帝國海軍</em
                   >
                 </p>
               </div>
@@ -160,7 +190,7 @@
             <td class="unit4">N/A</td>
           </tr>
           <tr>
-            <td class="unit3">英雄</td>
+            <td class="unit3"><nuxt-link to="/units/hero">英雄</nuxt-link></td>
             <td class="unit4">N/A</td>
           </tr>
           <tr>

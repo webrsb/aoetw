@@ -8,11 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            傭兵或稱僱傭兵，是<nuxt-link to="/civs/Italians">義大利</nuxt-link
-            >的第二種特殊單位，能夠在帝王時代的軍營中訓練。在失落的帝國資料片中義大利還是要建城堡才能生產傭兵。傭兵是個可以共享的特殊單位，任何與義大利同盟的國家都能生產，可說是
+            <b>傭兵</b>或稱<b>僱傭兵</b>，是<nuxt-link to="/civs/Italians"
+              >義大利</nuxt-link
+            >的第二種<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >的<nuxt-link to="/building/Barracks">軍營</nuxt-link
+            >中訓練。在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >資料片中<nuxt-link to="/civs/Italians">義大利</nuxt-link
+            >還是要建<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >才能生產傭兵。傭兵是個可以共享的特殊單位，任何與義大利同盟的國家都能生產，可說是
             <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
-            >。與<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-            >的標槍騎兵不同傭兵沒有精銳版本。
+            >。與<nuxt-link to="/civs/Berbers">柏柏</nuxt-link>的<nuxt-link
+              to="/units/Genitour"
+              >標槍騎兵</nuxt-link
+            >不同傭兵沒有精銳版本。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -20,7 +29,9 @@
         <div class="n1">
           <ul>
             <li>
-              傭兵對火藥單位有極高的攻擊加成，正因為如此，他們能夠打倒與<nuxt-link
+              傭兵對<nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              >有極高的攻擊加成，正因為如此，他們能夠打倒與<nuxt-link
                 to="/units/Halberdier"
                 >戟兵</nuxt-link
               >或<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>搭配的
@@ -29,7 +40,10 @@
               >或是<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </li>
             <li>
-              傭兵的另一個優勢是其對反步兵單位的攻擊有+10防禦。這個防禦獎勵可以讓他們抵銷<nuxt-link
+              傭兵的另一個優勢是其對反<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵單位</nuxt-link
+              >的攻擊有+10防禦。這個防禦獎勵可以讓他們抵銷<nuxt-link
                 to="/units/Plumed_Archer"
                 >羽毛箭射手</nuxt-link
               >， <nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
@@ -40,10 +54,19 @@
               >的加成攻擊。。
             </li>
             <li>
-              傭兵移動速度快，有不錯的裝甲和高生命值。他們生產速度快，也不需要升級。然而，相對較高的黃金成本，要大量生產不是那麼簡單。<nuxt-link
+              傭兵移動速度快，有不錯的裝甲和高<nuxt-link
+                to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >。他們生產速度快，也不需要升級。然而，相對較高的<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >成本，要大量生產不是那麼簡單。<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
-              >在成本比較上及處理火藥單位的效率比傭兵要高得多，而攻城單位的表現也比傭兵好，限制了傭兵的定位只能在應急上使用。
+              >在成本比較上及處理火藥單位的效率比傭兵要高得多，而<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >的表現也比傭兵好，限制了傭兵的定位只能在應急上使用。
             </li>
             <li>
               傭兵可以暫時作為<nuxt-link to="/units/Champion"
@@ -51,7 +74,7 @@
               >的替代品。這情況可能發生在玩家還沒升級好<nuxt-link
                 to="/units/Champion"
                 >劍兵勇士</nuxt-link
-              >，或者玩家的文明沒有
+              >，或者玩家的<nuxt-link to="/civs">文明</nuxt-link>沒有
               <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>（<nuxt-link
                 to="/civs/Ethiopians"
                 >衣索比亞人</nuxt-link
@@ -62,21 +85,29 @@
               >、<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link>和<nuxt-link
                 to="/civs/Persians"
                 >波斯人</nuxt-link
-              >）。然而馬來的話，不應該用傭兵取代
+              >）。然而<nuxt-link to="/civs/Malay">馬來</nuxt-link
+              >的話，不應該用傭兵取代
               <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
-              >，而是將傭兵作為馬來軍隊的後盾，利用傭兵的速度對付那些火藥和弓箭手單位(搭配<nuxt-link
-                to="/units/Halberdier"
-                >戟兵</nuxt-link
-              >和
+              >，而是將傭兵作為馬來軍隊的後盾，利用傭兵的速度對付那些<nuxt-link
+                to="/units/Gunpowder_Unit"
+                >火藥</nuxt-link
+              >和<nuxt-link to="/units/Archer_Units">弓箭手單位</nuxt-link
+              >(搭配<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>和
               <nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>)。
             </li>
             <li>
-              有劍兵勇士文明在特定情況可考慮使用傭兵，特別是敵人使用許多反步兵單位的話。例如，馬利的傭兵可以加上<nuxt-link
-                to="/units/Gbeto"
-                >飛刀女獵手</nuxt-link
+              有<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+              >文明在特定情況可考慮使用傭兵，特別是敵人使用許多反<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵單位</nuxt-link
+              >的話。例如，<nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >的傭兵可以加上<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
               >，利用速度突襲敵方陣營;
               <nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
-              >專職輸出，而馬利傭兵的任務則是處理威脅飛刀女獵手的遠程敵方單位。
+              >專職輸出，而馬利傭兵的任務則是處理威脅<nuxt-link
+                to="/units/Gbeto"
+                >飛刀女獵手</nuxt-link
+              >的<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>敵方單位。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
@@ -88,12 +119,17 @@
                 >日本</nuxt-link
               >與<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
               >則是以高攻擊著稱，
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >傭兵則遠防高8，在帝王初期幾乎沒有對手。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>傭兵則<nuxt-link
+                to="/armor"
+                >遠防</nuxt-link
+              >高8，在帝王初期幾乎沒有對手。
             </li>
             <li>
               在HD
-              patch5.7版中傭兵將擁有獨特裝甲，將只會減少火槍單位的反步兵傷害，不包含其他的反步兵傷害。
+              patch5.7版中傭兵將擁有獨特裝甲，將只會減少火槍單位的反<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >傷害，不包含其他的反步兵傷害。
             </li>
           </ul>
         </div>
@@ -139,7 +175,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -184,19 +222,19 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
-              >:步兵單位有踐踏傷害，<nuxt-link to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >限定。 <br />
+              >:步兵單位有<nuxt-link to="/elements/Area_of_Effect"
+                >踐踏傷害</nuxt-link
+              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。 <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >:步兵對騎兵攻擊+5，對駱駝騎兵攻擊+4，<nuxt-link
-                to="/civs/Vikings"
-                >維京</nuxt-link
-              >限定。
+              >:步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >攻擊+5，對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
+              >攻擊+4，<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定。
             </td>
           </tr>
           <tr>
@@ -237,7 +275,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -248,7 +288,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -454,8 +496,10 @@
               >：傭兵移動速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在帝王時代便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在帝王時代便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
@@ -479,7 +523,10 @@
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>免費。
             </li>
             <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：傭兵+3遠程護甲。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：傭兵+3<nuxt-link
+                to="/armor"
+                >遠程護甲</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -493,8 +540,10 @@
               >免費。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠科技升級不用黃金。
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >科技升級不用黃金。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -566,7 +615,8 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:在4.8b版本後，<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >讓傭兵對駱駝有額外+2攻擊。
+              >讓傭兵對<nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
+              >有額外+2攻擊。
             </li>
           </ul>
           <h3>
@@ -584,7 +634,9 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:5.7版本<nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >科技現在讓傭兵對駱駝有額外+4攻擊。
+              >科技現在讓傭兵對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >有額外+4攻擊。
             </li>
           </ul>
         </div>
@@ -603,11 +655,15 @@
               >自己。
             </li>
             <li>
-              日本傭兵和<nuxt-link to="/units/Samurai">日本武士</nuxt-link
-              >並列攻擊速度最快的近戰單位，高達1.425。
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>傭兵和<nuxt-link
+                to="/units/Samurai"
+                >日本武士</nuxt-link
+              >並列<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
+              >最快的近戰單位，高達1.425。
             </li>
             <li>
-              哥德傭兵為訓練速度第三快的單位，僅輸給<nuxt-link
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >傭兵為訓練速度第三快的單位，僅輸給<nuxt-link
                 to="/units/Shotel_Warrior"
                 >彎刀勇士</nuxt-link
               >與<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link>。
@@ -624,13 +680,16 @@
               傭兵是唯一沒有精銳版本的五個獨特單位之一，另外是<nuxt-link
                 to="/units/Slinger"
               ></nuxt-link
-              >投石手、<nuxt-link to="/units/Missionary">傳教士</nuxt-link>、
+              ><nuxt-link to="/units/Slinger">投石手</nuxt-link>、<nuxt-link
+                to="/units/Missionary"
+                >傳教士</nuxt-link
+              >、
               <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
               >與<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link>。
             </li>
             <li>
-              另外兩個團隊加分的特殊共享單位分別是<nuxt-link to="/civs/Berbers"
-                >柏柏</nuxt-link
+              另外兩個<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+              >的特殊共享單位分別是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
               >的<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link>與
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>的<nuxt-link
                 to="/units/Imperial_Skirmisher"
@@ -713,7 +772,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>
@@ -730,7 +791,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
@@ -752,7 +815,7 @@
             <td class="unit4">1.93</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
@@ -760,7 +823,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>(+10)
               <br />
@@ -807,7 +870,14 @@
             <gallery
               ><img class="imgn hg" width="250" src="~assets/per.jpg" alt=""
             /></gallery>
-            <p><em>傭兵對沒有完整升級步兵的文明非常有價值，例如:波斯。</em></p>
+            <p>
+              <em
+                >傭兵對沒有完整升級步兵的文明非常有價值，例如:<nuxt-link
+                  to="/civs/Persians"
+                  >波斯</nuxt-link
+                >。</em
+              >
+            </p>
           </div>
         </div>
         <div class="row">

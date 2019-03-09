@@ -9,8 +9,11 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>誓統南洋</b
-            >為加查·馬達戰役的第三關劇情關卡，此關描述加查·馬達在成為攝政王輔佐加亞毗濕奴瓦德哈尼女王，征服南洋諸國、確立印尼疆域的經過。
+            <b>誓統南洋</b>為<nuxt-link to="/batt/Gajah_Madaa"
+              >加查·馬達戰役</nuxt-link
+            >的第三關劇情關卡，此關描述<nuxt-link to="/units/hero/Gajah_Mada"
+              >加查·馬達</nuxt-link
+            >在成為攝政王輔佐加亞毗濕奴瓦德哈尼女王，征服南洋諸國、確立印尼疆域的經過。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,9 +23,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">城堡時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">750木材／600食物／500黃金／350石礦</td>
+              <td class="tc2">
+                750<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >／600<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／500<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／350<nuxt-link to="/resource/Stone">石礦</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
             </tr>
@@ -38,14 +48,18 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家1</div></td>
-              <td class="tc6" colspan="3">馬來人（紅色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Malay">馬來人</nuxt-link>（紅色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p5">玩家5</div></td>
-              <td class="tc6">滿者伯夷移民（淺藍）馬來</td>
+              <td class="tc6">
+                滿者伯夷移民（淺藍）<nuxt-link to="/civs/Malay">馬來</nuxt-link>
+              </td>
               <td class="tc6"><div class="p6">玩家6</div></td>
               <td class="tc6">滿者伯夷移民（紫色）馬來</td>
             </tr>
@@ -63,7 +77,11 @@
               <td class="tc6"><div class="p4">玩家2</div></td>
               <td class="tc6">巽他王國（黃色）馬來</td>
               <td class="tc6"><div class="p3">玩家3</div></td>
-              <td class="tc6">達爾馬斯拉亞國（綠色）高棉</td>
+              <td class="tc6">
+                達爾馬斯拉亞國（綠色）<nuxt-link to="/civs/Khmer"
+                  >高棉</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家4</div></td>
@@ -72,8 +90,20 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 軍事單位 - 弩兵x5、矛象伕x2、僧侶x1</p>
-          <p>。 海軍單位 - 弩砲戰船x1、火戰船x2</p>
+          <p>
+            。 軍事單位 -
+            <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>x5、<nuxt-link
+              to="/units/Battle_Elephant"
+              >矛象伕</nuxt-link
+            >x2、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x1
+          </p>
+          <p>
+            。 <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
+            <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link>x1、<nuxt-link
+              to="/units/Fire_Ship"
+              >火戰船</nuxt-link
+            >x2
+          </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -94,7 +124,10 @@
                 因為人口有限，而且資源也不多。所以你最好運用防禦建築來協助你抵擋敵艦。
               </li>
               <li>
-                巽他王國不是一個好戰的國家，因此除非你先去攻打他們、或是侵占他們的領地。否則他們不會主動攻擊。因此，你可以先發展海軍對外征服，把巽他王國留到最後。
+                巽他王國不是一個好戰的國家，因此除非你先去攻打他們、或是侵占他們的領地。否則他們不會主動攻擊。因此，你可以先發展<nuxt-link
+                  to="/units/Naval_Vessels"
+                  >海軍</nuxt-link
+                >對外征服，把巽他王國留到最後。
               </li>
             </ul>
             <h2>斥候</h2>
@@ -102,19 +135,31 @@
             <div class="n1">
               <ul>
                 <li>
-                  滿者伯夷（你）和巽他王國分別統治著爪哇島的東西兩側。滿者伯夷和巽他王國世代互不侵犯，所以他們不會主動攻擊。但若是你想在擴張到其他島嶼之前先鞏固我方在爪哇島的地位的話，也是一個可行戰略。巽他王國以戰矛兵和騎士為主。
+                  滿者伯夷（你）和巽他王國分別統治著爪哇島的東西兩側。滿者伯夷和巽他王國世代互不侵犯，所以他們不會主動攻擊。但若是你想在擴張到其他島嶼之前先鞏固我方在爪哇島的地位的話，也是一個可行戰略。巽他王國以<nuxt-link
+                    to="/units/Elite_Skirmisher"
+                    >戰矛兵</nuxt-link
+                  >和<nuxt-link to="/units/Knight">騎士</nuxt-link>為主。
                 </li>
                 <li>
                   我們的殖民者（淺藍、紫色、灰色、橘色）會去登陸並殖民峇里島、蘇拉威西島和婆羅洲。這些小島資源豐富，位於我們的東邊和北邊。
                 </li>
                 <li>
-                  在爪哇島西邊的蘇門答臘島上，有一個達爾馬斯拉亞國（綠色），他有一支強勁的部隊，以劍士、弩兵、弩砲象、戰艦以及火戰船為主。達爾馬斯拉亞國對我們滿懷敵意，有可能會主動攻擊我們。
+                  在爪哇島西邊的蘇門答臘島上，有一個達爾馬斯拉亞國（綠色），他有一支強勁的部隊，以劍士、弩兵、<nuxt-link
+                    to="/units/Ballista_Elephant"
+                    >弩砲象</nuxt-link
+                  >、戰艦以及火戰船為主。達爾馬斯拉亞國對我們滿懷敵意，有可能會主動攻擊我們。
                 </li>
                 <li>
                   地圖上到處都有對你充滿敵意的流賊馬匪、無論是嘯聚山林的山賊海盜或是敵國散兵游勇，他們都想從你帶去給朱羅國王的財寶中分一杯羹。
                 </li>
                 <li>
-                  我們的北邊是馬來西亞，他和亞洲大陸接壤。島上面的淡馬錫城已經脫離了他們的宗主國，而獨立而成強大的新加坡城。他們和我們爭奪殖民南洋上的無主小島，所以在他們侵擾殖民地時也會主動攻擊我們。淡馬錫以強弩兵、劍兵勇士、重騎兵、火砲、戰艦、爆破船和炮艦為主。
+                  我們的北邊是馬來西亞，他和亞洲大陸接壤。島上面的淡馬錫城已經脫離了他們的宗主國，而獨立而成強大的新加坡城。他們和我們爭奪殖民南洋上的無主小島，所以在他們侵擾殖民地時也會主動攻擊我們。淡馬錫以<nuxt-link
+                    to="/units/Arbalest"
+                    >強弩兵</nuxt-link
+                  >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+                  >、重騎兵、<nuxt-link to="/units/Bombard_Cannon"
+                    >火砲</nuxt-link
+                  >、戰艦、爆破船和炮艦為主。
                 </li>
               </ul>
               <h2>細節</h2>
@@ -127,8 +172,10 @@
                     南婆羅洲／橘色 - 北婆羅洲。
                   </li>
                   <li>
-                    達爾馬斯拉亞國 -
-                    11世紀崛起於蘇門答臘西部的馬來印度教國家，民風剽悍以善戰出名，於13世紀衰弱。
+                    達爾馬斯拉亞國 - 11世紀崛起於蘇門答臘西部的馬來<nuxt-link
+                      to="/civs/Indians"
+                      >印度</nuxt-link
+                    >教國家，民風剽悍以善戰出名，於13世紀衰弱。
                   </li>
                   <li>巽他王國 - （669-1579）存在於西爪哇的古老政權。</li>
                   <li>淡馬錫 - （1299-1398）存在於新加坡的治權。</li>
@@ -164,16 +211,18 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">戰役</td>
+            <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Malay">馬來人</nuxt-link>
             </td>
@@ -187,7 +236,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">王者崛起第一章之三</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>第一章之三
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

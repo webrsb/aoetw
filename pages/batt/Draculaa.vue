@@ -12,16 +12,27 @@
               >15世紀中期的戰亂歷史鑄造了這位瓦拉幾亞統治者傳奇的一生。
               在與日漸壯大的奧斯曼帝國的鬥爭中他死守陣地豪不退讓，
               他血腥而殘忍的手段更讓他成為東歐最可怕的人。
-              他手下對他的忠誠和他對鮮血的渴望可以一直把土耳其人抵禦在國門之外嗎?</em
+              他手下對他的忠誠和他對鮮血的渴望可以一直把<nuxt-link
+                to="/civs/Turks"
+                >土耳其人</nuxt-link
+              >抵禦在國門之外嗎?</em
             >
             <p style="text-align: right;margin-top: 10px;">
               -遊戲中對於德古拉戰役的介紹
             </p>
           </div>
           <p>
-            德古拉是《世紀帝國 II HD:
-            失落的帝國》中的戰役，以同名的弗拉德三世命名。由於沒有和德古拉完美契合的文明，玩家在戰役中扮演三種不同的文明
-            - 土耳其人，馬扎爾人和斯拉夫人。
+            <b>德古拉</b>是《世紀帝國 II HD:
+            <nuxt-link to="/games/aof">失落的帝國</nuxt-link>》中的<nuxt-link
+              to="/batt"
+              >戰役</nuxt-link
+            >，以同名的弗拉德三世命名。由於沒有和德古拉完美契合的<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >，玩家在戰役中扮演三種不同的文明 - 土耳其人，<nuxt-link
+              to="/civs/Magyars"
+              >馬扎爾</nuxt-link
+            >人和<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link>。
           </p>
           <p>
             弗拉德德古拉三世，出身弗拉德（德拉庫列什家族的一個分支）家族，曾是瓦拉幾亞三度的統治者，第一次在1448年，然後是1456年至1462年，第三次是1476年。他在與弗拉迪斯拉夫二世（德拉庫列什家族的另一個分支）的戰鬥中成為掌權者，後來經常與奧斯曼帝國戰鬥。
@@ -93,11 +104,15 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">土耳其、馬扎爾、斯拉夫</td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>、馬扎爾、斯拉夫
+            </td>
           </tr>
           <tr>
             <td class="unit3">關卡</td>

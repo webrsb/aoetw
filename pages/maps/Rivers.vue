@@ -10,7 +10,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            河流與高原地形相似，有許多河流分開玩家，也有一些淺灘連接陸地。玩家可以築牆擋住淺灘處，不過仍需要堤防敵方偷渡村民或軍隊發動快攻。
+            <b>河流</b>與<nuxt-link to="/maps/Highland">高原</nuxt-link
+            >地形相似，有許多河流分開玩家，也有一些淺灘連接陸地。玩家可以築牆擋住淺灘處，不過仍需要堤防敵方偷渡<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >或軍隊發動快攻。
           </p>
         </div>
       </div>

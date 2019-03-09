@@ -8,9 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            松迪亞塔是個騎兵英雄，在"世界地國II:非洲王國"資料片中的戰役中出現，而且他一死遊戲就宣告失敗。
+            <b>松迪亞塔</b>是個<nuxt-link to="/units/Cavalry_Units"
+              >騎兵英雄</nuxt-link
+            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >"資料片中的<nuxt-link to="/batt">戰役</nuxt-link
+            >中出現，而且他一死遊戲就宣告失敗。
           </p>
-          <p>在遊戲中松迪亞塔的外型是輕騎兵。他不能被招降而且會自行回血。</p>
+          <p>
+            在遊戲中松迪亞塔的外型是<nuxt-link to="/units/Light_Cavalry"
+              >輕騎兵</nuxt-link
+            >。他不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+          </p>
         </div>
         <div></div>
         <div></div>
@@ -39,7 +48,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -52,7 +62,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">290</td>
           </tr>
           <tr>
@@ -61,32 +73,38 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對僧侶+10</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>+10
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">騎兵(+2)</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>(+2)
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.5</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

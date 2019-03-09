@@ -7,7 +7,10 @@
       </div>
       <div class="col-md-12">
         <div class="n1">
-          招降可轉換對方單位的控制權，需要使用僧侶或傳教士，非常耗費控制力但效果強大。
+          <b>招降</b>可轉換對方單位的控制權，需要使用<nuxt-link to="/units/Monk"
+            >僧侶</nuxt-link
+          >或<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+          >，非常耗費控制力但效果強大。
         </div>
         <h3>概要</h3>
         <div class="hrn1"></div>
@@ -16,29 +19,43 @@
             招降敵方的單位需要信仰，招降成功後信仰就會歸零，並重新緩慢的回復，如果信仰不足是不能招降的。
           </p>
           <p>
-            一般來說只有普通單位可以被招降，英雄、建築物與僧侶不能被招降，但一些文明可以透過研發<nuxt-link
-              to="/techs/Redemption"
-              >信仰救贖</nuxt-link
+            一般來說只有普通單位可以被招降，<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
+            >、<nuxt-link to="/building">建築物</nuxt-link
+            >與僧侶不能被招降，但一些<nuxt-link to="/civs">文明</nuxt-link
+            >可以透過研發<nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link
             >或是 <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>來改善。
           </p>
           <p>
-            透過招降，可以獲得自己文明沒有的單位，例如南美文明可以有騎兵或火砲。招降也可以突破人口最大限制。
+            透過招降，可以獲得自己文明沒有的單位，例如南美文明可以有<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >或<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >。招降也可以突破人口最大限制。
           </p>
         </div>
         <h3>策略</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            西班牙透過研發<nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
-            >可以更快的招降敵人，而條頓與他的朋友則是更難被招降。
+            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>透過研發<nuxt-link
+              to="/techs/Inquisition"
+              >異端審判</nuxt-link
+            >可以更快的招降敵人，而<nuxt-link to="/civs/Teutons">條頓</nuxt-link
+            >與他的朋友則是更難被招降。
           </p>
-          <p>修道院有幾項科技可以提高招降的機會</p>
+          <p>
+            <nuxt-link to="/building/Monastery">修道院</nuxt-link
+            >有幾項<nuxt-link to="/techs">科技</nuxt-link>可以提高招降的機會
+          </p>
           <ul>
             <li>
               <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
                 to="/techs/Redemption"
                 >信仰救贖</nuxt-link
-              >:僧侶可招降大部分建築物和攻城單位。
+              >:僧侶可招降大部分建築物和<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >。
             </li>
             <li>
               <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
@@ -85,8 +102,8 @@
               換句話說僧侶需要4～10個CI來招降一個單位，需要15～25個CI來招降一棟建築物。
             </li>
             <li>
-              西班牙的特殊科技<nuxt-link to="/techs/Inquisition"
-                >異端審判</nuxt-link
+              西班牙的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Inquisition">異端審判</nuxt-link
               >減少一個最小CI，也就是說第三下即有法力。
             </li>
           </ul>
@@ -94,10 +111,14 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              所有單位一開始是level 0，除了斥候跟鷹勇士起始是level
-              8。建築物起始是level 3。從level
+              所有單位一開始是level 0，除了<nuxt-link to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
+              >跟<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >起始是level 8。建築物起始是level 3。從level
               2開始，每個CI會有(28/n)%的機率招降成功，n是level值。單位不一定要到最大CI值才會被招降。從起始的最大CI開始，招降機率從0.28/n到10/n。level
-              10以下的單位都能被招降，但有忠誠信仰的斥候跟鷹勇被招降的機率很低。如果他們還跟條頓同盟，他們不只有很高的機率達到最大CI，而且在被招降前隨機存活1-2個CI。
+              10以下的單位都能被招降，但有<nuxt-link to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >的斥候跟鷹勇被招降的機率很低。如果他們還跟條頓同盟，他們不只有很高的機率達到最大CI，而且在被招降前隨機存活1-2個CI。
             </p>
             單位
             <ul>
@@ -133,7 +154,7 @@
                 >：增加2~4個CI，跟增加兩個level，也就是說需要6～10個CI才有法力。
               </li>
             </ul>
-            團隊加分
+            <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>
             <ul>
               <li>條頓的同盟加分增加了1~2個CI，跟增加3個level。</li>
             </ul>

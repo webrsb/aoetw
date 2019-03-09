@@ -8,8 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>阿拉伯騎士</b
-            >為沙拉丁戰役的第一關劇情關卡，此關描述沙拉丁率領軍隊逐出在埃及的法國十字軍。
+            <b>阿拉伯騎士</b>為<nuxt-link to="/batt/Saladina"
+              >沙拉丁戰役</nuxt-link
+            >的第一關劇情關卡，此關描述<nuxt-link to="/units/hero/Saladin"
+              >沙拉丁</nuxt-link
+            >率領軍隊逐出在埃及的法國十字軍。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +22,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">城堡時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">1,000木頭，1,000食物，1,000黃金，1,000石頭</td>
+              <td class="tc2">
+                1,000<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，1,000<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -38,21 +48,28 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p3">玩家1</div></td>
-              <td class="tc6" colspan="3">薩拉森人（綠色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>（綠色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
-              <td class="tc6" colspan="3">埃及人（紅色）薩拉森</td>
+              <td class="tc6" colspan="3">
+                埃及人（紅色）<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p1">玩家3</div></td>
-              <td class="tc6" width="38%">西法蘭克人（藍色）法蘭克</td>
+              <td class="tc6" width="38%">
+                西<nuxt-link to="/civs/Franks">法蘭克人</nuxt-link
+                >（藍色）法蘭克
+              </td>
               <td class="tc6" width="12%"><div class="p5">玩家4</div></td>
               <td class="tc6" width="38%">東法蘭克人（藍綠色）法蘭克</td>
             </tr>
@@ -62,10 +79,19 @@
           <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
-              16位輕騎兵、12位駱駝騎兵、2位阿拉伯奴隸兵、12位裝甲步兵、2台重型弩砲。
+              16位<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、12位<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >、2位<nuxt-link to="/units/Mameluke">阿拉伯奴隸兵</nuxt-link
+              >、12位<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
+              >、2台<nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>。
             </dd>
             <dt>大地之母單位：</dt>
-            <dd>2位駱駝騎兵、6位馬弓騎兵，1艘火砲戰船，1台重型衝撞車</dd>
+            <dd>
+              2位駱駝騎兵、6位<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >，1艘<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+              >，1台<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>
+            </dd>
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
@@ -73,7 +99,12 @@
             <ol>
               <li>讓你的士兵到開羅的清真寺。</li>
               <li>打敗在開羅的西法蘭克人。</li>
-              <li>要打敗開羅的西法蘭克人，可先破壞他們的城鎮中心。</li>
+              <li>
+                要打敗開羅的西法蘭克人，可先破壞他們的<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
+                >。
+              </li>
             </ol>
           </div>
         </div>
@@ -115,13 +146,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">戰役</td>
+            <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>
             </td>
@@ -135,7 +166,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第三章之一</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第三章之一
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

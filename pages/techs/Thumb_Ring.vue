@@ -8,11 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            拇指環於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>拇指環</b>於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-            >研發。研發後所有弓箭手都能更快的以100%命中靜止目標。另一科技<nuxt-link
-              to="/techs/Ballistics"
-              >彈道學</nuxt-link
+            >研發。研發後所有<nuxt-link to="/units/Archer_Units"
+              >弓箭手</nuxt-link
+            >都能更快的以100%命中靜止目標。另一<nuxt-link to="/techs"
+              >科技</nuxt-link
+            ><nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
             >則是針對移動目標。
           </p>
         </div>
@@ -78,11 +81,15 @@
         <h3>受影響的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>下面列出所有受拇指環影響的單位，(不列顛沒有拇指環)。</p>
+          <p>
+            下面列出所有受拇指環影響的單位，(<nuxt-link to="/civs/Britons"
+              >不列顛</nuxt-link
+            >沒有拇指環)。
+          </p>
         </div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
-            <td>弓箭手單位</td>
+            <td><nuxt-link to="/units/Archer_Units">弓箭手單位</nuxt-link></td>
             <td>增加射擊速度</td>
             <td>準確度提高</td>
           </tr>
@@ -245,8 +252,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -267,10 +277,10 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Incas">印加</nuxt-link>:科技樹沒有<nuxt-link
-                to="/techs/Thumb_Ring"
-                >拇指環</nuxt-link
-              >。
+              <nuxt-link to="/civs/Incas">印加</nuxt-link>:<nuxt-link
+                to="/tree/vie"
+                >科技樹</nuxt-link
+              >沒有<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>。
             </li>
           </ul>
           <h3>
@@ -290,10 +300,14 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"中世紀典型的弓箭手將弓弦拉回至胸前再放開進行射擊，不列顛長弓兵則有能力拉回到他們的臉頰，增加了射擊的力量和距離，亞洲的弓箭手則製作了拇指環，讓他們能拉到耳朵或耳朵之後，當他們把非常強大的複合弓加入這個改進時，他們的武器能在戰場上有效殲滅敵人。"</em
+              >"中世紀典型的弓箭手將弓弦拉回至胸前再放開進行射擊，<nuxt-link
+                to="/units/Longbowman"
+                >不列顛長弓兵</nuxt-link
+              >則有能力拉回到他們的臉頰，增加了射擊的力量和距離，亞洲的弓箭手則製作了拇指環，讓他們能拉到耳朵或耳朵之後，當他們把非常強大的複合弓加入這個改進時，他們的武器能在戰場上有效殲滅敵人。"</em
             >
             <p style="text-align: right;margin-top: 10px;">
-              -《世紀帝國II:征服者入侵》手稿。
+              -<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵》</nuxt-link
+              >手稿。
             </p>
           </div>
         </div>
@@ -320,7 +334,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>

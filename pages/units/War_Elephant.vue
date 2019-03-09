@@ -8,16 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            戰象是<nuxt-link to="/civs/Persians">波斯</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>戰象</b>是<nuxt-link to="/civs/Persians">波斯</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的 <nuxt-link to="/building/Castle">城堡</nuxt-link>中訓練。
           </p>
           <p>
-            戰象是一個緩慢但是破壞力強大的單位，兵種分類上屬於騎兵，對<nuxt-link
-              to="/building"
-              >建築物</nuxt-link
-            >享有攻擊加成。且戰象能夠造成踐踏傷害(戰鬥時對周圍單位造成傷害)。
+            戰象是一個緩慢但是破壞力強大的單位，兵種分類上屬於<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >，對<nuxt-link to="/building">建築物</nuxt-link
+            >享有攻擊加成。且戰象能夠造成<nuxt-link
+              to="/elements/Area_of_Effect"
+              >踐踏傷害</nuxt-link
+            >(戰鬥時對周圍單位造成傷害)。
           </p>
           <p>
             同樣的成本下，戰象甚至可以戰勝<nuxt-link to="/units/Paladin"
@@ -27,7 +31,7 @@
           <p>
             戰象可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳戰象。
+            >升級為<nuxt-link to="/units/War_Elephant">精銳戰象</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -35,7 +39,9 @@
         <div class="n1">
           <ul>
             <li>
-              戰象非常強悍，但是速度也很慢，遠程作戰單位容易對它們造成更多傷害。
+              戰象非常強悍，但是速度也很慢，<nuxt-link to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >作戰單位容易對它們造成更多傷害。
               戰象在遊戲中的分類為騎兵，這使的它們對付<nuxt-link
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
@@ -52,7 +58,8 @@
               >也能對分類為騎兵的戰象造成加成傷害(+9，+18)
             </li>
             <li>
-              縱然遠程單位能夠輕易地遠離戰象，但是與其他部隊配合時，戰象是很好的肉盾。
+              縱然<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+              >能夠輕易地遠離戰象，但是與其他部隊配合時，戰象是很好的肉盾。
             </li>
             <li>
               <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
@@ -62,7 +69,10 @@
             ，但是仍有+28，+32的傷害，且他們能夠隔著牆傷害戰象。
             <li>
               <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
-              >對於戰象有加成傷害(+8，+12)，大量的熱那亞弩手將輕易地摧毀戰象。
+              >對於戰象有加成傷害(+8，+12)，大量的<nuxt-link
+                to="/units/Genoese_Crossbowman"
+                >熱那亞弩手</nuxt-link
+              >將輕易地摧毀戰象。
             </li>
             <li>
               <nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
@@ -74,17 +84,28 @@
             </li>
             <li>
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link
-              >系無視防禦且攻擊力極高，並且造成範圍傷害，碰到大量投石車請讓戰象散開。
+              >系無視防禦且<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >極高，並且造成範圍傷害，碰到大量<nuxt-link to="/units/Mangonel"
+                >投石車</nuxt-link
+              >請讓戰象散開。
             </li>
             <li>
               <nuxt-link to="/units/Monk">僧侶</nuxt-link
-              >一直都是戰象的剋星，波斯無法研發<nuxt-link to="/techs/Heresy"
-                >異端邪說</nuxt-link
-              >，且大多數時間戰象集體行動，遭到敵方招降的戰象將對周圍部隊造成踐踏傷害，這就是為甚麼少量的僧侶便能摧毀大量的戰象部隊。
+              >一直都是戰象的剋星，<nuxt-link to="/civs/Persians"
+                >波斯</nuxt-link
+              >無法研發<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
+              >，且大多數時間戰象集體行動，遭到敵方<nuxt-link
+                to="/elements/Conversion"
+                >招降</nuxt-link
+              >的戰象將對周圍部隊造成踐踏傷害，這就是為甚麼少量的<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >便能摧毀大量的戰象部隊。
             </li>
             <li>
               由於造成踐踏傷害，進入白刃戰時，請盡量讓戰象被敵方單位包圍形成混戰。
-              因為超高的生命值與傷害，使的戰象在面對除了上述少數單位外，大部分都能有很好的效果。但在實戰中，遇到成群的戰象，只有僧侶能有效阻止而已。
+              因為超高的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+              >與傷害，使的戰象在面對除了上述少數單位外，大部分都能有很好的效果。但在實戰中，遇到成群的戰象，只有僧侶能有效阻止而已。
             </li>
           </ul>
         </div>
@@ -307,9 +328,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -583,22 +604,28 @@
               >擁有更多生命值。
             </li>
             <li>
-              最高級的精銳戰象擁有24的攻擊力，是除了攻城武器與火藥單位外最高的。
+              最高級的精銳戰象擁有24的攻擊力，是除了<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >與<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              >外最高的。
             </li>
             <li>這頭大象聽得懂人話，不需要象夫！</li>
             <li>
               比上述更神奇，這頭大象還有信仰，還會改宗其他宗教，聽得懂僧侶的教誨。
             </li>
             <li>
-              歷史上的波斯帝國，在遊戲戰役的<nuxt-link
-                to="/units/hero/Genghis_Khan"
-                >成吉思汗</nuxt-link
+              歷史上的波斯帝國，在遊戲<nuxt-link to="/batt">戰役</nuxt-link
+              >的<nuxt-link to="/units/hero/Genghis_Khan">成吉思汗</nuxt-link
               >，<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link>，以及
               <nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link
               >所處的時代，皆沒有使用戰象部隊。(然而遊戲裡有，請睜隻眼閉隻眼)
             </li>
             <li>
-              世紀帝國II內建的歷史頁面介紹到:波斯人從印度人手上取得戰象，然而遊戲內的3D模組似乎是隻非洲象(它們都有一對超大的耳朵！)。
+              世紀帝國II內建的歷史頁面介紹到:<nuxt-link to="/civs/Persians"
+                >波斯人</nuxt-link
+              >從<nuxt-link to="/civs/Indians">印度人</nuxt-link
+              >手上取得戰象，然而遊戲內的3D模組似乎是隻非洲象(它們都有一對超大的耳朵！)。
             </li>
           </ul>
         </div>
@@ -606,7 +633,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            中東最後一個僱用戰象的文明是波斯，他們從印度得到了大象。戰象是對敵軍的有力部隊，特別是對沒有碰過他們的軍隊。他們非常難以殺死，但仍難以控制。
+            中東最後一個僱用戰象的<nuxt-link to="/civs">文明</nuxt-link
+            >是波斯，他們從<nuxt-link to="/civs/Indians">印度</nuxt-link
+            >得到了大象。戰象是對敵軍的有力部隊，特別是對沒有碰過他們的軍隊。他們非常難以殺死，但仍難以控制。
             如果他們能夠被引導到敵方陣型中，敵軍幾乎總是陷於混亂狀態甚至被踐踏而死。
           </p>
         </div>
@@ -683,11 +712,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>
@@ -700,7 +733,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">450/600(精銳)</td>
           </tr>
           <tr>
@@ -721,7 +756,9 @@
             <td class="unit4">0.5</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -729,15 +766,15 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2/3(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">裝甲類型</td>
+            <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link>
               <br />
@@ -753,7 +790,7 @@
             <td class="unit4">0.6</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4/5(精銳)</td>
           </tr>
           <tr>
@@ -806,7 +843,13 @@
                 src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png"
                 alt=""
             /></gallery>
-            <p><em>一隻精銳戰象可以輕易地擊敗100個村民</em></p>
+            <p>
+              <em
+                >一隻精銳戰象可以輕易地擊敗100個<nuxt-link to="/units/Villager"
+                  >村民</nuxt-link
+                ></em
+              >
+            </p>
           </div>
         </div>
       </div>

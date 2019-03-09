@@ -8,7 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            匈牙利輕騎兵或稱翼騎兵，是帝王時代兵種，可訓練於馬廄，對僧侶、遠程兵種、攻城武器有額外的加成。因為只需要肉即可生產，在華人圈俗稱肉馬。
+            <b>匈牙利輕騎兵</b>或稱<nuxt-link to="/units/Hussar"
+              >翼騎兵</nuxt-link
+            >，是<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
+            >，對<nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link
+            >、<nuxt-link to="/armor/Armor_Class_Archer">遠程兵種</nuxt-link
+            >、<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+              >攻城武器</nuxt-link
+            >有額外的加成。因為只需要肉即可生產，在華人圈俗稱<nuxt-link
+              to="/units/Scout_Cavalry"
+              >肉馬</nuxt-link
+            >。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -77,10 +88,15 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          匈牙利輕騎兵可用於偷襲對手家裡、貿易車隊以及攻城武器和僧侶給予敵人經濟上的打擊。帝王時代初期<nuxt-link
+          匈牙利輕騎兵可用於偷襲對手家裡、<nuxt-link to="/units/Trade_Cart"
+            >貿易車隊</nuxt-link
+          >以及攻城武器和僧侶給予敵人經濟上的打擊。帝王時代初期<nuxt-link
             to="/civs/Turks"
             >土耳其</nuxt-link
-          >的匈牙利輕騎兵免費升級。當打到大後期時，匈牙利輕騎兵因不需要黃金則有重要的戰略意義，此時沒有匈牙利輕騎兵的國家劣勢會因此浮現出來。
+          >的匈牙利輕騎兵免費升級。當打到大後期時，匈牙利輕騎兵因不需要<nuxt-link
+            to="/resource/Gold"
+            >黃金</nuxt-link
+          >則有重要的戰略意義，此時沒有匈牙利輕騎兵的國家劣勢會因此浮現出來。
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -94,8 +110,10 @@
           <tr>
             <td class="tta1" style="width:30%">強勢(容易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link
-              >，攻城器單位。
+              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>，<nuxt-link
+                to="/armor/Armor_Class_Siege_Weapon"
+                >攻城器單位</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
@@ -117,7 +135,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/ScoutCavalryIcon.jpg" alt="" />
               <nuxt-link to="/units/Scout_Cavalry">斥候→</nuxt-link>
@@ -134,7 +154,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -158,7 +180,9 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Manipur_Cavalry"
                 >曼尼普爾騎兵</nuxt-link
-              >:騎兵對建築物攻擊+3。
+              >:<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊+3。
             </td>
           </tr>
           <tr>
@@ -265,9 +289,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -395,7 +419,9 @@
               </div>
             </div>
           </div>
-          以下技術可讓以下單位對斥候有額外攻擊力
+          以下技術可讓以下單位對<nuxt-link to="/units/Scout_Cavalry"
+            >斥候</nuxt-link
+          >有額外攻擊力
           <div class="n1">
             <img
               class="gg"
@@ -467,23 +493,34 @@
               >：匈牙利輕騎兵便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：忠誠信仰便宜50%。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
+              >：只要在一個塞爾特單位的<nuxt-link to="/los.php">視野</nuxt-link
+              >下，羊群不會被牽走
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠升級科技免黃金
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級<nuxt-link to="/techs">科技</nuxt-link>免黃金
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-              >：免費鍛造.鑄鐵.鼓風爐科技，匈牙利輕騎兵系生產便宜15%
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
+                to="/techs/Forging"
+                >鍛造</nuxt-link
+              >.鑄鐵.<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
+              >科技，匈牙利輕騎兵系生產便宜15%
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-              >：匈牙利輕騎兵血量多30%。
+              >：匈牙利輕騎兵<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >多30%。
             </li>
           </ul>
         </div>
@@ -555,7 +592,11 @@
         <div class="n1">
           <ul>
             <li>
-              一旦到了封建時代，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的輕騎兵或匈牙利輕騎兵更快。
+              一旦到了<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+              >，斥候獲得+0.35的速度，變成最快的單位，甚至比後來升級的<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >或匈牙利輕騎兵更快。
             </li>
             <li>
               歷史上的匈牙利輕騎兵在實戰中是不會裝飾羽毛的，唯有在閱兵時才會插上裝飾用的羽毛。
@@ -608,7 +649,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>
@@ -643,7 +684,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
@@ -670,7 +713,7 @@
             <td class="unit4">1.93</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>

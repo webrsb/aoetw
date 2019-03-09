@@ -8,12 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            板屋船是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>板屋船</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後龜甲船移動快15%。
+            >研發。研發後<nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
+            >移動快15%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -30,7 +30,9 @@
               <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
               >，在海岸邊轟炸的龜甲船很容易就被<nuxt-link to="/units/Monk"
                 >僧侶</nuxt-link
-              >召走，板屋船可讓龜甲船看到僧侶時快速遠離岸邊減少部隊損失。
+              >召走，板屋船可讓龜甲船看到<nuxt-link to="/units/Monk"
+                >僧侶</nuxt-link
+              >時快速遠離岸邊減少部隊損失。
             </li>
           </ul>
         </div>
@@ -66,7 +68,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            板屋船（韓語：판옥선）是16世紀後期韓國朝鮮王朝使用的主要艦艇類型的槳式和帆式推進船。第一艘船是在1555年建造的。它是一艘由堅固的松木製成的船，並且在1592年開始的臨津戰爭期間在對上數量上領先的日本海軍中發揮了重要作用並取得勝利。海軍中將Yi
+            板屋船（韓語：판옥선）是16世紀後期<nuxt-link to="/civs/Koreans"
+              >韓國</nuxt-link
+            >朝鮮王朝使用的主要艦艇類型的槳式和帆式推進船。第一艘船是在1555年建造的。它是一艘由堅固的松木製成的船，並且在1592年開始的臨津戰爭期間在對上數量上領先的<nuxt-link
+              to="/civs/Japanese"
+              >日本</nuxt-link
+            ><nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
+            >中發揮了重要作用並取得勝利。海軍中將Yi
             Sunshin（1545-98）率領的朝鮮海軍在戰爭期間將板屋船與龜甲船一起使用，並獲得巨大成功。
           </p>
         </div>
@@ -93,7 +101,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
             </td>
@@ -127,11 +135,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

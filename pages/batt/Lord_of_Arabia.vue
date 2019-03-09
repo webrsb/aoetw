@@ -9,8 +9,12 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>阿拉伯之主</b
-            >為沙拉丁戰役的第二關劇情關卡，此關描述法國十字軍騎士沙底隆的雷諾襲擊紅海的戰役。
+            <b>阿拉伯之主</b>為<nuxt-link to="/batt/Saladina"
+              >沙拉丁戰役</nuxt-link
+            >的第二關劇情關卡，此關描述法國十字軍騎士<nuxt-link
+              to="/units/hero/Reynald_de_Chatillon"
+              >沙底隆的雷諾</nuxt-link
+            >襲擊紅海的<nuxt-link to="/batt">戰役</nuxt-link>。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,9 +24,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">封建時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">200木頭，500食物，200黃金，100石頭</td>
+              <td class="tc2">
+                200<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，500<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，100<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -39,7 +50,9 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p3">玩家1</div></td>
-              <td class="tc6" colspan="3">薩拉森人（綠色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>（綠色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
@@ -55,7 +68,11 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家4</div></td>
-              <td class="tc6">雷諾的海盜（藍色）法蘭克</td>
+              <td class="tc6">
+                雷諾的海盜（藍色）<nuxt-link to="/civs/Franks"
+                  >法蘭克</nuxt-link
+                >
+              </td>
               <td class="tc6"><div class="p5">玩家5</div></td>
               <td class="tc6">雷諾的武士（藍綠色）法蘭克</td>
             </tr>
@@ -68,7 +85,11 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場：</dt>
-            <dd>4位駱駝騎兵、3位村民、3位輕騎兵。</dd>
+            <dd>
+              4位<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >、3位<nuxt-link to="/units/Villager">村民</nuxt-link
+              >、3位<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
+            </dd>
             <dt>大地之母單位：</dt>
             <dd>無。</dd>
           </dl>
@@ -77,7 +98,10 @@
           <div class="n1">
             <ol>
               <li>
-                要打敗雷諾的武士、強盜、和海盜，以防止他們破壞你同盟的城鎮中心。
+                要打敗雷諾的武士、強盜、和海盜，以防止他們破壞你同盟的<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
+                >。
               </li>
               <li>不能讓阿魁巴和麥地那這兩個盟友被打敗。</li>
             </ol>
@@ -89,7 +113,10 @@
           <ul>
             <li>薩拉森首都已經所剩無幾了。你必須建立自己的基地與軍隊。</li>
             <li>
-              保持你與同盟國之間的貿易路線暢通，他們將會酬謝你。並指派單位去護衛同盟國的貿易車隊。
+              保持你與同盟國之間的貿易路線暢通，他們將會酬謝你。並指派單位去護衛同盟國的<nuxt-link
+                to="/units/Trade_Cart"
+                >貿易車隊</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -128,7 +155,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>
             </td>
@@ -142,7 +169,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第三章之二</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第三章之二
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

@@ -8,23 +8,39 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            重型弩砲戰船在<nuxt-link to="/techs/age/Imperial_Age"
+            <b>重型弩砲戰船</b>在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >時可以在碼頭中被訓練。重型弩砲戰船是海戰的主要輸出，大多數文明都能訓練重型弩砲戰船，但這時數量就很重要了，數量夠多就能夠掌控海上形勢，並能夠快速地殲滅敵方船艦、碼頭，但注意的是重型弩砲戰船很被
+            >時可以在<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >中被訓練。重型弩砲戰船是海戰的主要輸出，大多數<nuxt-link to="/civs"
+              >文明</nuxt-link
+            >都能訓練重型弩砲戰船，但這時數量就很重要了，數量夠多就能夠掌控海上形勢，並能夠快速地殲滅敵方<nuxt-link
+              to="/units/Naval_Vessels"
+              >船艦</nuxt-link
+            >、碼頭，但注意的是重型弩砲戰船很被
             <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>克制。
           </p>
-          <p><strong>不可生產文明：</strong>阿茲特克</p>
+          <p>
+            <strong>不可生產文明：</strong
+            ><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
+          </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            弩砲戰船在任何海戰中都扮演要角的地位，在好的操作之下弩砲戰船、重型弩砲戰船通常能有效的處理<nuxt-link
+            <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+            >在任何海戰中都扮演要角的地位，在好的操作之下弩砲戰船、重型弩砲戰船通常能有效的處理<nuxt-link
               to="/units/Demolition_Ship"
               >神風船</nuxt-link
             >以及
             <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-            >。除了防禦箭塔、城堡、攻城器具以外，他們還可以用來攻擊敵方海岸邊的建築、敵人。在大多數情況下，弩砲戰船是會與<nuxt-link
+            >。除了<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
+            >、<nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城器</nuxt-link
+            >具以外，他們還可以用來攻擊敵方海岸邊的<nuxt-link to="/building"
+              >建築</nuxt-link
+            >、敵人。在大多數情況下，弩砲戰船是會與<nuxt-link
               to="/units/Fire_Ship"
               >火戰船</nuxt-link
             >配合，一個打近的一個打遠的，並且對
@@ -33,7 +49,9 @@
           </p>
           <p>
             弩砲戰船最主要是被<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-            >克制，但在大部分情況下神風船也嚴重地克制弩砲戰船。
+            >克制，但在大部分情況下<nuxt-link to="/units/Demolition_Ship"
+              >神風船</nuxt-link
+            >也嚴重地克制弩砲戰船。
             <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>、<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
@@ -42,9 +60,9 @@
             >、 <nuxt-link to="/units/Onager">中型投石車</nuxt-link>、<nuxt-link
               to="/units/Bombard_Cannon"
               >火砲</nuxt-link
-            >也會對艦隊造成毀滅性打擊。
-            <br />另外，僧侶也是一大威脅，特別是沒有研發<nuxt-link
-              to="/techs/Faith"
+            >也會對艦隊造成毀滅性打擊。 <br />另外，<nuxt-link to="/units/Monk"
+              >僧侶</nuxt-link
+            >也是一大威脅，特別是沒有研發<nuxt-link to="/techs/Faith"
               >忠誠信仰</nuxt-link
             >
           </p>
@@ -65,7 +83,8 @@
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>、
               <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
-              >、在岸邊的建築物和近戰單位。
+              >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
+              >和近戰單位。
             </td>
           </tr>
           <tr>
@@ -75,9 +94,13 @@
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >、
-              <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
-              >、箭塔、<nuxt-link to="/building/Castle">城堡</nuxt-link
-              >、在岸邊的攻城器單位。
+              <nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>、<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >、<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >、在岸邊的<nuxt-link to="/units/Siege_Weapons"
+                >攻城器單位</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -86,7 +109,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -183,7 +208,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -568,12 +595,15 @@
               >便宜50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：在視野內的動物不會被轉化
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >內的動物不會被轉化
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於重型弩砲戰船的科技在帝王便宜20％
+              >：有利於重型弩砲戰船的<nuxt-link to="/techs">科技</nuxt-link
+              >在帝王便宜20％
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -594,15 +624,21 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：重型戰船訓練減少15%黃金成本，重型弩砲戰船+10％HP。
+              >：重型<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
+              >訓練減少15%<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本，重型弩砲戰船+10％HP。
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：重型弩砲戰船攻擊速度提高25%。
+              >：重型弩砲戰船<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >提高25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：在兵工廠升級有利於重型弩砲戰船的科技不消耗黃金。
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：在<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級有利於重型弩砲戰船的科技不消耗黃金。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -612,7 +648,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：重型弩砲戰船在帝王時代便宜20%。
+              >：重型弩砲戰船在<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >便宜20%。
             </li>
           </ul>
         </div>
@@ -646,7 +684,7 @@
           <ul>
             <li>
               <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
-              >減少20%船隻木材成本。
+              >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
           </ul>
           <h3>
@@ -666,10 +704,18 @@
         <div class="n1">
           <ul>
             <li>
-              事實上火砲戰船應該比較適合代表重型弩砲戰船。對重型弩砲戰船更加準確的名字應該是卡拉維爾帆船，後來把卡拉唯爾帆船這個名字給了葡萄牙人成為他們的特殊單位。
+              事實上<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+              >應該比較適合代表重型弩砲戰船。對重型弩砲戰船更加準確的名字應該是卡拉維爾帆船，後來把卡拉唯爾帆船這個名字給了<nuxt-link
+                to="/civs/Portuguese"
+                >葡萄牙人</nuxt-link
+              >成為他們的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+              >。
             </li>
             <li>
-              一開始在世紀帝國資料片中重型弩砲戰船在攻擊時會發出跟弩砲一樣的"whoosh"的聲音；不過在征服者入侵資料片後因為遺失了該音源檔所以就再也聽不到這個聲音了。
+              一開始在世紀帝國資料片中重型弩砲戰船在攻擊時會發出跟弩砲一樣的"whoosh"的聲音；不過在<nuxt-link
+                to="/games/aoc"
+                >征服者入侵</nuxt-link
+              >資料片後因為遺失了該音源檔所以就再也聽不到這個聲音了。
             </li>
             <li>
               弩砲戰船會對作弊單位中的<nuxt-link to="/units/hero/Saboteur"
@@ -684,7 +730,13 @@
         <div class="n1">
           <div class="ien">
             <p>
-              重型弩砲戰船是一艘用於戰爭的帆船，是在西方事件使用大砲之前使用過最大的戰鬥船。這艘龐大而堅固的艦載有大批戰鬥人員，可能還有一些較重的攻城火砲。船員會試圖在戰鬥中登上敵方船隻並試圖奪取該船艦。彈射器或弩弓提供額外的火力。
+              重型弩砲戰船是一艘用於戰爭的帆船，是在西方事件使用大砲之前使用過最大的戰鬥船。這艘龐大而堅固的艦載有大批戰鬥人員，可能還有一些較重的攻城<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >。船員會試圖在戰鬥中登上敵方船隻並試圖奪取該船艦。<nuxt-link
+                to="/techs/Kataparuto"
+                >彈射器</nuxt-link
+              >或弩弓提供額外的火力。
             </p>
           </div>
         </div>
@@ -764,7 +816,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">165</td>
           </tr>
           <tr>
@@ -784,11 +838,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">3.05秒/次</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -804,15 +862,15 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">8</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
             </td>

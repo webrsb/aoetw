@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            銀行制度可以在<nuxt-link to="/techs/age/Castle_Age"
+            <b>銀行制度</b>可以在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >時在<nuxt-link to="/building/Market">市集</nuxt-link
-            >研發，前置科技為
+            >研發，前置<nuxt-link to="/techs">科技</nuxt-link>為
             <nuxt-link to="/techs/Coinage">鑄幣術</nuxt-link>。
             研究完成後它將免除所有<nuxt-link to="/Tribute.php">進貢費</nuxt-link
             >，在與玩家交換或發送資源時就無需再支付其他費用。
@@ -27,7 +27,10 @@
           <ul>
             <li>成本為200F/100G</li>
             <li>需要50秒的研發時間</li>
-            <li>城堡時代就可以研發</li>
+            <li>
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >就可以研發
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
@@ -40,14 +43,22 @@
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>5.8版後，帝王時代才能研發</li>
+            <li>
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後，<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >才能研發
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >在中古世紀的歐洲，利息與高利貸長期被西方教會所禁止，但事實證明這會阻礙經濟的發展。但通過一些小手段可以避免這種宗教法律上的約束，提供這種借貸的人通常是非基督教的，像是猶太人。而一些孔急用錢的王侯貴族常常利用屠殺或是迫害這些猶太商人來清償大筆的債務。而隨著宗教與政治氣氛的改變，特別在義大利的一些商業城市，逐漸的許多商業銀行如雨後村筍般的成立。</em
+            >在中古世紀的歐洲，利息與高利貸長期被西方教會所禁止，但事實證明這會阻礙經濟的發展。但通過一些小手段可以避免這種宗教法律上的約束，提供這種借貸的人通常是非基督教的，像是猶太人。而一些孔急用錢的王侯貴族常常利用屠殺或是迫害這些猶太商人來清償大筆的債務。而隨著宗教與政治氣氛的改變，特別在<nuxt-link
+              to="/civs/Italians"
+              >義大利</nuxt-link
+            >的一些商業城市，逐漸的許多商業銀行如雨後村筍般的成立。</em
           >
         </div>
       </div>
@@ -73,7 +84,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -111,7 +122,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

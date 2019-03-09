@@ -8,14 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            掠奪者是<nuxt-link to="/civs/Huns">匈奴</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>掠奪者</b>是<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
             >可在<nuxt-link to="/building/Stable">馬廄</nuxt-link
-            >訓練。因為馬廄比城堡便宜，可在短時間內生產大量的韃靼騎兵。
+            >訓練。因為<nuxt-link to="/building/Stable">馬廄</nuxt-link
+            >比<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >便宜，可在短時間內生產大量的<nuxt-link to="/units/Tarkan"
+              >韃靼騎兵</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -23,7 +26,10 @@
         <div class="n1">
           <ul>
             <li>
-              掠奪者的研發時機十分微妙，因為很少會有需要大量韃靼騎兵上場的時候。只有要攻破敵方城門才有可能，但這樣的數量只要城堡生產就足夠了。除非玩家希望生產更多的韃靼騎兵或是石材存量不足而玩家想在對方城鎮旁邊訓練韃靼騎兵做突襲，才會研發掠奪者。否則大部分情況都不會研發。
+              掠奪者的研發時機十分微妙，因為很少會有需要大量韃靼騎兵上場的時候。只有要攻破敵方<nuxt-link
+                to="/building/Gate"
+                >城門</nuxt-link
+              >才有可能，但這樣的數量只要城堡生產就足夠了。除非玩家希望生產更多的韃靼騎兵或是石材存量不足而玩家想在對方城鎮旁邊訓練韃靼騎兵做突襲，才會研發掠奪者。否則大部分情況都不會研發。
             </li>
           </ul>
         </div>
@@ -78,7 +84,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Huns">匈奴</nuxt-link></td>
           </tr>
           <tr>
@@ -110,11 +116,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>

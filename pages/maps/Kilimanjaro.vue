@@ -10,7 +10,19 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            玩家從一個沒有特色的大草原開始，樹木很少，就像大多數非洲地圖一樣。樹木是典型的相思樹，原產於非洲大部分地區。地圖上有一些池塘但裡面沒有任何魚類可捕。除此之外，該地區還有大量的金礦和石礦。地圖上有斑馬/鴕鳥和大象可供獵食，還有一些山羊可以放牧。吉力馬札羅山與阿拉伯十分相似，因為地形開闊天然屏障少，都是屬於易攻難守的地圖。
+            玩家從一個沒有特色的大草原開始，樹木很少，就像大多數非洲地圖一樣。樹木是典型的相思樹，原產於非洲大部分地區。地圖上有一些池塘但裡面沒有任何<nuxt-link
+              to="/units/animal/fish"
+              >魚類</nuxt-link
+            >可捕。除此之外，該地區還有大量的金礦和<nuxt-link
+              to="/resource/Stone"
+              >石礦</nuxt-link
+            >。地圖上有<nuxt-link to="/units/animal/Zebra">斑馬</nuxt-link
+            >/<nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link
+            >和大象可供獵食，還有一些<nuxt-link to="/units/animal/Goat"
+              >山羊</nuxt-link
+            >可以放牧。<nuxt-link to="/maps/Kilimanjaro">吉力馬札羅山</nuxt-link
+            >與<nuxt-link to="/maps/Arabia">阿拉伯</nuxt-link
+            >十分相似，因為地形開闊天然屏障少，都是屬於易攻難守的地圖。
           </p>
         </div>
         <div class="row">
@@ -37,7 +49,11 @@
                 alt=""
             /></gallery>
             <p class="text-center">
-              <em>打獵的話有鴕鳥跟大象可以提供初期食物來源。</em>
+              <em
+                >打獵的話有鴕鳥跟大象可以提供初期<nuxt-link to="/resource/Food"
+                  >食物</nuxt-link
+                >來源。</em
+              >
             </p>
           </div>
         </div>

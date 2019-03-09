@@ -9,8 +9,13 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>深入虎穴</b
-            >為松迪亞塔戰役的第五關劇情關卡也是最後一關，此關描述松迪亞塔打敗蘇曼古魯後，為了不讓蘇曼古魯東山再起進而追殺。
+            <b>深入虎穴</b>為<nuxt-link to="/batt/Sundjataa"
+              >松迪亞塔戰役</nuxt-link
+            >的第五關劇情關卡也是最後一關，此關描述<nuxt-link
+              to="/units/hero/Sundjata"
+              >松迪亞塔</nuxt-link
+            >打敗<nuxt-link to="/units/hero/Sumanguru">蘇曼古魯</nuxt-link
+            >後，為了不讓蘇曼古魯東山再起進而追殺。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,9 +25,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">帝王時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">1,000木材，1,000食物，1,000黃金，500石礦</td>
+              <td class="tc2">
+                1,000<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >，1,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，1,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，500<nuxt-link to="/resource/Stone">石礦</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">200</td>
             </tr>
@@ -39,7 +51,9 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p6">玩家1</div></td>
-              <td class="tc6" colspan="3">馬利（紫色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Malians">馬利</nuxt-link>（紫色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
@@ -59,9 +73,21 @@
           <p></p>
           <h3>開場</h3>
           <li>
-            軍事單位 - 弩兵x4、輕騎兵x1、長劍兵x4、弩砲戰船（槳帆戰船）x10。
+            軍事單位 -
+            <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>x4、<nuxt-link
+              to="/units/Light_Cavalry"
+              >輕騎兵</nuxt-link
+            >x1、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+            >x4、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+            >（槳帆戰船）x10。
           </li>
-          <li>經濟單位 - 村民x6、漁船x3。</li>
+          <li>
+            經濟單位 -
+            <nuxt-link to="/units/Villager">村民</nuxt-link>x6、<nuxt-link
+              to="/units/Fishing_Ship"
+              >漁船</nuxt-link
+            >x3。
+          </li>
           <p></p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
@@ -81,7 +107,11 @@
               <li>
                 你要以攻為守：你開始只有很少的資源，所以最好的策略就是迅速擴張，已戰養戰，從敵人那裡搶奪資源。
               </li>
-              <li>這場戰爭需要你調遣海軍和陸軍協調作戰，你要海陸兼顧。</li>
+              <li>
+                這場戰爭需要你調遣<nuxt-link to="/units/Naval_Vessels"
+                  >海軍</nuxt-link
+                >和陸軍協調作戰，你要海陸兼顧。
+              </li>
               <li>這個劇情中時機的把握至關重要。</li>
             </ul>
             <h2>斥候</h2>
@@ -103,19 +133,64 @@
               <div class="n1">
                 <ol>
                   <li>
-                    來到本章的最終決戰了，這場戰役敵人會蓋世界奇觀取勝，粗估遊戲時間15分開始蓋，遊戲時間45分會蓋好，獲勝時間200年。
+                    來到本章的最終決戰了，這場<nuxt-link to="/batt"
+                      >戰役</nuxt-link
+                    >敵人會蓋<nuxt-link to="/building/Wonder"
+                      >世界奇觀</nuxt-link
+                    >取勝，粗估遊戲時間15分開始蓋，遊戲時間45分會蓋好，獲勝時間200年。
                   </li>
                   <li>
-                    敵人的海軍很強，但是不到大後期無法威脅到你的內陸，所以不用管它。一開始全力生村民採石頭，島上升村民採食物。派1村走過陸橋，去地圖12點鐘方向有紅色城牆的橋上蓋圍牆。（注意敵人那兩排城牆的外圍是可以通過的，一樣要蓋牆圍起來）。2村在圍牆後面蓋城堡。這裡特別注意城堡不是用來防守的，而是用來就近生產飛刀女兵，所以要蓋離圍牆遠一點，如果蓋太近，敵人會出動巨投直接把城堡砸掉。
+                    敵人的海軍很強，但是不到大後期無法威脅到你的內陸，所以不用管它。一開始全力生村民採<nuxt-link
+                      to="/resource/Stone"
+                      >石頭</nuxt-link
+                    >，島上升村民採食物。派1村走過陸橋，去地圖12點鐘方向有紅色<nuxt-link
+                      to="/building/Stone_Wall"
+                      >城牆</nuxt-link
+                    >的橋上蓋圍牆。（注意敵人那兩排城牆的外圍是可以通過的，一樣要蓋牆圍起來）。2村在圍牆後面蓋<nuxt-link
+                      to="/building/Castle"
+                      >城堡</nuxt-link
+                    >。這裡特別注意城堡不是用來防守的，而是用來就近生產飛刀女兵，所以要蓋離圍牆遠一點，如果蓋太近，敵人會出動巨投直接把城堡砸掉。
                   </li>
                   <li>
-                    敵人第一波陸軍會在10分鐘左右走到圍牆邊，因此城堡蓋好之後立刻生飛刀女兵來防守。由於飛刀女兵屬於近戰傷害，所以可以輕易將敵人的劍兵跟戟兵打趴。由於敵人中期會開戰船來攻擊你的飛刀女兵，所以記得要升幾隻僧侶來幫忙補血。如果敵人戰船太多威脅過大，就用飛刀女兵把戰船引到城堡附近給城堡射。
+                    敵人第一波陸軍會在10分鐘左右走到圍牆邊，因此城堡蓋好之後立刻生飛刀女兵來防守。由於飛刀女兵屬於近戰傷害，所以可以輕易將敵人的劍兵跟<nuxt-link
+                      to="/units/Halberdier"
+                      >戟兵</nuxt-link
+                    >打趴。由於敵人中期會開戰船來攻擊你的飛刀女兵，所以記得要升幾隻<nuxt-link
+                      to="/units/Monk"
+                      >僧侶</nuxt-link
+                    >來幫忙補血。如果敵人戰船太多威脅過大，就用飛刀女兵把戰船引到城堡附近給城堡射。
                   </li>
                   <li>
-                    以上步驟做好之後敵人基本上進不來。我們要開始做最後進攻準備。由於資源跟時間都十分有限，不能等到後帝才進攻。你至少要點的科技一共有：兵工廠的弓兵相關科技以及步兵相關科技、大學的化學與建築生命值相關科技、修道院加僧侶生命值與跑速的科技、磨坊的農田科技、靶場升級重裝馬弓騎兵、城堡升級精銳飛刀女兵、徵兵制度。
+                    以上步驟做好之後敵人基本上進不來。我們要開始做最後進攻準備。由於資源跟時間都十分有限，不能等到後帝才進攻。你至少要點的<nuxt-link
+                      to="/techs"
+                      >科技</nuxt-link
+                    >一共有：<nuxt-link to="/building/Blacksmith"
+                      >兵工廠</nuxt-link
+                    >的<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+                    >相關科技以及步兵相關科技、大學的<nuxt-link
+                      to="/techs/Chemistry"
+                      >化學</nuxt-link
+                    >與<nuxt-link to="/building">建築</nuxt-link
+                    ><nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+                    >相關科技、<nuxt-link to="/building/Monastery"
+                      >修道院</nuxt-link
+                    >加僧侶生命值與跑速的科技、<nuxt-link to="/building/Mill"
+                      >磨坊</nuxt-link
+                    >的<nuxt-link to="/building/Farm">農田</nuxt-link
+                    >科技、靶場升級<nuxt-link to="/units/Heavy_Cavalry_Archer"
+                      >重裝馬弓騎兵</nuxt-link
+                    >、城堡升級精銳飛刀女兵、<nuxt-link to="/techs/Conscription"
+                      >徵兵制度</nuxt-link
+                    >。
                   </li>
                   <li>
-                    點科技的同時，生出約十五隻火砲、20隻馬弓、20隻飛刀女兵。之所以用馬弓不用強弩，是因為馬弓跑得跟飛刀女兵差不多快，一起行動才不會浪費了女兵的機動性。準備好之後把敵人橋上的城牆打掉一格改建為自己的城門。
+                    點科技的同時，生出約十五隻<nuxt-link
+                      to="/units/Bombard_Cannon"
+                      >火砲</nuxt-link
+                    >、20隻馬弓、20隻飛刀女兵。之所以用馬弓不用強弩，是因為馬弓跑得跟飛刀女兵差不多快，一起行動才不會浪費了女兵的機動性。準備好之後把敵人橋上的城牆打掉一格改建為自己的<nuxt-link
+                      to="/building/Gate"
+                      >城門</nuxt-link
+                    >。
                     大軍開過去，馬弓跟女兵固守原地模式作為掩護，火砲先拆城牆防禦工事，拆完打奇觀再掃蕩。要特別小心操控火砲的位置，因為敵人兩層城牆之間放著許多弓兵以及巨投跟重投。小心別讓火砲被砸到了。
                   </li>
                   <li>
@@ -144,7 +219,10 @@
                       這戰役是用世紀帝國一的羅馬的崛起的戰役仿製的只是海灣多幾座島嶼。
                     </li>
                     <li>
-                      海上保壘是一個非常危險的東西要破壞得要很多艘火砲戰船。
+                      海上保壘是一個非常危險的東西要破壞得要很多艘<nuxt-link
+                        to="/units/Cannon_Galleon"
+                        >火砲戰船</nuxt-link
+                      >。
                     </li>
                   </ul>
                 </div>
@@ -174,7 +252,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -183,7 +263,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>
             </td>
@@ -197,7 +277,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">非洲王國第二章之五</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>第二章之五
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

@@ -8,7 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            極大汗是個步兵英雄，在"世界地國II:非洲王國"資料片中的"流亡之路"和"毀壞的石碑"戰役以玩家敵對出現，在地圖編輯器中也能找到他的身影。極大汗是以同名的衣索比亞帝王所命名。他會受到所有步兵科技加成的影響，不能被招降而且會自行回血。
+            <b>極大汗</b>是個<nuxt-link to="/units/Infantry_Units"
+              >步兵英雄</nuxt-link
+            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >"資料片中的"流亡之路"和"毀壞的石碑"戰役以玩家敵對出現，在地圖編輯器中也能找到他的身影。極大汗是以同名的<nuxt-link
+              to="/civs/Ethiopians"
+              >衣索比亞</nuxt-link
+            >帝王所命名。他會受到所有<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link>加成的影響，不能被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <div></div>
@@ -51,7 +62,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
@@ -60,32 +73,42 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對鷹勇士+2 <br />對標準建築物+2</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >+2 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
+                >標準建築物</nuxt-link
+              >+2
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
         </table>

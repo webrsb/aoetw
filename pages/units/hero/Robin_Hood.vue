@@ -15,7 +15,13 @@
             <nuxt-link to="/civs/Britons">英國</nuxt-link>民間傳說中的一名俠盜。
           </p>
           <p>
-            遊戲中的他是長弓兵，會受到所有影響射手的升級及加成影響。由於他是一名英雄，因此不會被招降且會自動回血。(自征服者入侵以後)。
+            遊戲中的他是<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
+            >，會受到所有影響<nuxt-link to="/units/Archer_Units">射手</nuxt-link
+            >的升級及加成影響。由於他是一名<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
+            >，因此不會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >。(自<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>以後)。
           </p>
         </div>
       </div>
@@ -49,7 +55,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -57,16 +65,22 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">110</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">11(遠程)</td>
+            <td class="unit4">
+              11(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -90,16 +104,16 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -112,7 +126,7 @@
             <td class="unit4">0.96</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
         </table>

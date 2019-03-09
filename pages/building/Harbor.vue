@@ -8,7 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            海港是"世界地國II:王者崛起"資料片中馬來人進入城堡時代研發完科技"海上霸主"可以建造的特殊軍事經濟復合式建築物。海港比碼頭有更多的生命值和視野，而且能以箭矢攻擊來犯的敵方單位。
+            <b>海港</b>是"世界地國II:<nuxt-link to="/games/aor"
+              >王者崛起</nuxt-link
+            >"資料片中<nuxt-link to="/civs/Malay">馬來人</nuxt-link
+            >進入<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >研發完<nuxt-link to="/techs">科技</nuxt-link
+            >"海上霸主"可以建造的特殊軍事經濟復合式<nuxt-link to="/building"
+              >建築物</nuxt-link
+            >。海港比<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >有更多的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+            >和<nuxt-link to="/los.php">視野</nuxt-link
+            >，而且能以箭矢攻擊來犯的敵方單位。
           </p>
         </div>
         <h3>戰術</h3>
@@ -17,28 +27,68 @@
             <div class="col-md-12">
               <div class="n1">
                 <li>
-                  海港像碼頭一樣可以做資源收集站也可以是軍事建築物。不過海港比起碼頭有更多生命值還能向攻擊敵方單位，所以它可以當作防禦工事的一部分，根據不同的遊戲地圖使用它們，而且海港只花費木材！
+                  海港像碼頭一樣可以做資源收集站也可以是軍事建築物。不過海港比起碼頭有更多生命值還能向攻擊敵方單位，所以它可以當作防禦工事的一部分，根據不同的遊戲地圖使用它們，而且海港只花費<nuxt-link
+                    to="/resource/Wood"
+                    >木材</nuxt-link
+                  >！
                 </li>
                 <li>
-                  在像海島這樣的地圖上玩的時候，海港對馬來人來說是非常有利的，因為他們幫助確保海岸線安全，同時在一定程度上保護了馬來漁船和貿易商旅。這對馬來人來說特別重要，因為漁船和貿易商旅在這些地圖上是經濟的重要組成部分。利用海港可以阻止敵方運輸船難靠近而且也不需要巡邏海岸線。
+                  在像海島這樣的地圖上玩的時候，海港對馬來人來說是非常有利的，因為他們幫助確保海岸線安全，同時在一定程度上保護了<nuxt-link
+                    to="/civs/Malay"
+                    >馬來</nuxt-link
+                  ><nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+                  >和<nuxt-link to="/units/Trade_Cog">貿易商旅</nuxt-link
+                  >。這對馬來人來說特別重要，因為漁船和貿易商旅在這些地圖上是經濟的重要組成部分。利用海港可以阻止敵方<nuxt-link
+                    to="/units/Transport_Ship"
+                    >運輸船</nuxt-link
+                  >難靠近而且也不需要巡邏海岸線。
                 </li>
                 <li>
-                  在像沿海，波羅的海和大陸那樣定居點沒有被水隔開的地圖上，使用海港可以產生巨大的影響，因為它們可以跟城堡和箭塔一起保護海岸。他們也在很多情況下幫助海軍並保護海上經濟。
+                  在像<nuxt-link to="/maps/Coastal">沿海</nuxt-link>，<nuxt-link
+                    to="/maps/Baltic"
+                    >波羅的海</nuxt-link
+                  >和<nuxt-link to="/maps/Continental">大陸</nuxt-link
+                  >那樣定居點沒有被水隔開的地圖上，使用海港可以產生巨大的影響，因為它們可以跟<nuxt-link
+                    to="/building/Castle"
+                    >城堡</nuxt-link
+                  >和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+                  >一起保護海岸。他們也在很多情況下幫助<nuxt-link
+                    to="/units/Naval_Vessels"
+                    >海軍</nuxt-link
+                  >並保護海上經濟。
                 </li>
                 <li>
-                  在河流，高地或其他具有河流和/或湖泊的地圖上，海港可以成為防禦性結構的一部分，因為河流和湖泊是地面部隊的屏障，在這種情況下，使海港和海軍部隊可以有效地幫助靠近海岸線的防禦工事。也能有效防衛淺灘因為這是地面部隊渡過河流的唯一路徑。
+                  在<nuxt-link to="/maps/Rivers">河流</nuxt-link>，<nuxt-link
+                    to="/maps/Highland"
+                    >高地</nuxt-link
+                  >或其他具有河流和/或湖泊的地圖上，海港可以成為防禦性結構的一部分，因為河流和湖泊是地面部隊的屏障，在這種情況下，使海港和海軍部隊可以有效地幫助靠近海岸線的防禦工事。也能有效防衛淺灘因為這是地面部隊渡過河流的唯一路徑。
                 </li>
                 <li>
-                  即使海港得到攻擊力和生命值提高，但還是能被許多船艦遠距離摧毀。建議在海岸周邊部屬攻城武器或以其他防禦建築物（如箭塔或城堡）支援他們。另外，海軍也能捍衛海港保衛海岸。
+                  即使海港得到<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+                  >和生命值提高，但還是能被許多<nuxt-link
+                    to="/units/Naval_Vessels"
+                    >船艦</nuxt-link
+                  >遠距離摧毀。建議在海岸周邊部屬<nuxt-link
+                    to="/units/Siege_Weapons"
+                    >攻城武器</nuxt-link
+                  >或以其他防禦建築物（如箭塔或城堡）支援他們。另外，海軍也能捍衛海港保衛海岸。
                 </li>
                 <li>
                   在玩團隊遊戲時，海港是非常有價值的，因為海軍貿易路線可以更容易地得到保護，它們提供了貿易商旅掩護。所以在進行水上貿易時，如果有馬來人作為同盟的話通常會更安全。
                 </li>
                 <li>
-                  海港只能建在淺水區或靠近海岸的淺灘上。在兩棲地圖中，通過將海港放置在海軍和陸地部隊相交的戰略位置，最好是毗鄰森林，使得更少的單位有機會對其造成傷害，同時還能以神風船炸飛敵方單位。即使在水位低於平均水平的地圖上，也可以利用港口的權力來威懾附近的敵方村民。
+                  海港只能建在淺水區或靠近海岸的淺灘上。在兩棲地圖中，通過將海港放置在海軍和陸地部隊相交的戰略位置，最好是毗鄰森林，使得更少的單位有機會對其造成傷害，同時還能以<nuxt-link
+                    to="/units/Demolition_Ship"
+                    >神風船</nuxt-link
+                  >炸飛敵方單位。即使在水位低於平均水平的地圖上，也可以利用港口的權力來威懾附近的敵方<nuxt-link
+                    to="/units/Villager"
+                    >村民</nuxt-link
+                  >。
                 </li>
                 <li>
-                  海港早在《世紀帝國:征服者入侵》就有了，只是當時是一個無功能不能攻擊且蓋在海邊的建築物，外觀也與碼頭一樣。
+                  海港早在《世紀帝國:<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >》就有了，只是當時是一個無功能不能攻擊且蓋在海邊的建築物，外觀也與碼頭一樣。
                 </li>
               </div>
             </div>
@@ -267,11 +317,10 @@
             <td class="tta1" style="width:20%">生命值</td>
             <td class="tta4">
               <p>
-                <img
-                  src="~assets/Masonry.jpg"
-                  width="30"
-                  alt=""
-                />磚瓦技術(+10%)
+                <img src="~assets/Masonry.jpg" width="30" alt="" /><nuxt-link
+                  to="/techs/Masonry"
+                  >磚瓦技術</nuxt-link
+                >(+10%)
               </p>
             </td>
           </tr>
@@ -350,7 +399,9 @@
                 src="~assets/Masonry.jpg"
                 width="30"
                 alt=""
-              />磚瓦技術(+1/+1，+3建築護甲)。
+              />磚瓦技術(+1/+1，+3<nuxt-link to="/armor/Armor_Class_Building"
+                >建築護甲</nuxt-link
+              >)。
             </td>
           </tr>
           <tr>
@@ -379,11 +430,14 @@
                 src="~assets/Shipwright.jpg"
                 width="30"
                 alt=""
-              />造船匠(+35%，只有訓練單位加快)。
+              /><nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
+              >(+35%，只有訓練單位加快)。
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -457,7 +511,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">馬來</td>
           </tr>
           <tr>
@@ -472,7 +526,10 @@
           </tr>
           <tr>
             <td class="unit3">功能</td>
-            <td class="unit4">訓練和升級船隻。可攻擊敵人。</td>
+            <td class="unit4">
+              訓練和升級<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+              >。可攻擊敵人。
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
@@ -502,7 +559,9 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">6(遠程)</td>
+            <td class="unit4">
+              6(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加城</td>
@@ -523,11 +582,11 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
           <tr>

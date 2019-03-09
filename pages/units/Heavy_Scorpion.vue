@@ -8,19 +8,33 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            重型弩砲可訓練於攻城器製造所，他發射大型箭矢，可對敵人造成貫穿，但只有目標單位會受到全部的傷害，其他單位只會受到一半的傷害。不像投石車，弩砲不會傷害友方單位，所以在近距離的肉搏戰相當好用。
+            <b>重型弩砲</b>可訓練於<nuxt-link
+              to="/units//building/Siege_Workshop"
+              >攻城器製造所</nuxt-link
+            >，他發射大型箭矢，可對敵人造成貫穿，但只有目標單位會受到全部的傷害，其他單位只會受到一半的傷害。不像<nuxt-link
+              to="/units/Mangonel"
+              >投石車</nuxt-link
+            >，弩砲不會傷害友方單位，所以在近距離的肉搏戰相當好用。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            重型弩砲對步兵，弓箭手和僧侶等速度慢的單位非常有效，因為速度慢的單位容易被弩砲貫穿攻擊。但弩砲對於快速的步兵，如<nuxt-link
+            重型弩砲對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >，徒步<nuxt-link to="/units/Archer">弓箭手</nuxt-link>和<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >等速度慢的單位非常有效，因為速度慢的單位容易被弩砲貫穿攻擊。但弩砲對於快速的步兵，如<nuxt-link
               to="/units/Woad_Raider"
               >菘藍武士</nuxt-link
             >、
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-            >表現並不是很好，因為可以快速縮短距離，並貼身攻擊。而哥德衛隊擁有高遠防，可以抵抗弩砲的攻擊。像大多數的<nuxt-link
+            >表現並不是很好，因為可以快速縮短距離，並貼身攻擊。而<nuxt-link
+              to="/units/Huskarl"
+              >哥德衛隊</nuxt-link
+            >擁有高<nuxt-link to="/armor">遠防</nuxt-link
+            >，可以抵抗弩砲的攻擊。像大多數的<nuxt-link
               to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >一樣，弩砲必須派其他單位在旁邊保護，因為弩砲速度慢容易遭受攻擊。弩砲最常與
@@ -38,9 +52,9 @@
             <nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
             >的軍隊，甚至可以抵抗<nuxt-link to="/units/Cavalry_Units"
               >騎兵</nuxt-link
-            >的攻擊，但弩砲很怕遠程單位，如<nuxt-link to="/units/Bombard_Cannon"
-              >火砲</nuxt-link
-            >或是
+            >的攻擊，但弩砲很怕<nuxt-link to="/units/Archer_Units"
+              >遠程單位</nuxt-link
+            >，如<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>或是
             <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
             >。當然如果對自己的控兵有信心，用<nuxt-link
               to="/units/Cavalry_Archer"
@@ -140,8 +154,10 @@
                 >投石車</nuxt-link
               >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>、
               <nuxt-link to="/units/Woad_Raider">菘藍武士</nuxt-link
-              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
-              >、遠距離單位。
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、<nuxt-link
+                to="/units/Archer_Units"
+                >遠距離單位</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -150,7 +166,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Furor_Celtica"
@@ -159,7 +177,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -200,7 +220,8 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。
             </td>
           </tr>
           <tr>
@@ -224,7 +245,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -419,12 +442,16 @@
               >：重型弩砲生產快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：重型弩砲攻擊速度快25%。
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：重型弩砲<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快25%。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對重型弩砲有加成的科技在帝王時代便宜20%。
+              >：對重型弩砲有加成的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -558,13 +585,23 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>以前征服者入侵的中文版本，把弩砲直接翻譯成蠍子。</li>
-              <li>弩砲是遊戲中唯一只有一次升級的攻城單位。</li>
+              <li>
+                以前<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                >的中文版本，把弩砲直接翻譯成蠍子。
+              </li>
+              <li>
+                弩砲是遊戲中唯一只有一次升級的<nuxt-link
+                  to="/units/Siege_Weapons"
+                  >攻城單位</nuxt-link
+                >。
+              </li>
               <li>
                 弩砲有0的近戰攻擊，所以攻擊近戰防禦-3的<nuxt-link
                   to="/units/Battering_Ram"
                   >衝車</nuxt-link
-                >是可以的，有意思的是弩砲對衝車還有加成。
+                >是可以的，有意思的是弩砲對<nuxt-link to="/units/Battering_Ram"
+                  >衝車</nuxt-link
+                >還有加成。
               </li>
             </ul>
           </div>
@@ -594,7 +631,10 @@
                 投射機（Ballista）或稱扭力弩砲，是以絞繩的扭力（而非「弓身」的彈力）來發射物體的大型冷兵器砲。此器與弩、牀弩依靠弓身的彈力來發射物體的運作模式不同。投射機最早可追溯至古希臘時代。古羅馬軍隊使用的投射機有分大型與小型，小型的投射器又稱作蠍砲（Scorpius）。另外也有單兵使用的手持投射機（扭力弩）。
               </p>
               <p>
-                床弩又稱床子弩、牀弩、牀子弩（Arcuballista），在中國最早出現於戰國時代，是把弩大型化或有多個弩翼（弓身），裝在發射台或車輛上的一種大型的特殊弩。床弩的主要使用目的是攻城或海戰。據《武經總要》記載宋朝軍隊中共有六種床弩。典型的中國床子弩使用絞車拉動弓弦，操作士兵達7名，根據宋人記載的最高射程約合現在的1500米。根據史料記載，遼軍將領蕭撻凜便是被400多米外宋軍陣地的兩米巨箭射殺，最終雙方簽訂著名的「澶淵之盟」
+                床弩又稱床子弩、牀弩、牀子弩（Arcuballista），在<nuxt-link
+                  to="/civs/Chinese"
+                  >中國</nuxt-link
+                >最早出現於戰國時代，是把弩大型化或有多個弩翼（弓身），裝在發射台或車輛上的一種大型的特殊弩。床弩的主要使用目的是攻城或海戰。據《武經總要》記載宋朝軍隊中共有六種床弩。典型的中國床子弩使用絞車拉動弓弦，操作士兵達7名，根據宋人記載的最高射程約合現在的1500米。根據史料記載，遼軍將領蕭撻凜便是被400多米外宋軍陣地的兩米巨箭射殺，最終雙方簽訂著名的「澶淵之盟」
               </p>
             </div>
           </div>
@@ -620,7 +660,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>
@@ -673,7 +713,9 @@
             <td class="unit3">
               <nuxt-link to="/elements/Attack">攻擊</nuxt-link>
             </td>
-            <td class="unit4">16(遠程)0(近戰)</td>
+            <td class="unit4">
+              16(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)0(近戰)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -696,7 +738,9 @@
             <td class="unit4">3.6</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">7</td>
           </tr>
           <tr>

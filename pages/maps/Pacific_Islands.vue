@@ -10,10 +10,29 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            太平洋群島具有兩棲地形，其中陸地單位和海軍單位都可加入戰場。玩家將從他們自己的沙洲開始，或者在團隊比賽中與隊友分享。太平洋群島四周都有淺灘可供陸上或海上單位通行。神風船在某些淺灘處使用得當的話可以對敵方造成巨量傷害。太平洋群島可說是巨大版的沼澤，不同的是陸地面積更多淺灘更少，敵人可以從某些狹窄的地方偷渡到你的島上。太平洋群島上的資源也比其他地圖相對來的少。
+            <b>太平洋群島</b>具有兩棲地形，其中陸地單位和<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍單位</nuxt-link
+            >都可加入戰場。玩家將從他們自己的沙洲開始，或者在團隊比賽中與隊友分享。太平洋群島四周都有淺灘可供陸上或海上單位通行。<nuxt-link
+              to="/units/Demolition_Ship"
+              >神風船</nuxt-link
+            >在某些淺灘處使用得當的話可以對敵方造成巨量傷害。太平洋群島可說是巨大版的<nuxt-link
+              to="/maps/Bog_Islands"
+              >沼澤</nuxt-link
+            >，不同的是陸地面積更多淺灘更少，敵人可以從某些狹窄的地方偷渡到你的島上。太平洋群島上的資源也比其他地圖相對來的少。
           </p>
           <p>
-            玩家城鎮附近有水牛可以採集，打獵則有鹿和犀牛，但要小心老虎的出現。木頭數量十分稀少，而且要小心在採集時受到海上敵方船艦的騷擾。金礦和石礦同樣有易遭敵人騷擾的問題。
+            玩家城鎮附近有<nuxt-link to="/units/animal/Water_Buffalo"
+              >水牛</nuxt-link
+            >可以採集，打獵則有鹿和<nuxt-link to="/units/animal/Rhinoceros"
+              >犀牛</nuxt-link
+            >，但要小心老虎的出現。<nuxt-link to="/resource/Wood"
+              >木頭</nuxt-link
+            >數量十分稀少，而且要小心在採集時受到海上敵方<nuxt-link
+              to="/units/Naval_Vessels"
+              >船艦</nuxt-link
+            >的騷擾。金礦和<nuxt-link to="/resource/Stone">石礦</nuxt-link
+            >同樣有易遭敵人騷擾的問題。
           </p>
         </div>
         <div class="row">

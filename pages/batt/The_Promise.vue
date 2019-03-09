@@ -8,8 +8,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            承諾為成吉思汗戰役的第五關劇情關卡，此關描述蒙古帝國於1240 -
-            1241年後期的第一次蒙古侵波蘭，蒙古這波進攻的意圖是為了確保蒙古軍後續主要軍隊攻擊匈牙利王國的側翼。蒙古人消滅了波蘭人或其他歐洲騎士團所提供的對貝拉四世(匈牙利國王)的幫助。
+            <b>承諾</b>為<nuxt-link to="/batt/Genghis_Khana"
+              >成吉思汗(戰役)</nuxt-link
+            >的第五關劇情關卡，此關描述<nuxt-link to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >帝國於1240 -
+            1241年後期的第一次蒙古侵波蘭，蒙古這波進攻的意圖是為了確保蒙古軍後續主要軍隊攻擊匈牙利王國的側翼。<nuxt-link
+              to="/civs/Mongols"
+              >蒙古人</nuxt-link
+            >消滅了波蘭人或其他歐洲<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >團所提供的對貝拉四世(匈牙利國王)的幫助。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +27,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">城堡時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">400木頭，200食物，200黃金，200石頭</td>
+              <td class="tc2">
+                400<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，200<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -45,9 +60,13 @@
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p1">玩家2</div></td>
-              <td class="tc6">波蘭人（藍色）哥德</td>
+              <td class="tc6">
+                波蘭人（藍色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
+              </td>
               <td class="tc6"><div class="p3">玩家3</div></td>
-              <td class="tc6">波希米亞人（綠色）條頓</td>
+              <td class="tc6">
+                波希米亞人（綠色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家4</div></td>
@@ -58,16 +77,26 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>4位村民、3位蒙古突騎、1台輕型投石車</dd>
+            <dd>
+              4位<nuxt-link to="/units/Villager">村民</nuxt-link>、3位<nuxt-link
+                to="/units/Mangudai"
+                >蒙古突騎</nuxt-link
+              >、1台<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>
+            </dd>
             <dt>大地之母單位：</dt>
-            <dd>8位哥德衛隊，1位憎侶。</dd>
+            <dd>
+              8位<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>，1位憎侶。
+            </dd>
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
               <li>
-                奪下波蘭、波希米亞、日耳曼的軍旗。在勢力範圍之內建造三座城堡，並抵抗波希米亞軍隊的攻擊。
+                奪下波蘭、波希米亞、日耳曼的軍旗。在勢力範圍之內建造三座<nuxt-link
+                  to="/building/Castle"
+                  >城堡</nuxt-link
+                >，並抵抗波希米亞軍隊的攻擊。
               </li>
             </ol>
           </div>
@@ -88,7 +117,13 @@
                 波西米亞人在遊戲開始時就擁有一支由76個單位組成的軍隊，超過遊戲預設的人口上限。
               </li>
               <li>
-                蒙古人於1240-1241年第一次入侵波蘭，在萊格尼察戰役，蒙古大軍由斡而答汗率領（他是成吉思汗的長子术斥的兒子）在人數只有對方1/3的劣勢下，擊敗了西里西亞公爵虔誠者亨利與波西米亞國王溫塞拉斯一世麾下，由日耳曼人、波蘭人、波希米亞人、聖殿騎士團以及條頓騎士團所組成的聯軍。（也有其他史料指出雙方軍隊規模相去不遠）
+                蒙古人於1240-1241年第一次入侵波蘭，在萊格尼察<nuxt-link
+                  to="/batt"
+                  >戰役</nuxt-link
+                >，蒙古大軍由斡而答汗率領（他是<nuxt-link
+                  to="/units/hero/Genghis_Khan"
+                  >成吉思汗</nuxt-link
+                >的長子术斥的兒子）在人數只有對方1/3的劣勢下，擊敗了西里西亞公爵虔誠者亨利與波西米亞國王溫塞拉斯一世麾下，由日耳曼人、波蘭人、波希米亞人、聖殿騎士團以及條頓騎士團所組成的聯軍。（也有其他史料指出雙方軍隊規模相去不遠）
               </li>
               <li>
                 因為蒙古人並沒有再深入波蘭，歐洲人將這場戰爭視為他們的勝利。但歐洲人所不知的是，蒙古人並沒有興趣征服波蘭，他們的侵略只是為了要吸引歐洲人的注意力，好讓與此同時的匈牙利之戰更為順利而已。
@@ -123,15 +158,21 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4">成吉思汗</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">蒙古人</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#375d96;">
@@ -142,7 +183,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第四章之五</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第四章之五
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

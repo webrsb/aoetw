@@ -8,12 +8,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            矛象伕是東南亞文明城堡時代的兵種，可訓練於馬廄，與<nuxt-link
-              to="/units/War_Elephant"
-              >戰象</nuxt-link
+            <b>矛象伕</b>是東南亞<nuxt-link to="/civs">文明</nuxt-link
+            ><nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >的兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
+            >，與<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
             >相似但攻擊與攻擊範圍較小，不過一樣都擁有
             <nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
-            >的攻擊。他們移動緩慢容易受到範圍傷害的單位攻擊，也容易被僧侶招降。
+            >的攻擊。他們移動緩慢容易受到範圍傷害的單位攻擊，也容易被<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            ><nuxt-link to="/elements/Conversion">招降</nuxt-link>。
           </p>
           <p>
             <strong
@@ -46,19 +50,29 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            矛象伕的優勢是血量多與遠防較高，機動性雖不如騎兵優勢但坦度卻是其優點，在團戰中可以發揮其優點。對於東南亞文明來說矛象伕是個不錯的選擇
+            矛象伕的優勢是<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >多與<nuxt-link to="/armor">遠防</nuxt-link
+            >較高，機動性雖不如<nuxt-link to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >優勢但坦度卻是其優點，在團戰中可以發揮其優點。對於東南亞文明來說矛象伕是個不錯的選擇
           </p>
           <ul>
             <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link></li>
-            緬甸特殊科技<nuxt-link to="/techs/Howdah">象轎</nuxt-link
-            >給予矛象伕+1/+1的裝甲，使他們更為耐打，且緬甸的騎兵科技全滿。如果和有研發
+            <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+            ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Howdah">象轎</nuxt-link
+            >給予矛象伕+1/+1的裝甲，使他們更為耐打，且緬甸的騎兵<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >全滿。如果和有研發
             <nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
             >的<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
             >或騎兵配合，將成為一種可怕的組合。
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Khmer">高棉</nuxt-link></li>
-            高棉的矛象伕移動速度快15%，使得他們更不怕<nuxt-link to="/units/Monk"
+            <nuxt-link to="/civs/Khmer">高棉</nuxt-link
+            >的矛象伕移動速度快15%，使得他們更不怕<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
             >，且城堡時代的特殊科技<nuxt-link to="/techs/Tusk_Swords"
               >象牙劍</nuxt-link
@@ -69,7 +83,8 @@
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Malay">馬來</nuxt-link></li>
-            馬來大象便宜30%，讓他們成為城堡時代就可以大量生產大象，配合馬來的<nuxt-link
+            <nuxt-link to="/civs/Malay">馬來</nuxt-link
+            >大象便宜30%，讓他們成為城堡時代就可以大量生產大象，配合馬來的<nuxt-link
               to="/units/Crossbowman"
               >弩兵</nuxt-link
             >與
@@ -85,22 +100,27 @@
           </ul>
           <ul>
             <li><nuxt-link to="/civs/Vietnamese">越南</nuxt-link></li>
-            越南是血量最多的矛象伕，雖然缺乏<nuxt-link to="/techs/Blast_Furnace"
+            <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+            >是血量最多的矛象伕，雖然缺乏<nuxt-link to="/techs/Blast_Furnace"
               >鼓風爐</nuxt-link
-            >，但有血統、防禦也全滿，可以充當肉盾來保護越南優秀的弓箭手。不過越南的矛象伕走的非常慢，因為沒有
+            >，但有<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+            >、防禦也全滿，可以充當肉盾來保護越南優秀的弓箭手。不過越南的矛象伕走的非常慢，因為沒有
             <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
             >。
           </ul>
           <p>
-            一般來說，在單挑的遊戲中，玩家較不會出矛象伕。但在團戰比賽中，矛象伕就是非常好用的兵種，在黃金無虞下，其功能取代了<nuxt-link
-              to="/units/Paladin"
-              >遊俠</nuxt-link
+            一般來說，在單挑的遊戲中，玩家較不會出矛象伕。但在團戰比賽中，矛象伕就是非常好用的兵種，在<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >無虞下，其功能取代了<nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >。在東南亞有象的國家出現後，世界頂尖高手團戰，自選文明時已不再只會出現
             <nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
               to="/civs/Persians"
               >波斯</nuxt-link
-            >和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >等遊俠國家，而會改選東南亞文明。
+            >和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>等<nuxt-link
+              to="/units/Paladin"
+              >遊俠</nuxt-link
+            >國家，而會改選東南亞文明。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -144,7 +164,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -161,7 +183,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -343,9 +367,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -543,7 +567,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：忠誠信仰便宜50%。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：<nuxt-link
+                to="/techs/Faith"
+                >忠誠信仰</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link
@@ -617,14 +644,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>中國古代中原地區也有大象，且也用來打戰過。</li>
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >古代中原地區也有大象，且也用來打戰過。
+            </li>
             <li>
               為什麼非洲文明不使用大象？雖然非洲象比亞洲象身軀龐大，但非洲象並沒有像亞洲象那樣被運用到戰事和典禮之中，因為非洲象難以馴養。一些非洲君主也曾使用過象，但使用的是現今已經絕滅了的北非象(North
               African elephant) 。因此馴象的使用大多數被限制於亞洲象居住的地區。
             </li>
             <li>
               大象在東南亞被廣泛運用於死刑之中，在緬甸有相當長的一段歷史，而在中南半島的占城，其歷史同樣悠久。在暹羅，人們訓練大象在殺死犯人之前將他擲向空中。1821年，約翰·克勞福德（John
-              Crawfurd）作為英國使節前往交趾支那（現在越南南部），目睹了另一種象刑的行刑方法。克勞福德描述道：「罪人被綁在木樁上，（陛下的）大象沖向了他，並將他踐踏致死。」
+              Crawfurd）作為<nuxt-link to="/civs/Britons">英國</nuxt-link
+              >使節前往交趾支那（現在越南南部），目睹了另一種象刑的行刑方法。克勞福德描述道：「罪人被綁在木樁上，（陛下的）大象沖向了他，並將他踐踏致死。」
             </li>
           </ul>
         </div>
@@ -632,7 +663,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            戰象是經人類馴服和訓練後用於作戰用途的大象。在戰場上主要用於衝散敵軍的陣列、踐踏敵人以及利用高聳的象背向敵方施放投射兵器。士兵也可騎在象背上，形成象兵。戰象通常是雄性，因為公象相對母象更加強健而兇猛。
+            <nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+            >是經人類馴服和訓練後用於作戰用途的大象。在戰場上主要用於衝散敵軍的陣列、踐踏敵人以及利用高聳的象背向敵方施放投射兵器。士兵也可騎在象背上，形成象兵。戰象通常是雄性，因為公象相對母象更加強健而兇猛。
           </p>
           <p>
             唐朝時，東南亞棲息著成群的野象，民眾有以象為代步工具的。戰場上使用大象十分普遍。唐朝初期，林邑王改稱環王。國都為占城。為中國歷史記載，環王的衛兵5000人，作戰時乘坐戰象。國王曾向唐太宗獻馴象等物。元和初年，唐朝安南都護張舟擊敗占城軍，在此戰中繳獲戰象若干。歐洲人記錄了斯里蘭卡的象刑，中國史書記載了占城同樣有象刑。東南亞地區擁有戰象的不止占城。哥羅國的戰象，與一千多年前歐洲戰場上的同類一樣，裝備有象輿，象輿內載四名士兵以弓箭和長矛為武器。另外真臘國有五千戰象，也向唐朝進獻過馴象。
@@ -702,7 +734,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">120</td>
           </tr>
           <tr>
@@ -734,7 +768,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">擴散範圍</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Area_of_Effect">擴散範圍</nuxt-link>
+            </td>
             <td class="unit4">0.4</td>
           </tr>
           <tr>
@@ -763,7 +799,7 @@
             <td class="unit4">0.85</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -811,7 +847,13 @@
                   src="~assets/Battle_Elephant_and_Elite.jpg"
                   alt=""
               /></gallery>
-              <p><em>矛象伕和精銳矛象伕。</em></p>
+              <p>
+                <em
+                  >矛象伕和<nuxt-link to="/units/Elite_Battle_Elephant"
+                    >精銳矛象伕</nuxt-link
+                  >。</em
+                >
+              </p>
             </div>
             <div class="col-md-4">
               <gallery

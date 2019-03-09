@@ -8,27 +8,49 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火砲戰船在帝王時代的碼頭可以訓練。要訓練火砲戰船得先研發火砲戰船科技。
+            <b>火砲戰船</b>在<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >可以訓練。要訓練火砲戰船得先研發火砲戰船<nuxt-link to="/techs"
+              >科技</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            火砲戰船的射程遠比城堡和火砲塔遠，而且對建築物有額外傷害加成，可說是"海上的火砲"(速度比火砲稍快)。火砲戰船有不錯的傷害，但是緩慢的開火速率，砲彈飛行時間長，有最小射程限制等缺點讓他們對船隻的攻擊幾乎沒有抵抗能力，尤其是
+            火砲戰船的射程遠比<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >和<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+            >遠，而且對<nuxt-link to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
+            >有額外傷害加成，可說是"海上的<nuxt-link to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
+            >"(速度比火砲稍快)。火砲戰船有不錯的傷害，但是緩慢的開火速率，砲彈飛行時間長，有最小射程限制等缺點讓他們對<nuxt-link
+              to="/armor/Armor_Class_Ship"
+              >船隻</nuxt-link
+            >的攻擊幾乎沒有抵抗能力，尤其是
             <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>。
           </p>
           <p>
-            當火砲戰船在執行岸邊轟炸城堡和箭塔時，火砲戰船身邊應該要有<nuxt-link
-              to="/units/War_Galley"
+            當火砲戰船在執行岸邊轟炸城堡和<nuxt-link to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >時，火砲戰船身邊應該要有<nuxt-link to="/units/War_Galley"
               >弩砲戰船</nuxt-link
-            >和<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>做護衛保護。
+            >和<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>做<nuxt-link
+              to="/techs/Squires"
+              >護衛</nuxt-link
+            >保護。
           </p>
           <p>
             一般來說，火砲戰船主要用來清理敵方海岸線的建築物，偶爾騷擾範圍內的地面單位。他們不應該用來對付敵方的船隻，而且如果海上威脅沒有完全消失的話，他們很容易就會被消滅。
           </p>
           <p>
-            西班牙的火砲戰船比其他文明的射速要快(每秒飛行7格而不是每秒飛行1.39格)，而且有<nuxt-link
+            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+            >的火砲戰船比其他<nuxt-link to="/civs">文明</nuxt-link>的<nuxt-link
+              to="/elements/Rate_of_Fire"
+              >射速</nuxt-link
+            >要快(每秒飛行7格而不是每秒飛行1.39格)，而且有<nuxt-link
               to="/techs/Ballistics"
               >彈道學</nuxt-link
             >加成可以更容易擊中移動目標。
@@ -147,8 +169,10 @@
                 style="margin: 2px;"
                 src="~assets/Unique-tech.jpg"
                 alt=""
-              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
-              >(火藥單位對移動目標命中率提升，<nuxt-link to="/civs/Portuguese"
+              /><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link>(<nuxt-link
+                to="/units/Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              >對移動目標命中率提升，<nuxt-link to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >限定)
             </td>
@@ -185,7 +209,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -500,7 +526,9 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對火砲戰船有額外攻擊力
+        以下技術可讓以下單位對火砲戰船有額外<nuxt-link to="/elements/Attack"
+          >攻擊力</nuxt-link
+        >
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
@@ -590,7 +618,9 @@
               >， <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船匠</nuxt-link
-              >便宜50％。升級成精銳火砲戰船的花費便宜50%。
+              >便宜50％。升級成<nuxt-link to="/units/Elite_Cannon_Galleon"
+                >精銳火砲戰船</nuxt-link
+              >的花費便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
@@ -603,11 +633,14 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：訓練火砲戰船的黃金花費減少15%，火砲戰船HP+10％。
+              >：訓練火砲戰船的<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >花費減少15%，火砲戰船HP+10％。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：火砲戰船自身有彈道學加成而且砲彈速度更快。
+              >：火砲戰船自身有<nuxt-link to="/techs/Ballistics"
+                >彈道學</nuxt-link
+              >加成而且砲彈速度更快。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
@@ -642,7 +675,7 @@
           <ul>
             <li>
               <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
-              >減少20%船隻木材成本。
+              >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
@@ -684,7 +717,10 @@
               >:可以訓練火砲戰船了。
             </li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:火砲戰船從科技樹移除。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:火砲戰船從<nuxt-link
+                to="/tree/vie"
+                >科技樹</nuxt-link
+              >移除。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -711,7 +747,10 @@
           <ul>
             <li>火砲戰船是唯一一個可以升級的非特殊火藥單位。</li>
             <li>
-              火砲戰船和精銳火砲戰船共用一個頭像。他們也是唯一非特殊單位這麼做的。
+              火砲戰船和精銳火砲戰船共用一個頭像。他們也是唯一非<nuxt-link
+                to="/units/Unique_Unit"
+                >特殊單位</nuxt-link
+              >這麼做的。
             </li>
           </ul>
         </div>
@@ -797,7 +836,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">120</td>
           </tr>
           <tr>
@@ -827,7 +868,9 @@
             <td class="unit4">10秒/次</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -847,15 +890,15 @@
             <td class="unit4">1.95</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
@@ -868,7 +911,7 @@
             <td class="unit4">1.1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">15</td>
           </tr>
           <tr>
@@ -931,7 +974,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/CGHD.jpg" alt=""
               /></gallery>
-              <p><em>各種火砲戰船(世紀帝國和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >各種火砲戰船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
             <div class="col-md-4">
               <gallery

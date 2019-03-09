@@ -8,20 +8,26 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            化學可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            <b>化學</b>可於<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發。研發後可生產
             <nuxt-link to="/units/Gunpowder_Unit"></nuxt-link
-            >火藥單位（除了<nuxt-link to="/civs/Huns">匈奴</nuxt-link
-            >、<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
-            <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>與<nuxt-link
+            ><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+            >（除了<nuxt-link to="/civs/Huns">匈奴</nuxt-link>、<nuxt-link
+              to="/civs/Aztecs"
+              >阿茲特克</nuxt-link
+            >、 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>與<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
             >外）。<nuxt-link to="/units/Siege_Weapons"></nuxt-link
-            >攻城武器、弓箭手和防禦建築(如
-            <nuxt-link to="/building/Castle">城堡</nuxt-link>、箭塔、<nuxt-link
-              to="/building/Town_Center"
-              >城鎮中心</nuxt-link
+            ><nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >、<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+            >和防禦建築(如
+            <nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >、<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >)+1攻擊。
           </p>
         </div>
@@ -30,8 +36,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在帝王時代花費便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：該科技免費。
@@ -55,10 +64,16 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>化學不影響城堡和城鎮中心。</li>
+            <li>
+              化學不影響<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >和<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link>。
+            </li>
             <li>化學給弩砲+2攻擊。</li>
             <li>化學會影響所有射出的箭。</li>
-            <li>化學會減緩投石車的投射物速率20%，砲彈會飛比較慢。</li>
+            <li>
+              化學會減緩<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >的投射物速率20%，砲彈會飛比較慢。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
@@ -79,7 +94,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            化學在中世紀的發展還非常有限，而且當時幾乎完全致力於尋找將基本金屬轉化為金的方法。這項研究被稱為煉金術，研究者被稱為煉金術士。煉金術士偶而會發現有用的化學物質。這些試驗最重要的結果是歐洲人學會煉製火藥，這是中國人早在幾個世紀之前就發明的。
+            化學在中世紀的發展還非常有限，而且當時幾乎完全致力於尋找將基本金屬轉化為金的方法。這項研究被稱為煉金術，研究者被稱為煉金術士。煉金術士偶而會發現有用的化學物質。這些試驗最重要的結果是歐洲人學會煉製火藥，這是<nuxt-link
+              to="/civs/Chinese"
+              >中國人</nuxt-link
+            >早在幾個世紀之前就發明的。
           </p>
         </div>
       </div>
@@ -105,7 +123,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -138,11 +156,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

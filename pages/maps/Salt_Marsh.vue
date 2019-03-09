@@ -10,7 +10,20 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            鹽沼地可能是《世紀帝國:王者崛起》版本前的第一個兩棲地圖。鹽沼地半水半陸，同時有許多淺灘、沼澤和可通行的水域。雖然有大量樹木跟水域提供天然的屏障，但淺灘的位置讓玩家難以限制敵人的突襲。強烈建議投資海軍，控制水域跟預防敵人來襲，神風船可以伏擊穿越淺灘的單位造成大量傷害；運輸船可以繞過防禦點在敵人後方發動奇襲。
+            <b>鹽沼地</b>可能是<nuxt-link to="/games/aor"
+              >《世紀帝國:王者崛起》</nuxt-link
+            >版本前的第一個兩棲地圖。鹽沼地半水半陸，同時有許多淺灘、<nuxt-link
+              to="/maps/Bog_Islands"
+              >沼澤</nuxt-link
+            >和可通行的水域。雖然有大量樹木跟水域提供天然的屏障，但淺灘的位置讓玩家難以限制敵人的突襲。強烈建議投資<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍</nuxt-link
+            >，控制水域跟預防敵人來襲，<nuxt-link to="/units/Demolition_Ship"
+              >神風船</nuxt-link
+            >可以伏擊穿越淺灘的單位造成大量傷害；<nuxt-link
+              to="/units/Transport_Ship"
+              >運輸船</nuxt-link
+            >可以繞過防禦點在敵人後方發動奇襲。
           </p>
         </div>
       </div>

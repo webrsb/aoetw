@@ -8,11 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>供養軍隊</b
-            >是華勒斯教學戰役的第二個劇情關卡，主要為採集資源並生產軍隊。
+            <b>供養軍隊</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
+            >的第二個劇情關卡，主要為採集資源並生產軍隊。
           </p>
           <p>
-            專為那些從未玩過“世紀帝國”遊戲的玩家設計，教導玩家如何使用村民採集資源。
+            專為那些從未玩過“世紀帝國”遊戲的玩家設計，教導玩家如何使用<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >採集資源。
           </p>
         </div>
         <h2>玩家</h2>
@@ -22,7 +25,9 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">黑暗時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">無</td>
               <td class="tc1" width="15%">人口上限：</td>
@@ -53,7 +58,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>收集50單位食物、50單位木材、50單位黃金。</li>
+              <li>
+                收集50單位<nuxt-link to="/resource/Food">食物</nuxt-link
+                >、50單位<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >、50單位<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
+              </li>
             </ol>
           </div>
         </div>
@@ -62,7 +71,11 @@
         <div class="n1">
           <ul>
             <li>
-              村民可以採集你在建造、研發科技，與生產士兵時必須用到的食物、木材、黃金與石頭。
+              村民可以採集你在建造、研發<nuxt-link to="/techs">科技</nuxt-link
+              >，與生產士兵時必須用到的食物、木材、黃金與<nuxt-link
+                to="/resource/Stone"
+                >石頭</nuxt-link
+              >。
             </li>
           </ul>
           <h3>細節</h3>
@@ -72,13 +85,19 @@
               此關地圖中共有895單位的食物。（但由於鹿會腐爛，玩家無法收集所有單位食物）
             </li>
             <li>
-              玩家可以試著升級到帝王時代，建造一個世界奇觀。200年後，奇觀將授予勝利。
+              玩家可以試著升級到<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >，建造一個<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >。200年後也會勝利。
             </li>
             <li>
               然而，與這場關卡中的其他劇情任務一樣，取得勝利的替代路線也要慢得多。
             </li>
             <li>
-              為了升級到帝王時代，玩家必須十分小心，不要超過50單位的標準勝利條件所必需的資源，可以在封建時代時建造市場，在遊戲過程中將所有的多餘資源全部交易出去。
+              為了升級到帝王時代，玩家必須十分小心，不要超過50單位的標準勝利條件所必需的資源，可以在<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >時建造市場，在遊戲過程中將所有的多餘資源全部交易出去。
             </li>
             <li>在整個遊戲中，速度不能改變。</li>
             <li>此關卡城鎮鈴鐺並沒有效果。</li>
@@ -120,7 +139,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
             </td>
@@ -134,7 +153,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第一章之二</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第一章之二
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

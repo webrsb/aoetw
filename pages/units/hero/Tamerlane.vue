@@ -16,15 +16,23 @@
             ><nuxt-link to="/units/hero">英雄</nuxt-link
             >，也可在地圖編輯器中使用。史實中的他是突厥化
             <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-            >的統治者，最著名的事蹟是在中亞建立了帖木兒王朝，企圖恢復蒙古帝國在<nuxt-link
-              to="/units/hero/Genghis_Khan"
-              >成吉思汗</nuxt-link
+            >的統治者，最著名的事蹟是在中亞建立了帖木兒王朝，企圖恢復<nuxt-link
+              to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >帝國在<nuxt-link to="/units/hero/Genghis_Khan">成吉思汗</nuxt-link
             >時代時的輝煌。他同時也是蒙兀兒帝國開國君主，
             <nuxt-link to="/units/hero/Babur">巴卑爾</nuxt-link>的曾祖父
           </p>
           <p>
             帖木兒在遊戲中以<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
-            >的外型出現，和其他馬弓騎兵一樣，會受到影響馬弓騎兵的升級和家成影響。由於他是一名英雄，因此不會被招降且會自動回血。(自征服者入侵版本以後)。
+            >的外型出現，和其他<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >一樣，會受到影響馬弓騎兵的升級和家成影響。由於他是一名<nuxt-link
+              to="/units/hero"
+              >英雄</nuxt-link
+            >，因此不會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >。(自<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>版本以後)。
           </p>
         </div>
       </div>
@@ -59,7 +67,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -67,12 +77,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">6(遠程)</td>
+            <td class="unit4">
+              6(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -85,7 +99,9 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -109,16 +125,16 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
@@ -132,7 +148,7 @@
             <td class="unit4">1.41</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

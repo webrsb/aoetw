@@ -8,23 +8,51 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            重型神風船在<nuxt-link to="/techs/age/Imperial_Age"
+            <b>重型神風船</b>在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >可以訓練。重型神風船上裝滿了爆炸物，可以對敵方的船隻，碼頭，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。重型神風船比神風船有更好的護甲、HP和更廣的爆炸範圍。他們可說是海上的爆炸桶。
+            >可以訓練。重型神風船上裝滿了爆炸物，可以對敵方的<nuxt-link
+              to="/units/Naval_Vessels"
+              >船隻</nuxt-link
+            >，<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >，被困在淺灘地地面單位，以及任何靠近岸邊的地方造成巨量傷害。重型神風船比<nuxt-link
+              to="/units/Demolition_Ship"
+              >神風船</nuxt-link
+            >有更好的護甲、HP和更廣的爆炸範圍。他們可說是海上的<nuxt-link
+              to="/units/Petard"
+              >爆炸桶</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            重型神風船可輕易對付火戰船和滿載的運輸船。重型神風船在死亡時爆炸，對附近的單位造成爆炸傷害。但是它們不會造成友軍傷害，所以附近的盟友不會受到傷害。
+            重型神風船可輕易對付<nuxt-link to="/units/Fire_Ship"
+              >火戰船</nuxt-link
+            >和滿載的<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >。重型神風船在死亡時爆炸，對附近的單位造成爆炸傷害。但是它們不會造成友軍傷害，所以附近的盟友不會受到傷害。
           </p>
           <p>
-            與神風船類似重型神風船的使用類似於巡航導彈，用來對付關鍵目標（如滿載的運輸船）。神風船和重型神風船是遊戲中速度最快的軍艦（特別是在研究了旱碼頭的情況下），比大多數海軍單位快得多，讓他們能輕易追上敵人。它的範圍傷害可以一擊就打死大部分船隻或船隊，但由於它是一個自殺單位，若使用不當則投資報酬率會非常低。神風船對戰船、火戰船和運輸船都十分有效。但是他們對重武裝的龜甲船還有維京大戰船比較無效。但是，如果數量足夠多(3艘以上)的話，它們還是能造成足夠傷害。
+            與神風船類似重型神風船的使用類似於巡航導彈，用來對付關鍵目標（如滿載的運輸船）。神風船和重型神風船是遊戲中速度最快的軍艦（特別是在研究了<nuxt-link
+              to="/techs/Dry_Dock"
+              >旱碼頭</nuxt-link
+            >的情況下），比大多數<nuxt-link to="/units/Naval_Vessels"
+              >海軍單位</nuxt-link
+            >快得多，讓他們能輕易追上敵人。它的範圍傷害可以一擊就打死大部分船隻或船隊，但由於它是一個自殺單位，若使用不當則投資報酬率會非常低。神風船對<nuxt-link
+              to="/units/Galley"
+              >戰船</nuxt-link
+            >、火戰船和運輸船都十分有效。但是他們對重武裝的<nuxt-link
+              to="/units/Turtle_Ship"
+              >龜甲船</nuxt-link
+            >還有<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
+            >比較無效。但是，如果數量足夠多(3艘以上)的話，它們還是能造成足夠傷害。
           </p>
           <p>
-            重型神風船也可以成為處理敵方海岸線基礎設施的絕佳工具，因為它們可以快速取下敵方的碼頭，而無需犧牲其他支援重型神風船的海軍船隻。
+            重型神風船也可以成為處理敵方海岸線基礎設施的絕佳工具，因為它們可以快速取下敵方的碼頭，而無需犧牲其他支援重型神風船的<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍</nuxt-link
+            >船隻。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -104,12 +132,17 @@
             <td class="tta4">
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-              >、在岸邊的建築物和近戰單位、淺灘上的近戰單位。
+              >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
+              >和近戰單位、淺灘上的近戰單位。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">箭塔、在岸邊的遠程單位。</td>
+            <td class="tta4">
+              <nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >、在岸邊的<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+              >。
+            </td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -148,7 +181,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -453,7 +488,9 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對重型神風船有額外攻擊力
+        以下技術可讓以下單位對重型神風船有額外<nuxt-link to="/elements/Attack"
+          >攻擊力</nuxt-link
+        >
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
@@ -528,7 +565,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於重型神風船的科技在帝王時代便宜20％。重型神風船HP+50%。
+              >：有利於重型神風船的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >便宜20％。重型神風船HP+50%。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -548,7 +587,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：訓練重型神風船的花費減少15%黃金，神風船HP+10％。
+              >：訓練重型神風船的花費減少15%<nuxt-link to="/resource/Gold"
+                >黃金</nuxt-link
+              >，神風船HP+10％。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
@@ -576,7 +617,7 @@
             <li>重型神風船有60的HP。</li>
             <li>
               <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
-              >減少20%船隻木材成本。
+              >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
           </ul>
           <h3>
@@ -655,7 +696,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看分類</td>
           </tr>
           <tr>
@@ -700,7 +741,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">70</td>
           </tr>
           <tr>
@@ -718,15 +761,15 @@
             <td class="unit4">3.5</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>(+5)
             </td>
@@ -736,7 +779,7 @@
             <td class="unit4">1.6</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
           <tr>
@@ -778,7 +821,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/HDemolitionShipHD.png" alt=""
               /></gallery>
-              <p><em>各種重型神風船(世紀帝國和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >各種重型神風船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
             <div class="row">
               <div class="col-md-4">

@@ -8,35 +8,51 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            投石手是<nuxt-link to="/civs/Incas">印加</nuxt-link
+            <b>投石手</b>是<nuxt-link to="/civs/Incas">印加</nuxt-link
             >的第二個獨特單位，可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在
             <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-            >生產，是一個反步兵的遠程單位。值得一提的是，投石手沒有精銳升級。
+            >生產，是一個反<nuxt-link to="/armor/Armor_Class_Infantry"
+              >步兵</nuxt-link
+            >的<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+            >。值得一提的是，投石手沒有精銳升級。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            投石手對於步兵的攻擊+10，是早期最為強大的反步兵單位，可以擊敗除了<nuxt-link
-              to="/units/Huskarl"
-              >哥德衛隊</nuxt-link
+            投石手對於步兵的攻擊+10，是早期最為強大的反<nuxt-link
+              to="/armor/Armor_Class_Infantry"
+              >步兵單位</nuxt-link
+            >，可以擊敗除了<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
             >與<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
             >以外大部分的步兵，另一個潛在的敵人是
-            <nuxt-link to="/units/Samurai">日本武士</nuxt-link
-            >，因為日本武士對於特殊單位有相當高的加成。
+            <nuxt-link to="/units/Samurai">日本武士</nuxt-link>，因為<nuxt-link
+              to="/units/Samurai"
+              >日本武士</nuxt-link
+            >對於<nuxt-link to="/armor/Armor_Class_Unique_Unit"
+              >特殊單位</nuxt-link
+            >有相當高的加成。
           </p>
           <p>
             在某些方面，它的定位相當類似於
             <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-            >，但投石手在城堡時代即可生產，也相當便宜，而受到
+            >，但投石手在<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >即可生產，也相當便宜，而受到
             <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
-            >(僅支援靜態準度由90%提升到100%，不支援射速提高)與
+            >(僅支援靜態準度由90%提升到100%，不支援<nuxt-link
+              to="/elements/Rate_of_Fire"
+              >射速</nuxt-link
+            >提高)與
             <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link
-            >的影響，他更為的精準。當
-            護琬科技研發後，射程還比火槍兵還遠。但他的攻擊力仍遠低於火槍兵，即使受益於
+            >的影響，他更為的精準。當 護琬<nuxt-link to="/techs">科技</nuxt-link
+            >研發後，射程還比<nuxt-link to="/units/Hand_Cannoneer"
+              >火槍兵</nuxt-link
+            >還遠。但他的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >仍遠低於火槍兵，即使受益於
             <nuxt-link to="/techs/Chemistry">化學</nuxt-link>的加成。如同
             <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >一樣，投石手有最小的攻擊範圍，但這不是一個嚴重的問題，他可以通過研發
@@ -46,7 +62,14 @@
             投石手是俗稱的<nuxt-link to="/civs/Incas">印加</nuxt-link
             >三寶之一，還有 <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link>與
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-            >，這三個單位都扮演著相當重要的腳色，槍隊長是反騎兵、鷹勇士反弓兵，而投石手是優秀的反步兵單位，這種組合幾乎可以擊敗所有軍隊，但可惜的是面對
+            >，這三個單位都扮演著相當重要的腳色，<nuxt-link to="/units/Kamayuk"
+              >槍隊長</nuxt-link
+            >是<nuxt-link to="/armor/Armor_Class_Cavalry">反騎兵</nuxt-link
+            >、<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >反<nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link
+            >，而投石手是優秀的反<nuxt-link to="/armor/Armor_Class_Infantry"
+              >步兵單位</nuxt-link
+            >，這種組合幾乎可以擊敗所有軍隊，但可惜的是面對
             <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>及<nuxt-link
               to="/units/Cataphract"
               >聖騎兵</nuxt-link
@@ -147,8 +170,8 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link
-              >:矛兵和投石手取消最小射程，<nuxt-link to="/civs/Incas"
-                >印加</nuxt-link
+              >:<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >和投石手取消最小射程，<nuxt-link to="/civs/Incas">印加</nuxt-link
               >限定
             </td>
           </tr>
@@ -213,7 +236,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -346,7 +371,8 @@
               </div>
             </div>
           </div>
-          以下團隊加分可讓以下單位對投石手有額外攻擊力
+          以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+          >可讓以下單位對投石手有額外攻擊力
           <div class="n1">
             團隊加分:<nuxt-link to="/civs/Persians">波斯</nuxt-link
             >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -390,7 +416,12 @@
                 >拇指環</nuxt-link
               >速度快20%。
             </li>
-            <li><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：視野+2。</li>
+            <li>
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >+2。
+            </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：
               <img
@@ -425,7 +456,9 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>需要城堡才能訓練。</li>
+            <li>
+              需要<nuxt-link to="/building/Castle">城堡</nuxt-link>才能訓練。
+            </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>:<nuxt-link
                 to="/techs/Couriers"
@@ -496,7 +529,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Incas">印加</nuxt-link></td>
           </tr>
           <tr>
@@ -543,12 +576,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">40</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">5(遠程)</td>
+            <td class="unit4">
+              5(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -569,7 +606,9 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -589,15 +628,15 @@
             <td class="unit4">5.5</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -631,7 +670,13 @@
             <gallery
               ><img class="imgn hg" src="~assets/Slingers_Attack.png" alt=""
             /></gallery>
-            <p><em>一群投石手正攻擊採礦營地</em></p>
+            <p>
+              <em
+                >一群投石手正攻擊<nuxt-link to="/building/Mining_Camp"
+                  >採礦營地</nuxt-link
+                ></em
+              >
+            </p>
           </div>
           <div class="col-md-4">
             <gallery

@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於射手系裝甲的。而關於遠距離這個單位請參見<nuxt-link
+            >這篇文章是將有關於<strong>射手系裝甲</strong>。而關於遠距離這個單位請參見<nuxt-link
               to="/units/Archer_Units"
               >遠距離單位</nuxt-link
             ></em
@@ -18,7 +18,8 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            射手系是一個防禦裝甲類別，所有在這個系列的兵種都會被剋射手系的兵種有額外的傷害。
+            <b>射手系</b>是一個<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            >類別，所有在這個系列的兵種都會被剋射手系的兵種有額外的傷害。
           </p>
         </div>
         <h3>射手系單位</h3>
@@ -408,9 +409,10 @@
           <h3>團隊加分</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <nuxt-link to="/civs/Persians">波斯</nuxt-link
-            >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
-              to="/units/Archer_Units"
+            <nuxt-link to="/civs/Persians">波斯</nuxt-link>在<nuxt-link
+              to="/elements/Team_Bonus"
+              >團隊加分</nuxt-link
+            >裡，給予以下單位+2額外攻擊vs<nuxt-link to="/units/Archer_Units"
               >射手單位</nuxt-link
             >。
             <div class="row">

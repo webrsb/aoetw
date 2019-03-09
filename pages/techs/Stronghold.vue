@@ -8,12 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            堡壘是<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>堡壘</b>是<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >發。研發後城堡和箭塔射速+25%。
+            >發。研發後<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            ><nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>+25%。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -63,7 +64,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>
             </td>
@@ -97,11 +98,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>

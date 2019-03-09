@@ -8,18 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            游牧是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>游牧</b>是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/House">居住房舍</nuxt-link
-            >(或是蒙古包)被摧毀後人口上限數不會下降。<nuxt-link
-              to="/building/Castle"
+            >(或是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+            >包)被摧毀後人口上限數不會下降。<nuxt-link to="/building/Castle"
               >城堡</nuxt-link
             >和
             <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >則不受影響，被摧毀後還是會減少總人口數。游牧也許是所有特殊科技中最便宜的了，只需300木材。
+            >則不受影響，被摧毀後還是會減少總人口數。游牧也許是所有特殊科技中最便宜的了，只需300<nuxt-link
+              to="/resource/Wood"
+              >木材</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -27,7 +29,10 @@
         <div class="n1">
           <ul>
             <li>
-              游牧的研發通常是玩家在大部分的軍隊攻擊敵方基地而敵方部隊不預期的出現在城鎮裡面，研發後即使房屋被摧毀人口上限也不會減少，可以省下大量用來重建的木材花費。
+              游牧的研發通常是玩家在大部分的軍隊攻擊敵方基地而敵方部隊不預期的出現在城鎮裡面，研發後即使<nuxt-link
+                to="/building/House"
+                >房屋</nuxt-link
+              >被摧毀人口上限也不會減少，可以省下大量用來重建的木材花費。
             </li>
             <li>
               研發游牧後也可以自行摧毀房屋來增加<nuxt-link
@@ -75,7 +80,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
             </td>
@@ -119,7 +124,10 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">居住房舍被摧毀後人口上限不會下降。</td>
+            <td class="unit4">
+              <nuxt-link to="/building/House">居住房舍</nuxt-link
+              >被摧毀後人口上限不會下降。
+            </td>
           </tr>
         </table>
 

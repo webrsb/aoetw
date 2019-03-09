@@ -7,12 +7,15 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          馬廄是生產騎兵與升級騎兵的建築。 <br />除<nuxt-link to="/civs/Aztecs"
-            >阿茲特克</nuxt-link
-          >，<nuxt-link to="/civs/Incas">印加</nuxt-link>和<nuxt-link
-            to="/civs/Mayans"
-            >馬雅</nuxt-link
-          >之外，所有文明都有馬廄。
+          <b>馬廄</b>是生產<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+          >與升級騎兵的<nuxt-link to="/building">建築</nuxt-link>。
+          <br />除<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>，<nuxt-link
+            to="/civs/Incas"
+            >印加</nuxt-link
+          >和<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>之外，所有<nuxt-link
+            to="/civs"
+            >文明</nuxt-link
+          >都有馬廄。
         </div>
         <h3>可訓練的單位與技術</h3>
         <div class="hrn1"></div>
@@ -152,7 +155,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -188,7 +193,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -206,7 +211,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">招降抵抗</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -280,12 +287,20 @@
               >便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：射箭場在封建/城堡/帝王時代多20%/30%/40%的血量。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>：<nuxt-link
+                to="/building/Archery_Range"
+                >射箭場</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >多20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對馬廄有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：對馬廄有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：蓋馬廄不用
@@ -296,7 +311,10 @@
                 to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
               >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
-              >的速度在封建/城堡/帝王快10%/15%/20%。
+              >的速度在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >快10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -356,7 +374,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            中世紀的時軍隊對騎馬作戰的重視提高了對馬匹的大量需求，這些馬匹在馬厩裡飼養和訓練。馬匹的用途眾多，包括供長途旅行的馬匹，在兩地快速移動的快馬以及用來沖向敵陣的重型戰馬。斥候騎兵和輕騎兵部隊則需要有耐力的且跑得快的馬。強大的重型戰馬則需要有足夠力氣能背負全副武裝的士兵衝鋒陷陣。士兵們在馬厩訓練如何在馬背上用矛，騎槍，劍，鎖鏈和錘子的作戰的技巧。在世界的其他地方，駱駝和大象也被飼養來進行戰鬥。
+            中世紀的時軍隊對騎馬作戰的重視提高了對馬匹的大量需求，這些馬匹在馬厩裡飼養和訓練。馬匹的用途眾多，包括供長途旅行的馬匹，在兩地快速移動的快馬以及用來沖向敵陣的重型戰馬。<nuxt-link
+              to="/units/Scout_Cavalry"
+              >斥候騎兵</nuxt-link
+            >和<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >部隊則需要有耐力的且跑得快的馬。強大的重型戰馬則需要有足夠力氣能背負全副武裝的士兵衝鋒陷陣。士兵們在馬厩訓練如何在馬背上用矛，騎槍，劍，鎖鏈和錘子的作戰的技巧。在世界的其他地方，駱駝和大象也被飼養來進行戰鬥。
           </p>
         </div>
       </div>
@@ -451,7 +473,7 @@
             <td class="unit4">10</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -474,7 +496,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -527,7 +549,14 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有封建時代的馬廄(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+                  >的馬廄(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -551,7 +580,12 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:185px">
-              <p><em>所有城堡時代的馬廄(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                  >的馬廄(帝王世紀和征服者入侵資料片)。</em
+                >
+              </p>
             </div>
           </div>
         </div>

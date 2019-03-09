@@ -8,10 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            重裝駱駝騎兵是<nuxt-link to="/techs/age/Imperial_Age"
+            <b>重裝駱駝騎兵</b>是<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
-            >，對於騎兵較有優勢。
+            >，對於<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+            >較有優勢。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -80,7 +81,9 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          重裝駱駝騎兵在帝王時代，除了對抗騎兵系兵種外對大部分的兵種都趨於弱勢，不過在今天馬橫行天下的情況下，他仍非常的好用。
+          重裝駱駝騎兵在<nuxt-link to="/techs/age/Imperial_Age"
+            >帝王時代</nuxt-link
+          >，除了對抗騎兵系兵種外對大部分的兵種都趨於弱勢，不過在今天馬橫行天下的情況下，他仍非常的好用。
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -118,7 +121,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -133,7 +138,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -157,8 +164,8 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Farimba"
                 >驃悍精神</nuxt-link
-              >：馬廄單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >限定
+              >：<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              >單位攻擊+5。<nuxt-link to="/civs/Malians">馬利</nuxt-link>限定
             </td>
           </tr>
           <tr>
@@ -199,7 +206,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -232,8 +241,10 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
-              >:駱駝部隊獲得回血能力(每分鐘回15 HP)，<nuxt-link
-                to="/civs/Berbers"
+              >:<nuxt-link to="/units/Camel">駱駝</nuxt-link>部隊獲得<nuxt-link
+                to="/Regeneration"
+                >回血</nuxt-link
+              >能力(每分鐘回15 HP)，<nuxt-link to="/civs/Berbers"
                 >柏柏</nuxt-link
               >限定
             </td>
@@ -304,9 +315,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </div>
               </div>
@@ -483,7 +494,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對重裝駱駝騎兵有利的科技在帝王時代便宜/20%。
+              >：對重裝駱駝騎兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在帝王時代便宜/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Indians">印度</nuxt-link
@@ -518,7 +530,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：重裝駱駝騎兵對僧侶抵抗力更強。
+              >：重裝駱駝騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >抵抗力更強。
             </li>
           </ul>
         </div>
@@ -532,10 +545,12 @@
             <li>訓練時間為29秒。</li>
             <li>移動速度為1.4。</li>
             <li>
-              重裝駱駝騎兵的防禦類型有包括<nuxt-link
-                to="/armor/Armor_Class_Cavalry"
+              重裝駱駝騎兵的<nuxt-link to="/armor">防禦類型</nuxt-link
+              >有包括<nuxt-link to="/armor/Armor_Class_Cavalry"
                 >騎兵護甲</nuxt-link
-              >，所以會受到反騎兵的傷害。
+              >，所以會受到<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >反騎兵</nuxt-link
+              >的傷害。
             </li>
             <li></li>
           </ul>
@@ -572,7 +587,11 @@
               >的影響，他們正式有自己的防禦類型：<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
-              >護甲。但駱駝仍然對船隻有+9的攻擊。反騎兵攻擊仍然不影響駱駝。
+              >護甲。但駱駝仍然對<nuxt-link to="/armor/Armor_Class_Ship"
+                >船隻</nuxt-link
+              >有+9的攻擊。<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >反騎兵</nuxt-link
+              >攻擊仍然不影響駱駝。
             </li>
           </ul>
         </div>
@@ -581,17 +600,36 @@
         <div class="n1">
           <ul>
             <li>
-              駱駝是少數幾個符合史實的單位，從古至今，駱駝被地中海和印度地區的軍隊使用，雖然目前還不清楚中國和蒙古是否用駱駝作戰，但肯定的是他們會拿來運送物資。
+              駱駝是少數幾個符合史實的單位，從古至今，駱駝被地中海和<nuxt-link
+                to="/civs/Indians"
+                >印度</nuxt-link
+              >地區的軍隊使用，雖然目前還不清楚<nuxt-link to="/civs/Chinese"
+                >中國</nuxt-link
+              >和<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >是否用駱駝作戰，但肯定的是他們會拿來運送物資。
             </li>
             <li>
-              遊戲中的駱駝騎兵是單峰駱駝，而現實中;中國與蒙古原產的是雙峰駱駝，速度極為緩慢，並不適合作戰。
+              遊戲中的<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >是單峰駱駝，而現實中;中國與蒙古原產的是雙峰駱駝，速度極為緩慢，並不適合作戰。
             </li>
             <li>
-              中國和蒙古是遊戲中，除了非洲與中東國家外，唯二有駱駝的文明。
+              中國和蒙古是遊戲中，除了非洲與中東國家外，唯二有駱駝的<nuxt-link
+                to="/civs"
+                >文明</nuxt-link
+              >。
             </li>
-            <li>駱駝是唯二生產會有自己音效的軍事單位，另一個是投石機。</li>
+            <li>
+              駱駝是唯二生產會有自己音效的軍事單位，另一個是<nuxt-link
+                to="/units/Trebuchet"
+                >投石機</nuxt-link
+              >。
+            </li>
             <li>駱駝與重裝駱駝騎兵音效相同。</li>
-            <li>駱駝是唯一沒有任何防禦的騎兵單位。</li>
+            <li>
+              駱駝是唯一沒有任何防禦的<nuxt-link to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >。
+            </li>
           </ul>
         </div>
         <h3>豆知識</h3>
@@ -664,11 +702,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">55</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -677,7 +719,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">120</td>
           </tr>
           <tr>
@@ -700,11 +744,11 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -718,7 +762,7 @@
             <td class="unit4">1.45</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>

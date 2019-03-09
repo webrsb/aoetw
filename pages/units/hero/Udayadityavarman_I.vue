@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            優陀耶迭多跋摩一世在"帝王世紀"資料片中只能在地圖編輯器裡找的到。
+            <b>優陀耶迭多跋摩一世</b
+            >在"帝王世紀"資料片中只能在地圖編輯器裡找的到。
           </p>
           <p>
             優陀耶迭多跋摩二世（Udayadityavarman II，又譯烏達雅地耶跋摩二世）
@@ -17,7 +18,10 @@
           </p>
           <p>
             優陀耶迭多跋摩二世建造的另外一個有名的建築物是Sdok Kak
-            Thom寺，位於現今的泰國沙繳府的亞蘭縣(Aranyaprathet)，但是寺中最有名的發現，是一份詳細列明優陀耶迭多跋摩二世之前所有高棉國王排序的碑文，讓現代的考古學家得以進一步了解先前高棉吳哥王朝的歷史。現在的一部分碑文，收集於曼谷的國家博物館保存
+            Thom寺，位於現今的泰國沙繳府的亞蘭縣(Aranyaprathet)，但是寺中最有名的發現，是一份詳細列明優陀耶迭多跋摩二世之前所有<nuxt-link
+              to="/civs/Khmer"
+              >高棉</nuxt-link
+            >國王排序的碑文，讓現代的考古學家得以進一步了解先前高棉吳哥王朝的歷史。現在的一部分碑文，收集於曼谷的國家博物館保存
           </p>
         </div>
       </div>
@@ -54,7 +58,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -62,20 +68,22 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -83,7 +91,7 @@
             <td class="unit4">1.32</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

@@ -8,15 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            彎刀勇士是<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>彎刀勇士</b>是<nuxt-link to="/civs/Ethiopians"
+              >衣索比亞</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。彎刀勇士是是個快速、高攻擊、生產速度快但脆弱的單位。彎刀勇士可以在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳彎刀勇士。
+            >升級為<nuxt-link to="/units/Shotel_Warrior">精銳彎刀勇士</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -27,43 +29,87 @@
               彎刀勇士善長以高傷害和速度做突襲，並且由於生產速度快，可以僵屍流的方式做基地最後的防守。當<nuxt-link
                 to="/techs/Royal_Heirs"
                 >皇族血脈</nuxt-link
-              >研發後，他們能比哥德步兵訓練得更快。
+              >研發後，他們能比<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              ><nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >訓練得更快。
             </li>
             <li>
-              帝王時代的彎刀勇士只需兩擊便可帶走一位村民。它們也能有效的摧毀建築物，但請盡量避開防禦建築。
+              <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >的彎刀勇士只需兩擊便可帶走一位<nuxt-link to="/units/Villager"
+                >村民</nuxt-link
+              >。它們也能有效的摧毀<nuxt-link to="/building">建築物</nuxt-link
+              >，但請盡量避開防禦建築。
             </li>
             <li>
-              彎刀勇士即使研發精銳後也只給+1遠防和50HP，非常脆弱。任何有基本攻擊力的單位如:<nuxt-link
-                to="/units/Knight"
-                >騎士</nuxt-link
-              >、
+              彎刀勇士即使研發精銳後也只給+1<nuxt-link to="/armor"
+                >遠防</nuxt-link
+              >和50HP，非常脆弱。任何有基本<nuxt-link to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >的單位如:<nuxt-link to="/units/Knight">騎士</nuxt-link>、
               <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
-              >、一群的弓箭手都能輕易地帶走彎刀勇士。
+              >、一群的<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+              >都能輕易地帶走彎刀勇士。
             </li>
             <li>
-              彎刀勇士的高攻速對攻城單位有奇效，當玩家決定在敵對營地壓城堡時，彎刀勇士是非常好的防守城堡單位。因為它們可以很容易地摧毀敵人的<nuxt-link
+              彎刀勇士的高攻速對<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >有奇效，當玩家決定在敵對營地壓<nuxt-link to="/building/Castle"
+                >城堡</nuxt-link
+              >時，彎刀勇士是非常好的防守城堡單位。因為它們可以很容易地摧毀敵人的<nuxt-link
                 to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
-              >，從而保護城堡，因為衝撞車幾乎是城堡時代城堡唯一的威脅。
-            </li>
-            <li>
-              若敵人的營地是用城堡和箭塔來保護，可以將彎刀勇士駐守在<nuxt-link
-                to="/units/Battering_Ram"
+              >，從而保護城堡，因為<nuxt-link to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
-              >中衝向對方陣營。並讓衝撞車充分升級，那麼彎刀勇士就可以幾乎無損地運載到敵方城鎮的中心，進而造成重大傷害。衝撞車也能作為額外的建築破壞者。
+              >幾乎是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >城堡唯一的威脅。
             </li>
             <li>
-              一般來說，彎刀勇士是相當兩極化的單位，因為他們需要大量的黃金但相當脆弱。彎刀戰士多是用來作為突襲的，衣索比亞應該以彎刀勇士替代騎士做為城堡時代快攻的單位，因為在相同的成本下彎刀勇士的高機動性和攻擊力（研發縱火後）可讓他們比騎士對敵人村莊造成更大損傷。此外，衣索比亞人沒有
+              若敵人的營地是用城堡和<nuxt-link to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >來保護，可以將彎刀勇士駐守在<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >中衝向對方陣營。並讓衝撞車充分升級，那麼彎刀勇士就可以幾乎無損地運載到敵方城鎮的中心，進而造成重大傷害。衝撞車也能作為額外的<nuxt-link
+                to="/building"
+                >建築</nuxt-link
+              ><nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link>。
+            </li>
+            <li>
+              一般來說，彎刀勇士是相當兩極化的單位，因為他們需要大量的<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >但相當脆弱。彎刀戰士多是用來作為突襲的，<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞</nuxt-link
+              >應該以彎刀勇士替代<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >做為城堡時代快攻的單位，因為在相同的成本下彎刀勇士的高機動性和攻擊力（研發<nuxt-link
+                to="/techs/Arson"
+                >縱火</nuxt-link
+              >後）可讓他們比騎士對敵人村莊造成更大損傷。此外，<nuxt-link
+                to="/civs/Ethiopians"
+                >衣索比亞人</nuxt-link
+              >沒有
               <nuxt-link to="/techs/Bloodlines">品種</nuxt-link>，<nuxt-link
                 to="/techs/Plate_Barding_Armor"
                 >騎兵板甲</nuxt-link
-              >和<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-              >等騎兵的重要升級，使得衣索比亞的騎士遠遠不及於
+              >和<nuxt-link to="/units/Paladin">遊俠</nuxt-link>等<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >的重要升級，使得衣索比亞的騎士遠遠不及於
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>人，<nuxt-link
                 to="/civs/Huns"
                 >匈奴</nuxt-link
               >人和<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-              >人等其他文明的騎士。然而，考慮到衣索比亞經濟實力堅強，時代升級時免費的食物和黃金，免費的長槍兵和戟兵科技，還有更快的弓兵射速，讓它們能使用彎刀或是
+              >人等其他<nuxt-link to="/civs">文明</nuxt-link
+              >的騎士。然而，考慮到衣索比亞經濟實力堅強，時代升級時免費的<nuxt-link
+                to="/resource/Food"
+                >食物</nuxt-link
+              >和黃金，免費的<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+              >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link>，還有更快的<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              ><nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+              >，讓它們能使用彎刀或是
               <nuxt-link to="/units/Knight">騎士</nuxt-link
               >快攻以外的快攻選擇(例如:封建/城堡小弓戰術)。
             </li>
@@ -180,7 +226,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -191,7 +239,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -415,7 +465,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            精銳彎刀勇士的18攻擊力比任何的步兵單位要高。它同時有遊戲中第二高的近戰攻擊力，僅次於精銳<nuxt-link
+            精銳彎刀勇士的18攻擊力比任何的<nuxt-link to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >要高。它同時有遊戲中第二高的近戰攻擊力，僅次於精銳<nuxt-link
               to="/units/War_Elephant"
               >戰象</nuxt-link
             >。
@@ -528,7 +580,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">40/50(精銳)</td>
           </tr>
           <tr>
@@ -546,11 +600,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>

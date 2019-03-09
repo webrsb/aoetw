@@ -8,13 +8,48 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            薩拉森是中東的駱駝和海軍文明，世紀帝國II的可使用的最初文明之一。薩拉森這詞一個非常有爭議的詞源，在不同時代上代表著不同人事物，西方文獻裡是稱伊斯蘭/阿拉伯帝國，早期羅馬帝國是稱西奈半島的阿拉伯遊牧民族，東羅馬帝國(拜占庭帝國)則是套在全阿拉伯民族上，伊斯蘭教興起後基督教為主的歐洲人，則是用來稱呼亞洲/北非的穆斯林，薩拉森帝國在歷史上並不存在，真的以現在觀點來稱呼就是阿拉伯哈里發王朝、倭馬亞王朝、阿拔斯王朝。
+            <b>薩拉森</b>是中東的<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >和<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
+            >，世紀帝國II的可使用的最初<nuxt-link to="/civs">文明</nuxt-link
+            >之一。薩拉森這詞一個非常有爭議的詞源，在不同時代上代表著不同人事物，西方文獻裡是稱伊斯蘭/阿拉伯帝國，早期羅馬帝國是稱西奈半島的阿拉伯遊牧民族，東羅馬帝國(<nuxt-link
+              to="/civs/Byzantines"
+              >拜占庭</nuxt-link
+            >帝國)則是套在全阿拉伯民族上，伊斯蘭教興起後基督教為主的歐洲人，則是用來稱呼亞洲/北非的穆斯林，薩拉森帝國在歷史上並不存在，真的以現在觀點來稱呼就是阿拉伯哈里發王朝、倭馬亞王朝、阿拔斯王朝。
           </p>
           <p>
-            現實中在哈里發王朝、倭馬亞王朝、阿拔斯王朝的統治下，薩拉森的版圖比羅馬還大在蒙古未入侵之前。遊戲中薩拉森還代表了歷史上有名的沙拉丁的阿尤布王朝，因此在遊戲裡薩拉森代表著多個時代的不同文明、民族、阿拉伯團體的結合體。
+            現實中在哈里發王朝、倭馬亞王朝、阿拔斯王朝的統治下，薩拉森的版圖比羅馬還大在<nuxt-link
+              to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >未入侵之前。遊戲中薩拉森還代表了歷史上有名的沙拉丁的阿尤布王朝，因此在遊戲裡薩拉森代表著多個時代的不同文明、民族、阿拉伯團體的結合體。
           </p>
           <p>
-            薩拉森的獨特單位馬木留克（奴隸兵），是一種對騎兵類有極大傷害的特殊單位，歷史上的奴隸兵戰績輝煌，也是蒙古西征第一次在野戰潰敗的功臣之一，更被西方歷史學家認為這一場阿音札魯特戰役是阻止蒙古毀滅伊斯蘭/基督教文明的一大戰役。薩拉森位於世界十字路口其中古時代鼎鼎有名的阿拉伯商人更加突顯了商業貿易的興盛，因此市場貿易成本僅5%、市場建造也便宜75木材，薩拉森也代表著伊斯蘭教的興起，引此在城堡時代特殊科技穆斯林學墊僧侶被殺害後還會返回資源，此外作為阿拉伯世界最有名的駱駝也有帝王世代特殊科技狂熱舉動血量上升，因為跟拜占庭一樣同屬世界十字路口，海上戰爭也是極為重要因此海軍也有運輸船血量/容量上升，戰船攻擊速度上升。
+            薩拉森的獨特單位馬木留克（<nuxt-link to="/units/Mameluke"
+              >奴隸兵</nuxt-link
+            >），是一種對<nuxt-link to="/armor/Armor_Class_Cavalry"
+              >騎兵類</nuxt-link
+            >有極大傷害的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，歷史上的奴隸兵戰績輝煌，也是蒙古西征第一次在野戰潰敗的功臣之一，更被西方歷史學家認為這一場阿音札魯特<nuxt-link
+              to="/batt"
+              >戰役</nuxt-link
+            >是阻止蒙古毀滅伊斯蘭/基督教文明的一大戰役。薩拉森位於世界十字路口其中古時代鼎鼎有名的阿拉伯商人更加突顯了商業貿易的興盛，因此市場貿易成本僅5%、市場建造也便宜75<nuxt-link
+              to="/resource/Wood"
+              >木材</nuxt-link
+            >，薩拉森也代表著伊斯蘭教的興起，引此在<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Madrasah">穆斯林學墊</nuxt-link
+            ><nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >被殺害後還會返回資源，此外作為阿拉伯世界最有名的駱駝也有帝王世代特殊科技<nuxt-link
+              to="/techs/Zealotry"
+              >狂熱舉動</nuxt-link
+            ><nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >上升，因為跟拜占庭一樣同屬世界十字路口，海上戰爭也是極為重要因此<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍</nuxt-link
+            >也有<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >血量/容量上升，<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
+            ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>上升。
           </p>
         </div>
         <h3>遊戲概要</h3>
@@ -22,28 +57,62 @@
         <div class="n1">
           <ul>
             <li>
-              薩拉森的馬弓騎兵有對建築物+3攻擊加成。步行弓兵對建築也有+1加成。
+              薩拉森的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >有對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >+3攻擊加成。步行<nuxt-link to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
+              >也有+1加成。
             </li>
             <li>
-              薩拉森除了歐洲獨特的騎兵/遊俠(聖騎士)，東南亞矛象外馬廄相關科技全滿的文明之一，更別說馬木留克是一個針對騎兵類的特殊單位。
+              薩拉森除了歐洲獨特的<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >/<nuxt-link to="/units/Paladin">遊俠</nuxt-link>(聖<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >)，東南亞矛象外<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              >相關<nuxt-link to="/techs">科技</nuxt-link
+              >全滿的文明之一，更別說馬木留克是一個針對騎兵類的特殊單位。
             </li>
             <li>
-              薩拉森在弓兵系統上也是全滿再加上團隊對建築攻擊+1加成的讓玩家也可以打弓兵相關戰術。
+              薩拉森在<nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link
+              >統上也是全滿再加上團隊對建築攻擊+1加成的讓玩家也可以打弓兵相關戰術。
             </li>
             <li>
-              薩拉森在步兵系統上只缺少戟兵及鷹勇士系列，軍營相關科技也是全滿因此步兵戰術也是可以使用的，縱然缺少戟兵這項對騎兵最大利器但有著馬木留克及重裝駱駝因此對騎兵類上並不處於弱勢。
+              薩拉森在<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >系統上只缺少<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >及<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >系列，<nuxt-link to="/building/Barracks">軍營</nuxt-link
+              >相關科技也是全滿因此步兵戰術也是可以使用的，縱然缺少戟兵這項對騎兵最大利器但有著馬木留克及重裝駱駝因此對騎兵類上並不處於弱勢。
             </li>
             <li>
-              薩拉森在攻城器上也只缺乏重型弩砲，火藥相關單位(除了火砲塔)也都能使用，因此在攻城上並無缺陷。
+              薩拉森在<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+              >上也只缺乏<nuxt-link to="/units/Heavy_Scorpion"
+                >重型弩砲</nuxt-link
+              >，<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
+              >相關單位(除了<nuxt-link to="/building/Bombard_Tower"
+                >火砲塔</nuxt-link
+              >)也都能使用，因此在攻城上並無缺陷。
             </li>
             <li>
-              薩拉森海戰上僅沒有快速火戰船/造船匠/預熱射擊(舊稱火箭)，但有著運輸船兩倍生命/裝載容量+5，戰船攻擊速度+20%，因此只在生產成本還有沒快速火戰船的弱勢上，整體也不怎爛。
+              薩拉森海戰上僅沒有<nuxt-link to="/units/Fast_Fire_Ship"
+                >快速火戰船</nuxt-link
+              >/<nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>/<nuxt-link
+                to="/techs/Heated_Shot"
+                >預熱射擊</nuxt-link
+              >(舊稱火箭)，但有著運輸船兩倍生命/裝載容量+5，戰船攻擊速度+20%，因此只在生產成本還有沒快速火戰船的弱勢上，整體也不怎爛。
             </li>
             <li>
-              薩拉森作為伊斯蘭教起源地區，修道院相關科技可是全滿，且擁有城堡時代特殊科技穆斯林學墊僧侶被殺害後會返回33%資源，用僧侶相關戰術也是不錯的選擇。
+              薩拉森作為伊斯蘭教起源地區，<nuxt-link to="/building/Monastery"
+                >修道院</nuxt-link
+              >相關科技可是全滿，且擁有城堡時代特殊科技穆斯林學墊僧侶被殺害後會返回33%資源，用僧侶相關戰術也是不錯的選擇。
             </li>
             <li>
-              雖然在經濟上欠缺行會制度/輪耕/礦井採石，但是市場貿易成本僅5%(不是30%)，因此在經濟上反而有一定的優勢。
+              雖然在經濟上欠缺<nuxt-link to="/techs/Guilds">行會制度</nuxt-link
+              >/<nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link>/<nuxt-link
+                to="/techs/Stone_Shaft_Mining"
+                >礦井採石</nuxt-link
+              >，但是市場貿易成本僅5%(不是30%)，因此在經濟上反而有一定的優勢。
             </li>
           </ul>
           <h3>特殊單位</h3>
@@ -53,7 +122,9 @@
                 class="gg"
                 src="~assets/Saracenmamluk_icon.png"
                 alt=""
-              />馬木留克（奴隸兵）:中距離遠程攻擊的駱駝騎兵，對騎兵類攻擊有極大加成。
+              />馬木留克（奴隸兵）:中距離遠程攻擊的<nuxt-link to="/units/Camel"
+                >駱駝騎兵</nuxt-link
+              >，對騎兵類攻擊有極大加成。
             </li>
           </ul>
           <h3>特殊科技</h3>
@@ -78,12 +149,28 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>市集貿易成本僅5%(不是30%)</li>
+            <li>
+              <nuxt-link to="/building/Market">市集</nuxt-link
+              >貿易成本僅5%(不是30%)
+            </li>
             <li>市集建造便宜75木材(原價175木材)</li>
             <li>運輸船擁有兩倍血量/裝載量+5</li>
-            <li>弩砲戰船(槳帆戰船)攻擊速度+20%</li>
-            <li>馬弓騎兵類對建築物攻擊力+3</li>
-            <li><strong>團隊加分:</strong>徒步弓兵對建築物攻擊力+1</li>
+            <li>
+              <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+              >(槳帆戰船)攻擊速度+20%
+            </li>
+            <li>
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵類</nuxt-link
+              >對建築物<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>+3
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+                >:</strong
+              >徒步弓兵對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊力+1
+            </li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -108,10 +195,24 @@
         <div class="n1">
           <ul>
             <li>
-              可能是因為遊戲設定上薩拉森包括的種族/文明過多因此科技才這麼完善，科技樹是名列前茅的文明。
+              可能是因為遊戲設定上薩拉森包括的種族/文明過多因此科技才這麼完善，<nuxt-link
+                to="/tree/vie"
+                >科技樹</nuxt-link
+              >是名列前茅的文明。
             </li>
             <li>
-              在征服者資料片中新增品種(舊稱血統)、拇指環、帕提亞戰術、大商隊、草藥學、異端邪說和神權政治，只有薩拉森/馬扎爾有這七種科技。
+              在<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              >資料片中新增<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
+              >(舊稱<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
+              >)、<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+              >、<nuxt-link to="/techs/Parthian_Tactics">帕提亞戰術</nuxt-link
+              >、<nuxt-link to="/techs/Caravan">大商隊</nuxt-link>、<nuxt-link
+                to="/techs/Herbal_Medicine"
+                >草藥學</nuxt-link
+              >、<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
+              >和神權政治，只有薩拉森/<nuxt-link to="/civs/Magyars"
+                >馬扎爾</nuxt-link
+              >有這七種科技。
             </li>
           </ul>
         </div>
@@ -168,7 +269,12 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">駱駝/海軍</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Camel">駱駝</nuxt-link>/<nuxt-link
+                to="/units/Naval_Vessels"
+                >海軍</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊單位</td>
@@ -178,14 +284,23 @@
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">城堡僧侶/駱駝</td>
+            <td class="unit4">
+              <nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >僧侶/<nuxt-link to="/units/Camel">駱駝</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />穆斯林學墊
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Madrasah"
+                >穆斯林學墊</nuxt-link
+              >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" />狂熱舉動
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Zealotry"
+                >狂熱舉動</nuxt-link
+              >
             </td>
           </tr>
         </table>

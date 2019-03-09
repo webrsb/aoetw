@@ -8,9 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            造船匠於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            <b>造船匠</b>於<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Dock">碼頭</nuxt-link>
-            研發。研發後船隻木材花費-20%，
+            研發。研發後<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+            ><nuxt-link to="/resource/Wood">木材</nuxt-link>花費-20%，
             <nuxt-link to="/units/Naval_Vessels">所有船隻</nuxt-link
             >的訓練速度快35%。
           </p>
@@ -23,7 +25,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發與否</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發與否</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -79,8 +83,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：造船匠在帝王時代便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：造船匠在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：造船匠便宜50%。
@@ -94,13 +100,20 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>造船匠只降低碼頭單位的花費。</li>
+            <li>
+              造船匠只降低<nuxt-link to="/building/Dock">碼頭</nuxt-link
+              >單位的花費。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>在1.0版本造船匠新增加快所有船隻的訓練速度(+54%)。</li>
+            <li>
+              在1.0版本造船匠新增加快<nuxt-link to="/units/Naval_Vessels"
+                >所有船隻</nuxt-link
+              >的訓練速度(+54%)。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -166,11 +179,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">1000</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

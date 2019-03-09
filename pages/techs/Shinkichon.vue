@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            神機箭是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>神機箭</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
@@ -23,12 +23,17 @@
         <div class="n1">
           <ul>
             <li>
-              如果韓國玩家在戰場上使用投石車那研發神機箭可以讓他們的攻擊範圍勝過幾乎所有的弓兵及大部分的攻程單位。同時他們不會再被<nuxt-link
+              如果<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              >玩家在戰場上使用<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >那研發神機箭可以讓他們的攻擊範圍勝過幾乎所有的弓兵及大部分的攻程單位。同時他們不會再被<nuxt-link
                 to="/units/Galleon"
                 >重型弩砲戰船</nuxt-link
               >射爽爽，這在某些海島地圖上非常有價制。研發
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >後的韓國投石車是遊戲中最可怕的攻城武器之一。
+              >後的韓國投石車是遊戲中最可怕的<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >之一。
             </li>
           </ul>
         </div>
@@ -59,7 +64,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            儘管中國人對火藥的發明有信心，但許多人認為韓國的高麗王國是首先使用火箭和火藥作為武器使用。這個時期的編年史者提到高麗火箭和大砲對於他們的軍隊的成功非常重要。高麗和朝鮮王國的長期存在需要強大的軍事力量，因為在它們和一大堆潛在的敵人之間只有大海和阿姆諾克河。
+            儘管<nuxt-link to="/civs/Chinese">中國人</nuxt-link
+            >對火藥的發明有信心，但許多人認為韓國的高麗王國是首先使用火箭和火藥作為武器使用。這個時期的編年史者提到高麗火箭和大砲對於他們的軍隊的成功非常重要。高麗和朝鮮王國的長期存在需要強大的軍事力量，因為在它們和一大堆潛在的敵人之間只有大海和阿姆諾克河。
           </p>
         </div>
       </div>
@@ -85,7 +91,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
             </td>
@@ -119,11 +125,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">800</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
           <tr>

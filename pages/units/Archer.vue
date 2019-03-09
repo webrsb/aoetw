@@ -7,9 +7,12 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          弓兵於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+          <b>弓兵</b>於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
           >的<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-          >訓練，雖然血量與攻擊都不高。但因為是遠程單位，而使得他格外具有威脅性，早期克制
+          >訓練，雖然<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+          >與攻擊都不高。但因為是<nuxt-link to="/units/Archer_Units"
+            >遠程單位</nuxt-link
+          >，而使得他格外具有威脅性，早期克制
           <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
           >及有效屠殺對方<nuxt-link to="/units/Villager">村民</nuxt-link
           >的明智選擇。
@@ -17,8 +20,8 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          弓兵由於是遠程兵種，在<nuxt-link to="/techs/age/Feudal_Age"
-            >封建時代</nuxt-link
+          弓兵由於是<nuxt-link to="/units/Archer_Units">遠程兵種</nuxt-link
+          >，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
           >就相當的致命，可以有效屠殺<nuxt-link to="/units/Villager"
             >村民</nuxt-link
           >來擾亂敵人的經濟，在數量成形前比較怕
@@ -28,10 +31,12 @@
           >，但在數量成形後，相對不怕
           <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>。相較於
           <nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-          >，弓兵比較不怕對手圍牆。而成本上不花費食物，可以讓玩家更快的推進到<nuxt-link
-            to="/techs/age/Castle_Age"
+          >，弓兵比較不怕對手圍牆。而成本上不花費<nuxt-link to="/resource/Food"
+            >食物</nuxt-link
+          >，可以讓玩家更快的推進到<nuxt-link to="/techs/age/Castle_Age"
             >城堡時代</nuxt-link
-          >。即使對方上了城堡出了
+          >。即使對方上了<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+          >出了
           <nuxt-link to="/units/Knight">騎士</nuxt-link
           >，依靠著大量弓兵，對方還是會有所忌憚。而弓兵駐紮<nuxt-link
             to="/building/Watch_Tower"
@@ -71,7 +76,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -103,8 +110,9 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
-              >:射箭場弓兵單位對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+              >:<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+              ><nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >和
               <nuxt-link to="/armor/Armor_Class_stone_defense"
@@ -203,13 +211,14 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Pavise">巨盾</nuxt-link>
-              (+1/+1，非洲王國資料片後的<nuxt-link to="/civs/Italians"
-                >義大利</nuxt-link
-              >限定)
+              (+1/+1，<nuxt-link to="/games/ak">非洲王國</nuxt-link
+              >資料片後的<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -241,7 +250,9 @@
         <h3>剋射手系的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對射手系的額外傷害，按造傷殺力排列。
+          以下單位擁有對<nuxt-link to="/armor/Armor_Class_Archer"
+            >射手</nuxt-link
+          >系的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -367,7 +378,9 @@
             </div>
           </div>
         </div>
-        團隊加分:<nuxt-link to="/civs/Persians">波斯</nuxt-link
+        <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>:<nuxt-link
+          to="/civs/Persians"
+          >波斯</nuxt-link
         >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
           to="/units/Archer_Units"
           >射手單位</nuxt-link
@@ -397,24 +410,34 @@
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：弓兵生產快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：弓兵自城堡/帝王時代有額外+1/+2的射程。
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>：弓兵自<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >有額外+1/+2的射程。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：弓兵科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弓兵<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >：弓兵射速快18%。
+              >：弓兵<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+              >快18%。
             </li>
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
-              >：弓兵在封建/城堡/帝王時代各便宜10%/20%/30%。
+              >：弓兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代各便宜10%/20%/30%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：弓兵花費黃金成本少15%。
+              >：弓兵花費<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本少15%。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -424,7 +447,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：弓兵在封建/城堡/帝王時代的血量增加10%/15%/20%。免費<nuxt-link
+              >：弓兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代的血量增加10%/15%/20%。免費<nuxt-link
                 to="/techs/Conscription"
                 >徵兵制度</nuxt-link
               >。
@@ -449,7 +474,10 @@
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弓兵視野+2。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弓兵<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -504,7 +532,8 @@
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>:<nuxt-link
                 to="/techs/Yeomen"
                 >義勇騎兵</nuxt-link
-              >移到了城堡時代。
+              >移到了<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:引進<nuxt-link
@@ -544,13 +573,24 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>就木頭而言，弓兵是全遊戲最便宜的遠距離單位。</li>
             <li>
-              30HP，全遊戲生命最低的單位，與矛兵、爪刀勇士、飛刀女獵手並列。
+              就<nuxt-link to="/resource/Wood">木頭</nuxt-link
+              >而言，弓兵是全遊戲最便宜的<nuxt-link to="/units/Archer_Units"
+                >遠距離單位</nuxt-link
+              >。
+            </li>
+            <li>
+              30HP，全遊戲生命最低的單位，與<nuxt-link to="/units/Skirmisher"
+                >矛兵</nuxt-link
+              >、<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+              >、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>並列。
             </li>
             <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
             <li>
-              在最初的世紀帝國裡面，弓箭手和弩兵原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、攻擊力強，但比較慢。
+              在最初的世紀帝國裡面，<nuxt-link to="/units/Archer"
+                >弓箭手</nuxt-link
+              >和<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+              >原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、攻擊力強，但比較慢。
             </li>
           </ul>
         </div>
@@ -559,7 +599,10 @@
         <div class="n1">
           <p>
             “弓在羅馬淪陷後依然是重要的軍事武器，但在被茂密森林覆蓋的歐洲地區則不然。弓箭手可以從遠處，從牆壁或其他掩體後面，以及在叢林中作戰。
-            他們通常在襲擊的戰鬥中不具決定性，因為他們無法像步兵那樣直接擊倒敵人。他們主要擔任防禦部隊或是在軍隊交鋒時能破壞敵方陣型的輕裝部隊。如果在衝突發生之前，弓兵能造成敵人傷亡並消耗對方的精力，那麼友軍就更有可能擊倒敵人並獲得勝利。在守衛和攻擊城堡時，弓箭手也非常有用“
+            他們通常在襲擊的戰鬥中不具決定性，因為他們無法像<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >那樣直接擊倒敵人。他們主要擔任防禦部隊或是在軍隊交鋒時能破壞敵方陣型的輕裝部隊。如果在衝突發生之前，弓兵能造成敵人傷亡並消耗對方的精力，那麼友軍就更有可能擊倒敵人並獲得勝利。在守衛和攻擊城堡時，弓箭手也非常有用“
           </p>
         </div>
       </div>
@@ -591,7 +634,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -644,7 +687,9 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">4(遠程)</td>
+            <td class="unit4">
+              4(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -657,7 +702,9 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -673,15 +720,15 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
             </td>
@@ -733,7 +780,9 @@
             <gallery
               ><img class="imgn hg" src="~assets/Archerline.png" alt=""
             /></gallery>
-            <p><em>弓兵系</em></p>
+            <p>
+              <em><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link></em>
+            </p>
           </div>
           <div class="col-md-4">
             <gallery

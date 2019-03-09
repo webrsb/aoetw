@@ -8,9 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            雙人鋸是<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            <b>雙人鋸</b>是<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             ><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
-            >的科技，研發後可使村民收集木材的速度增快10%，此科技可以在後期經濟無虞時再研發，重要性沒有前面兩個伐木科技來得重要。
+            >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >收集<nuxt-link to="/resource/Wood">木材</nuxt-link
+            >的速度增快10%，此科技可以在後期經濟無虞時再研發，重要性沒有前面兩個伐木科技來得重要。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -75,8 +80,10 @@
           <ul>
             <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:雙人鋸免費。</li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >:雙人鋸在帝王時代便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>:雙人鋸在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >便宜20%。
             </li>
           </ul>
         </div>
@@ -92,7 +99,9 @@
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">雙刃斧</div>
+              <div class="unititle2">
+                <nuxt-link to="/techs/Double-Bit_Axe">雙刃斧</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -110,7 +119,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>
@@ -152,7 +161,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

@@ -8,9 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            重犁可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>重犁</b>可於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
-            >研發。可讓農田產量增加125食物(總共375食物)，村民食物攜帶量+1。輪耕是更進一步的科技。
+            >研發。可讓<nuxt-link to="/building/Farm">農田</nuxt-link
+            >產量增加125<nuxt-link to="/resource/Food">食物</nuxt-link
+            >(總共375食物)，<nuxt-link to="/units/Villager">村民</nuxt-link
+            >食物攜帶量+1。<nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
+            >是更進一步的<nuxt-link to="/techs">科技</nuxt-link>。
           </p>
           <p>
             已耕種的農田即便重犁研發完直到再次播種前都會維持原產量250食物，若是正在建造的農田則會吃到完整加成變375食物。
@@ -21,8 +26,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在城堡/帝王時代花費便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：該科技免費。
@@ -33,7 +41,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"繼實施胸前領後，歐洲農業的下一個重要創新就是重型耕犁。這是一種以巨大的木頭和金屬製成的犁，這些犁可以深深挖進在上一次冰河時代之後沉積在歐洲平原上的茂密密實的土壤中。這些地區的高大草原完全打消以前任何的耕種嘗試。強大的犁車前面由強大的馬力拉著，挖開了這些土壤，開闢了大量的土地。其生產力非常高，並大大增加了糧食產量，也因此人口也跟著增加。"</em
+            >"繼實施胸前領後，歐洲農業的下一個重要創新就是重型耕犁。這是一種以巨大的<nuxt-link
+              to="/resource/Wood"
+              >木頭</nuxt-link
+            >和金屬製成的犁，這些犁可以深深挖進在上一次冰河時代之後沉積在歐洲平原上的茂密密實的土壤中。這些地區的高大草原完全打消以前任何的耕種嘗試。強大的犁車前面由強大的馬力拉著，挖開了這些土壤，開闢了大量的土地。其生產力非常高，並大大增加了糧食產量，也因此人口也跟著增加。"</em
           >
         </div>
       </div>
@@ -59,7 +70,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -113,7 +124,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">125</td>
           </tr>
           <tr>

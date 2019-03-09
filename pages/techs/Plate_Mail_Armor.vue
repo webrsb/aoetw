@@ -8,10 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            步兵板甲可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>步兵板甲</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >研發，可讓步兵護甲+1/+2。
+            >研發，可讓<nuxt-link to="/armor/Armor_Class_Infantry"
+              >步兵護甲</nuxt-link
+            >+1/+2。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -76,8 +78,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在城堡/帝王時代花費便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：<nuxt-link
@@ -87,7 +93,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：研發該科技不需要黃金。
+              >：研發該科技不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -95,7 +102,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"由大型金屬板製成的盔甲是防禦箭矢和手持武器的最佳防御手段。它更強大能吸收更多的衝擊。師傅會使用大片鋼板敲擊出適合佩戴者身體的盔甲。製作板甲成為當時重要的工藝。在意大利製作板甲的專家會接到來自歐洲各地的護甲訂單。戰鬥或錦標賽中的戰利品常包括這些有價值的裝甲。裝甲需要定期上油以防止生鏽，這是騎士在騎士契約中的義務。板甲看起來顯得笨重，但實際上卻非常輕巧，而且設計精良。運動員騎士可以穿著盔甲進行倒立。
+            >"由大型金屬板製成的盔甲是防禦箭矢和手持武器的最佳防御手段。它更強大能吸收更多的衝擊。師傅會使用大片鋼板敲擊出適合佩戴者身體的盔甲。製作板甲成為當時重要的工藝。在意大利製作板甲的專家會接到來自歐洲各地的護甲訂單。戰鬥或錦標賽中的戰利品常包括這些有價值的裝甲。裝甲需要定期上油以防止生鏽，這是<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >在騎士契約中的義務。板甲看起來顯得笨重，但實際上卻非常輕巧，而且設計精良。運動員騎士可以穿著盔甲進行倒立。
             騎士可以毫不費力地騎馬，而且不需要起重機幫助上馬。"</em
           >
         </div>
@@ -122,7 +132,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看分類</td>
           </tr>
           <tr>
@@ -165,7 +175,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>
@@ -179,7 +191,10 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">步兵護甲+1/+2。</td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵護甲</nuxt-link
+              >+1/+2。
+            </td>
           </tr>
         </table>
 

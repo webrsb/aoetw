@@ -8,13 +8,31 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            小弓，即封建的弓兵，小弓開局是阿拉伯非常經典的戰術，因為不花食物，可以迅速連接城堡，而小弓的輸出攻擊也非常可怕。只是現今矛兵縱橫的時代，純小弓不再這麼常見，多少都會配置點矛兵，甚至以矛兵為主小弓為輔。
+            <nuxt-link to="/units/Archer">小弓</nuxt-link
+            >，即封建的弓兵，<strong>小弓開局</strong>是<nuxt-link
+              to="/maps/Arabia"
+              >阿拉伯</nuxt-link
+            >非常經典的戰術，因為不花<nuxt-link to="/resource/Food"
+              >食物</nuxt-link
+            >，可以迅速連接<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >，而小弓的輸出攻擊也非常可怕。只是現今<nuxt-link
+              to="/units/Skirmisher"
+              >矛兵</nuxt-link
+            >縱橫的時代，純小弓不再這麼常見，多少都會配置點矛兵，甚至以矛兵為主小弓為輔。
           </p>
           <ul>
             <li>
               <img src="~assets/ArcherIcon.jpg" alt="" />
               <nuxt-link to="/units/Archer">弓兵→</nuxt-link
-              >:俗稱小弓，封建時代能有效擊殺對方村民的兵種之一，與斥候相比，更不怕木牆。
+              >:俗稱小弓，<nuxt-link to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >能有效擊殺對方<nuxt-link to="/units/Villager">村民</nuxt-link
+              >的兵種之一，與<nuxt-link to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
+              >相比，更不怕<nuxt-link to="/building/Palisade_Wall"
+                >木牆</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -22,13 +40,26 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            小弓開局為古老但歷久不衰的戰術之一，比起黑快的戰術，雖然保守的多，但對控兵要求不高又穩健，仍是主流打法之一，流程非常簡單，正常22p上封建，雙射箭場開局。
+            小弓開局為古老但歷久不衰的戰術之一，比起黑快的戰術，雖然保守的多，但對控兵要求不高又穩健，仍是主流打法之一，流程非常簡單，正常22p上封建，雙<nuxt-link
+              to="/building/Archery_Range"
+              >射箭場</nuxt-link
+            >開局。
           </p>
           <p>
-            如果對方選擇肉馬開局，一開始小弓絕對是吃虧的，因為單兵下肉馬強的多，但只要數量起來肉馬就不是小弓的對手，或是可以搭配槍兵，但對方也可能肉馬轉矛。
+            如果對方選擇<nuxt-link to="/ar/scrush">肉馬開局</nuxt-link
+            >，一開始小弓絕對是吃虧的，因為單兵下<nuxt-link
+              to="/units/Scout_Cavalry"
+              >肉馬(斥侯)</nuxt-link
+            >強的多，但只要數量起來肉馬就不是小弓的對手，或是可以搭配<nuxt-link
+              to="/units/Spearman"
+              >長槍兵</nuxt-link
+            >，但對方也可能肉馬轉矛兵。
           </p>
           <p>
-            而對方轉矛或是轉弓，我方也得適時的調配經濟混矛進去。小弓開局成形慢但後勁大，上城堡也可以升級弩兵繼續打。
+            而對方轉矛或是轉弓，我方也得適時的調配經濟混矛進去。小弓開局成形慢但後勁大，上城堡也可以升級<nuxt-link
+              to="/units/Crossbowman"
+              >弩兵</nuxt-link
+            >繼續打。
           </p>
           <strong
             ><span
@@ -84,7 +115,11 @@
             <div class="col-md-6">
               <strong>升級後流程</strong>
               <ul>
-                <li>升級到一半蓋軍營</li>
+                <li>
+                  升級到一半蓋<nuxt-link to="/building/Barracks"
+                    >軍營</nuxt-link
+                  >
+                </li>
                 <li>上封建後直接雙射箭場出弓兵</li>
                 <li>怕被肉馬rush一波，通常會一上封出1～2支槍兵</li>
               </ul>
@@ -93,14 +128,26 @@
           <h3>適合文明</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            適合所有文明，值得一提的有
+            適合所有<nuxt-link to="/civs">文明</nuxt-link>，值得一提的有
             <ul>
-              <li>越南：血量多</li>
-              <li>衣索比亞：射速快</li>
-              <li>不列顛：上城堡+1射程，生產快</li>
-              <li>馬雅：造價便宜</li>
+              <li>
+                <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
+                  to="/elements/Hit_points"
+                  >血量</nuxt-link
+                >多
+              </li>
+              <li>
+                <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+                >：<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>快
+              </li>
+              <li>
+                <nuxt-link to="/civs/Britons">不列顛</nuxt-link
+                >：上城堡+1射程，生產快
+              </li>
+              <li><nuxt-link to="/civs/Mayans">馬雅</nuxt-link>：造價便宜</li>
             </ul>
-            只是以上弓兵文明容易被針對，對方會出很多矛兵等你
+            只是以上<nuxt-link to="/units/Archer_Units">弓兵文明</nuxt-link
+            >容易被針對，對方會出很多矛兵等你
           </div>
           <h3>影片</h3>
           <div class="hrn1"></div>
@@ -153,12 +200,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">適合文明</td>
-            <td class="unit4">弓兵國</td>
+            <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/units/Archer">弓兵</nuxt-link>國
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4">封建時代</td>
+            <td class="unit4">
+              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">威力</td>
@@ -174,7 +225,10 @@
           </tr>
           <tr>
             <td class="unit3">缺點</td>
-            <td class="unit4">成形慢，容易被肉馬轉矛打死</td>
+            <td class="unit4">
+              成形慢，容易被<nuxt-link to="/units/Scout_Cavalry">肉馬</nuxt-link
+              >轉矛打死
+            </td>
           </tr>
         </table>
 

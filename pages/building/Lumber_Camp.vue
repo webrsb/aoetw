@@ -8,13 +8,27 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            伐木場顧名思義，最佳的建築位置絕對是在森林旁，這樣才可以使村民在最佳效率狀況下收集木材，而這距離建議是一個格子和三名以上的村民伐木，當你發現村民開始需要走點距離時就可以準備蓋出下一個離森林更近的伐木場。
+            <b>伐木場</b>顧名思義，最佳的<nuxt-link to="/building"
+              >建築</nuxt-link
+            >位置絕對是在森林旁，這樣才可以使<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >在最佳效率狀況下收集<nuxt-link to="/resource/Wood">木材</nuxt-link
+            >，而這距離建議是一個格子和三名以上的村民伐木，當你發現村民開始需要走點距離時就可以準備蓋出下一個離森林更近的伐木場。
           </p>
           <p>
-            在黑暗時代時，木材和食物可以說是在這時最重要的，而大多數玩家會將城鎮中心周遭的3-4棵樹木砍掉，之後就必須建立起第一座伐木場。在進入<nuxt-link
+            在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+            >時，木材和<nuxt-link to="/resource/Food">食物</nuxt-link
+            >可以說是在這時最重要的，而大多數玩家會將<nuxt-link
+              to="/building/Town_Center"
+              >城鎮中心</nuxt-link
+            >周遭的3-4棵樹木砍掉，之後就必須建立起第一座伐木場。在進入<nuxt-link
               to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
-            >的前置建築伐木場就是其中之一，而它只需100的木材，所以伐木場與磨坊通常是進入封建時代最經濟又實惠的方式。
+            >的前置建築伐木場就是其中之一，而它只需100的木材，所以伐木場與<nuxt-link
+              to="/building/Mill"
+              >磨坊</nuxt-link
+            >通常是進入<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >最經濟又實惠的方式。
           </p>
         </div>
         <h3>可研發的技術</h3>
@@ -91,7 +105,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -127,7 +143,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -145,7 +161,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">招降抵抗</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -181,12 +199,19 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：伐木場在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。
-              <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費
+              >：伐木場在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >多10%/20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。 <nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對伐木場有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：對伐木場有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -236,7 +261,11 @@
           </h3>
           <ul>
             <li>
-              伐木場的HP在黑暗/封建/城堡/帝王的HP分別為600/800/1000/1000。
+              伐木場的HP在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >的HP分別為600/800/1000/1000。
             </li>
           </ul>
         </div>
@@ -244,7 +273,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            黑暗時代的歐洲大森林是一個重要的自然資源，樹木在伐木場被做成木材使用，人們用木材作為建材和用來取暖。早期的伐木場是高度勞動密集型的。工人將一根木頭立在垂直於地面的坑內。
+            黑暗時代的歐洲大森林是一個重要的自然資源，樹木在伐木場被做成木材使用，人們用木材作為建材和用來取暖。早期的伐木場是高度勞動密集型的。工人將一根<nuxt-link
+              to="/resource/Wood"
+              >木頭</nuxt-link
+            >立在垂直於地面的坑內。
             有一個人在地上，一個在坑里，一根長長的鐵鋸被用來將木頭鋸成木板。
             在中世紀時人類開始利用水或動物驅動鐵鋸，提高了木板的生產效率。
           </p>
@@ -276,7 +308,7 @@
             <td class="unit4">經濟</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -337,7 +369,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -366,7 +398,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -425,7 +457,14 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有文明的伐木場(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有文明的伐木場(<nuxt-link to="/games/aok"
+                    >帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">

@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            恰特拉傘是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>恰特拉傘</b>是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
@@ -24,13 +23,15 @@
           <ul>
             <li>
               恰特拉傘讓<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
-              >變得更坦，可以充當越南<nuxt-link
-                to="/units/Archer_Units"
-              ></nuxt-link
-              >弓兵的肉盾。一個全升級有
+              >變得更坦，可以充當<nuxt-link to="/civs/Vietnamese"
+                >越南</nuxt-link
+              ><nuxt-link to="/units/Archer_Units"></nuxt-link
+              ><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >的肉盾。一個全升級有
               <nuxt-link to="/techs/Bloodlines">品種</nuxt-link
-              >和恰特拉傘的精銳矛象伕有350HP，僅輸給<nuxt-link
-                to="/units/War_Elephant"
+              >和恰特拉傘的<nuxt-link to="/units/Elite_Battle_Elephant"
+                >精銳矛象伕</nuxt-link
+              >有350HP，僅輸給<nuxt-link to="/units/War_Elephant"
                 >戰象</nuxt-link
               >（620HP），並與
               <nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
@@ -87,7 +88,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
             </td>
@@ -121,11 +122,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
@@ -135,7 +140,9 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">矛象伕+30 HP。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link>+30 HP。
+            </td>
           </tr>
         </table>
 

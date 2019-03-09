@@ -8,15 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            擲斧兵是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>擲斧兵</b>是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。擲斧兵是一個有範圍近戰攻擊的步兵單位。擲斧兵可以在<nuxt-link
-              to="/techs/age/Imperial_Age"
+            >中訓練。擲斧兵是一個有範圍近戰攻擊的<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >。擲斧兵可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳擲斧兵。
+            >升級為<nuxt-link to="/units/Throwing_Axeman">精銳擲斧兵</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,34 +27,50 @@
         <div class="n1">
           <ul>
             <li>
-              擲斧兵的攻擊屬於範圍近戰傷害，面對大多數傳統的反射手單位（<nuxt-link
-                to="/units/Elite_Skirmisher"
-                >戰矛兵</nuxt-link
-              >和哥德衛隊
-              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+              擲斧兵的攻擊屬於範圍近戰傷害，面對大多數傳統的<nuxt-link
+                to="/armor/Armor_Class_Archer"
+                >反射手單位</nuxt-link
+              >（<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+              >和<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
               >）有奇效。此外，由於擲斧兵對<nuxt-link to="/building"
                 >建築物</nuxt-link
-              >有攻擊加成，因此大量的擲斧兵可以作為攻城武器的替代品。
+              >有攻擊加成，因此大量的擲斧兵可以作為<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >的替代品。
             </li>
             <li>
-              擲斧兵可以在城牆後迅速摧毀衝撞車，因為衝撞車的遠程護甲在他們眼中猶如不存在般。他們比一般的射手單位對建築物造成的傷害還要多。然而，擲斧兵較短的攻擊範圍意味著他們對於近身單位，攻城武器以及採用打帶跑戰術的射手單位都很脆弱。他們不像
+              擲斧兵可以在<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
+              >後迅速摧毀<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >，因為衝撞車的<nuxt-link to="/armor">遠程護甲</nuxt-link
+              >在他們眼中猶如不存在般。他們比一般的射手單位對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >造成的傷害還要多。然而，擲斧兵較短的攻擊範圍意味著他們對於近身單位，攻城武器以及採用打帶跑戰術的射手單位都很脆弱。他們不像
               <nuxt-link to="/units/Archer">弓箭手</nuxt-link
-              >那樣容易被攻城器殺死（需要兩次才能被擊倒），但<nuxt-link
-                to="/units/Mangonel"
+              >那樣容易被<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+              >殺死（需要兩次才能被擊倒），但<nuxt-link to="/units/Mangonel"
                 >投石車</nuxt-link
-              >仍然可以一擊必殺他們。然而，擲斧兵只要能夠避免被擊中並能夠縮小作戰距離，就可以通過近戰傷害輕易地摧毀這些攻城武器。重裝騎兵單位(
+              >仍然可以一擊必殺他們。然而，擲斧兵只要能夠避免被擊中並能夠縮小作戰距離，就可以通過近戰傷害輕易地摧毀這些攻城武器。重裝<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >(
               <nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
               >除外)如<nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >也能有效對付擲斧兵。
             </li>
             <li>
-              由於法蘭克人相當依賴遊俠，所以使用投擲斧兵來對付<nuxt-link
-                to="/units/Camel"
+              由於<nuxt-link to="/civs/Franks">法蘭克人</nuxt-link
+              >相當依賴<nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >，所以使用投擲斧兵來對付<nuxt-link to="/units/Camel"
                 >駱駝</nuxt-link
               >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >是非常有用的對策。
             </li>
-            <li>擲斧兵的開火間隔太長，不適合用來風箏近戰單位。</li>
+            <li>
+              擲斧兵的<nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link
+              >太長，不適合用來風箏近戰單位。
+            </li>
             <li>
               擲斧兵拿來打<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
               >相當好用。
@@ -108,7 +127,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -134,8 +155,10 @@
                 src="~assets/Arson.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
             </td>
@@ -190,7 +213,9 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -201,7 +226,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -388,7 +415,7 @@
               >能夠提高擲斧兵的生產速度還有加速
               <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
               >、<nuxt-link to="/techs/Bearded_Axe">倒鉤斧</nuxt-link
-              >科技研究時間(快25%)。
+              ><nuxt-link to="/techs">科技</nuxt-link>研究時間(快25%)。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
@@ -417,7 +444,11 @@
                 >開火間隔</nuxt-link
               >為12。
             </li>
-            <li>升級精銳擲斧兵需要1000食物和850黃金。</li>
+            <li>
+              升級精銳擲斧兵需要1000<nuxt-link to="/resource/Food"
+                >食物</nuxt-link
+              >和850<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
@@ -454,11 +485,18 @@
         <div class="n1">
           <ul>
             <li>
-              在沙拉丁，巴巴羅薩和聖女貞德的時代，法蘭克人並沒有在戰鬥中投擲斧頭。
+              在<nuxt-link to="/units/hero/Saladin">沙拉丁</nuxt-link
+              >，<nuxt-link to="/batt/Barbarossa">巴巴羅薩</nuxt-link
+              >和<nuxt-link to="/units/hero/Joan_of_Arc_Champion"
+                >聖女貞德</nuxt-link
+              >的時代，法蘭克人並沒有在戰鬥中投擲斧頭。
             </li>
             <li>
               實際上， francisca
-              的命名是因為它被法蘭克斯（其名字的意思是“長矛”，與斯拉夫教會的“桿子”同源）使用。
+              的命名是因為它被法蘭克斯（其名字的意思是“長矛”，與<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >教會的“桿子”同源）使用。
             </li>
             <li>
               在現實生活中，francisca只有一個刀片，體積更小，重量更輕：平均長度為17英寸，重量約為1.3磅。
@@ -469,13 +507,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            法蘭克人從古代就把斧頭作為他們的首選武器。歐洲進入黑暗時代後他們仍繼續使用斧頭，他們的戰士們因為會在戰鬥向敵人丟擲斧頭而出名。一個強壯的男人可以把斧頭投擲得很遠。法蘭克部隊通常帶著好幾個斧頭，並在一對一的戰鬥中使用。隨著他們的進步，他們可以接起投擲過的斧頭來補充彈藥量。擲斧兵對身輕裝的小型部隊特別有用。攜帶斧頭對於拆除防禦工事也很有用。
+            法蘭克人從古代就把斧頭作為他們的首選武器。歐洲進入<nuxt-link
+              to="/techs/age/Dark_Age"
+              >黑暗時代</nuxt-link
+            >後他們仍繼續使用斧頭，他們的戰士們因為會在戰鬥向敵人丟擲斧頭而出名。一個強壯的男人可以把斧頭投擲得很遠。法蘭克部隊通常帶著好幾個斧頭，並在一對一的戰鬥中使用。隨著他們的進步，他們可以接起投擲過的斧頭來補充彈藥量。擲斧兵對身輕裝的小型部隊特別有用。攜帶斧頭對於拆除防禦工事也很有用。
           </p>
         </div>
         <h3>實戰影片</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p><em>擲斧兵對飛刀女獵手</em></p>
+          <p>
+            <em>擲斧兵對<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link></em>
+          </p>
           <iframe
             width="560"
             height="315"
@@ -520,7 +563,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
             </td>
@@ -577,7 +620,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60/70(精銳)</td>
           </tr>
           <tr>
@@ -596,7 +641,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -617,11 +664,11 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0/1(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>

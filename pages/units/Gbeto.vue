@@ -8,15 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            飛刀女獵手是<nuxt-link to="/civs/Malians">馬利</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>飛刀女獵手</b>是<nuxt-link to="/civs/Malians">馬利</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。飛刀女獵手是個快速、遠距攻擊的步兵單位，會向目標敵人投擲飛刀。飛刀女獵手可以在<nuxt-link
+            >中訓練。飛刀女獵手是個快速、遠距攻擊的<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >，會向目標敵人投擲飛刀。飛刀女獵手可以在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳飛刀女獵手。
+            >升級為<nuxt-link to="/units/Gbeto">精銳飛刀女獵手</nuxt-link>。
           </p>
           <p><em>影片介紹</em></p>
           <iframe
@@ -33,24 +36,34 @@
         <div class="n1">
           <ul>
             <li>
-              飛刀女獵手是遠程步兵單位，與<nuxt-link to="/units/Throwing_Axeman"
+              飛刀女獵手是<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+              >步兵單位，與<nuxt-link to="/units/Throwing_Axeman"
                 >擲斧兵</nuxt-link
               >，<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>和
               <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
               >一樣是遠距離造成近戰傷害。飛刀女獵手的射程最長，攻擊最高，移動速度也最快。雖然缺乏基礎護甲和低HP，但還是能夠造成相當可觀的傷害。由於他們移動速度相當快，他們可以對除了
               <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
-              >以外的所有步兵使用打帶跑戰。若合理使用他們的攻擊範圍和高攻擊，他們仍舊可以擊敗<nuxt-link
+              >以外的所有<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >使用打帶跑戰。若合理使用他們的攻擊範圍和高攻擊，他們仍舊可以擊敗<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >。
             </li>
             <li>
-              儘管他們的基礎射程很廣，但飛刀女獵手還是可能會被徒步弓箭手放風箏，而且由於HP和遠程護甲很低，大多數遠程單位對他們來說都是致命的。如<nuxt-link
-                to="/units/Onager"
+              儘管他們的基礎射程很廣，但飛刀女獵手還是可能會被徒步<nuxt-link
+                to="/units/Archer_Units"
+                >弓箭手</nuxt-link
+              >放風箏，而且由於HP和<nuxt-link to="/armor">遠程護甲</nuxt-link
+              >很低，大多數<nuxt-link to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >對他們來說都是致命的。如<nuxt-link to="/units/Onager"
                 >中型投石車</nuxt-link
               >和
               <nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
-              >，但是如果有良好的微操作，飛刀女獵手可以有效地靠近他們並將其摧毀。但需要注意的是，飛刀女獵手開火間隔頗長。拉打是不切實際的
+              >，但是如果有良好的微操作，飛刀女獵手可以有效地靠近他們並將其摧毀。但需要注意的是，飛刀女獵手<nuxt-link
+                to="/elements/Frame_delay"
+                >開火間隔</nuxt-link
+              >頗長。拉打是不切實際的
             </li>
             <li>
               飛刀女獵手在某種程度上比<nuxt-link to="/units/Cavalry_Archer"
@@ -60,20 +73,31 @@
                 to="/units/Skirmisher"
                 >矛兵</nuxt-link
               >和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-              >。馬弓騎兵即便完全升級後對上這些單位仍非常頭痛。第二，飛刀女獵手不怕
+              >。<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >即便完全升級後對上這些單位仍非常頭痛。第二，飛刀女獵手不怕
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
-              >。最後，馬利沒有<nuxt-link to="/techs/Bracer">護腕</nuxt-link
-              >科技，而且完全升級後的精銳飛刀女獵手會比<nuxt-link
+              >。最後，<nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >沒有<nuxt-link to="/techs/Bracer">護腕</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link
+              >，而且完全升級後的精銳飛刀女獵手會比<nuxt-link
                 to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
-              >有更遠射程和攻擊力。
+              >有更遠射程和<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>。
             </li>
             <li>
               飛刀女獵手非常靈活，可以有效執行各種角色。例如，升級<nuxt-link
                 to="/techs/Arson"
                 >縱火</nuxt-link
               >的飛刀女獵手可以快速摧毀沒保護的基地，並在情況變得不利時安全地撤退。
-              飛刀女獵手也能配合騎兵部隊，因為兩者都很快，可以掩蓋彼此的弱點。騎兵可充當肉盾，並消滅對飛刀女獵手（特別是攻城武器）有威脅的單位，而飛刀女獵手則從後面提供額外的傷害，並保護騎兵免受長槍兵的傷害。
+              飛刀女獵手也能配合<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >部隊，因為兩者都很快，可以掩蓋彼此的弱點。騎兵可充當肉盾，並消滅對飛刀女獵手（特別是<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >）有威脅的單位，而飛刀女獵手則從後面提供額外的傷害，並保護騎兵免受<nuxt-link
+                to="/units/Spearman"
+                >長槍兵</nuxt-link
+              >的傷害。
             </li>
           </ul>
         </div>
@@ -182,7 +206,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -193,7 +219,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -408,7 +436,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>飛刀女獵手是遊戲中第二個除了女村民可以被訓練的女性單位。</li>
+            <li>
+              飛刀女獵手是遊戲中第二個除了女<nuxt-link to="/units/Villager"
+                >村民</nuxt-link
+              >可以被訓練的女性單位。
+            </li>
             <li>
               飛刀女獵手死亡時會用手把刀往上垂直投擲，最後再用同一隻手接住刀子。
             </li>
@@ -458,7 +490,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>
             </td>
@@ -496,11 +528,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">40</td>
           </tr>
           <tr>
@@ -513,7 +549,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">30/45(精銳)</td>
           </tr>
           <tr>
@@ -529,7 +567,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -550,11 +590,11 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -625,7 +665,13 @@
             <gallery
               ><img class="imgn hg" src="~assets/Gbeto_Attacking.jpg" alt=""
             /></gallery>
-            <p><em>飛刀女獵手正攻擊敵人的軍營</em></p>
+            <p>
+              <em
+                >飛刀女獵手正攻擊敵人的<nuxt-link to="/building/Barracks"
+                  >軍營</nuxt-link
+                ></em
+              >
+            </p>
           </div>
         </div>
       </div>

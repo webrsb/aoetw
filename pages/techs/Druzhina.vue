@@ -8,12 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            王家侍從是<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>王家侍從</b>是<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後步兵對鄰近0.5格的單位有5的踐踏傷害。
+            >研發。研發後<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >對鄰近0.5格的單位有5的<nuxt-link to="/elements/Area_of_Effect"
+              >踐踏傷害</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,8 +24,10 @@
         <div class="n1">
           <ul>
             <li>
-              王家侍從是帝王時代斯拉夫軍的基石。他給予<nuxt-link
-                to="/units/Champion"
+              王家侍從是<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              ><nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+              >軍的基石。他給予<nuxt-link to="/units/Champion"
                 >劍兵勇士</nuxt-link
               >和<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >對鄰近敵人有踐踏傷害，這讓他們在大型戰鬥中能飛速地對殲滅敵方軍隊。然而
@@ -49,7 +54,10 @@
           <p>
             王家侍從（俄語：дружина，lit.“Squad”）是早期俄羅斯一群幫助王子管理他的公國的人。
             王家侍從的個人成員被稱為druzhinniki，而王家侍從的第一個成員實際上是北歐戰士。
-            他們最終加入了來自各個國家的當地斯拉夫貴族和冒險家。王家侍從的高級成員被稱為貴族鐵騎，並擔任王子最親密的顧問。在13世紀之後，王家侍從這個詞已經不再使用了。
+            他們最終加入了來自各個國家的當地斯拉夫貴族和冒險家。王家侍從的高級成員被稱為<nuxt-link
+              to="/units/Boyar"
+              >貴族鐵騎</nuxt-link
+            >，並擔任王子最親密的顧問。在13世紀之後，王家侍從這個詞已經不再使用了。
           </p>
         </div>
       </div>
@@ -75,7 +83,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>
             </td>
@@ -109,11 +117,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">1200</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
           <tr>

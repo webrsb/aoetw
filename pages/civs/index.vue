@@ -3,7 +3,9 @@
     <h1>文明</h1>
     <h3></h3>
     <div class="row">
-      <div class="col-md-12"><p>遊戲中共有31個文明</p></div>
+      <div class="col-md-12">
+        <p>遊戲中共有31個<b>文明</b></p>
+      </div>
     </div>
     <div class="row">
       <div class="col-md-3">

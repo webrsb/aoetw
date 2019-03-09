@@ -8,13 +8,23 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            “帝國時代II：被遺忘的時代”中一個步兵單位的北歐劍客。它出現在幾個活動場景中，也可以在場景編輯器中找到。
+            “世紀帝國II：被遺忘的時代”中一個<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >的<b>北歐劍客</b>。它出現在幾個活動場景中，也可以在場景編輯器中找到。
           </p>
           <p>
-            北歐劍客與東方劍客具有完全相同的數據，並且僅與普通長劍客不同，因為他們對建築物缺乏攻擊獎勵。
+            北歐劍客與東方劍客具有完全相同的數據，並且僅與普通長劍客不同，因為他們對<nuxt-link
+              to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
+            >缺乏攻擊獎勵。
           </p>
           <p>
-            北歐劍士通常看起來是為歐洲文明作戰的，比如在梅魯斯的叛亂（巴里的第二種場景），那裡有這樣的隊伍服務於梅魯斯。然而除此之外，在潛逃（阿三的第三場景）中，北歐劍士更名為“精英紅衛兵”，Kannauj的Raja
+            <nuxt-link to="/units/hero/Nordic_Swordsman">北歐劍士</nuxt-link
+            >通常看起來是為歐洲<nuxt-link to="/civs">文明</nuxt-link
+            >作戰的，比如在梅魯斯的叛亂（<nuxt-link to="/batt/Baria"
+              >巴里</nuxt-link
+            >的第二種場景），那裡有這樣的隊伍服務於梅魯斯。然而除此之外，在潛逃（阿三的第三場景）中，北歐劍士更名為“精英紅衛兵”，Kannauj的Raja
             Jaichand有兩隊這種兵。也有可能衹有一個，但它會提醒合作夥伴和整個警衛。。
           </p>
           <p>
@@ -45,7 +55,9 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵<br /></td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
@@ -57,7 +69,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -66,30 +80,34 @@
           </tr>
           <tr>
             <td class="unit3">攻擊獎勵</td>
-            <td class="unit4">與鷹對抗時攻擊力+6</td>
+            <td class="unit4">
+              與鷹對抗時<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>+6
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻速</td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">0.9</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

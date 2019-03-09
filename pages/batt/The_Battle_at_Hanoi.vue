@@ -9,8 +9,11 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>圍困昇龍</b
-            >為黎利戰役的第三關劇情關卡，此關描述越南黎利對明軍在越南的根據地「昇龍（今河內市）」的襲擊。
+            <b>圍困昇龍</b>為<nuxt-link to="/batt/Le_Loi">黎利戰役</nuxt-link
+            >的第三關劇情關卡，此關描述<nuxt-link to="/civs/Vietnamese"
+              >越南</nuxt-link
+            ><nuxt-link to="/units/hero/Le_Loi">黎利</nuxt-link
+            >對明軍在越南的根據地「昇龍（今河內市）」的襲擊。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,9 +23,15 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">封建時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">800木材／800食物／300黃金</td>
+              <td class="tc2">
+                800<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >／800<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／300<nuxt-link to="/resource/Gold">黃金</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">125</td>
             </tr>
@@ -39,7 +48,9 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p4">玩家1</div></td>
-              <td class="tc6" colspan="3">越南人（黃色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Vietnamese">越南人</nuxt-link>（黃色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
@@ -48,7 +59,9 @@
               <td class="tc6"><div class="p3">玩家3</div></td>
               <td class="tc6">當地百姓（綠色）越南</td>
               <td class="tc6"><div class="p8">玩家4</div></td>
-              <td class="tc6">叛明部隊（橘色）中國</td>
+              <td class="tc6">
+                叛明部隊（橘色）<nuxt-link to="/civs/Chinese">中國</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -62,15 +75,25 @@
 
           <p></p>
           <h3>開場</h3>
-          <p>。 英雄 - 黎利x1</p>
-          <p>。 軍事單位 - 輕騎兵x7、長劍兵x10、弓騎兵x1、帝王擲矛手x17</p>
+          <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link> - 黎利x1</p>
+          <p>
+            。 軍事單位 -
+            <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >x7、<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
+            >x10、<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            >x1、帝王擲矛手x17
+          </p>
           <p>大地之母單位：輕騎兵X2、帝王擲矛手x4</p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
               <li>黎利必須存活。</li>
-              <li>攻佔昇龍城（摧毀一座城堡與大學）。</li>
+              <li>
+                攻佔昇龍城（摧毀一座<nuxt-link to="/building/Castle"
+                  >城堡</nuxt-link
+                >與大學）。
+              </li>
               <li>奪回糧倉。</li>
             </ol>
           </div>
@@ -94,8 +117,15 @@
               珍惜一兵一卒，因為能增援你的兵力並不多。善用兵種相剋可以獲得較大戰果。
             </li>
             <li>叢林密布，小心埋伏。</li>
-            <li>起義軍可以升級進入帝王時代。</li>
-            <li>摧毀主要的敵營建築能夠從中劫掠資源。</li>
+            <li>
+              起義軍可以升級進入<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >。
+            </li>
+            <li>
+              摧毀主要的敵營<nuxt-link to="/building">建築</nuxt-link
+              >能夠從中劫掠資源。
+            </li>
           </ul>
         </div>
         <h2>斥候</h2>
@@ -119,7 +149,11 @@
             <li>本關沒有內政與經濟問題，將注意力專注在行軍作戰上。</li>
             <li>叛明部隊可以稍稍提供戰力補充，但仍應該注意節省自己的軍力。</li>
             <li>
-              雖然叛明部隊的文明是「中國」，但仍有機會從中取得弩砲象或藤甲弓兵。
+              雖然叛明部隊的<nuxt-link to="/civs">文明</nuxt-link
+              >是「中國」，但仍有機會從中取得<nuxt-link
+                to="/units/Ballista_Elephant"
+                >弩砲象</nuxt-link
+              >或<nuxt-link to="/units/Rattan_Archer">藤甲弓兵</nuxt-link>。
             </li>
           </ul>
         </div>
@@ -155,7 +189,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">戰役</td>
+            <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/batt/Le_Loi">黎利</nuxt-link></td>
           </tr>
           <tr>
@@ -173,7 +207,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">王者崛起第四章之三</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>第四章之三
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

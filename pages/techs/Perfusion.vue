@@ -2,17 +2,22 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>灌注士氣</strong></h1>
+        <h1>灌注士氣</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            灌注士氣是哥德的帝王時代特殊科技，可於<nuxt-link
+            <b>灌注士氣</b>是<nuxt-link to="/civs/Goths">哥德</nuxt-link
+            >的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            ><nuxt-link to="/techs/untech">特殊科技</nuxt-link>，可於<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發，這項科技提高了軍營的工作速度100%(包括科技研發)。
+            >研發，這項<nuxt-link to="/techs">科技</nuxt-link>提高了<nuxt-link
+              to="/building/Barracks"
+              >軍營</nuxt-link
+            >的工作速度100%(包括科技研發)。
           </p>
         </div>
         <h3><strong>戰術要點</strong></h3>
@@ -33,16 +38,19 @@
               整個軍營的速度都加快了，那表示不僅僅是<nuxt-link
                 to="/units/Champion"
                 >劍兵勇士</nuxt-link
-              >可以快速生產，包括克制騎兵的<nuxt-link to="/units/Halberdier"
-                >戟兵</nuxt-link
-              >，擁有
+              >可以快速生產，包括克制<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >的<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>，擁有
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
               >同盟時的<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
-              >也是。(傭兵甚至只需要3.5秒的訓練時間)
+              >也是。(<nuxt-link to="/units/Condottiero">傭兵</nuxt-link
+              >甚至只需要3.5秒的訓練時間)
             </li>
           </ul>
         </div>
-        <h3><strong>文明加成</strong></h3>
+        <h3>
+          <strong><nuxt-link to="/civs">文明</nuxt-link>加成</strong>
+        </h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
@@ -118,11 +126,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">600</td>
           </tr>
           <tr>

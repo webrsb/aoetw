@@ -9,7 +9,16 @@
         <div class="n1">
           <p>
             <strong>法蘭切斯科·斯福爾札</strong>是《世紀帝國 II HD:
-            失落的帝國》中的一名步兵英雄，他是戰役"斯福爾札"系列中的主角而且一定要存活，他也能在戰役編輯器中使用。法蘭切斯科·斯福爾札擁有傭兵的外觀。由於他屬於英雄單位，因此不能被招降且會回血
+            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >》中的一名<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
+            >，他是<nuxt-link to="/batt">戰役</nuxt-link
+            >"斯福爾札"系列中的主角而且一定要存活，他也能在戰役編輯器中使用。法蘭切斯科·斯福爾札擁有<nuxt-link
+              to="/units/Condottiero"
+              >傭兵</nuxt-link
+            >的外觀。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位，因此不能被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>
             。
           </p>
           <p></p>
@@ -40,11 +49,15 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -52,7 +65,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
@@ -61,31 +76,44 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對火藥單位+12 <br />對標準建築+2</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              >+12 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
+                >標準建築</nuxt-link
+              >+2
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">1.93</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵(+12) <br />特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              >(+12)<br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">速度</td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

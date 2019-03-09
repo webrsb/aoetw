@@ -8,13 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            弩砲象<nuxt-link to="/civs/Khmer">高棉</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>弩砲象</b
+            ><nuxt-link to="/civs/Khmer">高棉</nuxt-link>的<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。弩砲象這是一種混合型單位是由騎兵加攻城武器混合型單位，攻擊模式類似<nuxt-link
-              to="/units/Scorpion"
+            >中訓練。弩砲象這是一種混合型單位是由<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >加<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >混合型單位，攻擊模式類似<nuxt-link to="/units/Scorpion"
               >弩砲</nuxt-link
             >，弩砲象是可以砸掉樹木的。
           </p>
@@ -26,19 +31,29 @@
             <li>
               弩砲象跟<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
               >的<nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link
-              >，同樣是特殊單位屬攻城武器單位。跟大部分攻城武器的優勢和劣勢一樣擁有範圍射程對大量單位效果好，但注意的是他可以用
+              >，同樣是特殊單位屬<nuxt-link to="/units/Siege_Weapons"
+                >攻城武器單位</nuxt-link
+              >。跟大部分攻城武器的優勢和劣勢一樣擁有範圍射程對大量單位效果好，但注意的是他可以用
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>進行補血。
             </li>
             <li>
               弩砲象是目前在<nuxt-link to="/techs/age/Castle_Age"
                 >城堡時代</nuxt-link
-              >唯一可以砍樹的軍事單位，因此在樹很多的地圖上擁有一定戰術上優勢(例:黑森林)。
+              >唯一可以砍樹的軍事單位，因此在樹很多的地圖上擁有一定戰術上優勢(例:<nuxt-link
+                to="/maps/Black_Forest"
+                >黑森林</nuxt-link
+              >)。
             </li>
             <li>
               弩砲象整體戰力都比<nuxt-link to="/units/Scorpion">弩砲</nuxt-link
-              >來的強大，移動速度比較高、血較多、沒有攻擊最小範圍、近戰時擁有踐踏傷害、裝甲也比較高因此
-              <nuxt-link to="/civs/Khmer">高棉</nuxt-link
-              >這弩砲文明裡可量產情況下弩砲象是比較好的選擇。
+              >來的強大，移動速度比較高、血較多、沒有攻擊最小範圍、近戰時擁有<nuxt-link
+                to="/elements/Area_of_Effect"
+                >踐踏傷害</nuxt-link
+              >、裝甲也比較高因此
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>這弩砲<nuxt-link
+                to="/civs"
+                >文明</nuxt-link
+              >裡可量產情況下弩砲象是比較好的選擇。
             </li>
             <li>
               弩砲象的裝甲是少數擁有多裝甲(<nuxt-link
@@ -50,31 +65,41 @@
                 >攻城武器</nuxt-link
               >、<nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link
-              >)又負的裝甲值(騎兵(-2)、戰象(-2)、攻城武器(-2)，因此很多單位都可剋制弩砲象。
+              >)又負的裝甲值(騎兵(-2)、<nuxt-link to="/units/War_Elephant"
+                >戰象</nuxt-link
+              >(-2)、攻城武器(-2)，因此很多單位都可剋制弩砲象。
             </li>
             <li>
               弩砲象在很多情況下都是屬於攻城支援單位，主要是他們血多且擁有移動速度，量多時弩砲象是具有非強常大的戰鬥力的又因為<nuxt-link
                 to="/civs/Khmer"
                 >高棉</nuxt-link
-              >得帝王時代特殊科技
+              >得<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              ><nuxt-link to="/techs/untech">特殊科技</nuxt-link>
               <nuxt-link to="/techs/Double_Crossbow">雙弩箭</nuxt-link
               >使得弩砲象更具破壞力。
             </li>
             <li>
               弩砲象少量時優勢幾乎跟<nuxt-link to="/units/Scorpion"
                 >弩砲</nuxt-link
-              >差不多，但在量大時弩砲象就是很強大，弩砲象最大問題就在量產這問題上跟大部分城堡兵問題一樣。
+              >差不多，但在量大時弩砲象就是很強大，弩砲象最大問題就在量產這問題上跟大部分<nuxt-link
+                to="/units/Unique_Unit"
+                >城堡兵</nuxt-link
+              >問題一樣。
             </li>
             <li>
-              高棉這文明沒有<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
+              <nuxt-link to="/civs/Khmer">高棉</nuxt-link>這文明沒有<nuxt-link
+                to="/techs/Heresy"
+                >異端邪說</nuxt-link
               >、<nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
-              >，因此僧侶對弩砲象傷害力也是不錯的
+              >，因此<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >對弩砲象傷害力也是不錯的
             </li>
             <li>
               死鬥時，弩砲象非常好用，因為量多，但是非常懼怕<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
-              >。（因為對方投石車也會跟你一樣多）
+              >。（因為對方<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >也會跟你一樣多）
             </li>
           </ul>
         </div>
@@ -126,7 +151,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -137,7 +164,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -145,7 +174,8 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊+20% <br />
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊+20% <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -367,9 +397,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+14攻擊</strong></div>
@@ -539,7 +569,10 @@
                 <div style="margin:12px 0px;"><strong>+0攻擊</strong></div>
                 <p>
                   <strong
-                    >(這裡寫出0攻擊是因為弩砲象在騎兵護甲時的裝甲是-2，所以計算後0-(-2)=2仍舊有傷害計算。)</strong
+                    >(這裡寫出0攻擊是因為弩砲象在<nuxt-link
+                      to="/armor/Armor_Class_Cavalry"
+                      >騎兵護甲</nuxt-link
+                    >時的裝甲是-2，所以計算後0-(-2)=2仍舊有傷害計算。)</strong
                   >
                 </p>
                 <ul>
@@ -706,7 +739,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：弩砲象更不容易被招降。
+              >：弩砲象更不容易被<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -715,13 +750,22 @@
         <div class="n1">
           <ul>
             <li>
-              弩砲象屬於騎兵單位又屬於攻城單位，讓弩砲象成為遊戲中唯一可以被僧侶治療而不用被村民修復的攻城武器。
+              弩砲象屬於<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+              >又屬於<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
+              >，讓弩砲象成為遊戲中唯一可以被僧侶治療而不用被<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >修復的攻城武器。
             </li>
-            <li>弩砲象是遊戲中唯一城堡時代就能砸倒樹木的單位。</li>
+            <li>
+              弩砲象是遊戲中唯一<nuxt-link to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >就能砸倒樹木的單位。
+            </li>
             <li>弩砲象是遊戲中開火速率最慢的騎兵單位(2.5)。</li>
             <li>
-              非精銳弩砲象對<nuxt-link to="/armor/Armor_Class_Building"
-                >建築</nuxt-link
+              非<nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link
               >應該有攻擊+2的加成但是因為bug而沒有實際加成。
             </li>
           </ul>
@@ -730,7 +774,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            大象是高棉最重要的軍事動物之一。歷史紀錄裡蘇里亞爾曼二世（1113-1150）有不下20萬隻大象的力量。從十二世紀到十三世紀初，幾個倖存的浮雕也表明，至少在歷史上，高棉族國王和印度族國王為他們的戰象裝備了如同投石機那般巨大的床弩。
+            大象是高棉最重要的軍事動物之一。歷史紀錄裡蘇里亞爾曼二世（1113-1150）有不下20萬隻大象的力量。從十二世紀到十三世紀初，幾個倖存的浮雕也表明，至少在歷史上，高棉族國王和<nuxt-link
+              to="/civs/Indians"
+              >印度</nuxt-link
+            >族國王為他們的戰象裝備了如同<nuxt-link to="/units/Trebuchet"
+              >投石機</nuxt-link
+            >那般巨大的床弩。
           </p>
         </div>
         <h3>趣事</h3>
@@ -741,7 +790,10 @@
               由於該單位是騎兵單位和攻城單位的獨特組合，因此弩砲象是遊戲中唯一可以由僧侶治療而不必由村民修復的攻城武器。
             </li>
             <li>弩砲象是城堡時代唯一能夠砍伐樹木的軍事單位。</li>
-            <li>射速2.5，弩砲象是在遊戲中最慢的攻擊騎兵。</li>
+            <li>
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+              >2.5，弩砲象是在遊戲中最慢的攻擊騎兵。
+            </li>
           </ul>
         </div>
       </div>
@@ -816,11 +868,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
@@ -833,7 +889,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">250/290(精銳)</td>
           </tr>
           <tr>
@@ -859,11 +917,15 @@
             <td class="unit4">0.1</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.5</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -879,15 +941,15 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">裝甲類型</td>
+            <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>(-2)
               <br />
@@ -906,7 +968,7 @@
             <td class="unit4">0.8</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
           <tr>
@@ -980,8 +1042,8 @@
               /></gallery>
               <p>
                 <em
-                  >弩砲象正防止高棉人的基地被<nuxt-link
-                    to="/units/Rattan_Archer"
+                  >弩砲象正防止<nuxt-link to="/civs/Khmer">高棉人</nuxt-link
+                  >的基地被<nuxt-link to="/units/Rattan_Archer"
                     >藤甲弓兵</nuxt-link
                   >騷擾。</em
                 >

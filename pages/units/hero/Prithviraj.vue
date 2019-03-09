@@ -23,8 +23,13 @@
               布里斯比羅吉是一名<nuxt-link to="/units/Cavalry_Units"
                 >騎兵</nuxt-link
               ><nuxt-link to="/units/Archer_Units">射手</nuxt-link>
-              <nuxt-link to="/units/Hero">英雄</nuxt-link
-              >。由於是英雄單位，他無法被招降且能自動回血。他也可在戰役編輯器中使用。
+              <nuxt-link to="/units/Hero">英雄</nuxt-link>。由於是<nuxt-link
+                to="/units/hero"
+                >英雄</nuxt-link
+              >單位，他無法被<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >且能自動<nuxt-link to="/Regeneration">回血</nuxt-link
+              >。他也可在<nuxt-link to="/batt">戰役</nuxt-link>編輯器中使用。
             </p>
             <p>在他的同名戰役中，他出現的形象共有以下三種：</p>
           </div>
@@ -55,7 +60,11 @@
               >)
             </li>
           </ul>
-          <p>在整個戰役中，主要都是以重裝馬弓騎兵的形象出現。</p>
+          <p>
+            在整個戰役中，主要都是以<nuxt-link to="/units/Heavy_Cavalry_Archer"
+              >重裝馬弓騎兵</nuxt-link
+            >的形象出現。
+          </p>
         </div>
       </div>
       <div class="col-md-4">
@@ -96,12 +105,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">180</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">10(遠程)</td>
+            <td class="unit4">
+              10(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -115,7 +128,9 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -139,16 +154,16 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
@@ -162,7 +177,7 @@
             <td class="unit4">1.4</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

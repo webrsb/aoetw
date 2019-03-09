@@ -8,33 +8,47 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <a
-              href="https://zh.wikipedia.org/wiki/%E5%BA%93%E7%93%A6%E8%B5%AB%E7%89%B9%E8%8E%AB%E5%85%8B"
-              ><strong>庫奧赫特莫克</strong></a
-            >(生卒年約1495-1525年)是《世紀帝國II
+            <strong>庫奧赫特莫克</strong>(生卒年約1495-1525年)是《世紀帝國II
             HD：被遺忘的帝國》中登場的一名<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             ><nuxt-link to="/units/hero">英雄</nuxt-link>，他的外型是
             <nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
-            >，只能在地圖編輯器中使用。由於他屬於英雄，因此無法被招降，也會自動回血。
+            >，只能在地圖編輯器中使用。由於他屬於<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
+            >，因此無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >，也會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
           <p>
-            庫奧赫特莫克同時也是《征服者入侵》中，<nuxt-link to="/civs/Aztecs"
-              >阿茲特克</nuxt-link
-            >戰役<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>中的旁白。
+            庫奧赫特莫克同時也是《<nuxt-link to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >》中，<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+            ><nuxt-link to="/batt">戰役</nuxt-link
+            ><nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>中的旁白。
           </p>
           <p>
-            在蒙特蘇馬戰役的<nuxt-link to="/batt/La_Noche_Triste"
-              >悲傷之夜</nuxt-link
+            在<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+            >的<nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
             >這一關中，雖然沒有講明，但暗示了登場的那隻強化版
             <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
-            >就是庫奧赫特莫克，這也是他唯一一次實際出現在遊戲中。儘管他是過場動畫中的旁白，他在遊戲中仍然只是一名「豹勇士」，就算陣亡也不會因此任務失敗。
+            >就是庫奧赫特莫克，這也是他唯一一次實際出現在遊戲中。儘管他是過場動畫中的旁白，他在遊戲中仍然只是一名「<nuxt-link
+              to="/units/Jaguar_Warrior"
+              >豹勇士</nuxt-link
+            >」，就算陣亡也不會因此任務失敗。
           </p>
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              庫奧赫特莫克是阿茲特克的末代領袖，在1520-1521年間領導阿茲特克人民保衛特諾奇蒂特蘭，他是前任統治者蒙特蘇馬二世的姪子，娶了他的一名女兒。他最終被埃爾南·科爾特斯率領的西班牙征服者們捕獲，受刑求而最終被絞死。
+              庫奧赫特莫克是<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >的末代領袖，在1520-1521年間領導<nuxt-link to="/civs/Aztecs"
+                >阿茲特克人</nuxt-link
+              >民保衛特諾奇蒂特蘭，他是前任統治者<nuxt-link
+                to="/batt/Montezumaa"
+                >蒙特蘇馬</nuxt-link
+              >二世的姪子，娶了他的一名女兒。他最終被埃爾南·科爾特斯率領的<nuxt-link
+                to="/units/Conquistador"
+                >西班牙征服者</nuxt-link
+              >們捕獲，受刑求而最終被絞死。
             </p>
             <p>由於他的英勇不屈，他在現代仍被墨西哥人視為民族英雄。</p>
           </div>
@@ -78,7 +92,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>
@@ -106,22 +122,24 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
@@ -134,7 +152,7 @@
             <td class="unit4">1.3</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

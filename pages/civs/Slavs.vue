@@ -8,38 +8,111 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            斯拉夫人是資料片被遺忘的王朝所新增的文明。他們是一個步兵和攻城器文明。
+            <b>斯拉夫人</b>是資料片被遺忘的王朝所新增的<nuxt-link to="/civs"
+              >文明</nuxt-link
+            >。他們是一個<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >和<nuxt-link to="/units/Siege_Weapons">攻城器文明</nuxt-link>。
           </p>
           <p>
-            斯拉夫人是一個東歐文明，後來成為現今的俄羅斯、烏克蘭...等東歐國家，比較具代表性就是東正教和東歐建築(羅馬式建築和拜占庭建築混合)，在現實中有著西(波蘭等)、東(俄羅斯等)、南(馬其頓等)三個支流。
+            斯拉夫人是一個東歐文明，後來成為現今的俄羅斯、烏克蘭...等東歐國家，比較具代表性就是<nuxt-link
+              to="/techs/Orthodoxy"
+              >東正教</nuxt-link
+            >和東歐建築(羅馬式建築和<nuxt-link to="/civs/Byzantines"
+              >拜占庭</nuxt-link
+            >建築混合)，在現實中有著西(波蘭等)、東(俄羅斯等)、南(馬其頓等)三個支流。
           </p>
           <p>
-            在遊戲中如果說不列顛代表是英格蘭王國，那斯拉夫代表的就是當年的基輔羅斯公國，基輔羅斯是由很多城邦和公國所組成又因為歐洲騎士大部分都是貴族階級(這邊又屬取得戰功晉升成貴族居多)，因此貴族鐵騎就是從這取名而來的。
+            在遊戲中如果說<nuxt-link to="/civs/Britons">不列顛</nuxt-link
+            >代表是英格蘭王國，那<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+            >代表的就是當年的基輔羅斯公國，基輔羅斯是由很多城邦和公國所組成又因為歐洲<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >大部分都是貴族階級(這邊又屬取得戰功晉升成貴族居多)，因此<nuxt-link
+              to="/units/Boyar"
+              >貴族鐵騎</nuxt-link
+            >就是從這取名而來的。
           </p>
           <p>
-            因地緣上斯拉夫人很靠近當年的拜占庭所以深受當年拜占庭得影響，從教育、宗教(東正教)、建築都可以看到當年拜占庭的影子，因而遊戲中的城堡時期東正教這特殊科技就是取自這邊，帝王時期王家侍從也跟拜占庭的後勤學有相同效果。比較不一樣的是遊戲中給予斯拉夫是步兵文明
+            因地緣上斯拉夫人很靠近當年的拜占庭所以深受當年拜占庭得影響，從教育、宗教(東正教)、建築都可以看到當年拜占庭的影子，因而遊戲中的<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >東正教這<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >就是取自這邊，帝王時期<nuxt-link to="/techs/Druzhina"
+              >王家侍從</nuxt-link
+            >也跟拜占庭的<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
+            >有相同效果。比較不一樣的是遊戲中給予斯拉夫是<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵文明</nuxt-link
+            >
           </p>
           <p>
-            值得一提在東南亞文明加入前，遊戲中有踐踏傷害效果的有，戰象、拜占庭聖騎兵(要研發後勤學)、斯拉夫步兵(要研發王家侍從)，然而這三個文明在地理上非常靠近。（東南亞矛象伕也有踐踏效果）
-            備註：踐踏傷害都是360度全受到傷害
-            戰象跟象伕擴散傷害=原傷害的一半，而拜占庭聖騎兵跟斯拉夫步兵擴散是固定5點傷害。
+            值得一提在東南亞文明加入前，遊戲中有<nuxt-link
+              to="/elements/Area_of_Effect"
+              >踐踏傷害</nuxt-link
+            >效果的有，<nuxt-link to="/units/War_Elephant">戰象</nuxt-link
+            >、<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+            >(要研發後勤學)、斯拉夫步兵(要研發王家侍從)，然而這三個文明在地理上非常靠近。（東南亞<nuxt-link
+              to="/units/Battle_Elephant"
+              >矛象伕</nuxt-link
+            >也有踐踏效果） 備註：踐踏傷害都是360度全受到傷害 戰象跟<nuxt-link
+              to="/techs/Mahouts"
+              >象伕</nuxt-link
+            ><nuxt-link to="/elements/Area_of_Effect">擴散傷害</nuxt-link
+            >=原傷害的一半，而拜占庭聖騎兵跟斯拉夫步兵擴散是固定5點傷害。
           </p>
           <p>
-            現代烏克蘭有著歐洲糧倉之稱的美名，因此農夫工作效率提高15%。遊戲中要顯示斯拉夫人深受拜占庭的影響因此包括帝王特殊科技還有攻城器(拜占庭防禦、斯拉夫進攻)因此也給予攻城器的減免還有團隊上的軍事建築提供人口。
+            現代烏克蘭有著歐洲糧倉之稱的美名，因此<nuxt-link
+              to="/units/Villager"
+              >農夫</nuxt-link
+            >工作效率提高15%。遊戲中要顯示斯拉夫人深受拜占庭的影響因此包括<nuxt-link
+              to="/techs/untech"
+              >帝王特殊科技</nuxt-link
+            >還有<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+            >(拜占庭防禦、斯拉夫進攻)因此也給予攻城器的減免還有團隊上的軍事建築提供人口。
           </p>
         </div>
         <h3>概要</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            斯拉夫被稱為小塞爾特人，主要是因為同樣是步兵和攻城器文明但是斯拉夫給的文明加成比較划不來。首先是帝王時代給的王家侍從雖然可以使的斯拉夫劍勇成為遊戲中頂級步兵但因為時代過於遙遠和資源上的調配往往還沒研發就結束遊戲了，攻城器減免15%資源卻沒直接效益(因攻城器本身就很昂貴)，城堡時代的東正教讓他們僧侶有近防/遠防各+3護甲，但因為科技昂貴又要蓋城堡因此CP值上沒很高，特殊單位貴族鐵騎本身是為了彌補沒有遊俠的斯拉夫也沒很特殊的加成，整體而言斯拉夫有強大步兵，弓箭卻很脆弱沒強弩兵/拇指環/護腕弓兵核心科技，騎兵也無駱駝和遊俠，僧侶雖然有東正教護甲但因前置條件太過嚴苛幾乎沒有實用性，更缺少忠誠信仰/異端邪說等關鍵科技也使的斯拉夫人本身蠻懼怕僧侶文明。
+            斯拉夫被稱為小塞爾特人，主要是因為同樣是步兵和攻城器文明但是斯拉夫給的文明加成比較划不來。首先是<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >給的王家侍從雖然可以使的斯拉夫劍勇成為遊戲中頂級步兵但因為時代過於遙遠和資源上的調配往往還沒研發就結束遊戲了，攻城器減免15%資源卻沒直接效益(因攻城器本身就很昂貴)，<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >的東正教讓他們<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >有<nuxt-link to="/armor">近防</nuxt-link>/<nuxt-link to="/armor"
+              >遠防</nuxt-link
+            >各+3護甲，但因為<nuxt-link to="/techs">科技</nuxt-link
+            >昂貴又要蓋城堡因此CP值上沒很高，<nuxt-link to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >貴族鐵騎本身是為了彌補沒有<nuxt-link to="/units/Paladin"
+              >遊俠</nuxt-link
+            >的斯拉夫也沒很特殊的加成，整體而言斯拉夫有強大步兵，弓箭卻很脆弱沒<nuxt-link
+              to="/units/Arbalest"
+              >強弩兵</nuxt-link
+            >/<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>/<nuxt-link
+              to="/techs/Bracer"
+              >護腕</nuxt-link
+            ><nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            >核心科技，<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >也無<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >和遊俠，僧侶雖然有東正教護甲但因前置條件太過嚴苛幾乎沒有實用性，更缺少<nuxt-link
+              to="/techs/Faith"
+              >忠誠信仰</nuxt-link
+            >/<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
+            >等關鍵科技也使的斯拉夫人本身蠻懼怕僧侶文明。
           </p>
           <h3>特殊單位</h3>
           <li>
             <img
               class="gg"
               src="~assets/New_Boyar.png"
-            />貴族鐵騎:有強大防禦的騎士簡稱有馬的條頓武士
+            />貴族鐵騎:有強大防禦的騎士簡稱有馬的<nuxt-link
+              to="/units/Teutonic_Knight"
+              >條頓武士</nuxt-link
+            >
           </li>
           <h3>特殊科技</h3>
           <li>
@@ -49,10 +122,10 @@
             />東正教:僧侶護甲各+3
           </li>
           <li>
-            <img
-              class="gg"
-              src="~assets/Unique-tech.jpg"
-            />王家侍從:步兵單位會對周遭敵對單位造成傷害
+            <img class="gg" src="~assets/Unique-tech.jpg" />王家侍從:<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >會對周遭敵對單位造成傷害
           </li>
         </div>
         <h3>文明加成</h3>
@@ -62,7 +135,13 @@
             <li>農民工作效率提升15%</li>
             <li><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>免費</li>
             <li>攻城器製造所單位便宜15%</li>
-            <li><strong>團隊加分</strong>:軍事建築提供+5人口</li>
+            <li>
+              <strong
+                ><nuxt-link to="/elements/Team_Bonus"
+                  >團隊加分</nuxt-link
+                ></strong
+              >:軍事建築提供+5人口
+            </li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -142,23 +221,39 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">步兵/攻城器</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>/<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城器</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/New_Boyar.png" />貴族鐵騎
+              <img class="gg" src="~assets/New_Boyar.png" /><nuxt-link
+                to="/units/Boyar"
+                >貴族鐵騎</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">封建肉馬</td>
+            <td class="unit4">
+              <nuxt-link to="/ar/scrush">封建肉馬</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />東正教 <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" />王家侍從
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Orthodoxy"
+                >東正教</nuxt-link
+              ><br />
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Druzhina"
+                >王家侍從</nuxt-link
+              >
             </td>
           </tr>
         </table>

@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於步兵系裝甲的。而關於步兵這個兵種的請參見<nuxt-link
+            >這篇文章是將有關於<strong>步兵系裝甲</strong>的。而關於步兵這個兵種的請參見<nuxt-link
               to="/units/Infantry_Units"
               >步兵單位</nuxt-link
             ></em
@@ -18,7 +18,8 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            步兵系是一個防禦裝甲類別，所有在這個系列的兵種都會被剋步兵系的兵種有額外的傷害。
+            <b>步兵系</b>是一個<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            >類別，所有在這個系列的兵種都會被剋步兵系的兵種有額外的傷害。
           </p>
         </div>
         <h3>步兵系單位</h3>

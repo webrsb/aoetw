@@ -8,23 +8,41 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            巽他皇家侍衛是個步兵英雄，在"世界地國II:王者崛起"資料片中出現。
+            <b>巽他皇家侍衛</b>是個<nuxt-link to="/units/Infantry_Units"
+              >步兵英雄</nuxt-link
+            >，在"世界地國II:<nuxt-link to="/games/aor">王者崛起</nuxt-link
+            >"資料片中出現。
           </p>
           <p>
-            巽他皇家侍衛具有高攻、高裝甲、高生命和極快的移動速度。巽他皇家侍衛不能被招降而且會自行回血。
+            巽他皇家侍衛具有高攻、高裝甲、高生命和極快的移動速度。巽他皇家侍衛不能被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <h3>出現場景和陣營</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>巽他皇家侍衛會出現在勃印曩和加查·馬達的戰役中。</p>
+          <p>
+            巽他皇家侍衛會出現在<nuxt-link to="/batt/Bayinnaunga"
+              >勃印曩</nuxt-link
+            >和<nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link
+            >的<nuxt-link to="/batt">戰役</nuxt-link>中。
+          </p>
           <strong><li>加查·馬達</li></strong>
           <p>
-            巽他皇家侍衛在戰役"風雲變色"作為Sunda王子的護衛要保護王子不受加查·馬達，這個試著奪取政權的人的迫害。
+            巽他皇家侍衛在戰役"風雲變色"作為Sunda王子的<nuxt-link
+              to="/techs/Squires"
+              >護衛</nuxt-link
+            >要保護王子不受加查·馬達，這個試著奪取政權的人的迫害。
           </p>
           <strong><li>勃印曩</li></strong>
           <p>
-            巽他皇家侍衛在戰役"餓虎撲食"中四散在地圖上，玩家可以招降他們。而在戰役"猛蛇出洞"他們會跟龍舟、獨木舟和僧侶一起出現。在"白象化身"戰役也能看到牠們的身影。
+            巽他皇家侍衛在戰役"餓虎撲食"中四散在地圖上，玩家可以招降他們。而在戰役"猛蛇出洞"他們會跟龍舟、<nuxt-link
+              to="/units/Canoe"
+              >獨木舟</nuxt-link
+            >和<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >一起出現。在"白象化身"戰役也能看到牠們的身影。
           </p>
         </div>
       </div>
@@ -56,7 +74,8 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">步兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -69,7 +88,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">90</td>
           </tr>
           <tr>
@@ -78,32 +99,45 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對鷹勇士+2 <br />對標準建築物+1</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >+2 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
+                >標準建築物</nuxt-link
+              >+1
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵 <br />特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.2</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
         </table>

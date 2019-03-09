@@ -8,9 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            草藥學於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
+            <b>草藥學</b>於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >在
             <nuxt-link to="/building/Monastery">修道院</nuxt-link>
-            研發後可讓駐紮單位的自癒速度提升300%。箭塔中每分鐘回24HP，城堡則是每分鐘回48HP
+            研發後可讓駐紮單位的自癒速度提升300%。<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >中每分鐘回24HP，<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >則是每分鐘回48HP
           </p>
           <p>
             草藥學可顯著提升防禦部隊的機動性，讓受傷單位駐紮到城堡或箭塔中治療，同時給與火力掩護，治療完後又可重新再出戰
@@ -24,7 +30,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -79,14 +87,20 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：研發該科技給與僧侶+5HP。
+              >：研發該<nuxt-link to="/techs">科技</nuxt-link>給與<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >+5HP。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -153,7 +167,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>
@@ -163,7 +179,10 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">可讓駐紮在建築物內的單位回復力提升至四倍</td>
+            <td class="unit4">
+              可讓駐紮在<nuxt-link to="/building">建築物</nuxt-link
+              >內的單位回復力提升至四倍
+            </td>
           </tr>
         </table>
 

@@ -9,8 +9,12 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>鳳凰涅槃</b
-            >為勃印曩戰役的第五關劇情關卡，同時也是最後一關。此關描述勃印曩潛心修佛的意願、以及其子對繼承父業繼續擴張的經過
+            <b>鳳凰涅槃</b>為<nuxt-link to="/batt/Bayinnaunga"
+              >勃印曩戰役</nuxt-link
+            >的第五關劇情關卡，同時也是最後一關。此關描述<nuxt-link
+              to="/units/hero/Bayinnaung"
+              >勃印曩</nuxt-link
+            >潛心修佛的意願、以及其子對繼承父業繼續擴張的經過
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,7 +24,9 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">帝王時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">無</td>
               <td class="tc1" width="15%">人口上限：</td>
@@ -38,14 +44,18 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p3">玩家1</div></td>
-              <td class="tc6" colspan="3">緬甸人（綠色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>（綠色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p3">玩家7</div></td>
-              <td class="tc6">勃印曩（綠色）緬甸</td>
+              <td class="tc6">
+                勃印曩（綠色）<nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
+              </td>
               <td class="tc6"><div class="p2">玩家2</div></td>
               <td class="tc6">妙烏城（紅色）緬甸</td>
             </tr>
@@ -55,24 +65,44 @@
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p4">玩家3</div></td>
-              <td class="tc6">若開邦（黃色）馬來</td>
+              <td class="tc6">
+                若開邦（黃色）<nuxt-link to="/civs/Malay">馬來</nuxt-link>
+              </td>
               <td class="tc6"><div class="p4">玩家3</div></td>
               <td class="tc6">若開邦（黃色）馬來</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p4">玩家5</div></td>
-              <td class="tc6">若開邦（黃色）越南</td>
+              <td class="tc6">
+                若開邦（黃色）<nuxt-link to="/civs/Vietnamese">越南</nuxt-link>
+              </td>
               <td class="tc6"><div class="p6">玩家6</div></td>
-              <td class="tc6">葡萄牙人（紫色）葡萄牙</td>
+              <td class="tc6">
+                <nuxt-link to="/civs/Portuguese">葡萄牙人</nuxt-link
+                >（紫色）<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <h3>開場</h3>
           <p>
-            。 英雄 - 勃印曩x1、莽應禮x1、辛格．達塔x1。 軍事單位 -
-            雙手劍兵x44、重裝長槍兵x12、東吁勇士x5、飛鏢騎兵x28、騎士x8、矛象伕x18、火砲x5、巨型投石機x2、僧侶x5。
-            海軍單位 - 運輸船x7、弩砲戰船x18、爆破船x3、火戰船x4、火砲戰船x4。
-            經濟單位 - 村民x5
+            。 <nuxt-link to="/units/hero">英雄</nuxt-link> -
+            勃印曩x1、莽應禮x1、辛格．達塔x1。 軍事單位 -
+            <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link
+            >x44、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+            >x12、東吁勇士x5、<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
+            >x28、<nuxt-link to="/units/Knight">騎士</nuxt-link>x8、<nuxt-link
+              to="/units/Battle_Elephant"
+              >矛象伕</nuxt-link
+            >x18、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >x5、<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+            >x2、<nuxt-link to="/units/Monk">僧侶</nuxt-link>x5。
+            <nuxt-link to="/units/Naval_Vessels">海軍單位</nuxt-link> -
+            <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >x7、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+            >x18、爆破船x3、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+            >x4、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>x4。
+            經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x5
           </p>
           。 無大地之母單位
           <h2>主要任務</h2>
@@ -110,7 +140,11 @@
                 若開邦（黃色）駐守於此，兵精糧足。因為他們以逸待勞，這場攻堅戰持續越久就越不利。
               </li>
               <li>
-                若開邦雇傭的葡萄牙士兵（紫色）在妙烏城安營紮寨。他們的碼頭有火砲塔鎮守，難以攻破。他們的奇觀周邊也有很強的火力，要小心應對。
+                若開邦雇傭的葡萄牙士兵（紫色）在妙烏城安營紮寨。他們的<nuxt-link
+                  to="/building/Dock"
+                  >碼頭</nuxt-link
+                >有<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+                >鎮守，難以攻破。他們的奇觀周邊也有很強的火力，要小心應對。
               </li>
             </ul>
             <h2>細節</h2>
@@ -118,18 +152,30 @@
             <div class="n1">
               <ul>
                 <li>
-                  勃印曩在本關的形象為東亞僧侶，而不再是前面幾章的精銳矛象伕。
+                  勃印曩在本關的形象為東亞僧侶，而不再是前面幾章的<nuxt-link
+                    to="/units/Elite_Battle_Elephant"
+                    >精銳矛象伕</nuxt-link
+                  >。
                 </li>
                 <li>
                   莽應禮（1535-1600）本名為「南達勃因」，莽應禮為在明史中的稱呼。在登基後依然如同父親一樣頻頻出征。與大明、暹羅多次交戰，導致國勢衰弱。在本章中以精銳矛象伕的形象登場。
                 </li>
-                <li>辛格﹒達塔（?-?）形象為拜占庭重騎兵。</li>
+                <li>
+                  辛格﹒達塔（?-?）形象為<nuxt-link to="/civs/Byzantines"
+                    >拜占庭</nuxt-link
+                  >重騎兵。
+                </li>
                 <li>若開邦位於緬甸西南海岸。</li>
                 <li>
                   妙烏城，一作「謬烏」，若開本土政權的首府。在15世紀建立。
                 </li>
                 <li>
-                  根據英文wikia的描述：本關的老勃印曩其實是越南戰役中黎利軍師「裴備」的重新命名。
+                  根據英文wikia的描述：本關的老勃印曩其實是越南<nuxt-link
+                    to="/batt"
+                    >戰役</nuxt-link
+                  >中<nuxt-link to="/units/hero/Le_Loi">黎利</nuxt-link
+                  >軍師「<nuxt-link to="/units/hero/Bui_Bi">裴備</nuxt-link
+                  >」的重新命名。
                 </li>
                 <li>
                   本關卡原文名稱為"The Old
@@ -163,7 +209,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -172,7 +220,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Burmese">緬甸人</nuxt-link>
             </td>
@@ -186,7 +234,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">王者崛起第三章之五</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>第三章之五
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

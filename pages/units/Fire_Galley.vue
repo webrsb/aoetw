@@ -8,9 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火蒙衝在封建時代時可以在碼頭中被訓練，當把<nuxt-link
-              to="/units/Galley"
-              >戰船</nuxt-link
+            <b>火蒙衝</b>在<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >時可以在<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            >中被訓練，當把<nuxt-link to="/units/Galley">戰船</nuxt-link
             >升級成<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
             >的時候，火蒙衝也會自動升級成
             <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>。
@@ -18,18 +19,25 @@
           <p>
             火蒙衝、<nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
             >都是在<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >資料片的時候一起推出的，使封建時代海戰才有更多的可看性，而不是只能看到一堆戰船的海戰。
+            >資料片的時候一起推出的，使封建時代海戰才有更多的可看性，而不是只能看到一堆<nuxt-link
+              to="/units/Naval_Vessels"
+              >戰船</nuxt-link
+            >的海戰。
           </p>
           <p>
-            而<nuxt-link to="/civs/Vikings">維京</nuxt-link
-            >成了全文明中唯一不能出火蒙衝的國家，這也使得在<nuxt-link
-              to="/games/aoc"
+            而<nuxt-link to="/civs/Vikings">維京</nuxt-link>成了全<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >中唯一不能出火蒙衝的國家，這也使得在<nuxt-link to="/games/aoc"
               >征服者入侵</nuxt-link
             >時代的海戰強國，搖身一變成海戰初期弱勢文明，在
             <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >遇到敵方的火蒙衝時，將顯得相當無助。
           </p>
-          <p><strong>不可生產文明：</strong>維京</p>
+          <p>
+            <strong>不可生產文明：</strong
+            ><nuxt-link to="/civs/Vikings">維京</nuxt-link>
+          </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
@@ -57,7 +65,10 @@
           <p>
             值得一提的是，<nuxt-link to="/units/Demolition_Raft"
               >自爆筏</nuxt-link
-            >沒辦法一擊必殺火蒙衝，需要搭配其他船隻來解決殘血的火蒙衝。
+            >沒辦法一擊必殺火蒙衝，需要搭配其他<nuxt-link
+              to="/units/Naval_Vessels"
+              >船隻</nuxt-link
+            >來解決殘血的火蒙衝。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -74,15 +85,16 @@
             <td class="tta4">
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-              >、在岸邊的建築物和近戰單位、
-              <nuxt-link to="/units/Galley">戰船</nuxt-link>。
+              >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
+              >和近戰單位、 <nuxt-link to="/units/Galley">戰船</nuxt-link>。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
               <nuxt-link to="/units/Demolition_Raft">自爆筏</nuxt-link
-              >、箭塔、在岸邊的範圍單位。
+              >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >、在岸邊的範圍單位。
             </td>
           </tr>
           <tr class="tta">
@@ -137,7 +149,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -442,7 +456,9 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對火蒙衝有額外攻擊力
+        以下技術可讓以下單位對火蒙衝有額外<nuxt-link to="/elements/Attack"
+          >攻擊力</nuxt-link
+        >
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
@@ -530,12 +546,18 @@
               >：火蒙衝開火速率快25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：在視野內的動物不會被轉化
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >內的動物不會被轉化
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於火蒙衝科技在城堡/帝王便宜15%/20％
+              >：有利於火蒙衝<nuxt-link to="/techs">科技</nuxt-link>在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >便宜15%/20％
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -544,21 +566,27 @@
               >， <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>和<nuxt-link
                 to="/techs/Shipwright"
                 >造船匠</nuxt-link
-              >便宜50％，升級到弩砲戰船便宜50%。
+              >便宜50％，升級到<nuxt-link to="/units/War_Galley"
+                >弩砲戰船</nuxt-link
+              >便宜50%。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：火蒙衝在封建/城堡/帝王時代訓練的速度提高10/15/20%
+              >：火蒙衝在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >訓練的速度提高10/15/20%
               <nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>和升級到
               <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-              >的研發速度在城堡/帝王時代提高15%/20％。研究<nuxt-link
-                to="/techs/Dry_Dock"
+              >的研發速度在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代提高15%/20％。研究<nuxt-link to="/techs/Dry_Dock"
                 >旱碼頭</nuxt-link
               >的速度快20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：火蒙衝訓練減少15%黃金成本，火蒙衝+10％HP。
+              >：火蒙衝訓練減少15%<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本，火蒙衝+10％HP。
             </li>
           </ul>
         </div>
@@ -585,7 +613,7 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>火蒙衝有5的遠防。</li>
+            <li>火蒙衝有5的<nuxt-link to="/armor">遠防</nuxt-link>。</li>
             <li>火蒙衝有100的HP。</li>
             <li>
               4.8版本後火蒙衝有95的HP，並且會受到<nuxt-link
@@ -676,7 +704,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>
@@ -696,11 +726,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">0.25秒/次</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -712,7 +746,7 @@
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -720,7 +754,7 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>(+6)
             </td>
@@ -754,7 +788,7 @@
                 class="gg"
                 src="~assets/War-galley-research.jpg"
                 alt=""
-              />230食物 100黃金
+              />230<nuxt-link to="/resource/Food">食物</nuxt-link> 100黃金
             </td>
           </tr>
           <tr>
@@ -774,7 +808,12 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Fireline.png" alt=""
               /></gallery>
-              <p><em>火戰船系列(火蒙衝在最左邊)。</em></p>
+              <p>
+                <em
+                  ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
+                  >(火蒙衝在最左邊)。</em
+                >
+              </p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -786,7 +825,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Firegalley.jpg" alt=""
               /></gallery>
-              <p><em>各種火蒙衝(世紀帝國和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >各種火蒙衝(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
         </div>

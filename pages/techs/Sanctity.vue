@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            聖潔虔誠可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>聖潔虔誠</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link> 研發，可讓
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -20,11 +20,20 @@
             雖然遊戲內的解釋是增加50% HP，但實際上只增加15HP，<nuxt-link
               to="/civs/Aztecs"
               >阿茲特克</nuxt-link
-            >和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >文明對僧侶和傳教士的加成也不影響
+            >和<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>文明對<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+            >的加成也不影響
           </p>
           <p>
-            此科技相當關鍵，他可以多讓僧侶多挨投石車一發，往往在這間隔，僧侶就可以把投石車招降。
+            此<nuxt-link to="/techs">科技</nuxt-link
+            >相當關鍵，他可以多讓僧侶多挨<nuxt-link to="/units/Mangonel"
+              >投石車</nuxt-link
+            >一發，往往在這間隔，僧侶就可以把投石車<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -96,8 +105,11 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -164,7 +176,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">120</td>
           </tr>
           <tr>

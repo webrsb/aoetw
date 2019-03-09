@@ -19,11 +19,23 @@
         >
       </div>
       <div class="col-md-8">
-        野生動物是遊戲中出現的野外動物，牠們有的可以提供食物，是遊戲初期獲取食物的一大來源。而有些是對人類不友善的動物，牠們會主動攻擊我方單位（除了僧侶、斥候、鷹勇士、國王與攻城武器）。
+        <b>野生動物</b>是遊戲中出現的野外動物，牠們有的可以提供<nuxt-link
+          to="/resource/Food"
+          >食物</nuxt-link
+        >，是遊戲初期獲取食物的一大來源。而有些是對人類不友善的動物，牠們會主動攻擊我方單位（除了<nuxt-link
+          to="/units/Monk"
+          >僧侶</nuxt-link
+        >、<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>、<nuxt-link
+          to="/units/Eagle_Warrior"
+          >鷹勇士</nuxt-link
+        >、<nuxt-link to="/units/King">國王</nuxt-link>與<nuxt-link
+          to="/units/Siege_Weapons"
+          >攻城武器</nuxt-link
+        >）。
       </div>
       <div class="col-md-4">
         <img src="~assets/okd.jpg" width="300" alt="" />
-        <p>在非洲王國出現的野生動物。</p>
+        <p>在<nuxt-link to="/games/ak">非洲王國</nuxt-link>出現的野生動物。</p>
       </div>
       <div class="col-md-12">
         <h3>野生動物列表</h3>
@@ -49,7 +61,7 @@
             <ul>
               <li><nuxt-link to="/units/animal/Sheep">羊</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Turkey">火雞</nuxt-link></li>
-              <li>駱駝</li>
+              <li><nuxt-link to="/units/animal/Camel">駱駝</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Cow">牛</nuxt-link></li>
               <li><nuxt-link to="/units/animal/Goat">山羊</nuxt-link></li>
               <li>

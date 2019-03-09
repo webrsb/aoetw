@@ -8,12 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>伊滿</strong>是一名在《世紀帝國II：征服者入侵》的<nuxt-link
-              to="/units/hero/El_Cid"
-              >熙德</nuxt-link
-            >戰役中，<nuxt-link to="/batt/The_Enemy_of_my_Enemy"
+            <strong>伊滿</strong>是一名在《世紀帝國II：<nuxt-link
+              to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >》的<nuxt-link to="/units/hero/El_Cid">熙德</nuxt-link
+            ><nuxt-link to="/batt">戰役</nuxt-link>中，<nuxt-link
+              to="/batt/The_Enemy_of_my_Enemy"
               >我敵人的敵人</nuxt-link
-            >這一關中登場的英雄
+            >這一關中登場的<nuxt-link to="/units/hero">英雄</nuxt-link>
             <nuxt-link to="/units/hero">英雄</nuxt-link>。在<nuxt-link
               to="/batt/Sundjataa"
               >松迪亞塔</nuxt-link
@@ -25,10 +27,15 @@
           </p>
           <p>
             伊滿是數值更優秀的<nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >。在征服者入侵中他使用的是一般僧侶的模形，不過到了被遺忘的帝國以後他就有了獨立的模形。伊滿也可以在地圖編輯器中使用。
+            >。在征服者入侵中他使用的是一般<nuxt-link to="/units/Monk"
+              >僧侶</nuxt-link
+            >的模形，不過到了被遺忘的帝國以後他就有了獨立的模形。伊滿也可以在地圖編輯器中使用。
           </p>
           <p>
-            作為一個英雄單位，他無法被招降且會自動回血。和其他僧侶單位一樣，伊滿會受到所有影響僧侶的升級及加成影響。
+            作為一個英雄單位，他無法被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >。和其他僧侶單位一樣，伊滿會受到所有影響僧侶的升級及加成影響。
           </p>
         </div>
       </div>
@@ -64,7 +71,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -72,11 +81,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">45</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">62</td>
           </tr>
           <tr>
@@ -86,16 +99,16 @@
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -103,7 +116,7 @@
             <td class="unit4">0.7</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">11</td>
           </tr>
         </table>

@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            驃悍精神是<nuxt-link to="/civs/Malians">馬利</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>驃悍精神</b>是<nuxt-link to="/civs/Malians">馬利</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Stable">馬廄</nuxt-link
@@ -26,13 +26,16 @@
         <div class="n1">
           <ul>
             <li>
-              剽悍精神讓馬利的<nuxt-link to="/units/Cavalry_Units"
-                >騎兵單位</nuxt-link
+              剽悍精神讓<nuxt-link to="/civs/Malians">馬利</nuxt-link
+              >的<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >是遊戲中最具威力的之一。他們的<nuxt-link to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
               >可以獲得遊戲中最多的14攻擊，比
               <nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
-              >還多。馬利的騎兵也是遊戲中攻擊排名非特殊騎兵第二(攻擊力19)和全遊戲第三，僅次於<nuxt-link
+              >還多。馬利的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >也是遊戲中攻擊排名非特殊騎兵第二(<nuxt-link to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >19)和全遊戲第三，僅次於<nuxt-link
                 to="/units/Elite_Battle_Elephant"
                 >精銳矛象伕</nuxt-link
               >和 <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>。
@@ -89,7 +92,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>
             </td>
@@ -123,11 +126,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">650</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
@@ -137,7 +144,9 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">馬廄單位攻擊+5。</td>
+            <td class="unit4">
+              <nuxt-link to="/building/Stable">馬廄</nuxt-link>單位攻擊+5。
+            </td>
           </tr>
         </table>
 

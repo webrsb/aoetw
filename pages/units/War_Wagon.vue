@@ -8,17 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬戰車是韓國的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>馬戰車</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。是個有高遠程護甲和高生命值的馬弓騎兵。他的攻擊方式像
+            >中訓練。是個有高<nuxt-link to="/armor">遠程護甲</nuxt-link
+            >和高<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+            >的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            >。他的攻擊方式像
             <nuxt-link to="/units/Scorpion">弩砲</nuxt-link
             >，但不像弩砲有爆炸傷害。
           </p>
           <p>
             馬戰車可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳馬戰車。
+            >升級為<nuxt-link to="/units/War_Wagon">精銳馬戰車</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,7 +30,16 @@
         <div class="n1">
           <ul>
             <li>
-              馬戰車是遊戲中最強大的遠程單位之一，因為它們擁有高HP，高遠程護甲和所有弓箭手中最高的攻擊力。這使得它們既可以提供火力支援，也可以作為破壞主力，甚至同時執行兩種角色。作為遠程支援，馬戰車可以放置在
+              馬戰車是遊戲中最強大的<nuxt-link to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >之一，因為它們擁有高HP，高遠程護甲和所有<nuxt-link
+                to="/units/Archer"
+                >弓箭手</nuxt-link
+              >中最高的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >。這使得它們既可以提供火力支援，也可以作為破壞主力，甚至同時執行兩種角色。作為<nuxt-link
+                to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >支援，馬戰車可以放置在
               <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
               >這樣的近身單位之後保護他們。他們可以對付敵人的弓箭手和<nuxt-link
                 to="/units/Cavalry_Archer"
@@ -38,8 +51,8 @@
               >是例外。
             </li>
             <li>
-              馬戰車可以與僧侶和其他遠程單位搭配，如<nuxt-link
-                to="/units/Mangonel"
+              馬戰車可以與<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >和其他遠程單位搭配，如<nuxt-link to="/units/Mangonel"
                 >投石車</nuxt-link
               >。與近戰單位相比，馬戰車最大的優勢就是它的遠程攻擊，不會追擊敵人時破壞自己陣型。馬戰車不應該用來對付
               <nuxt-link to="/units/Halberdier">戟兵</nuxt-link>和<nuxt-link
@@ -57,21 +70,43 @@
                 >日本武士</nuxt-link
               >和
               <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-              >(有攻擊加成)都可以戰勝馬戰車。韓國人可以用<nuxt-link
-                to="/units/Hand_Cannoneer"
-                >火槍兵</nuxt-link
-              >對付上述單位。投石車也是個麻煩，韓國人可以用
+              >(有攻擊加成)都可以戰勝馬戰車。<nuxt-link to="/civs/Koreans"
+                >韓國人</nuxt-link
+              >可以用<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+              >對付上述單位。<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+              >也是個麻煩，韓國人可以用
               <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >或他們的<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
               >對付他們。最後，由於缺乏<nuxt-link to="/techs/Heresy"
                 >異端邪說</nuxt-link
-              >，馬戰車很容易被敵方僧侶招降。
+              >，馬戰車很容易被敵方僧侶<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >。
             </li>
             <li>
-              馬戰車的移動速度快，對建築物有攻擊加值，可以集中火力迅速殺死一個目標，並對箭矢有防禦加成，相當適合作為突襲單位。他們在防守上能站在城牆後面，用遠距離攻擊安全地殲滅敵方部隊。在一些窄路徑的地圖（如黑森林）中，戰車可以用他們的大尺寸來堵塞路徑，防止敵人到達某個點;給玩家足夠的時間來加強這個地方的防守。和其他射手單位一樣，馬戰車也可以駐守城堡裡面增加攻擊傷害、射箭的數量。一座駐紮滿馬戰車的城堡甚至可以在一擊殺死一個哥德衛隊。
+              馬戰車的移動速度快，對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >有攻擊加值，可以集中火力迅速殺死一個目標，並對箭矢有防禦加成，相當適合作為突襲單位。他們在防守上能站在<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >後面，用遠距離攻擊安全地殲滅敵方部隊。在一些窄路徑的地圖（如<nuxt-link
+                to="/maps/Black_Forest"
+                >黑森林</nuxt-link
+              >）中，戰車可以用他們的大尺寸來堵塞路徑，防止敵人到達某個點;給玩家足夠的時間來加強這個地方的防守。和其他<nuxt-link
+                to="/units/Archer_Units"
+                >射手單位</nuxt-link
+              >一樣，馬戰車也可以駐守<nuxt-link to="/building/Castle"
+                >城堡</nuxt-link
+              >裡面增加攻擊傷害、射箭的數量。一座駐紮滿馬戰車的城堡甚至可以在一擊殺死一個<nuxt-link
+                to="/units/Huskarl"
+                >哥德衛隊</nuxt-link
+              >。
             </li>
             <li>
-              儘管是馬弓騎兵，但由於馬戰車的體積龐大，速度相對較慢，開火間隔較長，所以執行打帶跑戰術的效果並不理想。
+              儘管是馬弓騎兵，但由於馬戰車的體積龐大，速度相對較慢，<nuxt-link
+                to="/elements/Frame_delay"
+                >開火間隔</nuxt-link
+              >較長，所以執行打帶跑戰術的效果並不理想。
             </li>
           </ul>
         </div>
@@ -319,9 +354,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -580,7 +615,8 @@
               </div>
             </div>
             <div class="col-md-12">
-              以下團隊加分可讓以下單位對馬戰車有額外攻擊力
+              以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+              >可讓以下單位對馬戰車有額外攻擊力
               <div class="n1">
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
                 >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -676,7 +712,10 @@
         <div class="n1">
           <p>
             韓國的高麗王國常常受到各方的攻擊 -
-            中國，蒙古人等北方的野蠻文明和海盜
+            <nuxt-link to="/civs/Chinese">中國</nuxt-link>，<nuxt-link
+              to="/civs/Mongols"
+              >蒙古人</nuxt-link
+            >等北方的野蠻<nuxt-link to="/civs">文明</nuxt-link>和海盜
             為了生存，他們需要強大的軍隊。我們從很少的記錄中可以看出高麗是創新的戰士，也許是第一個在某種類型的戰鬥和戰車中使用火箭的人。這些戰車可以安排在開闊地區的臨時防禦工事中，提供一個可移動但實質性的防禦位置，以抵禦想登上城牆的敵人。於是誕生了馬戰車，這是一輛經典的戰車，帶有刀片和移動堡壘，弓箭手可以用這些堡壘進行火力掩護。
           </p>
         </div>
@@ -754,11 +793,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">110</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -771,7 +814,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">150，200(精銳)</td>
           </tr>
           <tr>
@@ -787,7 +832,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.5</td>
           </tr>
           <tr>
@@ -807,11 +854,11 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3/4(精銳)</td>
           </tr>
           <tr>
@@ -833,7 +880,7 @@
             <td class="unit4">1.2</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7/8(精銳)</td>
           </tr>
           <tr>
@@ -854,7 +901,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />1000食物800黃金
+              />1000<nuxt-link to="/resource/Food">食物</nuxt-link>800黃金
             </td>
           </tr>
           <tr>

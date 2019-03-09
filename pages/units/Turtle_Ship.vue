@@ -8,36 +8,55 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            龜甲船是<nuxt-link to="/civs/Koreans">韓國</nuxt-link>在<nuxt-link
-              to="/games/aoc"
-              >征服者入侵</nuxt-link
-            >資料片中的第二個特殊單位，在
+            <b>龜甲船</b>是<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            >資料片中的第二個<nuxt-link to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >，在
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >可以訓練。它是一艘重裝甲的火砲戰船。
+            >可以訓練。它是一艘重裝甲的<nuxt-link to="/units/Cannon_Galleon"
+              >火砲戰船</nuxt-link
+            >。
           </p>
           <p>
             龜甲船可在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳龜甲船。
+            >升級為<nuxt-link to="/units/Elite_Turtle_Ship"
+              >精銳龜甲船</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            龜甲船可以自己消滅一小隊的敵方船艦。它的主要弱點是射程短、速度慢、而且造價高。這意味著對付龜甲船的最好的選擇可能是<nuxt-link
+            龜甲船可以自己消滅一小隊的敵方<nuxt-link to="/units/Naval_Vessels"
+              >船艦</nuxt-link
+            >。它的主要弱點是射程短、速度慢、而且造價高。這意味著對付龜甲船的最好的選擇可能是<nuxt-link
               to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
-            >，因為它們更便宜，更快，射程更遠，讓他們能用打帶跑磨死龜甲船。陸上的火砲和僧侶也是對付龜甲船的不錯選擇。
+            >，因為它們更便宜，更快，射程更遠，讓他們能用打帶跑磨死龜甲船。陸上的<nuxt-link
+              to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
+            >和<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >也是對付龜甲船的不錯選擇。
           </p>
           <p>
-            玩家不要掉入韓國只建造龜甲船作為海軍的迷思。龜甲船還是應該跟其他船隻搭配，通常是<nuxt-link
-              to="/units/Galleon"
-              >重型弩砲戰船</nuxt-link
+            玩家不要掉入<nuxt-link to="/civs/Koreans">韓國</nuxt-link
+            >只建造龜甲船作為<nuxt-link to="/units/Naval_Vessels"
+              >海軍</nuxt-link
+            >的迷思。龜甲船還是應該跟其他<nuxt-link to="/units/Naval_Vessels"
+              >船隻</nuxt-link
+            >搭配，通常是<nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
             >，防止敵方使用打帶跑，而龜甲船的任務就是吸收大量傷害同時造成巨量傷害，所以龜甲船應該都是在最前線作戰。龜甲船有非常高的護甲，即使是對船有加成的攻擊(例如
-            <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-            >、箭塔)，龜甲船的額外防禦加成(+8/+11(精銳))可抵銷這些加成傷害，龜甲船對快速火戰船有+1防禦。
+            <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>、<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >)，龜甲船的額外防禦加成(+8/+11(精銳))可抵銷這些加成傷害，龜甲船對<nuxt-link
+              to="/units/Fast_Fire_Ship"
+              >快速火戰船</nuxt-link
+            >有+1防禦。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -104,7 +123,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -434,7 +455,9 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對龜甲船有額外攻擊力
+        以下技術可讓以下單位對龜甲船有額外<nuxt-link to="/elements/Attack"
+          >攻擊力</nuxt-link
+        >
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
@@ -533,7 +556,11 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>訓練龜甲船不再需要先建造城堡了。</li>
+            <li>
+              訓練龜甲船不再需要先建造<nuxt-link to="/building/Castle"
+                >城堡</nuxt-link
+              >了。
+            </li>
           </ul>
         </div>
         <h3>豆知識</h3>
@@ -541,9 +568,10 @@
         <div class="n1">
           <ul>
             <li>
-              雖然是火藥單位，龜甲船沒有受到<nuxt-link to="/civs/Turks"
-                >土耳其</nuxt-link
-              >的團隊加分影響(火藥單位訓練速度快20%)。
+              雖然是<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              >，龜甲船沒有受到<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              >的<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+              >影響(火藥單位訓練速度快20%)。
             </li>
             <li>
               龜甲船是四個單位之一沒有任何攻擊加成的(其他三個是<nuxt-link
@@ -552,15 +580,22 @@
               >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>和
               <nuxt-link to="/units/Knight">騎士</nuxt-link>系)。
             </li>
-            <li>精銳龜甲船是唯一近防和遠防是藉由升級後增加的單位。</li>
+            <li>
+              精銳龜甲船是唯一<nuxt-link to="/armor">近防</nuxt-link
+              >和<nuxt-link to="/armor">遠防</nuxt-link>是藉由升級後增加的單位。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在1592年日本武士的襲擊下，韓國和中國的命運依靠打破韓國海峽的入侵者供應線，韓國海軍上將楊善信再龜甲船的幫助下贏得了兩次海上勝利。這些戰艦是歷史上第一艘裝甲戰艦，這些戰艦的外形低調，在它們的寬闊邊緣安裝了一連炮，它們的側面和頂部是圓形的，形狀像扁平的龜甲殼，它們不適合在高處使用
-            但在水域相對平靜的沿海水域相當有用，日本艦艇在與它們作戰時處於劣勢，大多數導彈射擊都是從圓形的盔甲上看到的，它們沒有為敵方登機口提供開口，無人護航的敵方船隻很快就被禁用
+            在1592年<nuxt-link to="/units/Samurai">日本武士</nuxt-link
+            >的襲擊下，韓國和<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >的命運依靠打破韓國海峽的入侵者供應線，韓國海軍上將楊善信再龜甲船的幫助下贏得了兩次海上勝利。這些戰艦是歷史上第一艘裝甲戰艦，這些戰艦的外形低調，在它們的寬闊邊緣安裝了一連炮，它們的側面和頂部是圓形的，形狀像扁平的龜甲殼，它們不適合在高處使用
+            但在水域相對平靜的沿海水域相當有用，<nuxt-link to="/civs/Japanese"
+              >日本</nuxt-link
+            >艦艇在與它們作戰時處於劣勢，大多數導彈射擊都是從圓形的盔甲上看到的，它們沒有為敵方登機口提供開口，無人護航的敵方船隻很快就被禁用
             由他們的大砲。
           </p>
         </div>
@@ -594,7 +629,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>
             </td>
@@ -628,11 +663,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">180</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">180</td>
           </tr>
           <tr>
@@ -641,7 +680,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">200/300(精銳)</td>
           </tr>
           <tr>
@@ -653,11 +694,15 @@
             <td class="unit4">0.5</td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">6.04秒/次</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -681,7 +726,7 @@
             <td class="unit4">5/6(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link
               >(+8/+11(精銳)) <br />
@@ -701,7 +746,7 @@
             <td class="unit4">0.9</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">8</td>
           </tr>
           <tr>
@@ -726,7 +771,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />1000食物 800黃金
+              />1000<nuxt-link to="/resource/Food">食物</nuxt-link> 800黃金
             </td>
           </tr>
           <tr>

@@ -8,21 +8,33 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            漁船在海上算是一個弱小的單位，負責捕魚增加肉的生產，可以在<nuxt-link
+            <b>漁船</b
+            >在海上算是一個弱小的單位，負責捕魚增加肉的生產，可以在<nuxt-link
               to="/building/Dock"
               >碼頭</nuxt-link
             >訓練。
           </p>
           <p>
-            漁船可以建造類似於水上農田的魚網，雖然魚網需要更長的時間建設，但比較多食物。漁船捕魚的速度比從魚網捕魚還要快，大概與村民捕魚或是種田一樣。
+            漁船可以建造類似於水上<nuxt-link to="/building/Farm">農田</nuxt-link
+            >的魚網，雖然魚網需要更長的時間建設，但比較多<nuxt-link
+              to="/resource/Food"
+              >食物</nuxt-link
+            >。漁船捕魚的速度比從魚網捕魚還要快，大概與<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >捕魚或是種田一樣。
           </p>
           <p>
-            值得一提的是幾個文明，<nuxt-link to="/civs/Japanese">日本</nuxt-link
+            值得一提的是幾個<nuxt-link to="/civs">文明</nuxt-link>，<nuxt-link
+              to="/civs/Japanese"
+              >日本</nuxt-link
             >的漁船工作效率極高，而<nuxt-link to="/civs/Italians"
               >義大利</nuxt-link
             >的漁船相當便宜，
-            <nuxt-link to="/civs/Malay">馬來</nuxt-link
-            >的漁網有無限的食物採集量。
+            <nuxt-link to="/civs/Malay">馬來</nuxt-link>的<nuxt-link
+              to="/building/Fish_Trap"
+              >漁網</nuxt-link
+            >有無限的食物採集量。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -90,7 +102,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -395,7 +409,9 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對漁船有額外攻擊力
+        以下技術可讓以下單位對漁船有額外<nuxt-link to="/elements/Attack"
+          >攻擊力</nuxt-link
+        >
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
@@ -475,12 +491,18 @@
               >便宜50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：在視野內的動物不會被轉化
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >內的動物不會被轉化
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於漁船的科技在城堡/帝王便宜 15/20％
+              >：有利於漁船的<nuxt-link to="/techs">科技</nuxt-link>在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link>便宜
+              15/20％
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -493,12 +515,21 @@
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >：漁船具有2倍HP和裝甲+2。漁船的工作效率在黑暗/封建/城堡/帝王提高5%/10%/15%/20%
+              >：漁船具有2倍HP和裝甲+2。漁船的工作效率在<nuxt-link
+                to="/techs/age/Dark_Age"
+                >黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >提高5%/10%/15%/20%
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：漁船訓練的速度在封建/城堡/帝王提高10%/15%/20%，<nuxt-link
-                to="/techs/Careening"
+              >：漁船訓練的速度在<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >提高10%/15%/20%，<nuxt-link to="/techs/Careening"
                 >傾側維修術</nuxt-link
               >和
               <nuxt-link to="/techs/Gillnets">流刺網</nuxt-link
@@ -531,11 +562,13 @@
           </h3>
           <ul>
             <li>
-              漁船可以完成村民未建造完成的建築物如果該建築物是在岸邊的話。
+              漁船可以完成村民未建造完成的<nuxt-link to="/building"
+                >建築物</nuxt-link
+              >如果該建築物是在岸邊的話。
             </li>
             <li>
               <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
-              >減少20%船隻木材成本。
+              >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
           </ul>
           <h3>
@@ -580,12 +613,15 @@
               >:最初漁船便宜33%，5.3版本後該利益被移除。
             </li>
             <li>
-              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後義大利魚船花費60W
-              → 64W (其他文明 75W)
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>後<nuxt-link
+                to="/civs/Italians"
+                >義大利</nuxt-link
+              >魚船花費60W → 64W (其他文明 75W)
             </li>
             <li>
-              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link>火蒙衝對漁船傷害 3hp
-              → 1hp
+              <nuxt-link to="/news/ver5-8">5.8版</nuxt-link
+              ><nuxt-link to="/units/Fire_Galley">火蒙衝</nuxt-link>對漁船傷害
+              3hp → 1hp
             </li>
           </ul>
         </div>
@@ -668,19 +704,21 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
             </td>

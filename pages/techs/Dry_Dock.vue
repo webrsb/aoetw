@@ -8,7 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            旱碼頭是於帝王時代在<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            <b>旱碼頭</b>是於<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >研發。研發後<nuxt-link to="/units/Naval_Vessels"
               >所有船隻</nuxt-link
             >速度增加15％，
@@ -16,7 +18,10 @@
             >的容量增加10（共乘載20人）。旱碼頭不會提高<nuxt-link
               to="/units/Trade_Cog"
               >貿易商旅</nuxt-link
-            >的效率，雖然它們的速度仍舊會增加，但是為了彌補這種影響，每趟賺取的黃金會較少，因此總收益率保持不變。
+            >的效率，雖然它們的速度仍舊會增加，但是為了彌補這種影響，每趟賺取的<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >會較少，因此總收益率保持不變。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -27,7 +32,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發與否</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發與否</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -83,8 +90,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：傾側維修術在帝王時代成本便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
+                to="/techs/Careening"
+                >傾側維修術</nuxt-link
+              >在帝王時代成本便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link
@@ -167,7 +176,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">600</td>
           </tr>
           <tr>
@@ -181,7 +192,11 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">船速+ 15％，運輸船運載量+10</td>
+            <td class="unit4">
+              船速+ 15％，<nuxt-link to="/units/Transport_Ship"
+                >運輸船</nuxt-link
+              >運載量+10
+            </td>
           </tr>
         </table>
       </div>

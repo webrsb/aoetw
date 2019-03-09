@@ -8,10 +8,16 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            優娣忒公主是個英雄，在"世界地國II:非洲王國"資料片中出現，也能在地圖編輯器中找到她。
+            <b>優娣忒公主</b>是個<nuxt-link to="/units/hero">英雄</nuxt-link
+            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >"資料片中出現，也能在地圖編輯器中找到她。
           </p>
           <p>
-            優娣忒公主在所有她的戰役中都必須活著，否則遊戲就宣告失敗，她不能被招降而且會自行回血。
+            優娣忒公主在所有她的<nuxt-link to="/batt">戰役</nuxt-link
+            >中都必須活著，否則遊戲就宣告失敗，她不能被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <div></div>
@@ -41,7 +47,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">平民<br />英雄</nuxt-link>
+              平民<br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -54,21 +60,23 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -76,7 +84,7 @@
             <td class="unit4">1.2</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

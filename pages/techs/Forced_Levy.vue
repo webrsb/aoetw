@@ -8,12 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            強制徵兵是<nuxt-link to="/civs/Malay">馬來</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>強制徵兵</b>是<nuxt-link to="/civs/Malay">馬來</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後軍營步兵單位不需花費黃金。
+            >研發。研發後<nuxt-link to="/building/Barracks">軍營</nuxt-link
+            ><nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
+            >不需花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,16 +23,20 @@
         <div class="n1">
           <ul>
             <li>
-              為了維持遊戲平衡，馬來沒有<nuxt-link to="/units/Champion"
-                >劍兵勇士</nuxt-link
+              為了維持遊戲平衡，<nuxt-link to="/civs/Malay">馬來</nuxt-link
+              >沒有<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
               >。然而在強制徵兵研發而且後期黃金變的稀少，搭配全滿的
               <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-              >科技，他們高CP值的<nuxt-link to="/units/Two-Handed_Swordsman"
+              ><nuxt-link to="/techs">科技</nuxt-link>，他們高CP值的<nuxt-link
+                to="/units/Two-Handed_Swordsman"
                 >雙手劍兵</nuxt-link
               >給予馬來在後期垃圾戰爭中一拚的機會
             </li>
             <li>
-              如果馬來玩家想盡可能的在戰場上使用大量步兵作戰。就應該盡快研發強制徵兵讓他們的步兵像<nuxt-link
+              如果馬來玩家想盡可能的在戰場上使用大量<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >作戰。就應該盡快研發強制徵兵讓他們的步兵像<nuxt-link
                 to="/civs/Magyars"
                 >馬扎爾</nuxt-link
               >研發
@@ -75,7 +81,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Malay">馬來</nuxt-link></td>
           </tr>
           <tr>
@@ -107,7 +113,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">1000</td>
           </tr>
           <tr>

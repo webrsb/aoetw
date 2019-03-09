@@ -8,11 +8,22 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            小約翰是一位在非洲王國資料片中登場的英雄單位。你可以在地圖編輯器中找到他。小約翰的原型是羅賓漢的快樂夥伴(Merry
+            <b>小約翰</b>是一位在<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >資料片中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位。你可以在地圖編輯器中找到他。小約翰的原型是<nuxt-link
+              to="/units/hero/Robin_Hood"
+              >羅賓漢</nuxt-link
+            >的快樂夥伴(Merry
             Men)中的同名角色，小約翰是快樂夥伴的第二把交椅也是羅賓漢的副手。
           </p>
           <p>
-            在遊戲中，小約翰以長槍兵的外表登場，所有對步兵有效的升級和加成對他通通有效。做為一個英雄單位，他無法被招降且會自動回血。
+            在遊戲中，小約翰以<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+            >的外表登場，所有對<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >有效的升級和加成對他通通有效。做為一個英雄單位，他無法被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             雖然在遊戲中，小約翰的攻擊顯示為7，但實際上只有3，就跟一般的長槍兵一樣。
@@ -42,7 +53,9 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵 <br />英雄</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link> <br />英雄
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
@@ -54,7 +67,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">120</td>
           </tr>
           <tr>
@@ -64,34 +79,47 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對騎兵+15 <br />對戰象+15 <br />對駱駝+9 <br />對鷹勇士+1
-              <br />對標準建築+1
+              對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>+15
+              <br />對<nuxt-link to="/armor/Armor_Class_War_Elephant"
+                >戰象</nuxt-link
+              >+15 <br />對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >+9 <br />對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >+1 <br />對<nuxt-link to="/armor/Armor_Class_standard_building"
+                >標準建築</nuxt-link
+              >+1
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">3.05</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵 <br />長槍兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

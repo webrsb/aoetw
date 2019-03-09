@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            狂熱舉動是<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>狂熱舉動</b>是<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
@@ -22,10 +22,14 @@
         <div class="n1">
           <ul>
             <li>
-              狂熱舉動可提升駱駝單位的戰鬥能力，讓他們即使跟<nuxt-link
-                to="/units/Paladin"
+              狂熱舉動可提升<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝單位</nuxt-link
+              >的戰鬥能力，讓他們即使跟<nuxt-link to="/units/Paladin"
                 >遊俠</nuxt-link
-              >一對一的單挑中也有一搏的機會。然而考慮昂貴的花費還是應該先研發其他有利駱駝部隊的科技後再研發狂熱舉動
+              >一對一的單挑中也有一搏的機會。然而考慮昂貴的花費還是應該先研發其他有利<nuxt-link
+                to="/units/Camel"
+                >駱駝</nuxt-link
+              >部隊的<nuxt-link to="/techs">科技</nuxt-link>後再研發狂熱舉動
             </li>
           </ul>
         </div>
@@ -71,7 +75,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
             </td>
@@ -105,11 +109,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">750</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">800</td>
           </tr>
           <tr>
@@ -119,7 +127,12 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">駱駝騎兵和奴隸兵HP+30。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>和<nuxt-link
+                to="/units/Mameluke"
+                >奴隸兵</nuxt-link
+              >HP+30。
+            </td>
           </tr>
         </table>
 

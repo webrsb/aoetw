@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            酋長是<nuxt-link to="/civs/Vikings">維京</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在城堡研發。研發後
+            <b>酋長</b>是<nuxt-link to="/civs/Vikings">維京</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>對<nuxt-link
               to="/armor/Armor_Class_Cavalry"
               >騎兵類</nuxt-link
@@ -26,9 +26,16 @@
           <ul>
             <li>
               除了<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-              >，狂戰士是遊戲中最耐打的步兵。研發酋長讓狂戰士也能對抗騎兵；然而使用
+              >，<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+              >是遊戲中最耐打的<nuxt-link to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >。研發酋長讓狂戰士也能對抗<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >；然而使用
               <nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
-              >對付騎兵還是更有效益。另外弓箭手對狂戰士來說仍舊是個威脅。
+              >對付騎兵還是更有效益。另外<nuxt-link to="/units/Archer"
+                >弓箭手</nuxt-link
+              >對狂戰士來說仍舊是個威脅。
             </li>
           </ul>
         </div>
@@ -69,7 +76,11 @@
               >對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵類</nuxt-link
               >攻擊+5。
             </li>
-            <li>4.8改版後酋長會影響所有步兵單位。</li>
+            <li>
+              4.8改版後酋長會影響所有<nuxt-link to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >。
+            </li>
             <li>
               4.8b改版後酋長現在會給所有步兵單位對<nuxt-link
                 to="/armor/Armor_Class_Camel"
@@ -125,7 +136,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>
             </td>
@@ -161,11 +172,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
@@ -175,7 +190,12 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">步兵對騎兵+5攻擊，對駱駝騎兵+4攻擊。</td>
+            <td class="unit4">
+              步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >+5攻擊，對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
+              >+4攻擊。
+            </td>
           </tr>
         </table>
 

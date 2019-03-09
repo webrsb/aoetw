@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬格拉比駱駝是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>馬格拉比駱駝</b>是<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
@@ -23,9 +23,12 @@
         <div class="n1">
           <ul>
             <li>
-              馬格拉比駱駝的回血機制與<nuxt-link to="/units/Berserk"
-                >狂戰士</nuxt-link
-              >雷同，可讓駱駝騎兵/駱駝弓騎兵在沒有僧侶支援的情況下在戰場上支撐更久，變得更具有侵略性。但還是建議要在後方配有
+              馬格拉比駱駝的<nuxt-link to="/Regeneration">回血</nuxt-link
+              >機制與<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+              >雷同，可讓<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >/<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+              >在沒有<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >支援的情況下在戰場上支撐更久，變得更具有侵略性。但還是建議要在後方配有
               <nuxt-link to="/units/Monk">僧侶</nuxt-link
               >治療因為回血速度實在過慢。
             </li>
@@ -77,11 +80,13 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">科技介紹</div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>
             </td>
@@ -115,11 +120,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">700</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

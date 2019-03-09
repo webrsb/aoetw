@@ -8,16 +8,35 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鹿有140的肉，但不會被馴化，必須去狩獵或是用斥候趕回城鎮中心，是初期相當快速的食物來源。村民獵殺鹿至少要兩箭，而最少3個村民殺鹿會比較有效率。一般來說打封建開打的遊戲，並不會去鹿群旁邊蓋磨坊，而是會用斥候趕回資源採集點，而趕鹿的技巧對新手來說相當困難，必須練習再練習，不斷的練習。
+            <b>鹿</b>有140的肉，但不會被馴化，必須去狩獵或是用<nuxt-link
+              to="/units/Scout_Cavalry"
+              >斥候</nuxt-link
+            >趕回<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >，是初期相當快速的<nuxt-link to="/resource/Food">食物</nuxt-link
+            >來源。<nuxt-link to="/units/Villager">村民</nuxt-link
+            >獵殺鹿至少要兩箭，而最少3個村民殺鹿會比較有效率。一般來說打封建開打的遊戲，並不會去<nuxt-link
+              to="/units/animal/Deer"
+              >鹿群</nuxt-link
+            >旁邊蓋<nuxt-link to="/building/Mill">磨坊</nuxt-link
+            >，而是會用斥候趕回資源採集點，而趕鹿的技巧對新手來說相當困難，必須練習再練習，不斷的練習。
           </p>
         </div>
         <h3>文明優勢</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>蒙古:打獵速度快50%</li>
-            <li>馬雅:額外多獵取20%的肉量</li>
-            <li>哥德:村民打野豬攻擊+5，攜帶量+15</li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:打獵速度快50%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多獵取20%的肉量
+            </li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:村民打<nuxt-link
+                to="/units/animal/Wild_Boar"
+                >野豬</nuxt-link
+              >攻擊+5，攜帶量+15
+            </li>
           </ul>
         </div>
       </div>
@@ -47,7 +66,9 @@
             <td class="unit4">140</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
         </table>

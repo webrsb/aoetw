@@ -6,12 +6,18 @@
         <div class="hrn1"></div>
       </div>
       <div class="col-md-12">
-        <div class="spw"><em>這篇文章是將有關於石造防禦裝甲。</em></div>
+        <div class="spw">
+          <em>這篇文章是將有關於<strong>石造防禦裝甲</strong>。</em>
+        </div>
       </div>
       <div class="col-md-12">
         <div class="n1">
           <p>
-            石造防禦裝甲是一個防禦裝甲類別，所有在這個系列的建築都會被對該裝甲的有攻擊加成的兵種或科技有額外的傷害。
+            <strong>石造防禦裝甲</strong
+            >是一個防禦裝甲類別，所有在這個系列的建築都會被對該裝甲的有攻擊加成的兵種或<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >有額外的傷害。
           </p>
         </div>
         <h3>石造防禦單位</h3>

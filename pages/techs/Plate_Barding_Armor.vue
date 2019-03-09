@@ -8,10 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            騎兵板甲可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>騎兵板甲</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >研發，可讓騎兵護甲+1/+2。。
+            >研發，可讓<nuxt-link to="/armor/Armor_Class_Cavalry"
+              >騎兵護甲</nuxt-link
+            >+1/+2。。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -76,12 +78,16 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在帝王時代花費便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：研發該科技不需要黃金。
+              >：研發該科技不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -115,7 +121,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看分類</td>
           </tr>
           <tr>
@@ -150,7 +156,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>

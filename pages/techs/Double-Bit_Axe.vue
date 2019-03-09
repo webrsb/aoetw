@@ -8,9 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            雙刃斧是<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            <b>雙刃斧</b>是<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             ><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
-            >的科技，研發後可使村民收集木材的速度增快20%。此科技非常重要，最好一上封建立即研發。當然你打的是城堡快攻，可以在點城堡後再研發。
+            >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >收集<nuxt-link to="/resource/Wood">木材</nuxt-link
+            >的速度增快20%。此科技非常重要，最好一上封建立即研發。當然你打的是<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡</nuxt-link
+            >快攻，可以在點城堡後再研發。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -20,7 +28,9 @@
             <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:雙刃斧免費。</li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >:科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >:科技在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜10%/15%/20%。
             </li>
           </ul>
         </div>
@@ -55,7 +65,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -97,7 +107,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

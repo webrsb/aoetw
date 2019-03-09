@@ -8,26 +8,103 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            維京人是公元八至十一世紀，侵擾與殖民歐洲沿海與不列顛群島的民族，是一個步兵與海軍文明，關於維京起源有一說為從海灣而來的人，他們乘坐著名的維京戰船於各地四處掠劫，這戰船也同時是維京的特殊單位之一。
+            <b>維京人</b
+            >是公元八至十一世紀，侵擾與殖民歐洲沿海與不列顛群島的民族，是一個<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >與<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
+            >，關於<nuxt-link to="/civs/Vikings">維京</nuxt-link
+            >起源有一說為從海灣而來的人，他們乘坐著名的維京<nuxt-link
+              to="/units/Naval_Vessels"
+              >戰船</nuxt-link
+            >於各地四處掠劫，這戰船也同時是維京的<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >之一。
           </p>
           <p>
-            城堡的特殊單位自然是聞名的維京戰士，擁有較快的速度，自動回復的能力，適合對付戟兵、駱駝騎兵、鷹勇士、輕騎兵，城堡時代的特殊科技酋長，讓對付騎兵更加優勢，而帝王時代的狂戰士幫則增加了回血的效率，讓狂戰士的騷擾遊走能力更加上升，且維京人擁有完整的兵工廠步兵系升級，更從封建開始步兵系的血量擁有額外的加成。
+            <nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的特殊單位自然是聞名的維京戰士，擁有較快的速度，自動回復的能力，適合對付<nuxt-link
+              to="/units/Halberdier"
+              >戟兵</nuxt-link
+            >、<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>、<nuxt-link
+              to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
+            >、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >，<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
+            >，讓對付<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >更加優勢，而<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >的<nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link
+            >則增加了<nuxt-link to="/Regeneration">回血</nuxt-link
+            >的效率，讓<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+            >的騷擾遊走能力更加上升，且維京人擁有完整的<nuxt-link
+              to="/building/Blacksmith"
+              >兵工廠</nuxt-link
+            >步兵系升級，更從封建開始步兵系的<nuxt-link
+              to="/elements/Hit_points"
+              >血量</nuxt-link
+            >擁有額外的加成。
           </p>
           <p>
-            維京在海戰中也有不錯的優勢，戰船系成本的減少，特殊單位的維京長船，但是騎兵與僧侶的科技都少了許多，尤其沒有品種與畜牧培育，但仍有強弩兵與拇指環可與步兵搭配，沒有火砲與步槍兵，經濟部分只缺乏礦井採石與行會制度，而最棒的好處在於升到封建與城堡時代時就自動研發獨輪推車與手推車，讓爆經濟變的較為輕鬆。
+            維京在海戰中也有不錯的優勢，戰船系成本的減少，特殊單位的維京長船，但是騎兵與<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >的<nuxt-link to="/techs">科技</nuxt-link
+            >都少了許多，尤其沒有<nuxt-link to="/techs/Bloodlines"
+              >品種</nuxt-link
+            >與<nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+            >，但仍有<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >與<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+            >可與步兵搭配，沒有<nuxt-link to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
+            >與步槍兵，經濟部分只缺乏<nuxt-link to="/techs/Stone_Shaft_Mining"
+              >礦井採石</nuxt-link
+            >與<nuxt-link to="/techs/Guilds">行會制度</nuxt-link
+            >，而最棒的好處在於升到封建與城堡時代時就自動研發<nuxt-link
+              to="/techs/Wheelbarrow"
+              >獨輪推車</nuxt-link
+            >與<nuxt-link to="/techs/Hand_Cart">手推車</nuxt-link
+            >，讓爆經濟變的較為輕鬆。
           </p>
           <p>
-            維京還有一項聞名的便是十二世紀建造於挪威，目前列為世界文化遺產的博爾貢木造教堂，同時也是遊戲內的世界奇觀
+            維京還有一項聞名的便是十二世紀建造於<nuxt-link to="/civs/Vikings"
+              >挪威</nuxt-link
+            >，目前列為世界文化遺產的博爾貢木造教堂，同時也是遊戲內的<nuxt-link
+              to="/building/Wonder"
+              >世界奇觀</nuxt-link
+            >
           </p>
         </div>
         <h3>概要</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            理論上維京是一個海戰文明，但其實他的陸戰也是非常強大，唯獨後期比較弱勢，靠著免費的手推車與輪軸技術，在封建在城堡這段時間，可以給予敵人強大的壓力，帝王初期可以快速的爆出強弩兵與重型衝撞車的組合，這在帝王初期是幾乎沒有敵手的。
+            理論上維京是一個海戰<nuxt-link to="/civs">文明</nuxt-link
+            >，但其實他的陸戰也是非常強大，唯獨後期比較弱勢，靠著免費的手推車與輪軸技術，在封建在城堡這段時間，可以給予敵人強大的壓力，帝王初期可以快速的爆出強弩兵與<nuxt-link
+              to="/units/Siege_Ram"
+              >重型衝撞車</nuxt-link
+            >的組合，這在帝王初期是幾乎沒有敵手的。
           </p>
           <p>
-            狂戰士有自我回血的能力，本身對抗步兵就有不錯的能力，但害怕遭受遠距離單位的攻擊，而最新版本的酋長更是變成全體步兵對騎兵的加傷，讓維京人的步兵更加強悍，另外戰船系的木材減少則可在海圖則可以於封建時代產出許多戰船，免費的獨輪推車與手推車，更是讓維京在封建城堡時的威脅大增。
+            狂戰士有自我回血的能力，本身對抗步兵就有不錯的能力，但害怕遭受<nuxt-link
+              to="/units/Archer_Units"
+              >遠距離單位</nuxt-link
+            >的攻擊，而最新版本的酋長更是變成全體步兵對<nuxt-link
+              to="/armor/Armor_Class_Cavalry"
+              >騎兵</nuxt-link
+            >的加傷，讓維京人的步兵更加強悍，另外戰船系的<nuxt-link
+              to="/resource/Wood"
+              >木材</nuxt-link
+            >減少則可在海圖則可以於<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >產出許多戰船，免費的獨輪推車與手推車，更是讓維京在<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建</nuxt-link
+            >及<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+            >時的威脅大增。
           </p>
           <h3>特殊單位</h3>
           <ul>
@@ -45,7 +122,7 @@
                 src="~assets/LongboatIcon.jpg"
                 width="22"
                 alt=""
-              />維京大戰船
+              /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
             </li>
           </ul>
           <h3>特殊科技</h3>
@@ -55,7 +132,9 @@
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 alt=""
-              />酋長:步兵對騎兵有+5攻擊
+              />酋長:步兵對<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵</nuxt-link
+              >有+5攻擊
             </li>
             <li>
               <img
@@ -71,9 +150,18 @@
         <div class="n1">
           <ul>
             <li>戰船系成本於封建時代-10%、城堡時代-15%、帝王時代-20%</li>
-            <li>步兵生命值於封建時代+10%、城堡時代+15%、帝王時代+20%</li>
+            <li>
+              步兵<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+              >於封建時代+10%、城堡時代+15%、帝王時代+20%
+            </li>
             <li>免費擁有獨輪推車、手推車</li>
-            <li><strong>團隊加分</strong>:碼頭建造成本-15%</li>
+            <li>
+              <strong
+                ><nuxt-link to="/elements/Team_Bonus"
+                  >團隊加分</nuxt-link
+                ></strong
+              >:<nuxt-link to="/building/Dock">碼頭</nuxt-link>建造成本-15%
+            </li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -89,7 +177,11 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>團隊加分:碼頭便宜15%(原本25%) 128木頭，以前是113木頭</li>
+            <li>
+              團隊加分:碼頭便宜15%(原本25%) 128<nuxt-link to="/resource/Wood"
+                >木頭</nuxt-link
+              >，以前是113木頭
+            </li>
             <li>
               戰船成本現在每個時代成本都不同，封建81w/27g(-10%)、城堡76w/25g(-15%)、帝王72w/24g(-20%)
             </li>
@@ -137,7 +229,13 @@
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          最早見於歷史記載中的維京海盜是記錄在《盎格魯-撒克遜編年史》中的公元789年一次對英國的襲擊，當時他們被當地官員誤認為是商人，這些海盜殺死要向他們徵稅的官員。第二次記錄是在公元793年。以後200年間維京不斷地侵擾歐洲各沿海國家，沿著河流向上游內地劫掠，曾經控制東歐平原和波羅的海沿岸，據說他們曾遠達地中海和裏海沿岸。其中的一支渡過波羅的海，並遠征諾夫哥羅德，到達基輔和伏爾加保加利亞，並建立基輔羅斯。有些船隊遠航至裏海，前往大伊朗、美索不達米亞和阿拉伯人做生意。而更為著名的一支維京人沿著西歐的大西洋沿岸向南挺進，在歐洲的心臟地帶掀起軒然大波。他們大肆劫掠大不列顛島，並且還向西歐進行了侵擾。維京（Vikings）一詞便帶有掠奪、殺戮等意思。維京人對於歐洲歷史尤其是英格蘭和法蘭西的歷史進程產生過深遠影響。
+          最早見於歷史記載中的維京海盜是記錄在《盎格魯-撒克遜編年史》中的公元789年一次對<nuxt-link
+            to="/civs/Britons"
+            >英國</nuxt-link
+          >的襲擊，當時他們被當地官員誤認為是商人，這些海盜殺死要向他們徵稅的官員。第二次記錄是在公元793年。以後200年間維京不斷地侵擾歐洲各沿海國家，沿著河流向上游內地劫掠，曾經控制東歐平原和波羅的海沿岸，據說他們曾遠達地中海和裏海沿岸。其中的一支渡過波羅的海，並遠征諾夫哥羅德，到達基輔和伏爾加保加利亞，並建立基輔羅斯。有些船隊遠航至裏海，前往大伊朗、美索不達米亞和阿拉伯人做生意。而更為著名的一支維京人沿著西歐的大西洋沿岸向南挺進，在歐洲的心臟地帶掀起軒然大波。他們大肆劫掠大<nuxt-link
+            to="/civs/Britons"
+            >不列顛</nuxt-link
+          >島，並且還向西歐進行了侵擾。維京（Vikings）一詞便帶有掠奪、殺戮等意思。維京人對於歐洲歷史尤其是英格蘭和法蘭西的歷史進程產生過深遠影響。
         </div>
       </div>
       <div class="col-md-4">
@@ -166,22 +264,32 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">步兵和海軍</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>和<nuxt-link
+                to="/units/Naval_Vessels"
+                >海軍</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/VBRSK.jpg" />狂戰士 <br /><img
+              <img class="gg" src="~assets/VBRSK.jpg" /><nuxt-link
+                to="/units/Berserk"
+                >狂戰士</nuxt-link
+              ><br /><img
                 class="gg"
                 src="~assets/LongboatIcon.jpg"
                 width="22"
                 alt=""
-              />維京大戰船
+              /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">爆步兵、城快馬爆</td>
+            <td class="unit4">
+              爆<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、城快馬爆
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>

@@ -7,14 +7,19 @@
       </div>
       <div class="col-md-12">
         <div class="n1">
-          <p>防禦類型屬於遊戲內隱藏的項目，讓防禦對應不同的攻擊加成。</p>
+          <p>
+            <strong>防禦類型</strong
+            >屬於遊戲內隱藏的項目，讓防禦對應不同的攻擊加成。
+          </p>
           <br /><strong>這篇條目包含防禦類型與遠防、近防</strong>
         </div>
         <h3>防禦類型</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            攻擊加成和防禦類型都不會在遊戲中顯示，雖然科技樹都會寫這個單位對哪些單位有加成，可以造成額外的傷害，但他不會說這個額外傷害是多少，或者這個單位屬於哪個防禦類型。即使大多的單位你用肉眼就可以得知這個單位屬於哪些類型，例如
+            攻擊加成和防禦類型都不會在遊戲中顯示，雖然<nuxt-link to="/tree/vie"
+              >科技樹</nuxt-link
+            >都會寫這個單位對哪些單位有加成，可以造成額外的傷害，但他不會說這個額外傷害是多少，或者這個單位屬於哪個防禦類型。即使大多的單位你用肉眼就可以得知這個單位屬於哪些類型，例如
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >你會很直覺的認為他是<nuxt-link to="/armor/Armor_Class_Infantry"
               >步兵</nuxt-link
@@ -56,13 +61,18 @@
             <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
             >的防禦類型是<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵</nuxt-link
-            >，但他的騎兵裝甲值是12，這代表他比其他
+            >，但他的<nuxt-link to="/armor/Armor_Class_Cavalry"
+              >騎兵裝甲</nuxt-link
+            >值是12，這代表他比其他
             <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-            >更不怕反騎兵的攻擊。另一方面，<nuxt-link
-              to="/units/Ballista_Elephant"
+            >更不怕<nuxt-link to="/armor/Armor_Class_Cavalry">反騎兵</nuxt-link
+            >的攻擊。另一方面，<nuxt-link to="/units/Ballista_Elephant"
               >弩砲象</nuxt-link
             >的<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵防禦</nuxt-link
-            >類型裝甲是-2，這表示他會受到更多的反騎兵攻擊加成。當然以上的數字遊戲內都不會告訴你。
+            >類型裝甲是-2，這表示他會受到更多的<nuxt-link
+              to="/armor/Armor_Class_Cavalry"
+              >反騎兵</nuxt-link
+            >攻擊加成。當然以上的數字遊戲內都不會告訴你。
           </p>
         </div>
         <h3>防禦類型列表</h3>
@@ -132,7 +142,7 @@
               </ul>
             </div>
             <div class="col-md-6">
-              建築類
+              <nuxt-link to="/armor/Armor_Class_Building">建築類</nuxt-link>
               <ul>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
@@ -167,7 +177,8 @@
           <h3>遠防</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            下列的單位都是遠程傷害，並造成對方遠防裝甲的影響
+            下列的單位都是<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+            >傷害，並造成對方遠防裝甲的影響
             <ul>
               <li>
                 所有<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
@@ -261,7 +272,9 @@
               <nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
               >造成遠程傷害時也會有近戰傷害。
             </li>
-            <li>所有建築都是造成遠防傷害。</li>
+            <li>
+              所有<nuxt-link to="/building">建築</nuxt-link>都是造成遠防傷害。
+            </li>
             <h3>具有高遠防的單位</h3>
             <div class="row">
               <div class="col-md-4">
@@ -466,7 +479,7 @@
             <h3>科技</h3>
             <div class="hrn1"></div>
             <div class="n1">
-              下列的科技都可以增加遠防
+              下列的<nuxt-link to="/techs">科技</nuxt-link>都可以增加遠防
               <h3>
                 <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
               </h3>
@@ -491,7 +504,12 @@
                   </td>
                   <td class="tunitc4">帝王</td>
                   <td class="tunitc5">200F 250G</td>
-                  <td class="tunitc6">馬弓騎兵護甲+1/+2，對長槍兵攻擊+4。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                      >馬弓騎兵護甲</nuxt-link
+                    >+1/+2，對<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+                    >攻擊+4。
+                  </td>
                 </tr>
               </table>
 
@@ -517,7 +535,10 @@
                   </td>
                   <td class="tunitc4">黑暗</td>
                   <td class="tunitc5">50G</td>
-                  <td class="tunitc6">村民+15 HP，護甲+1/+2。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/units/Villager">村民</nuxt-link>+15
+                    HP，護甲+1/+2。
+                  </td>
                 </tr>
               </table>
 
@@ -539,9 +560,16 @@
                       alt=""
                     /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>
                   </td>
-                  <td class="tunitc4">城堡</td>
+                  <td class="tunitc4">
+                    <nuxt-link to="/building/Castle">城堡</nuxt-link>
+                  </td>
                   <td class="tunitc5">250F 150G</td>
-                  <td class="tunitc6">船隻護甲+1，運輸船可承載單位+5。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+                    >護甲+1，<nuxt-link to="/units/Transport_Ship"
+                      >運輸船</nuxt-link
+                    >可承載單位+5。
+                  </td>
                 </tr>
               </table>
 
@@ -565,7 +593,10 @@
                   </td>
                   <td class="tunitc4">城堡</td>
                   <td class="tunitc5">150F 175W</td>
-                  <td class="tunitc6">建築物+10% HP，建築護甲+1/+1。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/building">建築物</nuxt-link>+10%
+                    HP，建築護甲+1/+1。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -604,7 +635,10 @@
                   </td>
                   <td class="tunitc4">封建</td>
                   <td class="tunitc5">100F</td>
-                  <td class="tunitc6">弓兵和馬弓騎兵護甲+1/+1。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/armor/Armor_Archer">弓兵</nuxt-link
+                    >和馬弓騎兵護甲+1/+1。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -649,7 +683,11 @@
                   </td>
                   <td class="tunitc4">封建</td>
                   <td class="tunitc5">150F</td>
-                  <td class="tunitc6">騎兵護甲+1/+1。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/armor/Armor_Class_Cavalry"
+                      >騎兵護甲</nuxt-link
+                    >+1/+1。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -694,7 +732,11 @@
                   </td>
                   <td class="tunitc4">封建</td>
                   <td class="tunitc5">100F</td>
-                  <td class="tunitc6">步兵護甲+1/+1。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/armor/Armor_Class_Infantry"
+                      >步兵護甲</nuxt-link
+                    >+1/+1。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -732,8 +774,12 @@
               <div class="hrn1"></div>
               <table class="table-bordered table-striped" width="100%">
                 <tr>
-                  <td class="tunitcc" style="width: 15%;">文明</td>
-                  <td class="tunitcc" style="width: 10%;">特殊科技</td>
+                  <td class="tunitcc" style="width: 15%;">
+                    <nuxt-link to="/civs">文明</nuxt-link>
+                  </td>
+                  <td class="tunitcc" style="width: 10%;">
+                    <nuxt-link to="/techs/untech">特殊科技</nuxt-link>
+                  </td>
                   <td class="tunitcc" style="width: 15%;">花費</td>
                   <td class="tunitcc">影響</td>
                 </tr>
@@ -750,7 +796,10 @@
                     <nuxt-link to="/techs/Howdah">象轎</nuxt-link>
                   </td>
                   <td class="tunitc5">200W 300F</td>
-                  <td class="tunitc6">矛象伕護甲+1/+1。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+                    >護甲+1/+1。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -765,7 +814,9 @@
                     <nuxt-link to="/techs/Pavise">巨盾</nuxt-link>
                   </td>
                   <td class="tunitc5">300F 150G</td>
-                  <td class="tunitc6">徒步遠程護甲+1/+1。</td>
+                  <td class="tunitc6">
+                    徒步<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -795,7 +846,10 @@
                     <nuxt-link to="/techs/Orthodoxy">東正教</nuxt-link>
                   </td>
                   <td class="tunitc5">200F 300G</td>
-                  <td class="tunitc6">僧侶護甲+3/+3。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/armor/Armor_Class_Monk">僧侶護甲</nuxt-link
+                    >+3/+3。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -809,7 +863,11 @@
                     <nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link>
                   </td>
                   <td class="tunitc5">400W 350G</td>
-                  <td class="tunitc6">攻城武器近戰護甲+4。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                      >攻城武器</nuxt-link
+                    >近戰護甲+4。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">
@@ -824,7 +882,12 @@
                     <nuxt-link to="/techs/Couriers">信使</nuxt-link>
                   </td>
                   <td class="tunitc5">400F 200G</td>
-                  <td class="tunitc6">槍隊長、投石手和鷹勇士的護甲+1/+2。</td>
+                  <td class="tunitc6">
+                    <nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
+                    >、<nuxt-link to="/units/Slinger">投石手</nuxt-link
+                    >和<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+                    >的護甲+1/+2。
+                  </td>
                 </tr>
                 <tr>
                   <td class="tunitc6">

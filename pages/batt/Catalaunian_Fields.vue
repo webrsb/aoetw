@@ -8,11 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>卡塔隆尼亞平原</b
-            >為阿提拉戰役的第五關劇情關卡，此關原型為公元451年6月20日，發生在當今法國的香檳沙隆地區（Châlons-en-Champagne），羅馬將軍埃提烏斯和西哥特國王狄奧多里克一世的聯軍與由阿提拉率領的匈人聯軍作戰。
+            <b>卡塔隆尼亞平原</b>為<nuxt-link to="/batt/Attila_the_Huna"
+              >阿提拉戰役</nuxt-link
+            >的第五關劇情關卡，此關原型為公元451年6月20日，發生在當今法國的香檳沙隆地區（Châlons-en-Champagne），羅馬將軍埃提烏斯和西哥特國王狄奧多里克一世的聯軍與由<nuxt-link
+              to="/units/hero/Attila_the_Hun"
+              >阿提拉</nuxt-link
+            >率領的匈人聯軍作戰。
           </p>
           <p>
-            這次戰役是西羅馬帝國最後一次大型的軍事行動，亦是埃提烏斯軍事生涯上的頂峰。戰役雖以西羅馬帝國聯軍勝利告終，但狄奧多里克一世卻於此戰陣亡，而此役後阿提拉亦離開了高盧並將目標再指向義大利本土。
+            這次<nuxt-link to="/batt">戰役</nuxt-link
+            >是西羅馬帝國最後一次大型的軍事行動，亦是埃提烏斯軍事生涯上的頂峰。戰役雖以西羅馬帝國聯軍勝利告終，但狄奧多里克一世卻於此戰陣亡，而此役後阿提拉亦離開了高盧並將目標再指向<nuxt-link
+              to="/civs/Italians"
+              >義大利</nuxt-link
+            >本土。
           </p>
         </div>
         <h2>玩家</h2>
@@ -22,9 +30,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">城堡時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">2,000木頭，8,000食物，8,000黃金，2,000石頭</td>
+              <td class="tc2">
+                2,000<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，8,000<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，8,000<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，2,000<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">100</td>
             </tr>
@@ -41,14 +56,19 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p4">玩家1</div></td>
-              <td class="tc6" colspan="3">匈奴人（黃色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
-              <td class="tc6" width="38%">東哥德人（紅色）哥德</td>
+              <td class="tc6" width="38%">
+                東<nuxt-link to="/civs/Goths">哥德人</nuxt-link
+                >（紅色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -56,27 +76,40 @@
             <tr></tr>
             <tr>
               <td class="tc6"><div class="p1">玩家3</div></td>
-              <td class="tc6">西羅馬帝國（藍色）拜占庭</td>
+              <td class="tc6">
+                西羅馬帝國（藍色）<nuxt-link to="/civs/Byzantines"
+                  >拜占庭</nuxt-link
+                >
+              </td>
               <td class="tc6"><div class="p3">玩家4</div></td>
               <td class="tc6">西哥德人（綠色）哥德</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p5">玩家5</div></td>
-              <td class="tc6">奄蔡人（藍綠色）維京</td>
+              <td class="tc6">
+                奄蔡人（藍綠色）<nuxt-link to="/civs/Vikings">維京</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">中立</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p7">玩家6</div></td>
-              <td class="tc6" width="38%">法蘭西人（灰色）法蘭克</td>
+              <td class="tc6" width="38%">
+                法蘭西人（灰色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>3位村民、12隻綿羊、1位斥候、10位韃靼騎兵。</dd>
+            <dd>
+              3位<nuxt-link to="/units/Villager">村民</nuxt-link
+              >、12隻<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
+              >、1位<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
+              >、10位<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link>。
+            </dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
           </dl>
@@ -111,7 +144,18 @@
               佈防以待的法蘭西人（灰色）則位在戰場的中央，很快就會被消滅。他們的命運都不是匈奴人所關心的。
             </li>
             <li>
-              在你的敵軍中，以羅馬人最為危險。他們的步兵、拜占庭聖騎兵和攻城武器，一開如就會試圖攻擊在匈奴人側翼的東哥德人。西哥德人有訓練出哥德衛隊和一些騎兵，而奄蔡人的軍隊主要就由長槍兵和弓兵組成。
+              在你的敵軍中，以羅馬人最為危險。他們的<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >、<nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
+              >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >，一開如就會試圖攻擊在匈奴人側翼的東哥德人。西哥德人有訓練出<nuxt-link
+                to="/units/Huskarl"
+                >哥德衛隊</nuxt-link
+              >和一些<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >，而奄蔡人的軍隊主要就由<nuxt-link to="/units/Spearman"
+                >長槍兵</nuxt-link
+              >和<nuxt-link to="/units/Archer">弓兵</nuxt-link>組成。
             </li>
           </ul>
           <h2>芝麻小事</h2>
@@ -119,13 +163,29 @@
           <div class="n1">
             <ul>
               <li>
-                建議馬上要做的第一件事就是盡快建立一支軍隊。首先建造一個城鎮中心，生產更多的村民並建造很多軍事建築，以便玩家能夠快速生產軍隊。軍隊應該由一些輕騎兵和韃靼騎兵以及很多馬弓騎兵組成。
+                建議馬上要做的第一件事就是盡快建立一支軍隊。首先建造一個<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
+                >，生產更多的村民並建造很多軍事<nuxt-link to="/building"
+                  >建築</nuxt-link
+                >，以便玩家能夠快速生產軍隊。軍隊應該由一些<nuxt-link
+                  to="/units/Light_Cavalry"
+                  >輕騎兵</nuxt-link
+                >和韃靼騎兵以及很多<nuxt-link to="/units/Cavalry_Archer"
+                  >馬弓騎兵</nuxt-link
+                >組成。
               </li>
               <li>
-                與此同時，派斥候去探索地圖並找到敵方基地。軍隊建成後，派村民去收集資源。並在奄蔡附近部署軍隊，要帶一些村民。然後在那裏建造城堡，奄蔡應該會立刻反擊並攻擊城堡。將軍隊的設置為防衛狀態，攻城武器一但出現就立刻拿下。
+                與此同時，派斥候去探索地圖並找到敵方基地。軍隊建成後，派村民去收集資源。並在奄蔡附近部署軍隊，要帶一些村民。然後在那裏建造<nuxt-link
+                  to="/building/Castle"
+                  >城堡</nuxt-link
+                >，奄蔡應該會立刻反擊並攻擊城堡。將軍隊的設置為防衛狀態，攻城武器一但出現就立刻拿下。
               </li>
               <li>
-                記得隨時補充軍隊。也不要忘記升級到帝王時代，會讓事情變得更容易。
+                記得隨時補充軍隊。也不要忘記升級到<nuxt-link
+                  to="/techs/age/Imperial_Age"
+                  >帝王時代</nuxt-link
+                >，會讓事情變得更容易。
               </li>
               <li>
                 不久之後，奄蔡將耗盡軍隊，只會派出越來越少的單位，如果他們開始停止派出軍隊，就迅速將他們擊敗。
@@ -134,10 +194,25 @@
                 接下來是西哥德人。同樣使用對付奄蔡的戰術，但是這一次在城堡後面多建造一些塔來攻擊敵人的哥德衛隊（或是多用點近戰單位）。在攻城武器對城堡造成重大傷害之前派騎兵消滅他們。
               </li>
               <li>
-                最後是西羅馬帝國。如果玩家仍然有很多資源，生產一些騎士，因為他們比輕騎兵更耐用。雙線夾擊西羅馬帝國，他們的軍隊會更快被耗盡，而且在城市被毀時，他們就無法在別處重建（堵住他們）。在他們的軍隊被耗盡之前，不要去攻擊。然後，製造一些爆炸桶或攻城武器來摧毀他們的城堡。如果玩家選擇攻城武器，他們必須被保護免受敵方近戰單位的傷害。然後摧毀他們的市鎮中心（如果他們試圖重建，請確保它們石頭用完了，或者摧毀它們），玩家所要做的就是殺死剩下的敵方單位並摧毀剩餘的敵方建築物。
+                最後是西羅馬帝國。如果玩家仍然有很多資源，生產一些<nuxt-link
+                  to="/units/Knight"
+                  >騎士</nuxt-link
+                >，因為他們比輕騎兵更耐用。雙線夾擊西羅馬帝國，他們的軍隊會更快被耗盡，而且在城市被毀時，他們就無法在別處重建（堵住他們）。在他們的軍隊被耗盡之前，不要去攻擊。然後，製造一些<nuxt-link
+                  to="/units/Petard"
+                  >爆炸桶</nuxt-link
+                >或攻城武器來摧毀他們的城堡。如果玩家選擇攻城武器，他們必須被保護免受敵方近戰單位的傷害。然後摧毀他們的市鎮中心（如果他們試圖重建，請確保它們石頭用完了，或者摧毀它們），玩家所要做的就是殺死剩下的敵方單位並摧毀剩餘的敵方<nuxt-link
+                  to="/building"
+                  >建築物</nuxt-link
+                >。
               </li>
               <li>
-                玩家會贏得這場戰役，但史實上並不是完全勝利（勝利後的遊戲解說有提到）。而是羅馬人和西哥特人的戰略性勝利。因為這場戰役阻止了匈奴征服羅馬高盧，並且使匈奴撤退。阿蘭斯被描述成維京人，但它們其實不是。
+                玩家會贏得這場戰役，但史實上並不是完全勝利（勝利後的遊戲解說有提到）。而是羅馬人和西哥特人的戰略性勝利。因為這場戰役阻止了<nuxt-link
+                  to="/civs/Huns"
+                  >匈奴</nuxt-link
+                >征服羅馬高盧，並且使匈奴撤退。阿蘭斯被描述成<nuxt-link
+                  to="/civs/Vikings"
+                  >維京人</nuxt-link
+                >，但它們其實不是。
               </li>
               <li>
                 奄蔡（上古漢語擬音：[ʔromʔ s.r̥ˁats]；英語：Alans，或
@@ -185,7 +260,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Huns">匈奴人</nuxt-link></td>
           </tr>
           <tr>
@@ -197,7 +272,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">征服者第一章之五</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第一章之五
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

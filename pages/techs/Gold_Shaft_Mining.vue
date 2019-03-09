@@ -8,9 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            礦井採金是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>礦井採金</b>是<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             ><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
-            >的科技，研發後可使村民收集金礦的速度增快15%。
+            >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >收集金礦的速度增快15%。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -75,8 +79,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >:科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>:科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -88,8 +95,10 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >:科技樹沒有礦井採金。
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>:<nuxt-link
+                to="/tree/vie"
+                >科技樹</nuxt-link
+              >沒有礦井採金。
             </li>
           </ul>
           <h3>
@@ -123,7 +132,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"當地表附近的黃金和白銀來源枯竭時，礦工們開發了深入地下的技術。這涉及到建設升降機以降低人員攜帶礦石量。礦坑需要幫浦把水拉起來並送入空氣。而且它需要新的隧道技術來支撐礦坑和豎井以防止塌陷。一些有豐富蘊藏量的銀礦在東歐被發現。"</em
+            >"當地表附近的<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >和白銀來源枯竭時，礦工們開發了深入地下的技術。這涉及到建設升降機以降低人員攜帶礦石量。礦坑需要幫浦把水拉起來並送入空氣。而且它需要新的隧道技術來支撐礦坑和豎井以防止塌陷。一些有豐富蘊藏量的銀礦在東歐被發現。"</em
           >
         </div>
       </div>
@@ -149,7 +159,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>
@@ -191,7 +201,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>

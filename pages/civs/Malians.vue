@@ -3,48 +3,97 @@
     <div class="row padtop">
       <div class="col-md-12">
         <h1>馬利</h1>
-        ss
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬利或稱馬里，是資料片<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >新增的文明，他位於西非，主要是以馬利帝國為範本（Manden
-            Kurufaba）。歷史上，馬利以強調教育而聞名，他是當時世界上最大的教育中心之一，許多來自中國、中東與歐洲的學者在此研究學問。為了顯示這一特點，他們的團隊加分就是
+            <b>馬利</b>或稱<b>馬里</b>，是資料片<nuxt-link to="/games/ak"
+              >非洲王國</nuxt-link
+            >新增的<nuxt-link to="/civs">文明</nuxt-link
+            >，他位於西非，主要是以馬利帝國為範本（Manden
+            Kurufaba）。歷史上，馬利以強調教育而聞名，他是當時世界上最大的教育中心之一，許多來自<nuxt-link
+              to="/civs/Chinese"
+              >中國</nuxt-link
+            >、中東與歐洲的學者在此研究學問。為了顯示這一特點，他們的<nuxt-link
+              to="/elements/Team_Bonus"
+              >團隊加分</nuxt-link
+            >就是
             <nuxt-link to="/building/University">學院</nuxt-link>研究快80%。
           </p>
           <p>
-            西非文化，非常重視婦女，當地的婦女甚至可以從軍。所以他們的特殊單位，飛刀女獵手，也是遊戲內唯一可以訓練的女性軍事單位。但在實際的歷史中，飛刀女獵手通常手拿的是步槍。雖然遊戲中她不拿步槍作為武器，但馬利人可以使用各種火藥單位。
+            西非文化，非常重視婦女，當地的婦女甚至可以從軍。所以他們的<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >，<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
+            >，也是遊戲內唯一可以訓練的女性軍事單位。但在實際的歷史中，飛刀女獵手通常手拿的是步槍。雖然遊戲中她不拿步槍作為武器，但馬利人可以使用各種<nuxt-link
+              to="/units/Gunpowder_Unit"
+              >火藥單位</nuxt-link
+            >。
           </p>
           <p>
-            馬利和松海帝國是非洲最富有的王國。這是因為他們可以有效的控制撒哈拉的貿易路線，從黃金與鹽礦的交易中獲得巨大的財富。在遊戲中為了顯示這一點，馬利人獲得免費的金礦升級技術。並且擁有所有的市場升級。
+            馬利和松海帝國是非洲最富有的王國。這是因為他們可以有效的控制撒哈拉的貿易路線，從<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >與鹽礦的交易中獲得巨大的財富。在遊戲中為了顯示這一點，馬利人獲得免費的金礦升級技術。並且擁有所有的市場升級。
           </p>
           <p>
-            西非和薩赫勒地區地區植被稀疏，缺乏樹木。所有這意味著馬利必須在缺乏木材的情況下，減少對木材的依賴，他們主要是利用黏土和泥磚。這在遊戲中代表了馬利人的建築成本減少木材15%，這種建築風格最著名的例子包括了科蘭尼克·桑科雷大學與傑內大清真寺。
+            西非和薩赫勒地區地區植被稀疏，缺乏樹木。所有這意味著馬利必須在缺乏<nuxt-link
+              to="/resource/Wood"
+              >木材</nuxt-link
+            >的情況下，減少對木材的依賴，他們主要是利用黏土和泥磚。這在遊戲中代表了馬利人的<nuxt-link
+              to="/building"
+              >建築</nuxt-link
+            >成本減少木材15%，這種建築風格最著名的例子包括了科蘭尼克·桑科雷大學與傑內大清真寺。
           </p>
           <p>
-            幾個世紀以來，馬匹在西非文化中扮演著重要的角色，馬利人以優秀的騎兵戰術而聞名，雖然馬利的騎兵裝備不如歐洲那麼精良，但藉著突出的領導和攻擊手段，使他們成為一支不可忽視的力量。這在遊戲中，讓馬利的騎兵單位可以藉著特殊科技驃悍精神，獲得額外的+5攻擊。使他們成為遊戲中最好的騎士之一。
+            幾個世紀以來，馬匹在西非文化中扮演著重要的角色，馬利人以優秀的騎兵戰術而聞名，雖然馬利的騎兵裝備不如歐洲那麼精良，但藉著突出的領導和攻擊手段，使他們成為一支不可忽視的力量。這在遊戲中，讓馬利的<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵單位</nuxt-link
+            >可以藉著<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            ><nuxt-link to="/techs/Farimba">驃悍精神</nuxt-link
+            >，獲得額外的+5攻擊。使他們成為遊戲中最好的<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >之一。
           </p>
           <p>
-            西非有許多步兵戰鬥力十分優秀，經常以優越的協調性贏得勝利。因此在遊戲中，他們的步兵單位從封建時代開始，每升級一個時代都可以獲得額外的遠程護甲。讓他們的遠程防禦媲美
+            西非有許多步兵戰鬥力十分優秀，經常以優越的協調性贏得勝利。因此在遊戲中，他們的<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >從<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >開始，每升級一個時代都可以獲得額外的<nuxt-link to="/armor"
+              >遠程護甲</nuxt-link
+            >。讓他們的<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+            >防禦媲美
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>與<nuxt-link
               to="/units/Huskarl"
               >哥德衛隊</nuxt-link
-            >，使得弓箭手對他們的攻擊無效。
+            >，使得<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+            >對他們的攻擊無效。
           </p>
         </div>
         <h3>概要</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            世界第一Viper曾經說過，馬利是單挑最強的文明，因為他有優秀的經濟加分與優秀的兵種可以使用，在前期可以有效的打擊對手，而且後期的科技相當齊全，有
-            <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-            >、遠防高達8的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+            世界第一Viper曾經說過，馬利是單挑最強的文明，因為他有優秀的經濟加分與優秀的兵種可以使用，在前期可以有效的打擊對手，而且後期的<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >相當齊全，有
+            <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>、<nuxt-link
+              to="/armor"
+              >遠防</nuxt-link
+            >高達8的<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
             >以及<nuxt-link to="/units/Siege_Onager"></nuxt-link
-            >重型投石車，還有全遊戲最強的騎兵、
+            ><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
+            >，還有全遊戲最強的騎兵、
             <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
-            >。但也缺乏一些重要科技，如護腕(帝王時代+1射程)與鼓風爐(近戰+2攻擊)，並且是遊戲中唯一有重型投石車卻沒有<nuxt-link
+            >。但也缺乏一些重要科技，如<nuxt-link to="/techs/Bracer"
+              >護腕</nuxt-link
+            >(<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >+1射程)與<nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
+            >(近戰+2攻擊)，並且是遊戲中唯一有重型投石車卻沒有<nuxt-link
               to="/techs/Siege_Engineers"
               >攻城工程師</nuxt-link
             >的文明，但無傷大雅，他仍是一個很有威脅性的文明。
@@ -61,7 +110,8 @@
             <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
               to="/techs/Tigui"
               >部落領袖</nuxt-link
-            >:城鎮中心無須駐紮即可放箭。
+            >:<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+            >無須駐紮即可放箭。
           </p>
           <p>
             <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
@@ -74,10 +124,21 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>建築成本-15%(農田例外)</li>
-            <li>軍營單位從封建時代開始，每個時代遠防+1</li>
-            <li>採金技術免費升級</li>
-            <li><strong>團隊加分</strong>:學院科技研發快80%</li>
+            <li>
+              建築成本-15%(<nuxt-link to="/building/Farm">農田</nuxt-link>例外)
+            </li>
+            <li>
+              <nuxt-link to="/building/Barracks">軍營</nuxt-link
+              >單位從封建時代開始，每個時代遠防+1
+            </li>
+            <li>
+              <nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link>免費升級
+            </li>
+            <li>
+              <strong>團隊加分</strong>:<nuxt-link to="/building/University"
+                >學院</nuxt-link
+              >科技研發快80%
+            </li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -90,12 +151,21 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>衣索比亞和馬利人共用的非洲風格原形是蘇丹薩赫勒建築。</li>
             <li>
-              馬利的世界奇觀也是不合時宜的，傑內大清真寺雖然確實是是13世紀馬利的建築，但是現在的清真寺其實是1907年重建的，真正的古清真寺可能不是這個模樣。原始的傑內大清真寺出自於埃及建築師之手，所以可能和中世紀埃及的清真寺相似。
+              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >和馬利人共用的非洲風格原形是蘇丹薩赫勒建築。
+            </li>
+            <li>
+              馬利的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >也是不合時宜的，傑內大清真寺雖然確實是是13世紀馬利的建築，但是現在的清真寺其實是1907年重建的，真正的古清真寺可能不是這個模樣。原始的傑內大清真寺出自於埃及建築師之手，所以可能和中世紀埃及的清真寺相似。
             </li>
             <li>馬利是唯一一個缺乏鼓風爐和護腕的文明。</li>
-            <li>馬利是唯一一個有重型投石車但沒有攻城工程師的文明。</li>
+            <li>
+              馬利是唯一一個有重型投石車但沒有<nuxt-link
+                to="/techs/Siege_Engineers"
+                >攻城工程師</nuxt-link
+              >的文明。
+            </li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -128,7 +198,14 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/MansaMusa.jpg" width="300" alt="" />
-                <p><em>一幅1375年地圖描繪舉著黃金的曼薩·穆薩</em></p>
+                <p>
+                  <em
+                    >一幅1375年地圖描繪舉著黃金的<nuxt-link
+                      to="/units/hero/Musa_ibn_Nusayr"
+                      >曼薩·穆薩</nuxt-link
+                    ></em
+                  >
+                </p>
               </div>
             </td>
           </tr>
@@ -143,7 +220,9 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">步兵文明</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵文明</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊單位</td>
@@ -156,7 +235,9 @@
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">裝甲開局</td>
+            <td class="unit4">
+              <nuxt-link to="/ar/armstar">裝甲開局</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>

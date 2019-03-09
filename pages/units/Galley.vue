@@ -8,9 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            戰船在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            <b>戰船</b>在<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             >的時候可以從<nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >中被訓練。戰船是小型快速船艦，主要用於偵查和攻擊其他弱小單位（漁船）。
+            >中被訓練。戰船是小型快速<nuxt-link to="/units/Naval_Vessels"
+              >船艦</nuxt-link
+            >，主要用於偵查和攻擊其他弱小單位（<nuxt-link
+              to="/units/Fishing_Ship"
+              >漁船</nuxt-link
+            >）。
           </p>
         </div>
         <h3>戰術</h3>
@@ -21,7 +27,14 @@
           </p>
           <br />
           <p>
-            戰船在封建時代也是運輸船護航的主力，能夠提供防守、分散式火力。但他們最主要還是拿來保護己方漁船、攻擊敵方漁船。生產戰船也並非是沒用的，當你升級科技之後，它就會晉升到更強大的弩砲戰船
+            戰船在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            >也是<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >護航的主力，能夠提供防守、分散式火力。但他們最主要還是拿來保護己方漁船、攻擊敵方漁船。生產戰船也並非是沒用的，當你升級<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >之後，它就會晉升到更強大的<nuxt-link to="/units/War_Galley"
+              >弩砲戰船</nuxt-link
+            >
           </p>
         </div>
         <h3>更多數據</h3>
@@ -38,14 +51,17 @@
             <td class="tta4">
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >、<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-              >、在岸邊的建築物和近戰單位。
+              >、在岸邊的<nuxt-link to="/building">建築物</nuxt-link
+              >和近戰單位。
             </td>
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
             <td class="tta4">
-              <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-              >、箭塔、<nuxt-link to="/building/Castle">城堡</nuxt-link
+              <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>、<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >、<nuxt-link to="/building/Castle">城堡</nuxt-link
               >、在岸邊的範圍單位。
             </td>
           </tr>
@@ -55,7 +71,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -152,7 +170,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -541,12 +561,18 @@
               >便宜50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：在視野內的動物不會被轉化
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >內的動物不會被轉化
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於戰船科技在封建/城堡/帝王便宜10%/15%/20％
+              >：有利於戰船科技在<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >便宜10%/15%/20％
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -559,23 +585,32 @@
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：戰船訓練的速度在封建/城堡/帝王提高10%/15%/20%，<nuxt-link
-                to="/techs/Careening"
+              >：戰船訓練的速度在<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >提高10%/15%/20%，<nuxt-link to="/techs/Careening"
                 >傾側維修術</nuxt-link
               >和弩砲戰船的研究速度在城堡/帝王提高15%/20％。研究
               <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>的速度快20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：戰船訓練減少15%黃金成本，戰船+10％HP。
+              >：戰船訓練減少15%<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本，戰船+10％HP。
             </li>
             <li>
-              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：戰船攻擊速度提高25%。
+              <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>：戰船<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >提高25%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：在兵工廠升級有利於船隻的科技不消耗黃金。
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：在<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級有利於<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+              >的科技不消耗黃金。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -585,7 +620,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：戰船在封建/城堡/帝王時代便宜15%/15%/20%。
+              >：戰船在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >便宜15%/15%/20%。
             </li>
           </ul>
         </div>
@@ -620,7 +658,7 @@
             <li>戰船訓練時間為36秒。</li>
             <li>
               <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
-              >減少20%船隻木材成本。
+              >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:戰船成本便宜20%。
@@ -643,7 +681,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：戰船在封建/城堡/帝王時代便宜10%/15%/20%
+              >：戰船在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜10%/15%/20%
             </li>
           </ul>
           <h3>
@@ -652,7 +692,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：戰船現在在封建/城堡/帝王時代便宜15%/15%/20%
+              >：戰船現在在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜15%/15%/20%
             </li>
           </ul>
         </div>
@@ -667,7 +709,10 @@
             </li>
             <li>
               在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-              >資料片之前戰船是封建時代唯一的海軍戰艦。
+              >資料片之前戰船是封建時代唯一的<nuxt-link
+                to="/units/Naval_Vessels"
+                >海軍</nuxt-link
+              >戰艦。
             </li>
             <li>
               戰船會對作弊單位中的<nuxt-link to="/units/hero/Saboteur"
@@ -682,7 +727,12 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"在黑暗時代，大部分戰艦在歐洲消失了，因為除了拜占庭人之外沒有其他文明擁有維持任何海軍所需的財富和組織。幾個世紀過後，幾艘小型戰艦再次出現在西地中海。
+              >"在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+              >，大部分戰艦在歐洲消失了，因為除了<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭人</nuxt-link
+              >之外沒有其他<nuxt-link to="/civs">文明</nuxt-link
+              >擁有維持任何海軍所需的財富和組織。幾個世紀過後，幾艘小型戰艦再次出現在西地中海。
               這些主要是用於偵察和追捕騷擾海上貿易的海盜的槳式機動船。西方最好的軍艦是由拜占庭人建造和維護的，造船自古以來一直是拜占庭人他們的傳統。“"</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
@@ -762,7 +812,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">120</td>
           </tr>
           <tr>
@@ -782,11 +834,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">3.05秒/次</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -802,15 +858,15 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
             </td>
@@ -844,7 +900,7 @@
                 class="gg"
                 src="~assets/War-galley-research.jpg"
                 alt=""
-              />230食物100黃金
+              />230<nuxt-link to="/resource/Food">食物</nuxt-link>100黃金
             </td>
           </tr>
           <tr>
@@ -876,7 +932,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/GalleyHD.png" alt=""
               /></gallery>
-              <p><em>各種戰船(世紀帝國和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >各種戰船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
             <div class="row">
               <div class="col-md-4">

@@ -10,7 +10,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            這張地圖可以被視為阿拉伯的非洲版本，資源也比大多數地圖都要少。這張圖易攻難守，敵人隨時會從各方攻來，營地外面的黃金和石頭是敵人快攻的目首要標。盡早封鎖敵方資源能使敵人陷入困境，或者提早結束遊戲。當地的野生動物包括斑馬，鴕鳥，大象和獅子。此外，還有山羊可以放牧。
+            這張地圖可以被視為<nuxt-link to="/maps/Arabia">阿拉伯</nuxt-link
+            >的非洲版本，資源也比大多數地圖都要少。這張圖易攻難守，敵人隨時會從各方攻來，營地外面的<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >和<nuxt-link to="/resource/Stone">石頭</nuxt-link
+            >是敵人快攻的目首要標。盡早封鎖敵方資源能使敵人陷入困境，或者提早結束遊戲。當地的野生動物包括<nuxt-link
+              to="/units/animal/Zebra"
+              >斑馬</nuxt-link
+            >，<nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link
+            >，大象和<nuxt-link to="/units/animal/Lion">獅子</nuxt-link
+            >。此外，還有<nuxt-link to="/units/animal/Goat">山羊</nuxt-link
+            >可以放牧。
           </p>
         </div>
         <div class="row">

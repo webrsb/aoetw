@@ -8,14 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            運輸船可以在<nuxt-link to="/building/Dock">碼頭</nuxt-link
+            <b>運輸船</b>可以在<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >中訓練。它可以運送任何單位，但也不能攻擊其他單位。運輸船使陸地單位可以在水面上移動，對於進行偷襲非常有效。
-            <br />它血量偏低，但它擁有較高的遠程防禦。但如果它沉沒了，你所有的駐軍都會死亡。因此，最好用<nuxt-link
-              to="/units/Galley"
-              >戰船</nuxt-link
+            <br />它<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >偏低，但它擁有較高的<nuxt-link to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >防禦。但如果它沉沒了，你所有的<nuxt-link to="/Garrison"
+              >駐軍</nuxt-link
+            >都會死亡。因此，最好用<nuxt-link to="/units/Galley">戰船</nuxt-link
             >或者是
-            <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-            >等軍用船隻來保護運輸工具。
+            <nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>等軍用<nuxt-link
+              to="/units/Naval_Vessels"
+              >船隻</nuxt-link
+            >來保護運輸工具。
           </p>
           <p>
             一開始運輸船的載運量只有5，研發<nuxt-link to="/techs/Careening"
@@ -37,12 +42,17 @@
             運輸船在大型水域地圖中是不可或缺的，因為沒有其他方法可以讓陸上單位在島嶼間通行。
           </p>
           <p>
-            如果裝有駐軍的運輸船被招降，其中的駐軍並不會被招降，玩家必須要摧毀運輸船才可以殺死敵方單位。另一個涉及運輸船的策略是利用這個戰術，把敵人的駐軍留在裡面，因為敵人無法使用，所以導致敵人會卡人口並無人可用。
+            如果裝有駐軍的運輸船被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >，其中的駐軍並不會被招降，玩家必須要摧毀運輸船才可以殺死敵方單位。另一個涉及運輸船的策略是利用這個戰術，把敵人的駐軍留在裡面，因為敵人無法使用，所以導致敵人會卡人口並無人可用。
           </p>
           <p>
             值得一提的是，搬有 <nuxt-link to="/Relic">遺跡</nuxt-link>的
             <nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >要是在運輸船中，而船被摧毀時，遺跡則會回到原本僧侶上船的地方。
+            >要是在運輸船中，而船被摧毀時，<nuxt-link to="/Relic"
+              >遺跡</nuxt-link
+            >則會回到原本<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >上船的地方。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -433,7 +443,9 @@
             </div>
           </div>
         </div>
-        以下技術可讓以下單位對運輸船有額外攻擊力
+        以下技術可讓以下單位對運輸船有額外<nuxt-link to="/elements/Attack"
+          >攻擊力</nuxt-link
+        >
         <div class="n1">
           <div class="row">
             <div class="col-md-4">
@@ -513,12 +525,17 @@
               >便宜50％。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：在視野內的動物不會被轉化
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：在<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >內的動物不會被轉化
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於運輸船的科技在城堡/帝王 便宜 15/20％
+              >：有利於運輸船的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link>便宜
+              15/20％
             </li>
             <li>
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>：研究<nuxt-link
@@ -531,8 +548,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link
-              >：運輸船訓練的速度在封建/城堡/帝王提高10%/15%/20%，<nuxt-link
-                to="/techs/Careening"
+              >：運輸船訓練的速度在<nuxt-link to="/techs/age/Feudal_Age"
+                >封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >提高10%/15%/20%，<nuxt-link to="/techs/Careening"
                 >傾側維修術</nuxt-link
               >的研究速度在城堡/帝王提高15%/20％。研究
               <nuxt-link to="/techs/Dry_Dock">旱碼頭</nuxt-link>的時間快20％。
@@ -546,8 +566,13 @@
               >：運輸船HP+100%和+5運輸量
             </li>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：運輸船在黑暗/封建/城堡/帝王時代便宜10%/10%/15%/20%
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>：運輸船在<nuxt-link
+                to="/techs/age/Dark_Age"
+                >黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >便宜10%/10%/15%/20%
             </li>
           </ul>
         </div>
@@ -574,7 +599,7 @@
             </li>
             <li>
               <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link
-              >減少20%船隻木材成本。
+              >減少20%船隻<nuxt-link to="/resource/Wood">木材</nuxt-link>成本。
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:運輸船成本便宜20%。
@@ -599,8 +624,12 @@
               >就可以訓練。
             </li>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：運輸船在黑暗/封建/城堡/帝王時代便宜10%/10%/15%/20%
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>：運輸船在<nuxt-link
+                to="/techs/age/Dark_Age"
+                >黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代便宜10%/10%/15%/20%
             </li>
           </ul>
           <h3>
@@ -627,7 +656,18 @@
         <div class="n1">
           <div class="ien">
             <p>
-              當軍隊要渡海時，所有類型的貿易船都會被徵用。這些船通常被改裝成運輸工具，以更好地運送部隊，馬匹，牲畜，攻城武器和物資。英格蘭在中世紀曾多次遭到侵略，其中包括早期的薩克森人/黃麻人入侵，挪威入侵（丹麥人暫時統治了英格蘭的大部分地區），以及後來西元1066的諾曼人入侵.諾曼人還入侵過西西里島和意大利南部。許多十字軍東征涉及從法國到聖地的海上運輸。百年戰爭期間，英國人也曾用運輸船多次帶兵進入法國。
+              當軍隊要渡海時，所有類型的貿易船都會被徵用。這些船通常被改裝成運輸工具，以更好地運送部隊，馬匹，牲畜，<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >和物資。英格蘭在中世紀曾多次遭到侵略，其中包括早期的薩克森人/黃麻人入侵，<nuxt-link
+                to="/civs/Vikings"
+                >挪威</nuxt-link
+              >入侵（丹麥人暫時統治了英格蘭的大部分地區），以及後來西元1066的諾曼人入侵.諾曼人還入侵過西西里島和意大利南部。許多十字軍東征涉及從<nuxt-link
+                to="/civs/Franks"
+                >法國</nuxt-link
+              >到聖地的海上運輸。百年戰爭期間，<nuxt-link to="/civs/Britons"
+                >英國</nuxt-link
+              >人也曾用運輸船多次帶兵進入法國。
             </p>
           </div>
         </div>
@@ -658,7 +698,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -703,15 +743,15 @@
             <td class="unit4">100</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">8</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>
             </td>
@@ -747,7 +787,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/TransportShipHD.jpg" alt=""
               /></gallery>
-              <p><em>各種運輸船(世紀帝國和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >各種運輸船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
             <div class="col-md-4">
               <gallery

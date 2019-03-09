@@ -8,12 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            穆斯林學墊是<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>穆斯林學墊</b>是<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後僧侶如果死亡會返還33黃金。
+            >研發。研發後<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >如果死亡會返還33<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,9 +21,16 @@
         <div class="n1">
           <ul>
             <li>
-              薩拉森人有優異的僧侶和全滿的<nuxt-link to="/building/Monastery"
+              <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link
+              >有優異的僧侶和全滿的<nuxt-link to="/building/Monastery"
                 >修道院</nuxt-link
-              >。因此很常使用僧侶作進攻。僧侶無論在快攻或在後方支援部隊時常會成為敵人的首要目標，所以若進攻不成常會對經濟有很大影響。然而薩拉森研發穆斯林學墊後仍可取回部分用於創造僧侶的黃金，在經濟上可謂不無小補。但還是盡量讓僧侶保持在安全的位置招降敵人和支援部隊才是上上之策。
+              >。因此很常使用僧侶作進攻。僧侶無論在快攻或在後方支援部隊時常會成為敵人的首要目標，所以若進攻不成常會對經濟有很大影響。然而<nuxt-link
+                to="/civs/Saracens"
+                >薩拉森</nuxt-link
+              >研發穆斯林學墊後仍可取回部分用於創造僧侶的黃金，在經濟上可謂不無小補。但還是盡量讓僧侶保持在安全的位置<nuxt-link
+                to="/elements/Conversion"
+                >招降</nuxt-link
+              >敵人和支援部隊才是上上之策。
             </li>
           </ul>
         </div>
@@ -44,7 +51,9 @@
         <div class="n1">
           <p>
             Madrasah的意思是阿拉伯語中的“學校”，寫成“مدرسة”。
-            在就學之前，阿拉伯人會在清真寺和修道院學習關伊斯蘭教以及阿拉伯語的知識。儘管升級頭銜與目的之間缺乏聯繫，但也可以解釋為升級成為伊瑪姆的僧侶可以扮演老師的角色。
+            在就學之前，阿拉伯人會在清真寺和<nuxt-link to="/building/Monastery"
+              >修道院</nuxt-link
+            >學習關伊斯蘭教以及阿拉伯語的知識。儘管升級頭銜與目的之間缺乏聯繫，但也可以解釋為升級成為伊瑪姆的僧侶可以扮演老師的角色。
           </p>
         </div>
       </div>
@@ -72,7 +81,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link>
             </td>
@@ -106,7 +115,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>

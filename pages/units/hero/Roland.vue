@@ -15,12 +15,17 @@
             >
             <nuxt-link to="/units/hero">英雄</nuxt-link>，他的原型是<a
               href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E6%9B%BC"
-              >查理曼大帝</a
+              ><nuxt-link to="/units/hero/Charlemagne">查理曼大帝</nuxt-link></a
             >麾下的一名 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>將領。
           </p>
           <p>
             遊戲中的他是一名<nuxt-link to="/units/Knight">騎士</nuxt-link
-            >，會受到所有影響騎兵的升級及加成影響。由於他是一名英雄，因此不會被招降且會自動回血。
+            >，會受到所有影響<nuxt-link to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >的升級及加成影響。由於他是一名<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
+            >，因此不會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>
@@ -54,7 +59,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -62,7 +69,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
@@ -71,20 +80,22 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
             </td>
@@ -94,7 +105,7 @@
             <td class="unit4">1.3</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

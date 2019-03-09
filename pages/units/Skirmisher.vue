@@ -8,17 +8,28 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            矛兵（HD稱為戰矛兵，升級後叫做精銳戰矛兵，在HD以前玩家習慣講矛兵，升級為戰矛兵。）封建時代於
+            <b>矛兵</b>（HD稱為<nuxt-link to="/units/Elite_Skirmisher"
+              >戰矛兵</nuxt-link
+            >，升級後叫做<nuxt-link to="/units/Elite_Skirmisher"
+              >精銳戰矛兵</nuxt-link
+            >，在HD以前玩家習慣講矛兵，升級為戰矛兵。）<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >於
             <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-            >訓練，能有效對付弓兵。
+            >訓練，能有效對付<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            除了對付弓箭手外，矛兵顯得非常虛弱，他們攻擊、射速都低還有最小射程，對<nuxt-link
-              to="/units/Infantry_Units"
+            除了對付<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+            >外，矛兵顯得非常虛弱，他們攻擊、<nuxt-link
+              to="/elements/Rate_of_Fire"
+              >射速</nuxt-link
+            >都低還有最小射程，對<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >及
             <nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
@@ -27,14 +38,19 @@
             >。
           </p>
           <p>
-            由於矛兵生產不用黃金，所以是一個<nuxt-link to="/Trash_Unit.php"
-              >垃圾兵單位</nuxt-link
+            由於矛兵生產不用<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >，所以是一個<nuxt-link to="/Trash_Unit.php">垃圾兵單位</nuxt-link
             >，在缺少<nuxt-link to="/resource/Gold">黃金</nuxt-link
-            >時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。在阿拉伯單挑時矛兵甚至比弓兵還來的好用。
+            >時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。在<nuxt-link
+              to="/maps/Arabia"
+              >阿拉伯</nuxt-link
+            >單挑時矛兵甚至比弓兵還來的好用。
           </p>
           <p>
             矛兵對<nuxt-link to="/armor/Armor_Class_Spearman">槍兵</nuxt-link
-            >有額外的傷害，雙方數量少時，槍兵將獲勝，但數量一多起來，矛兵將克制槍兵。
+            >有額外的傷害，雙方數量少時，<nuxt-link to="/units/Spearman"
+              >槍兵</nuxt-link
+            >將獲勝，但數量一多起來，矛兵將克制槍兵。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -66,7 +82,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -146,9 +164,8 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link
-              >:矛兵和投石手取消最小射程，<nuxt-link to="/civs/Incas"
-                >印加</nuxt-link
-              >限定
+              >:矛兵和<nuxt-link to="/units/Slinger">投石手</nuxt-link
+              >取消最小射程，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定
             </td>
           </tr>
           <tr>
@@ -197,7 +214,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -229,7 +248,9 @@
         <h3>剋射手系的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對射手系的額外傷害，按造傷殺力排列。
+          以下單位擁有對<nuxt-link to="/armor/Armor_Class_Archer"
+            >射手</nuxt-link
+          >系的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -355,7 +376,9 @@
             </div>
           </div>
         </div>
-        團隊加分:<nuxt-link to="/civs/Persians">波斯</nuxt-link
+        <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>:<nuxt-link
+          to="/civs/Persians"
+          >波斯</nuxt-link
         >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
           to="/units/Archer_Units"
           >射手單位</nuxt-link
@@ -389,11 +412,16 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對矛兵有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：對矛兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜10%/15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠升級科技免黃金
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級科技免黃金
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：<nuxt-link
@@ -403,8 +431,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：在封建/城堡/帝王時代的血量增加10%/15%/20%。免費<nuxt-link
-                to="/techs/Conscription"
+              >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              >增加10%/15%/20%。免費<nuxt-link to="/techs/Conscription"
                 >徵兵制度</nuxt-link
               >。
             </li>
@@ -428,7 +457,10 @@
               >速度快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵視野+2。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：矛兵<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -479,7 +511,10 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>搬移到城堡時代。
+              <nuxt-link to="/techs/Yeomen">義勇騎兵</nuxt-link>搬移到<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >。
             </li>
           </ul>
           <h3>
@@ -515,7 +550,9 @@
               >相同。
             </li>
             <li>
-              血量30，與飛刀女獵手、爪刀勇士和弓兵相同，是遊戲中最少血量的單位。
+              血量30，與<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
+              >、<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+              >和弓兵相同，是遊戲中最少血量的單位。
             </li>
           </ul>
         </div>
@@ -546,7 +583,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -603,7 +640,9 @@
             <td class="unit3">
               <nuxt-link to="/elements/Attack">攻擊</nuxt-link>
             </td>
-            <td class="unit4">2(遠程)</td>
+            <td class="unit4">
+              2(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>

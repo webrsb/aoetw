@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            跟金剛鸚鵡一樣，老鷹純粹是一個裝飾用的小鳥，在地圖上面飛來飛去，完全不影響遊戲。
+            跟<nuxt-link to="/units/animal/Macaw">金剛鸚鵡</nuxt-link
+            >一樣，老鷹純粹是一個裝飾用的小鳥，在地圖上面飛來飛去，完全不影響遊戲。
           </p>
         </div>
       </div>

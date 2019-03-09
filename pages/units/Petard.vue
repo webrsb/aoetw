@@ -7,11 +7,15 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          爆炸桶是<nuxt-link to="/units/Siege_Weapons">攻城武器單位</nuxt-link
+          <b>爆炸桶</b>是<nuxt-link to="/units/Siege_Weapons"
+            >攻城武器單位</nuxt-link
           >，可以在<nuxt-link to="/building/Castle">城堡</nuxt-link
-          >訓練，他比大多數的攻城武器都還要快，對目標進行自殺性攻擊，將對
+          >訓練，他比大多數的<nuxt-link to="/units/Siege_Weapons"
+            >攻城武器</nuxt-link
+          >都還要快，對目標進行自殺性攻擊，對
           <nuxt-link to="/building/Stone_Wall">牆</nuxt-link
-          >與建築物及攻城武器造成毀滅性的傷害，是遊戲內少數的自殺單位。
+          ><nuxt-link to="/building">建築物</nuxt-link
+          >及攻城武器造成毀滅性的傷害，是遊戲內少數的自殺單位。
         </div>
         <h3>介紹影片</h3>
         <div class="hrn1"></div>
@@ -39,25 +43,43 @@
             爆炸桶是一個偷襲很好用的武器，他可以迅速的破壞<nuxt-link
               to="/building/Stone_Wall"
               >石牆</nuxt-link
-            >，只要兩個爆炸桶便可以摧毀一塊石牆，並且神不知鬼不覺，讓對方無法反應。
+            >，只要兩個爆炸桶便可以摧毀一塊<nuxt-link to="/building/Stone_Wall"
+              >石牆</nuxt-link
+            >，並且神不知鬼不覺，讓對方無法反應。
           </p>
-          <p>而對城堡進行攻擊時，最好使用交錯隊形，這樣比較不會被城堡射倒。</p>
+          <p>
+            而對<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >進行攻擊時，最好使用交錯隊形，這樣比較不會被城堡射倒。
+          </p>
           <p>
             爆炸桶外觀與只能再地圖編輯器中找到的<nuxt-link
               to="/units/hero/Saboteur"
               >破壞者</nuxt-link
-            >相同，只是破壞者強太多，且速度更快，攻擊更高，也有擴散效果。而
+            >相同，只是<nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link
+            >強太多，且速度更快，攻擊更高，也有<nuxt-link
+              to="/elements/Area_of_Effect"
+              >擴散效果</nuxt-link
+            >。而
             <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
-            >則是價格較高，但攻擊範圍更大、速度更快。事實上，神風船是遊戲中最快的單位。
+            >則是價格較高，但攻擊範圍更大、速度更快。事實上，<nuxt-link
+              to="/units/Demolition_Ship"
+              >神風船</nuxt-link
+            >是遊戲中最快的單位。
           </p>
         </div>
         <h3>摧毀建築所需的數量</h3>
         <div class="hrn1"></div>
         <div class="col-md-6">
           <div class="n1 bonuses">
-            <strong>沒有研究攻城工程師</strong>
+            <strong
+              >沒有研究<nuxt-link to="/techs/Siege_Engineers"
+                >攻城工程師</nuxt-link
+              ></strong
+            >
             <ul>
-              括號內為研發磚瓦技術與建築學後
+              括號內為研發<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
+              >與<nuxt-link to="/techs/Architecture">建築學</nuxt-link
+              >後
               <li>
                 <nuxt-link to="/building/Town_Center"
                   ><img
@@ -215,7 +237,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -228,7 +252,9 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -266,14 +292,19 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對爆炸桶有利的科技在帝王時代便宜20%。
+              >：對爆炸桶有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：花費黃金成本少15%。
+              >：花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>成本少15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：徵兵制度免費。
+              <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
+              >免費。
             </li>
           </ul>
         </div>
@@ -317,7 +348,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            中世紀火藥的主要用途是作為火器和大砲的推進劑，但最終也被用作炸藥。爆炸桶可以用來破壞城堡門和其他障礙物。“petard”這個詞來源於法國的一個詞，意思是破風。在非常危險的情況下，一個裝甲人員會將爆炸桶送到攻擊點並點燃導火線。如果保險絲發生故障或電荷由於某種原因提前關閉，那麼這個爆炸桶就會沒法發揮作用，俗話說就是:“被他自己的屁股吊起來”，這是今天當計劃或操作發生故障時仍然會使用的一句話。
+            中世紀火藥的主要用途是作為火器和大砲的推進劑，但最終也被用作炸藥。爆炸桶可以用來破壞城堡門和其他障礙物。“petard”這個詞來源於<nuxt-link
+              to="/civs/Franks"
+              >法國</nuxt-link
+            >的一個詞，意思是破風。在非常危險的情況下，一個裝甲人員會將爆炸桶送到攻擊點並點燃導火線。如果保險絲發生故障或電荷由於某種原因提前關閉，那麼這個爆炸桶就會沒法發揮作用，俗話說就是:“被他自己的屁股吊起來”，這是今天當計劃或操作發生故障時仍然會使用的一句話。
           </p>
         </div>
       </div>
@@ -349,7 +383,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -435,11 +469,11 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>

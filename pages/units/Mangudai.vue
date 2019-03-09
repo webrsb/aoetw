@@ -8,11 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            蒙古突騎是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-            >的特殊單位。對攻城器有加成傷害的馬弓騎兵單位。蒙古突騎能夠在<nuxt-link
-              to="/techs/age/Imperial_Age"
+            <b>蒙古突騎</b>是<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >。對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+            >有加成傷害的<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >單位。蒙古突騎能夠在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級成精銳蒙古突騎。
+            >升級成<nuxt-link to="/units/Mangudai">精銳蒙古突騎</nuxt-link>。
           </p>
         </div>
         <h3>戰術</h3>
@@ -23,13 +26,17 @@
             >、<nuxt-link to="/units/Villager">村民</nuxt-link>與<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link
-            >等移動緩慢的單位，也能夠用於突襲徒步弓兵。此外對
+            >等移動緩慢的單位，也能夠用於突襲徒步<nuxt-link
+              to="/units/Archer_Units"
+              >弓兵</nuxt-link
+            >。此外對
             <nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
             >加成讓蒙古突騎能以中距離射程殲滅<nuxt-link
               to="/units/Battering_Ram"
               >衝撞車</nuxt-link
             >，使得<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >更難接近防禦工事。雖然蒙古突騎擁有對
+            >更難接<nuxt-link to="/armor">近防</nuxt-link
+            >禦工事。雖然蒙古突騎擁有對
             <nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
             >加成，但蒙古突騎仍然不適合與<nuxt-link to="/units/Mangonel"
               >投石車</nuxt-link
@@ -51,26 +58,37 @@
         <div class="n1">
           <ul>
             <li>
-              全面升級後，防禦、射程和血量都一樣。但在城堡時代，馬弓騎兵的血量少10。
+              全面升級後，防禦、射程和<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >都一樣。但在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >，<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >的血量少10。
             </li>
             <li>
-              蒙古突騎開火間隔是5，馬弓騎兵是10，這表示蒙古突騎更可以使用拉打戰術。
+              蒙古突騎<nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link
+              >是5，馬弓騎兵是10，這表示蒙古突騎更可以使用拉打戰術。
             </li>
             <li>
-              蒙古突騎跑速和訓練速度更快（當然訓練速度實際上是射箭場生產的<nuxt-link
-                to="/units/Cavalry_Archer"
-                >馬弓騎兵</nuxt-link
+              蒙古突騎跑速和訓練速度更快（當然訓練速度實際上是<nuxt-link
+                to="/building/Archery_Range"
+                >射箭場</nuxt-link
+              >生產的<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >會更快）。
             </li>
             <li>
               <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >成本便宜15木材5黃金。
+              >成本便宜15<nuxt-link to="/resource/Wood">木材</nuxt-link
+              >5<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
             </li>
             <li>
-              總而言之，蒙古突騎速度快，更可以配合蒙古的另一主力兵種<nuxt-link
-                to="/units/Light_Cavalry"
+              總而言之，蒙古突騎速度快，更可以配合<nuxt-link to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >的另一主力兵種<nuxt-link to="/units/Light_Cavalry"
                 >輕騎兵</nuxt-link
-              >。此外蒙古突騎對攻城武器有加成，可以輕鬆射爆
+              >。此外蒙古突騎對<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                >攻城武器</nuxt-link
+              >有加成，可以輕鬆射爆
               <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
               >。盡可能的使用蒙古突騎才是上策。
             </li>
@@ -81,7 +99,10 @@
         <div class="n1">
           <ul>
             <li>
-              攻擊和射程都相同，但是蒙古突騎的射速快，所以蒙古突騎的傷害輸出較高，此外，因為<nuxt-link
+              攻擊和射程都相同，但是蒙古突騎的<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >射速</nuxt-link
+              >快，所以蒙古突騎的傷害輸出較高，此外，因為<nuxt-link
                 to="/techs/Parthian_Tactics"
                 >帕提亞戰術</nuxt-link
               >的關係，蒙古突騎有+2攻擊vs
@@ -89,8 +110,8 @@
             </li>
             <li>
               <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
-              >多5點生命值，且可以自動<nuxt-link to="/Regeneration"
-                >回血</nuxt-link
+              >多5點<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+              >，且可以自動<nuxt-link to="/Regeneration">回血</nuxt-link
               >，並且還有1的近防。
             </li>
             <li>
@@ -102,7 +123,10 @@
               >，所以<nuxt-link to="/units/Camel">駱駝</nuxt-link>和<nuxt-link
                 to="/units/Spearman"
                 >長槍兵</nuxt-link
-              >等反騎兵單位對他的傷害較小。此外還有+1（精銳+2）的騎兵防禦，所以傷害更小。
+              >等反騎兵單位對他的傷害較小。此外還有+1（精銳+2）的<nuxt-link
+                to="/armor/Armor_Class_Cavalry"
+                >騎兵防禦</nuxt-link
+              >，所以傷害更小。
             </li>
             <li>
               <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
@@ -115,7 +139,10 @@
               >。
             </li>
             <li>蒙古突騎跑的更快一點。</li>
-            <li>駱駝弓騎兵便宜5木與5金，升級精銳也比較便宜。</li>
+            <li>
+              <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
+              >便宜5木與5金，升級精銳也比較便宜。
+            </li>
             <li>
               蒙古突騎對攻城武器有加成，而<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
@@ -123,10 +150,13 @@
               >有加成。
             </li>
             <li>
-              總而言之，蒙古突騎攻擊速度更快，火力更強，但由於<nuxt-link
-                to="/units/Camel_Archer"
+              總而言之，蒙古突騎<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >更快，火力更強，但由於<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >的防禦較高，血量也多，還可以回血，所以更加的耐用。
+              >的防禦較高，血量也多，還可以<nuxt-link to="/Regeneration"
+                >回血</nuxt-link
+              >，所以更加的耐用。
             </li>
             <li>
               在一對一的戰鬥中，<nuxt-link to="/units/Camel_Archer"
@@ -193,7 +223,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -323,7 +355,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -414,9 +448,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -675,7 +709,8 @@
               </div>
             </div>
             <div class="col-md-12">
-              以下團隊加分可讓以下單位對蒙古突騎有額外攻擊力
+              以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+              >可讓以下單位對蒙古突騎有額外攻擊力
               <div class="n1">
                 <nuxt-link to="/civs/Persians">波斯</nuxt-link
                 >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -792,7 +827,10 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>蒙古突騎對攻城單位的攻擊加成減少為1。</li>
+            <li>
+              蒙古突騎對<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
+              >的攻擊加成減少為1。
+            </li>
             <li>
               蒙古突騎對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link
               >攻擊+3(精銳+5)。
@@ -805,7 +843,10 @@
           <ul>
             <li>4.8版後蒙古突騎現在的開火間隔為5。</li>
             <li>
-              4.8版後蒙古突騎重新得到一開始對攻城武器攻擊+3(精銳+5)的加成。對衝撞車的攻擊加成被移除。
+              4.8版後蒙古突騎重新得到一開始對攻城武器攻擊+3(精銳+5)的加成。對<nuxt-link
+                to="/armor/Armor_Class_Ram"
+                >衝撞車</nuxt-link
+              >的攻擊加成被移除。
             </li>
           </ul>
         </div>
@@ -821,8 +862,12 @@
         <div class="n1">
           <div class="ien">
             <em
-              >“蒙古人由成吉思汗統一，他們的領土曾經從太平洋到地中海甚至到中歐，蒙古人是優秀的騎兵，每個戰士都有馬廄眷養小馬，保持有源源不斷的坐騎可用。
-              蒙古軍隊的主力是馬弓騎兵，這些弓箭手中最好的，叫做蒙古突騎，即便處於劣勢他們也能用策略擊敗敵人。他們會使用陷阱來消耗敵人的騎兵，再把它們射程蜂窩，緩慢的敵人部隊更可以最低風險在一定範圍內就將其擊倒射殺。敵人的軍隊在疲憊不堪之際還是碰不到蒙古突騎一根寒毛。蒙古軍隊的主要弱點是只有偉大的領導人才能領導凝聚，他們，當偉大的可汗或者後來的領導人去世時，軍隊就會為了爭奪可汗分封崩離析。“</em
+              >“蒙古人由<nuxt-link to="/units/hero/Genghis_Khan"
+                >成吉思汗</nuxt-link
+              >統一，他們的領土曾經從太平洋到地中海甚至到中歐，蒙古人是優秀的騎兵，每個戰士都有馬廄眷養小馬，保持有源源不斷的坐騎可用。
+              蒙古軍隊的主力是馬弓騎兵，這些<nuxt-link to="/units/Archer"
+                >弓箭手</nuxt-link
+              >中最好的，叫做蒙古突騎，即便處於劣勢他們也能用策略擊敗敵人。他們會使用陷阱來消耗敵人的騎兵，再把它們射程蜂窩，緩慢的敵人部隊更可以最低風險在一定範圍內就將其擊倒射殺。敵人的軍隊在疲憊不堪之際還是碰不到蒙古突騎一根寒毛。蒙古軍隊的主要弱點是只有偉大的領導人才能領導凝聚，他們，當偉大的可汗或者後來的領導人去世時，軍隊就會為了爭奪可汗分封崩離析。“</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
@@ -855,7 +900,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
             </td>
@@ -913,7 +958,9 @@
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">6/8(精銳)(遠程)</td>
+            <td class="unit4">
+              6/8(精銳)(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -950,11 +997,11 @@
             <td class="unit4">0/1(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
@@ -972,7 +1019,7 @@
             <td class="unit4">1.45</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
           <tr>
@@ -998,7 +1045,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />1100食物675黃金
+              />1100<nuxt-link to="/resource/Food">食物</nuxt-link>675黃金
             </td>
           </tr>
           <tr>

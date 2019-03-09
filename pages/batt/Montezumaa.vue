@@ -16,8 +16,13 @@
             </p>
           </div>
           <p>
-            蒙特蘇馬是《世紀帝國 II HD:
-            征服者入侵》中的阿茲特克系列戰役，以特諾奇提特蘭的第9位統治者蒙特蘇馬二世命名。這場戰役描繪了庫奧赫特莫克在他叔叔統治下如何成為捷出的豹戰士，以及他對抗與特拉斯卡拉人結盟的西班牙征服者埃爾南·科爾特斯的故事。他的叔叔遇害後，庫奧赫特莫克接任成為了統治者。
+            <b>蒙特蘇馬</b>是《世紀帝國 II HD:
+            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            >》中的阿茲特克系列<nuxt-link to="/batt">戰役</nuxt-link
+            >，以特諾奇提特蘭的第9位統治者蒙特蘇馬二世命名。這場戰役描繪了<nuxt-link
+              to="/units/hero/Cuauhtemoc"
+              >庫奧赫特莫克</nuxt-link
+            >在他叔叔統治下如何成為捷出的豹戰士，以及他對抗與特拉斯卡拉人結盟的西班牙征服者埃爾南·科爾特斯的故事。他的叔叔遇害後，庫奧赫特莫克接任成為了統治者。
           </p>
           <p></p>
         </div>
@@ -27,17 +32,38 @@
           <div class="row">
             <div class="col-md-12">
               <p>
-                蒙特蘇馬戰役由6個關卡組成。玩家扮演的是阿茲特克人，顏色是綠色的。
+                蒙特蘇馬戰役由6個關卡組成。玩家扮演的是<nuxt-link
+                  to="/civs/Aztecs"
+                  >阿茲特克人</nuxt-link
+                >，顏色是綠色的。
               </p>
             </div>
             <div class="col-md-6">
               <ol>
-                <li>血親統治 &nbsp;&nbsp;</li>
-                <li>三國同盟&nbsp;&nbsp;</li>
-                <li>蛇鳥之神&nbsp;&nbsp;</li>
-                <li>悲傷之夜&nbsp;&nbsp;</li>
-                <li>沸騰的湖 &nbsp;&nbsp;</li>
-                <li>斷矛&nbsp;&nbsp;</li>
+                <li>
+                  <nuxt-link to="/batt/Reign_of_Blood">血親統治</nuxt-link>
+                  &nbsp;&nbsp;
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link
+                  >&nbsp;&nbsp;
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link
+                  >&nbsp;&nbsp;
+                </li>
+                <li>
+                  <nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link
+                  >&nbsp;&nbsp;
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link>
+                  &nbsp;&nbsp;
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link
+                  >&nbsp;&nbsp;
+                </li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -108,11 +134,15 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">阿茲特克</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">關卡</td>

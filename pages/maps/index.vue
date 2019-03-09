@@ -13,7 +13,7 @@
         <div class="hrn1"></div>
         <div class="row n1">
           <div class="col-md-2">
-            帝王世紀
+            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
             <ul>
               <li><nuxt-link to="/maps/Arabia">阿拉伯</nuxt-link></li>
               <li><nuxt-link to="/maps/Archipelago">群島</nuxt-link></li>
@@ -32,7 +32,7 @@
             </ul>
           </div>
           <div class="col-md-2">
-            征服者入侵
+            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
             <ul>
               <li><nuxt-link to="/maps/Arena">圍城</nuxt-link></li>
               <li><nuxt-link to="/maps/Ghost_Lake">鬼湖</nuxt-link></li>
@@ -61,7 +61,7 @@
             </ul>
           </div>
           <div class="col-md-2">
-            非洲王國
+            <nuxt-link to="/games/ak">非洲王國</nuxt-link>
             <ul>
               <li>
                 <nuxt-link to="/maps/Kilimanjaro">吉力馬札羅山</nuxt-link>
@@ -73,7 +73,7 @@
             </ul>
           </div>
           <div class="col-md-2">
-            王者崛起
+            <nuxt-link to="/games/aor">王者崛起</nuxt-link>
             <ul>
               <li><nuxt-link to="/maps/Bog_Islands">沼澤</nuxt-link></li>
               <li><nuxt-link to="/maps/Mangrove_Jungle">紅樹林</nuxt-link></li>

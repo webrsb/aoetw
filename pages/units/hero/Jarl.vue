@@ -9,11 +9,29 @@
         <div class="n1">
           <p>
             <strong>雅爾</strong>是《世紀帝國 II HD:
-            失落的帝國》中的一名騎兵英雄，他是以挪威或丹麥指揮官作為模板。他擁有韃靼騎兵的外觀，雖然手裡拿火把但攻擊方式卻類似擲斧兵是丟斧頭，雅爾受所有騎兵科技的加成影響。由於他屬於英雄單位，因此不能被招降且會回血
+            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >》中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
+            >，他是以<nuxt-link to="/civs/Vikings">挪威</nuxt-link
+            >或丹麥指揮官作為模板。他擁有<nuxt-link to="/units/Tarkan"
+              >韃靼騎兵</nuxt-link
+            >的外觀，雖然手裡拿火把但攻擊方式卻類似<nuxt-link
+              to="/units/Throwing_Axeman"
+              >擲斧兵</nuxt-link
+            >是丟斧頭，雅爾受所有<nuxt-link to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >的加成影響。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位，因此不能被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>
             。
           </p>
           <p>
-            雅爾著名場景是在戰役"約克（865）"中，作為登陸隊伍的一部分，玩家必須在異教徒軍隊抵達之前在不列顛群島上建立一個基地。雅爾應該用來打僧侶，因為他不能被招降，而且他的高攻擊可以快速殺死他們。
+            雅爾著名場景是在<nuxt-link to="/batt">戰役</nuxt-link
+            >"約克（865）"中，作為登陸隊伍的一部分，玩家必須在異教徒軍隊抵達之前在不列顛群島上建立一個基地。雅爾應該用來打<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >，因為他不能被招降，而且他的高攻擊可以快速殺死他們。
           </p>
         </div>
         <div></div>
@@ -43,12 +61,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -56,7 +77,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">140</td>
           </tr>
           <tr>
@@ -66,15 +89,25 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對建築+5 <br />對石頭建築+6 <br />對城堡+5 <br />對城牆城門+5
+              對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>+5
+              <br />對<nuxt-link to="/armor/Armor_Class_stone_defense"
+                >石頭建築</nuxt-link
+              >+6 <br />對<nuxt-link to="/armor/Armor_Class_Castle"
+                >城堡</nuxt-link
+              >+5 <br />對<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
+              ><nuxt-link to="/building/Gate">城門</nuxt-link>+5
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.13</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">8</td>
           </tr>
           <tr>
@@ -86,24 +119,29 @@
             <td class="unit4">100%</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">騎兵 <br />特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">速度</td>
             <td class="unit4">1.3</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
         </table>

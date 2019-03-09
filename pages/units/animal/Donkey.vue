@@ -8,7 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            驢子在《世紀帝國2HD：失落的帝國》中是一個玩家無法生產的單位，他只出現在地圖編輯器裡。驢子在遊戲裡被用來在市集間搬運黃金，功能就像貿易車隊一樣。但是跟貿易車隊相比，他們走得慢多了，但是他們能攜帶更多黃金，而且他們的速度可以透過研發大商隊來加速。
+            <b>驢子</b>在<nuxt-link to="/games/aof"
+              >《世紀帝國2HD：失落的帝國》</nuxt-link
+            >中是一個玩家無法生產的單位，他只出現在地圖編輯器裡。驢子在遊戲裡被用來在<nuxt-link
+              to="/building/Market"
+              >市集</nuxt-link
+            >間搬運<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >，功能就像<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
+            >一樣。但是跟貿易車隊相比，他們走得慢多了，但是他們能攜帶更多黃金，而且他們的速度可以透過研發<nuxt-link
+              to="/techs/Caravan"
+              >大商隊</nuxt-link
+            >來加速。
           </p>
         </div>
       </div>
@@ -38,15 +48,17 @@
             <td class="unit4">動物</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">70</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -58,7 +70,7 @@
             <td class="unit4">0.7</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

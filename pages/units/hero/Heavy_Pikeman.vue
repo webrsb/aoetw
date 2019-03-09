@@ -8,14 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            “
-            帝國時代II：被遺忘的時代”中一個步兵種類。强力重型長槍兵出現在幾個活動場景中，並可在場景編輯器中找到。
+            <nuxt-link to="/games/aof">世紀帝國II：失落的王朝</nuxt-link
+            >中一個<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >種類。<b>强力重型長槍兵</b>出現在幾個活動場景中，並可在場景編輯器中找到。
           </p>
         </div>
         <div class="n1">
           <h2>冷知識</h2>
           <p>
-            這個單位無法在標準游戲中生產，雖然名字聽起來很厲害，但實質上僅僅衹是普通的槍兵加了一些血量，并且在於駱駝對戰時，並不如普通槍兵。
+            這個單位無法在標準游戲中生產，雖然名字聽起來很厲害，但實質上僅僅衹是普通的<nuxt-link
+              to="/units/Spearman"
+              >槍兵</nuxt-link
+            >加了一些<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >，並且在於<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >對戰時，並不如普通槍兵。
           </p>
         </div>
       </div>
@@ -24,7 +30,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                强力重裝長槍兵
+                强力<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </div>
             </td>
           </tr>
@@ -42,7 +48,9 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵<br /></td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
@@ -64,7 +72,15 @@
           <tr>
             <td class="unit3">攻擊獎勵</td>
             <td class="unit4">
-              對戰象攻擊時+25，對騎兵單位攻擊時+22，對駱駝單位攻擊時+16，對船舶攻擊時+16，對應戰士作戰時+1，對建築物攻擊時+1
+              對<nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link
+              >攻擊時+25，對<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
+              >攻擊時+22，對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝單位</nuxt-link
+              >攻擊時+16，對船舶攻擊時+16，對應戰士作戰時+1，對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊時+1
             </td>
           </tr>
           <tr>
@@ -72,23 +88,25 @@
             <td class="unit4">3.05</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

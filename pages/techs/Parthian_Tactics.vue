@@ -8,12 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            帕提亞戰術(舊稱安息人戰術)在<nuxt-link to="/techs/age/Imperial_Age"
+            <b>帕提亞戰術</b>(舊稱<b>安息人戰術</b>)在<nuxt-link
+              to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >於<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >研發，他給予了
             <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >類近防+1/遠防+2，額外+2或+4攻擊對<nuxt-link to="/units/Spearman"
+            >類<nuxt-link to="/armor">近防</nuxt-link>+1/<nuxt-link to="/armor"
+              >遠防</nuxt-link
+            >+2，額外+2或+4攻擊對<nuxt-link to="/units/Spearman"
               >長槍兵</nuxt-link
             >。
           </p>
@@ -86,11 +89,15 @@
         <h3>受影響的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>下面列出所有受帕提亞戰術影響的單位，(柏柏沒有帕提亞戰術)。</p>
+          <p>
+            下面列出所有受帕提亞戰術影響的單位，(<nuxt-link to="/civs/Berbers"
+              >柏柏</nuxt-link
+            >沒有帕提亞戰術)。
+          </p>
         </div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
-            <td>弓箭手單位</td>
+            <td><nuxt-link to="/units/Archer_Units">弓箭手單位</nuxt-link></td>
             <td>近防/遠防增加</td>
             <td>
               對<nuxt-link to="/units/Spearman">長槍兵</nuxt-link>攻擊加成
@@ -155,7 +162,8 @@
             <strong>注意</strong>:<nuxt-link to="/units/Genitour"
               >標槍騎兵</nuxt-link
             >和<nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
-            >雖然是騎馬的弓箭手，但他們不受帕提亞戰術的影響。
+            >雖然是騎馬的<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+            >，但他們不受帕提亞戰術的影響。
           </p>
         </table>
 
@@ -170,7 +178,10 @@
         </div>
         <h3>瑣事</h3>
         <div class="hrn1"></div>
-        <div class="n1">只有十個文明有此技術，因此此技術是全遊戲最稀少的</div>
+        <div class="n1">
+          只有十個<nuxt-link to="/civs">文明</nuxt-link
+          >有此技術，因此此技術是全遊戲最稀少的
+        </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -254,7 +265,11 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">馬弓騎兵近防遠防+1/+2，對槍兵攻擊+2或+4</td>
+            <td class="unit4">
+              馬弓騎兵近防遠防+1/+2，對<nuxt-link to="/units/Spearman"
+                >槍兵</nuxt-link
+              >攻擊+2或+4
+            </td>
           </tr>
         </table>
       </div>

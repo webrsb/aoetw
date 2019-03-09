@@ -9,7 +9,16 @@
         <div class="n1">
           <p>
             <strong>皇后</strong>是《世紀帝國 II HD:
-            失落的帝國》中的一名英雄，她只能在戰役編輯器中使用。她與國王一樣不能攻擊但有很快的移動速度和良好的視野範圍。由於她屬於英雄單位，因此不能被招降且會回血
+            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
+            >，她只能在<nuxt-link to="/batt">戰役</nuxt-link
+            >編輯器中使用。她與<nuxt-link to="/units/King">國王</nuxt-link
+            >一樣不能攻擊但有很快的移動速度和良好的<nuxt-link to="/los.php"
+              >視野</nuxt-link
+            >範圍。由於她屬於英雄單位，因此不能被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>
             。
           </p>
           <p></p>
@@ -41,12 +50,17 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">平民<br />英雄</nuxt-link>
+              <nuxt-link to=""
+                ><nuxt-link to="/units/Civilian">平民</nuxt-link
+                ><br />英雄</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -54,7 +68,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>
@@ -62,16 +78,16 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>

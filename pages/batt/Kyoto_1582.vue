@@ -2,13 +2,17 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong>京都（1582）</strong></h1>
+        <h1>京都（1582）</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            京都（1582）是征服者的戰役之一，描述1582年日本的本能寺之變與其後的中國大返還(山崎之戰)。
+            <b>京都（1582）</b>是<nuxt-link to="/batt/Battles_of_the_Conquerors"
+              >征服者的戰役</nuxt-link
+            >之一，描述1582年<nuxt-link to="/civs/Japanese">日本</nuxt-link
+            >的本能寺之變與其後的<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >大返還(山崎之戰)。
           </p>
         </div>
         <h2>玩家</h2>
@@ -18,9 +22,17 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代:</td>
-              <td class="tc2" width="15%">帝王時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源:</td>
-              <td class="tc2">木材2000，食物800，黃金800，石頭200</td>
+              <td class="tc2">
+                <nuxt-link to="/resource/Wood">木材</nuxt-link>2000，<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >800，<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >800，<nuxt-link to="/resource/Stone">石頭</nuxt-link>200
+              </td>
               <td class="tc1" width="15%">人口上限:</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -48,7 +60,10 @@
                 <div class="p4"></div>
                 玩家4：
               </td>
-              <td class="tc6" width="35%">織田信長（黃色）日本</td>
+              <td class="tc6" width="35%">
+                <nuxt-link to="/units/hero/Nobunaga">織田信長</nuxt-link
+                >（黃色）日本
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -78,9 +93,16 @@
             <br />
             <dl class="dl-horizontal">
               <dt>開場：</dt>
-              <dd>日本武士x4(生命值低下)，火戰船x2。</dd>
+              <dd>
+                <nuxt-link to="/units/Samurai">日本武士</nuxt-link>x4(<nuxt-link
+                  to="/elements/Hit_points"
+                  >生命值</nuxt-link
+                >低下)，<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link>x2。
+              </dd>
               <dt>大地之母單位：</dt>
-              <dd>火砲x4。</dd>
+              <dd>
+                <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>x4。
+              </dd>
             </dl>
           </div>
           <h3>主要任務</h3>
@@ -91,7 +113,10 @@
                 你的陛下，織田信長，在京都被圍困。你必須去解救他，恢復他的地位。
               </li>
               <li>建立一個對抗京都的基地。</li>
-              <li>摧毀京都的三座城堡作為他們謀害織田信長陛下的報復。</li>
+              <li>
+                摧毀京都的三座<nuxt-link to="/building/Castle">城堡</nuxt-link
+                >作為他們謀害織田信長陛下的報復。
+              </li>
             </ol>
           </div>
           <h3>次要任務</h3>
@@ -112,7 +137,10 @@
                 打敗大阪的駐軍並在此建立自己的城鎮，不要隨便摧毀建築，否則當你攻陷大阪還得重建許多建築。
               </li>
               <li>儘管直接襲擊京都可以成功，但偷襲可以減小人員傷亡。</li>
-              <li>京都叛亂的僧侶正在搜索聖物，不能讓他們成功。</li>
+              <li>
+                京都叛亂的<nuxt-link to="/units/Monk">僧侶</nuxt-link
+                >正在搜索聖物，不能讓他們成功。
+              </li>
             </ul>
           </div>
           <h3>斥候</h3>
@@ -120,14 +148,28 @@
           <div class="n1">
             <ul>
               <li>
-                羽柴秀吉的部隊(青綠色)在織田信常陛下的運輸船上，當你進入大阪，你需要迅速壓制抵抗，並建立一個基地。
+                羽柴秀吉的部隊(青綠色)在織田信常陛下的<nuxt-link
+                  to="/units/Transport_Ship"
+                  >運輸船</nuxt-link
+                >上，當你進入大阪，你需要迅速壓制抵抗，並建立一個基地。
               </li>
-              <li>有三個敵人。大阪(紅色)有城牆和城堡，但是部隊很少。</li>
+              <li>
+                有三個敵人。大阪(紅色)有<nuxt-link to="/building/Stone_Wall"
+                  >城牆</nuxt-link
+                >和城堡，但是部隊很少。
+              </li>
               <li>
                 兵庫城(藍色)相對只是一個小村莊，早期進攻就可以擊敗他，如果忽視他們的存在，他們最終將用步兵、弓兵和日本武士進攻。
               </li>
               <li>
-                京都(綠色)是你最危險的敵人，城市防禦良好，還有大量的長矛兵、騎士和日本武士保護城堡，如果給他們機會，他們還會建造海軍。
+                京都(綠色)是你最危險的敵人，城市防禦良好，還有大量的<nuxt-link
+                  to="/units/Elite_Skirmisher"
+                  >戰矛兵</nuxt-link
+                >、<nuxt-link to="/units/Knight">騎士</nuxt-link
+                >和日本武士保護城堡，如果給他們機會，他們還會建造<nuxt-link
+                  to="/units/Naval_Vessels"
+                  >海軍</nuxt-link
+                >。
               </li>
             </ul>
           </div>
@@ -138,23 +180,48 @@
               雖然遊戲讓你保護信長，但信長不死遊戲無法進行，盡你所能地多殺死幾個敵人吧。
             </li>
             <li>
-              進入大阪的時候不要摧毀城市，只要把城門打破，靠近城鎮中心就好。
+              進入大阪的時候不要摧毀城市，只要把<nuxt-link to="/building/Gate"
+                >城門</nuxt-link
+              >打破，靠近<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >就好。
             </li>
             <li>大阪城內的四座火砲非常珍貴，不要浪費了他們。</li>
-            <li>大阪城內的建築除了城堡都可以招降過來。</li>
+            <li>
+              大阪城內的建築除了城堡都可以<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >過來。
+            </li>
             <li>
               趁早打擊兵庫城，其國境內有很好的資源，越早進攻可以拿到越多，而且早期的兵庫城只要幾個步兵保護火砲，用火砲就可以完全拆除。
             </li>
             <li>所有的橋都是斷的，你必須建立海軍。</li>
-            <li>地圖東邊有個冰岸，從那裏進攻就可以不必招惹到京都的箭塔。</li>
             <li>
-              京都的士兵大多數都可以用火槍兵克制，火槍兵搭配大阪城內的四台火砲拆建築，並且幾個騎兵摧毀敵人的弩砲。
+              地圖東邊有個冰岸，從那裏進攻就可以不必招惹到京都的<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >。
+            </li>
+            <li>
+              京都的士兵大多數都可以用<nuxt-link to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
+              >克制，火槍兵搭配大阪城內的四台火砲拆建築，並且派幾個<nuxt-link
+                to="/units/Cavalier"
+                >騎兵</nuxt-link
+              >摧毀敵人的<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </li>
             <li>
               人口上限只有75，要好好控制人口，如果怕軍隊運送不夠快，可以在東方的登陸點建立基地。
             </li>
-            <li>善用你的投石機，火砲被毀了之後他們是最有效的。</li>
-            <li>大量投石機加上重型弩砲可以輕鬆的贏下戰鬥。</li>
+            <li>
+              善用你的<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
+              >，火砲被毀了之後他們是最有效的。
+            </li>
+            <li>
+              大量投石機加上<nuxt-link to="/units/Heavy_Scorpion"
+                >重型弩砲</nuxt-link
+              >可以輕鬆的贏下戰鬥。
+            </li>
           </ul>
           <h3>遊戲內細節</h3>
           <div class="hrn1"></div>
@@ -174,14 +241,22 @@
             </li>
             <li>織田信長的死亡動畫其實是切腹。</li>
             <li>
-              沒有靠近大阪的城牆的話，不會觸發信長的爆破者爆破城牆的劇情。
+              沒有靠近大阪的城牆的話，不會觸發信長的<nuxt-link
+                to="/units/Petard"
+                >爆破者</nuxt-link
+              >爆破城牆的劇情。
             </li>
             <li>
-              大阪在你進攻的時候有很大機會蓋一個學院，若你等他完成再靠近大阪的城鎮中心，學院會變成你的。
+              大阪在你進攻的時候有很大機會蓋一個<nuxt-link
+                to="/building/University"
+                >學院</nuxt-link
+              >，若你等他完成再靠近大阪的城鎮中心，學院會變成你的。
             </li>
             <li>很奇怪，大阪城被奪取的時候，只有半個大阪城變色了。</li>
             <li>兵庫城被擊敗的時候豐臣秀吉會說話。</li>
-            <li>簡單模式的電腦不會用遺跡勝利。</li>
+            <li>
+              簡單模式的電腦不會用<nuxt-link to="/Relic">遺跡</nuxt-link>勝利。
+            </li>
             <li>
               電腦絕對不會去搜索東邊的地圖，因為那裏是作者讓玩家可以用來偷襲的地方。
             </li>
@@ -195,7 +270,8 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              這場戰役描寫由本能寺之變(織田信長之死)到羽柴秀吉擊敗明智光秀為止的事蹟，日本史稱中國大返還以及山崎之戰，。
+              這場<nuxt-link to="/batt">戰役</nuxt-link
+              >描寫由本能寺之變(織田信長之死)到羽柴秀吉擊敗明智光秀為止的事蹟，日本史稱中國大返還以及山崎之戰，。
             </li>
             <li>
               遊戲內的地圖跟當時的戰場一點都不相似，估計是為了讓玩家可以發揮日本的海軍優勢。
@@ -208,7 +284,8 @@
               本能寺之變發生時京都仍在信長掌控之下，明智光秀欺騙了士兵，大部分叛變的士兵(遊戲內是京都)並不知道自己攻擊的是信長。
             </li>
             <li>
-              當時在信長身邊護衛的武士並不是羽柴秀吉的手下，是他的侍童森蘭丸與其弟弟，還有黑人武士彌助。
+              當時在信長身邊<nuxt-link to="/techs/Squires">護衛</nuxt-link
+              >的武士並不是羽柴秀吉的手下，是他的侍童森蘭丸與其弟弟，還有黑人武士彌助。
             </li>
             <li>信長不是戰死的，而是下落不明(沒有人找到屍體)。</li>
             <li>歷史上除了彌助，跟信長同在本能寺的的武士全部戰死。</li>
@@ -237,7 +314,12 @@
               歷史上的明智光秀在敗退後死於荒郊野外，被狩獵落難武士的農民殺死(當時殺死敵將並帶回人頭有重賞)。
             </li>
             <li>而羽柴秀吉後來改名豐臣秀吉，進而統一日本。</li>
-            <li>豐臣秀吉後來進攻朝朝鮮，也就是遊戲內的洛陽點（1598）戰役。</li>
+            <li>
+              豐臣秀吉後來進攻朝朝鮮，也就是遊戲內的<nuxt-link
+                to="/batt/Noryang_Point_1598"
+                >洛陽點（1598）</nuxt-link
+              >戰役。
+            </li>
           </ul>
         </div>
       </div>
@@ -262,14 +344,20 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
-            <td class="unit4">征服者的戰役</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Battles_of_the_Conquerors"
+                >征服者的戰役</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>
             </td>

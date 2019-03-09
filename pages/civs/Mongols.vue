@@ -8,10 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            蒙古帝國由蒙古人鐵木真（成吉思汗）於1206年在斡難河邊建立，國號「大蒙古國」。據《蒙古秘史》，其創始於斡難河河源，通常認為創建時間約為鐵木真征服蒙古高原各部落（塔塔爾、泰赤烏、蔑兒乞、乃蠻、克烈、汪古部、以尼倫和迭列斤兩大部落組成的蒙兀王國）、始有「成吉思汗」之稱號時的1206年。
+            <b>蒙古帝國</b>由<nuxt-link to="/civs/Mongols">蒙古人</nuxt-link
+            >鐵木真（<nuxt-link to="/units/hero/Genghis_Khan"
+              >成吉思汗</nuxt-link
+            >）於1206年在斡難河邊建立，國號「大蒙古國」。據《蒙古秘史》，其創始於斡難河河源，通常認為創建時間約為鐵木真征服蒙古高原各部落（塔塔爾、泰赤烏、蔑兒乞、乃蠻、克烈、汪古部、以尼倫和迭列斤兩大部落組成的蒙兀王國）、始有「成吉思汗」之稱號時的1206年。
           </p>
           <p>
-            蒙古人擅長使用游擊戰術，他們有許多技藝高超的騎兵與弓箭手，這些馬弓騎兵準確的遠距離射擊提供了他們在戰場上的巨大優勢。
+            蒙古人擅長使用游擊戰術，他們有許多技藝高超的<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >與<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+            >，這些<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+            >準確的遠距離射擊提供了他們在戰場上的巨大優勢。
           </p>
         </div>
         <h3>概要</h3>
@@ -20,18 +28,30 @@
           <p>
             蒙古人最大的優勢在於
             <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >與攻城武器，除沒有
+            >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>，除沒有
             <nuxt-link to="/units/Halberdier">戟兵</nuxt-link
-            >，他們還有完整的步兵科技，而除了
+            >，他們還有完整的<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link>，而除了
             <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >之外，他們也有所有的攻城武器。這意味著蒙古人在遊戲中可以使用成群的馬弓騎兵與<nuxt-link
               to="/units/Champion"
               >劍兵勇士</nuxt-link
             >和
-            <nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
-            >。蒙古突騎也是相當致命兵種。總體來說，蒙古人擅長游擊與迅速的破壞，然而他們的防守也有些欠缺。因為他們的箭塔只能升級一次，以及不能蓋火砲塔。但蒙古人也有
-            <nuxt-link to="/units/Camel">駱駝</nuxt-link
-            >，是除了中國人與非洲中東文明外，唯二有駱駝的。
+            <nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link>。<nuxt-link
+              to="/units/Mangudai"
+              >蒙古突騎</nuxt-link
+            >也是相當致命兵種。總體來說，蒙古人擅長游擊與迅速的破壞，然而他們的防守也有些欠缺。因為他們的<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >只能升級一次，以及不能蓋<nuxt-link to="/building/Bombard_Tower"
+              >火砲塔</nuxt-link
+            >。但蒙古人也有
+            <nuxt-link to="/units/Camel">駱駝</nuxt-link>，是除了<nuxt-link
+              to="/civs/Chinese"
+              >中國人</nuxt-link
+            >與非洲中東<nuxt-link to="/civs">文明</nuxt-link
+            >外，唯二有<nuxt-link to="/units/Camel">駱駝</nuxt-link>的。
           </p>
           <h3>特殊單位</h3>
           <ul>
@@ -39,7 +59,8 @@
               <img class="gg" src="~assets/MangudaiIcon.jpg" /><nuxt-link
                 to="/units/Mangudai"
                 >蒙古突騎</nuxt-link
-              >:射速非常快且剋攻城武器的馬弓騎兵
+              >:<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+              >非常快且剋攻城武器的馬弓騎兵
             </li>
           </ul>
           <h3>特殊科技</h3>
@@ -67,7 +88,7 @@
             </li>
             <li>
               <nuxt-link to="/units/Light_Cavalry"
-                >輕騎兵與
+                ><nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>與
                 <nuxt-link to="/units/Hussar"
                   >匈牙利輕騎兵</nuxt-link
                 ></nuxt-link
@@ -75,8 +96,13 @@
             </li>
             <li>打獵的效率提高+50%</li>
             <li>
-              <strong>團隊加分:</strong
-              ><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>+2視野
+              <strong
+                ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+                >:</strong
+              ><nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link>+2<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >
             </li>
           </ul>
         </div>
@@ -93,8 +119,16 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>精銳火砲戰船被拔除。</li>
-            <li>蒙古突騎對攻城武器的加成僅限於衝撞車。</li>
+            <li>
+              <nuxt-link to="/units/Elite_Cannon_Galleon"
+                >精銳火砲戰船</nuxt-link
+              >被拔除。
+            </li>
+            <li>
+              蒙古突騎對攻城武器的加成僅限於<nuxt-link to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >。
+            </li>
             <li>蒙古突騎開伙延遲-50%(10到5)</li>
           </ul>
         </div>
@@ -154,10 +188,14 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">馬弓騎兵</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">特殊單位</td>
+            <td class="unit3">
+              <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
+            </td>
             <td class="unit4">
               <img class="gg" src="~assets/MangudaiIcon.jpg" /><nuxt-link
                 to="/units/Mangudai"
@@ -167,7 +205,11 @@
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">靠著打獵快速上封建出斥候攻擊</td>
+            <td class="unit4">
+              靠著打獵快速上封建出<nuxt-link to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
+              >攻擊
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>

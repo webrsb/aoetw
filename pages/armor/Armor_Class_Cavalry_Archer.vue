@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於馬弓騎兵系裝甲的。而關於馬弓騎兵這個單位請參見<nuxt-link
+            >這篇文章是將有關於<strong>馬弓騎兵</strong>系裝甲的。而關於馬弓騎兵這個單位請參見<nuxt-link
               to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             ></em
@@ -18,7 +18,8 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            馬弓騎兵系是一個防禦裝甲類別，所有在這個系列的兵種都會被剋馬弓騎兵系的兵種有額外的傷害。
+            <b>馬弓騎兵系</b>是一個<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            >類別，所有在這個系列的兵種都會被剋馬弓騎兵系的兵種有額外的傷害。
           </p>
         </div>
         <h3>馬弓騎兵系單位</h3>

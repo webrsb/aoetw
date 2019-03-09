@@ -8,19 +8,30 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            追蹤技術於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            <b>追蹤技術</b>於<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >研發。研發後所有的
-            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>視野+2。
+            <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            ><nuxt-link to="/los.php">視野</nuxt-link>+2。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>讓所有步兵具有+2視野，卻只要50食物，非常的實用，建議研發。</li>
             <li>
-              打裝甲步兵快攻的玩家一定要研發，+2視野攸關著你能不能抓到對方落單的村民，且能及早迴避敵人的裝甲步兵。
+              讓所有<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >具有+2視野，卻只要50<nuxt-link to="/resource/Food"
+                >食物</nuxt-link
+              >，非常的實用，建議研發。
+            </li>
+            <li>
+              打<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
+              >快攻的玩家一定要研發，+2視野攸關著你能不能抓到對方落單的<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >，且能及早迴避敵人的裝甲步兵。
             </li>
           </ul>
         </div>
@@ -29,7 +40,7 @@
         <div class="n1"><p>下面列出所有受追蹤技術影響的單位。</p></div>
         <table class="table-bordered" width="100%">
           <tr class="tta">
-            <td>步兵單位</td>
+            <td><nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link></td>
             <td>原本視野</td>
             <td>加成後視野</td>
             <td>可觀測面積加成百分比</td>
@@ -296,8 +307,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：<nuxt-link
@@ -340,7 +355,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            隨著黑暗時代的消逝和野蠻人部族成為訓練有素的軍隊，軍事技術有了新的改善。新的軍隊為選舉和演習做好了充分的準備。這些改進的另一個好處是不容易出現意外和伏擊。
+            隨著<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+            >的消逝和野蠻人部族成為訓練有素的軍隊，軍事技術有了新的改善。新的軍隊為選舉和演習做好了充分的準備。這些改進的另一個好處是不容易出現意外和伏擊。
           </p>
         </div>
       </div>
@@ -366,7 +382,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">全部文明</td>
           </tr>
           <tr>

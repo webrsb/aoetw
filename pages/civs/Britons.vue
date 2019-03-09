@@ -8,12 +8,27 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            不列顛是西歐的弓兵文明，可使用的最初文明之一。它們代表了中世紀和中世紀後期的英國人和盎格魯‧諾曼人。
+            <b>不列顛</b>是西歐的<nuxt-link to="/units/Archer_Units"
+              >弓兵文明</nuxt-link
+            >，可使用的最初<nuxt-link to="/civs">文明</nuxt-link
+            >之一。它們代表了中世紀和中世紀後期的<nuxt-link to="/civs/Britons"
+              >英國</nuxt-link
+            >人和盎格魯‧諾曼人。
           </p>
           <p>
-            不列顛的特殊單位是<nuxt-link to="/units/Longbowman"
+            不列顛的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >是<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link>。<nuxt-link
+              to="/units/Longbowman"
               >長弓兵</nuxt-link
-            >。長弓兵是弓箭手，比起其他所有弓兵單位來，有更高的攻擊力和射程。英格蘭有一段時間禁止其他運動，只允許射箭，因此不列顛的弓箭遠比其他文明來的熟練和更具破壞力。英格蘭遍布各地的小村莊使得城鎮中心擁有50%木材減免，另外有著遠近馳名的牧羊技術。
+            >是<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+            >，比起其他所有<nuxt-link to="/units/Archer_Units"
+              >弓兵單位</nuxt-link
+            >來，有更高的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >和射程。英格蘭有一段時間禁止其他運動，只允許射箭，因此不列顛的弓箭遠比其他文明來的熟練和更具破壞力。英格蘭遍布各地的小村莊使得<nuxt-link
+              to="/building/Town_Center"
+              >城鎮中心</nuxt-link
+            >擁有50%<nuxt-link to="/resource/Wood">木材</nuxt-link
+            >減免，另外有著遠近馳名的牧羊技術。
           </p>
           <p>
             不列顛的後代與蘇格蘭、愛爾蘭、塞爾特..等文明組成了現今的英國(大不列顛與北愛爾蘭聯合王國)。
@@ -23,12 +38,30 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            不列顛的主要優勢就是他的步行弓兵系統(不包含矛兵)，因他們的<nuxt-link
-              to="/building/Archery_Range"
+            不列顛的主要優勢就是他的步行<nuxt-link to="/units/Archer_Units"
+              >弓兵系</nuxt-link
+            >統(不包含<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+            >)，因他們的<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
-            >工作效率高、文明又給予攻擊距離的增加使得弓兵的使用更多元。
+            >工作效率高、文明又給予攻擊距離的增加使得<nuxt-link
+              to="/units/Archer_Units"
+              >弓兵</nuxt-link
+            >的使用更多元。
           </p>
-          不列顛的特殊單位長弓兵，是遊戲中唯一可以超越城堡的弓兵單位在對付緩慢的兵種時可以有效的給予傷害，相對的快速的騎兵是一大要害因此擁有完整個軍營兵種與科技好保護弓兵，此外不列顛的馬廄科技是非常不完善的。另外在海軍上不列顛除了
+          不列顛的特殊單位長弓兵，是遊戲中唯一可以超越<nuxt-link
+            to="/building/Castle"
+            >城堡</nuxt-link
+          >的弓兵單位在對付緩慢的兵種時可以有效的給予傷害，相對的快速的<nuxt-link
+            to="/units/Cavalry_Units"
+            >騎兵</nuxt-link
+          >是一大要害因此擁有完整個<nuxt-link to="/building/Barracks"
+            >軍營</nuxt-link
+          >兵種與<nuxt-link to="/techs">科技</nuxt-link
+          >好保護弓兵，此外不列顛的<nuxt-link to="/building/Stable"
+            >馬廄</nuxt-link
+          >科技是非常不完善的。另外在<nuxt-link to="/units/Naval_Vessels"
+            >海軍</nuxt-link
+          >上不列顛除了
           <nuxt-link to="/units/Elite_Cannon_Galleon">精銳火砲戰船</nuxt-link
           >以外科技是相當完善的，在<nuxt-link to="/units/Siege_Weapons"
             >攻城單位</nuxt-link
@@ -40,7 +73,8 @@
           <p>
             不列顛擁有相當優秀的<nuxt-link to="/units/Archer_Units"
               >弓箭手</nuxt-link
-            >，但必須在城堡時代開始射程才+1，因此黑跳城堡的打法相當不錯具有威脅性。一般封建來說都是以弓箭場弓兵搭配矛兵為主。
+            >，但必須在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >開始射程才+1，因此黑跳城堡的打法相當不錯具有威脅性。一般封建來說都是以弓箭場弓兵搭配矛兵為主。
           </p>
           <h3>特殊單位</h3>
           <p>
@@ -53,13 +87,16 @@
             <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
               to="/techs/Yeomen"
               >義勇騎兵</nuxt-link
-            >:步行弓兵射程+1，箭塔攻擊+2
+            >:步行弓兵射程+1，<nuxt-link to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >攻擊+2
           </p>
           <p>
             <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
               to="/techs/Warwolf"
               >戰狼</nuxt-link
-            >:投石機有面的殺傷力(意指攻擊範圍加大)
+            >:<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
+            >有面的殺傷力(意指攻擊範圍加大)
           </p>
         </div>
         <h3>文明加成</h3>
@@ -76,8 +113,21 @@
                 >帝王時代</nuxt-link
               >攻擊距離再+1(累計+2)
             </li>
-            <li>牧羊工作效率+25%(綿羊、母牛、水牛、火雞)</li>
-            <li><strong>團隊加分</strong>:射箭場工作效率+20%</li>
+            <li>
+              牧羊工作效率+25%(<nuxt-link to="/units/animal/Sheep"
+                >綿羊</nuxt-link
+              >、母牛、<nuxt-link to="/units/animal/Water_Buffalo"
+                >水牛</nuxt-link
+              >、<nuxt-link to="/units/animal/Turkey">火雞</nuxt-link>)
+            </li>
+            <li>
+              <strong
+                ><nuxt-link to="/elements/Team_Bonus"
+                  >團隊加分</nuxt-link
+                ></strong
+              >:<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+              >工作效率+20%
+            </li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -111,7 +161,10 @@
             </li>
             <li>
               新的<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-              >特殊科技:<nuxt-link to="/techs/Warwolf">戰狼</nuxt-link>。
+              ><nuxt-link to="/techs/untech">特殊科技</nuxt-link>:<nuxt-link
+                to="/techs/Warwolf"
+                >戰狼</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -148,7 +201,13 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/Richard_coeur_de_lion.jpg" alt="" />
-                <p><em>獅心王查理一世</em></p>
+                <p>
+                  <em
+                    ><nuxt-link to="/units/hero/Richard_the_Lionheart"
+                      >獅心王查理</nuxt-link
+                    >一世</em
+                  >
+                </p>
               </div>
             </td>
           </tr>
@@ -163,24 +222,37 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">弓兵</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Archer_Units$">弓兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊單位</td>
             <td class="unit4">
-              <img class="gg" src="~assets/LongbowmanIcon.jpg" />長弓兵
+              <img class="gg" src="~assets/LongbowmanIcon.jpg" /><nuxt-link
+                to="/units/Longbowman"
+                >長弓兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">封建弓兵</td>
+            <td class="unit4">
+              封建<nuxt-link to="/units/Archer">弓兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>
             <td class="unit4">
-              <img class="gg" src="~assets/CastleAgeUnique.png" />義勇騎兵
+              <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+                to="/techs/Yeomen"
+                >義勇騎兵</nuxt-link
+              >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" />戰狼
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Warwolf"
+                >戰狼</nuxt-link
+              >
             </td>
           </tr>
         </table>

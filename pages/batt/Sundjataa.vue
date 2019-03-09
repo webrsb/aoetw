@@ -24,14 +24,24 @@
             </p>
           </div>
           <p>
-            松迪亞塔(Sundiata)，馬利帝國的開創者，曼丁戈人傳說中的民族英雄。松迪亞塔在1212年前後出生於凱塔家族控制下的尼亞尼。根據傳說，松迪亞塔幼年時不會走路，在一棵神聖麵包樹的樹枝的幫助下才學會蹣跚。松迪亞塔有一個同父異母的兄弟，即丹卡蘭國王。松迪亞塔早年被放逐出家族，後在尼亞尼遭到蘇蘇人首領蘇曼古魯的威脅時返回。在其號召下，曼丁戈人諸勢力聯合起來，於1235年在基里納戰役中徹底擊敗蘇蘇人。戰後，松迪亞塔被公推為「曼薩」，建立了馬利帝國。松迪亞塔約去世於1255年前後。
+            <b>松迪亞塔</b
+            >(Sundiata)，馬利帝國的開創者，曼丁戈人傳說中的民族英雄。松迪亞塔在1212年前後出生於凱塔家族控制下的尼亞尼。根據傳說，松迪亞塔幼年時不會走路，在一棵神聖麵包樹的樹枝的幫助下才學會蹣跚。松迪亞塔有一個同父異母的兄弟，即丹卡蘭國王。松迪亞塔早年被放逐出家族，後在尼亞尼遭到蘇蘇人首領蘇曼古魯的威脅時返回。在其號召下，曼丁戈人諸勢力聯合起來，於1235年在基里納<nuxt-link
+              to="/batt"
+              >戰役</nuxt-link
+            >中徹底擊敗蘇蘇人。戰後，松迪亞塔被公推為「曼薩」，建立了馬利帝國。松迪亞塔約去世於1255年前後。
           </p>
         </div>
         <h3>英雄</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            松迪亞塔在遊戲戰役中為輕騎兵的型態，是騎兵英雄，能在地圖編輯器中找到他，他不會被招降，能夠自動恢復HP。
+            松迪亞塔在遊戲戰役中為<nuxt-link to="/units/Light_Cavalry"
+              >輕騎兵</nuxt-link
+            >的型態，是<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
+            >，能在地圖編輯器中找到他，他不會被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >，能夠自動恢復HP。
           </p>
         </div>
         <h3>關卡</h3>
@@ -45,11 +55,23 @@
             </div>
             <div class="col-md-6">
               <ol>
-                <li>擒獲</li>
-                <li>蠍螫</li>
-                <li>傑爾巴島的黃金</li>
-                <li>血濺河灘</li>
-                <li>深入虎穴</li>
+                <li><nuxt-link to="/batt/Hunted">擒獲</nuxt-link></li>
+                <li>
+                  <nuxt-link to="/batt/The_Sting_of_the_Scorpion"
+                    >蠍螫</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Blood_on_the_River_Bank"
+                    >血濺河灘</nuxt-link
+                  >
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Lions_Den">深入虎穴</nuxt-link>
+                </li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -91,15 +113,21 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">馬利</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">英雄</td>
-            <td class="unit4">松迪亞塔</td>
+            <td class="unit4">
+              <nuxt-link to="/units/hero/Sundjata">松迪亞塔</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">關卡</td>

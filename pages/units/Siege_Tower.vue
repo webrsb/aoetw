@@ -8,8 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            攻城塔是一種攻城武器單位，他引進自失落的帝國，一開始他只能在某些戰役或是地圖編輯器中使用，但是非洲王國推出後，他便可以在<nuxt-link
-              to="/building/Siege_Workshop"
+            <b>攻城塔</b>是一種<nuxt-link to="/units/Siege_Weapons"
+              >攻城武器單位</nuxt-link
+            >，他引進自<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >，一開始他只能在某些<nuxt-link to="/batt">戰役</nuxt-link
+            >或是地圖編輯器中使用，但是<nuxt-link to="/games/ak"
+              >非洲王國</nuxt-link
+            >推出後，他便可以在<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >訓練。它本身並不能攻擊，只能把友軍單位神不知鬼不覺的運送到 牆內。
           </p>
@@ -19,16 +24,31 @@
         <div class="n1">
           <h3>失落的帝國</h3>
           <p>
-            攻城塔有很高的生命值與遠防，可以向附近的敵人射箭來防禦，然而用它來防禦仍然不夠，甚至比箭塔還遭，倒是比較像是可以運兵的衝撞車。
+            攻城塔有很高的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+            >與<nuxt-link to="/armor">遠防</nuxt-link
+            >，可以向附近的敵人射箭來防禦，然而用它來防禦仍然不夠，甚至比<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >還遭，倒是比較像是可以運兵的<nuxt-link to="/units/Battering_Ram"
+              >衝撞車</nuxt-link
+            >。
           </p>
           <h3>非洲王國</h3>
           <p>
-            非洲王國的攻城塔不再有攻擊力，變成純粹的運兵裝置，且可以把軍隊從牆的這邊運送到另一邊，當敵人的基地有非常強大的防守，而無法突破時，攻城塔便十分有用，可以廣泛運用於圍城或是黑森林這種封閉地圖。
+            非洲王國的攻城塔不再有<nuxt-link to="/elements/Attack"
+              >攻擊力</nuxt-link
+            >，變成純粹的運兵裝置，且可以把軍隊從牆的這邊運送到另一邊，當敵人的基地有非常強大的防守，而無法突破時，攻城塔便十分有用，可以廣泛運用於<nuxt-link
+              to="/maps/Arena"
+              >圍城</nuxt-link
+            >或是<nuxt-link to="/maps/Black_Forest">黑森林</nuxt-link
+            >這種封閉地圖。
           </p>
           <p>
-            另外裝滿10名步兵或是弩兵的裝甲塔速度為1.3，比沒有<nuxt-link
-              to="/techs/Squires"
-              >護衛技術</nuxt-link
+            另外裝滿10名<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >或是<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>的<nuxt-link
+              to="/ar/armstower"
+              >裝甲塔</nuxt-link
+            >速度為1.3，比沒有<nuxt-link to="/techs/Squires">護衛技術</nuxt-link
             >的<nuxt-link to="/units/Elite_Eagle_Warrior">精銳鷹勇士</nuxt-link
             >還快，這使得它成為一種有效的運輸單位。
           </p>
@@ -87,7 +107,8 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。
             </td>
           </tr>
           <tr>
@@ -123,7 +144,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -492,16 +515,23 @@
                 >：攻城塔生產快15%。
               </li>
               <li>
-                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：攻擊速度快25%。
+                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
+                  to="/elements/Rate_of_Fire"
+                  >攻擊速度</nuxt-link
+                >快25%。
               </li>
               (只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link
-                >：利於攻城塔的技術在封建/城堡/帝王時代便宜10％/15％/20％。
+                >：利於攻城塔的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+                >便宜10％/15％/20％。
               </li>
               <li>
                 <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-                >：攻城塔黃金成本減少15%。
+                >：攻城塔<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >成本減少15%。
               </li>
               <li>
                 <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -526,11 +556,14 @@
                 >的速度快80%。
               </li>
               <strong
-                >(這些科技只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)</strong
+                >(這些<nuxt-link to="/techs">科技</nuxt-link
+                >只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)</strong
               >
               <li>
                 <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                >：攻城塔對僧侶的招降有較好的抗性。
+                >：攻城塔對<nuxt-link to="/elements/Conversion"
+                  >僧侶的招降</nuxt-link
+                >有較好的抗性。
               </li>
             </ul>
           </div>
@@ -546,7 +579,8 @@
                 攻城塔有6的射程(最小射程1)6的攻擊(對<nuxt-link
                   to="/armor/Armor_Class_Building"
                   >建築物</nuxt-link
-                >+6)，射速為4，命中率為90％。
+                >+6)，<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+                >為4，命中率為90％。
               </li>
               <li>移動速度0.6。</li>
             </ul>
@@ -554,7 +588,12 @@
               <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
             </h3>
             <ul>
-              <li>攻城塔不能攻擊，但可以運送部隊穿越城牆。</li>
+              <li>
+                攻城塔不能攻擊，但可以運送部隊穿越<nuxt-link
+                  to="/building/Stone_Wall"
+                  >城牆</nuxt-link
+                >。
+              </li>
               <li>
                 <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
                 >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
@@ -568,9 +607,14 @@
             <div class="n1">
               <ul>
                 <li>攻城塔是唯一一個無法攻擊的單位。</li>
-                <li>地圖編輯器還是把攻城塔列為征服者入侵的單位，LOGO也是。</li>
                 <li>
-                  蒙古的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<nuxt-link
+                  地圖編輯器還是把攻城塔列為<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >的單位，LOGO也是。
+                </li>
+                <li>
+                  <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+                  >的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<nuxt-link
                     to="/techs/Husbandry"
                     >畜牧培育</nuxt-link
                   >的 <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
@@ -580,7 +624,8 @@
                   HD論壇曾經為了攻城塔要不要給它攻擊而有過激烈的討論。有人覺得沒有攻擊的攻城塔是一個沒用的單位。
                 </li>
                 <li>
-                  5名條頓武士駐守在衝撞車內的速度是0.75，而<nuxt-link
+                  5名<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+                  >駐守在衝撞車內的速度是0.75，而<nuxt-link
                     to="/units/Teutonic_Knight"
                     >條頓武士</nuxt-link
                   >速度為0.7，但研發
@@ -620,7 +665,12 @@
                   攻城塔是用來穿越敵人的城牆，外觀經常覆蓋著動物的毛皮，讓它有防火性，為了進一步防禦，通常會在攻城塔上或內部開火。
                 </p>
                 <p>
-                  是古戰場上常用的大型攻城器械，一般由結實的木料組合而成，高4米到8米甚至10米以上。四方柱型，下有車輪，可以推動。攻城時士兵站在頂部，以弓箭等遠程武器對守城士兵造成傷害和威脅。從某種程度上說是雲梯的攻擊加強。是弓箭部隊常用的攻城工具。除常規對守城士兵造成強力的殺傷外，並可以通過火箭削弱對方士氣，居高臨下射箭攻擊，消滅對方兵力，進而減弱守城方的抵抗力量。
+                  是古戰場上常用的大型<nuxt-link to="/units/Siege_Weapons"
+                    >攻城器</nuxt-link
+                  >械，一般由結實的木料組合而成，高4米到8米甚至10米以上。四方柱型，下有車輪，可以推動。攻城時士兵站在頂部，以弓箭等<nuxt-link
+                    to="/units/Archer_Units"
+                    >遠程</nuxt-link
+                  >武器對守城士兵造成傷害和威脅。從某種程度上說是雲梯的攻擊加強。是弓箭部隊常用的攻城工具。除常規對守城士兵造成強力的殺傷外，並可以通過火箭削弱對方士氣，居高臨下射箭攻擊，消滅對方兵力，進而減弱守城方的抵抗力量。
                 </p>
               </div>
             </div>
@@ -647,7 +697,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -696,7 +746,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">220</td>
           </tr>
           <tr>
@@ -718,7 +770,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">駐軍</td>
+            <td class="unit3"><nuxt-link to="/Garrison">駐軍</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
           <tr></tr>

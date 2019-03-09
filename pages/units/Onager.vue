@@ -8,26 +8,49 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <nuxt-link to="/units/Onager">中型投石車</nuxt-link
-            >是一個遠程攻城武器 ，玩家必須先升級到<nuxt-link
-              to="/techs/age/Imperial_Age"
+            <b>中型投石車</b>是一個<nuxt-link
+              to="/armor/Armor_Class_Siege_Weapon"
+              >遠程攻城武器</nuxt-link
+            >
+            ，玩家必須先升級到<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >，研發科技後才可以在攻城器製造所進行訓練。 它主要用來對付大群敵人。
-            它特別的<nuxt-link to="/elements/Area_of_Effect">擴散傷害</nuxt-link
-            >使它成為一個強大的單位，特別是對弓箭手和緩慢移動的單位。
+            >，研發<nuxt-link to="/techs">科技</nuxt-link>後才可以在<nuxt-link
+              to="/units//building/Siege_Workshop"
+              >攻城器製造所</nuxt-link
+            >進行訓練。 它主要用來對付大群敵人。 它特別的<nuxt-link
+              to="/elements/Area_of_Effect"
+              >擴散傷害</nuxt-link
+            >使它成為一個強大的單位，特別是對<nuxt-link to="/units/Archer_Units"
+              >徒步弓箭手</nuxt-link
+            >和緩慢移動的單位。
             <nuxt-link to="/units/Onager">中型投石車</nuxt-link>還
-            可以攻擊地面並砍除樹木，在黑森林或樹木過多的封閉地形，它的價值顯得額外重要，除了<nuxt-link
+            可以攻擊地面並砍除樹木，在<nuxt-link to="/maps/Black_Forest"
+              >黑森林</nuxt-link
+            >或樹木過多的封閉地形，它的價值顯得額外重要，除了<nuxt-link
               to="/civs/Huns"
               >匈奴人</nuxt-link
             >和
-            <nuxt-link to="/civs/Turks">土耳其人</nuxt-link
-            >之外，其它文明都可以透過<nuxt-link to="/building/Siege_Workshop"
+            <nuxt-link to="/civs/Turks">土耳其人</nuxt-link>之外，其它<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >都可以透過<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >將<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>升級成
             <nuxt-link to="/units/Onager">中型投石車</nuxt-link>。
           </p>
           <p>
-            中型投石車與輕型投石車最大的不同除了攻擊血量提高外，最具威脅性的是其射程+1，來到了8，讓帝王時代的遠程兵種(通常射程是8)，無法用拉打的方式打爆投石車，並可以藉著射程與強大的攻擊，一擊必殺
+            <nuxt-link to="/units/Onager">中型投石車</nuxt-link>與<nuxt-link
+              to="/units/Mangonel"
+              >輕型投石車</nuxt-link
+            >最大的不同除了攻擊<nuxt-link to="/elements/Hit_points"
+              >血量</nuxt-link
+            >提高外，最具威脅性的是其射程+1，來到了8，讓<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >的<nuxt-link to="/units/Archer_Units">遠程兵種</nuxt-link
+            >(通常射程是8)，無法用拉打的方式打爆<nuxt-link to="/units/Mangonel"
+              >投石車</nuxt-link
+            >，並可以藉著射程與強大的攻擊，一擊必殺
             <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >與<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>等單位。
           </p>
@@ -48,7 +71,7 @@
             喜好<nuxt-link to="/units/Onager">中型投石車</nuxt-link
             >的玩家，應該會很喜歡使用<nuxt-link to="/civs/Koreans"
               >韓國</nuxt-link
-            >文明，因為特殊科技
+            >文明，因為<nuxt-link to="/techs/untech">特殊科技</nuxt-link>
             <nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link
             >可以使投石車射程+1，亦或者與<nuxt-link to="/civs/Koreans"
               >韓國</nuxt-link
@@ -56,7 +79,10 @@
           </p>
           <p>
             雖然<nuxt-link to="/units/Onager">中型投石車</nuxt-link
-            >是個傷害很高的單位，但砲彈是不長眼的，若操作不當，其擴散傷害的特性，也許會將敵方與已方的軍隊一同化為塵土，玉石俱焚。
+            >是個傷害很高的單位，但砲彈是不長眼的，若操作不當，其<nuxt-link
+              to="/elements/Area_of_Effect"
+              >擴散傷害</nuxt-link
+            >的特性，也許會將敵方與已方的軍隊一同化為塵土，玉石俱焚。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -97,7 +123,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Furor_Celtica"
@@ -106,14 +134,17 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。 <br />
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。 <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -137,7 +168,8 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。 <br />
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Shinkichon"
                 >神機箭</nuxt-link
@@ -165,7 +197,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -356,7 +390,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：中型投石車攻擊速度快25%(科技樹寫20%是錯的!)
+              >：中型投石車<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快25%(<nuxt-link to="/tree/vie">科技樹</nuxt-link>寫20%是錯的!)
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
@@ -364,7 +400,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：中型投石車黃金成本減少15%。
+              >：中型投石車<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本減少15%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -393,7 +430,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：中型投石車對僧侶的招降有較好的抗性。
+              >：中型投石車對<nuxt-link to="/elements/Conversion"
+                >僧侶的招降</nuxt-link
+              >有較好的抗性。
             </li>
           </ul>
           <h3>更新日誌</h3>
@@ -405,7 +444,10 @@
             <ul>
               <li>移動速度為0.5。</li>
               <li>
-                在失落的帝國之前，中型投石車研發化學會變弱，投擲速度從3.5降低到2.9。
+                在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                >之前，中型投石車研發<nuxt-link to="/techs/Chemistry"
+                  >化學</nuxt-link
+                >會變弱，投擲速度從3.5降低到2.9。
               </li>
             </ul>
             <h3>
@@ -413,7 +455,11 @@
             </h3>
             <ul>
               <li>中型投石車現在移動速度增加到0.6。</li>
-              <li>中型投石車對攻城武器有+12的攻擊。</li>
+              <li>
+                中型投石車對<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                  >攻城武器</nuxt-link
+                >有+12的攻擊。
+              </li>
               <li>
                 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:引進<nuxt-link
                   to="/techs/Drill"
@@ -427,8 +473,10 @@
                 >：給予中型投石車+2的射程，到了1.0c版效果減少為1。
               </li>
               <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-                >的團隊加分讓中型投石車有+1射程。
+                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>的<nuxt-link
+                  to="/elements/Team_Bonus"
+                  >團隊加分</nuxt-link
+                >讓中型投石車有+1射程。
               </li>
             </ul>
             <h3>
@@ -486,11 +534,17 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              投石機或稱拋石機、「
-              回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的城牆、城內或者兵陣內而造成破壞。
+              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>或稱拋石機、「
+              回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >、城內或者兵陣內而造成破壞。
             </p>
             <p>
-              漢語的「砲」便是古漢語動詞「拋」的名詞形式，這種通過聲調改變詞性的手段被稱為四聲別義。「砲」原指投石機與其彈，唐後也指由投石機發射的燃燒物，宋後也指由投石機發射的縱火物與爆裂物，明後也指大型管身火器。宋代之前「砲」與「炮」不同義，「炮」只有「燒烤」的意思，宋代之後「炮」逐漸有「砲」的意思。就連「火砲」一詞最初也是指發射燃燒物或爆裂物投石機與其砲彈，明後才也指大型管身火器。
+              漢語的「砲」便是古漢語動詞「拋」的名詞形式，這種通過聲調改變詞性的手段被稱為四聲別義。「砲」原指投石機與其彈，唐後也指由投石機發射的燃燒物，宋後也指由投石機發射的縱火物與爆裂物，明後也指大型管身火器。宋代之前「砲」與「炮」不同義，「炮」只有「燒烤」的意思，宋代之後「炮」逐漸有「砲」的意思。就連「<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >」一詞最初也是指發射燃燒物或爆裂物投石機與其砲彈，明後才也指大型管身火器。
             </p>
           </div>
         </div>
@@ -627,7 +681,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
           <tr></tr>
@@ -644,7 +698,7 @@
             <td class="unit4">0.6</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
           <tr>
@@ -678,7 +732,7 @@
                 class="gg"
                 src="~assets/Siege-onager-research.jpg"
                 alt=""
-              />1450食物1000黃金
+              />1450<nuxt-link to="/resource/Food">食物</nuxt-link>1000黃金
             </td>
           </tr>
           <tr>

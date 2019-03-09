@@ -8,8 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>奧爾良的少女</b
-            >是在貞德戰役第二個劇情關卡，這是貞德帶領法國軍隊於奧爾良城的第一次重要的勝利。
+            <b>奧爾良的少女</b>是在<nuxt-link to="/batt/Joan_of_Arc"
+              >貞德戰役</nuxt-link
+            >第二個劇情關卡，這是貞德帶領<nuxt-link to="/civs/Franks"
+              >法國</nuxt-link
+            >軍隊於奧爾良城的第一次重要的勝利。
           </p>
         </div>
         <h2>玩家</h2>
@@ -44,14 +47,18 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家1</div></td>
-              <td class="tc6" colspan="3">法蘭克人（藍色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>（藍色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p7">玩家4</div></td>
-              <td class="tc6" width="38%">奧爾良（灰色）法蘭克</td>
+              <td class="tc6" width="38%">
+                奧爾良（灰色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
+              </td>
               <td class="tc6" width="12%"><div class="p5">玩家5</div></td>
               <td class="tc6" width="38%">布諾（藍綠色）法蘭克</td>
             </tr>
@@ -67,7 +74,9 @@
               <td class="tc6"><div class="p6">玩家2</div></td>
               <td class="tc6">勃根地（紫色）法蘭克</td>
               <td class="tc6"><div class="p2">玩家3</div></td>
-              <td class="tc6">北不列顛（紅色）不列顛</td>
+              <td class="tc6">
+                北<nuxt-link to="/civs/Britons">不列顛</nuxt-link>（紅色）不列顛
+              </td>
             </tr>
             <tr>
               <td class="tc6"><div class="p8">玩家6</div></td>
@@ -138,7 +147,11 @@
             <ol>
               <li>送貞德到布諾以便她可以指揮法國的軍隊。</li>
               <li>運送六車的補給品到奧爾良城去。</li>
-              <li>只要毀掉一、兩座英國人的城堡就可以要他們撤離。</li>
+              <li>
+                只要毀掉一、兩座<nuxt-link to="/civs/Britons">英國</nuxt-link
+                >人的<nuxt-link to="/building/Castle">城堡</nuxt-link
+                >就可以要他們撤離。
+              </li>
               <li>千萬保護奧爾良的大教堂別被摧毀。同時也要保住貞德的性命。</li>
             </ol>
           </div>
@@ -151,20 +164,36 @@
               在英國軍隊對我們造成更大傷亡之前，盡快趕到奧爾良去。但要特別注意駐在河的南邊的英國軍隊，同時別忘了和你的軍隊在布諾會合。
             </li>
             <li>
-              一旦補給品送達奧爾良，你就可以建立你自己的軍力，法國騎士用來對付英國的長弓兵和攻城武器綽綽有餘。
+              一旦補給品送達奧爾良，你就可以建立你自己的軍力，法國<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >用來對付英國的<nuxt-link to="/units/Longbowman">長弓兵</nuxt-link
+              >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >綽綽有餘。
             </li>
             <li>法國的城堡造價不貴，但防禦堅強。</li>
-            <li>用你的市集來進行資源的貿易，直到你有辦法出城為止。</li>
             <li>
-              英國城堡有較強大的駐軍武力。所以在發動攻擊前，我們最好先組成一支陣容壯大的軍隊。
+              用你的<nuxt-link to="/building/Market">市集</nuxt-link
+              >來進行資源的貿易，直到你有辦法出城為止。
             </li>
-            <li>奧爾良的農田多座落在城西，但都是在城外且脆弱不堪一擊。</li>
+            <li>
+              英國城堡有較強大的<nuxt-link to="/Garrison">駐軍</nuxt-link
+              >武力。所以在發動攻擊前，我們最好先組成一支陣容壯大的軍隊。
+            </li>
+            <li>
+              奧爾良的<nuxt-link to="/building/Farm">農田</nuxt-link
+              >多座落在城西，但都是在城外且脆弱不堪一擊。
+            </li>
           </ul>
           <h3>細節</h3>
           <div class="hrn1"></div>
           <ul>
             <li>
-              在玩家升級到城堡時代時，奧爾良城的建築仍然處於封建時代的設計。
+              在玩家升級到<nuxt-link to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >時，奧爾良城的<nuxt-link to="/building">建築</nuxt-link
+              >仍然處於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+              >的設計。
             </li>
             <li>因為奧爾良城預設玩家為大地之母。</li>
           </ul>
@@ -193,7 +222,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -202,7 +233,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>
             </td>
@@ -216,7 +247,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第二章之二</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第二章之二
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

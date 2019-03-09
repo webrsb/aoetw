@@ -7,11 +7,12 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          軍營是第一個軍事建築，可以在黑暗時代被建造。同時也是<nuxt-link
-            to="/building/Stable"
-            >馬廄</nuxt-link
+          <b>軍營</b>是第一個軍事<nuxt-link to="/building">建築</nuxt-link
+          >，可以在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+          >被建造。同時也是<nuxt-link to="/building/Stable">馬廄</nuxt-link
           >和<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-          >的前置建築物( <nuxt-link to="/civs/Khmer">高棉</nuxt-link>除外)。
+          >的前置<nuxt-link to="/building">建築物</nuxt-link>(
+          <nuxt-link to="/civs/Khmer">高棉</nuxt-link>除外)。
         </div>
         <h3>可訓練的單位與技術</h3>
         <div class="hrn1"></div>
@@ -61,7 +62,7 @@
                     src="~assets/EagleScoutIcon.jpg"
                     alt=""
                   /><nuxt-link to="/units/Eagle_Scout">鷹斥候</nuxt-link
-                  >(南美文明限定)
+                  >(南美<nuxt-link to="/civs">文明</nuxt-link>限定)
                 </li>
               </ul>
             </div>
@@ -182,7 +183,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -218,7 +221,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -236,7 +239,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">招降抵抗</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -308,11 +313,19 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對軍營有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：對軍營有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：軍營在黑暗/封建/城堡/帝王時代多10%/20%/30%/40%的血量。
+              >：軍營在<nuxt-link to="/techs/age/Dark_Age">黑暗</nuxt-link
+              >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代多10%/20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：軍營便宜15%。
@@ -484,7 +497,7 @@
             <td class="unit4">10</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -513,7 +526,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -584,7 +597,14 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有封建時代的軍營(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+                  >的軍營(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -610,7 +630,12 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有城堡時代的軍營(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                  >的軍營(帝王世紀和征服者入侵資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -636,7 +661,8 @@
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
-                  >射箭場在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em
+                  ><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+                  >在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em
                 >
               </p>
             </div>

@@ -7,12 +7,26 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p><b>始兮終兮</b>是世紀帝國II失落帝國－斯福爾札戰役的第一關。</p>
           <p>
-            這種戰役描繪了法蘭切斯科·斯福爾札親眼看見了他父親：穆齊奧-斯福爾札在佩斯卡拉河中被淹死。玩家作為法蘭切斯科·斯福爾札，必須讓所有以前在穆齊奧部隊中服役的五個隊長在法蘭切斯科的旗幟下重新團結。
+            <b>始兮終兮</b>是世紀帝國II<nuxt-link to="/games/aof"
+              >失落帝國</nuxt-link
+            >－<nuxt-link to="/batt/Sforzaa">斯福爾札戰役</nuxt-link>的第一關。
           </p>
           <p>
-            戰役開始時，斯福爾札父子領導一小隊傭兵，當他們到達河流時，父親穆齊奧堅持要渡過河流，儘管他的兒子法蘭切斯科警告他會有洪水。兒子無助地目睹他的父親被水流沖走，並拒絕接受他父親已經去世。約翰尼斯將軍會來表示哀悼，但是他聲明：以前服務於穆齊奧-斯福爾札的將軍們沒有義務自動向兒子服務。因此，法蘭切斯科·斯福爾札在攻擊突襲者之前，正在努力說服包括約翰尼斯在內的五名將軍。這種情況有點類似成吉思汗戰役的第一關：嚴酷的考驗。
+            這場 <nuxt-link to="/batt">戰役</nuxt-link>描繪了<nuxt-link
+              to="/units/hero/Francesco_Sforza"
+              >法蘭切斯科·斯福爾札</nuxt-link
+            >親眼看見了他父親：穆齊奧-<nuxt-link to="/batt/Sforzaa"
+              >斯福爾札</nuxt-link
+            >在佩斯卡拉河中被淹死。玩家作為法蘭切斯科·斯福爾札，必須讓所有以前在穆齊奧部隊中服役的五個隊長在法蘭切斯科的旗幟下重新團結。
+          </p>
+          <p>
+            戰役開始時，斯福爾札父子領導一小隊<nuxt-link to="/units/Condottiero"
+              >傭兵</nuxt-link
+            >，當他們到達河流時，父親穆齊奧堅持要渡過河流，儘管他的兒子法蘭切斯科警告他會有洪水。兒子無助地目睹他的父親被水流沖走，並拒絕接受他父親已經去世。約翰尼斯將軍會來表示哀悼，但是他聲明：以前服務於穆齊奧-斯福爾札的將軍們沒有義務自動向兒子服務。因此，法蘭切斯科·斯福爾札在攻擊突襲者之前，正在努力說服包括約翰尼斯在內的五名將軍。這種情況有點類似<nuxt-link
+              to="/batt/Genghis_Khana"
+              >成吉思汗(戰役)</nuxt-link
+            >的第一關：<nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>。
           </p>
         </div>
         <h2>玩家</h2>
@@ -22,7 +36,9 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">黑暗時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">無</td>
               <td class="tc1" width="14%">人口上限：</td>
@@ -41,7 +57,9 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家1</div></td>
-              <td class="tc6" colspan="3">義大利人（藍色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Italians">義大利人</nuxt-link>（藍色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
@@ -50,7 +68,11 @@
               <td class="tc6" width="12%"><div class="p2">玩家2</div></td>
               <td class="tc6" width="38%">村莊（紅色）義大利</td>
               <td class="tc6" width="12%"><div class="p4">玩家4</div></td>
-              <td class="tc6" width="38%">約翰尼斯將軍（黃色）法蘭克</td>
+              <td class="tc6" width="38%">
+                約翰尼斯將軍（黃色）<nuxt-link to="/civs/Franks"
+                  >法蘭克</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p5">玩家5</div></td>
@@ -87,11 +109,18 @@
             <ol>
               <li>說服所有將軍再次加入。</li>
               <li>殺死約翰尼斯的營地西邊的匪首然後帶回殺死他的證據。</li>
-              <li>找一個僧侶然後帶他去伯恩托摩的堡壘，僧侶必須活下去。</li>
+              <li>
+                找一個<nuxt-link to="/units/Monk">僧侶</nuxt-link
+                >然後帶他去伯恩托摩的堡壘，僧侶必須活下去。
+              </li>
               <li>找到5輛廢棄的貨物車，把能用的輪子帶回給路易蓋希。</li>
               <li>給吉他諾的馬帶回乾淨的水。</li>
               <li>找到6堆乾草給馬爾塞洛的馬。</li>
-              <li>摧毀西邊的卡馬尼奧拉城堡。</li>
+              <li>
+                摧毀西邊的卡馬尼奧拉<nuxt-link to="/building/Castle"
+                  >城堡</nuxt-link
+                >。
+              </li>
             </ol>
           </div>
         </div>
@@ -124,7 +153,8 @@
               斯福爾扎率意大利傭兵團向西挺進攻打卡馬尼奧拉，但是他們需要設法過河。
             </li>
             <li>
-              小村的村民（紅色）知曉附近地形，所以他們肯定能有用處。義大利傭兵在城郊安營紮寨。
+              小村的<nuxt-link to="/units/Villager">村民</nuxt-link
+              >（紅色）知曉附近地形，所以他們肯定能有用處。義大利傭兵在城郊安營紮寨。
             </li>
             <li>約翰尼斯將軍（黃色）已經佔據了村莊西邊的營地。</li>
             <li>伯恩托摩將軍（青綠色）棲身於沼澤以北的廢棄據點裡。</li>
@@ -132,7 +162,10 @@
             <li>馬爾塞洛將軍（灰色）佔領了村莊東邊的一座老舊的瞭望塔。</li>
             <li>吉他諾將軍和他的騎兵駐紮在沼澤南邊的一座舊穀倉裡。</li>
             <li>
-              突襲者（綠色）受雇於卡馬尼奧拉，在地圖西邊的大營一擁而出，現正在劫掠村莊。他們的步兵，弓箭手和輕騎兵是敵不過強大的意大利傭兵，但是要攻破他們的軍防基地就必須帶上攻城武器。
+              突襲者（綠色）受雇於卡馬尼奧拉，在地圖西邊的大營一擁而出，現正在劫掠村莊。他們的步兵，弓箭手和<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >是敵不過強大的意大利傭兵，但是要攻破他們的軍防基地就必須帶上攻城武器。
             </li>
           </ul>
           <h2>戰術</h2>
@@ -141,11 +174,17 @@
             <ul>
               <li>為了說服約翰尼斯將軍，玩家必須殺死他營地西邊的強盜領袖。</li>
               <li>
-                為了說服瑪律賽洛將軍，玩家必須使用他借給玩家的貿易車隊為他收集一些乾稻草。
-                如果貿易車隊死亡，玩家將輸掉戰役。
+                為了說服瑪律賽洛將軍，玩家必須使用他借給玩家的<nuxt-link
+                  to="/units/Trade_Cart"
+                  >貿易車隊</nuxt-link
+                >為他收集一些乾稻草。 如果貿易車隊死亡，玩家將輸掉戰役。
               </li>
               <li>
-                為了說服伯恩托摩將軍，玩家必須為他的副手帶來大夫（在村莊的外面，約翰尼斯將軍營地附近的修道院旁的一名僧侶）。大夫在完成任務後將繼續為玩家服務。如果大夫在被帶到伯恩托摩將軍的城堡前死亡，玩家將輸掉戰役。
+                為了說服伯恩托摩將軍，玩家必須為他的副手帶來大夫（在村莊的外面，約翰尼斯將<nuxt-link
+                  to="/building/Barracks"
+                  >軍營</nuxt-link
+                >地附近的<nuxt-link to="/building/Monastery">修道院</nuxt-link
+                >旁的一名僧侶）。大夫在完成任務後將繼續為玩家服務。如果大夫在被帶到伯恩托摩將軍的城堡前死亡，玩家將輸掉戰役。
               </li>
               <li>
                 為了說服路易蓋希將軍，玩家必須派斯福爾札從破車中收集五個輪子。請注意，有些車輪已損壞。玩家必須在完成吉他諾將軍的任務之前完成這項任務。
@@ -199,7 +238,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Italians">義大利人</nuxt-link>
             </td>

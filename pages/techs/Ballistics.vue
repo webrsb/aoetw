@@ -8,17 +8,31 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            彈道學可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>彈道學</b>可於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
-            >研發。可讓弓箭手、船隻、
-            <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >、箭塔(包含<nuxt-link to="/building/Bombard_Tower"
-              >火砲塔</nuxt-link
+            >研發。可讓<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+            >、<nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link>、
+            <nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >(包含<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
             >)和<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >對移動目標的準確率大幅上升。
           </p>
           <p>
-            在沒有彈道學的情況下，所有遠距離單位對於平行移動的目標，命中率都是不佳的，所以可以利用這個特點進行巧妙的控兵躲避敵方的箭矢，一旦研發彈道學後，即使你在怎麼移動仍無法躲過敵人的箭矢。因此不管如何這個科技都是相當重要的。比起另一個遠距離部隊重要的科技拇指環來說，更推薦優先研發彈道學。尤其是命中率只有50%的馬弓騎兵。
+            在沒有彈道學的情況下，所有<nuxt-link to="/units/Archer_Units"
+              >遠距離單位</nuxt-link
+            >對於平行移動的目標，命中率都是不佳的，所以可以利用這個特點進行巧妙的控兵躲避敵方的箭矢，一旦研發彈道學後，即使你在怎麼移動仍無法躲過敵人的箭矢。因此不管如何這個<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >都是相當重要的。比起另一個遠距離部隊重要的科技<nuxt-link
+              to="/techs/Thumb_Ring"
+              >拇指環</nuxt-link
+            >來說，更推薦優先研發彈道學。尤其是命中率只有50%的<nuxt-link
+              to="/units/Cavalry_Archer"
+              >馬弓騎兵</nuxt-link
+            >。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -26,8 +40,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在城堡/帝王時代花費便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -49,8 +66,10 @@
           </h3>
           <ul>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >:火砲戰船受彈道學影響。
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>:<nuxt-link
+                to="/units/Cannon_Galleon"
+                >火砲戰船</nuxt-link
+              >受彈道學影響。
             </li>
           </ul>
           <h3>
@@ -67,7 +86,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            隨著中世紀的發展，導彈武器變得越來越重要，最終導致火器和大砲的發展。在這些創新武器之前，有長弓，弩弓和各種投擲石塊，矛和箭的攻城武器。人類研究了這些導彈在飛行中如何行進並努力提高砲彈的速度和準確性。這就是彈道學，研究飛行中的投射物運動。這一經歷使得之後的整個世代都在做武器，裝甲，圍牆，攻擊和防御之間的軍備競賽。。
+            隨著中世紀的發展，導彈武器變得越來越重要，最終導致火器和大砲的發展。在這些創新武器之前，有長弓，弩弓和各種投擲石塊，矛和箭的<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >。人類研究了這些導彈在飛行中如何行進並努力提高砲彈的速度和準確性。這就是彈道學，研究飛行中的投射物運動。這一經歷使得之後的整個世代都在做武器，裝甲，圍牆，攻擊和防御之間的軍備競賽。。
           </p>
         </div>
       </div>
@@ -93,7 +115,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -126,11 +148,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">175</td>
           </tr>
           <tr>

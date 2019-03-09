@@ -12,9 +12,17 @@
             >是一名能在世紀帝國II的地圖編輯器中使用的<nuxt-link
               to="/armor/Armor_Class_Infantry"
               >步兵</nuxt-link
-            >英雄。他的原型是北畠親房，除了宮廷貴族的身分外，同時也是史家和著作家。雖然他的著作中含有個人的偏頗及政治動機，但卻是現存中最詳細的。在遊戲中北畠將軍是數值更強的
+            ><nuxt-link to="/units/hero">英雄</nuxt-link
+            >。他的原型是北畠親房，除了宮廷貴族的身分外，同時也是史家和著作家。雖然他的著作中含有個人的偏頗及政治動機，但卻是現存中最詳細的。在遊戲中北畠將軍是數值更強的
             <nuxt-link to="/units/Samurai">日本武士</nuxt-link
-            >。由於他屬於英雄單位，所以無法被招降，也會自動回血（自《征服者入侵》以後）。他和其他步兵一樣，會受到所有影響步兵的升級和加成影響。
+            >。由於他屬於英雄單位，所以無法被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >，也會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >（自《<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            >》以後）。他和其他<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >一樣，會受到所有影響步兵的升級和加成影響。
           </p>
         </div>
       </div>
@@ -46,7 +54,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -54,7 +64,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>
@@ -74,21 +86,23 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -98,7 +112,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

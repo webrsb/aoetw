@@ -8,16 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            忠誠信仰可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>忠誠信仰</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link
             >研發，可提升單位對
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >的抗招降能力
+            >的抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
           </p>
-          <p>雖然此科技不便宜，但如果對方是打僧侶爆，那就有研發的必要。</p>
+          <p>
+            雖然此<nuxt-link to="/techs">科技</nuxt-link
+            >不便宜，但如果對方是打<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >爆，那就有研發的必要。
+          </p>
         </div>
         <h3>文明可研發與否</h3>
         <div class="hrn1"></div>
@@ -27,7 +31,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -88,8 +94,10 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在帝王時代便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >便宜20%。
             </li>
           </ul>
         </div>
@@ -156,11 +164,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">1000</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">750</td>
           </tr>
           <tr>
@@ -170,7 +182,11 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">提升單位對僧侶和傳教士的抗招降能力</td>
+            <td class="unit4">
+              提升單位對僧侶和<nuxt-link to="/units/Missionary"
+                >傳教士</nuxt-link
+              >的抗招降能力
+            </td>
           </tr>
         </table>
 

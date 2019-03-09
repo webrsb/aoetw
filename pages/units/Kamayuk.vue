@@ -8,15 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            槍隊長是<nuxt-link to="/civs/Incas">印加</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>槍隊長</b>是<nuxt-link to="/civs/Incas">印加</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。槍隊長是印加的兩個特殊單位之一(另一個為投石手)。它是一個拿著非常長的槍的反騎兵單位，且有1的射程。槍隊長可以在<nuxt-link
-              to="/techs/age/Imperial_Age"
+            >中訓練。槍隊長是<nuxt-link to="/civs/Incas">印加</nuxt-link
+            >的兩個特殊單位之一(另一個為<nuxt-link to="/units/Slinger"
+              >投石手</nuxt-link
+            >)。它是一個拿著非常長的槍的反<nuxt-link to="/units/Cavalry_Units"
+              >騎兵單位</nuxt-link
+            >，且有1的射程。槍隊長可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳槍隊長。
+            >升級為<nuxt-link to="/units/Kamayuk">精銳槍隊長</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,35 +28,60 @@
         <div class="n1">
           <ul>
             <li>
-              槍隊長適合團體做戰因為他們有1的攻擊距離可以攻擊到同伴身後的敵人，可以輕易地對騎兵造成傷害且不必跑來跑去，同時可短時間內大量生產。與<nuxt-link
+              槍隊長適合團體做戰因為他們有1的攻擊距離可以攻擊到同伴身後的敵人，可以輕易地對<nuxt-link
+                to="/armor/Armor_Class_Cavalry"
+                >騎兵</nuxt-link
+              >造成傷害且不必跑來跑去，同時可短時間內大量生產。與<nuxt-link
                 to="/units/Pikeman"
                 >重裝長槍兵</nuxt-link
               >一樣槍隊長對大象單位如
               <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>有攻擊加成。
             </li>
             <li>
-              槍隊長的攻擊範圍可讓他們打到城牆後的敵人，所以用於城牆上的進攻防守都十分好用，對來犯的敵軍衝撞車也能有效且安全的摧毀它們。
+              槍隊長的攻擊範圍可讓他們打到<nuxt-link to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >後的敵人，所以用於城牆上的進攻防守都十分好用，對來犯的敵軍<nuxt-link
+                to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >也能有效且安全的摧毀它們。
             </li>
             <li>
-              槍隊長與重裝長槍兵一樣在面對其他步兵的表現也不盡人意，但他們的攻擊力基值和開火速率都比重裝長槍兵來的高。此外，他們的+1攻擊範圍意味著他們可以對敵方步兵造成嚴重傷亡，即使對手對他們不利。槍隊長與投石手是非常好的搭配，
+              槍隊長與<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+              >一樣在面對其他<nuxt-link to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >的表現也不盡人意，但他們的<nuxt-link to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >基值和開火速率都比重裝長槍兵來的高。此外，他們的+1攻擊範圍意味著他們可以對敵方步兵造成嚴重傷亡，即使對手對他們不利。槍隊長與投石手是非常好的搭配，
               <nuxt-link to="/units/Slinger">投石手</nuxt-link
               >對付敵方步兵，槍隊長則對付騎兵。也可以加進<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >反制弓箭手和攻城武器。雖然研發
+              >反制<nuxt-link to="/armor/Armor_Class_Archer">弓箭手</nuxt-link
+              >和<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                >攻城武器</nuxt-link
+              >。雖然研發
               <nuxt-link to="/techs/Couriers">信使</nuxt-link
-              >後可讓槍隊長遠防+2，但還是用鷹勇士對付弓箭手來得好。<nuxt-link
-                to="/units/Hand_Cannoneer"
+              >後可讓槍隊長<nuxt-link to="/armor">遠防</nuxt-link
+              >+2，但還是用<nuxt-link to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >對付弓箭手來得好。<nuxt-link to="/units/Hand_Cannoneer"
                 >火槍兵</nuxt-link
               >可輕易地擊敗槍隊長。
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              ><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
-              >對步兵的額外傷害和踐踏傷害會讓槍隊長永遠翻不了身。
+              ><nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link>對<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >的額外傷害和<nuxt-link to="/elements/Area_of_Effect"
+                >踐踏傷害</nuxt-link
+              >會讓槍隊長永遠翻不了身。
             </li>
             <li>
               印加玩家常見的困境是使用<nuxt-link to="/units/Halberdier"
                 >戟兵</nuxt-link
-              >還是槍隊長好，這取決於資源的可用性。如果有黃金可用，那麼槍隊長應該永遠是首選，如果沒有足夠的黃金，玩家可以混合著使用。
+              >還是槍隊長好，這取決於資源的可用性。如果有<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >可用，那麼槍隊長應該永遠是首選，如果沒有足夠的黃金，玩家可以混合著使用。
             </li>
           </ul>
         </div>
@@ -178,7 +207,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -189,7 +220,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -351,7 +384,7 @@
             src="~assets/Unique-tech.jpg"
             width="22"
             alt=""
-          />後勤學
+          /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
             <li>
@@ -383,11 +416,13 @@
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發科技<nuxt-link
-                to="/techs/Tracking"
-                >追蹤技術</nuxt-link
-              >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：研發<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              ><nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link>、<nuxt-link
+                to="/techs/Squires"
+                >護衛</nuxt-link
+              >、 <nuxt-link to="/techs/Arson">縱火</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -403,7 +438,10 @@
           </h3>
           <ul>
             <li>槍隊長的移動速度是0.95。</li>
-            <li>信使給槍隊長+10%移動速度。</li>
+            <li>
+              <nuxt-link to="/techs/Couriers">信使</nuxt-link
+              >給槍隊長+10%移動速度。
+            </li>
             <li>升級到精銳槍隊長需要1000肉600金。</li>
           </ul>
           <h3>
@@ -441,7 +479,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在印加軍隊中，槍隊長是一名負責管理投石手或弓兵等較低階士兵的軍官。較低階的槍隊長會被指派吹海螺貝喇叭或打鼓。較低階的槍隊長在頭銜之前有冠名，如Choru或Pachac。最高階的槍隊長被簡稱為槍隊長。
+            在印加軍隊中，槍隊長是一名負責管理投石手或<nuxt-link
+              to="/units/Archer_Units"
+              >弓兵</nuxt-link
+            >等較低階士兵的軍官。較低階的槍隊長會被指派吹海螺貝喇叭或打鼓。較低階的槍隊長在頭銜之前有冠名，如Choru或Pachac。最高階的槍隊長被簡稱為槍隊長。
           </p>
         </div>
       </div>
@@ -479,7 +520,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Incas">印加</nuxt-link></td>
           </tr>
           <tr>
@@ -517,7 +558,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -534,7 +577,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60/80(精銳)</td>
           </tr>
           <tr>
@@ -554,7 +599,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -562,7 +609,7 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0/1(精銳)</td>
           </tr>
           <tr>

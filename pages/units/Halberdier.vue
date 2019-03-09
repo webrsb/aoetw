@@ -8,16 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            戟兵或稱為斧槍兵。<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>戟兵</b>或稱為斧<nuxt-link to="/armor/Armor_Class_Spearman"
+              >槍兵</nuxt-link
+            >。<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >時，可以從<nuxt-link to="/building/Barracks">軍營</nuxt-link
-            >升級為戟兵。他們專門對付騎兵(
+            >升級為戟兵。他們專門對付<nuxt-link to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >(
             <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
-            >除外)，對騎兵以外所造成的傷害都是微弱的。
+            >除外)，對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+            >以外所造成的傷害都是微弱的。
           </p>
           <p>
-            最便宜的軍事部隊之一。此外，不需要黃金來培訓他們，讓他們成為“
-            垃圾單位 ”。
+            最便宜的軍事部隊之一。此外，不需要<nuxt-link to="/resource/Gold"
+              >黃金</nuxt-link
+            >來培訓他們，讓他們成為“ 垃圾單位 ”。
           </p>
         </div>
         <h3>戰術</h3>
@@ -36,7 +41,9 @@
           </p>
           <p>
             他們是<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-            >的完美輔助，因為他們可以保護攻城武器免受敵方近戰騎兵的傷害。雖然它們可能缺乏進攻力量，但它們可以作為炮灰向前進攻。
+            >的完美輔助，因為他們可以保護<nuxt-link to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >免受敵方近戰騎兵的傷害。雖然它們可能缺乏進攻力量，但它們可以作為炮灰向前進攻。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -137,7 +144,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -163,8 +172,10 @@
                 src="~assets/Arson.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -173,10 +184,11 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
-              >:步兵單位有踐踏傷害，<nuxt-link to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >限定。
+              /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link>:<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >有<nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
+              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。
             </td>
           </tr>
           <tr>
@@ -217,7 +229,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -228,7 +242,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -259,8 +275,10 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>:<nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -269,7 +287,9 @@
         <h3>剋長槍兵的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對長槍兵類的額外傷害，按造傷殺力排列。
+          以下單位擁有對長<nuxt-link to="/armor/Armor_Class_Spearman"
+            >槍兵類</nuxt-link
+          >的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -388,8 +408,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Skirmisher"
                       >帝王戰矛兵</nuxt-link
-                    >(帝王戰矛兵是<nuxt-link to="/civs/Vietnamese"
-                      >越南</nuxt-link
+                    >(<nuxt-link to="/units/Imperial_Skirmisher"
+                      >帝王戰矛兵</nuxt-link
+                    >是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
                     >及其同盟限定)
                   </li>
                   <li>
@@ -441,7 +462,8 @@
                     <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>→
                     <img class="gg" src="~assets/ChuKoNuIcon.jpg" alt="" />
                     <nuxt-link to="/units/Chu_Ko_Nu"
-                      >精銳連弩兵(<nuxt-link to="/civs/Chinese">中國</nuxt-link
+                      ><nuxt-link to="/units/Chu_Ko_Nu">精銳連弩兵</nuxt-link
+                      >(<nuxt-link to="/civs/Chinese">中國</nuxt-link
                       >限定)</nuxt-link
                     >
                   </li>
@@ -505,7 +527,9 @@
               </div>
             </div>
           </div>
-          以下技術研發後對長槍兵有額外攻擊力，以數值排列
+          以下技術研發後對<nuxt-link to="/armor/Armor_Class_Spearman"
+            >長槍兵</nuxt-link
+          >有額外攻擊力，以數值排列
           <div class="n1">
             <img class="gg" src="~assets/Unique-tech.jpg" width="22" alt="" />
             <nuxt-link to="/techs/Logistica">後勤學</nuxt-link>
@@ -581,8 +605,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：戟兵在帝王時代有
-              +3 攻擊。
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：戟兵在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >有 +3 攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
@@ -607,8 +633,10 @@
               <nuxt-link to="/techs/Arson">縱火</nuxt-link>的速度快100%。
             </li>
             <li>
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >：戟兵攻擊速度快33％。
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>：戟兵<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快33％。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -626,7 +654,7 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >對戟兵有利的科技升級不須黃金。
+              >對戟兵有利的<nuxt-link to="/techs">科技</nuxt-link>升級不須黃金。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
@@ -692,37 +720,61 @@
             <li>引進<nuxt-link to="/techs/Arson">縱火</nuxt-link>科技。</li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >:一開始能訓練戟兵，但在在4.8版本後從科技樹移除。
+              >:一開始能訓練戟兵，但在在4.8版本後從<nuxt-link to="/tree/vie"
+                >科技樹</nuxt-link
+              >移除。
             </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>5.7版本後戟兵對駱駝有+26的攻擊。</li>
+            <li>
+              5.7版本後戟兵對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >有+26的攻擊。
+            </li>
           </ul>
         </div>
         <h3>趣事</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>和矛兵一樣是最便宜的單位。</li>
+            <li>
+              和<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >一樣是最便宜的單位。
+            </li>
             <li>唯一沒有任何裝甲防禦的步兵單位。</li>
             <li>
-              上天是公平的，沒有戟兵的文明大多有剋騎馬單位的駱駝，而沒有駱駝的，則是有厲害的重裝長槍兵（如阿茲特克與維京）或是克制馬的特殊單位（如義大利）。
+              上天是公平的，沒有戟兵的<nuxt-link to="/civs">文明</nuxt-link
+              >大多有剋騎馬單位的駱駝，而沒有駱駝的，則是有厲害的<nuxt-link
+                to="/units/Pikeman"
+                >重裝長槍兵</nuxt-link
+              >（如<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>與<nuxt-link
+                to="/civs/Vikings"
+                >維京</nuxt-link
+              >）或是克制馬的<nuxt-link to="/units/Unique_Unit"
+                >特殊單位</nuxt-link
+              >（如<nuxt-link to="/civs/Italians">義大利</nuxt-link>）。
             </li>
             <li>
               雖然是叫做戟兵，但實際上武器是斧槍(瑞士斧)，只是初始的中文翻譯錯誤而已。
             </li>
             <li>
-              戟兵的英文為Hellebarde，這個字有可能是來自德文字Halm（棍）與Barte（斧），其實斧槍與中國的戟並不相同，斧槍是斧與槍的結合，而戟則是戈與矛/槍的結合，所以翻譯成戟兵並不恰當。
+              戟兵的英文為Hellebarde，這個字有可能是來自德文字Halm（棍）與Barte（斧），其實斧槍與<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >的戟並不相同，斧槍是斧與槍的結合，而戟則是戈與矛/槍的結合，所以翻譯成戟兵並不恰當。
             </li>
             <li>
               中國歷史上的戰神呂布，如果以武器來看，放到世紀帝國他只是一名戟兵而已，而且是垃圾單位。
             </li>
             <li>外觀倒是和潛水員有幾分神似。</li>
             <li>
-              在征服者入侵1.0版本的時代，戟兵對於帝王時代的房屋有額外的加成，當然這是一個bug。
+              在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+              >1.0版本的時代，戟兵對於帝王時代的<nuxt-link to="/building/House"
+                >房屋</nuxt-link
+              >有額外的加成，當然這是一個bug。
             </li>
           </ul>
         </div>
@@ -737,10 +789,16 @@
             斧槍在製造便宜，在戰場上的功能也很多。比槍與長槍更好用（也能用來推回騎兵），斧背上的鉤可以把騎兵拉到地上。
           </p>
           <p>
-            此外，斧槍以金屬強化柄前端，可以有效的抵擋如刀劍等武器。一名瑞士農夫使用這個武器一擊殺死了勃根地公爵大膽的查理。
+            此外，斧槍以金屬強化柄前端，可以有效的抵擋如刀劍等武器。一名瑞士<nuxt-link
+              to="/units/Villager"
+              >農夫</nuxt-link
+            >使用這個武器一擊殺死了勃根地公爵大膽的查理。
           </p>
           <p>
-            斧槍是瑞士陸軍在十四世紀到十五世紀早期時的主要武器。之後，瑞士人增加了長槍來擊退騎士的進攻並席捲敵兵的方陣，而使用斧槍、長劍、匕首來進行近身戰鬥。德國人的國土僕人模仿瑞士人的戰鬥方式使用來長槍輔以斧槍來戰鬥，但隨身武器是選擇短劍。
+            斧槍是瑞士陸軍在十四世紀到十五世紀早期時的主要武器。之後，瑞士人增加了長槍來擊退<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >的進攻並席捲敵兵的方陣，而使用斧槍、長劍、匕首來進行近身戰鬥。德國人的國土僕人模仿瑞士人的戰鬥方式使用來長槍輔以斧槍來戰鬥，但隨身武器是選擇短劍。
           </p>
           <p>
             只要長槍兵相互交鋒時，斧槍就會成為當陷入長槍混戰時的有用武器，但是當需要保護慢裝填的鉤銃兵或火繩鳥銃兵避免受騎兵突襲時，斧槍兵的作用就減低了，大約在十六世紀中期，斧槍已經不在一般士兵的武器之中。
@@ -822,7 +880,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -855,11 +915,11 @@
             <td class="unit4">3.05</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>

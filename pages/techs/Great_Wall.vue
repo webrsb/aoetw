@@ -8,12 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            長城是<nuxt-link to="/civs/Chinese">中國</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>長城</b>是<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後增加城牆和箭塔30%
+            >研發。研發後增加<nuxt-link to="/building/Stone_Wall"
+              >城牆</nuxt-link
+            >和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>30%
             HP。基本上是個相當沒用的特殊科技，一般人幾乎不會研發。
           </p>
         </div>
@@ -37,8 +38,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在城堡/帝王時代花費便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -77,7 +82,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>
             </td>
@@ -111,7 +116,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>

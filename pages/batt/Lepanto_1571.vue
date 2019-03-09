@@ -2,14 +2,17 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><strong> 勒班陀（1571）</strong></h1>
+        <h1>勒班陀（1571）</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
             <b>勒班陀戰役</b>（英語：Battle of
-            Lepanto，1571年10月7日），或譯勒潘陀海戰，是以西班牙帝國、威尼斯共和國為主力的神聖同盟（Holy
+            Lepanto，1571年10月7日），或譯勒潘陀海戰，是以<nuxt-link
+              to="/civs/Spanish"
+              >西班牙</nuxt-link
+            >帝國、威尼斯共和國為主力的神聖同盟（Holy
             League）艦隊與鄂圖曼帝國海軍在希臘愛奧尼亞海帕特拉斯灣展開的一場海戰。神聖同盟艦隊在海戰中取得決定性勝利。鄂圖曼帝國海軍自勒班陀的海軍港口出發向西，與自西西里墨西拿出發向東航行的神聖同盟艦隊遭遇。
           </p>
           <p>
@@ -33,9 +36,17 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">帝王時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">木頭800，食物600，黃金1,000，石頭400</td>
+              <td class="tc2">
+                <nuxt-link to="/resource/Wood">木頭</nuxt-link>800，<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >600，<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >1,000，<nuxt-link to="/resource/Stone">石頭</nuxt-link>400
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">100</td>
             </tr>
@@ -58,14 +69,21 @@
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p3">玩家3</div></td>
-              <td class="tc6" width="38%">希臘村莊（綠色）拜占庭</td>
+              <td class="tc6" width="38%">
+                希臘村莊（綠色）<nuxt-link to="/civs/Byzantines"
+                  >拜占庭</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p6">玩家2</div></td>
-              <td class="tc6">土耳其人（紫色）土耳其</td>
+              <td class="tc6">
+                <nuxt-link to="/civs/Turks">土耳其人</nuxt-link
+                >（紫色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+              </td>
             </tr>
           </table>
 
@@ -73,9 +91,17 @@
           <dl class="dl-horizontal">
             <dt>開場：</dt>
             <dd>
-              輕型投石車X7、運輸船x2、重型神風船x6、村民x12、火戰船X5、弩砲戰船X6、火砲戰船X5。
+              <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
+              >X7、<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+              >x2、<nuxt-link to="/units/Heavy_Demolition_Ship"
+                >重型神風船</nuxt-link
+              >x6、<nuxt-link to="/units/Villager">村民</nuxt-link
+              >x12、<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+              >X5、<nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
+              >X6、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+              >X5。
             </dd>
-            <dt>出場英雄：</dt>
+            <dt>出場<nuxt-link to="/units/hero">英雄</nuxt-link>：</dt>
             <dd>無</dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
@@ -84,7 +110,11 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>在土耳其軍艦的威脅下保護你得世界奇觀200年。</li>
+              <li>
+                在土耳其軍艦的威脅下保護你的<nuxt-link to="/building/Wonder"
+                  >世界奇觀</nuxt-link
+                >200年。
+              </li>
             </ol>
           </div>
           <h3>任務提示</h3>
@@ -92,7 +122,10 @@
           <div class="n1">
             <ul>
               <li>
-                不要用你所有的村民去建造世界奇觀，你需要一部份村民修建成強悍收集資源，造箭塔和船。
+                不要用你所有的村民去建造世界奇觀，你需要一部份村民收集資源，r建造<nuxt-link
+                  to="/building/Watch_Tower"
+                  >箭塔</nuxt-link
+                >和船。
               </li>
               <li>很難對抗土耳其的艦隊，不如集中防守。</li>
               <li>希臘倒可以提供而外資源，如果你能保護他們。</li>
@@ -102,9 +135,15 @@
           <div class="hrn1"></div>
           <div class="n1"></div>
           <ul>
-            <li>西班牙和義大利艦隊放棄大海，轉而在海邊建造世界奇觀。</li>
             <li>
-              你必須抵抗來自土耳其的軍艦和運輸船進攻。土耳其人擁有各種軍艦，包括火砲船，快速的反擊可以延緩土耳其前進的速度。
+              西班牙和<nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >艦隊放棄大海，轉而在海邊建造世界奇觀。
+            </li>
+            <li>
+              你必須抵抗來自土耳其的軍艦和運輸船進攻。土耳其人擁有各種軍艦，包括<nuxt-link
+                to="/units/Cannon_Galleon"
+                >火炮戰船</nuxt-link
+              >，快速的反擊可以延緩土耳其前進的速度。
             </li>
             <li>
               希臘村莊夾在戰爭中堅，但如果用正確手段，可以讓他們加入進來。
@@ -119,13 +158,16 @@
               當你進行一段時間遊戲，希臘村莊會要求你給予他800黃金他就會和你結盟。
             </li>
             <li>
-              對方海軍眾多，陸軍也很強大需要有大量的建塔，火砲塔來幫忙防守。
+              對方海軍眾多，陸軍也很強大需要有大量的箭塔，<nuxt-link
+                to="/building/Bombard_Tower"
+                >火砲塔</nuxt-link
+              >來幫忙防守。
             </li>
             <li>
               資源上，在海中偏下方有一片希臘村莊的黃金、石頭島嶼可以進行開採。
             </li>
             <li>
-              當你建造完世界奇觀，對方就開始攻擊，所以你也可以先行先蓋完防禦建築在蓋世界奇觀。
+              當你建造完世界奇觀，對方就開始攻擊，所以你也可以先行先蓋完防禦建築再蓋世界奇觀。
             </li>
             <li>
               對方島嶼防守嚴密不利於主動進攻，海軍數量對方也很龐大，建議玩家還是著重在防守即可。
@@ -135,33 +177,40 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              一開始可以先將村民進行分組，不用全部都在蓋世界奇觀，分成建造防禦建塔、物資採集。
+              一開始可以先將村民進行分組，不用全部都在蓋世界奇觀，分成建造防禦措施、物資採集。
             </li>
             <li>
-              當你世界奇觀蓋完，對方會有大量的海軍，陸軍進行攻擊，尤其是上方城鎮中心，那邊防禦偏弱對方容易從那上岸攻擊。
+              當你世界奇觀蓋完，對方會有大量的海軍，陸軍進行攻擊，尤其是上方<nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >，那邊防禦偏弱對方容易從那上岸攻擊。
             </li>
             <li>
-              除城鎮中心還有馬廄場附近（我方島嶼中間），那邊也是我方防禦偏弱的地方，需要嚴防注意。
+              除城鎮中心還有<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              >附近（我方島嶼中間），那邊也是我方防禦偏弱的地方，需要嚴防注意。
             </li>
             <li>
               如果你願意付給希臘村莊800黃金他將會更改為同盟，並給予你物資上的資源。
             </li>
             <li>
-              這戰役主要是防禦世界奇觀，200年相當於現實10分鐘左右，所以防守的軍隊、箭塔、火砲塔、海軍建議都先部屬完之後再來興建世界奇觀，後方資源的部分黃金、石頭不足可以去採集海中島嶼，那邊的黃金石頭非常充足。
+              這戰役主要是防禦世界奇觀，200年相當於現實10分鐘左右，所以防守的軍隊、箭塔、火砲塔、海軍建議都先部屬完之後再來興建世界奇觀，後方資源的部分黃金、石頭不足可以去海中的島嶼，那邊的黃金石頭非常充足。
             </li>
           </ul>
           <h3>芝麻小事</h3>
           <div class="hrn1"></div>
           <ul>
             <li>
-              繁神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位。
+              神聖同盟的勝利對歐洲和和鄂圖曼帝國的歷史具有重要影響。勒班陀戰役成為了鄂圖曼帝國在地中海軍事擴張的轉折點，儘管鄂圖曼帝國的擴張之後仍延續了一個世紀。由於在戰術上的相似與同樣保護歐洲免於帝國擴張的重要意義，長期以來，勒班陀戰役被與薩拉米斯戰役對比。在當時被宗教改革帶來的宗教戰爭撕裂的歐洲，勒班陀戰役具有重要的象徵作用，它鞏固了腓力二世作為基督教信仰守衛者的地位。
             </li>
           </ul>
           <h3>英雄：奧地利的唐璜（1547-1578）</h3>
           <div class="hrn1"></div>
           <ul>
             <li>
-              作為一個有軍政才華的人，唐璜並沒有得到什麼機運。他是神聖羅馬皇帝的私生子，兄長西班牙國王菲力二世對他始終提防。若不是鄂圖曼海軍進犯地中海，也許他根本不會有在歷史留名的機會。
+              作為一個有軍政才華的人，唐璜並沒有得到什麼機運。他是<nuxt-link
+                to="/batt/Holy_Roman_Emperor"
+                >神聖羅馬皇帝</nuxt-link
+              >的私生子，兄長西班牙國王菲力二世對他始終提防。若不是鄂圖曼海軍進犯地中海，也許他根本不會有在歷史留名的機會。
             </li>
             <li>
               唐璜在勒班陀擔任神聖聯盟的指揮官，並出色地擊退了為數龐大的鄂圖曼艦隊。隨後他更出任尼德蘭總督。但正準備大展身手時恰逢尼德蘭起義，他努力想要調停矛盾，但荷蘭人的暴動依然不可收拾，逼迫他參與戰鬥。而他在一場戰鬥中感染傷寒，憂鬱離世。
@@ -205,7 +254,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
             </td>
@@ -219,7 +268,11 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">征服者戰役第四章之六</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Battles_of_the_Conquerors"
+                >征服者戰役</nuxt-link
+              >第四章之六
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於傭兵護甲。而關於傭兵這個兵種的請參見<nuxt-link
+            >這篇文章是將有關於<strong>傭兵護甲</strong>。而關於傭兵這個兵種的請參見<nuxt-link
               to="/units/Condottiero"
               >傭兵</nuxt-link
             ></em
@@ -18,17 +18,24 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            傭兵護甲是一個在5.7版<nuxt-link to="/games/aor"
+            <b>傭兵護甲</b>是一個在5.7版<nuxt-link to="/games/aor"
               >《世紀帝國II:王者崛起》</nuxt-link
-            >新增的防禦裝甲類別，所有在這個系列的兵種都會被剋該護甲的兵種有額外的傷害。
+            >新增的<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            >類別，所有在這個系列的兵種都會被剋該護甲的兵種有額外的傷害。
           </p>
           <p>
-            傭兵的定位是反火藥單位，所以ㄧ開始有10的步兵裝甲去抵消<nuxt-link
-              to="/units/Hand_Cannoneer"
-              >火槍兵</nuxt-link
-            >對步兵單位+10的攻擊加成，可是這樣也讓傭兵對其它反步兵單位例如
+            傭兵的定位是反<nuxt-link to="/units/Gunpowder_Unit"
+              >火藥單位</nuxt-link
+            >，所以一開始有10的<nuxt-link to="/armor/Armor_Class_Infantry"
+              >步兵裝甲</nuxt-link
+            >去抵消<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+            >對<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
+            >+10的攻擊加成，可是這樣也讓傭兵對其它反步兵單位例如
             <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
-            >有減傷效果，因此在5.7版特地新增傭兵護甲這個分類，強調傭兵反火藥單位的特性同時其它對步兵有加成的單位對傭兵也有一樣的攻擊加成
+            >有減傷效果，因此在5.7版特地新增傭兵護甲這個分類，強調傭兵反火藥單位的特性同時其它對<nuxt-link
+              to="/armor/Armor_Class_Infantry"
+              >步兵</nuxt-link
+            >有加成的單位對傭兵也有一樣的攻擊加成
           </p>
         </div>
         <h3>傭兵</h3>

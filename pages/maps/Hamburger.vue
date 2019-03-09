@@ -10,10 +10,39 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在漢堡包上玩家一開始在中間島上被一排樹木隔開。島上有幾個巨大的金礦和石礦。島外有一條護城河，裡面有豐富的魚類資源。地圖的外緣是沒有任何食物來源的土地，但會有許多由金，石頭和木頭組成的小塊區域。遺跡也散落在外圍。玩家必須盡快往外發展經濟，並在被敵人困住之前離開主島。
+            在<b>漢堡包</b>上玩家一開始在中間島上被一排樹木隔開。島上有幾個巨大的金礦和<nuxt-link
+              to="/resource/Stone"
+              >石礦</nuxt-link
+            >。島外有一條護城河，裡面有豐富的<nuxt-link to="/units/animal/fish"
+              >魚類</nuxt-link
+            >資源。地圖的外緣是沒有任何<nuxt-link to="/resource/Food"
+              >食物</nuxt-link
+            >來源的土地，但會有許多由金，<nuxt-link to="/resource/Stone"
+              >石頭</nuxt-link
+            >和<nuxt-link to="/resource/Wood">木頭</nuxt-link
+            >組成的小塊區域。<nuxt-link to="/Relic">遺跡</nuxt-link
+            >也散落在外圍。玩家必須盡快往外發展經濟，並在被敵人困住之前離開主島。
           </p>
           <p>
-            早期的遊戲最好專注花在收集主島上的可用資源。起始島只有一條木線，因此建議快速入封建時代建造箭塔阻止對手採集木材，迫使他們要麼度過護城河往外發展，要麼交易他們的資源。玩家應發展水上經濟並建造戰艦騷擾對手的捕魚經濟，並阻止他們將村民運送到護城河外擴張地盤。在這張地圖有免費箭塔升級的韓國人，有便宜箭塔的印加人，擁有額外箭塔視線的衣索比亞人，時代演進快速的馬來人，以及日本人更強大的漁船和更便宜的經濟建築都是不錯的文明。
+            早期的遊戲最好專注花在收集主島上的可用資源。起始島只有一條木線，因此建議快速入<nuxt-link
+              to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >建造<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            >阻止對手採集<nuxt-link to="/resource/Wood">木材</nuxt-link
+            >，迫使他們要麼度過護城河往外發展，要麼交易他們的資源。玩家應發展水上經濟並建造戰艦騷擾對手的捕魚經濟，並阻止他們將<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >運送到護城河外擴張地盤。在這張地圖有免費箭塔升級的<nuxt-link
+              to="/civs/Koreans"
+              >韓國人</nuxt-link
+            >，有便宜箭塔的<nuxt-link to="/civs/Incas">印加人</nuxt-link
+            >，擁有額外箭塔視線的<nuxt-link to="/civs/Ethiopians"
+              >衣索比亞人</nuxt-link
+            >，時代演進快速的<nuxt-link to="/civs/Malay">馬來人</nuxt-link
+            >，以及<nuxt-link to="/civs/Japanese">日本人</nuxt-link
+            >更強大的<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+            >和更便宜的經濟<nuxt-link to="/building">建築</nuxt-link
+            >都是不錯的<nuxt-link to="/civs">文明</nuxt-link>。
           </p>
         </div>
         <div class="row">

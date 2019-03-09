@@ -8,15 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            連弩兵是中國的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>連弩兵</b>是<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。連弩兵一個可在短時間內發射數支箭矢的單位，攻擊時只有第一支箭矢有完整傷害，第二和第三則造成3的遠程傷害和0的近戰傷害。連弩兵一次射三支箭，精銳則是一次五支。
+            >中訓練。連弩兵一個可在短時間內發射數支箭矢的單位，攻擊時只有第一支箭矢有完整傷害，第二和第三則造成3的<nuxt-link
+              to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >傷害和0的近戰傷害。連弩兵一次射三支箭，精銳則是一次五支。
           </p>
           <p>
             連弩兵可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳連弩兵。
+            >升級為<nuxt-link to="/units/Chu_Ko_Nu">精銳連弩兵</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,30 +28,45 @@
         <div class="n1">
           <ul>
             <li>
-              連弩兵通常會與僧侶、<nuxt-link to="/units/Scorpion"
-                >弩砲</nuxt-link
-              >和村民做前線的快攻，它們足以應付任何情況，即便是面對<nuxt-link
+              連弩兵通常會與<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >、<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>和<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >做前線的快攻，它們足以應付任何情況，即便是面對<nuxt-link
                 to="/units/War_Elephant"
                 >戰象</nuxt-link
-              >或條頓武士。搭配步兵也很不錯。連弩兵駐紮在城堡中時城堡的攻擊力只會有些許增加。一群的連弩兵對
+              >或<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >。搭配<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >也很不錯。連弩兵駐紮在<nuxt-link to="/building/Castle"
+                >城堡</nuxt-link
+              >中時城堡的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >只會有些許增加。一群的連弩兵對
               <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
               >的攻擊仍舊可以快速的摧毀<nuxt-link to="/units/Battering_Ram"
                 >衝撞車</nuxt-link
               >(想像一整排箭飛過來的樣子)。
             </li>
             <li>
-              連弩兵對有遠程護甲的單位(如<nuxt-link to="/units/Battering_Ram"
-                >衝撞車</nuxt-link
-              >)的傷害比一般弓兵來得高，因為他們攻擊的次數多，累積起來傷害量還是很可觀。但是，他們仍然要盡量避免對弓箭手有加成攻擊的單位(例如
+              連弩兵對有<nuxt-link to="/armor">遠程護甲</nuxt-link
+              >的單位(如<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >)的傷害比一般<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >來得高，因為他們攻擊的次數多，累積起來傷害量還是很可觀。但是，他們仍然要盡量避免對<nuxt-link
+                to="/units/Archer"
+                >弓箭手</nuxt-link
+              >有加成攻擊的單位(例如
               <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
-              >)，或是射程比連弩兵遠可以用打帶跑戰術消耗血量的弓兵單位作戰。
+              >)，或是射程比連弩兵遠可以用打帶跑戰術消耗<nuxt-link
+                to="/elements/Hit_points"
+                >血量</nuxt-link
+              >的<nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link>作戰。
             </li>
             <li>
               <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
-              >、射程比它們遠的弓兵，一群的重裝騎兵、<nuxt-link
-                to="/units/Huskarl"
-                >哥德衛隊</nuxt-link
-              >、 <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
+              >、射程比它們遠的弓兵，一群的重裝<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >、<nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link>、
+              <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>、<nuxt-link
                 to="/units/Mangonel"
                 >投石車</nuxt-link
               >都是連弩兵很大的威脅。
@@ -209,7 +228,9 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -336,7 +357,8 @@
               </div>
             </div>
           </div>
-          以下團隊加分可讓以下單位對連弩兵有額外攻擊力
+          以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+          >可讓以下單位對連弩兵有額外攻擊力
           <div class="n1">
             <nuxt-link to="/civs/Persians">波斯</nuxt-link
             >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -366,7 +388,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對連弩兵有利的科技在城堡/帝王時代花費便宜15%/20%。
+              >：對連弩兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -390,7 +415,10 @@
               >研發時間快20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：連弩兵視野+2。。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：連弩兵<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >+2。。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -446,25 +474,37 @@
         <div class="n1">
           <ul>
             <li>
-              中國弩的另一個意思是"諸葛連弩"，意思是可連續發射箭矢的弩，諸葛是指中國三國時代的名策略家諸葛亮。不過中國人比較常說"連弩"勝過"諸葛弩"。
+              中國弩的另一個意思是"諸葛連弩"，意思是可連續發射箭矢的弩，諸葛是指中國三國時代的名策略家諸葛亮。不過<nuxt-link
+                to="/civs/Chinese"
+                >中國人</nuxt-link
+              >比較常說"連弩"勝過"諸葛弩"。
             </li>
             <li>
               連弩其實在諸葛亮出生前的兩百年就有使用紀錄，只是諸葛亮將其改良並用於戰爭上。
             </li>
             <li>
-              實際連弩的射速率約為每三秒射出兩支箭，使其成為在1800年以後機關槍發明之前存在發射速度最快的武器。
+              實際連弩的<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+              >率約為每三秒射出兩支箭，使其成為在1800年以後機關槍發明之前存在發射速度最快的武器。
             </li>
             <li>
-              連弩的額外箭矢可以造成0點近戰傷害以及3點遠程傷害。通常這沒甚麼作用，但是因為衝撞車有-3近戰護甲，每個重複的箭實際上造成3的傷害，而不是1的傷害。這使得連弩兵成為最好的反制衝撞車的單位之一。精英連弩兵每次攻擊可以對衝撞車造成16的傷害。
+              連弩的額外箭矢可以造成0點近戰傷害以及3點遠程傷害。通常這沒甚麼作用，但是因為<nuxt-link
+                to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >有-3近戰護甲，每個重複的箭實際上造成3的傷害，而不是1的傷害。這使得連弩兵成為最好的反制衝撞車的單位之一。精英連弩兵每次攻擊可以對<nuxt-link
+                to="/armor/Armor_Class_Ram"
+                >衝撞車</nuxt-link
+              >造成16的傷害。
             </li>
             <li>
               中國軍事作家曾說連弩的火力太弱實在無法座位戰鬥使用，應該是民間家庭對付野生動物用。儘管如此，有報導稱，在1894年的第一次中日戰爭之前，人們仍有使用連弩的紀錄。。
             </li>
             <li>
-              連弩兵的精銳升級黃金成本是所有單位中第二貴的，只輸給精銳戰象的1200金。不過<nuxt-link
-                to="/civs/Chinese"
-                >中國</nuxt-link
-              >的文明加成可以將其降低到760金。
+              連弩兵的精銳升級<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本是所有單位中第二貴的，只輸給<nuxt-link
+                to="/units/War_Elephant"
+                >精銳戰象</nuxt-link
+              >的1200金。不過<nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >的<nuxt-link to="/civs">文明</nuxt-link>加成可以將其降低到760金。
             </li>
             <li>連弩兵的攻擊即便目標就站在面前還是有可能打不到。</li>
             <li>
@@ -555,7 +595,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">40</td>
           </tr>
           <tr>
@@ -587,11 +629,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">3.65/3.84(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">3</td>
           </tr>
           <tr>
@@ -607,11 +653,11 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -650,7 +696,7 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />760食物760黃金
+              />760<nuxt-link to="/resource/Food">食物</nuxt-link>760黃金
             </td>
           </tr>
           <tr>

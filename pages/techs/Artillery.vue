@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            砲兵是<nuxt-link to="/civs/Turks">土耳其</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>砲兵</b>是<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Bombard_Tower"
@@ -24,8 +24,11 @@
         <div class="n1">
           <ul>
             <li>
-              砲兵讓土耳其火砲塔的攻擊距離可打到敵隊火砲。土耳其的<nuxt-link
-                to="/units/Elite_Cannon_Galleon"
+              砲兵讓<nuxt-link to="/civs/Turks">土耳其</nuxt-link
+              ><nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+              >的攻擊距離可打到敵隊<nuxt-link to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >。土耳其的<nuxt-link to="/units/Elite_Cannon_Galleon"
                 >精銳火砲戰船</nuxt-link
               >有遊戲中最遠的射程(與有
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
@@ -47,7 +50,15 @@
         </div>
         <h3>豆知識</h3>
         <div class="hrn1"></div>
-        <div class="n1"><p>砲兵是唯一成本需要黃金和石頭的科技。</p></div>
+        <div class="n1">
+          <p>
+            砲兵是唯一成本需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >和<nuxt-link to="/resource/Stone">石頭</nuxt-link>的<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >。
+          </p>
+        </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -79,7 +90,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>
             </td>
@@ -127,7 +138,11 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">火砲塔、火砲；火砲戰船射程+2。</td>
+            <td class="unit4">
+              火砲塔、火砲；<nuxt-link to="/units/Cannon_Galleon"
+                >火砲戰船</nuxt-link
+              >射程+2。
+            </td>
           </tr>
         </table>
 

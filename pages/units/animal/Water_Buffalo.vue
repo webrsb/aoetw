@@ -8,16 +8,32 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          水牛在《世紀帝國 II HD:
-          王者崛起》出現，是可馴化的動物，水牛主要出現在東南亞地圖上。水牛是一種大而笨重的動物，可提供150肉，比山羊和綿羊多50，跟乳牛則平手。但是不像乳牛，水牛只有7HP(乳牛14HP)，這讓牠很容易成為敵方斥候騎兵的目標一刀砍死。
+          <b>水牛</b>在<nuxt-link to="/games/aor"
+            >《世紀帝國 II HD:王者崛起》</nuxt-link
+          >出現，是可馴化的動物，水牛主要出現在東南亞地圖上。水牛是一種大而笨重的動物，可提供150肉，比<nuxt-link
+            to="/units/animal/Goat"
+            >山羊</nuxt-link
+          >和<nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
+          >多50，跟<nuxt-link to="/units/animal/Cow">乳牛</nuxt-link
+          >則平手。但是不像乳牛，水牛只有7HP(乳牛14HP)，這讓牠很容易成為敵方<nuxt-link
+            to="/units/Scout_Cavalry"
+            >斥候騎兵</nuxt-link
+          >的目標一刀砍死。
         </p>
         <h3>文明優勢</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>不列顛:殺水牛效率快20％</li>
-            <li>馬雅:額外多取20%的肉量</li>
-            <li>塞爾特：單位視野內，無法被偷水牛</li>
+            <li>
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>:殺水牛效率快20％
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多取20%的肉量
+            </li>
+            <li>
+              塞爾特：單位<nuxt-link to="/los.php">視野</nuxt-link
+              >內，無法被偷水牛
+            </li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -59,11 +75,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物量</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>量
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">7</td>
           </tr>
         </table>

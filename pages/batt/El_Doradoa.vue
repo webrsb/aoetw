@@ -37,15 +37,30 @@
           <div class="row">
             <div class="col-md-12">
               <p>
-                黃金國戰役由4個關卡組成。玩家扮演的是西班牙人(第一關)，印加人(第2.3.4關)顏色是藍色的。
+                黃金國戰役由4個關卡組成。玩家扮演的是<nuxt-link
+                  to="/civs/Spanish"
+                  >西班牙人</nuxt-link
+                >(第一關)，<nuxt-link to="/civs/Incas">印加人</nuxt-link
+                >(第2.3.4關)顏色是藍色的。
               </p>
             </div>
             <div class="col-md-6">
               <ol>
-                <li>黃金國的傳說(西班牙人)</li>
-                <li>分離告別(印加人)</li>
-                <li>亞馬遜族(印加人)</li>
-                <li>食人族(印加人)</li>
+                <li>
+                  <nuxt-link to="/batt/Tales_of_La_Canela"
+                    >黃金國的傳說</nuxt-link
+                  >(西班牙人)
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Split">分離告別</nuxt-link>(印加人)
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link
+                  >(印加人)
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Cannibals">食人族</nuxt-link>(印加人)
+                </li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -59,9 +74,15 @@
             <p>黃金國戰役的其他資訊</p>
             <ul>
               <li>
-                此戰役章節為失落帝國團隊於2014年3月5日於3.3補丁新增的劇情戰役，原本預計為失落帝國首發的5個官方戰役之一，但直到2014年補丁才完成。
+                此<nuxt-link to="/batt">戰役</nuxt-link>章節為<nuxt-link
+                  to="/games/aof"
+                  >失落帝國</nuxt-link
+                >團隊於2014年3月5日於3.3補丁新增的劇情戰役，原本預計為失落帝國首發的5個官方戰役之一，但直到2014年補丁才完成。
               </li>
-              <li>此戰役於蒙特蘇馬戰役後，第2篇同為美洲大陸為故事的戰役。</li>
+              <li>
+                此戰役於<nuxt-link to="/batt/Montezumaa">蒙特蘇馬戰役</nuxt-link
+                >後，第2篇同為美洲大陸為故事的戰役。
+              </li>
             </ul>
           </div>
         </div>
@@ -97,14 +118,18 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">西班牙/印加</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              西班牙/<nuxt-link to="/civs/Incas">印加</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">英雄</td>
+            <td class="unit3"><nuxt-link to="/units/hero">英雄</nuxt-link></td>
             <td class="unit4">法蘭西斯科·德·奧雷亞納</td>
           </tr>
           <tr>

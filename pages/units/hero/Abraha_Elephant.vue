@@ -8,14 +8,27 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            阿伯拉哈（？－553年），是非洲王國地圖編輯器中的一位英雄單位。歷史上，是西元500年代的南阿拉比亞國的國王，他是該國歷史文獻上在位最長的君主，曾大力擴充軍力，並於在位期間攻打聖城麥加，不過因為所屬軍隊多染天花惡疾，未能攻下麥加。
+            <b>阿伯拉哈</b>（？－553年），是<nuxt-link to="/games/ak"
+              >非洲王國</nuxt-link
+            >地圖編輯器中的一位<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位。歷史上，是西元500年代的南阿拉比亞國的國王，他是該國歷史文獻上在位最長的君主，曾大力擴充軍力，並於在位期間攻打聖城麥加，不過因為所屬軍隊多染天花惡疾，未能攻下麥加。
           </p>
         </div>
         <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            阿伯拉哈外表是戰象，因為他入侵麥加時使用了數百隻戰象。像其他騎兵部隊一樣，他受到所有影響騎兵升級的科技加乘。也和其他英雄一樣，不能被招降且能自己回血。而且他是全遊戲近戰單挑最強的單位。
+            <b>阿伯拉哈</b>外表是<nuxt-link to="/units/War_Elephant"
+              >戰象</nuxt-link
+            >，因為他入侵麥加時使用了數百隻戰象。像其他<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >部隊一樣，他受到所有影響騎兵升級的<nuxt-link to="/techs"
+              >科技</nuxt-link
+            >加乘。也和其他英雄一樣，不能被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >且能自己<nuxt-link to="/Regeneration">回血</nuxt-link
+            >。而且他是全遊戲近戰單挑最強的單位。
           </p>
         </div>
         <h3>芝麻小事</h3>
@@ -31,7 +44,9 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
               <div class="unititle2">
-                阿伯哈拉戰象
+                <nuxt-link to="/units/hero/Abraha_Elephant"
+                  >阿伯哈拉戰象</nuxt-link
+                >
               </div>
             </td>
           </tr>
@@ -61,7 +76,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">750</td>
           </tr>
           <tr>
@@ -70,7 +87,14 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">+15vs建築物 <br />+15vs石頭建築</td>
+            <td class="unit4">
+              +15vs<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >
+              <br />+15vs<nuxt-link to="/armor/Armor_Class_stone_defense"
+                >石頭建築</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">波及範圍</td>
@@ -78,29 +102,38 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4"><br />騎兵 <br />戰象 <br />特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_War_Elephant"
+                >戰象</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">0.7</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
         </table>

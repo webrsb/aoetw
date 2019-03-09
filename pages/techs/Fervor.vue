@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            宗教狂熱可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>宗教狂熱</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>研發，可讓
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
@@ -25,7 +25,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -80,14 +82,20 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：研發該科技給與僧侶+5HP。
+              >：研發該<nuxt-link to="/techs">科技</nuxt-link>給與<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >+5HP。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -104,13 +112,21 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>宗教狂熱因為bug的關係只適用於拿著遺跡的僧侶。</li>
+            <li>
+              宗教狂熱因為bug的關係只適用於拿著<nuxt-link to="/Relic"
+                >遺跡</nuxt-link
+              >的僧侶。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>宗教狂熱的bug已修正，另外也適用於傳教士身上。</li>
+            <li>
+              宗教狂熱的bug已修正，另外也適用於<nuxt-link to="/units/Missionary"
+                >傳教士</nuxt-link
+              >身上。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
@@ -176,7 +192,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">140</td>
           </tr>
           <tr>

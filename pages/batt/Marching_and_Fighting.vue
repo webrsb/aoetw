@@ -9,8 +9,8 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>行軍與戰鬥</b
-            >是華勒斯教學戰役的第一個劇情關卡，此關專門為那些以前從未玩過世紀帝國系列的玩家設計。
+            <b>行軍與戰鬥</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
+            >的第一個劇情關卡，此關專門為那些以前從未玩過世紀帝國系列的玩家設計。
           </p>
           <p>此關將教導玩家控制單位和攻擊戰術的基本。</p>
         </div>
@@ -21,7 +21,9 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">黑暗時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
               <td class="tc2">無</td>
               <td class="tc1" width="14%">人口上限：</td>
@@ -47,13 +49,19 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
-              <td class="tc6">英格蘭（紅色）不列顛</td>
+              <td class="tc6">
+                英格蘭（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <p></p>
-          <p>開場：1位民兵。</p>
-          <p>大地之母單位：2位民兵、1位騎士。</p>
+          <p>開場：1位<nuxt-link to="/units/Militia">民兵</nuxt-link>。</p>
+          <p>
+            大地之母單位：2位民兵、1位<nuxt-link to="/units/Knight"
+              >騎士</nuxt-link
+            >。
+          </p>
           <h3>主要任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -73,14 +81,26 @@
           <div class="hrn1"></div>
           <ol>
             <li>
-              雖然玩家在黑暗時代，大地之母村莊是封建時代。但玩家不能從市鎮中心生產村民（儘管秘技仍然有效）。
+              雖然玩家在黑暗時代，大地之母村莊是<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >。但玩家不能從<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >生產<nuxt-link to="/units/Villager">村民</nuxt-link
+              >（儘管秘技仍然有效）。
             </li>
             <li>
               在地圖的東邊，在無法到達的樹林外方，“ES”這個詞寫在草地上，這可能是對Ensemble
               Studios的一種敬意。
             </li>
             <li>
-              玩家的民兵以近防＋1／遠防＋2護甲作為開始，這是塞爾特人無法達到的黑暗時代步兵裝甲。
+              玩家的民兵以<nuxt-link to="/armor">近防</nuxt-link>＋1／<nuxt-link
+                to="/armor"
+                >遠防</nuxt-link
+              >＋2護甲作為開始，這是塞爾特人無法達到的黑暗時代<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵裝甲</nuxt-link
+              >。
             </li>
             <li>在整個遊戲中，速度不能改變。</li>
             <li>
@@ -113,7 +133,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -122,7 +144,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
             </td>

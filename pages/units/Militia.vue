@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            民兵是步兵單位，可以在<nuxt-link to="/building/Barracks"
-              >軍營</nuxt-link
-            >被訓練。
+            <b>民兵</b>是<nuxt-link to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >，可以在<nuxt-link to="/building/Barracks">軍營</nuxt-link>被訓練。
           </p>
         </div>
         <h3>戰術</h3>
@@ -19,7 +19,10 @@
           <p>
             民兵，在亞洲華人圈俗稱棒棒，是<nuxt-link to="/techs/age/Dark_Age"
               >黑暗時代</nuxt-link
-            >唯一能生產的軍事單位，早年大家覺得民兵沒什麼用處，但隨著時代的變遷，今天的民兵已經變成一種主流打法，控制得宜可以有效的騷擾對方經濟，取得非常大的優勢。以步兵為主的文明，如
+            >唯一能生產的軍事單位，早年大家覺得民兵沒什麼用處，但隨著時代的變遷，今天的民兵已經變成一種主流打法，控制得宜可以有效的騷擾對方經濟，取得非常大的優勢。以<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >為主的<nuxt-link to="/civs">文明</nuxt-link>，如
             <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>、
             <nuxt-link to="/civs/Goths">哥德</nuxt-link>、
             <nuxt-link to="/civs/Japanese">日本</nuxt-link>和
@@ -58,7 +61,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -103,19 +108,19 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
-              >:步兵單位有踐踏傷害，<nuxt-link to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >限定。 <br />
+              >:步兵單位有<nuxt-link to="/elements/Area_of_Effect"
+                >踐踏傷害</nuxt-link
+              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。 <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >:步兵對騎兵攻擊+5，對駱駝騎兵攻擊+4，<nuxt-link
-                to="/civs/Vikings"
-                >維京</nuxt-link
-              >限定。
+              >:步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >攻擊+5，對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
+              >攻擊+4，<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定。
             </td>
           </tr>
           <tr>
@@ -156,7 +161,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -167,7 +174,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -198,8 +207,10 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>:<nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -212,9 +223,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Forced_Levy">強制徵兵</nuxt-link
-              >:軍營步兵單位訓練不需花黃金，<nuxt-link to="/civs/Malay"
-                >馬來</nuxt-link
-              >限定。
+              >:軍營步兵單位訓練不需花<nuxt-link to="/resource/Gold"
+                >黃金</nuxt-link
+              >，<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定。
             </td>
           </tr>
         </table>
@@ -222,7 +233,8 @@
         <h3>剋裝甲步兵的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對裝甲步兵的額外傷害，按造傷殺力排列。
+          以下單位擁有對<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
+          >的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -364,19 +376,25 @@
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >：民兵在封建/城堡/帝王時代有 +1/+2/+3攻擊。
+              >：民兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>有
+              +1/+2/+3攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：民兵移動加快15％。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：利於民兵的技術在封建/城堡/帝王時代便宜10％/15％/20％。
+              >：利於民兵的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜10％/15％/20％。
             </li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >：民兵從封建時代開始便宜35％並對<nuxt-link
-                to="/armor/Armor_Class_Building"
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>：民兵從<nuxt-link
+                to="/techs/age/Feudal_Age"
+                >封建時代</nuxt-link
+              >開始便宜35％並對<nuxt-link to="/armor/Armor_Class_Building"
                 >建築物</nuxt-link
               >攻擊+1。研發
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
@@ -397,7 +415,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：民兵在封建/城堡/帝王時代有 +1/+2/+3 遠程護甲。
+              >：民兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代有 +1/+2/+3
+              <nuxt-link to="/armor">遠程護甲</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -413,7 +434,8 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >對長槍兵有利的科技升級不須黃金。
+              >對<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+              >有利的<nuxt-link to="/techs">科技</nuxt-link>升級不須黃金。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
@@ -423,7 +445,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：民兵在封建/城堡/帝王時代加10％/15％/20％的生命值。
+              >：民兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代加10％/15％/20％的<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -460,10 +486,12 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>民兵遠防是0。</li>
+            <li>民兵<nuxt-link to="/armor">遠防</nuxt-link>是0。</li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:在封建/城堡/帝王時代，民兵成本便宜10%/15%/25%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:在封建/<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代，民兵成本便宜10%/15%/25%。
             </li>
           </ul>
           <h3>
@@ -473,8 +501,10 @@
             <li>民兵現在擁有1的遠防。</li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:1.0c後，哥德民兵從封建時代開始便宜35%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:1.0c後，<nuxt-link
+                to="/civs/Goths"
+                >哥德</nuxt-link
+              >民兵從封建時代開始便宜35%。
             </li>
           </ul>
           <h3>
@@ -492,7 +522,8 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:在4.8b版本後，<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >讓民兵對駱駝有額外+2攻擊。
+              >讓民兵對<nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
+              >有額外+2攻擊。
             </li>
           </ul>
           <h3>
@@ -503,7 +534,9 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:5.7版本<nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >科技現在讓民兵對駱駝有額外+4攻擊。
+              >科技現在讓民兵對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >有額外+4攻擊。
             </li>
           </ul>
         </div>
@@ -512,14 +545,24 @@
         <div class="n1">
           <ul>
             <li>民兵是遊戲內唯一，三階以上升級的單位。</li>
-            <li>民兵是黑暗時代唯一的軍事單位。</li>
             <li>
-              馬來的民兵再研發<nuxt-link to="/techs/Forced_Levy"
+              民兵是<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+              >唯一的軍事單位。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>的民兵再研發<nuxt-link
+                to="/techs/Forced_Levy"
                 >強制徵兵</nuxt-link
               >後不用黃金。
             </li>
             <li>
-              民兵是遊戲中少數四個沒有任何攻擊加成的單位。（另外三個是遊俠、貴族鐵騎與龜甲船）。
+              民兵是遊戲中少數四個沒有任何攻擊加成的單位。（另外三個是<nuxt-link
+                to="/units/Paladin"
+                >遊俠</nuxt-link
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>與<nuxt-link
+                to="/units/Turtle_Ship"
+                >龜甲船</nuxt-link
+              >）。
             </li>
           </ul>
         </div>
@@ -622,7 +665,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">40</td>
           </tr>
           <tr>
@@ -630,11 +675,13 @@
             <td class="unit4">4(近戰)</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -642,7 +689,7 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
             </td>

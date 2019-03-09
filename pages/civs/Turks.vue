@@ -8,17 +8,35 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-            >是現世國家土耳其共和國，但實際上現在的土耳其共和國是歷經好幾次遷徙和混合才形成的，和原先的中亞突厥人關係變遠了，土耳其是由突厥人底下分支的烏古斯人塞爾柱間接建立的。之後土耳其歷經了幾次的建立和滅亡在第一次世界大戰後正式變成現今的土耳其共和國，其中最值得一提的就是奧斯曼帝國(1299~1922),毀滅了中世紀最強大的帝國之一的東羅馬帝國，然後將君士坦丁堡改名為伊斯坦堡。
+            <b>土耳其</b
+            >是現世國家土耳其共和國，但實際上現在的土耳其共和國是歷經好幾次遷徙和混合才形成的，和原先的中亞突厥人關係變遠了，土耳其是由突厥人底下分支的烏古斯人塞爾柱間接建立的。之後土耳其歷經了幾次的建立和滅亡在第一次世界大戰後正式變成現今的土耳其共和國，其中最值得一提的就是<nuxt-link
+              to="/units/hero/Osman"
+              >奧斯曼</nuxt-link
+            >帝國(1299~1922),毀滅了中世紀最強大的帝國之一的東羅馬帝國，然後將君士坦丁堡改名為伊斯坦堡。
           </p>
           <p>
-            <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-            >是中東的火藥文明，世紀帝國II的可使用的最初文明之一。他們的特殊單位是<nuxt-link
-              to="/units/Janissary"
-              >土耳其火槍兵</nuxt-link
-            >是城堡時代就能生產的火藥單位。土耳其在十字軍東征裡打贏了許多戰役，也成功滅了東羅馬帝國截斷了歐洲對外的門戶，接著參與了科學和數學，特別是在煉金術領域，後來成為現代化學的骨幹。作為一個伊斯蘭文明，他們以向西方傳播這一知識而著稱。為了體現這一成就金礦工作效率上升、免費化學。這使他們可以立即使用火藥單位。土耳其作為第一個絲綢之路的火藥帝國，為了第一個火藥帝國的強大，火藥單位血量上升、研發火藥相關科技更便宜、<nuxt-link
-              to="/units/Bombard_Cannon"
-              >火炮</nuxt-link
+            <nuxt-link to="/civs/Turks">土耳其</nuxt-link>是中東的<nuxt-link
+              to="/units/Gunpowder_Unit"
+              >火藥文明</nuxt-link
+            >，世紀帝國II的可使用的最初<nuxt-link to="/civs">文明</nuxt-link
+            >之一。他們的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >是<nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link
+            >是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >就能生產的<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+            >。土耳其在十字軍東征裡打贏了許多<nuxt-link to="/batt"
+              >戰役</nuxt-link
+            >，也成功滅了東羅馬帝國截斷了歐洲對外的門戶，接著參與了科學和數學，特別是在煉金術領域，後來成為現代<nuxt-link
+              to="/techs/Chemistry"
+              >化學</nuxt-link
+            >的骨幹。作為一個伊斯蘭文明，他們以向西方傳播這一知識而著稱。為了體現這一成就金礦工作效率上升、免費化學。這使他們可以立即使用火藥單位。土耳其作為第一個<nuxt-link
+              to="/techs/Silk_Road"
+              >絲綢之路</nuxt-link
+            >的<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
+            >帝國，為了第一個火藥帝國的強大，火藥單位<nuxt-link
+              to="/elements/Hit_points"
+              >血量</nuxt-link
+            >上升、研發火藥相關<nuxt-link to="/techs">科技</nuxt-link
+            >更便宜、<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
             >攻擊距離變遠、<nuxt-link to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
             >訓練變快。
@@ -30,10 +48,12 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >因為大量火藥文明加成和帝王時代特殊科技<nuxt-link
-                to="/techs/Artillery"
-                >火砲術</nuxt-link
-              >(<nuxt-link to="/units/Bombard_Cannon">火炮</nuxt-link
+              >因為大量火藥文明加成和<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              ><nuxt-link to="/techs/untech">特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Artillery">火砲術</nuxt-link>(<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火炮</nuxt-link
               >、<nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
               >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
               >攻擊距離+2)，使得土耳其火藥相關的兵種威力更加強大，另外特殊單位<nuxt-link
@@ -53,7 +73,10 @@
                 >弓兵</nuxt-link
               >、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >甚至<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
-              >，但是基於資源消耗的不平衡是不建議的，有免費的輕騎兵/翼騎兵(舊稱<nuxt-link
+              >，但是基於資源消耗的不平衡是不建議的，有免費的<nuxt-link
+                to="/units/Light_Cavalry"
+                >輕騎兵</nuxt-link
+              >/<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(舊稱<nuxt-link
                 to="/units/Hussar"
                 >匈牙利輕騎兵</nuxt-link
               >)可以作為反制使用。
@@ -64,13 +87,21 @@
                 >火炮</nuxt-link
               >可說是遊戲裡最遠的<nuxt-link to="/units/Bombard_Cannon"
                 >火炮</nuxt-link
-              >，條頓城堡擁有全遊戲最遠的射程13(需研發帝王時代特殊科技垛口)，因此除了土耳其火砲(要研發帝王時代特殊科技<nuxt-link
-                to="/techs/Artillery"
+              >，<nuxt-link to="/civs/Teutons">條頓</nuxt-link
+              ><nuxt-link to="/building/Castle">城堡</nuxt-link
+              >擁有全遊戲最遠的射程13(需研發帝王時代特殊科技<nuxt-link
+                to="/techs/Crenellations"
+                >垛口</nuxt-link
+              >)，因此除了土耳其<nuxt-link to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >(要研發帝王時代特殊科技<nuxt-link to="/techs/Artillery"
                 >火砲術</nuxt-link
               >)/<nuxt-link to="/units/Mangonel">投石機</nuxt-link>/<nuxt-link
                 to="/units/Cannon_Galleon"
                 >火砲戰船</nuxt-link
-              >可以無損打到以外，沒有任何的攻城器可無損打到。(為了平衡所以沒有<nuxt-link
+              >可以無損打到以外，沒有任何的<nuxt-link to="/units/Siege_Weapons"
+                >攻城器</nuxt-link
+              >可無損打到。(為了平衡所以沒有<nuxt-link
                 to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
               >)
@@ -89,7 +120,8 @@
                 >重裝馬弓騎兵</nuxt-link
               >(要發明城堡時代特殊科技<nuxt-link to="/techs/Sipahi"
                 >采邑騎兵</nuxt-link
-              >(馬弓騎兵系血量+20)，<nuxt-link to="/armor/Armor_Class_Infantry"
+              >(<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >系血量+20)，<nuxt-link to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
               >系統也只欠缺<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
               >/<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
@@ -100,11 +132,18 @@
               >/<nuxt-link to="/units/Halberdier">戟兵</nuxt-link>/<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
-              >遊戲中的兩大垃圾兵，但是騎兵系統的斥候系列有免費升級，因此在封建打肉馬爆時一進入城堡時代威力會瞬間爆發，除了東南亞獨有<nuxt-link
+              >遊戲中的兩大垃圾兵，但是<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >系統的<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
+              >系列有免費升級，因此在封建打<nuxt-link to="/units/Scout_Cavalry"
+                >肉馬</nuxt-link
+              >爆時一進入城堡時代威力會瞬間爆發，除了東南亞獨有<nuxt-link
                 to="/units/Battle_Elephant"
                 >矛象伕</nuxt-link
-              >/<nuxt-link to="/units/Paladin">遊俠</nuxt-link
-              >(聖騎士)土耳其騎兵系統是有不錯的優勢的。
+              >/<nuxt-link to="/units/Paladin">遊俠</nuxt-link>(聖<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >)土耳其騎兵系統是有不錯的優勢的。
             </li>
             <li>
               海戰系統上除了<nuxt-link to="/units/Fast_Fire_Ship"
@@ -121,14 +160,18 @@
                 >草藥學</nuxt-link
               >/<nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link
               >/<nuxt-link to="/techs/Illumination">啟發教化</nuxt-link
-              >，因此僧侶進攻上有一定難度。
+              >，因此<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >進攻上有一定難度。
             </li>
             <li>
               <nuxt-link to="/units/Gunpowder_Unit">火槍兵</nuxt-link
               >和<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
               >是很吃肉的單位，但是<nuxt-link to="/civs/Turks">土耳其</nuxt-link
               >沒有<nuxt-link to="/techs/Crop_Rotation">輪耕</nuxt-link
-              >因此後期需要更多村民種田來支撐食物的消耗，黃金部分因為有金礦採集速度+20%因此在擁有金礦下是不容易欠黃金的。
+              >因此後期需要更多<nuxt-link to="/units/Villager">村民</nuxt-link
+              >種田來支撐<nuxt-link to="/resource/Food">食物</nuxt-link
+              >的消耗，<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >部分因為有金礦採集速度+20%因此在擁有金礦下是不容易欠黃金的。
             </li>
             <li>
               沒有<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
@@ -136,7 +179,12 @@
               >同盟時不會擁有<nuxt-link to="/units/Imperial_Skirmisher"
                 >帝王戰矛兵</nuxt-link
               >，但是跟<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
-              >同盟時會擁有可以彌補戰矛兵漏洞的標槍騎兵，城堡時代特殊科技采邑騎兵(馬弓騎兵系血量+20)的加成讓土耳其的標槍騎兵會更強大。
+              >同盟時會擁有可以彌補<nuxt-link to="/units/Elite_Skirmisher"
+                >戰矛兵</nuxt-link
+              >漏洞的<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+              >，城堡時代特殊科技<nuxt-link to="/techs/Sipahi"
+                >采邑騎兵</nuxt-link
+              >(馬弓騎兵系血量+20)的加成讓土耳其的標槍騎兵會更強大。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
@@ -192,7 +240,12 @@
                 >匈牙利輕騎兵</nuxt-link
               >)免費升級
             </li>
-            <li><strong>團隊加分:</strong>火藥單位訓練效率+20%</li>
+            <li>
+              <strong
+                ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+                >:</strong
+              >火藥單位訓練效率+20%
+            </li>
           </ul>
         </div>
         <h3>科技樹</h3>
@@ -233,11 +286,17 @@
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >雖說沒有戰矛兵但跟柏柏同盟後這項問題就被解決了。
+              >雖說沒有戰矛兵但跟<nuxt-link to="/civs/Berbers">柏柏</nuxt-link
+              >同盟後這項問題就被解決了。
             </li>
             <li>
-              <nuxt-link to="/civs/Turks">土耳其</nuxt-link
-              >得火砲戰船(研發火砲術)跟遊戲裡攻擊最遠的巨型投石機(研發攻城工程師後)一樣遠。
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>得<nuxt-link
+                to="/units/Cannon_Galleon"
+                >火砲戰船</nuxt-link
+              >(研發火砲術)跟遊戲裡攻擊最遠的<nuxt-link to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
+              >(研發<nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
+              >後)一樣遠。
             </li>
           </ul>
         </div>
@@ -257,7 +316,9 @@
                 <img src="~assets/Gentile_Bellini.jpg" width="300" alt="" />
                 <p>
                   <em
-                    >穆罕默德二世，也被稱為征服者穆罕默德，滅亡東羅馬帝國的蘇丹</em
+                    >穆罕默德二世，也被稱為<nuxt-link to="/units/Conquistador"
+                      >征服者</nuxt-link
+                    >穆罕默德，滅亡東羅馬帝國的蘇丹</em
                   >
                 </p>
               </div>
@@ -274,7 +335,9 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">火藥</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">
@@ -289,7 +352,11 @@
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">封建肉馬、帝快火藥部隊</td>
+            <td class="unit4">
+              封建肉馬、帝快<nuxt-link to="/units/Gunpowder_Unit"
+                >火藥</nuxt-link
+              >部隊
+            </td>
           </tr>
           <tr>
             <td class="unit3">

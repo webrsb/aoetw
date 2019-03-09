@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於戰象系裝甲的。而關於戰象單位這個兵種的資料請參見<nuxt-link
+            >這篇文章是將有關於<strong>戰象系裝甲</strong>的。而關於戰象單位這個兵種的資料請參見<nuxt-link
               to="/units/War_Elephant"
               >戰象</nuxt-link
             ></em
@@ -18,7 +18,8 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            戰象系是一個防禦裝甲類別，所有在這個系列的兵種都會被剋戰象系的兵種有額外的傷害。
+            <strong>戰象系裝甲</strong
+            >是一個防禦裝甲類別，所有在這個系列的兵種都會被剋戰象系的兵種有額外的傷害。
           </p>
         </div>
         <h3>戰象系單位</h3>

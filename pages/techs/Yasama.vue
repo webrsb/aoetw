@@ -8,12 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            射箭孔是<nuxt-link to="/civs/Japanese">日本</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>射箭孔</b>是<nuxt-link to="/civs/Japanese">日本</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後箭塔多射兩支箭。
+            >研發。研發後<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+            >多射兩支箭。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,13 +21,16 @@
         <div class="n1">
           <ul>
             <li>
-              射箭孔讓日本的箭塔宛如小型城堡。是一個用於防守上很好的技術。結合日本的另一個可讓<nuxt-link
+              射箭孔讓<nuxt-link to="/civs/Japanese">日本</nuxt-link
+              >的箭塔宛如小型<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >。是一個用於防守上很好的技術。結合日本的另一個可讓<nuxt-link
                 to="/units/Trebuchet"
                 >巨型投石機</nuxt-link
               >快速拆解和組裝特殊科技
               <nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link
               >，可以創造一個強大的防禦組合。
-              巨型投石機在城堡的保護下是一個很好的防禦工具，但是再加幾個箭塔防禦會更強。雖然它們還遠不及城堡那樣的火力強大。
+              <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+              >在城堡的保護下是一個很好的防禦工具，但是再加幾個箭塔防禦會更強。雖然它們還遠不及城堡那樣的火力強大。
             </li>
           </ul>
         </div>
@@ -94,7 +97,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Japanese">日本</nuxt-link>
             </td>
@@ -128,11 +131,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

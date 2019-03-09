@@ -8,12 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            建築學可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>建築學</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
-            >研發。研發後所有
-            <nuxt-link to="/building"></nuxt-link
-            >建築(除了石牆和城門外)都獲得+10% HP、+1近防、+1遠防和+3建築護甲。
+            >研發。研發後所有 <nuxt-link to="/building"></nuxt-link
+            ><nuxt-link to="/building">建築</nuxt-link>(除了<nuxt-link
+              to="/building/Stone_Wall"
+              >石牆</nuxt-link
+            >和<nuxt-link to="/building/Gate">城門</nuxt-link>外)都獲得+10%
+            HP、+1<nuxt-link to="/armor">近防</nuxt-link>、+1<nuxt-link
+              to="/armor"
+              >遠防</nuxt-link
+            >和+3建築護甲。
           </p>
           <p>
             建築護甲無法對所有對建築有額外加成的攻擊做減傷計算，它只能對<nuxt-link
@@ -33,8 +39,12 @@
           </p>
           <p>
             若同時擁有建築學和<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-            >的文明建築物會得到總共+20%
-            HP、+2近防、+2遠防和+6建築護甲。雖然拜占庭沒有以上兩種科技，但他們的文明利益讓他們的建築物是遊戲中血最多但卻不是最堅固的。
+            >的<nuxt-link to="/civs">文明</nuxt-link
+            ><nuxt-link to="/building">建築物</nuxt-link>會得到總共+20%
+            HP、+2近防、+2遠防和+6建築護甲。雖然<nuxt-link to="/civs/Byzantines"
+              >拜占庭</nuxt-link
+            >沒有以上兩種<nuxt-link to="/techs">科技</nuxt-link
+            >，但他們的文明利益讓他們的建築物是遊戲中血最多但卻不是最堅固的。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -99,8 +109,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在帝王時代花費便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >花費便宜20%。
             </li>
           </ul>
         </div>
@@ -152,7 +164,9 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">科技介紹</div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
@@ -198,11 +212,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

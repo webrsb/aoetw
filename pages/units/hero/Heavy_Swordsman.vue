@@ -8,7 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            世紀帝國1中出現的步兵兵種，功能類似于世紀帝國2中的劍兵勇士，只出現在游戲的地圖編輯器中重劍兵對戰騎兵部隊時并不吃虧，但是重劍兵的移動速度緩慢，非常懼怕遠距離部隊。很顯然緩慢的移動速度使得這個兵種早期也較容易被僧侶欺負。
+            世紀帝國1中出現的<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >兵種，功能類似于世紀帝國2中的<nuxt-link to="/units/Champion"
+              >劍兵勇士</nuxt-link
+            >，只出現在游戲的地圖編輯器中<b>重劍兵</b>對戰<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >部隊時並不吃虧，但是重劍兵的移動速度緩慢，非常懼怕遠距離部隊。很顯然緩慢的移動速度使得這個兵種早期也較容易被<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >欺負。
           </p>
         </div>
         <div class="n1">
@@ -41,7 +51,9 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">步兵<br /></td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
@@ -53,7 +65,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>
@@ -65,23 +79,25 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">0.95</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>

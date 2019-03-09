@@ -25,9 +25,17 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">城堡時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">木頭300，食物400，黃金300，石頭250</td>
+              <td class="tc2">
+                <nuxt-link to="/resource/Wood">木頭</nuxt-link>300，<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >400，<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >300，<nuxt-link to="/resource/Stone">石頭</nuxt-link>250
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">100</td>
             </tr>
@@ -43,21 +51,30 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p1">玩家1</div></td>
-              <td class="tc6" colspan="3">法蘭克（藍色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>（藍色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #ffd700;">同盟</td>
             </tr>
             <tr>
               <td class="tc6" width="10%"><div class="p5">玩家2</div></td>
-              <td class="tc6" width="40%">哈拉爾.哈德拉達（水藍色）維京</td>
+              <td class="tc6" width="40%">
+                哈拉爾.哈德拉達（水藍色）<nuxt-link to="/civs/Vikings"
+                  >維京</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#2980b9;">敵對</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家3</div></td>
-              <td class="tc6">撒克遜海軍（紅色）哥德</td>
+              <td class="tc6">
+                撒克遜<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
+                >（紅色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
+              </td>
               <td class="tc6"><div class="p8">玩家4</div></td>
               <td class="tc6">撒克遜人哈樂德（橘色）哥德</td>
             </tr>
@@ -71,9 +88,21 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場：</dt>
-            <dd>輕騎兵x1、騎士x2、村民x5、征服者威廉。</dd>
-            <dt>出場英雄：</dt>
-            <dd>征服者威廉、哈拉爾.哈德拉達。</dd>
+            <dd>
+              <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >x1、<nuxt-link to="/units/Knight">騎士</nuxt-link>x2、<nuxt-link
+                to="/units/Villager"
+                >村民</nuxt-link
+              >x5、<nuxt-link to="/units/hero/William_the_Conqueror"
+                >征服者威廉</nuxt-link
+              >。
+            </dd>
+            <dt>出場<nuxt-link to="/units/hero">英雄</nuxt-link>：</dt>
+            <dd>
+              征服者威廉、<nuxt-link to="/units/hero/Harold_Haardraade"
+                >哈拉爾.哈德拉達</nuxt-link
+              >。
+            </dd>
             <dt>大地之母單位：</dt>
             <dd>無。</dd>
           </dl>
@@ -82,14 +111,23 @@
           <div class="n1">
             <ol>
               <li>征服者威廉必須生還。</li>
-              <li>摧毀薩克遜的哈樂得城堡（橙色）來征服英格蘭。</li>
+              <li>
+                摧毀薩克遜的哈樂得<nuxt-link to="/building/Castle"
+                  >城堡</nuxt-link
+                >（橙色）來征服英格蘭。
+              </li>
             </ol>
           </div>
           <h3>次要任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>把運輸船派到北方，去搭載哈拉爾.哈德拉達的維京人狂暴戰士。</li>
+              <li>
+                把<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+                >派到北方，去搭載哈拉爾.哈德拉達的<nuxt-link to="/units/Berserk"
+                  >狂戰士</nuxt-link
+                >。
+              </li>
             </ol>
           </div>
           <h3>任務提示</h3>
@@ -108,7 +146,10 @@
                 諾曼人（藍色）有一個大城市建議在法蘭克，它們領土可以讓敵人自由進入，哈樂德的偷襲部隊（黃色）可能隨時進攻。
               </li>
               <li>
-                薩克遜海軍（紅色）企圖擊退挪威的運輸船，或使用槳帆戰船威嚇哈樂德的陸軍，在攻打倫敦附近的薩克遜德哈羅的城堡之前，妳可以先試著打敗北到南的薩克遜海軍造船所。
+                薩克遜海軍（紅色）企圖擊退挪威的運輸船，或使用<nuxt-link
+                  to="/units/War_Galley"
+                  >槳帆戰船</nuxt-link
+                >威嚇哈樂德的陸軍，在攻打倫敦附近的薩克遜德哈羅的城堡之前，妳可以先試著打敗北到南的薩克遜海軍碼頭。
               </li>
               <li>
                 哈樂德哈左德手下的維京人（水藍色）是可變因素，他們會與薩克遜德哈樂德作戰。
@@ -129,14 +170,20 @@
             </li>
             <li>
               當你擊敗黃色後，青色維京人會轉變它的立場加入你
-              ，你會擁有一支狂戰是和英雄。
+              ，你會擁有一支狂戰士和英雄。
             </li>
-            <li>你需要用運輸船代送它們到達我方陣地他將會給你一些黃金。</li>
+            <li>你需要用運輸船載送它們到達我方陣地並且他將會給你一些黃金。</li>
             <li>
-              由於對方海軍會重中攔截我方運輸船需要一些海軍幫忙護送我方軍隊，建議可以從南邊登岸，那裡除了有黃金、石頭還有木材，可以做為小基地往上方進攻。
+              由於對方海軍會從中攔截我方運輸船需要一些海軍幫忙護送我方軍隊，建議可以從南邊登岸，那裡除了有黃金、石頭還有<nuxt-link
+                to="/resource/Wood"
+                >木材</nuxt-link
+              >，可以做為小基地往上方進攻。
             </li>
             <li>
-              由於他們防衛並沒有很難突破，只需要狂戰士加上巨型頭石車即可進攻，保護好投石車不被哥德攻擊，即可順利過關。
+              由於他們防衛並沒有很難突破，只需要狂戰士加上<nuxt-link
+                to="/units/Trebuchet"
+                >巨型投石機</nuxt-link
+              >即可進攻，保護好投石機不被哥德部隊攻擊，即可順利過關。
             </li>
           </ul>
           <h3>遊戲內細節</h3>
@@ -146,19 +193,25 @@
               黃色部隊很分散，如果你需要外出採及資源最好有一隻小部隊先去探路。
             </li>
             <li>
-              當你進攻完黃色後可直接在那建造碼頭生產運輸船，幫忙運送狂戰士以及我方軍隊，從南方登岸進攻。
+              當你進攻完黃色後可直接在那建造<nuxt-link to="/building/Dock"
+                >碼頭</nuxt-link
+              >生產運輸船，幫忙運送狂戰士以及我方軍隊，從南方登岸進攻。
             </li>
             <li>
-              由於南方的防禦相較於比較薄弱，大軍壓境紅色基本上無法防守，這時候可以派巨型投石車往橘色敵營的門口進行攻擊。
+              由於南方的防禦相較於比較薄弱，大軍壓境紅色基本上無法防守，這時候可以派巨型投石機往橘色敵營的門口進行攻擊。
             </li>
             <li>
               小心哥德這時候會趁機偷襲我方城鎮，最好有一隻小部隊騎兵在家防守，以防被斷了經濟。
             </li>
             <li>
-              這次有兩隻英雄登場，都可以派他們到前線作戰，但須小心他們血量，我方建議以騎兵為主，步兵會有狂戰士所以不用生產太多沒關係。
+              這次有兩隻英雄登場，都可以派他們到前線作戰，但須小心他們<nuxt-link
+                to="/elements/Hit_points"
+                >血量</nuxt-link
+              >，我方建議以騎兵為主，步兵會有狂戰士所以不用生產太多沒關係。
             </li>
             <li>
-              戰役前篇哈拉爾·哈德拉達率領維京軍團由北面發動攻勢，為史實的斯坦福橋戰役
+              <nuxt-link to="/batt">戰役</nuxt-link
+              >前篇哈拉爾·哈德拉達率領維京軍團由北面發動攻勢，為史實的斯坦福橋戰役
             </li>
           </ul>
           <h3>芝麻小事</h3>
@@ -212,7 +265,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
             </td>
@@ -226,7 +279,11 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">征服者戰役第4章之三</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Battles_of_the_Conquerors"
+                >征服者戰役</nuxt-link
+              >第4章之三
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

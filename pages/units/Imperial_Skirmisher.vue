@@ -8,14 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            帝王戰矛兵是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-            >第二個特殊單位，可以在
+            <b>帝王戰矛兵</b>是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+            >第二個<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，可以在
             <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>
-            訓練，是戰矛兵的升級，是一個反弓箭手的遠程單位。
+            訓練，是<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
+            >的升級，是一個反<nuxt-link to="/armor/Armor_Class_Archer"
+              >弓箭手</nuxt-link
+            >的<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link>。
           </p>
           <p>
-            帝王戰矛兵是一種共同的特殊單位，只要是越南或與他的同盟玩家都可以使用（<nuxt-link
-              to="/civs/Turks"
+            帝王戰矛兵是一種共同的特殊單位，只要是<nuxt-link
+              to="/civs/Vietnamese"
+              >越南</nuxt-link
+            >或與他的同盟玩家都可以使用（<nuxt-link to="/civs/Turks"
               >土耳其人</nuxt-link
             >例外）。
           </p>
@@ -24,20 +30,35 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            除了對付弓箭手、長槍兵與其他遠程單位外，帝王戰矛兵顯得非常虛弱，他們攻擊、射速都低還有最小射程，對步兵及騎兵單位難以有效的進行傷害，但非常克制弓箭手。
+            除了對付弓箭手、<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+            >與其他遠程單位外，帝王戰矛兵顯得非常虛弱，他們攻擊、<nuxt-link
+              to="/elements/Rate_of_Fire"
+              >射速</nuxt-link
+            >都低還有最小射程，對步兵及<nuxt-link to="/units/Cavalry_Units"
+              >騎兵單位</nuxt-link
+            >難以有效的進行傷害，但非常克制弓箭手。
           </p>
           <p>
-            由於帝王戰矛兵生產不用黃金，所以是一個垃圾兵單位，在缺少黃金時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。
+            由於帝王戰矛兵生產不用<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >，所以是一個<nuxt-link to="/Trash_Unit.php">垃圾兵單位</nuxt-link
+            >，在缺少黃金時期，是非常重要的兵種，由於成本低、訓練時間短，在某些情況下，可以用數量壓制對手。
           </p>
           <p>
-            帝王戰矛兵對槍兵有額外的傷害，雙方數量少時，槍兵將獲勝，但數量一多起來，戰矛兵將克制槍兵。
+            帝王戰矛兵對<nuxt-link to="/units/Spearman">槍兵</nuxt-link
+            >有額外的傷害，雙方數量少時，槍兵將獲勝，但數量一多起來，戰矛兵將克制槍兵。
           </p>
           <p>
-            在垃圾兵大戰中，帝王戰矛兵非常受歡迎。但要注意的是由於帝王戰矛兵也算一個普通單位，日本武士對他沒有加成。
+            在垃圾兵大戰中，帝王戰矛兵非常受歡迎。但要注意的是由於帝王戰矛兵也算一個普通單位，<nuxt-link
+              to="/units/Samurai"
+              >日本武士</nuxt-link
+            >對他沒有加成。
           </p>
           <p>
             不幸的是，<nuxt-link to="/civs/Turks">土耳其</nuxt-link
-            >並不能使用帝王戰矛兵，因為土耳其人連戰矛兵都沒有，相對之下，有些文明的帝王戰矛兵非常有優勢，特別是
+            >並不能使用帝王戰矛兵，因為<nuxt-link to="/civs/Turks"
+              >土耳其人</nuxt-link
+            >連戰矛兵都沒有，相對之下，有些<nuxt-link to="/civs">文明</nuxt-link
+            >的帝王戰矛兵非常有優勢，特別是
             <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Britons"
               >不列顛</nuxt-link
@@ -90,7 +111,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -170,9 +193,10 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Andean_Sling">安地斯彈弓</nuxt-link
-              >:矛兵和投石手取消最小射程，<nuxt-link to="/civs/Incas"
-                >印加</nuxt-link
-              >限定
+              >:<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>和<nuxt-link
+                to="/units/Slinger"
+                >投石手</nuxt-link
+              >取消最小射程，<nuxt-link to="/civs/Incas">印加</nuxt-link>限定
             </td>
           </tr>
           <tr>
@@ -221,7 +245,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -340,7 +366,8 @@
             </div>
           </div>
         </div>
-        以下團隊加分可給以下單位對帝王戰矛兵有額外攻擊:
+        以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+        >可給以下單位對帝王戰矛兵有額外攻擊:
         <div class="n1">
           團隊加分:<nuxt-link to="/civs/Persians">波斯</nuxt-link
           >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -375,16 +402,22 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對帝王戰矛兵有利的科技在城堡/帝王時代各便宜15%/20%。
+              >：對帝王戰矛兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠升級科技免黃金
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級科技免黃金
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-              >：帝王戰矛兵在帝王帝王時代的血量增加20%。免費<nuxt-link
-                to="/techs/Conscription"
+              >：帝王戰矛兵在帝王帝王時代的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >增加20%。免費<nuxt-link to="/techs/Conscription"
                 >徵兵制度</nuxt-link
               >。
             </li>
@@ -409,7 +442,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-              >：帝王戰矛兵視野+2。
+              >：帝王戰矛兵<nuxt-link to="/los.php">視野</nuxt-link>+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -447,7 +480,10 @@
               >相同。
             </li>
             <li>
-              血量30，與飛刀女獵手、爪刀勇士和弓兵相同，是遊戲中最少血量的單位。
+              血量30，與<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
+              >、<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+              >和<nuxt-link to="/units/Archer">弓兵</nuxt-link
+              >相同，是遊戲中最少血量的單位。
             </li>
           </ul>
         </div>
@@ -540,7 +576,9 @@
             <td class="unit3">
               <nuxt-link to="/elements/Attack">攻擊</nuxt-link>
             </td>
-            <td class="unit4">4(遠程)</td>
+            <td class="unit4">
+              4(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>

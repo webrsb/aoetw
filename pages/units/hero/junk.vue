@@ -8,16 +8,26 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            運金船是世紀帝國II中一個不可排除的單位，只能在情景編輯器中使用。通過前往其他玩家的碼頭並返回，通過使用一個長的像垃圾箱的東西來獲取金幣，其外觀類似於普通的貿易船。
+            <strong>運金船</strong
+            >是世紀帝國II中一個不可排除的單位，只能在情景編輯器中使用。通過前往其他玩家的<nuxt-link
+              to="/building/Dock"
+              >碼頭</nuxt-link
+            >並返回，通過使用一個長的像垃圾箱的東西來獲取金幣，其外觀類似於普通的貿易船。
           </p>
           <p>
-            與標準貿易船相比，它們的移動速度稍慢，但是它們所攜帶的黃金遠多於相應碼頭上的黃金。然而，他們的速度不能通過研究大篷車來提高。
+            與標準貿易船相比，它們的移動速度稍慢，但是它們所攜帶的<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >遠多於相應碼頭上的黃金。然而，他們的速度不能通過研究大篷車來提高。
           </p>
         </div>
         <div class="n1">
           <h2>冷知識</h2>
           <p>
-            運金船的圖標和外觀在世紀帝國中被很多海上貿易單位重複使用，所以這個外觀真的很爛，就如同運金船的英文（junk)的另一個意思“垃圾”。然而實際上這個詞的意思是指一種中國古代帆船，如今這種帆船還在被使用。
+            運金船的圖標和外觀在世紀帝國中被很多海上貿易單位重複使用，所以這個外觀真的很爛，就如同運金船的英文（junk)的另一個意思“垃圾”。然而實際上這個詞的意思是指一種<nuxt-link
+              to="/civs/Chinese"
+              >中國</nuxt-link
+            >古代帆船，如今這種帆船還在被使用。
           </p>
         </div>
       </div>
@@ -44,11 +54,15 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">海軍船舶<br /></td>
+            <td class="unit4">
+              <nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link>船舶
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">國王時代</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -56,19 +70,21 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -76,7 +92,7 @@
             <td class="unit4">1.21</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
         </table>

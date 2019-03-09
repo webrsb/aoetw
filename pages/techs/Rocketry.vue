@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火箭術是<nuxt-link to="/civs/Chinese">中國</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>火箭術</b>是<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後給予<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
@@ -22,13 +22,14 @@
         <div class="n1">
           <ul>
             <li>
-              有火箭術的連弩兵和弩砲可以對防箭單位造成更多傷害，如:<nuxt-link
+              有火箭術的<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
+              >和弩砲可以對防箭單位造成更多傷害，如:<nuxt-link
                 to="/units/Huskarl"
                 >哥德衛隊</nuxt-link
               >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>和
               <nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
-              >。可以取代中國進攻時沒有<nuxt-link to="/units/Bombard_Cannon"
-                >火砲</nuxt-link
+              >。可以取代<nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >進攻時沒有<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
               >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >的缺陷。
             </li>
@@ -39,8 +40,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在帝王時代花費便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜20%。
             </li>
           </ul>
         </div>
@@ -79,7 +83,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>
             </td>
@@ -113,11 +117,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">750</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">750</td>
           </tr>
           <tr>

@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            箭羽可於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            <b>箭羽</b>可於<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link> 研發後
             <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>、<nuxt-link
               to="/building/Castle"
@@ -27,12 +28,18 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜10%/15%/20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠的科技花費只需食物。
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >的科技花費只需<nuxt-link to="/resource/Food">食物</nuxt-link>。
             </li>
           </ul>
         </div>
@@ -67,7 +74,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -107,7 +114,9 @@
             <td class="unit4">100</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>
@@ -118,7 +127,13 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              讓弓兵、城堡、箭塔、戰船和維京大戰船+1攻擊和+1射程；城鎮中心只+1攻擊。
+              讓<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >、城堡、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >、<nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link
+              >和<nuxt-link to="/units/Longboat">維京大戰船</nuxt-link
+              >+1攻擊和+1射程；<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >只+1攻擊。
             </td>
           </tr>
         </table>

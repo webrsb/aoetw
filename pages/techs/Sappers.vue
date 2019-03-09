@@ -8,17 +8,23 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            坑道工兵可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>坑道工兵</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >的<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。可讓村民對
+            >的<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。可讓<nuxt-link to="/units/Villager">村民</nuxt-link>對
             <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
             >和<nuxt-link to="/armor/Armor_Class_stone_defense"
               >石頭建築</nuxt-link
-            >攻擊力+15，讓村民能輕易摧毀敵對建築。不過很多玩家覺得坑道工兵不須研發因為村民應該主要是收集資源和蓋建築。不過對於被敵人圍住的資源，或者要摧毀位於玩家資源附近的敵方
+            ><nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >+15，讓村民能輕易摧毀敵對<nuxt-link to="/building">建築</nuxt-link
+            >。不過很多玩家覺得坑道工兵不須研發因為村民應該主要是收集資源和蓋建築。不過對於被敵人圍住的資源，或者要摧毀位於玩家資源附近的敵方
             <nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
             >或<nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
             >時，坑道工兵可以派上用場。
-            坑道工兵也可以用來摧毀玩家村民旁邊的敵方箭塔。
+            坑道工兵也可以用來摧毀玩家村民旁邊的敵方<nuxt-link
+              to="/building/Watch_Tower"
+              >箭塔</nuxt-link
+            >。
           </p>
           <p>有坑道工兵加成的村民只需一下就可把樹砍倒。</p>
         </div>
@@ -30,7 +36,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發與否</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發與否</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -86,8 +94,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：坑道工兵科技便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：坑道工兵<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >便宜20%。
             </li>
           </ul>
         </div>
@@ -108,7 +118,13 @@
         <div class="n1">
           <div class="ien">
             <em
-              >"專門攻擊防禦工事的技術人員被稱為工兵，他們挖掘戰壕靠近城牆並埋下炸藥，之後破壞城牆！沒有工兵隊伍的軍隊在試圖攻擊城堡或堡壘時會受到嚴重的損失。許多工兵都是出價最高的僱傭軍。"</em
+              >"專門攻擊防禦工事的技術人員被稱為工兵，他們挖掘戰壕靠近<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >並埋下炸藥，之後破壞城牆！沒有工兵隊伍的軍隊在試圖攻擊<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >或堡壘時會受到嚴重的損失。許多工兵都是出價最高的僱傭軍。"</em
             >
             <p>
               工兵本質上是用來破壞敵人防禦結構的工程師。第一次世界大戰中的工兵們試圖在戰壕和無人地帶之下進行挖掘。在傳統意義上，工兵不再存在，今日則將導彈指揮官和工程師稱為工兵。
@@ -172,11 +188,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
@@ -187,7 +207,11 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              村民對建築物和石頭建築攻擊力+15。村民只需一下就可把樹砍倒。
+              村民對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >和<nuxt-link to="/armor/Armor_Class_stone_defense"
+                >石頭建築</nuxt-link
+              >攻擊力+15。村民只需一下就可把樹砍倒。
             </td>
           </tr>
         </table>

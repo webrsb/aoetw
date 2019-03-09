@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            畜牧培育於
+            <b>畜牧培育</b>於
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >研發。研發後所有騎乘單位移速+10％。
@@ -18,7 +18,8 @@
               >馬弓騎兵</nuxt-link
             >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>或
             <nuxt-link to="/units/Arambai">飛鏢騎兵</nuxt-link
-            >等，都需要優先研發此科技。相對的，如對方是打帶跑單位，而你的<nuxt-link
+            >等，都需要優先研發此<nuxt-link to="/techs">科技</nuxt-link
+            >。相對的，如對方是打帶跑單位，而你的<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
             >就必須研發畜牧培育，以免被風箏。
@@ -86,8 +87,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法國</nuxt-link>：在研發
@@ -128,10 +132,17 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在中古世紀由騎士統治的時代，飼養和提供馬匹是畜牧的一部分，是一份很重要的工作。騎士的重裝甲需要良好的馬匹才能在戰場上奔馳，而輕騎兵與偵查兵在偵查敵人時需要快速而靈活的馬匹，中世紀的畜牧者為不同的作戰需求提供不同能力的馬匹。
+            在中古世紀由<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >統治的時代，飼養和提供馬匹是畜牧的一部分，是一份很重要的工作。騎士的重裝甲需要良好的馬匹才能在戰場上奔馳，而<nuxt-link
+              to="/units/Light_Cavalry"
+              >輕騎兵</nuxt-link
+            >與偵查兵在偵查敵人時需要快速而靈活的馬匹，中世紀的畜牧者為不同的作戰需求提供不同能力的馬匹。
           </p>
           <p>
-            人類自第一次馴養動物以來，已經有數千年的歷史了，在中世紀歐洲孕育了不同種類的馬，有偵查用的馬匹與作戰用的馬匹。蒙古人之所以能在歐亞大陸所向匹敵，其中一個原因就是其高超的畜牧培育，他們所馴養的馬匹其速度與耐力都讓歐洲的對手難以望其項背。
+            人類自第一次馴養動物以來，已經有數千年的歷史了，在中世紀歐洲孕育了不同種類的馬，有偵查用的馬匹與作戰用的馬匹。<nuxt-link
+              to="/civs/Mongols"
+              >蒙古人</nuxt-link
+            >之所以能在歐亞大陸所向匹敵，其中一個原因就是其高超的畜牧培育，他們所馴養的馬匹其速度與耐力都讓歐洲的對手難以望其項背。
           </p>
         </div>
       </div>
@@ -157,7 +168,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>

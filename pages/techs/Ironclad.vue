@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鋼鐵甲是<nuxt-link to="/civs/Teutons">條頓</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>鋼鐵甲</b>是<nuxt-link to="/civs/Teutons">條頓</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
@@ -27,7 +26,21 @@
         <div class="n1">
           <ul>
             <li>
-              攻城武器懼怕近戰單位的原因有以下幾點:第一，衝撞車的攻擊範圍小且對不是建築和攻城單位的任何東西沒有攻擊加成。第二，攻城單位在遊戲中的移動速度是最慢的，步兵靠近他們時也難以逃開。上述缺點讓村民也能輕易地摧毀衝撞車。鋼鐵甲讓攻城單位可在對方伏擊或是有幾個近戰單位突破前線接近牠們時能多存活幾秒。鋼鐵甲給的加成比兵工廠的多而且還能抵銷
+              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >懼怕近戰單位的原因有以下幾點:第一，<nuxt-link
+                to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >的攻擊範圍小且對不是<nuxt-link to="/building">建築</nuxt-link
+              >和<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
+              >的任何東西沒有攻擊加成。第二，攻城單位在遊戲中的移動速度是最慢的，<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵</nuxt-link
+              >靠近他們時也難以逃開。上述缺點讓<nuxt-link to="/units/Villager"
+                >村民</nuxt-link
+              >也能輕易地摧毀衝撞車。鋼鐵甲讓攻城單位可在對方伏擊或是有幾個近戰單位突破前線接近牠們時能多存活幾秒。鋼鐵甲給的加成比<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >的多而且還能抵銷
               <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
               >給予近戰單位的攻擊加成。
             </li>
@@ -81,11 +94,13 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">科技介紹</div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>
             </td>
@@ -119,11 +134,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">350</td>
           </tr>
           <tr>

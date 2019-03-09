@@ -18,9 +18,19 @@
               >挪威</nuxt-link
             >的國王<strong>無情者哈拉爾</strong>（即遊戲中的<strong>哈羅德哈左德</strong>）。哈拉爾沒辦法拾取
             <nuxt-link to="/Relic">遺跡</nuxt-link
-            >，不過移動的速度是一般僧侶的兩倍，招降速度也比較快。他也會受到所有強化僧侶的科技影響，最多可以有113點血量、8招降範圍。但與其他僧侶不同的是，哈拉爾的單位語音使用的是軍事單位的語音。在《征服者入侵》資料片後，哈拉爾就完全從遊戲中被移除，並以
-            <nuxt-link to="/units/Berserk">狂戰士</nuxt-link>英雄<nuxt-link
-              to="/units/hero/Harald_Hardraade"
+            >，不過移動的速度是一般<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >的兩倍，<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >速度也比較快。他也會受到所有強化僧侶的<nuxt-link to="/techs"
+              >科技</nuxt-link
+            >影響，最多可以有113點<nuxt-link to="/elements/Hit_points"
+              >血量</nuxt-link
+            >、8招降範圍。但與其他僧侶不同的是，哈拉爾的單位語音使用的是軍事單位的語音。在《<nuxt-link
+              to="/games/aoc"
+              >征服者入侵</nuxt-link
+            >》資料片後，哈拉爾就完全從遊戲中被移除，並以
+            <nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+            ><nuxt-link to="/units/hero">英雄</nuxt-link
+            ><nuxt-link to="/units/hero/Harald_Hardraade"
               >哈羅德哈左德</nuxt-link
             >取代。
           </p>
@@ -56,7 +66,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -68,7 +80,9 @@
             <td class="unit4">75</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">62</td>
           </tr>
           <tr></tr>
@@ -78,20 +92,20 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無 <br /></td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

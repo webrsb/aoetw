@@ -7,7 +7,11 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          <p><b>羅馬的衰落</b>為阿提拉戰役的第六關劇情關卡。</p>
+          <p>
+            <b>羅馬的衰落</b>為<nuxt-link to="/batt/Attila_the_Huna"
+              >阿提拉戰役</nuxt-link
+            >的第六關劇情關卡。
+          </p>
         </div>
         <h2>玩家</h2>
         <div class="hrn1"></div>
@@ -16,9 +20,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">帝王時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">2,400木材，1,600食物，1,200黃金，200石頭</td>
+              <td class="tc2">
+                2,400<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >，1,600<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，1,200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">125</td>
             </tr>
@@ -35,14 +46,20 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p4">玩家1</div></td>
-              <td class="tc6" colspan="3">匈奴人（黃色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>（黃色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p1">玩家6</div></td>
-              <td class="tc6" width="38%">西羅馬帝國（藍色）拜占庭</td>
+              <td class="tc6" width="38%">
+                西羅馬帝國（藍色）<nuxt-link to="/civs/Byzantines"
+                  >拜占庭</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -52,13 +69,20 @@
               <td class="tc6"><div class="p2">玩家2</div></td>
               <td class="tc6">阿奎利亞（紅色）塞爾特</td>
               <td class="tc6"><div class="p3">玩家3</div></td>
-              <td class="tc6">米蘭（綠色）條頓</td>
+              <td class="tc6">
+                米蘭（綠色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc6"><div class="p8">玩家4</div></td>
-              <td class="tc6">佛羅蘭（橘色）法蘭克</td>
+              <td class="tc6">
+                佛<nuxt-link to="/units/hero/Roland">羅蘭</nuxt-link
+                >（橘色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
+              </td>
               <td class="tc6"><div class="p6">玩家5</div></td>
-              <td class="tc6">帕度亞（紫色）不列顛</td>
+              <td class="tc6">
+                帕度亞（紫色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+              </td>
             </tr>
           </table>
 
@@ -66,7 +90,13 @@
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
             <dd>
-              7位村民、阿提拉、8位韃靼騎兵、12位重裝馬弓騎兵、4台巨型投石機。
+              7位<nuxt-link to="/units/Villager">村民</nuxt-link>、<nuxt-link
+                to="/units/hero/Attila_the_Hun"
+                >阿提拉</nuxt-link
+              >、8位<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
+              >、12位<nuxt-link to="/units/Heavy_Cavalry_Archer"
+                >重裝馬弓騎兵</nuxt-link
+              >、4台<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link>。
             </dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
@@ -79,7 +109,11 @@
               <li>
                 打敗阿奎利亞、米蘭、佛羅蘭和帕度亞的話，你就可以和羅馬談判。
               </li>
-              <li>阿提拉必須與教皇李奧一世在羅馬的城門外會面。</li>
+              <li>
+                阿提拉必須與教皇李奧一世在羅馬的<nuxt-link to="/building/Gate"
+                  >城門</nuxt-link
+                >外會面。
+              </li>
             </ol>
           </div>
         </div>
@@ -91,7 +125,11 @@
               不要攻擊羅馬的城市。它不是一個威脅，而你是需要一些人來投降。
             </li>
             <li>
-              如果你的對手試圖以取得聖器或世界奇觀的勝利，此時匈奴的特殊科技就非常有用。
+              如果你的對手試圖以取得聖器或<nuxt-link to="/building/Wonder"
+                >世界奇觀</nuxt-link
+              >的勝利，此時<nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Atheism">無神論</nuxt-link>就非常有用。
             </li>
             <li>
               如果你缺乏足夠的資源來防衛你的城鎮的話，那麼就不要把你所有的軍隊都派上戰場。
@@ -109,17 +147,32 @@
               匈奴人（黃色）一開始，在阿爾卑斯山的山腳下，就已經有豐富的資源。在其底下，就是義大利北部最具優良防衛能力的城邦。
             </li>
             <li>
-              米蘭（綠色）是具有軍事野心，如果你花太長的時間去征戰的話，它就可能會趁你防守空虛時乘機出擊。米蘭會訓練騎士和弓兵，還有小規模的海軍。
+              米蘭（綠色）是具有軍事野心，如果你花太長的時間去征戰的話，它就可能會趁你防守空虛時乘機出擊。米蘭會訓練<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >和<nuxt-link to="/units/Archer">弓兵</nuxt-link
+              >，還有小規模的<nuxt-link to="/units/Naval_Vessels"
+                >海軍</nuxt-link
+              >。
             </li>
             <li>
               帕度亞 (紫色)
-              也是位在北部，一開始很容易受到攻擊。帕度亞是以弓兵和攻城武器而著名。
+              也是位在北部，一開始很容易受到攻擊。帕度亞是以弓兵和<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >而著名。
             </li>
             <li>
-              阿奎利亞（紅色）是在北部的沼澤，雖然一開始的時候只有少數的士兵，但慢慢就可以生產騎士、長槍兵和弩砲。
+              阿奎利亞（紅色）是在北部的沼澤，雖然一開始的時候只有少數的士兵，但慢慢就可以生產騎士、<nuxt-link
+                to="/units/Spearman"
+                >長槍兵</nuxt-link
+              >和<nuxt-link to="/units/Scorpion">弩砲</nuxt-link>。
             </li>
             <li>
-              作為匈奴人進攻義大利的前線，他們都希望能夠跟佛羅蘭（橘色）取得連絡，因為他們的騎士、弓兵和擲斧兵，是羅馬帝國最後的防衛力量。
+              作為匈奴人進攻義大利的前線，他們都希望能夠跟佛羅蘭（橘色）取得連絡，因為他們的騎士、弓兵和<nuxt-link
+                to="/units/Throwing_Axeman"
+                >擲斧兵</nuxt-link
+              >，是羅馬帝國最後的防衛力量。
             </li>
             <li>
               羅馬本身（藍色）在高盧與匈奴人作戰時就已經大傷元氣。在匈奴人打敗了這些城市之後，他們就會往羅馬出發，並宣稱他們會繼承羅馬帝國。
@@ -133,16 +186,32 @@
                 阿提拉必須擊敗意大利北部的米蘭，帕度亞，阿奎利亞和佛羅蘭等城市。
                 他們每個人都會建立一個世界奇觀（帕度亞則會建造兩個，第二次會在佛羅蘭城市裡），玩家必須在時間耗盡之前破壞世界奇觀。
                 作為匈奴人，無神論技術對延長倒數計時非常有用。
-                在摧毀了某個特定城市的世界奇觀之後，他們會在你摧毀城鎮中心時投降。
+                在摧毀了某個特定城市的世界奇觀之後，他們會在你摧毀<nuxt-link
+                  to="/building/Town_Center"
+                  >城鎮中心</nuxt-link
+                >時投降。
               </li>
               <li>
                 一旦所有的敵軍被擊敗，阿提拉就必須親自前往西羅馬帝國的城市與李奧教皇談一談。
               </li>
               <li>
-                這種戰役是西羅馬帝國唯一一次是阿提拉的盟友，阿提拉不需要打敗他們以贏得勝利。米蘭的城市名稱是錯誤的，因為當時米蘭不在哥德或倫巴第人的控制之下，所以把它命名為Mediolanum更為正確。
+                這場<nuxt-link to="/batt">戰役</nuxt-link
+                >是西羅馬帝國唯一一次是阿提拉的盟友，阿提拉不需要打敗他們以贏得勝利。米蘭的城市名稱是錯誤的，因為當時米蘭不在<nuxt-link
+                  to="/civs/Goths"
+                  >哥德</nuxt-link
+                >或倫巴第人的控制之下，所以把它命名為Mediolanum更為正確。
               </li>
               <li>
-                而遊戲中的不列顛人，塞爾特人，法蘭克人和條頓人作為敵對文明的使用更加不正確。（尤其阿奎利亞人後來逃難建立威尼斯共和國），義大利文明直到2013年HD版失落帝國資料片才登場。這可能是因為開發者想讓玩家可以面對各種各樣的敵方單位，並看到不同的世界奇觀，以避免戰役冗餘無聊。
+                而遊戲中的<nuxt-link to="/civs/Britons">不列顛人</nuxt-link
+                >，<nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>，<nuxt-link
+                  to="/civs/Franks"
+                  >法蘭克人</nuxt-link
+                >和<nuxt-link to="/civs/Teutons">條頓人</nuxt-link
+                >作為敵對<nuxt-link to="/civs">文明</nuxt-link
+                >的使用更加不正確。（尤其阿奎利亞人後來逃難建立威尼斯共和國），義大利文明直到2013年HD版<nuxt-link
+                  to="/games/aof"
+                  >失落帝國</nuxt-link
+                >資料片才登場。這可能是因為開發者想讓玩家可以面對各種各樣的敵方單位，並看到不同的世界奇觀，以避免戰役冗餘無聊。
               </li>
             </ul>
           </div>
@@ -196,7 +265,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">征服者第一章之六</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第一章之六
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

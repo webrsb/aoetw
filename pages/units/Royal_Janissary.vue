@@ -8,16 +8,22 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            在世紀帝國II HD：被遺忘的王朝中，皇家衛兵是不可生產的火藥單位。
-            它僅在地圖編輯器中可用。除了命中率外，它的各種數據與土耳其特殊
-            單位(精英)完全相同。
+            在世紀帝國II
+            HD：被遺忘的王朝中，<b>皇家衛兵</b>是不可生產的<nuxt-link
+              to="/units/Gunpowder_Unit"
+              >火藥單位</nuxt-link
+            >。 它僅在地圖編輯器中可用。除了命中率外，它的各種數據與<nuxt-link
+              to="/civs/Turks"
+              >土耳其</nuxt-link
+            >特殊 單位(精英)完全相同。
           </p>
         </div>
         <h3>冷知識</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            土耳其火槍兵最初是以皇家衛士的造型，那為何不使用呢?其原因是“因為
+            <b>土耳其火槍兵</b
+            >最初是以皇家衛士的造型，那為何不使用呢?其原因是“因為
             測試人員和評論會討論說，皇家衛士看起來像是”KU Klux
             Klan“成員”(美國極端組織)。
             儘管直到“被遺忘的王朝”前並沒有作為一個單位出現，皇家猶太人仍然在清真寺內駐守
@@ -31,7 +37,10 @@
           <ul>
             <div class="unititle">
               <img src="~assets/Royal Janissary.png" width="250" alt="" />
-              <p>火槍兵與皇家衛兵</p>
+              <p>
+                <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
+                >與皇家衛兵
+              </p>
             </div>
             <div class="unititle">
               <img src="~assets/KKK_night.jpg" width="250" alt="" />
@@ -101,7 +110,9 @@
             <td class="unit4">3.49</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5.5</td>
           </tr>
           <tr>
@@ -117,11 +128,11 @@
             <td class="unit4">5.5</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -131,7 +142,7 @@
               <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
                 >火藥單位</nuxt-link
               >
-              、特殊單位
+              、<nuxt-link to="/units/Unique_Unit$">特殊單位</nuxt-link>
             </td>
           </tr>
           <tr>

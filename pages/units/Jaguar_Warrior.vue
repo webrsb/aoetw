@@ -8,15 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            豹勇士是<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>豹勇士</b>是<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。豹勇士是一個配備高護甲和對步兵單位有高攻擊力的單位。豹勇士可以在<nuxt-link
-              to="/techs/age/Imperial_Age"
+            >中訓練。豹勇士是一個配備高護甲和對<nuxt-link
+              to="/armor/Armor_Class_Infantry"
+              >步兵單位</nuxt-link
+            >有高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >的單位。豹勇士可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳豹勇士。
+            >升級為<nuxt-link to="/units/Jaguar_Warrior">精銳豹勇士</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,19 +28,35 @@
         <div class="n1">
           <ul>
             <li>
-              豹勇士在面對步兵時有極高的攻擊加成，讓他們在任何1V1除了與<nuxt-link
+              豹勇士在面對<nuxt-link to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >時有極高的攻擊加成，讓他們在任何1V1除了與<nuxt-link
                 to="/units/Teutonic_Knight"
                 >條頓武士</nuxt-link
-              >的戰鬥外都能輕鬆獲勝，若是一群豹勇士的話連條頓武士都不是對手。但在對付
+              >的戰鬥外都能輕鬆獲勝，若是一群豹勇士的話連<nuxt-link
+                to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >都不是對手。但在對付
               <nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
               >和<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
               >上則顯得吃力
             </li>
             <li>
               豹勇士搭配<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-              >是非常好的團戰組合。鷹勇士可以消滅大部分豹勇士的威脅，例如:僧侶、騎兵，對弓兵也有極佳的反制效果。豹勇士對步兵的加成也能保護鷹勇士，兩者可說相輔相成。搭配上
-              <nuxt-link to="/units/Monk">僧侶</nuxt-link
-              >在城堡時代的阿茲軍隊是令人聞風為之喪膽的。
+              >是非常好的團戰組合。<nuxt-link to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >可以消滅大部分豹勇士的威脅，例如:<nuxt-link to="/units/Monk"
+                >僧侶</nuxt-link
+              >、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >，對<nuxt-link to="/armor/Armor_Class_Archer">弓兵</nuxt-link
+              >也有極佳的反制效果。豹勇士對<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >的加成也能保護鷹勇士，兩者可說相輔相成。搭配上
+              <nuxt-link to="/units/Monk">僧侶</nuxt-link>在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >的阿茲軍隊是令人聞風為之喪膽的。
             </li>
             <li>
               對阿茲玩家來說<nuxt-link to="/units/Hand_Cannoneer"
@@ -52,7 +72,17 @@
             </li>
             <li>
               豹勇士面對<nuxt-link to="/units/Samurai">日本武士</nuxt-link
-              >的情況會依遊戲在何種版本進行而有所不同。若是征服者的版本，在對特殊單位有加成以及更快的攻速下，日本武士總是勝利的一方；但若是HD版本，先攻擊的一方獲勝，因為精銳豹勇士對步兵的加成會是+11而不是+10。
+              >的情況會依遊戲在何種版本進行而有所不同。若是<nuxt-link
+                to="/units/Conquistador"
+                >征服者</nuxt-link
+              >的版本，在對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >有加成以及更快的攻速下，<nuxt-link to="/units/Samurai"
+                >日本武士</nuxt-link
+              >總是勝利的一方；但若是HD版本，先攻擊的一方獲勝，因為精銳豹勇士對<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >的加成會是+11而不是+10。
             </li>
           </ul>
         </div>
@@ -177,7 +207,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -188,7 +220,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -392,7 +426,8 @@
                 to="/techs/Tracking"
                 >追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link>科技的時間快20%。
+              <nuxt-link to="/techs/Arson">縱火</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link>的時間快20%。
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
@@ -407,7 +442,7 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>豹勇士的遠防是0。</li>
+            <li>豹勇士的<nuxt-link to="/armor">遠防</nuxt-link>是0。</li>
             <li>
               精銳豹勇士對<nuxt-link to="/armor/Armor_Class_Infantry"
                 >步兵單位</nuxt-link
@@ -473,7 +508,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
             </td>
@@ -511,11 +546,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">30</td>
           </tr>
           <tr>
@@ -528,7 +567,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">50/75(精銳)</td>
           </tr>
           <tr>
@@ -550,11 +591,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1/2(精銳)</td>
           </tr>
           <tr>

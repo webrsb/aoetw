@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            印度火槍是<nuxt-link to="/civs/Indians">印度</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>印度火槍</b>是<nuxt-link to="/civs/Indians">印度</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
@@ -22,13 +22,14 @@
         <div class="n1">
           <ul>
             <li>
-              一支印度的軍隊應該要有以下兩種核心單位:<nuxt-link
-                to="/units/Camel"
+              一支<nuxt-link to="/civs/Indians">印度</nuxt-link
+              >的軍隊應該要有以下兩種核心單位:<nuxt-link to="/units/Camel"
                 >駱駝騎兵</nuxt-link
               >和<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >。印度火槍是讓
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-              >生存的關鍵，所以該科技通常要研發；然而印度玩家不應該為了研發印度火槍而失去事情的優先順序，還是要以建造部隊為主。
+              >生存的關鍵，所以該<nuxt-link to="/techs">科技</nuxt-link
+              >通常要研發；然而印度玩家不應該為了研發印度火槍而失去事情的優先順序，還是要以建造部隊為主。
             </li>
           </ul>
         </div>
@@ -49,11 +50,14 @@
         <div class="n1">
           <ul>
             <li>
-              Shatagni'是古代印度人給大砲和槍支的名字。他們之所以這樣命名，是因為他們認為它有殺死一百名敵方士兵的能力（"shat"
+              Shatagni'是古代<nuxt-link to="/civs/Indians">印度人</nuxt-link
+              >給大砲和槍支的名字。他們之所以這樣命名，是因為他們認為它有殺死一百名敵方士兵的能力（"shat"
               跟" शत"的意思是"百"，而"agni" 跟" अग्नी"的意思是"火"）。
             </li>
             <li>
-              印度火槍一開始是讓火槍兵有100%的命中率，後來應該是考慮到遊戲平衡所以改成現在的效果。
+              印度火槍一開始是讓<nuxt-link to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
+              >有100%的命中率，後來應該是考慮到遊戲平衡所以改成現在的效果。
             </li>
           </ul>
         </div>
@@ -80,7 +84,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Indians">印度</nuxt-link>
             </td>
@@ -114,11 +118,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

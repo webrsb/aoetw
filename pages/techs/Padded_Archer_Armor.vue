@@ -8,11 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            弓兵布甲可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>弓兵布甲</b>可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在
             <nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>
-            研發，可讓遠程護甲+1/+1。
+            研發，可讓<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -20,8 +20,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜10%/15%/20%。
             </li>
           </ul>
         </div>
@@ -29,7 +33,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            弓箭手和矛兵通常不會進行近身戰鬥，所以他們在中世紀早期很少穿盔甲。他們需要靈活的手臂運動，並迅速地在戰場上移動。所以有些時候這些部隊會穿上不會影響其戰鬥能力的護甲。一種早期的輕型裝甲是穿在軀幹上的簡單襯墊，可以提供一些保護，免受近戰或箭矢攻擊。
+            <nuxt-link to="/units/Archer">弓箭手</nuxt-link>和<nuxt-link
+              to="/units/Skirmisher"
+              >矛兵</nuxt-link
+            >通常不會進行近身戰鬥，所以他們在中世紀早期很少穿盔甲。他們需要靈活的手臂運動，並迅速地在戰場上移動。所以有些時候這些部隊會穿上不會影響其戰鬥能力的護甲。一種早期的輕型裝甲是穿在軀幹上的簡單襯墊，可以提供一些保護，免受近戰或箭矢攻擊。
           </p>
         </div>
       </div>
@@ -55,7 +62,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -93,7 +100,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

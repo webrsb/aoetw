@@ -8,11 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            姍優姬妲是一位在布里斯比羅吉第三關：私奔中登場的英雄單位。她的原型是在布里斯比羅吉羅索史詩（Prithviraj
+            <b>姍優姬妲</b>是一位在<nuxt-link to="/batt/Prithviraj"
+              >布里斯比羅吉</nuxt-link
+            >第三關：<nuxt-link to="/batt/The_Elopement">私奔</nuxt-link
+            >中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位。她的原型是在布里斯比羅吉羅索史詩（Prithviraj
             Raso）中的同名角色。
           </p>
           <p>
-            在遊戲中，姍優姬妲以皇后的外表登場。跟皇后一樣，她無法進行攻擊。作為一個英雄單位，她無法被招降且會自動回血。
+            在遊戲中，姍優姬妲以<nuxt-link to="/units/hero/Queen"
+              >皇后</nuxt-link
+            >的外表登場。跟皇后一樣，她無法進行攻擊。作為一個英雄單位，她無法被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>
@@ -39,11 +48,15 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">村民 <br />英雄</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Villager">村民</nuxt-link> <br />英雄
+            </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -51,21 +64,23 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -73,7 +88,7 @@
             <td class="unit4">1.2</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

@@ -16,14 +16,29 @@
         </div>
         <div class="n1">
           <p>
-            塔里克·伊本·齊亞德，670年~720年4月11日，是一位柏柏人穆斯林將軍、安達盧斯總督(711~712)。最初是穆薩·本·努薩依爾副官，從摩洛哥北海岸開始，他發起了第一波對西哥德王國（包含現今的西班牙與葡萄牙）的征服行動。
+            <b>塔里克·伊本·齊亞德</b>，670年~720年4月11日，是一位<nuxt-link
+              to="/civs/Berbers"
+              >柏柏人</nuxt-link
+            >穆斯林將軍、安達盧斯總督(711~712)。最初是穆薩·本·努薩依爾副官，從摩洛哥北海岸開始，他發起了第一波對西<nuxt-link
+              to="/civs/Goths"
+              >哥德</nuxt-link
+            >王國（包含現今的<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+            >與<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>）的征服行動。
           </p>
         </div>
         <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            塔里克·伊本·齊亞德是一位馬弓騎兵英雄，只有在地圖編輯器與塔里克·伊本·齊亞德戰役中登場，外型是標槍騎兵，他是一個必須存活的單位。英雄不能被招降，且會自己回血。
+            塔里克·伊本·齊亞德是一位<nuxt-link to="/units/Archer_Units"
+              >馬弓騎兵英雄</nuxt-link
+            >，只有在地圖編輯器與<nuxt-link to="/batt/Tariq_ibn_Ziyada"
+              >塔里克·伊本·齊亞德(戰役)</nuxt-link
+            >中登場，外型是<nuxt-link to="/units/Genitour">標槍騎兵</nuxt-link
+            >，他是一個必須存活的單位。英雄不能被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >，且會自己<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <h3>芝麻小事</h3>
@@ -58,12 +73,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />弓箭手<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -71,23 +89,33 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">170</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">15(遠程)</td>
+            <td class="unit4">
+              15(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">+5對射手</td>
+            <td class="unit4">
+              +5對<nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">3.05</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -109,24 +137,27 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">弓箭手 <br />騎兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.35</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

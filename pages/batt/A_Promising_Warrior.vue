@@ -8,7 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p></p>
-          <p>英雄出少年為失落帝國戰役中布里斯比羅吉劇情戰役的第一關。</p>
+          <p>
+            <strong>英雄出少年</strong>為<nuxt-link
+              to="/batt/Battles_of_the_Forgotten"
+              >失落帝國戰役</nuxt-link
+            >中<nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link
+            >劇情<nuxt-link to="/batt">戰役</nuxt-link>的第一關。
+          </p>
         </div>
         <h2>玩家</h2>
         <div class="hrn1"></div>
@@ -17,9 +23,19 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代:</td>
-              <td class="tc2" width="15%">封建時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源:</td>
-              <td class="tc2">0木頭，0食物，0黃金，0石頭</td>
+              <td class="tc2">
+                0<nuxt-link to="/resource/Wood">木頭</nuxt-link>，0<nuxt-link
+                  to="/resource/Food"
+                  >食物</nuxt-link
+                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
+                  to="/resource/Stone"
+                  >石頭</nuxt-link
+                >
+              </td>
               <td class="tc1" width="15%">人口上限:</td>
               <td class="tc2" width="5%">0/0</td>
             </tr>
@@ -37,7 +53,9 @@
                 <div class="p8"></div>
                 玩家1：
               </td>
-              <td class="tc6" colspan="8">主角（橘色）印度</td>
+              <td class="tc6" colspan="8">
+                主角（橘色）<nuxt-link to="/civs/Indians">印度</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
@@ -74,7 +92,11 @@
                 <div class="p2"></div>
                 玩家6：
               </td>
-              <td class="tc6">賓德夫•索蘭基（紅色）法蘭克</td>
+              <td class="tc6">
+                賓德夫•索蘭基（紅色）<nuxt-link to="/civs/Franks"
+                  >法蘭克</nuxt-link
+                >
+              </td>
               <td class="tc6">
                 <div class="p1"></div>
                 玩家7：
@@ -116,21 +138,30 @@
             <li>去青藍色村莊看一下。</li>
             <li>去看一下這座村莊的致富之源。</li>
             <li>帶金德‧伯勒達伊去騎驢。</li>
-            <li>帶布里斯比去騎馬。</li>
+            <li>
+              帶<nuxt-link to="/units/hero/Prithvi">布里斯比</nuxt-link>去騎馬。
+            </li>
             <li>走進樹林去與某人會面。</li>
-            <li>打敗姍優姬妲的勇士，俘獲她的愛慕之心。</li>
+            <li>
+              打敗<nuxt-link to="/units/hero/Sanyogita">姍優姬妲</nuxt-link
+              >的勇士，俘獲她的愛慕之心。
+            </li>
             <li>學會盲射的絕技。</li>
           </ol>
           <p>B路線</p>
           <ol>
-            <li>把船帶到西邊的碼頭去。</li>
+            <li>
+              把船帶到西邊的<nuxt-link to="/building/Dock">碼頭</nuxt-link>去。
+            </li>
             <li>殺死老虎。</li>
             <li>殺死狼群之王。</li>
           </ol>
           <p>C路線</p>
           <ol>
             <li>解救河對岸的城鎮（黃色）。</li>
-            <li>尋獲攻城武器。</li>
+            <li>
+              尋獲<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link>。
+            </li>
           </ol>
           <h2>任務提示</h2>
           <div class="hrn1"></div>
@@ -145,7 +176,9 @@
                 不同的分支有不同的結局，本次戰役一共有三種不同的勝利方式。
               </li>
               <li>
-                如果你要去狩獵，就多留點弓箭手；如果你準備要去攻打賓德夫‧索蘭基，那就多保留點近戰單位。
+                如果你要去狩獵，就多留點<nuxt-link to="/units/Archer"
+                  >弓箭手</nuxt-link
+                >；如果你準備要去攻打賓德夫‧索蘭基，那就多保留點近戰單位。
               </li>
               <li>打獵時你可以讓布里斯比羅吉吃草莓和果子來恢復體力及療傷。</li>
             </ul>
@@ -199,7 +232,7 @@
             <td class="unit4">布里斯比羅吉</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Indians">印度人</nuxt-link>
             </td>
@@ -211,7 +244,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">失落帝國第六章之一</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落帝國</nuxt-link>第六章之一
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

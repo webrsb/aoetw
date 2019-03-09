@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            鑄造可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>鑄造</b>可於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link>研發，可讓
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
               to="/units/Cavalry_Units"
@@ -21,8 +22,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在城堡/帝王時代花費便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：同樣使<nuxt-link
@@ -35,7 +40,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：研發該科技不需要黃金。
+              >：研發該科技不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -43,7 +49,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            “將鐵水澆鑄到模具中以形成複雜的形狀的技術被稱為鑄造，這對於製造鐵鍛工具和武器非常有用，這些工具和武器通常不易通過鍛造加速製造過程。在鑄造這項技術到達歐洲之前的幾個世紀，中國已經發現了這種技術。當製造商試圖找出如何製造大砲時，鑄造大型金屬物體的能力變得尤為重要。“
+            “將鐵水澆鑄到模具中以形成複雜的形狀的技術被稱為鑄造，這對於製造鐵鍛工具和武器非常有用，這些工具和武器通常不易通過<nuxt-link
+              to="/techs/Forging"
+              >鍛造</nuxt-link
+            >加速製造過程。在鑄造這項技術到達歐洲之前的幾個世紀，中國已經發現了這種技術。當製造商試圖找出如何製造大砲時，鑄造大型金屬物體的能力變得尤為重要。“
           </p>
         </div>
       </div>
@@ -69,7 +78,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -112,7 +121,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">220</td>
           </tr>
           <tr>
@@ -126,7 +137,12 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">步兵、騎兵攻擊+1。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>、<nuxt-link
+                to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >攻擊+1。
+            </td>
           </tr>
         </table>
 

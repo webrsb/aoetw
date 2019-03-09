@@ -7,12 +7,15 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          聖騎兵或稱甲冑騎兵，是<nuxt-link to="/civs/Byzantines"
+          <b>聖騎兵</b>或稱<b>甲冑騎兵</b>，是<nuxt-link to="/civs/Byzantines"
             >拜占庭</nuxt-link
-          >的特殊單位。對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-          >有大量加成傷害的騎兵單位。聖騎兵能夠在
+          >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+          >。對<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+          >有大量加成傷害的<nuxt-link to="/units/Cavalry_Units"
+            >騎兵單位</nuxt-link
+          >。聖騎兵能夠在
           <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-          >升級成精銳聖騎兵。
+          >升級成<nuxt-link to="/units/Cataphract">精銳聖騎兵</nuxt-link>。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
@@ -20,13 +23,17 @@
           <ul>
             <li>
               由於<nuxt-link to="/techs/Logistica">後勤學</nuxt-link
-              >的踐踏傷害、對步兵有大量加成傷害以及騎兵加成抵免，讓聖騎兵成為弱點最少的單位。
+              >的<nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
+              >、對<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+              >有大量加成傷害以及騎兵加成抵免，讓聖騎兵成為弱點最少的單位。
             </li>
             <li>
-              騎兵加成抵免能夠降低對騎兵加成的傷害，例如<nuxt-link
-                to="/units/Heavy_Camel"
+              騎兵加成抵免能夠降低對<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵</nuxt-link
+              >加成的傷害，例如<nuxt-link to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
-              >+18對騎兵加成傷害攻擊擁有(+12/+16(精銳)
+              >+18對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >加成傷害攻擊擁有(+12/+16(精銳)
             </li>
             <li>
               騎兵加成抵免的聖騎兵，只剩下微乎其微的加成優勢。連擁有+32對騎兵加成傷害的<nuxt-link
@@ -35,9 +42,11 @@
               >也抵免一半的加成傷害。
             </li>
             <li>
-              後帝王時期的聖騎兵攻擊力僅有14，攻擊力甚至低於馬利的<nuxt-link
-                to="/units/Light_Cavalry"
-                >輕騎兵</nuxt-link
+              後帝王時期的聖騎兵<nuxt-link to="/elements/Attack"
+                >攻擊力</nuxt-link
+              >僅有14，攻擊力甚至低於<nuxt-link to="/civs/Malians"
+                >馬利</nuxt-link
+              >的<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
               >，但是+18對
               <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >加成以及大量<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
@@ -60,7 +69,8 @@
               >
             </li>
             <p>
-              雖然戟兵打聖騎兵乍聽之下很不切實際，但他仍是對抗聖騎兵的適當選擇，因為戟兵是便宜又可以大量生產的，雖然聖騎兵對各種<nuxt-link
+              雖然<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+              >打聖騎兵乍聽之下很不切實際，但他仍是對抗聖騎兵的適當選擇，因為戟兵是便宜又可以大量生產的，雖然聖騎兵對各種<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
               >都有誇張的傷害加成，並且很容易在一對一中獲勝。一名戟兵只能承受聖騎兵的三刀攻擊，而缺乏
@@ -68,17 +78,23 @@
               >的<nuxt-link to="/civs/Goths">哥德</nuxt-link>戟兵只能承受兩刀。
             </p>
             <p>
-              對騎兵有加成傷害的<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
-              >則對聖騎兵表現不佳，每次攻擊只有7點的傷害，一對一戰鬥中完全被秒殺，即使在大規模的對陣中，槍隊長可以利用其1的射程優勢，也沒有機會。
+              對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >有加成傷害的<nuxt-link to="/units/Kamayuk">槍隊長</nuxt-link
+              >則對聖騎兵表現不佳，每次攻擊只有7點的傷害，一對一戰鬥中完全被秒殺，即使在大規模的對陣中，<nuxt-link
+                to="/units/Kamayuk"
+                >槍隊長</nuxt-link
+              >可以利用其1的射程優勢，也沒有機會。
             </p>
           </ul>
           <ul>
             <li><strong>重騎兵:</strong></li>
             <p>
-              如果有足夠的食物和黃金，重騎兵可能是反制聖騎兵最好的策略之一。就算有<nuxt-link
+              如果有足夠的<nuxt-link to="/resource/Food">食物</nuxt-link
+              >和<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >，重騎兵可能是反制聖騎兵最好的策略之一。就算有<nuxt-link
                 to="/techs/Logistica"
                 >踐踏</nuxt-link
-              >(後勤學)傷害，
+              >(<nuxt-link to="/techs/Logistica">後勤學</nuxt-link>)傷害，
               <nuxt-link to="/units/Paladin">遊俠</nuxt-link
               >仍可以輕騎解決聖騎兵，就算是大規模作戰也一樣，而全面升級的騎兵(<nuxt-link
                 to="/civs/Berbers"
@@ -103,7 +119,12 @@
               >
             </li>
             <p>
-              除了駱駝之外，聖騎兵是遠防最弱的騎兵單位。所以用常理判斷，聖騎兵相當害怕弓箭手。
+              除了<nuxt-link to="/units/Camel">駱駝</nuxt-link
+              >之外，聖騎兵是<nuxt-link to="/armor">遠防</nuxt-link
+              >最弱的騎兵單位。所以用常理判斷，聖騎兵相當害怕<nuxt-link
+                to="/units/Archer_Units"
+                >弓箭手</nuxt-link
+              >。
             </p>
             <p>
               <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>、<nuxt-link
@@ -112,20 +133,31 @@
               >與
               <nuxt-link to="/units/Heavy_Cavalry_Archer"
                 >重裝馬弓騎兵</nuxt-link
-              >或是其他的特殊射手單位，通常都可以解決聖騎兵，即使最弱的<nuxt-link
+              >或是其他的特殊<nuxt-link to="/units/Archer_Units"
+                >射手單位</nuxt-link
+              >，通常都可以解決聖騎兵，即使最弱的<nuxt-link
                 to="/units/Elite_Skirmisher"
                 >戰矛兵</nuxt-link
               >對聖騎兵都有2的傷害。
             </p>
             <p>
-              然後聖騎兵憑著高血量與攻擊力仍然可以威脅小規模的遠程單位，所以最好要聚集40人以上或是有騎兵、戟兵保護。
+              然後聖騎兵憑著高<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >與攻擊力仍然可以威脅小規模的<nuxt-link to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >，所以最好要聚集40人以上或是有騎兵、戟兵保護。
             </p>
           </ul>
           <ul>
             <li>
               <strong><nuxt-link to="/units/Monk">僧侶</nuxt-link>:</strong>
             </li>
-            <p>由於聖騎兵的成本相當高，所以很有可能成為敵方僧侶的首要目標。</p>
+            <p>
+              由於聖騎兵的成本相當高，所以很有可能成為敵方<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >的首要目標。
+            </p>
           </ul>
         </div>
         <h3>更多數據</h3>
@@ -182,9 +214,10 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link
-              >:拜占庭聖騎兵有踐踏傷害，對<nuxt-link
-                to="/armor/Armor_Class_Infantry"
+              /><nuxt-link to="/techs/Logistica">後勤學</nuxt-link>:<nuxt-link
+                to="/units/Cataphract"
+                >拜占庭聖騎兵</nuxt-link
+              >有踐踏傷害，對<nuxt-link to="/armor/Armor_Class_Infantry"
                 >步兵</nuxt-link
               >攻擊+6， <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>限定
             </td>
@@ -227,7 +260,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -299,9 +334,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -544,7 +579,10 @@
           </h3>
           <ul>
             <li>訓練時間為23秒。</li>
-            <li>攻擊速度為2.03。</li>
+            <li>
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
+              >為2.03。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
@@ -560,7 +598,8 @@
             </li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link></li>
             <li>
-              拜占庭引入：<nuxt-link to="/techs/Logistica">後勤學。</nuxt-link>
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >引入：<nuxt-link to="/techs/Logistica">後勤學。</nuxt-link>
             </li>
           </ul>
         </div>
@@ -569,7 +608,10 @@
         <div class="n1">
           <ul>
             <li>與其他特殊單位相比，聖騎兵幾乎沒有弱點。</li>
-            <li>貴族鐵騎外型似乎與聖騎兵相當雷同。</li>
+            <li>
+              <nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link
+              >外型似乎與聖騎兵相當雷同。
+            </li>
             <li>精銳聖騎兵的攻擊速度為1.73，是攻擊速度最快的騎兵。</li>
           </ul>
         </div>
@@ -577,7 +619,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            鐵甲騎兵為許多帝國與民族當成精銳騎兵或突襲戰力，最初用於突破步兵陣列的衝鋒。他們據信出現在上古到中古許多西方歷史學家的編年著作中，通常與歐洲封建時期的騎士與聖騎士相提並論，此乃與東羅馬帝國接觸的結果。
+            鐵甲騎兵為許多帝國與民族當成精銳騎兵或突襲戰力，最初用於突破步兵陣列的衝鋒。他們據信出現在上古到中古許多西方歷史學家的編年著作中，通常與歐洲封建時期的<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >與聖騎士相提並論，此乃與東羅馬帝國接觸的結果。
           </p>
         </div>
       </div>
@@ -611,7 +656,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link>
             </td>
@@ -683,7 +728,7 @@
             <td class="unit4">1.83/1.73(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
@@ -691,7 +736,7 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>(+12,
               +16(精銳)) <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -704,7 +749,7 @@
             <td class="unit4">1.35</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4/5(精銳)</td>
           </tr>
           <tr>

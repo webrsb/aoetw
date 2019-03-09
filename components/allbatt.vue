@@ -272,7 +272,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/Battles_of_the_Forgotten.php"
+              <nuxt-link to="/batt/Battles_of_the_Forgotten"
                 >失落帝國的戰役</nuxt-link
               >
             </td>
@@ -302,7 +302,7 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/Tariq_ibn_Ziyadaa.php"
+              <nuxt-link to="/batt/Tariq_ibn_Ziyada"
                 >塔里克．伊本．齊亞德</nuxt-link
               >
             </td>
@@ -330,7 +330,7 @@
               <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>。
               <nuxt-link to="/batt/Blood_on_the_River_Bank">血濺河灘</nuxt-link
               >。
-              <nuxt-link to="/The_Lion's_Den.php">深入虎穴</nuxt-link>
+              <nuxt-link to="/batt/The_Lions_Den">深入虎穴</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -384,7 +384,7 @@
                 >誓統南洋</nuxt-link
               >。
               <nuxt-link to="/batt/Serving_the_New_King">輔佐新君</nuxt-link>。
-              <nuxt-link to="/The_Pasunda_Bubat_Traged.php">風雲變色</nuxt-link>
+              <nuxt-link to="/batt/The_Pasunda_Bubat_Tragedy">風雲變色</nuxt-link>
             </td>
           </tr>
           <tr>

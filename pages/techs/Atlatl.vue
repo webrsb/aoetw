@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            擲矛器是阿茲特克的特殊科技，可於<nuxt-link
-              to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>擲矛器</b>是<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
             <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>和<nuxt-link
               to="/units/Genitour"
@@ -26,11 +26,17 @@
               擲矛器對阿茲來說十分有用，因為用<nuxt-link
                 to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
-              >對抗弓兵需要花費大量黃金。矛兵不需要黃金，而且擲矛器研發後阿茲矛兵的射程範圍可以超越弓兵的射程範圍。擲矛器可以有效地填補阿茲仍缺乏
+              >對抗<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >需要花費大量<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >。<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >不需要黃金，而且擲矛器研發後阿茲矛兵的射程範圍可以超越弓兵的射程範圍。擲矛器可以有效地填補阿茲仍缺乏
               <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>和<nuxt-link
                 to="/techs/Ring_Archer_Armor"
                 >弓兵環甲</nuxt-link
-              >的缺陷。且身為南美國家相當害怕火槍兵，有了強大的矛兵將有效阻止
+              >的缺陷。且身為南美國家相當害怕<nuxt-link
+                to="/units/Hand_Cannoneer"
+                >火槍兵</nuxt-link
+              >，有了強大的矛兵將有效阻止
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>的威脅。
             </li>
           </ul>
@@ -77,7 +83,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
             </td>
@@ -111,7 +117,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
@@ -125,7 +133,12 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">矛兵系列和標槍騎兵的攻擊和攻擊範圍+1。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Skirmisher">矛兵系列</nuxt-link>和<nuxt-link
+                to="/units/Genitour"
+                >標槍騎兵</nuxt-link
+              >的攻擊和攻擊範圍+1。
+            </td>
           </tr>
         </table>
 

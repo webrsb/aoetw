@@ -9,7 +9,14 @@
         <div class="n1">
           <p></p>
           <p>
-            復仇的人生為成吉思汗戰役的第二關劇情關卡，此關描述成吉思汗部族於1218年，為了要消除滅人西遼勢力屈出律的故事。
+            <b>復仇的人生</b>為<nuxt-link to="/batt/Genghis_Khana"
+              >成吉思汗(戰役)</nuxt-link
+            >的第二關劇情關卡，此關描述<nuxt-link to="/units/hero/Genghis_Khan"
+              >成吉思汗</nuxt-link
+            >部族於1218年，為了要消除滅人西遼勢力<nuxt-link
+              to="/units/hero/Kushluk"
+              >屈出律</nuxt-link
+            >的故事。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +26,14 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代:</td>
-              <td class="tc2" width="15%">黑暗時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源:</td>
-              <td class="tc2">400木頭，200食物</td>
+              <td class="tc2">
+                400<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，200<nuxt-link to="/resource/Food">食物</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限:</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -37,14 +49,18 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p8">玩家1：</div></td>
-              <td class="tc6" colspan="3">蒙古人（橘色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家2：</div></td>
-              <td class="tc6">加拉凱台（紅色）蒙古</td>
+              <td class="tc6">
+                加拉凱台（紅色）<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>
+              </td>
               <td class="tc6"><div class="p3">玩家3：</div></td>
               <td class="tc6">屈出律 （綠色）蒙古</td>
             </tr>
@@ -57,7 +73,11 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位:</dt>
-            <dd>5位輕騎兵、2位駱駝騎兵、4位馬弓騎兵。</dd>
+            <dd>
+              5位<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、2位<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >、4位<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>。
+            </dd>
             <dt>大地之母單位:</dt>
             <dd>無</dd>
           </dl>
@@ -66,7 +86,10 @@
           <div class="n1">
             <ol>
               <li>
-                殺掉屈出律這個叛徒。以免成吉思汗的營帳(世界奇觀)受到破壞。
+                殺掉屈出律這個叛徒。以免成吉思汗的營帳(<nuxt-link
+                  to="/building/Wonder"
+                  >世界奇觀</nuxt-link
+                >)受到破壞。
               </li>
             </ol>
           </div>
@@ -75,9 +98,16 @@
           <div class="n1">
             <ul>
               <li>
-                為「說服」泰依齊烏特村民加入你的陣營，首先，你必須先殺掉他們所有的士兵。既然加拉凱台人對攻城武器不甚熟悉，那麼建造箭塔將會是一項威力強大的防禦武力。
+                為「說服」泰依齊烏特<nuxt-link to="/units/Villager"
+                  >村民</nuxt-link
+                >加入你的陣營，首先，你必須先殺掉他們所有的士兵。既然加拉凱台人對<nuxt-link
+                  to="/units/Siege_Weapons"
+                  >攻城武器</nuxt-link
+                >不甚熟悉，那麼建造<nuxt-link to="/building/Watch_Tower"
+                  >箭塔</nuxt-link
+                >將會是一項威力強大的防禦武力。
               </li>
-              <li>注意：蒙古人並不知道如何建造攻城武器。</li>
+              <li>注意：在此關玩家蒙古人無法建造攻城武器。</li>
             </ul>
             <h2>芝麻小事</h2>
             <div class="hrn1"></div>
@@ -115,14 +145,18 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">戰役</td>
-            <td class="unit4">成吉思汗</td>
+            <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">蒙古人</td>
           </tr>
           <tr>

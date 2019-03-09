@@ -7,9 +7,19 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
+          <div class="spw">
+            <em
+              ><img
+                src="~assets/tola.jpg"
+                width="50px;"
+                alt=""
+                style="margin-right:20px;"
+              />本條目把學院內的<b>垛牆科技</b>與建築的垛牆寫在一起了！</em
+            >
+          </div>
           <p>
-            垛牆是防禦性建築，升到<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>垛牆</b>是防禦性<nuxt-link to="/building">建築</nuxt-link
+            >，升到<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >後在<nuxt-link to="/building/University">學院</nuxt-link
             >研究垛牆方可建造，是一個很好的防禦建築。
           </p>
@@ -19,26 +29,54 @@
         <div class="n1">
           <ul>
             <li>
-              垛牆可保護城鎮安全，減緩敵人攻擊速度，同時讓您警覺到有攻擊並派出反制單位消滅敵方單位。
+              垛牆可保護城鎮安全，減緩敵人<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >，同時讓您警覺到有攻擊並派出反制單位消滅敵方單位。
             </li>
             <li>
-              垛牆可以幫助玩家獲得一些時間來訓練自己的單位和加強防禦工事。另外，它們還可以為友軍的遠程單位和建築物提供防禦，從而可以從牆後攻擊敵方單位，而不會受到來自近戰單位的攻擊。
+              垛牆可以幫助玩家獲得一些時間來訓練自己的單位和加強防禦工事。另外，它們還可以為友軍的<nuxt-link
+                to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >和<nuxt-link to="/building">建築物</nuxt-link
+              >提供防禦，從而可以從牆後攻擊敵方單位，而不會受到來自近戰單位的攻擊。
             </li>
             <li>
               如果玩家通過“
               <nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>”或“
-              遺跡”尋求勝利，則垛牆將成為防禦的重要元素，因為它們將有助於阻止敵隊攻擊世界奇觀或擁有遺跡的修道院進而獲得最終勝利。在垛牆後設置弓箭手和遠程攻城武器可有效重點防禦該區域，像騎兵這樣快速移動的近戰單位則可以摧毀破壞城牆的敵方攻城單位。
+              <nuxt-link to="/Relic">遺跡</nuxt-link
+              >”尋求勝利，則垛牆將成為防禦的重要元素，因為它們將有助於阻止敵隊攻擊<nuxt-link
+                to="/building/Wonder"
+                >世界奇觀</nuxt-link
+              >或擁有遺跡的<nuxt-link to="/building/Monastery">修道院</nuxt-link
+              >進而獲得最終勝利。在垛牆後設置<nuxt-link to="/units/Archer"
+                >弓箭手</nuxt-link
+              >和<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                >遠程攻城武器</nuxt-link
+              >可有效重點防禦該區域，像<nuxt-link to="/units/Cavalry_Units"
+                >騎兵</nuxt-link
+              >這樣快速移動的近戰單位則可以摧毀破壞<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >的敵方<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link>。
             </li>
             <li>
-              垛牆的位置可挑選在某些如森林缺口、湖畔、峭壁地形，或是與金礦石礦做連結達到防禦作用，垛牆也可用於塔攻時保護箭塔，保護村民採集資源；也可在
+              垛牆的位置可挑選在某些如森林缺口、湖畔、峭壁地形，或是與金礦<nuxt-link
+                to="/resource/Stone"
+                >石礦</nuxt-link
+              >做連結達到防禦作用，垛牆也可用於塔攻時保護<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >，保護<nuxt-link to="/units/Villager">村民</nuxt-link
+              >採集資源；也可在
               <nuxt-link to="/building/House">房屋</nuxt-link
-              >旁邊圍一排牆強迫敵人走進城鎮中心的射程範圍。設置<nuxt-link
-                to="/building/Gate"
-                >城門</nuxt-link
+              >旁邊圍一排牆強迫敵人走進<nuxt-link to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >的射程範圍。設置<nuxt-link to="/building/Gate">城門</nuxt-link
               >則可讓友軍單位穿過城牆，同時阻止敵方單位進入。
             </li>
             <li>
-              防止敵方快攻上蓋城門比蓋垛牆有用，因為城門佔四格而垛牆佔一格，時間上蓋城門的效益更大，不過城門蠻貴的。
+              防止敵方快攻上蓋<nuxt-link to="/building/Gate">城門</nuxt-link
+              >比蓋垛牆有用，因為城門佔四格而垛牆佔一格，時間上蓋城門的效益更大，不過城門蠻貴的。
             </li>
           </ul>
         </div>
@@ -120,7 +158,9 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">除了僧侶外的全部單位。</td>
+            <td class="tta4">
+              除了<nuxt-link to="/units/Monk">僧侶</nuxt-link>外的全部單位。
+            </td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -128,7 +168,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -159,15 +201,23 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：垛牆城堡/帝王時代多30%/40%的血量。
+              >：垛牆<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >多30%/40%的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              >。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：在城堡/帝王時代，對垛牆有利的技術價格便宜15％/20％。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代，對垛牆有利的技術價格便宜15％/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link
-              >：垛牆便宜15%。(實際花費4塊石頭，如果與馬雅同隊伍，則需要2塊石頭)
+              >：垛牆便宜15%。(實際花費4塊<nuxt-link to="/resource/Stone"
+                >石頭</nuxt-link
+              >，如果與<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+              >同隊伍，則需要2塊石頭)
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：垛牆建築速度快33%
@@ -221,7 +271,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            垛牆是通過在石牆上建立戰鬥位置，這樣防守者可以更有效地防止攻擊，垛牆會保護他們的安全同時允許防守者向牆外的敵人射擊。君士坦丁堡外面的三座垛牆搭配著數百座箭塔，有著堅不可摧的防禦力，這一切直到火砲出現都將改觀。
+            垛牆是通過在<nuxt-link to="/building/Stone_Wall">石牆</nuxt-link
+            >上建立戰鬥位置，這樣防守者可以更有效地防止攻擊，垛牆會保護他們的安全同時允許防守者向牆外的敵人射擊。君士坦丁堡外面的三座垛牆搭配著數百座箭塔，有著堅不可摧的防禦力，這一切直到<nuxt-link
+              to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
+            >出現都將改觀。
           </p>
         </div>
       </div>
@@ -255,7 +309,7 @@
             <td class="unit4">防禦</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看分類</td>
           </tr>
           <tr>
@@ -299,11 +353,11 @@
             <td class="unit4">3000</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">12</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">12</td>
           </tr>
           <tr>
@@ -325,12 +379,24 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">需求科技</td>
-            <td class="unit4">垛牆:200食物100木材</td>
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
+              <div class="unititle2">建築演變</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">從升級</td>
+            <td class="unit4">
+              <img
+                class="gg"
+                src="~assets/Stonewallicon.png"
+                width="22"
+                alt=""
+              /><nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>
+            </td>
           </tr>
         </table>
 
@@ -349,7 +415,13 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有文明的垛牆(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有文明的垛牆(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">

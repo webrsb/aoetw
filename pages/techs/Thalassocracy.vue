@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            海上霸主是<nuxt-link to="/civs/Malay">馬來</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>海上霸主</b>是<nuxt-link to="/civs/Malay">馬來</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後讓<nuxt-link to="/building/Dock">碼頭</nuxt-link
             >升級成有攻擊能力的<nuxt-link to="/building/Harbor">海港</nuxt-link
@@ -23,7 +22,14 @@
         <div class="n1">
           <ul>
             <li>
-              海上地圖海的控制權是非常重要的，海上霸主能把碼頭升級成海港，海港比碼頭大，但有攻擊能力能保衛周邊海岸安全，同時對船隻有+9攻擊，可有效摧毀敵方船隻(尤其對方用
+              海上地圖海的控制權是非常重要的，海上霸主能把<nuxt-link
+                to="/building/Dock"
+                >碼頭</nuxt-link
+              >升級成<nuxt-link to="/building/Harbor">海港</nuxt-link
+              >，海港比碼頭大，但有攻擊能力能保衛周邊海岸安全，同時對<nuxt-link
+                to="/armor/Armor_Class_Ship"
+                >船隻</nuxt-link
+              >有+9攻擊，可有效摧毀敵方船隻(尤其對方用
               <nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
               >搶灘時)。海港也可作為進攻手段，蓋在敵方海岸可有效阻止敵方生產單位和捕魚。所以海上霸主能盡早研發就盡早。
             </li>
@@ -45,7 +51,14 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            Thalassocracy是一個在有海上優勢的國家。這個詞源於希臘語thalassa（海）和克拉提亞（規則）。由於馬來阿基普拉戈擁有豐富的資源和戰略位置，幾千年前斯里維加亞等海上王國開始在這個地區興起。印度-中國航線上的船隻會停在這個港口進行貿易和補充物資，然後繼續前往中國或印度。
+            Thalassocracy是一個在有海上優勢的國家。這個詞源於希臘語thalassa（海）和克拉提亞（規則）。由於<nuxt-link
+              to="/civs/Malay"
+              >馬來</nuxt-link
+            >阿基普拉戈擁有豐富的資源和戰略位置，幾千年前斯里維加亞等海上王國開始在這個地區興起。<nuxt-link
+              to="/civs/Indians"
+              >印度</nuxt-link
+            >-<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >航線上的船隻會停在這個港口進行貿易和補充物資，然後繼續前往中國或印度。
           </p>
         </div>
       </div>
@@ -71,7 +84,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Malay">馬來</nuxt-link></td>
           </tr>
           <tr>
@@ -103,11 +116,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

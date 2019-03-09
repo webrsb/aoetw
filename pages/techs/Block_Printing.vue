@@ -8,16 +8,23 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            雕版印刷術可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>雕版印刷術</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>研發，
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >的招降範圍和視野都+3
+            >的<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >範圍和<nuxt-link to="/los.php">視野</nuxt-link>都+3
           </p>
           <p>
-            此科技為帝王僧侶科技中至關重要的一個，研發後招降範圍大大提升，尤其是對於攻城武器將不在那麼害怕。
+            此<nuxt-link to="/techs">科技</nuxt-link>為帝王<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >科技中至關重要的一個，研發後招降範圍大大提升，尤其是對於<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >將不在那麼害怕。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -28,7 +35,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -115,7 +124,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            中國古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用雕版印刷術留下紀錄。
+            <nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >古老的發明印刷技術是中世紀偉大的發明之一。這使得信息的廣泛傳播和方便留存成為可能，並且在今天仍不斷加速。印刷的第一本書是基督教的《聖經》。其他宗教的重要文本不久之後也使用雕版印刷術留下紀錄。
           </p>
         </div>
       </div>
@@ -174,7 +184,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
@@ -184,7 +196,10 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">僧侶和傳教士招降範圍和視野都+3</td>
+            <td class="unit4">
+              僧侶和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+              >招降範圍和視野都+3
+            </td>
           </tr>
         </table>
 

@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於龜甲船裝甲的。而關於龜甲船請參見<nuxt-link
+            >這篇文章是將有關於<strong>龜甲船裝甲</strong>的。而關於龜甲船請參見<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
             ></em
@@ -18,7 +18,8 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            龜甲船裝甲是一個防禦裝甲類別，所有在這個系列的兵種都會被剋龜甲船裝甲的兵種有額外的傷害。
+            <strong>龜甲船裝甲</strong
+            >是一個防禦裝甲類別，所有在這個系列的兵種都會被剋龜甲船裝甲的兵種有額外的傷害。
           </p>
         </div>
         <h3>龜甲船單位</h3>

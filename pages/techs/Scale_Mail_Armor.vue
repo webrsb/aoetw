@@ -8,10 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            步兵鱗甲可於<nuxt-link to="/techs/age/Feudal_Age"
+            <b>步兵鱗甲</b>可於<nuxt-link to="/techs/age/Feudal_Age"
               >封建時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >研發，可讓步兵護甲+1/+1。
+            >研發，可讓<nuxt-link to="/armor/Armor_Class_Infantry"
+              >步兵護甲</nuxt-link
+            >+1/+1。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -19,8 +21,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Incas">印加</nuxt-link>：<nuxt-link
@@ -60,7 +66,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -103,7 +109,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>
@@ -113,7 +121,10 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">步兵護甲+1/+1。</td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵護甲</nuxt-link
+              >+1/+1。
+            </td>
           </tr>
         </table>
 

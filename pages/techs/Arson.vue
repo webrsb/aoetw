@@ -8,8 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            縱火於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >在軍營研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
+            <b>縱火</b>於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >在<nuxt-link to="/building/Barracks">軍營</nuxt-link
+            >研發。研發後所有的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >對
             <nuxt-link to="/armor/Armor_Class_Standard_Building"
@@ -23,13 +25,17 @@
         <div class="n1">
           <ul>
             <li>
-              讓所有步兵攻擊建築具有+2傷害，千萬不要小看這+2，大量的步兵聚集在一起破壞力相當大。
+              讓所有<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >攻擊<nuxt-link to="/building">建築</nuxt-link
+              >具有+2傷害，千萬不要小看這+2，大量的步兵聚集在一起破壞力相當大。
             </li>
             <li>
-              許多文明沒有好的攻城武器，但是縱火讓他們有機會快速拆除敵人建築物，比方<nuxt-link
-                to="/civs/Japanese"
-                >日本</nuxt-link
-              >。
+              許多<nuxt-link to="/civs">文明</nuxt-link>沒有好的<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >，但是縱火讓他們有機會快速拆除敵人<nuxt-link to="/building"
+                >建築物</nuxt-link
+              >，比方<nuxt-link to="/civs/Japanese">日本</nuxt-link>。
             </li>
             <li>
               某些文明可以短時間生產大量步兵，縱火讓他們省去了研發與生產攻城武器的費用，比方<nuxt-link
@@ -44,8 +50,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link>：<nuxt-link
@@ -128,11 +138,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>
@@ -142,7 +156,11 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">所有步兵對標準建築傷害+2</td>
+            <td class="unit4">
+              所有步兵對<nuxt-link to="/armor/Armor_Class_standard_building"
+                >標準建築</nuxt-link
+              >傷害+2
+            </td>
           </tr>
         </table>
       </div>

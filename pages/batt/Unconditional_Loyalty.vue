@@ -9,8 +9,12 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>班師勤王</b
-            >為加查·馬達第二關劇情關卡，此關描述1321年政變中，加查·馬達率軍營救主君查雅納迦拉的經過。
+            <b>班師勤王</b>為<nuxt-link to="/batt/Gajah_Madaa"
+              >加查·馬達</nuxt-link
+            >第二關劇情關卡，此關描述1321年政變中，加查·馬達率<nuxt-link
+              to="/building/Barracks"
+              >軍營</nuxt-link
+            >救主君查雅納迦拉的經過。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,9 +24,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="15%">城堡時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">800木材／950食物／750黃金／550石礦</td>
+              <td class="tc2">
+                800<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >／950<nuxt-link to="/resource/Food">食物</nuxt-link
+                >／750<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >／550<nuxt-link to="/resource/Stone">石礦</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
             </tr>
@@ -38,14 +49,20 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家1</div></td>
-              <td class="tc6" colspan="3">馬來人（紅色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Malay">馬來人</nuxt-link>（紅色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p4">玩家3</div></td>
-              <td class="tc6">賈亞納迦拉國王（黃色）馬來</td>
+              <td class="tc6">
+                賈亞納迦拉國王（黃色）<nuxt-link to="/civs/Malay"
+                  >馬來</nuxt-link
+                >
+              </td>
               <td class="tc6"><div class="p6">玩家6</div></td>
               <td class="tc6">阿爾雅‧塔達宰相（紫色）馬來</td>
             </tr>
@@ -66,11 +83,22 @@
           </table>
 
           <h3>開場</h3>
-          <p>。 英雄單位 - 加查‧馬達</p>
+          <p>。 <nuxt-link to="/units/hero">英雄</nuxt-link>單位 - 加查‧馬達</p>
           <p></p>
-          <p>。 軍事單位 - 彎刀勇士x6、弩兵x6、輕騎兵x2</p>
-          <p>。 經濟單位 - 村民x6</p>
-          <p>。 大地之母單位 - 矛象伕x3、弩砲象x8。</p>
+          <p>
+            。 軍事單位 -
+            <nuxt-link to="/units/Shotel_Warrior">彎刀勇士</nuxt-link
+            >x6、<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >x6、<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>x2
+          </p>
+          <p>
+            。 經濟單位 - <nuxt-link to="/units/Villager">村民</nuxt-link>x6
+          </p>
+          <p>
+            。 大地之母單位 -
+            <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+            >x3、<nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>x8。
+          </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
           <div class="n1">
@@ -84,7 +112,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>即使加查·馬達犧牲也不會導致這場戰役失敗。</li>
+            <li>
+              即使加查·馬達犧牲也不會導致這場<nuxt-link to="/batt"
+                >戰役</nuxt-link
+              >失敗。
+            </li>
             <li>你的人口上限為150。</li>
             <li>
               國王還是有許多追隨者流落在各地，你仔細找找便可以召集到他忠誠的舊部們。
@@ -108,11 +140,21 @@
               </li>
               <li>
                 特魯烏蘭城 (橘色)
-                已經被叛軍佔領了。他們布置了重兵來防止我們勤王。他們的部隊有強弩兵、劍兵勇士、大象、中型投石車與斧槍兵。逆賊拉克利安‧古狄率軍闖入王城想要逼宮，手下有劍兵勇士、彎刀勇士、輕騎兵、弩兵聽其調遣。
+                已經被叛軍佔領了。他們布置了重兵來防止我們勤王。他們的部隊有<nuxt-link
+                  to="/units/Arbalest"
+                  >強弩兵</nuxt-link
+                >、<nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
+                >、大象、<nuxt-link to="/units/Onager">中型投石車</nuxt-link
+                >與斧槍兵。逆賊拉克利安‧古狄率軍闖入王城想要逼宮，手下有劍兵勇士、彎刀勇士、輕騎兵、弩兵聽其調遣。
               </li>
               <li>
                 皇城外有其他叛軍
-                (淺藍)鎮守南門，他們想圍截任何往南突圍的兵馬。有戰矛兵、劍士、輕騎兵、攻城武器、騎兵以及大象
+                (淺藍)鎮守南門，他們想圍截任何往南突圍的兵馬。有<nuxt-link
+                  to="/units/Elite_Skirmisher"
+                  >戰矛兵</nuxt-link
+                >、劍士、輕騎兵、<nuxt-link to="/units/Siege_Weapons"
+                  >攻城武器</nuxt-link
+                >、<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>以及大象
               </li>
             </ul>
             <h2>細節</h2>
@@ -121,15 +163,25 @@
               <ul>
                 <li>各地散布著零星資源儲存點可供運用。</li>
                 <li>
-                  在遊戲章節起始點有一間寺廟模樣的建築，那便是爪哇古蹟「榕樹門」，同時也是滿者伯夷國都的入口。
+                  在遊戲章節起始點有一間寺廟模樣的<nuxt-link to="/building"
+                    >建築</nuxt-link
+                  >，那便是爪哇古蹟「榕樹門」，同時也是滿者伯夷國都的入口。
                 </li>
-                <li>加查·馬達(1290-1364) - 以獨特的近戰步兵形象登場。</li>
+                <li>
+                  加查·馬達(1290-1364) - 以獨特的近戰<nuxt-link
+                    to="/units/Infantry_Units"
+                    >步兵</nuxt-link
+                  >形象登場。
+                </li>
                 <li>
                   賈亞納迦拉國王(1295-1328) -
                   羅登‧韋查耶之子。於1309年登基，在1328年遭到御醫毒殺。在本章以東南亞國王形象登場。
                 </li>
                 <li>
-                  阿爾雅‧塔達(?-?) - 滿者伯夷宰相，在本章以東亞僧侶的形象登場。
+                  阿爾雅‧塔達(?-?) - 滿者伯夷宰相，在本章以東亞<nuxt-link
+                    to="/units/Monk"
+                    >僧侶</nuxt-link
+                  >的形象登場。
                 </li>
                 <li>
                   拉克利安‧古狄(?-?) -
@@ -164,7 +216,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -173,7 +227,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Malay">馬來人</nuxt-link>
             </td>
@@ -187,7 +241,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">王者崛起第一章之二</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>第一章之二
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

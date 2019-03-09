@@ -8,8 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>訓練軍隊</b
-            >是華勒斯教學戰役的第三個劇情關卡，專為那些從未玩過“世紀帝國”遊戲的玩家設計，教導玩家如何生產單位和建造建築物。
+            <b>訓練軍隊</b>是<nuxt-link to="/batt/William_Wallacea"
+              >華勒斯教學戰役</nuxt-link
+            >的第三個劇情關卡，專為那些從未玩過“世紀帝國”遊戲的玩家設計，教導玩家如何生產單位和建造<nuxt-link
+              to="/building"
+              >建築物</nuxt-link
+            >。
           </p>
         </div>
         <p></p>
@@ -20,9 +24,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">黑暗時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">600木材，600食物，600黃金，600石頭</td>
+              <td class="tc2">
+                600<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >，600<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，600<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，600<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -44,14 +55,14 @@
           </table>
 
           <p></p>
-          <p>開場：4位村民</p>
+          <p>開場：4位<nuxt-link to="/units/Villager">村民</nuxt-link></p>
           <p></p>
           <p>大地之母單位：無</p>
           <h3>主要任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>訓練4位民兵。</li>
+              <li>訓練4位<nuxt-link to="/units/Militia">民兵</nuxt-link>。</li>
             </ol>
           </div>
         </div>
@@ -66,7 +77,9 @@
           <div class="hrn1"></div>
           <ol>
             <li>
-              此關也可以建造一個世界奇觀來贏得勝利。當然，這要比實際目標花費更多的時間。
+              此關也可以建造一個<nuxt-link to="/building/Wonder"
+                >世界奇觀</nuxt-link
+              >來贏得勝利。當然，這要比實際目標花費更多的時間。
             </li>
             <li>
               訓練軍隊是所有132個官方戰役中花費時間最短的，平均玩家能夠在125秒內獲勝。
@@ -100,7 +113,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -109,7 +124,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
             </td>
@@ -123,7 +138,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第一章之三</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第一章之三
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

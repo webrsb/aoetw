@@ -8,20 +8,26 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <nuxt-link to="/building/Monastery">修道院</nuxt-link
-            >是城堡時代可以蓋的建築。修道院可訓練<nuxt-link to="/units/Monk"
-              >僧侶</nuxt-link
-            >和
+            <b>修道院</b>是<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >可以蓋的<nuxt-link to="/building">建築</nuxt-link
+            >。修道院可訓練<nuxt-link to="/units/Monk">僧侶</nuxt-link>和
             <nuxt-link to="/units/Missionary">傳教士</nuxt-link
             >與強化他們。<nuxt-link to="/Relic">遺跡</nuxt-link>
-            可放入修道院生產黃金。該注意的，修道院不能被招降。
+            可放入修道院生產<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >。該注意的，修道院不能被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            修道院為僧侶/傳教士的生產建築。由於僧侶生產很慢，但又很重要，往往用僧侶當作主力的玩家會建造至少兩座修道院。如果玩家打算在城堡時代使用僧侶快攻，他們必須有至少三個以上的修道院因為僧侶的生產速度真的很慢，移動也慢。而且必須同時研究
+            修道院為<nuxt-link to="/units/Monk">僧侶</nuxt-link>/<nuxt-link
+              to="/units/Missionary"
+              >傳教士</nuxt-link
+            >的生產建築。由於僧侶生產很慢，但又很重要，往往用僧侶當作主力的玩家會建造至少兩座修道院。如果玩家打算在城堡時代使用僧侶快攻，他們必須有至少三個以上的修道院因為僧侶的生產速度真的很慢，移動也慢。而且必須同時研究
             <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>和<nuxt-link
               to="/techs/Fervor"
               >宗教狂熱</nuxt-link
@@ -37,10 +43,17 @@
             >），所以即使玩家不使用僧侶也建議蓋修道院。
           </p>
           <p>
-            修道院也具有經濟價值。每個修道院可以容納10個遺跡，每個遺跡都會持續生產黃金。特別是在單挑的比賽中，遺跡通常是後期當黃金耗盡後獲得黃金的唯一途徑。通常情況下，擁有最多遺跡的玩家贏得長時間的遊戲。
+            修道院也具有經濟價值。每個修道院可以容納10個<nuxt-link to="/Relic"
+              >遺跡</nuxt-link
+            >，每個遺跡都會持續生產黃金。特別是在單挑的比賽中，遺跡通常是後期當黃金耗盡後獲得黃金的唯一途徑。通常情況下，擁有最多遺跡的玩家贏得長時間的遊戲。
           </p>
           <p>
-            在任何具有標準勝利條件的遊戲中，修道院都是至關重要的。如果一個隊伍在他們的修道院裡擁有所有的遺跡(不需在同一個修道院或單一國家)，一個200年的計數器會開始倒數，效果類似於建造世界奇蹟。如果敵方隊伍在計數器到達之前沒有搶走至少一個遺物或讓遺跡暴露於修道院外，那麼這場比賽就會結束。如果隊伍試著以取得所有遺跡做為勝利目標，建議把所有的遺跡都留在同一個修道院裡，並且用防禦性的結構和重裝單位保護，最好是遠程部隊，重裝騎兵和攻城武器，大規模地捍衛那個修道院。在任何情況下，防禦工事都應該在最後一個遺物被放入修道院之前建立起來。讓敵隊措手不及並拿下最終勝利。
+            在任何具有標準勝利條件的遊戲中，修道院都是至關重要的。如果一個隊伍在他們的修道院裡擁有所有的遺跡(不需在同一個修道院或單一國家)，一個200年的計數器會開始倒數，效果類似於建造世界奇蹟。如果敵方隊伍在計數器到達之前沒有搶走至少一個遺物或讓遺跡暴露於修道院外，那麼這場比賽就會結束。如果隊伍試著以取得所有遺跡做為勝利目標，建議把所有的遺跡都留在同一個修道院裡，並且用防禦性的結構和重裝單位保護，最好是<nuxt-link
+              to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >部隊，重裝<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+            >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >，大規模地捍衛那個修道院。在任何情況下，防禦工事都應該在最後一個遺物被放入修道院之前建立起來。讓敵隊措手不及並拿下最終勝利。
           </p>
           <p>
             如果選擇了遊戲模式“奪取遺跡”做為勝利條件，那麼每個玩家在開始ˇ戲時都會擁有一座堅不可摧的修道院，並試圖控制唯一的遺跡（遊戲開始時位於地圖正中央）。第一個擁有該遺跡並放入修道院的玩家贏得比賽。
@@ -188,7 +201,9 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1" style="width:20%">生命值</td>
+              <td class="tta1" style="width:20%">
+                <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+              </td>
               <td class="tta4">
                 <img
                   class="gg"
@@ -225,7 +240,7 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">視野</td>
+              <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
               <td class="tta4">
                 <img
                   class="gg"
@@ -285,15 +300,17 @@
               </li>
               <li>
                 <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-                >：在封建/城堡/帝王時代，修道院增加20%/30%40%的血量。<nuxt-link
-                  to="/techs/Town_Watch"
-                >
-                  城鎮瞭望</nuxt-link
-                >免費。
+                >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+                >，修道院增加20%/30%40%的<nuxt-link to="/elements/Hit_points"
+                  >血量</nuxt-link
+                >。<nuxt-link to="/techs/Town_Watch"> 城鎮瞭望</nuxt-link>免費。
               </li>
               <li>
                 <nuxt-link to="/civs/Chinese">中國</nuxt-link
-                >：修道院的技術在城堡/帝王時代分別便宜15%/20%
+                >：修道院的技術在<nuxt-link to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >/帝王時代分別便宜15%/20%
               </li>
               <li>
                 <nuxt-link to="/civs/Malians">馬利</nuxt-link
@@ -304,7 +321,10 @@
                   to="/techs/Town_Watch"
                   >城鎮瞭望</nuxt-link
                 >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
-                >科技時間在封建/城堡/帝王時代快10%/15%/20%
+                ><nuxt-link to="/techs">科技</nuxt-link>時間在封建/<nuxt-link
+                  to="/techs/age/Castle_Age"
+                  >城堡</nuxt-link
+                >/帝王時代快10%/15%/20%
               </li>
               <li>
                 <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -333,7 +353,9 @@
           <h3>更新日誌</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <h3><em>征服者入侵</em></h3>
+            <h3>
+              <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+            </h3>
             <ul>
               <li>
                 <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>首次出現。
@@ -360,7 +382,13 @@
                     alt=""
                 /></gallery>
                 <div class="lightbox-caption" style="width:220px">
-                  <p><em>所有文明的修道院(帝王世紀和征服者入侵資料片)。</em></p>
+                  <p>
+                    <em
+                      >所有<nuxt-link to="/civs">文明</nuxt-link
+                      >的修道院(<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                      >和征服者入侵資料片)。</em
+                    >
+                  </p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -398,7 +426,13 @@
                     alt=""
                 /></gallery>
                 <div class="lightbox-caption" style="width:185px">
-                  <p><em>科納克太陽神殿，遊戲中印度修道院的參考。</em></p>
+                  <p>
+                    <em
+                      >科納克太陽神殿，遊戲中<nuxt-link to="/civs/Indians"
+                        >印度</nuxt-link
+                      >修道院的參考。</em
+                    >
+                  </p>
                 </div>
               </div>
             </div>
@@ -446,7 +480,10 @@
           </tr>
           <tr>
             <td class="unit3">功能</td>
-            <td class="unit4">生產僧侶 <br />西班牙人可生產傳教士</td>
+            <td class="unit4">
+              生產僧侶 <br /><nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
+              >可生產傳教士
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
@@ -471,11 +508,11 @@
             <td class="unit4"><p>所有時代:2100</p></td>
           </tr>
           <tr>
-            <td class="unit3">駐軍</td>
+            <td class="unit3"><nuxt-link to="/Garrison">駐軍</nuxt-link></td>
             <td class="unit4"><p>所有時代:10</p></td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -492,7 +529,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"

@@ -8,17 +8,25 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            狂猴是世紀帝國二：征服這入侵的作弊單位。此單位是一隻猴子，以四肢四處走動，
-            一隻手攻擊目標。可以通過僅僅幾次揮動手來摧毀建築物，惟使用有限，因為他
+            <b>狂猴</b
+            >是世紀帝國二：征服這入侵的作弊單位。此單位是一隻猴子，以四肢四處走動，
+            一隻手攻擊目標。可以通過僅僅幾次揮動手來摧毀<nuxt-link
+              to="/building"
+              >建築物</nuxt-link
+            >，惟使用有限，因為他
             在死亡之前只能攻擊9次。缺點：他很慢。他也可以在地圖編輯器中找到。
           </p>
-          <p>狂猴不能乘坐運輸船。</p>
+          <p>
+            狂猴不能乘坐<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >。
+          </p>
         </div>
         <h3>外觀</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在被遺忘的王朝戰役中(Prithviraj)出現了三隻狂猴，他們實際上是玩家必須射擊的三個“玩偶”。若玩家
+            在被遺忘的王朝<nuxt-link to="/batt">戰役</nuxt-link
+            >中(Prithviraj)出現了三隻狂猴，他們實際上是玩家必須射擊的三個“玩偶”。若玩家
             選擇了與古魯相遇，他們必須在9秒內拍攝才能掌握 “盲目的拍攝藝術”。
           </p>
           <p>狂猴是Yodit戰役的歡迎家庭場景中的可玩角色。</p>
@@ -69,7 +77,11 @@
           </tr>
           <tr>
             <td class="unit3">資料片</td>
-            <td class="unit4">征服者戰役</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Battles_of_the_Conquerors"
+                >征服者戰役</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">作弊碼</td>
@@ -93,11 +105,11 @@
             <td class="unit4">0.9</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">99</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">99</td>
           </tr>
           <tr>

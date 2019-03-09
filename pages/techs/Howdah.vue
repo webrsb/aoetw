@@ -8,14 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            象轎是<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>象轎</b>是<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Battle_Elephant"
               >矛象伕</nuxt-link
-            >護甲+1近戰護甲/+1遠程護甲。
+            >護甲+1近戰護甲/+1<nuxt-link to="/armor">遠程護甲</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -23,18 +22,26 @@
         <div class="n1">
           <ul>
             <li>
-              象轎讓矛象伕有+1/+1防禦，可以有更高的耐受度與續戰力。由於緬甸有全滿科技的矛象伕(除了<nuxt-link
-                to="/techs/Heresy"
-                >異端邪說</nuxt-link
-              >)，這讓矛象伕的作戰能力更上層樓。象轎研發不需要黃金(不像
+              象轎讓<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              >有+1/+1防禦，可以有更高的耐受度與續戰力。由於<nuxt-link
+                to="/civs/Burmese"
+                >緬甸</nuxt-link
+              >有全滿<nuxt-link to="/techs">科技</nuxt-link
+              >的矛象伕(除了<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
+              >)，這讓矛象伕的作戰能力更上層樓。象轎研發不需要<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >(不像
               <nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
               >和<nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
               >)，所以在很多狀況下都可以優先研發。
             </li>
             <li>
-              矛象伕也可用來對付攻城武器，因為他們能承受更多的炮火。另一個帝王特殊科技<nuxt-link
-                to="/techs/Manipur_Cavalry"
-                >曼尼普爾騎兵</nuxt-link
+              矛象伕也可用來對付<nuxt-link to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >，因為他們能承受更多的炮火。另一個<nuxt-link to="/techs/untech"
+                >帝王特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Manipur_Cavalry">曼尼普爾騎兵</nuxt-link
               >則讓矛象伕的每次攻擊能對
               <nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
               >有更多傷害。
@@ -127,7 +134,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
             </td>
@@ -161,11 +168,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>

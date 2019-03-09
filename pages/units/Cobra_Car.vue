@@ -14,12 +14,23 @@
               alt=""
             />眼鏡蛇汽車（以前稱為謝爾比眼鏡蛇）是世紀帝國二的一個作弊單元。
             這是一個AC眼鏡蛇，可以在目標上發射子彈。它也可以在場景編輯器中找到。
-            眼鏡蛇車的行為非常像快速發射的火槍兵，而不是在戰鬥中使用爆炸性武器，但是，眼鏡蛇車會造成範圍性傷害！
+            <b>眼鏡蛇車</b>的行為非常像快速發射的<nuxt-link
+              to="/units/Hand_Cannoneer"
+              >火槍兵</nuxt-link
+            >，而不是在戰鬥中使用爆炸性武器，但是，眼鏡蛇車會造成範圍性傷害！
           </p>
           <p>
             眼鏡蛇擁有傲人的10攻擊範圍，可以輕鬆虐殺任何其他遊戲中的遠程攻擊者
-            ，也可輕鬆擊垮來襲敵軍，就算擁有駐軍人員或英國長弓手的城
-            堡可以超出它。儘管如此，由於它的高生命值，裝甲和傷害輸出，眼鏡蛇汽車很容易擊退弓兵的軍隊。
+            ，也可輕鬆擊垮來襲敵軍，就算擁有<nuxt-link to="/Garrison"
+              >駐軍</nuxt-link
+            >人員或<nuxt-link to="/civs/Britons">英國</nuxt-link>長弓手的城
+            堡可以超出它。儘管如此，由於它的高<nuxt-link
+              to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >，裝甲和傷害輸出，眼鏡蛇汽車很容易擊退<nuxt-link
+              to="/units/Archer_Units"
+              >弓兵</nuxt-link
+            >的軍隊。
           </p>
           <p>
             眼鏡蛇的一個致命弱點是它們可憐的AI，嚴重依賴適當和持續的微處理，
@@ -44,11 +55,21 @@
           <p>速度為4.5，眼鏡蛇車是VMDL背後第二快的單位。</p>
           <p>在被遺忘的王朝之前，無論玩家的顏色如何，眼鏡蛇車總是藍色的。</p>
           <p>
-            在被遺忘的王朝之前，眼鏡蛇使用輕型投石車圖標。這個名字被更名為“被遺忘的眼鏡蛇汽車”，當時該單位也獲得了新名字，並被納入了地圖編輯器。
+            在被遺忘的王朝之前，眼鏡蛇使用<nuxt-link to="/units/Mangonel"
+              >輕型投石車</nuxt-link
+            >圖標。這個名字被更名為“被遺忘的眼鏡蛇汽車”，當時該單位也獲得了新名字，並被納入了地圖編輯器。
           </p>
           <p>如果汽車在物體後面（在遺忘的王朝之前）它不會顯示它的輪廓。</p>
-          <p>作為攻城武器，眼鏡蛇車可以由村民修理</p>
-          <p>影響眼鏡蛇車的唯一技術是攻城工程師。</p>
+          <p>
+            作為<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+            >，眼鏡蛇車可以由<nuxt-link to="/units/Villager">村民</nuxt-link
+            >修理
+          </p>
+          <p>
+            影響眼鏡蛇車的唯一技術是<nuxt-link to="/techs/Siege_Engineers"
+              >攻城工程師</nuxt-link
+            >。
+          </p>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
@@ -108,7 +129,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
           <tr>
@@ -130,7 +153,9 @@
             <td class="unit4">100%</td>
           </tr>
           <tr>
-            <td class="unit3">爆炸半徑</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Area_of_Effect">爆炸半徑</nuxt-link>
+            </td>
             <td class="unit4">1</td>
           </tr>
           <tr>
@@ -138,11 +163,11 @@
             <td class="unit4">0.25</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
           <tr>

@@ -9,8 +9,18 @@
         <div class="n1">
           <p>
             <strong>洛林的約翰</strong>是《世紀帝國 II HD:
-            帝王世紀》中的一名英雄，可以在聖女貞德第五戰役"巴黎攻城戰"和戰役編輯器中找到。洛林的約翰是以馬克·吐溫的小說“聖女貞德的個人回憶”的洛林的約翰為基礎的。他被形容為“著名的砲手”，約翰二世更邀請他參與攻擊英軍的圍城行動。由於他屬於英雄單位，因此不能被招降且會回血(在征服者資料片後)
-            。
+            <nuxt-link to="/games/aok">帝王世紀</nuxt-link>》中的一名<nuxt-link
+              to="/units/hero"
+              >英雄</nuxt-link
+            >，可以在<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link
+            >第五<nuxt-link to="/batt">戰役</nuxt-link
+            >"巴黎攻城戰"和戰役編輯器中找到。洛林的約翰是以馬克·吐溫的小說“聖女貞德的個人回憶”的洛林的約翰為基礎的。他被形容為“著名的砲手”，約翰二世更邀請他參與攻擊英軍的圍城行動。由於他屬於英雄單位，因此不能被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>(在<nuxt-link
+              to="/units/Conquistador"
+              >征服者</nuxt-link
+            >資料片後) 。
           </p>
           <p></p>
         </div>
@@ -39,12 +49,16 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">攻城武器<br />火藥單位<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              ><br /><nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -52,7 +66,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>
@@ -62,8 +78,13 @@
           <tr>
             <td class="unit3">攻擊加成</td>
             <td class="unit4">
-              對建築+100 <br />對船隻+100 <br />對石頭建築+100
-              <br />對駱駝騎兵+1
+              對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>+100
+              <br />對<nuxt-link to="/armor/Armor_Class_Ship">船隻</nuxt-link
+              >+100 <br />對<nuxt-link to="/armor/Armor_Class_stone_defense"
+                >石頭建築</nuxt-link
+              >+100 <br />對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
+              >+1
             </td>
           </tr>
           <tr>
@@ -71,7 +92,9 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">7</td>
           </tr>
           <tr>
@@ -91,16 +114,16 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -108,7 +131,7 @@
             <td class="unit4">0.75</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">16</td>
           </tr>
         </table>

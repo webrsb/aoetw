@@ -8,9 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            採金技術是<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            <b>採金技術</b>是<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             ><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
-            >的科技，研發後可使村民收集金礦的速度增快15%。
+            >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >收集金礦的速度增快15%。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -19,7 +23,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >:科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >:科技在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>:採金技術免費。
@@ -30,7 +36,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"自古以來甚至史前時代對黃金和白銀的追尋意味著從黑暗時代開始這些貴金屬在表面上幾乎找不到。要找到更多就必須從地下開採。由於貨幣和珠寶需求的推動，中世紀早期的黃金勘探和黃金開採技術相當進步。"</em
+            >"自古以來甚至史前時代對<nuxt-link to="/resource/Gold"
+              >黃金</nuxt-link
+            >和白銀的追尋意味著從<nuxt-link to="/techs/age/Dark_Age"
+              >黑暗時代</nuxt-link
+            >開始這些貴金屬在表面上幾乎找不到。要找到更多就必須從地下開採。由於貨幣和珠寶需求的推動，中世紀早期的黃金勘探和黃金開採技術相當進步。"</em
           >
         </div>
       </div>
@@ -56,7 +66,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -99,7 +109,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

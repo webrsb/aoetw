@@ -8,16 +8,33 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          犀牛在《世紀帝國 II HD:
-          王者崛起》首次出現，有400的肉，但不會被馴化，必須去狩獵或是用斥候或是村民射箭引誘到城鎮中心圍捕，400的肉量比野豬提供的多，是初期相當龐大的食物來源，讓犀牛與象並列世紀帝國II中最有價值的野生食物來源。犀牛只會出現在東南亞地圖上。犀牛跟野豬和象會攻擊激怒牠的單位，不過不一樣的是犀牛通常一群會有三隻左右，最好要一定數量村民去獵殺或是一個村民當誘餌其他村民放箭圍捕比較好。
+          <b>犀牛</b>在<nuxt-link to="/games/aor"
+            >《世紀帝國 II HD: 王者崛起》</nuxt-link
+          >首次出現，有400的肉，但不會被馴化，必須去狩獵或是用<nuxt-link
+            to="/units/Scout_Cavalry"
+            >斥候</nuxt-link
+          >或是<nuxt-link to="/units/Villager">村民</nuxt-link
+          >射箭引誘到<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+          >圍捕，400的肉量比<nuxt-link to="/units/animal/Wild_Boar"
+            >野豬</nuxt-link
+          >提供的多，是初期相當龐大的<nuxt-link to="/resource/Food"
+            >食物</nuxt-link
+          >來源，讓犀牛與象並列世紀帝國II中最有價值的野生食物來源。犀牛只會出現在東南亞地圖上。犀牛跟野豬和象會攻擊激怒牠的單位，不過不一樣的是犀牛通常一群會有三隻左右，最好要一定數量村民去獵殺或是一個村民當誘餌其他村民放箭圍捕比較好。
         </p>
         <h3>文明優勢</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>蒙古:打獵速度快50%</li>
-            <li>馬雅:額外多獵取20%的肉量</li>
-            <li>哥德:村民打野豬攻擊+5，攜帶量+15</li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:打獵速度快50%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多獵取20%的肉量
+            </li>
+            <li>
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link
+              >:村民打野豬攻擊+5，攜帶量+15
+            </li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -63,7 +80,9 @@
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
         </table>

@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>弩兵</b>在<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >的<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
             >訓練，可以有效率的屠殺
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>與<nuxt-link
@@ -20,18 +21,29 @@
               >攻城器</nuxt-link
             >較弱。
           </p>
-          <p>除了西班牙人之外，所有文明都有弩兵。</p>
+          <p>
+            除了<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
+            >之外，所有<nuxt-link to="/civs">文明</nuxt-link>都有弩兵。
+          </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            升級弩兵後，本來訓練弓兵要35秒而縮短到27秒，所以升級弩兵非常重要。與馬和步兵等近戰類兵種的配合，更可以凸顯遠程弩兵的威力，由近戰提供防護，遠程提供火力掩護，一直以來是世紀帝國最好的搭配。
+            升級弩兵後，本來訓練<nuxt-link to="/units/Archer">弓兵</nuxt-link
+            >要35秒而縮短到27秒，所以升級弩兵非常重要。與馬和<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >等近戰類兵種的配合，更可以凸顯<nuxt-link to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >弩兵的威力，由近戰提供防護，遠程提供火力掩護，一直以來是世紀帝國最好的搭配。
           </p>
           <p>
-            城堡時代，弩兵仍是一種主力兵種，尤其團戰你在外家時，雖然一開始數量不多時，容易被高血量、高防禦與高攻擊的<nuxt-link
-              to="/units/Knight"
-              >騎士</nuxt-link
+            <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >，弩兵仍是一種主力兵種，尤其團戰你在外家時，雖然一開始數量不多時，容易被高<nuxt-link
+              to="/elements/Hit_points"
+              >血量</nuxt-link
+            >、高防禦與高攻擊的<nuxt-link to="/units/Knight">騎士</nuxt-link
             >殺爆，但弩兵數量一但起來，配合地形與控兵則可以與
             <nuxt-link to="/units/Knight">騎士</nuxt-link
             >一戰，甚至控制戰場。混搭一些<nuxt-link to="/units/Spearman"
@@ -39,13 +51,15 @@
             >或是<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >也是不錯的組合，而對方有
             <nuxt-link to="/units/Mangonel">投石車</nuxt-link
-            >來時，最好趕快出點騎士反制，因為<nuxt-link to="/units/Mangonel"
-              >投石車</nuxt-link
+            >來時，最好趕快出點<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >反制，因為<nuxt-link to="/units/Mangonel">投石車</nuxt-link
             >將大面積的殺傷你的弩兵。
           </p>
           <p>
             <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
-            >是非常有效對付弩兵的單位，而且不用黃金，但缺點就是只能拿來殺弩兵，打其他單位顯得無力。
+            >是非常有效對付弩兵的單位，而且不用<nuxt-link to="/resource/Gold"
+              >黃金</nuxt-link
+            >，但缺點就是只能拿來殺弩兵，打其他單位顯得無力。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -85,7 +99,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -117,8 +133,9 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Obsidian_Arrows">黑曜石之箭</nuxt-link
-              >:射箭場弓兵單位對<nuxt-link
-                to="/armor/Armor_Class_Standard_Building"
+              >:<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+              ><nuxt-link to="/units/Archer_Units">弓兵單位</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >和
               <nuxt-link to="/armor/Armor_Class_stone_defense"
@@ -217,13 +234,14 @@
                 class="gg"
                 alt=""
               /><nuxt-link to="/techs/Pavise">巨盾</nuxt-link>
-              (+1/+1，非洲王國資料片後的<nuxt-link to="/civs/Italians"
-                >義大利</nuxt-link
-              >限定)
+              (+1/+1，<nuxt-link to="/games/ak">非洲王國</nuxt-link
+              >資料片後的<nuxt-link to="/civs/Italians">義大利</nuxt-link>限定)
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -255,7 +273,9 @@
         <h3>剋射手系的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對射手系的額外傷害，按造傷殺力排列。
+          以下單位擁有對<nuxt-link to="/armor/Armor_Class_Archer"
+            >射手</nuxt-link
+          >系的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -380,7 +400,9 @@
               </div>
             </div>
           </div>
-          團隊加分:<nuxt-link to="/civs/Persians">波斯</nuxt-link
+          <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>:<nuxt-link
+            to="/civs/Persians"
+            >波斯</nuxt-link
           >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
             to="/units/Archer_Units"
             >射手單位</nuxt-link
@@ -411,19 +433,26 @@
                 </li>
                 <li>
                   <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-                  >：弩兵自城堡/帝王時代有額外+1/+2的射程。
+                  >：弩兵自<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                  >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+                  >有額外+1/+2的射程。
                 </li>
                 <li>
-                  <nuxt-link to="/civs/Chinese">中國</nuxt-link
-                  >：弩兵科技在城堡/帝王時代各便宜15%/20%。
+                  <nuxt-link to="/civs/Chinese">中國</nuxt-link>：弩兵<nuxt-link
+                    to="/techs"
+                    >科技</nuxt-link
+                  >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                  >/帝王時代各便宜15%/20%。
                 </li>
                 <li>
                   <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-                  >：弩兵射速快18%。
+                  >：弩兵<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+                  >快18%。
                 </li>
                 <li>
                   <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
-                  >：弩兵在城堡/帝王時代各便宜20%/30%。
+                  >：弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                  >/帝王時代各便宜20%/30%。
                 </li>
                 <li>
                   <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -437,7 +466,8 @@
                 </li>
                 <li>
                   <nuxt-link to="/civs/Vietnamese">越南</nuxt-link
-                  >：弩兵在城堡/帝王時代的血量增加15%/20%。免費<nuxt-link
+                  >：弩兵在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+                  >/帝王時代的血量增加15%/20%。免費<nuxt-link
                     to="/techs/Conscription"
                     >徵兵制度</nuxt-link
                   >。
@@ -463,7 +493,8 @@
                   >速度快20%。
                 </li>
                 <li>
-                  <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：弩兵視野+2。
+                  <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+                  >：弩兵<nuxt-link to="/los.php">視野</nuxt-link>+2。
                 </li>
                 <li>
                   <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -556,13 +587,24 @@
             <div class="hrn1"></div>
             <div class="n1">
               <ul>
-                <li>就木頭而言，弓兵是全遊戲最便宜的遠距離單位。</li>
                 <li>
-                  30hp，全遊戲生命最低的單位，與矛兵、爪刀勇士、飛刀女獵手並列。
+                  就<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                  >而言，弓兵是全遊戲最便宜的<nuxt-link to="/units/Archer_Units"
+                    >遠距離單位</nuxt-link
+                  >。
+                </li>
+                <li>
+                  30hp，全遊戲生命最低的單位，與<nuxt-link
+                    to="/units/Skirmisher"
+                    >矛兵</nuxt-link
+                  >、<nuxt-link to="/units/Karambit_Warrior">爪刀勇士</nuxt-link
+                  >、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>並列。
                 </li>
                 <li>弓兵是唯一沒有任何防禦的遠距離單位。</li>
                 <li>
-                  在最初的世紀帝國裡面，弓箭手和弩兵原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、攻擊力強，但比較慢。
+                  在最初的世紀帝國裡面，<nuxt-link to="/units/Archer"
+                    >弓箭手</nuxt-link
+                  >和弩兵原本是兩種不同的兵種，弓箭手是便宜、射速快但不準確的垃圾單位，而弩兵則是花費木與金的黃金單位，準確度高、攻擊力強，但比較慢。
                 </li>
               </ul>
             </div>
@@ -570,7 +612,18 @@
             <div class="hrn1"></div>
             <div class="n1">
               <p>
-                “弩是一種導彈武器，由連接到木材末端的一側的弓形物組成。弩像現代步槍一樣抵在肩膀上，然後用板機擊發彈藥。弩是在中國古代發明的，但直到中世紀才在歐洲廣泛使用。它發射短的鑿子，石頭或金屬球而不是箭矢。這是一個強大的武器，但比最好的弓範圍更短。不過它使用簡單，製作相對便宜，而且依舊致命。一個只有練習弩幾個小時的農民也能很容易就殺死一個身著盔甲的並受過戰爭訓練的精銳騎士。歐洲的騎士一度試圖讓教會禁止武器。英國國王師心王理查德就是在圍攻期間被弩槍所傷最後死亡。“
+                “弩是一種導彈武器，由連接到<nuxt-link to="/resource/Wood"
+                  >木材</nuxt-link
+                >末端的一側的弓形物組成。弩像現代步槍一樣抵在肩膀上，然後用板機擊發彈藥。弩是在<nuxt-link
+                  to="/civs/Chinese"
+                  >中國</nuxt-link
+                >古代發明的，但直到中世紀才在歐洲廣泛使用。它發射短的鑿子，<nuxt-link
+                  to="/resource/Stone"
+                  >石頭</nuxt-link
+                >或金屬球而不是箭矢。這是一個強大的武器，但比最好的弓範圍更短。不過它使用簡單，製作相對便宜，而且依舊致命。一個只有練習弩幾個小時的農民也能很容易就殺死一個身著盔甲的並受過戰爭訓練的精銳騎士。歐洲的騎士一度試圖讓教會禁止武器。<nuxt-link
+                  to="/civs/Britons"
+                  >英國</nuxt-link
+                >國王獅心王理查德就是在圍攻期間被弩槍所傷最後死亡。“
               </p>
             </div>
           </div>
@@ -603,7 +656,9 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">除了西班牙之外的所有文明</td>
+            <td class="unit4">
+              除了<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>之外的所有文明
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
@@ -667,7 +722,9 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -683,15 +740,15 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
             </td>
@@ -734,7 +791,7 @@
                 class="gg"
                 src="~assets/Arbalest-research.jpg"
                 alt=""
-              />350食物300黃金
+              />350<nuxt-link to="/resource/Food">食物</nuxt-link>300黃金
             </td>
           </tr>
           <tr>
@@ -751,7 +808,9 @@
             <gallery
               ><img class="imgn hg" src="~assets/Archerline.png" alt=""
             /></gallery>
-            <p><em>弓兵系</em></p>
+            <p>
+              <em><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link></em>
+            </p>
           </div>
           <div class="col-md-4">
             <gallery

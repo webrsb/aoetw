@@ -8,17 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            征服者是<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            <b>征服者</b>是<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
             >資料片中<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >的特殊單位，能夠在
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>，能夠在
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。是個高裝甲且騎馬的火藥單位。
+            >中訓練。是個高裝甲且騎馬的<nuxt-link to="/units/Gunpowder_Unit"
+              >火藥單位</nuxt-link
+            >。
           </p>
           <p>
             征服者可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳征服者。
+            >升級為<nuxt-link to="/units/Conquistador">精銳征服者</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -26,18 +28,20 @@
         <div class="n1">
           <ul>
             <li>
-              征服者是具有高攻擊力的騎兵，但和<nuxt-link
-                to="/units/Cavalry_Archer"
-                >馬弓騎兵</nuxt-link
+              征服者是具有高<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >的<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >，但和<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
               >的玩法類似。征服者在機動性和持久性方面比
               <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
               >具有優勢。雖然他們是最短距離的火藥單位，也不像<nuxt-link
                 to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
-              >受益於科技的範圍增加，他們的機動性使他們變得強大而且致命，讓他們非常適合使用打帶跑戰術。在團隊中他們可以製造巨量傷害破壞敵人的陣型。征服者經常搭配
-              <nuxt-link to="/units/Knight">騎士</nuxt-link
-              >吸收遠程單位的傷害，而征服者則殺死敵人的<nuxt-link
-                to="/units/Monk"
+              >受益於<nuxt-link to="/techs">科技</nuxt-link
+              >的範圍增加，他們的機動性使他們變得強大而且致命，讓他們非常適合使用打帶跑戰術。在團隊中他們可以製造巨量傷害破壞敵人的陣型。征服者經常搭配
+              <nuxt-link to="/units/Knight">騎士</nuxt-link>吸收<nuxt-link
+                to="/units/Archer_Units"
+                >遠程單位</nuxt-link
+              >的傷害，而征服者則殺死敵人的<nuxt-link to="/units/Monk"
                 >僧侶</nuxt-link
               >。敵軍騎兵對征服者來說是一個巨大的威脅，尤其是
               <nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link>。<nuxt-link
@@ -102,7 +106,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -150,7 +156,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -241,9 +249,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -504,7 +512,8 @@
               </li>
             </ul>
           </div>
-          以下團隊加分可讓以下單位對征服者有額外傷害:
+          以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+          >可讓以下單位對征服者有額外傷害:
           <div class="n1">
             <nuxt-link to="/civs/Persians">波斯</nuxt-link
             >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -533,8 +542,12 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠加成征服者的科技不需花費黃金。
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >加成征服者的科技不需花費<nuxt-link to="/resource/Gold"
+                >黃金</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -546,7 +559,10 @@
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
                 to="/techs/Kasbah"
                 >聚居堡壘</nuxt-link
-              >能夠提高征服者的生產速度還有加速徵兵制度的研究時間(快25%)
+              >能夠提高征服者的生產速度還有加速<nuxt-link
+                to="/techs/Conscription"
+                >徵兵制度</nuxt-link
+              >的研究時間(快25%)
             </li>
             <li>
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>：<nuxt-link
@@ -569,7 +585,14 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            征服新世界的西班牙冒險家們被稱為征服者。這些人是一群貴族的子弟和尋找冒險和戰利品的幸運士兵。大多數是沒有工作的士兵。他們抵達新大陸，在武器上擁有巨大的技術優勢，當地人無法抵抗劍，火槍的攻擊。馬對第一次遇到牠的當地人來說也都讓他們感到特別恐怖。騎乘的人被認為是某種新生物，半人半四腳的野獸。由於歐洲疾病在當地部落間蔓延，並有時與當地部落結盟攻打其他部落，征服者的小軍隊相對輕鬆地征服了兩個偉大的美國文明，阿茲特克人和印加人。
+            征服新世界的<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+            >冒險家們被稱為征服者。這些人是一群貴族的子弟和尋找冒險和戰利品的幸運士兵。大多數是沒有工作的士兵。他們抵達新大陸，在武器上擁有巨大的技術優勢，當地人無法抵抗劍，火槍的攻擊。馬對第一次遇到牠的當地人來說也都讓他們感到特別恐怖。騎乘的人被認為是某種新生物，半人半四腳的野獸。由於歐洲疾病在當地部落間蔓延，並有時與當地部落結盟攻打其他部落，征服者的小軍隊相對輕鬆地征服了兩個偉大的美國<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >，<nuxt-link to="/civs/Aztecs">阿茲特克人</nuxt-link>和<nuxt-link
+              to="/civs/Incas"
+              >印加人</nuxt-link
+            >。
           </p>
           <p>
             在侵入新世界的歐洲冒險家隊伍中，那些具有超凡能力和決心的士兵成為了精英征服者。這些人是由於他們優越的武器和嚴峻的決心而克服困難並獲得勝利的人。
@@ -653,7 +676,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -670,12 +695,16 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">55/70(精銳)</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">16/18(精銳)(遠程)</td>
+            <td class="unit4">
+              16/18(精銳)(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
@@ -688,11 +717,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.93</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -708,11 +741,11 @@
             <td class="unit4">5.5</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
@@ -735,7 +768,7 @@
             <td class="unit4">1.3</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">8/9(精銳)</td>
           </tr>
           <tr>

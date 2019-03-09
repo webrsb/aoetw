@@ -8,13 +8,24 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            裝甲開局為阿拉伯打法之一，裝甲步兵血多攻擊高，在封建初期無任何對手，直到對方弓兵出來前，都非常具有威脅性。
+            <strong>裝甲開局</strong>為<nuxt-link to="/maps/Arabia"
+              >阿拉伯</nuxt-link
+            >打法之一，<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
+            >血多攻擊高，在封建初期無任何對手，直到對方<nuxt-link
+              to="/units/Archer"
+              >弓兵</nuxt-link
+            >出來前，都非常具有威脅性。
           </p>
           <ul>
             <li>
               <img src="~assets/ManAtArmsIcon.jpg" width="25" alt="" />
               <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
-              >:封建初期近戰王者，不怕少量斥候與槍兵，但比較怕弓兵，殺村民非常快。在封建中後期後因為走得慢逐漸沒用。
+              >:封建初期近戰王者，不怕少量<nuxt-link to="/units/Scout_Cavalry"
+                >斥候</nuxt-link
+              >與<nuxt-link to="/units/Spearman">槍兵</nuxt-link
+              >，但比較怕<nuxt-link to="/units/Archer">弓兵</nuxt-link
+              >，殺<nuxt-link to="/units/Villager">村民</nuxt-link
+              >非常快。在封建中後期後因為走得慢逐漸沒用。
             </li>
           </ul>
         </div>
@@ -22,7 +33,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            裝甲開局非常靈活，上封建可以轉弓兵或斥候。流程為一般升級22p，點封建後出三隻民兵騷擾對方經濟。可擋對方前置與對方的黑快，運氣好可以抓到對方蓋建築村民，甚至殺到對方村民，有騷擾到的話，即使不死村也會經濟大亂。而上封建後如果民兵沒有耗損太多，可以升級裝甲步兵，搭配後續的弓兵或斥候進行更進一步的攻擊。
+            裝甲開局非常靈活，上封建可以轉弓兵或斥候。流程為一般升級22p，點封建後出三隻<nuxt-link
+              to="/units/Militia"
+              >民兵</nuxt-link
+            >騷擾對方經濟。可擋對方前置與對方的黑快，運氣好可以抓到對方蓋<nuxt-link
+              to="/building"
+              >建築</nuxt-link
+            >的村民，甚至殺到對方村民，有騷擾到的話，即使不死村也會經濟大亂。而上封建後如果民兵沒有耗損太多，可以升級裝甲步兵，搭配後續的弓兵或斥候進行更進一步的攻擊。
           </p>
         </div>
         <h3>流程</h3>
@@ -46,7 +63,7 @@
                 <li>17p:殺第二頭豬</li>
                 <li>18~20p:殺豬</li>
                 <li>派一村民挖10金</li>
-                <li>蓋軍營</li>
+                <li>蓋<nuxt-link to="/building/Barracks">軍營</nuxt-link></li>
                 <li>21~22伐木</li>
                 <li>升織布點封建</li>
                 <li>最終封建前配置:5羊2田4果8木2金</li>
@@ -57,20 +74,30 @@
               <ul>
                 <li>點封建後立刻出三隻民兵</li>
                 <li>出發鬧對方經濟</li>
-                <li>上封建後視民兵生命值研發裝甲步兵</li>
-                <li>家裡轉靶場或馬廄</li>
+                <li>
+                  上封建後視民兵<nuxt-link to="/elements/Hit_points"
+                    >生命值</nuxt-link
+                  >研發裝甲步兵
+                </li>
+                <li>
+                  家裡轉射箭場或<nuxt-link to="/building/Stable"
+                    >馬廄</nuxt-link
+                  >
+                </li>
               </ul>
             </div>
           </div>
           <h3>適合文明</h3>
           <div class="hrn1"></div>
-          <div class="n1">一般來說，所有文明都適合</div>
+          <div class="n1">
+            一般來說，所有<nuxt-link to="/civs">文明</nuxt-link>都適合
+          </div>
           <h3>影片</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <div class="row">
               <div class="col-md-4">
-                <h4>天才少年Liereyy<br />民兵開局轉靶場<br />VS Viper</h4>
+                <h4>天才少年Liereyy<br />民兵開局轉射箭場ㄌ<br />VS Viper</h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/gZq5gpm-tFU?list=PLBSs8pc_eAe6Mf4GRRdY_WtarywcK7zXg"
@@ -90,7 +117,7 @@
                 ></iframe>
               </div>
               <div class="col-md-4">
-                <h4>天才少年Liereyy<br />裝甲開局轉靶場<br />vs Viper</h4>
+                <h4>天才少年Liereyy<br />裝甲開局轉射箭場<br />vs Viper</h4>
                 <iframe
                   width="100%"
                   src="https://www.youtube.com/embed/_z-Vv4fNNhE"
@@ -143,12 +170,20 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">適合文明</td>
-            <td class="unit4">匈奴 <br />蒙古 <br />馬扎爾</td>
+            <td class="unit3">適合<nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link> <br /><nuxt-link
+                to="/civs/Mongols"
+                >蒙古</nuxt-link
+              >
+              <br /><nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>
-            <td class="unit4">封建時代</td>
+            <td class="unit4">
+              <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">威力</td>
@@ -160,11 +195,15 @@
           </tr>
           <tr>
             <td class="unit3">優點</td>
-            <td class="unit4">幾乎任何文明可用，靈活度高</td>
+            <td class="unit4">
+              幾乎任何<nuxt-link to="/civs">文明</nuxt-link>可用，靈活度高
+            </td>
           </tr>
           <tr>
             <td class="unit3">缺點</td>
-            <td class="unit4">遇到圍死或裝甲塔會吃虧</td>
+            <td class="unit4">
+              遇到圍死或<nuxt-link to="/ar/armstower">裝甲塔</nuxt-link>會吃虧
+            </td>
           </tr>
         </table>
 

@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>巴黎攻城戰</b
-            >為聖女貞德戰役的第五關劇情關卡，此關任務內容為貞德與法軍前往巴黎市區解救難民，並護送至康白尼的任務。
+            <b>巴黎攻城戰</b>為<nuxt-link to="/batt/Joan_of_Arc"
+              >聖女貞德戰役</nuxt-link
+            >的第五關劇情關卡，此關任務內容為貞德與法軍前往巴黎市區解救難民，並護送至康白尼的任務。
           </p>
         </div>
         <h2>遊戲者</h2>
@@ -22,14 +23,18 @@
           </tr>
           <tr>
             <td class="tc6"><div class="p1">玩家1</div></td>
-            <td class="tc6" colspan="3">法蘭克人（藍色）</td>
+            <td class="tc6" colspan="3">
+              <nuxt-link to="/civs/Franks">法蘭克人</nuxt-link>（藍色）
+            </td>
           </tr>
           <tr>
             <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
           </tr>
           <tr>
             <td class="tc6" width="12%"><div class="p5">玩家4</div></td>
-            <td class="tc6" width="38%">康白尼（藍綠色）法蘭克</td>
+            <td class="tc6" width="38%">
+              康白尼（藍綠色）<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
+            </td>
             <td class="tc6" width="12%"><div class="p4">玩家5</div></td>
             <td class="tc6" width="38%">國王的臣子（黃色）法蘭克</td>
           </tr>
@@ -40,7 +45,12 @@
             <td class="tc6"><div class="p6">玩家2</div></td>
             <td class="tc6">勃根地（紫色）法蘭克</td>
             <td class="tc6"><div class="p2">玩家3</div></td>
-            <td class="tc6">英國（紅色）不列顛</td>
+            <td class="tc6">
+              <nuxt-link to="/civs/Britons">英國</nuxt-link>（紅色）<nuxt-link
+                to="/civs/Britons"
+                >不列顛</nuxt-link
+              >
+            </td>
           </tr>
         </table>
 
@@ -185,12 +195,16 @@
           <ol>
             <li>貞德必須活著。</li>
             <li>
-              巴黎避難的村民正嘗試逃離英國人的專制統治，至少找出六位難民。
+              巴黎避難的<nuxt-link to="/units/Villager">村民</nuxt-link
+              >正嘗試逃離英國人的專制統治，至少找出六位難民。
             </li>
             <li>
               在巴黎要能夠跟國王的增援部隊會合的地方，就只有在河道上的橋樑南邊。
             </li>
-            <li>護衛貞德和至少六名難民前往康白尼 (旗子中間的方塊)。</li>
+            <li>
+              <nuxt-link to="/techs/Squires">護衛</nuxt-link
+              >貞德和至少六名難民前往康白尼 (旗子中間的方塊)。
+            </li>
           </ol>
         </div>
         <h3>任務提示</h3>
@@ -199,7 +213,11 @@
           <ul>
             <li>不要嘗試擊敗每一支英國部隊。要把焦點集中在你的目標。</li>
             <li>
-              看守你的攻城武器。如果你沒有攻城武器的話，敵軍的箭塔將會是一個棘手的問題。
+              看守你的<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >。如果你沒有攻城武器的話，敵軍的<nuxt-link
+                to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >將會是一個棘手的問題。
             </li>
             <li>如果面對著強大的反抗時，就逃走吧！一定要逃走！</li>
           </ul>
@@ -210,7 +228,9 @@
               勃艮第的預設外交立場為同盟，原因不明。但只要他們看到一個玩家的單位，他們就會改變它外交關係並進行攻擊。在這之前先與勃艮第的外交關係改成中立，這樣就可以殲滅勃根地在康白尼城外的所有單位。
             </li>
             <li>
-              國王的臣子在遠北的樹林裡隱藏著一位民兵，這是避免其他玩家攻擊會導致國王的臣子被擊敗。
+              國王的臣子在遠北的樹林裡隱藏著一位<nuxt-link to="/units/Militia"
+                >民兵</nuxt-link
+              >，這是避免其他玩家攻擊會導致國王的臣子被擊敗。
             </li>
           </ul>
         </div>
@@ -243,13 +263,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">戰役</td>
+            <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
             </td>

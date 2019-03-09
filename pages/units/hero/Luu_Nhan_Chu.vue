@@ -8,16 +8,35 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            劉仁澍是個徒步弓兵英雄，只會在"王者崛起"資料片中的地圖編輯器中出現。
+            <b>劉仁澍</b>是個徒步<nuxt-link to="/units/Archer_Units"
+              >弓兵英雄</nuxt-link
+            >，只會在"王者崛起"資料片中的地圖編輯器中出現。
           </p>
-          <p>劉仁澍的外表是強弩兵，他不能被招降而且會自行回血。</p>
+          <p>
+            劉仁澍的外表是<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
+            >，他不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+          </p>
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <p>
-            劉仁澍（－1433年），即黎仁澍，越南後黎朝初期將領，為藍山起義時黎利麾下重要將領之一。
+            劉仁澍（－1433年），即黎仁澍，<nuxt-link to="/civs/Vietnamese"
+              >越南</nuxt-link
+            >後黎朝初期將領，為藍山起義時<nuxt-link to="/units/hero/Le_Loi"
+              >黎利</nuxt-link
+            >麾下重要將領之一。
           </p>
           <p>
-            劉仁澍是太原府大慈縣人。1416年，清化豪族黎利舉行龍崖會誓，劉仁澍與黎慎、黎文安、黎文零、鄭可、張雷、黎柳、裴國興、黎寧、黎獫、武威、阮廌、丁列、黎來、黎涪、阮理、張斕等十八人一起，與黎利一同祭拜東王公，發動藍山起義以反抗明朝的統治。此後，先後追隨黎利到至靈山和乂安。1425年，丁禮奉黎利之命攻打演州，劉仁澍與黎察一起率兵接應。1427年，明朝派柳升討伐黎利，劉仁澍與黎察、黎冷、丁列、黎受奉命帶兵一萬戰象五隻設伏於支棱關（在今諒山省），大敗明軍，將柳升擊斃。
+            劉仁澍是太原府大慈縣人。1416年，清化豪族黎利舉行龍崖會誓，劉仁澍與黎慎、黎文安、黎文零、鄭可、張雷、黎柳、裴國興、黎寧、黎獫、武威、阮廌、丁列、<nuxt-link
+              to="/units/hero/Le_Lai"
+              >黎來</nuxt-link
+            >、黎涪、阮理、張斕等十八人一起，與黎利一同祭拜東王公，發動藍山起義以反抗明朝的統治。此後，先後追隨黎利到至靈山和乂安。1425年，<nuxt-link
+              to="/units/hero/Dinh_Le"
+              >丁禮</nuxt-link
+            >奉黎利之命攻打演州，劉仁澍與黎察一起率兵接應。1427年，明朝派柳升討伐黎利，劉仁澍與黎察、黎冷、丁列、黎受奉命帶兵一萬<nuxt-link
+              to="/units/War_Elephant"
+              >戰象</nuxt-link
+            >五隻設伏於支棱關（在今諒山省），大敗明軍，將柳升擊斃。
           </p>
           <p>
             後黎朝建立之後，劉仁澍被認定為功臣，賜國姓黎。1429年，黎利封長子開郡公黎思齊為國王，次子梁郡公黎元龍（即後來的黎太宗）為皇太子，令黎仁澍（劉仁澍）與黎察、黎銀、黎理（阮理）和黎國興（裴國興）五人一起輔佐黎元龍。1431年，被封為司寇。
@@ -53,12 +72,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">弓兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -66,23 +88,33 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">12(遠程)</td>
+            <td class="unit4">
+              12(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對衝撞車+2</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>+2
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -99,24 +131,26 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">弓兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>

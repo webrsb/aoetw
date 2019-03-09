@@ -8,9 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            採石技術是<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            <b>採石技術</b>是<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             ><nuxt-link to="/building/Mining_Camp">採礦營地</nuxt-link
-            >的科技，研發後可使村民收集石礦的速度增快15%。
+            >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >收集<nuxt-link to="/resource/Stone">石礦</nuxt-link>的速度增快15%。
           </p>
         </div>
         <h3>文明加成</h3>
@@ -19,7 +23,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >:科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >:科技在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜10%/15%/20%。
             </li>
           </ul>
         </div>
@@ -27,7 +33,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"黑暗時期歐洲的主要建築材料是木材因為木材存量豐富。接下來最有用的是從腐朽沒有人知道如何修復的羅馬建築中拯救的石頭。隨著文明再次在這一領域融合，建築行業復甦，石材作為建築材料變得更加理想和實惠。採礦或採石需要製造石材切割工具和將石料從採石場運到建築工地的技術。"</em
+            >"黑暗時期歐洲的主要建築材料是<nuxt-link to="/resource/Wood"
+              >木材</nuxt-link
+            >因為木材存量豐富。接下來最有用的是從腐朽沒有人知道如何修復的羅馬建築中拯救的<nuxt-link
+              to="/resource/Stone"
+              >石頭</nuxt-link
+            >。隨著<nuxt-link to="/civs">文明</nuxt-link
+            >再次在這一領域融合，建築行業復甦，石材作為建築材料變得更加理想和實惠。採礦或採石需要製造石材切割工具和將石料從採石場運到建築工地的技術。"</em
           >
         </div>
       </div>
@@ -96,7 +108,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>

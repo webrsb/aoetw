@@ -8,9 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            長槍兵是<nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
+            <b>長槍兵</b>是<nuxt-link to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
             >，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
-            >可以從軍營生產。華人圈喜歡稱長槍兵為「XX(音同叉叉)」、斗笠、搓搓。
+            >可以從<nuxt-link to="/building/Barracks">軍營</nuxt-link
+            >生產。華人圈喜歡稱長槍兵為「XX(音同叉叉)」、斗笠、搓搓。
           </p>
           <p>
             初期是防禦敵人<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
@@ -30,8 +32,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            長槍兵便宜、容易集結，使他們能夠壓倒敵方的騎兵。它們對防止早期的<nuxt-link
-              to="/units/Scout_Cavalry"
+            長槍兵便宜、容易集結，使他們能夠壓倒敵方的<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >。它們對防止早期的<nuxt-link to="/units/Scout_Cavalry"
               >斥候</nuxt-link
             >是很有效，但是對於
             <nuxt-link to="/units/Knight">騎士</nuxt-link>或<nuxt-link
@@ -70,7 +74,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -96,8 +102,10 @@
                 src="~assets/Arson.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -114,10 +122,11 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
-              >:步兵單位有踐踏傷害，<nuxt-link to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >限定。 <br />
+              /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link>:<nuxt-link
+                to="/units/Infantry_Units"
+                >步兵單位</nuxt-link
+              >有<nuxt-link to="/elements/Area_of_Effect">踐踏傷害</nuxt-link
+              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。 <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
@@ -168,7 +177,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -179,7 +190,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -220,7 +233,9 @@
         <h3>剋長槍兵的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          以下單位擁有對長槍兵類的額外傷害，按造傷殺力排列。
+          以下單位擁有對長<nuxt-link to="/armor/Armor_Class_Spearman"
+            >槍兵類</nuxt-link
+          >的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -339,8 +354,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Skirmisher"
                       >帝王戰矛兵</nuxt-link
-                    >(帝王戰矛兵是<nuxt-link to="/civs/Vietnamese"
-                      >越南</nuxt-link
+                    >(<nuxt-link to="/units/Imperial_Skirmisher"
+                      >帝王戰矛兵</nuxt-link
+                    >是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
                     >及其同盟限定)
                   </li>
                   <li>
@@ -392,7 +408,8 @@
                     <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>→
                     <img class="gg" src="~assets/ChuKoNuIcon.jpg" alt="" />
                     <nuxt-link to="/units/Chu_Ko_Nu"
-                      >精銳連弩兵(<nuxt-link to="/civs/Chinese">中國</nuxt-link
+                      ><nuxt-link to="/units/Chu_Ko_Nu">精銳連弩兵</nuxt-link
+                      >(<nuxt-link to="/civs/Chinese">中國</nuxt-link
                       >限定)</nuxt-link
                     >
                   </li>
@@ -537,7 +554,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >：長槍兵在封建/城堡/帝王時代有 +1/+2/+3 攻擊。
+              >：長槍兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>有
+              +1/+2/+3 攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
@@ -549,11 +569,13 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：有利於長槍兵的技術在封建/城堡/帝王時代便宜10％/ 15％/ 20％。
+              >：有利於長槍兵的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜10％/ 15％/ 20％。
             </li>
             <li>
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-              >:免費升級重裝長槍兵。
+              >:免費升級<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
@@ -567,8 +589,10 @@
               >和升級重裝長槍兵的速度快100%。
             </li>
             <li>
-              <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >：長槍兵攻擊速度快33％。
+              <nuxt-link to="/civs/Japanese">日本</nuxt-link>：長槍兵<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快33％。
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
@@ -578,7 +602,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：長槍兵在封建/城堡/帝王時代有 +1/+2/+3 遠程護甲。
+              >：長槍兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代有 +1/+2/+3
+              <nuxt-link to="/armor">遠程護甲</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>：免費<nuxt-link
@@ -590,7 +617,8 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >對長槍兵有利的科技升級不須黃金。
+              >對長槍兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >升級不須<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
@@ -600,7 +628,11 @@
             </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：長槍兵在封建/城堡/帝王時代擁有10％/15％/20％的生命值。
+              >：長槍兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代擁有10％/15％/20％的<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -639,7 +671,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:長槍兵在封建/城堡/帝王時代便宜10%/15%/25%。
+              >:長槍兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜10%/15%/25%。
             </li>
           </ul>
           <h3>
@@ -686,17 +720,25 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:在4.8b版本後，<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >讓長槍兵對駱駝有額外+2攻擊。
+              >讓長槍兵對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >有額外+2攻擊。
             </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aor">王者崛起</nuxt-link></em>
           </h3>
           <ul>
-            <li>5.7版本後長槍兵對駱駝有+12的攻擊。</li>
+            <li>
+              5.7版本後長槍兵對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >有+12的攻擊。
+            </li>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >:5.7版本後，酋長對駱駝+4攻擊，而不是+2。
+              >:5.7版本後，<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
+              >+4攻擊，而不是+2。
             </li>
           </ul>
         </div>
@@ -704,7 +746,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>和矛兵一樣是最便宜的單位。</li>
+            <li>
+              和<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >一樣是最便宜的單位。
+            </li>
             <li>唯一沒有任何裝甲防禦的步兵單位。</li>
           </ul>
         </div>
@@ -720,7 +765,10 @@
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
           <li>
-            槍或稱鎗，是一種桿端有尖刃的長柄武器，是相當早出現的武器之一，曾經長期在戰場上使用，有「百兵之王」之稱。現代的中國武術中也有槍術
+            槍或稱鎗，是一種桿端有尖刃的長柄武器，是相當早出現的武器之一，曾經長期在戰場上使用，有「百兵之王」之稱。現代的<nuxt-link
+              to="/civs/Chinese"
+              >中國</nuxt-link
+            >武術中也有槍術
           </li>
           <li>
             長柄兵器進入戰場，除了車兵與騎兵使用之外，在步兵使用亦廣，是接續在盾牌步兵後面，利用盾牌與盾牌之間的空隙進行突刺。
@@ -753,7 +801,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -799,7 +847,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">45</td>
           </tr>
           <tr>
@@ -832,15 +882,15 @@
             <td class="unit4">3.05</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br />

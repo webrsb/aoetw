@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            倒鉤斧是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>倒鉤斧</b>是<nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Throwing_Axeman"
@@ -23,10 +23,18 @@
         <div class="n1">
           <ul>
             <li>
-              雖然攻擊範圍+1看起來微不足道，倒鉤斧可以讓擲斧兵在遠程戰鬥中更加彈性化，因為法蘭克人無法訓練<nuxt-link
-                to="/units/Arbalest"
-              ></nuxt-link
-              >強弩兵，弓兵的科技樹也很差。 特別是在暴民和“stand
+              雖然攻擊範圍+1看起來微不足道，倒鉤斧可以讓<nuxt-link
+                to="/units/Throwing_Axeman"
+                >擲斧兵</nuxt-link
+              >在<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+              >戰鬥中更加彈性化，因為<nuxt-link to="/civs/Franks"
+                >法蘭克人</nuxt-link
+              >無法訓練<nuxt-link to="/units/Arbalest"></nuxt-link
+              ><nuxt-link to="/units/Arbalest">強弩兵</nuxt-link>，<nuxt-link
+                to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >的<nuxt-link to="/tree/vie">科技樹</nuxt-link>也很差。
+              特別是在暴民和“stand
               ground”模式下，擲斧兵可以更容易地消滅<nuxt-link
                 to="/units/Infantry_Units"
                 >步兵</nuxt-link
@@ -77,7 +85,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
             </td>
@@ -111,11 +119,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>

@@ -8,14 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            雇傭兵是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>雇傭兵</b>是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Magyar_Huszar"
               >馬扎爾驃騎兵</nuxt-link
-            >不需花費黃金。
+            >不需花費<nuxt-link to="/resource/Gold">黃金</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -23,10 +22,10 @@
         <div class="n1">
           <ul>
             <li>
-              馬扎爾驃騎兵可說是比較強的<nuxt-link
-                to="/units/Hussar"
-              ></nuxt-link
-              >匈牙利輕騎兵。如果馬扎爾玩家想大量使用馬扎爾驃騎兵，那應該盡快研發雇傭兵。研發後馬扎爾驃騎兵會變成所謂的"垃圾單位"，這可讓馬扎爾玩家在遊戲後期省下更多的黃金並在所謂的"垃圾戰爭"中取得更好的優勢。
+              <nuxt-link to="/units/Magyar_Huszar">馬扎爾驃騎兵</nuxt-link
+              >可說是比較強的<nuxt-link to="/units/Hussar"></nuxt-link
+              ><nuxt-link to="/units/Hussar">匈牙利輕騎兵</nuxt-link
+              >。如果馬扎爾玩家想大量使用馬扎爾驃騎兵，那應該盡快研發雇傭兵。研發後馬扎爾驃騎兵會變成所謂的"垃圾單位"，這可讓馬扎爾玩家在遊戲後期省下更多的黃金並在所謂的"垃圾戰爭"中取得更好的優勢。
             </li>
             <li>
               馬扎爾驃騎兵即使沒有雇傭兵也只花費10黃金，所以要研發雇傭兵的情況只有在訓練超過30隻以上的馬扎爾驃騎兵才需要。
@@ -68,7 +67,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>
             </td>
@@ -102,7 +101,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>

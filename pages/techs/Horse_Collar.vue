@@ -8,9 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬軛可於<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            <b>馬軛</b>可於<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
             >的<nuxt-link to="/building/Mill">磨坊</nuxt-link
-            >研發。可讓新種植的農田產量增加75食物(總共250食物)。重犁是更進一步的科技。
+            >研發。可讓新種植的<nuxt-link to="/building/Farm">農田</nuxt-link
+            >產量增加75<nuxt-link to="/resource/Food">食物</nuxt-link
+            >(總共250食物)。<nuxt-link to="/techs/Heavy_Plow">重犁</nuxt-link
+            >是更進一步的<nuxt-link to="/techs">科技</nuxt-link>。
           </p>
           <p>
             已耕種的農田即便馬軛研發完直到再次播種前都會維持原產量175食物，若是正在建造的農田則會吃到完整加成變250食物。
@@ -22,7 +26,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在封建/城堡/帝王時代花費便宜10%/15%/20%。
+              >：該科技在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：該科技免費。
@@ -33,8 +40,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <em
-            >"在黑暗時代，牛群是農場動物力量的主要來源，儘管馬被認為更強壯，更易於使用。然而，馬匹的牽繩會絆住他們，因此嚴重限制了它的拉力。
-            在東方，可能是中國，發明了一種胸前領，並在之後傳播到歐洲。這對歐洲農業來說是一個重要的創新，因為它極大地提高了馬匹的拉力。減少了耕地所需的時間，並讓更多的土地被種植。"</em
+            >"在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+            >，牛群是農場動物力量的主要來源，儘管馬被認為更強壯，更易於使用。然而，馬匹的牽繩會絆住他們，因此嚴重限制了它的拉力。
+            在東方，可能是<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >，發明了一種胸前領，並在之後傳播到歐洲。這對歐洲農業來說是一個重要的創新，因為它極大地提高了馬匹的拉力。減少了耕地所需的時間，並讓更多的土地被種植。"</em
           >
         </div>
       </div>
@@ -60,7 +69,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -101,7 +110,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">75</td>
           </tr>
           <tr>

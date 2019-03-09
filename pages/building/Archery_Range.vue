@@ -6,7 +6,10 @@
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
-        <div class="n1">射箭場是生產弓箭手與其他遠距部隊的建築。</div>
+        <div class="n1">
+          <b>射箭場</b>是生產<nuxt-link to="/units/Archer">弓箭手</nuxt-link
+          >與其他遠距部隊的<nuxt-link to="/building">建築</nuxt-link>。
+        </div>
         <p></p>
         <h3>可訓練的單位與技術</h3>
         <div class="hrn1"></div>
@@ -152,7 +155,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -189,7 +194,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -207,7 +212,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">招降抵抗</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -254,8 +261,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：弩兵快生產快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
+                to="/units/Crossbowman"
+                >弩兵</nuxt-link
+              >快生產快15%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研發<nuxt-link
@@ -265,14 +274,17 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：射箭場在封建／城堡／帝王時代多20%／30%／40%的血量，<nuxt-link
-                to="/techs/Town_Watch"
-                >城鎮瞭望</nuxt-link
-              >免費。
+              >：射箭場在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >多20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >，<nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對射箭場有利的科技在封建／城堡／帝王時代各便宜10%／15%／20%。
+              >：對射箭場有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在封建/城堡/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：蓋射箭場不用
@@ -345,7 +357,10 @@
         <div class="n1">
           <p>
             在世界大部分地區，弓箭這類的導彈武器人類從遠古時代到中世紀一直在使用。北歐是個例外，因為該地區茂密的森林使弓的範圍優勢無效。斧頭，標槍和刀子等投擲武器在那裡更受歡迎。隨著森林被清除，弓的使用更加普及。
-            英格蘭尤其青睞弓箭手，每個城鎮都有射箭場進行弓箭訓練。每週也會舉行比賽以鼓勵眾人練習這項技術。英格蘭可以輕鬆地從龐大的弓箭手中招募數千名精銳長弓兵來到法國參加作戰。
+            英格蘭尤其青睞弓箭手，每個城鎮都有射箭場進行弓箭訓練。每週也會舉行比賽以鼓勵眾人練習這項技術。英格蘭可以輕鬆地從龐大的弓箭手中招募數千名<nuxt-link
+              to="/units/Longbowman"
+              >精銳長弓兵</nuxt-link
+            >來到<nuxt-link to="/civs/Franks">法國</nuxt-link>參加作戰。
             隨著弩弓和早期火器的投入使用，人們會在經過改裝的射箭場上練習使用這些武器。
           </p>
         </div>
@@ -376,7 +391,7 @@
             <td class="unit4">軍事</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -441,7 +456,7 @@
             <td class="unit4">10</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -464,7 +479,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -518,7 +533,12 @@
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
               <p>
-                <em>所有封建時代的射箭場（帝王世紀和征服者入侵資料片）。</em>
+                <em
+                  >所有<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+                  >的射箭場（<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片）。</em
+                >
               </p>
             </div>
           </div>
@@ -544,7 +564,10 @@
             /></gallery>
             <div class="lightbox-caption" style="width:185px">
               <p>
-                <em>所有城堡時代的射箭場（帝王世紀和征服者入侵資料片）。</em>
+                <em
+                  >所有<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                  >的射箭場（帝王世紀和征服者入侵資料片）。</em
+                >
               </p>
             </div>
           </div>

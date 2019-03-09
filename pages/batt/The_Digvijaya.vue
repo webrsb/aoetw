@@ -8,7 +8,13 @@
       <div class="col-md-8">
         <div class="n1">
           <p></p>
-          <p>逐鹿迪格維傑之地為失落帝國戰役中布里斯比羅吉劇情戰役的第二關。</p>
+          <p>
+            <b>逐鹿迪格維傑之地</b>為<nuxt-link
+              to="/batt/Battles_of_the_Forgotten"
+              >失落帝國戰役</nuxt-link
+            >中<nuxt-link to="/units/hero/Prithviraj">布里斯比羅吉</nuxt-link
+            >劇情<nuxt-link to="/batt">戰役</nuxt-link>的第二關。
+          </p>
         </div>
         <h2>玩家</h2>
         <div class="hrn1"></div>
@@ -17,9 +23,18 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">封建時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">100木頭，100食物，0黃金，0石頭</td>
+              <td class="tc2">
+                100<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，100<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，0<nuxt-link to="/resource/Gold">黃金</nuxt-link>，0<nuxt-link
+                  to="/resource/Stone"
+                  >石頭</nuxt-link
+                >
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">150</td>
             </tr>
@@ -37,7 +52,9 @@
                 <div class="p8"></div>
                 玩家1：
               </td>
-              <td class="tc6" colspan="4">主角（橘色）印度</td>
+              <td class="tc6" colspan="4">
+                主角（橘色）<nuxt-link to="/civs/Indians">印度</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
@@ -81,18 +98,30 @@
                 <div class="p3"></div>
                 玩家7：
               </td>
-              <td class="tc6" width="35%">伽色尼人（綠色）土耳其</td>
+              <td class="tc6" width="35%">
+                伽色尼人（綠色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+              </td>
               <td class="tc6" width="15%">
                 <div class="p7"></div>
                 玩家8：
               </td>
-              <td class="tc6" width="35%">索蘭基人（灰色）波斯</td>
+              <td class="tc6" width="35%">
+                索蘭基人（灰色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <h3>開場：</h3>
           <p>
-            布里斯比羅吉、1名僧侶、2位斥輕騎兵、3位弓兵、4位騎士、5位長槍兵、6位重裝長槍兵、4輛貿易車隊、11位村民
+            布里斯比羅吉、1名<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >、2位斥<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+            >、3位<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            >、4位<nuxt-link to="/units/Knight">騎士</nuxt-link>、5位<nuxt-link
+              to="/units/Spearman"
+              >長槍兵</nuxt-link
+            >、6位<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link
+            >、4輛<nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
+            >、11位<nuxt-link to="/units/Villager">村民</nuxt-link>
           </p>
           <h3>大地之母單位：</h3>
           <p>5位村民、4輛貿易車隊</p>
@@ -101,7 +130,11 @@
           <div class="n1">
             <ol>
               <li>征服除了伽色尼人（綠）之外的4個敵對勢力。</li>
-              <li>你一開始就有的那兩座城堡不能都被摧毀。</li>
+              <li>
+                你一開始就有的那兩座<nuxt-link to="/building/Castle"
+                  >城堡</nuxt-link
+                >不能都被摧毀。
+              </li>
               <li>布里斯比羅吉必須活著。</li>
             </ol>
           </div>
@@ -111,14 +144,27 @@
         <div class="n1">
           <ol>
             <li>
-              摧毀加哈達瓦拉人（紫）用於控制南部市集的箭塔，以幫助喀什米爾人（藍）。
+              摧毀加哈達瓦拉人（紫）用於控制南部<nuxt-link to="/building/Market"
+                >市集</nuxt-link
+              >的<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >，以幫助喀什米爾人（藍）。
             </li>
-            <li>帶25位象弓騎兵給加哈達瓦拉人 （紫）。</li>
-            <li>殺死加哈達瓦拉人（紫）的首領，以便招降昌德拉人（黃）。</li>
+            <li>
+              帶25位<nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
+              >給加哈達瓦拉人 （紫）。
+            </li>
+            <li>
+              殺死加哈達瓦拉人（紫）的首領，以便<nuxt-link
+                to="/elements/Conversion"
+                >招降</nuxt-link
+              >昌德拉人（黃）。
+            </li>
             <li>在帕拉羅摩人（水藍）附近插著旗幟的山頭那建造一座城堡。</li>
             <li>
-              給索蘭基人（灰）1,000石頭，
-              1,000金子和1,000木材，幫助他們建造紀念碑。
+              給索蘭基人（灰）1,000石頭， 1,000金子和1,000<nuxt-link
+                to="/resource/Wood"
+                >木材</nuxt-link
+              >，幫助他們建造紀念碑。
             </li>
             <li>把聖物交給帕拉羅摩人（水藍）以便交換索求巨型投石器。</li>
           </ol>
@@ -133,7 +179,10 @@
                 大部分的資源都能在你營地四周的郊野那裡找到，但是要小心敵人的侵擾。圍牆內的城鎮可保護村民免遭敵人毒手。
               </li>
               <li>
-                你可以掃蕩敵軍，也可以勸降他們。斥候應該會給你一些有用的軍事情報。
+                你可以掃蕩敵軍，也可以勸降他們。<nuxt-link
+                  to="/units/Scout_Cavalry"
+                  >斥候</nuxt-link
+                >應該會給你一些有用的軍事情報。
               </li>
             </ul>
           </div>
@@ -197,7 +246,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Indians">印度</nuxt-link>
             </td>
@@ -209,7 +258,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">失落帝國第六章之二</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落帝國</nuxt-link>第六章之二
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

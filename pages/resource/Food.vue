@@ -8,7 +8,8 @@
       <div class="row">
         <div class="col-md-12">
           <p>
-            食物是玩家必須收集的重要資源之一，玩家必須不斷收集食物，用於創建單位、研究技術、時代進階…等。
+            <b>食物</b
+            >是玩家必須收集的重要資源之一，玩家必須不斷收集食物，用於創建單位、研究技術、時代進階…等。
           </p>
           <p>透過下列方法可採集食物：</p>
           <ul>
@@ -25,10 +26,15 @@
             to="/building/Town_Center"
             >城鎮中心</nuxt-link
           >、<nuxt-link to="/building/Mill">磨坊</nuxt-link
-          >（沿海魚群若是由村民採集，也是於城鎮中心或磨坊儲存資源）
+          >（沿海魚群若是由<nuxt-link to="/units/Villager">村民</nuxt-link
+          >採集，也是於<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
+          >或<nuxt-link to="/building/Mill">磨坊</nuxt-link>儲存資源）
         </div>
         <div class="col-md-12">
-          魚類收集：<nuxt-link to="/building/Dock">碼頭</nuxt-link>
+          <nuxt-link to="/units/animal/fish">魚類</nuxt-link>收集：<nuxt-link
+            to="/building/Dock"
+            >碼頭</nuxt-link
+          >
         </div>
         <div class="col-md-12">
           資源買賣：<nuxt-link to="/building/Market">市集</nuxt-link>
@@ -70,7 +76,10 @@
                 bgcolor="#E0E0E0"
                 border="#495057;"
               >
-                <strong>綿羊（Sheep）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Sheep">綿羊</nuxt-link
+                  >（Sheep）</strong
+                >
               </td>
               <td
                 style="border: 1px solid #495057;"
@@ -94,7 +103,10 @@
                 </div>
               </td>
               <td style="border: 1px solid #495057;" width="15%">
-                <strong>山羊（Goat）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Goat">山羊</nuxt-link
+                  >（Goat）</strong
+                >
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
@@ -144,7 +156,10 @@
                 </div>
               </td>
               <td style="border: 1px solid #495057;" width="15%">
-                <strong>火雞（Turkey）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Turkey">火雞</nuxt-link
+                  >（Turkey）</strong
+                >
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
@@ -183,7 +198,13 @@
                 bgcolor="#E0E0E0"
               >
                 <span class="unititle"
-                  >玩家經過即可收編操控，主要出沒在美洲地圖和叢林隨機地圖。印加文明於遊戲開始時會擁有一隻羊駝，視野比一般綿羊大。</span
+                  >玩家經過即可收編操控，主要出沒在美洲地圖和叢林隨機地圖。<nuxt-link
+                    to="/civs/Incas"
+                    >印加</nuxt-link
+                  ><nuxt-link to="/civs">文明</nuxt-link
+                  >於遊戲開始時會擁有一隻羊駝，<nuxt-link to="/los.php"
+                    >視野</nuxt-link
+                  >比一般綿羊大。</span
                 >
               </td>
             </tr>
@@ -267,7 +288,10 @@
                 </div>
               </td>
               <td style="border: 1px solid #495057;" width="15%">
-                <strong>水牛（Water Buffalo）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Water_Buffalo">水牛</nuxt-link
+                  >（Water Buffalo）</strong
+                >
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
@@ -321,7 +345,8 @@
               </td>
               <td style="border: 1px solid #495057;" width="20%" rowspan="4">
                 <span class="unititle"
-                  >可使用斥候將鹿趕至<nuxt-link to="/building/Town_Center"
+                  >可使用<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
+                  >將鹿趕至<nuxt-link to="/building/Town_Center"
                     >城鎮中心</nuxt-link
                   >或磨坊旁，村民攻擊2次即可殺死，建議兩位村民同時打獵，以避免鹿反向逃跑。</span
                 >
@@ -343,7 +368,10 @@
                 width="15%"
                 bgcolor="#E0E0E0"
               >
-                <strong>鴕鳥（Ostrich）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link
+                  >（Ostrich）</strong
+                >
               </td>
               <td
                 style="border: 1px solid #495057;"
@@ -406,7 +434,10 @@
                 </div>
               </td>
               <td style="border: 1px solid #495057;" bgcolor="#E0E0E0">
-                <strong>斑馬（Zebra</strong>）
+                <strong
+                  ><nuxt-link to="/units/animal/Zebra">斑馬</nuxt-link
+                  >（Zebra</strong
+                >）
               </td>
               <td
                 style="border: 1px solid #495057;"
@@ -433,7 +464,10 @@
                 </div>
               </td>
               <td style="border: 1px solid #495057;">
-                <strong>野豬（Wild Boar或Javelina）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Wild_Boar">野豬</nuxt-link
+                  >（Wild Boar或Javelina）</strong
+                >
               </td>
               <td style="border: 1px solid #495057;" rowspan="4">
                 <span class="unititle"
@@ -481,7 +515,9 @@
                   >受攻擊後會反擊，須由多位村民合力殺死。它比野豬提供更多的食物，該動物於<nuxt-link
                     to="/games/ak"
                     >非洲王國</nuxt-link
-                  >版本中新增，主要出沒在非洲或印度的地圖。</span
+                  >版本中新增，主要出沒在非洲或<nuxt-link to="/civs/Indians"
+                    >印度</nuxt-link
+                  >的地圖。</span
                 >
               </td>
               <td
@@ -496,7 +532,10 @@
                 </div>
               </td>
               <td style="border: 1px solid #495057;" bgcolor="#E0E0E0">
-                <strong>犀牛（Rhino）</strong>
+                <strong
+                  ><nuxt-link to="/units/animal/Rhinoceros">犀牛</nuxt-link
+                  >（Rhino）</strong
+                >
               </td>
               <td
                 style="border: 1px solid #495057;"
@@ -625,11 +664,15 @@
                   </li>
                   <li>
                     <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-                    >：採集者的工作速度提高了25%（失落的帝國版本中）
+                    >：採集者的工作速度提高了25%（<nuxt-link to="/games/aof"
+                      >失落的帝國</nuxt-link
+                    >版本中）
                   </li>
                   <li>
                     <nuxt-link to="/civs/Mayans">馬雅</nuxt-link
-                    >：自然資源存量+15%（征服者入侵版本中+20%）
+                    >：自然資源存量+15%（<nuxt-link to="/games/aoc"
+                      >征服者入侵</nuxt-link
+                    >版本中+20%）
                   </li>
                 </ul>
               </td>
@@ -653,7 +696,13 @@
                 class="unit"
               >
                 <center>
-                  <div id="C"><strong>建立農田</strong></div>
+                  <div id="C">
+                    <strong
+                      >建立<nuxt-link to="/building/Farm"
+                        >農田</nuxt-link
+                      ></strong
+                    >
+                  </div>
                 </center>
               </td>
             </tr>
@@ -676,7 +725,10 @@
                 style="border: 1px solid #495057;"
               >
                 <strong>農田</strong
-                ><strong>（Farmland）<br /> </strong>建置消耗：60木頭<br />
+                ><strong>（Farmland）<br /> </strong>建置消耗：60<nuxt-link
+                  to="/resource/Wood"
+                  >木頭</nuxt-link
+                ><br />
                 最初收穫量：175食物
               </td>
               <td
@@ -746,13 +798,17 @@
               >
                 <p class="unititle">
                   <br />
-                  村民可以在沿岸捕魚（資源僅能收進城鎮中心及磨坊，無法收進碼頭），<nuxt-link
+                  村民可以在沿岸捕魚（資源僅能收進城鎮中心及磨坊，無法收進<nuxt-link
                     to="/building/Dock"
                     >碼頭</nuxt-link
+                  >），<nuxt-link to="/building/Dock">碼頭</nuxt-link
                   >所生產之<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
                   >可以在海上捕魚。<br />
-                  黑暗時代即可建造<nuxt-link to="/building/Dock">碼頭</nuxt-link
-                  >生產漁船，消耗75木材。<br />
+                  <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+                  >即可建造<nuxt-link to="/building/Dock">碼頭</nuxt-link
+                  >生產<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
+                  >，消耗75<nuxt-link to="/resource/Wood">木材</nuxt-link
+                  >。<br />
                   在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
                   >版本中，新增了<nuxt-link to="/techs/Gillnets"
                     >流刺網</nuxt-link
@@ -793,11 +849,25 @@
                   </li>
                   <li>
                     <nuxt-link to="/civs/Japanese">日本</nuxt-link
-                    >：漁船生命值+100%（遠程護甲+2），工作速度於黑暗時代+5%、封建時代+10%、城堡時代+15%、帝王時代+20%（互不疊加）
+                    >：漁船<nuxt-link to="/elements/Hit_points"
+                      >生命值</nuxt-link
+                    >+100%（<nuxt-link to="/armor">遠程護甲</nuxt-link
+                    >+2），工作速度於黑暗時代+5%、<nuxt-link
+                      to="/techs/age/Feudal_Age"
+                      >封建時代</nuxt-link
+                    >+10%、<nuxt-link to="/techs/age/Castle_Age"
+                      >城堡時代</nuxt-link
+                    >+15%、<nuxt-link to="/techs/age/Imperial_Age"
+                      >帝王時代</nuxt-link
+                    >+20%（互不疊加）
                   </li>
                   <li>
-                    <nuxt-link to="/civs/Malay">馬來</nuxt-link
-                    >：團隊加分--碼頭視野+100%、漁網成本便宜33%、漁網食物量無限
+                    <nuxt-link to="/civs/Malay">馬來</nuxt-link>：<nuxt-link
+                      to="/elements/Team_Bonus"
+                      >團隊加分</nuxt-link
+                    >--碼頭視野+100%、<nuxt-link to="/building/Fish_Trap"
+                      >漁網</nuxt-link
+                    >成本便宜33%、漁網食物量無限
                   </li>
                 </ul>
               </td>
@@ -867,7 +937,9 @@
                   <li>
                     <nuxt-link to="/civs/Japanese">日本</nuxt-link
                     >：更高的<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-                    >工作速度，使得日本的漁網遠比農田更有效率。
+                    >工作速度，使得<nuxt-link to="/civs/Japanese"
+                      >日本</nuxt-link
+                    >的漁網遠比農田更有效率。
                   </li>
                   <li>
                     <nuxt-link to="/civs/Malay">馬來</nuxt-link>：建置<nuxt-link

@@ -7,10 +7,12 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          長弓手是<nuxt-link to="/civs/Britons">不列顛人</nuxt-link>的<nuxt-link
-            to="/units/Unique_Unit"
-            >特殊單位</nuxt-link
-          >。徒步遠程單位，射程很遠。因此伴隨著低生命值。 <br />
+          <b>長弓手</b>是<nuxt-link to="/civs/Britons">不列顛人</nuxt-link
+          >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+          >。徒步<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
+          >，射程很遠。因此伴隨著低<nuxt-link to="/elements/Hit_points"
+            >生命值</nuxt-link
+          >。 <br />
           <br />長弓手能夠在<nuxt-link to="/techs/age/Imperial_Age"
             >帝王時代</nuxt-link
           >升級成精銳長弓手。
@@ -19,13 +21,24 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            長弓兵是英格蘭與威爾士的弓箭手，擁有強大的攻擊與很遠的射程，這些士兵長久來為英國立下不朽的汗馬功。
+            長弓兵是英格蘭與威爾士的弓箭手，擁有強大的攻擊與很遠的射程，這些士兵長久來為<nuxt-link
+              to="/civs/Britons"
+              >英國</nuxt-link
+            >立下不朽的汗馬功。
           </p>
           <p>
-            普通的長弓兵與弩兵的射程相同，但升級到精銳後就增加1的射程。通過兵工廠與不列顛本身的文明加成，精銳長弓兵射程高達12，甚至超越<nuxt-link
-              to="/building/Castle"
+            普通的長弓兵與<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
+            >的射程相同，但升級到精銳後就增加1的射程。通過<nuxt-link
+              to="/building/Blacksmith"
+              >兵工廠</nuxt-link
+            >與<nuxt-link to="/civs/Britons">不列顛</nuxt-link>本身的<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >加成，<nuxt-link to="/units/Longbowman">精銳長弓兵</nuxt-link
+            >射程高達12，甚至超越<nuxt-link to="/building/Castle"
               >城堡</nuxt-link
-            >、箭塔與 <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
+            >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>與
+            <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
           </p>
           <p>
             單獨行動的長弓手影響力非常的小，相對地成群結隊能夠帶來致命威脅，因為在承受攻擊前，長距離的優勢能先殲滅敵人。
@@ -33,16 +46,18 @@
           <p>
             在近戰單位的保護下，長弓手能夠完美的輸出給予對手沉痛的打擊。倘若沒有保護的近戰單位，組織的長弓手能夠利用風箏技巧打擊接近的敵人，但面對
             <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-            >與移動快速騎兵單位，難以發揮效果。
+            >與移動快速<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+            >，難以發揮效果。
           </p>
           <p>
             長弓手最好選擇堅守崗位模式，避免隨意地攻擊後，破壞本身的陣型讓敵人趁虛而入。由於<nuxt-link
               to="/civs/Britons"
               >不列顛人</nuxt-link
-            >缺乏
-            <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
-            >科技，缺乏100%命中率與提升攻擊速度，最好避免與其他擁有<nuxt-link
-              to="/techs/Thumb_Ring"
+            >缺乏 <nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >，缺乏100%命中率與提升<nuxt-link to="/elements/Rate_of_Fire"
+              >攻擊速度</nuxt-link
+            >，最好避免與其他擁有<nuxt-link to="/techs/Thumb_Ring"
               >拇指環</nuxt-link
             >科技的弓手對射。
           </p>
@@ -50,7 +65,8 @@
             長弓手在面對<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
             >，例如<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>與
             <nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link
-            >時，能夠在攻城器攻擊範圍外先摧毀目標。但長弓手在攻城器的攻擊範圍下，將會承受毀滅性的打擊。
+            >時，能夠在<nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+            >攻擊範圍外先摧毀目標。但長弓手在攻城器的攻擊範圍下，將會承受毀滅性的打擊。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -91,7 +107,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -189,7 +207,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -316,7 +336,8 @@
               </div>
             </div>
           </div>
-          以下團隊加分可讓以下單位對長弓兵有額外攻擊力
+          以下<nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+          >可讓以下單位對長弓兵有額外攻擊力
           <div class="n1">
             <nuxt-link to="/civs/Persians">波斯</nuxt-link
             >在團隊加分裡，給予以下單位+2額外攻擊vs<nuxt-link
@@ -346,7 +367,9 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link
-              >：長弓兵自城堡/帝王時代有額外+1/+2的射程。
+              >：長弓兵自<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >有額外+1/+2的射程。
             </li>
           </ul>
         </div>
@@ -369,7 +392,10 @@
               >的研究時間(快25%)。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：長弓兵視野+2。
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：長弓兵<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：
@@ -530,7 +556,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">35, 40(精銳)</td>
           </tr>
           <tr>
@@ -544,11 +572,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -564,15 +596,15 @@
             <td class="unit4">7</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0, 1(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -610,7 +642,10 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />850食物850黃金
+              />850<nuxt-link to="/resource/Food">食物</nuxt-link>850<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >
             </td>
           </tr>
           <tr>

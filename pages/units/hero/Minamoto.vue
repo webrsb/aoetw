@@ -8,24 +8,51 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            源氏，本名源賴朝，幼時稱鬼武者，1147年四月八日出生於日本尾張國，14歲被放逐到伊豆，後接到討伐平家的命令，崛起成為一方勢力，在鎌倉拓展實權。源平合戰爆發後，作為源氏代表與平家作戰並取勝，建立幕府。因殺害功臣，在日本人眼裡是反派。1199年身亡，享年52歲。對日本歷史影響重大，開創了幕府制度，架空天皇權力，可以說是開啟日本中世紀時代的人。
+            源氏，本名源賴朝，幼時稱鬼武者，1147年四月八日出生於<nuxt-link
+              to="/civs/Japanese"
+              >日本</nuxt-link
+            >尾張國，14歲被放逐到伊豆，後接到討伐平家的命令，崛起成為一方勢力，在鎌倉拓展實權。源平合戰爆發後，作為源氏代表與平家作戰並取勝，建立幕府。因殺害功臣，在<nuxt-link
+              to="/civs/Japanese"
+              >日本人</nuxt-link
+            >眼裡是反派。1199年身亡，享年52歲。對日本歷史影響重大，開創了幕府制度，架空天皇權力，可以說是開啟日本中世紀時代的人。
           </p>
         </div>
         <h3><strong>介紹</strong></h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            源氏是一位步兵英雄，在礪波山（1183）中做為援軍登場。形象跟織田信長一樣是一名日本武士，他擁有自己的特殊頭像，而且完全能夠擊敗正常的日本武士。
+            源氏是一位<nuxt-link to="/units/Infantry_Units">步兵英雄</nuxt-link
+            >，在<nuxt-link to="/batt/Kurikara_1183">礪波山（1183）</nuxt-link
+            >中做為援軍登場。形象跟<nuxt-link to="/units/hero/Nobunaga"
+              >織田信長</nuxt-link
+            >一樣是一名<nuxt-link to="/units/Samurai">日本武士</nuxt-link
+            >，他擁有自己的特殊頭像，而且完全能夠擊敗正常的日本武士。
           </p>
           <ul>
-            <li>源氏在所有出現的戰役中必須生還，否則遊戲會失敗。</li>
             <li>
-              作為英雄單位，源氏不能被招降，且會自己回復生命值，當然，在地圖編輯器裡面可以找到他。
+              源氏在所有出現的<nuxt-link to="/batt">戰役</nuxt-link
+              >中必須生還，否則遊戲會失敗。
             </li>
             <li>
-              源氏歸類為步兵，所有步兵的加成對她都有效果，包括日本的步兵攻擊速度加成。
+              作為<nuxt-link to="/units/hero">英雄</nuxt-link
+              >單位，源氏不能被<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >，且會自己回復<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >，當然，在地圖編輯器裡面可以找到他。
             </li>
-            <li>雖然是英雄，但是作為步兵單位，害怕火槍兵。</li>
+            <li>
+              源氏歸類為<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >，所有步兵的加成對她都有效果，包括日本的步兵<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >加成。
+            </li>
+            <li>
+              雖然是英雄，但是作為<nuxt-link to="/armor/Armor_Class_Infantry"
+                >步兵單位</nuxt-link
+              >，害怕<nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link>。
+            </li>
           </ul>
         </div>
         <h3><strong>出場戰役</strong></h3>
@@ -84,7 +111,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -92,7 +121,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
@@ -101,7 +132,13 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對特殊單位+5<br />對建築物+2</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >+5<br />對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >+2
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊速度</td>
@@ -110,24 +147,27 @@
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵 <br />特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+              <br />特殊單位
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">0.9</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
         </table>
@@ -167,7 +207,10 @@
           </tr>
           <tr>
             <td class="tta1" style="width:30%">劣勢(不易對抗)</td>
-            <td class="tta4">弓兵、火槍兵和騎士。</td>
+            <td class="tta4">
+              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >、火槍兵和<nuxt-link to="/units/Knight">騎士</nuxt-link>。
+            </td>
           </tr>
           <tr class="tta">
             <td class="unit" colspan="2" style="text-align: center;">
@@ -175,7 +218,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <p>
                 <img src="~assets/Forging.jpg" width="30" alt="" /><nuxt-link
@@ -201,7 +246,9 @@
                 <img src="~assets/Arson.jpg" width="30" alt="" /><nuxt-link
                   to="/techs/Arson"
                   >縱火</nuxt-link
-                >(步兵+2攻擊vs建築)
+                >(步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Building"
+                  >建築</nuxt-link
+                >)
               </p>
             </td>
           </tr>

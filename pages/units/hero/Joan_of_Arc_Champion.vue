@@ -8,34 +8,57 @@
       <div class="col-md-8">
         <div class="spw">
           <em
-            >這篇文章是將有關於英雄聖女貞德的。而關於貞德戰役請參見<nuxt-link
-              to="/batt/Joan_of_Arc"
-              >聖女貞德</nuxt-link
-            ></em
+            >這篇文章是將有關於<nuxt-link to="/units/hero">英雄</nuxt-link
+            >聖女貞德的。而關於貞德<nuxt-link to="/batt">戰役</nuxt-link
+            >請參見<nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link></em
           >
         </div>
         <br />
         <div class="n1">
           <p>
-            聖女貞德，英法百年戰爭法國方的英雄，1412年一月七日出生於棟米雷，17歲出頭就領導法蘭西王國軍隊，並且大敗英國軍。1431年死於法蘭西王國盧昂(英占)，享年19歲，一生傳奇無數，堪稱中世紀史上最神奇的人。聖女的出現拯救了整個法國免於滅亡，也阻斷了英國進軍歐洲大陸的腳步，促使英國往海上發展。
+            聖女貞德，英法百年戰爭<nuxt-link to="/civs/Franks">法國</nuxt-link
+            >方的英雄，1412年一月七日出生於棟米雷，17歲出頭就領導法蘭西王國軍隊，並且大敗<nuxt-link
+              to="/civs/Britons"
+              >英國</nuxt-link
+            >軍。1431年死於法蘭西王國盧昂(英占)，享年19歲，一生傳奇無數，堪稱中世紀史上最神奇的人。聖女的出現拯救了整個法國免於滅亡，也阻斷了英國進軍歐洲大陸的腳步，促使英國往海上發展。
           </p>
         </div>
         <h3><strong>介紹</strong></h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            聖女貞德是一位騎兵英雄，在聖女貞德場景中做為主角登場。在一個不大可能的彌賽亞這場戰役中，貞德以一個農家女的形象出場，除此之外都是以騎著馬、穿著銀色戰甲的形象登場，而最後一關完美的烈士則沒有登場，因為此關描述的是貞德已經被抓獲，且被處死後。
+            聖女貞德是一位<nuxt-link to="/units/Cavalry_Units"
+              >騎兵英雄</nuxt-link
+            >，在聖女貞德場景中做為主角登場。在<nuxt-link
+              to="/batt/An_Unlikely_Messiah"
+              >一個不大可能的彌賽亞</nuxt-link
+            >這場戰役中，貞德以一個農家女的形象出場，除此之外都是以騎著馬、穿著銀色戰甲的形象登場，而最後一關<nuxt-link
+              to="/batt/A_Perfect_Martyr"
+              >完美的烈士</nuxt-link
+            >則沒有登場，因為此關描述的是貞德已經被抓獲，且被處死後。
           </p>
           <ul>
             <li>在所有她出場的戰役中她必須生還，否則遊戲會失敗。</li>
             <li>
-              作為英雄單位，貞德不能被招降，且會自己回復生命值，當然，在地圖編輯器裡面可以找到她。
+              作為英雄單位，貞德不能被<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >，且會自己回復<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >，當然，在地圖編輯器裡面可以找到她。
             </li>
             <li>
-              聖女貞德歸類為騎兵，所有騎兵的加成對她都有效果，包括法蘭克的騎兵生命值加成。
+              聖女貞德歸類為<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵</nuxt-link
+              >，所有騎兵的加成對她都有效果，包括<nuxt-link to="/civs/Franks"
+                >法蘭克</nuxt-link
+              >的騎兵生命值加成。
             </li>
             <li>
-              雖然是英雄，但是作為騎兵單位，聖女貞德也害怕長槍兵類，他們對於她的加成分別是+12，+20，+30(按照升級)。
+              雖然是英雄，但是作為<nuxt-link to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >，聖女貞德也害怕長<nuxt-link to="/armor/Armor_Class_Spearman"
+                >槍兵類</nuxt-link
+              >，他們對於她的加成分別是+12，+20，+30(按照升級)。
             </li>
           </ul>
         </div>
@@ -50,7 +73,11 @@
               <td>所屬陣營與顏色</td>
             </tr>
             <tr>
-              <td class="tta1">聖女貞德2-奧爾良的少女</td>
+              <td class="tta1">
+                聖女貞德2-<nuxt-link to="/batt/The_Maid_of_Orleans"
+                  >奧爾良的少女</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   style="color: green;"
@@ -64,7 +91,11 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">聖女貞德3-羅亞爾河大掃蕩</td>
+              <td class="tta1">
+                聖女貞德3-<nuxt-link to="/batt/The_Cleansing_of_the_Loire"
+                  >羅亞爾河大掃蕩</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   style="color: green;"
@@ -78,7 +109,9 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">聖女貞德4-叛變</td>
+              <td class="tta1">
+                聖女貞德4-<nuxt-link to="/batt/The_Rising">叛變</nuxt-link>
+              </td>
               <td class="tta2">
                 <span
                   style="color: green;"
@@ -92,7 +125,11 @@
               </td>
             </tr>
             <tr>
-              <td class="tta1">聖女貞德5-巴黎攻城戰</td>
+              <td class="tta1">
+                聖女貞德5-<nuxt-link to="/batt/The_Siege_of_Paris"
+                  >巴黎攻城戰</nuxt-link
+                >
+              </td>
               <td class="tta2">
                 <span
                   style="color: green;"
@@ -132,12 +169,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -145,7 +185,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
@@ -157,30 +199,34 @@
             <td class="unit4">無</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">騎兵(+2)</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>(+2)
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.45</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
         </table>
@@ -242,7 +288,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <p>
                 <img src="~assets/Forging.jpg" width="30" alt="" /><nuxt-link
@@ -313,18 +361,39 @@
               聖女貞德是遊戲中唯一一個女性的騎兵，她的3D模型獨一無二，且頭像也完全不跟其他英雄重複。
             </li>
             <li>
-              貞德在歷史中一向注重她的旗幟更甚於戰鬥用的武器，但是在遊戲中卻可以單挑全滿遊俠(甚至是法蘭克遊俠)。
+              貞德在歷史中一向注重她的旗幟更甚於戰鬥用的武器，但是在遊戲中卻可以單挑全滿<nuxt-link
+                to="/units/Paladin"
+                >遊俠</nuxt-link
+              >(甚至是法蘭克遊俠)。
             </li>
-            <li>貞德是遊戲中少數有兩個不同單位的角色，另一個是熙德。</li>
             <li>
-              貞德是遊戲中出現的第五個英雄單位，前四個分別是威廉華勒斯、農家女貞德、查德斯歐力、梅茲的斯歐力。
+              貞德是遊戲中少數有兩個不同單位的角色，另一個是<nuxt-link
+                to="/units/hero/El_Cid"
+                >熙德</nuxt-link
+              >。
+            </li>
+            <li>
+              貞德是遊戲中出現的第五個英雄單位，前四個分別是<nuxt-link
+                to="/units/hero/William_Wallace"
+                >威廉華勒斯</nuxt-link
+              >、<nuxt-link to="/units/hero/Joan_the_Maid">農家女貞德</nuxt-link
+              >、查德斯歐力、梅茲的斯歐力。
             </li>
             <li>
               貞德的攻擊方式跟許多特殊英雄騎兵(譬如熙德)一樣，會先舉起馬身，然後用馬踩踏與武器攻擊。
             </li>
-            <li>貞德的死亡聲音跟女村民是一樣的。</li>
             <li>
-              貞德的數值讓她可以單挑除了戰象、條頓武士、貴族鐵騎以及矛象伕之外的所有非英雄陸地單位。
+              貞德的死亡聲音跟女<nuxt-link to="/units/Villager">村民</nuxt-link
+              >是一樣的。
+            </li>
+            <li>
+              貞德的數值讓她可以單挑除了<nuxt-link to="/units/War_Elephant"
+                >戰象</nuxt-link
+              >、<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>以及<nuxt-link
+                to="/units/Battle_Elephant"
+                >矛象伕</nuxt-link
+              >之外的所有非英雄陸地單位。
             </li>
             <li>
               現代幾乎所有的作品中，貞德的形象都是金髮巨乳，可是歷史上的貞德常常穿著男裝，可以推測<strong>胸部並不大</strong>。
@@ -335,16 +404,31 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            貞德，1412年出生於法國，作為農家女被撫養長大。到了16歲，她自稱得到了上主的啟示，然而當地的法軍指揮官博垂庫爾不以為然。隔年，貞德說服兩名士兵：讓·德梅斯和貝爾特朗·德普朗吉(也就是第一關裡面的兩名騎士)，並且準確預言了鯡魚之戰(戰役剛開始時的英國軍隊與法國軍隊交戰)法軍將會戰敗的事實，至此，博垂庫爾才同意護送貞德前往齊儂。貞德身著男裝穿越了廣大的勃艮地領土，在齊儂取得了王儲的認可(出於無奈之下的認可)(遊戲中"一個不太可能的彌賽亞"戰役)，並且要求加入奧爾良遠征軍。
+            貞德，1412年出生於法國，作為農家女被撫養長大。到了16歲，她自稱得到了上主的啟示，然而當地的法軍指揮官博垂庫爾不以為然。隔年，貞德說服兩名士兵：讓·德梅斯和貝爾特朗·德普朗吉(也就是第一關裡面的兩名<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >)，並且準確預言了鯡魚之戰(戰役剛開始時的英國軍隊與法國軍隊交戰)法軍將會戰敗的事實，至此，博垂庫爾才同意護送貞德前往齊儂。貞德身著男裝穿越了廣大的勃艮地領土，在齊儂取得了王儲的認可(出於無奈之下的認可)(遊戲中"一個不太可能的彌賽亞"戰役)，並且要求加入奧爾良遠征軍。
           </p>
           <p>
-            1429年，貞德參加了解救奧爾良的遠征軍，在到達了指揮營之後推翻了所有當地軍官的作戰計畫(包括遊戲中要把貿易車隊運送至奧爾良的補給計畫)，僅僅領著軍旗就衝向英國堡壘，法軍士兵看到貞德那顯眼的旗幟，受到了極大的鼓舞，並起順利地攻下數座木造堡壘，迫使英國最後必須把軍隊集中在石製堡壘—土列爾。進攻土列爾時，貞德被弓箭擊中肩膀，但是她拔掉箭矢，並且重返最前線領導作戰，至此，英國軍隊無法再繼續包圍奧爾良，只得撤退。此戰僅僅花了9天便解除了英國對奧爾良長達半年的包圍。(遊戲中"奧爾良的少女"戰役)
+            1429年，貞德參加了解救奧爾良的遠征軍，在到達了指揮營之後推翻了所有當地軍官的作戰計畫(包括遊戲中要把<nuxt-link
+              to="/units/Trade_Cart"
+              >貿易車隊</nuxt-link
+            >運送至奧爾良的補給計畫)，僅僅領著軍旗就衝向英國堡壘，法軍士兵看到貞德那顯眼的旗幟，受到了極大的鼓舞，並起順利地攻下數座木造堡壘，迫使英國最後必須把軍隊集中在石製堡壘—土列爾。進攻土列爾時，貞德被弓箭擊中肩膀，但是她拔掉箭矢，並且重返最前線領導作戰，至此，英國軍隊無法再繼續包圍奧爾良，只得撤退。此戰僅僅花了9天便解除了英國對奧爾良長達半年的包圍。(遊戲中"奧爾良的少女"戰役)
           </p>
           <p>
-            貞德在解了奧爾良的危機之後，當機立斷的要求掃蕩羅亞爾河周邊，並且要求以此為跳板進攻蘭斯。接下來貞德分別在雅爾若戰役、羅亞爾河畔默恩戰役、博讓西戰役中取得勝利，並且由拉海爾領導的前鋒軍隊在帕提戰役中取得勝利(遊戲中"羅亞爾河大掃盪"戰役)。一連串的勝利讓查理七世得以在蘭斯登基。(遊戲中"背叛"戰役)
+            貞德在解了奧爾良的危機之後，當機立斷的要求掃蕩羅亞爾河周邊，並且要求以此為跳板進攻蘭斯。接下來貞德分別在<nuxt-link
+              to="/units/hero/Jarl"
+              >雅爾</nuxt-link
+            >若戰役、羅亞爾河畔默恩戰役、博讓西戰役中取得勝利，並且由<nuxt-link
+              to="/units/hero/La_Hire"
+              >拉海爾</nuxt-link
+            >領導的前鋒軍隊在帕提戰役中取得勝利(遊戲中"羅亞爾河大掃盪"戰役)。一連串的勝利讓查理七世得以在蘭斯登基。(遊戲中"背叛"戰役)
           </p>
           <p>
-            查理七世登基後便開始尋求和解的可能性，然而勃艮地的菲利普公爵利用和解當作障眼法，暗暗增加對巴黎的援軍，而貞德也前往康白尼以抵禦勃艮地軍隊，然而康白尼城膽小怕事，在貞德進入康白尼之前就關上城門，使的貞德與她的小支部隊被俘虜。(遊戲中"巴黎攻城戰"戰役)
+            查理七世登基後便開始尋求和解的可能性，然而勃艮地的菲利普公爵利用和解當作障眼法，暗暗增加對巴黎的援軍，而貞德也前往康白尼以抵禦勃艮地軍隊，然而康白尼城膽小怕事，在貞德進入康白尼之前就關上<nuxt-link
+              to="/building/Gate"
+              >城門</nuxt-link
+            >，使的貞德與她的小支部隊被俘虜。(遊戲中"巴黎攻城戰"戰役)
           </p>
           <p>
             英國人痛恨貞德，於是安排了不公正的宗教法庭意圖處死貞德，但貞德的供詞與行為毫無瑕疵，使的宗教法庭根本無法定罪。然而，貞德並不識字，所以在英國人要脅立即處死的威嚇下，貞德用她唯一會寫的字，她的名字，簽下了認罪書。並且在5月30號在盧昂的老集市廣場被處以火刑，死前還緊緊握住十字架不放。
@@ -415,7 +499,10 @@
           <div class="hrn1"></div>
           <br />
           <p>
-            是傳說中的騎士，同時也是名擁有虔誠信仰的純潔少女。結合尖端科技製造的奧爾良的旗幟擁有強大的力量。
+            是傳說中的騎士，同時也是名擁有虔誠信仰的純潔少女。結合尖端<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >製造的奧爾良的旗幟擁有強大的力量。
           </p>
           <br />
           <br />
@@ -436,7 +523,8 @@
           <div class="hrn1"></div>
           <br />
           <p>
-            一艘專門為訓練海軍軍官建造的訓練巡洋艦，以法國著名歷史人物貞德命名，這亦是法國海軍進入20世紀以來第二艘以“聖女貞德”命名的軍艦。
+            一艘專門為訓練<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
+            >軍官建造的訓練巡洋艦，以法國著名歷史人物貞德命名，這亦是法國海軍進入20世紀以來第二艘以“聖女貞德”命名的軍艦。
           </p>
         </div>
         <div class="col-md-4">

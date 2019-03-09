@@ -8,10 +8,23 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            攻城武器能在城堡時代開始訓練。他們是強大的機器，擅長破壞敵方建築和對付大量敵方單位。攻城武器的單位升級以及遠程的攻城武器(火砲)只有在帝王時代才有。
+            <b>攻城武器</b>能在<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >開始訓練。他們是強大的機器，擅長破壞敵方<nuxt-link to="/building"
+              >建築</nuxt-link
+            >和對付大量敵方單位。攻城武器的單位升級以及<nuxt-link
+              to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >的攻城武器(<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
+            >)只有在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >才有。
           </p>
           <p>
-            除了衝撞車，攻城塔和爆炸桶之外，所有的攻城武器都擁有中到長的射程範圍。
+            除了<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+            >，<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>和<nuxt-link
+              to="/units/Petard"
+              >爆炸桶</nuxt-link
+            >之外，所有的攻城武器都擁有中到長的射程範圍。
           </p>
         </div>
         <h3>概要</h3>
@@ -19,25 +32,57 @@
         <div class="n1">
           <ul>
             <li>
-              像船一樣，攻城武器不能讓僧侶治療，而必須由村民修復。
-              修復攻城武器需要花費黃金。
+              像船一樣，攻城武器不能讓<nuxt-link to="/units/Monk"
+                >僧侶</nuxt-link
+              >治療，而必須由<nuxt-link to="/units/Villager">村民</nuxt-link
+              >修復。 修復攻城武器需要花費<nuxt-link to="/resource/Gold"
+                >黃金</nuxt-link
+              >。
             </li>
             <li>
-              所有的攻城武器都需要花費木材和黃金，唯一例外的是爆炸桶，他們花費食物和黃金。一般來說，攻城單位是最昂貴且訓練時間最長的單位。
+              所有的攻城武器都需要花費<nuxt-link to="/resource/Wood"
+                >木材</nuxt-link
+              >和黃金，唯一例外的是爆炸桶，他們花費<nuxt-link
+                to="/resource/Food"
+                >食物</nuxt-link
+              >和黃金。一般來說，<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >是最昂貴且訓練時間最長的單位。
             </li>
-            <li>要訓練火砲則必須先研發化學。</li>
             <li>
-              攻城武器和僧侶一樣需要研發科技後才招降他們。要招降攻城武器，必須先研究信仰救贖。
+              要訓練火砲則必須先研發<nuxt-link to="/techs/Chemistry"
+                >化學</nuxt-link
+              >。
             </li>
             <li>
-              巨型投石機，中型投石車（從失落的帝國資料片開始）和重型投石車可以砸樹木開路，當然村民也可以。這相當具有戰略意義，特別是在森林茂密的地圖上例如:黑森林，可以繞後給對方來個措手不及。
+              攻城武器和僧侶一樣需要研發<nuxt-link to="/techs">科技</nuxt-link
+              >後才<nuxt-link to="/elements/Conversion">招降</nuxt-link
+              >他們。要招降攻城武器，必須先研究<nuxt-link to="/techs/Redemption"
+                >信仰救贖</nuxt-link
+              >。
+            </li>
+            <li>
+              <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+              >，<nuxt-link to="/units/Onager">中型投石車</nuxt-link
+              >（從<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+              >資料片開始）和<nuxt-link to="/units/Siege_Onager"
+                >重型投石車</nuxt-link
+              >可以砸樹木開路，當然村民也可以。這相當具有戰略意義，特別是在森林茂密的地圖上例如:<nuxt-link
+                to="/maps/Black_Forest"
+                >黑森林</nuxt-link
+              >，可以繞後給對方來個措手不及。
             </li>
           </ul>
         </div>
         <h3>分類</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>攻城器可分為兩類，專門破壞建築物的和擅於對付步兵和弓兵的。</p>
+          <p>
+            <nuxt-link to="/units/Siege_Weapons">攻城器</nuxt-link
+            >可分為兩類，專門破壞<nuxt-link to="/building">建築物</nuxt-link
+            >的和擅於對付<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >和<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>的。
+          </p>
           <strong>對建築物</strong>
           <ul>
             <li>
@@ -87,15 +132,23 @@
           </ul>
           <ul>
             <p>
-              從非洲王國資料片開始，<nuxt-link to="/units/Siege_Tower"
-                >攻城塔</nuxt-link
+              從<nuxt-link to="/games/ak">非洲王國</nuxt-link
+              >資料片開始，<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
               >無法攻擊敵方建築或單位，所以無法歸類在上面兩類。而在失落的帝國資料片攻城塔可以開火，然而他們的主要目的還是運送部隊，所以還是不歸類於以上兩種。
             </p>
             <p>
               火砲可以遠距離摧毀建築物，同時也能有效對敵方單位造成傷害，所以兩個類別都能放。
             </p>
             <p>
-              雖然兩個分類的功能可以互相交換，但這樣做非常沒有效率。例如投石車可以對整群步兵造成巨量傷害，也能對城鎮中心從安全距離轟炸，但對上城堡就只有被打的份。巨型投石機在破壞防禦工事方面十分出色，但在攻擊單位上則命中率不佳，除了攻擊對方的巨型投石機除外。
+              雖然兩個分類的功能可以互相交換，但這樣做非常沒有效率。例如<nuxt-link
+                to="/units/Mangonel"
+                >投石車</nuxt-link
+              >可以對整群步兵造成巨量傷害，也能對<nuxt-link
+                to="/building/Town_Center"
+                >城鎮中心</nuxt-link
+              >從安全距離轟炸，但對上<nuxt-link to="/building/Castle"
+                >城堡</nuxt-link
+              >就只有被打的份。巨型投石機在破壞防禦工事方面十分出色，但在攻擊單位上則命中率不佳，除了攻擊對方的巨型投石機除外。
             </p>
           </ul>
         </div>
@@ -107,10 +160,11 @@
               to="/civs/Celts"
               >塞爾特</nuxt-link
             >和<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-            >因為他們的文明加成和
+            >因為他們的<nuxt-link to="/civs">文明</nuxt-link>加成和
             <nuxt-link to="/techs/untech">獨特技術</nuxt-link
-            >擁有最好的攻城武器。衣索比亞是唯一能夠使用<nuxt-link
-              to="/building/Siege_Workshop"
+            >擁有最好的攻城武器。<nuxt-link to="/civs/Ethiopians"
+              >衣索比亞</nuxt-link
+            >是唯一能夠使用<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
             >所所有單位的文明。
           </p>
@@ -149,7 +203,11 @@
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <p>以下列出攻城武器的團隊加分</p>
+          <p>
+            以下列出攻城武器的<nuxt-link to="/elements/Team_Bonus"
+              >團隊加分</nuxt-link
+            >
+          </p>
           <ul>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
@@ -172,13 +230,19 @@
         <div class="n1">
           <table class="table-bordered" width="100%">
             <tr class="tta">
-              <td width="19%">攻城器單位</td>
-              <td width="9%">生命值</td>
+              <td width="19%">
+                <nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link>
+              </td>
+              <td width="9%">
+                <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+              </td>
               <td width="9%">攻擊</td>
               <td width="9%">防禦</td>
               <td width="9%">射程</td>
-              <td width="9%">射速</td>
-              <td width="9%">視野</td>
+              <td width="9%">
+                <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+              </td>
+              <td width="9%"><nuxt-link to="/los.php">視野</nuxt-link></td>
               <td width="9%">速度</td>
             </tr>
             <tr>
@@ -585,7 +649,10 @@
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">500F 600W</td>
               <td class="tunitc6">
-                攻城武器攻擊範圍+1(衝撞車除外)。對建築物攻擊加成+20%(爆炸桶+40%)。
+                攻城武器攻擊範圍+1(衝撞車除外)。對<nuxt-link
+                  to="/armor/Armor_Class_Building"
+                  >建築物</nuxt-link
+                >攻擊加成+20%(爆炸桶+40%)。
               </td>
             </tr>
             <tr>
@@ -598,7 +665,10 @@
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">300F 200G</td>
               <td class="tunitc6">
-                開火單位(包括攻城單位)攻擊+1。研發後可生產火藥單位。
+                開火單位(包括攻城單位)攻擊+1。研發後可生產<nuxt-link
+                  to="/units/Gunpowder_Unit"
+                  >火藥單位</nuxt-link
+                >。
               </td>
             </tr>
             <tr>
@@ -621,7 +691,10 @@
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">750F 1000G</td>
-              <td class="tunitc6">單位對僧侶(傳教士)的招降更具抵抗力。</td>
+              <td class="tunitc6">
+                單位對僧侶(<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+                >)的招降更具抵抗力。
+              </td>
             </tr>
             <tr>
               <td class="tunitc6">
@@ -633,7 +706,11 @@
               </td>
               <td class="tunitc4">帝王</td>
               <td class="tunitc5">150F 150G</td>
-              <td class="tunitc6">軍營、靶場、馬廄、城堡訓練部隊速度+33%。</td>
+              <td class="tunitc6">
+                <nuxt-link to="/building/Barracks">軍營</nuxt-link
+                >、靶場、<nuxt-link to="/building/Stable">馬廄</nuxt-link
+                >、城堡訓練部隊速度+33%。
+              </td>
             </tr>
           </table>
 
@@ -717,7 +794,10 @@
                   <nuxt-link to="/techs/Rocketry">火箭術</nuxt-link>
                 </td>
                 <td class="tunitc5">750W 750G</td>
-                <td class="tunitc6">連弩兵攻擊+2，弩砲攻擊+4。</td>
+                <td class="tunitc6">
+                  <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
+                  >攻擊+2，弩砲攻擊+4。
+                </td>
               </tr>
               <tr>
                 <td class="tunitc6">
@@ -732,7 +812,10 @@
                 </td>
                 <td class="tunitc5">1000F 600G</td>
                 <td class="tunitc6">
-                  攻城器製造所的單位傷害範圍增加(輕型衝撞車和攻城塔除外)。
+                  攻城器製造所的單位傷害範圍增加(<nuxt-link
+                    to="/units/Battering_Ram"
+                    >輕型衝撞車</nuxt-link
+                  >和攻城塔除外)。
                 </td>
               </tr>
               <tr>
@@ -747,7 +830,10 @@
                   <nuxt-link to="/techs/Kataparuto">彈射器</nuxt-link>
                 </td>
                 <td class="tunitc5">750F 400G</td>
-                <td class="tunitc6">巨型投石機組裝/拆解速度加快。</td>
+                <td class="tunitc6">
+                  <nuxt-link to="/units/Trebuchet">巨型投石機(組裝)</nuxt-link
+                  >/拆解速度加快。
+                </td>
               </tr>
               <tr>
                 <td class="tunitc6">
@@ -803,7 +889,11 @@
                   <nuxt-link to="/techs/Artillery">砲兵</nuxt-link>
                 </td>
                 <td class="tunitc5">500G 450S</td>
-                <td class="tunitc6">火砲塔、火砲戰船和火砲射程+2。</td>
+                <td class="tunitc6">
+                  <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
+                  >、<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+                  >和火砲射程+2。
+                </td>
               </tr>
             </table>
 

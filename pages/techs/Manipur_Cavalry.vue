@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            曼尼普爾騎兵是<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>曼尼普爾騎兵</b>是<nuxt-link to="/civs/Burmese">緬甸</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Cavalry_Units"
@@ -27,12 +27,17 @@
         <div class="n1">
           <ul>
             <li>
-              緬甸缺少<nuxt-link to="/techs/Siege_Engineers"
+              <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>缺少<nuxt-link
+                to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
-              >科技和<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link>和<nuxt-link
+                to="/units/Siege_Ram"
+                >重型衝撞車</nuxt-link
               >。曼尼普爾騎兵可以增加
               <nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
-              >對建築物的攻擊力以補足上述缺點。
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+              >以補足上述缺點。
             </li>
           </ul>
         </div>
@@ -63,7 +68,9 @@
               >和
               <nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >都有加成，這讓建築學不能完全抵消曼尼普爾騎兵的效果。
+              >都有加成，這讓<nuxt-link to="/techs/Architecture"
+                >建築學</nuxt-link
+              >不能完全抵消曼尼普爾騎兵的效果。
             </li>
           </ul>
         </div>
@@ -71,7 +78,13 @@
         <div class="hrn1"></div>
         <p>
           <a href="https://en.wikipedia.org/wiki/Manipur">曼尼普爾</a
-          >現今於印度境內，而曼尼普爾在血緣和文化上與中國有很大的淵源。曼尼普爾王室通常被認為來自於中國的唐朝。曼尼普爾民間一直維持著對龍的崇拜。在十八世紀，當時的國王
+          >現今於<nuxt-link to="/civs/Indians">印度</nuxt-link
+          >境內，而曼尼普爾在血緣和文化上與<nuxt-link to="/civs/Chinese"
+            >中國</nuxt-link
+          >有很大的淵源。曼尼普爾王室通常被認為來自於中國的唐朝。曼尼普爾民間一直維持著對龍的崇拜。在十八世紀，當時的<nuxt-link
+            to="/units/King"
+            >國王</nuxt-link
+          >
           <a href="http://tinyurl.com/y9cq7s5x">帕巴</a
           >把印度教列為國教，而對龍的崇拜依然以各種形式在曼尼普爾保存下來。歷史上曼尼普爾並不屬於緬甸，反而多次與緬甸王國交戰。
         </p>
@@ -100,7 +113,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>
             </td>
@@ -134,11 +147,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">650</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
@@ -148,7 +165,15 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">騎兵和飛鏢騎兵對建築物和標準建築+3攻擊。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>和<nuxt-link
+                to="/units/Arambai"
+                >飛鏢騎兵</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >和<nuxt-link to="/armor/Armor_Class_standard_building"
+                >標準建築</nuxt-link
+              >+3攻擊。
+            </td>
           </tr>
         </table>
 

@@ -10,7 +10,30 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            群島由一系列被大海環繞的島嶼組成。因為這些島嶼比常規陸地小，大多數資源都是有限的，所以垃圾兵戰爭（戰矛兵、重裝長槍兵、輕騎兵）在遊戲後期就很常見。有些玩家在遊戲開始時讀獨自占據一座島，其他玩家則共享一個島嶼的木頭，金子，石頭，漿果和鹿。玩家能夠利用早期的快攻殲滅另一個島上的敵方玩家並利用新佔領島嶼上的資源增加資源儲備量。水域控制在群島很重要。因為玩家的大部分食物供應來自海上，另一個原因是地圖上有四個額外的小島。兩個上面沒有東西，但另外兩個含有大量的黃金，木材，食物和石頭。找到並占領這些島嶼可讓玩家獲得比對手更多的資源，讓帝國更加強盛進而贏得勝利。擁有海軍優勢的文明在這張地圖上有很大的操作空間。
+            <b>群島</b>由一系列被大海環繞的<nuxt-link to="/maps/Islands"
+              >島嶼</nuxt-link
+            >組成。因為這些島嶼比常規陸地小，大多數資源都是有限的，所以垃圾兵戰爭（<nuxt-link
+              to="/units/Elite_Skirmisher"
+              >戰矛兵</nuxt-link
+            >、<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>、<nuxt-link
+              to="/units/Light_Cavalry"
+              >輕騎兵</nuxt-link
+            >）在遊戲後期就很常見。有些玩家在遊戲開始時讀獨自占據一座島，其他玩家則共享一個島嶼的<nuxt-link
+              to="/resource/Wood"
+              >木頭</nuxt-link
+            >，金子，<nuxt-link to="/resource/Stone">石頭</nuxt-link
+            >，漿果和鹿。玩家能夠利用早期的快攻殲滅另一個島上的敵方玩家並利用新佔領島嶼上的資源增加資源儲備量。水域控制在群島很重要。因為玩家的大部分<nuxt-link
+              to="/resource/Food"
+              >食物</nuxt-link
+            >供應來自海上，另一個原因是地圖上有四個額外的小島。兩個上面沒有東西，但另外兩個含有大量的<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
+            >，<nuxt-link to="/resource/Wood">木材</nuxt-link
+            >，食物和石頭。找到並占領這些島嶼可讓玩家獲得比對手更多的資源，讓帝國更加強盛進而贏得勝利。擁有<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍</nuxt-link
+            >優勢的<nuxt-link to="/civs">文明</nuxt-link
+            >在這張地圖上有很大的操作空間。
           </p>
           <h3>優勢文明</h3>
           <p>

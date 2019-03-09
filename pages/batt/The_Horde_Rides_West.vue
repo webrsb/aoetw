@@ -8,8 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>遊牧民族的西遷</b
-            >為成吉思汗戰役的第四關劇情關卡，此關描述蒙古帝國於征服花剌子模（1219年底至1220年），征服俄羅斯（1223、1236-1240）2大部戰役為主軸。
+            <b>遊牧民族的西遷</b>為<nuxt-link to="/batt/Genghis_Khana"
+              >成吉思汗(戰役)</nuxt-link
+            >的第四關劇情關卡，此關描述<nuxt-link to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >帝國於征服花剌子模（1219年底至1220年），征服俄羅斯（1223、1236-1240）2大部<nuxt-link
+              to="/batt"
+              >戰役</nuxt-link
+            >為主軸。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +25,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="13%">城堡時代</td>
+              <td class="tc2" width="13%">
+                <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">200木頭，400食物，200黃金，200石頭</td>
+              <td class="tc2">
+                200<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，400<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，200<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -37,7 +50,9 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p8">玩家1</div></td>
-              <td class="tc6" colspan="3">蒙古人（橘色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -47,20 +62,32 @@
               <td class="tc6"><div class="p3" width="12%">玩家2</div></td>
               <td class="tc6" width="38%">麥凱特人（綠色）蒙古</td>
               <td class="tc6"><div class="p2" width="12%">玩家3</div></td>
-              <td class="tc6" width="38%">俄羅斯人（紅色）哥德</td>
+              <td class="tc6" width="38%">
+                俄羅斯人（紅色）<nuxt-link to="/civs/Goths">哥德</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc6"><div class="p4">玩家4</div></td>
-              <td class="tc6">瓜利密（黃色）波斯</td>
+              <td class="tc6">
+                瓜利密（黃色）<nuxt-link to="/civs/Persians">波斯</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>4位輕騎兵、6位馬弓騎兵。</dd>
+            <dd>
+              4位<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、6位<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>。
+            </dd>
             <dt>大地之母單位：</dt>
-            <dd>5位村民、2台貿易車隊、1位書部台、2隻野狼、7位馬弓騎兵。</dd>
+            <dd>
+              5位<nuxt-link to="/units/Villager">村民</nuxt-link>、2台<nuxt-link
+                to="/units/Trade_Cart"
+                >貿易車隊</nuxt-link
+              >、1位書部台、2隻野狼、7位馬弓騎兵。
+            </dd>
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
@@ -68,7 +95,8 @@
             <ol>
               <li>在北方，部署書部台的牧民去征服俄羅斯。</li>
               <li>
-                在南方，瓜利密國王正期待著貢品，可是他將會察覺有刺客埋伏在我們的商隊裡面。所以我們一定要在他與我們決裂之前，儘快把車隊開到他那裡去。
+                在南方，瓜利密<nuxt-link to="/units/King">國王</nuxt-link
+                >正期待著貢品，可是他將會察覺有刺客埋伏在我們的商隊裡面。所以我們一定要在他與我們決裂之前，儘快把車隊開到他那裡去。
               </li>
               <li>打敗瓜利密帝國。</li>
             </ol>
@@ -79,7 +107,10 @@
         <div class="n1">
           <ul>
             <li>
-              你那兩支軍隊在分開後，一直到他們抵達撒馬爾罕之前，將沒有辦法匯合一起。如果你的暗殺計劃失敗，這個國王的領導下，波斯肯定會成為一個極之致命的敵人。波斯人在期待他們的貢品。如果他們還沒有收到的話，就一定會向你宣戰。
+              你那兩支軍隊在分開後，一直到他們抵達撒馬爾罕之前，將沒有辦法匯合一起。如果你的暗殺計劃失敗，這個國王的領導下，波斯肯定會成為一個極之致命的敵人。<nuxt-link
+                to="/civs/Persians"
+                >波斯人</nuxt-link
+              >在期待他們的貢品。如果他們還沒有收到的話，就一定會向你宣戰。
             </li>
           </ul>
           <h2>芝麻小事</h2>
@@ -90,7 +121,14 @@
                 刺客從車隊中現身後，在刺殺大汗之前都不會被波斯軍隊攻擊，可以運用這個優勢，把王宮前的儀仗隊也一併屠戮殆盡。（這些儀仗隊是波斯多數的軍隊，把大汗放在最後再殺，就不怕波斯人報復。這裡的波斯人，在歷史上應該被稱作花剌子模。）單單這兩個刺客，就可以在你的軍隊到達前給波斯人造成強大的破壞。
               </li>
               <li>
-                此外，只要摧毀城堡與奇觀就能擊敗波斯人，所以也可以考慮在刺殺大汗之情就打掉這些建築物。在波斯領地上蓋攻城器製造所，直接用衝撞車撞掉它們就好了。
+                此外，只要摧毀<nuxt-link to="/building/Castle">城堡</nuxt-link
+                >與奇觀就能擊敗波斯人，所以也可以考慮在刺殺大汗之情就打掉這些<nuxt-link
+                  to="/building"
+                  >建築物</nuxt-link
+                >。在波斯領地上蓋<nuxt-link to="/units//building/Siege_Workshop"
+                  >攻城器製造所</nuxt-link
+                >，直接用<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+                >撞掉它們就好了。
               </li>
               <li>
                 如果刺殺失敗，波斯人會立即得到2000食物、2000黃金，並且生產40個村民，而非25個。雖然這樣還是可以擊敗他們，只是會變得困難許多。
@@ -125,7 +163,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -134,7 +174,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>
             </td>
@@ -148,7 +188,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第四章之四</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第四章之四
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

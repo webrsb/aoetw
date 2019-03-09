@@ -8,8 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>海丁的號角</b
-            >為沙拉丁戰役的第三關劇情關卡，此關為第三次十字軍東征哈丁戰役（今哈丁角，太巴列，巴勒斯坦）的原型，十字軍作戰攜帶的聖物真十字架落入穆斯林手裡，嚴重打擊十字軍軍隊的士氣。
+            <b>海丁的號角</b>為<nuxt-link to="/batt/Saladina"
+              >沙拉丁戰役</nuxt-link
+            >的第三關劇情關卡，此關為第三次十字軍東征哈丁<nuxt-link to="/batt"
+              >戰役</nuxt-link
+            >（今哈丁角，太巴列，巴勒斯坦）的原型，十字軍作戰攜帶的聖物真十字架落入穆斯林手裡，嚴重打擊十字軍軍隊的士氣。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +22,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="13%">封建時代</td>
+              <td class="tc2" width="13%">
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">600木頭，400食物，600黃金，400石頭</td>
+              <td class="tc2">
+                600<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，400<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，600<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，400<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -37,20 +47,32 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p3">玩家1</div></td>
-              <td class="tc6" colspan="3">薩拉森人（綠色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>（綠色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
-              <td class="tc6">英國 （紅色）不列顛</td>
+              <td class="tc6">
+                <nuxt-link to="/civs/Britons">英國</nuxt-link>
+                （紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+              </td>
               <td class="tc6"><div class="p1">玩家3</div></td>
-              <td class="tc6">耶路撒冷（藍色）拜占庭</td>
+              <td class="tc6">
+                耶路撒冷（藍色）<nuxt-link to="/civs/Byzantines"
+                  >拜占庭</nuxt-link
+                >
+              </td>
             </tr>
             <tr>
               <td class="tc6"><div class="p4" width="12%">玩家4</div></td>
-              <td class="tc6" width="38%">聖殿騎士（黃色）條頓</td>
+              <td class="tc6" width="38%">
+                聖殿<nuxt-link to="/units/Knight">騎士</nuxt-link
+                >（黃色）<nuxt-link to="/civs/Teutons">條頓</nuxt-link>
+              </td>
               <td class="tc6"><div class="p8" width="12%">玩家5</div></td>
               <td class="tc6" width="38%">救傷團（橘色）條頓</td>
             </tr>
@@ -59,7 +81,13 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場：</dt>
-            <dd>12位村民、14位長槍兵、6位矛兵、4位馬弓騎兵、1台輕型投石車。</dd>
+            <dd>
+              12位<nuxt-link to="/units/Villager">村民</nuxt-link
+              >、14位<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
+              >、6位<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+              >、4位<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
+              >、1台<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>。
+            </dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
           </dl>
@@ -68,7 +96,8 @@
           <div class="n1">
             <ol>
               <li>
-                奪取真十字架的碎片（遺跡），並把它運回海丁角（有旗子作標記）。
+                奪取真十字架的碎片（<nuxt-link to="/Relic">遺跡</nuxt-link
+                >），並把它運回海丁角（有旗子作標記）。
               </li>
             </ol>
           </div>
@@ -81,10 +110,16 @@
               在這個事件裡，最好防衛就是要作出最好的攻擊。在底比里亞斯湖裡並沒有太多的魚，只有以農業來支撐你的經濟。
             </li>
             <li>
-              就像得到其他遺跡一樣，你的敵軍會把真十字架的碎片守衛在修道院裡面。小心聖殿聖騎和救傷團-他們是你最危險的對手。
+              就像得到其他遺跡一樣，你的敵軍會把真十字架的碎片守衛在<nuxt-link
+                to="/building/Monastery"
+                >修道院</nuxt-link
+              >裡面。小心聖殿聖騎和救傷團-他們是你最危險的對手。
             </li>
             <li>
-              注意：在沙漠當中連小石頭都很少見得到。所以你只能依靠強大的軍隊，而不是城牆或箭塔。
+              注意：在沙漠當中連小石頭都很少見得到。所以你只能依靠強大的軍隊，而不是<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >或<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>。
             </li>
           </ul>
         </div>
@@ -112,7 +147,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>
@@ -121,7 +158,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Saracens">薩拉森人</nuxt-link>
             </td>
@@ -135,7 +172,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第三章之三</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第三章之三
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

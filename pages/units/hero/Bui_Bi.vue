@@ -8,9 +8,19 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            裴備是個英雄，在"王者崛起"資料片中出現，在遊戲中的外貌是僧侶。裴備不能被招降而且會自行回血。
+            <b>裴備</b>是個<nuxt-link to="/units/hero">英雄</nuxt-link
+            >，在"王者崛起"資料片中出現，在遊戲中的外貌是<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >。裴備不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
-          <p>裴備有跟僧侶一樣的功能，但他不會受到修道院科技的加成影響。</p>
+          <p>
+            裴備有跟僧侶一樣的功能，但他不會受到<nuxt-link
+              to="/building/Monastery"
+              >修道院</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link>的加成影響。
+          </p>
         </div>
         <div></div>
         <div></div>
@@ -42,7 +52,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -50,7 +62,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">55</td>
           </tr>
           <tr>
@@ -59,12 +73,12 @@
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -72,7 +86,7 @@
             <td class="unit4">0.8</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">11</td>
           </tr>
         </table>

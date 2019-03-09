@@ -8,10 +8,23 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            穆斯塔法帕夏是個火藥單位英雄，在"世界地國II:非洲王國"資料片之後版本的地圖編輯器出現，穆斯塔法帕夏的名字是以同名的土耳其軍事領導人所命名，該名領導者是鄂圖曼帝國最後試圖擴張到中歐和東歐的中心人物。
+            <b>穆斯塔法帕夏</b>是個<nuxt-link to="/units/Gunpowder_Unit"
+              >火藥單位英雄</nuxt-link
+            >，在"世界地國II:<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >"資料片之後版本的地圖編輯器出現，穆斯塔法帕夏的名字是以同名的<nuxt-link
+              to="/civs/Turks"
+              >土耳其</nuxt-link
+            >軍事領導人所命名，該名領導者是鄂圖曼帝國最後試圖擴張到中歐和東歐的中心人物。
           </p>
           <p>
-            在遊戲中穆斯塔法帕夏的外型是土耳其火槍兵，他會受到所有弓兵和火藥單位科技加成的影響。他不能被招降而且會自行回血。
+            在遊戲中穆斯塔法帕夏的外型是<nuxt-link to="/units/Janissary"
+              >土耳其火槍兵</nuxt-link
+            >，他會受到所有<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            >和<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >加成的影響。他不能被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <div></div>
@@ -54,23 +67,33 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">180</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">25(遠程)</td>
+            <td class="unit4">
+              25(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對衝撞車+3</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>+3
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">3.49</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -82,24 +105,31 @@
             <td class="unit4">70%</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">弓兵 <br />火藥單位 <br />特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">0.96</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
         </table>

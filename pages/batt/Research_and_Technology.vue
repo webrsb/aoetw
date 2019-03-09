@@ -8,8 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>研發與科技</b
-            >是華勒斯教學戰役的第四個劇情關卡，專為那些從未玩過“世紀帝國”遊戲的玩家設計，教導玩家如何研發科技與升級時代。
+            <b>研發與科技</b>是<nuxt-link to="/batt/William_Wallacea"
+              >華勒斯教學戰役</nuxt-link
+            >的第四個劇情關卡，專為那些從未玩過“世紀帝國”遊戲的玩家設計，教導玩家如何研發<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >與升級時代。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +23,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="14%">起始時代：</td>
-              <td class="tc2" width="14%">黑暗時代</td>
+              <td class="tc2" width="14%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="14%">起始資源：</td>
-              <td class="tc2">200木材，450食物，250黃金，200石頭</td>
+              <td class="tc2">
+                200<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >，450<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，250<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="14%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -45,14 +56,21 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家2</div></td>
-              <td class="tc6">英格蘭（紅色）不列顛</td>
+              <td class="tc6">
+                英格蘭（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>8位村民、8位民兵。</dd>
+            <dd>
+              8位<nuxt-link to="/units/Villager">村民</nuxt-link>、8位<nuxt-link
+                to="/units/Militia"
+                >民兵</nuxt-link
+              >。
+            </dd>
             <dt>大地之母單位：</dt>
             <dd>無。</dd>
           </dl>
@@ -61,7 +79,10 @@
           <div class="n1">
             <ol>
               <li>
-                要達成本項任務，您必須升級至封建時代，並且擊敗來犯的英格蘭軍隊。
+                要達成本項任務，您必須升級至<nuxt-link
+                  to="/techs/age/Feudal_Age"
+                  >封建時代</nuxt-link
+                >，並且擊敗來犯的英格蘭軍隊。
               </li>
             </ol>
           </div>
@@ -124,7 +145,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
             </td>
@@ -138,7 +159,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第一章之四</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第一章之四
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

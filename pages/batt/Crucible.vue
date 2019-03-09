@@ -9,8 +9,11 @@
         <div class="n1">
           <p></p>
           <p>
-            <b>嚴酷的考驗</b
-            >為成吉思汗戰役的第一關劇情關卡，此關描述成吉思汗統一蒙古部族的故事。
+            <b>嚴酷的考驗</b>為<nuxt-link to="/batt/Genghis_Khana"
+              >成吉思汗(戰役)</nuxt-link
+            >的第一關劇情關卡，此關描述<nuxt-link to="/units/hero/Genghis_Khan"
+              >成吉思汗</nuxt-link
+            >統一<nuxt-link to="/civs/Mongols">蒙古</nuxt-link>部族的故事。
           </p>
         </div>
         <h2>玩家</h2>
@@ -20,7 +23,9 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">黑暗時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
               <td class="tc2">無</td>
               <td class="tc1" width="15%">人口上限：</td>
@@ -39,7 +44,9 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p8">玩家1</div></td>
-              <td class="tc6" colspan="3">蒙古人（橘色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background: #27ae60;">同盟</td>
@@ -48,7 +55,9 @@
               <td class="tc6" width="12%"><div class="p4">玩家3</div></td>
               <td class="tc6" width="38%">成吉思汗（黃色）蒙古 同盟</td>
               <td class="tc6" width="12%"><div class="p1">玩家4</div></td>
-              <td class="tc6" width="38%">克里依特人（藍色）土耳其</td>
+              <td class="tc6" width="38%">
+                克里依特人（藍色）<nuxt-link to="/civs/Turks">土耳其</nuxt-link>
+              </td>
             </tr>
             <tr>
               <td class="tc6" width="12%"><div class="p3">玩家5</div></td>
@@ -74,7 +83,10 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>4位輕騎兵、4位馬弓騎兵。</dd>
+            <dd>
+              4位<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、4位<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>。
+            </dd>
             <dt>大地之母單位：</dt>
             <dd>無</dd>
           </dl>
@@ -96,7 +108,12 @@
             <li>
               你可以任意更改外交狀態設定，但若其他部落做出任何反應，你也別感到太過意外。
             </li>
-            <li>只有僧侶可以尋獲、置放或在修道院裡守護遺跡。</li>
+            <li>
+              只有<nuxt-link to="/units/Monk">僧侶</nuxt-link>可以拿起<nuxt-link
+                to="/Relic"
+                >遺跡</nuxt-link
+              >並放在<nuxt-link to="/building/Monastery">修道院</nuxt-link>裡。
+            </li>
             <li>
               克里依特人對信仰的虔誠度是眾所皆知的。他們的營帳附近應該會有一些僧侶。使用[任務]鈕來隨時注意新的任務或任務變動。
             </li>
@@ -120,16 +137,24 @@
             </li>
             <li>此關是唯一原始外交狀態沒有（敵對）的關卡。</li>
             <li>
-              在取得初始的輕騎兵、馬弓騎兵之前，玩家擁有一名弓箭手，在靠近克里依特人的樹林中，避免玩家因為沒有單位而自動輸掉遊戲。
+              在取得初始的輕騎兵、馬弓騎兵之前，玩家擁有一名<nuxt-link
+                to="/units/Archer"
+                >弓箭手</nuxt-link
+              >，在靠近克里依特人的樹林中，避免玩家因為沒有單位而自動輸掉遊戲。
             </li>
             <li>
-              你可以把同盟部落的外交關係改為中立，然後一一招降他們的單位，如此一來便不用施恩給這些部落以換取他們的部隊。這招在對付泰依齊烏特與紐曼時特別有用。
+              你可以把同盟部落的外交關係改為中立，然後一一<nuxt-link
+                to="/elements/Conversion"
+                >招降</nuxt-link
+              >他們的單位，如此一來便不用施恩給這些部落以換取他們的部隊。這招在對付泰依齊烏特與紐曼時特別有用。
             </li>
             <li>
               試圖招降加拉凱台四散在地圖上的部隊也可以補充你的軍力，然而這有點困難、需要一點運氣。
             </li>
             <li>
-              雖然克里依特人顯示為土耳其人、烏依古爾人則是蒙古人，但事實上是相反的。克里依特
+              雖然克里依特人顯示為<nuxt-link to="/civs/Turks"
+                >土耳其人</nuxt-link
+              >、烏依古爾人則是蒙古人，但事實上是相反的。克里依特
               實際上像其他部族一樣是蒙古部落，而烏依古爾人／安吉特拉人則是突厥人。
             </li>
             <li>
@@ -169,13 +194,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">戰役</td>
+            <td class="unit3"><nuxt-link to="/batt">戰役</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>
             </td>
@@ -189,7 +214,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第四章之一</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第四章之一
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

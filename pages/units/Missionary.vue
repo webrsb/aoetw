@@ -8,9 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            傳教士是<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>中
-            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >的第二種特殊單位，可以在
+            <b>傳教士</b>是<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>中
+            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>的第二種<nuxt-link
+              to="/units/Unique_Unit"
+              >特殊單位</nuxt-link
+            >，可以在
             <nuxt-link to="/building/Monastery">修道院</nuxt-link
             >進行訓練。但不像
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>，它無法撿<nuxt-link
@@ -23,20 +25,33 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            與僧侶一樣，傳教士能夠治療單位以及招降敵方單位，但是不能拾取<nuxt-link
-              to="/Relic"
-              >遺跡</nuxt-link
+            與<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >一樣，傳教士能夠治療單位以及<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >敵方單位，但是不能拾取<nuxt-link to="/Relic">遺跡</nuxt-link
             >，且治療速度只有僧侶的一半（每0.8秒1
             HP而不是0.4秒）。它可以移動得相當快，使它幾乎可以從<nuxt-link
               to="/units/Knight"
               >騎士</nuxt-link
-            >以外幾乎所有的敵方單位攻擊下逃走。在騎士中搭配幾個傳教士可以在勢均力敵的戰鬥中大大提高獲勝的機會。傳教士也能招降被擊敗的敵人的單位和建築物。他們受到所有修道院科技的影響。然而，儘管他們在移動速度方面比僧侶有優勢，但傳教士招降範圍只有7，遠不敵僧侶的9。
+            >以外幾乎所有的敵方單位攻擊下逃走。在<nuxt-link to="/units/Knight"
+              >騎士</nuxt-link
+            >中搭配幾個傳教士可以在勢均力敵的戰鬥中大大提高獲勝的機會。傳教士也能招降被擊敗的敵人的單位和<nuxt-link
+              to="/building"
+              >建築物</nuxt-link
+            >。他們受到所有<nuxt-link to="/building/Monastery">修道院</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >的影響。然而，儘管他們在移動速度方面比僧侶有優勢，但傳教士招降範圍只有7，遠不敵僧侶的9。
           </p>
           <p>
-            僧侶和傳教士的成本都一樣，使在他們之間的選擇主要是戰術上的問題。在大多數方面，傳教士的表現通常優於僧侶。但僧侶的進攻能力，無論是醫治友軍，招降敵人或逃避反擊都有更好的表現。傳教士在防守上的表現則差得多，而且治療速度也較慢，所以對於必須在城牆後面反擊的情況，僧侶的表現會更好。
+            僧侶和傳教士的成本都一樣，使在他們之間的選擇主要是戰術上的問題。在大多數方面，傳教士的表現通常優於僧侶。但僧侶的進攻能力，無論是醫治友軍，招降敵人或逃避反擊都有更好的表現。傳教士在防守上的表現則差得多，而且治療速度也較慢，所以對於必須在<nuxt-link
+              to="/building/Stone_Wall"
+              >城牆</nuxt-link
+            >後面反擊的情況，僧侶的表現會更好。
           </p>
           <p>
-            對於西班牙人來說，西班牙傳教士給西班牙人更多的戰術靈活性，特別是在進攻和後期遊戲<nuxt-link
+            對於<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
+            >來說，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+            >傳教士給西班牙人更多的戰術靈活性，特別是在進攻和後期遊戲<nuxt-link
               to="/Relic"
               >遺跡</nuxt-link
             >已被收集完的時候。
@@ -72,7 +87,8 @@
                 >戟兵</nuxt-link
               >、
               <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
-              >、箭塔、<nuxt-link to="/building/Castle">城堡</nuxt-link>。
+              >、<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >、<nuxt-link to="/building/Castle">城堡</nuxt-link>。
             </td>
           </tr>
           <tr class="tta">
@@ -81,7 +97,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Sanctity.jpg" alt="" /><nuxt-link
                 to="/techs/Sanctity"
@@ -120,7 +138,9 @@
               <img class="gg" src="~assets/Redemption.jpg" alt="" /><nuxt-link
                 to="/techs/Redemption"
                 >信仰救贖</nuxt-link
-              >:僧侶可招降大部分建築物和攻城單位。 <br />
+              >:僧侶可招降大部分建築物和<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >。 <br />
               <img class="gg" src="~assets/Atonement.jpg" alt="" /><nuxt-link
                 to="/techs/Atonement"
                 >贖罪</nuxt-link
@@ -207,9 +227,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -467,7 +487,11 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>訓練傳教士需要先建造城堡。</li>
+            <li>
+              訓練傳教士需要先建造<nuxt-link to="/building/Castle"
+                >城堡</nuxt-link
+              >。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
@@ -493,7 +517,8 @@
               傳教士是唯一在修道院訓練的特殊單位，同時也讓修道院成為唯一可訓練一種特殊單位的建築物。
             </li>
             <li>
-              傳教士是少數幾個單位同時沒有近防和遠防。其他的有<nuxt-link
+              傳教士是少數幾個單位同時沒有<nuxt-link to="/armor">近防</nuxt-link
+              >和<nuxt-link to="/armor">遠防</nuxt-link>。其他的有<nuxt-link
                 to="/units/Slinger"
                 >投石手</nuxt-link
               >、<nuxt-link to="/units/Condottiero">傭兵</nuxt-link>、
@@ -521,7 +546,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            隨著歐洲人漸漸明白哥倫布已經打開了通向兩大洲的大門，他們醒悟到將潛在巨大的本地人口轉變為基督教的可能性，西班牙人，葡萄牙人和其他歐洲國家紛紛派遣傳教士進入新大陸。要成為一個傳教士需要有信心，有強健的體魄和極大的熱情，他們經常被要求投身於具有截然不同文化和信仰的人們的曠野中，許多傳教士在這些環境中感到了絕望，折磨和死亡。因為許多當地人拒絕他們的傳教，或者將他們視為疾病和戰爭的帶原者。
+            隨著歐洲人漸漸明白哥倫布已經打開了通向兩大洲的大門，他們醒悟到將潛在巨大的本地人口轉變為基督教的可能性，西班牙人，<nuxt-link
+              to="/civs/Portuguese"
+              >葡萄牙人</nuxt-link
+            >和其他歐洲國家紛紛派遣傳教士進入新大陸。要成為一個傳教士需要有信心，有強健的體魄和極大的熱情，他們經常被要求投身於具有截然不同文化和信仰的人們的曠野中，許多傳教士在這些環境中感到了絕望，折磨和死亡。因為許多當地人拒絕他們的傳教，或者將他們視為疾病和戰爭的帶原者。
           </p>
         </div>
       </div>
@@ -554,7 +582,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>
             </td>
@@ -589,7 +617,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">100</td>
           </tr>
           <tr>
@@ -598,7 +628,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">30</td>
           </tr>
           <tr>
@@ -641,7 +673,7 @@
             <td class="unit4">1.1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">9</td>
           </tr>
         </table>

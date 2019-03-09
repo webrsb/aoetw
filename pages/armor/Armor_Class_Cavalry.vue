@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於騎兵系裝甲的。而關於騎兵這個兵種的請參見<nuxt-link
+            >這篇文章是將有關於<strong>騎兵系裝甲的</strong>。而關於騎兵這個兵種的請參見<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵單位</nuxt-link
             >或<nuxt-link to="/units/Cavalier">騎兵</nuxt-link>。</em
@@ -18,7 +18,8 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            騎兵系是一個防禦裝甲類別，所有在這個系列的兵種都會被剋騎兵系的兵種有額外的傷害。
+            <b>騎兵系</b>是一個<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            >類別，所有在這個系列的兵種都會被剋騎兵系的兵種有額外的傷害。
           </p>
         </div>
         <h3>騎兵系單位</h3>
@@ -264,7 +265,12 @@
         <h3>剋騎兵系的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對騎兵系的額外傷害，按照傷殺力排列。這裡也列出攻擊加成0的單位是因為矛象伕的騎兵護甲是-2的關係，0-(-2)=2大於0還是會有攻擊加成。
+          以下單位擁有對<nuxt-link to="/armor/Armor_Class_Cavalry"
+            >騎兵系</nuxt-link
+          >的額外傷害，按照傷殺力排列。這裡也列出攻擊加成0的單位是因為<nuxt-link
+            to="/units/Battle_Elephant"
+            >矛象伕</nuxt-link
+          >的騎兵護甲是-2的關係，0-(-2)=2大於0還是會有攻擊加成。
           <div class="n1">
             <div class="row">
               <div class="col-md-4">
@@ -304,9 +310,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>

@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            雙弩箭是<nuxt-link to="/civs/Khmer">高棉</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>雙弩箭</b>是<nuxt-link to="/civs/Khmer">高棉</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Ballista_Elephant"
@@ -24,8 +24,12 @@
         <div class="n1">
           <ul>
             <li>
-              雙弩箭增強了弩砲象和高棉無可挑剔的弩砲(團隊加分:弩砲射程+1還有<nuxt-link
-                to="/techs/Siege_Engineers"
+              雙弩箭增強了<nuxt-link to="/units/Ballista_Elephant"
+                >弩砲象</nuxt-link
+              >和<nuxt-link to="/civs/Khmer">高棉</nuxt-link
+              >無可挑剔的弩砲(<nuxt-link to="/elements/Team_Bonus"
+                >團隊加分</nuxt-link
+              >:弩砲射程+1還有<nuxt-link to="/techs/Siege_Engineers"
                 >攻城工程師</nuxt-link
               >的加成)對大規模
               <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>的殺傷力。
@@ -60,7 +64,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            雙弩箭是一組有雙弓弦的弩，使用者幾乎可以同時發射兩支箭。根據12世紀和13世紀初的浮雕，高棉人以雙弩做為武器。這種做法是借鏡於中國的。這些武器是用來攻城和防禦堡壘用的。然而高棉把這些武器放在戰象的身上作為另一種武器使用。
+            雙弩箭是一組有雙弓弦的弩，使用者幾乎可以同時發射兩支箭。根據12世紀和13世紀初的浮雕，<nuxt-link
+              to="/civs/Khmer"
+              >高棉人</nuxt-link
+            >以雙弩做為武器。這種做法是借鏡於<nuxt-link to="/civs/Chinese"
+              >中國</nuxt-link
+            >的。這些武器是用來攻城和防禦堡壘用的。然而高棉把這些武器放在<nuxt-link
+              to="/units/War_Elephant"
+              >戰象</nuxt-link
+            >的身上作為另一種武器使用。
           </p>
         </div>
       </div>
@@ -86,7 +98,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4"><nuxt-link to="/civs/Khmer">高棉</nuxt-link></td>
           </tr>
           <tr>
@@ -118,11 +130,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">700</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>

@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            巨盾是<nuxt-link to="/civs/Italians">義大利</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>巨盾</b>是<nuxt-link to="/civs/Italians">義大利</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >護甲+1/+1。
@@ -22,7 +21,8 @@
         <div class="n1">
           <ul>
             <li>
-              如果玩家依賴弓箭手和<nuxt-link to="/units/Genoese_Crossbowman"
+              如果玩家依賴<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+              >和<nuxt-link to="/units/Genoese_Crossbowman"
                 >熱那亞弩手</nuxt-link
               >做為進攻/防守的選擇，那麼巨盾要盡早研發。
             </li>
@@ -30,12 +30,18 @@
               一開始巨盾的護甲加成只有加在熱那亞努手身上，後來在<nuxt-link
                 to="/games/ak"
                 >非洲王國</nuxt-link
-              >資料片中才改成所有徒步弓兵都有加乘。
+              >資料片中才改成所有徒步<nuxt-link to="/units/Archer_Units"
+                >弓兵</nuxt-link
+              >都有加乘。
             </li>
             <li>
               研發巨盾與否取決於資料片版本，如果是<nuxt-link to="/games/aof"
                 >失落的帝國</nuxt-link
-              >版本，巨盾花費太貴玩家應該優先升級其他科技或是演進至帝王時代。
+              >版本，巨盾花費太貴玩家應該優先升級其他<nuxt-link to="/techs"
+                >科技</nuxt-link
+              >或是演進至<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >。
             </li>
             <li>
               在非洲王池資料片中巨盾的花費減低而且<nuxt-link
@@ -84,21 +90,34 @@
               >以外的所有徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
               >(包括 <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>)。
             </li>
-            <li>4.8改版後巨盾不再影響矛兵了。</li>
+            <li>
+              4.8改版後巨盾不再影響<nuxt-link to="/units/Skirmisher"
+                >矛兵</nuxt-link
+              >了。
+            </li>
           </ul>
         </div>
         <h3>豆知識</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            實際上，巨盾是中世紀歐洲弓箭手使用的一種高凸形盾牌，作為一種移動掩體，讓他們在沒有射擊的情況下能躲在後面。外觀上，這款巨盾很像熱那亞弩手的盾牌，儘管熱那亞弩手在與敵人交戰時似乎並沒有躲在它後面過，因此在面對遠程對手時這個盾牌實在沒有作用。
+            實際上，巨盾是中世紀歐洲弓箭手使用的一種高凸形盾牌，作為一種移動掩體，讓他們在沒有射擊的情況下能躲在後面。外觀上，這款巨盾很像<nuxt-link
+              to="/units/Genoese_Crossbowman"
+              >熱那亞弩手</nuxt-link
+            >的盾牌，儘管熱那亞弩手在與敵人交戰時似乎並沒有躲在它後面過，因此在面對<nuxt-link
+              to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >對手時這個盾牌實在沒有作用。
           </p>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            這款巨盾是以意大利帕維亞市命名。它能讓弩兵和弓箭手在重新裝填時保護他們。手臂和背部的盾牌也使用較小的版本。巨盾常在攻城時使用。弩手在使用巨盾時會比較不容易受到傷害。
+            這款巨盾是以意大利帕維亞市命名。它能讓<nuxt-link
+              to="/units/Crossbowman"
+              >弩兵</nuxt-link
+            >和弓箭手在重新裝填時保護他們。手臂和背部的盾牌也使用較小的版本。巨盾常在攻城時使用。弩手在使用巨盾時會比較不容易受到傷害。
           </p>
         </div>
       </div>
@@ -124,7 +143,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Italians">義大利</nuxt-link>
             </td>
@@ -158,11 +177,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
@@ -172,7 +195,9 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">徒步遠程護甲+1/+1。</td>
+            <td class="unit4">
+              徒步<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+1。
+            </td>
           </tr>
         </table>
 

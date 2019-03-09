@@ -9,18 +9,24 @@
         <div class="n1">
           <p>
             <strong>伊茲柯阿特爾</strong>是一名可在《世紀帝國II HD：
-            非洲王國》的地圖編輯器中使用的<nuxt-link to="/units/Infantry_Units"
+            <nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >》的地圖編輯器中使用的<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >
             <nuxt-link to="/units/hero">英雄</nuxt-link
             >。他的原型是特諾奇提特蘭的第四代統治者，在位時間為1427/1428年到1440年，此時正是墨西加人推翻特帕內克人，並最終建立
             <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-            >帝國的時期。作為一個英雄單位，他無法被招降且會自動回血。
+            >帝國的時期。作為一個<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             在遊戲中，伊茲柯阿特爾以<nuxt-link to="/units/Jaguar_Warrior"
               >豹勇士</nuxt-link
-            >的外表登場，但是能力更強。和其他步兵單位一樣，伊茲柯阿特爾會受到所有影響步兵的升級及加成影響。
+            >的外表登場，但是能力更強。和其他<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >一樣，伊茲柯阿特爾會受到所有影響步兵的升級及加成影響。
           </p>
         </div>
       </div>
@@ -62,7 +68,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
@@ -70,7 +78,9 @@
             <td class="unit4">18(近戰)</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
@@ -89,16 +99,16 @@
           <tr></tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -111,7 +121,7 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
         </table>

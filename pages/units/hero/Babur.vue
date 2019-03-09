@@ -8,21 +8,41 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            巴卑爾，全名查希爾丁·穆罕默德·巴布爾，1483年2月14日~1530年12月26日，蒙兀兒帝國的開國君主。名字「巴布爾」在波斯語中意思是「老虎」。
+            <b>巴卑爾</b
+            >，全名查希爾丁·穆罕默德·巴布爾，1483年2月14日~1530年12月26日，蒙兀兒帝國的開國君主。名字「巴布爾」在<nuxt-link
+              to="/civs/Persians"
+              >波斯</nuxt-link
+            >語中意思是「老虎」。
           </p>
         </div>
         <h3>介紹</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            巴卑爾是一位騎兵英雄，只有在地圖編輯器中登場，外型是帝王駱駝騎兵，他是一個英雄單位不能被招降，且會自己回血，且擁有等同駱駝騎兵的各式升級。
+            巴卑爾是一位<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
+            >，只有在地圖編輯器中登場，外型是<nuxt-link
+              to="/units/Imperial_Camel"
+              >帝王駱駝騎兵</nuxt-link
+            >，他是一個<nuxt-link to="/units/hero">英雄</nuxt-link
+            >單位不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >，且會自己<nuxt-link to="/Regeneration">回血</nuxt-link
+            >，且擁有等同<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+            >的各式升級。
           </p>
         </div>
         <h3>芝麻小事</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <LI
-            >巴布爾是成吉思汗（母系）和帖木兒（父系）的後裔，卽巴魯剌思氏。是突厥化蒙古人。母語為察合台語，曾以察合台文為自己立傳，名為巴布爾回憶錄。「蒙兀兒」即是波斯語的「蒙古」。巴布爾生於中亞的費爾干納谷地。</LI
+            >巴布爾是<nuxt-link to="/units/hero/Genghis_Khan"
+              >成吉思汗</nuxt-link
+            >（母系）和<nuxt-link to="/units/hero/Tamerlane">帖木兒</nuxt-link
+            >（父系）的後裔，卽巴魯剌思氏。是突厥化<nuxt-link to="/civs/Mongols"
+              >蒙古人</nuxt-link
+            >。母語為察合台語，曾以察合台文為自己立傳，名為巴布爾回憶錄。「蒙兀兒」即是波斯語的「<nuxt-link
+              to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >」。巴布爾生於中亞的費爾干納谷地。</LI
           >
         </div>
       </div>
@@ -50,12 +70,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -63,7 +86,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
@@ -72,32 +97,39 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">+18對騎兵 <br />+9對船</td>
+            <td class="unit4">
+              +18對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+              <br />+9對船
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">駱駝</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.45</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
         </table>

@@ -8,11 +8,29 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            裝甲衝撞車是世紀帝國遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從攻城器攻城所製造，對一般單位的攻擊力較低，對建築物、攻城器單位皆有額外的傷害加成，其遠程護甲值極高，在帝王初期，若沒有巨型投石機的幫助下，裝甲衝撞車將會是你攻城推進的一個很好的選擇，研發非常便宜，可惜行走速度與輕型衝撞車一樣，行進時需要特別的保護。
+            <b>裝甲衝撞車</b
+            >是世紀帝國遊戲中，沒有人駕駛卻可以講話的神奇軍事單位，它可以從<nuxt-link
+              to="/units/Siege_Weapons"
+              >攻城器</nuxt-link
+            >攻城所製造，對一般單位的<nuxt-link to="/elements/Attack"
+              >攻擊力</nuxt-link
+            >較低，對<nuxt-link to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
+            >、<nuxt-link to="/units/Siege_Weapons">攻城器單位</nuxt-link
+            >皆有額外的傷害加成，其<nuxt-link to="/armor">遠程護甲</nuxt-link
+            >值極高，在帝王初期，若沒有<nuxt-link to="/units/Trebuchet"
+              >巨型投石機</nuxt-link
+            >的幫助下，裝甲衝撞車將會是你攻城推進的一個很好的選擇，研發非常便宜，可惜行走速度與<nuxt-link
+              to="/units/Battering_Ram"
+              >輕型衝撞車</nuxt-link
+            >一樣，行進時需要特別的保護。
           </p>
           <p>裝甲衝撞車移動速度與駐紮數量前後比較</p>
           <ul>
-            <li>駐紮步兵數量0→移動速度0.5</li>
+            <li>
+              駐紮<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+              >數量0→移動速度0.5
+            </li>
             <li>駐紮步兵數量1→移動速度0.55</li>
             <li>
               駐紮步兵數量2→移動速度0.6(<nuxt-link to="/units/Siege_Ram"
@@ -37,13 +55,27 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            裝甲衝撞車必須到了帝王時代才能研發，它的行走速度依舊還是緩慢的，但其防禦能力與傷害都有不少的提升，而且僅需要支付300食物，就可以將輕型衝撞車升級為裝甲衝撞車。
+            裝甲衝撞車必須到了<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >才能研發，它的行走速度依舊還是緩慢的，但其防禦能力與傷害都有不少的提升，而且僅需要支付300<nuxt-link
+              to="/resource/Food"
+              >食物</nuxt-link
+            >，就可以將輕型衝撞車升級為裝甲衝撞車。
           </p>
           <p>
-            在升級帝王時期的中間過度期，會有不少玩家選擇將輕型衝撞車藏放在城器製造所，等到一上了帝王馬上升級成裝甲衝撞車直搗敵方陣營，優異的擴散傷害可以在帝王初期造成對手非常大的威脅，且數量可以在上帝王前就開始囤積，這點是巨型投石機所無法做到的。
+            在升級帝王時期的中間過度期，會有不少玩家選擇將輕型衝撞車藏放在城器製造所，等到一上了帝王馬上升級成裝甲衝撞車直搗敵方陣營，優異的<nuxt-link
+              to="/elements/Area_of_Effect"
+              >擴散傷害</nuxt-link
+            >可以在帝王初期造成對手非常大的威脅，且數量可以在上帝王前就開始囤積，這點是巨型投石機所無法做到的。
           </p>
           <p>
-            在遊戲中，所有文明皆可以研發裝甲衝撞車，若想將它的殺傷力再提高一個檔次，建議可以在學院裡面研發攻城工程師，使傷害再提高20%。
+            在遊戲中，所有<nuxt-link to="/civs">文明</nuxt-link
+            >皆可以研發裝甲衝撞車，若想將它的殺傷力再提高一個檔次，建議可以在<nuxt-link
+              to="/building/University"
+              >學院</nuxt-link
+            >裡面研發<nuxt-link to="/techs/Siege_Engineers"
+              >攻城工程師</nuxt-link
+            >，使傷害再提高20%。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -78,7 +110,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -107,8 +141,10 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Torsion_Engines">扭力彈射器</nuxt-link
-              >:攻城器製造所的單位傷害範圍增加(輕型衝撞車和攻城塔除外)，
-              <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>限定
+              >:攻城器製造所的單位傷害範圍增加(輕型衝撞車和<nuxt-link
+                to="/units/Siege_Tower"
+                >攻城塔</nuxt-link
+              >除外)， <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>限定
             </td>
           </tr>
           <tr>
@@ -119,10 +155,10 @@
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link
-              >:攻城武器近戰護甲+4，<nuxt-link to="/civs/Teutons"
-                >條頓</nuxt-link
-              >限定
+              /><nuxt-link to="/techs/Ironclad">鋼鐵甲</nuxt-link>:<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城武器</nuxt-link
+              >近戰護甲+4，<nuxt-link to="/civs/Teutons">條頓</nuxt-link>限定
             </td>
           </tr>
           <tr>
@@ -140,7 +176,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -337,15 +375,19 @@
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：裝甲衝撞車攻擊速度快20%
+              >：裝甲衝撞車<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快20%
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對裝甲衝撞車有利的科技在帝王時代便宜20%。
+              >：對裝甲衝撞車有利的<nuxt-link to="/techs">科技</nuxt-link
+              >在帝王時代便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：裝甲衝撞車黃金花費減少15%。
+              >：裝甲衝撞車<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >花費減少15%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -369,7 +411,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：其軍事單位對僧侶的招降有較好的抗性。
+              >：其軍事單位對<nuxt-link to="/elements/Conversion"
+                >僧侶的招降</nuxt-link
+              >有較好的抗性。
             </li>
           </ul>
         </div>
@@ -389,7 +433,11 @@
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
           </h3>
           <ul>
-            <li>步兵、弓兵可以駐紮在衝撞車裡面。</li>
+            <li>
+              步兵、徒步<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+              >可以駐紮在<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >裡面。
+            </li>
             <li>
               升級到<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
               >為1000F。
@@ -400,13 +448,21 @@
                 >塞爾特狂暴</nuxt-link
               >給予衝撞車多50%的HP。
             </li>
-            <li>蒙古：<nuxt-link to="/techs/Drill">演習</nuxt-link>引進。</li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
+                to="/techs/Drill"
+                >演習</nuxt-link
+              >引進。
+            </li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>現在村民可以駐紮在衝撞車裡面。</li>
+            <li>
+              現在<nuxt-link to="/units/Villager">村民</nuxt-link
+              >可以駐紮在衝撞車裡面。
+            </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>:<nuxt-link
                 to="/techs/Furor_Celtica"
@@ -426,7 +482,19 @@
         <div class="n1">
           <ul>
             <li>
-              駐紮單位：世紀帝國二初期，衝撞車是沒辦法被駐紮的，到了征服者入侵位資料片之後，衝撞車才可以駐軍(步兵、徒步弓兵，不包含村民，僧侶、國王、爆炸桶)，而到了失落的帝國才能讓村民駐軍衝撞車。另外有國外的網友在實驗衝撞車單位時，發現了一有趣的現象，長弓兵駐軍的衝撞車會跟馬路三寶或酒罪人士一樣，不斷的失控去卡別台衝撞車。(
+              駐紮單位：世紀帝國二初期，衝撞車是沒辦法被駐紮的，到了<nuxt-link
+                to="/games/aoc"
+                >征服者入侵</nuxt-link
+              >位資料片之後，衝撞車才可以<nuxt-link to="/Garrison"
+                >駐軍</nuxt-link
+              >(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link to="/units/King"
+                >國王</nuxt-link
+              >、<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >)，而到了<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+              >才能讓村民駐軍衝撞車。另外有國外的網友在實驗衝撞車單位時，發現了一有趣的現象，<nuxt-link
+                to="/units/Longbowman"
+                >長弓兵</nuxt-link
+              >駐軍的衝撞車會跟馬路三寶或酒罪人士一樣，不斷的失控去卡別台衝撞車。(
               <a href="https://www.youtube.com/watch?v=aPK2RnpEgPA"
                 >見實驗影片</a
               >)。
@@ -435,7 +503,9 @@
               移動速度：步兵駐軍後的衝撞車移動速度比弓兵駐軍的衝撞車快，簡單來說，只有步兵駐軍才能堤升衝撞車的移動速度，且任何種類的步兵駐紮衝撞車後的速度都是一樣的。
             </li>
             <li>攻擊2，是陸上最弱的攻擊。</li>
-            <li>防禦-3，是所有單位近防最低的。</li>
+            <li>
+              防禦-3，是所有單位<nuxt-link to="/armor">近防</nuxt-link>最低的。
+            </li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -458,7 +528,12 @@
               <gallery
                 ><img class="imgn hg" src="~assets/Ramline.png" alt=""
               /></gallery>
-              <p><em>衝撞車系。</em></p>
+              <p>
+                <em
+                  ><nuxt-link to="/armor/Armor_Class_Ram">衝撞車系</nuxt-link
+                  >。</em
+                >
+              </p>
             </div>
           </div>
         </div>
@@ -466,7 +541,11 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            衝車、或稱撞車，屬於古代攻城器械，在四輪車上安裝撞木，前裹鐵皮，以衝撞的力量破壞城牆或城門的攻城主要兵器。
+            <nuxt-link to="/units/Battering_Ram">衝車</nuxt-link
+            >、或稱撞車，屬於古代攻城器械，在四輪車上安裝撞木，前裹鐵皮，以衝撞的力量破壞<nuxt-link
+              to="/building/Stone_Wall"
+              >城牆</nuxt-link
+            >或<nuxt-link to="/building/Gate">城門</nuxt-link>的攻城主要兵器。
           </p>
           <p>
             《三國演義》第九十七回敘述：孔明大怒曰：「汝燒吾雲梯，吾卻用『衝車』之法！」
@@ -550,7 +629,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
@@ -582,7 +663,7 @@
             <td class="unit4">-3</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">190</td>
           </tr>
           <tr>
@@ -604,7 +685,7 @@
             <td class="unit4">0.5</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>

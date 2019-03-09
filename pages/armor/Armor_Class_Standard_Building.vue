@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於標準建築裝甲的。而關於建築種類請參見<nuxt-link
+            >這篇文章是將有關於<strong>標準建築裝甲</strong>的。而關於建築種類請參見<nuxt-link
               to="/building"
               >建築頁</nuxt-link
             ></em
@@ -18,7 +18,13 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            標準建築裝甲是一個防禦裝甲類別，所有在這個系列的建築<strong>(不包括世界奇觀)</strong>都會被對建築裝甲的有攻擊加成的兵種或科技有額外的傷害。
+            <strong>標準建築裝甲</strong
+            >裝甲是一個防禦裝甲類別，所有在這個系列的建築<strong
+              >(不包括<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
+              >)</strong
+            >都會被對建築裝甲的有攻擊加成的兵種或<nuxt-link to="/techs"
+              >科技</nuxt-link
+            >有額外的傷害。
           </p>
         </div>
         <h3>標準建築單位</h3>
@@ -228,9 +234,9 @@
                       width="25px"
                       src="~assets/Feitoriaicon.png"
                       alt=""
-                    />港灣大商站(<nuxt-link to="/civs/Portuguese"
-                      >葡萄牙</nuxt-link
-                    >限定)
+                    /><nuxt-link to="/building/Feitoriaicon_Feitoria"
+                      >港灣大商站</nuxt-link
+                    >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
                     <img
@@ -730,8 +736,10 @@
           <h3>文明加成</h3>
           <div class="hrn1"></div>
           <div class="n1">
-            <nuxt-link to="/civs/Goths">哥德</nuxt-link
-            >可讓以下單位對標準建築物有額外傷害。
+            <nuxt-link to="/civs/Goths">哥德</nuxt-link>可讓以下單位對<nuxt-link
+              to="/armor/Armor_Class_standard_building"
+              >標準建築物</nuxt-link
+            >有額外傷害。
             <div class="n1">
               <div style="margin:12px 0px;"><strong>+1攻擊</strong></div>
               <ul>
@@ -858,8 +866,9 @@
                       /><nuxt-link to="/units/Imperial_Skirmisher"
                         >帝王戰矛兵</nuxt-link
                       >
-                      (帝王戰矛兵是<nuxt-link to="/civs/Vietnamese"
-                        >越南</nuxt-link
+                      (<nuxt-link to="/units/Imperial_Skirmisher"
+                        >帝王戰矛兵</nuxt-link
+                      >是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
                       >及其同盟限定)
                     </li>
                     <li>

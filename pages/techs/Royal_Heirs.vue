@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            皇族血脈是<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >在
+            <b>皇族血脈</b>是<nuxt-link to="/civs/Ethiopians"
+              >衣索比亞</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/units/Shotel_Warrior"
               >彎刀勇士</nuxt-link
@@ -23,7 +23,13 @@
         <div class="n1">
           <ul>
             <li>
-              皇族血脈可讓衣索比亞玩家在基地有緊急狀況時讓彎刀勇士海量的出現在戰場上，同樣地也可在敵方城鎮附近蓋座城堡，用大量地彎刀勇士在短時間內衝入城鎮內殺得對方措手不及。
+              皇族血脈可讓<nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link
+              >玩家在基地有緊急狀況時讓<nuxt-link to="/units/Shotel_Warrior"
+                >彎刀勇士</nuxt-link
+              >海量的出現在戰場上，同樣地也可在敵方城鎮附近蓋座<nuxt-link
+                to="/building/Castle"
+                >城堡</nuxt-link
+              >，用大量地彎刀勇士在短時間內衝入城鎮內殺得對方措手不及。
             </li>
             <li>
               皇族血脈適合那些打快攻突擊戰的玩家，但是除非敵方的資源收集戰遠離城鎮和軍隊，讓我們有機可乘對敵人經濟造成重創，否則高風險的投資很難帶來高的收益。
@@ -65,7 +71,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>
             </td>
@@ -99,11 +105,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

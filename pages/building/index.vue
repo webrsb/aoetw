@@ -4,7 +4,10 @@
     <h3></h3>
     <div class="row">
       <div class="col-md-12">
-        <p>下面將列出遊戲中所有村民可建造建築，依照時代來分</p>
+        <p>
+          下面將列出遊戲中所有<nuxt-link to="/units/Villager">村民</nuxt-link
+          >可建造建築，依照時代來分
+        </p>
       </div>
     </div>
     <div class="row">

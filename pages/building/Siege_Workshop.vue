@@ -8,7 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            攻城器製造所是專門製造攻城武器的場所，其單位對建築物有強大的破壞力。
+            <b>攻城器製造所</b>是專門製造<nuxt-link to="/units/Siege_Weapons"
+              >攻城武器</nuxt-link
+            >的場所，其單位對<nuxt-link to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
+            >有強大的破壞力。
           </p>
           <p>
             因為舊快捷鍵的關係，一搬玩家稱攻城器製造所為「BK」，即使他們因為新快捷鍵不再用BK作為攻城器製造所的快捷鍵了。
@@ -139,7 +143,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -164,7 +170,8 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >(護甲+1/+1，+3建築護甲) <br />
+              >(護甲+1/+1，+3<nuxt-link to="/building">建築</nuxt-link>護甲)
+              <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -175,7 +182,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -193,7 +200,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">招降抵抗</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -228,8 +237,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-              >：攻城器單位生產速度快15%。
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城器單位</nuxt-link
+              >生產速度快15%。
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：研發<nuxt-link
@@ -239,11 +250,19 @@
             </li>
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
-              >：攻城器製造所在封建/城堡/帝王時代多20%/30%/40%的血量。
+              >：攻城器製造所在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >多20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/帝王時代各便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：蓋攻城器製造所不用
@@ -251,21 +270,27 @@
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：蓋攻城器製造所成本減少15% (170木材即可建造)。
+              >：蓋攻城器製造所成本減少15% (170<nuxt-link to="/resource/Wood"
+                >木材</nuxt-link
+              >即可建造)。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：蓋攻城器製造所建築速度快30%、火藥單位攻擊速度快15%(<nuxt-link
-                to="/units/Bombard_Cannon"
-                >火砲</nuxt-link
-              >)。
+              >：蓋攻城器製造所建築速度快30%、<nuxt-link
+                to="/units/Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
+              >快15%(<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>)。
             </li>
             <li>
               <nuxt-link to="/civs/Persians">波斯</nuxt-link>：研究<nuxt-link
                 to="/techs/Town_Watch"
                 >城鎮瞭望</nuxt-link
               >和<nuxt-link to="/techs/Town_Patrol">城鎮巡邏</nuxt-link
-              >的速度在封建/城堡/帝王分別快10%/15%/20%。
+              >的速度在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >分別快10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -291,7 +316,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-              >：攻城器製造所駐軍單位多5個(總共15個)。
+              >：攻城器製造所<nuxt-link to="/Garrison">駐軍</nuxt-link
+              >單位多5個(總共15個)。
             </li>
           </ul>
         </div>
@@ -303,7 +329,8 @@
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：<nuxt-link
                 to="/techs/Ironclad"
                 >鋼鐵甲</nuxt-link
-              >(400木材，350黃金)→攻城器製造所單位近身裝甲值+4。
+              >(400木材，350<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >)→攻城器製造所單位近身裝甲值+4。
             </li>
             <li>
               <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>：<nuxt-link
@@ -315,13 +342,16 @@
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
                 to="/techs/Furor_Celtica"
                 >塞爾特狂暴</nuxt-link
-              >(750食物，450黃金)→攻城器製造所單位生命值40%。
+              >(750<nuxt-link to="/resource/Food">食物</nuxt-link
+              >，450黃金)→攻城器製造所單位生命值40%。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link>：<nuxt-link
                 to="/techs/Shinkichon"
                 >神機箭</nuxt-link
-              >(800木材，500黃金)→投石車攻擊距離+1 。
+              >(800木材，500黃金)→<nuxt-link to="/units/Mangonel"
+                >投石車</nuxt-link
+              >攻擊距離+1 。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>：<nuxt-link
@@ -339,7 +369,9 @@
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link>：<nuxt-link
                 to="/techs/Double_Crossbow"
                 >雙弩箭</nuxt-link
-              >(700食物，400黃金)→弩砲象與弩砲發射雙箭(第二發傷害比第一發低)。
+              >(700食物，400黃金)→<nuxt-link to="/units/Ballista_Elephant"
+                >弩砲象</nuxt-link
+              >與弩砲發射雙箭(第二發傷害比第一發低)。
             </li>
           </ul>
         </div>
@@ -364,7 +396,11 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>攻城器製造所在城堡/帝王時代分別有1800/2100HP。</li>
+            <li>
+              攻城器製造所在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代分別有1800/2100HP。
+            </li>
             <li>引入<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>。</li>
           </ul>
         </div>
@@ -374,7 +410,11 @@
           <div class="ien">
             <em
               >"城堡和城鎮的設立造成了軍隊想要有能破壞要塞和高牆的攻城部隊。如果沒有這樣的攻城武器，奪取城堡無論在金錢跟時間上都是種磨耗，攻方只能慢慢消耗守方力量直到他們投降。
-              而攻城的能力常會受到戰事的長短，向攻城軍隊提供補給的費用，營地發生疾病造成的損失以及天氣的限制而有所影響。衝撞車，投石機和其他攻城武器的出現能快速破壞防禦結構和為戰事快速畫下結局。攻城武器可在攻城器製造所訓練"</em
+              而攻城的能力常會受到戰事的長短，向攻城軍隊提供補給的費用，營地發生疾病造成的損失以及天氣的限制而有所影響。<nuxt-link
+                to="/units/Battering_Ram"
+                >衝撞車</nuxt-link
+              >，<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
+              >和其他攻城武器的出現能快速破壞防禦結構和為戰事快速畫下結局。攻城武器可在攻城器製造所訓練"</em
             >
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
@@ -406,7 +446,7 @@
             <td class="unit4">軍事</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -465,7 +505,7 @@
             <td class="unit4">10</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -482,7 +522,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -529,7 +569,14 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有攻城器製造所(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有攻城器製造所(<nuxt-link to="/games/aok"
+                    >帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">

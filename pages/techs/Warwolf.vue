@@ -8,12 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            戰狼或稱戰狼號，是<nuxt-link to="/civs/Britons">不列顛</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>戰狼</b>或稱戰狼號，是<nuxt-link to="/civs/Britons"
+              >不列顛</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後巨型投石機有0.5格的範圍傷害，對靜止單位有100%命中率。
+            >研發。研發後<nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+            >有0.5格的範圍傷害，對靜止單位有100%命中率。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -21,7 +23,13 @@
         <div class="n1">
           <ul>
             <li>
-              戰狼的研發可讓不列顛的巨型投石機擁有如投石車般的範圍傷害。投石機的一擊可以擊殺任何一個血量不高的單位，有戰狼後一擊可以是多個單位，而且也能更有效地對付敵方
+              戰狼的研發可讓<nuxt-link to="/civs/Britons">不列顛</nuxt-link
+              >的巨型投石機擁有如<nuxt-link to="/units/Mangonel"
+                >投石車</nuxt-link
+              >般的範圍傷害。<nuxt-link to="/units/Trebuchet">投石機</nuxt-link
+              >的一擊可以擊殺任何一個<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >不高的單位，有戰狼後一擊可以是多個單位，而且也能更有效地對付敵方
               <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
               >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
             </li>
@@ -67,7 +75,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Britons">不列顛</nuxt-link>
             </td>
@@ -101,11 +109,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>

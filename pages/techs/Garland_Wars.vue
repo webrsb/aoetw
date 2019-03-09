@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            榮冠戰爭是阿茲特克的特殊科技，可於<nuxt-link
-              to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>榮冠戰爭</b>是<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在<nuxt-link to="/building/Castle">城堡</nuxt-link>研發。研發後
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>攻擊+4。
           </p>
@@ -23,7 +23,8 @@
               榮冠戰爭的研發可讓<nuxt-link to="/units/Eagle_Warrior"
                 >鷹勇士</nuxt-link
               >和<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
-              >替代騎兵成為阿茲的軍隊核心。與
+              >替代<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >成為阿茲的軍隊核心。與
               <nuxt-link to="/units/Spearman">長槍兵</nuxt-link
               >搭配讓他們成為一支非常的危險部隊。即使<nuxt-link
                 to="/units/Teutonic_Knight"
@@ -48,7 +49,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            當城邦和州之間的正常競爭沒有產生足夠的祭品進行儀式時，阿茲特克人和他們的鄰居舉辦榮冠戰爭以增加祭品供應量，這些社會的戰士會熱血地奔赴這些戰爭，知道這是他們贏得榮耀和地位的機會。
+            當城邦和州之間的正常競爭沒有產生足夠的祭品進行儀式時，<nuxt-link
+              to="/civs/Aztecs"
+              >阿茲特克人</nuxt-link
+            >和他們的鄰居舉辦榮冠戰爭以增加祭品供應量，這些社會的戰士會熱血地奔赴這些戰爭，知道這是他們贏得榮耀和地位的機會。
           </p>
         </div>
       </div>
@@ -74,7 +78,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>
             </td>
@@ -108,11 +112,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">450</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">750</td>
           </tr>
           <tr>
@@ -122,7 +130,9 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">步兵攻擊+4。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>攻擊+4。
+            </td>
           </tr>
         </table>
 

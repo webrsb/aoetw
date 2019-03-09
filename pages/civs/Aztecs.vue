@@ -8,20 +8,41 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            阿茲特克是中南美洲的步兵文明，加入於征服者入侵。他的特殊單位是<nuxt-link
-              to="/units/Jaguar_Warrior"
-              >豹勇士</nuxt-link
-            >，是阿茲特克最高級的戰士，手上拿著鑲滿銳利的黑曜石木棒，對付其他步兵特別有效。城堡時代特殊科技
+            <b>阿茲特克</b>是中南美洲的<nuxt-link to="/units/Infantry_Units"
+              >步兵文明</nuxt-link
+            >，加入於<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+            >。他的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >是<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+            >，是阿茲特克最高級的戰士，手上拿著鑲滿銳利的黑曜石木棒，對付其他<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >特別有效。<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            ><nuxt-link to="/techs/untech">特殊科技</nuxt-link>
             <nuxt-link to="/techs/Atlatl"></nuxt-link
-            >擲矛器是獵人和勇士使用的工具，將讓<nuxt-link
+            ><nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link
+            >是獵人和勇士使用的工具，將讓<nuxt-link
               to="/units/Elite_Skirmisher"
             ></nuxt-link
-            >矛兵將+1射程與+1攻擊，帝王時代的特殊科技
+            ><nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
+            >將+1射程與+1攻擊，<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >的特殊科技
             <nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link
             >，讓步兵更為強大。
           </p>
           <p>
-            阿茲特克的村民以努力工作著稱，他們有額外5的資源攜帶量。作為一個高度化軍事文明，所有軍事建築生產都更快，而殘忍的祭祀信仰讓他們的遺跡可以額外生產更多的黃金。身為南美洲文明，阿茲特克沒有馬匹或火藥。但有非常好用的
+            阿茲特克的<nuxt-link to="/units/Villager">村民</nuxt-link
+            >以努力工作著稱，他們有額外5的資源攜帶量。作為一個高度化軍事<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >，所有軍事<nuxt-link to="/building">建築</nuxt-link
+            >生產都更快，而殘忍的祭祀信仰讓他們的<nuxt-link to="/Relic"
+              >遺跡</nuxt-link
+            >可以額外生產更多的<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >。身為南美洲文明，阿茲特克沒有馬匹或<nuxt-link
+              to="/units/Gunpowder_Unit"
+              >火藥</nuxt-link
+            >。但有非常好用的
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
           </p>
           <p>
@@ -35,9 +56,28 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            阿茲特克是南美洲文明，因此沒有騎馬單位。但有非常強大的步兵，雖然沒有戟兵，不過有遊戲中最強大的僧侶。也有不錯的弓箭手，只是缺乏致命的拇指環，阿茲特克的
-            <nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >只要研發一項科技都能額外獲得5點的生命值，讓非常脆弱的僧侶變得相當耐操。他們的鷹勇士為南美三國攻擊最強的(雖然實用度來說，馬雅與印加的似乎更為好用)阿茲特克的經濟非常好，讓他們在初期就可以穩定發展強大經濟。而海軍是全遊戲中最弱的文明之一，是唯一不能升級到
+            阿茲特克是南美洲文明，因此沒有騎馬單位。但有非常強大的步兵，雖然沒有<nuxt-link
+              to="/units/Halberdier"
+              >戟兵</nuxt-link
+            >，不過有遊戲中最強大的<nuxt-link to="/units/Monk">僧侶</nuxt-link
+            >。也有不錯的<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
+            >，只是缺乏致命的<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link
+            >，阿茲特克的
+            <nuxt-link to="/units/Monk">僧侶</nuxt-link>只要研發一項<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >都能額外獲得5點的<nuxt-link to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >，讓非常脆弱的僧侶變得相當耐操。他們的<nuxt-link
+              to="/units/Eagle_Warrior"
+              >鷹勇士</nuxt-link
+            >為南美三國攻擊最強的(雖然實用度來說，<nuxt-link to="/civs/Mayans"
+              >馬雅</nuxt-link
+            >與<nuxt-link to="/civs/Incas">印加</nuxt-link
+            >的似乎更為好用)阿茲特克的經濟非常好，讓他們在初期就可以穩定發展強大經濟。而<nuxt-link
+              to="/units/Naval_Vessels"
+              >海軍</nuxt-link
+            >是全遊戲中最弱的文明之一，是唯一不能升級到
             <nuxt-link to="/units/Galleon">重型弩砲戰船</nuxt-link
             >的文明。因此必須依靠
             <nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link
@@ -48,7 +88,8 @@
             <img class="gg" src="~assets/JaguarWarriorIcon.jpg" /><nuxt-link
               to="/units/Jaguar_Warrior"
               >豹勇士</nuxt-link
-            >:反步兵的步兵
+            >:反<nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link
+            >的步兵
           </p>
           <h3>特殊科技</h3>
           <p>
@@ -79,7 +120,9 @@
             </li>
             <li>遊戲初始多50黃金</li>
             <li>
-              <strong>團隊加分:</strong
+              <strong
+                ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
+                >:</strong
               ><nuxt-link to="/Relic">遺跡</nuxt-link>生產黃金快33%
             </li>
           </ul>
@@ -98,7 +141,10 @@
           </h3>
           <ul>
             <li>免費織布被移除，但多50黃金。</li>
-            <li>豹勇士多+1遠防。</li>
+            <li>
+              <nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link
+              >多+1<nuxt-link to="/armor">遠防</nuxt-link>。
+            </li>
             <li>
               特殊科技引入，<nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link
               >:矛兵額外獲得+1攻擊，+1射程
@@ -133,7 +179,12 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/330px-Jal-ixco.jpg" width="300px" alt="" />
-                <p><em>西班牙征服者跟在1522年征服哈利斯科</em></p>
+                <p>
+                  <em
+                    ><nuxt-link to="/units/Conquistador">西班牙征服者</nuxt-link
+                    >跟在1522年征服哈利斯科</em
+                  >
+                </p>
               </div>
             </td>
           </tr>
@@ -148,7 +199,12 @@
           </tr>
           <tr>
             <td class="unit3">分類文明</td>
-            <td class="unit4">步兵和僧侶</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>和<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊單位</td>
@@ -161,7 +217,13 @@
           </tr>
           <tr>
             <td class="unit3">首選戰略</td>
-            <td class="unit4">黑暗快攻跳城堡，僧侶配鷹勇士</td>
+            <td class="unit4">
+              黑暗快攻跳<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >，<nuxt-link to="/units/Monk">僧侶</nuxt-link>配<nuxt-link
+                to="/units/Eagle_Warrior"
+                >鷹勇士</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">特殊技術</td>

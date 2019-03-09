@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於建築裝甲的。而關於建築種類請參見<nuxt-link
+            >這篇文章是將有關於<strong>建築裝甲</strong>的。而關於建築種類請參見<nuxt-link
               to="/building"
               >建築頁</nuxt-link
             ></em
@@ -18,7 +18,11 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            建築裝甲是一個防禦裝甲類別，所有在這個系列的建築都會被對建築裝甲的有攻擊加成的兵種或科技有額外的傷害。
+            <b>建築裝甲</b>是一個<nuxt-link to="/armor">防禦裝甲</nuxt-link
+            >類別，所有在這個系列的建築都會被對建築裝甲的有攻擊加成的兵種或<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >有額外的傷害。
           </p>
         </div>
         <h3>建築單位</h3>
@@ -814,7 +818,8 @@
             </div>
           </div>
         </div>
-        下方技術可給所有建築物增加對建築單位有額外傷害的護甲。
+        下方技術可給所有<nuxt-link to="/building">建築物</nuxt-link
+        >增加對建築單位有額外傷害的護甲。
         <div style="margin:12px 0px;"><strong>+3額外護甲</strong></div>
         <ul>
           <li>
@@ -841,7 +846,8 @@
       <h3>團隊加分</h3>
       <div class="hrn1"></div>
       <div class="n1">
-        印度與他們的同盟可讓以下單位對建築物有額外傷害。
+        <nuxt-link to="/civs/Indians">印度</nuxt-link
+        >與他們的同盟可讓以下單位對建築物有額外傷害。
         <div class="n1">
           <div style="margin:12px 0px;"><strong>+6攻擊</strong></div>
           <ul>
@@ -860,8 +866,8 @@
                 src="~assets/ImperialCamelIcon.jpg"
                 alt=""
               /><nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
-              >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians">印度</nuxt-link
-              >限定)
+              >(<nuxt-link to="/units/Imperial_Camel">帝王駱駝騎兵</nuxt-link
+              >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
             </li>
           </ul>
           <div style="margin:12px 0px;"><strong>+5攻擊</strong></div>

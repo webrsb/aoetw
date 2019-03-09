@@ -8,16 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            啟發教化可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>啟發教化</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>研發，
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >招降敵人後只需33秒便可再次招降敵方單位(原為62秒)
+            ><nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >敵人後只需33秒便可再次招降敵方單位(原為62秒)
           </p>
           <p>
-            如果打僧侶爆，此科技上帝王後必須優先研發，他讓僧侶變得相當難纏。
+            如果打<nuxt-link to="/units/Monk">僧侶</nuxt-link>爆，此<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >上帝王後必須優先研發，他讓僧侶變得相當難纏。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -28,7 +32,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -89,8 +95,10 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在帝王時代便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >便宜20%。
             </li>
           </ul>
         </div>
@@ -98,7 +106,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            任何宗教的力量都是它的想法和這些想法所鼓勵的信念。這些想法的信息和傳播可以通過他們的介紹來加強。在中世紀，宗教使用圖標，令人印象深刻的教堂，音樂和藝術品來幫助傳播和強化他們的教義。來自中世紀的這種努力的持久象徵是在孤立的修道院的抄寫師傅手工複製的手稿所傳承下來。
+            任何宗教的力量都是它的想法和這些想法所鼓勵的信念。這些想法的信息和傳播可以通過他們的介紹來加強。在中世紀，宗教使用圖標，令人印象深刻的教堂，音樂和藝術品來幫助傳播和強化他們的教義。來自中世紀的這種努力的持久象徵是在孤立的<nuxt-link
+              to="/building/Monastery"
+              >修道院</nuxt-link
+            >的抄寫師傅手工複製的手稿所傳承下來。
           </p>
         </div>
       </div>
@@ -157,7 +168,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">120</td>
           </tr>
           <tr>
@@ -168,7 +181,8 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              僧侶和傳教士招降敵人後只需33秒便可再次招降敵方單位(原為62秒)
+              僧侶和<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+              >招降敵人後只需33秒便可再次招降敵方單位(原為62秒)
             </td>
           </tr>
         </table>

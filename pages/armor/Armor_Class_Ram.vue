@@ -6,12 +6,16 @@
         <div class="hrn1"></div>
       </div>
       <div class="col-md-12">
-        <div class="spw"><em>這篇文章是將有關於衝撞車裝甲的。</em></div>
+        <div class="spw">
+          <em>這篇文章是將有關於<strong>衝撞車裝甲</strong>的。</em>
+        </div>
       </div>
       <div class="col-md-12">
         <div class="n1">
           <p>
-            衝撞車裝甲是一個防禦裝甲類別，所有在這個系列的兵種都會被剋衝撞車的兵種有額外的傷害。
+            <strong>衝撞車裝甲</strong>是一個<nuxt-link to="/armor"
+              >防禦裝甲</nuxt-link
+            >類別，所有在這個系列的兵種都會被剋衝撞車的兵種有額外的傷害。
           </p>
         </div>
         <h3>衝撞車單位</h3>

@@ -8,9 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            弓鋸是<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>弓鋸</b>是<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             ><nuxt-link to="/building/Lumber_Camp">伐木場</nuxt-link
-            >的科技，研發後可使村民收集木材的速度增快20%。一搬來說許可的話，建議一上城堡時代立即研發此科技，非常重要
+            >的<nuxt-link to="/techs">科技</nuxt-link>，研發後可使<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >收集<nuxt-link to="/resource/Wood">木材</nuxt-link
+            >的速度增快20%。一搬來說許可的話，建議一上<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >立即研發此科技，非常重要
           </p>
         </div>
         <h3>文明加成</h3>
@@ -19,8 +27,11 @@
           <ul>
             <li><nuxt-link to="/civs/Burmese">緬甸</nuxt-link>:弓鋸免費。</li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >:科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>:科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -54,7 +65,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -105,7 +116,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>

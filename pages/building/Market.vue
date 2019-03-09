@@ -8,13 +8,24 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            市集是封建時代的經濟建築，需要蓋完磨坊才能建造。主要功能為使用黃金購買資源，以及販賣資源換取黃金或生產貿易車隊與其他玩家(不管是同盟、中立甚至是敵對)進行貿易，並產生黃金，以貿易車隊來說距離越遠所產生的黃金數量就越多。
+            <b>市集</b>是<nuxt-link to="/techs/age/Feudal_Age"
+              >封建時代</nuxt-link
+            >的經濟<nuxt-link to="/building">建築</nuxt-link
+            >，需要蓋完<nuxt-link to="/building/Mill">磨坊</nuxt-link
+            >才能建造。主要功能為使用<nuxt-link to="/resource/Gold"
+              >黃金</nuxt-link
+            >購買資源，以及販賣資源換取黃金或生產<nuxt-link
+              to="/units/Trade_Cart"
+              >貿易車隊</nuxt-link
+            >與其他玩家(不管是同盟、中立甚至是敵對)進行貿易，並產生黃金，以貿易車隊來說距離越遠所產生的黃金數量就越多。
           </p>
           <p>
-            當然，市集也有許多團隊取向的科技可以研發，而這些功能使它不管在單人或是團隊遊戲都相當重要。
+            當然，市集也有許多團隊取向的<nuxt-link to="/techs">科技</nuxt-link
+            >可以研發，而這些功能使它不管在單人或是團隊遊戲都相當重要。
           </p>
           <p>
-            而薩拉森的市集是相當強悍的，交易成本只需要5%。厲害的玩家可藉由市集來調整資源，以達到出兵最大化的優勢。
+            而<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+            >的市集是相當強悍的，交易成本只需要5%。厲害的玩家可藉由市集來調整資源，以達到出兵最大化的優勢。
           </p>
         </div>
         <h3>可訓練的單位與技術</h3>
@@ -39,8 +50,18 @@
                 <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>
               </h4>
               <ul>
-                <li><img class="gg" src="~assets/CaravanII.png" />大商隊</li>
-                <li><img class="gg" src="~assets/Coinage.jpg" />鑄幣術</li>
+                <li>
+                  <img class="gg" src="~assets/CaravanII.png" /><nuxt-link
+                    to="/techs/Caravan"
+                    >大商隊</nuxt-link
+                  >
+                </li>
+                <li>
+                  <img class="gg" src="~assets/Coinage.jpg" /><nuxt-link
+                    to="/techs/Coinage"
+                    >鑄幣術</nuxt-link
+                  >
+                </li>
               </ul>
             </div>
           </div>
@@ -50,8 +71,18 @@
                 <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
               </h4>
               <ul>
-                <li><img class="gg" src="~assets/Banking.jpg" />銀行制度</li>
-                <li><img class="gg" src="~assets/Guilds.jpg" />行會制度</li>
+                <li>
+                  <img class="gg" src="~assets/Banking.jpg" /><nuxt-link
+                    to="/techs/Banking"
+                    >銀行制度</nuxt-link
+                  >
+                </li>
+                <li>
+                  <img class="gg" src="~assets/Guilds.jpg" /><nuxt-link
+                    to="/techs/Guilds"
+                    >行會制度</nuxt-link
+                  >
+                </li>
               </ul>
             </div>
           </div>
@@ -79,7 +110,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -115,7 +148,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -133,7 +166,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">招降抵抗</td>
+            <td class="tta1">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -183,14 +218,18 @@
               >便宜50%。
             </li>
             <li>
-              拜占庭：在封建/城堡/帝王時代，市集增加20%/30%/40%的血量。<nuxt-link
-                to="/techs/Town_Watch"
-                >城鎮瞭望</nuxt-link
-              >免費。
+              <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >，市集增加20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+                >血量</nuxt-link
+              >。<nuxt-link to="/techs/Town_Watch">城鎮瞭望</nuxt-link>免費。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對市集有利的科技在封建/城堡/帝王時代各便宜10%/15%/20%。
+              >：對市集有利的科技在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代各便宜10%/15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link
@@ -203,7 +242,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >：市集貿易成本只需要5%，並在建造市集時木材花費-43%(約莫是75木材)。
+              >：市集貿易成本只需要5%，並在建造市集時<nuxt-link
+                to="/resource/Wood"
+                >木材</nuxt-link
+              >花費-43%(約莫是75木材)。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
@@ -245,7 +287,12 @@
             <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
           </h3>
           <ul>
-            <li>市集在封建/城堡/帝王的HP分別是1800/2100/2100。</li>
+            <li>
+              市集在<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
+              >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >的HP分別是1800/2100/2100。
+            </li>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
               >市集的木材花費-43%(約莫是75木材)。
@@ -256,7 +303,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            隨著黑暗時代的結束和經濟的復甦，商品和工藝品的交換日漸增加。各種規模的城鎮為農民和商人空出一片空間當擺攤銷售商品的市場。每週會有一天或幾天是指定的市場日，這些天會是工作日的社交亮點。市場也是思想交流，娛樂（吟遊詩人，雜技演員，音樂家）和新聞傳播的場所。
+            隨著<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
+            >的結束和經濟的復甦，商品和工藝品的交換日漸增加。各種規模的城鎮為農民和商人空出一片空間當擺攤銷售商品的市場。每週會有一天或幾天是指定的市場日，這些天會是工作日的社交亮點。市場也是思想交流，娛樂（吟遊詩人，雜技演員，音樂家）和新聞傳播的場所。
           </p>
         </div>
       </div>
@@ -286,7 +334,7 @@
             <td class="unit4">經濟</td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -347,7 +395,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -370,7 +418,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">
               <img
                 class="gg"
@@ -423,7 +471,14 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:220px">
-              <p><em>所有封建時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有封建時代的市集(<nuxt-link to="/games/aok"
+                    >帝王世紀</nuxt-link
+                  >和<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
             </div>
           </div>
           <div class="col-md-4">
@@ -447,7 +502,12 @@
                 alt=""
             /></gallery>
             <div class="lightbox-caption" style="width:185px">
-              <p><em>所有城堡時代的市集(帝王世紀和征服者入侵資料片)。</em></p>
+              <p>
+                <em
+                  >所有<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+                  >的市集(帝王世紀和征服者入侵資料片)。</em
+                >
+              </p>
             </div>
           </div>
         </div>
@@ -497,7 +557,12 @@
             <div class="lightbox-caption" style="width:185px">
               <p>
                 <em
-                  >市集在封建/城堡/帝王時代在一般地圖/下雪地圖的樣子(港灣大商站是最後一個)。</em
+                  >市集在封建/<nuxt-link to="/techs/age/Castle_Age"
+                    >城堡</nuxt-link
+                  >/帝王時代在一般地圖/下雪地圖的樣子(<nuxt-link
+                    to="/building/Feitoriaicon_Feitoria"
+                    >港灣大商站</nuxt-link
+                  >是最後一個)。</em
                 >
               </p>
             </div>

@@ -8,15 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            攻城工程師可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>攻城工程師</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
             >研發。研發後所有
             <nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
             >(包括<nuxt-link to="/units/Ballista_Elephant">精銳弩砲象</nuxt-link
-            >)對建築物傷害+20%(
+            >)對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+            >傷害+20%(
             <nuxt-link to="/units/Petard">爆炸桶</nuxt-link
-            >+200攻擊)，攻擊距離+1(除了衝撞車)。
+            >+200攻擊)，攻擊距離+1(除了<nuxt-link to="/units/Battering_Ram"
+              >衝撞車</nuxt-link
+            >)。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -81,8 +84,10 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：該科技研發時間快80%
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >研發時間快80%
             </li>
           </ul>
         </div>
@@ -138,7 +143,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看分類</td>
           </tr>
           <tr>
@@ -171,11 +176,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">600</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">500</td>
           </tr>
           <tr>
@@ -186,7 +195,10 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              研發後所有攻城單位對建築物傷害+20%(爆炸桶+200攻擊)，攻擊距離+1(除了衝撞車)。
+              研發後所有<nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link
+              >對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >傷害+20%(<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >+200攻擊)，攻擊距離+1(除了衝撞車)。
             </td>
           </tr>
         </table>

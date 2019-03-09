@@ -8,16 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            神權統治可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>神權統治</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>研發，多個
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >一起招降敵隊一個單位後只有一位需要休息恢復
+            >一起<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >敵隊一個單位後只有一位需要休息恢復
           </p>
           <p>
-            某些高手，如中國的高手封心，曾說過神權統治是上帝王最該第一個研發的僧侶科技。
+            某些高手，如<nuxt-link to="/civs/Chinese">中國</nuxt-link
+            >的高手封心，曾說過神權統治是上帝王最該第一個研發的<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link>。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -28,7 +33,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -89,8 +96,10 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在帝王時代便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >便宜20%。
             </li>
           </ul>
         </div>
@@ -157,7 +166,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
@@ -168,7 +179,8 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              多個僧侶或傳教士一起招降敵對一個單位後只有一位需要休息恢復。
+              多個僧侶或<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+              >一起招降敵對一個單位後只有一位需要休息恢復。
             </td>
           </tr>
         </table>

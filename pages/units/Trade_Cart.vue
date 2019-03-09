@@ -8,12 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            貿易車隊於 <nuxt-link to="/building/Market">市集</nuxt-link>訓練，在
+            <b>貿易車隊</b>於
+            <nuxt-link to="/building/Market">市集</nuxt-link>訓練，在
             <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >就可以生產。
           </p>
           <p>
-            貿易車隊在兩個文明或以上之間貿易而生產黃金，但事實上，這並不涉及資源上的交換，一輛空的空的貿易車會從自己的市集出發到其他文明的市集並帶回黃金。而黃金的量取決於兩個市場的距離，越遠黃金就越多，反之。
+            貿易車隊在兩個<nuxt-link to="/civs">文明</nuxt-link
+            >或以上之間貿易而生產<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >，但事實上，這並不涉及資源上的交換，一輛空的空的貿易車會從自己的<nuxt-link
+              to="/building/Market"
+              >市集</nuxt-link
+            >出發到其他文明的市集並帶回黃金。而黃金的量取決於兩個市場的距離，越遠黃金就越多，反之。
           </p>
           <p>
             有趣的是貿易車不只只能和同盟國貿易甚至是中立、敵方的文明；當然除非敵方已經棄權，否則和敵對貿易是相當不明智的。
@@ -112,16 +118,18 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">70</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -129,7 +137,7 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">7</td>
           </tr>
         </table>

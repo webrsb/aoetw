@@ -8,7 +8,18 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            港灣大商站是非洲王國資料片中，葡萄牙人於帝王時代可以建造的特殊建築物。不需村民蒐幫忙蒐集資源，港灣大商站每秒會給玩家0.8食物、0.8木材、0.45黃金和0.25石頭，也就是每分鐘會給48食物、48木材27黃金和15石頭。不過港灣大商站需要佔用20人口。
+            <b>港灣大商站</b>是<nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >資料片中，<nuxt-link to="/civs/Portuguese">葡萄牙人</nuxt-link
+            >於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >可以建造的特殊<nuxt-link to="/building">建築物</nuxt-link
+            >。不需<nuxt-link to="/units/Villager">村民</nuxt-link
+            >蒐幫忙蒐集資源，港灣大商站每秒會給玩家0.8<nuxt-link
+              to="/resource/Food"
+              >食物</nuxt-link
+            >、0.8<nuxt-link to="/resource/Wood">木材</nuxt-link
+            >、0.45<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >和0.25<nuxt-link to="/resource/Stone">石頭</nuxt-link
+            >，也就是每分鐘會給48食物、48木材27黃金和15石頭。不過港灣大商站需要佔用20人口。
           </p>
         </div>
         <h3>戰術</h3>
@@ -25,7 +36,11 @@
                 玩家必須確保將其放在防守良好的地方，以保護緩慢的資源源源不斷的進入口袋。
               </li>
               <li>
-                港灣大商站可以被敵人招降，不過葡萄牙人可以研究異端邪說避免港灣大商站被敵人利用。如果玩家招降了港灣大商站，則人口將被強迫增加20人。
+                港灣大商站可以被敵人<nuxt-link to="/elements/Conversion"
+                  >招降</nuxt-link
+                >，不過葡萄牙人可以研究<nuxt-link to="/techs/Heresy"
+                  >異端邪說</nuxt-link
+                >避免港灣大商站被敵人利用。如果玩家招降了港灣大商站，則人口將被強迫增加20人。
               </li>
             </div>
           </div>
@@ -50,7 +65,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:20%">生命值</td>
+            <td class="tta1" style="width:20%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -75,7 +92,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link
-              >(護甲+1/+1，+3建築護甲) <br />
+              >(護甲+1/+1，+3<nuxt-link to="/armor/Armor_Class_Building"
+                >建築護甲</nuxt-link
+              >) <br />
               <img
                 class="gg"
                 src="~assets/Architecture.jpg"
@@ -86,7 +105,7 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1">視野</td>
+            <td class="tta1"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="tta4">
               <img
                 class="gg"
@@ -186,7 +205,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>
             </td>
@@ -232,11 +251,11 @@
             <td class="unit4">5200</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">10</td>
           </tr>
           <tr>

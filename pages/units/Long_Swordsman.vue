@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            長劍兵是一個步兵單位，升到城堡時代可以在<nuxt-link
-              to="/building/Barracks"
-              >軍營</nuxt-link
-            >訓練。
+            <b>長劍兵</b>是一個<nuxt-link to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >，升到<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >可以在<nuxt-link to="/building/Barracks">軍營</nuxt-link>訓練。
           </p>
         </div>
         <h3>戰術</h3>
@@ -24,14 +24,20 @@
               >騎士</nuxt-link
             >和
             <nuxt-link to="/units/Archer">弓箭手</nuxt-link
-            >外所有的城堡時代單位，長劍兵也對建築物有攻擊加成，但因為行動遲緩、血量也不高，他仍不是一個良好的主力進攻單位，除非對手出了非常多的
+            >外所有的城堡時代單位，長劍兵也對<nuxt-link
+              to="/armor/Armor_Class_Building"
+              >建築物</nuxt-link
+            >有攻擊加成，但因為行動遲緩、<nuxt-link to="/elements/Hit_points"
+              >血量</nuxt-link
+            >也不高，他仍不是一個良好的主力進攻單位，除非對手出了非常多的
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
           </p>
           <p>
             早期<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵</nuxt-link
             >》前的版本，長劍兵可說是一個雞肋單位，基本上沒有玩家會去生產，而到了被遺忘的王朝，長劍兵進一步的被強化，在現今
             <nuxt-link to="/units/Eagle_Warrior"></nuxt-link
-            >鷹勇士縱橫的年代，長劍兵作為一個反老鷹兵種，讓其再度浮上檯面。
+            ><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+            >縱橫的年代，長劍兵作為一個反老鷹兵種，讓其再度浮上檯面。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -80,7 +86,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -106,8 +114,10 @@
                 src="~assets/Arson.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >:步兵+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
+              /><nuxt-link to="/techs/Arson">縱火</nuxt-link>:<nuxt-link
+                to="/armor/Armor_Class_Infantry"
+                >步兵</nuxt-link
+              >+2攻擊vs<nuxt-link to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
               >
               <br />
@@ -125,19 +135,19 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Druzhina">王家侍從</nuxt-link
-              >:步兵單位有踐踏傷害，<nuxt-link to="/civs/Slavs"
-                >斯拉夫</nuxt-link
-              >限定。 <br />
+              >:步兵單位有<nuxt-link to="/elements/Area_of_Effect"
+                >踐踏傷害</nuxt-link
+              >，<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link>限定。 <br />
               <img
                 class="gg"
                 src="~assets/CastleAgeUnique.png"
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >:步兵對騎兵攻擊+5，對駱駝騎兵攻擊+4，<nuxt-link
-                to="/civs/Vikings"
-                >維京</nuxt-link
-              >限定。
+              >:步兵對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+              >攻擊+5，對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝騎兵</nuxt-link
+              >攻擊+4，<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定。
             </td>
           </tr>
           <tr>
@@ -178,7 +188,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">視野</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/los.php">視野</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -189,7 +201,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -220,8 +234,10 @@
                 src="~assets/Unique-tech.jpg"
                 width="30"
                 alt=""
-              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:軍營工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
+              /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link>:<nuxt-link
+                to="/building/Barracks"
+                >軍營</nuxt-link
+              >工作速率加快2倍，<nuxt-link to="/civs/Goths">哥德</nuxt-link
               >限定。
             </td>
           </tr>
@@ -234,9 +250,9 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
-              >:軍營步兵單位訓練不需花黃金，<nuxt-link to="/civs/Malay"
-                >馬來</nuxt-link
-              >限定。
+              >:軍營步兵單位訓練不需花<nuxt-link to="/resource/Gold"
+                >黃金</nuxt-link
+              >，<nuxt-link to="/civs/Malay">馬來</nuxt-link>限定。
             </td>
           </tr>
         </table>
@@ -386,7 +402,10 @@
             </li>
             <li>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link
-              >：長劍兵在封建/城堡/帝王時代有 +1/+2/+3攻擊。
+              >：長劍兵在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>有
+              +1/+2/+3攻擊。
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
@@ -394,7 +413,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：利於長劍兵的技術在封建/城堡/帝王時代便宜10％/15％/20％。
+              >：利於長劍兵的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代便宜10％/15％/20％。
             </li>
             <li>
               <nuxt-link to="/civs/Goths">哥德</nuxt-link
@@ -405,8 +426,10 @@
               <nuxt-link to="/techs/Perfusion">灌注士氣</nuxt-link
               >後研發<nuxt-link to="/techs/Tracking">追蹤技術</nuxt-link
               >、<nuxt-link to="/techs/Squires">護衛</nuxt-link>、
-              <nuxt-link to="/techs/Arson">縱火</nuxt-link
-              >和升級雙手劍兵的速度快100%。
+              <nuxt-link to="/techs/Arson">縱火</nuxt-link>和升級<nuxt-link
+                to="/units/Two-Handed_Swordsman"
+                >雙手劍兵</nuxt-link
+              >的速度快100%。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -419,8 +442,10 @@
               <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link>。
             </li>
             <li>
-              <nuxt-link to="/civs/Malians">馬利</nuxt-link
-              >：長劍兵在城堡/帝王時代有 +2/+3 遠程護甲。
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：長劍兵在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代有 +2/+3 <nuxt-link to="/armor">遠程護甲</nuxt-link>。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
@@ -436,7 +461,7 @@
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
                 to="/building/Blacksmith"
                 >兵工廠</nuxt-link
-              >的科技升級不須黃金。
+              >的<nuxt-link to="/techs">科技</nuxt-link>升級不須黃金。
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：免費<nuxt-link
@@ -445,8 +470,12 @@
               >。
             </li>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：長劍兵在城堡/帝王時代加15％/20％的生命值。
+              <nuxt-link to="/civs/Vikings">維京</nuxt-link>：長劍兵在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代加15％/20％的<nuxt-link to="/elements/Hit_points"
+                >生命值</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -490,10 +519,12 @@
                 >標準建築</nuxt-link
               >。
             </li>
-            <li>長劍兵遠防是0。</li>
+            <li>長劍兵<nuxt-link to="/armor">遠防</nuxt-link>是0。</li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:在城堡/帝王時代，長劍兵成本便宜15%/25%。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/帝王時代，長劍兵成本便宜15%/25%。
             </li>
           </ul>
           <h3>
@@ -508,9 +539,10 @@
             <li>長劍兵現在擁有1的遠防。</li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link
-              >:1.0c後，哥德長劍兵從城堡時代開始便宜35%。引入<nuxt-link
-                to="/techs/Perfusion"
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:1.0c後，<nuxt-link
+                to="/civs/Goths"
+                >哥德</nuxt-link
+              >長劍兵從城堡時代開始便宜35%。引入<nuxt-link to="/techs/Perfusion"
                 >灌注士氣</nuxt-link
               >
             </li>
@@ -547,7 +579,9 @@
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
               >:在4.8b版本後，<nuxt-link to="/techs/Chieftains">酋長</nuxt-link
-              >讓長劍兵對駱駝有額外+2攻擊。
+              >讓長劍兵對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >有額外+2攻擊。
             </li>
           </ul>
           <h3>
@@ -558,7 +592,9 @@
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>:5.7版本<nuxt-link
                 to="/techs/Chieftains"
                 >酋長</nuxt-link
-              >科技現在讓長劍兵對駱駝有額外+4攻擊。
+              >科技現在讓長劍兵對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >有額外+4攻擊。
             </li>
           </ul>
         </div>
@@ -566,9 +602,13 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>民兵系兵是遊戲內唯一，三階以上升級的單位。</li>
             <li>
-              馬來的民兵系在研發<nuxt-link to="/techs/Forced_Levy"
+              <nuxt-link to="/units/Militia">民兵系</nuxt-link
+              >兵是遊戲內唯一，三階以上升級的單位。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link
+              >的民兵系在研發<nuxt-link to="/techs/Forced_Levy"
                 >強制徵兵</nuxt-link
               >後不用黃金。
             </li>
@@ -627,7 +667,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -692,11 +732,13 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -704,7 +746,7 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
             </td>

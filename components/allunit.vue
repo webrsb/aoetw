@@ -93,7 +93,9 @@
               <nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>。
               <br />
               <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>。
-              <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>
+              <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>。
+              <br />
+              <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -126,7 +128,7 @@
               <nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>
             </td>
             <td class="unit3">
-              <div class="col-md-12">
+              <div class="row">
                 <div class="col-md-4">
                   <nuxt-link to="/units/Longbowman">長弓兵</nuxt-link> <br />
                   <nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link> <br />

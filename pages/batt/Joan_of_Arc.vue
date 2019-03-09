@@ -12,12 +12,21 @@
               >這是一場持續了一百年的戰爭，法國人卻在場上連連失利。不久之後英國與勃根地的盟友即將要征服全法國。可是法國國王的繼承人卻在非常懦弱的情況下登上王位。此時，法國的軍隊已經受創力竭，並放棄了任何的希望。就在這最黑暗的時刻，一位年輕的村女卻公開宣佈，她決定要保衛法國到底.....</em
             >
             <p style="text-align: right;margin-top: 10px;">
-              -遊戲中對於聖女貞德戰役的介紹
+              -遊戲中對於<nuxt-link to="/batt/Joan_of_Arc"
+                >聖女貞德戰役</nuxt-link
+              >的介紹
             </p>
           </div>
           <p>
-            聖女貞德（法語：Jeanne d'Arc或Jeanne la Pucelle；英語：Saint Joan of
-            Arc；1412年1月7日－1431年5月30日）是法國的軍事家，天主教聖人，被法國人視為民族英雄。在英法百年戰爭（1337年－1453年）中她帶領法蘭西王國軍隊對抗英格蘭王國軍隊的入侵，最後被捕並被處決。遊戲中便是以貞德帶領法國軍隊擊退英國軍隊的一系列戰役為藍本。
+            <b>聖女貞德</b>（法語：Jeanne d'Arc或Jeanne la Pucelle；英語：Saint
+            Joan of
+            Arc；1412年1月7日－1431年5月30日）是法國的軍事家，天主教聖人，被法國人視為民族<nuxt-link
+              to="/units/hero"
+              >英雄</nuxt-link
+            >。在英法百年戰爭（1337年－1453年）中她帶領法蘭西王國軍隊對抗英格蘭王國軍隊的入侵，最後被捕並被處決。遊戲中便是以貞德帶領法國軍隊擊退英國軍隊的一系列<nuxt-link
+              to="/batt"
+              >戰役</nuxt-link
+            >為藍本。
           </p>
         </div>
         <h3>英雄</h3>
@@ -27,7 +36,18 @@
             聖女貞德是騎兵英雄。在遊戲中，她是一個必須生存完成關卡任務的單位。
           </p>
           <p>
-            在第一關戰役（一個不大可能的彌賽亞），她會出現她從軍前的樣式，例如農家女貞德，在2-5的關為騎兵型態的貞德，在最後一個關卡，完美的烈士沒有出現(劇情中第5關後貞德被英軍俘虜)。她也可以在地圖編輯器中找到。為英雄單位，她不會被招降，能夠自動恢復HP。
+            在第一關戰役（<nuxt-link to="/batt/An_Unlikely_Messiah"
+              >一個不大可能的彌賽亞</nuxt-link
+            >），她會出現她從軍前的樣式，例如<nuxt-link
+              to="/units/hero/Joan_the_Maid"
+              >農家女貞德</nuxt-link
+            >，在2-5的關為騎兵型態的貞德，在最後一個關卡，<nuxt-link
+              to="/batt/A_Perfect_Martyr"
+              >完美的烈士</nuxt-link
+            >沒有出現(劇情中第5關後貞德被英軍俘虜)。她也可以在地圖編輯器中找到。為英雄單位，她不會被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >，能夠自動恢復HP。
           </p>
         </div>
         <h3>關卡</h3>
@@ -36,7 +56,10 @@
           <div class="row">
             <div class="col-md-12">
               <p>
-                聖女貞德戰役由6個關卡組成。玩家扮演的是法蘭克人，顏色是藍色的。
+                聖女貞德戰役由6個關卡組成。玩家扮演的是<nuxt-link
+                  to="/civs/Franks"
+                  >法蘭克人</nuxt-link
+                >，顏色是藍色的。
               </p>
             </div>
             <div class="col-md-6">
@@ -111,11 +134,15 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">帝王世紀</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">法蘭克</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">英雄</td>

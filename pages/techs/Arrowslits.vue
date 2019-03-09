@@ -8,13 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            箭狹槽可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>箭狹槽</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link>研發。研發後
             <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
             >/<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
-            >/<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
-            >分別攻擊力+1/+2/+3。
+            >/<nuxt-link to="/building/Keep">大型箭塔</nuxt-link>分別<nuxt-link
+              to="/elements/Attack"
+              >攻擊力</nuxt-link
+            >+1/+2/+3。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -79,8 +81,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在帝王時代花費便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜20%。
             </li>
           </ul>
         </div>
@@ -101,31 +106,52 @@
             <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
           </h3>
           <ul>
-            <li>城堡時代可以研發箭狹槽。</li>
-            <li>所有文明都有箭狹槽。</li>
+            <li>
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >可以研發箭狹槽。
+            </li>
+            <li>所有<nuxt-link to="/civs">文明</nuxt-link>都有箭狹槽。</li>
             <li>成本150肉/150木。</li>
-            <li>箭狹槽給予暸望箭塔/防禦箭塔/大型箭塔+2/+4/+6的攻擊。</li>
+            <li>
+              箭狹槽給予<nuxt-link to="/building/Watch_Tower"
+                >暸望箭塔</nuxt-link
+              >/<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link
+              >/<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
+              >+2/+4/+6的攻擊。
+            </li>
             <li>防禦箭塔只影響第一支箭。</li>
             <li>4.8版後，箭狹槽到帝王時代才能研發。</li>
             <li>4.8版後，有11個文明無法使用。</li>
             <li>4.8版後，成本為250肉/250木。</li>
             <li>4.8版後，給暸望箭塔/防禦箭塔/大型箭塔+1/+2/+3的攻擊。</li>
-            <li>4.8版後，會影響箭塔射出的第二支和之後的箭。</li>
+            <li>
+              4.8版後，會影響<nuxt-link to="/building/Watch_Tower"
+                >箭塔</nuxt-link
+              >射出的第二支和之後的箭。
+            </li>
           </ul>
         </div>
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          箭狹槽發明於公元前214-212圍攻錫拉丘茲期間，發明人是阿基米德。"這個狹縫是一個手掌寬的寬度和一個人身高的高度"防守者藉由這個細縫由內而外射出箭矢，或是弩砲。儘管在希臘羅馬時代就有記載，但在城堡時期並沒有出現這個防禦措施。直到12世紀末再次被人們想起並且使用在軍事建築中。英格蘭的
-          <a href="http://tinyurl.com/y9sletxz">多佛爾城堡</a>與<a
+          箭狹槽發明於公元前214-212圍攻錫拉丘茲期間，發明人是阿基米德。"這個狹縫是一個手掌寬的寬度和一個人身高的高度"防守者藉由這個細縫由內而外射出箭矢，或是弩砲。儘管在希臘羅馬時代就有記載，但在<nuxt-link
+            to="/techs/age/Castle_Age"
+            >城堡時代</nuxt-link
+          >並沒有出現這個防禦措施。直到12世紀末再次被人們想起並且使用在軍事<nuxt-link
+            to="/building"
+            >建築</nuxt-link
+          >中。英格蘭的 <a href="http://tinyurl.com/y9sletxz">多佛爾城堡</a>與<a
             href="https://en.wikipedia.org/wiki/Framlingham_Castle"
             >弗拉姆林陵堡</a
           >、
           <nuxt-link to="/units/hero/Richard_the_Lionheart"
             >獅心王查理</nuxt-link
-          >在法國的<a href="https://en.wikipedia.org/wiki/Château_Gaillard"
+          >在<nuxt-link to="/civs/Franks">法國</nuxt-link>的<a
+            href="https://en.wikipedia.org/wiki/Château_Gaillard"
             >Château Gaillard</a
-          >都有使用。箭狹槽被定位於保護城牆的一部分，而不是整座城堡。到了13世紀在城堡使用箭狹槽的防禦工事已經很常見了。
+          >都有使用。箭狹槽被定位於保護<nuxt-link to="/building/Stone_Wall"
+            >城牆</nuxt-link
+          >的一部分，而不是整座城堡。到了13世紀在城堡使用箭狹槽的防禦工事已經很常見了。
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
@@ -154,7 +180,13 @@
                   src="~assets/Arrow_slat_corfe_castle.jpg"
                   alt=""
               /></gallery>
-              <p><em>由內部看的箭狹槽，也就是弓箭手會站的位置。</em></p>
+              <p>
+                <em
+                  >由內部看的箭狹槽，也就是<nuxt-link to="/units/Archer"
+                    >弓箭手</nuxt-link
+                  >會站的位置。</em
+                >
+              </p>
             </div>
           </div>
         </div>
@@ -214,11 +246,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>
@@ -229,7 +265,8 @@
           <tr>
             <td class="unit3">影響</td>
             <td class="unit4">
-              瞭望箭塔/防禦箭塔/大型箭塔分別攻擊力+1/+2/+3。
+              <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
+              >/防禦箭塔/大型箭塔分別攻擊力+1/+2/+3。
             </td>
           </tr>
         </table>

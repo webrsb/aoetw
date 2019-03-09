@@ -8,7 +8,12 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            狂戰士幫是維京的特殊科技，可於帝王時代在城堡研發。研發後狂戰士回血速度提升(每分鐘20HP變為每分鐘40HP)。
+            <b>狂戰士幫</b>是<nuxt-link to="/civs/Vikings">維京</nuxt-link
+            >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >在<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >研發。研發後<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
+            >回血速度提升(每分鐘20HP變為每分鐘40HP)。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -16,7 +21,9 @@
         <div class="n1">
           <ul>
             <li>
-              狂戰士幫讓狂戰士在戰場上即使沒有僧侶在後方支援還是能撐相當長的一段時間。如果操作得宜，玩家可用狂戰士以非常少的損失對對手造成巨大傷害。
+              狂戰士幫讓狂戰士在戰場上即使沒有<nuxt-link to="/units/Monk"
+                >僧侶</nuxt-link
+              >在後方支援還是能撐相當長的一段時間。如果操作得宜，玩家可用狂戰士以非常少的損失對對手造成巨大傷害。
             </li>
           </ul>
         </div>
@@ -81,11 +88,13 @@
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#31b0d5;">
-              <div class="unititle2">科技介紹</div>
+              <div class="unititle2">
+                <nuxt-link to="/techs">科技介紹</nuxt-link>
+              </div>
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">維京</td>
           </tr>
           <tr>
@@ -106,11 +115,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">850</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>

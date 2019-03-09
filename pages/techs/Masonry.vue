@@ -8,15 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            磚瓦技術可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>磚瓦技術</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
-            >研發，研發後所有建築(除了
+            >研發，研發後所有<nuxt-link to="/building">建築</nuxt-link>(除了
             <nuxt-link to="/building/Stone_Wall">石牆</nuxt-link>和<nuxt-link
               to="/building/Gate"
               >城門</nuxt-link
-            >外)都獲得+10%
-            HP、+1近防、+1遠防和+3建築護甲。此科技讓建築更佳堅固及更能抵擋
+            >外)都獲得+10% HP、+1<nuxt-link to="/armor">近防</nuxt-link
+            >、+1<nuxt-link to="/armor">遠防</nuxt-link
+            >和+3建築護甲。此<nuxt-link to="/techs">科技</nuxt-link
+            >讓建築更佳堅固及更能抵擋
             <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>和<nuxt-link
               to="/units/Cavalry_Units"
               >騎兵</nuxt-link
@@ -35,7 +37,10 @@
             <nuxt-link to="/units/War_Elephant">戰象</nuxt-link>和<nuxt-link
               to="/units/Camel"
               >駱駝騎兵</nuxt-link
-            >的攻擊有減傷效果；步兵和弓兵則沒有減傷效果
+            >的攻擊有減傷效果；<nuxt-link to="/units/Infantry_Units"
+              >步兵</nuxt-link
+            >和<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            >則沒有減傷效果
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -100,8 +105,11 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在城堡/帝王時代花費便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -135,10 +143,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            砌體結構是磚材與石材結構的合稱，相對木結構而言強度更高，耐久性更好，故多用來建造重要的宗教、軍事、政治建築。中國早期的砌體結構的代表建築有萬里長城。
+            砌體結構是磚材與石材結構的合稱，相對木結構而言強度更高，耐久性更好，故多用來建造重要的宗教、軍事、政治建築。<nuxt-link
+              to="/civs/Chinese"
+              >中國</nuxt-link
+            >早期的砌體結構的代表建築有萬里<nuxt-link to="/techs/Great_Wall"
+              >長城</nuxt-link
+            >。
           </p>
           <p>
-            中國磚石作為建築材料使用可以上推至漢朝，漢以下各朝代一直沿用，乃至於現在。最具體的代表建築是卷拱形墓室、磚石佛塔、磚城牆、石橋、長城。
+            中國磚石作為建築材料使用可以上推至漢朝，漢以下各朝代一直沿用，乃至於現在。最具體的代表建築是卷拱形墓室、磚石佛塔、磚<nuxt-link
+              to="/building/Stone_Wall"
+              >城牆</nuxt-link
+            >、石橋、長城。
           </p>
         </div>
       </div>
@@ -164,7 +180,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看左方分類</td>
           </tr>
           <tr>
@@ -206,11 +222,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">175</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>

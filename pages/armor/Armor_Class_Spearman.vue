@@ -8,7 +8,7 @@
       <div class="col-md-12">
         <div class="spw">
           <em
-            >這篇文章是將有關於槍兵類裝甲的。而關於槍兵這個兵種的請參見<nuxt-link
+            >這篇文章是將有關於<strong>槍兵類裝甲</strong>的。而關於槍兵這個兵種的請參見<nuxt-link
               to="/units/Spearman"
               >長槍兵</nuxt-link
             ></em
@@ -18,7 +18,9 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            槍兵類是一個防禦裝甲類別，所有在這個系列的兵種都會被剋槍兵類的兵種有額外的傷害。
+            <strong>槍兵類裝甲</strong>是一個<nuxt-link to="/armor"
+              >防禦裝甲</nuxt-link
+            >類別，所有在這個系列的兵種都會被剋槍兵類的兵種有額外的傷害。
           </p>
         </div>
         <h3>槍兵類單位</h3>
@@ -65,7 +67,9 @@
                   alt=""
                 />
                 <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link
-                >(帝王戰矛兵是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
+                >(<nuxt-link to="/units/Imperial_Skirmisher"
+                  >帝王戰矛兵</nuxt-link
+                >是<nuxt-link to="/civs/Vietnamese">越南</nuxt-link
                 >及其同盟限定)
               </li>
             </ul>
@@ -101,7 +105,8 @@
                 <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link>→
                 <img class="gg" src="~assets/ChuKoNuIcon.jpg" alt="" />
                 <nuxt-link to="/units/Chu_Ko_Nu"
-                  >精銳連弩兵(<nuxt-link to="/civs/Chinese">中國</nuxt-link
+                  ><nuxt-link to="/units/Chu_Ko_Nu">精銳連弩兵</nuxt-link
+                  >(<nuxt-link to="/civs/Chinese">中國</nuxt-link
                   >限定)</nuxt-link
                 >
               </li>
@@ -110,7 +115,9 @@
                 <nuxt-link to="/units/Plumed_Archer">羽毛箭射手</nuxt-link>→
                 <img class="gg" src="~assets/PlumedArcherIcon.jpg" alt="" />
                 <nuxt-link to="/units/Plumed_Archer"
-                  >精銳羽毛箭射手(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
+                  ><nuxt-link to="/units/Plumed_Archer"
+                    >精銳羽毛箭射手</nuxt-link
+                  >(<nuxt-link to="/civs/Mayans">馬雅</nuxt-link
                   >限定)</nuxt-link
                 >
               </li>

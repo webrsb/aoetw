@@ -10,7 +10,19 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            索科特拉島位於葉門南邊和非洲之角的東部。島嶼非常小，完全被懸崖所環繞，而印度洋則在這些懸崖之外。玩家開局有3間房屋，13個村民和一個斥候。這張地圖因為玩家彼此非常接近(只有稀疏的樹線)，而且資源稀少，戰鬥會很早就展開並且決定勝負。島上除了一些大象、斑馬和鴕鳥，還有一些特有的索科特拉植物群龍血樹。
+            <b>索科特拉島</b
+            >位於葉門南邊和非洲之角的東部。島嶼非常小，完全被懸崖所環繞，而<nuxt-link
+              to="/civs/Indians"
+              >印度</nuxt-link
+            >洋則在這些懸崖之外。玩家開局有3間<nuxt-link to="/building/House"
+              >房屋</nuxt-link
+            >，13個<nuxt-link to="/units/Villager">村民</nuxt-link
+            >和一個<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
+            >。這張地圖因為玩家彼此非常接近(只有稀疏的樹線)，而且資源稀少，戰鬥會很早就展開並且決定勝負。島上除了一些大象、<nuxt-link
+              to="/units/animal/Zebra"
+              >斑馬</nuxt-link
+            >和<nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link
+            >，還有一些特有的索科特拉植物群龍血樹。
           </p>
         </div>
         <div class="row">

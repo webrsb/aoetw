@@ -8,15 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            贖罪可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            <b>贖罪</b>可於<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>研發，
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >可招降敵方的僧侶和傳教士
+            >可<nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >敵方的<nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
+              to="/units/Missionary"
+              >傳教士</nuxt-link
+            >
           </p>
           <p>
-            在僧侶大戰中，此科技顯得特別重要，如僧侶大戰中的一方沒有此科技，那將落敗。
+            在僧侶大戰中，此<nuxt-link to="/techs">科技</nuxt-link
+            >顯得特別重要，如僧侶大戰中的一方沒有此科技，那將落敗。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -27,7 +33,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -88,8 +96,11 @@
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>：科技便宜50%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在城堡/帝王時代各便宜15%/20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >各便宜15%/20%。
             </li>
           </ul>
         </div>
@@ -156,7 +167,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">325</td>
           </tr>
           <tr>

@@ -21,7 +21,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            騎兵是帝王時代兵種，可訓練於馬廄，在帝王時代最優勢的兵種之一，對於僧侶、駱駝兵種、長槍兵種較劣勢。
+            <b>騎兵</b>是<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
+            >，在帝王時代最優勢的兵種之一，對於<nuxt-link to="/units/Monk"
+              >僧侶</nuxt-link
+            >、<nuxt-link to="/units/Camel">駱駝兵種</nuxt-link>、<nuxt-link
+              to="/units/Spearman"
+              >長槍兵</nuxt-link
+            >種較劣勢。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -90,7 +98,11 @@
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          騎兵在帝王時代比城堡時代擁有更多的血量與攻擊力。在團戰時，可以做為主要的坦與輸出。
+          騎兵在帝王時代比<nuxt-link to="/techs/age/Castle_Age"
+            >城堡時代</nuxt-link
+          >擁有更多的<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+          >與<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+          >。在團戰時，可以做為主要的坦與輸出。
         </div>
         <h3>更多數據</h3>
         <div class="hrn1"></div>
@@ -140,7 +152,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -226,7 +240,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -306,9 +322,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -515,11 +531,13 @@
             </li>
             <li>
               <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
+              >：只要在一個塞爾特單位的<nuxt-link to="/los.php">視野</nuxt-link
+              >下，羊群不會被牽走
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：對騎兵有利的科技研發在帝王時代各便宜15%/20%。
+              >：對騎兵有利的<nuxt-link to="/techs">科技</nuxt-link
+              >研發在帝王時代各便宜15%/20%。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
@@ -539,11 +557,14 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：騎兵黃金成本便宜15%。
+              >：騎兵<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本便宜15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：兵工廠升級科技免黃金
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級科技免黃金
             </li>
             <li>
               <nuxt-link to="/civs/Vietnamese">越南</nuxt-link>：<nuxt-link
@@ -635,7 +656,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>
@@ -668,7 +689,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -693,15 +716,15 @@
             <td class="unit4">1.83</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
             </td>
@@ -763,7 +786,9 @@
             <gallery
               ><img class="imgn hg" src="~assets/Knightline.png" alt=""
             /></gallery>
-            <p><em>騎士系。</em></p>
+            <p>
+              <em><nuxt-link to="/units/Knight">騎士</nuxt-link>系。</em>
+            </p>
           </div>
           <div class="col-md-4">
             <gallery

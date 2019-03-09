@@ -8,14 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            滑輪起重機可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>滑輪起重機</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link
-            >研發，研發後建築物建造速度快20%。
+            >研發，研發後<nuxt-link to="/building">建築物</nuxt-link
+            >建造速度快20%。
           </p>
           <p>
             <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >雖沒有滑輪起重機科技，他們的文明效益可讓村民工作速率快30%，但是不會影響世界奇觀的建造時間因為所有文明建造奇觀的時間都是一樣的
+            >雖沒有滑輪起重機<nuxt-link to="/techs">科技</nuxt-link
+            >，他們的<nuxt-link to="/civs">文明</nuxt-link>效益可讓<nuxt-link
+              to="/units/Villager"
+              >村民</nuxt-link
+            >工作速率快30%，但是不會影響<nuxt-link to="/building/Wonder"
+              >世界奇觀</nuxt-link
+            >的建造時間因為所有文明建造奇觀的時間都是一樣的
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -94,7 +101,10 @@
           <ul>
             <li>成本為200木300石。</li>
             <li>
-              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:可以研發攻城工程師。
+              <nuxt-link to="/civs/Goths">哥德</nuxt-link>:可以研發<nuxt-link
+                to="/techs/Siege_Engineers"
+                >攻城工程師</nuxt-link
+              >。
             </li>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
@@ -135,7 +145,8 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Japanese">日本</nuxt-link
-              >:4.8改版後從科技樹移除攻城工程師。
+              >:4.8改版後從<nuxt-link to="/tree/vie">科技樹</nuxt-link
+              >移除攻城工程師。
             </li>
           </ul>
         </div>
@@ -205,11 +216,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">200</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

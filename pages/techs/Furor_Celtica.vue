@@ -8,9 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            塞爾特狂暴是<nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-            >的特殊科技，可於<nuxt-link to="/techs/age/Imperial_Age"
-              >帝王時代</nuxt-link
+            <b>塞爾特狂暴是</b
+            ><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>的<nuxt-link
+              to="/techs/untech"
+              >特殊科技</nuxt-link
+            >，可於<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Siege_Workshop"
@@ -25,7 +27,13 @@
             <li>
               塞爾特狂暴讓塞爾特人的<nuxt-link to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
-              >更難被摧毀。搭配他們的文明加成(攻城武器開火速度快20%)和團隊加分(攻城器製造所工作速率快15%)，讓塞爾特攻城武器是遊戲中最為人所懼怕的
+              >更難被摧毀。搭配他們的<nuxt-link to="/civs">文明</nuxt-link
+              >加成(<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >開火速度快20%)和<nuxt-link to="/elements/Team_Bonus"
+                >團隊加分</nuxt-link
+              >(<nuxt-link to="/units//building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >工作速率快15%)，讓塞爾特攻城武器是遊戲中最為人所懼怕的
             </li>
           </ul>
         </div>
@@ -121,11 +129,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">750</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">450</td>
           </tr>
           <tr>
@@ -135,7 +147,9 @@
           </tr>
           <tr>
             <td class="unit3">影響</td>
-            <td class="unit4">攻城單位+40% HP。</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Siege_Weapons">攻城單位</nuxt-link>+40% HP。
+            </td>
           </tr>
         </table>
 

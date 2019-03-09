@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            行會制度在<nuxt-link to="/techs/age/Imperial_Age"
+            <b>行會制度</b>在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Market">市集</nuxt-link>研發。
           </p>
@@ -16,7 +16,10 @@
           <nuxt-link to="/building/Market">市集</nuxt-link
           >裡商品交易費用從30%->15%，簡單來說，玩家在買賣資源時成本更低，收益更高。
           <p>
-            隨著遊戲的進行，地圖上的資源會慢慢耗盡，這時這項科技會相當有用處，因為這意味著玩家在出售多於資源時會獲得較多的收益，反之在購買資源時所花費也會較低。
+            隨著遊戲的進行，地圖上的資源會慢慢耗盡，這時這項<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >會相當有用處，因為這意味著玩家在出售多於資源時會獲得較多的收益，反之在購買資源時所花費也會較低。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -78,7 +81,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >:無法研發這項科技，但在遊戲開始時便擁有交易費用只需要5%的這項文明加成。
+              >:無法研發這項科技，但在遊戲開始時便擁有交易費用只需要5%的這項<nuxt-link
+                to="/civs"
+                >文明</nuxt-link
+              >加成。
             </li>
           </ul>
         </div>
@@ -130,7 +136,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">300</td>
           </tr>
           <tr>

@@ -8,27 +8,35 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            外架式柵樓可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>外架式柵樓</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。可讓城堡的生命值增加21%，搭配
+            >研發。可讓<nuxt-link to="/building/Castle">城堡</nuxt-link
+            >的<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
+            >增加21%，搭配
             <nuxt-link to="/techs/Architecture">建築學</nuxt-link>和<nuxt-link
               to="/techs/Masonry"
               >磚瓦技術</nuxt-link
             >讓城堡變得更堅不可摧。
           </p>
           <p>
-            對於計劃建造城堡以防禦敵方入侵或在敵方地區建造城堡的玩家來說，外架式柵樓是重要的科技。<nuxt-link
-              to="/civs/Franks"
-              >法蘭克</nuxt-link
-            >人， <nuxt-link to="/civs/Incas">印加</nuxt-link>人和<nuxt-link
+            對於計劃建造城堡以防禦敵方入侵或在敵方地區建造城堡的玩家來說，外架式柵樓是重要的<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
+            >。<nuxt-link to="/civs/Franks">法蘭克</nuxt-link>人，
+            <nuxt-link to="/civs/Incas">印加</nuxt-link>人和<nuxt-link
               to="/civs/Byzantines"
               >拜占庭</nuxt-link
             >人也可用外架式柵樓搭配他們對城堡的特殊效益讓城堡變得更強大。
           </p>
           <p>
-            有磚瓦技術、建築學和外架式柵樓的城堡生命值可達到7028。拜占庭的文明加成讓城堡更高達8131
-            HP。
+            有<nuxt-link to="/techs/Masonry">磚瓦技術</nuxt-link>、<nuxt-link
+              to="/techs/Architecture"
+              >建築學</nuxt-link
+            >和外架式柵樓的城堡生命值可達到7028。<nuxt-link
+              to="/civs/Byzantines"
+              >拜占庭</nuxt-link
+            >的<nuxt-link to="/civs">文明</nuxt-link>加成讓城堡更高達8131 HP。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -136,7 +144,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            從城牆頂部戰鬥的人不能射擊或以其他方式攻擊牆壁底部的敵人而不暴露於敵人箭矢下。當城堡有了外架式柵樓，這是從牆頂伸出來保護防御者的防禦工事。防御者現在可以更安全地攻擊在城牆底下或正爬上牆的敵人。外架式柵樓使得城堡更難被攻破。
+            從<nuxt-link to="/building/Stone_Wall">城牆</nuxt-link
+            >頂部戰鬥的人不能射擊或以其他方式攻擊牆壁底部的敵人而不暴露於敵人箭矢下。當城堡有了外架式柵樓，這是從牆頂伸出來保護防御者的防禦工事。防御者現在可以更安全地攻擊在城牆底下或正爬上牆的敵人。外架式柵樓使得城堡更難被攻破。
           </p>
         </div>
       </div>
@@ -194,11 +203,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">400</td>
           </tr>
           <tr>

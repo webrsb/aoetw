@@ -8,14 +8,20 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            異端邪說可於<nuxt-link to="/techs/age/Castle_Age"
+            <b>異端邪說</b>可於<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/Monastery">修道院</nuxt-link>
             研發後可讓被敵方
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>和<nuxt-link
               to="/units/Missionary"
               >傳教士</nuxt-link
-            >招降的單位死亡，建築則直接毀壞。如果對手出了很多僧侶，那麼異端就必須被研發，即使這個科技非常的昂貴。
+            ><nuxt-link to="/elements/Conversion">招降</nuxt-link
+            >的單位死亡，<nuxt-link to="/building">建築</nuxt-link
+            >則直接毀壞。如果對手出了很多<nuxt-link to="/units/Monk"
+              >僧侶</nuxt-link
+            >，那麼異端就必須被研發，即使這個<nuxt-link to="/techs"
+              >科技</nuxt-link
+            >非常的昂貴。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -26,7 +32,9 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;">文明可研發</span></strong
+                  ><span style="margin-left: 2px;"
+                    ><nuxt-link to="/civs">文明</nuxt-link>可研發</span
+                  ></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -156,7 +164,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">1000</td>
           </tr>
           <tr>

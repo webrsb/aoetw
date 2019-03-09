@@ -8,18 +8,34 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          乳牛在《世紀帝國 II HD:
-          失落的帝國》中是可馴化的動物，一隻有150的肉，跟水牛很類似(在《世紀帝國
-          II HD:
-          非洲王國》資料片出現)。乳牛有14HP比其他五種可馴養動物的7HP多一些，這讓那些黑暗時代想用斥候騎兵跟民兵殺死敵方乳牛的玩家不能輕易達到目的。乳牛主要出現在歐洲地圖上。
+          <b>乳牛</b>在<nuxt-link to="/games/aof"
+            >《世紀帝國 II HD:失落的帝國》</nuxt-link
+          >中是可馴化的動物，一隻有150的肉，跟<nuxt-link
+            to="/units/animal/Water_Buffalo"
+            >水牛</nuxt-link
+          >很類似(在<nuxt-link to="/games/ak"
+            >《世紀帝國 II HD: 非洲王國》</nuxt-link
+          >資料片出現)。乳牛有14HP比其他五種可馴養動物的7HP多一些，這讓那些<nuxt-link
+            to="/techs/age/Dark_Age"
+            >黑暗時代</nuxt-link
+          >想用<nuxt-link to="/units/Scout_Cavalry">斥候騎兵</nuxt-link
+          >跟<nuxt-link to="/units/Militia">民兵</nuxt-link
+          >殺死敵方乳牛的玩家不能輕易達到目的。乳牛主要出現在歐洲地圖上。
         </p>
         <h3>文明優勢</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>不列顛:殺乳牛效率快20％</li>
-            <li>馬雅:額外多取20%的肉量</li>
-            <li>塞爾特：單位視野內，無法被偷乳牛</li>
+            <li>
+              <nuxt-link to="/civs/Britons">不列顛</nuxt-link>:殺乳牛效率快20％
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>:額外多取20%的肉量
+            </li>
+            <li>
+              塞爾特：單位<nuxt-link to="/los.php">視野</nuxt-link
+              >內，無法被偷乳牛
+            </li>
           </ul>
         </div>
         <h3>圖庫</h3>
@@ -30,7 +46,14 @@
               <gallery
                 ><img class="hg" width="200" src="~assets/Shepherd.png" alt=""
               /></gallery>
-              <p><em>村民正在把乳牛趕回城鎮中心。</em></p>
+              <p>
+                <em
+                  ><nuxt-link to="/units/Villager">村民</nuxt-link
+                  >正在把乳牛趕回<nuxt-link to="/building/Town_Center"
+                    >城鎮中心</nuxt-link
+                  >。</em
+                >
+              </p>
             </div>
           </div>
         </div>
@@ -57,11 +80,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物量</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>量
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">14</td>
           </tr>
         </table>

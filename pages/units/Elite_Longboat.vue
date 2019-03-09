@@ -8,17 +8,21 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            維京大戰船是<nuxt-link to="/civs/Vikings">維京</nuxt-link
-            >的第二個特殊單位，在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
-            >的
+            <b>維京大戰船</b>是<nuxt-link to="/civs/Vikings">維京</nuxt-link
+            >的第二個<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>的
             <nuxt-link to="/building/Dock">碼頭</nuxt-link
-            >可以訓練。它是一艘會射出多重箭矢的戰船。
+            >可以訓練。它是一艘會射出多重箭矢的<nuxt-link
+              to="/units/Naval_Vessels"
+              >戰船</nuxt-link
+            >。
           </p>
           <p>
             維京大戰船可在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳維京大戰船。
+            >升級為<nuxt-link to="/units/Elite_Longboat"
+              >精銳維京大戰船</nuxt-link
+            >。
           </p>
         </div>
         <h3>戰術</h3>
@@ -26,7 +30,14 @@
         <div class="n1">
           <p>
             維京大戰船與<nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
-            >一樣會在一次攻擊中射出多重箭矢，而且只有第一發箭能有弓兵科技的加成而且是完整傷害，其他箭都只有1的遠程傷害。維京大戰船無論精銳與否每次攻擊都是射四支箭。與
+            >一樣會在一次攻擊中射出多重箭矢，而且只有第一發箭能有<nuxt-link
+              to="/units/Archer_Units"
+              >弓兵</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >的加成而且是完整傷害，其他箭都只有1的<nuxt-link
+              to="/units/Archer_Units"
+              >遠程</nuxt-link
+            >傷害。維京大戰船無論精銳與否每次攻擊都是射四支箭。與
             <nuxt-link to="/units/Chu_Ko_Nu">連弩兵</nuxt-link
             >不同的維京大戰船是在同一時間發射所有箭，而不是快速連續發射。由於世界帝國II中護甲和傷害的計算後面的三發箭矢會對單位造成額外+3傷害。維京大戰船可以戰勝
             <nuxt-link to="/units/War_Galley">弩砲戰船</nuxt-link
@@ -40,16 +51,27 @@
             >和<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
             >，所以他們最好保持距離或是用速度閃過攻擊。
             <nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link
-            >的高護甲對維京大戰船也是個麻煩，但如果有細微的操作而且龜甲船的數量不多，維京大戰船還是能應付他們。<nuxt-link
+            >的高護甲對維京大戰船也是個麻煩，但如果有細微的操作而且<nuxt-link
+              to="/units/Turtle_Ship"
+              >龜甲船</nuxt-link
+            >的數量不多，維京大戰船還是能應付他們。<nuxt-link
               to="/units/Fire_Ship"
               >火戰船</nuxt-link
             >是反制維京大戰船的首選。
           </p>
           <p>
-            複數數量的維京大戰船非常適合岸邊轟炸，用箭雨把敵方插成蜂窩。維京大戰船也適合護衛如運輸船和火砲戰船完成他們的任務。由於維京人缺乏<nuxt-link
-              to="/units/Fire_Ship"
-              >火戰船</nuxt-link
-            >，他們的海軍應該圍繞在維京大戰船上，因為維京大戰船訓練速度快、移動快、搭配其他船艦，就可有效應付海上的任何情況。
+            複數數量的維京大戰船非常適合岸邊轟炸，用箭雨把敵方插成蜂窩。維京大戰船也適合<nuxt-link
+              to="/techs/Squires"
+              >護衛</nuxt-link
+            >如<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+            >和<nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
+            >完成他們的任務。由於<nuxt-link to="/civs/Vikings">維京人</nuxt-link
+            >缺乏<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
+            >，他們的<nuxt-link to="/units/Naval_Vessels">海軍</nuxt-link
+            >應該圍繞在維京大戰船上，因為維京大戰船訓練速度快、移動快、搭配其他<nuxt-link
+              to="/units/Naval_Vessels"
+              >船艦</nuxt-link
+            >，就可有效應付海上的任何情況。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -79,9 +101,12 @@
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >、<nuxt-link to="/units/Samurai">日本武士</nuxt-link
-              >(在淺灘處)；箭塔、
+              >(在淺灘處)；<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >、
               <nuxt-link to="/building/Castle">城堡</nuxt-link
-              >、在岸邊的遠距攻城單位。
+              >、在岸邊的遠距<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >。
             </td>
           </tr>
           <tr class="tta">
@@ -90,7 +115,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -187,7 +214,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">抗招降能力</td>
+            <td class="tta1" style="width:10%">
+              抗<nuxt-link to="/elements/Conversion">招降</nuxt-link>能力
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -538,7 +567,10 @@
           <ul>
             <li>
               <nuxt-link to="/civs/Vikings">維京</nuxt-link
-              >：維京大戰船訓練的費用在城堡/帝王減少15%/20%。
+              >：維京大戰船訓練的費用在<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王</nuxt-link
+              >減少15%/20%。
             </li>
           </ul>
         </div>
@@ -603,7 +635,8 @@
         <div class="n1">
           <div class="ien">
             <p>
-              9至11世紀的維京海盜特別恐怖，因為他們可能沿著海岸甚至上游的任何地方發動攻擊，他們有這種能力得益於他們的維京大戰船，這些船很長，窄，吃水很淺，但令人驚訝地是非常適合航行，他們用槳和一個方形帆作為推進力，維京大戰船可以進入很淺的水域並靠岸，只有高懸崖峭壁或岩石的海岸對當時的船員來說才是安全的。
+              9至11世紀的<nuxt-link to="/civs/Vikings">維京</nuxt-link
+              >海盜特別恐怖，因為他們可能沿著海岸甚至上游的任何地方發動攻擊，他們有這種能力得益於他們的維京大戰船，這些船很長，窄，吃水很淺，但令人驚訝地是非常適合航行，他們用槳和一個方形帆作為推進力，維京大戰船可以進入很淺的水域並靠岸，只有高懸崖峭壁或岩石的海岸對當時的船員來說才是安全的。
             </p>
           </div>
         </div>
@@ -636,7 +669,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Vikings">維京</nuxt-link>
             </td>
@@ -695,7 +728,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">130/160(精銳)</td>
           </tr>
           <tr>
@@ -717,11 +752,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">射速</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+            </td>
             <td class="unit4">3.34秒/次</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -737,15 +776,15 @@
             <td class="unit4">6</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">6/8(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link> <br />
               <nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -758,7 +797,7 @@
             <td class="unit4">1.54</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">8/9(精銳)</td>
           </tr>
           <tr>
@@ -783,7 +822,10 @@
                 class="gg"
                 src="~assets/Elite-unique-research.jpg"
                 alt=""
-              />750食物 475黃金
+              />750<nuxt-link to="/resource/Food">食物</nuxt-link> 475<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >
             </td>
           </tr>
           <tr>

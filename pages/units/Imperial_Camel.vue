@@ -7,24 +7,33 @@
       </div>
       <div class="col-md-8">
         <div class="n1">
-          帝王駱駝騎兵是<nuxt-link to="/techs/age/Imperial_Age"
+          <b>帝王駱駝騎兵</b>是<nuxt-link to="/techs/age/Imperial_Age"
             >帝王時代</nuxt-link
           >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
-          >，對於騎兵較有優勢，為
-          <nuxt-link to="/civs/Indians">印度</nuxt-link>的特殊單位。
+          >，對於<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
+          >較有優勢，為
+          <nuxt-link to="/civs/Indians">印度</nuxt-link>的<nuxt-link
+            to="/units/Unique_Unit"
+            >特殊單位</nuxt-link
+          >。
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           在<nuxt-link to="/civs/Indians">印度</nuxt-link
-          >文明出現後帝王駱駝騎兵為帝王時代最強大的騎兵之一，因為印度文明並沒有<nuxt-link
-            to="/units/Cavalier"
-            >騎兵</nuxt-link
-          >所以駱駝兵種成為印度不可或缺的兵種之一。雖然坦度不如騎兵類型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊單位，卻不會受到
+          ><nuxt-link to="/civs">文明</nuxt-link>出現後帝王駱駝騎兵為<nuxt-link
+            to="/techs/age/Imperial_Age"
+            >帝王時代</nuxt-link
+          >最強大的騎兵之一，因為<nuxt-link to="/civs/Indians">印度</nuxt-link
+          >文明並沒有<nuxt-link to="/units/Cavalier">騎兵</nuxt-link
+          >所以<nuxt-link to="/units/Camel">駱駝兵種</nuxt-link
+          >成為印度不可或缺的兵種之一。雖然坦度不如<nuxt-link
+            to="/armor/Armor_Class_Cavalry"
+            >騎兵類</nuxt-link
+          >型但是可以有效的克制對方的騎兵造成重大的傷害。帝王駱駝騎兵雖為印度的特殊單位，卻不會受到
           <nuxt-link to="/units/Samurai">日本武士</nuxt-link
-          >的攻擊加成。帝王駱駝基本上你可以把他當成<nuxt-link
-            to="/units/Paladin"
-            >遊俠</nuxt-link
+          >的攻擊加成。<nuxt-link to="/units/Imperial_Camel">帝王駱駝</nuxt-link
+          >基本上你可以把他當成<nuxt-link to="/units/Paladin">遊俠</nuxt-link
           >看待。而帝王駱駝搭配<nuxt-link to="/units/Elite_Skirmisher"
             >戰矛兵</nuxt-link
           >則是
@@ -68,7 +77,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -79,7 +90,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -139,7 +152,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -432,7 +447,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：帝王駱駝騎兵對僧侶抵抗力更強。
+              >：帝王駱駝騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >抵抗力更強。
             </li>
           </ul>
         </div>
@@ -444,10 +460,11 @@
           </h3>
           <ul>
             <li>
-              帝王駱駝騎兵的防禦類型有包括<nuxt-link
-                to="/armor/Armor_Class_Ship"
-                >船艦護甲</nuxt-link
-              >，所以會同時承受反船/反駱駝攻擊加成。
+              帝王駱駝騎兵的<nuxt-link to="/armor">防禦類型</nuxt-link
+              >有包括<nuxt-link to="/armor/Armor_Class_Ship">船艦護甲</nuxt-link
+              >，所以會同時承受反船/反<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝</nuxt-link
+              >攻擊加成。
             </li>
           </ul>
           <h3>
@@ -461,7 +478,11 @@
               >的影響，他們正式有自己的防禦類型：<nuxt-link
                 to="/armor/Armor_Class_Camel"
                 >駱駝</nuxt-link
-              >護甲。但駱駝仍然對船隻有+5的攻擊。反騎兵攻擊仍然不影響駱駝。
+              >護甲。但駱駝仍然對<nuxt-link to="/armor/Armor_Class_Ship"
+                >船隻</nuxt-link
+              >有+5的攻擊。<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >反騎兵</nuxt-link
+              >攻擊仍然不影響駱駝。
             </li>
           </ul>
         </div>
@@ -470,17 +491,34 @@
         <div class="n1">
           <ul>
             <li>
-              駱駝是少數幾個符合史實的單位，從古至今，駱駝被地中海和印度地區的軍隊使用，雖然目前還不清楚中國和蒙古是否用駱駝作戰，但肯定的是他們會拿來運送物資。
+              駱駝是少數幾個符合史實的單位，從古至今，駱駝被地中海和印度地區的軍隊使用，雖然目前還不清楚<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >和<nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >是否用駱駝作戰，但肯定的是他們會拿來運送物資。
             </li>
             <li>
-              遊戲中的駱駝騎兵是單峰駱駝，而現實中;中國與蒙古原產的是雙峰駱駝，速度極為緩慢，並不適合作戰。
+              遊戲中的<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
+              >是單峰駱駝，而現實中;中國與蒙古原產的是雙峰駱駝，速度極為緩慢，並不適合作戰。
             </li>
             <li>
               中國和蒙古是遊戲中，除了非洲與中東國家外，唯二有駱駝的文明。
             </li>
-            <li>駱駝是唯二生產會有自己音效的軍事單位，另一個是投石機。</li>
-            <li>駱駝與重裝駱駝騎兵音效相同。</li>
-            <li>駱駝是唯一沒有任何防禦的騎兵單位。</li>
+            <li>
+              駱駝是唯二生產會有自己音效的軍事單位，另一個是<nuxt-link
+                to="/units/Trebuchet"
+                >投石機</nuxt-link
+              >。
+            </li>
+            <li>
+              駱駝與<nuxt-link to="/units/Heavy_Camel">重裝駱駝騎兵</nuxt-link
+              >音效相同。
+            </li>
+            <li>
+              駱駝是唯一沒有任何防禦的<nuxt-link to="/units/Cavalry_Units"
+                >騎兵單位</nuxt-link
+              >。
+            </li>
           </ul>
         </div>
         <h3>豆知識</h3>
@@ -557,11 +595,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">55</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">60</td>
           </tr>
           <tr>
@@ -570,7 +612,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">140</td>
           </tr>
           <tr>
@@ -596,11 +640,11 @@
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
@@ -614,7 +658,7 @@
             <td class="unit4">1.45</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -647,7 +691,12 @@
                   src="~assets/AOF35_Imperial_Camel.jpg"
                   alt=""
               /></gallery>
-              <p><em>失落的帝國，3.5版本的帝王駱駝騎兵。</em></p>
+              <p>
+                <em
+                  ><nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                  >，3.5版本的帝王駱駝騎兵。</em
+                >
+              </p>
             </div>
             <div class="col-md-4">
               <gallery

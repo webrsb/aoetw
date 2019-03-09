@@ -9,7 +9,18 @@
         <div class="n1">
           <p>
             <strong>金德·伯勒達伊</strong>是《世紀帝國 II HD:
-            失落的帝國》中的一名英雄，他只能在戰役編輯器中使用。金德·伯勒達伊是以印度種姓制度的一位專門擔任神職學習的婆羅門祭司為基礎，他擁有僧侶的外觀。由於他屬於英雄單位，因此不能被招降且會回血
+            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
+            >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
+            >，他只能在<nuxt-link to="/batt">戰役</nuxt-link
+            >編輯器中使用。金德·伯勒達伊是以<nuxt-link to="/civs/Indians"
+              >印度</nuxt-link
+            >種姓制度的一位專門擔任神職學習的婆羅門祭司為基礎，他擁有<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >的外觀。由於他屬於英雄單位，因此不能被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>
             。
           </p>
           <p>
@@ -48,7 +59,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -56,7 +69,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">70</td>
           </tr>
           <tr>
@@ -64,16 +79,16 @@
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">4</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">無</td>
           </tr>
           <tr>
@@ -81,7 +96,7 @@
             <td class="unit4">1</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">8</td>
           </tr>
         </table>

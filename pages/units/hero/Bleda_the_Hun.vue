@@ -8,18 +8,41 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>匈奴王貝里達</strong
-            >現實中是匈奴帝國(西元390~445)的國王和阿提拉的兄弟，在《世紀帝國 II
-            HD:
-            征服者入侵》阿提拉戰役系中是第二主角。由於他屬於英雄單位，因此不能被招降且會回血
+            <strong>匈奴王貝里達</strong>現實中是<nuxt-link to="/civs/Huns"
+              >匈奴</nuxt-link
+            >帝國(西元390~445)的國王和<nuxt-link to="/units/hero/Attila_the_Hun"
+              >阿提拉</nuxt-link
+            >的兄弟，在《世紀帝國 II HD:
+            <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>》<nuxt-link
+              to="/batt/Attila_the_Huna"
+              >阿提拉戰役</nuxt-link
+            >系中是第二主角。由於他屬於<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
+            >單位，因此不能被<nuxt-link to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>
             。
           </p>
           <p>
-            貝里達的外貌是蒙古突騎，在《世紀帝國 II HD:
-            非洲王國》前的資料片他在戰役編輯器中被歸類為一般單位，所以他沒有回血能力也不能抵抗招降。直到非洲王國資料片後才分類成英雄。貝里達可以駐紮在衝撞車裡面。
+            貝里達的外貌是<nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link
+            >，在《世紀帝國 II HD:
+            <nuxt-link to="/games/ak">非洲王國</nuxt-link
+            >》前的資料片他在<nuxt-link to="/batt">戰役</nuxt-link
+            >編輯器中被歸類為一般單位，所以他沒有回血能力也不能抵抗招降。直到非洲王國資料片後才分類成英雄。貝里達可以駐紮在<nuxt-link
+              to="/units/Battering_Ram"
+              >衝撞車</nuxt-link
+            >裡面。
           </p>
           <p>
-            貝里達雖然是蒙古突騎的外表，攻擊方式也是射箭，但他沒有射程而且攻擊判定卻是近戰，所以會受騎兵科技(譬如:鑄造、騎兵鎖甲)加成的影響而非弓兵科技。
+            貝里達雖然是蒙古突騎的外表，攻擊方式也是射箭，但他沒有射程而且攻擊判定卻是近戰，所以會受<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link>(譬如:<nuxt-link
+              to="/techs/Iron_Casting"
+              >鑄造</nuxt-link
+            >、<nuxt-link to="/techs/Chain_Barding_Armor">騎兵鎖甲</nuxt-link
+            >)加成的影響而非<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
+            >科技。
           </p>
         </div>
         <div></div>
@@ -28,7 +51,10 @@
         <div class="hrn1"></div>
         <div class="n1">
           儘管真正的阿提拉（Attila the
-          Hun）在哥哥去世後成為了匈奴帝國的領導者，但是他稱王的情況幾乎沒有歷史記錄。一些消息來源指出，貝里達在西元445年匈奴將他們的軍隊撤出拜占庭之後被謀殺，另外一些人則推測是一次表面上是狩獵之旅但實際是貝里達要暗殺阿提拉的計畫中，最後計劃失敗貝里達反而被殺阿提拉則順勢登上王座。阿提拉同名戰役的第一場採用了了狩獵之旅的版本。
+          Hun）在哥哥去世後成為了匈奴帝國的領導者，但是他稱王的情況幾乎沒有歷史記錄。一些消息來源指出，貝里達在西元445年匈奴將他們的軍隊撤出<nuxt-link
+            to="/civs/Byzantines"
+            >拜占庭</nuxt-link
+          >之後被謀殺，另外一些人則推測是一次表面上是狩獵之旅但實際是貝里達要暗殺阿提拉的計畫中，最後計劃失敗貝里達反而被殺阿提拉則順勢登上王座。阿提拉同名戰役的第一場採用了了狩獵之旅的版本。
         </div>
       </div>
       <div class="col-md-4">
@@ -55,12 +81,15 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="">騎兵<br />英雄</nuxt-link>
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              ><br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -68,7 +97,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">210</td>
           </tr>
           <tr>
@@ -77,31 +108,37 @@
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">對建築+3</td>
+            <td class="unit4">
+              對<nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>+3
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.03</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">步兵</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">速度</td>
             <td class="unit4">1.2</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
         </table>

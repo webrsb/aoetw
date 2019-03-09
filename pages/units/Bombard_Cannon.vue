@@ -8,11 +8,14 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            火砲是<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
+            <b>火砲</b>是<nuxt-link to="/units/Gunpowder_Unit">火藥</nuxt-link
             >與<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-            >單位，帝王時代研發
-            <nuxt-link to="/techs/Chemistry">化學</nuxt-link
-            >後可以在攻城武器製造場生產。
+            >單位，<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            >研發
+            <nuxt-link to="/techs/Chemistry">化學</nuxt-link>後可以在<nuxt-link
+              to="/building/Siege_Workshop"
+              >攻城器製造所</nuxt-link
+            >生產。
           </p>
         </div>
         <h3>文明可訓練與否</h3>
@@ -77,14 +80,28 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            火砲是非常強大的兵種，他可以摧毀大部分的建築，射程只輸給條頓城堡、韓國箭塔與土耳其<nuxt-link
-              to="/units/Cannon_Galleon"
-              >火砲戰船</nuxt-link
+            火砲是非常強大的兵種，他可以摧毀大部分的<nuxt-link to="/building"
+              >建築</nuxt-link
+            >，射程只輸給<nuxt-link to="/civs/Teutons">條頓</nuxt-link
+            ><nuxt-link to="/building/Castle">城堡</nuxt-link>、<nuxt-link
+              to="/civs/Koreans"
+              >韓國</nuxt-link
+            ><nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>與<nuxt-link
+              to="/civs/Turks"
+              >土耳其</nuxt-link
+            ><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link
             >。一群火砲可以瞬間摧毀一個
             <nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
             >，但務必給予充分的保護。除了<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
-            >的功用外，也可以拿來對付重型弩砲與投石車，更可以有效打擊對方遠距離部隊與船隻。但對騎士等近戰類的則是沒有抵抗能力。需注意的火砲擁有
+            >的功用外，也可以拿來對付<nuxt-link to="/units/Heavy_Scorpion"
+              >重型弩砲</nuxt-link
+            >與<nuxt-link to="/units/Mangonel">投石車</nuxt-link
+            >，更可以有效打擊對方遠距離部隊與<nuxt-link
+              to="/units/Naval_Vessels"
+              >船隻</nuxt-link
+            >。但對<nuxt-link to="/units/Knight">騎士</nuxt-link
+            >等近戰類的則是沒有抵抗能力。需注意的火砲擁有
             <nuxt-link to="/elements/Area_of_Effect">擴散傷害</nuxt-link
             >，必須小心不要砸到友軍了。
           </p>
@@ -131,7 +148,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -143,8 +162,9 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Torsion_Engines"
                 >扭力彈射器</nuxt-link
-              >：攻城器製造所的單位傷害範圍增加。<nuxt-link
-                to="/civs/Ethiopians"
+              >：<nuxt-link to="/units//building/Siege_Workshop"
+                >攻城器製造所</nuxt-link
+              >的單位傷害範圍增加。<nuxt-link to="/civs/Ethiopians"
                 >衣索比亞</nuxt-link
               >限定
             </td>
@@ -157,7 +177,8 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。 <br />
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Artillery"
                 >砲兵</nuxt-link
@@ -170,7 +191,8 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Arquebus"
                 >火繩槍</nuxt-link
-              >:火藥單位對移動目標的命中率提升。<nuxt-link to="/civs/Portuguese"
+              >:<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+              >對移動目標的命中率提升。<nuxt-link to="/civs/Portuguese"
                 >葡萄牙</nuxt-link
               >限定
             </td>
@@ -187,7 +209,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -390,15 +414,19 @@
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：火砲的黃金成本減少了15%。
+              >：火砲的<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本減少了15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：火砲射速快15%的速度。
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：火砲<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >射速</nuxt-link
+              >快15%的速度。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>:火砲擁有+
-              25%的HP，化學是免費的。
+              25%的HP，<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >是免費的。
             </li>
           </ul>
         </div>
@@ -418,8 +446,10 @@
               >的速度快80%。
             </li>
             <li>
-              <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：火砲對僧侶的招降有較好的抗性。
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：火砲對<nuxt-link
+                to="/elements/Conversion"
+                >僧侶的招降</nuxt-link
+              >有較好的抗性。
             </li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link
@@ -435,7 +465,9 @@
             <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
           </h3>
           <ul>
-            <li>火砲必須先研發科技才可以訓練。</li>
+            <li>
+              火砲必須先研發<nuxt-link to="/techs">科技</nuxt-link>才可以訓練。
+            </li>
             <li>火砲有50 HP。</li>
             <li>
               <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：火砲擁有+
@@ -521,14 +553,20 @@
           <div class="hrn1"></div>
           <div class="n1">
             <ul>
-              <li>火藥貴為中國三大發明，卻沒有火砲，因為遊戲平衡的關係。</li>
+              <li>
+                火藥貴為<nuxt-link to="/civs/Chinese">中國</nuxt-link
+                >三大發明，卻沒有火砲，因為遊戲平衡的關係。
+              </li>
               <li>
                 在<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
                 >出現前，火砲是最貴的單位。
               </li>
               <li>
                 在<nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link
-                >出現前，火砲是唯一不用升級的攻城器單位。
+                >出現前，火砲是唯一不用升級的<nuxt-link
+                  to="/units/Siege_Weapons"
+                  >攻城器單位</nuxt-link
+                >。
               </li>
             </ul>
           </div>
@@ -536,13 +574,22 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              公元8世紀後中國發明火藥後，逐漸開始用投石機發射火藥彈，唐哀帝時鄭璠攻打豫章，曾「發機飛火燒龍沙門」，這種「發機飛火」並非指管形的火砲與砲彈，而是一種稱作砲的投石機投出的火藥球。
+              公元8世紀後中國發明火藥後，逐漸開始用<nuxt-link
+                to="/units/Trebuchet"
+                >投石機</nuxt-link
+              >發射火藥彈，唐哀帝時鄭璠攻打豫章，曾「發機飛火燒龍沙門」，這種「發機飛火」並非指管形的火砲與砲彈，而是一種稱作砲的投石機投出的火藥球。
             </p>
             <p>
-              英國人在1326年製作金屬火砲，在1331年奇維達萊德爾夫留利的圍城戰場上就使用過類似且小型的火銃。與此同時，14世紀歐洲文獻這時期的彩圖有圍城戰役中使用的火砲
+              <nuxt-link to="/civs/Britons">英國</nuxt-link
+              >人在1326年製作金屬火砲，在1331年奇維達萊德爾夫留利的圍城戰場上就使用過類似且小型的火銃。與此同時，14世紀歐洲文獻這時期的彩圖有圍城<nuxt-link
+                to="/batt"
+                >戰役</nuxt-link
+              >中使用的火砲
             </p>
             <p>
-              1326至1346年。公元1326年義大利的佛羅倫斯城訂購了金屬制大砲，交易文件還保留到今日。愛德華三世在1327年跟蘇格蘭人作戰中和英法百年戰爭中著名的克雷西會戰曾使用大量火砲。元末於（1332年）曾在部隊中裝備了金屬砲管火砲－青銅火銃，是現今火砲的鼻祖之一。
+              1326至1346年。公元1326年<nuxt-link to="/civs/Italians"
+                >義大利</nuxt-link
+              >的佛羅倫斯城訂購了金屬制大砲，交易文件還保留到今日。愛德華三世在1327年跟蘇格蘭人作戰中和英法百年戰爭中著名的克雷西會戰曾使用大量火砲。元末於（1332年）曾在部隊中裝備了金屬砲管火砲－青銅火銃，是現今火砲的鼻祖之一。
             </p>
           </div>
           <h3>圖庫</h3>
@@ -590,7 +637,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看介紹</td>
           </tr>
           <tr>
@@ -627,7 +674,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">木材</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Wood">木材</nuxt-link>
+            </td>
             <td class="unit4">225</td>
           </tr>
           <tr>
@@ -640,7 +689,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
@@ -673,7 +724,9 @@
             <td class="unit4">6.5</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">7</td>
           </tr>
           <tr>
@@ -697,7 +750,7 @@
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -717,7 +770,7 @@
             <td class="unit4">0.7</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">14</td>
           </tr>
           <tr>

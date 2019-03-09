@@ -8,10 +8,16 @@
       <div class="col-md-8">
         <div class="n1">
           <h3><em>遊牧民族的車痕將朝著世紀上最強的中國進軍！</em></h3>
-          <p>（遊戲中成吉思汗戰役第三關的劇情段落）</p>
           <p>
-            <b>進入中國</b
-            >為成吉思汗戰役的第三關劇情關卡，此關描述蒙古帝國於蒙金戰爭（1211年~1234年金朝滅亡），蒙夏戰爭（1205~1227）這2大戰役為主軸，這是世界史上著名的君主制小國崛起、以少勝多的戰爭。
+            （遊戲中<nuxt-link to="/batt/Genghis_Khana"
+              >成吉思汗(戰役)</nuxt-link
+            >第三關的劇情段落）
+          </p>
+          <p>
+            <b>進入中國</b>為成吉思汗(戰役)的第三關劇情關卡，此關描述<nuxt-link
+              to="/civs/Mongols"
+              >蒙古</nuxt-link
+            >帝國於蒙金戰爭（1211年~1234年金朝滅亡），蒙夏戰爭（1205~1227）這2大戰役為主軸，這是世界史上著名的君主制小國崛起、以少勝多的戰爭。
           </p>
         </div>
         <h2>玩家</h2>
@@ -21,9 +27,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">封建時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">1,000木頭，800食物，800黃金，1,200石頭</td>
+              <td class="tc2">
+                1,000<nuxt-link to="/resource/Wood">木頭</nuxt-link
+                >，800<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，800<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，1,200<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -40,7 +53,9 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p8">玩家1</div></td>
-              <td class="tc6" colspan="3">蒙古人（橘色）</td>
+              <td class="tc6" colspan="3">
+                <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>（橘色）
+              </td>
             </tr>
             <tr>
               <td class="tc4" colspan="4" style="background:#ea6153;">敵對</td>
@@ -66,9 +81,19 @@
           <br />
           <dl class="dl-horizontal">
             <dt>開場單位：</dt>
-            <dd>4位輕騎兵、6位馬弓騎兵。</dd>
+            <dd>
+              4位<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link
+              >、6位<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>。
+            </dd>
             <dt>大地之母單位：</dt>
-            <dd>6位村民、6台火砲、1台輕型投石車、1台輕型衝撞車、1艘運輸船。</dd>
+            <dd>
+              6位<nuxt-link to="/units/Villager">村民</nuxt-link>、6台<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >、1台<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
+              >、1台<nuxt-link to="/units/Battering_Ram">輕型衝撞車</nuxt-link
+              >、1艘<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link>。
+            </dd>
           </dl>
           <h2>主要任務</h2>
           <div class="hrn1"></div>
@@ -83,7 +108,11 @@
         <div class="n1">
           <ul>
             <li>
-              如果沒有攻城武器，長城會給你帶來極大的煩惱。幸運的話你可以拿下在長城東北的一些攻城單位。你的臨時陣地可以暫時作為掩護，但你仍須盡快深入中國尋找資源。
+              如果沒有<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >，長城會給你帶來極大的煩惱。幸運的話你可以拿下在長城東北的一些<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >。你的臨時陣地可以暫時作為掩護，但你仍須盡快深入中國尋找資源。
             </li>
             <li>
               中國的民族會把他們彼此間的岐見先放在一旁，以對抗共同的敵人。所以，你一定要立刻向這四個民族同時發動攻勢，最少先戰勝其中之一以取得優勢。
@@ -94,22 +123,41 @@
           <div class="n1">
             <ul>
               <li>
-                萬里長城的箭塔會在遊戲的第一秒自動升級為大型箭塔，這與關卡難度無關。
+                萬里長城的箭塔會在遊戲的第一秒自動升級為<nuxt-link
+                  to="/building/Keep"
+                  >大型箭塔</nuxt-link
+                >，這與關卡難度無關。
               </li>
               <li>
-                擁有征服者入侵的資料片（或者HD版本），會讓事情變得很容易：在城堡時代你就能生產一堆破壞者，然後把他們送到金國的領土上。
+                擁有<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+                >的資料片（或者HD版本），會讓事情變得很容易：在<nuxt-link
+                  to="/techs/age/Castle_Age"
+                  >城堡時代</nuxt-link
+                >你就能生產一堆<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+                >，然後把他們送到金國的領土上。
               </li>
               <li>
-                然後，你可以用其中一些搞定城牆、再用其他的摧毀奇觀。如此一來，防止金國的勝利，讓你得以專注在其他中國敵人上、也讓你的軍力更加壯盛，最後再來對付金國。這個奇觀被摧毀後，金國在剩下的遊戲時間裡不會再蓋一個。
+                然後，你可以用其中一些搞定<nuxt-link to="/building/Stone_Wall"
+                  >城牆</nuxt-link
+                >、再用其他的摧毀奇觀。如此一來，防止金國的勝利，讓你得以專注在其他中國敵人上、也讓你的軍力更加壯盛，最後再來對付金國。這個奇觀被摧毀後，金國在剩下的遊戲時間裡不會再蓋一個。
               </li>
               <li>
-                金國會動用超過30個村民建造奇觀，所以建成速度不僅會比匈奴戰役第六關其他敵人蓋的奇觀來得快、也會比阿茲特克戰役中更快，是劇情之中最快的。
+                金國會動用超過30個村民建造奇觀，所以建成速度不僅會比<nuxt-link
+                  to="/civs/Huns"
+                  >匈奴</nuxt-link
+                >戰役第六關其他敵人蓋的奇觀來得快、也會比<nuxt-link
+                  to="/civs/Aztecs"
+                  >阿茲特克</nuxt-link
+                >戰役中更快，是劇情之中最快的。
               </li>
               <li>
                 雖然你只需要擊敗金、宋、西夏與突厥，但只要工程師仍然存在，關卡就不會結束。
               </li>
               <li>
-                這關的宋，指的是南宋。在當時是軍事上相對「弱勢」的王朝、被鄰國持續圍攻。不過，直到成吉思汗過世50年後，他的孫子忽必烈才攻滅南宋、統治中國。（金國也是成吉思汗死後才被蒙古人攻滅）
+                這關的宋，指的是南宋。在當時是軍事上相對「弱勢」的王朝、被鄰國持續圍攻。不過，直到<nuxt-link
+                  to="/units/hero/Genghis_Khan"
+                  >成吉思汗</nuxt-link
+                >過世50年後，他的孫子忽必烈才攻滅南宋、統治中國。（金國也是成吉思汗死後才被蒙古人攻滅）
               </li>
               <li>
                 金，在中文中意指黃金，也許這是遊戲設計者使用黃色代表金國的原因。金是由女真人所建立的王朝，在當時是宋朝最大的外患，甚至超過了蒙古人，他們的後裔又以滿洲人為人所知，後來征服了中國（明朝）也就是四百年後的清朝。
@@ -158,7 +206,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Mongols">蒙古人</nuxt-link>
             </td>
@@ -172,7 +220,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第四章之三</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第四章之三
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

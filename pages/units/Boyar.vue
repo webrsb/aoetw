@@ -8,15 +8,17 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            貴族鐵騎是<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>貴族鐵騎</b>是<nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。貴族鐵騎是擁有極高近防裝甲而且攻擊力高的重裝騎兵單位。貴族鐵騎可以在<nuxt-link
-              to="/techs/age/Imperial_Age"
+            >中訓練。貴族鐵騎是擁有極高<nuxt-link to="/armor">近防</nuxt-link
+            >裝甲而且<nuxt-link to="/elements/Attack">攻擊力</nuxt-link
+            >高的重裝<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link
+            >。貴族鐵騎可以在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為精銳貴族鐵騎。
+            >升級為<nuxt-link to="/units/Boyar">精銳貴族鐵騎</nuxt-link>。
           </p>
         </div>
         <h3>戰術要點</h3>
@@ -24,10 +26,20 @@
         <div class="n1">
           <ul>
             <li>
-              貴族鐵騎擁有遊戲中騎兵類最強大的近防裝甲，不過遠防和血量相對的比遊俠(聖騎士)還來的低，使遠程作戰單位容易對它們造成更多傷害。
+              貴族鐵騎擁有遊戲中<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵類</nuxt-link
+              >最強大的近防裝甲，不過<nuxt-link to="/armor">遠防</nuxt-link
+              >和<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+              >相對的比<nuxt-link to="/units/Paladin">遊俠</nuxt-link
+              >(聖<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >)還來的低，使<nuxt-link to="/units/Archer_Units">遠程</nuxt-link
+              >作戰單位容易對它們造成更多傷害。
             </li>
             <li>
-              貴族鐵騎在遊戲設定上是為了彌補沒有遊俠的斯拉夫但跟遊俠有所區別。
+              貴族鐵騎在遊戲設定上是為了彌補沒有遊俠的<nuxt-link
+                to="/civs/Slavs"
+                >斯拉夫</nuxt-link
+              >但跟遊俠有所區別。
             </li>
             <li>
               <nuxt-link to="/units/Monk">僧侶</nuxt-link
@@ -35,14 +47,28 @@
                 >異端邪說</nuxt-link
               >和
               <nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link
-              >，這也間接的說明了斯拉夫人蠻懼怕僧侶文明。
+              >，這也間接的說明了<nuxt-link to="/civs/Slavs">斯拉夫人</nuxt-link
+              >蠻懼怕<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              ><nuxt-link to="/civs">文明</nuxt-link>。
             </li>
             <li>
-              貴族鐵騎雖然是特殊單位卻沒特殊裝甲，裝甲分類是屬於騎兵裝甲，因此駱駝系或槍兵類對貴族鐵騎有一定的破壞力。(代表近防雖高跟槍兵或者駱駝對打時高近防優勢沒很明顯)。
+              貴族鐵騎雖然是特殊單位卻沒特殊裝甲，裝甲分類是屬於<nuxt-link
+                to="/armor/Armor_Class_Cavalry"
+                >騎兵裝甲</nuxt-link
+              >，因此<nuxt-link to="/armor/Armor_Class_Camel">駱駝系</nuxt-link
+              >或<nuxt-link to="/armor/Armor_Class_Spearman">槍兵類</nuxt-link
+              >對貴族鐵騎有一定的破壞力。(代表近防雖高跟<nuxt-link
+                to="/units/Spearman"
+                >槍兵</nuxt-link
+              >或者駱駝對打時高近防優勢沒很明顯)。
             </li>
-            <li>貴族鐵騎因為需要城堡才能量產，因此得要配合著其他單位。</li>
             <li>
-              城堡時代時貴族鐵騎比同時代其他騎士還來的強大，但因為需要城堡且昂貴因此很難量產但可以配合僧侶達到續戰力。
+              貴族鐵騎因為需要<nuxt-link to="/building/Castle">城堡</nuxt-link
+              >才能量產，因此得要配合著其他單位。
+            </li>
+            <li>
+              <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+              >時貴族鐵騎比同時代其他騎士還來的強大，但因為需要城堡且昂貴因此很難量產但可以配合僧侶達到續戰力。
             </li>
           </ul>
         </div>
@@ -88,7 +114,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -214,9 +242,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -443,7 +471,9 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：貴族鐵騎更不容易被招降。
+              >：貴族鐵騎更不容易被<nuxt-link to="/elements/Conversion"
+                >招降</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -467,8 +497,17 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>貴族鐵騎是用英雄聖女貞德的模組修改的。</li>
-            <li>貴族鐵騎在遊戲稱有馬的條頓武士。</li>
+            <li>
+              貴族鐵騎是用<nuxt-link to="/units/hero">英雄</nuxt-link
+              ><nuxt-link to="/units/hero/Joan_of_Arc_Champion"
+                >聖女貞德</nuxt-link
+              >的模組修改的。
+            </li>
+            <li>
+              貴族鐵騎在遊戲稱有馬的<nuxt-link to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >。
+            </li>
             <li>少數沒有任何加成的單位(因為已經夠強了)。</li>
             <li>
               貴族鐵騎揮舞著一個叫做<a href="http://tinyurl.com/yayhsj93"
@@ -480,7 +519,10 @@
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          波雅爾英文寫作boyar或bolyar,是封建時代保加利亞帝國、莫斯科大公國、基輔羅斯、
+          波<nuxt-link to="/units/hero/Jarl">雅爾</nuxt-link
+          >英文寫作boyar或bolyar,是<nuxt-link to="/techs/age/Feudal_Age"
+            >封建時代</nuxt-link
+          >保加利亞帝國、莫斯科大公國、基輔羅斯、
           瓦拉幾亞和摩爾多瓦的一個僅次於大公的貴族頭銜。由10-17世紀，在保加利亞、俄國和羅馬尼亞演變為表示僅次於沙皇的親王王子，加在姓氏前面是「采邑貴族」，在芬蘭寫作
           Pajari 以顯示和「食邑貴族」的區別。
         </div>
@@ -559,11 +601,15 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>
-            <td class="unit3">黃金</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
@@ -584,7 +630,9 @@
             <td class="unit4">12/14(精銳)(近戰)</td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">1.93</td>
           </tr>
           <tr>
@@ -596,7 +644,7 @@
             <td class="unit4">1/2(精銳)</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -609,7 +657,7 @@
             <td class="unit4">1.4</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5</td>
           </tr>
           <tr>
@@ -663,7 +711,13 @@
               <gallery
                 ><img class="imgn hg" src="~assets/AOF36_Boyar.jpg" alt=""
               /></gallery>
-              <p><em>3.6版《世紀帝國II:失落的帝國》的貴族鐵騎。</em></p>
+              <p>
+                <em
+                  >3.6版《世紀帝國II:<nuxt-link to="/games/aof"
+                    >失落的帝國</nuxt-link
+                  >》的貴族鐵騎。</em
+                >
+              </p>
             </div>
             <div class="col-md-4">
               <gallery
@@ -680,7 +734,9 @@
               /></gallery>
               <p>
                 <em
-                  >《世紀帝國II:征服者入侵》時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em
+                  ><nuxt-link to="/games/aoc"
+                    >《世紀帝國II:征服者入侵》</nuxt-link
+                  >時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em
                 >
               </p>
             </div>
@@ -689,7 +745,13 @@
                 <gallery
                   ><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""
                 /></gallery>
-                <p><em>在帝王世紀測試服的聖騎兵是用貴族鐵騎的模組。</em></p>
+                <p>
+                  <em
+                    >在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                    >測試服的<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    >是用貴族鐵騎的模組。</em
+                  >
+                </p>
               </div>
             </div>
           </div>

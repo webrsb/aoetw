@@ -8,9 +8,11 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            VMDL(或在HD版中標記為Elephant Archer）是世紀帝國
+            <b>VMDL</b>(或在HD版中標記為<b>Elephant Archer</b>）是世紀帝國
             II中的作弊單元。這個名字代表“Villager Male Dave
-            Lewis”（一個叫戴夫李維斯的男村民），它是以Ensemble 工作室員工David
+            Lewis”（一個叫戴夫李維斯的男<nuxt-link to="/units/Villager"
+              >村民</nuxt-link
+            >），它是以Ensemble 工作室員工David
             Lewis的名字命名的。他們只能通過使用他們的作弊代碼“我喜歡猴子頭”而產生，並且這樣做會在市中心創建一個VMDL
             。
           </p>
@@ -22,7 +24,8 @@
             HD中是不會發生的
           </p>
           <p>
-            無論玩家使用什麼文明，VMDL總是會說現代英語，除非被分配建造一棟建築物（他會用通常的文明母語來回應）。他傾向於用古怪的句子來回應，比如“邦戈鼓點在我腦海中”。或“這是一個好主意。”
+            無論玩家使用什麼<nuxt-link to="/civs">文明</nuxt-link
+            >，VMDL總是會說現代英語，除非被分配建造一棟建築物（他會用通常的文明母語來回應）。他傾向於用古怪的句子來回應，比如“邦戈鼓點在我腦海中”。或“這是一個好主意。”
           </p>
         </div>
         <div class="n1">

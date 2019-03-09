@@ -5,8 +5,15 @@
     <div class="row">
       <div class="col-md-12">
         <p>
-          下面將列出遊戲中所有科技，單位的升級不列在此。F=食物 W=木材 G=金
-          S=石頭
+          下面將列出遊戲中所有<b>科技</b>，單位的升級不列在此。F=<nuxt-link
+            to="/resource/Food"
+            >食物</nuxt-link
+          >
+          W=<nuxt-link to="/resource/Wood">木材</nuxt-link> G=<nuxt-link
+            to="/resource/Gold"
+            >金</nuxt-link
+          >
+          S=<nuxt-link to="/resource/Stone">石頭</nuxt-link>
         </p>
         <p>
           各國特殊科技銀冠、金冠請見:<nuxt-link to="/techs/untech"
@@ -35,7 +42,12 @@
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">50F</td>
-            <td class="tunitc6">步兵+2視野</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>+2<nuxt-link
+                to="/los.php"
+                >視野</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -44,7 +56,9 @@
                 >護衛</nuxt-link
               >
             </td>
-            <td class="tunitc4">城堡</td>
+            <td class="tunitc4">
+              <nuxt-link to="/building/Castle">城堡</nuxt-link>
+            </td>
             <td class="tunitc5">100F</td>
             <td class="tunitc6">步兵速度+10%</td>
           </tr>
@@ -84,7 +98,10 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">300F 250W</td>
             <td class="tunitc6">
-              弓兵和馬弓騎兵開火速率更快並擁有100%命中率。
+              <nuxt-link to="/units/Archer_Units">弓兵</nuxt-link>和<nuxt-link
+                to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >開火速率更快並擁有100%命中率。
             </td>
           </tr>
           <tr>
@@ -98,8 +115,9 @@
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">200F 250G</td>
             <td class="tunitc6">
-              馬弓騎兵護甲+1/+2，對<nuxt-link to="/units/Spearman"
-                >長槍兵</nuxt-link
+              <nuxt-link to="/armor/Armor_Class_Cavalry_Archer"
+                >馬弓騎兵護甲</nuxt-link
+              >+1/+2，對<nuxt-link to="/units/Spearman">長槍兵</nuxt-link
               >攻擊+4。
             </td>
           </tr>
@@ -123,7 +141,10 @@
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">150F 100G</td>
-            <td class="tunitc6">騎兵部隊生命值+20。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+              >部隊<nuxt-link to="/elements/Hit_points">生命值</nuxt-link>+20。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -156,7 +177,10 @@
             </td>
             <td class="tunitc4">黑暗</td>
             <td class="tunitc5">50G</td>
-            <td class="tunitc6">村民+15 HP，護甲+1/+2。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Villager">村民</nuxt-link>+15
+              HP，護甲+1/+2。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -189,7 +213,9 @@
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">75F</td>
-            <td class="tunitc6">建築視野+4。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/building">建築</nuxt-link>視野+4。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -222,7 +248,15 @@
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">475G</td>
-            <td class="tunitc6">僧侶可招降大部分建築物和攻城單位。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Monk">僧侶</nuxt-link>可<nuxt-link
+                to="/elements/Conversion"
+                >招降</nuxt-link
+              >大部分<nuxt-link to="/building">建築物</nuxt-link>和<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -289,7 +323,10 @@
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">750F 1000G</td>
-            <td class="tunitc6">單位對僧侶(傳教士)的招降更具抵抗力。</td>
+            <td class="tunitc6">
+              單位對僧侶(<nuxt-link to="/units/Missionary">傳教士</nuxt-link
+              >)的招降更具抵抗力。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -376,7 +413,9 @@
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 100G</td>
-            <td class="tunitc6">進貢費用減少至20%。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/Tribute.php">進貢費</nuxt-link>用減少至20%。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -432,7 +471,9 @@
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">400G</td>
             <td class="tunitc6">
-              在弒君模式下可短暫看見敵對國王位置。小地圖上以X顯示。該科技只在弒君模式有。
+              在弒君模式下可短暫看見敵對<nuxt-link to="/units/King"
+                >國王</nuxt-link
+              >位置。小地圖上以X顯示。該科技只在弒君模式有。
             </td>
           </tr>
           <tr>
@@ -455,7 +496,11 @@
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">400F 200G</td>
-            <td class="tunitc6">村民對建築物攻擊+15。</td>
+            <td class="tunitc6">
+              村民對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊+15。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -466,7 +511,11 @@
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">150F 150G</td>
-            <td class="tunitc6">軍營、靶場、馬廄、城堡訓練部隊速度+33%。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/building/Barracks">軍營</nuxt-link
+              >、靶場、<nuxt-link to="/building/Stable">馬廄</nuxt-link
+              >、城堡訓練部隊速度+33%。
+            </td>
           </tr>
         </table>
 
@@ -488,7 +537,11 @@
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">250F 150G</td>
-            <td class="tunitc6">船隻護甲+1，運輸船可承載單位+5。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Naval_Vessels">船隻</nuxt-link
+              >護甲+1，<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
+              >可承載單位+5。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -521,7 +574,9 @@
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">150F 200G</td>
-            <td class="tunitc6">漁船工作速率+25%。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link>工作速率+25%。
+            </td>
           </tr>
         </table>
 
@@ -549,14 +604,17 @@
             <td class="tunitc6">
               <img
                 class="gg"
-                src="~assets/Stonewallicon.png"
+                src="~assets/Fortified-wall-research.jpg"
                 alt=""
               /><nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link>
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">200F 100W</td>
             <td class="tunitc6">
-              升級為垛牆，使其更難被摧毀，該升級對城門有同樣效果。
+              升級為<nuxt-link to="/building/Fortified_Wall">垛牆</nuxt-link
+              >，使其更難被摧毀，該升級對<nuxt-link to="/building/Gate"
+                >城門</nuxt-link
+              >有同樣效果。
             </td>
           </tr>
           <tr>
@@ -569,7 +627,10 @@
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">300W 175G</td>
             <td class="tunitc6">
-              弓兵、馬弓騎兵、戰船、城堡和箭塔對移動單位的命中率提升。
+              弓兵、馬弓騎兵、<nuxt-link to="/units/Naval_Vessels"
+                >戰船</nuxt-link
+              >、城堡和<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link
+              >對移動單位的命中率提升。
             </td>
           </tr>
           <tr>
@@ -582,7 +643,9 @@
             </td>
             <td class="tunitc4">城堡</td>
             <td class="tunitc5">100F 250W</td>
-            <td class="tunitc6">升級為防禦箭塔</td>
+            <td class="tunitc6">
+              升級為<nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -639,7 +702,10 @@
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">300F 200G</td>
             <td class="tunitc6">
-              開火單位(包括攻城單位)攻擊+1。研發後可生產火藥單位。
+              開火單位(包括攻城單位)攻擊+1。研發後可生產<nuxt-link
+                to="/units/Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              >。
             </td>
           </tr>
           <tr>
@@ -653,7 +719,13 @@
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">500F 600W</td>
             <td class="tunitc6">
-              攻城武器攻擊範圍+1(輕型衝撞車除外)。對建築物攻擊加成+20%(爆炸桶+40%)。
+              <nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >攻擊範圍+1(<nuxt-link to="/units/Battering_Ram"
+                >輕型衝撞車</nuxt-link
+              >除外)。對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊加成+20%(<nuxt-link to="/units/Petard">爆炸桶</nuxt-link
+              >+40%)。
             </td>
           </tr>
           <tr>
@@ -666,7 +738,10 @@
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">500F 350W</td>
-            <td class="tunitc6">升級為更強大的大型箭塔。</td>
+            <td class="tunitc6">
+              升級為更強大的<nuxt-link to="/building/Keep">大型箭塔</nuxt-link
+              >。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -677,7 +752,10 @@
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">250F 250W</td>
-            <td class="tunitc6">瞭望箭塔/防禦箭塔/大型箭塔攻擊+1/+2/+3。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/building/Watch_Tower">瞭望箭塔</nuxt-link
+              >/防禦箭塔/大型箭塔攻擊+1/+2/+3。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -689,7 +767,11 @@
             </td>
             <td class="tunitc4">帝王</td>
             <td class="tunitc5">800F 400W</td>
-            <td class="tunitc6">研發後可建造火砲塔，需先研發化學。</td>
+            <td class="tunitc6">
+              研發後可建造<nuxt-link to="/building/Bombard_Tower"
+                >火砲塔</nuxt-link
+              >，需先研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link>。
+            </td>
           </tr>
         </table>
 
@@ -820,7 +902,10 @@
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">150F</td>
-            <td class="tunitc6">騎兵護甲+1/+1。</td>
+            <td class="tunitc6">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵護甲</nuxt-link
+              >+1/+1。
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">
@@ -1003,7 +1088,9 @@
             </td>
             <td class="tunitc4">封建</td>
             <td class="tunitc5">75F 75W</td>
-            <td class="tunitc6">農田產量+75</td>
+            <td class="tunitc6">
+              <nuxt-link to="/building/Farm">農田</nuxt-link>產量+75
+            </td>
           </tr>
           <tr>
             <td class="tunitc6">

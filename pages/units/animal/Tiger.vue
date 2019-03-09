@@ -8,8 +8,20 @@
       <div class="n1"></div>
       <div class="col-md-8">
         <p>
-          老虎在《世紀帝國 II HD:
-          王者崛起》出現，是玩家可能在未探索區域會遇到的可怕掠食者之一。牠不提供食物但會出現在地圖的一些區域並且會攻擊視野中的村民或軍事單位。如果村民沒有織布技術而且被老虎先手的的話很容易會成為虎口下的犧牲品(除了馬扎爾村民外)。老虎主要出現在東南亞地圖上。
+          <b>老虎</b>在<nuxt-link to="/games/aor"
+            >《世紀帝國 II HD: 王者崛起》</nuxt-link
+          >出現，是玩家可能在未探索區域會遇到的可怕掠食者之一。牠不提供<nuxt-link
+            to="/resource/Food"
+            >食物</nuxt-link
+          >但會出現在地圖的一些區域並且會攻擊<nuxt-link to="/los.php"
+            >視野</nuxt-link
+          >中的<nuxt-link to="/units/Villager">村民</nuxt-link
+          >或軍事單位。如果村民沒有<nuxt-link to="/techs/Loom"
+            >織布技術</nuxt-link
+          >而且被老虎先手的的話很容易會成為虎口下的犧牲品(除了<nuxt-link
+            to="/civs/Magyars"
+            >馬扎爾</nuxt-link
+          >村民外)。老虎主要出現在東南亞地圖上。
         </p>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
@@ -50,7 +62,9 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">25</td>
           </tr>
         </table>

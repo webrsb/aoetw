@@ -65,7 +65,8 @@
         />
       </p>
       <div style="font-size: 18px; color: #dc3545; font-weight: bold;">
-        民兵喝了，木棒上面會不會長刺出來?
+        <nuxt-link to="/units/Militia">民兵</nuxt-link
+        >喝了，木棒上面會不會長刺出來?
       </div>
     </div>
     <div class="col-md-12">

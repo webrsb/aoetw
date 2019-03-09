@@ -8,8 +8,14 @@
       <div class="col-md-12">
         <div class="n1">
           <p>
-            火藥單位是一種遠程步兵單位，使用火藥和化學物質來發射炮彈，而不是使用傳統的弓箭武器。在後期遊戲中，它們的表現都十分突出。
-            這樣強大的單位，大多在後帝王時代中可以訓練。
+            <b>火藥單位</b>是一種<nuxt-link to="/units/Archer_Units"
+              >遠程</nuxt-link
+            ><nuxt-link to="/units/Infantry_Units">步兵單位</nuxt-link
+            >，使用火藥和<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+            >物質來發射炮彈，而不是使用傳統的弓箭武器。在後期遊戲中，它們的表現都十分突出。
+            這樣強大的單位，大多在後<nuxt-link to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
+            >中可以訓練。
           </p>
           <br />
         </div>
@@ -17,14 +23,19 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            火藥單位(非特殊單位)在帝王時代的學院研發化學後可以訓練。<nuxt-link
-              to="/units/Janissary"
+            火藥單位(非<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >)在帝王時代的<nuxt-link to="/building/University">學院</nuxt-link
+            >研發化學後可以訓練。<nuxt-link to="/units/Janissary"
               >土耳其火槍兵</nuxt-link
             >、<nuxt-link to="/units/Conquistador">征服者</nuxt-link>、
             <nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link>、<nuxt-link
               to="/units/Turtle_Ship"
               >龜甲船</nuxt-link
-            >這些屬於文明的特殊火藥單位則可以在不用研發化學的前提下在城堡時代訓練。
+            >這些屬於<nuxt-link to="/civs">文明</nuxt-link
+            >的特殊火藥單位則可以在不用研發化學的前提下在<nuxt-link
+              to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
+            >訓練。
           </p>
           <p>
             在"失落的帝國"資料片前，所有中東文明都可以使用普通的火藥單位，這意味著中世紀該地區的科學進步顯著。<nuxt-link
@@ -33,8 +44,10 @@
             >， <nuxt-link to="/civs/Huns">匈奴人</nuxt-link>，<nuxt-link
               to="/civs/Incas"
               >印加人</nuxt-link
-            >和<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link
-            >必須靠招降才能擁有火藥單位。
+            >和<nuxt-link to="/civs/Mayans">馬雅人</nuxt-link>必須靠<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >才能擁有火藥單位。
           </p>
         </div>
         <h3>火藥文明</h3>
@@ -42,15 +55,36 @@
         <div class="n1">
           <ul>
             <li>
-              土耳其：火藥單位血量+25%、研發火藥相關科技便宜50%、免費擁有化學、火藥單位訓練效率+20%。
+              <nuxt-link to="/civs/Turks">土耳其</nuxt-link>：火藥單位<nuxt-link
+                to="/elements/Hit_points"
+                >血量</nuxt-link
+              >+25%、研發火藥相關<nuxt-link to="/techs">科技</nuxt-link
+              >便宜50%、免費擁有化學、火藥單位訓練效率+20%。
             </li>
-            <li>義大利：火藥單位便宜20%。</li>
             <li>
-              葡萄牙：特殊科技火繩槍，讓火藥單位均受益於彈道學，使火藥單位針對移動中的單位也有較好的命中率，單位黃金成本便宜15％。
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link
+              >：火藥單位便宜20%。
             </li>
             <li>
-              西班牙：彈道學對火砲戰船有效(遠距離武器更快、更精準)、火藥單位攻擊速度+
-              15%。
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>：<nuxt-link
+                to="/techs/untech"
+                >特殊科技</nuxt-link
+              ><nuxt-link to="/techs/Arquebus">火繩槍</nuxt-link
+              >，讓火藥單位均受益於<nuxt-link to="/techs/Ballistics"
+                >彈道學</nuxt-link
+              >，使火藥單位針對移動中的單位也有較好的命中率，單位<nuxt-link
+                to="/resource/Gold"
+                >黃金</nuxt-link
+              >成本便宜15％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >：彈道學對<nuxt-link to="/units/Cannon_Galleon"
+                >火砲戰船</nuxt-link
+              >有效(遠距離武器更快、更精準)、火藥單位<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >+ 15%。
             </li>
           </ul>
         </div>
@@ -60,12 +94,16 @@
           <table class="table-bordered" width="100%">
             <tr class="tta">
               <td width="19%">火藥單位</td>
-              <td width="9%">生命值</td>
+              <td width="9%">
+                <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+              </td>
               <td width="9%">攻擊</td>
               <td width="9%">防禦</td>
               <td width="9%">射程</td>
-              <td width="9%">射速</td>
-              <td width="9%">視野</td>
+              <td width="9%">
+                <nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link>
+              </td>
+              <td width="9%"><nuxt-link to="/los.php">視野</nuxt-link></td>
               <td width="9%">速度</td>
               <td width="9%">訓練時間</td>
             </tr>
@@ -374,7 +412,12 @@
                   alt=""
               /></gallery>
               <div class="lightbox-caption" style="width:220px">
-                <p><em>所有火藥單位(非洲王國資料片)。</em></p>
+                <p>
+                  <em
+                    >所有火藥單位(<nuxt-link to="/games/ak">非洲王國</nuxt-link
+                    >資料片)。</em
+                  >
+                </p>
               </div>
             </div>
           </div>

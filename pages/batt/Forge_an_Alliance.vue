@@ -8,8 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>締結同盟</b
-            >是華勒斯教學戰役的第六個劇情關卡，此關教導玩家如何控制僧侶，捕捉遺跡以及和盟友結盟貿易等。
+            <b>締結同盟</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
+            >的第六個劇情關卡，此關教導玩家如何控制<nuxt-link to="/units/Monk"
+              >僧侶</nuxt-link
+            >，拿取<nuxt-link to="/Relic">遺跡</nuxt-link>以及和盟友結盟貿易等。
           </p>
         </div>
         <h2>玩家</h2>
@@ -19,9 +21,16 @@
           <table class="table-bordered" width="100%">
             <tr>
               <td class="tc1" width="15%">起始時代：</td>
-              <td class="tc2" width="15%">封建時代</td>
+              <td class="tc2" width="15%">
+                <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link>
+              </td>
               <td class="tc1" width="15%">起始資源：</td>
-              <td class="tc2">500木材，500食物，500黃金，500石頭</td>
+              <td class="tc2">
+                500<nuxt-link to="/resource/Wood">木材</nuxt-link
+                >，500<nuxt-link to="/resource/Food">食物</nuxt-link
+                >，500<nuxt-link to="/resource/Gold">黃金</nuxt-link
+                >，500<nuxt-link to="/resource/Stone">石頭</nuxt-link>
+              </td>
               <td class="tc1" width="15%">人口上限：</td>
               <td class="tc2" width="5%">75</td>
             </tr>
@@ -52,20 +61,33 @@
             </tr>
             <tr>
               <td class="tc6"><div class="p2">玩家3</div></td>
-              <td class="tc6">英格蘭（紅色）不列顛</td>
+              <td class="tc6">
+                英格蘭（紅色）<nuxt-link to="/civs/Britons">不列顛</nuxt-link>
+              </td>
             </tr>
           </table>
 
           <p></p>
           <h3>開場</h3>
-          <p>10位村民、6位弓兵、4位裝甲步兵、3位僧侶、2位斥候。</p>
+          <p>
+            10位<nuxt-link to="/units/Villager">村民</nuxt-link>、6位<nuxt-link
+              to="/units/Archer"
+              >弓兵</nuxt-link
+            >、4位<nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link
+            >、3位僧侶、2位<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
+            >。
+          </p>
           <p></p>
           <p>大地之母單位：無</p>
           <h3>主要任務</h3>
           <div class="hrn1"></div>
           <div class="n1">
             <ol>
-              <li>尋獲3個遺跡，並把它們保存至你的修道院。</li>
+              <li>
+                尋獲3個遺跡，並把它們帶至你的<nuxt-link to="/building/Monastery"
+                  >修道院</nuxt-link
+                >。
+              </li>
             </ol>
           </div>
         </div>
@@ -74,10 +96,16 @@
         <div class="n1">
           <ul>
             <li>
-              本劇情使用進階指令選項介面。雖然你不一定要用此介面才可進行「世紀帝國II：帝王世紀」遊戲，但它能夠提供一些可用來操控你的種族的更有力方法。
+              本劇情使用進階指令選項介面。雖然你不一定要用此介面才可進行「世紀帝國II：<nuxt-link
+                to="/games/aok"
+                >帝王世紀</nuxt-link
+              >」遊戲，但它能夠提供一些可用來操控你的種族的更有力方法。
             </li>
             <li>
-              如果你損失任何僧侶，可以等到進入城堡時代時再增添更多的僧侶人手。
+              如果你損失任何僧侶，可以等到進入<nuxt-link
+                to="/techs/age/Castle_Age"
+                >城堡時代</nuxt-link
+              >時再增添更多的僧侶人手。
             </li>
           </ul>
           <h3>細節</h3>
@@ -90,7 +118,9 @@
               玩家實際上並不需要奪取所有的遺跡來獲勝。擊敗英軍也能獲得勝利。
             </li>
             <li>
-              雖然可以升級到帝王時代，建立一個奇觀，但這樣做不會在這種有奇觀的情況下獲得勝利。
+              雖然可以升級到<nuxt-link to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >，建立一個奇觀，但這樣做不會獲得勝利。
             </li>
             <li>在整個遊戲中，速度不能改變。</li>
           </ol>
@@ -131,7 +161,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/civs/Celts">塞爾特人</nuxt-link>
             </td>

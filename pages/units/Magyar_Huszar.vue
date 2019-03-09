@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            馬扎爾驃騎兵是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-            >的特殊單位，能夠在<nuxt-link to="/techs/age/Castle_Age"
-              >城堡時代</nuxt-link
+            <b>馬扎爾驃騎兵</b>是<nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
+            >的<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+            >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >中訓練。馬扎爾驃騎兵是輕型快速的騎兵部隊對<nuxt-link
@@ -19,10 +19,15 @@
             >有加成傷害。
           </p>
           <p>
-            馬扎爾驃騎兵雖貴為城堡兵但是在城堡時代時研發<nuxt-link
-              to="/techs/Mercenaries"
-              >雇傭兵</nuxt-link
-            >後即不需要黃金因此被稱為是垃圾兵，值得一提馬扎爾驃騎兵跟騎士是差不多威力的。馬扎爾驃騎兵可以在
+            馬扎爾驃騎兵雖貴為<nuxt-link to="/units/Unique_Unit"
+              >城堡兵</nuxt-link
+            >但是在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >時研發<nuxt-link to="/techs/Mercenaries">雇傭兵</nuxt-link
+            >後即不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >因此被稱為是垃圾兵，值得一提馬扎爾驃騎兵跟<nuxt-link
+              to="/units/Knight"
+              >騎士</nuxt-link
+            >是差不多威力的。馬扎爾驃騎兵可以在
             <nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >升級為精銳馬扎爾驃騎兵。
           </p>
@@ -36,21 +41,29 @@
                 >雇傭兵</nuxt-link
               >)整體相對其他城堡兵便宜，所以在<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
-              >多時量產上不是問題，移動和攻擊速度又快又有對攻城器單位加成，因此在對攻城器單位上是很理想的兵種，另外馬扎爾驃騎兵整體又跟
+              >多時量產上不是問題，移動和<nuxt-link to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >又快又有對<nuxt-link to="/units/Siege_Weapons"
+                >攻城器單位</nuxt-link
+              >加成，因此在對攻城器單位上是很理想的兵種，另外馬扎爾驃騎兵整體又跟
               <nuxt-link to="/units/Knight">騎士</nuxt-link
               >差不多，且訓練快速因此在<nuxt-link to="/building/Castle"
                 >城堡</nuxt-link
-              >多時<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link
-              >(匈牙利輕騎兵)變的很多餘。
+              >多時<nuxt-link to="/units/Hussar">翼騎兵</nuxt-link>(<nuxt-link
+                to="/units/Hussar"
+                >匈牙利輕騎兵</nuxt-link
+              >)變的很多餘。
             </li>
             <li>
-              馬扎爾驃騎兵搭配馬扎爾馬弓騎兵是一大強力組合，馬扎爾驃騎兵只需要肉(需研發<nuxt-link
+              馬扎爾驃騎兵搭配馬扎爾<nuxt-link to="/units/Cavalry_Archer"
+                >馬弓騎兵</nuxt-link
+              >是一大強力組合，馬扎爾驃騎兵只需要肉(需研發<nuxt-link
                 to="/techs/Mercenaries"
                 >雇傭兵</nuxt-link
               >)
               <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
-              >需要黃金/木材，因此在資源使用上無衝突，<nuxt-link
-                to="/units/Cavalry_Archer"
+              >需要黃金/<nuxt-link to="/resource/Wood">木材</nuxt-link
+              >，因此在資源使用上無衝突，<nuxt-link to="/units/Cavalry_Archer"
                 >馬弓騎兵</nuxt-link
               >又怕攻城器單位而馬扎爾驃騎兵又對攻城器單位有加成傷害，再者
               <nuxt-link to="/units/Spearman">槍兵</nuxt-link
@@ -62,7 +75,8 @@
             <li>
               馬扎爾驃騎兵幾本上在<nuxt-link to="/civs/Magyars"
                 >馬扎爾</nuxt-link
-              >文明裡近乎完全取代了<nuxt-link to="/units/Hussar"
+              ><nuxt-link to="/civs">文明</nuxt-link>裡近乎完全取代了<nuxt-link
+                to="/units/Hussar"
                 >翼騎兵</nuxt-link
               >(匈牙利輕騎兵)，但是對
               <nuxt-link to="/units/Monk">僧侶</nuxt-link>上還是用<nuxt-link
@@ -116,7 +130,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">生命值</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Hit_points">生命值</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -127,7 +143,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -187,7 +205,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img
                 class="gg"
@@ -265,9 +285,9 @@
                     />
                     <nuxt-link to="/units/Imperial_Camel"
                       >帝王駱駝騎兵</nuxt-link
-                    >(帝王駱駝騎兵是<nuxt-link to="/civs/Indians"
-                      >印度</nuxt-link
-                    >限定)
+                    >(<nuxt-link to="/units/Imperial_Camel"
+                      >帝王駱駝騎兵</nuxt-link
+                    >是<nuxt-link to="/civs/Indians">印度</nuxt-link>限定)
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+15攻擊</strong></div>
@@ -509,7 +529,8 @@
             </li>
             <li>
               <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-              >：馬扎爾驃騎兵對僧侶抵抗力更強。
+              >：馬扎爾驃騎兵對<nuxt-link to="/units/Monk">僧侶</nuxt-link
+              >抵抗力更強。
             </li>
           </ul>
         </div>
@@ -517,12 +538,22 @@
         <div class="hrn1"></div>
         <div class="n1">
           <ul>
-            <li>馬扎爾驃騎兵也被稱為蒙古突騎近戰型。</li>
             <li>
-              馬扎爾驃騎兵因為功能上和生產成本跟肉馬一樣被稱為進階版肉馬。
+              馬扎爾驃騎兵也被稱為<nuxt-link to="/units/Mangudai"
+                >蒙古突騎</nuxt-link
+              >近戰型。
             </li>
             <li>
-              翼騎兵舊稱匈牙利輕騎兵馬扎爾城堡兵研發科技後也只需要80肉也比翼騎兵強名副其實的匈牙利輕騎兵。
+              馬扎爾驃騎兵因為功能上和生產成本跟<nuxt-link
+                to="/units/Scout_Cavalry"
+                >肉馬</nuxt-link
+              >一樣被稱為進階版肉馬。
+            </li>
+            <li>
+              <nuxt-link to="/units/Hussar">翼騎兵</nuxt-link
+              >舊稱匈牙利輕騎兵馬扎爾城堡兵研發<nuxt-link to="/techs"
+                >科技</nuxt-link
+              >後也只需要80肉也比翼騎兵強名副其實的匈牙利輕騎兵。
             </li>
           </ul>
         </div>
@@ -645,7 +676,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">80</td>
           </tr>
           <tr>
@@ -662,7 +695,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">70/85(精銳)</td>
           </tr>
           <tr>
@@ -684,15 +719,15 @@
             <td class="unit4">1.83</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr>
-            <td class="unit3">裝甲類型</td>
+            <td class="unit3"><nuxt-link to="/armor">裝甲類型</nuxt-link></td>
             <td class="unit4">
               <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
               <br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
@@ -705,7 +740,7 @@
             <td class="unit4">1.5</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">5/6(精銳)</td>
           </tr>
           <tr>

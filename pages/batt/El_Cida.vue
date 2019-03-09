@@ -9,16 +9,26 @@
         <div class="n1">
           <div class="ien">
             <em
-              >西班牙被北方的基督王國，和南方的摩爾王國分成兩個部分。在卡西提爾和羅德里高之間的貧瘠邊境迪亞茲，有一個名叫熙德的人，他是有名的偉大將軍，同時也是勇猛的十字軍。由於熙德在士兵與村民之間很受到歡迎，讓卡西堤爾的國王對他產生猜疑而把它流放。熙德此時必須加入他以前的敵人，也就是摩爾人的陣營，與他曾經熱愛過的卡西堤爾作對。不過，在非洲有個極大的威脅正要渡海而來，就是那裡的狂暴的遊牧騎士，希望能夠掠奪沒有能力抵抗的摩爾人。</em
+              ><nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+              >被北方的基督王國，和南方的摩爾王國分成兩個部分。在卡西提爾和羅德里高之間的貧瘠邊境迪亞茲，有一個名叫熙德的人，他是有名的偉大將軍，同時也是勇猛的十字軍。由於熙德在士兵與村民之間很受到歡迎，讓卡西堤爾的國王對他產生猜疑而把它流放。熙德此時必須加入他以前的敵人，也就是摩爾人的陣營，與他曾經熱愛過的卡西堤爾作對。不過，在非洲有個極大的威脅正要渡海而來，就是那裡的狂暴的遊牧<nuxt-link
+                to="/units/Knight"
+                >騎士</nuxt-link
+              >，希望能夠掠奪沒有能力抵抗的摩爾人。</em
             >
             <p style="text-align: right;margin-top: 10px;">
               -遊戲中對於熙德役的介紹
             </p>
           </div>
           <p>
-            1065年，卡斯提爾萊昂聯合王國陷入兄弟鬩牆的分裂局面，三位國王各據一方彼此對抗。最後阿方索國王之兄長桑喬國王遭到暗殺，胞弟加西亞亦遭其擊潰，阿方索國王遂重新統一卡斯提爾萊昂聯合王國。並領導半島北部的基督教王國南下攻略穆斯林諸封建王國(泰法)。1086年，阿方索國王先後攻陷托萊多與瓦倫西亞，自封西班牙皇帝。伊比利半島的各泰法為了抗衡崛起的卡斯提爾王國遂向位於北非摩洛哥的穆拉比特王朝借兵，於是北非穆斯林大舉入侵，於同年大破卡斯提爾軍，但由於王朝內部問題不能乘勝追擊。
+            1065年，卡斯提爾萊昂聯合王國陷入兄弟鬩牆的分裂局面，三位國王各據一方彼此對抗。最後<nuxt-link
+              to="/units/hero/King_Alfonso"
+              >阿方索國王</nuxt-link
+            >之兄長<nuxt-link to="/units/hero/King_Sancho">桑喬國王</nuxt-link
+            >遭到暗殺，胞弟加西亞亦遭其擊潰，阿方索國王遂重新統一卡斯提爾萊昂聯合王國。並領導半島北部的基督教王國南下攻略穆斯林諸封建王國(泰法)。1086年，阿方索國王先後攻陷托萊多與瓦倫西亞，自封西班牙皇帝。伊比利半島的各泰法為了抗衡崛起的卡斯提爾王國遂向位於北非摩洛哥的穆拉比特王朝借兵，於是北非穆斯林大舉入侵，於同年大破卡斯提爾軍，但由於王朝內部問題不能乘勝追擊。
             卡斯提爾王國得到喘息，再度南下，收復重鎮瓦倫西亞與穆斯林進入另一個相持階段。
-            <br />出生與比瓦爾，是具有摩爾人與西哥德血統的卡斯提爾貴族。「熙德(El
+            <br />出生與比瓦爾，是具有摩爾人與西<nuxt-link to="/civs/Goths"
+              >哥德</nuxt-link
+            >血統的卡斯提爾貴族。「熙德(El
             Cid)」則是穆斯林對他的敬稱，這個敬稱在他生涯中幾乎取代了本名。
             熙德的青年歲月很早就因為擔任卡斯提爾桑喬國王的禁軍隊長而嶄露頭角。並在1067年奉主君之命征伐萊昂的阿方索國王。但是桑喬國王並沒能坐穩王位就被暗殺，反而是被兼併的阿方索國王以弟弟的身份繼承了整個王國。
             由於曾經征討過阿方索，加上阿方索的近臣與巴塞羅那的貝倫格爾伯爵的排擠，熙德被放逐，不得不投奔半島上的穆斯林王公蒙達米特，並為其服役了十年。若非1086年的穆斯林大軍壓境，也許他永遠無法回歸故土。
@@ -30,7 +40,15 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            熙德在遊戲戰役中為劍兵勇士的型態，在獲得馬匹後則會進階為騎士英雄，能在地圖編輯器中找到他，他不會被招降，能夠自動恢復HP。
+            熙德在遊戲<nuxt-link to="/batt">戰役</nuxt-link>中為<nuxt-link
+              to="/units/Champion"
+              >劍兵勇士</nuxt-link
+            >的型態，在獲得馬匹後則會進階為騎士<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
+            >，能在地圖編輯器中找到他，他不會被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >，能夠自動恢復HP。
           </p>
         </div>
         <h3>關卡</h3>
@@ -39,17 +57,38 @@
           <div class="row">
             <div class="col-md-12">
               <p>
-                熙德戰役由6個關卡組成。玩家扮演的是劍兵勇士之後為騎士英雄，顏色是紅色的。
+                <nuxt-link to="/batt/El_Cida">熙德戰役</nuxt-link
+                >由6個關卡組成。玩家扮演的是劍兵勇士之後為騎士英雄，顏色是紅色的。
               </p>
             </div>
             <div class="col-md-6">
               <ol>
                 <li>兄弟鬩牆 &nbsp;&nbsp;(西班牙)</li>
-                <li>我敵人的敵人&nbsp;&nbsp;(西班牙)</li>
-                <li>熙德的流亡歲月&nbsp;&nbsp;(薩拉森)</li>
-                <li>黑衛隊&nbsp;&nbsp;(薩拉森)</li>
-                <li>瓦倫西亞之主 &nbsp;&nbsp;(西班牙)</li>
-                <li>勘查(再次征服)&nbsp;&nbsp;(西班牙)</li>
+                <li>
+                  <nuxt-link to="/batt/The_Enemy_of_my_Enemy"
+                    >我敵人的敵人</nuxt-link
+                  >&nbsp;&nbsp;(西班牙)
+                </li>
+                <li>
+                  <nuxt-link to="/batt/The_Exile_of_the_Cid"
+                    >熙德的流亡歲月</nuxt-link
+                  >&nbsp;&nbsp;(<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
+                  >)
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link
+                  >&nbsp;&nbsp;(薩拉森)
+                </li>
+                <li>
+                  <nuxt-link to="/batt/King_of_Valencia"
+                    >瓦倫西亞之主</nuxt-link
+                  >
+                  &nbsp;&nbsp;(西班牙)
+                </li>
+                <li>
+                  <nuxt-link to="/batt/Reconquista">勘查</nuxt-link
+                  >(再次征服)&nbsp;&nbsp;(西班牙)
+                </li>
               </ol>
             </div>
             <div class="col-md-6">
@@ -92,10 +131,12 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">征服者入侵</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">西班牙/薩拉森</td>
           </tr>
           <tr>

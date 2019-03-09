@@ -8,10 +8,32 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            岡薩洛·皮薩羅是一位在世紀帝國二：被遺忘的王朝中登場的英雄單位，你可以在地圖編輯器中找到他。在歷史上，他是一名西班牙的探險家和征服者。他同父異母的哥哥法蘭西斯克·皮薩羅，以征服印加帝國聞名。岡薩洛·皮薩羅和法蘭切斯科·德·奧雷亞納則以尋找黃金城的探險而聞名。
+            <b>岡薩洛·皮薩羅</b
+            >是一位在世紀帝國二：被遺忘的王朝中登場的<nuxt-link to="/units/hero"
+              >英雄</nuxt-link
+            >單位，你可以在地圖編輯器中找到他。在歷史上，他是一名<nuxt-link
+              to="/civs/Spanish"
+              >西班牙</nuxt-link
+            >的探險家和<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+            >。他同父異母的哥哥法蘭西斯克·皮薩羅，以征服<nuxt-link
+              to="/civs/Incas"
+              >印加</nuxt-link
+            >帝國聞名。岡薩洛·皮薩羅和<nuxt-link
+              to="/units/hero/Francisco_de_Orellana"
+              >法蘭切斯科·德·奧雷亞納</nuxt-link
+            >則以尋找<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            >城的探險而聞名。
           </p>
           <p>
-            岡薩洛·皮薩羅在遊戲中以征服者的外表登場（頭像不一樣），但有著更高的能力值。所有對騎兵和火藥單位有用的科技和加成對岡薩洛·皮薩羅也有效。作為一個英雄單位，他無法被招降且會自動回血。
+            岡薩洛·皮薩羅在遊戲中以征服者的外表登場（頭像不一樣），但有著更高的能力值。所有對<nuxt-link
+              to="/units/Cavalry_Units"
+              >騎兵</nuxt-link
+            >和<nuxt-link to="/units/Gunpowder_Unit">火藥單位</nuxt-link
+            >有用的<nuxt-link to="/techs">科技</nuxt-link
+            >和加成對岡薩洛·皮薩羅也有效。作為一個英雄單位，他無法被<nuxt-link
+              to="/elements/Conversion"
+              >招降</nuxt-link
+            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>
@@ -50,23 +72,36 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">150</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">20(遠程)</td>
+            <td class="unit4">
+              20(<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>)
+            </td>
           </tr>
           <tr>
             <td class="unit3">攻擊加成</td>
-            <td class="unit4">+6對衝撞車 <br />+2對建築物</td>
+            <td class="unit4">
+              +6對<nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>
+              <br />+2對<nuxt-link to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
-            <td class="unit3">攻擊速度</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>
+            </td>
             <td class="unit4">2.93</td>
           </tr>
           <tr>
-            <td class="unit3">開火間隔</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>
+            </td>
             <td class="unit4">4</td>
           </tr>
           <tr>
@@ -82,24 +117,32 @@
             <td class="unit4">5.5</td>
           </tr>
           <tr>
-            <td class="unit3">近防</td>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
             <td class="unit4">2</td>
           </tr>
           <tr></tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">3</td>
           </tr>
           <tr>
-            <td class="unit3">防禦類型</td>
-            <td class="unit4">弓兵 <br />騎兵 <br />火藥單位 <br />特殊單位</td>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Archer">射手</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+              <br /><nuxt-link to="/armor/Armor_Class_Gunpowder_Unit"
+                >火藥單位</nuxt-link
+              ><br /><nuxt-link to="/armor/Armor_Class_Unique_Unit"
+                >特殊單位</nuxt-link
+              >
+            </td>
           </tr>
           <tr>
             <td class="unit3">跑速</td>
             <td class="unit4">1.4</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">9</td>
           </tr>
         </table>

@@ -8,32 +8,49 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
-            >是一個遠程攻城武器 ，當玩家升級到了<nuxt-link
-              to="/techs/age/Castle_Age"
+            <b>輕型投石車</b>是一個<nuxt-link
+              to="/armor/Armor_Class_Siege_Weapon"
+              >遠程攻城武器</nuxt-link
+            >
+            ，當玩家升級到了<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >後，便可以在攻城器製造所進行訓練。
-            主要拿來對付成群的敵人，他的高攻擊與<nuxt-link
+            >後，便可以在<nuxt-link to="/units//building/Siege_Workshop"
+              >攻城器製造所</nuxt-link
+            >進行訓練。 主要拿來對付成群的敵人，他的高攻擊與<nuxt-link
               to="/elements/Area_of_Effect"
               >擴散傷害</nuxt-link
             >是所有<nuxt-link to="/units/Archer_Units">遠距離單位</nuxt-link
-            >的惡夢。而弱點有低射速與最小範圍。研發
-            <nuxt-link to="/techs/Chemistry">化學</nuxt-link
-            >科技後，攻擊時會噴賤出高溫的成群熱火球(類似超級瑪莉吃火時吐出的火花)，也是少數可以預判對手走位，攻擊指定範圍的單位。
+            >的惡夢。而弱點有低<nuxt-link to="/elements/Rate_of_Fire"
+              >射速</nuxt-link
+            >與最小範圍。研發 <nuxt-link to="/techs/Chemistry">化學</nuxt-link
+            ><nuxt-link to="/techs">科技</nuxt-link
+            >後，攻擊時會噴賤出高溫的成群熱火球(類似超級瑪莉吃火時吐出的火花)，也是少數可以預判對手走位，攻擊指定範圍的單位。
           </p>
         </div>
         <h3>戰術</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在城堡初期，<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
-            >是一個非常昂貴的單位，行走速度非常的緩慢，但優異的擴散傷害，是步弓單位的天敵，關鍵時刻的一擲，可能瞬間逆轉局勢。
+            在<nuxt-link to="/building/Castle">城堡</nuxt-link>初期，<nuxt-link
+              to="/units/Mangonel"
+              >輕型投石車</nuxt-link
+            >是一個非常昂貴的單位，行走速度非常的緩慢，但優異的<nuxt-link
+              to="/elements/Area_of_Effect"
+              >擴散傷害</nuxt-link
+            >，是步弓單位的天敵，關鍵時刻的一擲，可能瞬間逆轉局勢。
           </p>
           <p>
             事實上，<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
             >的傷害並沒有對<nuxt-link to="/building/Archery_Range"
               >射箭場</nuxt-link
-            >單位有額外的加成效果，但因為該單位特殊的擴散效果，每次都會擲出的石頭，除了會造成中心位置40的傷害外，只要在傷害半徑內，都會受到額外的火球疊加傷害，也因為這樣的特質，被喻為成群弓手的剋星一點都不為過。不過優秀的玩家通常會利用其厲害的控兵技巧來躲避投石車的攻擊，進而射爆投石車。
+            >單位有額外的加成效果，但因為該單位特殊的<nuxt-link
+              to="/elements/Area_of_Effect"
+              >擴散效果</nuxt-link
+            >，每次都會擲出的<nuxt-link to="/resource/Stone">石頭</nuxt-link
+            >，除了會造成中心位置40的傷害外，只要在傷害半徑內，都會受到額外的火球疊加傷害，也因為這樣的特質，被喻為成群弓手的剋星一點都不為過。不過優秀的玩家通常會利用其厲害的控兵技巧來躲避<nuxt-link
+              to="/units/Mangonel"
+              >投石車</nuxt-link
+            >的攻擊，進而射爆投石車。
           </p>
           <p>
             <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
@@ -43,13 +60,18 @@
             >(起始放箭距離為6)，所以將
             <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
             >拿來拆除<nuxt-link to="/building/Town_Center">城鎮中心</nuxt-link
-            >也是個不錯的選擇，但生命值過低，移動速度慢，加上有最小的攻擊距離限制，很容易被敵方機動性高的兵種反制，使用上非常吃判斷力，被成群的敵軍包圍時，大概就沒有什麼生存的機會了。
+            >也是個不錯的選擇，但<nuxt-link to="/elements/Hit_points"
+              >生命值</nuxt-link
+            >過低，移動速度慢，加上有最小的攻擊距離限制，很容易被敵方機動性高的兵種反制，使用上非常吃判斷力，被成群的敵軍包圍時，大概就沒有什麼生存的機會了。
           </p>
           <p>
             與<nuxt-link to="/units/Monk">僧侶</nuxt-link>或<nuxt-link
               to="/units/Spearman"
               >槍兵</nuxt-link
-            >的配合是一個絕佳組合，因為可以相輔相成。而僧投(僧侶+投石車)戰術更是經典中的經典。
+            >的配合是一個絕佳組合，因為可以相輔相成。而僧投(<nuxt-link
+              to="/units/Monk"
+              >僧侶</nuxt-link
+            >+投石車)戰術更是經典中的經典。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -102,14 +124,17 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">攻擊力</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Attack">攻擊力</nuxt-link>
+            </td>
             <td class="tta4">
               <img
                 class="gg"
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。 <br />
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。 <br />
               <img
                 class="gg"
                 src="~assets/Chemistry.jpg"
@@ -133,7 +158,8 @@
                 src="~assets/Siegeengineers.jpg"
                 alt=""
               /><nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-              >:對建築物攻擊加成+20%。 <br />
+              >:對<nuxt-link to="/armor/Armor_Class_Building">建築物</nuxt-link
+              >攻擊加成+20%。 <br />
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Shinkichon"
                 >神機箭</nuxt-link
@@ -161,7 +187,9 @@
             </td>
           </tr>
           <tr>
-            <td class="tta1" style="width:10%">招降抵抗</td>
+            <td class="tta1" style="width:10%">
+              <nuxt-link to="/elements/Conversion">招降</nuxt-link>抵抗
+            </td>
             <td class="tta4">
               <img class="gg" src="~assets/Faith.jpg" alt="" /><nuxt-link
                 to="/techs/Faith"
@@ -181,7 +209,8 @@
         <h3>剋輕型投石車的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對輕型投石車的額外傷害，按造傷殺力排列。
+          以下單位擁有對<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
+          >的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -351,16 +380,22 @@
               >：輕型投石車生產速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：科技在帝王時代便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：科技在<nuxt-link
+                to="/techs/age/Imperial_Age"
+                >帝王時代</nuxt-link
+              >便宜20%。
             </li>
             <li>
-              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-              >：攻城器單位攻擊速度快25%(科技樹寫20%是錯的!)
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
+                to="/units/Siege_Weapons"
+                >攻城器單位</nuxt-link
+              ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link
+              >快25%(<nuxt-link to="/tree/vie">科技樹</nuxt-link>寫20%是錯的!)
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-              >：輕型投石車黃金成本減少15%。
+              >：輕型投石車<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本減少15%。
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
@@ -406,7 +441,11 @@
             </h3>
             <ul>
               <li>輕型投石車現在移動速度增加到0.6。</li>
-              <li>輕型投石車對攻城武器有+12的攻擊。</li>
+              <li>
+                輕型投石車對<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                  >攻城武器</nuxt-link
+                >有+12的攻擊。
+              </li>
               <li>
                 <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:引進<nuxt-link
                   to="/techs/Drill"
@@ -420,8 +459,10 @@
                 >：給予投石車+2的射程，到了1.0c版效果減少為1。
               </li>
               <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-                >的團隊加分讓投石車有+1射程。
+                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>的<nuxt-link
+                  to="/elements/Team_Bonus"
+                  >團隊加分</nuxt-link
+                >讓投石車有+1射程。
               </li>
             </ul>
             <h3>
@@ -451,7 +492,8 @@
           <div class="n1">
             <ul>
               <li>
-                在失落的帝國之前，投石車研發<nuxt-link to="/techs/Chemistry"
+                在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                >之前，投石車研發<nuxt-link to="/techs/Chemistry"
                   >化學</nuxt-link
                 >會變弱，投擲速度從3.5降低到2.9。
               </li>
@@ -485,11 +527,17 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              投石機或稱拋石機、「
-              回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的城牆、城內或者兵陣內而造成破壞。
+              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>或稱拋石機、「
+              回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >、城內或者兵陣內而造成破壞。
             </p>
             <p>
-              漢語的「砲」便是古漢語動詞「拋」的名詞形式，這種通過聲調改變詞性的手段被稱為四聲別義。「砲」原指投石機與其彈，唐後也指由投石機發射的燃燒物，宋後也指由投石機發射的縱火物與爆裂物，明後也指大型管身火器。宋代之前「砲」與「炮」不同義，「炮」只有「燒烤」的意思，宋代之後「炮」逐漸有「砲」的意思。就連「火砲」一詞最初也是指發射燃燒物或爆裂物投石機與其砲彈，明後才也指大型管身火器。
+              漢語的「砲」便是古漢語動詞「拋」的名詞形式，這種通過聲調改變詞性的手段被稱為四聲別義。「砲」原指投石機與其彈，唐後也指由投石機發射的燃燒物，宋後也指由投石機發射的縱火物與爆裂物，明後也指大型管身火器。宋代之前「砲」與「炮」不同義，「炮」只有「燒烤」的意思，宋代之後「炮」逐漸有「砲」的意思。就連「<nuxt-link
+                to="/units/Bombard_Cannon"
+                >火砲</nuxt-link
+              >」一詞最初也是指發射燃燒物或爆裂物投石機與其砲彈，明後才也指大型管身火器。
             </p>
           </div>
         </div>
@@ -520,7 +568,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">所有文明</td>
           </tr>
           <tr>
@@ -570,7 +618,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">血量</td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
+            </td>
             <td class="unit4">50</td>
           </tr>
           <tr>
@@ -621,7 +671,7 @@
             <td class="unit4">0</td>
           </tr>
           <tr>
-            <td class="unit3">遠防</td>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
             <td class="unit4">6</td>
           </tr>
           <tr>
@@ -637,7 +687,7 @@
             <td class="unit4">0.6</td>
           </tr>
           <tr>
-            <td class="unit3">視野</td>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
             <td class="unit4">9</td>
           </tr>
           <tr>
@@ -657,7 +707,11 @@
           <tr>
             <td class="unit3">升級成本</td>
             <td class="unit4">
-              <img class="gg" src="~assets/Onager-research.jpg" alt="" />800食物
+              <img
+                class="gg"
+                src="~assets/Onager-research.jpg"
+                alt=""
+              />800<nuxt-link to="/resource/Food">食物</nuxt-link>
               500黃金
             </td>
           </tr>

@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            弓兵環甲可於<nuxt-link to="/techs/age/Imperial_Age"
+            <b>弓兵環甲</b>可於<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
-            >研發，可讓遠程護甲+1/+2。
+            >研發，可讓<nuxt-link to="/armor">遠程護甲</nuxt-link>+1/+2。
           </p>
         </div>
         <h3>文明可研發與否</h3>
@@ -76,12 +76,16 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：該科技在帝王時代花費便宜20%。
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link>：該<nuxt-link
+                to="/techs"
+                >科技</nuxt-link
+              >在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >花費便宜20%。
             </li>
             <li>
               <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：研發該科技不需要黃金。
+              >：研發該科技不需要<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >。
             </li>
           </ul>
         </div>
@@ -122,12 +126,16 @@
         <div class="n1">
           <ul>
             <li>
-              哥德衛隊(Huskarls)也被稱為“Housecarls”，普遍存在於十一世紀薩克森和諾爾斯軍閥的隨從之中。
+              <nuxt-link to="/units/Huskarl">哥德衛隊</nuxt-link
+              >(Huskarls)也被稱為“Housecarls”，普遍存在於十一世紀薩克森和諾爾斯軍閥的隨從之中。
             </li>
             <li>
               美術圖中描繪的環甲（把金屬環織入由布料或皮革製成的服裝）並不一定是在遊戲的時間範圍內存在。因為沒有任何已知的例子，或是歷史描述（例如巴約掛毯中的）有類似這類鎖甲的描述。
             </li>
-            <li>弓箭手幾乎比騎士的社會地位低，因此無法有這類盔甲可穿。</li>
+            <li>
+              弓箭手幾乎比<nuxt-link to="/units/Knight">騎士</nuxt-link
+              >的社會地位低，因此無法有這類盔甲可穿。
+            </li>
             <li>全套鎖甲非常笨重，對弓箭手的機動性和開火速率有負面影響。</li>
           </ul>
         </div>
@@ -163,7 +171,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
             <td class="unit4">請看分類</td>
           </tr>
           <tr>
@@ -198,7 +206,9 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">食物</td>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
             <td class="unit4">250</td>
           </tr>
           <tr>

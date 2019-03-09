@@ -20,7 +20,7 @@
             </p>
           </div>
           <p>
-            法蘭切斯科一世·斯福爾扎（義大利語：Francesco I
+            <b>法蘭切斯科一世·斯福爾扎</b>（義大利語：Francesco I
             Sforza，1401年7月23日聖米尼亞托 -
             1466年3月8日米蘭）是一位義大利僱傭兵首領、米蘭公爵，也是斯福爾扎家族在米蘭統治的開創者。
           </p>
@@ -52,14 +52,24 @@
         </div>
         <h3>英雄</h3>
         <div class="hrn1"></div>
-        <div class="n1"><p>斯福爾札在戰役的中為義大利傭兵型態</p></div>
+        <div class="n1">
+          <p>
+            斯福爾札在<nuxt-link to="/batt">戰役</nuxt-link>的中為<nuxt-link
+              to="/units/Condottiero"
+              >義大利傭兵</nuxt-link
+            >型態
+          </p>
+        </div>
         <h3>關卡</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <div class="row">
             <div class="col-md-12">
               <p>
-                斯福爾札戰役由5個關卡組成。玩家扮演的是義大利人，顏色是藍色的。
+                斯福爾札戰役由5個關卡組成。玩家扮演的是<nuxt-link
+                  to="/civs/Italians"
+                  >義大利人</nuxt-link
+                >，顏色是藍色的。
               </p>
             </div>
             <div class="col-md-6">
@@ -98,8 +108,13 @@
             <p>斯福爾札戰役戰役的其他資訊</p>
             <ul>
               <li>
-                此戰役章節原預計為失落帝國戰役中編號第5章的戰役，
-                但由於當時黃金國戰役給予外包商製作未能趕上2013年HD版失落帝國首發戰役之一，故此章編號改為第4。
+                此戰役章節原預計為<nuxt-link to="/batt/Battles_of_the_Forgotten"
+                  >失落帝國戰役</nuxt-link
+                >中編號第5章的戰役， 但由於當時<nuxt-link to="/batt/El_Doradoa"
+                  >黃金國戰役</nuxt-link
+                >給予外包商製作未能趕上2013年HD版<nuxt-link to="/games/aof"
+                  >失落帝國</nuxt-link
+                >首發戰役之一，故此章編號改為第4。
               </li>
             </ul>
           </div>
@@ -127,15 +142,21 @@
           </tr>
           <tr>
             <td class="unit3">遊戲版本</td>
-            <td class="unit4">失落的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">文明</td>
-            <td class="unit4">義大利</td>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/civs/Italians">義大利</nuxt-link>
+            </td>
           </tr>
           <tr>
-            <td class="unit3">英雄</td>
-            <td class="unit4">斯福爾札</td>
+            <td class="unit3"><nuxt-link to="/units/hero">英雄</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/units/hero/Francesco_Sforza">斯福爾札</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">關卡</td>
