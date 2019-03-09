@@ -16,7 +16,7 @@
               >步兵</nuxt-link
             >。加查·馬達不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>加查·馬達即使在戰役中死亡遊戲也還不會宣告失敗。</p>
           <h3>歷史</h3>

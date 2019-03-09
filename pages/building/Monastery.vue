@@ -13,7 +13,7 @@
             >可以蓋的<nuxt-link to="/building">建築</nuxt-link
             >。修道院可訓練<nuxt-link to="/units/Monk">僧侶</nuxt-link>和
             <nuxt-link to="/units/Missionary">傳教士</nuxt-link
-            >與強化他們。<nuxt-link to="/Relic">遺跡</nuxt-link>
+            >與強化他們。<nuxt-link to="/elements/Relic">遺跡</nuxt-link>
             可放入修道院生產<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >。該注意的，修道院不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
@@ -43,7 +43,8 @@
             >），所以即使玩家不使用僧侶也建議蓋修道院。
           </p>
           <p>
-            修道院也具有經濟價值。每個修道院可以容納10個<nuxt-link to="/Relic"
+            修道院也具有經濟價值。每個修道院可以容納10個<nuxt-link
+              to="/elements/Relic"
               >遺跡</nuxt-link
             >，每個遺跡都會持續生產黃金。特別是在單挑的比賽中，遺跡通常是後期當黃金耗盡後獲得黃金的唯一途徑。通常情況下，擁有最多遺跡的玩家贏得長時間的遊戲。
           </p>
@@ -508,7 +509,9 @@
             <td class="unit4"><p>所有時代:2100</p></td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/Garrison">駐軍</nuxt-link></td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Garrison">駐軍</nuxt-link>
+            </td>
             <td class="unit4"><p>所有時代:10</p></td>
           </tr>
           <tr>

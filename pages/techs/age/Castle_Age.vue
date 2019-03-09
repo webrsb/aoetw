@@ -137,7 +137,7 @@
               /><nuxt-link to="/units/Monk">僧侶</nuxt-link
               >：用於治療部隊，<nuxt-link to="/elements/Conversion"
                 >招降</nuxt-link
-              >敵人與收集<nuxt-link to="/Relic">遺跡</nuxt-link>。
+              >敵人與收集<nuxt-link to="/elements/Relic">遺跡</nuxt-link>。
             </li>
             <li>
               <img

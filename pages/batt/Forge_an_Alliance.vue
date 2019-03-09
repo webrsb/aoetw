@@ -11,7 +11,8 @@
             <b>締結同盟</b>是華勒斯教學<nuxt-link to="/batt">戰役</nuxt-link
             >的第六個劇情關卡，此關教導玩家如何控制<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
-            >，拿取<nuxt-link to="/Relic">遺跡</nuxt-link>以及和盟友結盟貿易等。
+            >，拿取<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+            >以及和盟友結盟貿易等。
           </p>
         </div>
         <h2>玩家</h2>

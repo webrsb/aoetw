@@ -28,7 +28,7 @@
             <strong><nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>：</strong>
             <ul>
               <li>
-                <nuxt-link to="/Relic">遺跡</nuxt-link>生產的<nuxt-link
+                <nuxt-link to="/elements/Relic">遺跡</nuxt-link>生產的<nuxt-link
                   to="/resource/Gold"
                   >黃金</nuxt-link
                 >快33％。

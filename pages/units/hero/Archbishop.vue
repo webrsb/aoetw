@@ -16,13 +16,13 @@
             >的外表出現，但是他的能力值更高。作為一個英雄單位，大主教無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且可以自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >且可以自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >（在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>資料片之後）。
           </p>
           <p>
             所有跟<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >相關的升級和加成對大主教通通有效。如果大主教撿起了<nuxt-link
-              to="/Relic"
+              to="/elements/Relic"
               >遺跡</nuxt-link
             >，會出現bug使他變成一般的
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>。

@@ -25,7 +25,7 @@
             >的升級及加成影響。由於他是一名<nuxt-link to="/units/hero"
               >英雄</nuxt-link
             >，因此不會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>

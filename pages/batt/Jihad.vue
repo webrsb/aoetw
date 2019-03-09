@@ -123,7 +123,7 @@
             <li>
               除了主要目標之外，建立一座<nuxt-link to="/building/Wonder"
                 >世界奇觀</nuxt-link
-              >，或者奪取所有<nuxt-link to="/Relic">遺跡</nuxt-link
+              >，或者奪取所有<nuxt-link to="/elements/Relic">遺跡</nuxt-link
               >，也能贏得這個關卡。
             </li>
             <li>

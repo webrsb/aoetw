@@ -24,7 +24,7 @@
             >與加成對崔斯坦也有效。作為一個英雄單位，他無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             崔斯坦是來自於<nuxt-link to="/civs/Britons">英國</nuxt-link

@@ -18,7 +18,7 @@
             >。由於他屬於英雄單位，所以無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >，也會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >，也會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >（自《<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
             >》以後）。他和其他<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link

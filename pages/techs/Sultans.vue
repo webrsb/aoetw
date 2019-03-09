@@ -12,7 +12,8 @@
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
             >，可於<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link>在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >研發。研發後從採礦、貿易、<nuxt-link to="/Relic">遺跡</nuxt-link
+            >研發。研發後從採礦、貿易、<nuxt-link to="/elements/Relic"
+              >遺跡</nuxt-link
             >收集<nuxt-link to="/resource/Gold">黃金</nuxt-link>的速度快10%。
           </p>
         </div>

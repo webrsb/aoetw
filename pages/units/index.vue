@@ -69,7 +69,7 @@
           <tr>
             <td>
               <div class="unititle">
-                <img src="~assets/Barracks-logo.jpg" alt="" />
+                <img width="45" src="~assets/Barracks-logo.jpg" alt="" />
               </div>
             </td>
           </tr>

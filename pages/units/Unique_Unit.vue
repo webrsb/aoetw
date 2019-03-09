@@ -407,7 +407,7 @@
             </td>
             <td class="tunitc6">
               <nuxt-link to="/building/Monastery">修道院</nuxt-link
-              >中生產，無法拿<nuxt-link to="/Relic">遺跡</nuxt-link
+              >中生產，無法拿<nuxt-link to="/elements/Relic">遺跡</nuxt-link
               >，且治療與<nuxt-link to="/elements/Conversion">招降</nuxt-link
               >能力皆不足<nuxt-link to="/units/Monk">僧侶</nuxt-link
               >，但移動速度快。

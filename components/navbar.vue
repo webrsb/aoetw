@@ -16,18 +16,16 @@
         <b-nav-item to="/batt">戰役</b-nav-item>
         <b-nav-item to="/ar">戰術技巧</b-nav-item>
         <b-nav-item-dropdown text="遊戲元素">
-          <b-dropdown-item to="/armor">護甲分類</b-dropdown-item>
-          <b-dropdown-item to="/Regeneration">回血</b-dropdown-item>
-          <b-dropdown-item to="/Garrison">駐軍</b-dropdown-item>
+          <b-dropdown-item to="/armor">防禦類型</b-dropdown-item>
+          <b-dropdown-item to="/elements//Regeneration">回血</b-dropdown-item>
+          <b-dropdown-item to="/elements//Garrison">駐軍</b-dropdown-item>
           <b-dropdown-item to="/elements/Hit_points">血量</b-dropdown-item>
           <b-dropdown-item to="/elements/Attack">攻擊</b-dropdown-item>
           <b-dropdown-item to="/elements/Rate_of_Fire">射速</b-dropdown-item>
           <b-dropdown-item to="/elements/Frame_delay">開火間隔</b-dropdown-item>
-          <b-dropdown-item to="/elements/Area_of_Effect"
-            >擴散範圍</b-dropdown-item
-          >
+          <b-dropdown-item to="/elements/Area_of_Effect">擴散範圍</b-dropdown-item>
           <b-dropdown-item to="/elements/Team_Bonus">團隊加分</b-dropdown-item>
-          <b-dropdown-item to="/Taunts">嘲諷語音</b-dropdown-item>
+          <b-dropdown-item to="/elements//Taunts">嘲諷語音</b-dropdown-item>
         </b-nav-item-dropdown>
         <b-nav-item-dropdown text="資訊">
           <b-dropdown-item to="/top">世界知名玩家</b-dropdown-item>

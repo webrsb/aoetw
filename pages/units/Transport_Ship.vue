@@ -13,7 +13,7 @@
             <br />它<nuxt-link to="/elements/Hit_points">血量</nuxt-link
             >偏低，但它擁有較高的<nuxt-link to="/units/Archer_Units"
               >遠程</nuxt-link
-            >防禦。但如果它沉沒了，你所有的<nuxt-link to="/Garrison"
+            >防禦。但如果它沉沒了，你所有的<nuxt-link to="/elements/Garrison"
               >駐軍</nuxt-link
             >都會死亡。因此，最好用<nuxt-link to="/units/Galley">戰船</nuxt-link
             >或者是
@@ -47,9 +47,10 @@
             >，其中的駐軍並不會被招降，玩家必須要摧毀運輸船才可以殺死敵方單位。另一個涉及運輸船的策略是利用這個戰術，把敵人的駐軍留在裡面，因為敵人無法使用，所以導致敵人會卡人口並無人可用。
           </p>
           <p>
-            值得一提的是，搬有 <nuxt-link to="/Relic">遺跡</nuxt-link>的
+            值得一提的是，搬有
+            <nuxt-link to="/elements/Relic">遺跡</nuxt-link>的
             <nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >要是在運輸船中，而船被摧毀時，<nuxt-link to="/Relic"
+            >要是在運輸船中，而船被摧毀時，<nuxt-link to="/elements/Relic"
               >遺跡</nuxt-link
             >則會回到原本<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >上船的地方。

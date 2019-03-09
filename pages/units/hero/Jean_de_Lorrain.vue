@@ -17,10 +17,9 @@
             >"巴黎攻城戰"和戰役編輯器中找到。洛林的約翰是以馬克·吐溫的小說“聖女貞德的個人回憶”的洛林的約翰為基礎的。他被形容為“著名的砲手”，約翰二世更邀請他參與攻擊英軍的圍城行動。由於他屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>(在<nuxt-link
-              to="/units/Conquistador"
-              >征服者</nuxt-link
-            >資料片後) 。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
+            >(在<nuxt-link to="/units/Conquistador">征服者</nuxt-link>資料片後)
+            。
           </p>
           <p></p>
         </div>

@@ -34,7 +34,7 @@
           <p>
             作為一個英雄單位，他無法被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >。和其他僧侶單位一樣，伊滿會受到所有影響僧侶的升級及加成影響。
           </p>
         </div>

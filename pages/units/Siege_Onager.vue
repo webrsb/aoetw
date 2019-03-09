@@ -120,7 +120,8 @@
               to="/units/Siege_Onager"
               >重型投石車</nuxt-link
             >與<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >對丟，運氣好可能會一臺換對方2~3臺，<nuxt-link to="/Garrison"
+            >對丟，運氣好可能會一臺換對方2~3臺，<nuxt-link
+              to="/elements/Garrison"
               >駐軍</nuxt-link
             >滿載的<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
             >也是一種破解的方法，若敵方已經將

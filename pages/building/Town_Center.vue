@@ -622,7 +622,9 @@
             <td class="unit4"><p>所有時代:2400</p></td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/Garrison">駐軍</nuxt-link></td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Garrison">駐軍</nuxt-link>
+            </td>
             <td class="unit4"><p>所有時代:15</p></td>
           </tr>
           <tr>

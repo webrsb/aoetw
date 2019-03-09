@@ -258,7 +258,8 @@
               <img src="~assets/Unique-tech.jpg" class="gg" alt="" /><nuxt-link
                 to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
-              >:駱駝部隊獲得<nuxt-link to="/Regeneration">回血</nuxt-link
+              >:駱駝部隊獲得<nuxt-link to="/elements/Regeneration"
+                >回血</nuxt-link
               >能力(每分鐘回15 HP)，<nuxt-link to="/civs/Berbers"
                 >柏柏</nuxt-link
               >限定

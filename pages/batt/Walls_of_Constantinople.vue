@@ -177,7 +177,7 @@
                   >城鎮中心</nuxt-link
                 >。一旦菲利普堡被擊敗了，就派兩個<nuxt-link to="/units/Monk"
                   >僧侶</nuxt-link
-                >去取得<nuxt-link to="/Relic">遺跡</nuxt-link
+                >去取得<nuxt-link to="/elements/Relic">遺跡</nuxt-link
                 >。君士坦丁堡城郊有個<nuxt-link to="/building/Monastery"
                   >修道院</nuxt-link
                 >，可以摧毀它來得到供品。

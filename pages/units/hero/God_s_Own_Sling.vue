@@ -24,7 +24,7 @@
             神之弓在組裝後屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/Regeneration">回血</nuxt-link
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >，裝甲也是2/8而不是像一般的巨投是1/150。組裝狀態的神之弓有300HP，未組裝的則是150HP(未組裝的HP都是未組裝狀態時的一半)。另外在未組裝狀態下的神之弓不能回血也可以被招降，<nuxt-link
               to="/elements/Attack"
               >攻擊力</nuxt-link

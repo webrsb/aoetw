@@ -27,9 +27,8 @@
             >的傷害力也更強。它的外觀是爆炸桶，由於他屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>(在<nuxt-link
-              to="/units/Conquistador"
-              >征服者</nuxt-link
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
+            >(在<nuxt-link to="/units/Conquistador">征服者</nuxt-link
             >資料片後)。
           </p>
           <p></p>

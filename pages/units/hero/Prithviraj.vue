@@ -28,7 +28,7 @@
                 >英雄</nuxt-link
               >單位，他無法被<nuxt-link to="/elements/Conversion"
                 >招降</nuxt-link
-              >且能自動<nuxt-link to="/Regeneration">回血</nuxt-link
+              >且能自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
               >。他也可在<nuxt-link to="/batt">戰役</nuxt-link>編輯器中使用。
             </p>
             <p>在他的同名戰役中，他出現的形象共有以下三種：</p>

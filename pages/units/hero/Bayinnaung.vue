@@ -20,7 +20,7 @@
             >，不過有更高的HP和攻擊。勃印曩不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <h3>歷史</h3>

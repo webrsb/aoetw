@@ -233,7 +233,7 @@
               <li>
                 還沒找到<nuxt-link to="/units/Monk">僧侶</nuxt-link
                 >單位時，可將傷兵退回托洛城（綠），尋求綠色僧侶<nuxt-link
-                  to="/Regeneration"
+                  to="/elements/Regeneration"
                   >回血</nuxt-link
                 >幫助。
               </li>

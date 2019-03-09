@@ -184,7 +184,8 @@
                     到營地之後，會送你8隻馬利騎士，因為這8隻是<nuxt-link
                       to="/units/hero"
                       >英雄</nuxt-link
-                    >，會自己<nuxt-link to="/Regeneration">回血</nuxt-link
+                    >，會自己<nuxt-link to="/elements/Regeneration"
+                      >回血</nuxt-link
                     >，還有8點<nuxt-link to="/armor">遠防</nuxt-link
                     >，拆塔靠他們就行了，所以一開始獲得的資源全都拿來造一些馬弓，可以拉打無損換血～
                   </li>

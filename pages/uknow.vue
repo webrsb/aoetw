@@ -172,7 +172,9 @@
               >放的箭最多?
             </li>
             <li>
-              為什麼多數玩家實戰中<nuxt-link to="/Relic">不常撿遺跡</nuxt-link>?
+              為什麼多數玩家實戰中<nuxt-link to="/elements/Relic"
+                >不常撿遺跡</nuxt-link
+              >?
             </li>
           </ul>
         </div>

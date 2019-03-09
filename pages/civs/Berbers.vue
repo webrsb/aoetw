@@ -103,7 +103,7 @@
                 to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
               >(<nuxt-link to="/armor/Armor_Class_Camel">駱駝單位</nuxt-link
-              >會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+              >會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
               >)，因此使用駱駝會比較好。
             </li>
             <li>

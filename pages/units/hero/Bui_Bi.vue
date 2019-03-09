@@ -13,7 +13,7 @@
               to="/units/Monk"
               >僧侶</nuxt-link
             >。裴備不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             裴備有跟僧侶一樣的功能，但他不會受到<nuxt-link

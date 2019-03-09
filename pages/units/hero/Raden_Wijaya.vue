@@ -22,7 +22,7 @@
               >科技</nuxt-link
             >的影響，他不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             羅登·韋查耶，爪哇國王，1293-1309年在位，麻諾巴歇王國的創立者。建立麻諾巴歇的歷史在好幾種資料中有記載，包括《諸王之史》、《純潔的國度》。其統治中的最重要事件便是擊敗忽必烈統帥下的元朝軍隊。

@@ -43,7 +43,7 @@
             <li>
               如果玩家通過“
               <nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>”或“
-              <nuxt-link to="/Relic">遺跡</nuxt-link
+              <nuxt-link to="/elements/Relic">遺跡</nuxt-link
               >”尋求勝利，則垛牆將成為防禦的重要元素，因為它們將有助於阻止敵隊攻擊<nuxt-link
                 to="/building/Wonder"
                 >世界奇觀</nuxt-link

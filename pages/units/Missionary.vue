@@ -16,7 +16,7 @@
             <nuxt-link to="/building/Monastery">修道院</nuxt-link
             >進行訓練。但不像
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>，它無法撿<nuxt-link
-              to="/Relic"
+              to="/elements/Relic"
               >遺跡</nuxt-link
             >。
           </p>
@@ -28,7 +28,8 @@
             與<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >一樣，傳教士能夠治療單位以及<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >敵方單位，但是不能拾取<nuxt-link to="/Relic">遺跡</nuxt-link
+            >敵方單位，但是不能拾取<nuxt-link to="/elements/Relic"
+              >遺跡</nuxt-link
             >，且治療速度只有僧侶的一半（每0.8秒1
             HP而不是0.4秒）。它可以移動得相當快，使它幾乎可以從<nuxt-link
               to="/units/Knight"
@@ -52,7 +53,7 @@
             對於<nuxt-link to="/civs/Spanish">西班牙人</nuxt-link
             >來說，<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             >傳教士給西班牙人更多的戰術靈活性，特別是在進攻和後期遊戲<nuxt-link
-              to="/Relic"
+              to="/elements/Relic"
               >遺跡</nuxt-link
             >已被收集完的時候。
           </p>

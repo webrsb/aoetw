@@ -22,10 +22,9 @@
             >砲兵指揮官和圍城工程師。他在決定性的卡斯蒂隆戰役中為法國贏得了最後的勝利。它的外觀是火砲彈有更優越的做戰能力，由於他屬於英雄單位，因此不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>(在<nuxt-link
-              to="/units/Conquistador"
-              >征服者</nuxt-link
-            >資料片後) 。
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
+            >(在<nuxt-link to="/units/Conquistador">征服者</nuxt-link>資料片後)
+            。
           </p>
           <p></p>
         </div>

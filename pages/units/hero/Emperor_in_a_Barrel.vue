@@ -19,7 +19,7 @@
             >的屍體。十字軍的目標就是將皇帝帶回被穆斯林所佔領的耶路撒冷並將他在圓頂清真寺入葬。作為一個英雄單位，他無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且可以自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >且可以自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >（在<nuxt-link to="/games/aoc">征服者入侵</nuxt-link>資料片之後）。
           </p>
           <p>

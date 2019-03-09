@@ -147,7 +147,7 @@
                   </li>
                   <li>
                     這裡有一個偷吃步，由於你的英雄會<nuxt-link
-                      to="/Regeneration"
+                      to="/elements/Regeneration"
                       >回血</nuxt-link
                     >，還有3點<nuxt-link to="/armor">遠防</nuxt-link
                     >，所以<nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link

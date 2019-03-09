@@ -12,7 +12,7 @@
           >場景中出現。在那裡，他們往往是必須生存的單位，即他們的死亡意味著失敗。在征服者資料片之後所有英雄都不能被<nuxt-link
             to="/elements/Conversion"
             >招降</nuxt-link
-          >，並獲得<nuxt-link to="/Regeneration">回血</nuxt-link
+          >，並獲得<nuxt-link to="/elements/Regeneration">回血</nuxt-link
           >的能力。英雄往往有獨特的外貌，有時甚至有獨特的單位設定，他們通常有很好的戰鬥屬性，這使他們在遊戲中非常有價值。
         </p>
       </div>

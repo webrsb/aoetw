@@ -124,9 +124,9 @@
           <div class="nw">
             <h4 style="margin-top:30px;"><strong>每周精選</strong></h4>
             <ul>
-              <li><nuxt-link to="/Taunts">嘲諷語音</nuxt-link></li>
-              <li><nuxt-link to="/Regeneration">回血</nuxt-link></li>
-              <li><nuxt-link to="/Garrison">駐軍</nuxt-link></li>
+              <li><nuxt-link to="/elements/Taunts">嘲諷語音</nuxt-link></li>
+              <li><nuxt-link to="/elements/Regeneration">回血</nuxt-link></li>
+              <li><nuxt-link to="/elements/Garrison">駐軍</nuxt-link></li>
               <li><nuxt-link to="/building/Wonder">世界奇觀</nuxt-link></li>
             </ul>
           </div>

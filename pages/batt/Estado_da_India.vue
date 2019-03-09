@@ -205,7 +205,8 @@
               <li>
                 關卡初始擊退紅色後，儘快蓋起<nuxt-link to="/building/Gate"
                   >城門</nuxt-link
-                >並鎖定，村民初期很珍貴，若閒置時建議<nuxt-link to="/Garrison"
+                >並鎖定，村民初期很珍貴，若閒置時建議<nuxt-link
+                  to="/elements/Garrison"
                   >駐軍</nuxt-link
                 ><nuxt-link to="/building/Watch_Tower">箭塔</nuxt-link>。
               </li>

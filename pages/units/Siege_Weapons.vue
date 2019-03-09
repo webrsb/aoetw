@@ -831,8 +831,8 @@
                 </td>
                 <td class="tunitc5">750F 400G</td>
                 <td class="tunitc6">
-                  <nuxt-link to="/units/Trebuchet">巨型投石機(組裝)</nuxt-link
-                  >/拆解速度加快。
+                  <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+                  >組裝/拆裝速度加快。
                 </td>
               </tr>
               <tr>

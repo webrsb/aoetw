@@ -256,16 +256,18 @@
                 /><nuxt-link to="/units/Fast_Fire_Ship">快速火戰船</nuxt-link>
               </li>
               <li>
-                <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                  to="/units/Longboat"
-                  >維京大戰船</nuxt-link
-                >
+                <img
+                  class="gg"
+                  src="~assets/LongboatIcon.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link>
               </li>
               <li>
-                <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
-                  to="/units/Caravel"
-                  >卡拉維爾戰船</nuxt-link
-                >
+                <img
+                  class="gg"
+                  src="~assets/CaravelIcon2.jpg"
+                  alt=""
+                /><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link>
               </li>
             </ul>
             <li>
@@ -431,8 +433,11 @@
                 船
                 <ul>
                   <li>
-                    <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
-                      to="/units/Elite_Caravel"
+                    <img
+                      class="gg"
+                      src="~assets/CaravelIcon2.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Caravel"
                       >精銳卡拉維爾戰船</nuxt-link
                     >（10）
                   </li>
@@ -446,8 +451,11 @@
                     >（9）
                   </li>
                   <li>
-                    <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                      to="/units/Elite_Longboat"
+                    <img
+                      class="gg"
+                      src="~assets/LongboatIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Longboat"
                       >精銳維京大戰船</nuxt-link
                     >（9）
                   </li>
@@ -460,8 +468,11 @@
                     >（9）
                   </li>
                   <li>
-                    <img src="~assets/CannonGalleonIcon.jpg" alt="" /><nuxt-link
-                      to="/units/Elite_Cannon_Galleon"
+                    <img
+                      class="gg"
+                      src="~assets/CannonGalleonIcon.jpg"
+                      alt=""
+                    /><nuxt-link to="/units/Elite_Cannon_Galleon"
                       >精銳火砲戰船</nuxt-link
                     >（9）
                   </li>
@@ -561,7 +572,7 @@
                     /><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link>
                   </td>
                   <td class="tunitc4">
-                    <nuxt-link to="/building/Castle">城堡</nuxt-link>
+                    城堡
                   </td>
                   <td class="tunitc5">250F 150G</td>
                   <td class="tunitc6">
@@ -775,10 +786,10 @@
               <table class="table-bordered table-striped" width="100%">
                 <tr>
                   <td class="tunitcc" style="width: 15%;">
-                    <nuxt-link to="/civs">文明</nuxt-link>
+                    文明
                   </td>
                   <td class="tunitcc" style="width: 10%;">
-                    <nuxt-link to="/techs/untech">特殊科技</nuxt-link>
+                    特殊科技
                   </td>
                   <td class="tunitcc" style="width: 15%;">花費</td>
                   <td class="tunitcc">影響</td>
@@ -919,7 +930,7 @@ export default {
       title: '護甲 - Aoetw'
     }
   },
-  layout: '',
+  layout: 'allen',
   components: {}
 }
 </script>

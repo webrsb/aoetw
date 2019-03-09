@@ -33,7 +33,7 @@
             >的加成影響，由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link>
             。由於此英雄的獨特性(攻速奇快、跑速奇快、是步兵但攻擊卻是遠距離)，讓他成為許多戰役編輯器用戶的愛用英雄。
           </p>
         </div>

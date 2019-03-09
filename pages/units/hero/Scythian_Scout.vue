@@ -29,7 +29,7 @@
               >馬利</nuxt-link
             ><nuxt-link to="/units/Knight">騎士</nuxt-link
             >)，他們有傑出的<nuxt-link to="/armor">遠防</nuxt-link>和<nuxt-link
-              to="/Regeneration"
+              to="/elements/Regeneration"
               >回血</nuxt-link
             >能力，是相當優秀的單位。
           </p>

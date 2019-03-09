@@ -23,7 +23,8 @@
         <div class="n1">
           <ul>
             <li>
-              馬格拉比駱駝的<nuxt-link to="/Regeneration">回血</nuxt-link
+              馬格拉比駱駝的<nuxt-link to="/elements/Regeneration"
+                >回血</nuxt-link
               >機制與<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
               >雷同，可讓<nuxt-link to="/units/Camel">駱駝騎兵</nuxt-link
               >/<nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link

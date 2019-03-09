@@ -15,7 +15,7 @@
           <p>
             劉仁澍的外表是<nuxt-link to="/units/Arbalest">強弩兵</nuxt-link
             >，他不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <h3>歷史</h3>
           <div class="hrn1"></div>

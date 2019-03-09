@@ -96,7 +96,8 @@
           <div class="n1">
             <ol>
               <li>
-                奪取真十字架的碎片（<nuxt-link to="/Relic">遺跡</nuxt-link
+                奪取真十字架的碎片（<nuxt-link to="/elements/Relic"
+                  >遺跡</nuxt-link
                 >），並把它運回海丁角（有旗子作標記）。
               </li>
             </ol>

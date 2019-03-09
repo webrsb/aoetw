@@ -39,7 +39,7 @@
               >城鎮中心</nuxt-link
             >和<nuxt-link to="/building/Castle">城堡</nuxt-link>會射箭，在
             敵人的領土內偵察得太深是危險的。每個玩家在進行一場弒君遊戲時都會先從一座城堡開始
-            ，一旦周圍環境偵察完畢，建議<nuxt-link to="/Garrison"
+            ，一旦周圍環境偵察完畢，建議<nuxt-link to="/elements/Garrison"
               >駐軍</nuxt-link
             >國王在裡面。在比賽后期，他應該永遠留在牆壁後面，並進
             入一個安全的城堡。像<nuxt-link to="/units/hero">英雄</nuxt-link

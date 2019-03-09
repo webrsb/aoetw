@@ -18,7 +18,8 @@
             ><nuxt-link to="/techs">科技</nuxt-link
             >，更便宜的研發費用，甚至連<nuxt-link to="/elements/Team_Bonus"
               >團隊加分</nuxt-link
-            >都是開場顯示<nuxt-link to="/Relic">遺跡</nuxt-link>的位置呢！
+            >都是開場顯示<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+            >的位置呢！
           </p>
           <p>
             <nuxt-link to="/civs/Chinese">中國</nuxt-link>與緬甸的<nuxt-link

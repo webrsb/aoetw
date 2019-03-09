@@ -27,7 +27,7 @@
             >的外表登場。作為一個英雄單位，他無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >。此外，他的跑速比一般的劍兵勇士略快(跑速為1，一般的劍兵勇士為0.9)。
           </p>
           <p>

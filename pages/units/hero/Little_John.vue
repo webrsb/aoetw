@@ -23,7 +23,7 @@
             >有效的升級和加成對他通通有效。做為一個英雄單位，他無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             雖然在遊戲中，小約翰的攻擊顯示為7，但實際上只有3，就跟一般的長槍兵一樣。

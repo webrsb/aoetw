@@ -106,7 +106,7 @@
                 >)。
               </li>
               <li>
-                將四個<nuxt-link to="/Relic">遺跡</nuxt-link
+                將四個<nuxt-link to="/elements/Relic">遺跡</nuxt-link
                 >分別放在四個神殿中。
               </li>
             </ol>

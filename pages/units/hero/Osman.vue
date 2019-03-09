@@ -22,7 +22,7 @@
             >的外表出現。所有對重裝馬弓騎兵有效的升級和加成對奧斯曼通通有效。作為一個英雄單位，奧斯曼無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>

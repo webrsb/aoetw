@@ -209,7 +209,7 @@
                     >火砲塔</nuxt-link
                   >、<nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link
                   >和許多弩手）。一旦玩家摧毀了阿比亞泰格拉索敵人的城鎮中心，他們就會投降。他們也有<nuxt-link
-                    to="/Relic"
+                    to="/elements/Relic"
                     >遺跡</nuxt-link
                   >，最好拿走。
                 </li>

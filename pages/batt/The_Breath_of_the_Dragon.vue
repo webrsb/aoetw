@@ -156,7 +156,8 @@
             </li>
             <li>
               一旦奪取朱爾朱，玩家將準備征服剩下的五個奧斯曼城鎮。
-              讓你的部隊駐紮在城堡<nuxt-link to="/Regeneration">回血</nuxt-link
+              讓你的部隊駐紮在城堡<nuxt-link to="/elements/Regeneration"
+                >回血</nuxt-link
               >，玩家應該征服四個小城鎮破壞敵人的物資。他們會向玩家求和，並給予資源。現在馬上在斷掉的橋和兩座建塔中間圍至少兩座牆，在<nuxt-link
                 to="/building/Dock"
                 >碼頭</nuxt-link

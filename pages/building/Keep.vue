@@ -704,7 +704,9 @@
             <td class="unit4">2250</td>
           </tr>
           <tr>
-            <td class="unit3"><nuxt-link to="/Garrison">駐軍</nuxt-link></td>
+            <td class="unit3">
+              <nuxt-link to="/elements/Garrison">駐軍</nuxt-link>
+            </td>
             <td class="unit4"><p>所有時代:5</p></td>
           </tr>
           <tr>

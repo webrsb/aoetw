@@ -287,7 +287,8 @@
             </li>
             <li>鎖定隊伍將會正確在單人遊戲關閉對敵人的進貢功能</li>
             <li>
-              <nuxt-link to="/Garrison">駐軍</nuxt-link>UI按鈕將會正確尺寸顯示
+              <nuxt-link to="/elements/Garrison">駐軍</nuxt-link
+              >UI按鈕將會正確尺寸顯示
             </li>
             <li>建築不適當的地點將會有條約警告</li>
             <li>科技樹將會在F2開啟後正確關閉</li>

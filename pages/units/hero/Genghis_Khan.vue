@@ -31,7 +31,7 @@
             >的英雄，只有在地圖編輯器與成吉思汗(戰役)中登場，但他不能被玩家控制。成吉思汗是全遊戲中最強的英雄，不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >，且會自己<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >，且會自己<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <h3>芝麻小事</h3>

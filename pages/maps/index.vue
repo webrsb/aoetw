@@ -45,7 +45,7 @@
             </ul>
           </div>
           <div class="col-md-2">
-            失落的王朝
+            <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
             <ul>
               <li><nuxt-link to="/maps/Acropolis">雅典衛城</nuxt-link></li>
               <li><nuxt-link to="/maps/Budapest">布達佩斯</nuxt-link></li>

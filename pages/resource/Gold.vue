@@ -70,7 +70,7 @@
         <div class="n1">
           <p>
             <nuxt-link to="/units/Monk">僧侶</nuxt-link>可以收集<nuxt-link
-              to="/Relic"
+              to="/elements/Relic"
               >遺跡</nuxt-link
             >放進<nuxt-link to="/building/Monastery">修道院</nuxt-link
             >，屆此產生黃金，而<nuxt-link to="/civs/Aztecs"

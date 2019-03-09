@@ -872,7 +872,7 @@
               </td>
               <td class="tunitc5">400F 400W</td>
               <td class="tunitc6">
-                挖金速度+10%；貿易黃金+10%；<nuxt-link to="/Relic"
+                挖金速度+10%；貿易黃金+10%；<nuxt-link to="/elements/Relic"
                   >遺跡</nuxt-link
                 >產金快10%。
               </td>

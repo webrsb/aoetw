@@ -72,7 +72,7 @@
               選擇性任務
               <ol>
                 <li>
-                  找到兩件<nuxt-link to="/Relic">遺跡</nuxt-link
+                  找到兩件<nuxt-link to="/elements/Relic">遺跡</nuxt-link
                   >並將他們守護在阿達哈的寺廟裏面(最東邊的有一座<nuxt-link
                     to="/building/Castle"
                     >城堡</nuxt-link

@@ -20,9 +20,8 @@
             >。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且會<nuxt-link to="/Regeneration">回血</nuxt-link>(在<nuxt-link
-              to="/units/Conquistador"
-              >征服者</nuxt-link
+            >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
+            >(在<nuxt-link to="/units/Conquistador">征服者</nuxt-link
             >資料片後)，不過回血速度跟其他英雄一樣，不因狂戰士特性有加速回血，他也會受<nuxt-link
               to="/units/Infantry_Units"
               >步兵</nuxt-link

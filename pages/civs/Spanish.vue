@@ -138,7 +138,7 @@
               alt=""
             />傳教士:移動速度較快研發科技後<nuxt-link to="/elements/Hit_points"
               >生命值</nuxt-link
-            >較高，但招降距離較短且無法拾取<nuxt-link to="/Relic"
+            >較高，但招降距離較短且無法拾取<nuxt-link to="/elements/Relic"
               >遺跡</nuxt-link
             >的僧侶單位。
           </li>

@@ -21,7 +21,7 @@
             >的外表登場。跟皇后一樣，她無法進行攻擊。作為一個英雄單位，她無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>

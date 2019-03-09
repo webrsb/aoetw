@@ -1025,7 +1025,7 @@
               <td class="tunitc5">700F 300G</td>
               <td class="tunitc6">
                 <nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
-                >部隊獲得<nuxt-link to="/Regeneration">回血</nuxt-link
+                >部隊獲得<nuxt-link to="/elements/Regeneration">回血</nuxt-link
                 >能力(每分鐘回15 HP)。
               </td>
             </tr>

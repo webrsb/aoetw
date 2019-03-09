@@ -20,7 +20,7 @@
             >來源的土地，但會有許多由金，<nuxt-link to="/resource/Stone"
               >石頭</nuxt-link
             >和<nuxt-link to="/resource/Wood">木頭</nuxt-link
-            >組成的小塊區域。<nuxt-link to="/Relic">遺跡</nuxt-link
+            >組成的小塊區域。<nuxt-link to="/elements/Relic">遺跡</nuxt-link
             >也散落在外圍。玩家必須盡快往外發展經濟，並在被敵人困住之前離開主島。
           </p>
           <p>

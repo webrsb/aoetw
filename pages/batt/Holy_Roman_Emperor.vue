@@ -113,7 +113,7 @@
                 to="/units/Crossbowman"
                 >弩兵</nuxt-link
               >和<nuxt-link to="/units/Skirmisher">矛兵</nuxt-link
-              >以及少數騎士。建議首先奪取勃艮第的<nuxt-link to="/Relic"
+              >以及少數騎士。建議首先奪取勃艮第的<nuxt-link to="/elements/Relic"
                 >遺跡</nuxt-link
               >。它們也是地圖上唯一的西歐<nuxt-link to="/civs">文明</nuxt-link
               >。

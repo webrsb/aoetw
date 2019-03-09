@@ -208,7 +208,7 @@
                 width="30"
                 alt=""
               /><nuxt-link to="/techs/Atheism">無神論</nuxt-link>(<nuxt-link
-                to="/Relic"
+                to="/elements/Relic"
                 >遺跡</nuxt-link
               >和世界奇觀的勝利時間延長100年，<nuxt-link to="/techs/Spies"
                 >間諜</nuxt-link

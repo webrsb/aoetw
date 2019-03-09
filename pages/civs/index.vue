@@ -96,7 +96,7 @@
                 <nuxt-link to="/games/aof"
                   ><img
                     src="~assets/ForgottenIcon.png"
-                  />世紀帝國II：失落的帝國</nuxt-link
+                  />失落的帝國</nuxt-link
                 >
               </div>
             </td>

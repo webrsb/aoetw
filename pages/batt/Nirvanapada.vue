@@ -214,7 +214,7 @@
                     </li>
                     <li>
                       經濟來源除了參佛齊納貢、例行採礦之外，<nuxt-link
-                        to="/Relic"
+                        to="/elements/Relic"
                         >遺跡</nuxt-link
                       >也是一大重點。
                     </li>

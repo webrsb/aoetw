@@ -242,7 +242,7 @@
                 to="/techs/Maghrabi_Camels"
                 >馬格拉比駱駝</nuxt-link
               >:<nuxt-link to="/units/Camel">駱駝</nuxt-link>部隊獲得<nuxt-link
-                to="/Regeneration"
+                to="/elements/Regeneration"
                 >回血</nuxt-link
               >能力(每分鐘回15 HP)，<nuxt-link to="/civs/Berbers"
                 >柏柏</nuxt-link

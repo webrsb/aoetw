@@ -1018,7 +1018,7 @@
                 村民是遊戲中三個有多種3D模組的單位之一，村民有兩個3D模組(男與女)，另兩個是<nuxt-link
                   to="/units/Monk"
                   >僧侶</nuxt-link
-                >(正常與撿拾<nuxt-link to="/Relic">遺跡</nuxt-link>)和
+                >(正常與撿拾<nuxt-link to="/elements/Relic">遺跡</nuxt-link>)和
                 <nuxt-link to="/units/Trade_Cart">貿易車隊</nuxt-link
                 >(正常與有貨物)。
               </li>

@@ -20,9 +20,9 @@
             ><nuxt-link to="/units/hero">英雄</nuxt-link
             >的樣貌登場，無法被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >並會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >並會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >。如果他拿起了
-            <nuxt-link to="/Relic">遺跡</nuxt-link
+            <nuxt-link to="/elements/Relic">遺跡</nuxt-link
             >，會因遊戲錯誤導致他變回一般的<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
             >。

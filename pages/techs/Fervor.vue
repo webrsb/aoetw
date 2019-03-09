@@ -113,7 +113,7 @@
           </h3>
           <ul>
             <li>
-              宗教狂熱因為bug的關係只適用於拿著<nuxt-link to="/Relic"
+              宗教狂熱因為bug的關係只適用於拿著<nuxt-link to="/elements/Relic"
                 >遺跡</nuxt-link
               >的僧侶。
             </li>

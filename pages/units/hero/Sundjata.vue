@@ -18,7 +18,7 @@
             在遊戲中松迪亞塔的外型是<nuxt-link to="/units/Light_Cavalry"
               >輕騎兵</nuxt-link
             >。他不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <div></div>

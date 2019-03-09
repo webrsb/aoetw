@@ -30,7 +30,7 @@
               >駱駝弓騎兵</nuxt-link
             >，他是一個<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >，且會自己<nuxt-link to="/Regeneration">回血</nuxt-link
+            >，且會自己<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >，且擁有等同<nuxt-link to="/units/Cavalry_Archer"
               >馬弓騎兵</nuxt-link
             >的各式升級。

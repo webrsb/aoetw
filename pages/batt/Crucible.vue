@@ -110,7 +110,7 @@
             </li>
             <li>
               只有<nuxt-link to="/units/Monk">僧侶</nuxt-link>可以拿起<nuxt-link
-                to="/Relic"
+                to="/elements/Relic"
                 >遺跡</nuxt-link
               >並放在<nuxt-link to="/building/Monastery">修道院</nuxt-link>裡。
             </li>

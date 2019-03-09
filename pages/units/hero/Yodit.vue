@@ -20,7 +20,7 @@
             在遊戲中優娣忒的外型是飛鏢女獵手，她不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             遊戲中優娣忒顯示的<nuxt-link to="/elements/Attack">攻擊力</nuxt-link

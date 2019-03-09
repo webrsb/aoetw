@@ -14,7 +14,7 @@
               to="/units/Champion"
               >劍兵勇士</nuxt-link
             >。李篆不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >。只能在地圖編輯器裡找到他的蹤影。
           </p>
         </div>
@@ -42,7 +42,7 @@
             to="/civs/Chinese"
             >中國</nuxt-link
           >求援。黎利大怒，派兵繼續攻擊。在接連攻陷東關城周邊城池之後，圍攻東關城。李篆<nuxt-link
-            to="/Garrison"
+            to="/elements/Garrison"
             >駐軍</nuxt-link
           >慈廉縣，負責攻打北門。然而，他過於輕敵，被方政的軍隊偷襲，被殺。
         </p>

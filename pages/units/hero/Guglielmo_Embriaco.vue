@@ -20,7 +20,7 @@
           <nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
           >。由於他屬於<nuxt-link to="/units/hero">英雄</nuxt-link
           >單位，所以無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-          >，也會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+          >，也會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
           >。他和其他<nuxt-link to="/units/Archer_Units">射手</nuxt-link
           >一樣，會受到所有影響射手的升級和加成影響。
         </div>

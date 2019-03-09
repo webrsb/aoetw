@@ -120,7 +120,8 @@
               >攻擊+2。
             </li>
             <li>
-              駱駝弓騎兵可以<nuxt-link to="/Regeneration">回血</nuxt-link
+              駱駝弓騎兵可以<nuxt-link to="/elements/Regeneration"
+                >回血</nuxt-link
               >而且比蒙古突騎多1的<nuxt-link to="/armor">遠程護甲</nuxt-link>。
             </li>
             <li>

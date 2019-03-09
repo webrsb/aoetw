@@ -392,7 +392,7 @@
           <ul>
             <li>城鎮中心不再+5視野。</li>
             <li>
-              城鎮中心<nuxt-link to="/Garrison">駐軍</nuxt-link
+              城鎮中心<nuxt-link to="/elements/Garrison">駐軍</nuxt-link
               >+10，最大放箭+5。
             </li>
             <li>城鎮中心+2攻擊被移除。</li>

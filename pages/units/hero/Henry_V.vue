@@ -23,7 +23,7 @@
             <nuxt-link to="/units/Paladin">遊俠</nuxt-link
             >的外表登場。作為一個<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             和其他<nuxt-link to="/units/Cavalry_Units">騎兵單位</nuxt-link

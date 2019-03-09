@@ -38,7 +38,7 @@
             >更加優勢，而<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >的<nuxt-link to="/techs/Berserkergang">狂戰士幫</nuxt-link
-            >則增加了<nuxt-link to="/Regeneration">回血</nuxt-link
+            >則增加了<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >的效率，讓<nuxt-link to="/units/Berserk">狂戰士</nuxt-link
             >的騷擾遊走能力更加上升，且維京人擁有完整的<nuxt-link
               to="/building/Blacksmith"

@@ -211,7 +211,7 @@
             >。直接往地圖右上走直到遇到兩名弓兵及一隻<nuxt-link
               to="/units/Pikeman"
               >重裝長槍兵</nuxt-link
-            >守衛著<nuxt-link to="/Relic">遺跡</nuxt-link
+            >守衛著<nuxt-link to="/elements/Relic">遺跡</nuxt-link
             >，快速解決他們後直接在此蓋<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
             >。除了收集資源外要記得圍牆，此場景沒有<nuxt-link

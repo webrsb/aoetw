@@ -27,7 +27,7 @@
               >科技</nuxt-link
             >加乘。也和其他英雄一樣，不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
-            >且能自己<nuxt-link to="/Regeneration">回血</nuxt-link
+            >且能自己<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >。而且他是全遊戲近戰單挑最強的單位。
           </p>
         </div>

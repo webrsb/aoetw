@@ -238,7 +238,7 @@
                 >攻擊力</nuxt-link
               >，還有250的變態<nuxt-link to="/elements/Hit_points"
                 >生命值</nuxt-link
-              >與自然<nuxt-link to="/Regeneration">回血</nuxt-link
+              >與自然<nuxt-link to="/elements/Regeneration">回血</nuxt-link
               >。只要他們沒有死，都可以加入下一場戰鬥。
             </li>
             <li>京都的防守非常厚實，善用投石機。</li>

@@ -14,7 +14,7 @@
               to="/units/Champion"
               >劍兵勇士</nuxt-link
             >。黎利不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >，也會會受到所有<nuxt-link to="/units/Infantry_Units"
               >步兵</nuxt-link
             >加成<nuxt-link to="/techs">科技</nuxt-link
@@ -26,10 +26,7 @@
         <p>
           黎利（1385年－1433年），<nuxt-link to="/civs/Vietnamese"
             >越南</nuxt-link
-          >後黎朝開國君主，後人稱為黎太祖。他起兵驅逐了明朝的<nuxt-link
-            to="/Garrison"
-            >駐軍</nuxt-link
-          >，使越南（當時「大越」國土相當於今越南中、北部）最終取得獨立地位。
+          >後黎朝開國君主，後人稱為黎太祖。他起兵驅逐了明朝的駐軍，使越南（當時「大越」國土相當於今越南中、北部）最終取得獨立地位。
         </p>
         <p>
           黎利生于越南清化地區，在他的青年時期，陳朝被權臣胡季犛所篡，<nuxt-link

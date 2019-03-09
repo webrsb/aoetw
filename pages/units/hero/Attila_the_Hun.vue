@@ -28,7 +28,7 @@
           <nuxt-link to="/units/hero/Pope_Leo_I">教宗利奧一世</nuxt-link
           >會面才能獲勝。作為<nuxt-link to="/units/hero">英雄</nuxt-link
           >，他無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-          >而且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+          >而且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           <p></p>
         </div>
       </div>

@@ -316,7 +316,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-              >：攻城器製造所<nuxt-link to="/Garrison">駐軍</nuxt-link
+              >：攻城器製造所<nuxt-link to="/elements/Garrison">駐軍</nuxt-link
               >單位多5個(總共15個)。
             </li>
           </ul>

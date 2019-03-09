@@ -341,7 +341,7 @@
                   to="/armor/Armor_Class_Eagle_Warrior"
                   >鷹勇士</nuxt-link
                 >有加成，鷹勇士打不贏豹勇士）玩家必須透過不斷地在競技場上奔跑、並盡可能多地撿起<nuxt-link
-                  to="/Relic"
+                  to="/elements/Relic"
                   >遺跡</nuxt-link
                 >，如此一來玩家就能加快鷹勇士的速度。一旦輸掉比賽，玩家甚麼也拿不到，而失望的僧侶會詛咒玩家去死（不過甚麼也不會發生）。
               </li>

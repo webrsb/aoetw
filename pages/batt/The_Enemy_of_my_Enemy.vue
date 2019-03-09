@@ -124,7 +124,8 @@
                 >。
               </li>
               <li>
-                尋找居住在湖邊的聖人，並幫忙找回4個<nuxt-link to="/Relic"
+                尋找居住在湖邊的聖人，並幫忙找回4個<nuxt-link
+                  to="/elements/Relic"
                   >遺跡</nuxt-link
                 >。
               </li>

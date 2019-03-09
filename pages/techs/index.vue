@@ -57,7 +57,7 @@
               >
             </td>
             <td class="tunitc4">
-              <nuxt-link to="/building/Castle">城堡</nuxt-link>
+              <nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link>
             </td>
             <td class="tunitc5">100F</td>
             <td class="tunitc6">步兵速度+10%</td>

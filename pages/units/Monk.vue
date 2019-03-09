@@ -77,7 +77,7 @@
           <p>
             僧侶是一個多功能單位，在<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >以後扮演著重要的角色，包括收集<nuxt-link to="/Relic"
+            >以後扮演著重要的角色，包括收集<nuxt-link to="/elements/Relic"
               >遺跡</nuxt-link
             >
             ，騷擾對手的資源節點，擾亂對手戰線，阻擋<nuxt-link
@@ -195,12 +195,14 @@
               </li>
             </ul>
           </div>
-          <h3><nuxt-link to="/Relic">遺跡</nuxt-link></h3>
+          <h3><nuxt-link to="/elements/Relic">遺跡</nuxt-link></h3>
           <p>
-            <em>請見主條目：<nuxt-link to="/Relic">遺跡</nuxt-link></em>
+            <em
+              >請見主條目：<nuxt-link to="/elements/Relic">遺跡</nuxt-link></em
+            >
           </p>
           <p>
-            <nuxt-link to="/Relic">遺跡</nuxt-link
+            <nuxt-link to="/elements/Relic">遺跡</nuxt-link
             >是一個特殊的物品，當遺跡進入修道院時，擁有它的玩家將會隨著時間的推移而收到一小筆連續不斷的黃金，大致相當於一個礦工。玩家收集的遺跡越多，生成的黃金就越多。與採礦不同，遺跡不會耗盡。最重要的是，在城堡時代以後，快速而有效地訓練僧侶在標準勝利的遊戲中變得至關重要，因為在短時間內收集並持有每個聖物是贏得遊戲的眾多方式之一。
           </p>
           <h3>招降</h3>
@@ -504,7 +506,7 @@
               >。
             </li>
             <li>
-              英語版的<nuxt-link to="/Taunts">嘲諷語音</nuxt-link>編號<a
+              英語版的嘲諷語音編號<a
                 href="https://www.youtube.com/watch?v=3tBqdKGiqnI"
                 >30(Wololo)</a
               >，其實就是1代僧侶的配音。

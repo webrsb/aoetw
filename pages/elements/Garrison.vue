@@ -168,7 +168,8 @@
             >治療速度則是每秒治療0.2的生命值，研發<nuxt-link
               to="/techs/Herbal_Medicine"
               >草藥學</nuxt-link
-            >技術後可更進一步提高<nuxt-link to="/Regeneration">回血</nuxt-link
+            >技術後可更進一步提高<nuxt-link to="/elements/Regeneration"
+              >回血</nuxt-link
             >率。
           </p>
           <p>
@@ -185,7 +186,7 @@
               to="/techs/Chemistry"
               >化學</nuxt-link
             >也會有所影響。有駐守的建築物頂部會有旗幟標誌，其他像是有放置<nuxt-link
-              to="/Relic"
+              to="/elements/Relic"
               >遺跡</nuxt-link
             >的<nuxt-link to="/building/Monastery">修道院</nuxt-link
             >也會有旗幟標示。

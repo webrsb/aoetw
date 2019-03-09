@@ -12,7 +12,7 @@
           ><nuxt-link to="/building">建築</nuxt-link
           >，在遊戲中期及後期是非常重要的建築，提供強大的防禦和獨特的技術與單位。
           <br />不能被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-          >、<nuxt-link to="/Garrison">駐軍</nuxt-link>可達20人。
+          >、<nuxt-link to="/elements/Garrison">駐軍</nuxt-link>可達20人。
           <br />弒君模式遊戲中，遊戲開始時，每位玩家都會在<nuxt-link
             to="/building/Town_Center"
             >城鎮中心</nuxt-link

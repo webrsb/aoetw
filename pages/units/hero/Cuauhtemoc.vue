@@ -16,7 +16,7 @@
             >，只能在地圖編輯器中使用。由於他屬於<nuxt-link to="/units/hero"
               >英雄</nuxt-link
             >，因此無法被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >，也會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >，也會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
           <p>
             庫奧赫特莫克同時也是《<nuxt-link to="/games/aoc"

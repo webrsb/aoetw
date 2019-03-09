@@ -17,7 +17,7 @@
             >。實際上他代表的是1046年-1066年統治<nuxt-link to="/civs/Vikings"
               >挪威</nuxt-link
             >的國王<strong>無情者哈拉爾</strong>（即遊戲中的<strong>哈羅德哈左德</strong>）。哈拉爾沒辦法拾取
-            <nuxt-link to="/Relic">遺跡</nuxt-link
+            <nuxt-link to="/elements/Relic">遺跡</nuxt-link
             >，不過移動的速度是一般<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >的兩倍，<nuxt-link to="/elements/Conversion">招降</nuxt-link
             >速度也比較快。他也會受到所有強化僧侶的<nuxt-link to="/techs"

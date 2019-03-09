@@ -38,7 +38,7 @@
             >，他是一個必須存活的單位。英雄不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >，且會自己<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >，且會自己<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <h3>芝麻小事</h3>

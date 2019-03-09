@@ -36,7 +36,7 @@
               to="/civs"
               >文明</nuxt-link
             >，所有軍事<nuxt-link to="/building">建築</nuxt-link
-            >生產都更快，而殘忍的祭祀信仰讓他們的<nuxt-link to="/Relic"
+            >生產都更快，而殘忍的祭祀信仰讓他們的<nuxt-link to="/elements/Relic"
               >遺跡</nuxt-link
             >可以額外生產更多的<nuxt-link to="/resource/Gold">黃金</nuxt-link
             >。身為南美洲文明，阿茲特克沒有馬匹或<nuxt-link
@@ -123,7 +123,7 @@
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
                 >:</strong
-              ><nuxt-link to="/Relic">遺跡</nuxt-link>生產黃金快33%
+              ><nuxt-link to="/elements/Relic">遺跡</nuxt-link>生產黃金快33%
             </li>
           </ul>
         </div>

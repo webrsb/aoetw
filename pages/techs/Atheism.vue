@@ -14,7 +14,8 @@
             >在
             <nuxt-link to="/building/Castle">城堡</nuxt-link
             >研發。研發後<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
-            >、<nuxt-link to="/Relic">遺跡</nuxt-link>倒數時間增加100年，
+            >、<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+            >倒數時間增加100年，
             <nuxt-link to="/techs/Spies">間諜/叛國者</nuxt-link
             ><nuxt-link to="/techs">科技</nuxt-link>便宜50%。
           </p>
@@ -138,7 +139,7 @@
             <td class="unit3">影響</td>
             <td class="unit4">
               <nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>、<nuxt-link
-                to="/Relic"
+                to="/elements/Relic"
                 >遺跡</nuxt-link
               >倒數時間增加100年，間諜/叛國者科技便宜50%。
             </td>

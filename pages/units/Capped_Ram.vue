@@ -485,7 +485,7 @@
               駐紮單位：世紀帝國二初期，衝撞車是沒辦法被駐紮的，到了<nuxt-link
                 to="/games/aoc"
                 >征服者入侵</nuxt-link
-              >位資料片之後，衝撞車才可以<nuxt-link to="/Garrison"
+              >位資料片之後，衝撞車才可以<nuxt-link to="/elements/Garrison"
                 >駐軍</nuxt-link
               >(步兵、徒步弓兵，不包含村民，僧侶、<nuxt-link to="/units/King"
                 >國王</nuxt-link

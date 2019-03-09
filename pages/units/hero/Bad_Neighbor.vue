@@ -21,7 +21,7 @@
             >也是）。雖然壞鄰居以投石機的外表出現，但是他有幾個特點。當他組裝後，他像其他的英雄單位一樣無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >，防禦仍是2/8，與一般的投石機(1/150)不同。壞鄰居在未組裝時<nuxt-link
               to="/elements/Hit_points"
               >血量</nuxt-link

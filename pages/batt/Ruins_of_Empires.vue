@@ -299,9 +299,8 @@
                 往北走，地圖中上方和地圖左上方各有班圖人的瞭望箭塔及兵力守著斯瓦希里（綠）的<nuxt-link
                   to="/building/Market"
                   >市集</nuxt-link
-                >和<nuxt-link to="/Relic">遺跡</nuxt-link>，同樣利用<nuxt-link
-                  to="/units/hero"
-                  >英雄</nuxt-link
+                >和<nuxt-link to="/elements/Relic">遺跡</nuxt-link
+                >，同樣利用<nuxt-link to="/units/hero">英雄</nuxt-link
                 >單位吸引敵軍到我方軍隊即可順利解決，再用火砲擊毀班圖（橘）的瞭望箭塔。
               </li>
               <li>

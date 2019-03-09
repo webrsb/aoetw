@@ -33,7 +33,7 @@
             >和加成對岡薩洛·皮薩羅也有效。作為一個英雄單位，他無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >且會自動<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >且會自動<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
       </div>

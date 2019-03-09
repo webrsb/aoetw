@@ -99,7 +99,7 @@
               to="/units/Naval_Vessels"
               >戰船</nuxt-link
             >編排隊形和<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            ><nuxt-link to="/Garrison">駐軍</nuxt-link>。
+            ><nuxt-link to="/elements/Garrison">駐軍</nuxt-link>。
           </p>
         </div>
       </div>

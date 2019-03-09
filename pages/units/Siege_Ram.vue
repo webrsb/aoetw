@@ -123,7 +123,7 @@
             重型衝撞車是帝王中期強大的<nuxt-link to="/units/Siege_Weapons"
               >攻城武器</nuxt-link
             >，與<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link
-            >相比，其傷害半徑從1.5提高至2，<nuxt-link to="/Garrison"
+            >相比，其傷害半徑從1.5提高至2，<nuxt-link to="/elements/Garrison"
               >駐軍</nuxt-link
             >數量也從5增加至6。其讓對方產生的心理壓力更是可怕。更重要的是，起始移動速度從0.5提升至0.6，當駐紮數量到達當6人時(全部都放步兵)，移動速度會增加至0.9，這樣的速度可以媲美
             <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link

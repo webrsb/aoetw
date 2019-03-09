@@ -17,7 +17,7 @@
             >中都必須活著，否則遊戲就宣告失敗，她不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <div></div>

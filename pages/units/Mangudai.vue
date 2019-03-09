@@ -111,7 +111,8 @@
             <li>
               <nuxt-link to="/units/Camel_Archer">駱駝弓騎兵</nuxt-link
               >多5點<nuxt-link to="/elements/Hit_points">生命值</nuxt-link
-              >，且可以自動<nuxt-link to="/Regeneration">回血</nuxt-link
+              >，且可以自動<nuxt-link to="/elements/Regeneration"
+                >回血</nuxt-link
               >，並且還有1的近防。
             </li>
             <li>
@@ -154,7 +155,8 @@
                 >攻擊速度</nuxt-link
               >更快，火力更強，但由於<nuxt-link to="/units/Camel_Archer"
                 >駱駝弓騎兵</nuxt-link
-              >的防禦較高，血量也多，還可以<nuxt-link to="/Regeneration"
+              >的防禦較高，血量也多，還可以<nuxt-link
+                to="/elements/Regeneration"
                 >回血</nuxt-link
               >，所以更加的耐用。
             </li>

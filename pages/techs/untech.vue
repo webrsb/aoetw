@@ -244,7 +244,7 @@
             <td class="tunitc5">400F 400W</td>
             <td class="tunitc6">
               挖金速度+10%；貿易<nuxt-link to="/resource/Gold">黃金</nuxt-link
-              >+10%；<nuxt-link to="/Relic">遺跡</nuxt-link>產金快10%。
+              >+10%；<nuxt-link to="/elements/Relic">遺跡</nuxt-link>產金快10%。
             </td>
           </tr>
           <tr>
@@ -588,7 +588,7 @@
             <td class="tunitc5">700F 300G</td>
             <td class="tunitc6">
               <nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link
-              >部隊獲得<nuxt-link to="/Regeneration">回血</nuxt-link
+              >部隊獲得<nuxt-link to="/elements/Regeneration">回血</nuxt-link
               >能力(每分鐘回15 HP)。
             </td>
           </tr>
@@ -805,8 +805,8 @@
             </td>
             <td class="tunitc5">750F 400G</td>
             <td class="tunitc6">
-              <nuxt-link to="/units/Trebuchet">巨型投石機(組裝)</nuxt-link
-              >/拆解速度加快。
+              <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link
+              >組裝/拆裝速度加快。
             </td>
           </tr>
           <tr>

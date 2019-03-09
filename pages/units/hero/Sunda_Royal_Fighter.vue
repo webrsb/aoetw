@@ -17,7 +17,7 @@
             巽他皇家侍衛具有高攻、高裝甲、高生命和極快的移動速度。巽他皇家侍衛不能被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
-            >而且會自行<nuxt-link to="/Regeneration">回血</nuxt-link>。
+            >而且會自行<nuxt-link to="/elements/Regeneration">回血</nuxt-link>。
           </p>
         </div>
         <h3>出現場景和陣營</h3>

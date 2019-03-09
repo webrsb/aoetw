@@ -18,7 +18,7 @@
               to="/civs/Byzantines"
               >拜占庭</nuxt-link
             >帝國，因此邁克爾帶著他的軍隊逃離巴里，從諾曼城國王手中獲得了更多的士兵，並為他們帶來一件<nuxt-link
-              to="/Relic"
+              to="/elements/Relic"
               >遺跡</nuxt-link
             >後接管諾曼城鎮卡，之後抵抗並擊退梅勒斯的軍隊。
           </p>
