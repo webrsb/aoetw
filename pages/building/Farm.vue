@@ -316,11 +316,12 @@
                 >黑暗</nuxt-link
               >/<nuxt-link to="/techs/age/Feudal_Age">封建</nuxt-link
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/帝國時代，農場擁有+ 10％/ + 20％/ + 30％/ + 40％HP。
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >，農場擁有+ 10％/ + 20％/ + 30％/ + 40％HP。
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：農田的技術在封建/城堡/帝國時代便宜10％/ 15％/ 20％。
+              >：農田的技術在封建/城堡/帝王時代便宜10％/ 15％/ 20％。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：<nuxt-link

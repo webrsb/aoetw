@@ -158,7 +158,9 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">帝王世紀第一章之一</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>第一章之一
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>

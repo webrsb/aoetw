@@ -124,9 +124,7 @@
               >以切斷耶路撒冷的糧食供應。
             </li>
             <li>
-              在攻擊這個城市之前，有兩個基本<nuxt-link to="/techs/Chivalry"
-                >騎士精神</nuxt-link
-              >的守則必須要遵守。
+              在攻擊這個城市之前，有兩個基本騎士精神的守則必須要遵守。
             </li>
             <li>
               <nuxt-link to="/units/Trebuchet">巨型投石機</nuxt-link

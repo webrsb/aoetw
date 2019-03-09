@@ -83,7 +83,11 @@
                 <li>
                   <nuxt-link to="/batt/Forge_an_Alliance">締結同盟</nuxt-link>
                 </li>
-                <li>福爾克之役</li>
+                <li>
+                  <nuxt-link to="/batt/The_Battle_of_Falkirk"
+                    >福爾克之役</nuxt-link
+                  >
+                </li>
               </ol>
             </div>
             <div class="col-md-6">

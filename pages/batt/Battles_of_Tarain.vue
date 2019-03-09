@@ -272,7 +272,6 @@
       </div>
     </div>
   </div>
-  <!-- /container -->
 </template>
 <script>
 export default {

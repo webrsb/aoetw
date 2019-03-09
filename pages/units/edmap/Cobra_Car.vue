@@ -192,7 +192,7 @@
 </template>
 <script>
 export default {
-  layout: 'allunit',
+  layout: 'alledmap',
   components: {}
 }
 </script>

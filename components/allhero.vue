@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row" style=" margin-top:20px">
       <div class="col-md-12">
         <table class="table-bordered" width="100%">
@@ -20,7 +17,7 @@
                   src="~assets/KingsIcon.png"
                   style="margin-right: 3px;"
                   alt=""
-                />帝王世紀
+                /><nuxt-link to="/games/aok">帝王世紀</nuxt-link>
               </div>
             </td>
           </tr>
@@ -110,7 +107,7 @@
                   src="~assets/ConquerorsIcon.png"
                   style="margin-right: 3px;"
                   alt=""
-                />征服者入侵
+                /><nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
               </div>
             </td>
           </tr>
@@ -149,7 +146,7 @@
                   src="~assets/ForgottenIcon.png"
                   style="margin-right: 3px;"
                   alt=""
-                />失落的王朝
+                /><nuxt-link to="/games/aof">失落的帝國</nuxt-link>
               </div>
             </td>
           </tr>
@@ -191,7 +188,7 @@
                   src="~assets/AfricanIcon.png"
                   style="margin-right: 3px;"
                   alt=""
-                />非洲王國
+                /><nuxt-link to="/games/ak">非洲王國</nuxt-link>
               </div>
             </td>
           </tr>
@@ -245,7 +242,7 @@
                   src="~assets/RajaIcon.png"
                   style="margin-right: 3px;"
                   alt=""
-                />王者崛起
+                /><nuxt-link to="/games/aor">王者崛起</nuxt-link>
               </div>
             </td>
           </tr>
@@ -284,5 +281,4 @@
       </div>
     </div>
   </div>
-  <!-- /container -->
 </template>

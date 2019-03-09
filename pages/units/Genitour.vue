@@ -809,7 +809,7 @@
                 to="/units/Militia"
                 >民兵</nuxt-link
               >的外表登場，卻是馬弓騎兵的頭像，但是攻擊卻是擲矛，這個單位叫做
-              <nuxt-link to="/units/hero/Genitourcheap">馬勇士</nuxt-link>。
+              <nuxt-link to="/units/edmap/Genitour">馬勇士</nuxt-link>。
             </li>
             <li>
               標槍騎兵的英文為Genitour，源自於西班牙語中的“ Jinete

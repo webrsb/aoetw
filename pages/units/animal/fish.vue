@@ -115,7 +115,7 @@
                 width="22"
                 style="margin-right: 5px;"
                 alt=""
-              /><strong>海豚</strong>:350食物，失落的王朝登場，原本在<nuxt-link
+              /><strong>海豚</strong>:350食物，失落的帝國登場，原本在<nuxt-link
                 to="/games/aok"
                 >帝王世紀</nuxt-link
               >就會登場，但為了爭議，被取消了。

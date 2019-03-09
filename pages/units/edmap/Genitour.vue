@@ -10,9 +10,8 @@
           <p>
             <b>馬勇士</b>是一個<nuxt-link to="/units/Infantry_Units"
               >步兵單位</nuxt-link
-            >，只有出現在編輯器的世紀帝國II：<nuxt-link
-              to="/batt/Battles_of_the_Conquerors"
-              >征服者戰役</nuxt-link
+            >，只有出現在編輯器的<nuxt-link to="/games/aoc"
+              >世紀帝國II：征服者入侵</nuxt-link
             >。它結合了<nuxt-link to="/units/Archer_Units">遠程單位</nuxt-link
             >和近戰單位的特點。雖然看起來像<nuxt-link to="/units/Militia"
               >民兵</nuxt-link
@@ -44,7 +43,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 馬勇士
               </div>
@@ -58,7 +57,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">單位介紹</div>
             </td>
           </tr>
@@ -73,7 +72,7 @@
             <td class="unit4">征服者戰役</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">統計</div>
             </td>
           </tr>
@@ -156,7 +155,7 @@
 </template>
 <script>
 export default {
-  layout: 'allhero',
+  layout: 'alledmap',
   components: {}
 }
 </script>

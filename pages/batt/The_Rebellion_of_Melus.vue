@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>邁勒斯叛變</b>，是帝國時代II HD：<nuxt-link to="/games/aof"
-              >失落的帝國</nuxt-link
+            <b>邁勒斯叛變</b>，是<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
             >；<nuxt-link to="/batt/Baria">巴里戰役</nuxt-link
             >的第二關。主角是邁克爾(Michael Nautikos)正在<nuxt-link
               to="/batt/Baria"
@@ -25,7 +25,7 @@
           <p>
             玩家只能發展到<nuxt-link to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >，而對手會晉級到帝國時代。雖然玩家沒有<nuxt-link
+            >，而對手會晉級到帝王時代。雖然玩家沒有<nuxt-link
               to="/building/Palisade_Wall"
               >木牆</nuxt-link
             >和<nuxt-link to="/building/Gate">城門</nuxt-link>，<nuxt-link
@@ -35,7 +35,7 @@
             >，爆破船，<nuxt-link to="/units/Camel">駱駝</nuxt-link>和<nuxt-link
               to="/building/Stone_Wall"
               >城牆</nuxt-link
-            >升級，但少數帝國時代的技術幫玩家升級好了，例如精英<nuxt-link
+            >升級，但少數帝王時代的技術幫玩家升級好了，例如精英<nuxt-link
               to="/units/Cataphract"
               >拜占庭聖騎兵</nuxt-link
             >，<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link

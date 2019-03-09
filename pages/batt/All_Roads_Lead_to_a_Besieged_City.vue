@@ -154,7 +154,7 @@
             </li>
             <li>
               由於紀律嚴明組織嚴密，羅馬軍隊有強大的戰鬥力，但如果你能先除掉他們的<nuxt-link
-                to="/units/hero/Centurion"
+                to="/units/edmap/Centurion"
                 >百夫長</nuxt-link
               >，他們就會失去戰鬥士氣。
             </li>

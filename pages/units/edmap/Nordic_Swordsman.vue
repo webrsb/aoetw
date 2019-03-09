@@ -2,66 +2,61 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>東方劍士</h1>
+        <h1>北歐劍士</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            “世紀帝國II：被遺忘的時代”中一名不可分割的步兵部隊的<b>東方劍客</b>。它出現在幾個活動場景中，也可以在場景編輯器中找到。
+            “世紀帝國II：被遺忘的時代”中一個<nuxt-link
+              to="/units/Infantry_Units"
+              >步兵單位</nuxt-link
+            >的<b>北歐劍客</b>。它出現在幾個活動場景中，也可以在場景編輯器中找到。
           </p>
           <p>
-            東方劍客與北歐劍客具有完全相同的數據，並且僅與普通長劍客不同，因為他們對<nuxt-link
+            北歐劍客與東方劍客具有完全相同的數據，並且僅與普通長劍客不同，因為他們對<nuxt-link
               to="/armor/Armor_Class_Building"
               >建築物</nuxt-link
             >缺乏攻擊獎勵。
           </p>
           <p>
-            兩個值得注意的現象分別是在<nuxt-link to="/batt/Ruins_of_Empires"
-              >帝國的廢墟</nuxt-link
-            >和<nuxt-link to="/civs/Indians">印度</nuxt-link>的Estado
-            da，Francisco de Almeida<nuxt-link to="/batt">戰役</nuxt-link
-            >中的第三和第四場景。
+            <nuxt-link to="/units/hero/Nordic_Swordsman">北歐劍士</nuxt-link
+            >通常看起來是為歐洲<nuxt-link to="/civs">文明</nuxt-link
+            >作戰的，比如在梅魯斯的叛亂（<nuxt-link to="/batt/Baria"
+              >巴里</nuxt-link
+            >的第二種場景），那裡有這樣的隊伍服務於梅魯斯。然而除此之外，在潛逃（阿三的第三場景）中，北歐劍士更名為“精英紅衛兵”，Kannauj的Raja
+            Jaichand有兩隊這種兵。也有可能衹有一個，但它會提醒合作夥伴和整個警衛。。
           </p>
-        </div>
-        <div class="n1">
-          <h2>冷知識</h2>
           <p>
-            事實上雖然都翻譯為劍士，但是在現實中<nuxt-link
-              to="/units/hero/Eastern_Swordsman"
-              >東方劍士</nuxt-link
-            >可以被分爲用劍（雙刃）和刀（單刃）的不同兵種。<nuxt-link
-              to="/civs/Chinese"
-              >中國</nuxt-link
-            >將領熱愛使用劍，而一般的士卒多用刀，劍在中國古代史一種較高級的階層喜愛的武器。另外，印度和一些東南亞國家使用時多配合盾和長矛使用，這與游戲中東方劍士的形象有所區別。
+            具有諷刺意味的是，儘管被命名為“劍客”，但他們的精靈清楚地顯示他們揮舞著手斧。
           </p>
         </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
-                東方劍士
+                北歐劍士
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Easternswordsmanicon.jpg" width="80" alt="" />
+                <img src="~assets/Nordicswordsmanicon.jpg" width="80" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">單位介紹</div>
             </td>
           </tr>
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Infantry">步兵</nuxt-link>
+              <nuxt-link to="/units/Infantry_Units">步兵</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -69,7 +64,7 @@
             <td class="unit4">被遺忘的帝國</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">統計</div>
             </td>
           </tr>
@@ -129,7 +124,7 @@
         <div style="margin-left: 10px;">
           <i
             ><strong
-              ><a href="https://en.wiktionary.org/wiki/swordsman">東方劍士</a>
+              ><a href="https://en.wiktionary.org/wiki/swordsman">北歐劍士</a>
             </strong>
           </i>
         </div>
@@ -139,7 +134,7 @@
 </template>
 <script>
 export default {
-  layout: 'allhero',
+  layout: 'alledmap',
   components: {}
 }
 </script>

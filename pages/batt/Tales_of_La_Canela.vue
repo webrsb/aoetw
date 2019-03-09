@@ -158,7 +158,7 @@
               >再點擊他們的棚屋。
             </li>
             <li>
-              要徵召印加<nuxt-link to="/units/hero/Centurion">百夫長</nuxt-link
+              要徵召印加<nuxt-link to="/units/edmap/Centurion">百夫長</nuxt-link
               >的話，只需要收集到100食物再點擊他們的棚屋。
             </li>
             <li>

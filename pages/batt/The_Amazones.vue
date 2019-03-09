@@ -253,9 +253,10 @@
                 >包）。
               </li>
               <li>
-                一路上，玩家會遇到紅色<nuxt-link to="/units/Canoe"
+                一路上，玩家會遇到紅色<nuxt-link to="/units/edmap/Canoe"
                   >獨木舟</nuxt-link
-                >或灰色亞馬遜巡邏隊（主要是<nuxt-link to="/Amazon_Warrior.php"
+                >或灰色亞馬遜巡邏隊（主要是<nuxt-link
+                  to="/units/edmap/Amazon_Warrior"
                   >亞馬遜戰士</nuxt-link
                 >或亞馬遜<nuxt-link to="/units/Archer_Units">弓箭手</nuxt-link
                 >）的抵抗。要記得，在這場戰役裡面，玩家的單位默認設置為“不還擊狀態”，因此如果玩家無法避免與亞馬遜戰鬥（儘管遊戲提示建議避開）玩家必須手動攻擊他們，或設置為“進攻”或“防衛”狀態。

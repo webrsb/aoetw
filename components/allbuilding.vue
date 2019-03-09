@@ -82,5 +82,4 @@
       </div>
     </div>
   </div>
-  <!-- /container -->
 </template>

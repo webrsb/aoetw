@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="row" style="margin-top:20px;">
-      <div class="col-md-12 keyword_on">
+      <div class="col-md-12">
         <table class="table-bordered" width="100%">
           <tbody>
             <tr>

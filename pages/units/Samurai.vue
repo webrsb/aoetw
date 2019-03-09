@@ -33,7 +33,7 @@
               >中的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
               >（<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
               >的<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
-              >和帝國時代的
+              >和帝王時代的
               <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link
               >）要遜色一些，<nuxt-link to="/civs/Japanese">日本</nuxt-link
               ><nuxt-link to="/civs">文明</nuxt-link>利益對步兵的<nuxt-link

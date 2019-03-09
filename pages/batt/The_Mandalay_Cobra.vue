@@ -110,7 +110,8 @@
             >x1、<nuxt-link to="/units/Capped_Ram">裝甲衝撞車</nuxt-link>x1、
           </p>
           <p>
-            僧侶x2、村民x2、<nuxt-link to="/units/Canoe">獨木舟</nuxt-link>x3。
+            僧侶x2、村民x2、<nuxt-link to="/units/edmap/Canoe">獨木舟</nuxt-link
+            >x3。
           </p>
           <h2>主要任務</h2>
           <div class="hrn1"></div>

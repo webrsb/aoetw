@@ -2,54 +2,47 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1>北歐劍士</h1>
+        <h1>强力重裝長槍兵</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
         <div class="n1">
           <p>
-            “世紀帝國II：被遺忘的時代”中一個<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵單位</nuxt-link
-            >的<b>北歐劍客</b>。它出現在幾個活動場景中，也可以在場景編輯器中找到。
+            <nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >中一個<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+            >種類。<b>强力重型長槍兵</b>出現在幾個活動場景中，並可在場景編輯器中找到。
           </p>
+        </div>
+        <div class="n1">
+          <h2>冷知識</h2>
           <p>
-            北歐劍客與東方劍客具有完全相同的數據，並且僅與普通長劍客不同，因為他們對<nuxt-link
-              to="/armor/Armor_Class_Building"
-              >建築物</nuxt-link
-            >缺乏攻擊獎勵。
-          </p>
-          <p>
-            <nuxt-link to="/units/hero/Nordic_Swordsman">北歐劍士</nuxt-link
-            >通常看起來是為歐洲<nuxt-link to="/civs">文明</nuxt-link
-            >作戰的，比如在梅魯斯的叛亂（<nuxt-link to="/batt/Baria"
-              >巴里</nuxt-link
-            >的第二種場景），那裡有這樣的隊伍服務於梅魯斯。然而除此之外，在潛逃（阿三的第三場景）中，北歐劍士更名為“精英紅衛兵”，Kannauj的Raja
-            Jaichand有兩隊這種兵。也有可能衹有一個，但它會提醒合作夥伴和整個警衛。。
-          </p>
-          <p>
-            具有諷刺意味的是，儘管被命名為“劍客”，但他們的精靈清楚地顯示他們揮舞著手斧。
+            這個單位無法在標準游戲中生產，雖然名字聽起來很厲害，但實質上僅僅衹是普通的<nuxt-link
+              to="/units/Spearman"
+              >槍兵</nuxt-link
+            >加了一些<nuxt-link to="/elements/Hit_points">血量</nuxt-link
+            >，並且在於<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            >對戰時，並不如普通槍兵。
           </p>
         </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
-                北歐劍士
+                强力<nuxt-link to="/units/Pikeman">重裝長槍兵</nuxt-link>
               </div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/Nordicswordsmanicon.jpg" width="80" alt="" />
+                <img src="~assets/Heavypikemanicon.jpg" width="80" alt="" />
               </div>
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">單位介紹</div>
             </td>
           </tr>
@@ -64,29 +57,35 @@
             <td class="unit4">被遺忘的帝國</td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">統計</div>
             </td>
           </tr>
           <tr>
-            <td class="unit3">
-              <nuxt-link to="/elements/Hit_points">血量</nuxt-link>
-            </td>
-            <td class="unit4">60</td>
+            <td class="unit3">血量</td>
+            <td class="unit4">75</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>
-            <td class="unit4">6</td>
+            <td class="unit4">4</td>
           </tr>
           <tr>
             <td class="unit3">攻擊獎勵</td>
             <td class="unit4">
-              與鷹對抗時<nuxt-link to="/elements/Attack">攻擊力</nuxt-link>+6
+              對<nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link
+              >攻擊時+25，對<nuxt-link to="/armor/Armor_Class_Cavalry"
+                >騎兵單位</nuxt-link
+              >攻擊時+22，對<nuxt-link to="/armor/Armor_Class_Camel"
+                >駱駝單位</nuxt-link
+              >攻擊時+16，對船舶攻擊時+16，對應戰士作戰時+1，對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >攻擊時+1
             </td>
           </tr>
           <tr>
             <td class="unit3">攻速</td>
-            <td class="unit4">2.03</td>
+            <td class="unit4">3.05</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
@@ -104,7 +103,7 @@
           </tr>
           <tr>
             <td class="unit3">跑速</td>
-            <td class="unit4">0.9</td>
+            <td class="unit4">1</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
@@ -120,11 +119,13 @@
         <img src="~assets/Wikipedia-logo.png" width="50" height="46" />
       </div>
       <div style="margin-left: 60px;">
-        維基百科上的劍士
+        維基百科上的强力重裝長槍兵
         <div style="margin-left: 10px;">
           <i
             ><strong
-              ><a href="https://en.wiktionary.org/wiki/swordsman">北歐劍士</a>
+              ><a href="https://en.wikipedia.org/wiki/Pike_(weapon)"
+                >强力重裝長槍兵</a
+              >
             </strong>
           </i>
         </div>
@@ -134,7 +135,7 @@
 </template>
 <script>
 export default {
-  layout: 'allhero',
+  layout: 'alledmap',
   components: {}
 }
 </script>

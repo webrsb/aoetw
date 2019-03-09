@@ -20,8 +20,7 @@
             它們非常快速且適合探索，但無法攻擊，構建或與任何對象進行交互。然而，當他們被賦予“建築”命令時，他們可以為建築奠定基礎。他們也可以在建築物內駐紮，獲得攻擊獎勵。
           </p>
           <p>
-            在最初的非官方帝國時代II：被遺忘的帝國中，如果VMDL受到任何野生動物的襲擊，或者這樣的野生動物進入他的視線，他將變成一個正常的女性村民並報復或攻擊該動物。這在官方的帝國時代II
-            HD中是不會發生的
+            在最初的非官方世紀帝國II：失落的帝國中，如果VMDL受到任何野生動物的襲擊，或者這樣的野生動物進入他的視線，他將變成一個正常的女性村民並報復或攻擊該動物。這在官方的世紀帝國II中是不會發生的
           </p>
           <p>
             無論玩家使用什麼<nuxt-link to="/civs">文明</nuxt-link
@@ -41,7 +40,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 VMDL
               </div>
@@ -63,7 +62,7 @@
 </template>
 <script>
 export default {
-  layout: 'allhero',
+  layout: 'alledmap',
   components: {}
 }
 </script>

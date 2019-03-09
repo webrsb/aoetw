@@ -1,8 +1,5 @@
 <template>
-  <!-- Main jumbotron for a primary marketing message or call to action
-    -->
   <div class="container">
-    <!-- Example row of columns -->
     <div class="row" style=" margin-top:20px">
       <div class="col-md-12">
         <table class="table-bordered" width="100%">
@@ -25,7 +22,7 @@
                 >象</nuxt-link
               >。<nuxt-link to="/units/animal/Ostrich">鴕鳥</nuxt-link
               >。<nuxt-link to="/units/animal/Rhinoceros">犀牛</nuxt-link>。
-              <nuxt-link to="/Alfred_the_Alpaca.php">魚類</nuxt-link>
+              <nuxt-link to="/units/animal/fish">魚類</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -76,5 +73,4 @@
       </div>
     </div>
   </div>
-  <!-- /container -->
 </template>

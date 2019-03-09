@@ -144,7 +144,7 @@
                 >): 摧毀敵營。
               </li>
               <li>
-                第三個酋長 (印加<nuxt-link to="/units/hero/Centurion"
+                第三個酋長 (印加<nuxt-link to="/units/edmap/Centurion"
                   >百夫長</nuxt-link
                 >): 找回12隻羊駝，牽回他們羊圈並幫他們修補羊圈缺口。
               </li>
@@ -252,7 +252,7 @@
                 隨著玩家繼續向南航行，該船將抵達一定的地點，在那裡它將遭受暴風雨襲擊，並在伊馬拉附近的角落沖向河岸西岸。船上的所有單位將被卸載，並且船將變回“西班牙”所屬。此時，如果奧雷亞納落後於其他地方，玩家將會輸掉。
               </li>
               <li>
-                隨著玩家向南移動，伊馬拉的<nuxt-link to="/units/Canoe"
+                隨著玩家向南移動，伊馬拉的<nuxt-link to="/units/edmap/Canoe"
                   >獨木舟</nuxt-link
                 >會抵抗玩家，但這些可以很容易地被征服者隊殺死。一旦玩家進入伊馬拉，玩家必須殺死所有的士兵。即使有<nuxt-link
                   to="/building/Watch_Tower"

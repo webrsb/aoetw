@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-md-12">
         <p>
-          <strong>英雄</strong>是帝國時代II的特殊單位。
+          <strong>英雄</strong>是世紀帝國II的特殊單位。
           在常規遊戲中不可用，英雄通常指的是歷史人物。因此，他們經常在<nuxt-link
             to="/batt"
             >戰役</nuxt-link
@@ -2258,6 +2258,11 @@
 </template>
 <script>
 export default {
+  head() {
+    return {
+      title: '英雄 - Aoetw'
+    }
+  },
   layout: 'foot',
   components: {}
 }

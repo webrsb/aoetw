@@ -400,7 +400,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：受益僧侶的技術在城堡/帝國時代分別便宜15％/ 20％。
+              >：受益僧侶的技術在城堡/帝王時代分別便宜15％/ 20％。
             </li>
             <li>
               <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link

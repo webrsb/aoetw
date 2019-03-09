@@ -8,15 +8,15 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>國王</b>是世紀帝國二的<nuxt-link to="/units/Unique_Unit"
+            <b>國王</b>是世紀帝國II的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >。本身是無用的單位，無法攻擊任何事物，或對經濟做出貢獻，
             但在遊戲早期可以用於偵察地圖。國王只出現在<nuxt-link to="/batt"
               >戰役</nuxt-link
-            >和弒君模式中，也可於地圖編輯器中使用 。是不可訓練之單位。 。
+            >和弒君模式中，也可於地圖編輯器中使用 。是不可訓練之單位。
           </p>
           <p>訊息中圖像上方縮寫的翻譯</p>
-          <p>EU:歐洲</p>
+          <p>EU：歐洲</p>
           <p>NA：美國</p>
           <p>ME：中東</p>
           <p>EA：東亞</p>
@@ -99,20 +99,10 @@
             <td colspan="2">
               <div class="unititle">
                 <img src="~assets/KingA.png" width="45" alt="" />
-              </div>
-              <div class="unititle">
                 <img src="~assets/KingB.png" width="45" alt="" />
-              </div>
-              <div class="unititle">
                 <img src="~assets/KingC.png" width="45" alt="" />
-              </div>
-              <div class="unititle">
                 <img src="~assets/KingD.png" width="45" alt="" />
-              </div>
-              <div class="unititle">
                 <img src="~assets/KingE.png" width="45" alt="" />
-              </div>
-              <div class="unititle">
                 <!-- <img src="~assets/Kingsoutheastasian.png" width="45" alt="" /> -->
               </div>
             </td>
@@ -172,7 +162,7 @@
 </template>
 <script>
 export default {
-  layout: 'allunit',
+  layout: 'alledmap',
   components: {}
 }
 </script>

@@ -15,7 +15,7 @@
             龍船的一個非常顯著的創景是在曼德勒眼鏡蛇（世紀帝國2資料片：<nuxt-link
               to="/games/aor"
               >王者崛起</nuxt-link
-            >的拉賈斯的崛起），他們可以在<nuxt-link to="/units/Canoe"
+            >的拉賈斯的崛起），他們可以在<nuxt-link to="/units/edmap/Canoe"
               >獨木舟</nuxt-link
             >，皇家戰士和<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >附近找到。另一個是在狼山江<nuxt-link to="/batt">戰役</nuxt-link
@@ -34,7 +34,7 @@
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2">
                 龍船
               </div>
@@ -48,7 +48,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">單位介紹</div>
             </td>
           </tr>
@@ -67,7 +67,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit" colspan="2" style="background-color:#d01022;">
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
               <div class="unititle2" style="color: #fff;">統計</div>
             </td>
           </tr>
@@ -154,7 +154,7 @@
 </template>
 <script>
 export default {
-  layout: 'allhero',
+  layout: 'alledmap',
   components: {}
 }
 </script>
