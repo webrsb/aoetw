@@ -27,6 +27,6 @@ const scrollBehavior = function (to, from, savedPosition) {
 
 module.exports = {
   scrollBehavior,
-  base: '/next',
+  base: '/',
   linkActiveClass: 'link-actived'
 }
