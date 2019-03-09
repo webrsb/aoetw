@@ -273,9 +273,7 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/<nuxt-link to="/batt/Montezumaa"
-                  >蒙特蘇馬</nuxt-link
-                >六.png" alt="" />
+                <img src="~assets/蒙特蘇馬六.png" alt="" />
               </div>
             </td>
           </tr>

@@ -78,7 +78,7 @@
               <nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
               >，<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
               >或者<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link
-              >對哥德衛隊也是有效的，儘管哥德衛隊對他們也有額外傷害加成。
+              >對哥德衛隊也是有效的，其中只有哥德衛隊對奴隸兵有額外傷害加成。
             </li>
             <li>
               <nuxt-link to="/units/Mangonel">投石車</nuxt-link

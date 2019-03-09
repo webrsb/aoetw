@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>破壞者</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aok">帝王世紀</nuxt-link
+            <strong>破壞者</strong>是<nuxt-link to="/games/aok"
+              >《世紀帝國 II HD:</nuxt-link
             >》中的一名透過作弊換得的自殺<nuxt-link to="/units/hero"
               >英雄</nuxt-link
             >，只能在<nuxt-link to="/batt">戰役</nuxt-link

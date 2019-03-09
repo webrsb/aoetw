@@ -15,8 +15,8 @@
             >重現了奧通巴之戰。
           </p>
           <p>
-            在該戰役中，<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
-            >現在已經死了。<nuxt-link to="/units/hero/Cuauhtemoc"
+            在該戰役中，蒙特蘇馬現在已經死了。<nuxt-link
+              to="/units/hero/Cuauhtemoc"
               >庫奧赫特莫克</nuxt-link
             >現在是<nuxt-link to="/civs/Aztecs">阿茲特克人</nuxt-link
             >的皇帝。庫奧赫特莫克必須確保<nuxt-link to="/civs/Spanish"

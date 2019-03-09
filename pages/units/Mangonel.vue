@@ -31,7 +31,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在<nuxt-link to="/building/Castle">城堡</nuxt-link>初期，<nuxt-link
+            在<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link>初期，<nuxt-link
               to="/units/Mangonel"
               >輕型投石車</nuxt-link
             >是一個非常昂貴的單位，行走速度非常的緩慢，但優異的<nuxt-link

@@ -135,8 +135,7 @@
             <ul>
               <li>
                 你的<nuxt-link to="/units/Scout_Cavalry">斥候</nuxt-link
-                >回報:<nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link
-                >的部隊(綠色)一開始在封建時代並只有幾個士兵，它們必須保護好蒙特蘇馬的<nuxt-link
+                >回報:蒙特蘇馬的部隊(綠色)一開始在封建時代並只有幾個士兵，它們必須保護好蒙特蘇馬的<nuxt-link
                   to="/building/Town_Center"
                   >城鎮中心</nuxt-link
                 >免於早期敵人的攻擊。

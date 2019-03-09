@@ -54,10 +54,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            遊戲的基本主題是採集資源、建立城鎮、<nuxt-link
-              to="/batt/Training_the_Troops"
-              >訓練軍隊</nuxt-link
-            >、對敵方發動戰爭直至分出勝負。隨著遊戲的進展，玩家一般需要經歷四個不同的「時代」：<nuxt-link
+            遊戲的基本主題是採集資源、建立城鎮、訓練軍隊、對敵方發動戰爭直至分出勝負。隨著遊戲的進展，玩家一般需要經歷四個不同的「時代」：<nuxt-link
               to="/techs/age/Dark_Age"
               >黑暗時代</nuxt-link
             >、<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
