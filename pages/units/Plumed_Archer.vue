@@ -474,6 +474,18 @@
             技巧熟練和經驗豐富的弓箭手可以成為精銳羽毛箭射手。當需要絕對的勝利時，他們尤其重要，因為他們有能力迅速殺死敵人，並用一連串精準的箭矢打擊敵軍士氣。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Plumedarcher.png" alt=""
+              /></gallery>
+              <p><em>一群羽毛箭射手</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -679,20 +691,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Plumedarcher.png" alt=""
-              /></gallery>
-              <p><em>一群羽毛箭射手</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

@@ -103,8 +103,8 @@
           <div class="n1">
             <ul>
               <li>
-                除了勒班陀與<nuxt-link to="/batt/William_Wallacea"
-                  >威廉華勒斯</nuxt-link
+                除了<nuxt-link to="/batt/Lepanto_1571">勒班陀</nuxt-link
+                >與<nuxt-link to="/batt/William_Wallacea">威廉華勒斯</nuxt-link
                 >之外，本關卡是唯一一個成吉思汗(戰役)中只有一個任務目標的。
               </li>
               <li>
@@ -198,6 +198,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E8%92%82%E8%90%A8%E6%B2%B3%E4%B9%8B%E6%88%98"
+                    target="_blank"
                     >蒂薩河之戰</a
                   ></strong
                 ></em

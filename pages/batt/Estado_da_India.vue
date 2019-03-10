@@ -409,7 +409,9 @@
           </div>
           <div style="margin-left: 60px;">
             維基百科上的<i
-              ><b><a href="http://t.cn/E5JAhwV">葡屬印度</a></b></i
+              ><b
+                ><a href="http://t.cn/E5JAhwV" target="_blank">葡屬印度</a></b
+              ></i
             >
           </div>
         </div>

@@ -439,7 +439,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Loukkos_River"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Loukkos_River"
+                    target="_blank"
                     >Loukkos River</a
                   ></b
                 ></i
@@ -452,6 +454,7 @@
                   ><b
                     ><a
                       href="https://zh.wikipedia.org/zh-tw/%E9%98%BF%E6%96%B9%E7%B4%A2%C2%B7%E5%BE%B7%C2%B7%E9%98%BF%E5%B0%94%E5%B8%83%E5%85%8B%E5%B0%94%E5%85%8B"
+                      target="_blank"
                       >阿方索阿爾布開特</a
                     ></b
                   ></i

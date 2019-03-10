@@ -315,6 +315,7 @@
               <i
                 ><b
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%9C%E6%9D%9C%E5%8B%92%C2%B7%E6%8B%89%E8%B5%AB%E6%9B%BC_(%E5%AE%89%E8%BE%BE%E5%8D%A2%E8%A5%BF%E4%BA%9A)"
                     >阿卜杜勒•拉赫曼•迦菲奇</a
                   ></b
@@ -333,6 +334,7 @@
               <i
                 ><b
                   ><a
+                    target="_blank"
                     href="https://en.wikipedia.org/wiki/Abdul_Rahman_Al_Ghafiqi"
                     >Abdul Rahman Al Ghafiqi</a
                   ></b

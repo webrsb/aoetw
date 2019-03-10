@@ -528,6 +528,36 @@
             allowfullscreen
           ></iframe>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="180"
+                src="~assets/Throwingaxeman.png"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>一群擲斧兵。</em></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="200"
+                src="~assets/Francisca.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:185px">
+              <p>
+                <em>真實的斧頭(francisca)比遊戲中描繪的更小且只有單一刀片。</em>
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -722,38 +752,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="180"
-                src="~assets/Throwingaxeman.png"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>一群擲斧兵。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="200"
-                src="~assets/Francisca.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:185px">
-              <p>
-                <em>真實的斧頭(francisca)比遊戲中描繪的更小且只有單一刀片。</em>
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

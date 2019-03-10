@@ -490,6 +490,25 @@
             Shotel是一種起源於衣所比亞的劍形鐮刀。其獨特的設計讓使用者可以一邊使用盾牌並傷害敵人重要的身體部位。Shotel也被用來勾住和拉下戰馬上的騎士。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o9_400.png"
+                alt=""
+            /></gallery>
+            <p><em>一群彎刀勇士</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Pop.jpg" alt=""
+            /></gallery>
+            <p><em>彎刀勇士正攻擊敵人的城鎮</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -659,27 +678,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o9_400.png"
-                alt=""
-            /></gallery>
-            <p><em>一群彎刀勇士</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Pop.jpg" alt=""
-            /></gallery>
-            <p><em>彎刀勇士正攻擊敵人的城鎮</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

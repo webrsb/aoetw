@@ -76,34 +76,43 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <ul>
-            <div class="unititle">
-              <img src="~assets/AllKing.png" width="250" alt="" />
-              <p>國王們</p>
+          <div class="row">
+            <div class="col-md-4">
+              <gallery>
+                <img src="~assets/AllKing.png" class="hg" alt="" />
+              </gallery>
+              <em>國王們</em>
             </div>
-          </ul>
-          <div class="hrn1"></div>
-          <div class="n1"></div>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">
-                國王
-              </div>
+              <div class="unititle2">國王</div>
             </td>
           </tr>
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img src="~assets/KingA.png" width="45" alt="" />
-                <img src="~assets/KingB.png" width="45" alt="" />
-                <img src="~assets/KingC.png" width="45" alt="" />
-                <img src="~assets/KingD.png" width="45" alt="" />
-                <img src="~assets/KingE.png" width="45" alt="" />
-                <!-- <img src="~assets/Kingsoutheastasian.png" width="45" alt="" /> -->
+                <b-tabs no-fade>
+                  <b-tab title="EU">
+                    <img src="~assets/KingA.png" width="45" alt="" />
+                  </b-tab>
+                  <b-tab title="NA">
+                    <img src="~assets/KingB.png" width="45" alt="" />
+                  </b-tab>
+                  <b-tab title="ME">
+                    <img src="~assets/KingC.png" width="45" alt="" />
+                  </b-tab>
+                  <b-tab title="EA">
+                    <img src="~assets/KingD.png" width="45" alt="" />
+                  </b-tab>
+                  <b-tab title="AF">
+                    <img src="~assets/KingE.png" width="45" alt="" />
+                  </b-tab>
+                </b-tabs>
               </div>
             </td>
           </tr>
@@ -114,13 +123,13 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">
-              <nuxt-link to="/units/Civilian">平民</nuxt-link>
-            </td>
+            <td class="unit4">平民</td>
           </tr>
           <tr>
             <td class="unit3">資料片</td>
-            <td class="unit4">世紀帝國二</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">

@@ -165,6 +165,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%A1%94%E9%87%8C%E5%85%8B%C2%B7%E4%BC%8A%E6%9C%AC%C2%B7%E9%BD%8A%E4%BA%9E%E5%BE%B7"
+                    target="_blank"
                     >塔里克·伊本·齊亞德</a
                   ></b
                 ></i

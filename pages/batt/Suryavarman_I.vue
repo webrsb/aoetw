@@ -149,6 +149,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E8%98%87%E5%88%A9%E8%80%B6%E8%B7%8B%E6%91%A9%E4%B8%80%E4%B8%96"
+                    target="_blank"
                     >蘇利耶跋摩一世</a
                   ></b
                 ></i

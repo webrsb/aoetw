@@ -684,6 +684,49 @@
             火是對付木船的毀滅性武器，拜占庭人的敵人無法忍受噴著希臘之火火戰船的猛烈攻勢。其他文明有時會獲得希臘之火的秘密，但它的使用需要非常謹慎且危險，因此在今天它已經失傳。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Fireline.png" alt=""
+              /></gallery>
+              <p>
+                <em
+                  ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
+                  >(火戰船在中間)。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Fireship.jpg" alt=""
+              /></gallery>
+              <p><em>一群火戰船。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/FireShipHD.png" alt=""
+              /></gallery>
+              <p>
+                <em
+                  >各種火戰船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/FireShipHD.png" alt=""
+                /></gallery>
+                <p><em>各種火戰船(HD擴充資料片)。</em></p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -863,51 +906,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Fireline.png" alt=""
-              /></gallery>
-              <p>
-                <em
-                  ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
-                  >(火戰船在中間)。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Fireship.jpg" alt=""
-              /></gallery>
-              <p><em>一群火戰船。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/FireShipHD.png" alt=""
-              /></gallery>
-              <p>
-                <em
-                  >各種火戰船(世紀帝國和<nuxt-link to="/games/aoc"
-                    >征服者入侵</nuxt-link
-                  >資料片)。</em
-                >
-              </p>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/FireShipHD.png" alt=""
-                /></gallery>
-                <p><em>各種火戰船(HD擴充資料片)。</em></p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

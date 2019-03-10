@@ -131,7 +131,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/y85xhn5t">梨利</a></strong
+                  ><a href="http://tinyurl.com/y85xhn5t" target="_blank"
+                    >梨利</a
+                  ></strong
                 ></i
               >
             </div>

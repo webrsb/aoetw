@@ -25,7 +25,8 @@
           <b-dropdown-item to="/elements/Frame_delay">開火間隔</b-dropdown-item>
           <b-dropdown-item to="/elements/Area_of_Effect">擴散範圍</b-dropdown-item>
           <b-dropdown-item to="/elements/Team_Bonus">團隊加分</b-dropdown-item>
-          <b-dropdown-item to="/elements//Taunts">嘲諷語音</b-dropdown-item>
+          <b-dropdown-item to="/elements/Relic">遺跡</b-dropdown-item>
+          <b-dropdown-item to="/elements/Taunts">嘲諷語音</b-dropdown-item>
         </b-nav-item-dropdown>
         <b-nav-item-dropdown text="資訊">
           <b-dropdown-item to="/top">世界知名玩家</b-dropdown-item>

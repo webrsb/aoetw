@@ -154,6 +154,7 @@
             <td>
               台灣知名女插畫家，會開插畫直播，<a
                 href="https://www.facebook.com/DanbulunII/"
+                target="_blank"
                 >粉絲專頁</a
               >，網路上擁有廣大粉絲，也是世紀愛好者，常常愛用塔攻，值得一提的是她用繪圖版打世紀。
             </td>
@@ -183,6 +184,7 @@
             <td>
               旅澳女玩家，一個年輕辣媽，愛打無海牧地，實力還不錯，會開直播，<a
                 href="https://www.twitch.tv/ada_lee"
+                target="_blank"
                 >直播網址</a
               >。
             </td>
@@ -363,6 +365,7 @@
             <td>
               經典國王被投石機砸死。(<a
                 href="https://www.youtube.com/watch?v=xuur0nGnfB0"
+                target="_blank"
                 >影片</a
               >)
             </td>
@@ -589,6 +592,7 @@
             <td>
               布丁，臺灣知名老玩家，成名的早，單挑團戰都打的不錯，匈奴的搶城戰術更是所有玩家的惡夢，在ptt有多篇<a
                 href="https://pttweb.tw/aoe/m-1497345471-a-f71.html"
+                target="_blank"
                 >精湛教學</a
               >。
             </td>

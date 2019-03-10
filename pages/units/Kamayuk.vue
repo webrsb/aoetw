@@ -485,6 +485,31 @@
             >等較低階士兵的軍官。較低階的槍隊長會被指派吹海螺貝喇叭或打鼓。較低階的槍隊長在頭銜之前有冠名，如Choru或Pachac。最高階的槍隊長被簡稱為槍隊長。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Kamayuk.png" alt=""
+            /></gallery>
+            <p><em>一群槍隊長</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                src="~assets/Kamayuk_attack_paladin.jpg"
+                alt=""
+            /></gallery>
+            <p><em>槍隊長1的攻擊距離可以從夥伴背後攻擊敵人。</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Kamayuk_&_Slinger.jpg" alt=""
+            /></gallery>
+            <p><em>印加的特殊單位:槍隊長和投石手。</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -662,33 +687,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Kamayuk.png" alt=""
-            /></gallery>
-            <p><em>一群槍隊長</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/Kamayuk_attack_paladin.jpg"
-                alt=""
-            /></gallery>
-            <p><em>槍隊長1的攻擊距離可以從夥伴背後攻擊敵人。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Kamayuk_&_Slinger.jpg" alt=""
-            /></gallery>
-            <p><em>印加的特殊單位:槍隊長和投石手。</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

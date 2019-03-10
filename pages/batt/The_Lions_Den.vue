@@ -305,6 +305,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E8%BF%A6%E7%B4%8D%E5%B8%9D%E5%9C%8B"
+                    target="_blank"
                     >迦納帝國</a
                   ></b
                 ></i

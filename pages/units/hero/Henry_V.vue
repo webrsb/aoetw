@@ -125,6 +125,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%94%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
+                    target="_blank"
                     >亨利五世</a
                   ></strong
                 ></i

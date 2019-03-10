@@ -301,6 +301,7 @@
               <i
                 ><b
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E5%80%AD%E9%A9%AC%E4%BA%9A%E7%8E%8B%E6%9C%9D"
                     >奧米亞王朝</a
                   ></b

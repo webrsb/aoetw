@@ -253,6 +253,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E8%92%99%E9%87%91%E6%88%B0%E7%88%AD"
+                    target="_blank"
                     >蒙金戰爭</a
                   ></strong
                 ></em
@@ -260,6 +261,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E6%BB%85%E8%A5%BF%E5%A4%8F%E4%B9%8B%E6%88%B0"
+                    target="_blank"
                     >蒙古滅西夏之戰</a
                   ></strong
                 ></em

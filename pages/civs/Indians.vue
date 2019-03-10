@@ -8,15 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            四大文明古國中的古印度就是指現在印度的印度河和恆河流域這個區塊。但遊戲中是取自中世紀和蒙兀兒帝國的時間點因此印度千年的歷史和有名的帝國大多都跟遊戲中印度扯不上邊。<nuxt-link
-              to="/units/hero/Tamerlane"
-              >帖木兒</nuxt-link
-            >帝國崩潰後，其皇室後代巴布爾率軍入侵南亞次大陸，並建立蒙兀兒帝國。大家常聽到的孔雀王朝是亞歷山大那年代的王朝。值得一提是印度在中世紀也受到伊斯蘭教的影響，因此宗教是上層伊斯蘭基層印度教。
-          </p>
-          <p>
-            <b>印度</b>是印度的<nuxt-link to="/units/Camel">駱駝</nuxt-link
+            <b>印度</b>是<nuxt-link to="/units/Camel">駱駝</nuxt-link
             >和<nuxt-link to="/units/Gunpowder_Unit">火藥文明</nuxt-link
-            >，世紀帝國II資料片被遺忘的王朝所新增的文明。印度軍隊一直以來都很依賴於大象，因此印度的<nuxt-link
+            >，<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >新增的文明。印度軍隊一直以來都很依賴於大象，因此印度的<nuxt-link
               to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Elephant_Archer">象弓騎兵</nuxt-link
@@ -41,6 +36,12 @@
             >收入、作為經濟來源之一的漁獲<nuxt-link to="/units/Villager"
               >村民</nuxt-link
             >也擁有更高的工作效率，隨著地區穩定人口也是穩定上升因此文明進度，村民會更便宜。
+          </p>
+          <p>
+            四大文明古國中的古印度就是指現在印度的印度河和恆河流域這個區塊。但遊戲中是取自中世紀和蒙兀兒帝國的時間點因此印度千年的歷史和有名的帝國大多都跟遊戲中印度扯不上邊。<nuxt-link
+              to="/units/hero/Tamerlane"
+              >帖木兒</nuxt-link
+            >帝國崩潰後，其皇室後代巴布爾率軍入侵南亞次大陸，並建立蒙兀兒帝國。大家常聽到的孔雀王朝是亞歷山大那年代的王朝。值得一提是印度在中世紀也受到伊斯蘭教的影響，因此宗教是上層伊斯蘭基層印度教。
           </p>
         </div>
         <h3>遊戲概要</h3>

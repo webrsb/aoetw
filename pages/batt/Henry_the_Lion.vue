@@ -115,10 +115,7 @@
               <li>
                 雖然猛獅亨利實際上是<nuxt-link to="/batt/Barbarossa"
                   >巴巴羅薩</nuxt-link
-                >的對手，也試圖擴張他自身的權威，但他其實從未對巴巴羅薩宣戰。他被巴巴羅薩放逐的原因並不是因為背叛，而是抗命，因為他拒絕支持巴巴羅薩在北<nuxt-link
-                  to="/civs/Italians"
-                  >義大利</nuxt-link
-                >的軍事行動。
+                >的對手，也試圖擴張他自身的權威，但他其實從未對巴巴羅薩宣戰。他被巴巴羅薩放逐的原因並不是因為背叛，而是抗命，因為他拒絕支持巴巴羅薩在北義大利的軍事行動。
               </li>
               <li>亨利實際上就是巴巴羅薩劇情的敘述者（旁白）。</li>
               <li>
@@ -213,6 +210,7 @@
               <em
                 ><strong
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E7%8B%AE%E5%AD%90%E4%BA%A8%E5%88%A9"
                     >獅子亨利</a
                   ></strong

@@ -216,6 +216,7 @@
             ><strong
               ><a
                 href="https://en.wikipedia.org/wiki/First_Mongol_invasion_of_Poland"
+                target="_blank"
                 >蒙古入侵波蘭</a
               ></strong
             ></em

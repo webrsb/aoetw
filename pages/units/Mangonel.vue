@@ -426,118 +426,117 @@
               >：輕型投石車對僧侶的招降有較好的抗性。
             </li>
           </ul>
-          <h3>更新日誌</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <h3>
-              <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>移動速度為0.5。</li>
-            </ul>
-            <h3>
-              <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>輕型投石車現在移動速度增加到0.6。</li>
-              <li>
-                輕型投石車對<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
-                  >攻城武器</nuxt-link
-                >有+12的攻擊。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:引進<nuxt-link
-                  to="/techs/Drill"
-                  >演習</nuxt-link
-                >科技。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
-                  to="/techs/Shinkichon"
-                  >神機箭</nuxt-link
-                >：給予投石車+2的射程，到了1.0c版效果減少為1。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link>的<nuxt-link
-                  to="/elements/Team_Bonus"
-                  >團隊加分</nuxt-link
-                >讓投石車有+1射程。
-              </li>
-            </ul>
-            <h3>
-              <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
-                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
-                  to="/techs/Furor_Celtica"
-                  >塞爾特狂暴</nuxt-link
-                >給予投石車+40%的HP。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：<nuxt-link
-                  to="/techs/Ironclad"
-                  >鋼鐵甲</nuxt-link
-                >引入。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Koreans">韓國</nuxt-link
-                >的團隊加分改為最小範圍-2，而不是射程+1。
-              </li>
-            </ul>
-          </div>
-          <h3>趣事</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>
-                在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-                >之前，投石車研發<nuxt-link to="/techs/Chemistry"
-                  >化學</nuxt-link
-                >會變弱，投擲速度從3.5降低到2.9。
-              </li>
-            </ul>
-          </div>
-          <h3>圖庫</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Mangonel.png" alt=""
-                /></gallery>
-                <p><em>輕型投石車</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
-                /></gallery>
-                <p><em>投石車系</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Mangonneau.png" alt=""
-                /></gallery>
-                <p><em>畫家素描下現實世界的投石車</em></p>
-              </div>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aok">帝王世紀</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>移動速度為0.5。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>輕型投石車現在移動速度增加到0.6。</li>
+            <li>
+              輕型投石車對<nuxt-link to="/armor/Armor_Class_Siege_Weapon"
+                >攻城武器</nuxt-link
+              >有+12的攻擊。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link>:引進<nuxt-link
+                to="/techs/Drill"
+                >演習</nuxt-link
+              >科技。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>:<nuxt-link
+                to="/techs/Shinkichon"
+                >神機箭</nuxt-link
+              >：給予投石車+2的射程，到了1.0c版效果減少為1。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link>的<nuxt-link
+                to="/elements/Team_Bonus"
+                >團隊加分</nuxt-link
+              >讓投石車有+1射程。
+            </li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
+                to="/techs/Furor_Celtica"
+                >塞爾特狂暴</nuxt-link
+              >給予投石車+40%的HP。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：<nuxt-link
+                to="/techs/Ironclad"
+                >鋼鐵甲</nuxt-link
+              >引入。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Koreans">韓國</nuxt-link
+              >的團隊加分改為最小範圍-2，而不是射程+1。
+            </li>
+          </ul>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
+              >之前，投石車研發<nuxt-link to="/techs/Chemistry">化學</nuxt-link
+              >會變弱，投擲速度從3.5降低到2.9。
+            </li>
+          </ul>
+        </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>或稱拋石機、「
+            回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的<nuxt-link
+              to="/building/Stone_Wall"
+              >城牆</nuxt-link
+            >、城內或者兵陣內而造成破壞。
+          </p>
+          <p>
+            漢語的「砲」便是古漢語動詞「拋」的名詞形式，這種通過聲調改變詞性的手段被稱為四聲別義。「砲」原指投石機與其彈，唐後也指由投石機發射的燃燒物，宋後也指由投石機發射的縱火物與爆裂物，明後也指大型管身火器。宋代之前「砲」與「炮」不同義，「炮」只有「燒烤」的意思，宋代之後「炮」逐漸有「砲」的意思。就連「<nuxt-link
+              to="/units/Bombard_Cannon"
+              >火砲</nuxt-link
+            >」一詞最初也是指發射燃燒物或爆裂物投石機與其砲彈，明後才也指大型管身火器。
+          </p>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Mangonel.png" alt=""
+              /></gallery>
+              <p><em>輕型投石車</em></p>
             </div>
-          </div>
-          <h3>歷史</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <p>
-              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>或稱拋石機、「
-              回回炮」,砲或炮，是遠古時代與中古時代出現的攻城武器，可把石彈、巨石或爆裂物投到敵方的<nuxt-link
-                to="/building/Stone_Wall"
-                >城牆</nuxt-link
-              >、城內或者兵陣內而造成破壞。
-            </p>
-            <p>
-              漢語的「砲」便是古漢語動詞「拋」的名詞形式，這種通過聲調改變詞性的手段被稱為四聲別義。「砲」原指投石機與其彈，唐後也指由投石機發射的燃燒物，宋後也指由投石機發射的縱火物與爆裂物，明後也指大型管身火器。宋代之前「砲」與「炮」不同義，「炮」只有「燒烤」的意思，宋代之後「炮」逐漸有「砲」的意思。就連「<nuxt-link
-                to="/units/Bombard_Cannon"
-                >火砲</nuxt-link
-              >」一詞最初也是指發射燃燒物或爆裂物投石機與其砲彈，明後才也指大型管身火器。
-            </p>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
+              /></gallery>
+              <p><em>投石車系</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Mangonneau.png" alt=""
+              /></gallery>
+              <p><em>畫家素描下現實世界的投石車</em></p>
+            </div>
           </div>
         </div>
       </div>

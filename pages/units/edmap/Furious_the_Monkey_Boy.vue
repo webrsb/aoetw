@@ -25,7 +25,8 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            在被遺忘的王朝<nuxt-link to="/batt">戰役</nuxt-link
+            在<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            ><nuxt-link to="/batt">戰役</nuxt-link
             >中(Prithviraj)出現了三隻狂猴，他們實際上是玩家必須射擊的三個“玩偶”。若玩家
             選擇了與古魯相遇，他們必須在9秒內拍攝才能掌握 “盲目的拍攝藝術”。
           </p>
@@ -34,14 +35,14 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <ul>
-            <div class="unititle">
-              <img src="~assets/Furiousthemonkeyboy.png" width="250" alt="" />
-              <p>一群狂猴</p>
+          <div class="row">
+            <div class="col-md-4">
+              <gallery>
+                <img class="hg" src="~assets/Furiousthemonkeyboy.png" alt="" />
+              </gallery>
+              <em>一群狂猴</em>
             </div>
-          </ul>
-          <div class="hrn1"></div>
-          <div class="n1"></div>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
@@ -71,9 +72,7 @@
           </tr>
           <tr>
             <td class="unit3">類型</td>
-            <td class="unit4">
-              <nuxt-link to="/units/Civilian">平民</nuxt-link>
-            </td>
+            <td class="unit4">平民</td>
           </tr>
           <tr>
             <td class="unit3">資料片</td>

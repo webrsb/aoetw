@@ -455,6 +455,31 @@
             <li>史實上的飛刀女獵手實際上是拿火槍。</li>
           </ul>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png"
+                alt=""
+            /></gallery>
+            <p><em>一群飛刀女獵手</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Gbeto_Attacking.jpg" alt=""
+            /></gallery>
+            <p>
+              <em
+                >飛刀女獵手正攻擊敵人的<nuxt-link to="/building/Barracks"
+                  >軍營</nuxt-link
+                ></em
+              >
+            </p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -647,33 +672,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o2_400.png"
-                alt=""
-            /></gallery>
-            <p><em>一群飛刀女獵手</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Gbeto_Attacking.jpg" alt=""
-            /></gallery>
-            <p>
-              <em
-                >飛刀女獵手正攻擊敵人的<nuxt-link to="/building/Barracks"
-                  >軍營</nuxt-link
-                ></em
-              >
-            </p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

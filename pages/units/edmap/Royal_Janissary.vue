@@ -8,8 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            在世紀帝國II
-            HD：被遺忘的王朝中，<b>皇家衛兵</b>是不可生產的<nuxt-link
+            <nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >中，<b>皇家衛兵</b>是不可生產的<nuxt-link
               to="/units/Gunpowder_Unit"
               >火藥單位</nuxt-link
             >。 它僅在地圖編輯器中可用。除了命中率外，它的各種數據與<nuxt-link
@@ -25,8 +25,9 @@
             <b>土耳其火槍兵</b
             >最初是以皇家衛士的造型，那為何不使用呢?其原因是“因為
             測試人員和評論會討論說，皇家衛士看起來像是”KU Klux
-            Klan“成員”(美國極端組織)。
-            儘管直到“被遺忘的王朝”前並沒有作為一個單位出現，皇家猶太人仍然在清真寺內駐守
+            Klan“成員”(美國極端組織)。 儘管直到“<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >”前並沒有作為一個單位出現，皇家猶太人仍然在清真寺內駐守
             ，在“世紀帝國二”
             威廉華萊士運動的行軍和戰斗場景開始時播放的截圖之一。
           </p>
@@ -34,21 +35,23 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <ul>
-            <div class="unititle">
-              <img src="~assets/Royal Janissary.png" width="250" alt="" />
-              <p>
+          <div class="row">
+            <div class="col-md-4">
+              <gallery>
+                <img src="~assets/Royal Janissary.png" alt="" />
+              </gallery>
+              <em>
                 <nuxt-link to="/units/Hand_Cannoneer">火槍兵</nuxt-link
-                >與皇家衛兵
-              </p>
+                >與皇家衛兵</em
+              >
             </div>
-            <div class="unititle">
-              <img src="~assets/KKK_night.jpg" width="250" alt="" />
-              <p>KU Klux Klan(3K黨)</p>
+            <div class="col-md-4">
+              <gallery>
+                <img src="~assets/KKK_night.jpg" alt="" />
+              </gallery>
+              <em>KU Klux Klan(3K黨)</em>
             </div>
-          </ul>
-          <div class="hrn1"></div>
-          <div class="n1"></div>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
@@ -80,7 +83,9 @@
           </tr>
           <tr>
             <td class="unit3">資料片</td>
-            <td class="unit4">被遺忘的王朝</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">

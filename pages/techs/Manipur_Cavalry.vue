@@ -77,7 +77,8 @@
         <h3>趣聞</h3>
         <div class="hrn1"></div>
         <p>
-          <a href="https://en.wikipedia.org/wiki/Manipur">曼尼普爾</a
+          <a href="https://en.wikipedia.org/wiki/Manipur" target="_blank"
+            >曼尼普爾</a
           >現今於<nuxt-link to="/civs/Indians">印度</nuxt-link
           >境內，而曼尼普爾在血緣和文化上與<nuxt-link to="/civs/Chinese"
             >中國</nuxt-link
@@ -85,7 +86,7 @@
             to="/units/King"
             >國王</nuxt-link
           >
-          <a href="http://tinyurl.com/y9cq7s5x">帕巴</a
+          <a href="http://tinyurl.com/y9cq7s5x" target="_blank">帕巴</a
           >把印度教列為國教，而對龍的崇拜依然以各種形式在曼尼普爾保存下來。歷史上曼尼普爾並不屬於緬甸，反而多次與緬甸王國交戰。
         </p>
       </div>

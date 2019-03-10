@@ -134,7 +134,9 @@
           </tr>
           <tr>
             <td class="unit3">版本</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">戰役</td>

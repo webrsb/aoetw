@@ -19,7 +19,9 @@
             >等都削弱了不少。
           </p>
           <p>
-            <a href="https://forum.gamer.com.tw/C.php?bsn=1122&snA=14418&tnum=1"
+            <a
+              href="https://forum.gamer.com.tw/C.php?bsn=1122&snA=14418&tnum=1"
+              target="_blank"
               >資料來源</a
             >
           </p>

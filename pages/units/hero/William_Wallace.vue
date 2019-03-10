@@ -130,7 +130,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://tinyurl.com/ycml36mh">威廉華勒斯</a></strong
+                  ><a href="https://tinyurl.com/ycml36mh" target="_blank"
+                    >威廉華勒斯</a
+                  ></strong
                 ></i
               >
             </div>

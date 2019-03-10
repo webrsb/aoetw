@@ -141,6 +141,7 @@
               <em
                 ><strong
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E5%8B%83%E5%8D%B0%E6%9B%A9"
                     >勃印曩</a
                   ></strong

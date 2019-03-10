@@ -74,7 +74,11 @@
             維基百科上的狼
             <div style="margin-left: 10px;">
               <i
-                ><b><a href="http://tinyurl.com/y9thg6vb">狼</a></b></i
+                ><b
+                  ><a href="http://tinyurl.com/y9thg6vb" target="_blank"
+                    >狼</a
+                  ></b
+                ></i
               >
             </div>
           </div>

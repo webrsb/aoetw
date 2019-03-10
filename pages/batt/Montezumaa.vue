@@ -160,7 +160,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Montezuma"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Montezuma"
+                    target="_blank"
                     >蒙特蘇馬</a
                   ></b
                 ></i

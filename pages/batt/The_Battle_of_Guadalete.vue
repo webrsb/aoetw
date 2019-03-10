@@ -329,7 +329,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Roderic"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Roderic"
+                    target="_blank"
                     >羅德里克（英文版）</a
                   ></b
                 ></i
@@ -348,6 +350,7 @@
                 ><b
                   ><a
                     href="https://baike.baidu.com/item/%E7%93%9C%E8%BE%BE%E8%8E%B1%E7%89%B9%E6%88%98%E5%BD%B9"
+                    target="_blank"
                     >瓜達萊特之戰（簡體版）</a
                   ></b
                 ></i

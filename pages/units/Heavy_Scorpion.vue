@@ -581,61 +581,60 @@
           <ul>
             <li>增加弩砲的砲彈大小</li>
           </ul>
-          <h3>趣事</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>
-                以前<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-                >的中文版本，把弩砲直接翻譯成蠍子。
-              </li>
-              <li>
-                弩砲是遊戲中唯一只有一次升級的<nuxt-link
-                  to="/units/Siege_Weapons"
-                  >攻城單位</nuxt-link
-                >。
-              </li>
-              <li>
-                弩砲有0的近戰攻擊，所以攻擊近戰防禦-3的<nuxt-link
-                  to="/units/Battering_Ram"
-                  >衝車</nuxt-link
-                >是可以的，有意思的是弩砲對<nuxt-link to="/units/Battering_Ram"
-                  >衝車</nuxt-link
-                >還有加成。
-              </li>
-            </ul>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              以前<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
+              >的中文版本，把弩砲直接翻譯成蠍子。
+            </li>
+            <li>
+              弩砲是遊戲中唯一只有一次升級的<nuxt-link to="/units/Siege_Weapons"
+                >攻城單位</nuxt-link
+              >。
+            </li>
+            <li>
+              弩砲有0的近戰攻擊，所以攻擊近戰防禦-3的<nuxt-link
+                to="/units/Battering_Ram"
+                >衝車</nuxt-link
+              >是可以的，有意思的是弩砲對<nuxt-link to="/units/Battering_Ram"
+                >衝車</nuxt-link
+              >還有加成。
+            </li>
+          </ul>
+        </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-12">
+            <p>
+              投射機（Ballista）或稱扭力弩砲，是以絞繩的扭力（而非「弓身」的彈力）來發射物體的大型冷兵器砲。此器與弩、牀弩依靠弓身的彈力來發射物體的運作模式不同。投射機最早可追溯至古希臘時代。古羅馬軍隊使用的投射機有分大型與小型，小型的投射器又稱作蠍砲（Scorpius）。另外也有單兵使用的手持投射機（扭力弩）。
+            </p>
+            <p>
+              床弩又稱床子弩、牀弩、牀子弩（Arcuballista），在<nuxt-link
+                to="/civs/Chinese"
+                >中國</nuxt-link
+              >最早出現於戰國時代，是把弩大型化或有多個弩翼（弓身），裝在發射台或車輛上的一種大型的特殊弩。床弩的主要使用目的是攻城或海戰。據《武經總要》記載宋朝軍隊中共有六種床弩。典型的中國床子弩使用絞車拉動弓弦，操作士兵達7名，根據宋人記載的最高射程約合現在的1500米。根據史料記載，遼軍將領蕭撻凜便是被400多米外宋軍陣地的兩米巨箭射殺，最終雙方簽訂著名的「澶淵之盟」
+            </p>
           </div>
-          <h3>圖庫</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Heavyscorpion.png" alt=""
-                /></gallery>
-                <p><em>一群重型弩砲</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Scorpionline.png" alt=""
-                /></gallery>
-                <p><em>弩砲與重型弩砲</em></p>
-              </div>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Heavyscorpion.png" alt=""
+              /></gallery>
+              <p><em>一群重型弩砲</em></p>
             </div>
-          </div>
-          <h3>歷史</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <div class="col-md-12">
-              <p>
-                投射機（Ballista）或稱扭力弩砲，是以絞繩的扭力（而非「弓身」的彈力）來發射物體的大型冷兵器砲。此器與弩、牀弩依靠弓身的彈力來發射物體的運作模式不同。投射機最早可追溯至古希臘時代。古羅馬軍隊使用的投射機有分大型與小型，小型的投射器又稱作蠍砲（Scorpius）。另外也有單兵使用的手持投射機（扭力弩）。
-              </p>
-              <p>
-                床弩又稱床子弩、牀弩、牀子弩（Arcuballista），在<nuxt-link
-                  to="/civs/Chinese"
-                  >中國</nuxt-link
-                >最早出現於戰國時代，是把弩大型化或有多個弩翼（弓身），裝在發射台或車輛上的一種大型的特殊弩。床弩的主要使用目的是攻城或海戰。據《武經總要》記載宋朝軍隊中共有六種床弩。典型的中國床子弩使用絞車拉動弓弦，操作士兵達7名，根據宋人記載的最高射程約合現在的1500米。根據史料記載，遼軍將領蕭撻凜便是被400多米外宋軍陣地的兩米巨箭射殺，最終雙方簽訂著名的「澶淵之盟」
-              </p>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Scorpionline.png" alt=""
+              /></gallery>
+              <p><em>弩砲與重型弩砲</em></p>
             </div>
           </div>
         </div>

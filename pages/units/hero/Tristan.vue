@@ -59,7 +59,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -133,7 +135,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://tinyurl.com/ybrg2gl2">崔斯坦</a></strong
+                  ><a href="https://tinyurl.com/ybrg2gl2" target="_blank"
+                    >崔斯坦</a
+                  ></strong
                 ></i
               >
             </div>

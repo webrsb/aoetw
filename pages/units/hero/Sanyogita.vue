@@ -103,7 +103,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://tinyurl.com/ydhngkth">姍優姬妲</a></strong
+                  ><a href="https://tinyurl.com/ydhngkth" target="_blank"
+                    >姍優姬妲</a
+                  ></strong
                 ></i
               >
             </div>

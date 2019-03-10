@@ -54,7 +54,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">被遺忘的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
@@ -123,7 +125,9 @@
         <div style="margin-left: 10px;">
           <i
             ><strong
-              ><a href="https://en.wikipedia.org/wiki/Pike_(weapon)"
+              ><a
+                href="https://en.wikipedia.org/wiki/Pike_(weapon)"
+                target="_blank"
                 >强力重裝長槍兵</a
               >
             </strong>

@@ -55,7 +55,7 @@
             </li>
           </ul>
         </div>
-        <h3><strong>出場戰役</strong></h3>
+        <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p></p>
@@ -182,7 +182,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/源赖朝"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/源赖朝"
+                    target="_blank"
                     >源氏</a
                   ></strong
                 ></i

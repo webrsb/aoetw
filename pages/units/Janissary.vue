@@ -405,6 +405,33 @@
             土耳其軍隊中的一些最好的部隊是土耳其火槍兵，這些人是兒童時被捉來當奴隸，然後沉浸在伊斯蘭教的統治下並成為狂熱的戰士，他們穿著與眾不同的白色頭飾，並在音樂伴奏下進行戰鬥，他們徒步並使用各種不同的武器，這些武器最遠曾到達中東。軍隊是土耳其火槍兵的整個生命，他們以他們的能力感到自豪，他們成功地攻占君士坦丁堡以及領導土耳其成功抵抗馬耳他和維也納的襲擊。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Janissary.png" alt=""
+              /></gallery>
+              <p><em>一群土耳其火槍兵</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/20060421130007janissry2.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>一群攻擊中的土耳其火槍兵</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Jan1.jpg" alt=""
+              /></gallery>
+              <p><em>土耳其火槍兵初級軍官</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -604,35 +631,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Janissary.png" alt=""
-              /></gallery>
-              <p><em>一群土耳其火槍兵</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/20060421130007janissry2.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>一群攻擊中的土耳其火槍兵</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Jan1.jpg" alt=""
-              /></gallery>
-              <p><em>土耳其火槍兵初級軍官</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

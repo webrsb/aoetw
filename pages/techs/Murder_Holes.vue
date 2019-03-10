@@ -123,7 +123,8 @@
                 /></gallery>
                 <p>
                   <em
-                    ><a href="http://tinyurl.com/y8vlw8g3">博丁安堡</a
+                    ><a href="http://tinyurl.com/y8vlw8g3" target="_blank"
+                      >博丁安堡</a
                     >的垛孔(博丁安堡為遊戲中，<nuxt-link to="/civs/Britons"
                       >不列顛</nuxt-link
                     >、<nuxt-link to="/civs/Franks">法蘭克</nuxt-link

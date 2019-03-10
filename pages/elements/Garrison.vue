@@ -75,7 +75,7 @@
               ><nuxt-link to="/building/Castle">城堡</nuxt-link
               ><nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
               ><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link
-              >撤離後無法再進駐） >撤離後無法再進駐）
+              >撤離後無法再進駐
             </li>
             <li>
               <nuxt-link to="/building/House">房屋</nuxt-link

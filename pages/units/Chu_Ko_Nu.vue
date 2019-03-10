@@ -520,6 +520,42 @@
             操作員拉回弓弦，一個新的箭矢會自動掉入發射器中，當弓弦拉到極限時，武器就會自動開火。操作員必須盡可能迅速地向後拉動弓弦以保持快速射擊，連弩的弱點是距離短，與較大的單發弩相比，火力更弱。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" width="180" src="~assets/Chukonu.png" alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>一群連弩兵。</em></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="200"
+                src="~assets/7081407_2_l.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:185px">
+              <p><em>真實的諸葛連弩。</em></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="200"
+                src="~assets/Chinese_age11.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:185px">
+              <p><em>ㄧ名連弩兵。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -706,44 +742,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" width="180" src="~assets/Chukonu.png" alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>一群連弩兵。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="200"
-                src="~assets/7081407_2_l.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:185px">
-              <p><em>真實的諸葛連弩。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="200"
-                src="~assets/Chinese_age11.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:185px">
-              <p><em>ㄧ名連弩兵。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

@@ -191,7 +191,9 @@
           <div class="hrn1"></div>
           <ul>
             <li>
-              <a href="https://www.youtube.com/watch?v=QpI3GxgX7TQ"
+              <a
+                href="https://www.youtube.com/watch?v=QpI3GxgX7TQ"
+                target="_blank"
                 >此影片是，快速通關打法可以根據個人遊戲體驗斟酌使用</a
               >
             </li>

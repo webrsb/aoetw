@@ -50,7 +50,7 @@
             </li>
           </ul>
         </div>
-        <h3><strong>出場戰役</strong></h3>
+        <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1"><p>無</p></div>
         <h3><strong>更多數據</strong></h3>
@@ -247,7 +247,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/兰斯洛特"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/兰斯洛特"
+                    target="_blank"
                     >蘭斯洛特</a
                   ></strong
                 ></i
@@ -318,7 +320,7 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/兰斯洛特(Fate)"
+                ><a href="https://zh.moegirl.org/兰斯洛特(Fate)" target="_blank"
                   >Fate系列</a
                 ></strong
               ></span
@@ -337,7 +339,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修"
+                  target="_blank"
                   >Code Geass</a
                 ></strong
               ></span
@@ -360,7 +364,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://en.wikipedia.org/wiki/First_Knight"
+                ><a
+                  href="https://en.wikipedia.org/wiki/First_Knight"
+                  target="_blank"
                   >第一武士</a
                 ></strong
               ></span

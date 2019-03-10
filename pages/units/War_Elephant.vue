@@ -639,6 +639,31 @@
             如果他們能夠被引導到敵方陣型中，敵軍幾乎總是陷於混亂狀態甚至被踐踏而死。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Warelephant.png" alt=""
+            /></gallery>
+            <p><em>一群戰象</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png"
+                alt=""
+            /></gallery>
+            <p>
+              <em
+                >一隻精銳戰象可以輕易地擊敗100個<nuxt-link to="/units/Villager"
+                  >村民</nuxt-link
+                ></em
+              >
+            </p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -825,33 +850,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由Dennis協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Warelephant.png" alt=""
-            /></gallery>
-            <p><em>一群戰象</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/Screenshot_2017-06-28_at_1.14.06_AM.png"
-                alt=""
-            /></gallery>
-            <p>
-              <em
-                >一隻精銳戰象可以輕易地擊敗100個<nuxt-link to="/units/Villager"
-                  >村民</nuxt-link
-                ></em
-              >
-            </p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

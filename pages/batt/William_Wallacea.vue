@@ -168,6 +168,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E8%8F%AF%E8%90%8A%E5%A3%AB"
+                    target="_blank"
                     >威廉華勒斯</a
                   ></b
                 ></i

@@ -1379,37 +1379,35 @@
             </tr>
           </table>
 
+          <h3>圖庫</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="180"
+                  src="~assets/Infantryunitsbarracks.jpg"
+                  alt=""
+              /></gallery>
+              <div class="lightbox-caption" style="width:220px">
+                <p><em>所有軍營裡可訓練的步兵單位。</em></p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="200"
+                  src="~assets/Infantryunitscastle.jpg"
+                  alt=""
+              /></gallery>
+              <div class="lightbox-caption" style="width:220px">
+                <p><em>所有城堡裡可訓練的步兵單位。</em></p>
+              </div>
+            </div>
+          </div>
           <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-        </div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="180"
-                src="~assets/Infantryunitsbarracks.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>所有軍營裡可訓練的步兵單位。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="200"
-                src="~assets/Infantryunitscastle.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>所有城堡裡可訓練的步兵單位。</em></p>
-            </div>
-          </div>
         </div>
       </div>
     </div>

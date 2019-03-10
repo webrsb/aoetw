@@ -167,7 +167,11 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Kasbah">Kasbah</a></b
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Kasbah"
+                    target="_blank"
+                    >Kasbah</a
+                  ></b
                 ></i
               >
             </div>

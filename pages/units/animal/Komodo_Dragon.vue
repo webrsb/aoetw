@@ -63,7 +63,11 @@
             維基百科上的科摩多巨蜥
             <div style="margin-left: 10px;">
               <i
-                ><b><a href="http://tinyurl.com/ybolosnk">科摩多巨蜥</a></b></i
+                ><b
+                  ><a href="http://tinyurl.com/ybolosnk" target="_blank"
+                    >科摩多巨蜥</a
+                  ></b
+                ></i
               >
             </div>
           </div>

@@ -236,7 +236,7 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/ycbrmndr"
+                  ><a href="http://tinyurl.com/ycbrmndr" target="_blank"
                     >羅亞爾河戰役</a
                   ></strong
                 ></i

@@ -152,7 +152,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://tinyurl.com/y8gryqz7">奧斯曼</a></strong
+                  ><a href="https://tinyurl.com/y8gryqz7" target="_blank"
+                    >奧斯曼</a
+                  ></strong
                 ></i
               >
             </div>

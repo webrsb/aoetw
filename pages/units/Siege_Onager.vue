@@ -580,24 +580,6 @@
               </li>
             </ul>
           </div>
-          <h3>圖庫</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Siegeonager.png" alt=""
-                /></gallery>
-                <p><em>重型投石車</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
-                /></gallery>
-                <p><em>投石車系</em></p>
-              </div>
-            </div>
-          </div>
           <h3>歷史</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -614,6 +596,24 @@
             <p>
               漢語的「砲」便是古漢語動詞「拋」的名詞形式，這種通過聲調改變詞性的手段被稱為四聲別義。「砲」原指投石機與其彈，唐後也指由投石機發射的燃燒物，宋後也指由投石機發射的縱火物與爆裂物，明後也指大型管身火器。宋代之前「砲」與「炮」不同義，「炮」只有「燒烤」的意思，宋代之後「炮」逐漸有「砲」的意思。就連「火砲」一詞最初也是指發射燃燒物或爆裂物投石機與其砲彈，明後才也指大型管身火器。
             </p>
+          </div>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Siegeonager.png" alt=""
+              /></gallery>
+              <p><em>重型投石車</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Mangonelline.png" alt=""
+              /></gallery>
+              <p><em>投石車系</em></p>
+            </div>
           </div>
         </div>
       </div>

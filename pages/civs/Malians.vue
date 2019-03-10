@@ -264,7 +264,9 @@
           <div style="margin-left: 10px;">
             <i
               ><strong
-                ><a href="http://tinyurl.com/yccvwqw6">馬利帝國</a></strong
+                ><a href="http://tinyurl.com/yccvwqw6" target="_blank"
+                  >馬利帝國</a
+                ></strong
               ></i
             >
           </div>

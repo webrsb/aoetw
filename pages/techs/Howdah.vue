@@ -104,7 +104,8 @@
               /></gallery>
               <p>
                 <em
-                  ><a href="http://tinyurl.com/y9lkr244">卡那提克戰爭</a
+                  ><a href="http://tinyurl.com/y9lkr244" target="_blank"
+                    >卡那提克戰爭</a
                   >中被廣泛使用。</em
                 >
               </p>

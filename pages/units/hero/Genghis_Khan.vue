@@ -174,7 +174,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/yb7q4ekl">成吉思汗</a></strong
+                  ><a href="http://tinyurl.com/yb7q4ekl" target="_blank"
+                    >成吉思汗</a
+                  ></strong
                 ></i
               >
             </div>

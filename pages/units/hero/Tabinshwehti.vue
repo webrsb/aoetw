@@ -157,7 +157,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/y7fus7vy">德彬瑞蒂</a></strong
+                  ><a href="http://tinyurl.com/y7fus7vy" target="_blank"
+                    >德彬瑞蒂</a
+                  ></strong
                 ></i
               >
             </div>

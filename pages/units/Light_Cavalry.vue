@@ -680,6 +680,24 @@
             歐洲人使用輕騎兵的例子還包括斯抓迪亞特、哈伯勒、驃騎兵、、哥薩克、及一些龍騎兵。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
+              /></gallery>
+              <p><em>斥候系。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Lightcavalry.png" alt=""
+              /></gallery>
+              <p><em>一群輕騎兵。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -845,26 +863,6 @@
             <td class="unit4">50秒</td>
           </tr>
         </table>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
-              /></gallery>
-              <p><em>斥候系。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Lightcavalry.png" alt=""
-              /></gallery>
-              <p><em>一群輕騎兵。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

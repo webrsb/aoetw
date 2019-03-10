@@ -131,6 +131,7 @@
               <i
                 ><b
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96"
                     >弗拉德三世</a
                   ></b

@@ -426,7 +426,9 @@
           <div style="margin-left: 60px;">
             維基百科上的<i
               ><b
-                ><a href="http://t.cn/EqFPNxP">法蘭西斯科．德．阿爾梅達</a></b
+                ><a href="http://t.cn/EqFPNxP" target="_blank"
+                  >法蘭西斯科．德．阿爾梅達</a
+                ></b
               ></i
             >
           </div>

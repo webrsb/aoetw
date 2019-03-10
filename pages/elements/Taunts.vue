@@ -937,7 +937,7 @@
             <p>
               （中文語音來源：網路 英文語音來源：<a
                 href="https://ageofempires.fandom.com/wiki/Taunts"
-                target="new"
+                target="_blank"
                 >Aoe英文wiki</a
               >）
             </p>
@@ -949,7 +949,7 @@
 </template>
 <script>
 export default {
-  layout: '',
+  layout: 'allen',
   computed: {
     STATIC_PATH() {
       let base = this.$router.options.base

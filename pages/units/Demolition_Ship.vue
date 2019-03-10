@@ -625,6 +625,47 @@
             隨後，將這艘船直接向敵艦撞去並引燃船上的火藥。如果做得好，神風船就會猛烈地燃燒並爆炸，並讓鄰近的敵艦也著火。裝有易燃索具和設備並且用瀝青密封的木製船隻很容易有火災和爆炸的危險（一旦裝上火藥）。一艘神風船的威力強大，只用一艘船換來的戰略價值遠比預期的更多。神風船也可用於摧毀岸邊建築物。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Demoline.png" alt=""
+              /></gallery>
+              <p><em>神風船系列(神風船在中間)。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Demoship.png" alt=""
+              /></gallery>
+              <p><em>一群神風船。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/DemolitionShipHD.png" alt=""
+              /></gallery>
+              <p>
+                <em
+                  >各種神風船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    src="~assets/DemolitionShipDLC.png"
+                    alt=""
+                /></gallery>
+                <p><em>各種神風船(HD擴充資料片)。</em></p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -785,49 +826,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由莊晉瑋協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Demoline.png" alt=""
-              /></gallery>
-              <p><em>神風船系列(神風船在中間)。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Demoship.png" alt=""
-              /></gallery>
-              <p><em>一群神風船。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/DemolitionShipHD.png" alt=""
-              /></gallery>
-              <p>
-                <em
-                  >各種神風船(世紀帝國和<nuxt-link to="/games/aoc"
-                    >征服者入侵</nuxt-link
-                  >資料片)。</em
-                >
-              </p>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    src="~assets/DemolitionShipDLC.png"
-                    alt=""
-                /></gallery>
-                <p><em>各種神風船(HD擴充資料片)。</em></p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

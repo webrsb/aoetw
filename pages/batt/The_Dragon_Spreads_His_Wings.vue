@@ -289,6 +289,7 @@
                     ><b
                       ><a
                         href="https://en.wikipedia.org/wiki/Vladislav_II_of_Wallachia"
+                        target="_blank"
                         >瓦拉幾亞統治者</a
                       ></b
                     ></i
@@ -302,6 +303,7 @@
                     ><b
                       ><a
                         href="https://en.wikipedia.org/wiki/Vladislav_II_of_Wallachia"
+                        target="_blank"
                         >弗拉迪斯拉夫二世</a
                       ></b
                     ></i

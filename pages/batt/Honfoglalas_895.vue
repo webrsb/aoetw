@@ -442,6 +442,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%8C%88%E7%89%99%E5%88%A9%E5%8E%86%E5%8F%B2?fbclid=IwAR3KQ0ZS4YM1OH94Rj97DrrhOer3J09yF8ri2ScjKeYZgHJNJHsBwZSUS5s"
+                    target="_blank"
                     >匈牙利歷史</a
                   ></b
                 ></i

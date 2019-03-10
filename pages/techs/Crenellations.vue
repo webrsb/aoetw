@@ -175,7 +175,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Battlement"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Battlement"
+                    target="_blank"
                     >Battlement</a
                   ></b
                 ></i

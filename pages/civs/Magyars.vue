@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>馬扎爾</b>是資料片被遺忘的王朝所新增的<nuxt-link to="/civs"
-              >文明</nuxt-link
+            <b>馬扎爾</b>是<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >所新增的<nuxt-link to="/civs">文明</nuxt-link
             >。他們是一個<nuxt-link to="/units/Cavalry_Units"
               >騎兵文明</nuxt-link
             >。馬扎爾是現在的國家匈牙利主體民族，因此常被稱之匈牙利人。他最早被認為是源自於突厥人，在九世紀中有支突厥人貴族進入了中歐。匈牙利黑軍就是指當時中世紀一支強大<nuxt-link

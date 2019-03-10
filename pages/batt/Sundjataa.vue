@@ -147,6 +147,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E6%9D%BE%E8%BF%AA%E4%BA%9A%E5%A1%94"
+                    target="_blank"
                     >松迪亞塔</a
                   ></b
                 ></i

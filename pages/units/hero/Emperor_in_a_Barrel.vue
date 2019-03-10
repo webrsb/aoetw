@@ -105,7 +105,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://tinyurl.com/yd86cpxv">巴巴羅薩</a></strong
+                  ><a href="https://tinyurl.com/yd86cpxv" target="_blank"
+                    >巴巴羅薩</a
+                  ></strong
                 ></i
               >
             </div>

@@ -480,6 +480,33 @@
             長弓兵的長弓一般長5英尺（1.5米）左右，大致齊眉，個別的長達1.8—2米，比歐洲常見的4尺弓要長。這是單體弓增強威力的必然選擇。為了追求較強的彈力，就必須使用堅硬的材質，不易彎曲，所以必須做得長一些。一般的長弓拉個滿月大致需100—120磅，也就是45—55公斤的力，最強的達到180磅（80公斤）。在現在的弓箭愛好者用70磅（約32kg）的弓已經非常吃力了，一般用的是40~50磅左右的弓（這也奧運會男子射箭項目用弓的磅數），在戰場上能用120磅的長弓連續射出十幾二十支箭是非常恐怖的事情。
           </div>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Longbowman.png" alt=""
+              /></gallery>
+              <p><em>一群長弓兵</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Longbowman_range.jpg" alt=""
+              /></gallery>
+              <p><em>與其他兵種的最大射程比較</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Longbowman_real_life.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>現實的長弓兵，請注意他的箭袋在腰間</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -653,35 +680,6 @@
             <td class="unit4">60秒</td>
           </tr>
         </table>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Longbowman.png" alt=""
-              /></gallery>
-              <p><em>一群長弓兵</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Longbowman_range.jpg" alt=""
-              /></gallery>
-              <p><em>與其他兵種的最大射程比較</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Longbowman_real_life.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>現實的長弓兵，請注意他的箭袋在腰間</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

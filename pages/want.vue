@@ -27,12 +27,14 @@
               <li>
                 <strong>數據資料庫</strong>：翻譯<a
                   href="http://ageofempires.wikia.com/wiki/Age_of_Empires_Series_Wiki"
+                  target="_blank"
                   >英文維基</a
                 >的數據，所有兵種建築科技的數據，估計可能上百頁，這是最需要人力的。
               </li>
               <li>
                 <strong>常見問題</strong>：這我已經參考伊森寫的<a
                   href="https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html"
+                  target="_blank"
                   >常見問題</a
                 >所整理，日後可不斷更新。目前架構已經完成，
                 <nuxt-link to="/qa">前往頁面</nuxt-link>。
@@ -71,6 +73,7 @@
           <div>
             直接寫mail到：netssno@gmail.com或私訊<a
               href="https://www.facebook.com/cheapAOE"
+              target="_blank"
               >粉絲團</a
             >
           </div>

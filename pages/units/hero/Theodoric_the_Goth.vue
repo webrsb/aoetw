@@ -138,6 +138,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E7%8B%84%E5%A5%A7%E5%A4%9A%E9%87%8C%E5%85%8B%E5%A4%A7%E5%B8%9D"
+                    target="_blank"
                     >狄奧多里克大帝</a
                   ></strong
                 ></i

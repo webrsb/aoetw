@@ -134,7 +134,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/yb3yugxq">闍耶羅跋摩</a></strong
+                  ><a href="http://tinyurl.com/yb3yugxq" target="_blank"
+                    >闍耶羅跋摩</a
+                  ></strong
                 ></i
               >
             </div>

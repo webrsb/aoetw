@@ -60,7 +60,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -138,6 +140,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%85%B9%E7%A7%91%E7%93%A6%E7%89%B9%E5%B0%94"
+                    target="_blank"
                     >伊茲柯阿特爾</a
                   ></strong
                 ></i

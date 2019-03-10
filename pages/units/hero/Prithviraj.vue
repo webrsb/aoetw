@@ -10,7 +10,9 @@
           <p>
             《世紀帝國II：被遺忘的帝國》中的<strong>布里斯比羅吉</strong
             ><nuxt-link to="/batt">戰役</nuxt-link>講述的是歷史人物
-            <a href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
+            <a
+              href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
+              target="_blank"
               >布里陀毗羅闍三世</a
             >的故事。他是1165年至1192年間<nuxt-link to="/civs/Indians"
               >印度</nuxt-link
@@ -97,7 +99,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">被遺忘的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -192,7 +196,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
+                    target="_blank"
                     >布里陀毗羅闍三世</a
                   ></strong
                 ></i

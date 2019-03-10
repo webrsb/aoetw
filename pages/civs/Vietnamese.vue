@@ -326,6 +326,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E9%99%B3%E8%88%88%E9%81%93"
+                    target="_blank"
                     >陳興道</a
                   ></b
                 ></i

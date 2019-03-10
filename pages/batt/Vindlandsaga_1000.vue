@@ -374,7 +374,11 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">征服者的戰役2</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Battles_of_the_Conquerors"
+                >征服者戰役</nuxt-link
+              >第四章之2
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
@@ -400,7 +404,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="http://tinyurl.com/ybpfxxqq">紅鬍子艾瑞克</a></b
+                  ><a href="http://tinyurl.com/ybpfxxqq" target="_blank"
+                    >紅鬍子艾瑞克</a
+                  ></b
                 ></i
               >
             </div>

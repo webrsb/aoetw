@@ -859,6 +859,22 @@
             >騎兵作戰時廣泛重裝馬弓騎兵使用交戰“
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Cavarcherline.png" alt=""
+            /></gallery>
+            <p><em>馬弓騎兵系</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Heavycavalryarcher.png" alt=""
+            /></gallery>
+            <p><em>一群重裝馬弓騎兵</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -1015,24 +1031,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由眠協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Cavarcherline.png" alt=""
-            /></gallery>
-            <p><em>馬弓騎兵系</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Heavycavalryarcher.png" alt=""
-            /></gallery>
-            <p><em>一群重裝馬弓騎兵</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

@@ -576,6 +576,24 @@
             >是精銳韃靼騎兵。他們騎術了得，攻擊出奇不易，並在戰況不好時可以迅速撤出精銳韃靼騎兵的機動性使他們成為毀滅性的突襲者，但他們的輕騎兵身份使他們在近距離戰鬥中對重裝甲的騎兵處於劣勢。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Tarkan.png" alt=""
+              /></gallery>
+              <p><em>一群韃靼騎兵。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/A_Tarkan.png" alt=""
+              /></gallery>
+              <p><em>韃靼騎兵模組。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -741,26 +759,6 @@
             <td class="unit4">45秒</td>
           </tr>
         </table>
-      </div>
-    </div>
-    <div class="col-md-12">
-      <h3>圖庫</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <div class="row">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Tarkan.png" alt=""
-            /></gallery>
-            <p><em>一群韃靼騎兵。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/A_Tarkan.png" alt=""
-            /></gallery>
-            <p><em>韃靼騎兵模組。</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

@@ -53,9 +53,12 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>速度為4.5，眼鏡蛇車是VMDL背後第二快的單位。</p>
-          <p>在被遺忘的王朝之前，無論玩家的顏色如何，眼鏡蛇車總是藍色的。</p>
           <p>
-            在被遺忘的王朝之前，眼鏡蛇使用<nuxt-link to="/units/Mangonel"
+            在<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >之前，無論玩家的顏色如何，眼鏡蛇車總是藍色的。
+          </p>
+          <p>
+            在失落的帝國之前，眼鏡蛇使用<nuxt-link to="/units/Mangonel"
               >輕型投石車</nuxt-link
             >圖標。這個名字被更名為“被遺忘的眼鏡蛇汽車”，當時該單位也獲得了新名字，並被納入了地圖編輯器。
           </p>
@@ -74,16 +77,23 @@
         <h3>圖庫</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <ul>
-            <div class="unititle">
-              <img src="~assets/Cobracar8.png" width="250" alt="" />
-              <p>一群眼鏡蛇車</p>
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Cobracar8.png" alt=""
+              /></gallery>
+              <em>一群眼鏡蛇車</em>
             </div>
-            <div class="unititle">
-              <img src="~assets/AC_427_Cobra_vl_blue.jpg" width="250" alt="" />
-              <p>AC 眼鏡蛇車</p>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/AC_427_Cobra_vl_blue.jpg"
+                  alt=""
+              /></gallery>
+              <em>AC 眼鏡蛇車</em>
             </div>
-          </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
@@ -116,8 +126,10 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">資料片</td>
-            <td class="unit4">世紀帝國二</td>
+            <td class="unit3">首次出現</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aok">帝王世紀</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">作弊碼</td>

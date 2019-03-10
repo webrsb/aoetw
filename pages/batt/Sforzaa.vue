@@ -176,6 +176,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%88%87%E6%96%AF%E7%A7%91%E4%B8%80%E4%B8%96%C2%B7%E6%96%AF%E7%A6%8F%E7%88%BE%E6%89%8E"
+                    target="_blank"
                     >法蘭切斯科一世·斯福爾扎</a
                   ></b
                 ></i

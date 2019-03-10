@@ -397,9 +397,6 @@
             </tr>
           </table>
 
-          <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-        </div>
-        <div class="col-md-12">
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -421,6 +418,7 @@
               </div>
             </div>
           </div>
+          <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
         </div>
       </div>
     </div>

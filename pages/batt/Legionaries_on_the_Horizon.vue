@@ -291,6 +291,7 @@
                   ><b
                     ><a
                       href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%8B%89%E7%B6%AD%E7%83%8F%E6%96%AF%C2%B7%E5%A5%A7%E5%8F%A4%E6%96%AF%E9%83%BD%C2%B7%E9%9C%8D%E8%AB%BE%E7%95%99"
+                      target="_blank"
                       >弗拉維烏斯·奧古斯都·霍諾留</a
                     ></b
                   ></i

@@ -62,7 +62,7 @@
             </li>
           </ul>
         </div>
-        <h3><strong>出場戰役</strong></h3>
+        <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <p></p>
@@ -241,7 +241,11 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/聖女貞德">聖女貞德</a>
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/聖女貞德"
+                    target="_blank"
+                    >聖女貞德</a
+                  >
                 </strong></i
               >
             </div>
@@ -446,7 +450,9 @@
           <h3>
             <span class="we"
               ><br /><strong>
-                <a href="https://zh.moegirl.org/貞德(Fate)">Fate系列</a></strong
+                <a href="https://zh.moegirl.org/貞德(Fate)" target="_blank"
+                  >Fate系列</a
+                ></strong
               ></span
             >
           </h3>
@@ -464,7 +470,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/英雄戰姬:聖女貞德"
+                ><a
+                  href="https://zh.moegirl.org/英雄戰姬:聖女貞德"
+                  target="_blank"
                   >英雄戰姬</a
                 ></strong
               ></span
@@ -487,7 +495,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/神姬PROJECT:貞德"
+                ><a
+                  href="https://zh.moegirl.org/神姬PROJECT:貞德"
+                  target="_blank"
                   >神姬PROJECT</a
                 ></strong
               ></span
@@ -511,7 +521,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/战舰少女:圣女贞德"
+                ><a
+                  href="https://zh.moegirl.org/战舰少女:圣女贞德"
+                  target="_blank"
                   >戰艦少女</a
                 ></strong
               ></span
@@ -531,7 +543,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/聖女貞德_(1999年電影)"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/聖女貞德_(1999年電影)"
+                  target="_blank"
                   >聖女貞德(1999)</a
                 ></strong
               ></span
@@ -554,7 +568,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/長劍風暴：百年戰爭"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/長劍風暴：百年戰爭"
+                  target="_blank"
                   >長劍風暴</a
                 ></strong
               ></span

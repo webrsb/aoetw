@@ -487,6 +487,25 @@
             </li>
           </ul>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Skirmishers_Line.png" alt=""
+            /></gallery>
+            <p><em>矛兵系</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                src="~assets/Imperial_Skirmisher_group.jpg"
+                alt=""
+            /></gallery>
+            <p><em>一群帝王戰矛兵</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -660,27 +679,6 @@
             </td>
           </tr>
         </table>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Skirmishers_Line.png" alt=""
-            /></gallery>
-            <p><em>矛兵系</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/Imperial_Skirmisher_group.jpg"
-                alt=""
-            /></gallery>
-            <p><em>一群帝王戰矛兵</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

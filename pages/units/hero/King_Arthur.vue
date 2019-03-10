@@ -51,7 +51,7 @@
             </li>
           </ul>
         </div>
-        <h3><strong>出場戰役</strong></h3>
+        <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1"><p>無</p></div>
         <h3><strong>更多數據</strong></h3>
@@ -273,7 +273,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/亚瑟王"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/亚瑟王"
+                    target="_blank"
                     >亞瑟王</a
                   ></strong
                 ></i
@@ -350,7 +352,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/阿尔托莉雅·潘德拉贡"
+                ><a
+                  href="https://zh.moegirl.org/阿尔托莉雅·潘德拉贡"
+                  target="_blank"
                   >Fate系列</a
                 ></strong
               ></span
@@ -370,7 +374,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/石中劍_(電影)"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/石中劍_(電影)"
+                  target="_blank"
                   >石中劍</a
                 ></strong
               ></span
@@ -393,7 +399,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修"
+                  target="_blank"
                   >反叛的魯路修</a
                 ></strong
               ></span

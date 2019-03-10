@@ -8,10 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>丁禮</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aor">王者崛起</nuxt-link>》中的一名<nuxt-link
-              to="/units/Cavalry_Units"
-              >騎兵英雄</nuxt-link
+            <strong>丁禮</strong>是<nuxt-link to="/games/aor"
+              >《世紀帝國 II HD: 王者崛起》</nuxt-link
+            >中的一名<nuxt-link to="/units/Cavalry_Units">騎兵英雄</nuxt-link
             >。他只能在<nuxt-link to="/batt">戰役</nuxt-link
             >編輯器中使用，並擁有
             <nuxt-link to="/units/Paladin">遊俠</nuxt-link
@@ -66,7 +65,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -119,7 +120,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/%E4%B8%81%E7%A6%AE"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E4%B8%81%E7%A6%AE"
+                    target="_blank"
                     >丁禮</a
                   ></strong
                 ></i

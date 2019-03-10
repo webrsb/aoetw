@@ -472,10 +472,66 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            歷史上，柏柏人是聞名的沙漠<nuxt-link to="/techs/Marauders"
-              >掠奪者</nuxt-link
-            >。他們騎駱駝是因為他們非常適合在沙漠上快速移動。在騎駱駝時使用弓將極大地幫助突襲。
+            歷史上，柏柏人是聞名的沙漠掠奪者。他們騎駱駝是因為他們非常適合在沙漠上快速移動。在騎駱駝時使用弓將極大地幫助突襲。
           </p>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
+                  alt=""
+              /></gallery>
+              <p><em>一群駱駝弓騎兵</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Aoe2_CamelArcher_Preview.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>以前的駱駝弓騎兵</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/AOE2_CamelArcher_WIP-1024x787.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>駱駝弓騎兵3D圖</em></p>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    width="250"
+                    src="~assets/Camel_archery.jpg"
+                    alt=""
+                /></gallery>
+                <p><em>一張畫著獵人騎在駱駝背上彎弓打獵的畫。</em></p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    width="250"
+                    src="~assets/1518454054853.jpg"
+                    alt=""
+                /></gallery>
+                <p><em>即使是重裝馬弓騎兵也無法與駱駝弓騎兵一搏。</em></p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
@@ -675,66 +731,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Tumblr_nxo1o0aN0R1tnh0y7o6_400.png"
-                  alt=""
-              /></gallery>
-              <p><em>一群駱駝弓騎兵</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Aoe2_CamelArcher_Preview.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>以前的駱駝弓騎兵</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/AOE2_CamelArcher_WIP-1024x787.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>駱駝弓騎兵3D圖</em></p>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    width="250"
-                    src="~assets/Camel_archery.jpg"
-                    alt=""
-                /></gallery>
-                <p><em>一張畫著獵人騎在駱駝背上彎弓打獵的畫。</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    width="250"
-                    src="~assets/1518454054853.jpg"
-                    alt=""
-                /></gallery>
-                <p><em>即使是重裝馬弓騎兵也無法與駱駝弓騎兵一搏。</em></p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

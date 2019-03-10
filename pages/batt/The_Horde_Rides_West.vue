@@ -218,6 +218,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E5%BE%81%E6%9C%8D%E8%8A%B1%E5%89%8C%E5%AD%90%E6%A8%A1"
+                    target="_blank"
                     >蒙古征服花剌子模</a
                   ></strong
                 ></em
@@ -225,6 +226,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E5%BE%81%E6%9C%8D%E4%BF%84%E7%BD%97%E6%96%AF"
+                    target="_blank"
                     >蒙古征服俄羅斯</a
                   ></strong
                 ></em

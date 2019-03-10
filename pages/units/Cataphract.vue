@@ -625,6 +625,36 @@
             >與聖騎士相提並論，此乃與東羅馬帝國接觸的結果。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Cataphract.png" alt=""
+              /></gallery>
+              <p><em>一群聖騎兵</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"
+                  alt=""
+              /></gallery>
+              <p><em>聖騎兵模組</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>現實生活中的聖騎兵。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -792,43 +822,11 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/y7abrovp"
+                  ><a href="http://tinyurl.com/y7abrovp" target="_blank"
                     >全覆裝甲騎兵</a
                   ></strong
                 ></i
               >
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Cataphract.png" alt=""
-              /></gallery>
-              <p><em>一群聖騎兵</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/C51d9bbe1ec59e44cc75f7b6c14bd091_400x400.png"
-                  alt=""
-              /></gallery>
-              <p><em>聖騎兵模組</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Ancient_sasanid_cataphract_uther_oxford_2003_06_21.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>現實生活中的聖騎兵。</em></p>
             </div>
           </div>
         </div>

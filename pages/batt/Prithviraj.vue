@@ -220,6 +220,7 @@
               ><b
                 ><a
                   href="https://gmhjohnny.wordpress.com/2010/11/22/%E5%8C%97%E5%8D%B0%E5%BA%A6%E6%9C%80%E5%BE%8C%E7%9A%84%E5%89%8E%E5%B8%9D%E5%88%A9%E2%94%80%E2%94%80%E6%99%AE%E9%87%8C%E7%89%B9%E7%B6%AD%E2%80%A7%E6%8B%89%E5%90%89%E4%B8%89%E4%B8%96/?fbclid=IwAR2WUBshC109S-Rdf_PrhQF57RkSE6hx3JO28Ss8BiFkLtAaNCThLINWk1g"
+                  target="_blank"
                   >北印度最後的剎帝利</a
                 ></b
               ></i

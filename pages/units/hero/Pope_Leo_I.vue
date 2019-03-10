@@ -127,6 +127,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96"
+                    target="_blank"
                     >教宗良一世</a
                   ></strong
                 ></i

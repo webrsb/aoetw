@@ -84,7 +84,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">被遺忘的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -169,6 +171,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%BA%93%E7%93%A6%E8%B5%AB%E7%89%B9%E8%8E%AB%E5%85%8B"
+                    target="_blank"
                     >庫奧赫特莫克</a
                   ></strong
                 ></i

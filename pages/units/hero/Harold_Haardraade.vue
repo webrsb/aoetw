@@ -120,6 +120,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E6%97%A0%E6%83%85%E8%80%85%E5%93%88%E6%8B%89%E5%B0%94"
+                    target="_blank"
                     >哈拉爾‧哈德拉達</a
                   ></strong
                 ></i

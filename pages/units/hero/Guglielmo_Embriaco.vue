@@ -57,7 +57,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">非洲王國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/ak">非洲王國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -149,6 +151,7 @@
           <div style="margin-left: 60px;">
             維基百科上的<a
               href="https://en.wikipedia.org/wiki/Guglielmo_Embriaco"
+              target="_blank"
               >吉列爾莫‧安布裡科</a
             >
           </div>

@@ -262,132 +262,6 @@
           </tr>
         </table>
       </div>
-      <div class="col-md-4">
-        <table class="table-bordered" width="100%">
-          <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">遊俠</div>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <div class="unititle">
-                <img src="~assets/PaladinIcon.jpg" width="45" alt="" />
-              </div>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">單位介紹</div>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">類型</td>
-            <td class="unit4">
-              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
-            <td class="unit4">請看介紹</td>
-          </tr>
-          <tr>
-            <td class="unit3">時代</td>
-            <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/Imperial-age-research.jpg"
-                width="30"
-                alt=""
-              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">訓練於</td>
-            <td class="unit4">
-              <img class="gg" src="~assets/Stable-logo.jpg" alt="" /><nuxt-link
-                to="/building/Stable"
-                >馬廄</nuxt-link
-              >
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">訓練時間</td>
-            <td class="unit4">30秒</td>
-          </tr>
-          <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">成本</div>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">
-              <nuxt-link to="/resource/Food">食物</nuxt-link>
-            </td>
-            <td class="unit4">60</td>
-          </tr>
-          <tr>
-            <td class="unit3">
-              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
-            </td>
-            <td class="unit4">75</td>
-          </tr>
-          <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">數據</div>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">血量</td>
-            <td class="unit4">160</td>
-          </tr>
-          <tr>
-            <td class="unit3">攻擊</td>
-            <td class="unit4">14(近戰)</td>
-          </tr>
-          <tr>
-            <td class="unit3">攻速</td>
-            <td class="unit4">1.93</td>
-          </tr>
-          <tr>
-            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
-            <td class="unit4">2</td>
-          </tr>
-          <tr>
-            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
-            <td class="unit4">3</td>
-          </tr>
-          <tr>
-            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
-            <td class="unit4">
-              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
-            </td>
-          </tr>
-          <tr></tr>
-          <tr>
-            <td class="unit3">跑速</td>
-            <td class="unit4">1.35</td>
-          </tr>
-          <tr>
-            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
-            <td class="unit4">5</td>
-          </tr>
-          <tr>
-            <td class="unit" colspan="2" style="background-color:#3c763d;">
-              <div class="unititle2">單位演變</div>
-            </td>
-          </tr>
-          <tr>
-            <td class="unit3">從升級</td>
-            <td class="unit4">
-              <img class="gg" src="~assets/CavalierIcon.jpg" alt="" /><nuxt-link
-                to="/units/Cavalier"
-                >騎兵</nuxt-link
-              >
-            </td>
-          </tr>
-        </table>
-      </div>
     </div>
     <div class="col-md-12">
       <h3>剋遊俠的單位與建築</h3>
@@ -607,193 +481,323 @@
             </li>
           </ul>
         </div>
-      </div>
-      <h3>文明加成</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <ul>
-          <li>
-            <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-            >：只要在一個塞爾特單位的視野下，羊群不會被牽走
-          </li>
-          <li>
-            <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-            >：遊俠血量多20%，研發<nuxt-link to="/techs/Chivalry"
-              >騎士精神</nuxt-link
-            >後，
-            <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
-            >的研發速度都加快40%
-          </li>
-          <li>
-            <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
-              to="/techs/Forging"
-              >鍛造</nuxt-link
-            >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
-            <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
-            ><nuxt-link to="/techs">科技</nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
-              to="/building/Blacksmith"
-              >兵工廠</nuxt-link
-            >升級科技免黃金
-          </li>
-        </ul>
-      </div>
-      <h3>團隊加分</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <ul>
-          <li>
-            <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
-              to="/techs/Kasbah"
-              >聚居堡壘</nuxt-link
-            >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
-            >的研究時間(快25%)。
-          </li>
-          <li><nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：遊俠+2視野。</li>
-          <li>
-            <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-            >：遊俠生產效率快20%，<nuxt-link to="/techs/Bloodlines"
-              >品種</nuxt-link
-            >與 <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
-          </li>
-          <li>
-            <nuxt-link to="/civs/Persians">波斯</nuxt-link>：遊俠對<nuxt-link
-              to="/armor/Armor_Class_Archer"
-              >射手類</nuxt-link
-            >+2攻擊。
-          </li>
-          <li>
-            <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：遊俠對<nuxt-link
-              to="/units/Monk"
-              >僧侶</nuxt-link
-            >抵抗力更強。
-          </li>
-        </ul>
-      </div>
-      <h3>更新日誌</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <h3>
-          <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
-        </h3>
-        <ul>
-          <li><nuxt-link to="/techs/Bloodlines">血統</nuxt-link>引進。</li>
-          <li><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。</li>
-        </ul>
-        <h3>
-          <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
-        </h3>
-        <ul>
-          <li>
-            <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：引進<nuxt-link
-              to="/techs/Chivalry"
-              >騎士精神</nuxt-link
-            >。
-          </li>
-        </ul>
-      </div>
-      <h3>趣事</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <ul>
-          <li>
-            遊俠升級成本1300食物、750黃金是遊戲中第四貴的，只輸<nuxt-link
-              to="/units/War_Elephant"
-              >戰象</nuxt-link
-            >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>和<nuxt-link
-              to="/units/Cataphract"
-              >聖騎兵</nuxt-link
-            >。然而，如果你考慮到升級遊俠前你還得升級成騎兵，那麼成本就是1600食物和1050黃金，則只有投石車與戰象更高。
-          </li>
-          <li>為了平衡，遊俠的攻速(1.93)比騎兵(1.83)還慢。</li>
-          <li>
-            騎士系列是遊戲中;僅有的四種對任何東西都沒加成的單位，另外三種是<nuxt-link
-              to="/units/Militia"
-              >民兵</nuxt-link
-            >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>和<nuxt-link
-              to="/units/Turtle_Ship"
-              >龜甲船</nuxt-link
-            >。
-          </li>
-          <li>
-            <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
-            >擁有最強的遊俠，因為多了12hp，而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
-              to="/techs/Bloodlines"
-              >血統</nuxt-link
-            >與<nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
-            >。緊跟在後的是拜占庭遊俠，缺乏血統與<nuxt-link
-              to="/techs/Blast_Furnace"
-              >鼓風爐</nuxt-link
-            >。而<nuxt-link to="/civs/Teutons">條頓</nuxt-link>缺法<nuxt-link
-              to="/techs/Husbandry"
-              >畜牧培育</nuxt-link
-            >。其他四個文明則有全滿的遊俠。
-          </li>
-          <li>
-            隨著<nuxt-link to="/games/ak">非洲王國</nuxt-link
-            >的推出，遊俠是最稀有的單位，只有八個文明擁有，之前是<nuxt-link
-              to="/units/Siege_Onager"
-              >重型投石車</nuxt-link
-            >。(<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-            >與<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
-            >為地區性<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link>。)
-          </li>
-          <li>所有遊俠文明皆是歐洲或中東風格。</li>
-          <li>
-            <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>是<nuxt-link
-              to="/games/aof"
-              >失落的帝國</nuxt-link
-            >後唯一的遊俠文明。
-          </li>
-        </ul>
-      </div>
-      <h3>歷史</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <p>
-          聖騎士（Paladin）或稱「聖武士」，在歐洲歷史上是指公元800年前後跟隨查理曼東征西討的十二位勇士。查理曼故事在基督教的正史裡廣為流傳，其中夾雜了很多有關神話魔法、愛情等的故事，查理曼的禁衛部隊和近身侍臣都是受封的騎士。他們首先出現在早期的武功歌，例如《<nuxt-link
-            to="/units/hero/Roland"
-            >羅蘭</nuxt-link
-          >之歌》，代表基督徒勇士對抗撒拉森人部落，之後聖騎士成為古代傳奇文學的主流歌頌對象，並參考諸多史實<nuxt-link
-            to="/batt"
-            >戰役</nuxt-link
-          >加以改編，彰顯勇敢與犧牲精神的騎士文學蔚為風潮、歷久不衰。
-        </p>
-        <p>
-          隨著現代奇幻文學的興起，聖騎士演變為信奉神祇，為了光明與正義而戰的戰士，身穿雕紋華麗的全身重鎧，除了武藝外同時重視信仰面的修行。西方文學裡的聖騎士可說是牧師與戰士的結合，能使用神聖魔法，多半使用不見血的鈍器做為武器；東方版本的聖騎士同樣信仰光明與神聖，但武器則多為劍或長槍，形象較接近中世紀騎士
-        </p>
-        <p>
-          最早出現的聖騎士不是查理曼的同僚，而是他的僕人羅蘭。羅蘭在歷史上確有其人，曾出現在查理曼傳記人艾因哈德的筆下，關於他的其他故事就不得而知了。在十二世紀末，聖騎士依據圓桌會議的形式向國王匯報；對他們最早的傳奇描繪是斐埃拉布拉，時間約為1170左右。十二勇士的名字根據傳奇的不同而不同，有時人數會超過十二人。所有查理曼的聖騎士故事都有羅蘭和奧利佛的故事；其他常常出現的人物包括杜平<nuxt-link
-            to="/units/hero/Archbishop"
-            >大主教</nuxt-link
-          >、丹麥的奧吉爾、 波爾多的霍恩、斐埃拉布拉、蒙托邦的雷諾、和岡隆。
-        </p>
-      </div>
-      <h3>圖庫</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <div class="row">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Knightline.png" alt=""
-            /></gallery>
-            <p><em>騎士系。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Paladin.png" alt=""
-            /></gallery>
-            <p><em>一群遊俠。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Aok_paladin.gif" alt=""
-            /></gallery>
-            <p><em>遊俠模型。</em></p>
+        <h3>文明加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：只要在一個塞爾特單位的視野下，羊群不會被牽走
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+              >：遊俠血量多20%，研發<nuxt-link to="/techs/Chivalry"
+                >騎士精神</nuxt-link
+              >後，
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link
+              >的研發速度都加快40%
+            </li>
+            <li>
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：免費<nuxt-link
+                to="/techs/Forging"
+                >鍛造</nuxt-link
+              >、<nuxt-link to="/techs/Iron_Casting">鑄造</nuxt-link>和
+              <nuxt-link to="/techs/Blast_Furnace">鼓風爐</nuxt-link
+              ><nuxt-link to="/techs">科技</nuxt-link>
+            </li>
+            <li>
+              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link>：<nuxt-link
+                to="/building/Blacksmith"
+                >兵工廠</nuxt-link
+              >升級科技免黃金
+            </li>
+          </ul>
+        </div>
+        <h3>團隊加分</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>：<nuxt-link
+                to="/techs/Kasbah"
+                >聚居堡壘</nuxt-link
+              >能夠加速<nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link
+              >的研究時間(快25%)。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：遊俠+2視野。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
+              >：遊俠生產效率快20%，<nuxt-link to="/techs/Bloodlines"
+                >品種</nuxt-link
+              >與
+              <nuxt-link to="/techs/Husbandry">畜牧培育</nuxt-link>研發快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Persians">波斯</nuxt-link>：遊俠對<nuxt-link
+                to="/armor/Armor_Class_Archer"
+                >射手類</nuxt-link
+              >+2攻擊。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：遊俠對<nuxt-link
+                to="/units/Monk"
+                >僧侶</nuxt-link
+              >抵抗力更強。
+            </li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>
+          </h3>
+          <ul>
+            <li><nuxt-link to="/techs/Bloodlines">血統</nuxt-link>引進。</li>
+            <li><nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>引進。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>：引進<nuxt-link
+                to="/techs/Chivalry"
+                >騎士精神</nuxt-link
+              >。
+            </li>
+          </ul>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              遊俠升級成本1300食物、750黃金是遊戲中第四貴的，只輸<nuxt-link
+                to="/units/War_Elephant"
+                >戰象</nuxt-link
+              >、<nuxt-link to="/units/Mangonel">投石車</nuxt-link>和<nuxt-link
+                to="/units/Cataphract"
+                >聖騎兵</nuxt-link
+              >。然而，如果你考慮到升級遊俠前你還得升級成騎兵，那麼成本就是1600食物和1050黃金，則只有投石車與戰象更高。
+            </li>
+            <li>為了平衡，遊俠的攻速(1.93)比騎兵(1.83)還慢。</li>
+            <li>
+              騎士系列是遊戲中;僅有的四種對任何東西都沒加成的單位，另外三種是<nuxt-link
+                to="/units/Militia"
+                >民兵</nuxt-link
+              >、<nuxt-link to="/units/Boyar">貴族鐵騎</nuxt-link>和<nuxt-link
+                to="/units/Turtle_Ship"
+                >龜甲船</nuxt-link
+              >。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
+              >擁有最強的遊俠，因為多了12hp，而塞爾特人擁有最弱的遊俠，因為缺乏<nuxt-link
+                to="/techs/Bloodlines"
+                >血統</nuxt-link
+              >與<nuxt-link to="/techs/Plate_Barding_Armor">騎兵板甲</nuxt-link
+              >。緊跟在後的是拜占庭遊俠，缺乏血統與<nuxt-link
+                to="/techs/Blast_Furnace"
+                >鼓風爐</nuxt-link
+              >。而<nuxt-link to="/civs/Teutons">條頓</nuxt-link>缺法<nuxt-link
+                to="/techs/Husbandry"
+                >畜牧培育</nuxt-link
+              >。其他四個文明則有全滿的遊俠。
+            </li>
+            <li>
+              隨著<nuxt-link to="/games/ak">非洲王國</nuxt-link
+              >的推出，遊俠是最稀有的單位，只有八個文明擁有，之前是<nuxt-link
+                to="/units/Siege_Onager"
+                >重型投石車</nuxt-link
+              >。(<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
+              >與<nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
+              >為地區性<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+              >。)
+            </li>
+            <li>所有遊俠文明皆是歐洲或中東風格。</li>
+            <li>
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>是<nuxt-link
+                to="/games/aof"
+                >失落的帝國</nuxt-link
+              >後唯一的遊俠文明。
+            </li>
+          </ul>
+        </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            聖騎士（Paladin）或稱「聖武士」，在歐洲歷史上是指公元800年前後跟隨查理曼東征西討的十二位勇士。查理曼故事在基督教的正史裡廣為流傳，其中夾雜了很多有關神話魔法、愛情等的故事，查理曼的禁衛部隊和近身侍臣都是受封的騎士。他們首先出現在早期的武功歌，例如《<nuxt-link
+              to="/units/hero/Roland"
+              >羅蘭</nuxt-link
+            >之歌》，代表基督徒勇士對抗撒拉森人部落，之後聖騎士成為古代傳奇文學的主流歌頌對象，並參考諸多史實<nuxt-link
+              to="/batt"
+              >戰役</nuxt-link
+            >加以改編，彰顯勇敢與犧牲精神的騎士文學蔚為風潮、歷久不衰。
+          </p>
+          <p>
+            隨著現代奇幻文學的興起，聖騎士演變為信奉神祇，為了光明與正義而戰的戰士，身穿雕紋華麗的全身重鎧，除了武藝外同時重視信仰面的修行。西方文學裡的聖騎士可說是牧師與戰士的結合，能使用神聖魔法，多半使用不見血的鈍器做為武器；東方版本的聖騎士同樣信仰光明與神聖，但武器則多為劍或長槍，形象較接近中世紀騎士
+          </p>
+          <p>
+            最早出現的聖騎士不是查理曼的同僚，而是他的僕人羅蘭。羅蘭在歷史上確有其人，曾出現在查理曼傳記人艾因哈德的筆下，關於他的其他故事就不得而知了。在十二世紀末，聖騎士依據圓桌會議的形式向國王匯報；對他們最早的傳奇描繪是斐埃拉布拉，時間約為1170左右。十二勇士的名字根據傳奇的不同而不同，有時人數會超過十二人。所有查理曼的聖騎士故事都有羅蘭和奧利佛的故事；其他常常出現的人物包括杜平<nuxt-link
+              to="/units/hero/Archbishop"
+              >大主教</nuxt-link
+            >、丹麥的奧吉爾、 波爾多的霍恩、斐埃拉布拉、蒙托邦的雷諾、和岡隆。
+          </p>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Knightline.png" alt=""
+              /></gallery>
+              <p><em>騎士系。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Paladin.png" alt=""
+              /></gallery>
+              <p><em>一群遊俠。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Aok_paladin.gif" alt=""
+              /></gallery>
+              <p><em>遊俠模型。</em></p>
+            </div>
           </div>
         </div>
+      </div>
+      <div class="col-md-4">
+        <table class="table-bordered" width="100%">
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
+              <div class="unititle2">遊俠</div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <div class="unititle">
+                <img src="~assets/PaladinIcon.jpg" width="45" alt="" />
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
+              <div class="unititle2">單位介紹</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">類型</td>
+            <td class="unit4">
+              <nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3"><nuxt-link to="/civs">文明</nuxt-link></td>
+            <td class="unit4">請看介紹</td>
+          </tr>
+          <tr>
+            <td class="unit3">時代</td>
+            <td class="unit4">
+              <img
+                class="gg"
+                src="~assets/Imperial-age-research.jpg"
+                width="30"
+                alt=""
+              /><nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">訓練於</td>
+            <td class="unit4">
+              <img class="gg" src="~assets/Stable-logo.jpg" alt="" /><nuxt-link
+                to="/building/Stable"
+                >馬廄</nuxt-link
+              >
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">訓練時間</td>
+            <td class="unit4">30秒</td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
+              <div class="unititle2">成本</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">
+              <nuxt-link to="/resource/Food">食物</nuxt-link>
+            </td>
+            <td class="unit4">60</td>
+          </tr>
+          <tr>
+            <td class="unit3">
+              <nuxt-link to="/resource/Gold">黃金</nuxt-link>
+            </td>
+            <td class="unit4">75</td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
+              <div class="unititle2">數據</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">血量</td>
+            <td class="unit4">160</td>
+          </tr>
+          <tr>
+            <td class="unit3">攻擊</td>
+            <td class="unit4">14(近戰)</td>
+          </tr>
+          <tr>
+            <td class="unit3">攻速</td>
+            <td class="unit4">1.93</td>
+          </tr>
+          <tr>
+            <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>
+            <td class="unit4">2</td>
+          </tr>
+          <tr>
+            <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
+            <td class="unit4">3</td>
+          </tr>
+          <tr>
+            <td class="unit3"><nuxt-link to="/armor">防禦類型</nuxt-link></td>
+            <td class="unit4">
+              <nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link>
+            </td>
+          </tr>
+          <tr></tr>
+          <tr>
+            <td class="unit3">跑速</td>
+            <td class="unit4">1.35</td>
+          </tr>
+          <tr>
+            <td class="unit3"><nuxt-link to="/los.php">視野</nuxt-link></td>
+            <td class="unit4">5</td>
+          </tr>
+          <tr>
+            <td class="unit" colspan="2" style="background-color:#3c763d;">
+              <div class="unititle2">單位演變</div>
+            </td>
+          </tr>
+          <tr>
+            <td class="unit3">從升級</td>
+            <td class="unit4">
+              <img class="gg" src="~assets/CavalierIcon.jpg" alt="" /><nuxt-link
+                to="/units/Cavalier"
+                >騎兵</nuxt-link
+              >
+            </td>
+          </tr>
+        </table>
       </div>
     </div>
   </div>

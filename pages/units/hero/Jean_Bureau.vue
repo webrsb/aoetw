@@ -147,7 +147,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://en.wikipedia.org/wiki/Jean_Bureau"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Jean_Bureau"
+                    target="_blank"
                     >約翰布荷</a
                   ></strong
                 ></i

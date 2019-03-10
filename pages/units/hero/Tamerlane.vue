@@ -165,6 +165,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%B8%96%E6%9C%A8%E5%84%BF"
+                    target="_blank"
                     >帖木兒</a
                   ></strong
                 ></i

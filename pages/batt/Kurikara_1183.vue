@@ -405,7 +405,7 @@
             <div style="margin-left: 10px;">
               <em
                 ><strong
-                  ><a href="http://tinyurl.com/y799952u"
+                  ><a href="http://tinyurl.com/y799952u" target="_blank"
                     >俱利伽羅峠之戰</a
                   ></strong
                 ></em

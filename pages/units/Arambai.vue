@@ -358,6 +358,52 @@
             </li>
           </ul>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/2018sa.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>一群飛鏢騎兵</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Arambai_darts.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>飛鏢</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Arambai_attacking.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>飛鏢騎兵的攻擊方式是丟飛鏢</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/Meitei_horsemen.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>騎在小馬上的曼尼普爾騎兵。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -549,56 +595,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由熊協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/2018sa.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>一群飛鏢騎兵</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Arambai_darts.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>飛鏢</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/Arambai_attacking.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>飛鏢騎兵的攻擊方式是丟飛鏢</em></p>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    width="250"
-                    src="~assets/Meitei_horsemen.jpg"
-                    alt=""
-                /></gallery>
-                <p><em>騎在小馬上的曼尼普爾騎兵。</em></p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

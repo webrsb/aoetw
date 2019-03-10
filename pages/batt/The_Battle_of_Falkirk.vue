@@ -213,7 +213,9 @@
             <div style="margin-left: 10px;">
               <em
                 ><strong
-                  ><a href="http://tinyurl.com/ydyhnwd4">史特靈橋之役</a>
+                  ><a href="http://tinyurl.com/ydyhnwd4" target="_blank"
+                    >史特靈橋之役</a
+                  >
                 </strong>
               </em>
             </div>

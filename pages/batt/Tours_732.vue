@@ -308,6 +308,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%C2%B7%E9%A9%AC%E7%89%B9"
+                    target="_blank"
                     >鐵鎚查理</a
                   ></strong
                 ></em
@@ -315,6 +316,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%9C%96%E7%88%BE%E6%88%B0%E5%BD%B9"
+                    target="_blank"
                     >圖爾戰役</a
                   ></strong
                 ></em

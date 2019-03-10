@@ -473,6 +473,28 @@
             些都是具有高超技能的老兵，他們擁有最好的武器，並且是最好的戰士。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Jaguarwarrior.png" alt=""
+            /></gallery>
+            <p><em>一群豹勇士</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Url.jpg" alt=""
+            /></gallery>
+            <p><em>豹勇士3D圖</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Jaguar_Warrior.jpg" alt=""
+            /></gallery>
+            <p><em>豹勇士</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -654,30 +676,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Jaguarwarrior.png" alt=""
-            /></gallery>
-            <p><em>一群豹勇士</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Url.jpg" alt=""
-            /></gallery>
-            <p><em>豹勇士3D圖</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Jaguar_Warrior.jpg" alt=""
-            /></gallery>
-            <p><em>豹勇士</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

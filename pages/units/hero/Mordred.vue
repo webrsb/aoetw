@@ -50,7 +50,7 @@
             </li>
           </ul>
         </div>
-        <h3><strong>出場戰役</strong></h3>
+        <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1"><p>無</p></div>
         <h3><strong>更多數據</strong></h3>
@@ -250,7 +250,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/莫德雷德"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/莫德雷德"
+                    target="_blank"
                     >莫德雷德</a
                   ></strong
                 ></i
@@ -311,7 +313,7 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/莫德雷德(Fate)"
+                ><a href="https://zh.moegirl.org/莫德雷德(Fate)" target="_blank"
                   >Fate系列</a
                 ></strong
               ></span
@@ -330,7 +332,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://en.wikipedia.org/wiki/Modred_the_Mystic"
+                ><a
+                  href="https://en.wikipedia.org/wiki/Modred_the_Mystic"
+                  target="_blank"
                   >神秘者莫德雷德</a
                 ></strong
               ></span
@@ -351,6 +355,7 @@
               ><br /><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87#%E3%80%8A%E6%8A%B5%E6%8A%97%E7%BB%84%E7%BB%87%EF%BC%9A%E9%98%BF%E7%93%A6%E9%9A%86%E3%80%8B%E7%89%88%E6%9C%AC"
+                  target="_blank"
                   >抵抗組織-阿瓦隆</a
                 ></strong
               ></span

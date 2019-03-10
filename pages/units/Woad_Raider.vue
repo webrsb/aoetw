@@ -429,6 +429,68 @@
             >對塞爾特人來說是一個很頭痛的麻煩，塞爾特人轉而採用游擊戰術，襲擊英國營地，並在英國援軍到達之前撤退;這樣的策略徹底地摧毀了邊界地區的安寧，最著名的菘藍武士是蘇格蘭的威廉華萊士，他不間斷地席吉了英格蘭北部地區十年之久“。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="180"
+                src="~assets/Woadraider.png"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>一群菘藍武士。</em></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="200"
+                src="~assets/Elite_Woad_Raider.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:185px">
+              <p><em>精銳菘藍武士。</em></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" width="200" src="~assets/Woad.jpg" alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:185px">
+              <p><em>菘藍武士3D圖。</em></p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="180"
+                  src="~assets/Woadraiders.png"
+                  alt=""
+              /></gallery>
+              <div class="lightbox-caption" style="width:220px">
+                <p><em>歷史記載的菘藍武士手稿。</em></p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="200"
+                  src="~assets/Pictish_Warrior.jpg"
+                  alt=""
+              /></gallery>
+              <div class="lightbox-caption" style="width:185px">
+                <p><em>畫家筆下的皮克特人可能是菘藍武士的發想。</em></p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -610,70 +672,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="180"
-                src="~assets/Woadraider.png"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>一群菘藍武士。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="200"
-                src="~assets/Elite_Woad_Raider.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:185px">
-              <p><em>精銳菘藍武士。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" width="200" src="~assets/Woad.jpg" alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:185px">
-              <p><em>菘藍武士3D圖。</em></p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="180"
-                  src="~assets/Woadraiders.png"
-                  alt=""
-              /></gallery>
-              <div class="lightbox-caption" style="width:220px">
-                <p><em>歷史記載的菘藍武士手稿。</em></p>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="200"
-                  src="~assets/Pictish_Warrior.jpg"
-                  alt=""
-              /></gallery>
-              <div class="lightbox-caption" style="width:185px">
-                <p><em>畫家筆下的皮克特人可能是菘藍武士的發想。</em></p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

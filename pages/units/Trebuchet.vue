@@ -546,6 +546,30 @@
             中世紀最強大的非火藥攻城器是投石機，這是一種巨大的彈射器式的武器，有一個長長的投擲手臂和一個用繩索懸掛的吊袋，當手臂鬆開時，手臂向上向前揮動。作用在吊袋上的離心力增加了被釋放的炮彈射程和高度，投石車丟出的石頭會落在目標上，對牆壁，塔樓和其他建築物造成很大的損害，巨型投石機是昂貴複雜的機器，需要專家來建造和操作，他們在使用前需要進行零件和所需的組裝，英格蘭的愛德華一世拒絕蘇格蘭斯特林城堡的投降，因為這樣他可以觀看他最近獲得的投石機對斯特林城堡的蹂躪。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Trebpacked.png" alt=""
+              /></gallery>
+              <p><em>組裝的投石機</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Trebunpacket.jpg" alt=""
+              /></gallery>
+              <p><em>拆裝的投石機</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Trebdamaged.jpg" alt=""
+              /></gallery>
+              <p><em>投石機受傷時會像建築物一樣起火</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -697,32 +721,6 @@
             <td class="unit4">19</td>
           </tr>
         </table>
-      </div>
-    </div>
-    <div class="col-md-12">
-      <h3>圖庫</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <div class="row">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Trebpacked.png" alt=""
-            /></gallery>
-            <p><em>組裝的投石機</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Trebunpacket.jpg" alt=""
-            /></gallery>
-            <p><em>拆裝的投石機</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Trebdamaged.jpg" alt=""
-            /></gallery>
-            <p><em>投石機受傷時會像建築物一樣起火</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

@@ -320,6 +320,7 @@
                 ><b
                   ><a
                     href="https://baike.baidu.com/item/%E6%9D%BE%E8%BF%AA%E4%BA%9A%E5%A1%94/19723576"
+                    target="_blank"
                     >松迪亞塔（非洲長篇英雄史詩）</a
                   ></b
                 ></i

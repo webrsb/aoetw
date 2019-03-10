@@ -33,8 +33,11 @@
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>
           </p>
           <p>
-            早期<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵</nuxt-link
-            >》前的版本，長劍兵可說是一個雞肋單位，基本上沒有玩家會去生產，而到了被遺忘的王朝，長劍兵進一步的被強化，在現今
+            早期<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵》</nuxt-link
+            >前的版本，長劍兵可說是一個雞肋單位，基本上沒有玩家會去生產，而到了<nuxt-link
+              to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >，長劍兵進一步的被強化，在現今
             <nuxt-link to="/units/Eagle_Warrior"></nuxt-link
             ><nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
             >縱橫的年代，長劍兵作為一個反老鷹兵種，讓其再度浮上檯面。

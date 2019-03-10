@@ -399,6 +399,30 @@
             >。中世紀仍保持著輕裝甲的騎兵部隊，用於來當軍隊的搜查、巡邏之用。斥候對於戰鬥的作用並不大，因為大部分是小型裝備與武器。然而斥候能搜索敵方情報，對於一場戰爭的勝負往往很關鍵。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Scoutcavalry.png" alt=""
+              /></gallery>
+              <p><em>一群斥候。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
+              /></gallery>
+              <p><em>斥候系，斥候在最左邊。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/sc45.jpg" alt=""
+              /></gallery>
+              <p><em>一群封建的斥候正在大開殺戒。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -586,32 +610,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由煥庭、眠和賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Scoutcavalry.png" alt=""
-              /></gallery>
-              <p><em>一群斥候。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Scoutcavalryline.png" alt=""
-              /></gallery>
-              <p><em>斥候系，斥候在最左邊。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/sc45.jpg" alt=""
-              /></gallery>
-              <p><em>一群封建的斥候正在大開殺戒。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

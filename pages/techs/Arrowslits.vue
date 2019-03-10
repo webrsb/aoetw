@@ -140,14 +140,16 @@
           >並沒有出現這個防禦措施。直到12世紀末再次被人們想起並且使用在軍事<nuxt-link
             to="/building"
             >建築</nuxt-link
-          >中。英格蘭的 <a href="http://tinyurl.com/y9sletxz">多佛爾城堡</a>與<a
-            href="https://en.wikipedia.org/wiki/Framlingham_Castle"
+          >中。英格蘭的
+          <a href="http://tinyurl.com/y9sletxz" target="_blank">多佛爾城堡</a
+          >與<a href="https://en.wikipedia.org/wiki/Framlingham_Castle"
             >弗拉姆林陵堡</a
           >、
           <nuxt-link to="/units/hero/Richard_the_Lionheart"
             >獅心王查理</nuxt-link
           >在<nuxt-link to="/civs/Franks">法國</nuxt-link>的<a
             href="https://en.wikipedia.org/wiki/Château_Gaillard"
+            target="_blank"
             >Château Gaillard</a
           >都有使用。箭狹槽被定位於保護<nuxt-link to="/building/Stone_Wall"
             >城牆</nuxt-link

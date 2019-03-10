@@ -149,7 +149,9 @@
             <div style="margin-left: 10px;">
               <em
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/%E9%BB%8E%E5%88%A9"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E9%BB%8E%E5%88%A9"
+                    target="_blank"
                     >黎利</a
                   ></strong
                 ></em

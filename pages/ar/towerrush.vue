@@ -152,6 +152,7 @@
               <li>
                 <nuxt-link to="/civs/Incas">印加</nuxt-link
                 >:暴力塔、經濟強、村民血厚、石頭省、鷹勇遠，延伸閱讀<a
+                  target="_blank"
                   href="https://www.ptt.cc/bbs/AOE/M.1541222470.A.E27.html"
                   >鉛筆塔。</a
                 >

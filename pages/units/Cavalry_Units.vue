@@ -52,8 +52,7 @@
             >中訓練。有兩個特殊的騎兵單位能在<nuxt-link to="/building/Castle"
               >城堡</nuxt-link
             >以外的地方訓練：<nuxt-link to="/units/Tarkan">韃靼騎兵</nuxt-link
-            >在
-            <nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
+            >在<nuxt-link to="/techs/Marauders">掠奪者</nuxt-link
             >研究後可以在馬厩中訓練，而<nuxt-link to="/units/Imperial_Camel"
               >帝王駱駝騎兵</nuxt-link
             >則只能在馬廄訓練。拋開垃圾單位，所有騎兵單位訓練都需要<nuxt-link
@@ -1228,9 +1227,7 @@
               <td class="tunitc6">矛象伕+50 HP。</td>
             </tr>
           </table>
-        </div>
-        <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-        <div class="col-md-12">
+
           <h3>圖庫</h3>
           <div class="hrn1"></div>
           <div class="n1">
@@ -1260,6 +1257,7 @@
             </div>
           </div>
         </div>
+        <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
       </div>
     </div>
   </div>

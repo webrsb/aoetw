@@ -794,6 +794,28 @@
             >部隊在射程範圍內造成敵人傷亡，所以這種組合在戰場上擁有主導地位。隨著中世紀之後槍械的改進，重裝長槍兵變得不再那麼必要了，刺刀讓火槍兵在遇到騎兵時也有一搏的餘地。"
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Spearline.png" alt=""
+            /></gallery>
+            <p><em>重裝長槍兵類列</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Pikeman.png" alt=""
+            /></gallery>
+            <p><em>一群重裝長槍兵</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Pikeman_history.jpg" alt=""
+            /></gallery>
+            <p><em>真實的重裝長槍兵畫像</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -970,30 +992,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由眠的觀眾協助編輯</div>
-      </div>
-    </div>
-    <div class="col-md-12">
-      <h3>圖庫</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <div class="col-md-4">
-          <gallery
-            ><img class="imgn hg" src="~assets/Spearline.png" alt=""
-          /></gallery>
-          <p><em>重裝長槍兵類列</em></p>
-        </div>
-        <div class="col-md-4">
-          <gallery
-            ><img class="imgn hg" src="~assets/Pikeman.png" alt=""
-          /></gallery>
-          <p><em>一群重裝長槍兵</em></p>
-        </div>
-        <div class="col-md-4">
-          <gallery
-            ><img class="imgn hg" src="~assets/Pikeman_history.jpg" alt=""
-          /></gallery>
-          <p><em>真實的重裝長槍兵畫像</em></p>
-        </div>
       </div>
     </div>
   </div>

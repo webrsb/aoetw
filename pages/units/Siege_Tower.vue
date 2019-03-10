@@ -506,173 +506,173 @@
               </div>
             </div>
           </div>
-          <h3>文明加成</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>
-                <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
-                >：攻城塔生產快15%。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
-                  to="/elements/Rate_of_Fire"
-                  >攻擊速度</nuxt-link
-                >快25%。
-              </li>
-              (只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)
-              <li>
-                <nuxt-link to="/civs/Chinese">中國</nuxt-link
-                >：利於攻城塔的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
-                  >城堡</nuxt-link
-                >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-                >便宜10％/15％/20％。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
-                >：攻城塔<nuxt-link to="/resource/Gold">黃金</nuxt-link
-                >成本減少15%。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
-                >：攻城塔成本便宜15%。
-              </li>
-            </ul>
+        </div>
+        <h3>文明加成</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link
+              >：攻城塔生產快15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：<nuxt-link
+                to="/elements/Rate_of_Fire"
+                >攻擊速度</nuxt-link
+              >快25%。
+            </li>
+            (只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)
+            <li>
+              <nuxt-link to="/civs/Chinese">中國</nuxt-link
+              >：利於攻城塔的技術在封建/<nuxt-link to="/techs/age/Castle_Age"
+                >城堡</nuxt-link
+              >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+              >便宜10％/15％/20％。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link
+              >：攻城塔<nuxt-link to="/resource/Gold">黃金</nuxt-link
+              >成本減少15%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Slavs">斯拉夫</nuxt-link
+              >：攻城塔成本便宜15%。
+            </li>
+          </ul>
+        </div>
+        <h3>團隊加分</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>
+              <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
+              >：攻城塔訓練速度快20%。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
+                to="/techs/Ballistics"
+                >彈道學</nuxt-link
+              >，<nuxt-link to="/techs/Chemistry">化學</nuxt-link>和
+              <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
+              >的速度快80%。
+            </li>
+            <strong
+              >(這些<nuxt-link to="/techs">科技</nuxt-link
+              >只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)</strong
+            >
+            <li>
+              <nuxt-link to="/civs/Teutons">條頓</nuxt-link>：攻城塔對<nuxt-link
+                to="/elements/Conversion"
+                >僧侶的招降</nuxt-link
+              >有較好的抗性。
+            </li>
+          </ul>
+        </div>
+        <h3>更新日誌</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <h3>
+            <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>攻城塔成本為300W/160G。</li>
+            <li>
+              攻城塔有6的射程(最小射程1)6的攻擊(對<nuxt-link
+                to="/armor/Armor_Class_Building"
+                >建築物</nuxt-link
+              >+6)，<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
+              >為4，命中率為90％。
+            </li>
+            <li>移動速度0.6。</li>
+          </ul>
+          <h3>
+            <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
+          </h3>
+          <ul>
+            <li>
+              攻城塔不能攻擊，但可以運送部隊穿越<nuxt-link
+                to="/building/Stone_Wall"
+                >城牆</nuxt-link
+              >。
+            </li>
+            <li>
+              <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
+              >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
+              >對攻城塔有+5的傷害。
+            </li>
+            <li>攻城塔現在移動速度為0.8。</li>
+            <li>4.8版本後，訓練成本為200W160G。</li>
+          </ul>
+        </div>
+        <h3>趣事</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <ul>
+            <li>攻城塔是唯一一個無法攻擊的單位。</li>
+            <li>
+              地圖編輯器還是把攻城塔列為<nuxt-link to="/games/aoc"
+                >征服者入侵</nuxt-link
+              >的單位，LOGO也是。
+            </li>
+            <li>
+              <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
+              >的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<nuxt-link
+                to="/techs/Husbandry"
+                >畜牧培育</nuxt-link
+              >的 <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
+            </li>
+            <li>
+              AOE
+              HD論壇曾經為了攻城塔要不要給它攻擊而有過激烈的討論。有人覺得沒有攻擊的攻城塔是一個沒用的單位。
+            </li>
+            <li>
+              5名<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
+              >駐守在衝撞車內的速度是0.75，而<nuxt-link
+                to="/units/Teutonic_Knight"
+                >條頓武士</nuxt-link
+              >速度為0.7，但研發
+              <nuxt-link to="/techs/Squires">護衛技術</nuxt-link
+              >後，條頓武士速度為0.77，並沒有比較快。但如果裝在攻城塔內，速度就來到了1.3，可以更有效率的運用條頓武士。
+            </li>
+          </ul>
+        </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-12">
+            <p>
+              攻城塔是用來穿越敵人的城牆，外觀經常覆蓋著動物的毛皮，讓它有防火性，為了進一步防禦，通常會在攻城塔上或內部開火。
+            </p>
+            <p>
+              是古戰場上常用的大型<nuxt-link to="/units/Siege_Weapons"
+                >攻城器</nuxt-link
+              >械，一般由結實的木料組合而成，高4米到8米甚至10米以上。四方柱型，下有車輪，可以推動。攻城時士兵站在頂部，以弓箭等<nuxt-link
+                to="/units/Archer_Units"
+                >遠程</nuxt-link
+              >武器對守城士兵造成傷害和威脅。從某種程度上說是雲梯的攻擊加強。是弓箭部隊常用的攻城工具。除常規對守城士兵造成強力的殺傷外，並可以通過火箭削弱對方士氣，居高臨下射箭攻擊，消滅對方兵力，進而減弱守城方的抵抗力量。
+            </p>
           </div>
-          <h3>團隊加分</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <ul>
-              <li>
-                <nuxt-link to="/civs/Celts">塞爾特</nuxt-link
-                >：攻城塔訓練速度快20%。
-              </li>
-              <li>
-                <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研發<nuxt-link
-                  to="/techs/Ballistics"
-                  >彈道學</nuxt-link
-                >，<nuxt-link to="/techs/Chemistry">化學</nuxt-link>和
-                <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
-                >的速度快80%。
-              </li>
-              <strong
-                >(這些<nuxt-link to="/techs">科技</nuxt-link
-                >只影響《世紀帝國II:失落的帝國》的攻城塔，其他資料片的不會)</strong
-              >
-              <li>
-                <nuxt-link to="/civs/Teutons">條頓</nuxt-link
-                >：攻城塔對<nuxt-link to="/elements/Conversion"
-                  >僧侶的招降</nuxt-link
-                >有較好的抗性。
-              </li>
-            </ul>
-          </div>
-          <h3>更新日誌</h3>
-          <div class="hrn1"></div>
-          <div class="n1">
-            <h3>
-              <em><nuxt-link to="/games/aof">失落的帝國</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>攻城塔成本為300W/160G。</li>
-              <li>
-                攻城塔有6的射程(最小射程1)6的攻擊(對<nuxt-link
-                  to="/armor/Armor_Class_Building"
-                  >建築物</nuxt-link
-                >+6)，<nuxt-link to="/elements/Rate_of_Fire">射速</nuxt-link
-                >為4，命中率為90％。
-              </li>
-              <li>移動速度0.6。</li>
-            </ul>
-            <h3>
-              <em><nuxt-link to="/games/ak">非洲王國</nuxt-link></em>
-            </h3>
-            <ul>
-              <li>
-                攻城塔不能攻擊，但可以運送部隊穿越<nuxt-link
-                  to="/building/Stone_Wall"
-                  >城牆</nuxt-link
-                >。
-              </li>
-              <li>
-                <nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-                >和<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
-                >對攻城塔有+5的傷害。
-              </li>
-              <li>攻城塔現在移動速度為0.8。</li>
-              <li>4.8版本後，訓練成本為200W160G。</li>
-            </ul>
-            <h3>趣事</h3>
-            <div class="hrn1"></div>
-            <div class="n1">
-              <ul>
-                <li>攻城塔是唯一一個無法攻擊的單位。</li>
-                <li>
-                  地圖編輯器還是把攻城塔列為<nuxt-link to="/games/aoc"
-                    >征服者入侵</nuxt-link
-                  >的單位，LOGO也是。
-                </li>
-                <li>
-                  <nuxt-link to="/civs/Mongols">蒙古</nuxt-link
-                  >的攻城塔塞滿步兵速度是1.7，是路上最快的單位之一，速度甚至超越了有<nuxt-link
-                    to="/techs/Husbandry"
-                    >畜牧培育</nuxt-link
-                  >的 <nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link>。
-                </li>
-                <li>
-                  AOE
-                  HD論壇曾經為了攻城塔要不要給它攻擊而有過激烈的討論。有人覺得沒有攻擊的攻城塔是一個沒用的單位。
-                </li>
-                <li>
-                  5名<nuxt-link to="/units/Teutonic_Knight">條頓武士</nuxt-link
-                  >駐守在衝撞車內的速度是0.75，而<nuxt-link
-                    to="/units/Teutonic_Knight"
-                    >條頓武士</nuxt-link
-                  >速度為0.7，但研發
-                  <nuxt-link to="/techs/Squires">護衛技術</nuxt-link
-                  >後，條頓武士速度為0.77，並沒有比較快。但如果裝在攻城塔內，速度就來到了1.3，可以更有效率的運用條頓武士。
-                </li>
-              </ul>
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Siegetower.jpg" alt=""
+              /></gallery>
+              <p><em>一群攻城塔</em></p>
             </div>
-            <h3>圖庫</h3>
-            <div class="hrn1"></div>
-            <div class="n1">
-              <div class="row">
-                <div class="col-md-4">
-                  <gallery
-                    ><img class="imgn hg" src="~assets/Siegetower.jpg" alt=""
-                  /></gallery>
-                  <p><em>一群攻城塔</em></p>
-                </div>
-                <div class="col-md-4">
-                  <gallery
-                    ><img
-                      class="imgn hg"
-                      src="~assets/Siege_Tower_attacking.png"
-                      alt=""
-                  /></gallery>
-                  <p>
-                    <em>《世紀帝國II:失落的帝國》的攻城塔是可以射箭攻擊的</em>
-                  </p>
-                </div>
-              </div>
-            </div>
-            <h3>歷史</h3>
-            <div class="hrn1"></div>
-            <div class="n1">
-              <div class="col-md-12">
-                <p>
-                  攻城塔是用來穿越敵人的城牆，外觀經常覆蓋著動物的毛皮，讓它有防火性，為了進一步防禦，通常會在攻城塔上或內部開火。
-                </p>
-                <p>
-                  是古戰場上常用的大型<nuxt-link to="/units/Siege_Weapons"
-                    >攻城器</nuxt-link
-                  >械，一般由結實的木料組合而成，高4米到8米甚至10米以上。四方柱型，下有車輪，可以推動。攻城時士兵站在頂部，以弓箭等<nuxt-link
-                    to="/units/Archer_Units"
-                    >遠程</nuxt-link
-                  >武器對守城士兵造成傷害和威脅。從某種程度上說是雲梯的攻擊加強。是弓箭部隊常用的攻城工具。除常規對守城士兵造成強力的殺傷外，並可以通過火箭削弱對方士氣，居高臨下射箭攻擊，消滅對方兵力，進而減弱守城方的抵抗力量。
-                </p>
-              </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Siege_Tower_attacking.png"
+                  alt=""
+              /></gallery>
+              <p>
+                <em>《世紀帝國II:失落的帝國》的攻城塔是可以射箭攻擊的</em>
+              </p>
             </div>
           </div>
         </div>

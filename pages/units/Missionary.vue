@@ -553,6 +553,24 @@
             >和其他歐洲國家紛紛派遣傳教士進入新大陸。要成為一個傳教士需要有信心，有強健的體魄和極大的熱情，他們經常被要求投身於具有截然不同文化和信仰的人們的曠野中，許多傳教士在這些環境中感到了絕望，折磨和死亡。因為許多當地人拒絕他們的傳教，或者將他們視為疾病和戰爭的帶原者。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Missionary.png" alt=""
+              /></gallery>
+              <p><em>一群傳教士</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Missionary1.jpg" alt=""
+              /></gallery>
+              <p><em>傳教士美術畫</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -680,26 +698,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Missionary.png" alt=""
-              /></gallery>
-              <p><em>一群傳教士</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Missionary1.jpg" alt=""
-              /></gallery>
-              <p><em>傳教士美術畫</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

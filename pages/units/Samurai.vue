@@ -475,6 +475,34 @@
             他們在戰場上尋找強大的敵人進行個人對決，並被灌輸在戰場上視死如歸的意志，以增加他們的侵略性。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="180"
+                src="~assets/Samurai_2014-12-03_00001.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>一群日本武士。</em></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="180"
+                src="~assets/Samurai_Beta.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>日本武士。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -657,36 +685,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="180"
-                src="~assets/Samurai_2014-12-03_00001.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>一群日本武士。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="180"
-                src="~assets/Samurai_Beta.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>日本武士。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

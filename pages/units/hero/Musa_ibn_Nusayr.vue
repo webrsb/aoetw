@@ -171,7 +171,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://en.wikipedia.org/wiki/Musa_bin_Nusayr"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Musa_bin_Nusayr"
+                    target="_blank"
                     >穆薩·伊本·奴薩爾(英文版)</a
                   ></strong
                 ></i

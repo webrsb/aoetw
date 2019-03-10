@@ -151,6 +151,7 @@
                 ><strong
                   ><a
                     href="https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon"
+                    target="_blank"
                     >沙底隆的雷諾</a
                   ></strong
                 ></i

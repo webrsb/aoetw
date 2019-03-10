@@ -495,7 +495,9 @@
                 to="/units/Longbowman"
                 >長弓兵</nuxt-link
               >駐軍的衝撞車會跟馬路三寶或酒罪人士一樣，不斷的失控去卡別台衝撞車。(
-              <a href="https://www.youtube.com/watch?v=aPK2RnpEgPA"
+              <a
+                href="https://www.youtube.com/watch?v=aPK2RnpEgPA"
+                target="_blank"
                 >見實驗影片</a
               >)。
             </li>
@@ -507,6 +509,23 @@
               防禦-3，是所有單位<nuxt-link to="/armor">近防</nuxt-link>最低的。
             </li>
           </ul>
+        </div>
+        <h3>歷史</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <p>
+            <nuxt-link to="/units/Battering_Ram">衝車</nuxt-link
+            >、或稱撞車，屬於古代攻城器械，在四輪車上安裝撞木，前裹鐵皮，以衝撞的力量破壞<nuxt-link
+              to="/building/Stone_Wall"
+              >城牆</nuxt-link
+            >或<nuxt-link to="/building/Gate">城門</nuxt-link>的攻城主要兵器。
+          </p>
+          <p>
+            《三國演義》第九十七回敘述：孔明大怒曰：「汝燒吾雲梯，吾卻用『衝車』之法！」
+          </p>
+          <p>
+            諸葛亮攻擊陳倉的武器，也是歷代進行攻城的時候使用的重要戰車，在陳倉，被郝昭用鏈球式磨盤所破。今天的通用輪式裝甲車略有其風，只是沒有它這樣巨大。
+          </p>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
@@ -536,23 +555,6 @@
               </p>
             </div>
           </div>
-        </div>
-        <h3>歷史</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <p>
-            <nuxt-link to="/units/Battering_Ram">衝車</nuxt-link
-            >、或稱撞車，屬於古代攻城器械，在四輪車上安裝撞木，前裹鐵皮，以衝撞的力量破壞<nuxt-link
-              to="/building/Stone_Wall"
-              >城牆</nuxt-link
-            >或<nuxt-link to="/building/Gate">城門</nuxt-link>的攻城主要兵器。
-          </p>
-          <p>
-            《三國演義》第九十七回敘述：孔明大怒曰：「汝燒吾雲梯，吾卻用『衝車』之法！」
-          </p>
-          <p>
-            諸葛亮攻擊陳倉的武器，也是歷代進行攻城的時候使用的重要戰車，在陳倉，被郝昭用鏈球式磨盤所破。今天的通用輪式裝甲車略有其風，只是沒有它這樣巨大。
-          </p>
         </div>
       </div>
       <div class="col-md-4">

@@ -126,7 +126,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://tinyurl.com/h3tdx6n">屈出律</a></strong
+                  ><a href="https://tinyurl.com/h3tdx6n" target="_blank"
+                    >屈出律</a
+                  ></strong
                 ></i
               >
             </div>

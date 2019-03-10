@@ -565,6 +565,16 @@
             >軍事力量和兇猛而聞名，目擊者稱維京人的戰士偶爾會以幾乎不人道的熱情進行“狂熱”攻擊，無視所有危險，這種行為令人感到恐懼。在廣泛的迷信時期，能夠與戰鬥慾望發瘋的能力是一個強大的屬性。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Berserk.png" alt=""
+            /></gallery>
+            <p><em>一群狂戰士</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -748,18 +758,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Berserk.png" alt=""
-            /></gallery>
-            <p><em>一群狂戰士</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

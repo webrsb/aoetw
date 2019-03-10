@@ -433,10 +433,11 @@
         <div class="n1">
           <p>
             <em
-              >延伸閱讀：<a href="http://tinyurl.com/y7jwme3m"
+              >延伸閱讀：<a href="http://tinyurl.com/y7jwme3m" target="_blank"
                 >中古世紀歐洲農業發展</a
               >、<a
                 href="http://fishleong666.blogspot.tw/2016/02/blog-post_27.html"
+                target="_blank"
                 >歐洲中世紀農業革命</a
               ></em
             >

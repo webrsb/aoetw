@@ -354,6 +354,18 @@
             >的一個詞，意思是破風。在非常危險的情況下，一個裝甲人員會將爆炸桶送到攻擊點並點燃導火線。如果保險絲發生故障或電荷由於某種原因提前關閉，那麼這個爆炸桶就會沒法發揮作用，俗話說就是:“被他自己的屁股吊起來”，這是今天當計劃或操作發生故障時仍然會使用的一句話。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Petard.png" alt=""
+              /></gallery>
+              <p><em>一群爆炸桶</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -485,20 +497,6 @@
             <td class="unit4">4</td>
           </tr>
         </table>
-      </div>
-    </div>
-    <div class="col-md-12">
-      <h3>圖庫</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <div class="row">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Petard.png" alt=""
-            /></gallery>
-            <p><em>一群爆炸桶</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

@@ -670,6 +670,36 @@
             唐朝時，東南亞棲息著成群的野象，民眾有以象為代步工具的。戰場上使用大象十分普遍。唐朝初期，林邑王改稱環王。國都為占城。為中國歷史記載，環王的衛兵5000人，作戰時乘坐戰象。國王曾向唐太宗獻馴象等物。元和初年，唐朝安南都護張舟擊敗占城軍，在此戰中繳獲戰象若干。歐洲人記錄了斯里蘭卡的象刑，中國史書記載了占城同樣有象刑。東南亞地區擁有戰象的不止占城。哥羅國的戰象，與一千多年前歐洲戰場上的同類一樣，裝備有象輿，象輿內載四名士兵以弓箭和長矛為武器。另外真臘國有五千戰象，也向唐朝進獻過馴象。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Battle_Elephant_and_Elite.jpg"
+                  alt=""
+              /></gallery>
+              <p>
+                <em
+                  >矛象伕和<nuxt-link to="/units/Elite_Battle_Elephant"
+                    >精銳矛象伕</nuxt-link
+                  >。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Battle_Elephant_group.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>一群矛象伕。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -834,38 +864,6 @@
             <td class="unit4">100秒</td>
           </tr>
         </table>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Battle_Elephant_and_Elite.jpg"
-                  alt=""
-              /></gallery>
-              <p>
-                <em
-                  >矛象伕和<nuxt-link to="/units/Elite_Battle_Elephant"
-                    >精銳矛象伕</nuxt-link
-                  >。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Battle_Elephant_group.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>一群矛象伕。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

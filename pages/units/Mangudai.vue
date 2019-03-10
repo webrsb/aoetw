@@ -874,6 +874,46 @@
             <p style="text-align: right;margin-top: 10px;">-世紀帝國II手稿。</p>
           </div>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="180"
+                src="~assets/Mangudai.png"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>一群蒙古突騎。</em></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="200"
+                src="~assets/Mangudai_real_life.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>真實歷史上的蒙古突騎。</em></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                width="200"
+                src="~assets/Mangudai_Preview.jpg"
+                alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:185px">
+              <p><em>世紀帝國III中的蒙古突騎。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -1057,48 +1097,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由Jack和賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="180"
-                src="~assets/Mangudai.png"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>一群蒙古突騎。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="200"
-                src="~assets/Mangudai_real_life.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>真實歷史上的蒙古突騎。</em></p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                width="200"
-                src="~assets/Mangudai_Preview.jpg"
-                alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:185px">
-              <p><em>世紀帝國III中的蒙古突騎。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

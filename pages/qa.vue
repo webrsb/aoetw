@@ -170,13 +170,17 @@
             <div class="well">
               <p>必須使用信用卡購買</p>
               <p>
-                <a href="http://store.steampowered.com/app/221380/"
+                <a
+                  href="http://store.steampowered.com/app/221380/"
+                  target="_blank"
                   >HD主程式 (舊版帝王+征服者) 原價468</a
                 >
               </p>
               <h3></h3>
               <p>
-                <a href="http://store.steampowered.com/bundle/2149/"
+                <a
+                  href="http://store.steampowered.com/bundle/2149/"
+                  target="_blank"
                   >世紀帝國2HD全集HD+3個資料片 組合包價格1040</a
                 >
               </p>
@@ -192,7 +196,7 @@
           <b-collapse id="a-3">
             <div class="well">
               可以使用Steam點數卡購買，使用超商繳費，連結如下
-              <p><a href="https://cdkey.com.tw">閃電發卡</a></p>
+              <p><a href="https://cdkey.com.tw" target="_blank">閃電發卡</a></p>
             </div>
           </b-collapse>
         </div>
@@ -259,6 +263,7 @@
               <p>
                 2.<a
                   href="http://steamcommunity.com/sharedfiles/filedetails/?id=466768643"
+                  target="_blank"
                   >請訂閱插件</a
                 >
               </p>
@@ -267,6 +272,7 @@
               <p>
                 若不是，請在遊戲中的「選項」中選擇「繁體中文」。詳細內容<a
                   href="https://forum.gamer.com.tw/C.php?bsn=01122&snA=12498&tnum=125"
+                  target="_blank"
                   >請參考</a
                 >
               </p>
@@ -283,7 +289,9 @@
             <div class="well">
               桌面解析度=遊戲解析度，你是筆電的話只能說gg
               <p>
-                <a href="https://www.ptt.cc/bbs/AOE/M.1511792119.A.275.html"
+                <a
+                  href="https://www.ptt.cc/bbs/AOE/M.1511792119.A.275.html"
+                  target="_blank"
                   >相關討論</a
                 >
               </p>
@@ -339,48 +347,56 @@
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=176096493"
+                    target="_blank"
                     >格線+去雪地</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=549369672"
+                    target="_blank"
                     >小樹</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=680790000"
+                    target="_blank"
                     >矮牆</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=843687812"
+                    target="_blank"
                     >閒置村民 驚嘆號</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=143764670"
+                    target="_blank"
                     >Player 7 灰色改黑色 (只有改小地圖的)</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=552934442"
+                    target="_blank"
                     >original hotkey</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=808105965"
+                    target="_blank"
                     >Tech Tree UI</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=824164427"
+                    target="_blank"
                     >sort civ</a
                   >
                 </li>
@@ -401,48 +417,56 @@
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=926355182"
+                    target="_blank"
                     >No Action AI</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=808013226"
+                    target="_blank"
                     >Gandalf AI</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=473358292"
+                    target="_blank"
                     >New Custom AI - ResonanceBot 5-1c:</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=647049302"
+                    target="_blank"
                     >Custom AI - ResonanceBot 5-1c 2v6 EX</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=463466878"
+                    target="_blank"
                     >BruteForce Custom AI 2.15:</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=926358453"
+                    target="_blank"
                     >WC 9487</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=926377949"
+                    target="_blank"
                     >WC 9527-Siege & cavalry</a
                   >
                 </li>
                 <li>
                   <a
                     href="http://steamcommunity.com/sharedfiles/filedetails/?id=804364078"
+                    target="_blank"
                     >Balance scai (1V7)</a
                   >
                 </li>
@@ -536,6 +560,7 @@
         <p>
           此頁面感謝qaws68（伊森）整理<a
             href="https://www.ptt.cc/bbs/AOE/M.1495194620.A.384.html"
+            target="_blank"
             >AOE常見問題</a
           >完成
         </p>

@@ -143,6 +143,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%BE%E6%B1%89"
+                    target="_blank"
                     >羅賓漢</a
                   ></strong
                 ></i

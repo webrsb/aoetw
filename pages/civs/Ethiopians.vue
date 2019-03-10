@@ -157,6 +157,7 @@
               衣索比亞和<nuxt-link to="/civs/Malians">馬利</nuxt-link
               >人共用的非洲風格原形是<a
                 href="https://en.wikipedia.org/wiki/Sudano-Sahelian_architecture"
+                target="_blank"
                 >蘇丹薩赫勒建築</a
               >。
             </li>

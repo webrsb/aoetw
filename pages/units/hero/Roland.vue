@@ -15,6 +15,7 @@
             >
             <nuxt-link to="/units/hero">英雄</nuxt-link>，他的原型是<a
               href="https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E6%9B%BC"
+              target="_blank"
               ><nuxt-link to="/units/hero/Charlemagne">查理曼大帝</nuxt-link></a
             >麾下的一名 <nuxt-link to="/civs/Franks">法蘭克</nuxt-link>將領。
           </p>
@@ -122,6 +123,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E7%BE%85%E8%98%AD_(%E9%A8%8E%E5%A3%AB)"
+                    target="_blank"
                     >羅蘭</a
                   ></strong
                 ></i

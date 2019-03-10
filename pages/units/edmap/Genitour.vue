@@ -145,7 +145,9 @@
         <div style="margin-left: 10px;">
           <i
             ><strong
-              ><a href="https://en.wikipedia.org/wiki/Jinete">馬勇士</a>
+              ><a href="https://en.wikipedia.org/wiki/Jinete" target="_blank"
+                >馬勇士</a
+              >
             </strong>
           </i>
         </div>

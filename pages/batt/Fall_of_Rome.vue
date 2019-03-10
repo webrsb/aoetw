@@ -295,6 +295,7 @@
               <i
                 ><strong
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E8%89%AF%E4%B8%80%E4%B8%96"
                     >李奧教皇</a
                   ></strong

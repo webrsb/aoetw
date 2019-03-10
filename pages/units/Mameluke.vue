@@ -732,6 +732,28 @@
             >，將這些野蠻人騎兵從尼羅河和北非驅除出境。奴隸兵順勢揭竿起來反對他們的阿拉伯統治者並解放了自己。當拿破崙在十八世紀入侵埃及時，他在金字塔之戰中擊敗了一支奴隸兵軍隊。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Saracenmamluk.png" alt=""
+            /></gallery>
+            <p><em>奴隸兵</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Mameluke.png" alt=""
+            /></gallery>
+            <p><em>一群奴隸兵</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Mameluke_history.jpg" alt=""
+            /></gallery>
+            <p><em>歷史上的奴隸兵，注意他是騎著馬而非像遊戲中騎著駱駝。</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -906,30 +928,6 @@
             <td class="unit4">50秒</td>
           </tr>
         </table>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Saracenmamluk.png" alt=""
-            /></gallery>
-            <p><em>奴隸兵</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Mameluke.png" alt=""
-            /></gallery>
-            <p><em>一群奴隸兵</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Mameluke_history.jpg" alt=""
-            /></gallery>
-            <p><em>歷史上的奴隸兵，注意他是騎著馬而非像遊戲中騎著駱駝。</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

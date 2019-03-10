@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>岡薩洛·皮薩羅</b
-            >是一位在世紀帝國二：被遺忘的王朝中登場的<nuxt-link to="/units/hero"
-              >英雄</nuxt-link
+            <b>岡薩洛·皮薩羅</b>是一位在<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >中登場的<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，你可以在地圖編輯器中找到他。在歷史上，他是一名<nuxt-link
               to="/civs/Spanish"
               >西班牙</nuxt-link
@@ -63,7 +63,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">被遺忘的王朝</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -156,7 +158,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://en.wikipedia.org/wiki/Gonzalo_Pizarro"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Gonzalo_Pizarro"
+                    target="_blank"
                     >岡薩洛·皮薩羅</a
                   ></strong
                 ></i

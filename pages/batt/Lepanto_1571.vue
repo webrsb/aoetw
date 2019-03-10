@@ -303,6 +303,7 @@
                     ><b
                       ><a
                         href="https://zh.wikipedia.org/wiki/%E5%8B%92%E7%8F%AD%E9%99%80%E6%88%B0%E5%BD%B9"
+                        target="_blank"
                         >勒班陀</a
                       ></b
                     ></i

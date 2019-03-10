@@ -199,6 +199,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%88%9C%E8%87%A3_(%E6%9C%9D%E9%AE%AE)"
+                    target="_blank"
                     >李舜臣</a
                   ></strong
                 ></i

@@ -151,6 +151,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%E4%B8%80%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
+                    target="_blank"
                     >威廉一世 (英格蘭)</a
                   ></strong
                 ></i

@@ -22,8 +22,8 @@
           <p>
             義大利是地中海的<nuxt-link to="/units/Archer_Units">弓兵</nuxt-link
             >和<nuxt-link to="/units/Naval_Vessels">海軍文明</nuxt-link
-            >，世紀帝國II資料片被遺忘的王朝所新增的文明。義大利的<nuxt-link
-              to="/units/Unique_Unit"
+            >，<nuxt-link to="/games/aof">世紀帝國II：失落的帝國</nuxt-link
+            >所新增的文明。義大利的<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >是<nuxt-link to="/units/Genoese_Crossbowman">熱那亞弩手</nuxt-link
             >，是一種對<nuxt-link to="/armor/Armor_Class_Cavalry"

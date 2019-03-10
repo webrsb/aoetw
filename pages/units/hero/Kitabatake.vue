@@ -125,6 +125,7 @@
               ><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/%E5%8C%97%E7%95%A0%E8%A6%AA%E6%88%BF"
+                  target="_blank"
                   >北畠將軍</a
                 ></strong
               ></i

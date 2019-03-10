@@ -510,7 +510,9 @@
             </li>
             <li>少數沒有任何加成的單位(因為已經夠強了)。</li>
             <li>
-              貴族鐵騎揮舞著一個叫做<a href="http://tinyurl.com/yayhsj93"
+              貴族鐵騎揮舞著一個叫做<a
+                href="http://tinyurl.com/yayhsj93"
+                target="_blank"
                 >bardiche</a
               >的武器，這武器使用於15世紀的俄羅斯。
             </li>
@@ -525,6 +527,59 @@
           >保加利亞帝國、莫斯科大公國、基輔羅斯、
           瓦拉幾亞和摩爾多瓦的一個僅次於大公的貴族頭銜。由10-17世紀，在保加利亞、俄國和羅馬尼亞演變為表示僅次於沙皇的親王王子，加在姓氏前面是「采邑貴族」，在芬蘭寫作
           Pajari 以顯示和「食邑貴族」的區別。
+        </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/AOF36_Boyar.jpg" alt=""
+              /></gallery>
+              <p>
+                <em
+                  >3.6版《世紀帝國II:<nuxt-link to="/games/aof"
+                    >失落的帝國</nuxt-link
+                  >》的貴族鐵騎。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/AOE2HDTF_Boyars_Ingame.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>3.5版前的貴族鐵騎。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/AOF22_Boyar_Joan.jpg" alt=""
+              /></gallery>
+              <p>
+                <em
+                  ><nuxt-link to="/games/aoc"
+                    >《世紀帝國II:征服者入侵》</nuxt-link
+                  >時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em
+                >
+              </p>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""
+                /></gallery>
+                <p>
+                  <em
+                    >在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
+                    >測試服的<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
+                    >是用貴族鐵騎的模組。</em
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div class="col-md-4">
@@ -696,63 +751,12 @@
             維基百科上的貴族鐵騎
             <div style="margin-left: 10px;">
               <i
-                ><b><a href="http://tinyurl.com/ybpqjkuk">波雅爾</a></b></i
+                ><b
+                  ><a href="http://tinyurl.com/ybpqjkuk" target="_blank"
+                    >波雅爾</a
+                  ></b
+                ></i
               >
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/AOF36_Boyar.jpg" alt=""
-              /></gallery>
-              <p>
-                <em
-                  >3.6版《世紀帝國II:<nuxt-link to="/games/aof"
-                    >失落的帝國</nuxt-link
-                  >》的貴族鐵騎。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/AOE2HDTF_Boyars_Ingame.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>3.5版前的貴族鐵騎。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/AOF22_Boyar_Joan.jpg" alt=""
-              /></gallery>
-              <p>
-                <em
-                  ><nuxt-link to="/games/aoc"
-                    >《世紀帝國II:征服者入侵》</nuxt-link
-                  >時的聖女貞德(中間)其實是用貴族鐵騎的模組。</em
-                >
-              </p>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Cataphract1.jpg" alt=""
-                /></gallery>
-                <p>
-                  <em
-                    >在<nuxt-link to="/games/aok">帝王世紀</nuxt-link
-                    >測試服的<nuxt-link to="/units/Cataphract">聖騎兵</nuxt-link
-                    >是用貴族鐵騎的模組。</em
-                  >
-                </p>
-              </div>
             </div>
           </div>
         </div>

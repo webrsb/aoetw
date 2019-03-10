@@ -87,6 +87,7 @@
               ></span>
               <a
                 href="https://drive.google.com/open?id=1x2S0bZgfmJ25tHMqPi_fJmbbPUNHBBWTkaCB6qCt-jc"
+                target="_blank"
                 >贊助名單</a
               >
             </p>
@@ -97,6 +98,7 @@
               ></span>
               <a
                 href="https://drive.google.com/open?id=1HwwwvoFoh6av2Gdoh80EZlkeSGldeGgY"
+                target="_blank"
                 >工作人員名單</a
               >
             </p>

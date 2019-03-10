@@ -437,6 +437,33 @@
         <div class="n1">
           爪刀（英語：Karambit；印尼語：Kerambit），又稱虎爪刀、鷹爪刀。起源於東南亞的一種刀具，因攜帶方便它的作用大多數為防身，現在的爪刀則演變成有各種不同的花式技巧，比起其他的刀具爪刀的外型較為特殊，爪刀的刀型為圓弧，握把有指環，因此可以讓使用者更加靈活的去操作。
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Karambit_Warrior_group.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>一群爪刀勇士</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Karambits.png" alt=""
+              /></gallery>
+              <p><em>兩個爪刀勇士只佔一人口。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Karambit_knife.jpg" alt=""
+              /></gallery>
+              <p><em>沒有刀鞘的爪刀，可看見尾端的手指環。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -595,35 +622,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由熊協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Karambit_Warrior_group.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>一群爪刀勇士</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Karambits.png" alt=""
-              /></gallery>
-              <p><em>兩個爪刀勇士只佔一人口。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Karambit_knife.jpg" alt=""
-              /></gallery>
-              <p><em>沒有刀鞘的爪刀，可看見尾端的手指環。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

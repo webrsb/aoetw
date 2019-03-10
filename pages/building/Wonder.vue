@@ -516,7 +516,9 @@
             <h3>
               <span class="we">不列顛</span
               ><strong
-                ><a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></strong
+                ><a href="http://tinyurl.com/y7b3ntp5" target="_blank"
+                  >亞琛主教座堂</a
+                ></strong
               >
             </h3>
             <div class="wimg">
@@ -537,7 +539,7 @@
             <h3>
               <span class="we">拜占庭</span
               ><strong
-                ><a href="http://tinyurl.com/y9spbwty"
+                ><a href="http://tinyurl.com/y9spbwty" target="_blank"
                   >聖索菲亞大教堂</a
                 ></strong
               >
@@ -567,7 +569,9 @@
             <h3>
               <span class="we">塞爾特</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/卡瑟爾岩"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/卡瑟爾岩"
+                  target="_blank"
                   >卡瑟爾岩</a
                 ></strong
               >
@@ -596,7 +600,9 @@
             <h3>
               <span class="we">中國</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/天壇">天壇</a></strong
+                ><a href="https://zh.wikipedia.org/wiki/天壇" target="_blank"
+                  >天壇</a
+                ></strong
               >
             </h3>
             <div class="wimg">
@@ -618,7 +624,9 @@
             <h3>
               <span class="we">法蘭克</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/沙特爾主教座堂"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/沙特爾主教座堂"
+                  target="_blank"
                   >沙特爾主教座堂</a
                 ></strong
               >
@@ -643,7 +651,9 @@
             <h3>
               <span class="we">哥德</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/狄奧多里克陵墓"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/狄奧多里克陵墓"
+                  target="_blank"
                   >狄奧多里克陵墓</a
                 ></strong
               >
@@ -667,7 +677,7 @@
               <span class="we"
                 ><nuxt-link to="/civs/Japanese">日本</nuxt-link></span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/東大寺"
+                ><a href="https://zh.wikipedia.org/wiki/東大寺" target="_blank"
                   >東大寺</a
                 ></strong
               >
@@ -708,7 +718,9 @@
             <h3>
               <span class="we">波斯</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/塔克基思拉宮"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/塔克基思拉宮"
+                  target="_blank"
                   >塔克基思拉宮</a
                 ></strong
               >
@@ -736,7 +748,9 @@
             <h3>
               <span class="we">薩拉森</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/薩邁拉大清真寺"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/薩邁拉大清真寺"
+                  target="_blank"
                   >薩邁拉大清真寺</a
                 ></strong
               >
@@ -763,7 +777,9 @@
             <h3>
               <span class="we">條頓</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/瑪麗亞拉赫修道院"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/瑪麗亞拉赫修道院"
+                  target="_blank"
                   >瑪麗亞拉赫修道院</a
                 ></strong
               >
@@ -790,7 +806,9 @@
             <h3>
               <span class="we">土耳其</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/塞利米耶清真寺"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/塞利米耶清真寺"
+                  target="_blank"
                   >塞利米耶清真寺</a
                 ></strong
               >
@@ -819,7 +837,9 @@
               <span class="we"
                 ><nuxt-link to="/civs/Vikings">維京</nuxt-link></span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/博爾貢木板教堂"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/博爾貢木板教堂"
+                  target="_blank"
                   >博爾貢木板教堂</a
                 ></strong
               >
@@ -840,7 +860,9 @@
             <h3>
               <span class="we">阿茲特克</span
               ><strong
-                ><a href="https://baike.baidu.com/item/特诺奇蒂特兰大金字塔"
+                ><a
+                  href="https://baike.baidu.com/item/特诺奇蒂特兰大金字塔"
+                  target="_blank"
                   >特诺奇蒂特兰大金字塔</a
                 ></strong
               >
@@ -871,7 +893,9 @@
             <h3>
               <span class="we">匈奴</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/君士坦丁凱旋門"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/君士坦丁凱旋門"
+                  target="_blank"
                   >君士坦丁凱旋門</a
                 ></strong
               >
@@ -894,7 +918,7 @@
               <span class="we"
                 ><nuxt-link to="/civs/Koreans">韓國</nuxt-link></span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/皇龍寺"
+                ><a href="https://zh.wikipedia.org/wiki/皇龍寺" target="_blank"
                   >皇龍寺</a
                 ></strong
               >
@@ -920,7 +944,7 @@
           <div class="col-md-4">
             <h3>
               <span class="we">馬雅</span><br /><strong
-                ><a href="https://baike.baidu.com/item/蒂卡尔"
+                ><a href="https://baike.baidu.com/item/蒂卡尔" target="_blank"
                   >大美洲豹神廟</a
                 ></strong
               >
@@ -940,7 +964,7 @@
             <h3>
               <span class="we">西班牙</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/黃金塔"
+                ><a href="https://zh.wikipedia.org/wiki/黃金塔" target="_blank"
                   >黃金塔</a
                 ></strong
               >
@@ -968,7 +992,9 @@
             <h3>
               <span class="we">印加</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/馬丘比丘"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/馬丘比丘"
+                  target="_blank"
                   >馬丘比丘太陽神廟</a
                 ></strong
               >
@@ -991,7 +1017,9 @@
             <h3>
               <span class="we">印度</span
               ><strong
-                ><a href="https://en.wikipedia.org/wiki/Gol_Gumbaz"
+                ><a
+                  href="https://en.wikipedia.org/wiki/Gol_Gumbaz"
+                  target="_blank"
                   >果爾。古姆巴斯</a
                 ></strong
               >
@@ -1013,6 +1041,7 @@
               ><strong
                 ><a
                   href="https://zh.wikipedia.org/wiki/圣老楞佐主教座堂_(热那亚)"
+                  target="_blank"
                   >聖勞倫斯大教堂</a
                 ></strong
               >
@@ -1038,7 +1067,9 @@
             <h3>
               <span class="we">馬扎爾</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/科文城堡"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/科文城堡"
+                  target="_blank"
                   >科文城堡</a
                 ></strong
               >
@@ -1058,7 +1089,9 @@
             <h3>
               <span class="we">斯拉夫</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/基日島的木結構教堂"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/基日島的木結構教堂"
+                  target="_blank"
                   >基日島的木結構教堂</a
                 ></strong
               >
@@ -1082,7 +1115,9 @@
               <span class="we"
                 ><nuxt-link to="/civs/Berbers">柏柏</nuxt-link></span
               ><strong
-                ><a href="https://en.wikipedia.org/wiki/Hassan_Tower"
+                ><a
+                  href="https://en.wikipedia.org/wiki/Hassan_Tower"
+                  target="_blank"
                   >哈桑塔</a
                 ></strong
               >
@@ -1102,7 +1137,9 @@
             <h3>
               <span class="we">衣索比亞</span
               ><strong
-                ><a href="https://en.wikipedia.org/wiki/Biete_Amanuel"
+                ><a
+                  href="https://en.wikipedia.org/wiki/Biete_Amanuel"
+                  target="_blank"
                   >比埃特阿曼紐爾</a
                 ></strong
               >
@@ -1122,7 +1159,9 @@
             <h3>
               <span class="we">馬利</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/傑內大清真寺"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/傑內大清真寺"
+                  target="_blank"
                   >傑內大清真寺</a
                 ></strong
               >
@@ -1147,7 +1186,7 @@
               <span class="we"
                 ><nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link></span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/貝倫塔"
+                ><a href="https://zh.wikipedia.org/wiki/貝倫塔" target="_blank"
                   >貝倫塔</a
                 ></strong
               >
@@ -1175,7 +1214,9 @@
             <h3>
               <span class="we">緬甸</span
               ><strong
-                ><a href="https://en.wikipedia.org/wiki/Shwezigon_Pagoda"
+                ><a
+                  href="https://en.wikipedia.org/wiki/Shwezigon_Pagoda"
+                  target="_blank"
                   >瑞西貢佛塔</a
                 ></strong
               >
@@ -1201,7 +1242,7 @@
             <h3>
               <span class="we">高棉</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/吳哥窟"
+                ><a href="https://zh.wikipedia.org/wiki/吳哥窟" target="_blank"
                   >吳哥窟</a
                 ></strong
               >
@@ -1229,7 +1270,7 @@
               <span class="we"
                 ><nuxt-link to="/civs/Malay">馬來</nuxt-link></span
               ><strong
-                ><a href="https://en.wikipedia.org/wiki/Kalasan"
+                ><a href="https://en.wikipedia.org/wiki/Kalasan" target="_blank"
                   >卡拉桑</a
                 ></strong
               >
@@ -1259,6 +1300,7 @@
               ><strong
                 ><a
                   href="http://www.baohuasi.org/gnews/2013413/2013413280755.html"
+                  target="_blank"
                   >寧福寺</a
                 ></strong
               >
@@ -1282,7 +1324,9 @@
               <span class="we"
                 >印度(<nuxt-link to="/games/aor">王者崛起</nuxt-link>版本)</span
               ><strong
-                ><a href="https://zh.wikipedia.org/wiki/布里哈迪希瓦拉神廟"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/布里哈迪希瓦拉神廟"
+                  target="_blank"
                   >布里哈迪希瓦拉神廟</a
                 ></strong
               >

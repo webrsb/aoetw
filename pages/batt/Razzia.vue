@@ -286,7 +286,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Odo_the_Great"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Odo_the_Great"
+                    target="_blank"
                     >Odo_the_Great</a
                   ></b
                 ></i
@@ -305,6 +307,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%9F%BA%E5%9D%A6%E5%85%AC%E7%88%B5"
+                    target="_blank"
                     >阿基坦公爵</a
                   ></b
                 ></i

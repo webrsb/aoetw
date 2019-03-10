@@ -302,6 +302,7 @@
               <i
                 ><strong
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E6%B2%99%E9%9A%86%E6%88%98%E5%BD%B9"
                     >卡塔隆尼亞平原戰役</a
                   ></strong

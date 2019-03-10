@@ -340,7 +340,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Battle_of_Kirina"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Battle_of_Kirina"
+                    target="_blank"
                     >Battle of Kirina</a
                   ></b
                 ></i

@@ -146,6 +146,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E5%B0%94"
+                    target="_blank"
                     >查希爾丁·穆罕默德·巴布爾</a
                   ></strong
                 ></i

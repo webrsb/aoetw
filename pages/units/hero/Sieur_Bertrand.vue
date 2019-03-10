@@ -135,7 +135,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://en.wikipedia.org/wiki/Bertrand_de_Poulengy"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Bertrand_de_Poulengy"
+                    target="_blank"
                     >貝查德爵士</a
                   ></strong
                 ></i

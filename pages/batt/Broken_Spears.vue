@@ -345,6 +345,7 @@
                   <i
                     ><b
                       ><a
+                        target="_blank"
                         href="https://zh.wikipedia.org/wiki/%E7%89%B9%E8%AB%BE%E5%A5%87%E6%8F%90%E7%89%B9%E8%98%AD"
                         >特諾奇提特蘭</a
                       ></b

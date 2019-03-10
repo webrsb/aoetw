@@ -642,6 +642,30 @@
           <img class="img-responsive" src="~assets/camelhorse.jpg" alt="" />
           <p>駱駝的確比馬大很多</p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Camelline.png" alt=""
+              /></gallery>
+              <p><em>駱駝系。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Heavycamel.png" alt=""
+              /></gallery>
+              <p><em>一群重裝駱駝騎兵。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/HeavyCamelaok.jpg" alt=""
+              /></gallery>
+              <p><em>遊戲裡的重裝駱駝騎兵。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -804,32 +828,6 @@
             <td class="unit4">125秒</td>
           </tr>
         </table>
-      </div>
-    </div>
-    <div class="col-md-12">
-      <h3>圖庫</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <div class="row">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Camelline.png" alt=""
-            /></gallery>
-            <p><em>駱駝系。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Heavycamel.png" alt=""
-            /></gallery>
-            <p><em>一群重裝駱駝騎兵。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/HeavyCamelaok.jpg" alt=""
-            /></gallery>
-            <p><em>遊戲裡的重裝駱駝騎兵。</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

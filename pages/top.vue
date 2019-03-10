@@ -34,13 +34,16 @@
                   <strong
                     >Viper
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123211439/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/theviper"
+                    <a target="_blank" href="https://www.twitch.tv/theviper"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
-                    <a href="https://www.youtube.com/user/TheViperAOC/videos"
+                    <a
+                      target="_blank"
+                      href="https://www.youtube.com/user/TheViperAOC/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -58,7 +61,9 @@
                   width="24"
                   alt=""
                 />&nbsp;挪威&nbsp;&nbsp;
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                <a
+                  target="_blank"
+                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
                   ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
                 >
               </td>
@@ -87,10 +92,11 @@
                   <strong
                     >Liereyy
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/124147336/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/liereyy"
+                    <a target="_blank" href="https://www.twitch.tv/liereyy"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -138,10 +144,11 @@
                   <strong
                     >Yo (猜火車)
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123636492/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.douyu.com/753676"
+                    <a target="_blank" href="https://www.douyu.com/753676"
                       ><img src="~assets/douyu.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -190,10 +197,11 @@
                   <strong
                     >TheMax
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123282211/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/themax_"
+                    <a target="_blank" href="https://www.twitch.tv/themax_"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -237,13 +245,16 @@
                 <h4>
                   <strong
                     >DauT
-                    <a href="https://www.voobly.com/profile/view/12926/Matches"
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/12926/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/daut"
+                    <a target="_blank" href="https://www.twitch.tv/daut"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UC8m8Iah2xOHZvnBbpyOcEOA/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -262,7 +273,9 @@
                   width="24"
                   alt=""
                 />&nbsp;賽爾維亞&nbsp;&nbsp;
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                <a
+                  target="_blank"
+                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
                   ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
                 >
               </td>
@@ -291,16 +304,18 @@
                   <strong
                     >TaToH
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123999216/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/tatoh"
+                    <a target="_blank" href="https://www.twitch.tv/tatoh"
                       ><img src="~assets/Ten.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/tatohaoe"
+                    <a target="_blank" href="https://www.twitch.tv/tatohaoe"
                       ><img src="~assets/Tes.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UCtPQLL9KACyYzoYXiMl1Nkg/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -319,7 +334,9 @@
                   width="24"
                   alt=""
                 />&nbsp;西班牙&nbsp;&nbsp;
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                <a
+                  target="_blank"
+                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
                   ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
                 >
               </td>
@@ -349,13 +366,18 @@
                 <h4>
                   <strong
                     >JorDan
-                    <a href="https://www.voobly.com/profile/view/817/Matches"
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/817/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/secret_jordan23"
+                    <a
+                      target="_blank"
+                      href="https://www.twitch.tv/secret_jordan23"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UCimCFIisAqXW9udVhN_LpwQ/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -374,7 +396,9 @@
                   width="24"
                   alt=""
                 />&nbsp;德國&nbsp;&nbsp;
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                <a
+                  target="_blank"
+                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
                   ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
                 >
               </td>
@@ -405,13 +429,15 @@
                   <strong
                     >slam
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123497926/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/slamjam_"
+                    <a target="_blank" href="https://www.twitch.tv/slamjam_"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UC15K06FB4EO98AMBYqraQ3w/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -430,7 +456,9 @@
                   width="24"
                   alt=""
                 />&nbsp;加拿大&nbsp;&nbsp;
-                <a href="https://teamsecret.gg/team/team-secret-age-of-empires/"
+                <a
+                  target="_blank"
+                  href="https://teamsecret.gg/team/team-secret-age-of-empires/"
                   ><img src="~assets/secret.jpg" alt="" />&nbsp;Secret</a
                 >
               </td>
@@ -459,10 +487,11 @@
                   <strong
                     >MbL
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123844441/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/mblaoc"
+                    <a target="_blank" href="https://www.twitch.tv/mblaoc"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -509,10 +538,11 @@
                   <strong
                     >Nicov
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123807394/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/nicov_"
+                    <a target="_blank" href="https://www.twitch.tv/nicov_"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -560,10 +590,11 @@
                   <strong
                     >Hearttt
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/124386524/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/hearttt_"
+                    <a target="_blank" href="https://www.twitch.tv/hearttt_"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -611,13 +642,15 @@
                   <strong
                     >Hera
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/124954867/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/hera_aoc"
+                    <a target="_blank" href="https://www.twitch.tv/hera_aoc"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UCeqc9aYVAZcRQq9Ey0x26AQ/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -663,10 +696,11 @@
                   <strong
                     >Lyx (衝動)
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123230853/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.douyu.com/1029928"
+                    <a target="_blank" href="https://www.douyu.com/1029928"
                       ><img src="~assets/douyu.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -714,10 +748,11 @@
                   <strong
                     >yinghua (櫻花)
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123910183/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.douyu.com/953871"
+                    <a target="_blank" href="https://www.douyu.com/953871"
                       ><img src="~assets/douyu.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -760,10 +795,11 @@
                   <strong
                     >Fengxin (封心)
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123835916/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.douyu.com/294359"
+                    <a target="_blank" href="https://www.douyu.com/294359"
                       ><img src="~assets/douyu.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -810,6 +846,7 @@
                   <strong
                     >Chris
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123397426/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""/></a
                   ></strong>
@@ -859,6 +896,7 @@
                   <strong
                     >Villese
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/124166670/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""/></a
                   ></strong>
@@ -904,6 +942,7 @@
                   <strong
                     >Ruben
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123417449/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""/></a
                   ></strong>
@@ -947,10 +986,11 @@
                   <strong
                     >Zuppi
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123961442/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/toreeeee"
+                    <a target="_blank" href="https://www.twitch.tv/toreeeee"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -995,10 +1035,11 @@
                   <strong
                     >Pike
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123162283/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/pikeaoc"
+                    <a target="_blank" href="https://www.twitch.tv/pikeaoc"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1041,13 +1082,15 @@
                   <strong
                     >ACCM
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123591487/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/accm_vn"
+                    <a target="_blank" href="https://www.twitch.tv/accm_vn"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UClFrW56x-ZtFIE2J_Qn2Ftg/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -1097,10 +1140,11 @@
                   <strong
                     >CooL
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123194620/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/vns_cool_"
+                    <a target="_blank" href="https://www.twitch.tv/vns_cool_"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1146,13 +1190,15 @@
                   <strong
                     >BacT
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123194539/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/bact_"
+                    <a target="_blank" href="https://www.twitch.tv/bact_"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UCScpQlZKVLdPMFBdd1gXbRQ/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -1206,10 +1252,13 @@
                   <strong
                     >saymyname (Yellow)
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123174138/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/saymyname2909"
+                    <a
+                      target="_blank"
+                      href="https://www.twitch.tv/saymyname2909"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h5>
@@ -1254,10 +1303,11 @@
                   <strong
                     >Vivi (肥龍)
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123303397/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.douyu.com/1052202"
+                    <a target="_blank" href="https://www.douyu.com/1052202"
                       ><img src="~assets/douyu.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1298,10 +1348,12 @@
                 <h4>
                   <strong
                     >Tim
-                    <a href="https://www.voobly.com/profile/view/182612/Matches"
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/182612/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://egame.qq.com/98257304"
+                    <a target="_blank" href="https://egame.qq.com/98257304"
                       ><img src="~assets/qq.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1346,10 +1398,11 @@
                   <strong
                     >CL (晨亮)
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123916446/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://egame.qq.com/534103656"
+                    <a target="_blank" href="https://egame.qq.com/534103656"
                       ><img src="~assets/qq.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1392,10 +1445,13 @@
                   <strong
                     >Vinch
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123397463/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/vik_vinchester"
+                    <a
+                      target="_blank"
+                      href="https://www.twitch.tv/vik_vinchester"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1436,13 +1492,16 @@
                 <h4>
                   <strong
                     >RiuT
-                    <a href="https://www.voobly.com/profile/view/56531/Matches"
+                    <a
+                      target="_blank"
+                      href="https://www.voobly.com/profile/view/56531/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/tyrant_riut"
+                    <a target="_blank" href="https://www.twitch.tv/tyrant_riut"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UCWk47NDwrg9p696-Usiv8fw/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -1494,13 +1553,15 @@
                   <strong
                     >F1Re
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123658746/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/f1reaoe"
+                    <a target="_blank" href="https://www.twitch.tv/f1reaoe"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UCe5PZxogLEsu5VacKmOiR5g/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -1548,13 +1609,15 @@
                   <strong
                     >St4rk
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/125107343/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/st4rk_"
+                    <a target="_blank" href="https://www.twitch.tv/st4rk_"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UCoX5HqFM4qEGJYfj0TEOIpg/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -1606,6 +1669,7 @@
                   <strong
                     >mentalist
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123805043/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""/></a
                   ></strong>
@@ -1654,10 +1718,11 @@
                   <strong
                     >miguel
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123600879/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/miguelaoc"
+                    <a target="_blank" href="https://www.twitch.tv/miguelaoc"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1708,10 +1773,11 @@
                   <strong
                     >dogao
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123444726/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/dogaoaoc"
+                    <a target="_blank" href="https://www.twitch.tv/dogaoaoc"
                       ><img src="~assets/Twitch.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1760,13 +1826,15 @@
                   <strong
                     >Melkor
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123922182/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.twitch.tv/braoe2"
+                    <a target="_blank" href="https://www.twitch.tv/braoe2"
                       ><img src="~assets/Twitch.jpg" alt=""
                     /></a>
                     <a
+                      target="_blank"
                       href="https://www.youtube.com/channel/UCA4ad3jJDfg6A3FHsG_jkqg/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
@@ -1813,13 +1881,16 @@
                   <strong
                     >Cloud (雲)
                     <a
+                      target="_blank"
                       href="https://www.voobly.com/profile/view/123198508/Matches"
                       ><img src="~assets/Voobly.jpg" alt=""
                     /></a>
-                    <a href="https://www.facebook.com/Aoecloud/"
+                    <a target="_blank" href="https://www.facebook.com/Aoecloud/"
                       ><img src="~assets/fb3.jpg" alt=""
                     /></a>
-                    <a href="https://www.youtube.com/gktcloud/videos"
+                    <a
+                      target="_blank"
+                      href="https://www.youtube.com/gktcloud/videos"
                       ><img src="~assets/YouTube2.jpg" alt=""/></a
                   ></strong>
                 </h4>
@@ -1860,10 +1931,13 @@
       </div>
       <div>
         <ul class="list-unstyled">
-          &nbsp;&nbsp;&nbsp;照片來源：<a href="https://www.aoezone.net/"
+          &nbsp;&nbsp;&nbsp;照片來源：<a
+            target="_blank"
+            href="https://www.aoezone.net/"
             >AoEZone 共享資源</a
-          >、<a href="https://teamsecret.gg/">Secret 授權</a
-          >、<a href="https://www.facebook.com/gametvgiaidau/">GameTV 授權</a
+          >、<a target="_blank" href="https://teamsecret.gg/">Secret 授權</a
+          >、<a target="_blank" href="https://www.facebook.com/gametvgiaidau/"
+            >GameTV 授權</a
           >、選手本人提供
           <li>&nbsp;&nbsp;&nbsp;本頁面由 Lanchi 整理，最後更新 2019/2/18</li>
         </ul>

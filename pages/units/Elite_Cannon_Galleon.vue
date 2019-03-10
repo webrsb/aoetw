@@ -763,6 +763,36 @@
             大砲在十四世紀首次被裝在船上。這些大砲被安裝在船尾或船頭可以朝前面或後面的敵人發射。小型武器被安裝在軌道上，用於對付敵方船員。第一艘為戰鬥裝載大砲而建造的船出現在1406年。在船上有效地安裝大量大砲需要很多年才能解決。它需要新的設計來彌補船側的槍支的重量。解決方案的設計必須讓槍支能夠安全地射擊和重新裝填。粉末的儲存和取用也需要安全程序。真正能上戰場的火砲戰船直到中世紀晚期才出現。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Cannongalleon.jpg" alt=""
+              /></gallery>
+              <p><em>一群精銳火砲戰船。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/CGHD.jpg" alt=""
+              /></gallery>
+              <p>
+                <em
+                  >各種精銳火砲戰船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/CGDLC.jpg" alt=""
+              /></gallery>
+              <p><em>各種精銳火砲戰船(HD擴充資料片)。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -934,38 +964,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Cannongalleon.jpg" alt=""
-              /></gallery>
-              <p><em>一群精銳火砲戰船。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/CGHD.jpg" alt=""
-              /></gallery>
-              <p>
-                <em
-                  >各種精銳火砲戰船(世紀帝國和<nuxt-link to="/games/aoc"
-                    >征服者入侵</nuxt-link
-                  >資料片)。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/CGDLC.jpg" alt=""
-              /></gallery>
-              <p><em>各種精銳火砲戰船(HD擴充資料片)。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

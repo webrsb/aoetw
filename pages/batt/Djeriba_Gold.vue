@@ -336,7 +336,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://zh.wikipedia.org/wiki/%E6%9D%B0%E5%86%85"
+                  ><a
+                    target="_blank"
+                    href="https://zh.wikipedia.org/wiki/%E6%9D%B0%E5%86%85"
                     >傑內</a
                   ></b
                 ></i

@@ -57,7 +57,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">被遺忘的帝國</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aof">失落的帝國</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -144,7 +146,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Prithviraj_Chauhan"
+                    target="_blank"
                     >布里陀毗羅闍三世</a
                   ></strong
                 ></i

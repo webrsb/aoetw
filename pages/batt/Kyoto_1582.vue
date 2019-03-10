@@ -373,15 +373,25 @@
           </tr>
           <tr>
             <td class="unit3">章節</td>
-            <td class="unit4">征服者的戰役7</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Battles_of_the_Conquerors"
+                >征服者戰役</nuxt-link
+              >第四章之7
+            </td>
           </tr>
           <tr>
             <td class="unit3">上一關</td>
-            <td class="unit4">勒班陀(1571)</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit3">下一關</td>
-            <td class="unit4">洛陽點（1598）</td>
+            <td class="unit4">
+              <nuxt-link to="/batt/Noryang_Point_1598"
+                >洛陽點（1598）</nuxt-link
+              >
+            </td>
           </tr>
         </table>
 
@@ -395,7 +405,9 @@
             <div style="margin-left: 10px;">
               <em
                 ><strong
-                  ><a href="http://tinyurl.com/ybt66856">山崎之戰</a></strong
+                  ><a href="http://tinyurl.com/ybt66856" target="_blank"
+                    >山崎之戰</a
+                  ></strong
                 ></em
               >
             </div>

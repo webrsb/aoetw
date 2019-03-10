@@ -106,7 +106,7 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/ycswv2om"
+                  ><a href="http://tinyurl.com/ycswv2om" target="_blank"
                     >優陀耶迭多跋摩二世</a
                   ></strong
                 ></i

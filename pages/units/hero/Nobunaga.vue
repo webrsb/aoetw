@@ -53,7 +53,7 @@
             </li>
           </ul>
         </div>
-        <h3><strong>出場戰役</strong></h3>
+        <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1">
           <table class="table-bordered" width="100%">
@@ -181,7 +181,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/織田信長"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/織田信長"
+                    target="_blank"
                     >織田信長</a
                   ></strong
                 ></i
@@ -379,7 +381,7 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/织田信长(Fate)"
+                ><a href="https://zh.moegirl.org/织田信长(Fate)" target="_blank"
                   >Fate系列</a
                 ></strong
               ></span
@@ -399,7 +401,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/漂流武士">漂流武士</a></strong
+                ><a href="https://zh.moegirl.org/漂流武士" target="_blank"
+                  >漂流武士</a
+                ></strong
               ></span
             >
           </h3>
@@ -420,7 +424,7 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/织田信奈"
+                ><a href="https://zh.moegirl.org/织田信奈" target="_blank"
                   >織田信奈的野望</a
                 ></strong
               ></span
@@ -441,7 +445,7 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/戰國無雙"
+                ><a href="https://zh.moegirl.org/戰國無雙" target="_blank"
                   >戰國無雙系列</a
                 ></strong
               ></span
@@ -460,7 +464,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/信長之野望系列"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/信長之野望系列"
+                  target="_blank"
                   >信長之野望系列</a
                 ></strong
               ></span
@@ -479,7 +485,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/戰國BASARA系列角色列表"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/戰國BASARA系列角色列表"
+                  target="_blank"
                   >戰國BASARA系列</a
                 ></strong
               ></span

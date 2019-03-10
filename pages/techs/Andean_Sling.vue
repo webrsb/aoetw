@@ -133,7 +133,11 @@
             維基百科上的安地斯彈弓
             <div style="margin-left: 10px;">
               <i
-                ><strong><a href="https://goo.gl/rn8pfX">機弦</a></strong></i
+                ><strong
+                  ><a href="https://goo.gl/rn8pfX" target="_blank"
+                    >機弦</a
+                  ></strong
+                ></i
               >
             </div>
           </div>

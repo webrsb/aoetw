@@ -133,6 +133,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E4%BC%8A%E7%8E%9B%E7%9B%AE"
+                    target="_blank"
                     >伊滿</a
                   ></strong
                 ></i

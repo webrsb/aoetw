@@ -223,7 +223,11 @@
             維基百科上的畜牧培育
             <div style="margin-left: 10px;">
               <i
-                ><b><a href="http://tinyurl.com/yc2drw3u">畜牧業</a></b></i
+                ><b
+                  ><a href="http://tinyurl.com/yc2drw3u" target="_blank"
+                    >畜牧業</a
+                  ></b
+                ></i
               >
             </div>
           </div>

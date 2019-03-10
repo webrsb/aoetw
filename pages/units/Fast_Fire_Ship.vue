@@ -700,6 +700,49 @@
             火戰船在過去幾年裡得到了改進，以提高其速度，機動性和護甲。君士坦丁堡數百年來由快速火戰船組成的海軍捍衛了數個世紀之久。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Fireline.png" alt=""
+              /></gallery>
+              <p>
+                <em
+                  ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
+                  >(快速火戰船在右邊)。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Fastfireship.jpg" alt=""
+              /></gallery>
+              <p><em>一群快速火戰船。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/FFireShipHD.jpg" alt=""
+              /></gallery>
+              <p>
+                <em
+                  >各種快速火戰船(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/FFireShipDLC.jpg" alt=""
+                /></gallery>
+                <p><em>各種快速火戰船(HD擴充資料片)。</em></p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -852,51 +895,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Fireline.png" alt=""
-              /></gallery>
-              <p>
-                <em
-                  ><nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
-                  >(快速火戰船在右邊)。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Fastfireship.jpg" alt=""
-              /></gallery>
-              <p><em>一群快速火戰船。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/FFireShipHD.jpg" alt=""
-              /></gallery>
-              <p>
-                <em
-                  >各種快速火戰船(世紀帝國和<nuxt-link to="/games/aoc"
-                    >征服者入侵</nuxt-link
-                  >資料片)。</em
-                >
-              </p>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/FFireShipDLC.jpg" alt=""
-                /></gallery>
-                <p><em>各種快速火戰船(HD擴充資料片)。</em></p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

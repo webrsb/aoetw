@@ -77,7 +77,11 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://zh.wikipedia.org/wiki/%E7%8B%AE">獅子</a></b
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E7%8B%AE"
+                    target="_blank"
+                    >獅子</a
+                  ></b
                 ></i
               >
             </div>

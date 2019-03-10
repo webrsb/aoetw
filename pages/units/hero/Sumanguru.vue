@@ -116,7 +116,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Soumaoro_Kanté"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Soumaoro_Kanté"
+                    target="_blank"
                     >Soumaoro Kanté</a
                   ></b
                 ></i

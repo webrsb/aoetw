@@ -109,7 +109,11 @@
         <div style="margin-left: 10px;">
           <i
             ><strong
-              ><a href="https://en.wikipedia.org/wiki/Junk_(ship)">運金船</a>
+              ><a
+                href="https://en.wikipedia.org/wiki/Junk_(ship)"
+                target="_blank"
+                >運金船</a
+              >
             </strong>
           </i>
         </div>

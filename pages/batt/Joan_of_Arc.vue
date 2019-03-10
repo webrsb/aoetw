@@ -166,6 +166,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E8%81%96%E5%A5%B3%E8%B2%9E%E5%BE%B7"
+                    target="_blank"
                     >聖女貞德</a
                   ></b
                 ></i

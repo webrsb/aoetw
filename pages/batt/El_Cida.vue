@@ -159,7 +159,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://zh.wikipedia.org/zh-tw/%E7%86%99%E5%BE%B7"
+                  ><a
+                    target="_blank"
+                    href="https://zh.wikipedia.org/zh-tw/%E7%86%99%E5%BE%B7"
                     >熙德</a
                   ></b
                 ></i

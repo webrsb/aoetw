@@ -83,9 +83,11 @@
             >頁可以幫忙加入長弓兵的遊戲圖片，或是像是非洲文明的
             <nuxt-link to="/building/Monastery">修道院</nuxt-link>其實原形來自<a
               href="https://en.wikipedia.org/wiki/Larabanga_Mosque"
+              target="_blank"
               >拉拉班加清真寺</a
             >，而 <nuxt-link to="/civs/Indians">印度</nuxt-link>修道院則是<a
               href="http://tinyurl.com/y8quapg4"
+              target="_blank"
               >科奈克太陽神廟</a
             >。
           </p>
@@ -151,7 +153,9 @@
     <h2>如何加入Aoetw</h2>
     <div class="hrn1"></div>
     <p>
-      你可以直接私信到<a href="https://www.facebook.com/cheapAOE/"
+      你可以直接私信到<a
+        href="https://www.facebook.com/cheapAOE/"
+        target="_blank"
         >cheap的粉專</a
       >
     </p>

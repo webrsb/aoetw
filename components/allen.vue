@@ -19,7 +19,8 @@
               <nuxt-link to="/elements/Frame_delay">開火間隔</nuxt-link>·
               <nuxt-link to="/elements/Area_of_Effect">擴散範圍</nuxt-link>·
               <nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link>·
-              <nuxt-link to="/elements/Taunts">團隊加分</nuxt-link>
+              <nuxt-link to="/elements/Relic">遺跡</nuxt-link>·
+              <nuxt-link to="/elements/Taunts">嘲諷語音</nuxt-link>
             </td>
           </tr>
         </table>

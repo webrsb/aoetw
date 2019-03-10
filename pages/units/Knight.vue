@@ -608,6 +608,24 @@
             >為代表的新戰術的演變，使得重騎兵的統治力最後終結。“
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Knightline.png" alt=""
+              /></gallery>
+              <p><em>騎士系。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Knight.png" alt=""
+              /></gallery>
+              <p><em>一群騎士。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -745,26 +763,6 @@
             <td class="unit4">100秒</td>
           </tr>
         </table>
-      </div>
-    </div>
-    <div class="col-md-12">
-      <h3>圖庫</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <div class="row">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Knightline.png" alt=""
-            /></gallery>
-            <p><em>騎士系。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Knight.png" alt=""
-            /></gallery>
-            <p><em>一群騎士。</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

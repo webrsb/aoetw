@@ -719,6 +719,35 @@
             為了生存，他們需要強大的軍隊。我們從很少的記錄中可以看出高麗是創新的戰士，也許是第一個在某種類型的戰鬥和戰車中使用火箭的人。這些戰車可以安排在開闊地區的臨時防禦工事中，提供一個可移動但實質性的防禦位置，以抵禦想登上城牆的敵人。於是誕生了馬戰車，這是一輛經典的戰車，帶有刀片和移動堡壘，弓箭手可以用這些堡壘進行火力掩護。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Castle_besieged.jpg" alt=""
+            /></gallery>
+            <p>
+              <em
+                >馬戰車因為有高遠程護甲，所以在大量馬戰車圍攻城堡時是十分有效且不怕城堡的攻擊。</em
+              >
+            </p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                src="~assets/Aoe2_-_war_wagon_group.jpg"
+                alt=""
+            /></gallery>
+            <p><em>一群馬戰車</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/E_korea1.jpg" alt=""
+            /></gallery>
+            <p><em>馬戰車模組。</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -911,37 +940,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Castle_besieged.jpg" alt=""
-            /></gallery>
-            <p>
-              <em
-                >馬戰車因為有高遠程護甲，所以在大量馬戰車圍攻城堡時是十分有效且不怕城堡的攻擊。</em
-              >
-            </p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/Aoe2_-_war_wagon_group.jpg"
-                alt=""
-            /></gallery>
-            <p><em>一群馬戰車</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/E_korea1.jpg" alt=""
-            /></gallery>
-            <p><em>馬戰車模組。</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

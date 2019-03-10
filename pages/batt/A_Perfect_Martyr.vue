@@ -123,7 +123,7 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/ybatc4lg"
+                  ><a href="http://tinyurl.com/ybatc4lg" target="_blank"
                     >卡斯蒂隆戰役</a
                   ></strong
                 ></i

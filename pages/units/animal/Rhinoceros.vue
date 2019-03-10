@@ -97,7 +97,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://zh.wikipedia.org/wiki/%E7%8A%80%E7%89%9B"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/%E7%8A%80%E7%89%9B"
+                    target="_blank"
                     >犀牛</a
                   ></b
                 ></i

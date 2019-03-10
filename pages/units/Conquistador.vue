@@ -598,6 +598,18 @@
             在侵入新世界的歐洲冒險家隊伍中，那些具有超凡能力和決心的士兵成為了精英征服者。這些人是由於他們優越的武器和嚴峻的決心而克服困難並獲得勝利的人。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Conquistadorgroup.png" alt=""
+              /></gallery>
+              <p><em>一群征服者</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -803,20 +815,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Conquistadorgroup.png" alt=""
-              /></gallery>
-              <p><em>一群征服者</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

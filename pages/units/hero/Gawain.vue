@@ -55,7 +55,7 @@
             </li>
           </ul>
         </div>
-        <h3><strong>出場戰役</strong></h3>
+        <h3>出場戰役</h3>
         <div class="hrn1"></div>
         <div class="n1"><p>無</p></div>
         <h3><strong>更多數據</strong></h3>
@@ -259,7 +259,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://zh.wikipedia.org/wiki/高文_(亞瑟王傳說)"
+                  ><a
+                    href="https://zh.wikipedia.org/wiki/高文_(亞瑟王傳說)"
+                    target="_blank"
                     >高文爵士</a
                   ></strong
                 ></i
@@ -319,7 +321,7 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.moegirl.org/高文(Fate)"
+                ><a href="https://zh.moegirl.org/高文(Fate)" target="_blank"
                   >Fate系列</a
                 ></strong
               ></span
@@ -338,7 +340,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表"
+                  target="_blank"
                   >反叛的魯路修</a
                 ></strong
               ></span
@@ -357,7 +361,9 @@
           <h3>
             <span class="we"
               ><br /><strong
-                ><a href="https://zh.wikipedia.org/wiki/高文爵士與綠騎士"
+                ><a
+                  href="https://zh.wikipedia.org/wiki/高文爵士與綠騎士"
+                  target="_blank"
                   >高文與綠騎士</a
                 ></strong
               ></span

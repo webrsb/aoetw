@@ -183,7 +183,9 @@
               <p>
                 <em
                   >不列顛的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
-                  >-<a href="http://tinyurl.com/y7b3ntp5">亞琛主教座堂</a></em
+                  >-<a href="http://tinyurl.com/y7b3ntp5" target="_blank"
+                    >亞琛主教座堂</a
+                  ></em
                 >
               </p>
             </div>

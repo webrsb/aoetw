@@ -136,6 +136,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8F%90%E6%8B%89"
+                    target="_blank"
                     >匈奴王阿提拉</a
                   ></strong
                 ></i

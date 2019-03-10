@@ -149,6 +149,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E6%B3%95%E6%96%AF%E7%89%B9%E7%88%BE%E5%A4%AB"
+                    target="_blank"
                     >約翰霍士道夫爵士</a
                   ></strong
                 ></i

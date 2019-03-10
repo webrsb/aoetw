@@ -145,11 +145,7 @@
         <h3>科技樹</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <em
-            ><a to="/tree/bur"
-              >緬甸<nuxt-link to="/tree/vie">科技樹</nuxt-link></a
-            ></em
-          >
+          <em><nuxt-link to="/tree/bur">緬甸科技樹</nuxt-link></em>
         </div>
         <br />
         <h3>趣事</h3>
@@ -162,11 +158,17 @@
               >的文明。
             </li>
             <li>
-              緬甸主要是體現<a href="http://tinyurl.com/yagkj5d4">蒲甘王國</a
-              >與<a href="http://tinyurl.com/yaeommrx">東吁王朝</a
+              緬甸主要是體現<a
+                href="http://tinyurl.com/yagkj5d4"
+                target="_blank"
+                >蒲甘王國</a
+              >與<a href="http://tinyurl.com/yaeommrx" target="_blank"
+                >東吁王朝</a
               >，但也受到東北部<nuxt-link to="/civs/Indians">印度</nuxt-link
               >文明的影響，即
-              <a href="https://en.wikipedia.org/wiki/Manipur_(princely_state)"
+              <a
+                href="https://en.wikipedia.org/wiki/Manipur_(princely_state)"
+                target="_blank"
                 >曼尼普爾邦</a
               >，特殊單位飛鏢騎兵與特殊技術曼尼普爾騎兵，都是緣由自此。但很諷刺的是曼尼普爾王國經常與緬甸王國作戰，但也可以這樣說吧，就是因為經常作戰才吸收了對方的戰術。
             </li>

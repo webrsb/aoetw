@@ -9,7 +9,7 @@
         <div class="col-md-8">
           <p>
             <span style="text-align: center; color:#dc3545;"
-              ><a href="https://discord.gg/ymNuMVg"
+              ><a href="https://discord.gg/ymNuMVg" target="_blank"
                 ><img width="100" src="~assets/discord.png" alt="" />
                 Discord語音聊天群</a
               >，歡迎各位前來約戰、聊天與發問問題。</span

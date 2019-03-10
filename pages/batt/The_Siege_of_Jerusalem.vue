@@ -207,7 +207,7 @@
             <div style="margin-left: 10px;">
               <em
                 ><strong
-                  ><a href="http://tinyurl.com/y9v7avxf"
+                  ><a href="http://tinyurl.com/y9v7avxf" target="_blank"
                     >耶路撒冷圍城</a
                   ></strong
                 ></em

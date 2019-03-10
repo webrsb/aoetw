@@ -134,7 +134,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://en.wikipedia.org/wiki/Jean_de_Metz"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Jean_de_Metz"
+                    target="_blank"
                     >梅茲爵士</a
                   ></strong
                 ></i

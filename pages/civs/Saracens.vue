@@ -317,6 +317,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%9F%B3%E6%9C%AD%E9%B2%81%E7%89%B9%E6%88%98%E5%BD%B9"
+                    target="_blank"
                     >阿音札魯特戰役</a
                   ></b
                 ></i

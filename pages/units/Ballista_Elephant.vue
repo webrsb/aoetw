@@ -796,6 +796,52 @@
             </li>
           </ul>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                src="~assets/Ballista_Elephant_group.jpg"
+                alt=""
+            /></gallery>
+            <p><em>一群弩砲象。</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img
+                class="imgn hg"
+                src="~assets/Ballista_destroying_trees.jpg"
+                alt=""
+            /></gallery>
+            <p><em>弩砲象的攻擊可以砸倒樹木。</em></p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Balistaelehealed.jpg" alt=""
+            /></gallery>
+            <p><em>弩砲象雖然屬於攻城單位，但可以被僧侶治療。</em></p>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Khmer-vietnamese_battle.jpg"
+                  alt=""
+              /></gallery>
+              <p>
+                <em
+                  >弩砲象正防止<nuxt-link to="/civs/Khmer">高棉人</nuxt-link
+                  >的基地被<nuxt-link to="/units/Rattan_Archer"
+                    >藤甲弓兵</nuxt-link
+                  >騷擾。</em
+                >
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -1003,54 +1049,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由熊協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/Ballista_Elephant_group.jpg"
-                alt=""
-            /></gallery>
-            <p><em>一群弩砲象。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img
-                class="imgn hg"
-                src="~assets/Ballista_destroying_trees.jpg"
-                alt=""
-            /></gallery>
-            <p><em>弩砲象的攻擊可以砸倒樹木。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Balistaelehealed.jpg" alt=""
-            /></gallery>
-            <p><em>弩砲象雖然屬於攻城單位，但可以被僧侶治療。</em></p>
-          </div>
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Khmer-vietnamese_battle.jpg"
-                  alt=""
-              /></gallery>
-              <p>
-                <em
-                  >弩砲象正防止<nuxt-link to="/civs/Khmer">高棉人</nuxt-link
-                  >的基地被<nuxt-link to="/units/Rattan_Archer"
-                    >藤甲弓兵</nuxt-link
-                  >騷擾。</em
-                >
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

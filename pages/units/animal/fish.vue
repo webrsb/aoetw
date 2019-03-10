@@ -139,7 +139,9 @@
             <li>鱸魚是淡水魚種，但會出現在鹽沼地並不合理。</li>
             <li>海豚和箱龜其實都不是魚類。</li>
             <li>
-              馬林魚的原形應該是<a href="http://tinyurl.com/jrcq84j"
+              馬林魚的原形應該是<a
+                href="http://tinyurl.com/jrcq84j"
+                target="_blank"
                 >大西洋藍槍魚</a
               >。
             </li>

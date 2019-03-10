@@ -308,6 +308,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E9%87%8C%E5%B8%9D%E5%9B%BD"
+                    target="_blank"
                     >馬利帝國</a
                   ></b
                 ></i

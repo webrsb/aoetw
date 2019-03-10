@@ -385,6 +385,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E6%9B%BC%E5%B8%9D%E5%9B%BD"
+                    target="_blank"
                     >鄂圖曼帝國</a
                   ></b
                 ></i

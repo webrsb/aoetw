@@ -50,10 +50,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to=""
-                ><nuxt-link to="/units/Civilian">平民</nuxt-link
-                ><br />英雄</nuxt-link
-              >
+              平民<br /><nuxt-link to="/units/hero">英雄</nuxt-link>
             </td>
           </tr>
           <tr>

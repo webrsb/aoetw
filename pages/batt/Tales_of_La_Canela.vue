@@ -335,7 +335,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Gonzalo_Pizarro"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Gonzalo_Pizarro"
+                    target="_blank"
                     >貢薩洛.皮薩羅</a
                   ></b
                 ></i

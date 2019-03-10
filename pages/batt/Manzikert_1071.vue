@@ -317,6 +317,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E6%9B%BC%E9%BD%90%E5%88%BB%E5%B0%94%E7%89%B9%E6%88%98%E5%BD%B9"
+                    target="_blank"
                     >曼奇克托</a
                   ></b
                 ></i

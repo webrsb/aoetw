@@ -247,6 +247,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E4%BC%A6%E5%B7%B4%E7%AC%AC%E5%90%8C%E7%9B%9F"
+                    target="_blank"
                     >倫巴第聯盟</a
                   ></strong
                 ></em

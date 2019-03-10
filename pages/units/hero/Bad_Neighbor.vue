@@ -14,10 +14,10 @@
               >獅子與惡魔</nuxt-link
             >登場的<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位。壞鄰居的原型是一台參與了
-            <a href="http://tinyurl.com/yd7zm48f">阿卡圍城戰</a>的<nuxt-link
-              to="/units/Trebuchet"
-              >投石機</nuxt-link
-            >（<nuxt-link to="/units/hero/God_s_Own_Sling">神之弓</nuxt-link
+            <a href="http://tinyurl.com/yd7zm48f" target="_blank">阿卡圍城戰</a
+            >的<nuxt-link to="/units/Trebuchet">投石機</nuxt-link>（<nuxt-link
+              to="/units/hero/God_s_Own_Sling"
+              >神之弓</nuxt-link
             >也是）。雖然壞鄰居以投石機的外表出現，但是他有幾個特點。當他組裝後，他像其他的英雄單位一樣無法被<nuxt-link
               to="/elements/Conversion"
               >招降</nuxt-link
@@ -36,7 +36,9 @@
         <div class="n1">
           <ul>
             <li>
-              雖然壞鄰居的確有在<a href="http://tinyurl.com/yd7zm48f"
+              雖然壞鄰居的確有在<a
+                href="http://tinyurl.com/yd7zm48f"
+                target="_blank"
                 >阿卡圍城戰</a
               >中被使用，但在史實中他是由腓力二世所擁有，而不是
               <nuxt-link to="/units/hero/Richard_the_Lionheart"

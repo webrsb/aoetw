@@ -62,7 +62,7 @@
           <h3>可訓練的單位與技術</h3>
           <div class="hrn1"></div>
           <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-4">
               <div class="n1">
                 <h4>
                   <nuxt-link to="/techs/age/Castle_Age"></nuxt-link>城堡時代
@@ -135,7 +135,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
               <div class="n1">
                 <h4>
                   <nuxt-link to="/techs/age/Imperial_Age"></nuxt-link>帝王時代
@@ -512,7 +512,7 @@
             <td class="unit3">
               <nuxt-link to="/elements/Garrison">駐軍</nuxt-link>
             </td>
-            <td class="unit4"><p>所有時代:10</p></td>
+            <td class="unit4">所有時代:10</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>

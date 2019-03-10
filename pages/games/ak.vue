@@ -38,7 +38,8 @@
             <li>
               <strong
                 ><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>:</strong
-              >讓<a href="http://tinyurl.com/yc45cyps">阿克蘇姆帝國</a
+              >讓<a href="http://tinyurl.com/yc45cyps" target="_blank"
+                >阿克蘇姆帝國</a
               >再次偉大，由紅海出發，向阿拉伯半島進擊，你是否能平息帝國內部的矛盾，那些篡位者已經虎視眈眈。只有最強大的帝國才能存活下來。
             </li>
             <li>

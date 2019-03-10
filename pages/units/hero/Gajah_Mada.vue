@@ -134,7 +134,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/ybqql9h9">加查·馬達</a></strong
+                  ><a href="http://tinyurl.com/ybqql9h9" target="_blank"
+                    >加查·馬達</a
+                  ></strong
                 ></i
               >
             </div>

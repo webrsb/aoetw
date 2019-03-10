@@ -319,6 +319,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%88%9C%E8%87%A3_(%E6%9C%9D%E9%AE%AE)"
+                    target="_blank"
                     >李舜臣</a
                   ></strong
                 ></em
@@ -326,6 +327,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E9%9C%B2%E6%A2%81%E6%B5%B7%E6%88%B0"
+                    target="_blank"
                     >露梁海戰</a
                   ></strong
                 ></em

@@ -640,6 +640,36 @@
             >的戎克船，一艘西方在幾個世紀內仍無法超越的更先進的船。“
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Tradecog.jpg" alt=""
+              /></gallery>
+              <p><em>一群貿易商旅。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/TradeCogHD.png" alt=""
+              /></gallery>
+              <p>
+                <em
+                  >各種貿易商旅(世紀帝國和<nuxt-link to="/games/aoc"
+                    >征服者入侵</nuxt-link
+                  >資料片)。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/TradeCogDLC.png" alt=""
+              /></gallery>
+              <p><em>各種貿易商旅(HD擴充資料片)。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -755,43 +785,12 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E6%88%8E%E5%85%8B%E8%88%B9"
+                    target="_blank"
                     >戎克船</a
                   ></b
                 ></i
               >
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-12">
-      <h3>圖庫</h3>
-      <div class="hrn1"></div>
-      <div class="n1">
-        <div class="row">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Tradecog.jpg" alt=""
-            /></gallery>
-            <p><em>一群貿易商旅。</em></p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/TradeCogHD.png" alt=""
-            /></gallery>
-            <p>
-              <em
-                >各種貿易商旅(世紀帝國和<nuxt-link to="/games/aoc"
-                  >征服者入侵</nuxt-link
-                >資料片)。</em
-              >
-            </p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/TradeCogDLC.png" alt=""
-            /></gallery>
-            <p><em>各種貿易商旅(HD擴充資料片)。</em></p>
           </div>
         </div>
       </div>

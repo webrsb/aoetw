@@ -64,7 +64,9 @@
           </tr>
           <tr>
             <td class="unit3">出場</td>
-            <td class="unit4">王者崛起</td>
+            <td class="unit4">
+              <nuxt-link to="/games/aor">王者崛起</nuxt-link>
+            </td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#d01022;">
@@ -130,7 +132,11 @@
         維基百科上的王通
         <div style="margin-left: 10px;">
           <i
-            ><strong><a href="http://tinyurl.com/yabbtvah">王通</a></strong></i
+            ><strong
+              ><a href="http://tinyurl.com/yabbtvah" target="_blank"
+                >王通</a
+              ></strong
+            ></i
           >
         </div>
       </div>

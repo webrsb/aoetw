@@ -306,6 +306,7 @@
             <em
               >作者：<a
                 href="https://www.ptt.cc/bbs/AOE/M.1491728400.A.743.html"
+                target="_blank"
                 >PTT＠qaws68</a
               ></em
             >
@@ -508,6 +509,7 @@
             <li>
               英語版的嘲諷語音編號<a
                 href="https://www.youtube.com/watch?v=3tBqdKGiqnI"
+                target="_blank"
                 >30(Wololo)</a
               >，其實就是1代僧侶的配音。
             </li>
@@ -567,14 +569,14 @@
           <tr>
             <td colspan="2">
               <div class="unititle">
-                <img
-                  src="~assets/MonkIcon.jpg"
-                  width="45"
-                  style="margin-right: 10px;"
-                  alt=""
-                />
-                <img src="~assets/MonkIcon2.jpg" width="45" alt="" />
-                <p><em>一般國家的僧侶與美洲僧侶</em></p>
+                <b-tabs no-fade>
+                  <b-tab title="一般國家">
+                    <img src="~assets/MonkIcon.jpg" width="45" alt="" />
+                  </b-tab>
+                  <b-tab title="美洲">
+                    <img src="~assets/MonkIcon2.jpg" width="45" alt="" />
+                  </b-tab>
+                </b-tabs>
               </div>
             </td>
           </tr>

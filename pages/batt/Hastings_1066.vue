@@ -315,6 +315,7 @@
                   <i
                     ><b
                       ><a
+                        target="_blank"
                         href="https://zh.wikipedia.org/wiki/%E9%BB%91%E6%96%AF%E5%BB%B7%E6%96%AF%E6%88%98%E5%BD%B9"
                         >哈斯汀斯戰役</a
                       ></b
@@ -325,6 +326,7 @@
                   <i
                     ><b
                       ><a
+                        target="_blank"
                         href="https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E7%A6%8F%E6%A1%A5%E6%88%98%E5%BD%B9"
                         >斯坦福橋戰役</a
                       ></b
@@ -335,6 +337,7 @@
                   <i
                     ><b
                       ><a
+                        target="_blank"
                         href="https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%E4%B8%80%E4%B8%96_(%E8%8B%B1%E6%A0%BC%E5%85%B0)"
                         >威廉一世</a
                       ></b
@@ -345,6 +348,7 @@
                   <i
                     ><b
                       ><a
+                        target="_blank"
                         href="https://zh.wikipedia.org/wiki/%E5%93%88%E7%BD%97%E5%BE%B7%C2%B7%E6%88%88%E5%BE%B7%E6%B8%A9%E6%A3%AE"
                         >哈羅德·戈德溫森</a
                       ></b
@@ -355,6 +359,7 @@
                   <i
                     ><b
                       ><a
+                        target="_blank"
                         href="https://zh.wikipedia.org/wiki/%E6%97%A0%E6%83%85%E8%80%85%E5%93%88%E6%8B%89%E5%B0%94"
                         >哈拉爾·哈德拉達</a
                       ></b

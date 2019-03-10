@@ -359,7 +359,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><b
-                  ><a href="https://en.wikipedia.org/wiki/Musa_bin_Nusayr"
+                  ><a
+                    target="_blank"
+                    href="https://en.wikipedia.org/wiki/Musa_bin_Nusayr"
                     >穆薩•伊本•奴薩爾（穆薩•本•努薩依爾）（英文版）</a
                   ></b
                 ></i

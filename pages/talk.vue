@@ -25,6 +25,11 @@
 </template>
 <script>
 export default {
+  head() {
+    return {
+      title: '討論區 - Aoetw'
+    }
+  },
   layout: 'footn',
   mounted() {
     this.$refs.forum_embed.src =

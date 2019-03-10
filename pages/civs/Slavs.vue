@@ -8,8 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>斯拉夫人</b>是資料片被遺忘的王朝所新增的<nuxt-link to="/civs"
-              >文明</nuxt-link
+            <b>斯拉夫人</b>是<nuxt-link to="/games/aof"
+              >世紀帝國II：失落的帝國</nuxt-link
+            >所新增的<nuxt-link to="/civs">文明</nuxt-link
             >。他們是一個<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
             >和<nuxt-link to="/units/Siege_Weapons">攻城器文明</nuxt-link>。
           </p>

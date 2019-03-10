@@ -528,6 +528,18 @@
             >，哥德衛隊被封為領主的封臣。他們仍然是領主或國王的個人戰鬥力量，但他們往往在他們的首領交給他們的土地上負責自己的頁務。這個系統取代了資源掠奪分享的制度。
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" width="180" src="~assets/Huskarl.png" alt=""
+            /></gallery>
+            <div class="lightbox-caption" style="width:220px">
+              <p><em>一群哥德衛隊。</em></p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -707,20 +719,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" width="180" src="~assets/Huskarl.png" alt=""
-            /></gallery>
-            <div class="lightbox-caption" style="width:220px">
-              <p><em>一群哥德衛隊。</em></p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

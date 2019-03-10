@@ -155,6 +155,7 @@
                 ><strong
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%E4%BA%8C%E4%B8%96_(%E9%98%BF%E6%9C%97%E6%9D%BE%E5%85%AC%E7%88%B5)"
+                    target="_blank"
                     >阿朗松公爵</a
                   ></strong
                 ></i

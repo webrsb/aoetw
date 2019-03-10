@@ -153,6 +153,7 @@
                 ><b
                   ><a
                     href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%A5%87%E6%96%AF%E5%8D%A1"
+                    target="_blank"
                     >弗朗奇斯卡</a
                   ></b
                 ></i

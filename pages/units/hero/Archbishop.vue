@@ -113,7 +113,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="https://tinyurl.com/y9ekga5t">主教</a></strong
+                  ><a href="https://tinyurl.com/y9ekga5t" target="_blank"
+                    >主教</a
+                  ></strong
                 ></i
               >
             </div>

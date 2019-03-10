@@ -531,6 +531,69 @@
           <img class="img-responsive" src="~assets/camelhorse.jpg" alt="" />
           <p>駱駝的確比馬大很多</p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  width="250"
+                  src="~assets/AOF35_Imperial_Camel.jpg"
+                  alt=""
+              /></gallery>
+              <p>
+                <em
+                  ><nuxt-link to="/games/aof">失落的帝國</nuxt-link
+                  >，3.5版本的帝王駱駝騎兵。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/AOF36_Imperial_Camel.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>3.6版本的帝王駱駝騎兵。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/D.png" alt=""
+              /></gallery>
+              <p><em>4.4版本的帝王駱駝騎兵。</em></p>
+            </div>
+            <div class="row">
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/Camelline.png" alt=""
+                /></gallery>
+                <p><em>駱駝騎兵、重裝駱駝騎兵與帝王駱駝騎兵。</em></p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img class="imgn hg" src="~assets/Indians_preview.jpg" alt=""
+                /></gallery>
+                <p>
+                  <em
+                    >失落的帝國還沒釋出前的官方圖，可以看到帝王駱駝的最初樣子。</em
+                  >
+                </p>
+              </div>
+              <div class="col-md-4">
+                <gallery
+                  ><img
+                    class="imgn hg"
+                    src="~assets/Imperial_Camel_AoFE.jpg"
+                    alt=""
+                /></gallery>
+                <p><em>3.6版本的帝王駱駝騎兵。</em></p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -677,71 +740,6 @@
             </td>
           </tr>
         </table>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  width="250"
-                  src="~assets/AOF35_Imperial_Camel.jpg"
-                  alt=""
-              /></gallery>
-              <p>
-                <em
-                  ><nuxt-link to="/games/aof">失落的帝國</nuxt-link
-                  >，3.5版本的帝王駱駝騎兵。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/AOF36_Imperial_Camel.jpg"
-                  alt=""
-              /></gallery>
-              <p><em>3.6版本的帝王駱駝騎兵。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/D.png" alt=""
-              /></gallery>
-              <p><em>4.4版本的帝王駱駝騎兵。</em></p>
-            </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Camelline.png" alt=""
-                /></gallery>
-                <p><em>駱駝騎兵、重裝駱駝騎兵與帝王駱駝騎兵。</em></p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/Indians_preview.jpg" alt=""
-                /></gallery>
-                <p>
-                  <em
-                    >失落的帝國還沒釋出前的官方圖，可以看到帝王駱駝的最初樣子。</em
-                  >
-                </p>
-              </div>
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    src="~assets/Imperial_Camel_AoFE.jpg"
-                    alt=""
-                /></gallery>
-                <p><em>3.6版本的帝王駱駝騎兵。</em></p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

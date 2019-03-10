@@ -149,6 +149,7 @@
               <i
                 ><b
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97"
                     >成吉思汗</a
                   ></b

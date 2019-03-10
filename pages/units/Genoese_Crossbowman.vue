@@ -495,6 +495,72 @@
             >可輕易地被一個幾乎沒有受過訓練或使用過弩的農民殺死。結果，弩被認為是對統治精英的威脅，讓他們遊說羅馬天主教會禁止這些武器。
           </li>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Genoesecrossbowman.png"
+                  alt=""
+              /></gallery>
+              <p><em>一群熱那亞弩手。</em></p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Genoese_Crossbowmen.jpg"
+                  alt=""
+              /></gallery>
+              <p>
+                <em
+                  >一群戰鬥中的熱那亞弩手，請注意他們移動時背上會背著巨盾。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/Genoese.png" alt=""
+              /></gallery>
+              <p><em>Mod版(左)和零售版(右)的熱那亞弩手。</em></p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Genoese_Crossbowman_real_life.jpg"
+                  alt=""
+              /></gallery>
+              <p>
+                <em
+                  >真實世界的熱那亞弩手(左邊的是<nuxt-link to="/techs/Pavise"
+                    >巨盾</nuxt-link
+                  >)。</em
+                >
+              </p>
+            </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/Genoese_&_Condottiero (1).jpg"
+                  alt=""
+              /></gallery>
+              <p>
+                <em
+                  >義大利的特殊單位:<nuxt-link to="/units/Condottiero"
+                    >傭兵</nuxt-link
+                  >(左)和熱那亞弩手(右)。</em
+                >
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -699,74 +765,6 @@
         </table>
 
         <div class="thanks">感謝! 此頁面由賜齡協助編輯</div>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Genoesecrossbowman.png"
-                  alt=""
-              /></gallery>
-              <p><em>一群熱那亞弩手。</em></p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Genoese_Crossbowmen.jpg"
-                  alt=""
-              /></gallery>
-              <p>
-                <em
-                  >一群戰鬥中的熱那亞弩手，請注意他們移動時背上會背著巨盾。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img class="imgn hg" src="~assets/Genoese.png" alt=""
-              /></gallery>
-              <p><em>Mod版(左)和零售版(右)的熱那亞弩手。</em></p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Genoese_Crossbowman_real_life.jpg"
-                  alt=""
-              /></gallery>
-              <p>
-                <em
-                  >真實世界的熱那亞弩手(左邊的是<nuxt-link to="/techs/Pavise"
-                    >巨盾</nuxt-link
-                  >)。</em
-                >
-              </p>
-            </div>
-            <div class="col-md-4">
-              <gallery
-                ><img
-                  class="imgn hg"
-                  src="~assets/Genoese_&_Condottiero (1).jpg"
-                  alt=""
-              /></gallery>
-              <p>
-                <em
-                  >義大利的特殊單位:<nuxt-link to="/units/Condottiero"
-                    >傭兵</nuxt-link
-                  >(左)和熱那亞弩手(右)。</em
-                >
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>

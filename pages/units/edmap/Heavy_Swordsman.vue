@@ -114,7 +114,9 @@
         <div style="margin-left: 10px;">
           <i
             ><strong
-              ><a href="https://en.wikipedia.org/wiki/Jinete">重劍兵</a>
+              ><a href="https://en.wikipedia.org/wiki/Jinete" target="_blank"
+                >重劍兵</a
+              >
             </strong>
           </i>
         </div>

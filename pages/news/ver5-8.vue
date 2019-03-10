@@ -18,14 +18,18 @@
             >再度被弱化。
             <a
               href="https://steamcommunity.com/app/221380/discussions/1/1743342466037998931/"
+              target="_blank"
               >原文</a
             >
           </p>
           <p>
-            <a href="https://forum.gamer.com.tw/C.php?bsn=1122&snA=14418&tnum=1"
+            <a
+              href="https://forum.gamer.com.tw/C.php?bsn=1122&snA=14418&tnum=1"
+              target="_blank"
               >資料來源</a
             >並參考PTT Lanchi與<a
               href="http://www.hawkaoe.net/bbs/forum.php?mod=viewthread&tid=143802"
+              target="_blank"
               >翔鷹論壇</a
             >的翻譯
           </p>
@@ -211,6 +215,7 @@
             <li>
               在沙漠且破裂的地形上的建築，被攻擊傷害+20%(<a
                 href="https://www.youtube.com/watch?v=x7LWDiKiPy4"
+                target="_blank"
                 >影片說明</a
               >)
             </li>

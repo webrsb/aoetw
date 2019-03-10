@@ -329,6 +329,7 @@
                     ><b
                       ><a
                         href="https://www.itsfun.com.tw/%E5%A5%A7%E5%9C%96%E5%B7%B4%E6%88%B0%E5%BD%B9/wiki-7606157-2066827"
+                        target="_blank"
                         >奧通巴戰役</a
                       ></b
                     ></i

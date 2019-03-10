@@ -605,6 +605,24 @@
             >那樣直接擊倒敵人。他們主要擔任防禦部隊或是在軍隊交鋒時能破壞敵方陣型的輕裝部隊。如果在衝突發生之前，弓兵能造成敵人傷亡並消耗對方的精力，那麼友軍就更有可能擊倒敵人並獲得勝利。在守衛和攻擊城堡時，弓箭手也非常有用“
           </p>
         </div>
+        <h3>圖庫</h3>
+        <div class="hrn1"></div>
+        <div class="n1">
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Archerline.png" alt=""
+            /></gallery>
+            <p>
+              <em><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link></em>
+            </p>
+          </div>
+          <div class="col-md-4">
+            <gallery
+              ><img class="imgn hg" src="~assets/Archer.png" alt=""
+            /></gallery>
+            <p><em>一群弓兵</em></p>
+          </div>
+        </div>
       </div>
       <div class="col-md-4">
         <table class="table-bordered" width="100%">
@@ -771,26 +789,6 @@
             <td class="unit4">33秒</td>
           </tr>
         </table>
-      </div>
-      <div class="col-md-12">
-        <h3>圖庫</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Archerline.png" alt=""
-            /></gallery>
-            <p>
-              <em><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link></em>
-            </p>
-          </div>
-          <div class="col-md-4">
-            <gallery
-              ><img class="imgn hg" src="~assets/Archer.png" alt=""
-            /></gallery>
-            <p><em>一群弓兵</em></p>
-          </div>
-        </div>
       </div>
     </div>
   </div>

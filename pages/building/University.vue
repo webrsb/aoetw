@@ -322,7 +322,9 @@
                   <li>
                     非洲<nuxt-link to="/civs">文明</nuxt-link
                     >的學院原形為<nuxt-link to="/civs/Malians">馬利</nuxt-link
-                    >的<a href="https://en.wikipedia.org/wiki/Sankore_Madrasah"
+                    >的<a
+                      href="https://en.wikipedia.org/wiki/Sankore_Madrasah"
+                      target="_blank"
                       >桑科爾大學</a
                     >。
                   </li>

@@ -157,6 +157,7 @@
               <i
                 ><b
                   ><a
+                    target="_blank"
                     href="https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%9F%A5%C2%B7%E9%A6%AC%E9%81%94"
                     >加查·馬達</a
                   ></b

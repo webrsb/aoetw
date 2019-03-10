@@ -174,7 +174,9 @@
             <div style="margin-left: 10px;">
               <i
                 ><strong
-                  ><a href="http://tinyurl.com/yaawj4q2">希臘火</a></strong
+                  ><a href="http://tinyurl.com/yaawj4q2" target="_blank"
+                    >希臘火</a
+                  ></strong
                 ></i
               >
             </div>

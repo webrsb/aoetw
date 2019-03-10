@@ -237,7 +237,9 @@
             <div style="margin-left: 10px;">
               <em
                 ><strong
-                  ><a href="https://en.wikipedia.org/wiki/Siege_of_Crema"
+                  ><a
+                    href="https://en.wikipedia.org/wiki/Siege_of_Crema"
+                    target="_blank"
                     >克列瑪圍城</a
                   ></strong
                 ></em
