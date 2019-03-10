@@ -16,8 +16,7 @@
               to="/elements/Conversion"
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
-            >(在<nuxt-link to="/games/aoc">征服者</nuxt-link>資料片後)
-            。
+            >(在<nuxt-link to="/games/aoc">征服者</nuxt-link>資料片後) 。
           </p>
           <p>
             遊戲中將獵狼歸類為<nuxt-link to="/armor/Armor_Class_Infantry"

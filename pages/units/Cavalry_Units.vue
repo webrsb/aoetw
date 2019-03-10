@@ -138,7 +138,7 @@
               >移動速度快15%。
             </li>
             <li>
-              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>、:<nuxt-link
+              <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>:<nuxt-link
                 to="/units/Scout_Cavalry"
                 >斥候騎兵</nuxt-link
               >便宜15%。

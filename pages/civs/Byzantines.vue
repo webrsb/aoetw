@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>拜占庭</b>帝國（或東羅馬帝國）是中東的防禦型<nuxt-link to="/civs"
+            <b>拜占庭帝國</b>或稱<b>東羅馬帝國</b>是中東的防禦型<nuxt-link
+              to="/civs"
               >文明</nuxt-link
             >，可使用的最初文明之一。拜占庭<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
@@ -167,7 +168,7 @@
         <img
           class="gg"
           src="~assets/Unique-tech.jpg"
-        />後勤學後勤學:聖騎兵會對周遭單位造成傷害
+        />後勤學:聖騎兵會對周遭單位造成傷害
       </p>
       <h3>對戰評價</h3>
       <div class="hrn1"></div>

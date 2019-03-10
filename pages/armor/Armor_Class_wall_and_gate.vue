@@ -57,7 +57,7 @@
               <img
                 class="gg"
                 width="25px"
-                src="~assets/Palisadegate.jpg"
+                src="~assets/Palisadegateicon.png"
                 alt=""
               /><nuxt-link to="/building/Palisade_Gate">木門</nuxt-link>
             </li>

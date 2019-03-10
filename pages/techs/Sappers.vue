@@ -36,9 +36,7 @@
               <h4>
                 <strong
                   ><i class="fas fa-check" style="color: green;"></i
-                  ><span style="margin-left: 2px;"
-                    ><nuxt-link to="/civs">文明</nuxt-link>可研發與否</span
-                  ></strong
+                  ><span style="margin-left: 2px;">可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -72,9 +70,7 @@
               <h4>
                 <strong
                   ><i class="fas fa-times" style="color: #d9534f;"></i
-                  ><span style="margin-left: 2px;"
-                    >不文明可研發與否</span
-                  ></strong
+                  ><span style="margin-left: 2px;">不可研發</span></strong
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、

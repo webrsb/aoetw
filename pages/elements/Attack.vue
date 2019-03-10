@@ -13,7 +13,7 @@
         </div>
         <h3>概要</h3>
         <div class="hrn1"></div>
-        <div class="col-md-12">
+        <div class="row">
           <div class="n1">
             <p>
               幾乎所有的軍事單位的攻擊都可以透過<nuxt-link
@@ -48,57 +48,64 @@
           </div>
         </div>
         以下列表：近戰與<nuxt-link to="/units/Archer_Units">遠程</nuxt-link>傷害
-        <div class="col-md-6">
-          <strong>近戰傷害</strong>
-          <ul>
-            <li><nuxt-link to="/units/Villager">村民</nuxt-link></li>
-            <li>
-              所有<nuxt-link to="/building/Barracks">軍營</nuxt-link
-              >和<nuxt-link to="/building/Stable">馬廄</nuxt-link>單位
-            </li>
-            <li>
-              所有<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
-              >的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
-              >與<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
-              >，包含<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
-              >、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link>和<nuxt-link
-                to="/units/Mameluke"
-                >奴隸兵</nuxt-link
-              >。
-            </li>
-            <li><nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link></li>
-            <li><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link></li>
-            <li><nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link></li>
-            <li><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link></li>
-            <li><nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link></li>
-            <li><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link></li>
-          </ul>
-        </div>
-        <div class="col-md-6">
-          <strong>遠程傷害</strong>
-          <ul>
-            <li>
-              所有<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link>單位
-            </li>
-            <li>
-              所有特殊單位的<nuxt-link to="/units/Archer_Units">射手</nuxt-link>
-            </li>
-            <li><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link></li>
-            <li><nuxt-link to="/units/Conquistador">征服者</nuxt-link></li>
-            <li><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link></li>
-            <li><nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link></li>
-            <li>弩砲</li>
-            <li><nuxt-link to="/units/Trebuchet">投石機</nuxt-link></li>
-            <li><nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link></li>
-            <li><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link></li>
-            <li><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link></li>
-            <li><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link></li>
-            <li>
-              所有攻擊性建築，包含<nuxt-link to="/building/Bombard_Tower"
-                >火砲塔</nuxt-link
-              >
-            </li>
-          </ul>
+        <div class="row">
+          <div class="col-md-6">
+            <strong>近戰傷害</strong>
+            <ul>
+              <li><nuxt-link to="/units/Villager">村民</nuxt-link></li>
+              <li>
+                所有<nuxt-link to="/building/Barracks">軍營</nuxt-link
+                >和<nuxt-link to="/building/Stable">馬廄</nuxt-link>單位
+              </li>
+              <li>
+                所有<nuxt-link to="/units/Unique_Unit">特殊單位</nuxt-link
+                >的<nuxt-link to="/units/Infantry_Units">步兵</nuxt-link
+                >與<nuxt-link to="/units/Cavalry_Units">騎兵</nuxt-link
+                >，包含<nuxt-link to="/units/Throwing_Axeman">擲斧兵</nuxt-link
+                >、<nuxt-link to="/units/Gbeto">飛刀女獵手</nuxt-link
+                >和<nuxt-link to="/units/Mameluke">奴隸兵</nuxt-link>。
+              </li>
+              <li><nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link></li>
+              <li><nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link></li>
+              <li><nuxt-link to="/units/hero/Saboteur">破壞者</nuxt-link></li>
+              <li><nuxt-link to="/units/Demolition_Ship">神風船</nuxt-link></li>
+              <li>
+                <nuxt-link to="/units/Cannon_Galleon">火砲戰船</nuxt-link>
+              </li>
+              <li><nuxt-link to="/units/Turtle_Ship">龜甲船</nuxt-link></li>
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <strong>遠程傷害</strong>
+            <ul>
+              <li>
+                所有<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
+                >單位
+              </li>
+              <li>
+                所有特殊單位的<nuxt-link to="/units/Archer_Units"
+                  >射手</nuxt-link
+                >
+              </li>
+              <li><nuxt-link to="/units/Janissary">土耳其火槍兵</nuxt-link></li>
+              <li><nuxt-link to="/units/Conquistador">征服者</nuxt-link></li>
+              <li><nuxt-link to="/units/Organ_Gun">風琴砲</nuxt-link></li>
+              <li>
+                <nuxt-link to="/units/Ballista_Elephant">弩砲象</nuxt-link>
+              </li>
+              <li>弩砲</li>
+              <li><nuxt-link to="/units/Trebuchet">投石機</nuxt-link></li>
+              <li><nuxt-link to="/units/Naval_Vessels">戰船</nuxt-link></li>
+              <li><nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link></li>
+              <li><nuxt-link to="/units/Longboat">維京大戰船</nuxt-link></li>
+              <li><nuxt-link to="/units/Caravel">卡拉維爾戰船</nuxt-link></li>
+              <li>
+                所有攻擊性建築，包含<nuxt-link to="/building/Bombard_Tower"
+                  >火砲塔</nuxt-link
+                >
+              </li>
+            </ul>
+          </div>
         </div>
         <h3>瑣事</h3>
         <div class="hrn1"></div>

@@ -49,7 +49,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/King">國王</nuxt-link><br /><nuxt-link
+              <nuxt-link to="/units/edmap/King">國王</nuxt-link><br /><nuxt-link
                 to="/units/hero"
                 >英雄</nuxt-link
               >

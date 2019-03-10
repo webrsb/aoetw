@@ -109,7 +109,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <nuxt-link to="/hero/Prithviraj">布里斯比羅吉</nuxt-link
+            <nuxt-link to="/units/hero/Prithviraj">布里斯比羅吉</nuxt-link
             >在遊戲中為<nuxt-link to="/units/Crossbowman">弩兵</nuxt-link
             >(第1關)，<nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link
             >(第3關)，<nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link
@@ -201,7 +201,7 @@
           <tr>
             <td class="unit3"><nuxt-link to="/units/hero">英雄</nuxt-link></td>
             <td class="unit4">
-              <nuxt-link to="/hero/Prithviraj">布里斯比羅吉</nuxt-link>
+              <nuxt-link to="/units/hero/Prithviraj">布里斯比羅吉</nuxt-link>
             </td>
           </tr>
           <tr>

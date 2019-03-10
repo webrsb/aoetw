@@ -224,10 +224,9 @@
             </li>
             <li>
               假如<nuxt-link to="/civs/Saracens">薩拉森</nuxt-link
-              >代表伊斯蘭，條頓就代表基督教，斯拉夫代表<nuxt-link
-                to="/techs/Orthodoxy"
-                >東正教</nuxt-link
-              >，<nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
+              >代表伊斯蘭，條頓就代表基督教，斯拉夫代表東正教，<nuxt-link
+                to="/civs/Byzantines"
+                >拜占庭</nuxt-link
               >代表希臘正教。
             </li>
             <li>

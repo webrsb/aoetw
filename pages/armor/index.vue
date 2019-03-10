@@ -11,7 +11,7 @@
             <strong>防禦類型</strong
             >屬於遊戲內隱藏的項目，讓防禦對應不同的攻擊加成。
           </p>
-          <br /><strong>這篇條目包含防禦類型與遠防、近防</strong>
+          <strong>這篇條目包含防禦類型與遠防、近防</strong>
         </div>
         <h3>防禦類型</h3>
         <div class="hrn1"></div>
@@ -38,7 +38,7 @@
             >，面對<nuxt-link to="/units/Spearman">槍兵</nuxt-link
             >他受的到傷害更小。
           </p>
-          <h3>功能</h3>
+          <h4>功能</h4>
           <p>
             基本上，計算傷害很簡單就是攻擊減去裝甲。但有防禦類型，就必須累加。
           </p>
@@ -142,7 +142,7 @@
               </ul>
             </div>
             <div class="col-md-6">
-              <nuxt-link to="/armor/Armor_Class_Building">建築類</nuxt-link>
+              建築類：
               <ul>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_Building">建築</nuxt-link>
@@ -159,7 +159,7 @@
                 </li>
                 <li>
                   <nuxt-link to="/armor/Armor_Class_wall_and_gate"
-                    >牆與門</nuxt-link
+                    >城牆和城門</nuxt-link
                   >
                 </li>
                 <li>

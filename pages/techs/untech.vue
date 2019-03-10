@@ -151,7 +151,7 @@
                 src="~assets/CastleAgeUnique.png"
                 class="gg"
                 alt=""
-              /><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>、
+              /><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link>
             </td>
             <td class="tunitc4">
               <nuxt-link to="/techs/Royal_Heirs">皇族血脈</nuxt-link>

@@ -8,7 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>法蘭切斯科·德·奧雷亞納</strong>是<nuxt-link to="/games/aof">《世紀帝國 II HD:失落的帝國》</nuxt-link
+            <strong>法蘭切斯科·德·奧雷亞納</strong>是<nuxt-link to="/games/aof"
+              >《世紀帝國 II HD:失落的帝國》</nuxt-link
             >中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，他是以一位<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
             >探險家和征服者為基礎的，該名探險家以在亞馬遜河上航行並在厄瓜多爾建立定居點而聞名。在<nuxt-link

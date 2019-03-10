@@ -39,8 +39,7 @@
               >福爾克之役</nuxt-link
             >中出現。為<nuxt-link to="/units/hero">英雄</nuxt-link
             >單位，並不會被<nuxt-link to="/elements/Conversion">招降</nuxt-link
-            >，並能夠自動回復HP（自<nuxt-link to="/games/aoc"
-              >征服者</nuxt-link
+            >，並能夠自動回復HP（自<nuxt-link to="/games/aoc">征服者</nuxt-link
             >版本以來）。另外，他比一般的劍兵勇士速度來的較快。華勒斯是這個遊戲中最強的<nuxt-link
               to="/units/Infantry_Units"
               >步兵單位</nuxt-link

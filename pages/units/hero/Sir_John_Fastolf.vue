@@ -26,8 +26,7 @@
             >單位，因此不能被<nuxt-link to="/elements/Conversion"
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
-            >。(在<nuxt-link to="/games/aoc">征服者</nuxt-link
-            >資料片後)
+            >。(在<nuxt-link to="/games/aoc">征服者</nuxt-link>資料片後)
           </p>
           <p>
             儘管玩家可以在戰役中殺死約翰霍士道夫爵士，但實際上他逃脫了帕提戰役，導致了他懦弱膽小的聲譽，最後花了13年時間才洗白了他的名譽。

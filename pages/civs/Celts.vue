@@ -102,7 +102,10 @@
                 >堡壘</nuxt-link
               >
               <br />
-              <img class="gg" src="~assets/Unique-tech.jpg" />塞爾特狂暴
+              <img class="gg" src="~assets/Unique-tech.jpg" /><nuxt-link
+                to="/techs/Furor_Celtica"
+                >塞爾特狂暴</nuxt-link
+              >
             </td>
           </tr>
         </table>

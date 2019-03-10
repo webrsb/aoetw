@@ -23,8 +23,7 @@
               to="/elements/Conversion"
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
-            >(在<nuxt-link to="/games/aoc">征服者</nuxt-link>資料片後)
-            。
+            >(在<nuxt-link to="/games/aoc">征服者</nuxt-link>資料片後) 。
           </p>
           <p></p>
         </div>
@@ -53,7 +52,7 @@
           <tr>
             <td class="unit3">類型</td>
             <td class="unit4">
-              <nuxt-link to="/units/King">國王</nuxt-link><br /><nuxt-link
+              <nuxt-link to="/units/edmap/King">國王</nuxt-link><br /><nuxt-link
                 to="/units/hero"
                 >英雄</nuxt-link
               >

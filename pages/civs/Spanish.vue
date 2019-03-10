@@ -81,7 +81,7 @@
             >非常強悍，不論是騷擾、打帶跑皆能發揮其優異的能力。
           </p>
           <p>
-            西班牙十分善常對付沒有<nuxt-link to="/units/Halberdier"
+            西班牙十分擅常對付沒有<nuxt-link to="/units/Halberdier"
               >戟兵</nuxt-link
             >和<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link
             >的國家，而移動緩慢的步兵，例如<nuxt-link

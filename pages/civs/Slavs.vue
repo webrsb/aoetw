@@ -14,10 +14,8 @@
             >和<nuxt-link to="/units/Siege_Weapons">攻城器文明</nuxt-link>。
           </p>
           <p>
-            斯拉夫人是一個東歐文明，後來成為現今的俄羅斯、烏克蘭...等東歐國家，比較具代表性就是<nuxt-link
-              to="/techs/Orthodoxy"
-              >東正教</nuxt-link
-            >和東歐建築(羅馬式建築和<nuxt-link to="/civs/Byzantines"
+            斯拉夫人是一個東歐文明，後來成為現今的俄羅斯、烏克蘭...等東歐國家，比較具代表性就是東正教和東歐建築(羅馬式建築和<nuxt-link
+              to="/civs/Byzantines"
               >拜占庭</nuxt-link
             >建築混合)，在現實中有著西(波蘭等)、東(俄羅斯等)、南(馬其頓等)三個支流。
           </p>
@@ -81,10 +79,13 @@
             >給的王家侍從雖然可以使的斯拉夫劍勇成為遊戲中頂級步兵但因為時代過於遙遠和資源上的調配往往還沒研發就結束遊戲了，攻城器減免15%資源卻沒直接效益(因攻城器本身就很昂貴)，<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
-            >的東正教讓他們<nuxt-link to="/units/Monk">僧侶</nuxt-link
-            >有<nuxt-link to="/armor">近防</nuxt-link>/<nuxt-link to="/armor"
-              >遠防</nuxt-link
-            >各+3護甲，但因為<nuxt-link to="/techs">科技</nuxt-link
+            >的<nuxt-link to="/techs/Orthodoxy">東正教</nuxt-link
+            >讓他們<nuxt-link to="/units/Monk">僧侶</nuxt-link>有<nuxt-link
+              to="/armor"
+              >近防</nuxt-link
+            >/<nuxt-link to="/armor">遠防</nuxt-link>各+3護甲，但因為<nuxt-link
+              to="/techs"
+              >科技</nuxt-link
             >昂貴又要蓋城堡因此CP值上沒很高，<nuxt-link to="/units/Unique_Unit"
               >特殊單位</nuxt-link
             >貴族鐵騎本身是為了彌補沒有<nuxt-link to="/units/Paladin"
@@ -116,10 +117,10 @@
           </li>
           <h3>特殊科技</h3>
           <li>
-            <img
-              class="gg"
-              src="~assets/CastleAgeUnique.png"
-            />東正教:僧侶護甲各+3
+            <img class="gg" src="~assets/CastleAgeUnique.png" /><nuxt-link
+              to="/techs/Orthodoxy"
+              >東正教</nuxt-link
+            >:僧侶護甲各+3
           </li>
           <li>
             <img class="gg" src="~assets/Unique-tech.jpg" />王家侍從:<nuxt-link
