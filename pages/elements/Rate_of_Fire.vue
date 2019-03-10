@@ -92,7 +92,7 @@
               </tr>
               <tr>
                 <td class="tta1">
-                  （精銳)<nuxt-link to="/units/Conquistador">征服者</nuxt-link>
+                  <nuxt-link to="/units/Conquistador">精銳征服者</nuxt-link>
                 </td>
                 <td class="tta3">2.93</td>
               </tr>

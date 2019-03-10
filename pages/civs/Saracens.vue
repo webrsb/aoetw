@@ -201,7 +201,7 @@
               >是名列前茅的文明。
             </li>
             <li>
-              在<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              在<nuxt-link to="/games/aoc">征服者</nuxt-link
               >資料片中新增<nuxt-link to="/techs/Bloodlines">品種</nuxt-link
               >(舊稱<nuxt-link to="/techs/Bloodlines">血統</nuxt-link
               >)、<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link

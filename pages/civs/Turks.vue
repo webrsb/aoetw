@@ -316,9 +316,7 @@
                 <img src="~assets/Gentile_Bellini.jpg" width="300" alt="" />
                 <p>
                   <em
-                    >穆罕默德二世，也被稱為<nuxt-link to="/units/Conquistador"
-                      >征服者</nuxt-link
-                    >穆罕默德，滅亡東羅馬帝國的蘇丹</em
+                    >穆罕默德二世，也被稱為征服者穆罕默德，滅亡東羅馬帝國的蘇丹</em
                   >
                 </p>
               </div>

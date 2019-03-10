@@ -14,8 +14,7 @@
             >單位，你可以在地圖編輯器中找到他。在歷史上，他是一名<nuxt-link
               to="/civs/Spanish"
               >西班牙</nuxt-link
-            >的探險家和<nuxt-link to="/units/Conquistador">征服者</nuxt-link
-            >。他同父異母的哥哥法蘭西斯克·皮薩羅，以征服<nuxt-link
+            >的探險家和征服者。他同父異母的哥哥法蘭西斯克·皮薩羅，以征服<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
             >帝國聞名。岡薩洛·皮薩羅和<nuxt-link

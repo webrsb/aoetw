@@ -73,7 +73,7 @@
             <li>
               豹勇士面對<nuxt-link to="/units/Samurai">日本武士</nuxt-link
               >的情況會依遊戲在何種版本進行而有所不同。若是<nuxt-link
-                to="/units/Conquistador"
+                to="/games/aoc"
                 >征服者</nuxt-link
               >的版本，在對<nuxt-link to="/armor/Armor_Class_Unique_Unit"
                 >特殊單位</nuxt-link

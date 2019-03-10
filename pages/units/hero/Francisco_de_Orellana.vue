@@ -8,12 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <strong>法蘭切斯科·德·奧雷亞納</strong>是《世紀帝國 II HD:
-            <nuxt-link to="/games/aof">失落的帝國</nuxt-link
-            >》中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
+            <strong>法蘭切斯科·德·奧雷亞納</strong>是<nuxt-link to="/games/aof">《世紀帝國 II HD:失落的帝國》</nuxt-link
+            >中的一名<nuxt-link to="/units/hero">英雄</nuxt-link
             >，他是以一位<nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-            >探險家和<nuxt-link to="/units/Conquistador">征服者</nuxt-link
-            >為基礎的，該名探險家以在亞馬遜河上航行並在厄瓜多爾建立定居點而聞名。在<nuxt-link
+            >探險家和征服者為基礎的，該名探險家以在亞馬遜河上航行並在厄瓜多爾建立定居點而聞名。在<nuxt-link
               to="/batt"
               >戰役</nuxt-link
             >"黃金國"系列中法蘭切斯科·德·奧雷亞納都是主角，他擁有征服者的外觀，並受所有<nuxt-link

@@ -194,7 +194,7 @@
                 style="margin: 2px;"
                 src="~assets/ConquistadorIcon.jpg"
                 alt=""
-              />精銳<nuxt-link to="/units/Conquistador">征服者</nuxt-link
+              /><nuxt-link to="/units/Conquistador">精銳征服者</nuxt-link
               >(<nuxt-link to="/civs/Spanish">西班牙</nuxt-link>限定)
             </li>
             <li>

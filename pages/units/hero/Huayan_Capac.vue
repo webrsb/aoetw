@@ -17,7 +17,7 @@
             >帝國的統治者所命名，當時他把帝國擴展到了最大規模和範圍，從厄瓜多爾，哥倫比亞西南部到北部，再到南部的智利和阿根廷。然而帝國在他死後分裂成兩個實體，不久之後就都被<nuxt-link
               to="/civs/Spanish"
               >西班牙</nuxt-link
-            >的<nuxt-link to="/units/Conquistador">征服者</nuxt-link>征服。
+            >的征服者征服。
           </p>
           <p>
             在遊戲中華伊納·卡派克的外型是<nuxt-link to="/units/Slinger"
