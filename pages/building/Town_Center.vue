@@ -593,7 +593,7 @@
           </tr>
           <tr>
             <td class="unit3">功能</td>
-            <td class="unit4">生產和強化村民 <br />收集資源 <br />朝代演進</td>
+            <td class="unit4">生產和強化村民 <br />收集資源<br />時代演進</td>
           </tr>
           <tr>
             <td class="unit" colspan="2" style="background-color:#3c763d;">
@@ -619,13 +619,13 @@
           </tr>
           <tr>
             <td class="unit3">血量</td>
-            <td class="unit4"><p>所有時代:2400</p></td>
+            <td class="unit4">所有時代:2400</td>
           </tr>
           <tr>
             <td class="unit3">
               <nuxt-link to="/elements/Garrison">駐軍</nuxt-link>
             </td>
-            <td class="unit4"><p>所有時代:15</p></td>
+            <td class="unit4">所有時代:15</td>
           </tr>
           <tr>
             <td class="unit3">攻擊</td>

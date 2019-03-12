@@ -197,7 +197,10 @@
         <p>
           註2：相較近場村民捕魚的0.426，<nuxt-link to="/units/Fishing_Ship"
             >漁船</nuxt-link
-          >近海捕魚為0.280，漁船深海捕魚為0.487，漁船魚簍為0.206
+          >近海捕魚為0.280，漁船深海捕魚為0.487，漁船<nuxt-link
+            to="/building/Fish_Trap"
+            >魚網</nuxt-link
+          >為0.206
         </p>
         <h3>建築物</h3>
         <div class="hrn1"></div>

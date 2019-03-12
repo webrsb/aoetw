@@ -442,6 +442,13 @@
             </td>
           </tr>
           <tr>
+            <td class="unit3">被需要</td>
+            <td class="unit4">
+              <nuxt-link to="/building/Archery_Range">射箭場</nuxt-link><br />
+              <nuxt-link to="/building/Stable">馬廄</nuxt-link>
+            </td>
+          </tr>
+          <tr>
             <td class="unit3">建築時間</td>
             <td class="unit4">50秒</td>
           </tr>

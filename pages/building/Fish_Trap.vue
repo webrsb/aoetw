@@ -204,8 +204,8 @@
             <li>
               <nuxt-link to="/civs/Byzantines">拜占庭</nuxt-link
               >：在封建/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
-              >/帝王時代，<nuxt-link to="/units/Fishing_Ship">漁船</nuxt-link
-              >有+20%/30%/40%的<nuxt-link to="/elements/Hit_points"
+              >/帝王時代，漁船網擁有+20%/30%/40%的<nuxt-link
+                to="/elements/Hit_points"
                 >血量</nuxt-link
               >加成。
             </li>

@@ -77,9 +77,7 @@
           <tr>
             <td class="unit3">資料片</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Battles_of_the_Conquerors"
-                >征服者戰役</nuxt-link
-              >
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>
             </td>
           </tr>
           <tr>

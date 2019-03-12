@@ -8,9 +8,9 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>匈牙利輕騎兵</b>或稱<nuxt-link to="/units/Hussar"
-              >翼騎兵</nuxt-link
-            >，是<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            <b>匈牙利輕騎兵</b>或稱<b>翼騎兵</b>，是<nuxt-link
+              to="/techs/age/Imperial_Age"
+              >帝王時代</nuxt-link
             >兵種，可訓練於<nuxt-link to="/building/Stable">馬廄</nuxt-link
             >，對<nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link
             >、<nuxt-link to="/armor/Armor_Class_Archer">遠程兵種</nuxt-link

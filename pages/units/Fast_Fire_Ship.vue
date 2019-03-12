@@ -621,7 +621,7 @@
               >並對反船隻攻擊有額外+6護甲。
             </li>
             <li>
-              <nuxt-link to="/civs/Vikings">維京</nuxt-link>:火戰船<nuxt-link
+              <nuxt-link to="/techs/Shipwright">造船匠</nuxt-link>讓<nuxt-link
                 to="/resource/Wood"
                 >木材</nuxt-link
               >成本便宜20%。
@@ -733,13 +733,11 @@
                 >
               </p>
             </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/FFireShipDLC.jpg" alt=""
-                /></gallery>
-                <p><em>各種快速火戰船(HD擴充資料片)。</em></p>
-              </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/FFireShipDLC.jpg" alt=""
+              /></gallery>
+              <p><em>各種快速火戰船(HD擴充資料片)。</em></p>
             </div>
           </div>
         </div>

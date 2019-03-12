@@ -499,6 +499,12 @@
             </td>
           </tr>
           <tr>
+            <td class="unit3">被需要</td>
+            <td class="unit4">
+              <nuxt-link to="/techs/age/Siege_Workshop">攻城器製造所</nuxt-link>
+            </td>
+          </tr>
+          <tr>
             <td class="unit3">建築時間</td>
             <td class="unit4">40秒</td>
           </tr>

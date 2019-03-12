@@ -411,9 +411,10 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">需要建設</td>
+            <td class="unit3">被需要</td>
             <td class="unit4">
-              <nuxt-link to="/building/Mill">磨坊</nuxt-link>
+              <nuxt-link to="/building/Farm">農田</nuxt-link><br />
+              <nuxt-link to="/building/Market">市集</nuxt-link>
             </td>
           </tr>
           <tr>

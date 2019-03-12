@@ -38,9 +38,17 @@
               </h4>
               <ul>
                 <li>
-                  <img class="gg" src="~assets/TradeCartIcon.jpg" />貿易車隊
+                  <img class="gg" src="~assets/TradeCartIcon.jpg" /><nuxt-link
+                    to="/techs/age/Trade_Cart"
+                    >貿易車隊</nuxt-link
+                  >
                 </li>
-                <li><img class="gg" src="~assets/Cartography.jpg" />製圖法</li>
+                <li>
+                  <img class="gg" src="~assets/Cartography.jpg" /><nuxt-link
+                    to="/techs/age/Cartography"
+                    >製圖學</nuxt-link
+                  >
+                </li>
               </ul>
             </div>
           </div>
