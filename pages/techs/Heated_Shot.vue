@@ -8,7 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>預熱射擊</b>，舊稱『火箭』可於<nuxt-link
+            <b>預熱射擊</b>舊稱<b>火箭</b>可於<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >在<nuxt-link to="/building/University">學院</nuxt-link

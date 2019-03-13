@@ -8,9 +8,7 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>戟兵</b>或稱為斧<nuxt-link to="/armor/Armor_Class_Spearman"
-              >槍兵</nuxt-link
-            >。<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
+            <b>戟兵</b>或稱為<b>斧槍兵</b>。<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
             >時，可以從<nuxt-link to="/building/Barracks">軍營</nuxt-link
             >升級為戟兵。他們專門對付<nuxt-link to="/units/Cavalry_Units"
               >騎兵</nuxt-link

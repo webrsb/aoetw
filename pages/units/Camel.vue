@@ -574,7 +574,6 @@
               >的傷害。
             </li>
             <li>升級到重裝駱駝需要125秒。</li>
-            <li></li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>

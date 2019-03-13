@@ -501,7 +501,7 @@
           <tr>
             <td class="unit3">被需要</td>
             <td class="unit4">
-              <nuxt-link to="/techs/age/Siege_Workshop">攻城器製造所</nuxt-link>
+              <nuxt-link to="/building/Siege_Workshop">攻城器製造所</nuxt-link>
             </td>
           </tr>
           <tr>

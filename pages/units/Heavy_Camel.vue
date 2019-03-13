@@ -552,7 +552,6 @@
                 >反騎兵</nuxt-link
               >的傷害。
             </li>
-            <li></li>
           </ul>
           <h3>
             <em><nuxt-link to="/games/aoc">征服者入侵</nuxt-link></em>

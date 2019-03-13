@@ -149,8 +149,6 @@
               特殊科技引入，<nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link
               >:矛兵額外獲得+1攻擊，+1射程
             </li>
-            <li></li>
-            <li></li>
           </ul>
         </div>
         <h3>圖庫</h3>

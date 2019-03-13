@@ -33,7 +33,7 @@
               >加成的傷害，例如<nuxt-link to="/units/Heavy_Camel"
                 >重裝駱駝騎兵</nuxt-link
               >+18對<nuxt-link to="/armor/Armor_Class_Cavalry">騎兵</nuxt-link
-              >加成傷害攻擊擁有(+12/+16(精銳)
+              >加成傷害攻擊擁有(+12/+16(精銳))
             </li>
             <li>
               騎兵加成抵免的聖騎兵，只剩下微乎其微的加成優勢。連擁有+32對騎兵加成傷害的<nuxt-link

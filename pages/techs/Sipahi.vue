@@ -62,9 +62,7 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            Sipahi是指幾乎所有主流的<nuxt-link to="/units/hero/Osman"
-              >奧斯曼</nuxt-link
-            >帝國騎兵將它們與非正規軍區分開來的術語。升級對於土耳其<nuxt-link
+            Sipahi是指幾乎所有主流的奧斯曼帝國騎兵將它們與非正規軍區分開來的術語。升級對於土耳其<nuxt-link
               to="/units/Archer_Units"
               >遠程</nuxt-link
             >部隊而言很可能代表了他們獲得更好的保護（Sipahis通常會穿著鏈甲）。
