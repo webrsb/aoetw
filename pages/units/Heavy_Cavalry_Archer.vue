@@ -796,8 +796,7 @@
             <li>引入<nuxt-link to="/techs/Thumb_Ring">拇指環</nuxt-link>。</li>
             <li>引入<nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>。</li>
             <li>
-              <nuxt-link to="/civs/Huns">匈奴</nuxt-link
-              >:重裝馬弓騎兵便宜30％。。
+              <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:重裝馬弓騎兵便宜30％。
             </li>
           </ul>
           <h3>

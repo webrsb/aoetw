@@ -68,8 +68,7 @@
                   >亞琛大教堂:由查理曼大帝（Charlemagne）建造，成為"世界帝國II"中<nuxt-link
                     to="/civs/Britons"
                     >不列顛人</nuxt-link
-                  >的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link
-                  >。。</em
+                  >的<nuxt-link to="/building/Wonder">世界奇觀</nuxt-link>。</em
                 >
               </p>
             </div>

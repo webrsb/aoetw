@@ -409,7 +409,12 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">所有文明</td>
+            <td class="unit4">
+              除<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+                to="/civs/Incas"
+                >印加</nuxt-link
+              >和<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>之外
+            </td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

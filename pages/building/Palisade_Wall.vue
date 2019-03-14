@@ -278,7 +278,7 @@
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">遠防</nuxt-link></td>
-            <td class="unit4"><p>5</p></td>
+            <td class="unit4">5</td>
           </tr>
           <tr>
             <td class="unit3">護甲分類</td>

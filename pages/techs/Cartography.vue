@@ -17,30 +17,6 @@
             >，尤其是在多人連線時，重點是他不用成本。
           </p>
         </div>
-        <h3>文明可研發與否</h3>
-        <div class="hrn1"></div>
-        <div class="row">
-          <div class="col-md-12">
-            <div class="n1">
-              <h4>
-                <i class="fas fa-check" style="color: green;"></i
-                ><span class="okcc" style="margin-left: 2px;">可研發</span>
-              </h4>
-              所有<nuxt-link to="/civs">文明</nuxt-link>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-            <div class="n1">
-              <h4>
-                <i class="fas fa-times" style="color: #d9534f;"></i
-                ><span class="nocc" style="margin-left: 2px;">不可研發</span>
-              </h4>
-              無
-            </div>
-          </div>
-        </div>
         <h3>團隊加分</h3>
         <div class="hrn1"></div>
         <div class="n1">
@@ -121,7 +97,7 @@
           </tr>
           <tr>
             <td class="unit3">文明</td>
-            <td class="unit4">請看介紹</td>
+            <td class="unit4">所有文明</td>
           </tr>
           <tr>
             <td class="unit3">時代</td>

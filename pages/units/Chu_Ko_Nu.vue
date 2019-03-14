@@ -418,7 +418,7 @@
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>：連弩兵<nuxt-link
                 to="/los.php"
                 >視野</nuxt-link
-              >+2。。
+              >+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -496,7 +496,7 @@
               >造成16的傷害。
             </li>
             <li>
-              中國軍事作家曾說連弩的火力太弱實在無法座位戰鬥使用，應該是民間家庭對付野生動物用。儘管如此，有報導稱，在1894年的第一次中日戰爭之前，人們仍有使用連弩的紀錄。。
+              中國軍事作家曾說連弩的火力太弱實在無法座位戰鬥使用，應該是民間家庭對付野生動物用。儘管如此，有報導稱，在1894年的第一次中日戰爭之前，人們仍有使用連弩的紀錄。
             </li>
             <li>
               連弩兵的精銳升級<nuxt-link to="/resource/Gold">黃金</nuxt-link

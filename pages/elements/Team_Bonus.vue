@@ -58,7 +58,7 @@
                 <nuxt-link to="/units/Monk">僧侶</nuxt-link>治療速度快50％。
               </li>
             </ul>
-            <strong>塞爾特：</strong>
+            <strong><nuxt-link to="/civs/Celts">塞爾特</nuxt-link>：</strong>
             <ul>
               <li>
                 <nuxt-link to="/units//building/Siege_Workshop"

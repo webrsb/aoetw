@@ -406,7 +406,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link
-              >：熱那亞弩手<nuxt-link to="/los.php">視野</nuxt-link>+2。。
+              >：熱那亞弩手<nuxt-link to="/los.php">視野</nuxt-link>+2。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link
@@ -473,7 +473,7 @@
             >很相似，巨盾是中世紀歐洲弓箭手使用的一種高凸形盾牌，作為一種移動掩護物，可以在沒有射擊的情況下躲在後面，儘管單位似乎永遠不會在蹲下時與敵人交戰，因此在面對<nuxt-link
               to="/units/Archer_Units"
               >遠程</nuxt-link
-            >對手時這個盾牌有點沒用。同樣在現實中，這個巨盾比弓手高很多，而在遊戲中卻要短得多。但是，他們在移動時確實在背上攜帶了這種巨盾，這跟歷史是相符的。。
+            >對手時這個盾牌有點沒用。同樣在現實中，這個巨盾比弓手高很多，而在遊戲中卻要短得多。但是，他們在移動時確實在背上攜帶了這種巨盾，這跟歷史是相符的。
           </li>
           <li>
             熱那亞弩手是少數對<nuxt-link to="/armor/Armor_Class_Cavalry_Archer"

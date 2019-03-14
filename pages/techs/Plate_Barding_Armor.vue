@@ -13,7 +13,7 @@
             >在<nuxt-link to="/building/Blacksmith">兵工廠</nuxt-link
             >研發，可讓<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵護甲</nuxt-link
-            >+1/+2。。
+            >+1/+2。
           </p>
         </div>
         <h3>文明可研發與否</h3>

@@ -108,7 +108,7 @@
               >衝撞車</nuxt-link
             >對於<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
-            >單位有額外的加成效果，但只要稍有個控兵失誤，軍隊都可能在轉眼間葬送在花火之中。。
+            >單位有額外的加成效果，但只要稍有個控兵失誤，軍隊都可能在轉眼間葬送在花火之中。
           </p>
           <p>
             對付成群的<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link

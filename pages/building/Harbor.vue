@@ -460,7 +460,7 @@
         <div class="n1">
           <ul>
             <li>
-              <nuxt-link to="/civs/Malay">馬來</nuxt-link>：海港視野+100%。。
+              <nuxt-link to="/civs/Malay">馬來</nuxt-link>：海港視野+100%。
             </li>
             <li>
               <nuxt-link to="/civs/Malians">馬利</nuxt-link>：研究<nuxt-link

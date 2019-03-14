@@ -39,13 +39,13 @@
               <ul>
                 <li>
                   <img class="gg" src="~assets/TradeCartIcon.jpg" /><nuxt-link
-                    to="/techs/age/Trade_Cart"
+                    to="/units/Trade_Cart"
                     >貿易車隊</nuxt-link
                   >
                 </li>
                 <li>
                   <img class="gg" src="~assets/Cartography.jpg" /><nuxt-link
-                    to="/techs/age/Cartography"
+                    to="/techs/Cartography"
                     >製圖學</nuxt-link
                   >
                 </li>

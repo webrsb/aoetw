@@ -38,7 +38,7 @@
             >與
             <nuxt-link to="/building/Bombard_Tower">火砲塔</nuxt-link
             >這種高威力<nuxt-link to="/units/Gunpowder_Unit">火藥兵種</nuxt-link
-            >。。
+            >。
             <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link
             >可讓<nuxt-link to="/units/Siege_Weapons">攻城武器</nuxt-link
             >射程+1在後期也很有效用；而其他如<nuxt-link to="/techs/Murder_Holes"
@@ -337,9 +337,7 @@
                   <em
                     >"在<nuxt-link to="/techs/age/Dark_Age">黑暗時代</nuxt-link
                     >最暗淡的日子裡，歐洲大部分地區的教育已經消失了。只剩散居在獨立寺院的祭司和僧侶通過抄寫舊稿提高讀寫能力，同時保存了書籍。
-                    <nuxt-link to="/units/hero/Charlemagne"
-                      >查理曼大帝</nuxt-link
-                    >試圖建立一所學校來培養能夠幫助他控制帝國的人才來扭轉這一趨勢，但是這個實驗在北方和東方的新一波野蠻人的侵略下失敗了。第一批高等教育中心是與劍橋，牛津，帕多瓦和巴黎等大教堂城鎮有相關連。未來的牧師和教會領袖接受拉丁文，聖經，基督教哲學和其他基督教著作的教育。醫學，科學和數學則直到很久以後才進入課程。第一批從這些大學畢業的學生領導了教會，並繼續教導出一批又一批受過教育的人，他們成為一代又一代歐洲國王的顧問和行政人員"</em
+                    查理曼大帝試圖建立一所學校來培養能夠幫助他控制帝國的人才來扭轉這一趨勢，但是這個實驗在北方和東方的新一波野蠻人的侵略下失敗了。第一批高等教育中心是與劍橋，牛津，帕多瓦和巴黎等大教堂城鎮有相關連。未來的牧師和教會領袖接受拉丁文，聖經，基督教哲學和其他基督教著作的教育。醫學，科學和數學則直到很久以後才進入課程。第一批從這些大學畢業的學生領導了教會，並繼續教導出一批又一批受過教育的人，他們成為一代又一代歐洲國王的顧問和行政人員"</em
                   >
                   <p style="text-align: right;margin-top: 10px;">
                     -世紀帝國II手稿。
@@ -473,7 +471,7 @@
           </tr>
           <tr>
             <td class="unit3">血量</td>
-            <td class="unit4"><p>所有時代:2100</p></td>
+            <td class="unit4">所有時代:2100</td>
           </tr>
           <tr>
             <td class="unit3"><nuxt-link to="/armor">近防</nuxt-link></td>

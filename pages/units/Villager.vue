@@ -872,7 +872,7 @@
             </li>
             <li>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link
-              >：開始有6村民，但少200食物和50木材。。
+              >：開始有6村民，但少200食物和50木材。
             </li>
             <li>
               <nuxt-link to="/civs/Franks">法蘭克</nuxt-link
@@ -892,12 +892,12 @@
               >/<nuxt-link to="/techs/age/Castle_Age">城堡</nuxt-link
               >/<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
               >，村民便宜5％/ 10％/ 15％/
-              20％。漁夫收集速度提高15％，且可多攜帶15食物。。
+              20％。漁夫收集速度提高15％，且可多攜帶15食物。
             </li>
             <li>
               <nuxt-link to="/civs/Khmer">高棉</nuxt-link
               >：村民可以駐守在<nuxt-link to="/building/House">房屋</nuxt-link
-              >內。。
+              >內。
             </li>
             <li>
               <nuxt-link to="/civs/Koreans">韓國</nuxt-link

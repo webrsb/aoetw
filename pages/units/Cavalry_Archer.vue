@@ -759,7 +759,7 @@
               <nuxt-link to="/civs/Huns">匈奴</nuxt-link>:馬弓騎兵於<nuxt-link
                 to="/techs/age/Castle_Age"
                 >城堡</nuxt-link
-              >/帝王時代便宜25%/30％。。
+              >/帝王時代便宜25%/30％。
             </li>
           </ul>
           <h3>

@@ -51,7 +51,7 @@
                 >火槍兵</nuxt-link
               >、<nuxt-link to="/units/Jaguar_Warrior">豹勇士</nuxt-link>和
               <nuxt-link to="/units/Cataphract">拜占庭聖騎兵</nuxt-link
-              >的加成攻擊。。
+              >的加成攻擊。
             </li>
             <li>
               傭兵移動速度快，有不錯的裝甲和高<nuxt-link

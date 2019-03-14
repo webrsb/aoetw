@@ -457,7 +457,7 @@
               一開始彎刀勇士對<nuxt-link
                 to="/armor/Armor_Class_Standard_Building"
                 >標準建築</nuxt-link
-              >攻擊+2(精銳+3)。在4.8版本後被降低為0(精銳降為1)。。
+              >攻擊+2(精銳+3)。在4.8版本後被降低為0(精銳降為1)。
             </li>
           </ul>
         </div>
