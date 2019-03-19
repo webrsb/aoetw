@@ -24,7 +24,7 @@
           </p>
           <p>
             遊戲難易度會影響狼的<nuxt-link to="/los.php">視野</nuxt-link
-            >，最簡單的是遊戲是6，中等與困難的是12。
+            >，最易為4，標準為6, 其它難度為12。
           </p>
           <p>
             <nuxt-link to="/civs/Magyars">馬扎爾</nuxt-link>的村民可以一擊殺狼。
