@@ -191,17 +191,13 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
+              <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"
-                >條條大路通圍城</nuxt-link
-              >。
-              <nuxt-link to="/batt/Legionaries_on_the_Horizon"
-                >羅馬軍團隨時殺到</nuxt-link
-              >。
-              <nuxt-link to="/batt/Emperor_of_the_West">西域之君</nuxt-link>。
-              <nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link>
+              <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City">條條大路通圍城</nuxt-link>·
+              <nuxt-link to="/batt/Legionaries_on_the_Horizon">羅馬軍團隨時殺到</nuxt-link>·
+              <nuxt-link to="/batt/Emperor_of_the_West">西域之君</nuxt-link>·
+              <nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link>·
             </td>
           </tr>
           <tr>
@@ -209,13 +205,10 @@
               <nuxt-link to="/batt/Draculaa">德古拉</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings"
-                >火龍展翅</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Return_of_the_Dragon">龍之歸來</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Breath_of_the_Dragon">龍之喘息</nuxt-link
-              >。 <nuxt-link to="/The_Moon_Rises.php">撥雲見月</nuxt-link>。
+              <nuxt-link to="/batt/The_Dragon_Spreads_His_Wings">火龍展翅</nuxt-link>·
+              <nuxt-link to="/batt/The_Return_of_the_Dragon">龍之歸來</nuxt-link>·
+              <nuxt-link to="/batt/The_Breath_of_the_Dragon">龍之喘息</nuxt-link>·
+              <nuxt-link to="/The_Moon_Rises.php">撥雲見月</nuxt-link>·
               <nuxt-link to="/The_Night_Falls.php">暗夜降臨</nuxt-link>
             </td>
           </tr>
@@ -224,9 +217,8 @@
               <nuxt-link to="/Baria.php">巴里</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Arrival_at_Bari">抵達巴里</nuxt-link>。
-              <nuxt-link to="/batt/The_Rebellion_of_Melus">邁勒斯叛變</nuxt-link
-              >。
+              <nuxt-link to="/batt/Arrival_at_Bari">抵達巴里</nuxt-link>·
+              <nuxt-link to="/batt/The_Rebellion_of_Melus">邁勒斯叛變</nuxt-link>·
               <nuxt-link to="/batt/The_Great_Siege">四面楚歌</nuxt-link>
             </td>
           </tr>
@@ -235,13 +227,10 @@
               <nuxt-link to="/batt/Sforzaa">斯福爾札</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/An_End_and_a_Beginning">始兮終兮</nuxt-link
-              >。 <nuxt-link to="/batt/O_Fortuna">命運女神</nuxt-link>。
-              <nuxt-link to="/batt/The_Hand_of_a_Daughter">于歸之喜</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Ambrosian_Republic"
-                >安布羅共和國</nuxt-link
-              >。
+              <nuxt-link to="/batt/An_End_and_a_Beginning">始兮終兮</nuxt-link>·
+              <nuxt-link to="/batt/O_Fortuna">命運女神</nuxt-link>·
+              <nuxt-link to="/batt/The_Hand_of_a_Daughter">于歸之喜</nuxt-link>·
+              <nuxt-link to="/batt/The_Ambrosian_Republic">安布羅共和國</nuxt-link>·
               <nuxt-link to="/batt/A_New_Duk_of_Milan">米蘭新公爵</nuxt-link>
             </td>
           </tr>
@@ -250,9 +239,9 @@
               <nuxt-link to="/batt/El_Doradoa">黃金國</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Tales_of_La_Canela">黃金國的傳說</nuxt-link
-              >。 <nuxt-link to="/batt/The_Split">分離告別</nuxt-link>。
-              <nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link>。
+              <nuxt-link to="/batt/Tales_of_La_Canela">黃金國的傳說</nuxt-link>·
+              <nuxt-link to="/batt/The_Split">分離告別</nuxt-link>·
+              <nuxt-link to="/batt/The_Amazones">亞馬遜族</nuxt-link>·
               <nuxt-link to="/batt/The_Cannibals">食人族</nuxt-link>
             </td>
           </tr>
@@ -261,27 +250,25 @@
               <nuxt-link to="/batt/Prithviraj">布里斯比羅吉</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link>。
-              <nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link>。
-              <nuxt-link to="/batt/The_Elopement">私奔</nuxt-link>。
+              <nuxt-link to="/batt/A_Promising_Warrior">英雄出少年</nuxt-link>·
+              <nuxt-link to="/batt/The_Digvijaya">逐鹿迪格維傑之地</nuxt-link>·
+              <nuxt-link to="/batt/The_Elopement">私奔</nuxt-link>·
               <nuxt-link to="/batt/Battles_of_Tarain">塔蘭村之戰</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Battles_of_the_Forgotten"
-                >失落帝國的戰役</nuxt-link
-              >
+              <nuxt-link to="/batt/Battles_of_the_Forgotten">失落帝國的戰役</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>。
-              <nuxt-link to="/Dos_Pilas(648).php">雙柱城(648)</nuxt-link>。
-              <nuxt-link to="/York(865).php">約克(865)</nuxt-link>。
-              <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>。
-              <nuxt-link to="/Langshan_Jiang(919).php">狼山江(919)</nuxt-link>。
-              <nuxt-link to="/Kaesong(936).php">開城(936)</nuxt-link>。
-              <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>。
-              <nuxt-link to="/Cyprus(1191).php">塞普勒斯(1191)</nuxt-link>。
+              <nuxt-link to="/batt/Bukhara_557">布哈拉(557)</nuxt-link>·
+              <nuxt-link to="/Dos_Pilas(648).php">雙柱城(648)</nuxt-link>·
+              <nuxt-link to="/York(865).php">約克(865)</nuxt-link>·
+              <nuxt-link to="/batt/Honfoglalas_895">征服家園(895)</nuxt-link>·
+              <nuxt-link to="/Langshan_Jiang(919).php">狼山江(919)</nuxt-link>·
+              <nuxt-link to="/Kaesong(936).php">開城(936)</nuxt-link>·
+              <nuxt-link to="/batt/Kurikara_1183">礪波山(1183)</nuxt-link>·
+              <nuxt-link to="/Cyprus(1191).php">塞普勒斯(1191)</nuxt-link>·
               <nuxt-link to="/Bapheus(1302).php">巴菲烏斯(1302)</nuxt-link>
             </td>
           </tr>
@@ -299,21 +286,13 @@
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Tariq_ibn_Ziyada"
-                >塔里克．伊本．齊亞德</nuxt-link
-              >
+              <nuxt-link to="/batt/Tariq_ibn_Ziyada">塔里克·伊本·齊亞德</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Battle_of_Guadalete"
-                >瓜達萊特之戰</nuxt-link
-              >。
-              <nuxt-link to="/batt/Consolidation_and_Subjugation"
-                >攻城拔寨</nuxt-link
-              >。
-              <nuxt-link to="/batt/Divide_and_Conquer">縱橫捭闔</nuxt-link>。
-              <nuxt-link to="/batt/Crossing_the_Pyrenees"
-                >穿越庇里牛斯山脈</nuxt-link
-              >。
+              <nuxt-link to="/batt/The_Battle_of_Guadalete">瓜達萊特之戰</nuxt-link>·
+              <nuxt-link to="/batt/Consolidation_and_Subjugation">攻城拔寨</nuxt-link>·
+              <nuxt-link to="/batt/Divide_and_Conquer">縱橫捭闔</nuxt-link>·
+              <nuxt-link to="/batt/Crossing_the_Pyrenees">穿越庇里牛斯山脈</nuxt-link>·
               <nuxt-link to="/batt/Razzia">突襲</nuxt-link>
             </td>
           </tr>
@@ -322,25 +301,22 @@
               <nuxt-link to="/batt/Sundjataa">松迪亞塔</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Hunted">擒獲</nuxt-link>。
-              <nuxt-link to="/batt/The_Sting_of_the_Scorpion">蠍螫</nuxt-link>。
-              <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>。
-              <nuxt-link to="/batt/Blood_on_the_River_Bank">血濺河灘</nuxt-link
-              >。
+              <nuxt-link to="/batt/Hunted">擒獲</nuxt-link>·
+              <nuxt-link to="/batt/The_Sting_of_the_Scorpion">蠍螫</nuxt-link>·
+              <nuxt-link to="/batt/Djeriba_Gold">傑爾巴島的黃金</nuxt-link>·
+              <nuxt-link to="/batt/Blood_on_the_River_Bank">血濺河灘</nuxt-link>·
               <nuxt-link to="/batt/The_Lions_Den">深入虎穴</nuxt-link>
             </td>
           </tr>
           <tr>
             <td class="unit3" style="width: 15%;">
-              <nuxt-link to="/batt/Francisco_de_Almeidaa"
-                >法蘭西斯科．阿爾梅達</nuxt-link
-              >
+              <nuxt-link to="/batt/Francisco_de_Almeidaa">法蘭西斯科·阿爾梅達</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>。
-              <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>。
-              <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>。
-              <nuxt-link to="/batt/Estado_da_India">葡屬印度</nuxt-link>。
+              <nuxt-link to="/batt/The_Old_World">舊世界</nuxt-link>·
+              <nuxt-link to="/batt/Lion_of_Africa">非洲雄獅</nuxt-link>·
+              <nuxt-link to="/batt/Ruins_of_Empires">帝國的廢墟</nuxt-link>·
+              <nuxt-link to="/batt/Estado_da_India">葡屬印度</nuxt-link>·
               <nuxt-link to="/batt/A_Sons_Blood.vue">兒子的血仇</nuxt-link>
             </td>
           </tr>
@@ -349,10 +325,10 @@
               <nuxt-link to="/batt/Yodita">優娣忒</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Path_of_Exile">流亡之路</nuxt-link>。
-              <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>。
-              <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>。
-              <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>。
+              <nuxt-link to="/batt/Path_of_Exile">流亡之路</nuxt-link>·
+              <nuxt-link to="/batt/The_Right_Partner">最佳搭檔</nuxt-link>·
+              <nuxt-link to="/batt/A_Fallen-Crown">摔落的皇冠</nuxt-link>·
+              <nuxt-link to="/batt/Broken_Stelae">毀壞的石碑</nuxt-link>·
               <nuxt-link to="/batt/Welcome_Home">重回故里</nuxt-link>
             </td>
           </tr>
@@ -373,14 +349,10 @@
               <nuxt-link to="/batt/Gajah_Madaa">加查·馬達</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Story_of_our_Founders"
-                >開疆闢土</nuxt-link
-              >。
-              <nuxt-link to="/batt/Unconditional_Loyalty">班師勤王</nuxt-link>。
-              <nuxt-link to="/batt/The_Oath_to_Unify_Nusantara"
-                >誓統南洋</nuxt-link
-              >。
-              <nuxt-link to="/batt/Serving_the_New_King">輔佐新君</nuxt-link>。
+              <nuxt-link to="/batt/The_Story_of_our_Founders">開疆闢土</nuxt-link>·
+              <nuxt-link to="/batt/Unconditional_Loyalty">班師勤王</nuxt-link>·
+              <nuxt-link to="/batt/The_Oath_to_Unify_Nusantara">誓統南洋</nuxt-link>·
+              <nuxt-link to="/batt/Serving_the_New_King">輔佐新君</nuxt-link>·
               <nuxt-link to="/batt/The_Pasunda_Bubat_Tragedy">風雲變色</nuxt-link>
             </td>
           </tr>
@@ -389,13 +361,10 @@
               <nuxt-link to="/batt/Suryavarman_Ia">蘇利耶跋摩一世</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Usurpation">揭竿而起</nuxt-link>。
-              <nuxt-link to="/batt/Quelling_the_Rebellion">席捲入荒</nuxt-link
-              >。
-              <nuxt-link to="/batt/A_Dangerous_Mission">九死一生</nuxt-link>。
-              <nuxt-link to="/batt/Challenging_a_Thalassocrac"
-                >滔天巨浪</nuxt-link
-              >。
+              <nuxt-link to="/batt/Usurpation">揭竿而起</nuxt-link>·
+              <nuxt-link to="/batt/Quelling_the_Rebellion">席捲入荒</nuxt-link>·
+              <nuxt-link to="/batt/A_Dangerous_Mission">九死一生</nuxt-link>·
+              <nuxt-link to="/batt/Challenging_a_Thalassocrac">滔天巨浪</nuxt-link>·
               <nuxt-link to="/batt/Nirvanapada">千古偉業</nuxt-link>
             </td>
           </tr>
@@ -404,10 +373,10 @@
               <nuxt-link to="/batt/Bayinnaunga">勃印曩</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Burmese_Tigers">餓虎撲食</nuxt-link>。
-              <nuxt-link to="/batt/The_Mandalay_Cobra">猛蛇出洞</nuxt-link>。
-              <nuxt-link to="/batt/The_Royal_Peacock">百鳥朝鳳</nuxt-link>。
-              <nuxt-link to="/batt/The_White_Elephant">白象化身</nuxt-link>。
+              <nuxt-link to="/batt/The_Burmese_Tigers">餓虎撲食</nuxt-link>·
+              <nuxt-link to="/batt/The_Mandalay_Cobra">猛蛇出洞</nuxt-link>·
+              <nuxt-link to="/batt/The_Royal_Peacock">百鳥朝鳳</nuxt-link>·
+              <nuxt-link to="/batt/The_White_Elephant">白象化身</nuxt-link>·
               <nuxt-link to="/batt/The_Old_Tiger">鳳凰涅槃</nuxt-link>
             </td>
           </tr>
@@ -416,12 +385,11 @@
               <nuxt-link to="/batt/Le_Loi">黎利</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/The_Dai_Viet_Uprising">大越義軍</nuxt-link>。
-              <nuxt-link to="/batt/The_Mountain_Siege">至靈山魂</nuxt-link>。
-              <nuxt-link to="/batt/The_Battle_at_Hanoi">圍困昇龍</nuxt-link>。
-              <nuxt-link to="/batt/Reaching_South">揮師南下</nuxt-link>。
-              <nuxt-link to="/batt/A_Three_Pronged_Attack">兵分三路</nuxt-link
-              >。
+              <nuxt-link to="/batt/The_Dai_Viet_Uprising">大越義軍</nuxt-link>·
+              <nuxt-link to="/batt/The_Mountain_Siege">至靈山魂</nuxt-link>·
+              <nuxt-link to="/batt/The_Battle_at_Hanoi">圍困昇龍</nuxt-link>·
+              <nuxt-link to="/batt/Reaching_South">揮師南下</nuxt-link>·
+              <nuxt-link to="/batt/A_Three_Pronged_Attack">兵分三路</nuxt-link>·
               <nuxt-link to="/batt/The_Final_Fortress">決戰東都</nuxt-link>
             </td>
           </tr>

@@ -668,8 +668,7 @@
             <div class="lightbox-caption" style="width:220px">
               <p>
                 <em
-                  ><nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-                  >在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em
+                  >軍營在封建/城堡時代在一般地圖/下雪地圖的樣子和駐紮單位時的樣子。</em
                 >
               </p>
             </div>

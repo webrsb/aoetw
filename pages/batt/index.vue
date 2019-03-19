@@ -738,7 +738,7 @@
                 <td class="unit" style="background-color:#28a745;">
                   <div class="unititle">
                     <div id="a10">
-                      <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
+                      <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>
                     </div>
                   </div>
                 </td>

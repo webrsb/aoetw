@@ -1056,7 +1056,7 @@
               位於現今義大利熱那亞，可能建造於5~6世紀，原是獻給熱那亞主教，後來獻給聖勞倫斯，此處在羅馬時代可能是個公墓。
             </p>
             <p>
-              登場戰役：<nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link
+              登場戰役：<nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link
               >4-<nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link
               >、失落帝國的戰役-塞普勒斯(1191)
             </p>

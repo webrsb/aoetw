@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>條條大路通圍城</b>為<nuxt-link to="/batt/Alarica"
+            <b>條條大路通圍城</b>為<nuxt-link to="/batt/Alaric"
               >阿拉里克戰役</nuxt-link
             >的第一關劇情關卡，在這關故事中，哥德國王<nuxt-link
-              to="/batt/Alarica"
+              to="/batt/Alaric"
               >阿拉里克</nuxt-link
             >開始了他對羅馬的攻擊。在整個過程中，他將有機會招募到哥德難民加入他的軍隊，獲得對河流與貿易路線的控制，並最終切斷羅馬的供應。
           </p>
@@ -275,7 +275,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
+              <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>
             </td>
           </tr>
           <tr>

@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>羅馬軍團隨時殺到</b>為<nuxt-link to="/batt/Alarica"
+            <b>羅馬軍團隨時殺到</b>為<nuxt-link to="/batt/Alaric"
               >阿拉里克戰役</nuxt-link
             >的第二關劇情關卡，在這關故事中，這是關於<nuxt-link
-              to="/batt/Alarica"
+              to="/batt/Alaric"
               >阿拉里克</nuxt-link
             >發現羅馬皇帝霍諾留·奧古斯都背叛他背後的援軍，因此決心反抗羅馬皇帝。
           </p>
@@ -240,7 +240,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
+              <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>
             </td>
           </tr>
           <tr>

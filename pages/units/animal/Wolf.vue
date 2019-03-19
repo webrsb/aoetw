@@ -37,7 +37,7 @@
           <tr>
             <td class="unit" colspan="2" style="background-color:#b086b5;">
               <div class="unititle2">
-                科摩多巨蜥
+                狼
               </div>
             </td>
           </tr>

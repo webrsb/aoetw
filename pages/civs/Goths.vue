@@ -458,7 +458,7 @@
             </tr>
             <tr>
               <td class="tta1">
-                <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>1-<nuxt-link
+                <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>1-<nuxt-link
                   to="/batt/All_Roads_Lead_to_a_Besieged_City"
                   >條條大路通圍城</nuxt-link
                 >

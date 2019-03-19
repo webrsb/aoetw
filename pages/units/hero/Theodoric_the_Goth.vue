@@ -19,7 +19,7 @@
             >和
             <nuxt-link to="/batt/Legionaries_on_the_Horizon"
               >羅馬軍團隨時殺到</nuxt-link
-            >這兩關中出現，不過名稱被改為<nuxt-link to="/batt/Alarica"
+            >這兩關中出現，不過名稱被改為<nuxt-link to="/batt/Alaric"
               >阿拉里克</nuxt-link
             >。
           </p>

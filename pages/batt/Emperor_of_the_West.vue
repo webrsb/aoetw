@@ -8,10 +8,10 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>西域之君</b>為<nuxt-link to="/batt/Alarica"
+            <b>西域之君</b>為<nuxt-link to="/batt/Alaric"
               >阿拉里克戰役</nuxt-link
             >的第三關劇情關卡，在這個<nuxt-link to="/batt">戰役</nuxt-link
-            >中，<nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link
+            >中，<nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link
             >最初被設計要集結阿陶爾夫帶來的軍隊，同時要防禦來自哥德同鄉薩魯斯的敵軍。然後阿拉里克的軍隊必須前進到拉文納南部的港口，路上收集一些傭兵。
           </p>
           <p>
@@ -258,7 +258,7 @@
           <tr>
             <td class="unit3">戰役</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
+              <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>
             </td>
           </tr>
           <tr>

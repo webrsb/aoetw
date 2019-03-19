@@ -267,7 +267,7 @@
       </p>
       <p>
         而在<nuxt-link to="/games/aof">失落的帝國</nuxt-link
-        >戰役中，拜占庭在<nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link
+        >戰役中，拜占庭在<nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link
         >也有少量的出現，如西羅馬帝國，因為有了義大利文明的出現，以前由拜占庭扮演的義大利城邦，現在則準確的由義大利取代，
       </p>
       <p>以下詳細列出拜占庭出現的戰役</p>
@@ -337,7 +337,7 @@
           <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>:希臘村莊
         </li>
       </ul>
-      <nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link>
+      <nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link>
       <ul>
         <li>
           <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City"

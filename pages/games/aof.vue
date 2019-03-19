@@ -232,7 +232,7 @@
           </p>
           <p>包含七個主戰役</p>
           <ul>
-            <li><nuxt-link to="/batt/Alarica">阿拉里克</nuxt-link></li>
+            <li><nuxt-link to="/batt/Alaric">阿拉里克</nuxt-link></li>
             <li><nuxt-link to="/batt/Draculaa">德古拉</nuxt-link></li>
             <li><nuxt-link to="/batt/Baria">巴里</nuxt-link></li>
             <li><nuxt-link to="/batt/Sforzaa">斯福爾札</nuxt-link></li>
