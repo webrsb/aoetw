@@ -516,7 +516,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2725&nbsp;&nbsp;團戰2236&nbsp;&nbsp;1994年次
+                單挑2725&nbsp;&nbsp;團戰2298&nbsp;&nbsp;1994年次
               </td>
             </tr>
             <tr>
@@ -1115,7 +1115,7 @@
               </td>
             </tr>
             <tr>
-              <td style="text-align:center">單挑2468&nbsp;&nbsp;1989年次</td>
+              <td style="text-align:center">單挑2540&nbsp;&nbsp;1989年次</td>
             </tr>
             <tr>
               <td>
@@ -1802,7 +1802,7 @@
             </tr>
             <tr>
               <td style="text-align:center">
-                單挑2463&nbsp;&nbsp;團戰2246&nbsp;&nbsp;1991年次
+                單挑2516&nbsp;&nbsp;團戰2246&nbsp;&nbsp;1991年次
               </td>
             </tr>
             <tr>
