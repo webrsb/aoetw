@@ -27,14 +27,12 @@
               <nuxt-link to="/batt/William_Wallacea">威廉華勒斯</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Marching_and_Fighting">行軍與戰鬥</nuxt-link
-              >。 <nuxt-link to="/batt/Feeding_the_Army">供養軍隊</nuxt-link>。
-              <nuxt-link to="/batt/Training_the_Troops">訓練軍隊</nuxt-link>。
-              <nuxt-link to="/batt/Research_and_Technology"
-                >研發與科技</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Battle_of_Stirling">斯特林之役</nuxt-link
-              >。 <nuxt-link to="/batt/Forge_an_Alliance">締結同盟</nuxt-link>。
+              <nuxt-link to="/batt/Marching_and_Fighting">行軍與戰鬥</nuxt-link>·
+              <nuxt-link to="/batt/Feeding_the_Army">供養軍隊</nuxt-link>·
+              <nuxt-link to="/batt/Training_the_Troops">訓練軍隊</nuxt-link>·
+              <nuxt-link to="/batt/Research_and_Technology">研發與科技</nuxt-link>·
+              <nuxt-link to="/batt/The_Battle_of_Stirling">斯特林之役</nuxt-link>·
+              <nuxt-link to="/batt/Forge_an_Alliance">締結同盟</nuxt-link>·
               <nuxt-link to="/batt/The_Battle_of_Falkirk">福爾克之役</nuxt-link>
             </td>
           </tr>
@@ -43,16 +41,12 @@
               <nuxt-link to="/batt/Joan_of_Arc">聖女貞德</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/An_Unlikely_Messiah"
-                >一個不大可能的彌賽亞</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Cleansing_of_the_Loire"
-                >羅亞爾河大掃蕩</nuxt-link
-              >。 <nuxt-link to="/batt/The_Rising">叛變</nuxt-link>。
-              <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>。
-              <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>。
+              <nuxt-link to="/batt/An_Unlikely_Messiah">一個不大可能的彌賽亞</nuxt-link>·
+              <nuxt-link to="/batt/The_Maid_of_Orleans">奧爾良的少女</nuxt-link>·
+              <nuxt-link to="/batt/The_Cleansing_of_the_Loire">羅亞爾河大掃蕩</nuxt-link>·
+              <nuxt-link to="/batt/The_Rising">叛變</nuxt-link>·
+              <nuxt-link to="/batt/The_Siege_of_Paris">巴黎攻城戰</nuxt-link>·
+              <nuxt-link to="/batt/A_Perfect_Martyr">完美的烈士</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -60,15 +54,12 @@
               <nuxt-link to="/batt/Saladina">沙拉丁</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/An_Arabian_Knight">阿拉伯騎士</nuxt-link>。
-              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>。
-              <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>。
-              <nuxt-link to="/batt/The_Siege_of_Jerusalem"
-                >耶路撒冷攻城戰</nuxt-link
-              >。 <nuxt-link to="/batt/Jihad">聖戰</nuxt-link>。
-              <nuxt-link to="/batt/The_Lion_and_the_Demon"
-                >獅子與惡魔</nuxt-link
-              >
+              <nuxt-link to="/batt/An_Arabian_Knight">阿拉伯騎士</nuxt-link>·
+              <nuxt-link to="/batt/Lord_of_Arabia">阿拉伯之主</nuxt-link>·
+              <nuxt-link to="/batt/The_Horns_of_Hattin">海丁的號角</nuxt-link>·
+              <nuxt-link to="/batt/The_Siege_of_Jerusalem">耶路撒冷攻城戰</nuxt-link>·
+              <nuxt-link to="/batt/Jihad">聖戰</nuxt-link>·
+              <nuxt-link to="/batt/The_Lion_and_the_Demon">獅子與惡魔</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -76,12 +67,11 @@
               <nuxt-link to="/batt/Genghis_Khana">成吉思汗</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>。
-              <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>。
-              <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>。
-              <nuxt-link to="/batt/The_Horde_Rides_West"
-                >遊牧民族的西遷</nuxt-link
-              >。 <nuxt-link to="/batt/The_Promise">承諾</nuxt-link>。
+              <nuxt-link to="/batt/Crucible">嚴酷的考驗</nuxt-link>·
+              <nuxt-link to="/batt/A_Life_of_Revenge">復仇的人生</nuxt-link>·
+              <nuxt-link to="/batt/Into_China">進入中國</nuxt-link>·
+              <nuxt-link to="/batt/The_Horde_Rides_West">遊牧民族的西遷</nuxt-link>·
+              <nuxt-link to="/batt/The_Promise">承諾</nuxt-link>·
               <nuxt-link to="/batt/Pax_Mongolia">蒙古治下的和平</nuxt-link>
             </td>
           </tr>
@@ -90,12 +80,11 @@
               <nuxt-link to="/batt/Barbarossaa">巴巴羅薩</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</nuxt-link
-              >。 <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>。
-              <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>。
-              <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link>。
+              <nuxt-link to="/batt/Holy_Roman_Emperor">神聖羅馬皇帝</nuxt-link>·
+              <nuxt-link to="/batt/Henry_the_Lion">猛獅亨利</nuxt-link>·
+              <nuxt-link to="/batt/Pope_and_Antipope">教皇與僭稱教皇</nuxt-link>·
+              <nuxt-link to="/batt/The_Lombard_League">倫巴聯盟</nuxt-link>·
+              <nuxt-link to="/batt/Barbarossas_March">紅鬍子的行軍</nuxt-link>·
               <nuxt-link to="/batt/The_Emperor_Sleeping">沉睡的皇帝</nuxt-link>
             </td>
           </tr>
@@ -116,15 +105,11 @@
               <nuxt-link to="/batt/Attila_the_Huna">阿提拉</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>。
-              <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>。
-              <nuxt-link to="/batt/Walls_of_Constantinople"
-                >君士坦丁堡的城牆</nuxt-link
-              >。
-              <nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link
-              >。
-              <nuxt-link to="/batt/Catalaunian_Fields">卡塔隆尼亞平原</nuxt-link
-              >。
+              <nuxt-link to="/batt/Scourge_of_God">上帝之鞭</nuxt-link>·
+              <nuxt-link to="/batt/The_Great_Ride">偉大的騎士</nuxt-link>·
+              <nuxt-link to="/batt/Walls_of_Constantinople">君士坦丁堡的城牆</nuxt-link>·
+              <nuxt-link to="/batt/A_Barbarian_Betrothal">蠻族的婚約</nuxt-link>·
+              <nuxt-link to="/batt/Catalaunian_Fields">卡塔隆尼亞平原</nuxt-link>·
               <nuxt-link to="/batt/Fall_of_Rome">羅馬的衰落</nuxt-link>
             </td>
           </tr>
@@ -133,15 +118,11 @@
               <nuxt-link to="/batt/El_Cida">席德</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Enemy_of_my_Enemy"
-                >我敵人的敵人</nuxt-link
-              >。
-              <nuxt-link to="/batt/The_Exile_of_the_Cid"
-                >席德的流亡歲月</nuxt-link
-              >。 <nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link>。
-              <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之主</nuxt-link>。
+              <nuxt-link to="/batt/Brother_against_Brother">兄弟鬩牆</nuxt-link>·
+              <nuxt-link to="/batt/The_Enemy_of_my_Enemy">我敵人的敵人</nuxt-link>·
+              <nuxt-link to="/batt/The_Exile_of_the_Cid">席德的流亡歲月</nuxt-link>·
+              <nuxt-link to="/batt/Black_Guards">黑衛隊</nuxt-link>·
+              <nuxt-link to="/batt/King_of_Valencia">瓦倫西亞之主</nuxt-link>·
               <nuxt-link to="/batt/Reconquista">勘查</nuxt-link>
             </td>
           </tr>
@@ -150,11 +131,11 @@
               <nuxt-link to="/batt/Montezumaa">蒙特蘇馬</nuxt-link>
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Reign_of_Blood">血親統治</nuxt-link>。
-              <nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link>。
-              <nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link>。
-              <nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link>。
-              <nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link>。
+              <nuxt-link to="/batt/Reign_of_Blood">血親統治</nuxt-link>·
+              <nuxt-link to="/batt/The_Triple_Alliance">三國同盟</nuxt-link>·
+              <nuxt-link to="/batt/Quetzalcoatl">蛇鳥之神</nuxt-link>·
+              <nuxt-link to="/batt/La_Noche_Triste">悲傷之夜</nuxt-link>·
+              <nuxt-link to="/batt/The_Boiling_Lake">沸騰的湖</nuxt-link>·
               <nuxt-link to="/batt/Broken_Spears">斷矛</nuxt-link>
             </td>
           </tr>
@@ -165,15 +146,13 @@
               >
             </td>
             <td class="unit4">
-              <nuxt-link to="/batt/Tours_732">都爾(732)</nuxt-link>。
-              <nuxt-link to="/batt/Vindlandsaga_1000"
-                >芬特蘭撒格(1000)</nuxt-link
-              >。
-              <nuxt-link to="/batt/Hastings_1066">哈斯汀斯(1066)</nuxt-link>。
-              <nuxt-link to="/batt/Manzikert_1071">曼奇克托(1071)</nuxt-link>。
-              <nuxt-link to="/batt/Agincourt_1415">亞琴哥特(1415)</nuxt-link>。
-              <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>。
-              <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>。
+              <nuxt-link to="/batt/Tours_732">都爾(732)</nuxt-link>·
+              <nuxt-link to="/batt/Vindlandsaga_1000">芬特蘭撒格(1000)</nuxt-link>·
+              <nuxt-link to="/batt/Hastings_1066">哈斯汀斯(1066)</nuxt-link>·
+              <nuxt-link to="/batt/Manzikert_1071">曼奇克托(1071)</nuxt-link>·
+              <nuxt-link to="/batt/Agincourt_1415">亞琴哥特(1415)</nuxt-link>·
+              <nuxt-link to="/batt/Lepanto_1571">勒班陀(1571)</nuxt-link>·
+              <nuxt-link to="/batt/Kyoto_1582">京都(1582)</nuxt-link>·
               <nuxt-link to="/batt/Noryang_Point_1598">洛陽點(1598)</nuxt-link>
             </td>
           </tr>
@@ -197,7 +176,7 @@
               <nuxt-link to="/batt/All_Roads_Lead_to_a_Besieged_City">條條大路通圍城</nuxt-link>·
               <nuxt-link to="/batt/Legionaries_on_the_Horizon">羅馬軍團隨時殺到</nuxt-link>·
               <nuxt-link to="/batt/Emperor_of_the_West">西域之君</nuxt-link>·
-              <nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link>·
+              <nuxt-link to="/batt/The_Sack_of_Rome">洗劫羅馬</nuxt-link>
             </td>
           </tr>
           <tr>

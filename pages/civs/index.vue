@@ -138,12 +138,15 @@
           <tr>
             <td>
               <div class="unitcontent">
-                非洲
+                西非
                 <ul>
                   <li><nuxt-link to="/civs/Malians">馬利</nuxt-link></li>
+                </ul>
+                東非
+                <ul>
                   <li><nuxt-link to="/civs/Ethiopians">衣索比亞</nuxt-link></li>
                 </ul>
-                中東
+                北非
                 <ul>
                   <li><nuxt-link to="/civs/Berbers">柏柏</nuxt-link></li>
                 </ul>

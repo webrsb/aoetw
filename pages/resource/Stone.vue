@@ -29,7 +29,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            市場可以用<nuxt-link to="/resource/Gold">黃金</nuxt-link
+            <nuxt-link to="/building/Market">市集</nuxt-link>可以用<nuxt-link
+              to="/resource/Gold"
+              >黃金</nuxt-link
             >換取石頭，但是必須收取30％的手續費並且每次買完後，價格都會調漲，但可以利用行會<nuxt-link
               to="/techs"
               >科技</nuxt-link

@@ -295,9 +295,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Battles_of_the_Conquerors"
-                >征服者戰役</nuxt-link
-              >第三章第五
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第三章第五
             </td>
           </tr>
           <tr>

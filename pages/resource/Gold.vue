@@ -53,7 +53,9 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            市場可以出售<nuxt-link to="/resource/Wood">木頭</nuxt-link
+            <nuxt-link to="/building/Market">市集</nuxt-link>可以出售<nuxt-link
+              to="/resource/Wood"
+              >木頭</nuxt-link
             >、<nuxt-link to="/resource/Food">食物</nuxt-link>或是<nuxt-link
               to="/resource/Stone"
               >石頭</nuxt-link

@@ -21,7 +21,7 @@
               <nuxt-link to="/armor/Armor_Class_Camel">駱駝</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_War_Elephant">戰象</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Gunpowder_Unit">火藥單位</nuxt-link>·
-              <nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link>·<br />
+              <nuxt-link to="/armor/Armor_Class_Siege_Weapon">攻城武器</nuxt-link><br />
               <nuxt-link to="/armor/Armor_Class_Ram">衝撞車</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Monk">僧侶</nuxt-link>·
               <nuxt-link to="/armor/Armor_Class_Ship">船</nuxt-link>·

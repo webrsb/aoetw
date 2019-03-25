@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row padtop">
       <div class="col-md-12">
-        <h1><我敵人的敵人</h1>
+        <h1>我敵人的敵人</h1>
         <div class="hrn1"></div>
       </div>
       <div class="col-md-8">
@@ -204,8 +204,8 @@
             <li>
               當你準備入侵時，使用<nuxt-link to="/units/Siege_Weapons"
                 >攻城器</nuxt-link
-              >具（無法使用巨型<nuxt-link to="/units/Mangonel">投石車</nuxt-link
-              >）和騎士摧毀防禦性<nuxt-link to="/building">建築</nuxt-link
+              >具（無法使用巨型投石機）和騎士摧毀防禦性<nuxt-link to="/building"
+                >建築</nuxt-link
               >和軍事建築，再用少部分騎士作為掩護讓僧侶可以拿到城內的三個遺跡（城堡後方除外），拿完三個後可以派遣4名僧侶
               + 熙德去到城堡附近，其中3名僧侶幫熙德補血，另一隻進去裡面拿。
             </li>
@@ -311,9 +311,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Battles_of_the_Conquerors"
-                >征服者戰役</nuxt-link
-              >第二章之二
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第二章之二
             </td>
           </tr>
           <tr>

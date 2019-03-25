@@ -41,7 +41,7 @@
               <nuxt-link to="/units/hero/Genghis_Khan">成吉思汗</nuxt-link>·
               <nuxt-link to="/units/hero/God_s_Own_Sling">神之弓</nuxt-link>·
               <nuxt-link to="/units/hero/Guy_Josselyne">蓋佐斯爾立</nuxt-link>·
-              <nuxt-link to="/units/hero/Harold_Haardraade">哈拉爾-哈德拉達</nuxt-link>·
+              <nuxt-link to="/units/hero/Harold_Haardraade">哈拉爾·哈德拉達</nuxt-link>·
               <nuxt-link to="/units/hero/Hrolf_the_Ganger">首領荷夫</nuxt-link>·
               <nuxt-link to="/units/hero/Hunting_Wolf">獵狼</nuxt-link>·
               <nuxt-link to="/units/hero/Jean_Bureau">約翰布荷</nuxt-link>·

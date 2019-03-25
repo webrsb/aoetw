@@ -57,10 +57,10 @@
             <td class="unit3">
               <nuxt-link to="/techs/Redemption">信仰救贖</nuxt-link>·
               <nuxt-link to="/techs/Atonement">贖罪</nuxt-link>·
-              <nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link>·<br />
+              <nuxt-link to="/techs/Herbal_Medicine">草藥學</nuxt-link><br />
               <nuxt-link to="/techs/Heresy">異端邪說</nuxt-link>·
               <nuxt-link to="/techs/Sanctity">聖潔虔誠</nuxt-link>·
-              <nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link>·<br />
+              <nuxt-link to="/techs/Fervor">宗教狂熱</nuxt-link><br />
               <nuxt-link to="/techs/Faith">忠誠信仰</nuxt-link>·
               <nuxt-link to="/techs/Illumination">啟發教化</nuxt-link>·
               <nuxt-link to="/techs/Block_Printing">雕版印刷術</nuxt-link>·
@@ -84,10 +84,8 @@
               <nuxt-link to="/building/Castle">城堡</nuxt-link>
             </td>
             <td class="unit3">
-              <nuxt-link to="/techs/Spies">間諜</nuxt-link>/<nuxt-link
-                to="/techs/Spies"
-                >叛徒</nuxt-link
-              >。 <nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>·
+              <nuxt-link to="/techs/Spies">間諜/叛徒</nuxt-link>·
+              <nuxt-link to="/techs/Hoardings">外架式柵樓</nuxt-link>·
               <nuxt-link to="/techs/Sappers">坑道工兵</nuxt-link>·
               <nuxt-link to="/techs/Conscription">徵兵制度</nuxt-link>
             </td>
@@ -113,14 +111,14 @@
               <nuxt-link to="/techs/Ballistics">彈道學</nuxt-link>·
               <nuxt-link to="/building/Guard_Tower">防禦箭塔</nuxt-link>·
               <nuxt-link to="/techs/Heated_Shot">預熱射擊</nuxt-link>·
-              <nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link>·<br />
+              <nuxt-link to="/techs/Murder_Holes">垛孔</nuxt-link><br />
               <nuxt-link to="/techs/Treadmill_Crane">滑輪起重機</nuxt-link>·
               <nuxt-link to="/techs/Architecture">建築學</nuxt-link>·
               <nuxt-link to="/techs/Chemistry">化學</nuxt-link>·
               <nuxt-link to="/techs/Siege_Engineers">攻城工程師</nuxt-link>·
               <nuxt-link to="/building/Keep">大型箭塔</nuxt-link>·
               <nuxt-link to="/techs/Arrowslits">箭狹槽</nuxt-link>·
-              <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>·
+              <nuxt-link to="/building/Bombard_Tower">火炮塔</nuxt-link>
             </td>
           </tr>
           <tr>
@@ -154,7 +152,7 @@
             </td>
             <td class="unit3">
               <nuxt-link to="/techs/Gold_Mining">採金技術</nuxt-link>·
-              <nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link>·<br />
+              <nuxt-link to="/techs/Stone_Mining">採石技術</nuxt-link><br />
               <nuxt-link to="/techs/Gold_Shaft_Mining">礦井採金</nuxt-link>·
               <nuxt-link to="/techs/Stone_Shaft_Mining">礦井採石</nuxt-link>
             </td>
@@ -185,7 +183,7 @@
               <br />(城堡/帝王)
             </td>
             <td class="unit3">
-              <div class="col-md-12">
+              <div class="row">
                 <div class="col-md-4">
                   <nuxt-link to="/techs/Atlatl">擲矛器</nuxt-link>/
                   <nuxt-link to="/techs/Garland_Wars">榮冠戰爭</nuxt-link>

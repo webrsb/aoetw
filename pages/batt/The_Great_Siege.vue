@@ -179,7 +179,8 @@
                   >），
                 </li>
                 <li>
-                  瓦蘭吉衛隊（斧<nuxt-link to="/units/Spearman">槍兵</nuxt-link
+                  瓦蘭吉衛隊（<nuxt-link to="/units/Halberdier"
+                    >斧槍兵</nuxt-link
                   >），弩兵，精英<nuxt-link to="/units/Elite_Skirmisher"
                     >戰矛兵</nuxt-link
                   >，<nuxt-link to="/units/Light_Cavalry">輕騎兵</nuxt-link

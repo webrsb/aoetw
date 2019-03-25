@@ -28,7 +28,10 @@
               >招降</nuxt-link
             >且會<nuxt-link to="/elements/Regeneration">回血</nuxt-link
             >(在<nuxt-link to="/games/aoc">征服者</nuxt-link
-            >資料片後)。熙德在戰役的後段會更名為羅德里高·迪亞茲·熙德並騎者馬，當然他們在戰役中都一定要生存下來。
+            >資料片後)。熙德在戰役的後段會更名為<nuxt-link
+              to="/units/hero/El_Cid_Campeador"
+              >羅德里高·迪亞茲·熙德</nuxt-link
+            >並騎者馬，當然他們在戰役中都一定要生存下來。
           </p>
           <p></p>
         </div>

@@ -199,7 +199,7 @@
               >後，可以向外擴張，由於城外馬上就有一座城堡，還有上方的<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城器</nuxt-link
-              >具，是初期對城內有較大威脅的兩個地方要特別注意。
+              >，是初期對城內有較大威脅的兩個地方要特別注意。
             </li>
             <li>
               當你戰勝黑衛陸軍後，可以開始建造海軍由火砲戰船再加上幾艘戰艦，將海上的防禦塔先行拔掉以防在載送軍隊途中有誤。
@@ -289,9 +289,7 @@
           <tr>
             <td class="unit3">章節</td>
             <td class="unit4">
-              <nuxt-link to="/batt/Battles_of_the_Conquerors"
-                >征服者戰役</nuxt-link
-              >第二章之六
+              <nuxt-link to="/games/aoc">征服者入侵</nuxt-link>第二章之六
             </td>
           </tr>
           <tr>
