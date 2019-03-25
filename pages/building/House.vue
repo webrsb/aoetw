@@ -526,7 +526,7 @@
           </tr>
           <tr>
             <td class="unit3">視野</td>
-            <td class="unit4">2</td>
+            <td class="unit4">1</td>
           </tr>
         </table>
 
