@@ -430,8 +430,7 @@
                   class="gg"
                   src="~assets/CaravelIcon2.jpg"
                   alt=""
-                /><nuxt-link to="/units/Elite_Caravel"
-                  >精銳卡拉維爾戰船</nuxt-link
+                /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                 >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
               </li>
             </ul>
@@ -455,8 +454,7 @@
                   class="gg"
                   src="~assets/LongboatIcon.jpg"
                   alt=""
-                /><nuxt-link to="/units/Elite_Longboat"
-                  >精銳維京大戰船</nuxt-link
+                /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                 >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
               </li>
               <li>

@@ -70,12 +70,8 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">可訓練</span></strong
+                <b
+                  ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Chinese">中國</nuxt-link>、
@@ -105,12 +101,9 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">不可研發</span></strong
+                <b
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
+                  >不可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -588,7 +581,9 @@
           <ul>
             <li>
               以前<nuxt-link to="/games/aoc">征服者入侵</nuxt-link
-              >的中文版本，把弩砲直接翻譯成蠍子。
+              >的中文版本，把弩砲在<nuxt-link to="/techs/Rocketry"
+                >火箭術</nuxt-link
+              >的描述直接翻譯成蠍子。
             </li>
             <li>
               弩砲是遊戲中唯一只有一次升級的<nuxt-link to="/units/Siege_Weapons"

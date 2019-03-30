@@ -24,8 +24,7 @@
               >帝王時代</nuxt-link
             >可以直接升為
             <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
-            在升級為<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link
-            >前，鷹斥侯相對不實用，且生產的非常慢，但到了
+            在升級為鷹勇士前，鷹斥侯相對不實用，且生產的非常慢，但到了
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >，他將一躍而成一種超op兵種。 到了《世紀帝國II:<nuxt-link
               to="/games/aof"
@@ -33,7 +32,7 @@
             >》，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >便可以生產鷹斥侯，到了
             <nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
-            >可以升為<nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>。
+            >可以升為鷹勇士。
           </p>
         </div>
         <h3>戰術</h3>
@@ -238,7 +237,7 @@
           </tr>
         </table>
 
-        <h3>剋鷹勇士的單位</h3>
+        <h3>剋鷹斥候的單位</h3>
         <div class="hrn1"></div>
         <div class="n1">
           以下單位擁有對<nuxt-link to="/armor/Armor_Class_Eagle_Warrior"
@@ -514,7 +513,7 @@
         <div class="n1">
           <ul>
             <li>
-              鷹勇士是最貴的黃金<nuxt-link to="/units/Infantry_Units"
+              鷹勇士系是最貴的黃金<nuxt-link to="/units/Infantry_Units"
                 >步兵單位</nuxt-link
               >，但也是最便宜的食物步兵單位。
             </li>
@@ -522,7 +521,7 @@
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Eagleline.png" alt=""

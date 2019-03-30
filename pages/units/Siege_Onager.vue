@@ -23,12 +23,8 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">可訓練</span></strong
+                <b
+                  ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -47,12 +43,9 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">不可訓練</span></strong
+                <b
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
+                  >不可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -84,23 +77,18 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >是一個非常難纏的軍事單位，面對大量的<nuxt-link
-              to="/units/Siege_Onager"
-              >重型投石車</nuxt-link
-            >，沒有大量的高機動性兼具高<nuxt-link to="/elements/Hit_points"
+            重型投石車是一個非常難纏的軍事單位，面對大量的重型投石車，沒有大量的高機動性兼具高<nuxt-link
+              to="/elements/Hit_points"
               >血量</nuxt-link
-            >的軍事單位協助幾乎不太可能去拆除，當
-            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >海起來，一般的軍事單位是無法靠近的。當然<nuxt-link
+            >的軍事單位協助幾乎不太可能去拆除，當重型投石車海起來，一般的軍事單位是無法靠近的。當然<nuxt-link
               to="/units/Bombard_Cannon"
               >火砲</nuxt-link
             >絕對是<nuxt-link to="/units/Mangonel">投石車</nuxt-link>的天敵。
           </p>
           <p>
             在<nuxt-link to="/techs/age/Imperial_Age">帝王時代</nuxt-link
-            >中期，<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >的殺傷力將會是所有<nuxt-link to="/units/Archer_Units"
+            >中期，重型投石車的殺傷力將會是所有<nuxt-link
+              to="/units/Archer_Units"
               >弓兵系</nuxt-link
             >單位的惡夢，雖然
             <nuxt-link to="/units/Mangudai">蒙古突騎</nuxt-link>與<nuxt-link
@@ -111,25 +99,16 @@
             >單位有額外的加成效果，但只要稍有個控兵失誤，軍隊都可能在轉眼間葬送在花火之中。
           </p>
           <p>
-            對付成群的<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >，移動快速的<nuxt-link to="/units/Elite_Eagle_Warrior"
+            對付成群的重型投石車，移動快速的<nuxt-link
+              to="/units/Elite_Eagle_Warrior"
               >精銳鷹勇士</nuxt-link
             >或者大量的
             <nuxt-link to="/units/Paladin">遊俠</nuxt-link
-            >會是個不錯的選擇，也有不少玩家會選擇用<nuxt-link
-              to="/units/Siege_Onager"
-              >重型投石車</nuxt-link
-            >與<nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >對丟，運氣好可能會一臺換對方2~3臺，<nuxt-link
+            >會是個不錯的選擇，也有不少玩家會選擇用重型投石車與重型投石車對丟，運氣好可能會一臺換對方2~3臺，<nuxt-link
               to="/elements/Garrison"
               >駐軍</nuxt-link
             >滿載的<nuxt-link to="/units/Battering_Ram">衝撞車</nuxt-link
-            >也是一種破解的方法，若敵方已經將
-            <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link
-            >累積到一個數量時，拉長戰線，在適當的時間點給予致命的一擊才是求勝之道，千萬別硬碰硬去拆海量的<nuxt-link
-              to="/units/Siege_Onager"
-              >重型投石車</nuxt-link
-            >，通常是討不到便宜的。
+            >也是一種破解的方法，若敵方已經將重型投石車累積到一個數量時，拉長戰線，在適當的時間點給予致命的一擊才是求勝之道，千萬別硬碰硬去拆海量的重型投石車，通常是討不到便宜的。
           </p>
         </div>
         <h3>更多數據</h3>
@@ -267,9 +246,7 @@
         <h3>剋重型投石車的單位與建築</h3>
         <div class="hrn1"></div>
         <div class="n1 bonuses">
-          以下單位擁有對<nuxt-link to="/units/Siege_Onager"
-            >重型投石車</nuxt-link
-          >的額外傷害，按造傷殺力排列。
+          以下單位擁有對重型投石車的額外傷害，按造傷殺力排列。
           <div class="n1">
             <div class="row">
               <div class="col-md-6">
@@ -360,7 +337,7 @@
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
+                    />重型投石車
                   </li>
                 </ul>
                 <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
@@ -584,8 +561,7 @@
           <div class="hrn1"></div>
           <div class="n1">
             <p>
-              <nuxt-link to="/units/Trebuchet">投石機</nuxt-link>或稱拋石機、「
-              回回炮」,砲或炮，是遠古時代與中古時代出現的<nuxt-link
+              投石機或稱拋石機、「回回炮」,砲或炮，是遠古時代與中古時代出現的<nuxt-link
                 to="/units/Siege_Weapons"
                 >攻城武器</nuxt-link
               >，可把石彈、巨石或爆裂物投到敵方的<nuxt-link

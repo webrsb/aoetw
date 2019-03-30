@@ -20,9 +20,7 @@
           <p>
             維京大戰船可在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級為<nuxt-link to="/units/Elite_Longboat"
-              >精銳維京大戰船</nuxt-link
-            >。
+            >升級為<nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link>。
           </p>
         </div>
         <h3>戰術</h3>
@@ -332,8 +330,7 @@
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -440,8 +437,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -714,16 +710,14 @@
               /></gallery>
               <p><em>維京大戰船的畫。</em></p>
             </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    src="~assets/The_long_boat_Wallpaper_rrpb2.jpg"
-                    alt=""
-                /></gallery>
-                <p><em>維京大戰船的畫。</em></p>
-              </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/The_long_boat_Wallpaper_rrpb2.jpg"
+                  alt=""
+              /></gallery>
+              <p><em>維京大戰船的畫。</em></p>
             </div>
           </div>
         </div>

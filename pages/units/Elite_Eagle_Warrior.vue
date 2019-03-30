@@ -538,7 +538,7 @@
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Eagleline.png" alt=""
@@ -551,9 +551,9 @@
             /></gallery>
             <p>
               <em
-                >一群精銳鷹勇士(<nuxt-link to="/games/aoc"
-                  >《世紀帝國II:征服者入侵》</nuxt-link
-                >資料片)</em
+                >一群精銳鷹勇士(《<nuxt-link to="/games/aoc"
+                  >世紀帝國II:征服者入侵</nuxt-link
+                >》資料片)</em
               >
             </p>
           </div>
@@ -563,8 +563,8 @@
             /></gallery>
             <p>
               <em
-                >一群精銳鷹勇士(《世紀帝國II:<nuxt-link to="/games/aof"
-                  >失落的帝國</nuxt-link
+                >一群精銳鷹勇士(《<nuxt-link to="/games/aof"
+                  >世紀帝國II:失落的帝國</nuxt-link
                 >》資料片)</em
               >
             </p>

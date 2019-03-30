@@ -61,12 +61,8 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">可訓練</span></strong
+                <b
+                  ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -96,12 +92,9 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">不可訓練</span></strong
+                <b
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
+                  >不可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -281,8 +274,7 @@
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -383,8 +375,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -695,16 +686,14 @@
                 >
               </p>
             </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img
-                    class="imgn hg"
-                    src="~assets/HDemolitionShipDLC.png"
-                    alt=""
-                /></gallery>
-                <p><em>各種重型神風船(HD擴充資料片)。</em></p>
-              </div>
+            <div class="col-md-4">
+              <gallery
+                ><img
+                  class="imgn hg"
+                  src="~assets/HDemolitionShipDLC.png"
+                  alt=""
+              /></gallery>
+              <p><em>各種重型神風船(HD擴充資料片)。</em></p>
             </div>
           </div>
         </div>

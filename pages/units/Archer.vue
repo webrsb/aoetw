@@ -599,21 +599,18 @@
         <div class="n1">
           <p>
             “弓在羅馬淪陷後依然是重要的軍事武器，但在被茂密森林覆蓋的歐洲地區則不然。弓箭手可以從遠處，從牆壁或其他掩體後面，以及在叢林中作戰。
-            他們通常在襲擊的戰鬥中不具決定性，因為他們無法像<nuxt-link
-              to="/units/Infantry_Units"
-              >步兵</nuxt-link
-            >那樣直接擊倒敵人。他們主要擔任防禦部隊或是在軍隊交鋒時能破壞敵方陣型的輕裝部隊。如果在衝突發生之前，弓兵能造成敵人傷亡並消耗對方的精力，那麼友軍就更有可能擊倒敵人並獲得勝利。在守衛和攻擊城堡時，弓箭手也非常有用“
+            他們通常在襲擊的戰鬥中不具決定性，因為他們無法像步兵那樣直接擊倒敵人。他們主要擔任防禦部隊或是在軍隊交鋒時能破壞敵方陣型的輕裝部隊。如果在衝突發生之前，弓兵能造成敵人傷亡並消耗對方的精力，那麼友軍就更有可能擊倒敵人並獲得勝利。在守衛和攻擊城堡時，弓箭手也非常有用“
           </p>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Archerline.png" alt=""
             /></gallery>
             <p>
-              <em><nuxt-link to="/units/Archer_Units">弓兵系</nuxt-link></em>
+              <em>弓兵系</em>
             </p>
           </div>
           <div class="col-md-4">

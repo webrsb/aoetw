@@ -37,7 +37,7 @@
                 class="gg"
                 src="~assets/TurtleShipIcon.jpg"
                 alt=""
-              /><nuxt-link to="/units/Elite_Turtle_Ship">精銳龜甲船</nuxt-link
+              /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link
               >(1)(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
             </li>
           </ul>

@@ -304,7 +304,7 @@
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                      to="/units/Elite_Longboat"
+                      to="/units/Longboat"
                       >精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
@@ -406,8 +406,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -780,13 +779,11 @@
                 >
               </p>
             </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/WarGalleyDLC.jpg" alt=""
-                /></gallery>
-                <p><em>各種弩砲戰船(HD擴充資料片)。</em></p>
-              </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/WarGalleyDLC.jpg" alt=""
+              /></gallery>
+              <p><em>各種弩砲戰船(HD擴充資料片)。</em></p>
             </div>
           </div>
         </div>

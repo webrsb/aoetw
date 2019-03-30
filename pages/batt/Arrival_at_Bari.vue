@@ -103,9 +103,7 @@
               >、1台<nuxt-link to="/units/Siege_Ram">重型衝撞車</nuxt-link
               >、10艘<nuxt-link to="/units/Galley">戰船</nuxt-link
               >、5艘<nuxt-link to="/units/Fire_Ship">火戰船</nuxt-link
-              >、5艘<nuxt-link to="/units/Elite_Longboat"
-                >精銳維京大戰船</nuxt-link
-              >。
+              >、5艘<nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link>。
             </dd>
           </dl>
           <h2>主要任務</h2>

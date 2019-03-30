@@ -117,7 +117,7 @@
                 to="/units/Longboat"
                 >維京大戰船</nuxt-link
               >→ <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                to="/units/Elite_Longboat"
+                to="/units/Longboat"
                 >精銳維京大戰船</nuxt-link
               >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
             </li>
@@ -126,7 +126,7 @@
                 to="/units/Turtle_Ship"
                 >龜甲船</nuxt-link
               >(8)→ <img src="~assets/TurtleShipIcon.jpg" alt="" /><nuxt-link
-                to="/units/Elite_Turtle_Ship"
+                to="/units/Turtle_Ship"
                 >精銳龜甲船</nuxt-link
               >(11)(<nuxt-link to="/civs/Koreans">韓國</nuxt-link>限定)
             </li>
@@ -135,7 +135,7 @@
                 to="/units/Caravel"
                 >卡拉維爾戰船</nuxt-link
               >→ <img src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
-                to="/units/Elite_Caravel"
+                to="/units/Caravel"
                 >精銳卡拉維爾戰船</nuxt-link
               >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
             </li>
@@ -196,7 +196,7 @@
                   </li>
                   <li>
                     <img src="~assets/LongboatIcon.jpg" alt="" /><nuxt-link
-                      to="/units/Elite_Longboat"
+                      to="/units/Longboat"
                       >精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
@@ -298,8 +298,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>

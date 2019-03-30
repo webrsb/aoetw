@@ -31,9 +31,7 @@
           <p>
             儘管快速火戰船在與<nuxt-link to="/units/Galleon"
               >重型弩砲戰船</nuxt-link
-            >的對抗中表現更好，但是<nuxt-link to="/units/Galleon"
-              >重型弩砲戰船</nuxt-link
-            >的低成本和長射程，可以增加偵察的安全性和降低成本在大規模的對抗中，重型弩砲戰船可以輕易地運用長射程擊敗一群快速火戰船，但是如果得到其他<nuxt-link
+            >的對抗中表現更好，但是重型弩砲戰船的低成本和長射程，可以增加偵察的安全性和降低成本在大規模的對抗中，重型弩砲戰船可以輕易地運用長射程擊敗一群快速火戰船，但是如果得到其他<nuxt-link
               to="/units/Naval_Vessels"
               >海軍</nuxt-link
             >的適當支援，一支重型火戰船可以輕易地將一群重型弩砲戰船擊沉。快速火戰船在面對<nuxt-link
@@ -49,12 +47,8 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">可訓練</span></strong
+                <b
+                  ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -85,12 +79,9 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">不可訓練</span></strong
+                <b
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
+                  >不可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Burmese">緬甸</nuxt-link>、
@@ -282,8 +273,7 @@
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -384,8 +374,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>

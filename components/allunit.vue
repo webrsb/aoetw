@@ -29,7 +29,7 @@
               <nuxt-link to="/units/Man-at-Arms">裝甲步兵</nuxt-link>·
               <nuxt-link to="/units/Long_Swordsman">長劍兵</nuxt-link>·
               <nuxt-link to="/units/Two-Handed_Swordsman">雙手劍兵</nuxt-link>·
-              <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>·
+              <nuxt-link to="/units/Champion">劍兵勇士</nuxt-link>
               <br />
               <nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link>·
               <nuxt-link to="/units/Eagle_Warrior">鷹勇士</nuxt-link>·
@@ -48,8 +48,8 @@
               <nuxt-link to="/units/Archer">弓兵</nuxt-link>·
               <nuxt-link to="/units/Crossbowman">弩兵</nuxt-link>·
               <nuxt-link to="/units/Arbalest">強弩兵</nuxt-link><br />
-              <nuxt-link to="/units/Skirmisher">矛兵</nuxt-link>·
-              <nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link>·
+              <nuxt-link to="/units/Skirmisher">戰矛兵</nuxt-link>·
+              <nuxt-link to="/units/Elite_Skirmisher">精銳戰矛兵</nuxt-link>·
               <nuxt-link to="/units/Imperial_Skirmisher">帝王戰矛兵</nuxt-link>
               <br />
               <nuxt-link to="/units/Cavalry_Archer">馬弓騎兵</nuxt-link>·
@@ -91,13 +91,13 @@
               <br />
               <nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>·
               <nuxt-link to="/units/Onager">中型投石車</nuxt-link>·
-              <nuxt-link to="/units/Siege_Ram">重型投石車</nuxt-link>
+              <nuxt-link to="/units/Siege_Onager">重型投石車</nuxt-link>
               <br />
               <nuxt-link to="/units/Scorpion">弩砲</nuxt-link>·
               <nuxt-link to="/units/Heavy_Scorpion">重型弩砲</nuxt-link>
               <br />
               <nuxt-link to="/units/Bombard_Cannon">火砲</nuxt-link>·
-              <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>·
+              <nuxt-link to="/units/Siege_Tower">攻城塔</nuxt-link>
               <br />
               <nuxt-link to="/units/Petard">爆炸桶</nuxt-link>
             </td>

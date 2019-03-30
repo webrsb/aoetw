@@ -22,9 +22,8 @@
               >擴散傷害</nuxt-link
             >使它成為一個強大的單位，特別是對<nuxt-link to="/units/Archer_Units"
               >徒步弓箭手</nuxt-link
-            >和緩慢移動的單位。
-            <nuxt-link to="/units/Onager">中型投石車</nuxt-link>還
-            可以攻擊地面並砍除樹木，在<nuxt-link to="/maps/Black_Forest"
+            >和緩慢移動的單位。中型投石車還可以攻擊地面並砍除樹木，在<nuxt-link
+              to="/maps/Black_Forest"
               >黑森林</nuxt-link
             >或樹木過多的封閉地形，它的價值顯得額外重要，除了<nuxt-link
               to="/civs/Huns"
@@ -35,13 +34,11 @@
               >文明</nuxt-link
             >都可以透過<nuxt-link to="/building/Siege_Workshop"
               >攻城器製造所</nuxt-link
-            >將<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link>升級成
-            <nuxt-link to="/units/Onager">中型投石車</nuxt-link>。
+            >將<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
+            >升級成中型投石車。
           </p>
           <p>
-            <nuxt-link to="/units/Onager">中型投石車</nuxt-link>與<nuxt-link
-              to="/units/Mangonel"
-              >輕型投石車</nuxt-link
+            中型投石車與<nuxt-link to="/units/Mangonel">輕型投石車</nuxt-link
             >最大的不同除了攻擊<nuxt-link to="/elements/Hit_points"
               >血量</nuxt-link
             >提高外，最具威脅性的是其射程+1，來到了8，讓<nuxt-link
@@ -59,17 +56,14 @@
         <div class="hrn1"></div>
         <div class="n1">
           <p>
-            如果是樹林過多的擁擠地形，可以突顯<nuxt-link to="/units/Onager"
-              >中型投石車</nuxt-link
-            >的重要性，因為它可以有效的將樹林拆除，方便友軍在最短時間內殺入敵軍基地，同時
-            <nuxt-link to="/units/Onager">中型投石車</nuxt-link
-            >也是廉價兵種(<nuxt-link to="/units/Halberdier">戟兵</nuxt-link
+            如果是樹林過多的擁擠地形，可以突顯中型投石車的重要性，因為它可以有效的將樹林拆除，方便友軍在最短時間內殺入敵軍基地，同時中型投石車也是廉價兵種(<nuxt-link
+              to="/units/Halberdier"
+              >戟兵</nuxt-link
             >、<nuxt-link to="/units/Elite_Skirmisher">戰矛兵</nuxt-link
             >)的殺手。
           </p>
           <p>
-            喜好<nuxt-link to="/units/Onager">中型投石車</nuxt-link
-            >的玩家，應該會很喜歡使用<nuxt-link to="/civs/Koreans"
+            喜好中型投石車的玩家，應該會很喜歡使用<nuxt-link to="/civs/Koreans"
               >韓國</nuxt-link
             >文明，因為<nuxt-link to="/techs/untech">特殊科技</nuxt-link>
             <nuxt-link to="/techs/Shinkichon">神機箭</nuxt-link
@@ -78,8 +72,7 @@
             >文明結為同盟，可以降低已方的投石車最短射程限制。
           </p>
           <p>
-            雖然<nuxt-link to="/units/Onager">中型投石車</nuxt-link
-            >是個傷害很高的單位，但砲彈是不長眼的，若操作不當，其<nuxt-link
+            雖然中型投石車是個傷害很高的單位，但砲彈是不長眼的，若操作不當，其<nuxt-link
               to="/elements/Area_of_Effect"
               >擴散傷害</nuxt-link
             >的特性，也許會將敵方與已方的軍隊一同化為塵土，玉石俱焚。
@@ -300,7 +293,7 @@
                       class="gg"
                       src="~assets/OnagerIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Onager">中型投石車</nuxt-link>→
+                    />中型投石車→
                     <img
                       class="gg"
                       src="~assets/SiegeOnagerIcon.jpg"

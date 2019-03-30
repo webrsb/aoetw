@@ -308,8 +308,7 @@
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -410,8 +409,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -728,17 +726,9 @@
         <h3>歷史</h3>
         <div class="hrn1"></div>
         <div class="n1">
-          <div class="ien">
-            <p>
-              重型弩砲戰船是一艘用於戰爭的帆船，是在西方事件使用大砲之前使用過最大的戰鬥船。這艘龐大而堅固的艦載有大批戰鬥人員，可能還有一些較重的攻城<nuxt-link
-                to="/units/Bombard_Cannon"
-                >火砲</nuxt-link
-              >。船員會試圖在戰鬥中登上敵方船隻並試圖奪取該船艦。<nuxt-link
-                to="/techs/Kataparuto"
-                >彈射器</nuxt-link
-              >或弩弓提供額外的火力。
-            </p>
-          </div>
+          <p>
+            重型弩砲戰船是一艘用於戰爭的帆船，是在西方事件使用大砲之前使用過最大的戰鬥船。這艘龐大而堅固的艦載有大批戰鬥人員，可能還有一些較重的攻城火砲。船員會試圖在戰鬥中登上敵方船隻並試圖奪取該船艦。彈射器或弩弓提供額外的火力。
+          </p>
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>

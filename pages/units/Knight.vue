@@ -20,14 +20,13 @@
             >較劣勢。
           </p>
           <p>
-            <strong> 不可生產<nuxt-link to="/civs">文明</nuxt-link>:</strong>
-            <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
+            除了<nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、<nuxt-link
               to="/civs/Incas"
               >印加</nuxt-link
-            >、 <nuxt-link to="/civs/Mayans">馬雅</nuxt-link>、<nuxt-link
-              to="/civs/Indians"
-              >印度</nuxt-link
-            >。
+            >與<nuxt-link to="/civs/Mayans">馬雅</nuxt-link>外，所以<nuxt-link
+              to="/civs"
+              >文明</nuxt-link
+            >都可以使用。
           </p>
         </div>
         <h3>戰術</h3>

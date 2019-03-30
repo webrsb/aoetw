@@ -27,12 +27,8 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-ok okc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">可訓練</span></strong
+                <b
+                  ><i class="fas fa-check" style="color: green;"></i>可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Berbers">柏柏</nuxt-link>、
@@ -58,12 +54,9 @@
           <div class="col-md-12">
             <div class="n1">
               <h4>
-                <strong
-                  ><span
-                    class="glyphicon glyphicon-remove noc"
-                    aria-hidden="true"
-                  ></span
-                  ><span style="margin-left: 2px;">不可訓練</span></strong
+                <b
+                  ><i class="fas fa-times" style="color: #d9534f;"></i
+                  >不可訓練：</b
                 >
               </h4>
               <nuxt-link to="/civs/Aztecs">阿茲特克</nuxt-link>、
@@ -503,7 +496,7 @@
         </div>
         <h3>圖庫</h3>
         <div class="hrn1"></div>
-        <div class="n1">
+        <div class="row">
           <div class="col-md-4">
             <gallery
               ><img class="imgn hg" src="~assets/Handcannoneer.png" alt=""
@@ -670,7 +663,7 @@
             </td>
           </tr>
           <tr>
-            <td class="unit3">所需要的科技</td>
+            <td class="unit3">需要</td>
             <td class="unit4">
               <img class="gg" src="~assets/Chemistry.jpg" alt="" /><nuxt-link
                 to="/techs/Chemistry"

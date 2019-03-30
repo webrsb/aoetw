@@ -20,13 +20,8 @@
             ><nuxt-link to="/elements/Conversion">招降</nuxt-link>。
           </p>
           <p>
-            <strong
-              ><span
-                style="margin-right: 5px;"
-                class="glyphicon glyphicon-ok okc"
-                aria-hidden="true"
-              ></span
-              >可生產文明：</strong
+            <b
+              ><i class="fas fa-check" style="color: green;"></i>可訓練文明：</b
             >
             <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
               to="/civs/Vietnamese"

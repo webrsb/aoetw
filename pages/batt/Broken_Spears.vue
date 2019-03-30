@@ -78,9 +78,7 @@
                     src="~assets/TurtleShipIcon.jpg"
                     class="gg"
                     alt=""
-                  /><nuxt-link to="/units/Elite_Turtle_Ship"
-                    >精銳龜甲船</nuxt-link
-                  >3個
+                  /><nuxt-link to="/units/Turtle_Ship">精銳龜甲船</nuxt-link>3個
                 </li>
               </ul>
             </li>

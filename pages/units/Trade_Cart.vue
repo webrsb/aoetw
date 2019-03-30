@@ -8,9 +8,8 @@
       <div class="col-md-8">
         <div class="n1">
           <p>
-            <b>貿易車隊</b>於
-            <nuxt-link to="/building/Market">市集</nuxt-link>訓練，在
-            <nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
+            <b>貿易車隊</b>於<nuxt-link to="/building/Market">市集</nuxt-link
+            >訓練，在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >就可以生產。
           </p>
           <p>
@@ -31,25 +30,20 @@
             在地圖上的黃金礦是相當有限的，在遊戲中後期時貿易是取得黃金的一項重要來源，所以請保護好自己的貿易路線，以防成為敵方的主要攻擊目標。在大後期決戰中，往往決定勝負的關鍵都在於貿易車隊有無安全的運行。
           </p>
           <h3>貿易的時機</h3>
-          <p>
+          <div class="hrn1"></div>
+          <div class="n1">
             通常實戰中，點下帝王的瞬間就會開始著手貿易車隊的運行，如太早進行貿易則會損害經濟，無法抵禦對手，而太晚貿易則會缺乏黃金。
-          </p>
-        </div>
-        <h3></h3>
-        <div class="hrn1"></div>
-        <div class="n1"></div>
-        <h3></h3>
-        <div class="hrn1"></div>
-        <div class="n1"></div>
-        <h3>團隊加分</h3>
-        <div class="hrn1"></div>
-        <div class="n1">
-          <ul>
-            <li>
-              <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
-              >：貿易單位所獲取的黃金單位增加25%。
-            </li>
-          </ul>
+          </div>
+          <h3>團隊加分</h3>
+          <div class="hrn1"></div>
+          <div class="n1">
+            <ul>
+              <li>
+                <nuxt-link to="/civs/Spanish">西班牙</nuxt-link
+                >：貿易單位所獲取的黃金單位增加25%。
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
       <div class="col-md-4">

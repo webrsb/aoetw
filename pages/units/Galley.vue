@@ -25,7 +25,6 @@
           <p>
             雖然戰船是一個相對弱小的海上單位，但是它如果數量夠多也能對敵人造成一定的傷害。當數量夠多的時候，他們能夠輕易地消滅敵人的漁船和其他弱小單位。
           </p>
-          <br />
           <p>
             戰船在<nuxt-link to="/techs/age/Feudal_Age">封建時代</nuxt-link
             >也是<nuxt-link to="/units/Transport_Ship">運輸船</nuxt-link
@@ -270,8 +269,7 @@
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -372,8 +370,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -766,13 +763,11 @@
                 >
               </p>
             </div>
-            <div class="row">
-              <div class="col-md-4">
-                <gallery
-                  ><img class="imgn hg" src="~assets/GalleyDLC.png" alt=""
-                /></gallery>
-                <p><em>各種戰船(HD擴充資料片)。</em></p>
-              </div>
+            <div class="col-md-4">
+              <gallery
+                ><img class="imgn hg" src="~assets/GalleyDLC.png" alt=""
+              /></gallery>
+              <p><em>各種戰船(HD擴充資料片)。</em></p>
             </div>
           </div>
         </div>

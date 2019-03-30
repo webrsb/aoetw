@@ -21,9 +21,7 @@
           <p>
             卡拉維爾戰船可在<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
-            >升級成<nuxt-link to="/units/Elite_Caravel"
-              >精銳卡拉維爾戰船</nuxt-link
-            >。
+            >升級成精銳卡拉維爾戰船。
           </p>
         </div>
         <h3>戰術</h3>
@@ -281,8 +279,7 @@
                       class="gg"
                       src="~assets/LongboatIcon.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Longboat"
-                      >精銳維京大戰船</nuxt-link
+                    /><nuxt-link to="/units/Longboat">精銳維京大戰船</nuxt-link
                     >(<nuxt-link to="/civs/Vikings">維京</nuxt-link>限定)
                   </li>
                 </ul>
@@ -389,8 +386,7 @@
                       class="gg"
                       src="~assets/CaravelIcon2.jpg"
                       alt=""
-                    /><nuxt-link to="/units/Elite_Caravel"
-                      >精銳卡拉維爾戰船</nuxt-link
+                    /><nuxt-link to="/units/Caravel">精銳卡拉維爾戰船</nuxt-link
                     >(<nuxt-link to="/civs/Portuguese">葡萄牙</nuxt-link>限定)
                   </li>
                   <li>
@@ -804,7 +800,7 @@
             <td class="unit3">升級到</td>
             <td class="unit4">
               <img class="gg" src="~assets/CaravelIcon2.jpg" alt="" /><nuxt-link
-                to="/units/Elite_Caravel"
+                to="/units/Caravel"
                 >精銳卡拉維爾戰船</nuxt-link
               >
             </td>

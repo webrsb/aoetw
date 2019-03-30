@@ -20,15 +20,8 @@
             ><nuxt-link to="/elements/Conversion">招降</nuxt-link>。
           </p>
           <p>
-            <strong
-              ><span
-                style="margin-right: 5px;"
-                class="glyphicon glyphicon-ok okc"
-                aria-hidden="true"
-              ></span
-              >可生產<nuxt-link to="/civs">文明</nuxt-link>：</strong
-            >
-            <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
+            <b><i class="fas fa-check" style="color: green;"></i>可訓練文明：</b
+            >： <nuxt-link to="/civs/Khmer">高棉</nuxt-link>、<nuxt-link
               to="/civs/Vietnamese"
               >越南</nuxt-link
             >、<nuxt-link to="/civs/Malay">馬來</nuxt-link>、<nuxt-link
@@ -37,10 +30,7 @@
             >。
           </p>
           <p>
-            <em
-              ><nuxt-link to="/units/Battle_Elephant">矛象伕</nuxt-link
-              >影片介紹</em
-            >
+            <em>矛象伕影片介紹</em>
           </p>
           <iframe
             width="560"

@@ -1016,11 +1016,10 @@
           <tr>
             <td class="unit3">升級到</td>
             <td class="unit4">
-              <img
-                class="gg"
-                src="~assets/GenitourIcon.jpg"
-                alt=""
-              />精銳標槍騎兵
+              <img class="gg" src="~assets/GenitourIcon.jpg" alt="" /><nuxt-link
+                to="/units/Genitour"
+                >精銳標槍騎兵</nuxt-link
+              >
             </td>
           </tr>
           <tr>
