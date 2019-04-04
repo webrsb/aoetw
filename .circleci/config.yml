@@ -20,6 +20,7 @@ jobs:
         - master
     steps:
       - checkout
+      - run: sudo apt-get update
       - run: sudo apt install rsync
 
       # Download and cache dependencies
