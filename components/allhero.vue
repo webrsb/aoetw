@@ -92,7 +92,7 @@
               <nuxt-link to="/units/hero/Admiral_Yi_Sun_Shin">李舜臣將軍</nuxt-link>·
               <nuxt-link to="/units/hero/Alexander_Nevski">亞歷山大·涅夫斯基</nuxt-link>·
               <nuxt-link to="/units/hero/Attila_the_Hun">匈奴王阿提拉</nuxt-link>·
-              <nuxt-link to="/units/hero/El_Cid_Campeador">羅德里高·迪亞茲·熙德</nuxt-link>·
+              <nuxt-link to="/units/hero/El_Cid">羅德里高·迪亞茲·熙德</nuxt-link>·
               <nuxt-link to="/units/Longbowman">德彬瑞蒂</nuxt-link>·
               <nuxt-link to="/units/hero/Harald_Hardraade">哈囉德哈左德</nuxt-link>·
               <nuxt-link to="/units/hero/Henry_V">亨利五世</nuxt-link>·

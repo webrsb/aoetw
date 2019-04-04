@@ -19,7 +19,7 @@
             >(不過被改名為鬼靈女巫)兩關中登場，也可在地圖編輯器中使用。
           </p>
           <p>
-            斯基泰的野女人使用的模形與<nuxt-link to="/units/hero/Joan_the_Maid"
+            斯基泰的野女人使用的模型與<nuxt-link to="/units/hero/Joan_the_Maid"
               >農家女貞德</nuxt-link
             >一樣，可能也因此才會被剋<nuxt-link to="/armor/Armor_Class_Cavalry"
               >騎兵</nuxt-link

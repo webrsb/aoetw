@@ -29,7 +29,7 @@
             伊滿是數值更優秀的<nuxt-link to="/units/Monk">僧侶</nuxt-link
             >。在征服者入侵中他使用的是一般<nuxt-link to="/units/Monk"
               >僧侶</nuxt-link
-            >的模形，不過到了被遺忘的帝國以後他就有了獨立的模形。伊滿也可以在地圖編輯器中使用。
+            >的模型，不過到了被遺忘的帝國以後他就有了獨立的模型。伊滿也可以在地圖編輯器中使用。
           </p>
           <p>
             作為一個英雄單位，他無法被<nuxt-link to="/elements/Conversion"

@@ -154,6 +154,16 @@
           <div class="n1">
             <div class="row">
               <div class="col-md-4">
+                <h4>眠的小弓開局配置教學</h4>
+                <iframe
+                  width="100%"
+                  src="https://www.youtube.com/embed/SquCThx9lQw"
+                  frameborder="0"
+                  allow="autoplay; encrypted-media"
+                  allowfullscreen
+                ></iframe>
+              </div>
+              <div class="col-md-4">
                 <h4>台灣no.1雲vs越南chip <br />不列顛對決 <br /></h4>
                 <iframe
                   width="100%"

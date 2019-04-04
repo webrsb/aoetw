@@ -939,13 +939,21 @@
               <i class="fas fa-arrow-down"></i>
             </td>
             <td class="t10 trm">
-              <img class="gg" style="margin: 2px;"
-              src="~assets/Gillnetsicon.jpg" / alt="">
+              <img
+                class="gg"
+                style="margin: 2px;"
+                src="~assets/Gillnetsicon.jpg"
+                alt=""
+              />
               <div><nuxt-link to="/techs/Gillnets">流刺網</nuxt-link></div>
             </td>
             <td class="t10 trm">
-              <img class="gg" style="margin: 2px;" src="~assets/Careening.jpg" /
-              alt="">
+              <img
+                class="gg"
+                style="margin: 2px;"
+                src="~assets/Careening.jpg"
+                alt=""
+              />
               <div><nuxt-link to="/techs/Careening">傾側維修術</nuxt-link></div>
               <i class="fas fa-arrow-down"></i>
             </td>

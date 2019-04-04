@@ -18,8 +18,8 @@
           </p>
           <p>
             在<nuxt-link to="/games/aoc">《世紀帝國II:征服者入侵》</nuxt-link
-            >版本中，<nuxt-link to="/units/Eagle_Scout">鷹斥侯</nuxt-link
-            >只能在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
+            >版本中，<b>鷹斥侯</b>只能在<nuxt-link to="/techs/age/Castle_Age"
+              >城堡時代</nuxt-link
             >生產。到了<nuxt-link to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >可以直接升為
