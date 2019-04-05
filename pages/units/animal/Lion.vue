@@ -16,7 +16,7 @@
           >中的<nuxt-link to="/units/Villager">村民</nuxt-link
           >或軍事單位。如果村民沒有<nuxt-link to="/techs/Loom"
             >織布技術</nuxt-link
-          >而且被獅子先手的的話很容易會成為獅子口下的犧牲品(除了<nuxt-link
+          >而且被獅子先手的話很容易會成為獅子口下的犧牲品(除了<nuxt-link
             to="/civs/Magyars"
             >馬扎爾</nuxt-link
           >村民外)。獅子主要出現在非洲地圖上。

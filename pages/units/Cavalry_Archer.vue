@@ -317,7 +317,7 @@
         <div class="n1 bonuses">
           以下單位擁有對馬弓騎兵系的額外傷害，按照傷殺力排列。
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
               <div style="margin:12px 0px;"><strong>+32攻擊</strong></div>
               <ul>
                 <li>
@@ -417,7 +417,7 @@
                 </li>
               </ul>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
               <div style="margin:12px 0px;"><strong>+8攻擊</strong></div>
               <ul>
                 <li>

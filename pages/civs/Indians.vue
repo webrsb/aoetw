@@ -28,7 +28,7 @@
               to="/techs/Shatagni"
               >印度火槍</nuxt-link
             >的<nuxt-link to="/techs/untech">特殊科技</nuxt-link
-            >。印度這區塊一直以來都有豐富的的資源，因此<nuxt-link
+            >。印度這區塊一直以來都有豐富的資源，因此<nuxt-link
               to="/techs/age/Castle_Age"
               >城堡時代</nuxt-link
             >特殊科技<nuxt-link to="/techs/Sultans">蘇丹</nuxt-link

@@ -14,7 +14,7 @@
             >，能夠在<nuxt-link to="/techs/age/Castle_Age">城堡時代</nuxt-link
             >的
             <nuxt-link to="/building/Castle">城堡</nuxt-link
-            >中訓練。彎刀勇士是是個快速、高攻擊、生產速度快但脆弱的單位。彎刀勇士可以在<nuxt-link
+            >中訓練。彎刀勇士是個快速、高攻擊、生產速度快但脆弱的單位。彎刀勇士可以在<nuxt-link
               to="/techs/age/Imperial_Age"
               >帝王時代</nuxt-link
             >升級為<nuxt-link to="/units/Shotel_Warrior">精銳彎刀勇士</nuxt-link

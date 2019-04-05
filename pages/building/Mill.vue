@@ -32,7 +32,7 @@
             <nuxt-link to="/units/animal/Wild_Boar">野豬</nuxt-link
             >這種可以驅趕或引誘至<nuxt-link to="/building/Town_Center"
               >城鎮中心</nuxt-link
-            >的的動物就沒有必要再為了牠們而去建造。而實際上在高手對戰中，也很少為了<nuxt-link
+            >的動物就沒有必要再為了牠們而去建造。而實際上在高手對戰中，也很少為了<nuxt-link
               to="/units/animal/Deer"
               >鹿群</nuxt-link
             >而去蓋磨坊，他們多數是用驅趕的。
